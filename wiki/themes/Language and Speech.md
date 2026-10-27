@@ -472,7 +472,19 @@ the unequal contest yet continues to address God. See
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The servant's curse — Ecclesiastes 7:21–22
+
+*"Also don’t take heed to all words that are spoken, lest you hear your servant curse you;
+for often your own heart knows that you yourself have likewise cursed others"* (7:21–22).
+The counsel concerns hearing, not speaking: not every word deserves attention, and one's own
+speech is the measure for forbearance. Proverbs 30:10 imagines a servant's curse from the
+other side, as the consequence of slandering him to his master.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:21–22; words not to take to heart, and one's own curses remembered.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; many words create vanity; their profit is questioned.
 

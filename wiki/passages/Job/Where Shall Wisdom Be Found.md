@@ -242,6 +242,8 @@ king over all the sons of pride"* (41:34).
 - Proverbs 2:4–6 — [[If You Seek Her as Silver]]: the miner's search for silver and hidden treasure
   as the model for a search for wisdom that *succeeds*; the contradiction with 28:1–11, 21 is recorded
   on that page and in [[Wisdom]].
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:23–24, wisdom far off and exceedingly deep. See
+  [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
 
 ## Notes
 

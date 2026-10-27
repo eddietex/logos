@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:20.
+
 - [[The Words of Agur]] — Proverbs 30:12.
 
 
@@ -135,6 +137,21 @@ no warrant to infer secret guilt from another person’s suffering.
 
 See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
 no new source-language identity is claimed.
+
+### Ecclesiastes 7:20 in context
+
+*"Surely there is not a righteous man on earth, who does good and doesn’t sin"* (7:20). 1 Kings
+8:46 says in a parenthesis, *"for there is no man who doesn’t sin"* (WEB, verified at
+bible-api.com, 2026-10-27). Ecclesiastes places the statement five verses after a righteous
+man who *perishes in his righteousness* (7:15): the universal does not erase the description
+*righteous*, and it is not offered as the reason the righteous man perished. In that order it
+does what this page says the friends in Job failed to do — it keeps the doctrine of universal
+sin apart from the diagnosis of a particular sufferer. 7:29 adds the Preacher's account of
+where it came from: God made man upright, but they search for many schemes. See
+[[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]].
+
+See [[Righteousness and Wisdom Under Question]]. Sources: stored WEB Ecclesiastes 7:15, 20, 29;
+1 Kings 8:46 verified as above. No source-language claim.
 
 ## Significance
 

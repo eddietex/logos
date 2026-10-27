@@ -703,7 +703,20 @@ find out what comes after (14). Asking why former days were better is called unw
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Wisdom far off — Ecclesiastes 7:15–29
+
+Wisdom is ranked as a strength more than ten rulers in a city (7:19), yet the Preacher warns
+against making oneself overly wise (16). He reports that he resolved to be wise and wisdom was
+far from him: *"That which is, is far off and exceedingly deep. Who can find it out?"* (23–24).
+He sought wisdom and the scheme of things (25) and found, among few findings, that God made
+man upright but they search for many schemes (29). Practical strength and comprehension of
+what is are distinguished without comment.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29; wisdom a strength, yet far off and beyond finding out.
 
 - [[The House of Mourning]] — Ecclesiastes 7:1–14; wisdom ranked, corruptible, protective, and limited before God’s work.
 

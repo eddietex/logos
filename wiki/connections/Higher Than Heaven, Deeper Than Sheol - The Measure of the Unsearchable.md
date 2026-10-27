@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:23–24.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
 
 - **Job 11:7–9** — Zophar: *"Can you fathom the mystery of God? Or can you probe the limits of the
@@ -112,6 +114,20 @@ Ecclesiastes speaks of the scope of God's work across time. Neither human limita
 an accusation that a particular sufferer is guilty. Ecclesiastes also retains positive
 knowledge and action: rejoicing and doing good (3:12), enjoyment as gift (13), and God's
 enduring work (14). Sources: stored WEB Job 28:12–28; Ecclesiastes 3:1–15.
+
+### Far off and exceedingly deep — Ecclesiastes 7:23–24
+
+*"I said, “I will be wise”; but it was far from me. That which is, is far off and exceedingly
+deep. Who can find it out?"* (7:23–24). Where 3:11 put God's whole work beyond finding out,
+7:24 puts *that which is* beyond reach, in the same dimensions of distance and depth that
+Zophar used (Job 11:8) and in the form of Job 28's question about where wisdom is found. The
+Preacher speaks of his own failed resolution rather than of another person's ignorance. He
+keeps searching anyway (7:25), and the one finding he offers without qualification concerns
+humanity, not the depths: God made man upright, but they search for many schemes (29). The
+English parallels are thematic; no Hebrew identity of vocabulary with Job is claimed.
+
+See [[Righteousness and Wisdom Under Question]]. Sources: stored WEB Ecclesiastes 3:11; 7:23–29;
+Job 11:7–9; 28:12, 20–21.
 
 ## Significance
 

@@ -188,6 +188,8 @@ and the walking in the cool of the day.
 - Ezekiel 28:13–16 — a proud king in Eden, expelled from the mountain of God by a guardian cherub.
 - Job 31:33 and Hosea 6:7 — both possibly *"like Adam"*, both textually contested.
 - [[The Field of the Sluggard]] — Proverbs 24:30–31, a field left to thorns.
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:29, an upright making followed by humanity's many schemes. See
+  [[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]].
 
 ## Notes
 

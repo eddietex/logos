@@ -227,7 +227,21 @@ the unit itself.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The woman more bitter than death — Ecclesiastes 7:26
+
+The Preacher finds *"more bitter than death the woman whose heart is snares and traps, whose
+hands are chains"*; the one who pleases God escapes her, the sinner is caught (7:26). The
+imagery matches Proverbs' adulteress — bitter in the end, going down to death, a deep pit for
+the one under Yahweh's wrath (Proverbs 5:4–5; 22:14) — though the verse does not use the word
+*adulteress*. The relative clause defines which woman is meant; the verse is not a statement
+about women in general. 7:28's count is harder and is discussed on the passage page. See
+[[More Bitter Than Death - Ecclesiastes 7.26, Proverbs 5.4, and 22.14]].
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:26; the ensnaring woman, read against Proverbs' adulteress.
 
 - [[The Words of King Lemuel]] — Proverbs 31:3; The warning concerns destructive expenditure of
   royal strength without naming a specific offense.

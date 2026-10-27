@@ -103,6 +103,8 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
   household-wide obligation to rest.
 
 - [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] — Exodus 39:32–43; a literary parallel with differing order and recipients of blessing.
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:29, God made man (*hā'ādām*) upright. See
+  [[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]].
 
 ## Notes
 

@@ -374,6 +374,8 @@ a valley floor where a burial could actually be dug. No named place.
 - [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]] — Job 21:23–26's two deaths
   and Ecclesiastes 2:14–16's wise man and fool: death the leveller, used as argument by Job and as
   grief by the Preacher. See [[The Wise and the Fool Share One End]].
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15 reports a wicked man living long and a righteous man perishing. See
+  [[The Prosperity of the Wicked]].
 
 ## Notes
 

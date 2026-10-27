@@ -211,6 +211,8 @@ images, not identifiable locations requiring place pages.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:13, a repeat of 20:16 with small Hebrew differences.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2–6; the heart hasty to utter before God, and the
   unpaid vow. See [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:20, no righteous man who does good and doesn't sin, beside 20:9. See
+  [[What Is Man That He Should Be Clean]].
 
 ## Notes
 

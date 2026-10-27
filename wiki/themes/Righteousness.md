@@ -327,7 +327,20 @@ wealth do not label every poor person wicked or every wealthy person righteous.
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### The righteous who perish — Ecclesiastes 7:15–29
+
+The Preacher reports a righteous man who perishes in his righteousness beside a wicked man
+who lives long (7:15), then warns, *"Don’t be overly righteous"* (16). What *overly* means is
+not defined; self-righteousness, rigor, and righteousness used as a guarantee are readings,
+not the text's words. Verse 20 adds that no one on earth is righteous in the sense of doing
+good without sin, while the passage continues to call people righteous. Righteousness is
+real and named, yet neither secures an outcome (15) nor amounts to sinlessness (20).
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–20; the righteous who perish, the overly righteous, and none without sin.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; righteousness violated by oppression, not disproved by poverty.
 

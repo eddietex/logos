@@ -182,6 +182,8 @@ trapped man has sinned. See [[Retribution]].
 - [[The Lamp of the Commandment]] — Proverbs 6:20–35; the strange woman's second lecture, which
   names her *a man's wife* and takes up *ḥēq*, the bosom, as the lap that holds fire (6:27).
 - [[The Young Man Void of Understanding]] — Proverbs 7:1–27; her third lecture, told as a scene, ending again at Sheol (7:27).
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:26 finds more bitter than death the woman whose heart is snares. See
+  [[More Bitter Than Death - Ecclesiastes 7.26, Proverbs 5.4, and 22.14]].
 
 ## Notes
 

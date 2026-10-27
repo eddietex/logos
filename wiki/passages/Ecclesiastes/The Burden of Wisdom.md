@@ -111,6 +111,7 @@ nation, consistent with Proverbs 1:1's *"king of Israel"*.
   1:17, and 2:13 ranks wisdom above folly, so 1:18's grief is a cost and not a rejection.
 - [[The House of Mourning]] — Ecclesiastes 7:13 takes up 1:15: *"who can make that straight, which he has
   made crooked?"* The crooked is now attributed to God's work.
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:23–25 takes up 1:13, 17's search into wisdom, madness, and folly, and reports wisdom far off.
 
 ## Notes
 

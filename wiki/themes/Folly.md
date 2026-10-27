@@ -386,7 +386,18 @@ bosom of fools (9). Folly can also be produced: extortion makes the wise man foo
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Folly as madness — Ecclesiastes 7:17, 25
+
+*"Don’t be too wicked, neither be foolish. Why should you die before your time?"* (7:17).
+The Preacher seeks *"to know that wickedness is stupidity, and that foolishness is madness"*
+(25), joining moral and intellectual failure. Verse 17 does not commend a moderate amount of
+folly; the paired warnings of 16–17 are grounded in the fear of God (18).
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:17, 25; folly that brings death before one's time; foolishness as madness.
 
 - [[The House of Mourning]] — Ecclesiastes 7:4–9; the house of mirth, crackling thorns, anger in the bosom of fools.
 

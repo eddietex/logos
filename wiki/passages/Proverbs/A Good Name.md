@@ -178,6 +178,8 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:12, a repeat of 22:3; 27:22, the fool whose folly no pounding removes, beside 22:15's rod.
 - [[The House of Mourning]] — Ecclesiastes 7:1 ranks a good name above fine perfume, beside the day of death. See
   [[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]].
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:26, the one who pleases God escaping and the sinner caught, beside 22:14. See
+  [[More Bitter Than Death - Ecclesiastes 7.26, Proverbs 5.4, and 22.14]].
 
 ## Notes
 

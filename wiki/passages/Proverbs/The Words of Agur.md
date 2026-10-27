@@ -109,6 +109,7 @@ looks down on others, and consumes poor people with teeth likened to weapons (11
 - [[Four Things]] — the rest of Agur's words, Proverbs 30:15–33
 - [[The Burden of Wisdom]] — Ecclesiastes 1:16, the Preacher's claim of great wisdom, against Agur's *"I have not
   learned wisdom"* (30:3). See [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:21–22, a servant's curse not to be listened for, beside 30:10's curse provoked by slander.
 
 ## Notes
 

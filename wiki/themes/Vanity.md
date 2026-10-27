@@ -134,7 +134,17 @@ not a verdict of vanity on everything; it discriminates.
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### My days of vanity — Ecclesiastes 7:15
+
+The Preacher sets his observation of the righteous who perish *"in my days of vanity"*
+(7:15) — the vanity word applied to the span of his own life, as 6:12 spoke of the days of
+a vain life.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15; the Preacher's own days of vanity.
 
 - [[The House of Mourning]] — Ecclesiastes 7:6; the fool’s laughter called vanity amid better-than sayings.
 

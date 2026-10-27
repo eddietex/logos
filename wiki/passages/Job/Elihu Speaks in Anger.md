@@ -350,6 +350,7 @@ opposite.
 - Hebrews 12:11 — *"All chastening seems for the present to be not joyous but grievous"*.
 - Jeremiah 25:23 — *"Dedan, Tema, Buz"*.
 - [[A Strong Tower]] — Proverbs 18:13, 17; answering before hearing, and the *searching out* (*ḥqr*) of 32:11.
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:16 warns against being overly righteous (compare 32:1–2, thematic only); 7:28's *one … among a thousand* recurs in the WEB of 33:23 in an unrelated context.
 
 ## Notes
 

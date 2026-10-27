@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15.
+
 - [[Where There Is No Vision]] — Proverbs 29:2, 6, 10, 14, 16, 25.
 
 - [[Do Not Envy Sinners]] — Proverbs 23:17–18; 24:1–2.
@@ -230,6 +232,19 @@ guilt.
 
 See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
 source-language claim.
+
+### The righteous man who perishes — Ecclesiastes 7:15
+
+[[Righteousness and Wisdom Under Question]] states the counter-evidence as something seen:
+*"there is a righteous man who perishes in his righteousness, and there is a wicked man who
+lives long in his evildoing"* (7:15). Job 21:7 asks why the wicked live and grow old;
+Ecclesiastes reports it without a question. The Preacher's response is counsel, not
+explanation: avoid both excess and wickedness, and fear God, who brings the one who fears him
+out of them all (16–18). He has already affirmed that God will judge the righteous and the
+wicked (3:17), and 8:12–14 will set the affirmation and the observation side by side again.
+Neither is withdrawn.
+
+Sources: stored WEB Ecclesiastes 3:17; 7:15–18; 8:12–14; Job 21:7. No source-language claim.
 
 ## Significance
 

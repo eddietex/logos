@@ -314,7 +314,21 @@ while sacrificing.
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### None who does good without sin — Ecclesiastes 7:15–29
+
+*"Surely there is not a righteous man on earth, who does good and doesn’t sin"* (7:20) — the
+book's general statement of human sinfulness, beside Proverbs 20:9 and 1 Kings 8:46 (see
+[[What Is Man That He Should Be Clean]]). The sinner is ensnared by the woman of 7:26, and 7:29
+traces the many schemes to humanity after an upright making (see
+[[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]]). As in Job, the general
+statement does not diagnose a particular sufferer; the righteous man of 7:15 perishes without
+any charge being laid.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:20, 26, 29; no one without sin; the sinner ensnared; many schemes.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1, 6; The mouth leading into sin, and an unpaid vow excused as a mistake.
 

@@ -102,7 +102,18 @@ work: joy in prosperity, consideration in adversity (14). Preferring mourning to
 stands in tension with his earlier commendations of enjoyment, which the passage page keeps
 explicit. Source: stored WEB Ecclesiastes 7:1–14.
 
+In [[Righteousness and Wisdom Under Question]] he returns to first-person report (7:15–29).
+He has seen a righteous man perish and a wicked man live long (15), counsels against being overly righteous and too wicked
+on the ground of the fear of God (16–18), and grants that no one does good without sin (20).
+He resolved to be wise and found wisdom far off (23–24); his search for the scheme of things
+yields a woman more bitter than death (26), one man among a thousand (28), and the finding that
+God made man upright (29). At 7:27 he is named by title — *"says the Preacher"* — for the
+first time since 1:12; the Hebrew verb form there is discussed with its uncertainty on the
+passage page. Source: stored WEB Ecclesiastes 7:15–29.
+
 ## Timeline / key events
+
+- Ecclesiastes 7:15–29 — [[Righteousness and Wisdom Under Question]]; reversed outcomes, the fear of God, and a search that finds little.
 
 - Ecclesiastes 7:1–14 — [[The House of Mourning]]; better-than sayings on death, mourning, wisdom, and God's work.
 
@@ -137,6 +148,8 @@ explicit. Source: stored WEB Ecclesiastes 7:1–14.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29; reporter of the search, named by title at 7:27.
 
 - [[The House of Mourning]] — Ecclesiastes 7:1–14; speaker of the better-than sayings.
 

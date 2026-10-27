@@ -80,7 +80,19 @@ See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### God made man upright — Ecclesiastes 7:29
+
+*"God made man upright; but they search for many schemes"* (7:29). The Hebrew object is
+*'et-hā'ādām*, as in Genesis 1:27 (Sefaria, *Miqra according to the Masorah*, read 2026-10-27);
+the verbs differ, and Ecclesiastes does not use the word *image*. The verse affirms an upright
+making and attributes the many schemes to humanity. See
+[[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]].
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:29; humanity made upright, then seeking many schemes.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Human distinction set beside the denial of advantage in death.
 

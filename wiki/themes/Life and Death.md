@@ -516,7 +516,18 @@ preserves the life of the one who has it (12). The text does not explain how; se
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Dying before one's time — Ecclesiastes 7:15–29
+
+The righteous man perishes and the wicked man lives long (7:15); folly and wickedness risk
+dying before one's time (17), and overmuch righteousness or wisdom risks destroying oneself
+(16). The ensnaring woman is found *more bitter than death* (26). Length of life is treated
+as something conduct can affect, yet 7:15 denies that it reliably follows righteousness.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–17, 26; length of life affected by conduct, but not guaranteed by it.
 
 - [[The House of Mourning]] — Ecclesiastes 7:1–2, 12; the day of death above birth, and wisdom preserving life.
 

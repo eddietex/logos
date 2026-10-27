@@ -303,7 +303,19 @@ as the conclusion.
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### He who fears God will come out of them all — Ecclesiastes 7:18
+
+After warnings against being overly righteous and too wicked, the Preacher says to take
+hold of the one without withdrawing the hand from the other, *"for he who fears God will come
+out of them all"* (7:18). The fear of God here grounds conduct where 7:15 has just shown that
+righteousness does not secure an outcome. *Them all* is not specified — the extremes of 16–17,
+or the outcomes of 15 — and the wiki does not resolve it.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:18; the one who fears God comes out of them all.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; The book's first command to fear God, set against many words.
 

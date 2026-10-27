@@ -18167,3 +18167,53 @@ Ecclesiastes 7:1–14. Comparisons read in stored WEB: Ecclesiastes 1:9–11, 15
 claim was made. No raw text was added or changed. `scripts/link-check.sh` passed with no
 wrapped or dangling links beyond the expected 61 unstarted-book baseline; `git diff --check`
 passed. No unresolved issue or deliberately dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 7.15-29 — Righteousness and Wisdom Under Question
+
+Unattended `/ingest auto` by Claude Code; exactly one pericope. Retained the planned title and
+7:15–29 boundary: 7:15 opens a first-person report after the *better than* sayings, the speech
+credited to the Preacher at 7:27 closes at 7:29, and 8:1 turns to a new question and the king's
+command. Ecclesiastes 8:1–9 remains the first unchecked unit. No workflow or harness
+instructions changed. The existing raw Ecclesiastes file was used; no fetch was needed.
+
+**Interpretive decisions.** [[Righteousness and Wisdom Under Question]] does not read 7:16–17
+as a counsel of moderation between virtue and vice; *overly righteous* is left undefined, with
+readings labelled as such, and the counsel is grounded in 7:18's fear of God. 7:15's reversed
+outcomes are kept in explicit tension with 3:17 and 8:12–13. 7:20's universal sinfulness is
+kept apart from any diagnosis of the righteous man of 7:15. 7:26 is read through its relative
+clause as a particular ensnaring woman whose imagery matches Proverbs' adulteress, marked as a
+reading; 7:28's count is recorded as written, with the range of readings and without softening
+or generalizing. 7:29 is kept beside 7:13 (God made the crooked) without a reconciling account.
+No new person, place, or theme was needed; the ensnaring woman and the servant are types.
+
+**Source language.** Hebrew of Ecclesiastes 7:25–29 and Genesis 1:27 read from Sefaria's
+*Miqra according to the Masorah*, 2026-10-27: *ḥešbôn* at 7:25, 27 and *ḥiššəbōnôt* at 7:29;
+*'ādām* at 7:28; *'et-hā'ādām* at both 7:29 and Genesis 1:27. The feminine-looking *'āmərāh*
+at 7:27 is noted with the redivision reading and no position taken.
+
+**Created (3 content pages):** [[Righteousness and Wisdom Under Question]];
+[[More Bitter Than Death - Ecclesiastes 7.26, Proverbs 5.4, and 22.14]];
+[[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]].
+
+**Revised (30 content pages):** the Ecclesiastes book page; God and The Preacher
+(Ecclesiastes); eleven themes (Righteousness, Retribution, Wisdom, Folly, Sin, Sexual Sin,
+Image of God, The Fear of God, Language and Speech, Life and Death, Vanity); four existing
+connections (The Prosperity of the Wicked; What Is Man That He Should Be Clean; Higher Than
+Heaven, Deeper Than Sheol; Two Voices in the Street); twelve reciprocal passages (The House of
+Mourning, The Burden of Wisdom, Wine Is a Mocker, Why Do the Wicked Live, The Strange Woman and
+the Wife of Your Youth, A Good Name, The Young Man Void of Understanding, The Creation of the
+World, The Fall, Where Shall Wisdom Be Found, The Words of Agur, Elihu Speaks in Anger).
+
+**Indexes and totals.** Revised nine indexes: books (16 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, Connections D-H, I-N, O-S, and T-Z. New rows file under G (D-H)
+and M (I-N). Totals by frontmatter type: 203 passages, 187 people, 91 places, 85 themes,
+504 connections.
+
+**Sources and validation.** All primary quotations are exact excerpts of stored WEB
+Ecclesiastes 7:15–29. Comparisons read in stored WEB: Ecclesiastes 1:12–18; 2:15; 3:11, 17;
+6:12; 7:13–14; 8:1, 12–14; 12:8; Genesis 1:27, 31; 3:1–13; Job 11:7–9; 21:7; 28:12–28;
+32:1–2; 33:23; Proverbs 5:3–5; 7:22–27; 20:9; 22:14; 30:10. 1 Kings 8:46 verified at
+bible-api.com with `translation=web`, 2026-10-27; no raw text was added or changed.
+`scripts/link-check.sh` passed with no wrapped or dangling links beyond the expected 61
+unstarted-book baseline; `git diff --check` passed. No unresolved issue or deliberately
+dangling target remains.

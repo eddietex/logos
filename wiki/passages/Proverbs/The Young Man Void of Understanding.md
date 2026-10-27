@@ -335,6 +335,8 @@ and his teaching (7:1–2), and the vocabulary of Sinai (*miṣwâ*, *tôrâ*, *
   absent husband.
 - [[Do Not Envy Sinners]] — Proverbs 23:27–28, the strange woman who *"lies in wait"*, the verb of 7:12.
 - [[The Field of the Sluggard]] — Proverbs 24:30–32, the other first-person scene, and *ḥăsar-lēḇ* again.
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:26 moves 7:22–23's snare into the woman's heart. See
+  [[More Bitter Than Death - Ecclesiastes 7.26, Proverbs 5.4, and 22.14]].
 
 ## Notes
 

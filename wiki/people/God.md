@@ -2328,7 +2328,17 @@ either evil or explaining a particular case. It is the Preacher's statement abou
 divine speech. See [[Good and Adversity from God - Job 2.10 and Ecclesiastes 7.14]]. Source:
 stored WEB Ecclesiastes 1:15; 7:13–14; Job 2:10.
 
+In [[Righteousness and Wisdom Under Question]] the Preacher grounds his counsel in God:
+*"he who fears God will come out of them all"* (7:18). The one who pleases God escapes the ensnaring woman, and the sinner
+is caught (26). His one unqualified finding concerns God's making: God made man upright, but
+they search for many schemes (29). This stands beside 7:13, where God made the crooked; the
+two are kept together without a reconciling account. See
+[[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]]. Source: stored WEB Ecclesiastes
+7:13, 15–29.
+
 ## Timeline / key events
+
+- Ecclesiastes 7:18–29 — [[Righteousness and Wisdom Under Question]]; to be feared; pleased by the one who escapes; made man upright.
 
 - Ecclesiastes 7:13–14 — [[The House of Mourning]]; maker of the crooked, and of prosperity and adversity side by side.
 
@@ -2611,6 +2621,8 @@ stored WEB Ecclesiastes 1:15; 7:13–14; Job 2:10.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:18, 26, 29; the one feared and pleased; maker of man upright.
 
 - [[The House of Mourning]] — Ecclesiastes 7:13–14; the crooked he has made; prosperity and adversity side by side.
 

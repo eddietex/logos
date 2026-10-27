@@ -98,12 +98,19 @@ wise man's rebuke above the fool's song. Wisdom can be corrupted by a bribe (7),
 defends and preserves life (12). God has made the crooked (13) and set prosperity beside
 adversity (14). The preference for mourning stands beside the book's commended enjoyment.
 
+[[Righteousness and Wisdom Under Question]] (7:15–29) reports a righteous man perishing and
+a wicked man living long (15), warns against being overly righteous or overly wise and
+against being too wicked (16–17), and grounds the counsel in the fear of God (18). No one
+does good without sin (20). Wisdom proves far off (23–24); the Preacher finds a woman more
+bitter than death (26), one man among a thousand (28), and one unqualified finding: God made
+man upright, but they search for many schemes (29).
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–7:14 currently has ingested passage pages.
+only 1:1–7:29 currently has ingested passage pages.
 
 ## Structure
 
@@ -137,7 +144,7 @@ merge, or reorder them freely.
 - [x] [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9
 - [x] [[Who Knows What Is Good]] — Ecclesiastes 6:10–12
 - [x] [[The House of Mourning]] — Ecclesiastes 7:1–14
-- [ ] Righteousness and Wisdom Under Question — Ecclesiastes 7:15–29
+- [x] [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29
 - [ ] The King and the Limits of Power — Ecclesiastes 8:1–9
 - [ ] The Wicked Honored and the Work Beyond Finding — Ecclesiastes 8:10–17
 - [ ] One Event Comes to All — Ecclesiastes 9:1–12
@@ -148,6 +155,13 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Righteousness]], [[Retribution]], and [[Sin]] — the righteous who perish and the wicked
+  who live long (7:15), the overly righteous (16), and no one without sin (20).
+- [[The Fear of God]] and [[Image of God]] — the one who fears God comes out of them all
+  (7:18); God made man upright (29).
+- [[Sexual Sin]] and [[Language and Speech]] — the woman more bitter than death (7:26); the
+  servant's curse not to be listened for (21–22).
 
 - [[Mourning and Lament]], [[Life and Death]], and [[Joy and Enjoyment]] — the house of
   mourning above feasting, sorrow above laughter, and joy commanded in prosperity (7:1–14).
@@ -194,7 +208,7 @@ merge, or reorder them freely.
 - [[God]] — giver of burden and enjoyment; his work endures (3:10–15); in heaven, owed paid vows,
   and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20), but also
   gives wealth without that power (6:2), with no reason supplied; makes the crooked and
-  sets prosperity beside adversity (7:13–14).
+  sets prosperity beside adversity (7:13–14); to be feared (7:18); made man upright (7:29).
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

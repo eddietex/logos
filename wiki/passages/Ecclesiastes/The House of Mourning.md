@@ -109,6 +109,7 @@ gathering, not identified sites. No place page is created.
 - [[A Way That Seems Right]] — Proverbs 14:13, *"Even in laughter the heart may be
   sorrowful, and mirth may end in heaviness."* Proverbs observes sorrow hidden in laughter;
   Ecclesiastes 7:3 calls sorrow better.
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29 follows 7:14's limit on finding out with a search that finds little, and 7:29 sets humanity's many schemes beside 7:13's crooked made by God.
 
 ## Notes
 

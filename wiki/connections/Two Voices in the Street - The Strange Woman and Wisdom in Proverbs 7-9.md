@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:26.
+
 - [[Do Not Envy Sinners]] — Proverbs 23:26–28.
 
 - [[A Good Name]] — Proverbs 22:14.
@@ -125,6 +127,19 @@ Agur's adulterous woman (30:20) is drawn in one line, after four ways too amazin
 *"Food eaten in secret is pleasant"* — used the same eating image for the forbidden. Chapter 9 shows
 the appetite; chapter 30 shows the aftermath, a mouth wiped and a denial. See [[Four Things]].
 Source: stored WEB Proverbs 9:17; 30:18–20.
+
+### Ecclesiastes 7:26
+
+The Preacher, seeking wisdom (7:25), finds *"more bitter than death the woman whose heart is
+snares and traps, whose hands are chains"* (7:26). The one who pleases God escapes her; the
+sinner is caught. The imagery is the strange woman's — bitterness (Proverbs 5:4), death and
+Sheol (5:5; 7:27), the snare (7:23), and the pit for the one under Yahweh's wrath (22:14) —
+though the verse does not name adultery. Unlike Proverbs 1–9, Ecclesiastes sets no personified
+Wisdom beside her; the Preacher reports wisdom as far from him (7:23–24). See
+[[More Bitter Than Death - Ecclesiastes 7.26, Proverbs 5.4, and 22.14]].
+
+See [[Righteousness and Wisdom Under Question]]. Sources: stored WEB Ecclesiastes 7:23–26;
+Proverbs 5:4–5; 7:23, 27; 22:14. No source-language claim.
 
 ## Significance
 

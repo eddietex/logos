@@ -527,7 +527,20 @@ its close and supplies no timetable for one.
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### A righteous man perishes — Ecclesiastes 7:15
+
+*"There is a righteous man who perishes in his righteousness, and there is a wicked man who
+lives long in his evildoing"* (7:15). The observation is not explained or withdrawn. **Explicit
+tension:** 3:17 affirms that God will judge the righteous and the wicked, and 8:12–13 will
+affirm that it will be better with those who fear God; 7:15 and 8:14 report outcomes reversed.
+The book holds both. The counsel that follows (7:16–18) grounds conduct in the fear of God
+rather than in an expected return.
+
+See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
+
 ## Key passages
+
+- [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15; reversed outcomes observed and left standing.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Oppressors retain power; their victims are not accused of guilt.
 
