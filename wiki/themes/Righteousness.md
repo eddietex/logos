@@ -251,6 +251,14 @@ Proverbs comes, in a single line, to the experience the book of Job narrates.
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### The verdict reversed — Proverbs 24:24
+
+*"He who says to the wicked, 'You are righteous'"* (24:24): the Hebrew verdict is one word,
+*ṣaddîq*. Righteousness in the court is a declaration, and a false one is cursed — the same act 17:15
+calls an abomination to Yahweh.
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:3, 12, 15, 18, 21, 26; Justice done with joy, pursued, and generous.
@@ -453,6 +461,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[If You Seek Her as Silver]] — Proverbs 2:9, 20; righteousness, justice, and equity (1:3) understood; the paths of the righteous
 - [[Wisdom Calls at the Gates]] — Proverbs 8:8, 15–16, 18, 20; Wisdom's words in righteousness, her road of justice, and *ṣəḏāqâ* (WEB *"prosperity"*) among her gifts
 - [[Through Wisdom a House Is Built]] — Proverbs 24:15–16; The righteous man falls seven times and rises.
+- [[The Field of the Sluggard]] — Proverbs 24:24; *"You are righteous"* said to the wicked, and cursed.
 
 ## Related themes
 

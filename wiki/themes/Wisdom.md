@@ -484,6 +484,14 @@ Bezalel for the tabernacle (Exodus 31:3). The block then makes wisdom stronger t
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Wisdom by observation — Proverbs 24:32
+
+*"Then I saw, and considered well. I saw, and received instruction"* (24:32). The appendix of
+*"sayings of the wise"* ends by stating the book's method outright: wisdom is learned by looking at
+the world — here, at a neighbour's ruined vineyard — and reflecting on it.
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -685,6 +693,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[Thirty Excellent Things]] — Proverbs 22:17–21; 23:4, 9; The words of the wise, written to be kept, spoken, and reported truly.
 - [[Do Not Envy Sinners]] — Proverbs 23:12, 15, 19, 23–24; The wise heart that gladdens a father; truth bought and not sold.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–7, 13–14; Wisdom builds and fills the house, wins the war, and is honey to the soul.
+- [[The Field of the Sluggard]] — Proverbs 24:23, 32; The second *"sayings of the wise"*; instruction received by looking.
 
 ## Related themes
 

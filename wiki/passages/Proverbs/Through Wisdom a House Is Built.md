@@ -212,6 +212,7 @@ next queue item.
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:3, wisdom, understanding, and knowledge for the tabernacle.
 - [[Laws of Holiness and Compassion]] — Exodus 22:28, God and the ruler named together.
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:18–19, the house that fell on Job's children.
+- [[The Field of the Sluggard]] — Proverbs 24:23–34, the appendix that follows; 24:27's field and house, and 24:29's forbidden *"I will render"*.
 
 ## Notes
 

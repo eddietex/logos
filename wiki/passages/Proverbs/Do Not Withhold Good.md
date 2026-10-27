@@ -153,6 +153,7 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
   guardian: the teaching that leads and keeps watch.
 - [[Do Not Envy Sinners]] — Proverbs 23:17; 24:1, envy of sinners forbidden twice more.
 - [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]] — Proverbs 3:31.
+- [[The Field of the Sluggard]] — Proverbs 24:28, the witness *without cause* (*ḥinnām*, as at 3:30).
 
 ## Notes
 

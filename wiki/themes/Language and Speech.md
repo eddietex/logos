@@ -330,6 +330,15 @@ at 23:31. The drunkard is given the last speech in the block (23:35), and his wo
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### The honest answer and the needless witness — Proverbs 24:26, 28
+
+*"An honest answer is like a kiss on the lips"* (24:26) — in Hebrew without *like*: *lips he kisses,
+who returns right words*. Two verses later the opposite: *"Don't be a witness against your neighbor
+without cause. Don't deceive with your lips"* (24:28). Straight speech is a gesture of loyalty; false
+testimony is the instrument of revenge (24:29).
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -589,6 +598,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[A Good Name]] — Proverbs 22:11–12, 14; Gracious lips, frustrated words, and the adulteress's mouth.
 - [[Thirty Excellent Things]] — Proverbs 22:18, 21; 23:8–9; Words ready on the lips, reliable answers, good words wasted.
 - [[Do Not Envy Sinners]] — Proverbs 23:16, 35; 24:2; Lips that speak what is right, the drunkard's speech, and lips that talk mischief.
+- [[The Field of the Sluggard]] — Proverbs 24:26, 28; The honest answer as a kiss; the witness without cause.
 
 ## Related themes
 

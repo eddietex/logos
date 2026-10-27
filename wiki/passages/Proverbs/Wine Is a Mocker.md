@@ -196,6 +196,7 @@ images, not identifiable locations requiring place pages.
 - [[Do Not Envy Sinners]] — Proverbs 23:20–21, 29–35, the drunkard's portrait that 20:1 anticipates.
 - [[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]].
 - [[Through Wisdom a House Is Built]] — Proverbs 24:6, war waged by wise guidance, reworking 20:18.
+- [[The Field of the Sluggard]] — Proverbs 24:29, *"Don't say, 'I will do to him as he has done to me.'"*
 
 ## Notes
 

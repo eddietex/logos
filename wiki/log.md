@@ -16951,3 +16951,46 @@ are marked so at the point of claim: whether *ṣārāh* and *ṣar* share a roo
 *riḇṣô*, and the derivation of *šônîm*. The Hebrew of Exodus 35:31 and the Greek of Romans 2:6,
 Matthew 16:27, and 1 Peter 2:17 were not checked, and the connection pages say so.
 `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 24.23-34 — The Field of the Sluggard
+
+Ingested [[The Field of the Sluggard]], keeping the planned Proverbs 24:23–34 boundary and title and
+advancing exactly one queue item. 24:23 opens with its own heading, *"These also are sayings of the
+wise"*, and 25:1 opens the Hezekian collection. The unattended discussion is written into the passage
+page: partiality in judgment and the acquittal of the wicked (23–25); the honest answer as a kiss
+(26); the field before the house (27); the witness without cause and the refused talion (28–29); and
+the walk past the sluggard's vineyard, with the saying of 6:10–11 received again (30–34).
+
+**Interpretive decisions.** The appendix is read as moving wisdom out of the lecture and into the
+court, the field, and the neighbourhood, with speech as its thread. Yahweh is not named in the twelve
+verses, and the page says so; [[God]] is not revised. 24:29 is read as the motive for 24:28's needless
+witness, and as forbidding to the son the phrase 24:12 gives to God. Whether *build your house* (24:27)
+means marriage is left undecided. Genesis 3:18 and Isaiah 5:5–6 are compared with 24:30–31 without a
+claim of allusion; the plant words are not identified. No person, place, or theme page was created;
+the generic figures get no pages. The *Amenemope* comparison stays unverified.
+
+**Created (3):** the passage and two connections:
+- [[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]]
+- [[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]]
+
+**Revised content pages (29):** [[Proverbs]] (box, overview paragraph, two key themes); 10 theme
+pages, each with a section and a key-passage entry (Judgment, Righteousness, Curse, Language and
+Speech, Vengeance, Work, Folly, Wealth and Possessions, Wisdom, Retribution); 5 existing connections
+(Go to the Ant, A Bribe Blinds, A False Witness Shall Not Be Unpunished, Wait for Yahweh, According to
+His Work), with the *not yet ingested* labels on 24:29 and 24:30–34 replaced by links; and 13 earlier
+passage pages with reciprocal references (ten in Proverbs, two in Genesis, one in Job).
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index (10 rows), and
+Connections Index A-C, D-H, and T-Z (two new rows filed under A and V; five rows extended; no range
+redraw needed). Proverbs is now 34 / 43 pericopes and remains in progress. Counts by frontmatter are
+178 passages, 179 people, 90 places, 83 themes, and 462 connections.
+
+**Sources and validation.** All Proverbs, Genesis, Exodus, and Job quotations were copied from the
+stored WEB. Deuteronomy 1:17, Deuteronomy 19:18–19, Leviticus 24:19–20, Isaiah 5:1–7, Hebrews 6:7–8,
+and Matthew 5:38–39 were verified at bible-api.com with `translation=web` on 2026-10-26. No unreached
+book was fetched, and existing raw files are unchanged. Hebrew of Proverbs 1:10–11; 3:30; 6:10–11;
+7:7; 15:19; 20:22; 24:23–34; 28:21, Deuteronomy 1:17; 16:19, Leviticus 24:19–20, Genesis 3:18, and
+Isaiah 5:5–6 was read from Sefaria's *Miqra according to the Masorah* on 2026-10-26. The gloss of
+*zāʿam* was not checked against a lexicon and is marked so at the point of claim; the Hebrew of
+Deuteronomy 19:19 and the Greek of Matthew 5:38–39 and Hebrews 6:7–8 were not checked, and the pages
+say so. `scripts/link-check.sh` exits 0.

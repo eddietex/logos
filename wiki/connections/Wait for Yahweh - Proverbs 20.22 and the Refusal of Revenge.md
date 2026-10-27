@@ -12,6 +12,7 @@ tags: [connection]
 - [[The Crossing of the Sea]] — Exodus 14:13–14.
 - [[Job's Oath of Innocence]] — Job 31:29–30.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18.
+- [[The Field of the Sluggard]] — Proverbs 24:29.
 
 ## Analysis
 
@@ -44,6 +45,18 @@ only the act of revenge but the pleasure of watching it arrive. 24:29, in the ne
 20:22's form: *"Don't say, 'I will do to him as he has done to me.'"*
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 20:22; 24:17–18, 29.
+
+### The talion refused — Proverbs 24:29
+
+*"Don't say, 'I will do to him as he has done to me; I will render to the man according to his
+work.'"* The third *"Don't say"* of this kind returns to 20:22's form, a forbidden sentence quoted
+in the first person. Its first half is the law's retaliation formula, *as he has done, so shall it be
+done to him* (Leviticus 24:19), made a private resolve; its second half is 24:12's description of
+what God does. The son may not take either into his own mouth. See
+[[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:12, 29; Leviticus 24:19 WEB verified
+at bible-api.com, 2026-10-26; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
 ## Significance
 

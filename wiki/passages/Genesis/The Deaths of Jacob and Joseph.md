@@ -553,6 +553,7 @@ Torah ends on is buried in the land.** See [[Burial and the Grave]] and
   and named here
 - [[A Dry Morsel with Quietness]] — Proverbs 17:6; *"Children's children are the crown of old men"*, beside 50:23.
 - [[A Strong Tower]] — Proverbs 18:19; *nip̄šāʿ*, the brother sinned against, and the brothers' *pešaʿ* (50:17).
+- [[The Field of the Sluggard]] — Proverbs 24:29, the talion refused as a private resolve (Genesis 50:19).
 
 ## Notes
 

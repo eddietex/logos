@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Field of the Sluggard]] — Proverbs 24:27, 30–34.
+
 - [[A Good Name]] — Proverbs 22:13.
 
 - [[The King's Heart]] — Proverbs 21:25.
@@ -17,7 +19,7 @@ tags: [connection]
   ant, you sluggard. Consider her ways, and be wise"* (6:6); *"A little sleep, a little slumber, a
   little folding of the hands to sleep: so your poverty will come as a robber, and your scarcity as
   an armed man"* (6:10–11).
-- **Proverbs 24:30–34** *(not yet ingested)* — *"I went by the field of the sluggard, by the
+- **Proverbs 24:30–34** — [[The Field of the Sluggard]]: *"I went by the field of the sluggard, by the
   vineyard of the man void of understanding; Behold, it was all grown over with thorns … Then I
   saw, and considered well. I saw, and received instruction: a little sleep, a little slumber, a
   little folding of the hands to sleep; so your poverty will come as a robber, and your want as an
@@ -88,6 +90,20 @@ Proverbs 26:13 (stored, not yet ingested) repeats it: *"There is a lion in the r
 roams the streets!"*
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22:13; 26:13; no new source-language claim.
+
+### The field of the sluggard — Proverbs 24:27, 30–34
+
+The doublet's second placement is now ingested. The observation is framed by an unwritten contrast
+three verses earlier: *"Prepare your work outside, and get your fields ready. Afterwards, build your
+house"* (24:27). The sluggard's field is the field that was never readied. Its owner is *"the man void
+of understanding"*, *ʾāḏām ḥăsar-lēḇ* — the phrase of the *"young man void of understanding"* at 7:7,
+the other scene Proverbs narrates in the first person — and the speaker's response, *"I saw, and
+considered well. I saw, and received instruction"* (24:32), is the observational method of 6:6's
+*"Consider her ways"* applied to a ruin. The thorns and broken wall are taken up on
+[[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 6:6; 7:7; 24:27, 30–34; Hebrew of 7:7
+and 24:27–34 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

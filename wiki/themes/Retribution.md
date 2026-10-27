@@ -411,6 +411,16 @@ the righteous *"falls seven times, and rises up again; but the wicked are overth
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Rendering refused to the wronged — Proverbs 24:24–25, 29, 34
+
+The appendix gives retribution its human channels and limits. The partial judge is cursed by the
+peoples, and those who convict the guilty are blessed (24:24–25); but the wronged man may not say *"I
+will render to the man according to his work"* (24:29) — 24:12's phrase for God. The sluggard's
+poverty arriving *"as a robber"* (24:34) is consequence, not sentence. See
+[[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
@@ -699,6 +709,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[A Good Name]] — Proverbs 22:4, 8, 16; Sowing and reaping, kept beside Eliphaz's misuse of the image.
 - [[Do Not Envy Sinners]] — Proverbs 23:18, 21, 32; The latter end as the measure: hope, rags, or a snakebite.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12, 16, 20, 22; Each rendered according to his work; the righteous fall and rise, the wicked are overthrown.
+- [[The Field of the Sluggard]] — Proverbs 24:24–25, 29, 34; Rendering according to work belongs to God and the court, not the wronged man.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Field of the Sluggard]] — Proverbs 24:23–25.
 - [[The King's Heart]] — Proverbs 21:14.
 
 - **Proverbs 17:8** — *"A bribe is a precious stone in the eyes of him who gives it; wherever he
@@ -83,6 +84,24 @@ righteous and ruin to evildoers. The bribe that pacifies wrath is reported as ef
 commended, and the chapter's own frame judges it.
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### Recognizing faces — Proverbs 24:23–25
+
+The appendix of *"sayings of the wise"* opens on the court: *"To show partiality in judgment is not
+good. He who says to the wicked, 'You are righteous'; peoples will curse him, and nations will abhor
+him— but it will go well with those who convict the guilty, and a rich blessing will come on them."*
+Its idiom for partiality is not 18:5's *lifting the face* but *hakker-pānîm*, *recognizing faces* —
+the words of Deuteronomy's charge to the judges, *lōʾ-takkîrû p̄ānîm bammišpāṭ* (1:17, WEB *"You
+shall not show partiality in judgment"*), and of 16:19's *lōʾ ṯakkîr pānîm*, quoted above. Proverbs
+28:21 repeats the clause, *hakker-pānîm lōʾ-ṭôḇ*. The partial judge's verdict is quoted as one word,
+*ṣaddîq*, *"Righteous!"* — the acquittal that 17:15 called an abomination to Yahweh and Deuteronomy
+25:1 reverses. Here the disgust is the peoples': the judge is cursed and abhorred by *ʿammîm* and
+*ləʾummîm*, while *those who convict* (*môḵîḥîm*) receive *"a rich blessing"*. Yahweh's verdict and
+the nations' are not in competition; together they say an acquittal of the guilty is a public wrong.
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–25; 28:21; Deuteronomy 1:17 WEB
+verified at bible-api.com, 2026-10-26. Hebrew of Proverbs 24:23–25; 28:21 and Deuteronomy 1:17; 16:19
+read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

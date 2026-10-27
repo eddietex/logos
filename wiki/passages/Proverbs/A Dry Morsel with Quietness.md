@@ -303,6 +303,7 @@ and [[The Prosperity of the Wicked]].
 - [[A Strong Tower]] — Proverbs 18:1, 5, 14, 24; the quarrel that *breaks out* (17:14), the perverted court (17:23), the crushed spirit (17:22), and the friend (17:17) continued.
 - [[A Good Name]] — Proverbs 22:2 names the Maker whom 17:5's mocker reproaches.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18, no rejoicing at an enemy's fall, after 17:5.
+- [[The Field of the Sluggard]] — Proverbs 24:24, the wicked told *"You are righteous"*.
 
 ## Notes
 

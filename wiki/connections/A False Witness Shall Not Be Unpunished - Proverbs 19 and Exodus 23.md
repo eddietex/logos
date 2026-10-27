@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Field of the Sluggard]] — Proverbs 24:28–29.
 - [[The King's Heart]] — Proverbs 21:28.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 28–29.
@@ -45,6 +46,19 @@ eternity."* The listener's lasting word is set against the liar's end; the sayin
 procedure.
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### The witness without cause — Proverbs 24:28–29
+
+*"Don't be a witness against your neighbor without cause. Don't deceive with your lips. Don't say,
+'I will do to him as he has done to me; I will render to the man according to his work.'"* The saying
+names the false witness's likeliest motive: retaliation. *Without cause* is *ḥinnām* (also 1:11;
+3:30), and *deceive* is *pāṯāh*, the sinners' *enticing* of 1:10. Deuteronomy 19:19 turned retaliation
+*against* the lying witness — *"you shall do to him as he had thought to do to his brother"* (WEB
+verified at bible-api.com) — and Proverbs forbids the retaliator to become a witness in the first
+place. See [[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:28–29; Hebrew of Proverbs 1:10;
+24:28–29 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

@@ -387,6 +387,15 @@ here it judges a refusal to act. See
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Partiality in judgment — Proverbs 24:23–25
+
+*"To show partiality in judgment is not good"* (24:23) — literally *recognizing faces*, the words of
+Deuteronomy 1:17's charge to Israel's judges. The judge who says to the wicked *"You are righteous"*
+is cursed by peoples and abhorred by nations; *"those who convict the guilty"* are blessed (24:24–25).
+Judgment here is the human court's, and its failure is a public wrong.
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 12, 15; Hearts weighed and the wicked house considered.
@@ -664,6 +673,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–33; a judgment oracle in Wisdom's voice, with the laughter of Psalm 2:4 and no judge acting
 - [[Thirty Excellent Things]] — Proverbs 22:22–23; The needy crushed in court; the plunderers plundered.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12; The weigher of hearts judges the bystander who claims not to have known.
+- [[The Field of the Sluggard]] — Proverbs 24:23–25; Partiality in judgment cursed by the peoples; those who convict the guilty blessed.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

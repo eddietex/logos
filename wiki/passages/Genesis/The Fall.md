@@ -181,6 +181,7 @@ and the walking in the cool of the day.
   that fixes the identification for most later readers.
 - Ezekiel 28:13–16 — a proud king in Eden, expelled from the mountain of God by a guardian cherub.
 - Job 31:33 and Hosea 6:7 — both possibly *"like Adam"*, both textually contested.
+- [[The Field of the Sluggard]] — Proverbs 24:30–31, a field left to thorns.
 
 ## Notes
 

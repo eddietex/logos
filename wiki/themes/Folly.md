@@ -243,6 +243,14 @@ the fool has nothing to say. Then *"The schemes of folly are sin. The mocker is 
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### The man void of understanding — Proverbs 24:30
+
+The sluggard's vineyard belongs to *"the man void of understanding"*, *ʾāḏām ḥăsar-lēḇ* (24:30) —
+the phrase of the *"young man void of understanding"* at 7:7. Folly here is not a scheme but neglect,
+and it is read off the state of the man's land.
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
@@ -290,6 +298,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[A Good Name]] — Proverbs 22:3, 15; The simple pass on; folly bound in a child's heart.
 - [[Thirty Excellent Things]] — Proverbs 23:9; The fool who despises wise words.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:7–9; The fool silent in the gate; the schemes of folly called sin; the mocker detested.
+- [[The Field of the Sluggard]] — Proverbs 24:30; The vineyard of the man void of understanding.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

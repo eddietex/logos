@@ -19,8 +19,8 @@ tags: [connection]
 - **Matthew 16:27** — *"For the Son of Man will come in the glory of his Father with his angels, and
   then he will render to everyone according to his deeds."* (WEB verified at bible-api.com; not yet
   ingested)
-- **Proverbs 24:29** — *"Don't say, 'I will do to him as he has done to me; I will render to the man
-  according to his work.'"* (stored WEB; the next queue item, not yet ingested)
+- [[The Field of the Sluggard]] — **Proverbs 24:29** — *"Don't say, 'I will do to him as he has
+  done to me; I will render to the man according to his work.'"* (stored WEB)
 
 ## Analysis
 
@@ -50,6 +50,16 @@ formula to God, 24:29 forbids a man to say it of himself: *"I will render to the
 his work."* The Hebrew of the two clauses is the same phrase (*hēšîḇ … kəp̄ŏʿŏlô*; same edition).
 What is justice in God's hand is revenge in the son's mouth. 20:22 says the same thing without the
 formula: *"Don't say, 'I will pay back evil.' Wait for Yahweh, and he will save you."*
+
+### Forbidden to the son — Proverbs 24:29
+
+Now ingested, 24:29 completes the pair the analysis above anticipated: *ʾāšîḇ lāʾîš kəp̄oʿŏlô*, *I
+will render to the man according to his work*, is forbidden to a man twelve verses after *wəhēšîḇ
+ləʾāḏām kəp̄oʿŏlô* was asked of God. Its first half quotes the law of retaliation's *kaʾăšer ʿāśāh …
+kēn* (Leviticus 24:19). See [[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:12, 29; Hebrew read from Sefaria's
+*Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

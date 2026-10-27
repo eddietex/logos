@@ -325,6 +325,16 @@ worker into the presence of power, and the next verses tell him how to behave th
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### The field before the house, and the field left to thorns — Proverbs 24:27, 30–34
+
+*"Prepare your work outside, and get your fields ready. Afterwards, build your house"* (24:27): the
+means before the comfort. Three verses later the speaker passes the field no one readied — thorns,
+nettles, a fallen wall — and draws the lesson of 6:10–11 again: *"a little sleep, a little slumber"*
+(24:30–34). See [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]] and
+[[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5, 25; Diligent plans against haste; the sluggard's fatal desire.
@@ -509,6 +519,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses finishes erection after manufacture and inspection; filling is a distinct divine act.
 - [[A Good Name]] — Proverbs 22:13; The sluggard's lion in the streets.
 - [[Thirty Excellent Things]] — Proverbs 22:29; The skilled worker who serves kings.
+- [[The Field of the Sluggard]] — Proverbs 24:27, 30–34; The field readied before the house; the sluggard's vineyard gone to thorns.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

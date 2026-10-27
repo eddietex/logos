@@ -288,6 +288,7 @@ these are general sayings and not verdicts on any particular person. See [[Retri
 - [[I Will Pour Out My Spirit - Proverbs 1.23, Joel 2.28, and Acts 2.17]] — 18:4.
 - [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] — 18:12.
 - [[The Prosperity of the Wicked]] — 18:11, 23.
+- [[The Field of the Sluggard]] — Proverbs 24:23, partiality in judgment as *recognizing faces*.
 
 ## Notes
 

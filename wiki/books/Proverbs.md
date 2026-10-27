@@ -284,6 +284,15 @@ the righteous man who *"falls seven times, and rises up again"* (24:16); a ban o
 enemy falls (24:17–18); the fourth prohibition of envying the wicked (24:19–20); and a closing command
 to *"fear Yahweh and the king"* (24:21–22).
 
+A short appendix follows under its own heading, *"These also are sayings of the wise"* (24:23–34). It
+opens on the court — partiality in judgment, literally *recognizing faces*, the words of Deuteronomy
+1:17, and the judge who says *"You are righteous"* to the wicked cursed by the peoples (24:23–25) — then
+an honest answer like a kiss (24:26), the field readied before the house (24:27), and a neighbour not
+to be witnessed against or paid back: *"I will render to the man according to his work"* (24:29) is
+forbidden to the son twelve verses after it was said of God. It ends with a first-person scene to set
+beside the window of 7:6–23: a walk past a vineyard gone to thorns, its wall fallen, and the lesson of
+6:10–11 received again (24:30–34). See [[The Field of the Sluggard]]. Yahweh is not named in it.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -352,7 +361,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[Thirty Excellent Things]] — Proverbs 22:17–23:11
 - [x] [[Do Not Envy Sinners]] — Proverbs 23:12–24:2
 - [x] [[Through Wisdom a House Is Built]] — Proverbs 24:3–22
-- [ ] The Field of the Sluggard — Proverbs 24:23–34
+- [x] [[The Field of the Sluggard]] — Proverbs 24:23–34
 
 ### The proverbs copied by Hezekiah's men (25–29)
 
@@ -400,7 +409,7 @@ first collection at its heading), each titled from a representative saying.
   lamp"* (6:23)
 - [[Healing]] — the father's words as *"health to their whole body"* (4:22)
 - [[Seeing and Being Seen]] — eyes fixed straight ahead (4:25)
-- [[Work]] — the ant and the sluggard (6:6–11)
+- [[Work]] — the ant and the sluggard (6:6–11); the sluggard's field gone to thorns (24:30–34)
 - [[Wealth and Possessions]] — suretyship for another's debt, and poverty as a robber (6:1–11)
 - [[Envy]] — *"envy rots the bones"* (14:30); *"Don't let your heart envy sinners; but rather fear Yahweh all day long"* (23:17)
 - [[The Nations]] — *"Righteousness exalts a nation"* (14:34)
@@ -412,7 +421,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Kingship and Empire]] — *"By me kings reign, and princes decree justice"* (8:15)
 - [[Mediation and Advocacy]] — *"Yahweh will plead their case"* (22:23); the fatherless's Defender (23:11)
 - [[Compassion and Mercy]] — *"Rescue those who are being led away to death!"* (24:11)
-- [[Vengeance]] — *"Don't rejoice when your enemy falls"* (24:17)
+- [[Vengeance]] — *"Don't rejoice when your enemy falls"* (24:17); *"I will do to him as he has done to me"* forbidden (24:29)
 - [[Prayer]] — *"Those who seek me diligently will find me"* (8:17), against 1:28
 - [[Vengeance]] — the wronged husband's *"day of vengeance"*, which no ransom buys off (6:34–35)
 - [[Sacrifice and Offering]], [[Oaths and Vows]] — *"Sacrifices of peace offerings are with me.

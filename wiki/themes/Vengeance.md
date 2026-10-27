@@ -114,6 +114,15 @@ saying *"I will do to him as he has done to me."* See
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### As he has done to me — Proverbs 24:29
+
+*"Don't say, 'I will do to him as he has done to me; I will render to the man according to his
+work'"* (24:29). The law's retaliation formula (Leviticus 24:19) is forbidden as a private resolve, and
+its last clause is what 24:12 says God does. See
+[[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:22; Personal repayment refused in favor of Yahweh’s rescue.
@@ -179,6 +188,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[The Lamp of the Commandment]] — Proverbs 6:34–35; the husband's *"day of vengeance"*, which no
   ransom buys off
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18; No rejoicing when an enemy falls, lest Yahweh turn his wrath away.
+- [[The Field of the Sluggard]] — Proverbs 24:29; The talion refused as a private resolve.
 
 ## Related themes
 

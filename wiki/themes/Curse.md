@@ -170,6 +170,15 @@ procedure. See [[The Lamp of the Wicked Put Out]].
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### The peoples' curse — Proverbs 24:24–25
+
+A curse with no divine speaker: the judge who acquits the wicked is cursed (*qāḇaḇ*) by *peoples*
+and abhorred by *nations*, while *"a rich blessing"* comes on those who convict (24:24–25). The neglected
+vineyard of 24:30–31, grown over with thorns, recalls without citing the cursed ground of Genesis 3:18
+(see [[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]]).
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:20; A parental curse brings an extinguished lamp upon the speaker.
@@ -230,6 +239,7 @@ passage page.
   (31:40) — and the rest suppressed in the oath's usual form. The last echoes the ground cursed at
   Genesis 3:17–18.
 - [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler, with the verbs of Genesis 12:3
+- [[The Field of the Sluggard]] — Proverbs 24:24–25, 30–31; The partial judge cursed by the peoples; the field left to thorns.
 
 ## Related themes
 

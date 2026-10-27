@@ -334,6 +334,7 @@ and his teaching (7:1–2), and the vocabulary of Sinai (*miṣwâ*, *tôrâ*, *
 - [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]] — the
   absent husband.
 - [[Do Not Envy Sinners]] — Proverbs 23:27–28, the strange woman who *"lies in wait"*, the verb of 7:12.
+- [[The Field of the Sluggard]] — Proverbs 24:30–32, the other first-person scene, and *ḥăsar-lēḇ* again.
 
 ## Notes
 

@@ -433,6 +433,14 @@ the one commodity named is truth: *"Buy the truth, and don't sell it"* (23:23).
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Poverty as an intruder — Proverbs 24:34
+
+*"So your poverty will come as a robber, and your want as an armed man"* (24:34, repeating 6:11).
+The saying describes the ordinary path of neglect; like the other sluggard sayings, it does not
+diagnose every poor man.
+
+See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
@@ -666,6 +674,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[A Good Name]] — Proverbs 22:1–2, 4, 7, 16; Riches ranked, promised, wielded, and lost.
 - [[Thirty Excellent Things]] — Proverbs 22:26–27; 23:4–5; Surety that costs the bed; riches that sprout wings.
 - [[Do Not Envy Sinners]] — Proverbs 23:21, 23; The drunkard's poverty, and truth as the thing not to sell.
+- [[The Field of the Sluggard]] — Proverbs 24:34; Poverty arriving as a robber.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

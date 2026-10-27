@@ -181,6 +181,7 @@ required.
 - [[Hope Deferred]] — 13:23 locates lost provision in injustice; 19:15 locates hunger in idleness.
 - [[The Ten Commandments]] — Exodus 20:12, 16 supplies comparisons for parental honor and truthful
   witness.
+- [[The Field of the Sluggard]] — Proverbs 24:28, the witness against a neighbour without cause.
 
 ## Notes
 
