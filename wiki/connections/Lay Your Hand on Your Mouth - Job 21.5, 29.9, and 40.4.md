@@ -23,7 +23,7 @@ tags: [connection]
   at 40:4, with the same verb (*ʾăšîbennû*, *ʾăšîbekā*) — [[Job's Oath of Innocence]]
 - **Judges 18:19** — the Danites to the Levite of Micah's house: *"Hold your peace, put your hand on
   your mouth, and go with us"*
-- **Proverbs 30:32** — *"If you have done foolishly in lifting up yourself, or if you have thought
+- **Proverbs 30:32** — [[Four Things]] — *"If you have done foolishly in lifting up yourself, or if you have thought
   evil, put your hand over your mouth."*
 - **Micah 7:16** — *"The nations will see and be ashamed of all their might. They will lay their hand
   on their mouth."*
@@ -68,6 +68,14 @@ counted wise."* The root is shared — *haḥărēš taḥărîšûn* in Job, *m
 conclusion, *ləḥokmâ* and *ḥākām* (Hebrew from Sefaria's *Miqra according to the Masorah*). Job meant
 it as an insult and the proverb as a mild joke, but both locate wisdom, for once, in what is not said.
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Job 13:5; Proverbs 17:27–28.
+
+### Agur's last command — Proverbs 30:32–33
+
+Proverbs 30:32 is now ingested as the end of Agur's words. The gesture follows two conditions,
+foolish self-exaltation and having *"thought evil"*, and is grounded by verse 33's threefold *mîṣ*,
+*pressing*: milk to butter, nose (*ʾap̄*) to blood, wrath (*ʾappāyim*) to strife (MAM, 2026-10-27).
+In Job the hand on the mouth answers someone greater; in Agur it prevents a quarrel. In both it is
+the moment a speaker decides not to say more. See [[Four Things]].
 
 ## Significance
 

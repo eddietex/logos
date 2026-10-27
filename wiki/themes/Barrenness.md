@@ -76,7 +76,20 @@ blessing on serving Yahweh. The word for *barren* is *ʿăqārâ* (MAM). The pro
 and the people as a whole; it does not say that a barren woman is under judgment. See
 [[The Angel Sent Ahead]].
 
+### The barren womb among the insatiable — Proverbs 30:16
+
+Proverbs names barrenness once, among four things that never say *"Enough"*: Sheol, the barren
+womb, dry earth, and fire. The list does not blame the woman; it puts her want beside other
+emptiness that does not end. Genesis gives that want names and voices — Sarah, Rebekah, Rachel —
+and Proverbs 30:23's *unloved* woman uses the word Genesis 29:31 uses of Leah, the wife whose womb
+Yahweh opened. See
+[[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:16; The barren womb listed with Sheol, earth, and fire as never satisfied.
 
 - [[From Shem to Abram]] — Genesis 11:30, the first occurrence, placed at the end of a genealogy
 - [[The Call of Abram]] — Genesis 12:2, *"I will make of you a great nation"*, four verses after the

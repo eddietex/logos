@@ -203,7 +203,21 @@ stated consequence is household and financial loss.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:3; the passage page records the cross-reference
 sources and interpretive limits.
 
+### The adulterous woman's way — Proverbs 30:19–20
+
+After four ways that leave no trace, ending with *"the way of a man with a maiden"*, Agur adds the
+adulterous woman's: she eats, wipes her mouth, and says, *"I have done nothing wrong"* (20). The
+image recalls Folly's *"Food eaten in secret is pleasant"* (9:17). What the verse exposes is the
+denial: an act that leaves no visible trace is claimed to be no wrong at all. Whether verse 19's
+fourth way is wonder at love or already the shadow of verse 20 is disputed; the text calls it
+amazing and connects it with *"so"*. See
+[[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:19–20; The way of a man with a maiden; the adulteress who says she has done nothing wrong.
 
 - [[Where There Is No Vision]] — Proverbs 29:3; The companion of prostitutes squanders wealth,
   contrasted with the son whose love of wisdom delights his father.

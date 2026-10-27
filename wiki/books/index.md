@@ -46,7 +46,7 @@ canonical order below. Edit this list to reprioritize.
 
 - [x] [[Job]] — complete (32 / 32 pericopes)
 - [ ] [[Psalms]] — not-started
-- [ ] [[Proverbs]] — in-progress (40 / 43 pericopes)
+- [ ] [[Proverbs]] — in-progress (41 / 43 pericopes)
 - [ ] [[Ecclesiastes]] — not-started
 - [ ] [[Song of Solomon]] — not-started
 

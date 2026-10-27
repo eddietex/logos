@@ -148,6 +148,11 @@ for is not.** **Genesis reports both facts and comments on neither.** See
 
 ### What is still ahead
 
+Proverbs 30:23 counts *"an unloved woman when she is married"* among the things the earth cannot
+bear, using the word Genesis 29:31 uses of Leah (*śənûʾāh*). The proverb fears the situation; Genesis
+tells it from her side. See
+[[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]].
+
 This page grows as those pericopes arrive; what follows is the shape of it.
 
 **Ruth 4:11 blesses a bride to be *"like Rachel and like Leah, which two built the house of

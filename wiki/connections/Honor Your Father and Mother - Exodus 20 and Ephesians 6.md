@@ -91,6 +91,15 @@ but the content is its own.
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:22–25; Exodus 20:12.
 
+### Proverbs 30 in context
+
+Agur's words name contempt for parents twice. A generation *"curses their father, and doesn't bless
+their mother"* (30:11), and *"The eye that mocks at his father, and scorns obedience to his mother"*
+is left for ravens and young eagles (30:17). The commandment's promise of long life in the land is
+inverted: the contemptuous child is denied even burial. The verse states a consequence and names no
+court; it is a warning, not a penalty to be carried out. See [[The Words of Agur]] and
+[[Four Things]]. Source: stored WEB Proverbs 30:11, 17.
+
 ## Significance
 
 The parents' place in [[Law and Obedience]] remains attached to a promise of life, with both father

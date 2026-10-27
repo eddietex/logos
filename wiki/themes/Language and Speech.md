@@ -402,7 +402,18 @@ teaching with a prayer for truthfulness.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The hand over the mouth — Proverbs 30:32–33
+
+The last speech-saying in Agur's words is a command to stop speaking. The one who has exalted
+himself or thought evil should put a hand over the mouth (32), because pressing anger, like pressing
+a nose, brings out what it presses for (33). Silence is not presented as weakness but as the way
+to prevent strife.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:32–33; The hand over the mouth, and the forcing of wrath.
 
 - [[The Words of Agur]] — Proverbs 30:5–6, 8–11.
 

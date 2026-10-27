@@ -12,7 +12,7 @@ tags: [connection]
 - **Proverbs 27:7** — *"A full soul loathes a honeycomb; but to a hungry soul, every bitter thing is
   sweet."* — [[Do Not Boast About Tomorrow]]
 - **Proverbs 1:12** — the gang's *"Let's swallow them up alive like Sheol"* — [[Do Not Consent to Sinners]]
-- **Proverbs 30:15–16** *(not yet ingested)* — *"There are three things that are never satisfied; four
+- **Proverbs 30:15–16** — [[Four Things]] — *"There are three things that are never satisfied; four
   that don't say, 'Enough:' Sheol, the barren womb; the earth that is not satisfied with water; and the
   fire that doesn't say, 'Enough.'"*
 - **Ecclesiastes 1:8** *(not yet ingested)* — *"The eye is not satisfied with seeing, nor the ear filled
@@ -42,6 +42,18 @@ no claim is made that they share the verb.
 innocent alive; Habakkuk's conqueror is compared to it. There the insatiable appetite is a vice taken
 on. In Proverbs 27:20 and Ecclesiastes 1:8 it is a condition: the eye simply does not fill. The wiki
 records both without merging them.
+
+### Agur's list — Proverbs 30:15–16
+
+The list is now ingested. It opens with a leech whose *"two daughters"* say only *"Give, give"*, then
+counts four things that do not say *"Enough"* (*hôn*). The first two, Sheol and *ʿōṣer rāḥam*, the
+barren womb, are given in a single half-line, so death's taking and the womb's longing are set side
+by side; the earth and the fire follow. Verse 15's *lōʾ ṯiśbaʿnāh*, *they are not satisfied*, is the
+verb of 27:20; within verse 16 only the earth repeats *śbʿ*, the fire repeats *"doesn't say"* *hôn*,
+and Sheol and the womb stand without a verb of their own (Hebrew read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-27).
+Unlike 1:12 and 27:20, Agur's list makes no moral point about human appetite. It records the
+condition and leaves the reader to recognize it. See [[Four Things]].
 
 ## Significance
 

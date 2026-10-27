@@ -104,6 +104,7 @@ looks down on others, and consumes poor people with teeth likened to weapons (11
 - [[What Is Man That He Should Be Clean]]
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]
 - [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]]
+- [[Four Things]] — the rest of Agur's words, Proverbs 30:15–33
 
 ## Notes
 
@@ -175,7 +176,7 @@ becoming indifference to other people’s need.
 ### Sources and boundary
 
 The planned Proverbs 30:1–14 boundary is retained. Verse 15 begins the next numerical sequence,
-which remains un-ingested. Key verses are copied verbatim from raw/bible/Proverbs.md, including
+now ingested as [[Four Things]]. Key verses are copied verbatim from raw/bible/Proverbs.md, including
 its opening quotation marks. Genesis, Exodus, Job, and other Proverbs comparisons were read in
 the existing raw WEB. John 3:12–13, Matthew 6:9–13, Deuteronomy 4:2, Psalm 18:30, and 2 Samuel
 22:31 were verified directly at bible-api.com with translation=web on 2026-10-26. These books

@@ -192,7 +192,19 @@ justice finally in Yahweh, limiting royal patronage rather than making governmen
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:2, 4, 12, 14, 26; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Kings among the creatures — Proverbs 30:22, 27–28, 31
+
+Kings appear four times in a passage mostly about animals. A servant who becomes king shakes the
+earth (22). Locusts have no king and still advance in ranks (27). A lizard you can catch with your
+hands lives in kings' palaces (28). And the king *"against whom there is no rising up"* closes the
+list of stately things, after the lion and the goat (31); the Hebrew of that line (*ʾalqûm*) is
+uncertain. Order is possible without a king, and access to a king is possible for the weak.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:22, 27–28, 31; Servant king, kingless locusts, lizard in palaces, the stately king.
 
 - [[Where There Is No Vision]] — Proverbs 29:2, 4, 12, 14, 26; Justice stabilizes a land; bribery
   tears it down.

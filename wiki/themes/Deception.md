@@ -302,7 +302,17 @@ misleading speech to misleading self-estimation.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Wiping the mouth — Proverbs 30:20
+
+The adulterous woman's deception is aimed partly at herself. She *"eats and wipes her mouth"* and
+says she has done nothing wrong (20). The self-deception matches the generation *"pure in their own
+eyes"* in 30:12: the absence of evidence is taken for innocence.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:20; The adulteress wipes her mouth and denies wrongdoing.
 
 - [[The Words of Agur]] — Proverbs 30:6, 8, 12.
 

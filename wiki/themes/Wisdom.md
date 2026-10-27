@@ -551,7 +551,18 @@ supplies guidance where mastery fails.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Agur's numbered sayings — Proverbs 30:15–33
+
+Agur, who denied possessing wisdom (30:2–3), reports what amazes him (18) and names four small
+creatures that are *"exceedingly wise"* (24–28). Their wisdom is a way of living with weakness:
+foresight, shelter, order without a king, and persistence. Wisdom here is learned by looking at the
+created world, the method of 6:6, and it is attributed to creatures that make no claim to it.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:18, 24–28; Ways too wonderful to understand; four small creatures exceedingly wise.
 
 - [[The Words of Agur]] — Proverbs 30:2–6.
 

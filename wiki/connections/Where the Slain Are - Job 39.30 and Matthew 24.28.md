@@ -13,7 +13,7 @@ tags: [connection]
 - **Matthew 24:28** — *"For wherever the carcass is, that is where the vultures gather together."*
 - **Luke 17:37** — *"They, answering, asked him, 'Where, Lord?' He said to them, 'Where the body is, there
   will the vultures also be gathered together.'"*
-- **Proverbs 30:17** — *"the ravens of the valley shall pick it out, the young eagles shall eat it"*
+- **Proverbs 30:17** — [[Four Things]] — *"the ravens of the valley shall pick it out, the young eagles shall eat it"*
 - **Revelation 19:17–18** — the birds summoned to *"the great supper of God"*
 
 ## Analysis
@@ -39,6 +39,13 @@ where the body is, the birds come, and no one will need to be told where the end
 19:17–18 takes it to its end, the birds summoned to eat *"the flesh of kings, the flesh of captains"*.
 Whether Jesus' hearers heard Job in the saying cannot be shown; that the proverb existed in Israel's
 wisdom before the Gospels, in the mouth of God, can.
+
+### The mocker's eye — Proverbs 30:17
+
+With Proverbs 30 ingested, the eagle's feeding appears in a curse: the eye that mocks a father and
+scorns a mother's obedience will be picked out by *"the ravens of the valley"* and eaten by *"the
+young eagles"*. Job 39:30 describes the eagle's young feeding where the slain are as a fact of
+creation; Proverbs 30:17 makes the same sight a consequence of contempt. See [[Four Things]].
 
 ## Significance
 

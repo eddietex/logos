@@ -26,7 +26,7 @@ tags: [connection]
   saw, and considered well. I saw, and received instruction: a little sleep, a little slumber, a
   little folding of the hands to sleep; so your poverty will come as a robber, and your want as an
   armed man."*
-- **Proverbs 30:24–25** *(not yet ingested)* — Agur: *"There are four things which are little on
+- **Proverbs 30:24–28** — [[Four Things]] — Agur: *"There are four things which are little on
   the earth, but they are exceedingly wise: the ants are not a strong people, yet they provide
   their food in the summer."*
 - **Genesis 2:15** — [[The Garden of Eden]] — *"to cultivate and keep it"*: work before the fall.
@@ -123,6 +123,15 @@ self-deception: he is also a man *"wise in his own eyes"*. See
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 19:24; 22:13; 26:13–16; Hebrew of 19:24, 22:13,
 and 26:13–16 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
+### Four small wise things — Proverbs 30:24–28
+
+With chapter 30 ingested, the ant is seen in its company. It is the first of four creatures *"little
+on the earth"* yet *"exceedingly wise"* (*ḥăḵāmîm məḥukkāmîm*, MAM, 2026-10-27). The conies make
+houses in the rocks, the locusts *"have no king, yet they advance in ranks"*, and a lizard taken in
+the hand is found in kings' palaces. The locusts carry 6:7's point about the ant — no chief or
+ruler — to a whole swarm. The list is about weakness made up for by wisdom; the sluggard, who is
+not weak, has no such excuse. See [[Four Things]]. Source: stored WEB Proverbs 6:7; 30:24–28.
 
 ## Significance
 

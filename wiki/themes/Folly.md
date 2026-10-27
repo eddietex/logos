@@ -299,7 +299,17 @@ making the two faults identical.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:9, 11, 20; the passage page records the
 cross-reference sources and interpretive limits.
 
+### The fool filled with food — Proverbs 30:22, 32
+
+A fool *"filled with food"* is one of the reversals the earth cannot bear (22): plenty does not
+make him wise, it makes him worse. The closing command addresses anyone who *"has done foolishly in
+lifting up yourself"* — the remedy is a hand over the mouth (32).
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:22, 32; The fool filled with food; the hand over the mouth for one who acted foolishly.
 
 - [[Where There Is No Vision]] — Proverbs 29:9, 11, 20; The fool disrupts a dispute through rage or
   mockery and vents anger.

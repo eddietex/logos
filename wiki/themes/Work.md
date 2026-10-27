@@ -366,7 +366,18 @@ within the same chapter prevents treating every failed harvest as evidence of id
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Agur's ants and locusts — Proverbs 30:25–27
+
+The ants return from 6:6–8, now as *"not a strong people"* who still provide their food in summer
+(25). The locusts add a second lesson: without a king they *"advance in ranks"* (27). Diligence and
+order are shown in creatures without strength or overseers. See
+[[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:25–27; Ants that store food; locusts that advance in ranks without a king.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:19–20.
 

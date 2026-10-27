@@ -17303,3 +17303,50 @@ added to raw; all existing raw texts are unchanged. No new exact Hebrew or Greek
 is made. No ambiguous page basenames remain. `scripts/link-check.sh` exits 0 with 62 expected
 not-yet-started book targets, and `git diff --check` is clean. No unresolved operational issue or
 dangling link remains.
+
+## [2026-10-27] ingest | Proverbs 30.15-33 — Four Things
+
+Ingested [[Four Things]], keeping the planned Proverbs 30:15–33 boundary and title. Exactly one
+pericope advanced; Lemuel's heading at 31:1 is next. The unattended discussion is recorded in the
+passage: the leech and the four insatiable things, the mocker of parents, four traceless ways and the
+adulteress's denial, four intolerable reversals, four small wise creatures, four stately ones, and the
+hand over the mouth before pressed wrath becomes strife.
+
+**Interpretive decisions.** No new person or place page: every figure is a type, and [[Sheol]] is
+the only named place. The *three … four* form is treated as pointing to the fourth item, not as
+a correction of the count. Verse 19's *"way of a man with a maiden"* is left undecided between
+wonder and a shadow of verse 20. The servant who reigns and the servant heir are held in explicit
+tension with Proverbs 17:2 (the wise servant's share of the inheritance), [[Joseph]]'s rise, and
+God's care for [[Hagar]] and [[Leah]]; the proverb is read as fearing sudden elevation without
+character, not as contempt for the lowly. Verse 17 is a warning, not a penalty for a court. Uncertain
+animal names (conies, lizard, greyhound) and *ʾalqûm* in verse 31 are reported as translation
+options; no lexicon was consulted.
+
+**Created (3 content pages):** the passage, and two connections —
+[[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]] and
+[[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]].
+
+**Revised (32 content pages):** [[Proverbs]] (overview, checklist, key themes); [[Agur]], [[Leah]],
+and [[Hagar]] (the latter two by connection only — neither appears in the pericope); [[Sheol]];
+17 themes (Barrenness, Creation, Deception, Famine and Plenty, Folly, Kingship and Empire, Language
+and Speech, Law and Obedience, Life and Death, Marriage, Pride and Self-Exaltation, Retribution,
+Sexual Sin, Slavery and Servitude, Strife and Peacemaking, Wisdom, Work), each with a synthesis
+section and a key-passage entry; eight connections (Never Satisfied, Go to the Ant, Lay Your Hand
+on Your Mouth, Where the Slain Are, Honor Your Father and Mother, Two Voices in the Street, Once Yes
+Twice, Six Things Yahweh Hates), the first four of which had cited these verses as not yet
+ingested; and two earlier passages ([[The Words of Agur]], whose boundary note pointed here, and
+[[The Surety, the Sluggard, and the Seven Abominations]]).
+
+**Indexes and totals.** Revised nine index pages: books index, main dashboard, themes and places
+indexes, People A-E, and Connections D-H, I-N, O-S, T-Z. The new connections file under T and U in
+T-Z. Proverbs is 41 / 43 pericopes, still in progress. Counts by frontmatter: 185 passages, 184
+people, 90 places, 83 themes, 478 connections.
+
+**Sources and validation.** All eleven key-verse excerpts match `raw/bible/Proverbs.md` exactly.
+Genesis 16:1–13, 29:31–33 and Proverbs 6:6–8, 16, 9:17, 17:2, 19:10, 20:20, 27:20 were checked in
+the stored WEB. Amos 1:3, 2:6 and Ecclesiastes 10:7 were retrieved from bible-api.com with
+`translation=web` on 2026-10-27 (each response identified World English Bible) and were not added to
+`raw/`. Hebrew of Proverbs 30:15–33, Genesis 16:4, 29:31, and Amos 1:3 was read from Sefaria's *Miqra
+according to the Masorah* on 2026-10-27; Amos 2:6's Hebrew was not checked and no claim rests on it.
+No raw text was changed. `scripts/link-check.sh` exits 0 with 62 expected not-yet-started book
+targets, and `git diff --check` is clean.

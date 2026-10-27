@@ -413,7 +413,18 @@ prohibition on taking away.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The mocker of parents — Proverbs 30:17
+
+Contempt for father and for *"obedience to his mother"* is answered with an unburied death (17).
+The saying continues 30:11's generation that curses its parents and stands with 20:20. It applies
+the commandment to honour father and mother through consequence, not through a court. See
+[[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:17; Mocking a father and scorning a mother's obedience.
 
 - [[The Words of Agur]] — Proverbs 30:6, 9–11.
 

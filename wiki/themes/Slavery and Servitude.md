@@ -222,7 +222,22 @@ servitude nor authorizes mistreatment.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Servants raised up — Proverbs 30:22–23
+
+Two of the earth's four intolerable reversals are servants: a servant who becomes king (22) and a
+servant girl who becomes heir to her mistress (23). This repeats 19:10's resistance to a servant
+ruling princes. **Explicit tension:** Proverbs 17:2 lets the wise servant rule over a shameful son and *"have a
+part in the inheritance"*,
+and Genesis tells of [[Joseph]], a slave raised to rule, and of [[Hagar]], whom God met after her
+mistress dealt harshly with her (Genesis 16:6–13). Proverbs 30:22–23 fears sudden elevation without
+character; it does not deny that God raises the lowly. See
+[[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:22–23; A servant who becomes king, and a servant girl heir to her mistress.
 
 - [[The Words of Agur]] — Proverbs 30:10.
 

@@ -147,7 +147,18 @@ provision an ethical concern and asks for enough, not maximal accumulation.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Plenty and provision — Proverbs 30:22, 25
+
+Agur's prayer asked for neither poverty nor riches (30:8–9). The next unit names a fool *"filled
+with food"* as a danger to the earth (22), and ants that *"provide their food in the summer"* as
+wise (25). Plenty is dangerous to one without wisdom, and storing up in the time of plenty is
+wisdom itself.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:22, 25; The fool filled with food; ants storing food in summer.
 
 - [[The Words of Agur]] — Proverbs 30:8–9.
 

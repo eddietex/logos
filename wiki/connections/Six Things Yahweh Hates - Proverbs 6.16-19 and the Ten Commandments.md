@@ -67,6 +67,13 @@ mischief, stirring strife, separating friends, winking his eyes *"to plot perver
 portrait that introduced the seven abominations returns, in sayings, without the list. Source: stored
 WEB Proverbs 6:12–19; 16:5, 27–30.
 
+### Proverbs 30 in context
+
+Agur's lists use the same graded form, as three and four, in 30:15, 18, 21, and 29. Proverbs 6:16
+lists things Yahweh hates; Agur's lists mostly record what amazes or troubles an observer, and only
+the adulteress (30:20) and the fool (30:22) are named as wrongdoers. See [[Four Things]] and
+[[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]].
+
 ## Significance
 
 The list gives Proverbs' moral teaching a fixed shape early, before the sentence collections

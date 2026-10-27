@@ -241,7 +241,20 @@ unlivable; the book also calls a prudent wife Yahweh's gift (19:14). See
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 19:13–14; 21:9; 25:24; 27:15–16.
 
+### The unloved woman married — Proverbs 30:19, 23
+
+Agur counts *"the way of a man with a maiden"* among things too amazing to understand (19). Four
+verses later an *unloved* woman's marriage is one of the reversals the earth cannot bear (23). The
+word for unloved is the one Genesis 29:31 uses of [[Leah]], the wife Jacob did not love and Yahweh
+saw. The proverb speaks from the household's fear of disorder; Genesis tells the same situation from
+the unloved wife's side. See
+[[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:19, 23; The way of a man with a maiden; the unloved woman who is married.
 
 - [[The King's Heart]] — Proverbs 21:9, 19; The contentious wife, spoken from the husband's side.
 

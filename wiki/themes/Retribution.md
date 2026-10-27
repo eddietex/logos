@@ -473,7 +473,18 @@ tension; suffering does not establish that someone has lied or failed to trust.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Consequence in Agur's sayings — Proverbs 30:17, 33
+
+Two sayings in the unit state consequences. The mocker's eye is eaten by birds (17), and pressing
+anger yields strife as surely as churning milk yields butter (33). The first is a warning about
+where contempt leads; the second treats consequence as a matter of cause and effect, with no
+divine agent named. Neither verse claims that every unburied death or every quarrel proves guilt.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:17, 33; The mocker's unburied eye; pressing anger produces strife.
 
 - [[The Words of Agur]] — Proverbs 30:5–6, 10.
 

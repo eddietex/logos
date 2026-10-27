@@ -233,6 +233,13 @@ to go.
   [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]]. Hebrew read from
   Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
+- [[Four Things]] — Proverbs 30:16; **first of four that never say *"Enough"*.** *"Sheol, the barren
+  womb; the earth that is not satisfied with water; and the fire that doesn't say, 'Enough'"*
+  (*šəʾôl wəʿōṣer rāḥam*). Placed after the leech's two daughters crying *"Give, give"*, and beside the
+  barren womb, so that the grave's taking and the womb's longing are counted together. Compare 27:20.
+  See [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]]. Hebrew read
+  from Sefaria's *Miqra according to the Masorah*, 2026-10-27.
+
 ## Related places
 
 - **The dust** — the two are paired at 17:16, and the dust reaches back to Genesis 2:7 and 3:19,

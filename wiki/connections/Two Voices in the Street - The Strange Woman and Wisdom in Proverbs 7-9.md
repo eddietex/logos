@@ -118,6 +118,14 @@ introduced by the father's *"give me your heart"* (23:26).
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 1:11; 2:16; 7:12; 22:14; 23:26–28.
 
+### Proverbs 30 in context
+
+Agur's adulterous woman (30:20) is drawn in one line, after four ways too amazing to understand:
+*"she eats and wipes her mouth, and says, 'I have done nothing wrong.'"* Folly's invitation in 9:17 —
+*"Food eaten in secret is pleasant"* — used the same eating image for the forbidden. Chapter 9 shows
+the appetite; chapter 30 shows the aftermath, a mouth wiped and a denial. See [[Four Things]].
+Source: stored WEB Proverbs 9:17; 30:18–20.
+
 ## Significance
 
 The pairing is the frame of Proverbs 1–9: two women calling in the same streets, one to life and one

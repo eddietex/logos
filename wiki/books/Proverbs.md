@@ -355,6 +355,14 @@ dishonor, supposed purity, haughty eyes, and the consuming of the poor. The son 
 30:4 remains unnamed; the Christian comparison with John 3:13 is distinguished from an explicit
 identification in Proverbs.
 
+[[Four Things]] (30:15–33) completes Agur's words with numbered lists in the *three … four* form:
+four things never satisfied, led by [[Sheol]] and the barren womb; four ways too wonderful to
+understand, set beside the adulteress who wipes her mouth; four reversals the earth cannot bear;
+four small creatures that are wise; and four stately in their going. The mocker of parents is left
+to the birds (17), and the unit ends with the hand over the mouth, because pressing wrath produces
+strife (32–33). The servant who inherits and the unloved wife who marries (23) are held in
+explicit tension with Proverbs 17:2 and with Genesis' stories of [[Hagar]] and [[Leah]].
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -436,7 +444,7 @@ first collection at its heading), each titled from a representative saying.
 ### Agur and Lemuel (30–31)
 
 - [x] [[The Words of Agur]] — Proverbs 30:1–14
-- [ ] Four Things — Proverbs 30:15–33
+- [x] [[Four Things]] — Proverbs 30:15–33
 - [ ] The Words of King Lemuel — Proverbs 31:1–9
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
@@ -446,6 +454,9 @@ first collection at its heading), each titled from a representative saying.
   restraint in adding (30:2–6).
 - [[Prayer]] , [[Wealth and Possessions]] , [[The Poor and the Vulnerable]] — sufficient provision,
   dangers of riches and poverty, and the poor consumed (30:7–14).
+- [[Creation]] , [[Barrenness]] , [[Slavery and Servitude]] , [[Strife and Peacemaking]] — the
+  insatiable, the wonderful, the intolerable, the small and wise, and wrath pressed into strife
+  (30:15–33).
 
 
 - [[Prophecy and Vision]], [[Law and Obedience]] — revelation and keeping the law against unrestrained life (29:18).

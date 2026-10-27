@@ -20,6 +20,8 @@ tags: [connection]
   him"* — [[The Surety, the Sluggard, and the Seven Abominations]]; the list that follows has seven
   items, and the weight falls on the seventh, *"he who sows discord among brothers"* (6:19). See
   [[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]]
+- **Proverbs 30:15, 18, 21, 29** — [[Four Things]]: four lists in the three-four form, each naming
+  four items. See [[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]]
 
 ## Analysis
 
@@ -42,6 +44,14 @@ account"* (40:4).
 once and the hearer hears twice — the right proportion, on the psalm's account, between God's word and a
 human being's reception of it. Job, who spoke more than anyone in the book, ends by reducing his own word
 to the psalmist's measure: once, twice, no further.
+
+### The three-four form — Proverbs 30
+
+Agur uses the *x, x+1* pattern four times (30:15, 18, 21, 29), always as three and four, and each
+time names four items, so the second number is the actual count. That use differs from the one-two
+forms above, which measure speaking and hearing rather than introduce lists. Amos uses three and four
+for the nations' transgressions; see
+[[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]].
 
 ## Significance
 

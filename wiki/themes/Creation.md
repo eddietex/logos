@@ -193,7 +193,19 @@ creation. The question about a son supplies no name or account of a second creat
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Agur's creatures — Proverbs 30:15–31
+
+The lists draw on the natural world for most of their items: the leech, the earth that is not
+satisfied with water, fire, the eagle, the serpent, the sea, ants, conies, locusts, the lizard, the
+lion, and the goat. Creation is a source of wonder (18–19) and of lessons (24–28), but it is not
+sentimentalized: ravens and young eagles eat the mocker's eye (17). Several animal names are
+uncertain in translation; see the passage notes.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:15–31; Insatiable things, traceless ways, small wise creatures, and stately animals.
 
 - [[The Words of Agur]] — Proverbs 30:4.
 

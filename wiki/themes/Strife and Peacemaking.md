@@ -305,7 +305,18 @@ peacemaking does not require treating wrongdoing as acceptable.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:8–11, 22, 27; the passage page records the
 cross-reference sources and interpretive limits.
 
+### The forcing of wrath — Proverbs 30:33
+
+Proverbs 30:33 builds a three-line wordplay on *mîṣ* (*pressing*, read in Sefaria's *Miqra
+according to the Masorah*, 2026-10-27): churning milk gives butter, wringing the nose (*ʾap̄*) gives
+blood, and forcing wrath (*ʾappāyim*) gives strife. The image makes strife the product of pressure,
+and the preceding verse gives the remedy: stop before pressing.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:33; Churning, wringing, forcing: wrath produces strife.
 
 - [[Where There Is No Vision]] — Proverbs 29:8–11, 22, 27; Wise people turn away anger and govern
   their own temper, while mockery inflames a city and wrath multiplies strife.

@@ -387,7 +387,18 @@ innocent; it says the bystander answers to God for doing nothing (24:12).
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Sheol and the barren womb — Proverbs 30:15–17
+
+Sheol heads the list of things that never say *"Enough"*, and the barren womb follows it (16).
+Death that keeps taking and a womb that cannot give life are named together as unfilled want.
+Verse 17 then gives the mocker of parents an unburied death, his eye left to the birds — a warning
+about the end of contempt, not an account of a particular death.
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:15–17; Sheol and the barren womb never satisfied; the mocker's eye left to the birds.
 
 - [[The King's Heart]] — Proverbs 21:6, 16, 21, 25; Seekers of death, the departed spirits, and life found.
 

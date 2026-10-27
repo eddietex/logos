@@ -104,6 +104,11 @@ country for it. The Egyptian slave's line begins with an Egyptian daughter-in-la
 
 ### Where the rest of her is
 
+Proverbs 30:23 names *"a servant who is heir to her mistress"* among the earth's intolerable
+reversals, using *gəḇirtāh*, the word for Sarai at Genesis 16:4. The proverb speaks from the
+mistress's household; Genesis lets God meet the servant who fled it. See
+[[The Unloved Wife and the Servant Heir - Proverbs 30.23, Leah, and Hagar]].
+
 - **Genesis 17** — she is not in the chapter and it is entirely about the arrangement she was used
   for. Thirteen years after the birth, God reopens the question her pregnancy had closed, says for the
   first time that the son will be **Sarah's** (17:16), refuses Abraham's request that Ishmael stand in

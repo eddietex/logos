@@ -247,7 +247,18 @@ concerns knowledge, moral judgment, and dependence on God.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Lifting up yourself — Proverbs 30:32
+
+Agur's words end with pride: *"If you have done foolishly in lifting up yourself, or if you have
+thought evil, put your hand over your mouth"* (32). The generation of *"lofty"* eyes (13) is answered
+by the gesture of silence Job made before God. See
+[[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]].
+
+See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
+
 ## Key passages
+
+- [[Four Things]] — Proverbs 30:32; The one who has lifted himself up told to put his hand over his mouth.
 
 - [[The Words of Agur]] — Proverbs 30:2–4, 9, 12–13.
 

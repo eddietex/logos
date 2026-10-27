@@ -65,7 +65,8 @@ God's.
 The sluggard (*ʿāṣēl*) is Proverbs' stock figure of the idle man; this is his first appearance,
 and he returns at 10:26, 24:30–34, and 26:13–16. The lesson is taken from observation of a
 creature, as Job 12:7 told Job's friends to *"ask the animals"*, and Agur will cite the ant again
-as one of *"four things which are little on the earth, but … exceedingly wise"* (30:24–25). The
+as one of *"four things which are little on the earth, but … exceedingly wise"* (30:24–25; see
+[[Four Things]]). The
 ant has *"no chief, overseer, or ruler"* (6:7): *qāṣîn*, *šōṭēr*, *mōšēl*. *Šōṭēr* is the word
 Exodus used for the Israelite *"officers"* set over the brickmakers under Pharaoh's taskmasters
 (Exodus 5:6, 14; *šōṭərāyw*, *šōṭərê*). Israel in Egypt worked because it was driven; the ant works
