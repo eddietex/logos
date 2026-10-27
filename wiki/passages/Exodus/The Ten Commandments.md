@@ -113,6 +113,10 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:24 joins the wrong of robbing parents with
+  the denial that it is wrong, bringing parental honor and the prohibition of theft together (Exodus
+  20:12, 15).
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:26 portrays the opposite of parental
   honor (Exodus 20:12), and 19:5, 9, 28 condemns false testimony (20:16). See
   [[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] .

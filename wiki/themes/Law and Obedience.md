@@ -384,7 +384,20 @@ neighbor's covering at sunset; the terse proverb does not repeal that protection
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Integrity, law, and public life — Proverbs 28:4–5, 7, 9, 24
+
+Keeping the law opposes wickedness and marks a wise son; refusing to hear it corrupts prayer itself.
+Seeking Yahweh and understanding justice stand between these sayings. The chapter does not identify
+a particular law code. Its treatment of predatory interest (8), partiality (21), and parental
+robbery (24) can be compared with Exodus 22:25; 23:3, 6–8; 20:12, 15 without claiming direct
+quotation.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:4–5, 7, 9, 24.
 
 - [[Wine Is a Mocker]] — Proverbs 20:10, 16, 20, 23, 25; Commercial justice, parental honor, and the limits on collateral.
 

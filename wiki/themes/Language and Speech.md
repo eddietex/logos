@@ -375,7 +375,19 @@ curse by him"* (14), as the song to a heavy heart was vinegar on soda (25:20).
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 25:20; 27; Hebrew from Sefaria.
 
+### Integrity, law, and public life — Proverbs 28:13, 23–24
+
+Confession is joined to renunciation, rebuke to eventual favor, and flattery contrasted with
+correction. The thief’s claim that robbing parents is not wrong shows speech used to evade
+responsibility (24). Verse 23 develops the costly rebuke commended in 27:5–6; its benefit may become
+apparent afterward rather than in the first response.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13, 23–24.
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
 

@@ -442,7 +442,21 @@ with *may*. See [[Whoever Digs a Pit - Proverbs 26.27, Psalm 7.15, and Ecclesias
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Integrity, law, and public life — Proverbs 28:1, 8, 10, 13–14, 18, 20, 22, 27
+
+The trap catches its maker, exploitative wealth passes to someone who pities the poor, and
+generosity is answered with sufficiency. **Contradiction under an exceptionless reading:**
+blamelessness brings safety in 28:18, but Job 2:3, 7 records ruin without cause and disease in the
+man whose integrity God affirms. The chapter itself grants both poor integrity (6) and oppressive
+rulers (15–16). These sayings cannot be inverted into a diagnosis of every frightened or
+impoverished person.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 8, 10, 13–14, 18, 20, 22, 27.
 
 - [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
 

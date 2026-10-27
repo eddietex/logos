@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:6.
+
 - [[A Good Name]] — Proverbs 22:1.
 
 - [[The King's Heart]] — Proverbs 21:9, 19.
@@ -31,7 +33,7 @@ tags: [connection]
 - **Proverbs 27:10** — *"better is a neighbor who is near than a distant brother."* —
   [[Do Not Boast About Tomorrow]]
 - **Proverbs 28:6** — *"Better is the poor who walks in his integrity, than he who is perverse in his ways,
-  and he is rich."* *(not yet ingested)*
+  and he is rich."* — [[The Wicked Flee When No One Pursues]]
 - **Proverbs 3:14; 8:11, 19** — wisdom better than silver, gold, and rubies — see
   [[Better Than Gold - The Price of Wisdom]].
 
@@ -102,6 +104,16 @@ open rebuke than hidden love"* (5) puts the uncovered (*məḡullāh*) rebuke ab
 kinship in the day of disaster. Like the earlier sayings, they admit a cost — the sting of rebuke, the
 brother not turned to — and judge it worth paying. See [[Do Not Boast About Tomorrow]]. Hebrew from
 Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
+### Proverbs 28 in context
+
+The comparison now explicitly identifies the morally compromised person as rich. Proverbs 19:1 spoke
+of perverse lips and folly; 28:6 speaks of perverse ways and riches. Poverty and integrity can
+therefore coexist within Proverbs itself. Verse 18’s safety promise remains alongside that
+concession and Job’s undeserved ruin (Job 2:3, 7).
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

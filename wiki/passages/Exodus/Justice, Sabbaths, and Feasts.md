@@ -128,6 +128,9 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:21 condemns partiality and observes
+  wrongdoing for bread, beside Exodus 23:3, 6–8’s protections against favoritism and bribes.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 28 insists on accountability for
   false witness, beside Exodus 23:1–8’s protection of truthful justice. See
   [[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] .

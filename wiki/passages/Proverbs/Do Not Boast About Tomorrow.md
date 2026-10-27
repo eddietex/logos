@@ -233,6 +233,9 @@ whose face one knows.
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:23 carries forward 27:5–6’s costly
+  correction: the one who rebukes finds favor afterward, above the flatterer.
+
 - [[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] — Proverbs 27:1.
 - [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] — Proverbs 27:7,
   20.

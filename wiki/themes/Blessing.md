@@ -255,7 +255,20 @@ benediction.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Integrity, law, and public life — Proverbs 28:14, 20, 27
+
+The person who always fears is blessed (14), faithfulness is rich with blessings (20), and giving to
+the poor is met with no lack rather than the curses attached to closed eyes (27). These sayings
+connect blessing to teachability and generosity. **Tension:** Job’s integrity and aid to the poor
+coexist with loss (Job 2:3; 31:16–23); outward ease cannot be used as a complete measure of the
+giver’s character.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:14, 20, 27.
 
 - [[Wine Is a Mocker]] — Proverbs 20:7, 21; Children blessed; hasty inheritance denied final blessing.
 

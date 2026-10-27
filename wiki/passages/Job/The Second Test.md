@@ -245,6 +245,9 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:18 promises safety to the blameless, an
+  explicit tension with Job’s integrity maintained amid ruin without cause and bodily suffering.
+
 - [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Proverbs 20:7, 30 cannot make family loss or physical pain proof of guilt; Job 2:3 affirms integrity amid undeserved ruin.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23’s freedom from trouble cannot be an

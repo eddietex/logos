@@ -330,6 +330,14 @@ mortar (27:22) follow. The chapter ends with the collection's only sustained poe
 of your flocks … for riches are not forever, nor does the crown endure to all generations"* (27:23–27).
 Yahweh is not named in it.
 
+[[The Wicked Flee When No One Pursues]] (28:1–28) brings law, wealth, and rule into one field of
+moral testing. The poor may have integrity and discernment, the rich may misjudge themselves, and
+even a needy person may oppress. Refusing to hear the law corrupts prayer; confession and
+renunciation find mercy. Wicked rule drives people into hiding, while work, generosity, rebuke, and
+trust in Yahweh are commended. The promises of boldness and safety remain explicitly in tension with
+Job’s affirmed integrity, fear, and suffering; the chapter’s own poor person with integrity prevents
+equating wealth with righteousness.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -405,7 +413,7 @@ first collection at its heading), each titled from a representative saying.
 - [x] [[The Glory of Kings]] — Proverbs 25:1–28
 - [x] [[Answer a Fool]] — Proverbs 26:1–28
 - [x] [[Do Not Boast About Tomorrow]] — Proverbs 27:1–27
-- [ ] The Wicked Flee When No One Pursues — Proverbs 28:1–28
+- [x] [[The Wicked Flee When No One Pursues]] — Proverbs 28:1–28
 - [ ] Where There Is No Vision — Proverbs 29:1–27
 
 ### Agur and Lemuel (30–31)
@@ -416,6 +424,11 @@ first collection at its heading), each titled from a representative saying.
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Law and Obedience]] — law kept or refused shapes allegiance, family honor, and prayer (28:4, 7,
+  9).
+- [[Forgiveness]], [[Guilt and Conscience]] — confession and renunciation find mercy (28:13); fear
+  is not a reliable test of guilt (28:1 beside Job 3:25–26).
 
 - [[Compassion and Mercy]] — available good must not be delayed (3:27–28).
 - [[Favor and Grace]] — grace given to the humble (3:34).

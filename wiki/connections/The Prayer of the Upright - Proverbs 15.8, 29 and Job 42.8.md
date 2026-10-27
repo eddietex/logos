@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:9, 13.
+
 - [[The King's Heart]] — Proverbs 21:3, 13, 27.
 
 - **Proverbs 15:8** — *"The sacrifice made by the wicked is an abomination to Yahweh, but the prayer of
@@ -18,7 +20,7 @@ tags: [connection]
 - **Proverbs 21:27** — *"The sacrifice of the wicked is an abomination; how much more, when he brings
   it with a wicked mind!"* — [[The King's Heart]]
 - **Proverbs 28:9** — *"He who turns away his ear from hearing the law, even his prayer is an
-  abomination."* *(not yet ingested)*
+  abomination."* — [[The Wicked Flee When No One Pursues]]
 - **Job 1:5** — Job *"offered burnt offerings according to the number of them all"* for children who
   *"may"* have sinned — [[Job of Uz]]
 - **Job 42:8–9** — *"offer up for yourselves a burnt offering; and my servant Job shall pray for you,
@@ -70,6 +72,16 @@ rather than a diagnosis. See
 [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]].
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
+
+### Proverbs 28 in context
+
+The law-refuser’s prayer is itself an abomination (9), completing the comparison with 15:8: prayer
+is not inherently acceptable regardless of conduct. Verse 13’s confession and renunciation leave
+room for mercy. The distinction is between refusal and turning, not between people who have never
+sinned and everyone else.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

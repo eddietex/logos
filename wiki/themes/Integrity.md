@@ -83,8 +83,8 @@ in my integrity."*
 
 **Proverbs makes it a road.** *"He who walks in integrity walks surely, but he who perverts his ways
 will be found out"* (10:9); *"Better is the poor who walks in his integrity than he who is perverse
-in his lips and is a fool"* (19:1, and again at 28:6). **The wisdom tradition's claim is that
-integrity is safe**, and Job is the counter-example that tradition had to absorb.
+in his lips and is a fool"* (19:1; 28:6 gives a related comparison with perverse ways and riches).
+**The wisdom tradition's claim is that integrity is safe**, and Job is the counter-example that tradition had to absorb.
 
 **The law makes it a physical property.** The sacrificial animal must be *tāmîm*, without blemish
 (Leviticus 1:3, 22:19–21), and the altar's stones must be uncut (Exodus 20:25). **Correction:** this
@@ -209,7 +209,19 @@ contradicting an exceptionless reading of family security. See [[Blessed Are His
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Integrity, law, and public life — Proverbs 28:6, 18
+
+Verse 6 explicitly ranks a poor person with integrity above a rich person with perverse ways; it
+resembles 19:1 but replaces crooked lips and folly with crooked ways and wealth. Verse 18 promises
+safety to the blameless. **Tension:** Job retains integrity while ruined without cause (Job 2:3, 7);
+integrity has worth even when its promised security is not experienced.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:6, 18.
 
 - [[Wine Is a Mocker]] — Proverbs 20:6–7, 9, 11; Character known by faithful conduct, without a boast of sinlessness.
 

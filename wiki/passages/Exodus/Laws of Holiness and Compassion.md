@@ -120,6 +120,10 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:8 pictures exploitative interest ultimately
+  benefiting someone who pities the poor. Its WEB qualifier “excessive” must not rewrite Exodus
+  22:25’s prohibition.
+
 - [[Wine Is a Mocker]] — Proverbs 20:16’s seizure of a guarantor’s garment supplies no exception to Exodus 22:26–27’s return of the necessary covering.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:17’s figurative loan to Yahweh

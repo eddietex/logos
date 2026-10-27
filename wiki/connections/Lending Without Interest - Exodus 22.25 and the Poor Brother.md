@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:8.
+
 - [[A Good Name]] — Proverbs 22:7.
 
 - **Exodus 22:25** — *"If you lend money to any of my people with you who is poor, you shall not be
@@ -78,6 +80,16 @@ the law: do not *"strike hands"* for debts you cannot cover (22:26). The law res
 proverb warns the borrower and the guarantor.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:26–27; Exodus 22:26–27; no new source-language claim.
+
+### Proverbs 28 in context
+
+The wealth gathered by excessive interest is accumulated for someone who pities the poor. Exodus
+22:25 commands a lender not to charge interest to the poor person among God’s people; Proverbs gives
+a reversal of the exploiter’s intended benefit. The WEB’s qualifier “excessive” in Proverbs does not
+alter Exodus’s command. No equivalence or distinction between the Hebrew terms is claimed here.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

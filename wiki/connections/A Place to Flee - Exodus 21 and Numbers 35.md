@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:17.
+
 - [[Laws of Violence and Injury]] — Exodus 21:12–14, 29–30: refuge for unintentional killing, no altar protection
   for planned murder, and a possible ransom for the negligent bull owner.
 - Numbers 35:9–34 — cities of refuge, adjudication, witnesses, and prohibited ransoms; verified
@@ -31,6 +33,17 @@ the owner who failed to restrain a bull known to be dangerous. Numbers 35:31 for
 murderer, and 35:32 separately forbids payment for an early return from refuge. Thus it is too
 broad to say that the Torah refuses ransom in only one case. The cases have different grounds and
 outcomes; money is not a universal means of canceling liability.
+
+### Proverbs 28 in context
+
+Proverbs describes the person tormented by life blood as a fugitive until death, without support.
+Its brief saying gives no account of intent, witnesses, or trial. Exodus 21:12–14 expressly
+distinguishes an unintentional killing from a planned one. Reading Proverbs as an instruction to
+deny all refuge would contradict the protection Exodus grants; the proverb should not erase the
+law’s distinctions. This addition compares the stored WEB of Proverbs and Exodus only.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

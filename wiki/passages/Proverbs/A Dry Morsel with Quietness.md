@@ -262,6 +262,10 @@ and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13 requires honesty about one’s own sins,
+  alongside 17:9’s refusal to repeat another’s offense; 28:21 returns to partiality and the ease of
+  corruption.
+
 - [[The King's Heart]] — Proverbs 21:14 observes the secret gift working; 17:23 judges it.
 
 - [[Wine Is a Mocker]] — Proverbs 20:30’s cleansing blows must remain beside 17:26’s condemnation of flogging for integrity.

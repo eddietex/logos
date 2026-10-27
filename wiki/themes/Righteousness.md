@@ -270,7 +270,20 @@ of 25:5.
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### Integrity, law, and public life — Proverbs 28:1, 4–5, 10, 12, 18, 28
+
+The righteous are bold and their ascendancy brings public flourishing; wicked rule drives people
+into hiding. Seeking Yahweh grounds understanding of justice (5). The chapter recognizes actual
+wicked rulers, not merely hypothetical ones. **Tension:** the safety of the blameless (18) and
+boldness of the righteous (1) stand beside Job’s affirmed integrity, sores, and fear (Job 1:1; 2:3,
+7; 3:25–26). Fear or suffering cannot therefore diagnose wickedness.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 4–5, 10, 12, 18, 28.
 
 - [[The King's Heart]] — Proverbs 21:3, 12, 15, 18, 21, 26; Justice done with joy, pursued, and generous.
 

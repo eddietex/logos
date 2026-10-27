@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13.
+
 - **Genesis 3:7–12** — the coverings of fig leaves; *"the man and his wife hid themselves from the
   presence of Yahweh God among the trees of the garden"*; *"I was afraid, because I was naked; and I hid
   myself"*; and the blame passed on, *"The woman whom you gave to be with me, she gave me fruit"* —
@@ -21,9 +23,9 @@ tags: [connection]
 - **Job 31:38–40** — *"If my land cries out against me, and its furrows weep together … let briers grow
   instead of wheat, and stinkweed instead of barley."* — [[Job's Oath of Innocence]]
 - **Hosea 6:7** *(not yet ingested)* — *"But they, like Adam, have broken the covenant."*
-- **Psalm 32:5; Proverbs 28:13** *(not yet ingested)* — *"I acknowledged my sin to you. I didn't hide my
-  iniquity"*; *"He who conceals his sins doesn't prosper, but whoever confesses and renounces them finds
-  mercy."*
+- **Psalm 32:5** *(not yet ingested)* — sin acknowledged rather than hidden.
+- **Proverbs 28:13** — confession and renunciation contrasted with concealment —
+  [[The Wicked Flee When No One Pursues]]
 
 ## Analysis
 
@@ -49,10 +51,21 @@ Job calls it down on himself only if he has wronged the land; Adam received it b
 
 **Two kinds of covering.** Psalm 32:5 and Proverbs 28:13 set out the alternative to Adam's covering:
 the sin acknowledged and not hidden, and the mercy that follows. Job's position is different from both:
-he says there is nothing to confess. The friends had read his suffering as the sign of a hidden sin
+he denies concealing wrongdoing and rejects the crimes alleged against him; he does not claim
+universal sinlessness. The friends had read his suffering as the sign of a hidden sin
 (11:6; 22:5), and their advice was the Psalm's; **31:33 is Job's reply that what they took for
 concealment is the absence of anything to conceal.** The epilogue's verdict (42:7) does not contradict
 him.
+
+### Proverbs 28 in context
+
+Confession and renunciation are the positive alternative to concealment. Job 31:33–34 denies hiding
+wrongdoing, not the need for honesty about actual sins. The proverb cannot justify requiring Job to
+confess the particular crimes his friends allege; nor does Job’s defense amount to universal
+sinlessness.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

@@ -216,6 +216,9 @@ rules that cannot be applied by rule, and 26:7 and 9 say so in the book's own wo
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:10–11 develops the trap that catches its
+  maker (26:27) and the self-estimate of the person wise in his own eyes (26:12).
+
 - [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]] — Proverbs 26:5, 12,
   16.
 - [[The Dog Returns to His Vomit - Proverbs 26.11 and 2 Peter 2.22]] — Proverbs 26:11.

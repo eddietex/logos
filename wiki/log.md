@@ -17138,3 +17138,54 @@ unchanged. Hebrew of Proverbs 1:26; 2:16; 5:3; 6:1, 34; 10:1; 12:16; 15:11; 17:3
 according to the Masorah* on 2026-10-26. The Hebrew of Isaiah 5:14, Habakkuk 2:5, and Proverbs 21:19,
 and the Greek of James 4 and Luke 12, were not checked, and the pages say so at the point of claim.
 `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 28.1-28 — The Wicked Flee When No One Pursues
+
+Ingested [[The Wicked Flee When No One Pursues]], retaining the planned title and Proverbs 28:1–28
+boundary and advancing exactly one queue item. The unattended discussion is in the passage page:
+righteous boldness and wicked flight; public order and predatory rule; law, justice, and prayer;
+poverty with integrity and discernment; exploitative interest; confession and renunciation; fear and
+hardening; bloodguilt; work and greedy haste; partiality; rebuke and flattery; parental robbery;
+trust in Yahweh; and generosity toward the poor.
+
+**Interpretive decisions.** The chapter's safety and boldness promises are kept in explicit tension
+with Job's affirmed integrity, fear, and suffering (Job 1:1; 2:3, 7; 3:25–26). Fear or poverty is not
+a diagnostic proof of wrongdoing. The WEB's needy oppressor (28:3), excessive interest (8),
+unspecified object of fear (14), and bloodguilty fugitive (17) are retained. No historical ruler or
+geographical setting is supplied. The brevity of 28:17 must not erase Exodus 21:12–14's protection
+for unintentional killing. Verse 13 names neither the giver of mercy nor a confession procedure;
+verse 21 does not explicitly name a judge. The new comparison with Leviticus concerns the verified
+WEB's image of flight without pursuit, without claiming direct quotation or Hebrew identity.
+
+**Created (2 content pages):** the passage and
+[[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]] (parallel and tension).
+
+**Revised (55 content pages):** [[Proverbs]] (overview, checklist, and key themes); [[God]] (synthesis
+and appearance); 26 themes (Blessing, Blood, Compassion and Mercy, Faith, Favor and Grace, Folly,
+Forgiveness, Guilt and Conscience, Hardening of the Heart, Integrity, Judgment, Kingship and Empire,
+Language and Speech, Law and Obedience, Prayer, Pride and Self-Exaltation, Retribution, Righteousness,
+Sin, Strife and Peacemaking, The Fear of God, The Poor and the Vulnerable, Theft and Restitution,
+Wealth and Possessions, Wisdom, Work); 10 existing connections (A Bribe Blinds, A Place to Flee,
+Better Is Little, If Like Adam I Have Covered, Lending Without Interest, Lends to Yahweh, Love Covers
+Wrongs, The Prayer of the Upright, Whoever Digs a Pit, Wise in His Own Eyes); and 17 earlier passage
+pages with reciprocal comparisons. Each theme received synthesis and a key-passage entry; each
+connection received the new passage and a contextual analysis. Relevant “not yet ingested” labels
+were replaced. Integrity's earlier shorthand treating 19:1 and 28:6 as identical was corrected, and
+the Job-concealment connection's overbroad “nothing to confess” was qualified to distinguish denial
+of alleged crimes from universal sinlessness. No named human or place appears in the unit, so no
+additional person or place page was created.
+
+**Indexes and totals.** Revised 8 index/dashboard pages: books, the main dashboard, themes, People
+Index F-M, and Connections Index A-C, I-N, O-S, T-Z. The new connection files under B. Category rows
+match every person/place/theme/connection page exactly once, and split-index sorting and ranges
+were checked. Proverbs is 38 / 43 pericopes, still in progress. Counts by frontmatter are 182
+passages, 180 people, 90 places, 83 themes, and 470 connections. Including this log, the pass creates
+2 pages and revises 64 existing pages.
+
+**Sources and validation.** Proverbs, Job, and Exodus comparisons use existing raw WEB. The eight
+key-verse quotations were mechanically compared with the raw text. Leviticus 26:36 was verified at
+bible-api.com with `translation=web` on 2026-10-26; no unreached book was added to raw. All existing
+raw texts are unchanged. No new Hebrew or Greek wording claim is made. `scripts/link-check.sh`
+exits 0 (62 expected not-yet-started book targets); `git diff --check` is clean. No unresolved
+operational issue or new dangling link remains. Source-language identity and literary dependence
+are not established by the WEB comparison, as stated on the pages.

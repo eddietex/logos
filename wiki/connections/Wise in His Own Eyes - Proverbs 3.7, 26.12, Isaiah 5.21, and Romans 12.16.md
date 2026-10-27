@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:11, 26.
+
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7: *"Don't be wise in your own eyes. Fear
   Yahweh, and depart from evil."*
 - [[Whoever Loves Correction]] — Proverbs 12:15: *"The way of a fool is right in his own eyes, but he
@@ -15,7 +17,7 @@ tags: [connection]
   *"Do you see a man wise in his own eyes? There is more hope for a fool than for him"*; *"The
   sluggard is wiser in his own eyes than seven men who answer with discretion."*
 - Proverbs 28:11 — *"The rich man is wise in his own eyes; but the poor who has understanding sees
-  through him."* Stored WEB, not yet ingested.
+  through him."* Stored WEB; see [[The Wicked Flee When No One Pursues]].
 - Proverbs 29:20 — *"Do you see a man who is hasty in his words? There is more hope for a fool than
   for him."* Stored WEB, not yet ingested.
 - Isaiah 5:21 — *"Woe to those who are wise in their own eyes, and prudent in their own sight!"*
@@ -57,6 +59,16 @@ not claim a quotation.
 
 Sources: stored WEB Proverbs 3:7; 12:15; 26:3, 5, 12, 16; 28:11; 29:20. Isaiah 5:21 and Romans 12:16
 verified at bible-api.com with `translation=web` on 2026-10-26.
+
+### Proverbs 28 in context
+
+The wealthy person’s self-estimate is exposed by a poor person with understanding (11). The contrast
+strips wealth of any automatic authority to certify wisdom. Verse 26 adds self-trust as folly, while
+25 commends trust in Yahweh. These observations concern the stored WEB only; no new claim about
+Hebrew wording is made.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

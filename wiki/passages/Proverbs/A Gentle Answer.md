@@ -211,6 +211,9 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:9 extends 15:8’s distinction: prayer itself
+  is unacceptable when the speaker refuses to hear the law.
+
 - [[The King's Heart]] — Proverbs 21:27 repeats 15:8 on the wicked man's sacrifice and adds *"how much more"*.
 
 - [[The Plans of the Heart]] — Proverbs 16:1's *answer of the tongue*, 16:6 after 15:8, and 16:18 after 15:33.

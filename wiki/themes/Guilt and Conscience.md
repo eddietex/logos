@@ -105,7 +105,20 @@ narrate admissions of guilt. See [[The Hearing Ear and the Seeing Eye - Proverbs
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Integrity, law, and public life — Proverbs 28:1, 13, 17, 24
+
+Flight without a pursuer pictures the insecurity of wickedness (1); bloodguilt leaves a fugitive
+without support (17); and denial cannot make parental robbery innocent (24). Confession and
+renunciation offer the alternative to concealment (13). **Tension:** Job’s fear in Job 3:25–26
+coexists with God’s affirmation of his integrity (2:3). Anxiety is not evidence from which guilt may
+safely be inferred.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 13, 17, 24.
 
 - [[Wine Is a Mocker]] — Proverbs 20:9, 27; The heart cannot certify itself; Yahweh searches inwardly.
 

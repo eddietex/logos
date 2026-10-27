@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13, 23–24.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 25, 27.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; hatred stirs up strife, love covers wrongs.
 - [[Answer a Fool]] — Proverbs 26:26; hatred covered by deception, and uncovered in the assembly.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:9; and Proverbs 28:13 — covering an offense promotes love; concealing one's own sins
-  contrasts with confession and renunciation (stored WEB; not yet ingested).
+  contrasts with confession and renunciation (stored WEB; see [[The Wicked Flee When No One Pursues]]).
 - 1 Peter 4:8 — earnest love among believers, covering a multitude of sins (not yet ingested).
 - James 5:19–20 — turning a wanderer back from error, saving from death, and covering sins
   (not yet ingested).
@@ -75,6 +77,16 @@ others. In 26:26 hatred covers itself, behind charming speech (26:24–25), and 
 it is *tiggāleh*, *uncovered*, in public. This is the dishonest concealment this page distinguishes
 from love's covering, now with the same vocabulary as the saying it is set against. See
 [[Answer a Fool]]. Source: stored WEB Proverbs 10:12; 26:24–26.
+
+### Proverbs 28 in context
+
+Verse 13 requires the wrongdoer to confess and renounce sins. It does not contradict love’s refusal
+to perpetuate another’s offense in 10:12 and 17:9: the subject and purpose of concealment differ.
+Rebuke that later earns favor (23) and parental robbery defended as innocent (24) clarify why
+forbearance cannot require falsehood.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

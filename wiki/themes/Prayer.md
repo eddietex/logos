@@ -154,7 +154,7 @@ for me with all your heart"* (WEB at bible-api.com). See [[Wisdom Calls at the G
 
 ### The prayer of the upright — Proverbs 15:8, 29
 
-The prayer of the upright is Yahweh's *"delight"* (8), and *"he hears the prayer of the righteous"* while he *"is far from the wicked"* (29). Proverbs 28:9 will add the limit: the one who will not hear the law finds *"even his prayer is an abomination"*. Job 42:8's *"my servant Job shall pray for you, for I will accept him"* is the case. See [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
+The prayer of the upright is Yahweh's *"delight"* (8), and *"he hears the prayer of the righteous"* while he *"is far from the wicked"* (29). Proverbs 28:9, now in [[The Wicked Flee When No One Pursues]], adds the limit: the one who will not hear the law finds *"even his prayer is an abomination"*. Job 42:8's *"my servant Job shall pray for you, for I will accept him"* is the case. See [[The Prayer of the Upright - Proverbs 15.8, 29 and Job 42.8]].
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
@@ -168,7 +168,20 @@ from becoming a rule that silence proves guilt. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Integrity, law, and public life — Proverbs 28:9, 13
+
+Prayer becomes an abomination when the speaker refuses to hear the law (9), developing the contrast
+between upright prayer and wicked sacrifice in 15:8. Confession and renunciation find mercy (13), so
+this is not a claim that a sinner can never seek mercy. **Limit:** Job’s unanswered cries (Job 19:7;
+30:20) do not establish that he refused instruction; silence alone cannot prove the condition
+condemned here.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:9, 13.
 
 - [[The King's Heart]] — Proverbs 21:13, 27; The cry not heard, and worship refused from the wicked.
 

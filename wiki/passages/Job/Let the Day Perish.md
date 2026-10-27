@@ -220,6 +220,10 @@ speech that starts the quarrel is not addressed to anyone in it.
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:1 pictures righteous boldness, but Job’s
+  fear in 3:25–26 is not evidence of wickedness. See
+  [[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]].
+
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:24 assigns realized fear to the wicked; Job 3:25
   reports it in an upright sufferer. The tension remains explicit.
 

@@ -396,7 +396,20 @@ Judgment here is the human court's, and its failure is a public wrong.
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### Integrity, law, and public life — Proverbs 28:5, 15–16, 21
+
+Seeking Yahweh enables understanding of justice; tyranny is deficient judgment and partiality is not
+good. The piece of bread for which a person does wrong (21) shows that corruption need not require a
+great reward. Exodus 23:3, 6–8 likewise refuses both favoritism and denial of justice to the poor,
+and forbids bribes. The proverb does not name a formal court in verse 21, so that setting is a
+contextual comparison.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:5, 15–16, 21.
 
 - [[The King's Heart]] — Proverbs 21:2, 12, 15; Hearts weighed and the wicked house considered.
 

@@ -197,7 +197,18 @@ king's friendship — and set above wealth.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Integrity, law, and public life — Proverbs 28:23
+
+The person who rebukes another finds more favor afterward than the flatterer. This is interpersonal
+favor recognized over time; the verse does not name God as its giver. It develops the open rebuke
+and faithful wounds of Proverbs 27:5–6 without making pleasant speech the measure of kindness.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:23.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:6, 12, 14; Royal goodwill is sought
   and pictured as dew; household prudence is a divine gift.

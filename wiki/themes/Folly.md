@@ -281,7 +281,18 @@ nothing reaches the folly, not even the pounding that husks grain.
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 12:16; 22:3, 15; 27; Hebrew from Sefaria.
 
+### Integrity, law, and public life — Proverbs 28:7, 26
+
+The companion of gluttons shames his father; the person who trusts in himself is a fool. The
+contrast in verse 26 is between self-trust and walking in wisdom. It addresses refusal of a wiser
+standard, not a prohibition of every exercise of personal judgment.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:7, 26.
 
 - [[The King's Heart]] — Proverbs 21:16, 20, 24; The wanderer, the swallowing fool, and the scoffer.
 

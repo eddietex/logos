@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:8, 27.
+
 - [[A Good Name]] — Proverbs 22:9, 16.
 
 - [[The King's Heart]] — Proverbs 21:13, 26.
@@ -58,6 +60,16 @@ the expected economics in the same way 19:17 does: giving to the poor is the gai
 the loss.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 19:17; 22:9, 16; no new source-language claim.
+
+### Proverbs 28 in context
+
+Verse 8 redirects exploitative gain toward someone who pities the poor; verse 27 contrasts giving
+with deliberately closed eyes. The positive promise of no lack stands in tension with the generous
+Job’s losses (Job 1–2; 31:16–23). Generosity is commended, but outward sufficiency cannot prove or
+disprove whether someone has practiced it.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

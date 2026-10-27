@@ -106,7 +106,19 @@ ancient boundary stone, which your fathers have set up"* (22:28), repeated with 
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### Integrity, law, and public life — Proverbs 28:24
+
+Robbing one’s father or mother and denying the wrong makes a person a partner with a destroyer. The
+household relationship gives no exemption from property obligations. This develops Proverbs 19:26
+and stands beside Exodus 20:12, 15 on honoring parents and theft; the proverb specifies no
+restitution tariff.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:24.
 
 - [[Wine Is a Mocker]] — Proverbs 20:10, 14, 17, 23; Fraudulent gain condemned without a restitution tariff.
 

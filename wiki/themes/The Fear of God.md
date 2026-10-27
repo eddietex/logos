@@ -247,7 +247,19 @@ the king, with Yahweh named first (Sefaria's *Miqra according to the Masorah*, r
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Integrity, law, and public life — Proverbs 28:14
+
+The blessed person always fears, in contrast to the person who hardens his heart. The WEB does not
+name an object of fear in this verse. Reading it as reverent moral vigilance fits the contrast and
+the book’s wider teaching, but adding “Yahweh” to a quotation of verse 14 would exceed its wording.
+This fear differs in function from the wicked person’s panicked flight in verse 1.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:14.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23; Fear of Yahweh promises life and
   safety, explicitly in tension with Job’s undeserved affliction.

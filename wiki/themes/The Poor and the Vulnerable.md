@@ -212,7 +212,19 @@ none. Job 24:2–3 records the same crimes going on without visible intervention
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Job 24:2–3.
 
+### Integrity, law, and public life — Proverbs 28:3, 6, 8, 11, 15, 21, 27
+
+The poor may have integrity and discernment (6, 11), but poverty does not guarantee virtue: the
+oppressor in verse 3 is himself needy. The chapter condemns predatory lending, rule over the
+helpless, partiality, and refusal to give. It distinguishes material position from moral character
+without minimizing the damage oppression does.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:3, 6, 8, 11, 15, 21, 27.
 
 - [[The King's Heart]] — Proverbs 21:13; Stopped ears answered by an unheard cry.
 

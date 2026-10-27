@@ -221,7 +221,18 @@ praise received in the furnace of 17:3: how a man takes his praise tests him. Se
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 27; Hebrew from Sefaria.
 
+### Integrity, law, and public life — Proverbs 28:11, 26
+
+The rich man is wise in his own eyes, while a poor person with understanding sees through him (11).
+Self-trust is called folly in verse 26. The sayings expose the assumption that success makes someone
+the final judge of his own wisdom, without saying that all wealthy people lack understanding.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:11, 26.
 
 - [[The King's Heart]] — Proverbs 21:2, 4, 24; Self-approval, the high look, and the scoffer's name.
 

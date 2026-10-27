@@ -135,6 +135,10 @@ from a danger the owner knew about (21:33–36).
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:17 describes a bloodguilty fugitive without
+  support; its generality must not cancel Exodus 21:12–14’s distinction between deliberate and
+  unintentional killing.
+
 - [[Wine Is a Mocker]] — Proverbs 20:20 depicts the parental curser’s ruin as an extinguished lamp; Exodus 21:17 gives the legal death penalty.
 
 - Genesis 9:5–6; Exodus 20:12–13 — the demand for human life, honoring parents, and the prohibition

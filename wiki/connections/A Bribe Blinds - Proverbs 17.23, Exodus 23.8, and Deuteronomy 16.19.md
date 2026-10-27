@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:21.
+
 - [[The Field of the Sluggard]] — Proverbs 24:23–25.
 - [[The King's Heart]] — Proverbs 21:14.
 
@@ -102,6 +104,16 @@ the nations' are not in competition; together they say an acquittal of the guilt
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–25; 28:21; Deuteronomy 1:17 WEB
 verified at bible-api.com, 2026-10-26. Hebrew of Proverbs 24:23–25; 28:21 and Deuteronomy 1:17; 16:19
 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
+### Proverbs 28 in context
+
+Partiality is condemned, yet a person will do wrong for a piece of bread. The small inducement
+exposes how little can corrupt conduct. The verse does not name a judge or explicitly call the bread
+a bribe in the WEB; the judicial reading is a contextual comparison with 24:23 and Exodus 23:3, 6–8,
+not an added detail of the verse.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

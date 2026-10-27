@@ -144,6 +144,9 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13 contrasts confession and renunciation
+  with concealing one’s own sins; this differs from love’s covering of wrongs in 10:12.
+
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11’s overlooking an offense extends
   10:12’s account of love covering wrongs.
 

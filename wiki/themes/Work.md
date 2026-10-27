@@ -356,7 +356,19 @@ commended rather than its absence condemned.
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 27; Hebrew from Sefaria.
 
+### Integrity, law, and public life — Proverbs 28:19–20
+
+Cultivating one’s land brings food; chasing fantasies brings poverty. Verse 19 recalls Proverbs
+12:11 but closes with poverty rather than lack of understanding. Verse 20 then favors faithfulness
+over haste for riches. These describe responsible conduct; verse 3’s crop-destroying oppression
+within the same chapter prevents treating every failed harvest as evidence of idleness.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:19–20.
 
 - [[The King's Heart]] — Proverbs 21:5, 25; Diligent plans against haste; the sluggard's fatal desire.
 

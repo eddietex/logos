@@ -129,6 +129,10 @@ See [[The Prosperity of the Wicked]], [[Retribution]], and [[Slavery and Servitu
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:19 reprises the contrast of 12:11 between
+  cultivating land and pursuing fantasies, now closing with poverty rather than lack of
+  understanding.
+
 - [[A Gentle Answer]] — Proverbs 15:5, 10, 12, 31–32 extend 12:1's love of correction; 15:23 the kind word of 12:25.
 - [[Hope Deferred]] — Proverbs 13:1, 24; the son who listens and the father who disciplines.
 - [[A False Balance]] — Proverbs 11; roots, righteous households, counsel, and truthful speech continue.

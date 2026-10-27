@@ -2246,6 +2246,14 @@ God who conceals is also the one who repays, and both are what man is not to do 
 own glory (25:27), or pay back evil. See [[The Glory of Kings]] and
 [[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]]. Source: stored WEB Proverbs 25:2, 22, 27.
 
+### Seeking and trusting Yahweh — Proverbs 28:5, 25
+
+Those who seek Yahweh understand justice, and trust in him is set against greed that produces
+strife. The chapter also judges the prayer of someone who will not hear the law (9), but does not
+name the giver of mercy in verse 13. Its promise of prosperity is held alongside God’s affirmation
+of Job amid undeserved ruin (Job 2:3). See [[The Wicked Flee When No One Pursues]]. Source: stored
+WEB Proverbs 28; Job 2:3.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2518,6 +2526,8 @@ own glory (25:27), or pay back evil. See [[The Glory of Kings]] and
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:5, 25; law and prayer at 28:9.
 
 - [[A Good Name]] — Proverbs 22:1–16; maker of rich and poor, watcher over knowledge.
 - [[Thirty Excellent Things]] — Proverbs 22:17–23:11; object of trust, advocate of the poor, Defender (*gōʾēl*) of the fatherless.

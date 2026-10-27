@@ -172,7 +172,20 @@ collection (25:1).
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### Integrity, law, and public life — Proverbs 28:2, 12, 15–16, 28
+
+Rebellion multiplies rulers while understanding sustains order. Wicked rule is compared with
+predatory animals over helpless people (15), and tyranny with deficient judgment (16). The repeated
+hiding of people when the wicked rise (12, 28) makes political conditions visible from below. Verse
+16 places hatred of ill-gotten gain beside tyranny as a contrasting disposition; no historical ruler
+is named.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:2, 12, 15–16, 28.
 
 - [[The King's Heart]] — Proverbs 21:1; The ruler's heart as directed water, without exemption from responsibility.
 

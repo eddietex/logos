@@ -287,7 +287,18 @@ continual dropping on a rainy day"* (15), with 19:13's *delep̄ ṭôrēḏ*, an
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 19:13; 27; Hebrew from Sefaria.
 
+### Integrity, law, and public life — Proverbs 28:4, 25
+
+Greed stirs up strife (25), while those who keep the law contend with the wicked (4). The chapter
+therefore distinguishes self-serving conflict from principled opposition. Peace cannot mean refusing
+every confrontation; the motive and object of the contention matter.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:4, 25.
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
 

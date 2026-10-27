@@ -219,7 +219,19 @@ small things: songs sung *"to a heavy heart"*, like taking a coat away in the co
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### Integrity, law, and public life — Proverbs 28:8, 13, 27
+
+Wealth accumulated by excessive interest is destined for someone who pities the poor (8); mercy
+meets confessed and renounced sin (13); giving to the poor is set against deliberately closed eyes
+(27). The chapter broadens this page’s emphasis on inward compassion: mercy here also describes what
+the wrongdoer receives, though the giver is not specified in verse 13.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:8, 13, 27.
 
 - [[The King's Heart]] — Proverbs 21:10, 13, 21, 26; The wicked show no mercy; kindness is pursued.
 

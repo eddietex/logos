@@ -129,7 +129,19 @@ erase truth or correction. See [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.
 See [[Better Is the Poor Who Walks in Integrity]] . Source: stored WEB Proverbs 19 and the
 comparisons documented on that passage page.
 
+### Integrity, law, and public life — Proverbs 28:13
+
+Mercy follows confession and renunciation of sins. The WEB says mercy, without naming its giver or
+describing a ritual, restitution procedure, or audience for confession. Read with 10:12 and 17:9,
+the saying distinguishes loving forbearance toward another’s offense from concealment of one’s own.
+It does not require a falsely accused person to admit an invented charge; compare Job 31:33–34.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11; Overlooking an offense is called
   glory, alongside continued correction and truthful judgment.

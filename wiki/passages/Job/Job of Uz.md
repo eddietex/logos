@@ -154,6 +154,10 @@ territory.
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Job’s affirmed integrity must remain beside Proverbs
+  28:1, 18’s boldness and safety sayings; his later fear and suffering cannot invalidate the
+  narrator’s judgment.
+
 - [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Proverbs 20:7's blessing on righteous children must be read beside Job's integrity and subsequent bereavement.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23’s safety promise stands in explicit

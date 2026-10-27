@@ -104,7 +104,19 @@ recorded together, not reconciled. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### Integrity, law, and public life — Proverbs 28:14
+
+The man who hardens his heart falls into trouble, contrasted with the man who always fears.
+Hardening here is attributed to the human subject; the verse does not describe God hardening anyone.
+This differs from the alternating human and divine agency narrated in Exodus. The comparison is
+based on the WEB, without identifying a shared Hebrew verb.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:14.
 
 - [[The King's Heart]] — Proverbs 21:1, 29; A turned royal heart and a hardened wicked face.
 

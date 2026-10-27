@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:10.
+
 - [[Answer a Fool]] — Proverbs 26:27: *"Whoever digs a pit shall fall into it. Whoever rolls a
   stone, it will come back on him."*
 - [[Do Not Consent to Sinners]] — Proverbs 1:18: *"but these lay wait for their own blood. They lurk
   secretly for their own lives."*
 - Proverbs 28:10 — *"Whoever causes the upright to go astray in an evil way, he will fall into his own
-  trap; but the blameless will inherit good."* Stored WEB, not yet ingested.
+  trap; but the blameless will inherit good."* Stored WEB; see [[The Wicked Flee When No One Pursues]].
 - Psalm 7:15–16 — *"He has dug a hole, and has fallen into the pit which he made. The trouble he
   causes shall return to his own head. His violence shall come down on the crown of his own head."*
   Verified WEB, not yet ingested.
@@ -55,6 +57,16 @@ suppose he sometimes is not yet caught. See the discussion of reading Proverbs a
 
 Sources: stored WEB Proverbs 1:11, 18; 26:27; 28:10. Psalm 7:15–16, Psalm 57:6, and Ecclesiastes 10:8
 verified at bible-api.com with `translation=web` on 2026-10-26.
+
+### Proverbs 28 in context
+
+The trap now belongs to someone who leads the upright astray, and the second clause promises good to
+the blameless. Read within chapter 28, the reversal stands alongside the actual oppression of
+helpless people by wicked rulers (15–16). The moral warning does not establish that every victim has
+already been rescued.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
+Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
 
 ## Significance
 

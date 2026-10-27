@@ -152,6 +152,10 @@ required.
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:6 restates the poor person’s integrity
+  against perverse ways and explicit riches; 28:24 develops the warning about robbing parents
+  (19:26).
+
 - [[The King's Heart]] — Proverbs 21:9, 19 extend 19:13's quarrelsome wife into two better-than sayings.
 
 - [[Better Is Little - The Better-Than Sayings of Proverbs]] — 19:1, 22 rank integrity and honesty

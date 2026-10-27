@@ -145,7 +145,19 @@ Defender is strong (23:11) — so the trust asked for is shown in concrete cases
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### Integrity, law, and public life — Proverbs 28:25–26
+
+Trust in Yahweh is contrasted with greed that produces conflict; trust in oneself is contrasted with
+walking in wisdom. Together the sayings recall Proverbs 3:5–7 without making a new claim about
+shared Hebrew wording. The prosperity promised in verse 25 remains in tension with Job’s God-fearing
+losses (Job 1–2).
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:25–26.
 
 - [[Wine Is a Mocker]] — Proverbs 20:22, 24; Trust expressed through waiting and limited knowledge of the way.
 

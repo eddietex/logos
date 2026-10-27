@@ -516,7 +516,19 @@ who uses it. And the wise are those *"who answer with discretion"* (*məšîḇ�
 
 See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Integrity, law, and public life — Proverbs 28:2, 5, 7, 11, 16, 26
+
+Understanding sustains public order and recognizes justice; the law-keeping son is wise. The
+discerning poor person sees through the rich person’s self-estimate (11), and walking in wisdom is
+contrasted with trusting oneself (26). Wisdom therefore cannot be inferred from wealth or office.
+Verse 5 concerns understanding justice, not a promise of knowledge about every subject.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:2, 5, 7, 11, 16, 26.
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
 

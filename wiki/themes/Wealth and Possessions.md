@@ -453,7 +453,20 @@ repeats 20:16's warning about the collateral of one who vouches for a stranger. 
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 20:16; 27; Hebrew from Sefaria.
 
+### Integrity, law, and public life — Proverbs 28:6, 8, 11, 16, 19–22, 24–27
+
+Integrity outranks crooked riches (6). Excessive interest, ill-gotten gain, greedy haste,
+stinginess, and theft from parents expose ways wealth is pursued wrongly. Work and generosity are
+commended instead. Wealth does not certify wisdom (11), and poverty does not establish guilt (6).
+The predictions of loss for greed and sufficiency for giving are retained beside Job’s undeserved
+losses, rather than made a formula for judging every household.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:6, 8, 11, 16, 19–22, 24–27.
 
 - [[The King's Heart]] — Proverbs 21:5–6, 17, 20, 26; Lying treasure, love of pleasure, stored oil, and giving.
 

@@ -242,6 +242,10 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:13 joins confession to renunciation; Job
+  31:33–34 denies concealment without admitting the crimes alleged against him. His generosity
+  (31:16–23) also limits an exceptionless reading of the no-lack promise in 28:27.
+
 - [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]] — Proverbs 20:22 parallels Job 31:29–30’s refusal to curse an enemy to death; 20:10, 23 also shares the concern for honest judgment in Job 31:5–8.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:17 commends the care for the poor that

@@ -257,7 +257,19 @@ affliction. See [[What Is Man That He Should Be Clean]].
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Integrity, law, and public life — Proverbs 28:4, 13–14, 24
+
+Concealing sins is contrasted with confessing and renouncing them (13). Verse 24 gives a concrete
+false defense: the person who robs parents denies that it is wrong. Acknowledgment must therefore
+include abandoning the wrong, rather than only finding words for it. The hardened heart (14)
+supplies the opposing posture.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:4, 13–14, 24.
 
 - [[Wine Is a Mocker]] — Proverbs 20:7, 9, 27, 30; No confident claim to a self-purified heart.
 

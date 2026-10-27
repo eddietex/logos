@@ -157,6 +157,9 @@ Judah copied out"* (25:1). See [[The Glory of Kings]].
 
 ## Cross-references
 
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:21 returns to 24:23’s condemnation of
+  partiality and adds wrongdoing for a piece of bread.
+
 - [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] — Proverbs 24:23–25.
 - [[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]] — Proverbs 24:29.
 - [[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]] — Proverbs 24:29.

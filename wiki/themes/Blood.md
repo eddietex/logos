@@ -162,7 +162,20 @@ and *"feet that are swift in running to mischief"* (6:18) repeat the two verbs o
 [[The Surety, the Sluggard, and the Seven Abominations]] and
 [[Their Feet Run to Evil - Proverbs 1.16, Isaiah 59.7, and Romans 3.15]]. Source: stored WEB Proverbs 6; Hebrew read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+### Integrity, law, and public life — Proverbs 28:17
+
+The man tormented by life blood remains a fugitive until death, without support, in the WEB’s
+rendering. The saying supplies neither the circumstances of the killing nor an adjudication
+procedure. It must not erase Exodus 21:12–14’s distinction between intentional and unintentional
+killing. The comparison concerns liability and refuge, not a claim about an identical
+source-language expression.
+
+See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
+documented on the passage and connection pages.
+
 ## Key passages
+
+- [[The Wicked Flee When No One Pursues]] — Proverbs 28:17.
 
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:17–18; hands that shed innocent blood, among the seven abominations
 
