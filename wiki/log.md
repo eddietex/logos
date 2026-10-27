@@ -17022,14 +17022,14 @@ narrates the kingdom.
 - [[Come Up Here - Proverbs 25.6-7 and Luke 14.7-11]]
 - [[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]]
 
-**Revised content pages (35):** [[Proverbs]] (box, overview paragraph, a key theme, a key person);
+**Revised content pages (33):** [[Proverbs]] (box, overview paragraph, a key theme, a key person);
 [[Solomon]] and [[God]]; 12 theme pages, each with a section and a key-passage entry (The Glory of God,
 Kingship and Empire, Pride and Self-Exaltation, Strife and Peacemaking, Language and Speech, Deception,
 Compassion and Mercy, Vengeance, Retribution, Righteousness, Wisdom, Marriage); 6 existing connections
 (Help for an Enemy, The Contentious Woman, The Wisdom of Solomon, A False Witness Shall Not Be
 Unpunished, The Hearing Ear and the Seeing Eye, Wait for Yahweh), with the *not yet ingested* labels on
-25:1, 25:21–22, and 25:24 replaced by links; and 13 earlier passage pages with reciprocal references
-(eleven in Proverbs, two in Exodus).
+25:1, 25:21–22, and 25:24 replaced by links; and 12 earlier passage pages with reciprocal references
+(ten in Proverbs, two in Exodus).
 
 **Indexes and totals.** Revised the books index, the main dashboard, the themes index (12 rows), People
 Index F-M (new Hezekiah row; God row) and N-Z (Solomon row), and Connections Index A-C, D-H, O-S, and
