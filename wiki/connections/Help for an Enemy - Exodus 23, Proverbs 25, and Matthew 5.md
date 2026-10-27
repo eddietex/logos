@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:4–5.
-- Proverbs 25:21–22 — food and water for an enemy; verified WEB, not yet ingested.
+- [[The Glory of Kings]] — Proverbs 25:21–22, food and water for an enemy.
 - Matthew 5:43–48 — love and prayer for enemies; verified WEB, not yet ingested.
 - Romans 12:20–21 — enemy-feeding instruction and overcoming evil with good; verified WEB, not yet
   ingested.
@@ -51,6 +51,24 @@ ruin that comes on rebels. 24:29, in the next block, then forbids *"I will do to
 to me."*
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 17:5; 24:17–18, 29; Job 31:29.
+
+### Bread and water, and Yahweh repays — Proverbs 25:21–22
+
+Now ingested: *"If your enemy is hungry, give him food to eat. If he is thirsty, give him water to
+drink: for you will heap coals of fire on his head, and Yahweh will reward you."* In Sefaria's *Miqra
+according to the Masorah* (read 2026-10-26) the enemy is *śōnaʾăḵā*, *the one who hates you* — the
+same participle Exodus 23:5 uses of the owner of the fallen donkey, in the WEB *"the donkey of him who
+hates you"*. *Reward* is *yəšallem*, *repay*, the verb forbidden to the son at 20:22 (*ʾăšalləmāh-rāʿ*,
+*"I will pay back evil"*): what he may not do to his enemy, Yahweh does for him. Romans 12:20 quotes
+the first three lines after *"Vengeance belongs to me; I will repay, says the Lord"* (12:19) and
+leaves out Proverbs' last clause, *"and Yahweh will reward you"*, ending instead on *"overcome evil
+with good"* (12:21). The coals remain unexplained; the passage page lists the usual readings without
+adopting one. See [[The Glory of Kings]] and
+[[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]].
+
+Source: stored WEB Proverbs 20:22; 25:21–22; Exodus 23:5. Romans 12:19–21 verified at bible-api.com
+with `translation=web` on 2026-10-26. The Hebrew of Exodus 23:5 was read in the same edition on
+2026-10-26.
 
 ## Significance
 

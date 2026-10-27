@@ -158,7 +158,8 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 - [[The Two Feasts]] — Proverbs 9:9–10; *"increase in learning"* (1:5) and *"The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is
   understanding."* The motto repeated at the close of the prologue.
 - Proverbs 15:33 — *"The fear of Yahweh teaches wisdom. Before honor is humility."*
-- Proverbs 10:1; 25:1 — the two later Solomonic headings.
+- Proverbs 10:1; 25:1 — the two later Solomonic headings; see [[A Wise Son Makes a Glad Father]] and
+  [[The Glory of Kings]].
 - Job 28:28 — [[Where Shall Wisdom Be Found]]: the fear of the Lord as wisdom itself, not its
   beginning.
 - Job 1:1 — [[Job of Uz]]: the man *"who feared God, and turned away from evil"*.

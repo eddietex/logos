@@ -2235,6 +2235,17 @@ See [[Through Wisdom a House Is Built]] and
 [[According to His Work - Proverbs 24.12, Psalm 62.12, and Romans 2.6]]. Source: stored WEB Proverbs
 24:12, 18, 21.
 
+### Proverbs 25 in comparison
+
+God is named twice in the chapter, by two names. At 25:2 he is *ʾĕlōhîm*, *God*, and his glory is
+*"to conceal a thing"* — the only place in the chapter where his character is stated, and it is
+stated as hiddenness, set against the glory of kings, which is to search. At 25:22 he is *Yahweh*,
+who *"will reward"* the one who feeds his enemy; in Sefaria's *Miqra according to the Masorah* (read
+2026-10-26) the verb is *yəšallem*, *repay*, the verb 20:22 forbade the son to use of himself. The
+God who conceals is also the one who repays, and both are what man is not to do for himself: seek his
+own glory (25:27), or pay back evil. See [[The Glory of Kings]] and
+[[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]]. Source: stored WEB Proverbs 25:2, 22, 27.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2512,6 +2523,7 @@ See [[Through Wisdom a House Is Built]] and
 - [[Thirty Excellent Things]] — Proverbs 22:17–23:11; object of trust, advocate of the poor, Defender (*gōʾēl*) of the fatherless.
 - [[Do Not Envy Sinners]] — Proverbs 23:12–24:2; the one to be feared all day long instead of envying sinners.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–22; weigher of hearts, keeper of the soul, who renders to each according to his work; feared with the king.
+- [[The Glory of Kings]] — Proverbs 25:2, 22; God whose glory is to conceal a thing; Yahweh who repays the one who feeds his enemy.
 
 - [[The King's Heart]] — Proverbs 21:1–31; director of the king's heart, weigher of hearts, giver of victory.
 

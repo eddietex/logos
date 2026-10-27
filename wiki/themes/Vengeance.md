@@ -123,6 +123,17 @@ its last clause is what 24:12 says God does. See
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### The enemy fed — Proverbs 25:21–22
+
+Where 20:22 forbade *"I will pay back evil"* and 24:29 forbade *"I will do to him as he has done
+to me"*, 25:21–22 commands the opposite action: food and water for *the one who hates you*. In
+Hebrew the reward is *yəšallem*, *Yahweh will repay* — the verb 20:22 forbade to the son. Paul quotes
+the couplet after *"Vengeance belongs to me; I will repay, says the Lord"* (Romans 12:19–20). See
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]] and
+[[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]].
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:22; Personal repayment refused in favor of Yahweh’s rescue.
@@ -189,6 +200,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
   ransom buys off
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18; No rejoicing when an enemy falls, lest Yahweh turn his wrath away.
 - [[The Field of the Sluggard]] — Proverbs 24:29; The talion refused as a private resolve.
+- [[The Glory of Kings]] — Proverbs 25:21–22; Food for the enemy; Yahweh the one who repays.
 
 ## Related themes
 

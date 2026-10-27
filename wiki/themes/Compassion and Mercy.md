@@ -209,6 +209,16 @@ witness, and the *"time of trouble"* that tests strength (10) is someone else's.
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### Bread and water for an enemy — Proverbs 25:20–22
+
+*"If your enemy is hungry, give him food to eat. If he is thirsty, give him water to drink"*
+(25:21). The need governs, as in Exodus 23:4–5; the reason given is *"coals of fire on his head"*,
+unexplained, and *"Yahweh will reward you"* (25:22). Just before, 25:20 names mercy's failure in
+small things: songs sung *"to a heavy heart"*, like taking a coat away in the cold. See
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:10, 13, 21, 26; The wicked show no mercy; kindness is pursued.
@@ -303,6 +313,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"What would he sleep in? … for I am gracious"*
 - [[A Good Name]] — Proverbs 22:9; The generous eye shares food with the poor.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:10–12; The duty to rescue those led to death; the plea of ignorance refused.
+- [[The Glory of Kings]] — Proverbs 25:20–22; Cheer that wounds a heavy heart; food and water for an enemy.
 
 ## Related themes
 

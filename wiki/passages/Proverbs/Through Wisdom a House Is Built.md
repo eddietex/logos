@@ -213,6 +213,7 @@ next queue item.
 - [[Laws of Holiness and Compassion]] — Exodus 22:28, God and the ruler named together.
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:18–19, the house that fell on Job's children.
 - [[The Field of the Sluggard]] — Proverbs 24:23–34, the appendix that follows; 24:27's field and house, and 24:29's forbidden *"I will render"*.
+- [[The Glory of Kings]] — Proverbs 25:16, 27, honey measured after 24:13's *"eat honey, for it is good"*; 25:21–22, the enemy fed.
 
 ## Notes
 
@@ -269,7 +270,8 @@ House Is Built* to match the WEB wording of 24:3. Exactly one queue item is adva
 **Gloating and Yahweh's wrath.** 24:18 gives a reason the reader may find uncomfortable: not
 *because your enemy is a person*, but *lest Yahweh turn his wrath away from him*. The wiki records
 the verse's reason as given. It does not claim the verse wants the enemy to suffer; it says the
-enemy's fall belongs to Yahweh, and that joy at it is seen. Romans 12:19–21 and Proverbs 25:21–22,
+enemy's fall belongs to Yahweh, and that joy at it is seen. Romans 12:19–21 and Proverbs 25:21–22 (now
+in [[The Glory of Kings]]),
 both on [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]], are the fuller treatments.
 
 **An Egyptian comparison, unverified here.** As on [[Thirty Excellent Things]] and

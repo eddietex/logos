@@ -421,6 +421,16 @@ poverty arriving *"as a robber"* (24:34) is consequence, not sentence. See
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### Yahweh will reward you — Proverbs 25:22
+
+*"Yahweh will reward you"* (25:22) closes the command to feed an enemy. The Hebrew verb is *šillēm*,
+*repay*, the vocabulary of retribution applied to kindness: the one who does not repay his enemy is
+himself repaid by Yahweh. The chapter's other consequences are social and immediate — the neighbour
+who shames the hasty litigant (25:8), the bad name that *"never depart[s]"* (25:10), the honey eaten
+to vomiting (25:16), the neighbour who comes to hate the frequent guest (25:17).
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
@@ -710,6 +720,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[Do Not Envy Sinners]] — Proverbs 23:18, 21, 32; The latter end as the measure: hope, rags, or a snakebite.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12, 16, 20, 22; Each rendered according to his work; the righteous fall and rise, the wicked are overthrown.
 - [[The Field of the Sluggard]] — Proverbs 24:24–25, 29, 34; Rendering according to work belongs to God and the court, not the wronged man.
+- [[The Glory of Kings]] — Proverbs 25:8–10, 16–17, 22; Social consequences, and Yahweh's repayment of the one who feeds his enemy.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

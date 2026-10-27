@@ -16994,3 +16994,55 @@ Isaiah 5:5–6 was read from Sefaria's *Miqra according to the Masorah* on 2026-
 *zāʿam* was not checked against a lexicon and is marked so at the point of claim; the Hebrew of
 Deuteronomy 19:19 and the Greek of Matthew 5:38–39 and Hebrews 6:7–8 were not checked, and the pages
 say so. `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 25.1-28 — The Glory of Kings
+
+Ingested [[The Glory of Kings]], keeping the planned Proverbs 25:1–28 boundary and title and advancing
+exactly one queue item. 25:1 opens the Hezekian collection with its own heading, and 26:1 begins the
+cluster on the fool. The unattended discussion is written into the passage page: concealing and
+searching (2–3); the refiner and the throne (4–5); the place at court (6–7); the neighbour in court
+(8–10); words in their place (11–15); enough honey and enough visits (16–17); three betrayals (18–20);
+the enemy fed (21–22); and the closing comparisons (23–28).
+
+**Interpretive decisions.** 25:2 and 25:27 are read as framing the chapter by their shared *ḥēqer* and
+*kāḇôḏ*, with the difficulty of 25:27b stated rather than resolved. *"Whom your eyes have seen"* (25:7)
+is left with the WEB's verse division; the alternative attachment to 25:8 is noted. The *coals of fire*
+(25:22) are left unexplained, and the usual readings are listed as unchecked. Luke 14:7–11 is recorded
+as a thematic parallel to 25:6–7, not a quotation. A north wind bringing rain (25:23) is taken as the
+WEB has it, with the climatological question noted. No king in 25:2–7 is identified with Solomon or
+Hezekiah.
+
+**Hezekiah gets a page; Judah does not.** [[Hezekiah]] is named in 25:1 and now has a placeholder page,
+linked to the three connections that already quoted him from Isaiah and 2 Kings. *Judah* in his title
+names the kingdom, but [[Judah]] is the patriarch's person page; a place page for the kingdom would set
+off the person/place rename rule for one word in a heading. That is deferred to the first ingest that
+narrates the kingdom.
+
+**Created (4):** the passage, [[Hezekiah]], and two connections:
+- [[Come Up Here - Proverbs 25.6-7 and Luke 14.7-11]]
+- [[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]]
+
+**Revised content pages (35):** [[Proverbs]] (box, overview paragraph, a key theme, a key person);
+[[Solomon]] and [[God]]; 12 theme pages, each with a section and a key-passage entry (The Glory of God,
+Kingship and Empire, Pride and Self-Exaltation, Strife and Peacemaking, Language and Speech, Deception,
+Compassion and Mercy, Vengeance, Retribution, Righteousness, Wisdom, Marriage); 6 existing connections
+(Help for an Enemy, The Contentious Woman, The Wisdom of Solomon, A False Witness Shall Not Be
+Unpunished, The Hearing Ear and the Seeing Eye, Wait for Yahweh), with the *not yet ingested* labels on
+25:1, 25:21–22, and 25:24 replaced by links; and 13 earlier passage pages with reciprocal references
+(eleven in Proverbs, two in Exodus).
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index (12 rows), People
+Index F-M (new Hezekiah row; God row) and N-Z (Solomon row), and Connections Index A-C, D-H, O-S, and
+T-Z (two new rows filed under C and S; six rows extended; no range redraw needed). Proverbs is now
+35 / 43 pericopes and remains in progress. Counts by frontmatter are 179 passages, 180 people, 90
+places, 83 themes, and 464 connections.
+
+**Sources and validation.** All Proverbs and Exodus quotations were copied from the stored WEB.
+Deuteronomy 29:29, Luke 14:7–11, Romans 12:19–21, Matthew 5:25, Matthew 23:12, and Isaiah 38:3, 14 were
+verified at bible-api.com with `translation=web` on 2026-10-26. No unreached book was fetched, and
+existing raw files are unchanged. Hebrew of Proverbs 10:11; 11:13; 13:17; 15:1; 16:12, 32; 20:12, 19,
+22; 21:9; 24:13, 24; 25:1–28, Exodus 20:16 (20:13 in that edition), Exodus 23:5, and Deuteronomy 29:28
+(Hebrew numbering) was read from Sefaria's *Miqra according to the Masorah* on 2026-10-26. The glosses
+of *heʿtîqû*, *yəḥassedḵā*, and *neṯer* were not checked against a lexicon and are marked so at the
+point of claim; the Greek of Luke 14 and any Septuagint form of Proverbs 25:6–7 were not checked, and
+the connection page says so. `scripts/link-check.sh` exits 0.

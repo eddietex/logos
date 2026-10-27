@@ -262,6 +262,16 @@ first taste and the end. The drinker who has been bitten still says *"I can do i
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Clouds without rain — Proverbs 25:14, 18–19
+
+Three pictures of trust disappointed: *"As clouds and wind without rain, so is he who boasts of
+gifts deceptively"* (25:14) — Hebrew *a gift of falsehood*; the false witness, whose second line
+repeats the ninth commandment's Hebrew (25:18); and *"Confidence in someone unfaithful in time of
+trouble is like a bad tooth, or a lame foot"* (25:19), which gives way exactly when leaned on. See
+[[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]].
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 8, 28; Treasure by a lying tongue and the false witness.
@@ -467,6 +477,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
   words
 - [[Thirty Excellent Things]] — Proverbs 23:3, 7; Deceitful food, and a host whose heart is not with his words.
 - [[Do Not Envy Sinners]] — Proverbs 23:31–32, 35; Wine that goes down smoothly and bites at the end.
+- [[The Glory of Kings]] — Proverbs 25:14, 18–19; The false boaster, the false witness, the unfaithful man trusted in trouble.
 
 ## Related themes
 

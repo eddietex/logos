@@ -144,7 +144,7 @@ commands for Israel's life and worship, not a report that the people have alread
   [[Laws of Holiness and Compassion]].
 - Exodus 12:14–20; 13:3–10 — the remembered departure and Unleavened Bread: [[The Passover]] and
   [[The Consecration of the Firstborn]].
-- Proverbs 25:21–22; Matthew 5:43–48; Romans 12:20–21 — doing good to an enemy:
+- Proverbs 25:21–22 ([[The Glory of Kings]]); Matthew 5:43–48; Romans 12:20–21 — doing good to an enemy:
   [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
 - Leviticus 25:1–7 — the seventh year's rest and food:
   [[The Seventh Year's Food - Exodus 23 and Leviticus 25]].

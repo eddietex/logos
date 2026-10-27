@@ -111,7 +111,7 @@ honest answer (26) is the alternative to both. The field readied before the hous
 left to thorns (30–31) are the two ends of the same advice. And the phrase *"according to his work"*
 (29) closes the loop with 24:12: the son is not to make himself the one who renders. The next queue
 item opens a new collection: *"These also are proverbs of Solomon, which the men of Hezekiah king of
-Judah copied out"* (25:1).
+Judah copied out"* (25:1). See [[The Glory of Kings]].
 
 ## Key verses
 
@@ -176,6 +176,7 @@ Judah copied out"* (25:1).
 - [[Do Not Withhold Good]] — Proverbs 3:30, *ḥinnām*.
 - [[The Fall]] — Genesis 3:17–19, thorns and thistles.
 - [[Job's Oath of Innocence]] — Job 31:40, briers instead of wheat.
+- [[The Glory of Kings]] — Proverbs 25:1–28, the next block; the neighbour at law again (25:8–10).
 
 ## Notes
 

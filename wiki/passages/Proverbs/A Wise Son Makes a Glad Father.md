@@ -179,6 +179,7 @@ and [[Suffering]].
 - [[A Strong Tower]] — Proverbs 18:4, 7, 11; 10:15's strong city repeated and judged *"in his own imagination"*, 10:11's spring varied.
 - [[A Good Name]] — Proverbs 22:16 closes the collection headed at 10:1.
 - [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–25, the father's gladness spoken in the first person.
+- [[The Glory of Kings]] — Proverbs 25:1, the next Solomonic heading; 25:26, the spring (*māqôr*) of 10:11 muddied.
 
 ## Notes
 

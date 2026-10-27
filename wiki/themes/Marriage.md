@@ -220,6 +220,15 @@ prudent wife Yahweh's gift (19:14). See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The housetop corner again — Proverbs 25:24
+
+*"It is better to dwell in the corner of the housetop, than to share a house with a contentious
+woman"* (25:24) repeats 21:9; in Hebrew the two differ by one letter. In chapter 25 it follows the
+backbiting tongue (25:23), in a run on speech that makes a house unlivable. See
+[[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 19; The contentious wife, spoken from the husband's side.
@@ -407,6 +416,7 @@ the passage page.
   and no ransom
 - [[The Young Man Void of Understanding]] — Proverbs 7:4, 19–20; wisdom as *"my sister"*, and the husband away with a bag of
   money
+- [[The Glory of Kings]] — Proverbs 25:24; The contentious woman, repeated from 21:9.
 
 ## Related themes
 

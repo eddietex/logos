@@ -188,6 +188,17 @@ quarrels, and insults go with him (22:10).
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Do not exalt yourself before the king — Proverbs 25:6–7, 14, 27
+
+*"Don't exalt yourself in the presence of the king, or claim a place among great men"* (25:6). The
+reason is public: better to be told *"Come up here"* than to be put lower *"in the presence of the
+prince"* (25:7). Jesus' parable of the wedding guests tells the same scene and adds the rule
+*"everyone who exalts himself will be humbled"* (Luke 14:11); see
+[[Come Up Here - Proverbs 25.6-7 and Luke 14.7-11]]. The chapter adds the boaster of gifts never
+given, *"clouds and wind without rain"* (25:14), and closes on seeking one's own honour (25:27).
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 4, 24; Self-approval, the high look, and the scoffer's name.
@@ -260,6 +271,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:7; *"Don't be wise in your own eyes"*, answered by the fear of Yahweh
 - [[Wisdom Calls at the Gates]] — Proverbs 8:13; pride and arrogance first in what Wisdom hates
 - [[A Good Name]] — Proverbs 22:4, 10; Humility rewarded; the mocker driven out.
+- [[The Glory of Kings]] — Proverbs 25:6–7, 14, 27; The courtier who exalts himself, the false boaster, one's own honour.
 
 ## Related themes
 

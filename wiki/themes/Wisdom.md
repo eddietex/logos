@@ -492,6 +492,18 @@ the world — here, at a neighbour's ruined vineyard — and reflecting on it.
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### Searching out a matter — Proverbs 25:2, 12, 28
+
+The Hezekian collection opens by making inquiry an honour: *"the glory of kings is to search out a
+matter"* (25:2), though God's glory is *"to conceal a thing"*. Wisdom in chapter 25 is reading the
+world by comparison — snow, cloud, honey, a spring, a wall — and much of it is restraint: eat honey
+only *"as much as is sufficient"* (25:16), visit seldom (25:17), and do not be *"a city that is broken
+down and without walls"*, a spirit without restraint (25:28), the reverse of 16:32's man who rules
+his spirit. A wise reprover is an ornament only to a hearing ear (25:12). See
+[[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]].
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -694,6 +706,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[Do Not Envy Sinners]] — Proverbs 23:12, 15, 19, 23–24; The wise heart that gladdens a father; truth bought and not sold.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–7, 13–14; Wisdom builds and fills the house, wins the war, and is honey to the soul.
 - [[The Field of the Sluggard]] — Proverbs 24:23, 32; The second *"sayings of the wise"*; instruction received by looking.
+- [[The Glory of Kings]] — Proverbs 25:2, 12, 16–17, 28; The king's searching, the reprover and the hearing ear, the spirit without restraint.
 
 ## Related themes
 

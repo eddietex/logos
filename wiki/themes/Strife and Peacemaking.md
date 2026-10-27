@@ -254,6 +254,17 @@ the drinker is. The block closes on men whose *"hearts plot violence"* (24:2).
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Settle with the neighbour — Proverbs 25:8–10, 23–24
+
+*"Don't be hasty in bringing charges to court. What will you do in the end when your neighbor shames
+you? Debate your case with your neighbor, and don't betray the confidence of another"* (25:8–9). The
+counsel is to argue a quarrel out directly, without escalation and without using another's secret,
+lest a lasting bad name follow (25:10). The chapter's close adds the *"backbiting tongue"* that brings
+an angry face (25:23) and the contentious woman of the housetop corner, repeated from 21:9 (25:24).
+Between them, 25:15's *"soft tongue"* and 25:21–22's bread for an enemy show the other way.
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
@@ -416,6 +427,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[A Good Name]] — Proverbs 22:10; Drive out the mocker and quarrels stop.
 - [[Thirty Excellent Things]] — Proverbs 22:24–25; The hot-tempered companion whose ways are learned.
 - [[Do Not Envy Sinners]] — Proverbs 23:29; 24:2; Strife and needless bruises at the wine; hearts that plot violence.
+- [[The Glory of Kings]] — Proverbs 25:8–10, 21–24; Haste to court refused, the case argued with the neighbour, the enemy fed.
 
 ## Related themes
 

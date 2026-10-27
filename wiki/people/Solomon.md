@@ -131,6 +131,16 @@ the next heading to name him is 25:1. See [[Thirty Excellent Things]] and
 [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]. Source: stored WEB Proverbs
 22:17; 24:23; 25:1.
 
+### Proverbs 25:1 — the men of Hezekiah
+
+The third and last heading to name him opens the second Solomonic collection: *"These also are
+proverbs of Solomon, which the men of Hezekiah king of Judah copied out"* (25:1). The attribution of
+chapters 25–29 is his; their transmission belongs to [[Hezekiah]]'s court, two and a half centuries
+later. The chapter begins with kings searching out a matter and with an unsearchable royal heart
+(25:2–3), but no king in 25:2–7 is named, and the wiki does not identify any of them with Solomon. See
+[[The Glory of Kings]] and [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
+Source: stored WEB Proverbs 25:1–7.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -138,9 +148,11 @@ the next heading to name him is 25:1. See [[Thirty Excellent Things]] and
 - 1 Kings 4:29–34 *(not yet ingested)* — wisdom beyond the east and Egypt; three thousand proverbs.
 - 1 Kings 11:1–13 *(not yet ingested)* — his heart turned by his wives in old age.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
+- Proverbs 25:1 — named in the heading of the collection copied by Hezekiah's men. [[The Glory of Kings]]
 
 ## Appears in
 
+- [[The Glory of Kings]] — Proverbs 25:1; named in the heading of the collection copied out by Hezekiah's men.
 - [[A Good Name]] — Proverbs 22:1–16; close of the collection attributed to him.
 - [[Thirty Excellent Things]] — Proverbs 22:17; the heading that turns from Solomon to *"the wise"*.
 
@@ -176,6 +188,7 @@ the next heading to name him is 25:1. See [[Thirty Excellent Things]] and
 
 ## Related people
 - [[David]] — his father
+- [[Hezekiah]] — king of Judah, whose men copied out the collection of Proverbs 25–29
 - [[God]] — who named him Jedidiah and gave him wisdom
 - [[Job (person)]] — *"the greatest of all the children of the east"* (Job 1:3), the measure Solomon's
   wisdom is said to exceed (1 Kings 4:30)

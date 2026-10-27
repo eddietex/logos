@@ -83,8 +83,8 @@ witless (21). *"Where there is no counsel, plans fail; but in a multitude of cou
 established"* (22) repeats 11:14's *multitude of counselors*, there for the nation, here for any plan.
 **Verse 23 is the chapter's second saying about timing**: *"Joy comes to a man with the reply of his
 mouth. How good is a word at the right time!"* The gentle answer of verse 1 is a matter of manner; the
-word *"at the right time"* is a matter of season, and 25:11 will put it as *"apples of gold in settings
-of silver"*. *"The path of life leads upward for the wise, to keep him from going downward to Sheol"*
+word *"at the right time"* is a matter of season, and 25:11 puts it as *"apples of gold in settings
+of silver"* (see [[The Glory of Kings]]). *"The path of life leads upward for the wise, to keep him from going downward to Sheol"*
 (24): the prologue's road down to Sheol (5:5; 7:27; 9:18) given its opposite direction. The verse does
 not say where the upward path ends; it says only that it is not Sheol.
 
@@ -245,6 +245,7 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 - [[A Strong Tower]] — Proverbs 18:12, 14; 15:33's *"Before honor is humility"* repeated, and 15:13's crushed spirit.
 - [[Thirty Excellent Things]] — Proverbs 22:24–25, the hot-tempered man; 22:28 and 23:10–11, the boundary stone beside 15:25's widow's borders.
 - [[The Field of the Sluggard]] — Proverbs 24:30–31, the sluggard's field grown over with thorns.
+- [[The Glory of Kings]] — Proverbs 25:11, 15, the word fitly spoken and the *soft* (*rakkāh*) tongue, the adjective of 15:1.
 
 ## Notes
 

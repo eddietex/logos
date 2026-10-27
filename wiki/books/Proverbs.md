@@ -293,6 +293,19 @@ forbidden to the son twelve verses after it was said of God. It ends with a firs
 beside the window of 7:6–23: a walk past a vineyard gone to thorns, its wall fallen, and the lesson of
 6:10–11 received again (24:30–34). See [[The Field of the Sluggard]]. Yahweh is not named in it.
 
+The last Solomonic collection opens under a heading that names its copyists: *"These also are
+proverbs of Solomon, which the men of Hezekiah king of Judah copied out"* (25:1). See
+[[The Glory of Kings]] (25:1–28) and [[Hezekiah]]. Its first saying makes inquiry royal — *"It is the
+glory of God to conceal a thing, but the glory of kings is to search out a matter"* (25:2) — and its
+next ones teach the subject his place: the wicked removed from the king like dross from silver (25:4–5),
+and the courtier told *"Come up here"* rather than put lower (25:6–7), the scene of Jesus' parable of
+the wedding guests (Luke 14:7–11). The form changes with the heading: antithetical couplets give way to
+comparisons — apples of gold, snow at harvest, rainless clouds, a bad tooth, vinegar on soda. Between
+them come settling with a neighbour out of court (25:8–10), the soft tongue that *"breaks the bone"*
+(25:15), honey and visits in measure (25:16–17), the false witness in the ninth commandment's own Hebrew
+(25:18), bread and water for an enemy, for which *"Yahweh will reward you"* (25:21–22; quoted at Romans
+12:20), and a man without self-restraint as *"a city that is broken down and without walls"* (25:28).
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -365,7 +378,7 @@ first collection at its heading), each titled from a representative saying.
 
 ### The proverbs copied by Hezekiah's men (25–29)
 
-- [ ] The Glory of Kings — Proverbs 25:1–28
+- [x] [[The Glory of Kings]] — Proverbs 25:1–28
 - [ ] Answer a Fool — Proverbs 26:1–28
 - [ ] Do Not Boast About Tomorrow — Proverbs 27:1–27
 - [ ] The Wicked Flee When No One Pursues — Proverbs 28:1–28
@@ -387,6 +400,8 @@ first collection at its heading), each titled from a representative saying.
 - [[Creation]] — Yahweh founds earth and establishes heavens through wisdom (3:19–20).
 - [[Life and Death]] — wisdom as a tree of life to those who retain her (3:18).
 - [[Wisdom]] — the book's subject, named in its first purpose clause (1:2)
+- [[The Glory of God]] — *"It is the glory of God to conceal a thing, but the glory of kings is to search
+  out a matter"* (25:2)
 - [[The Fear of God]] — *"the beginning of knowledge"* (1:7) and of wisdom (9:10); *"to hate evil"*
   (8:13)
 - [[Folly]] — wisdom's opposite, and the other way the book's reader can go
@@ -433,6 +448,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Solomon]] — named in the headings at 1:1, 10:1, and 25:1; not named at 8:15–18, where Wisdom
   claims the kingship and the riches and honour 1 Kings 3 gives him
 - [[David]] — named once, as Solomon's father (1:1)
+- [[Hezekiah]] — *"king of Judah"*, whose men copied out the collection of chapters 25–29 (25:1)
 - [[God]] — *Yahweh*, named in the motto (1:7) and throughout
 
 ## Key places

@@ -135,6 +135,19 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
 
+### The glory of God to conceal — Proverbs 25:2, 27
+
+*"It is the glory of God to conceal a thing, but the glory of kings is to search out a matter"*
+(25:2). God's glory (*kəḇōḏ ʾĕlōhîm*) is here not a radiance that appears but a hiddenness: the world's
+order is kept partly concealed, and kings are honoured for searching it out. The chapter's last
+saying returns to the same two words — *searching* and *glory* — in a line whose Hebrew is difficult,
+read by the WEB as *"nor is it honorable to seek one's own honor"* (25:27). Glory, on this reading,
+is God's to keep hidden and not man's to pursue for himself. Deuteronomy 29:29 assigns *"the secret
+things"* to Yahweh with the same root; see
+[[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]].
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The encounter leaves a visible effect on the mediator.
@@ -161,6 +174,7 @@ See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s
 - [[The Work Completed]] — Exodus 39:32–43; Finished and approved work precedes the manifestation in Exodus 40.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Glory fills the tent and prevents Moses’ entry; cloud and fire remain publicly visible.
+- [[The Glory of Kings]] — Proverbs 25:2, 27; God's glory to conceal a thing, the king's to search it out.
 
 ## Related themes
 

@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Wine Is a Mocker]] — Proverbs 20:5, 8–12, 27.
+- [[The Glory of Kings]] — Proverbs 25:12.
 - [[The Burning Bush]] — Exodus 4:10–12.
 
 ## Analysis
@@ -27,6 +28,16 @@ Verse 27 adds a different image: the human spirit as Yahweh's lamp searching the
 This concerns inward disclosure, not simply physical sight. The comparison is thematic; no
 identity of Hebrew terms or direction of borrowing is asserted. Sources: stored WEB Proverbs
 20:5, 8–12, 27 and Exodus 4:10–12.
+
+### The obedient ear — Proverbs 25:12
+
+*"As an earring of gold, and an ornament of fine gold, so is a wise reprover to an obedient ear."* The
+WEB's *"obedient ear"* is, in Sefaria's *Miqra according to the Masorah* (read 2026-10-26), *ʾōzen
+šōmaʿaṯ* — the *"hearing ear"* that 20:12 says Yahweh made. The organ Yahweh made is here the place
+where reproof becomes an ornament; whether the ear *hears* in the sense of obeying is the WEB's
+interpretive choice, which the Hebrew participle allows. See [[The Glory of Kings]].
+
+Source: stored WEB Proverbs 20:12; 25:12.
 
 ## Significance
 

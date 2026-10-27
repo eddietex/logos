@@ -12,7 +12,7 @@ tags: [connection]
 - **Proverbs 10:1** — *"The proverbs of Solomon."* The heading of the first sentence collection —
   [[A Wise Son Makes a Glad Father]].
 - **Proverbs 25:1** — *"These also are proverbs of Solomon, which the men of Hezekiah king of Judah
-  copied out."* Not yet ingested.
+  copied out."* — [[The Glory of Kings]]; see [[Hezekiah]].
 - **Proverbs 22:17; 24:23; 30:1; 31:1** — the headings that name someone else: *"the words of the
   wise"*, *"sayings of the wise"*, *"the words of Agur the son of Jakeh"*, *"the words of king Lemuel;
   the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Excellent Things]]; the others are not yet
@@ -102,6 +102,19 @@ things"* (22:20) rests on a disputed Hebrew word; see the passage's notes. The b
 kept as the book gives them: this collection is not Solomon's.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–21.
+
+### The men of Hezekiah — Proverbs 25:1
+
+The third heading to name Solomon is now ingested. *"These also are proverbs of Solomon, which the men
+of Hezekiah king of Judah copied out"* (25:1) is the only heading in the book that names a later
+stage of the book's making: it credits the sayings to Solomon and their copying to unnamed men of
+[[Hezekiah]]'s court. In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) the verb is
+*heʿtîqû*; *"copied out"* is the WEB's reading of it. The heading therefore dates this collection's
+compilation no earlier than Hezekiah's reign and keeps its attribution to Solomon at the same time.
+The chapter it introduces opens with kings — *"the glory of kings is to search out a matter"* (25:2)
+— a line that sits easily under a royal heading, though no king in 25:2–7 is named.
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25:1–7.
 
 ## Significance
 

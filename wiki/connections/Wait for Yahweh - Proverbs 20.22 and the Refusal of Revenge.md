@@ -13,6 +13,7 @@ tags: [connection]
 - [[Job's Oath of Innocence]] — Job 31:29–30.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18.
 - [[The Field of the Sluggard]] — Proverbs 24:29.
+- [[The Glory of Kings]] — Proverbs 25:21–22.
 
 ## Analysis
 
@@ -57,6 +58,17 @@ what God does. The son may not take either into his own mouth. See
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:12, 29; Leviticus 24:19 WEB verified
 at bible-api.com, 2026-10-26; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
+### Yahweh repays — Proverbs 25:21–22
+
+*"Don't say, 'I will pay back evil'"* (20:22) forbids one use of a verb; 25:22 supplies another. In
+Sefaria's *Miqra according to the Masorah* (read 2026-10-26) 20:22 has *ʾăšalləmāh-rāʿ* and 25:22
+*wayhwh yəšallem-lāḵ*, *and Yahweh will repay you* (WEB *"reward"*) — the same verb, *šillēm*. The son
+who will not repay evil is told to feed the enemy, and repayment comes back to him from Yahweh. 20:22
+promised that Yahweh *"will save you"*; 25:22, that he *"will reward you"*. See [[The Glory of Kings]]
+and [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+Source: stored WEB Proverbs 20:22; 25:21–22.
 
 ## Significance
 

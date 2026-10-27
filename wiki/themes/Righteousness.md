@@ -259,6 +259,17 @@ calls an abomination to Yahweh.
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### The throne and the muddied spring — Proverbs 25:5, 26
+
+*"Take away the wicked from the king's presence, and his throne will be established in
+righteousness"* (25:5), a near repetition of 16:12. At the chapter's end the image turns: *"Like a
+muddied spring, and a polluted well, so is a righteous man who gives way before the wicked"* (25:26).
+10:11 had called the mouth of the righteous *"a spring of life"*; a righteous man who yields to the
+wicked spoils the water others drink. The *before the wicked* of 25:26 answers the *before the king*
+of 25:5.
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:3, 12, 15, 18, 21, 26; Justice done with joy, pursued, and generous.
@@ -462,6 +473,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:8, 15–16, 18, 20; Wisdom's words in righteousness, her road of justice, and *ṣəḏāqâ* (WEB *"prosperity"*) among her gifts
 - [[Through Wisdom a House Is Built]] — Proverbs 24:15–16; The righteous man falls seven times and rises.
 - [[The Field of the Sluggard]] — Proverbs 24:24; *"You are righteous"* said to the wicked, and cursed.
+- [[The Glory of Kings]] — Proverbs 25:5, 26; The throne established by removing the wicked; the righteous who gives way, a polluted spring.
 
 ## Related themes
 

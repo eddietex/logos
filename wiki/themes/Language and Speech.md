@@ -339,6 +339,18 @@ testimony is the instrument of revenge (24:29).
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### Words in their place — Proverbs 25:9–15, 18–20, 23
+
+Chapter 25 holds one of the book's densest runs on speech, nearly all of it in comparisons: *"A word
+fitly spoken is like apples of gold in settings of silver"* (11); a wise reprover is an ornament of
+gold *"to an obedient ear"* — Hebrew *ʾōzen šōmaʿaṯ*, 20:12's *hearing ear* (12); a faithful
+messenger is like snow's cold at harvest (13); a boaster of false gifts, like rainless clouds (14);
+*"A soft tongue breaks the bone"* (15). Speech also wounds: the betrayed confidence (9–10), the false
+witness *"like a club, a sword, or a sharp arrow"* (18), songs sung to a heavy heart (20), and the
+backbiting tongue — literally *a tongue of secrecy* — that brings an angry face (23).
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -599,6 +611,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[Thirty Excellent Things]] — Proverbs 22:18, 21; 23:8–9; Words ready on the lips, reliable answers, good words wasted.
 - [[Do Not Envy Sinners]] — Proverbs 23:16, 35; 24:2; Lips that speak what is right, the drunkard's speech, and lips that talk mischief.
 - [[The Field of the Sluggard]] — Proverbs 24:26, 28; The honest answer as a kiss; the witness without cause.
+- [[The Glory of Kings]] — Proverbs 25:9–15, 18–20, 23; The word fitly spoken, the soft tongue, the false witness as a weapon.
 
 ## Related themes
 

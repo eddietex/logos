@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Glory of Kings]] — Proverbs 25:18.
 - [[The Field of the Sluggard]] — Proverbs 24:28–29.
 - [[The King's Heart]] — Proverbs 21:28.
 
@@ -59,6 +60,18 @@ place. See [[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:28–29; Hebrew of Proverbs 1:10;
 24:28–29 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
+### The ninth commandment as a simile — Proverbs 25:18
+
+*"A man who gives false testimony against his neighbor is like a club, a sword, or a sharp arrow."*
+In Sefaria's *Miqra according to the Masorah* (read 2026-10-26) its second line, *ʾîš ʿōneh
+ḇərēʿēhû ʿēḏ šāqer*, is Exodus 20:16's *lōʾ-ṯaʿăneh ḇərēʿăḵā ʿēḏ šāqer* (20:13 in that edition's
+numbering) turned from command into description: the same verb *ʿānāh*, *to answer* or *testify*, the
+same *against your neighbour*, the same *false witness*. Proverbs 19 and 21 promised the false witness
+punishment; 25:18 says instead what his testimony does to its victim — it strikes like weapons at
+three ranges. See [[The Glory of Kings]] and [[The Ten Commandments]].
+
+Source: stored WEB Exodus 20:16; Proverbs 25:18.
 
 ## Significance
 

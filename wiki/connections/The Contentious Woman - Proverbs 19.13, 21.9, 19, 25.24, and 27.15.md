@@ -14,7 +14,7 @@ tags: [connection]
 - **Proverbs 21:19** — *"It is better to dwell in a desert land, than with a contentious and
   fretful woman."* — [[The King's Heart]]
 - **Proverbs 25:24** — *"It is better to dwell in the corner of the housetop, than to share a house
-  with a contentious woman."* *(stored WEB, verified also at bible-api.com; not yet ingested)*
+  with a contentious woman."* — [[The Glory of Kings]]
 - **Proverbs 27:15** — *"A continual dropping on a rainy day and a contentious wife are alike"*
   *(stored WEB, verified also at bible-api.com; not yet ingested)*
 - **Proverbs 26:21** — *"As coals are to hot embers, and wood to fire, so is a contentious man to
@@ -39,6 +39,16 @@ The book's warnings against quarrelling apply to everyone; these sayings apply t
 Sources: stored WEB Proverbs 19:13–14; 21:9, 19; 25:24; 26:21; 27:15. 25:24 and 27:15 were also
 checked at bible-api.com (2026-10-26). No claim about Hebrew vocabulary is made, including whether
 the words rendered *contentious* are the same in every verse.
+
+### The duplicate in Hebrew — Proverbs 25:24
+
+With 25:24 ingested, the Hebrew of the two sayings was compared in Sefaria's *Miqra according to the
+Masorah* (read 2026-10-26). They differ by a single letter: 21:9 has *ṭôḇ lāšeḇeṯ*, *better to
+dwell*, and 25:24 *ṭôḇ šeḇeṯ*, *better dwelling*; the rest — *ʿal-pinnaṯ-gāḡ mēʾēšeṯ midyānîm ûḇêṯ
+ḥāḇer* — is the same, including the noun the WEB renders *contentious*. (25:24 is written *mdwnym* and
+read *midyānîm*.) The earlier caveat about the other verses' vocabulary still stands. In chapter 25
+the saying follows *"a backbiting tongue brings an angry face"* (25:23), so it sits in a run on speech
+that sours a household and a neighbourhood. See [[The Glory of Kings]].
 
 ## Significance
 

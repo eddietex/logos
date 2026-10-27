@@ -159,6 +159,19 @@ but named after him; 21:1 has already put the king's heart in Yahweh's hand. The
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### The searching king — Proverbs 25:1–7
+
+The Hezekian collection opens with kings. Their glory is to *"search out a matter"* (25:2), yet
+their own hearts are *"unsearchable"* as heaven and the deep (25:3). The throne is *"established in
+righteousness"* when the wicked are removed from the king's presence as dross from silver (25:4–5),
+echoing 16:12. And the subject is taught his place: not to exalt himself before the king, since
+*"Come up here"* is better than a public demotion (25:6–7; see
+[[Come Up Here - Proverbs 25.6-7 and Luke 14.7-11]]). 25:15 adds that *"By patience a ruler is
+persuaded."* The heading itself names a king of Judah, [[Hezekiah]], whose men copied the
+collection (25:1).
+
+See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:1; The ruler's heart as directed water, without exemption from responsibility.
@@ -315,6 +328,7 @@ See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 - [[A Good Name]] — Proverbs 22:11; Purity of heart and gracious speech make the king's friend.
 - [[Thirty Excellent Things]] — Proverbs 22:29; 23:1–3; Serving kings and eating at a ruler's table.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:21–22; The king feared with Yahweh; the destruction from them both.
+- [[The Glory of Kings]] — Proverbs 25:1–7, 15; The searching king, his unsearchable heart, the throne purified, the courtier's place.
 
 ## Related themes
 

@@ -157,6 +157,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
   and *"Honor Yahweh"* in the fifth commandment's form (*kabbēḏ ʾeṯ-*).
 - [[The Lamp of the Commandment]] — Proverbs 6:25, 29–32; coveting a neighbour's wife (*taḥmōḏ*),
   adultery (*nōʾēp̄*), and theft (*gannāḇ*) in one lecture, none quoted as law.
+- [[The Glory of Kings]] — Proverbs 25:18, whose Hebrew restates 20:16's false witness against a neighbour as a simile; see
+  [[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]].
 
 ## Notes
 
