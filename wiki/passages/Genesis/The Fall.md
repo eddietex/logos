@@ -154,6 +154,9 @@ and the walking in the cool of the day.
 
 ## Cross-references
 
+- [[The Earth Remains - Genesis and Ecclesiastes 1]] —
+  Labor until the return to dust compared with the question of labor’s gain; Ecclesiastes does not retell the curse. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Genesis 3:22–24 and Proverbs 3:18; barred
   access and life-giving wisdom, without a claim of immortality.
 

@@ -183,7 +183,21 @@ self-approval and contempt.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+Ecclesiastes 1:8 joins the unsatisfied eye to an ear that is never filled. In context, the
+senses stand beside rivers that never fill the sea and a world whose activity continues.
+Proverbs 27:20 similarly places the human eye beside insatiable Sheol and Abaddon, while
+Proverbs 30:15–16 lists things that never say enough. The Preacher does not describe a
+particular act of coveting or a vision of God; the emphasis is the persistence of unsatisfied
+perception. See [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]].
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Seeing does not finally satisfy the eye; hearing does not fill the ear.
 
 - [[The Words of Agur]] — Proverbs 30:12–13.
 

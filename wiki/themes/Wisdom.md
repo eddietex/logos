@@ -580,7 +580,20 @@ See [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]].
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+Ecclesiastes begins with a royal heading and observation, but its opening asks what human
+labor gains rather than listing the benefits of instruction as Proverbs 1:2–6 does. This is
+an inquiry within wisdom literature, not yet the first-person experiment with wisdom that
+starts at 1:12. The heading names the Preacher rather than Solomon, so their attribution must
+remain distinct. See [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; A royal inquiry opens by questioning gain, satisfaction, and memory.
 
 - [[The Worthy Woman]] — Proverbs 31:10–31; Wisdom embodied in skilled work, provision, generous hands, and faithful teaching.
 

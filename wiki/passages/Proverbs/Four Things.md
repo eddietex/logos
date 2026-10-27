@@ -93,6 +93,9 @@ something: milk gives butter, the nose gives blood, and wrath gives strife (32�
 
 ## Cross-references
 
+- [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] —
+  Ecclesiastes 1:7–8 adds the unfilled sea and unsatisfied senses to the comparison. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[The Words of King Lemuel]] — Proverbs 31:8–9 twice commands opening the mouth for another
   person, contrasting with 30:32’s restraint of self-exalting speech.
 

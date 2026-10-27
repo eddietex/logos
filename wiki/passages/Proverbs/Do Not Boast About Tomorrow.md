@@ -233,6 +233,9 @@ whose face one knows.
 
 ## Cross-references
 
+- [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] —
+  Ecclesiastes 1:8 is now ingested within its poem of recurring nature and unsatisfied senses. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[The Worthy Woman]] — Proverbs 31:25, 28–31 joins future confidence with others’ praise; preparedness does not claim control of tomorrow.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:23 carries forward 27:5–6’s costly

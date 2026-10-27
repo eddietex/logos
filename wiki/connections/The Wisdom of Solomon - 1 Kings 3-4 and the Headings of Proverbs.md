@@ -38,8 +38,10 @@ the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Exce
   spoke of trees … he also spoke of animals, of birds, of creeping things, and of fish."* Not yet
   ingested.
 - **Job 1:3** — Job *"the greatest of all the children of the east"* — [[Job of Uz]].
-- **Ecclesiastes 1:1; 12:9** — *"The words of the Preacher, the son of David, king in Jerusalem"*, who
-  *"pondered, sought out, and set in order many proverbs."* Not yet ingested.
+- **Ecclesiastes 1:1** — [[Vanity of Vanities]]; the heading identifies the Preacher as David's son,
+  king in Jerusalem, without naming Solomon.
+- **Ecclesiastes 12:9** — the Preacher teaches and arranges proverbs; stored WEB checked,
+  but this closing unit is not yet ingested.
 - **Song of Solomon 1:1** — *"The Song of songs, which is Solomon's."* Not yet ingested.
 - **Matthew 12:42** — *"she came from the ends of the earth to hear the wisdom of Solomon; and behold,
   someone greater than Solomon is here."* Not yet ingested.
@@ -139,6 +141,16 @@ credits [[Lemuel's Mother]] as the teacher. The transmitted words belong to a ki
 instructed, not a king presumed exempt from learning. The warning about lost strength and
 impaired judgment leads to speaking for the poor. No identity with Solomon is supplied; the
 book’s multiple attributions remain distinct. Source: stored WEB Proverbs 31:1–9.
+
+### The Preacher's heading — Ecclesiastes 1:1–11
+
+[[Vanity of Vanities]] now introduces [[The Preacher (Ecclesiastes)]] in [[Jerusalem]]. The similarity to
+Proverbs 1:1 is real at the level of the English headings: both identify a speaker through
+David and kingship. The difference is equally explicit: Proverbs names Solomon; Ecclesiastes
+names a title. The latter's royal association is not a new proof of historical authorship.
+The opening also changes the question: the benefits of wisdom announced in Proverbs 1:2–6
+stand beside the Preacher's inquiry into labor's gain, satisfaction, and remembrance.
+Source: stored WEB Ecclesiastes 1:1–11; Proverbs 1:1–7.
 
 ## Significance
 

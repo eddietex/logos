@@ -37,11 +37,21 @@ Davidic king who reigns there, and Hebrews 5–7 makes it the pattern for a prie
 Levi's. Everything the city becomes is prefigured by three verses in which a stranger brings out
 bread and wine.
 
+### The explicit Jerusalem name in Ecclesiastes
+
+[[Jerusalem]] now has its own page for the explicit city-name in [[Vanity of Vanities]]
+(Ecclesiastes 1:1). Salem is not named in that unit, nor does the heading supply evidence for
+the Salem–Jerusalem identification discussed above. This page retains the Genesis occurrence
+and identification question; the Jerusalem page records the Preacher's royal location.
+Source: stored WEB Ecclesiastes 1:1; Genesis 14:18.
+
 ## Appears in
 
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:18; Melchizedek comes out from it
 
 ## Related places
+
+- [[Jerusalem]] — explicit name now ingested in Ecclesiastes 1:1; linked here without merging the textual occurrences.
 
 - [[Sodom]] — the other king in the valley of Shaveh comes from there; the chapter sets the two
   cities' rulers side by side and lets the comparison stand

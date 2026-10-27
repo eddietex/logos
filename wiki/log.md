@@ -17465,3 +17465,67 @@ No unreached book was added to raw and no existing raw text changed. No unverifi
 or new Greek claim was introduced. No ambiguous page basename remains.
 `scripts/link-check.sh` exits 0 with 62 expected not-yet-started book targets; `git diff --check`
 is clean. No unresolved operational issue or dangling link remains.
+
+## [2026-10-27] ingest | Ecclesiastes 1.1-11 — Vanity of Vanities
+
+**Opened Ecclesiastes; ingested [[Vanity of Vanities]] (1:1–11) in auto mode.** With no book
+in progress and Proverbs complete, Ecclesiastes was next in the priority list. Added its
+complete WEB source (12 chapters, 222 verses) and created [[Ecclesiastes]] from the book
+template with a 24-pericope queue covering every verse once. Only the opening unit is checked.
+The boundary ends the heading and opening poem at 1:11, before the first-person inquiry of
+1:12–18. Later units remain provisional; none was ingested in this invocation.
+
+The passage preserves all eleven source verses and develops the question of labor's gain,
+recurring nature, passing generations, unsatisfied senses, and lost remembrance. The auto-mode
+discussion is carried in its summary and notes.
+
+**Interpretive decisions.** Created [[The Preacher (Ecclesiastes)]] as a textual speaker rather
+than assigning the unnamed voice to Solomon as a settled historical fact. The book qualifier
+identifies the titled figure without inventing a period or a personal name. David's occurrence
+and Solomon's attribution comparison are distinguished on their pages. Created [[Jerusalem]]
+for the explicit city-name; [[Salem]] retains its Genesis occurrence and identification history.
+No river or sea is identified from the generic imagery, and no named person is invented for
+the laborer or the generations. [[Vanity]] treats futility and transience as contextual readings
+of the WEB opening, without a new lexical claim or a verdict that every action is worthless.
+
+**Tensions retained.** Ecclesiastes 1:3's question about gain remains beside Proverbs 14:23's
+profit in hard work and Proverbs 31:31's obligation to honor its fruit. Ecclesiastes 1:11's
+forgetting remains beside Proverbs 10:7's blessed memory. A distinction between practical
+benefit and enduring advantage is labeled as interpretation. Genesis's good creation and
+promised recurring seasons remain beside the Preacher's weariness; the poem is not made into
+a denial of creation, a technical cosmology, or an explicit retelling of the curse. Job's
+renewing tree and drying waters are compared without replacing them with Ecclesiastes' images.
+
+**Created (7 content pages):** the book, passage, Preacher, Jerusalem, Vanity, and two connections:
+
+- [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
+- [[The Earth Remains - Genesis and Ecclesiastes 1]].
+
+**Revised (23 content pages):** David and Solomon; Salem; eight themes (Work, Creation,
+Remembrance, Wisdom, Life and Death, Kingship and Empire, Seeing and Being Seen, Language and
+Speech); two existing connections (Never Satisfied and The Wisdom of Solomon); and ten earlier
+passages with reciprocal references. Remembrance's overview now includes human memory and
+forgetting alongside divine faithfulness. Each touched theme and person has a synthesis update
+and passage-list entry; both existing connections have the newly ingested passage and analysis.
+Salem explicitly distinguishes a related-place comparison from an occurrence of its own name.
+
+**Indexes and totals.** Updated ten index/dashboard pages: books, main dashboard, themes,
+places, People A-E and N-Z, and Connections D-H, I-N, O-S, and T-Z. Category pages each have
+exactly one index row; split-index sorting and filing ranges pass. Counts by frontmatter type:
+188 passages, 187 people, 91 places, 84 themes, 484 connections; five books started, four
+complete. Including indexes and this log, seven wiki pages were created and 34 revised.
+One raw book was added; no previously stored raw file changed.
+
+**Sources and validation.** All eleven quoted verses exactly match the newly stored WEB text
+fetched by `scripts/fetch-book.sh` from bible-api.com. The book was read in full to draw its
+queue. Cross-references were checked in stored WEB Genesis 1:1–2:3; 3:17–19; 8:22;
+Job 14:7–12; Proverbs 1:1–7; 10:7; 14:23; 27:20; 30:15–16; 31:31. The Ecclesiastes 1:8 Hebrew
+wording in the existing Never Satisfied connection was independently checked against
+Mechon-Mamre's Masoretic Hebrew text, with the source URL recorded there. Its English column
+was not used as WEB. No unreached book was fetched for cross-references; no recalled quotation
+or new Greek claim was introduced. The Jerusalem–Salem identification is not treated as
+established by Ecclesiastes.
+
+`scripts/link-check.sh` exits 0 with 61 expected not-yet-started book targets; `git diff --check`
+is clean. The queue covers all 222 verses without overlap or omission, and exactly one unit is
+checked. No ambiguous content-page basename, unresolved link, or operational blocker remains.

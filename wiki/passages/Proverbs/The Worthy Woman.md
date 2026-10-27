@@ -125,6 +125,9 @@ No place page is created.
 
 ## Cross-references
 
+- [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] —
+  The duty to honor work in Proverbs 31:31 persists beside the question of lasting gain. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — the book’s opening wisdom teaching
   embodied in its closing portrait.
 - [[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]] — the shared description and its limits.

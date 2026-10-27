@@ -77,6 +77,9 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
 
 ## Cross-references
 
+- [[The Earth Remains - Genesis and Ecclesiastes 1]] —
+  Genesis’s good creation and rest compared with the Preacher’s recurring world and weary observers. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Genesis 1 and Proverbs 3:19–20; creation by
   speech and creation through wisdom. See
   [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].

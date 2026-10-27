@@ -203,7 +203,21 @@ uncertain in translation; see the passage notes.
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+The world of Ecclesiastes 1:4–7 persists while generations pass. Sun, wind, and rivers repeat
+their movements without a final arrival. Genesis 8:22 presents recurring seasons as assurance
+after the flood; here persistence exposes the worker's transience. Genesis 1:31–2:3's good
+creation and completed work remain beside this weary observation, rather than being silently
+replaced by it. The opening poem does not give a creation account or deny that God made the
+world. See [[The Earth Remains - Genesis and Ecclesiastes 1]].
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Earth and recurring natural movements outlast their human observers.
 
 - [[Four Things]] — Proverbs 30:15–31; Insatiable things, traceless ways, small wise creatures, and stately animals.
 

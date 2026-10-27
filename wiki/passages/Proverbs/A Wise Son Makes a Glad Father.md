@@ -144,6 +144,9 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] —
+  Proverbs 10:7’s blessed memory remains beside Ecclesiastes 1:11’s forgetting. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:13 contrasts confession and renunciation
   with concealing one’s own sins; this differs from love’s covering of wrongs in 10:12.
 

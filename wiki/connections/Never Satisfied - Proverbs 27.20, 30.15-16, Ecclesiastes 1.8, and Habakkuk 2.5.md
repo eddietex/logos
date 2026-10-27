@@ -15,7 +15,7 @@ tags: [connection]
 - **Proverbs 30:15–16** — [[Four Things]] — *"There are three things that are never satisfied; four
   that don't say, 'Enough:' Sheol, the barren womb; the earth that is not satisfied with water; and the
   fire that doesn't say, 'Enough.'"*
-- **Ecclesiastes 1:8** *(not yet ingested)* — *"The eye is not satisfied with seeing, nor the ear filled
+- **Ecclesiastes 1:8** — [[Vanity of Vanities]] — *"The eye is not satisfied with seeing, nor the ear filled
   with hearing."*
 - **Isaiah 5:14** *(not yet ingested)* — *"Therefore Sheol has enlarged its desire, and opened its mouth
   without measure"*
@@ -33,7 +33,10 @@ for the stomach, and the saying sets it against an appetite that has no such lim
 **The motif recurs in four other places with the same root or image.** Proverbs 30:15–16 lists Sheol
 first among the four things that never say *"Enough"*, and its *earth that is not satisfied* uses *śbʿ*
 (*lōʾ-śāḇəʿāh*). Ecclesiastes 1:8 has the eye again, *lōʾ-ṯiśbaʿ ʿayin lirʾôṯ*, *the eye is not satisfied
-with seeing* — the noun and verb of Proverbs 27:20, in the book of the restless round. Isaiah 5:14 and
+with seeing* — the noun and verb of Proverbs 27:20, in the book of the restless round.
+The Ecclesiastes wording was independently checked in Mechon-Mamre's Masoretic Hebrew text,
+Ecclesiastes 1:8, on 2026-10-27 (source: `https://mechon-mamre.org/p/pt/pt3101.htm`);
+its English column is not used as WEB. Isaiah 5:14 and
 Habakkuk 2:5 picture Sheol's open mouth and enlarged *desire*; Habakkuk applies it to a conqueror who is
 *"like death, and can't be satisfied"*. The Hebrew of Isaiah 5:14 and Habakkuk 2:5 was not checked, and
 no claim is made that they share the verb.
@@ -54,6 +57,15 @@ and Sheol and the womb stand without a verb of their own (Hebrew read from Sefar
 according to the Masorah*, 2026-10-27).
 Unlike 1:12 and 27:20, Agur's list makes no moral point about human appetite. It records the
 condition and leaves the reader to recognize it. See [[Four Things]].
+
+### The opening poem now ingested — Ecclesiastes 1:1–11
+
+[[Vanity of Vanities]] places the eye and ear after rivers flowing into a sea that is not full
+(7–8). The image belongs to the poem's larger movement from recurring nature to human
+weariness and forgetting. This expands the comparison beyond acquisitiveness: 1:8 names no
+possessions or particular immoral observer. Proverbs 27:20's eye is a close comparison;
+Agur's list adds further examples without making them identical to the Preacher's whole
+argument. Source: stored WEB Ecclesiastes 1:1–11; Proverbs 27:20; 30:15–16.
 
 ## Significance
 

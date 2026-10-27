@@ -214,7 +214,20 @@ acquisition and places the king under instruction; see
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+Ecclesiastes 1:1 identifies its speaker as the son of David, king in Jerusalem. The elevated
+position introduces a question common to all workers and generations; it does not exempt
+royalty from the poem's limits. Solomon is not named. The wiki records the royal literary
+identity without converting the heading into a confirmed historical identification or a
+new narrative event in David's life.
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; A king’s heading introduces limits shared by all human generations.
 
 - [[The Words of King Lemuel]] — Proverbs 31:3–9; Royal power is constrained by sobriety,
   instruction, and the rights of the afflicted.

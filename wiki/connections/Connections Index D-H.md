@@ -34,6 +34,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 · [[Do Not Envy Sinners]] (Proverbs 23:33–35) |
 | [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]] | motif | Genesis 1:2, 9–10 · Genesis 7:11, 22 · Genesis 8:1 · Exodus 4:9 · Exodus 14:16, 20–22, 29 · Exodus 15:5, 8, 17, 19 · Psalm 106:9 · Hebrews 11:29 · Proverbs 8:29 · Jeremiah 5:22 · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[Dust, Stars, and Sand - The Offspring Promises]] | parallel | Genesis 13:16 · Genesis 15:5 · Genesis 16:10 · Genesis 22:17 · Genesis 28:14 · Numbers 23:10 · Hebrews 11:12 |
+| [[The Earth Remains - Genesis and Ecclesiastes 1]] | contrast | [[Vanity of Vanities]] (Ecclesiastes 1:3–7, 11) · [[The Creation of the World]] (Genesis 1:1–2:3) · [[The Waters Recede]] (Genesis 8:22) · [[The Fall]] (Genesis 3:17–19) · [[Though He Slay Me]] (Job 14:7–12) |
 | [[The East Wind - Pharaoh's Dream, the Locusts, and the Sea]] | motif | Genesis 41:6, 23, 27 · Exodus 10:13, 19 · Exodus 14:21 · Exodus 15:8, 10 |
 | [[The Eighth Day - Circumcision and the Firstborn Given to God]] | thread | Genesis 17:12 · Genesis 21:4 · Exodus 22:30 · Leviticus 12:3 · Leviticus 22:27 · Luke 2:21 |
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |

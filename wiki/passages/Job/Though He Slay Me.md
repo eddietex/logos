@@ -405,6 +405,9 @@ one hundred forty years, and saw his sons, and his sons' sons, to four generatio
 
 ## Cross-references
 
+- [[The Earth Remains - Genesis and Ecclesiastes 1]] —
+  Job 14:7–12 and Ecclesiastes 1:4–7 use different natural images to expose human limits. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Zophar's First Speech]] — Job 11, the speech this answers: 11:6's *secrets of wisdom* and
   12:3's *who doesn't know such things?*; 11:8–9's four regions and 12:7–8's four creatures;
   11:14's tents and 12:6's.

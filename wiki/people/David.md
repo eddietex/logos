@@ -30,6 +30,13 @@ Proverbs 4:3–4 recalls a teacher receiving instruction from his father. The he
 David's biography. The mother's only child in the WEB (4:3) is not independent evidence
 for the composition of the royal household. Source: stored WEB Proverbs 1:1; 4:1–9.
 
+### Named in the Preacher's heading
+
+[[Vanity of Vanities]] (Ecclesiastes 1:1–11) now supplies the second ingested wisdom heading that
+names David. The heading identifies the Preacher as his son; no deed of David is narrated. Unlike
+Proverbs 1:1, this heading does not name Solomon. See [[The Preacher (Ecclesiastes)]].
+Source: stored WEB Ecclesiastes 1:1; Proverbs 1:1.
+
 ## Timeline / key events
 
 - 1 Samuel 16:13 *(not yet ingested)* — anointed by Samuel, and *"Yahweh's Spirit came mightily on David
@@ -40,12 +47,16 @@ for the composition of the royal household. Source: stored WEB Proverbs 1:1; 4:1
 
 ## Appears in
 
+- [[Vanity of Vanities]] — Ecclesiastes 1:1; named in the Preacher’s identification.
+
 - [[Get Wisdom]] — Proverbs 4:1–9; possible collection-level association only; not named in this unit.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; named only in Solomon's patronym
 - [[The Bread of the Presence - David's Hunger and Matthew 12]]
 - [[Sin Against God - Joseph at 39.9 and David at Psalm 51]]
 
 ## Related people
+
+- [[The Preacher (Ecclesiastes)]] — described as his son in Ecclesiastes 1:1; historical identity not settled here.
 - [[Solomon]] — his son and successor
 - [[God]] — who chose him and promised him a house
 

@@ -177,6 +177,9 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] —
+  Proverbs 14:23’s profit in work remains in explicit tension with Ecclesiastes 1:3’s question about gain. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31:10–31 expands the wise woman’s household-building image of 14:1.
 
 - [[Where There Is No Vision]] — Proverbs 29:8, 11, 22 develops the prudent temper of 14:29 through

@@ -43,7 +43,8 @@ Solomon in all his glory was not dressed like one of these"* (Matthew 6:29), and
 Solomon is here"* (Matthew 12:42).
 
 Quotations from Samuel, Kings, Nehemiah, Song of Solomon, Ecclesiastes, and Matthew on this page are
-WEB, checked against bible-api.com (2026-10-25); those books are not yet ingested.
+WEB, checked against bible-api.com (2026-10-25). Ecclesiastes 1:1–11 is now ingested in
+[[Vanity of Vanities]] and checked against stored WEB; the other cited books remain unstarted.
 
 Proverbs 4:3–4 recalls a teacher receiving instruction from his father. The heading at
 1:1 makes a David–Solomon association possible, but 4:1–9 names neither man.
@@ -153,6 +154,15 @@ with Solomon or Bathsheba. The anthology’s royal subject matter is not a warra
 its named speakers. This is an attribution comparison, not an appearance by Solomon.
 Source: stored WEB Proverbs 31:1–9.
 
+### The Preacher's heading — Ecclesiastes 1:1
+
+[[Vanity of Vanities]] opens [[Ecclesiastes]], whose speaker is now tracked separately as
+[[The Preacher (Ecclesiastes)]]. The heading associates him with David and Jerusalem without naming
+Solomon. This is compatible with a Solomonic reading, but the name must not be supplied as an
+explicit statement of the verse. The new passage belongs here as an attribution comparison,
+not as a confirmed additional event in Solomon's life. Source: stored WEB Ecclesiastes 1:1–11;
+Proverbs 1:1.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -163,6 +173,8 @@ Source: stored WEB Proverbs 31:1–9.
 - Proverbs 25:1 — named in the heading of the collection copied by Hezekiah's men. [[The Glory of Kings]]
 
 ## Appears in
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1, attribution comparison only; Lemuel is named
   instead.
@@ -206,6 +218,8 @@ Source: stored WEB Proverbs 31:1–9.
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]
 
 ## Related people
+
+- [[The Preacher (Ecclesiastes)]] — traditionally identified with him; the heading leaves the name unstated.
 
 - [[David]] — his father
 - [[Hezekiah]] — king of Judah, whose men copied out the collection of Proverbs 25–29

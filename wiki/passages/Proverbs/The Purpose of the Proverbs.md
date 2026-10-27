@@ -151,6 +151,9 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 
 ## Cross-references
 
+- [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] —
+  Ecclesiastes 1:1’s royal heading names the Preacher, while Proverbs 1:1 names Solomon. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31:30 returns to the opening fear of Yahweh in a lived portrait.
 
 - [[A Gentle Answer]] — Proverbs 15:33, *"The fear of Yahweh teaches wisdom"*, after the motto of 1:7.

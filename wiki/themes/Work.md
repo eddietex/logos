@@ -385,7 +385,23 @@ a round-the-clock schedule or revoking the rest of Exodus 20:9–10.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+Ecclesiastes 1:3 asks what a person gains from all labor under the sun. The question stands
+beside generations that pass and a world that keeps moving (4–7), so the issue is more than
+whether one day's work yields food. **Tension:** Proverbs 14:23 affirms profit in hard work,
+and Proverbs 31:31 calls for the worker to receive its fruit. Ecclesiastes questions the gain
+from the whole enterprise. Practical benefit versus enduring advantage is a possible reading,
+not a distinction expressly defined by those verses. Genesis 3:17–19 already limits the
+worker's toil by death, but Ecclesiastes 1 does not explain its observations by narrating the
+curse. See [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Labor’s gain questioned against recurrence and passing generations.
 
 - [[The Worthy Woman]] — Proverbs 31:13–19, 24, 27, 31; Skilled production, investment, and the worker’s claim to recognition and fruit.
 

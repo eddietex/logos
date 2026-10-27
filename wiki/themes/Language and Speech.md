@@ -430,7 +430,20 @@ Proverbs 27:2 similarly asks that praise come from another mouth.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+Ecclesiastes 1:8 describes weariness beyond uttering and an ear that is not filled with
+hearing. The poem's own words articulate a limit to what speech and reception can complete.
+This is neither a command to silence nor an indictment of a named liar; it joins speech to
+the repeated, unfinished activity surrounding the observer. The WEB wording is the basis of
+this reading, without a new claim about an alternate Hebrew translation.
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Weariness beyond uttering and hearing without fullness.
 
 - [[The Worthy Woman]] — Proverbs 31:26, 28–31; Wise teaching and deserved praise answer misleading charm.
 

@@ -406,7 +406,20 @@ vulnerable, without supplying a medical protocol or an account of the afterlife.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+The coming and going of generations in Ecclesiastes 1:4 stands against the continuing earth;
+1:11 adds the loss of memory among those who come later. The opening describes human
+transience without narrating a particular death or defining an afterlife. Job 14:7–12 also
+sets human mortality beside nature, but there a tree may renew and waters may fail; the images
+are not identical. See [[The Earth Remains - Genesis and Ecclesiastes 1]].
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Passing generations contrasted with the continuing earth.
 
 - [[The Words of King Lemuel]] — Proverbs 31:3, 6; The ruin of kings is warned against; a person
   near death receives attention.

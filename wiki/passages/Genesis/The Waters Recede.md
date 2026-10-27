@@ -277,6 +277,9 @@ view and can be named — which is itself the plot.
 
 ## Cross-references
 
+- [[The Earth Remains - Genesis and Ecclesiastes 1]] —
+  The dependable seasons of Genesis 8:22 beside the recurring movements and passing generations of Ecclesiastes 1:4–7. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
+
 - [[Noah and the Flood]] — Genesis 6:9–7:24, the ascending half of the same chiasm. Every element
   here answers one there.
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:5–8, whose verdict 8:21 restates

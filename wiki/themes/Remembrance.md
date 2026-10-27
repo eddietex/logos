@@ -6,7 +6,9 @@ tags: [theme]
 
 ## Definition / overview
 
-What God does when the story turns.
+Remembering as divine faithfulness, human obligation, and the preservation or loss of a person's
+place in a community's memory. The foundational Genesis pattern is what God does when the story
+turns; Ecclesiastes 1:11 adds the frailty of human recollection. These are distinct questions.
 
 The Hebrew verb is **zākar**, and the first thing to say about it is that the English word
 *remember* is a poor fit and quietly ruins the verses it appears in. In English, remembering is a
@@ -231,7 +233,22 @@ The passage does not claim that forgotten poverty has ceased to exist.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The opening of Ecclesiastes — 1:1–11
+
+Ecclesiastes 1:11 denies remembrance to the former and to the later among those who come
+after. **Tension:** Proverbs 10:7 calls the memory of the righteous blessed, distinguishing it
+from the wicked person's name. The Preacher's opening gives no corresponding moral exception.
+One can distinguish a community's present recognition from remembrance across generations,
+but that is an interpretation, not an explicit qualification within 1:11. This is human
+forgetting; the passage does not say that God forgets his commitments. See
+[[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
+
+See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
+verified on that passage page.
+
 ## Key passages
+
+- [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Human forgetting set beside Proverbs 10:7’s blessed memory.
 
 - [[The Words of King Lemuel]] — Proverbs 31:5–7; Forgetting the law harms others; forgetting misery
   is presented as relief.
