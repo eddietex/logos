@@ -17654,3 +17654,46 @@ by frontmatter type: 191 passages, 187 people, 91 places, 85 themes, 487 connect
 3:19–20; 7:11–12; 9:2–5; Genesis 1:4; Job 21:23–26; Proverbs 4:18–19; 10:7. 1 Kings 11:43 is
 paraphrased, not quoted. No book was fetched and no raw file changed. No Hebrew or Greek claim was
 introduced. `scripts/link-check.sh` clean.
+
+## [2026-10-27] ingest | Ecclesiastes 2.18-26 — The Labor Left to Another
+
+**Ingested [[The Labor Left to Another]] (2:18–26) in auto mode.** Ecclesiastes was the first
+and only in-progress book, and this was its first unchecked pericope. The planned boundary
+held: hatred turns to labor in 2:18, and 2:26 closes with the vanity verdict before the poem
+about times. The passage page carries the unattended discussion: the skilled worker's loss
+of control over succession, despair and sleepless grief, enjoyment from God's hand, and the
+closing vanity verdict retained beside that affirmation.
+
+**Interpretive decisions.** No new person, place, or theme was needed. The successor and the
+other human figures are unnamed types; neither the successor nor the speaker is newly
+identified with a historical king. No place is named. Inheritance is developed under Wealth
+and Possessions and Work. The stored WEB's wording at 2:25 is retained exactly, without a
+source-language claim. The scope of the final *this* at 2:26 remains explicitly uncertain on
+the passage and Vanity pages. The contrast between Proverbs 13:22's good inheritance and
+Ecclesiastes 2:21's great evil is recorded without treating their recipients as identical.
+The ordered transfer at 2:26 does not identify the earlier despairing worker as a sinner;
+Job 21:7–8 remains a counterexample to an exceptionless reading of that transfer rule.
+
+**Created (1 content page):** [[The Labor Left to Another]].
+
+**Revised (20 content pages):** [[Ecclesiastes]] (overview and queue);
+[[The Preacher (Ecclesiastes)]]; ten themes (Work, Wealth and Possessions, Wisdom, Folly,
+Vanity, Suffering, Joy and Enjoyment, Providence, Retribution, Life and Death); four existing
+connections (Stored for the Righteous, Profit and Remembrance, Mirth and Its Verdict, Do Not
+Boast About Tomorrow); and four reciprocal passages (The Trial of Pleasure, The Wise and the
+Fool Share One End, Hope Deferred, I Will Not Put Away My Integrity). Existing connection
+pages already covered the comparisons, so none was duplicated. Relevant pending-ingestion
+notes now point to the passage.
+
+**Indexes and totals.** Revised seven index pages: books (5 / 24), main dashboard, themes,
+People N-Z, and Connections D-H, I-N, O-S. Counts by frontmatter type: 192 passages, 187 people,
+91 places, 85 themes, 487 connections. No title collision or new category row was needed.
+
+**Sources and validation.** All nine primary verses are copied verbatim from immutable stored
+WEB Ecclesiastes 2:18–26. Internal comparisons use stored Ecclesiastes 1:3; 2:10–17; comparison
+texts checked in stored WEB are Proverbs 13:22–23; 14:23; 31:31; Job 21:7–8; 27:13, 16–17.
+Luke 12:16–21 was verified at bible-api.com with `translation=web` on 2026-10-27 for the rich
+fool comparison, without fetching the book into raw. No raw file changed. No Hebrew or Greek
+wording claim was introduced. `scripts/link-check.sh` passed with no wrapped or dangling
+links beyond its expected unstarted-book baseline. Verse-copy, queue/count, title-uniqueness,
+and affected category-row checks passed; no operational issue remains.

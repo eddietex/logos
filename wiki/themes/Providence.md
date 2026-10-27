@@ -243,7 +243,20 @@ make that straight, which he has made crooked?"* and so attributes it to God's w
 attribution is noted here, not read back into 1:15. See [[The Burden of Wisdom]]. Source: stored WEB
 Ecclesiastes 1:13–15; 7:13.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+Where 1:13 assigned the burdensome inquiry to God, 2:24 assigns enjoyment in labor to his
+hand. Verse 26 describes God giving wisdom, knowledge, and joy to the person who pleases him,
+and the task of gathering for that person to the sinner. Divine giving includes contrasting
+experiences; it does not restore the worker's control over succession in 2:18–21. The passage
+ends in vanity even while naming God as giver.
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  God gives enjoyment and directs the sinner’s accumulation to another.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:13, 15; the search as a burden God gives; what is crooked cannot be straightened.
 

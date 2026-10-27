@@ -50,7 +50,20 @@ Ecclesiastes 2:1–11.
 with the full formula and a stated feeling, *"So I hated life"* (2:17). See
 [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+The verdict attaches to uncertain succession (2:19), skilled labor left to a nonworker
+(2:21), and sorrow without nighttime rest (2:23). Enjoyment is then attributed to God's hand
+(2:24), but 2:26 still ends in vanity and chasing after wind. Its final *this* may concern the
+sinner's accumulation or the wider situation; the WEB does not expressly delimit it. The
+verdict must be kept beside enjoyment, without quietly cancelling either statement.
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  repeated verdicts surround the affirmation of enjoyment from God.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:15, 17; wisdom's advantage judged vanity before the common end; all vanity and a chasing after wind.
 

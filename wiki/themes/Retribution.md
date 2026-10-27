@@ -492,7 +492,24 @@ announcing that every worker automatically receives a fitting reward.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+Ecclesiastes 2:26 describes God giving wisdom, knowledge, and joy to the person who pleases
+him, while the sinner gathers for that person's benefit. This agrees with Proverbs 13:22
+and Job 27:16–17's transfer of wealth to the righteous. **Tension:** Job 21:7–8 describes
+wicked people growing old and powerful with their children established, contradicting an
+exceptionless transfer rule. Ecclesiastes itself places 2:26 after a complaint about an heir
+whose character is unknown (2:19), and ends it with vanity. The wiki preserves the moral
+claim without turning every person's possessions or grief into evidence of their standing.
+See [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+Comparison sources: stored WEB Proverbs 13:22; Job 21:7–8; 27:16–17.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  the sinner gathers for the person who pleases God; competing outcomes retained.
 
 - [[The Worthy Woman]] — Proverbs 31:11, 21, 25, 28–31; The praised household is an ideal, not a diagnosis of a sufferer’s moral standing.
 

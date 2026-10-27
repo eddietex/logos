@@ -38,12 +38,18 @@ excels darkness (2:13), yet one event happens to them all (2:14): the wise man d
 is forgotten like him (2:16). The Preacher asks why he was then more wise (2:15) and reports that he
 hated life (2:17). Both findings, the ranking and the common end, stand side by side.
 
+[[The Labor Left to Another]] (2:18–26) turns hatred toward labor whose product must pass to
+an unknown successor. Skill cannot secure its future, and its present cost is sleepless grief.
+Yet eating, drinking, and enjoying good in labor come from God's hand (2:24); God gives wisdom,
+knowledge, and joy, and directs the sinner's accumulation to the one who pleases him (2:26).
+The closing vanity verdict remains alongside this affirmation.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–2:17 currently has ingested passage pages.
+only 1:1–2:26 currently has ingested passage pages.
 
 ## Structure
 
@@ -66,7 +72,7 @@ merge, or reorder them freely.
 - [x] [[The Burden of Wisdom]] — Ecclesiastes 1:12–18
 - [x] [[The Trial of Pleasure]] — Ecclesiastes 2:1–11
 - [x] [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17
-- [ ] The Labor Left to Another — Ecclesiastes 2:18–26
+- [x] [[The Labor Left to Another]] — Ecclesiastes 2:18–26
 - [ ] A Time for Every Purpose — Ecclesiastes 3:1–15
 - [ ] From Dust to Dust — Ecclesiastes 3:16–22
 - [ ] The Tears of the Oppressed — Ecclesiastes 4:1–3
@@ -92,7 +98,7 @@ merge, or reorder them freely.
 - [[Vanity]] — the opening verdict and its recurring tests.
 - [[Work]] — the question of gain and the possibility of enjoyment.
 - [[Wisdom]] — valuable, yet unable to master every outcome.
-- [[Joy and Enjoyment]] — tested and found without profit (2:1–11), later commended as God's gift.
+- [[Joy and Enjoyment]] — tested and found without profit (2:1–11), then received from God (2:24–26).
 - [[Life and Death]] — generations pass; the wise man dies just like the fool (2:16).
 - [[Remembrance]] — what survives in the minds of those who come after.
 - [[Creation]] — the world that continues as its observers pass.

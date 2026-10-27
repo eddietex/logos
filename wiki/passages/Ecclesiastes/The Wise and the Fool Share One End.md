@@ -85,6 +85,9 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 
 ## Cross-references
 
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26; the laborer's successor may be wise or
+  foolish, and enjoyment in labor is attributed to God without securing the legacy.
+
 - [[The Burden of Wisdom]] — Ecclesiastes 1:17 sets wisdom, *"madness and folly"* as the objects of
   study; 2:12 turns back to the same three.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; the experiment just closed, after which the
@@ -140,9 +143,10 @@ as a person who will die, rather than to works or experiments. *"And why was I t
 treats his own lifetime of wisdom as an investment whose return death cancels. It continues the
 book's language of gain (1:3) and profit (2:11) without using those words here.
 
-**"So I hated life."** The book records the feeling without correcting it. Later units commend
-eating, drinking, and enjoying one's labor (2:24) and say that *"a living dog is better than a dead
-lion"* (9:4). Those statements are not yet ingested; they are noted here so that 2:17 is not read
+**"So I hated life."** The book records the feeling without correcting it.
+[[The Labor Left to Another]] commends
+eating, drinking, and enjoying one's labor (2:24). A later unit, not yet ingested, says that
+*"a living dog is better than a dead lion"* (9:4). These statements are noted so that 2:17 is not read
 as the book's last word on life. Equally, 2:17 is not softened by them. It is reported as what the
 Preacher felt when he faced the common end.
 
@@ -150,7 +154,8 @@ Preacher felt when he faced the common end.
 reads it as a question about what anyone coming after the king could add: only *"that which has
 been done long ago."* This page interprets the WEB wording only; it has not checked the Hebrew or
 compared other translations, and makes no claim about how the clause should be rendered. The
-successor reappears as *"the man who comes after me"* in 2:18 (stored WEB), not yet ingested.
+successor reappears as *"the man who comes after me"* in 2:18 (stored WEB), now ingested in
+[[The Labor Left to Another]].
 
 **Remembrance narrowed.** 1:11 spoke of former and later generations in general. 2:16 speaks of the
 wise man and the fool, and so contradicts not only Proverbs 10:7's distinction between righteous and

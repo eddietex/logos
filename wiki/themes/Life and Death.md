@@ -422,15 +422,28 @@ verified on that passage page.
 
 *"One event happens to them all"* (2:14); *"the wise man must die just like the fool!"* (2:16). The
 Preacher applies the common end to himself (2:15), and draws the book's starkest response so far:
-*"So I hated life"* (2:17). The text does not correct the feeling here; later units, not yet
-ingested, commend enjoyment (2:24) and prefer *"a living dog"* to *"a dead lion"* (9:4). Job 21:26
+*"So I hated life"* (2:17). The text does not correct the feeling here;
+[[The Labor Left to Another]] commends enjoyment (2:24), and a later unit, not yet ingested,
+prefers *"a living dog"* to *"a dead lion"* (9:4). Job 21:26
 makes the same observation of two men of opposite fortune, and uses it against the friends'
 theology instead of against his own wisdom. See
 [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
 
 See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:14–17; 2:24; 9:4; Job 21:23–26.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+After the shared death of wise and fool in 2:16, the speaker faces what happens to his work:
+it must pass to another (2:18–21). The present unit does not narrate a death or describe an
+afterlife; mortality is its preceding context. Eating, drinking, and enjoying labor (2:24)
+name a good within life without promising control beyond it.
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  mortality’s consequence for the legacy; enjoyment within life.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:14–17; One event for the wise and the fool; the Preacher hates life.
 

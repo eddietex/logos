@@ -513,7 +513,22 @@ gain. See [[The Trial of Pleasure]] and
 [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
 Ecclesiastes 2:7–11; Proverbs 21:17.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+Accumulation passes to another whose wisdom is unknown (2:18–21). Proverbs 13:22 commends
+leaving an inheritance to grandchildren, while Ecclesiastes calls a skilled worker's transfer
+to a nonworker a great evil: the evaluations differ, though the recipients are not described
+identically. At 2:26, transfer takes a moral form: the sinner gathers for the one who pleases
+God. Neither the uncertain heir nor every wealthy recipient can be identified with that
+favored person. See [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+Comparison sources: stored WEB Proverbs 13:22; Job 21:7–8; 27:16–17.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  the unknown successor and the sinner gathering for another.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:7–11; Royal treasure accumulated beyond all predecessors, and judged without profit.
 

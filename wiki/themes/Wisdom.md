@@ -622,7 +622,19 @@ findings are kept; neither is made to cancel the other. See
 
 See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+Wisdom, knowledge, and skillfulness characterize the laborer whose results pass to someone
+else (2:21); wisdom cannot guarantee the wisdom of the successor (2:19). Yet wisdom and
+knowledge are named again among God's gifts, with joy (2:26). Their value and their inability
+to control what comes after the worker stand together.
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  skill cannot secure succession; wisdom and knowledge remain gifts.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–16; Wisdom ranked above folly as light above darkness, yet sharing the fool's death and forgetting.
 

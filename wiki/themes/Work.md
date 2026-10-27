@@ -59,8 +59,8 @@ the seventh day a blessing. See [[Sabbath]].
   a crop, and the crop lays the man out in his tent. See [[Noah's Sons and the Curse of Canaan]] and
   [[The Vine and the Cup]].
 - Strands to trace as ingestion reaches them: the sabbath and jubilee legislation that limits
-  work and protects workers (Leviticus 25); Ecclesiastes on the vanity and the gift of
-  labour (2:18–24, 3:13); Proverbs on diligence and sloth; Jesus as a *tektōn* (Mark 6:3); Paul's
+  work and protects workers (Leviticus 25); Ecclesiastes on appointed times and the gift of
+  labour (3:1–15); Proverbs on diligence and sloth; Jesus as a *tektōn* (Mark 6:3); Paul's
   tentmaking and his rules for it (Acts 18:3, 1 Thessalonians 4:11, 2 Thessalonians 3:10);
   Colossians 3:23.
 
@@ -423,7 +423,21 @@ with 2:11. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:4–
 common end of wise and fool (2:14–16) is the reason given. The next unit, 2:18–26, turns this from
 the work done under the sun in general to the Preacher's own labor and its heir. See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+The worker of 2:21 labors with wisdom, knowledge, and skillfulness, yet must leave the result
+to someone who has not worked for it. The complaint is not against sloth: competence cannot
+secure lasting control. Verse 23 adds the present cost, a heart that does not rest even at
+night; verse 24 commends enjoyment in this same labor as coming from God. The tension with
+Proverbs 14:23's affirmation of profit remains, now joined by a positive account of enjoyment.
+See [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  skill cannot secure the legacy; enjoyment in labor comes from God.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:17; The work done under the sun grievous because of the common end.
 

@@ -332,7 +332,18 @@ not the object of a warning. See
 
 See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+The Preacher does not know whether his successor will be wise or a fool (2:19). The contrast
+now concerns control over what someone else has made, not just the shared death of 2:16.
+The successor is not declared foolish; uncertainty is the grievance.
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  the successor may be wise or foolish; the worker cannot know.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–16; The fool walks in darkness, yet dies and is forgotten as the wise man is.
 

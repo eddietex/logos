@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
+
 - **Proverbs 27:1** — *"Don't boast about tomorrow; for you don't know what a day may bring."* —
   [[Do Not Boast About Tomorrow]]
 - **Proverbs 16:1, 9** — *"The plans of the heart belong to man, but the answer of the tongue is from
@@ -52,6 +54,21 @@ to be feared either.
 **In Proverbs, God is not named in 27:1.** The verse states the limit without saying who sets it. 16:1
 and 16:9 had said it is Yahweh who directs the steps; James names *the Lord*. The New Testament texts
 make explicit what the proverb, in a chapter without the divine name, leaves to the reader.
+
+**The labor left to another.** Ecclesiastes 2:18–21, [[The Labor Left to Another]],
+laments surrendering the results of labor to a successor whose wisdom is unknown. Luke 12:20
+asks who will have the rich man's prepared goods when his life is required that night.
+Both confront the limit of accumulation, but their speakers and judgments differ:
+Ecclesiastes' worker is described as skilled and is not identified as the sinner of 2:26;
+Luke's man is judged foolish and the parable ends by contrasting treasure for oneself with
+being rich toward God (12:21).
+
+Ecclesiastes 2:24 commends eating, drinking, and enjoying labor as coming from God. Luke
+12:19's planned enjoyment rests on presumed years of stored goods. The comparison therefore
+does not make eating and drinking inherently wrong or turn the Preacher's commendation into
+the rich fool's error. No direct literary dependence is claimed. Sources: stored WEB
+Ecclesiastes 2:18–26; Luke 12:16–21 verified again on 2026-10-27 at
+`https://bible-api.com/Luke%2012:16-21?translation=web`; Luke remains outside `raw/`.
 
 ## Significance
 

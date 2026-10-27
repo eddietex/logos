@@ -253,9 +253,11 @@ last time anyone in the dialogue recites it.
   *"swift serpent"*.
 - Isaiah 40:22 — God who *"sits above the circle of the earth"* and *"stretches out the heavens like a
   curtain"*.
-- Proverbs 13:22; Ecclesiastes 2:26 — *"the wealth of the sinner is stored for the righteous"*; the
-  sinner gathering *"that he may give to him who pleases God"*: 27:16–17's transfer of the wicked
-  man's silver to the innocent.
+- [[Hope Deferred]] (Proverbs 13:22) and [[The Labor Left to Another]] (Ecclesiastes 2:26) —
+  the sinner's accumulation passing to the righteous or the person who pleases God parallels
+  Job 27:16–17. Ecclesiastes 2:18–21 also laments the worker's loss of control over his legacy,
+  and 2:26 retains a closing vanity verdict. See
+  [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
 - Lamentations 2:15 — *"All that pass by clap their hands at you. They hiss"*: 27:23's gesture, used
   of Jerusalem.
 - [[Thirty Excellent Things]] — Proverbs 23:4–5, beside 27:16–19's rich man who *"is not"*; see [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]].

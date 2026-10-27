@@ -100,6 +100,10 @@ The *"provinces"* (8) are unnamed and get no page.
 
 ## Cross-references
 
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26; joy in labor is attributed to God's
+  hand (2:24) after despair over its successor. The new affirmation does not retract 2:11's
+  denial of profit; 2:26 still ends with vanity. Source: stored WEB Ecclesiastes 2:18–26.
+
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; the trial by wisdom that this trial by mirth
   follows. Both end in *"a chasing after wind."*
 - [[Vanity of Vanities]] — Ecclesiastes 1:3 asks *"What does man gain from all his labor"*; 2:11
@@ -115,7 +119,7 @@ The *"provinces"* (8) are unnamed and get no page.
   that is pleasant to the sight and good for food; Ecclesiastes 2:5–6 has the Preacher plant
   gardens with trees *"of all kinds of fruit"* and pools to water them. The echo is an
   interpretation some readers draw; Ecclesiastes does not name Eden or cite Genesis.
-- Ecclesiastes 2:24; 3:13; 5:18–19 *(not yet ingested)* — eating, drinking, and enjoying good in
+- Ecclesiastes 3:13; 5:18–19 *(not yet ingested)* — eating, drinking, and enjoying good in
   one's labor called *"the gift of God"* (3:13) and one's *"portion"* (5:18) (stored WEB). The
   word *portion* of 2:10 returns there with God as the giver.
 - Ecclesiastes 6:2 *(not yet ingested)* — a man given riches, wealth, and honor, but no power to

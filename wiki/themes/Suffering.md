@@ -169,7 +169,20 @@ who increases knowledge increases sorrow"* (1:18). The sorrow is not punishment 
 text names; it is the cost of seeing what cannot be repaired. See [[The Burden of Wisdom]] and [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
 Source: stored WEB Ecclesiastes 1:12–18.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+The speaker describes despair over his labor (2:20), days of sorrow and grief, and a heart
+without rest at night (2:23). His competent work is the setting, not a named fault that explains
+the distress. Although 2:26 describes the sinner's travail, it does not identify the speaker
+of 2:18–23 as that sinner. The recognition of enjoyment from God in 2:24 does not erase the
+preceding report of grief.
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  despair and sleepless grief, not assigned to a named sin.
 
 - [[The Burden of Wisdom]] — Ecclesiastes 1:13, 18; affliction in the search and sorrow increased with knowledge.
 

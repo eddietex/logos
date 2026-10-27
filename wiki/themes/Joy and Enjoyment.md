@@ -31,15 +31,29 @@ denied; what is denied is that it remains as gain. God is not mentioned in the u
 [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
 Ecclesiastes 2:1–11.
 
+### Labor left to another — Ecclesiastes 2:18–26
+
+Eating, drinking, and enjoying good in labor come from God's hand (2:24), and joy is one of
+his gifts to the person who pleases him (2:26). In contrast to the experiment's lack of profit
+(2:11), enjoyment can still be acknowledged as good. Receiving a gift rather than securing
+lasting gain is a reading of this contrast, not a distinction the text formally defines.
+The closing vanity verdict in 2:26 remains. See
+[[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]].
+
+See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
+
 ### Ahead in Ecclesiastes
 
-Not yet ingested, recorded from stored WEB: 2:24 and 3:13 call eating, drinking, and enjoying good
-in labor something *"from the hand of God"* (2:24) and *"the gift of God"* (3:13); 5:18–19 calls it
+Not yet ingested, recorded from stored WEB: 3:13 calls eating, drinking, and enjoying good
+in labor *"the gift of God"*; 5:18–19 calls it
 one's portion; 6:2 describes a man given wealth but not the power to eat of it; 7:4 puts the heart
 of fools in the house of mirth; 8:15 says *"Then I commended mirth"*; 9:7 says *"eat your bread with
 joy."* These pull in more than one direction and will be kept side by side as they are ingested.
 
 ## Key passages
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26
+  eating, drinking, and enjoyment in labor attributed to God.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–3, 10–11; Mirth tested under wisdom's guidance;
   joy real and a portion, yet no profit.

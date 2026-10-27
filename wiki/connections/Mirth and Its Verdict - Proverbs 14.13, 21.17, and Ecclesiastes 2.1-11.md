@@ -7,11 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
+
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–3, 10–11.
 - [[A Way That Seems Right]] — Proverbs 14:13.
 - [[The King's Heart]] — Proverbs 21:17.
 - [[Wine Is a Mocker]] — Proverbs 20:1.
-- Ecclesiastes 2:24; 3:13; 5:18–19; 7:4; 8:15 *(not yet ingested)*.
+- Ecclesiastes 3:13; 5:18–19; 7:4; 8:15 *(not yet ingested)*.
 
 ## Analysis
 
@@ -42,12 +44,21 @@ heart of fools"* in *"the house of mirth"*; 8:15 says *"Then I commended mirth."
 (3:13). The trial of 2:1–11 does not mention God, and its verdict is about pleasure pursued as a
 project. Whether the later commendations answer it — enjoyment received as a gift rather than
 sought as profit — is a common reading, but it is an interpretation; the text sets the statements
-side by side without stating how they relate. Those units will be connected here as they are
+side by side without stating how they relate. The remaining units will be connected here as they are
 ingested.
 
 Sources: all quotations checked in stored WEB Proverbs 14:13; 20:1; 21:17; Ecclesiastes 2:1–3,
 8, 10–11, 24; 3:13; 5:18–19; 7:4; 8:15, on 2026-10-27. No claim is made about shared Hebrew
 vocabulary between the books.
+
+**The first commendation is now ingested.** [[The Labor Left to Another]] (Ecclesiastes
+2:18–26) locates the affirmation inside despair over a legacy and a restless heart. Eating,
+drinking, and enjoying good in labor are from God's hand (2:24), and joy is given with wisdom
+and knowledge (2:26). The shift is not from a failed experiment to a guarantee of lasting
+profit. Enjoyment is acknowledged within the unresolved problem, and the closing vanity
+verdict remains. Reading this as received gift rather than secured gain is an interpretation
+of the juxtaposition, not an explicit distinction stated by the text. Source: stored WEB
+Ecclesiastes 2:18–26.
 
 ## Significance
 

@@ -34,6 +34,12 @@ In [[The Wise and the Fool Share One End]] he turns back to wisdom, madness, and
 light excels darkness (2:13), and that one event happens to both (2:14). Applying it to himself —
 *"why was I then more wise?"* (2:15) — he reports that he hated life (2:17).
 
+In [[The Labor Left to Another]] he hates the labor he must leave to an unknown successor
+(2:18–19), describes despair and a heart without rest (2:20–23), and recognizes enjoyment in
+labor as coming from God's hand (2:24). In the WEB of 2:25 he appeals to his own experience of
+enjoyment. His account of God's giving in 2:26 ends again with vanity; the speaker is not
+identified as the sinner whose accumulation passes to another.
+
 ## Timeline / key events
 
 - Ecclesiastes 1:1–11 — introduced by royal title; the opening tests labor, recurrence,
@@ -44,6 +50,8 @@ light excels darkness (2:13), and that one event happens to both (2:14). Applyin
   [[The Trial of Pleasure]].
 - Ecclesiastes 2:12–17 — weighs wisdom against folly before death; hates life.
   [[The Wise and the Fool Share One End]].
+- Ecclesiastes 2:18–26 — despairs over his legacy and recognizes enjoyment from God.
+  [[The Labor Left to Another]].
 
 ## Appears in
 
@@ -51,6 +59,8 @@ light excels darkness (2:13), and that one event happens to both (2:14). Applyin
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; first-person report of the inquiry by wisdom.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; the experiment with mirth, works, and wealth.
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17; wisdom ranked above folly, yet both share one end.
+
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26; uncertain succession and enjoyment from God.
 
 ## Related people
 
@@ -67,9 +77,10 @@ light excels darkness (2:13), and that one event happens to both (2:14). Applyin
 - [[Folly]] — madness and folly studied deliberately alongside wisdom (1:17).
 - [[Suffering]] — the grief and sorrow that increase with wisdom (1:18).
 - [[Providence]] — the search as a burden God has given (1:13).
-- [[Joy and Enjoyment]] — mirth tested; joy his portion, yet without profit (2:10–11).
+- [[Joy and Enjoyment]] — mirth tested; joy his portion, yet without profit (2:10–11);
+  enjoyment attributed to God (2:24–26).
 - [[Wealth and Possessions]] — the treasure accumulated in the experiment (2:7–9).
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–2:17; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–2:26; Proverbs 1:1–7.

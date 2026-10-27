@@ -167,6 +167,12 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 
 ## Cross-references
 
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26; 2:26 parallels the transfer of the
+  sinner's wealth in Proverbs 13:22, but 2:21 calls leaving skilled labor to a nonworker a
+  great evil, in tension with the good man's inheritance here. The recipients are described
+  differently; both evaluations are preserved on
+  [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
+
 - [[Where There Is No Vision]] — Proverbs 29:15, 17 brings correction into wisdom, parental peace,
   and delight, with neglect shaming the mother. Like 13:24, it supplies a purpose for discipline
   rather than a measure of permissible force or an explanation of every instance of suffering.

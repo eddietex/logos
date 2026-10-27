@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
+
 - [[Vanity of Vanities]] — Ecclesiastes 1:3, 11.
 - [[A Way That Seems Right]] — Proverbs 14:23.
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:7.
@@ -52,6 +54,16 @@ WEB). See [[The Wise and the Fool Share One End]].
 
 Sources: all six passages, and Ecclesiastes 9:5, checked in stored WEB on 2026-10-27. This comparison makes no claim
 about shared Hebrew vocabulary or direct literary dependence.
+
+**The worker loses control, but can receive enjoyment.**
+[[The Labor Left to Another]] renews the question of labor's gain at Ecclesiastes 2:22.
+Verses 18–21 make the problem concrete: even a skilled worker must leave the result to
+someone whose wisdom is unknown. Proverbs 31:31's duty to give the worker the fruit of her
+hands still stands, but cannot guarantee control over its later use. Verse 24 recognizes
+enjoyment in labor as coming from God's hand; it does not promise enduring ownership. This
+supports, without formally defining, the distinction between present good and lasting gain.
+The positive affirmation remains beside the closing vanity verdict of 2:26. Sources for
+this addition: stored WEB Ecclesiastes 1:3; 2:18–26; Proverbs 14:23; 31:31.
 
 ## Significance
 
