@@ -92,12 +92,18 @@ create vanity, and life passes like a shadow. God is a plausible but unnamed ref
 the mightier party. Questions about good and what follows remain unanswered beside the
 earlier positive judgments about enjoyment (3:12–13; 5:18).
 
+[[The House of Mourning]] (7:1–14) answers with *better than* sayings: a good name above
+perfume, the day of death above birth, mourning above feasting, sorrow above laughter, the
+wise man's rebuke above the fool's song. Wisdom can be corrupted by a bribe (7), yet it
+defends and preserves life (12). God has made the crooked (13) and set prosperity beside
+adversity (14). The preference for mourning stands beside the book's commended enjoyment.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–6:12 currently has ingested passage pages.
+only 1:1–7:14 currently has ingested passage pages.
 
 ## Structure
 
@@ -130,7 +136,7 @@ merge, or reorder them freely.
 - [x] [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20
 - [x] [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9
 - [x] [[Who Knows What Is Good]] — Ecclesiastes 6:10–12
-- [ ] The House of Mourning — Ecclesiastes 7:1–14
+- [x] [[The House of Mourning]] — Ecclesiastes 7:1–14
 - [ ] Righteousness and Wisdom Under Question — Ecclesiastes 7:15–29
 - [ ] The King and the Limits of Power — Ecclesiastes 8:1–9
 - [ ] The Wicked Honored and the Work Beyond Finding — Ecclesiastes 8:10–17
@@ -142,6 +148,10 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Mourning and Lament]], [[Life and Death]], and [[Joy and Enjoyment]] — the house of
+  mourning above feasting, sorrow above laughter, and joy commanded in prosperity (7:1–14).
+- [[Providence]] — the crooked God has made; prosperity and adversity side by side (7:13–14).
 
 - [[Names and Naming]] — naming long ago within an account of human limits (6:10);
   no namer is identified. See [[Who Knows What Is Good]].
@@ -183,7 +193,8 @@ merge, or reorder them freely.
 
 - [[God]] — giver of burden and enjoyment; his work endures (3:10–15); in heaven, owed paid vows,
   and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20), but also
-  gives wealth without that power (6:2), with no reason supplied.
+  gives wealth without that power (6:2), with no reason supplied; makes the crooked and
+  sets prosperity beside adversity (7:13–14).
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

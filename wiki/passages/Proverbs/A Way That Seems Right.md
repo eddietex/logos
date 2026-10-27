@@ -215,6 +215,8 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 - [[A Good Name]] — Proverbs 22:2 names the Maker of rich and poor that 14:31 invokes.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, the house built through wisdom, beside 14:1's wise woman.
 - [[Answer a Fool]] — Proverbs 26:17, the same *miṯʿabbēr* as 14:16's hot-headed fool.
+- [[The House of Mourning]] — Ecclesiastes 7:3–6 ranks sorrow above laughter, beside 14:13's sorrow in laughter;
+  7:8–9 sets patience against pride and anger, beside 14:17, 29.
 
 ## Notes
 

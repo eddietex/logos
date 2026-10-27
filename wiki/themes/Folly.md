@@ -378,7 +378,17 @@ without declaring every difference between wise and foolish conduct meaningless.
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+The fool's heart is in the house of mirth (7:4); his song is worse than the wise man's rebuke
+(5), and his laughter is the crackling of thorns under a pot — vanity (6). Anger rests in the
+bosom of fools (9). Folly can also be produced: extortion makes the wise man foolish (7).
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:4–9; the house of mirth, crackling thorns, anger in the bosom of fools.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; the fool as the measure of wisdom’s questioned advantage.
 

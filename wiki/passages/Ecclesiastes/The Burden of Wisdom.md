@@ -109,6 +109,8 @@ nation, consistent with Proverbs 1:1's *"king of Israel"*.
   qualification that keeps 1:18 from being a rejection of wisdom.
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12 turns back to *"wisdom, madness, and folly"*, the three objects of
   1:17, and 2:13 ranks wisdom above folly, so 1:18's grief is a cost and not a rejection.
+- [[The House of Mourning]] — Ecclesiastes 7:13 takes up 1:15: *"who can make that straight, which he has
+  made crooked?"* The crooked is now attributed to God's work.
 
 ## Notes
 

@@ -133,7 +133,18 @@ Adam in the English text; no unverified Hebrew wordplay is asserted.
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+*"A good name is better than fine perfume"* (7:1). Here *name* means reputation, not an act of
+naming. Its pairing with the day of death sets reputation against the end of life; 1:11 and
+2:16 have already said memory does not last, and 7:1 does not retract that. See
+[[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]].
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:1; a good name better than fine perfume.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; naming long ago within an account of human limits.
 

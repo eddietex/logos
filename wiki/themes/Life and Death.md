@@ -507,7 +507,18 @@ used in a plea for relief rather than in Ecclesiastes' question about good.
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+The day of death is ranked above the day of birth (7:1), and the house of mourning above
+feasting because death is *"the end of all men"* (2). Yet wisdom's excellence is that it
+preserves the life of the one who has it (12). The text does not explain how; set beside
+2:14–16, where the wise die like fools, it is a qualified advantage, not an exemption.
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:1–2, 12; the day of death above birth, and wisdom preserving life.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; the days of life pass like a shadow.
 

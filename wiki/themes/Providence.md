@@ -307,7 +307,19 @@ of unequal power does not stop his complaint, and the tension must remain visibl
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+*"Consider the work of God, for who can make that straight, which he has made crooked?"*
+(7:13) takes up 1:15 and now names God as maker of the crooked. Prosperity and adversity are
+made side by side, so that man should not find out anything after him (14). No reason for a
+particular adversity is supplied, and the crooked is not called evil. See
+[[Good and Adversity from God - Job 2.10 and Ecclesiastes 7.14]].
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:13–14; the crooked God has made, prosperity and adversity side by side.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; human limits before the mightier, whose divine identity is inferred.
 

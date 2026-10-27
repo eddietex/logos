@@ -570,7 +570,18 @@ it. The distinction is developed in
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+Extortion and the bribe corrupt the wise (7:7). Wisdom is as good as an inheritance, and
+money is a defense as wisdom is; wisdom's excellence is that it preserves life (11–12).
+Money is acknowledged as a protection, not dismissed, but is ranked below wisdom. See
+[[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:7, 11–12; the bribe, the inheritance, and money as a defense.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wealth given without the power to enjoy it.
 

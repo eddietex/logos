@@ -18125,3 +18125,45 @@ table shape, unique titles, frontmatter totals, and exactly one queue advance we
 verified. `scripts/link-check.sh` passed with no wrapped or dangling links beyond the
 expected 61 unstarted-book baseline; `git diff --check` passed. No unresolved operational
 issue or deliberately dangling target remains; interpretive limits are stated on the pages.
+
+## [2026-10-27] ingest | Ecclesiastes 7.1-14 — The House of Mourning
+
+Unattended `/ingest auto` by Claude Code; exactly one pericope. Retained the planned title and
+7:1–14 boundary: the *better than* sayings open at 7:1 and close on God's work and the purpose
+clause of 7:14; 7:15 returns to first-person observation with a new subject. Ecclesiastes
+7:15–29 remains the first unchecked unit. No workflow or harness instructions changed. The
+existing raw Ecclesiastes file was used; no fetch was needed.
+
+**Interpretive decisions.** [[The House of Mourning]] reads 7:1–14 as following 6:12's
+question about good, marked as a reading of the sequence. The preference for mourning and
+sorrow is kept in explicit tension with the book's commended enjoyment (2:24; 3:12–13; 5:18)
+and with 7:14's command to joy; the reconciling reading is labelled interpretation. 7:12's
+claim that wisdom preserves life is kept beside 2:14–16 as a qualified advantage. 7:13 is
+recorded as naming God as maker of the crooked first stated without agent at 1:15; neither
+the crooked nor adversity is called evil, and no Hebrew vocabulary claim is made. The
+patience of 7:8 is noted as not the WEB's *slow to anger*, so the Slow to Anger link is
+thematic. No new person, place, or theme was needed.
+
+**Created (3 content pages):** [[The House of Mourning]];
+[[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]];
+[[Good and Adversity from God - Job 2.10 and Ecclesiastes 7.14]].
+
+**Revised (21 content pages):** the Ecclesiastes book page; God and The Preacher
+(Ecclesiastes); ten themes (Mourning and Lament, Life and Death, Names and Naming, Wisdom,
+Folly, Joy and Enjoyment, Wealth and Possessions, Pride and Self-Exaltation, Providence,
+Vanity); two existing connections (A Bribe Blinds; Slow to Anger); six reciprocal passages
+(Who Knows What Is Good, The Burden of Wisdom, The Second Test, A Good Name, A Way That
+Seems Right, A Dry Morsel with Quietness).
+
+**Indexes and totals.** Revised seven indexes: books (15 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, Connections A-C, D-H, and O-S. Both new connection rows file
+under G. Totals by frontmatter type: 202 passages, 187 people, 91 places, 85 themes,
+502 connections.
+
+**Sources and validation.** All primary quotations are exact excerpts of stored WEB
+Ecclesiastes 7:1–14. Comparisons read in stored WEB: Ecclesiastes 1:9–11, 15; 2:2, 13–16,
+24; 3:12–13; 4:2–3; 5:18; 6:3–5, 12; 7:15, 27; Job 1:6–12; 2:1–10; 3:1; Proverbs 14:13, 17,
+29; 17:23; 22:1; Exodus 23:8; 34:6. No quotation from an unstored book and no Hebrew or Greek
+claim was made. No raw text was added or changed. `scripts/link-check.sh` passed with no
+wrapped or dangling links beyond the expected 61 unstarted-book baseline; `git diff --check`
+passed. No unresolved issue or deliberately dangling target remains.

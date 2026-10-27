@@ -2320,7 +2320,17 @@ address to God despite the inequality in Job 9–10. See
 [[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]]. Source: stored WEB Ecclesiastes 3:14;
 6:2, 10–12; Job 9:14–19, 32–35; 10:1–2.
 
+In [[The House of Mourning]] the Preacher tells the reader to consider God's work, since
+no one can straighten what he has made crooked (7:13), and says God has made the day of
+prosperity side by side with the day of adversity, so that man should not find out anything
+after him (14). This names God as maker of the crooked and of adversity without calling
+either evil or explaining a particular case. It is the Preacher's statement about God, not a
+divine speech. See [[Good and Adversity from God - Job 2.10 and Ecclesiastes 7.14]]. Source:
+stored WEB Ecclesiastes 1:15; 7:13–14; Job 2:10.
+
 ## Timeline / key events
+
+- Ecclesiastes 7:13–14 — [[The House of Mourning]]; maker of the crooked, and of prosperity and adversity side by side.
 
 - Ecclesiastes 5:1–7 — [[Let Your Words Be Few]]; in heaven, owed paid vows, and to be feared.
 
@@ -2601,6 +2611,8 @@ address to God despite the inequality in Job 9–10. See
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The House of Mourning]] — Ecclesiastes 7:13–14; the crooked he has made; prosperity and adversity side by side.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; possible referent of the mightier party (10), not explicitly named.
 

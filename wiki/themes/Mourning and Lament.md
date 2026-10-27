@@ -134,6 +134,17 @@ absence of comfort is preserved at [[Comforters Who Do Not Comfort]].
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+The house of mourning is preferred to the house of feasting, because death is the end of all
+and the living should take it to heart (7:2); the wise heart is there, the fool's in the house
+of mirth (4). Sorrow is ranked above laughter (3). This is a judgment about what the living
+learn from mourning, not a description of a rite: no funeral, garments, or period of days is
+specified. **Tension:** the same book commends eating, drinking, and enjoyment as God's gift
+(2:24; 5:18) and commands joy in prosperity (7:14).
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Tears of living victims; no funeral or bounded mourning rite.
@@ -205,6 +216,7 @@ records the additional comparison sources.
   mourning**; the next Egyptian act is to urge Israel out. Numbers 33:4 places the departure *"while the
   Egyptians were burying all their firstborn"* (WEB). See
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
+- [[The House of Mourning]] — Ecclesiastes 7:2–4; the house of mourning preferred to the house of feasting.
 
 ## Related themes
 

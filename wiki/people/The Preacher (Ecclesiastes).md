@@ -93,7 +93,18 @@ In [[Who Knows What Is Good]] he turns from the case of wealth without enjoyment
 a shadow. His question about knowing good remains beside his positive judgments in
 3:12–13 and 5:18; no answer is supplied here. Source: stored WEB Ecclesiastes 6:10–12.
 
+In [[The House of Mourning]] he answers the question of good with comparisons (7:1–14): a
+good name above perfume, the day of death above birth, the house of mourning above the house
+of feasting, sorrow above laughter, the rebuke of the wise above the song of fools. He
+concedes that a bribe can corrupt the wise (7), commends patience over pride (8), and ranks
+wisdom with an inheritance as a defense that preserves life (11–12). He closes with God's
+work: joy in prosperity, consideration in adversity (14). Preferring mourning to feasting
+stands in tension with his earlier commendations of enjoyment, which the passage page keeps
+explicit. Source: stored WEB Ecclesiastes 7:1–14.
+
 ## Timeline / key events
+
+- Ecclesiastes 7:1–14 — [[The House of Mourning]]; better-than sayings on death, mourning, wisdom, and God's work.
 
 - Ecclesiastes 6:10–12 — [[Who Knows What Is Good]]; questions about good and what follows a person.
 
@@ -126,6 +137,8 @@ a shadow. His question about knowing good remains beside his positive judgments 
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[The House of Mourning]] — Ecclesiastes 7:1–14; speaker of the better-than sayings.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; continuing speaker of the inquiry.
 
@@ -181,4 +194,4 @@ a shadow. His question about knowing good remains beside his positive judgments 
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–6:9; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–7:14; Proverbs 1:1–7.

@@ -126,7 +126,17 @@ affirmations of enjoyment in 3:12–13 and 5:18.
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+The vanity verdict falls on the fool's laughter, like thorns crackling under a pot (7:6). The
+surrounding sayings rank wisdom, mourning, and patience above their opposites, so 7:1–14 is
+not a verdict of vanity on everything; it discriminates.
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:6; the fool’s laughter called vanity amid better-than sayings.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; many words without profit and life spent like a shadow.
 

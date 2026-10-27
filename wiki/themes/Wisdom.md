@@ -693,7 +693,19 @@ reading, not an explicit resolution supplied by this verse.
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+The wise heart is in the house of mourning (7:4), and the rebuke of the wise is better than
+the song of fools (5). Wisdom is not invulnerable: extortion makes the wise man foolish, and a
+bribe destroys understanding (7). It is as good as an inheritance and a defense, as money is,
+and it preserves life (11–12); yet it cannot straighten what God has made crooked (13) or
+find out what comes after (14). Asking why former days were better is called unwise (10).
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:1–14; wisdom ranked, corruptible, protective, and limited before God’s work.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; knowing good and the future remain questions.
 

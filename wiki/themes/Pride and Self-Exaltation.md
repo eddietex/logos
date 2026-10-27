@@ -256,6 +256,15 @@ by the gesture of silence Job made before God. See
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+*"The patient in spirit is better than the proud in spirit"* (7:8), between the end of a thing
+being better than its beginning and the warning against hasty anger (9). Pride is set against
+patience, not named as a sin or answered with a judgment in these verses. See
+[[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
 
 - [[Four Things]] — Proverbs 30:32; The one who has lifted himself up told to put his hand over his mouth.
@@ -340,6 +349,7 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
 - [[The Glory of Kings]] — Proverbs 25:6–7, 14, 27; The courtier who exalts himself, the false boaster, one's own honour.
 - [[Answer a Fool]] — Proverbs 26:5, 12, 16; *Wise in his own eyes* three times; the self-assured man has less hope than a fool.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:1–2, 21; The boast about tomorrow, self-praise, and praise as the furnace.
+- [[The House of Mourning]] — Ecclesiastes 7:8; the patient in spirit better than the proud.
 
 ## Related themes
 

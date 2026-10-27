@@ -334,6 +334,8 @@ words*. **Chapter 3 begins eleven verses later.**
   by three refused requests and an answer that is not healing: a body afflicted by permission, with
   the permission disclosed to the sufferer.
 - [[I Repent in Dust and Ashes]] — Job 42:5–6: the ash-heap of 2:8 still under him, and *"to your face"* (2:5) answered by *"now my eye sees you"*.
+- [[The House of Mourning]] — Ecclesiastes 7:14 sets prosperity and adversity side by side as God's making. See
+  [[Good and Adversity from God - Job 2.10 and Ecclesiastes 7.14]].
 
 ## Notes
 

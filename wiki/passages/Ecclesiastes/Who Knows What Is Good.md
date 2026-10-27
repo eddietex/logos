@@ -86,6 +86,8 @@ No place page is created.
 - [[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] —
   [[Do Not Boast About Tomorrow]], Proverbs 27:1, shares a limit on knowledge of what
   comes next. The proverb forbids boasting; Ecclesiastes asks an unanswered question.
+- [[The House of Mourning]] — Ecclesiastes 7:1–14 follows the question of good with *better than* sayings,
+  and 7:14 restates the limit on finding out what comes after a person.
 
 ## Notes
 

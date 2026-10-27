@@ -176,6 +176,8 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 - [[Do Not Envy Sinners]] — Proverbs 23:14, 27, the rod and the deep pit again.
 - [[Answer a Fool]] — Proverbs 26:13, the sluggard's lion again, with two words for the beast.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:12, a repeat of 22:3; 27:22, the fool whose folly no pounding removes, beside 22:15's rod.
+- [[The House of Mourning]] — Ecclesiastes 7:1 ranks a good name above fine perfume, beside the day of death. See
+  [[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]].
 
 ## Notes
 

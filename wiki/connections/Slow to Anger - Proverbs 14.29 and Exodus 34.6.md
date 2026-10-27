@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The House of Mourning]] — Ecclesiastes 7:8–9.
+
 - [[Where There Is No Vision]] — Proverbs 29:8–9, 11, 22.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 19.
@@ -95,3 +97,12 @@ mighty; one who rules his spirit, than he who takes a city"* (16:32). The attrib
 Yahweh is here set above the warrior's, and the parallel line names it as rule over one's own spirit.
 In the same chapter Yahweh's *ḥesed we'ĕmet*, the next words of Exodus 34:6, is the means of atonement
 (16:6; Hebrew from Sefaria). Source: stored WEB Proverbs 16:6, 32; Exodus 34:6.
+
+### Patient in spirit — Ecclesiastes 7:8–9
+
+[[The House of Mourning]] continues the contrast: *"The patient in spirit is better than the
+proud in spirit"* (7:8), and *"Don’t be hasty in your spirit to be angry, for anger rests in the
+bosom of fools"* (7:9). The WEB here says *patient in spirit*, not *slow to anger*, so the link to
+Exodus 34:6 is thematic and not verbal even in English. Like Proverbs 14:29, Ecclesiastes ties
+quick anger to folly; it adds pride as the opposite of patience. Source: stored WEB
+Ecclesiastes 7:8–9; Proverbs 14:29; Exodus 34:6.

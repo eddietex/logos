@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The House of Mourning]] — Ecclesiastes 7:7.
+
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.
 
 - [[Where There Is No Vision]] — Proverbs 29:4, 7, 12, 14, 26.
@@ -139,6 +141,17 @@ the kind those texts oppose, without identifying a bribe or naming an offender. 
 is that God will judge righteous and wicked at the appropriate time (3:17), not that every
 human court is already just. Sources: stored WEB Ecclesiastes 3:16–17; Exodus 23:6–8;
 Proverbs 17:15, 23. This addition makes no source-language claim.
+
+### The wise corrupted — Ecclesiastes 7:7
+
+[[The House of Mourning]] adds the bribe's effect on the receiver's mind: *"Surely
+extortion makes the wise man foolish; and a bribe destroys the understanding"* (7:7). Exodus
+23:8 says a bribe blinds those who have sight; Ecclesiastes says it can turn even the wise
+into a fool. The verse does not name a judge or a court, and it is set among sayings that
+otherwise praise wisdom (7:5, 11–12), so it reads as a limit on wisdom's security rather than a
+legal rule. The comparison is in the English of the WEB; no Hebrew identity of vocabulary
+with Exodus 23:8 or Proverbs 17:23 is asserted. Source: stored WEB Ecclesiastes 7:5–12;
+Exodus 23:8; Proverbs 17:23.
 
 ## Significance
 

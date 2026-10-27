@@ -312,6 +312,8 @@ and [[The Prosperity of the Wicked]].
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2–3; few words before God and the fool's many words,
   beside 17:27–28. See
   [[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
+- [[The House of Mourning]] — Ecclesiastes 7:7, a bribe destroys the understanding, beside 17:23. See
+  [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
 
 ## Notes
 

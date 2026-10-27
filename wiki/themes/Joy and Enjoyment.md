@@ -123,7 +123,19 @@ verse supplies. No new command to enjoy or prohibition of enjoyment is given her
 
 See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
 
+### The house of mourning — Ecclesiastes 7:1–14
+
+Sorrow is ranked above laughter (7:3), the house of mourning above the house of feasting (2),
+and the fool's laughter is vanity (6). Yet 7:14 commands: *"In the day of prosperity be
+joyful."* **Tension:** these sayings stand beside the book's commendations of enjoyment
+(2:24; 3:12–13; 5:18). Reading mourning as what keeps enjoyment from forgetting death is an
+interpretation; the text sets them together without reconciling them.
+
+See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[The House of Mourning]] — Ecclesiastes 7:2–6, 14; sorrow above laughter, yet joy commanded in prosperity.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; who knows what is good beside earlier affirmations of enjoyment.
 
