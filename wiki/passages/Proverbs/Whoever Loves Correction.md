@@ -144,6 +144,7 @@ See [[The Prosperity of the Wicked]], [[Retribution]], and [[Slavery and Servitu
 - [[The Oppression in Egypt]] — Exodus 1:11–14; forced labor imposed by oppressors.
 - Proverbs 31:10–12 — the worthy wife’s positive portrait developed later in the book; stored WEB verified, not yet ingested.
 - [[A Strong Tower]] — Proverbs 18:20; the fruit of the mouth (12:14).
+- [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]] — Proverbs 12:15, *"right in his own eyes"*.
 
 ## Notes
 

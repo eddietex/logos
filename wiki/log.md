@@ -17046,3 +17046,51 @@ existing raw files are unchanged. Hebrew of Proverbs 10:11; 11:13; 13:17; 15:1; 
 of *heʿtîqû*, *yəḥassedḵā*, and *neṯer* were not checked against a lexicon and are marked so at the
 point of claim; the Greek of Luke 14 and any Septuagint form of Proverbs 25:6–7 were not checked, and
 the connection page says so. `scripts/link-check.sh` exits 0.
+
+## [2026-10-26] ingest | Proverbs 26.1-28 — Answer a Fool
+
+Ingested [[Answer a Fool]], keeping the planned Proverbs 26:1–28 boundary and title and advancing
+exactly one queue item. The chapter has three portraits — the fool (*kəsîl* in 26:1, 3–12), the
+sluggard (*ʿāṣēl* in 26:13–16), and the troublemaker of tongue and quarrel (26:17–28) — and 27:1 turns
+to boasting about tomorrow. The unattended discussion is written into the passage page: what fits a
+fool (1–3); answer him and don't (4–5); the fool and the proverb (6–12); the sluggard (13–16); the
+meddler and the prankster (17–19); fuel for the quarrel (20–22); the disguised hater (23–26); the pit
+and the stone (27–28).
+
+**Interpretive decisions.** 26:4–5 is read as a deliberate juxtaposition requiring judgment; the
+Talmud's resolution (Shabbat 30b) is quoted and not adopted. 26:7 and 9 are read as the book
+reflecting on its own *māšāl*. The ketiv/qere of 26:2 (*lōʾ* / *lô*) is stated and left undecided, as
+is whether *miṯʿabbēr* (26:17) means *meddles* or *becomes furious*. 26:8's *margēmāh* and the whole of
+26:10 are marked as uncertain and taken as the WEB has them. The chapter's uses of *šûḇ* (11, 15, 16,
+27) are offered as a thread through the three portraits. No person or place page is revised: no one is
+named, Yahweh is not named in the chapter, and the pit of 26:27 is not treated as Sheol.
+
+**Created (4):** the passage and three connections:
+- [[The Dog Returns to His Vomit - Proverbs 26.11 and 2 Peter 2.22]] (quotation)
+- [[Whoever Digs a Pit - Proverbs 26.27, Psalm 7.15, and Ecclesiastes 10.8]] (motif)
+- [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]] (thread)
+
+**Revised content pages (24):** [[Proverbs]] (box, overview paragraph, two key-theme entries); 9 theme
+pages, each with a section and a key-passage entry (Folly, Pride and Self-Exaltation, Work, Language
+and Speech, Strife and Peacemaking, Deception, Retribution, Curse, Wisdom), with Folly's two *not yet
+ingested* notes on 26:4–5 and Work's 26:13 mention replaced by links; 3 existing connections (Go to the
+Ant, The Contentious Woman, Love Covers Wrongs), each with a new section, and the *not yet ingested*
+labels on 26:13 and 26:21 replaced by links; and 11 earlier Proverbs passage pages with reciprocal
+references.
+
+**Indexes and totals.** Revised the books index, the main dashboard, the themes index (9 rows), and
+Connections Index A-C, D-H, I-N, and T-Z (three new rows filed under D and W; three rows extended).
+T-Z now has 115 rows against A-C's 82, still under the half-again redraw trigger. Proverbs is now
+36 / 43 pericopes and remains in progress. Counts by frontmatter are 180 passages, 180 people, 90
+places, 83 themes, and 467 connections.
+
+**Sources and validation.** All Proverbs and Job quotations were copied from the stored WEB. 2 Peter
+2:22, Psalm 7:15–16, Psalm 57:6, Ecclesiastes 10:8, Isaiah 5:21, and Romans 12:16 were verified at
+bible-api.com with `translation=web` on 2026-10-26. No unreached book was fetched, and existing raw
+files are unchanged. Hebrew of Proverbs 1:1, 18; 3:7, 30; 6:16–17, 19; 10:12–13, 26; 14:16; 16:28;
+18:8; 19:24; 20:2; 22:13; 25:4, 13, 16; 26:1–28; 28:10; 29:20 and Job 1:9 was read from Sefaria's
+*Miqra according to the Masorah* on 2026-10-26; Proverbs 28:11 was not read in Hebrew, and the
+connection page says so. Shabbat 30b was read in Sefaria's William Davidson English only. The gloss of
+*margēmāh* was not checked against a lexicon; the Greek of 2 Peter 2:22 and Romans 12:16 and any
+Septuagint form of Proverbs 3:7 or 26:11 were not checked, and the pages say so at the point of claim.
+`scripts/link-check.sh` exits 0.

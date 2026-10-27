@@ -18,7 +18,7 @@ tags: [connection]
 - **Proverbs 27:15** — *"A continual dropping on a rainy day and a contentious wife are alike"*
   *(stored WEB, verified also at bible-api.com; not yet ingested)*
 - **Proverbs 26:21** — *"As coals are to hot embers, and wood to fire, so is a contentious man to
-  kindling strife."* *(stored WEB, not yet ingested)*
+  kindling strife."* — [[Answer a Fool]]
 - **Proverbs 19:14** — *"a prudent wife is from Yahweh."* —
   [[Better Is the Poor Who Walks in Integrity]]
 
@@ -49,6 +49,17 @@ dwell*, and 25:24 *ṭôḇ šeḇeṯ*, *better dwelling*; the rest — *ʿal-p
 read *midyānîm*.) The earlier caveat about the other verses' vocabulary still stands. In chapter 25
 the saying follows *"a backbiting tongue brings an angry face"* (25:23), so it sits in a run on speech
 that sours a household and a neighbourhood. See [[The Glory of Kings]].
+
+### The contentious man — Proverbs 26:21
+
+With chapter 26 ingested, its *contentious man* was read in the same Hebrew edition (2026-10-26):
+*wəʾîš midyānîm ləḥarḥar-rîḇ*, written *mdwnym* and read *midyānîm*, exactly as at 25:24. The
+*contentious man* of 26:21 and the *contentious woman* of 25:24 thus share the noun and the same
+written-and-read variant, three verses' distance apart in the collection of Hezekiah's men. The image
+around him is fire — coals to embers, wood to fire — following *"For lack of wood a fire goes out.
+Without gossip, a quarrel dies down"* (26:20). What the woman's sayings put as a household made
+unlivable, the man's puts as a fire kept burning. The caveat about the vocabulary of 19:13, 21:19, and
+27:15 still stands. See [[Answer a Fool]].
 
 ## Significance
 

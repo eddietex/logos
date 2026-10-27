@@ -306,6 +306,18 @@ them come settling with a neighbour out of court (25:8–10), the soft tongue th
 (25:18), bread and water for an enemy, for which *"Yahweh will reward you"* (25:21–22; quoted at Romans
 12:20), and a man without self-restraint as *"a city that is broken down and without walls"* (25:28).
 
+The next chapter draws three portraits. [[Answer a Fool]] (26:1–28) names the fool in eleven of its
+first twelve verses: honour does not fit him (26:1, 8), a rod is for his back (26:3), and *"a parable
+in the mouth of fools"* is a lame leg or a thorn in a drunkard's hand (26:7, 9) — the book's own word
+for itself, useless in the wrong mouth. At its head stand two commands that contradict each other on
+purpose: *"Don't answer a fool according to his folly … Answer a fool according to his folly"*
+(26:4–5). The dog returning to its vomit (26:11) is the line 2 Peter 2:22 quotes, and the portrait
+ends below the fool, with the man *"wise in his own eyes"* (26:12). Then the sluggard's last four
+sayings (26:13–16), two of them repeated from earlier collections; and the troublemaker — the
+meddler, the prankster, the whisperer without whom *"a quarrel dies down"*, and the hater whose
+charming speech covers *"seven abominations in his heart"* — ending with the pit that catches its
+digger (26:17–28). Yahweh is not named in the chapter.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -379,7 +391,7 @@ first collection at its heading), each titled from a representative saying.
 ### The proverbs copied by Hezekiah's men (25–29)
 
 - [x] [[The Glory of Kings]] — Proverbs 25:1–28
-- [ ] Answer a Fool — Proverbs 26:1–28
+- [x] [[Answer a Fool]] — Proverbs 26:1–28
 - [ ] Do Not Boast About Tomorrow — Proverbs 27:1–27
 - [ ] The Wicked Flee When No One Pursues — Proverbs 28:1–28
 - [ ] Where There Is No Vision — Proverbs 29:1–27
@@ -404,7 +416,7 @@ first collection at its heading), each titled from a representative saying.
   out a matter"* (25:2)
 - [[The Fear of God]] — *"the beginning of knowledge"* (1:7) and of wisdom (9:10); *"to hate evil"*
   (8:13)
-- [[Folly]] — wisdom's opposite, and the other way the book's reader can go
+- [[Folly]] — wisdom's opposite, and the other way the book's reader can go; *"Answer a fool according to his folly"* and its opposite (26:4–5)
 - [[Righteousness]] — *"righteousness, justice, and equity"* (1:3), wisdom's moral content
 - [[Language and Speech]] — proverb, parable, riddle (1:6): a book about words, made of words
 - [[Sexual Sin]] — the strange woman, introduced at 2:16–19 and developed in chapters 5–7; named
@@ -428,7 +440,7 @@ first collection at its heading), each titled from a representative saying.
 - [[Wealth and Possessions]] — suretyship for another's debt, and poverty as a robber (6:1–11)
 - [[Envy]] — *"envy rots the bones"* (14:30); *"Don't let your heart envy sinners; but rather fear Yahweh all day long"* (23:17)
 - [[The Nations]] — *"Righteousness exalts a nation"* (14:34)
-- [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17)
+- [[Pride and Self-Exaltation]] — haughty eyes, first of the seven abominations (6:17); *"wise in his own eyes"*, with less hope than a fool (26:12)
 - [[Strife and Peacemaking]] — *"he who sows discord among brothers"* (6:19)
 - [[Theft and Restitution]] — the hungry thief who restores sevenfold (6:30–31)
 - [[Hospitality]] — Wisdom's feast and Folly's, two tables and one invitation (9:1–18)

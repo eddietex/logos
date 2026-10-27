@@ -203,6 +203,7 @@ proven guilty by it. See [[Retribution]] and [[The Prosperity of the Wicked]].
 - [[A Dry Morsel with Quietness]] — Proverbs 17:5, *"Whoever mocks the poor reproaches his Maker"*, restating 14:31.
 - [[A Good Name]] — Proverbs 22:2 names the Maker of rich and poor that 14:31 invokes.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–4, the house built through wisdom, beside 14:1's wise woman.
+- [[Answer a Fool]] — Proverbs 26:17, the same *miṯʿabbēr* as 14:16's hot-headed fool.
 
 ## Notes
 

@@ -272,6 +272,19 @@ trouble is like a bad tooth, or a lame foot"* (25:19), which gives way exactly w
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### The glazed pot — Proverbs 26:18–19, 23–26, 28
+
+The chapter's last section is a study of disguise. The man who *"deceives his neighbor and says, 'Am
+I not joking?'"* is a madman shooting arrows (18–19). Burning lips over an evil heart are *"silver dross
+on an earthen vessel"* (23) — a clay pot glazed with smelting waste to look like silver; *sîḡîm* is
+the dross of 25:4. The *śônēʾ*, the one who hates, *"disguises himself with his lips"* (24); when his
+speech is charming, *"don't believe him; for there are seven abominations in his heart"* (25), the
+number of 6:16. His hatred is *"concealed by deception"*, but *"exposed in the assembly"* (26). And
+*"a flattering mouth works ruin"* (28). See
+[[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 8, 28; Treasure by a lying tongue and the false witness.
@@ -478,6 +491,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Thirty Excellent Things]] — Proverbs 23:3, 7; Deceitful food, and a host whose heart is not with his words.
 - [[Do Not Envy Sinners]] — Proverbs 23:31–32, 35; Wine that goes down smoothly and bites at the end.
 - [[The Glory of Kings]] — Proverbs 25:14, 18–19; The false boaster, the false witness, the unfaithful man trusted in trouble.
+- [[Answer a Fool]] — Proverbs 26:18–19, 23–26, 28; The prankster's excuse, the glazed pot, the hater disguised by his lips.
 
 ## Related themes
 

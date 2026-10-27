@@ -248,6 +248,7 @@ reading the world. That is the task 25:2 gave to kings, and the chapter gives it
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:11, the spring of life.
 - [[The Ten Commandments]] — Exodus 20:16, the false witness against a neighbour.
 - [[Do Not Consent to Sinners]] — Proverbs 1:10, *pāṯāh*, to entice.
+- [[Answer a Fool]] — Proverbs 26, the next chapter: honour not fitting a fool (26:1, 8), dross on clay (26:23), and the contentious man (26:21).
 
 ## Notes
 

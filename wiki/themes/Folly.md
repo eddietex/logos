@@ -57,7 +57,7 @@ not keep silent.
   — *loud* (7:11), at her door (5:8), bound for Sheol — and the wiki leaves open whether she is that
   woman or a wider figure including her. The mocker (*lēṣ*) who answers reproof with hatred (9:7–8) is
   folly's other face.
-- **Proverbs 26:4–5** *(not yet ingested)* — *"Don't answer a fool according to his folly"* beside
+- **Proverbs 26:4–5** — [[Answer a Fool]]: *"Don't answer a fool according to his folly"* beside
   *"Answer a fool according to his folly"*: the book's own admission that dealing with folly takes
   judgment, not a rule.
 - **Job 2:10** — [[The Second Test]]: *"You speak as one of the foolish women would speak"*
@@ -230,7 +230,7 @@ See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language clai
 
 *"Don't speak in the ears of a fool, for he will despise the wisdom of your words"* (23:9). The preface of
 the collection had sent the pupil out to give *"sound answers"* (22:21); this verse names the audience not
-worth answering. 26:4–5, not yet ingested, will complicate the rule.
+worth answering. 26:4–5 complicates the rule; see below.
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 26:4–5.
 
@@ -250,6 +250,25 @@ the phrase of the *"young man void of understanding"* at 7:7. Folly here is not 
 and it is read off the state of the man's land.
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
+### Answering the fool — Proverbs 26:1–12
+
+Chapter 26 opens with the longest run on the fool in the book: *kəsîl* in eleven of its first twelve
+verses. Honour does not fit him, like *"snow in summer"* (1), and giving it to him is like binding a
+stone in a sling (8). He is to be driven like a horse or donkey: *"a rod for the back of fools"* (3).
+Sending a message by him is *"cutting off feet and drinking violence"* (6). Twice, in the same Hebrew
+words, *"a parable in the mouth of fools"* is a lame leg or a thorn in a drunkard's hand (7, 9): the
+book's own word for itself, *māšāl*, is useless or dangerous in his mouth. *"As a dog that returns to
+his vomit, so is a fool who repeats his folly"* (11), the line 2 Peter 2:22 quotes. Over it all stand
+two contradictory commands, side by side: *"Don't answer a fool according to his folly, lest you also
+be like him. Answer a fool according to his folly, lest he be wise in his own eyes"* (4–5). Each names
+a real danger, and the reader must judge which is greater in a given case — the qualification 23:9
+anticipated. The run ends below the fool: *"Do you see a man wise in his own eyes? There is more hope
+for a fool than for him"* (12). See
+[[The Dog Returns to His Vomit - Proverbs 26.11 and 2 Peter 2.22]] and
+[[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
 ## Key passages
 
@@ -299,6 +318,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[Thirty Excellent Things]] — Proverbs 23:9; The fool who despises wise words.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:7–9; The fool silent in the gate; the schemes of folly called sin; the mocker detested.
 - [[The Field of the Sluggard]] — Proverbs 24:30; The vineyard of the man void of understanding.
+- [[Answer a Fool]] — Proverbs 26:1–12; Honour, errands, and proverbs wasted on the fool; the commands to answer and not answer him; the dog at its vomit; the man wise in his own eyes, worse than a fool.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

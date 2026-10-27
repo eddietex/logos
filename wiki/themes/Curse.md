@@ -179,6 +179,15 @@ vineyard of 24:30–31, grown over with thorns, recalls without citing the curse
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 
+### The undeserved curse — Proverbs 26:2
+
+*"Like a fluttering sparrow, like a darting swallow, so the undeserved curse doesn't come to rest"*
+(26:2). *Undeserved* is *ḥinnām*, *for nothing* — the word of Job 1:9. A curse with no cause flies about
+and does not land; it has no power of its own apart from the right behind it. The Hebrew has a
+written-and-read variant: written *lōʾ*, *not*, read *lô*, *to him*. On the read form the curse
+*comes to him*, and *him* can be read as the curser. The WEB follows the written form, and the wiki
+does not decide between them. See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[Wine Is a Mocker]] — Proverbs 20:20; A parental curse brings an extinguished lamp upon the speaker.
@@ -240,6 +249,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
   Genesis 3:17–18.
 - [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler, with the verbs of Genesis 12:3
 - [[The Field of the Sluggard]] — Proverbs 24:24–25, 30–31; The partial judge cursed by the peoples; the field left to thorns.
+- [[Answer a Fool]] — Proverbs 26:2; The undeserved curse, like a darting bird, does not come to rest.
 
 ## Related themes
 

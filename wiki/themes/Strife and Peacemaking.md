@@ -265,6 +265,18 @@ Between them, 25:15's *"soft tongue"* and 25:21–22's bread for an enemy show t
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### Fuel for the fire — Proverbs 26:17, 20–21
+
+*"Like one who grabs a dog's ears is one who passes by and meddles in a quarrel not his own"* (17) — a
+grip that is dangerous to keep and dangerous to let go. *Meddles* is *miṯʿabbēr*, which 14:16 used of
+the hot-headed fool; it may mean *becoming furious* rather than *meddling* (the wiki does not decide).
+Then strife as fire: *"For lack of wood a fire goes out. Without gossip, a quarrel dies down"* (20),
+and *"As coals are to hot embers, and wood to fire, so is a contentious man to kindling strife"* (21).
+The *contentious man* is *ʾîš midyānîm*, the counterpart of 25:24's contentious woman. See
+[[The Contentious Woman - Proverbs 19.13, 21.9, 19, 25.24, and 27.15]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:9, 14, 19; Domestic contention and anger pacified by a gift.
@@ -428,6 +440,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Thirty Excellent Things]] — Proverbs 22:24–25; The hot-tempered companion whose ways are learned.
 - [[Do Not Envy Sinners]] — Proverbs 23:29; 24:2; Strife and needless bruises at the wine; hearts that plot violence.
 - [[The Glory of Kings]] — Proverbs 25:8–10, 21–24; Haste to court refused, the case argued with the neighbour, the enemy fed.
+- [[Answer a Fool]] — Proverbs 26:17, 20–21; The meddler holding a dog by the ears; the fire that goes out without wood; the contentious man.
 
 ## Related themes
 

@@ -180,6 +180,7 @@ and [[Suffering]].
 - [[A Good Name]] — Proverbs 22:16 closes the collection headed at 10:1.
 - [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–25, the father's gladness spoken in the first person.
 - [[The Glory of Kings]] — Proverbs 25:1, the next Solomonic heading; 25:26, the spring (*māqôr*) of 10:11 muddied.
+- [[Answer a Fool]] — Proverbs 26:3, 6, 26: the rod for the back, the errand sent by a fool, and hatred that covers itself. See [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
 
 ## Notes
 

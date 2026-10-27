@@ -199,6 +199,17 @@ given, *"clouds and wind without rain"* (25:14), and closes on seeking one's own
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### Wise in his own eyes — Proverbs 26:5, 12, 16
+
+Chapter 26 uses *wise in his own eyes* (*ḥāḵām bəʿênāyw*) three times. The fool must be answered
+*"lest he be wise in his own eyes"* (5). The man who already is has less hope than a fool (12). And the
+sluggard is *"wiser in his own eyes than seven men who answer with discretion"* (16). Self-assurance is
+the end point of both the fool's portrait and the sluggard's, and the one fault the chapter ranks
+below folly itself. Proverbs 3:7 had set it against the fear of Yahweh. See
+[[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:2, 4, 24; Self-approval, the high look, and the scoffer's name.
@@ -272,6 +283,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:13; pride and arrogance first in what Wisdom hates
 - [[A Good Name]] — Proverbs 22:4, 10; Humility rewarded; the mocker driven out.
 - [[The Glory of Kings]] — Proverbs 25:6–7, 14, 27; The courtier who exalts himself, the false boaster, one's own honour.
+- [[Answer a Fool]] — Proverbs 26:5, 12, 16; *Wise in his own eyes* three times; the self-assured man has less hope than a fool.
 
 ## Related themes
 

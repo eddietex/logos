@@ -246,6 +246,7 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 - [[A Dry Morsel with Quietness]] — Proverbs 17:18, striking hands and becoming collateral with 6:1's verbs.
 - [[Thirty Excellent Things]] — Proverbs 22:26–27, the same two surety idioms, and the bed taken.
 - [[The Field of the Sluggard]] — Proverbs 24:33–34, the same saying placed after the sluggard's field.
+- [[Answer a Fool]] — Proverbs 26:13–16, 25, 28: the sluggard's last portrait; *"seven abominations in his heart"*; the lying tongue.
 
 ## Notes
 

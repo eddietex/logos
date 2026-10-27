@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Answer a Fool]] — Proverbs 26:13–16.
+
 - [[The Field of the Sluggard]] — Proverbs 24:27, 30–34.
 
 - [[A Good Name]] — Proverbs 22:13.
@@ -86,7 +88,7 @@ See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language
 
 Proverbs 22:13 gives the sluggard's excuse: *"There is a lion outside! I will be killed in the
 streets!"* The danger is invented to avoid going out, and the saying is a joke at his expense.
-Proverbs 26:13 (stored, not yet ingested) repeats it: *"There is a lion in the road! A fierce lion
+Proverbs 26:13 ([[Answer a Fool]]) repeats it: *"There is a lion in the road! A fierce lion
 roams the streets!"*
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22:13; 26:13; no new source-language claim.
@@ -104,6 +106,23 @@ considered well. I saw, and received instruction"* (24:32), is the observational
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 6:6; 7:7; 24:27, 30–34; Hebrew of 7:7
 and 24:27–34 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
+### The sluggard's four sayings — Proverbs 26:13–16
+
+Chapter 26 gathers four sayings on the sluggard, and two of them repeat earlier ones. The lion
+(26:13) varies 22:13: it gives two Hebrew words for the beast, *šaḥal* and *ʾărî*, and drops the
+sluggard's *"I will be killed"*. The hand buried in the dish (26:15) repeats the first line of 19:24
+exactly in Hebrew, *ṭāman ʿāṣēl yāḏô baṣṣallāḥaṯ*; the second line now gives a reason — he is
+*nilʾāh*, *weary*, *"too lazy to bring it back to his mouth"*. New are the door turning *"on its
+hinges"*, as he turns on his bed and goes nowhere (26:14), and the verdict on his self-esteem: *"The
+sluggard is wiser in his own eyes than seven men who answer with discretion"* (26:16). The hand he is
+too weary *to bring back* (*lahăšîḇāh*) and the answers the seven *bring back* (*məšîḇê ṭāʿam*) share
+the causative of *šûḇ*. The last portrait of the sluggard therefore adds no new laziness. It adds
+self-deception: he is also a man *"wise in his own eyes"*. See
+[[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 19:24; 22:13; 26:13–16; Hebrew of 19:24, 22:13,
+and 26:13–16 read from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
 
 ## Significance
 

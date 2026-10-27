@@ -10,6 +10,7 @@ tags: [connection]
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:11, 25, 27.
 
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:12; hatred stirs up strife, love covers wrongs.
+- [[Answer a Fool]] — Proverbs 26:26; hatred covered by deception, and uncovered in the assembly.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:9; and Proverbs 28:13 — covering an offense promotes love; concealing one's own sins
   contrasts with confession and renunciation (stored WEB; not yet ingested).
 - 1 Peter 4:8 — earnest love among believers, covering a multitude of sins (not yet ingested).
@@ -63,6 +64,17 @@ instruction (25, 27). Overlooking an offense is not a license to call lies true 
 correction. This addition develops the comparison within Proverbs only, without a new claim about
 the New Testament texts or their original-language wording. Source: stored WEB Proverbs 10:12; 17:9;
 19:5, 9, 11, 25, 27–28.
+
+### Hatred covered — Proverbs 26:26
+
+*"His malice may be concealed by deception, but his wickedness will be exposed in the assembly"*
+(26:26). The Hebrew uses the two nouns of 10:12 and its verb: *tikkasseh śinʾāh*, *hatred is
+covered*, against 10:12's *śinʾāh* and *təḵasseh ʾahăḇāh*, *love covers* (Hebrew of both from
+Sefaria's *Miqra according to the Masorah*, read 2026-10-26). In 10:12 love covers the wrongs of
+others. In 26:26 hatred covers itself, behind charming speech (26:24–25), and the cover does not hold:
+it is *tiggāleh*, *uncovered*, in public. This is the dishonest concealment this page distinguishes
+from love's covering, now with the same vocabulary as the saying it is set against. See
+[[Answer a Fool]]. Source: stored WEB Proverbs 10:12; 26:24–26.
 
 ## Significance
 

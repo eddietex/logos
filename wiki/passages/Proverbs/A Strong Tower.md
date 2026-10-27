@@ -289,6 +289,7 @@ these are general sayings and not verdicts on any particular person. See [[Retri
 - [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] — 18:12.
 - [[The Prosperity of the Wicked]] — 18:11, 23.
 - [[The Field of the Sluggard]] — Proverbs 24:23, partiality in judgment as *recognizing faces*.
+- [[Answer a Fool]] — Proverbs 26:22 repeats 18:8 letter for letter; the WEB renders it *whisperer* there.
 
 ## Notes
 

@@ -313,7 +313,7 @@ the passage page.
 ### The sluggard's lion — Proverbs 22:13
 
 *"The sluggard says, 'There is a lion outside! I will be killed in the streets!'"* (22:13, repeated
-at 26:13). The excuse is the joke: an invented danger keeps him indoors.
+at 26:13; see [[Answer a Fool]]). The excuse is the joke: an invented danger keeps him indoors.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
@@ -334,6 +334,16 @@ nettles, a fallen wall — and draws the lesson of 6:10–11 again: *"a little s
 [[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]].
 
 See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
+
+### The sluggard's last portrait — Proverbs 26:13–16
+
+Four sayings in a row name the *ʿāṣēl*. His lion in the road (13) varies 22:13; his hand buried in the
+dish (15) repeats the first line of 19:24, now because he is *"too lazy"* (*nilʾāh*, *weary*) to lift
+it. New are the door on its hinges, as he turns on his bed and goes nowhere (14), and his opinion of
+himself: *"wiser in his own eyes than seven men who answer with discretion"* (16). The portrait adds
+self-deception to laziness. See [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
 ## Key passages
 
@@ -520,6 +530,7 @@ See [[The Field of the Sluggard]]. Source: stored WEB Proverbs 24:23–34.
 - [[A Good Name]] — Proverbs 22:13; The sluggard's lion in the streets.
 - [[Thirty Excellent Things]] — Proverbs 22:29; The skilled worker who serves kings.
 - [[The Field of the Sluggard]] — Proverbs 24:27, 30–34; The field readied before the house; the sluggard's vineyard gone to thorns.
+- [[Answer a Fool]] — Proverbs 26:13–16; The sluggard's lion, his hinge, his dish, and his opinion of himself.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

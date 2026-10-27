@@ -351,6 +351,20 @@ backbiting tongue — literally *a tongue of secrecy* — that brings an angry f
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### The proverb in a fool's mouth, and the disguised tongue — Proverbs 26:4–9, 18–28
+
+Chapter 26 reflects on its own medium. *"A parable in the mouth of fools"* — *māšāl*, the book's word
+for itself — is a lame leg (7) or a thorn in a drunkard's hand (9); a true saying needs a wise speaker,
+and the paired commands of 26:4–5 show that even *answer* and *don't answer* need judgment to apply.
+The second half of the chapter is about the mouth that does harm: the deceiver who says *"Am I not
+joking?"* (18–19); the whisperer, without whom *"a quarrel dies down"* (20), and whose words are
+*"dainty morsels"* (22, identical in Hebrew to 18:8); burning lips over an evil heart, like silver
+dross glazed on clay (23); the hater who *"disguises himself with his lips"* (24) and whose speech is
+*"charming"* (25); and the end of it all, *"A lying tongue hates those it hurts; and a flattering mouth
+works ruin"* (28).
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:6, 23, 28; Lying tongues, guarded mouths, and witnesses.
@@ -612,6 +626,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Do Not Envy Sinners]] — Proverbs 23:16, 35; 24:2; Lips that speak what is right, the drunkard's speech, and lips that talk mischief.
 - [[The Field of the Sluggard]] — Proverbs 24:26, 28; The honest answer as a kiss; the witness without cause.
 - [[The Glory of Kings]] — Proverbs 25:9–15, 18–20, 23; The word fitly spoken, the soft tongue, the false witness as a weapon.
+- [[Answer a Fool]] — Proverbs 26:4–9, 18–28; The proverb in a fool's mouth, the "joke", the whisperer's morsels, charming speech, the lying tongue.
 
 ## Related themes
 

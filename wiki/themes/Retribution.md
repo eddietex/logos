@@ -431,6 +431,17 @@ to vomiting (25:16), the neighbour who comes to hate the frequent guest (25:17).
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### The pit and the stone — Proverbs 26:3, 26–27
+
+*"Whoever digs a pit shall fall into it. Whoever rolls a stone, it will come back on him"* (26:27) —
+the self-acting form of the first lecture (1:18), with no judge and no God named; the stone *returns*
+(*tāšûḇ*). Yahweh is not named anywhere in chapter 26. The hater's hidden malice *"will be exposed in
+the assembly"* (26:26), again with no agent named. And the fool's consequence is a rod for his back
+(26:3), as at 10:13. Psalm 7:15–16 and 57:6 pray the principle and Ecclesiastes 10:8 qualifies it
+with *may*. See [[Whoever Digs a Pit - Proverbs 26.27, Psalm 7.15, and Ecclesiastes 10.8]].
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:7, 13, 16, 18, 25; Expected outcomes, measure for measure, held beside Job.
@@ -721,6 +732,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12, 16, 20, 22; Each rendered according to his work; the righteous fall and rise, the wicked are overthrown.
 - [[The Field of the Sluggard]] — Proverbs 24:24–25, 29, 34; Rendering according to work belongs to God and the court, not the wronged man.
 - [[The Glory of Kings]] — Proverbs 25:8–10, 16–17, 22; Social consequences, and Yahweh's repayment of the one who feeds his enemy.
+- [[Answer a Fool]] — Proverbs 26:3, 26–27; The rod for the fool's back, hidden hatred exposed, the pit and the stone that return on their makers.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

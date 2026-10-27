@@ -234,7 +234,7 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 - Proverbs 16:33 — *"The lot is cast into the lap, but its every decision is from Yahweh."*
 - Proverbs 15:27 — *"He who is greedy for gain troubles his own house, but he who hates bribes will
   live."*
-- Proverbs 26:27 — *"Whoever digs a pit shall fall into it."*
+- Proverbs 26:27 — *"Whoever digs a pit shall fall into it."* See [[Answer a Fool]].
 - Proverbs 27:20; 30:16 — Sheol never satisfied.
 - Exodus 20:12 — [[The Ten Commandments]]: *"Honor your father and your mother"*; see
   [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
@@ -264,6 +264,7 @@ The wiki records both claims: Proverbs 1:18–19 (the greedy take their own live
 - [[Do Not Envy Sinners]] — Proverbs 23:28–29, the gang's *"lay in wait"* and *"without cause"* reused of the prostitute and the drinker.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:15, *"Don't lay in wait, wicked man"*, with the gang's verb of 1:11.
 - [[The Field of the Sluggard]] — Proverbs 24:28, *ḥinnām* again, and *pāṯāh* (1:10) as *deceive*.
+- [[Whoever Digs a Pit - Proverbs 26.27, Psalm 7.15, and Ecclesiastes 10.8]] — Proverbs 1:18 beside 26:27 in [[Answer a Fool]].
 
 ## Notes
 

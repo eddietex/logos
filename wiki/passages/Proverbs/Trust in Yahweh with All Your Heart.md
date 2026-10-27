@@ -299,6 +299,7 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
   Deuteronomy 6:7's walking and lying down (6:22).
 - [[The Young Man Void of Understanding]] — Proverbs 7:3; *"Write them on the tablet of your heart"*, 3:3b again, with
   the fingers for the neck.
+- [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]] — Proverbs 3:7, and its three echoes in [[Answer a Fool]] (26:5, 12, 16).
 
 ## Notes
 

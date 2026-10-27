@@ -504,6 +504,18 @@ his spirit. A wise reprover is an ornament only to a hearing ear (25:12). See
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### Wisdom as judgment — Proverbs 26:4–5, 7, 9, 16
+
+*"Don't answer a fool according to his folly … Answer a fool according to his folly"* (26:4–5): two
+true sayings that contradict each other, placed side by side. Neither can be applied without deciding
+which danger is greater in the case at hand, and no rule decides that. The Talmud (Shabbat 30b, Sefaria's William Davidson English)
+records that the Sages considered suppressing Proverbs for this contradiction, and resolved it by
+assigning the verses to different cases. The chapter's own next words make a related point: *"a
+parable in the mouth of fools"* is useless or dangerous (7, 9). A proverb is only as wise as the one
+who uses it. And the wise are those *"who answer with discretion"* (*məšîḇê ṭāʿam*, 16).
+
+See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
+
 ## Key passages
 
 - [[The King's Heart]] — Proverbs 21:11, 20, 22, 30; Instruction, stored treasure, strategy, and wisdom's limit.
@@ -707,6 +719,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–7, 13–14; Wisdom builds and fills the house, wins the war, and is honey to the soul.
 - [[The Field of the Sluggard]] — Proverbs 24:23, 32; The second *"sayings of the wise"*; instruction received by looking.
 - [[The Glory of Kings]] — Proverbs 25:2, 12, 16–17, 28; The king's searching, the reprover and the hearing ear, the spirit without restraint.
+- [[Answer a Fool]] — Proverbs 26:4–5, 7, 9, 16; Two true sayings that require judgment; the proverb that needs a wise mouth.
 
 ## Related themes
 

@@ -182,6 +182,7 @@ required.
 - [[The Ten Commandments]] — Exodus 20:12, 16 supplies comparisons for parental honor and truthful
   witness.
 - [[The Field of the Sluggard]] — Proverbs 24:28, the witness against a neighbour without cause.
+- [[Answer a Fool]] — Proverbs 26:15, the hand in the dish again, the first line identical in Hebrew.
 
 ## Notes
 
