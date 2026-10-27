@@ -278,7 +278,20 @@ him; wisdom decides the ranking, as in the better-than sayings of Proverbs 19:1 
 stands beside 4:1's powerless oppressed and 9:15's poor wise man whom no one remembered. See
 [[The Youth and the Old King]]. Source: stored WEB Ecclesiastes 4:1, 13–14; 9:15; Proverbs 19:1; 28:6.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Verse 8 expressly names oppression of the poor and the violent loss of justice and
+righteousness, now within a hierarchy of officials. The instruction not to marvel does not
+call the oppression good or report that a higher official has stopped it. Unlike 4:1's
+unnamed victims, these victims are explicitly poor; neither observation makes them guilty.
+See [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; poor people oppressed within layers of official authority.
 
 - [[The Youth and the Old King]] — Ecclesiastes 4:13–14; A youth born poor ranked above a king and raised from prison.
 

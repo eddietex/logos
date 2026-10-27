@@ -66,6 +66,9 @@ it does not identify a particular country, court, or city.
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–9 again observes oppression, now naming the poor and layers of
+  officials. No effective redress is narrated; 5:18–20's enjoyment does not erase the victims.
+
 - [[Two Are Better Than One]] — Ecclesiastes 4:4–12; the next observation, from envious labor to
   the companion who lifts the one who falls.
 

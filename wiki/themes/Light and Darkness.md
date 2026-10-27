@@ -236,7 +236,19 @@ destination, since one event happens to them all (2:14). See [[The Two Paths]] a
 
 See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Eating in darkness belongs to the portrait of frustrated life amid harmful wealth (17).
+The same verse names sickness and wrath; the following verses commend eating and drinking
+with enjoyment (18–19). Darkness here depicts the sufferer's circumstances without being
+an explicit verdict of moral wickedness or a description of the underworld.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; eating in darkness amid frustration contrasts with enjoyed provision.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–14; Wisdom over folly as light over darkness; the fool walks in darkness.
 

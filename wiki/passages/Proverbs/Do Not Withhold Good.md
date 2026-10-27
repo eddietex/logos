@@ -124,6 +124,9 @@ interpretation. Both the strong promises and Job's counterexamples remain on rec
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:12 calls the laborer's sleep sweet, with little or much to eat, beside
+  Proverbs 3:24's promise to the son who keeps wisdom. See [[Sweet Sleep - Proverbs 3.24 and Ecclesiastes 5.12]].
+
 - [[Where There Is No Vision]] — Proverbs 29:23 restates the reversal of pride and lowliness as
   abasement and honor. It does not explicitly name grace or its giver, unlike 3:34; the later New
   Testament citation relationship remains with 3:34.

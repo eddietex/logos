@@ -199,7 +199,20 @@ the page's accounts of suffering to include human oppression plainly observed an
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+The unit moves from oppression of the poor (8) to the rich person's lost sleep (12),
+harmful wealth and misfortune (13–14), and darkness, frustration, sickness, and wrath (17).
+It does not explain this loss as a divine sentence for an identified sin. Joy given by God
+(18–20) remains beside suffering, not as a denial of its reality or proof that every
+sufferer has failed to receive a universally available remedy.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; oppression, sleepless abundance, loss, and distress beside enjoyment.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Oppression and absent comfort without blame assigned to victims.
 

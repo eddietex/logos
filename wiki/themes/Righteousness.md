@@ -317,7 +317,19 @@ right, and the shared mortality described afterward does not abolish moral accou
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Righteousness is named with justice as what oppression violently removes (8). The failure
+is public, not proof that the victims lack moral worth. As in 3:16, an institution associated
+with justice can fail to embody it. The unit's subsequent examples of lost and enjoyed
+wealth do not label every poor person wicked or every wealthy person righteous.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; righteousness violated by oppression, not disproved by poverty.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; The righteous and wicked remain distinguishable before judgment.
 

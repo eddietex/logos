@@ -75,7 +75,14 @@ your words be few because God is in heaven (2), pay what you vow (4–5), and do
 unpaid vow as a mistake (6). He ends with *"you must fear God"* (7). The observer of the earlier
 chapters becomes a teacher here.
 
+In [[The Lover of Silver and the Gift of Enjoyment]] he observes harmful wealth and loss,
+asks what profit remains at life's empty-handed end, and nevertheless finds eating,
+drinking, and enjoying labor good and proper (5:8–20). The gift of enjoyment belongs beside
+his account of oppression and distress, not in place of it. Source: stored WEB 5:8–20.
+
 ## Timeline / key events
+
+- Ecclesiastes 5:8–20 — [[The Lover of Silver and the Gift of Enjoyment]]; wealth tested and enjoyment received.
 
 - Ecclesiastes 5:1–7 — [[Let Your Words Be Few]]; first direct instruction: few words, paid vows, and the fear of God.
 
@@ -102,6 +109,8 @@ chapters becomes a teacher here.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; observer of wealth and its limits.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; teacher of conduct in God's house.
 
@@ -151,4 +160,4 @@ chapters becomes a teacher here.
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–4:12; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–5:20; Proverbs 1:1–7.

@@ -94,7 +94,20 @@ must fear God"*, which is not called vanity.
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+The explicit vanity verdict attaches to the lover of silver who is not satisfied (10).
+Verses 15–16 ask again about profit when nothing can be carried from life, describing labor
+for the wind. Yet 18–20 end with enjoyment rather than a fresh vanity refrain. The change
+of emphasis does not revoke the earlier judgment: receiving good in given days and failing
+to retain labor's product can both be true.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; unsatisfied love of silver and labor for the wind beside a present portion.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:7; Vanities in many dreams and many words, against the fear of God.
 

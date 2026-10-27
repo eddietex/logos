@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
+
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.
@@ -19,7 +21,7 @@ tags: [connection]
 - [[A Way That Seems Right]] — Proverbs 14:13.
 - [[The King's Heart]] — Proverbs 21:17.
 - [[Wine Is a Mocker]] — Proverbs 20:1.
-- Ecclesiastes 5:18–19; 7:4; 8:15 *(not yet ingested)*.
+- Ecclesiastes 7:4; 8:15 *(not yet ingested)*.
 
 ## Analysis
 
@@ -94,6 +96,17 @@ the one who has never seen evil to the living. Enjoyment commended and oppressio
 are both claims of this speaker. The text does not offer a formula dissolving the tension,
 and receiving enjoyment cannot be made a reason to ignore the victims. Source: stored WEB
 Ecclesiastes 3:22–4:3.
+
+### The power to enjoy wealth — Ecclesiastes 5:18–20
+
+[[The Lover of Silver and the Gift of Enjoyment]] adds a distinction within divine giving: God
+has given riches and wealth and has also given power to eat of it and rejoice in labor
+(19). Joy occupies the recipient's heart during given days (18, 20). The unit has already
+pictured harmful wealth and eating in darkness (13–17), so the affirmation does not
+describe every wealthy person's experience. The still-uningested 6:2, checked in stored
+WEB, will expressly describe wealth from God without power to enjoy it. The gift reading
+of enjoyment is strengthened, while the tension with suffering and unsatisfied desire
+remains. Source: stored WEB Ecclesiastes 5:8–20; 6:1–2.
 
 ## Significance
 

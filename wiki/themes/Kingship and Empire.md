@@ -259,7 +259,20 @@ throne. See [[The Youth and the Old King]] and
 [[Out of Prison to Reign - Joseph and Ecclesiastes 4.13-14]]. Source: stored WEB Ecclesiastes
 4:13–16; Genesis 41:39–43.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Officials stand above other officials (8), and the king profits from the field (9).
+The king is unnamed, not an identified historical ruler or certainly the Preacher himself.
+The WEB establishes royal participation in agricultural profit, but does not settle whether
+the hierarchy protects subjects or perpetuates extraction. No successful correction of
+oppression is narrated. These lines keep royal power within the material economy.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; officials above officials and a king profiting from the field.
 
 - [[The Youth and the Old King]] — Ecclesiastes 4:13–16; Accession from prison and a reign outlived by later generations.
 

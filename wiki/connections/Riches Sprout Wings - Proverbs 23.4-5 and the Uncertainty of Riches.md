@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
+
 - **Proverbs 23:4–5** — [[Thirty Excellent Things]]: *"Don't weary yourself to be rich. In your
   wisdom, show restraint. Why do you set your eyes on that which is not? For it certainly sprouts
   wings like an eagle and flies in the sky."*
@@ -18,7 +20,7 @@ tags: [connection]
   womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away."*
 - **Job 27:16–19** — [[I Will Not Put Away My Integrity]]: *"Though he heap up silver as the dust … He lies down
   rich, but he shall not do so again. He opens his eyes, and he is not."*
-- **Ecclesiastes 5:13–15** *(not yet ingested)* — *"wealth kept by its owner to his harm. Those riches
+- **Ecclesiastes 5:13–15** — [[The Lover of Silver and the Gift of Enjoyment]] — *"wealth kept by its owner to his harm. Those riches
   perish by misfortune … As he came out of his mother's womb, naked shall he go again"*.
 - **Matthew 6:19–21** *(not yet ingested)* — *"Don't lay up treasures for yourselves on the earth, where
   moth and rust consume, and where thieves break through and steal … for where your treasure is, there
@@ -54,7 +56,10 @@ the misuse of the observation the wiki tracks under [[Retribution]].
 
 Sources: Proverbs 11:4, 28; 22:4; 23:4–5; 27:24; Job 1:21; 27:16–19 copied from stored WEB. Matthew
 6:19–21; 1 Timothy 6:9–10, 17; Ecclesiastes 5:13–15 verified at bible-api.com with `translation=web` on
-2026-10-26; none of those books is in `raw/`. No source-language claim is made.
+2026-10-26. Ecclesiastes is now stored in `raw/`; its 5:8–20 text was rechecked there on
+2026-10-27. Matthew 6:19–21 and 1 Timothy 6:9–10, 17 were independently retrieved again
+from bible-api.com WEB on that date; those books remain unstored. No source-language
+claim is made for these comparisons.
 
 ### Proverbs 27:23–27 — the flock instead of the store
 
@@ -67,6 +72,16 @@ of 23:5 takes away the store; the poem points to the flock. The chapter's first 
 same uncertainty about time; see
 [[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] and
 [[Do Not Boast About Tomorrow]]. Hebrew from Sefaria's *Miqra according to the Masorah*, 2026-10-26.
+
+### Harmful wealth and enjoyed wealth — Ecclesiastes 5:8–20
+
+[[The Lover of Silver and the Gift of Enjoyment]] now supplies the context around the earlier
+cross-reference. The loss in 5:14 is attributed to misfortune, not to a named crime or
+divine punishment. Nothing is carried away at death (15–16), but 18–20 describe wealth
+and its enjoyment as gifts of God. Uncertainty therefore qualifies reliance on riches;
+it does not require treating all possessions or their enjoyment as evil. As with Job's
+loss beside the wicked man's loss in Job 27, the outcome alone does not disclose guilt.
+Source: stored WEB Ecclesiastes 5:8–20; Job 1:1, 21; 27:13, 16–19.
 
 ## Significance
 

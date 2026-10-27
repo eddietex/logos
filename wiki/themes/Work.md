@@ -474,7 +474,20 @@ for their labor"* (9). See [[Folding the Hands - Proverbs 6.10, 24.33, and Eccle
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+The laboring man's sleep is sweet with little or much food (12), unlike the rich person's
+sleepless abundance. Labor cannot be carried out of life in one's hand (15–16), but can
+still be enjoyed as one's portion (18–19). This keeps practical good beside the question
+of lasting profit. Compare the heart without nighttime rest in 2:23 and the gift in 2:24;
+see [[Sweet Sleep - Proverbs 3.24 and Ecclesiastes 5.12]]. Neither work nor its enjoyment is simply erased by mortality.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; sweet sleep and enjoyment in work despite empty-handed departure.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:4–12; Labor driven by envy, refused by the fool, multiplied by the man alone, and rewarded when shared.
 

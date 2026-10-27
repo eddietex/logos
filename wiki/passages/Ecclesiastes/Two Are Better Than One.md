@@ -79,6 +79,9 @@ None named. *Under the sun* (7) gives the scope of the observation, not a locati
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:10 names love of silver that silver cannot satisfy, extending 4:8's
+  unsatisfied wealth; 5:19 permits enjoyment as a gift without securing lasting possession.
+
 - [[The Youth and the Old King]] — Ecclesiastes 4:13–16; the next unit, where a youth has all the living
   with him and is still not secured by them.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; the observer turns from those without a

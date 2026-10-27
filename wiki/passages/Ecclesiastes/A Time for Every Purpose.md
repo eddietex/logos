@@ -96,6 +96,9 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:18–20 develops 3:13's gift of enjoyment by explicitly distinguishing
+  given wealth from given power to eat of it; neither passage makes accumulation permanent.
+
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 describes uncomforted tears and a preference for the
   dead, held in tension with the gift of enjoyment in 3:12–13.
 

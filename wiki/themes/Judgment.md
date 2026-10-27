@@ -446,7 +446,20 @@ without converting silence about God in these verses into a denial of his judgme
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Justice and righteousness are violently taken away in a district (8). Higher officials
+watch lower ones, but the WEB does not describe a just verdict being restored. The claim
+that God judges righteous and wicked in 3:17 remains beside this observed failure. God is
+explicitly named as giver of enjoyment in 5:18–20, not explicitly identified as the highest
+official in 5:8. Administrative supervision must not be treated as fulfilled justice.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; justice violently taken away without narrated redress.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Affirmed judgment in 3:17 beside oppression left uncorrected in 4:1.
 

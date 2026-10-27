@@ -7,77 +7,64 @@ tags: [connection]
 
 ## Passages involved
 
-- **Job 1:21** — *"Naked I came out of my mother's womb, and naked shall I return there. Yahweh
-  gave, and Yahweh has taken away. Blessed be Yahweh's name."* —
-  [[The Wager in Heaven and the Four Messengers]]
-- **Ecclesiastes 5:15** — *"As he came out of his mother's womb, naked shall he go again as he came,
-  and shall take nothing for his labor, which he may carry away in his hand."*
-- **Psalm 49:16–17** — *"Don't be afraid when a man is made rich… For when he dies he will carry
-  nothing away. His glory won't descend after him."*
-- **1 Timothy 6:7** — *"For we brought nothing into the world, and we certainly can't carry anything
-  out."*
-- **Job 3:11–13** — Job on the womb again, four verses of poetry later, wishing he had never left it
-- **Genesis 3:19** — *"you are dust, and to dust you shall return"* — [[The Fall]]
-- **Luke 12:16–21** — the rich fool: *"the things which you have prepared — whose will they be?"*
+- [[The Wager in Heaven and the Four Messengers]] — Job 1:20–22, especially 21.
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:13–20, especially 15–16.
+- Psalm 49:16–17 — the rich person cannot carry wealth into death.
+- 1 Timothy 6:6–10, 17–19 — contentment, empty-handed birth and departure, and generous use
+  of God's provision.
+- Luke 12:16–21 — a rich man's planned enjoyment confronted by the end of his life.
 
 ## Analysis
 
-Four texts say the same arithmetic — **nothing in, nothing out** — and each puts it to a different
-use. Reading them together is mostly a study in how far apart a shared premise can carry people.
+The comparison turns on the limit of ownership at life's boundaries. Job 1:21 says,
+*“Naked I came out of my mother’s womb, and naked shall I return there.”* Ecclesiastes
+5:15 likewise describes a naked departure and nothing of one's labor carried away in the
+hand. Psalm 49:17 denies that the rich person takes anything down with him; 1 Timothy 6:7
+sets bringing nothing into the world beside carrying nothing out. These are related images
+and arguments; they do not by themselves establish direct literary borrowing.
 
-**Job says it in the ruins, about God.** The sentence is spoken by a man who has just lost eleven
-thousand animals, an unnumbered household, and ten children in a single afternoon, and it is the
-first poetry in the book. Its structure is a chiasm of symmetry: naked / came / returned / naked,
-then *Yahweh gave, and Yahweh has taken away*. **The point is not that possessions are worthless.**
-Job never says that, and the book does not think it — the epilogue gives them back and counts them
-carefully. The point is about **tenure**: what arrived after birth was never held on the terms Job
-had assumed, and the one who is removing it is the one who supplied it. Everything in the line
-depends on the subject of both verbs being the same, which is why Job names neither the Sabeans nor
-the Chaldeans who actually took two thirds of it.
+**Job blesses after actual loss.** Job's response comes after the messengers' reports,
+with mourning and worship (1:20). He attributes giving and taking to Yahweh and blesses
+his name (21); the narrator says he did not sin or charge God with wrongdoing (22).
+Loss does not make property unreal or prove that its former owner was wicked: the
+narrator has called him blameless and upright (1:1). His later protests remain part of
+the book, so this first response cannot stand for everything he will say about suffering.
 
-**Ecclesiastes says it about labour, and it is a complaint.** *"This also is a grievous evil, that
-in all points as he came, so shall he go"* (5:16). Qoheleth reaches the identical observation and
-draws bitterness from it: if you cannot carry it out, the working was *hebel*. **Job and Qoheleth
-have the same data and opposite tones**, and the difference is the last clause of Job 1:21. Strip
-*"Blessed be Yahweh's name"* off the end and what remains is pure Ecclesiastes.
+**Ecclesiastes laments and also receives.** Wealth is kept to harm, vanishes through
+misfortune, and leaves empty hands (5:13–15). Verse 16 calls the departure grievous and
+asks about profit; verse 17 describes distress. But the pericope continues: enjoyment of
+labor is a portion within God's given days (18), and both wealth and the power to enjoy
+it are God's gift (19–20). The earlier version of this connection contrasted Job's
+blessing with Ecclesiastes' complaint too absolutely. That contrast fits 5:15–16, but
+5:18–20 prevent it from describing the whole unit. Both lament and gift must remain.
 
-**The Psalm says it about other people's wealth, as reassurance.** Psalm 49's setting is envy — *"Don't
-be afraid when a man is made rich"* — and the emptiness of the grave is offered as a reason not to
-be intimidated by the prosperous. **It is the same fact deployed as social consolation rather than
-as personal loss.**
+**Psalm 49 addresses the observer of wealth.** The command not to fear another person's
+increased wealth (16) is grounded in what that person cannot carry away (17). The same
+limit offers reassurance rather than an explanation of why a particular owner lost money.
 
-**1 Timothy says it about appetite, as an argument for contentment.** *"But godliness with
-contentment is great gain. For we brought nothing into the world… But having food and clothing, we
-will be content with these"* (6:6–8). Paul, or the writer, is working toward 6:10's love of money as
-a root of evil, and the empty-handed premise becomes a piece of practical ethics. **It is the only
-one of the four that turns the observation into an instruction.**
+**1 Timothy turns the premise toward contentment and sharing.** Godliness with contentment
+is called great gain (6:6); bringing and taking nothing supports contentment with food and
+clothing (7–8). The desire to be rich is warned against (9–10). Later, those who are already
+rich are instructed to hope in God rather than uncertain riches (17), enjoy his provision,
+and be generous (18). Verse 19 adds a future horizon of eternal life, which Ecclesiastes
+5:18–20 does not explicitly supply. Contentment and enjoyment converge, but the instructions
+are not identical.
 
-**The odd feature Job 1:21 has and the others do not: it is the answer to a question the speaker has
-not heard.** The accuser's claim at 1:9–11 was that Job's fear of God was purchased by 1:3's
-inventory. Job's reply concedes the inventory's existence, denies that it was ever his in the sense
-required, and blesses the name of the one who removed it — **and he does not know he is replying.**
-See [[The Fear of God]] and [[Testing]].
+**Luke's rich man assumes possession secures time.** He plans larger barns and enjoyment
+for many years, only to be told his life is required that night (12:16–20). The narrative
+ends by contrasting treasure for oneself with being rich toward God (21). The problem
+cannot simply be eating and drinking: Ecclesiastes commends those within life received
+from God. Luke's parable exposes the owner's presumed control over his future.
 
-**And the verb in the last clause is the wager's own verb.** *Bārak.* At 1:5 Job feared his children
-had *bārak*-ed God in their hearts; at 1:11 the accuser predicted Job would *bārak* God to his face;
-both are the euphemism that means the opposite. At 1:21 Job says *bārak* about Yahweh in its plain
-sense. **The prediction is fulfilled to the letter and inverted in meaning by the same word**, which
-is the sharpest thing in the prologue. See [[Job of Uz]] for the euphemism.
+Sources: immutable stored WEB Job 1:1, 20–22; Ecclesiastes 5:13–20. Psalm 49:16–17,
+Luke 12:16–21, and 1 Timothy 6:6–10, 17–19 independently retrieved in the WEB from
+bible-api.com with `translation=web` on 2026-10-27; these books were not added to raw.
+External comparisons above are paraphrases. No Hebrew or Greek wording is asserted.
 
 ## Significance
 
-**"Naked shall I return there" is the wiki's standing cross-reference for the Bible's view of
-ownership at the boundaries of a life**, and its readings are collected at
-[[The Wager in Heaven and the Four Messengers]]: the earth as the mother returned to (Psalm 139:15's
-*"the depths of the earth"* for the womb), Sheol, or a loose *thither*. Genesis 3:19's *"to dust you
-shall return"* stands behind all three, and the Job line is its nearest poetic restatement outside
-the Torah.
-
-For the book of Job the verse does something the later chapters make more remarkable, not less.
-**Job says this, and then says the opposite for twenty-eight chapters** — that God has hunted him,
-walled his road, plucked up his hope, and will not grant him a hearing. Devotional use of 1:21 as
-the book's moral has to reckon with the fact that the man who says it goes on to chapter 3, and that
-God commends him at 42:7 for what he said **after** this verse rather than for this verse. The
-wiki's reading is that 1:21 is true and is not the whole truth, and that the book's structure —
-prose frame, poetic protest, divine answer, prose restoration — exists precisely so that a reader
-cannot take one of them as the answer without the others. See [[Job (person)]] and [[Suffering]].
+[[Nakedness and Covering]] here concerns possession rather than sexual shame. The shared
+limit on [[Wealth and Possessions]] can lead to worship, lament, reassurance, contentment,
+or generosity. Ecclesiastes now contributes both [[Suffering]] and [[Joy and Enjoyment]],
+not a single negative verdict. [[Life and Death]] places an unavoidable boundary around
+ownership without settling every text's account of what follows death.

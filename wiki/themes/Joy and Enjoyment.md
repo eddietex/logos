@@ -44,7 +44,7 @@ See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
 ### Ahead in Ecclesiastes
 
-Not yet ingested, recorded from stored WEB: 5:18–19 calls enjoyment one's portion; 6:2 describes a man given wealth but not the power to eat of it; 7:4 puts the heart
+Not yet ingested, recorded from stored WEB: 6:2 describes a man given wealth but not the power to eat of it; 7:4 puts the heart
 of fools in the house of mirth; 8:15 says *"Then I commended mirth"*; 9:7 says *"eat your bread with
 joy."* These pull in more than one direction and will be kept side by side as they are ingested.
 
@@ -89,7 +89,21 @@ name a good among the living — companionship — without using the language of
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Eating, drinking, and enjoying labor during God's given days are good and proper (18).
+Verse 19 distinguishes the wealth God gives from the power he gives to eat of it and rejoice.
+Joy occupies the heart rather than frequent reflection on life's days (20). **Tension:**
+these affirmations do not cancel harmful wealth (13–17), oppression (8), or 4:1–3's
+uncomforted victims. The still-uningested 6:2, checked in raw, presents wealth given by God
+without enjoyment. Joy here is a gift described, not an experience guaranteed to everyone.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; enjoyment and the power to receive it are gifts of God.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:8; The solitary laborer deprives his soul of enjoyment.
 

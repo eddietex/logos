@@ -472,7 +472,20 @@ not yet ingested). The stillborn comparison in 6:3–5 is distinct from 4:3's wo
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+A person arrives naked from the womb and departs with nothing of his labor in hand (15).
+The symmetry is a limit on possession rather than a description of the afterlife. Verse 16
+laments it, while 18–20 affirm enjoyment during the days God gives. Mortality and a good
+within life remain together. See
+[[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]].
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; nothing carried from life, yet enjoyment within the days God gives.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; The dead and never-existent preferred in response to oppression.
 

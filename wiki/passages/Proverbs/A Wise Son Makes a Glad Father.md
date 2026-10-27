@@ -144,6 +144,10 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:13–19 keeps harmful wealth and distress beside wealth enjoyed as
+  God's gift. **Tension with Proverbs 10:22:** blessing without added trouble must not become
+  a rule that every wealthy person enjoys life or every sufferer acquired wealth wrongly.
+
 - [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] —
   Proverbs 10:7’s blessed memory remains beside Ecclesiastes 1:11’s forgetting. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

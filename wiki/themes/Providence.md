@@ -273,7 +273,20 @@ every particular injustice has been permitted.
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+God gives life's days (18), wealth, and power to eat of it and rejoice (19), and occupies
+the heart with joy (20). This is an explicit attribution of enjoyment, not an explanation
+of how the misfortune of verse 14 was caused. **Tension:** 6:2, checked in stored WEB but
+not yet ingested, describes God giving wealth without the power to enjoy it. Possession
+alone therefore cannot be treated as evidence of a uniformly enjoyed gift.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; life, wealth, and the ability to enjoy it attributed to God.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; A time for judgment beside observed injustice.
 

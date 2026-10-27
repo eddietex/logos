@@ -545,7 +545,22 @@ wealth is real; what is missing is satisfaction and anyone to receive it. See
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+Silver does not satisfy its lover (10), increasing goods bring more consumers (11), and
+abundance can prevent sleep (12). Wealth kept to the owner's harm can disappear by
+misfortune (13–14), while death leaves every worker empty-handed (15–16). Yet wealth and
+power to enjoy it can both be God's gift (19). **Tension:** Proverbs 10:22 associates divine
+blessing with wealth without trouble; this unit records harmful wealth and genuine enjoyment
+without explaining every case by its owner's righteousness. The still-uningested 6:2,
+checked in stored WEB, attributes wealth to God even where enjoyment is withheld.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; dissatisfaction, harmful wealth, and the distinct gift of enjoying it.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:6–8; Two handfuls with labor, and wealth that neither satisfies nor has an heir.
 

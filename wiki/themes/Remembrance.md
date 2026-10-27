@@ -265,7 +265,20 @@ alternative recorded on the passage page), the verse runs from earlier to later 
 does. Compare 9:15's poor wise man, whom no one remembered. See [[The Youth and the Old King]]. Source: stored WEB
 Ecclesiastes 1:11; 4:16; 9:15.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+In the WEB, the recipient of joy will not often reflect on the days of his life, because
+God occupies his heart with joy (20). This differs from 1:11 and 2:16, where later people
+fail to remember their predecessors. Here less reflection belongs to the experience of
+present enjoyment; it is not a promise of an enduring public name or a command to forget
+one's obligations. This comparison concerns the WEB's sense, not verified Hebrew vocabulary.
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; joy reduces reflection on life’s days, distinct from later generations forgetting.
 
 - [[The Youth and the Old King]] — Ecclesiastes 4:16; Later generations will not rejoice in the successor.
 

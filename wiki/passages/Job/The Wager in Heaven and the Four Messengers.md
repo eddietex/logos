@@ -244,6 +244,9 @@ quietly making room for chapter 3.
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:15–16 echoes the naked arrival and departure of Job 1:21 with lament,
+  while 5:18–20 also recognizes God's gift of enjoyment; the response is not only complaint.
+
 - [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] — Proverbs 20:7 cannot guarantee the survival of righteous offspring alongside Job 1:18–19.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:23 promises safety to the God-fearing,

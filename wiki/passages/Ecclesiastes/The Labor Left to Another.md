@@ -84,6 +84,10 @@ geographical location.
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:12 contrasts sweet laborer's sleep with sleepless abundance, while
+  5:18–20 returns to enjoyment from God. Keep this beside 2:23's restless worker; see
+  [[Sweet Sleep - Proverbs 3.24 and Ecclesiastes 5.12]].
+
 - [[Two Are Better Than One]] — Ecclesiastes 4:8; the man who has neither son nor brother asks for
   whom he labors, the sharper case of 2:18–21's unknown successor.
 

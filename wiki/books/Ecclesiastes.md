@@ -75,12 +75,17 @@ before God should be few, because God is in heaven; a vow is to be paid without 
 excused as a mistake. Many dreams and many words are vanities, *"but you must fear God"* (7) —
 the fear that 3:14 named and 12:13 will make the conclusion.
 
+[[The Lover of Silver and the Gift of Enjoyment]] (5:8–20) returns to oppression and follows
+wealth through dissatisfaction, lost sleep, misfortune, and empty-handed departure. Yet
+life's days, wealth, and the power to enjoy it are gifts of God (18–20). Possession and
+enjoyment are distinguished without explaining away the injustice of the opening.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–5:7 currently has ingested passage pages.
+only 1:1–5:20 currently has ingested passage pages.
 
 ## Structure
 
@@ -110,7 +115,7 @@ merge, or reorder them freely.
 - [x] [[Two Are Better Than One]] — Ecclesiastes 4:4–12
 - [x] [[The Youth and the Old King]] — Ecclesiastes 4:13–16
 - [x] [[Let Your Words Be Few]] — Ecclesiastes 5:1–7
-- [ ] The Lover of Silver and the Gift of Enjoyment — Ecclesiastes 5:8–20
+- [x] [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20
 - [ ] Riches Without Enjoyment — Ecclesiastes 6:1–9
 - [ ] Who Knows What Is Good — Ecclesiastes 6:10–12
 - [ ] The House of Mourning — Ecclesiastes 7:1–14
@@ -125,6 +130,9 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Wealth and Possessions]], [[Joy and Enjoyment]], and [[Nakedness and Covering]] — harmful
+  wealth and empty-handed departure beside enjoyment as God's gift (5:8–20).
 
 - [[The Fear of God]], [[Oaths and Vows]], and [[Language and Speech]] — few words before God,
   paid vows, and the book's first command to fear God (5:1–7).
@@ -156,7 +164,7 @@ merge, or reorder them freely.
 ## Key people
 
 - [[God]] — giver of burden and enjoyment; his work endures (3:10–15); in heaven, owed paid vows,
-  and to be feared (5:1–7).
+  and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20).
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

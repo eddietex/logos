@@ -233,6 +233,9 @@ whose face one knows.
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:10–11 makes the unsatisfied eye an explicit lover of silver; 5:14–16
+  adds lost wealth and empty-handed departure. Compare Proverbs 27:20, 24.
+
 - [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] —
   Ecclesiastes 1:8 is now ingested within its poem of recurring nature and unsatisfied senses. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

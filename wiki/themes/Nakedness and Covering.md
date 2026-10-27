@@ -125,7 +125,20 @@ proof of direct borrowing.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Wealth and enjoyment — Ecclesiastes 5:8–20
+
+The naked departure that matches birth (15) concerns the absence of possessions, not
+sexual shame or an episode of exposure. Job 1:21 uses the same birth-and-return image in
+the WEB, blessing Yahweh after loss; Ecclesiastes calls the condition grievous (16), then
+also attributes enjoyment to God (18–20). No shared Hebrew wording is asserted here. See
+[[Naked I Came - Job 1.21 and the Empty Hands of Ecclesiastes and Paul]].
+
+See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
+comparisons as identified on the passage page.
+
 ## Key passages
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; naked arrival and departure mark the limits of ownership.
 
 - [[The Worthy Woman]] — Proverbs 31:21–22, 25; Literal textiles become the image for strength and dignity.
 

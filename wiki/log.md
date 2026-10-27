@@ -17967,3 +17967,58 @@ read in Mechon-Mamre's Masoretic text of Ecclesiastes 4–5 on 2026-10-27; the *
 and 3:10 is qualified on the passage page as not rechecked in Hebrew. No raw text changed.
 `scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected 61 unstarted-book
 baseline.
+
+## [2026-10-27] ingest | Ecclesiastes 5.8-20 — The Lover of Silver and the Gift of Enjoyment
+
+Unattended `/ingest auto` by Codex; exactly one pericope. Retained the planned 5:8–20
+boundary: public oppression and agricultural profit lead into private wealth, its harms,
+and enjoyment as God's gift. Ecclesiastes 6:1–9 remains the next unchecked unit. Its 6:2
+contrast was checked in stored WEB for context, not ingested early.
+
+**Interpretive decisions.** [[The Lover of Silver and the Gift of Enjoyment]] distinguishes
+wealth from power to enjoy it, preserves the tension between enjoyment and oppression, and
+keeps Proverbs 10:22's blessing without added trouble beside harmful wealth in 5:13–17.
+The officials of 5:8 are not identified with God or treated as demonstrated redress; the
+king's field profit in 5:9 is not assigned a historical administration. The owner, son,
+mother, worker, officials, and king remain representative figures, with no new person or
+place pages. Verse 14's misfortune is not specified as a bad investment or punishment, and
+the hand's owner is left uncertain. Verse 20 concerns reflection on one's own days, not
+lasting remembrance by successors. No source-language claim was added.
+
+**Created (2 content pages):** [[The Lover of Silver and the Gift of Enjoyment]];
+[[Sweet Sleep - Proverbs 3.24 and Ecclesiastes 5.12]].
+
+**Revised (31 content pages):** the Ecclesiastes book page; God and The Preacher
+(Ecclesiastes); fourteen themes (Wealth and Possessions, Work, Joy and Enjoyment, Vanity,
+The Poor and the Vulnerable, Kingship and Empire, Judgment, Righteousness, Life and Death,
+Nakedness and Covering, Suffering, Light and Darkness, Providence, Remembrance); five
+connections (Naked I Came, Riches Sprout Wings, Never Satisfied, Power with the Oppressors,
+Mirth and Its Verdict); nine reciprocal passages (The Wager in Heaven and the Four
+Messengers, Thirty Excellent Things, Do Not Boast About Tomorrow, Do Not Withhold Good,
+The Labor Left to Another, A Time for Every Purpose, The Tears of the Oppressed, Two Are
+Better Than One, A Wise Son Makes a Glad Father).
+
+The Naked I Came connection was rewritten around the verified texts: its earlier absolute
+contrast between Job's blessing and Ecclesiastes' complaint omitted 5:18–20's gift. The
+revision explicitly identifies that limitation, preserves the complaint, and includes the
+positive conclusion. Its external comparisons are now paraphrases verified in this pass,
+and its former unsourced lexical discussion is not carried forward. Other connections
+retain their prior source records while marking this pericope ingested and adding its
+contribution. No new theme was needed.
+
+**Indexes and totals.** Revised seven indexes: books (12 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, Connections I-N and O-S. The new sleep connection files under S.
+Counts by frontmatter type: 199 passages, 187 people, 91 places, 85 themes, 497 connections.
+Including this log, 39 existing wiki files were revised and 2 created.
+
+**Sources and validation.** All thirteen primary verses match immutable stored WEB
+Ecclesiastes 5:8–20 exactly, checked mechanically. Comparisons were read in stored WEB
+Ecclesiastes 1:3, 8, 11; 2:18–26; 3:13, 16–17, 22; 4:1–3, 8; 6:1–2; Proverbs 3:21–26;
+10:22; 11:4, 28; 13:22; 23:4–5; 27:20, 23–24; 30:15–16; Job 1:1, 20–22; 24:1–12;
+27:13, 16–19. External WEB comparisons independently retrieved from bible-api.com with
+`translation=web` on 2026-10-27: Psalm 49:16–17; Matthew 6:19–21; Luke 12:16–21;
+1 Timothy 6:6–10, 17–19. No raw file was changed or added. Affected entity and connection
+pages each have exactly one category row linking the new passage; frontmatter counts and
+the single newly checked queue item were verified. `scripts/link-check.sh` passed with no
+wrapped or dangling links beyond the expected 61 unstarted-book baseline; `git diff --check`
+passed. No unresolved implementation issue or deliberately dangling target remains.

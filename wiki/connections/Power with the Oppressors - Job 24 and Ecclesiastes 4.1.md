@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
+
 - [[Oh That I Knew Where I Might Find Him]] — Job 24:1–12.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3.
 - [[From Dust to Dust]] — Ecclesiastes 3:16–17.
@@ -31,6 +33,18 @@ passage provides a schedule that resolves the discrepancy. The comparison establ
 neither literary dependence nor a shared Hebrew expression.
 
 Sources: immutable stored WEB Job 24:1–12; Ecclesiastes 3:16–17; 4:1–3.
+
+### Officials above officials — Ecclesiastes 5:8–9
+
+[[The Lover of Silver and the Gift of Enjoyment]] returns to oppression, now explicitly of the
+poor, and to justice and righteousness violently taken away. Official supervision is
+layered: one official is eyed by a higher one, with further officials above them (8).
+The WEB does not say that this arrangement has restored justice. It can be read as
+part of the explanation of entrenched oppression; an assurance of effective redress
+would go beyond what is narrated. Verse 9 connects even the king to the field's profit.
+No dynasty or administrative period is identified. As in Job 24 and Ecclesiastes 4:1,
+recognizing a system does not justify the harm it contains. Source: stored WEB
+Ecclesiastes 3:16–17; 4:1–3; 5:8–9; Job 24:1–12.
 
 ## Significance
 

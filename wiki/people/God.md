@@ -2299,6 +2299,13 @@ at an unpaid vow can destroy the work of the speaker's hands (6). The unit ends 
 first command to the reader: *"you must fear God"* (7). These are the Preacher's instructions
 about God, not a divine speech. Source: stored WEB Ecclesiastes 5:1–7.
 
+In [[The Lover of Silver and the Gift of Enjoyment]] God gives life's days (5:18), riches
+and wealth, and also power to eat of them and rejoice in labor (19). He occupies the heart
+with joy (20). These are the Preacher's affirmations, not divine speech. The higher officials
+in 5:8 are not explicitly identified with him. **Tension:** enjoyment given here stands
+beside the oppression described in the same unit; 6:2 will describe God giving wealth but
+not enjoyment (checked in stored WEB, not yet ingested). Source: stored WEB 5:8–20; 6:1–2.
+
 ## Timeline / key events
 
 - Ecclesiastes 5:1–7 — [[Let Your Words Be Few]]; in heaven, owed paid vows, and to be feared.
@@ -2580,6 +2587,8 @@ about God, not a divine speech. Source: stored WEB Ecclesiastes 5:1–7.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:18–20; giver of life, wealth, and enjoyment.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; God's house, God in heaven, the vow, and the fear of God.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
+
 - **Proverbs 27:20** — *"Sheol and Abaddon are never satisfied; and a man's eyes are never
   satisfied."* — [[Do Not Boast About Tomorrow]]
 - **Proverbs 27:7** — *"A full soul loathes a honeycomb; but to a hungry soul, every bitter thing is
@@ -78,6 +80,16 @@ fill (Mechon-Mamre's Masoretic text, Ecclesiastes 4, read 2026-10-27; its conson
 *his eyes*, read as *his eye*, and the WEB follows the plural). Unlike 1:8, this is an acquisitive
 case, and it is diagnosed by a question the man asks too late — *"For whom then, do I labor?"* — not
 by comparison with Sheol. Source: stored WEB Ecclesiastes 1:8; 4:8; Proverbs 27:20.
+
+### The lover of silver — Ecclesiastes 5:10–11
+
+[[The Lover of Silver and the Gift of Enjoyment]] makes the acquisitive case explicit: the lover
+of silver is not satisfied with silver (10). Increased goods draw increased consumers,
+and the owner is left to look at them (11). This extends 4:8's unsatisfied eyes but does
+not make every act of seeing a moral fault. The same unit allows enjoyment of wealth
+as God's gift (19), so the target is not possession alone. This comparison is drawn from
+the stored WEB of Ecclesiastes 1:8; 4:8; 5:10–11, 19 and Proverbs 27:20. The Hebrew of
+Ecclesiastes 5 was not checked; no shared source-language verb is claimed for this addition.
 
 ## Significance
 

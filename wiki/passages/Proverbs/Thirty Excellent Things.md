@@ -197,6 +197,9 @@ discretion there, not presence.
 
 ## Cross-references
 
+- [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:13–19 gives a case of wealth lost by misfortune, then commends enjoyed
+  wealth as God's gift; compare Proverbs 23:4–5's warning against exhausting oneself for riches.
+
 - [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] — Proverbs 23:1–3, 6–8.
 - [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]] — Proverbs 23:4–5.
 - [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]] — Proverbs 22:22–23, 28; 23:10–11.
