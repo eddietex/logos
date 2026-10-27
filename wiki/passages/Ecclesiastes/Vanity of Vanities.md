@@ -100,6 +100,8 @@ river, sea, or travel itinerary is supplied.
 - [[The Earth Remains - Genesis and Ecclesiastes 1]] — compare
   [[The Creation of the World]], Genesis 1:1–2:3; [[The Waters Recede]], Genesis 8:22;
   [[The Fall]], Genesis 3:17–19; and [[Though He Slay Me]], Job 14:7–12.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:16 applies 1:11's forgetting to the wise man in particular; 2:12's
+  successor can only do *"that which has been done long ago"*, as 1:9 has it.
 
 ## Notes
 

@@ -598,7 +598,7 @@ claims more of it than all before him in Jerusalem (1:16), and studies it alongs
 folly (1:17). The conclusion is *"in much wisdom is much grief"* (1:18), which the development
 list above already cites; its wording is now verified against stored WEB. This stands in open
 tension with Proverbs 3:13, 17, where the finder of wisdom is happy and her paths are peace. Both
-claims are kept. Ecclesiastes 2:13, not yet ingested, still ranks wisdom above folly, so 1:18
+claims are kept. Ecclesiastes 2:13 ([[The Wise and the Fool Share One End]]) still ranks wisdom above folly, so 1:18
 states a cost, not a rejection. See [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
 
 See [[The Burden of Wisdom]]. Sources: stored WEB Ecclesiastes 1:12–18; 2:13; Proverbs 3:13–18.
@@ -610,7 +610,21 @@ The trial of pleasure is conducted *"my heart yet guiding me with wisdom"* (2:3)
 it, so the verdict of 2:11 is a wise man's verdict on pleasure, not a fool's. See
 [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:3, 9, 11.
 
+
+### Wisdom excels folly, and dies like it — Ecclesiastes 2:12–17
+
+*"Wisdom excels folly, as far as light excels darkness"* (2:13): the ranking held back as a pending
+reference under 1:18 above is now ingested, and it is unqualified. The same breath adds that *"one
+event happens to them all"* (2:14), and the Preacher asks of himself, *"why was I then more wise?"*
+(2:15). Wisdom keeps its advantage in sight and walk, and loses it in death and in memory (2:16). Both
+findings are kept; neither is made to cancel the other. See
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
+See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–16; Wisdom ranked above folly as light above darkness, yet sharing the fool's death and forgetting.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:3, 9; Wisdom guides the experiment with mirth and remains with the Preacher throughout.
 

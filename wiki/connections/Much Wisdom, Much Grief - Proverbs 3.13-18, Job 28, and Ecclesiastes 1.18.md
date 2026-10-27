@@ -11,6 +11,7 @@ tags: [connection]
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–18.
 - [[Where Shall Wisdom Be Found]] — Job 28:12, 20–21, 28.
 - [[The Words of Agur]] — Proverbs 30:2–3.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–16.
 
 ## Analysis
 
@@ -38,11 +39,14 @@ costs. These are three distinct ways of describing the limit, not one claim repe
 
 **Limits on the comparison.** Proverbs 3 also promises length of days, riches, and honor
 (3:16); Ecclesiastes 1:12–18 says nothing about those benefits either way, and its later units
-will test them separately. Ecclesiastes 2:13, not yet ingested, still says that wisdom excels
+will test them separately. Ecclesiastes 2:13, now ingested as
+[[The Wise and the Fool Share One End]], still says that wisdom excels
 folly as light excels darkness. So 1:18 records the cost of wisdom, not a judgment that it is
 worthless. One possible harmonization is that Proverbs speaks of the life wisdom directs and
 Ecclesiastes of the clarity it brings about a world that cannot be straightened (1:15). Neither
-text states that distinction; it is an interpretation.
+text states that distinction; it is an interpretation. The same unit that confirms the
+ranking also limits it: the wise man dies and is forgotten like the fool (2:14–16), so wisdom's
+advantage is real in seeing and walking, and not in outcome.
 
 Sources: all quotations checked in stored WEB Proverbs 3:13–18; 30:3; Job 28:12, 20–21, 28;
 Ecclesiastes 1:13, 16–18; 2:13, on 2026-10-27. This comparison makes no claim about shared

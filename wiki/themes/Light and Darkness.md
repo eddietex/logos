@@ -225,7 +225,20 @@ image of 13:9 repeated as the reason not to envy the wicked. See [[The Lamp of t
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+
+### Light that sees but does not save — Ecclesiastes 2:13–14
+
+*"Wisdom excels folly, as far as light excels darkness"* (2:13). The image ranks the two: the wise
+man sees, the fool *"walks in darkness"* (2:14). Proverbs 4:18–19 uses the same contrast for a path
+that brightens *"until the perfect day"*; Ecclesiastes keeps the contrast and denies the different
+destination, since one event happens to them all (2:14). See [[The Two Paths]] and
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
+See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–14; Wisdom over folly as light over darkness; the fool walks in darkness.
 
 - [[The King's Heart]] — Proverbs 21:4; Pride named the lamp of the wicked.
 

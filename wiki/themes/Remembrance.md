@@ -246,7 +246,20 @@ forgetting; the passage does not say that God forgets his commitments. See
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+
+### No memory of the wise — Ecclesiastes 2:16
+
+*"For of the wise man, even as of the fool, there is no memory for ever"* (2:16). Ecclesiastes 1:11
+denied memory to generations in general; 2:16 denies it to the wise in particular, so wisdom does
+not secure a name. **Tension:** this sharpens the conflict with Proverbs 10:7, where the memory of the
+righteous is blessed. The conflict is recorded on
+[[Profit and Remembrance - Proverbs and Ecclesiastes 1]] and not resolved.
+
+See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:16; No lasting memory of the wise man, any more than of the fool.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Human forgetting set beside Proverbs 10:7’s blessed memory.
 

@@ -17614,3 +17614,43 @@ row), O-S, and T-Z (two rows). Counts by frontmatter type: 190 passages, 187 peo
 6:2; 7:4; 8:15; 9:7; Genesis 2:8–9; Proverbs 14:13, 23; 20:1; 21:17. 1 Kings 3:13 is cited only
 through the WEB quotation already on the Wisdom of Solomon page. No book was fetched and no raw
 file changed. No Hebrew or Greek claim was introduced. `scripts/link-check.sh` clean.
+
+## [2026-10-27] ingest | Ecclesiastes 2.12-17 — The Wise and the Fool Share One End
+
+**Ingested [[The Wise and the Fool Share One End]] (2:12–17) in auto mode.** Ecclesiastes was the
+only `in-progress` book; this was the first unchecked box. The planned boundary held: 2:12 opens
+with *"I turned myself to consider"*, and 2:17 closes with the full verdict formula. 2:17 is a hinge
+into 2:18's *"I hated all my labor"*, but it stays here because its reason is the common end of
+2:14–16. The auto-mode discussion is in the passage summary and notes: the ranking of wisdom over
+folly (2:13) and the common end (2:14–16) kept side by side, light without a destination against
+Proverbs 4:18–19, the Preacher's question about himself (2:15), and *"So I hated life"* (2:17)
+recorded without being softened by later units.
+
+**Interpretive decisions.** No new person or place page: the wise man and the fool are types, and
+*"the king's successor"* (2:12) is unnamed. Solomon gets an attribution-comparison note only; the
+reference to Rehoboam is a paraphrase of 1 Kings 11:43, which is not stored. 2:12b's syntax is
+interpreted from the WEB wording only, with no claim about the Hebrew or other translations. A new
+connection, [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]], records death
+as the leveller in Job 21 and Ecclesiastes 2, and the explicit tension with Proverbs 4:18–19's
+different destinations. The Genesis 1:4 light/darkness echo is a labelled reader's comparison in the
+passage cross-references only. The tension between 2:16 and Proverbs 10:7 is added to the existing
+Profit and Remembrance connection, not resolved.
+
+**Created (2 content pages):** the passage and the connection above.
+
+**Revised (19 content pages):** the book page (box checked, overview extended, Light and Darkness
+added to key themes); [[The Preacher (Ecclesiastes)]], [[Solomon]]; eight themes (Wisdom, Folly,
+Light and Darkness, Life and Death, Remembrance, Vanity, Work, Kingship and Empire); two connections
+(Profit and Remembrance; Much Wisdom, Much Grief — its "2:13 not yet ingested" note now links the
+passage, as does Wisdom's); and six reciprocal passages (The Trial of Pleasure, The Burden of Wisdom,
+Vanity of Vanities, Why Do the Wicked Live, The Two Paths, A Wise Son Makes a Glad Father).
+
+**Indexes and totals.** Updated books index (4 / 24), main dashboard, themes index (eight rows),
+People N-Z (two rows), Connections I-N (one row), and O-S (one revised row plus the new row). Counts
+by frontmatter type: 191 passages, 187 people, 91 places, 85 themes, 487 connections.
+
+**Sources and validation.** Six quoted verses are copied verbatim from stored WEB Ecclesiastes
+2:12–17. Comparison quotations were checked in stored WEB Ecclesiastes 1:9–11, 17; 2:18, 24;
+3:19–20; 7:11–12; 9:2–5; Genesis 1:4; Job 21:23–26; Proverbs 4:18–19; 10:7. 1 Kings 11:43 is
+paraphrased, not quoted. No book was fetched and no raw file changed. No Hebrew or Greek claim was
+introduced. `scripts/link-check.sh` clean.

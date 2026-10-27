@@ -104,6 +104,8 @@ nation, consistent with Proverbs 1:1's *"king of Israel"*.
   from him, and again seeks to know wisdom, wickedness, folly, and madness (stored WEB).
 - Ecclesiastes 2:13 *(not yet ingested)* — wisdom excels folly as light excels darkness: the
   qualification that keeps 1:18 from being a rejection of wisdom.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12 turns back to *"wisdom, madness, and folly"*, the three objects of
+  1:17, and 2:13 ranks wisdom above folly, so 1:18's grief is a cost and not a rejection.
 
 ## Notes
 

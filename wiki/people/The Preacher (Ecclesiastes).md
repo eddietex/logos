@@ -30,6 +30,10 @@ increases more than all who were before him in Jerusalem (2:9). He withholds his
 and calls it his portion (2:10), and then judges all of it vanity with *"no profit under the sun"*
 (2:11).
 
+In [[The Wise and the Fool Share One End]] he turns back to wisdom, madness, and folly (2:12). He finds that wisdom excels folly as
+light excels darkness (2:13), and that one event happens to both (2:14). Applying it to himself —
+*"why was I then more wise?"* (2:15) — he reports that he hated life (2:17).
+
 ## Timeline / key events
 
 - Ecclesiastes 1:1–11 — introduced by royal title; the opening tests labor, recurrence,
@@ -38,12 +42,15 @@ and calls it his portion (2:10), and then judges all of it vanity with *"no prof
   [[The Burden of Wisdom]].
 - Ecclesiastes 2:1–11 — tests mirth and great works; finds joy but no profit.
   [[The Trial of Pleasure]].
+- Ecclesiastes 2:12–17 — weighs wisdom against folly before death; hates life.
+  [[The Wise and the Fool Share One End]].
 
 ## Appears in
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; heading and opening verdict.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; first-person report of the inquiry by wisdom.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; the experiment with mirth, works, and wealth.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17; wisdom ranked above folly, yet both share one end.
 
 ## Related people
 
@@ -62,5 +69,7 @@ and calls it his portion (2:10), and then judges all of it vanity with *"no prof
 - [[Providence]] — the search as a burden God has given (1:13).
 - [[Joy and Enjoyment]] — mirth tested; joy his portion, yet without profit (2:10–11).
 - [[Wealth and Possessions]] — the treasure accumulated in the experiment (2:7–9).
+- [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
+- [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–2:11; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–2:17; Proverbs 1:1–7.

@@ -182,6 +182,14 @@ wealth 1 Kings 4–10 assigns to Solomon (paraphrased; those chapters are not st
 before me in Jerusalem"* (2:9) implies several predecessors. Solomon is still not named. This is
 an attribution comparison, not an appearance. Source: stored WEB Ecclesiastes 2:1–11.
 
+### The king's successor — Ecclesiastes 2:12
+
+[[The Wise and the Fool Share One End]] asks *"what can the king's successor do? Just that which has
+been done long ago"* (2:12), and 2:18–19 (not yet ingested) speaks of the man who will rule over the
+Preacher's labor. Readers who identify the Preacher with Solomon think of Rehoboam (1 Kings 11:43, not
+stored; paraphrased). Ecclesiastes names neither king nor heir. This is an attribution comparison,
+not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
+
 ## Timeline / key events
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
@@ -196,6 +204,7 @@ an attribution comparison, not an appearance. Source: stored WEB Ecclesiastes 2:
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; attribution comparison only, not named.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; attribution comparison only, not named.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12; attribution comparison only; *"the king's successor"* is unnamed.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1, attribution comparison only; Lemuel is named
   instead.

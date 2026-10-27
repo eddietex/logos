@@ -416,7 +416,16 @@ no lasting profit, and the page keeps both. Proverbs 14:23's *"In all hard work 
 recorded on [[Profit and Remembrance - Proverbs and Ecclesiastes 1]], stands in explicit tension
 with 2:11. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:4–11; Proverbs 14:23.
 
+
+### Work made grievous — Ecclesiastes 2:17
+
+*"So I hated life, because the work that is worked under the sun was grievous to me"* (2:17). The
+common end of wise and fool (2:14–16) is the reason given. The next unit, 2:18–26, turns this from
+the work done under the sun in general to the Preacher's own labor and its heir. See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:17; The work done under the sun grievous because of the common end.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:4–11; Great works bring joy as a portion, yet no profit under the sun.
 

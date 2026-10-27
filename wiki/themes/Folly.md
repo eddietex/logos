@@ -321,7 +321,20 @@ with his heart *"yet guiding me with wisdom"* (2:3). Folly is now practiced, not
 as an experiment under wisdom's supervision. The purpose is stated: to see what is good for the
 sons of men to do. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:2–3.
 
+
+### The fool's darkness and the common end — Ecclesiastes 2:13–16
+
+The fool *"walks in darkness"* while the wise man's eyes are in his head (2:14), and folly is ranked
+below wisdom as darkness below light (2:13). Yet the fool's end is the wise man's: the same event, the
+same forgetting (2:14–16). The fool here is the measure the wise man fears to be no better than,
+not the object of a warning. See
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
+See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:13–16; The fool walks in darkness, yet dies and is forgotten as the wise man is.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:2–3; Laughter called foolishness, and folly laid hold of under wisdom's guidance.
 

@@ -44,7 +44,15 @@ pleasure: *"all was vanity and a chasing after wind, and there was no profit und
 [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
 Ecclesiastes 2:1–11.
 
+
+**Ecclesiastes 2:12–17.** [[The Wise and the Fool Share One End]] applies the verdict to wisdom's advantage in the face of death:
+*"why was I then more wise?"*, and *"this also is vanity"* (2:15). The unit closes
+with the full formula and a stated feeling, *"So I hated life"* (2:17). See
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:15, 17; wisdom's advantage judged vanity before the common end; all vanity and a chasing after wind.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1, 11; mirth, works, and wealth judged vanity, with no profit under the sun.
 

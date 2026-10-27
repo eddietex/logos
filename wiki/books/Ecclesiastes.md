@@ -33,12 +33,17 @@ heart from no joy. His heart rejoiced, and that was his portion (2:10), yet the 
 a chasing after wind, and *"no profit under the sun"* (2:11) — the first direct answer to the
 question of 1:3. God is not mentioned in the unit.
 
+[[The Wise and the Fool Share One End]] returns to wisdom, madness, and folly. Wisdom excels folly as light
+excels darkness (2:13), yet one event happens to them all (2:14): the wise man dies like the fool and
+is forgotten like him (2:16). The Preacher asks why he was then more wise (2:15) and reports that he
+hated life (2:17). Both findings, the ranking and the common end, stand side by side.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–2:11 currently has ingested passage pages.
+only 1:1–2:17 currently has ingested passage pages.
 
 ## Structure
 
@@ -60,7 +65,7 @@ merge, or reorder them freely.
 - [x] [[Vanity of Vanities]] — Ecclesiastes 1:1–11
 - [x] [[The Burden of Wisdom]] — Ecclesiastes 1:12–18
 - [x] [[The Trial of Pleasure]] — Ecclesiastes 2:1–11
-- [ ] The Wise and the Fool Share One End — Ecclesiastes 2:12–17
+- [x] [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17
 - [ ] The Labor Left to Another — Ecclesiastes 2:18–26
 - [ ] A Time for Every Purpose — Ecclesiastes 3:1–15
 - [ ] From Dust to Dust — Ecclesiastes 3:16–22
@@ -88,9 +93,10 @@ merge, or reorder them freely.
 - [[Work]] — the question of gain and the possibility of enjoyment.
 - [[Wisdom]] — valuable, yet unable to master every outcome.
 - [[Joy and Enjoyment]] — tested and found without profit (2:1–11), later commended as God's gift.
-- [[Life and Death]] — generations pass; death challenges accumulated advantage.
+- [[Life and Death]] — generations pass; the wise man dies just like the fool (2:16).
 - [[Remembrance]] — what survives in the minds of those who come after.
 - [[Creation]] — the world that continues as its observers pass.
+- [[Light and Darkness]] — wisdom excels folly as light excels darkness (2:13).
 
 ## Key people
 

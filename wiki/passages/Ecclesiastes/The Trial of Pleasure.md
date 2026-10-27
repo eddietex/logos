@@ -38,7 +38,8 @@ The reckoning comes when he looks back at all of it (11). The works his hands ma
 spent: *"all was vanity and a chasing after wind, and there was no profit under the sun."* The
 book's opening question — *"What does man gain from all his labor"* (1:3) — receives its first
 direct answer, and it is no. Yet verse 10 is not withdrawn. The joy was real and was his
-portion; what failed was profit, something that would remain. The next unit (2:12–17) turns back to compare wisdom with folly in the light
+portion; what failed was profit, something that would remain. The next unit,
+[[The Wise and the Fool Share One End]] (2:12–17), turns back to compare wisdom with folly in the light
 of death.
 
 ## Key verses
@@ -122,6 +123,8 @@ The *"provinces"* (8) are unnamed and get no page.
 - Ecclesiastes 7:4; 8:15 *(not yet ingested)* — the heart of fools in the house of mirth (7:4),
   and later *"Then I commended mirth"* (8:15) (stored WEB). The book's own later judgments on
   mirth point in both directions.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17; the next unit, where wisdom is weighed against folly in the face of
+  death.
 
 ## Notes
 

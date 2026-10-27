@@ -241,7 +241,16 @@ reports that it produced no profit (2:11). Whether that scale is meant to settle
 everyone else is an inference the text does not state. See [[The Trial of Pleasure]]. Source:
 stored WEB Ecclesiastes 2:7–11.
 
+
+### The king's successor — Ecclesiastes 2:12
+
+*"For what can the king's successor do? Just that which has been done long ago"* (2:12). A king who
+has tried everything leaves his successor nothing new to try, which echoes 1:9's *"no new thing under
+the sun."* The successor is unnamed; he returns as the heir of 2:18–19. See [[The Wise and the Fool Share One End]]. Source: stored WEB Ecclesiastes 2:12–17.
+
 ## Key passages
+
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12; The king's successor can only do what has been done long ago.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:7–9; A king's treasure and servants make a comprehensive trial of pleasure possible.
 

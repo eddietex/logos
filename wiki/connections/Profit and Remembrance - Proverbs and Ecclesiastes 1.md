@@ -12,6 +12,7 @@ tags: [connection]
 - [[A Wise Son Makes a Glad Father]] — Proverbs 10:7.
 - [[The Worthy Woman]] — Proverbs 31:31.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:10–11.
+- [[The Wise and the Fool Share One End]] — Ecclesiastes 2:16.
 
 ## Analysis
 
@@ -42,7 +43,14 @@ received and a profit that remains, a distinction 2:10–11 implies but does not
 is made here that the Hebrew behind the two English uses of *profit* is the same word. See
 [[The Trial of Pleasure]].
 
-Sources: all five passages checked in stored WEB on 2026-10-27. This comparison makes no claim
+**Forgetting reaches the wise.** Ecclesiastes 2:16 narrows 1:11's forgetting to the case Proverbs
+10:7 would most expect to be exempt: *"of the wise man, even as of the fool, there is no memory for
+ever."* Proverbs 10:7 pairs righteous and wicked, and Ecclesiastes 2:16 pairs wise and fool, so the
+categories are not identical; but Proverbs aligns them throughout, and the tension stands as
+stated. Ecclesiastes 9:5 (not yet ingested) says of the dead, *"their memory is forgotten"* (stored
+WEB). See [[The Wise and the Fool Share One End]].
+
+Sources: all six passages, and Ecclesiastes 9:5, checked in stored WEB on 2026-10-27. This comparison makes no claim
 about shared Hebrew vocabulary or direct literary dependence.
 
 ## Significance
