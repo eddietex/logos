@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3.
@@ -103,10 +105,20 @@ Ecclesiastes 3:22–4:3.
 has given riches and wealth and has also given power to eat of it and rejoice in labor
 (19). Joy occupies the recipient's heart during given days (18, 20). The unit has already
 pictured harmful wealth and eating in darkness (13–17), so the affirmation does not
-describe every wealthy person's experience. The still-uningested 6:2, checked in stored
-WEB, will expressly describe wealth from God without power to enjoy it. The gift reading
-of enjoyment is strengthened, while the tension with suffering and unsatisfied desire
+describe every wealthy person's experience. The now-ingested 6:2 in
+[[Riches Without Enjoyment]] expressly describes wealth from God without power to enjoy it.
+The gift reading of enjoyment is strengthened, while the tension with suffering and unsatisfied desire
 remains. Source: stored WEB Ecclesiastes 5:8–20; 6:1–2.
+
+### The power withheld — Ecclesiastes 6:1–9
+
+[[Riches Without Enjoyment]] now brings the anticipated contrast into the ingested wiki.
+God gives wealth but no power to eat of it (2); many children and years cannot make up
+for good unexperienced (3–6). This differs from the solitary worker's self-deprivation
+in 4:8 and supplies no stated sin as explanation. The enjoyed gift of 5:19 and its absence
+in 6:2 remain separate cases, both attributed to God. See
+[[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+Source: stored WEB Ecclesiastes 4:8; 5:18–20; 6:1–9.
 
 ## Significance
 

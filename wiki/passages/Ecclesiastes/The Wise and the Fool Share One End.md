@@ -85,6 +85,10 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:8 again questions wisdom's advantage, now following unfilled
+  appetite (7). The question does not withdraw 2:13's preference for wisdom; see
+  [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
 - [[From Dust to Dust]] — Ecclesiastes 3:19–20 extends the shared end from wise and fool to
   humans and animals, while 3:17 retains divine judgment.
 

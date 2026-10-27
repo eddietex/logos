@@ -220,6 +220,10 @@ speech that starts the quarrel is not addressed to anyone in it.
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:3–6 compares a stillborn child's rest with long life without good.
+  Job 3:13–17 imagines rest for himself, not another wealthy man's hypothetical condition;
+  see [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].
+
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 observes others’ oppression and prefers the dead and
   never-existent; Job’s birth-lament is personal. See
   [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].

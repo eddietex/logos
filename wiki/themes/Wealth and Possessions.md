@@ -552,13 +552,27 @@ abundance can prevent sleep (12). Wealth kept to the owner's harm can disappear 
 misfortune (13–14), while death leaves every worker empty-handed (15–16). Yet wealth and
 power to enjoy it can both be God's gift (19). **Tension:** Proverbs 10:22 associates divine
 blessing with wealth without trouble; this unit records harmful wealth and genuine enjoyment
-without explaining every case by its owner's righteousness. The still-uningested 6:2,
+without explaining every case by its owner's righteousness. The now-ingested 6:2,
 checked in stored WEB, attributes wealth to God even where enjoyment is withheld.
 
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+The man in 6:2 receives riches, wealth, and honor from God, yet God gives him no power
+to eat of them; an alien eats instead. Wealth's divine source does not guarantee its
+owner's enjoyment. **Tension:** Proverbs 10:22's blessing without added trouble and
+Ecclesiastes 5:19's enjoyed gift remain beside this evil. No sin is identified to explain
+it. The distinction is developed in
+[[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wealth given without the power to enjoy it.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; dissatisfaction, harmful wealth, and the distinct gift of enjoying it.
 

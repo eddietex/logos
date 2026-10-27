@@ -80,12 +80,18 @@ wealth through dissatisfaction, lost sleep, misfortune, and empty-handed departu
 life's days, wealth, and the power to enjoy it are gifts of God (18–20). Possession and
 enjoyment are distinguished without explaining away the injustice of the opening.
 
+[[Riches Without Enjoyment]] (6:1–9) distinguishes God's giving of wealth from the power
+to enjoy it, now explicitly withheld (2). Neither a hundred children nor two thousand
+years outweigh good unexperienced: the stillborn child has more rest (3–6). Unfilled
+appetite leads to questions about wisdom's gain and a preference for sight over wandering
+desire, followed by the vanity refrain (7–9). No cause is given for the withheld power.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–5:20 currently has ingested passage pages.
+only 1:1–6:9 currently has ingested passage pages.
 
 ## Structure
 
@@ -116,7 +122,7 @@ merge, or reorder them freely.
 - [x] [[The Youth and the Old King]] — Ecclesiastes 4:13–16
 - [x] [[Let Your Words Be Few]] — Ecclesiastes 5:1–7
 - [x] [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20
-- [ ] Riches Without Enjoyment — Ecclesiastes 6:1–9
+- [x] [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9
 - [ ] Who Knows What Is Good — Ecclesiastes 6:10–12
 - [ ] The House of Mourning — Ecclesiastes 7:1–14
 - [ ] Righteousness and Wisdom Under Question — Ecclesiastes 7:15–29
@@ -130,6 +136,9 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Burial and the Grave]], [[Blessing]], and [[Life and Death]] — many children and years
+  without good or burial; the stillborn comparison tests outward flourishing (6:1–9).
 
 - [[Wealth and Possessions]], [[Joy and Enjoyment]], and [[Nakedness and Covering]] — harmful
   wealth and empty-handed departure beside enjoyment as God's gift (5:8–20).
@@ -164,7 +173,8 @@ merge, or reorder them freely.
 ## Key people
 
 - [[God]] — giver of burden and enjoyment; his work endures (3:10–15); in heaven, owed paid vows,
-  and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20).
+  and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20), but also
+  gives wealth without that power (6:2), with no reason supplied.
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

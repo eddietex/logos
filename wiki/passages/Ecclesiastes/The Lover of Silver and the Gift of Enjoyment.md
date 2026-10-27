@@ -102,6 +102,10 @@ these observations in a particular kingdom or identify the king with the Preache
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:2 supplies the adjacent contrast: God gives wealth but no power to eat
+  of it. The enjoyed gift of 5:19 is retained, with the tension developed in
+  [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+
 - [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]] — the
   unsatisfied eye becomes the explicit love of silver (10–11); compare
   [[Two Are Better Than One]], Ecclesiastes 4:8.
@@ -129,8 +133,8 @@ these observations in a particular kingdom or identify the king with the Preache
 
 **Boundary.** Retain the planned 5:8–20 unit. Verses 8–9 turn to public administration and
 agricultural profit before 10–17 test private accumulation. Verses 18–20 close with enjoyment.
-The next unit opens with another observed evil (6:1): wealth given without the power to eat
-of it (6:2). That contrast is checked in stored WEB and anticipated here, not ingested early.
+The next unit, [[Riches Without Enjoyment]], opens with another observed evil (6:1):
+wealth given without the power to eat of it (6:2). Both units are now ingested.
 
 **Officials and the field.** Verse 8's higher supervision does not explicitly promise
 redress or identify the highest official as God. Reading the tiers as machinery of
@@ -152,8 +156,8 @@ without added trouble in the WEB. Ecclesiastes 5:13–17 describes harmful wealt
 distress, while 5:19 attributes both wealth and enjoyment to God. Distinguishing riches
 alone from riches enjoyed helps explain the juxtaposition, but does not authorize a rule
 that every prosperous person is blessed or every sufferer has acquired wealth wrongly.
-The loss is not explicitly explained as punishment. The later 6:2, already checked in raw,
-will sharpen the distinction by attributing wealth to God without enjoyment.
+The loss is not explicitly explained as punishment. The now-ingested 6:2
+sharpens the distinction by attributing wealth to God without enjoyment.
 
 **Enjoyment beside oppression.** Verses 18–20 do not undo the injustice of verse 8 or the
 uncomforted victims of 4:1–3. Nor is the rich person's sleeplessness in verse 12 a statement

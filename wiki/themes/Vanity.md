@@ -105,7 +105,20 @@ to retain labor's product can both be true.
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+Vanity marks wealth another consumes (2), the stillborn child's coming (4), and the
+closing comparison of sight and wandering desire (9). The uses do not turn the child
+into a moral offender or human vanity into personal conceit. Even the better-than saying
+of verse 9 is followed by the verdict, so it supplies no simple escape from the problem
+of unfilled appetite (7).
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; possessions, birth, and desire under the vanity verdict.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; unsatisfied love of silver and labor for the wind beside a present portion.
 

@@ -277,14 +277,28 @@ See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparison
 
 God gives life's days (18), wealth, and power to eat of it and rejoice (19), and occupies
 the heart with joy (20). This is an explicit attribution of enjoyment, not an explanation
-of how the misfortune of verse 14 was caused. **Tension:** 6:2, checked in stored WEB but
-not yet ingested, describes God giving wealth without the power to enjoy it. Possession
-alone therefore cannot be treated as evidence of a uniformly enjoyed gift.
+of how the misfortune of verse 14 was caused. **Tension:** 6:2, now ingested in
+[[Riches Without Enjoyment]], describes God giving wealth without the power to enjoy it.
+Possession alone therefore cannot be treated as evidence of a uniformly enjoyed gift.
 
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+The Preacher expressly attributes the wealth to God and the absence of power to eat
+of it to God's not giving that power (2). The page's emphasis on hidden direction in
+Genesis therefore needs this further dimension: here divine giving is explicitly named
+and experienced as deprivation. **Tension:** the enjoyed gift of 5:19 remains real, while
+6:2 withholds any explanation for its absence. Neither the owner's guilt nor the alien's
+righteousness is stated; 2:26's moral division cannot simply be imported into this case.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; God gives possessions but withholds power to enjoy them.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; life, wealth, and the ability to enjoy it attributed to God.
 

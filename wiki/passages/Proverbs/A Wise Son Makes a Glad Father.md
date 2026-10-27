@@ -144,6 +144,10 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:2 names God as giver of wealth without power to enjoy it.
+  **Tension with 10:22:** divine giving does not automatically mean trouble-free flourishing;
+  see [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:13–19 keeps harmful wealth and distress beside wealth enjoyed as
   God's gift. **Tension with Proverbs 10:22:** blessing without added trouble must not become
   a rule that every wealthy person enjoys life or every sufferer acquired wealth wrongly.

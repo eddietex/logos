@@ -84,6 +84,11 @@ geographical location.
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:2's alien consumes another man's God-given wealth, but neither
+  party receives the moral classification of 2:26. The alien cannot simply be identified as
+  righteous or the owner as sinful; see
+  [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:12 contrasts sweet laborer's sleep with sleepless abundance, while
   5:18–20 returns to enjoyment from God. Keep this beside 2:23's restless worker; see
   [[Sweet Sleep - Proverbs 3.24 and Ecclesiastes 5.12]].

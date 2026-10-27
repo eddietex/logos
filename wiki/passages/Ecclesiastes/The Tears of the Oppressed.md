@@ -66,6 +66,10 @@ it does not identify a particular country, court, or city.
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:3–6's stillborn child is distinct from 4:3's person who has not
+  yet been. The new comparison tests wealth, children, and years without good, while 4:1–3
+  responds to observed oppression; see [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–9 again observes oppression, now naming the poor and layers of
   officials. No effective redress is narrated; 5:18–20's enjoyment does not erase the victims.
 

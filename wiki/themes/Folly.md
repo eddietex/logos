@@ -367,7 +367,20 @@ attention in worship: speaking and offering instead of listening.
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+Verse 8 places the fool beside the wise person in a question about advantage after
+unfilled appetite (7). It supplies no new foolish act and does not identify the deprived
+wealthy man of verse 2 as a fool. Wisdom remains preferred in 2:13, while its power to
+secure satisfaction is questioned here. The comparison resembles 2:14–16's shared end
+without declaring every difference between wise and foolish conduct meaningless.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; the fool as the measure of wisdom’s questioned advantage.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1–4; The sacrifice of fools, their many words, and God's displeasure.
 

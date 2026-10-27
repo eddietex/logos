@@ -80,7 +80,17 @@ asks what profit remains at life's empty-handed end, and nevertheless finds eati
 drinking, and enjoying labor good and proper (5:8–20). The gift of enjoyment belongs beside
 his account of oppression and distress, not in place of it. Source: stored WEB 5:8–20.
 
+In [[Riches Without Enjoyment]] he observes an evil heavy on people: wealth God gives
+without power to eat of it (6:1–2). He judges a stillborn child better off than a father
+with many children and years but no good or burial (3–6), then questions the gain of
+labor, wisdom, and practical knowledge before unfilled appetite (7–8). The sight of the
+eyes is preferred to desire's wandering, with a closing vanity verdict (9). These are
+observations and hypothetical cases, not an assertion that he himself had a hundred
+children or lived two thousand years. Source: stored WEB Ecclesiastes 6:1–9.
+
 ## Timeline / key events
+
+- Ecclesiastes 6:1–9 — [[Riches Without Enjoyment]]; abundance and long life tested against good unexperienced.
 
 - Ecclesiastes 5:8–20 — [[The Lover of Silver and the Gift of Enjoyment]]; wealth tested and enjoyment received.
 
@@ -109,6 +119,8 @@ his account of oppression and distress, not in place of it. Source: stored WEB 5
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; observes deprivation and makes the stillborn comparison.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; observer of wealth and its limits.
 
@@ -160,4 +172,4 @@ his account of oppression and distress, not in place of it. Source: stored WEB 5
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–5:20; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–6:9; Proverbs 1:1–7.

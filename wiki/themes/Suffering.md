@@ -210,7 +210,20 @@ sufferer has failed to receive a universally available remedy.
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+The evil is heavy on people (1), and the wealthy man's inability to eat of what God
+gives is called an evil disease (2). This is the WEB's description of the condition, not
+a named medical diagnosis. No particular wrongdoing, lesson, or divine purpose is
+specified. The stillborn comparison (3–6) measures the severity of life without good;
+it is not a claim that all living people fare worse than the dead.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; deprivation without an identified offense.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; oppression, sleepless abundance, loss, and distress beside enjoyment.
 

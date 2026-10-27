@@ -7,13 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
+
 - [[Let the Day Perish]] — Job 3:1–26; birth cursed and rest in death imagined.
 - Jeremiah 20:14–18 — the day of birth and its messenger cursed; WEB verified through
   bible-api.com with `translation=web` on 2026-10-27; the book is not yet ingested.
 - [[There Is No Umpire Between Us]] — Job 10:18–19; the wish to have passed from womb to grave.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; the dead and never-existent preferred.
-- Ecclesiastes 6:3–5 — the stillborn preferred to a long-lived man without satisfaction;
-  checked in stored WEB, not yet ingested.
 - Jonah 4:3, 8; 1 Kings 19:4; Matthew 26:24 — further comparison references retained from the
   earlier page; their wording is not newly verified or quoted in this revision.
 
@@ -62,6 +62,17 @@ both are now distinguished from Job 3:16's untimely birth.
 of lament forms; they do not establish who borrowed from whom, a common source, or a date.
 Neither a shared form nor an extreme statement alone warrants a diagnosis of the speaker.
 The poems must be read in the settings their books give them.
+
+### The stillborn comparison now ingested — Ecclesiastes 6:1–9
+
+[[Riches Without Enjoyment]] places the stillborn child beside a father with a hundred
+children, many years, no satisfaction, and no burial (3). The child has not seen or known
+the sun but has more rest (4–5); even two thousand years end at the common destination
+(6). Job 3:13–17's imagined rest and untimely birth are close comparisons. The differences
+matter: Job wishes his own life had not begun, while the Preacher tests outward success
+against another man's unexperienced good. Ecclesiastes 4:3 speaks of one who has not yet
+been, whereas 6:3 explicitly says stillborn child. Neither distinction is erased by the
+shared images. Source: stored WEB Job 3:1–26; Ecclesiastes 4:1–3; 6:1–9.
 
 ## Significance
 

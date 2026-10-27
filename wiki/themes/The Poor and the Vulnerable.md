@@ -289,7 +289,20 @@ See [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+Verse 8 asks what the poor man gains even when he knows how to walk before the living.
+The WEB leaves this as a question, not a claim that poverty proves ignorance or vice.
+Unlike 5:8, no oppressor is named in the verse. The alien consuming the wealthy man's
+goods in 6:2 is likewise not identified as an oppressed resident or placed in a named
+legal category; the English label alone does not establish that status.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; the poor person who knows how to walk among the living.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; poor people oppressed within layers of official authority.
 

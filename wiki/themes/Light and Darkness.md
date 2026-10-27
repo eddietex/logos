@@ -246,7 +246,20 @@ an explicit verdict of moral wickedness or a description of the underworld.
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+The child departs in darkness and its name is covered with darkness (4); it has not
+seen or known the sun (5). Darkness marks the absence of lived experience and a visible
+name, without charging the child with wickedness. Job 3:16's untimely birth that never
+saw light is a comparison, but Job laments his own birth while the Preacher compares
+another person's unsatisfied life. See [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; the stillborn child departs and its name is covered in darkness.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; eating in darkness amid frustration contrasts with enjoyed provision.
 

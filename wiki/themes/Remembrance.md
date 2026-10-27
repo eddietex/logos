@@ -276,7 +276,20 @@ one's obligations. This comparison concerns the WEB's sense, not verified Hebrew
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+The stillborn child's name is covered with darkness (4). Read beside 1:11's forgotten
+generations and 2:16's forgotten wise person and fool, this adds a life with no public
+story of accomplishment. The connection concerns the WEB's image of a hidden name;
+no shared Hebrew verb is asserted. The child nevertheless has more rest than the
+unsatisfied long-lived man (5), so remembered achievement is not the deciding good.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; a name covered with darkness.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; joy reduces reflection on life’s days, distinct from later generations forgetting.
 

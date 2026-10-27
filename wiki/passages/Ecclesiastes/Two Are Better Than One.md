@@ -79,6 +79,10 @@ None named. *Under the sun* (7) gives the scope of the observation, not a locati
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:3 gives its hypothetical father a hundred children, yet still
+  no good; 4:8's worker has no son. Neither descendants nor their absence explains every
+  deprivation, and 6:2 expressly attributes the withheld power to God.
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:10 names love of silver that silver cannot satisfy, extending 4:8's
   unsatisfied wealth; 5:19 permits enjoyment as a gift without securing lasting possession.
 
@@ -100,8 +104,6 @@ None named. *Under the sun* (7) gives the scope of the observation, not a locati
   that wealth does not fill (4:8).
 - [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] — the companion who lifts the
   one who falls (4:10).
-- Ecclesiastes 5:10–12; 6:1–3 — the lover of silver who is not satisfied, and riches without
-  enjoyment; checked in stored WEB, with their pericopes still awaiting ingestion.
 
 ## Notes
 

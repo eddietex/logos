@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
+
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.
 
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:14–16.
@@ -62,6 +64,17 @@ death by itself as a verdict identifying personal guilt. The WEB's question abou
 (21) is not a settled denial of any further existence. Verse 22 responds with enjoyment in
 works, unlike 2:17's hatred of life; both responses remain in the book. Sources: stored WEB
 Ecclesiastes 2:14–17; 3:16–22; Job 21:23–26.
+
+### Neither length nor appetite secures an advantage — Ecclesiastes 6:1–9
+
+[[Riches Without Enjoyment]] tests an imagined two thousand years against failure to enjoy
+good and asks whether all go to one place (6). The nearby comparison is the stillborn
+child with more rest (3–5). Job 21:23–26 similarly ends lives of ease and bitterness
+alike in dust, but does not use the stillborn comparison there. Ecclesiastes 6:8 again
+questions the wise person's advantage over the fool, now after labor's inability to
+fill appetite (7). The shared destination supports a reading about death, not a map of
+the afterlife or identical funeral treatment: 6:3's father has no burial. Source: stored
+WEB Job 21:23–26; Ecclesiastes 2:13–14; 3:19–20; 6:1–9.
 
 ## Significance
 

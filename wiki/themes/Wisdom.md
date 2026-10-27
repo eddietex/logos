@@ -671,7 +671,21 @@ without securing memory. See [[The Youth and the Old King]] and
 [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]]. Source: stored WEB
 Ecclesiastes 2:13–16; 4:13–16.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+After labor for the mouth fails to fill appetite (7), the speaker asks what advantage
+the wise have over the fool, then asks about a poor man who knows how to walk before
+the living (8). **Tension:** 2:13 expressly ranks wisdom above folly; 6:8 questions its
+gain within this predicament. The earlier ranking is retained without making wisdom
+a guarantee of satisfaction. The poor person's practical knowledge is acknowledged,
+not mocked or treated as moral failure.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wisdom’s advantage questioned before unfilled appetite.
 
 - [[The Youth and the Old King]] — Ecclesiastes 4:13; A poor and wise youth ranked above an old and foolish king.
 

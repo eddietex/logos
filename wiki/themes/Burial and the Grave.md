@@ -94,7 +94,20 @@ assertion that the text itself does not make.
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+The hypothetical father has a hundred children and many years, yet no burial (3).
+This deprivation accompanies his lack of good; the text does not say the children
+refused to bury him or explain his death. The common destination in verse 6 concerns
+the mortal end, not identical treatment of bodies. No grave is named, and the stillborn
+child's relative rest is not a detailed account of the afterlife.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; no burial despite many children and years.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Return to dust without a narrated burial.
 

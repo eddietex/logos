@@ -289,6 +289,10 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:6's long life without good also ends at the common destination;
+  compare Job 21:23–26's lives of ease and bitterness in
+  [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
 - [[From Dust to Dust]] — Job 21:23–26’s different lives end alike in dust; Ecclesiastes
   3:19–20 broadens the comparison to humans and animals without withdrawing 3:17’s judgment.
 

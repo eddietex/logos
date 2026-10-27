@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
 
 - **Proverbs 27:20** — *"Sheol and Abaddon are never satisfied; and a man's eyes are never
@@ -90,6 +92,17 @@ not make every act of seeing a moral fault. The same unit allows enjoyment of we
 as God's gift (19), so the target is not possession alone. This comparison is drawn from
 the stored WEB of Ecclesiastes 1:8; 4:8; 5:10–11, 19 and Proverbs 27:20. The Hebrew of
 Ecclesiastes 5 was not checked; no shared source-language verb is claimed for this addition.
+
+### The mouth and wandering desire — Ecclesiastes 6:7–9
+
+[[Riches Without Enjoyment]] describes all labor as for the mouth, yet appetite unfilled
+(7). The unit then prefers the sight of the eyes to the wandering of desire (9). This
+qualifies an overly simple account of the eye as always the problem: seeing available
+good may be preferable to endless craving, even though 1:8 and Proverbs 27:20 deny the
+eye lasting satisfaction. The positive reading of available good is an interpretation
+of the image; the vanity refrain prevents treating it as a complete remedy. No shared
+Hebrew term is asserted for this addition. Source: stored WEB Ecclesiastes 1:8; 4:8;
+5:10–11; 6:1–9; Proverbs 27:20; 30:15–16.
 
 ## Significance
 

@@ -292,7 +292,21 @@ the fruit of her work (31), so praise does not replace practical recognition.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+Proverbs 10:22 joins Yahweh's blessing to wealth without added trouble. Ecclesiastes
+6:2 attributes riches, wealth, and honor to God while denying their owner power to eat
+of them. **Tension:** a divine source of possessions does not establish a trouble-free
+life. Ecclesiastes does not call this case blessing, and gives no moral diagnosis that
+would explain it away. Many children and years also fail to ensure good (3–6). See
+[[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wealth from God is not an automatic measure of enjoyed blessing.
 
 - [[The Worthy Woman]] — Proverbs 31:28–29; Children call their mother blessed; her husband praises her.
 

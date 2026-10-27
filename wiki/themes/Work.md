@@ -485,7 +485,20 @@ see [[Sweet Sleep - Proverbs 3.24 and Ecclesiastes 5.12]]. Neither work nor its 
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+All human labor is for the mouth, yet appetite is not filled (7). The practical
+function of work is recognized while lasting satisfaction remains elusive. This extends
+4:8's solitary toil and 5:10's unsatisfied love of silver; it does not retract 5:18–19's
+enjoyment of labor. In 6:2 the withheld power is attributed to God, so self-deprivation
+by the worker in 4:8 is not an adequate explanation of every case.
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; labor feeds the mouth without filling appetite.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; sweet sleep and enjoyment in work despite empty-handed departure.
 

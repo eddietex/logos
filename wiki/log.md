@@ -18022,3 +18022,53 @@ pages each have exactly one category row linking the new passage; frontmatter co
 the single newly checked queue item were verified. `scripts/link-check.sh` passed with no
 wrapped or dangling links beyond the expected 61 unstarted-book baseline; `git diff --check`
 passed. No unresolved implementation issue or deliberately dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 6.1-9 — Riches Without Enjoyment
+
+Unattended `/ingest auto` by Codex; exactly one pericope. Retained the planned 6:1–9
+boundary and title: the observed evil, stillborn comparison, and unsatisfied appetite end
+with the vanity refrain. Ecclesiastes 6:10–12 remains the next unchecked unit. No workflow
+or harness instruction changed, and no new raw text was needed.
+
+**Interpretive decisions.** [[Riches Without Enjoyment]] preserves the contrast between
+God's giving wealth with power to enjoy it (5:19) and giving wealth without that power
+(6:2). The new connection keeps Proverbs 10:22's blessing without added trouble beside
+this case, distinguishing the claims without erasing their tension. The owner and alien
+are not assigned the sinner/righteous division of 2:26, and no reason for God's withholding
+is supplied. The stillborn child's comparative rest is distinguished from 4:3's person
+who has not yet been and from a universal judgment against living. The hundred children
+and two thousand years belong to hypothetical intensification, not a named biography.
+No cause of the absent burial or detailed afterlife geography is asserted. The reading of
+6:9 as available good preferred to wandering craving is marked as interpretation; the
+vanity refrain and 1:8's unsatisfied eye remain. All human examples are representative;
+no new person, place, or theme page was needed.
+
+**Created (2 content pages):** [[Riches Without Enjoyment]];
+[[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
+
+**Revised (29 content pages):** the Ecclesiastes book page; God and The Preacher
+(Ecclesiastes); fourteen themes (Wealth and Possessions, Joy and Enjoyment, Providence,
+Suffering, Vanity, Work, Life and Death, Burial and the Grave, Light and Darkness,
+Remembrance, Wisdom, Folly, The Poor and the Vulnerable, Blessing); four connections
+(Cursing the Day of Birth, Never Satisfied, Mirth and Its Verdict, One Event Happens to
+Them All); eight reciprocal passages (The Lover of Silver and the Gift of Enjoyment,
+A Wise Son Makes a Glad Father, Let the Day Perish, Why Do the Wicked Live, The Tears of
+the Oppressed, The Wise and the Fool Share One End, Two Are Better Than One, The Labor
+Left to Another). Prospective descriptions of 6:2 on affected pages now acknowledge its
+ingestion. Existing connection source records for other texts are retained.
+
+**Indexes and totals.** Revised nine indexes: books (13 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, Connections A-C, I-N, O-S, and T-Z. The new connection files
+under W. Counts by frontmatter type: 200 passages, 187 people, 91 places, 85 themes,
+498 connections. Including this log, 39 existing wiki files were revised and 2 created.
+
+**Sources and validation.** All nine primary verses match immutable stored WEB
+Ecclesiastes 6:1–9 exactly, checked mechanically. The new connection's Proverbs 10:22
+quotation is copied from stored WEB. Comparisons read in stored WEB Ecclesiastes 1:8;
+2:13–14, 24–26; 3:19–20, 22; 4:1–3, 8; 5:8–20; 6:10–12; 9:4; Job 3:1–26; 21:23–26;
+Proverbs 10:22; 27:20; 30:15–16. No new external quotation or exact Hebrew/Greek claim
+was made. No raw file was changed or added. All affected entity and connection pages
+have exactly one category row linking the new passage; counts and the single newly
+checked queue item were verified. `scripts/link-check.sh` passed: no wrapped or dangling
+links beyond the expected 61 unstarted-book baseline. `git diff --check` passed. No
+unresolved implementation issue or deliberately dangling target remains.

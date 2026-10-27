@@ -2303,8 +2303,14 @@ In [[The Lover of Silver and the Gift of Enjoyment]] God gives life's days (5:18
 and wealth, and also power to eat of them and rejoice in labor (19). He occupies the heart
 with joy (20). These are the Preacher's affirmations, not divine speech. The higher officials
 in 5:8 are not explicitly identified with him. **Tension:** enjoyment given here stands
-beside the oppression described in the same unit; 6:2 will describe God giving wealth but
-not enjoyment (checked in stored WEB, not yet ingested). Source: stored WEB 5:8–20; 6:1–2.
+beside the oppression described in the same unit; 6:2 describes God giving wealth but
+not enjoyment (now ingested in [[Riches Without Enjoyment]]). Source: stored WEB 5:8–20; 6:1–2.
+
+In [[Riches Without Enjoyment]] the Preacher attributes riches, wealth, and honor to God,
+yet says God gives their owner no power to eat of them (6:2). **Tension:** the gift of
+wealth in 5:19 includes enjoyment; the gift here does not. These are different cases,
+and no reason, offense, or purpose is supplied for the deprivation. The alien who eats
+is not pronounced righteous. Source: stored WEB Ecclesiastes 2:26; 5:19; 6:1–9.
 
 ## Timeline / key events
 
@@ -2587,6 +2593,8 @@ not enjoyment (checked in stored WEB, not yet ingested). Source: stored WEB 5:8�
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; gives wealth but not power to eat of it (2).
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:18–20; giver of life, wealth, and enjoyment.
 

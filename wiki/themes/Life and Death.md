@@ -483,7 +483,22 @@ within life remain together. See
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Riches without enjoyment — Ecclesiastes 6:1–9
+
+A hundred children and many years do not outweigh a life unfilled with good and without
+burial (3). The stillborn child has more rest (4–5); even two thousand years cannot prevent
+the common destination (6). **Tension:** the book also commends enjoyment in 3:22 and
+attaches hope to the living in 9:4 (checked in stored WEB, not yet ingested). These
+judgments have different settings and remain distinct; no universal command to prefer
+death is inferred. See [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] and
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
+See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
+sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; a stillborn child preferred to long life without good.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; nothing carried from life, yet enjoyment within the days God gives.
 
