@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12.
+
 - **Proverbs 10:19** — *"In the multitude of words there is no lack of disobedience, but he who
   restrains his lips does wisely."* — [[A Wise Son Makes a Glad Father]]
 - **Proverbs 17:27–28** — *"He who spares his words has knowledge. He who is even tempered is a
@@ -44,6 +46,14 @@ grounds it in the fear of God and calls the many words *vanities*, using the boo
 [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] for the charge of
 multiplied words made against Job by Elihu and then by God — a charge the book does not let stand
 as its last word on Job (42:7).
+
+**Many words and the question of profit.** In [[Who Knows What Is Good]], Ecclesiastes
+6:11 says in the WEB: “For there are many words that create vanity. What does that profit
+man?” The passage extends the relation between abundant speech and vanity beyond the
+explicit worship setting of 5:1–7. Its next questions concern good during life and what
+comes afterward (6:12). It does not repeat the vow rules or forbid every act of speech.
+The comparison rests on stored WEB Ecclesiastes 6:10–12, not an assertion about identical
+Hebrew expressions.
 
 ## Significance
 

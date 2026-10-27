@@ -2312,6 +2312,14 @@ wealth in 5:19 includes enjoyment; the gift here does not. These are different c
 and no reason, offense, or purpose is supplied for the deprivation. The alien who eats
 is not pronounced righteous. Source: stored WEB Ecclesiastes 2:26; 5:19; 6:1–9.
 
+In [[Who Knows What Is Good]], the mightier party with whom a person cannot contend is plausibly
+God (6:10), in light of 3:14's enduring work and 6:2's dependence on his gift. **This is
+a contextual inference: God is not explicitly named in 6:10–12.** No divine speech or
+new action is narrated. The human inability to prevail does not erase Job's continued
+address to God despite the inequality in Job 9–10. See
+[[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]]. Source: stored WEB Ecclesiastes 3:14;
+6:2, 10–12; Job 9:14–19, 32–35; 10:1–2.
+
 ## Timeline / key events
 
 - Ecclesiastes 5:1–7 — [[Let Your Words Be Few]]; in heaven, owed paid vows, and to be feared.
@@ -2593,6 +2601,8 @@ is not pronounced righteous. Source: stored WEB Ecclesiastes 2:26; 5:19; 6:1–9
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; possible referent of the mightier party (10), not explicitly named.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; gives wealth but not power to eat of it (2).
 

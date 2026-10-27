@@ -96,6 +96,10 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks who knows what is good. This stands in tension
+with the positive judgment of 3:12–13; a present good and comprehensive knowledge may be
+distinguished, but 6:12 does not explicitly resolve the tension.
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:18–20 develops 3:13's gift of enjoyment by explicitly distinguishing
   given wealth from given power to eat of it; neither passage makes accumulation permanent.
 

@@ -496,7 +496,20 @@ death is inferred. See [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] and
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+Life is spent like a shadow, and the speaker asks who can tell what follows a person
+under the sun (12). The image expresses transience rather than an exact lifespan.
+The stated question concerns what happens under the sun; it does not supply a doctrine
+of the person's postmortem consciousness. See
+[[Life Like a Shadow - Job 14.1-2 and Ecclesiastes 6.12]] for Job's related image,
+used in a plea for relief rather than in Ecclesiastes' question about good.
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; the days of life pass like a shadow.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; a stillborn child preferred to long life without good.
 

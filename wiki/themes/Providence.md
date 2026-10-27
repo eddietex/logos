@@ -296,7 +296,20 @@ righteousness is stated; 2:26's moral division cannot simply be imported into th
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+Naming long ago and inability to contend with a mightier party set limits around
+humanity (10). God is a plausible referent in light of 3:14 and 6:2, but is not named
+in 6:10–12. The passage does not itself state a complete doctrine of determinism or
+explain why good is withheld. The question of what follows remains open (12).
+See [[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]]: Job's recognition
+of unequal power does not stop his complaint, and the tension must remain visible.
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; human limits before the mightier, whose divine identity is inferred.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; God gives possessions but withholds power to enjoy them.
 

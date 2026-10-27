@@ -461,7 +461,20 @@ Many words are judged vanities (7). See
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+Verse 11's many words create vanity in the stored WEB, and the speaker asks what
+they profit humanity. This recalls 5:2–7 without repeating its worship setting or vow
+instructions. More words do not establish mastery of good or of what comes next.
+It does not follow that all complaint or teaching is forbidden; Job 9–10 recognizes
+the unequal contest yet continues to address God. See
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; many words create vanity; their profit is questioned.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2–7; Few words before God, and the fool's multitude of words.
 

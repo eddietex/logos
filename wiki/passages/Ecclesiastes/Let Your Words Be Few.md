@@ -84,6 +84,10 @@ so, and the wiki does not link it to a place page.
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:11 returns to many words and vanity outside an
+explicit worship setting. See
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]] .
+
 - [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]] — the law
   of vows, the wisdom warning against rash dedication, Jacob's vow at Bethel, and this unit.
 - [[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]] — the

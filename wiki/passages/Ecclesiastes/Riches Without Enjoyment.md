@@ -89,6 +89,9 @@ region. No place page is created, and the destination is not assigned a detailed
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12 follows the cases of abundance without good with
+questions about knowing good, human profit, and what comes afterward.
+
 - [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]] —
   the direct contrast with [[The Lover of Silver and the Gift of Enjoyment]], and the tension
   with blessing without added trouble in [[A Wise Son Makes a Glad Father]].
@@ -112,7 +115,7 @@ region. No place page is created, and the destination is not assigned a detailed
 
 **Boundary.** Retain the planned 6:1–9 unit. The observed evil of 1–2, the comparison of
 3–6, and appetite's limits in 7–9 develop wealth without enjoyment. Verse 9 closes with
-the familiar vanity refrain. The questions of 6:10–12 remain the next queue item.
+the familiar vanity refrain. The questions of 6:10–12 are now treated in [[Who Knows What Is Good]].
 
 **Given possessions, withheld enjoyment.** The WEB expressly attributes both sides of
 6:2 to God. Reducing the difficulty to a miser's refusal to enjoy life would omit the

@@ -683,7 +683,19 @@ not mocked or treated as moral failure.
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+The question of 6:12 extends the inquiry begun at 2:3: who knows what is good for
+humanity through life's days, or can tell what follows? **Tension:** 3:12–13 and 5:18
+make positive judgments about good and enjoyment; 6:12 leaves its question unanswered.
+Distinguishing a present good from comprehensive knowledge of a life is a plausible
+reading, not an explicit resolution supplied by this verse.
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; knowing good and the future remain questions.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wisdom’s advantage questioned before unfilled appetite.
 

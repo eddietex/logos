@@ -405,6 +405,11 @@ one hundred forty years, and saw his sons, and his sons' sons, to four generatio
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:12 uses life’s shadow in a question about good; Job
+14:1–6 makes it part of a plea. See [[Life Like a Shadow - Job 14.1-2 and Ecclesiastes 6.12]] and
+[[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]] for Job 13:3, 15’s continued desire
+to argue despite unequal power.
+
 - [[The Earth Remains - Genesis and Ecclesiastes 1]] —
   Job 14:7–12 and Ecclesiastes 1:4–7 use different natural images to expose human limits. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

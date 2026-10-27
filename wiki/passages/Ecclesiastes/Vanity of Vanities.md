@@ -86,6 +86,9 @@ river, sea, or travel itinerary is supplied.
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12 returns to what has been long ago and asks what
+profits humanity; naming and human limits now accompany the questions.
+
 - [[Two Are Better Than One]] — Ecclesiastes 4:8; eyes not satisfied with wealth, beside 1:8's eye
   not satisfied with seeing.
 

@@ -116,7 +116,19 @@ of unfilled appetite (7).
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+Many words create vanity, and the question of profit follows (11). The designation
+also qualifies the life spent like a shadow (12). Here the theme joins fruitless
+multiplication of speech to passing days, without declaring every utterance evil
+or every experience of good unreal. The question of good remains beside the earlier
+affirmations of enjoyment in 3:12–13 and 5:18.
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; many words without profit and life spent like a shadow.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; possessions, birth, and desire under the vanity verdict.
 

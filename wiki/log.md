@@ -18072,3 +18072,56 @@ have exactly one category row linking the new passage; counts and the single new
 checked queue item were verified. `scripts/link-check.sh` passed: no wrapped or dangling
 links beyond the expected 61 unstarted-book baseline. `git diff --check` passed. No
 unresolved implementation issue or deliberately dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 6.10-12 — Who Knows What Is Good
+
+Unattended `/ingest auto` by Codex; exactly one pericope. Retained the planned title and
+6:10–12 boundary: naming long ago, the unequal contest, many words, and the questions of
+good and the future close this part of the inquiry. Ecclesiastes 7:1–14 remains the first
+unchecked unit. No workflow or harness instructions changed. The existing raw Ecclesiastes
+file was used; the fetch script refused to overwrite it as designed.
+
+**Interpretive decisions.** [[Who Knows What Is Good]] identifies God as a plausible
+contextual referent of the mightier party, explicitly marking that inference wherever
+it is used; these verses do not name him. Naming long ago supplies neither an identified
+namer nor a verified Adam wordplay, and no complete theory of determinism is inferred.
+The WEB's many words is retained without asserting an unverified Hebrew analysis.
+The unanswered question about good remains in explicit tension with the positive claims
+of 3:12–13 and 5:18. Distinguishing present enjoyment from comprehensive knowledge is
+marked as interpretation, not presented as the verse's own resolution. The future under
+the sun is distinguished from an explicit account of postmortem experience. Job's
+continued complaint remains beside his recognition of unequal power; the comparison
+is not made into a prohibition against all prayer or protest. No new person, place,
+or theme was needed, and no direct literary dependence is asserted.
+
+**Created (3 content pages):** [[Who Knows What Is Good]];
+[[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]];
+[[Life Like a Shadow - Job 14.1-2 and Ecclesiastes 6.12]].
+
+**Revised (22 content pages):** the Ecclesiastes book page; God and The Preacher
+(Ecclesiastes); seven themes (Wisdom, Providence, Vanity, Life and Death, Language and
+Speech, Names and Naming, Joy and Enjoyment); two existing connections (In the Multitude
+of Words; Do Not Boast About Tomorrow); ten reciprocal passages (Vanity of Vanities,
+The Trial of Pleasure, A Time for Every Purpose, From Dust to Dust, Riches Without
+Enjoyment, The Lover of Silver and the Gift of Enjoyment, Let Your Words Be Few,
+There Is No Umpire Between Us, Though He Slay Me, Do Not Boast About Tomorrow).
+The preceding passage now links this completed unit instead of calling it the next item.
+
+**Indexes and totals.** Revised eight indexes: books (14 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, Connections A-C, D-H, and I-N. New connection rows file under
+C and L, and the affected connection subindexes are alphabetized. Totals by frontmatter
+type: 201 passages, 187 people, 91 places, 85 themes, 500 connections. Including this log,
+31 existing wiki files were revised and 3 created.
+
+**Sources and validation.** All three primary verses match immutable stored WEB
+Ecclesiastes 6:10–12 exactly, checked mechanically. The two new connection quotations
+were also checked as exact stored WEB excerpts. Comparisons read in stored WEB:
+Ecclesiastes 1:3, 9–10; 2:3; 3:11–15, 22; 5:2–7, 18; 6:1–12; 7:1;
+Job 9:1–35; 10:1–2; 13:3, 15; 14:1–6, 21; Proverbs 10:19; 17:27–28; 27:1, 23–24.
+No new external quotation or exact Hebrew/Greek claim was made; existing connections'
+external verification records remain intact. No raw text was added or changed. Affected
+entity and connection pages have exactly one category row linking the new passage;
+table shape, unique titles, frontmatter totals, and exactly one queue advance were
+verified. `scripts/link-check.sh` passed with no wrapped or dangling links beyond the
+expected 61 unstarted-book baseline; `git diff --check` passed. No unresolved operational
+issue or deliberately dangling target remains; interpretive limits are stated on the pages.

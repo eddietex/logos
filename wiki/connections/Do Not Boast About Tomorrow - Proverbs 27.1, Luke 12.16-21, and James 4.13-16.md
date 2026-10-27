@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12.
+
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
 
 - **Proverbs 27:1** — *"Don't boast about tomorrow; for you don't know what a day may bring."* —
@@ -69,6 +71,16 @@ does not make eating and drinking inherently wrong or turn the Preacher's commen
 the rich fool's error. No direct literary dependence is claimed. Sources: stored WEB
 Ecclesiastes 2:18–26; Luke 12:16–21 verified again on 2026-10-27 at
 `https://bible-api.com/Luke%2012:16-21?translation=web`; Luke remains outside `raw/`.
+
+**Who can tell what follows?** [[Who Knows What Is Good]], Ecclesiastes 6:12, asks who
+can tell a person what will be after him under the sun. Like Proverbs 27:1, it limits
+human knowledge of what comes next. The forms differ: Proverbs forbids boasting about
+tomorrow, whereas Ecclesiastes leaves a question about the future beyond a person's
+life beside a question about good during life. The latter is not a command against
+planning or an explicit description of the person's afterlife. Ecclesiastes 3:22,
+[[From Dust to Dust]], had already joined enjoyment of present works to inability to
+see what follows. Sources for this extension: stored WEB Ecclesiastes 3:22; 6:10–12;
+Proverbs 27:1. Existing external-text verification records below are retained.
 
 ## Significance
 

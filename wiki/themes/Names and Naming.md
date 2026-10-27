@@ -123,7 +123,19 @@ goodwill rather than built for oneself.
 
 See [[A Good Name]]. Source: stored WEB Proverbs 22; no new source-language claim.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+Whatever has been is described as named long ago (10). Unlike the Genesis naming
+scenes, no naming action is narrated here and no namer is identified in the WEB.
+Reading naming as established order fits the context, but does not prove a specific
+act of divine predestination. The human figure is not identified as the individual
+Adam in the English text; no unverified Hebrew wordplay is asserted.
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; naming long ago within an account of human limits.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; Joshua’s patronymic and Moses known by name.
 

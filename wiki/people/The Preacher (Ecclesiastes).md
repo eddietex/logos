@@ -88,7 +88,14 @@ eyes is preferred to desire's wandering, with a closing vanity verdict (9). Thes
 observations and hypothetical cases, not an assertion that he himself had a hundred
 children or lived two thousand years. Source: stored WEB Ecclesiastes 6:1–9.
 
+In [[Who Knows What Is Good]] he turns from the case of wealth without enjoyment to human limits
+(6:10–12): naming long ago, the mightier party, many words without profit, and life like
+a shadow. His question about knowing good remains beside his positive judgments in
+3:12–13 and 5:18; no answer is supplied here. Source: stored WEB Ecclesiastes 6:10–12.
+
 ## Timeline / key events
+
+- Ecclesiastes 6:10–12 — [[Who Knows What Is Good]]; questions about good and what follows a person.
 
 - Ecclesiastes 6:1–9 — [[Riches Without Enjoyment]]; abundance and long life tested against good unexperienced.
 
@@ -119,6 +126,8 @@ children or lived two thousand years. Source: stored WEB Ecclesiastes 6:1–9.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; continuing speaker of the inquiry.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; observes deprivation and makes the stillborn comparison.
 

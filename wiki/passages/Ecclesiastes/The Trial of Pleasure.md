@@ -100,6 +100,9 @@ The *"provinces"* (8) are unnamed and get no page.
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:12 returns to the inquiry of 2:3 about good throughout
+life, now as an unanswered question.
+
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26; joy in labor is attributed to God's
   hand (2:24) after despair over its successor. The new affirmation does not retract 2:11's
   denial of profit; 2:26 still ends with vanity. Source: stored WEB Ecclesiastes 2:18–26.

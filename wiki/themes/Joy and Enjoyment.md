@@ -113,7 +113,19 @@ See [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Who knows what is good — Ecclesiastes 6:10–12
+
+The question of what is good during life (12) follows wealth and years without good
+in 6:1–9. **Tension:** 3:12–13 and 5:18 commend rejoicing and enjoyment, while 6:12
+asks who knows what is good. The present portion can be distinguished from a complete
+account of a life's good, but that is an interpretive distinction, not an answer the
+verse supplies. No new command to enjoy or prohibition of enjoyment is given here.
+
+See [[Who Knows What Is Good]]. Source: stored WEB Ecclesiastes 6:10–12; comparison sources identified on the passage page.
+
 ## Key passages
+
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10–12; who knows what is good beside earlier affirmations of enjoyment.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; good unexperienced despite wealth, children, and years.
 

@@ -102,6 +102,10 @@ these observations in a particular kingdom or identify the king with the Preache
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks who knows what is good beside 5:18’s
+affirmative judgment. Neither claim is withdrawn; the later question does not explicitly settle the
+tension.
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:2 supplies the adjacent contrast: God gives wealth but no power to eat
   of it. The enjoyed gift of 5:19 is retained, with the tension developed in
   [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].

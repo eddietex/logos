@@ -370,6 +370,11 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:10 describes inability to contend with the mightier,
+plausibly God but not explicitly named there. See
+[[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]] ; Job’s continued complaint remains
+alongside the inequality.
+
 - [[Bildad's First Speech]] — Job 8, the speech this answers in one verse (9:2) and then in two
   words (9:21–22).
 - [[Eliphaz's First Speech]] — 4:15, 4:17, and 5:9, all three taken up here.

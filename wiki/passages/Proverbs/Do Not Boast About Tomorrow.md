@@ -233,6 +233,10 @@ whose face one knows.
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks what follows a person under the sun. Its
+question and Proverbs 27:1’s command both expose unknown futures; see
+[[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] .
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:10–11 makes the unsatisfied eye an explicit lover of silver; 5:14–16
   adds lost wealth and empty-handed departure. Compare Proverbs 27:20, 24.
 

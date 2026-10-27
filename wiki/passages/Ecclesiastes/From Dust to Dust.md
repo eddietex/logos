@@ -78,6 +78,10 @@ and dust do not identify a new geographical location. Sheol is not named in this
 
 ## Cross-references
 
+- [[Who Knows What Is Good]] — Ecclesiastes 6:12 repeats the concern with what follows a person
+under the sun. Here 3:22 commends enjoyment alongside that limit; there the unit closes with
+unanswered questions.
+
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 continues the observation of injustice, now with tears
   and power, and sets a severe preference for death beside 3:22’s enjoyment.
 
