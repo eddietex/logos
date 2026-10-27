@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
+
 - **Job 11:7–9** — Zophar: *"Can you fathom the mystery of God? Or can you probe the limits of the
   Almighty? They are high as heaven. What can you do? They are deeper than Sheol. What can you know?
   Its measure is longer than the earth, and broader than the sea."* — [[Zophar's First Speech]]
@@ -96,6 +98,20 @@ deep is unsearchable to man and transparent to God, and Job's conclusion — tha
 *"the outskirts of his ways"* (26:14) — accepts Zophar's premise and denies Zophar the use he made of
 it, since on Job's terms the friends do not know enough about God to convict anyone. See
 [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]].
+
+### A whole work beyond finding out — Ecclesiastes 3:11
+
+[[A Time for Every Purpose]] says that people cannot find out God's work from beginning to
+end (3:11). Job 28:12–28 similarly distinguishes the wisdom humans cannot locate from the
+way God knows, then gives people the fear of the Lord and departure from evil. Ecclesiastes
+3:14 also makes fear a response to God's work. These are thematic parallels, not a claim
+that Ecclesiastes repeats Job's Hebrew vocabulary or quotes the poem.
+
+There is a difference in emphasis: Job 28 speaks of the inaccessible place of wisdom;
+Ecclesiastes speaks of the scope of God's work across time. Neither human limitation warrants
+an accusation that a particular sufferer is guilty. Ecclesiastes also retains positive
+knowledge and action: rejoicing and doing good (3:12), enjoyment as gift (13), and God's
+enduring work (14). Sources: stored WEB Job 28:12–28; Ecclesiastes 3:1–15.
 
 ## Significance
 

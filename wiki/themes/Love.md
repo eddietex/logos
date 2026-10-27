@@ -258,7 +258,18 @@ that improves. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]]
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 27; Hebrew from Sefaria.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+A time to embrace and a time to refrain appear in verse 5; love and hate are paired in verse
+8. Neither the persons nor the objects of these actions are specified. The lines therefore
+cannot establish a rule about which person to hate, or be reduced to the favoritism of the
+patriarchal households. They name opposing experiences within the poem's wider account of time.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Love and hate; embracing and refraining.
 
 - [[Wine Is a Mocker]] — Proverbs 20:6, 28; Love must be faithful; it also sustains the throne.
 

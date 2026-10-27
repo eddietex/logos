@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
+
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:3, 11.
@@ -64,6 +66,16 @@ enjoyment in labor as coming from God's hand; it does not promise enduring owner
 supports, without formally defining, the distinction between present good and lasting gain.
 The positive affirmation remains beside the closing vanity verdict of 2:26. Sources for
 this addition: stored WEB Ecclesiastes 1:3; 2:18–26; Proverbs 14:23; 31:31.
+
+### The question survives the poem of times — Ecclesiastes 3:9–15
+
+After the catalogue of times, [[A Time for Every Purpose]] again asks what profit the worker
+has (3:9). The passage calls enjoyment in labor God's gift (13), while God's own work endures
+without addition or subtraction (14). Proverbs 14:23 affirms profit in hard work; the
+Preacher continues questioning the worker's gain while acknowledging good received within
+labor. The two claims remain explicit rather than being collapsed into either futility or
+a guarantee of success. Verse 15 also recalls 1:9's recurrence, now attributing the seeking
+of what has passed to God. Sources: stored WEB Proverbs 14:23; Ecclesiastes 1:3, 9; 3:9–15.
 
 ## Significance
 

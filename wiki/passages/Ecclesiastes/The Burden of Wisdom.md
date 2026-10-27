@@ -86,6 +86,9 @@ nation, consistent with Proverbs 1:1's *"king of Israel"*.
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:10–11 repeats the burden and limits the human grasp
+  of God’s work.
+
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; the heading and poem this report follows. 1:12
   repeats the royal identity of 1:1 in the first person.
 - [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]] — Proverbs 3:13,

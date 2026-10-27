@@ -525,7 +525,20 @@ favored person. See [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 Comparison sources: stored WEB Proverbs 13:22; Job 21:7–8; 27:16–17.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+Seeking and losing, keeping and casting away have their times (6). No goods or owner are
+named, so the line is broader than a financial instruction. Alongside the question of labor's
+profit (9), it places acquisition and retention among activities that cannot describe the
+whole of life. Enjoying good in labor remains God's gift (13), without a promise of permanent
+possession.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Keeping and relinquishing within changing
+  times.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   the unknown successor and the sinner gathering for another.

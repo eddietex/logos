@@ -179,7 +179,19 @@ preceding report of grief.
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+The poem gives weeping and mourning their times (4), and the Preacher names the burden God
+has given people (10). These claims remain beside beauty in its time (11) and enjoyment as a
+gift (13). The passage does not explain why a specific person suffers or infer guilt from
+suffering. Its assertion of order does not grant people knowledge of the whole work.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; The burden and the time to weep remain beside
+  enjoyment.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   despair and sleepless grief, not assigned to a named sin.

@@ -283,7 +283,19 @@ person. Job 1:1 and 2:3, 7 affirm such a person while reporting his undeserved r
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+The stated purpose of God's enduring, unalterable work is that people should fear before him
+(14). This fear appears within the Preacher's inquiry, not only in the book's final charge.
+It accompanies the inability to discover God's whole work (11) and the reception of enjoyment
+as a gift (13); it does not confer complete understanding. Compare Job 28:23–28 and Exodus
+20:20 through [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; God’s enduring work calls forth fear.
 
 - [[The Worthy Woman]] — Proverbs 31:30; Fear of Yahweh supplies the final criterion for praise.
 

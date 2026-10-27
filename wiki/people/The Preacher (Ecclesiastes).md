@@ -40,7 +40,16 @@ labor as coming from God's hand (2:24). In the WEB of 2:25 he appeals to his own
 enjoyment. His account of God's giving in 2:26 ends again with vanity; the speaker is not
 identified as the sinner whose accumulation passes to another.
 
+In [[A Time for Every Purpose]] he moves from the catalogue of times to the question of
+profit (3:9), observes the burden God gives (10), and names the limit on knowing God's work
+(11). He also claims to know that rejoicing and doing good are fitting (12), and that God's
+work endures and calls forth fear (14). Limited understanding does not prevent every positive
+claim. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Timeline / key events
+
+- Ecclesiastes 3:1–15 — [[A Time for Every Purpose]] ; the poem of times and the reflection on God’s
+  work.
 
 - Ecclesiastes 1:1–11 — introduced by royal title; the opening tests labor, recurrence,
   satisfaction, and memory. [[Vanity of Vanities]]. This is a literary sequence, not a dated biography.
@@ -54,6 +63,9 @@ identified as the sinner whose accumulation passes to another.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; enduring divine work, limited knowledge, and
+  enjoyment.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; heading and opening verdict.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; first-person report of the inquiry by wisdom.
@@ -69,6 +81,8 @@ identified as the sinner whose accumulation passes to another.
 
 ## Themes associated
 
+- [[The Fear of God]] — the response to God’s enduring work (3:14).
+
 - [[Vanity]] — the opening claim.
 - [[Work]] — what labor gains.
 - [[Wisdom]] — the book's inquiry.
@@ -83,4 +97,4 @@ identified as the sinner whose accumulation passes to another.
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–2:26; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–3:15; Proverbs 1:1–7.

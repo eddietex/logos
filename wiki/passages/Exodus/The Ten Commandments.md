@@ -113,6 +113,10 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:14 also connects God’s action with fear; its
+  catalogue of times is not an exemption from Exodus 20:13. See
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] .
+
 - [[The Words of Agur]] — Proverbs 30:9–11 joins fear of dishonoring God’s name through theft with
   warnings against slander and parental dishonor; compare Exodus 20:7, 12, 15–16. See
   [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .

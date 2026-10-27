@@ -7,6 +7,10 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Ten Commandments]] — Exodus 20:20; fear as the purpose of the encounter.
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
+
 - [[The Worthy Woman]] — Proverbs 31:30.
 
 - [[A Good Name]] — Proverbs 22:4.
@@ -130,6 +134,23 @@ fear of God cannot be inferred from possessions or their loss.
 
 Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
 2026-10-27. No new source-language claim is made in this addition.
+
+### Fear before him within the inquiry — Ecclesiastes 3:14
+
+The fear of God belongs to the Preacher's argument before the book's conclusion.
+[[A Time for Every Purpose]] says God's enduring work is done so that people should fear
+before him (3:14), after saying that they cannot find out his whole work (11). As in Job
+28:23–28, right relation to God does not require possessing God's comprehensive view.
+Ecclesiastes does not repeat the motto equating fear with wisdom, so this is thematic
+continuity, not another instance of the identical formula.
+
+Exodus 20:20 in [[The Ten Commandments]] gives a related purpose for God's coming: fear
+before the people, so that they will not sin. The settings differ: Sinai's frightening
+encounter and commands, and the Preacher's reflection on enduring work. Both associate
+divine action with human fear, while Ecclesiastes 3:12–13 also commends doing good and
+receiving enjoyment. Sources: stored WEB Ecclesiastes 3:11–14; Exodus 20:20; Job 28:23–28.
+The comparison uses the WEB's English and makes no claim about identical source-language
+wording.
 
 ## Significance
 

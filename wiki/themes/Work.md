@@ -434,7 +434,20 @@ See [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+After the catalogue of times, the worker's profit is again questioned (9). God gives the
+burden (10), but also enjoyment of good in labor (13). Human work is thus neither simply
+condemned nor made a means of mastering time. God's work, by contrast, endures without human
+addition or subtraction (14). The contrast with Proverbs 14:23's affirmation of profit stays
+explicit on [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Profit questioned; enjoyment given; God’s work
+  endures.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   skill cannot secure the legacy; enjoyment in labor comes from God.

@@ -228,6 +228,9 @@ reading the world. That is the task 25:2 gave to kings, and the chapter gives it
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:7 sets silence beside speech; see
+  [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] .
+
 - [[Come Up Here - Proverbs 25.6-7 and Luke 14.7-11]] — Proverbs 25:6–7.
 - [[The Secret Things - Proverbs 25.2 and Deuteronomy 29.29]] — Proverbs 25:2–3, 9, 23.
 - [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]] — Proverbs 25:21–22.

@@ -441,7 +441,18 @@ this reading, without a new claim about an alternate Hebrew translation.
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+Verse 7 places keeping silence beside speaking. Neither is the universally right response;
+the verse gives no timetable for selecting between them. Proverbs 15:23 commends a word at
+the right time and 25:11 a fitting word. Read together they locate the good of speech partly
+in its occasion. See [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]].
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Silence and speech each have a time.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Weariness beyond uttering and hearing without fullness.
 

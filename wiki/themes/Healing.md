@@ -136,7 +136,18 @@ saying asks, without answering, what holds up the spirit.
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+The poem assigns a time to kill and a time to heal (3). It names no patient, physician,
+method, or promise that a particular sufferer will recover. Healing is one of life's
+restorative actions, placed beside its destructive counterpart. This differs from the
+conditional health promise at Marah: the poem supplies a catalogue, not a covenant condition.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Healing paired with killing.
 
 - [[A Strong Tower]] — Proverbs 18:14.
 

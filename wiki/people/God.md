@@ -2280,7 +2280,18 @@ asset in her household. Fear of Yahweh gives the praise its religious criterion.
 affirmed fear of God amid undeserved loss (Job 2:3, 7) remains an explicit limit on inferring
 divine approval from prosperity. See [[The Worthy Woman]]. Source: stored WEB.
 
+## His enduring work and the human limit — Ecclesiastes
+
+In [[A Time for Every Purpose]] the Preacher describes God as giver of the burden and of
+enjoyment in labor (3:10, 13). God makes everything beautiful in its time, yet humans cannot
+find out his whole work (11). His work endures beyond addition or subtraction and calls forth
+fear (14); he seeks again what has passed away (15). These are the speaker's claims about
+God, not a new divine speech. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Timeline / key events
+
+- Ecclesiastes 3:1–15 — [[A Time for Every Purpose]] ; the poem of times and the reflection on God’s
+  work.
 
 - Proverbs 31:30 — named in the criterion for the woman’s praise; no new divine act narrated.
 
@@ -2554,6 +2565,9 @@ divine approval from prosperity. See [[The Worthy Woman]]. Source: stored WEB.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; enduring divine work, limited knowledge, and
+  enjoyment.
 
 - [[The Worthy Woman]] — Proverbs 31:30; Yahweh explicitly feared.
 

@@ -211,6 +211,9 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:7 gives silence and speech their times; see
+  [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] .
+
 - [[Where There Is No Vision]] — Proverbs 29:8, 11, 22 extends the anger thread from a gentle answer
   and appeased strife to a city spared, self-control, and wrath multiplying sin. Its lowly spirit
   receiving honor (29:23) also continues 15:33’s relation between humility and honor.

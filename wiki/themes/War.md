@@ -102,7 +102,18 @@ argument is that wisdom outweighs strength because even war is won by counsel. S
 
 See [[Through Wisdom a House Is Built]]. Source: stored WEB Proverbs 24:3–22.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+The final pair is a time for war and a time for peace (8). War belongs to the human world
+the poem describes; no army, enemy, campaign, or command to fight is named. The claim that
+God makes everything beautiful in its time (11) must not be turned into approval of any
+particular war: the passage also denies humans a complete view of God's work.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; War and peace close the poem’s opposing times.
 
 - [[The King's Heart]] — Proverbs 21:22, 31; The wise besieger and the prepared horse.
 

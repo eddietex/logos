@@ -17697,3 +17697,45 @@ fool comparison, without fetching the book into raw. No raw file changed. No Heb
 wording claim was introduced. `scripts/link-check.sh` passed with no wrapped or dangling
 links beyond its expected unstarted-book baseline. Verse-copy, queue/count, title-uniqueness,
 and affected category-row checks passed; no operational issue remains.
+
+## [2026-10-27] ingest | Ecclesiastes 3.1-15 — A Time for Every Purpose
+
+Unattended `/ingest auto`; exactly one pericope. The planned 3:1–15 boundary is retained:
+the catalogue of fourteen pairs belongs with the reflection on profit, limited knowledge,
+enjoyment, and God's enduring work. The next unit, 3:16–22, remains unchecked.
+
+**Interpretive decisions.** Existing themes cover time through Providence, Work, Wisdom,
+and the particular activities in the poem; no new person, place, or theme was needed.
+The general human actors receive no invented identities, and no geographical place is named.
+The Preacher and God both receive synthesis and appearance updates. The poem's killing,
+hatred, and war are not treated as unrestricted commands or exemptions from Exodus 20:13.
+Beauty in its time, the burden, and the limit on finding out God's whole work remain side by
+side, as do the earlier despair and the present invitation to rejoice. The stones, tearing,
+eternity in human hearts, and God's seeking what has passed are discussed without asserting
+an unverified lexical solution or a doctrine the verses do not expressly state.
+
+**Created (2 content pages):** [[A Time for Every Purpose]] and
+[[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]].
+
+**Revised (28 content pages):** [[Ecclesiastes]] (overview, queue, and key themes/people);
+[[The Preacher (Ecclesiastes)]] and [[God]]; fourteen themes (Providence, The Fear of God,
+Joy and Enjoyment, Wisdom, Work, Life and Death, Mourning and Lament, Language and Speech,
+War, Strife and Peacemaking, Love, Healing, Wealth and Possessions, Suffering); four existing
+connections (Higher Than Heaven, The Fear of the Lord Is Wisdom, Mirth and Its Verdict,
+Profit and Remembrance); seven reciprocal passages (The Labor Left to Another, Vanity of
+Vanities, The Burden of Wisdom, Where Shall Wisdom Be Found, A Gentle Answer, The Glory of
+Kings, The Ten Commandments). Pending-ingestion notes for 3:13 now reflect its ingestion.
+
+**Indexes and totals.** Revised nine index pages: books (6 / 24), main dashboard, themes,
+People F-M and N-Z, and Connections D-H, I-N, O-S, T-Z. The new connection files under T,
+ignoring its leading article. Counts by frontmatter type: 193 passages, 187 people, 91 places,
+85 themes, 488 connections. No title collision. This entry is the only log change.
+
+**Sources and validation.** All fifteen primary verses copied verbatim from immutable stored
+WEB Ecclesiastes 3:1–15. Comparisons verified in stored WEB Ecclesiastes 1:3, 9, 13; 2:10–11,
+17–26; Job 28:12–28; Proverbs 14:23; 15:23; 25:11; Exodus 20:13, 20. No external verse quotation,
+new source-language claim, raw modification, or additional raw book was needed.
+`scripts/link-check.sh` passed with no wrapped or dangling links beyond the expected 61
+unstarted-book baseline. Exact verse-copy, single-pericope queue, type-count, title-uniqueness,
+category-row completeness, and new-row filing/order checks passed. No unresolved operational
+issue or workflow compatibility change.

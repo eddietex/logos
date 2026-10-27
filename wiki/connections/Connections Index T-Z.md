@@ -34,6 +34,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] | parallel | Exodus 12:14–20 · Exodus 13:3–10 · Exodus 23:14–19 · Exodus 34:18–26 · Deuteronomy 16:1–17 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]] | literary-parallel | [[Four Things]] (Proverbs 30:15–31) · Proverbs 6:16–19 · Job 5:19 · Amos 1:3 · Amos 2:6 |
 | [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]] | literary-parallel | Proverbs 7:6–7 · Genesis 26:8 · Judges 5:28 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) · [[Isaac in Gerar]] |
+| [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] | thematic-parallel | [[A Gentle Answer]] (Proverbs 15:23) · [[The Glory of Kings]] (Proverbs 25:11) · [[A Time for Every Purpose]] (Ecclesiastes 3:7) |
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |

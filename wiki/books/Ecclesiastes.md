@@ -44,12 +44,17 @@ Yet eating, drinking, and enjoying good in labor come from God's hand (2:24); Go
 knowledge, and joy, and directs the sinner's accumulation to the one who pleases him (2:26).
 The closing vanity verdict remains alongside this affirmation.
 
+[[A Time for Every Purpose]] (3:1–15) sets fourteen pairs of times beside the recurring
+question of labor's profit. God makes everything beautiful in its time, yet humans cannot
+find out his whole work (11). Enjoyment in labor is his gift (13); his work endures and calls
+forth fear (14). Order, burden, limited knowledge, and present enjoyment remain together.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–2:26 currently has ingested passage pages.
+only 1:1–3:15 currently has ingested passage pages.
 
 ## Structure
 
@@ -73,7 +78,7 @@ merge, or reorder them freely.
 - [x] [[The Trial of Pleasure]] — Ecclesiastes 2:1–11
 - [x] [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17
 - [x] [[The Labor Left to Another]] — Ecclesiastes 2:18–26
-- [ ] A Time for Every Purpose — Ecclesiastes 3:1–15
+- [x] [[A Time for Every Purpose]] — Ecclesiastes 3:1–15
 - [ ] From Dust to Dust — Ecclesiastes 3:16–22
 - [ ] The Tears of the Oppressed — Ecclesiastes 4:1–3
 - [ ] Two Are Better Than One — Ecclesiastes 4:4–12
@@ -95,6 +100,9 @@ merge, or reorder them freely.
 
 ## Key themes
 
+- [[Providence]] — God’s enduring work exceeds the observer’s knowledge (3:11–15).
+- [[The Fear of God]] — the purpose named for God’s enduring work (3:14).
+
 - [[Vanity]] — the opening verdict and its recurring tests.
 - [[Work]] — the question of gain and the possibility of enjoyment.
 - [[Wisdom]] — valuable, yet unable to master every outcome.
@@ -105,6 +113,8 @@ merge, or reorder them freely.
 - [[Light and Darkness]] — wisdom excels folly as light excels darkness (2:13).
 
 ## Key people
+
+- [[God]] — giver of burden and enjoyment; his work endures (3:10–15).
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

@@ -314,7 +314,18 @@ and the preceding verse gives the remedy: stop before pressing.
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+Peace closes the catalogue as war's counterpart (8). No disputants or negotiations are
+narrated, so this adds a reflection on peace's place in human experience rather than another
+example of a settlement. It does not say that peace is always impossible, or authorize war
+whenever someone claims its time has come.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Peace has its time beside war.
 
 - [[Four Things]] — Proverbs 30:33; Churning, wringing, forcing: wrath produces strife.
 

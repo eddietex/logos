@@ -440,7 +440,19 @@ name a good within life without promising control beyond it.
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+The poem begins with a time to be born and a time to die (2), and then names killing and
+healing (3). These are recurring conditions and actions within life; the poem does not give
+an individual a date of death or instruct anyone to end a life. The WEB's eternity in human
+hearts (11) is immediately paired with limited understanding, and is not an explicit promise
+of an immortal soul or an account of what happens after death.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Birth and death frame the catalogue of times.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   mortality’s consequence for the legacy; enjoyment within life.

@@ -113,7 +113,20 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[A Gentle Answer]]. Source: stored WEB Proverbs 15.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+Weeping stands beside laughter and mourning beside dancing (4). Grief has a place in the
+poem's account of life; the later commendation of rejoicing (12) does not erase that place.
+Tearing and sewing occur in verse 7, but the verse names no garment or funeral. A mourning
+association is possible, not established by the wording. No prescribed duration of mourning
+is supplied here.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Weeping and mourning have their time beside
+  joy.
 
 - [[A Gentle Answer]] — Proverbs 15:13, 15.
 

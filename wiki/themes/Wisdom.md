@@ -631,7 +631,21 @@ to control what comes after the worker stand together.
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+Although wisdom is not named in these verses, the Preacher's inquiry reaches an explicit
+limit: people cannot find out God's work from beginning to end (11). Yet he claims to know
+that rejoicing and doing good are fitting (12), and that God's work endures (14). This is a
+limit on comprehensive knowledge, not a denial of all knowledge. Job 28:23–28 similarly
+reserves wisdom's full perspective to God while giving people the fear of the Lord and
+turning from evil. See [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Understanding cannot encompass God’s whole
+  work.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   skill cannot secure succession; wisdom and knowledge remain gifts.

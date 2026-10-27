@@ -253,7 +253,19 @@ ends in vanity even while naming God as giver.
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+God gives the burden (10), makes everything beautiful in its time (11), and gives enjoyment
+in labor (13). His work endures without human addition or subtraction (14). Yet people cannot
+find it out from beginning to end (11). The passage asserts order without granting observers
+the ability to explain each event. Verse 15 attributes the return of what has passed to God;
+the WEB does not explain how that seeking operates.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; God’s work endures beyond human mastery.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   God gives enjoyment and directs the sinner’s accumulation to another.

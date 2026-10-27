@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
+
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–3, 10–11.
 - [[A Way That Seems Right]] — Proverbs 14:13.
 - [[The King's Heart]] — Proverbs 21:17.
 - [[Wine Is a Mocker]] — Proverbs 20:1.
-- Ecclesiastes 3:13; 5:18–19; 7:4; 8:15 *(not yet ingested)*.
+- Ecclesiastes 5:18–19; 7:4; 8:15 *(not yet ingested)*.
 
 ## Analysis
 
@@ -59,6 +61,17 @@ profit. Enjoyment is acknowledged within the unresolved problem, and the closing
 verdict remains. Reading this as received gift rather than secured gain is an interpretation
 of the juxtaposition, not an explicit distinction stated by the text. Source: stored WEB
 Ecclesiastes 2:18–26.
+
+### Enjoyment within the times — Ecclesiastes 3:1–15
+
+[[A Time for Every Purpose]] now supplies the second ingested commendation. Weeping and
+laughter, mourning and dancing each have a time (3:4); rejoicing and doing good are commended
+(12), and eating, drinking, and enjoying good in labor are God's gift (13). The question of
+profit (9), the burden (10), and limited understanding (11) remain in the same unit. The
+affirmation is therefore not a denial of grief or a guarantee that pleasure makes the whole
+work intelligible. It strengthens the reading of enjoyment as a present gift without
+establishing that the earlier trial achieved lasting gain. Source: stored WEB Ecclesiastes
+3:1–15; 2:10–11, 24–26.
 
 ## Significance
 

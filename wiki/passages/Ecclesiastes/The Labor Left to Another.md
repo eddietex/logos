@@ -84,6 +84,9 @@ geographical location.
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:9–15 renews the profit question and calls enjoyment
+  in labor God’s gift.
+
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17; the common death of wise and
   fool becomes the problem of what the survivor will do with the predecessor's labor.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:10–11; joy was already a portion of labor even

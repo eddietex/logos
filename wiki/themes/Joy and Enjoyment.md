@@ -44,13 +44,24 @@ See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
 ### Ahead in Ecclesiastes
 
-Not yet ingested, recorded from stored WEB: 3:13 calls eating, drinking, and enjoying good
-in labor *"the gift of God"*; 5:18–19 calls it
-one's portion; 6:2 describes a man given wealth but not the power to eat of it; 7:4 puts the heart
+Not yet ingested, recorded from stored WEB: 5:18–19 calls enjoyment one's portion; 6:2 describes a man given wealth but not the power to eat of it; 7:4 puts the heart
 of fools in the house of mirth; 8:15 says *"Then I commended mirth"*; 9:7 says *"eat your bread with
 joy."* These pull in more than one direction and will be kept side by side as they are ingested.
 
+### A time for every purpose — Ecclesiastes 3:1–15
+
+Weeping and laughter, mourning and dancing each have their time (4). The Preacher then
+commends rejoicing and doing good during life (12), and eating, drinking, and enjoying good
+in labor as God's gift (13). The claim stands beside the burden (10) and the limit on human
+understanding (11). It develops 2:24 without retracting 2:11's denial of profit: joy can be
+received within the limits that the inquiry exposes.
+
+See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
+
 ## Key passages
+
+- [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Rejoicing and enjoyment received as God’s
+  gift.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   eating, drinking, and enjoyment in labor attributed to God.

@@ -179,6 +179,9 @@ king over all the sons of pride"* (41:34).
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:11–14 joins limited understanding with fear before
+  God; see [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] .
+
 - [[The Burden of Wisdom]] — Ecclesiastes 1:13–18; a king who finds great wisdom and reports its grief, where the hymn
   finds wisdom hidden. See [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
 - [[The Words of Agur]] — Proverbs 30:2–4 likewise connects the limits of human understanding with

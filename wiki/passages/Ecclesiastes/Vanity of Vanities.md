@@ -86,6 +86,9 @@ river, sea, or travel itinerary is supplied.
 
 ## Cross-references
 
+- [[A Time for Every Purpose]] — Ecclesiastes 3:9, 15 returns to gain and recurrence, now naming
+  God’s seeking of what has passed.
+
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–11; 2:11's *"no profit under the sun"* is the
   first direct answer to the question of 1:3.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; the Preacher restates his royal identity in
