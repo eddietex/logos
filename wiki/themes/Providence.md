@@ -263,7 +263,19 @@ the WEB does not explain how that seeking operates.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The language of a time for every purpose and work in 3:17 now accompanies the affirmation
+that God judges, even while wickedness occupies the places of justice (16). Verse 18 also
+attributes the disclosure of human animal-like mortality to God's testing. These are the
+Preacher's reflections on what God does, not a new divine speech or an explanation of why
+every particular injustice has been permitted.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; A time for judgment beside observed injustice.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; God’s work endures beyond human mastery.
 

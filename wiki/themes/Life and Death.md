@@ -450,7 +450,20 @@ of an immortal soul or an account of what happens after death.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The common end of wise and fool in 2:14–16 broadens to humans and animals (3:19–20).
+The denial of human advantage is set within their shared death and dust, not an explicit
+revocation of Genesis 1:26–28's image and dominion. Verse 21 asks about the spirits' destinations
+in the WEB; it does not assert either that different destinations are known or that further
+life is impossible. The later affirmation of 12:7 remains a distinct claim in stored text.
+See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Humans and animals share breath, death, and return to dust.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Birth and death frame the catalogue of times.
 

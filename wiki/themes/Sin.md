@@ -284,7 +284,18 @@ before the sayings describe others. It does not assign every poor or rich person
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+Wickedness appears where justice and righteousness should be found (16). The observation
+concerns a public failure without identifying a particular offender or mechanism. Verse 17
+answers with divine judgment; the text does not say that animals die for personal wrongdoing
+when it later compares their end with humanity's (19–20).
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Wickedness within the institutions meant to judge it.
 
 - [[The Words of Agur]] — Proverbs 30:6, 8–14.
 

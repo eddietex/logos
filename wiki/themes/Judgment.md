@@ -427,7 +427,18 @@ See [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]].
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+Wickedness occupies the places of justice and righteousness (16), yet the Preacher says God
+will judge righteous and wicked (17). This is an explicit tension between what the observer
+sees and what he affirms, not a report of a court already repaired. Judgment has its time,
+but the unit supplies neither a date nor an express location before or after death.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Corrupt justice observed; God’s judgment affirmed.
 
 - [[The Words of King Lemuel]] — Proverbs 31:4–5, 8–9; Remembering the law and judging righteously
   protect the poor from distorted verdicts.

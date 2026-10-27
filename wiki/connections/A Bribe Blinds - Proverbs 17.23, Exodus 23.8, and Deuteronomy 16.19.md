@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22.
+
 - [[Where There Is No Vision]] — Proverbs 29:4, 7, 12, 14, 26.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:21.
@@ -127,6 +129,16 @@ from a lawsuit to the condition of a whole polity, without claiming direct quota
 
 See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
 source-language claim.
+
+### Wickedness in the place of justice — Ecclesiastes 3:16–17
+
+[[From Dust to Dust]] reports wickedness where justice and righteousness should be found.
+Exodus 23:6–8 forbids denying justice, false charges, and bribes; Proverbs 17:15, 23 condemns
+reversed verdicts and the bribe that perverts justice. Ecclesiastes observes a failure of
+the kind those texts oppose, without identifying a bribe or naming an offender. Its answer
+is that God will judge righteous and wicked at the appropriate time (3:17), not that every
+human court is already just. Sources: stored WEB Ecclesiastes 3:16–17; Exodus 23:6–8;
+Proverbs 17:15, 23. This addition makes no source-language claim.
 
 ## Significance
 

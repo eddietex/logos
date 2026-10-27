@@ -642,7 +642,18 @@ turning from evil. See [[Higher Than Heaven, Deeper Than Sheol - The Measure of 
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The questions about who knows the spirits' destinations (21) and who can show a person
+what follows him (22) continue the limit on comprehension in 3:11. This is not total skepticism:
+the same speaker affirms God's judgment (17) and commends rejoicing (22). Discernment includes
+recognizing the boundary of observation rather than supplying a detailed afterlife account.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Questions about spirit and the future mark the limit of knowing.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Understanding cannot encompass God’s whole
   work.

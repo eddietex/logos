@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
@@ -72,6 +74,15 @@ affirmation is therefore not a denial of grief or a guarantee that pleasure make
 work intelligible. It strengthens the reading of enjoyment as a present gift without
 establishing that the earlier trial achieved lasting gain. Source: stored WEB Ecclesiastes
 3:1–15; 2:10–11, 24–26.
+
+### A portion before an unseen future — Ecclesiastes 3:22
+
+[[From Dust to Dust]] again commends rejoicing, now after observed injustice and the shared
+death of humans and animals. One's works are the setting and one's portion is the limit;
+the concluding question asks who can show a person what will follow. Unlike 3:13, this
+verse does not expressly repeat the gift formula. It continues enjoyment within unresolved
+limits rather than providing the lasting gain denied in 2:11. Source: stored WEB Ecclesiastes
+2:10–11; 3:13, 16–22.
 
 ## Significance
 

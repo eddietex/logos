@@ -309,7 +309,17 @@ This is a thematic comparison, not a claim that the poem uses a particular right
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The place of righteousness contains wickedness (16). Verse 17 still distinguishes righteous
+and wicked as those whom God will judge. A corrupt verdict therefore does not define who is
+right, and the shared mortality described afterward does not abolish moral accountability.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; The righteous and wicked remain distinguishable before judgment.
 
 - [[The Worthy Woman]] — Proverbs 31:12, 20, 26, 30–31; Doing good and caring for the needy give an ethical shape to praise.
 

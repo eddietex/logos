@@ -96,6 +96,9 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Ecclesiastes 3:17 takes the language of time, purpose, and work into
+  the question of corrupt justice; 3:22 continues the commendation of enjoyment.
+
 - [[The Labor Left to Another]] — 2:24's enjoyment from God's hand becomes 3:13's gift.
 - [[Vanity of Vanities]] — 1:3's question of gain and 1:9's recurrence return at 3:9, 15.
 - [[The Burden of Wisdom]] — 1:13's burden reappears at 3:10; 3:11 names the limit on finding out.
@@ -116,7 +119,7 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 **Boundary.** The planned 3:1–15 unit is retained. Verses 9–15 interpret the poem through
 labor, knowledge, enjoyment, and God's work. Verse 16 begins a new observation about
-wickedness in the place of justice; that next pericope remains unchecked.
+wickedness in the place of justice; that pericope is now ingested as [[From Dust to Dust]].
 
 **Times and moral judgment.** Naming a time to kill, hate, or wage war does not identify a
 permitted victim, an object of hatred, or a justified campaign. The tension with moral

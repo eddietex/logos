@@ -49,12 +49,17 @@ question of labor's profit. God makes everything beautiful in its time, yet huma
 find out his whole work (11). Enjoyment in labor is his gift (13); his work endures and calls
 forth fear (14). Order, burden, limited knowledge, and present enjoyment remain together.
 
+[[From Dust to Dust]] (3:16–22) observes wickedness where justice belongs and affirms God's
+judgment. Humanity's shared breath, death, and dust with animals expose its limits; the WEB
+asks about the spirits' destinations. Rejoicing in works remains a portion without knowledge
+of what follows. The question here and 12:7's later affirmation remain distinct.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–3:15 currently has ingested passage pages.
+only 1:1–3:22 currently has ingested passage pages.
 
 ## Structure
 
@@ -79,7 +84,7 @@ merge, or reorder them freely.
 - [x] [[The Wise and the Fool Share One End]] — Ecclesiastes 2:12–17
 - [x] [[The Labor Left to Another]] — Ecclesiastes 2:18–26
 - [x] [[A Time for Every Purpose]] — Ecclesiastes 3:1–15
-- [ ] From Dust to Dust — Ecclesiastes 3:16–22
+- [x] [[From Dust to Dust]] — Ecclesiastes 3:16–22
 - [ ] The Tears of the Oppressed — Ecclesiastes 4:1–3
 - [ ] Two Are Better Than One — Ecclesiastes 4:4–12
 - [ ] The Youth and the Old King — Ecclesiastes 4:13–16
@@ -99,6 +104,9 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Judgment]] — corrupt justice observed, divine judgment affirmed (3:16–17).
+- [[Testing]] — humanity brought to recognize its likeness to animals (3:18–20).
 
 - [[Providence]] — God’s enduring work exceeds the observer’s knowledge (3:11–15).
 - [[The Fear of God]] — the purpose named for God’s enduring work (3:14).

@@ -85,6 +85,9 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Ecclesiastes 3:19–20 extends the shared end from wise and fool to
+  humans and animals, while 3:17 retains divine judgment.
+
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26; the laborer's successor may be wise or
   foolish, and enjoyment in labor is attributed to God without securing the legacy.
 

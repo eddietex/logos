@@ -154,6 +154,9 @@ and the walking in the cool of the day.
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Genesis 3:19’s return to dust compared with Ecclesiastes 3:20’s shared
+  human and animal end. See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
 - [[The Earth Remains - Genesis and Ecclesiastes 1]] —
   Labor until the return to dust compared with the question of labor’s gain; Ecclesiastes does not retell the curse. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

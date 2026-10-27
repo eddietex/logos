@@ -506,7 +506,19 @@ See [[Stored for the Righteous - Proverbs 13.22 and Job 27.16-17]].
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 Comparison sources: stored WEB Proverbs 13:22; Job 21:7–8; 27:16–17.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The Preacher sees wickedness in the place of justice (16) and says God judges righteous
+and wicked (17). The following account of shared human and animal death (19–20) does not
+present mortality as proof of an individual's guilt. Future judgment is affirmed, but its
+time and manner are unspecified. This keeps accountability alongside the failure of visible
+outcomes to supply a transparent verdict.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Divine judgment affirmed without reading death as a moral verdict.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   the sinner gathers for the person who pleases God; competing outcomes retained.

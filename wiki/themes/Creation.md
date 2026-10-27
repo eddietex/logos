@@ -215,7 +215,19 @@ world. See [[The Earth Remains - Genesis and Ecclesiastes 1]].
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+Humans and animals alike are from dust and return to dust (20); shared breath and death
+explain the comparison (19). Genesis 2:7, 19 already connects both to the ground. Ecclesiastes
+uses that creaturely commonality to question human advantage, without presenting a fresh
+creation narrative or saying creation itself is evil.
+See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Common origin in dust and shared creaturely mortality.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Earth and recurring natural movements outlast their human observers.
 

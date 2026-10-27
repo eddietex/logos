@@ -84,6 +84,9 @@ geographical location.
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Ecclesiastes 3:22 again commends rejoicing in works as a portion
+  without knowledge of what will follow a person.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:9–15 renews the profit question and calls enjoyment
   in labor God’s gift.
 

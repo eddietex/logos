@@ -132,7 +132,19 @@ is applied to praise from others. See
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 17:3; 27:21; Hebrew from Sefaria.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The WEB says God tests human beings so that they see themselves as like animals (18).
+Shared breath, death, and dust explain the comparison (19–20). This is a general disclosure
+of creaturely limitation, not a narrated ordeal with an individually named protagonist.
+The comparison with other biblical tests is thematic; this page makes no claim that the
+Hebrew verb here is the verb discussed in its earlier Genesis material.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; God tests humanity to reveal its likeness to animals.
 
 - [[A Dry Morsel with Quietness]] — Proverbs 17:3.
 

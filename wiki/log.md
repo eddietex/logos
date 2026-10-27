@@ -17739,3 +17739,46 @@ new source-language claim, raw modification, or additional raw book was needed.
 unstarted-book baseline. Exact verse-copy, single-pericope queue, type-count, title-uniqueness,
 category-row completeness, and new-row filing/order checks passed. No unresolved operational
 issue or workflow compatibility change.
+
+## [2026-10-27] ingest | Ecclesiastes 3.16-22 — From Dust to Dust
+
+Unattended `/ingest auto`; exactly one pericope. Retained the planned 3:16–22 boundary:
+corrupt justice, divine judgment, humanity's likeness to animals, and rejoicing in works
+form one reflection. Ecclesiastes 4:1–3 remains unchecked for the next invocation.
+
+**Interpretive decisions.** [[From Dust to Dust]] keeps observed injustice beside affirmed
+judgment and shared mortality beside the distinction between righteous and wicked. The WEB's
+question about the spirits' destinations in 3:21 remains a question. The verified later
+statement in 12:7 is compared without replacing that questioning voice or being ingested
+ahead of its turn. Genesis's image and dominion and Ecclesiastes' denial of advantage in
+shared death remain explicitly distinguished, without declaring either cancelled. No new
+individual or geographical place is named; existing themes cover the unit, including the
+return to dust without an invented burial scene. The testing discussion makes no claim that
+the Hebrew verb is the one used in the earlier Genesis testing material. Enjoyment remains
+a present portion beside vanity, rather than a guarantee of lasting profit.
+
+**Created (2 content pages):** [[From Dust to Dust]] and
+[[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
+**Revised (28 content pages):** [[Ecclesiastes]]; [[God]] and
+[[The Preacher (Ecclesiastes)]]; fourteen themes (Judgment, Righteousness, Sin, Testing,
+Life and Death, Burial and the Grave, Wisdom, Vanity, Work, Joy and Enjoyment, Creation,
+Image of God, Providence, Retribution); three connections (One Event Happens to Them All,
+A Bribe Blinds, Mirth and Its Verdict); eight reciprocal passages (The Creation of the World,
+The Garden of Eden, The Fall, A Time for Every Purpose, The Wise and the Fool Share One End,
+The Labor Left to Another, Why Do the Wicked Live, Justice, Sabbaths, and Feasts).
+The existing mortality connection and the preceding passage now reflect this ingestion.
+
+**Indexes and totals.** Revised nine index pages: books (7 / 24), main dashboard, themes,
+People F-M and N-Z, and Connections A-C, D-H, I-N, O-S. The new connection files under D.
+Counts by frontmatter type: 194 passages, 187 people, 91 places, 85 themes, 489 connections.
+This entry is the only log change, for 40 wiki files created or revised in the pass.
+
+**Sources and validation.** All seven primary verses copied verbatim from immutable stored
+WEB Ecclesiastes 3:16–22. Comparisons checked in stored WEB Genesis 1:26–28; 2:7, 19;
+3:17–19; Job 21:23–26; Exodus 23:6–8; Proverbs 17:15, 23; Ecclesiastes 2:1–26; 3:1–15;
+12:7, 14. No external verse quotation, new source-language claim, raw modification, or
+additional raw book was needed. `scripts/link-check.sh` passed: no wrapped or dangling
+links beyond the expected 61 unstarted-book baseline. Exact verse-copy, single-pericope
+queue, type-count, title-uniqueness, category-row completeness, and new-row filing/order
+checks passed. No unresolved operational issue or workflow compatibility change.

@@ -128,6 +128,9 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Exodus 23:6–8 forbids corrupt judgment; Ecclesiastes 3:16–17
+  observes wickedness where justice belongs and affirms God’s judgment.
+
 - [[The Words of King Lemuel]] — Proverbs 31:8–9 calls for advocacy and righteous judgment; Exodus
   23:3, 6 preserves impartiality alongside the poor person’s right; see
   [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] .

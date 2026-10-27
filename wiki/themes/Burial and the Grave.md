@@ -84,7 +84,19 @@ assumption is that a body left out is a person left out.**
   as a fact in the creedal summary of 1 Corinthians 15:4 (*"that he was buried"*), because an empty
   tomb requires a full one first.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+All return to dust (20), whether human or animal. No grave is acquired, funeral narrated,
+or burial custom prescribed. The shared destination humbles human advantage, but the unit
+does not name Sheol or map the spirits' destinations: verse 21 asks a question in the WEB.
+The material return and the question about spirit must not be collapsed into a single
+assertion that the text itself does not make.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Return to dust without a narrated burial.
 
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23: the theme's founding text, and the reason it
   is a property theme before it is a funerary one. A hundred twenty-seven years, one verse of

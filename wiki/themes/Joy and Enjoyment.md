@@ -58,7 +58,19 @@ received within the limits that the inquiry exposes.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+After corrupt justice and shared death, the Preacher commends rejoicing in one's works
+as one's portion (22). The uncertainty about what follows gives this commendation its setting.
+The hatred of life in 2:17 and the vanity of 3:19 are not retracted: enjoyment coexists with
+those findings. Here the focus is works, rather than an explicit repetition of eating and
+drinking or of the gift formula in 3:13.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Present enjoyment commended within mortality and uncertainty.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Rejoicing and enjoyment received as God’s
   gift.

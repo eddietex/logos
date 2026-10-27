@@ -77,6 +77,9 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Genesis 1:26–28’s image and dominion beside the shared mortality of
+  humans and animals in Ecclesiastes 3:19–20. See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
 - [[The Earth Remains - Genesis and Ecclesiastes 1]] —
   Genesis’s good creation and rest compared with the Preacher’s recurring world and weary observers. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

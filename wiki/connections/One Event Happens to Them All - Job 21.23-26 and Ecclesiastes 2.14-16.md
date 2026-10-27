@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22.
+
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:14–16.
 - [[Why Do the Wicked Live]] — Job 21:23–26.
 - [[The Two Paths]] — Proverbs 4:18–19.
-- Ecclesiastes 3:19–20 and 9:2–5 *(not yet ingested)*.
+- Ecclesiastes 9:2–5 *(not yet ingested)*.
 
 ## Analysis
 
@@ -51,6 +53,15 @@ Scripture belongs to other pages; it is not read back into these verses here.
 Sources: all quotations checked in stored WEB Job 21:23–26; Ecclesiastes 2:13–17; 3:19–20; 9:2;
 Proverbs 4:18–19, on 2026-10-27. This comparison makes no claim about shared Hebrew vocabulary or
 literary dependence between Job and Ecclesiastes.
+
+### The comparison reaches animals — Ecclesiastes 3:16–22
+
+[[From Dust to Dust]] now places shared mortality inside a unit that first affirms God's
+judgment (17). The paired deaths of humans and animals (19–20) make it impossible to treat
+death by itself as a verdict identifying personal guilt. The WEB's question about spirit
+(21) is not a settled denial of any further existence. Verse 22 responds with enjoyment in
+works, unlike 2:17's hatred of life; both responses remain in the book. Sources: stored WEB
+Ecclesiastes 2:14–17; 3:16–22; Job 21:23–26.
 
 ## Significance
 

@@ -2288,7 +2288,14 @@ find out his whole work (11). His work endures beyond addition or subtraction an
 fear (14); he seeks again what has passed away (15). These are the speaker's claims about
 God, not a new divine speech. Source: stored WEB Ecclesiastes 3:1–15.
 
+In [[From Dust to Dust]] the Preacher says God will judge righteous and wicked (3:17), despite
+wickedness in the places of justice (16). He also attributes humanity's recognition of its
+likeness to animals to God's testing (18–20). Neither assertion supplies a timetable of
+judgment or a divine explanation of particular injustices. Source: stored WEB Ecclesiastes 3:16–22.
+
 ## Timeline / key events
+
+- Ecclesiastes 3:16–22 — [[From Dust to Dust]]; affirmed as judge and tester of humanity.
 
 - Ecclesiastes 3:1–15 — [[A Time for Every Purpose]] ; the poem of times and the reflection on God’s
   work.
@@ -2565,6 +2572,8 @@ God, not a new divine speech. Source: stored WEB Ecclesiastes 3:1–15.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; judgment and testing in the Preacher’s reflection.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; enduring divine work, limited knowledge, and
   enjoyment.

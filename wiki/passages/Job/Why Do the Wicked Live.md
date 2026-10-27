@@ -289,6 +289,9 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Job 21:23–26’s different lives end alike in dust; Ecclesiastes
+  3:19–20 broadens the comparison to humans and animals without withdrawing 3:17’s judgment.
+
 - [[Where There Is No Vision]] — Proverbs 29:6, 16 gives the righteous gladness and a sight of the
   wicked’s downfall; Job 21:7–13 describes wicked people secure, joyful, and prosperous into old
   age. The opposed outcomes remain explicit; neither text supplies a timetable that dissolves the

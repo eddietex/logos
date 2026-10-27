@@ -60,7 +60,18 @@ verdict must be kept beside enjoyment, without quietly cancelling either stateme
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+The verdict returns in 3:19, attached to the shared fate and breath of humans and animals.
+Verse 20 explains their return to dust. The statement does not make every action morally
+indifferent: God judges righteous and wicked (17). Nor does it cancel rejoicing in work (22).
+Mortality, judgment, and enjoyment stand together without an explanation that dissolves them.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; The verdict attaches to humanity’s lack of advantage in death.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   repeated verdicts surround the affirmation of enjoyment from God.

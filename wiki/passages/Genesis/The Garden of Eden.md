@@ -111,6 +111,9 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 
 ## Cross-references
 
+- [[From Dust to Dust]] — Genesis 2:7, 19’s creatures from the ground beside Ecclesiastes 3:19–21’s
+  common breath, dust, and question about spirit. See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Genesis 2:9 and Proverbs 3:18; the tree of life
   becomes an image of wisdom.
 

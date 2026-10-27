@@ -46,7 +46,14 @@ profit (3:9), observes the burden God gives (10), and names the limit on knowing
 work endures and calls forth fear (14). Limited understanding does not prevent every positive
 claim. Source: stored WEB Ecclesiastes 3:1–15.
 
+In [[From Dust to Dust]] he observes corrupt justice, affirms God's judgment, and describes God's
+testing of humanity through its likeness to animals (3:16–20). He asks about the spirits'
+destinations (21) and commends rejoicing in works despite the unseen future (22). The
+questioning voice and the positive affirmations remain together. Source: stored WEB Ecclesiastes 3:16–22.
+
 ## Timeline / key events
+
+- Ecclesiastes 3:16–22 — [[From Dust to Dust]]; injustice, judgment, shared mortality, and a present portion.
 
 - Ecclesiastes 3:1–15 — [[A Time for Every Purpose]] ; the poem of times and the reflection on God’s
   work.
@@ -63,6 +70,8 @@ claim. Source: stored WEB Ecclesiastes 3:1–15.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; observer of injustice and shared mortality.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; enduring divine work, limited knowledge, and
   enjoyment.
@@ -81,6 +90,9 @@ claim. Source: stored WEB Ecclesiastes 3:1–15.
 
 ## Themes associated
 
+- [[Judgment]] and [[Righteousness]] — corrupt courts and God’s judgment (3:16–17).
+- [[Testing]] — seeing humanity’s likeness to animals (3:18).
+
 - [[The Fear of God]] — the response to God’s enduring work (3:14).
 
 - [[Vanity]] — the opening claim.
@@ -97,4 +109,4 @@ claim. Source: stored WEB Ecclesiastes 3:1–15.
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–3:15; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–3:22; Proverbs 1:1–7.

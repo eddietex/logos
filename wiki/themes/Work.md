@@ -444,7 +444,18 @@ explicit on [[Profit and Remembrance - Proverbs and Ecclesiastes 1]].
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+Verse 17 places every work within the scope of God's judgment; verse 22 commends rejoicing
+in one's works as one's portion. The worker cannot be brought to see what comes afterward.
+This continues the enjoyment of 2:24 and 3:13 within limited knowledge, without guaranteeing
+control over a legacy or a lasting surplus from labor.
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Rejoicing in works as a portion despite the unseen future.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Profit questioned; enjoyment given; God’s work
   endures.

@@ -69,7 +69,20 @@ dominion given in 1:28, not a reward for exercising it.
   the New Testament's turn to Christ as *the* image (2 Corinthians 4:4, Colossians 1:15, Hebrews 1:3)
   into which people are remade (Romans 8:29).
 
+### From dust to dust — Ecclesiastes 3:16–22
+
+Genesis 1:26–28 grants humanity image and dominion; Ecclesiastes 3:19 says humans have no
+advantage over animals in a passage describing their common breath and death. These emphases
+are in tension, and neither should disappear from the synthesis. The latter does not mention
+the image or explicitly revoke it. A reading that limits the denied advantage to mortality
+follows the immediate context; it is not a claim that the Preacher has restated the image doctrine.
+See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
+See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
+
 ## Key passages
+
+- [[From Dust to Dust]] — Ecclesiastes 3:16–22; Human distinction set beside the denial of advantage in death.
 
 - [[The Creation of the World]]
 - [[The Garden of Eden]] — the naming of the animals, and the "not good" of aloneness
