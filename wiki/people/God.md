@@ -2293,7 +2293,15 @@ wickedness in the places of justice (16). He also attributes humanity's recognit
 likeness to animals to God's testing (18–20). Neither assertion supplies a timetable of
 judgment or a divine explanation of particular injustices. Source: stored WEB Ecclesiastes 3:16–22.
 
+In [[Let Your Words Be Few]] God is the one whose house the worshipper enters (5:1), who is in
+heaven while the speaker is on earth (2), who *"has no pleasure in fools"* (4), and whose anger
+at an unpaid vow can destroy the work of the speaker's hands (6). The unit ends with the book's
+first command to the reader: *"you must fear God"* (7). These are the Preacher's instructions
+about God, not a divine speech. Source: stored WEB Ecclesiastes 5:1–7.
+
 ## Timeline / key events
+
+- Ecclesiastes 5:1–7 — [[Let Your Words Be Few]]; in heaven, owed paid vows, and to be feared.
 
 - Ecclesiastes 3:16–22 — [[From Dust to Dust]]; affirmed as judge and tester of humanity.
 
@@ -2572,6 +2580,8 @@ judgment or a divine explanation of particular injustices. Source: stored WEB Ec
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; God's house, God in heaven, the vow, and the fear of God.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; judgment and testing in the Preacher’s reflection.
 

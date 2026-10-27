@@ -331,6 +331,8 @@ it is false.
 - Luke 17:10; Romans 11:35 — the unprofitable servant, and *"who has first given to him?"* (Job
   41:11).
 - 1 Kings 9:28; 10:11; Genesis 10:29 — Ophir.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:4–5; paying vows to God. See
+  [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 
 ## Notes
 

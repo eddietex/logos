@@ -202,7 +202,18 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 See [[Cloud and Fire - From the Sea to the Filled Tabernacle]] for the cloud’s continuing guidance and differing access.
 
+### God’s house and God in heaven — Ecclesiastes 5:1–2
+
+The worshipper goes *"to God’s house"* (1), yet is told that *"God is in heaven, and you on
+earth"* (2). The house is where one draws near to listen; the distance is the reason for few
+words. The unit names no building or city, and the wiki does not identify the house with a
+particular sanctuary.
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1–2; Going to God's house, while God is in heaven.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Outer equipment and court made; erection and filling remain distinct.
 

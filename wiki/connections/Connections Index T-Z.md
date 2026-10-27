@@ -34,7 +34,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] | parallel | Exodus 12:14–20 · Exodus 13:3–10 · Exodus 23:14–19 · Exodus 34:18–26 · Deuteronomy 16:1–17 · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Three Transgressions, Yes Four - Proverbs 30 and Amos 1-2]] | literary-parallel | [[Four Things]] (Proverbs 30:15–31) · Proverbs 6:16–19 · Job 5:19 · Amos 1:3 · Amos 2:6 |
 | [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]] | literary-parallel | Proverbs 7:6–7 · Genesis 26:8 · Judges 5:28 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) · [[Isaac in Gerar]] |
-| [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] | thematic-parallel | [[A Gentle Answer]] (Proverbs 15:23) · [[The Glory of Kings]] (Proverbs 25:11) · [[A Time for Every Purpose]] (Ecclesiastes 3:7) |
+| [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] | thematic-parallel | [[A Gentle Answer]] (Proverbs 15:23) · [[The Glory of Kings]] (Proverbs 25:11) · [[A Time for Every Purpose]] (Ecclesiastes 3:7) · [[Let Your Words Be Few]] (Ecclesiastes 5:2) |
 | [[The Tithe Before the Law]] | thread | Genesis 14:20 · Genesis 28:20–22 · Leviticus 27:30–33 · Numbers 18:21–32 · Deuteronomy 14:22–29 · Nehemiah 10:37–39 · Amos 4:4 · Malachi 3:8–10 · Matthew 23:23 · Hebrews 7:1–10 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
@@ -116,7 +116,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[With Harshness - Exodus 1.13-14 and Leviticus 25]] | thread | Exodus 1:13–14, 17 · Leviticus 25:43, 46, 53 · Leviticus 25:42, 55 |
 | [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]] | Revelation and law-keeping beside the calf episode’s lost restraint; comparison without a claim of direct quotation | [[Where There Is No Vision]] · [[The Golden Calf]] |
 | [[The Witness in Heaven]] | thread | Job 9:32–33 · Job 16:19–21 · Job 17:3 · Job 19:25–27 · Job 33:23–24 · Zechariah 3:1–5 · 1 Timothy 2:5 · Hebrews 7:25 · 1 John 2:1 · Job 40:2 |
-| [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 |
+| [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]] | thread | Job 34:35 · Job 35:16 · Job 36:4, 12; 37:16 · Job 38:2 · Job 42:3, 7 · Job 15:2–3 · Job 40:8 · [[Let Your Words Be Few]] (Ecclesiastes 5:2–3) |
 | [[A Worm and No Man - Job 25.6, Psalm 22.6, and Isaiah 41.14]] | image | Job 25:5–6 · Job 7:5 · Job 17:14 · Job 21:26 · Job 24:20 · Psalm 22:1, 6 · Job 30:9–10, 20 · Matthew 27:46 · Isaiah 41:14 · Isaiah 66:24 · Mark 9:48 · Acts 12:23 |
 | [[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]] | verbal-parallel | [[Whoever Loves Correction]] · [[The Worthy Woman]] · Ruth 3:11 (WEB and Hebrew verified; not yet ingested) |
 | [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 · Exodus 4:24–27 |

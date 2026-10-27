@@ -68,7 +68,7 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
   God … Of all that you will give me I will surely give a tenth to you"* (Genesis 28:20–22). It is
   a bargain, and Scripture does not rebuke it. See [[Tithing]].
 - **The law regulates rather than discourages.** A vow is optional, but once made it binds:
-  *"When you vow a vow to God, don't defer to pay it … It is better that you should not vow, than
+  *"When you vow a vow to God, don’t defer to pay it … It is better that you should not vow, than
   that you should vow and not pay"* (Ecclesiastes 5:4–5; compare Deuteronomy 23:21–23). Numbers 30
   governs women's vows within a household; Leviticus 27 sets redemption values; Numbers 6 defines
   the Nazirite vow. And the third commandment guards the misuse of the name an oath invokes
@@ -146,7 +146,21 @@ from the phrase alone.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The vow before God — Ecclesiastes 5:4–6
+
+The Preacher restates the law of vows as wisdom. A vow to God is to be paid without delay,
+*"for he has no pleasure in fools"* (4); not vowing is better than vowing and not paying (5); and
+an unpaid vow must not be excused *"before the messenger"* as *"a mistake"* (6). The WEB of
+Deuteronomy 23:21–23 makes the same three points in the same order. Ecclesiastes adds the
+preceding warning against a heart *"hasty to utter anything before God"* (2), which joins
+Proverbs 20:25's snare of the rash dedication. See
+[[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:4–6; Pay the vow, and better not to vow than to vow and not pay.
 
 - [[The Words of King Lemuel]] — Proverbs 31:2; The mother calls Lemuel the son of her vows without
   explaining their terms.

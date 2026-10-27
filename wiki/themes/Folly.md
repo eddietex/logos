@@ -358,7 +358,18 @@ ruler, with the added note that the capacity once existed. See [[The Youth and t
 [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]]. Source: stored WEB
 Ecclesiastes 4:13; Proverbs 12:15; 15:5, 32.
 
+### Fools in God's house — Ecclesiastes 5:1–4
+
+The fool appears three times in the unit. Fools offer sacrifice without knowing that they do
+evil (1); a fool's speech is known by its multitude of words (3); and God *"has no pleasure in
+fools"*, the motive given for paying a vow without delay (4). Folly here is a failure of
+attention in worship: speaking and offering instead of listening.
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1–4; The sacrifice of fools, their many words, and God's displeasure.
 
 - [[The Youth and the Old King]] — Ecclesiastes 4:13; An old king's folly is his refusal of admonition.
 

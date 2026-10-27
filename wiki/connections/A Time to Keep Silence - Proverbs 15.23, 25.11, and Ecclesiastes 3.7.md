@@ -10,6 +10,7 @@ tags: [connection]
 - [[A Gentle Answer]] — Proverbs 15:23.
 - [[The Glory of Kings]] — Proverbs 25:11.
 - [[A Time for Every Purpose]] — Ecclesiastes 3:7, within 3:1–15.
+- **Ecclesiastes 5:2** — *"Therefore let your words be few."* — [[Let Your Words Be Few]]
 
 ## Analysis
 
@@ -34,6 +35,11 @@ Appropriate human action therefore need not depend on a comprehensive view of al
 This is a thematic comparison of verified WEB wording, not a claim of quotation, shared
 Hebrew vocabulary, or direct literary dependence. Sources: stored WEB Proverbs 15:23; 25:11;
 Ecclesiastes 3:1–15, checked 2026-10-27.
+
+**Ecclesiastes 5:2** names one place where the time for few words always applies: before God,
+*"for God is in heaven, and you on earth."* See
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]]. Source: stored
+WEB Ecclesiastes 5:2.
 
 ## Significance
 

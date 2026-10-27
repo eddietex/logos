@@ -304,7 +304,19 @@ oppressed morally indistinguishable.
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### The mouth that leads into sin — Ecclesiastes 5:6
+
+*"Don’t allow your mouth to lead you into sin. Don’t protest before the messenger that this was
+a mistake."* An unpaid vow is sin by the speaker's own mouth, and calling it *a mistake* —
+*šəḡāḡâ*, the term for an unintentional sin, in the Mechon-Mamre Masoretic text read
+2026-10-27 — is a second fault. Verse 1 adds that fools *"don’t know that they do evil"* even
+while sacrificing.
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1, 6; The mouth leading into sin, and an unpaid vow excused as a mistake.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Evil work associated with oppression, not blamed on the victims.
 

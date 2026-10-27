@@ -26,6 +26,8 @@ tags: [connection]
   speeches with which he can do no good?"* — [[Eliphaz's Second Speech]]
 - **Job 40:8** — *"Will you condemn me, that you may be justified?"*, God asking
   the question Elihu asked at 34:17 — [[Behemoth and Leviathan]]
+- **Ecclesiastes 5:2–3** — *"let your words be few. For as a dream comes with a multitude of cares,
+  so a fool’s speech with a multitude of words."* — [[Let Your Words Be Few]]
 
 ## Analysis
 
@@ -104,6 +106,12 @@ The first speaker to fault Job's words was Eliphaz, and his terms are the same: 
 (*daʿat-rûaḥ*, windy knowledge) and *"unprofitable talk"* (15:2–3). The difference between Eliphaz and
 God is not the observation but the tone and the sequel. Eliphaz's question was rhetorical; God's is
 the beginning of four chapters of questions Job is meant to try to answer.
+
+**Ecclesiastes 5:2–3** states a general rule that bears on the charge against Job's words:
+before God, whose place is heaven, words should be few, and the fool is known by many. It does
+not settle Job's case, which 42:7 also judges in his favor. See
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]]. Source: stored
+WEB Ecclesiastes 5:2–3.
 
 ## Significance
 

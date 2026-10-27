@@ -189,6 +189,8 @@ and [[Suffering]].
 - [[Answer a Fool]] — Proverbs 26:3, 6, 26: the rod for the back, the errand sent by a fool, and hatred that covers itself. See [[Love Covers Wrongs - Proverbs 10.12, 1 Peter 4.8, and James 5.20]].
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:16, *"of the wise man, even as of the fool, there is no memory for
   ever"*, sharpens the tension with 10:7.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:2–3; 10:19's multitude of words taken into God's
+  house. See [[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
 
 ## Notes
 

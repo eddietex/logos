@@ -281,7 +281,18 @@ conduct over offering without abolishing offering. See
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; supporting comparisons are documented on
 the passage page.
 
+### The sacrifice of fools — Ecclesiastes 5:1
+
+*"To draw near to listen is better than to give the sacrifice of fools, for they don’t know that
+they do evil"* (1). Like Proverbs 21:3, 27 and 1 Samuel 15:22, the verse ranks rather than
+abolishes: sacrifice is assumed, and the fault lies in the offerer who brings it without
+listening. See [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, and Hosea 6.6]].
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1; Drawing near to listen ranked above the sacrifice of fools.
 
 - [[The King's Heart]] — Proverbs 21:3, 27; Justice ranked above sacrifice; the wicked man's offering refused.
 

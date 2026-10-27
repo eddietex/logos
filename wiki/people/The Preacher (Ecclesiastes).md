@@ -69,7 +69,15 @@ be king though born poor (14), sees all the living with the successor (15), and 
 popularity vanity because those who come after will not rejoice in him (16). Though he himself
 speaks as a king (1:12), the story is told of others, not as autobiography.
 
+In [[Let Your Words Be Few]] he gives the reader direct commands for the first time. Guard your
+steps in God's house, draw near to listen rather than offer the sacrifice of fools (5:1), let
+your words be few because God is in heaven (2), pay what you vow (4–5), and do not excuse an
+unpaid vow as a mistake (6). He ends with *"you must fear God"* (7). The observer of the earlier
+chapters becomes a teacher here.
+
 ## Timeline / key events
+
+- Ecclesiastes 5:1–7 — [[Let Your Words Be Few]]; first direct instruction: few words, paid vows, and the fear of God.
 
 - Ecclesiastes 4:13–16 — [[The Youth and the Old King]]; the wise youth ranked above the foolish king, and a successor's passing popularity.
 
@@ -94,6 +102,8 @@ speaks as a king (1:12), the story is told of others, not as autobiography.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; teacher of conduct in God's house.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:4–12; observer of envy, solitude, and companionship.
 

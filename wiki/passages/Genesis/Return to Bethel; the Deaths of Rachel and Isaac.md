@@ -595,6 +595,9 @@ shown getting either of them back.
 - 1 Chronicles 5:1–2 — the birthright's redistribution stated outright
 - [[The Restoration of Job]] — Job 42:17: *"So Job died, being old and full of days"* — Isaac's formula of 35:29; and
   42:11's *nezem zāhāb*, the ring of the kind buried at 35:4.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:4; the vow paid without delay. Jacob's altar at
+  Bethel (35:1–7) is the narrative's partial payment of 28:20–22; see
+  [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 
 ## Notes
 

@@ -188,6 +188,8 @@ reverses fortunes; it is not developed into a theory of substitution here.
 - [[A Good Name]] — Proverbs 22:10 drives out the mocker whose punishment 21:11 makes a lesson.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12, *"he who weighs the hearts"*, 21:2's title; 24:21, the king feared with Yahweh.
 - [[The Glory of Kings]] — Proverbs 25:2–3, 24, the king who searches and cannot be searched; 21:9 repeated at 25:24.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1; drawing near to listen ranked above the sacrifice
+  of fools, beside 21:3, 27.
 
 ## Notes
 

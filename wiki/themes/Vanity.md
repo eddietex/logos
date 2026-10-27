@@ -85,7 +85,18 @@ youth stands; what is *"vanity and a chasing after wind"* (16) is that the count
 him are followed by those who *"shall not rejoice in him."* See [[The Youth and the Old King]]. Source: stored WEB
 Ecclesiastes 4:13–16.
 
+### Many dreams and many words — Ecclesiastes 5:7
+
+For the first time the verdict falls on religious speech: *"in the multitude of dreams there are
+vanities, as well as in many words"* (7). The plural *vanities* is the book's keyword *heḇel*
+(Mechon-Mamre's Masoretic text, read 2026-10-27). The verse sets against them the command *"you
+must fear God"*, which is not called vanity.
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:7; Vanities in many dreams and many words, against the fear of God.
 
 - [[The Youth and the Old King]] — Ecclesiastes 4:16; Vanity over a successor's passing popularity.
 

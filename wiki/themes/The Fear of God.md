@@ -293,7 +293,19 @@ as a gift (13); it does not confer complete understanding. Compare Job 28:23–2
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### Fear God — Ecclesiastes 5:7
+
+After warnings about hasty words and unpaid vows in God's house, the unit ends: *"For in the
+multitude of dreams there are vanities, as well as in many words: but you must fear God"* (7).
+3:14 said God acts *"that men should fear before him"*; here the fear becomes the book's first
+command to the reader, and the one thing in the unit not called vanity. 12:13 will return to it
+as the conclusion.
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; The book's first command to fear God, set against many words.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; God’s enduring work calls forth fear.
 

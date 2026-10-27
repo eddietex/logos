@@ -84,6 +84,8 @@ sun* (15) gives the scope of the observation.
   stored WEB, with its pericope still awaiting ingestion.
 - Ecclesiastes 10:5–7, 16–17 — the error of rulers, servants on horses, and a land whose king is
   a child; checked in stored WEB, with its pericope still awaiting ingestion.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; the following unit. After a king who no longer
+  receives admonition, the instruction to draw near to listen.
 
 ## Notes
 

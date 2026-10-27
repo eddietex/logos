@@ -19,6 +19,8 @@ tags: [connection]
   offerings."* *(WEB verified at bible-api.com; not yet ingested)*
 - **Micah 6:8** — *"What does Yahweh require of you, but to act justly, to love mercy, and to walk
   humbly with your God?"* *(WEB verified at bible-api.com; not yet ingested)*
+- **Ecclesiastes 5:1** — *"to draw near to listen is better than to give the sacrifice of fools, for
+  they don’t know that they do evil."* — [[Let Your Words Be Few]]
 
 ## Analysis
 
@@ -41,6 +43,11 @@ end. That fits the situation 15:22 answers, where an offering is invoked as an e
 
 Sources: stored WEB Proverbs 15:8; 21:3, 27. 1 Samuel 15:22, Hosea 6:6, and Micah 6:8 quoted from
 the WEB at bible-api.com (2026-10-26). No claim about Hebrew vocabulary is made.
+
+**Ecclesiastes states it as wisdom too.** Ecclesiastes 5:1 ranks drawing near *to listen* above
+the sacrifice of fools, as 1 Samuel 15:22 ranks listening above the fat of rams in the WEB. The
+fault, again, is in the offerer: fools *"don’t know that they do evil."* No claim is made that
+the two verses share Hebrew vocabulary. Source: stored WEB Ecclesiastes 5:1.
 
 ## Significance
 

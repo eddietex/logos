@@ -20,6 +20,8 @@ tags: [connection]
   your peace offerings"*
 - **Exodus 24:5** — [[The Blood of the Covenant]]: young men *"sacrificed peace offerings of cattle
   to Yahweh"*
+- **Ecclesiastes 5:4** — *"When you vow a vow to God, don’t defer to pay it; for he has no pleasure
+  in fools. Pay that which you vow."* — [[Let Your Words Be Few]]
 
 ## Analysis
 
@@ -54,6 +56,11 @@ rash-vow narrative.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+**Ecclesiastes 5:4–6** gives the positive rule that Proverbs 7:14 abuses: a vow is to be paid
+without delay, and an unpaid one is not to be excused as a mistake. See
+[[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]]. Source:
+stored WEB Ecclesiastes 5:4–6.
 
 ## Significance
 

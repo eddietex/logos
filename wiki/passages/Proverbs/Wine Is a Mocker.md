@@ -209,6 +209,8 @@ images, not identifiable locations requiring place pages.
 - [[The Field of the Sluggard]] — Proverbs 24:29, *"Don't say, 'I will do to him as he has done to me.'"*
 - [[The Glory of Kings]] — Proverbs 25:9, 12, 22, the confidence not revealed, the hearing ear, and Yahweh who repays (*šillēm*, the verb of 20:22).
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:13, a repeat of 20:16 with small Hebrew differences.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:2–6; the heart hasty to utter before God, and the
+  unpaid vow. See [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 
 ## Notes
 

@@ -450,7 +450,20 @@ in its occasion. See [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Eccle
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### Few words before God — Ecclesiastes 5:1–7
+
+The Preacher's first direct instructions are about speech in God's house. The mouth is not
+to be rash nor the heart hasty, *"for God is in heaven, and you on earth. Therefore let your words
+be few"* (2). A fool's speech is known by its multitude of words, as a dream comes from many
+cares (3), and the mouth can lead the flesh into sin through a vow it then calls a mistake (6).
+Many words are judged vanities (7). See
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:2–7; Few words before God, and the fool's multitude of words.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Silence and speech each have a time.
 

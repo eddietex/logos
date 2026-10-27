@@ -188,7 +188,18 @@ petition for bread in Matthew 6:11.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Few words before God — Ecclesiastes 5:2
+
+*"Don’t let your heart be hasty to utter anything before God; for God is in heaven, and you on
+earth. Therefore let your words be few"* (2). The verse limits the quantity and haste of speech
+before God; it does not forbid prayer. The setting is God's house (1), and the speech the unit
+goes on to discuss is the vow (4–6).
+
+See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
 
 - [[The Words of Agur]] — Proverbs 30:7–9.
 

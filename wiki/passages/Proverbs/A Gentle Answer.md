@@ -259,6 +259,7 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 - [[The Field of the Sluggard]] — Proverbs 24:30–31, the sluggard's field grown over with thorns.
 - [[The Glory of Kings]] — Proverbs 25:11, 15, the word fitly spoken and the *soft* (*rakkāh*) tongue, the adjective of 15:1.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:20, Sheol and Abaddon again, never satisfied rather than open before Yahweh.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:1; the sacrifice of fools, who do not know they do evil.
 
 ## Notes
 

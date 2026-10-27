@@ -17921,3 +17921,49 @@ in 4:13; *bêṯ hāsûrîm* and *rāš* in 4:14; *hayyeleḏ haššēnî ʾăš
 Hebrew claim is made for the Genesis or Proverbs comparisons. No raw text changed.
 `scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected 61 unstarted-book
 baseline.
+
+## [2026-10-27] ingest | Ecclesiastes 5.1-7 — Let Your Words Be Few
+
+Unattended `/ingest auto` by Claude; exactly one pericope. Retained the planned 5:1–7 boundary:
+verse 1 opens with a command after 4:16's vanity refrain, verse 7 closes with *"you must fear
+God"*, and 5:8 turns back to observation of oppression. The next pericope, Ecclesiastes 5:8–20,
+remains unchecked.
+
+**Interpretive decisions.** [[Let Your Words Be Few]] treats the unit as the book's first direct
+instruction to the reader. *God’s house* is not identified with the Jerusalem temple or linked to a
+place page, since the unit names none. The *messenger* of 5:6 is left unidentified (priest or
+temple official, angel, or a stand-in for God are recorded as readings); he gets no person page.
+The dreams of 5:3, 7 are read as an analogy for many words, not as revelatory dreams. The page
+notes that English 5:1 is Hebrew 4:17 and follows the WEB's numbering. The parallel between
+Ecclesiastes 5:1 and 1 Samuel 15:22 is drawn on the WEB's English only, with no shared-Hebrew claim.
+No new person, place, or theme page was needed.
+
+**Created (3 content pages):** [[Let Your Words Be Few]];
+[[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]];
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
+
+**Revised (26 content pages):** [[Ecclesiastes]]; [[The Preacher (Ecclesiastes)]]; [[God]]; nine
+themes (Oaths and Vows, Language and Speech, Sacrifice and Offering, The Fear of God, The Dwelling
+of God, Prayer, Folly, Sin, Vanity); four connections (Justice More Than Sacrifice, Peace Offerings
+and Paid Vows, A Time to Keep Silence, Words Without Knowledge); ten reciprocal passages (Jacob's
+Ladder at Bethel, Return to Bethel, Eliphaz's Third Speech, A Wise Son Makes a Glad Father, A Gentle
+Answer, A Dry Morsel with Quietness, Wine Is a Mocker, The King's Heart, A Time for Every Purpose,
+The Youth and the Old King). On Oaths and Vows, an existing quotation of Ecclesiastes 5:4 was
+corrected to the WEB's curly apostrophe (*don’t*).
+
+**Indexes and totals.** Revised eight index pages: books (11 / 24), main dashboard, themes, People
+F-M and N-Z, and Connections I-N (new row under I), O-S (new row under P), T-Z. Counts by
+frontmatter type: 198 passages, 187 people, 91 places, 85 themes, 496 connections.
+
+**Sources and validation.** All seven primary verses copied verbatim from immutable stored WEB
+Ecclesiastes 5:1–7 (diffed against the raw file). Comparisons checked in stored WEB Ecclesiastes
+1:13; 3:7, 10, 14; 4:16; 5:8; 12:13; Genesis 28:20–22; 35:1, 3, 7; Job 22:27; 42:7; Proverbs 10:19;
+15:8; 17:27–28; 20:25; 21:3, 27. Deuteronomy 23:21–23 verified in the WEB at bible-api.com on
+2026-10-27 and not stored; 1 Samuel 15:22 reused from the existing connection page's verified
+quotation. Judges 11 and 1 Samuel 14 cited by reference only. Hebrew claims (*šəmōr raḡləḵā* with
+written *raḡlêḵā* and *qārôḇ lišmōaʿ* at Hebrew 4:17; *yihyû ḏəḇārêḵā məʿaṭṭîm* at 5:1; *ʿinyān*
+at 5:2; *lip̄nê hammalʾāḵ* and *šəḡāḡâ* at 5:5; *hăḇālîm* and *ʾeṯ-hāʾĕlōhîm yərāʾ* at 5:6) were
+read in Mechon-Mamre's Masoretic text of Ecclesiastes 4–5 on 2026-10-27; the *ʿinyān* link to 1:13
+and 3:10 is qualified on the passage page as not rechecked in Hebrew. No raw text changed.
+`scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected 61 unstarted-book
+baseline.

@@ -117,6 +117,8 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
   25:11 commend fitting speech; 3:7 also gives silence a time.
 - [[The Ten Commandments]] — Exodus 20:13 prohibits murder; 20:20 connects God's action with fear
   that restrains sin. Neither permits treating the poem as an unrestricted license to kill.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:2, 7; few words before God, and the command to fear God
+  that 3:14 anticipates.
 
 ## Notes
 

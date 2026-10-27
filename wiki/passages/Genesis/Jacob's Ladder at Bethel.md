@@ -558,6 +558,8 @@ warrant they all appeal to**, and nothing in Genesis 28 authorises any of it. Se
   added to the promise.
 - Hebrews 11:21 — the epistle's one notice of Jacob's faith, and it is at his deathbed rather than
   here.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:4–6; pay what you vow to God without delay. See
+  [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 
 ## Notes
 

@@ -309,6 +309,9 @@ and [[The Prosperity of the Wicked]].
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18, no rejoicing at an enemy's fall, after 17:5.
 - [[The Field of the Sluggard]] — Proverbs 24:24, the wicked told *"You are righteous"*.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:10, 21, the brother not turned to in disaster, against 17:17; and 17:3's crucible and furnace with praise as the test.
+- [[Let Your Words Be Few]] — Ecclesiastes 5:2–3; few words before God and the fool's many words,
+  beside 17:27–28. See
+  [[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
 
 ## Notes
 
