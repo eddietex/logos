@@ -352,6 +352,9 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 compresses oppression into tears and unequal power.
+  See [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
+
 - [[A Gentle Answer]] — Proverbs 15:25, Yahweh keeping the widow's borders, against 24:2–3's moved landmarks and taken ox; see [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]].
 - [[Whoever Loves Correction]] — Proverbs 12:11, 24 commends diligent work; Job 24:5–11 prevents diagnosing hungry workers as lazy.
 

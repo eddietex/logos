@@ -51,7 +51,15 @@ testing of humanity through its likeness to animals (3:16–20). He asks about t
 destinations (21) and commends rejoicing in works despite the unseen future (22). The
 questioning voice and the positive affirmations remain together. Source: stored WEB Ecclesiastes 3:16–22.
 
+In [[The Tears of the Oppressed]] he turns from rejoicing in works (3:22) to victims' tears and the
+power of their oppressors (4:1). He praises the dead above the living, and judges the person
+who has not yet existed better off than either for not seeing evil (4:2–3). This is his
+response to observed oppression, not a report that he himself has died or a command to die.
+The tension with his preceding commendation of enjoyment remains explicit.
+
 ## Timeline / key events
+
+- Ecclesiastes 4:1–3 — [[The Tears of the Oppressed]]; observed oppression and the severe comparison of lives.
 
 - Ecclesiastes 3:16–22 — [[From Dust to Dust]]; injustice, judgment, shared mortality, and a present portion.
 
@@ -70,6 +78,8 @@ questioning voice and the positive affirmations remain together. Source: stored 
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; tears, power, and no comforter.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; observer of injustice and shared mortality.
 
@@ -90,6 +100,8 @@ questioning voice and the positive affirmations remain together. Source: stored 
 
 ## Themes associated
 
+- [[Mourning and Lament]], [[Compassion and Mercy]], and [[The Poor and the Vulnerable]] — tears without comfort (4:1).
+
 - [[Judgment]] and [[Righteousness]] — corrupt courts and God’s judgment (3:16–17).
 - [[Testing]] — seeing humanity’s likeness to animals (3:18).
 
@@ -109,4 +121,4 @@ questioning voice and the positive affirmations remain together. Source: stored 
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–3:22; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–4:3; Proverbs 1:1–7.

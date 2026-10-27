@@ -258,7 +258,21 @@ complement to justice, without substituting gifts for fair judgment.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+Ecclesiastes 4:1 identifies vulnerability through the imbalance of power and the absence
+of comfort. It does not specify that every victim is poor, a widow, or an orphan. The
+promise of a hearing in Exodus 22:21–27 and the observed absence of help here remain in
+tension; neither text is rewritten to match the other. Job 24:1–12 supplies a detailed
+parallel of exploitation without visible redress; see
+[[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Power with oppressors; victims without a comforter.
 
 - [[The Worthy Woman]] — Proverbs 31:20; The productive household extends its hands beyond its own members.
 

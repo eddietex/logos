@@ -78,6 +78,9 @@ and dust do not identify a new geographical location. Sheol is not named in this
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 continues the observation of injustice, now with tears
+  and power, and sets a severe preference for death beside 3:22’s enjoyment.
+
 - [[A Time for Every Purpose]] — 3:17 applies the language of time, purpose, and work to judgment.
 - [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]] — Genesis 1:26–28; 2:7, 19; 3:19 and the human-animal comparison.
 - [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]] — shared mortality
@@ -94,8 +97,7 @@ and dust do not identify a new geographical location. Sheol is not named in this
 
 **Boundary.** The planned 3:16–22 unit is retained. Verse 16 begins a new observation after
 the poem of times; verse 17 takes up its language of time, purpose, and work. Verse 22 closes
-with an inference about enjoyment. The next observation, the tears of the oppressed in 4:1,
-remains for the next ingestion.
+with an inference about enjoyment. The next observation is now recorded in [[The Tears of the Oppressed]] (4:1–3).
 
 **Justice promised, injustice observed.** Verse 17 does not deny verse 16. Nor does the shared
 death of humans and animals in 19–20 erase the moral distinction between righteous and wicked

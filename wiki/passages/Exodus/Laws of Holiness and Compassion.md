@@ -120,6 +120,9 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3’s victims lack comfort, while Exodus 22:21–27
+  promises that God hears the vulnerable; neither statement erases the other.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:8 pictures exploitative interest ultimately
   benefiting someone who pities the poor. Its WEB qualifier “excessive” must not rewrite Exodus
   22:25’s prohibition.

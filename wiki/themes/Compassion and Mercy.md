@@ -248,7 +248,20 @@ household’s boundary does not mark the boundary of its concern.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The repeated absence of a comforter (1) places this unit on the side of compassion needed
+and not received. It describes tears and the oppressors' power, without prescribing a
+particular consoling speech or recording an emotion of mercy in the observer. Job's failed
+comforters are present; these victims lack one. See [[Comforters Who Do Not Comfort]].
+This extension is thematic and makes no claim about shared Hebrew terms.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; The missing comforter within an unequal distribution of power.
 
 - [[The Worthy Woman]] — Proverbs 31:20, 26; Generosity accompanies wise instruction.
 

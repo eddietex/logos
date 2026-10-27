@@ -461,7 +461,20 @@ See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+After seeing oppression, the Preacher praises the dead above the living and the one who
+has not yet been above both (2–3), because the latter has not seen evil. This is not a command
+to die or a description of the dead's conscious condition. It stands in explicit tension
+with enjoyment in 3:22 and the hope of the living in 9:4 (the latter checked in stored WEB,
+not yet ingested). The stillborn comparison in 6:3–5 is distinct from 4:3's wording.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; The dead and never-existent preferred in response to oppression.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Humans and animals share breath, death, and return to dust.
 

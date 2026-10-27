@@ -17782,3 +17782,54 @@ additional raw book was needed. `scripts/link-check.sh` passed: no wrapped or da
 links beyond the expected 61 unstarted-book baseline. Exact verse-copy, single-pericope
 queue, type-count, title-uniqueness, category-row completeness, and new-row filing/order
 checks passed. No unresolved operational issue or workflow compatibility change.
+## [2026-10-27] ingest | Ecclesiastes 4.1-3 — The Tears of the Oppressed
+
+Unattended `/ingest auto` by Codex; exactly one pericope. Retained the planned 4:1–3 boundary:
+the observation of oppression leads to the two comparative judgments. The next pericope,
+Ecclesiastes 4:4–12, remains unchecked.
+
+**Interpretive decisions.** [[The Tears of the Oppressed]] preserves the repeated absence of
+comfort and the oppressors' power without inventing a specific ruler, institution, place,
+or guilt for the victims. The Preacher is the only identified speaker; God is not mentioned
+in these three verses. Existing themes cover the unit, so no new person, place, or theme
+was needed. The preference for the dead and the never-existent remains beside the enjoyment
+of 3:22, the affirmed judgment of 3:17, and the later hope of the living in 9:4. No later
+pericope was ingested to make those comparisons. Ecclesiastes 4:3's person who has not yet
+been is distinguished from the explicit stillborn comparison in 6:3–5.
+
+**Created (2 content pages):** [[The Tears of the Oppressed]] and
+[[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
+
+**Revised (23 content pages):** [[Ecclesiastes]]; [[The Preacher (Ecclesiastes)]]; ten themes
+(Suffering, Mourning and Lament, Life and Death, The Poor and the Vulnerable, Compassion and
+Mercy, Joy and Enjoyment, Judgment, Retribution, Sin, Work); four connections (Comforters Who
+Do Not Comfort, Cursing the Day of Birth, A Great Cry, Mirth and Its Verdict); seven reciprocal
+passages (From Dust to Dust, A Time for Every Purpose, Let the Day Perish, Oh That I Knew Where
+I Might Find Him, The Burning Bush, Laws of Holiness and Compassion, Miserable Comforters and
+the Witness in Heaven).
+
+**Corrections in affected connections.** The birth-lament page formerly said nobody was cursed
+in either Job 3 or Jeremiah 20 while also describing Jeremiah's curse on a man. Verified WEB
+Jeremiah 20:15–16 supports the latter claim; the contradiction is explicitly corrected on
+the page. The former ranking of Hebrew curse terms is withdrawn because no source-language
+edition was verified for that assertion. Its historical unavailable-source note now distinguishes
+verification from ingestion. The comfort page no longer asserts an unverified identical Hebrew
+formula across Psalm 69, Lamentations 1, and Ecclesiastes 4 or equates absent comfort with
+physical solitude. The Job 3 page's compressed stillborn comparison and source note are updated.
+Existing Jonah, 1 Kings, and Matthew comparison references in the birth-lament page remain
+identified as not newly verified; no wording from them is quoted or treated as verified here.
+
+**Indexes and totals.** Revised eight index pages: books (8 / 24), main dashboard, themes,
+People N-Z, and Connections A-C, D-H, I-N, O-S. The new connection files under P. Counts by
+frontmatter type: 195 passages, 187 people, 91 places, 85 themes, 490 connections. This entry
+is the only log change, for 34 wiki files created or revised in the pass.
+
+**Sources and validation.** All three primary verses copied verbatim from immutable stored
+WEB Ecclesiastes 4:1–3. Comparisons checked in stored WEB Ecclesiastes 3:12–22; 4:4; 6:3–5;
+9:4; Job 3:1–26; 10:18–19; 16:1–5; 24:1–12; Exodus 2:23–25; 3:7–9; 22:21–27. Jeremiah
+20:14–18 was verified against bible-api.com with `translation=web` on 2026-10-27, without
+adding a raw book. No raw text changed and no new source-language claim was introduced.
+`scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected 61
+unstarted-book baseline. Exact verse-copy, single-pericope queue, type-count, title-uniqueness,
+category-row completeness and filing, and new-row order checks passed. No unresolved operational
+issue or harness compatibility change.

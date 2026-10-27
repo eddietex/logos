@@ -7,98 +7,81 @@ tags: [connection]
 
 ## Passages involved
 
-- Job 3:1–12 — [[Let the Day Perish]]
-- Jeremiah 20:14–18 — the close of the last of Jeremiah's "confessions"
-- Job 10:18–19 — the same complaint restated, and this time addressed to God —
-  [[There Is No Umpire Between Us]]
-- Ecclesiastes 4:2–3, 6:3–5 — the dead preferred to the living, the stillborn to both
-- Jonah 4:3, 8 · 1 Kings 19:4 — the Bible's other requests to die, which are a different request
+- [[Let the Day Perish]] — Job 3:1–26; birth cursed and rest in death imagined.
+- Jeremiah 20:14–18 — the day of birth and its messenger cursed; WEB verified through
+  bible-api.com with `translation=web` on 2026-10-27; the book is not yet ingested.
+- [[There Is No Umpire Between Us]] — Job 10:18–19; the wish to have passed from womb to grave.
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; the dead and never-existent preferred.
+- Ecclesiastes 6:3–5 — the stillborn preferred to a long-lived man without satisfaction;
+  checked in stored WEB, not yet ingested.
+- Jonah 4:3, 8; 1 Kings 19:4; Matthew 26:24 — further comparison references retained from the
+  earlier page; their wording is not newly verified or quoted in this revision.
 
 ## Analysis
 
-**Two men in the Hebrew Bible curse the day they were born. Nobody else does, anywhere, and the two
-passages run through the same material in almost the same order.**
+**Job and Jeremiah direct lament toward the beginning of life.** Job curses the day of his
+birth, then wishes darkness upon the day and night associated with his conception (3:1–10).
+He asks why he did not die at birth (11–12), imagines rest among the dead (13–19), and asks
+why life is given to sufferers who long for death (20–26). Jeremiah 20:14–18 curses his
+birth day, withholds blessing from the day his mother bore him, curses the messenger who
+announced a son, and asks why he came from the womb to experience sorrow and shame.
 
-> **Job 3:3** "Let the day perish in which I was born, the night which said, 'There is a boy
-> conceived.'
+The parallels include the announcement of a child, the wish not to have emerged from the
+womb, and a closing question about life in misery. Job 3:16 imagines an untimely birth that
+never saw light; Jeremiah 20:17 imagines his mother's womb as his grave. These are related
+images, not interchangeable descriptions. The longer Job poem also imagines a society in
+which the weary rest, prisoners do not hear the taskmaster, and the servant is free (3:17–19).
 
-**Jeremiah 20:14–18 is not quoted here.** Jeremiah has not been ingested and
-`raw/bible/Jeremiah.md` does not exist, so the wiki has no verified WEB text for it; the summaries
-below describe the verses rather than reproduce them, and are to be replaced with quotations when
-Jeremiah is fetched. See the Notes.
+**The targets differ.** Job 3:1 names a day as the object of his curse. Jeremiah 20:15
+explicitly curses the man who brought the birth announcement, and verse 16 wishes disaster
+on him. Neither passage explicitly curses the speaker's parents or God. The earlier version
+of this page said that nobody was cursed in either passage, then described Jeremiah's curse
+on a man. That was a contradiction: the verified WEB supports the second claim. The
+messenger's anonymity does not make him a nonperson, and the text does not establish whether
+he was still alive when the words were spoken.
 
-**The correspondences are close enough to need explaining.**
+**No ranking of Hebrew curse terms is established here.** The earlier page contrasted a
+supposedly mild Job verb with Jeremiah's stronger formula. This revision has verified the
+WEB comparisons, not a source-language edition for those forms. It therefore makes no
+lexical claim that Job deliberately chose the weakest available curse. The explicit targets
+and the structure of the complaints can be compared without that unverified inference.
 
-| | Job 3 (quoted) | Jeremiah 20 (described) |
-|---|---|---|
-| The day of birth cursed | 3:3 | 20:14 — the day of his birth cursed, and the day his mother bore him denied a blessing |
-| An announcer of the birth | *"the night which said, 'There is a boy conceived'"* (3:3) | 20:15 — the man who carried the news to his father that a son was born |
-| The announcer cursed rather than the parents | the night | the messenger, on whom 20:16 wishes the overthrow of Sodom |
-| The womb should have stayed shut | *"it didn't shut up the doors of my mother's womb"* (3:10) | 20:17 — that he was not killed in the womb |
-| The womb as a permanent grave | *"or as a hidden untimely birth I had not been"* (3:16) | 20:17 — his mother as his grave, her womb left forever pregnant |
-| A closing *why* | *"Why is light given to him who is in misery?"* (3:20) | 20:18 — why he came out of the womb at all, to see trouble and sorrow |
-| God not addressed | the whole chapter is third-person | 20:14–18 drops the second-person address of 20:7–13 |
+**Ecclesiastes makes a different comparison.** In [[The Tears of the Oppressed]], the
+Preacher sees other people's tears and the oppressors' power (4:1). He praises the dead above
+the living (2) and the one who has not yet been above both, because that one has not seen
+evil (3). Unlike Job and Jeremiah, he does not curse his own birth day or name a birth
+messenger. The relation is a shared judgment about exposure to suffering, not the repetition
+of a birth-curse formula.
 
-**Nobody is cursed in either passage.** Both men are scrupulous about the target, and both aim at
-someone who is not a person: **Job curses a date and a night; Jeremiah curses a date and a man who
-is never identified and may be long dead.** Neither curses his mother, his father, or God. **The
-elaborate misdirection is the shared structure** — the rage is total and the object is chosen
-precisely so that nothing can be hurt by it.
+Ecclesiastes 6:3–5 explicitly introduces a stillborn child and compares it with a man whose
+many years and children do not bring satisfaction. Ecclesiastes 4:3 instead speaks of one
+who has not yet been. The earlier page's compressed description blurred these two claims;
+both are now distinguished from Job 3:16's untimely birth.
 
-**Jeremiah goes further in one respect and not as far in another.** Further: Jeremiah 20:14–15 uses
-the *ʾārûr* formula, the heavy judicial word of Genesis 3:14 and 4:11, and lays it on a human
-being; 20:16 then wishes on him the overthrow of Sodom. **Job's verb at 3:1 is *qālal*,
-the mild one, and his target is a day.** Not as far: Jeremiah's passage is five verses and ends
-there, while Job's is twenty-six and builds a whole society of the dead in the middle of itself.
-**Jeremiah curses and stops. Job curses and then goes on to describe where he would rather be**,
-and that description (3:13–19) has no counterpart in Jeremiah at all.
-
-**The other difference is context, and it cuts against the obvious reading.** Jeremiah 20:14–18
-follows immediately on 20:13, which is a call to praise Yahweh for delivering the needy — with no
-transition whatsoever. **The book of Jeremiah puts a doxology and a birth-curse in consecutive
-verses and offers no account of the join.** Job's chapter
-3, by contrast, is prepared for across two chapters: the losses, the sores, the week of silence, and
-then the speech. **Job 3 is the most carefully set-up outburst in the Bible and Jeremiah 20:14 is the
-least**, which is a difference of literary method rather than of feeling.
-
-**Which came first is not recoverable, and the wiki does not need it to be.** The proposals run in
-both directions — that the Job poet knew Jeremiah, that a Jeremiah tradent knew Job, that both drew
-on a stock lament form now lost. **What the parallel establishes is the form's existence**: the
-birth-curse was an available shape for a certain extremity of grief, with conventions (the
-announcement, the womb, the closing *why*) that two very different books fill in the same order.
-Attaching it to a date rather than to a source is the more useful move.
+**The direction of literary dependence remains open.** The similarities support comparison
+of lament forms; they do not establish who borrowed from whom, a common source, or a date.
+Neither a shared form nor an extreme statement alone warrants a diagnosis of the speaker.
+The poems must be read in the settings their books give them.
 
 ## Significance
 
-**It is the strongest evidence that Job 3 is a genre and not a breakdown.** Read alone, the chapter
-invites a diagnosis — that Job's faith has cracked, that this is the sin the narrator stopped
-certifying. **Read next to Jeremiah 20, it is a recognisable way of speaking**, performed by a
-prophet whose standing the book of Jeremiah never questions, immediately after a hymn of praise.
-**Whatever Job 3 is, it is something the Hebrew Bible had a form for**, and the form's existence is
-an argument against reading its use as a fall. See the Notes on [[Let the Day Perish]], and
-[[Mourning and Lament]] for the wider rite.
+[[Mourning and Lament]] includes speech that wishes life had not begun, alongside speech
+that asks for a better future. [[Life and Death]] cannot be reduced to one ranking across
+these passages. Job imagines release from trouble; Jeremiah laments his birth; the Preacher
+responds to oppression observed in others. Ecclesiastes' own commendation of enjoyment in
+3:22 and the hope attached to the living in 9:4 remain in tension with 4:2–3.
 
-It also marks the limit of the comparison the two men invite. **Jeremiah knows exactly why he is
-suffering** — he says so in the same chapter, at 20:8, where the word of Yahweh has become a
-reproach to him — and curses his birth anyway. **Job does not know**, and the book's whole engine is
-that he cannot find out. **The identical speech from a man who has the explanation and a man who
-does not** is the wiki's reason for reading the birth-curse as a response to the weight of a life
-rather than to the unfairness of one: **an answer would not have stopped either of them saying it.**
-
-Set both beside Matthew 26:24, where Jesus says of the one who betrays him that it would have been
-better for that man not to have been born. **The thought appears once in the New Testament and is a
-verdict passed on somebody else.** Job and Jeremiah say it about themselves, and that is the
-difference between a lament and a judgment.
+The comparison belongs with [[Suffering]] and [[Comforters Who Do Not Comfort]]. Explaining
+the form of the complaint does not itself console the person who utters it or the victims
+whose tears occasion it.
 
 ## Notes
 
-- **Nothing outside Job is quoted on this page, and that is a limitation rather than a choice.**
-  bible-api.com was unreachable from the session that wrote it, so no WEB text could be fetched for
-  Jeremiah, Ecclesiastes, Jonah, 1 Kings or Matthew, and the wiki's rule is that WEB text is quoted
-  from `raw/bible/` and never from memory. **Every reference to those books here is a description of
-  the verse, not a quotation of it.** When Jeremiah is ingested — or simply fetched — the table above
-  and the Ecclesiastes and Matthew references should be re-done with the text in front of them, and
-  the descriptions checked. The Job column is quoted verbatim from `raw/bible/Job.md` throughout.
-- **The direction of dependence is left open on purpose.** Commentators have argued each way and
-  from a shared lost form; none of the three changes what the parallel shows, which is that the
-  birth-curse had a shape. The wiki records the question and declines to settle it.
+- **Sources:** Job 3:1–26; 10:18–19 and Ecclesiastes 3:22; 4:1–3; 6:3–5; 9:4 checked in
+  immutable stored WEB. Jeremiah 20:14–18 checked against the JSON response from
+  `https://bible-api.com/Jeremiah%2020:14-18?translation=web` on 2026-10-27. Jeremiah is
+  paraphrased here; verification did not require fetching a whole book into raw.
+- **Verification and ingestion differ.** The previous note reported an unavailable API in
+  the session that created the page. That historical limitation no longer applies to these
+  Jeremiah verses or to the now-stored Ecclesiastes text. Other pending references above
+  remain explicitly marked, rather than treating every un-ingested book as unverified.

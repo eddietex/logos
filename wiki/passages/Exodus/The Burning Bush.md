@@ -622,6 +622,10 @@ Exodus that clause is his name.** See [[Call and Election]].
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 describes tears without a narrated intervention, in
+  tension with Exodus 3:7–9’s announced deliverance; see
+  [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+
 - [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]] — Proverbs 20:12 parallels the claim of Yahweh as maker of human faculties in Exodus 4:11; the settings and scope differ.
 
 - Genesis 2:3 — the first holy thing, a day

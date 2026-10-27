@@ -516,7 +516,20 @@ outcomes to supply a transparent verdict.
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The observed outcome in 4:1 is tears for the oppressed and power for their oppressors.
+Nothing in the unit attributes the victims' suffering to their own wrongdoing. This blocks
+using their circumstances as a transparent verdict on their character, while 3:17's
+preceding affirmation of divine judgment remains. The passage reports no reversal before
+its close and supplies no timetable for one.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Oppressors retain power; their victims are not accused of guilt.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Divine judgment affirmed without reading death as a moral verdict.
 

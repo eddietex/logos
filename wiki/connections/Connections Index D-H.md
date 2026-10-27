@@ -92,7 +92,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Gold for the Calf and Gold for the Sanctuary]] | contrast | Exodus 25:1–9 · Exodus 32:1–8, 20 · Exodus 33:4–6 · Exodus 35:1–29 · [[The Furnishings Made]] (Exodus 37:1–29) · [[The Work Completed]] (Exodus 39:32–43) |
 | [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]] | parallel | Exodus 32:1–35 · Deuteronomy 9:8–21 · Psalm 106:19–23 · Acts 7:39–43 |
 | [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]] | quotation | Proverbs 3:34 · James 4:6–10 · 1 Peter 5:5–7 · [[The Plans of the Heart]] (Proverbs 16:5, 18–19) · [[Where There Is No Vision]] (Proverbs 29:23) |
-| [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 |
+| [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]] | thematic | Genesis 18:20–21 · Genesis 19:13 · Genesis 27:34 · Exodus 2:23 · Exodus 3:7, 9 · Exodus 11:6 · Exodus 12:30 · Exodus 22:23–24 · [[The Tears of the Oppressed]] (Ecclesiastes 4:1–3) |
 | [[Ha-Satan - The Accuser in Job, Zechariah, and Chronicles]] | thread | Job 1:6–12; 2:1–7 · Zechariah 3:1–5 · 1 Chronicles 21:1 · 2 Samuel 24:1 · Numbers 22:22, 32 · Psalm 109:6 · Luke 22:31–32 · Revelation 12:9–10 |
 | [[Hagar and Sarah in Galatians]] | allegory | Genesis 16:1–16 · Genesis 21:1–14 · Isaiah 54:1 · Romans 9:6–9 · Galatians 4:21–31 |
 | [[The Half Shekel - Census, Ransom, and the Temple Tax]] | thread | Exodus 30:11–16 · Exodus 38:25–28 · Numbers 1:2–3 · 2 Samuel 24:1–2, 10, 15 · Matthew 17:24–27 · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |

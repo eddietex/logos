@@ -453,7 +453,20 @@ control over a legacy or a lasting surplus from labor.
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+Ecclesiastes 4:3 describes evil work done under the sun, after 3:22 commended rejoicing
+in one's works. The new setting is oppression, not a claim that every occupation or every
+act of labor is evil. The WEB's repeated work language links the observations in English;
+no Hebrew lexical identity is asserted. Questions about labor, achievement, and envy begin
+at 4:4, in the next, still-uningested unit.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Evil deeds in 4:3 beside works enjoyed in 3:22.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Rejoicing in works as a portion despite the unseen future.
 

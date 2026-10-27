@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; tears without comfort, compared with the heard cry in Exodus.
+
 - **Genesis 18:20–21** — *"Because the cry of Sodom and Gomorrah is great, and because their sin is very
   grievous, I will go down now, and see …"* — the first *ṣəʿāqâ* in Scripture —
   [[The Three Visitors and Abraham's Intercession]]
@@ -62,6 +64,16 @@ the Hebrew it is singular: *if you afflict **him** … **his** cry*, where the W
 cry"*. **One wronged person's cry is enough.** And the cry recurs four verses later, for the poor man
 whose cloak was kept overnight: *"when he cries to me … I will hear, for I am gracious"* (22:27).
 See [[Laws of Holiness and Compassion]].
+
+### Tears without a narrated rescue — Ecclesiastes 4:1–3
+
+[[The Tears of the Oppressed]] describes the victims' tears and the oppressors' power, but no
+intervention. Exodus 2:23–25 reports that God hears, remembers, sees, and is concerned;
+3:7–9 announces deliverance, and 22:21–27 promises a hearing when vulnerable people cry.
+These affirmations stand in tension with Ecclesiastes' unresolved observation. They do not
+supply a rescue that Ecclesiastes 4:1–3 itself narrates, and that observation does not state
+that God never hears. This is a thematic contrast, not a claim that Ecclesiastes uses the
+Hebrew cry vocabulary analyzed above. Sources: stored WEB texts at these references.
 
 ## Significance
 

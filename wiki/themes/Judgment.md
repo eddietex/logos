@@ -436,7 +436,19 @@ but the unit supplies neither a date nor an express location before or after dea
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The preceding unit affirms God's judgment of righteous and wicked (3:17); the next sees
+power with oppressors and victims without comfort (4:1). No judgment on the oppressors is
+narrated in 4:1–3. The tension between promised justice and present conditions remains,
+without converting silence about God in these verses into a denial of his judgment.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Affirmed judgment in 3:17 beside oppression left uncorrected in 4:1.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Corrupt justice observed; God’s judgment affirmed.
 

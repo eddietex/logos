@@ -220,6 +220,10 @@ speech that starts the quarrel is not addressed to anyone in it.
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 observes others’ oppression and prefers the dead and
+  never-existent; Job’s birth-lament is personal. See
+  [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:1 pictures righteous boldness, but Job’s
   fear in 3:25–26 is not evidence of wickedness. See
   [[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]].
@@ -282,16 +286,19 @@ speech that starts the quarrel is not addressed to anyone in it.
   Scripture to this chapter, and the only other one.
 - **Jonah 4:3, 8 · 1 Kings 19:4** — the Bible's other requests to die, both of which ask for death now
   and neither of which reaches back to birth.
-- **Ecclesiastes 4:2–3 · 6:3–5** — the dead praised above the living and the stillborn above both;
-  Job 3:16's *"hidden untimely birth"* is the same argument in the same tradition.
+- **Ecclesiastes 4:2–3 · 6:3–5** — 4:2–3 praises the dead above the living and the one who
+  has not yet been above both; 6:3–5 explicitly prefers a stillborn child to an unsatisfied
+  long-lived man. These are distinct comparisons. See [[The Tears of the Oppressed]].
 - **Lamentations 3:1–20** — the same darkness imagery at the same length, spoken over a city.
 - **Psalm 88** — the one psalm that ends in darkness with no turn, and the closest psalm to this
   chapter in tone.
 - **Matthew 26:24** — Jesus on the betrayer, that it would have been better for him not to have been
   born: the New Testament's single use of the thought, and a judgment rather than a lament.
 
-*Citations above from books outside Genesis and Job are given as references, not quotations — those
-books are not in `raw/bible/`, and the wiki does not quote WEB text from memory.*
+*Source update: Ecclesiastes 4:1–3 and 6:3–5 have now been checked in stored WEB;
+Jeremiah 20:14–18 was verified through bible-api.com (`translation=web`, 2026-10-27) for
+[[Cursing the Day of Birth - Job 3 and Jeremiah 20]]. A book's pending ingestion does not
+itself establish whether a cross-reference has been verified.*
 
 ## Notes
 

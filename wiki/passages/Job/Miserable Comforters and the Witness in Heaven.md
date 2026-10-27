@@ -190,6 +190,9 @@ the earth under him, and heaven above.
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 describes absent comfort, distinct from Job’s
+  present but harmful comforters; see [[Comforters Who Do Not Comfort]].
+
 - [[A Gentle Answer]] — Proverbs 15:1, 4, 23; the gentle answer Job's comforters did not give (16:2, 5).
 - [[Whoever Loves Correction]] — Proverbs 12:18, 25; healing speech alongside Job 16:2–5’s failed comfort. See [[Comforters Who Do Not Comfort]].
 

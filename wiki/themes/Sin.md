@@ -293,7 +293,20 @@ when it later compares their end with humanity's (19–20).
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The evil work seen under the sun (3) follows the tears of the oppressed and the power
+of their oppressors (1). The unit describes harm without naming a particular statute,
+crime, or offender. Its moral evaluation must not be transferred to the victims as an
+explanation of their tears. Nor does the common fate discussed in 3:19 make oppressor and
+oppressed morally indistinguishable.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Evil work associated with oppression, not blamed on the victims.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Wickedness within the institutions meant to judge it.
 

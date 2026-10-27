@@ -68,7 +68,20 @@ drinking or of the gift formula in 3:13.
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The commendation of rejoicing in works (3:22) is followed immediately by tears without
+comfort and the preference for the dead and never-existent (4:1–3). The tension cannot be
+removed by treating enjoyment as everyone's current experience or by claiming the new
+observation erases the earlier gift. The stated ground here is evil seen under the sun.
+See [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]].
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Oppression qualifies any universal application of the enjoyment sayings.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Present enjoyment commended within mortality and uncertainty.
 

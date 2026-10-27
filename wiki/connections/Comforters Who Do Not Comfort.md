@@ -44,8 +44,7 @@ tags: [connection]
 - **Psalm 69:20** — *"I looked for some to take pity, but there was none; for comforters, but I found
   none"*
 - **Lamentations 1:2, 9, 16, 17, 21** — *"she has no comforter"*, five times in one chapter
-- **Ecclesiastes 4:1** — *"on the side of their oppressors there was power; but they had no
-  comforter"*
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; twice without a comforter, with power on the oppressors’ side.
 - **Isaiah 40:1** — *"Comfort, comfort my people"*
 - **2 Corinthians 1:3–4** — *"the God of all comfort, who comforts us in all our affliction"*
 - [[A Dry Morsel with Quietness]] — Proverbs 17:17, *"A friend loves at all times"*; see
@@ -80,10 +79,11 @@ to be heard; and at 21:5 he asks for the silence back: *"Lay your hand on your m
 
 **Scripture's other failed comforters divide into two kinds, and the friends are neither.**
 
-**There are the comforters who are absent.** Psalm 69:20, Lamentations 1, and Ecclesiastes 4:1 all
-describe the same void — *ʾên mənaḥēm*, there is no comforter — and Lamentations says it five times in
-a single chapter about a city. This is grief with nobody in the room, and it is the commonest form
-the Bible records.
+**There are the comforters who are absent.** Psalm 69:20, Lamentations 1, and Ecclesiastes 4:1
+are related descriptions of missing consolation. Ecclesiastes 4:1 repeats the absence twice,
+with the oppressors' power between them. It does not say that the victims are physically
+alone. This comparison concerns the situation described; an identical Hebrew formula across
+these passages has not been verified here and is not asserted.
 
 **There is the mourner who refuses comfort.** Jacob, told his son is dead, *"refused to be
 comforted"* (Genesis 37:35) — *wayəmāʾēn ləhitnaḥēm* — and says he will go down to Sheol mourning.
@@ -136,6 +136,14 @@ ends through conversation.
 
 See [[Whoever Loves Correction]] and [[Miserable Comforters and the Witness in Heaven]]. Sources:
 Proverbs 12:1, 18, 25; Job 16:1–5; 42:7 checked in stored WEB.
+
+### Power and no comforter — Ecclesiastes 4:1–3
+
+In [[The Tears of the Oppressed]], consolation is absent within an oppressive distribution of power.
+Job 16:2 depicts another failure: people came to comfort and their words make matters worse.
+These are related failures, not identical scenes. The Preacher goes on to prefer the dead
+and never-existent to those who see this evil (4:2–3); no consolation answers that verdict
+within the unit. Source: stored WEB Ecclesiastes 4:1–3; Job 16:1–5.
 
 ## Significance
 

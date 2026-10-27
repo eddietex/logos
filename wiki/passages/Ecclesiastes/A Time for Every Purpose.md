@@ -96,6 +96,9 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 describes uncomforted tears and a preference for the
+  dead, held in tension with the gift of enjoyment in 3:12–13.
+
 - [[From Dust to Dust]] — Ecclesiastes 3:17 takes the language of time, purpose, and work into
   the question of corrupt justice; 3:22 continues the commendation of enjoyment.
 

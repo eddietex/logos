@@ -123,7 +123,20 @@ is supplied here.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The tears in 4:1 belong to oppressed people, not to a described funeral. No torn garments,
+seven-day term, or bereavement is specified. The Preacher's preference for death and never
+having been (2–3) responds to others' tears, whereas Job 3 speaks from the sufferer's own
+condition. Lament here exceeds the page's account of formal mourning rites. The repeated
+absence of comfort is preserved at [[Comforters Who Do Not Comfort]].
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Tears of living victims; no funeral or bounded mourning rite.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Weeping and mourning have their time beside
   joy.

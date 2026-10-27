@@ -188,7 +188,20 @@ suffering. Its assertion of order does not grant people knowledge of the whole w
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### The tears of the oppressed — Ecclesiastes 4:1–3
+
+The suffering in 4:1 has identifiable human agents: power is on the side of the oppressors,
+and their victims weep without a comforter. The passage gives no diagnosis of the victims'
+guilt and no explanation through discipline or testing. Its response is the Preacher's
+severe preference for the dead and the one who has not yet been (2–3). These verses expand
+the page's accounts of suffering to include human oppression plainly observed and unresolved.
+
+See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
+records the additional comparison sources.
+
 ## Key passages
+
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Oppression and absent comfort without blame assigned to victims.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; The burden and the time to weep remain beside
   enjoyment.

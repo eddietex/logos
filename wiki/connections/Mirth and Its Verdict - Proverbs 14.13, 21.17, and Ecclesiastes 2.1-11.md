@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3.
+
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
@@ -83,6 +85,15 @@ the concluding question asks who can show a person what will follow. Unlike 3:13
 verse does not expressly repeat the gift formula. It continues enjoyment within unresolved
 limits rather than providing the lasting gain denied in 2:11. Source: stored WEB Ecclesiastes
 2:10–11; 3:13, 16–22.
+
+### Enjoyment beside tears — Ecclesiastes 4:1–3
+
+[[The Tears of the Oppressed]] interrupts any reading of 3:22 as a description of everyone's
+present experience. The observer now sees victims without comfort and prefers the dead and
+the one who has never seen evil to the living. Enjoyment commended and oppression lamented
+are both claims of this speaker. The text does not offer a formula dissolving the tension,
+and receiving enjoyment cannot be made a reason to ignore the victims. Source: stored WEB
+Ecclesiastes 3:22–4:3.
 
 ## Significance
 
