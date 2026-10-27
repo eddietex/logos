@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of Agur]] — Proverbs 30:12.
+
+
 - [[Wine Is a Mocker]] — Proverbs 20:7, 9, 11, 27.
 
 - **Job 4:17–19** — Eliphaz, reporting his night vision: *"Shall mortal man be more just than God?
@@ -122,6 +125,16 @@ afflicted person; Job 2:3 still affirms the sufferer's integrity.
 
 See [[Wine Is a Mocker]]. Sources: stored WEB Proverbs 20 and the local comparisons documented on that
 passage page; no new source-language claim.
+
+### Agur’s words — Proverbs 30:12
+
+Proverbs 30:12 attacks a generation’s false estimate of its own purity: its members remain filthy
+despite their self-approval. Like Proverbs 20:9, it questions self-certification; unlike the
+friends’ broad arguments from mortal birth in Job, it describes a particular moral posture. It gives
+no warrant to infer secret guilt from another person’s suffering.
+
+See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
+no new source-language identity is claimed.
 
 ## Significance
 

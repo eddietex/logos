@@ -473,7 +473,19 @@ power and resources are used matters.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:3–4, 13; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:8–9
+
+**Explicit tension within Proverbs:** Wisdom promises riches and filled treasuries (8:18–21), while
+Agur asks not to receive riches (30:8–9), fearing denial of Yahweh through fullness. The two
+valuations remain in the anthology. Poverty is also unwanted, because deprivation may tempt him to
+theft; he does not equate poor people with thieves or wealth with inevitable apostasy.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:8–9.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:3–4, 13; Companionship with prostitutes wastes wealth,
   and bribes dismantle a land.
@@ -715,6 +727,7 @@ cross-reference sources and interpretive limits.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:13, 23–27; Collateral for a stranger; riches not forever; the flock that clothes and feeds.
 
 ## Related themes
+
 - [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Famine and Plenty]] — where the grain goes, and what a nation eventually pays for it
@@ -729,6 +742,8 @@ cross-reference sources and interpretive limits.
 - [[Pride and Self-Exaltation]] — *"lest you should say, 'I have made Abram rich'"*
 
 ## Related people
+
+- [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[Abraham]] — the first rich man in the covenant line, and the first to refuse a gift on principle
 - [[Lot]] — whose herds outgrow his uncle's land and who chooses by looking

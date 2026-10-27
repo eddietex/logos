@@ -266,7 +266,18 @@ does not use that phrase.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:25; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:5–9
+
+Although the phrase fear of Yahweh is not used in this unit, refuge in God, restraint before his
+words, and concern not to deny or dishonor him express a comparable allegiance. This thematic
+inference must be distinguished from a quotation of the wisdom motto.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:5–9.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:25; The fear explicitly named in this verse is fear of
   man, contrasted with trust in Yahweh.

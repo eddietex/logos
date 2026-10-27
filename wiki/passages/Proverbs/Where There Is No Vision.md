@@ -84,6 +84,12 @@ upright and the wicked (27); righteousness does not guarantee everyone’s appro
 
 ## Cross-references
 
+- [[The Words of Agur]] — **Explicit tension of perspective:** Proverbs 29:19 portrays an
+  unresponsive servant, while 30:10 scrutinizes the person accusing a servant and forbids slander.
+  The latter protects a claim that household stereotypes must not silence. See
+  [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .
+
+
 - [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] — Proverbs 29:15, 17, 19, 21.
 - [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]] — Proverbs 29:8–9, 11, 22.
 - [[Contempt for His Maker - Proverbs 14.31 and Job 31.13-15]] — Proverbs 29:7, 13–14.

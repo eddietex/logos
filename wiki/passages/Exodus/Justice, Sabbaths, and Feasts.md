@@ -128,6 +128,11 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:10’s warning against slandering a servant gives a household
+  comparison for Exodus 23:1’s ban on spreading false reports. See
+  [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .
+
+
 - [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] — comparison developed with Proverbs 29.
 
 - [[Where There Is No Vision]] — Proverbs 29:4, 7, 14 extends justice for the poor and rejection of

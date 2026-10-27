@@ -251,6 +251,11 @@ his reproof. Wisdom is not mentioned by name until 3:13. See [[God]] and [[Wisdo
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:2–3 confesses limited understanding, while 30:12–13 exposes
+  false purity and haughty eyes. This develops the warning against self-assured wisdom in 3:7. See
+  [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]] .
+
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:25–26 again contrasts trust in Yahweh with
   self-trust; its safety promise remains beside Job’s counterexample.
 

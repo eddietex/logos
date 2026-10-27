@@ -20,6 +20,7 @@ canonical order below. Edit this list to reprioritize.
 ## Old Testament
 
 ### Law
+
 - [x] [[Genesis]] — complete (59 / 59 pericopes)
 - [x] [[Exodus]] — complete (53 / 53 pericopes)
 - [ ] [[Leviticus]] — not-started
@@ -27,6 +28,7 @@ canonical order below. Edit this list to reprioritize.
 - [ ] [[Deuteronomy]] — not-started
 
 ### History
+
 - [ ] [[Joshua]] — not-started
 - [ ] [[Judges]] — not-started
 - [ ] [[Ruth]] — not-started
@@ -41,13 +43,15 @@ canonical order below. Edit this list to reprioritize.
 - [ ] [[Esther]] — not-started
 
 ### Wisdom / Poetry
+
 - [x] [[Job]] — complete (32 / 32 pericopes)
 - [ ] [[Psalms]] — not-started
-- [ ] [[Proverbs]] — in-progress (39 / 43 pericopes)
+- [ ] [[Proverbs]] — in-progress (40 / 43 pericopes)
 - [ ] [[Ecclesiastes]] — not-started
 - [ ] [[Song of Solomon]] — not-started
 
 ### Major Prophets
+
 - [ ] [[Isaiah]] — not-started
 - [ ] [[Jeremiah]] — not-started
 - [ ] [[Lamentations]] — not-started
@@ -55,6 +59,7 @@ canonical order below. Edit this list to reprioritize.
 - [ ] [[Daniel]] — not-started
 
 ### Minor Prophets
+
 - [ ] [[Hosea]] — not-started
 - [ ] [[Joel]] — not-started
 - [ ] [[Amos]] — not-started
@@ -71,15 +76,18 @@ canonical order below. Edit this list to reprioritize.
 ## New Testament
 
 ### Gospels
+
 - [ ] [[Matthew]] — not-started
 - [ ] [[Mark]] — not-started
 - [ ] [[Luke]] — not-started
 - [ ] [[John]] — not-started
 
 ### History
+
 - [ ] [[Acts]] — not-started
 
 ### Pauline Epistles
+
 - [ ] [[Romans]] — not-started
 - [ ] [[1 Corinthians]] — not-started
 - [ ] [[2 Corinthians]] — not-started
@@ -95,6 +103,7 @@ canonical order below. Edit this list to reprioritize.
 - [ ] [[Philemon]] — not-started
 
 ### General Epistles
+
 - [ ] [[Hebrews]] — not-started
 - [ ] [[James]] — not-started
 - [ ] [[1 Peter]] — not-started
@@ -105,4 +114,5 @@ canonical order below. Edit this list to reprioritize.
 - [ ] [[Jude]] — not-started
 
 ### Prophecy
+
 - [ ] [[Revelation]] — not-started

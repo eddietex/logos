@@ -346,6 +346,15 @@ preserved as the WEB gives it, without turning it into an adoption law. Promised
 wicked’s downfall remain in explicit tension with Job’s undeserved suffering and prosperous
 wrongdoers.
 
+[[The Words of Agur]] (30:1–14) introduces [[Agur]], son of [[Jakeh]], addressing [[Ithiel]] and
+[[Ucal]] in the WEB. Confessed ignorance and questions about creation lead to trust in God’s
+flawless words and a prohibition on adding to them. His prayer asks for truth and enough food,
+without poverty or riches. The prayer against riches stands explicitly beside Wisdom’s promise
+of wealth in 8:18–21. The remaining sayings protect a servant from slander and condemn parental
+dishonor, supposed purity, haughty eyes, and the consuming of the poor. The son asked about in
+30:4 remains unnamed; the Christian comparison with John 3:13 is distinguished from an explicit
+identification in Proverbs.
+
 ## Structure
 
 - **1–9 Prologue and lectures** — the purpose statement (1:1–7), then a sequence of instructions
@@ -426,12 +435,18 @@ first collection at its heading), each titled from a representative saying.
 
 ### Agur and Lemuel (30–31)
 
-- [ ] The Words of Agur — Proverbs 30:1–14
+- [x] [[The Words of Agur]] — Proverbs 30:1–14
 - [ ] Four Things — Proverbs 30:15–33
 - [ ] The Words of King Lemuel — Proverbs 31:1–9
 - [ ] The Worthy Woman — Proverbs 31:10–31
 
 ## Key themes
+
+- [[Wisdom]] , [[Faith]] , [[Language and Speech]] — human limits, trustworthy divine words, and
+  restraint in adding (30:2–6).
+- [[Prayer]] , [[Wealth and Possessions]] , [[The Poor and the Vulnerable]] — sufficient provision,
+  dangers of riches and poverty, and the poor consumed (30:7–14).
+
 
 - [[Prophecy and Vision]], [[Law and Obedience]] — revelation and keeping the law against unrestrained life (29:18).
 - [[Slavery and Servitude]], [[Adoption]] — the unresponsive servant and the servant who becomes a son (29:19, 21); no legal procedure stated.
@@ -495,6 +510,9 @@ first collection at its heading), each titled from a representative saying.
 - [[Suffering]] — Yahweh's reproof of the son he loves (3:11–12), the discipline Hebrews 12 quotes
 
 ## Key people
+
+- [[Agur]] — named speaker, son of [[Jakeh]], addressing [[Ithiel]] and [[Ucal]] in the WEB (30:1).
+
 - [[Solomon]] — named in the headings at 1:1, 10:1, and 25:1; not named at 8:15–18, where Wisdom
   claims the kingship and the riches and honour 1 Kings 3 gives him
 - [[David]] — named once, as Solomon's father (1:1)
@@ -502,6 +520,7 @@ first collection at its heading), each titled from a representative saying.
 - [[God]] — *Yahweh*, named in the motto (1:7) and throughout
 
 ## Key places
+
 - [[Sheol]] — the insatiable realm of the dead, which the gang of 1:12 proposes to imitate, and to
   which the strange woman's house sinks (2:18; 5:5; 7:27), and where Folly's guests are (9:18)
 - [[Egypt]] — *"the yarn of Egypt"* on the strange woman's couch (7:16)

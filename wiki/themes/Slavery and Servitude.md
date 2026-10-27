@@ -212,7 +212,20 @@ share one Maker; the stereotype of nonresponse cannot erase that obligation.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:19, 21; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:10
+
+A servant must not be slandered to his master; the warning gives weight to the servant’s curse and
+the accuser’s guilt. **Explicit tension of perspective:** Proverbs 29:19 depicts a servant who will
+not respond to correction, while 30:10 turns scrutiny onto the person speaking against him. Job
+31:13–15 likewise requires a master to hear servants’ claims. The warning neither abolishes
+servitude nor authorizes mistreatment.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:10.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:19, 21; The WEB depicts a servant who understands words
   but will not respond, and a pampered servant who becomes a son.
@@ -466,6 +479,7 @@ cross-reference sources and interpretive limits.
 - [[A Good Name]] — Proverbs 22:7; The borrower is servant to the lender.
 
 ## Related themes
+
 - [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Land and Sojourning]] — the other half of Israel's self-description: strangers and slaves

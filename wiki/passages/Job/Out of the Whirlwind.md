@@ -375,6 +375,11 @@ a man who will stop talking; the second will produce one who has seen — see th
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:4 asks questions about creation and human access that resemble
+  Job 38:4–18. Agur asks after confessing ignorance; in Job, God questions the human listener. See
+  [[Who Has Ascended - Proverbs 30.4, Job 38, and John 3.13]] .
+
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Job 38:4–7, 25–28 and Proverbs 3:19–20; the
   earth founded and dew governed. See
   [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].

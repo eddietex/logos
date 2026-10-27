@@ -125,7 +125,18 @@ property cases of Exodus 22.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:24; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:9
+
+Agur fears that poverty might lead him to steal and dishonor God’s name. This is a prayer against a
+possible act, not an accusation against all poor people and not a new restitution tariff. Exodus
+20:15’s prohibition remains the legal comparison.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:9.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:24; The thief’s accomplice harms himself by
   participation and refusal to testify.
@@ -151,6 +162,7 @@ cross-reference sources and interpretive limits.
 - [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10; Robbing the poor and moving the boundary stone.
 
 ## Related themes
+
 - [[Wealth and Possessions]] — what theft takes; ownership and its duties
 - [[Retribution]] — multiplied repayment set against the matching scale of injury law
 - [[Law and Obedience]] — the eighth commandment and its cases
@@ -160,6 +172,7 @@ cross-reference sources and interpretive limits.
 - [[Integrity]] — a keeper's honesty under oath
 
 ## Related people
+
 - [[Jacob]] — charged with theft of the teraphim; *steals Laban's heart*; pays for stolen animals
 - [[Rachel]] — steals her father's teraphim
 - [[Laban]] — searches for stolen gods

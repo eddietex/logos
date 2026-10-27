@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of Agur]] — Proverbs 30:6, 8, 10.
+
+
 - [[Where There Is No Vision]] — Proverbs 29:12, 24.
 
 - [[Whoever Loves Correction]] — Proverbs 12:5–6, 17, 19, 22.
@@ -57,6 +60,17 @@ concerns both patterns; withholding known evidence is developed separately in [[
 
 See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
 source-language claim.
+
+### Agur’s words — Proverbs 30:6, 8, 10
+
+Adding to God’s words risks exposure as a liar (6), and Agur asks for falsehood to be removed (8).
+Verse 10 forbids slandering a servant to his master and warns of the servant’s curse and the
+slanderer’s guilt. The socially weaker person remains someone whose complaint matters; compare
+Exodus 23:1’s prohibition of a false report and Job 31:13–15’s obligation to hear servants. No
+judicial procedure is specified.
+
+See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
+no new source-language identity is claimed.
 
 ## Significance
 

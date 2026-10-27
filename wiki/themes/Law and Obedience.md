@@ -404,7 +404,19 @@ response; the servant in 19 understands but does not answer.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1, 15, 17–19; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:6, 9–11
+
+Do not add to God’s words; do not slander a servant; do not dishonor parents. Agur also fears theft
+and dishonoring God’s name. These concerns can be read alongside Exodus 20:7, 12, 15–16 and 23:1.
+The prohibition on adding resembles Deuteronomy 4:2; Proverbs here does not also state that verse’s
+prohibition on taking away.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:6, 9–11.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:1, 15, 17–19; Revelation and keeping the law are paired
   at 18: the opposite of unrestrained life is receptive obedience.
@@ -495,6 +507,7 @@ cross-reference sources and interpretive limits.
   the heart
 
 ## Related themes
+
 - [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Covenant]] — the frame that the law fills

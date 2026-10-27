@@ -116,7 +116,18 @@ safely be inferred.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Agur’s words — Proverbs 30:6, 10, 12
+
+God’s reproof can expose a liar, and slandering a servant can leave the accuser guilty.
+Self-certified purity is no acquittal. The warning attends to culpable acts and false self-assurance
+rather than using distress as evidence of guilt.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:6, 10, 12.
+
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 13, 17, 24.
 

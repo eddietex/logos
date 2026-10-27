@@ -242,6 +242,11 @@ is the only comment the book ever makes on whether the oath was true.
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:10 forbids slander against a servant and gives weight to his
+  curse and the accuser’s guilt. Compare Job 31:13–15’s obligation to hear the servant’s claim. See
+  [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .
+
+
 - [[Where There Is No Vision]] — Proverbs 29:13 gives sight to poor and oppressor alike, continuing
   the shared-dependence argument. Its unresponsive servant (29:19) also stands in tension with Job
   31:13–15’s obligation to hear servants’ complaints. A household stereotype cannot cancel their

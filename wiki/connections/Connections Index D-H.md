@@ -44,6 +44,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
 | [[Every Son Who Is Born - Pharaoh's Decree and Herod's]] | typology | Exodus 1:16, 22 · Exodus 2:1–10, 15 · Exodus 4:19 · Matthew 2:13–20 · Acts 7:19 · Hebrews 11:23 · Exodus 4:22–24 |
+| [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]] | parallel | [[The Words of Agur]] · [[The Covenant Between the Pieces]] · Psalm 18:30 · 2 Samuel 22:31 · Deuteronomy 4:2 |
 | [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]] | quotation | Exodus 21:22–27 · Leviticus 24:17–22 · Matthew 5:38–42 |
 | [[A False Witness Shall Not Be Unpunished - Proverbs 19 and Exodus 23]] | thematic-parallel | [[Better Is the Poor Who Walks in Integrity]] (Proverbs 19:5, 9, 28–29) · [[The Ten Commandments]] (Exodus 20:16) · [[Justice, Sabbaths, and Feasts]] (Exodus 23:1–8) · [[The King's Heart]] (Proverbs 21:28) · [[The Field of the Sluggard]] (Proverbs 24:28–29) · [[The Glory of Kings]] (Proverbs 25:18) |
 | [[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]] | allusion | Proverbs 3:3–4 · Genesis 39:4, 21 · 1 Samuel 2:26 · Luke 2:40, 52 |

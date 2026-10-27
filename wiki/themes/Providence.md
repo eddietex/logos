@@ -225,7 +225,19 @@ not owned by the one who plans it. James 4:15 supplies the conditional, *"If the
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 16:9; 27:1; James 4:15 at bible-api.com.
 
+### Agur’s words — Proverbs 30:7–9
+
+Provision is explicitly requested from God, so this is prayer for care rather than a narrative of
+hidden guidance. Agur asks for enough to live faithfully, recognizing possible dangers in both
+abundance and lack. The request reports neither an answer nor a guarantee that all faithful people
+will receive a fixed level of goods.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:7–9.
+
 
 - [[The King's Heart]] — Proverbs 21:1, 30–31; The king's heart turned, counsel outmatched, victory given.
 

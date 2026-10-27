@@ -185,7 +185,18 @@ actions.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:13; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:4
+
+Wind, waters, and the ends of the earth become questions about the identity and power of their
+governor. The imagery resembles Job 28:23–27 and 38:4–18 without repeating Genesis’s sequence of
+creation. The question about a son supplies no name or account of a second creator.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:4.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:13; Yahweh gives sight to the poor and the oppressor alike.
 

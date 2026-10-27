@@ -424,6 +424,11 @@ it in every direction.
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:5 applies the shield image generally to those taking refuge in
+  God; Genesis 15:1 speaks directly to Abram. The contexts and scope remain distinct. See
+  [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]] .
+
+
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14, which 15:1 answers on both counts: *shield* to
   the man who fought, *reward* to the man who refused payment, and the same *m-g-n* root Melchizedek
   used at 14:20.

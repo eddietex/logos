@@ -275,7 +275,18 @@ material payment.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:18; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:11
+
+The generation that curses its father also fails to bless its mother. Blessing here is an expected
+human response of honor, distinct from God’s creative bestowal of flourishing; its absence belongs
+to the portrait of disordered family conduct.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:11.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:18; Keeping the law is called blessed, in contrast to
   people casting off restraint without revelation.

@@ -239,7 +239,18 @@ that every socially humiliated person was proud.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:23; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:2–4, 9, 12–13
+
+Confessed ignorance and unanswered questions oppose the generation whose eyes are lifted up and
+whose self-estimate of purity is false. Fullness may also breed the denial Agur fears. Humility
+concerns knowledge, moral judgment, and dependence on God.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:2–4, 9, 12–13.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:23; Pride brings a person low; a lowly spirit gains honor.
 

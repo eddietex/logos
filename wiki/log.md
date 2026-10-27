@@ -17245,3 +17245,61 @@ No unreached book was added to raw, and existing raw files are unchanged. No new
 Greek wording claim is made. No ambiguous page basenames remain. `scripts/link-check.sh` exits 0
 with 62 expected not-yet-started book targets; `git diff --check` is clean. No unresolved operational
 issue or dangling link remains.
+
+## [2026-10-26] ingest | Proverbs 30.1-14 — The Words of Agur
+
+Ingested [[The Words of Agur]], retaining the planned Proverbs 30:1–14 boundary and title.
+Exactly one pericope advanced; the numerical sequence beginning at 30:15 remains for the next
+invocation. The unattended discussion is recorded in the passage: Agur’s confessed limits,
+creation questions, trustworthy words and the prohibition on adding, sufficient provision,
+slander against a servant, parental dishonor, false purity, haughty eyes, and predatory oppression.
+
+**Interpretive decisions.** The four named figures receive pages following the stored WEB’s
+heading; no date, nationality, occupation, or teacher-pupil relationship is inferred. No named
+place occurs. The son in verse 4 remains unnamed within Proverbs; the Christian comparison with
+John 3:12–13 is identified as a later canonical reading, not an explicit identification or formal
+quotation. The shield image remains in explicit tension with Job’s affirmed integrity and harm.
+Agur’s prayer against riches is set beside Proverbs 8:18–21’s promise of wealth. His first-person
+fears do not classify all poor people as thieves or all rich people as deniers of God. Protection
+of a servant from slander is held beside Proverbs 29:19’s portrayal of nonresponse and Job
+31:13–15’s obligation to hear servants. The four generation sayings describe conduct without
+supplying a historical chronology. The Wisdom overview’s former exclusion of revelation is
+explicitly corrected against Proverbs 30:1, 5–6; its observational examples are retained.
+
+**Created (8 content pages):** the passage; [[Agur]], [[Jakeh]], [[Ithiel]], and [[Ucal]]; and three
+connections:
+
+- [[Who Has Ascended - Proverbs 30.4, Job 38, and John 3.13]].
+- [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]].
+- [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]].
+
+**Revised (47 content pages):** [[Proverbs]] (overview, checklist, themes, people); [[God]] and
+[[Solomon]] (the latter as an attribution comparison, not an actor); 25 themes (Blessing, Clean
+and Unclean, Creation, Curse, Deception, Faith, Famine and Plenty, Guilt and Conscience, Holiness,
+Language and Speech, Law and Obedience, Prayer, Pride and Self-Exaltation, Prophecy and Vision,
+Providence, Retribution, Seeing and Being Seen, Sin, Slavery and Servitude, The Fear of God,
+The Names of God, The Poor and the Vulnerable, Theft and Restitution, Wealth and Possessions,
+Wisdom); five existing connections (Who Is Yahweh, Wise in His Own Eyes, What Is Man That He
+Should Be Clean, The Wisdom of Solomon, Truthful Witness and Lying Lips); and 14 earlier passage
+pages with reciprocal comparisons. Every touched theme received synthesis and a key-passage
+entry. Existing connections received both a passage entry and analysis. The headings connection’s
+obsolete ingestion labels for Proverbs 24:23 and 30:1 were updated; 31:1 remains pending.
+
+**Indexes and totals.** Revised nine index/dashboard pages: books index, main dashboard, themes
+index, all three People subindexes, and Connections D-H, I-N, T-Z. New connections file under E,
+N, and W. Proverbs is 40 / 43 pericopes, still in progress. Counts by frontmatter are 184 passages,
+184 people, 90 places, 83 themes, and 476 connections. Each category page has exactly one index
+row; alphabetical ranges and order pass. People subindexes have 59–65 rows and Connections have
+83–117, so no range redraw is needed. Including indexes and this log, eight pages were created
+and 57 existing pages revised.
+
+**Sources and validation.** All ten key-verse excerpts exactly match the immutable raw WEB.
+Genesis, Exodus, Job, and Proverbs comparisons were checked in existing raw texts. John 3:12–13,
+Matthew 6:9–13, Deuteronomy 4:2, Psalm 18:30, and 2 Samuel 22:31 were retrieved directly from
+bible-api.com with translation=web on 2026-10-26 after the web reader could not open their URLs;
+each API response identified World English Bible. External texts are paraphrased apart from the
+verified brief English wording comparison in the flawless-word connection. No unreached book was
+added to raw; all existing raw texts are unchanged. No new exact Hebrew or Greek wording claim
+is made. No ambiguous page basenames remain. `scripts/link-check.sh` exits 0 with 62 expected
+not-yet-started book targets, and `git diff --check` is clean. No unresolved operational issue or
+dangling link remains.

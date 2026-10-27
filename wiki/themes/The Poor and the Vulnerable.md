@@ -231,7 +231,18 @@ excuses oppression nor establishes moral equivalence.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:7, 13–14; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:8–10, 14
+
+Agur fears poverty for himself and condemns people who consume the poor as if with weapon-like
+teeth. A servant is protected against slander. These are three distinct concerns—need, exposure to
+accusation, and predatory oppression—not a claim that poverty shows a moral defect.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:8–10, 14.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:7, 13–14; Righteousness includes concern for the poor
   person’s case, and royal stability is tied to fair judgment of it.
@@ -289,6 +300,8 @@ cross-reference sources and interpretive limits.
 - [[Righteousness]] — the righteous man's defence in Job
 
 ## Related people
+
+- [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[God]] — the one who hears the cry
 - [[Tamar]] — the first widow Genesis follows

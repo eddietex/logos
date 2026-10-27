@@ -464,7 +464,19 @@ exceptionless reading of the promises; the chapter supplies no timetable to remo
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1, 6, 14, 16, 23, 25; the passage page records
 the cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:5–6, 10
+
+Reproof exposes the person who adds to God’s words, and slander risks curse and guilt. The shield
+promised to those taking refuge (5) remains in **explicit tension** with the suffering of the
+God-fearing, blameless Job (Job 2:3, 7). The text gives no timetable or explanation resolving that
+tension; suffering does not establish that someone has lied or failed to trust.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:5–6, 10.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:1, 6, 14, 16, 23, 25; The stubborn are suddenly
   destroyed, the righteous see the wicked fall, and trust in Yahweh brings safety.
@@ -762,6 +774,7 @@ the cross-reference sources and interpretive limits.
 - [[Answer a Fool]] — Proverbs 26:3, 26–27; The rod for the fool's back, hidden hatred exposed, the pit and the stone that return on their makers.
 
 ## Related themes
+
 - [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Suffering]] — what the doctrine claims to explain

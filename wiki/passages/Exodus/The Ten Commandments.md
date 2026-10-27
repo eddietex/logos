@@ -113,6 +113,11 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:9–11 joins fear of dishonoring God’s name through theft with
+  warnings against slander and parental dishonor; compare Exodus 20:7, 12, 15–16. See
+  [[Truthful Witness and Lying Lips - Proverbs 12 and Exodus 20-23]] .
+
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:24 joins the wrong of robbing parents with
   the denial that it is wrong, bringing parental honor and the prohibition of theft together (Exodus
   20:12, 15).

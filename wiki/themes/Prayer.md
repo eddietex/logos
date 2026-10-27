@@ -179,7 +179,19 @@ condemned here.
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Agur’s words — Proverbs 30:7–9
+
+Agur’s two requests concern truthfulness and sufficient provision. He asks to receive neither
+poverty nor riches because both can become occasions of unfaithfulness. The prayer seeks moral
+preservation through enough food, rather than an enlarged estate; compare manna in Exodus 16 and the
+petition for bread in Matthew 6:11.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:7–9.
+
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:9, 13.
 
@@ -370,6 +382,8 @@ documented on the passage and connection pages.
   master Abraham*, *the God of my father*
 
 ## Related people
+
+- [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[Abraham's Servant]] — the first person in Scripture to pray a petition of his own
 - [[Abraham]] — the first intercessor, and the first man God tells to pray for somebody

@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of Agur]] — Proverbs 30:9.
+
+
 - **Exodus 1:8** — *"a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
 - **Exodus 2:25; 3:7** — *"God knew"*; *"I know their sorrows"* — [[Moses Flees to Midian]],
   [[The Burning Bush]]
@@ -143,6 +146,16 @@ and say, 'Who is Yahweh?'"* (Proverbs 30:9) — ***mî YHWH***, Pharaoh's two wo
 the WLC). **Neither text names Pharaoh**, and the wiki does not claim either alludes to Exodus 5:2; the
 question is recorded as one Scripture puts in more than one mouth, and always in the mouth of someone
 who has enough not to need God.
+
+### Agur’s words — Proverbs 30:9
+
+Agur fears becoming the speaker of the refusal he rejects. The question in 30:9 is imagined as the
+result of fullness, not actually asserted by Agur; his present act is prayer to God. The shared WEB
+question links ordinary abundance with Pharaoh’s refusal in Exodus 5:2 without proving a deliberate
+allusion.
+
+See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
+no new source-language identity is claimed.
 
 ## Significance
 

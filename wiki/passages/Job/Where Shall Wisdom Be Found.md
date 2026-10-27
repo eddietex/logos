@@ -179,6 +179,11 @@ king over all the sons of pride"* (41:34).
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:2–4 likewise connects the limits of human understanding with
+  God’s rule of wind, waters, and earth (compare Job 28:23–27). See
+  [[Who Has Ascended - Proverbs 30.4, Job 38, and John 3.13]] .
+
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Job 28 and Proverbs 3:13–20; value beyond gold
   and divine ordering of the waters. See
   [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].

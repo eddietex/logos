@@ -394,7 +394,18 @@ testify. Speech ethics includes hearing and answering as well as truthful assert
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:5, 9, 12, 19–20, 24; the passage page records
 the cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:5–6, 8–11
+
+God’s flawless word is set against human additions, falsehood, slander, and a child’s cursing.
+Speech can misrepresent God or expose a vulnerable servant to harm. The remedy joins restraint in
+teaching with a prayer for truthfulness.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:5–6, 8–11.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:5, 9, 12, 19–20, 24; Flattery traps, lies corrupt
   government through a willing listener, and haste in speaking is worse than folly.
@@ -673,6 +684,8 @@ the cross-reference sources and interpretive limits.
 - [[Wisdom]] — where the ethics of the tongue is worked out
 
 ## Related people
+
+- [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[God]] — who creates by speaking, and who confuses speech to stop a project
 - [[Adam]] — the first namer, and the first speaker of a line of poetry

@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of Agur]] — Proverbs 30:2–3, 12–13.
+
+
 - [[Where There Is No Vision]] — Proverbs 29:20.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:11, 26.
@@ -81,6 +84,16 @@ without responding (19).
 
 See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
 source-language claim.
+
+### Agur’s words — Proverbs 30:2–3, 12–13
+
+Agur’s confession of inadequate understanding contrasts with those who consider themselves pure
+while remaining unwashed (30:12), followed by lifted eyes (13). Self-assessment fails in both wisdom
+and moral purity. This is a comparison of the stored WEB, not a claim that the underlying Hebrew
+expressions are identical.
+
+See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
+no new source-language identity is claimed.
 
 ## Significance
 

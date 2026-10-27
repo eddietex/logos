@@ -229,7 +229,18 @@ may now enter every space, or that the obedient mediator has been rejected.
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### Agur’s words — Proverbs 30:3, 9
+
+Agur acknowledges his lack of knowledge of the Holy One and fears dishonoring God’s name through
+theft. Holiness is not given a ritual definition here. Proverbs 9:10 commends knowledge of the Holy
+One; Agur’s confession keeps that knowledge from becoming a boast of personal mastery.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:3, 9.
+
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Court and basin prepare bounded, washed approach without an ordination rite.
 

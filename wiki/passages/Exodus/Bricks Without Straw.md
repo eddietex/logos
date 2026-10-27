@@ -433,6 +433,11 @@ answer, at last, to Pharaoh's question, given to Moses first.
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:9 imagines Pharaoh’s question as the denial an ordinary person
+  might utter when full. Agur prays against that outcome rather than himself denying Yahweh. See
+  [[Who Is Yahweh - Pharaoh's Question and the Knowledge of Yahweh]] .
+
+
 - [[The Surety, the Sluggard, and the Seven Abominations]] — Proverbs 6:7; the ant has no *šōṭēr*,
   the word for the Israelite *"officers"* of 5:6, 14, and works anyway.
 - Genesis 2:2–3; 8:22 — *šābat* before Exodus 5:5 — [[Sabbath]]

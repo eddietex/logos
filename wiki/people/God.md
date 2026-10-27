@@ -2262,6 +2262,16 @@ not imply approval of oppression. The safety promise remains explicitly in tensi
 7, where God affirms the integrity of the man suffering without cause; it cannot diagnose every
 sufferer as faithless.
 
+### Agur’s questions and prayer — Proverbs 30:1–14
+
+The Holy One exceeds Agur’s claimed knowledge; the questions of verse 4 concern mastery of
+creation without naming the son they ask about. God’s words are flawless, and he shelters those
+taking refuge in him (5–6). Agur asks for truthfulness and sufficient food, fearing denial of
+Yahweh or dishonor of his name through theft (7–9). **Explicit tension:** shelter under God’s
+shield does not remove Job 2:3, 7’s affirmed integrity and undeserved harm. The prayer also
+qualifies any assumption that more wealth is always the desired gift. See [[The Words of Agur]].
+Source: stored WEB; the Christian comparison with John 3 is distinguished on the passage page.
+
 ## Timeline / key events
 
 - Proverbs 3:19–20 — retrospective praise of creation through wisdom;
@@ -2534,6 +2544,10 @@ sufferer as faithless.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The Words of Agur]] — Proverbs 30:3–9; knowledge, creation, trustworthy words, refuge, and
+  provision.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:13, 25–26; giver of sight, refuge of trust, and source
   of justice.

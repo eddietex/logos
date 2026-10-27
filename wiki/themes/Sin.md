@@ -276,7 +276,18 @@ wrongdoer.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:6, 16, 22, 24; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:6, 8–14
+
+The unit names or depicts falsehood, denial of God, theft, slander, parental dishonor,
+self-deception, pride, and oppression. Agur’s prayer anticipates his own vulnerability to wrongdoing
+before the sayings describe others. It does not assign every poor or rich person those acts.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:6, 8–14.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:6, 16, 22, 24; Sin is a snare for its practitioner and
   grows under wicked ascendancy.

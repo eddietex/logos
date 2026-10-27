@@ -175,7 +175,18 @@ moral insight: the shared capacity to see coexists with unjust conduct.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:13; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:12–13
+
+Eyes express moral estimation and social posture: supposed purity in one’s own eyes is followed by
+haughty eyes and lifted eyelids. The problem is neither physical sight nor visual impairment, but
+self-approval and contempt.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:12–13.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:13; Sight is Yahweh’s gift to both poor and oppressor.
 

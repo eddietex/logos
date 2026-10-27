@@ -613,6 +613,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 **The wilderness ration is the size of a later offering.** The text does not draw the line.
 
 ## People
+
 - [[God]] — hears the murmurings; rains bread from the sky; tests Israel with a daily rule; appears in glory in
   the cloud; gives quail and manna; names the Sabbath a gift; asks ***"How long do you refuse?"***; commands
   the jar kept for the generations
@@ -627,6 +628,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
   collective (no page)
 
 ## Places
+
 - [[Elim]] — the starting point: *"They took their journey from Elim"*
 - [[The Wilderness of Sin]] — *"between Elim and Sinai"*, the scene of the whole chapter
 - [[Horeb]] — named here for the first time as *Sinai*, a point on the road
@@ -634,6 +636,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - [[Canaan]] — the end of the manna: *"the borders of the land of Canaan"*
 
 ## Themes
+
 - [[Murmuring]]
 - [[Sabbath]]
 - [[Testing]]
@@ -652,6 +655,11 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - [[Judgment]]
 
 ## Cross-references
+
+- [[The Words of Agur]] — Proverbs 30:7–9 asks for food sufficient for need and neither poverty nor
+  riches. Exodus 16:16–21 supplies a narrative comparison for sufficiency without establishing a
+  direct allusion. See [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]] .
+
 
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; A later collection also has a limit set
   by its purpose; the sanctuary surplus differs from the daily manna ration.

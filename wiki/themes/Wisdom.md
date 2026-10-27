@@ -12,8 +12,10 @@ to the skill of living well — knowing how the world is arranged and how to mov
 only then to what English usually means by wisdom.
 
 The Hebrew Bible's wisdom literature (Proverbs, Job, Ecclesiastes, and much of the Psalter)
-is distinctive in two ways. It argues from **observation** rather than from revelation: Proverbs
-watches the ant, the sluggard, the adulteress, and the merchant, and draws conclusions. And it is
+is distinctive in two ways. It often argues from **observation**: Proverbs
+watches the ant, the sluggard, the adulteress, and the merchant, and draws conclusions. This is not
+an exclusion of revelation: Proverbs 30:1 calls Agur’s words a revelation in the WEB, and 30:5–6
+commends reliance on God’s words. See [[The Words of Agur]]. The tradition is also
 **international** — Israel's wisdom sits inside a tradition shared with Egypt, Mesopotamia, and
 Edom, which is why the book of Job can be set entirely outside Israel with a cast of foreigners and
 still belong in the canon, and why [[Teman]] can be famous for counsel.
@@ -535,7 +537,24 @@ as responding to them (19).
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:3, 8–9, 11, 15, 17, 20; the passage page
 records the cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:2–6
+
+**Correction to the earlier synthesis:** this page formerly contrasted observation with revelation
+as if wisdom excluded the latter. Proverbs 30:1, 5–6 contradicts that exclusion: its WEB heading
+says revelation, and the teaching trusts God’s words. The observational examples remain valid,
+but cannot define the whole tradition.
+
+Agur confesses that he has not learned wisdom or attained knowledge of the Holy One (2–3), then
+grounds trust in God’s flawless words (5–6). This is humility about the speaker’s limits, not the
+book’s abandonment of instruction. The questions of creation challenge mastery; received speech
+supplies guidance where mastery fails.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:2–6.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:3, 8–9, 11, 15, 17, 20; Wisdom turns away public anger,
   governs its own temper, and receives correction.
@@ -758,6 +777,8 @@ records the cross-reference sources and interpretive limits.
   which is Job 1:1 restated after twenty-seven chapters
 
 ## Related people
+
+- [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[Solomon]] — the king to whom God gave wisdom by request, and in whose name Proverbs opens
 

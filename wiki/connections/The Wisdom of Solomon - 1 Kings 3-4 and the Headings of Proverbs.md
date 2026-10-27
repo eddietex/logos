@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Words of Agur]] — Proverbs 30:1–3.
+
+
 - **Proverbs 1:1** — *"The proverbs of Solomon, the son of David, king of Israel"* — the heading of the
   book, at the start of [[The Purpose of the Proverbs]].
 - **Proverbs 10:1** — *"The proverbs of Solomon."* The heading of the first sentence collection —
@@ -15,8 +18,9 @@ tags: [connection]
   copied out."* — [[The Glory of Kings]]; see [[Hezekiah]].
 - **Proverbs 22:17; 24:23; 30:1; 31:1** — the headings that name someone else: *"the words of the
   wise"*, *"sayings of the wise"*, *"the words of Agur the son of Jakeh"*, *"the words of king Lemuel;
-  the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Excellent Things]]; the others are not yet
-  ingested.
+the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Excellent Things]] ,
+24:23 in [[The Field of the Sluggard]] ,
+  and 30:1 in [[The Words of Agur]]; 31:1 remains not yet ingested.
 - **1 Kings 3:9, 12** — Solomon asks for *"an understanding heart to judge your people, that I may
   discern between good and evil"*, and is told *"I have given you a wise and understanding heart; so
   that there has been no one like you before you, and after you none will arise like you."* Not yet
@@ -115,6 +119,16 @@ The chapter it introduces opens with kings — *"the glory of kings is to search
 — a line that sits easily under a royal heading, though no king in 25:2–7 is named.
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25:1–7.
+
+### Agur’s words — Proverbs 30:1–3
+
+The new heading names [[Agur]] , son of [[Jakeh]] , speaking to [[Ithiel]] and [[Ucal]] in the
+stored WEB. It marks a distinct attribution after the collection copied by Hezekiah’s men. Agur
+begins by confessing deficient understanding rather than claiming Solomon’s reputation. No date,
+country, court position, or identification with Solomon is supplied by this heading.
+
+See [[The Words of Agur]]. Sources: stored WEB and the comparisons documented on that page;
+no new source-language identity is claimed.
 
 ## Significance
 

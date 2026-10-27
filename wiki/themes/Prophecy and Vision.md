@@ -106,7 +106,19 @@ cannot replace its stated contrast. No particular prophet or occasion is identif
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:18; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:1, 5–6
+
+The WEB calls the heading a revelation and names its speaker and addressees. The unit records no
+vision scene or prophetic call. The authority of God’s words is paired with a ban on human
+additions; the heading does not authorize readers to invent a biography or divine message beyond
+what the text gives.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:1, 5–6.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:18; The WEB says revelation, and the parallel clause
   blesses the person who keeps the law.

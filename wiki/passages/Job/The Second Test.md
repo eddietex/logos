@@ -245,6 +245,12 @@ words*. **Chapter 3 begins eleven verses later.**
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:5 calls God a shield for those taking refuge in him.
+  **Explicit tension:** Job 2:3, 7 affirms Job’s integrity and narrates harm, so the image cannot
+  diagnose suffering as unbelief. See
+  [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]] .
+
+
 - [[The Fear of Man Is a Snare - Proverbs 29.25 and Exodus 1.17]] — comparison developed with Proverbs 29.
 
 - [[Where There Is No Vision]] — Proverbs 29:25 promises safety to the person who trusts Yahweh. Job

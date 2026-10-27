@@ -188,7 +188,18 @@ written-and-read variant: written *lōʾ*, *not*, read *lô*, *to him*. On the r
 *comes to him*, and *him* can be read as the curser. The WEB follows the written form, and the wiki
 does not decide between them. See [[Answer a Fool]]. Source: stored WEB Proverbs 26.
 
+### Agur’s words — Proverbs 30:10–11
+
+The servant’s curse warns the slanderer against provoking a morally serious complaint (10); the next
+saying condemns those who curse their father (11). Cursing is thus evaluated by relation and
+wrongdoing, not treated as automatically justified or automatically effective whenever spoken.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:10–11.
+
 
 - [[Wine Is a Mocker]] — Proverbs 20:20; A parental curse brings an extinguished lamp upon the speaker.
 

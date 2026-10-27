@@ -161,7 +161,18 @@ settings is asserted.
 See [[Wine Is a Mocker]]. Source: stored WEB Proverbs 20; supporting comparisons are documented on the
 passage page.
 
+### Agur’s words — Proverbs 30:12
+
+Being pure in one’s own eyes while unwashed from filth is a moral image of self-deception. This is
+distinct from the ritual classifications described in this page’s overview: the saying supplies
+neither a purity rite nor a rule about animals, bodily contact, or cultic access.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:12.
+
 
 - [[Wine Is a Mocker]] — Proverbs 20:9, 11, 30; Moral purity language distinguished from ritual status.
 

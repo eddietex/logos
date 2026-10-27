@@ -164,7 +164,19 @@ harm, so promised safety cannot be used to diagnose a sufferer’s unbelief.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:25–26; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:5, 7–9
+
+God is a shield for those taking refuge in him (5). Agur’s prayer seeks enough food to sustain
+dependence without denial or theft (7–9). **Explicit tension:** the shield image must stand
+alongside Job 2:3, 7, where God affirms Job’s integrity and Job suffers bodily harm; it cannot make
+injury proof of failed trust.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:5, 7–9.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:25–26; Trust in Yahweh answers fear of people and
   dependence on a ruler’s favor.

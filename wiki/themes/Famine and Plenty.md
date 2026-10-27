@@ -139,7 +139,18 @@ The sluggard's soul desires and has nothing (4); the poor man's productive field
 
 See [[Hope Deferred]]. Source: stored WEB Proverbs 13.
 
+### Agur’s words — Proverbs 30:8–9
+
+Food sufficient for need is Agur’s requested alternative to both poverty and riches. Fullness can
+encourage denial of God, and deprivation can tempt to theft. No famine is narrated; the saying makes
+provision an ethical concern and asks for enough, not maximal accumulation.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:8–9.
+
 
 - [[Hope Deferred]] — Proverbs 13:4, 23, 25.
 

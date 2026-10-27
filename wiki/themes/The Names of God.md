@@ -147,7 +147,19 @@ it, and Babel's tower built to *"make a name for ourselves"* (Genesis 11:4) stan
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### Agur’s words — Proverbs 30:3–5, 9
+
+The Holy One, God, and Yahweh occur in the WEB. Verse 4 asks the name of the one who governs
+creation and his son’s name without naming the son. Verse 9 fears denial of Yahweh and dishonor of
+God’s name. A Christian comparison with John 3:13 is a later reading, not an identification
+explicitly made in Proverbs.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:3–5, 9.
+
 
 - [[A Strong Tower]] — Proverbs 18:10.
 

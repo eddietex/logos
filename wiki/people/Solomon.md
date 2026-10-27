@@ -7,6 +7,10 @@ tags: [person]
 
 ## Overview
 
+Proverbs 30:1 now introduces [[Agur]] under his own heading: see [[The Words of Agur]]. This is
+an attribution boundary, not an appearance by Solomon; the words of 30:1–14 are not assigned to him.
+
+
 Son of [[David]] and Bathsheba, third king of Israel, builder of the temple, and the Old Testament's
 emblem of wisdom. The wiki meets him first not in the narrative of Samuel and Kings, which has not
 yet been ingested, but in the heading of the book that carries his name: *"The proverbs of Solomon,
@@ -152,6 +156,10 @@ Source: stored WEB Proverbs 25:1–7.
 
 ## Appears in
 
+- [[The Words of Agur]] — Proverbs 30:1, an attribution comparison only; Agur is named instead of
+  Solomon.
+
+
 - [[The Glory of Kings]] — Proverbs 25:1; named in the heading of the collection copied out by Hezekiah's men.
 - [[A Good Name]] — Proverbs 22:1–16; close of the collection attributed to him.
 - [[Thirty Excellent Things]] — Proverbs 22:17; the heading that turns from Solomon to *"the wise"*.
@@ -187,6 +195,7 @@ Source: stored WEB Proverbs 25:1–7.
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]
 
 ## Related people
+
 - [[David]] — his father
 - [[Hezekiah]] — king of Judah, whose men copied out the collection of Proverbs 25–29
 - [[God]] — who named him Jedidiah and gave him wisdom
@@ -194,6 +203,7 @@ Source: stored WEB Proverbs 25:1–7.
   wisdom is said to exceed (1 Kings 4:30)
 
 ## Themes associated
+
 - [[Wisdom]] — asked for, given, and made his reputation
 - [[Kingship and Empire]] — wisdom as the king's competence: a heart *"to judge your people"*
 - [[Folly]] — the warning case of his old age (1 Kings 11:4)

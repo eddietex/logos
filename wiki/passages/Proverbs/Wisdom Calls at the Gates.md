@@ -252,6 +252,12 @@ wisdom personified, without deciding more. 8:22–31 will say where she came fro
 
 ## Cross-references
 
+- [[The Words of Agur]] — **Explicit tension:** the riches and filled treasuries of Proverbs 8:18–21
+  stand beside Agur’s request to be spared riches in 30:8–9. Wealth can be received as a gift and
+  feared as a temptation; both claims remain. See
+  [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]] .
+
+
 - [[The Plans of the Heart]] — Proverbs 16:10–15, the king of 8:15 in sayings.
 - [[The Purpose of the Proverbs]] — Proverbs 1:3–6; equity, prudence to the simple, discretion to
   the young, and the riddles of the wise.

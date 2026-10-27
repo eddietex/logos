@@ -165,6 +165,11 @@ images, not identifiable locations requiring place pages.
 
 ## Cross-references
 
+- [[The Words of Agur]] — Proverbs 30:12 describes supposed purity that conceals actual filth,
+  extending 20:9’s challenge to self-certified cleanness without explaining another person’s
+  suffering. See [[What Is Man That He Should Be Clean]] .
+
+
 - [[The King's Heart]] — Proverbs 21:4 names pride the lamp of the wicked; 21:17 adds wine and oil to love of pleasure.
 
 - [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]] — Proverbs 20:20.

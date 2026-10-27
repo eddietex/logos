@@ -191,6 +191,11 @@ so, and both then become intercessors.** See [[A Prophet Who Prays - The First N
 
 ## Cross-references
 
+- [[The Words of Agur]] — Agur’s confession of inadequate knowledge in Proverbs 30:2–4 provides a
+  wisdom comparison for Job 42:3, without identifying the speakers or their experiences. See
+  [[Who Has Ascended - Proverbs 30.4, Job 38, and John 3.13]] .
+
+
 - [[Out of the Whirlwind]] — Job 38:2–3; 40:4–5: the question quoted at 42:3 and the summons quoted at 42:4;
   Job's first answer, the silence this one goes past.
 - [[Behemoth and Leviathan]] — Job 40:6–41:34: the speech this answers; *"an arm like God"* (40:9) behind 42:2,

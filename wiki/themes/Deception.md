@@ -294,7 +294,18 @@ statement.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:5, 12, 24; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Agur’s words — Proverbs 30:6, 8, 12
+
+Agur asks for distance from falsehood and lies. Addition to God’s words exposes the speaker as a
+liar, while a generation’s imagined purity masks its actual filth. The passage therefore joins
+misleading speech to misleading self-estimation.
+
+See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
+
 ## Key passages
+
+- [[The Words of Agur]] — Proverbs 30:6, 8, 12.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:5, 12, 24; Flattery lays a trap, a ruler’s appetite for
   lies corrupts his staff, and an accomplice suppresses testimony.
