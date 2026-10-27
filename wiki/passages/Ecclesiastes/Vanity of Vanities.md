@@ -86,6 +86,9 @@ river, sea, or travel itinerary is supplied.
 
 ## Cross-references
 
+- [[Two Are Better Than One]] — Ecclesiastes 4:8; eyes not satisfied with wealth, beside 1:8's eye
+  not satisfied with seeing.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:9, 15 returns to gain and recurrence, now naming
   God’s seeking of what has passed.
 

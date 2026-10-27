@@ -17833,3 +17833,49 @@ adding a raw book. No raw text changed and no new source-language claim was intr
 unstarted-book baseline. Exact verse-copy, single-pericope queue, type-count, title-uniqueness,
 category-row completeness and filing, and new-row order checks passed. No unresolved operational
 issue or harness compatibility change.
+
+## [2026-10-27] ingest | Ecclesiastes 4.4-12 — Two Are Better Than One
+
+Unattended `/ingest auto` by Claude; exactly one pericope. Retained the planned 4:4–12 boundary:
+verse 4 opens a new observation after 4:1–3, and verse 13's youth and old king begins the next
+unit. The next pericope, Ecclesiastes 4:13–16, remains unchecked.
+
+**Interpretive decisions.** [[Two Are Better Than One]] keeps 4:4's sweeping scope (all labor and
+achievement as a neighbor's envy) and reads verses 5–6 as ruling out both idleness and excess
+labor. The two companions of 9–12 are filed under companionship and [[Brotherhood]], not
+[[Marriage]]: the unit names son, brother, and fellow, never a wife, so the common marital reading
+of 4:11 is recorded as interpretation only. The third strand of the threefold cord is left
+unidentified, as the text leaves it. The fool's self-ruin (4:5) is kept distinct from the
+oppressed of 4:1. The Preacher is the only identified speaker; God is not mentioned. No new
+person, place, or theme page was needed.
+
+**Created (3 content pages):** [[Two Are Better Than One]];
+[[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]];
+[[Not Good to Be Alone - Genesis 2.18 and Ecclesiastes 4.8-12]].
+
+**Revised (19 content pages):** [[Ecclesiastes]]; [[The Preacher (Ecclesiastes)]]; eight themes
+(Work, Envy, Vanity, Folly, Wisdom, Wealth and Possessions, Joy and Enjoyment, Brotherhood);
+three connections (Better Is Little, Never Satisfied, A Friend Loves at All Times); six
+reciprocal passages (The Tears of the Oppressed, The Labor Left to Another, Vanity of Vanities,
+The Garden of Eden, The Surety, the Sluggard, and the Seven Abominations, The Field of the
+Sluggard).
+
+**Correction on an affected page.** [[Envy]] quoted Proverbs 14:30 as *envy is the rottenness of
+the bones* and Ecclesiastes 4:4 as *every labor and every skillful work, that for it a man is envied
+by his neighbor*; neither is the stored WEB wording. Both are replaced with the stored WEB text
+(*envy rots the bones*; *all the labor and achievement that is the envy of a man's neighbor*), and
+the page says so at the point of correction.
+
+**Indexes and totals.** Revised seven index pages: books (9 / 24), main dashboard, themes,
+People N-Z, and Connections A-C, D-H (new row under F), I-N (new row under N). Counts by
+frontmatter type: 196 passages, 187 people, 91 places, 85 themes, 492 connections.
+
+**Sources and validation.** All nine primary verses copied verbatim from immutable stored WEB
+Ecclesiastes 4:4–12 (diffed against the raw file). Comparisons checked in stored WEB Ecclesiastes
+1:8; 2:18–24; 3:12–13, 22; 4:1–3, 13; 5:10–12; 6:1–3; Proverbs 6:6–11; 14:30; 15:16–17; 16:8;
+17:1, 17; 18:24; 22:22; 24:30–34; 27:4, 10, 20; Genesis 2:15–24. Hebrew claims (*qinʾaṯ* in 4:4;
+*ḥōḇēq* and *ʾōḵēl ʾeṯ-bəśārô* in 4:5; *lōʾ-ṯiśbaʿ ʿōšer* and the written/read *ʿênāyw*/*ʿênô* in
+4:8; *ḥăḇērô* in 4:10; *haḥûṭ haməšullāš* in 4:12; *ḥibbuq yāḏayim* in Proverbs 6:10; 24:33) were
+read in Mechon-Mamre's Masoretic text on 2026-10-27; the Hebrew of Genesis 2:18 was not checked,
+and the new connection page says so. No raw text changed. `scripts/link-check.sh` passed: no
+wrapped or dangling links beyond the expected 61 unstarted-book baseline.

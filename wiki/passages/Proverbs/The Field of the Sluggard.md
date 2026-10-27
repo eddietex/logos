@@ -157,6 +157,10 @@ Judah copied out"* (25:1). See [[The Glory of Kings]].
 
 ## Cross-references
 
+- [[Two Are Better Than One]] — Ecclesiastes 4:5 uses the folded hands of 24:33, and 4:6 sets the
+  opposite danger beside it. See
+  [[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]].
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:21 returns to 24:23’s condemnation of
   partiality and adds wrongdoing for a piece of bread.
 

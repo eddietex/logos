@@ -84,6 +84,9 @@ geographical location.
 
 ## Cross-references
 
+- [[Two Are Better Than One]] — Ecclesiastes 4:8; the man who has neither son nor brother asks for
+  whom he labors, the sharper case of 2:18–21's unknown successor.
+
 - [[From Dust to Dust]] — Ecclesiastes 3:22 again commends rejoicing in works as a portion
   without knowledge of what will follow a person.
 

@@ -17,6 +17,8 @@ tags: [connection]
   fire that doesn't say, 'Enough.'"*
 - **Ecclesiastes 1:8** — [[Vanity of Vanities]] — *"The eye is not satisfied with seeing, nor the ear filled
   with hearing."*
+- **Ecclesiastes 4:8** — [[Two Are Better Than One]] — *"There is no end to all of his labor, neither
+  are his eyes satisfied with wealth."*
 - **Isaiah 5:14** *(not yet ingested)* — *"Therefore Sheol has enlarged its desire, and opened its mouth
   without measure"*
 - **Habakkuk 2:5** *(not yet ingested)* — the haughty man *"who enlarges his desire as Sheol, and he is
@@ -66,6 +68,16 @@ weariness and forgetting. This expands the comparison beyond acquisitiveness: 1:
 possessions or particular immoral observer. Proverbs 27:20's eye is a close comparison;
 Agur's list adds further examples without making them identical to the Preacher's whole
 argument. Source: stored WEB Ecclesiastes 1:1–11; Proverbs 27:20; 30:15–16.
+
+### The eye and wealth — Ecclesiastes 4:8
+
+[[Two Are Better Than One]] brings the motif back to possessions. The man alone, with neither son
+nor brother, labors without end, and his eyes are *"not satisfied with wealth"* (4:8). The Hebrew is
+*lōʾ-ṯiśbaʿ ʿōšer*, the verb of 1:8 and Proverbs 27:20, now with *ʿōšer*, *wealth*, as what fails to
+fill (Mechon-Mamre's Masoretic text, Ecclesiastes 4, read 2026-10-27; its consonantal text writes
+*his eyes*, read as *his eye*, and the WEB follows the plural). Unlike 1:8, this is an acquisitive
+case, and it is diagnosed by a question the man asks too late — *"For whom then, do I labor?"* — not
+by comparison with Sheol. Source: stored WEB Ecclesiastes 1:8; 4:8; Proverbs 27:20.
 
 ## Significance
 

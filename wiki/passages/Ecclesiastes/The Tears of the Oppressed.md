@@ -66,6 +66,9 @@ it does not identify a particular country, court, or city.
 
 ## Cross-references
 
+- [[Two Are Better Than One]] — Ecclesiastes 4:4–12; the next observation, from envious labor to
+  the companion who lifts the one who falls.
+
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; corrupt justice, judgment affirmed, and enjoyment.
 - [[A Time for Every Purpose]] — Ecclesiastes 3:4, 12–13; weeping has a time, and enjoyment is a gift.
 - [[Comforters Who Do Not Comfort]] — absence of comfort here compared with failed comfort in Job.
@@ -83,7 +86,7 @@ it does not identify a particular country, court, or city.
 
 **Boundary.** The planned 4:1–3 unit is retained. The renewed observation in verse 1 leads
 to the two comparative judgments in verses 2–3. Verse 4 turns to labor, achievement, and envy;
-that next pericope is not ingested here.
+that next pericope is [[Two Are Better Than One]] (4:4–12).
 
 **Power and comfort.** The repeated lack of a comforter encloses the statement about the
 oppressors' power. This is stronger than saying the victims feel lonely. Yet the text does

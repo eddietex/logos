@@ -59,12 +59,17 @@ The Preacher praises the dead above the living and the one who has not yet been 
 for not seeing evil. The claim remains beside 3:22's enjoyment and 3:17's affirmed judgment;
 no rescue is narrated here.
 
+[[Two Are Better Than One]] (4:4–12) finds all labor and achievement to be the envy of a
+neighbor, rejects the fool's folded hands, and prefers a quiet handful to two handfuls with
+labor. A man with neither son nor brother labors without end and asks for whom. Against him,
+two are better than one: they lift, warm, and defend each other, and a threefold cord holds.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–4:3 currently has ingested passage pages.
+only 1:1–4:12 currently has ingested passage pages.
 
 ## Structure
 
@@ -91,7 +96,7 @@ merge, or reorder them freely.
 - [x] [[A Time for Every Purpose]] — Ecclesiastes 3:1–15
 - [x] [[From Dust to Dust]] — Ecclesiastes 3:16–22
 - [x] [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3
-- [ ] Two Are Better Than One — Ecclesiastes 4:4–12
+- [x] [[Two Are Better Than One]] — Ecclesiastes 4:4–12
 - [ ] The Youth and the Old King — Ecclesiastes 4:13–16
 - [ ] Let Your Words Be Few — Ecclesiastes 5:1–7
 - [ ] The Lover of Silver and the Gift of Enjoyment — Ecclesiastes 5:8–20
@@ -109,6 +114,9 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Envy]], [[Folly]], and [[Brotherhood]] — labor as rivalry, the fool's folded hands, and the
+  companion who lifts the one who falls (4:4–12).
 
 - [[Suffering]], [[The Poor and the Vulnerable]], and [[Compassion and Mercy]] — oppression
   without comfort (4:1–3), held beside the book's affirmations of enjoyment.

@@ -321,7 +321,6 @@ with his heart *"yet guiding me with wisdom"* (2:3). Folly is now practiced, not
 as an experiment under wisdom's supervision. The purpose is stated: to see what is good for the
 sons of men to do. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:2–3.
 
-
 ### The fool's darkness and the common end — Ecclesiastes 2:13–16
 
 The fool *"walks in darkness"* while the wise man's eyes are in his head (2:14), and folly is ranked
@@ -340,7 +339,20 @@ The successor is not declared foolish; uncertainty is the grievance.
 
 See [[The Labor Left to Another]]. Source: stored WEB Ecclesiastes 2:18–26.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+*"The fool folds his hands together and ruins himself"* (4:5). The WEB's *ruins himself* renders a
+phrase reading literally *eats his own flesh* (Mechon-Mamre's Masoretic text, read 2026-10-27).
+The folded hands are the sluggard's of Proverbs 6:10 and 24:33; see
+[[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]]. The fool is the foil for
+4:6, which cautions against the opposite excess of labor.
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:5; The fool folds his hands and ruins himself.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26
   the successor may be wise or foolish; the worker cannot know.

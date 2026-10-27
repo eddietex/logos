@@ -535,7 +535,19 @@ possession.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+The man alone has no son or brother, yet his labor has no end and his eyes are *"not satisfied with
+wealth"* (8). Where 2:18–21 feared an heir who might be a fool, here there is no heir at all. The
+wealth is real; what is missing is satisfaction and anyone to receive it. See
+[[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk 2.5]].
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:6–8; Two handfuls with labor, and wealth that neither satisfies nor has an heir.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Keeping and relinquishing within changing
   times.
@@ -551,7 +563,6 @@ See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
   legal rights must be defended.
 
 - [[The Words of Agur]] — Proverbs 30:8–9.
-
 
 - [[Where There Is No Vision]] — Proverbs 29:3–4, 13; Companionship with prostitutes wastes wealth,
   and bribes dismantle a land.

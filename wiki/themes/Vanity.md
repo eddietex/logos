@@ -44,7 +44,6 @@ pleasure: *"all was vanity and a chasing after wind, and there was no profit und
 [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]]. Source: stored WEB
 Ecclesiastes 2:1–11.
 
-
 **Ecclesiastes 2:12–17.** [[The Wise and the Fool Share One End]] applies the verdict to wisdom's advantage in the face of death:
 *"why was I then more wise?"*, and *"this also is vanity"* (2:15). The unit closes
 with the full formula and a stated feeling, *"So I hated life"* (2:17). See
@@ -69,7 +68,19 @@ Mortality, judgment, and enjoyment stand together without an explanation that di
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+The verdict is pronounced twice: over labor driven by envy (4) and over the man alone whose labor
+has no end and whose eyes are not satisfied with wealth (7–8), which the Preacher also calls *"a
+miserable business."* The verdict is not extended to companionship; verses 9–12 commend two over
+one without calling it vanity.
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:4–12; Vanity over envious labor and solitary accumulation, not over companionship.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; The verdict attaches to humanity’s lack of advantage in death.
 

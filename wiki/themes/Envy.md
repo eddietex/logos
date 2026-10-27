@@ -63,10 +63,11 @@ they are the same word used of different parties.** See [[The Names of God]].
 
 **And the tenth commandment names the appetite rather than the act** — *"You shall not covet"*
 (Exodus 20:17), a different root, *ḥāmad*, and the only commandment in the Decalogue that legislates
-a wish. The Wisdom books then work the theme as a physical condition: *"envy is the rottenness of the
+a wish. The Wisdom books then work the theme as a physical condition: *"envy rots the
 bones"* (Proverbs 14:30); *"wrath is cruel, and anger is overwhelming; but who is able to stand before
-jealousy?"* (Proverbs 27:4); and Ecclesiastes 4:4 makes it the whole motor of human labour — *"every
-labor and every skillful work, that for it a man is envied by his neighbor."*
+jealousy?"* (Proverbs 27:4); and Ecclesiastes 4:4 makes it the whole motor of human labour — *"all the
+labor and achievement that is the envy of a man's neighbor."* (Both quotations corrected to the
+stored WEB on 2026-10-27; the page had carried non-WEB wording for Proverbs 14:30 and Ecclesiastes 4:4.)
 
 **The New Testament keeps it in the vice lists** (Romans 1:29; 1 Corinthians 3:3; Galatians 5:21;
 James 3:14–16; 1 Peter 2:1), and Mark 15:10 makes it the diagnosis of the crucifixion: *"he perceived
@@ -143,7 +144,20 @@ see [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, and Habakkuk
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 6:34; 27:4, 20; Hebrew from Sefaria.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+Ecclesiastes 4:4 makes envy the measure of *all* labor and achievement, not one vice among
+others: *"all the labor and achievement that is the envy of a man's neighbor."* The noun is *qinʾaṯ*,
+the *qnʾ* root traced on this page (Mechon-Mamre's Masoretic text, read 2026-10-27). The verdict is
+vanity and a striving after wind. The next lines rule out idleness (5) and commend a quiet handful
+(6), so the Preacher's remedy for rivalry is enough rather than nothing.
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:4–6; All labor and achievement observed as the envy of a neighbor, and judged vanity.
 
 - [[Do Not Withhold Good]] — Proverbs 3:21–35; The violent man must be neither envied nor imitated.
 

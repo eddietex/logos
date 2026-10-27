@@ -34,6 +34,8 @@ tags: [connection]
   [[Do Not Boast About Tomorrow]]
 - **Proverbs 28:6** — *"Better is the poor who walks in his integrity, than he who is perverse in his ways,
   and he is rich."* — [[The Wicked Flee When No One Pursues]]
+- **Ecclesiastes 4:6** — *"Better is a handful, with quietness, than two handfuls with labor and
+  chasing after wind."* — [[Two Are Better Than One]]
 - **Proverbs 3:14; 8:11, 19** — wisdom better than silver, gold, and rubies — see
   [[Better Than Gold - The Price of Wisdom]].
 
@@ -138,3 +140,14 @@ where love is"*, and its *feasting* is *zibḥê-rîb*, *sacrifices of strife* �
 house that is quarrelling over it (Hebrew from Sefaria's *Miqra according to the Masorah*). The
 comparison is again between a little with peace and plenty without it; the saying does not say the
 dry morsel is the reward of the quiet. Source: stored WEB Proverbs 15:17; 17:1.
+
+### Read beside Ecclesiastes 4:6, 9
+
+The form crosses into Ecclesiastes. *"Better is a handful, with quietness, than two handfuls with
+labor and chasing after wind"* (4:6) is closest to Proverbs 17:1's *"dry morsel with quietness"*, and
+like the Proverbs sayings it concedes the larger amount before ranking it lower. What it sets against
+the two handfuls is not the fear of Yahweh, love, or righteousness, as in 15:16–17 and 16:8, but the
+Preacher's own refrain, *"chasing after wind"*. Its neighbor at 4:5 rules out the empty hands of the
+fool, so the handful is a portion actually worked for. Three verses later the form ranks people rather
+than goods: *"Two are better than one"* (4:9). See [[Two Are Better Than One]]. Source: stored WEB
+Proverbs 15:16–17; 16:8; 17:1; Ecclesiastes 4:5–6, 9.

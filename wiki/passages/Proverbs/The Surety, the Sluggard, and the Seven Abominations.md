@@ -206,6 +206,10 @@ comment on Genesis. See [[Brotherhood]] and [[Strife and Peacemaking]].
 
 ## Cross-references
 
+- [[Two Are Better Than One]] — Ecclesiastes 4:5's fool *"folds his hands together and ruins
+  himself"*, the gesture of 6:10. See
+  [[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]].
+
 - [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]] — comparison developed with Proverbs 29.
 
 - [[Where There Is No Vision]] — Proverbs 29:1 applies sudden destruction without remedy to the

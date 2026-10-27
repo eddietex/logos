@@ -610,7 +610,6 @@ The trial of pleasure is conducted *"my heart yet guiding me with wisdom"* (2:3)
 it, so the verdict of 2:11 is a wise man's verdict on pleasure, not a fool's. See
 [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:3, 9, 11.
 
-
 ### Wisdom excels folly, and dies like it — Ecclesiastes 2:12–17
 
 *"Wisdom excels folly, as far as light excels darkness"* (2:13): the ranking held back as a pending
@@ -651,7 +650,20 @@ recognizing the boundary of observation rather than supplying a detailed afterli
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+No sage is named, but the unit is practical wisdom in the Proverbs manner: a better-than saying
+(6), a case study (8), and a sequence of plain observations closing on a proverb — *"a threefold
+cord is not quickly broken"* (12). The wisdom here is measured and social: enough with quietness,
+and another person to lift, warm, and defend. See
+[[Better Is Little - The Better-Than Sayings of Proverbs]].
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:6, 9–12; A quiet handful and a companion ranked as the better portion.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Questions about spirit and the future mark the limit of knowing.
 
@@ -677,7 +689,6 @@ See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparison
 - [[Four Things]] — Proverbs 30:18, 24–28; Ways too wonderful to understand; four small creatures exceedingly wise.
 
 - [[The Words of Agur]] — Proverbs 30:2–6.
-
 
 - [[Where There Is No Vision]] — Proverbs 29:3, 8–9, 11, 15, 17, 20; Wisdom turns away public anger,
   governs its own temper, and receives correction.

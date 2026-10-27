@@ -57,7 +57,15 @@ who has not yet existed better off than either for not seeing evil (4:2–3). Th
 response to observed oppression, not a report that he himself has died or a command to die.
 The tension with his preceding commendation of enjoyment remains explicit.
 
+In [[Two Are Better Than One]] he observes that all labor and achievement is the envy of a
+neighbor (4:4), rejects the fool's folded hands (5), and ranks a quiet handful above two handfuls
+with labor (6). He describes a man with neither son nor brother who labors without end and asks
+for whom (8), then commends two over one for reward, help, warmth, and defense (9–12). After the
+preference for the dead in 4:2–3, he names a concrete good among the living.
+
 ## Timeline / key events
+
+- Ecclesiastes 4:4–12 — [[Two Are Better Than One]]; envious labor, the man alone, and the advantage of companions.
 
 - Ecclesiastes 4:1–3 — [[The Tears of the Oppressed]]; observed oppression and the severe comparison of lives.
 
@@ -78,6 +86,8 @@ The tension with his preceding commendation of enjoyment remains explicit.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:4–12; observer of envy, solitude, and companionship.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; tears, power, and no comforter.
 
@@ -100,6 +110,8 @@ The tension with his preceding commendation of enjoyment remains explicit.
 
 ## Themes associated
 
+- [[Envy]] and [[Brotherhood]] — labor as rivalry (4:4); neither son nor brother, and the fellow who lifts (4:8–10).
+
 - [[Mourning and Lament]], [[Compassion and Mercy]], and [[The Poor and the Vulnerable]] — tears without comfort (4:1).
 
 - [[Judgment]] and [[Righteousness]] — corrupt courts and God’s judgment (3:16–17).
@@ -121,4 +133,4 @@ The tension with his preceding commendation of enjoyment remains explicit.
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–4:3; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–4:12; Proverbs 1:1–7.

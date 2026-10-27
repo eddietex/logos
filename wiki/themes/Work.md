@@ -416,7 +416,6 @@ no lasting profit, and the page keeps both. Proverbs 14:23's *"In all hard work 
 recorded on [[Profit and Remembrance - Proverbs and Ecclesiastes 1]], stands in explicit tension
 with 2:11. See [[The Trial of Pleasure]]. Source: stored WEB Ecclesiastes 2:4–11; Proverbs 14:23.
 
-
 ### Work made grievous — Ecclesiastes 2:17
 
 *"So I hated life, because the work that is worked under the sun was grievous to me"* (2:17). The
@@ -464,7 +463,20 @@ at 4:4, in the next, still-uningested unit.
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+Labor is observed from three angles. All labor and achievement is *"the envy of a man's
+neighbor"* (4), and is judged vanity. The fool who folds his hands ruins himself (5), so idleness is
+no escape; yet a handful with quietness outranks two handfuls with labor (6). The man alone labors
+without end and without an heir (8). The positive answer is shared labor: two have *"a good reward
+for their labor"* (9). See [[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]].
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:4–12; Labor driven by envy, refused by the fool, multiplied by the man alone, and rewarded when shared.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Evil deeds in 4:3 beside works enjoyed in 3:22.
 

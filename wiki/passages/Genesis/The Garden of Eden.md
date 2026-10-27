@@ -111,6 +111,10 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 
 ## Cross-references
 
+- [[Two Are Better Than One]] — Ecclesiastes 4:8–12 finds by observation that the one alone is worse
+  off, but names son, brother, and fellow rather than a wife. See
+  [[Not Good to Be Alone - Genesis 2.18 and Ecclesiastes 4.8-12]].
+
 - [[From Dust to Dust]] — Genesis 2:7, 19’s creatures from the ground beside Ecclesiastes 3:19–21’s
   common breath, dust, and question about spirit. See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
 

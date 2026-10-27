@@ -79,7 +79,19 @@ See [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]].
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+The man alone asks, *"For whom then, do I labor, and deprive my soul of enjoyment?"* (4:8). He is
+the negative image of the enjoyment commended in 2:24 and 3:12–13, 22: the means are there, the
+enjoyment is withheld by his own labor. After the preference for the dead in 4:1–3, verses 9–12
+name a good among the living — companionship — without using the language of joy.
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:8; The solitary laborer deprives his soul of enjoyment.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Oppression qualifies any universal application of the enjoyment sayings.
 

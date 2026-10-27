@@ -42,6 +42,9 @@ tags: [connection]
 - **1 Samuel 18:1, 3** *(not yet ingested)* — *"the soul of Jonathan was knit with the soul of David,
   and Jonathan loved him as his own soul"*; *"Then Jonathan and David made a covenant"*
 
+- **Ecclesiastes 4:10** — *"For if they fall, the one will lift up his fellow; but woe to him who is
+  alone when he falls, and doesn't have another to lift him up."* — [[Two Are Better Than One]]
+
 ## Analysis
 
 **Proverbs 17:17 sets the friend and the brother side by side, and the wisdom collection does not
@@ -114,6 +117,16 @@ improves both. Verse 10's near neighbour over the distant brother is the saying 
 praises the wound that is faithful, and Job's complaint was that theirs were not. See
 [[Do Not Boast About Tomorrow]]. Sources: stored WEB Proverbs 26:24; 27; Hebrew from Sefaria's *Miqra
 according to the Masorah*, 2026-10-26.
+
+### Ecclesiastes 4:8–12 — the fellow who lifts
+
+[[Two Are Better Than One]] supplies the practical case for the friend of Proverbs 17:17. The man of
+4:8 has *"neither son nor brother"*; the remedy in 4:10 is a *fellow* (*ḥăḇērô*, his companion, in
+Mechon-Mamre's Masoretic text, read 2026-10-27) who lifts the one who falls. Like Proverbs 18:24 and
+27:10, Ecclesiastes does not make kinship the condition of help: the advantage belongs to whoever is
+there. Unlike Job's friends, the companion of 4:10 is pictured only as present and helping; the
+passage does not consider a companion who fails. Source: stored WEB Ecclesiastes 4:8–12; Proverbs
+17:17; 18:24; 27:10.
 
 ## Significance
 

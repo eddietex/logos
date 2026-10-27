@@ -137,7 +137,20 @@ nearest. See [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]].
 
 See [[Do Not Boast About Tomorrow]]. Source: stored WEB Proverbs 17:17; 27:10; Hebrew from Sefaria.
 
+### Two are better than one — Ecclesiastes 4:4–12
+
+The solitary laborer has *"neither son nor brother"* (4:8). The remedy is not kinship but a *fellow*
+who lifts the one who falls (10), warms (11), and stands with him against an attacker (12). Like
+Proverbs 18:24 and 27:10, the passage locates help in whoever is present. See
+[[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]] and
+[[Not Good to Be Alone - Genesis 2.18 and Ecclesiastes 4.8-12]].
+
+See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
+records the comparison sources and Hebrew checks.
+
 ## Key passages
+
+- [[Two Are Better Than One]] — Ecclesiastes 4:8–12; Neither son nor brother, and the companion who lifts the one who falls.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:7; Relatives shun the poor: kinship
   alone does not guarantee help in adversity.
