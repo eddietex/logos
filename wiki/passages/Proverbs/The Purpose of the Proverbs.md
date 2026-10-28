@@ -151,6 +151,9 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 
 ## Cross-references
 
+- [[Love Better Than Wine]] — Song 1:1 also names Solomon, but its opening moves into desire rather than a curriculum.
+  See [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]. Source: stored WEB Song of Solomon 1:1–4.
+
 - [[Words of Truth and the Work of the Teacher]] — Ecclesiastes 12:9–12 assesses the work of teaching offered here.
 
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] —

@@ -149,6 +149,9 @@ limits on lending and Proverbs' own repeated warnings against standing surety (6
 
 ## Cross-references
 
+- [[Love Better Than Wine]] — Song 1:3 uses fragrant oil to praise a name; it does not repeat the ranking above wealth.
+  See [[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]]. Source: stored WEB Song of Solomon 1:1–4.
+
 - [[Where There Is No Vision]] — Proverbs 29:13 resembles 22:2’s shared-dependence form, replacing
   rich and poor with poor and oppressor, and their common Maker with Yahweh’s gift of sight. This
   does not excuse oppression. Proverbs 29:15, 17 also brings the chapter’s discipline thread into

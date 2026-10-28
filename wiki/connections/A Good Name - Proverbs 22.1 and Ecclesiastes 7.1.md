@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Love Better Than Wine]] — Song of Solomon 1:3, comparison of a name with fragrant oil.
+
 - [[A Good Name]] — Proverbs 22:1.
 - [[The House of Mourning]] — Ecclesiastes 7:1–2.
 
@@ -37,6 +39,16 @@ Hebrew expressions are identical or that either book borrows from the other.
 
 Sources: stored WEB Proverbs 22:1; Ecclesiastes 1:11; 2:16; 7:1–2. Both quotations are exact
 stored WEB excerpts. No source-language claim is made.
+
+### A name as fragrant oil — Song of Solomon 1:3
+
+[[Love Better Than Wine]] extends the comparison: the beloved's fragrant oils lead to
+his name likened to oil poured out, and to the virgins' love for him. Ecclesiastes ranks
+name above perfume; the Song uses fragrance to express the name's attraction. Proverbs
+22:1 sets reputation above wealth. These are related images with different purposes,
+not the same maxim or a demonstrated chain of borrowing. The Song does not attach
+Ecclesiastes' death-day comparison to its own image. Source: stored WEB Song 1:1–4;
+Proverbs 22:1; Ecclesiastes 7:1–2. No Hebrew wordplay is asserted.
 
 ## Significance
 

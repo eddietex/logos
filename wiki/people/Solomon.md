@@ -7,6 +7,11 @@ tags: [person]
 
 ## Overview
 
+Song of Solomon 1:1 is now ingested in [[Love Better Than Wine]]. Its heading explicitly associates the
+song with Solomon, while verses 2–4 do not name the beloved or identify the woman.
+The king's rooms are a royal reference, not proof that every lover's voice is Solomon's.
+Source: newly stored WEB Song of Solomon 1:1–4.
+
 Proverbs 30:1 now introduces [[Agur]] under his own heading: see [[The Words of Agur]]. This is
 an attribution boundary, not an appearance by Solomon; the words of 30:1–14 are not assigned to him.
 
@@ -43,8 +48,9 @@ Solomon in all his glory was not dressed like one of these"* (Matthew 6:29), and
 Solomon is here"* (Matthew 12:42).
 
 Quotations from Samuel, Kings, Nehemiah, Song of Solomon, Ecclesiastes, and Matthew on this page are
-WEB, checked against bible-api.com (2026-10-25). Ecclesiastes 1:1–11 is now ingested in
-[[Vanity of Vanities]] and checked against stored WEB; the other cited books remain unstarted.
+WEB, checked against bible-api.com (2026-10-25). Ecclesiastes 1:1–11 is ingested in
+[[Vanity of Vanities]]; Song of Solomon 1:1–4 is now ingested in [[Love Better Than Wine]].
+Both are checked against stored WEB; Samuel, Kings, Nehemiah, and Matthew remain unstarted.
 
 Proverbs 4:3–4 recalls a teacher receiving instruction from his father. The heading at
 1:1 makes a David–Solomon association possible, but 4:1–9 names neither man.
@@ -192,6 +198,8 @@ not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 
 ## Timeline / key events
 
+- Song of Solomon 1:1 — named in the heading; literary attribution, not a dated event. [[Love Better Than Wine]]
+
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
 - 1 Kings 3:5–15 *(not yet ingested)* — asks for an understanding heart, and is given wisdom.
 - 1 Kings 4:29–34 *(not yet ingested)* — wisdom beyond the east and Egypt; three thousand proverbs.
@@ -200,6 +208,8 @@ not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 - Proverbs 25:1 — named in the heading of the collection copied by Hezekiah's men. [[The Glory of Kings]]
 
 ## Appears in
+
+- [[Love Better Than Wine]] — Song of Solomon 1:1; named attribution, not an identified speaking part.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; attribution comparison only, not named.

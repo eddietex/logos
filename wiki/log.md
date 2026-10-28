@@ -18637,3 +18637,66 @@ by refusing to overwrite it. `scripts/link-check.sh` passed with no wrapped or
 unexpected dangling links and 61 expected unstarted-book targets; `git diff --check`
 passed. All three new titles are unique. No deliberately dangling target or
 unresolved blocker remains.
+
+## [2026-10-28] ingest | Song of Solomon 1.1-4 — Love Better Than Wine
+
+Unattended `/ingest auto` by Codex (OpenAI); exactly one pericope. No book was open,
+so the first incomplete priority book, Song of Solomon, was selected. Fetched its
+complete WEB text through the canonical fetch script: 8 chapters, 117 verses. Read
+the whole book and created a provisional 16-unit pericope queue with continuous,
+nonoverlapping coverage. Only 1:1–4 is checked. The heading and opening desire form
+the first unit; 1:5 starts the woman's self-description and next unit. Discussion
+is incorporated in the passage summary and notes. No prior raw text, controller
+file, or workflow instruction changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** Two person pages track the woman and man as literary
+roles, without identifying them as a named historical couple. Solomon's attribution
+is distinguished from the identity of the king and beloved. The unnamed virgins and
+Friends receive no collective biography; the king is not made into an invented
+additional historical person. The fetched WEB's Friends and Beloved speaker cues
+inside 1:4 are preserved verbatim and explained. No named location appears, so the
+king's rooms receive no geographical identification or place page. Marriage status,
+a particular wife, a continuous courtship plot, and allegorical identities are not
+supplied as facts. All five principal themes receive synthesis and occurrence updates.
+
+**Correction and differences retained.** The Love page's prior blanket description
+of the Song as containing no command or ranking is explicitly corrected: 1:2–4
+already contains requests and a comparison, and verified later verses include
+injunction and comparison (2:7; 5:9–10; 6:9). Its unsupported book-wide Hebrew-word
+generalization is withdrawn without substituting another lexical claim. Praise and
+Song's overview now includes the praise of human love. Proverbs 5 and Ecclesiastes 9
+explicitly name wives; the opening Song does not. The wine-and-love comparison keeps
+that difference, and the name-and-oil connection distinguishes an attractive simile
+from Ecclesiastes' good-name ranking and death-day context.
+
+**Created (5 content pages):** [[Song of Solomon]], [[Love Better Than Wine]],
+[[The Woman (Song of Solomon)]], [[The Man (Song of Solomon)]], and
+[[Wine, Oil, and the Joy of Love]], using the matching book, passage, person, and
+connection templates.
+
+**Revised (13 content pages):** Solomon; five themes (Love, Joy and Enjoyment, Names
+and Naming, Kingship and Empire, Praise and Song); two connections (A Good Name -
+Proverbs 22.1 and Ecclesiastes 7.1; The Wisdom of Solomon - 1 Kings 3-4 and the
+Headings of Proverbs); five reciprocal passages (The Strange Woman and the Wife of
+Your Youth, One Event Comes to All, A Good Name, The House of Mourning, The Purpose
+of the Proverbs). The previous forward reference to Song 1:1 now links to its passage.
+
+**Indexes and totals.** Revised seven indexes: books, main dashboard, themes,
+People F-M and N-Z, Connections D-H and T-Z. The man files under M, the woman under W,
+and the new connection under W. Totals counted by frontmatter type: 212 passages,
+189 people, 91 places, 85 themes, 518 connections; 6 books started, 5 complete.
+Song of Solomon is in progress at 1 / 16. Every person, place, theme, and connection
+has exactly one category row; alphabetical subindex ranges and ordering are valid.
+With this log, 26 wiki files are created or revised: 5 new content pages, 13 revised
+content pages, 7 indexes, and the log. One new raw file is added; Places is unchanged.
+
+**Sources and validation.** All four primary verses were copied mechanically from
+the fetched WEB and compared back exactly. Comparisons were read in stored WEB
+Proverbs 1:1–7; 5:15–20; 22:1; Ecclesiastes 1:1; 7:1–2; 9:7–9; Song 2:7; 4:10;
+5:9–10; 6:9; 8:6–7, with the full Song read for planning. Later Song verses remain
+un-ingested despite being verified in raw. No new quotation from an unstored book
+or claim about Greek or Hebrew wording is introduced. All new titles are unique.
+`scripts/link-check.sh` passed with no wrapped or unexpected dangling links and
+60 expected unstarted-book targets; `git diff --check` passed. No deliberately
+dangling target or unresolved blocker remains. Literary speaker identity remains
+qualified on the relevant pages.

@@ -46,7 +46,7 @@ the revelation which his mother taught him"*. 22:17 is ingested in [[Thirty Exce
   claims great wisdom above all who were before him in Jerusalem.
 - **Ecclesiastes 12:9** — the Preacher teaches and arranges proverbs; stored WEB checked,
   but this closing unit is not yet ingested.
-- **Song of Solomon 1:1** — *"The Song of songs, which is Solomon's."* Not yet ingested.
+- **Song of Solomon 1:1** — [[Love Better Than Wine]]; the heading explicitly associates the song with Solomon.
 - **Matthew 12:42** — *"she came from the ends of the earth to hear the wisdom of Solomon; and behold,
   someone greater than Solomon is here."* Not yet ingested.
 
@@ -178,6 +178,20 @@ and judges them without profit (2:11). The resemblance to Solomon's splendor in 
 (paraphrased; not stored) is real; Solomon is still not named, and 2:9's predecessors in
 Jerusalem remain the same difficulty as 1:16's. Source: stored WEB Ecclesiastes 2:1–11; 1 Kings
 3:13 as quoted above.
+
+### A song under Solomon's name — Song of Solomon 1:1–4
+
+[[Love Better Than Wine]] adds the Song's heading to the ingested attribution evidence.
+Proverbs 1:1 names Solomon and identifies his father and kingship; Song 1:1 associates
+the song with Solomon without that extended identification. Ecclesiastes 1:1 gives a
+royal and Davidic description without his name. Each heading retains its own wording.
+
+The song that follows its heading opens with desire, fragrance, and rejoicing rather
+than a program for instruction. Neither the heading nor the mention of the king's
+rooms makes every speaker Solomon or identifies the woman as a named historical wife.
+The attribution does not by itself establish a composition date or a detailed account
+of authorship. Source: stored WEB Song of Solomon 1:1–4; Proverbs 1:1–7;
+Ecclesiastes 1:1. These comparisons add no new quotation from an unstored book.
 
 ## Significance
 

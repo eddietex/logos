@@ -104,6 +104,9 @@ No named earthly place appears.
 
 ## Cross-references
 
+- [[Love Better Than Wine]] — Song 1:1–4 joins love, wine, fragrance, and rejoicing without the mortality framework of Ecclesiastes 9:7–9.
+  See [[Wine, Oil, and the Joy of Love]]. Source: stored WEB Song of Solomon 1:1–4.
+
 - [[Every Work and Every Hidden Thing]] — Ecclesiastes 12:14’s judgment remains beside the common event and the dead’s lost portion.
 
 - [[Remember Your Creator]] — 12:7 affirms the spirit’s return to God without explaining the

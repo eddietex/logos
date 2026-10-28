@@ -178,7 +178,20 @@ withheld in 6:2. Youth's vanity makes it passing, not therefore forbidden to enj
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### Love better than wine — Song of Solomon 1:1–4
+
+Love is valued above wine, and the plural voice promises gladness and rejoicing (1:2–4).
+Wine and fragrance work as positive measures of delight, not as objects condemned by
+the comparison. Unlike Ecclesiastes 9:7–9, this opening gives no mortality framework;
+it shares the delight without repeating the explanation of enjoyment as a portion.
+
+See [[Love Better Than Wine]]; comparisons are developed in
+[[Wine, Oil, and the Joy of Love]].
+Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
+
 ## Key passages
+
+- [[Love Better Than Wine]] — Song of Solomon 1:1–4; love above wine and shared rejoicing.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Joy in youth beside judgment and the coming
   loss of pleasure.
@@ -222,5 +235,8 @@ identified on the passage page.
 - [[Praise and Song]] — singers and instruments among the delights (Ecclesiastes 2:8).
 
 ## Related people
+
+- [[The Woman (Song of Solomon)]] and [[The Man (Song of Solomon)]] — the opening love poem
+  speaks desire and celebrates the beloved (Song of Solomon 1:2–4).
 
 - [[The Preacher (Ecclesiastes)]] — the one who tests mirth and reports the result.

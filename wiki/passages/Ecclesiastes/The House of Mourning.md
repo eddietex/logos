@@ -87,6 +87,9 @@ gathering, not identified sites. No place page is created.
 
 ## Cross-references
 
+- [[Love Better Than Wine]] — Song 1:3 makes the name fragrant; Ecclesiastes 7:1 ranks it above perfume and places it beside death.
+  See [[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]]. Source: stored WEB Song of Solomon 1:1–4.
+
 - [[Remember Your Creator]] — 11:9–10 commands joy and removal of sorrow beside 7:2–4’s preference
   for mourning; the mourners still appear at 12:5.
 

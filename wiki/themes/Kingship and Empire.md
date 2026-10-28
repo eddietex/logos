@@ -307,7 +307,21 @@ altogether; Ecclesiastes faults drunkenness and timing. See
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Love better than wine — Song of Solomon 1:1–4
+
+The heading names Solomon (1:1), and the woman says that the king brought her into
+his rooms (1:4). Royal imagery enters a love poem, without legislation, warfare, or
+an act of public government. The unit does not name the king again or establish that
+he and the beloved must be the same person. Attribution and character identity remain
+distinct; no separate king's biography is inferred.
+
+See [[Love Better Than Wine]]; comparisons are developed in
+[[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
+Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
+
 ## Key passages
+
+- [[Love Better Than Wine]] — Song of Solomon 1:1–4; Solomon's heading and the king's rooms.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the ruler's error, the child king, and the king not to be cursed.
 

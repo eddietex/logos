@@ -158,6 +158,9 @@ trapped man has sinned. See [[Retribution]].
 
 ## Cross-references
 
+- [[Love Better Than Wine]] — Song 1:1–4 gives desire the woman's own voice, beside Proverbs' counsel to rejoice in a wife.
+  See [[Wine, Oil, and the Joy of Love]]. Source: stored WEB Song of Solomon 1:1–4.
+
 - [[One Event Comes to All]] — Ecclesiastes 9:9 commands marital joy within mortality; see
   [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] .
 

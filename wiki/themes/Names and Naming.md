@@ -142,7 +142,21 @@ naming. Its pairing with the day of death sets reputation against the end of lif
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Love better than wine — Song of Solomon 1:1–4
+
+The beloved's name is likened to oil poured out (1:3), extending the pleasing fragrance
+of his oils into his attraction to others. No naming ceremony or personal name is
+supplied. Ecclesiastes 7:1 ranks a good name above perfume; Song 1:3 makes the name
+itself fragrant in a simile. Reading reputation here is possible, but does not exhaust
+the image of a person desired. No claim about a Hebrew pun is made.
+
+See [[Love Better Than Wine]]; comparisons are developed in
+[[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]].
+Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
+
 ## Key passages
+
+- [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
 
 - [[The House of Mourning]] — Ecclesiastes 7:1; a good name better than fine perfume.
 

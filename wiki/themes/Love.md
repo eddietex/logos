@@ -72,9 +72,15 @@ Malachi 1:2–3 states the whole theme in the vocabulary of Genesis 29 and appli
 brothers of Genesis 25: *"I loved Jacob; but Esau I hated"*, which Romans 9:13 then argues from. See
 [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]].
 
-**The Song of Songs is the outlier and the wiki notes it as one**: eight chapters of *ʾāhab* with no
-covenant, no command, and no ranking, ending in the Old Testament's one attempt at a definition —
-*"love is strong as death … Many waters can't quench love, neither can floods drown it"* (8:6–7).
+**Correction to the earlier Song overview.** This page previously characterized the Song
+as eight chapters of one Hebrew love-word with no command or ranking. The stored WEB does
+not support those blanket claims: 1:2–4 values love above wine and requests nearness;
+2:7 contains an injunction, and 5:9–10 and 6:9 compare the beloved with others. The former
+source-language generalization is withdrawn rather than extended without verification.
+The opening is now ingested in [[Love Better Than Wine]]; the later verses have been
+read in raw for this correction but remain un-ingested. The Song's comparison of love
+with death and unquenchable fire in 8:6–7 is likewise verified in stored WEB, without
+claiming it is Scripture's only definition of love.
 
 **The New Testament's word is *agapē***, and its innovations are two: it makes love the summary of the
 law (Matthew 22:37–40; Romans 13:10), and it makes it a description of God rather than only of an act
@@ -278,7 +284,21 @@ possible identification; no Hebrew lexical argument is asserted.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Love better than wine — Song of Solomon 1:1–4
+
+The woman requests kisses and nearness and praises the beloved's love above wine
+(1:2–4). Desire has its own speaking voice, with plural rejoicing alongside it.
+The opening names neither a marriage nor an adulterous relationship; neither should
+be supplied from the earlier Proverbs comparisons. The earlier blanket claim about
+no commands or rankings in this book is corrected above.
+
+See [[Love Better Than Wine]]; comparisons are developed in
+[[Wine, Oil, and the Joy of Love]].
+Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
+
 ## Key passages
+
+- [[Love Better Than Wine]] — Song of Solomon 1:1–4; desire and affirmation.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; unknown love, ended love, and marital love.
 
@@ -391,6 +411,9 @@ are identified on the passage and connection pages.
 - [[Strife and Peacemaking]] — the households ranking produces
 
 ## Related people
+
+- [[The Woman (Song of Solomon)]] and [[The Man (Song of Solomon)]] — the opening love poem
+  speaks desire and celebrates the beloved (Song of Solomon 1:2–4).
 
 - [[Abraham]] — the first person in the Bible said to love, in the sentence that asks for the loved
   one

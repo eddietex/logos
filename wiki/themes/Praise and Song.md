@@ -7,7 +7,8 @@ tags: [theme]
 ## Definition / overview
 
 Speech that celebrates worth and deeds, addressed to God or spoken about him before others,
-and also given to people whose conduct merits recognition (Proverbs 31:28–31). Music, singing,
+and also given to people whose conduct merits recognition (Proverbs 31:28–31) and to human
+love itself (Song of Solomon 1:4). Music, singing,
 and dance can carry praise, but the closing poem of Proverbs specifies no musical performance. **Scripture is slow to arrive at it.** Genesis has poetry —
 Lamech's boast (4:23–24), the blessings of Isaac and Jacob (27; 49) — but no one in Genesis is said to sing,
 and the verb *šîr* does not occur there (WLC lemma search). **The only *songs* Genesis mentions are a
@@ -60,7 +61,20 @@ contrast with deceptive charm (30) makes praise a judgment grounded in conduct.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Love better than wine — Song of Solomon 1:1–4
+
+The heading calls the work a song (1:1), and the plural voice praises love above wine
+(1:4). Human love becomes the explicit object of praise, extending this theme beyond
+deliverance songs and praise of virtuous conduct. The passage specifies no instruments,
+singer's name, or performance occasion. It does not address God in these four verses.
+
+See [[Love Better Than Wine]]; comparisons are developed in
+[[Wine, Oil, and the Joy of Love]].
+Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
+
 ## Key passages
+
+- [[Love Better Than Wine]] — Song of Solomon 1:1–4; a song and the praise of human love.
 
 - [[The Worthy Woman]] — Proverbs 31:28–31; Human excellence receives household and public praise.
 
@@ -76,6 +90,9 @@ See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the compari
 - [[Prayer]] — the cry that comes before it
 
 ## Related people
+
+- [[The Woman (Song of Solomon)]] and [[The Man (Song of Solomon)]] — the opening love poem
+  speaks desire and celebrates the beloved (Song of Solomon 1:2–4).
 - [[Moses]] — leads the first song
 - [[Miriam]] — leads the women with the tambourine and the refrain
 - [[Laban]] — names songs and tambourine first, as a send-off he did not give
