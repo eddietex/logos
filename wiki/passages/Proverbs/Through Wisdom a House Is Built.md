@@ -218,6 +218,8 @@ next queue item.
 - [[The Wager in Heaven and the Four Messengers]] — Job 1:18–19, the house that fell on Job's children.
 - [[The Field of the Sluggard]] — Proverbs 24:23–34, the appendix that follows; 24:27's field and house, and 24:29's forbidden *"I will render"*.
 - [[The Glory of Kings]] — Proverbs 25:16, 27, honey measured after 24:13's *"eat honey, for it is good"*; 25:21–22, the enemy fed.
+- [[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesiastes 9.13-18]] — 24:5–6's
+  war waged by wise guidance, beside [[The Forgotten Wise Man]], Ecclesiastes 9:16–18.
 
 ## Notes
 

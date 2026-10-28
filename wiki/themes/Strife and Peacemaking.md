@@ -323,7 +323,20 @@ whenever someone claims its time has come.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+*"If the spirit of the ruler rises up against you, don’t leave your place; for gentleness lays
+great offenses to rest"* (10:4). The conflict is between unequal parties; the subordinate is told
+neither to flee nor to retaliate. Proverbs 15:1 and 25:15 make the same preference for soft speech
+before wrath and rulers. See
+[[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]].
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; gentleness lays great offenses to rest before an angered ruler.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Peace has its time beside war.
 

@@ -123,7 +123,19 @@ background the wiki reads them against. See
 
 See [[A Strong Tower]]. Source: stored WEB Proverbs 18.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+A little city with few men, besieged by a great king, is delivered by one poor
+wise man's wisdom (9:14–15). The city is unnamed and is not identified with a known place. As in
+Proverbs 21:22 and Ecclesiastes 7:19, the city's fate turns on wisdom rather than numbers or
+walls; unlike them, the story records the city's failure to remember its deliverer.
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; a little city delivered by a poor wise man and then forgetful of him.
 
 - [[A Strong Tower]] — Proverbs 18:10–11, 19.
 

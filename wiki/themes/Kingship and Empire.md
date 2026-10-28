@@ -283,7 +283,20 @@ Exodus 1:16–21. See
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+Three rulers appear: the great king who besieges (9:14), the one who *"rules among
+fools"* and whose cry is worse than the quiet words of the wise (17), and the ruler whose spirit
+rises against a subordinate (10:4). The counsel for the last is to hold one's place, for
+gentleness lays great offenses to rest. See
+[[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]].
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; the besieging king, the ruler among fools, and the angered ruler.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; royal commands, mortal limits, and harmful dominion.
 

@@ -746,7 +746,21 @@ ranking of wisdom above folly, without claiming that wisdom never helps.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+The Preacher's story of a besieged little city delivered by a poor wise man (9:13–15)
+yields the verdict *"Wisdom is better than strength"* (16) and *"better than weapons of war"*
+(18), in agreement with Proverbs 21:22 and 24:5–6. **The ranking stands beside its limit:** the
+poor man's wisdom is despised and his words are not heard (16); one sinner destroys much good
+(18); a little folly outweighs wisdom and honor (10:1). Wisdom is effective without being
+honored. See [[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesiastes 9.13-18]].
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; wisdom better than strength, yet despised and easily outweighed.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; wisdom cannot secure bread; Sheol has no wisdom.
 

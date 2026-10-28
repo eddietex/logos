@@ -151,6 +151,8 @@ See [[The Prosperity of the Wicked]], [[Retribution]], and [[Slavery and Servitu
 - [[A Worthy Woman - Proverbs 12.4, 31.10, and Ruth 3.11]] — Proverbs 31:10–31 now develops the positive portrait of 12:4; Ruth 3:11 supplies a verified verbal parallel.
 - [[A Strong Tower]] — Proverbs 18:20; the fruit of the mouth (12:14).
 - [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Romans 12.16]] — Proverbs 12:15, *"right in his own eyes"*.
+- [[The Forgotten Wise Man]] — Ecclesiastes 10:3; the fool who tells everyone that he is a fool,
+  beside 12:23's hearts of fools proclaiming foolishness.
 
 ## Notes
 

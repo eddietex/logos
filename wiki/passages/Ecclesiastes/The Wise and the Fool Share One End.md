@@ -129,6 +129,8 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 - Ecclesiastes 9:2–5 — [[One Event Comes to All]] — *"There is one event to the righteous and to the
   wicked"* (9:2), and of the dead, *"their memory is forgotten"* (9:5) (stored WEB). The leveller of
   2:14–16 extended from wisdom to moral standing.
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:15; the poor wise man who delivered a city, and
+  no man remembered him.
 
 ## Notes
 

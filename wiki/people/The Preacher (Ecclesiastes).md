@@ -139,7 +139,21 @@ judgments by the same textual speaker, not newly identified voices.
 
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; 4:1–3.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+He reports a story he has seen under the sun — a little city delivered from a great king by a
+poor wise man whom no man remembered (9:13–15) — and draws from it, in the first person, that
+wisdom is better than strength, though the poor man's wisdom is despised (16). The sayings that
+follow are general and not marked as personal experience (9:17–10:3). In 10:4 he counsels a
+subordinate facing an angry ruler to keep his place. As in 8:2–5, the self-described king of
+1:12 here speaks from the position of one under a ruler; this page records the shift of
+perspective without resolving it.
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; 1:12; 8:2–5.
+
 ## Timeline / key events
+
+- Ecclesiastes 9:13–10:4 — [[The Forgotten Wise Man]]; the delivered city, the despised deliverer, and gentleness before a ruler.
 
 - Ecclesiastes 9:1–12 — [[One Event Comes to All]]; common death, present enjoyment, and uncertain outcomes.
 
@@ -180,6 +194,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; 4:1–
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12.
 

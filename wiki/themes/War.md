@@ -134,7 +134,20 @@ are retained without making the two explanations identical. See
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+A great king besieges a little city with few men and builds great bulwarks against it (9:14);
+a poor wise man delivers it (15). *"Wisdom is better than weapons of war"* (18). The wisdom
+tradition's preference for counsel over force (Proverbs 21:22; 24:5–6) is affirmed, with the
+added observation that the deliverer is forgotten. See
+[[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesiastes 9.13-18]].
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; siege and weapons of war ranked beneath wisdom.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; the battle is not to the strong.
 

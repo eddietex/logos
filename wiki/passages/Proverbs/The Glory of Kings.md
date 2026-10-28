@@ -256,6 +256,8 @@ reading the world. That is the task 25:2 gave to kings, and the chapter gives it
 - [[Do Not Consent to Sinners]] — Proverbs 1:10, *pāṯāh*, to entice.
 - [[Answer a Fool]] — Proverbs 26, the next chapter: honour not fitting a fool (26:1, 8), dross on clay (26:23), and the contentious man (26:21).
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:2, 7, 15, the chapter after: praise from another's mouth, the courtier's rule applied to speech; the full soul that loathes honey; the contentious wife again.
+- [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]] — 25:15, the
+  ruler persuaded by patience, beside [[The Forgotten Wise Man]], Ecclesiastes 10:4.
 
 ## Notes
 

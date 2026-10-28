@@ -210,6 +210,8 @@ what the verse addresses. See [[The Rod of Discipline - Proverbs 13.24 and the F
 - [[A Strong Tower]] — Proverbs 18:20; the fruit of the lips (13:2).
 - [[A Good Name]] — Proverbs 22:15 continues 13:24's rod saying.
 - [[The Glory of Kings]] — Proverbs 25:13, the faithful messenger (*ṣîr*) who refreshes, after 13:17's envoy who brings healing.
+- [[The Forgotten Wise Man]] — Ecclesiastes 10:3; the fool's self-exposure on the road, beside
+  13:16's fool who exposes folly.
 
 ## Notes
 

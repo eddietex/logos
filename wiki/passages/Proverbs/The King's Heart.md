@@ -193,6 +193,9 @@ reverses fortunes; it is not developed into a theory of substitution here.
 - [[The Glory of Kings]] — Proverbs 25:2–3, 24, the king who searches and cannot be searched; 21:9 repeated at 25:24.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1; drawing near to listen ranked above the sacrifice
   of fools, beside 21:3, 27.
+- [[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesiastes 9.13-18]] — 21:22's
+  wise besieger beside the poor wise man who delivers a besieged city in
+  [[The Forgotten Wise Man]], Ecclesiastes 9:13–18.
 
 ## Notes
 

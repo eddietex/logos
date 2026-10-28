@@ -308,7 +308,20 @@ about the dead's memory, not God's forgetting a covenant.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+A poor wise man delivers a besieged city, *"yet no man remembered that same poor man"*
+(9:15). The single case realizes the general statements of 1:11, 2:16, and 9:5. A proposed
+reading in which he was never consulted, rather than forgotten afterward, is recorded on the
+passage page as unverified against the Hebrew. See
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]].
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; no man remembered the poor man who delivered the city.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; the memory of the dead forgotten.
 
@@ -389,8 +402,8 @@ are identified on the passage and connection pages.
   The chapter puts the request and the failure nine verses apart and **states the failure twice over**,
   *lōʾ-zākar … wayyiškāḥēhû*, as its closing line. **What the theme says about God is exactly what the
   chapter shows a man unable to supply**: the verb is an act, and the act does not come.
-  Ecclesiastes 9:15 states the same outcome as a general law — *"yet no one remembered that same poor
-  man"*. See [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
+  Ecclesiastes 9:15 tells the same outcome as an example story — *"yet no man remembered that same poor
+  man"* ([[The Forgotten Wise Man]]). See [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]
 - [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:9, 30, 51, **the answer to 40:23, and it is grudging in every
   direction.** *"I remember my faults today"* (41:9) is ***mazkîr***, **the causative of the verb Joseph
   gave the cupbearer at 40:14** (*wəhizkartanî*, *cause Pharaoh to remember me*) — **and the object is

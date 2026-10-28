@@ -279,6 +279,8 @@ question and Proverbs 27:1’s command both expose unknown futures; see
 - [[The Lamp of the Commandment]] — Proverbs 6:34, *qinʾāh* and *ḥēmāh*.
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:3, *nōp̄eṯ* and *šemen*.
 - [[Wisdom Calls in the Street]] — Proverbs 1:26, *ʾêḏ*, calamity.
+- [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]] — 27:5's open
+  rebuke, cited as the limit on any rule that gentleness is always the answer.
 
 ## Notes
 

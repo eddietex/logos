@@ -19,7 +19,7 @@ tags: [connection]
 - Isaiah 38:3 — Hezekiah: *"Remember now, Yahweh, I beg you, how I have walked before you"*
 - Psalm 25:6–7; 106:4 — *"remember your tender mercies"*; *"remember me, Yahweh, with the favor that you
   show to your people"*
-- Ecclesiastes 9:15 — *"yet no one remembered that same poor man"*
+- Ecclesiastes 9:15 — *"yet no man remembered that same poor man"* — [[The Forgotten Wise Man]]
 - Luke 23:42 — *"Jesus, remember me when you come into your kingdom"*
 
 ## Analysis
@@ -56,9 +56,11 @@ bother with**, and the doubling is the point: this is not an oversight the narra
 **And it is the last verse of the chapter**, so the book leaves the reader holding it for the whole of
 41:1's *"two full years."*
 
-**Ecclesiastes 9:15 is the same sentence turned into a proverb** — a poor wise man who saved a city by
-his wisdom, *"yet no one remembered that same poor man."* Qoheleth states as a general law of the world
-what Genesis 40 reports as one thing that happened to one person.
+**Ecclesiastes 9:15 tells the same outcome as an example story** — a poor wise man who saved a city by
+his wisdom, *"yet no man remembered that same poor man."* The Preacher presents it as something he saw
+under the sun (9:13), unnamed and undated, and draws a general lesson from it (9:16): wisdom is better
+than strength, yet the poor man's wisdom is despised. Genesis 40 reports one thing that happened to one
+person; Ecclesiastes makes a comparable case an occasion for reflection. See [[The Forgotten Wise Man]].
 
 ### The Greek makes the link exact
 

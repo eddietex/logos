@@ -124,12 +124,18 @@ sun (4–6). Joy in food, clothing, marriage, and vigorous work is commanded (7�
 while time, chance, and sudden evil deny control of outcomes (11–12). The living dog's
 advantage remains beside 4:2's preference for the dead. Sheol is named in 9:10.
 
+[[The Forgotten Wise Man]] (9:13–10:4) tells of a little city besieged by a great king and
+delivered by a poor wise man whom no man remembered. Wisdom is better than strength and
+weapons of war, yet the poor man's wisdom is despised; one sinner destroys much good, and a
+little folly outweighs wisdom as dead flies spoil perfume. The unit ends with counsel to keep
+one's place before an angry ruler, for gentleness lays great offenses to rest (10:4).
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–9:12 currently has ingested passage pages.
+only 1:1–10:4 currently has ingested passage pages.
 
 ## Structure
 
@@ -167,13 +173,18 @@ merge, or reorder them freely.
 - [x] [[The King and the Limits of Power]] — Ecclesiastes 8:1–9
 - [x] [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17
 - [x] [[One Event Comes to All]] — Ecclesiastes 9:1–12
-- [ ] The Forgotten Wise Man — Ecclesiastes 9:13–10:4
+- [x] [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4
 - [ ] Folly in High Places and Everyday Work — Ecclesiastes 10:5–20
 - [ ] Cast Your Bread on the Waters — Ecclesiastes 11:1–6
 - [ ] Remember Your Creator — Ecclesiastes 11:7–12:8
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Wisdom]], [[War]], and [[Remembrance]] — wisdom better than strength, the city delivered,
+  and the poor deliverer forgotten (9:13–18). See [[The Forgotten Wise Man]].
+- [[Folly]], [[Sin]], and [[Strife and Peacemaking]] — a little folly and one sinner undoing much
+  good (9:18–10:3); gentleness before an angry ruler (10:4).
 
 - [[Life and Death]], [[Hope]], and [[Remembrance]] — the common event and the living
   person's remaining portion (9:1–6).

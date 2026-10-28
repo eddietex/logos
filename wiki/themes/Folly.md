@@ -405,7 +405,20 @@ time and chance (11).
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+A little folly outweighs wisdom and honor as dead flies spoil the perfumer's oil (10:1).
+The fool's heart is at his left hand (2), and on the road his understanding fails and he tells
+everyone that he is a fool (3), matching Proverbs 12:23 and 13:16. Whether 10:3 means
+self-exposure or calling others fools is noted on the passage page; this page follows the WEB's
+plain sense of self-exposure.
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; a little folly outweighs wisdom; the fool exposes himself on the road.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; madness before death.
 

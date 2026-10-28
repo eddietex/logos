@@ -357,7 +357,18 @@ punishment or that God approves the evil of 3 when he accepts works in 7.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+*"One sinner destroys much good"* (9:18). The saying is about disproportion — a single person's
+wrongdoing undoing the gains of wisdom — and is restated as an image in 10:1, where a little folly
+outweighs wisdom and honor. No particular sin or sinner is identified.
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; one sinner destroys much good.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; evil and madness in human hearts.
 

@@ -300,7 +300,18 @@ legal category; the English label alone does not establish that status.
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+The deliverer of the besieged city is *"a poor wise man"* (9:15), and the
+reason given for his wisdom being despised is that it is *"the poor man’s wisdom"* (16). Poverty
+here costs a hearing and remembrance, not effectiveness. Compare the poor and wise youth of 4:13.
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; the poor wise man whose wisdom is despised.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; the poor person who knows how to walk among the living.
 

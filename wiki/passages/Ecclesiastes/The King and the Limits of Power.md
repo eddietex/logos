@@ -107,6 +107,9 @@ another location is supplied in this unit. No place page is created.
   death, and the image of waiting for release.
 - [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]] — Ecclesiastes 4:1 and 5:8–9 show the
   victims and structures of harmful power.
+- [[The Forgotten Wise Man]] — Ecclesiastes 10:4; *"don’t leave your place"* before an angered
+  ruler, beside 8:3's counsel not to be hasty to leave the king's presence. See
+  [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]].
 
 ## Notes
 

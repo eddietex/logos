@@ -493,7 +493,20 @@ not identical claims. See [[Contending with the Mightier - Job 9 and Ecclesiaste
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### The forgotten wise man — Ecclesiastes 9:13–10:4
+
+The poor man's *"words are not heard"* (9:16); *"The words of the wise heard in quiet are
+better than the cry of him who rules among fools"* (17); the fool on the road says to everyone that
+he is a fool (10:3); gentleness before an angry ruler lays offenses to rest (10:4). Speech is
+weighed by its quiet and its effect, not its volume. See
+[[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]].
+
+See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; quiet words of the wise, unheard words of the poor, the fool's self-disclosure.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; the king's effective word and the difficulty of challenging him.
 

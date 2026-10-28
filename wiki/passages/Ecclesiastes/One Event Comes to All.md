@@ -127,6 +127,8 @@ No named earthly place appears.
   enjoyment beside human inability to comprehend the whole; 9:11–12 stresses sudden events.
 - [[From Dust to Dust]] — Ecclesiastes 3:17, 19–22 holds judgment, shared mortality,
   and enjoyment together. The affirmation of judgment is not silently canceled by 9:2.
+- [[The Forgotten Wise Man]] — the following unit, Ecclesiastes 9:13–10:4; a single case of
+  9:11's bread not to the wise and 9:5's forgotten memory.
 
 ## Notes
 

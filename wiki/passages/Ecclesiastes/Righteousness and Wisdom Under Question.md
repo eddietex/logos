@@ -124,6 +124,8 @@ No named location. The *city* of 7:19 is unnamed. No place page is created.
 - Job 33:23 ([[Elihu Speaks in Anger]]) — *"an interpreter, one among a thousand"*. The phrase
   *one … among a thousand* recurs in the WEB of Ecclesiastes 7:28; the contexts are unrelated
   and no dependence is claimed.
+- [[The Forgotten Wise Man]] — Ecclesiastes 9:13–18; 7:19's wisdom stronger than ten rulers in a
+  city becomes a story of a city delivered by one poor wise man.
 
 ## Notes
 

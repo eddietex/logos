@@ -260,6 +260,8 @@ of Job, also the reason a sufferer's case cannot be decided from the outside. Se
 - [[The Glory of Kings]] — Proverbs 25:11, 15, the word fitly spoken and the *soft* (*rakkāh*) tongue, the adjective of 15:1.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:20, Sheol and Abaddon again, never satisfied rather than open before Yahweh.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1; the sacrifice of fools, who do not know they do evil.
+- [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]] — 15:1 beside
+  [[The Forgotten Wise Man]], Ecclesiastes 10:4, gentleness laying great offenses to rest.
 
 ## Notes
 

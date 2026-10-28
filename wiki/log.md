@@ -18367,3 +18367,58 @@ expected baseline of 61 unstarted-book pages; `git diff --check` passed. New tit
 are unique, counts agree with frontmatter, and only this queue item was checked.
 No unresolved operational issue or deliberately dangling target remains; interpretive
 limits are explicit on the affected pages.
+
+## [2026-10-27] ingest | Ecclesiastes 9.13-10.4 — The Forgotten Wise Man
+
+Unattended `/ingest auto` by Claude (Anthropic); exactly one pericope. Retained the planned
+9:13–10:4 boundary and title. 10:4 was kept in this unit rather than moved to the next,
+because its gentleness before an angry ruler applies 9:17's quiet words above a ruler's cry;
+10:5's fresh observation formula opens the next unit, which remains unchecked. The discussion
+is incorporated into the passage's summary and notes. No raw source, controller file, or
+workflow instruction changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** [[The Forgotten Wise Man]] follows the WEB of 9:15: the poor man
+delivered the city and was then forgotten. A reading in which he could have delivered it but
+was never consulted is recorded as a possibility, explicitly unverified against the Hebrew.
+10:3's fool is read as exposing himself, with the reading that he calls others fools noted
+and not adopted, also unverified. The city, king, and poor man are treated as figures of an
+unnamed example story: no person or place page is created, and no historical siege is
+identified. 2 Samuel 20's wise woman of Abel is referenced by paraphrase only, with an
+approximate verse range, because 2 Samuel is not stored. God is not named in the unit, and
+that silence is retained.
+
+**Correction to existing pages.** Four earlier pages quoted 9:15 as *"yet no one remembered
+that same poor man"*; the stored WEB reads *"no man"*. Corrected in
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]] (twice),
+[[The Cupbearer and the Baker]], and [[Remembrance]]. Those pages also called 9:15 a
+*proverb* or *general law*; it is an example story the Preacher says he saw, from which he
+draws a general lesson in 9:16, and the wording was revised accordingly. One pre-existing
+straight apostrophe in the themes-index Remembrance row (Proverbs 3:1) was normalized to the
+WEB's curly form.
+
+**Created (3 content pages):** the passage [[The Forgotten Wise Man]] and two connections,
+[[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesiastes 9.13-18]] and
+[[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]].
+
+**Revised (27 content pages):** Ecclesiastes; The Preacher (Ecclesiastes); 10 themes (Wisdom,
+Folly, Remembrance, The Poor and the Vulnerable, War, City and Civilization, Kingship and
+Empire, Language and Speech, Sin, Strife and Peacemaking); one connection (Remember Me);
+14 reciprocal passages (The Youth and the Old King, whose forward reference to 9:13–16 is
+now a link; Righteousness and Wisdom Under Question; The King and the Limits of Power; One
+Event Comes to All; The Wise and the Fool Share One End; The Cupbearer and the Baker; The
+King's Heart; Through Wisdom a House Is Built; The Plans of the Heart; A Gentle Answer; The
+Glory of Kings; Whoever Loves Correction; Hope Deferred; Do Not Boast About Tomorrow).
+
+**Indexes and totals.** Revised seven indexes: books (20 / 24), the main dashboard, themes,
+People N-Z, and Connections D-H, O-S, and T-Z. New connections file under G and W. Totals by
+frontmatter type: 207 passages, 187 people, 91 places, 85 themes, 509 connections. Places
+index unchanged; no place page was touched.
+
+**Sources and validation.** The ten primary verses were copied from immutable stored WEB
+Ecclesiastes 9:13–10:4, and every quotation on the new and changed lines was mechanically
+compared with the stored raw text. Comparisons read in stored WEB: Ecclesiastes 2:13–16;
+4:13–16; 7:19; 8:2–5; 9:5, 11; Genesis 40:23; 48:13–18; Exodus 15:6; Proverbs 12:23; 13:16;
+15:1; 16:32; 21:22, 30–31; 24:5–6; 25:15; 27:5. No unreached book was fetched, and no claim
+about exact Hebrew or Greek wording is made. `scripts/link-check.sh` passed with no wrapped
+or unexpected dangling links and the expected baseline of 61 unstarted-book pages;
+`git diff --check` passed. No deliberately dangling target remains.

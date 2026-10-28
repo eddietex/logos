@@ -562,8 +562,8 @@ two verses to say so.**
 - Job 1:4 — *"on his birthday"*, or *"on his day"*; see [[Job of Uz]]
 - Psalm 3:3 — *"the lifter up of my head"*
 - Psalm 105:17–19 — the irons Genesis does not mention, and the word that *"proved him true"*
-- Ecclesiastes 9:14–16 — *"yet no one remembered that same poor man"*, the same outcome stated as a
-  proverb
+- Ecclesiastes 9:14–16, [[The Forgotten Wise Man]] — *"yet no man remembered that same poor man"*,
+  the same outcome in an example story the Preacher says he saw
 - Daniel 2:27–30, 47; 4:9; 5:11–12 — the Aramaic *pəšar*, the same disclaimer, and the same career
 - Mark 6:21–28; Matthew 14:6–11 — the Bible's other birthday
 - Luke 23:42 — *"Jesus, remember me when you come into your kingdom"*, the LXX's *mnēsthēti mou* again
