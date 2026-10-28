@@ -169,7 +169,19 @@ made morally infallible nor freed from death.
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The WEB pairs the person who takes an oath with the one who fears an oath (2). It does
+not identify a perjurer, prescribe a vow, or call fear of an oath cowardice. These people
+share the event described for the other pairs; no exemption from death follows solemn
+speech. This does not rescind 5:4–6's requirement to pay a vow.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; taking and fearing an oath before the common end.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; the oath to God grounds keeping the royal command.
 

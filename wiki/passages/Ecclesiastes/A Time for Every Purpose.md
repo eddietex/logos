@@ -96,6 +96,9 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:1, 11–12 keeps God’s hand beside time and chance; see
+  [[Time and Chance and the Prepared Horse]] .
+
 - [[The Wicked Buried and the Work Beyond Finding]] —
   Ecclesiastes 8:15–17 again places enjoyment beside the inability to find out God's
   work, extending 3:11–14 without making the whole intelligible.

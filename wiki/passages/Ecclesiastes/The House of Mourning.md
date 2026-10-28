@@ -87,6 +87,9 @@ gathering, not identified sites. No place page is created.
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:7–9 commands joy beside 7:2–4’s preference for
+  mourning; see [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] .
+
 - [[The Wicked Buried and the Work Beyond Finding]] —
   Ecclesiastes 8:15 commends mirth beside 7:2–4's preference for mourning; the
   distinct evaluations remain visible without an asserted harmonizing formula.

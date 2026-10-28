@@ -158,6 +158,9 @@ reverses fortunes; it is not developed into a theory of substitution here.
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:11 denies that strength secures battle; see
+  [[Time and Chance and the Prepared Horse]] .
+
 - [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — Proverbs 21:17; the lover of pleasure made poor, beside a king whose pleasure cost
   nothing he could not afford ([[The Trial of Pleasure]], Ecclesiastes 2:1–11).
 - [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]] — Proverbs 21:1, 29.

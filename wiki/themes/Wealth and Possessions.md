@@ -579,7 +579,19 @@ Money is acknowledged as a protection, not dismissed, but is ranked below wisdom
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Bread is not secured by wisdom and riches are not secured by understanding (11).
+Material outcomes cannot reliably measure ability. The verse neither condemns wealth
+itself nor says that all wealth is acquired by luck; it denies the expected guarantee
+inside a list of outcomes subject to time and chance.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; understanding does not guarantee riches.
 
 - [[The House of Mourning]] — Ecclesiastes 7:7, 11–12; the bribe, the inheritance, and money as a defense.
 

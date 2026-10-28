@@ -736,7 +736,19 @@ See [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The wise and their works are in God's hand (1), yet bread is not guaranteed to the wise,
+riches to those with understanding, or favor to those with skill (11). Sheol lacks wisdom
+along with work, plan, and knowledge (10). The denial of control stands beside 2:13's
+ranking of wisdom above folly, without claiming that wisdom never helps.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; wisdom cannot secure bread; Sheol has no wisdom.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; the wise cannot find it out.
 

@@ -348,7 +348,20 @@ resists diagnosing character from suffering or success.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The righteous and their works are in God's hand (1), but the same event comes to righteous
+and wicked (2). The categories remain morally distinct; their common death does not make
+their conduct equal. This intensifies 8:14's reversed outcomes without treating a person's
+death as proof of guilt. See
+[[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; the righteous share the event of the wicked.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; outcomes reversed.
 

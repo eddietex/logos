@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12.
+
 - **Proverbs 5:15–19** — [[The Strange Woman and the Wife of Your Youth]]: *"Drink water out of
   your own cistern, running water out of your own well … Let your spring be blessed. Rejoice in the
   wife of your youth … Be captivated always with her love."*
 - **Song of Solomon 4:12–15** *(not yet ingested)* — *"A locked up garden is my sister, my bride; a
   locked up spring, a sealed fountain … a fountain of gardens, a well of living waters, flowing
   streams from Lebanon."*
-- **Ecclesiastes 9:9** *(not yet ingested)* — *"Live joyfully with the wife whom you love all the
+- **Ecclesiastes 9:9** — [[One Event Comes to All]] — *"Live joyfully with the wife whom you love all the
   days of your life of vanity … for that is your portion in life."*
 - Compare [[The Betrothal at the Well]] — Genesis 24, Genesis 29, and Exodus 2, where marriages
   begin at a literal well.
@@ -55,6 +57,19 @@ for his own wife, chapter 7 shows offered by another. See [[The Young Man Void o
 Solomon 4:10, 14 verified WEB at bible-api.com, not stored; Hebrew read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Ecclesiastes 9:9 is now ingested within 9:1–12, where marital joy belongs with bread,
+wine, clothing, and energetic work before death. Proverbs 5:18–19 commends delight
+in one's wife against the temptation of adultery; Ecclesiastes commends it within days
+of vanity. Both give a positive place to marital love, but Ecclesiastes 9:9 supplies
+no water image. Its connection to this thread is the command to enjoy one's wife,
+not shared imagery or demonstrated borrowing. The wife is a generic addressee's wife,
+not an identified spouse of the Preacher. Sources for this extension: stored WEB
+Proverbs 5:15–19 and Ecclesiastes 9:1–12. Earlier external verification records remain.
+
+See [[One Event Comes to All]].
+
 ## Significance
 
 Proverbs answers the strange woman not with a warning alone but with a picture of something
@@ -64,5 +79,6 @@ is the positive good the prohibitions protect. See [[Marriage]] and [[Love]].
 
 Sources: Proverbs 5:15–19 copied from `raw/bible/Proverbs.md` (WEB). Song of Solomon 4:12–15,
 Ecclesiastes 9:9, 1 Corinthians 7:2–5, and Hebrews 13:4 quoted from the WEB at bible-api.com,
-2026-10-25; none of those books is in `raw/` yet. Hebrew of Proverbs 5:15–18 read from Sefaria's
+2026-10-25; Ecclesiastes is now stored in `raw/` and 9:9 was checked there on
+2026-10-27; the other books remain outside `raw/`. Hebrew of Proverbs 5:15–18 read from Sefaria's
 *Miqra according to the Masorah*; the Hebrew of Song of Solomon 4 was not checked this pass.

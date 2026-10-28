@@ -2352,7 +2352,20 @@ reason for an individual's misfortune or timing of final recompense is supplied.
 
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The righteous, wise, and their works are in his hand (1). The speaker also grounds
+joyful eating and drinking in God's prior acceptance of the addressee's works (7).
+**Explicit tension:** unknown love or hatred (1), common death (2), and time and chance
+(11) remain beside these affirmations. The text does not identify the agent of love
+or hatred explicitly, and neither accepted works nor being in God's hand authorizes
+reading every outcome as an index of moral standing. No direct divine speech occurs.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; 4:1–3.
+
 ## Timeline / key events
+
+- Ecclesiastes 9:1–12 — [[One Event Comes to All]]; common death, present enjoyment, and uncertain outcomes.
 
 - Ecclesiastes 7:18–29 — [[Righteousness and Wisdom Under Question]]; to be feared; pleased by the one who escapes; made man upright.
 
@@ -2637,6 +2650,8 @@ See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Eccles
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
 

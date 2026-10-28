@@ -561,7 +561,19 @@ nor observation is withdrawn. See [[The Prosperity of the Wicked]].
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The single event comes alike to the good and the sinner (2–3). Together with 8:12–14,
+this keeps assured good for the reverent, observed reversed outcomes, and common death
+in explicit tension. No schedule of compensating reward is supplied in 9:1–12, and
+9:7's accepted works should not be expanded into approval of the evil described in 9:3.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; common death cannot identify moral standing.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; affirmed justice and reversed outcomes.
 

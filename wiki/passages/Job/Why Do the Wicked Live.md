@@ -289,6 +289,9 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:2–6 broadens the paired deaths of Job 21:23–26; see
+  [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]] .
+
 - [[The Wicked Buried and the Work Beyond Finding]] —
   Job 21:7–16, 32–33 and Ecclesiastes 8:10–14 compare long-lived wickedness and burial;
   the WEB of Ecclesiastes adds forgetting. See [[The Prosperity of the Wicked]].

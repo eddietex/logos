@@ -169,7 +169,19 @@ neither a purity rite nor a rule about animals, bodily contact, or cultic access
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Clean and unclean appear among the pairs sharing one event (2), next to those who offer
+sacrifice and those who do not. The observation denies exemption from death; it neither
+abolishes purity rules nor equates uncleanness with wickedness. No purification rite or
+cause of uncleanness is specified.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; ritual distinction gives no exemption from death.
 
 - [[The Words of Agur]] — Proverbs 30:12.
 

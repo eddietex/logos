@@ -89,6 +89,9 @@ region. No place page is created, and the destination is not assigned a detailed
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:4 gives the living hope beside 6:3–6’s stillborn
+  comparison; see [[A Living Dog and the Praise of the Dead]] .
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12 follows the cases of abundance without good with
 questions about knowing good, human profit, and what comes afterward.
 
@@ -140,7 +143,7 @@ how he died. The stillborn child's relative rest is not a full account of its co
 afterlife, or moral standing. Darkness here is not an accusation of wickedness. The
 comparison neither commands death nor states that every life is worse than nonexistence.
 The same book commends enjoyment in 3:22 and gives hope to the living in 9:4 (checked in
-stored WEB; 9:4 is not yet ingested). That tension stays visible.
+stored WEB; see [[One Event Comes to All]]). That tension stays visible.
 
 **One place.** Verse 6's shared destination follows the stillborn comparison and the
 hypothetical long life. Death is the natural contextual reading, supported by 3:19–20's

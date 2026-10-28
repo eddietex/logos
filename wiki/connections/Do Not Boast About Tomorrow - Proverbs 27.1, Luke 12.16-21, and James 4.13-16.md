@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
@@ -81,6 +83,18 @@ planning or an explicit description of the person's afterlife. Ecclesiastes 3:22
 [[From Dust to Dust]], had already joined enjoyment of present works to inability to
 see what follows. Sources for this extension: stored WEB Ecclesiastes 3:22; 6:10–12;
 Proverbs 27:1. Existing external-text verification records below are retained.
+
+### One event comes to all — Ecclesiastes 9:1–12
+
+Proverbs 27:1 warns against boasting because a person does not know what a day may
+bring. Ecclesiastes 9:11–12 adds that ability does not secure outcomes and that people
+do not know their time; sudden evil catches them like fish or birds. The shared limit
+concerns foreknowledge, while the commands differ: Proverbs forbids boasting, and
+Ecclesiastes 9:7–10 commands present joy and vigorous action. Uncertainty therefore
+does not entail inactivity. Sources for this extension: stored WEB Proverbs 27:1;
+Ecclesiastes 9:1–12. No new external quotation or lexical assertion is introduced.
+
+See [[One Event Comes to All]].
 
 ## Significance
 

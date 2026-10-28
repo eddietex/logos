@@ -136,7 +136,19 @@ also attributes enjoyment to God (18–20). No shared Hebrew wording is asserted
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+White garments and oil on the head belong to the commands for enjoyment (8). In this
+context they can be read as signs of glad living; the verse itself does not explain
+their symbolism. No shame, priestly investiture, or cleansing rite is narrated, and
+white clothing is not explicitly interpreted as moral purity or resurrection here.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; white garments within commended enjoyment.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; naked arrival and departure mark the limits of ownership.
 

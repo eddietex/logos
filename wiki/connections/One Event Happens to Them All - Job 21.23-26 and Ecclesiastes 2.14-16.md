@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12.
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.
@@ -14,7 +16,7 @@ tags: [connection]
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:14–16.
 - [[Why Do the Wicked Live]] — Job 21:23–26.
 - [[The Two Paths]] — Proverbs 4:18–19.
-- Ecclesiastes 9:2–5 *(not yet ingested)*.
+- Ecclesiastes 9:2–5 — the common event and the living person’s remaining hope.
 
 ## Analysis
 
@@ -27,7 +29,7 @@ between people whom life distinguished sharply.
 
 **Different pairs.** Job's pair is distinguished by fortune — ease and bitterness. The Preacher's is
 distinguished by wisdom — eyes in the head and a walk in darkness (Ecclesiastes 2:14). Ecclesiastes
-9:2 (not yet ingested) extends the leveller to moral standing: *"There is one event to the righteous
+9:2 extends the leveller to moral standing: *"There is one event to the righteous
 and to the wicked"* (stored WEB), and 3:19–20 to humans and animals: *"All are from the dust, and
 all turn to dust again"* (stored WEB). Each text names a different distinction that death erases.
 
@@ -75,6 +77,21 @@ questions the wise person's advantage over the fool, now after labor's inability
 fill appetite (7). The shared destination supports a reading about death, not a map of
 the afterlife or identical funeral treatment: 6:3's father has no burial. Source: stored
 WEB Job 21:23–26; Ecclesiastes 2:13–14; 3:19–20; 6:1–9.
+
+### One event comes to all — Ecclesiastes 9:1–12
+
+The anticipated comparison now has its own page. Ecclesiastes 9:2–3 expands the
+common event across righteous and wicked, clean and unclean, sacrificer and nonsacrificer,
+and oath-taker and the one who fears an oath. Moral and religious differences remain
+named; they do not prevent death. Job 21:23–26's contrast of ease and bitterness and
+Ecclesiastes 2:14–16's wise/fool pair now stand beside this broader list.
+
+The response changes within Ecclesiastes: 2:17 reports hatred of life, whereas 9:4
+affirms the living person's hope and 9:7–10 urges joy and work. **Explicit tension:**
+common mortality does not produce one uniform evaluation of living. Forgetting in 9:5
+also extends 2:16. Sources: stored WEB Ecclesiastes 2:13–17; 9:1–12; Job 21:23–26.
+
+See [[One Event Comes to All]].
 
 ## Significance
 

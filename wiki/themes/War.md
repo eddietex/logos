@@ -123,7 +123,20 @@ identical Hebrew term. See [[No Power over the Day of Death - Job 14 and Ecclesi
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Battle supplies one of five cases in which ability does not secure the outcome (11).
+No war, army, or combatant is named. Proverbs 21:31 attributes victory to Yahweh despite
+the prepared horse; Ecclesiastes names time and chance. The related limits on strength
+are retained without making the two explanations identical. See
+[[Time and Chance and the Prepared Horse]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; the battle is not to the strong.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; no discharge, in a sequence describing limits of human power.
 

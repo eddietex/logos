@@ -142,7 +142,20 @@ preparedness is commended without claiming complete knowledge or control of the 
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Hope attaches to being joined to the living (4), even in the lowly image of a living dog
+above a dead lion. The verse does not promise a particular recovery or describe resurrection.
+The advantage is remaining opportunity, alongside awareness of death (5), and supports
+the calls to enjoy and work (7–10). This contrasts explicitly with the preference for
+the dead amid oppression in 4:2; see [[A Living Dog and the Praise of the Dead]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; hope belongs to the living.
 
 - [[The Worthy Woman]] — Proverbs 31:21, 25; Preparedness accompanies confidence toward the future.
 

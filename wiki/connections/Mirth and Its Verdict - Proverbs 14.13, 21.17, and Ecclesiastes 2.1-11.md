@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12.
+
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
@@ -137,6 +139,21 @@ that cancels the different verdicts. Sources: stored WEB Ecclesiastes 2:1–11; 
 8:10–17. No Hebrew lexical identity is asserted.
 
 See [[The Wicked Buried and the Work Beyond Finding]].
+
+### One event comes to all — Ecclesiastes 9:1–12
+
+Ecclesiastes 9:7–9 now commands eating and drinking with joy, white garments, oil,
+and joyful life with the wife one loves. God's already accepting the addressee's works
+is the reason stated in 7. The days remain vanity (9), and work is urgent because
+Sheol lacks it (10). The assurance is not a promise that everyone can enjoy everything:
+6:2's withheld enjoyment remains beside these commands.
+
+**Explicit tension:** 7:2–4 favors mourning over feasting and sorrow over laughter;
+9:7–9 actively directs enjoyment. Reading mortality as making present joy precious
+is plausible in this sequence, but does not erase the different rankings. Sources:
+stored WEB Ecclesiastes 6:1–2; 7:1–4; 8:15; 9:1–12.
+
+See [[One Event Comes to All]].
 
 ## Significance
 

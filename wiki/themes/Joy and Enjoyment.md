@@ -144,7 +144,21 @@ not a formula that the passage states to dissolve these tensions.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Joy becomes direct instruction: eat bread with joy, drink wine with a merry heart, wear
+white garments and oil, and live joyfully with the wife you love (7–9). Accepted works
+are the stated ground in 7; vanity still describes the days in 9. **Tension:** the
+preference for mourning in 7:2–4 and the denial of enjoyment in 6:2 remain. The commands
+do not report that every person presently has the power to enjoy. See
+[[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; bread, wine, clothing, marriage, and labor.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; mirth beside injustice.
 

@@ -78,6 +78,9 @@ and dust do not identify a new geographical location. Sheol is not named in this
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:2–6, 10 expands shared mortality and describes what
+  the dead lack; 3:17’s affirmation of judgment remains distinct.
+
 - [[The Wicked Buried and the Work Beyond Finding]] —
   Ecclesiastes 8:12–14 places affirmed justice beside reversed outcomes, continuing
   3:16–17's distinction between observation and the judgment the speaker affirms.

@@ -155,7 +155,19 @@ vanity and a striving after wind. The next lines rule out idleness (5) and comme
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The dead's envy is listed with their love and hatred as having perished (6), alongside
+loss of any portion in what is done under the sun. Unlike 4:4's labor driven by rivalry,
+this is a description of ended participation, not a new instruction to compete or a
+claim that envy was good.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; envy ends with the dead’s earthly portion.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:4–6; All labor and achievement observed as the envy of a neighbor, and judged vanity.
 

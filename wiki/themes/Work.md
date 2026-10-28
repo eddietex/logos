@@ -506,7 +506,19 @@ vocabulary is asserted. Failure to comprehend does not cancel enjoyment in labor
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The command to do whatever one's hand finds with might (10) follows joy in one's portion
+in life and labor (9). Its reason is the absence of work, plan, knowledge, and wisdom in
+Sheol. The next observation denies that skill secures reward (11), so energetic labor
+is commended without a promise that sufficient effort guarantees success.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; work with might before sheol.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; enjoyed labor and unsuccessful inquiry.
 

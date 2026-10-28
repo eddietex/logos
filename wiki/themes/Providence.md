@@ -338,7 +338,21 @@ work is affirmed without claiming access to the reason for every event.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The righteous, wise, and their works are in God's hand (1); God has already accepted the
+addressee's works (7). Yet outcomes are unpredictable, and sudden evil overtakes people
+(11–12). **Explicit tension:** divine keeping does not yield a readable distribution of
+success. Time and chance are not defined here as an independent deity or as events outside
+God's reach; neither is a hidden causal explanation supplied. See
+[[Time and Chance and the Prepared Horse]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; in god’s hand, yet exposed to time and chance.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; God gives days without disclosing the whole.
 

@@ -297,7 +297,20 @@ that these people were praised. No assertion about a Hebrew variant is made.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The dead have no more reward, for their memory is forgotten (5). The claim extends the
+forgetting of wise and fool in 2:16 without exempting the righteous. **Tension:** Proverbs
+10:7 calls the righteous person's memory blessed. Present honor and eventual forgetting
+can be distinguished, but Ecclesiastes does not state that qualification. The claim is
+about the dead's memory, not God's forgetting a covenant.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; the memory of the dead forgotten.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; forgotten in the city.
 

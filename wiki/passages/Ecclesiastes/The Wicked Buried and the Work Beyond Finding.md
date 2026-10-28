@@ -79,6 +79,9 @@ not a named location; neither Jerusalem nor a specific sanctuary is asserted her
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12 continues with God’s hand, common death, joyful
+  action, and time and chance; it does not resolve 8:12–14’s competing outcomes.
+
 - [[The Prosperity of the Wicked]] — Job 21:7–16, 32–33 and Ecclesiastes 7:15; long-lived
   wrongdoing and burial do not prove innocence. See [[Why Do the Wicked Live]] and
   [[Righteousness and Wisdom Under Question]].

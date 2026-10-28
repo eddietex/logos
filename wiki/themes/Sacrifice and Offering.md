@@ -290,7 +290,18 @@ listening. See [[Justice More Than Sacrifice - Proverbs 21.3, 1 Samuel 15.22, an
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The person who sacrifices and the person who does not share the same event (2). No
+specific offering or sanctuary is named. Mortality is the point of comparison, not a
+new ruling that all offerings are worthless; the obligation to listen in 5:1 remains.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; sacrificer and nonsacrificer share one event.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1; Drawing near to listen ranked above the sacrifice of fools.
 

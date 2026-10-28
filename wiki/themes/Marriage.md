@@ -262,7 +262,21 @@ Lemuel’s wife or mother and not a complete marriage law.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The addressee is told to live joyfully with the wife he loves throughout his days of
+vanity (9). Marriage is a concrete good within mortality, not a guarantee of lasting
+profit. The wife is unnamed and is not identified as the Preacher's own spouse. Proverbs
+5:18–19 similarly commends delight in one's wife, there against adultery rather than
+against death. See
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; joy with the wife one loves as a portion.
 
 - [[The Worthy Woman]] — Proverbs 31:11–12, 23, 28–31; Trust, sustained good, and a husband’s praise of his wife’s own works.
 

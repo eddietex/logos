@@ -423,7 +423,7 @@ verified on that passage page.
 *"One event happens to them all"* (2:14); *"the wise man must die just like the fool!"* (2:16). The
 Preacher applies the common end to himself (2:15), and draws the book's starkest response so far:
 *"So I hated life"* (2:17). The text does not correct the feeling here;
-[[The Labor Left to Another]] commends enjoyment (2:24), and a later unit, not yet ingested,
+[[The Labor Left to Another]] commends enjoyment (2:24), and [[One Event Comes to All]]
 prefers *"a living dog"* to *"a dead lion"* (9:4). Job 21:26
 makes the same observation of two men of opposite fortune, and uses it against the friends'
 theology instead of against his own wisdom. See
@@ -466,8 +466,8 @@ See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparison
 After seeing oppression, the Preacher praises the dead above the living and the one who
 has not yet been above both (2–3), because the latter has not seen evil. This is not a command
 to die or a description of the dead's conscious condition. It stands in explicit tension
-with enjoyment in 3:22 and the hope of the living in 9:4 (the latter checked in stored WEB,
-not yet ingested). The stillborn comparison in 6:3–5 is distinct from 4:3's wording.
+with enjoyment in 3:22 and the hope of the living in 9:4 in [[One Event Comes to All]] (checked in
+stored WEB). The stillborn comparison in 6:3–5 is distinct from 4:3's wording.
 
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
@@ -488,7 +488,7 @@ comparisons as identified on the passage page.
 A hundred children and many years do not outweigh a life unfilled with good and without
 burial (3). The stillborn child has more rest (4–5); even two thousand years cannot prevent
 the common destination (6). **Tension:** the book also commends enjoyment in 3:22 and
-attaches hope to the living in 9:4 (checked in stored WEB, not yet ingested). These
+attaches hope to the living in 9:4 in [[One Event Comes to All]] (checked in stored WEB). These
 judgments have different settings and remain distinct; no universal command to prefer
 death is inferred. See [[Cursing the Day of Birth - Job 3 and Jeremiah 20]] and
 [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].
@@ -546,7 +546,23 @@ The days of life are nevertheless God's gift and the setting of commended joy (1
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+The common event encompasses righteous and wicked, ritual distinctions, and oath-taking
+(2–3). The living know they will die; the dead know nothing and have no further portion
+under the sun (5–6). **Explicit tension:** 4:2 praises the dead above the living, whereas
+9:4 prefers a living dog to a dead lion. The settings differ, but neither ranking is
+withdrawn. The categorical language about the dead must be retained beside the stated
+under-the-sun horizon, not silently converted into a complete account of every biblical
+afterlife text. See [[A Living Dog and the Praise of the Dead]].
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; the living know death; the dead lose their
+  portion.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; long life and the wicked.
 

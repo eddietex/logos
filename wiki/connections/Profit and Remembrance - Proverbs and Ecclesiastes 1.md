@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[One Event Comes to All]] — Ecclesiastes 9:5–6, 9–11.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
 
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–26.
@@ -51,7 +53,7 @@ is made here that the Hebrew behind the two English uses of *profit* is the same
 10:7 would most expect to be exempt: *"of the wise man, even as of the fool, there is no memory for
 ever."* Proverbs 10:7 pairs righteous and wicked, and Ecclesiastes 2:16 pairs wise and fool, so the
 categories are not identical; but Proverbs aligns them throughout, and the tension stands as
-stated. Ecclesiastes 9:5 (not yet ingested) says of the dead, *"their memory is forgotten"* (stored
+stated. Ecclesiastes 9:5 in [[One Event Comes to All]] says of the dead, *"their memory is forgotten"* (stored
 WEB). See [[The Wise and the Fool Share One End]].
 
 Sources: all six passages, and Ecclesiastes 9:5, checked in stored WEB on 2026-10-27. This comparison makes no claim
@@ -76,6 +78,18 @@ Preacher continues questioning the worker's gain while acknowledging good receiv
 labor. The two claims remain explicit rather than being collapsed into either futility or
 a guarantee of success. Verse 15 also recalls 1:9's recurrence, now attributing the seeking
 of what has passed to God. Sources: stored WEB Proverbs 14:23; Ecclesiastes 1:3, 9; 3:9–15.
+
+### Forgotten memory and a present portion — Ecclesiastes 9:1–12
+
+The dead's forgotten memory (5) now stands in its full unit, after righteous and wicked
+share one event (2). Proverbs 10:7's blessed memory of the righteous remains in explicit
+tension with this general forgetting. Ecclesiastes 9:6 also denies the dead any further
+portion under the sun, while 9:9 names a portion in living and labor. The latter does
+not establish lasting remembrance or guaranteed results: 9:11 denies that ability
+secures its expected benefits. Immediate good and enduring gain remain distinguishable,
+but no complete harmonizing formula is stated. See [[One Event Comes to All]].
+
+Sources for this extension: stored WEB Ecclesiastes 9:1–12; Proverbs 10:7.
 
 ## Significance
 

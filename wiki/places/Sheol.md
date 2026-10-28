@@ -66,7 +66,22 @@ Canaanite Mot is discussed on [[Bildad's Second Speech]]; what it is not is the 
 and the difference is the difference between a doctrine used to frighten and a place a man expects
 to go.
 
+## In Ecclesiastes 9
+
+[[One Event Comes to All]] explicitly names Sheol as the destination without work, plan, knowledge,
+or wisdom (9:10). The absence supplies the reason to work with might now. Verses 5–6
+also deny knowledge and reward to the dead and any further portion under the sun.
+This is stronger than a statement that the dead are merely remembered less often.
+The passage gives no division into rewarded and punished inhabitants. Ecclesiastes
+12:7's return of the spirit to God and 12:14's judgment remain distinct affirmations,
+verified in stored WEB but not yet ingested; they are not silently substituted for
+9:5–10's account. These textual observations do not establish a composition chronology.
+
+Source: stored WEB Ecclesiastes 9:1–12; 12:7–14.
+
 ## Appears in
+
+- [[One Event Comes to All]] — Ecclesiastes 9:10; the destination without work, plan, knowledge, or wisdom.
 
 - [[Let the Day Perish]] — Job 3:13–19; **not named, and described at greater length than anywhere
   else in the book.** Every property this page lists is present, and all of them are presented as
@@ -251,6 +266,8 @@ to go.
   the Notes.
 
 ## Events here
+
+- [[One Event Comes to All]] describes the absence of work and knowing, rather than narrating a visit (9:10).
 
 None narrated. No one in the Hebrew Bible describes Sheol from the inside, and the two apparent
 exceptions prove the reticence rather than break it: the shade of Samuel comes up at 1 Samuel

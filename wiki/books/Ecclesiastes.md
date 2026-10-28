@@ -117,12 +117,19 @@ encourages evil (11); joy is commended as company in labor (15); even the wise c
 find out God's work (17). The stored WEB describes the wicked as buried and forgotten
 (10), which governs the passage title. No reconciliation of the competing outcomes is given.
 
+[[One Event Comes to All]] (9:1–12) places the righteous, wise, and their works in
+God's hand, then expands the common event across moral and ritual distinctions. The
+living have hope; the dead lose knowledge, remembrance, and their portion under the
+sun (4–6). Joy in food, clothing, marriage, and vigorous work is commanded (7–10),
+while time, chance, and sudden evil deny control of outcomes (11–12). The living dog's
+advantage remains beside 4:2's preference for the dead. Sheol is named in 9:10.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–8:17 currently has ingested passage pages.
+only 1:1–9:12 currently has ingested passage pages.
 
 ## Structure
 
@@ -159,7 +166,7 @@ merge, or reorder them freely.
 - [x] [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29
 - [x] [[The King and the Limits of Power]] — Ecclesiastes 8:1–9
 - [x] [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17
-- [ ] One Event Comes to All — Ecclesiastes 9:1–12
+- [x] [[One Event Comes to All]] — Ecclesiastes 9:1–12
 - [ ] The Forgotten Wise Man — Ecclesiastes 9:13–10:4
 - [ ] Folly in High Places and Everyday Work — Ecclesiastes 10:5–20
 - [ ] Cast Your Bread on the Waters — Ecclesiastes 11:1–6
@@ -167,6 +174,11 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Life and Death]], [[Hope]], and [[Remembrance]] — the common event and the living
+  person's remaining portion (9:1–6).
+- [[Joy and Enjoyment]], [[Marriage]], and [[Work]] — joyful action before Sheol (9:7–10).
+- [[Providence]] and [[Wisdom]] — God's hand beside time, chance, and sudden evil (9:1, 11–12).
 
 - [[Judgment]], [[Retribution]], and [[The Fear of God]] — delayed sentence, assured good,
   and reversed outcomes (8:10–14), beside [[Joy and Enjoyment]] and the limit of [[Wisdom]]
@@ -236,5 +248,7 @@ merge, or reorder them freely.
 - [[Solomon]] — traditional association, not an explicit name in the book.
 
 ## Key places
+
+- [[Sheol]] — the destination without work, plan, knowledge, or wisdom (9:10).
 
 - [[Jerusalem]] — the royal location named in 1:1 and 1:12.

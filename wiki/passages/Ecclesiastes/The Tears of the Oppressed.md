@@ -66,6 +66,9 @@ it does not identify a particular country, court, or city.
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:4 prefers the living, in explicit tension with 4:2;
+  see [[A Living Dog and the Praise of the Dead]] .
+
 - [[The King and the Limits of Power]] — Ecclesiastes 8:9 returns to harmful dominion; see [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:3–6's stillborn child is distinct from 4:3's person who has not
@@ -89,7 +92,7 @@ it does not identify a particular country, court, or city.
 - [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — enjoyment and
   oppression retained together without a forced resolution.
 - Ecclesiastes 6:3–5; 9:4 — later comparisons concerning stillbirth and the hope of the living;
-  checked in stored WEB, with their pericopes still awaiting ingestion.
+  checked in stored WEB, now in [[Riches Without Enjoyment]] and [[One Event Comes to All]].
 
 ## Notes
 

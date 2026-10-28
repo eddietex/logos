@@ -85,6 +85,10 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:2–6 expands common death and forgetting across moral
+  and ritual categories; see
+  [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]] .
+
 - [[The King and the Limits of Power]] — Ecclesiastes 8:8 denies human control over death; see [[No Power over the Day of Death - Job 14 and Ecclesiastes 8.8]].
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:8 again questions wisdom's advantage, now following unfilled
@@ -117,12 +121,12 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 - [[The Creation of the World]] — Genesis 1:4 divides light from darkness; that is the most
   familiar light-and-darkness contrast in stored Scripture, but Ecclesiastes 2:13 does not cite
   Genesis, and the link is a reader's comparison only.
-- Ecclesiastes 3:19–20 *(not yet ingested)* — *"Even one thing happens to them"*, applied to people
+- Ecclesiastes 3:19–20 — [[From Dust to Dust]] — *"Even one thing happens to them"*, applied to people
   and animals: *"All are from the dust, and all turn to dust again"* (stored WEB). The common end
   widens from wise and fool to humans and beasts.
-- Ecclesiastes 7:11–12 *(not yet ingested)* — wisdom *"preserves the life of him who has it"*
+- Ecclesiastes 7:11–12 — [[The House of Mourning]] — wisdom *"preserves the life of him who has it"*
   (stored WEB). A later statement of wisdom's advantage, in tension with 2:16 as stated.
-- Ecclesiastes 9:2–5 *(not yet ingested)* — *"There is one event to the righteous and to the
+- Ecclesiastes 9:2–5 — [[One Event Comes to All]] — *"There is one event to the righteous and to the
   wicked"* (9:2), and of the dead, *"their memory is forgotten"* (9:5) (stored WEB). The leveller of
   2:14–16 extended from wisdom to moral standing.
 
@@ -154,7 +158,7 @@ book's language of gain (1:3) and profit (2:11) without using those words here.
 
 **"So I hated life."** The book records the feeling without correcting it.
 [[The Labor Left to Another]] commends
-eating, drinking, and enjoying one's labor (2:24). A later unit, not yet ingested, says that
+eating, drinking, and enjoying one's labor (2:24). [[One Event Comes to All]] says that
 *"a living dog is better than a dead lion"* (9:4). These statements are noted so that 2:17 is not read
 as the book's last word on life. Equally, 2:17 is not softened by them. It is reported as what the
 Preacher felt when he faced the common end.

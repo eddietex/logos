@@ -395,7 +395,19 @@ folly; the paired warnings of 16–17 are grounded in the fear of God (18).
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Madness resides in human hearts during life (3), alongside evil. The passage moves from
+shared mortality to this diagnosis, but supplies no clinical description and no separate
+named fool. Its command to work vigorously (10) is not a claim that skill can overcome
+time and chance (11).
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; madness before death.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:17, 25; folly that brings death before one's time; foolishness as madness.
 

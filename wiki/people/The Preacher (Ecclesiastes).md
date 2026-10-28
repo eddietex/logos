@@ -128,7 +128,20 @@ observations and admitted limit, without assigning them to different speakers.
 
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+He lays the matter to heart, observes the one event shared by morally and religiously
+different people, and then insists on the living person's hope (1–6). He commands joy
+in food, clothing, marriage, and work (7–10), before observing time, chance, and sudden
+evil (11–12). **Explicit tension:** his preference for the dead in 4:2 remains beside
+his preference for a living dog over a dead lion in 9:4. These are differently situated
+judgments by the same textual speaker, not newly identified voices.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; 4:1–3.
+
 ## Timeline / key events
+
+- Ecclesiastes 9:1–12 — [[One Event Comes to All]]; common death, present enjoyment, and uncertain outcomes.
 
 - Ecclesiastes 8:1–9 — [[The King and the Limits of Power]]; royal command, wise timing, and limits on human power.
 
@@ -167,6 +180,8 @@ See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Eccles
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
 
@@ -233,4 +248,4 @@ See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Eccles
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–8:17; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–9:12; Proverbs 1:1–7.

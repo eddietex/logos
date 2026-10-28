@@ -144,6 +144,9 @@ and [[Suffering]].
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:5 offers no exception to forgetting for the righteous;
+  see [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] .
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:2 names God as giver of wealth without power to enjoy it.
   **Tension with 10:22:** divine giving does not automatically mean trouble-free flourishing;
   see [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].

@@ -18309,3 +18309,61 @@ introduced. Connections are thematic comparisons, not claims of literary borrowi
 baseline remains 61 unstarted-book pages. `git diff --check` passed. No unresolved operational
 issue or deliberately dangling target remains; interpretive uncertainties stay explicit
 on the affected pages.
+
+## [2026-10-27] ingest | Ecclesiastes 9.1-12 — One Event Comes to All
+
+Unattended `/ingest auto` by Codex (OpenAI); exactly one pericope. Retained the planned
+9:1–12 boundary and title. The discussion is incorporated into the passage's summary
+and notes. The next unit, 9:13–10:4, remains unchecked. No raw source, controller file,
+or workflow instruction changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** [[One Event Comes to All]] retains the common event across
+moral and ritual distinctions, the living person's hope, the dead's lost knowledge and
+portion, the commands for joy and work, and time and chance. Explicit tensions remain:
+the preference for the dead in 4:2 beside the living dog's advantage in 9:4; unknown
+love or hatred in 9:1 beside accepted works in 9:7; God's hand beside unpredictable
+outcomes; mourning preferred in 7:2–4 beside joy commanded in 9:7–9. No unnamed wife,
+worshiper, or skilled person is made into an identified individual. Sheol is updated
+as the named realm; no earthly location or new person or theme page is required.
+
+The referent of love or hatred is left uncertain at the point of the claim. White
+clothing and oil are read contextually as glad living without an asserted ritual or
+resurrection meaning. Statements about the dead are retained alongside their
+under-the-sun horizon and the distinct, verified affirmations of 12:7 and 12:14;
+neither a complete afterlife system nor a composition chronology is inferred.
+
+**Created (3 content pages):** the passage [[One Event Comes to All]] and two connections,
+[[A Living Dog and the Praise of the Dead]] and [[Time and Chance and the Prepared Horse]].
+
+**Revised (43 content pages):** Ecclesiastes; God and The Preacher (Ecclesiastes); Sheol;
+22 themes (Life and Death, Hope, Remembrance, Providence, Righteousness, Retribution,
+Sin, Folly, Clean and Unclean, Sacrifice and Offering, Oaths and Vows, Joy and Enjoyment,
+Marriage, Love, Envy, Work, Wisdom, Vanity, War, Wealth and Possessions, Favor and Grace,
+Nakedness and Covering); five connections (One Event Happens to Them All; Your Own Well;
+Do Not Boast About Tomorrow; Mirth and Its Verdict; Profit and Remembrance); twelve
+reciprocal passages (The Tears of the Oppressed, Riches Without Enjoyment, The Wise and
+the Fool Share One End, The Wicked Buried and the Work Beyond Finding, The House of
+Mourning, A Time for Every Purpose, From Dust to Dust, The Strange Woman and the Wife
+of Your Youth, The King's Heart, Do Not Boast About Tomorrow, Why Do the Wicked Live,
+A Wise Son Makes a Glad Father). Superseded ingestion-status labels on touched pages
+were corrected, including the now-stored Ecclesiastes source in Your Own Well.
+
+**Indexes and totals.** Revised ten indexes: books (19 / 24), the main dashboard,
+themes, places, People F-M and N-Z, and Connections D-H, I-N, O-S, and T-Z. New
+connections file under L and T, ignoring the initial article. Totals by frontmatter
+type: 206 passages, 187 people, 91 places, 85 themes, 507 connections. Category-index
+coverage was checked: every person, place, theme, and connection has exactly one row.
+This log update is additional: 3 new and 54 revised wiki files overall.
+
+**Sources and validation.** The twelve primary verses were copied from immutable
+stored WEB Ecclesiastes 9:1–12 and mechanically compared with the raw source, all
+matching exactly. Comparisons read in stored WEB: Ecclesiastes 2:13–17; 3:11–22;
+4:1–3; 6:1–6; 7:1–4; 8:10–17; 12:7–14; Job 21:23–26; Proverbs 5:15–19; 10:7;
+21:30–31; 27:1. No new quotation from an unstored book or claim about exact Hebrew
+or Greek wording was introduced. Existing external verification records were retained.
+New connections assert thematic comparison, not literary borrowing.
+`scripts/link-check.sh` passed with no wrapped or unexpected dangling links and the
+expected baseline of 61 unstarted-book pages; `git diff --check` passed. New titles
+are unique, counts agree with frontmatter, and only this queue item was checked.
+No unresolved operational issue or deliberately dangling target remains; interpretive
+limits are explicit on the affected pages.

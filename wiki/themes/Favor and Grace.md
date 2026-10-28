@@ -215,7 +215,18 @@ distinguished.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:26; the passage page records the
 cross-reference sources and interpretive limits.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Favor does not reliably belong to people of skill (11). The giver of this favor is not
+identified, so the saying cannot by itself define divine saving grace. Alongside bread
+and riches, it describes an expected benefit that ability cannot guarantee.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; skill does not secure favor.
 
 - [[Where There Is No Vision]] — Proverbs 29:26; Many seek a ruler’s favor, but justice comes from
   Yahweh.

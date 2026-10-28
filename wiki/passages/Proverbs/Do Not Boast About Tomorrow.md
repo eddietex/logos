@@ -233,6 +233,9 @@ whose face one knows.
 
 ## Cross-references
 
+- [[One Event Comes to All]] — Ecclesiastes 9:11–12 also exposes unknown timing and sudden evil; see
+  [[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] .
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks what follows a person under the sun. Its
 question and Proverbs 27:1’s command both expose unknown futures; see
 [[Do Not Boast About Tomorrow - Proverbs 27.1, Luke 12.16-21, and James 4.13-16]] .

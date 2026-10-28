@@ -267,7 +267,20 @@ patriarchal households. They name opposing experiences within the poem's wider a
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Love and hatred are unknown in 1, without explicit identification of whose response is
+meant. The dead's love and hatred have perished in 6; the reader is told to enjoy life
+with the wife he loves in 9. These are different contexts. Reading 1 as uncertainty
+about God's favor is plausible after the reference to his hand, but not the only
+possible identification; no Hebrew lexical argument is asserted.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; unknown love, ended love, and marital love.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Love and hate; embracing and refraining.
 

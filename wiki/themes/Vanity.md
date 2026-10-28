@@ -152,7 +152,18 @@ of joy (15) remains, so the verdict does not erase every available good.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Days of life are called vanity twice within the instruction to live joyfully with one's
+wife (9). The repeated description does not retract the command. Transience and the
+absence of guaranteed gain coexist with a present portion in life and labor.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; joy within days of vanity.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; burial, forgetting, and reversed outcomes.
 

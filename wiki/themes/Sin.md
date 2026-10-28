@@ -347,7 +347,19 @@ than allowing observed misfortune to identify someone as wicked.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### One event comes to all — Ecclesiastes 9:1–12
+
+Human hearts are full of evil and madness while people live, before they go to the dead
+(3). The common event is itself called an evil, while the wicked and righteous remain
+distinct (2). The verse does not say that each sudden disaster in 12 is a targeted
+punishment or that God approves the evil of 3 when he accepts works in 7.
+
+See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[One Event Comes to All]] — Ecclesiastes 9:1–12; evil and madness in human hearts.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; delay encourages evil.
 
