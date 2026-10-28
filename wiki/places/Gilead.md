@@ -53,6 +53,10 @@ Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes**
   balm of Jeremiah's question**, *"Is there no balm in Gilead?"* (8:22). **The same three commodities are
   what Jacob sends back down this road as a gift when he finally has to deal with Egypt** (43:11). The
   region contributes the freight and the traders and appears in one verse
+- [[You Are All Beautiful]] — Song of Solomon 4:1; ***har gilʿāḏ***, *"Mount Gilead"* (Sefaria), now a
+  slope in a love poem. The woman's hair is *"a flock of goats, that descend from Mount Gilead"* — the
+  pasture country of Numbers 32:1 turned into a picture of dark hair moving in waves. The line is
+  repeated at 6:5, *"that lie along the side of Gilead"* (stored WEB, not yet ingested).
 
 ## Related places
 
@@ -75,3 +79,4 @@ Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes**
 - Laban rises early, kisses his daughters and grandchildren, and goes home — Genesis 31:55
 - A caravan carrying spices, balm, and myrrh sets out from here for Egypt and passes [[Dothan]] — Genesis
   37:25
+- Goats stream down from it in the Song's picture of the woman's hair — Song of Solomon 4:1; 6:5

@@ -237,7 +237,21 @@ day; earlier the woman was the one looked at (1:6).
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### Behold, you are beautiful — Song of Solomon 4:1–7
+
+The man looks at the woman and says what he sees, part by part, from the eyes down: eyes, hair,
+teeth, lips, mouth, temples, neck, breasts. The unit is framed by *hinnāḵ yāpâ*, *Behold, you are
+beautiful* (4:1), and *kullāḵ yāpâ*, *all of you is beautiful* (4:7; Sefaria). Twice the veil limits
+the view: her eyes and her temples are *"behind your veil"* (4:1, 3). The pictures are not literal
+likenesses; they say what she is worth to the one looking. See
+[[Your Hair Is Like a Flock of Goats - Song of Solomon 4.1-7, 6.4-7, and 7.1-5]].
+
+See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[You Are All Beautiful]] — Song of Solomon 4:1–7; the man's first full description of the woman.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6, 11; a procession seen from afar, and *"Go out … and see king Solomon"*.
 

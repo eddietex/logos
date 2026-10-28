@@ -18951,3 +18951,51 @@ Joel 2:30; 2 Samuel 5:7; 12:24; 23:8; 1 Kings 1:39; 2:19; 5:6; 7:2. Hebrew of So
 6:10; 8:5; Exodus 13:21; 19:18; 30:1; Joel 3:3; 2 Samuel 23:8; and Psalm 45 was read from Sefaria's
 *Miqra according to the Masorah*; every source-language statement names that edition where it is
 made. Hebrews 1:8–9 is mentioned as a reading of Psalm 45 and is not quoted or verified.
+
+## [2026-10-28] ingest | Song of Solomon 4.1-7 — You Are All Beautiful
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 4:1–7 as planned. No boundary was
+redrawn: *"Behold, you are beautiful"* (4:1) and *"You are all beautiful"* (4:7) frame the unit,
+Sefaria's *Miqra according to the Masorah* marks a section break (*{ס}*) after 4:7, and 4:8 begins a
+new address to *"my bride"*. The raw text was already stored, and no raw file, controller file, or
+workflow instruction was changed. The discussion is written into the passage summary and notes.
+
+**Interpretive decisions.** The man is the only speaker, by the feminine suffixes throughout. He is
+not identified with Solomon, and the unit is not tied to the wedding of 3:11. The images are read
+as comparisons of worth, not likenesses. *Ṣammâ* is kept as the WEB's *veil*, with *locks* noted as
+an alternative and Isaiah 47:2 cited. The shared *ḥûṭ haššānî* with Rahab's cord (Joshua 2:18) is
+recorded as a shared phrase only. David's tower is treated as an image; the page says it knows no
+other verse naming it but has not checked a concordance. 4:6 repeats 2:17's first half exactly, and
+whether *until the day breathes* means evening or dawn is left open. The mountain of myrrh as the
+woman's body is recorded as a reading, and the *Moriah* wordplay as a proposal the wiki does not
+adopt. *Mûm* (4:7) is read as praise of a body, like 2 Samuel 14:25 and Daniel 1:4, without a
+sacrificial meaning. The ecclesial reading via Ephesians 5:27 is recorded and not adopted; the Greek
+of that verse was not checked. Rarity claims for *ṣammâ*, *gālaš*, and *talpiyyôṯ*, and the *d-b-r*
+derivation of *midbārēḵ*, are marked at the point of the claim as standard observations not verified
+by a concordance or lexicon. No new person or place pages: David's tower, the mountain of myrrh, and
+the mighty men have none.
+
+**Created (3 content pages):** [[You Are All Beautiful]],
+[[Your Hair Is Like a Flock of Goats - Song of Solomon 4.1-7, 6.4-7, and 7.1-5]],
+[[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]].
+
+**Revised (11 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); The Man, The Woman, and [[David]]; [[Gilead]]; four themes (Love, Seeing and Being
+Seen, War, Sacrifice and Offering); two connections (Myrrh, Aloes, and Cinnamon; The Dove and the
+Spirit).
+
+**Indexes and totals.** Ten indexes were revised: books (7 / 16), main dashboard, places, themes,
+People A-E, F-M and N-Z, Connections D-H, I-N and T-Z. Totals by frontmatter type: 218 passages,
+190 people, 97 places, 85 themes, 529 connections; 6 books started, 5 complete. With this log,
+25 wiki files are created or revised: 3 new content pages, 11 revised content pages, 10 indexes, and
+the log.
+
+**Sources and validation.** Song 4:1–7 was copied mechanically from the stored WEB. These were read
+in the stored WEB: Song 1:9, 13, 15; 2:7, 9, 16–17; 3:6–7, 11; 4:8; 5:10–16; 6:4–7; 7:1–5;
+Genesis 38:28. These were checked as single-reference lookups at bible-api.com (`translation=web`)
+without fetching the books: Leviticus 21:17–18; 22:20–21; Joshua 2:18; 2 Samuel 8:7; 14:25;
+Isaiah 47:2; Ezekiel 27:11; Daniel 1:4; Ephesians 5:27. Hebrew of Song 1:9, 15; 2:16–17; 4:1–7;
+6:5–7; 7:4 (MT); Genesis 38:28; Leviticus 21:17–18; 22:20–21; Joshua 2:18; 2 Samuel 8:7; 14:25;
+Isaiah 47:2; Ezekiel 27:11; and Daniel 1:4 was read from Sefaria's *Miqra according to the
+Masorah*.

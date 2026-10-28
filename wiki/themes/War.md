@@ -157,7 +157,21 @@ named. Psalm 45:3 gives the bridegroom king himself a sword on his thigh. See
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### A tower hung with shields — Song of Solomon 4:4
+
+*"Your neck is like David's tower built for an armory, whereon a thousand shields hang, all the shields
+of the mighty men"* (4:4). Weapons become an image of beauty: height, straightness, perhaps
+ornaments like a row of shields. *Gibbōrîm*, the *mighty men* of Solomon's escort (3:7), return as
+the owners of the shields. Ezekiel 27:11 says of Tyre that soldiers *"hung their shields on your walls
+all around. They have perfected your beauty"* (WEB checked at bible-api.com; Hebrew *šilṭêhem*,
+Sefaria), the same picture of shields as a city's adornment.
+
+See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; comparison sources are
+identified on the passage page.
+
 ## Key passages
+
+- [[You Are All Beautiful]] — Song of Solomon 4:4; the neck as a tower hung with the shields of mighty men.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:7–8; an armed escort for a wedding.
 

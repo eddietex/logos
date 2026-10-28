@@ -56,8 +56,15 @@ to see king Solomon, crowned by his mother *"in the day of his weddings"* (3:11)
 Solomon is present in a scene and the Song's only named wedding, yet no bride is seen and neither
 lover speaks. Whether it is the lovers' wedding is left open.
 
+[[You Are All Beautiful]] is the man's first full description of the woman. Framed by *"Behold, you
+are beautiful"* and *"You are all beautiful, my love. There is no spot in you"* (4:1, 7), it moves
+from her eyes to her breasts in pictures from the land: goats on Mount Gilead, shorn ewes, a scarlet
+thread, a pomegranate, David's tower hung with shields, twin fawns among the lilies. He takes up her
+line of 2:17 and says he will go to the mountain of myrrh (4:6). Parts of the description return at
+6:5–7 and 7:3.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–3:11 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–4:7 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -81,7 +88,7 @@ merge, or reorder them freely.
 - [x] [[Rise Up, My Love]] — Song of Solomon 2:8–17
 - [x] [[Seeking Him by Night]] — Song of Solomon 3:1–5
 - [x] [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11
-- [ ] You Are All Beautiful — Song of Solomon 4:1–7
+- [x] [[You Are All Beautiful]] — Song of Solomon 4:1–7
 - [ ] A Garden Locked and Opened — Song of Solomon 4:8–5:1
 - [ ] I Opened, but He Had Gone — Song of Solomon 5:2–8
 - [ ] Altogether Lovely — Song of Solomon 5:9–6:3
@@ -112,13 +119,16 @@ merge, or reorder them freely.
 - [[Marriage]], [[Kingship and Empire]], [[Joy and Enjoyment]], [[War]], [[Wealth and Possessions]]
   — Solomon's carriage, armed escort, and wedding crown, *"in the day of the gladness of his heart"*
   (3:6–11).
+- [[Seeing and Being Seen]], [[Love]], [[War]], [[Sacrifice and Offering]] — the man's description of
+  her body, a neck like a tower hung with shields, and *"There is no spot in you"* (4:1–7).
 
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
-  shepherd in 1:7; the one who calls her out in spring (2:10–14).
+  shepherd in 1:7; the one who calls her out in spring (2:10–14); the only speaker of 4:1–7.
+- [[David]] — named only in *"David's tower"* (4:4), a comparison.
 - [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
   adjured at 2:7 and again at 3:5; as *"daughters of Zion"*, summoned to see the king (3:11).
 - Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
@@ -138,5 +148,6 @@ stated location; Jerusalem must not be supplied there from later verses.
 - [[Sharon]] — *"a rose of Sharon"*, the woman's self-description (2:1).
 - [[Bether]] — *"the mountains of Bether"* (2:17); possibly *cleft mountains* rather than a name.
 - [[Lebanon]] — the wood of Solomon's carriage (3:9); it recurs through chapters 4–7.
+- [[Gilead]] — *"Mount Gilead"*, where the goats of the hair simile come down (4:1).
 - [[Zion]] — in *"daughters of Zion"* (3:11), in parallel with Jerusalem. The wilderness the
   procession comes up from (3:6) is unnamed.

@@ -299,7 +299,21 @@ new ruling that all offerings are worthless; the obligation to listen in 5:1 rem
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### No blemish in you — Song of Solomon 4:7
+
+*"You are all beautiful, my love. There is no spot in you"* (4:7). The word for *spot* is *mûm*
+(Sefaria, *Miqra according to the Masorah*), the *defect* that bars a priest from the altar and an
+animal from being offered in Leviticus 21:17–18 and 22:20–21 (WEB checked at bible-api.com;
+Leviticus not fetched). The Song uses it as praise of a body, as 2 Samuel 14:25 does of Absalom. It
+does not mention an altar or an offering, and the wiki does not read a sacrificial meaning into the
+verse. See [[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]].
+
+See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; comparison sources are
+identified on the passage and connection pages.
+
 ## Key passages
+
+- [[You Are All Beautiful]] — Song of Solomon 4:7; *mûm*, the offering's *defect*, used in praise.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; sacrificer and nonsacrificer share one event.
 

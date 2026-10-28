@@ -60,6 +60,14 @@ yet ingested), so many readers take the procession as his wedding, with the man 
 role of Solomon. Others read the king's splendor as a contrast with the shepherd of 1:7. This page
 does not identify the man with Solomon; the unit never uses either lover's voice. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+In [[You Are All Beautiful]] he is the only speaker, for the first time over a whole unit. He describes
+the woman from her eyes down to her breasts, using flocks, a pomegranate, David's tower, and twin
+fawns (4:1–5), and sums it up: *"You are all beautiful, my love. There is no spot in you"* (4:7). He
+repeats her line of 2:17, *"Until the day is cool, and the shadows flee away"*, and answers it with
+his own intention: *"I will go to the mountain of myrrh, to the hill of frankincense"* (4:6). He is not
+called king and does not yet call her *bride*. Source: stored WEB Song of Solomon 4:1–7; Hebrew read
+from Sefaria's *Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -74,6 +82,8 @@ does not identify the man with Solomon; the unit never uses either lover's voice
   into her mother's house; silent throughout.
 - Song of Solomon 3:6–11 — not clearly present. A procession names King Solomon on his wedding
   day; whether that is this man is the open question of the unit.
+- Song of Solomon 4:1–7 — describes her body part by part and declares her all beautiful and without
+  blemish; says he will go to the mountain of myrrh.
 
 ## Appears in
 
@@ -84,6 +94,7 @@ does not identify the man with Solomon; the unit never uses either lover's voice
 - [[Seeking Him by Night]] — Song of Solomon 3:1–4.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; not clearly present; the identification
   with the bridegroom king is open.
+- [[You Are All Beautiful]] — Song of Solomon 4:1–7; the only speaker.
 
 ## Related people
 
@@ -100,4 +111,5 @@ does not identify the man with Solomon; the unit never uses either lover's voice
 - [[Praise and Song]] — affirmation of love in the opening song.
 - [[Work]] — pictured as a shepherd with a flock (1:7); *"He browses among the lilies"* (2:16).
 - [[Seeing and Being Seen]] — *"Behold, you are beautiful"*, said to her and returned (1:15–16);
-  looks in through the lattice and asks to see her face (2:9, 14).
+  looks in through the lattice and asks to see her face (2:9, 14); describes her from the eyes down
+  (4:1–7).

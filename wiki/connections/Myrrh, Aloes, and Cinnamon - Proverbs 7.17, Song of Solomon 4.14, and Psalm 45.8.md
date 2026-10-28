@@ -14,6 +14,8 @@ tags: [connection]
   myrrh, that lies between my breasts"* (*ṣərôr hammōr*)
 - **Song of Solomon 3:6** — [[Solomon's Wedding Procession]]: *"perfumed with myrrh and
   frankincense, with all spices of the merchant"* (*mǝquṭṭereṯ mōr ûlǝḇônâ*)
+- **Song of Solomon 4:6** — [[You Are All Beautiful]]: *"I will go to the mountain of myrrh, to the
+  hill of frankincense"* (*har hammôr … giḇʿaṯ hallǝḇônâ*)
 - **Song of Solomon 4:14** *(not yet ingested; WEB verified)* — *"spikenard and saffron, calamus and
   cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices"* (*qāneh
   wəqinnāmôn … mōr waʾăhālôṯ*)
@@ -56,6 +58,12 @@ for the first time. Psalm 45:8 puts myrrh on the king's own garments at his wedd
 [[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]]. Hebrew from Sefaria's *Miqra
 according to the Masorah*, 2026-10-28.
 
+**A mountain of myrrh.** At 4:6 the man says he will go *"to the mountain of myrrh, to the hill of
+frankincense"*, the same two spices as 3:6 (*mōr*, *lǝḇônâ*; Sefaria). The verse follows his
+description of her breasts (4:5), and the woman called her beloved a sachet of myrrh between her
+breasts at 1:13. Many readers therefore take the mountain as a picture of the woman herself. The
+verse does not say so, and the wiki leaves it as a reading. See [[You Are All Beautiful]].
+
 ## Significance
 
 The spices give [[Love]] and [[Marriage]] a shared vocabulary across the wisdom and poetic books,
@@ -66,4 +74,5 @@ marriage. The genre is not one of prohibition of pleasure: the same perfumes are
 Solomon 4:10, 12, 14 (4:12 by reference) and Psalm 45:8 verified WEB at bible-api.com, 2026-10-25,
 not stored. Hebrew of Proverbs 7:17–18, Song of Solomon 4:10, 14, Psalm 45:9 (MT), and Exodus 30:23
 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. Song of Solomon 1:13 from the stored
-WEB, with its Hebrew read from the same edition, 2026-10-28. Song of Solomon 3:6 from the stored WEB, 2026-10-28.
+WEB, with its Hebrew read from the same edition, 2026-10-28. Song of Solomon 3:6 from the stored WEB, 2026-10-28. Song of Solomon 4:6 from the stored WEB, with its
+Hebrew read from the same edition, 2026-10-28.

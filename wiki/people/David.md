@@ -44,10 +44,15 @@ Source: stored WEB Ecclesiastes 1:1; Proverbs 1:1.
 - 2 Samuel 7 *(not yet ingested)* — the promise of a lasting house.
 - 2 Samuel 12:24 *(not yet ingested)* — Solomon born to him and Bathsheba.
 - Proverbs 1:1 — named as Solomon's father. [[The Purpose of the Proverbs]]
+- Song of Solomon 4:4 — *"David's tower built for an armory"*, a landmark in a love poem.
+  [[You Are All Beautiful]]
 
 ## Appears in
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; named in the Preacher’s identification.
+- [[You Are All Beautiful]] — Song of Solomon 4:4; named only in *"David's tower"*, a comparison for
+  the woman's neck. No event of his life is in view, and no other verse the wiki has read names the
+  tower.
 
 - [[Get Wisdom]] — Proverbs 4:1–9; possible collection-level association only; not named in this unit.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1; named only in Solomon's patronym

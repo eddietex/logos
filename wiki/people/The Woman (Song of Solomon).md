@@ -71,6 +71,15 @@ in it. The same question at 8:5 is asked of a woman *"leaning on her beloved"*. 
 a wedding of the lovers, she is the unseen bride; the unit itself names no bride. See
 [[Who Is This Coming Up from the Wilderness - Song of Solomon 3.6, 6.10, and 8.5]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+In [[You Are All Beautiful]] she is described and does not speak. The man praises her eyes, hair,
+teeth, lips, mouth, temples, neck, and breasts (4:1–5), twice noting that part of her face is
+*"behind your veil"* (4:1, 3), and ends, *"You are all beautiful, my love. There is no spot in you"*
+(4:7). The word for *spot*, *mûm*, is the *defect* that disqualifies a priest or an offering in
+Leviticus and is said of Absalom's beauty at 2 Samuel 14:25; see
+[[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]]. Her own line of 2:17
+is taken up by him in 4:6. Nothing in the unit names her a bride; that word first comes at 4:8.
+Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -85,6 +94,8 @@ a wedding of the lovers, she is the unseen bride; the unit itself names no bride
   brings him to her mother's house, and adjures the daughters a second time.
 - Song of Solomon 3:6–11 — perhaps the *"this"* coming up from the wilderness, perhaps the unseen
   bride of Solomon's wedding procession; the unit does not say.
+- Song of Solomon 4:1–7 — described part by part by the man, and called all beautiful, with no
+  blemish; she does not speak.
 
 ## Appears in
 
@@ -95,6 +106,7 @@ a wedding of the lovers, she is the unseen bride; the unit itself names no bride
 - [[Seeking Him by Night]] — Song of Solomon 3:1–5.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; possibly the one asked about in 3:6;
   not named, and does not speak.
+- [[You Are All Beautiful]] — Song of Solomon 4:1–7; described and addressed; silent.
 
 ## Related people
 
@@ -124,3 +136,5 @@ a wedding of the lovers, she is the unseen bride; the unit itself names no bride
 - [[Into My Mother's House - Song of Solomon 3.4, 8.2, Genesis 24, and Ruth 1.8]] — where she brings
   him (3:4).
 - [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] — her belonging formula (2:16).
+- [[Your Hair Is Like a Flock of Goats - Song of Solomon 4.1-7, 6.4-7, and 7.1-5]] — the Song's
+  descriptions of her body.

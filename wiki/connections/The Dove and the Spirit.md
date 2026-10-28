@@ -12,7 +12,8 @@ tags: [connection]
 - Genesis 8:1–12 — the wind over the waters, and the dove sent out three times
   ([[The Waters Recede]])
 - Leviticus 5:7; 12:8 — the dove as the offering of those who cannot afford a lamb
-- Song of Solomon 1:15 — *"Your eyes are doves"* ([[Delight and the Unawakened Love]])
+- Song of Solomon 1:15 — *"Your eyes are doves"* ([[Delight and the Unawakened Love]]); repeated at 4:1,
+  *"Your eyes are doves behind your veil"* ([[You Are All Beautiful]])
 - Song of Solomon 2:14 — *"My dove in the clefts of the rock … Let me see your face"*
   ([[Rise Up, My Love]]); 2:12 has the turtledove's voice as a sign of spring
 - Song of Solomon 5:2; 6:9 — *"my dove"*, the beloved

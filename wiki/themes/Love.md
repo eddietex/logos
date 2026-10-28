@@ -355,7 +355,19 @@ of 2:7 and 3:5.
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### You are all beautiful — Song of Solomon 4:1–7
+
+The man's first full praise of the woman. He calls her *raʿyāṯî*, *my love* or *my companion*, at
+the start and the end (4:1, 7; Sefaria), the word he has used for her since 1:9. Love here is spoken
+as delight in the whole person: *"You are all beautiful, my love. There is no spot in you"* (4:7).
+The woman does not answer in this unit.
+
+See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[You Are All Beautiful]] — Song of Solomon 4:1–7; *"You are all beautiful, my love"*.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:10; a carriage *"paved with love"*.
 
