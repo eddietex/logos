@@ -13,6 +13,9 @@ tags: [connection]
 - **John 4:1–42** — Jesus and the Samaritan woman at Jacob's well
 - Compare **1 Samuel 9:11–13** — Saul meets young women drawing water, and the scene declines to
   become this one
+- Compare **Song of Solomon 1:7–8** — [[Dark and Lovely]]: a woman among the flocks who seeks the
+  shepherd herself; see
+  [[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]]
 - Compare **Ruth 2:8–9** — the elements redistributed: the water is already drawn, and the man offers
   it to the woman
 

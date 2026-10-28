@@ -443,6 +443,8 @@ pattern of [[Joseph]] before him, and the New Testament reads it forward. See
   [[Four Hundred Years - The Sojourn and the Exodus]]
 - Genesis 16:6 — *"she fled from her face"* — [[Affliction and Flight - Hagar and the Exodus]]
 - Genesis 24; 29:1–20 — the betrothal at the well — [[The Betrothal at the Well]]
+- Song of Solomon 1:7–8 — women among male shepherds —
+  [[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]]
 - Genesis 25:2 — Midian, son of Keturah
 - Genesis 27:43 — Jacob told to *flee*
 - Genesis 37:8 — *"Will you indeed reign over us?"* —

@@ -24,6 +24,8 @@ tags: [connection]
   on it, and produces a crop suitable for them for whose sake it is also tilled, receives blessing
   from God; but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to
   be burned."* (WEB verified at bible-api.com)
+- Compare [[Dark and Lovely]] — **Song of Solomon 1:6** — *"They made me keeper of the vineyards.
+  I haven't kept my own vineyard."* An unkept vineyard with no thorns and no sluggard.
 
 ## Analysis
 
@@ -54,6 +56,13 @@ blessing"*, land that bears *"thorns and thistles"* is *"near being cursed"* —
 the fruit of a life. Its phrase *thorns and thistles* corresponds to Genesis 3:18's pair in the WEB;
 whether the Greek follows the Septuagint of Genesis 3:18 was not checked in this pass.
 
+**A neglected vineyard that is not a moral lesson.** Song of Solomon 1:6 also has a vineyard that
+was not kept, and it reverses the Proverbs reading. The woman's own vineyard went untended because
+her brothers *"made me keeper of the vineyards"*, meaning other people's. The cause is assigned
+labor, not sloth, and no thorns are mentioned. The comparison is a caution against reading every
+unkept field in Scripture as the sluggard's. Whether *"my own vineyard"* is also a figure for the
+woman herself is debated and is not settled in that unit. See [[Work]].
+
 ## Significance
 
 Across these passages, thorns are what the ground produces when no fruit is produced: the curse's
@@ -64,7 +73,7 @@ plainness is the point of the wisdom tradition — the same truth Isaiah applies
 read off a neighbour's field. See [[Work]], [[Curse]], and
 [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]].
 
-Sources: Proverbs 15:19; 24:30–31, Genesis 3:17–18, and Job 31:40 copied from the stored WEB. Isaiah
+Sources: Proverbs 15:19; 24:30–31, Genesis 3:17–18, Job 31:40, and Song of Solomon 1:6 copied from the stored WEB. Isaiah
 5:1–7 and Hebrews 6:7–8 verified at bible-api.com (`translation=web`) on 2026-10-26; neither book was
 fetched. Hebrew of Genesis 3:18, Proverbs 15:19, 24:31, and Isaiah 5:5–6 read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-26. The botanical identity of the plant words is uncertain and

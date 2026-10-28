@@ -148,7 +148,20 @@ Proverbs 18:24 and 27:10, the passage locates help in whoever is present. See
 See [[Two Are Better Than One]]. Source: stored WEB Ecclesiastes 4:4–12; the passage page
 records the comparison sources and Hebrew checks.
 
+### My mother's sons — Song of Solomon 1:6
+
+*"My mother's sons were angry with me. They made me keeper of the vineyards"* (1:6). The
+brothers are named only by their relation through the mother, and their anger is not
+explained. Their authority shows up as assigned work. The pattern of brothers acting over a
+sister's life recurs in [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]], although
+that is a far graver case and the Song names no violence. The Song's brothers return,
+probably, in the *"our sister"* speech of 8:8–9, which is not yet ingested.
+
+See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:6; 8:8–9.
+
 ## Key passages
+
+- [[Dark and Lovely]] — Song of Solomon 1:6; angry brothers set their sister to keep the vineyards.
 
 - [[Two Are Better Than One]] — Ecclesiastes 4:8–12; Neither son nor brother, and the companion who lifts the one who falls.
 
@@ -263,3 +276,4 @@ records the comparison sources and Hebrew checks.
 - [[Reuben]] — who tries twice and fails twice
 - [[Benjamin]] — *"Joseph's brother"*, the term the narrator uses instead of his name
 - [[Simeon]] and [[Levi]] — brotherhood as a joint instrument
+- [[The Woman (Song of Solomon)]] — whose *"mother's sons"* were angry and set her to work (Song 1:6)

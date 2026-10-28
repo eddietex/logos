@@ -18700,3 +18700,56 @@ or claim about Greek or Hebrew wording is introduced. All new titles are unique.
 60 expected unstarted-book targets; `git diff --check` passed. No deliberately
 dangling target or unresolved blocker remains. Literary speaker identity remains
 qualified on the relevant pages.
+
+## [2026-10-28] ingest | Song of Solomon 1.5-8 — Dark and Lovely
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 1:5–8 as planned. No boundary was
+redrawn: 1:5 opens the new address to the daughters of Jerusalem, and 1:9 starts the
+compliments that run to 2:7. The raw text was already stored, and no raw file, controller
+file, or workflow instruction was changed. The discussion is written into the passage summary
+and notes.
+
+**Interpretive decisions.** The daughters of Jerusalem get a collective person page,
+[[The Daughters of Jerusalem]]. Unlike the opening's virgins and Friends, they are the Song's
+recurring addressees (1:5; 2:7; 3:5; 5:8, 16; 8:4; referred to at 3:10, with the daughters of Zion
+at 3:11). The page notes these occurrences as un-ingested and keeps their role open. Kedar gets a
+bare place page, [[Kedar]], following the [[Tema]] and [[Midian]] precedent; any future person page
+for Ishmael's son must be `Kedar (son of Ishmael)`. The standing note on
+[[The Death of Abraham and the Line of Ishmael]] is updated to say so. The woman's brothers (*"my
+mother's sons"*) get no page. The speaker of 1:8 is left open, since the WEB has no cue there.
+The WEB's 5:9 and 6:1 read *"fairest among women"*, not the 1:8 wording, so that resemblance is
+treated as suggestive only. *Dark* is explained by the poem's own reason (sun and labor). No
+ethnic claim is made, and the WEB's *but* is followed with no claim about the Hebrew conjunction.
+The *veiled* line of 1:7 is presented with both common readings (prostitute association after
+Genesis 38:15, or wandering/searching), and neither is settled. The figurative sense of *"my own
+vineyard"* is noted as possible but unconfirmed. The man appears as a shepherd in 1:7 after the
+king of 1:4, and his role page does not decide whether that is one figure or two.
+
+**Created (4 content pages):** [[Dark and Lovely]], [[The Daughters of Jerusalem]], [[Kedar]],
+[[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]].
+
+**Revised (17 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); The Woman and The Man (Song of Solomon), Solomon, Ishmael; Jerusalem; four themes
+(Love, Seeing and Being Seen, Brotherhood, Work); four connections (The Vineyard Gone to Thorns,
+which gains an unkept vineyard caused by assigned labor rather than sloth; The Attire of a
+Prostitute, which gains Song 1:7 as a possible, unestablished third case; The Betrothal at the
+Well; Abraham's Other Sons in Isaiah 60); and three reciprocal passages (Jacob, Leah, and Rachel;
+Moses Flees to Midian; The Death of Abraham and the Line of Ishmael). On the last, a sentence that
+attributed Psalm 120:5 and Song 1:5 to both Kedar and Nebaioth now attributes those tents to Kedar
+only, as the verified WEB reads.
+
+**Indexes and totals.** Nine indexes were revised: books (2 / 16), main dashboard, places, themes,
+People A-E (the daughters file under D), People F-M and N-Z, Connections A-C and T-Z (the new
+connection files under W). Totals by frontmatter type: 213 passages, 190 people, 92 places,
+85 themes, 519 connections; 6 books started, 5 complete. With this log, 31 wiki files are
+created or revised: 4 new content pages, 17 revised content pages, 9 indexes, and the log.
+
+**Sources and validation.** Song 1:5–8 was copied mechanically from the stored WEB. These were read
+in the stored WEB: Song 2:7; 3:5, 10–11; 4:12–5:1; 5:8–9, 16; 6:1; 8:4, 8–9, 12; Genesis 24:65;
+25:13; 29:6–9; 38:14–15; Exodus 2:16–17; Proverbs 24:30–34. Psalm 120:5, Isaiah 21:16–17; 42:11,
+and Jeremiah 49:28–29 were checked as single-reference lookups at bible-api.com
+(`translation=web`), and none of those books was fetched. No Hebrew was consulted, and no
+source-language claim is made. `scripts/link-check.sh` passed with no wrapped or unexpected
+dangling links and 60 expected unstarted-book targets; `git diff --check` passed. No
+deliberately dangling target remains.

@@ -296,7 +296,21 @@ See [[Love Better Than Wine]]; comparisons are developed in
 [[Wine, Oil, and the Joy of Love]].
 Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
 
+### The one whom my soul loves — Song of Solomon 1:5–8
+
+The woman's name for the beloved is a description of her own love: *"you whom my soul
+loves"* (1:7). Love here means seeking. She wants to know where he will be at noon, and she
+does not want to wait among other men's flocks. The answer calls her *"most beautiful among
+women"* (1:8), so being loved and being admired arrive together. The unit gives no command
+about love. Its first adjuration comes at 2:7, which is not yet ingested.
+
+See [[Dark and Lovely]] and
+[[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]].
+Source: stored WEB Song of Solomon 1:5–8.
+
 ## Key passages
+
+- [[Dark and Lovely]] — Song of Solomon 1:5–8; *"you whom my soul loves"* sought at noon.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; desire and affirmation.
 
@@ -425,3 +439,4 @@ Source: stored WEB Song of Solomon 1:1–4 and the comparison references on thos
 - [[Rachel]] — the object of Genesis's only love that precedes the marriage it produces
 - [[Leah]] — the *hated* wife of 29:31, and the one God is said to see
 - [[Esau]] — the loved son of 25:28 and the hated brother of Malachi 1:3
+- [[The Daughters of Jerusalem]] — the Song's audience, first addressed at Song of Solomon 1:5

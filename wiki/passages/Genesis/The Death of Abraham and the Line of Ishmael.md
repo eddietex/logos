@@ -269,7 +269,8 @@ pastoral confederation actually lives on the desert margin, which is what 16:12'
 men* predicted for them.
 
 **Several of the twelve are attested as North Arabian peoples elsewhere in Scripture.** *Kedar* and
-*Nebaioth* are the flocks of Isaiah 60:7 and the tents of Psalm 120:5 and Song of Songs 1:5; *Tema*
+*Nebaioth* are the flocks and rams of Isaiah 60:7, and Kedar's tents are named at Psalm 120:5 and
+Song of Solomon 1:5 (see [[Kedar]]); *Tema*
 is a caravan stop in Job 6:19 and Isaiah 21:14 (see [[Tema]]); *Dumah* has an oracle of its own at Isaiah 21:11;
 *Jetur* and *Naphish* are fought by the Transjordanian tribes at 1 Chronicles 5:19; *Massa* may stand
 behind the headings of Proverbs 30:1 and 31:1. **The list is a real map**, and the wiki records the
@@ -416,6 +417,8 @@ wife.
   across the whole Arabian trade corridor.
 - [[The Negev]] — where Isaac is living, from 24:62 and now permanently.
 - [[Canaan]] — the land the whole cycle was about, and in these verses it is a burial plot.
+- [[Kedar]] — Ishmael's second son (25:13), whose name becomes a tent-dwelling Arabian people;
+  no person page is kept for the son.
 
 ## Themes
 
@@ -553,7 +556,9 @@ wife.
   qualifier is needed because Midian is also a region, and an unqualified `Midian.md` is exactly the
   silent basename collision the `AGENTS.md` qualifier rules exist to prevent. **This note exists so
   the next agent does not create a bare `Midian.md`.** The same applies to Nebaioth and Kedar if
-  Isaiah 60 or Isaiah 21 is ever ingested.
+  Isaiah 60 or Isaiah 21 is ever ingested. *(Song of Solomon 1:5 has since created a place page,
+  [[Kedar]], for the people. A person page for the son, if ever needed, is
+  `Kedar (son of Ishmael)`.)*
 - **On the reappearance of Ishmael.** Genesis gives no account of it. The tradition that Abraham
   visited him, that they were reconciled, or that Keturah is Hagar returned, all exist to fill this
   gap, and all of them are later than Genesis. **What the text does is put the two names in one clause

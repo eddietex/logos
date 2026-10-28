@@ -571,6 +571,8 @@ the one Israel comes from.**
   speaks at 29:26, and the earlier bargain in which Jacob was the one who named a price.
 - [[The Betrothal at the Well]] — the type-scene, with this passage as its second and most inverted
   instance: **the hero does the work here, and the woman did it in Genesis 24.**
+- [[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]] — Rachel
+  *"kept"* her father's sheep (29:9), and the Song's woman grazes young goats at noon.
 - [[The Younger Before the Firstborn - Jacob and Laban]] — the parallel in full: the disguise, the
   discovery, the charge, and the ruling that the outcome stands.
 - [[A Garment and a Goat - Jacob Deceives and Is Deceived]] — the family's props, and the second of

@@ -19,6 +19,8 @@ tags: [connection]
 - Isaiah 21:11, 14; Jeremiah 49:28–33; Ezekiel 27:20–21 — the same peoples as ordinary nations in the
   oracles
 - Matthew 2:11 — gold and frankincense, from the east
+- Compare Song of Solomon 1:5 — [[Dark and Lovely]]: *"like Kedar's tents"*, the same people as an
+  image of dark beauty. See [[Kedar]].
 
 ## Analysis
 

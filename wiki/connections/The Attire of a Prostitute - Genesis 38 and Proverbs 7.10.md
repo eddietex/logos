@@ -17,6 +17,9 @@ tags: [connection]
   with the attire of a prostitute, and with crafty intent … So she caught him, and kissed him. With
   an impudent face she said to him"* (*šîṯ zônâ ûnəṣurat lēḇ … hēʿēzâ p̄ānêhā*)
 
+- Compare **Song of Solomon 1:7** — [[Dark and Lovely]]: *"why should I be as one who is veiled
+  beside the flocks of your companions?"* A possible echo; see the analysis.
+
 ## Analysis
 
 **Two women who are not prostitutes, dressed as prostitutes, by the road.** Tamar is a widow who
@@ -39,6 +42,16 @@ to betray a marriage she already has. **The wiki records the parallel of dress a
 assimilate the two women.** Proverbs gives no sign of thinking of Tamar, and Genesis 38 is not a
 warning text.
 
+**A disputed third case.** In Song of Solomon 1:7 the woman does not want to be *"as one who is
+veiled"* beside the flocks of the beloved's companions. One common reading takes the line in light of
+Genesis 38:15: a covered woman alone among men could be taken for a prostitute, and she wants to
+avoid that. Other readers take the line as wandering or searching. If the first reading is right,
+the Song adds a third use of the same signal. Tamar adopts it deliberately, the woman of Proverbs 7
+dresses in it, and the Song's woman fears being mistaken for it. The text does not make the
+link explicit. No Hebrew comparison was made in this pass, so the echo is recorded as possible, not
+established. Genesis 24:65 is a reminder that a veil in Genesis can also mean modesty before a
+bridegroom.
+
 ## Significance
 
 The pair marks the range of [[Deception]] in sexual matters within Scripture's own judgments: the
@@ -46,6 +59,6 @@ same disguise is vindicated in Genesis and condemned in Proverbs, according to i
 adds to [[Sexual Sin]] the observation that Proverbs' strange woman is not a professional, but a
 married woman using a prostitute's dress.
 
-**Sources:** Genesis 38:14–15, 21, 26 and Proverbs 7:8, 10, 13, 19, 27 checked in the stored WEB.
+**Sources:** Genesis 24:65; 38:14–15, 21, 26, Proverbs 7:8, 10, 13, 19, 27, and Song of Solomon 1:7 checked in the stored WEB.
 Hebrew of Genesis 38:14–15 and Proverbs 7:10, 13 read from Sefaria's *Miqra according to the
 Masorah*, 2026-10-25. The levirate background of Genesis 38 is as set out on [[Judah and Tamar]].

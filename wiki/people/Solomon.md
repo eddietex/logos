@@ -12,6 +12,11 @@ song with Solomon, while verses 2–4 do not name the beloved or identify the wo
 The king's rooms are a royal reference, not proof that every lover's voice is Solomon's.
 Source: newly stored WEB Song of Solomon 1:1–4.
 
+In [[Dark and Lovely]] his name appears inside an image. The woman is lovely *"like Solomon's
+curtains"* (Song of Solomon 1:5), set in parallel with Kedar's tents. The comparison assumes royal
+furnishings worth admiring and makes no claim about his presence in the scene.
+Source: stored WEB Song of Solomon 1:5.
+
 Proverbs 30:1 now introduces [[Agur]] under his own heading: see [[The Words of Agur]]. This is
 an attribution boundary, not an appearance by Solomon; the words of 30:1–14 are not assigned to him.
 
@@ -199,6 +204,7 @@ not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 ## Timeline / key events
 
 - Song of Solomon 1:1 — named in the heading; literary attribution, not a dated event. [[Love Better Than Wine]]
+- Song of Solomon 1:5 — *"Solomon's curtains"* as a comparison for the woman's beauty. [[Dark and Lovely]]
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
 - 1 Kings 3:5–15 *(not yet ingested)* — asks for an understanding heart, and is given wisdom.
@@ -210,6 +216,7 @@ not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1; named attribution, not an identified speaking part.
+- [[Dark and Lovely]] — Song of Solomon 1:5; named in a comparison, *"like Solomon's curtains"*.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; attribution comparison only, not named.

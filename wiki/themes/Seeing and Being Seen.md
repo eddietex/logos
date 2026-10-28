@@ -195,7 +195,20 @@ perception. See [[Never Satisfied - Proverbs 27.20, 30.15-16, Ecclesiastes 1.8, 
 See [[Vanity of Vanities]]. Sources: stored WEB Ecclesiastes 1:1–11 and the comparison texts
 verified on that passage page.
 
+### Don't stare at me — Song of Solomon 1:5–6
+
+The woman stands under the gaze of [[The Daughters of Jerusalem]] and speaks first: *"I am
+dark, but lovely"* (1:5). *"Don't stare at me because I am dark"* (1:6) names the look and
+refuses it. She explains the darkness by the sun and by labor, not by any fault. Elsewhere
+in the wiki, being seen is often God's regard or a judge's inspection. Here it is the
+social gaze of peers, and the one being looked at sets her own terms for how she is seen.
+The answer in 1:8 then sees her as *"most beautiful among women"*.
+
+See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:5–8.
+
 ## Key passages
+
+- [[Dark and Lovely]] — Song of Solomon 1:5–6; *"Don't stare at me"*: the woman answers the onlookers' gaze.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; Seeing does not finally satisfy the eye; hearing does not fill the ear.
 
@@ -523,3 +536,5 @@ verified on that passage page.
 - [[Isaac]] — the first blind person in the Bible, and the only one whose blindness is the mechanism
   of a plot
 - [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered
+- [[The Woman (Song of Solomon)]] — who answers the stare of others with *"dark, but lovely"* (Song 1:5–6)
+- [[The Daughters of Jerusalem]] — the onlookers she addresses

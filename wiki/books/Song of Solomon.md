@@ -22,8 +22,14 @@ is explicit in the WEB; the identities of the lovers are not. [[The Woman (Song 
 and [[The Man (Song of Solomon)]] are literary-role pages, not independently identified
 historical people. No composition date or original performance setting is established.
 
+[[Dark and Lovely]] turns the woman toward an audience, [[The Daughters of Jerusalem]], and
+moves from royal rooms to vineyards and pasture. She calls herself dark and lovely, explains
+the darkness by the sun and the vineyard work her brothers forced on her, and asks where the
+beloved shepherd rests his flock at noon. Royal and pastoral images stand side by side
+without being reconciled into one plot.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–4 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–8 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -42,7 +48,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[Love Better Than Wine]] — Song of Solomon 1:1–4
-- [ ] Dark and Lovely — Song of Solomon 1:5–8
+- [x] [[Dark and Lovely]] — Song of Solomon 1:5–8
 - [ ] Delight and the Unawakened Love — Song of Solomon 1:9–2:7
 - [ ] Rise Up, My Love — Song of Solomon 2:8–17
 - [ ] Seeking Him by Night — Song of Solomon 3:1–5
@@ -65,15 +71,24 @@ merge, or reorder them freely.
 - [[Names and Naming]] — a name likened to poured oil (1:3).
 - [[Praise and Song]] — the heading's song and the shared praise of love (1:1, 4).
 - [[Kingship and Empire]] — Solomon's attribution and the king's rooms (1:1, 4).
+- [[Seeing and Being Seen]] — the woman answers the stare of onlookers (1:5–6).
+- [[Brotherhood]] — angry brothers who set their sister to work (1:6).
+- [[Work]] — vineyard keeping and grazing flocks (1:6–8).
 
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1).
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
-- [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4.
-- Friends and virgins remain unnamed groups in the opening unit.
+- [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
+  shepherd in 1:7.
+- [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5.
+- Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
+  (*"my mother's sons"*, 1:6) are unnamed and have no page.
 
 ## Key places
 
 No geographical place is named in 1:1–4. The king's rooms are an interior without a
-stated location; Jerusalem must not be supplied here from later verses.
+stated location; Jerusalem must not be supplied there from later verses.
+
+- [[Jerusalem]] — named in the address *"daughters of Jerusalem"* (1:5), not as a setting.
+- [[Kedar]] — the tents of an Arabian people, a comparison for the woman's darkness (1:5).

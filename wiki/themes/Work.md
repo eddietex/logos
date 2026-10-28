@@ -550,7 +550,22 @@ weariness or masters every outcome.
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### Keeper of the vineyards — Song of Solomon 1:6–8
+
+The woman's darkness is the mark of outdoor labor: *"the sun has scorched me"*, after her
+brothers made her keeper of the vineyards (1:6). Her own vineyard went untended because
+others claimed her work. In Proverbs 24:30–34 an unkept vineyard indicts the sluggard, but
+here neglect results from assignment and not from sloth. See
+[[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]]. Pastoral
+work then sets the scene. The beloved grazes a flock and rests it at noon, and she has young
+goats of her own to graze (1:7–8). See
+[[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]].
+
+See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:5–8; Proverbs 24:30–34.
+
 ## Key passages
+
+- [[Dark and Lovely]] — Song of Solomon 1:6–8; forced vineyard work and grazing at noon.
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; Teaching as labor; study’s weariness; every deed accountable.
 
@@ -799,3 +814,5 @@ comparison passages identified on that page.
 - [[Cain]]
 - [[Abel]]
 - [[Jabal]], [[Jubal]], [[Tubal Cain]] — the founders of the first three named crafts
+- [[The Woman (Song of Solomon)]] — keeper of vineyards and grazer of young goats (Song 1:6, 8)
+- [[The Man (Song of Solomon)]] — pictured as a shepherd resting his flock at noon (Song 1:7)

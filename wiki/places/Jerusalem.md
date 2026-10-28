@@ -19,7 +19,11 @@ more than all of them (2:9).
 page records the explicit Jerusalem name in Ecclesiastes 1:1. Ecclesiastes does not itself
 identify Salem with Jerusalem, so the two textual occurrences are not collapsed.
 
-Source: stored WEB Ecclesiastes 1:1–2:11 and Genesis 14:18; the earlier identification discussion
+In [[Dark and Lovely]] the city's name first appears in the Song of Solomon, in the address
+*"you daughters of Jerusalem"* (Song of Solomon 1:5). Its women are the Song's audience
+([[The Daughters of Jerusalem]]). The unit does not set any scene in the city itself.
+
+Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5, and Genesis 14:18; the earlier identification discussion
 and its sources remain on [[Salem]].
 
 ## Appears in
@@ -27,10 +31,12 @@ and its sources remain on [[Salem]].
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; city of the kingship named in the heading.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12, 16; seat of the kingship and measure of the Preacher's wisdom.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:7, 9; measure of the Preacher's possessions and greatness.
+- [[Dark and Lovely]] — Song of Solomon 1:5; named in the address *"daughters of Jerusalem"*.
 
 ## Related places
 
 - [[Salem]] — the earlier city-name associated with Jerusalem; see that page for the evidence.
+- [[Kedar]] — compared in the same verse that addresses Jerusalem's daughters (Song 1:5).
 
 ## Events here
 
