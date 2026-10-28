@@ -453,7 +453,20 @@ into an absolute rule inferred from the other.
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### Keeping his commandments — Ecclesiastes 12:9–14
+
+The final charge explicitly makes the commandments God's (13), unlike the royal
+command of 8:2. No particular law collection is named. Obedience accompanies the
+fear of God and is grounded in judgment of every work (14), not in a promise that
+the obedient will avoid all present harm. The righteous person's adverse outcome
+in 7:15 remains an observation the conclusion does not retract.
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; God’s commandments kept; no particular law collection named.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; obedience counsel retained beside Exodus's approved refusal.
 

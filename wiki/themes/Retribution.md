@@ -582,7 +582,21 @@ the saying describes risk in ordinary work, not a moral verdict. See
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Judgment without a visible timetable — Ecclesiastes 12:9–14
+
+The closing affirmation of judgment over every work (14) stands beside the
+righteous perishing in 7:15 and the reversed outcomes of 8:14. It does not turn
+visible prosperity or suffering into a reliable verdict on character. Reading
+12:14 as ultimate justice beyond these observations is possible, but no schedule
+or explicit afterlife setting is supplied. The affirmation and the observations
+remain together. See [[Every Work and Every Hidden Thing]].
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; Universal judgment affirmed without explaining present reversals.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the digger who may fall into his pit, as risk rather than verdict (10:8).
 

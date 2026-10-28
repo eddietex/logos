@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; assessment and charge after the refrain.
+
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11, especially 1:2.
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8, especially 12:8.
 
@@ -32,7 +34,9 @@ counsel to rejoice (11:9), God's judgment (11:9), or the Creator (12:1). Nor doe
 provide a formula for reconciling all the book's competing evaluations. Transience
 and frustrated gain are contextual readings of vanity here, not a source-language
 lexical definition. The following assessment of the Preacher and final charge in
-12:9–14 remain a distinct, not-yet-ingested unit.
+12:9–14 form the distinct unit [[The End of the Matter]], now ingested. The final
+charge retains responsibility for good and evil without rescinding the refrain or
+explaining every observed injustice.
 
 Sources: both quotations copied from immutable stored WEB Ecclesiastes 1:2 and 12:8;
 comparisons read in Ecclesiastes 1:1–11; 11:7–12:14. No Hebrew wording or authorship

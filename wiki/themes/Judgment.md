@@ -6,7 +6,8 @@ tags: [theme]
 
 ## Definition / overview
 
-God's response to wrongdoing: coming, investigating, sentencing, and — in Genesis, without
+God's assessment of human conduct, including good and evil (Ecclesiastes 12:14).
+His response to wrongdoing includes coming, investigating, sentencing, and — in Genesis, without
 exception — providing for the sentenced. [[The Fall]] runs the sequence for the first time, and
 the shape it takes there governs almost every judgment scene that follows.
 
@@ -473,12 +474,26 @@ The young man is invited to follow heart and eyes while knowing God will bring h
 into judgment for all these things (11:9). Judgment qualifies the invitation without
 turning every pleasure into a stated offense. As in 3:17, the affirmation supplies no
 date or explicit location before or after death. It anticipates the conclusion in
-12:14, verified in stored WEB but still outside the ingested queue.
+12:14, now ingested in [[The End of the Matter]].
 
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### Every work, including the hidden — Ecclesiastes 12:9–14
+
+God will bring every work and every hidden thing into judgment, explicitly both
+good and evil (14). This extends the earlier affirmations in 3:17 and 11:9 and
+qualifies a definition of judgment solely as punishment for wrongdoing. **Explicit
+tension:** observed outcomes remain reversed in 8:14. The closing claim supplies
+neither a date nor an explicit afterlife sequence to reconcile them. See
+[[Every Work and Every Hidden Thing]].
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; Every work and hidden thing judged, good as well as evil.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; God will judge the young person’s choices; no
   date supplied.

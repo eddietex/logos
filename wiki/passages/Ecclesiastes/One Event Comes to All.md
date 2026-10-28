@@ -104,6 +104,8 @@ No named earthly place appears.
 
 ## Cross-references
 
+- [[Every Work and Every Hidden Thing]] — Ecclesiastes 12:14’s judgment remains beside the common event and the dead’s lost portion.
+
 - [[Remember Your Creator]] — 12:7 affirms the spirit’s return to God without explaining the
   consciousness of the dead; 11:9 renews joy with accountability.
 
@@ -167,8 +169,8 @@ or wisdom. Verse 6 explicitly limits their lost portion to what is done under th
 These statements describe death from the present inquiry's horizon; they do not supply
 a detailed account of resurrection or stages after death. Within the same stored book,
 12:7 affirms the spirit's return to God and 12:14 affirms judgment of every work. Those
-verses are verified comparisons, still awaiting their own ingestion, and should neither
-be suppressed nor used to rewrite 9:5. A complete harmonization is not given here.
+verses are now ingested in [[Remember Your Creator]] and [[The End of the Matter]],
+and should neither be suppressed nor used to rewrite 9:5. A complete harmonization is not given here.
 
 **Joy and effort without control.** Bread, wine, white garments, oil, and the loved wife
 make enjoyment concrete. Reading the clothing and oil as glad living fits the sequence;

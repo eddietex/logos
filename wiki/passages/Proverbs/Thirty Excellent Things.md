@@ -197,6 +197,8 @@ discretion there, not presence.
 
 ## Cross-references
 
+- [[Words of Truth and the Work of the Teacher]] — Ecclesiastes 12:9–12 likewise values truthful, arranged instruction.
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:13–19 gives a case of wealth lost by misfortune, then commends enjoyed
   wealth as God's gift; compare Proverbs 23:4–5's warning against exhausting oneself for riches.
 

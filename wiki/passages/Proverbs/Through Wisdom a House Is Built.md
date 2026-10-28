@@ -185,6 +185,8 @@ next queue item.
 
 ## Cross-references
 
+- [[Every Work and Every Hidden Thing]] — Proverbs 24:12 beside Ecclesiastes 12:14; hidden conduct and accountable work.
+
 - [[The King and the Limits of Power]] — Ecclesiastes 8:2 ties a royal command to an oath to God; see [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
 
 - [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31 makes wise household provision a sustained portrait.

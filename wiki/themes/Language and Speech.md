@@ -515,7 +515,20 @@ snake bites first (11). Speech also travels: *"a bird of the sky may carry your 
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Acceptable and truthful words — Ecclesiastes 12:9–14
+
+The teacher seeks acceptable words and truthful writing (10). The images of goads
+and securely fastened nails characterize wise words by their effect (11), while
+endless books and much study receive a warning (12). The earlier warnings about
+many words (5:2–7) are not a blanket rejection of communication: selected, ordered
+teaching is explicitly praised. See [[Words of Truth and the Work of the Teacher]].
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; Truthful instruction as goads and fixed nails; endless books warned against.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; gracious words, the fool's multiplied talk, and the voice a bird may carry (10:11–14, 20).
 

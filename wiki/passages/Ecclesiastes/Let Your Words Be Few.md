@@ -113,8 +113,8 @@ explicit worship setting. See
   returning to God.
 - [[The Youth and the Old King]] — Ecclesiastes 4:13–16; the preceding unit. A king who no longer
   receives admonition is followed by the instruction to draw near to listen.
-- Ecclesiastes 12:13 — *"Fear God and keep his commandments"*; checked in stored WEB, with its
-  pericope still awaiting ingestion. Verse 7's *"you must fear God"* anticipates it.
+- [[The End of the Matter]] — Ecclesiastes 12:9–14 commends truthful instruction and
+  returns to the command to fear God, now joined to keeping his commandments.
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5, 14; the ruler's *error* is the
   same noun (*šəḡāḡâ*) as the *mistake* of 5:6, and the fool again multiplies words.
 

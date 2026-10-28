@@ -539,7 +539,20 @@ sluggard of Proverbs 20:4 fails for a different reason.
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
 are identified on the passage and connection pages.
 
+### The teacher’s work and accountable deeds — Ecclesiastes 12:9–14
+
+Pondering, searching, and arranging proverbs are commended labor (9–10), while
+much study wearies the flesh (12). The conclusion brings every work, good or evil,
+into judgment (14). Here work includes accountable conduct, not only productive
+employment; the passage supplies no guarantee that intellectual labor eliminates
+weariness or masters every outcome.
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; Teaching as labor; study’s weariness; every deed accountable.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; sowing morning and evening; the observer of the wind who will not sow.
 

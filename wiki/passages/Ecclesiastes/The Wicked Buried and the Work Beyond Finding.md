@@ -79,6 +79,8 @@ not a named location; neither Jerusalem nor a specific sanctuary is asserted her
 
 ## Cross-references
 
+- [[Every Work and Every Hidden Thing]] — Ecclesiastes 12:14 affirms judgment without erasing the reversals observed here.
+
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12 continues with God’s hand, common death, joyful
   action, and time and chance; it does not resolve 8:12–14’s competing outcomes.
 

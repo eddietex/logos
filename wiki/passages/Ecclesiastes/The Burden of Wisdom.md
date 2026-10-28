@@ -86,6 +86,9 @@ nation, consistent with Proverbs 1:1's *"king of Israel"*.
 
 ## Cross-references
 
+- [[The End of the Matter]] — Ecclesiastes 12:9–12 commends the teacher while warning of study’s weariness; see
+  [[Much Wisdom, Much Grief - Proverbs 3.13-18, Job 28, and Ecclesiastes 1.18]].
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:10–11 repeats the burden and limits the human grasp
   of God’s work.
 

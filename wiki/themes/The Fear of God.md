@@ -323,7 +323,20 @@ wicked (14). Fear remains commended without an observable timetable of reward.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### Fear God at the conclusion — Ecclesiastes 12:9–14
+
+The concluding charge joins fearing God to keeping his commandments (13), with
+judgment of every work as its reason (14). The command returns to 5:7; fear was also
+the response to God's enduring work in 3:14. It is not introduced only after the
+inquiry has ended. Nor does it guarantee an explanation of the reversals seen in
+8:14. See [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; Fear God and keep his commandments as the concluding charge.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; better with those who fear God.
 

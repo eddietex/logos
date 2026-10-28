@@ -151,6 +151,8 @@ correctly — sayings, not sentences passed. See [[Retribution]].
 
 ## Cross-references
 
+- [[Words of Truth and the Work of the Teacher]] — Ecclesiastes 12:9–12 assesses the work of teaching offered here.
+
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]] —
   Ecclesiastes 1:1’s royal heading names the Preacher, while Proverbs 1:1 names Solomon. See [[Vanity of Vanities]] (Ecclesiastes 1:1–11).
 

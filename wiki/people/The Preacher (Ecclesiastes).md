@@ -180,7 +180,20 @@ of the speaker's own age or death. His earlier question about the spirit (3:21) 
 beside the present affirmation. See [[Remember Your Creator]]. Source: stored WEB
 Ecclesiastes 11:7–12:8; 3:21.
 
+### The end of the matter — Ecclesiastes 12:9–14
+
+The book now commends him in the third person: wise, teaching knowledge, pondering,
+searching, and arranging many proverbs (9). He sought acceptable words and truthful
+writing (10). This evaluates his instruction without retracting his report that the
+wise cannot discover God's whole work (8:17). The shift in voice is visible; a separate
+historical editor or a particular composition date is not established by it. The
+unnamed son of 12:12 is not identified as his biological child.
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14; 8:14, 17.
+
 ## Timeline / key events
+
+- Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
 
 - Ecclesiastes 11:7–12:8 — [[Remember Your Creator]]; joy, judgment, and the Creator before death.
 
@@ -229,6 +242,8 @@ Ecclesiastes 11:7–12:8; 3:21.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8.
 

@@ -18576,3 +18576,64 @@ The existing raw file was preserved when the fetch script refused to overwrite i
 `scripts/link-check.sh` passed with no wrapped or unexpected dangling links and
 61 expected unstarted-book targets; `git diff --check` passed. Both new titles are
 unique across the vault. No deliberately dangling target or unresolved blocker remains.
+
+## [2026-10-28] ingest | Ecclesiastes 12.9-14 — The End of the Matter
+
+Unattended `/ingest auto` by Codex (OpenAI); exactly one pericope. Retained the planned
+12:9–14 boundary and title. The third-person assessment follows the closing vanity
+refrain; the teacher's work, wise words, study's limit, and final charge form the last
+unit. Discussion is incorporated into the passage summary and notes. Ecclesiastes is
+now complete at 24 / 24 pericopes; no new book was opened. No raw source, controller
+file, or workflow instruction changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** The change of voice is recorded without inventing a named
+editor or a composition history. The unnamed son and masters of assemblies receive
+no biographies, and no geographical place is named. Identifying the one shepherd
+with God is explicitly marked as an inference wherever introduced, including the
+existing shepherd connection. The images of goads and nails receive a functional
+reading without an asserted technical identification. The WEB's whole-duty rendering
+is preserved without an unverified Hebrew claim. The warning about books is read
+beside praise of teaching, not as a named canon or a ban on learning.
+
+**Tensions retained.** Truthful teaching remains valuable despite wisdom's inability
+to comprehend God's work and study's weariness. Every work is judged, including good
+and hidden things; the Judgment overview was broadened accordingly. The conclusion
+does not erase reversed outcomes (7:15; 8:14), the dead's lost portion (9:5–10), or the
+vanity refrain (12:8), and supplies no explicit resurrection or judgment timetable.
+The wisdom-motto connection now distinguishes related sayings from an identical
+formula, and its overbroad claim that every other pursuit becomes vapour was narrowed
+to retain the book's positive judgments about enjoyment and wisdom.
+
+**Created (3 content pages):** [[The End of the Matter]] and two connections,
+[[Words of Truth and the Work of the Teacher]] and [[Every Work and Every Hidden Thing]],
+using the passage and connection templates.
+
+**Revised (26 content pages):** Ecclesiastes; 2 people (God and The Preacher
+(Ecclesiastes)); 8 themes (Wisdom, Language and Speech, The Fear of God, Law and
+Obedience, Judgment, Work, Retribution, Vanity); 5 connections (The Fear of the Lord
+Is Wisdom; In the Multitude of Words; Much Wisdom, Much Grief; The God Who Has Fed
+Me; Vanity at the Beginning and the End); 10 reciprocal passages (The Purpose of
+the Proverbs, Thirty Excellent Things, Through Wisdom a House Is Built, Where
+Shall Wisdom Be Found, The Burden of Wisdom, The Wicked Buried and the Work Beyond
+Finding, Let Your Words Be Few, One Event Comes to All, From Dust to Dust, Remember
+Your Creator). Stale forward references to this unit were replaced with its link.
+
+**Indexes and totals.** Revised 8 indexes: books, main dashboard, themes, People F-M
+and N-Z, Connections D-H, I-N, and T-Z. The new connections file under E and W.
+Totals by frontmatter type: 211 passages, 187 people, 91 places, 85 themes,
+517 connections; 5 books started and all 5 complete. Every person, place, theme,
+and connection page has exactly one category row. With this log, 38 wiki files
+are created or revised: 3 new content pages, 26 revised content pages, 8 indexes,
+and the log. Places index unchanged.
+
+**Sources and validation.** All six primary verses copied mechanically from immutable
+stored WEB Ecclesiastes 12:9–14 and compared back exactly. Comparisons read in stored
+WEB Ecclesiastes 1:13, 16–18; 3:11, 14, 16–17; 5:2–3, 7; 7:15, 23–24; 8:10–14, 17;
+9:2–3, 5–6, 10; 11:9; 12:7–8; Proverbs 1:1–7; 22:17–21; 24:11–12; Job 28:23, 28;
+Genesis 49:24. New comparison prose paraphrases these sources; the existing 12:13
+quotation was checked against stored WEB. No external verse quotation or new Greek
+or Hebrew claim is introduced. The fetch script preserved the existing raw file
+by refusing to overwrite it. `scripts/link-check.sh` passed with no wrapped or
+unexpected dangling links and 61 expected unstarted-book targets; `git diff --check`
+passed. All three new titles are unique. No deliberately dangling target or
+unresolved blocker remains.

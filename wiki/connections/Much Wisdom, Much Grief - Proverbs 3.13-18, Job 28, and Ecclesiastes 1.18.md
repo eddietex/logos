@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The End of the Matter]] — Ecclesiastes 12:9–14.
+
 - [[The Burden of Wisdom]] — Ecclesiastes 1:13, 16–18.
 - [[Wisdom's Worth and the Founding of the Earth]] — Proverbs 3:13–18.
 - [[Where Shall Wisdom Be Found]] — Job 28:12, 20–21, 28.
@@ -51,6 +53,16 @@ advantage is real in seeing and walking, and not in outcome.
 Sources: all quotations checked in stored WEB Proverbs 3:13–18; 30:3; Job 28:12, 20–21, 28;
 Ecclesiastes 1:13, 16–18; 2:13, on 2026-10-27. This comparison makes no claim about shared
 Hebrew vocabulary or literary dependence among the three books.
+
+### The teacher commended, the student wearied — Ecclesiastes 12:9–12
+
+The closing assessment in [[The End of the Matter]] calls the Preacher wise and
+commends his teaching (9–10), then warns that much study wearies the flesh (12).
+It returns to the cost of knowledge in 1:18 without calling instruction worthless.
+The emotional grief of 1:18 and bodily weariness of 12:12 are related costs, not
+identical statements. The ending keeps wisdom's value beside its burden.
+
+Source: stored WEB Ecclesiastes 1:18; 12:9–12; no source-language claim.
 
 ## Significance
 

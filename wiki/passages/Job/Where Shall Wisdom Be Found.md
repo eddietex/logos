@@ -179,6 +179,9 @@ king over all the sons of pride"* (41:34).
 
 ## Cross-references
 
+- [[The End of the Matter]] — Ecclesiastes 12:13–14 joins fear of God to obedience and judgment; see
+  [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]].
+
 - [[The Wicked Buried and the Work Beyond Finding]] —
   Ecclesiastes 8:16–17 extends the distinction between human searching and divine
   knowledge; fear remains affirmed in 8:12–13. The parallel is thematic.

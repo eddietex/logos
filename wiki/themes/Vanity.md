@@ -172,7 +172,21 @@ returns; the verdict does not authorize removing those commands. See
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### The charge after the refrain — Ecclesiastes 12:9–14
+
+The final unit does not repeat the vanity refrain. After 12:8's comprehensive
+verdict, it praises truthful teaching (9–11) and commands fear and obedience under
+judgment (13–14). The book leaves both formulations standing. Reading vanity as
+moral indifference would erase the explicit distinction between good and evil in
+14; treating the conclusion as a retraction would erase 12:8. See
+[[Vanity at the Beginning and the End]].
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; The refrain remains beside truthful teaching, obedience, and judgment.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Youth passes; the opening verdict returns at 12:8.
 

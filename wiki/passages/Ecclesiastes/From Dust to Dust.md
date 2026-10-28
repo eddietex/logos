@@ -104,8 +104,9 @@ unanswered questions.
 - [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — 3:22 continues the
   commendation of a portion in works beside the earlier failed experiment.
 - [[The Labor Left to Another]] — 2:18–26's uncertain legacy and enjoyment precede 3:22.
-- Ecclesiastes 12:14 — the final judgment statement, verified in stored WEB; its pericope
-  still awaits ingestion. The spirit statement of 12:7 is now in [[Remember Your Creator]].
+- [[The End of the Matter]] — Ecclesiastes 12:14; see [[Every Work and Every Hidden Thing]]
+  for judgment affirmed beside observed injustice. The spirit statement of 12:7 is in
+  [[Remember Your Creator]].
 
 ## Notes
 

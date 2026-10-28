@@ -780,7 +780,21 @@ gave an advantage in time, the wise course here is to sow more than once.
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
 are identified on the passage and connection pages.
 
+### Truthful teaching after the inquiry — Ecclesiastes 12:9–14
+
+The Preacher is commended as wise and as a teacher who ordered many proverbs (9).
+Seeking acceptable words and truthful writing is valued (10); wise words prod and
+hold like goads and nails (11). **Explicit tension:** wisdom cannot find out God's
+whole work (8:17), and much study still wearies the flesh (12:12). Teaching's value
+does not establish comprehensive understanding or remove its cost. See
+[[Words of Truth and the Work of the Teacher]].
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
+comparison passages identified on that page.
+
 ## Key passages
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; The wise teacher commended; study remains costly.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; acting wisely without foreknowledge of what will prosper.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The End of the Matter]] — Ecclesiastes 12:9–14.
+
 - **Genesis 48:15** — *"the God who has fed me all my life long to this day"* — ***hārōʿeh ʾōtî***,
   *the one shepherding me* — [[Jacob Blesses Ephraim and Manasseh]]
 - **Genesis 49:24** — *"from there is the shepherd, the stone of Israel"* — the noun, one chapter later
@@ -99,6 +101,19 @@ harmonises none of them.** **The shepherd clause makes no exceptions**: it cover
 Laban's, the flight, the limp, [[Dinah]] at [[Shechem (city)]], the coat brought back bloody, and the
 famine. **The wiki records that the claim is comprehensive and that the book lets the other two verdicts
 stand beside it.** See [[Suffering]] and [[Hope]].
+
+### One shepherd and wise words — Ecclesiastes 12:11
+
+In [[The End of the Matter]], the WEB traces wise words to one shepherd (12:11),
+without naming that shepherd. Genesis 49:24's shepherd image in Jacob's blessing
+provides a comparison for reading the source as divine. **This identification is
+an inference:** Ecclesiastes 12:11 does not explicitly name God as the shepherd,
+and the shared image alone cannot prove a quotation of Genesis or a prediction
+of Christ. Here the image concerns the source of wisdom instruction rather than
+a narrated feeding of a flock.
+
+Sources for this addition: stored WEB Genesis 49:24; Ecclesiastes 12:9–14.
+The comparison rests on the WEB's imagery, with no new Hebrew assertion.
 
 ## Significance
 

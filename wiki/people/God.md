@@ -2381,7 +2381,20 @@ accountability and creaturely dependence. The spirit's return is affirmed here b
 after death. See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8;
 3:21; 9:5–10.
 
+### The end of the matter — Ecclesiastes 12:9–14
+
+The closing charge commands fear of God and obedience to his commandments (13),
+because he will bring every work and every hidden thing into judgment, good or evil
+(14). This is an affirmation about him, not a narrated divine speech or completed
+court proceeding. It stands beside the reversed outcomes observed in 8:14 and does
+not assign their correction a date. Identifying the one shepherd of 12:11 with God
+is a contextual reading, not an explicit identification in that verse.
+
+See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14; 8:14, 17.
+
 ## Timeline / key events
+
+- Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
 
 - Ecclesiastes 11:7–12:8 — [[Remember Your Creator]]; joy, judgment, and the Creator before death.
 
@@ -2672,6 +2685,8 @@ after death. See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The End of the Matter]] — Ecclesiastes 12:9–14.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8.
 

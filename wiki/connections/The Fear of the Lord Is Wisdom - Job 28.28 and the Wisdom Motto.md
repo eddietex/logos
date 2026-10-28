@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The End of the Matter]] — Ecclesiastes 12:9–14.
+
 - [[The Ten Commandments]] — Exodus 20:20; fear as the purpose of the encounter.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
@@ -40,14 +42,14 @@ tags: [connection]
 - **Psalm 111:10** — *"The fear of Yahweh is the beginning of wisdom. All those who do his work have a
   good understanding."* Not yet ingested.
 - **Ecclesiastes 12:13** — *"This is the end of the matter. All has been heard. Fear God, and keep his
-  commandments; for this is the whole duty of man."* Not yet ingested.
+  commandments; for this is the whole duty of man."* Now in [[The End of the Matter]].
 - **Isaiah 11:2** — the Spirit resting on the shoot of Jesse, *"the spirit of wisdom and
   understanding … the spirit of knowledge and of the fear of Yahweh."* Not yet ingested.
 - **Isaiah 33:6** — *"The fear of Yahweh is your treasure."* Not yet ingested.
 
 ## Analysis
 
-**One sentence, used as a motto by four books.** Proverbs puts it at the head of the collection and
+**Related sayings placed at the boundaries of four books.** Proverbs puts it at the head of the collection and
 again at the end of its prologue (1:7; 9:10), a Psalm closes with it (111:10), Ecclesiastes ends on it
 (12:13), and Job 28 ends on it. Each places it at a boundary — a beginning or a conclusion — and each
 uses it slightly differently.
@@ -88,9 +90,9 @@ he *"does not see"* (*lōʾ-yirʾeh*). It is a fair summary of 28:28, and it is 
 evil, and lost his children, his property and his health. The friends' doctrine said those two things
 guarantee prosperity; the motto, in Job's book, guarantees only that a man is wise — that he stands in
 the right relation to a God whose reasons he cannot see. **Ecclesiastes reaches the same place from the
-other direction**: after finding every other pursuit to be vapour, it concludes *"Fear God, and keep his
-commandments"* (12:13), offered not as the key to the world but as what remains when the world has not
-been explained.
+other direction**: after testing pursuits while still affirming enjoyment and wisdom, it concludes
+*"Fear God, and keep his commandments"* (12:13), offered not as the key to the world but as what
+remains when the world has not been explained.
 
 **Proverbs 3:7 turns Job's description into a command.** *"Fear Yahweh, and depart from evil"* is
 *yərāʾ ʾeṯ-YHWH wəsûr mērāʿ*: the narrator's *wîrēʾ ʾĕlōhîm wəsār mērāʿ* (Job 1:1) in the imperative,
@@ -151,6 +153,22 @@ divine action with human fear, while Ecclesiastes 3:12–13 also commends doing 
 receiving enjoyment. Sources: stored WEB Ecclesiastes 3:11–14; Exodus 20:20; Job 28:23–28.
 The comparison uses the WEB's English and makes no claim about identical source-language
 wording.
+
+### The concluding charge — Ecclesiastes 12:13–14
+
+[[The End of the Matter]] is now ingested. The closing charge joins fear of God to
+keeping his commandments, with every work and hidden thing subject to judgment.
+It does not literally repeat Proverbs 1:7's equation of fear with the beginning of
+knowledge or Job 28:28's equation with wisdom. The relation is thematic, and its
+placement at the end answers those passages' opening or concluding roles.
+
+Fear is already part of the inquiry in Ecclesiastes 3:14 and 5:7, and judgment in
+3:17 and 11:9. The conclusion therefore gathers existing claims; its third-person
+assessment of the Preacher does not by itself identify a later historical editor.
+The resulting counsel does not explain the reversed outcomes of 8:14.
+
+Sources for this addition: stored WEB Ecclesiastes 3:14, 17; 5:7; 8:14; 11:9;
+12:9–14; Proverbs 1:7; Job 28:28. No new source-language claim.
 
 ## Significance
 

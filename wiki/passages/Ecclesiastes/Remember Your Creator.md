@@ -102,15 +102,15 @@ belong to the poem's imagery; none requires a new place page.
   days set beside 11:8's command to remember darkness.
 - [[Cast Your Bread on the Waters]] — action within uncertainty (11:1–6) now followed by
   rejoicing and remembrance within mortality.
-- Ecclesiastes 12:14 — the concluding statement of judgment, checked in stored WEB;
-  its pericope remains un-ingested.
+- [[The End of the Matter]] — Ecclesiastes 12:9–14; the teacher assessed and every work
+  brought to judgment. See [[Every Work and Every Hidden Thing]].
 
 ## Notes
 
 **Boundary.** The planned 11:7–12:8 unit is retained. Sweet light introduces the counsel to
 rejoice; the repeated attention to youth and the days ahead joins the chapter boundary.
 12:8 closes with the opening refrain. The evaluation of the Preacher beginning at 12:9
-belongs to the remaining pericope, not to this invocation.
+belongs to the following pericope, [[The End of the Matter]].
 
 **Joy and judgment.** The invitation to rejoice is positive, not explicitly marked as
 sarcasm. Judgment follows in the same sentence (11:9), so the ways of heart and eyes are

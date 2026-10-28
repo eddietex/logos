@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The End of the Matter]] — Ecclesiastes 12:9–14.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12.
 
 - **Proverbs 10:19** — *"In the multitude of words there is no lack of disobedience, but he who
@@ -61,6 +63,18 @@ will be after him, who can tell him?"* The fool's many words claim a knowledge o
 one has, repeating 6:12 and 8:7. 10:12–13 adds the end of such speech: the fool is *"swallowed by
 his own lips"*, and his talk ends in *"mischievous madness"*. Compare Proverbs 18:7, *"A fool’s mouth
 is his destruction"*. Source: stored WEB Ecclesiastes 6:12; 8:7; 10:12–14; Proverbs 18:7.
+
+### Books without end — Ecclesiastes 12:9–12
+
+[[The End of the Matter]] praises the Preacher's teaching and truthful writing
+(9–10) before warning about endless bookmaking and the weariness of much study (12).
+As with the restrained speech of 5:2–7, quantity does not establish value. These
+remain distinct warnings: 5 concerns words before God and vows, while 12 concerns
+books and study. The goads and nails of 12:11 give wise words positive force; the
+warning does not invalidate all writing or learning. See
+[[Words of Truth and the Work of the Teacher]].
+
+Source: stored WEB Ecclesiastes 5:2–7; 12:9–12; comparison in paraphrase.
 
 ## Significance
 

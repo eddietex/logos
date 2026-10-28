@@ -5,7 +5,7 @@ genre: Wisdom / Poetry
 author: "The Preacher; traditionally associated with Solomon, not named in the text"
 canonical_order: 21
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Ecclesiastes
 
@@ -147,14 +147,20 @@ calls for remembering the Creator before years without pleasure. Darkened lights
 failing household activity, mourners, and broken vessels lead to dust returning to
 earth and spirit to God (12:7), followed by the opening vanity refrain (8). The
 spirit's return is affirmed without erasing 3:21's question or specifying consciousness
-after death. The assessment and conclusion in 12:9–14 remain to be ingested.
+after death. The assessment and conclusion follow in [[The End of the Matter]].
+
+[[The End of the Matter]] (12:9–14) commends the Preacher as a wise teacher who arranged
+proverbs and sought truthful words. Wise sayings are goads and fixed nails, given from
+one unnamed shepherd; endless books and much study bring a warning. The conclusion
+commands fear of God and obedience, grounded in judgment of every work and hidden thing,
+good or evil. It supplies no timetable that resolves the inquiry's observed injustices.
 
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
-(8:14). These statements will remain visible together as their pericopes are ingested.
+(8:14). These statements remain visible together in the completed set of passage pages.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–12:8 currently has ingested passage pages.
+all of 1:1–12:14 now has ingested passage pages (24 / 24 pericopes).
 
 ## Structure
 
@@ -196,9 +202,14 @@ merge, or reorder them freely.
 - [x] [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20
 - [x] [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6
 - [x] [[Remember Your Creator]] — Ecclesiastes 11:7–12:8
-- [ ] The End of the Matter — Ecclesiastes 12:9–14
+- [x] [[The End of the Matter]] — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Wisdom]] and [[Language and Speech]] — the teacher's truthful, arranged instruction,
+  its force, and its limits (12:9–12).
+- [[The Fear of God]], [[Law and Obedience]], and [[Judgment]] — the final charge and
+  every work, including the hidden, brought before God (12:13–14).
 
 - [[Joy and Enjoyment]], [[Judgment]], and [[Remembrance]] — rejoice and remember the Creator
   before decline; [[Life and Death]], [[Creation]], and [[Vanity]] meet in dust, spirit,
@@ -293,9 +304,11 @@ merge, or reorder them freely.
   gives wealth without that power (6:2), with no reason supplied; makes the crooked and
   sets prosperity beside adversity (7:13–14); to be feared (7:18); made man upright (7:29);
   the one *"who does all"*, whose work is not known (11:5); judge of youthful choices (11:9),
-  Creator to be remembered (12:1), and giver receiving the spirit (12:7).
+  Creator to be remembered (12:1), giver receiving the spirit (12:7), and judge of every
+  work and hidden thing, to be feared and obeyed (12:13–14).
 
-- [[The Preacher (Ecclesiastes)]] — the speaker named by title.
+- [[The Preacher (Ecclesiastes)]] — the speaker named by title; commended as a wise teacher
+  and arranger of proverbs in the closing assessment (12:9–10).
 - [[David]] — named in the heading.
 - [[Solomon]] — traditional association, not an explicit name in the book.
 
