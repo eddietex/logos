@@ -18753,3 +18753,54 @@ and Jeremiah 49:28–29 were checked as single-reference lookups at bible-api.co
 source-language claim is made. `scripts/link-check.sh` passed with no wrapped or unexpected
 dangling links and 60 expected unstarted-book targets; `git diff --check` passed. No
 deliberately dangling target remains.
+
+## [2026-10-28] ingest | Song of Solomon 1.9-2.7 — Delight and the Unawakened Love
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 1:9–2:7 as planned. No boundary was
+redrawn: 1:9 opens the first compliment, and 2:8 starts a new scene with *"The voice of my
+beloved!"* The raw text was already stored, and no raw file, controller file, or workflow
+instruction was changed. The discussion is written into the passage summary and notes.
+
+**Interpretive decisions.** The WEB gives no speaker cues in this unit. Speakers are assigned by
+forms of address (*"my love"* to her, *"my beloved"* of him), supported in 1:15–16 by the
+feminine *hinnāk yāpâ* answered by the masculine *hinnəkā yāpeh* (Sefaria). The speakers of
+1:11 (*"We"*) and 1:17 are left open. The mare reading of 1:9 (*ləsusātî*, Sefaria) is recorded,
+and both explanations of the compliment (splendor of harness; the stir among chariot horses)
+are given without adopting either. *Banquet hall* is noted as *bêt hayyāyin*, *house of wine*;
+the sense of *banner* is not settled. The *rose of Sharon* is not botanically identified. The
+adjuration (*hišbaʿtî*) is treated as an oath; the proposed play on divine titles in *roes* and
+*hinds* is recorded but not adopted; and the refrain's two common readings (do not hurry love;
+do not disturb the lovers) are both kept open. No marriage is supplied. [[En Gedi]] and
+[[Sharon]] get bare place pages after the [[Kedar]] precedent for places named in comparisons.
+Genesis 14:7's Hazazon Tamar is linked from En Gedi but not counted as an appearance, because
+the identification rests on 2 Chronicles 20:2. No Pharaoh page is created for the 1:9
+comparison, and the plural *we* of 1:11 and the daughters and sons of 2:2–3 get no pages.
+
+**Created (4 content pages):** [[Delight and the Unawakened Love]], [[En Gedi]], [[Sharon]],
+[[A Steed in Pharaoh's Chariots - Exodus 14-15, 1 Kings 10.28-29, and Song of Solomon 1.9]].
+
+**Revised (14 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); The Woman and The Man (Song of Solomon), The Daughters of Jerusalem; five
+themes (Love, Joy and Enjoyment, Seeing and Being Seen, Oaths and Vows, Kingship and Empire);
+four connections (Myrrh, Aloes, and Cinnamon, which gains Song 1:13 as the Song's first myrrh;
+Wine, Oil, and the Joy of Love, which gains 1:12 and the *house of wine* of 2:4; Your Own Well,
+which gains the shared noun for Proverbs 5:19's doe and Song 2:7's hinds; The Dove and the
+Spirit, which gains 1:15); and the reciprocal passage [[The Song of the Sea]].
+
+**Indexes and totals.** Eleven indexes were revised: books (3 / 16), main dashboard, places,
+themes, People A-E, F-M and N-Z, Connections D-H, I-N, O-S (the new connection files under S)
+and T-Z. Totals by frontmatter type: 214 passages, 190 people, 94 places, 85 themes,
+520 connections; 6 books started, 5 complete. With this log, 30 wiki files are created or
+revised: 4 new content pages, 14 revised content pages, 11 indexes, and the log.
+
+**Sources and validation.** Song 1:9–2:7 was copied mechanically from the stored WEB. These were
+read in the stored WEB: Song 3:5; 4:8; 5:8; 8:3–4; Genesis 14:7; Exodus 14:7, 9, 23; 15:1, 4,
+19; Proverbs 5:19. 1 Kings 10:28–29; Deuteronomy 17:16; Joshua 15:62; 1 Samuel 23:29; 24:1;
+2 Chronicles 20:2; Ezekiel 47:10; Isaiah 33:9; 35:2; 65:10; and 1 Chronicles 27:29 were checked
+as single-reference lookups at bible-api.com (`translation=web`), and none of those books was
+fetched. Hebrew of Song 1:9–17; 2:1–7 and Proverbs 5:19 was read from Sefaria's *Miqra
+according to the Masorah*; every source-language statement names that edition where it is
+made. `scripts/link-check.sh` passed with no wrapped or unexpected dangling links and 60
+expected unstarted-book targets; `git diff --check` passed. No deliberately dangling target
+remains.

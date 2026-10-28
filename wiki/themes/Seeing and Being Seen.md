@@ -206,7 +206,18 @@ The answer in 1:8 then sees her as *"most beautiful among women"*.
 
 See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:5–8.
 
+### Behold, you are beautiful — Song of Solomon 1:9–2:7
+
+After the stare she refused in 1:6, the woman is looked at with delight: *"Behold, you are
+beautiful, my love … Your eyes are doves"* (1:15). She answers with the same words for him
+(1:16). Being seen here is mutual, and each lover looks with approval. The gaze that was a
+burden in the previous unit has become a gift.
+
+See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:15–16; *"Behold, you are beautiful"*, said and returned.
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–6; *"Don't stare at me"*: the woman answers the onlookers' gaze.
 

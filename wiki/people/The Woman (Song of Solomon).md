@@ -29,24 +29,40 @@ women"* and told to graze her young goats by the shepherds' tents (1:8). So she 
 as well as vineyards. Whether her *"own vineyard"* is also a figure for herself is possible
 but unconfirmed in this unit. Source: stored WEB Song of Solomon 1:5–8.
 
+In [[Delight and the Unawakened Love]] she is praised for the first time by a male voice. She
+is compared to a steed in Pharaoh's chariots and told *"you are beautiful"*, her eyes doves
+(1:9, 15). She answers in kind. Her perfume spreads at the king's table, and her beloved is a
+sachet of myrrh and henna from En Gedi (1:12–14). She returns his *"you are beautiful"* word for
+word (1:16). She calls herself a rose of Sharon and a lily of the valleys, and he calls her a
+lily among thorns (2:1–2). Then she speaks at length: he is an apple tree among the trees, she
+was brought to the banquet hall, she is faint with love, and she describes his embrace (2:3–6).
+She closes the unit by putting the daughters of Jerusalem under oath not to awaken love
+*"until it so desires"* (2:7). The adjuration is hers, so the first restraint on love in the
+Song is spoken by the woman who has just described its fulfillment. The speaker assignment
+follows the WEB's forms of address; the WEB gives no cues here. Source: stored WEB Song of
+Solomon 1:9–2:7.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
   fragrance, and seeks nearness. These are poetic utterances, not a dated biography.
 - Song of Solomon 1:5–8 — calls herself dark and lovely before the daughters of Jerusalem,
   tells of her brothers' anger and her vineyard work, and seeks the shepherd-beloved at noon.
+- Song of Solomon 1:9–2:7 — praised and praising in turn; faint with love in his embrace; lays
+  the first adjuration on the daughters of Jerusalem.
 
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
 - [[Dark and Lovely]] — Song of Solomon 1:5–8.
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
 
 ## Related people
 
 - [[The Man (Song of Solomon)]] — the beloved addressed in the opening.
 - [[Solomon]] — named in the heading; no personal relationship with her is established.
 - Friends and virgins — unnamed voices and admirers in 1:3–4.
-- [[The Daughters of Jerusalem]] — the audience she addresses (1:5).
+- [[The Daughters of Jerusalem]] — the audience she addresses (1:5) and adjures (2:7).
 - Her mother's sons — her brothers, angry with her and her taskmasters in the vineyards
   (1:6); unnamed and without a page.
 
@@ -59,3 +75,4 @@ but unconfirmed in this unit. Source: stored WEB Song of Solomon 1:5–8.
 - [[Seeing and Being Seen]] — answers the onlookers' stare (1:5–6).
 - [[Brotherhood]] — under her brothers' anger (1:6).
 - [[Work]] — keeper of vineyards and grazer of young goats (1:6, 8).
+- [[Oaths and Vows]] — *"I adjure you"* (2:7).

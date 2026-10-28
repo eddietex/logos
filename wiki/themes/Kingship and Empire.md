@@ -319,7 +319,20 @@ See [[Love Better Than Wine]]; comparisons are developed in
 [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]].
 Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
 
+### The king at his table — Song of Solomon 1:9–2:7
+
+Royal images serve the love poem. The woman is compared to a steed in Pharaoh's chariots
+(1:9), and her perfume spreads while the king sits at his table (1:12). Solomon is not named,
+and the king is not identified with the beloved. Pharaoh's chariots, which Exodus casts into
+the sea, here become a compliment.
+
+See [[Delight and the Unawakened Love]] and
+[[A Steed in Pharaoh's Chariots - Exodus 14-15, 1 Kings 10.28-29, and Song of Solomon 1.9]].
+Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:9, 12; Pharaoh's chariots and the king at his table as love imagery.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; Solomon's heading and the king's rooms.
 

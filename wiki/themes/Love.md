@@ -308,7 +308,21 @@ See [[Dark and Lovely]] and
 [[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]].
 Source: stored WEB Song of Solomon 1:5–8.
 
+### Do not awaken love — Song of Solomon 1:9–2:7
+
+Love is mutual here. Each lover praises the other, often in the same words: *"Behold, you are
+beautiful"* is said and returned (1:15–16). The woman is *"faint with love"* (2:5) and
+describes the embrace (2:6). Then the first refrain lays an oath on the daughters of Jerusalem
+not to *"stir up, nor awaken love, until it so desires"* (2:7). This is the Song's first
+command about love, and it restrains rather than urges. Whether it means love must not be
+hurried or that the lovers must not be disturbed is left open on the passage page. Either way,
+love is treated as something with its own time.
+
+See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7; mutual praise, faint with love, and the charge not to awaken love until it so desires.
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–8; *"you whom my soul loves"* sought at noon.
 

@@ -15,6 +15,8 @@ tags: [connection]
 - **Song of Solomon 4:12–15** *(not yet ingested)* — *"A locked up garden is my sister, my bride; a
   locked up spring, a sealed fountain … a fountain of gardens, a well of living waters, flowing
   streams from Lebanon."*
+- **Song of Solomon 2:7** — [[Delight and the Unawakened Love]]: *"I adjure you, daughters of
+  Jerusalem, by the roes, or by the hinds of the field"*
 - **Ecclesiastes 9:9** — [[One Event Comes to All]] — *"Live joyfully with the wife whom you love all the
   days of your life of vanity … for that is your portion in life."*
 - Compare [[The Betrothal at the Well]] — Genesis 24, Genesis 29, and Exodus 2, where marriages
@@ -70,6 +72,13 @@ Proverbs 5:15–19 and Ecclesiastes 9:1–12. Earlier external verification reco
 
 See [[One Event Comes to All]].
 
+**The doe and the hinds.** Proverbs 5:19 calls the wife *"a loving doe and a graceful deer"*.
+Song 2:7 swears the daughters of Jerusalem *"by the roes, or by the hinds of the field"*. The
+Hebrew noun for the doe of Proverbs (*ʾayyelet*) and the hinds of the Song (*ʾaylôt*) is the
+same word, singular and plural (Sefaria, *Miqra according to the Masorah*, 2026-10-28). Proverbs
+uses the animal as a picture of the wife; the Song uses it in an oath about love. The shared
+word is all the parallel claims; no dependence is asserted.
+
 ## Significance
 
 Proverbs answers the strange woman not with a warning alone but with a picture of something
@@ -82,3 +91,5 @@ Ecclesiastes 9:9, 1 Corinthians 7:2–5, and Hebrews 13:4 quoted from the WEB at
 2026-10-25; Ecclesiastes is now stored in `raw/` and 9:9 was checked there on
 2026-10-27; the other books remain outside `raw/`. Hebrew of Proverbs 5:15–18 read from Sefaria's
 *Miqra according to the Masorah*; the Hebrew of Song of Solomon 4 was not checked this pass.
+Song of Solomon 2:7 from the stored WEB (2026-10-28); its Hebrew and that of Proverbs 5:19 read from
+the same Sefaria edition for the doe and hinds.

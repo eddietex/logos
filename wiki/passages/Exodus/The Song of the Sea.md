@@ -558,6 +558,9 @@ whole song or the refrain of a longer one, the text does not say.** **Psalm 106:
 ## Cross-references
 
 - [[The King's Heart]] — Proverbs 21:31; see [[Victory Is with Yahweh - Proverbs 21.31, Exodus 15, and Psalm 20.7]].
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:9; Pharaoh's chariots, cast into the sea
+  here (15:4), become a compliment in a love poem. See
+  [[A Steed in Pharaoh's Chariots - Exodus 14-15, 1 Kings 10.28-29, and Song of Solomon 1.9]].
 
 - [[The Golden Calf]] — Singing and dancing accompany the calf in Exodus 32:17–19, where deliverance is attributed to the image rather than to Yahweh’s action.
 - Genesis 1:2, 9–10 — *"the surface of the deep"*; the *"dry land"* — [[The Creation of the World]]

@@ -28,8 +28,15 @@ the darkness by the sun and the vineyard work her brothers forced on her, and as
 beloved shepherd rests his flock at noon. Royal and pastoral images stand side by side
 without being reconciled into one plot.
 
+[[Delight and the Unawakened Love]] is the first full exchange between the lovers. He compares
+her to a steed in Pharaoh's chariots and calls her beautiful; she answers with myrrh, henna
+from En Gedi, and the same words returned. She is a rose of Sharon and a lily among thorns; he
+is an apple tree among the trees. After the banquet hall and the embrace, the woman puts the
+daughters of Jerusalem under oath not to awaken love *"until it so desires"* (2:7). That
+refrain returns at 3:5 and 8:4 and marks the ends of major units in the plan below.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–8 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–2:7 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -49,7 +56,7 @@ merge, or reorder them freely.
 
 - [x] [[Love Better Than Wine]] — Song of Solomon 1:1–4
 - [x] [[Dark and Lovely]] — Song of Solomon 1:5–8
-- [ ] Delight and the Unawakened Love — Song of Solomon 1:9–2:7
+- [x] [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7
 - [ ] Rise Up, My Love — Song of Solomon 2:8–17
 - [ ] Seeking Him by Night — Song of Solomon 3:1–5
 - [ ] Solomon's Wedding Procession — Song of Solomon 3:6–11
@@ -66,14 +73,17 @@ merge, or reorder them freely.
 
 ## Key themes
 
-- [[Love]] — desire, invitation, and the value assigned to the beloved (1:2–4).
+- [[Love]] — desire, invitation, and the value assigned to the beloved (1:2–4); mutual praise
+  and the charge not to awaken love before its time (1:9–2:7).
 - [[Joy and Enjoyment]] — wine and fragrance as positive measures of delight (1:2–4).
 - [[Names and Naming]] — a name likened to poured oil (1:3).
 - [[Praise and Song]] — the heading's song and the shared praise of love (1:1, 4).
 - [[Kingship and Empire]] — Solomon's attribution and the king's rooms (1:1, 4).
-- [[Seeing and Being Seen]] — the woman answers the stare of onlookers (1:5–6).
+- [[Seeing and Being Seen]] — the woman answers the stare of onlookers (1:5–6); *"Behold, you
+  are beautiful"*, said and returned (1:15–16).
 - [[Brotherhood]] — angry brothers who set their sister to work (1:6).
 - [[Work]] — vineyard keeping and grazing flocks (1:6–8).
+- [[Oaths and Vows]] — the first adjuration of the daughters of Jerusalem (2:7).
 
 ## Key people
 
@@ -81,7 +91,8 @@ merge, or reorder them freely.
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
   shepherd in 1:7.
-- [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5.
+- [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
+  adjured at 2:7.
 - Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
   (*"my mother's sons"*, 1:6) are unnamed and have no page.
 
@@ -92,3 +103,5 @@ stated location; Jerusalem must not be supplied there from later verses.
 
 - [[Jerusalem]] — named in the address *"daughters of Jerusalem"* (1:5), not as a setting.
 - [[Kedar]] — the tents of an Arabian people, a comparison for the woman's darkness (1:5).
+- [[En Gedi]] — its vineyards' henna, an image for the beloved (1:14).
+- [[Sharon]] — *"a rose of Sharon"*, the woman's self-description (2:1).

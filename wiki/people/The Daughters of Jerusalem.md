@@ -17,8 +17,14 @@ lovely, you daughters of Jerusalem"* (1:5). They are the onlookers she asks not 
 (1:6). Whether they also give the answer in 1:8, *"most beautiful among women"*, is open.
 The WEB supplies no speaker cue there, and the role pages leave it undecided.
 
-Later stored verses, not yet ingested, address them in the refrain not to stir up or
-awaken love (2:7; 3:5; 8:4) and charge them to tell the beloved she is faint with love (5:8).
+In [[Delight and the Unawakened Love]] they are put under oath for the first time: *"I adjure
+you, daughters of Jerusalem, by the roes, or by the hinds of the field, that you not stir up,
+nor awaken love, until it so desires"* (2:7). They do not answer. Their role here is to be
+bound by the woman's oath. Whether the charge means *do not hurry love* or *do not disturb
+these lovers* is left open on the passage page. The *"daughters"* among whom she is a lily
+(2:2) are young women in general and are not counted as this group.
+
+Later stored verses, not yet ingested, repeat the refrain (3:5; 8:4) and charge them to tell the beloved she is faint with love (5:8).
 They ask how her beloved is better than another (5:9). The woman names him to them as
 *"my friend"* (5:16). In 6:1 the same questioners offer to help seek him. Song 3:10–11
 mentions them in the procession, and 3:11 summons the *"daughters of Zion"* to see king
@@ -29,16 +35,19 @@ The name connects them with [[Jerusalem]] without saying they live in the city i
 particular scene. The Song makes them an audience and, at times, a chorus. It does not say
 whether they are friends, attendants, or rivals, and the page does not decide.
 
-Source: stored WEB Song of Solomon, read for the queue; only 1:1–8 is ingested.
+Source: stored WEB Song of Solomon, read for the queue; only 1:1–2:7 is ingested.
 
 ## Timeline / key events
 
 - Song of Solomon 1:5–6 — addressed by the woman, who answers their look by calling herself
   lovely. [[Dark and Lovely]]
+- Song of Solomon 2:7 — put under oath in the first refrain not to awaken love.
+  [[Delight and the Unawakened Love]]
 
 ## Appears in
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–8; addressed in 1:5, and possibly the voices of 1:8.
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7; adjured in 2:7.
 
 ## Related people
 
@@ -49,4 +58,5 @@ Source: stored WEB Song of Solomon, read for the queue; only 1:1–8 is ingested
 ## Themes associated
 
 - [[Seeing and Being Seen]] — the onlookers whose stare the woman answers (1:6).
-- [[Love]] — addressees of the Song's adjurations about love (later refrains, un-ingested).
+- [[Love]] — addressees of the Song's adjurations about love (2:7; later refrains un-ingested).
+- [[Oaths and Vows]] — put under oath *"by the roes, or by the hinds of the field"* (2:7).

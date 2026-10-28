@@ -179,7 +179,20 @@ speech. This does not rescind 5:4–6's requirement to pay a vow.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### I adjure you — Song of Solomon 2:7
+
+The Song's first oath is laid by a woman on a group of women. *"I adjure you"* renders
+*hišbaʿtî* (Sefaria, *Miqra according to the Masorah*), the oath verb, and the daughters of
+Jerusalem are bound *"by the roes, or by the hinds of the field"*, not by God's name. Hearing a
+play on divine titles in those animal words is an interpretation the wiki records but does not
+adopt. The oath protects love's timing: they are not to stir it up *"until it so desires"*. It
+returns at 3:5 and 8:4 (stored WEB, not yet ingested).
+
+See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Delight and the Unawakened Love]] — Song of Solomon 2:7; the daughters of Jerusalem put under oath by the roes and the hinds.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; taking and fearing an oath before the common end.
 
@@ -355,6 +368,8 @@ are identified on the passage and connection pages.
 - [[The Names of God]] — what an oath invokes, and why misusing it is guarded
 
 ## Related people
+
+- [[The Woman (Song of Solomon)]] and [[The Daughters of Jerusalem]] — the woman puts the daughters under oath not to awaken love (Song of Solomon 2:7).
 
 - [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 

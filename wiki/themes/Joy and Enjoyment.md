@@ -189,7 +189,18 @@ See [[Love Better Than Wine]]; comparisons are developed in
 [[Wine, Oil, and the Joy of Love]].
 Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
 
+### Great delight — Song of Solomon 1:9–2:7
+
+Enjoyment is sensory and shared. Perfume spreads at the king's table, myrrh and henna stand
+for the beloved (1:12–14), and the woman sits in his shadow *"with great delight"*, his fruit
+sweet to her taste (2:3). The banquet hall, raisins, and apples follow (2:4–5). The delight is
+followed at once by restraint in 2:7, so the Song does not set enjoyment against timing.
+
+See [[Delight and the Unawakened Love]] and [[Wine, Oil, and the Joy of Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7; fragrance, fruit, and *"great delight"* in the beloved's shadow.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; love above wine and shared rejoicing.
 

@@ -10,6 +10,8 @@ tags: [connection]
 - **Proverbs 7:16–17** — [[The Young Man Void of Understanding]]: *"I have spread my couch with
   carpets of tapestry, with striped cloths of the yarn of Egypt. I have perfumed my bed with myrrh,
   aloes, and cinnamon"* (*mōr ʾăhālîm wəqinnāmôn*)
+- **Song of Solomon 1:13** — [[Delight and the Unawakened Love]]: *"My beloved is to me a sachet of
+  myrrh, that lies between my breasts"* (*ṣərôr hammōr*)
 - **Song of Solomon 4:14** *(not yet ingested; WEB verified)* — *"spikenard and saffron, calamus and
   cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices"* (*qāneh
   wəqinnāmôn … mōr waʾăhālôṯ*)
@@ -40,6 +42,11 @@ counterfeited. The wiki notes that this matches Proverbs 5:15–19, where the sa
 delight was given to the son for his own wife; see
 [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]].
 
+**The Song's first myrrh.** Before the garden of chapter 4, myrrh enters the Song at 1:13, in the
+woman's mouth. Her beloved is a sachet of myrrh worn between her breasts. Here the spice is
+worn on the body, not spread on a bed, and the woman speaks of the man rather than a man of
+the woman. The Hebrew *mōr* there is read from the same Sefaria edition (2026-10-28).
+
 ## Significance
 
 The spices give [[Love]] and [[Marriage]] a shared vocabulary across the wisdom and poetic books,
@@ -49,4 +56,5 @@ marriage. The genre is not one of prohibition of pleasure: the same perfumes are
 **Sources:** Proverbs 5:15–19; 7:16–18 and Exodus 30:23, 32 checked in the stored WEB; Song of
 Solomon 4:10, 12, 14 (4:12 by reference) and Psalm 45:8 verified WEB at bible-api.com, 2026-10-25,
 not stored. Hebrew of Proverbs 7:17–18, Song of Solomon 4:10, 14, Psalm 45:9 (MT), and Exodus 30:23
-read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. Song of Solomon 1:13 from the stored
+WEB, with its Hebrew read from the same edition, 2026-10-28.
