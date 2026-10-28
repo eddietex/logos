@@ -133,7 +133,20 @@ walls; unlike them, the story records the city's failure to remember its deliver
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### The city at night — Song of Solomon 3:1–5
+
+The woman gets up at night and goes about an unnamed city, *"in the streets and in the squares"*
+(3:2), looking for the one she loves. The city has watchmen *"who go about the city"* (3:3), and
+they find her before she finds him. The city is not identified, and the wiki does not make it
+Jerusalem on the strength of the *daughters of Jerusalem* in 3:5. The same streets and squares are
+where Proverbs puts Wisdom and the forbidden woman; see
+[[Seeking in the Streets and Squares - Song of Solomon 3.1-4 and Proverbs 1, 7, and 8]].
+
+See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Seeking Him by Night]] — Song of Solomon 3:1–5; streets, squares, and watchmen in a city at night.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; a little city delivered by a poor wise man and then forgetful of him.
 

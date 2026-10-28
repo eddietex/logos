@@ -268,7 +268,18 @@ event. This differs from 2:13–14's light as wisdom over folly.
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### By night on my bed — Song of Solomon 3:1–5
+
+The Song's first night scene. *"By night"* renders the plural *ballêlôt*, *in the nights* (Sefaria,
+*Miqra according to the Masorah*), which may mean night after night. Darkness here is not moral, as it
+is in Proverbs 2:13 and 4:19; it is the time of absence and searching. The unit before it ended with the
+day cooling and the shadows fleeing (2:17). The second night search, at 5:2–8, is darker in outcome.
+
+See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Seeking Him by Night]] — Song of Solomon 3:1–5; a search at night, without moral darkness.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Sweet light set beside darkness and declining
   sight.

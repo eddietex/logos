@@ -18852,3 +18852,51 @@ where it is made. The three-occurrence count for *təšûqâ* is stated on the n
 observation not checked by a full concordance search. `scripts/link-check.sh` passed with no
 wrapped or unexpected dangling links and 60 expected unstarted-book targets; `git diff --check`
 passed. No deliberately dangling target remains.
+
+## [2026-10-28] ingest | Song of Solomon 3.1-5 — Seeking Him by Night
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 3:1–5 as planned. No boundary was
+redrawn: 3:1 opens at night on her bed, and 3:6 begins Solomon's procession; Sefaria's Masoretic
+section marks fall after 2:17 and 3:5. The raw text was already stored, and no raw file,
+controller file, or workflow instruction was changed. The discussion is written into the passage
+summary and notes.
+
+**Interpretive decisions.** The whole unit is the woman's speech (third-person masculine suffixes on
+*biqqaštîw*, *mǝṣāʾtîw*, *ʾăḥaztîw*). *Ballêlôt* is recorded as a plural, *in the nights*, without
+deciding between *night after night* and plain *at night*. The dream reading is reported and not
+adopted. The shared *s-b-b* of her going about and the watchmen's (3:2–3) is noted, and its echo of
+*sōḇ* (2:17) is not claimed as intended. The unnamed city is not identified with Jerusalem. The
+refrain of 3:5 is recorded as identical to 2:7 in the Hebrew, with 8:4's *mah* form and 5:8's
+different request noted. The *mother's house* is set beside Genesis 24:28, 67 and Ruth 1:8 with its
+meaning left open; the four-occurrence list for *bêt ʾēm* and the four-occurrence count for *šûq*
+are stated on the pages as standard observations not verified by a full concordance search. The
+watchmen and her mother get no page; the watchmen are to be reconsidered at 5:2–8, when they act
+again. No seeking/searching theme was created; Light and Darkness and City and Civilization take
+the unit as existing themes.
+
+**Created (4 content pages):** [[Seeking Him by Night]],
+[[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]],
+[[Seeking in the Streets and Squares - Song of Solomon 3.1-4 and Proverbs 1, 7, and 8]],
+[[Into My Mother's House - Song of Solomon 3.4, 8.2, Genesis 24, and Ruth 1.8]].
+
+**Revised (11 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); The Woman, The Man, and The Daughters of Jerusalem; [[Jerusalem]]; four themes
+(Love, Oaths and Vows, City and Civilization, Light and Darkness); two connections (The Betrothal
+at the Well, Two Voices in the Street).
+
+**Indexes and totals.** Eleven indexes were revised: books (5 / 16), main dashboard, places, themes,
+People A-E, F-M and N-Z, Connections A-C, I-N, O-S and T-Z. Totals by frontmatter type:
+216 passages, 190 people, 95 places, 85 themes, 524 connections; 6 books started, 5 complete. With
+this log, 27 wiki files are created or revised: 4 new content pages, 11 revised content pages,
+11 indexes, and the log.
+
+**Sources and validation.** Song 3:1–5 was copied mechanically from the stored WEB. These were read
+in the stored WEB: Song 1:7; 2:5, 7, 17; 5:2–8; 8:2, 4, 5; Proverbs 1:20, 28; 7:8–15, 19, 27; 8:17;
+Ecclesiastes 12:4–5; Genesis 24:23, 28, 67. Ruth 1:8–9 was checked as a single-reference lookup at
+bible-api.com (`translation=web`); Ruth was not fetched. Hebrew of Song 1:7; 2:7, 17; 3:1–5;
+5:6–8; 8:2–5; Proverbs 1:20, 28; 7:8, 12, 15, 27; 8:17; Ecclesiastes 12:4–5; Genesis 24:23, 28, 67;
+and Ruth 1:8 was read from Sefaria's *Miqra according to the Masorah*; every source-language
+statement names that edition where it is made. `scripts/link-check.sh` passed with no wrapped or
+unexpected dangling links and 60 expected unstarted-book targets; `git diff --check` passed. No
+deliberately dangling target remains.

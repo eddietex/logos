@@ -22,8 +22,11 @@ identify Salem with Jerusalem, so the two textual occurrences are not collapsed.
 In [[Dark and Lovely]] the city's name first appears in the Song of Solomon, in the address
 *"you daughters of Jerusalem"* (Song of Solomon 1:5). Its women are the Song's audience
 ([[The Daughters of Jerusalem]]). The unit does not set any scene in the city itself.
+The address recurs in the refrain of 2:7, and again word for word in [[Seeking Him by Night]] (3:5).
+That unit's search runs through *"the city"* (3:2–3), which is not named; the wiki does not identify
+it with Jerusalem on the strength of the address.
 
-Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5, and Genesis 14:18; the earlier identification discussion
+Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5; 2:7; 3:1–5, and Genesis 14:18; the earlier identification discussion
 and its sources remain on [[Salem]].
 
 ## Appears in
@@ -32,6 +35,7 @@ and its sources remain on [[Salem]].
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12, 16; seat of the kingship and measure of the Preacher's wisdom.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:7, 9; measure of the Preacher's possessions and greatness.
 - [[Dark and Lovely]] — Song of Solomon 1:5; named in the address *"daughters of Jerusalem"*.
+- [[Seeking Him by Night]] — Song of Solomon 3:5; named in the refrain's address, not as the unnamed city of 3:2–3.
 
 ## Related places
 

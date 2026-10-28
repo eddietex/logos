@@ -26,6 +26,9 @@ tags: [connection]
   [[The Lamp of the Commandment]].
 - **Proverbs 9:1–6, 13–18** — Wisdom's feast and the foolish woman's, each calling from *"the high
   places of the city"* with the same words to the same guest — [[The Two Feasts]].
+- Compare **Song of Solomon 3:1–4** — a third woman in the streets and squares, seeking the man she
+  loves, with no warning attached — [[Seeking Him by Night]]; see
+  [[Seeking in the Streets and Squares - Song of Solomon 3.1-4 and Proverbs 1, 7, and 8]].
 
 ## Analysis
 

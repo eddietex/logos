@@ -53,6 +53,17 @@ him back or sends him off is left open. In this unit, as in 2:7, the woman's las
 terms. Source: stored WEB Song of Solomon 2:8–17; feminine and masculine forms read from Sefaria's
 *Miqra according to the Masorah*.
 
+In [[Seeking Him by Night]] she is the only voice, and every verb is hers. At night on her bed she
+seeks *"him whom my soul loves"* and does not find him (3:1). She gets up and goes about the city,
+through its streets and squares, and does not find him (3:2). The watchmen find her, and she asks
+them whether they have seen him (3:3). Then she finds him, holds him, and *"would not let him go"*
+until she has brought him into her mother's house, *"into the room of her who conceived me"* (3:4).
+This is the first mention of her mother as a person rather than as the mother of her brothers (1:6).
+She closes, as at 2:7, by adjuring the daughters of Jerusalem in the same words (3:5). In 2:8–17 he
+came looking for her; here she goes looking for him, at night and in public. Whether the search is a
+dream is not said. Source: stored WEB Song of Solomon 3:1–5; Hebrew read from Sefaria's *Miqra
+according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -63,6 +74,8 @@ terms. Source: stored WEB Song of Solomon 2:8–17; feminine and masculine forms
   the first adjuration on the daughters of Jerusalem.
 - Song of Solomon 2:8–17 — hears him coming, reports his spring invitation, is called his dove,
   says *"My beloved is mine, and I am his"*, and sends him to the mountains of Bether.
+- Song of Solomon 3:1–5 — seeks him at night through the city, asks the watchmen, finds him and
+  brings him to her mother's house, and adjures the daughters a second time.
 
 ## Appears in
 
@@ -70,6 +83,7 @@ terms. Source: stored WEB Song of Solomon 2:8–17; feminine and masculine forms
 - [[Dark and Lovely]] — Song of Solomon 1:5–8.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
 - [[Rise Up, My Love]] — Song of Solomon 2:8–17.
+- [[Seeking Him by Night]] — Song of Solomon 3:1–5.
 
 ## Related people
 
@@ -79,6 +93,8 @@ terms. Source: stored WEB Song of Solomon 2:8–17; feminine and masculine forms
 - [[The Daughters of Jerusalem]] — the audience she addresses (1:5) and adjures (2:7).
 - Her mother's sons — her brothers, angry with her and her taskmasters in the vineyards
   (1:6); unnamed and without a page.
+- Her mother — the owner of the house she brings him into, *"her who conceived me"* (3:4); no page.
+- The watchmen — they find her in the city at night (3:3); no page yet.
 
 ## Themes associated
 
@@ -90,5 +106,10 @@ terms. Source: stored WEB Song of Solomon 2:8–17; feminine and masculine forms
   said to her (2:14).
 - [[Brotherhood]] — under her brothers' anger (1:6).
 - [[Work]] — keeper of vineyards and grazer of young goats (1:6, 8).
-- [[Oaths and Vows]] — *"I adjure you"* (2:7).
+- [[Oaths and Vows]] — *"I adjure you"* (2:7; 3:5).
+- [[City and Civilization]] and [[Light and Darkness]] — the search through the city at night (3:1–3).
+- [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] — her first search, and its darker
+  repeat.
+- [[Into My Mother's House - Song of Solomon 3.4, 8.2, Genesis 24, and Ruth 1.8]] — where she brings
+  him (3:4).
 - [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] — her belonging formula (2:16).

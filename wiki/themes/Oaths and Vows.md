@@ -186,11 +186,24 @@ The Song's first oath is laid by a woman on a group of women. *"I adjure you"* r
 Jerusalem are bound *"by the roes, or by the hinds of the field"*, not by God's name. Hearing a
 play on divine titles in those animal words is an interpretation the wiki records but does not
 adopt. The oath protects love's timing: they are not to stir it up *"until it so desires"*. It
-returns at 3:5 and 8:4 (stored WEB, not yet ingested).
+returns at 3:5 ([[Seeking Him by Night]]) and 8:4 (stored WEB, not yet ingested).
 
 See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
 
+### I adjure you, again — Song of Solomon 3:5
+
+The second adjuration repeats 2:7 exactly, in the WEB and letter for letter in the Hebrew (Sefaria,
+*Miqra according to the Masorah*). Again the daughters of Jerusalem are bound by the roes and the
+hinds, and again the oath follows a scene of the lovers together — here, the woman holding the man
+she has just found. The third form, at 8:4, drops the animals and turns *that you not* into *why
+would you* (Sefaria; stored WEB, not yet ingested); 5:8 uses the same *I adjure you* for a
+different request.
+
+See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Seeking Him by Night]] — Song of Solomon 3:5; the refrain of 2:7 repeated word for word.
 
 - [[Delight and the Unawakened Love]] — Song of Solomon 2:7; the daughters of Jerusalem put under oath by the roes and the hinds.
 
@@ -369,7 +382,7 @@ See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9�
 
 ## Related people
 
-- [[The Woman (Song of Solomon)]] and [[The Daughters of Jerusalem]] — the woman puts the daughters under oath not to awaken love (Song of Solomon 2:7).
+- [[The Woman (Song of Solomon)]] and [[The Daughters of Jerusalem]] — the woman puts the daughters under oath not to awaken love (Song of Solomon 2:7; 3:5).
 
 - [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 

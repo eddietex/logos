@@ -332,7 +332,21 @@ refrain of 2:7 is not stated, and the wiki does not join the two units into a st
 
 See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17; comparison sources are identified on the passage page.
 
+### Him whom my soul loves — Song of Solomon 3:1–5
+
+At night, on her bed, she seeks *"him whom my soul loves"* and does not find him; she goes through
+the city's streets and squares, asks the watchmen, and then finds him, holds him, and *"would not
+let him go"* until she has brought him into her mother's house (3:1–4). The phrase *him whom my
+soul loves* (*ʾēt šeʾāhăḇâ napšî*, Sefaria, *Miqra according to the Masorah*) is said four times
+and takes the place of any name. Love in this unit is the woman's search, and it ends in holding
+on. The refrain of 2:7 follows word for word (3:5). The second night search, at 5:2–8, ends
+without finding; see [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]].
+
+See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Seeking Him by Night]] — Song of Solomon 3:1–5; *"him whom my soul loves"*, sought, found, and held.
 
 - [[Rise Up, My Love]] — Song of Solomon 2:8–17; the spring invitation and *"My beloved is mine, and I am his"*.
 

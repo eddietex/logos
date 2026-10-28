@@ -16,6 +16,9 @@ tags: [connection]
 - Compare **Song of Solomon 1:7–8** — [[Dark and Lovely]]: a woman among the flocks who seeks the
   shepherd herself; see
   [[Women Among the Flocks - Rachel, Reuel's Daughters, and Song of Solomon 1.7-8]]
+- Compare **Song of Solomon 3:4** — [[Seeking Him by Night]]: the *mother's house* again, where the
+  woman brings the man; see
+  [[Into My Mother's House - Song of Solomon 3.4, 8.2, Genesis 24, and Ruth 1.8]]
 - Compare **Ruth 2:8–9** — the elements redistributed: the water is already drawn, and the man offers
   it to the woman
 

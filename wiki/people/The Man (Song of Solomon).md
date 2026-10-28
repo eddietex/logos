@@ -46,6 +46,12 @@ dove"* and asks to see her face and hear her voice (2:14) is his by the feminine
 shepherd image of 1:7, and sends him to the mountains of Bether (2:17). No king appears in this unit.
 Source: stored WEB Song of Solomon 2:8–17.
 
+In [[Seeking Him by Night]] he does not speak and is not described. He is only *"him whom my soul
+loves"*, four times (3:1–4), the phrase she first used of him at 1:7. He is absent from her bed,
+sought through the city, asked about, and then found, held, and brought into her mother's house.
+Every verb that touches him is hers. Where he was is not said. Source: stored WEB Song of Solomon
+3:1–5.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -56,6 +62,8 @@ Source: stored WEB Song of Solomon 2:8–17.
   embraces her.
 - Song of Solomon 2:8–17 — comes over the hills, looks through the lattice, calls her out in
   spring, and is told to turn and be like a roe on the mountains of Bether.
+- Song of Solomon 3:1–4 — absent at night, sought through the city, found, held, and brought
+  into her mother's house; silent throughout.
 
 ## Appears in
 
@@ -63,6 +71,7 @@ Source: stored WEB Song of Solomon 2:8–17.
 - [[Dark and Lovely]] — Song of Solomon 1:7–8.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
 - [[Rise Up, My Love]] — Song of Solomon 2:8–17.
+- [[Seeking Him by Night]] — Song of Solomon 3:1–4.
 
 ## Related people
 
@@ -73,7 +82,7 @@ Source: stored WEB Song of Solomon 2:8–17.
 
 ## Themes associated
 
-- [[Love]] — desire and praise of the beloved.
+- [[Love]] — desire and praise of the beloved; *"him whom my soul loves"* (1:7; 3:1–4).
 - [[Joy and Enjoyment]] — love valued above wine.
 - [[Names and Naming]] — the beloved's name compared to poured oil.
 - [[Praise and Song]] — affirmation of love in the opening song.
