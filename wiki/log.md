@@ -18387,7 +18387,7 @@ identified. 2 Samuel 20's wise woman of Abel is referenced by paraphrase only, w
 approximate verse range, because 2 Samuel is not stored. God is not named in the unit, and
 that silence is retained.
 
-**Correction to existing pages.** Four earlier pages quoted 9:15 as *"yet no one remembered
+**Correction to existing pages.** Three earlier pages quoted 9:15 four times as *"yet no one remembered
 that same poor man"*; the stored WEB reads *"no man"*. Corrected in
 [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]] (twice),
 [[The Cupbearer and the Baker]], and [[Remembrance]]. Those pages also called 9:15 a
