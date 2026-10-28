@@ -90,6 +90,10 @@ No named location. The *city* of 7:19 is unnamed. No place page is created.
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:12–14 brings assurance and reversed outcomes together, extending
+  7:15; 8:17 also returns to the limit on wisdom in 7:23–24.
+
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1, 5 commends wisdom again after 7:23–24; the safety of 8:5 remains beside 7:15's righteous sufferer.
 
 - [[The House of Mourning]] — 7:14 ended on what man cannot find out; 7:23–29 repeats the

@@ -2343,6 +2343,15 @@ court setting, but its wording and occasion are not supplied. This does not iden
 God with the king or certify the harmful dominion of 8:9 as just. Source: stored WEB
 Ecclesiastes 8:1–9.
 
+### The wicked buried and the work beyond finding — Ecclesiastes 8:10–17
+
+The Preacher affirms good for those who fear God (12–13), then describes outcomes
+contrary to people's works (14). God gives life's days (15), while his work remains beyond
+human comprehension (17). **Explicit tension:** assurance and observation coexist; no
+reason for an individual's misfortune or timing of final recompense is supplied.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17.
+
 ## Timeline / key events
 
 - Ecclesiastes 7:18–29 — [[Righteousness and Wisdom Under Question]]; to be feared; pleased by the one who escapes; made man upright.
@@ -2628,6 +2637,8 @@ Ecclesiastes 8:1–9.
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:2; named in the oath behind the instruction to obey the king.
 

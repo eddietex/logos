@@ -338,7 +338,19 @@ real and named, yet neither secures an outcome (15) nor amounts to sinlessness (
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Outcomes reversed — Ecclesiastes 8:10–17
+
+Righteous people receive what corresponds to the work of the wicked, and wicked
+people receive what corresponds to the work of the righteous (14). Moral distinctions
+remain, while circumstances fail to reflect them. This extends 7:15 and explicitly
+resists diagnosing character from suffering or success.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; outcomes reversed.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–20; the righteous who perish, the overly righteous, and none without sin.
 

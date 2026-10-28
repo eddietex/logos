@@ -87,6 +87,10 @@ gathering, not identified sites. No place page is created.
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:15 commends mirth beside 7:2–4's preference for mourning; the
+  distinct evaluations remain visible without an asserted harmonizing formula.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks who knows what is good and what comes
   after a person; 7:1–14 answers the first question with comparisons and repeats the second
   limit at 7:14.

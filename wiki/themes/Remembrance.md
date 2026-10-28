@@ -287,7 +287,19 @@ unsatisfied long-lived man (5), so remembered achievement is not the deciding go
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Forgotten in the city — Ecclesiastes 8:10–17
+
+The stored WEB describes the wicked as forgotten in the city where they acted (10).
+The passage therefore continues the problem of human memory without promising an
+enduring reputation. Burial and forgetting coexist; the text used here does not say
+that these people were praised. No assertion about a Hebrew variant is made.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; forgotten in the city.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; a name covered with darkness.
 

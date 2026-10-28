@@ -725,7 +725,20 @@ the text states explicitly. The king's authority and the harm it can cause set t
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### The wise cannot find it out — Ecclesiastes 8:10–17
+
+The Preacher applies his heart to know wisdom (16), then denies that even the wise
+person who thinks he can comprehend God's work can find it out (17). **Tension:** this
+limit follows wisdom's practical value in 8:1, 5. The object here is the work done under
+the sun, not a declaration that every particular judgment or skill is impossible.
+See [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]].
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; the wise cannot find it out.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; a changed face and fitting conduct without knowledge of the future.
 

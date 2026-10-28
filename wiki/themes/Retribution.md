@@ -550,7 +550,20 @@ which each person's circumstances can be read as a verdict on character.
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### Affirmed justice and reversed outcomes — Ecclesiastes 8:10–17
+
+**Explicit tension:** the sinner lives long (12), yet the wicked will not lengthen
+days (13); those who fear God will fare better (12), yet righteous and wicked receive
+one another's apparent outcomes (14). Reading 12–13 as ultimate justice is possible,
+but the unit gives no timetable or explicit afterlife setting. Neither affirmation
+nor observation is withdrawn. See [[The Prosperity of the Wicked]].
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; affirmed justice and reversed outcomes.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; safety and failed wickedness beside observed misery and harmful rule.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
@@ -23,7 +25,7 @@ tags: [connection]
 - [[A Way That Seems Right]] — Proverbs 14:13.
 - [[The King's Heart]] — Proverbs 21:17.
 - [[Wine Is a Mocker]] — Proverbs 20:1.
-- Ecclesiastes 7:4; 8:15 *(not yet ingested)*.
+- [[The House of Mourning]] — Ecclesiastes 7:4.
 
 ## Analysis
 
@@ -119,6 +121,22 @@ in 4:8 and supplies no stated sin as explanation. The enjoyed gift of 5:19 and i
 in 6:2 remain separate cases, both attributed to God. See
 [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]].
 Source: stored WEB Ecclesiastes 4:8; 5:18–20; 6:1–9.
+
+### Mirth after reversed outcomes — Ecclesiastes 8:14–17
+
+The commendation anticipated above now has its passage page. After reporting righteous
+and wicked people receiving outcomes at odds with their conduct (14), the Preacher
+commends mirth, eating, drinking, and joy as a companion in labor during God's given
+days (15). The inability to find out God's work follows (16–17). Enjoyment thus occurs
+inside the unresolved inquiry, without repairing injustice or making the whole knowable.
+
+**Explicit tension:** mirth judged vanity in 2:1–2, the house of mourning preferred in
+7:2–4, and mirth commended in 8:15 all remain. Distinguishing enjoyment received in life
+from pleasure pursued as lasting profit is a plausible reading, not an explicit formula
+that cancels the different verdicts. Sources: stored WEB Ecclesiastes 2:1–11; 7:1–4;
+8:10–17. No Hebrew lexical identity is asserted.
+
+See [[The Wicked Buried and the Work Beyond Finding]].
 
 ## Significance
 

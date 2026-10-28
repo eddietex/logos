@@ -111,12 +111,18 @@ person controls the day of death (8), and human dominion can cause harm (9). Kno
 time and procedure (5) stands beside not knowing what will be (7); protection for keeping
 the commandment stands beside heavy misery and harmful rule.
 
+[[The Wicked Buried and the Work Beyond Finding]] (8:10–17) holds the assurance of good for
+those who fear God beside long-lived crime and reversed outcomes. Delayed sentence
+encourages evil (11); joy is commended as company in labor (15); even the wise cannot
+find out God's work (17). The stored WEB describes the wicked as buried and forgotten
+(10), which governs the passage title. No reconciliation of the competing outcomes is given.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–8:9 currently has ingested passage pages.
+only 1:1–8:17 currently has ingested passage pages.
 
 ## Structure
 
@@ -152,7 +158,7 @@ merge, or reorder them freely.
 - [x] [[The House of Mourning]] — Ecclesiastes 7:1–14
 - [x] [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29
 - [x] [[The King and the Limits of Power]] — Ecclesiastes 8:1–9
-- [ ] The Wicked Honored and the Work Beyond Finding — Ecclesiastes 8:10–17
+- [x] [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17
 - [ ] One Event Comes to All — Ecclesiastes 9:1–12
 - [ ] The Forgotten Wise Man — Ecclesiastes 9:13–10:4
 - [ ] Folly in High Places and Everyday Work — Ecclesiastes 10:5–20
@@ -161,6 +167,10 @@ merge, or reorder them freely.
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Judgment]], [[Retribution]], and [[The Fear of God]] — delayed sentence, assured good,
+  and reversed outcomes (8:10–14), beside [[Joy and Enjoyment]] and the limit of [[Wisdom]]
+  in 8:15–17. See [[The Wicked Buried and the Work Beyond Finding]].
 
 - [[Kingship and Empire]], [[Oaths and Vows]], and [[Law and Obedience]] — the royal command
   and the oath to God (8:2–5), held beside harmful dominion (8:9).

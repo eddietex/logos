@@ -289,6 +289,10 @@ a valley floor where a burial could actually be dug. No named place.
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Job 21:7–16, 32–33 and Ecclesiastes 8:10–14 compare long-lived wickedness and burial;
+  the WEB of Ecclesiastes adds forgetting. See [[The Prosperity of the Wicked]].
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:6's long life without good also ends at the common destination;
   compare Job 21:23–26's lives of ease and bitterness in
   [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].

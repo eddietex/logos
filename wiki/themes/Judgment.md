@@ -457,7 +457,19 @@ official in 5:8. Administrative supervision must not be treated as fulfilled jus
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Sentence delayed — Ecclesiastes 8:10–17
+
+Delayed execution of sentence emboldens evil (11). The verse does not identify the
+court or judge, although it follows the discussion of kings in 8:1–9. **Explicit tension:**
+the assurance of good for those who fear God (12–13) stands beside reversed outcomes (14).
+No date or afterlife setting is supplied to reconcile them.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; sentence delayed.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; justice violently taken away without narrated redress.
 

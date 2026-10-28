@@ -96,6 +96,10 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:15–17 again places enjoyment beside the inability to find out God's
+  work, extending 3:11–14 without making the whole intelligible.
+
 - [[The King and the Limits of Power]] — Ecclesiastes 8:5–7 returns to fitting times and limited knowledge; see [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]].
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks who knows what is good. This stands in tension

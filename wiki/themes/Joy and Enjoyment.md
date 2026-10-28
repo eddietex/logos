@@ -133,7 +133,20 @@ interpretation; the text sets them together without reconciling them.
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Mirth beside injustice — Ecclesiastes 8:10–17
+
+After observing reversed outcomes (14), the Preacher commends eating, drinking, and
+joy as company in labor throughout the days God gives (15). **Explicit tension:** this
+stands beside mirth judged vanity in 2:1–2 and mourning preferred in 7:2–4. Enjoyment
+as present good rather than an explanation of the whole is a contextual reading,
+not a formula that the passage states to dissolve these tensions.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; mirth beside injustice.
 
 - [[The House of Mourning]] — Ecclesiastes 7:2–6, 14; sorrow above laughter, yet joy commanded in prosperity.
 

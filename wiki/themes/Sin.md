@@ -337,7 +337,19 @@ never enjoy temporary power or a long life; 7:15's observation remains visible.
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### Delay encourages evil — Ecclesiastes 8:10–17
+
+The failure to execute sentence speedily is given as a reason people become intent
+on evil (11). A sinner repeats crimes and lives long (12); longevity is therefore no
+proof of innocence. Verse 14 explicitly distinguishes conduct from outcomes rather
+than allowing observed misfortune to identify someone as wicked.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; delay encourages evil.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; evil persistence warned against; wickedness unable to deliver.
 

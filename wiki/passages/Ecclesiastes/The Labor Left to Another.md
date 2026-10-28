@@ -84,6 +84,10 @@ geographical location.
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:15–17 again puts enjoyment in labor beside restlessness and a limit
+  that effort cannot overcome; 8:16 does not identify its sleepless figure.
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:2's alien consumes another man's God-given wealth, but neither
   party receives the moral classification of 2:26. The alien cannot simply be identified as
   righteous or the owner as sinful; see

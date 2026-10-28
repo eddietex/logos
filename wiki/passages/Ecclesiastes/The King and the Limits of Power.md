@@ -84,6 +84,10 @@ another location is supplied in this unit. No place page is created.
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:10–17 continues with delayed sentence, reversed outcomes, joy, and
+  unsearchable work. Verse 11 does not explicitly identify its judge as the preceding king.
+
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15, 19, 23–24; wisdom is both strong
   and elusive, and the righteous are not uniformly protected from harm.
 - [[The Youth and the Old King]] — Ecclesiastes 4:13–16; office does not guarantee wisdom.

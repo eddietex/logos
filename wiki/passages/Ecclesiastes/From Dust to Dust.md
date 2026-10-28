@@ -78,6 +78,10 @@ and dust do not identify a new geographical location. Sheol is not named in this
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:12–14 places affirmed justice beside reversed outcomes, continuing
+  3:16–17's distinction between observation and the judgment the speaker affirms.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 repeats the concern with what follows a person
 under the sun. Here 3:22 commends enjoyment alongside that limit; there the unit closes with
 unanswered questions.

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
+
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15.
 
 - [[Where There Is No Vision]] — Proverbs 29:2, 6, 10, 14, 16, 25.
@@ -245,6 +247,25 @@ wicked (3:17), and 8:12–14 will set the affirmation and the observation side b
 Neither is withdrawn.
 
 Sources: stored WEB Ecclesiastes 3:17; 7:15–18; 8:12–14; Job 21:7. No source-language claim.
+
+### Assurance and counter-observation — Ecclesiastes 8:10–17
+
+The new unit places the disagreement within one speaker's account. Delayed execution
+of sentence encourages wrongdoing (11); a sinner can offend repeatedly and live long
+(12). The Preacher nevertheless affirms good for those who fear God and denies it to
+the wicked (12–13), then observes the two groups receiving outcomes corresponding to
+the other's works (14). **Explicit tension:** neither the assurance nor the observation
+is retracted, and no timetable or afterlife setting resolves them here.
+
+Job 21:7–16 likewise describes long-lived wickedness without endorsing it. Its watched
+tomb (32–33) and Ecclesiastes 8:10's burial both prevent treating burial itself as proof
+of righteousness; they differ on remembrance, since the stored WEB of Ecclesiastes
+explicitly says the wicked were forgotten. The earlier provisional title's honored
+language is not used to harmonize the two. Ecclesiastes proceeds to present enjoyment
+(15) and inability to find out God's work (17), rather than supplying the missing
+explanation. Sources: stored WEB Job 21:7–16, 32–33; Ecclesiastes 7:15; 8:10–17.
+
+See [[The Wicked Buried and the Work Beyond Finding]].
 
 ## Significance
 

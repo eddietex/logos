@@ -100,6 +100,10 @@ The *"provinces"* (8) are unnamed and get no page.
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:15 commends mirth after reversed outcomes (14). The tension with
+  2:1–2 is explicit in the new passage and the existing mirth connection.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 returns to the inquiry of 2:3 about good throughout
 life, now as an unanswered question.
 

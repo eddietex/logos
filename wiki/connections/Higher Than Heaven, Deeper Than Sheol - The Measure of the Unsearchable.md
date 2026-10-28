@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
+
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:23–24.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15.
@@ -128,6 +130,23 @@ English parallels are thematic; no Hebrew identity of vocabulary with Job is cla
 
 See [[Righteousness and Wisdom Under Question]]. Sources: stored WEB Ecclesiastes 3:11; 7:23–29;
 Job 11:7–9; 28:12, 20–21.
+
+### Even the wise cannot find it — Ecclesiastes 8:16–17
+
+The Preacher applies himself to wisdom and the activity of the earth, with an image
+of sleeplessness (16), but concludes that no amount of searching discovers God's work
+(17). Even the wise person's conviction that he can comprehend it is denied. This
+extends 3:11's whole work beyond human finding and 7:23–24's wisdom beyond reach.
+
+Job 28:12–28 distinguishes the wisdom humans cannot locate from God's knowledge of its
+way and place, then gives fear of the Lord and departure from evil as human wisdom.
+Ecclesiastes 8:12–17 likewise retains fear and a practical commendation of enjoyment
+beside limited comprehension. This is a thematic parallel, not a claim of identical
+Hebrew vocabulary or literary borrowing. Neither text licenses inferring a particular
+sufferer's guilt from what the observer does not know. Sources: stored WEB Job 28:12–28;
+Ecclesiastes 3:11–14; 7:23–24; 8:10–17.
+
+See [[The Wicked Buried and the Work Beyond Finding]].
 
 ## Significance
 

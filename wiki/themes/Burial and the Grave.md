@@ -105,7 +105,18 @@ child's relative rest is not a detailed account of the afterlife.
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### The wicked buried — Ecclesiastes 8:10–17
+
+The burial of the wicked is observed (10); no named grave, mourner, or burial rite is
+supplied. Unlike the unburied man of 6:3, these wicked people receive burial. This does
+not establish their righteousness or demonstrate a compensating punishment after death.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; the wicked buried.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; no burial despite many children and years.
 

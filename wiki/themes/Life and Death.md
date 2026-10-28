@@ -536,7 +536,19 @@ prevent its possessor's death. See [[No Power over the Day of Death - Job 14 and
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### Long life and the wicked — Ecclesiastes 8:10–17
+
+Burial (10), the sinner's long life (12), and denial that the wicked will lengthen
+days like a shadow (13) keep mortality beside moral evaluation. **Explicit tension:**
+12 and 13 do not give a single rule from which a person's lifespan can be predicted.
+The days of life are nevertheless God's gift and the setting of commended joy (15).
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; long life and the wicked.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; no person, including the ruler, controls the day of death.
 

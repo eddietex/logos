@@ -496,7 +496,19 @@ by the worker in 4:8 is not an adequate explanation of every case.
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Enjoyed labor and unsuccessful inquiry — Ecclesiastes 8:10–17
+
+Joy accompanies labor in the life God gives (15), but strenuous inquiry, even with
+sleeplessness, cannot discover the whole work of God (16–17). The WEB uses work and
+labor in both practical life and the search for understanding; no shared Hebrew
+vocabulary is asserted. Failure to comprehend does not cancel enjoyment in labor.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; enjoyed labor and unsuccessful inquiry.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; labor feeds the mouth without filling appetite.
 

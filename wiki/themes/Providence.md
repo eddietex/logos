@@ -328,7 +328,19 @@ remain beside the lack of foreknowledge in 8:7.
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### God gives days without disclosing the whole — Ecclesiastes 8:10–17
+
+God gives the days in which joy may accompany labor (15), but his work cannot be
+fully found out by human searching (17). The preceding reversal of outcomes (14) is
+not supplied with a hidden cause or justification. This extends 3:11's limit: divine
+work is affirmed without claiming access to the reason for every event.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; God gives days without disclosing the whole.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; times and procedures coexist with human ignorance of outcomes.
 

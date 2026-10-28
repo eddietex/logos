@@ -142,7 +142,19 @@ a vain life.
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Burial, forgetting, and reversed outcomes — Ecclesiastes 8:10–17
+
+The vanity verdict follows the wicked's burial and forgetting (10), then falls on
+righteous and wicked receiving outcomes at odds with their works (14). It marks
+disorder in visible recompense as well as the frailty of memory. The commendation
+of joy (15) remains, so the verdict does not erase every available good.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; burial, forgetting, and reversed outcomes.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15; the Preacher's own days of vanity.
 

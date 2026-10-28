@@ -237,7 +237,20 @@ One; Agur’s confession keeps that knowledge from becoming a boast of personal 
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The wicked and holiness in the WEB — Ecclesiastes 8:10–17
+
+The stored WEB says of the wicked, “Indeed they came also from holiness” (10). The
+phrase does not name a sanctuary or explain their religious conduct. It therefore
+cannot establish that these people were morally holy, identify a temple, or describe
+a particular ceremony. The page preserves the translation's difficult wording
+without claiming a verified source-language explanation.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; the wicked and holiness in the WEB.
 
 - [[The Words of Agur]] — Proverbs 30:3, 9.
 

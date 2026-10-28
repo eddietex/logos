@@ -179,6 +179,10 @@ king over all the sons of pride"* (41:34).
 
 ## Cross-references
 
+- [[The Wicked Buried and the Work Beyond Finding]] —
+  Ecclesiastes 8:16–17 extends the distinction between human searching and divine
+  knowledge; fear remains affirmed in 8:12–13. The parallel is thematic.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:11–14 joins limited understanding with fear before
   God; see [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] .
 

@@ -18265,3 +18265,47 @@ claim about exact Hebrew or Greek wording was introduced. The Job 9:12 / Ecclesi
 `scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected baseline
 of 61 not-yet-started book pages. `git diff --check` passed. No unresolved issue or deliberately
 dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 8.10-17 — The Wicked Buried and the Work Beyond Finding
+
+Unattended `/ingest auto` by Codex (OpenAI); exactly one pericope. Retained the planned
+8:10–17 boundary and revised the provisional title from *The Wicked Honored and the Work
+Beyond Finding*: the stored WEB describes the wicked as buried and forgotten, not honored.
+No checked passage was renamed. The next unit, 9:1–12, remains unchecked. The discussion's
+substance is included in the passage page. No raw text or workflow instruction changed.
+
+**Interpretive decisions.** [[The Wicked Buried and the Work Beyond Finding]] preserves
+explicit tensions between long-lived crime and denied length of days (12–13), assured good
+for those who fear God and reversed outcomes (12–14), mirth commended and earlier negative
+verdicts (8:15 beside 2:1–2 and 7:2–4), and positive knowledge beside the inability to
+comprehend God's work (12, 15, 17). Neither a timetable nor an afterlife solution is inserted.
+The difficult WEB phrase about coming from holiness is retained without a Hebrew assertion,
+a named sanctuary, or a reconstructed ceremony. The sentencing judge and sleepless person
+are not identified. No named place or new individual occurs, so no new person, place, or
+theme page is required. Existing connections are extended rather than duplicated.
+
+**Created (1 content page):** [[The Wicked Buried and the Work Beyond Finding]].
+
+**Revised (29 content pages):** Ecclesiastes; God and The Preacher (Ecclesiastes);
+fourteen themes (Burial and the Grave, Remembrance, Judgment, Sin, The Fear of God,
+Righteousness, Retribution, Joy and Enjoyment, Work, Wisdom, Providence, Vanity,
+Life and Death, Holiness); three connections (The Prosperity of the Wicked; Mirth and
+Its Verdict; Higher Than Heaven, Deeper Than Sheol); nine reciprocal passages (Why Do
+the Wicked Live, Where Shall Wisdom Be Found, A Time for Every Purpose, The Trial of
+Pleasure, The House of Mourning, Righteousness and Wisdom Under Question, The King and
+the Limits of Power, The Labor Left to Another, From Dust to Dust).
+
+**Indexes and totals.** Revised eight indexes: books (18 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, and Connections D-H, I-N, and O-S. Totals by frontmatter type:
+205 passages, 187 people, 91 places, 85 themes, 505 connections. This log update is in
+addition to the content and index counts: 1 new and 38 revised wiki files overall.
+
+**Sources and validation.** All eight quoted verses were copied directly from immutable
+stored WEB Ecclesiastes 8:10–17 and mechanically compared with it. Comparisons checked in
+stored WEB: Ecclesiastes 2:1–11, 23–26; 3:11–17; 7:1–4, 15, 23–24; 8:1–9; Job 21:7–16,
+32–33; 28:12–28. No new quotation from an unstored book or exact Hebrew/Greek claim was
+introduced. Connections are thematic comparisons, not claims of literary borrowing.
+`scripts/link-check.sh` passed with no wrapped or unexpected dangling links; the expected
+baseline remains 61 unstarted-book pages. `git diff --check` passed. No unresolved operational
+issue or deliberately dangling target remains; interpretive uncertainties stay explicit
+on the affected pages.

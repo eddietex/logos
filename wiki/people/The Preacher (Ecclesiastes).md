@@ -118,6 +118,16 @@ death, and reports harmful dominion (8–9). This is counsel and observation, no
 that the unnamed king is himself. The safety affirmed in 8:5 remains beside the misery
 and hurt of 8:6, 9. Source: stored WEB Ecclesiastes 8:1–9.
 
+### The wicked buried and the work beyond finding — Ecclesiastes 8:10–17
+
+He observes the wicked buried and forgotten (10), links delayed sentence to greater
+evil (11), and affirms good for those who fear God despite long-lived crime (12–13).
+He then reports outcomes reversed (14), commends joy (15), and describes searching that
+cannot comprehend God's work (16–17). His positive claims are preserved beside his
+observations and admitted limit, without assigning them to different speakers.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17.
+
 ## Timeline / key events
 
 - Ecclesiastes 8:1–9 — [[The King and the Limits of Power]]; royal command, wise timing, and limits on human power.
@@ -157,6 +167,8 @@ and hurt of 8:6, 9. Source: stored WEB Ecclesiastes 8:1–9.
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; teacher before the king and observer of harmful rule.
 
@@ -221,4 +233,4 @@ and hurt of 8:6, 9. Source: stored WEB Ecclesiastes 8:1–9.
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–8:9; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–8:17; Proverbs 1:1–7.

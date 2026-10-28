@@ -313,7 +313,19 @@ or the outcomes of 15 — and the wiki does not resolve it.
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Better with those who fear God — Ecclesiastes 8:10–17
+
+The Preacher affirms that it will be better with those who fear God and are reverent
+before him (12), while the wicked do not fear him (13). **Explicit tension:** the same
+unit reports prolonged criminal life (12) and outcomes reversed between righteous and
+wicked (14). Fear remains commended without an observable timetable of reward.
+
+See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
+comparisons are identified on the passage page.
+
 ## Key passages
+
+- [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; better with those who fear God.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:18; the one who fears God comes out of them all.
 
