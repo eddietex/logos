@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Song of Solomon 3:1–5** — [[Seeking Him by Night]]: on her bed at night she seeks him, goes
   about the city, is found by the watchmen, and finds him.
-- **Song of Solomon 5:2–8** *(stored WEB, not yet ingested)* — asleep with her heart awake, she
+- **Song of Solomon 5:2–8** — [[I Opened, but He Had Gone]]: asleep with her heart awake, she
   hears him knock, opens too late, seeks him, is found and beaten by the watchmen, and does not find
   him.
 
@@ -46,7 +46,29 @@ love*, the words she used of herself in 2:5.
 the first as the hope and the second as the experience. Some read both as dreams, because both begin
 in bed and the second explicitly with sleep. The wiki records the parallels and the differences. It
 does not claim the two scenes form one story in sequence, because the Song is not plainly a single
-narrative. Song 5:2–8 is not yet ingested; this page will be revised when it is.
+narrative.
+
+**What the second search adds.** Ingesting 5:2–8 shows three things the table does not. First, the
+second search has a cause, and the cause is hers: he knocked and asked to come in, and she answered
+with two questions about her robe and her washed feet (5:3). The first search had no stated cause.
+Second, the man is given a voice: *"Open to me, my sister, my love, my dove, my undefiled"* (5:2), the
+only words of his in either search. Third, the second search adds a line the first did not have,
+*qǝrāʾtîw wǝlōʾ ʿānānî*, *I called him and he did not answer me* (5:6; Sefaria). Its verbs are the
+ones of Wisdom's warning in Proverbs 1:28, *"Then will they call on me, but I will not answer"*; see
+[[Seeking in the Streets and Squares - Song of Solomon 3.1-4 and Proverbs 1, 7, and 8]].
+
+**The watchmen, twice.** The same men find her both times; see
+[[The Watchmen (Song of Solomon)]]. In 5:7 they *hikkûnî pǝṣāʿûnî*, *struck me, wounded me*, and
+*"the keepers of the walls"* take her cloak, *rǝḏîḏî* (Sefaria). She asked them a question the first
+time and says nothing the second.
+
+**Where each sits.** Each search follows a scene of the lovers together. The first follows the spring
+invitation and *"My beloved is mine, and I am his"* (2:8–17); the second follows the garden opened
+and entered (4:16–5:1). The first ends with the lovers together and the refrain; the second opens a
+longer movement that the Masoretic section marks run through to 6:3, where she says again *"My
+beloved is mine"* in reverse, *"I am my beloved's, and my beloved is mine"* (Sefaria marks no break
+from 5:2 to 6:3). The wiki divides that movement at 5:8; see the boundary note on
+[[I Opened, but He Had Gone]].
 
 ## Significance
 
@@ -56,5 +78,6 @@ the risk realized. Both are part of the Song's pattern of absence and presence: 
 and goes, is called and sent, is sought and found or not. See [[Love]] and
 [[The Woman (Song of Solomon)]].
 
-Sources: Song of Solomon 2:5; 3:1–5; 5:2–8 copied from the stored WEB. Hebrew of Song 3:1–5 and
-5:6–8 read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
+Sources: Song of Solomon 2:5, 8–17; 3:1–5; 4:16–5:8; 6:3 copied from the stored WEB; Proverbs 1:28
+from the stored WEB. Hebrew of Song 3:1–5; 5:2–6:3 and Proverbs 1:28 read from Sefaria's *Miqra
+according to the Masorah*, 2026-10-28.

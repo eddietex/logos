@@ -244,7 +244,23 @@ bodily losses as punishment for a particular sin.
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### Beaten in the city — Song of Solomon 5:7
+
+The first injury in the Song. Searching for the beloved at night, the woman is found by the watchmen:
+*"They beat me. They bruised me"* (5:7). The Hebrew is *hikkûnî pǝṣāʿûnî*, *they struck me, they
+wounded me*; *peṣaʿ* is the *wound* of Exodus 21:25 and of Lamech's boast at Genesis 4:23 (Sefaria).
+No reason is given, and the poem neither condemns the watchmen nor calls the beating deserved. It
+comes after her own delay has lost her the beloved (5:3–6), but the text does not present it as
+punishment for that delay. She does not lament it; she turns to the daughters and says she is faint
+with love (5:8).
+
+See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:7; beaten and wounded by the watchmen, for no
+  stated reason.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Declining capacities and pleasure without an
   assigned personal guilt.

@@ -144,7 +144,21 @@ where Proverbs puts Wisdom and the forbidden woman; see
 
 See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage and connection pages.
 
+### The keepers of the walls — Song of Solomon 5:7
+
+The same unnamed city, at night, the second time. The watchmen *"who go about the city"* find her in
+the same words as 3:3, and this time *"They beat me. They bruised me. The keepers of the walls took my
+cloak away from me"* (5:7). The city now has walls and men to keep them, *šōmǝrê haḥōmôt* (Sefaria),
+and its order falls on the woman who is out in it alone. The poem gives no reason and passes no
+judgment on the watchmen. See [[The Watchmen (Song of Solomon)]].
+
+See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:7; the watchmen beat her and the keepers of the
+  walls take her cloak.
 
 - [[Seeking Him by Night]] — Song of Solomon 3:1–5; streets, squares, and watchmen in a city at night.
 

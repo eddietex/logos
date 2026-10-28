@@ -58,7 +58,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
 | [[The Two Flights of Hagar]] | parallel | Genesis 16:1–16 · Genesis 21:8–21 · Genesis 25:12–18 |
 | [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
-| [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] | literary-parallel | [[Seeking Him by Night]] (Song of Solomon 3:1–5) · Song of Solomon 5:2–8 · [[Delight and the Unawakened Love]] (Song of Solomon 2:5) |
+| [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] | literary-parallel | [[Seeking Him by Night]] (Song of Solomon 3:1–5) · [[I Opened, but He Had Gone]] (Song of Solomon 5:2–8) · [[Delight and the Unawakened Love]] (Song of Solomon 2:5) · Proverbs 1:28 · Song of Solomon 6:3 |
 | [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] | literary parallel | Genesis 4:3–5 · Genesis 32:13–21 · Genesis 33:8–11 · Genesis 43:11–15, 25–26 · Genesis 45:23 |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
 | [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] | law-and-narrative | Genesis 29:23–30 · Genesis 30:1–24 · Leviticus 18:18 · Genesis 20:12 · Exodus 6:20 · Leviticus 18:14 · Leviticus 20:20 |

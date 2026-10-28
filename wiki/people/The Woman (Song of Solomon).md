@@ -91,6 +91,19 @@ Whether *my garden* is hers or his is not marked. *Sister* is affection, not kin
 wishes he were like her brother. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+In [[I Opened, but He Had Gone]] she is asleep, *"but my heart was awake"*, when he knocks and asks
+her to open (5:2). She hesitates. *"I have taken off my robe. Indeed, must I put it on? I have washed
+my feet. Indeed, must I soil them?"* (5:3). When she does get up and open, her hands dripping with
+myrrh, he has gone (5:5–6). She seeks him and does not find him, calls him and gets no answer. The
+watchmen find her again, as at 3:3, but this time they beat and wound her, and the keepers of the
+walls take her cloak (5:7). She ends by asking the daughters of Jerusalem to tell him, if they find
+him, that she is *"faint with love"* (5:8), the words she used at 2:5 in his embrace. This is the
+first time the Song shows her own delay costing her the beloved, and the first time she is harmed.
+The poem does not blame her for the delay or explain the violence. Whether the scene is a dream is
+not said. She is called *"my sister"* but not *"my bride"*, a word the Song does not use again.
+Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's *Miqra according to the
+Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -108,6 +121,8 @@ Sefaria's *Miqra according to the Masorah*.
 - Song of Solomon 4:1–7 — described part by part by the man, and called all beautiful, with no
   blemish; she does not speak.
 - Song of Solomon 4:8–5:1 — called his bride and a locked garden; invites him into the garden (4:16).
+- Song of Solomon 5:2–8 — delays when he knocks, opens too late, seeks and calls him in vain, is beaten
+  by the watchmen, and asks the daughters to tell him she is faint with love.
 
 ## Appears in
 
@@ -120,6 +135,7 @@ Sefaria's *Miqra according to the Masorah*.
   not named, and does not speak.
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; described and addressed; silent.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; addressed as bride; speaks 4:16.
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; the only speaker.
 
 ## Related people
 
@@ -130,7 +146,8 @@ Sefaria's *Miqra according to the Masorah*.
 - Her mother's sons — her brothers, angry with her and her taskmasters in the vineyards
   (1:6); unnamed and without a page.
 - Her mother — the owner of the house she brings him into, *"her who conceived me"* (3:4); no page.
-- The watchmen — they find her in the city at night (3:3); no page yet.
+- [[The Watchmen (Song of Solomon)]] — they find her in the city at night (3:3), and the second time
+  beat her and take her cloak (5:7).
 
 ## Themes associated
 
@@ -155,3 +172,6 @@ Sefaria's *Miqra according to the Masorah*.
 - [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] — the garden she is, and opens (4:12–5:1).
 - [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] — the sealed
   fountain and the well of living waters (4:12, 15).
+- [[Suffering]] and [[Nakedness and Covering]] — beaten, wounded, and her cloak taken (5:7).
+- [[The Beloved at the Door - Song of Solomon 5.2-6 and Revelation 3.20]] — the knock she was slow to
+  answer (5:2–6).

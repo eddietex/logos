@@ -201,7 +201,21 @@ different request.
 
 See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage page.
 
+### I adjure you, to tell him — Song of Solomon 5:8
+
+The third adjuration begins as the refrain does, *hišbaʿtî ʾetḵem bǝnôt yǝrûšālāim* (Sefaria), but
+drops the roes and the hinds and asks for something new. The daughters are bound not to hold back
+but to carry a message: *"If you find my beloved, that you tell him that I am faint with love"*. The
+Hebrew is literally *what will you tell him?* The oath is used here to enlist help, not to restrain.
+The daughters answer it in the next verse, *"that you do so adjure us?"* (5:9; stored WEB, not yet
+ingested).
+
+See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:8; the daughters put under oath to carry a message.
 
 - [[Seeking Him by Night]] — Song of Solomon 3:5; the refrain of 2:7 repeated word for word.
 
@@ -382,7 +396,7 @@ See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; compar
 
 ## Related people
 
-- [[The Woman (Song of Solomon)]] and [[The Daughters of Jerusalem]] — the woman puts the daughters under oath not to awaken love (Song of Solomon 2:7; 3:5).
+- [[The Woman (Song of Solomon)]] and [[The Daughters of Jerusalem]] — the woman puts the daughters under oath not to awaken love (Song of Solomon 2:7; 3:5), and to tell him she is faint with love (5:8).
 
 - [[Lemuel]] and [[Lemuel's Mother]] — a king receiving maternal instruction in Proverbs 31:1–9.
 

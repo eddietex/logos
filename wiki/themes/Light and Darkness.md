@@ -286,7 +286,19 @@ Night in the Song is a time of absence and of danger. The danger is not named.
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### The dampness of the night — Song of Solomon 5:2–7
+
+The second night scene. He stands outside with his head *"filled with dew"* and his hair with *rǝsîsê
+lāyǝlâ*, *drops of the night* (5:2; Sefaria). She is inside, asleep with her heart awake. When she
+goes out after him, the night city is where the watchmen beat her (5:7). As at 3:1 and 3:8, night
+is the time of absence and danger, and again there is no moral darkness in it.
+
+See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:2–7; the knock at night, and the night city.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:8; swords against *"fear in the night"*.
 

@@ -146,7 +146,22 @@ white clothing is not explicitly interpreted as moral purity or resurrection her
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The robe and the cloak — Song of Solomon 5:3, 7
+
+Two garments in one unit. The woman has taken off her robe, *kuttāntî*, a *kǝtōnet*, the word of
+the *"coats of animal skins"* at Genesis 3:21 (Sefaria), and does not want to put it on again to open
+the door (5:3). Then, out in the city, *"The keepers of the walls took my cloak away from me"* (5:7);
+the word is the rare *rǝḏîḏ*, a shawl or wrap, the *"shawls"* of Isaiah 3:23 (Sefaria; WEB checked at
+bible-api.com). One garment she removes herself, for rest; the other is taken from her by force. The
+text does not say she was left naked or speak of shame, and the wiki does not supply either.
+
+See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:3, 7; the robe taken off, and the cloak taken
+  away.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; white garments within commended enjoyment.
 

@@ -10,6 +10,8 @@ tags: [connection]
 - **Song of Solomon 3:1–4** — [[Seeking Him by Night]]: *"in the streets and in the squares I will
   seek him whom my soul loves. I sought him, but I didn't find him"* (3:2); then *"I found him"*
   (3:4).
+- **Song of Solomon 5:6** — [[I Opened, but He Had Gone]]: *"I looked for him, but I didn't find
+  him. I called him, but he didn't answer."*
 - **Proverbs 7:8–15** — [[The Young Man Void of Understanding]]: the young man *"passing through the
   street near her corner"* (7:8); the woman *"in the streets, now in the squares"* (7:12), who says
   *"I came out to meet you, to diligently seek your face, and I have found you"* (7:15).
@@ -41,6 +43,16 @@ forbidden woman came *lǝšaḥēr pānêḵā*, *to seek your face* (7:15); the
 is shared by all of them: *mǝṣāʾtîw* (Song 3:1, 2, 4), *wāʾemṣāʾekkā*, *and I have found you*
 (Proverbs 7:15), *wǝlōʾ yimṣāʾunǝnî*, *and they will not find me* (1:28), *yimṣāʾunǝnî*, *will find
 me* (8:17).
+
+**Calling without an answer.** The second night search, at Song 5:6, adds a line to the seeking
+and not finding: *qǝrāʾtîw wǝlōʾ ʿānānî*, *I called him and he did not answer me* (Sefaria). That is
+the other half of Wisdom's warning at Proverbs 1:28, *ʾāz yiqrāʾunǝnî wǝlōʾ ʾeʿĕneh*, *"Then will they
+call on me, but I will not answer"* (Sefaria): the same two verbs, *q-r-ʾ* and *ʿ-n-h*. So both halves
+of Proverbs 1:28, calling unanswered and seeking unfound, are said by the woman of the Song at 5:6,
+though with *b-q-š* for *seek* rather than Proverbs' *š-ḥ-r*. The settings are opposite. In Proverbs
+the unanswered are the scorners who refused Wisdom; in the Song it is the woman who loves, and the
+one who does not answer is the man she let go. The wiki notes the shared pair of verbs and does not
+claim an allusion.
 
 **Three women in the streets.** Set side by side:
 
@@ -77,6 +89,6 @@ Ecclesiastes 12:5 is included for the word only. There the mourners *go about th
 *wǝsāḇǝḇû baššûq*, with the same verb and noun the Song uses of the woman (*ʾăsôḇǝḇâ … baššǝwāqîm*,
 3:2). The scenes have nothing else in common.
 
-Sources: Song of Solomon 3:1–4; Proverbs 1:20, 28; 7:8–15, 19, 27; 8:17; and Ecclesiastes 12:4–5
+Sources: Song of Solomon 3:1–4; 5:6; Proverbs 1:20, 28; 7:8–15, 19, 27; 8:17; and Ecclesiastes 12:4–5
 copied from the stored WEB. Hebrew read from Sefaria's *Miqra according to the Masorah*,
 2026-10-28.

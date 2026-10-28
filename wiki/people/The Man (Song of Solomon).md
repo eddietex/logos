@@ -77,6 +77,15 @@ answers in her words, *"I have come into my garden"*, and says he has gathered, 
 (5:1). He is not named and not called king. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read
 from Sefaria's *Miqra according to the Masorah*.
 
+In [[I Opened, but He Had Gone]] he is outside at night, knocking. His words are quoted by the woman:
+*"Open to me, my sister, my love, my dove, my undefiled; for my head is filled with dew, and my hair
+with the dampness of the night"* (5:2). He calls her *sister* without *bride* for the first time. When
+she delays, he puts his hand in through the latch opening (5:4); when she opens, *"my beloved left;
+and had gone away"* (5:6). He does not answer when she calls. Why he left is not said, and he does
+not appear again in the unit. The verb *ʿāḇār*, *passed on*, is the root of the *flowing* myrrh on the
+lock in 5:5 (Sefaria). Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's *Miqra
+according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -95,6 +104,8 @@ from Sefaria's *Miqra according to the Masorah*.
   blemish; says he will go to the mountain of myrrh.
 - Song of Solomon 4:8–5:1 — calls her his bride and a locked garden; enters the garden at her
   invitation.
+- Song of Solomon 5:2–6 — knocks at night and asks her to open; is gone when she does, and does not
+  answer her call.
 
 ## Appears in
 
@@ -107,6 +118,8 @@ from Sefaria's *Miqra according to the Masorah*.
   with the bridegroom king is open.
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; the only speaker.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; speaks 4:8–15 and 5:1a.
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; his words quoted by her (5:2); absent from
+  5:6.
 
 ## Related people
 
@@ -127,3 +140,7 @@ from Sefaria's *Miqra according to the Masorah*.
   (4:1–7).
 - [[Marriage]] — calls her *"my bride"*, six times (4:8–5:1).
 - [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] — the garden he is invited into.
+- [[The Beloved at the Door - Song of Solomon 5.2-6 and Revelation 3.20]] — the one who knocks and
+  asks to be let in (5:2).
+- [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] — sought both times; found only the
+  first.

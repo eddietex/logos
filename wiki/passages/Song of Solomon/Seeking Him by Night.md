@@ -63,8 +63,8 @@ previous unit he came looking for her; here she goes looking for him.
 - [[The Man (Song of Solomon)]] — *"him whom my soul loves"*, sought and found (3:1–4). He is
   silent and passive throughout.
 - [[The Daughters of Jerusalem]] — adjured a second time, in the same words as 2:7 (3:5).
-- The watchmen (3:3) — *"who go about the city"*. They find her, and she questions them. No reply
-  is recorded. They have no page; see Notes.
+- [[The Watchmen (Song of Solomon)]] (3:3) — *"who go about the city"*. They find her, and she
+  questions them. No reply is recorded. Their page was created at 5:2–8; see Notes.
 - Her mother (3:4) — named only as the owner of the house and *"her who conceived me"*. No page.
 
 ## Places
@@ -148,7 +148,8 @@ the same words, and there they beat her and take her cloak. Here they do nothing
 asks them a question without any greeting, and the poem gives no answer. Whether that silence
 means they did not know, did not care, or simply did not matter to the story is not said. The
 watchmen get no page for now, under the same rule that gave [[The Daughters of Jerusalem]] one
-only because they recur and act. The decision is to be reconsidered at 5:2–8, when they act again.
+only because they recur and act. The decision was reconsidered at 5:2–8, when they act again, and
+they now have a page: [[The Watchmen (Song of Solomon)]]. See [[I Opened, but He Had Gone]].
 
 **Holding on.** *ʾĂḥaztîw wǝlōʾ ʾarpennû*, *I held him and would not let him go* (3:4; Sefaria). The
 second verb is from *r-p-h*, *to let drop*, *to let go slack*. The force of the verse is in the

@@ -71,8 +71,15 @@ by *"a well of living waters"*. At 4:16 she opens it: *"Let my beloved come into
 he has come, and an unidentified voice says *"Eat, friends! Drink"*. It is the Song's fullest scene of
 union, near the middle of the book.
 
+[[I Opened, but He Had Gone]] follows at once with the opposite. She is asleep, *"but my heart was
+awake"*, when he knocks: *"Open to me, my sister, my love, my dove, my undefiled"* (5:2). She hesitates
+over her robe and her washed feet, and when she opens, *"my beloved left; and had gone away"* (5:6).
+She seeks and calls him in vain. The watchmen of 3:3 find her again, and this time they beat her, and
+the keepers of the walls take her cloak (5:7). She asks the daughters of Jerusalem to tell him she is
+*"faint with love"* (5:8). It is the second night search, and the first that ends without him.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–5:1 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–5:8 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -98,7 +105,7 @@ merge, or reorder them freely.
 - [x] [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11
 - [x] [[You Are All Beautiful]] — Song of Solomon 4:1–7
 - [x] [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1
-- [ ] I Opened, but He Had Gone — Song of Solomon 5:2–8
+- [x] [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8
 - [ ] Altogether Lovely — Song of Solomon 5:9–6:3
 - [ ] My Dove Is Unique — Song of Solomon 6:4–10
 - [ ] Return, Return, Shulammite — Song of Solomon 6:11–7:9
@@ -131,6 +138,9 @@ merge, or reorder them freely.
   her body, a neck like a tower hung with shields, and *"There is no spot in you"* (4:1–7).
 - [[Marriage]], [[Love]], [[Joy and Enjoyment]] — *"my sister, my bride"*, the locked garden opened
   to the beloved, and *"Eat, friends! Drink"* (4:8–5:1).
+- [[Love]], [[Oaths and Vows]], [[City and Civilization]], [[Suffering]], [[Nakedness and Covering]],
+  [[Light and Darkness]] — the knock at night, the door opened too late, the beating by the watchmen,
+  and the daughters adjured to tell him *"I am faint with love"* (5:2–8).
 
 ## Key people
 
@@ -138,13 +148,17 @@ merge, or reorder them freely.
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
   shepherd in 1:7; the one who calls her out in spring (2:10–14); the only speaker of 4:1–7; calls
-  her *bride* and comes into the garden (4:8–5:1).
+  her *bride* and comes into the garden (4:8–5:1); knocks at night and is gone when she opens
+  (5:2–6).
 - [[David]] — named only in *"David's tower"* (4:4), a comparison.
 - [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
-  adjured at 2:7 and again at 3:5; as *"daughters of Zion"*, summoned to see the king (3:11).
+  adjured at 2:7 and again at 3:5; as *"daughters of Zion"*, summoned to see the king (3:11);
+  adjured a third time, to tell him she is faint with love (5:8).
+- [[The Watchmen (Song of Solomon)]] — *"who go about the city"*; they find her at 3:3, and at 5:7
+  beat her, with *"the keepers of the walls"* who take her cloak.
 - Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
-  (*"my mother's sons"*, 1:6) are unnamed and have no page. The watchmen who find her in the city
-  (3:3) and her mother, whose house she brings him into (3:4), have no page. Nor do Solomon's
+  (*"my mother's sons"*, 1:6) are unnamed and have no page. Her mother, whose house she brings him
+  into (3:4), has no page. Nor do Solomon's
   sixty mighty men or his unnamed mother (3:7, 11).
 
 ## Key places
@@ -152,8 +166,8 @@ merge, or reorder them freely.
 No geographical place is named in 1:1–4. The king's rooms are an interior without a
 stated location; Jerusalem must not be supplied there from later verses.
 
-- [[Jerusalem]] — named in the address *"daughters of Jerusalem"* (1:5; 2:7; 3:5), not as a
-  setting. The city of the night search (3:2–3) is unnamed.
+- [[Jerusalem]] — named in the address *"daughters of Jerusalem"* (1:5; 2:7; 3:5; 5:8), not as a
+  setting. The city of the night searches (3:2–3; 5:7) is unnamed.
 - [[Kedar]] — the tents of an Arabian people, a comparison for the woman's darkness (1:5).
 - [[En Gedi]] — its vineyards' henna, an image for the beloved (1:14).
 - [[Sharon]] — *"a rose of Sharon"*, the woman's self-description (2:1).

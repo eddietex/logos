@@ -29,8 +29,11 @@ In [[Solomon's Wedding Procession]] the daughters of Jerusalem are named in 3:10
 *"daughters of Zion"* are summoned to see the king (3:11). [[Zion]] there stands for Jerusalem, as in
 later poetry. The procession comes up from the wilderness, but the unit does not say it arrives in
 Jerusalem, and the wiki does not supply it.
+In [[I Opened, but He Had Gone]] the daughters of Jerusalem are adjured again (5:8). The city of that
+night search, with its watchmen and *"keepers of the walls"* (5:7), is again unnamed, and the wiki
+again does not identify it with Jerusalem.
 
-Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5; 2:7; 3:1–11, and Genesis 14:18; the earlier identification discussion
+Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5; 2:7; 3:1–11; 5:7–8, and Genesis 14:18; the earlier identification discussion
 and its sources remain on [[Salem]].
 
 ## Appears in
@@ -41,6 +44,7 @@ and its sources remain on [[Salem]].
 - [[Dark and Lovely]] — Song of Solomon 1:5; named in the address *"daughters of Jerusalem"*.
 - [[Seeking Him by Night]] — Song of Solomon 3:5; named in the refrain's address, not as the unnamed city of 3:2–3.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:10–11; *"daughters of Jerusalem"*, with *"daughters of Zion"* in parallel.
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:8; named in the address, not as the walled city of 5:7.
 
 ## Related places
 

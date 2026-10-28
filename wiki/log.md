@@ -19050,3 +19050,49 @@ the books: Deuteronomy 3:8–9; 1 Chronicles 5:23; Ezekiel 27:5; 2 Kings 5:12. H
 2:7; 4:8–5:1; 5:2; 6:2; 7:11 (MT); 8:6; Genesis 2:8–10; 3:16; 26:19; 38:11; Exodus 3:8; 30:23;
 Deuteronomy 3:9; Ezekiel 27:5; 2 Kings 5:12; and Ecclesiastes 2:5 was read from Sefaria's *Miqra
 according to the Masorah*.
+
+## [2026-10-28] ingest | Song of Solomon 5.2-8 — I Opened, but He Had Gone
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 5:2–8 as planned. No boundary was redrawn.
+Sefaria's *Miqra according to the Masorah* marks no section break between 5:1 and 6:3, so the
+Masoretic section is 5:2–6:3. The wiki keeps the planned split at 5:8, because 5:9 brings in the
+daughters' voice and begins the description of the man; the passage page records the difference.
+The raw text was already stored, and no raw file, controller file, or workflow instruction was
+changed. The discussion is written into the passage summary and notes.
+
+**Interpretive decisions.** The woman speaks the whole unit; the man's words in 5:2 are hers to
+report. *ʿĒr* (5:2) is taken as the root *ʿ-w-r* of the refrain, marked as not lexicon-checked. The
+dream reading is recorded and not adopted, as at 3:1–4. The sexual reading of the hand and the myrrh
+(5:4–5) is recorded and not adopted. *Ḥāmaq* (5:6) is marked as not concordance-checked; the
+*ʿōḇēr*/*ʿāḇār* repetition (5:5–6) is noted without claiming a pun. *"My heart went out when he spoke"*
+is left as a timing puzzle. *Hāmû mēʿay* is compared with Jeremiah 31:20, *napšî yāṣǝʾâ* with Genesis
+35:18, *p-ṣ-ʿ* with Exodus 21:25 and Genesis 4:23, *rǝḏîḏ* with Isaiah 3:23, and *call … no answer*
+with Proverbs 1:28. None is claimed as an allusion. The literal *mah-taggîdû lô* of 5:8 is recorded
+beside the WEB's *"that you tell him"*. *The keepers of the walls* are kept on the watchmen's page,
+and whether they are a second group is left open. **The Watchmen (Song of Solomon)** get a page now,
+as deferred at 3:3. The Revelation 3:20 pairing is recorded as a reading. No Greek wording is claimed,
+and no specific Jewish or Christian source is cited for the allegorical readings.
+
+**Created (3 content pages):** [[I Opened, but He Had Gone]], [[The Watchmen (Song of Solomon)]],
+[[The Beloved at the Door - Song of Solomon 5.2-6 and Revelation 3.20]].
+
+**Revised (14 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); [[Seeking Him by Night]] (watchmen now linked); The Woman, The Man, and The Daughters
+of Jerusalem; [[Jerusalem]]; six themes (Love, Oaths and Vows, City and Civilization, Light and
+Darkness, Suffering, Nakedness and Covering); two connections (The Two Night Searches, now with the
+second search ingested; Seeking in the Streets and Squares, now with Song 5:6 and Proverbs 1:28).
+
+**Indexes and totals.** Ten indexes were revised: books (9 / 16), main dashboard, places, themes,
+People A-E, F-M and N-Z, and Connections A-C, O-S and T-Z. Totals by frontmatter type: 220 passages,
+191 people, 99 places, 85 themes, 531 connections; 6 books started, 5 complete. With this log,
+28 wiki files are created or revised: 3 new content pages, 14 revised content pages, 10 indexes, and
+the log. `scripts/link-check.sh` is clean.
+
+**Sources and validation.** Song 5:2–8 was copied mechanically from the stored WEB. These were read in
+the stored WEB: Song 1:13; 2:5, 7, 8–17; 3:1–5; 4:6–7, 9–12, 14, 16; 5:1, 9, 11, 13–14; 6:1–3, 9; 8:4;
+Genesis 3:21; 4:23; 35:18; Exodus 21:25; Proverbs 1:28. These were checked as single-reference lookups
+at bible-api.com (`translation=web`) without fetching the books: Jeremiah 31:20; Isaiah 3:23;
+Revelation 3:14–22. Hebrew of Song 1:6; 2:5, 7, 8, 14; 4:11; 5:1–6:3; 6:9; 8:4; Genesis 3:21; 4:23;
+35:18; Exodus 21:25; Proverbs 1:28; Isaiah 3:23; and Jeremiah 31:20 was read from Sefaria's *Miqra
+according to the Masorah*.

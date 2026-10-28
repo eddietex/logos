@@ -377,7 +377,24 @@ also be read *drink deeply of love*.
 See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Faint with love — Song of Solomon 5:2–8
+
+Straight after the garden opened and entered, the Song shows love missed. He knocks and asks her to
+open; she hesitates over her robe and her washed feet (5:2–3); when she opens he is gone (5:6). Her
+inner body is stirred for him, *ûmēʿay hāmû ʿālāyw* (5:4), the phrase God uses of Ephraim at Jeremiah
+31:20, *"my heart yearns for him"* (Sefaria). She seeks and calls him without finding or answer, and
+asks the daughters to tell him *šeḥôlat ʾahăḇâ ʾānî*, *"that I am faint with love"* (5:8), the words of
+2:5 (Sefaria). There she was faint in his presence; here in his absence. The poem does not judge her
+delay; it shows what it cost. See [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] and
+[[The Beloved at the Door - Song of Solomon 5.2-6 and Revelation 3.20]].
+
+See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; *"I opened to my beloved; but my beloved
+  left"*; *"I am faint with love"*.
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; *"How much better is your love than wine!"*
 
