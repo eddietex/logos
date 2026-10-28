@@ -319,7 +319,21 @@ passage page as unverified against the Hebrew. See
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Remembering darkness and the Creator — Ecclesiastes 11:7–12:8
+
+The two objects of remembrance belong together: the many days of darkness (11:8)
+and the Creator in youth (12:1). Remembering here is the living person's task, not
+later generations preserving a reputation. **Tension:** 5:20 describes the recipient
+of joy reflecting little on life's days, while 11:8 directs recollection of darkness.
+These differ as description and instruction; neither cancels the other.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Remember the dark days and the Creator during
+  youth.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; no man remembered the poor man who delivered the city.
 

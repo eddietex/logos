@@ -2372,7 +2372,18 @@ evening (6), not despair. No direct divine speech occurs, and no outcome is attr
 
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:5–6; 3:11; 8:17.
 
+### Remember your Creator — Ecclesiastes 11:7–12:8
+
+God will bring the young person into judgment (11:9), is to be remembered as Creator
+(12:1), and receives the spirit he gave (12:7). Enjoyment is therefore situated within
+accountability and creaturely dependence. The spirit's return is affirmed here beside
+3:21's question about its destination; the text does not explain conscious existence
+after death. See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8;
+3:21; 9:5–10.
+
 ## Timeline / key events
+
+- Ecclesiastes 11:7–12:8 — [[Remember Your Creator]]; joy, judgment, and the Creator before death.
 
 - Ecclesiastes 11:5 — [[Cast Your Bread on the Waters]]; the one who does all, whose work is not known.
 
@@ -2661,6 +2672,8 @@ See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:5–6;
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:5.
 

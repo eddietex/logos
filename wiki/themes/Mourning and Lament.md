@@ -145,7 +145,21 @@ specified. **Tension:** the same book commends eating, drinking, and enjoyment a
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Mourners in the streets — Ecclesiastes 11:7–12:8
+
+Mourners go about the streets as the person goes to an everlasting home (12:5).
+This places public mourning within the poem of decline and death, rather than
+prescribing a rite or its length. The invitation to remove sorrow (11:10) precedes
+the scene without promising an end to bereavement. The earlier preference for the
+house of mourning (7:2–4) remains beside the present command to rejoice.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Public mourners accompany the image of final
+  departure.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; Tears of living victims; no funeral or bounded mourning rite.
 

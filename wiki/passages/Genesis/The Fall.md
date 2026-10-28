@@ -154,6 +154,9 @@ and the walking in the cool of the day.
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 12:7 repeats the return to earth beside the spirit’s return to its
+  giver; no fresh transgression is narrated.
+
 - [[From Dust to Dust]] — Genesis 3:19’s return to dust compared with Ecclesiastes 3:20’s shared
   human and animal end. See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
 

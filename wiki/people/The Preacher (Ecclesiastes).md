@@ -170,7 +170,19 @@ he had found beyond finding in 3:11 and 8:17, now becomes a reason to keep worki
 
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; 3:11; 8:17.
 
+### Remember your Creator — Ecclesiastes 11:7–12:8
+
+The closing counsel invites joy in youth, warns of judgment, and calls for remembering
+the Creator before the years without pleasure (11:7–12:1). The poem of decline ends with
+dust returning to earth and spirit to God (12:7); 12:8 names the Preacher again as the
+speaker of the vanity refrain. This is counsel to an unnamed addressee, not an account
+of the speaker's own age or death. His earlier question about the spirit (3:21) remains
+beside the present affirmation. See [[Remember Your Creator]]. Source: stored WEB
+Ecclesiastes 11:7–12:8; 3:21.
+
 ## Timeline / key events
+
+- Ecclesiastes 11:7–12:8 — [[Remember Your Creator]]; joy, judgment, and the Creator before death.
 
 - Ecclesiastes 11:1–6 — [[Cast Your Bread on the Waters]]; commands to give, sow, and persist without knowing the outcome.
 
@@ -217,6 +229,8 @@ See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6;
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6.
 

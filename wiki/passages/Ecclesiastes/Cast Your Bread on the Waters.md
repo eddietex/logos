@@ -77,6 +77,9 @@ No named place appears. The *south* and *north* of 11:3 are directions, not plac
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 11:7–12:8 follows work within uncertainty with joy, remembrance, and
+  mortality.
+
 - [[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]] — the sluggard
   who will not plow because of the winter, in [[Wine Is a Mocker]], Proverbs 20:4, beside the one
   who observes the wind; and the promise of seedtime and harvest in [[The Waters Recede]].

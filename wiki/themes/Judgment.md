@@ -467,7 +467,21 @@ No date or afterlife setting is supplied to reconcile them.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### Rejoicing under accountability — Ecclesiastes 11:7–12:8
+
+The young man is invited to follow heart and eyes while knowing God will bring him
+into judgment for all these things (11:9). Judgment qualifies the invitation without
+turning every pleasure into a stated offense. As in 3:17, the affirmation supplies no
+date or explicit location before or after death. It anticipates the conclusion in
+12:14, verified in stored WEB but still outside the ingested queue.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; God will judge the young person’s choices; no
+  date supplied.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; sentence delayed.
 

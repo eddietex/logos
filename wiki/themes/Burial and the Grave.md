@@ -114,7 +114,21 @@ not establish their righteousness or demonstrate a compensating punishment after
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### The everlasting home and returning dust — Ecclesiastes 11:7–12:8
+
+The everlasting home appears beside mourners (12:5), followed by dust returning to
+earth (7). The context supports reading the home as the destination of the dead;
+no named tomb, burial transaction, or geographical place is supplied. The spirit's
+return to God is a separate assertion and should not be collapsed into the dust's
+return. Sheol is named in 9:10, but not in this unit.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; The everlasting home, mourners, and return to
+  earth.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; the wicked buried.
 

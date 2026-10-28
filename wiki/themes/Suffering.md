@@ -233,7 +233,21 @@ diagnosis of the sufferer's guilt. See [[Power with the Oppressors - Job 24 and 
 See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
 are identified on the passage and connection pages.
 
+### Difficult years without pleasure — Ecclesiastes 11:7–12:8
+
+The coming years are anticipated as days in which the person will have no pleasure
+(12:1), pictured through trembling, failing activity, fear, and burdens (3–5).
+The instruction to put away sorrow and evil (11:10, following the WEB) is not a
+claim that decline can always be avoided. Judgment in 11:9 does not identify these
+bodily losses as punishment for a particular sin.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Declining capacities and pleasure without an
+  assigned personal guilt.
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; heavy misery and harm remain beside the counsel promising safety.
 

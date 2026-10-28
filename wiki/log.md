@@ -18525,3 +18525,54 @@ qualified as unverified on the connection page. No lexicon was consulted.
 `scripts/link-check.sh` passed with no wrapped or unexpected dangling links and the expected
 baseline of 61 unstarted-book pages; `git diff --check` passed. No deliberately dangling target
 remains.
+## [2026-10-28] ingest | Ecclesiastes 11.7-12.8 — Remember Your Creator
+
+Unattended `/ingest auto` by Codex (OpenAI); exactly one pericope. Retained the planned
+11:7–12:8 boundary and title. Sweet light introduces the counsel to rejoice; youth and
+coming days join the chapter boundary; 12:8 returns to the opening refrain before the
+assessment beginning at 12:9. The remaining pericope stays unchecked. Discussion is
+incorporated into the passage summary and notes. No raw source, controller file, or
+workflow instruction changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** Rejoicing and accountability remain in the same counsel.
+The images of failing household activity are read in the context of youth and coming
+difficult years, with bodily interpretations explicitly marked as inferences rather
+than a verified anatomical key. No medical identification is assigned to the cord,
+bowl, grasshopper, or almond tree. The WEB's instruction to put away evil from the
+flesh is retained without an unverified alternate rendering. The spirit's return to
+God (12:7) is affirmed alongside, rather than substituted for, 3:21's question and
+9:5–10's account of the dead. No description of postmortem consciousness is inferred.
+Joy beside mourning, enjoyment withheld, and remembrance beside reduced reflection
+remain explicit tensions. The unnamed youth, household figures, and mourners receive
+no biographies; no geographical place is named and no place page is needed.
+
+**Created (2 content pages):** [[Remember Your Creator]] and the connection
+[[Vanity at the Beginning and the End]], using the passage and connection templates.
+
+**Revised (23 content pages):** Ecclesiastes; 2 people (God and The Preacher
+(Ecclesiastes)); 10 themes (Joy and Enjoyment, Life and Death, Creation, Light and
+Darkness, Judgment, Remembrance, Mourning and Lament, Burial and the Grave, Vanity,
+Suffering); 2 connections (Dust and Breath; Mirth and Its Verdict); 8 reciprocal
+passages (Vanity of Vanities, From Dust to Dust, One Event Comes to All, The House
+of Mourning, The Lover of Silver and the Gift of Enjoyment, Cast Your Bread on the
+Waters, The Garden of Eden, The Fall). Stale forward references to the un-ingested
+12:7 passage were updated in From Dust to Dust and the Dust and Breath connection.
+
+**Indexes and totals.** Revised 8 indexes: books (23 / 24 pericopes), main dashboard,
+themes, People F-M and N-Z, Connections D-H, I-N, and T-Z. The new connection files
+under V. Totals by frontmatter type: 210 passages, 187 people, 91 places, 85 themes,
+515 connections. All person, place, theme, and connection pages have exactly one row
+across their category indexes. Places index unchanged. With this log, 34 wiki files
+are created or revised: 2 new content pages, 23 revised content pages, 8 indexes,
+and the log.
+
+**Sources and validation.** All 12 primary verses copied mechanically from immutable
+stored WEB Ecclesiastes 11:7–12:8 and compared back against that file. Both quotations
+in the new connection likewise checked exactly against stored WEB 1:2 and 12:8.
+Comparisons read in stored WEB Genesis 2:7, 19; 3:19; Ecclesiastes 1:1–11; 2:1–2,
+10–11, 24; 3:17, 19–22; 5:19–20; 6:2; 7:1–4; 9:4–10, 15; 11:1–6; 12:9–14.
+No external quotation or new claim about Greek or Hebrew wording is introduced.
+The existing raw file was preserved when the fetch script refused to overwrite it.
+`scripts/link-check.sh` passed with no wrapped or unexpected dangling links and
+61 expected unstarted-book targets; `git diff --check` passed. Both new titles are
+unique across the vault. No deliberately dangling target or unresolved blocker remains.

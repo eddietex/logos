@@ -236,7 +236,22 @@ within it rather than to master it. See
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
 are identified on the passage and connection pages.
 
+### Remembering the giver of life — Ecclesiastes 11:7–12:8
+
+The young person is told to remember the Creator before the difficult years (12:1).
+The return of dust and spirit (12:7) identifies creaturely dependence at life's end:
+God gave the spirit, and the dust returns to what it was. Genesis 2:7's formation from
+dust and gift of breath supplies a thematic comparison, without asserting identical
+source-language terms or a direct quotation. See
+[[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; The Creator remembered; the given spirit
+  returns to God.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; clouds, the fallen tree, the wind, and the bones in the womb (11:3–5).
 

@@ -104,6 +104,9 @@ No named earthly place appears.
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 12:7 affirms the spirit’s return to God without explaining the
+  consciousness of the dead; 11:9 renews joy with accountability.
+
 - [[Profit and Remembrance - Proverbs and Ecclesiastes 1]] — Proverbs 10:7,
   [[A Wise Son Makes a Glad Father]], blesses righteous memory; Ecclesiastes 9:5
   describes the dead as forgotten without a moral exception.

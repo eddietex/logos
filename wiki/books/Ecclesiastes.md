@@ -142,12 +142,19 @@ whether disaster to come, the way of the wind, the bones in the womb, or the wor
 does all (5). Ignorance here leads not to a vanity verdict but to persistent, spread-out work.
 Whether 11:1–2 commends generosity or trade is left open.
 
+[[Remember Your Creator]] (11:7–12:8) invites joy in youth under God's judgment and
+calls for remembering the Creator before years without pleasure. Darkened lights,
+failing household activity, mourners, and broken vessels lead to dust returning to
+earth and spirit to God (12:7), followed by the opening vanity refrain (8). The
+spirit's return is affirmed without erasing 3:21's question or specifying consciousness
+after death. The assessment and conclusion in 12:9–14 remain to be ingested.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–11:6 currently has ingested passage pages.
+only 1:1–12:8 currently has ingested passage pages.
 
 ## Structure
 
@@ -188,10 +195,16 @@ merge, or reorder them freely.
 - [x] [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4
 - [x] [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20
 - [x] [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6
-- [ ] Remember Your Creator — Ecclesiastes 11:7–12:8
+- [x] [[Remember Your Creator]] — Ecclesiastes 11:7–12:8
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Joy and Enjoyment]], [[Judgment]], and [[Remembrance]] — rejoice and remember the Creator
+  before decline; [[Life and Death]], [[Creation]], and [[Vanity]] meet in dust, spirit,
+  and the final refrain (11:7–12:8). See [[Remember Your Creator]].
+- [[Light and Darkness]], [[Suffering]], [[Mourning and Lament]], and [[Burial and the Grave]] —
+  sweet light, darkened lights, difficult years, and mourners in the streets (11:7–12:7).
 
 - [[Work]], [[Wisdom]], and [[Providence]] — sowing morning and evening because no one knows
   which will prosper, nor the work of God who does all (11:4–6). See
@@ -279,7 +292,8 @@ merge, or reorder them freely.
   and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20), but also
   gives wealth without that power (6:2), with no reason supplied; makes the crooked and
   sets prosperity beside adversity (7:13–14); to be feared (7:18); made man upright (7:29);
-  the one *"who does all"*, whose work is not known (11:5).
+  the one *"who does all"*, whose work is not known (11:5); judge of youthful choices (11:9),
+  Creator to be remembered (12:1), and giver receiving the spirit (12:7).
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

@@ -167,7 +167,21 @@ had commanded drinking wine with a merry heart. See
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Rejoicing before the difficult years — Ecclesiastes 11:7–12:8
+
+Joy is commanded throughout the years of life and specifically in youth (11:8–9), while
+judgment and the coming loss of pleasure remain in view (11:9; 12:1). **Explicit tension:**
+7:2–4 prefers mourning and sorrow, while 11:9–10 commands rejoicing and removal of sorrow.
+The present counsel does not withdraw the earlier ranking or explain why enjoyment is
+withheld in 6:2. Youth's vanity makes it passing, not therefore forbidden to enjoy.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Joy in youth beside judgment and the coming
+  loss of pleasure.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; feasting for strength, not drunkenness; wine that makes life glad (10:16–19).
 

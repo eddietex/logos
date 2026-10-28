@@ -111,6 +111,9 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 12:7 describes dust and spirit returning, a thematic counterpart to
+  the life received in Genesis 2:7.
+
 - [[Two Are Better Than One]] — Ecclesiastes 4:8–12 finds by observation that the one alone is worse
   off, but names son, brother, and fellow rather than a wife. See
   [[Not Good to Be Alone - Genesis 2.18 and Ecclesiastes 4.8-12]].

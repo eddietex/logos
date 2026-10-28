@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Garden of Eden]] — Genesis 2:7, 19.
 - [[The Fall]] — Genesis 3:17–19.
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.
-- Ecclesiastes 12:7 — verified in stored WEB; its pericope is not yet ingested.
+- [[Remember Your Creator]] — Ecclesiastes 12:1–8, especially 12:7.
 
 ## Analysis
 
@@ -49,6 +49,19 @@ alone supplies a comprehensive doctrine of resurrection or the fate of animals.
 
 Sources: quotations and comparisons checked in immutable stored WEB Genesis 1:26–28;
 2:7, 19; 3:17–19; Ecclesiastes 3:16–22; 12:7, on 2026-10-27.
+
+### The return is now affirmed — Ecclesiastes 12:7
+
+[[Remember Your Creator]] supplies the anticipated passage. Genesis 2:7 describes the
+formation from dust and giving of breath; Genesis 3:19 announces return to the ground.
+Ecclesiastes 12:7 joins the material return to the spirit's return to God who gave it.
+This is a thematic reversal of life received, not an asserted quotation in Hebrew.
+
+**Explicit tension:** the question of Ecclesiastes 3:21 and the affirmation of 12:7
+remain distinct. The latter neither explains the animal spirit's fate nor specifies
+postmortem consciousness. Ecclesiastes 9:5–10's account of lost knowledge and earthly
+portion also remains; the destination in 12:7 is not a description of all that happens
+there. Sources: stored WEB Genesis 2:7; 3:19; Ecclesiastes 3:19–22; 9:5–10; 12:1–8.
 
 ## Significance
 

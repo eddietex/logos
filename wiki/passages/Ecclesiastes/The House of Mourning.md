@@ -87,6 +87,9 @@ gathering, not identified sites. No place page is created.
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 11:9–10 commands joy and removal of sorrow beside 7:2–4’s preference
+  for mourning; the mourners still appear at 12:5.
+
 - [[One Event Comes to All]] — Ecclesiastes 9:7–9 commands joy beside 7:2–4’s preference for
   mourning; see [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] .
 

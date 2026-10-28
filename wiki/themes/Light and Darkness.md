@@ -257,7 +257,21 @@ another person's unsatisfied life. See [[Cursing the Day of Birth - Job 3 and Je
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Sweet light and darkened lights — Ecclesiastes 11:7–12:8
+
+Light is sweet and seeing the sun pleasant (11:7), but many days of darkness must be
+remembered (8). The sun, light, moon, and stars darken before the household images of
+decline (12:2–4). In context these images describe the fading of experienced life;
+the passage does not identify the sufferer as wicked or predict a dated astronomical
+event. This differs from 2:13–14's light as wisdom over folly.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Sweet light set beside darkness and declining
+  sight.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; the stillborn child departs and its name is covered in darkness.
 

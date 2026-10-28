@@ -559,7 +559,22 @@ afterlife text. See [[A Living Dog and the Praise of the Dead]].
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Youth, decline, and the return to God — Ecclesiastes 11:7–12:8
+
+The invitation to rejoice leads through failing household activity, fear, mourners, and
+broken vessels to dust returning to earth and spirit to its giver (11:7–12:7).
+**Explicit tension:** 3:21 asks about the spirit's destination in the WEB; 12:7 affirms its
+return to God. Neither statement should replace the other. Likewise, 9:5–10's account of
+the dead's lost knowledge and earthly portion remains beside 12:7; the latter does not
+specify consciousness, resurrection, or the duration of an intermediate state. See
+[[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Decline, death, dust to earth, and spirit to God.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; the living know death; the dead lose their
   portion.

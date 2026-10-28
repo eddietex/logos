@@ -78,6 +78,9 @@ and dust do not identify a new geographical location. Sheol is not named in this
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 12:7 affirms the spirit’s return to God, beside 3:21’s question; see
+  [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
+
 - [[One Event Comes to All]] — Ecclesiastes 9:2–6, 10 expands shared mortality and describes what
   the dead lack; 3:17’s affirmation of judgment remains distinct.
 
@@ -101,8 +104,8 @@ unanswered questions.
 - [[Mirth and Its Verdict - Proverbs 14.13, 21.17, and Ecclesiastes 2.1-11]] — 3:22 continues the
   commendation of a portion in works beside the earlier failed experiment.
 - [[The Labor Left to Another]] — 2:18–26's uncertain legacy and enjoyment precede 3:22.
-- Ecclesiastes 12:7, 14 — later affirmations about spirit and judgment; verified in stored WEB,
-  with their pericopes still awaiting ingestion.
+- Ecclesiastes 12:14 — the final judgment statement, verified in stored WEB; its pericope
+  still awaits ingestion. The spirit statement of 12:7 is now in [[Remember Your Creator]].
 
 ## Notes
 
@@ -126,7 +129,7 @@ observation to both, without retelling the disobedience or assigning animals a p
 
 **What is and is not known.** The question in verse 21 is retained as the stored WEB gives it.
 It is neither an unqualified affirmation of different spiritual destinations nor a definitive
-denial of any life beyond death. Ecclesiastes 12:7, verified in stored WEB but not yet ingested,
+denial of any life beyond death. Ecclesiastes 12:7, now ingested in [[Remember Your Creator]],
 later affirms the spirit's return to God. The later affirmation and the present question must
 remain distinguishable; importing the later answer would change this unit's questioning voice.
 Verse 22 asks about seeing what follows a person, without spelling out whether this concerns

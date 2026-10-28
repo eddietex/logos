@@ -161,7 +161,20 @@ absence of guaranteed gain coexist with a present portion in life and labor.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The refrain at the close — Ecclesiastes 11:7–12:8
+
+The days to come are vanity (11:8), as are youth and the dawn of life (11:10).
+At 12:8 the Preacher repeats the verdict of 1:2 after the poem of death. Joy,
+remembrance of the Creator, and judgment have not disappeared when the refrain
+returns; the verdict does not authorize removing those commands. See
+[[Vanity at the Beginning and the End]] for the framing comparison.
+
+See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
+identified on the passage page.
+
 ## Key passages
+
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Youth passes; the opening verdict returns at 12:8.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; joy within days of vanity.
 

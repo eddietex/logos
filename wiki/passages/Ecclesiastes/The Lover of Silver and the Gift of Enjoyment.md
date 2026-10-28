@@ -102,6 +102,9 @@ these observations in a particular kingdom or identify the king with the Preache
 
 ## Cross-references
 
+- [[Remember Your Creator]] — 11:8 commands remembrance of darkness beside 5:20’s reduced reflection
+  on life’s days.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks who knows what is good beside 5:18’s
 affirmative judgment. Neither claim is withdrawn; the later question does not explicitly settle the
 tension.

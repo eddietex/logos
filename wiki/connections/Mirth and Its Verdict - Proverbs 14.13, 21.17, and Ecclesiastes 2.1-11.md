@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember Your Creator]] — Ecclesiastes 11:7–12:8.
+
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17.
@@ -154,6 +156,20 @@ is plausible in this sequence, but does not erase the different rankings. Source
 stored WEB Ecclesiastes 6:1–2; 7:1–4; 8:15; 9:1–12.
 
 See [[One Event Comes to All]].
+
+### Rejoicing in youth under judgment — Ecclesiastes 11:7–12:8
+
+The counsel again commands joy, now in all the years of life and specifically in youth
+(11:8–9), while requiring remembrance of darkness and of the Creator (11:8; 12:1).
+God's judgment belongs to the same sentence as the invitation to follow heart and eyes
+(11:9). Joy is neither identified as automatically guilty nor placed beyond accountability.
+
+**Explicit tension:** 7:2–4 ranks mourning and sorrow above feasting and laughter;
+11:9–10 directs rejoicing and removal of sorrow. 6:2's withheld enjoyment remains
+beside these commands. Their form is counsel, not a report that everyone possesses
+the power to enjoy. The anticipated years without pleasure (12:1) and final vanity
+refrain (12:8) keep the invitation within mortality. See [[Remember Your Creator]].
+Sources: stored WEB Ecclesiastes 6:2; 7:1–4; 11:7–12:8.
 
 ## Significance
 

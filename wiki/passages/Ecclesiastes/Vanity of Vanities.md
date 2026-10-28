@@ -86,6 +86,9 @@ river, sea, or travel itinerary is supplied.
 
 ## Cross-references
 
+- [[Remember Your Creator]] — The closing refrain and renewed attribution to the Preacher (12:8);
+  see [[Vanity at the Beginning and the End]].
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12 returns to what has been long ago and asks what
 profits humanity; naming and human limits now accompany the questions.
 
