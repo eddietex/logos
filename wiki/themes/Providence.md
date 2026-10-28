@@ -317,7 +317,20 @@ particular adversity is supplied, and the crooked is not called evil. See
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Times without possession of the future — Ecclesiastes 8:1–9
+
+Every purpose has a time and procedure (6), yet the person does not know what will be
+or how it will happen (7). This recalls 3:1, 11 and 6:12 without explicitly attributing a
+particular ruler's wrongdoing to God. God is named in the oath of 8:2; no divine speech or
+explanation of the harmful rule in 8:9 follows. Wisdom's discernment of timing in 8:5 must
+remain beside the lack of foreknowledge in 8:7.
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; times and procedures coexist with human ignorance of outcomes.
 
 - [[The House of Mourning]] — Ecclesiastes 7:13–14; the crooked God has made, prosperity and adversity side by side.
 

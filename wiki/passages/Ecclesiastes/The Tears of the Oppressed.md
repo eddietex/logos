@@ -66,6 +66,8 @@ it does not identify a particular country, court, or city.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:9 returns to harmful dominion; see [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:3–6's stillborn child is distinct from 4:3's person who has not
   yet been. The new comparison tests wealth, children, and years without good, while 4:1–3
   responds to observed oppression; see [[Cursing the Day of Birth - Job 3 and Jeremiah 20]].

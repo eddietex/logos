@@ -90,6 +90,8 @@ No named location. The *city* of 7:19 is unnamed. No place page is created.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1, 5 commends wisdom again after 7:23–24; the safety of 8:5 remains beside 7:15's righteous sufferer.
+
 - [[The House of Mourning]] — 7:14 ended on what man cannot find out; 7:23–29 repeats the
   verb *find* through the search that follows.
 - [[The Burden of Wisdom]] — 1:13, 17 set the heart to seek and search out wisdom, madness,

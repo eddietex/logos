@@ -111,7 +111,21 @@ particular war: the passage also denies humans a complete view of God's work.
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### No discharge in war — Ecclesiastes 8:1–9
+
+Verse 8 places no discharge in war beside limits on containing the spirit and controlling
+the day of death. No campaign, army, legal exemption, or command to fight is specified.
+Reading the war clause as an illustration of mortality's inescapability is possible,
+but the verse does not explicitly call death a war. Job 14:14 imagines waiting through
+warfare for release; the connection compares verified WEB language without claiming an
+identical Hebrew term. See [[No Power over the Day of Death - Job 14 and Ecclesiastes 8.8]].
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; no discharge, in a sequence describing limits of human power.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; War and peace close the poem’s opposing times.
 

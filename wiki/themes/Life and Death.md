@@ -525,7 +525,20 @@ as something conduct can affect, yet 7:15 denies that it reliably follows righte
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### No power over the day of death — Ecclesiastes 8:1–9
+
+No man has power to contain the spirit or to control the day of death (8). The WEB's
+spirit is retained without a claim about underlying Hebrew. Read after the king's apparent
+freedom to act (3–4), the general limit includes rulers. Protection associated with wise
+obedience (5) does not confer immortality, just as wisdom's advantage in 2:13–16 does not
+prevent its possessor's death. See [[No Power over the Day of Death - Job 14 and Ecclesiastes 8.8]].
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; no person, including the ruler, controls the day of death.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–17, 26; length of life affected by conduct, but not guaranteed by it.
 

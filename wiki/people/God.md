@@ -2336,6 +2336,13 @@ two are kept together without a reconciling account. See
 [[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]]. Source: stored WEB Ecclesiastes
 7:13, 15–29.
 
+In [[The King and the Limits of Power]] God is named in the oath that grounds the instruction
+to keep the king's command (8:2). No divine speech, new oath by God, or particular divine
+action is narrated. Reading the oath as a subject's loyalty pledged before God fits the
+court setting, but its wording and occasion are not supplied. This does not identify
+God with the king or certify the harmful dominion of 8:9 as just. Source: stored WEB
+Ecclesiastes 8:1–9.
+
 ## Timeline / key events
 
 - Ecclesiastes 7:18–29 — [[Righteousness and Wisdom Under Question]]; to be feared; pleased by the one who escapes; made man upright.
@@ -2621,6 +2628,8 @@ two are kept together without a reconciling account. See
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:2; named in the oath behind the instruction to obey the king.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:18, 26, 29; the one feared and pleased; maker of man upright.
 

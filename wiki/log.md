@@ -18217,3 +18217,51 @@ bible-api.com with `translation=web`, 2026-10-27; no raw text was added or chang
 `scripts/link-check.sh` passed with no wrapped or dangling links beyond the expected 61
 unstarted-book baseline; `git diff --check` passed. No unresolved issue or deliberately
 dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 8.1-9 — The King and the Limits of Power
+
+Unattended `/ingest auto` by Codex (OpenAI); exactly one pericope. Retained the planned
+8:1–9 boundary and title: wisdom and royal command lead to limits on knowledge and power,
+with an observational close at 8:9. The next observation begins at 8:10, which remains
+unchecked. No discussion was requested, and its substance is recorded on the passage page.
+The existing raw Ecclesiastes text was used; no raw file or workflow instruction changed.
+
+**Interpretive decisions.** [[The King and the Limits of Power]] retains the tension between
+obedience and harmful rule, between the safety affirmed in 8:5 and the misery and hurt in
+8:6, 9, and between wise timing and lack of foreknowledge. Exodus 1:16–21's approved refusal
+of a killing order is explicitly distinguished from Ecclesiastes' counsel of obedience.
+The oath as royal loyalty before God and the commandment as the king's command are marked
+as contextual readings; neither an oath formula nor a specific Torah law is supplied.
+The WEB's spirit is retained without a Hebrew claim. The war clause as an illustration
+of mortality and the referent of the hurt in 8:9 are left qualified. The king and other
+human figures are types, not identified historical individuals; no named place occurs.
+No new person, place, or theme page was needed.
+
+**Created (2 content pages):** [[The King and the Limits of Power]];
+[[No Power over the Day of Death - Job 14 and Ecclesiastes 8.8]].
+
+**Revised (30 content pages):** the Ecclesiastes book page; God and The Preacher
+(Ecclesiastes); eleven themes (Kingship and Empire, Wisdom, Oaths and Vows, Law and Obedience,
+Language and Speech, Providence, Life and Death, War, Sin, Suffering, Retribution);
+four existing connections (Fear Yahweh and the King; Power with the Oppressors; Contending
+with the Mightier; A Time to Keep Silence); twelve reciprocal passages (Righteousness and
+Wisdom Under Question, A Time for Every Purpose, The Tears of the Oppressed, The Youth and
+the Old King, Let Your Words Be Few, Who Knows What Is Good, The Wise and the Fool Share One
+End, Through Wisdom a House Is Built, The Glory of Kings, There Is No Umpire Between Us,
+Though He Slay Me, The Oppression in Egypt).
+
+**Indexes and totals.** Updated ten indexes: books (17 / 24 pericopes), the main dashboard,
+themes, People F-M and N-Z, and all five Connections subindexes. The new connection files
+under N in I-N. Counts by frontmatter type: 204 passages, 187 people, 91 places, 85 themes,
+505 connections. This log entry is additional to those content and index counts.
+
+**Sources and validation.** The full primary unit was copied directly from immutable stored
+WEB Ecclesiastes 8:1–9. Comparisons read in stored WEB: Ecclesiastes 2:13–16; 3:1–17;
+4:1–3, 13–16; 5:2, 4–6, 8–9; 6:10–12; 7:15–17, 19, 23–24; 8:10–17; Job 9:4, 12, 14,
+19, 32–35; 14:1–14; 24:1–12; Proverbs 24:21–22; 25:11, 15; Exodus 1:16–21; 22:28.
+New quotations use these stored WEB sources. No new quotation from an unstored book or
+claim about exact Hebrew or Greek wording was introduced. The Job 9:12 / Ecclesiastes
+8:4 comparison is identified as a WEB verbal parallel, not demonstrated literary borrowing.
+`scripts/link-check.sh` passed: no wrapped or dangling links beyond the expected baseline
+of 61 not-yet-started book pages. `git diff --check` passed. No unresolved issue or deliberately
+dangling target remains.

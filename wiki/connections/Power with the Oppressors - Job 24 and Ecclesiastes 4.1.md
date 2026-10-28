@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9.
+
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20.
 
 - [[Oh That I Knew Where I Might Find Him]] — Job 24:1–12.
@@ -45,6 +47,18 @@ would go beyond what is narrated. Verse 9 connects even the king to the field's 
 No dynasty or administrative period is identified. As in Job 24 and Ecclesiastes 4:1,
 recognizing a system does not justify the harm it contains. Source: stored WEB
 Ecclesiastes 3:16–17; 4:1–3; 5:8–9; Job 24:1–12.
+
+### Dominion that harms — Ecclesiastes 8:1–9
+
+Ecclesiastes 8:9 returns to observed power: one person rules another to his hurt. The WEB
+pronoun does not expressly identify whether the hurt falls on the ruled person or returns
+to the ruler. Harm to the subject fits the victims of 4:1, but the ambiguity should not be
+converted into a promise of the ruler's downfall. The observation now follows counsel to
+keep the king's command (8:2) and an affirmation of safety (8:5). **The tension is explicit:**
+practical counsel before power does not erase its capacity to harm. No victim's guilt is
+specified and no rescue is narrated. Source: stored WEB Ecclesiastes 4:1; 5:8–9; 8:1–9.
+
+See [[The King and the Limits of Power]].
 
 ## Significance
 

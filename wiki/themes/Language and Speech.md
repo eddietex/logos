@@ -482,7 +482,20 @@ other side, as the consequence of slandering him to his master.
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Who can challenge the king — Ecclesiastes 8:1–9
+
+The king's word carries force, and the question about challenging his actions (4)
+expresses the inequality of power. It does not establish the justice of everything he
+says. Job 9:12 uses the same short English question about God, while Proverbs 25:15 allows
+patient persuasion of a human ruler. A difficult challenge and impossible speech are
+not identical claims. See [[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]].
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; the king's effective word and the difficulty of challenging him.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:21–22; words not to take to heart, and one's own curses remembered.
 

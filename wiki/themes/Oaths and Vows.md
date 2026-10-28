@@ -158,7 +158,20 @@ Proverbs 20:25's snare of the rash dedication. See
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### The oath and the king — Ecclesiastes 8:1–9
+
+The WEB gives the oath to God as the reason for keeping the king's command (2). An oath
+of loyalty before God is a contextual reading; no formula, ceremony, or precise terms are
+supplied. The verse does not narrate an oath sworn by God. Compared with the paid vows of
+5:4–6, solemn commitment now bears on conduct before a human ruler, whose power is neither
+made morally infallible nor freed from death.
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; the oath to God grounds keeping the royal command.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:4–6; Pay the vow, and better not to vow than to vow and not pay.
 

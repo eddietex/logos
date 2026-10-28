@@ -370,6 +370,9 @@ is dark. **The speech's final word is *ʾōpel*, gloom.** See [[Sheol]].
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:4 uses about the king the short English question Job 9:12 asks about God; see
+  [[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]]. This is a WEB comparison, not a source-language claim.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10 describes inability to contend with the mightier,
 plausibly God but not explicitly named there. See
 [[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]] ; Job’s continued complaint remains

@@ -84,6 +84,8 @@ so, and the wiki does not link it to a place page.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:2–4 places an oath to God and restraint in the context of a human king; the oath's terms are unstated.
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:11 returns to many words and vanity outside an
 explicit worship setting. See
 [[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]] .

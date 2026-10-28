@@ -714,7 +714,20 @@ what is are distinguished without comment.
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Discernment without foreknowledge — Ecclesiastes 8:1–9
+
+Wisdom changes the hardness of a person's face (1), and the wise heart knows the time
+and procedure (5). This positive appraisal follows wisdom found far off in 7:23–24.
+**Tension:** 8:7 still denies knowledge of what will happen. Distinguishing wise conduct
+within a situation from mastery of its outcome is a plausible reading, not a qualification
+the text states explicitly. The king's authority and the harm it can cause set the stakes.
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; a changed face and fitting conduct without knowledge of the future.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29; wisdom a strength, yet far off and beyond finding out.
 

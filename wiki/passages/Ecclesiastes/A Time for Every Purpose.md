@@ -96,6 +96,8 @@ None named. Heaven in verse 1 describes the scope of human activity, not a new l
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:5–7 returns to fitting times and limited knowledge; see [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]].
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 asks who knows what is good. This stands in tension
 with the positive judgment of 3:12–13; a present good and comprehensive knowledge may be
 distinguished, but 6:12 does not explicitly resolve the tension.

@@ -392,6 +392,9 @@ the boys of a town (Matthew 2:16), and a child who escapes — by going *into* E
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:2's counsel to obey the king stands in explicit tension with the approved refusal of
+  Exodus 1:16–21; see [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+
 - [[The Fear of Man Is a Snare - Proverbs 29.25 and Exodus 1.17]] — comparison developed with Proverbs 29.
 
 - [[Where There Is No Vision]] — Proverbs 29:25–26 contrasts fear of people and royal favor with

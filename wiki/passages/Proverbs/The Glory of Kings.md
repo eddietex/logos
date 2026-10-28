@@ -228,6 +228,9 @@ reading the world. That is the task 25:2 gave to kings, and the chapter gives it
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:3–7 pairs restraint before the king with discernment and limited foresight; Proverbs 25:15's
+  patient persuasion remains possible. See [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]].
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:7 sets silence beside speech; see
   [[A Time to Keep Silence - Proverbs 15.23, 25.11, and Ecclesiastes 3.7]] .
 

@@ -66,6 +66,8 @@ sun* (15) gives the scope of the observation.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:2–4 describes the king's force without retracting 4:13's judgment that a king can lack wisdom.
+
 - [[Two Are Better Than One]] — Ecclesiastes 4:4–12; the preceding unit, ending with companions.
   Here the youth has every person living under the sun with him, but that does not secure him.
 - [[The Labor Left to Another]] — Ecclesiastes 2:18–19; the king's heir, who might be wise or a

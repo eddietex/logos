@@ -538,7 +538,21 @@ rather than in an expected return.
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Protection affirmed, harm observed — Ecclesiastes 8:1–9
+
+Verse 5 affirms that the commandment keeper will not come to harm; verse 8 denies that
+wickedness can deliver. **Explicit tension:** misery remains heavy (6), dominion brings
+hurt (9), and 7:15 has already reported the righteous perishing and the wicked living long.
+A prudential reading of 8:5 as avoiding royal anger fits the setting, but does not supply
+an explicit limitation that dissolves the tension. The passage gives no timetable by
+which each person's circumstances can be read as a verdict on character.
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; safety and failed wickedness beside observed misery and harmful rule.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15; reversed outcomes observed and left standing.
 

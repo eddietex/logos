@@ -64,6 +64,8 @@ No place page is created.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:7 repeats the limit on knowing what will happen, even alongside the wise heart's discernment in 8:5.
+
 - [[Vanity of Vanities]] — Ecclesiastes 1:9–10's already-existing world beside 6:10's
   naming long ago; 1:3's question of gain returns in 6:11.
 - [[The Trial of Pleasure]] — Ecclesiastes 2:3 begins an inquiry into what is good for

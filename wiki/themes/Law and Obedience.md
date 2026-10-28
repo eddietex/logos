@@ -441,7 +441,21 @@ instruction central to wisdom and gives women an explicit teaching role.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Keeping the king's command — Ecclesiastes 8:1–9
+
+Verses 2 and 5 commend keeping the command and associate it with safety. The royal
+context favors reading verse 5's commandment as the king's command, rather than identifying
+a particular Torah law. **Tension:** Exodus 1:16–21 approves the midwives who refused the
+king's killing order because they feared God. Ecclesiastes gives no such case or explicit
+exception, but its own 8:9 acknowledges harmful dominion. Neither text should disappear
+into an absolute rule inferred from the other.
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; obedience counsel retained beside Exodus's approved refusal.
 
 - [[The Worthy Woman]] — Proverbs 31:26; Faithful instruction comes from the woman’s mouth.
 

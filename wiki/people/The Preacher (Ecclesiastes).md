@@ -111,7 +111,16 @@ God made man upright (29). At 7:27 he is named by title — *"says the Preacher"
 first time since 1:12; the Hebrew verb form there is discussed with its uncertainty on the
 passage page. Source: stored WEB Ecclesiastes 7:15–29.
 
+In [[The King and the Limits of Power]] he commends wisdom's effect on the face, urges keeping the
+king's command because of the oath to God, and joins discernment of time and procedure to
+ignorance of the future (8:1–7). He then names the limits of human power, especially over
+death, and reports harmful dominion (8–9). This is counsel and observation, not a report
+that the unnamed king is himself. The safety affirmed in 8:5 remains beside the misery
+and hurt of 8:6, 9. Source: stored WEB Ecclesiastes 8:1–9.
+
 ## Timeline / key events
+
+- Ecclesiastes 8:1–9 — [[The King and the Limits of Power]]; royal command, wise timing, and limits on human power.
 
 - Ecclesiastes 7:15–29 — [[Righteousness and Wisdom Under Question]]; reversed outcomes, the fear of God, and a search that finds little.
 
@@ -149,6 +158,8 @@ passage page. Source: stored WEB Ecclesiastes 7:15–29.
 
 ## Appears in
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; teacher before the king and observer of harmful rule.
+
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:15–29; reporter of the search, named by title at 7:27.
 
 - [[The House of Mourning]] — Ecclesiastes 7:1–14; speaker of the better-than sayings.
@@ -184,6 +195,9 @@ passage page. Source: stored WEB Ecclesiastes 7:15–29.
 
 ## Themes associated
 
+- [[Oaths and Vows]], [[Law and Obedience]], and [[War]] — the royal command, the oath to God,
+  and no discharge in war (8:2–8).
+
 - [[Envy]] and [[Brotherhood]] — labor as rivalry (4:4); neither son nor brother, and the fellow who lifts (4:8–10).
 
 - [[Mourning and Lament]], [[Compassion and Mercy]], and [[The Poor and the Vulnerable]] — tears without comfort (4:1).
@@ -207,4 +221,4 @@ passage page. Source: stored WEB Ecclesiastes 7:15–29.
 - [[Life and Death]] — the common end of wise and fool; *"So I hated life"* (2:14–17).
 - [[Light and Darkness]] — wisdom over folly as light over darkness (2:13).
 
-Source: stored WEB Ecclesiastes 1:1–7:14; Proverbs 1:1–7.
+Source: stored WEB Ecclesiastes 1:1–8:9; Proverbs 1:1–7.

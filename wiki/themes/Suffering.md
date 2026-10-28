@@ -221,7 +221,21 @@ it is not a claim that all living people fare worse than the dead.
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Heavy misery and harmful rule — Ecclesiastes 8:1–9
+
+Heavy human misery accompanies the affirmation that every purpose has a time and
+procedure (6). Verse 9 observes one person's dominion over another to his hurt. The WEB
+pronoun does not explicitly settle whether the hurt is the subject's or the ruler's;
+harm to the subject fits 4:1, but the verse does not guarantee the ruler's eventual ruin.
+**Tension:** 8:5's safety for the commandment keeper stands beside this harm, without a
+diagnosis of the sufferer's guilt. See [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; heavy misery and harm remain beside the counsel promising safety.
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; deprivation without an identified offense.
 

@@ -85,6 +85,8 @@ None named. *"Under the sun"* (17) is the book's range of inquiry, not a place.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:8 denies human control over death; see [[No Power over the Day of Death - Job 14 and Ecclesiastes 8.8]].
+
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:8 again questions wisdom's advantage, now following unfilled
   appetite (7). The question does not withdraw 2:13's preference for wisdom; see
   [[One Event Happens to Them All - Job 21.23-26 and Ecclesiastes 2.14-16]].

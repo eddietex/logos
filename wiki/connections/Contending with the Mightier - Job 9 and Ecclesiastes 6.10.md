@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9.
+
 - [[There Is No Umpire Between Us]] — Job 9:2–4, 14–19, 32–35; 10:1–2.
 - [[Though He Slay Me]] — Job 13:3, 15, the continued desire to reason with God.
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12.
@@ -34,6 +36,26 @@ does not establish equality of power. Each speaker's claim remains in its own se
 Sources: immutable stored WEB Job 9:1–35; 10:1–2; 13:3, 15; Ecclesiastes 3:14;
 6:2, 10–12. The short quotation is an exact excerpt of stored Ecclesiastes 6:10.
 This is a thematic comparison; no direct borrowing or source-language identity is asserted.
+
+### The question addressed to a king — Ecclesiastes 8:1–9
+
+Job 9:12 asks of God, in the stored WEB, “Who will ask him, ‘What are you doing?’”
+Ecclesiastes 8:4 asks of the king:
+
+> for the king’s word is supreme. Who can say to him, “What are you doing?”
+
+The short English question is the same; the speakers and referents are not. Job describes the
+inequality that troubles his appeal to God; Ecclesiastes advises conduct before a powerful
+human ruler. Neither question proves the moral innocence of the stronger party simply
+from the difficulty of challenging him.
+
+Ecclesiastes 8:8 immediately denies any man's control over the day of death, and 8:9
+associates dominion with hurt. The royal comparison therefore does not give the king the
+unlimited power Job attributes to God, nor does it settle the unnamed referent of 6:10.
+This is a verified WEB verbal parallel; no source-language identity or direct dependence
+is asserted. Source: stored WEB Job 9:4, 12, 32–35; Ecclesiastes 6:10–12; 8:1–9.
+
+See [[The King and the Limits of Power]].
 
 ## Significance
 

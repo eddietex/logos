@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9.
+
 - [[Laws of Holiness and Compassion]] — **Exodus 22:28** — *"You shall not blaspheme God, nor curse
   a ruler of your people."*
 - [[Through Wisdom a House Is Built]] — **Proverbs 24:21–22** — *"My son, fear Yahweh and the king.
@@ -43,6 +45,21 @@ just as *"all men"* are. Commentators commonly read this as a deliberate echo of
 wiki records the similarity of the English and the order, but this pass did not check the Greek of
 1 Peter or the Septuagint of Proverbs, and makes no claim about verbal dependence. Romans 13:7 gives
 the same distinction in general terms: honour to whom honour, respect to whom respect.
+
+### An oath before God and a human command — Ecclesiastes 8:1–9
+
+Ecclesiastes 8:2 grounds keeping the king's command in the oath to God; verses 3–4 stress
+the ruler's ability to act as he pleases. This belongs beside Proverbs 24:21–22's combined
+instruction and warning. The oath's terms and occasion are not given in Ecclesiastes.
+
+**Explicit tension:** Exodus 1:16–21, in [[The Oppression in Egypt]], describes the midwives'
+refusal of a royal killing order because they feared God, and God's favor toward them.
+Ecclesiastes does not supply that scenario or an explicit exception, while its own 8:9
+acknowledges harmful human dominion. The passages must not be flattened into an unrestricted
+command to carry out every royal demand. Nor does the Exodus case make all rebellion right.
+Source: stored WEB Ecclesiastes 8:1–9; Proverbs 24:21–22; Exodus 1:16–21; 22:28.
+
+See [[The King and the Limits of Power]].
 
 ## Significance
 

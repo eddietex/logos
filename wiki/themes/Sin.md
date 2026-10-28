@@ -326,7 +326,20 @@ any charge being laid.
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Wickedness cannot deliver — Ecclesiastes 8:1–9
+
+The hearer must not persist in an evil thing before the king (3), and wickedness cannot
+deliver those who practice it (8). Neither a particular conspiracy nor a timetable of
+punishment is supplied. The harmful dominion of verse 9 does not by itself identify its
+victim as wicked. Verse 8 denies wickedness saving power without saying that the wicked
+never enjoy temporary power or a long life; 7:15's observation remains visible.
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; evil persistence warned against; wickedness unable to deliver.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:20, 26, 29; no one without sin; the sinner ensnared; many schemes.
 

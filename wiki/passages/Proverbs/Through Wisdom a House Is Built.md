@@ -185,6 +185,8 @@ next queue item.
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:2 ties a royal command to an oath to God; see [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+
 - [[Wisdom Lived in the Household - Proverbs 1-9 and 31.10-31]] — Proverbs 31 makes wise household provision a sustained portrait.
 
 - [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]] — Proverbs 24:3–4.

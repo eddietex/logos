@@ -405,6 +405,9 @@ one hundred forty years, and saw his sons, and his sons' sons, to four generatio
 
 ## Cross-references
 
+- [[The King and the Limits of Power]] — Ecclesiastes 8:8's limits on death and discharge stand beside Job 14:5, 10–14; see
+  [[No Power over the Day of Death - Job 14 and Ecclesiastes 8.8]].
+
 - [[Who Knows What Is Good]] — Ecclesiastes 6:12 uses life’s shadow in a question about good; Job
 14:1–6 makes it part of a plea. See [[Life Like a Shadow - Job 14.1-2 and Ecclesiastes 6.12]] and
 [[Contending with the Mightier - Job 9 and Ecclesiastes 6.10]] for Job 13:3, 15’s continued desire

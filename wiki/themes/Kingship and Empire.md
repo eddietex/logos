@@ -270,7 +270,22 @@ oppression is narrated. These lines keep royal power within the material economy
 See [[The Lover of Silver and the Gift of Enjoyment]]. Source: stored WEB Ecclesiastes 5:8–20;
 comparisons as identified on the passage page.
 
+### Royal command and mortal power — Ecclesiastes 8:1–9
+
+The king's command is to be kept because of the oath to God (2), and his word is supreme
+in the court's unequal contest (3–4). Yet no man controls the day of death (8), and human
+rule can bring hurt (9). These limits qualify the picture of power without making it
+harmless. The unnamed king is not identified with the Preacher or a historical dynasty.
+**Tension:** obedience here stands beside the approved refusal of a killing order in
+Exodus 1:16–21. See
+[[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+
+See [[The King and the Limits of Power]]. Source: stored WEB Ecclesiastes 8:1–9; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[The King and the Limits of Power]] — Ecclesiastes 8:1–9; royal commands, mortal limits, and harmful dominion.
 
 - [[The Lover of Silver and the Gift of Enjoyment]] — Ecclesiastes 5:8–20; officials above officials and a king profiting from the field.
 
