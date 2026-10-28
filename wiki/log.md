@@ -18999,3 +18999,54 @@ Isaiah 47:2; Ezekiel 27:11; Daniel 1:4; Ephesians 5:27. Hebrew of Song 1:9, 15; 
 6:5–7; 7:4 (MT); Genesis 38:28; Leviticus 21:17–18; 22:20–21; Joshua 2:18; 2 Samuel 8:7; 14:25;
 Isaiah 47:2; Ezekiel 27:11; and Daniel 1:4 was read from Sefaria's *Miqra according to the
 Masorah*.
+
+## [2026-10-28] ingest | Song of Solomon 4.8-5.1 — A Garden Locked and Opened
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 4:8–5:1 as planned. No boundary was
+redrawn: Sefaria's *Miqra according to the Masorah* marks section breaks (*{ס}*) after 4:7 and after
+5:1, the chapter break at 5:1 falls between the invitation of 4:16 and its answer, and 5:2 begins a
+new night scene. The raw text was already stored, and no raw file, controller file, or workflow
+instruction was changed. The discussion is written into the passage summary and notes.
+
+**Interpretive decisions.** The man speaks 4:8–15 and 5:1a; the woman speaks 4:16, at least its second
+half, by *dôḏî*, her word for him. Who says *"my garden"* in 4:16a is left open. *Kallâ*, *bride*,
+occurs six times in the Song, all in this unit; the unit is not declared the wedding night of 3:11,
+though that reading is recorded. *Sister* is read as affection, not kinship, and distinguished from
+[[The Wife-Sister Episodes]]. 4:10 is recorded as the man returning the woman's words of 1:2–3, with
+the same Hebrew and the suffixes changed. Honey and milk (4:11) are noted beside *"a land flowing with
+milk and honey"* without claiming an allusion. *Gal nāʿûl* (4:12) is kept as Sefaria's text, with the
+*gan* reading of some witnesses marked as unverified. *Bǝʾēr mayim ḥayyîm* (4:15) is the exact phrase
+of Genesis 26:19. *ʿÛrî* (4:16) is tied to the refrain's *ʿ-w-r* (2:7) and *hāp̄îḥî* to *yāp̄ûaḥ*
+(2:17; 4:6) by their consonants, marked as not lexicon-checked. *Dôḏîm* in 5:1 is given both readings,
+*beloved ones* and *love*; the speaker of 5:1b is left unidentified, and the WEB's *"Friends"* is noted
+as an edition's cue. The Eden comparison and the reversal of Genesis 3:16 by Song 7:10 are recorded as
+readings, not allusions. Claims about *tāšûrî*, *libbaḇtinî*, *pardēs*, *yaʿrî*, the *gan* witnesses,
+and Egyptian love songs are marked at the point of the claim as unverified. **Senir** is flagged as a
+tension, not resolved: Deuteronomy 3:9 equates it with Hermon, while Song 4:8 and 1 Chronicles 5:23
+name it beside Hermon; it is kept as an alias on [[Hermon]] without its own page. [[Amana]] records
+the Masoretic read form *ʾămānâ* at 2 Kings 5:12, where the WEB follows the written *Abanah*. The
+lions' dens, the mountains of the leopards, and the friends of 5:1 have no page.
+
+**Created (4 content pages):** [[A Garden Locked and Opened]], [[Hermon]], [[Amana]],
+[[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]].
+
+**Revised (12 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); The Man and The Woman; [[Lebanon]] and [[Eden]]; three themes (Love, Marriage, Joy
+and Enjoyment); four connections (Your Own Well; Myrrh, Aloes, and Cinnamon; Wine, Oil, and the Joy
+of Love; The Wells of Abraham and the Wells of Isaac).
+
+**Indexes and totals.** Nine indexes were revised: books (8 / 16), main dashboard, places, themes,
+People F-M and N-Z, Connections D-H, I-N and T-Z. Totals by frontmatter type: 219 passages,
+190 people, 99 places, 85 themes, 530 connections; 6 books started, 5 complete. With this log,
+26 wiki files are created or revised: 4 new content pages, 12 revised content pages, 9 indexes, and
+the log. `scripts/link-check.sh` is clean.
+
+**Sources and validation.** Song 4:8–5:1 was copied mechanically from the stored WEB. These were read
+in the stored WEB: Song 1:2–3, 12, 14; 2:7, 17; 3:5; 4:3, 6; 5:2; 6:2, 11; 7:10; 8:1, 6, 13;
+Genesis 2:8–10; 3:16, 24; 26:19–20; 38:11; Exodus 3:8; 30:23–24; Proverbs 20:1; Ecclesiastes 2:5–6, 11.
+These were checked as single-reference lookups at bible-api.com (`translation=web`) without fetching
+the books: Deuteronomy 3:8–9; 1 Chronicles 5:23; Ezekiel 27:5; 2 Kings 5:12. Hebrew of Song 1:2–3;
+2:7; 4:8–5:1; 5:2; 6:2; 7:11 (MT); 8:6; Genesis 2:8–10; 3:16; 26:19; 38:11; Exodus 3:8; 30:23;
+Deuteronomy 3:9; Ezekiel 27:5; 2 Kings 5:12; and Ecclesiastes 2:5 was read from Sefaria's *Miqra
+according to the Masorah*.

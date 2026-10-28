@@ -209,7 +209,22 @@ shall be led"* (bible-api.com WEB; Hebrew 45:16, *biśmāḥōṯ*). See
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### Eat, friends! Drink — Song of Solomon 4:8–5:1
+
+The unit is full of things to taste: wine, perfume, honey from the comb, milk, pomegranates, and
+*"precious fruits"* (4:10–11, 13, 16). At 5:1 the man says he has eaten and drunk all of it, *"my
+honeycomb with my honey … my wine with my milk"*, and a voice that is not identified says, *"Eat,
+friends! Drink, yes, drink abundantly"*. The verb *šiḵrû* means *drink deeply* or even *be drunk*
+(Sefaria; the WEB softens it). Enjoyment here is not a warning, as wine is in Proverbs 20:1, nor a
+vanity, as the Preacher's parks were in Ecclesiastes 2:5–11; it is the end of the scene. See
+[[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] for the contrast with the Preacher's gardens.
+
+See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; honey, wine, and milk, and *"Eat, friends! Drink"*.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:11; *"the day of the gladness of his heart"*.
 

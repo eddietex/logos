@@ -80,6 +80,17 @@ Leviticus and is said of Absalom's beauty at 2 Samuel 14:25; see
 is taken up by him in 4:6. Nothing in the unit names her a bride; that word first comes at 4:8.
 Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
+In [[A Garden Locked and Opened]] she is called *"my bride"* for the first time, and *"my sister, my bride"* (4:8–12).
+Every use of *bride* in the Song falls in this unit. She is called down from the northern heights
+(4:8), praised for her love, her perfume, her lips, and her garments (4:10–11), and pictured as *"A
+locked up garden … a locked up spring, a sealed fountain"* (4:12), full of fruit and spices and
+watered by *"a well of living waters"* (4:15). She speaks once, at 4:16, and opens the garden: she
+calls on the north and south winds to blow on it and says, *"Let my beloved come into his garden, and
+taste his precious fruits."* The garden that is *my garden* in one line is *his garden* in the next.
+Whether *my garden* is hers or his is not marked. *Sister* is affection, not kinship; at 8:1 she
+wishes he were like her brother. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -96,6 +107,7 @@ Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's *Miqra ac
   bride of Solomon's wedding procession; the unit does not say.
 - Song of Solomon 4:1–7 — described part by part by the man, and called all beautiful, with no
   blemish; she does not speak.
+- Song of Solomon 4:8–5:1 — called his bride and a locked garden; invites him into the garden (4:16).
 
 ## Appears in
 
@@ -107,6 +119,7 @@ Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's *Miqra ac
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; possibly the one asked about in 3:6;
   not named, and does not speak.
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; described and addressed; silent.
+- [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; addressed as bride; speaks 4:16.
 
 ## Related people
 
@@ -138,3 +151,7 @@ Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's *Miqra ac
 - [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] — her belonging formula (2:16).
 - [[Your Hair Is Like a Flock of Goats - Song of Solomon 4.1-7, 6.4-7, and 7.1-5]] — the Song's
   descriptions of her body.
+- [[Marriage]] — *"my sister, my bride"* (4:9, 10, 12; 5:1).
+- [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] — the garden she is, and opens (4:12–5:1).
+- [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] — the sealed
+  fountain and the well of living waters (4:12, 15).

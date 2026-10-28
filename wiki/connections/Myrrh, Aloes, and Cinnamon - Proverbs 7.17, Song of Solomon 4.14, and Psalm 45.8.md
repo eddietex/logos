@@ -16,7 +16,7 @@ tags: [connection]
   frankincense, with all spices of the merchant"* (*mǝquṭṭereṯ mōr ûlǝḇônâ*)
 - **Song of Solomon 4:6** — [[You Are All Beautiful]]: *"I will go to the mountain of myrrh, to the
   hill of frankincense"* (*har hammôr … giḇʿaṯ hallǝḇônâ*)
-- **Song of Solomon 4:14** *(not yet ingested; WEB verified)* — *"spikenard and saffron, calamus and
+- **Song of Solomon 4:14** — [[A Garden Locked and Opened]]: *"spikenard and saffron, calamus and
   cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices"* (*qāneh
   wəqinnāmôn … mōr waʾăhālôṯ*)
 - **Psalm 45:8** *(45:9 MT; not yet ingested; WEB verified)* — *"All your garments smell like myrrh,
@@ -64,6 +64,16 @@ description of her breasts (4:5), and the woman called her beloved a sachet of m
 breasts at 1:13. Many readers therefore take the mountain as a picture of the woman herself. The
 verse does not say so, and the wiki leaves it as a reading. See [[You Are All Beautiful]].
 
+**The garden's spices, and the myrrh gathered.** In 4:13–14 the bride is a garden with henna, nard,
+saffron, calamus, cinnamon, *"every kind of incense tree"*, myrrh, and aloes. Henna and nard are the
+woman's own comparisons of 1:12 and 1:14, and myrrh and frankincense the spices of 3:6 and 4:6, so the
+garden gathers every fragrance the Song has used. The calamus is *qāneh* (Sefaria), the noun of
+Exodus 30:23's *qǝnēh-ḇōśem*, the WEB's *"fragrant cane"* in the holy oil. That makes three spices of
+the sanctuary oil, myrrh, cinnamon, and cane, in the garden. As above, the wiki claims no allusion.
+At 5:1 the man says *ʾārîṯî môrî ʿim-bǝśāmî*, *I have gathered my myrrh with my spice* (Sefaria): the
+spices are not only praised but taken, at her invitation. Proverbs 7 offers the same perfumes without
+the invitation of a bride. See [[A Garden Locked and Opened]].
+
 ## Significance
 
 The spices give [[Love]] and [[Marriage]] a shared vocabulary across the wisdom and poetic books,
@@ -75,4 +85,5 @@ Solomon 4:10, 12, 14 (4:12 by reference) and Psalm 45:8 verified WEB at bible-ap
 not stored. Hebrew of Proverbs 7:17–18, Song of Solomon 4:10, 14, Psalm 45:9 (MT), and Exodus 30:23
 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. Song of Solomon 1:13 from the stored
 WEB, with its Hebrew read from the same edition, 2026-10-28. Song of Solomon 3:6 from the stored WEB, 2026-10-28. Song of Solomon 4:6 from the stored WEB, with its
-Hebrew read from the same edition, 2026-10-28.
+Hebrew read from the same edition, 2026-10-28. Song of Solomon 4:13–5:1 and Exodus 30:23 from the
+stored WEB, with the Hebrew of both read from the same edition, 2026-10-28.

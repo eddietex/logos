@@ -18,6 +18,8 @@ tags: [connection]
   Abraham's dispute over a different one. See [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 24:11–20; 29:1–10; Exodus 2:15–17** — the betrothal well, three times.
 - **Numbers 21:16–18** — the Song of the Well: *"Spring up, well! Sing to it."*
+- **Song of Solomon 4:15** — [[A Garden Locked and Opened]]: *"a well of living waters"*, the same
+  Hebrew as Isaac's well at Genesis 26:19.
 
 ## Analysis
 
@@ -127,6 +129,16 @@ well, no digging, and no treaty — only water that cannot be drunk, a complaint
 Hagar's road to Shur (Genesis 16:7) and of the servant's wait for Rebekah (24:13). **No one names Elim's
 springs, claims them, or quarrels over them; the people camp *"by the waters"* and move on.** See
 [[Bitter Water at Marah]] and [[Elim]].
+
+**A well of living water, in a love song.** At Genesis 26:19 Isaac's servants dig in the valley *"and
+found there a well of springing water"*, *bǝʾēr mayim ḥayyîm*. The Song of Solomon calls the bride *"a
+well of living waters"* with the same three words (4:15; Sefaria for both). The WEB's *springing* and
+*living* translate one Hebrew phrase: water that flows from a source rather than stands in a cistern.
+In Genesis it is a find worth a quarrel, and the herdsmen of Gerar claim it at once, *"The water is ours"* (26:20). In the Song
+it is a picture of a bride, *locked* and *sealed* for one man (4:12). The wiki records the shared phrase
+and claims no allusion. See [[A Garden Locked and Opened]] and
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]]. Source: stored WEB
+Genesis 26:19–20 and Song 4:12, 15; Hebrew from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
 
 ## Significance
 

@@ -68,6 +68,15 @@ his own intention: *"I will go to the mountain of myrrh, to the hill of frankinc
 called king and does not yet call her *bride*. Source: stored WEB Song of Solomon 4:1–7; Hebrew read
 from Sefaria's *Miqra according to the Masorah*.
 
+In [[A Garden Locked and Opened]] he goes on speaking and calls her *"my bride"* and *"my sister, my bride"* (4:8–12).
+He calls her down from Lebanon and the heights of Amana, Senir, and Hermon (4:8). She has
+*ravished his heart* with one glance (4:9). He returns the woman's opening words, saying of her love
+what she said of his, that it is better than wine (4:10; 1:2; same Hebrew, Sefaria). He pictures her
+as a locked garden and a sealed fountain (4:12–15). When she invites him into *"his garden"* (4:16) he
+answers in her words, *"I have come into my garden"*, and says he has gathered, eaten, and drunk
+(5:1). He is not named and not called king. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read
+from Sefaria's *Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -84,6 +93,8 @@ from Sefaria's *Miqra according to the Masorah*.
   day; whether that is this man is the open question of the unit.
 - Song of Solomon 4:1–7 — describes her body part by part and declares her all beautiful and without
   blemish; says he will go to the mountain of myrrh.
+- Song of Solomon 4:8–5:1 — calls her his bride and a locked garden; enters the garden at her
+  invitation.
 
 ## Appears in
 
@@ -95,6 +106,7 @@ from Sefaria's *Miqra according to the Masorah*.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; not clearly present; the identification
   with the bridegroom king is open.
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; the only speaker.
+- [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; speaks 4:8–15 and 5:1a.
 
 ## Related people
 
@@ -113,3 +125,5 @@ from Sefaria's *Miqra according to the Masorah*.
 - [[Seeing and Being Seen]] — *"Behold, you are beautiful"*, said to her and returned (1:15–16);
   looks in through the lattice and asks to see her face (2:9, 14); describes her from the eyes down
   (4:1–7).
+- [[Marriage]] — calls her *"my bride"*, six times (4:8–5:1).
+- [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] — the garden he is invited into.

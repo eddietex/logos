@@ -58,6 +58,8 @@ Revelation closes the canon with the tree of life growing again beside a river, 
   materials.
 - [[Nod]] — the land east of Eden where Cain settles; the only place in Genesis 4 given a name, and
   located solely by its bearing from here.
+- The garden of the Song of Solomon, never called Eden, but often compared with it — see
+  [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]].
 - The New Jerusalem of Revelation 21–22 — see
   [[The Tree of Life - Eden and the New Jerusalem]].
 

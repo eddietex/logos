@@ -365,7 +365,21 @@ The woman does not answer in this unit.
 See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Your love is better than wine — Song of Solomon 4:8–5:1
+
+The man returns the woman's first words. She said *kî-ṭôḇîm dōḏeyḵā miyyāyin*, *your love is better
+than wine* (1:2); he says *mah-ṭṭōḇû ḏōḏayiḵ miyyayin*, *how much better is your love than wine* (4:10;
+Sefaria for both). The noun is *dôḏîm*, love as delight and lovemaking, not the *ʾahăḇâ* of the
+refrain. Love here is shown as a garden kept for one person and opened to him by her own invitation
+(4:12, 16). The unit ends with *dôḏîm* once more, in *"drink abundantly, beloved"* (5:1), which can
+also be read *drink deeply of love*.
+
+See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; *"How much better is your love than wine!"*
 
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; *"You are all beautiful, my love"*.
 

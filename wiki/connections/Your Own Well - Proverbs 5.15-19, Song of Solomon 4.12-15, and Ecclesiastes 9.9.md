@@ -12,7 +12,7 @@ tags: [connection]
 - **Proverbs 5:15–19** — [[The Strange Woman and the Wife of Your Youth]]: *"Drink water out of
   your own cistern, running water out of your own well … Let your spring be blessed. Rejoice in the
   wife of your youth … Be captivated always with her love."*
-- **Song of Solomon 4:12–15** *(not yet ingested)* — *"A locked up garden is my sister, my bride; a
+- **Song of Solomon 4:12–15** — [[A Garden Locked and Opened]]: *"A locked up garden is my sister, my bride; a
   locked up spring, a sealed fountain … a fountain of gardens, a well of living waters, flowing
   streams from Lebanon."*
 - **Song of Solomon 2:7** — [[Delight and the Unawakened Love]]: *"I adjure you, daughters of
@@ -79,6 +79,22 @@ same word, singular and plural (Sefaria, *Miqra according to the Masorah*, 2026-
 uses the animal as a picture of the wife; the Song uses it in an oath about love. The shared
 word is all the parallel claims; no dependence is asserted.
 
+### The locked garden — Song of Solomon 4:8–5:1
+
+With the Song's garden now ingested, its Hebrew can be set beside Proverbs. The bride is *gan nāʿûl …
+gal nāʿûl maʿyān ḥāṯûm*, *a locked garden … a locked spring, a sealed fountain* (4:12), and then
+*maʿyan gannîm bǝʾēr mayim ḥayyîm*, *a fountain of gardens, a well of living waters* (4:15; Sefaria).
+Two of Proverbs' water words are here, *maʿyān*, *spring*, and *bǝʾēr*, *well*. The Song's own
+emphasis is on *locked* and *sealed*, Proverbs' on *your own* and *not for strangers*; the two say the
+same thing from the bride's side and from the husband's. The Song adds what Proverbs does not have:
+the bride herself opens the garden, *"Let my beloved come into his garden"* (4:16), and at 5:1 he has
+come. *Bǝʾēr mayim ḥayyîm* is word for word the well Isaac's servants found at Genesis 26:19; see
+[[The Wells of Abraham and the Wells of Isaac]]. For the garden image itself, see
+[[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]].
+
+See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:12–5:1 and Genesis 26:19; Hebrew read from
+Sefaria's *Miqra according to the Masorah*, 2026-10-28.
+
 ## Significance
 
 Proverbs answers the strange woman not with a warning alone but with a picture of something
@@ -90,6 +106,7 @@ Sources: Proverbs 5:15–19 copied from `raw/bible/Proverbs.md` (WEB). Song of S
 Ecclesiastes 9:9, 1 Corinthians 7:2–5, and Hebrews 13:4 quoted from the WEB at bible-api.com,
 2026-10-25; Ecclesiastes is now stored in `raw/` and 9:9 was checked there on
 2026-10-27; the other books remain outside `raw/`. Hebrew of Proverbs 5:15–18 read from Sefaria's
-*Miqra according to the Masorah*; the Hebrew of Song of Solomon 4 was not checked this pass.
+*Miqra according to the Masorah*; the Hebrew of Song of Solomon 4 was not checked in that pass; Song 4:12–5:1 was
+read in the stored WEB and in that Sefaria edition on 2026-10-28.
 Song of Solomon 2:7 from the stored WEB (2026-10-28); its Hebrew and that of Proverbs 5:19 read from
 the same Sefaria edition for the doe and hinds.

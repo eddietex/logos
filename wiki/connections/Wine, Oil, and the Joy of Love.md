@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Strange Woman and the Wife of Your Youth]] — Proverbs 5:18–19.
 - [[One Event Comes to All]] — Ecclesiastes 9:7–9.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:12; 2:4–5.
-- Song of Solomon 4:10 — stored WEB, verified but not yet ingested.
+- [[A Garden Locked and Opened]] — Song of Solomon 4:10–11; 5:1.
 
 ## Analysis
 
@@ -41,7 +41,15 @@ be used to add an unmentioned wedding to the Song, or to cancel the warnings abo
 adultery in Proverbs. This is a thematic comparison, not a claim of quotation,
 literary dependence, identical Hebrew vocabulary, or prophecy and fulfillment.
 
-Sources: stored WEB Song of Solomon 1:1–4, 12; 2:4–5; 4:10; Proverbs 5:15–20; Ecclesiastes 9:7–9.
+**Her words in his mouth.** In [[A Garden Locked and Opened]] the man returns the opening of the Song.
+She said *kî-ṭôḇîm dōḏeyḵā miyyāyin*, *your love is better than wine*, and spoke of the fragrance of his
+oils (1:2–3). He says *mah-ṭṭōḇû ḏōḏayiḵ miyyayin*, *how much better is your love than wine*, and *rêaḥ
+šǝmānayiḵ*, the fragrance of her perfumes (4:10; Sefaria for both). The words are the same with the
+suffixes changed from masculine to feminine. The unit ends with the wine drunk: *"I have drunk my wine
+with my milk"*, and *"Eat, friends! Drink, yes, drink abundantly"* (5:1). The praise of 1:2 has become a
+meal. Hebrew of Song 1:2–3; 4:10; 5:1 read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
+
+Sources: stored WEB Song of Solomon 1:1–4, 12; 2:4–5; 4:10–11; 5:1; Proverbs 5:15–20; Ecclesiastes 9:7–9.
 Comparison prose paraphrases those verified texts; no unstored source is quoted.
 Hebrew of Song 2:4 read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
 

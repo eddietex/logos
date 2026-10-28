@@ -287,7 +287,23 @@ lovers' wedding is open. Psalm 45 is the nearest biblical parallel; see
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### My sister, my bride — Song of Solomon 4:8–5:1
+
+The man calls the woman *kallâ*, *bride*, six times, and these are the only uses of the word in the
+Song (4:8, 9, 10, 11, 12; 5:1). Four times he says *ʾăḥōṯî ḵallâ*, *my sister, my bride*, where
+*sister* is a word of affection. She is *"A locked up garden … a sealed fountain"* (4:12), closed to
+others and kept for him, the same idea as the wife who is one's own well in Proverbs 5:15–18; see
+[[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]]. At 4:16 she
+invites him in, and at 5:1 he has come. Coming after the wedding procession of 3:6–11, the unit is
+often read as the wedding night. The text does not name the wedding here; it names the bride. See also
+[[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]].
+
+See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; *"my sister, my bride"*, the locked garden opened.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; a king's wedding procession and crown, *"the day of his weddings"*.
 

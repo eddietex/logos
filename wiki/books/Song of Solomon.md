@@ -63,8 +63,16 @@ thread, a pomegranate, David's tower hung with shields, twin fawns among the lil
 line of 2:17 and says he will go to the mountain of myrrh (4:6). Parts of the description return at
 6:5–7 and 7:3.
 
+[[A Garden Locked and Opened]] continues his speech and calls her *"my bride"* for the first time; all six of the
+Song's uses of *bride* fall in 4:8–5:1. He calls her down from Lebanon, Amana, Senir, and Hermon, says
+she has ravished his heart, and returns her opening words: her love is better than wine (4:10; 1:2).
+Then she is *"A locked up garden … a sealed fountain"* (4:12), full of fruit and spices and watered
+by *"a well of living waters"*. At 4:16 she opens it: *"Let my beloved come into his garden"*. At 5:1
+he has come, and an unidentified voice says *"Eat, friends! Drink"*. It is the Song's fullest scene of
+union, near the middle of the book.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–4:7 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–5:1 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -89,7 +97,7 @@ merge, or reorder them freely.
 - [x] [[Seeking Him by Night]] — Song of Solomon 3:1–5
 - [x] [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11
 - [x] [[You Are All Beautiful]] — Song of Solomon 4:1–7
-- [ ] A Garden Locked and Opened — Song of Solomon 4:8–5:1
+- [x] [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1
 - [ ] I Opened, but He Had Gone — Song of Solomon 5:2–8
 - [ ] Altogether Lovely — Song of Solomon 5:9–6:3
 - [ ] My Dove Is Unique — Song of Solomon 6:4–10
@@ -121,13 +129,16 @@ merge, or reorder them freely.
   (3:6–11).
 - [[Seeing and Being Seen]], [[Love]], [[War]], [[Sacrifice and Offering]] — the man's description of
   her body, a neck like a tower hung with shields, and *"There is no spot in you"* (4:1–7).
+- [[Marriage]], [[Love]], [[Joy and Enjoyment]] — *"my sister, my bride"*, the locked garden opened
+  to the beloved, and *"Eat, friends! Drink"* (4:8–5:1).
 
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
-  shepherd in 1:7; the one who calls her out in spring (2:10–14); the only speaker of 4:1–7.
+  shepherd in 1:7; the one who calls her out in spring (2:10–14); the only speaker of 4:1–7; calls
+  her *bride* and comes into the garden (4:8–5:1).
 - [[David]] — named only in *"David's tower"* (4:4), a comparison.
 - [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
   adjured at 2:7 and again at 3:5; as *"daughters of Zion"*, summoned to see the king (3:11).
@@ -151,3 +162,5 @@ stated location; Jerusalem must not be supplied there from later verses.
 - [[Gilead]] — *"Mount Gilead"*, where the goats of the hair simile come down (4:1).
 - [[Zion]] — in *"daughters of Zion"* (3:11), in parallel with Jerusalem. The wilderness the
   procession comes up from (3:6) is unnamed.
+- [[Amana]] and [[Hermon]] — with Senir, the heights the bride is called from (4:8). Lebanon is named
+  there too, and again for her garments' smell and the garden's streams (4:11, 15).
