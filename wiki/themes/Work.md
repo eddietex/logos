@@ -516,7 +516,20 @@ is commended without a promise that sufficient effort guarantees success.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Hazards of labor — Ecclesiastes 10:5–20
+
+Ordinary work has its own dangers: the digger may fall into his pit, the wall-breaker be
+bitten, the quarrier injured, the woodcutter endangered (10:8–9). A blunt ax needs more strength
+(10). The fool's labor wearies him (15), and slothful hands let the roof sink and the house leak
+(18), recalling the broken wall of the sluggard's field in Proverbs 24:30–31. See
+[[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the hazards of digging, quarrying, and woodcutting; the blunt ax; sloth and the leaking house.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; work with might before sheol.
 

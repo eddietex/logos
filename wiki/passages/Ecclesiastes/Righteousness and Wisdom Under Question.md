@@ -126,6 +126,8 @@ No named location. The *city* of 7:19 is unnamed. No place page is created.
   and no dependence is claimed.
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–18; 7:19's wisdom stronger than ten rulers in a
   city becomes a story of a city delivered by one poor wise man.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:20; after 7:21–22's servant who
+  curses you, the warning not to curse the king or the rich.
 
 ## Notes
 

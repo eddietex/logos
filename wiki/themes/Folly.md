@@ -416,7 +416,20 @@ plain sense of self-exposure.
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Folly in high places — Ecclesiastes 10:5–20
+
+Folly (*hassekel*) is *"set in great dignity"* by an error from the ruler (10:5–6). The
+fool is swallowed by his own lips; his words begin in foolishness and end in mischievous madness,
+and he multiplies words about a future no one knows (12–14). His labor wearies him, for he does
+not know the way to the city (15), as on the road of 10:3. See
+[[Servants on Horses - Proverbs 19.10, 30.21-22, and Ecclesiastes 10.5-7]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; folly set in great dignity; the fool's words and wearying labor (10:6, 12–15).
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; a little folly outweighs wisdom; the fool exposes himself on the road.
 

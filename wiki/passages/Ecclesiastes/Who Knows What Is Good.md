@@ -90,6 +90,8 @@ No place page is created.
   comes next. The proverb forbids boasting; Ecclesiastes asks an unanswered question.
 - [[The House of Mourning]] — Ecclesiastes 7:1–14 follows the question of good with *better than* sayings,
   and 7:14 restates the limit on finding out what comes after a person.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:14, *"that which will be after him,
+  who can tell him?"*, repeating 6:12's question in the fool's context.
 
 ## Notes
 

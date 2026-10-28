@@ -130,12 +130,18 @@ weapons of war, yet the poor man's wisdom is despised; one sinner destroys much 
 little folly outweighs wisdom as dead flies spoil perfume. The unit ends with counsel to keep
 one's place before an angry ruler, for gentleness lays great offenses to rest (10:4).
 
+[[Folly in High Places and Everyday Work]] (10:5–20) sees an error proceed from the ruler:
+folly set in great dignity, the rich low, servants on horses (5–7). Sayings on pits, walls,
+stones, wood, and a blunt ax give wisdom an advantage only when used in time (8–11). The
+fool's multiplied words and wearying labor follow (12–15), then a land pitied or blessed by
+its king and princes, a house ruined by sloth, and a warning not to curse the king (16–20).
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–10:4 currently has ingested passage pages.
+only 1:1–10:20 currently has ingested passage pages.
 
 ## Structure
 
@@ -174,12 +180,20 @@ merge, or reorder them freely.
 - [x] [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17
 - [x] [[One Event Comes to All]] — Ecclesiastes 9:1–12
 - [x] [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4
-- [ ] Folly in High Places and Everyday Work — Ecclesiastes 10:5–20
+- [x] [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20
 - [ ] Cast Your Bread on the Waters — Ecclesiastes 11:1–6
 - [ ] Remember Your Creator — Ecclesiastes 11:7–12:8
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Kingship and Empire]], [[Folly]], and [[Slavery and Servitude]] — folly in high office and
+  servants on horses (10:5–7); the child king and the noble one (16–17). See
+  [[Folly in High Places and Everyday Work]].
+- [[Work]], [[Wisdom]], and [[Retribution]] — the hazards of labor and skill applied in time
+  (10:8–11); sloth and the leaking house (18).
+- [[Language and Speech]], [[Curse]], and [[Wealth and Possessions]] — the fool's words
+  (10:12–14), money answering all things (19), and the king and the rich not to be cursed (20).
 
 - [[Wisdom]], [[War]], and [[Remembrance]] — wisdom better than strength, the city delivered,
   and the poor deliverer forgotten (9:13–18). See [[The Forgotten Wise Man]].

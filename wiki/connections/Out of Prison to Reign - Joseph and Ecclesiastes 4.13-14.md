@@ -46,8 +46,9 @@ the parallel is the wiki's observation, not the text's claim.
 **Proverbs 30:22's warning.** Proverbs lists *"a servant when he is king"* among the things under
 which the earth trembles (30:21–22; [[Four Things]]). Ecclesiastes 4:13 is not that saying's
 contradiction: Proverbs names an unfit ruler's elevation, while the Preacher's youth is *wise*.
-Status does not decide either case. Ecclesiastes 10:7's *"servants on horses"* is closer to the
-Proverbs warning, and its pericope is still awaiting ingestion.
+Status does not decide either case. Ecclesiastes 10:7's *"servants on horses"*, in
+[[Folly in High Places and Everyday Work]], is closer to the Proverbs warning. See
+[[Servants on Horses - Proverbs 19.10, 30.21-22, and Ecclesiastes 10.5-7]].
 
 ## Significance
 

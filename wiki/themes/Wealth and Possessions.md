@@ -589,7 +589,19 @@ inside a list of outcomes subject to time and chance.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Money and the rich — Ecclesiastes 10:5–20
+
+The rich sit in a low place while folly is honored (10:6), and are not to be cursed even in
+the bedroom (20). *"money is the answer for all things"* (19) is left open here: it may be a
+cynical observation, the voice of feasting princes, or a sober remark about provision. The page
+does not settle which.
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the rich set low; money as the answer for all things (10:6, 19–20).
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; understanding does not guarantee riches.
 

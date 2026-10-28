@@ -113,6 +113,8 @@ created from conjecture. A judicial setting is implied by judgment and a cause, 
   31:8–9 serves someone else’s cause. Restraint and advocacy require different uses of speech.
 - [[Where There Is No Vision]] — Proverbs 29:7, 14 joins concern for poor people’s causes to
   righteous rule; 31:8–9 directs the king personally to act.
+- [[Woe to the Land - Proverbs 31.4-5, Isaiah 3.4, 5.11, and Ecclesiastes 10.16-17]] — 31:4–5
+  beside [[Folly in High Places and Everyday Work]], Ecclesiastes 10:16–17.
 
 ## Notes
 

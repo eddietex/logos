@@ -111,6 +111,8 @@ something: milk gives butter, the nose gives blood, and wrath gives strife (32â€
 - [[Two Voices in the Street - The Strange Woman and Wisdom in Proverbs 7-9]]
 - [[Lay Your Hand on Your Mouth - Job 21.5, 29.9, and 40.4]]
 - [[Six Things Yahweh Hates - Proverbs 6.16-19 and the Ten Commandments]]
+- [[Servants on Horses - Proverbs 19.10, 30.21-22, and Ecclesiastes 10.5-7]] â€” 30:22's servant
+  who reigns beside [[Folly in High Places and Everyday Work]], Ecclesiastes 10:7.
 
 ## Notes
 

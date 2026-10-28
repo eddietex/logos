@@ -114,6 +114,8 @@ known city; see [[City and Civilization]] for the theme.
 - Proverbs 12:23 ([[Whoever Loves Correction]]) — *"the hearts of fools proclaim
   foolishness"*; and Proverbs 13:16 ([[Hope Deferred]]) — *"a fool exposes folly"*, beside
   the fool of 10:3 who tells everyone that he is a fool.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the following unit, where
+  folly is set in great dignity and the subject is again warned to be careful before rulers.
 
 ## Notes
 

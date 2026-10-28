@@ -18422,3 +18422,58 @@ compared with the stored raw text. Comparisons read in stored WEB: Ecclesiastes 
 about exact Hebrew or Greek wording is made. `scripts/link-check.sh` passed with no wrapped
 or unexpected dangling links and the expected baseline of 61 unstarted-book pages;
 `git diff --check` passed. No deliberately dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 10.5-20 — Folly in High Places and Everyday Work
+
+Unattended `/ingest auto` by Claude (Anthropic); exactly one pericope. Retained the planned
+10:5–20 boundary and title: 10:5 opens with a fresh observation formula after 10:4's counsel,
+and 11:1's imperatives open the next unit, which remains unchecked. The discussion is
+incorporated into the passage's summary and notes. No raw source, controller file, or workflow
+instruction changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** The unit is read as a chain of sayings framed by rulers at both ends
+(5–7, 16–20). 10:6–7 is treated as a complaint against folly in office, not against every change
+of rank, given 4:13–14 and Joseph. 10:8's *may* is read as workmen's risk in context; 10:16's
+*child* is left open between literal youth and immaturity; 10:19's *"money is the answer for all
+things"* is not assigned a single reading. God is not named in the unit, and that silence is
+retained. No person or place page was created; all figures are unnamed.
+
+**Correction to an existing page.** [[Whoever Digs a Pit - Proverbs 26.27, Psalm 7.15, and Ecclesiastes 10.8]]
+had left unchecked whether the Hebrew carries the WEB's *may*. Both Proverbs 26:27 and
+Ecclesiastes 10:8 read *yippôl* in MAM, so the *shall*/*may* difference is the WEB's reading of
+context; the page now says so. A first draft of the new passage misquoted Ecclesiastes 5:20 as
+*"answers him"*; it was corrected before commit to the stored WEB's *"God occupies him"*.
+
+**Created (4 content pages):** the passage [[Folly in High Places and Everyday Work]] and three
+connections, [[Servants on Horses - Proverbs 19.10, 30.21-22, and Ecclesiastes 10.5-7]],
+[[The Charmer's Tongue - Psalm 58.4-5, Jeremiah 8.17, and Ecclesiastes 10.11]], and
+[[Woe to the Land - Proverbs 31.4-5, Isaiah 3.4, 5.11, and Ecclesiastes 10.16-17]].
+
+**Revised (32 content pages):** Ecclesiastes; The Preacher (Ecclesiastes); 10 themes (Folly,
+Kingship and Empire, Wisdom, Work, Language and Speech, Wealth and Possessions, Retribution,
+Curse, Joy and Enjoyment, Slavery and Servitude); 6 connections (Whoever Digs a Pit, Fear Yahweh
+and the King, Folding the Hands, In the Multitude of Words, A King Under Instruction, Out of
+Prison to Reign); 14 reciprocal passages (The Youth and the Old King, whose forward reference
+to 10:5–7 is now a link; The Forgotten Wise Man; Let Your Words Be Few; The Lover of Silver and
+the Gift of Enjoyment; The King and the Limits of Power; Who Knows What Is Good; Righteousness
+and Wisdom Under Question; Laws of Holiness and Compassion; Answer a Fool; Four Things; Better
+Is the Poor Who Walks in Integrity; The Words of King Lemuel; The Field of the Sluggard; A
+Strong Tower).
+
+**Indexes and totals.** Revised nine indexes: books (21 / 24), the main dashboard, themes,
+People N-Z, and Connections A-C, D-H, I-N, O-S, and T-Z. New connections file under C, S, and W.
+Totals by frontmatter type: 208 passages, 187 people, 91 places, 85 themes, 512 connections.
+Places index unchanged; no place page was touched.
+
+**Sources and validation.** The sixteen primary verses were copied mechanically from immutable
+stored WEB Ecclesiastes 10:5–20, and every inline quotation on new and changed lines was
+mechanically compared with stored WEB or with the bible-api.com responses. Comparisons read in
+stored WEB: Ecclesiastes 1:3; 2:3; 4:5, 13; 5:3, 6, 20; 6:12; 7:21–22; 8:7; 9:7, 11; Exodus
+22:28; Proverbs 18:7; 19:10; 20:1; 24:30–31; 26:27; 30:21–22; 31:4–5. Isaiah 3:1, 4; 5:11; Psalm
+58:3–5; and Jeremiah 8:17 checked at bible-api.com with `translation=web` on 2026-10-27; none was
+added to `raw/`. Hebrew of Ecclesiastes 1:3; 4:13; 5:5, 19; 10:5–20; Proverbs 19:10; 26:27;
+30:22; 31:4; and Exodus 22:27 read from Sefaria's *Miqra according to the Masorah*; no lexicon
+was consulted, and the legal sense of *šəḡāḡâ* and the range of *naʿar* are given as common
+usage, qualified on the page. `scripts/link-check.sh` passed with no wrapped or unexpected
+dangling links and the expected baseline of 61 unstarted-book pages; `git diff --check` passed.
+No deliberately dangling target remains.

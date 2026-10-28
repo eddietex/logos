@@ -20,8 +20,8 @@ tags: [connection]
   Verified WEB, not yet ingested.
 - Psalm 57:6 — *"They have prepared a net for my steps. My soul is bowed down. They dig a pit before
   me. They fall into the middle of it themselves."* Verified WEB, not yet ingested.
-- Ecclesiastes 10:8 — *"He who digs a pit may fall into it; and whoever breaks through a wall may be
-  bitten by a snake."* Verified WEB, not yet ingested.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:8 — *"He who digs a pit may fall into
+  it; and whoever breaks through a wall may be bitten by a snake."* Stored WEB.
 
 ## Analysis
 
@@ -46,9 +46,10 @@ picks up the shovel.
 
 **Ecclesiastes qualifies it.** Ecclesiastes 10:8 has nearly the same first line, but with *may*: *"He
 who digs a pit may fall into it; and whoever breaks through a wall may be bitten by a snake."* In the
-WEB it reads as a statement about risk — work has hazards — rather than about justice. Whether the
-Hebrew carries the WEB's *may* was not checked here. The wiki records the difference as it stands in
-the WEB: Proverbs says the digger *shall* fall, and Ecclesiastes says he *may*.
+WEB it reads as a statement about risk — work has hazards — rather than about justice. The Hebrew
+does not itself decide between *shall* and *may*: both verses use the same imperfect, *yippôl*
+(see the section on Ecclesiastes 10 below). The difference between them is the WEB's reading of
+context.
 
 **Not a rule for every case.** Like the other sentences on retribution in Proverbs, 26:27 states the
 usual course of things. It does not promise that every trap-setter is caught, and the Psalms' prayers
@@ -67,6 +68,20 @@ already been rescued.
 
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
 Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
+
+### Ecclesiastes 10:8 in context
+
+Ecclesiastes 10:8 has been ingested in [[Folly in High Places and Everyday Work]]. In the Hebrew
+read in Sefaria's *Miqra according to the Masorah* (2026-10-27), Proverbs 26:27 has *kōreh-šaḥaṯ
+bāh yippôl* and Ecclesiastes 10:8 *ḥōpēr gûmmāṣ bô yippôl*: different verbs for *digging* and
+different nouns for the *pit*, but the same verb form for the fall. An earlier version of this page
+left that unchecked. The WEB's *may* in Ecclesiastes is therefore the translator's reading, not a
+modal word in the text. It suits the context: 10:9–11 go on to quarrying, woodcutting, the blunt
+ax, and the charmer, all hazards and limits of ordinary work rather than the trap of the wicked.
+Read within its chapter, Ecclesiastes 10:8 belongs with workmen's risks. Read beside Proverbs, it
+also recalls the self-acting retribution of 26:27; the passage does not decide between the two.
+
+Source: stored WEB Ecclesiastes 10:8–11; Proverbs 26:27. Hebrew as stated.
 
 ## Significance
 

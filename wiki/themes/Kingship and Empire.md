@@ -294,7 +294,22 @@ gentleness lays great offenses to rest. See
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Folly in high places — Ecclesiastes 10:5–20
+
+The Preacher traces folly in high office to *"the sort of error which proceeds from the
+ruler"* (10:5). A land is pitied when its king is a child and its princes feast in the morning,
+and called happy when its king is the son of nobles and its princes eat for strength (16–17).
+The king is not to be cursed, even in thought (20). Proverbs 31:4–5 keeps wine from kings
+altogether; Ecclesiastes faults drunkenness and timing. See
+[[Woe to the Land - Proverbs 31.4-5, Isaiah 3.4, 5.11, and Ecclesiastes 10.16-17]] and
+[[Servants on Horses - Proverbs 19.10, 30.21-22, and Ecclesiastes 10.5-7]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the ruler's error, the child king, and the king not to be cursed.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; the besieging king, the ruler among fools, and the angered ruler.
 

@@ -253,7 +253,20 @@ greatness. The text neither commends nor criticizes the practice, and gives no t
 this page records the listing without drawing a judgment from it. See [[The Trial of Pleasure]].
 Source: stored WEB Ecclesiastes 2:7.
 
+### Servants on horses — Ecclesiastes 10:5–20
+
+*"I have seen servants on horses, and princes walking like servants on the earth"* (10:7).
+The reversal is an *evil* proceeding from a ruler's error (5), told from the settled order's
+point of view, as in Proverbs 19:10 and 30:22. The same book approved a poor youth who came out
+of prison to reign (4:13–14); the objection is to unfitness in office, not to every rise. See
+[[Servants on Horses - Proverbs 19.10, 30.21-22, and Ecclesiastes 10.5-7]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; servants on horses and princes walking like servants (10:7).
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:7; Servants bought and house-born listed among a king's possessions.
 

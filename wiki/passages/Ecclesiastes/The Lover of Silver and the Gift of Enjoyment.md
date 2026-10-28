@@ -132,6 +132,8 @@ tension.
 - Luke 12:16–21 and 1 Timothy 6:6–10, 17–19 — the rich fool's unsecured future and the
   instruction to be content, hope in God, enjoy his provision, and share. These WEB texts
   were verified at bible-api.com for this pass; their books remain un-ingested.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:19, *"money is the answer for all
+  things"*; its verb shares the consonants *ʿ-n-h* with 5:20's *occupies*.
 
 ## Notes
 

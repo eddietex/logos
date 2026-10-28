@@ -115,6 +115,8 @@ explicit worship setting. See
   receives admonition is followed by the instruction to draw near to listen.
 - Ecclesiastes 12:13 — *"Fear God and keep his commandments"*; checked in stored WEB, with its
   pericope still awaiting ingestion. Verse 7's *"you must fear God"* anticipates it.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5, 14; the ruler's *error* is the
+  same noun (*šəḡāḡâ*) as the *mistake* of 5:6, and the fool again multiplies words.
 
 ## Notes
 

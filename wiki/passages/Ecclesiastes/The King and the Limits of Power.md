@@ -110,6 +110,8 @@ another location is supplied in this unit. No place page is created.
 - [[The Forgotten Wise Man]] — Ecclesiastes 10:4; *"don’t leave your place"* before an angered
   ruler, beside 8:3's counsel not to be hasty to leave the king's presence. See
   [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]].
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:14, 20; no one knows what will be,
+  and the king not to be cursed even in thought.
 
 ## Notes
 

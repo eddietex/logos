@@ -185,6 +185,8 @@ Judah copied out"* (25:1). See [[The Glory of Kings]].
 - [[Job's Oath of Innocence]] — Job 31:40, briers instead of wheat.
 - [[The Glory of Kings]] — Proverbs 25:1–28, the next block; the neighbour at law again (25:8–10).
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:6, the friend's faithful wounds and the enemy's kisses, set beside 24:26's honest answer as a kiss.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:18, the roof that sinks and the
+  house that leaks through idle hands, beside the broken wall of 24:31.
 
 ## Notes
 

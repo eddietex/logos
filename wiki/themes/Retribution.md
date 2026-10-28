@@ -571,7 +571,20 @@ in explicit tension. No schedule of compensating reward is supplied in 9:1–12,
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The pit as risk — Ecclesiastes 10:5–20
+
+*"He who digs a pit may fall into it"* (10:8). Proverbs 26:27 says he *shall*, but both verses
+use the same Hebrew verb form, *yippôl* (MAM, read 2026-10-27). The WEB's *may* follows the
+context of 10:8–11, which is about workmen's hazards rather than about the wicked. Read that way,
+the saying describes risk in ordinary work, not a moral verdict. See
+[[Whoever Digs a Pit - Proverbs 26.27, Psalm 7.15, and Ecclesiastes 10.8]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the digger who may fall into his pit, as risk rather than verdict (10:8).
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; common death cannot identify moral standing.
 

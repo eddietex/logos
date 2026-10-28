@@ -55,6 +55,13 @@ comes afterward (6:12). It does not repeat the vow rules or forbid every act of 
 The comparison rests on stored WEB Ecclesiastes 6:10–12, not an assertion about identical
 Hebrew expressions.
 
+**The fool multiplies words.** In [[Folly in High Places and Everyday Work]], Ecclesiastes
+10:14 says in the WEB: *"A fool also multiplies words. Man doesn’t know what will be; and that which
+will be after him, who can tell him?"* The fool's many words claim a knowledge of the future that no
+one has, repeating 6:12 and 8:7. 10:12–13 adds the end of such speech: the fool is *"swallowed by
+his own lips"*, and his talk ends in *"mischievous madness"*. Compare Proverbs 18:7, *"A fool’s mouth
+is his destruction"*. Source: stored WEB Ecclesiastes 6:12; 8:7; 10:12–14; Proverbs 18:7.
+
 ## Significance
 
 The thread links [[Language and Speech]], [[Folly]], and [[The Fear of God]]. Proverbs teaches

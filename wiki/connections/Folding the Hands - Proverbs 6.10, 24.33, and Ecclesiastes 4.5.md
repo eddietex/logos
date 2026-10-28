@@ -15,6 +15,8 @@ tags: [connection]
   [[The Field of the Sluggard]]
 - **Ecclesiastes 4:5** — *"The fool folds his hands together and ruins himself."* —
   [[Two Are Better Than One]]
+- **Ecclesiastes 10:18** — *"By slothfulness the roof sinks in; and through idleness of the hands
+  the house leaks."* — [[Folly in High Places and Everyday Work]]
 
 ## Analysis
 
@@ -38,6 +40,18 @@ opposite extreme; Proverbs, in these two passages, addresses only the first dang
 the distinction between the idle person and the oppressed poor: Ecclesiastes 4:1 has just described
 victims of power, and Proverbs elsewhere warns against exploiting the poor (22:22). Neither passage on
 folded hands is a general explanation of poverty.
+
+### The leaking house — Ecclesiastes 10:18
+
+Ecclesiastes returns to idle hands with a picture of neglect rather than gesture: *"By slothfulness
+the roof sinks in; and through idleness of the hands the house leaks."* It resembles the sluggard's
+field of Proverbs 24:30–31, whose *"stone wall was broken down"*: in both, idleness is shown in a
+structure decaying slowly. Unlike 4:5, the line is set among sayings about rulers (10:16–20),
+which allows it to be read of a household or of a land whose princes feast in the morning. The
+text does not decide between them. No Hebrew connection with 4:5 or Proverbs is claimed for this
+verse. See [[Folly in High Places and Everyday Work]].
+
+Source: stored WEB Proverbs 24:30–31; Ecclesiastes 4:5; 10:16–18.
 
 ## Significance
 

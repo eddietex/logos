@@ -504,7 +504,20 @@ weighed by its quiet and its effect, not its volume. See
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### The fool's many words — Ecclesiastes 10:5–20
+
+The wise man's words are gracious; the fool is swallowed by his own lips (10:12), as in
+Proverbs 18:7. His talk runs from foolishness to mischievous madness, and he multiplies words,
+though *"Man doesn’t know what will be"* (13–14). The charmer's tongue profits nothing when the
+snake bites first (11). Speech also travels: *"a bird of the sky may carry your voice"* (20). See
+[[In the Multitude of Words - Proverbs 10.19, 17.27-28, and Ecclesiastes 5.2-7]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; gracious words, the fool's multiplied talk, and the voice a bird may carry (10:11–14, 20).
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; quiet words of the wise, unheard words of the poor, the fool's self-disclosure.
 

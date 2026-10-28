@@ -84,8 +84,8 @@ sun* (15) gives the scope of the observation.
   19:1 and 28:6, where the poor man of integrity is better.
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–16; a poor wise man who delivers a city and is
   not remembered. See [[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesiastes 9.13-18]].
-- Ecclesiastes 10:5–7, 16–17 — the error of rulers, servants on horses, and a land whose king is
-  a child; checked in stored WEB, with its pericope still awaiting ingestion.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–7, 16–17; the error of rulers,
+  servants on horses, and a land whose king is a child.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1–7; the following unit. After a king who no longer
   receives admonition, the instruction to draw near to listen.
 

@@ -196,7 +196,20 @@ wrongdoing, not treated as automatically justified or automatically effective wh
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Do not curse the king — Ecclesiastes 10:5–20
+
+*"Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom"*
+(10:20). The verb is *təqallēl*; Exodus 22:28 forbids cursing a ruler with a different verb,
+*ʾārar*, and uses *qll* for God (MAM). Exodus gives a commandment; Ecclesiastes gives prudence:
+private words may be carried. 7:21–22 had warned about hearing a servant's curse. See
+[[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the king and the rich not to be cursed, even in thought (10:20).
 
 - [[The Words of Agur]] — Proverbs 30:10–11.
 

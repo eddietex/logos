@@ -156,7 +156,20 @@ do not report that every person presently has the power to enjoy. See
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Feast and wine — Ecclesiastes 10:5–20
+
+Princes who *"eat in the morning"* bring woe on a land; those who eat *"in due season, for
+strength, and not for drunkenness"* bless it (10:16–17). Yet *"A feast is made for laughter, and
+wine makes the life glad"* (19). Enjoyment is not rejected, only its wrong time and excess; 9:7
+had commanded drinking wine with a merry heart. See
+[[Woe to the Land - Proverbs 31.4-5, Isaiah 3.4, 5.11, and Ecclesiastes 10.16-17]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; feasting for strength, not drunkenness; wine that makes life glad (10:16–19).
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; bread, wine, clothing, marriage, and labor.
 

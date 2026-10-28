@@ -758,7 +758,21 @@ honored. See [[Wisdom Better Than Strength - Proverbs 21.22, 24.5-6, and Ecclesi
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Skill applied in time — Ecclesiastes 10:5–20
+
+*"If the ax is blunt … then he must use more strength; but skill brings success"* (10:10).
+The WEB's *skill* renders *ḥoḵmâ*, and the *success* is *yiṯrôn*, the book's word for *gain*
+(1:3; MAM, read 2026-10-27). The next verse denies the charmer any *yiṯrôn* if the snake bites
+first (11). Wisdom has a real advantage, but only when it is applied in time. The wise man's
+words are gracious (12). See
+[[The Charmer's Tongue - Psalm 58.4-5, Jeremiah 8.17, and Ecclesiastes 10.11]].
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; skill (*ḥoḵmâ*) that brings success, and the charmer too late (10:10–12).
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; wisdom better than strength, yet despised and easily outweighed.
 

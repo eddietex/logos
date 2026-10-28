@@ -151,7 +151,19 @@ perspective without resolving it.
 
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; 1:12; 8:2–5.
 
+### Folly in high places — Ecclesiastes 10:5–20
+
+He reports, in the first person, an evil he has seen under the sun — an error from the ruler,
+folly set in great dignity — and that he has seen servants on horses and princes walking (10:5–7).
+The sayings on work, speech, rulers, and households that follow are general and not marked as
+personal experience (8–19). His warning not to curse the king even in thought (20) again speaks
+from the position of a subject, as in 8:2–5 and 10:4.
+
+See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; 8:2–5.
+
 ## Timeline / key events
+
+- Ecclesiastes 10:5–20 — [[Folly in High Places and Everyday Work]]; the ruler's error, everyday hazards, and caution before kings.
 
 - Ecclesiastes 9:13–10:4 — [[The Forgotten Wise Man]]; the delivered city, the despised deliverer, and gentleness before a ruler.
 
@@ -194,6 +206,8 @@ See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; 1:1
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4.
 

@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The King and the Limits of Power]] — Ecclesiastes 8:1–9.
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:20.
 
 - [[Laws of Holiness and Compassion]] — **Exodus 22:28** — *"You shall not blaspheme God, nor curse
   a ruler of your people."*
@@ -60,6 +61,20 @@ command to carry out every royal demand. Nor does the Exodus case make all rebel
 Source: stored WEB Ecclesiastes 8:1–9; Proverbs 24:21–22; Exodus 1:16–21; 22:28.
 
 See [[The King and the Limits of Power]].
+
+### Not even in your thoughts — Ecclesiastes 10:20
+
+*"Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom: for a
+bird of the sky may carry your voice, and that which has wings may tell the matter."* The verb is
+*təqallēl* both times. In Exodus 22:28 (22:27 in Hebrew), *qll* is the verb used of God (WEB
+*"blaspheme"*), and the ruler is protected with a different verb, *ʾārar* (MAM, read
+2026-10-27). The two texts agree in substance but not in wording. Their reasons differ as well:
+Exodus forbids, while Ecclesiastes warns that private words will be overheard. The Preacher
+extends the restraint inward — to the thoughts and the bedroom — and outward to *the rich*.
+Ecclesiastes 7:21–22 had made the reverse point, that you have yourself cursed others. See
+[[Folly in High Places and Everyday Work]].
+
+Source: stored WEB Exodus 22:28; Ecclesiastes 7:21–22; 10:20. Hebrew as stated.
 
 ## Significance
 

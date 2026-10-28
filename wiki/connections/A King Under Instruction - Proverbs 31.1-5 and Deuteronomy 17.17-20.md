@@ -15,6 +15,9 @@ tags: [connection]
 - [[The Youth and the Old King]] — Ecclesiastes 4:13, the opposite case: an old and foolish king who
   no longer knows how to receive admonition. See
   [[The Ear That Listens to Reproof - Proverbs and Ecclesiastes 4.13]].
+- [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:16–17, princes who eat for strength,
+  not for drunkenness. See
+  [[Woe to the Land - Proverbs 31.4-5, Isaiah 3.4, 5.11, and Ecclesiastes 10.16-17]].
 
 ## Analysis
 
