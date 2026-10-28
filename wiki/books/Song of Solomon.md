@@ -35,8 +35,15 @@ is an apple tree among the trees. After the banquet hall and the embrace, the wo
 daughters of Jerusalem under oath not to awaken love *"until it so desires"* (2:7). That
 refrain returns at 3:5 and 8:4 and marks the ends of major units in the plan below.
 
+[[Rise Up, My Love]] begins with *"The voice of my beloved!"* He comes over the hills like a roe,
+looks in through the windows and the lattice, and calls her out twice: *"Rise up, my love, my
+beautiful one, and come away"*, because winter is past and the land is in blossom. He asks to see
+her face and hear her voice; a plural voice asks for the little foxes to be caught. She answers with
+the first statement of mutual belonging, *"My beloved is mine, and I am his"* (2:16), which returns
+changed at 6:3 and 7:10, and sends him to the mountains of Bether. Whether she goes out is not said.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–2:7 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–2:17 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -57,7 +64,7 @@ merge, or reorder them freely.
 - [x] [[Love Better Than Wine]] — Song of Solomon 1:1–4
 - [x] [[Dark and Lovely]] — Song of Solomon 1:5–8
 - [x] [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7
-- [ ] Rise Up, My Love — Song of Solomon 2:8–17
+- [x] [[Rise Up, My Love]] — Song of Solomon 2:8–17
 - [ ] Seeking Him by Night — Song of Solomon 3:1–5
 - [ ] Solomon's Wedding Procession — Song of Solomon 3:6–11
 - [ ] You Are All Beautiful — Song of Solomon 4:1–7
@@ -84,13 +91,15 @@ merge, or reorder them freely.
 - [[Brotherhood]] — angry brothers who set their sister to work (1:6).
 - [[Work]] — vineyard keeping and grazing flocks (1:6–8).
 - [[Oaths and Vows]] — the first adjuration of the daughters of Jerusalem (2:7).
+- [[Love]], [[Seeing and Being Seen]], [[Work]] — the spring invitation, *"Let me see your face"*,
+  the foxes in the vineyards, and *"My beloved is mine, and I am his"* (2:8–17).
 
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1).
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
-  shepherd in 1:7.
+  shepherd in 1:7; the one who calls her out in spring (2:10–14).
 - [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
   adjured at 2:7.
 - Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
@@ -105,3 +114,4 @@ stated location; Jerusalem must not be supplied there from later verses.
 - [[Kedar]] — the tents of an Arabian people, a comparison for the woman's darkness (1:5).
 - [[En Gedi]] — its vineyards' henna, an image for the beloved (1:14).
 - [[Sharon]] — *"a rose of Sharon"*, the woman's self-description (2:1).
+- [[Bether]] — *"the mountains of Bether"* (2:17); possibly *cleft mountains* rather than a name.

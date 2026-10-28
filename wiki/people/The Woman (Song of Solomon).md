@@ -42,6 +42,17 @@ Song is spoken by the woman who has just described its fulfillment. The speaker 
 follows the WEB's forms of address; the WEB gives no cues here. Source: stored WEB Song of
 Solomon 1:9–2:7.
 
+In [[Rise Up, My Love]] she narrates. She hears the beloved's voice, sees him coming over the hills,
+and finds him at *"our wall"*, looking in at the windows (2:8–9). She is inside, and the unit does
+not say whose house it is. She quotes his invitation twice, *"Rise up, my love, my beautiful one, and
+come away"* (2:10, 13), and is addressed as *"my dove in the clefts of the rock"*, hidden, with a
+face he wants to see and a voice he wants to hear (2:14). She does not reply to the invitation with
+an act. She replies with *"My beloved is mine, and I am his"* (2:16), the first form of the Song's
+belonging formula, and with a summons of her own, *"turn, my beloved"* (2:17). Whether *turn* calls
+him back or sends him off is left open. In this unit, as in 2:7, the woman's last words set the
+terms. Source: stored WEB Song of Solomon 2:8–17; feminine and masculine forms read from Sefaria's
+*Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -50,12 +61,15 @@ Solomon 1:9–2:7.
   tells of her brothers' anger and her vineyard work, and seeks the shepherd-beloved at noon.
 - Song of Solomon 1:9–2:7 — praised and praising in turn; faint with love in his embrace; lays
   the first adjuration on the daughters of Jerusalem.
+- Song of Solomon 2:8–17 — hears him coming, reports his spring invitation, is called his dove,
+  says *"My beloved is mine, and I am his"*, and sends him to the mountains of Bether.
 
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
 - [[Dark and Lovely]] — Song of Solomon 1:5–8.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
+- [[Rise Up, My Love]] — Song of Solomon 2:8–17.
 
 ## Related people
 
@@ -72,7 +86,9 @@ Solomon 1:9–2:7.
 - [[Joy and Enjoyment]] — love valued above wine.
 - [[Names and Naming]] — the beloved's name compared to poured oil.
 - [[Praise and Song]] — affirmation of love in the opening song.
-- [[Seeing and Being Seen]] — answers the onlookers' stare (1:5–6).
+- [[Seeing and Being Seen]] — answers the onlookers' stare (1:5–6); *"Let me see your face"*,
+  said to her (2:14).
 - [[Brotherhood]] — under her brothers' anger (1:6).
 - [[Work]] — keeper of vineyards and grazer of young goats (1:6, 8).
 - [[Oaths and Vows]] — *"I adjure you"* (2:7).
+- [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] — her belonging formula (2:16).

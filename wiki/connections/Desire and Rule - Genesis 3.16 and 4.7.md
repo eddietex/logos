@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[The Fall]] — Genesis 3:16
 - [[Cain and Abel]] — Genesis 4:7
+- Song of Solomon 7:10 *(stored WEB, not yet ingested)* — the third *tešûqâ*, set beside the Song's
+  belonging formula on [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]]
 
 ## Analysis
 

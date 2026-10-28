@@ -563,7 +563,22 @@ goats of her own to graze (1:7–8). See
 
 See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:5–8; Proverbs 24:30–34.
 
+### The little foxes — Song of Solomon 2:15–16
+
+*"Catch for us the foxes, the little foxes that plunder the vineyards; for our vineyards are in
+blossom"* (2:15). The vineyards of 1:6 were a burden laid on the woman; here they are *"our
+vineyards"*, shared, and worth guarding because they are in flower. The beloved is still pictured
+at a shepherd's work: *"He browses among the lilies"* (2:16). The WEB's *"the time of the singing"*
+(2:12) renders *zāmîr*, from a root also used for pruning vines (Leviticus 25:3–4; Hebrew read from
+Sefaria's *Miqra according to the Masorah*), so the season may be named for vineyard work. The
+passage page records both readings. See
+[[The Vineyard Gone to Thorns - Proverbs 24.30-34, Genesis 3.18, and Isaiah 5.1-7]].
+
+See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17; Leviticus 25:3–4 checked at bible-api.com (`translation=web`).
+
 ## Key passages
+
+- [[Rise Up, My Love]] — Song of Solomon 2:15–16; vineyards in blossom guarded from foxes, and the beloved browsing among the lilies.
 
 - [[Dark and Lovely]] — Song of Solomon 1:6–8; forced vineyard work and grazing at noon.
 

@@ -18804,3 +18804,51 @@ according to the Masorah*; every source-language statement names that edition wh
 made. `scripts/link-check.sh` passed with no wrapped or unexpected dangling links and 60
 expected unstarted-book targets; `git diff --check` passed. No deliberately dangling target
 remains.
+
+## [2026-10-28] ingest | Song of Solomon 2.8-17 — Rise Up, My Love
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 2:8–17 as planned. No boundary was
+redrawn: 2:8 opens with *"The voice of my beloved!"*, and 3:1 starts a night search. The raw text
+was already stored, and no raw file, controller file, or workflow instruction was changed. The
+discussion is written into the passage summary and notes.
+
+**Interpretive decisions.** Speakers follow the text's own report (*"My beloved spoke, and said
+to me"*, 2:10) and the Hebrew suffixes: feminine *marʾayiḵ*, *qôlēḵ* in 2:14 (his voice to her),
+masculine *sōḇ*, *dəmēh-ləḵā* in 2:17 (hers to him); the plural voice of 2:15 is left open. The
+roe and young deer are noted as the animals of the 2:7 oath, and 8:14's *"gazelle or a young
+stag"* as the same Hebrew pair in different English. *Zāmîr* (2:12) is given both as *singing*
+(WEB) and *pruning* (the *z-m-r* of Leviticus 25:3–4 and Isaiah 5:6). *"Until the day is cool"*
+(*until the day breathes*) is left open between evening and dawn, and *turn* between returning and
+going. *Bether* is kept as the WEB's proper name with the *b-t-r* (*cut in two*) reading of Genesis
+15:10 recorded; [[Bether]] gets a place page after the [[Kedar]]/[[En Gedi]]/[[Sharon]] precedent.
+The feminine *ûləḵî-lāḵ* (2:10, 13) is recorded beside the masculine *lek-ləkā* pair without
+claiming allusion, and the Leave Your Country page now says its "nowhere else" concerns the
+masculine form. The window scene of 2:9 is listed on Through the Window as a contrast, because
+its lattice noun and verbs differ. No spring/seasons theme page was created. The new connection
+does not adopt the reading of Song 7:10 as a reversal of Genesis 3:16; that waits for Song 7.
+
+**Created (3 content pages):** [[Rise Up, My Love]], [[Bether]],
+[[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]].
+
+**Revised (11 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); The Woman and The Man (Song of Solomon); three themes (Love, Seeing and Being
+Seen, Work); five connections (The Dove and the Spirit, Through the Window, Leave Your Country,
+The Vineyard Gone to Thorns, Desire and Rule).
+
+**Indexes and totals.** Nine indexes were revised: books (4 / 16), main dashboard, places,
+themes, People F-M and N-Z, Connections D-H, I-N and T-Z. Totals by frontmatter type:
+215 passages, 190 people, 95 places, 85 themes, 521 connections; 6 books started, 5 complete. With
+this log, 24 wiki files are created or revised: 3 new content pages, 11 revised content pages,
+9 indexes, and the log.
+
+**Sources and validation.** Song 2:8–17 was copied mechanically from the stored WEB. These were
+read in the stored WEB: Song 3:1; 4:6; 6:3; 7:10; 8:14; Genesis 3:16; 4:7; 12:1; 15:10; Exodus
+6:7. Leviticus 25:3–4 was checked as a single-reference lookup at bible-api.com
+(`translation=web`); Leviticus was not fetched. Hebrew of Song 2:8–17; 4:6; 6:3; 7:11 (English
+7:10); 8:14; Genesis 3:16; 4:7; 12:1; 15:10; Leviticus 25:3–4; and Isaiah 5:6 was read from
+Sefaria's *Miqra according to the Masorah*; every source-language statement names that edition
+where it is made. The three-occurrence count for *təšûqâ* is stated on the new page as a standard
+observation not checked by a full concordance search. `scripts/link-check.sh` passed with no
+wrapped or unexpected dangling links and 60 expected unstarted-book targets; `git diff --check`
+passed. No deliberately dangling target remains.

@@ -16,6 +16,8 @@ tags: [connection]
 - **Genesis 22:3** — *"Abraham rose early in the morning, and saddled his donkey."*
 - **Hebrews 11:8, 17–19** — the two obediences, treated as one argument
 - **Genesis Rabbah 39:9; 55:7** — the rabbinic pairing of the first trial and the last
+- Compare **Song of Solomon 2:10, 13** — [[Rise Up, My Love]]: *"Rise up, my love, my beautiful one,
+  and come away"*, ending *ûləḵî-lāḵ*, the feminine form of the idiom
 
 ## Analysis
 
@@ -71,6 +73,14 @@ concluding that God is able to raise up even from the dead"* (11:17–19). What 
 exactly what the parallel structure does: in both cases the destination is unknown and the man goes.
 Where Genesis supplies silence, Hebrews supplies a reasoning to fill it — *"concluding that"* — which
 is a reading of the gap rather than a report of it.
+
+**A feminine counterpart, outside Genesis.** The claim above concerns the masculine *lek-ləkā*.
+Song of Solomon 2:10 and 2:13 end the beloved's invitation with the feminine form of the same
+construction, *ûləḵî-lāḵ*, *and go, for yourself* (Sefaria, *Miqra according to the Masorah*,
+2026-10-28). It is also a call to leave and go, and some readers hear Abram's call in it. The wiki
+does not count it as part of this pair: the person and setting differ, nothing else in the Song
+points to Abram, and an ethical dative after *go* is ordinary Hebrew. It is noted so that the
+"nowhere else" above is read as a claim about the masculine phrase.
 
 ## Significance
 

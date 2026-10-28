@@ -320,7 +320,21 @@ love is treated as something with its own time.
 
 See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
 
+### My beloved is mine — Song of Solomon 2:8–17
+
+Right after the refrain that love must not be awakened before it desires, the beloved arrives with
+a reason that the time has come: winter is past, and the land is in flower. *"Rise up, my love, my
+beautiful one, and come away"* (2:10, 13). Love here is invitation, and it is answered not with an
+act but with a statement of belonging: *"My beloved is mine, and I am his"* (2:16). The formula
+returns in a different order at 6:3 and with *"His desire is toward me"* at 7:10; see
+[[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]]. Whether the spring answers the
+refrain of 2:7 is not stated, and the wiki does not join the two units into a story.
+
+See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17; comparison sources are identified on the passage page.
+
 ## Key passages
+
+- [[Rise Up, My Love]] — Song of Solomon 2:8–17; the spring invitation and *"My beloved is mine, and I am his"*.
 
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7; mutual praise, faint with love, and the charge not to awaken love until it so desires.
 

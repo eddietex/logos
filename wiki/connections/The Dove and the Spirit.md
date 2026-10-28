@@ -13,7 +13,9 @@ tags: [connection]
   ([[The Waters Recede]])
 - Leviticus 5:7; 12:8 — the dove as the offering of those who cannot afford a lamb
 - Song of Solomon 1:15 — *"Your eyes are doves"* ([[Delight and the Unawakened Love]])
-- Song of Solomon 2:14; 5:2; 6:9 — *"my dove"*, the beloved
+- Song of Solomon 2:14 — *"My dove in the clefts of the rock … Let me see your face"*
+  ([[Rise Up, My Love]]); 2:12 has the turtledove's voice as a sign of spring
+- Song of Solomon 5:2; 6:9 — *"my dove"*, the beloved
 - Hosea 7:11; 11:11 — Israel as a silly dove, and as doves brought home trembling
 - Psalm 74:19 — *"Don't deliver the soul of your dove to wild beasts"*
 - Matthew 3:16; Mark 1:10; Luke 3:22; John 1:32 — the Spirit descending *"like a dove"* on Jesus as

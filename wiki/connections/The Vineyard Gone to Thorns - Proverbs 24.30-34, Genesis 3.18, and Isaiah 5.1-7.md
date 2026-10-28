@@ -26,6 +26,9 @@ tags: [connection]
   be burned."* (WEB verified at bible-api.com)
 - Compare [[Dark and Lovely]] — **Song of Solomon 1:6** — *"They made me keeper of the vineyards.
   I haven't kept my own vineyard."* An unkept vineyard with no thorns and no sluggard.
+- Compare [[Rise Up, My Love]] — **Song of Solomon 2:15** — *"Catch for us the foxes, the little
+  foxes that plunder the vineyards; for our vineyards are in blossom."* A vineyard guarded, not
+  neglected.
 
 ## Analysis
 
@@ -63,6 +66,13 @@ labor, not sloth, and no thorns are mentioned. The comparison is a caution again
 unkept field in Scripture as the sluggard's. Whether *"my own vineyard"* is also a figure for the
 woman herself is debated and is not settled in that unit. See [[Work]].
 
+**A vineyard in blossom, and something small getting in.** Song 2:15 adds a different threat. The
+danger is not thorns from neglect or a wall broken in judgment, but *"the little foxes"* that spoil
+vineyards in blossom, so someone is asked to catch them. The vineyards there are *"our
+vineyards"*, worth protecting because they are flowering. Isaiah's *"It won't be pruned"* (5:6) uses
+*yizzāmēr*, from the *z-m-r* root that may also stand behind the Song's *"time of the singing"*
+(2:12; Hebrew read from Sefaria). That shared root is a lexical note, not a claim of allusion.
+
 ## Significance
 
 Across these passages, thorns are what the ground produces when no fruit is produced: the curse's
@@ -73,7 +83,7 @@ plainness is the point of the wisdom tradition — the same truth Isaiah applies
 read off a neighbour's field. See [[Work]], [[Curse]], and
 [[Go to the Ant - Proverbs 6.6-11, 24.30-34, and 30.25]].
 
-Sources: Proverbs 15:19; 24:30–31, Genesis 3:17–18, Job 31:40, and Song of Solomon 1:6 copied from the stored WEB. Isaiah
+Sources: Proverbs 15:19; 24:30–31, Genesis 3:17–18, Job 31:40, and Song of Solomon 1:6; 2:12, 15 copied from the stored WEB. Isaiah
 5:1–7 and Hebrews 6:7–8 verified at bible-api.com (`translation=web`) on 2026-10-26; neither book was
 fetched. Hebrew of Genesis 3:18, Proverbs 15:19, 24:31, and Isaiah 5:5–6 read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-26. The botanical identity of the plant words is uncertain and

@@ -15,6 +15,10 @@ tags: [connection]
 - **Judges 5:28** *(not yet ingested; WEB verified)* — *"Through the window she looked out, and
   cried: Sisera's mother looked through the lattice"* (*bəʿaḏ haḥallôn nišqəp̄â … bəʿaḏ hāʾešnāḇ*)
 
+- Compare **Song of Solomon 2:9** — [[Rise Up, My Love]]: *"Behold, he stands behind our wall! He
+  looks in at the windows. He glances through the lattice."* (*mašgîaḥ min-haḥallōnôt mēṣîṣ
+  min-haḥărakkîm*)
+
 ## Analysis
 
 **The same verb, the same preposition, the same nouns.** All three use *šāqap̄*, *to look down* or
@@ -42,6 +46,13 @@ one that is not his, so that his own will not end the same way. The wiki does no
 writers had these pairings in mind. It records that the window, in Hebrew narrative, is where a
 person stands to see what the street does not show.
 
+**A watcher outside, looking in.** Song of Solomon 2:9 has a window and a lattice, but not this
+scene's vocabulary. The window noun is the same, *ḥallôn*, but the lattice is *ḥărakkîm*, not
+*ʾešnāḇ*, and the verbs are *mašgîaḥ* and *mēṣîṣ*, not *šāqap̄* (Sefaria, *Miqra according to the
+Masorah*, 2026-10-28). The direction is reversed: the beloved stands outside the wall and looks in,
+and what he wants is the woman to come out (2:10). The window there is a place of approach, not of
+surveillance, and is listed as a contrast, not a fourth member of the stock scene.
+
 ## Significance
 
 The scene gives [[Seeing and Being Seen]] a human watcher in place of God. Proverbs 5:21 had said
@@ -49,6 +60,7 @@ The scene gives [[Seeing and Being Seen]] a human watcher in place of God. Prove
 the son is invited to stand at the window with him.
 
 **Sources:** Proverbs 5:21; 7:6–7, 27 and Genesis 26:8–11 checked in the stored WEB; Judges 5:28
-verified WEB at bible-api.com, 2026-10-25, not stored. Judges 5:24–27, 29–30 cited by reference,
+verified WEB at bible-api.com, 2026-10-25, not stored. Song of Solomon 2:9 copied from the stored
+WEB. Judges 5:24–27, 29–30 cited by reference,
 not quoted. Hebrew of Proverbs 7:6, Genesis 26:8, and Judges 5:28 read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.

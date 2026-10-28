@@ -37,6 +37,15 @@ fruit she enjoys (1:13–14; 2:3). He brought her to the banquet hall, and his l
 under her head (2:4–6). A king sits at his table in 1:12. As in 1:4, whether that king is the
 beloved is not stated. Source: stored WEB Song of Solomon 1:9–2:7.
 
+In [[Rise Up, My Love]] he is first heard, then seen. He comes *"leaping on the mountains, skipping on
+the hills"*, like a roe or a young deer (2:8–9), the animal of the oath in 2:7. He stands outside
+*"our wall"* and looks in through the windows and the lattice. His speech is reported by the woman:
+he calls her out twice, giving the spring as his reason (2:10–13). The voice that calls her *"my
+dove"* and asks to see her face and hear her voice (2:14) is his by the feminine suffixes (Sefaria,
+*Miqra according to the Masorah*). She says *"He browses among the lilies"* (2:16), which keeps the
+shepherd image of 1:7, and sends him to the mountains of Bether (2:17). No king appears in this unit.
+Source: stored WEB Song of Solomon 2:8–17.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -45,12 +54,15 @@ beloved is not stated. Source: stored WEB Song of Solomon 1:9–2:7.
   who answers her.
 - Song of Solomon 1:9–2:7 — praises her and is praised; brings her to the banquet hall and
   embraces her.
+- Song of Solomon 2:8–17 — comes over the hills, looks through the lattice, calls her out in
+  spring, and is told to turn and be like a roe on the mountains of Bether.
 
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
 - [[Dark and Lovely]] — Song of Solomon 1:7–8.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
+- [[Rise Up, My Love]] — Song of Solomon 2:8–17.
 
 ## Related people
 
@@ -65,5 +77,6 @@ beloved is not stated. Source: stored WEB Song of Solomon 1:9–2:7.
 - [[Joy and Enjoyment]] — love valued above wine.
 - [[Names and Naming]] — the beloved's name compared to poured oil.
 - [[Praise and Song]] — affirmation of love in the opening song.
-- [[Work]] — pictured as a shepherd with a flock (1:7).
-- [[Seeing and Being Seen]] — *"Behold, you are beautiful"*, said to her and returned (1:15–16).
+- [[Work]] — pictured as a shepherd with a flock (1:7); *"He browses among the lilies"* (2:16).
+- [[Seeing and Being Seen]] — *"Behold, you are beautiful"*, said to her and returned (1:15–16);
+  looks in through the lattice and asks to see her face (2:9, 14).

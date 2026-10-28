@@ -13,7 +13,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 |---|---|---|
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
-| [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 |
+| [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
 | [[The Diseases of Egypt - The Plagues in Deuteronomy 28]] | allusion | Exodus 9:8–11 · Exodus 10:12–15, 21–22 · Deuteronomy 28:27, 29, 38, 60, 68 · Job 2:7 |
@@ -28,7 +28,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Dog Returns to His Vomit - Proverbs 26.11 and 2 Peter 2.22]] | quotation | [[Answer a Fool]] (Proverbs 26:9, 11–12) · 2 Peter 2:22 · [[The Glory of Kings]] (Proverbs 25:16) |
 | [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
 | [[The Door and the Destroyer - Lot's House and the Passover Night]] | thread | Genesis 19:1–29 · Exodus 12:1–28 · Genesis 19:14, 16 · Exodus 12:29–39 |
-| [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 · [[Delight and the Unawakened Love]] (Song of Solomon 1:15) |
+| [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 · [[Delight and the Unawakened Love]] (Song of Solomon 1:15) · [[Rise Up, My Love]] (Song of Solomon 2:12, 14) |
 | [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 · Exodus 14:11 |
 | [[Drawn Out of the Water - The Name of Moses]] | wordplay | Exodus 2:10 · Exodus 1:11 · 2 Samuel 22:17 · Psalm 18:16 · Isaiah 63:11 |
 | [[The Drunkenness of Noah and the Drunkenness of Lot]] | parallel | Genesis 9:20–27 · Genesis 19:30–38 · Genesis 3:1–24 · Deuteronomy 23:3–6 · [[Do Not Envy Sinners]] (Proverbs 23:33–35) |

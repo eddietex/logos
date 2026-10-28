@@ -215,7 +215,21 @@ burden in the previous unit has become a gift.
 
 See [[Delight and the Unawakened Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
 
+### Let me see your face — Song of Solomon 2:9, 14
+
+The beloved stands outside the wall and *"looks in at the windows"* and *"glances through the
+lattice"* (2:9). Elsewhere in the wiki a watcher at a window sees what others do not know is seen;
+see [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]]. Here the watcher is
+outside, and what he wants is not to observe but to be met. He asks the hidden dove, *"Let me see
+your face. Let me hear your voice"* (2:14). Being seen is asked for, not taken. The Hebrew for
+*face* here is *marʾayiḵ*, *your appearance*, from the root *rʾh*, *to see* (Sefaria, *Miqra
+according to the Masorah*).
+
+See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17.
+
 ## Key passages
+
+- [[Rise Up, My Love]] — Song of Solomon 2:9, 14; the beloved at the lattice, and *"Let me see your face"*.
 
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:15–16; *"Behold, you are beautiful"*, said and returned.
 
