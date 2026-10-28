@@ -52,6 +52,14 @@ sought through the city, asked about, and then found, held, and brought into her
 Every verb that touches him is hers. Where he was is not said. Source: stored WEB Song of Solomon
 3:1–5.
 
+In [[Solomon's Wedding Procession]] the man is not named, not addressed, and does not speak.
+[[Solomon]] is named three times: his carriage comes up from the wilderness with sixty armed men, and
+the daughters of Zion are told to see him crowned *"in the day of his weddings"* (3:7, 9, 11). The man
+has been called *king* (1:4, 12) and will call the woman *"my bride"* in the next units (4:8–5:1, not
+yet ingested), so many readers take the procession as his wedding, with the man as Solomon or in the
+role of Solomon. Others read the king's splendor as a contrast with the shepherd of 1:7. This page
+does not identify the man with Solomon; the unit never uses either lover's voice. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -64,6 +72,8 @@ Every verb that touches him is hers. Where he was is not said. Source: stored WE
   spring, and is told to turn and be like a roe on the mountains of Bether.
 - Song of Solomon 3:1–4 — absent at night, sought through the city, found, held, and brought
   into her mother's house; silent throughout.
+- Song of Solomon 3:6–11 — not clearly present. A procession names King Solomon on his wedding
+  day; whether that is this man is the open question of the unit.
 
 ## Appears in
 
@@ -72,6 +82,8 @@ Every verb that touches him is hers. Where he was is not said. Source: stored WE
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
 - [[Rise Up, My Love]] — Song of Solomon 2:8–17.
 - [[Seeking Him by Night]] — Song of Solomon 3:1–4.
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; not clearly present; the identification
+  with the bridegroom king is open.
 
 ## Related people
 

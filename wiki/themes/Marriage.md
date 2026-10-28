@@ -274,7 +274,22 @@ against death. See
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The day of his wedding — Song of Solomon 3:6–11
+
+The Song's only explicit wedding. The daughters of Zion are told to see king Solomon *"with the crown
+with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his
+heart"* (3:11). The Hebrew is singular, *bǝyôm ḥăṯunnāṯô*, *the day of his wedding*, from the root of
+*ḥāṯān*, *bridegroom* (Sefaria). The wedding is seen from outside, as a public procession with a
+carriage, an armed escort, and a crown; the bride is never named or seen. Whether this is the
+lovers' wedding is open. Psalm 45 is the nearest biblical parallel; see
+[[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]].
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; a king's wedding procession and crown, *"the day of his weddings"*.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; joy with the wife one loves as a portion.
 

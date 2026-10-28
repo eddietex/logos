@@ -201,10 +201,34 @@ Preacher's labor. Readers who identify the Preacher with Solomon think of Rehobo
 stored; paraphrased). Ecclesiastes names neither king nor heir. This is an attribution comparison,
 not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 
+### His carriage and his wedding — Song of Solomon 3:6–11
+
+[[Solomon's Wedding Procession]] is the first unit in which Solomon is present in a scene, not only
+named in a heading or an image. His carriage comes up from the wilderness, perfumed with myrrh and
+frankincense, with sixty of *"the mighty men of Israel"* around it, swords on their thighs *"because
+of fear in the night"* (3:6–8). *"King Solomon made himself a carriage of the wood of Lebanon"*, with
+silver pillars, a gold base, and a purple seat (3:9–10). The daughters of Zion are told to see him
+*"with the crown with which his mother has crowned him, in the day of his weddings"* (3:11). He does
+not speak.
+
+The wood of [[Lebanon]] recalls 1 Kings' account of his building: *"command that cedar trees be cut
+for me out of Lebanon"* (1 Kings 5:6), and *"the House of the Forest of Lebanon"* (7:2). His mother is
+not named in the Song; 1 Kings 2:19 has him set a throne for Bathsheba, *"the king's mother"*, at his
+right hand. No narrative has her crown him, and at his accession *"Zadok the priest … anointed
+Solomon"* (1 Kings 1:39). So the crown of 3:11 is most simply a wedding crown. The Song names no
+bride, and the wiki does not identify her with any wife 1 Kings mentions. Nor does it identify
+Solomon with the Song's male lover; see [[The Man (Song of Solomon)]].
+
+Source: stored WEB Song of Solomon 3:6–11. 1 Kings 1:39; 2:19; 5:6; 7:2 checked at bible-api.com
+(`translation=web`), 2026-10-28; Kings not fetched. Hebrew from Sefaria's *Miqra according to the
+Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:1 — named in the heading; literary attribution, not a dated event. [[Love Better Than Wine]]
 - Song of Solomon 1:5 — *"Solomon's curtains"* as a comparison for the woman's beauty. [[Dark and Lovely]]
+- Song of Solomon 3:6–11 — his carriage of Lebanon wood comes up with sixty mighty men; crowned by his
+  mother on his wedding day. [[Solomon's Wedding Procession]]
 
 - 2 Samuel 12:24–25 *(not yet ingested)* — born to David and Bathsheba; named Jedidiah through Nathan.
 - 1 Kings 3:5–15 *(not yet ingested)* — asks for an understanding heart, and is given wisdom.
@@ -217,6 +241,9 @@ not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1; named attribution, not an identified speaking part.
 - [[Dark and Lovely]] — Song of Solomon 1:5; named in a comparison, *"like Solomon's curtains"*.
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; present for the first time: his carriage,
+  his guard, and his wedding crown. Silent.
+- [[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]]
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1–11; attribution comparison only, not named.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12–18; attribution comparison only, not named.
@@ -277,6 +304,8 @@ not an appearance. Source: stored WEB Ecclesiastes 2:12, 18–19.
 ## Themes associated
 
 - [[Wisdom]] — asked for, given, and made his reputation
-- [[Kingship and Empire]] — wisdom as the king's competence: a heart *"to judge your people"*
+- [[Kingship and Empire]] — wisdom as the king's competence: a heart *"to judge your people"*; the
+  royal display of his carriage and crown (Song 3:6–11)
+- [[Marriage]] — *"the day of his weddings"* (Song 3:11)
 - [[Folly]] — the warning case of his old age (1 Kings 11:4)
 - [[Idolatry]] — his heart turned *"after other gods"*

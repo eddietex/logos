@@ -48,7 +48,7 @@ canonical order below. Edit this list to reprioritize.
 - [ ] [[Psalms]] — not-started
 - [x] [[Proverbs]] — complete (43 / 43 pericopes)
 - [x] [[Ecclesiastes]] — complete (24 / 24 pericopes)
-- [ ] [[Song of Solomon]] — in-progress (5 / 16 pericopes)
+- [ ] [[Song of Solomon]] — in-progress (6 / 16 pericopes)
 
 ### Major Prophets
 

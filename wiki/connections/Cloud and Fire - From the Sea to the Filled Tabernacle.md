@@ -55,3 +55,7 @@ land; waiting as well as travelling follows the sign. [[Mediation and Advocacy]]
 necessary even when Moses’ completed work has become the place he cannot immediately enter.
 See [[The Tent Outside the Camp and the Promised Dwelling]] and
 [[I Will Be With You - The Promise of Presence]].
+
+The Song's procession *"from the wilderness like pillars of smoke"* (Song of Solomon 3:6) is
+sometimes read as an echo of the wilderness pillar. The Hebrew word for *pillars* there is not the
+Exodus word; see [[Pillars of Smoke - Song of Solomon 3.6, Joel 2.30, and the Wilderness Pillar]].

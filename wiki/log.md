@@ -18900,3 +18900,54 @@ and Ruth 1:8 was read from Sefaria's *Miqra according to the Masorah*; every sou
 statement names that edition where it is made. `scripts/link-check.sh` passed with no wrapped or
 unexpected dangling links and 60 expected unstarted-book targets; `git diff --check` passed. No
 deliberately dangling target remains.
+
+## [2026-10-28] ingest | Song of Solomon 3.6-11 — Solomon's Wedding Procession
+
+Unattended `/ingest auto` by Claude (Opus 5.5); exactly one pericope. Song of Solomon was the
+only `in-progress` book, and its first unchecked box was 3:6–11 as planned. No boundary was
+redrawn: 3:6 opens a new scene with *"Who is this"*, and 4:1 begins the man's praise. Sefaria's
+Masoretic section marks fall after 3:5, 3:8, and 3:11; the wiki keeps 3:6–8 and 3:9–11 together
+because the second half describes the carriage the first announces. The raw text was already
+stored, and no raw file, controller file, or workflow instruction was changed. The discussion is
+written into the passage summary and notes.
+
+**Interpretive decisions.** The feminine *mî zōʾṯ* of 3:6 is left open between the carriage
+(*miṭṭâ*, feminine) and a woman, with 8:5's identical opening noted. *Miṭṭâ* (3:7) and *ʾappiryôn*
+(3:9) are both rendered *carriage* in the WEB; the page reads them as one object without deciding.
+*"Paved with love"* (3:10) is kept as *ʾahăḇâ*, with the gift and decoration readings left open and
+the emendation reported as an emendation. The *daughters of Zion* (3:11) are filed under
+[[The Daughters of Jerusalem]] as probably the same group, marked as a reading. The crown of 3:11 is
+read most simply as a wedding crown, since Kings records an anointing by Zadok and no crowning by
+Bathsheba; the Song does not name his mother, and Bathsheba gets no page until Samuel. The WEB's
+*"weddings"* is recorded as a singular in the Hebrew. The man is not identified with Solomon, and the
+woman is not identified as the bride; whether this is the lovers' wedding is left open. The shared
+*ʾ-ḥ-z* (3:4, 8) and *ballêlôṯ* (3:1, 8) are noted as repetitions, not plot. The *l-b-n* wordplay
+(frankincense, Lebanon, moon) is noted without a claim of intent. Rarity claims for *tîmǝrôṯ*,
+*ʾappiryôn*, and *ḥăṯunnâ* and the *tāmār* etymology are stated as standard observations not
+verified by a concordance search. Lebanon and Zion get place pages; the sixty mighty men, the
+wilderness, and Israel as a place do not.
+
+**Created (6 content pages):** [[Solomon's Wedding Procession]], [[Lebanon]], [[Zion]],
+[[Who Is This Coming Up from the Wilderness - Song of Solomon 3.6, 6.10, and 8.5]],
+[[Pillars of Smoke - Song of Solomon 3.6, Joel 2.30, and the Wilderness Pillar]],
+[[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]].
+
+**Revised (16 content pages):** the [[Song of Solomon]] book page (box checked; overview, themes,
+people, places); Solomon, The Woman, The Man, and The Daughters of Jerusalem; [[Jerusalem]]; eight
+themes (Marriage, Kingship and Empire, Joy and Enjoyment, War, Wealth and Possessions, Light and
+Darkness, Love, Seeing and Being Seen); two connections (Myrrh, Aloes, and Cinnamon; Cloud and Fire).
+
+**Indexes and totals.** Eleven indexes were revised: books (6 / 16), main dashboard, places, themes,
+People A-E, F-M and N-Z, Connections A-C, I-N, O-S and T-Z. Totals by frontmatter type:
+217 passages, 190 people, 97 places, 85 themes, 527 connections; 6 books started, 5 complete. With
+this log, 34 wiki files are created or revised: 6 new content pages, 16 revised content pages,
+11 indexes, and the log.
+
+**Sources and validation.** Song 3:6–11 was copied mechanically from the stored WEB. These were read
+in the stored WEB: Song 1:1, 4, 5, 7, 12; 3:1, 4; 4:1, 8, 11, 15; 5:15; 6:4–10; 7:4; 8:5;
+Exodus 13:21; 19:18; 26:1, 31; 30:1, 23, 34; Ecclesiastes 2:4–8. These were checked as
+single-reference lookups at bible-api.com (`translation=web`) without fetching the books: Psalm 45;
+Joel 2:30; 2 Samuel 5:7; 12:24; 23:8; 1 Kings 1:39; 2:19; 5:6; 7:2. Hebrew of Song 3:6–11; 4:8;
+6:10; 8:5; Exodus 13:21; 19:18; 30:1; Joel 3:3; 2 Samuel 23:8; and Psalm 45 was read from Sefaria's
+*Miqra according to the Masorah*; every source-language statement names that edition where it is
+made. Hebrews 1:8–9 is mentioned as a reading of Psalm 45 and is not quoted or verified.

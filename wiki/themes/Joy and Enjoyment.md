@@ -198,7 +198,20 @@ followed at once by restraint in 2:7, so the Song does not set enjoyment against
 
 See [[Delight and the Unawakened Love]] and [[Wine, Oil, and the Joy of Love]]. Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
 
+### The gladness of his heart — Song of Solomon 3:11
+
+The wedding day is *"the day of the gladness of his heart"*, *bǝyôm śimḥaṯ libbô* (3:11; Sefaria).
+*Śimḥâ* is the ordinary word for joy; in the Song it is the first time joy is tied to a day and an
+event. Psalm 45:15 uses the same noun of the bride's procession, *"With gladness and rejoicing they
+shall be led"* (bible-api.com WEB; Hebrew 45:16, *biśmāḥōṯ*). See
+[[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]].
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:11; *"the day of the gladness of his heart"*.
 
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7; fragrance, fruit, and *"great delight"* in the beloved's shadow.
 

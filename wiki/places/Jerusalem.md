@@ -25,8 +25,12 @@ In [[Dark and Lovely]] the city's name first appears in the Song of Solomon, in 
 The address recurs in the refrain of 2:7, and again word for word in [[Seeking Him by Night]] (3:5).
 That unit's search runs through *"the city"* (3:2–3), which is not named; the wiki does not identify
 it with Jerusalem on the strength of the address.
+In [[Solomon's Wedding Procession]] the daughters of Jerusalem are named in 3:10, and then the
+*"daughters of Zion"* are summoned to see the king (3:11). [[Zion]] there stands for Jerusalem, as in
+later poetry. The procession comes up from the wilderness, but the unit does not say it arrives in
+Jerusalem, and the wiki does not supply it.
 
-Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5; 2:7; 3:1–5, and Genesis 14:18; the earlier identification discussion
+Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5; 2:7; 3:1–11, and Genesis 14:18; the earlier identification discussion
 and its sources remain on [[Salem]].
 
 ## Appears in
@@ -36,11 +40,14 @@ and its sources remain on [[Salem]].
 - [[The Trial of Pleasure]] — Ecclesiastes 2:7, 9; measure of the Preacher's possessions and greatness.
 - [[Dark and Lovely]] — Song of Solomon 1:5; named in the address *"daughters of Jerusalem"*.
 - [[Seeking Him by Night]] — Song of Solomon 3:5; named in the refrain's address, not as the unnamed city of 3:2–3.
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:10–11; *"daughters of Jerusalem"*, with *"daughters of Zion"* in parallel.
 
 ## Related places
 
 - [[Salem]] — the earlier city-name associated with Jerusalem; see that page for the evidence.
 - [[Kedar]] — compared in the same verse that addresses Jerusalem's daughters (Song 1:5).
+- [[Zion]] — its hill, and its name in poetry; *"daughters of Zion"* beside *"daughters of Jerusalem"* (Song 3:10–11).
+- [[Lebanon]] — source of the timber for Solomon's buildings (1 Kings 5:6; 7:2) and his carriage (Song 3:9).
 
 ## Events here
 

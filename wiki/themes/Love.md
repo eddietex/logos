@@ -344,7 +344,20 @@ without finding; see [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]
 
 See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage page.
 
+### Paved with love — Song of Solomon 3:10
+
+The inside of Solomon's carriage is *"paved with love, from the daughters of Jerusalem"* (3:10). The
+Hebrew is *rāṣûp̄ ʾahăḇâ*, *inlaid with love* (Sefaria). It may mean that the daughters inlaid it as a
+gift of love, or that it is decorated with scenes of love; some scholars emend *ʾahăḇâ* to a word for
+a material, but the text as read says *love*. The word is the Song's usual one, used in the refrain
+of 2:7 and 3:5.
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:10; a carriage *"paved with love"*.
 
 - [[Seeking Him by Night]] — Song of Solomon 3:1–5; *"him whom my soul loves"*, sought, found, and held.
 

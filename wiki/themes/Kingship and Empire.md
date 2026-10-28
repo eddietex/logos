@@ -330,7 +330,21 @@ See [[Delight and the Unawakened Love]] and
 [[A Steed in Pharaoh's Chariots - Exodus 14-15, 1 Kings 10.28-29, and Song of Solomon 1.9]].
 Source: stored WEB Song of Solomon 1:9–2:7; comparison sources are identified on the passage page.
 
+### A king's carriage — Song of Solomon 3:6–11
+
+Royal splendor seen as a public display. *"King Solomon made himself a carriage of the wood of
+Lebanon"*, with silver pillars, a gold base, and a purple seat (3:9–10). Sixty of *"the mighty men of
+Israel"* surround it, armed against *"fear in the night"* (3:7–8), and the king is shown wearing the
+crown his mother gave him on his wedding day (3:11). The materials echo 1 Kings' account of his
+building with Lebanon timber (1 Kings 5:6; 7:2, checked at bible-api.com). The Song's earlier *king*
+(1:4, 12) was unnamed; here the king is Solomon by name.
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; Solomon's carriage, guard, and crown.
 
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9, 12; Pharaoh's chariots and the king at his table as love imagery.
 

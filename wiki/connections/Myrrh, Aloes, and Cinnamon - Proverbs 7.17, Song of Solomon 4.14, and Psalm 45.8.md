@@ -12,6 +12,8 @@ tags: [connection]
   aloes, and cinnamon"* (*mōr ʾăhālîm wəqinnāmôn*)
 - **Song of Solomon 1:13** — [[Delight and the Unawakened Love]]: *"My beloved is to me a sachet of
   myrrh, that lies between my breasts"* (*ṣərôr hammōr*)
+- **Song of Solomon 3:6** — [[Solomon's Wedding Procession]]: *"perfumed with myrrh and
+  frankincense, with all spices of the merchant"* (*mǝquṭṭereṯ mōr ûlǝḇônâ*)
 - **Song of Solomon 4:14** *(not yet ingested; WEB verified)* — *"spikenard and saffron, calamus and
   cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices"* (*qāneh
   wəqinnāmôn … mōr waʾăhālôṯ*)
@@ -47,6 +49,13 @@ woman's mouth. Her beloved is a sachet of myrrh worn between her breasts. Here t
 worn on the body, not spread on a bed, and the woman speaks of the man rather than a man of
 the woman. The Hebrew *mōr* there is read from the same Sefaria edition (2026-10-28).
 
+**Myrrh on a king's carriage.** At 3:6 myrrh and frankincense perfume Solomon's carriage as it
+comes up from the wilderness. The participle *mǝquṭṭereṯ* is from *q-ṭ-r*, the root of the word for
+incense, so the perfume is a fragrant smoke. Frankincense, *lǝḇônâ*, joins the Song's spices here
+for the first time. Psalm 45:8 puts myrrh on the king's own garments at his wedding; see
+[[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]]. Hebrew from Sefaria's *Miqra
+according to the Masorah*, 2026-10-28.
+
 ## Significance
 
 The spices give [[Love]] and [[Marriage]] a shared vocabulary across the wisdom and poetic books,
@@ -57,4 +66,4 @@ marriage. The genre is not one of prohibition of pleasure: the same perfumes are
 Solomon 4:10, 12, 14 (4:12 by reference) and Psalm 45:8 verified WEB at bible-api.com, 2026-10-25,
 not stored. Hebrew of Proverbs 7:17–18, Song of Solomon 4:10, 14, Psalm 45:9 (MT), and Exodus 30:23
 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. Song of Solomon 1:13 from the stored
-WEB, with its Hebrew read from the same edition, 2026-10-28.
+WEB, with its Hebrew read from the same edition, 2026-10-28. Song of Solomon 3:6 from the stored WEB, 2026-10-28.

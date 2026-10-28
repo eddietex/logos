@@ -29,19 +29,27 @@ the Hebrew identical letter for letter (3:5; Sefaria, *Miqra according to the Ma
 they do not answer, and again the oath follows a scene of the lovers together. They take no part
 in the night search itself; the city of 3:2–3 is unnamed and is not identified with Jerusalem.
 
+In [[Solomon's Wedding Procession]] they are named twice, under two names. The inside of Solomon's
+carriage is *"paved with love, from the daughters of Jerusalem"* (3:10). The phrase may mean they
+inlaid it as a gift of love, or that it was decorated with love by them; the passage page sets out
+the readings. Then *"daughters of Zion"* are summoned: *"Go out … and see king Solomon"* (3:11). The
+Hebrew command is a double feminine plural imperative, *ṣǝʾênâ ûrǝʾênâ* (Sefaria, *Miqra according
+to the Masorah*). *Daughters of Zion* appears only here in the Song. Because it stands in parallel
+with *daughters of Jerusalem* in the verse before, and [[Zion]] stands for Jerusalem in Hebrew poetry,
+this page treats the two as one group. That is a reading, not a statement of the text. For the first
+time they are not adjured but told to look; they are the audience of a public spectacle.
+
 Later stored verses, not yet ingested, repeat the refrain (8:4) and charge them to tell the beloved
 she is faint with love (5:8).
 They ask how her beloved is better than another (5:9). The woman names him to them as
-*"my friend"* (5:16). In 6:1 the same questioners offer to help seek him. Song 3:10–11
-mentions them in the procession, and 3:11 summons the *"daughters of Zion"* to see king
-Solomon. This page will record each passage as it is ingested and will not settle a
-question by anticipation.
+*"my friend"* (5:16). In 6:1 the same questioners offer to help seek him. This page will
+record each passage as it is ingested and will not settle a question by anticipation.
 
 The name connects them with [[Jerusalem]] without saying they live in the city in a
 particular scene. The Song makes them an audience and, at times, a chorus. It does not say
 whether they are friends, attendants, or rivals, and the page does not decide.
 
-Source: stored WEB Song of Solomon, read for the queue; only 1:1–3:5 is ingested.
+Source: stored WEB Song of Solomon, read for the queue; only 1:1–3:11 is ingested.
 
 ## Timeline / key events
 
@@ -50,21 +58,26 @@ Source: stored WEB Song of Solomon, read for the queue; only 1:1–3:5 is ingest
 - Song of Solomon 2:7 — put under oath in the first refrain not to awaken love.
   [[Delight and the Unawakened Love]]
 - Song of Solomon 3:5 — put under oath a second time, in the same words. [[Seeking Him by Night]]
+- Song of Solomon 3:10–11 — the source of the carriage's inlay of love; as *"daughters of Zion"*,
+  summoned to see king Solomon crowned. [[Solomon's Wedding Procession]]
 
 ## Appears in
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–8; addressed in 1:5, and possibly the voices of 1:8.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7; adjured in 2:7.
 - [[Seeking Him by Night]] — Song of Solomon 3:1–5; adjured again in 3:5.
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; named in 3:10, and, as the daughters
+  of Zion, summoned in 3:11.
 
 ## Related people
 
 - [[The Woman (Song of Solomon)]] — the speaker who addresses them.
 - [[The Man (Song of Solomon)]] — the beloved she will ask them about (5:8–6:1, un-ingested).
-- [[Solomon]] — named in the comparison of 1:5, and later summoned for them to see (3:11, un-ingested).
+- [[Solomon]] — named in the comparison of 1:5; the king they are summoned to see (3:11).
 
 ## Themes associated
 
-- [[Seeing and Being Seen]] — the onlookers whose stare the woman answers (1:6).
+- [[Seeing and Being Seen]] — the onlookers whose stare the woman answers (1:6); told to go out
+  and see the king (3:11).
 - [[Love]] — addressees of the Song's adjurations about love (2:7; 3:5; later refrains un-ingested).
 - [[Oaths and Vows]] — put under oath *"by the roes, or by the hinds of the field"* (2:7; 3:5).

@@ -49,8 +49,15 @@ watchmen, and then finds him, holds him, and brings him into her mother's house 
 for word (3:5). A second night search, at 5:2–8, repeats the watchmen and the failed seeking and
 ends without finding him.
 
+[[Solomon's Wedding Procession]] changes the scene completely. *"Who is this who comes up from the
+wilderness like pillars of smoke"* (3:6)? The answer is Solomon's carriage, perfumed, guarded by sixty
+armed men, and made of Lebanon wood, silver, gold, and purple (3:7–10). The daughters of Zion are told
+to see king Solomon, crowned by his mother *"in the day of his weddings"* (3:11). It is the first time
+Solomon is present in a scene and the Song's only named wedding, yet no bride is seen and neither
+lover speaks. Whether it is the lovers' wedding is left open.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–3:5 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–3:11 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -73,7 +80,7 @@ merge, or reorder them freely.
 - [x] [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7
 - [x] [[Rise Up, My Love]] — Song of Solomon 2:8–17
 - [x] [[Seeking Him by Night]] — Song of Solomon 3:1–5
-- [ ] Solomon's Wedding Procession — Song of Solomon 3:6–11
+- [x] [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11
 - [ ] You Are All Beautiful — Song of Solomon 4:1–7
 - [ ] A Garden Locked and Opened — Song of Solomon 4:8–5:1
 - [ ] I Opened, but He Had Gone — Song of Solomon 5:2–8
@@ -102,18 +109,22 @@ merge, or reorder them freely.
   the foxes in the vineyards, and *"My beloved is mine, and I am his"* (2:8–17).
 - [[Love]], [[City and Civilization]], [[Light and Darkness]], [[Oaths and Vows]] — the night
   search through the city for *"him whom my soul loves"*, and the second adjuration (3:1–5).
+- [[Marriage]], [[Kingship and Empire]], [[Joy and Enjoyment]], [[War]], [[Wealth and Possessions]]
+  — Solomon's carriage, armed escort, and wedding crown, *"in the day of the gladness of his heart"*
+  (3:6–11).
 
 ## Key people
 
-- [[Solomon]] — named in the heading (1:1).
+- [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
 - [[The Woman (Song of Solomon)]] — the opening desiring voice.
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
   shepherd in 1:7; the one who calls her out in spring (2:10–14).
 - [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
-  adjured at 2:7 and again at 3:5.
+  adjured at 2:7 and again at 3:5; as *"daughters of Zion"*, summoned to see the king (3:11).
 - Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
   (*"my mother's sons"*, 1:6) are unnamed and have no page. The watchmen who find her in the city
-  (3:3) and her mother, whose house she brings him into (3:4), have no page.
+  (3:3) and her mother, whose house she brings him into (3:4), have no page. Nor do Solomon's
+  sixty mighty men or his unnamed mother (3:7, 11).
 
 ## Key places
 
@@ -126,3 +137,6 @@ stated location; Jerusalem must not be supplied there from later verses.
 - [[En Gedi]] — its vineyards' henna, an image for the beloved (1:14).
 - [[Sharon]] — *"a rose of Sharon"*, the woman's self-description (2:1).
 - [[Bether]] — *"the mountains of Bether"* (2:17); possibly *cleft mountains* rather than a name.
+- [[Lebanon]] — the wood of Solomon's carriage (3:9); it recurs through chapters 4–7.
+- [[Zion]] — in *"daughters of Zion"* (3:11), in parallel with Jerusalem. The wilderness the
+  procession comes up from (3:6) is unnamed.

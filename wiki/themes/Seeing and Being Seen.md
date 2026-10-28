@@ -227,7 +227,19 @@ according to the Masorah*).
 
 See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17.
 
+### Go out and see — Song of Solomon 3:6–11
+
+The unit is a spectacle. It begins with something seen from far off, *"Who is this who comes up from
+the wilderness"* (3:6), and ends with a summons to look: *"Go out, you daughters of Zion, and see king
+Solomon"* (3:11), *ṣǝʾênâ ûrǝʾênâ* (Sefaria). Here it is the king who is seen, crowned on his wedding
+day; earlier the woman was the one looked at (1:6).
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6, 11; a procession seen from afar, and *"Go out … and see king Solomon"*.
 
 - [[Rise Up, My Love]] — Song of Solomon 2:9, 14; the beloved at the lattice, and *"Let me see your face"*.
 

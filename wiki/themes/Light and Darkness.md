@@ -277,7 +277,18 @@ day cooling and the shadows fleeing (2:17). The second night search, at 5:2–8,
 
 See [[Seeking Him by Night]]. Source: stored WEB Song of Solomon 3:1–5; comparison sources are identified on the passage page.
 
+### Fear in the night — Song of Solomon 3:8
+
+The armed escort of Solomon's carriage carries swords *"because of fear in the night"* (3:8). The
+Hebrew is *mippaḥaḏ ballêlôṯ* (Sefaria), the same plural *in the nights* as the woman's search in 3:1.
+Night in the Song is a time of absence and of danger. The danger is not named.
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:8; swords against *"fear in the night"*.
 
 - [[Seeking Him by Night]] — Song of Solomon 3:1–5; a search at night, without moral darkness.
 

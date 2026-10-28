@@ -64,6 +64,13 @@ came looking for her; here she goes looking for him, at night and in public. Whe
 dream is not said. Source: stored WEB Song of Solomon 3:1–5; Hebrew read from Sefaria's *Miqra
 according to the Masorah*.
 
+In [[Solomon's Wedding Procession]] she does not speak and is not named or described. The unit opens
+with *"Who is this who comes up from the wilderness"* (3:6), and *this* is feminine in the Hebrew,
+*mî zōʾṯ* (Sefaria). It may refer to the carriage, whose word is also feminine, or to a woman carried
+in it. The same question at 8:5 is asked of a woman *"leaning on her beloved"*. If the procession is
+a wedding of the lovers, she is the unseen bride; the unit itself names no bride. See
+[[Who Is This Coming Up from the Wilderness - Song of Solomon 3.6, 6.10, and 8.5]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from Sefaria's *Miqra according to the Masorah*.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -76,6 +83,8 @@ according to the Masorah*.
   says *"My beloved is mine, and I am his"*, and sends him to the mountains of Bether.
 - Song of Solomon 3:1–5 — seeks him at night through the city, asks the watchmen, finds him and
   brings him to her mother's house, and adjures the daughters a second time.
+- Song of Solomon 3:6–11 — perhaps the *"this"* coming up from the wilderness, perhaps the unseen
+  bride of Solomon's wedding procession; the unit does not say.
 
 ## Appears in
 
@@ -84,6 +93,8 @@ according to the Masorah*.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9–2:7.
 - [[Rise Up, My Love]] — Song of Solomon 2:8–17.
 - [[Seeking Him by Night]] — Song of Solomon 3:1–5.
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; possibly the one asked about in 3:6;
+  not named, and does not speak.
 
 ## Related people
 

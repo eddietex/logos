@@ -145,7 +145,21 @@ added observation that the deliverer is forgotten. See
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Swords at a wedding — Song of Solomon 3:7–8
+
+Sixty mighty men escort Solomon's carriage. *"They all handle the sword, and are expert in war. Every
+man has his sword on his thigh, because of fear in the night"* (3:8). The Hebrew *mǝlummǝḏê
+milḥāmâ*, *trained in war*, and *gibbōrîm*, *mighty men* (Sefaria), are the vocabulary of soldiers.
+Here they guard a wedding procession; the danger, *paḥaḏ ballêlôṯ*, *fear in the nights*, is not
+named. Psalm 45:3 gives the bridegroom king himself a sword on his thigh. See
+[[A Royal Wedding Song - Psalm 45 and Song of Solomon 3.6-11]].
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:7–8; an armed escort for a wedding.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; siege and weapons of war ranked beneath wisdom.
 

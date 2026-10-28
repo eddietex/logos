@@ -610,7 +610,20 @@ held, because no one knows what evil will come on the earth. See
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
 are identified on the passage and connection pages.
 
+### Silver, gold, and purple — Song of Solomon 3:6–10
+
+Solomon's carriage is a catalogue of costly materials: wood of Lebanon, silver pillars, a gold base,
+a purple seat (3:9–10), and *"all spices of the merchant"* (3:6). *ʾArgāmān*, purple (Sefaria), is the
+dye of the tabernacle's curtains and veil (Exodus 26:1, 31). Wealth here is display, and the Song
+does not judge it. The Preacher's catalogue of houses, gold, and *"the treasure of kings"*
+(Ecclesiastes 2:4–8) is the nearest comparison; see [[The Trial of Pleasure]].
+
+See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
+Sefaria's *Miqra according to the Masorah*.
+
 ## Key passages
+
+- [[Solomon's Wedding Procession]] — Song of Solomon 3:6–10; Lebanon wood, silver, gold, purple, and merchants' spices.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; bread sent on the waters and portions to seven or eight (11:1–2).
 
