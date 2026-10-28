@@ -98,6 +98,8 @@ not a named location; neither Jerusalem nor a specific sanctuary is asserted her
   beside enjoyment in labor from God's hand.
 - [[From Dust to Dust]] — Ecclesiastes 3:16–17 distinguishes observed injustice from
   the affirmed judgment of God; 8:12–14 brings those claims close together again.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:5–6; the work of God that cannot be found out (8:17)
+  becomes a reason for persistent work.
 
 ## Notes
 

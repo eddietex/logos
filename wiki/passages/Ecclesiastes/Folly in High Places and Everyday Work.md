@@ -142,6 +142,8 @@ are not identified with any known land or city.
   your own; 10:20 turns the warning upward, toward the king and the rich.
 - [[A Strong Tower]] — Proverbs 18:7, *"A fool’s mouth is his destruction, and his lips are a
   snare to his soul"*, beside the fool swallowed by his own lips (10:12).
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; the following unit. Its *prosper* (11:6) shares a
+  Hebrew root with *"skill brings success"* (10:10).
 
 ## Notes
 

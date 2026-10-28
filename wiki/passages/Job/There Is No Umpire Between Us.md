@@ -430,6 +430,7 @@ alongside the inequality.
   11:3), *passes by* and *who can hinder him* (9:11–12 → 11:10), the unlifted head (10:15 → 11:15),
   and the darkness (10:22 → 11:17).
 - [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]] — 10:1's *"bitterness of my soul"* beside Proverbs 14:10 in [[A Way That Seems Right]].
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:5, the bones in the womb, beside 10:11's *"knit me together with bones and sinews"*.
 
 ## Notes
 

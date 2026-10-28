@@ -11,6 +11,7 @@ tags: [connection]
 - [[Do Not Withhold Good]] — Proverbs 3:27–28.
 - [[Job's Oath of Innocence]] — Job 31:16–25.
 - 2 Corinthians 9:6–11 — WEB verified; not yet ingested.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–2.
 
 ## Analysis
 
@@ -36,6 +37,14 @@ Proverbs 11 as the source of that quotation or claim direct borrowing from Prove
 Sources: Proverbs 3:27–28; 11:17–18, 24–28 and Job 31:16–25 checked in stored WEB. Second
 Corinthians 9:6–11 checked through bible-api.com with `translation=web`, 2026-10-25; no unreached
 book was added to raw.
+
+**Ecclesiastes sends bread on the waters.** Ecclesiastes 11:1 commands *"Cast your bread on the
+waters; for you shall find it after many days"*, and 11:2, *"Give a portion to seven, yes, even
+to eight; for you don’t know what evil will be on the earth."* If these are read as generosity,
+they share Proverbs 11:24's paradox that giving does not end in loss. Their reason is different,
+though: not a promise that the giver will be refreshed, but ignorance of what disaster may come.
+They can also be read as advice to spread commercial risk, and the text does not decide between
+the readings. Source: stored WEB Ecclesiastes 11:1–2.
 
 ## Significance
 

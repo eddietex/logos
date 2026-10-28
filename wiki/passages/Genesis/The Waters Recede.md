@@ -327,6 +327,9 @@ view and can be named — which is itself the plot.
   pagans.
 - Ephesians 5:2 — Christ *"an offering and a sacrifice to God for a sweet-smelling fragrance"*.
 - 2 Peter 3:5–7 — the world that perished by water, and the present one *"reserved for fire"*.
+- [[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]] —
+  8:22's seedtime and harvest beside the command to sow morning and evening in
+  [[Cast Your Bread on the Waters]] (Ecclesiastes 11:6).
 
 ## Notes
 

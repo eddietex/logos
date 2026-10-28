@@ -225,7 +225,20 @@ See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### Clouds, tree, wind, and womb — Ecclesiastes 11:1–6
+
+Full clouds empty themselves on the earth, and a tree lies where it falls, south or north
+(11:3). The way of the wind and the bones in the womb are beyond knowing (5), set beside the work
+of God who does all. The created order runs its course, and the observer's task is to sow
+within it rather than to master it. See
+[[You Have Fashioned Me as Clay - Job 10.8-12, Psalm 139, and the Potter]].
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; clouds, the fallen tree, the wind, and the bones in the womb (11:3–5).
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Common origin in dust and shared creaturely mortality.
 

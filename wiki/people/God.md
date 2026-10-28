@@ -2363,7 +2363,18 @@ reading every outcome as an index of moral standing. No direct divine speech occ
 
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; 4:1–3.
 
+### The work of God who does all — Ecclesiastes 11:1–6
+
+God is named once, as the one *"who does all"* (11:5). His work is set beside the way of the
+wind and the bones in the womb as something the addressee does not know. As in 3:11 and 8:17,
+God's work exceeds human finding; here that limit grounds the command to sow morning and
+evening (6), not despair. No direct divine speech occurs, and no outcome is attributed to him.
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:5–6; 3:11; 8:17.
+
 ## Timeline / key events
+
+- Ecclesiastes 11:5 — [[Cast Your Bread on the Waters]]; the one who does all, whose work is not known.
 
 - Ecclesiastes 9:1–12 — [[One Event Comes to All]]; common death, present enjoyment, and uncertain outcomes.
 
@@ -2650,6 +2661,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; 4:1–
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:5.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12.
 

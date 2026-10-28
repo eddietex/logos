@@ -599,7 +599,20 @@ does not settle which.
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Bread on the waters — Ecclesiastes 11:1–6
+
+*"Cast your bread on the waters; for you shall find it after many days"* (11:1), and *"Give a
+portion to seven, yes, even to eight"* (2). The commands are read either as generosity or as
+venture trade, and the text does not decide. Either way, resources are spread out rather than
+held, because no one knows what evil will come on the earth. See
+[[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]].
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; bread sent on the waters and portions to seven or eight (11:1–2).
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the rich set low; money as the answer for all things (10:6, 19–20).
 

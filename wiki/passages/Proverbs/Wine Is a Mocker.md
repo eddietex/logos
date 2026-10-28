@@ -213,6 +213,7 @@ images, not identifiable locations requiring place pages.
   unpaid vow. See [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:20, no righteous man who does good and doesn't sin, beside 20:9. See
   [[What Is Man That He Should Be Clean]].
+- [[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]] — Proverbs 20:4's sluggard beside the one who observes the wind in [[Cast Your Bread on the Waters]] (Ecclesiastes 11:4).
 
 ## Notes
 

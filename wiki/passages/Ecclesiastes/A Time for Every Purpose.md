@@ -135,6 +135,8 @@ distinguished, but 6:12 does not explicitly resolve the tension.
   that restrains sin. Neither permits treating the poem as an unrestricted license to kill.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2, 7; few words before God, and the command to fear God
   that 3:14 anticipates.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:5, *"the work of God who does all"*, unknown as in 3:11, and
+  now a reason to sow morning and evening.
 
 ## Notes
 

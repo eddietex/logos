@@ -136,12 +136,18 @@ stones, wood, and a blunt ax give wisdom an advantage only when used in time (8�
 fool's multiplied words and wearying labor follow (12–15), then a land pitied or blessed by
 its king and princes, a house ruined by sloth, and a warning not to curse the king (16–20).
 
+[[Cast Your Bread on the Waters]] (11:1–6) turns to commands: send bread on the waters,
+give a portion to seven or eight, sow morning and evening. Each rests on what cannot be known,
+whether disaster to come, the way of the wind, the bones in the womb, or the work of God who
+does all (5). Ignorance here leads not to a vanity verdict but to persistent, spread-out work.
+Whether 11:1–2 commends generosity or trade is left open.
+
 **Reading tensions.** The book can affirm wisdom over folly (2:13) while questioning its lasting
 advantage in death (2:14–16); commend enjoyment as God's gift (3:12–13) while describing oppression
 without comfort (4:1–3); and insist on judgment (12:14) while reporting reversed outcomes
 (8:14). These statements will remain visible together as their pericopes are ingested.
 This overview and the queue are based on a reading of all twelve chapters of stored WEB;
-only 1:1–10:20 currently has ingested passage pages.
+only 1:1–11:6 currently has ingested passage pages.
 
 ## Structure
 
@@ -181,11 +187,17 @@ merge, or reorder them freely.
 - [x] [[One Event Comes to All]] — Ecclesiastes 9:1–12
 - [x] [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4
 - [x] [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20
-- [ ] Cast Your Bread on the Waters — Ecclesiastes 11:1–6
+- [x] [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6
 - [ ] Remember Your Creator — Ecclesiastes 11:7–12:8
 - [ ] The End of the Matter — Ecclesiastes 12:9–14
 
 ## Key themes
+
+- [[Work]], [[Wisdom]], and [[Providence]] — sowing morning and evening because no one knows
+  which will prosper, nor the work of God who does all (11:4–6). See
+  [[Cast Your Bread on the Waters]].
+- [[Wealth and Possessions]] and [[Creation]] — bread on the waters and portions to seven or
+  eight (11:1–2); clouds, the fallen tree, the wind, and the womb (3–5).
 
 - [[Kingship and Empire]], [[Folly]], and [[Slavery and Servitude]] — folly in high office and
   servants on horses (10:5–7); the child king and the noble one (16–17). See
@@ -266,7 +278,8 @@ merge, or reorder them freely.
 - [[God]] — giver of burden and enjoyment; his work endures (3:10–15); in heaven, owed paid vows,
   and to be feared (5:1–7); gives life, wealth, and power to enjoy it (5:18–20), but also
   gives wealth without that power (6:2), with no reason supplied; makes the crooked and
-  sets prosperity beside adversity (7:13–14); to be feared (7:18); made man upright (7:29).
+  sets prosperity beside adversity (7:13–14); to be feared (7:18); made man upright (7:29);
+  the one *"who does all"*, whose work is not known (11:5).
 
 - [[The Preacher (Ecclesiastes)]] — the speaker named by title.
 - [[David]] — named in the heading.

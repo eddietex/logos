@@ -161,7 +161,18 @@ from the position of a subject, as in 8:2–5 and 10:4.
 
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; 8:2–5.
 
+### Commands under uncertainty — Ecclesiastes 11:1–6
+
+He speaks only in commands and sayings here, with no first-person report of what he has seen:
+send bread on the waters, give portions to seven or eight, sow morning and evening (11:1–2, 6).
+Each command rests on what the addressee does not know (2, 5–6). The unknown work of God, which
+he had found beyond finding in 3:11 and 8:17, now becomes a reason to keep working.
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; 3:11; 8:17.
+
 ## Timeline / key events
+
+- Ecclesiastes 11:1–6 — [[Cast Your Bread on the Waters]]; commands to give, sow, and persist without knowing the outcome.
 
 - Ecclesiastes 10:5–20 — [[Folly in High Places and Everyday Work]]; the ruler's error, everyday hazards, and caution before kings.
 
@@ -206,6 +217,8 @@ See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 
   [[The Labor Left to Another]].
 
 ## Appears in
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20.
 

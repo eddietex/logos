@@ -27,8 +27,11 @@ tags: [connection]
 - **Job 14:15; 31:15; 33:6** — *"the work of your hands"* (14:15, in [[Though He Slay Me]]: the potter
   imagined, beyond death, *desiring* what he made); *"Didn't he who made me in the womb make
   him?"* (31:15, in [[Job's Oath of Innocence]]); Elihu: *"I am also formed out of the clay"* (33:6, in [[Elihu Speaks in Anger]]).
-- **Ecclesiastes 11:5; Ezekiel 37:6–8** — the forming of the body as mystery, and its re-forming, in
-  sinews, flesh, and skin.
+- **Ecclesiastes 11:5** — *"nor how the bones grow in the womb of her who is with child; even so
+  you don’t know the work of God who does all."* — [[Cast Your Bread on the Waters]]. The forming
+  of the body as mystery; the Hebrew has no verb for *grow* (*kaʿăṣāmîm bəḇeṭen hamməlēʾâ*, MAM,
+  read 2026-10-27).
+- **Ezekiel 37:6–8** — the re-forming of the body in sinews, flesh, and skin.
 - **Job 23:8–10** — the other half of Job's use of Psalm 139: the God who cannot be escaped, turned
   into the God who cannot be found —
   [[Where Can I Go from Your Spirit - Job 23.8-10 and Psalm 139.7-12]]

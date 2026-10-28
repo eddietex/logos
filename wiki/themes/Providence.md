@@ -350,7 +350,20 @@ God's reach; neither is a hidden causal explanation supplied. See
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The work of God who does all — Ecclesiastes 11:1–6
+
+The addressee does not know the way of the wind, nor how the bones grow in the womb, nor *"the
+work of God who does all"* (11:5). The rain from full clouds and the tree lying where it falls
+(3) follow their course without human control. God's comprehensive work is affirmed, and its
+details are withheld; the response commanded is diligence (6), not inquiry into what will
+happen. See [[The Way of the Wind - Ecclesiastes 11.5 and John 3.8]].
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; the work of God who does all, known only as unknown (11:5).
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; in god’s hand, yet exposed to time and chance.
 

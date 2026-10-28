@@ -18477,3 +18477,51 @@ was consulted, and the legal sense of *šəḡāḡâ* and the range of *naʿar*
 usage, qualified on the page. `scripts/link-check.sh` passed with no wrapped or unexpected
 dangling links and the expected baseline of 61 unstarted-book pages; `git diff --check` passed.
 No deliberately dangling target remains.
+
+## [2026-10-27] ingest | Ecclesiastes 11.1-6 — Cast Your Bread on the Waters
+
+Unattended `/ingest auto` by Claude (Anthropic); exactly one pericope. Retained the planned
+11:1–6 boundary and title: 11:1 opens a run of imperatives after 10:20, and 11:7's *"Truly the
+light is sweet"* opens the next unit, which remains unchecked. The discussion is incorporated
+into the passage's summary and notes. No raw source, controller file, or workflow instruction
+changed; no harness-compatibility change was needed.
+
+**Interpretive decisions.** 11:1–2 is left open between generosity and venture trade; neither
+reading is adopted. *"Seven, yes, even to eight"* is read as a graded numerical idiom without a
+list. 11:5's *rûaḥ* follows the WEB's *wind* rather than *spirit*, with the alternative noted.
+The unit is read as turning ignorance into a reason for persistent work, without reversing the
+vanity verdict, which returns at 11:8. The Preacher speaks only in commands and is recorded as
+the implied speaker. God is named once (11:5). No place page was created, and no new person page
+was needed; all other figures are unnamed.
+
+**Created (3 content pages):** the passage [[Cast Your Bread on the Waters]] and two
+connections, [[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]] and
+[[The Way of the Wind - Ecclesiastes 11.5 and John 3.8]].
+
+**Revised (22 content pages):** Ecclesiastes; 2 people (The Preacher (Ecclesiastes), God); 5
+themes (Work, Providence, Wisdom, Wealth and Possessions, Creation); 4 connections (Scattering
+and Increasing, Do Not Boast About Tomorrow, Three Transgressions Yes Four, You Have Fashioned
+Me as Clay, whose unlinked Ecclesiastes 11:5 entry now links to the passage and is split from
+Ezekiel 37); 10 reciprocal passages (Folly in High Places and Everyday Work, Vanity of
+Vanities, A Time for Every Purpose, The Wicked Buried and the Work Beyond Finding, One Event
+Comes to All, A False Balance, Wine Is a Mocker, Do Not Boast About Tomorrow, There Is No Umpire
+Between Us, The Waters Recede).
+
+**Indexes and totals.** Revised eight indexes: books (22 / 24), the main dashboard, themes,
+People F-M and N-Z, and Connections D-H, O-S, and T-Z. New connections file under S and W.
+Totals by frontmatter type: 209 passages, 187 people, 91 places, 85 themes, 514 connections.
+Places index unchanged.
+
+**Sources and validation.** The six primary verses were copied from immutable stored WEB
+Ecclesiastes 11:1–6, and every inline quotation on new and changed lines was mechanically
+compared with stored WEB or the bible-api.com responses. Comparisons read in stored WEB:
+Ecclesiastes 1:6; 3:11, 22; 4:5; 6:12; 8:17; 9:10–11; 10:8, 10, 18, 20; 11:7–8; Genesis 8:22;
+Job 5:19; 10:11; Proverbs 6:16; 11:24; 20:4; 27:1. Micah 5:5, John 3:8, Psalm 139:13–16, and
+Galatians 6:9 checked at bible-api.com with `translation=web` on 2026-10-27; none was added to
+`raw/`. Hebrew of Ecclesiastes 1:6; 3:11; 8:17; 10:10; 11:1–6 read from Sefaria's *Miqra
+according to the Masorah*; the Hebrew of Micah 5:5 and the Greek of John 3:8 were **not**
+checked, and the common claim that John 3:8 uses one Greek word for wind and Spirit is
+qualified as unverified on the connection page. No lexicon was consulted.
+`scripts/link-check.sh` passed with no wrapped or unexpected dangling links and the expected
+baseline of 61 unstarted-book pages; `git diff --check` passed. No deliberately dangling target
+remains.

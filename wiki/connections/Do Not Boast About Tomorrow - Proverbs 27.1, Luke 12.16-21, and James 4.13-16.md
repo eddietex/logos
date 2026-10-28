@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6.
+
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12.
 
 - [[Who Knows What Is Good]] — Ecclesiastes 6:10–12.
@@ -95,6 +97,16 @@ does not entail inactivity. Sources for this extension: stored WEB Proverbs 27:1
 Ecclesiastes 9:1–12. No new external quotation or lexical assertion is introduced.
 
 See [[One Event Comes to All]].
+
+### Cast your bread on the waters — Ecclesiastes 11:1–6
+
+Ecclesiastes 11 uses *you don't know* four times (11:2, 5, 6): what evil will be on the earth,
+the way of the wind, the work of God, and which sowing will prosper. Like Proverbs 27:1, it
+denies foreknowledge. Unlike a warning against boasting, it draws positive commands from that
+limit: give to seven or eight, and sow morning and evening. Sources for this extension: stored
+WEB Ecclesiastes 11:1–6; Proverbs 27:1.
+
+See [[Cast Your Bread on the Waters]].
 
 ## Significance
 

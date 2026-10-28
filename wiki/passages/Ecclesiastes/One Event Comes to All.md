@@ -129,6 +129,8 @@ No named earthly place appears.
   and enjoyment together. The affirmation of judgment is not silently canceled by 9:2.
 - [[The Forgotten Wise Man]] — the following unit, Ecclesiastes 9:13–10:4; a single case of
   9:11's bread not to the wise and 9:5's forgotten memory.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; 9:10's whole-handed work and 9:11's time and chance
+  become commands to sow morning and evening without knowing which will prosper.
 
 ## Notes
 

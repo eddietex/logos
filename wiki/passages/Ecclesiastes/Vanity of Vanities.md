@@ -111,6 +111,9 @@ profits humanity; naming and human limits now accompany the questions.
   [[The Fall]], Genesis 3:17–19; and [[Though He Slay Me]], Job 14:7–12.
 - [[The Wise and the Fool Share One End]] — Ecclesiastes 2:16 applies 1:11's forgetting to the wise man in particular; 2:12's
   successor can only do *"that which has been done long ago"*, as 1:9 has it.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:3, the tree that falls *"toward the south, or toward the
+  north"*, the same pair of directions as the wind of 1:6; see also
+  [[The Way of the Wind - Ecclesiastes 11.5 and John 3.8]].
 
 ## Notes
 

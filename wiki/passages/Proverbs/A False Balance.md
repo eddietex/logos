@@ -193,6 +193,7 @@ wiki’s interpretation; the verses do not state their own exception clauses. Se
 - [[Thirty Excellent Things]] — Proverbs 23:4–5, riches that fly away, beside 11:4, 28; see [[Riches Sprout Wings - Proverbs 23.4-5 and the Uncertainty of Riches]].
 - [[Through Wisdom a House Is Built]] — Proverbs 24:6b, identical in Hebrew to 11:14b.
 - [[The Glory of Kings]] — Proverbs 25:9–10, the confidence (*sôḏ*) not to be revealed, after 11:13.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–2, bread on the waters and portions to seven or eight, beside 11:24's scattering that increases; see [[Scattering and Increasing - Proverbs 11.24-26 and 2 Corinthians 9]].
 
 ## Notes
 

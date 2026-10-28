@@ -527,7 +527,21 @@ bitten, the quarrier injured, the woodcutter endangered (10:8–9). A blunt ax n
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Sowing morning and evening — Ecclesiastes 11:1–6
+
+The one who watches the wind will not sow, and the one who watches the clouds will not reap
+(11:4). Against that hesitation the Preacher commands sowing in the morning and not withholding
+the hand in the evening, because no one knows which will prosper (6). The unknown outcome is a
+reason to work more widely, not to stop. See
+[[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]], where the
+sluggard of Proverbs 20:4 fails for a different reason.
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; sowing morning and evening; the observer of the wind who will not sow.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the hazards of digging, quarrying, and woodcutting; the blunt ax; sloth and the leaking house.
 

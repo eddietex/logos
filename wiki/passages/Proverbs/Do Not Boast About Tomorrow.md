@@ -281,6 +281,8 @@ question and Proverbs 27:1’s command both expose unknown futures; see
 - [[Wisdom Calls in the Street]] — Proverbs 1:26, *ʾêḏ*, calamity.
 - [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]] — 27:5's open
   rebuke, cited as the limit on any rule that gentleness is always the answer.
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:2, 6; *"you don’t know"* as a reason to give widely and
+  sow persistently, beside 27:1's *"you don’t know what a day may bring"*.
 
 ## Notes
 

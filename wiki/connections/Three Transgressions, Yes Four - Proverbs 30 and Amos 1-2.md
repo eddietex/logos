@@ -12,6 +12,9 @@ tags: [connection]
 - **Proverbs 6:16–19** — [[The Surety, the Sluggard, and the Seven Abominations]]: *"There are six
   things which Yahweh hates; yes, seven which are an abomination to him"* (6:16).
 - **Job 5:19** — [[Eliphaz's First Speech]]: six troubles, *"yes, in seven"*.
+- **Ecclesiastes 11:2** — [[Cast Your Bread on the Waters]]: *"Give a portion to seven, yes, even
+  to eight"*.
+- **Micah 5:5** *(Micah not yet ingested)* — *"seven shepherds, and eight leaders of men"*.
 - **Amos 1:3–2:6** *(Amos not yet ingested)* — eight oracles against the nations, each opening
   *"For three transgressions of … yes, for four"*; the first is against Damascus (1:3), the last
   against Israel (2:6).
@@ -43,6 +46,14 @@ announce judgment. The form belongs to neither, and no literary dependence in ei
 claimed. What both share is a confidence that things can be counted, and that the counting reveals
 a pattern — in nature and households for the sage, in the conduct of nations for the prophet.
 
+**Without a list at all.** Ecclesiastes 11:2 uses the form with seven and eight,
+*ləšiḇʿâ wəḡam lišmônâ* (MAM, read 2026-10-27), and names no items. The second number means
+simply *as many as you can*: spread your portions, because you do not know what evil will come.
+Micah 5:5 in the WEB has the same pair of numbers, *"seven shepherds, and eight leaders of
+men"*, and also gives no list. These are a third use, beside the completed count of Proverbs and
+the uncounted guilt of Amos: the form as an idiom for *more than enough*. The Hebrew of Micah
+5:5 was not checked.
+
 ## Significance
 
 The connection keeps a recognizable device from being read the same way everywhere. In Proverbs
@@ -54,4 +65,5 @@ meets Proverbs 30:14, the generation whose jaws *"devour the poor from the earth
 Sources: Proverbs 6:16; 30:15–31 and Job 5:19 from the stored WEB. Amos 1:3 and 2:6 checked at
 bible-api.com with `translation=web` on 2026-10-27; Amos is not stored in `raw/`. Hebrew of Proverbs
 30:15–31 and Amos 1:3 read from Sefaria's *Miqra according to the Masorah*, 2026-10-27; the Hebrew of
-Amos 2:6 was not checked.
+Amos 2:6 was not checked. Ecclesiastes 11:2 from the stored WEB and its Hebrew from the same
+edition, 2026-10-27; Micah 5:5 checked at bible-api.com with `translation=web` on 2026-10-27.

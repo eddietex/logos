@@ -770,7 +770,19 @@ words are gracious (12). See
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Acting without knowing — Ecclesiastes 11:1–6
+
+Wisdom here is not foreknowledge. Four times the addressee is told *you don't know* (11:2, 5,
+6), and each time the counsel is to act: give to many, sow morning and evening. 11:6's
+*prosper* (*yiḵšar*) shares its root with 10:10's *"skill brings success"* (MAM); where skill
+gave an advantage in time, the wise course here is to sow more than once.
+
+See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
+are identified on the passage and connection pages.
+
 ## Key passages
+
+- [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; acting wisely without foreknowledge of what will prosper.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; skill (*ḥoḵmâ*) that brings success, and the charmer too late (10:10–12).
 
