@@ -287,6 +287,10 @@ attributed to Moses, so they should not be reassigned to Aaron by assumption.
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The meal offering prescribed — Leviticus 2
+
+Aaron and his sons receive the remainder after the memorial is burned (2:3, 10). Their portion remains most holy; the gift to Yahweh includes regulated provision for the priestly household. See [[The Meal Offering]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -349,6 +353,8 @@ See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identif
 page.
 
 ## Appears in
+
+- [[The Meal Offering]] — Leviticus 2:1–16; prescribed offering and priestly portion.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Aaron is named through the priestly office and his sons (1:5, 7–8, 11).
 

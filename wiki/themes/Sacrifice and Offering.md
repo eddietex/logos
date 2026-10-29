@@ -321,7 +321,13 @@ filth is discarded (16). No meal for the worshipper is prescribed.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The meal offering — Leviticus 2
+
+Grain, oil, and prescribed preparations are accepted offerings (2:1–10). A memorial is burned and the remainder belongs to the priests. This prevents treating all acceptable offerings as animal victims or wholly burned gifts. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; The burnt offering has three forms: cattle, sheep or goats, and turtledoves or young pigeons.
 

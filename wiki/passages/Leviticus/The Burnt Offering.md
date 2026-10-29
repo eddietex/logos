@@ -88,6 +88,8 @@ operate at that dwelling.
 
 ## Cross-references
 
+- [[The Meal Offering]] — Leviticus 2:1–16; grain memorials and priestly portions distinguish this rite from the preceding offering instructions.
+
 - [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] — Exodus 40:34–35 and Leviticus 1:1; presence and speech, without an invented entry scene.
 - [[A Pleasing Aroma]] — Genesis 8:20–21; Exodus 29:18; Leviticus 1:9, 13, 17.
 - [[Sacrifice Before the Priesthood]] — the regulation of offering retains a role for the lay worshipper.

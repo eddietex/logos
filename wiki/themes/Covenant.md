@@ -312,7 +312,13 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 [[The Upright Will Dwell in the Land - Proverbs 2.21-22, Psalm 37, and Matthew 5.5]]. Source: Proverbs 2 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The meal offering — Leviticus 2
+
+Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The testimony’s container made after renewal; placement is still ahead.
 

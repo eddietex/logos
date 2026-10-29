@@ -220,7 +220,13 @@ promise of meeting and speech at the tent in Exodus 29:42–46 now has a concret
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The meal offering — Leviticus 2
+
+The sanctuary altar of the continuing speech receives grain memorials as well as animal offerings (2:2, 8–9). Produce is brought to Yahweh through priestly service; a most holy remainder stays with the priests. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Yahweh speaks from the Tent of Meeting (1:1), and the door and its altar become the place of accepted approach (3–5).
 

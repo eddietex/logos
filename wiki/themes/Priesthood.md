@@ -191,7 +191,13 @@ mean that every action in every sacrifice is exclusively priestly.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The meal offering — Leviticus 2
+
+The priest brings the gift to the altar and burns its memorial; Aaron and his sons receive the most holy remainder (2:2–3, 8–10). Priestly service includes receiving a sacred portion, alongside handling offerings. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; The regulated offering retains active lay participation: the livestock offerer brings, lays a hand on the cattle victim, kills, and prepares the animal; the priests handle blood and the altar.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Meal Offering]] — Leviticus 2:1–16.
+
 - [[The Burnt Offering]] — Leviticus 1:1–17.
 
 - Genesis 8:20–21 — the first altar, the first burnt offering, and *"Yahweh smelled the pleasant
@@ -106,6 +108,12 @@ not a new source-language claim. “Whole” burning must retain the preparation
 in 1:6 and discarding the bird’s crop with its filth in 1:16.
 
 Source: stored WEB Leviticus 1; Genesis 8:20–21; 22:1–13; Exodus 18:1, 12.
+
+### Grain gifts and the altar
+
+Leviticus 2:2, 9 applies the pleasant-aroma description to a grain memorial, not only to animal offerings. Verses 11–12 exclude yeast and honey from that altar use while permitting them as first-fruits gifts. The common description does not make all offerings identical in material or extent of burning. See [[The Meal Offering]].
+
+Source for this addition: stored WEB Leviticus 2:1–16.
 
 ## Significance
 

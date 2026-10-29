@@ -22,6 +22,10 @@ The priestly inauguration and the deaths of Nadab and Abihu interrupt the legal 
 with narrative. The Sinai setting is explicitly recalled in 7:38; 25:1; 26:46; 27:34.
 This overview and queue survey the stored book; only checked units below are ingested.
 
+The first two ingested units distinguish whole burnt offerings from grain memorials with
+most holy priestly remainders. Leviticus 2 also names covenant salt and differentiates
+first-fruits gifts from permitted altar ingredients.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -39,7 +43,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[The Burnt Offering]] — Leviticus 1:1–17
-- [ ] The Meal Offering — Leviticus 2:1–16
+- [x] [[The Meal Offering]] — Leviticus 2:1–16
 - [ ] The Peace Offering — Leviticus 3:1–17
 - [ ] The Sin Offering for Priest and Congregation — Leviticus 4:1–21
 - [ ] The Sin Offering for Ruler and Individual — Leviticus 4:22–35

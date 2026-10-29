@@ -247,7 +247,13 @@ wiki’s Horeb/Sinai grouping without supplying a modern location.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### Meal offerings at the sanctuary
+
+The altar receives the grain memorial in the sanctuary setting continued from Leviticus 1:1. Sinai is contextual here and named retrospectively in 7:38, not in chapter 2 itself. See [[The Meal Offering]].
+
 ## Appears in
+
+- [[The Meal Offering]] — Leviticus 2:1–16; contextual setting.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; The tent and its altar are the immediate setting; the continuing Sinai setting is confirmed by Leviticus 7:38.
 

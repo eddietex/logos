@@ -2400,6 +2400,10 @@ Hebrew expression or equating God with either human lover.
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+### The meal offering prescribed — Leviticus 2
+
+Yahweh receives grain offerings with a pleasant aroma and assigns the most holy remainder to Aaron and his sons (2:2–3, 9–10). His covenant is named with the required salt (13). See [[The Meal Offering]].
+
 ## Timeline / key events
 
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
@@ -2702,6 +2706,8 @@ See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identif
 page.
 
 ## Appears in
+
+- [[The Meal Offering]] — Leviticus 2:1–16; prescribed offering and priestly portion.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Yahweh calls Moses and speaks from the Tent of Meeting, specifying how Israel may bring offerings before him.
 

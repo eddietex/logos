@@ -330,7 +330,13 @@ These differ as description and instruction; neither cancels the other.
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### The meal offering — Leviticus 2
+
+The burned portion is called a memorial (2:2, 9, 16). The text describes its ingredients and burning without saying who remembers what; this should not be collapsed into a narrated act of God remembering someone. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Remember the dark days and the Creator during
   youth.

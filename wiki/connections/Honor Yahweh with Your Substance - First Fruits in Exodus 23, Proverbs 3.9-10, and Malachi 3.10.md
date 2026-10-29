@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Meal Offering]] — Leviticus 2:1–16.
+
 - **Exodus 20:12** — *"Honor your father and your mother, that your days may be long in the land"*
   (*kabbēḏ ʾeṯ-ʾāḇîḵā*) — [[The Ten Commandments]];
   [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]]
@@ -63,6 +65,12 @@ first portion is.
 Yahweh reproves the son he loves (3:11–12), and Job, who offered for his children *"continually"* (Job
 1:5), lost his flocks in a day. The promise states the ordinary order of blessing; the wiki keeps its
 exceptions on [[Retribution]] and does not soften the verse.
+
+### Grain gifts and the altar
+
+Leviticus 2:11–16 distinguishes first-fruits gifts from what may be burned on the altar. Yeast and honey may be brought as first fruits but not burned for a pleasant aroma; parched fresh grain receives its own memorial rite. This adds preparation and destination to the first-fruits theme, without making all first-fruits gifts one recipe. See [[The Meal Offering]].
+
+Source for this addition: stored WEB Leviticus 2:1–16.
 
 ## Significance
 

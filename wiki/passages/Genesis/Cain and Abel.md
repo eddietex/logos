@@ -168,6 +168,8 @@ the garden.
 
 ## Cross-references
 
+- [[The Meal Offering]] — Leviticus 2:1–16; see [[Gifts of the Ground - Cain and the Meal Offering]] for the limits of explaining Cain’s rejection by his gift’s material.
+
 - [[The Fall]] — Genesis 3:1–24, whose judgment scene this one reruns and whose *tešûqâ* and
   *māšal* reappear in 4:7.
 - [[Desire and Rule - Genesis 3.16 and 4.7]] — the two verses that share the Bible's rarest word

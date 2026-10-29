@@ -258,7 +258,13 @@ identical.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The meal offering — Leviticus 2
+
+The remainder assigned to Aaron and his sons is most holy (2:3, 10). Holiness therefore extends to the portion retained for the priests, not only to what burns on the altar. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Approach is ordered through the tent entrance, the altar, prescribed victims, and priestly duties.
 

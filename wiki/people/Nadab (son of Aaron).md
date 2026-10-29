@@ -103,6 +103,10 @@ for each son. No separate act or distinction among the four brothers is supplied
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The meal offering prescribed — Leviticus 2
+
+Aaron’s sons present the offering and receive its most holy remainder (2:2–3, 10). Inclusion here is collective, from the family appointment in Exodus 28:1; the chapter neither names him individually nor narrates his performance of the rite. See [[The Meal Offering]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
@@ -130,6 +134,8 @@ See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identif
 page.
 
 ## Appears in
+
+- [[The Meal Offering]] — Leviticus 2:1–16; prescribed offering and priestly portion.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Included collectively among Aaron’s sons, identified by Exodus 28:1, in the prescribed blood and altar duties (Leviticus 1:5, 7–8, 11).
 

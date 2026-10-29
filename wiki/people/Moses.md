@@ -593,6 +593,10 @@ the mountain cloud in 24:18 and the outside tent in 33:9. The settings and momen
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The meal offering prescribed — Leviticus 2
+
+The speech begun to Moses in 1:1–2 continues with grain-offering instructions. He is not named anew in chapter 2; this is mediated instruction, not a narrated act of offering. See [[The Meal Offering]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -731,6 +735,8 @@ See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identif
 page.
 
 ## Appears in
+
+- [[The Meal Offering]] — Leviticus 2:1–16; continuing speech context.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Moses receives speech from the Tent of Meeting and is told to address Israel (1:1–2).
 

@@ -230,6 +230,8 @@ narrates the performance.
 
 ## Cross-references
 
+- [[The Meal Offering]] — Leviticus 2:1–16; grain memorials and priestly portions distinguish this rite from the preceding offering instructions.
+
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.
 
 - [[The Golden Calf]] — Aaron’s failure and the Levites’ call to consecration in Exodus 32 must be distinguished from the seven-day rite prescribed here.

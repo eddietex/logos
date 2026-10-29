@@ -19418,3 +19418,31 @@ no new quotation from an unstored book and no new exact source-language assertio
 all passage quotations against raw text and the complete queue against all 859 verse positions.
 `scripts/link-check.sh`: clean, expected baseline 59 not-yet-started book pages. No unresolved
 link or ingestion issue; no schema or harness-compatibility change needed.
+
+## [2026-10-29] ingest | Leviticus 2.1-16 — The Meal Offering
+
+Ingested [[The Meal Offering]], Leviticus 2:1–16, as the next unchanged queue unit.
+Created 2 pages: the passage and [[Gifts of the Ground - Cain and the Meal Offering]].
+Revised 32 existing pages including this log: the book, 7 people, 1 place, 8 themes,
+2 connections, 3 earlier passages, and 9 indexes/dashboards. Leviticus is now 2 / 44;
+counts are 229 passages, 192 people, 104 places, 85 themes, and 541 connections.
+
+The passage includes all sixteen WEB verses and the unattended discussion. Distinguished
+flour, cooked forms, and fresh grain; memorial burning and the most holy priestly remainder;
+yeast/honey first-fruits gifts and permitted altar ingredients. Covenant salt is explicit,
+but its proposed symbolism is not supplied by this text. The chapter does not repeat the
+burnt offering's explicit atonement statement. Kept Moses and Sinai contextual, and Aaron's
+four sons collective rather than individually named appearances. Used the existing dwelling
+theme and Horeb page for the setting; no new person, place, or theme was needed.
+
+Updated [[A Pleasing Aroma]] and the existing first-fruits connection. The new Cain comparison
+excludes the blanket claim that produce cannot be acceptable, while declining to infer an
+unstated missing ingredient or violated Levitical recipe in Genesis 4. No contradiction requiring
+a change to an existing claim was found in this integration. No pericope boundary changed.
+
+Sources: stored WEB Leviticus 1–2 and 7:38; Genesis 4:1–7; Exodus 23:18–19, 28:1,
+29:23–28; Proverbs 3:9–10. All sixteen copied verses were mechanically compared with raw.
+No existing raw text changed, no unstored-book quotation was added, and no new exact
+Hebrew/Greek claim was made. Index coverage checks confirmed one row per entity/connection;
+frontmatter counts and whitespace checks passed. `scripts/link-check.sh` passed with zero
+wrapped or dangling links and 59 expected not-yet-started book targets. No unresolved issue.

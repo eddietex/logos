@@ -58,7 +58,13 @@ of any kind, and promises Deuteronomy's blessing *"in your barns"* (Deuteronomy 
 [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]]. Source: Proverbs 3 checked in `raw/bible/Proverbs.md` (WEB); Hebrew checked against Sefaria's
 *Miqra according to the Masorah*, 2026-10-25.
 
+### The meal offering — Leviticus 2
+
+Yeast and honey may be offered as first fruits but not burned for a pleasant aroma (2:11–12); parched first-fruits grain has its own burned memorial (14–16). First fruits are not a single uniform altar preparation. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Calendar renewed with protected land during pilgrimage.
 

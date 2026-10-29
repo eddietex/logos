@@ -473,7 +473,13 @@ itself command a daily offering or report an actual performance.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The meal offering — Leviticus 2
+
+The offering law permits flour and several cooked forms while regulating ingredients, salt, priestly handling, and portions (2:1–16). Prescribed alternatives do not amount to unrestricted improvisation. See [[The Meal Offering]].
+
 ## Key passages
+
+- [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Instruction is addressed through Moses to Israel (1:1–2), with distinct responsibilities for offerers and priests.
 
