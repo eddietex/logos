@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Examining skin conditions — Leviticus 13:1–46
+
+Moses receives the skin laws together with Aaron (1). Examination and pronouncement
+are assigned to Aaron or his priestly sons (2), rather than narrated as Moses’ own work.
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 Moses receives the childbirth law and is commanded to speak to Israel (12:1–2).
@@ -846,6 +853,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

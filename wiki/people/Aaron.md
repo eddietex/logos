@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Examining skin conditions — Leviticus 13:1–46
+
+Aaron receives the instruction with Moses and is explicitly named as an examiner,
+alongside his priestly sons (1–2). The office now includes repeated inspection and
+pronouncements of clean or unclean; no individual examination is narrated.
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The unnamed priest receives the mother's offerings and makes atonement for her cleansing
@@ -461,6 +469,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8 (contextual office).
 

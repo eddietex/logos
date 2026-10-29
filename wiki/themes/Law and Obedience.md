@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Examining skin conditions — Leviticus 13:1–46
+
+The law differentiates skin eruptions, lesions after boils and burns, head or beard
+conditions, harmless spots, and baldness. An earlier clean verdict can require review
+if a lesion spreads (7–8, 35–36). Obedience includes returning for inspection and, for
+the person declared leprous, public warning and residence outside the camp (45–46).
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 Yahweh gives Moses a law for Israel governing days, circumcision, sanctuary access, and
@@ -594,6 +603,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

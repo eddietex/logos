@@ -91,6 +91,10 @@ Leviticus 12 regulates purification after childbirth, eighth-day circumcision, a
 offerings adjusted to means. It names cleansing without identifying a maternal offense.
 See [[Purification After Childbirth]].
 
+Leviticus 13:1–46 now regulates priestly skin examinations, observation periods, clean
+verdicts, and residence outside the camp. It distinguishes ritual status without naming
+an offense as the cause of each condition. See [[Examining Diseases of the Skin]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -125,7 +129,7 @@ merge, or reorder them freely.
 - [x] [[The Uneaten Sin Offering]] — Leviticus 10:12–20
 - [x] [[Clean and Unclean Animals]] — Leviticus 11:1–47
 - [x] [[Purification After Childbirth]] — Leviticus 12:1–8
-- [ ] Examining Diseases of the Skin — Leviticus 13:1–46
+- [x] [[Examining Diseases of the Skin]] — Leviticus 13:1–46
 - [ ] Mildew in Garments — Leviticus 13:47–59
 - [ ] The Cleansing of the Leper — Leviticus 14:1–32
 - [ ] Mildew in a House — Leviticus 14:33–57

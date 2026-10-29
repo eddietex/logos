@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Examining skin conditions — Leviticus 13:1–46
+
+Yahweh addresses Moses and Aaron together and gives criteria for priestly decisions about
+skin conditions. These instructions specify uncleanness without identifying a personal
+offense as the cause of each condition.
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 Yahweh speaks to Moses about childbirth, ordered purification, and offerings adjusted
@@ -2817,6 +2825,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

@@ -56,6 +56,16 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Examining skin conditions — Leviticus 13:1–46
+
+Visible skin change does not automatically mean uncleanness: dull white spots and ordinary
+baldness are clean (38–41). Whole-body whiteness can be clean while raw flesh is unclean
+(12–17). The specified signs and their development govern the ruling. Unlike the contact
+cases in 5:2–6, these rules name neither guilt nor confession. The distinction between
+ritual status and moral fault remains necessary without erasing the guilt clauses elsewhere.
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 Childbirth brings a temporary ritual status: seven days followed by thirty-three for a son,
@@ -286,6 +296,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

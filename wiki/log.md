@@ -19895,3 +19895,30 @@ Leviticus is now 18 / 44 pericopes. Frontmatter totals: 245 passages, 195 people
 104 places, 85 themes, 555 connections. No duplicate non-index page titles found.
 scripts/link-check.sh passed with no wrapped links or unexpected dangling targets;
 59 not-yet-started book pages remain the expected baseline. No unresolved ingest issue.
+
+
+## [2026-10-29] ingest | Leviticus 13.1-46 — Examining Diseases of the Skin
+
+Ingested [[Examining Diseases of the Skin]] in unattended mode; retained the planned boundary.
+Created the passage and [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] (2 new pages).
+Revised 12 existing content pages: Leviticus, the preceding strange-fire passage, God, Moses,
+Aaron, Horeb, Clean and Unclean, Priesthood, Law and Obedience, Suffering, and the two connections
+on distinguishing/teaching and the boil on a blameless man. Updated 9 index/dashboard pages
+and this log (22 revised pages total). Leviticus is now 19/44 pericopes; totals are 246 passages,
+195 people, 104 places, 85 themes, and 556 connections; 7 books started, 6 complete.
+
+The passage preserves observation versus confirmed uncleanness, whole-body whiteness versus
+raw flesh, harmless spots and baldness, and the social cost of dwelling outside the camp.
+No named patient or new geographic site is supplied; priestly sons remain collective legal
+roles, and Horeb is explicitly contextual. No modern disease identification is asserted.
+The existing boil connection’s inference from affliction to guilt is explicitly qualified:
+Leviticus 13:18–23 allows a clean verdict and supplies no causal moral offense. Its inherited
+Hebrew occurrence/exact-identity claims remain provisional and are qualified locally;
+this pass does not claim to have verified them against a source-language edition.
+
+Source: read stored WEB Leviticus 13:1–46; key verses copied from raw, never recalled.
+Comparisons use stored Leviticus 10:6–11, 5:2–6, and 7:38. No new external verse quotation
+or source-language claim was added. Raw texts and workflow instructions were unchanged.
+Link check passed: no wrapped links or unexpected dangling targets; 59 expected unstarted
+book links. Authored by Codex. No ingestion blocker; inherited lexical claims remain the
+explicitly marked source-verification limitation above.

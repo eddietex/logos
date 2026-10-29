@@ -34,6 +34,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Examining skin conditions — Leviticus 13:1–46
+
+The priest examines depth, hair, raw flesh, and spread, sometimes after one or two
+seven-day periods. He pronounces status and orders isolation; the unit gives him no
+procedure for curing the disease. The teaching commission of 10:10–11 now includes
+case-by-case judgment, not only communication of household rules.
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The mother brings the offerings to the priest at the Tent of Meeting's door (6). The
@@ -314,6 +323,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

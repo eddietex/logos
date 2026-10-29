@@ -79,6 +79,10 @@ the tent, distinguish sacred and common and clean and unclean, and teach Israel 
 
 ## Cross-references
 
+- [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] — the prohibitions on priestly
+  hair and garments contrast with the required signs in [[Examining Diseases of the Skin]],
+  Leviticus 13:45–46; different ritual situations, not an identification of causes.
+
 - [[Distinguishing and Teaching - Leviticus 10 and 11]] — Leviticus 10:1–11 compared with Leviticus 11.
 
 - [[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]] — adjacent acts of divine fire.

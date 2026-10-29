@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46; further application.
+
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
@@ -23,6 +25,14 @@ It communicates distinctions to all Israel, including rules households can apply
 vessels, water, seed, and dead animals. The priestly commission serves communal practice.
 
 Sources: stored WEB passages listed above; comparison is paraphrase.
+
+### Further application — Leviticus 13:1–46
+
+[[Examining Diseases of the Skin]] makes the priest’s discriminating role explicit for individual cases.
+Aaron or a priestly son examines signs, orders observation where needed, and pronounces
+clean or unclean. Unlike chapter 11’s household instructions, these decisions require
+priestly inspection. Pronouncement is not a described cure; changed signs can require a
+new examination. Source: stored WEB Leviticus 13:1–46.
 
 ## Significance
 

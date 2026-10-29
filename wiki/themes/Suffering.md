@@ -47,6 +47,15 @@ requires only that you be standing outside it.
 
 ## Development across Scripture
 
+### Examining skin conditions — Leviticus 13:1–46
+
+The final rules add social separation to bodily affliction: torn clothes, loose hair,
+a covered upper lip, a warning cry, and solitary residence outside the camp (45–46).
+The unit does not name an offense that caused the disease. Its classification must not
+be turned into an accusation that every afflicted person deserves the affliction.
+
+See [[Examining Diseases of the Skin]]. Source: stored WEB Leviticus 13:1–46.
+
 - **Genesis 3:16–19** — pain in childbearing, toil in the ground: the first suffering, and the one
   the Bible does explain. See [[The Fall]].
 - **Genesis 6:6** — God grieved *"in his heart"*, using the same root as the pain assigned in
@@ -258,6 +267,8 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
 *Miqra according to the Masorah*.
 
 ## Key passages
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:7; beaten and wounded by the watchmen, for no
   stated reason.

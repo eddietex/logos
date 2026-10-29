@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Examining skin conditions — Leviticus 13:1–46
+
+The law belongs to Leviticus’s continuing Sinai setting (7:38), but names no mountain
+or town. Its explicit boundary is the camp: the person declared leprous must dwell
+alone outside it while the condition remains (13:46). See [[Examining Diseases of the Skin]].
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The childbirth law belongs to Leviticus's continuing Sinai setting (7:38). Chapter 12
@@ -359,6 +365,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46 (contextual setting).
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8 (broader setting).
 

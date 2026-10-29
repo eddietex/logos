@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Examining Diseases of the Skin]] — Leviticus 13:1–46, especially 18–23.
+
 - **Job 2:7** — *"So Satan went out from the presence of Yahweh, and struck Job with painful sores
   from the sole of his foot to his head."* — [[The Second Test]]
 - **Deuteronomy 28:35** — *"Yahweh will strike you in the knees, and in the legs, with a sore boil,
@@ -27,16 +29,31 @@ tags: [connection]
 
 ## Analysis
 
+### Qualification from the ingested skin law
+
+**The earlier rhetoric below that every available explanation requires a sin is too broad.**
+Leviticus 13:18–23 considers a healed boil and distinguishes a spreading lesion from a
+stable scar that receives a clean verdict. It names no personal offense. These rules
+classify ritual status; they do not establish that every boil is a divine punishment or
+that the sufferer is guilty. This limits the claim below that the friends are reading
+correctly by every available rule: applying a curse to every similar affliction reverses
+the conditional, as the later paragraph itself recognizes.
+
+See [[Examining Diseases of the Skin]]. This correction is based on the stored WEB,
+not a new source-language identification. The older Hebrew occurrence count and claims
+of exact verbal identity below have not been reverified against an identified edition
+in this ingest and should be treated as provisional, not as established by this update.
+
+
 **Job's disease is named, and the name is a legal one.** *Šəḥîn rāʿ* — a malignant or evil boil — is
-not a general word for illness. It occurs thirteen times in the Hebrew Bible, and every occurrence
+not a general word for illness. The earlier, unverified occurrence claim was that it occurs thirteen times in the Hebrew Bible, and every occurrence
 outside Job sits in one of three settings: **a plague on Egypt** (Exodus 9), **a priestly diagnosis
 of uncleanness** (Leviticus 13), or **the covenant curse list** (Deuteronomy 28). It is the disease
 the law knows how to interpret.
 
 **And Job 2:7 quotes the curse list.** Deuteronomy 28:35 threatens the covenant-breaker with a
 *šəḥîn rāʿ* that cannot be healed, *"from the sole of your foot to the crown of your head"*. Job is
-struck with a *šəḥîn rāʿ*, *"from the sole of his foot to his head"*. **Same disease, same two
-anatomical limits, same idiom for totality.** Whether the author of Job is citing Deuteronomy, or
+struck with a *šəḥîn rāʿ*, *"from the sole of his foot to his head"*. **The earlier claim of exact Hebrew identity here remains unverified; the English descriptions have similar anatomical limits.** Whether the author of Job is citing Deuteronomy, or
 both are drawing on a shared formula for a whole-body affliction, the effect on a reader who knows
 the curse list is identical and cannot be avoided: **the man the narrator called blameless in the
 first verse of the book, and whom God has now called blameless three times, is wearing the mark of
