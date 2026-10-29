@@ -2741,7 +2741,16 @@ Yahweh’s continuing law joins confession to a remedy affordable even to the pe
 
 See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+Yahweh calls fraud against a neighbor a trespass against himself (2), and prescribes restitution,
+an offering, and forgiveness (4–7). Human loss and divine accountability belong to the same case.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Appears in
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; Yahweh speaks to Moses, identifies liability even without knowledge, and provides a remedy ending in forgiveness (14–19).
 

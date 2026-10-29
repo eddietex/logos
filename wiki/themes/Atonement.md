@@ -142,7 +142,17 @@ The priest makes atonement with the ram and forgiveness is promised (16, 18). In
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+The priest makes atonement before Yahweh after the law has required repayment to the injured owner
+(4–7). The ritual remedy addresses fraud and false swearing as well as the unwitting wrong of
+5:15.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

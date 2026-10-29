@@ -170,7 +170,17 @@ Forgiveness is expressly promised in both cases (16, 18). The holy-things case j
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+The closing promise of forgiveness (7) applies to the listed wrongs, including fraud and false
+swearing. Pardon is set beside required restitution, not permission to retain the neighbor’s
+goods.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

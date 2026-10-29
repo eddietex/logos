@@ -237,7 +237,17 @@ Hearing an adjuration and failing to testify (1) is distinct from uttering a ras
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+False swearing about another’s property belongs to the wrong requiring repayment and an offering
+(3, 5–7). This differs from the rash oath of Leviticus 5:4 and exposes the abuse of the property
+oath accepted in Exodus 22:10–11.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Hearing an adjuration and failing to testify (1) is distinct from uttering a rash oath (4). The remedy does not command carrying out an evil promise.
 

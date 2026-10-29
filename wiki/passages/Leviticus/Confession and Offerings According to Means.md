@@ -82,6 +82,9 @@ promise forgiveness; poverty changes the offering without removing the remedy.
 
 ## Cross-references
 
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7; fraud, repayment to the owner, and the ram offering.
+  See [[Restitution to the Neighbor and for Holy Things]] for the differing repayment rates.
+
 - [[The Sin Offering for Ruler and Individual]] — the female flock offering continues
   the preceding provision; affordability is now explicit rather than inferred.
 - [[The Meal Offering]] — flour, memorial handful, and priestly remainder recur, but

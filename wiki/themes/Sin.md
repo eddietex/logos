@@ -396,7 +396,17 @@ Unwitting wrongdoing against holy things (15) and prohibited acts done without k
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+Fraud, robbery, oppression, dishonest handling of lost property, and false swearing are addressed
+as trespass against Yahweh (2–3). Unlike the preceding unknown-guilt case, these offenses involve
+deception; the offering laws cannot all be restricted to inadvertent acts.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

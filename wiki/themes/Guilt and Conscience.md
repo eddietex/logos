@@ -155,7 +155,17 @@ Verses 17–19 explicitly separate liability from knowledge. This is actual wron
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+Guilt leads to returning the goods in full with an added fifth (4–5). The WEB speaks of the day of
+being found guilty; these verses do not specify whether discovery, confession, or a judicial
+verdict establishes that point.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

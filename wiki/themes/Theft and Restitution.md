@@ -139,7 +139,18 @@ Leviticus 5:15–16 extends the restitution theme to unwitting wrong in holy thi
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+Goods obtained through robbery, oppression, fraud over deposits, or dishonest retention of lost
+property must be restored in full with an added fifth (2–5). Tension with Exodus 22:1–9: that law
+requires multiplied repayment in theft and disputed-property cases. These texts state differing
+provisions; neither expressly explains how the penalties interact in an overlapping case.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

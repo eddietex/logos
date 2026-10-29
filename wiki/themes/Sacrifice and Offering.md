@@ -362,7 +362,17 @@ Both cases prescribe a ram without defect as a trespass offering. Unlike 5:7–1
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+The offender brings a ram without defect, according to valuation, as a trespass offering (6). No
+cheaper alternative, slaughter procedure, or blood rite is specified in this unit; the offering
+does not replace repayment.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

@@ -769,7 +769,16 @@ The address begun at Leviticus 4:1–2 continues through confession and offering
 
 See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+Receives the new divine speech (1). The law specifies repayment to the owner and a valued ram
+brought to the priest; Moses does not adjudicate a narrated dispute here.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Appears in
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; Receives the new speech at 5:14; the valuation language belongs to the instruction delivered to him, without a narrated act of appraisal.
 

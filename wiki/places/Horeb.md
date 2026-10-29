@@ -287,7 +287,16 @@ The offering laws belong to the Sinai setting identified in Leviticus 7:38. Levi
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]].
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+The offering laws are located at Sinai by Leviticus 7:38. This unit names no geographical
+location; its restoration of the neighbor’s goods belongs within that wider Sinai instruction.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Appears in
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; contextual Sinai setting.
 

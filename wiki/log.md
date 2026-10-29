@@ -19575,3 +19575,29 @@ checked in stored Leviticus 5:1–13; 7:38 and Exodus 22:1–15; 28:1. No raw te
 new source-language assertion, or new quotation from an unstored book. No harness or
 workflow changes. Link checks clean (59 expected not-yet-started book targets), with
 no deliberate dangling links or unresolved issue. Authored by Codex.
+
+## [2026-10-29] ingest | Leviticus 6.1-7 — Restitution for Fraud and False Oaths
+
+Ingested one planned unit, [[Restitution for Fraud and False Oaths]], without changing its
+boundary. Fraud against the neighbor is trespass against Yahweh; full repayment plus a
+fifth goes to the owner, while the ram goes to the priest for atonement and forgiveness.
+The passage absorbs the unattended discussion and distinguishes false swearing from the
+preceding rash-oath and unknown-guilt cases.
+
+Created 1 passage page; revised 27 existing pages including this log: 3 earlier passages,
+1 book, 3 people, 1 place, 10 themes, 1 connection, and 7 index/dashboard pages.
+Extended [[Restitution to the Neighbor and for Holy Things]] rather than creating a
+duplicate connection. Explicitly flagged the unresolved overlap between Exodus 22’s
+multiplied repayments and Leviticus 6’s added fifth; neither text supplies a complete
+harmonization or an explicit confession-versus-conviction distinction. Aaron and Horeb
+remain explicitly contextual; generic legal roles do not receive invented person pages.
+
+All seven quoted verses were copied mechanically and checked against stored WEB
+Leviticus 6:1–7. Comparisons checked in stored Leviticus 5:1–19; 7:38 and Exodus 22:1–15;
+28:1. No unstored-book quotation or new source-language claim was introduced, and no raw
+text was changed. Leviticus is now 8 / 44 pericopes; dashboard totals counted by type:
+235 passages, 192 people, 104 places, 85 themes, 544 connections.
+
+Validation: `scripts/link-check.sh` clean (59 expected not-yet-started book targets);
+quoted-text verification and affected index-row count checks passed. No operational
+blocker. Authored by Codex.

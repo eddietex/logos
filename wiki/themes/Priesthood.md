@@ -232,7 +232,16 @@ The priest receives the holy-things restitution with its added fifth and makes a
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+The ram is brought to the priest, who makes atonement before Yahweh (6–7). Unlike the holy-things
+case of 5:16, the repayment with its fifth goes to the owner (5), not to the priest.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

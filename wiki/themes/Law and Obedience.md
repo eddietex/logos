@@ -512,7 +512,16 @@ The remedy is prescribed as carefully as the prohibition: a ram without defect, 
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+The prescribed remedy joins full repayment plus a fifth to a ram without defect and priestly
+atonement (4–7). The law orders conduct toward the owner and approach to Yahweh together.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

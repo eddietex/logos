@@ -64,6 +64,9 @@ without a way forward.
 
 ## Cross-references
 
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7; fraud, repayment to the owner, and the ram offering.
+  See [[Restitution to the Neighbor and for Holy Things]] for the differing repayment rates.
+
 - [[Confession and Offerings According to Means]] — the preceding unit provides animal,
   bird, and flour remedies; its English trespass-offering label must not flatten the
   distinct ram procedure here.
@@ -104,4 +107,4 @@ the flour concession to this rite.
 All six verses copied from stored WEB `raw/bible/Leviticus.md`. Comparisons checked in
 stored Leviticus 5:1–13; 7:38 and Exodus 22:1–15; 28:1. No new original-language claim or
 quotation from an unstored book is used. The planned boundary is unchanged; 6:1 begins
-the next speech, whose fraud and false-oath cases remain un-ingested.
+the next speech, now ingested as [[Restitution for Fraud and False Oaths]].

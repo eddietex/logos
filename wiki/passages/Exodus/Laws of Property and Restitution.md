@@ -109,6 +109,9 @@ it, it need not; and a hired thing *"came for its lease"* (22:14–15).
 
 ## Cross-references
 
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7; fraud, repayment to the owner, and the ram offering.
+  See [[Restitution to the Neighbor and for Holy Things]] for the differing repayment rates.
+
 - [[Restitution to the Neighbor and for Holy Things]] — compare Exodus 22’s distinct repayment cases with Leviticus 5:15–16’s restitution, added fifth, and ram.
 
 - Exodus 20:15–17 — *"You shall not steal"*, followed by false testimony and coveting, given

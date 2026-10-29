@@ -318,7 +318,17 @@ woman as a liar. Her works supply the evidence for the praise requested in verse
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Fraud, restitution, and forgiveness — Leviticus 6:1–7
+
+False dealings over entrusted or lost property and false swearing compound material injury (2–5).
+Correcting the falsehood includes returning what belongs to the neighbor; a verbal assurance alone
+is not the prescribed remedy.
+
+See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
+
 ## Key passages
+
+- [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 
 - [[The Worthy Woman]] — Proverbs 31:30; Charm is an unreliable measure of worth.
 
