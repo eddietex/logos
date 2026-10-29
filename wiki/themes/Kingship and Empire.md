@@ -342,6 +342,17 @@ building with Lebanon timber (1 Kings 5:6; 7:2, checked at bible-api.com). The S
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### Queens and concubines as a scale of praise — Song of Solomon 6:4–10
+
+Sixty queens, eighty concubines, and virgins without number provide the backdrop to the
+unique beloved (6:8–9). Royal abundance supplies a scale of comparison, and the royal women
+join her praise. The verse says such women exist; it does not explicitly make them the
+speaker's household. No king is named here, so the counts cannot establish a stage of
+Solomon's reign or settle the male beloved's historical identity.
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; Solomon's carriage, guard, and crown.
@@ -533,6 +544,7 @@ Sefaria's *Miqra according to the Masorah*.
 - [[Thirty Excellent Things]] — Proverbs 22:29; 23:1–3; Serving kings and eating at a ruler's table.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:21–22; The king feared with Yahweh; the destruction from them both.
 - [[The Glory of Kings]] — Proverbs 25:1–7, 15; The searching king, his unsearchable heart, the throne purified, the courtier's place.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; queens and concubines as a scale of praise.
 
 ## Related themes
 

@@ -19142,3 +19142,62 @@ book checklist, and dashboard totals were checked. No external quotation or new 
 or Greek wording claim was added. Existing source-language discussions on connection
 pages retain their prior attribution; this pass adds English-text analysis with its own
 source notes. No raw text, schema, skill instruction, or controller file was changed.
+
+## [2026-10-28] ingest | Song of Solomon 6.4-10 — My Dove Is Unique
+
+Unattended `/ingest auto` by Codex (GPT-6 Astra); exactly one pericope. Song of Solomon was
+the first `in-progress` book, and 6:4–10 its first unchecked unit. The planned boundary is
+retained: direct praise begins at 6:4 and the repeated army-with-banners comparison closes
+at 6:10. The passage page carries the discussion in its summary and notes.
+
+**Interpretive decisions.** Renewed praise does not supply a narrated reunion after the
+failed search. The queens and concubines are not explicitly called the speaker's own;
+neither his kingship nor an identification with Solomon is established. The daughters
+of 6:9 may be the recurring daughters of Jerusalem, but that identification and the voice
+of 6:10 remain conditional. The mother's only daughter can have the brothers named in
+1:6; the celestial comparisons do not cancel the woman's dark and lovely self-description.
+The mother and royal women remain unnamed, without speculative individual pages. The new
+[[Tirzah (city)]] page takes its qualifier immediately because Numbers 26:33 also names a
+woman Tirzah; the eventual person page will take a person qualifier. No duplicate bare
+name or dangling person link is created. No pericope boundary was redrawn.
+
+**Connections and tension.** Four existing connections now incorporate the unit: repeated
+body descriptions, the recognition question, dove imagery, and the English-text comparison
+with praise of unblemished beauty. The last addition makes no claim that the underlying
+Hebrew terms are identical. A new connection,
+[[They Called Her Blessed - Proverbs 31.28-30 and Song of Solomon 6.8-10]], records the
+pattern of singular worth, blessing, and public praise, while explicitly retaining the
+different evaluations of beauty in Proverbs 31:30 and Song 6:4–10. Singular attachment
+beside royal plurality is also flagged on [[Marriage]]. No tension was silently erased.
+
+**Created (3 content pages):** [[My Dove Is Unique]], including all seven verses copied
+from the stored WEB; [[Tirzah (city)]]; and the blessing-and-praise connection above.
+
+**Revised (20 content pages):** [[Song of Solomon]]; [[The Woman (Song of Solomon)]],
+[[The Man (Song of Solomon)]], [[The Daughters of Jerusalem]]; [[Jerusalem]], [[Gilead]];
+nine themes ([[Love]], [[Marriage]], [[War]], [[Seeing and Being Seen]], [[Praise and Song]],
+[[Blessing]], [[Kingship and Empire]], [[Light and Darkness]], [[City and Civilization]]);
+four connections (Your Hair Is Like a Flock of Goats; Who Is This Coming Up from the
+Wilderness; The Dove and the Spirit; No Blemish in You); and [[The Worthy Woman]] with the
+reciprocal connection link. Stale forward references to this unit were updated on touched
+pages. The recognition-question connection now distinguishes looking out at 6:10 from
+coming up at 3:6 and 8:5. Each touched category page has an updated index row and passage
+reference.
+
+**Indexes and totals.** Ten indexes revised: books (11 / 16), main dashboard, places,
+themes, People A-E, F-M and N-Z, and Connections D-H, I-N and T-Z. Totals by frontmatter
+type: 222 passages, 191 people, 100 places, 85 themes, 532 connections; 6 books started,
+5 complete. Including this log, 34 wiki files were created or revised: 3 new content pages,
+20 revised content pages, 10 indexes, and the log. `scripts/link-check.sh` exits 0 with
+no wrapped links or unexpected dangling targets; 60 unstarted book pages remain the
+expected baseline.
+
+**Sources and validation.** The seven-verse quotation was compared mechanically with
+`raw/bible/Song of Solomon.md`. Internal comparisons were checked against the stored WEB,
+including Song 1:5–6; 2:14; 3:6–11; 4:1–9; 5:2–6:10; 8:5 and Proverbs 31:10–31. Tirzah's
+place and personal-name contexts were verified with single-verse bible-api.com WEB requests
+for Joshua 12:24 and Numbers 26:33, without fetching either book into raw. No new Hebrew
+or Greek claim is introduced; existing source-language discussions retain their earlier
+attribution and the additions identify their English-text scope. The title is unique,
+category row membership and filing were checked, and counts match the book checklist and
+dashboard. No raw text, schema, skill instruction, or controller file was changed.

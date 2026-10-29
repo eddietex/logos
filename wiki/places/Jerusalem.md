@@ -41,6 +41,11 @@ In [[Altogether Lovely]] the woman again names the daughters of Jerusalem as her
 (6:1) does not locate the garden or the exchange in Jerusalem. Source: stored WEB Song
 of Solomon 5:9–6:3.
 
+In [[My Dove Is Unique]] Jerusalem itself becomes a measure of the woman's loveliness, alongside
+[[Tirzah (city)]] (6:4). This is a direct comparison with the city rather than its name in
+an audience's title. It still does not locate the lovers or identify the unnamed city
+of the night searches. Source: stored WEB Song of Solomon 6:4–10.
+
 ## Appears in
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; city of the kingship named in the heading.
@@ -51,6 +56,7 @@ of Solomon 5:9–6:3.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:10–11; *"daughters of Jerusalem"*, with *"daughters of Zion"* in parallel.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:8; named in the address, not as the walled city of 5:7.
 - [[Altogether Lovely]] — Song of Solomon 5:16; named in the audience’s title.
+- [[My Dove Is Unique]] — Song of Solomon 6:4; the city as a comparison for loveliness.
 
 ## Related places
 
@@ -58,6 +64,7 @@ of Solomon 5:9–6:3.
 - [[Kedar]] — compared in the same verse that addresses Jerusalem's daughters (Song 1:5).
 - [[Zion]] — its hill, and its name in poetry; *"daughters of Zion"* beside *"daughters of Jerusalem"* (Song 3:10–11).
 - [[Lebanon]] — source of the timber for Solomon's buildings (1 Kings 5:6; 7:2) and his carriage (Song 3:9).
+- [[Tirzah (city)]] — paired measures of the beloved's beauty (Song 6:4).
 
 ## Events here
 

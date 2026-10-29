@@ -112,6 +112,14 @@ and he to her (6:1–3). **The shift from 5:6 is left explicit:** she could not 
 but speaks confidently of his whereabouts now. The poem supplies no intervening discovery
 or reunion. Source: stored WEB Song of Solomon 5:9–6:3.
 
+In [[My Dove Is Unique]] she is compared to Tirzah, Jerusalem, and an army with banners;
+her hair, teeth, and veiled temples are described again (6:4–7). The lover calls her his
+unique dove; her mother regards her as her only daughter and favorite, and other women
+praise her (6:8–9). Only daughter does not mean only child: the brothers of 1:6 remain
+compatible with this description. The morning, moon, and sun comparisons (6:10) do not
+narrate a change in the complexion she described at 1:5–6. She has no clearly assigned
+speech here. Source: stored WEB Song of Solomon 1:5–6; 6:4–10.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -134,6 +142,7 @@ or reunion. Source: stored WEB Song of Solomon 5:9–6:3.
 
 - Song of Solomon 5:9–6:3 — describes him to the daughters as beloved and friend, names his garden as his
   destination, and renews mutual belonging.
+- Song of Solomon 6:4–10 — praised as unique; other women call her blessed.
 
 ## Appears in
 
@@ -148,6 +157,7 @@ or reunion. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; addressed as bride; speaks 4:16.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; the only speaker.
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; praised as unique; other women call her blessed.
 
 ## Related people
 

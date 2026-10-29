@@ -10,7 +10,7 @@ tags: [connection]
 - **Song of Solomon 3:6** — [[Solomon's Wedding Procession]]: *"Who is this who comes up from the
   wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all spices of the
   merchant?"*
-- **Song of Solomon 6:10** *(stored WEB, not yet ingested)* — *"Who is she who looks out as the
+- **Song of Solomon 6:10** — [[My Dove Is Unique]] — *"Who is she who looks out as the
   morning, beautiful as the moon, clear as the sun, and awesome as an army with banners?"*
 - **Song of Solomon 8:5** *(stored WEB, not yet ingested)* — *"Who is this who comes up from the
   wilderness, leaning on her beloved?"*
@@ -43,13 +43,23 @@ often hear in it Israel's own coming up from the wilderness in Exodus and Number
 exodus, and the wiki does not import one. See
 [[Pillars of Smoke - Song of Solomon 3.6, Joel 2.30, and the Wilderness Pillar]].
 
+**The question at the close of renewed praise.** In [[My Dove Is Unique]], 6:10 repeats the army
+with banners of 6:4 and widens the comparisons to morning, moon, and sun. Verse 6:9 has
+just reported the daughters' blessing and the queens' and concubines' praise. The final
+question can therefore be read as their admiration or as the continuing male voice;
+the WEB supplies no speaker label that settles it. Unlike 3:6 and 8:5, 6:10 mentions no
+wilderness or ascent. The repeated question links poems without requiring the same
+journey or speaker each time. Source for this addition: stored WEB Song 3:6–7; 6:4–10;
+8:5; no new source-language claim.
+
 ## Significance
 
 The repeated question is one of the Song's ways of tying separate poems together without telling a
-continuous story. Each time someone is seen coming, and each time the poem stops to ask who. At 3:6
+continuous story. Each question draws attention to a striking appearance; 3:6 and 8:5
+include coming up, whereas 6:10 describes looking out. At 3:6
 the answer is royal splendor; at 6:10 it is a woman as bright as the sky; at 8:5 it is a woman
-leaning on the one she loves. The progression is a reading; the repetition is in the text. This page
-will be revised when 6:4–10 and 8:5–7 are ingested.
+leaning on the one she loves. The progression is a reading; the repetition is in the text.
+Song 6:4–10 is now ingested; 8:5–7 remains a stored cross-reference awaiting ingestion.
 
 Sources: Song of Solomon 3:6–7; 6:4–10; 8:5 from the stored WEB. Hebrew of Song 3:6–7; 6:10; 8:5
 from Sefaria's *Miqra according to the Masorah*, 2026-10-28.

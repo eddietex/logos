@@ -19,7 +19,7 @@ tags: [connection]
   *"Your eyes are doves behind your veil"* ([[You Are All Beautiful]])
 - Song of Solomon 2:14 — *"My dove in the clefts of the rock … Let me see your face"*
   ([[Rise Up, My Love]]); 2:12 has the turtledove's voice as a sign of spring
-- Song of Solomon 5:2; 6:9 — *"my dove"*, the beloved
+- Song of Solomon 5:2; 6:9 — *"my dove"*, the beloved; 6:9 now ingested in [[My Dove Is Unique]]
 - Hosea 7:11; 11:11 — Israel as a silly dove, and as doves brought home trembling
 - Psalm 74:19 — *"Don't deliver the soul of your dove to wild beasts"*
 - Matthew 3:16; Mark 1:10; Luke 3:22; John 1:32 — the Spirit descending *"like a dove"* on Jesus as
@@ -100,6 +100,13 @@ and water here does not by itself establish an allusion to the flood or baptism,
 identify the beloved with the Spirit. This occurrence broadens the image's use and limits
 any claim that every biblical dove must carry the same symbolism.
 Source for this addition: stored WEB Song 1:15; 4:1; 5:9–16; no new Hebrew or Greek claim.
+
+**The unique dove.** In [[My Dove Is Unique]] the dove is the beloved distinguished from queens,
+concubines, and innumerable virgins (6:8–9). The endearment continues 2:14 and 5:2; this
+occurrence emphasizes singular affection and the admiration of others. It narrates no
+bird over water and gives no identification with the Spirit. The local context therefore
+limits a uniform theological reading of every dove image. Source for this addition:
+stored WEB Song 2:14; 5:2; 6:4–10; no new source-language claim.
 
 ## Significance
 

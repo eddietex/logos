@@ -259,6 +259,17 @@ presence. See [[Your Hair Is Like a Flock of Goats - Song of Solomon 4.1-7, 6.4-
 
 See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 
+### Eyes that overcome and onlookers who praise — Song of Solomon 6:4–10
+
+The man asks her to turn away her eyes because they overcome him (6:5), developing the
+effect of one glance in 4:9. His description repeats hair, teeth, and veiled temples from
+4:1–3, but looking now explicitly affects the observer. Other women see and praise her
+(6:9); the question of 6:10 turns her appearance into public wonder. Who voices that
+question remains uncertain in the stored WEB.
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -576,6 +587,7 @@ See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[The Young Man Void of Understanding]] — Proverbs 7:2, 6–7; the father at the window, and the apple of the eye
 - [[Thirty Excellent Things]] — Proverbs 23:5–6; Eyes set on what is not; the stingy eye.
 - [[Do Not Envy Sinners]] — Proverbs 23:26, 29, 31, 33; Eyes kept in the father's ways, wine looked at, bloodshot eyes, strange sights.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; eyes that overcome and onlookers who praise.
 
 ## Related themes
 

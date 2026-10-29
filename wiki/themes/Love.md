@@ -403,6 +403,16 @@ is erased; no intervening reunion is supplied. See
 
 See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 
+### One beloved among many — Song of Solomon 6:4–10
+
+The queens, concubines, and virgins of 6:8 are followed by the unique dove of 6:9.
+The sequence values a particular beloved rather than treating her as one interchangeable
+member of a crowd. It does not state whose royal women these are or settle the lovers'
+marital history. The praise continues after the assurance of 6:3 without narrating a reunion.
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; beloved and friend; renewed reciprocal belonging.
@@ -521,6 +531,7 @@ See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[A Good Name]] — Proverbs 22:6, 15; Training and the rod as household care.
 - [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–26; A father's and mother's gladness, and *"give me your heart"*.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:5–6, 9–10, 17; Open rebuke, a friend's wounds, the father's friend, iron sharpening iron.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; one beloved among many.
 
 ## Related themes
 

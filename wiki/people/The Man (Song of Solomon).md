@@ -94,6 +94,14 @@ lilies; at 6:3 she affirms their mutual belonging. These are her statements, not
 return or a speech of reconciliation from him. The poem does not name him Solomon or call
 him king here. Source: stored WEB Song of Solomon 5:9–6:3.
 
+In [[My Dove Is Unique]] he is understood to resume direct praise of the woman (6:4–9).
+Her eyes overcome him, and the hair, teeth, and temples imagery of chapter 4 returns.
+He calls her his unique dove amid queens, concubines, and innumerable virgins. Those women
+are not explicitly called his own, and neither his kingship nor an identification with
+Solomon is established. The speaker of the closing question (6:10) is uncertain: it may
+continue his praise or express the other women's admiration. Renewed speech does not
+supply a narrated reunion after 5:6. Source: stored WEB Song of Solomon 4:1–3; 5:6; 6:4–10.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -117,6 +125,7 @@ him king here. Source: stored WEB Song of Solomon 5:9–6:3.
 
 - Song of Solomon 5:9–6:3 — described as altogether lovely and as her friend; said to be in his garden;
   silent throughout.
+- Song of Solomon 6:4–10 — renews praise; her eyes overcome him; royal identity remains unproved.
 
 ## Appears in
 
@@ -132,6 +141,7 @@ him king here. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; his words quoted by her (5:2); absent from
   5:6.
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; renews praise; her eyes overcome him; royal identity remains unproved.
 
 ## Related people
 

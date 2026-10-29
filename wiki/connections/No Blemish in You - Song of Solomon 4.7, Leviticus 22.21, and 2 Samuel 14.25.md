@@ -24,6 +24,7 @@ tags: [connection]
 
 Hebrew of every Old Testament verse above read from Sefaria's *Miqra according to the Masorah*,
 2026-10-28. The Greek of Ephesians 5:27 was not checked.
+- [[My Dove Is Unique]] — Song of Solomon 6:9; the WEB calls her the lover's perfect one.
 
 ## Analysis
 
@@ -52,6 +53,13 @@ makes no claim about which Greek word stands behind *"without defect"* there or 
 his father David (2 Samuel 15, not yet ingested). In 2 Samuel the praise of his body does not mean
 praise of his character. The Song makes no such judgment about the woman. The two verses share a word
 and a form, not a moral.
+
+**Further praise in the English text.** [[My Dove Is Unique]] calls the woman the lover's perfect
+one (6:9), following his praise of her whole beauty in 4:7. This is an English-text
+comparison only: it does not assert that the Hebrew term is the same as the word studied
+above. The contrast with many royal women and their ensuing praise places 6:9 within
+love poetry. Neither verse by itself declares her sinless or suitable for sacrifice.
+Source for this addition: stored WEB Song 4:7; 6:8–10.
 
 ## Significance
 

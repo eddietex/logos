@@ -146,6 +146,9 @@ No place page is created.
   refusal of idleness answer the sluggard’s neglect.
 - [[Open Your Mouth for the Mute - Proverbs 31.8-9, Job 29, and Exodus 23]] — Proverbs 31:20, 26;
   generous hands and wise speech complement the king’s duty to secure justice.
+- [[They Called Her Blessed - Proverbs 31.28-30 and Song of Solomon 6.8-10]] —
+  [[My Dove Is Unique]] (Song 6:8–10) also joins singular worth with blessing and praise;
+  the connection keeps the differing evaluations of beauty explicit.
 
 ## Notes
 

@@ -81,6 +81,17 @@ the worth of a beloved person to the one who loves him. No musical performance i
 
 See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 
+### The women praised her — Song of Solomon 6:4–10
+
+The lover's praise expands into the daughters' blessing and the praise of queens and
+concubines (6:9). Others acknowledge the woman he calls unique. The scene need not be
+converted into rivalry; no jealousy is narrated. Proverbs 31:28–30 provides a parallel
+of blessing and praise while evaluating beauty differently; see
+[[They Called Her Blessed - Proverbs 31.28-30 and Song of Solomon 6.8-10]].
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; extended praise of the beloved in answer to a question.
@@ -92,6 +103,7 @@ See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[The Golden Calf]] — Exodus 32:1–35; Moses hears singing where Joshua hears the sound of war, and he sees dancing before the calf (32:17–19).
 - Genesis 31:27 — the songs and tambourine Laban says he would have given — [[Jacob's Flight from Laban]]
 - Exodus 15:1–21 — the Song of the Sea and Miriam's refrain — [[The Song of the Sea]]
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; the women praised her.
 
 ## Related themes
 - [[The Fear of God]] — *"fearful in praises"*

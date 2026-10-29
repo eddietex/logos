@@ -52,7 +52,7 @@ The name connects them with [[Jerusalem]] without saying they live in the city i
 particular scene. The Song makes them an audience and, at times, a chorus. It does not say
 whether they are friends, attendants, or rivals, and the page does not decide.
 
-Source: stored WEB Song of Solomon, read for the queue; only 1:1–6:3 is ingested.
+Source: stored WEB Song of Solomon, read for the queue; only 1:1–6:10 is ingested.
 
 In [[Altogether Lovely]] the questioners ask how her beloved differs from another and why she
 adjures them (5:9). After her description ends in an address to the daughters themselves
@@ -61,6 +61,13 @@ of the questioners with the daughters follows this dialogue; the stored WEB give
 speaker labels in these verses. They call her fairest among women and offer cooperation;
 the opening question is not enough to establish mockery or rivalry. Source: stored WEB
 Song of Solomon 5:9–6:3.
+
+In [[My Dove Is Unique]] daughters see the woman and call her blessed (6:9); queens and
+concubines also praise her. These daughters may be the familiar audience, but the phrase
+of Jerusalem is absent here, so the identification remains conditional. The admiring
+question of 6:10 may voice these women's praise or continue the man's speech. Neither
+assignment is specified by a WEB speaker label. The unit does not identify all the
+queens, concubines, or virgins with this audience. Source: stored WEB Song of Solomon 6:4–10.
 
 ## Timeline / key events
 
@@ -76,6 +83,7 @@ Song of Solomon 5:9–6:3.
 
 - Song of Solomon 5:9–6:3 — question what makes her beloved special, receive her description, and offer
   to help seek him (5:9, 16; 6:1).
+- Song of Solomon 6:4–10 — possible presence only; daughters and questioners are not explicitly identified.
 
 ## Appears in
 
@@ -86,6 +94,7 @@ Song of Solomon 5:9–6:3.
   of Zion, summoned in 3:11.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; adjured in 5:8 to carry her message.
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; possible presence only; daughters and questioners are not explicitly identified.
 
 ## Related people
 

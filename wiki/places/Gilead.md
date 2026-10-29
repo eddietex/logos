@@ -41,6 +41,10 @@ there no balm in Gilead?"*** (Jeremiah 8:22), from the resin the caravans in Gen
 already carrying down to Egypt; **Amos opens his oracles against Damascus with a charge about
 Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes** (2 Kings 15:29).
 
+In [[My Dove Is Unique]] the goats along Gilead's side again picture the woman's hair (Song 6:5),
+resuming the comparison of 4:1. The region supplies a pastoral image, not a location for
+the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
+
 ## Appears in
 
 - [[Jacob's Flight from Laban]] — Genesis 31:21, 23, 25, 54; **the chapter's whole stage.** Jacob sets
@@ -56,7 +60,8 @@ Gilead** (Amos 1:3); and **it is the first Israelite territory Assyria annexes**
 - [[You Are All Beautiful]] — Song of Solomon 4:1; ***har gilʿāḏ***, *"Mount Gilead"* (Sefaria), now a
   slope in a love poem. The woman's hair is *"a flock of goats, that descend from Mount Gilead"* — the
   pasture country of Numbers 32:1 turned into a picture of dark hair moving in waves. The line is
-  repeated at 6:5, *"that lie along the side of Gilead"* (stored WEB, not yet ingested).
+  repeated at 6:5, *"that lie along the side of Gilead"* (now ingested in [[My Dove Is Unique]]).
+- [[My Dove Is Unique]] — Song of Solomon 6:5; the goats in the hair comparison return.
 
 ## Related places
 

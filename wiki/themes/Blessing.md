@@ -304,6 +304,17 @@ would explain it away. Many children and years also fail to ensure good (3–6).
 See [[Riches Without Enjoyment]]. Source: stored WEB Ecclesiastes 6:1–9; comparison
 sources are identified on the passage and connection pages.
 
+### Called blessed by the daughters — Song of Solomon 6:4–10
+
+The daughters see the woman and call her blessed (6:9), while queens and concubines
+praise her. This is human recognition, not a narrated divine act granting fertility,
+wealth, or protection. It broadens the page's opening emphasis on divine bestowal,
+as the children's acknowledgment already did in Proverbs 31:28. See
+[[They Called Her Blessed - Proverbs 31.28-30 and Song of Solomon 6.8-10]].
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wealth from God is not an automatic measure of enjoyed blessing.
@@ -559,6 +570,7 @@ sources are identified on the passage and connection pages.
 - [[The Work Completed]] — Exodus 39:32–43; Moses blesses the people after approving their work; his words are not supplied.
 - [[Wisdom at the Creation]] — Proverbs 8:32–34; *ʾašrê*: blessed are those who keep Wisdom's ways and wait at her door posts
 - [[A Good Name]] — Proverbs 22:9; The generous eye is blessed.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; called blessed by the daughters.
 
 ## Related themes
 

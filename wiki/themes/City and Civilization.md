@@ -155,6 +155,16 @@ judgment on the watchmen. See [[The Watchmen (Song of Solomon)]].
 See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Cities as measures of beauty — Song of Solomon 6:4–10
+
+Tirzah and Jerusalem provide positive comparisons for the woman's beauty (6:4).
+The city that supplied streets, watchmen, and danger in the night searches is not the
+only urban image available to the Song. Named cities can also serve love's admiration.
+Neither comparison sets the scene in one of them or identifies the unnamed search city.
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:7; the watchmen beat her and the keepers of the
@@ -198,6 +208,7 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
   *wayyāpeṣ*, the form of Genesis 11:8. Babel built *"lest we be scattered"*; Egypt scatters its
   brickmakers to find stubble. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–21; Wisdom calls in the city's streets, squares, and gates
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; cities as measures of beauty.
 
 ## Related themes
 

@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Song of Solomon 4:1–7** — [[You Are All Beautiful]]: the man describes the woman from her eyes
   down to her breasts, framed by *"Behold, you are beautiful"* and *"You are all beautiful"*.
-- **Song of Solomon 6:4–7** *(stored WEB, not yet ingested)* — *"Your hair is like a flock of goats,
+- **Song of Solomon 6:4–7** — [[My Dove Is Unique]] — *"Your hair is like a flock of goats,
   that lie along the side of Gilead. Your teeth are like a flock of ewes, which have come up from the
   washing"* (6:5–6).
 - **Song of Solomon 7:1–5** *(stored WEB, not yet ingested; Hebrew 7:2–6)* — a description from the
@@ -40,7 +40,7 @@ word (Sefaria):
 | Temples | *kǝp̄elaḥ hārimmôn raqqāṯēḵ mibbaʿaḏ lǝṣammāṯēḵ* | the same words |
 
 What changes is the frame. In chapter 4 the man begins with *"Behold, you are beautiful"*. In
-chapter 6 he begins *"Turn away your eyes from me, for they have overcome me"* (6:5), after comparing
+chapter 6 he asks *"Turn away your eyes from me, for they have overcome me"* (6:5), after comparing
 her to Tirzah, Jerusalem, and *"an army with banners"* (6:4). Her eyes were doves in 4:1; in 6:5 they
 overpower him. The lips and the neck of 4:3–4 are not repeated.
 
@@ -60,6 +60,14 @@ through a sequence of body parts just as she was in 4:1–7. His eyes are like d
 and the description ends with the whole person and the word *friend* (5:16). She praises
 him to others rather than addressing him directly. The recurrence makes praise reciprocal
 without making the two descriptions identical. Source: stored WEB Song 4:1–7; 5:9–16.
+
+**The second description in its whole unit.** Now ingested in [[My Dove Is Unique]], the repeated
+hair, teeth, and temples imagery belongs to a frame of cities, overpowering eyes, the
+unique dove, and other women's admiration (6:4–10). The army-with-banners comparison at
+6:4 returns at 6:10. The description does not restore an earlier scene unchanged: praise
+moves outward to public recognition. The eye's effect also recalls 4:9 in
+[[A Garden Locked and Opened]]. Source for this addition: stored WEB Song 4:1–9; 6:4–10;
+no new source-language claim.
 
 ## Significance
 

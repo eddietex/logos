@@ -169,6 +169,16 @@ Sefaria), the same picture of shields as a city's adornment.
 See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; comparison sources are
 identified on the passage page.
 
+### Awesome as an army with banners — Song of Solomon 6:4–10
+
+The army comparison occurs at both ends of the unit (6:4, 10). Between them the woman's
+eyes overcome the man (6:5). Martial force becomes a way of praising her formidable
+presence, following the tower and shields of 4:4. No attack, military command, or battle
+is narrated; the image does not make the beloved an enemy.
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[You Are All Beautiful]] — Song of Solomon 4:4; the neck as a tower hung with the shields of mighty men.
@@ -255,6 +265,7 @@ identified on the passage page.
   *"see war"* (13:17) did not avoid this one
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; God's terror, confusion, and hornet; a conquest *"little by little"*.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:5–6; War waged by wise guidance; victory in many advisors.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; awesome as an army with banners.
 
 ## Related themes
 

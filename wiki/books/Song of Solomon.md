@@ -84,8 +84,14 @@ culminate in her naming him her beloved and friend. The daughters offer to seek 
 she says he has gone to his garden and affirms mutual belonging (6:1–3). The failed search
 of 5:6 is followed by assurance, but no reunion is narrated.
 
+[[My Dove Is Unique]] renews his praise, comparing her to Tirzah, Jerusalem, and an army with banners
+(6:4–10). Her eyes overcome him; hair, teeth, and temples repeat chapter 4. Among queens,
+concubines, and innumerable virgins she is his unique dove, her mother's only daughter,
+and praised by other women. Morning, moon, and sun complete the description. The royal
+women are not explicitly his own, and the speaker of the closing question is uncertain.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–6:3 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–6:10 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -113,7 +119,7 @@ merge, or reorder them freely.
 - [x] [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1
 - [x] [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8
 - [x] [[Altogether Lovely]] — Song of Solomon 5:9–6:3
-- [ ] My Dove Is Unique — Song of Solomon 6:4–10
+- [x] [[My Dove Is Unique]] — Song of Solomon 6:4–10
 - [ ] Return, Return, Shulammite — Song of Solomon 6:11–7:9
 - [ ] Come into the Fields, My Beloved — Song of Solomon 7:10–8:4
 - [ ] Love Is Strong as Death — Song of Solomon 8:5–7
@@ -151,6 +157,9 @@ merge, or reorder them freely.
 - [[Love]], [[Seeing and Being Seen]], [[Praise and Song]], [[Wealth and Possessions]],
   [[Oaths and Vows]] — the beloved described as altogether lovely and as friend; the audience
   answers the adjuration and offers help; mutual belonging returns (5:9–6:3).
+- [[Love]], [[Seeing and Being Seen]], [[Praise and Song]], [[Blessing]], [[Marriage]],
+  [[Kingship and Empire]], [[War]], [[City and Civilization]], [[Light and Darkness]] —
+  singular beloved, public praise, cities and an army, morning and heavenly lights (6:4–10).
 
 ## Key people
 
@@ -172,6 +181,9 @@ merge, or reorder them freely.
   (*"my mother's sons"*, 1:6) are unnamed and have no page. Her mother, whose house she brings him
   into (3:4), has no page. Nor do Solomon's
   sixty mighty men or his unnamed mother (3:7, 11).
+- In [[My Dove Is Unique]], the man praises the woman and reports other women's admiration
+  (6:4–10). The mother and royal women remain unnamed; the daughters' identification with
+  the daughters of Jerusalem is possible, not explicit.
 
 ## Key places
 
@@ -191,3 +203,5 @@ stated location; Jerusalem must not be supplied there from later verses.
   procession comes up from (3:6) is unnamed.
 - [[Amana]] and [[Hermon]] — with Senir, the heights the bride is called from (4:8). Lebanon is named
   there too, and again for her garments' smell and the garden's streams (4:11, 15).
+- [[Tirzah (city)]] and [[Jerusalem]] — comparisons for beauty, not scene locations (6:4).
+- [[Gilead]] — the goats in the renewed hair comparison (6:5).

@@ -296,6 +296,16 @@ is the time of absence and danger, and again there is no moral darkness in it.
 See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Morning, moon, and sun — Song of Solomon 6:4–10
+
+The woman is compared to morning, moon, and sun (6:10). Light here serves praise of
+beauty and presence, not an ethical opposition between righteousness and sin. These
+images do not contradict her dark and lovely self-description (1:5–6), change her skin
+color, or narrate a dawn after the night search. The radiance is figurative.
+
+See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
+Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
+
 ## Key passages
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–7; the knock at night, and the night city.
@@ -445,6 +455,7 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
   light"*
 - [[The Young Man Void of Understanding]] — Proverbs 7:9; twilight to darkness, the adulterer's hour
 - [[Through Wisdom a House Is Built]] — Proverbs 24:20; The lamp of the wicked snuffed out.
+- [[My Dove Is Unique]] — Song of Solomon 6:4–10; morning, moon, and sun.
 
 ## Related themes
 
