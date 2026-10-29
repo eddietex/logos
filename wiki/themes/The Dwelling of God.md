@@ -211,7 +211,18 @@ particular sanctuary.
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### The burnt offering — Leviticus 1:1–17
+
+Yahweh speaks from the Tent of Meeting (1:1), and the door and its altar become the place of
+accepted approach (3–5). This follows the filling of Exodus 40 without narrating Moses’ entry. The
+promise of meeting and speech at the tent in Exodus 29:42–46 now has a concrete continuation.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Yahweh speaks from the Tent of Meeting (1:1), and the door and its altar become the place of accepted approach (3–5).
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:1–2; Going to God's house, while God is in heaven.
 

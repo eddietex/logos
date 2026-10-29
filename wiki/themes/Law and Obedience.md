@@ -464,7 +464,18 @@ in 7:15 remains an observation the conclusion does not retract.
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### The burnt offering — Leviticus 1:1–17
+
+Instruction is addressed through Moses to Israel (1:1–2), with distinct responsibilities for
+offerers and priests. The conditional cases regulate how an offering is brought; chapter 1 does not
+itself command a daily offering or report an actual performance.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Instruction is addressed through Moses to Israel (1:1–2), with distinct responsibilities for offerers and priests.
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; God’s commandments kept; no particular law collection named.
 

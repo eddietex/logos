@@ -238,7 +238,18 @@ existing Horeb/Sinai convention, without adding a modern identification.
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The burnt offering — Leviticus 1:1–17
+
+The tent and its altar are the immediate setting; the continuing Sinai setting is confirmed by
+Leviticus 7:38. Leviticus 1 does not name the mountain or narrate a departure. This page retains the
+wiki’s Horeb/Sinai grouping without supplying a modern location.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Appears in
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; The tent and its altar are the immediate setting; the continuing Sinai setting is confirmed by Leviticus 7:38.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; continuing Sinai construction setting inferred from context.
 

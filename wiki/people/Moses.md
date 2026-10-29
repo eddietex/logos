@@ -720,7 +720,19 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 - Exodus 40:1–38 — Raises and equips the sanctuary, performs service, and then cannot enter the filled tent. See [[The Tabernacle Raised and the Glory]].
 
+### The burnt offering — Leviticus 1:1–17
+
+Moses receives speech from the Tent of Meeting and is told to address Israel (1:1–2). Exodus 40:35
+reports his inability to enter the glory-filled tent; Leviticus 1:1 reports a call from it, without
+saying that he has now entered. The two reports should not be flattened into either unrestricted
+entry or permanent exclusion.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Appears in
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Moses receives speech from the Tent of Meeting and is told to address Israel (1:1–2).
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Commands the accounting; recipient of the commands fulfilled (38:21–22).
 

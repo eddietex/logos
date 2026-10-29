@@ -181,7 +181,19 @@ Aaron, and the sons all wash at the basin (40:31). See
 
 See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/bible/Exodus.md` (WEB), 2026-10-25.
 
+### The burnt offering — Leviticus 1:1–17
+
+The regulated offering retains active lay participation: the livestock offerer brings, lays a hand
+on the cattle victim, kills, and prepares the animal; the priests handle blood and the altar. In the
+bird case the priest performs the killing and preparation described (1:15–17). Priesthood does not
+mean that every action in every sacrifice is exclusively priestly.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; The regulated offering retains active lay participation: the livestock offerer brings, lays a hand on the cattle victim, kills, and prepares the animal; the priests handle blood and the altar.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Ithamar accounts; Aaron is named; the women’s ministry is not defined as priesthood.
 

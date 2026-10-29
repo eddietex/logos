@@ -138,6 +138,8 @@ guiding a people who have not yet reached the promised land.
 
 ## Cross-references
 
+- [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] — the following call from the tent does not narrate Moses entering it.
+
 - [[The Work Completed]] — Exodus 39:32–43; manufacture and inspection precede erection.
 - [[The Offering for the Sanctuary]] and [[The Ordination of the Priests]] — Exodus 25:8–9;
   29:42–46; the dwelling promise reaches its visible outcome.

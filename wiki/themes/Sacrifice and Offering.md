@@ -311,7 +311,19 @@ verse. See [[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Sam
 See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; comparison sources are
 identified on the passage and connection pages.
 
+### The burnt offering — Leviticus 1:1–17
+
+The burnt offering has three forms: cattle, sheep or goats, and turtledoves or young pigeons. Each
+ends in the same pleasant-aroma description (1:9, 13, 17). Burning the whole offering is not a claim
+that every removed part reaches the fire: the cattle are flayed (6), and the bird’s crop with its
+filth is discarded (16). No meal for the worshipper is prescribed.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; The burnt offering has three forms: cattle, sheep or goats, and turtledoves or young pigeons.
 
 - [[You Are All Beautiful]] — Song of Solomon 4:7; *mûm*, the offering's *defect*, used in praise.
 

@@ -179,7 +179,19 @@ cause of uncleanness is specified.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### The burnt offering — Leviticus 1:1–17
+
+Water washes the livestock victim’s innards and legs (1:9, 13), and the bird’s crop with its filth
+is discarded beside the altar (16). These are prescribed preparations, not a declaration that the
+offerer is ritually unclean. This chapter does not introduce the later classifications of personal
+impurity.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Water washes the livestock victim’s innards and legs (1:9, 13), and the bird’s crop with its filth is discarded beside the altar (16).
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; ritual distinction gives no exemption from death.
 

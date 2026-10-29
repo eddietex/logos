@@ -182,7 +182,19 @@ atonement instruction.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:10; the passage page records the
 cross-reference sources and interpretive limits.
 
+### The burnt offering — Leviticus 1:1–17
+
+The livestock offerer kills, while Aaron’s sons present or sprinkle blood around the altar (1:5,
+11). In the bird rite the priest drains blood on the altar’s side (15). These are distinct
+procedures at the outer altar, not the covenant sprinkling on the people in Exodus 24 or an entry
+behind the veil.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; The livestock offerer kills, while Aaron’s sons present or sprinkle blood around the altar (1:5, 11).
 
 - [[Where There Is No Vision]] — Proverbs 29:10; The bloodthirsty hate integrity and seek the
   upright person’s life in the WEB.

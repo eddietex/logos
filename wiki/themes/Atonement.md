@@ -101,7 +101,19 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 See [[The Plans of the Heart]]. Source: stored WEB Proverbs 16.
 
+### The burnt offering — Leviticus 1:1–17
+
+Leviticus 1:4 explicitly connects the accepted burnt offering with atonement for its offerer. No
+particular offense or confession is specified. The hand is laid on the victim’s head, but this verse
+does not explicitly say that sins are transferred to it. Substitution or identification may be
+interpretive explanations; they must not be presented as the chapter’s own account of the mechanism.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Leviticus 1:4 explicitly connects the accepted burnt offering with atonement for its offerer.
 
 - [[The Plans of the Heart]] — Proverbs 16:6.
 

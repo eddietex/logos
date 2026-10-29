@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Burnt Offering]] — Leviticus 1:1–17.
+
 - Genesis 8:20–21 — the first altar, the first burnt offering, and *"Yahweh smelled the pleasant
   aroma"* ([[The Waters Recede]])
 - Genesis 4:3–5 — the first offerings in Scripture, and God's regard for one and not the other
@@ -93,6 +95,17 @@ never of an animal.
 - **Revelation 5:8 and 8:3–4** put incense in the hands of the elders and an angel and identify it:
   *"the prayers of the saints"*. The last thing rising in Scripture is prayer, and it rises the way
   Noah's smoke did.
+
+### The regulated burnt offering — Leviticus 1
+
+Leviticus 1:9, 13, and 17 repeat the same pleasant-aroma description for cattle,
+flock, and birds. The three procedures differ, but the concluding evaluation does not
+rank them by cost or size. Genesis 8:20–21 describes Noah’s offering and God’s response;
+Leviticus prescribes Israel’s offerings. This is a comparison of the stored WEB wording,
+not a new source-language claim. “Whole” burning must retain the preparations: flaying
+in 1:6 and discarding the bird’s crop with its filth in 1:16.
+
+Source: stored WEB Leviticus 1; Genesis 8:20–21; 22:1–13; Exodus 18:1, 12.
 
 ## Significance
 

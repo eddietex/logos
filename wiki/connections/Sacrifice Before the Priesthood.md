@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Burnt Offering]] — Leviticus 1:1–17.
+
 - **Genesis 4:3–5** — Cain and Abel bring offerings, uncommanded, *"as time passed"*.
 - **Genesis 8:20–21** — Noah builds the first altar in Scripture and offers burnt offerings of
   every clean animal and bird.
@@ -46,9 +48,10 @@ tags: [connection]
 
 ## Analysis
 
-Every sacrifice in the Bible before Sinai is offered by a man who has not been told to offer it,
-at an altar nobody authorised, with no priest present, under no rule that says what is acceptable.
-This thread follows that pattern to its clearest instance, which is Job.
+Several early sacrifices precede the established Aaronic order, and some are offered without a
+recorded command. This thread follows that pattern, while retaining the commanded offering of
+Genesis 22 and Jethro’s priestly role in Exodus 18 as explicit exceptions to its former universal
+claim (see the correction below).
 
 **The pattern in Genesis.** Cain and Abel bring their gifts on their own initiative — no command,
 no altar, no ritual language, and no stated basis for the difference in reception (see
@@ -102,6 +105,22 @@ Job interceding for others. The first is for children who may have sinned in the
 is for three friends who certainly have sinned with their mouths, and this time God says outright
 that the intercession works. The man whose scrupulousness the accuser called mercenary in chapter 1
 is the man God will only be approached through in chapter 42.
+
+### The regulated burnt offering — Leviticus 1
+
+Leviticus 1 qualifies any impression that priesthood transfers every sacrificial act
+away from the worshipper. The cattle and flock offerer kills and prepares; the priests
+handle blood and the altar. The bird rite gives its handling to the priest (1:15–17).
+These are prescriptions, not reports of performances by named sons of Aaron.
+
+**Correction of the earlier generalization:** the opening of this analysis formerly said
+that every pre-Sinai sacrifice was uncommanded and had no priest present. Genesis 22:2
+explicitly commands the burnt offering, and Exodus 18:12 identifies Jethro as Moses’
+father-in-law in the sacrifice scene (his priestly identity is given at 18:1).
+Those cases prevent the universal claim. The narrower pattern is that several early
+sacrifices, including Noah’s in Genesis 8:20, precede an established Aaronic ritual order.
+
+Source: stored WEB Leviticus 1; Genesis 8:20–21; 22:1–13; Exodus 18:1, 12.
 
 ## Significance
 

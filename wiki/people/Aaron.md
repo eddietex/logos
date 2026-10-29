@@ -339,7 +339,18 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 - Exodus 40:1–38 — His consecration is commanded; he washes at the basin with Moses and his sons. See [[The Tabernacle Raised and the Glory]].
 
+### The burnt offering — Leviticus 1:1–17
+
+Aaron is named through the priestly office and his sons (1:5, 7–8, 11). The chapter assigns blood
+and altar duties to his priestly family; it does not narrate a sacrifice performed personally by
+Aaron.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Appears in
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Aaron is named through the priestly office and his sons (1:5, 7–8, 11).
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named as Ithamar’s father and priest (38:21).
 

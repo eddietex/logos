@@ -116,7 +116,18 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 - Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
 
+### The burnt offering — Leviticus 1:1–17
+
+Included collectively among Aaron’s sons, identified by Exodus 28:1, in the prescribed blood and
+altar duties (Leviticus 1:5, 7–8, 11). No son is individually named or assigned a separate deed
+here; this is ritual instruction, not a report that he has performed it.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Appears in
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Included collectively among Aaron’s sons, identified by Exodus 28:1, in the prescribed blood and altar duties (Leviticus 1:5, 7–8, 11).
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Material accounting under Moses’ command (38:21).
 

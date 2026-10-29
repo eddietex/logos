@@ -248,7 +248,19 @@ without claiming a verified source-language explanation.
 See [[The Wicked Buried and the Work Beyond Finding]]. Source: stored WEB Ecclesiastes 8:10–17;
 comparisons are identified on the passage page.
 
+### The burnt offering — Leviticus 1:1–17
+
+Approach is ordered through the tent entrance, the altar, prescribed victims, and priestly duties.
+Cattle and flock offerings must be male and without defect (1:3, 10). The bird paragraph does not
+repeat those qualifications; this silence must not be filled by treating the three procedures as
+identical.
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Key passages
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Approach is ordered through the tent entrance, the altar, prescribed victims, and priestly duties.
 
 - [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17; the wicked and holiness in the WEB.
 

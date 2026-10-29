@@ -19385,3 +19385,36 @@ Validation: scripts/link-check.sh passed with no wrapped links or dangling targe
 60 not-yet-started book pages remain the expected baseline. Frontmatter counts,
 exactly one index row per entity/connection, passage-title uniqueness, copied verses,
 and whitespace checks passed. No unresolved blocker.
+
+## [2026-10-29] ingest | Leviticus 1.1-17 — The Burnt Offering
+
+Opened [[Leviticus]] after all open and priority books were complete. Added its WEB raw source
+from bible-api.com: 27 chapters and 859 verses. Existing raw texts were unchanged. Drew a
+44-unit provisional queue covering the whole book without gaps or overlaps; ingested only
+[[The Burnt Offering]], Leviticus 1:1–17. Kept the opening call with the three forms of the
+burnt offering; the meal offering begins the next unit.
+
+Created 3 wiki pages: the book, the passage, and
+[[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]]. Revised 29 wiki
+pages including this log: 7 people, 1 place, 8 themes, 2 existing connections, the preceding
+Exodus passage, and 9 indexes/dashboards. Counts are now 228 passages, 192 people, 104 places,
+85 themes, and 540 connections; 7 books started, 6 complete.
+
+The passage includes all seventeen WEB verses and the unattended discussion. Distinguished
+livestock and bird procedures, lay and priestly duties, prescribed acts and narrated events,
+and acceptance/atonement from an unasserted mechanism of sin transfer. Aaron’s sons are
+covered collectively without inventing individual appearances; Sinai is contextual here,
+confirmed in Leviticus 7:38. Used the existing Horeb page and dwelling theme for the setting.
+The bird option is not expressly conditioned on poverty in chapter 1.
+
+Updated [[A Pleasing Aroma]] and [[Sacrifice Before the Priesthood]]. Explicitly corrected
+the latter’s universal pre-Sinai claim: Genesis 22:2 commands an offering, and Exodus 18:1, 12
+places a priest in the offering scene. Preserved the narrower comparison rather than silently
+erasing the discrepancy. The new tent connection preserves Exodus 40:35’s inability to enter
+alongside Leviticus 1:1’s speech from the tent, without inventing an entry or a lifted cloud.
+
+Sources: stored WEB Leviticus and the Genesis/Exodus passages identified on the passage page;
+no new quotation from an unstored book and no new exact source-language assertion. Verified
+all passage quotations against raw text and the complete queue against all 859 verse positions.
+`scripts/link-check.sh`: clean, expected baseline 59 not-yet-started book pages. No unresolved
+link or ingestion issue; no schema or harness-compatibility change needed.

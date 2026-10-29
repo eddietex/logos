@@ -2692,7 +2692,18 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 - Proverbs 8:22–35 — Possesses Wisdom *"in the beginning of his work"*; establishes the heavens, sets a circle on the deep, gives the sea its boundary, and marks out the earth's foundations with Wisdom beside him; gives favour to whoever finds her. See [[Wisdom at the Creation]].
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
+### The burnt offering — Leviticus 1:1–17
+
+Yahweh calls Moses and speaks from the Tent of Meeting, specifying how Israel may bring offerings
+before him. The dwelling becomes a source of instruction (1:1–2), and acceptance and atonement are
+explicitly promised in the cattle rite (1:3–4).
+
+See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
+page.
+
 ## Appears in
+
+- [[The Burnt Offering]] — Leviticus 1:1–17; Yahweh calls Moses and speaks from the Tent of Meeting, specifying how Israel may bring offerings before him.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
