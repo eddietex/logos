@@ -72,7 +72,18 @@ See [[Love Better Than Wine]]; comparisons are developed in
 [[Wine, Oil, and the Joy of Love]].
 Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
 
+### Altogether lovely — Song of Solomon 5:9–6:3
+
+The audience's question about the beloved's distinction elicits a whole description
+(5:9–16). The woman praises his body and ends by naming him her friend. Praise here is
+neither thanksgiving for deliverance nor a reward for stated virtuous deeds: it expresses
+the worth of a beloved person to the one who loves him. No musical performance is narrated.
+
+See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Key passages
+
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3; extended praise of the beloved in answer to a question.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; a song and the praise of human love.
 

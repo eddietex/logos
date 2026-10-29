@@ -54,10 +54,10 @@ Every verb that touches him is hers. Where he was is not said. Source: stored WE
 
 In [[Solomon's Wedding Procession]] the man is not named, not addressed, and does not speak.
 [[Solomon]] is named three times: his carriage comes up from the wilderness with sixty armed men, and
-the daughters of Zion are told to see him crowned *"in the day of his weddings"* (3:7, 9, 11). The man
-has been called *king* (1:4, 12) and will call the woman *"my bride"* in the next units (4:8–5:1, not
-yet ingested), so many readers take the procession as his wedding, with the man as Solomon or in the
-role of Solomon. Others read the king's splendor as a contrast with the shepherd of 1:7. This page
+the daughters of Zion are told to see him crowned *"in the day of his weddings"* (3:7, 9, 11).
+The royal language of 1:4, 12 and his address *"my bride"* in
+[[A Garden Locked and Opened]] (4:8–5:1) lead many readers to take the procession as his
+wedding, with the man as Solomon or in the role of Solomon. Others read the king's splendor as a contrast with the shepherd of 1:7. This page
 does not identify the man with Solomon; the unit never uses either lover's voice. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from Sefaria's *Miqra according to the Masorah*.
 
 In [[You Are All Beautiful]] he is the only speaker, for the first time over a whole unit. He describes
@@ -86,6 +86,14 @@ not appear again in the unit. The verb *ʿāḇār*, *passed on*, is the root of
 lock in 5:5 (Sefaria). Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's *Miqra
 according to the Masorah*.
 
+In [[Altogether Lovely]] he is the subject of the woman's sustained praise, not a speaker.
+His head, hair, eyes, cheeks, lips, hands, body, legs, appearance, and mouth are described
+through precious materials, animals, plants, and sweetness (5:10–16). She calls him her
+friend as well as her beloved. At 6:2 she says he has gone to his garden to feed and gather
+lilies; at 6:3 she affirms their mutual belonging. These are her statements, not a narrated
+return or a speech of reconciliation from him. The poem does not name him Solomon or call
+him king here. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -107,6 +115,9 @@ according to the Masorah*.
 - Song of Solomon 5:2–6 — knocks at night and asks her to open; is gone when she does, and does not
   answer her call.
 
+- Song of Solomon 5:9–6:3 — described as altogether lovely and as her friend; said to be in his garden;
+  silent throughout.
+
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
@@ -120,6 +131,7 @@ according to the Masorah*.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; speaks 4:8–15 and 5:1a.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; his words quoted by her (5:2); absent from
   5:6.
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
 
 ## Related people
 

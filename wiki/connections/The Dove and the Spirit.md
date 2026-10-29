@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Altogether Lovely]] — Song of Solomon 5:12; the man's eyes compared to doves beside
+  water brooks, washed with milk and mounted like jewels.
+
 - Genesis 1:2 — *"God's Spirit was hovering over the surface of the waters"*
   ([[The Creation of the World]])
 - Genesis 8:1–12 — the wind over the waters, and the dove sent out three times
@@ -89,6 +92,14 @@ dove over water, then a world again. Mark 1: Spirit as dove over water, then *"t
 Good News of Jesus Christ"* — and Mark, alone of the four, has the heavens *torn* open (*schizō*),
 the same verb he will use of the temple curtain at the death. Each time, the Spirit over water is
 the first move of something that did not exist before.
+
+**Doves in the woman's praise of the man.** Song of Solomon 5:12 in [[Altogether Lovely]]
+applies the dove comparison to his eyes, as 1:15 and 4:1 apply it to hers. The surrounding
+spices, gems, and bodily praise establish a love-poetry context. The proximity of doves
+and water here does not by itself establish an allusion to the flood or baptism, or
+identify the beloved with the Spirit. This occurrence broadens the image's use and limits
+any claim that every biblical dove must carry the same symbolism.
+Source for this addition: stored WEB Song 1:15; 4:1; 5:9–16; no new Hebrew or Greek claim.
 
 ## Significance
 

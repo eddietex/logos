@@ -43,19 +43,24 @@ In [[I Opened, but He Had Gone]] they are adjured a third time, but not with the
 watchmen have beaten her, the woman puts them under oath with a request: *"If you find my beloved,
 that you tell him that I am faint with love"* (5:8). For the first time she asks them to act on her
 behalf, as go-betweens. The Hebrew is literally *what will you tell him?* (Sefaria, *Miqra according
-to the Masorah*), and their reply in the next verse, *"that you do so adjure us?"* (5:9; stored WEB, not yet
-ingested), shows them answering the oath for the first time.
+to the Masorah*), and their reply in the next verse, *"that you do so adjure us?"* (5:9; now
+ingested in [[Altogether Lovely]]), shows them answering the oath for the first time.
 
 Later stored verses, not yet ingested, repeat the refrain (8:4).
-They ask how her beloved is better than another (5:9). The woman names him to them as
-*"my friend"* (5:16). In 6:1 the same questioners offer to help seek him. This page will
-record each passage as it is ingested and will not settle a question by anticipation.
 
 The name connects them with [[Jerusalem]] without saying they live in the city in a
 particular scene. The Song makes them an audience and, at times, a chorus. It does not say
 whether they are friends, attendants, or rivals, and the page does not decide.
 
-Source: stored WEB Song of Solomon, read for the queue; only 1:1–5:8 is ingested.
+Source: stored WEB Song of Solomon, read for the queue; only 1:1–6:3 is ingested.
+
+In [[Altogether Lovely]] the questioners ask how her beloved differs from another and why she
+adjures them (5:9). After her description ends in an address to the daughters themselves
+(5:16), they ask where he has gone and offer to seek him with her (6:1). The identification
+of the questioners with the daughters follows this dialogue; the stored WEB gives no
+speaker labels in these verses. They call her fairest among women and offer cooperation;
+the opening question is not enough to establish mockery or rivalry. Source: stored WEB
+Song of Solomon 5:9–6:3.
 
 ## Timeline / key events
 
@@ -69,6 +74,9 @@ Source: stored WEB Song of Solomon, read for the queue; only 1:1–5:8 is ingest
 - Song of Solomon 5:8 — put under oath a third time, to tell the beloved she is faint with love.
   [[I Opened, but He Had Gone]]
 
+- Song of Solomon 5:9–6:3 — question what makes her beloved special, receive her description, and offer
+  to help seek him (5:9, 16; 6:1).
+
 ## Appears in
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–8; addressed in 1:5, and possibly the voices of 1:8.
@@ -77,12 +85,13 @@ Source: stored WEB Song of Solomon, read for the queue; only 1:1–5:8 is ingest
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; named in 3:10, and, as the daughters
   of Zion, summoned in 3:11.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; adjured in 5:8 to carry her message.
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
 
 ## Related people
 
 - [[The Woman (Song of Solomon)]] — the speaker who addresses them.
 - [[The Man (Song of Solomon)]] — the beloved she asks them to find and tell (5:8); they ask about him in
-  5:9–6:1, not yet ingested.
+  [[Altogether Lovely]] (5:9–6:1).
 - [[Solomon]] — named in the comparison of 1:5; the king they are summoned to see (3:11).
 - [[The Watchmen (Song of Solomon)]] — the Song's other collective; the woman turns to the daughters
   after the watchmen beat her (5:7–8).

@@ -14,7 +14,7 @@ tags: [connection]
   washing"* (6:5–6).
 - **Song of Solomon 7:1–5** *(stored WEB, not yet ingested; Hebrew 7:2–6)* — a description from the
   feet up, which repeats *"Your two breasts are like two fawns, that are twins of a roe"* (7:3).
-- **Song of Solomon 5:10–16** *(stored WEB, not yet ingested)* — the woman's description of the man,
+- **Song of Solomon 5:10–16** — [[Altogether Lovely]] — the woman's description of the man,
   ending *"he is altogether lovely"* (5:16).
 - **Song of Solomon 1:15** — [[Delight and the Unawakened Love]]: *"Behold, you are beautiful, my
   love. Behold, you are beautiful. Your eyes are doves."*
@@ -52,7 +52,14 @@ the reverse of chapter 4. 7:1–5 is not yet ingested, and this page does not se
 
 **His description and hers.** The woman's description of the man (5:10–16) ends with *"he is
 altogether lovely"*. That is a different summary from the man's *"You are all beautiful"* (4:7), but
-both sum up the whole person. That unit is not yet ingested.
+both sum up the whole person. That unit is now ingested in [[Altogether Lovely]].
+
+**The woman's answer to a question.** Now ingested in [[Altogether Lovely]], 5:10–16 responds
+to the audience's question about what makes her beloved exceptional (5:9). He is praised
+through a sequence of body parts just as she was in 4:1–7. His eyes are like doves (5:12),
+and the description ends with the whole person and the word *friend* (5:16). She praises
+him to others rather than addressing him directly. The recurrence makes praise reciprocal
+without making the two descriptions identical. Source: stored WEB Song 4:1–7; 5:9–16.
 
 ## Significance
 

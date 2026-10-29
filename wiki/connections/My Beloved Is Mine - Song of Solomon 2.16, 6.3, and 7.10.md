@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Song of Solomon 2:16** — [[Rise Up, My Love]]: *"My beloved is mine, and I am his. He browses
   among the lilies."* (*dôḏî lî waʾănî lô*)
-- **Song of Solomon 6:3** *(stored WEB, not yet ingested)* — *"I am my beloved's, and my beloved is
+- **Song of Solomon 6:3** — [[Altogether Lovely]] — *"I am my beloved's, and my beloved is
   mine. He browses among the lilies,"* (*ʾănî ləḏôḏî wəḏôḏî lî*)
 - **Song of Solomon 7:10** *(stored WEB, not yet ingested; Hebrew 7:11)* — *"I am my beloved's. His
   desire is toward me."* (*ʾănî ləḏôḏî wəʿālay təšûqāṯô*)
@@ -50,6 +50,14 @@ It does not claim the Song quotes Genesis, because the Song names neither Eden n
 Genesis pair is laid out on [[Desire and Rule - Genesis 3.16 and 4.7]], which already notes that the
 Song's occurrence is ordinary desire, with no contest and no *māšal*. Song 7 is not yet ingested, so
 this page sets out the three verses and leaves the reading of 7:10 itself for that ingest.
+
+**The second formula in context.** In [[Altogether Lovely]], 6:3 follows the audience's offer
+to seek the beloved and the woman's declaration that he has gone to his garden (6:1–2).
+It answers the uncertainty of 5:6 with assurance, but no discovery scene intervenes.
+Reversing the two belonging clauses preserves reciprocity; the English wording alone
+does not prove a new relationship stage. The browsing among lilies repeats 2:16 and
+joins the formula to the garden of 6:2. Source for this addition: stored WEB Song 2:16;
+5:6; 6:1–3; no new source-language assertion.
 
 ## Significance
 

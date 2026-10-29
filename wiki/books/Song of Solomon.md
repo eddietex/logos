@@ -78,8 +78,14 @@ She seeks and calls him in vain. The watchmen of 3:3 find her again, and this ti
 the keepers of the walls take her cloak (5:7). She asks the daughters of Jerusalem to tell him she is
 *"faint with love"* (5:8). It is the second night search, and the first that ends without him.
 
+[[Altogether Lovely]] answers the daughters' question about the beloved with the woman's
+full description of him (5:9–16). Gold, doves, spices, gems, marble, and Lebanon's cedars
+culminate in her naming him her beloved and friend. The daughters offer to seek him with her;
+she says he has gone to his garden and affirms mutual belonging (6:1–3). The failed search
+of 5:6 is followed by assurance, but no reunion is narrated.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–5:8 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–6:3 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -106,7 +112,7 @@ merge, or reorder them freely.
 - [x] [[You Are All Beautiful]] — Song of Solomon 4:1–7
 - [x] [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1
 - [x] [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8
-- [ ] Altogether Lovely — Song of Solomon 5:9–6:3
+- [x] [[Altogether Lovely]] — Song of Solomon 5:9–6:3
 - [ ] My Dove Is Unique — Song of Solomon 6:4–10
 - [ ] Return, Return, Shulammite — Song of Solomon 6:11–7:9
 - [ ] Come into the Fields, My Beloved — Song of Solomon 7:10–8:4
@@ -142,18 +148,24 @@ merge, or reorder them freely.
   [[Light and Darkness]] — the knock at night, the door opened too late, the beating by the watchmen,
   and the daughters adjured to tell him *"I am faint with love"* (5:2–8).
 
+- [[Love]], [[Seeing and Being Seen]], [[Praise and Song]], [[Wealth and Possessions]],
+  [[Oaths and Vows]] — the beloved described as altogether lovely and as friend; the audience
+  answers the adjuration and offers help; mutual belonging returns (5:9–6:3).
+
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
-- [[The Woman (Song of Solomon)]] — the opening desiring voice.
+- [[The Woman (Song of Solomon)]] — the opening desiring voice; describes the man and declares
+  him her beloved and friend, then renews mutual belonging (5:9–6:3).
 - [[The Man (Song of Solomon)]] — the beloved addressed; not named in 1:2–4; pictured as a
   shepherd in 1:7; the one who calls her out in spring (2:10–14); the only speaker of 4:1–7; calls
   her *bride* and comes into the garden (4:8–5:1); knocks at night and is gone when she opens
-  (5:2–6).
+  (5:2–6); described by her and located in his garden (5:10–6:3).
 - [[David]] — named only in *"David's tower"* (4:4), a comparison.
 - [[The Daughters of Jerusalem]] — the Song's recurring addressed audience, first at 1:5;
   adjured at 2:7 and again at 3:5; as *"daughters of Zion"*, summoned to see the king (3:11);
-  adjured a third time, to tell him she is faint with love (5:8).
+  adjured a third time, to tell him she is faint with love (5:8); ask about him and offer to
+  seek him with her (5:9–6:1).
 - [[The Watchmen (Song of Solomon)]] — *"who go about the city"*; they find her at 3:3, and at 5:7
   beat her, with *"the keepers of the walls"* who take her cloak.
 - Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
@@ -166,13 +178,14 @@ merge, or reorder them freely.
 No geographical place is named in 1:1–4. The king's rooms are an interior without a
 stated location; Jerusalem must not be supplied there from later verses.
 
-- [[Jerusalem]] — named in the address *"daughters of Jerusalem"* (1:5; 2:7; 3:5; 5:8), not as a
+- [[Jerusalem]] — named in the address *"daughters of Jerusalem"* (1:5; 2:7; 3:5; 5:8, 16), not as a
   setting. The city of the night searches (3:2–3; 5:7) is unnamed.
 - [[Kedar]] — the tents of an Arabian people, a comparison for the woman's darkness (1:5).
 - [[En Gedi]] — its vineyards' henna, an image for the beloved (1:14).
 - [[Sharon]] — *"a rose of Sharon"*, the woman's self-description (2:1).
 - [[Bether]] — *"the mountains of Bether"* (2:17); possibly *cleft mountains* rather than a name.
-- [[Lebanon]] — the wood of Solomon's carriage (3:9); it recurs through chapters 4–7.
+- [[Lebanon]] — the wood of Solomon's carriage (3:9); an image for the beloved's appearance,
+  excellent as the cedars (5:15); it recurs through chapters 4–7.
 - [[Gilead]] — *"Mount Gilead"*, where the goats of the hair simile come down (4:1).
 - [[Zion]] — in *"daughters of Zion"* (3:11), in parallel with Jerusalem. The wilderness the
   procession comes up from (3:6) is unnamed.

@@ -621,7 +621,19 @@ does not judge it. The Preacher's catalogue of houses, gold, and *"the treasure 
 See [[Solomon's Wedding Procession]]. Source: stored WEB Song of Solomon 3:6–11; Hebrew read from
 Sefaria's *Miqra according to the Masorah*.
 
+### Gold and gems as praise of a body — Song of Solomon 5:9–6:3
+
+Gold, beryl, ivory, sapphires, and marble describe the beloved's head, hands, body, and
+legs (5:11, 14–15). Unlike the materials of Solomon's carriage in 3:9–10, these are
+similes and images for a person, not an inventory of property. Their value communicates
+her admiration without proving the beloved wealthy, royal, or an actual crafted statue.
+The terms follow the stored WEB; no identification of ancient mineral names is asserted.
+
+See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Key passages
+
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3; precious materials as bodily imagery, not possessions.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–10; Lebanon wood, silver, gold, purple, and merchants' spices.
 

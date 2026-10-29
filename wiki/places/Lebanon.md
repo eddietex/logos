@@ -44,11 +44,17 @@ Sources: Song of Solomon 3:6, 9; 4:8, 11, 15; 5:15; 6:10; 7:4 from the stored WE
 7:2 checked at bible-api.com, 2026-10-28. Hebrew of Song 3:6, 9; 4:8, 15; 6:10 from Sefaria's *Miqra
 according to the Masorah*.
 
+In [[Altogether Lovely]] the man's appearance is compared to Lebanon, excellent as the
+cedars (Song of Solomon 5:15). After supplying carriage wood, fragrance, and streams in
+3:9 and 4:11, 15, the landscape now supplies an image for the man himself. This is a
+comparison, not a journey or a statement about his birthplace. Source: stored WEB Song 5:15.
+
 ## Appears in
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:9; the wood of Solomon's carriage.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8, 11, 15; where the bride is called from, her garments' smell, and
   the garden's streams.
+- [[Altogether Lovely]] — Song of Solomon 5:15; a comparison for his appearance.
 
 ## Related places
 

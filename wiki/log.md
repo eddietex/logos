@@ -19096,3 +19096,49 @@ at bible-api.com (`translation=web`) without fetching the books: Jeremiah 31:20;
 Revelation 3:14–22. Hebrew of Song 1:6; 2:5, 7, 8, 14; 4:11; 5:1–6:3; 6:9; 8:4; Genesis 3:21; 4:23;
 35:18; Exodus 21:25; Proverbs 1:28; Isaiah 3:23; and Jeremiah 31:20 was read from Sefaria's *Miqra
 according to the Masorah*.
+
+## [2026-10-28] ingest | Song of Solomon 5.9-6.3 — Altogether Lovely
+
+Unattended `/ingest auto` by Codex (GPT-6 Astra); exactly one pericope. Song of Solomon was
+the first `in-progress` book, and 5:9–6:3 its first unchecked unit. The planned boundary is
+retained: the audience's question begins the unit and renewed mutual belonging closes it.
+The passage page carries the discussion in its summary and notes.
+
+**Interpretive decisions.** The questions of 5:9 and 6:1 are assigned to the daughters of
+Jerusalem from the surrounding addresses, with the absence of WEB speaker labels stated.
+The beloved's body is praised through precious materials, doves, spices, lilies, and cedars;
+these images do not establish his wealth, kingship, or historical identity. His designation
+as friend is connected to the existing friendship thread, without claiming a quotation of
+Proverbs. The garden remains a poetic, unnamed space, so no geographical page is created.
+The failure to find him in 5:6 and her confidence about his garden in 6:2 remain explicitly
+in tension: no discovery or reunion is invented. The reversal of the belonging clauses in
+2:16 and 6:3 does not by itself establish a stage of marriage or psychological development.
+No new people, places, themes, or connection pages were needed; seven existing connections
+absorb the comparisons. No unresolved contradiction was silently harmonized.
+
+**Created (1 content page):** [[Altogether Lovely]], including all eleven verses copied
+mechanically from the stored WEB.
+
+**Revised (18 content pages):** [[Song of Solomon]]; [[The Woman (Song of Solomon)]],
+[[The Man (Song of Solomon)]], [[The Daughters of Jerusalem]]; [[Lebanon]] and [[Jerusalem]];
+five themes ([[Love]], [[Seeing and Being Seen]], [[Praise and Song]], [[Oaths and Vows]],
+[[Wealth and Possessions]]); seven connections (My Beloved Is Mine; Your Hair Is Like a
+Flock of Goats; A Garden Locked; The Two Night Searches; Myrrh, Aloes, and Cinnamon;
+The Dove and the Spirit; A Friend Loves at All Times). Stale forward references to this
+unit were updated on touched pages. The man's page also now links the already ingested
+bride-address passage and keeps the royal identification conditional.
+
+**Indexes and totals.** Ten indexes revised: books (10 / 16), main dashboard, places,
+themes, People A-E, F-M and N-Z, and Connections D-H, I-N and T-Z. Totals by frontmatter
+type: 221 passages, 191 people, 99 places, 85 themes, 531 connections; 6 books started,
+5 complete. Including this log, 30 wiki files were created or revised: 1 new content page,
+18 revised content pages, 10 indexes, and the log. `scripts/link-check.sh` exits 0, with
+no wrapped links or dangling targets beyond the expected unstarted-book baseline.
+
+**Sources and validation.** New quotations and comparisons were checked in the stored WEB:
+Song of Solomon 1:5, 15; 2:16; 3:4; 4:1–16; 5:1–6:4; Proverbs 17:17; 27:9. The full passage
+quotation was checked mechanically against raw, and the new title, touched index rows,
+book checklist, and dashboard totals were checked. No external quotation or new Hebrew
+or Greek wording claim was added. Existing source-language discussions on connection
+pages retain their prior attribution; this pass adds English-text analysis with its own
+source notes. No raw text, schema, skill instruction, or controller file was changed.

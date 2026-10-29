@@ -36,6 +36,11 @@ again does not identify it with Jerusalem.
 Source: stored WEB Ecclesiastes 1:1–2:11, Song of Solomon 1:5; 2:7; 3:1–11; 5:7–8, and Genesis 14:18; the earlier identification discussion
 and its sources remain on [[Salem]].
 
+In [[Altogether Lovely]] the woman again names the daughters of Jerusalem as her audience
+(5:16), concluding her praise of the beloved. The questioners' offer to help seek him
+(6:1) does not locate the garden or the exchange in Jerusalem. Source: stored WEB Song
+of Solomon 5:9–6:3.
+
 ## Appears in
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; city of the kingship named in the heading.
@@ -45,6 +50,7 @@ and its sources remain on [[Salem]].
 - [[Seeking Him by Night]] — Song of Solomon 3:5; named in the refrain's address, not as the unnamed city of 3:2–3.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:10–11; *"daughters of Jerusalem"*, with *"daughters of Zion"* in parallel.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:8; named in the address, not as the walled city of 5:7.
+- [[Altogether Lovely]] — Song of Solomon 5:16; named in the audience’s title.
 
 ## Related places
 

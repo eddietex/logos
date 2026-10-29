@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Altogether Lovely]] — Song of Solomon 5:13; his cheeks as spices and his lips as lilies
+  dropping liquid myrrh; the beds of spices return in 6:2.
+
 - **Proverbs 7:16–17** — [[The Young Man Void of Understanding]]: *"I have spread my couch with
   carpets of tapestry, with striped cloths of the yarn of Egypt. I have perfumed my bed with myrrh,
   aloes, and cinnamon"* (*mōr ʾăhālîm wəqinnāmôn*)
@@ -73,6 +76,14 @@ the sanctuary oil, myrrh, cinnamon, and cane, in the garden. As above, the wiki 
 At 5:1 the man says *ʾārîṯî môrî ʿim-bǝśāmî*, *I have gathered my myrrh with my spice* (Sefaria): the
 spices are not only praised but taken, at her invitation. Proverbs 7 offers the same perfumes without
 the invitation of a bride. See [[A Garden Locked and Opened]].
+
+**Fragrance in her description of him.** In [[Altogether Lovely]] his cheeks resemble a
+bed of spices and his lips lilies dropping liquid myrrh (5:13). The liquid myrrh on her
+hands and the lock in 5:5 now belongs to her praise of his lips; this is an observable
+recurrence in the WEB, without a claim about how the substance got onto the lock. The
+beds of spices return when she identifies his garden (6:2). Fragrance links body, door,
+and garden across the scene of absence and the renewed declaration of belonging.
+Source for this addition: stored WEB Song 5:5, 13; 6:2–3.
 
 ## Significance
 

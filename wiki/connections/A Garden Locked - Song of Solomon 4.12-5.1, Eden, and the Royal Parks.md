@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Altogether Lovely]] — Song of Solomon 6:2–3; his garden, the beds of spices, and lilies.
+
 - [[A Garden Locked and Opened]] — Song of Solomon 4:12–5:1: *"A locked up garden is my sister, my
   bride; a locked up spring, a sealed fountain"* (4:12); *"Let my beloved come into his garden, and
   taste his precious fruits"* (4:16); *"I have come into my garden, my sister, my bride"* (5:1).
@@ -15,9 +17,8 @@ tags: [connection]
   garden."*
 - [[The Trial of Pleasure]] — Ecclesiastes 2:5–6: *"I made myself gardens and parks, and I planted
   trees in them of all kinds of fruit. I made myself pools of water."*
-- Song of Solomon 6:2, 11; 8:13 *(stored WEB, not yet ingested)* — *"My beloved has gone down to his
-  garden, to the beds of spices"* (6:2); the nut tree grove (6:11); *"You who dwell in the gardens"*
-  (8:13).
+- Song of Solomon 6:11; 8:13 *(stored WEB, not yet ingested)* — the nut tree grove (6:11);
+  *"You who dwell in the gardens"* (8:13).
 - Song of Solomon 7:10 *(stored WEB, not yet ingested)* — *"I am my beloved's. His desire is toward
   me"*, beside Genesis 3:16; see [[Desire and Rule - Genesis 3.16 and 4.7]].
 
@@ -57,6 +58,14 @@ and Christian interpretation as the church or the soul kept for Christ. In both,
 image of a people's or a soul's purity, and the Eden connection is natural to them. The wiki records
 these as readings. The Song's own garden is a woman, her bridegroom is let in, and the eating and
 drinking are theirs.
+
+**The garden after absence.** In [[Altogether Lovely]] the woman says he has gone down to
+his garden, to feed in the gardens and gather lilies (6:2), then declares mutual belonging
+(6:3). The garden image returns after the failed search of 5:6. Because 4:12 explicitly
+compared the woman to a garden, the return can suggest renewed intimacy. It does not
+establish a literal location, another woman, or an account of how he was found. The
+singular and plural gardens are both retained rather than harmonized into a map.
+Source for this addition: stored WEB Song 4:12, 16; 5:1, 6; 6:1–3.
 
 ## Significance
 

@@ -391,7 +391,21 @@ delay; it shows what it cost. See [[The Two Night Searches - Song of Solomon 3.1
 See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Beloved, friend, and mutual belonging — Song of Solomon 5:9–6:3
+
+The woman answers the question about his distinction with praise of his body and names
+him both beloved and friend (5:9–16). Her love includes companionship as well as desire;
+see [[A Friend Loves at All Times - Proverbs 17.17 and Job 6.14]]. At 6:3 the mutual
+belonging of 2:16 returns in reversed order. **Tension within the sequence:** the failed
+search of 5:6 is followed by confident knowledge of his garden in 6:2. Neither statement
+is erased; no intervening reunion is supplied. See
+[[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]].
+
+See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Key passages
+
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3; beloved and friend; renewed reciprocal belonging.
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; *"I opened to my beloved; but my beloved
   left"*; *"I am faint with love"*.

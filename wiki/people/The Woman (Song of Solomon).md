@@ -104,6 +104,14 @@ not said. She is called *"my sister"* but not *"my bride"*, a word the Song does
 Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's *Miqra according to the
 Masorah*.
 
+In [[Altogether Lovely]] she answers the question about her beloved's distinction by describing
+his body part by part (5:10–16). The gold, doves, spices, gems, marble, and cedars express her
+delight; she closes by calling him her beloved and her friend. When the audience offers to
+seek him with her, she says he has gone to his garden and declares that she belongs to him
+and he to her (6:1–3). **The shift from 5:6 is left explicit:** she could not find him then,
+but speaks confidently of his whereabouts now. The poem supplies no intervening discovery
+or reunion. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -124,6 +132,9 @@ Masorah*.
 - Song of Solomon 5:2–8 — delays when he knocks, opens too late, seeks and calls him in vain, is beaten
   by the watchmen, and asks the daughters to tell him she is faint with love.
 
+- Song of Solomon 5:9–6:3 — describes him to the daughters as beloved and friend, names his garden as his
+  destination, and renews mutual belonging.
+
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
@@ -136,6 +147,7 @@ Masorah*.
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; described and addressed; silent.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; addressed as bride; speaks 4:16.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; the only speaker.
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
 
 ## Related people
 

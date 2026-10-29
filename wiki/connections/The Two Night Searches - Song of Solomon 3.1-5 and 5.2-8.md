@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3; the exchange that follows the second search.
+
 - **Song of Solomon 3:1–5** — [[Seeking Him by Night]]: on her bed at night she seeks him, goes
   about the city, is found by the watchmen, and finds him.
 - **Song of Solomon 5:2–8** — [[I Opened, but He Had Gone]]: asleep with her heart awake, she
@@ -69,6 +71,14 @@ longer movement that the Masoretic section marks run through to 6:3, where she s
 beloved is mine"* in reverse, *"I am my beloved's, and my beloved is mine"* (Sefaria marks no break
 from 5:2 to 6:3). The wiki divides that movement at 5:8; see the boundary note on
 [[I Opened, but He Had Gone]].
+
+**The continuation now ingested.** [[Altogether Lovely]] carries the second search into a
+dialogue. The daughters ask about his distinction (5:9), hear the woman's description,
+and offer to seek him with her (6:1). She then identifies his garden as his destination
+and affirms mutual belonging (6:2–3). **The narrative gap remains:** 3:4 explicitly says
+she found him; 6:2–3 does not narrate a finding. Her renewed assurance therefore must not
+be retroactively inserted into 5:2–8 as a completed rescue or reunion.
+Source for this addition: stored WEB Song 3:4; 5:6–6:3.
 
 ## Significance
 

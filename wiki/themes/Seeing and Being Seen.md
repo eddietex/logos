@@ -249,7 +249,19 @@ likenesses; they say what she is worth to the one looking. See
 See [[You Are All Beautiful]]. Source: stored WEB Song of Solomon 4:1–7; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### The woman describes the man — Song of Solomon 5:9–6:3
+
+After the man's sustained praise of her in 4:1–7, she describes him part by part to the
+daughters (5:10–16). His eyes, like hers, are likened to doves. This is praise voiced
+about the one who was absent in 5:6; the poem does not say she is looking at him in person
+while speaking. The images register her valuation without establishing his physical
+presence. See [[Your Hair Is Like a Flock of Goats - Song of Solomon 4.1-7, 6.4-7, and 7.1-5]].
+
+See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Key passages
+
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
 
 - [[You Are All Beautiful]] — Song of Solomon 4:1–7; the man's first full description of the woman.
 

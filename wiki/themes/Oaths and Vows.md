@@ -207,13 +207,23 @@ The third adjuration begins as the refrain does, *hišbaʿtî ʾetḵem bǝnôt 
 drops the roes and the hinds and asks for something new. The daughters are bound not to hold back
 but to carry a message: *"If you find my beloved, that you tell him that I am faint with love"*. The
 Hebrew is literally *what will you tell him?* The oath is used here to enlist help, not to restrain.
-The daughters answer it in the next verse, *"that you do so adjure us?"* (5:9; stored WEB, not yet
-ingested).
+The daughters answer it in the next verse, *"that you do so adjure us?"* (5:9; now ingested in [[Altogether Lovely]]).
 
 See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### The audience answers the adjuration — Song of Solomon 5:9–6:3
+
+The question of 5:9 explicitly asks why the woman adjures her audience, answering the
+request of 5:8. After hearing her description, the questioners offer to seek him with
+her (6:1). This is a response to an adjuration, not a new oath sworn by the daughters;
+no oath formula or account of their actually searching follows.
+
+See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
+
 ## Key passages
+
+- [[Altogether Lovely]] — Song of Solomon 5:9–6:3; the adjuration questioned and an offer of help made.
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:8; the daughters put under oath to carry a message.
 

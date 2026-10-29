@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Altogether Lovely]] — Song of Solomon 5:16; the woman names her beloved also as her friend.
+
 - [[Wine Is a Mocker]] — Proverbs 20:6, 19, 28.
 
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:4, 6–7, 17.
@@ -127,6 +129,17 @@ Mechon-Mamre's Masoretic text, read 2026-10-27) who lifts the one who falls. Lik
 there. Unlike Job's friends, the companion of 4:10 is pictured only as present and helping; the
 passage does not consider a companion who fails. Source: stored WEB Ecclesiastes 4:8–12; Proverbs
 17:17; 18:24; 27:10.
+
+### The beloved also called friend — Song of Solomon 5:16
+
+In [[Altogether Lovely]] the woman's physical praise ends with *"This is my beloved, and
+this is my friend, daughters of Jerusalem."* Desire and friendship are joined in her
+identification of one man. Proverbs 17:17 describes enduring love as a friend's quality;
+27:9 places perfume and incense beside a friend's earnest counsel. The Song likewise
+brings fragrance and friendship into one description (5:13, 16), but depicts neither
+counsel nor a test of constancy. This is a thematic comparison in the stored WEB, not a
+claim that the Song quotes Proverbs or that every friendship is erotic.
+Sources for this addition: stored WEB Song 5:13, 16; Proverbs 17:17; 27:9.
 
 ## Significance
 
