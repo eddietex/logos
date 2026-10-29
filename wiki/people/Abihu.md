@@ -44,7 +44,7 @@ Exodus 30 includes Abihu among Aaron's *"sons"* — not by name — who wash han
 basin before entering the tent or approaching the altar, *"that they not die"* (30:19–21), and who
 are anointed with the holy oil (30:30). See
 [[The Incense Altar, the Ransom, and the Holy Oil]]. The same chapter forbids *"strange incense"*
-(30:9); Leviticus 10:1 (verified WEB) will narrate Nadab and Abihu offering *"strange fire"*. See
+(30:9); Leviticus 10:1 (verified WEB) now narrates Nadab and Abihu offering *"strange fire"*. See
 [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]].
 
 ### Garments included in the makers' commission — Exodus 31
@@ -106,7 +106,7 @@ Aaron’s sons present the offering and receive its most holy remainder (2:2–3
   [[The Heads of the Fathers' Houses]]
 - Called up the mountain with Moses, Aaron, Nadab, and seventy elders; sees God, and eats and drinks —
   Exodus 24:1, 9–11, [[The Blood of the Covenant]]
-- *(ahead)* Dies with Nadab — Leviticus 10:1–2; Numbers 26:61
+- Dies with Nadab — Leviticus 10:1–2; Numbers 26:61
 
 - Exodus 27:1–21 — Included collectively among Aaron’s sons assigned to the lamp; not individually named (27:21). See [[The Altar and the Court]].
 - Exodus 28:1–43 — Named individually for the priest's office; sons' garments prescribed. See [[The Priestly Garments]].
@@ -160,7 +160,15 @@ Included collectively among Aaron's sons, who deliver blood and portions in the 
 (9:9, 12–13, 18). He is not individually named or assigned a separate action here. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Offers fire with incense in his own censer alongside Nadab, without Yahweh’s command, and dies by fire from before Yahweh (1–2). The bodies are carried out in their coats (4–5); the text does not identify drunkenness as the cause.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Appears in
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Included collectively among Aaron's
   sons, who deliver blood and portions in the inaugural service (9:9, 12–13, 18).

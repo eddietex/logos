@@ -165,7 +165,15 @@ Included collectively among Aaron's sons, who deliver blood and portions in the 
 (9:9, 12–13, 18). He is not individually named or assigned a separate action here. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Is named with Aaron and Eleazar among the surviving priests. They obey Moses’ restrictions on mourning gestures and leaving the tent (6–7), while the house of Israel is permitted to bewail the burning.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Appears in
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Included collectively among Aaron's
   sons, who deliver blood and portions in the inaugural service (9:9, 12–13, 18).

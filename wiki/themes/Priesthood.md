@@ -285,7 +285,15 @@ After consecration, Aaron officiates and his sons deliver blood and portions. Hi
 precedes the people's; priestly office does not remove his need for atonement (9:7–21). See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Consecrated status does not authorize any offering a priest chooses (1–2). The office also requires sober entry, distinguishing holy from common and clean from unclean, and teaching Israel the statutes mediated by Moses (8–11).
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; After consecration, Aaron
   officiates and his sons deliver blood and portions.

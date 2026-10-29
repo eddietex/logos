@@ -250,7 +250,15 @@ rite without making ritual preparation identical to moral acquittal.
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Priestly instruction explicitly requires distinguishing unclean from clean alongside holy from common (10). The text does not label the brothers’ deaths a consequence of a named impurity or supply a new corpse-purification rite.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

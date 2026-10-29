@@ -339,7 +339,13 @@ The Sinai camp remains the narrative setting, inferred from 7:38; chapter 9 itse
 action at the tent and altar and outside the camp, without naming the mountain. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Judgment at the sanctuary — Leviticus 10:1–11
+
+[[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
+
 ## Appears in
+
+- [[Nadab and Abihu and the Strange Fire]] — continuing setting, not explicitly named.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The Sinai camp remains the
   narrative setting, inferred from 7:38; chapter 9 itself locates the action at the tent and altar

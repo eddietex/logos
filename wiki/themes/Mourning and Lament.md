@@ -156,7 +156,15 @@ house of mourning (7:2–4) remains beside the present command to rejoice.
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Aaron holds his peace (3); the surviving priests may not loosen their hair or tear their garments, while the whole house of Israel may bewail the burning (6). This is a restriction on these priests in this setting, not a universal prohibition of grief.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Public mourners accompany the image of final
   departure.

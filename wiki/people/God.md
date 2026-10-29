@@ -2789,7 +2789,15 @@ See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 2
 Yahweh's promised glory appears to all the people after the commanded service; fire from before him
 consumes the altar offering (9:6, 23–24). See [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Fire from before Yahweh kills the two priests (2). Yahweh then addresses Aaron directly about sober service, distinction, and teaching (8–11); judgment does not end the priestly commission.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Appears in
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Yahweh's promised glory appears to
   all the people after the commanded service; fire from before him consumes the altar offering (9:6,

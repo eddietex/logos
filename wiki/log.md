@@ -19773,3 +19773,35 @@ claim; raw texts and harness instructions unchanged.
 
 Validation: scripts/link-check.sh clean, with 59 not-yet-started book targets as the
 expected baseline; copied verse text and progress counts checked. No unresolved issue.
+
+## [2026-10-29] ingest | Leviticus 10.1-11 — Nadab and Abihu and the Strange Fire
+
+Ingested [[Nadab and Abihu and the Strange Fire]] in unattended mode, preserving the
+planned 10:1–11 boundary. The deaths, removal, mourning restrictions, and direct instruction
+to Aaron stay together; 10:12–20 remains unchecked. Leviticus is now 15 / 44 pericopes.
+
+Created five pages: the passage, [[Mishael (son of Uzziel)]],
+[[Elzaphan (son of Uzziel)]], [[Uzziel (son of Kohath)]], and
+[[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]].
+The named carriers and their father receive pages with patronymics; their Exodus 6
+genealogy is linked reciprocally. Revised 21 existing content pages: the book, seven
+people, one place, eight themes, two connections, and two earlier passages.
+Updated ten index/dashboard pages and this log (32 existing pages revised overall).
+
+The treatment distinguishes the stated uncommanded offering from proposed explanations:
+neither intoxication, an altered incense recipe, nor the source of the fire is reported.
+Aaron’s silence is not assigned an inward motive; Israel’s permitted mourning is retained
+alongside priestly restrictions. Holy/common and clean/unclean remain separate distinctions.
+The divine-fire comparison records the contrast between Leviticus 9 and 10 without
+turning this particular judgment into an explanation of every death.
+
+All eleven WEB verses were copied and mechanically compared with stored Leviticus 10.
+Comparisons checked in stored Exodus 6:18–23; 30:7–10 and Leviticus 7:38; 8:33–36;
+9:23–24. No new unstored-book quotation or exact Hebrew/Greek assertion was introduced;
+existing external quotations retain their recorded verification provenance.
+No raw text or workflow instructions changed.
+
+Counts by frontmatter: 242 passages, 195 people, 104 places, 85 themes, 550 connections.
+Link checks clean: no wrapped or dangling links; 59 unstarted book targets remain the
+expected baseline. New indexed pages have one row each; exact verse copying and
+diff whitespace checks pass. No unresolved issue. Ingest performed by OpenAI Codex.

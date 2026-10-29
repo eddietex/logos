@@ -154,7 +154,15 @@ Promised glory appears to all the people (9:6, 23), followed by fire consuming t
 cloud is mentioned here. The people shout and fall on their faces. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Leviticus 9 describes visible glory and accepted sacrifice; 10:3 speaks of Yahweh being glorified before the people in the explanation of the priests’ deaths. Glory here cannot be restricted to a reassuring visible manifestation.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Promised glory appears to all the
   people (9:6, 23), followed by fire consuming the offering (24).

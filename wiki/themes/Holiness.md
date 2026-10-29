@@ -325,7 +325,15 @@ it cannot be reduced to the moral innocence of the recipient.
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Moses explains the deaths through Yahweh’s holiness among those who approach him (3). Verse 10 names holy/common and clean/unclean as two distinctions; these pairs should not be collapsed into one.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

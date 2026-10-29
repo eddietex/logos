@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1, 5, 7, 11.
+
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24.
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
@@ -212,6 +214,17 @@ manifestation, not a rule that every act of obedience receives visible fire.
 
 Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
 and Exodus 40:34–38, checked 2026-10-29.
+
+### The uncommanded act and restored obedience — Leviticus 10
+
+The WEB specifies that Yahweh had not commanded the brothers’ offering (10:1).
+That negative statement interrupts the commanded service of chapters 8–9.
+The removal of the bodies follows Moses’ speech (5), and the survivors do according to
+his word (7). Teaching what Yahweh spoke through Moses becomes a continuing duty (11).
+These English observations do not claim an independently verified Hebrew formula.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 9–10.
+
 
 ## Significance
 

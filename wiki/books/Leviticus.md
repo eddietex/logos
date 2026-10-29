@@ -74,6 +74,10 @@ Leviticus 9 moves from installation to inaugural service: Aaron offers for himse
 the people, blesses them, and enters the tent with Moses. Glory and consuming fire appear
 before the congregation. See [[The Eighth Day and the Appearing Glory]].
 
+Leviticus 10:1–11 interrupts the inauguration with the deaths of Nadab and Abihu.
+Moses directs the removal and the surviving priests’ conduct; Yahweh commissions Aaron
+for sober entry, distinction, and teaching. See [[Nadab and Abihu and the Strange Fire]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -104,7 +108,7 @@ merge, or reorder them freely.
 - [x] [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38
 - [x] [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36
 - [x] [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24
-- [ ] Nadab and Abihu and the Strange Fire — Leviticus 10:1–11
+- [x] [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11
 - [ ] The Uneaten Sin Offering — Leviticus 10:12–20
 - [ ] Clean and Unclean Animals — Leviticus 11:1–47
 - [ ] Purification After Childbirth — Leviticus 12:1–8

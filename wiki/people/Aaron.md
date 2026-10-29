@@ -432,7 +432,15 @@ Aaron now officiates, offering first for himself and then for the people; he ble
 the tent with Moses (9:7–23). Consecration does not remove his need for atonement. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Holds his peace after Moses’ explanation (3). His silence is reported without an account of his inward response. He must remain at the tent with Eleazar and Ithamar, and receives Yahweh’s direct instruction on sobriety, distinction, and teaching (6–11).
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Appears in
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Aaron now officiates, offering
   first for himself and then for the people; he blesses them and enters the tent with Moses

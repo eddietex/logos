@@ -107,6 +107,8 @@ altar. The people shout and fall on their faces.
 
 ## Cross-references
 
+- [[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]] — the following scene contrasts accepted service with an uncommanded offering.
+
 - [[Aaron and His Sons Consecrated]] — seven days prepare for the eighth-day service.
 - [[The Eighth Day - Circumcision and the Firstborn Given to God]] — another seven-day
   interval followed by a new stage, without identifying the different rites.

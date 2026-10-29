@@ -818,7 +818,15 @@ See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 2
 Moses directs Aaron's inaugural service, enters the tent with him, and joins him in blessing the
 people (9:1–7, 23). See [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Explains the deaths in terms of divine holiness, appoints the relatives who remove the bodies, and directs the surviving priests to remain at the tent (3–7). He distinguishes the priests’ restrictions from the congregation’s mourning.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Appears in
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses directs Aaron's inaugural
   service, enters the tent with him, and joins him in blessing the people (9:1–7, 23)..

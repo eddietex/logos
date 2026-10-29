@@ -281,6 +281,8 @@ never as priests. See [[Priesthood]].
 
 ## People
 
+- [[Uzziel (son of Kohath)]], [[Mishael (son of Uzziel)]], and [[Elzaphan (son of Uzziel)]] — Exodus 6:18, 22; later named in [[Nadab and Abihu and the Strange Fire]].
+
 - [[Moses]] — placed inside Levi's line, the younger son of Amram and Jochebed; named second at 6:26,
   first at 6:27
 - [[Aaron]] — the elder son; given a wife, four sons, and a grandson; named first at 6:26

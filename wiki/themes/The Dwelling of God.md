@@ -276,7 +276,15 @@ Moses and Aaron enter the Tent of Meeting and emerge to bless (9:23). Unlike Mos
 enter during the filling in Exodus 40:35, this scene reports entry; it does not explain their
 activity inside. See [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+The sanctuary is both the scene of fatal approach and the place where the surviving anointed priests must remain (1–7). Relatives carry the dead outside the camp; access and removal are assigned by command.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses and Aaron enter the Tent of
   Meeting and emerge to bless (9:23).

@@ -564,7 +564,15 @@ Moses connects commanded action to the promised glory (9:6); Aaron performs the 
 command (7, 10, 16, 21). The manifestation belongs to this inauguration, not a stated guarantee for
 every later offering. See [[The Eighth Day and the Appearing Glory]] .
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+The offering is explicitly uncommanded (1). Obedience reappears when relatives carry out the bodies and surviving priests follow Moses’ words (5, 7). Priests must teach Israel the statutes Yahweh gave through Moses (11).
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses connects commanded action to
   the promised glory (9:6); Aaron performs the service under that command (7, 10, 16, 21).

@@ -515,7 +515,15 @@ die (35). The chapter reports obedience, not a death or a breach of the charge (
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### Strange fire and the surviving priests — Leviticus 10:1–11
+
+Divine fire strikes the uncommanded offering’s ministers (1–2); the surviving priests receive death warnings and a warning about anger against the congregation (6–9). The narrative specifies an offense here, which is no basis for treating every death as evidence of a comparable offense.
+
+See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
+
 ## Key passages
+
+- [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
