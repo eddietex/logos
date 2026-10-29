@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
+
 - [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
@@ -130,6 +132,17 @@ the chapter explicitly uses food language. The earlier claim about smell must no
 read as denying sacrificial food imagery in the Torah.
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3:1–17.
+
+### Ruler and individual — a distinct procedure
+
+Leviticus 4:31 applies the pleasant-aroma description to the fat of the ordinary person’s
+female-goat sin offering, immediately before the atonement and forgiveness conclusion.
+This language is not confined to whole burnt, grain, or peace offerings. Its absence from
+the adjacent ruler and lamb conclusions (26, 35) does not deny their acceptance: both
+explicitly promise forgiveness. This comparison concerns the stored WEB translation.
+
+See [[The Sin Offering for Ruler and Individual]]. Source for this addition: stored WEB Leviticus
+4:22–35. No new quotation from an unstored book or source-language claim.
 
 ## Significance
 

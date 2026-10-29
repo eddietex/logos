@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
+
 - **Leviticus 4:1–21** — [[The Sin Offering for Priest and Congregation]]; priestly and communal bull offerings.
 
 - **Exodus 29:10–14** — the bull of the priests' ordination: blood on the altar, fat burned on it, and
@@ -58,6 +60,18 @@ not erase the distinct purposes and settings of the texts.
 Source for this addition: stored WEB Leviticus 4:1–21 and Exodus 29:10–14;
 Hebrews 13:10–13 rechecked at bible-api.com (`translation=web`) on 2026-10-29.
 Leviticus is now stored and in progress; Hebrews remains uningested and was not added to raw.
+
+### Ruler and individual — a distinct procedure
+
+**Limit on the category:** Leviticus 4:22–35 prescribes blood on the outer burnt-offering
+altar and does not command disposal outside the camp. The preceding bulls’ treatment
+cannot be generalized to every sin offering. Leviticus 6:24–30, checked in stored WEB but
+still queued, distinguishes priestly eating from the burning required when blood enters
+the tent. This reinforces the importance of the specific blood-and-disposal pattern
+already discussed above, rather than adding a new claim about Hebrews’ wording.
+
+See [[The Sin Offering for Ruler and Individual]]. Source for this addition: stored WEB Leviticus
+4:22–35 and 6:24–30. No new quotation from an unstored book or source-language claim.
 
 ## Significance
 

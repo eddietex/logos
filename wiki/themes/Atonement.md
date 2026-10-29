@@ -121,7 +121,18 @@ establish exclusion from forgiveness.
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+The priest makes atonement for the ruler and each ordinary offerer (26, 31, 35).
+All three rites promise forgiveness, though their blood remains at the outer altar,
+unlike the priestly and communal bull offerings earlier in the chapter.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

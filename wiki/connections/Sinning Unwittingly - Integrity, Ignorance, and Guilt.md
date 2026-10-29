@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
+
 - **Leviticus 4:1–21** — [[The Sin Offering for Priest and Congregation]]; priestly and communal bull offerings.
 
 - **Genesis 20:3–7** — a death sentence for an act done on false information, a plea of integrity
@@ -139,6 +141,17 @@ not prove that Abimelech performed the offense this statute addresses.
 
 Source for this addition: stored WEB Genesis 20; Leviticus 1–4 and 6:1–7. These conclusions
 rest on the English translation; no new source-language claim is made.
+
+### Ruler and individual — a distinct procedure
+
+The ruler and common person incur guilt through unwitting violations (22, 27), and the
+remedy follows the offense becoming known (23, 28). Different animals are specified, but
+all three procedures conclude with forgiveness (26, 31, 35). This extends the chapter’s
+account beyond priest and assembly without making ignorance an acquittal. No named ruler
+is accused and no spoken confession is prescribed in this unit.
+
+See [[The Sin Offering for Ruler and Individual]]. Source for this addition: stored WEB Leviticus
+4:22–35. No new quotation from an unstored book or source-language claim.
 
 ## Significance
 

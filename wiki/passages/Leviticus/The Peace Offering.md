@@ -82,6 +82,9 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 
 ## Cross-references
 
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
+  The sin offering borrows fat removal from the peace offering without thereby becoming a shared peace-offering meal.
+
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21 distinguishes sanctuary blood handling
   and outside-camp disposal while retaining the assigned altar fat.
 

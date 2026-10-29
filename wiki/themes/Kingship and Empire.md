@@ -369,7 +369,19 @@ is possible, but a harem or a rejected royal marriage is not explicitly describe
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### Ruler and individual — Leviticus 4:22–35
+
+Leviticus 4:22–26 puts the ruler under the commands of Yahweh his God and requires
+a sin offering when an unwitting offense is made known. Leadership carries accountability,
+not immunity. The WEB calls him a ruler; identifying this office specifically as monarchy
+would go beyond these verses.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; Solomon's carriage, guard, and crown.
 

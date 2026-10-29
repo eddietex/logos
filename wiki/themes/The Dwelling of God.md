@@ -239,7 +239,18 @@ site. These spatial distinctions order approach to God without describing entry 
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+The ruler’s and ordinary person’s remedies take place at the burnt-offering altar
+(25, 30, 34), without carrying blood into the tent. Sanctuary service is not reducible
+to interior access: the outer altar is also a site of atonement and promised forgiveness.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

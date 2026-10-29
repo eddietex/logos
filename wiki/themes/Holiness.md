@@ -271,7 +271,18 @@ approach. The text does not authorize entry behind the veil.
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+Ruler and ordinary person bring animals without defect and approach through the
+prescribed slaughter and priestly blood rite (23–35). No entry behind the veil is granted;
+forgiveness at the outer altar does not erase the sanctuary’s differentiated spaces.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

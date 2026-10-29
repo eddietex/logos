@@ -368,7 +368,18 @@ committed an offense.
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+The priest handles blood at the outer altar and makes atonement for ruler and ordinary
+offerer (25–26, 30–31, 34–35). Aaron is relevant through his office (Exodus 28:1), not named
+or singled out as the officiant; this law does not reserve these rites to the anointed priest.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35; contextual role or setting.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

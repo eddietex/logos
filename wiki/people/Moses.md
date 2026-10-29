@@ -749,7 +749,17 @@ offerings in a narrated event.
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+The speech entrusted to Moses in 4:1–2 continues with ruler and individual cases
+(22–35). He is the contextual mediator, not a named offerer or officiant in these verses.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35; contextual role or setting.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

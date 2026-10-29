@@ -101,6 +101,9 @@ Israel has committed a particular offense.
 
 ## Cross-references
 
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
+  The following cases use goats or a lamb, with blood at the outer altar and forgiveness explicitly promised.
+
 - [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]] — compare Genesis 20's danger,
   integrity of intention, and required remedy without equating its case with this statute.
 - [[Outside the Camp - The Sin Offering and Hebrews 13]] — blood entering the sanctuary
@@ -144,8 +147,8 @@ the whole burnt offering or the peace offering.
 Hebrews 13:10–13 connects sanctuary blood and burning outside with Jesus' suffering outside
 the gate and the readers' bearing reproach. This is a later typological reading; Leviticus
 4 does not itself predict a crucifixion. Nor does this unit describe the annual Day of
-Atonement: the priest does not pass behind the veil. The next queued unit treats ruler
-and individual cases (4:22–35); it remains uningested.
+Atonement: the priest does not pass behind the veil. The following unit treats ruler
+and individual cases (4:22–35); see [[The Sin Offering for Ruler and Individual]].
 
 **Sources:** all twenty-one verses copied from stored WEB `raw/bible/Leviticus.md`.
 Comparisons checked in stored WEB Genesis 20; Exodus 29:1–14; Leviticus 1–3, 6:1–7,

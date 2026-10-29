@@ -207,7 +207,18 @@ this rite brings blood into the tent. It does not describe passing behind the ve
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+Blood goes on the horns and at the base of the burnt-offering altar (25, 30, 34).
+There is no command here to carry it inside or sprinkle before the veil. The chapter
+therefore prescribes distinct blood destinations within the category of sin offering.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

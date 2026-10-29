@@ -2720,7 +2720,18 @@ guilt on the people (1–3). The congregational rite concludes with atonement an
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+Yahweh's commandments bind ruler and ordinary Israelite alike (22, 27). Each prescribed
+case ends in forgiveness after priestly atonement (26, 31, 35); divine law provides a remedy
+without dismissing the unwitting offense.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

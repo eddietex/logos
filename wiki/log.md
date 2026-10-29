@@ -19496,3 +19496,27 @@ wrapped or dangling links and 59 expected not-yet-started book targets. No unres
 - Category coverage verified: one index row per entity/connection. Link checks clean,
   with 59 expected not-yet-started book links; whitespace checks passed. No unresolved
   issue, pericope boundary change, or harness/workflow change.
+
+## [2026-10-29] ingest | Leviticus 4.22-35 — The Sin Offering for Ruler and Individual
+
+- Ingested exactly the next queued pericope in auto mode, retaining title and boundary.
+  Created [[The Sin Offering for Ruler and Individual]] with all fourteen WEB verses
+  copied from stored Leviticus and mechanically checked against that source.
+- Revised three people, one place, eleven themes, three existing connections, and two
+  earlier passages. Moses, Aaron, and Horeb are explicitly contextual; the ruler, priest,
+  and ordinary person remain prescribed roles rather than invented named individuals.
+- Distinguished male goat, female goat, and female lamb procedures; outer altar blood
+  handling; and the common promise of forgiveness. No symbolic explanation of animal sex,
+  poverty rationale for the lamb, or spoken guilt-transfer formula was inferred.
+- Updated the unwitting-sin and pleasant-aroma connections, and limited the outside-camp
+  connection's application: Leviticus 4:22–35 does not prescribe the preceding bulls'
+  interior blood rite or outside-camp disposal. Leviticus 6:24–30 supplies the further
+  eating/burning distinction but remains queued. No new contradiction required correction.
+- Source comparisons checked in stored WEB Leviticus 1, 3–4, 6:24–30, 7:38, and Exodus
+  28:1. No new quotation from an unstored book or exact Hebrew/Greek claim. Raw unchanged.
+- Created 1 page and revised 29 existing pages including affected indexes, book queue,
+  dashboard, and this log. Leviticus is 5 / 44. Frontmatter totals: 232 passages,
+  192 people, 104 places, 85 themes, 542 connections.
+- Verified unique passage titles and one category row per entity/connection. Link checks
+  clean with 59 expected not-yet-started book links; whitespace checks passed.
+  No unresolved issue, workflow change, or harness compatibility edit.

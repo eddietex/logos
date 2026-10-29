@@ -149,7 +149,18 @@ offense occurred.
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+Forgiveness is explicitly promised after priestly atonement in all three cases
+(26, 31, 35). Neither leadership nor ordinary status excludes the offender from this
+remedy; the different animals do not produce a stated hierarchy of pardon.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

@@ -31,6 +31,10 @@ The next unit (4:1–21) addresses unintentional sin by the anointed priest and 
 Blood enters the tent, carcasses leave the camp, and the congregation is promised forgiveness
 after atonement. This adds liability and remedy to the opening account of approach.
 
+The ruler and ordinary-person cases (4:22–35) complete the chapter’s prescribed groups.
+Their blood remains at the outer altar; male goat, female goat, and female lamb procedures
+all conclude with forgiveness. Authority does not exempt the ruler from the divine commands.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -51,7 +55,7 @@ merge, or reorder them freely.
 - [x] [[The Meal Offering]] — Leviticus 2:1–16
 - [x] [[The Peace Offering]] — Leviticus 3:1–17
 - [x] [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21
-- [ ] The Sin Offering for Ruler and Individual — Leviticus 4:22–35
+- [x] [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35
 - [ ] Confession and Offerings According to Means — Leviticus 5:1–13
 - [ ] The Trespass Offering for Holy Things and Unknown Guilt — Leviticus 5:14–19
 - [ ] Restitution for Fraud and False Oaths — Leviticus 6:1–7

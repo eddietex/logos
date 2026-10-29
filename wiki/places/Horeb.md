@@ -266,7 +266,18 @@ Meeting, the inner altar, the outer altar, and a clean ash site outside the camp
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+Leviticus 4:22–35 continues the Sinai legislation (location supplied by 7:38), but names
+no mountain. Its operative locations are the burnt-offering slaughter place and altar;
+blood is not carried into the tent in these cases.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35; contextual role or setting.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

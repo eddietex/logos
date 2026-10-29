@@ -211,7 +211,18 @@ lay hands on the congregation’s bull (15), while the anointed priest handles i
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Ruler and individual — Leviticus 4:22–35
+
+The offerer lays a hand on the victim and slaughters it; the priest applies blood
+to the burnt-offering altar and makes atonement (24–26, 29–31, 33–35). The priest is not
+specified as the anointed priest in these cases, unlike the preceding bull offerings.
+
+See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
+comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
