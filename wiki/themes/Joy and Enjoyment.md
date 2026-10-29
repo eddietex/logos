@@ -230,6 +230,15 @@ make the wine image an exchange; the stored WEB does not mark the handoff.
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Invitation and the final adjuration — Song of Solomon 7:10–8:4
+
+Mandrake fragrance, stored fruits, spiced wine, and pomegranate juice (7:13; 8:2)
+make pleasure an offered gift. The imagined embrace of 8:3 completes the sensory
+sequence. These are proposed delights, not a report of a feast already enjoyed.
+
+See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
+internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; honey, wine, and milk, and *"Eat, friends! Drink"*.
@@ -273,6 +282,8 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
   joy real and a portion, yet no profit.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; love for delights.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related themes
 

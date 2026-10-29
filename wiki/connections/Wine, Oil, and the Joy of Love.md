@@ -15,6 +15,8 @@ tags: [connection]
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
 
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
+
 ## Analysis
 
 Song 1:2 and 1:4 value the beloved's love above wine, while 1:3 moves through fragrance
@@ -64,6 +66,11 @@ Proverbs and Ecclesiastes remains: no new wedding or moral biography is supplied
 
 Source for this addition: stored WEB Song 6:11–7:9 and the Song comparisons cited above.
 No new source-language claim is made.
+
+In [[Come into the Fields, My Beloved]], fruit stored for the beloved (7:13) and the proposed
+spiced wine and pomegranate juice (8:2) make enjoyment something she offers him.
+The sequence remains invitation and wish; it does not report the offered wine being
+drunk. Source: stored WEB Song 7:10–8:4.
 
 ## Significance
 

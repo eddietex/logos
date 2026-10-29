@@ -421,6 +421,16 @@ condemned, but intentions are not automatically narrated accomplishments.
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Invitation and the final adjuration — Song of Solomon 7:10–8:4
+
+The declaration of belonging leads directly into the woman's initiative: she invites
+him out and promises her love (7:10–12). Her wish for public kisses without contempt
+(8:1) shows a social limit on its expression. The refrain at 8:4 does not cancel that
+desire; invitation and refusal to force love stand together.
+
+See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
+internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; beloved and friend; renewed reciprocal belonging.
@@ -542,6 +552,8 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; one beloved among many.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; desire expressed through a body.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related themes
 

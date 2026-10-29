@@ -96,8 +96,13 @@ pools, towers, and Carmel, then turns to palm fruit and wine (7:1–9). The grov
 and the possible change of voice within 7:9 remain uncertain; royal images do not
 identify the lovers historically.
 
+[[Come into the Fields, My Beloved]] follows the praise with the woman's assurance of belonging and his desire
+(7:10). She invites him to the countryside, promises her love, and wishes for kisses
+without contempt and an embrace in her mother's house (7:11–8:3). The final
+not-awakening-love refrain closes the unit (8:4); wishes are not narrated fulfillment.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–7:9 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–8:4 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -127,7 +132,7 @@ merge, or reorder them freely.
 - [x] [[Altogether Lovely]] — Song of Solomon 5:9–6:3
 - [x] [[My Dove Is Unique]] — Song of Solomon 6:4–10
 - [x] [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9
-- [ ] Come into the Fields, My Beloved — Song of Solomon 7:10–8:4
+- [x] [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4
 - [ ] Love Is Strong as Death — Song of Solomon 8:5–7
 - [ ] Our Sister and My Own Vineyard — Song of Solomon 8:8–12
 - [ ] Make Haste, My Beloved — Song of Solomon 8:13–14
@@ -172,6 +177,9 @@ merge, or reorder them freely.
   [[Joy and Enjoyment]] —
   the summons to gaze, bodily praise, and desire (6:11–7:9).
 
+- [[Love]], [[Joy and Enjoyment]], [[Brotherhood]], [[Oaths and Vows]] —
+  invitation, imagined public affection, and the renewed charge (7:10–8:4).
+
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
@@ -199,6 +207,9 @@ merge, or reorder them freely.
 - [[Return, Return, Shulammite]] addresses the woman as Shulammite; the lover praises her,
   while the callers remain unidentified (6:13–7:9).
 
+- [[Come into the Fields, My Beloved]] — the woman invites the man and addresses the daughters again
+  (7:10–8:4); her mother remains unnamed.
+
 ## Key places
 
 No geographical place is named in 1:1–4. The king's rooms are an interior without a
@@ -222,3 +233,5 @@ stated location; Jerusalem must not be supplied there from later verses.
 
 - [[Mahanaim]], [[Heshbon]], [[Bathrabbim]], [[Lebanon]], [[Damascus]], and
   [[Carmel (mountain)]] — dance and bodily comparisons (6:13; 7:4–5), not an itinerary.
+
+- [[Jerusalem]] — in the final adjuration to its daughters (8:4), not a located journey.

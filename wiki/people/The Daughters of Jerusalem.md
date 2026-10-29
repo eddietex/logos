@@ -75,6 +75,13 @@ identification remains conditional. The WEB assigns the answering question to Lo
 this is not a securely identified new action by the daughters.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
+In [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4),
+They are explicitly addressed again in 8:4, with the charge not to awaken love
+until it desires. The roes and hinds of 2:7 and 3:5 are absent in this WEB refrain.
+Unlike 5:8, this charge does not ask them to carry a message to the beloved.
+They do not reply within the unit.
+Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
+
 ## Timeline / key events
 
 - Song of Solomon 1:5–6 — addressed by the woman, who answers their look by calling herself
@@ -93,6 +100,8 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 
 - Song of Solomon 6:11–7:9 — possible callers in 6:13; not explicitly named.
 
+- Song of Solomon 7:10–8:4 — addressed in the renewed adjuration.
+
 ## Appears in
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–8; addressed in 1:5, and possibly the voices of 1:8.
@@ -105,6 +114,8 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; possible presence only; daughters and questioners are not explicitly identified.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; possible audience only.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related people
 
@@ -120,6 +131,6 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 - [[Seeing and Being Seen]] — the onlookers whose stare the woman answers (1:6); told to go out
   and see the king (3:11).
 - [[Love]] — addressees of the Song's adjurations about love (2:7; 3:5), and the message *"I am faint with love"* (5:8); the
-  refrain of 8:4 not yet ingested.
+  refrain of 8:4 now treated in [[Come into the Fields, My Beloved]].
 - [[Oaths and Vows]] — put under oath *"by the roes, or by the hinds of the field"* (2:7; 3:5); and
   without the animals, to carry a message (5:8).

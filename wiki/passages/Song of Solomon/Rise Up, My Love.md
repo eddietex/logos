@@ -109,6 +109,8 @@ summons of her own (17).
 - [[Delight and the Unawakened Love]] — the refrain of 2:7 just before; its roes are the animal
   he is compared to here (2:9, 17).
 
+- [[Invitations among the Blossoms - Song of Solomon 2 and 7]] — compared with [[Come into the Fields, My Beloved]].
+
 ## Notes
 
 **Boundary.** The unit runs from *"The voice of my beloved!"* (2:8) to the summons to the mountains

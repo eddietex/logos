@@ -11,7 +11,7 @@ tags: [connection]
   among the lilies."* (*dôḏî lî waʾănî lô*)
 - **Song of Solomon 6:3** — [[Altogether Lovely]] — *"I am my beloved's, and my beloved is
   mine. He browses among the lilies,"* (*ʾănî ləḏôḏî wəḏôḏî lî*)
-- **Song of Solomon 7:10** *(stored WEB, not yet ingested; Hebrew 7:11)* — *"I am my beloved's. His
+- **Song of Solomon 7:10** *(stored WEB; Hebrew 7:11)* — *"I am my beloved's. His
   desire is toward me."* (*ʾănî ləḏôḏî wəʿālay təšûqāṯô*)
 - **Genesis 3:16** — [[The Fall]]: *"Your desire will be for your husband, and he will rule over
   you."* (*wəʾel-ʾîšēḵ təšûqāṯēḵ*)
@@ -19,6 +19,8 @@ tags: [connection]
   (*wəʾēleyḵā təšûqāṯô*)
 
 Hebrew of all five read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Analysis
 
@@ -48,8 +50,7 @@ Many readers take Song 7:10 as a deliberate reversal of Genesis 3:16. The direct
 reversed and the ruling is gone. The wiki records the reading as an observation about a rare word.
 It does not claim the Song quotes Genesis, because the Song names neither Eden nor the curse. The
 Genesis pair is laid out on [[Desire and Rule - Genesis 3.16 and 4.7]], which already notes that the
-Song's occurrence is ordinary desire, with no contest and no *māšal*. Song 7 is not yet ingested, so
-this page sets out the three verses and leaves the reading of 7:10 itself for that ingest.
+Song's occurrence is ordinary desire, with no contest and no *māšal*. Song 7:10 is now ingested in [[Come into the Fields, My Beloved]].
 
 **The second formula in context.** In [[Altogether Lovely]], 6:3 follows the audience's offer
 to seek the beloved and the woman's declaration that he has gone to his garden (6:1–2).
@@ -58,6 +59,13 @@ Reversing the two belonging clauses preserves reciprocity; the English wording a
 does not prove a new relationship stage. The browsing among lilies repeats 2:16 and
 joins the formula to the garden of 6:2. Source for this addition: stored WEB Song 2:16;
 5:6; 6:1–3; no new source-language assertion.
+
+The third declaration is now read within the invitation of [[Come into the Fields, My Beloved]] (7:10–8:4).
+The woman speaks confidently of his desire and immediately invites him out; she is
+neither a passive possession nor a rival seeking to defeat him. In the stored WEB,
+7:10 contains no statement of rule. That contrast with Genesis 3:16 supports a thematic
+comparison, but does not prove an intended undoing of the Genesis sentence.
+Source for this addition: stored WEB Song 7:10–8:4; Genesis 3:16.
 
 ## Significance
 

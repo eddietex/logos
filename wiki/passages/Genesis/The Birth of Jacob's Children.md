@@ -656,6 +656,8 @@ twelve tribes of Israel are born outside the land**, in a country the book never
 - Matthew 1:2–3; Luke 3:33–34 — Judah in both genealogies.
 - Revelation 7:5–8 — the twelve listed one last time, with Dan missing and Joseph in Ephraim's place.
 
+- [[Mandrakes in the Field and at the Doors - Genesis 30 and Song of Solomon 7]] — compared with [[Come into the Fields, My Beloved]].
+
 ## Notes
 
 - **On the boundary, which was used as drawn.** The plan's box read *The Birth of Jacob's Children —

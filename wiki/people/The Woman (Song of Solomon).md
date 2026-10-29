@@ -126,6 +126,14 @@ in 7:9 may be her answer within the wine image, but the WEB marks no speaker cha
 Neither the title nor the royal address establishes a historical identity or parentage.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
+In [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4),
+She declares that she belongs to him and that his desire is toward her, then invites
+him into the fields and vineyards (7:10–12). Fruit stored for him expresses her initiative.
+She wishes for the freedom to kiss him outside without contempt, lead him into her
+mother's house, and share wine and an embrace (8:1–3). Her charge to the daughters
+at 8:4 preserves restraint beside desire; the poem does not narrate the journey.
+Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -152,6 +160,8 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 
 - Song of Solomon 6:11–7:9 — addressed as Shulammite and praised; possible answer in 7:9.
 
+- Song of Solomon 7:10–8:4 — invites him and imagines public affection and homecoming.
+
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
@@ -168,6 +178,8 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; praised as unique; other women call her blessed.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related people
 

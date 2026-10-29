@@ -98,6 +98,8 @@ previous unit he came looking for her; here she goes looking for him.
 - [[Rise Up, My Love]] — the unit just before, where he came to her and she answered *"turn"*
   (2:17).
 
+- [[The Embrace and the Unawakened Love - Song of Solomon 2, 3, and 8]] — compared with [[Come into the Fields, My Beloved]].
+
 ## Notes
 
 **Boundary.** The unit runs from her bed at night (3:1) to the refrain (3:5). 3:6 opens a new scene

@@ -159,6 +159,17 @@ probably, in the *"our sister"* speech of 8:8–9, which is not yet ingested.
 
 See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:6; 8:8–9.
 
+### Invitation and the final adjuration — Song of Solomon 7:10–8:4
+
+The woman wishes her beloved were like a brother nursed by her mother so that she
+could kiss him outside without contempt (8:1). Kinship here is an imagined permission
+for open affection, not a statement that the lovers are siblings. This differs from
+the angry brothers' authority at 1:6 and from the man's affectionate sister address
+at 4:9–12; it does not erase either use.
+
+See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
+internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Dark and Lovely]] — Song of Solomon 1:6; angry brothers set their sister to keep the vineyards.
@@ -252,6 +263,8 @@ See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:6; 8:8–9.
   threat (Genesis 33:4) and Joseph's after a sale (45:15). The road home repeats Jacob's: sent back by
   God, attacked on the way, met by a brother with a kiss
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:10; The near neighbour better than a distant brother in the day of disaster.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related themes
 

@@ -221,6 +221,16 @@ no oath formula or account of their actually searching follows.
 
 See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 
+### Invitation and the final adjuration — Song of Solomon 7:10–8:4
+
+The adjuration of 8:4 returns to the charge of 2:7 and 3:5 after an imagined
+embrace. In the WEB it omits the earlier roes and hinds. The audience is again asked
+not to stir up love until it desires, rather than to carry the message requested at
+5:8. The repetition orders the poem without supplying a newly enacted legal vow.
+
+See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
+internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; the adjuration questioned and an offer of help made.
@@ -386,6 +396,8 @@ See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[Laws of Property and Restitution]] — Exodus 22:10–11; *"the oath of Yahweh"* in place of a witness
 - [[The Young Man Void of Understanding]] — Proverbs 7:14; *"Today I have paid my vows"*, a vow
   as the occasion of adultery
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

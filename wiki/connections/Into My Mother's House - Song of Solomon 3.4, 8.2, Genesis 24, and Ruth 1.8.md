@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Song of Solomon 3:4** — [[Seeking Him by Night]]: *"until I had brought him into my mother's
   house, into the room of her who conceived me."* (*ʾel-bêt ʾimmî wǝʾel-ḥeder hôrātî*)
-- **Song of Solomon 8:2** *(stored WEB, not yet ingested)* — *"I would lead you, bringing you into
+- **Song of Solomon 8:2** *(stored WEB)* — *"I would lead you, bringing you into
   my mother's house, who would instruct me."* (*ʾăḇîʾăḵā ʾel-bêt ʾimmî*)
 - **Genesis 24:28** — [[A Wife for Isaac]]: *"The young lady ran, and told her mother's house about
   these words."* (*lǝḇêt ʾimmāh*)
@@ -19,6 +19,8 @@ tags: [connection]
   to her mother's house."* (*lǝḇêt ʾimmāh*)
 
 Hebrew of all read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Analysis
 
@@ -51,6 +53,13 @@ household, or, in the Song, that the phrase *"the room of her who conceived me"*
 the place of her own beginning. Song 8:5 adds that the man's mother conceived and bore him under the
 apple tree (with a different verb, *ḥibbǝlaṯḵā*). None of these readings is stated in the texts. The
 page sets the uses side by side and leaves the meaning open.
+
+In [[Come into the Fields, My Beloved]], the movement into her mother's house (8:2) follows the wish
+to kiss him outside without being despised (8:1). Unlike the reported finding and
+bringing of 3:4, this is a desired scene, with wine offered and an imagined embrace
+(8:2–3). The WEB places instruction with the mother; this addition follows that
+translation without resolving the underlying syntax. No wedding is narrated.
+Source: stored WEB Song 3:4; 8:1–4.
 
 ## Significance
 

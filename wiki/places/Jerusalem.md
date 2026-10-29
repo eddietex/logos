@@ -46,6 +46,10 @@ In [[My Dove Is Unique]] Jerusalem itself becomes a measure of the woman's lovel
 an audience's title. It still does not locate the lovers or identify the unnamed city
 of the night searches. Source: stored WEB Song of Solomon 6:4–10.
 
+In [[Come into the Fields, My Beloved]], Jerusalem is again named only in the address to its daughters
+(8:4). The proposed fields, villages, vineyards, and mother’s house are not geographically
+identified. Source: stored WEB Song 7:10–8:4.
+
 ## Appears in
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; city of the kingship named in the heading.
@@ -57,6 +61,8 @@ of the night searches. Source: stored WEB Song of Solomon 6:4–10.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:8; named in the address, not as the walled city of 5:7.
 - [[Altogether Lovely]] — Song of Solomon 5:16; named in the audience’s title.
 - [[My Dove Is Unique]] — Song of Solomon 6:4; the city as a comparison for loveliness.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 8:4; the audience’s name.
 
 ## Related places
 

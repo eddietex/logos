@@ -19256,3 +19256,36 @@ Title uniqueness, touched category row membership and alphabetical filing, front
 counts, and the book checklist were checked. `scripts/link-check.sh` exits 0: no
 wrapped links or unexpected dangling targets; 60 unstarted book pages are the expected
 baseline. Raw texts, schema, skill instructions, and controller files were unchanged.
+
+## [2026-10-29] ingest | Song of Solomon 7.10-8.4 — Come into the Fields, My Beloved
+
+Ingested the next planned unit in auto mode; retained its boundaries and placed the
+discussion in [[Come into the Fields, My Beloved]]. The woman's declaration of belonging
+leads to her invitation, offered fruits, wish for public kisses without contempt, imagined
+homecoming and embrace, and final adjuration. Invitations and wishes are distinguished
+from narrated fulfillment.
+
+Created four pages: the passage and three connections on reciprocal invitations among
+blossoms, the embrace and refrain, and mandrakes in Genesis 30 beside Song 7. Revised
+28 existing pages including this log: the book and its status, three people, Jerusalem,
+four themes, four earlier passages, four existing connections, and ten index/count pages.
+Song of Solomon is now 13 / 16 pericopes; totals by frontmatter are 224 passages,
+191 people, 103 places, 85 themes, and 536 connections.
+
+The mother remains unnamed within the woman's page, following the earlier treatment;
+the wished-for brother is not a new person. Fields, villages, vineyards, doors, and
+the mother's house receive no geographical identity. Jerusalem is named in the audience.
+The mother-as-instructor reading follows the WEB without deciding source-language syntax.
+
+The desire-and-rule connection explicitly records the tension between an interpretation
+of desire as domination in Genesis and the Song's mutual invitation. It does not assert
+a proved reversal of Genesis. Its old unqualified concordance count is qualified at the
+claim, and its recalled Song quotation is corrected to the stored WEB.
+
+All new quotations were copied from stored WEB; Song comparisons and Genesis 30:14–24
+were read there. No outside book was fetched, no existing raw source changed, and no
+new source-language claim was introduced. Earlier attributed source-language discussion
+remains distinguished from this WEB-based addition. No schema or harness changes needed.
+
+Validation: scripts/link-check.sh passed with no wrapped links or dangling targets;
+60 not-yet-started book targets remain the expected baseline. No unresolved blocker.

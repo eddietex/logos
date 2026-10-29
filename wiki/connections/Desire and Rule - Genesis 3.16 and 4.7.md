@@ -9,8 +9,10 @@ tags: [connection]
 
 - [[The Fall]] — Genesis 3:16
 - [[Cain and Abel]] — Genesis 4:7
-- Song of Solomon 7:10 *(stored WEB, not yet ingested)* — the third *tešûqâ*, set beside the Song's
+- Song of Solomon 7:10 *(stored WEB)* — the third *tešûqâ*, set beside the Song's
   belonging formula on [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]]
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Analysis
 
@@ -22,8 +24,8 @@ Two sentences, one chapter apart, built out of the same two words.
 > **4:7** If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door.
 > Its desire is for you, but you are to rule over it.
 
-The shared pair is *tešûqâ* ("desire") and *māšal* ("rule"). *Tešûqâ* occurs **three times in the
-entire Hebrew Bible** — 3:16, 4:7, and Song of Songs 7:10 — and in two of those three it stands
+The shared pair is *tešûqâ* ("desire") and *māšal* ("rule"). *Tešûqâ* is commonly counted three times in the
+Hebrew Bible (this page has not independently checked a full concordance) — 3:16, 4:7, and Song of Songs 7:10 — and in two of those three it stands
 beside *māšal*, in the same syntactic frame: *X's tešûqâ is toward Y, and Y will māšal over X*.
 For a word that rare, one chapter apart, in a text as compositionally deliberate as Genesis 1–11,
 the repetition is not plausibly accidental. Whichever verse a reader starts from, the other one is
@@ -62,6 +64,14 @@ appetite to control. It does not, on its own, settle whether *"he will rule over
 a distortion or prescribes an order — the two questions are separable, and the parallel only
 touches the first.
 
+**The Song now ingested.** [[Come into the Fields, My Beloved]] (7:10–8:4) places his desire beside her
+initiative: she invites him to the fields and promises her love. This challenges any
+claim that desire must inherently mean an appetite to dominate. The earlier argument
+from Genesis 4:7 is an interpretation of that context, not a definition established
+for every use. The stored WEB has no rule statement in Song 7:10. A deliberate literary
+reversal of Genesis remains possible, not demonstrated.
+Source for this addition: stored WEB Song 7:10–8:4 and Genesis 3:16; 4:7.
+
 ## Significance
 
 This is the wiki's first case of a **word-level internal parallel** doing real interpretive work:
@@ -69,9 +79,9 @@ two verses that are only connected by vocabulary, and whose connection changes h
 Bible's most disputed sentences is read. It is worth keeping visible for two reasons.
 
 The first is the state of the evidence. Everything above rests on a three-occurrence word, and one
-of the three (Song of Songs 7:10, *"I am my beloved's, and his desire is toward me"*) points the
-other way — there *tešûqâ* is plainly desire in the ordinary sense, with no contest and no *māšal*
-anywhere near it. A conclusion drawn from two of three occurrences, with the third dissenting, is
+of the three (Song of Solomon 7:10, *"I am my beloved’s. His desire is toward me."*) points the
+other way — there *tešûqâ* is plainly desire in the ordinary sense, without a contest or rule statement in the stored WEB; the lexical comparison follows
+the previously recorded Sefaria reading on [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]]. A conclusion drawn from two of three occurrences, with the third dissenting, is
 worth holding at the strength the sample supports.
 
 The second is structural. Genesis 4 is written as a rerun of Genesis 3 with the stakes raised — a
@@ -81,5 +91,5 @@ running through the whole correspondence. Whoever composed these chapters meant 
 against each other. Both passage pages record the individual arguments; this page records the
 link.
 
-Revisit when Song of Songs 7 is ingested, and when 1 Corinthians 11 and Ephesians 5 raise the
+Revisit when 1 Corinthians 11 and Ephesians 5 raise the
 question of order in marriage from a different direction.

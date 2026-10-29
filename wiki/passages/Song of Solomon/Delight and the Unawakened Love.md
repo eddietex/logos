@@ -125,6 +125,8 @@ stand together without being joined into one plot.
   *"loving doe"* of Proverbs 5:19 and the *"hinds of the field"* of Song 2:7.
 - [[The Dove and the Spirit]] — *"Your eyes are doves"* (1:15) is the Song's first dove image.
 
+- [[The Embrace and the Unawakened Love - Song of Solomon 2, 3, and 8]] — compared with [[Come into the Fields, My Beloved]].
+
 ## Notes
 
 **Boundary.** The unit runs from the first compliment, *"I have compared you, my love"*

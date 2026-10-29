@@ -108,6 +108,13 @@ the palm tree and take its fruit (7:1–8). The captive king of 7:5 is an image,
 that this man is Solomon. The voice may change within 7:9; the English text leaves it unmarked.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
+In [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4),
+His desire is affirmed by the woman (7:10), who invites him into the countryside
+and promises him love and stored fruits (7:11–13). She imagines kissing him openly,
+bringing him home, giving him wine, and being embraced (8:1–3). He has no narrated
+reply here; these wishes do not establish a new event or identify him as her brother.
+Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -135,6 +142,8 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 
 - Song of Solomon 6:11–7:9 — questions the gaze and voices admiration and desire.
 
+- Song of Solomon 7:10–8:4 — invited and desired; no answer narrated.
+
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
@@ -152,6 +161,8 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; renews praise; her eyes overcome him; royal identity remains unproved.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
+
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 ## Related people
 

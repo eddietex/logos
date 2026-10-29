@@ -14,7 +14,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
-| [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] |
+| [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] · [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4) |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
 | [[The Diseases of Egypt - The Plagues in Deuteronomy 28]] | allusion | Exodus 9:8–11 · Exodus 10:12–15, 21–22 · Deuteronomy 28:27, 29, 38, 60, 68 · Job 2:7 |
@@ -43,6 +43,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Elder Will Serve the Younger - Genesis 25.23 in Malachi and Romans]] | quotation | Genesis 25:23 · Malachi 1:2–3 · Romans 9:10–13 · Romans 9:15–18 · 2 Samuel 8:13–14 · 2 Kings 8:20–22 |
 | [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]] | thread | Exodus 6:23 · Numbers 1:7 · Numbers 2:3 · Numbers 7:12 · Numbers 10:14 · Ruth 4:19–20 · 1 Chronicles 2:10–11 · Matthew 1:4 · Luke 1:5 · Luke 3:32–33 |
 | [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]] | motif | Genesis 50:2–3 · Genesis 50:26 · Genesis 23:1–20 · Exodus 25:10 |
+| [[The Embrace and the Unawakened Love - Song of Solomon 2, 3, and 8]] | literary-parallel | [[Delight and the Unawakened Love]] · [[Seeking Him by Night]] · [[Come into the Fields, My Beloved]] |
 | [[Enough for the Work - Manna and the Sanctuary Offering]] | contrast | Exodus 16:16–30 · Exodus 36:3–7 · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
