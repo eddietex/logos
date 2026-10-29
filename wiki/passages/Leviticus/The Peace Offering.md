@@ -82,6 +82,8 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 
 ## Cross-references
 
+- [[The Altar Fire and the Priests’ Meal Offerings]] places the fat of peace offerings on the maintained altar fire (6:12).
+
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
   The sin offering borrows fat removal from the peace offering without thereby becoming a shared peace-offering meal.
 

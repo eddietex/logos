@@ -239,7 +239,15 @@ case of 5:16, the repayment with its fifth goes to the owner (5), not to the pri
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+Priestly work includes tending fire, moving ashes with a change of garments, and eating authorized portions in the court. Anointed succession carries an offering obligation; the priest’s own meal offering is not his food.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

@@ -2748,7 +2748,15 @@ an offering, and forgiveness (4–7). Human loss and divine accountability belon
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+Yahweh commands the maintenance of the fire and explicitly gives the most holy remainder to the priests (17). His instructions also reserve the priest’s own offering wholly for burning.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Appears in
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

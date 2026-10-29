@@ -130,7 +130,15 @@ Included collectively as one of Aaron's sons identified in Exodus 28:1, in the p
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+Included collectively among Aaron’s sons, identified in Exodus 28:1, in the commands for altar service and holy eating. This unit neither names him individually nor reports his performance; the successor in verse 22 is not identified by personal name.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Appears in
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

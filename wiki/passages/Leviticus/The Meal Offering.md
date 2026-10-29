@@ -83,6 +83,8 @@ prescribes worship rather than narrating a particular offering.
 
 ## Cross-references
 
+- Leviticus 6:14–23 now specifies the holy eating place and male Aaronide eaters, then excludes every priest’s own meal offering from eating. See [[The Altar Fire and the Priests’ Meal Offerings]] and [[Meal Offerings Eaten and Wholly Burned]]. The remainder rule above is not universal across offerers.
+
 - [[Confession and Offerings According to Means]] — confession and explicit affordability provisions in 5:1–13.
 - [[Flour for a Sin Offering - Leviticus 2 and 5]] — the flour alternative distinguished from the meal offering.
 

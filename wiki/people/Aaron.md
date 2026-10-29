@@ -397,7 +397,15 @@ not to the priest.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+Aaron and his sons receive the meal-offering remainder for holy eating. His anointing and the succession of an anointed son frame a separate offering that is wholly burned (20–23).
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Appears in
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

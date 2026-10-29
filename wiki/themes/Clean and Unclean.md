@@ -210,7 +210,15 @@ The ritual/moral distinction needs qualification: these particular hidden-contac
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+Ashes go outside the camp to a clean place after the priest changes garments (10–11). Outside the camp is therefore not a synonym for unclean; no cleansing rite for the ashes is prescribed here.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The ritual/moral distinction needs qualification: these particular hidden-contact cases incur guilt and require confession and a sin offering (2–6). This does not make every unclean condition a moral offense.
 

@@ -248,7 +248,15 @@ to interior access: the outer altar is also a site of atonement and promised for
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+The court of the Tent of Meeting is the prescribed place for eating the most holy remainder (16). The sanctuary orders nourishment as well as burning; the ashes have a separate clean destination outside the camp.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

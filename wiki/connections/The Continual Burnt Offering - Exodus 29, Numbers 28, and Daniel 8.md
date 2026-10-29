@@ -14,7 +14,16 @@ tags: [connection]
 - **Daniel 8:11–13** — in a vision, a power takes away *"the continual burnt offering"*, and a holy
   one asks how long the vision will last *(verified WEB; not yet ingested)*.
 
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–13; overnight burning, ash removal,
+  and wood added every morning (stored WEB).
+
 ## Analysis
+
+**Leviticus supplies the maintenance work.** Leviticus 6:8–13 requires the fire to remain
+burning and the priest to replenish its wood every morning. This complements the daily
+lambs of Exodus 29:38–42 without repeating their number or measures. Continual service
+includes ordinary priestly labor; these verses do not describe a self-sustaining fire.
+
 
 **Exodus sets the offering beside the ordination.** The priests are installed in 29:1–37, and the
 next instruction is what they will offer on the altar every day (29:38–41). The site is the door of

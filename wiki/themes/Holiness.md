@@ -286,7 +286,15 @@ Wrong against Yahweh’s holy things requires repayment plus a fifth and a ram (
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+The most holy remainder is eaten without yeast by male Aaronides in a holy place (16–18). Holiness regulates who eats and where; the contact clause does not grant unrestricted eating rights or promise moral transformation.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 

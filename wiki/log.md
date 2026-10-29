@@ -19601,3 +19601,30 @@ text was changed. Leviticus is now 8 / 44 pericopes; dashboard totals counted by
 Validation: `scripts/link-check.sh` clean (59 expected not-yet-started book targets);
 quoted-text verification and affected index-row count checks passed. No operational
 blocker. Authored by Codex.
+
+## [2026-10-29] ingest | Leviticus 6.8-23 — The Altar Fire and the Priests’ Meal Offerings
+
+Ingested exactly one planned unit, [[The Altar Fire and the Priests’ Meal Offerings]],
+without changing its boundary. The unattended discussion is incorporated into the passage:
+maintained fire, linen clothing and ash removal, holy eating in the court, and the wholly
+burned meal offering of a priest. The anointing-day and perpetual wording in verse 20 is
+retained as an interpretive question rather than flattened into a settled schedule.
+
+Created 2 pages (1 passage, 1 connection); revised 30 existing pages including this log:
+3 earlier passages, 1 book, 7 people, 1 place, 7 themes, 1 connection, 9 indexes/dashboard
+pages, and this log. Created [[Meal Offerings Eaten and Wholly Burned]] and extended
+[[The Continual Burnt Offering - Exodus 29, Numbers 28, and Daniel 8]]. Explicitly qualified
+the earlier remainder rule: Leviticus 2:3, 10 assigns grain to the priests, but 6:23 forbids
+eating a priest's own meal offering. This guards against a contradictory universal claim.
+Aaron's sons are collectively included, not individually named; Sinai remains contextual.
+No separate person page is invented for the unnamed anointed successor.
+
+All sixteen quoted verses were copied mechanically and checked against stored WEB
+Leviticus 6:8–23. Comparisons use stored WEB Leviticus 1–3; 7:38 and Exodus 28:1; 29:29–46.
+No new unstored-book quotations or exact Hebrew/Greek assertions were introduced. Raw files
+and workflow instructions were unchanged. Leviticus is now 9 / 44 pericopes. Counts by
+frontmatter type: 236 passages, 192 people, 104 places, 85 themes, 545 connections.
+
+Validation: `scripts/link-check.sh` clean, with 59 expected not-yet-started book targets;
+quoted verses match raw WEB and `git diff --check` passes. No operational blocker.
+Authored by Codex.

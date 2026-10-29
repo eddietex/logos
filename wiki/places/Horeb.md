@@ -294,7 +294,15 @@ location; its restoration of the neighbor’s goods belongs within that wider Si
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+The altar-fire and meal-offering laws belong to the Sinai instructions identified in 7:38. The mountain is not named in 6:8–23; its own spatial distinctions concern altar, court, and a clean place outside the camp.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Appears in
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

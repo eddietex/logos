@@ -370,7 +370,15 @@ does not replace repayment.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+The burnt offering remains on the hearth overnight, with fresh wood each morning. The meal offering has an eaten remainder, but every priest’s meal offering is wholly burned (23). The earlier remainder rule must not be generalized beyond this explicit exception.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

@@ -519,7 +519,15 @@ atonement (4–7). The law orders conduct toward the owner and approach to Yahwe
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+Repeated commands sustain daily altar service: fire must not go out, wood is added each morning, and holy portions have restricted destinations. The priestly household itself is bound by offering rules.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

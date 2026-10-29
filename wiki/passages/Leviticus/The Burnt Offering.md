@@ -88,6 +88,8 @@ operate at that dwelling.
 
 ## Cross-references
 
+- [[The Altar Fire and the Priests’ Meal Offerings]] adds the overnight hearth, linen clothing, ash removal, and fresh wood every morning (6:8–13).
+
 - [[The Meal Offering]] — Leviticus 2:1–16; grain memorials and priestly portions distinguish this rite from the preceding offering instructions.
 
 - [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] — Exodus 40:34–35 and Leviticus 1:1; presence and speech, without an invented entry scene.

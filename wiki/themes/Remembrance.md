@@ -334,7 +334,15 @@ identified on the passage page.
 
 The burned portion is called a memorial (2:2, 9, 16). The text describes its ingredients and burning without saying who remembers what; this should not be collapsed into a narrated act of God remembering someone. See [[The Meal Offering]].
 
+### Altar fire and priestly portions — Leviticus 6:8–23
+
+The handful of flour and oil, with all its frankincense, is burned as a memorial (15), continuing Leviticus 2. The verse does not specify a psychological act of remembering or explain the term’s mechanism.
+
+See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
+
 ## Key passages
+
+- [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 
