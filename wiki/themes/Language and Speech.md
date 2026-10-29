@@ -534,7 +534,15 @@ between man and woman makes speech an expression of intimacy, not only instructi
 or argument. The WEB supplies no speaker labels.
 Source: stored WEB Song 8:13–14.
 
+### Confession and means — Leviticus 5:1–13
+
+Speech can fail by omission of testimony or by rash oath; the corrective response itself includes specific confession (1, 4–5).
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Speech can fail by omission of testimony or by rash oath; the corrective response itself includes specific confession (1, 4–5).
 
 - [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 

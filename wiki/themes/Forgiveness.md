@@ -158,7 +158,15 @@ remedy; the different animals do not produce a stated hierarchy of pardon.
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and means — Leviticus 5:1–13
+
+Forgiveness is expressly promised after both the bird and flour procedures (10, 13); the less costly provision does not promise a lesser pardon.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Forgiveness is expressly promised after both the bird and flour procedures (10, 13); the less costly provision does not promise a lesser pardon.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

@@ -377,7 +377,15 @@ or singled out as the officiant; this law does not reserve these rites to the an
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and offerings according to means
+
+The priestly office established in Exodus 28:1 carries out these bird and flour rites and receives the flour remainder. Aaron is contextual, not named as performing the rites in Leviticus 5:1–13.
+
+See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
+
 ## Appears in
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The priestly office established in Exodus 28:1 carries out these bird and flour rites and receives the flour remainder. Aaron is contextual, not named as performing the rites in Leviticus 5:1–13.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35; contextual role or setting.
 

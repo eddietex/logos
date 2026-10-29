@@ -84,6 +84,9 @@ distinct offering but no exemption from accountability or need for pardon.
 
 ## Cross-references
 
+- [[Confession and Offerings According to Means]] — confession and explicit affordability provisions in 5:1–13.
+- [[Flour for a Sin Offering - Leviticus 2 and 5]] — the flour alternative distinguished from the meal offering.
+
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21 supplies the immediate
   contrast: bulls, blood carried inside, and bodies burned outside the camp.
 - [[The Peace Offering]] — the explicit model for fat removal (4:26, 31, 35; compare chapter 3).

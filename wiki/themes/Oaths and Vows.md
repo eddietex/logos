@@ -231,7 +231,15 @@ not to stir up love until it desires, rather than to carry the message requested
 See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
 internal comparisons use the stored Song.
 
+### Confession and means — Leviticus 5:1–13
+
+Hearing an adjuration and failing to testify (1) is distinct from uttering a rash oath (4). The remedy does not command carrying out an evil promise.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Hearing an adjuration and failing to testify (1) is distinct from uttering a rash oath (4). The remedy does not command carrying out an evil promise.
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; the adjuration questioned and an offer of help made.
 

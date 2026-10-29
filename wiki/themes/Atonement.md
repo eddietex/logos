@@ -130,7 +130,15 @@ unlike the priestly and communal bull offerings earlier in the chapter.
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and means — Leviticus 5:1–13
+
+The priest makes atonement even with the flour sin offering (11–13). Atonement here cannot be defined as invariably requiring this offerer to provide an animal.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The priest makes atonement even with the flour sin offering (11–13). Atonement here cannot be defined as invariably requiring this offerer to provide an animal.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

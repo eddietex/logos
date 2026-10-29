@@ -83,6 +83,9 @@ prescribes worship rather than narrating a particular offering.
 
 ## Cross-references
 
+- [[Confession and Offerings According to Means]] — confession and explicit affordability provisions in 5:1–13.
+- [[Flour for a Sin Offering - Leviticus 2 and 5]] — the flour alternative distinguished from the meal offering.
+
 - [[Gifts of the Ground - Cain and the Meal Offering]] — Genesis 4:3–7 and Leviticus 2; grain is not inherently unacceptable.
 - [[A Pleasing Aroma]] — the same description used for burnt offerings applies to the grain memorial (2, 9).
 - [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]] — Leviticus adds preparation and altar distinctions to the first-fruits thread.

@@ -757,7 +757,15 @@ The speech entrusted to Moses in 4:1–2 continues with ruler and individual cas
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and offerings according to means
+
+The address begun at Leviticus 4:1–2 continues through confession and offerings scaled to means (5:1–13). Moses mediates the instruction; no new action by him is narrated.
+
+See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
+
 ## Appears in
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The address begun at Leviticus 4:1–2 continues through confession and offerings scaled to means (5:1–13). Moses mediates the instruction; no new action by him is narrated.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35; contextual role or setting.
 

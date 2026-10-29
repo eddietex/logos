@@ -384,7 +384,15 @@ The ruler and common person can violate a command unwittingly and still be guilt
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and means — Leviticus 5:1–13
+
+Withheld testimony, impurity contact, and rash swearing are addressed together, without making every offense identical or every case inadvertent.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Withheld testimony, impurity contact, and rash swearing are addressed together, without making every offense identical or every case inadvertent.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

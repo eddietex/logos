@@ -309,7 +309,15 @@ here costs a hearing and remembrance, not effectiveness. Compare the poor and wi
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Confession and means — Leviticus 5:1–13
+
+Inability to afford a lamb, and then even two birds, receives explicit provision (7, 11). Access to the stated remedy is not restricted to livestock owners.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Inability to afford a lamb, and then even two birds, receives explicit provision (7, 11). Access to the stated remedy is not restricted to livestock owners.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; the poor wise man whose wisdom is despised.
 

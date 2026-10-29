@@ -350,7 +350,15 @@ explicit forgiveness, not peace offerings or whole burnt offerings.
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and means — Leviticus 5:1–13
+
+A female flock animal, two birds with different functions, or fine flour serve the stated cases according to means (6–13).
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; A female flock animal, two birds with different functions, or fine flour serve the stated cases according to means (6–13).
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

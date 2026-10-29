@@ -48,6 +48,12 @@ they wash their garments and are told to abstain from sexual relations until the
 does not itself provide the later impurity code or call marital intercourse a sin. Holiness
 and ritual readiness should not be collapsed into moral innocence. See [[Israel at Mount Sinai]].
 
+**Qualification of the overview:** ritual uncleanness and moral wrongdoing are distinct,
+but the opening distinction is too absolute if read as excluding any liability for
+unclean contact. Leviticus 5:2–6 explicitly joins these particular contact cases to guilt
+and confession. The text does not explain them by an unstated sanctuary violation. See
+[[Confession and Offerings According to Means]].
+
 ## Development across Scripture
 
 - **Genesis 7:2–3, 8** — the first occurrence, assumed and undefined, with a sevenfold surplus of
@@ -198,7 +204,15 @@ disposal site unclean. This unit does not give a general impurity classification
 See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
 contextual comparisons documented on the passage page.
 
+### Confession and means — Leviticus 5:1–13
+
+The ritual/moral distinction needs qualification: these particular hidden-contact cases incur guilt and require confession and a sin offering (2–6). This does not make every unclean condition a moral offense.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The ritual/moral distinction needs qualification: these particular hidden-contact cases incur guilt and require confession and a sin offering (2–6). This does not make every unclean condition a moral offense.
 
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 

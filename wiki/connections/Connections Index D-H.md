@@ -69,6 +69,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 · Exodus 14:21–22 |
+| [[Flour for a Sin Offering - Leviticus 2 and 5]] | thematic-parallel | [[The Meal Offering]] (Leviticus 2); [[Confession and Offerings According to Means]] (5:11–13): shared memorial and remainder, distinct oil and frankincense rules. |
 | [[Folding the Hands - Proverbs 6.10, 24.33, and Ecclesiastes 4.5]] | motif | [[The Surety, the Sluggard, and the Seven Abominations]] (Proverbs 6:6–11) · [[The Field of the Sluggard]] (Proverbs 24:30–34) · [[Two Are Better Than One]] (Ecclesiastes 4:4–6) · Proverbs 22:22 · [[Folly in High Places and Everyday Work]] (Ecclesiastes 10:18) |
 | [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] | thread | Genesis 34:7 · Deuteronomy 22:21 · Joshua 7:15 · Judges 19:23–24 · Judges 20:6, 10 · 2 Samuel 13:12 · Jeremiah 29:23 |
 | [[For This Very Purpose - Exodus 9.16 in Romans 9.17]] | quotation | Exodus 9:16 · Exodus 10:1–2 · Romans 9:14–19, 22 · Exodus 33:19 · [[Show Me Your Glory]] (Exodus 33:1–23) · [[The Plans of the Heart]] (Proverbs 16:4) |

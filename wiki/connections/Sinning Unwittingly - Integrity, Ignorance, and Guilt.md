@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13.
+
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - **Leviticus 4:1–21** — [[The Sin Offering for Priest and Congregation]]; priestly and communal bull offerings.
@@ -152,6 +154,17 @@ is accused and no spoken confession is prescribed in this unit.
 
 See [[The Sin Offering for Ruler and Individual]]. Source for this addition: stored WEB Leviticus
 4:22–35. No new quotation from an unstored book or source-language claim.
+
+### Specific confession and affordable remedy
+
+Leviticus 5:2–4 emphasizes hiddenness and awareness, while 5:1 describes a witness’s
+failure to report without explicitly calling that failure inadvertent. The earlier
+grouping of all Leviticus 5:1–19 under unwitting sin is therefore too sweeping. Verse 5
+requires specific confession; verses 7–13 provide birds or flour according to means.
+Knowledge calls for response, but cost does not exclude the poor from forgiveness.
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13;
+this qualification concerns the English text, not a verified Hebrew lexical equation.
 
 ## Significance
 

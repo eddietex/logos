@@ -30,6 +30,11 @@ whoever sheds it** (9:5–6). They are given before Sinai, before Israel, and be
 addressed to eight people and through them to everyone — the only body of law in the Hebrew Bible
 with that scope.
 
+**Qualification of the overview:** its association of blood and remission must not become
+a claim that every sin offering includes an animal’s blood. Leviticus 5:11–13 explicitly
+prescribes flour and promises atonement and forgiveness. Leviticus 17:11 gives blood its
+altar function, but does not cancel that provision. See [[Flour for a Sin Offering - Leviticus 2 and 5]].
+
 ## Development across Scripture
 
 - **Genesis 4:10–11** — the word's first appearance, and it is a victim's. Abel's blood cries from
@@ -216,7 +221,15 @@ therefore prescribes distinct blood destinations within the category of sin offe
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and means — Leviticus 5:1–13
+
+The bird’s blood is sprinkled on the altar’s side and drained at its base (9). The flour procedure prescribes no blood from this offering yet promises atonement and forgiveness (11–13).
+
+See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
+
 ## Key passages
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The bird’s blood is sprinkled on the altar’s side and drained at its base (9). The flour procedure prescribes no blood from this offering yet promises atonement and forgiveness (11–13).
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

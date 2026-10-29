@@ -19520,3 +19520,31 @@ wrapped or dangling links and 59 expected not-yet-started book targets. No unres
 - Verified unique passage titles and one category row per entity/connection. Link checks
   clean with 59 expected not-yet-started book links; whitespace checks passed.
   No unresolved issue, workflow change, or harness compatibility edit.
+
+## [2026-10-29] ingest | Leviticus 5.1-13 — Confession and Offerings According to Means
+
+- Ingested exactly one queued unit in auto mode, retaining its title and boundary.
+  Created [[Confession and Offerings According to Means]] with all thirteen verses copied
+  from stored WEB and mechanically compared against the source.
+- Created [[Flour for a Sin Offering - Leviticus 2 and 5]]; revised two existing connections,
+  two earlier passages, three people, one place, and twelve themes. Priests and witnesses
+  remain legal roles rather than invented individual pages. Moses, Aaron, and Horeb are
+  explicitly contextual; no new person or place was needed.
+- Distinguished failure to testify from the explicitly hidden cases, specific confession
+  from an invented formula, and the two birds’ different ritual functions. Preserved the
+  WEB’s offering labels without making an unverified Hebrew terminology claim. The next
+  divine speech at 5:14 remains queued.
+- Explicitly qualified Blood’s overview against a universal animal-blood requirement:
+  5:11–13 promises atonement and forgiveness for flour. Qualified Clean and Unclean’s
+  ritual/moral distinction where 5:2–6 joins these contact cases to guilt and confession.
+  No unstated sanctuary violation or theory of borrowed blood was supplied as textual fact.
+- Updated the testimony connection from its earlier pre-ingestion source status and
+  limited the unwitting-sin connection’s grouping of all four cases as inadvertent.
+- Comparisons checked in stored WEB Leviticus 2; 4; 5:14–19; 7:38; Exodus 28:1; Proverbs
+  29:24. No new quotation from an unstored book or exact Hebrew/Greek assertion. Raw texts
+  unchanged; no fetch or harness/workflow edit was required.
+- Created 2 pages and revised 31 existing pages, including book, indexes, dashboard, and
+  this log. Leviticus is 6 / 44. Frontmatter totals: 233 passages, 192 people, 104 places,
+  85 themes, 543 connections. Category coverage and unique passage titles verified.
+- Link checks clean with 59 expected not-yet-started book links; whitespace checks passed.
+  No unresolved issue or boundary change.

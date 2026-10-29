@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Where There Is No Vision]] — Proverbs 29:24.
-- Leviticus 5:1 — WEB verified at bible-api.com; not yet ingested.
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13, especially 1, 5–6.
 
 ## Analysis
 
@@ -29,6 +29,16 @@ asserted.
 Sources: Proverbs 29:24 copied from the stored WEB; Leviticus 5:1 verified on 2026-10-26 at
 bible-api.com (request: Leviticus%205%3A1?translation=web). Leviticus was not added to raw. The
 legal comparison above is a paraphrase of the verified verse.
+
+### The legal remedy now ingested
+
+Leviticus 5:5–13 supplies confession and offerings according to means after the cases
+including withheld testimony. Proverbs 29:24 states no such remedy; the law therefore
+adds a response rather than merely restating the proverb. The law does not identify
+every silent witness as a thief’s accomplice.
+
+Source update: Leviticus 5:1–13 and Proverbs 29:24 checked in stored WEB on 2026-10-29.
+The earlier source note records the pre-ingestion verification; Leviticus is now stored.
 
 ## Significance
 

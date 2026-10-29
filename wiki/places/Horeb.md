@@ -275,7 +275,15 @@ blood is not carried into the tent in these cases.
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Confession and offerings according to means
+
+Leviticus 7:38 locates the offering laws at Sinai. The confession and means provisions of 5:1–13 belong to that setting, but name no mountain or new geographical location.
+
+See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
+
 ## Appears in
+
+- [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Leviticus 7:38 locates the offering laws at Sinai. The confession and means provisions of 5:1–13 belong to that setting, but name no mountain or new geographical location.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35; contextual role or setting.
 
