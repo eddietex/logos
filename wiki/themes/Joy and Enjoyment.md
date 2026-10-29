@@ -239,7 +239,16 @@ sequence. These are proposed delights, not a report of a feast already enjoyed.
 See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
 internal comparisons use the stored Song.
 
+### The final summons — Song of Solomon 8:13–14
+
+In [[Make Haste, My Beloved]], The gardens and mountains of spices frame the last summons with fragrant delight.
+The animal comparison suggests lively movement; this is an invitation, not a report
+that the journey or enjoyment has already taken place.
+Source: stored WEB Song 8:13–14.
+
 ## Key passages
+
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; honey, wine, and milk, and *"Eat, friends! Drink"*.
 

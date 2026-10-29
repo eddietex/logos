@@ -526,7 +526,17 @@ teaching is explicitly praised. See [[Words of Truth and the Work of the Teacher
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### The final summons — Song of Solomon 8:13–14
+
+In [[Make Haste, My Beloved]], Hearing the beloved is itself desired: the garden-dweller is asked for a voice
+with friends present (8:13), and an invitation follows (8:14). The probable exchange
+between man and woman makes speech an expression of intimacy, not only instruction
+or argument. The WEB supplies no speaker labels.
+Source: stored WEB Song 8:13–14.
+
 ## Key passages
+
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; Truthful instruction as goads and fixed nails; endless books warned against.
 

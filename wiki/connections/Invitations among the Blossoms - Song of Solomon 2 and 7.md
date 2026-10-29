@@ -10,6 +10,8 @@ tags: [connection]
 - [[Rise Up, My Love]] — Song of Solomon 2:8–17.
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–13.
 
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
+
 ## Analysis
 
 In 2:10–13 he invites her to come away as winter passes and vines blossom. In
@@ -20,6 +22,11 @@ The changed speaker gives both lovers initiative. Neither passage supplies a com
 itinerary or proves that the later invitation narrates the fulfillment of the earlier one.
 
 Source: stored WEB Song of Solomon 2:8–17; 7:10–13.
+
+The closing invitation in [[Make Haste, My Beloved]] (8:14) continues this exchange, after a request
+to hear the garden-dweller's voice (8:13). Spring blossoms give way to mountains of
+spices, and no journey is narrated. See [[Let Me Hear Your Voice - Song of Solomon 2.14-17 and 8.13-14]].
+Source for this addition: stored WEB Song 8:13–14.
 
 ## Significance
 

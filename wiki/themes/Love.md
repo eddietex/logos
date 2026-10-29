@@ -447,7 +447,16 @@ her a commodity or proving that she rejects Solomon as a suitor.
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### The final summons — Song of Solomon 8:13–14
+
+In [[Make Haste, My Beloved]], The closing exchange asks for a voice and calls the beloved away like a gazelle
+or young stag. Desire continues after the strong-love sayings and vineyard exchange;
+no narrated ending fixes the lovers in permanent union or separation.
+Source: stored WEB Song 8:13–14.
+
 ## Key passages
+
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 

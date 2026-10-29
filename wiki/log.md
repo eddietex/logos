@@ -19354,3 +19354,34 @@ Validation: scripts/link-check.sh passed with no wrapped links or dangling targe
 60 not-yet-started book pages remain the expected baseline. Frontmatter counts,
 new title uniqueness, category-index coverage, and verbatim passage verses checked.
 No unresolved blocker.
+
+## [2026-10-29] ingest | Song of Solomon 8.13-14 — Make Haste, My Beloved
+
+Unattended `/ingest auto`, executed by Codex; exactly one pericope ingested. Retained
+both the planned boundary and title. The title is editorial: the stored WEB reads
+“Come away, my beloved!”, as the passage explicitly notes. Song of Solomon is now
+complete, 16 / 16 pericopes; all six started books are complete.
+
+Created two pages: the passage and a connection tracing the closing voice request,
+animal comparison, and fragrant mountains to Song 2:14–17 and 4:6. Revised eighteen
+existing pages including this log: the book, two people, three themes, two earlier
+passages, two connections, and seven index/count pages. Totals are 227 passages,
+192 people, 104 places, 85 themes, and 539 connections.
+
+The man/woman speaker assignment remains probable, not explicitly labelled in the
+stored WEB. Friends remain an unidentified group, and gardens and mountains of
+spices remain unnamed poetic settings; neither a new person nor a geographical
+page is warranted. The ending renews invitation without narrating a final reunion
+or permanent separation. Garden and invitation connections now incorporate the
+closing unit; the garden connection's not-yet-ingested marker was replaced.
+
+Both closing verses were copied and checked against the immutable stored WEB.
+Internal comparisons were read there; no external quotation, source-language claim,
+raw-text modification, or schema/harness change was needed. Earlier intimacy and
+the continuing summons are retained as distinct poetic moments, without imposing
+a continuous historical plot or inventing a contradiction.
+
+Validation: scripts/link-check.sh passed with no wrapped links or dangling targets;
+60 not-yet-started book pages remain the expected baseline. Frontmatter counts,
+exactly one index row per entity/connection, passage-title uniqueness, copied verses,
+and whitespace checks passed. No unresolved blocker.

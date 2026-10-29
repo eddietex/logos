@@ -148,6 +148,11 @@ self-assessment weight beside the family plans. The speaker assignment is probab
 not explicit; no continuous biography or rejection of a named suitor is established.
 Source: stored WEB Song 8:8–12.
 
+In [[Make Haste, My Beloved]], She is probably the garden-dweller addressed in 8:13 and the speaker who calls her
+beloved away in 8:14. On this reading she gives the Song its last invitation; no
+subsequent movement or reunion is narrated.
+The stored WEB labels neither speaker. Source: stored WEB Song 2:9, 17; 8:13–14.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -178,7 +183,11 @@ Source: stored WEB Song 8:8–12.
 
 - Song of Solomon 8:8–12 — family and vineyard exchange. [[Our Sister and My Own Vineyard]]
 
+- Song of Solomon 8:13–14 — closing request and summons in [[Make Haste, My Beloved]].
+
 ## Appears in
+
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 

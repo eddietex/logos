@@ -111,6 +111,9 @@ summons of her own (17).
 
 - [[Invitations among the Blossoms - Song of Solomon 2 and 7]] — compared with [[Come into the Fields, My Beloved]].
 
+- [[Let Me Hear Your Voice - Song of Solomon 2.14-17 and 8.13-14]] — the closing voice request and fragrant mountain comparison
+  in [[Make Haste, My Beloved]] (8:13–14).
+
 ## Notes
 
 **Boundary.** The unit runs from *"The voice of my beloved!"* (2:8) to the summons to the mountains

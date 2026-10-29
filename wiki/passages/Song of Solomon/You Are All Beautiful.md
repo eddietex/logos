@@ -112,6 +112,9 @@ open as the wedding itself.
   shields (4:4).
 - [[The Dove and the Spirit]] — the dove as an image; here, her eyes (4:1).
 
+- [[Let Me Hear Your Voice - Song of Solomon 2.14-17 and 8.13-14]] — the closing voice request and fragrant mountain comparison
+  in [[Make Haste, My Beloved]] (8:13–14).
+
 ## Notes
 
 **Boundary.** The unit runs from *"Behold, you are beautiful"* (4:1) to *"You are all beautiful"*

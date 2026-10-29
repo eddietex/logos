@@ -128,6 +128,11 @@ does not identify him with Solomon, who is named in the vineyard account that fo
 There is no securely assigned speech of his in this unit.
 Source: stored WEB Song 8:8–12.
 
+In [[Make Haste, My Beloved]], He probably asks to hear her voice in 8:13 and is the beloved addressed in 8:14.
+The gazelle and young stag recall the mountain comparisons of 2:9, 17; the poem
+ends before it tells what he does in response.
+The stored WEB labels neither speaker. Source: stored WEB Song 2:9, 17; 8:13–14.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -159,7 +164,11 @@ Source: stored WEB Song 8:8–12.
 
 - Song of Solomon 8:8–12 — family and vineyard exchange. [[Our Sister and My Own Vineyard]]
 
+- Song of Solomon 8:13–14 — closing request and summons in [[Make Haste, My Beloved]].
+
 ## Appears in
+
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 

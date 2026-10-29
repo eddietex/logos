@@ -17,7 +17,7 @@ tags: [connection]
   garden."*
 - [[The Trial of Pleasure]] — Ecclesiastes 2:5–6: *"I made myself gardens and parks, and I planted
   trees in them of all kinds of fruit. I made myself pools of water."*
-- Song of Solomon 8:13 *(stored WEB, not yet ingested)* —
+- [[Make Haste, My Beloved]] — Song of Solomon 8:13;
   *"You who dwell in the gardens"* (8:13).
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10 — *"I am my beloved's. His desire is toward
   me"*, beside Genesis 3:16; see [[Desire and Rule - Genesis 3.16 and 4.7]].
@@ -85,6 +85,12 @@ from the explicit garden comparison of 4:12 and the invitation of 4:16. The woma
 agency in giving access can coexist with calling the vineyard her own. Neither
 passage establishes a literal estate map or a transfer of ownership of the woman.
 Source for this addition: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
+In [[Make Haste, My Beloved]], the addressee dwells in gardens with friends in attendance (8:13).
+The garden returns as the setting of a voice request; 8:14 answers with fragrant
+mountains. Unlike 4:12, 8:13 does not explicitly equate the woman with a garden.
+Neither the friends nor the plural gardens prove a public wedding or a new estate.
+Source for this addition: stored WEB Song 4:12; 8:13–14.
 
 ## Significance
 

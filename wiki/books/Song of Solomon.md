@@ -5,7 +5,7 @@ genre: Love poetry
 author: "Associated with Solomon in 1:1; historical composition not established here"
 canonical_order: 22
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Song of Solomon
 
@@ -102,7 +102,7 @@ without contempt and an embrace in her mother's house (7:11–8:3). The final
 not-awakening-love refrain closes the unit (8:4); wishes are not narrated fulfillment.
 
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–8:12 is ingested; later references in this overview and plan describe the queue.
+All 1:1–8:14 is now ingested in the sixteen pericopes below.
 
 [[Love Is Strong as Death]] moves from the woman leaning on her beloved to the seal request
 and love as strong as death (8:5–7). Floods cannot quench it and wealth cannot buy
@@ -111,6 +111,11 @@ it. The WEB names Yahweh in the flame comparison; no divine speech is narrated.
 [[Our Sister and My Own Vineyard]] sets family plans for a little sister beside the woman’s mature reply
 and her own vineyard beside Solomon’s leased estate (8:8–12). Speaker assignments
 and chronological relations remain uncertain; no marriage transaction is narrated.
+
+[[Make Haste, My Beloved]] closes the book with a request for the garden-dweller's voice and a
+summons to the beloved on the mountains of spices (8:13–14). Earlier voice, animal,
+and fragrance images return; the poem ends in invitation without narrating a final
+journey or reunion. The probable man/woman exchange is not labelled in the WEB.
 
 ## Structure
 
@@ -143,7 +148,7 @@ merge, or reorder them freely.
 - [x] [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4
 - [x] [[Love Is Strong as Death]] — Song of Solomon 8:5–7
 - [x] [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12
-- [ ] Make Haste, My Beloved — Song of Solomon 8:13–14
+- [x] [[Make Haste, My Beloved]] — Song of Solomon 8:13–14
 
 ## Key themes
 
@@ -194,6 +199,9 @@ merge, or reorder them freely.
 - [[Brotherhood]], [[Marriage]], [[Work]], [[Wealth and Possessions]], and
   [[Seeing and Being Seen]] — family assessment, personal agency, and vineyard revenue (8:8–12).
 
+- [[Language and Speech]], [[Love]], and [[Joy and Enjoyment]] — the closing
+  request for a voice and renewed invitation (8:13–14).
+
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
@@ -226,6 +234,9 @@ merge, or reorder them freely.
   (7:10–8:4); her mother remains unnamed.
 
 - [[God]] — Yahweh named in the WEB flame image (8:6), without a narrated act.
+
+- The two lovers probably exchange the closing request and summons in [[Make Haste, My Beloved]];
+  the friends of 8:13 remain an unidentified group.
 
 ## Key places
 
