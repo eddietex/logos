@@ -2705,7 +2705,15 @@ explicitly promised in the cattle rite (1:3–4).
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The peace offering — Leviticus 3
+
+Yahweh receives the specified altar portions and claims the fat (3:16). The prohibition on eating fat or blood extends through the generations and to all dwellings (17); the food language of 11 and 16 does not state divine hunger.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16; prescribed offering and priestly portion.
 

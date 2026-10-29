@@ -345,6 +345,8 @@ all flesh, and the earth needs no map. Geography returns at Genesis 10.
 
 ## Cross-references
 
+- [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] — the food restriction recurs beside the peace offering’s altar blood handling.
+
 - [[The Waters Recede]] — Genesis 8:1–22, which this pericope completes: the resolve spoken in God's
   heart at 8:21–22 becomes a covenant announced to a party and given a sign.
 - [[Noah and the Flood]] — Genesis 6:18, where the *bərît* is first promised and then left hanging

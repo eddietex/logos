@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Peace Offering]] — Leviticus 3:1–17.
+
 - [[Wine Is a Mocker]] — Proverbs 20:25.
 
 - **Proverbs 7:14** — [[The Young Man Void of Understanding]]: *"Sacrifices of peace offerings are
@@ -61,6 +63,18 @@ passage page; no new source-language claim.
 without delay, and an unpaid one is not to be excused as a mistake. See
 [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]]. Source:
 stored WEB Ecclesiastes 5:4–6.
+
+### The peace offering’s altar portion — Leviticus 3
+
+Leviticus 3 prescribes the altar portion and blood handling for cattle, sheep, and goats;
+it does not itself describe the offerer's meal or distinguish vow offerings from thanksgiving.
+Leviticus 7:11–21 supplies those distinctions and eating rules; 7:28–34 assigns priestly
+portions. The ritual that lies behind the wisdom comparison therefore has several legal
+parts. Reading the meal back into chapter 3 as though it were stated there obscures that
+division of instruction.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; 7:11–34. Chapter 7 is now stored
+and checked for this comparison, but its pericopes remain un-ingested.
 
 ## Significance
 

@@ -477,7 +477,15 @@ page.
 
 The offering law permits flour and several cooked forms while regulating ingredients, salt, priestly handling, and portions (2:1–16). Prescribed alternatives do not amount to unrestricted improvisation. See [[The Meal Offering]].
 
+### The peace offering — Leviticus 3
+
+The offering law permits both sexes of the prescribed livestock while requiring absence of defect (3:1, 6). Its closing prohibition of fat and blood applies through the generations and in all dwellings (17), extending the rule beyond the altar occasion.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

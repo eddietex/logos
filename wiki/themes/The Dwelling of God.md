@@ -224,7 +224,15 @@ page.
 
 The sanctuary altar of the continuing speech receives grain memorials as well as animal offerings (2:2, 8–9). Produce is brought to Yahweh through priestly service; a most holy remainder stays with the priests. See [[The Meal Offering]].
 
+### The peace offering — Leviticus 3
+
+The Tent of Meeting is the place of approach, slaughter, and priestly altar service (3:2, 8, 13). The sanctuary receives the assigned fat portions while the prohibition on eating fat and blood reaches all dwellings (17).
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

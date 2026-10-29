@@ -19446,3 +19446,27 @@ No existing raw text changed, no unstored-book quotation was added, and no new e
 Hebrew/Greek claim was made. Index coverage checks confirmed one row per entity/connection;
 frontmatter counts and whitespace checks passed. `scripts/link-check.sh` passed with zero
 wrapped or dangling links and 59 expected not-yet-started book targets. No unresolved issue.
+
+## [2026-10-29] ingest | Leviticus 3.1-17 — The Peace Offering
+
+- Ingested the next queued pericope in auto mode; kept its boundary and title. Copied all
+  seventeen WEB verses from the stored Leviticus text. No raw source was changed.
+- Created the passage and the connection
+  [[Blood Reserved from Food - Genesis 9 and Leviticus 3]]. Revised seven person pages,
+  [[Horeb]], five theme pages, two existing connections, and the earlier Genesis passage's
+  cross-references. Aaron's four sons are included collectively by Exodus 28:1; no individual
+  performance is claimed. Sinai is contextual, not named anew in chapter 3.
+- Distinguished the prescribed altar portions from the eating and priestly-share rules
+  checked in Leviticus 7, whose pericopes remain queued. Preserved the male-or-female
+  permission, the lamb's tail-fat provision, and the difference from Leviticus 1's explicit
+  atonement statement. No new theme or place was needed.
+- Qualified [[A Pleasing Aroma]] explicitly: Leviticus 3:11, 16 uses sacrificial food language,
+  although it does not assert divine hunger or nourishment. This limits a possible overreading
+  of the connection's earlier smell-versus-consumption contrast.
+- Verified comparisons in stored WEB Genesis 9:3–4; Exodus 24:5–11; 28:1; Leviticus 1–2;
+  7:11–38. No new quotations from unstored books or exact Hebrew/Greek wording claims.
+- Updated the book queue and status to 3 / 44, affected category rows, and frontmatter-based
+  totals: 230 passages, 192 people, 104 places, 85 themes, 542 connections.
+- Created 2 pages and revised 27 existing pages, including indexes and this log.
+  Link checks clean; 59 not-yet-started book links remain the expected baseline.
+  No unresolved issue or workflow/harness change.

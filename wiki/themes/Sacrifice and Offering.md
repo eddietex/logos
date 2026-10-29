@@ -325,7 +325,15 @@ page.
 
 Grain, oil, and prescribed preparations are accepted offerings (2:1–10). A memorial is burned and the remainder belongs to the priests. This prevents treating all acceptable offerings as animal victims or wholly burned gifts. See [[The Meal Offering]].
 
+### The peace offering — Leviticus 3
+
+The peace offering permits male or female cattle and flock animals without defect (3:1, 6). Specified fat and organs, including the lamb's tail fat, are burned; this differs from the whole burnt offering and the grain memorial. Chapter 7 supplies the meat-sharing regulations, not chapter 3.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

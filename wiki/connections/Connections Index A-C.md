@@ -53,6 +53,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Blessed Be God Who Delivered - Melchizedek and Jethro]] | typology | Genesis 14:18–20 · Exodus 18:1, 9–12 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |
 | [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]] | quotation | Exodus 24:6–8 · Zechariah 9:11 · Jeremiah 31:31–33 · Matthew 26:27–28 · Mark 14:23–24 · Luke 22:20 · 1 Corinthians 11:25 · Hebrews 9:18–22 · Hebrews 12:24 · 1 Peter 1:2 · Exodus 29:12, 20–21 |
+| [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] | legal-parallel | [[The Covenant with Noah]] · [[The Peace Offering]] · Leviticus 7:23–27 |
 | [[Blot Out - The Flood, Amalek, and God's Book]] | thread | Genesis 6:7; 7:4, 23 · Exodus 17:14 · Exodus 32:32–33 · Deuteronomy 9:14 · Deuteronomy 25:19 · Deuteronomy 29:20 · Psalm 69:28 · [[The Golden Calf]] (Exodus 32:30–34) · Romans 9:1–3 |
 | [[The Boil of Deuteronomy 28 on a Blameless Man]] | allusion | Job 2:7 · Deuteronomy 28:27, 29, 35, 38, 60 · Exodus 9:8–11 · Leviticus 13:18–23 · 2 Kings 20:7 · Isaiah 38:21 · Job 7:5; 30:30 · Job 42:7 |
 | [[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]] | parallel-and-tension | [[The Wicked Flee When No One Pursues]] (Proverbs 28:1, 14, 18) · Leviticus 26:36 · [[Job of Uz]] (Job 1:1) · [[The Second Test]] (Job 2:3, 7) · [[Let the Day Perish]] (Job 3:25–26) |

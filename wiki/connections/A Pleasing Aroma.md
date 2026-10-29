@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Peace Offering]] — Leviticus 3:1–17.
+
 - [[The Meal Offering]] — Leviticus 2:1–16.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17.
@@ -114,6 +116,20 @@ Source: stored WEB Leviticus 1; Genesis 8:20–21; 22:1–13; Exodus 18:1, 12.
 Leviticus 2:2, 9 applies the pleasant-aroma description to a grain memorial, not only to animal offerings. Verses 11–12 exclude yeast and honey from that altar use while permitting them as first-fruits gifts. The common description does not make all offerings identical in material or extent of burning. See [[The Meal Offering]].
 
 Source for this addition: stored WEB Leviticus 2:1–16.
+
+### The peace offering’s altar portion — Leviticus 3
+
+Leviticus 3:5, 16 gives the peace offering's assigned altar portions the pleasant-aroma
+description already applied to the burnt and meal offerings. The same description does not
+make their materials or distribution identical. Verses 11 and 16 also call the altar
+portion the food of the offering in the WEB.
+
+**Qualification of this page's earlier contrast:** Genesis 8:21 describes smelling rather
+than eating, and Leviticus 3 does not say God is hungry or nourished by sacrifice. Nevertheless,
+the chapter explicitly uses food language. The earlier claim about smell must not be
+read as denying sacrificial food imagery in the Torah.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3:1–17.
 
 ## Significance
 

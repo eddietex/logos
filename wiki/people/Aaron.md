@@ -352,7 +352,15 @@ Aaron.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The peace offering — Leviticus 3
+
+Aaron is named through his sons, who sprinkle the blood around the altar and burn the assigned portions (3:2, 5, 8, 13). The chapter does not narrate an act by Aaron himself or yet assign the priestly meat shares.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16; prescribed offering and priestly portion.
 

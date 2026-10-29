@@ -133,7 +133,15 @@ here; this is ritual instruction, not a report that he has performed it.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The peace offering — Leviticus 3
+
+Included collectively as one of Aaron's sons identified in Exodus 28:1, in the prescribed blood handling and altar service of Leviticus 3:2–5, 8–11, 13–16. No individual son is named or reported performing this rite; the instructions define the family's office.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16; prescribed offering and priestly portion.
 

@@ -192,7 +192,15 @@ behind the veil.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The peace offering — Leviticus 3
+
+Aaron's sons sprinkle the victim's blood around the altar (3:2, 8, 13), while 3:17 prohibits eating blood in all dwellings. Altar use and dietary restriction occur together. The procedure is distinct from the sprinkling of the people in Exodus 24:8.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; The livestock offerer kills, while Aaron’s sons present or sprinkle blood around the altar (1:5, 11).
 
@@ -244,6 +252,8 @@ page.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10; the blood of the sin offering on the incense altar's horns once a year.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:11–18; lying in wait for blood, and for their own blood
+
+See [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for the food prohibition in both settings.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

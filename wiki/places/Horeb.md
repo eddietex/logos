@@ -251,7 +251,15 @@ page.
 
 The altar receives the grain memorial in the sanctuary setting continued from Leviticus 1:1. Sinai is contextual here and named retrospectively in 7:38, not in chapter 2 itself. See [[The Meal Offering]].
 
+### The peace offering — Leviticus 3
+
+The offering is brought to the Tent of Meeting, with slaughter before it and blood handled at its altar (3:2, 8, 13). Sinai is the broader setting identified in 7:38, not a mountain named anew in chapter 3.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16; contextual setting.
 

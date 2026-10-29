@@ -195,7 +195,15 @@ page.
 
 The priest brings the gift to the altar and burns its memorial; Aaron and his sons receive the most holy remainder (2:2–3, 8–10). Priestly service includes receiving a sacred portion, alongside handling offerings. See [[The Meal Offering]].
 
+### The peace offering — Leviticus 3
+
+The offerer lays a hand on the victim and kills it; Aaron's sons handle its blood and the priest burns the specified portions (3:2–5, 8–11, 13–16). Shared participation does not erase priestly responsibility. The priestly meat shares are specified later in 7:28–34.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

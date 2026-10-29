@@ -734,7 +734,15 @@ entry or permanent exclusion.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### The peace offering — Leviticus 3
+
+The peace-offering law continues the address to Moses begun in Leviticus 1:1–2. Chapter 3 does not name him anew or describe him sacrificing; it transmits instructions for offerers and Aaron's sons.
+
+See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[The Meal Offering]] — Leviticus 2:1–16; continuing speech context.
 
