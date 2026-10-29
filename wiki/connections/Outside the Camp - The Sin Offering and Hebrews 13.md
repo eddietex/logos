@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24.
+
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
@@ -99,6 +101,18 @@ only circumstance in which sin-offering flesh must burn. Installation has its ow
 in Leviticus 4 already compared with Hebrews, without adding a new claim about Hebrews.
 
 Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
+
+### The inaugural service — Leviticus 9
+
+Aaron's inaugural calf is burned outside the camp (9:11), although its blood is
+reported on the altar's horns and base (9:9), not carried into the tent. As in chapter 8,
+outside burning must not be made synonymous with sanctuary blood. Leviticus 4:3–12
+prescribes the latter in a different case, the anointed priest's sin bringing guilt on
+the people; chapter 9 names no such offense. This addition concerns the Torah comparison
+and introduces no further claim or quotation from Hebrews.
+
+Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
+and Exodus 40:34–38, checked 2026-10-29.
 
 ## Significance
 

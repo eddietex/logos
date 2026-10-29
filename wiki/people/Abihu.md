@@ -154,7 +154,16 @@ not merely prescribed.
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Included collectively among Aaron's sons, who deliver blood and portions in the inaugural service
+(9:9, 12–13, 18). He is not individually named or assigned a separate action here. See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Appears in
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Included collectively among Aaron's
+  sons, who deliver blood and portions in the inaugural service (9:9, 12–13, 18).
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.

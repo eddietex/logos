@@ -558,7 +558,16 @@ This is an observation of the stored WEB narrative, not a claim about an exact H
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Moses connects commanded action to the promised glory (9:6); Aaron performs the service under that
+command (7, 10, 16, 21). The manifestation belongs to this inauguration, not a stated guarantee for
+every later offering. See [[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses connects commanded action to
+  the promised glory (9:6); Aaron performs the service under that command (7, 10, 16, 21).
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

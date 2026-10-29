@@ -2784,7 +2784,16 @@ present the rite as his appointment; the charge to remain at the doorway carries
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Yahweh's promised glory appears to all the people after the commanded service; fire from before him
+consumes the altar offering (9:6, 23–24). See [[The Eighth Day and the Appearing Glory]] .
+
 ## Appears in
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Yahweh's promised glory appears to
+  all the people after the commanded service; fire from before him consumes the altar offering (9:6,
+  23–24)..
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

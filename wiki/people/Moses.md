@@ -813,7 +813,15 @@ anoints, and handles the sacrifices and blood; the consecration ram’s breast i
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Moses directs Aaron's inaugural service, enters the tent with him, and joins him in blessing the
+people (9:1–7, 23). See [[The Eighth Day and the Appearing Glory]] .
+
 ## Appears in
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses directs Aaron's inaugural
+  service, enters the tent with him, and joins him in blessing the people (9:1–7, 23)..
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

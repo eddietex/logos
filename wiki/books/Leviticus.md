@@ -70,6 +70,10 @@ offers the bull and two rams, and gives the seven-day charge. The reported order
 blood-and-oil sprinkling differs from Exodus 29; both accounts are retained in
 [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]]. See [[Aaron and His Sons Consecrated]].
 
+Leviticus 9 moves from installation to inaugural service: Aaron offers for himself and
+the people, blesses them, and enters the tent with Moses. Glory and consuming fire appear
+before the congregation. See [[The Eighth Day and the Appearing Glory]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -99,7 +103,7 @@ merge, or reorder them freely.
 - [x] [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21
 - [x] [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38
 - [x] [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36
-- [ ] The Eighth Day and the Appearing Glory — Leviticus 9:1–24
+- [x] [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24
 - [ ] Nadab and Abihu and the Strange Fire — Leviticus 10:1–11
 - [ ] The Uneaten Sin Offering — Leviticus 10:12–20
 - [ ] Clean and Unclean Animals — Leviticus 11:1–47

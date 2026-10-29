@@ -130,6 +130,9 @@ death warning. The chapter closes by affirming their obedience through Moses.
 
 ## Cross-references
 
+- [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]] — the promised meeting and the
+  eighth-day manifestation in [[The Eighth Day and the Appearing Glory]] .
+
 - [[The Ordination of the Priests]] — Exodus 29:1–37 supplies the principal instructions.
 - [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]] — correspondence,
   added details, and the changed placement of the blood-and-oil sprinkling.

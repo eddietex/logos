@@ -166,7 +166,16 @@ The passage provides no individual offense or explicit forgiveness formula for A
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Moses commands Aaron to make atonement for himself and the people (9:7). Aaron's calf is for
+himself, before the people's goat; no particular offense is named in the inaugural narrative. See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses commands Aaron to make
+  atonement for himself and the people (9:7).
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.

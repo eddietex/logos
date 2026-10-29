@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24.
+
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 
 - [[The Ordination of the Priests]] — Exodus 29:22–28.
@@ -46,6 +48,17 @@ his sons are commanded to eat the remaining consecration meat and bread at the d
 (8:31–32). This meal is neither the whole burnt ram nor permission to consume every portion.
 
 Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
+
+### The inaugural service — Leviticus 9
+
+Aaron waves the breasts and right thigh of the people's peace offerings (9:21),
+while the fat burns on the altar (20). The narrative applies the portion distinctions
+of 7:28–34 without narrating a meal or explicitly restating the recipients. It does not
+report burning the thigh as in the installation ram of 8:25–28. The service's category
+matters when comparing the portions.
+
+Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
+and Exodus 40:34–38, checked 2026-10-29.
 
 ## Significance
 

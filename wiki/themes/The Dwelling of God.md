@@ -270,7 +270,16 @@ required place of eating and remaining (3–5, 31–35); no new glory appearance
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Moses and Aaron enter the Tent of Meeting and emerge to bless (9:23). Unlike Moses' inability to
+enter during the filling in Exodus 40:35, this scene reports entry; it does not explain their
+activity inside. See [[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses and Aaron enter the Tent of
+  Meeting and emerge to bless (9:23).
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.

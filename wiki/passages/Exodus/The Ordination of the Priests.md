@@ -230,6 +230,9 @@ narrates the performance.
 
 ## Cross-references
 
+- [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]] — the promised meeting and the
+  eighth-day manifestation in [[The Eighth Day and the Appearing Glory]] .
+
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21 distinguishes sanctuary blood handling
   and outside-camp disposal while retaining the assigned altar fat.
 

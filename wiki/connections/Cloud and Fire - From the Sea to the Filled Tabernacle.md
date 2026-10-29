@@ -6,6 +6,8 @@ tags: [connection]
 # Cloud and Fire - From the Sea to the Filled Tabernacle
 
 ## Passages involved
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24.
 - [[The Crossing of the Sea]] — Exodus 13:20–22; 14:19–24; leading, separating, and protecting.
 - [[Manna and Quail]] — Exodus 16:9–10; glory appears in the cloud before the congregation.
 - [[The Blood of the Covenant]] — Exodus 24:15–18; the mountain covered and Moses called into the cloud.
@@ -46,6 +48,17 @@ angel in 14:19 or erase the distinct historical question about the outside tent.
 14:19–24; 16:9–10; 24:15–18; 33:3–17; 40:34–38, on 2026-10-25. This is an English-text
 narrative comparison; no exact Hebrew wording, unstored-book quotation, or independent
 historical reconstruction is asserted.
+
+### The inaugural service — Leviticus 9
+
+Leviticus 9:23–24 adds a public manifestation after the inaugural offerings. Moses
+and Aaron enter the tent and return; glory appears and fire consumes the altar offering.
+Unlike Exodus 40:34–35, this passage mentions no cloud and does report entry. The
+difference of access is explicit, but the text gives no account of what they do inside.
+The glory's appearance does not always have an identical effect on human approach.
+
+Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
+and Exodus 40:34–38, checked 2026-10-29.
 
 ## Significance
 

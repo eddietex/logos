@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24.
+
 - **Genesis 17:12** — *"He who is eight days old will be circumcised among you, every male
   throughout your generations"* — [[Circumcision, the Sign of the Covenant]]
 - **Genesis 21:4** — *"Abraham circumcised his son, Isaac, when he was eight days old, as God had
@@ -52,13 +54,23 @@ days were fulfilled"* (Luke 2:21), and then presented as a firstborn, *"holy to 
 The second is traced at
 [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]].
 
+### The inaugural service — Leviticus 9
+
+Leviticus 8:33–36 prescribes seven days at the tent door; 9:1 opens the eighth day
+with Aaron's service, culminating in glory (9:23–24). This now-checked interval extends
+the page's motif beyond newborn children and animals to installed priests. The shared
+timing does not make ordination a circumcision rite or explain all eighth-day laws.
+The preceding days and this inauguration are now ingested.
+
+Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
+and Exodus 40:34–38, checked 2026-10-29.
+
 ## Significance
 
 - **It links the covenant sign of Genesis 17 to the firstborn law of Exodus 13 and 22** through a
   shared interval, without claiming that the two laws are one.
-- **It gives the wiki a place to file the eighth day** as it recurs: *"On the eighth day, Moses
-  called Aaron and his sons"* (Leviticus 9:1; the preceding days are not checked here), and after
-  the seven days of the feast, *"On the eighth day shall be a holy convocation to you"* (Leviticus
-  23:36). Both fetched from the WEB; neither book is ingested yet.
+- **The priestly eighth day is now ingested** in
+  [[The Eighth Day and the Appearing Glory]]. The festival's eighth-day assembly in Leviticus 23:36
+  remains ahead in the queue; its WEB text is now stored locally.
 - See also [[Child Sacrifice and the Redemption of the Firstborn]] for the firstborn law's missing
   redemption clause in Exodus 22:29.

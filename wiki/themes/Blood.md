@@ -261,7 +261,17 @@ the body parts symbolically. This blood is applied, not consumed.
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Aaron's sons deliver blood; he applies the calf's blood to altar horns and base and sprinkles the
+burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry into the tent is
+narrated. See [[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Aaron's sons deliver blood; he
+  applies the calf's blood to altar horns and base and sprinkles the burnt- and peace-offering blood
+  around the altar (9:9, 12, 18).
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

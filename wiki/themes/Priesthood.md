@@ -279,7 +279,16 @@ own need for atonement (34) precedes their inaugural service in chapter 9.
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+After consecration, Aaron officiates and his sons deliver blood and portions. His own offering
+precedes the people's; priestly office does not remove his need for atonement (9:7–21). See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; After consecration, Aaron
+  officiates and his sons deliver blood and portions.
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
@@ -320,7 +329,7 @@ See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 2
   tabernacle, or vessel is anointed, a fugitive with no office pours oil on a stone. It is also the
   first occurrence of *šemen* in Scripture, and God later refers to the act approvingly (31:13)
 - Exodus 28–29 — Aaron and his sons appointed and their consecration prescribed;
-  Leviticus 8–9 — consecration and inauguration narrated (not yet ingested)
+  Leviticus 8–9 — consecration and inauguration now ingested
 - Numbers 3:5–13; Deuteronomy 33:8–11 — Levi set apart
 - 1 Samuel 2:35 — *"I will raise up a faithful priest"*
 - Psalm 110:4 — the order of Melchizedek

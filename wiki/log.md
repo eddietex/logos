@@ -19741,3 +19741,35 @@ on existing connections remain identified as such; Leviticus 8 is now marked ing
 Validation: all 36 quoted verses matched the raw chapter exactly; title unique, queue and
 frontmatter counts checked. scripts/link-check.sh passed both checks (59 expected unstarted
 book targets); git diff --check clean. No unresolved operational issue. Agent: Codex.
+
+## [2026-10-29] ingest | Leviticus 9.1-24 — The Eighth Day and the Appearing Glory
+
+Ingested exactly the next queued pericope in auto mode, retaining Leviticus 9:1–24.
+Copied all 24 verses from stored WEB. Aaron's inaugural service follows the seven-day
+consecration charge: offerings for himself and the people, blessing, entry with Moses,
+and the public appearance of glory and consuming fire.
+
+Created the passage and [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]].
+Revised seven people, one place, ten themes, five existing connections, three related
+passages, and the Leviticus book page. Updated nine category/book indexes, the main
+dashboard, and this log: two created pages and 38 revised pages in total.
+Leviticus stands at 14 / 44 pericopes; totals are 241 passages, 192 people, 104 places,
+85 themes, and 549 connections.
+
+Judgments: Aaron's sons are included collectively, without invented individual actions;
+elders and congregation introduce no new named person. The tent remains treated under
+[[The Dwelling of God]], and [[Horeb]] records the continuing Sinai setting without
+claiming the mountain is named here. No new person, place, or theme page was needed.
+The existing eighth-day connection now distinguishes priestly inauguration from newborn
+rites and removes its outdated claim that the preceding days were unchecked.
+
+Explicitly retained the difference between chapter 4's sanctuary-blood procedure and
+Aaron's inaugural calf, and between Exodus 40's inability to enter and Leviticus 9's
+reported entry. Did not invent the activity inside the tent, identify a particular sin
+behind Aaron's offering, or describe the final fire as the first altar burning.
+Comparisons checked in stored WEB Exodus 29:42–46; 40:34–38 and Leviticus 4:1–12;
+6:24–30; 7:28–38; 8:33–36. No new unstored-book quotation or exact source-language
+claim; raw texts and harness instructions unchanged.
+
+Validation: scripts/link-check.sh clean, with 59 not-yet-started book targets as the
+expected baseline; copied verse text and progress counts checked. No unresolved issue.

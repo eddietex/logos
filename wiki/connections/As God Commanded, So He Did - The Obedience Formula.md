@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24.
+
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Explicit credit for commanded work (38:22), before final erection.
@@ -200,6 +202,16 @@ Leviticus 8:30 report the oil-and-blood sprinkling at different points in the se
 See [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
 
 Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
+
+### The inaugural service — Leviticus 9
+
+Moses announces that the commanded action precedes the appearing glory (9:6).
+The account then marks Aaron's service by command and ordinance (7, 10, 16, 21).
+The narrative reaches a visible response in verses 23–24. This is a particular promised
+manifestation, not a rule that every act of obedience receives visible fire.
+
+Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
+and Exodus 40:34–38, checked 2026-10-29.
 
 ## Significance
 

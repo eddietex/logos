@@ -333,7 +333,17 @@ and outside of the camp. This is contextual placement, not a fresh named occurre
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+The Sinai camp remains the narrative setting, inferred from 7:38; chapter 9 itself locates the
+action at the tent and altar and outside the camp, without naming the mountain. See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Appears in
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The Sinai camp remains the
+  narrative setting, inferred from 7:38; chapter 9 itself locates the action at the tent and altar
+  and outside the camp, without naming the mountain..
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

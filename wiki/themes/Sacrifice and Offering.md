@@ -408,7 +408,16 @@ peace-offering portions in 7:31–34. The different rites explain the apparent p
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+The inaugural service coordinates sin, burnt, meal, and peace offerings, besides the morning burnt
+offering (9:8–21). Fire from before Yahweh consumes the burnt offering and fat after the narrated
+burning actions (24). See [[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The inaugural service coordinates
+  sin, burnt, meal, and peace offerings, besides the morning burnt offering (9:8–21).
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.

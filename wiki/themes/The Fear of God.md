@@ -334,7 +334,16 @@ inquiry has ended. Nor does it guarantee an explanation of the reversals seen in
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### The eighth-day service — Leviticus 9
+
+The congregation shouts and falls on its faces when fire consumes the offering (9:24). This fits the
+theme of awe, but the WEB does not explicitly call their response fear or specify the emotion of the
+shout. See [[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The congregation shouts and falls
+  on its faces when fire consumes the offering (9:24).
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; Fear God and keep his commandments as the concluding charge.
 

@@ -315,7 +315,16 @@ as the children's acknowledgment already did in Proverbs 31:28. See
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### The eighth-day service — Leviticus 9
+
+Aaron lifts his hands and blesses after the offerings; then Moses and Aaron bless together on
+emerging from the tent (9:22–23). Neither blessing's words are supplied. See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Aaron lifts his hands and blesses
+  after the offerings; then Moses and Aaron bless together on emerging from the tent (9:22–23).
 
 - [[Riches Without Enjoyment]] — Ecclesiastes 6:1–9; wealth from God is not an automatic measure of enjoyed blessing.
 

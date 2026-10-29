@@ -311,7 +311,16 @@ the unit depicts ritual mediation rather than an argument pleading their innocen
 
 See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
 
+### The eighth-day service — Leviticus 9
+
+Moses directs the priestly approach; Aaron offers for himself and the people. The two enter the tent
+together and bless the congregation (9:7, 22–23), joining distinct mediating roles. See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses directs the priestly
+  approach; Aaron offers for himself and the people.
 
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Words of King Lemuel]] — Proverbs 31:8–9; The ruler must use his own voice for another

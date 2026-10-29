@@ -138,6 +138,9 @@ guiding a people who have not yet reached the promised land.
 
 ## Cross-references
 
+- [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]] — the promised meeting and the
+  eighth-day manifestation in [[The Eighth Day and the Appearing Glory]] .
+
 - [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] — the following call from the tent does not narrate Moses entering it.
 
 - [[The Work Completed]] — Exodus 39:32–43; manufacture and inspection precede erection.

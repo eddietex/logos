@@ -148,7 +148,16 @@ things"* to Yahweh with the same root; see
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### The eighth-day service — Leviticus 9
+
+Promised glory appears to all the people (9:6, 23), followed by fire consuming the offering (24). No
+cloud is mentioned here. The people shout and fall on their faces. See
+[[The Eighth Day and the Appearing Glory]] .
+
 ## Key passages
+
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Promised glory appears to all the
+  people (9:6, 23), followed by fire consuming the offering (24).
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; The encounter leaves a visible effect on the mediator.
 
