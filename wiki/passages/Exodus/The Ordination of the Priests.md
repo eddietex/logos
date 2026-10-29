@@ -265,6 +265,8 @@ narrates the performance.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
 
+[[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]] distinguishes the consecration ram’s burned thigh and Moses’ breast from the continuing peace-offering portions in [[Fat, Blood, and the Priests’ Share]].
+
 ## Notes
 
 ### What Moses does

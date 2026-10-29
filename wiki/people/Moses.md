@@ -797,7 +797,17 @@ he is not newly named or described as performing a sacrifice in this unit.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+Two renewed speeches commission Moses to address Israel (22, 28). The closing summary identifies
+him as recipient of the offering laws at Mount Sinai (38); it does not narrate the ordination
+itself.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Appears in
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 

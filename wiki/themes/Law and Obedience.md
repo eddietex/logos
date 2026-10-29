@@ -542,7 +542,17 @@ result in nonacceptance and liability (18).
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+The blood restriction applies in every dwelling (26), while the portion rules govern sanctuary
+giving. Verse 38 gathers the offering laws as Yahweh’s commands through Moses at Sinai;
+obedience orders consumption as well as presentation.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

@@ -19689,3 +19689,29 @@ Created 3 pages; revised 19 content pages, 8 indexes, and this log (28 existing 
 Progress: 238 passages, 192 people, 104 places, 85 themes, 547 connections;
 7 books started, 6 complete. Link checks clean with 59 expected unstarted-book targets.
 No unresolved issue or deliberately dangling link introduced.
+
+## [2026-10-29] ingest | Leviticus 7.22-38 — Fat, Blood, and the Priests’ Share
+
+Ingested the next queued unit in auto mode as Codex. Created the passage and
+[[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]]; revised two existing
+connections on blood reserved from food and eligibility for holy portions, with reciprocal
+links on three earlier passages. Updated God, Moses, Aaron, Horeb, and seven themes
+(Blood, Priesthood, Sacrifice and Offering, Holiness, Law and Obedience, Judgment,
+Clean and Unclean), their index rows, the book overview and checklist, book status, and
+progress counts. Total: 2 pages created and 26 revised, including indexes and this log.
+Leviticus now stands at 12/44 units; totals are 239 passages, 192 people, 104 places,
+85 themes, and 548 connections.
+
+Judgments: retained the planned boundary. Aaron's sons are a collective here; no son is
+named or given an individual action, so no new person or individual-son update was needed.
+Sinai remains on the combined Horeb page. Distinguished shared-meal eligibility from
+reserved priestly portions, and the consecration ram's burned thigh from the continuing
+peace-offering grant. Recorded these apparent tensions explicitly rather than flattening
+the rites. Other use of carcass fat does not mean permission to eat it or a declaration
+of ritual cleanness. The cutting-off sanction's mechanism remains unspecified here.
+
+All seventeen passage verses were copied from stored WEB Leviticus. Comparisons were
+checked in stored WEB Genesis 9:3–4, Exodus 29:22–28, and Leviticus 1:1; 3; 7.
+No quotation from an unstored book or exact source-language assertion was introduced;
+raw texts and workflow instructions were unchanged. Link checks passed with the expected
+59 unstarted-book targets excluded; no unresolved links or ingestion blockers.

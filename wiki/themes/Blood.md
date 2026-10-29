@@ -244,7 +244,18 @@ on eating blood; that explicit prohibition follows in 7:26–27.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+The prohibition expressly includes blood of birds and animals in every dwelling, with cutting
+off as the sanction (26–27). Verse 33 also identifies the priest by his offering of blood and
+fat. This unit prescribes the limit but does not repeat Genesis 9:4’s explanation in terms of
+life.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

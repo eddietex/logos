@@ -317,7 +317,17 @@ be turned into an unstated location rule for this meal.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+Leviticus 7:38 explicitly locates the offering commands at Mount Sinai and in the wilderness of
+Sinai. This confirms the setting previously inferred for the offering units; it supplies no new
+modern identification of the site.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Appears in
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 

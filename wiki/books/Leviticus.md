@@ -60,6 +60,11 @@ Leviticus 7:11–21 distinguishes thanksgiving, vow, and freewill peace-offering
 assigns accompanying bread, and regulates eating by time and purity. Sacred sharing
 does not remove the sanctions for prohibited eating. See [[Thanksgiving, Vows, and the Peace Offering]].
 
+Leviticus 7:22–38 closes the offering laws with fat and blood prohibitions, the breast
+for Aaron and his sons, and the right thigh for the officiant. The Sinai summary and
+the anointing portion connect these laws to the coming consecration narrative.
+See [[Fat, Blood, and the Priests’ Share]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -87,7 +92,7 @@ merge, or reorder them freely.
 - [x] [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23
 - [x] [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10
 - [x] [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21
-- [ ] Fat, Blood, and the Priests’ Share — Leviticus 7:22–38
+- [x] [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38
 - [ ] Aaron and His Sons Consecrated — Leviticus 8:1–36
 - [ ] The Eighth Day and the Appearing Glory — Leviticus 9:1–24
 - [ ] Nadab and Abihu and the Strange Fire — Leviticus 10:1–11

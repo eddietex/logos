@@ -101,6 +101,8 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 - [[The Meal Offering]] — Leviticus 2 assigns its remainder to priests; chapter 3 leaves the meat distribution for later instruction.
 - [[The Blood of the Covenant]] — Exodus 24:5–8 already names peace offerings, but Moses' sprinkling of the people is distinct from this altar procedure.
 
+Leviticus 7:22–38 now expands the fat and blood prohibition and assigns the breast and right thigh: [[Fat, Blood, and the Priests’ Share]].
+
 ## Notes
 
 ### Shared pattern, differentiated victims

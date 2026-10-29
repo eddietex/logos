@@ -234,7 +234,17 @@ specify how the cutting-off sanction is executed.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+Fat from an animal that dies of itself or is torn may be used for other service but may not be
+eaten (24). This limited permission neither pronounces the carcass clean nor removes impurity
+from contact; the unit provides no cleansing rite.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

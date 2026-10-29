@@ -10,6 +10,8 @@ tags: [connection]
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
+
 ## Analysis
 
 Leviticus 6:26, 29 and 7:6 reserve sin- and trespass-offering meat for priests in a
@@ -26,6 +28,16 @@ consecrated contact, contaminated food, and an eater's eligibility without expla
 a single mechanism for all three.
 
 Sources: stored WEB Leviticus 2; 6–7. No source-language assertion is made.
+
+### Reserved portions within the shared meal
+
+Leviticus 7:31–34 assigns the breast to Aaron and his sons and the right thigh to the
+son who offers blood and fat. The permission for every clean participant in 7:19 does
+not cancel these allocations. **The apparent tension is resolved by distinguishing
+eligibility to eat from entitlement to a particular portion.** Fat and blood remain
+excluded from food even where other parts are lawfully shared (23–27).
+
+Source: stored WEB Leviticus 7:19–38.
 
 ## Significance
 

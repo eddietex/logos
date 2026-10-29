@@ -410,7 +410,17 @@ particular portions, while 7:10 assigns grain mixed with oil or dry to all his s
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+Aaron and his sons receive the peace offering’s breast; the son who offers its blood and fat
+receives the right thigh (31–34). The family grant and the officiant’s particular portion are
+distinguished, and verses 35–36 connect their support with anointing.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Appears in
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

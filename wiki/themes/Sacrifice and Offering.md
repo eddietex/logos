@@ -392,7 +392,17 @@ The shared meal remains an offering belonging to Yahweh, not unrestricted leftov
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+The donor personally brings fat and breast; the fat burns, the breast goes to Aaron and his
+sons, and the right thigh to the officiant (30–34). The summary of offering laws includes
+consecration and locates the commands at Sinai (37–38).
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

@@ -309,7 +309,17 @@ claim that all holy food automatically sanctifies every participant.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+What is brought to Yahweh can become the priestly family’s food by his allocation (34). Sacred
+ownership distinguishes altar fat from edible priestly portions; it does not require burning
+everything offered.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

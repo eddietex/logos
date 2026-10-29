@@ -500,7 +500,17 @@ reduced to an ordinary hygiene rule or assigned a precise judicial procedure.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+Eating the prohibited fat or any blood incurs cutting off from the people (25, 27). These verses
+give neither an executor nor a procedure; the sanction must not be silently reduced to a
+particular civil or divine mechanism.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

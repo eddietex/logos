@@ -263,7 +263,17 @@ The broader permission does not cancel the restrictions on those other offerings
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+The breast belongs to Aaron and his sons; the right thigh belongs to the son who offers blood
+and fat (31–34). These portions are Yahweh’s gift from Israel and are associated with anointing
+and continuing generations (35–36), not unrestricted priestly ownership of the sacrifice.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Key passages
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

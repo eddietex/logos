@@ -2769,7 +2769,16 @@ on the stated handling rules (7:18–21).
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Fat, blood, and priestly shares — Leviticus 7:22–38
+
+Yahweh both withholds fat and blood from consumption and gives the breast and thigh to Aaron’s
+priestly house (23–34). His ownership grounds provision as well as prohibition.
+
+See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
+
 ## Appears in
+
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 

@@ -80,6 +80,8 @@ neither offering it nor possessing it gives unrestricted permission to eat.
 - [[Who May Eat the Holy Portions - Leviticus 6 and 7]] — priestly portions and the clean participant.
 - [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]] — the law illuminates the woman's claimed feast without identifying it as thanksgiving.
 
+The continuation, [[Fat, Blood, and the Priests’ Share]], reserves breast and thigh for the priests. The clean participant’s permission in 7:19 does not confer entitlement to those portions.
+
 ## Notes
 
 ### The bread and its destination

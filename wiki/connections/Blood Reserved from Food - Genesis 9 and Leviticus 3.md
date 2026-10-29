@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Covenant with Noah]] — Genesis 9:3–4.
 - [[The Peace Offering]] — Leviticus 3:2, 8, 13, 17.
-- Leviticus 7:23–27 — further fat and blood regulations, stored but not yet ingested.
+- [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38; food restrictions and priestly shares now ingested.
 
 ## Analysis
 
@@ -24,6 +24,15 @@ altar rite. Leviticus addresses Israel through the continuing speech to Moses (1
 also reserves the named fat portions. Its chapter 3 does not repeat Genesis 9:4's explanation
 in terms of life. Leviticus 7:23–27 further specifies the fat of cattle, sheep, and goats,
 and the blood of birds and animals.
+
+### The prohibition developed — Leviticus 7:22–38
+
+Verse 24 permits other use of fat from animals that die or are torn but forbids eating
+it. Thus the restriction is not confined to fat from animals actually sacrificed.
+Verses 25 and 27 add cutting off as a sanction; verse 26 explicitly includes bird and
+animal blood in all dwellings. The text gives no procedure for implementing that sanction.
+The blood prohibition and the permission for priests to receive breast and thigh (31–34)
+are complementary limits, not a ban on every animal product.
 
 ## Significance
 
