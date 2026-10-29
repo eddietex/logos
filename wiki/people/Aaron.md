@@ -418,8 +418,17 @@ distinguished, and verses 35–36 connect their support with anointing.
 
 See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Aaron receives the garments, Urim and Thummim, and oil poured on his head (6–12). With his sons
+he lays hands on the animals, receives blood on ear, thumb, and toe, and is sprinkled with oil
+and blood (14–30). He must remain at the doorway seven days; obedience is affirmed (33–36).
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Appears in
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
+
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Explicit credit for commanded work (38:22), before final erection.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Dimensions, materials, and forms enacted; use and completion distinguished.
@@ -33,7 +35,7 @@ tags: [connection]
 - **Exodus 40:16** — Moses’ obedience in the erection account (checked in stored WEB; [[The Tabernacle Raised and the Glory]]).
 
 - **Exodus 29:1–37; Leviticus 8:4, 9, 13, 17, 21, 29, 36** — the ordination commanded, then performed
-  *"as Yahweh commanded Moses"* (verified WEB, not yet ingested) — [[The Ordination of the Priests]],
+  *"as Yahweh commanded Moses"* (stored WEB; now ingested) — [[The Ordination of the Priests]],
   [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]]
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37 · Exodus 36:8–38 · Exodus 40:18–28; the enclosure, separation, or placement developed here.
@@ -184,6 +186,20 @@ acts retold in 40:17–33; omitted ritual details should not become a denial of 
 
 See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
 2026-10-25.
+
+### The consecration now ingested — Leviticus 8
+
+Leviticus 8:4 affirms Moses’ response; 8:9, 13, 17, 21, and 29 repeat the WEB wording
+“as Yahweh commanded Moses.” Verse 36 ends with Aaron and his sons doing what Yahweh
+commanded through Moses. The repeated notices connect the preparation of people with
+the earlier making and raising of the sanctuary. This addition compares verified English
+wording, without asserting identity with the exact Hebrew formula discussed above.
+
+Obedience notices do not make the accounts verbatim duplicates: Exodus 29:21 and
+Leviticus 8:30 report the oil-and-blood sprinkling at different points in the sequence.
+See [[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]].
+
+Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
 
 ## Significance
 

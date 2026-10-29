@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
+
 - **Exodus 29:1–37** — the ordination commanded to Moses on the mountain —
   [[The Ordination of the Priests]].
 - **Exodus 30:26–30** — the anointing of the tent, its furniture, the basin, and the priests, with
@@ -15,8 +17,7 @@ tags: [connection]
   head.
 - **Exodus 40:12–15** — the washing, clothing, and anointing commanded again at the setting up of
   the tabernacle — [[The Tabernacle Raised and the Glory]] (local WEB).
-- **Leviticus 8:1–36** — the ordination performed, *"as Yahweh commanded Moses"* *(verified WEB; not
-  yet ingested)*.
+- **Leviticus 8:1–36** — the ordination performed, *"as Yahweh commanded Moses"* *(stored WEB; now ingested)*.
 - **Leviticus 9:23–24** — at the close of the installation, Yahweh's glory appears and fire consumes
   the offering *(verified WEB; not yet ingested)*.
 
@@ -68,6 +69,23 @@ to invent a contradiction or a precise unreported chronology.
 See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
 2026-10-25.
 
+### The consecration now ingested — Leviticus 8
+
+The full chapter is now ingested in [[Aaron and His Sons Consecrated]], from stored WEB.
+The broad correspondence described above does not mean an identical sequence in every detail.
+**Narrative-order tension:** Exodus 29:21 commands sprinkling blood and oil on the people
+and garments before the fat, thigh, bread, and breast directions (22–28). Leviticus 8:30
+reports the sprinkling after those portions (25–29). Neither account explains this ordering
+difference. The summary affirmation of obedience must not erase it or produce an invented
+second sprinkling. The earlier phrase “step by step” describes the broad ritual progression.
+
+Leviticus 8:15 expressly calls the bull’s blood a purification and atonement for the altar;
+8:34 names atonement for the priests. The seven-day charge is commanded in 33–35 and obedience
+summarized in 36, without seven separate daily narratives. Exodus 29:35–37 supplies explicit
+daily altar-atonement instructions. Chapter 9 remains a separate, unchecked pericope.
+
+Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
+
 ## Significance
 
 **The pattern of command and performance governs the tabernacle material.** Exodus 25–31 gives
@@ -83,6 +101,6 @@ people"* and fire coming out *"from before Yahweh"*. See [[Priesthood]], [[Aaron
 ## Sources
 
 Exodus quotations were checked against `raw/bible/Exodus.md`. Leviticus 8:1–36 and 9:23–24 were
-fetched individually from bible-api.com with `translation=web` on 2026-10-23. Leviticus is not
-ingested, and no Leviticus raw file was created. The Hebrew of Exodus 28:4, 39 and 29:9 was read in
+fetched individually from bible-api.com with `translation=web` on 2026-10-23. At that verification date Leviticus was not
+ingested and no Leviticus raw file was created. It is now stored and in progress. The Hebrew of Exodus 28:4, 39 and 29:9 was read in
 *Miqra according to the Masorah* via Sefaria.

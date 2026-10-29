@@ -550,8 +550,17 @@ obedience orders consumption as well as presentation.
 
 See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Moses’ compliance begins the ceremony (4), repeated command notices punctuate it, and the
+sons’ obedience through Moses closes it (36). The seven-day charge carries a death warning.
+This is an observation of the stored WEB narrative, not a claim about an exact Hebrew formula.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Key passages
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.

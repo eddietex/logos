@@ -262,8 +262,17 @@ carry different rules.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+The tabernacle, its contents, altar, and basin are anointed alongside the installation of
+its servants (10–12). The doorway is both the public gathering point and the priests’
+required place of eating and remaining (3–5, 31–35); no new glory appearance is narrated here.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Key passages
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.

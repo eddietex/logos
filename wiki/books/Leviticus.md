@@ -65,6 +65,11 @@ for Aaron and his sons, and the right thigh for the officiant. The Sinai summary
 the anointing portion connect these laws to the coming consecration narrative.
 See [[Fat, Blood, and the Priests’ Share]].
 
+Leviticus 8 now narrates the public consecration: Moses prepares sanctuary and priests,
+offers the bull and two rams, and gives the seven-day charge. The reported order of the
+blood-and-oil sprinkling differs from Exodus 29; both accounts are retained in
+[[Ordination Commanded and Performed - Exodus 29 and Leviticus 8]]. See [[Aaron and His Sons Consecrated]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -93,7 +98,7 @@ merge, or reorder them freely.
 - [x] [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10
 - [x] [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21
 - [x] [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38
-- [ ] Aaron and His Sons Consecrated — Leviticus 8:1–36
+- [x] [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36
 - [ ] The Eighth Day and the Appearing Glory — Leviticus 9:1–24
 - [ ] Nadab and Abihu and the Strange Fire — Leviticus 10:1–11
 - [ ] The Uneaten Sin Offering — Leviticus 10:12–20
@@ -139,6 +144,9 @@ merge, or reorder them freely.
 - [[Law and Obedience]]
 - [[Clean and Unclean]]
 - [[Holiness]]
+
+- [[Mediation and Advocacy]]
+- [[Judgment]]
 
 ## Key people
 

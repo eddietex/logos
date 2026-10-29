@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
+
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
@@ -16,7 +18,7 @@ tags: [connection]
 - **Exodus 29:10–14** — the bull of the priests' ordination: blood on the altar, fat burned on it, and
   *"the meat of the bull, and its skin, and its dung, you shall burn with fire outside of the camp:
   it is a sin offering"* — [[The Ordination of the Priests]].
-- **Leviticus 8:14–17** — the same disposal performed *(verified WEB; not yet ingested)*.
+- **Leviticus 8:14–17** — the same disposal performed *(stored WEB; now ingested)*.
 - **Hebrews 13:10–13** — the bodies of animals whose blood is brought into the holy place are burned
   *"outside of the camp"*, and Jesus *"suffered outside of the gate"* *(verified WEB; not yet
   ingested)*.
@@ -86,6 +88,17 @@ The addition establishes the Leviticus distinction; it introduces no further cla
 Hebrews’ wording.
 
 Source for this addition: stored WEB Leviticus 2; 4; 6:24–7:10.
+
+### The consecration now ingested — Leviticus 8
+
+Leviticus 8:15–17 now narrates the ordination bull’s blood on the altar and the burning
+of its body outside the camp. The blood is not reported as entering the tent. Thus the
+prohibition on eating sanctuary-blood sin offerings in Leviticus 6:30 does not state the
+only circumstance in which sin-offering flesh must burn. Installation has its own command
+(Exodus 29:14). This preserves the distinction from the closer blood-and-body combination
+in Leviticus 4 already compared with Hebrews, without adding a new claim about Hebrews.
+
+Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
 
 ## Significance
 

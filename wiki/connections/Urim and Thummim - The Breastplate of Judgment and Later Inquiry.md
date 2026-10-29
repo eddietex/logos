@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
+
 - **Exodus 28:30** — *"You shall put in the breastplate of judgment the Urim and the Thummim;
   and they shall be on Aaron's heart, when he goes in before Yahweh"* — [[The Priestly Garments]].
 - **Leviticus 8:8** — *"He placed the breastplate on him; and in the breastplate he put the Urim
-  and the Thummim"* *(verified WEB, not yet ingested)*.
+  and the Thummim"* *(stored WEB; now ingested)*.
 - **Numbers 27:21** — Joshua is to stand before Eleazar the priest, *"who shall inquire for him by
   the judgment of the Urim before Yahweh"* *(verified WEB, not yet ingested)*.
 - **Deuteronomy 33:8** — *"Your Thummim and your Urim are with your godly one, whom you proved at
@@ -66,6 +68,15 @@ Thummim and does not say they were lots; the shared word shows only that the sen
 speaks of the ordinary lot in the vocabulary of priestly judgment. See
 [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]]. Source: stored WEB Proverbs
 16:33; Exodus 28:30.
+
+### The consecration now ingested — Leviticus 8
+
+Leviticus 8:8 now belongs to an ingested passage. Moses places the breastplate on Aaron
+and the Urim and Thummim in it, carrying out Exodus 28:30. The installation still gives
+no manufacture, material, or procedure of inquiry. The act of placement is verified in
+stored WEB and should not become a reconstruction of the objects’ mechanism.
+
+Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
 
 ## Significance
 

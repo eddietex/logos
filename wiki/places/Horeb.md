@@ -325,8 +325,17 @@ modern identification of the site.
 
 See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+The consecration takes place at the Tent of Meeting in the Sinai setting established by
+Leviticus 7:38. Chapter 8 names no mountain; its spatial contrasts are the doorway, altar,
+and outside of the camp. This is contextual placement, not a fresh named occurrence of Sinai.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Appears in
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.

@@ -2776,8 +2776,17 @@ priestly house (23–34). His ownership grounds provision as well as prohibition
 
 See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Yahweh commands the public gathering and the consecration. The repeated compliance notices
+present the rite as his appointment; the charge to remain at the doorway carries a death warning
+(1–5, 35–36). No new divine speech of pardon is reported.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Appears in
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.

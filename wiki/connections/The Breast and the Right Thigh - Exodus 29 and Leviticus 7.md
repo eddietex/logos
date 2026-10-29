@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
+
 - [[The Ordination of the Priests]] — Exodus 29:22–28.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:28–36.
 
@@ -34,6 +36,16 @@ in Leviticus specify an equal division formula for every priest on every occasio
 
 Sources: stored WEB Exodus 29:22–28 and Leviticus 7:28–36. Comparisons are paraphrases;
 no source-language wording claim or quotation from an unstored book is introduced.
+
+### The consecration now ingested — Leviticus 8
+
+Leviticus 8:25–29 now performs the ordination allocation: right thigh, fat, and bread are
+waved in the priests’ hands and burned, while Moses receives the breast. This confirms
+the rite-specific distinction already drawn between Exodus 29 and Leviticus 7. Aaron and
+his sons are commanded to eat the remaining consecration meat and bread at the door
+(8:31–32). This meal is neither the whole burnt ram nor permission to consume every portion.
+
+Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
 
 ## Significance
 

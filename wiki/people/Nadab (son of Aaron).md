@@ -153,8 +153,19 @@ these rites.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Included among Aaron’s sons, identified by Exodus 28:1 rather than named individually here.
+Moses washes and clothes the sons, marks their right ears, thumbs, and toes with blood, and
+sprinkles them and their garments with oil and blood (6, 13, 24, 30). They share the commanded
+meal and seven-day charge; their obedience is affirmed (31–36). Installation is now narrated,
+not merely prescribed.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Appears in
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.

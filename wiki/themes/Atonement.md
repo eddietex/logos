@@ -158,8 +158,17 @@ common portion rule does not make all blood rites identical.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Verse 15 explicitly names atonement for the altar, while verse 34 names atonement for the
+priests. Purifying a sanctuary object is not confession of a personal wrong by that object.
+The passage provides no individual offense or explicit forgiveness formula for Aaron’s sons.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Key passages
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.

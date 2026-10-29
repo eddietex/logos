@@ -19715,3 +19715,29 @@ checked in stored WEB Genesis 9:3–4, Exodus 29:22–28, and Leviticus 1:1; 3; 
 No quotation from an unstored book or exact source-language assertion was introduced;
 raw texts and workflow instructions were unchanged. Link checks passed with the expected
 59 unstarted-book targets excluded; no unresolved links or ingestion blockers.
+
+## [2026-10-29] ingest | Leviticus 8.1-36 — Aaron and His Sons Consecrated
+
+Ingested exactly the next queued pericope in unattended mode, with the discussion in the
+passage notes. Created one passage from the template, quoting all 36 verses from stored WEB.
+Revised the book overview and checklist (13 / 44), seven people, one place, ten themes,
+and five existing connections. Updated eight category indexes/subindexes, the books index,
+and dashboard counts: 240 passages, 192 people, 104 places, 85 themes, 548 connections.
+Including this log, 35 existing pages were revised; no raw or workflow files changed.
+
+Retained the queue boundary. Aaron’s sons are linked by their Exodus 28:1 identification,
+while their absence as individual names here is explicit. Sinai is contextual from 7:38;
+the sanctuary remains under The Dwelling of God rather than gaining a duplicate place page.
+The existing ordination, obedience, Urim, outside-camp, and priestly-portion connections
+were extended instead of creating redundant pages.
+
+Flagged the different reported order of the oil-and-blood sprinkling in Exodus 29:21 and
+Leviticus 8:30. Distinguished ordination portions from continuing peace-offering portions,
+and outside-camp burning from the narrower sanctuary-blood prohibition. No unexplained
+harmonization was supplied. No new Hebrew/Greek wording claim or unstored-book quotation
+was introduced; comparisons use stored WEB. Historical external-source verification notes
+on existing connections remain identified as such; Leviticus 8 is now marked ingested.
+
+Validation: all 36 quoted verses matched the raw chapter exactly; title unique, queue and
+frontmatter counts checked. scripts/link-check.sh passed both checks (59 expected unstarted
+book targets); git diff --check clean. No unresolved operational issue. Agent: Codex.

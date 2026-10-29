@@ -303,8 +303,17 @@ person’s cause (Job 29:16), as a responsibility of the person with access and 
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Moses mediates Yahweh’s command by installing the priestly household and handling its
+sacrifices (5–30). Those who will mediate offerings first receive preparation through him;
+the unit depicts ritual mediation rather than an argument pleading their innocence.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Key passages
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[The Words of King Lemuel]] — Proverbs 31:8–9; The ruler must use his own voice for another
   person’s cause.
 

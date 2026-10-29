@@ -508,8 +508,16 @@ particular civil or divine mechanism.
 
 See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+The charge to remain at the tent’s door day and night is given so that the priests do not
+die (35). The chapter reports obedience, not a death or a breach of the charge (36).
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Key passages
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.

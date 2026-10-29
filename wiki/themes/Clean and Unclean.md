@@ -242,8 +242,17 @@ from contact; the unit provides no cleansing rite.
 
 See [[Fat, Blood, and the Priests’ Share]]. Source: stored WEB Leviticus 7:22–38.
 
+### Aaron and his sons consecrated — Leviticus 8:1–36
+
+Washing precedes clothing (6), and blood purifies the altar (15). No prior personal
+contamination or wrongdoing is specified. Purification and consecration overlap in the
+rite without making ritual preparation identical to moral acquittal.
+
+See [[Aaron and His Sons Consecrated]]. Source: stored WEB Leviticus 8; Exodus 28:1; 29; Leviticus 7:38.
+
 ## Key passages
 
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
