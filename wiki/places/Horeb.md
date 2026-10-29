@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The childbirth law belongs to Leviticus's continuing Sinai setting (7:38). Chapter 12
+does not name the mountain; its specified ritual location is the Tent of Meeting's door.
+
+See [[Purification After Childbirth]].
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 In the book's continuing Sinai setting, Leviticus 11 addresses food and carcass distinctions
@@ -351,6 +359,9 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8 (broader setting).
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

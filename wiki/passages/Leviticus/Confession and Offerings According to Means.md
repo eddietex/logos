@@ -82,6 +82,9 @@ promise forgiveness; poverty changes the offering without removing the remedy.
 
 ## Cross-references
 
+- [[Offerings According to Means - Leviticus 5 and 12]] — the childbirth provision shares the bird alternative but states cleansing.
+
+
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7; fraud, repayment to the owner, and the ram offering.
   See [[Restitution to the Neighbor and for Holy Things]] for the differing repayment rates.
 

@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+Yahweh gives Moses a law for Israel governing days, circumcision, sanctuary access, and
+offerings after childbirth. It differentiates the periods after a son and daughter but gives
+the same offerings for either, with an alternative when a lamb is unaffordable.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11 gives criteria, lists, procedures, and exceptions for everyday eating and
@@ -585,6 +594,9 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

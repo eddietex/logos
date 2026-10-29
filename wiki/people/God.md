@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Purification after childbirth — Leviticus 12:1–8
+
+Yahweh speaks to Moses about childbirth, ordered purification, and offerings adjusted
+to means. He provides a route to cleansing without naming childbirth as a moral offense.
+
+See [[Purification After Childbirth]].
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Yahweh addresses Moses and Aaron together and grounds Israel's food distinctions in his
@@ -2809,6 +2817,9 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

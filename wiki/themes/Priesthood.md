@@ -34,6 +34,14 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The mother brings the offerings to the priest at the Tent of Meeting's door (6). The
+priest offers before Yahweh and makes atonement for her cleansing (7–8); no priest is named.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11:1–2 addresses Moses and Aaron together to teach Israel. The charge to
@@ -306,6 +314,9 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

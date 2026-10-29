@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The unnamed priest receives the mother's offerings and makes atonement for her cleansing
+(12:6–8). Aaron's connection is his established office (Exodus 28:1), not a narrated
+personal action or a naming in this chapter.
+
+See [[Purification After Childbirth]].
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Aaron is named with Moses as recipient and teacher of the animal laws (11:1–2). This
@@ -452,6 +461,9 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8 (contextual office).
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

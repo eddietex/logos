@@ -65,6 +65,16 @@ has been argued.
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The WEB calls one bird a sin offering (6, 8), yet the law neither identifies childbirth
+as a sin nor requires confession. **Distinction retained:** Leviticus 5:5–6 explicitly names
+sin and confession; 12:7–8 promises cleansing after atonement. The shared offering label
+does not justify importing a moral offense into the childbirth case.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 - **Genesis 3:1–7** — the first disobedience, told without the vocabulary of sin.
 - **Genesis 3:8–13** — hiding and blame as the first consequences, ahead of any sentence.
 - **Genesis 4:7** — the word itself, personified: *"sin crouches at the door. Its desire is for
@@ -428,6 +438,9 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Priests bear the congregation's iniquity through the sin offering.
 

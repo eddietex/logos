@@ -87,6 +87,10 @@ Leviticus 11 turns to edible creatures, carcass impurity, and household handling
 Yahweh addresses Moses and Aaron together; holiness and deliverance from Egypt ground
 the distinctions. See [[Clean and Unclean Animals]].
 
+Leviticus 12 regulates purification after childbirth, eighth-day circumcision, and
+offerings adjusted to means. It names cleansing without identifying a maternal offense.
+See [[Purification After Childbirth]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -120,7 +124,7 @@ merge, or reorder them freely.
 - [x] [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11
 - [x] [[The Uneaten Sin Offering]] — Leviticus 10:12–20
 - [x] [[Clean and Unclean Animals]] — Leviticus 11:1–47
-- [ ] Purification After Childbirth — Leviticus 12:1–8
+- [x] [[Purification After Childbirth]] — Leviticus 12:1–8
 - [ ] Examining Diseases of the Skin — Leviticus 13:1–46
 - [ ] Mildew in Garments — Leviticus 13:47–59
 - [ ] The Cleansing of the Leper — Leviticus 14:1–32

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Purification after childbirth — Leviticus 12:1–8
+
+Moses receives the childbirth law and is commanded to speak to Israel (12:1–2).
+Unlike 11:1, the opening names Moses alone, not Moses and Aaron together.
+
+See [[Purification After Childbirth]].
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Moses receives the animal laws together with Aaron and is charged to speak them to Israel
@@ -838,6 +846,9 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

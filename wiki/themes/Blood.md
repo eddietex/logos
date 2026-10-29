@@ -37,6 +37,15 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The blood in the purification provisions is the mother's postpartum blood (4–5, 7).
+Its relation to sanctuary access differs from the altar blood addressed elsewhere. This
+chapter prescribes offerings but does not describe their blood-handling procedure.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 - **Genesis 4:10–11** — the word's first appearance, and it is a victim's. Abel's blood cries from
   the ground and the ground is cursed for having opened *"to receive your brother's blood from your
   hand"*. Blood pollutes the land that takes it, which is the idea Numbers 35:33 will legislate. See
@@ -268,6 +277,9 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Aaron's sons deliver blood; he
   applies the calf's blood to altar horns and base and sprinkles the burnt- and peace-offering blood

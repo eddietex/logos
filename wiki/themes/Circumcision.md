@@ -33,6 +33,15 @@ a mark that can be perfectly kept and entirely missed.
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The son's circumcision takes place on the eighth day (3), repeating the timing of Genesis
+17:12. This does not end the mother's thirty-three further days of purification. The child's
+rite and the mother's restoration have distinct schedules.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 - **Genesis 17:1–27** — the command, in full and in one chapter. Every male; on the eighth day;
   *"born in the house, or bought with money"*; a *token* (*ʾôt*) of the covenant; *"an everlasting
   covenant"* in the flesh; and *kārēt*, being *"cut off from his people"*, for the one who is not
@@ -100,6 +109,9 @@ bodies in Abraham's household and descendants; the other governs Israel's recurr
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:1–18; an earlier covenant sign beside the
   sabbath.

@@ -20,6 +20,15 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The priest makes atonement for the mother, and the stated result is cleansing (7–8).
+No confession, particular offense, or explicit forgiveness formula appears in the stored WEB
+chapter. Atonement here must not be reduced to pardon for a narrated moral transgression.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 ### Before the sanctuary — Genesis
 
 The root appears before any rite. Noah is told to *"seal"* the ship *"with pitch"* (Genesis 6:14),
@@ -179,6 +188,9 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Sin offering given to the priests to make atonement for the congregation.
 

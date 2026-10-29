@@ -17,7 +17,7 @@ tags: [connection]
   shall be with its mother, then on the eighth day you shall give it to me."* —
   [[Laws of Holiness and Compassion]]
 - **Leviticus 12:3** — *"In the eighth day the flesh of his foreskin shall be circumcised."*
-  *(not yet ingested)*
+  — [[Purification After Childbirth]]
 - **Leviticus 22:27** — *"When a bull, or a sheep, or a goat, is born, then it shall remain seven
   days with its mother; and from the eighth day and thenceforth it shall be accepted for the offering
   of an offering made by fire to Yahweh."* *(not yet ingested)*
@@ -27,6 +27,14 @@ tags: [connection]
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
 ## Analysis
+
+### The mother and the son — Leviticus 12
+
+[[Purification After Childbirth]] now supplies the full setting: circumcision on day eight does
+not complete the mother’s further purification period. The text never explicitly commands
+the boy to stay with his mother for seven days; the earlier assertion of an identical
+mother-and-newborn rule overstated the parallel and is corrected here.
+
 
 **The Torah uses one interval, seven days and then the eighth, for a newborn boy and a newborn
 animal alike.** A son is circumcised at eight days old — *ben-šəmōnat yāmîm* (Genesis 17:12; 21:4,
@@ -42,9 +50,9 @@ firstborn son is given on the eighth day**, and nothing in Exodus connects the f
 circumcision; the connection drawn here is the shared interval, which the reader can see and the
 text does not explain.
 
-**What the seven days have in common is that the newborn stays with its mother.** For the animal
-it is stated outright. For the boy it is the mother's seven days: *"If a woman conceives, and bears a
-male child, then she shall be unclean seven days"* (Leviticus 12:2, *not yet ingested*), and the next
+**The seven-day periods have different stated subjects.** The animal is expressly to remain
+with its mother. For the boy the adjacent rule concerns the mother's uncleanness: *"If a woman conceives, and bears a
+male child, then she shall be unclean seven days"* (Leviticus 12:2), and the next
 verse puts the circumcision on the eighth. Readings
 that the seven days complete a creation-week before the child or animal is claimed are
 interpretations and are not stated in these texts.

@@ -22,6 +22,15 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The sanctuary is temporarily closed to the mother during purification; afterward she
+brings her offerings to the Tent of Meeting's door (4, 6). Divine dwelling includes ordered
+access and a specified restoration, not unrestricted entry.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 **Before the tabernacle, God visits.** He walks in the garden (Genesis 3:8), comes down to see Babel
 (11:5), appears to the patriarchs and leaves. Jacob names a place *"God's house"* after a dream there
 (28:17–19), but no one lives in it. At Sinai the glory *"settled"* (*šākan*) on the mountain for six
@@ -289,6 +298,9 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Sanctuary spaces govern where the priests eat.
 

@@ -11,6 +11,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
+| [[Offerings According to Means - Leviticus 5 and 12]] | comparison | [[Confession and Offerings According to Means]] · [[Purification After Childbirth]] |
 | [[On Eagles Wings - Exodus 19 and Deuteronomy 32]] | parallel | Exodus 19:4–6 · Deuteronomy 32:9–12 |
 | [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]] | textual-problem | Genesis 47:31 · Genesis 48:1–2 · 1 Kings 1:47 · Hebrews 11:21 |
 | [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]] | fulfillment | Exodus 3:1–12 · Exodus 19:1–25 · Exodus 24:1–18 |

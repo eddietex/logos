@@ -21,6 +21,15 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+A mother unable to afford a lamb may bring two turtledoves or two young pigeons (8).
+The less costly provision retains both burnt and sin offerings and the promise of cleansing;
+unlike Leviticus 5:11, it does not extend to flour.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 ### Genesis — the condition before the law
 
 **Genesis shows the condition without naming it as a category.** Abram's offspring are told they
@@ -316,6 +325,9 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Inability to afford a lamb, and then even two birds, receives explicit provision (7, 11). Access to the stated remedy is not restricted to livestock owners.
 

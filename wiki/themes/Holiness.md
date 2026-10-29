@@ -40,6 +40,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+The mother must neither touch a holy thing nor enter the sanctuary until the days of
+purification end (4). The restriction distinguishes holy access from ordinary bodily life;
+it is not an explicit accusation that bearing a child is a moral wrong.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11:44–45 makes Yahweh's own holiness and his bringing Israel out of Egypt the
@@ -346,6 +355,9 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

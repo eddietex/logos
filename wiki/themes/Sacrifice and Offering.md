@@ -47,6 +47,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+After the purification days, the mother brings a year-old lamb for a burnt offering and
+a pigeon or turtledove for a sin offering. If she cannot afford the lamb, two birds replace
+the usual pair of offerings. Unlike 5:11–13, this chapter gives no flour alternative.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 - **Genesis 3:21** — the coats of skins: not called a sacrifice, but a death that clothes.
 - **Genesis 4:3–5** — the first offerings, uncommanded and unequally received; *minḥâ* used of
   both.
@@ -421,6 +430,9 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Eighth-day offerings finished; the goat burned rather than eaten.
 

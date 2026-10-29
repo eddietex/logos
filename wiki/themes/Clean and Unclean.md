@@ -56,6 +56,17 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Purification after childbirth — Leviticus 12:1–8
+
+Childbirth brings a temporary ritual status: seven days followed by thirty-three for a son,
+and fourteen followed by sixty-six for a daughter. Holy things and sanctuary access are
+restricted until the purification days end. Unlike the guilt-and-confession cases of 5:1–6,
+this law identifies no offense by the mother. The distinction on this page therefore remains
+qualified: uncleanness is not automatically wrongdoing, though some contact cases incur guilt.
+
+See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11 now supplies the dietary criteria anticipated earlier on this page, and
@@ -275,6 +286,9 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Purification After Childbirth]] — Leviticus 12:1–8.
+
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

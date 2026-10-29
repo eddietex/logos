@@ -20,7 +20,7 @@ tags: [connection]
   shekels of money"* *(not yet ingested)*
 - **Leviticus 12:6–8** — the mother's purification after childbirth: *"a year old lamb for a burnt
   offering"* and a pigeon or turtledove; *"If she cannot afford a lamb, then she shall take two
-  turtledoves, or two young pigeons"* *(not yet ingested)*
+  turtledoves, or two young pigeons"* — [[Purification After Childbirth]]
 - **Luke 2:22–24** — *"When the days of their purification according to the law of Moses were fulfilled,
   they brought him up to Jerusalem, to present him to the Lord (as it is written in the law of the Lord,
   'Every male who opens the womb shall be called holy to the Lord'), and to offer a sacrifice according to
@@ -30,6 +30,18 @@ tags: [connection]
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
 ## Analysis
+
+### The ingested purification law — Leviticus 12
+
+[[Purification After Childbirth]] prescribes the same offerings for a son or daughter,
+not only for a firstborn. Luke 2:24 names the two birds corresponding to the provision
+for a mother unable to afford a lamb (12:8). This supports the inference of limited means
+without establishing a complete account of the household’s finances. The purification
+offering and presentation of the firstborn remain distinct legal matters.
+
+Leviticus 12 checked in stored WEB; Luke 2:21–24 rechecked at bible-api.com
+(`translation=web`) on 2026-10-29. No new Greek or Hebrew assertion is made.
+
 
 **Luke's citation is not a quotation of one verse but a summary of the firstborn law in its own words.**
 *"Every male who opens the womb shall be called holy to the Lord"* — *pan arsen dianoigon mētran hagion tō
@@ -46,8 +58,7 @@ Yahweh*, first appears in Scripture inside this very pericope: *"that Yahweh's l
 shown**; the phrase recurs in later Hebrew Scripture (not counted in this pass). The match is recorded, not built on.
 
 **Two laws are folded together in Luke 2:22–24.** *"The days of their purification"* and the offering of
-*"a pair of turtledoves, or two young pigeons"* belong to the mother's purification (Leviticus 12:6–8, not yet
-ingested). **The pair of birds is the offering of a mother who *"cannot afford a lamb"*** (12:8) — Luke
+*"a pair of turtledoves, or two young pigeons"* belong to the mother's purification (Leviticus 12:6–8; [[Purification After Childbirth]]). **The pair of birds is the offering of a mother who *"cannot afford a lamb"*** (12:8) — Luke
 does not say so, but the law he cites does. *"To present him to the Lord"* belongs to the firstborn. **Luke does not mention the five-shekel
 redemption of Numbers 18:16**; the text does not say whether it was paid. Readers have taken the silence
 either as Luke assuming it, or as Luke presenting the child as *given* to God rather than bought back —

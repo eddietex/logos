@@ -19861,3 +19861,37 @@ Category rows and frontmatter-based counts updated: 244 passages, 195 people, 10
 85 themes, 554 connections; Leviticus 17/44. Four pages created and 26 existing pages
 revised including indexes and this log. Link check passed with 59 expected unstarted-book
 targets and no findings. No operational blocker or deliberately dangling link remains.
+
+## [2026-10-29] ingest | Leviticus 12.1-8 — Purification After Childbirth
+
+Ingested the next queued unit in auto mode with the planned boundary unchanged. Created
+[[Purification After Childbirth]] and
+[[Offerings According to Means - Leviticus 5 and 12]]. Revised 19 existing content pages:
+Leviticus, the Leviticus 5:1–13 passage, God, Moses, Aaron, Horeb, eleven themes, and the
+eighth-day and firstborn-presentation connections. Updated eight index/dashboard pages
+and this log (2 pages created, 28 revised in total).
+
+The passage preserves the two stages of purification, the doubled periods after a daughter,
+the son's eighth-day circumcision, the same offerings after either sex, and the two-bird
+alternative. No rationale for the different periods is supplied because the text gives none.
+The sin-offering label is distinguished from an accusation of maternal wrongdoing: chapter 5
+names guilt and confession, while chapter 12 states cleansing. No new people or geographical
+pages were warranted; mother, child, and priest are legal roles, Aaron is contextual, and
+Horeb is the broader setting.
+
+Corrected an overstatement in the eighth-day connection: the animal law explicitly requires
+remaining with the mother, whereas Leviticus 12 gives the mother's impurity period and does
+not command the newborn to remain with her. The correction is flagged on that page. Luke's
+birds are connected to the affordability provision without inferring a full household
+financial history or conflating purification with firstborn presentation.
+
+All eight passage quotations match the stored WEB text exactly. Comparisons checked in
+stored Genesis 17, Leviticus 5 and 7:38, and Exodus 28:1. Luke 2:21–24 verified through
+bible-api.com with translation=web; no unstored book was added to raw. No new exact
+Hebrew or Greek assertion was introduced. Existing raw texts and harness instructions
+were unchanged.
+
+Leviticus is now 18 / 44 pericopes. Frontmatter totals: 245 passages, 195 people,
+104 places, 85 themes, 555 connections. No duplicate non-index page titles found.
+scripts/link-check.sh passed with no wrapped links or unexpected dangling targets;
+59 not-yet-started book pages remain the expected baseline. No unresolved ingest issue.
