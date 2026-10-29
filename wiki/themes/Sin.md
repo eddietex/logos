@@ -65,6 +65,16 @@ has been argued.
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Sin and trespass offerings belong to restoration after healing (12, 19), without a specified
+personal offense, confession, or repayment. **Qualification retained:** the guilt and
+restitution of Leviticus 5:14–19 cannot be inferred merely from the shared trespass-offering
+label; this unit explicitly concerns uncleanness (14:19).
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The WEB calls one bird a sin offering (6, 8), yet the law neither identifies childbirth
@@ -438,6 +448,9 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

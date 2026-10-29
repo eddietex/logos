@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+The instruction distinguishes examination outside camp, the bird rite, washing and shaving,
+seven days outside the personal tent, and eighth-day offerings. The alternative for poverty
+changes specified materials while repeating blood and oil applications (21–32).
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 The garment law differentiates first inspection, seven-day observation, washing and
@@ -611,6 +620,9 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

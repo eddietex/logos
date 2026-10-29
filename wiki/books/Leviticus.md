@@ -99,6 +99,10 @@ Leviticus 13:47–59 extends examination to textiles and skins: spread or persis
 discoloration can require burning, while cleared material receives a second washing.
 See [[Mildew in Garments]].
 
+Leviticus 14:1–32 supplies restoration after healing: examination outside camp, staged
+return, and eighth-day blood, oil, and offerings, with a distinct provision for poverty.
+See [[The Cleansing of the Leper]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -135,7 +139,7 @@ merge, or reorder them freely.
 - [x] [[Purification After Childbirth]] — Leviticus 12:1–8
 - [x] [[Examining Diseases of the Skin]] — Leviticus 13:1–46
 - [x] [[Mildew in Garments]] — Leviticus 13:47–59
-- [ ] The Cleansing of the Leper — Leviticus 14:1–32
+- [x] [[The Cleansing of the Leper]] — Leviticus 14:1–32
 - [ ] Mildew in a House — Leviticus 14:33–57
 - [ ] Bodily Discharges and Cleansing — Leviticus 15:1–33
 - [ ] The Day of Atonement — Leviticus 16:1–34

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Aaron is not named in 14:1–32. The connection is his priestly office, named in 13:2: the
+officiant goes outside the camp, examines, and later offers for the healed person. The bodily
+blood application also recalls Aaron’s consecration in 8:23–24.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 The continuing speech addressed to Aaron and Moses (13:1) assigns garment inspection
@@ -477,6 +486,9 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

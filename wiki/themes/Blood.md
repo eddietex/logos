@@ -37,6 +37,15 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Bird blood is used with water, cedar, scarlet, and hyssop in the outside-camp rite (5–7).
+Trespass-offering blood later marks the right ear, thumb, and big toe; oil follows on those
+places and on the head (14–18). The poor person receives the same bodily applications (25–29).
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The blood in the purification provisions is the mother's postpartum blood (4–5, 7).
@@ -277,6 +286,9 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

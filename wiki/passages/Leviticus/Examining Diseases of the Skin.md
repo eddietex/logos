@@ -70,6 +70,9 @@ outside the camp for as long as the plague remains.
 
 
 ## Cross-references
+
+- [[Outside the Camp and Back Again - Leviticus 13 and 14]] — now also compared with [[The Cleansing of the Leper]], Leviticus 14:1–32.
+
 - [[Skin and Garments - Examination and Cleanness in Leviticus 13]] — adjoining laws compared.
 - [[Mildew in Garments]] — Leviticus 13:47–59; distinct rules for affected material.
 - [[Distinguishing and Teaching - Leviticus 10 and 11]] — the charge to distinguish now
@@ -99,7 +102,7 @@ Verse 11’s instruction not to isolate the already-unclean person concerns the 
 observation used for uncertain cases; it does not grant residence inside the camp against
 verse 46. The unit distinguishes waiting for a ruling from the restrictions following it.
 In verses 6 and 34, washing clothes follows a clean ruling; the unit does not prescribe
-an offering. The restoration rites of chapter 14 remain a separate queued pericope.
+an offering. The restoration rites are now covered in [[The Cleansing of the Leper]], Leviticus 14:1–32.
 
 ### Social cost and moral judgment
 

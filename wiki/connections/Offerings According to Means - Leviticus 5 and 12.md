@@ -7,10 +7,22 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Cleansing of the Leper]] — Leviticus 14:21–32, further comparison.
+
+
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13.
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 
 ## Analysis
+
+### Further comparison: Leviticus 14:21–32
+
+The healed poor person retains a trespass-offering lamb and a log of oil, with less flour
+and two birds for the sin and burnt offerings. Unlike the bird alternative in chapters 5
+and 12, this provision does not remove every flock animal. Unlike 5:11–13, it gives no
+flour-only alternative. The repeated blood and oil applications preserve the bodily rite
+while the specified offerings change. Source: stored WEB Leviticus 14:21–32.
+
 
 Both laws accommodate inability to afford a lamb by prescribing two turtledoves or two young
 pigeons, one for a sin offering and one for a burnt offering (5:7; 12:8). The parallel is

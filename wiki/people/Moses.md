@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Moses alone is named as recipient of the new speech (1), unlike the joint address to Moses and
+Aaron at 13:1. Priestly examination and offerings are prescribed rather than narrated as actions
+Moses performs.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 Moses remains a recipient of the speech opened at 13:1. The garment unit assigns
@@ -860,6 +869,9 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

@@ -56,6 +56,16 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Healing precedes the priest’s cleansing rite (3). Cleanness and access unfold in stages:
+sprinkling and washing permit camp entry, seven days outside the personal tent follow, and
+eighth-day offerings complete the prescribed process (7–20). The law supplies neither a cure nor
+an accusation that the disease was caused by a personal sin.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 The distinction includes wool, linen, and skins. A persistent unchanged stain remains
@@ -305,6 +315,9 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

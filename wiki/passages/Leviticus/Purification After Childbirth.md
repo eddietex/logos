@@ -71,6 +71,9 @@ apply after either a son or a daughter.
 
 ## Cross-references
 
+- [[Offerings According to Means - Leviticus 5 and 12]] — now also compared with [[The Cleansing of the Leper]], Leviticus 14:1–32.
+
+
 - [[The Eighth Day - Circumcision and the Firstborn Given to God]] — the son's circumcision
   repeats Genesis 17:12; see [[Circumcision, the Sign of the Covenant]].
 - [[Offerings According to Means - Leviticus 5 and 12]] — two birds serve different cases,

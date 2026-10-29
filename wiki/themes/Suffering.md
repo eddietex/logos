@@ -47,6 +47,16 @@ requires only that you be standing outside it.
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+The social exclusion of Leviticus 13:46 is answered by a path back into the camp and eventually
+ordinary dwelling. Healing does not immediately end every restriction: the restored person
+remains outside his own tent seven days (14:8). No individual guilt is named as the cause of his
+suffering.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 The final rules add social separation to bodily affliction: torn clothes, loose hair,
@@ -267,6 +277,9 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
 *Miqra according to the Masorah*.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 

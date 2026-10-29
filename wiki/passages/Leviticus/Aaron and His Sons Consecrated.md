@@ -130,6 +130,9 @@ death warning. The chapter closes by affirming their obedience through Moses.
 
 ## Cross-references
 
+- [[Ear, Thumb, and Toe - Consecration and Cleansing]] — now also compared with [[The Cleansing of the Leper]], Leviticus 14:1–32.
+
+
 - [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]] — the promised meeting and the
   eighth-day manifestation in [[The Eighth Day and the Appearing Glory]] .
 

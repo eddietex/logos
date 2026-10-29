@@ -21,6 +21,15 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+The poor person’s provision reduces the flour and substitutes birds for the sin and burnt
+offerings, but retains the trespass-offering lamb and log of oil (21–32). This is a specific
+accommodation, not a universal permission to replace every animal with birds or flour.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 A mother unable to afford a lamb may bring two turtledoves or two young pigeons (8).
@@ -325,6 +334,9 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

@@ -47,6 +47,16 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+The ordinary eighth-day provision has two male lambs, a year-old ewe lamb, three tenths of an
+ephah of flour with oil, and a log of oil (10). The poor bring one male lamb, one tenth of flour
+with oil, a log of oil, and two birds (21–22). The retained lamb is the trespass offering; birds
+supply sin and burnt offerings.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 After the purification days, the mother brings a year-old lamb for a burnt offering and
@@ -430,6 +440,9 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

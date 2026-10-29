@@ -11,7 +11,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
-| [[Offerings According to Means - Leviticus 5 and 12]] | comparison | [[Confession and Offerings According to Means]] · [[Purification After Childbirth]] |
+| [[Offerings According to Means - Leviticus 5 and 12]] | comparison | [[Confession and Offerings According to Means]] · [[Purification After Childbirth]]  · [[The Cleansing of the Leper]] (Leviticus 14:21–32) |
 | [[On Eagles Wings - Exodus 19 and Deuteronomy 32]] | parallel | Exodus 19:4–6 · Deuteronomy 32:9–12 |
 | [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]] | textual-problem | Genesis 47:31 · Genesis 48:1–2 · 1 Kings 1:47 · Hebrews 11:21 |
 | [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]] | fulfillment | Exodus 3:1–12 · Exodus 19:1–25 · Exodus 24:1–18 |
@@ -27,6 +27,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Out of the Heart - Proverbs 4.23, Matthew 15, and Luke 6]] | thematic-parallel | Proverbs 4:23–24 · Matthew 15:18–19 · Mark 7:21–23 · Luke 6:45 · [[Keep Your Heart]] |
 | [[Out of Ur - Terah's Journey and Abram's Call]] | thread | Genesis 11:27–32 · Genesis 12:1–5 · Genesis 15:7 · Genesis 24:4, 10 · Genesis 31:53 · Joshua 24:2–3 · Nehemiah 9:7 · Acts 7:2–4 · Hebrews 11:8 |
 | [[Outside the Camp - The Sin Offering and Hebrews 13]] | typology | Exodus 29:10–14 · Leviticus 8:14–17 · Hebrews 13:10–13 · Hebrews 7:27 · [[The Sin Offering for Priest and Congregation]] (Leviticus 4:1–21) · [[The Sin Offering for Ruler and Individual]] (Leviticus 4:22–35) · [[The Priests’ Portions of Sin and Trespass Offerings]] (Leviticus 6:24–7:10; portion rules and their limits)  The ordination bull burns outside despite its blood remaining at the outer altar. [[Aaron and His Sons Consecrated]] · [[The Eighth Day and the Appearing Glory]] · [[The Uneaten Sin Offering]] (Leviticus 10:16–20) |
+| [[Outside the Camp and Back Again - Leviticus 13 and 14]] | comparison | [[Examining Diseases of the Skin]] (Leviticus 13:1–46) · [[The Cleansing of the Leper]] (Leviticus 14:1–32) |
 | [[The Papyrus Without Water - Bildad's Plants, Psalm 1, and Jeremiah 17]] | image | Job 8:11–19 · Psalm 1:3–4 · Jeremiah 17:5–8 · Job 14:7–9 · Job 15:32–33 · Job 18:16 · Job 19:10 · Job 29:19 · Isaiah 59:5–6 · Job 21:18 |
 | [[Passing Between the Pieces]] | thread | Genesis 15:9–18 · Jeremiah 34:8–22 · Genesis 6:18; 9:8–17 · Genesis 14:13 · Genesis 17:1–14 · Exodus 24:3–8 · Galatians 3:15–18 · Hebrews 6:13–18; 9:15–22 |
 | [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]] | thread | [[Jacob's Ladder at Bethel]] (Genesis 28:20–22) · [[Return to Bethel; the Deaths of Rachel and Isaac]] (Genesis 35:1–7) · Deuteronomy 23:21–23 · [[Eliphaz's Third Speech]] (Job 22:27) · [[Wine Is a Mocker]] (Proverbs 20:25) · [[Let Your Words Be Few]] (Ecclesiastes 5:2–6) |
@@ -82,6 +83,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]] | interpretation and tension | Exodus 34:1–35 · 2 Corinthians 3:1–18 |
 | [[Shining on the Mountain - Moses and the Transfiguration]] | parallel and typology | Exodus 24:15–18 · Exodus 34:29–35 · Matthew 17:1–8 · Mark 9:2–8 · Luke 9:28–36 |
 | [[A Shock of Grain in Its Season - Eliphaz's Promise and the Epilogue]] | literary-parallel | Job 5:1, 8, 19–26 · Job 42:7–17 · Job 30:2 · Job 8:5–7; 11:13–19 · Job 22:21–30 · Genesis 35:29 · Job 11:15, 19 · Job 42:9 · Job 13:7–10 · Job 21:32 · Job 24:24 |
+| [[Show Yourself to the Priest - Leviticus 14 and Mark 1]] | allusion | [[The Cleansing of the Leper]] (Leviticus 14:1–32) · Mark 1:40–45 |
 | [[Shunned by His Neighbor - Proverbs 14.20 and Job 19.13-19]] | thematic-parallel | [[A Way That Seems Right]] (Proverbs 14:20–21); Proverbs 19:4, 7; [[I Know That My Redeemer Lives]] (Job 19:13–19) · [[Better Is the Poor Who Walks in Integrity]] (Proverbs 19:1, 4, 6–7, 17, 22) |
 | [[The Sign and the Seal - Genesis 17 in Romans 4]] | quotation | Genesis 15:6 · Genesis 17:5, 10–11, 24 · Romans 4:9–12, 16–18 · Galatians 3:6–9, 15–18 · James 2:21–24 |
 | [[The Signet Ring and the Second Chariot - Joseph, Mordecai, and Daniel]] | parallel | Genesis 41:42–43 · Esther 3:10 · Esther 6:6–11 · Esther 8:2, 15 · Esther 10:3 · Daniel 2:48 · Daniel 5:7, 29 |

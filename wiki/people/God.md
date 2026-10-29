@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Yahweh speaks to Moses and provides the law of restoration after healing, including a provision
+for poverty (1–32). He is the one before whom the person and offerings are presented.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 The speech introduced at 13:1 continues into rules for affected textiles and skins.
@@ -2833,6 +2841,9 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

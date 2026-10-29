@@ -34,6 +34,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+The priest goes outside the camp to inspect the healed person, pronounces cleanness, and later
+presents him and his offerings at the Tent of Meeting (3, 7, 11). The office combines
+examination and restoration; it is not credited with causing the healing.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 The priest examines affected articles, orders washing and isolation, and assesses
@@ -331,6 +340,9 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

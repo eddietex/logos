@@ -22,6 +22,15 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Restoration moves from outside the camp to camp entry, then to presentation before Yahweh at the
+Tent of Meeting’s door on the eighth day (3, 8, 11, 23). The text distinguishes a person’s own
+tent from the sanctuary and does not authorize unrestricted sanctuary entry.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The sanctuary is temporarily closed to the mother during purification; afterward she
@@ -298,6 +307,9 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

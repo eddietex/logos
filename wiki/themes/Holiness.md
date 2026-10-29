@@ -40,6 +40,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+The trespass offering is most holy and belongs to the priest like the sin offering (13).
+Cleansing permits restored approach without appointing the person to priestly office; the
+parallel blood applications in Leviticus 8 and 14 do not erase that difference.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Mildew in garments — Leviticus 13:47–59
 
 Ordinary wool, linen, and skins are subject to purity rulings. They are not thereby
@@ -363,6 +372,9 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 

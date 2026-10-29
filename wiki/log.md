@@ -19948,3 +19948,32 @@ exact source-language claims were introduced. Raw texts and workflow instruction
 Link check passed with no wrapped links or unexpected dangling targets; 59 unstarted book
 pages are the expected baseline. No duplicate non-index titles found. Authored by Codex.
 No unresolved issue for this ingest.
+
+## [2026-10-29] ingest | Leviticus 14.1-32 — The Cleansing of the Leper
+
+Ingested [[The Cleansing of the Leper]] in unattended mode with the planned boundary unchanged.
+Read the complete stored WEB unit; copied key verses directly from raw. Distinguished healing
+before inspection, the outside-camp bird rite, staged return to camp and personal tent, and
+eighth-day offerings. Recorded the retained lamb and oil in the poverty provision and the
+absence of a specified personal offense; offering names do not establish one.
+
+Created four pages: the passage and connections
+[[Outside the Camp and Back Again - Leviticus 13 and 14]],
+[[Ear, Thumb, and Toe - Consecration and Cleansing]], and
+[[Show Yourself to the Priest - Leviticus 14 and Mark 1]]. Revised 29 existing pages including
+this log: the book and book index, three prior passages, three people, Horeb, eleven themes,
+one existing connection, six category indexes/subindexes, and the main dashboard.
+Leviticus is now 21/44; totals by frontmatter type are 248 passages, 195 people, 104 places,
+85 themes, and 560 connections.
+
+Judgments: no named individual or new geographical place is introduced. Aaron and Horeb
+remain explicitly contextual, not names in this unit. Do not equate bodily cleansing with
+priestly appointment or invent symbolic meanings for the bird, materials, or body parts.
+The existing distinction between ritual uncleanness and personal wrongdoing is retained;
+Leviticus 5’s confession and restitution must not be imported into chapter 14.
+
+Comparisons checked against stored WEB Leviticus 5, 8, 12, and 13. Mark 1:40–45 verified
+against bible-api.com’s WEB response on 2026-10-29 and paraphrased in the connection; no
+unreached book was added to raw. No new exact Hebrew or Greek claim is made. Existing raw
+texts and workflow instructions are unchanged. Link checks clean, with 59 expected
+not-yet-started book targets excluded. No unresolved issue.

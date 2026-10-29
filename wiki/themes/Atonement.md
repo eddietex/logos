@@ -20,6 +20,15 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Cleansing after healing — Leviticus 14:1–32
+
+Atonement accompanies the oil application and offerings, ending in cleanness (18–20). Verse 19
+expressly relates the sin offering to uncleanness. Unlike Leviticus 5:5–13, this unit supplies
+no confession of an identified offense or explicit forgiveness formula in the WEB.
+
+See [[The Cleansing of the Leper]]. Source: stored WEB Leviticus 14:1–32; comparisons as cited.
+
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The priest makes atonement for the mother, and the stated result is cleansing (7–8).
@@ -188,6 +197,9 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
+
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 
