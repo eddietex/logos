@@ -331,7 +331,15 @@ Moses explains the deaths through Yahweh’s holiness among those who approach h
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### Holy place and clean place — Leviticus 10:12–20
+
+The most holy meal offering is eaten in a holy place by Aaron and his sons; the breast and thigh are eaten in a clean place, and Aaron's daughters share them (12–14). The text grades the portions by place and eaters without stating the reason.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Most holy food in a holy place; lesser portions in a clean place.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

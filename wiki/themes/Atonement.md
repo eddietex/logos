@@ -172,7 +172,15 @@ Moses commands Aaron to make atonement for himself and the people (9:7). Aaron's
 himself, before the people's goat; no particular offense is named in the inaugural narrative. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Eating the sin offering — Leviticus 10:12–20
+
+Moses says the sin offering was given to the priests "to bear the iniquity of the congregation, to make atonement for them before Yahweh" (17), so its eating belongs to the priests' work. The text joins the two without explaining the mechanism.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Sin offering given to the priests to make atonement for the congregation.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses commands Aaron to make
   atonement for himself and the people (9:7).

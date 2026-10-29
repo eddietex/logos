@@ -172,7 +172,15 @@ Is named with Aaron and Ithamar after his brothers’ deaths. The surviving prie
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### Rebuked over the goat — Leviticus 10:12–20
+
+Called one of Aaron's sons "who were left" (12, 16), Eleazar receives the priestly portions and, with Ithamar, bears Moses' anger when the people's sin offering is found burned (16). Aaron answers for them; Eleazar's own part in the decision is not described.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Appears in
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Rebuked with Ithamar over the burned goat.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

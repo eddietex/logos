@@ -824,7 +824,15 @@ Explains the deaths in terms of divine holiness, appoints the relatives who remo
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### The goat of the sin offering — Leviticus 10:12–20
+
+Moses directs the surviving priests to eat their portions, then inquires about the people's goat and is angry that it was burned rather than eaten, citing his command (16–18; compare 6:26–30). Aaron's answer is pleasing in Moses' sight (20). No word from Yahweh on the case is reported; the record is of Moses' acceptance.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Appears in
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Moses rebukes the burning of the goat, then accepts Aaron's answer.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

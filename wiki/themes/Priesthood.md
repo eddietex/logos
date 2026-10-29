@@ -291,7 +291,15 @@ Consecrated status does not authorize any offering a priest chooses (1–2). The
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### Eating the portions and answering for them — Leviticus 10:12–20
+
+The surviving priests must eat the most holy meal offering in a holy place and the breast and thigh in a clean place, with Aaron's daughters included for the latter (12–15). Moses treats the priests' eating of the people's sin offering as part of their service "to bear the iniquity of the congregation" (17), and holds them to it; Aaron's appeal to the day's events is accepted (19–20).
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Priestly portions completed; the burned goat questioned and accepted.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

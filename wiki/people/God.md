@@ -2795,7 +2795,15 @@ Fire from before Yahweh kills the two priests (2). Yahweh then addresses Aaron d
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### What is pleasing in his sight — Leviticus 10:12–20
+
+The priests' portions are his offerings made by fire (12–15), and Aaron's defense asks whether eating the sin offering would have been pleasing in Yahweh's sight (19). Yahweh does not speak in this unit; Moses, not Yahweh, is reported as accepting the answer (20).
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Appears in
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Aaron appeals to what would please Yahweh; no divine speech is reported.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

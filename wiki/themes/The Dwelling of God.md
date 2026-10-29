@@ -282,7 +282,15 @@ The sanctuary is both the scene of fatal approach and the place where the surviv
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### Where holy food is eaten — Leviticus 10:12–20
+
+The sanctuary's spaces govern the meal: most holy grain beside the altar in a holy place, the breast and thigh in a clean place, and the sin offering in the sanctuary itself (12–18).
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Sanctuary spaces govern where the priests eat.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

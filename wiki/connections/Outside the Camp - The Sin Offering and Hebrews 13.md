@@ -127,3 +127,12 @@ and Hebrews' argument. See [[Sin]], [[Sacrifice and Offering]], [[Blood]], and [
 Exodus quotations were checked against `raw/bible/Exodus.md`. Leviticus 8:14–17 and Hebrews 7:27–28;
 13:10–13 were fetched individually from bible-api.com with `translation=web` on 2026-10-23. At that verification date neither book had been ingested or fetched into raw.
 Leviticus is now stored and in progress; Hebrews remains uningested.
+
+### The goat not burned outside — Leviticus 10:16–20
+
+Aaron's own calf on the eighth day was burned outside the camp although its blood stayed at the
+altar (9:9–11), and Moses later objects that the people's goat was burned rather than eaten
+(10:16–18). The disposal outside the camp is therefore not the rule for every sin offering whose
+blood stays outside. See [[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]] and
+[[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 9:8–15; 10:16–20. No new
+quotation from an unstored book or source-language claim.

@@ -78,6 +78,11 @@ Leviticus 10:1–11 interrupts the inauguration with the deaths of Nadab and Abi
 Moses directs the removal and the surviving priests’ conduct; Yahweh commissions Aaron
 for sober entry, distinction, and teaching. See [[Nadab and Abihu and the Strange Fire]].
 
+Leviticus 10:12–20 completes the interrupted eighth-day meal. Moses rebukes the burning of
+the people's sin-offering goat under the eat-or-burn rule of 6:26–30; Aaron appeals to the
+day's events and Moses accepts his answer. See [[The Uneaten Sin Offering]] and
+[[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -109,7 +114,7 @@ merge, or reorder them freely.
 - [x] [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36
 - [x] [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24
 - [x] [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11
-- [ ] The Uneaten Sin Offering — Leviticus 10:12–20
+- [x] [[The Uneaten Sin Offering]] — Leviticus 10:12–20
 - [ ] Clean and Unclean Animals — Leviticus 11:1–47
 - [ ] Purification After Childbirth — Leviticus 12:1–8
 - [ ] Examining Diseases of the Skin — Leviticus 13:1–46
@@ -146,6 +151,7 @@ merge, or reorder them freely.
 
 - [[Sacrifice and Offering]]
 - [[Atonement]]
+- [[Sin]]
 - [[Blood]]
 - [[Priesthood]]
 - [[The Dwelling of God]]

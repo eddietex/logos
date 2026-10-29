@@ -107,6 +107,11 @@ altar. The people shout and fall on their faces.
 
 ## Cross-references
 
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20 disposes of this day's meal offering,
+  breast and thigh, and the people's goat (9:15, 17, 21).
+- [[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]] — whether "like the first" (15)
+  includes the burning.
+
 - [[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]] — the following scene contrasts accepted service with an uncommanded offering.
 
 - [[Aaron and His Sons Consecrated]] — seven days prepare for the eighth-day service.

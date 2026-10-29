@@ -317,7 +317,15 @@ Moses directs the priestly approach; Aaron offers for himself and the people. Th
 together and bless the congregation (9:7, 22–23), joining distinct mediating roles. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### Bearing iniquity for the congregation — Leviticus 10:12–20
+
+Moses describes the sin offering as given to the priests "to bear the iniquity of the congregation, to make atonement for them before Yahweh" (17). Aaron, in turn, answers on his sons' behalf when Moses rebukes them (19).
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Priests bear the congregation's iniquity; Aaron answers for his sons.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Moses directs the priestly
   approach; Aaron offers for himself and the people.

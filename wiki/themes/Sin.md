@@ -421,7 +421,15 @@ unclean state with a moral fault; it prohibits eating sacred meat in that state.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Bearing the congregation's iniquity — Leviticus 10:12–20
+
+The sin offering is given to the priests "to bear the iniquity of the congregation" (17). Moses therefore objects when the people's goat is burned instead of eaten. Aaron's answer is accepted, but no general account of how eating bears iniquity is given.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Priests bear the congregation's iniquity through the sin offering.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

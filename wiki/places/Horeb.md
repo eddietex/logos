@@ -345,6 +345,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; continuing setting, not explicitly named.
+
 - [[Nadab and Abihu and the Strange Fire]] — continuing setting, not explicitly named.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The Sinai camp remains the

@@ -171,7 +171,15 @@ Is named with Aaron and Eleazar among the surviving priests. They obey Moses’ 
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### Rebuked over the goat — Leviticus 10:12–20
+
+Named with Eleazar among the sons "who were left" (12, 16), Ithamar receives the priestly portions and Moses' rebuke when the people's goat is found burned (16). Aaron answers for both; Ithamar's own part is not described.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Appears in
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Rebuked with Eleazar over the burned goat.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

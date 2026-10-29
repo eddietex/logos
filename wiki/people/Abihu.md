@@ -166,7 +166,15 @@ Offers fire with incense in his own censer alongside Nadab, without Yahweh’s c
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### The aftermath — Leviticus 10:12–20
+
+Not named, but his death lies behind the phrase "his sons who were left" (12, 16) and Aaron's "such things as these have happened to me" (19).
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Appears in
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Unnamed; his death frames the exchange.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

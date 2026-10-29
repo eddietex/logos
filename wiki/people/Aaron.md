@@ -438,7 +438,15 @@ Holds his peace after Moses’ explanation (3). His silence is reported without 
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### The uneaten sin offering — Leviticus 10:12–20
+
+Moses gives Aaron and his surviving sons the remaining meal offering and the breast and thigh (12–15). When the people's goat is found burned, Aaron answers for Eleazar and Ithamar: after what has happened to him, would eating it have pleased Yahweh? Moses accepts the answer (19–20). The text does not say who decided on the burning or why.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Appears in
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Aaron defends the uneaten sin offering; Moses accepts.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

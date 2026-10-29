@@ -570,7 +570,15 @@ The offering is explicitly uncommanded (1). Obedience reappears when relatives c
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### A command questioned and an answer accepted — Leviticus 10:12–20
+
+Moses rebukes the burning of the goat as contrary to what he commanded (18). Aaron does not deny the rule but asks what would have pleased Yahweh, and Moses accepts (19–20). Coming directly after 10:1–2, the case records a departure from a rule that is questioned and allowed rather than punished; the text does not generalize it.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Departure from the eating rule questioned and accepted.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

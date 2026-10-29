@@ -414,7 +414,15 @@ The inaugural service coordinates sin, burnt, meal, and peace offerings, besides
 offering (9:8–21). Fire from before Yahweh consumes the burnt offering and fat after the narrated
 burning actions (24). See [[The Eighth Day and the Appearing Glory]] .
 
+### The eighth-day offerings completed — Leviticus 10:12–20
+
+The meal offering (9:17), the peace-offering breast and thigh (9:21), and the people's goat (9:15) are disposed of after the deaths. Moses' complaint applies the eat-or-burn rule of 6:26–30 to the goat. See [[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]].
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Eighth-day offerings finished; the goat burned rather than eaten.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The inaugural service coordinates
   sin, burnt, meal, and peace offerings, besides the morning burnt offering (9:8–21).

@@ -88,6 +88,9 @@ and prepared meal offerings, while grain mixed with oil or dry belongs to all Aa
 
 ## Cross-references
 
+- [[The Uneaten Sin Offering]] — Moses applies 6:26–30 to the people's goat (Leviticus 10:16–18).
+  See [[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]].
+
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21 is now ingested; its eating and bread rules
   complement the earlier instructions. See [[Who May Eat the Holy Portions - Leviticus 6 and 7]].
 

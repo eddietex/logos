@@ -84,6 +84,7 @@ the tent, distinguish sacred and common and clean and unclean, and teach Israel 
 - [[As God Commanded, So He Did - The Obedience Formula]] — command and its absence.
 - [[Aaron and His Sons Consecrated]] — anointing and the charge to remain at the tent.
 - [[The Heads of the Fathers' Houses]] — Exodus 6:18–23 identifies the relatives.
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; the surviving priests finish the day's meal.
 
 ## Notes
 

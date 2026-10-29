@@ -19805,3 +19805,31 @@ Counts by frontmatter: 242 passages, 195 people, 104 places, 85 themes, 550 conn
 Link checks clean: no wrapped or dangling links; 59 unstarted book targets remain the
 expected baseline. New indexed pages have one row each; exact verse copying and
 diff whitespace checks pass. No unresolved issue. Ingest performed by OpenAI Codex.
+
+## [2026-10-29] ingest | Leviticus 10.12-20 — The Uneaten Sin Offering
+
+Ingested [[The Uneaten Sin Offering]] in unattended mode, keeping the planned 10:12–20
+boundary. The completion of the eighth-day meal and the dispute over the burned goat stay
+together; Leviticus 11:1–47 is next. Leviticus is now 16 / 44 pericopes.
+
+Created two pages: the passage and
+[[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]]. No minor figure needed a
+page: Nadab and Abihu are referred to but not named, and the passage lists them as implied.
+Revised 25 existing content pages: the book, seven people, one place, ten themes, two
+connections, and three earlier passages (10:1–11, 9:1–24, 6:24–7:10). Updated ten
+index/dashboard pages and this log.
+
+Judgment calls for review. The connection records an unresolved question rather than
+choosing an answer. Aaron's own calf was burned outside the camp although its blood stayed
+at the altar (9:9–11), and the goat was offered "like the first" (9:15). The text does not say
+whether that phrase covers the burning. The distinction between the priest's own offering
+and the people's is offered only as an inference. Verse 20 is read as Moses' acceptance, with
+no divine ruling reported. Aaron's motive (grief, defilement, or fear) is not assigned. The
+inclusion of daughters for the breast and thigh (14) is recorded as an addition to 7:31,
+not a contradiction.
+
+All nine WEB verses were copied mechanically from stored Leviticus 10. Comparisons were checked
+in stored Leviticus 6:16, 24–30; 7:6, 31–34; 8:14–17; 9:8–21 and Exodus 29:14. No
+unstored-book quotation or Hebrew/Greek assertion was introduced.
+
+Counts by frontmatter: 243 passages, 195 people, 104 places, 85 themes, 551 connections.

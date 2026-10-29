@@ -11,6 +11,7 @@ tags: [connection]
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20.
 
 ## Analysis
 
@@ -38,6 +39,18 @@ eligibility to eat from entitlement to a particular portion.** Fat and blood rem
 excluded from food even where other parts are lawfully shared (23–27).
 
 Source: stored WEB Leviticus 7:19–38.
+
+### Daughters and the clean place — Leviticus 10:12–15
+
+Leviticus 10:14 names Aaron's daughters with his sons as eaters of the waved breast and heaved
+thigh, "in a clean place". This adds eaters to the "Aaron's and his sons'" of 7:31 rather than
+contradicting it, and it does not extend to the most holy meal offering, which is assigned to
+Aaron and his sons in a holy place (10:12–13), nor to the sin and trespass flesh reserved for
+"every male among the priests" (6:29; 7:6). The grading by place and eater is stated; the reason
+is not. Leviticus 10:16–20 then shows the sin-offering rule enforced; see
+[[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]].
+
+Source: stored WEB Leviticus 6:29; 7:6, 31–34; 10:12–20.
 
 ## Significance
 

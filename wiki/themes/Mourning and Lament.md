@@ -162,7 +162,15 @@ Aaron holds his peace (3); the surviving priests may not loosen their hair or te
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### Grief at the holy table — Leviticus 10:12–20
+
+Aaron appeals to "such things as these" that have happened to him (19) when explaining why the sin offering was not eaten. Grief is a natural reading of his words, but the text does not name it; it reports only the appeal and Moses' acceptance.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Aaron appeals to the day's events in declining to eat.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

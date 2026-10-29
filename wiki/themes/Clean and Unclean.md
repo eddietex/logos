@@ -256,7 +256,15 @@ Priestly instruction explicitly requires distinguishing unclean from clean along
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### A clean place — Leviticus 10:12–20
+
+The breast and thigh are eaten "in a clean place" (14), a requirement distinct from the holy place for most holy food (12–13). Aaron's reluctance to eat the sin offering is not explained as impurity; the text gives no reason beyond what had happened that day.
+
+See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
 ## Key passages
+
+- [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Breast and thigh eaten in a clean place.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 
