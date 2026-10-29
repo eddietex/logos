@@ -88,6 +88,10 @@ and prepared meal offerings, while grain mixed with oil or dry belongs to all Aa
 
 ## Cross-references
 
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21 is now ingested; its eating and bread rules
+  complement the earlier instructions. See [[Who May Eat the Holy Portions - Leviticus 6 and 7]].
+
+
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21 supplies cases in
   which blood enters the tent and bodies are burned outside the camp.
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35 keeps blood at the

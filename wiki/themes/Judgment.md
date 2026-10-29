@@ -491,7 +491,18 @@ neither a date nor an explicit afterlife sequence to reconcile them. See
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+Third-day eating brings nonacceptance and iniquity; eating while unclean brings
+the sanction of being cut off from the people (7:18–21). No executor, mechanism,
+or timing of the latter penalty is specified here. It should not be silently
+reduced to an ordinary hygiene rule or assigned a precise judicial procedure.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; Every work and hidden thing judged, good as well as evil.
 

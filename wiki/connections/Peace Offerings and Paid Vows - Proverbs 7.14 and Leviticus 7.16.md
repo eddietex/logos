@@ -13,11 +13,7 @@ tags: [connection]
 
 - **Proverbs 7:14** — [[The Young Man Void of Understanding]]: *"Sacrifices of peace offerings are
   with me. Today I have paid my vows"* (*zibḥê šəlāmîm ʿālāy hayyôm šillamtî nəḏārāy*)
-- **Leviticus 7:15–16** *(not yet ingested; WEB verified)* — *"The flesh of the sacrifice of his
-  peace offerings for thanksgiving shall be eaten on the day of his offering. He shall not leave any
-  of it until the morning. But if the sacrifice of his offering is a vow, or a freewill offering, it
-  shall be eaten on the day that he offers his sacrifice; and on the next day what remains of it
-  shall be eaten"*
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; thanksgiving has a same-day deadline, while vow and freewill offerings permit the next day as well.
 - **Exodus 20:24** — [[The Altar and the Hebrew Slave]]: *"sacrifice on it your burnt offerings and
   your peace offerings"*
 - **Exodus 24:5** — [[The Blood of the Covenant]]: young men *"sacrificed peace offerings of cattle
@@ -74,7 +70,15 @@ parts. Reading the meal back into chapter 3 as though it were stated there obscu
 division of instruction.
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; 7:11–34. Chapter 7 is now stored
-and checked for this comparison, but its pericopes remain un-ingested.
+and checked for this comparison, and 7:11–21 is now ingested; 7:22–38 remains queued.
+
+### The eating law now ingested
+
+[[Thanksgiving, Vows, and the Peace Offering]] distinguishes thanksgiving from the vow category named by
+Proverbs 7:14. Its longer eating window supports the meal inference, but neither establishes
+her sincerity nor makes that meal a thanksgiving sacrifice. Leviticus 7:19–21 also makes
+cleanliness a condition of eating; Proverbs does not report her ritual state. Religious
+claims cannot by themselves establish compliance with either ritual or moral obligations.
 
 ## Significance
 
@@ -84,7 +88,7 @@ prophets will make the same complaint at the level of the nation; Proverbs makes
 one house.
 
 **Sources:** Proverbs 7:14, 18 and Exodus 20:24; 24:5 checked in the stored WEB; Leviticus 7:15–16
-verified WEB at bible-api.com, 2026-10-25, not stored. Hebrew of Proverbs 7:14 and Leviticus 7:15–16
+originally verified at bible-api.com, 2026-10-25; rechecked in stored WEB on 2026-10-29. Hebrew of Proverbs 7:14 and Leviticus 7:15–16
 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25. The distribution of the peace
 offering among altar, priest, and offerer is stated from Leviticus by reference, not quoted, and
 the prophets' complaint is summarized without citation.

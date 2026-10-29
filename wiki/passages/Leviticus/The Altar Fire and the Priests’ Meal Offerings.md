@@ -85,6 +85,10 @@ offering is wholly burned and may not be eaten.
 
 ## Cross-references
 
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21 is now ingested; its eating and bread rules
+  complement the earlier instructions. See [[Leavened Bread with Thanksgiving - Leviticus 2 and 7]].
+
+
 - [[The Burnt Offering]] — Leviticus 1 describes presentation and burning; 6:8–13 adds the
   overnight hearth, ash disposal, and daily replenishment of wood.
 - [[The Meal Offering]] — Leviticus 2 assigns a remainder; 6:14–23 specifies eligible eaters

@@ -789,7 +789,17 @@ their portions; it does not narrate Moses performing these rites.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and peace-offering meals — Leviticus 7:11–21
+
+The speech introduced at 6:24 continues through the peace-offering eating rules
+(7:11–21). Moses mediates instructions about bread, deadlines, and ritual eligibility;
+he is not newly named or described as performing a sacrifice in this unit.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Appears in
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

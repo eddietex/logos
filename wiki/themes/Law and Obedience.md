@@ -533,7 +533,18 @@ being erased by that shared rule.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+The law distinguishes thanksgiving, vow, and freewill cases; sets eating deadlines;
+and governs both the condition of meat and the eligibility of eaters (7:11–21).
+Offering an animal is therefore not sufficient by itself: subsequent handling can
+result in nonacceptance and liability (18).
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

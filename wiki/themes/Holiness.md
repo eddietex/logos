@@ -300,7 +300,18 @@ improvement through touch or universal permission to eat.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+Peace-offering meat belongs to Yahweh even when people eat it (7:20–21). Its sacred
+ownership does not make contaminated meat edible or an unclean eater clean. Compare
+the distinct sin-offering contact rule in 6:27; the texts cannot support a universal
+claim that all holy food automatically sanctifies every participant.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

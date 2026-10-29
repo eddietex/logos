@@ -224,7 +224,19 @@ not a statement that the flesh is unclean or merely a hygiene prescription.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+Meat contaminated by contact must burn, and an unclean person must not eat otherwise
+edible peace-offering meat (7:19–21). This reinforces the explicit qualification of
+the overview: ritual state and moral wrongdoing are distinct, but eating while
+unclean is a sanctioned act. The passage does not supply a cleansing remedy or
+specify how the cutting-off sanction is executed.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

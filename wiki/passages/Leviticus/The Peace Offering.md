@@ -82,6 +82,10 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 
 ## Cross-references
 
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21 is now ingested; its eating and bread rules
+  complement the earlier instructions. See [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]].
+
+
 - [[The Altar Fire and the Priests’ Meal Offerings]] places the fat of peace offerings on the maintained altar fire (6:12).
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.

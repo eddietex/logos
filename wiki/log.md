@@ -19656,3 +19656,36 @@ Validation: scripts/link-check.sh passed both wrapped-link and dangling-target c
 59 expected not-yet-started book links. Progress totals checked by frontmatter type; passage
 title is unique. No unresolved link issue or operational blocker. The allocation ambiguity
 is documented for later comparison, not silently harmonized.
+
+
+## [2026-10-29] ingest | Leviticus 7.11-21 — Thanksgiving, Vows, and the Peace Offering
+
+Ingested [[Thanksgiving, Vows, and the Peace Offering]] in unattended mode with Codex.
+All eleven WEB verses copied from the stored Leviticus source. Thanksgiving has a
+same-day eating deadline; vow and freewill offerings permit the next day. Bread portions,
+contaminated meat, unclean eaters, nonacceptance, and the cutting-off sanction are retained.
+No queue boundary changed; Leviticus now stands at 11 / 44 pericopes.
+
+Created the passage and two comparisons:
+[[Leavened Bread with Thanksgiving - Leviticus 2 and 7]] and
+[[Who May Eat the Holy Portions - Leviticus 6 and 7]]. Revised
+[[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]] to link the now-ingested
+law and distinguish the vow deadline from thanksgiving. Four earlier passage pages gained
+reciprocal links. God, Moses, Horeb, and ten themes received synthesis and passage-list updates;
+the book overview, affected indexes, and frontmatter-based counts were updated.
+
+Judgments: the unnamed priest and offerers remain roles rather than new person pages;
+Moses and Sinai are contextual, not newly named in these verses. Thanksgiving is filed
+under Praise and Song without inventing a song. Explicitly distinguished the yeast rules
+for meal offerings from thanksgiving bread, and priest-only portions from clean-participant
+peace offerings. The Clean and Unclean overview's existing qualification is developed:
+ritual state is not identical with moral fault, but prohibited eating incurs a sanction.
+The cutting-off mechanism remains unspecified at the point of discussion.
+
+Source comparisons checked in stored WEB Leviticus 2; 6–7 and Proverbs 7. No raw text
+changed, no unstored-book quotation added, and no new source-language claim made.
+The existing connection retains its identified source-language verification provenance.
+Created 3 pages; revised 19 content pages, 8 indexes, and this log (28 existing files).
+Progress: 238 passages, 192 people, 104 places, 85 themes, 547 connections;
+7 books started, 6 complete. Link checks clean with 59 expected unstarted-book targets.
+No unresolved issue or deliberately dangling link introduced.

@@ -308,7 +308,18 @@ the tent.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and peace-offering meals — Leviticus 7:11–21
+
+The Sinai setting confirmed by Leviticus 7:38 includes the peace-offering laws of
+7:11–21. The unit names no geographical site and does not repeat the court eating
+restriction applied to sin offerings in 6:26; the broader Sinai context should not
+be turned into an unstated location rule for this meal.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Appears in
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

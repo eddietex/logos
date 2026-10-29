@@ -245,7 +245,18 @@ oath accepted in Exodus 22:10–11.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+The vow peace offering shares its two-day eating window with the freewill offering,
+while thanksgiving has a same-day limit (7:15–17). The law regulates a vowed gift
+without narrating the making of a particular vow. This is the relevant category for
+the paid-vow claim in Proverbs 7:14, not an automatic thanksgiving identification.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

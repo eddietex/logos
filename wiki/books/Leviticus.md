@@ -56,6 +56,10 @@ priestly portions. Sanctuary blood excludes eating; hides and grain have assigne
 The wording tension between individual and shared grain portions is recorded on
 [[The Priests’ Portions of Sin and Trespass Offerings]].
 
+Leviticus 7:11–21 distinguishes thanksgiving, vow, and freewill peace-offering meals,
+assigns accompanying bread, and regulates eating by time and purity. Sacred sharing
+does not remove the sanctions for prohibited eating. See [[Thanksgiving, Vows, and the Peace Offering]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -82,7 +86,7 @@ merge, or reorder them freely.
 - [x] [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7
 - [x] [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23
 - [x] [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10
-- [ ] Thanksgiving, Vows, and the Peace Offering — Leviticus 7:11–21
+- [x] [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21
 - [ ] Fat, Blood, and the Priests’ Share — Leviticus 7:22–38
 - [ ] Aaron and His Sons Consecrated — Leviticus 8:1–36
 - [ ] The Eighth Day and the Appearing Glory — Leviticus 9:1–24
@@ -118,6 +122,9 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Oaths and Vows]]
+- [[Praise and Song]]
 
 - [[Sacrifice and Offering]]
 - [[Atonement]]

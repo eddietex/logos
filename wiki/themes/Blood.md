@@ -235,7 +235,18 @@ the altar (7:2). Blood destination matters for the treatment of the flesh.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+The priest is identified as the one who sprinkles the peace-offering blood (7:14),
+and that service accompanies his assigned bread portion. This unit presupposes the
+blood rite rather than supplying a new atonement explanation or repeating the ban
+on eating blood; that explicit prohibition follows in 7:26–27.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

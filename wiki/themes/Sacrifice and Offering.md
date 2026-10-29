@@ -384,7 +384,17 @@ allocations in 7:9–10 retain the wholly burned priestly-offering exception of 
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+Thanksgiving meat must be eaten the same day; vow and freewill meat may also be eaten
+the next day. Third-day eating invalidates acceptance and brings iniquity (7:15–18).
+The shared meal remains an offering belonging to Yahweh, not unrestricted leftovers.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

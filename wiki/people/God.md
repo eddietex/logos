@@ -2761,7 +2761,17 @@ authorizes eating and also limits it when blood enters the tent for atonement (6
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and peace-offering meals — Leviticus 7:11–21
+
+Yahweh receives thanksgiving, vow, and freewill offerings and retains ownership of
+their meat even when people eat it. His instruction makes acceptance conditional
+on the stated handling rules (7:18–21).
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Appears in
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

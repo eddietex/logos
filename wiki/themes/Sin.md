@@ -412,7 +412,18 @@ sanctuary destination.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+Eating peace-offering flesh on the third day brings iniquity on the eater and
+means the offering is not accepted or credited to the offerer (7:18). Eating while
+unclean also carries a sanction (20–21). The passage does not identify every
+unclean state with a moral fault; it prohibits eating sacred meat in that state.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 

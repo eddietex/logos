@@ -100,7 +100,18 @@ reconstruct a performance or ritual. Praise here celebrates the beloved's beauty
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+Thanksgiving takes the form of an offering with unleavened preparations and leavened
+bread, priestly provision, and a same-day meat deadline (7:12–15). No words of praise,
+song, or musical accompaniment are prescribed here. Gratitude is given a sacrificial
+form without the passage describing a sung performance.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; extended praise of the beloved in answer to a question.
 

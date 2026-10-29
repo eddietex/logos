@@ -254,7 +254,18 @@ explained.
 
 See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
 
+### Thanksgiving and the peace-offering meal — Leviticus 7:11–21
+
+The priest who sprinkles peace-offering blood receives one from each accompanying
+bread offering (7:14). Peace-offering meat is available to clean participants (19),
+which differs from the male-priest rule for sin and trespass portions in 6:29; 7:6.
+The broader permission does not cancel the restrictions on those other offerings.
+
+See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
+
 ## Key passages
+
+- [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
