@@ -124,6 +124,9 @@ paradise reopened. The Song never names Eden. See
 - [[Delight and the Unawakened Love]] — *"don't stir up, nor awaken love"* (2:7), the verb that
   returns in 4:16.
 
+- [[My Own Vineyard - Song of Solomon 1.6 and 8.8-12]] — the woman’s own vineyard
+  recalls her invitation to the beloved into the garden.
+
 ## Notes
 
 **Boundary.** The unit runs from *"Come with me from Lebanon, my bride"* (4:8) to the invitation to eat

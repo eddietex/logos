@@ -312,6 +312,14 @@ No wedding is narrated, and no legal rule about marriage is given.
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+Being spoken for anticipates a sister’s future courtship (8). The wall-and-door
+plans and her mature answer (9–10) do not narrate a wedding or prescribe a universal
+marriage procedure. The identities and chronology remain open.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
 ## Key passages
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; *"my sister, my bride"*, the locked garden opened.
@@ -512,6 +520,8 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - [[The Glory of Kings]] — Proverbs 25:24; The contentious woman, repeated from 21:9.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:15–16; The contentious wife as dripping rain, wind, and oil.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; singular attachment and royal plurality.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 

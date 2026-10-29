@@ -102,11 +102,15 @@ without contempt and an embrace in her mother's house (7:11–8:3). The final
 not-awakening-love refrain closes the unit (8:4); wishes are not narrated fulfillment.
 
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–8:7 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–8:12 is ingested; later references in this overview and plan describe the queue.
 
 [[Love Is Strong as Death]] moves from the woman leaning on her beloved to the seal request
 and love as strong as death (8:5–7). Floods cannot quench it and wealth cannot buy
 it. The WEB names Yahweh in the flame comparison; no divine speech is narrated.
+
+[[Our Sister and My Own Vineyard]] sets family plans for a little sister beside the woman’s mature reply
+and her own vineyard beside Solomon’s leased estate (8:8–12). Speaker assignments
+and chronological relations remain uncertain; no marriage transaction is narrated.
 
 ## Structure
 
@@ -138,7 +142,7 @@ merge, or reorder them freely.
 - [x] [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9
 - [x] [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4
 - [x] [[Love Is Strong as Death]] — Song of Solomon 8:5–7
-- [ ] Our Sister and My Own Vineyard — Song of Solomon 8:8–12
+- [x] [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12
 - [ ] Make Haste, My Beloved — Song of Solomon 8:13–14
 
 ## Key themes
@@ -187,6 +191,9 @@ merge, or reorder them freely.
 - [[Life and Death]], [[Envy]], [[Wealth and Possessions]] — love, jealousy, and
   the limit of purchase (8:5–7).
 
+- [[Brotherhood]], [[Marriage]], [[Work]], [[Wealth and Possessions]], and
+  [[Seeing and Being Seen]] — family assessment, personal agency, and vineyard revenue (8:8–12).
+
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
@@ -203,8 +210,9 @@ merge, or reorder them freely.
   seek him with her (5:9–6:1).
 - [[The Watchmen (Song of Solomon)]] — *"who go about the city"*; they find her at 3:3, and at 5:7
   beat her, with *"the keepers of the walls"* who take her cloak.
-- Friends and virgins remain unnamed groups in the opening unit; the woman's brothers
-  (*"my mother's sons"*, 1:6) are unnamed and have no page. Her mother, whose house she brings him
+- Friends and virgins remain unnamed groups in the opening unit; [[The Brothers (Song of Solomon)]]
+  (*"my mother's sons"*, 1:6) now have a collective page; their identification with
+  the family voices of 8:8–9 is probable, not explicit. Her mother, whose house she brings him
   into (3:4), has no page. Nor do Solomon's
   sixty mighty men or his unnamed mother (3:7, 11).
 - In [[My Dove Is Unique]], the man praises the woman and reports other women's admiration
@@ -246,3 +254,5 @@ stated location; Jerusalem must not be supplied there from later verses.
 - [[Jerusalem]] — in the final adjuration to its daughters (8:4), not a located journey.
 
 - [[Sheol]] — comparison for jealousy (8:6); wilderness and apple tree remain unnamed.
+
+- [[Baal Hamon]] — Solomon’s vineyard estate (8:11), location undetermined.

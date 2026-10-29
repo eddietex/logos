@@ -361,6 +361,14 @@ of the man with Solomon follows. The captivity is a poetic image of attraction.
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+Solomon’s leased vineyard at Baal Hamon gives royal possession an economic form
+(11–12). The speaker puts her own vineyard beside it. A contrast with royal control
+is possible, but a harem or a rejected royal marriage is not explicitly described.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
 ## Key passages
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; Solomon's carriage, guard, and crown.
@@ -555,6 +563,8 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; queens and concubines as a scale of praise.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; a king captive in her hair.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 

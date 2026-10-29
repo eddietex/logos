@@ -439,6 +439,14 @@ of jealousy is acknowledged without turning the poem into permission for violenc
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+The woman’s likely claim to her own vineyard follows love’s resistance to purchase
+(8:7, 12). The garden imagery of 4:12–16 supports a personal reading, without making
+her a commodity or proving that she rejects Solomon as a suitor.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
 ## Key passages
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -564,6 +572,8 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; desire expressed through a body.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 

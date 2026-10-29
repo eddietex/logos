@@ -19,10 +19,12 @@ tags: [connection]
   trees in them of all kinds of fruit. I made myself pools of water."*
 - Song of Solomon 8:13 *(stored WEB, not yet ingested)* —
   *"You who dwell in the gardens"* (8:13).
-- Song of Solomon 7:10 *(stored WEB, not yet ingested)* — *"I am my beloved's. His desire is toward
+- [[Come into the Fields, My Beloved]] — Song of Solomon 7:10 — *"I am my beloved's. His desire is toward
   me"*, beside Genesis 3:16; see [[Desire and Rule - Genesis 3.16 and 4.7]].
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Analysis
 
@@ -53,7 +55,7 @@ noun is *tǝšûqâ* in both (Sefaria; Song 7:11 in the Hebrew numbering), and i
 verse, Genesis 4:7, according to [[Desire and Rule - Genesis 3.16 and 4.7]]. Some modern readers take
 the Song as a deliberate reversal of Genesis 3: desire running from the man to the woman, with no rule,
 in a garden. The Song names neither Eden nor Adam, and the wiki records this as a reading, not a
-demonstrated allusion. Song 7:10 will be examined when it is ingested.
+demonstrated allusion. Song 7:10 is now ingested in [[Come into the Fields, My Beloved]].
 
 **The allegorical garden.** Jewish interpretation has read the locked garden as Israel kept for God,
 and Christian interpretation as the church or the soul kept for Christ. In both, the garden becomes an
@@ -77,6 +79,12 @@ the grove's geography is established; no new literal location or second beloved 
 
 Source for this addition: stored WEB Song 6:11–7:9 and the Song comparisons cited above.
 No new source-language claim is made.
+
+In [[Our Sister and My Own Vineyard]], the personal-vineyard reading of 8:12 gains support
+from the explicit garden comparison of 4:12 and the invitation of 4:16. The woman’s
+agency in giving access can coexist with calling the vineyard her own. Neither
+passage establishes a literal estate map or a transfer of ownership of the woman.
+Source for this addition: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Significance
 

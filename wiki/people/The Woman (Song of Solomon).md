@@ -142,6 +142,12 @@ poem moves from a particular pair to love that fire, flood, and money cannot mas
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+In [[Our Sister and My Own Vineyard]], She answers the little-sister description with a wall and mature towers, then speaks of
+her own vineyard beside Solomon’s (8:10–12). Reading these as her words gives her
+self-assessment weight beside the family plans. The speaker assignment is probable,
+not explicit; no continuous biography or rejection of a named suitor is established.
+Source: stored WEB Song 8:8–12.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -170,6 +176,8 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 
 - Song of Solomon 7:10–8:4 — invites him and imagines public affection and homecoming.
 
+- Song of Solomon 8:8–12 — family and vineyard exchange. [[Our Sister and My Own Vineyard]]
+
 ## Appears in
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -191,14 +199,16 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+
 ## Related people
+
+- [[The Brothers (Song of Solomon)]] — her mother’s sons in 1:6 and probable family voices in 8:8–9.
 
 - [[The Man (Song of Solomon)]] — the beloved addressed in the opening.
 - [[Solomon]] — named in the heading; no personal relationship with her is established.
 - Friends and virgins — unnamed voices and admirers in 1:3–4.
 - [[The Daughters of Jerusalem]] — the audience she addresses (1:5) and adjures (2:7).
-- Her mother's sons — her brothers, angry with her and her taskmasters in the vineyards
-  (1:6); unnamed and without a page.
 - Her mother — the owner of the house she brings him into, *"her who conceived me"* (3:4); no page.
 - [[The Watchmen (Song of Solomon)]] — they find her in the city at night (3:3), and the second time
   beat her and take her cloak (5:7).

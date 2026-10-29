@@ -123,6 +123,11 @@ name nor a reply is supplied; the mother mentioned in the address remains unname
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+In [[Our Sister and My Own Vineyard]], He is probably the unnamed man in whose eyes the woman found peace (8:10). The verse
+does not identify him with Solomon, who is named in the vineyard account that follows.
+There is no securely assigned speech of his in this unit.
+Source: stored WEB Song 8:8–12.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -152,6 +157,8 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 
 - Song of Solomon 7:10–8:4 — invited and desired; no answer narrated.
 
+- Song of Solomon 8:8–12 — family and vineyard exchange. [[Our Sister and My Own Vineyard]]
+
 ## Appears in
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -173,6 +180,8 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related people
 

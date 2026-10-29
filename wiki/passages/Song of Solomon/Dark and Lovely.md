@@ -56,8 +56,8 @@ images stand side by side in the Song, and the poem does not resolve them into o
 - [[The Daughters of Jerusalem]] — the onlookers addressed in 5 and the first appearance of
   the Song's recurring audience.
 - [[Solomon]] — named only in the comparison *"Solomon's curtains"* (5).
-- *My mother's sons* (6) — the woman's brothers, unnamed and given no page. The plural
-  *"our sister"* exchange at 8:8–9 may involve the same family voices; that is not yet ingested.
+- [[The Brothers (Song of Solomon)]] — her unnamed mother’s sons (6); possibly the
+  family voices in [[Our Sister and My Own Vineyard]] (8:8–9).
 - The companions (7) and the shepherds (8) are unnamed groups.
 
 ## Places
@@ -88,6 +88,8 @@ images stand side by side in the Song, and the poem does not resolve them into o
 - [[Abraham's Other Sons in Isaiah 60]] — Kedar, Ishmael's son in Genesis 25:13, reappears
   as a people. Here its tents are an image of dark beauty.
 
+- [[My Own Vineyard - Song of Solomon 1.6 and 8.8-12]] — own-vineyard language returns at 8:12.
+
 ## Notes
 
 **Boundary.** Verse 5 opens with a new address and self-description, as recorded at the
@@ -113,7 +115,7 @@ emendation of *Solomon* here.
 
 **Her own vineyard.** Literally, she kept others' vineyards and not her own. Many readers
 also take *"my own vineyard"* as a figure for herself, since the Song elsewhere uses
-vineyard and garden imagery of the woman and her love (8:12; 4:12–5:1, both un-ingested).
+vineyard and garden imagery of the woman and her love (8:12; 4:12–5:1, now ingested).
 In this unit the double sense is possible but unconfirmed. The literal statement about
 forced work already makes sense without it.
 

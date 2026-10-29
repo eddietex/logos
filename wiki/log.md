@@ -19323,3 +19323,34 @@ Validation: scripts/link-check.sh passed, with no wrapped links or dangling targ
 60 not-yet-started book links are the expected baseline. Frontmatter counts and
 exactly one category-index row per entity/connection were checked; no duplicate
 passage title or whitespace errors found. No unresolved blocker.
+
+## [2026-10-29] ingest | Song of Solomon 8.8-12 — Our Sister and My Own Vineyard
+
+Unattended `/ingest auto`, executed by Codex. Retained the planned 8:8–12 boundary;
+exactly one pericope ingested. Created four pages: the passage, Baal Hamon, the
+collective brothers page, and an internal own-vineyard connection. Revised 27 existing
+pages including this log: the book, three people, seven themes, three connections,
+two earlier passages, and ten index/count pages. Song of Solomon is 15 / 16.
+Frontmatter totals: 226 passages, 192 people, 104 places, 85 themes, 538 connections.
+
+The recurring brothers now receive a collective literary-role page, with the earlier
+no-page decisions revised. Their identification with the plural family speakers of
+8:8–9 remains probable, not explicit. The woman's reply and the family assessment
+are preserved as distinct voices; no childhood-to-marriage chronology is invented.
+Baal Hamon is left unlocated. The keepers remain an unnamed occupational group;
+the wall, door, and towers do not become geographical pages.
+
+The own-vineyard connection joins 1:6 with 8:8–12 and the garden invitation of 4:16.
+The existing vineyard, garden, and purchase connections now account for this unit.
+Revenue from fruit does not contradict 8:7's refusal to price love. No harem, sale
+of the woman, wage rule, or identification of Solomon with her beloved is asserted.
+
+All new quotations were copied from stored WEB Song of Solomon; internal comparisons
+were read there. No external quotation, new source-language claim, existing raw-text
+change, or schema/harness change was needed. Speaker and metaphor uncertainties are
+qualified at the point of discussion.
+
+Validation: scripts/link-check.sh passed with no wrapped links or dangling targets;
+60 not-yet-started book pages remain the expected baseline. Frontmatter counts,
+new title uniqueness, category-index coverage, and verbatim passage verses checked.
+No unresolved blocker.

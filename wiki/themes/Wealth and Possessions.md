@@ -647,6 +647,15 @@ gold and jewels can describe beauty, but do not buy the attachment they celebrat
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+Silver adornment, an estate’s thousand-shekel return, and two hundred for tenders
+frame the woman’s own vineyard (9, 11–12). **Apparent tension with 8:7:** love cannot
+be bought, yet fruit yields revenue. These value different things; the financial
+figures do not contradict the refusal to price love.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
 ## Key passages
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -924,6 +933,8 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:13, 23–27; Collateral for a stranger; riches not forever; the flock that clothes and feeds.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; jewels and ivory as admiration.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 

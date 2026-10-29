@@ -155,7 +155,7 @@ brothers are named only by their relation through the mother, and their anger is
 explained. Their authority shows up as assigned work. The pattern of brothers acting over a
 sister's life recurs in [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]], although
 that is a far graver case and the Song names no violence. The Song's brothers return,
-probably, in the *"our sister"* speech of 8:8–9, which is not yet ingested.
+probably, in the *"our sister"* speech of 8:8–9 in [[Our Sister and My Own Vineyard]].
 
 See [[Dark and Lovely]]. Source: stored WEB Song of Solomon 1:6; 8:8–9.
 
@@ -169,6 +169,14 @@ at 4:9–12; it does not erase either use.
 
 See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
 internal comparisons use the stored Song.
+
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+The probable family speakers plan how to adorn or enclose a little sister (8–9).
+The woman’s mature answer (10) differs from their assessment. Whether earlier words
+are recalled is unresolved; brotherly concern must not erase the sister’s voice.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
 
@@ -265,6 +273,8 @@ internal comparisons use the stored Song.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:10; The near neighbour better than a distant brother in the day of disaster.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 

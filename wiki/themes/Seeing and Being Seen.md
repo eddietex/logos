@@ -279,6 +279,14 @@ be collapsed into a universal entitlement to look.
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+The woman finds peace in his eyes (10). Her self-description stands beside the
+family’s assessment of the little sister (8–9), giving different viewpoints within
+one poem. The man whose eyes are mentioned remains unnamed.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -599,6 +607,8 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; eyes that overcome and onlookers who praise.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; return so that we may gaze.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 

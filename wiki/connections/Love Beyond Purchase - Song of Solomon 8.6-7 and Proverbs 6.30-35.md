@@ -10,6 +10,8 @@ tags: [connection]
 - [[Love Is Strong as Death]] — Song of Solomon 8:6–7.
 - [[The Lamp of the Commandment]] — Proverbs 6:30–35.
 
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+
 ## Analysis
 
 The stored WEB uses “all the wealth of his house” in both Proverbs 6:31 and Song 8:7.
@@ -26,6 +28,11 @@ and a cluster of images justify comparison, but do not prove literary dependence
 
 See [[No Ransom for the Adulterer - Proverbs 6.29-35, Leviticus 20.10, and Deuteronomy 22.22]] and
 [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]].
+
+The next poem, [[Our Sister and My Own Vineyard]], gives Solomon’s vineyard a financial return
+(8:11–12), beside the woman’s own vineyard. This does not undo 8:7: revenue for fruit
+and the purchase of love are different claims. No sale of the woman is narrated.
+Source for this addition: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Significance
 

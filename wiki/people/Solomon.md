@@ -223,6 +223,12 @@ Source: stored WEB Song of Solomon 3:6–11. 1 Kings 1:39; 2:19; 5:6; 7:2 checke
 (`translation=web`), 2026-10-28; Kings not fetched. Hebrew from Sefaria's *Miqra according to the
 Masorah*.
 
+In [[Our Sister and My Own Vineyard]], He owns a vineyard at [[Baal Hamon]], leased to keepers for a thousand shekels each
+(8:11), and is addressed concerning the thousand beside two hundred for the tenders
+(8:12). The woman’s own vineyard contrasts with this estate. The passage does not
+identify him as her beloved or narrate his purchase of her.
+Source: stored WEB Song 8:8–12.
+
 ## Timeline / key events
 
 - Song of Solomon 1:1 — named in the heading; literary attribution, not a dated event. [[Love Better Than Wine]]
@@ -236,6 +242,8 @@ Masorah*.
 - 1 Kings 11:1–13 *(not yet ingested)* — his heart turned by his wives in old age.
 - Proverbs 1:1 — named in the book's heading. [[The Purpose of the Proverbs]]
 - Proverbs 25:1 — named in the heading of the collection copied by Hezekiah's men. [[The Glory of Kings]]
+
+- Song of Solomon 8:8–12 — family and vineyard exchange. [[Our Sister and My Own Vineyard]]
 
 ## Appears in
 
@@ -290,6 +298,8 @@ Masorah*.
 - [[The Purpose of the Proverbs]] — Proverbs 1:1–7; named as the book's author and authority, *"the son
   of David, king of Israel"*; he does not speak in the unit
 - [[The Wisdom of Solomon - 1 Kings 3-4 and the Headings of Proverbs]]
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related people
 

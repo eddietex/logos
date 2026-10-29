@@ -584,6 +584,14 @@ The grove inspection at 6:11 observes growth without explicitly describing labor
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Family voices and the own vineyard — Song of Solomon 8:8–12
+
+Solomon leases a vineyard to keepers and expects its fruit’s return; tenders are
+also allotted two hundred (11–12). This revisits the vineyard labor of 1:6, but does
+not narrate how the woman’s circumstances changed or establish a general wage ratio.
+
+See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
+
 ## Key passages
 
 - [[Rise Up, My Love]] — Song of Solomon 2:15–16; vineyards in blossom guarded from foxes, and the beloved browsing among the lilies.
@@ -817,6 +825,8 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:18, 23–27; The fig-tree keeper, the servant honoured, the herdsman who knows his flock.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; the hands of a skillful workman.
+
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

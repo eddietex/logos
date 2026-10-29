@@ -30,6 +30,8 @@ tags: [connection]
   foxes that plunder the vineyards; for our vineyards are in blossom."* A vineyard guarded, not
   neglected.
 
+- [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+
 ## Analysis
 
 **Thorns as what the ground does when left to itself.** Genesis 3:18 makes thorns the ground's
@@ -72,6 +74,12 @@ vineyards in blossom, so someone is asked to catch them. The vineyards there are
 vineyards"*, worth protecting because they are flowering. Isaiah's *"It won't be pruned"* (5:6) uses
 *yizzāmēr*, from the *z-m-r* root that may also stand behind the Song's *"time of the singing"*
 (2:12; Hebrew read from Sefaria). That shared root is a lexical note, not a claim of allusion.
+
+In [[Our Sister and My Own Vineyard]], the own vineyard returns beside Solomon’s leased
+estate (8:11–12). Unlike the complaint in 1:6, the first-person voice asserts its
+presence before her. This extends the personal-agency reading, without explaining
+what happened to the previously neglected vineyard or attributing her neglect to sloth.
+Source for this addition: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Significance
 
