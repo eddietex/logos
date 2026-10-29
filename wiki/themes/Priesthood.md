@@ -201,7 +201,19 @@ The offerer lays a hand on the victim and kills it; Aaron's sons handle its bloo
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The anointed priest is both potentially liable for sin affecting the people (3) and the minister
+who makes atonement for the congregation (20). Office does not confer moral immunity. The elders
+lay hands on the congregation’s bull (15), while the anointed priest handles its sanctuary blood
+(16–18).
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

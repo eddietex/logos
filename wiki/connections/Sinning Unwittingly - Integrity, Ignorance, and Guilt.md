@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- **Leviticus 4:1–21** — [[The Sin Offering for Priest and Congregation]]; priestly and communal bull offerings.
+
 - **Genesis 20:3–7** — a death sentence for an act done on false information, a plea of integrity
   accepted, and a remedy that is still required — [[Abraham and Abimelech]]
 - **Genesis 20:9** — *"you have brought on me and on my kingdom a great sin"* — the guilt described
@@ -73,7 +75,8 @@ procedure rather than an argument.**
 
 Numbers 15:22–31 draws the boundary from the other side. Offerings cover the unwitting sin; the
 person who acts *"with a high hand"* — deliberately, in contempt — *"blasphemes Yahweh"* and *"shall
-be cut off"*, with nothing provided. **The whole sacrificial apparatus is for the first case.** That
+be cut off"*, with nothing provided. **The earlier claim here that the whole sacrificial apparatus is for the first case is
+corrected below in light of Leviticus 1–4 and 6:1–7.** That
 is worth holding beside how often the Bible's narratives are read as though guilt tracked intention
 exactly.
 
@@ -112,6 +115,30 @@ rulers"* (Acts 3:17); *"I obtained mercy because I did it ignorantly in unbelief
 **In each case the ignorance is the ground of the appeal and not the end of the matter** — forgiveness
 is still asked for, repentance is still called for, mercy is still described as mercy. That is the
 Genesis 20 shape exactly: *your integrity is real, and you still need the prophet to pray.*
+
+### The priest and congregation — Leviticus 4:1–21
+
+The now-ingested unit distinguishes the anointed priest whose sin brings guilt on the
+people (3) from the assembly whose violation was hidden and becomes known (13–14).
+The elders lay hands on the communal bull; the priest handles its blood and makes
+atonement, with forgiveness explicitly promised (15–20). Ignorance and innocence are
+not interchangeable categories here.
+
+**Correction to the earlier claim about the whole sacrificial apparatus:** the assertion
+above that it is all for unwitting sin is too broad. Leviticus 1–3 regulates offerings
+without making every case an unintentional offense; Leviticus 6:1–7 provides restitution
+and an offering for fraud, robbery, and false swearing. The particular scope of Leviticus
+4 must not become a universal definition of sacrifice. Those later Leviticus verses were
+checked in stored WEB for this correction and remain in their own ingestion queue.
+
+**Qualification of the Genesis comparison:** Genesis 20:6 describes God preventing
+Abimelech from sinning by touching Sarah; Leviticus 4:13 describes commandments already
+violated. Both require a response to revealed danger or liability, but the earlier claim
+that they are exactly the same situation overlooks that distinction. The analogy does
+not prove that Abimelech performed the offense this statute addresses.
+
+Source for this addition: stored WEB Genesis 20; Leviticus 1–4 and 6:1–7. These conclusions
+rest on the English translation; no new source-language claim is made.
 
 ## Significance
 

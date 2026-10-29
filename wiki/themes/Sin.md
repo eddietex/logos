@@ -366,7 +366,19 @@ outweighs wisdom and honor. No particular sin or sinner is identified.
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Priest and congregation — Leviticus 4:1–21
+
+Unintentional violations of Yahweh’s prohibitions incur guilt (2, 13). The priest’s offense can
+implicate the people (3), while the assembly’s offense can be hidden before it becomes known
+(13–14). The prescribed response is a sin offering, not an assertion that lack of intention
+makes the act nonexistent.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; one sinner destroys much good.
 

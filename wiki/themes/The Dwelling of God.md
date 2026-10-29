@@ -230,7 +230,18 @@ The Tent of Meeting is the place of approach, slaughter, and priestly altar serv
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The tent’s interior is involved in the remedy for priestly and communal sin: blood is brought
+before the veil and to the inner altar (5–7, 16–18). The carcass leaves the camp for a clean ash
+site. These spatial distinctions order approach to God without describing entry behind the veil.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

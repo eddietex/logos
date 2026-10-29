@@ -257,7 +257,18 @@ The offering is brought to the Tent of Meeting, with slaughter before it and blo
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+Within the Sinai setting established by Leviticus 7:38, the rite moves between the Tent of
+Meeting, the inner altar, the outer altar, and a clean ash site outside the camp (4:5–12,
+16–21). The mountain is not named in this unit; no new named geographical place is introduced.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

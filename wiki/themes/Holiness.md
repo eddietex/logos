@@ -262,7 +262,18 @@ page.
 
 The remainder assigned to Aaron and his sons is most holy (2:3, 10). Holiness therefore extends to the portion retained for the priests, not only to what burns on the altar. See [[The Meal Offering]].
 
+### Priest and congregation — Leviticus 4:1–21
+
+The remedy for sin observes distinctions within sacred space: tent entrance, before the veil,
+inner altar, and outer altar (4–7). Even the sinning anointed priest must follow this ordered
+approach. The text does not authorize entry behind the veil.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

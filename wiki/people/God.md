@@ -2711,7 +2711,18 @@ Yahweh receives the specified altar portions and claims the fat (3:16). The proh
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+Yahweh tells Moses how to address unintentional violations, including priestly sin that brings
+guilt on the people (1–3). The congregational rite concludes with atonement and forgiveness
+(20); divine command provides a remedy as well as identifying the offense.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

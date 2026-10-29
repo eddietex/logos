@@ -82,6 +82,9 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 
 ## Cross-references
 
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21 distinguishes sanctuary blood handling
+  and outside-camp disposal while retaining the assigned altar fat.
+
 - [[A Pleasing Aroma]] — the description shared with the preceding burnt and meal offerings occurs in 3:5, 16.
 - [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]] — chapter 3's altar rite precedes chapter 7's rules for eating.
 - [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] — the earlier restriction on blood and this sanctuary regulation.

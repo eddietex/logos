@@ -198,7 +198,18 @@ Aaron's sons sprinkle the victim's blood around the altar (3:2, 8, 13), while 3:
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+Blood is sprinkled seven times before the veil, placed on the inner altar’s horns, and poured at
+the outer altar’s base (6–7, 17–18). Unlike the outer-altar sprinkling of Leviticus 1 and 3,
+this rite brings blood into the tent. It does not describe passing behind the veil.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

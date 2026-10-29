@@ -189,7 +189,18 @@ impurity.
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The carcass is burned outside the camp at a clean place where ashes are deposited (12). Outside
+is not a synonym for unclean, and the offering’s relation to sin does not make the prescribed
+disposal site unclean. This unit does not give a general impurity classification for carcasses.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Water washes the livestock victim’s innards and legs (1:9, 13), and the bird’s crop with its filth is discarded beside the altar (16).
 

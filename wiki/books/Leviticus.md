@@ -27,6 +27,10 @@ most holy priestly remainders, and the peace offering’s assigned fat portions.
 names covenant salt; chapter 3 permits male or female livestock and closes with the
 prohibition on eating fat and blood. The meat-sharing rules follow in chapter 7.
 
+The next unit (4:1–21) addresses unintentional sin by the anointed priest and congregation.
+Blood enters the tent, carcasses leave the camp, and the congregation is promised forgiveness
+after atonement. This adds liability and remedy to the opening account of approach.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -46,7 +50,7 @@ merge, or reorder them freely.
 - [x] [[The Burnt Offering]] — Leviticus 1:1–17
 - [x] [[The Meal Offering]] — Leviticus 2:1–16
 - [x] [[The Peace Offering]] — Leviticus 3:1–17
-- [ ] The Sin Offering for Priest and Congregation — Leviticus 4:1–21
+- [x] [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21
 - [ ] The Sin Offering for Ruler and Individual — Leviticus 4:22–35
 - [ ] Confession and Offerings According to Means — Leviticus 5:1–13
 - [ ] The Trespass Offering for Holy Things and Unknown Guilt — Leviticus 5:14–19

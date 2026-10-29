@@ -740,7 +740,18 @@ The peace-offering law continues the address to Moses begun in Leviticus 1:1–2
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+Moses receives a new divine address and must speak to Israel (1–2). The cases concern the
+anointed priest and congregation; Moses is transmitting their duties, not performing these
+offerings in a narrated event.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

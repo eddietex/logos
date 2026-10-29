@@ -483,7 +483,18 @@ The offering law permits both sexes of the prescribed livestock while requiring 
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The opening condition covers unintentional acts against Yahweh’s prohibitions (2). The
+congregation must respond when its hidden offense becomes known (13–14); ignorance does not
+cancel liability. No actual communal offense is narrated in this legal instruction.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

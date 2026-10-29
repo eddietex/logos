@@ -19470,3 +19470,29 @@ wrapped or dangling links and 59 expected not-yet-started book targets. No unres
 - Created 2 pages and revised 27 existing pages, including indexes and this log.
   Link checks clean; 59 not-yet-started book links remain the expected baseline.
   No unresolved issue or workflow/harness change.
+
+## [2026-10-29] ingest | Leviticus 4.1-21 — The Sin Offering for Priest and Congregation
+
+- Ingested exactly the next queued unit in auto mode, retaining its title and boundary.
+  Created [[The Sin Offering for Priest and Congregation]] with all twenty-one WEB verses
+  copied from stored Leviticus and mechanically compared with the source.
+- Revised three people (God, Moses, Aaron), Horeb, eleven themes, two existing connections,
+  and two earlier passage cross-reference lists. Aaron is included by office, not named or
+  accused in this unit. Elders remain a collective rather than invented individual pages;
+  Sinai is contextual. No new entity or connection page was needed.
+- Distinguished the two cases, their hand-laying representatives, inner and outer blood
+  destinations, clean outside-camp disposal, and the explicit congregational forgiveness
+  formula. Absence of the formula in the priest's case is not treated as denial of pardon.
+- Explicitly corrected the unwitting-sin connection's claim about the whole sacrificial
+  apparatus using Leviticus 1–3 and 6:1–7; qualified its exact equation of Genesis 20's
+  prevented offense with Leviticus 4's completed violations. Updated the outside-camp
+  connection with the closer sanctuary-blood parallel and the clean-site qualification.
+- Sources: stored WEB Genesis 20; Exodus 29:1–14; Leviticus 1–4, 6:1–7, 7:38.
+  Hebrews 13:10–13 reverified at bible-api.com with `translation=web` on 2026-10-29.
+  No raw text changed, no additional book fetched, and no new exact Hebrew/Greek claim.
+- Created 1 page and revised 28 existing pages, including the book, affected category
+  indexes, dashboard, and this log. Leviticus is 4 / 44; totals by frontmatter type:
+  231 passages, 192 people, 104 places, 85 themes, 542 connections.
+- Category coverage verified: one index row per entity/connection. Link checks clean,
+  with 59 expected not-yet-started book links; whitespace checks passed. No unresolved
+  issue, pericope boundary change, or harness/workflow change.

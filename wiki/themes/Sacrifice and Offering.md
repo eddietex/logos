@@ -331,7 +331,19 @@ The peace offering permits male or female cattle and flock animals without defec
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The priest and congregation each bring a bull; the elders represent the assembly in hand-laying
+(15). Fat is burned on the altar as in the peace offering (8–10), but the carcass is burned
+outside the camp (11–12, 21). These are distinct fires and destinations, not a whole burnt
+offering on the altar.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

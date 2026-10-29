@@ -358,7 +358,19 @@ Aaron is named through his sons, who sprinkle the blood around the altar and bur
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; contextual comparisons documented on the passage page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The anointed priest can sin so as to bring guilt on the people and must bring a bull (3–12); he
+also ministers for the congregation (16–20). Aaron is relevant through his prescribed anointing
+in Exodus 29:7, but is not named here. This is a law for his office, not an accusation that he
+committed an offense.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Appears in
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Peace Offering]] — Leviticus 3:1–17.
 

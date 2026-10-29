@@ -124,7 +124,19 @@ rather than using distress as evidence of guilt.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The congregation is guilty while the matter remains hidden; recognition then calls for its
+offering (13–14). This directly distinguishes liability from awareness. The anointed priest’s
+sin can also bring guilt on the people (3), without the text explaining how that responsibility
+spreads.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Words of Agur]] — Proverbs 30:6, 10, 12.
 

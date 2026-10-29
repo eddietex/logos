@@ -230,6 +230,9 @@ narrates the performance.
 
 ## Cross-references
 
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21 distinguishes sanctuary blood handling
+  and outside-camp disposal while retaining the assigned altar fat.
+
 - [[The Meal Offering]] — Leviticus 2:1–16; grain memorials and priestly portions distinguish this rite from the preceding offering instructions.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.

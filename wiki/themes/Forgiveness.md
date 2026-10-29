@@ -139,7 +139,19 @@ It does not require a falsely accused person to admit an invented charge; compar
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28 and the comparisons
 documented on the passage and connection pages.
 
+### Priest and congregation — Leviticus 4:1–21
+
+Forgiveness is explicitly the outcome of priestly atonement for the congregation (20). The
+preceding priestly case does not repeat that formula; it does not say that priestly guilt is
+unforgivable. The text describes the prescribed remedy, not forgiveness as denial that an
+offense occurred.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:13.
 

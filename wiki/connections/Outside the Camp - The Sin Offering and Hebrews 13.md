@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- **Leviticus 4:1–21** — [[The Sin Offering for Priest and Congregation]]; priestly and communal bull offerings.
+
 - **Exodus 29:10–14** — the bull of the priests' ordination: blood on the altar, fat burned on it, and
   *"the meat of the bull, and its skin, and its dung, you shall burn with fire outside of the camp:
   it is a sin offering"* — [[The Ordination of the Priests]].
@@ -39,6 +41,23 @@ not the specific rite Hebrews describes, and this page does not claim that it is
 **Hebrews 7:27 contrasts priests who need offerings for themselves.** Exodus 29 begins the priests'
 service with a sin offering on their behalf and then establishes daily offerings (29:38–42). Hebrews
 contrasts that with one who *"did this once for all, when he offered up himself"* (7:27).
+
+### The sanctuary blood and the clean ash site — Leviticus 4:1–21
+
+The now-ingested priestly and congregational offerings supply both features together:
+blood enters the Tent of Meeting (5–7, 16–18), and the bull's body is burned outside the
+camp (11–12, 21). This is a closer ritual parallel to Hebrews 13:11 than the ordination
+bull of Exodus 29 alone. The sevenfold sprinkling is before the veil; Leviticus 4 does
+not describe entry behind it or the annual Day of Atonement.
+
+The place outside must be clean (12). Hebrews' application to suffering and reproach
+(13:12–13) therefore should not be turned into a claim that Leviticus calls this disposal
+site unclean. The typological connection concerns blood, bodies, and location; it does
+not erase the distinct purposes and settings of the texts.
+
+Source for this addition: stored WEB Leviticus 4:1–21 and Exodus 29:10–14;
+Hebrews 13:10–13 rechecked at bible-api.com (`translation=web`) on 2026-10-29.
+Leviticus is now stored and in progress; Hebrews remains uningested and was not added to raw.
 
 ## Significance
 

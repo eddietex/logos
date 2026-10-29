@@ -111,7 +111,19 @@ interpretive explanations; they must not be presented as the chapter’s own acc
 See [[The Burnt Offering]] . Source: stored WEB Leviticus 1; comparisons identified on the passage
 page.
 
+### Priest and congregation — Leviticus 4:1–21
+
+The priest makes atonement for the congregation, and forgiveness follows explicitly (20). Blood
+is brought before the veil and to the inner altar, with the rest at the outer altar’s base. The
+priest’s own case lacks the repeated closing forgiveness formula, but this silence does not
+establish exclusion from forgiveness.
+
+See [[The Sin Offering for Priest and Congregation]]. Source: stored WEB Leviticus 4:1–21;
+contextual comparisons documented on the passage page.
+
 ## Key passages
+
+- [[The Sin Offering for Priest and Congregation]] — Leviticus 4:1–21.
 
 - [[The Burnt Offering]] — Leviticus 1:1–17; Leviticus 1:4 explicitly connects the accepted burnt offering with atonement for its offerer.
 
