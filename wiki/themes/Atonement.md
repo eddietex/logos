@@ -136,7 +136,15 @@ The priest makes atonement even with the flour sin offering (11–13). Atonement
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+The priest makes atonement with the ram and forgiveness is promised (16, 18). In the holy-things case, material restitution accompanies rather than replaces the offering.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The priest makes atonement even with the flour sin offering (11–13). Atonement here cannot be defined as invariably requiring this offerer to provide an animal.
 

@@ -149,7 +149,15 @@ Awareness of liability leads to confession of the particular sin (5), not merely
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+Verses 17–19 explicitly separate liability from knowledge. This is actual wrongdoing described by the law, not a declaration that every anxious suspicion proves an offense.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Awareness of liability leads to confession of the particular sin (5), not merely an unspecified feeling of guilt.
 

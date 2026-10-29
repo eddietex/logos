@@ -280,7 +280,15 @@ forgiveness at the outer altar does not erase the sanctuary’s differentiated s
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+Wrong against Yahweh’s holy things requires repayment plus a fifth and a ram (15–16). Holy things are not interchangeable with ordinary possessions; the text does not enumerate the particular misuse.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

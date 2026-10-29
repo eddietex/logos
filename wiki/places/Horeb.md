@@ -281,7 +281,15 @@ Leviticus 7:38 locates the offering laws at Sinai. The confession and means prov
 
 See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
 
+### The trespass-offering laws
+
+The offering laws belong to the Sinai setting identified in Leviticus 7:38. Leviticus 5:14–19 itself names no mountain or new geographical location.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]].
+
 ## Appears in
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; contextual Sinai setting.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Leviticus 7:38 locates the offering laws at Sinai. The confession and means provisions of 5:1–13 belong to that setting, but name no mountain or new geographical location.
 

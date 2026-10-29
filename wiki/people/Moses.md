@@ -597,6 +597,12 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 The speech begun to Moses in 1:1–2 continues with grain-offering instructions. He is not named anew in chapter 2; this is mediated instruction, not a narrated act of offering. See [[The Meal Offering]].
 
+### The trespass-offering instruction — Leviticus 5:14–19
+
+Receives the new speech at 5:14; the valuation language belongs to the instruction delivered to him, without a narrated act of appraisal.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -764,6 +770,8 @@ The address begun at Leviticus 4:1–2 continues through confession and offering
 See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
 
 ## Appears in
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; Receives the new speech at 5:14; the valuation language belongs to the instruction delivered to him, without a narrated act of appraisal.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The address begun at Leviticus 4:1–2 continues through confession and offerings scaled to means (5:1–13). Moses mediates the instruction; no new action by him is narrated.
 

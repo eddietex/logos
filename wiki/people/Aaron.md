@@ -291,6 +291,12 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 Aaron and his sons receive the remainder after the memorial is burned (2:3, 10). Their portion remains most holy; the gift to Yahweh includes regulated provision for the priestly household. See [[The Meal Offering]].
 
+### The trespass-offering instruction — Leviticus 5:14–19
+
+Contextual priestly office established in Exodus 28:1: the priest receives restitution and makes atonement with the ram. Aaron is not named in Leviticus 5:14–19.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]].
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -384,6 +390,8 @@ The priestly office established in Exodus 28:1 carries out these bird and flour 
 See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
 
 ## Appears in
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; Contextual priestly office established in Exodus 28:1: the priest receives restitution and makes atonement with the ram. Aaron is not named in Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The priestly office established in Exodus 28:1 carries out these bird and flour rites and receives the flour remainder. Aaron is contextual, not named as performing the rites in Leviticus 5:1–13.
 

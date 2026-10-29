@@ -133,7 +133,15 @@ possible act, not an accusation against all poor people and not a new restitutio
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+Leviticus 5:15–16 extends the restitution theme to unwitting wrong in holy things: repayment plus one fifth, given to the priest, alongside a ram offering. This is distinct from the multiplied theft penalties of Exodus 22 and is not explicitly called deliberate theft. Verses 17–19 do not repeat the repayment rule.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[The Words of Agur]] — Proverbs 30:9.
 

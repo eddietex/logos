@@ -109,6 +109,8 @@ it, it need not; and a hired thing *"came for its lease"* (22:14–15).
 
 ## Cross-references
 
+- [[Restitution to the Neighbor and for Holy Things]] — compare Exodus 22’s distinct repayment cases with Leviticus 5:15–16’s restitution, added fifth, and ram.
+
 - Exodus 20:15–17 — *"You shall not steal"*, followed by false testimony and coveting, given
   cases and remedies here: [[The Ten Commandments]].
 - Exodus 21:12–36 — the bull and the pit led from injury to property loss; the matching scale of

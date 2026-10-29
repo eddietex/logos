@@ -2404,6 +2404,12 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 
 Yahweh receives grain offerings with a pleasant aroma and assigns the most holy remainder to Aaron and his sons (2:2–3, 9–10). His covenant is named with the required salt (13). See [[The Meal Offering]].
 
+### The trespass-offering instruction — Leviticus 5:14–19
+
+Yahweh speaks to Moses, identifies liability even without knowledge, and provides a remedy ending in forgiveness (14–19).
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]].
+
 ## Timeline / key events
 
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
@@ -2736,6 +2742,8 @@ Yahweh’s continuing law joins confession to a remedy affordable even to the pe
 See [[Confession and Offerings According to Means]]. Sources: stored WEB Leviticus 4–5; 7:38; Exodus 28:1.
 
 ## Appears in
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19; Yahweh speaks to Moses, identifies liability even without knowledge, and provides a remedy ending in forgiveness (14–19).
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Yahweh’s continuing law joins confession to a remedy affordable even to the person unable to bring birds. The flour provision explicitly promises forgiveness (5:11–13).
 

@@ -356,7 +356,15 @@ A female flock animal, two birds with different functions, or fine flour serve t
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+Both cases prescribe a ram without defect as a trespass offering. Unlike 5:7–13, this unit supplies no bird or flour alternative; it does not repeat the slaughter or blood-handling directions.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; A female flock animal, two birds with different functions, or fine flour serve the stated cases according to means (6–13).
 

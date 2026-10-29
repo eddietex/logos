@@ -164,7 +164,15 @@ Forgiveness is expressly promised after both the bird and flour procedures (10, 
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+Forgiveness is expressly promised in both cases (16, 18). The holy-things case joins pardon to restitution and priestly atonement; ignorance alone does not settle the liability.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Forgiveness is expressly promised after both the bird and flour procedures (10, 13); the less costly provision does not promise a lesser pardon.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
+
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
@@ -165,6 +167,16 @@ Knowledge calls for response, but cost does not exclude the poor from forgivenes
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13;
 this qualification concerns the English text, not a verified Hebrew lexical equation.
+
+### Holy things and wrongdoing without knowledge
+
+[[The Trespass Offering for Holy Things and Unknown Guilt]] makes the distinction explicit: Leviticus 5:17–19 describes
+liability despite lack of knowledge, followed by a ram offering and forgiveness. Verses
+15–16 separately require restitution plus a fifth for unwitting wrong in holy things.
+The repayment provision should not be silently extended to the second case, which does
+not repeat it. Neither case says that a subjective fear of guilt proves an actual offense.
+
+Source for this addition: stored WEB Leviticus 5:14–19; no new source-language claim.
 
 ## Significance
 

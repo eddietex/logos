@@ -226,7 +226,15 @@ The priest offers the sin-offering bird first, then the burnt offering; with flo
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+The priest receives the holy-things restitution with its added fifth and makes atonement with the ram (16); the second case also brings the ram to the priest (18). No priest is named here.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The priest offers the sin-offering bird first, then the burnt offering; with flour he burns a memorial handful and receives the remainder (8–13).
 

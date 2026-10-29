@@ -506,7 +506,15 @@ The prescribed response includes acknowledgment and an offering whose cost is ad
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy things and unknown guilt — Leviticus 5:14–19
+
+The remedy is prescribed as carefully as the prohibition: a ram without defect, valuation, and priestly atonement. For holy things, restitution plus a fifth is also required.
+
+See [[The Trespass Offering for Holy Things and Unknown Guilt]]. Source: stored WEB Leviticus 5:14–19.
+
 ## Key passages
+
+- [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The prescribed response includes acknowledgment and an offering whose cost is adjusted to the offerer’s means.
 

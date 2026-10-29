@@ -19548,3 +19548,30 @@ wrapped or dangling links and 59 expected not-yet-started book targets. No unres
   85 themes, 543 connections. Category coverage and unique passage titles verified.
 - Link checks clean with 59 expected not-yet-started book links; whitespace checks passed.
   No unresolved issue or boundary change.
+
+## [2026-10-29] ingest | Leviticus 5.14-19 — The Trespass Offering for Holy Things and Unknown Guilt
+
+Ingested the next queued unit in auto mode, retaining its planned boundary. Created
+[[The Trespass Offering for Holy Things and Unknown Guilt]] and the comparison
+[[Restitution to the Neighbor and for Holy Things]]. Revised the existing unwitting-guilt
+connection and added the reciprocal comparison link to [[Laws of Property and Restitution]].
+Updated God, Moses, Aaron, Horeb, nine themes, Leviticus, the relevant category rows,
+book progress, and dashboard counts. Two pages created and 24 existing pages revised,
+including indexes and this log; 16 existing content pages revised apart from indexes/log.
+Leviticus is now 7 / 44; totals are 234 passages, 192 people, 104 places, 85 themes,
+and 544 connections.
+
+Judgments: kept holy-things restitution plus a fifth distinct from the second case,
+which does not repeat repayment. Recorded the contrast with the preceding unit’s
+means-based offerings without importing its flour concession into the ram rite.
+Did not equate subjective anxiety with proven guilt or specify an unstated fixed ram
+price. Aaron and Horeb are contextual links, not names present in these six verses;
+no new person or place page was needed. The comparison distinguishes the Exodus theft
+penalties from this unwitting holy-things offense rather than presenting different
+repayment amounts as a contradiction. No new contradiction requiring resolution found.
+
+Sources: all six quoted verses copied from stored WEB Leviticus 5:14–19; comparisons
+checked in stored Leviticus 5:1–13; 7:38 and Exodus 22:1–15; 28:1. No raw text changed,
+new source-language assertion, or new quotation from an unstored book. No harness or
+workflow changes. Link checks clean (59 expected not-yet-started book targets), with
+no deliberate dangling links or unresolved issue. Authored by Codex.
