@@ -404,7 +404,17 @@ deception; the offering laws cannot all be restricted to inadvertent acts.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+The offering for sin is called most holy (6:25, 29), with authorized priestly eating. It must not
+be described indiscriminately as unclean material: 6:30 distinguishes burning by the blood’s
+sanctuary destination.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

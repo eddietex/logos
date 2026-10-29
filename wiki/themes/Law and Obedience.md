@@ -525,7 +525,17 @@ Repeated commands sustain daily altar service: fire must not go out, wood is add
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+The common law of sin and trespass offerings assigns the portion to the priest making atonement
+(7:7). Specific restrictions on eaters, location, blood, and vessels remain binding rather than
+being erased by that shared rule.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

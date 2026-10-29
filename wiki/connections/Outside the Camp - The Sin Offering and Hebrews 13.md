@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
+
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 
 - **Leviticus 4:1–21** — [[The Sin Offering for Priest and Congregation]]; priestly and communal bull offerings.
@@ -65,13 +67,25 @@ Leviticus is now stored and in progress; Hebrews remains uningested and was not 
 
 **Limit on the category:** Leviticus 4:22–35 prescribes blood on the outer burnt-offering
 altar and does not command disposal outside the camp. The preceding bulls’ treatment
-cannot be generalized to every sin offering. Leviticus 6:24–30, checked in stored WEB but
-still queued, distinguishes priestly eating from the burning required when blood enters
+cannot be generalized to every sin offering. Leviticus 6:24–30, now ingested in
+[[The Priests’ Portions of Sin and Trespass Offerings]], distinguishes priestly eating from the burning required when blood enters
 the tent. This reinforces the importance of the specific blood-and-disposal pattern
 already discussed above, rather than adding a new claim about Hebrews’ wording.
 
 See [[The Sin Offering for Ruler and Individual]]. Source for this addition: stored WEB Leviticus
 4:22–35 and 6:24–30. No new quotation from an unstored book or source-language claim.
+
+### Priestly portions — Leviticus 6:24–7:10
+
+Leviticus 6:26, 29 permits priestly eating of sin-offering flesh, while 6:30 forbids
+it when blood is brought into the tent for atonement in the Holy Place. This now-ingested
+rule expressly distinguishes the cases described in Leviticus 4. Verse 6:30 commands
+burning but does not itself repeat the outside-camp location supplied in 4:12, 21.
+Calling every sin offering either eaten or burned would contradict one of these clauses.
+The addition establishes the Leviticus distinction; it introduces no further claim about
+Hebrews’ wording.
+
+Source for this addition: stored WEB Leviticus 2; 4; 6:24–7:10.
 
 ## Significance
 
@@ -84,5 +98,5 @@ and Hebrews' argument. See [[Sin]], [[Sacrifice and Offering]], [[Blood]], and [
 ## Sources
 
 Exodus quotations were checked against `raw/bible/Exodus.md`. Leviticus 8:14–17 and Hebrews 7:27–28;
-13:10–13 were fetched individually from bible-api.com with `translation=web` on 2026-10-23. Neither
-book is ingested, and neither was fetched into raw.
+13:10–13 were fetched individually from bible-api.com with `translation=web` on 2026-10-23. At that verification date neither book had been ingested or fetched into raw.
+Leviticus is now stored and in progress; Hebrews remains uningested.

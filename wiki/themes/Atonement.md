@@ -150,7 +150,17 @@ The priest makes atonement before Yahweh after the law has required repayment to
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+The priest who makes atonement receives the sin or trespass offering under 7:7, with the explicit
+exception that sin offerings whose blood enters the tent for atonement are burned (6:30). The
+common portion rule does not make all blood rites identical.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

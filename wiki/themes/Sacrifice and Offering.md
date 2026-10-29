@@ -376,7 +376,17 @@ The burnt offering remains on the hearth overnight, with fresh wood each morning
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Sin and trespass offerings provide holy food, except that sin offerings whose blood enters the
+tent for atonement must be burned (6:30). Burnt-offering skins belong to the priest (7:8). Grain
+allocations in 7:9–10 retain the wholly burned priestly-offering exception of 6:23.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

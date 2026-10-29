@@ -300,7 +300,17 @@ The altar-fire and meal-offering laws belong to the Sinai instructions identifie
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Leviticus 7:38 locates these offering laws at Sinai. This unit does not name the mountain; its
+spatial distinctions concern slaughter, altar, holy eating in the court, and blood brought into
+the tent.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Appears in
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

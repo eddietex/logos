@@ -216,7 +216,17 @@ Ashes go outside the camp to a clean place after the priest changes garments (10
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Garments stained with sin-offering blood are washed in a holy place; earthen cooking vessels are
+broken and bronze ones scoured and rinsed (6:27–28). These are handling rules for most holy flesh,
+not a statement that the flesh is unclean or merely a hygiene prescription.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

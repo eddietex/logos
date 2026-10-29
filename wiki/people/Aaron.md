@@ -403,7 +403,16 @@ Aaron and his sons receive the meal-offering remainder for holy eating. His anoi
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Aaron and his sons receive rules for holy flesh and priestly shares. The officiating priest has
+particular portions, while 7:10 assigns grain mixed with oil or dry to all his sons equally.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Appears in
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

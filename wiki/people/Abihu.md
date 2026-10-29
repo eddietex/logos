@@ -136,7 +136,17 @@ Included collectively among Aaron’s sons, identified in Exodus 28:1, in the co
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Included collectively among Aaron’s sons, identified in Exodus 28:1, as recipients of the
+holy-food and portion rules (6:25; 7:10). He is not individually named or described performing
+these rites.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Appears in
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

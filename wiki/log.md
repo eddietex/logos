@@ -19628,3 +19628,31 @@ frontmatter type: 236 passages, 192 people, 104 places, 85 themes, 545 connectio
 Validation: `scripts/link-check.sh` clean, with 59 expected not-yet-started book targets;
 quoted verses match raw WEB and `git diff --check` passes. No operational blocker.
 Authored by Codex.
+
+## [2026-10-29] ingest | Leviticus 6.24-7.10 — The Priests’ Portions of Sin and Trespass Offerings
+
+Ingested [[The Priests’ Portions of Sin and Trespass Offerings]] from stored WEB, retaining
+all seventeen verses. The queue boundary is unchanged; Leviticus is now 10 / 44 pericopes.
+Created one passage and revised 30 existing pages including this log: one book, seven people,
+one place, nine themes, two connections, and nine indexes/dashboards. Counts are 237 passages,
+192 people, 104 places, 85 themes, and 545 connections; seven books started, six complete.
+
+The passage distinguishes permitted priestly eating from the sanctuary-blood burning exception,
+and records garment washing, earthenware breaking, bronze scouring, the priest's hide, and
+individual/shared grain portions. Updated [[Outside the Camp - The Sin Offering and Hebrews 13]]
+and [[Meal Offerings Eaten and Wholly Burned]] rather than creating duplicate connections.
+Aaron's four sons are included collectively by Exodus 28:1, without inventing individual acts.
+[[Horeb]] remains contextual via Leviticus 7:38; no new geographical site is named here.
+
+Judgment calls and limits: holiness through contact is not described as moral improvement;
+porosity is only a possible explanation for vessel treatment. The wording tension between
+prepared grain for the officiant (7:9) and oil-mixed or dry grain for all sons (7:10) remains
+explicit. Reading the latter as unprepared grain is an interpretation, not an inserted WEB
+qualification. Blanket claims that all sin offerings are eaten or all burned are rejected
+with both passages retained. No new source-language claims or quotations from unstored books
+were added. Sources were stored WEB Leviticus 1–4; 6–7 and Exodus 28:1. Raw texts unchanged.
+
+Validation: scripts/link-check.sh passed both wrapped-link and dangling-target checks, with
+59 expected not-yet-started book links. Progress totals checked by frontmatter type; passage
+title is unique. No unresolved link issue or operational blocker. The allocation ambiguity
+is documented for later comparison, not silently harmonized.

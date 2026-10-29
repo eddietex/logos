@@ -2754,7 +2754,16 @@ Yahweh commands the maintenance of the fire and explicitly gives the most holy r
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Yahweh instructs Moses about holy flesh, blood, vessels, and priestly portions. His command
+authorizes eating and also limits it when blood enters the tent for atonement (6:24–30).
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Appears in
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

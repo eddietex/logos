@@ -254,7 +254,17 @@ The court of the Tent of Meeting is the prescribed place for eating the most hol
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+The court is the authorized place to eat sin-offering flesh (6:26). Blood entering the Tent of
+Meeting for atonement marks the exception requiring burning (6:30); different sanctuary spaces
+carry different rules.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

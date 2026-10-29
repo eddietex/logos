@@ -245,7 +245,18 @@ Priestly work includes tending fire, moving ashes with a change of garments, and
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Eligible male priests eat most holy flesh in a holy place; the officiant receives the assigned
+offering and the burnt offering’s skin. Leviticus 7:9–10 juxtaposes prepared offerings for the
+officiant with oil-mixed or dry grain for all sons equally. The exact distribution is not fully
+explained.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

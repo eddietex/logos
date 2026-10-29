@@ -51,6 +51,11 @@ Leviticus 6:8–23 turns to priestly maintenance and portions: continual fire re
 daily tending, holy grain is eaten in the court, and the priest’s own meal offering
 is wholly burned rather than eaten.
 
+Leviticus 6:24–7:10 regulates holy flesh, garments, and vessels, then distinguishes
+priestly portions. Sanctuary blood excludes eating; hides and grain have assigned recipients.
+The wording tension between individual and shared grain portions is recorded on
+[[The Priests’ Portions of Sin and Trespass Offerings]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -76,7 +81,7 @@ merge, or reorder them freely.
 - [x] [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19
 - [x] [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7
 - [x] [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23
-- [ ] The Priests’ Portions of Sin and Trespass Offerings — Leviticus 6:24–7:10
+- [x] [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10
 - [ ] Thanksgiving, Vows, and the Peace Offering — Leviticus 7:11–21
 - [ ] Fat, Blood, and the Priests’ Share — Leviticus 7:22–38
 - [ ] Aaron and His Sons Consecrated — Leviticus 8:1–36

@@ -227,7 +227,17 @@ The bird’s blood is sprinkled on the altar’s side and drained at its base (9
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Sin-offering blood on clothing must be washed in a holy place (6:27). Blood brought into the tent
+for atonement rules out eating that offering (6:30); trespass-offering blood is sprinkled around
+the altar (7:2). Blood destination matters for the treatment of the flesh.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; The bird’s blood is sprinkled on the altar’s side and drained at its base (9). The flour procedure prescribes no blood from this offering yet promises atonement and forgiveness (11–13).
 

@@ -292,7 +292,17 @@ The most holy remainder is eaten without yeast by male Aaronides in a holy place
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Holy flesh and priestly portions — Leviticus 6:24–7:10
+
+Most holy flesh can be eaten by authorized priests. Contact with it, blood on garments, and
+cooking vessels receive distinct handling rules (6:27–28). Holy status does not mean moral
+improvement through touch or universal permission to eat.
+
+See [[The Priests’ Portions of Sin and Trespass Offerings]]. Source: stored WEB Leviticus 6:24–7:10.
+
 ## Key passages
+
+- [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 
