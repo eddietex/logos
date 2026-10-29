@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Bodily discharges — Leviticus 15:1–33
+
+Aaron receives the speech alongside Moses (1). An unnamed priest offers the paired
+birds and makes atonement after the discharges cease (14–15, 29–30); these are prescribed
+official duties, not a report of Aaron personally performing them.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 Aaron is again named with Moses as recipient of the speech (33), unlike 14:1. The
@@ -494,6 +502,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

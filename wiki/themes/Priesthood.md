@@ -34,6 +34,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The priest receives two birds at the Tent of Meeting and offers one as a sin offering
+and one as a burnt offering after the seven-day counts (14–15, 29–30). No repeated
+priestly diagnostic inspection is prescribed here as in the skin laws of chapter 13;
+much of the washing and waiting is assigned to the affected people themselves.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 The owner reports a suspected plague; the priest examines and rules, orders seven-day
@@ -349,6 +358,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

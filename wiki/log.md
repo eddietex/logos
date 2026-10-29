@@ -19998,3 +19998,27 @@ key verses copied directly. No unstored-book quotation, source-language assertio
 modern diagnosis, or unsupported symbolic interpretation introduced. Raw texts and
 workflow instructions unchanged. Link checks passed with no wrapped links or unexpected
 dangling targets; 59 unstarted-book links remain the expected baseline.
+
+## [2026-10-29] ingest | Leviticus 15.1-33 — Bodily Discharges and Cleansing
+
+Ingested [[Bodily Discharges and Cleansing]] from the stored WEB; retained the planned
+chapter boundary. Created the passage and two connections:
+[[Bodily Purification - Childbirth and Discharges in Leviticus 12 and 15]] and
+[[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]].
+Revised three earlier passages with reciprocal references, the Leviticus overview
+and queue (23 / 44), three people, Horeb, and nine themes. Updated eight index/count
+pages. Totals: 250 passages, 195 people, 104 places, 85 themes, 563 connections.
+This pass created 3 pages and revised 26 existing pages including this log.
+
+Distinguished ordinary emission, menstruation, and prolonged discharges, including
+the different durations, bathing instructions, and offering requirements. Explicitly
+qualified the inference from sin-offering terminology to personal fault and the idea
+that blood is uniformly cleansing. The chapter’s stated rationale is protection of
+the tabernacle from defilement. Unnamed legal subjects receive no individual pages;
+the sanctuary remains covered by The Dwelling of God, with Horeb only contextual.
+
+All new quotations were copied from raw Leviticus 15. Connections paraphrase stored
+WEB Exodus 30 and Leviticus 12 and 15; no outside-book quotations or source-language
+claims were introduced. Raw texts and workflow instructions remain unchanged.
+Link checks passed with 59 expected not-yet-started book targets and no findings.
+No unresolved issue. Executed by Codex in auto mode; exactly one pericope.

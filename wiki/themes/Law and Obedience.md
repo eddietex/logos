@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The chapter regulates contact, washing, waiting, vessels, and offerings with distinct
+rules for different cases. Its closing summary includes both men and women (32–33).
+The death warning concerns defilement of the tabernacle (31), so observance serves
+Israel’s continued life beside the sanctuary.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 The house procedure distinguishes reporting, emptying, inspection, closure, repair,
@@ -629,6 +638,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

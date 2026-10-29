@@ -20,6 +20,16 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The priest makes atonement for the man for his discharge (15) and for the woman for
+the uncleanness of her discharge (30), using a sin offering and a burnt offering.
+**Qualification:** the stored WEB gives no confession or forgiveness formula here,
+unlike the guilt cases in Leviticus 4–5. Atonement addresses uncleanness without
+asserting that each discharge was caused by wrongdoing.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 The WEB explicitly speaks of making atonement for the house (53), concluding the
@@ -207,6 +217,8 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

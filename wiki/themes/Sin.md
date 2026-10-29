@@ -65,6 +65,16 @@ has been argued.
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The offerings in 15:15, 30 include what the WEB calls a sin offering, but no personal
+transgression is specified as the cause of the discharge. Seminal emission and intercourse
+with emission receive washing and an evening limit (16–18), not an accusation.
+**Distinction retained:** defiling the tabernacle carries a death warning (31); this
+must not become an assertion that every bodily condition is a moral offense.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 Yahweh says he puts the mildew in the house (34), but identifies no offense by its
@@ -457,6 +467,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

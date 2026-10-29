@@ -22,6 +22,14 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The tabernacle is among Israel, and defiling it in uncleanness threatens death (31).
+The Tent of Meeting’s door is also where the restored persons bring their birds
+(14, 29). Divine presence explains both guarded access and the provision for return.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Restoration moves from outside the camp to camp entry, then to presentation before Yahweh at the
@@ -307,6 +315,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

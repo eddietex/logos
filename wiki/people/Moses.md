@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Bodily discharges — Leviticus 15:1–33
+
+Moses receives the discharge laws with Aaron and is charged to teach Israel (1–2).
+The chapter gives communal instructions rather than narrating a particular cleansing.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 Moses receives the house law together with Aaron (33). The speech anticipates settled
@@ -877,6 +884,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

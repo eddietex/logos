@@ -47,6 +47,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The male discharge and prolonged female discharge conclude with the same paired
+bird offerings on the eighth day (14–15, 29–30). These are the standard provision here,
+not an explicitly means-tested alternative as in Leviticus 12:8. Ordinary seminal
+emission and menstruation receive no offering requirement in their respective sections.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 One bird is killed over running water and the living bird is released after the
@@ -449,6 +458,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

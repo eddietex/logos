@@ -56,6 +56,16 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+Discharge, seminal emission, menstruation, and prolonged bleeding have distinct durations
+and remedies (2–30). Contact can communicate uncleanness through bodies, beds, seats,
+and vessels. Ordinary emission requires washing and waiting until evening; prolonged
+discharges involve seven days after cessation and eighth-day offerings. Ritual status
+does not itself identify an offense or establish a modern medical diagnosis.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 A house can be unclean, repaired, condemned, or pronounced clean (37–48). Emptying it
@@ -324,6 +334,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

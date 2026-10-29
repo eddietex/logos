@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Bodily discharges — Leviticus 15:1–33
+
+The continuing Sinai setting is contextual (Leviticus 7:38); the mountain is not named
+in chapter 15. The specified ritual location is the Tent of Meeting’s door (14, 29),
+and the tabernacle among the people grounds the warning against defilement (31).
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 The house law belongs to the broader Sinai setting of Leviticus (7:38), but looks ahead
@@ -390,6 +398,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

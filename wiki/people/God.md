@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Bodily discharges — Leviticus 15:1–33
+
+Yahweh addresses Moses and Aaron together and commands instruction for Israel (1–2).
+His tabernacle among them is the reason for guarding against defilement and death (31).
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 Yahweh addresses Moses and Aaron together (33), names Canaan as his gift, and says he puts
@@ -2849,6 +2856,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

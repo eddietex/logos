@@ -82,6 +82,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Voice of His Majesty - Job 37.2-5 and Psalm 29]] | parallel | Job 37:2–5 · Psalm 29:3–10 · Job 26:14 · Job 40:9 · Exodus 19:16, 19 · John 12:28–29 |
 | [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]] | thematic-parallel | [[Wine Is a Mocker]] — Proverbs 20:22 · [[The Deaths of Jacob and Joseph]] — Genesis 50:15–21 · [[The Crossing of the Sea]] — Exodus 14:13–14 · [[Job's Oath of Innocence]] — Job 31:29–30 · [[Through Wisdom a House Is Built]] (Proverbs 24:17–18) · [[The Field of the Sluggard]] (Proverbs 24:29) · [[The Glory of Kings]] (Proverbs 25:21–22) |
 | [[Warned in a Dream - Abimelech and Laban]] | parallel | Genesis 20:3–18 · Genesis 31:24, 29 · Genesis 12:17 · Genesis 26:8–11 · Job 33:14–18 |
+| [[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]] | legal-ritual-parallel | [[The Incense Altar, the Ransom, and the Holy Oil]] · [[Bodily Discharges and Cleansing]] |
 | [[Watching from Far Off - Hagar and Moses' Sister]] | parallel | Genesis 21:14–19 · Exodus 2:3–6 |
 | [[Waters Turned to Blood - The First Plague in the Psalms and Revelation]] | allusion | Exodus 4:9 · Exodus 7:14–25 · Exodus 1:22 · Psalm 78:44 · Psalm 105:29 · Wisdom of Solomon 11:6–7 · Revelation 8:8 · Revelation 11:6 · Revelation 16:3–6 · John 2:11 |
 | [[The Way of the Wind - Ecclesiastes 11.5 and John 3.8]] | thematic-parallel | [[Cast Your Bread on the Waters]] (Ecclesiastes 11:5) · [[Vanity of Vanities]] (Ecclesiastes 1:6) · John 3:8 |

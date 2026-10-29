@@ -71,6 +71,8 @@ apply after either a son or a daughter.
 
 ## Cross-references
 
+- [[Bodily Purification - Childbirth and Discharges in Leviticus 12 and 15]] — compare [[Bodily Discharges and Cleansing]]; distinct washing, waiting, and offering requirements.
+
 - [[Offerings According to Means - Leviticus 5 and 12]] — now also compared with [[The Cleansing of the Leper]], Leviticus 14:1–32.
 
 

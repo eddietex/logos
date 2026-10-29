@@ -211,6 +211,8 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
 
 ## Cross-references
 
+- [[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]] — compare [[Bodily Discharges and Cleansing]]; distinct washing, waiting, and offering requirements.
+
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; The incense altar, oil, and incense are made in 37:25–29; use remains a later stage.

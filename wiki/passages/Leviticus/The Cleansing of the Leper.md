@@ -80,6 +80,8 @@ trespass-offering lamb, oil, bodily applications, and priestly atonement.
 
 ## Cross-references
 
+- [[Bodily Discharges and Cleansing]] — compare the seven-day count and eighth-day offerings; the cleansing procedures differ.
+
 - [[Mildew in a House]] — Leviticus 14:33–57; inspection, repair, and cleansing of a house.
 - [[Birds and Cleansing - Persons and Houses in Leviticus 14]] — shared bird rite, distinct follow-up requirements.
 

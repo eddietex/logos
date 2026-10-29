@@ -40,6 +40,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+The tabernacle among Israel supplies the rationale for the bodily regulations (31).
+Ordinary household contacts therefore matter to sanctuary access. Cleansing preserves
+the boundary around divine dwelling; it does not turn ordinary bodies or beds into
+consecrated sanctuary objects.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 The purity framework extends to ordinary dwellings in the promised land (34–53).
@@ -380,6 +389,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

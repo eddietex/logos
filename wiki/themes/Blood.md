@@ -37,6 +37,15 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Bodily discharges — Leviticus 15:1–33
+
+Menstrual and prolonged blood flow confer uncleanness (19–30). This differs from
+sacrificial blood applied for cleansing elsewhere, including Leviticus 14:14–19.
+**Qualification:** blood cannot be described as uniformly cleansing in every setting.
+Chapter 15 prescribes bird offerings but does not describe their blood applications.
+
+See [[Bodily Discharges and Cleansing]]. Source: stored WEB Leviticus 15; comparisons as cited.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 Blood from the slain bird, together with running water, cedar, scarlet, hyssop, and
@@ -295,6 +304,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
