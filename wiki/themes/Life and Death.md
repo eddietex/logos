@@ -68,6 +68,14 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11:39–40 makes a dead animal of an edible kind a source of uncleanness.
+Death changes the conditions of contact even where the species itself is permitted
+for food; carrying or eating its carcass entails washing clothes and waiting until evening.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 - **Genesis 2:7** — life as breath given.
 - **Genesis 2:9, 2:17, 3:22–24** — the tree of life, the death sentence, the barred access.
 - **Genesis 3:19** — *"to dust you shall return"*: death defined as the reversal of 2:7.
@@ -581,6 +589,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Yahweh addresses Moses and Aaron together and grounds Israel's food distinctions in his
+holiness and his deliverance from Egypt (11:1–2, 44–45).
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 The one who acts in the Bible's first sentence and never leaves the story. Genesis 1:1–2:3
 introduces him with no origin, no genealogy, and no rivals — he simply *is*, prior to the
 heavens and the earth, and everything else in the account exists because he speaks it into being.
@@ -2802,6 +2809,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Aaron appeals to what would please Yahweh; no divine speech is reported.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Aaron is named with Moses as recipient and teacher of the animal laws (11:1–2). This
+puts the distinction-and-teaching charge of 10:10–11 into concrete communal practice.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 **Moses' elder brother, Israel's first high priest — and, at his first appearance, a name God offers
 in anger to a man who has refused to go.** He enters Scripture at Exodus 4:14, inside God's answer to
 Moses' fifth objection, *"Oh, Lord, please send someone else"* (4:13). This page grows as Exodus and
@@ -445,6 +452,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Aaron defends the uneaten sin offering; Moses accepts.
 

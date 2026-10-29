@@ -40,6 +40,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11:44–45 makes Yahweh's own holiness and his bringing Israel out of Egypt the
+ground of Israel's holiness. Food distinctions and household handling belong within this
+calling; holiness is not restricted to priestly service.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 - **Genesis 2:3** — the seventh day *made holy*: the root's first appearance, and its only one in
   Genesis applied by God to anything. See [[Sabbath]].
 - **Exodus 3:5** — *holy ground*; the noun's first appearance, and the first holy place. See
@@ -338,6 +346,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Most holy food in a holy place; lesser portions in a clean place.
 

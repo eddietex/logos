@@ -56,6 +56,18 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11 now supplies the dietary criteria anticipated earlier on this page, and
+distinguishes forbidden species from impurity transmitted by carcasses. Even an edible
+animal's carcass defiles (39–40); water sources and dry sowing seed have exceptions
+(36–38). **Tension retained:** 5:2–6 attaches guilt, confession, and an offering to its
+hidden-contact cases; chapter 11 specifies waiting and, in stated cases, washing, without
+prescribing an offering. Neither unit explains the complete relationship. The earlier
+claim that the distinction is simply non-moral therefore still requires its qualification.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 - **Genesis 7:2–3, 8** — the first occurrence, assumed and undefined, with a sevenfold surplus of
   the clean. See [[Noah and the Flood]].
 - **Genesis 8:20** — what the surplus was for: burnt offerings of *every* clean animal and bird, on
@@ -263,6 +275,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Breast and thigh eaten in a clean place.
 

@@ -34,6 +34,14 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11:45 recalls Yahweh bringing Israel out of Egypt to be their God. Deliverance
+grounds the demand for holiness and dietary distinction; no ransom payment or
+source-language claim is implied by this thematic connection.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 - **A personal confession first.** Jacob, blessing Joseph's sons, calls God *"the God who has fed me"* and
   *"the angel who has redeemed me from all evil"* (Genesis 48:15–16) — **redemption as one man's life,
   looked back on.** See [[Jacob Blesses Ephraim and Manasseh]].
@@ -131,6 +139,8 @@ role: the Redeemer *"will plead their case against you"*.
 See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The King's Heart]] — Proverbs 21:18; The wicked as ransom for the righteous, a reversal of places.
 

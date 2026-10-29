@@ -34,6 +34,14 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11:1–2 addresses Moses and Aaron together to teach Israel. The charge to
+distinguish and teach in 10:10–11 receives practical content, without requiring a priest
+to perform every household washing or inspect every meal.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 - **Before the law, whoever holds the office holds it without explanation.** Melchizedek (Genesis
   14:18); Egypt's priests, who keep their land through Joseph's famine reforms because they *"ate
   their portion which Pharaoh gave them"* (47:22, 26); and Jethro, *"the priest of Midian"*
@@ -298,6 +306,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Priestly portions completed; the burned goat questioned and accepted.
 

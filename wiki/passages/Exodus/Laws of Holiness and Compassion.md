@@ -120,6 +120,8 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 22:31 compared with Leviticus 11.
+
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3’s victims lack comfort, while Exodus 22:21–27
   promises that God hears the vulnerable; neither statement erases the other.
 

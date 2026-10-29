@@ -40,6 +40,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11 gives criteria, lists, procedures, and exceptions for everyday eating and
+contact. Its conclusion identifies the purpose as distinguishing clean from unclean and
+edible from inedible (46–47), grounded in the deliverer's identity (44–45).
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 **Genesis — a command, and then commandments no narrative gives.** The first command is in the garden
 (Genesis 2:16–17). **Genesis 26:5 says Abraham *"obeyed my voice, and kept my requirements, my
 commandments, my statutes, and my laws"*** — the first *miṣwâ*, the first *ḥuqqâ*, and the first plural
@@ -577,6 +585,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Departure from the eating rule questioned and accepted.
 

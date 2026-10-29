@@ -88,6 +88,8 @@ commandments (19:9–25).
 
 ## Cross-references
 
+- [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 19:1–6 compared with Leviticus 11.
+
 - Exodus 3:1–12 — [[The Burning Bush]]; the promised return with the people is now realized:
   [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]].
 - Deuteronomy 32:9–12 — Israel carried and guarded like an eagle's young:

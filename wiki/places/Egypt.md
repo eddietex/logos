@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Leviticus 11:45 recalls departure from Egypt as the ground for belonging to Yahweh and
+being holy. Egypt is the remembered place of deliverance, not the setting of these laws.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 Ham's second son, and the Hebrew name of a country for the rest of the Bible.
 
 > **6** The sons of Ham were: Cush, Mizraim, Put, and Canaan.
@@ -111,6 +118,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Departure in Abib remembered in the renewed festival law.
 

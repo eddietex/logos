@@ -266,6 +266,8 @@ maximum: every high mountain under the whole sky, and one floating object with n
 
 ## Cross-references
 
+- [[Food for Noah and Food for Israel - Genesis 9 and Leviticus 11]] — Genesis 7:1–9 compared with Leviticus 11.
+
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:1–8, whose verdict this executes
   and whose *"found favor"* 6:9 answers with *"righteous"*.
 - [[From Adam to Noah]] — Genesis 5, which supplies Noah's age, his three sons, and the idiom

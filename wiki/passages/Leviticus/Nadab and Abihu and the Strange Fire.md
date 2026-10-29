@@ -79,6 +79,8 @@ the tent, distinguish sacred and common and clean and unclean, and teach Israel 
 
 ## Cross-references
 
+- [[Distinguishing and Teaching - Leviticus 10 and 11]] — Leviticus 10:1–11 compared with Leviticus 11.
+
 - [[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]] — adjacent acts of divine fire.
 - [[Strange Incense - Exodus 30.9, Leviticus 10, Numbers 16, and Uzziah]] — unauthorized approach.
 - [[As God Commanded, So He Did - The Obedience Formula]] — command and its absence.

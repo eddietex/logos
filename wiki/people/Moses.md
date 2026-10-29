@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+Moses receives the animal laws together with Aaron and is charged to speak them to Israel
+(11:1–2). The mediation of law now reaches ordinary eating and household impurity.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 **The deliverer, lawgiver, and prophet of Israel — and, at his first appearance, a baby in a basket
 whom no one in the scene but an Egyptian princess names.** He is the central human figure of
 Exodus through Deuteronomy, and this page grows pericope by pericope as Exodus is ingested. What is
@@ -831,6 +838,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Moses rebukes the burning of the goat, then accepts Aaron's answer.
 

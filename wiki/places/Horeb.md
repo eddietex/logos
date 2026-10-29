@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Clean and unclean animals — Leviticus 11:1–47
+
+In the book's continuing Sinai setting, Leviticus 11 addresses food and carcass distinctions
+to Israel through Moses and Aaron. The mountain is not named in this chapter.
+
+See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
+
 **The mountain where God speaks from the burning bush — named *"God's mountain"* by the narrator before
 anything has happened on it** (Exodus 3:1). *Ḥōrēb* probably means *dry place* or *waste*, from
 *ḥārēb*, *to be dry*; it lies *"at the back of the wilderness"* — *ʾaḥar hammidbār*, behind or west
@@ -344,6 +351,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; continuing setting, not explicitly named.
 

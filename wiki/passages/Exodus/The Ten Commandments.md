@@ -113,6 +113,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 20:1–3 compared with Leviticus 11.
+
 - [[A Time for Every Purpose]] — Ecclesiastes 3:14 also connects God’s action with fear; its
   catalogue of times is not an exemption from Exodus 20:13. See
   [[The Fear of the Lord Is Wisdom - Job 28.28 and the Wisdom Motto]] .

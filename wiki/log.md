@@ -19833,3 +19833,31 @@ in stored Leviticus 6:16, 24–30; 7:6, 31–34; 8:14–17; 9:8–21 and Exodus 
 unstored-book quotation or Hebrew/Greek assertion was introduced.
 
 Counts by frontmatter: 243 passages, 195 people, 104 places, 85 themes, 551 connections.
+
+## [2026-10-29] ingest | Leviticus 11.1-47 — Clean and Unclean Animals
+
+Ingested exactly one planned unit in unattended mode, with discussion incorporated into
+[[Clean and Unclean Animals]]. Retained the chapter boundary. Food criteria, carcass
+handling, household objects, water and seed exceptions, and the holiness/exodus rationale
+are distinguished. WEB animal names are retained without claiming verified zoological
+identifications or exact Hebrew wording.
+
+Created the passage and three connections:
+[[Food for Noah and Food for Israel - Genesis 9 and Leviticus 11]],
+[[Delivered to Be Holy - Exodus 19 and Leviticus 11]], and
+[[Distinguishing and Teaching - Leviticus 10 and 11]]. Revised six earlier passages for
+reciprocal references, three people, two places, six themes, and the book overview/queue.
+Generic waters receive no place pages; Sinai is contextual and Egypt explicitly recalled.
+No new person, place, or theme was needed.
+
+Explicitly retained the difference between Genesis 9's broad permission and Israel's
+restricted diet, and between Leviticus 5:2–6's guilt/confession/offering and chapter 11's
+washing/waiting procedures. Neither relationship is resolved by an unstated rule.
+
+Sources: stored WEB Leviticus 11, with comparisons checked in stored Genesis 7:1–9;
+9:1–9; Exodus 19:1–9; 20:1–9; 22:31; Leviticus 5:1–6; 7:19–21; 10:1–20.
+No raw files changed, external quotations introduced, or source-language claims added.
+Category rows and frontmatter-based counts updated: 244 passages, 195 people, 104 places,
+85 themes, 554 connections; Leviticus 17/44. Four pages created and 26 existing pages
+revised including indexes and this log. Link check passed with 59 expected unstarted-book
+targets and no findings. No operational blocker or deliberately dangling link remains.
