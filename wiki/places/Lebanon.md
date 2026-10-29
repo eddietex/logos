@@ -27,7 +27,7 @@ Lebanon"* on *"four rows of cedar pillars"* (1 Kings 7:2). Both were checked at 
 11, 15; 5:15; and 7:4. Later, it becomes a place the bride is called away from (*"Come with me from
 Lebanon, my bride"*, 4:8), a fragrance (4:11), a source of streams (4:15), a picture of the man's
 appearance, *"excellent as the cedars"* (5:15), and a tower *"which looks toward Damascus"* (7:4).
-These are recorded here from the stored text and will be described as each unit is ingested.
+These uses are now represented by the ingested passage pages below.
 
 **Three times in [[A Garden Locked and Opened]].** *"Come with me from Lebanon, my bride, with me from
 Lebanon"* (4:8): the bride is called down from it, with Amana, Senir, and Hermon, *"from the lions'
@@ -49,6 +49,12 @@ cedars (Song of Solomon 5:15). After supplying carriage wood, fragrance, and str
 3:9 and 4:11, 15, the landscape now supplies an image for the man himself. This is a
 comparison, not a journey or a statement about his birthplace. Source: stored WEB Song 5:15.
 
+In [[Return, Return, Shulammite]]: The woman's nose is likened to the tower of Lebanon looking toward [[Damascus]]
+(Song 7:4). Lebanon has supplied timber, fragrance, water, and the man's appearance;
+here it supplies an architectural image. No particular tower is securely located by
+the verse, and no journey to Lebanon is narrated.
+Source: stored WEB Song of Solomon 6:11–7:9.
+
 ## Appears in
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:9; the wood of Solomon's carriage.
@@ -56,11 +62,13 @@ comparison, not a journey or a statement about his birthplace. Source: stored WE
   the garden's streams.
 - [[Altogether Lovely]] — Song of Solomon 5:15; a comparison for his appearance.
 
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; comparison, not a scene location.
+
 ## Related places
 
 - [[Hermon]] and [[Amana]] — named with Lebanon at Song 4:8.
 - [[Sidon (city)]] — 1 Kings 5:6 says no one could cut timber *"like the Sidonians"*.
-- [[Damascus]] — the tower of Lebanon *"looks toward Damascus"* (Song 7:4, not yet ingested).
+- [[Damascus]] — the tower of Lebanon *"looks toward Damascus"* (Song 7:4; now ingested in [[Return, Return, Shulammite]]).
 - [[Jerusalem]] — where Lebanon's timber went, for the temple and palaces of 1 Kings.
 
 ## Events here

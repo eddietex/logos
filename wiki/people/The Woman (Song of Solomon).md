@@ -1,6 +1,6 @@
 ---
 type: person
-also_known_as: []
+also_known_as: [Shulammite]
 tags: [person]
 ---
 # The Woman (Song of Solomon)
@@ -120,6 +120,12 @@ compatible with this description. The morning, moon, and sun comparisons (6:10) 
 narrate a change in the complexion she described at 1:5–6. She has no clearly assigned
 speech here. Source: stored WEB Song of Solomon 1:5–6; 6:4–10.
 
+In [[Return, Return, Shulammite]], she is addressed as Shulammite and prince's daughter, and praised from feet to head
+(6:13–7:5). Her body becomes a palm tree and its fruit (7:7–8). The turn to my beloved
+in 7:9 may be her answer within the wine image, but the WEB marks no speaker change.
+Neither the title nor the royal address establishes a historical identity or parentage.
+Source: stored WEB Song of Solomon 6:11–7:9.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -144,6 +150,8 @@ speech here. Source: stored WEB Song of Solomon 1:5–6; 6:4–10.
   destination, and renews mutual belonging.
 - Song of Solomon 6:4–10 — praised as unique; other women call her blessed.
 
+- Song of Solomon 6:11–7:9 — addressed as Shulammite and praised; possible answer in 7:9.
+
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
@@ -158,6 +166,8 @@ speech here. Source: stored WEB Song of Solomon 1:5–6; 6:4–10.
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; the only speaker.
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; praised as unique; other women call her blessed.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
 
 ## Related people
 

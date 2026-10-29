@@ -353,6 +353,14 @@ Solomon's reign or settle the male beloved's historical identity.
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### A king captive in her hair — Song of Solomon 6:11–7:9
+
+Royal chariots (6:12), prince's daughter (7:1), and a king captive in her tresses
+(7:5) bring royal language into desire. Neither a named father nor the identification
+of the man with Solomon follows. The captivity is a poetic image of attraction.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:6–11; Solomon's carriage, guard, and crown.
@@ -545,6 +553,8 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:21–22; The king feared with Yahweh; the destruction from them both.
 - [[The Glory of Kings]] — Proverbs 25:1–7, 15; The searching king, his unsearchable heart, the throne purified, the courtier's place.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; queens and concubines as a scale of praise.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; a king captive in her hair.
 
 ## Related themes
 

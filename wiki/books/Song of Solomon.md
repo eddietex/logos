@@ -90,8 +90,14 @@ concubines, and innumerable virgins she is his unique dove, her mother's only da
 and praised by other women. Morning, moon, and sun complete the description. The royal
 women are not explicitly his own, and the speaker of the closing question is uncertain.
 
+[[Return, Return, Shulammite]] moves from a grove and royal chariots to the summons to gaze
+at the Shulammite (6:11–13). Praise rises from her feet to her head, using crafted jewels,
+pools, towers, and Carmel, then turns to palm fruit and wine (7:1–9). The grove speaker
+and the possible change of voice within 7:9 remain uncertain; royal images do not
+identify the lovers historically.
+
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–6:10 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–7:9 is ingested; later references in this overview and plan describe the queue.
 
 ## Structure
 
@@ -120,7 +126,7 @@ merge, or reorder them freely.
 - [x] [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8
 - [x] [[Altogether Lovely]] — Song of Solomon 5:9–6:3
 - [x] [[My Dove Is Unique]] — Song of Solomon 6:4–10
-- [ ] Return, Return, Shulammite — Song of Solomon 6:11–7:9
+- [x] [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9
 - [ ] Come into the Fields, My Beloved — Song of Solomon 7:10–8:4
 - [ ] Love Is Strong as Death — Song of Solomon 8:5–7
 - [ ] Our Sister and My Own Vineyard — Song of Solomon 8:8–12
@@ -161,6 +167,11 @@ merge, or reorder them freely.
   [[Kingship and Empire]], [[War]], [[City and Civilization]], [[Light and Darkness]] —
   singular beloved, public praise, cities and an army, morning and heavenly lights (6:4–10).
 
+- [[Love]], [[Seeing and Being Seen]], [[Praise and Song]], [[Kingship and Empire]],
+  [[Names and Naming]], [[Work]], [[Wealth and Possessions]], [[City and Civilization]],
+  [[Joy and Enjoyment]] —
+  the summons to gaze, bodily praise, and desire (6:11–7:9).
+
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
@@ -185,6 +196,9 @@ merge, or reorder them freely.
   (6:4–10). The mother and royal women remain unnamed; the daughters' identification with
   the daughters of Jerusalem is possible, not explicit.
 
+- [[Return, Return, Shulammite]] addresses the woman as Shulammite; the lover praises her,
+  while the callers remain unidentified (6:13–7:9).
+
 ## Key places
 
 No geographical place is named in 1:1–4. The king's rooms are an interior without a
@@ -205,3 +219,6 @@ stated location; Jerusalem must not be supplied there from later verses.
   there too, and again for her garments' smell and the garden's streams (4:11, 15).
 - [[Tirzah (city)]] and [[Jerusalem]] — comparisons for beauty, not scene locations (6:4).
 - [[Gilead]] — the goats in the renewed hair comparison (6:5).
+
+- [[Mahanaim]], [[Heshbon]], [[Bathrabbim]], [[Lebanon]], [[Damascus]], and
+  [[Carmel (mountain)]] — dance and bodily comparisons (6:13; 7:4–5), not an itinerary.

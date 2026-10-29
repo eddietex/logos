@@ -165,6 +165,15 @@ Neither comparison sets the scene in one of them or identifies the unnamed searc
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### Pools, gate, and towers — Song of Solomon 6:11–7:9
+
+The pools of [[Heshbon]] by [[Bathrabbim]], the ivory tower, and the tower of
+[[Lebanon]] facing [[Damascus]] supply comparisons for beauty (7:4). Built places
+here serve admiration, in contrast to the danger of the city's watchmen in 5:7.
+The different uses remain distinct; no city becomes the established setting.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:7; the watchmen beat her and the keepers of the
@@ -209,6 +218,8 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
   brickmakers to find stubble. See [[Come, Let Us - Babel's Bricks and Pharaoh's]]
 - [[Wisdom Calls in the Street]] — Proverbs 1:20–21; Wisdom calls in the city's streets, squares, and gates
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; cities as measures of beauty.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; pools, gate, and towers.
 
 ## Related themes
 

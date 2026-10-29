@@ -102,6 +102,12 @@ Solomon is established. The speaker of the closing question (6:10) is uncertain:
 continue his praise or express the other women's admiration. Renewed speech does not
 supply a narrated reunion after 5:6. Source: stored WEB Song of Solomon 4:1–3; 5:6; 6:4–10.
 
+In [[Return, Return, Shulammite]], the WEB marks the reply about gazing at the Shulammite as Lover (6:13). The extended
+praise is understood as his: he admires her body and expresses his intention to climb
+the palm tree and take its fruit (7:1–8). The captive king of 7:5 is an image, not proof
+that this man is Solomon. The voice may change within 7:9; the English text leaves it unmarked.
+Source: stored WEB Song of Solomon 6:11–7:9.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -127,6 +133,8 @@ supply a narrated reunion after 5:6. Source: stored WEB Song of Solomon 4:1–3;
   silent throughout.
 - Song of Solomon 6:4–10 — renews praise; her eyes overcome him; royal identity remains unproved.
 
+- Song of Solomon 6:11–7:9 — questions the gaze and voices admiration and desire.
+
 ## Appears in
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
@@ -142,6 +150,8 @@ supply a narrated reunion after 5:6. Source: stored WEB Song of Solomon 4:1–3;
   5:6.
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; renews praise; her eyes overcome him; royal identity remains unproved.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
 
 ## Related people
 

@@ -11,6 +11,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
+| [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
 | [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] |
@@ -80,7 +81,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] | literary-parallel | Job 36:27–37:24 · Job 38:1–3 · Job 38:22–38 · Job 40:6, 9 · Job 9:17 · Job 28:26 |
 | [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]] | parallel | Exodus 27:20–21 · Leviticus 24:1–4 · Exodus 25:31–40 · Exodus 26:35 · Exodus 30:7–8 |
 | [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 |
-| [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] | image thread | [[A Garden Locked and Opened]] (Song of Solomon 4:12–5:1) · [[The Garden of Eden]] (Genesis 2:8–10) · Genesis 3:16, 24 · [[The Trial of Pleasure]] (Ecclesiastes 2:5–6, 11) · Song of Solomon 6:2, 11; 7:10; 8:13 · [[Altogether Lovely]] |
+| [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] | image thread | [[A Garden Locked and Opened]] (Song of Solomon 4:12–5:1) · [[The Garden of Eden]] (Genesis 2:8–10) · Genesis 3:16, 24 · [[The Trial of Pleasure]] (Ecclesiastes 2:5–6, 11) · Song of Solomon 6:2, 11; 7:10; 8:13 · [[Altogether Lovely]] · [[Return, Return, Shulammite]] (Song 6:11–7:9) |
 | [[A Garment and a Goat - Jacob Deceives and Is Deceived]] | parallel | Genesis 27:9, 15–16 · Genesis 37:31–33 · Genesis 38:14, 17, 20 · Genesis 3:21 · Genesis 39:12 · Genesis 44:1–13 |
 | [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 · Genesis 45:22, 27 |
 | [[The Garments Commanded and Made - Exodus 28 and 39]] | command-and-performance | Exodus 28:1–43 · Exodus 29:4–9, 21, 29–30 · Exodus 35:19–27 · [[The Priestly Garments Made]] (Exodus 39:1–31) · [[The Work Completed]] (Exodus 39:32–43) |

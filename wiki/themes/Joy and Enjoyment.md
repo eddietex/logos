@@ -222,6 +222,14 @@ vanity, as the Preacher's parks were in Ecclesiastes 2:5–11; it is the end of 
 See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:8–5:1; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Love for delights — Song of Solomon 6:11–7:9
+
+The affirmation of beauty and delight (7:6) leads into fruit, apples, and fine wine
+(7:7–9). Enjoyment is bodily and sensory. The possible change of voice in 7:9 may
+make the wine image an exchange; the stored WEB does not mark the handoff.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; honey, wine, and milk, and *"Eat, friends! Drink"*.
@@ -263,6 +271,8 @@ See [[A Garden Locked and Opened]]. Source: stored WEB Song of Solomon 4:8–5:1
 
 - [[The Trial of Pleasure]] — Ecclesiastes 2:1–3, 10–11; Mirth tested under wisdom's guidance;
   joy real and a portion, yet no profit.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; love for delights.
 
 ## Related themes
 

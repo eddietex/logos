@@ -270,6 +270,15 @@ question remains uncertain in the stored WEB.
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### Return so that we may gaze — Song of Solomon 6:11–7:9
+
+The callers want the Shulammite back to gaze at her (6:13); the Lover's reply asks
+why. This stands beside her objection to staring in 1:6 and the lover's delighted
+contemplation in 7:1–5. The tension is retained: different looks and voices cannot
+be collapsed into a universal entitlement to look.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -588,6 +597,8 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - [[Thirty Excellent Things]] — Proverbs 23:5–6; Eyes set on what is not; the stingy eye.
 - [[Do Not Envy Sinners]] — Proverbs 23:26, 29, 31, 33; Eyes kept in the father's ways, wine looked at, bloodshot eyes, strange sights.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; eyes that overcome and onlookers who praise.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; return so that we may gaze.
 
 ## Related themes
 

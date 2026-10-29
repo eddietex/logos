@@ -13,6 +13,8 @@ tags: [connection]
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:12; 2:4–5.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:10–11; 5:1.
 
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
+
 ## Analysis
 
 Song 1:2 and 1:4 value the beloved's love above wine, while 1:3 moves through fragrance
@@ -52,6 +54,16 @@ meal. Hebrew of Song 1:2–3; 4:10; 5:1 read from Sefaria's *Miqra according to 
 Sources: stored WEB Song of Solomon 1:1–4, 12; 2:4–5; 4:10–11; 5:1; Proverbs 5:15–20; Ecclesiastes 9:7–9.
 Comparison prose paraphrases those verified texts; no unstored source is quoted.
 Hebrew of Song 2:4 read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
+
+In [[Return, Return, Shulammite]], the body is pictured through a goblet and wine,
+wheat and lilies (7:2); the lover's desire then moves through palm fruit, vine clusters,
+apple fragrance, and the best wine (7:7–9). The mouth becomes wine rather than merely
+being ranked above it. The shift to my beloved in 7:9 may let the woman answer within
+the image, but the stored WEB marks no change of speaker. The earlier contrast with
+Proverbs and Ecclesiastes remains: no new wedding or moral biography is supplied.
+
+Source for this addition: stored WEB Song 6:11–7:9 and the Song comparisons cited above.
+No new source-language claim is made.
 
 ## Significance
 

@@ -92,6 +92,14 @@ of blessing and praise while evaluating beauty differently; see
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### The upward description — Song of Solomon 6:11–7:9
+
+The praise rises from feet in sandals to head and hair (7:1–5), reversing the broad
+direction of 4:1–5. Dance enters as a comparison at 6:13, without enough detail to
+reconstruct a performance or ritual. Praise here celebrates the beloved's beauty.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; extended praise of the beloved in answer to a question.
@@ -104,6 +112,8 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - Genesis 31:27 — the songs and tambourine Laban says he would have given — [[Jacob's Flight from Laban]]
 - Exodus 15:1–21 — the Song of the Sea and Miriam's refrain — [[The Song of the Sea]]
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; the women praised her.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; the upward description.
 
 ## Related themes
 - [[The Fear of God]] — *"fearful in praises"*

@@ -413,6 +413,14 @@ marital history. The praise continues after the assurance of 6:3 without narrati
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### Desire expressed through a body — Song of Solomon 6:11–7:9
+
+Praise moves into a stated wish to take the palm tree's fruit (7:7–8), followed by
+breath and mouth described through apples and wine. Desire is voiced rather than
+condemned, but intentions are not automatically narrated accomplishments.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; beloved and friend; renewed reciprocal belonging.
@@ -532,6 +540,8 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - [[Do Not Envy Sinners]] — Proverbs 23:15–16, 24–26; A father's and mother's gladness, and *"give me your heart"*.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:5–6, 9–10, 17; Open rebuke, a friend's wounds, the father's friend, iron sharpening iron.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; one beloved among many.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; desire expressed through a body.
 
 ## Related themes
 

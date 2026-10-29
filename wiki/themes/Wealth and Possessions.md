@@ -631,6 +631,14 @@ The terms follow the stored WEB; no identification of ancient mineral names is a
 
 See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 
+### Jewels and ivory as admiration — Song of Solomon 6:11–7:9
+
+Jewels (7:1), ivory (7:4), and purple (7:5) continue the costly comparisons used of
+the man in 5:10–16. These images express value without making the beloved property
+or establishing either lover's actual wealth.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; precious materials as bodily imagery, not possessions.
@@ -904,6 +912,8 @@ See [[Altogether Lovely]]. Source: stored WEB Song of Solomon 5:9–6:3.
 - [[Do Not Envy Sinners]] — Proverbs 23:21, 23; The drunkard's poverty, and truth as the thing not to sell.
 - [[The Field of the Sluggard]] — Proverbs 24:34; Poverty arriving as a robber.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:13, 23–27; Collateral for a stranger; riches not forever; the flock that clothes and feeds.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; jewels and ivory as admiration.
 
 ## Related themes
 

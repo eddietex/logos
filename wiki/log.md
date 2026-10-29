@@ -19201,3 +19201,58 @@ or Greek claim is introduced; existing source-language discussions retain their 
 attribution and the additions identify their English-text scope. The title is unique,
 category row membership and filing were checked, and counts match the book checklist and
 dashboard. No raw text, schema, skill instruction, or controller file was changed.
+
+## [2026-10-28] ingest | Song of Solomon 6.11-7.9 — Return, Return, Shulammite
+
+Unattended `/ingest auto`, executed by Codex from the canonical ingest skill. The first
+unchecked unit in the first in-progress book was 6:11–7:9. The planned boundary is
+retained; the passage page carries the discussion, including the grove, the summons to
+gaze, the upward body description, and the move from admiration to touch and taste.
+
+**Interpretive decisions.** The grove speaker remains unidentified; the WEB's royal
+chariot wording is retained without introducing abduction or a personal name from
+another translation. The Lover cue in 6:13 is preserved, and the possible change of
+voice within 7:9 is qualified where discussed. Shulammite becomes an alternative
+designation on the existing woman's role page, not a new historical person. Prince's
+daughter and the captive king do not establish royal parentage or identify Solomon.
+The callers may be the daughters of Jerusalem but are not named. Neither the dance
+nor the geographical similes establish an itinerary or a reconstructable performance.
+The tension between the objection to staring in 1:6 and the summons to gaze in 6:13 is
+explicitly retained. No pericope boundary was redrawn.
+
+**Created (5 content pages):** [[Return, Return, Shulammite]], with all twelve WEB verses;
+[[Heshbon]], [[Bathrabbim]], [[Carmel (mountain)]]; and
+[[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]]. Carmel takes a
+mountain qualifier now to distinguish the town listed in Joshua 15:55; a future town
+page should use Carmel (town). The Song's mountain identification is stated as likely,
+not as an explicit word in 7:5. No dangling town link was created.
+
+**Revised (21 content pages):** [[Song of Solomon]]; [[The Woman (Song of Solomon)]],
+[[The Man (Song of Solomon)]], [[The Daughters of Jerusalem]]; [[Mahanaim]], [[Damascus]],
+[[Lebanon]]; nine themes ([[Love]], [[Seeing and Being Seen]], [[Praise and Song]],
+[[Kingship and Empire]], [[Names and Naming]], [[Work]], [[Wealth and Possessions]],
+[[City and Civilization]], [[Joy and Enjoyment]]); four existing connections (the
+repeated body descriptions, locked garden, wine and love, and Pharaoh's chariots);
+and [[Wrestling at the Jabbok]] with the reciprocal Mahanaim connection. The Mahanaim
+page's quotation of Genesis 32:2 was corrected from its earlier camp wording to the
+stored WEB's army wording, with the correction made explicit. No new source-language
+claim was introduced. The new connection records a shared English place name without
+asserting an angelic dance or deliberate allusion.
+
+**Indexes and totals.** Ten indexes revised: books, main dashboard, places, themes,
+People A-E, F-M, N-Z, and Connections D-H, O-S, T-Z. Song of Solomon is now 12 / 16
+pericopes, still in progress. Totals counted by frontmatter type: 223 passages,
+191 people, 103 places, 85 themes, 533 connections; 6 books started, 5 complete.
+Including this log, 37 wiki files were created or revised: 5 new content pages,
+21 revised content pages, 10 indexes, and the log.
+
+**Sources and validation.** All twelve passage quotations were compared mechanically
+against the stored WEB Song. Internal comparisons use the stored Song and Genesis
+32:1–2. Single-verse bible-api.com WEB requests verified Numbers 21:26 for Heshbon,
+1 Kings 18:19 for Mount Carmel, and Joshua 15:55 for the town; the web reader could
+not open those URLs, but direct API requests returned the identified WEB text.
+No external verse was quoted from memory, and no additional book was stored.
+Title uniqueness, touched category row membership and alphabetical filing, frontmatter
+counts, and the book checklist were checked. `scripts/link-check.sh` exits 0: no
+wrapped links or unexpected dangling targets; 60 unstarted book pages are the expected
+baseline. Raw texts, schema, skill instructions, and controller files were unchanged.

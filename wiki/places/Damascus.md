@@ -37,12 +37,19 @@ city, preaches in it, and is let down over its wall in a basket (Acts 9:23–25;
 11:32–33). Nothing in Genesis 14:15 points forward to that; the city simply keeps recurring at the
 edges of Israel's story from the first chase to the last conversion.
 
+In [[Return, Return, Shulammite]]: The tower of Lebanon looks toward Damascus in the comparison for the woman's nose
+(Song 7:4). The city supplies a direction for a poetic image; no visit or military
+movement is narrated. [[Lebanon]] is now linked to Damascus through this comparison.
+Source: stored WEB Song of Solomon 6:11–7:9.
+
 ## Appears in
 
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:15; the landmark for Hobah, and the far end of
   Abram's pursuit
 - [[The Covenant Between the Pieces]] — Genesis 15:2; the city of Eliezer, Abram's steward and, until
   God removes him two verses later, his heir
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; comparison, not a scene location.
 
 ## Related places
 

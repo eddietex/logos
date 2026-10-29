@@ -12,7 +12,7 @@ tags: [connection]
 - **Song of Solomon 6:4–7** — [[My Dove Is Unique]] — *"Your hair is like a flock of goats,
   that lie along the side of Gilead. Your teeth are like a flock of ewes, which have come up from the
   washing"* (6:5–6).
-- **Song of Solomon 7:1–5** *(stored WEB, not yet ingested; Hebrew 7:2–6)* — a description from the
+- **Song of Solomon 7:1–5** — [[Return, Return, Shulammite]] — a description from the
   feet up, which repeats *"Your two breasts are like two fawns, that are twins of a roe"* (7:3).
 - **Song of Solomon 5:10–16** — [[Altogether Lovely]] — the woman's description of the man,
   ending *"he is altogether lovely"* (5:16).
@@ -21,6 +21,8 @@ tags: [connection]
 
 Hebrew of Song 1:15; 4:1–7; 6:5–7; and 7:4 (MT) read from Sefaria's *Miqra according to the
 Masorah*, 2026-10-28.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
 
 ## Analysis
 
@@ -48,7 +50,7 @@ overpower him. The lips and the neck of 4:3–4 are not repeated.
 ṣǝḇiyyâ* is 4:5 without its last words, *hārôʿîm baššôšannîm*, *feeding among the lilies*. In 7:2 the
 lilies appear elsewhere, around *"a heap of wheat"*. Like 4:4, 7:4 compares her neck to a tower, but an
 ivory tower, not David's tower hung with shields. The description in chapter 7 begins from the feet,
-the reverse of chapter 4. 7:1–5 is not yet ingested, and this page does not settle who speaks there.
+the reverse of chapter 4. 7:1–5 is now ingested; the passage page distinguishes likely voices from explicit labels.
 
 **His description and hers.** The woman's description of the man (5:10–16) ends with *"he is
 altogether lovely"*. That is a different summary from the man's *"You are all beautiful"* (4:7), but
@@ -68,6 +70,16 @@ unique dove, and other women's admiration (6:4–10). The army-with-banners comp
 moves outward to public recognition. The eye's effect also recalls 4:9 in
 [[A Garden Locked and Opened]]. Source for this addition: stored WEB Song 4:1–9; 6:4–10;
 no new source-language claim.
+
+The third description is now ingested in [[Return, Return, Shulammite]]. It rises
+from feet to head (7:1–5), then moves into palm, fruit, fragrance, and wine (7:6–9).
+Twin fawns and a tower recur from chapter 4; the eyes are pools and the hair holds a
+king captive. The admiration affects the observer, as her glance did at 4:9 and 6:5.
+The WEB's Lover cue at 6:13 supports the lover's voice, but does not conclusively label
+every subsequent line; the turn to my beloved in 7:9 may mark the woman's response.
+
+Source for this addition: stored WEB Song 6:11–7:9 and the Song comparisons cited above.
+No new source-language claim is made.
 
 ## Significance
 

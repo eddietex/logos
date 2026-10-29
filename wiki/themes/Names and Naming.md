@@ -154,6 +154,14 @@ See [[Love Better Than Wine]]; comparisons are developed in
 [[A Good Name - Proverbs 22.1 and Ecclesiastes 7.1]].
 Source: stored WEB Song of Solomon 1:1–4 and the comparison references on those pages.
 
+### Shulammite without a biography — Song of Solomon 6:11–7:9
+
+Shulammite designates the woman at 6:13, but the poem does not explain the designation.
+It is recorded as an alternative designation on [[The Woman (Song of Solomon)]],
+without asserting an etymology, a hometown, or a historical identification.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
@@ -317,6 +325,8 @@ Source: stored WEB Song of Solomon 1:1–4 and the comparison references on thos
 - [[The Priestly Garments]] — Exodus 28:1–43; the tribes' names engraved on stones, and *"HOLY TO YAHWEH"* on the forehead.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Tribal names engraved in stones; Yahweh named on the crown.
 - [[A Good Name]] — Proverbs 22:1; A good name above riches.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; shulammite without a biography.
 
 ## Related themes
 

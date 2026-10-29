@@ -52,7 +52,7 @@ The name connects them with [[Jerusalem]] without saying they live in the city i
 particular scene. The Song makes them an audience and, at times, a chorus. It does not say
 whether they are friends, attendants, or rivals, and the page does not decide.
 
-Source: stored WEB Song of Solomon, read for the queue; only 1:1–6:10 is ingested.
+Source: stored WEB Song of Solomon, read for the queue; only 1:1–7:9 is ingested.
 
 In [[Altogether Lovely]] the questioners ask how her beloved differs from another and why she
 adjures them (5:9). After her description ends in an address to the daughters themselves
@@ -68,6 +68,12 @@ of Jerusalem is absent here, so the identification remains conditional. The admi
 question of 6:10 may voice these women's praise or continue the man's speech. Neither
 assignment is specified by a WEB speaker label. The unit does not identify all the
 queens, concubines, or virgins with this audience. Source: stored WEB Song of Solomon 6:4–10.
+
+In [[Return, Return, Shulammite]], the callers who ask the Shulammite to return so that they may gaze at her (6:13) may
+be the recurring audience, but neither daughters nor Jerusalem is named here. Their
+identification remains conditional. The WEB assigns the answering question to Lover;
+this is not a securely identified new action by the daughters.
+Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Timeline / key events
 
@@ -85,6 +91,8 @@ queens, concubines, or virgins with this audience. Source: stored WEB Song of So
   to help seek him (5:9, 16; 6:1).
 - Song of Solomon 6:4–10 — possible presence only; daughters and questioners are not explicitly identified.
 
+- Song of Solomon 6:11–7:9 — possible callers in 6:13; not explicitly named.
+
 ## Appears in
 
 - [[Dark and Lovely]] — Song of Solomon 1:5–8; addressed in 1:5, and possibly the voices of 1:8.
@@ -95,6 +103,8 @@ queens, concubines, or virgins with this audience. Source: stored WEB Song of So
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–8; adjured in 5:8 to carry her message.
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; possible presence only; daughters and questioners are not explicitly identified.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; possible audience only.
 
 ## Related people
 

@@ -17,10 +17,12 @@ tags: [connection]
   garden."*
 - [[The Trial of Pleasure]] — Ecclesiastes 2:5–6: *"I made myself gardens and parks, and I planted
   trees in them of all kinds of fruit. I made myself pools of water."*
-- Song of Solomon 6:11; 8:13 *(stored WEB, not yet ingested)* — the nut tree grove (6:11);
+- Song of Solomon 8:13 *(stored WEB, not yet ingested)* —
   *"You who dwell in the gardens"* (8:13).
 - Song of Solomon 7:10 *(stored WEB, not yet ingested)* — *"I am my beloved's. His desire is toward
   me"*, beside Genesis 3:16; see [[Desire and Rule - Genesis 3.16 and 4.7]].
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
 
 ## Analysis
 
@@ -66,6 +68,15 @@ compared the woman to a garden, the return can suggest renewed intimacy. It does
 establish a literal location, another woman, or an account of how he was found. The
 singular and plural gardens are both retained rather than harmonized into a map.
 Source for this addition: stored WEB Song 4:12, 16; 5:1, 6; 6:1–3.
+
+The nut tree grove in [[Return, Return, Shulammite]] brings the garden motif into
+another descent and inspection of vines and pomegranates (6:11). The plant growth
+recalls the spring invitation of 2:13 and the orchard of 4:13. Unlike 4:12, 6:11 does
+not explicitly equate the grove with the woman. Neither the speaker's identity nor
+the grove's geography is established; no new literal location or second beloved is inferred.
+
+Source for this addition: stored WEB Song 6:11–7:9 and the Song comparisons cited above.
+No new source-language claim is made.
 
 ## Significance
 

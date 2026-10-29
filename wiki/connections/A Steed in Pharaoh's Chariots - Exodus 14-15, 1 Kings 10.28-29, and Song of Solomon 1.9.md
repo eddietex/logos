@@ -19,6 +19,8 @@ tags: [connection]
 - **Song of Solomon 1:9** — [[Delight and the Unawakened Love]]: *"I have compared you, my
   love, to a steed in Pharaoh's chariots."*
 
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9.
+
 ## Analysis
 
 **One image, three uses.** In Exodus, Pharaoh's horses and chariots are the strength of the
@@ -44,6 +46,15 @@ is made here about the Hebrew of Exodus, Deuteronomy, or 1 Kings.
 hear irony: the king who multiplied Egyptian horses praised for comparing his love to one. The
 text gives no sign of irony, and the wiki does not adopt the reading. It is recorded only
 because the three verses do sit side by side.
+
+Royal chariots recur in [[Return, Return, Shulammite]] (6:12). The stored WEB connects
+them with the speaker's desire and an unanticipated situation. Unlike 1:9, this verse
+names neither Pharaoh nor a horse; it does not describe pursuit or battle. The recurring
+royal image is worth retaining without turning the obscure transition into an exodus
+allusion, an abduction narrative, or a securely identified journey by Solomon.
+
+Source for this addition: stored WEB Song 6:11–7:9 and the Song comparisons cited above.
+No new source-language claim is made.
 
 ## Significance
 

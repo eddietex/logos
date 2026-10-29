@@ -576,6 +576,14 @@ passage page records both readings. See
 
 See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17; Leviticus 25:3–4 checked at bible-api.com (`translation=web`).
 
+### The hands of a skillful workman — Song of Solomon 6:11–7:9
+
+Her rounded thighs are compared to jewels made by a skillful workman (7:1). Craft
+provides a positive measure of form and beauty, not an account of her manufacture.
+The grove inspection at 6:11 observes growth without explicitly describing labor.
+
+See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
+
 ## Key passages
 
 - [[Rise Up, My Love]] — Song of Solomon 2:15–16; vineyards in blossom guarded from foxes, and the beloved browsing among the lilies.
@@ -807,6 +815,8 @@ See [[Rise Up, My Love]]. Source: stored WEB Song of Solomon 2:8–17; Leviticus
 - [[The Field of the Sluggard]] — Proverbs 24:27, 30–34; The field readied before the house; the sluggard's vineyard gone to thorns.
 - [[Answer a Fool]] — Proverbs 26:13–16; The sluggard's lion, his hinge, his dish, and his opinion of himself.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:18, 23–27; The fig-tree keeper, the servant honoured, the herdsman who knows his flock.
+
+- [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; the hands of a skillful workman.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15
