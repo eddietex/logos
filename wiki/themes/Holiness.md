@@ -40,6 +40,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Mildew in garments — Leviticus 13:47–59
+
+Ordinary wool, linen, and skins are subject to purity rulings. They are not thereby
+called holy; burning an unclean article is disposal, not a prescribed altar sacrifice.
+This extends the broader distinction-making commission of 10:10 into material life.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The mother must neither touch a holy thing nor enter the sanctuary until the days of
@@ -355,6 +363,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Mildew in garments — Leviticus 13:47–59
+
+The speech introduced at 13:1 continues into rules for affected textiles and skins.
+Divine instruction provides both destruction and a route to cleanness, according to
+the observed condition; it names no offense by the owner.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 Yahweh addresses Moses and Aaron together and gives criteria for priestly decisions about
@@ -2825,6 +2833,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 

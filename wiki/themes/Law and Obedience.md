@@ -40,6 +40,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Mildew in garments — Leviticus 13:47–59
+
+The garment law differentiates first inspection, seven-day observation, washing and
+a second observation, removal, destruction, and final washing. Lack of spread is not
+sufficient for cleanness when the stain remains unchanged (55).
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 The law differentiates skin eruptions, lesions after boils and burns, head or beard
@@ -603,6 +611,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 

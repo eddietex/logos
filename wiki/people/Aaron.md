@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Mildew in garments — Leviticus 13:47–59
+
+The continuing speech addressed to Aaron and Moses (13:1) assigns garment inspection
+to the priest. Aaron is not named in 13:47–59 and no personal action is narrated;
+the connection is to the office he holds.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 Aaron receives the instruction with Moses and is explicitly named as an examiner,
@@ -469,6 +477,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 

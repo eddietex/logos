@@ -19922,3 +19922,29 @@ or source-language claim was added. Raw texts and workflow instructions were unc
 Link check passed: no wrapped links or unexpected dangling targets; 59 expected unstarted
 book links. Authored by Codex. No ingestion blocker; inherited lexical claims remain the
 explicitly marked source-verification limitation above.
+
+
+## [2026-10-29] ingest | Leviticus 13.47-59 — Mildew in Garments
+
+Ingested [[Mildew in Garments]] in unattended mode with the planned boundary unchanged.
+Created the passage and [[Skin and Garments - Examination and Cleanness in Leviticus 13]]
+(2 new pages). Revised 12 existing content pages: Leviticus, the skin and animal passages,
+God, Moses, Aaron, Horeb, Clean and Unclean, Priesthood, Law and Obedience, Holiness, and
+Distinguishing and Teaching. Updated 8 index/dashboard pages and this log (21 revised pages).
+Leviticus is now 20/44 pericopes. Frontmatter totals: 247 passages, 195 people, 104 places,
+85 themes, 557 connections; 7 books started, 6 complete.
+
+Preserved the distinction between spread and persistent discoloration: unchanged color
+can require burning even without spread, whereas cleared material can be washed again
+and pronounced clean. Compared the skin and garment procedures without transferring the
+rules for destroying objects to persons. No moral offense by the owner or sacrificial
+meaning for disposal is supplied. No named inspector or new place is introduced; Moses
+and Aaron are contextual recipients from 13:1, and Horeb is the broader Sinai setting.
+The title follows the WEB and the queue; no modern organism identification is asserted.
+
+Source: stored WEB Leviticus 13:1–59, with comparisons checked in 7:38; 10:10–11;
+11:32–33, 47. Key verses copied directly from raw. No new external Bible quotations or
+exact source-language claims were introduced. Raw texts and workflow instructions unchanged.
+Link check passed with no wrapped links or unexpected dangling targets; 59 unstarted book
+pages are the expected baseline. No duplicate non-index titles found. Authored by Codex.
+No unresolved issue for this ingest.

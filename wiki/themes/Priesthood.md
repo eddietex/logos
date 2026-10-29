@@ -34,6 +34,14 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Mildew in garments — Leviticus 13:47–59
+
+The priest examines affected articles, orders washing and isolation, and assesses
+spread, persistence, fading, and recurrence. His discriminating role extends beyond
+bodies to possessions; the unit prescribes no sacrifice or atonement rite.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 The priest examines depth, hair, raw flesh, and spread, sometimes after one or two
@@ -323,6 +331,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 

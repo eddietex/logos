@@ -95,6 +95,10 @@ Leviticus 13:1–46 now regulates priestly skin examinations, observation period
 verdicts, and residence outside the camp. It distinguishes ritual status without naming
 an offense as the cause of each condition. See [[Examining Diseases of the Skin]].
 
+Leviticus 13:47–59 extends examination to textiles and skins: spread or persistent
+discoloration can require burning, while cleared material receives a second washing.
+See [[Mildew in Garments]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -130,7 +134,7 @@ merge, or reorder them freely.
 - [x] [[Clean and Unclean Animals]] — Leviticus 11:1–47
 - [x] [[Purification After Childbirth]] — Leviticus 12:1–8
 - [x] [[Examining Diseases of the Skin]] — Leviticus 13:1–46
-- [ ] Mildew in Garments — Leviticus 13:47–59
+- [x] [[Mildew in Garments]] — Leviticus 13:47–59
 - [ ] The Cleansing of the Leper — Leviticus 14:1–32
 - [ ] Mildew in a House — Leviticus 14:33–57
 - [ ] Bodily Discharges and Cleansing — Leviticus 15:1–33

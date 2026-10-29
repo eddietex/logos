@@ -56,6 +56,15 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Mildew in garments — Leviticus 13:47–59
+
+The distinction includes wool, linen, and skins. A persistent unchanged stain remains
+unclean even without spread (55), while an article cleared of the plague is washed again
+and becomes clean (58). No offense by its owner is specified. Ritual status is neither
+a verdict on personal character nor a modern identification of the material condition.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 Visible skin change does not automatically mean uncleanness: dull white spots and ordinary
@@ -296,6 +305,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 

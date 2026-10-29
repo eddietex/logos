@@ -70,6 +70,7 @@ his bringing Israel out of Egypt to be their God (44–47).
 - [[Redemption]] — the exodus grounds the call to belong to Yahweh.
 
 ## Cross-references
+- [[Mildew in Garments]] — Leviticus 13:47–59; distinct rules for affected material.
 
 - [[Food for Noah and Food for Israel - Genesis 9 and Leviticus 11]] — the broad
   permission to Noah and Israel's restricted diet.

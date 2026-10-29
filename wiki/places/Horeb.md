@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Mildew in garments — Leviticus 13:47–59
+
+The garment law belongs to the continuing Sinai setting recalled in 7:38. It names
+no mountain, settlement, or place for isolating the article; its handling rules should
+not be given a location the unit does not supply.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 The law belongs to Leviticus’s continuing Sinai setting (7:38), but names no mountain
@@ -365,6 +373,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46 (contextual setting).
 

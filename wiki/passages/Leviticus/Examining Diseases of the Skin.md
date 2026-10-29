@@ -70,6 +70,8 @@ outside the camp for as long as the plague remains.
 
 
 ## Cross-references
+- [[Skin and Garments - Examination and Cleanness in Leviticus 13]] — adjoining laws compared.
+- [[Mildew in Garments]] — Leviticus 13:47–59; distinct rules for affected material.
 - [[Distinguishing and Teaching - Leviticus 10 and 11]] — the charge to distinguish now
   receives detailed examination rules in chapter 13.
 - [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] — contrasting bodily signs and
@@ -111,4 +113,4 @@ in [[Torn Clothes and Loose Hair - Leviticus 10 and 13]].
 Key verses are copied verbatim from stored WEB in `raw/bible/Leviticus.md`. The full
 13:1–46 unit was read; comparisons with 10:6–11, 5:2–6, and 7:38 use the same stored
 source. No new Hebrew or Greek wording claim or external Bible quotation is introduced.
-The planned boundary is retained; garments begin the next unit at 13:47.
+The planned boundary is retained; [[Mildew in Garments]] covers 13:47–59.

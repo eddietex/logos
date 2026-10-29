@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Mildew in Garments]] — Leviticus 13:47–59; material objects.
+
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46; further application.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
@@ -33,6 +35,13 @@ Aaron or a priestly son examines signs, orders observation where needed, and pro
 clean or unclean. Unlike chapter 11’s household instructions, these decisions require
 priestly inspection. Pronouncement is not a described cure; changed signs can require a
 new examination. Source: stored WEB Leviticus 13:1–46.
+
+### Garments and skins — Leviticus 13:47–59
+
+[[Mildew in Garments]] extends priestly inspection to wool, linen, and skins. The concluding
+formula (59) explicitly gives clean and unclean pronouncement as the law’s purpose.
+Unlike carcass-contact washing and waiting until evening in 11:32, the garment-plague
+case requires inspection and can end in burning. Source: stored WEB passages cited.
 
 ## Significance
 

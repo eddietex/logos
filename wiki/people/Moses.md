@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Mildew in garments — Leviticus 13:47–59
+
+Moses remains a recipient of the speech opened at 13:1. The garment unit assigns
+inspection to the priest, not to Moses personally, and adds rules for material possessions.
+
+See [[Mildew in Garments]]. Source: stored WEB Leviticus 13:47–59; contextual references as noted.
+
 ### Examining skin conditions — Leviticus 13:1–46
 
 Moses receives the skin laws together with Aaron (1). Examination and pronouncement
@@ -853,6 +860,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Mildew in Garments]] — Leviticus 13:47–59.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 
