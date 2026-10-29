@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Mildew in a House]] — Leviticus 14:33–57.
+
 - [[Mildew in Garments]] — Leviticus 13:47–59; material objects.
 
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46; further application.
@@ -42,6 +44,14 @@ new examination. Source: stored WEB Leviticus 13:1–46.
 formula (59) explicitly gives clean and unclean pronouncement as the law’s purpose.
 Unlike carcass-contact washing and waiting until evening in 11:32, the garment-plague
 case requires inspection and can end in burning. Source: stored WEB passages cited.
+
+### Houses and the closing teaching formula — Leviticus 14:33–57
+
+[[Mildew in a House]] again opens with Moses and Aaron addressed together (33).
+The owner reports what appears to be a plague; priestly inspection supplies the ruling
+and directs repair or demolition. Verses 54–57 gather skin, garments, and houses into
+a teaching purpose: knowing when something is clean or unclean. This returns the
+individual procedures to the broader charge in 10:10–11. Source: stored WEB passages.
 
 ## Significance
 

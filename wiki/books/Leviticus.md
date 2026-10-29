@@ -103,6 +103,11 @@ Leviticus 14:1–32 supplies restoration after healing: examination outside camp
 return, and eighth-day blood, oil, and offerings, with a distinct provision for poverty.
 See [[The Cleansing of the Leper]].
 
+Leviticus 14:33–57 anticipates houses in Canaan: inspection, repair, demolition where
+required, and a bird rite ending in atonement and cleanness for the house. The closing
+formula gathers skin, garments, and houses as instruction about clean and unclean.
+See [[Mildew in a House]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -140,7 +145,7 @@ merge, or reorder them freely.
 - [x] [[Examining Diseases of the Skin]] — Leviticus 13:1–46
 - [x] [[Mildew in Garments]] — Leviticus 13:47–59
 - [x] [[The Cleansing of the Leper]] — Leviticus 14:1–32
-- [ ] Mildew in a House — Leviticus 14:33–57
+- [x] [[Mildew in a House]] — Leviticus 14:33–57
 - [ ] Bodily Discharges and Cleansing — Leviticus 15:1–33
 - [ ] The Day of Atonement — Leviticus 16:1–34
 - [ ] The Place of Sacrifice and the Life in the Blood — Leviticus 17:1–16

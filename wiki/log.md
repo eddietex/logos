@@ -19977,3 +19977,24 @@ against bible-api.com’s WEB response on 2026-10-29 and paraphrased in the conn
 unreached book was added to raw. No new exact Hebrew or Greek claim is made. Existing raw
 texts and workflow instructions are unchanged. Link checks clean, with 59 expected
 not-yet-started book targets excluded. No unresolved issue.
+
+## [2026-10-29] ingest | Leviticus 14.33-57 — Mildew in a House
+
+Ingested the next queued unit without changing its boundary. Created [[Mildew in a House]]
+and [[Birds and Cleansing - Persons and Houses in Leviticus 14]]. Revised three people
+(God, Moses, Aaron), two places (Canaan, Horeb), and nine themes, with synthesis and
+passage-list updates. Extended two existing connections about examination and teaching;
+added reciprocal references on the preceding garment and personal-cleansing passages.
+Updated Leviticus to 22/44, affected category rows, and frontmatter-based progress counts.
+
+The passage distinguishes initial report, inspection, repair, recurrence, demolition,
+and cleansing; it retains the explicit divine agency of 14:34 without inventing an
+owner’s offense. Atonement for the house qualifies any reduction of atonement to personal
+forgiveness. Canaan is prospective and Sinai contextual. Unnamed householder and priest
+remain legal roles rather than invented person pages. No new place or theme is needed.
+
+Sources: stored WEB Leviticus 14, with stored Leviticus 10 and 13 for comparisons;
+key verses copied directly. No unstored-book quotation, source-language assertion,
+modern diagnosis, or unsupported symbolic interpretation introduced. Raw texts and
+workflow instructions unchanged. Link checks passed with no wrapped links or unexpected
+dangling targets; 59 unstarted-book links remain the expected baseline.

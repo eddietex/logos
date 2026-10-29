@@ -40,6 +40,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+The purity framework extends to ordinary dwellings in the promised land (34–53).
+The house is pronounced clean, not consecrated as a sanctuary. Clean status and holy
+status must remain distinct even where priestly cleansing uses blood.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The trespass offering is most holy and belongs to the priest like the sin offering (13).
@@ -372,6 +380,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

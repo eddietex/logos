@@ -56,6 +56,15 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+A house can be unclean, repaired, condemned, or pronounced clean (37–48). Emptying it
+before inspection protects its contents from uncleanness (36). Entry during closure
+brings uncleanness until evening; lying down or eating also requires washing clothes
+(46–47). Cleanness after repair is followed by the prescribed bird rite (48–53).
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Healing precedes the priest’s cleansing rite (3). Cleanness and access unfold in stages:
@@ -315,6 +324,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

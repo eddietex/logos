@@ -34,6 +34,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+The owner reports a suspected plague; the priest examines and rules, orders seven-day
+closure, removal and replastering, and demolition if the plague returns and spreads
+(35–45). The conclusion frames these laws as teaching when something is unclean or
+clean (54–57), extending the commission of 10:10–11 to houses.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The priest goes outside the camp to inspect the healed person, pronounces cleanness, and later
@@ -340,6 +349,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

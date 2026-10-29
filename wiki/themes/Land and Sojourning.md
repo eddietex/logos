@@ -33,6 +33,15 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+Canaan is named as the possession Yahweh gives (34); the law anticipates settled
+houses and cities before entry is narrated. Possession does not exempt a dwelling
+from inspection, costly repair, or demolition. Gift of land and regulation of life
+in it stand together in this instruction.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 - **Genesis 11:31–32** — the first journey toward Canaan, undertaken by [[Terah]] with no command
   behind it, stopping at [[Haran (city)]]. He dies short of the land.
 - **Genesis 12:1, 5–9** — the command, the arrival, and the first promise of the land itself. Three
@@ -188,6 +197,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[A Gentle Answer]] — Proverbs 15:25.
 

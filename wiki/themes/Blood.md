@@ -37,6 +37,15 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+Blood from the slain bird, together with running water, cedar, scarlet, hyssop, and
+the living bird, is used to sprinkle the house seven times (49–53). The living bird
+is released outside the city. No altar application or bodily marking is prescribed
+in this house rite, unlike the eighth-day rites for a person in 14:14–29.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Bird blood is used with water, cedar, scarlet, and hyssop in the outside-camp rite (5–7).
@@ -286,6 +295,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

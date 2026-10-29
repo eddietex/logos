@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Houses in the promised land — Leviticus 14:33–57
+
+Moses receives the house law together with Aaron (33). The speech anticipates settled
+life in Canaan; it assigns inspection and cleansing to the priest without narrating
+a particular inspection by Moses.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Moses alone is named as recipient of the new speech (1), unlike the joint address to Moses and
@@ -869,6 +877,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

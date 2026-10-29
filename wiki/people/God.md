@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Houses in the promised land — Leviticus 14:33–57
+
+Yahweh addresses Moses and Aaron together (33), names Canaan as his gift, and says he puts
+the spreading mildew in a house (34). The law supplies no particular offense as its cause;
+divine agency is explicit, but an accusation against this householder is not.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Yahweh speaks to Moses and provides the law of restoration after healing, including a provision
@@ -2841,6 +2849,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

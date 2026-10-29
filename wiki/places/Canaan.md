@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Houses in the promised land — Leviticus 14:33–57
+
+The house law explicitly anticipates entry into Canaan, given by Yahweh as a possession
+(34). Permanent houses, replacement stones, plaster, and disposal outside a city belong
+to the envisioned settled life; this is legislation for the future, not a report of entry.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 The land the rest of the Torah is aimed at, and the only place in
 [[The Table of Nations]] whose borders are drawn.
 
@@ -115,6 +123,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Destination implied by the six peoples, promised land, and
   treaty warning.

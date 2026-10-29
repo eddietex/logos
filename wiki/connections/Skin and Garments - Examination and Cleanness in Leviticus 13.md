@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Mildew in a House]] — Leviticus 14:33–57.
+
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46.
 - [[Mildew in Garments]] — Leviticus 13:47–59.
 
@@ -29,6 +31,17 @@ condition. Neither unit prescribes an offering. The garment conclusion (59) make
 purpose of clean and unclean pronouncements explicit.
 
 Source: stored WEB Leviticus 13:1–59; comparison is paraphrase.
+
+### Extension to houses — Leviticus 14:33–57
+
+[[Mildew in a House]] adds greenish or reddish signs, seven-day closure, inspection
+for spread, removal of affected material, and a final verdict. Garment and house
+rules both permit removal before total destruction in specified circumstances.
+The remedies remain distinct: garments may be burned; houses are demolished and their
+materials carried outside the city. The cleared house also receives the bird rite
+(14:49–53), which the garment rule does not prescribe. The summary at 14:54–57 places
+these cases together without making their criteria identical. Source: stored WEB
+Leviticus 13:47–59 and 14:33–57.
 
 ## Significance
 

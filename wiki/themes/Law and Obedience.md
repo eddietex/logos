@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+The house procedure distinguishes reporting, emptying, inspection, closure, repair,
+recurrence, demolition, and cleansing (35–53). The concluding law groups skin, garments,
+and houses for instruction about clean and unclean (54–57), without making their
+individual remedies interchangeable.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The instruction distinguishes examination outside camp, the bird rite, washing and shaving,
@@ -620,6 +629,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

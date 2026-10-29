@@ -65,6 +65,15 @@ has been argued.
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+Yahweh says he puts the mildew in the house (34), but identifies no offense by its
+owner. **Qualification:** atonement for the house (53) cannot be treated as proof that
+the owner committed a particular sin. The named problem is the house’s uncleanness,
+not a narrated transgression or a confession.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Sin and trespass offerings belong to restoration after healing (12, 19), without a specified
@@ -448,6 +457,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

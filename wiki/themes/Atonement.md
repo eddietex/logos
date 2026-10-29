@@ -20,6 +20,16 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+The WEB explicitly speaks of making atonement for the house (53), concluding the
+bird, blood, and water rite. This extends atonement beyond persons and sanctuary objects
+to an ordinary dwelling. **Qualification:** the personal forgiveness formulas of
+Leviticus 4–5 do not define every use: here the result is a clean house, with no
+confession or stated forgiveness of its owner.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Atonement accompanies the oil application and offerings, ending in cleanness (18–20). Verse 19
@@ -197,6 +207,8 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

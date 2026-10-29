@@ -64,6 +64,8 @@ the article clean or unclean.
 
 ## Cross-references
 
+- [[Mildew in a House]] — Leviticus 14:33–57; inspection, repair, and cleansing of a house.
+
 - [[Skin and Garments - Examination and Cleanness in Leviticus 13]] — shared examination patterns with [[Examining Diseases of the Skin]],
   but different signs and consequences.
 - [[Distinguishing and Teaching - Leviticus 10 and 11]] — the priestly commission applied

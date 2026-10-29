@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Houses in the promised land — Leviticus 14:33–57
+
+The house law belongs to the broader Sinai setting of Leviticus (7:38), but looks ahead
+to houses in Canaan (14:34). Sinai is not named in 14:33–57; the house under inspection
+is not a building at the mountain.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The law belongs to the continuing Sinai setting (7:38), without naming the mountain here. Its
@@ -382,6 +390,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

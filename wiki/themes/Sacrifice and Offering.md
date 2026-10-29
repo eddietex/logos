@@ -47,6 +47,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Houses in the promised land — Leviticus 14:33–57
+
+One bird is killed over running water and the living bird is released after the
+cleansing rite (49–53). The house procedure names no sin, trespass, burnt, or meal
+offering and no altar service. Those offerings in 14:10–32 belong to the restored
+person’s distinct eighth-day procedure and must not be imported here.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The ordinary eighth-day provision has two male lambs, a year-old ewe lamb, three tenths of an
@@ -440,6 +449,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

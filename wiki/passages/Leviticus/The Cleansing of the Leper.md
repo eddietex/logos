@@ -80,6 +80,9 @@ trespass-offering lamb, oil, bodily applications, and priestly atonement.
 
 ## Cross-references
 
+- [[Mildew in a House]] — Leviticus 14:33–57; inspection, repair, and cleansing of a house.
+- [[Birds and Cleansing - Persons and Houses in Leviticus 14]] — shared bird rite, distinct follow-up requirements.
+
 - [[Outside the Camp and Back Again - Leviticus 13 and 14]] — exclusion and staged restoration.
 - [[Ear, Thumb, and Toe - Consecration and Cleansing]] — comparison with Leviticus 8.
 - [[Show Yourself to the Priest - Leviticus 14 and Mark 1]] — Jesus sends a healed man to the priest.

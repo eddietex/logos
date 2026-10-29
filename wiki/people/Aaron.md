@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Houses in the promised land — Leviticus 14:33–57
+
+Aaron is again named with Moses as recipient of the speech (33), unlike 14:1. The
+priestly office directs emptying, inspection, repair, demolition when required, and
+cleansing; the passage does not narrate Aaron personally performing these actions.
+
+See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 Aaron is not named in 14:1–32. The connection is his priestly office, named in 13:2: the
@@ -486,6 +494,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 
