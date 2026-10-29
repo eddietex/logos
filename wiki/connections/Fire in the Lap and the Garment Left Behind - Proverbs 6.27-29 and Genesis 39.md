@@ -62,6 +62,13 @@ a married woman whose husband is away (Proverbs 7:19–20) takes hold of a young
 slaughter"* (7:22). The wiki records the contrast and claims no allusion. See [[The Young Man Void of Understanding]]. Hebrew of
 Proverbs 7:13 and Genesis 39:12 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25.
 
+**Song 8:5–7 now ingested.** [[Love Is Strong as Death]]:
+The fire in Song 8:6–7 cannot be quenched by waters. Unlike the adultery warning
+of Proverbs 6:27–29, it belongs to the declaration of love’s enduring force. The
+shared image does not give the two passages the same moral situation.
+Source for this addition: stored WEB Song 8:5–7 and Proverbs 6:27–35;
+no new source-language claim. See [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
+
 ## Significance
 
 Genesis gives the wisdom tradition its model case: a young man alone, his master's wife, daily

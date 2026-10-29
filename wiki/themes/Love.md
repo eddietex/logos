@@ -77,9 +77,8 @@ as eight chapters of one Hebrew love-word with no command or ranking. The stored
 not support those blanket claims: 1:2–4 values love above wine and requests nearness;
 2:7 contains an injunction, and 5:9–10 and 6:9 compare the beloved with others. The former
 source-language generalization is withdrawn rather than extended without verification.
-The opening is now ingested in [[Love Better Than Wine]]; the later verses have been
-read in raw for this correction but remain un-ingested. The Song's comparison of love
-with death and unquenchable fire in 8:6–7 is likewise verified in stored WEB, without
+These verses are now ingested, including [[Love Is Strong as Death]] (8:5–7).
+The comparison with death and unquenchable fire is verified in stored WEB, without
 claiming it is Scripture's only definition of love.
 
 **The New Testament's word is *agapē***, and its innovations are two: it makes love the summary of the
@@ -431,7 +430,18 @@ desire; invitation and refusal to force love stand together.
 See [[Come into the Fields, My Beloved]]. Source: stored WEB Song 7:10–8:4;
 internal comparisons use the stored Song.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], love is compared with death in strength and with fire that waters cannot extinguish
+(8:6–7). The seal request seeks lasting attachment, while the attempted purchase
+of love meets scorn. This is not a claim that love abolishes mortality. The fierceness
+of jealousy is acknowledged without turning the poem into permission for violence.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Key passages
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; beloved and friend; renewed reciprocal belonging.
 

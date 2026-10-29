@@ -79,7 +79,18 @@ verified in stored WEB but not yet ingested; they are not silently substituted f
 
 Source: stored WEB Ecclesiastes 9:1–12; 12:7–14.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], sheol supplies the comparison for jealousy’s cruelty (8:6), beside death as love’s
+measure of strength. The following fire describes the passion, not the interior of
+Sheol. Thus this is not a contradiction of the page’s nonfiery descriptions of the
+realm: the poem does not give a tour of the dead or narrate their release.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Appears in
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:10; the destination without work, plan, knowledge, or wisdom.
 

@@ -12,7 +12,7 @@ tags: [connection]
   merchant?"*
 - **Song of Solomon 6:10** — [[My Dove Is Unique]] — *"Who is she who looks out as the
   morning, beautiful as the moon, clear as the sun, and awesome as an army with banners?"*
-- **Song of Solomon 8:5** *(stored WEB, not yet ingested)* — *"Who is this who comes up from the
+- **Song of Solomon 8:5** — [[Love Is Strong as Death]] — *"Who is this who comes up from the
   wilderness, leaning on her beloved?"*
 
 Hebrew of all three read from Sefaria's *Miqra according to the Masorah*, 2026-10-28.
@@ -52,6 +52,13 @@ wilderness or ascent. The repeated question links poems without requiring the sa
 journey or speaker each time. Source for this addition: stored WEB Song 3:6–7; 6:4–10;
 8:5; no new source-language claim.
 
+**Song 8:5–7 now ingested.** [[Love Is Strong as Death]]:
+The woman now appears leaning on her beloved. The recurrence of the wilderness
+question binds this closing scene to the procession without identifying the beloved
+as Solomon or proving a single continuous journey.
+Source for this addition: stored WEB Song 8:5–7 and Proverbs 6:27–35;
+no new source-language claim. See [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
+
 ## Significance
 
 The repeated question is one of the Song's ways of tying separate poems together without telling a
@@ -59,7 +66,7 @@ continuous story. Each question draws attention to a striking appearance; 3:6 an
 include coming up, whereas 6:10 describes looking out. At 3:6
 the answer is royal splendor; at 6:10 it is a woman as bright as the sky; at 8:5 it is a woman
 leaning on the one she loves. The progression is a reading; the repetition is in the text.
-Song 6:4–10 is now ingested; 8:5–7 remains a stored cross-reference awaiting ingestion.
+Song 6:4–10 and 8:5–7 are now ingested.
 
 Sources: Song of Solomon 3:6–7; 6:4–10; 8:5 from the stored WEB. Hebrew of Song 3:6–7; 6:10; 8:5
 from Sefaria's *Miqra according to the Masorah*, 2026-10-28.

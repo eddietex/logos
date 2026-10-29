@@ -25,7 +25,7 @@ tags: [connection]
   those who have sight and perverts the words of the righteous."*
 - **Numbers 5:14** *(not yet ingested; WEB verified)* — *"the spirit of jealousy comes on him, and he
   is jealous of his wife"*
-- **Song of Solomon 8:6** *(not yet ingested; WEB verified)* — *"for love is strong as death. Jealousy
+- **Song of Solomon 8:6** — [[Love Is Strong as Death]] — *"for love is strong as death. Jealousy
   is as cruel as Sheol. Its flashes are flashes of fire, a very flame of Yahweh."*
 - **Proverbs 7:19–20** — [[The Young Man Void of Understanding]]: *"For my husband isn't at home. He has gone on a long
   journey … He will come home at the full moon."* The woman of the next lecture counts on the
@@ -76,6 +76,13 @@ as death. Jealousy is as cruel as Sheol. Its flashes are flashes of fire"*. In P
 6:27 comes back as this jealousy. See [[Envy]], where *qānāʾ* covers both envy and jealousy, and
 where it becomes a name for God (Exodus 34:14).
 
+**Song 8:5–7 now ingested.** [[Love Is Strong as Death]]:
+The now-ingested Song also rejects the purchase of love (8:7). Proverbs describes
+a husband refusing compensation for adultery; the Song describes love beyond price.
+Their juxtaposition does not turn the Song into a threat against a rival.
+Source for this addition: stored WEB Song 8:5–7 and Proverbs 6:27–35;
+no new source-language claim. See [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
+
 ## Significance
 
 The passage shows the wisdom tradition and the law describing one wrong in two registers: the law
@@ -87,3 +94,6 @@ reach. See [[Sexual Sin]], [[Marriage]], [[Vengeance]], [[Redemption]], and [[La
 bible-api.com, 2026-10-25, not stored. Hebrew of Proverbs 6:29–35, Exodus 20:13 (MT); 21:30; 23:8,
 Leviticus 20:10, Numbers 5:14; 35:31, and Song of Solomon 8:6 read from Sefaria's *Miqra according to
 the Masorah*, 2026-10-25. Exodus 34:14 as recorded on [[Envy]].
+
+Song 8:6–7 is now stored and ingested; the earlier verification date above is retained
+as provenance, not as its current storage status.

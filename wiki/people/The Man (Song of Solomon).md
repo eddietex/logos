@@ -115,6 +115,14 @@ bringing him home, giving him wine, and being embraced (8:1–3). He has no narr
 reply here; these wishes do not establish a new event or identify him as her brother.
 Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], he is the beloved on whom the woman leans (8:5), likely addressed in the memory
+of the apple tree and the request for a seal on heart and arm. Neither his personal
+name nor a reply is supplied; the mother mentioned in the address remains unnamed.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — the object of desire and praise in the opening poem;
@@ -145,6 +153,8 @@ Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
 - Song of Solomon 7:10–8:4 — invited and desired; no answer narrated.
 
 ## Appears in
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
 - [[Dark and Lovely]] — Song of Solomon 1:7–8.

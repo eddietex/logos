@@ -639,7 +639,17 @@ or establishing either lover's actual wealth.
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], the proposed gift of an entire house’s wealth cannot purchase love (8:7). This
+qualifies, rather than contradicts, the Song’s earlier delight in precious materials:
+gold and jewels can describe beauty, but do not buy the attachment they celebrate.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Key passages
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; precious materials as bodily imagery, not possessions.
 

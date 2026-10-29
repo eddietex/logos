@@ -127,6 +127,8 @@ stand together without being joined into one plot.
 
 - [[The Embrace and the Unawakened Love - Song of Solomon 2, 3, and 8]] — compared with [[Come into the Fields, My Beloved]].
 
+- [[Love Is Strong as Death]] — The apple tree of 2:3 returns beside awakening and birth in Song 8:5.
+
 ## Notes
 
 **Boundary.** The unit runs from the first compliment, *"I have compared you, my love"*

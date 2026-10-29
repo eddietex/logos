@@ -134,6 +134,14 @@ mother's house, and share wine and an embrace (8:1–3). Her charge to the daugh
 at 8:4 preserves restraint beside desire; the poem does not narrate the journey.
 Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], she comes up leaning on her beloved (8:5). The ensuing intimate address and seal
+request are plausibly hers, though the stored WEB supplies no speaker labels. The
+poem moves from a particular pair to love that fire, flood, and money cannot master.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Timeline / key events
 
 - Song of Solomon 1:2–4 — desires kisses, compares love with wine and a name with
@@ -163,6 +171,8 @@ Source: stored WEB Song 7:10–8:4; comparisons at 2:7; 3:5; 5:8.
 - Song of Solomon 7:10–8:4 — invites him and imagines public affection and homecoming.
 
 ## Appears in
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4.
 - [[Dark and Lovely]] — Song of Solomon 1:5–8.

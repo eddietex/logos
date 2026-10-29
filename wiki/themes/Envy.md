@@ -165,7 +165,18 @@ claim that envy was good.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], the WEB places jealousy beside love and compares it with Sheol’s cruelty (8:6).
+Unlike the resentful comparisons in the family stories, this is a love poem’s
+declaration of fierce attachment. Unlike Proverbs 6:34–35, it narrates no betrayed
+husband or vengeance. These distinct settings should not be collapsed.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Key passages
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; envy ends with the dead’s earthly portion.
 

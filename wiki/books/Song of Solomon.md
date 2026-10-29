@@ -102,7 +102,11 @@ without contempt and an embrace in her mother's house (7:11–8:3). The final
 not-awakening-love refrain closes the unit (8:4); wishes are not narrated fulfillment.
 
 Source: the complete stored WEB Song of Solomon, read to draw the provisional queue.
-Only 1:1–8:4 is ingested; later references in this overview and plan describe the queue.
+Only 1:1–8:7 is ingested; later references in this overview and plan describe the queue.
+
+[[Love Is Strong as Death]] moves from the woman leaning on her beloved to the seal request
+and love as strong as death (8:5–7). Floods cannot quench it and wealth cannot buy
+it. The WEB names Yahweh in the flame comparison; no divine speech is narrated.
 
 ## Structure
 
@@ -133,7 +137,7 @@ merge, or reorder them freely.
 - [x] [[My Dove Is Unique]] — Song of Solomon 6:4–10
 - [x] [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9
 - [x] [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4
-- [ ] Love Is Strong as Death — Song of Solomon 8:5–7
+- [x] [[Love Is Strong as Death]] — Song of Solomon 8:5–7
 - [ ] Our Sister and My Own Vineyard — Song of Solomon 8:8–12
 - [ ] Make Haste, My Beloved — Song of Solomon 8:13–14
 
@@ -180,6 +184,9 @@ merge, or reorder them freely.
 - [[Love]], [[Joy and Enjoyment]], [[Brotherhood]], [[Oaths and Vows]] —
   invitation, imagined public affection, and the renewed charge (7:10–8:4).
 
+- [[Life and Death]], [[Envy]], [[Wealth and Possessions]] — love, jealousy, and
+  the limit of purchase (8:5–7).
+
 ## Key people
 
 - [[Solomon]] — named in the heading (1:1); present, silent, in the wedding procession (3:6–11).
@@ -210,6 +217,8 @@ merge, or reorder them freely.
 - [[Come into the Fields, My Beloved]] — the woman invites the man and addresses the daughters again
   (7:10–8:4); her mother remains unnamed.
 
+- [[God]] — Yahweh named in the WEB flame image (8:6), without a narrated act.
+
 ## Key places
 
 No geographical place is named in 1:1–4. The king's rooms are an interior without a
@@ -235,3 +244,5 @@ stated location; Jerusalem must not be supplied there from later verses.
   [[Carmel (mountain)]] — dance and bodily comparisons (6:13; 7:4–5), not an itinerary.
 
 - [[Jerusalem]] — in the final adjuration to its daughters (8:4), not a located journey.
+
+- [[Sheol]] — comparison for jealousy (8:6); wilderness and apple tree remain unnamed.

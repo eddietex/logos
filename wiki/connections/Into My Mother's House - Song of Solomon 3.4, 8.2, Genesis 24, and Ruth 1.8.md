@@ -61,6 +61,13 @@ bringing of 3:4, this is a desired scene, with wine offered and an imagined embr
 translation without resolving the underlying syntax. No wedding is narrated.
 Source: stored WEB Song 3:4; 8:1–4.
 
+**Song 8:5–7 now ingested.** [[Love Is Strong as Death]]:
+Song 8:5 moves from her mother’s house (8:2) to the addressee’s mother and the
+apple tree associated with conception and birth. The WEB does not label this
+speaker; the scene is not an additional house visit or a narrated wedding.
+Source for this addition: stored WEB Song 8:5–7 and Proverbs 6:27–35;
+no new source-language claim. See [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
+
 ## Significance
 
 The phrase belongs to the women of Israel's stories: Rebekah, Ruth and Orpah, and the woman of the

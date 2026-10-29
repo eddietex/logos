@@ -572,7 +572,17 @@ specify consciousness, resurrection, or the duration of an intermediate state. S
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], death supplies the measure of love’s strength (8:6); Sheol supplies that of jealousy’s
+cruelty. The poem does not claim that love is stronger than death, describe an
+afterlife, or reverse the mortality described in Job and Ecclesiastes.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Key passages
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; Decline, death, dust to earth, and spirit to God.
 

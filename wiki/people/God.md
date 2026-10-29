@@ -2392,6 +2392,14 @@ is a contextual reading, not an explicit identification in that verse.
 
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14; 8:14, 17.
 
+### Love strong as death — Song of Solomon 8:5–7
+
+In [[Love Is Strong as Death]], the WEB names Yahweh in the flame comparison of 8:6. He does not speak or perform
+a narrated action here. This records the English rendering without deciding the
+Hebrew expression or equating God with either human lover.
+
+Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
+
 ## Timeline / key events
 
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
@@ -2685,6 +2693,8 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14; 8:14, 
 - Proverbs 9:10 — Named in the motto that closes the prologue, *"The fear of Yahweh is the beginning of wisdom"*, and called *"the Holy One"* (*qədōšîm*, a plural read as majesty). See [[The Two Feasts]].
 
 ## Appears in
+
+- [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14.
 

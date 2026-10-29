@@ -19289,3 +19289,37 @@ remains distinguished from this WEB-based addition. No schema or harness changes
 
 Validation: scripts/link-check.sh passed with no wrapped links or dangling targets;
 60 not-yet-started book targets remain the expected baseline. No unresolved blocker.
+
+## [2026-10-29] ingest | Song of Solomon 8.5-7 — Love Is Strong as Death
+
+Unattended `/ingest auto`, executed by Codex. Retained the planned 8:5–7 boundary;
+exactly one pericope ingested. Created two pages: the passage and a connection on
+love beyond purchase beside Proverbs 6:30–35. Revised 25 existing pages including
+this log: the book, three people, Sheol, four themes, four existing connections,
+two earlier passages, and nine index/count pages. Song of Solomon is 14 / 16;
+frontmatter totals are 225 passages, 191 people, 103 places, 85 themes, 537 connections.
+
+The opening questioner and mother remain unnamed within the existing literary-role
+treatment; no new person or geographical site is inferred. The woman is the likely
+speaker of the intimate address, not an explicitly labeled WEB voice. Yahweh is
+recorded on God's page because the WEB names him in its flame rendering; no Hebrew
+etymology or allegorical identity is asserted. Sheol is a comparison, not a visited
+setting. Love as strong as death is distinguished from a claim to defeat death.
+The fire does not contradict Sheol's nonfiery descriptions by locating fire there.
+
+Updated the wilderness-question, mother's-house, ransom, and fire connections and
+removed stale Song ingestion statuses in the Love overview and affected connections.
+The Proverbs comparison preserves the difference between a jealous husband's refusal
+of compensation and the Song's rejection of purchasing love. Gold and jewels used
+as praise elsewhere in the Song do not contradict love's lack of a purchase price.
+
+All new quotations were copied or checked against stored WEB Song and Proverbs.
+No outside quotation, new source-language assertion, raw-text change, or harness or
+schema change was needed. Earlier attributed source-language analyses remain separate
+from the new WEB-based additions. The passage retains speaker and translation limits
+at the point of discussion.
+
+Validation: scripts/link-check.sh passed, with no wrapped links or dangling targets;
+60 not-yet-started book links are the expected baseline. Frontmatter counts and
+exactly one category-index row per entity/connection were checked; no duplicate
+passage title or whitespace errors found. No unresolved blocker.

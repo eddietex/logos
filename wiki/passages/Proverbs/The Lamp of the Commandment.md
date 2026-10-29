@@ -292,6 +292,8 @@ and the people it wrongs. The divine law is present only in its vocabulary — *
   same commands, *"Bind them on your fingers"* (7:3), and the young man *"void of understanding"*
   (7:7).
 
+- [[Love Is Strong as Death]] — Jealousy and the limits of payment recur in [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
+
 ## Notes
 
 **Boundary.** The planned 6:20–35 unit is kept. *"My son"* opens it at 6:20 and opens the next
