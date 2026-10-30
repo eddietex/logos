@@ -80,6 +80,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Vows, Valuations, and Devoted Things]] — 27:16–24, dedicated land under the same Jubilee.
 - [[The Sabbatical Year and the Jubilee]] — 25:10–16 announces return and crop-year pricing;
   this unit specifies redemption and the different house rules.
 - [[The Poor Brother and Redemption from Service]] — the same brother, and the same reckoning of years, applied to persons.

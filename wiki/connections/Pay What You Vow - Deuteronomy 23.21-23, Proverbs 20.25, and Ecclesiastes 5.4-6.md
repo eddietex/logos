@@ -19,6 +19,8 @@ tags: [connection]
   2026-10-27; not yet ingested)*
 - **Deuteronomy 23:23** — *"You shall observe and do that which has gone out of your lips."*
   *(same source)*
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:2–13, what a vow costs; it does not call a vow
+  rash, but sets the price and bars exchange.
 - **Job 22:27** — *"You shall make your prayer to him, and he will hear you. You shall pay your
   vows."* — [[Eliphaz's Third Speech]]
 - **Proverbs 20:25** — *"It is a snare to a man to make a rash dedication, then later to consider

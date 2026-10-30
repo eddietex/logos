@@ -99,6 +99,13 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+The book closes by binding Israel to what it freely offers: a vow has a price, and an exchange
+costs double. *These are the commandments* (34) ends the Sinai laws of Leviticus.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 One situation, a poor man sold, yields different rules by the buyer's and the man's identity
@@ -805,6 +812,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

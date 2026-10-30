@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Moses receives the last speech of the book, with no response recorded. The closing colophon names
+him once more: Yahweh commanded him *on Mount Sinai* (27:34).
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The colophon at 26:46 names Moses for the first time since 25:1: the statutes, ordinances, and laws
@@ -1038,6 +1045,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

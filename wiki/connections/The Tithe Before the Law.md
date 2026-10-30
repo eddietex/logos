@@ -9,7 +9,8 @@ tags: [connection]
 
 - Genesis 14:20 — *"Abram gave him a tenth of all"*
 - Genesis 28:20–22 — Jacob's vow at Bethel
-- Leviticus 27:30–33 — a tenth of seed, fruit, and herd is holy to Yahweh
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:30–33: a tenth of seed, fruit, and herd is
+  holy to Yahweh
 - Numbers 18:21–32 — the tithe as Levi's inheritance, and Levi's tithe of the tithe
 - Deuteronomy 12:5–19; 14:22–29; 26:12–15 — the tithe eaten at the sanctuary, and the third-year tithe
 - 2 Chronicles 31:4–12; Nehemiah 10:37–39; 13:10–12 — the reform tithes
@@ -29,7 +30,7 @@ tags: [connection]
 |---|---|---|---|
 | Occasion | after a rescue, out of war spoil | fleeing his brother, with nothing | annual, out of produce and herd |
 | Prompted by | nothing stated | a vow he proposes himself | commandment |
-| Given to | a foreign priest | *"to you"* — God, at a stone | the Levites |
+| Given to | a foreign priest | *"to you"* — God, at a stone | Yahweh (Leviticus); the Levites (Numbers) |
 | Conditional | no | yes: *"If God will be with me"* | no |
 | Repeated | never mentioned again | never mentioned again | perpetual |
 
@@ -37,7 +38,8 @@ Neither patriarch is recorded tithing twice. Genesis has two one-off tenths at t
 and no practice.
 
 **The command, when it comes, is not one thing.** Leviticus 27:30–33 declares a tenth of seed,
-fruit, and herd *holy to Yahweh*, redeemable at a fifth above value. Numbers 18:21–32 gives that
+fruit, and herd *holy to Yahweh*. The land's tithe is redeemable at a fifth above value and the
+herd's is not (31, 33), and Leviticus names no human recipient. Numbers 18:21–32 gives that
 tenth to Levi *"in return for their service"*, because Levi has no land inheritance, and requires
 the Levites to tithe a tenth of it to the priests. Deuteronomy 14:22–29 has the giver eat his tithe
 at the central sanctuary — converting it to silver if the road is long, and spending it on

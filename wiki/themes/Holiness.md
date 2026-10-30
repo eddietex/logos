@@ -87,6 +87,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Holiness here is ownership. A dedicated thing has changed hands, and an attempted exchange makes
+both animals holy (10). What is *ḥērem* is *most holy* (28), and holiness in this unit can be priced
+in most cases and not in that one.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Israel must make the fiftieth year holy (10, 12). Holiness here orders land use, return, and food rather than introducing a new sanctuary sacrifice.
@@ -531,6 +539,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 
 

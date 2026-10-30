@@ -38,6 +38,13 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+The closing chapter of Leviticus translates people, animals, houses, and fields into shekels of the
+sanctuary (25), and then names what no money can touch (28–29).
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 Money and food may not earn profit from a poor brother (37). Yet people may be bought as
@@ -691,6 +698,7 @@ See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.

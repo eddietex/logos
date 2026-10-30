@@ -30,6 +30,13 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+A vower *poorer than your valuation* is assessed by what he can reach (8), with the *mûk* of the
+poor brother (25:25) and the idiom of the graded offerings (5:11).
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 Poverty is followed through failing support, sale to an Israelite, and sale to an alien (35, 39,
@@ -394,6 +401,7 @@ See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticu
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Leviticus ends on this place. Its last words are *bəhar sînāy*, *on Mount Sinai* (27:34), as 26:46
+had closed the previous speech.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Mount Sinai closes the unit: *in Mount Sinai by Moses* (46). The whole catalog of exile is thus framed
@@ -555,6 +562,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

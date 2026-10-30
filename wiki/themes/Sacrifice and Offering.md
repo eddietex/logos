@@ -77,6 +77,13 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+An animal once given stays given: no swap, even for a better one (9–10). Tithed animals are not
+sorted either (33). Unclean animals may be dedicated and sold, but are not offered.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 *I will not take delight in the sweet fragrance of your offerings* (31): the Hebrew is *lōʾ ʾārîaḥ*,
@@ -581,6 +588,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.

@@ -73,8 +73,10 @@ the examples above would misrepresent it.
   blessing is not**, and Jeremiah 18:7–10 states the principle outright. See
   [[Divine Grief and Relenting]].
 - **Vows can be annulled.** Numbers 30 gives a father or a husband the power to void a woman's vow on
-  the day he hears it, and Leviticus 27 provides a schedule of redemption prices for things rashly
-  dedicated. **The law builds in an exit that Jephthah either did not know or did not use.**
+  the day he hears it, and Leviticus 27 sets prices for vowed persons and redemption prices for dedicated property,
+  though it never calls such vows rash. **Whether any of this was an exit open to Jephthah is an
+  inference, since his vow named a burnt offering and Judges does not cite the law.** See
+  [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]].
 - **The blessing itself is not always finite.** Genesis 27:37 — *"What then will I do for you, my
   son?"* — treats it as a stock that has been spent, and **that is the only place in the Bible where
   a blessing runs out.** Jacob blesses twelve sons and two grandsons in two chapters (48–49) without

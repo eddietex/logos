@@ -64,6 +64,7 @@ without a way forward.
 
 ## Cross-references
 
+- [[Vows, Valuations, and Devoted Things]] — 27:13–31, the added fifth outside wrongdoing.
 - [[The Trespass Ram in Different Cases - Leviticus 5 and 19]]
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7; fraud, repayment to the owner, and the ram offering.

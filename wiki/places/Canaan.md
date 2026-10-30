@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Not named. The dedication of a field assumes Israel holding the land: *the field of his possession*,
+seed measures, and the Jubilee return (16–24).
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The land is unnamed but central. It is desolated, then *enjoys its Sabbaths* in Israel's absence
@@ -190,6 +197,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

@@ -86,6 +86,13 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Unclean animals can still be priced, dedicated, and redeemed (11–13, 27). Uncleanness here bars the
+altar, and it does not bar the sanctuary treasury.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Field and community — Leviticus 19:19–37
 
 Seeking mediums or wizards is said to defile (31). This is prohibited conduct, distinct from
@@ -399,6 +406,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.

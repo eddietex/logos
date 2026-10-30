@@ -78,6 +78,7 @@ unit, [[Eating the Holy Things]], regulated who eats; this one regulates what is
 
 ## Cross-references
 
+- [[Vows, Valuations, and Devoted Things]] — 27:9–10, vowed animals may not be exchanged.
 - [[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]] — the defect word for animals (22:20–21) now ingested.
 - [[The Eighth Day - Circumcision and the Firstborn Given to God]] — the seven days with the mother and the eighth day (22:27).
 - [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] — another law naming a young animal with its mother (22:28).

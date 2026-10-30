@@ -20601,3 +20601,30 @@ request this pass; earlier MAM citations were not rechecked. Later WEB quotation
 bible-api.com. Senses of *qerî* and *rāṣâ* are qualified on the page as unchecked lexical judgments.
 Counts: 270 passages, 198 people, 104 places, 85 themes, 582 connections. Next: Vows, Valuations, and
 Devoted Things, Leviticus 27:1–34, which completes the book.
+
+## [2026-10-30] ingest | Leviticus 27.1-34 — Vows, Valuations, and Devoted Things
+
+Created [[Vows, Valuations, and Devoted Things]]: vowed persons, animals, houses, and fields, then what cannot be vowed. This completes
+Leviticus, 44 of 44. Created
+[[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]],
+[[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]], and
+[[Under the Rod - Leviticus 27.32, Jeremiah 33.13, and Ezekiel 20.37]]. Revised the Leviticus book
+page; [[God]], [[Moses]]; [[Horeb]], [[Canaan]]; thirteen themes; five connections; five other
+Leviticus passages; the books, people, places, themes, and connections indexes; and `wiki/index.md`.
+
+Corrections, stated on the pages: [[Yes, He Will Be Blessed - The Irrevocable Word]] said Leviticus 27 prices
+things *rashly dedicated* and gave Jephthah an exit; the text says neither.
+[[Twenty Pieces of Silver - The Price of a Brother]] called the vowed person *redeemed*, and quoted Zechariah
+11:12–13 as *my price* and *goodly*; WEB at bible-api.com has *my wages* and *handsome*.
+[[The Tithe Before the Law]] applied the fifth to the whole tithe and named the Levites for Leviticus; the
+flock tithe is not redeemable and Leviticus names no recipient.
+
+Judgment calls: boundary kept as one unit, with the WLC's setumah breaks after 8 and 25 as its outline.
+No page for the unnamed priest; [[Aaron]] is not in the text. The Canaan link is implied, as at 26:14–46.
+Tensions flagged, not resolved: the devoted field against 25:23, 28 and Numbers 18:20; verse 27 against
+Exodus 13:13; *ḥērem* of field and of person; verse 28's *of man*; and the unexplained verses 20–21.
+
+Hebrew and lemma counts from WLC (Open Scriptures morphhb). Later WEB quotations verified at
+bible-api.com. The sense of *pālāʾ* and the labor reading of the table are qualified on the page as
+unchecked. Counts: 271 passages, 198 people, 104 places, 85 themes, 585 connections. Next: no book
+is `in-progress` and the priority list is complete, so the next run opens [[Numbers]].

@@ -32,6 +32,15 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+A vowed person is met with silver on a fixed scale, with a poor vower assessed by what he can pay
+(2–8). A vowed animal cannot be exchanged (10). The chapter neither calls vows rash nor cancels
+them. It makes them cost what they said. See
+[[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]].
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 The calendar’s appointed offerings are additional to vows, gifts, and freewill
@@ -282,6 +291,7 @@ See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.

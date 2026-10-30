@@ -26,6 +26,14 @@ See, now he has taken away my blessing."* The wiki follows Genesis and keeps the
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+The firstborn of the herd cannot be dedicated, *It is Yahweh's* (26): nobody can give what is
+already claimed. Verse 27 sits differently from Exodus 13:13 on an unclean animal; see the passage
+page.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 **Genesis is systematically about the firstborn not inheriting.** The pattern runs from the first
 brothers in the book to the last:
 
@@ -81,6 +89,7 @@ See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:2.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Firstborn claim repeated with explicit redemption of sons.

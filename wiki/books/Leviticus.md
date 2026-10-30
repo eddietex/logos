@@ -5,7 +5,7 @@ genre: Law
 author: "Traditionally Moses; final composition not specified by the book"
 canonical_order: 3
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Leviticus
 
@@ -24,7 +24,7 @@ people requires both ritual order and conduct toward the neighbor.
 The book presents its instructions as divine speech mediated chiefly through Moses.
 The priestly inauguration and the deaths of Nadab and Abihu interrupt the legal material
 with narrative. The Sinai setting is explicitly recalled in 7:38; 25:1; 26:46; 27:34.
-This overview and queue survey the stored book; only checked units below are ingested.
+All forty-four units in the queue below are ingested.
 
 The first three ingested units distinguish whole burnt offerings, grain memorials with
 most holy priestly remainders, and the peace offering’s assigned fat portions. Leviticus 2
@@ -192,6 +192,10 @@ and refuses to reject Israel. Verse 46 closes the Sinai laws.
 promises rain, peace, victory, increase, and Yahweh's walking among his people, under one condition.
 The speaker closes as the God who broke Israel's yoke.
 
+[[Vows, Valuations, and Devoted Things]] (27:1–34) closes the book with a price list. Vowed persons,
+animals, houses, and fields are valued and may be redeemed with a fifth. Firstborn, devoted things,
+and flock tithes stay out of reach. Its last words are *on Mount Sinai*.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -251,7 +255,7 @@ merge, or reorder them freely.
 - [x] [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55
 - [x] [[Blessings for Obedience]] — Leviticus 26:1–13
 - [x] [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46
-- [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
+- [x] [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34
 
 ## Key themes
 

@@ -75,6 +75,7 @@ neither offering it nor possessing it gives unrestricted permission to eat.
 
 ## Cross-references
 
+- [[Vows, Valuations, and Devoted Things]] — 27:2–13, the valuation of vows.
 - [[The Peace Offering]] — Leviticus 3 gives the altar procedure; this unit regulates eating.
 - [[Leavened Bread with Thanksgiving - Leviticus 2 and 7]] — different bread rules for different offerings.
 - [[Who May Eat the Holy Portions - Leviticus 6 and 7]] — priestly portions and the clean participant.

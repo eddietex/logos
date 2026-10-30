@@ -13,8 +13,8 @@ tags: [connection]
   shall be for a male twenty shekels, and for a female ten shekels."*
 - **Exodus 21:32** — *"If the bull gores a male servant or a female servant, thirty shekels of silver
   shall be given to their master."*
-- **Zechariah 11:12–13** — *"So they weighed for my price thirty pieces of silver … 'Throw it to the
-  potter, the goodly price that I was valued at by them.'"*
+- **Zechariah 11:12–13** — *"So they weighed for my wages thirty pieces of silver … 'Throw it to the
+  potter, the handsome price that I was valued at by them!'"*
 - **Matthew 26:15; 27:3–10** — *"they weighed out to him thirty pieces of silver"*, and the field bought
   with them.
 - **Genesis 37:26** — *"What profit is it if we kill our brother and conceal his blood?"* — ***mah-beṣaʿ***,
@@ -60,9 +60,9 @@ a market rate or identify who received Joseph’s sale price.
 | | **the figure** | **what it values** |
 |---|---|---|
 | **Genesis 37:28** | 20 pieces of silver | Joseph’s sale; the actors are disputed on the passage page |
-| **Leviticus 27:5** | 20 shekels | a male aged 5–20, vowed to the sanctuary and redeemed |
+| **Leviticus 27:5** | 20 shekels | a male aged 5–20, vowed to Yahweh |
 | **Exodus 21:32** | 30 shekels | a slave killed by someone else's ox |
-| **Zechariah 11:12** | 30 shekels | a shepherd's wages, called *"the goodly price"* sarcastically |
+| **Zechariah 11:12** | 30 shekels | a shepherd's wages, called *"the handsome price"* sarcastically |
 | **Matthew 26:15** | 30 pieces | Judas's fee |
 
 ### What the parallel with Leviticus is and is not
@@ -85,7 +85,7 @@ a market rate or identify who received Joseph’s sale price.
 **The thirty pieces of Matthew 26:15 are not Joseph's twenty, and the tradition that pairs them is older
 than the number.** Matthew's thirty comes from **Zechariah 11:12–13**, which he cites (attributing it to
 Jeremiah), and Zechariah's thirty is most likely an allusion to **Exodus 21:32** — the compensation for a
-slave gored by a bull, i.e. **the statutory value of a dead servant.** *"The goodly price that I was
+slave gored by a bull, i.e. **the statutory value of a dead servant.** *"The handsome price that I was
 valued at by them"* is sarcasm about a contemptible sum.
 
 **So the two betrayals share the structure and not the figure.** Both are a brother or a master handed

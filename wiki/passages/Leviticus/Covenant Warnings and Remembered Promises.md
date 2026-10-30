@@ -144,6 +144,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Vows, Valuations, and Devoted Things]] — 27:34, the book's second colophon.
 - [[Blessings for Obedience]] — the first half of the same speech, reversed here item by item.
 - [[The Sabbatical Year and the Jubilee]] — the land Sabbaths of 25:1–7, which 26:34–35 collects.
 - [[Forbidden Unions and the Defiled Land]] — 18:25–28, the land vomiting out its inhabitants, the

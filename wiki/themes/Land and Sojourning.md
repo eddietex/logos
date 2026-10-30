@@ -65,6 +65,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Dedicated land still answers to the Jubilee. Its value is prorated to that year, a bought field
+returns to its original holder (24), and an unredeemed inherited field goes to the priest (21), an
+exception to 25:28 flagged on the passage page.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 The poor brother is named with the nouns of 25:23, *gēr wətôšāb* (35), and the sold brother goes
@@ -303,6 +311,7 @@ See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and t
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

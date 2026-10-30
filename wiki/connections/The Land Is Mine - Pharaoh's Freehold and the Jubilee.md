@@ -9,6 +9,9 @@ tags: [connection]
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:21; a devoted field does not return at the
+  Jubilee.
+
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55, now ingested.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22, now ingested.

@@ -31,6 +31,14 @@ asked for.
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+The first command of a tithe: *maʿăśēr* occurs in Leviticus only at 27:30–32 (WLC). Seed and fruit
+may be redeemed with a fifth; herd and flock may not, and the owner may not sort them. Leviticus
+names no recipient but Yahweh; Numbers 18:21 names the Levites.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 - **Voluntary, twice, and both times at a hinge.** Abram after the rescue (14:20), in the same
   scene in which he refuses to take a thread from the king of Sodom; Jacob at Bethel (28:20–22),
   fleeing his brother with nothing. One gives from more than he can carry, the other from nothing at
@@ -62,13 +70,14 @@ asked for.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - Genesis 14:18–20 — the first tithe, [[The Rescue of Lot and Melchizedek]]
 - Genesis 28:20–22 — Jacob's vow at Bethel, [[Jacob's Ladder at Bethel]]: ***ʿaśśēr ʾăʿaśrennû lāk***,
   infinitive absolute, *tithing I will tithe it.* **The second tenth in Scripture and the second
   pre-Mosaic one, and it differs from Abram's at every point** — a tenth of what he has not got yet,
   pledged to God directly with no priest and no sanctuary, conditional on a safe return, and **never
   recorded as paid**
-- Leviticus 27:30–33 — a tenth is holy to Yahweh
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:30–33: a tenth is holy to Yahweh
 - Numbers 18:21–32 — Levi's inheritance, and the tithe of the tithe
 - Deuteronomy 14:22–29; 26:12–15 — the eaten tithe and the third-year tithe
 - 2 Chronicles 31:4–12; Nehemiah 10:37–39; 13:10–12 — the reforms

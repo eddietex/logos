@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Yahweh accepts a person, an animal, a house, or a field, and sets the terms. The chapter ends by
+marking what he never gave up: the firstborn, the devoted thing, and the tithe are his already
+(26–33).
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Yahweh answers refusal in five rising stages and names himself as their cause: *I will set my face*,
@@ -3022,6 +3030,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

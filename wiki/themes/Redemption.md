@@ -34,6 +34,14 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+Redemption of sanctuary property: *gāʾal* with an added fifth for animals, houses, fields, and the
+land tithe (13, 15, 19, 31), *pādâ* at 27 and 29. The limits are stated too: not the flock tithe
+(33) and not the devoted thing (28–29). No redemption verb appears for the vowed person of 2–8.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 *Gāʾal* now applies to a person. A sold brother may be redeemed by brother, uncle, cousin, close
@@ -182,6 +190,7 @@ See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. S
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.

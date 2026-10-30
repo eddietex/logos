@@ -65,6 +65,13 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Vows, valuations, and devoted things — Leviticus 27:1–34
+
+The priest sets values, and his word stands (8, 12, 14). A field not redeemed passes to him at the
+Jubilee (21), which sits uneasily with Numbers 18:20; both are recorded at the passage page.
+
+See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Leviticus 25:32–34 explicitly gives Levites houses with perpetual redemption rights and
@@ -444,6 +451,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
 
+- [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
