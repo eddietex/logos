@@ -20557,7 +20557,7 @@ people, 104 places, 85 themes, 577 connections. Next: Blessings for Obedience, L
 Created [[Blessings for Obedience]]: idols and Sabbaths as heads, one condition (26:3), and the promises of rain, peace,
 victory, increase, and Yahweh's presence, closed by the broken yoke. Created
 [[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] and [[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]]. Revised the Leviticus book page; [[God]], [[Moses]]; [[Egypt]], [[Canaan]],
-[[Horeb]]; thirteen themes; five connections; six other passages; the books, people, places,
+[[Horeb]]; thirteen themes; five connections; seven other passages; the books, people, places,
 themes, and connections indexes; and `wiki/index.md`.
 
 Corrections, stated on the pages: [[None Shall Make You Afraid - The Covenant Blessing of Security]]
