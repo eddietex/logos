@@ -6,6 +6,7 @@ tags: [connection]
 # Torn Clothes and Loose Hair - Leviticus 10 and 13
 
 ## Passages involved
+- [[The Holiness of the Priests]] — Leviticus 21:1–12.
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:6–7.
 - [[Examining Diseases of the Skin]] — Leviticus 13:45–46.
 
@@ -26,6 +27,17 @@ not identify a moral offense causing the condition, and neither passage explains
 other as its fulfillment.
 
 Sources: stored WEB Leviticus 10:6–7 and 13:45–46; comparison paraphrased.
+
+### The standing distinction in Leviticus 21
+
+Leviticus 21:10–12 repeats the loose-hair, torn-clothes, and sanctuary-departure prohibitions
+for the anointed high priest, and bars corpse defilement even for parents. Ordinary priests
+receive a close-kin exception (21:1–3). This differs in scope from the crisis command to
+Aaron and his surviving sons in 10:6–7. The texts are not flattened into one universal
+rule: chapter 10 addresses those priests in that event; chapter 21 differentiates offices.
+Neither passage explicitly supplies a complete reconciliation of the scopes.
+
+Source for this addition: stored WEB Leviticus 10:6–7; 21:1–12, paraphrased.
 
 ## Significance
 

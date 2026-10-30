@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Priestly holiness — Leviticus 21
+
+Moses receives two speeches, one for the priests and one addressed through him to Aaron (1,
+16–17). He communicates the instructions to Aaron, his sons, and all Israel (24).
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Moses receives the speech and must relay it to Israel (1–2). The chapter gives sanctions and the
@@ -931,6 +939,9 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Corpse defilement has a limited close-kin exception for ordinary priests (1–3) and none for the
+high priest even for parents (11). Bodily defects in 17–23 restrict approach but do not receive
+a cleansing rite or a declaration of moral guilt. Verse 22 expressly permits holy food; defect,
+corpse impurity, and sin must not be collapsed.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 The separation of clean and unclean animals is joined to Israel’s separation from the peoples
@@ -377,6 +387,9 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

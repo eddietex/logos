@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Yahweh’s holiness and sanctifying action ground priestly conduct and sanctuary boundaries (6–8,
+15, 23). The chapter restricts service by bodily condition without declaring that condition a
+personal sin; retained holy-food entitlement prevents equating every restriction with exclusion
+from the priestly household.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 The commands to sanctify themselves and keep the statutes stand beside Yahweh’s declaration that
@@ -443,6 +453,9 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+The high priest must not leave or profane the sanctuary in the context of the death and mourning
+instructions (10–12). Descendants with defects may not approach the veil or altar (23), even
+though their right to holy food is retained (22). Sanctuary access and household provision have
+distinct boundaries.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Giving offspring to Molech is said to defile God’s sanctuary (3), although no entry into it is
@@ -351,6 +361,9 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

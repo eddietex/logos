@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+The instructions distinguish ordinary priests, the high priest, and descendants barred from
+approach by bodily defects. Moses transmits them to priests and all Israel (24), so the
+community also knows the boundaries and obligations attached to priestly office.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 The chapter distinguishes commanded communal execution from divine cutting off, bearing iniquity,
@@ -689,6 +698,9 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

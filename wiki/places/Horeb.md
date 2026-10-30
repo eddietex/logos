@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Priestly holiness — Leviticus 21
+
+The Sinai setting is supplied by the book’s context (Leviticus 7:38), not a mountain named in
+chapter 21. The sanctuary, veil, and altar are the locations explicitly relevant to the approach
+restrictions (12, 23).
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 The Sinai setting continues from Leviticus 7:38; chapter 20 names no mountain. Its land
@@ -446,6 +455,9 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

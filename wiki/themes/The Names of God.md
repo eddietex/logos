@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Priests must not profane the name of their God because they present his offerings (6). Yahweh
+identifies himself as holy and as the one who sanctifies the people, priest, and sanctuaries (8,
+15, 23); the name accompanies concrete obligations.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Giving offspring to Molech profanes Yahweh’s holy name (3). Yahweh identifies himself as the one
@@ -188,6 +197,9 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

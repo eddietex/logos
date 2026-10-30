@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Priests offer the bread of God and offerings made by fire (6, 8, 21). A descendant with a defect
+cannot offer but may eat both holy and most holy food (22). This distinguishes serving at the
+altar from receiving the priestly portion.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 Something given to God, and the question of whether it is received. The Bible's first instance is
 in [[Cain and Abel]], and what is most striking about it is how much is missing: there is no
 command to bring anything, no altar, no priest, no ritual, and no stated rule by which one gift is
@@ -498,6 +507,9 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

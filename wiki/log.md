@@ -20201,3 +20201,30 @@ Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets
 wrapped or dangling links. Frontmatter counts, new-title uniqueness, quotation matching,
 category rows, and git diff whitespace checks passed. Completed by Codex.
 No unresolved operational issue.
+
+## [2026-10-29] ingest | Leviticus 21.1-24 — The Holiness of the Priests
+
+Ingested [[The Holiness of the Priests]] in unattended mode, preserving the planned
+21:1–24 boundary. Discussion is recorded in the passage: ordinary-priest and high-priest
+mourning and marriage rules, the priest’s daughter case, bodily eligibility for service,
+and retained access to holy and most holy food. No named individual is inferred from
+a hypothetical case; Aaron’s sons remain collective addressees.
+
+Created 1 passage; revised 19 existing content pages (Leviticus, 3 people, 1 place,
+12 themes, and 2 connections), 8 indexes/dashboards, and this log: 1 created, 28 revised
+wiki pages in total. Leviticus is now 30/44 pericopes; progress counted by frontmatter is
+257 passages, 195 people, 104 places, 85 themes, and 573 connections.
+
+Expanded [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] with the standing
+high-priest rule, retaining the difference in scope from the chapter 10 crisis command.
+Expanded [[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]]
+with the holy-food entitlement and updated its Leviticus source status. No new connection
+was needed. Disability is not recast as personal guilt, nor is restricted service erased.
+The wife’s absence from the explicit kin list and the limits of the WEB chief-man wording
+are noted without introducing an unverified Hebrew interpretation.
+
+Source: stored WEB Leviticus 21, with comparisons in 7:38 and 10:6–7. Key quotations
+were copied from raw text. No raw file was changed or new outside-book quotation added;
+prior documented source-language findings in the existing connection were retained, with
+no new lexical claim. Link checks passed with 59 expected not-yet-started book targets;
+no wrapped links or unexpected dangling targets. No unresolved ingest blocker.

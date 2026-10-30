@@ -9,10 +9,10 @@ tags: [connection]
 
 - **Song of Solomon 4:7** — [[You Are All Beautiful]]: *"You are all beautiful, my love. There is no
   spot in you."* (*ûmûm ʾên bāḵ*)
-- **Leviticus 21:17–18** *(not yet fetched; WEB checked at bible-api.com)* — *"None of your offspring
+- **Leviticus 21:17–23** — [[The Holiness of the Priests]] *(stored WEB; ingested)* — *"None of your offspring
   throughout their generations who has a defect may approach to offer the bread of his God"*
   (*ʾăšer yihyeh ḇô mûm*)
-- **Leviticus 22:20–21** *(not yet fetched; WEB checked at bible-api.com)* — *"But whatever has a
+- **Leviticus 22:20–21** *(stored WEB; not yet ingested)* — *"But whatever has a
   defect, that you shall not offer"*; a peace offering *"shall be perfect to be accepted. It shall have
   no defect"* (*tāmîm … kol-mûm lōʾ yihyeh-bô*)
 - **2 Samuel 14:25** *(not yet fetched; WEB checked at bible-api.com)* — Absalom: *"From the sole of
@@ -60,6 +60,13 @@ comparison only: it does not assert that the Hebrew term is the same as the word
 above. The contrast with many royal women and their ensuing praise places 6:9 within
 love poetry. Neither verse by itself declares her sinless or suitable for sacrifice.
 Source for this addition: stored WEB Song 4:7; 6:8–10.
+
+**The full priestly rule now ingested.** Leviticus 21:22 explicitly allows the descendant
+excluded from altar service to eat holy and most holy food. Verse 23 limits approach to
+the veil and altar. The exclusion concerns eligibility for these actions, not a stated
+personal offense or loss of every priestly entitlement. This qualification also prevents
+reading bodily wholeness as a universal measure of moral worth. Source: stored WEB
+Leviticus 21:17–23; this addition makes no new source-language claim.
 
 ## Significance
 

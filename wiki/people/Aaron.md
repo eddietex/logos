@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Priestly holiness — Leviticus 21
+
+Aaron is named as the ancestor of the priestly line and recipient of the bodily-eligibility
+instruction (1, 17, 21, 24). The high-priest rules describe an anointed office (10–15); the
+chapter does not narrate a new anointing or identify a disabled descendant by name.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Aaron and his sons are named among the recipients (2). The priest’s role is
@@ -522,6 +531,9 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

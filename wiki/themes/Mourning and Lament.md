@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Priests may defile themselves for the close relatives enumerated in 2–3, while the high priest
+may not even for parents (11). Hair, beard, cutting, and torn-clothes rules regulate bodily
+practices (5, 10); they do not state that grief itself is forbidden. Leviticus 10:6–7 applies
+similar restrictions to Aaron and his surviving sons during the inauguration crisis.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 **Grief in Scripture is a performance with a vocabulary, a wardrobe, a posture, and a clock**, and
 the Bible describes it far more often than it describes the emotion underneath. The rite is
 remarkably stable from Genesis to Job: the garment is torn, sackcloth is put on, dust or ashes go on
@@ -178,6 +188,9 @@ Aaron appeals to "such things as these" that have happened to him (19) when expl
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Leviticus 21:9 prescribes burning for a priest’s daughter who prostitutes herself. The chapter
+does not report an execution or identify an actual woman. The bodily restrictions of 17–23 are
+not described as punishments for personal wrongdoing.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Stoning is specified for giving offspring to Molech and for mediums or wizards (2, 27); burning is
@@ -564,6 +573,9 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

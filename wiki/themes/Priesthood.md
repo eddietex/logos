@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Ordinary priests may incur corpse defilement for specified close relatives (1–3), but the high
+priest may not do so even for parents (10–12). Bodily defects bar descendants of Aaron from
+altar and veil approach, yet not from eating holy and most holy food (17–23). Descent, service
+eligibility, and food entitlement are distinct.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 Someone appointed to stand between God and people — to offer what people bring and to carry back
 what God gives.
 
@@ -385,6 +395,9 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

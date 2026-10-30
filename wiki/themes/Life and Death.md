@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Death affects priestly access through corpse defilement and differentiated kinship exceptions
+(1–3, 11). Verse 9 also prescribes burning for a priest’s daughter who prostitutes herself; it
+is a legal sanction, not a narrated execution.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Death penalties, cutting off, and childlessness are differentiated (2–21, 27). The chapter gives
@@ -629,6 +638,9 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

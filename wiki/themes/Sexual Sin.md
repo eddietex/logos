@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+The priest’s daughter who prostitutes herself is said to profane her father and is sentenced to
+burning (9). Marriage eligibility is separately regulated in 7 and 13–15; widowhood or
+disability is not thereby identified as a sexual offense.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Adultery and several prohibited unions carry death (10–16), while other cases name cutting off,
@@ -264,6 +273,9 @@ about women in general. 7:28's count is harder and is discussed on the passage p
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

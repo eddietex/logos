@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priestly holiness — Leviticus 21
+
+Verse 7 prohibits priests from marrying a prostitute, a profane woman, or a divorced woman. The
+high priest must marry a virgin of his people and may not marry a widow (13–15). The widow
+restriction belongs explicitly to that office; these rules should not be restated as marriage
+bans for every Israelite.
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 The brother’s-wife prohibition and childlessness sanction (21) remain in tension with Judah’s
@@ -345,6 +355,9 @@ marriage procedure. The identities and chronology remain open.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

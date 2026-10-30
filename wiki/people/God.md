@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Priestly holiness — Leviticus 21
+
+Yahweh grounds priestly obligations in his holiness and sanctifying action (6–8, 15, 23). He
+restricts approach by descendants with bodily defects while expressly preserving their holy-food
+portion (22).
+
+See [[The Holiness of the Priests]]. Source: stored WEB Leviticus 21.
+
+
 ### Penalties and separation — Leviticus 20
 
 Yahweh commands penalties, opposes Molech worship even when the community conceals it, and
@@ -2907,6 +2916,9 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Holiness of the Priests]] — Leviticus 21:1–24.
+
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

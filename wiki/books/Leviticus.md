@@ -137,6 +137,10 @@ Leviticus 20 distinguishes communal penalties from divine cutting off and childl
 and joins land tenure and animal distinctions to belonging to Yahweh. See
 [[Penalties and a People Set Apart]].
 
+Leviticus 21 distinguishes ordinary priests from the high priest in mourning and marriage,
+and restricts bodily eligibility for altar service while retaining holy-food entitlement.
+See [[The Holiness of the Priests]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -182,7 +186,7 @@ merge, or reorder them freely.
 - [x] [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18
 - [x] [[Holy Living in Field and Community]] — Leviticus 19:19–37
 - [x] [[Penalties and a People Set Apart]] — Leviticus 20:1–27
-- [ ] The Holiness of the Priests — Leviticus 21:1–24
+- [x] [[The Holiness of the Priests]] — Leviticus 21:1–24
 - [ ] Eating the Holy Things — Leviticus 22:1–16
 - [ ] Acceptable Victims and the Holy Name — Leviticus 22:17–33
 - [ ] Sabbath, Passover, and Unleavened Bread — Leviticus 23:1–8
