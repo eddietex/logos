@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
+
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - **Genesis 38:8–11** — Judah to Onan: *"perform the duty of a husband's brother to her, and raise up
@@ -20,6 +22,16 @@ tags: [connection]
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
 
 ## Analysis
+
+### Leviticus 20 now ingested
+
+Leviticus 20:21 now explicitly attaches childlessness to taking a brother’s wife. Genesis 38:8
+commands Onan to raise offspring for his deceased brother. The tension remains: Leviticus does not
+specify here whether the brother is living or dead. Its sanction is not stated as a communal
+execution order.
+
+Source: stored WEB Leviticus 20 and the stored chapters cited. Existing broader
+reception material below is retained, not independently reverified in this pass.
 
 ### Leviticus 18 now ingested
 

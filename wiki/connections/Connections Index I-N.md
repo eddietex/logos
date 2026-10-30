@@ -60,7 +60,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Let Me Hear Your Voice - Song of Solomon 2.14-17 and 8.13-14]] | literary-parallel | Song 2:14–17; 4:6; 8:13–14 · [[Make Haste, My Beloved]] |
 | [[Let That Day Be Darkness - Job 3 as Counter-Creation]] | literary-parallel | Job 3:3–10 · Genesis 1:1–2:3 · Job 38:4–21 · Genesis 6:9–8:22 · Psalm 74:13–14 · Isaiah 27:1 · Jeremiah 4:23–26 · Job 11:17 · Job 12:15, 22–25 |
 | [[Let Us Go Down - The Divine Plural in Genesis]] | thread | Genesis 1:26 · Genesis 3:22 · Genesis 11:7 · Genesis 6:2 · Job 1:6 · Isaiah 6:8 · 1 Kings 22:19–22 · Psalm 82:1 |
-| [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 · [[Forbidden Unions and the Defiled Land]] |
+| [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] | theme-thread | Genesis 38:8–11 · Leviticus 18:16; 20:21 · Deuteronomy 25:5–10 · Ruth 1:11–13; 3:1–4:12 · Matthew 22:23–33 · [[Forbidden Unions and the Defiled Land]] · [[Penalties and a People Set Apart]] (Leviticus 20; sanctions now ingested) |
 | [[Life Like a Shadow - Job 14.1-2 and Ecclesiastes 6.12]] | image | [[Though He Slay Me]] · [[From Dust to Dust]] · [[Who Knows What Is Good]] — Life’s passing shadow in Job’s plea and the Preacher’s questions |
 | [[Lift Up Your Eyes - Two Ways of Seeing the Land]] | parallel | Genesis 13:10–11 · Genesis 13:14–15 · Genesis 3:6 · Genesis 6:2 · Deuteronomy 34:1–4 · Matthew 4:8–10 |
 | [[Lift Up Your Head - One Idiom and Two Verdicts]] | thread | Genesis 40:13, 19, 20 · Exodus 30:12 · Numbers 1:2 · Judges 8:28 · 2 Kings 25:27–30 · Psalm 3:3 · Psalm 27:6 · Psalm 110:7 · Jeremiah 52:31–34 |

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Penalties and separation — Leviticus 20
+
+The Sinai setting continues from Leviticus 7:38; chapter 20 names no mountain. Its land
+inheritance remains prospective (22–24).
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The Sinai setting follows the book’s context (7:38); no mountain is named in 19:19–37. Orchard
@@ -438,6 +446,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Cursing father or mother carries death and personal liability (9). This strengthens the
+parent-respect command in 19:3 and shows that the chapter’s sanctions concern speech as well as
+sexual and cultic acts.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 Words as the medium of everything in the Bible — creation, command, blessing, curse, covenant,
 prophecy, prayer — and the one occasion on which God intervenes in the mechanism itself.
 
@@ -550,6 +559,8 @@ Speech can fail by omission of testimony or by rash oath; the corrective respons
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

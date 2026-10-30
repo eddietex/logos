@@ -20173,3 +20173,31 @@ Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets
 wrapped or dangling links. Frontmatter counts, quote matching, title uniqueness for new
 pages, category row updates, and git diff whitespace checks passed.
 Completed by Codex. No unresolved operational issue.
+
+## [2026-10-29] ingest | Leviticus 20.1-27 — Penalties and a People Set Apart
+
+Ingested the next planned pericope in auto mode, with the whole-chapter boundary unchanged.
+Created the passage and the connection [[Prohibitions and Penalties - Leviticus 18 and 20]].
+Revised two people, two places, eighteen themes, three existing connections, three earlier
+passages, the Leviticus overview and queue (29 / 44), nine index/count pages, and this log:
+2 pages created and 39 existing pages revised. Counts are 256 passages, 195 people,
+104 places, 85 themes, and 573 connections.
+
+Distinguished communal execution, specified methods, divine cutting off, bearing iniquity,
+and childlessness. Preserved the brother’s-wife tension with Genesis 38:8 and the distinct
+slave-status case of Leviticus 19:20. The menstrual provision does not make menstruation
+itself an offense; specific childlessness sanctions are not a diagnosis of all infertility.
+Molech remains covered under Idolatry and the existing child-sacrifice connection. Unnamed
+legal roles do not receive invented biographies. Canaan and Sinai remain contextual
+locations rather than names supplied by this chapter.
+
+Five key-verse quotations were copied from and checked against stored WEB Leviticus 20.
+New comparisons use stored Genesis and Leviticus. Existing broader reception material
+in revised connections was retained, not independently reverified; no new unstored-book
+quotation or exact Hebrew/Greek assertion was introduced. No raw, schema, skill, harness,
+or controller file changed.
+
+Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets and no
+wrapped or dangling links. Frontmatter counts, new-title uniqueness, quotation matching,
+category rows, and git diff whitespace checks passed. Completed by Codex.
+No unresolved operational issue.

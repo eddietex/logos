@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The repeated formula assigning offenders’ blood to themselves accompanies death penalties (9,
+11–13, 16, 27). This is liability language in the WEB, distinct from the menstrual blood in verse
+18 and the altar blood of chapter 17.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 **Dām**, blood — in the Hebrew Bible not a substance but a claim. Three convictions run through
 every use of the word, and all three are stated or assumed by the time Genesis 9 is finished:
 
@@ -332,6 +341,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

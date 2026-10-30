@@ -133,6 +133,10 @@ Leviticus 19:19–37 completes the address with field and bodily boundaries, a t
 offering case, orchard fruit, sanctuary reverence, elder-honor, foreigner-love, and
 honest measures. See [[Holy Living in Field and Community]].
 
+Leviticus 20 distinguishes communal penalties from divine cutting off and childlessness,
+and joins land tenure and animal distinctions to belonging to Yahweh. See
+[[Penalties and a People Set Apart]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -177,7 +181,7 @@ merge, or reorder them freely.
 - [x] [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30
 - [x] [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18
 - [x] [[Holy Living in Field and Community]] — Leviticus 19:19–37
-- [ ] Penalties and a People Set Apart — Leviticus 20:1–27
+- [x] [[Penalties and a People Set Apart]] — Leviticus 20:1–27
 - [ ] The Holiness of the Priests — Leviticus 21:1–24
 - [ ] Eating the Holy Things — Leviticus 22:1–16
 - [ ] Acceptable Victims and the Holy Name — Leviticus 22:17–33
@@ -195,6 +199,14 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Barrenness]]
+
+- [[Call and Election]]
+
+- [[The Nations]]
+
+- [[Nakedness and Covering]]
 
 - [[Redemption]]
 

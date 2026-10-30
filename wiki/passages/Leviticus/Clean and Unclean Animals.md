@@ -71,6 +71,8 @@ his bringing Israel out of Egypt to be their God (44–47).
 
 ## Cross-references
 
+- [[Prohibitions and Penalties - Leviticus 18 and 20]] — [[Penalties and a People Set Apart]] develops penalties and separation in Leviticus 20.
+
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]] for comparison.
 - [[Mildew in Garments]] — Leviticus 13:47–59; distinct rules for affected material.
 

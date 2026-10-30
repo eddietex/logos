@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Penalties and separation — Leviticus 20
+
+The land promised as an inheritance flowing with milk and honey can also vomit Israel out (22–24).
+Canaan is identified by the context of 18:3; its name is not repeated here.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The land entered and planted with fruit trees (23) is Canaan in the wider context of 18:3. The
@@ -137,6 +145,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

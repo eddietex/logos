@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The chapter distinguishes commanded communal execution from divine cutting off, bearing iniquity,
+and childlessness (2–21, 27). Keeping all the statutes is tied to remaining in the land (22);
+these sanctions must not be flattened into one procedure.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 **God's commands to his people, and their hearing and keeping of them.** The Torah's vocabulary is
 already plural before Sinai:
 
@@ -680,6 +689,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

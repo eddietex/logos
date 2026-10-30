@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Yahweh has separated Israel from the peoples to belong to him (24, 26). That election includes
+obligations and the possibility of expulsion (22), rather than guaranteeing possession regardless
+of conduct.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 God choosing and summoning particular people, for purposes that reach past them.
 
 The theme has a founding text and it is Genesis 12:1. *"Now Yahweh said to Abram, 'Leave your
@@ -135,6 +144,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Named appointments lead to credited work within a wider company.
 

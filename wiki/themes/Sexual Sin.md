@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Adultery and several prohibited unions carry death (10–16), while other cases name cutting off,
+bearing iniquity, or childlessness (17–21). Verse 13 addresses male same-sex intercourse and
+assigns death to both participants; it does not describe modern categories of orientation.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 **Genesis narrates a great deal of illicit sex and legislates none of it.** There is no commandment in
 the book, no prohibition issued to anyone, and — with two exceptions — **no verdict passed by the
 narrator on any of it.** What the book gives instead is a sequence of episodes in which the wrongness is
@@ -255,6 +264,8 @@ about women in general. 7:28's count is harder and is discussed on the passage p
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

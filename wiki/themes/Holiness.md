@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The commands to sanctify themselves and keep the statutes stand beside Yahweh’s declaration that
+he sanctifies them (7–8). Separation from peoples and discrimination among animals culminate in
+belonging to God (24–26).
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 **Holiness in Scripture is first a matter of belonging and distance, and only later of moral
 character.** The Hebrew root ***q-d-š*** marks what is set apart for God and therefore not available
 for common use — a day, a place, an object, a people. **The first holy thing in the Bible is a time**:
@@ -434,6 +443,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

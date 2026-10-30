@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Giving offspring to Molech defiles the sanctuary and profanes the holy name (2–5). Concealment by
+the community does not prevent divine action. Consulting mediums brings divine cutting off (6),
+while being a medium or wizard carries stoning (27); these are distinct cases.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 **The worship, possession, or consultation of other gods, and forbidden images used in worship** — and in Genesis
 it is remarkable chiefly for how little the book says about it.
 
@@ -212,6 +221,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

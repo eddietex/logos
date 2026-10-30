@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Giving offspring to Molech is said to defile God’s sanctuary (3), although no entry into it is
+described. Sanctuary protection here includes conduct beyond the sanctuary precinct.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 **God living in the middle of his people — not only appearing to them, visiting them, or meeting them
 at a mountain, but staying.** The key text is Exodus 25:8: *"Let them make me a sanctuary, that I may
 dwell among them"* — *wəšākantî bətôkām* (MAM). The verb is ***šākan***, *to dwell* or *settle*, and its
@@ -343,6 +351,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

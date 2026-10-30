@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The brother’s-wife prohibition and childlessness sanction (21) remain in tension with Judah’s
+command to Onan to raise offspring for his dead brother in Genesis 38:8. Neither a living-brother
+restriction nor a widowhood exception is explicit in Leviticus 20:21.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 The union of a man and a woman as *one flesh*, established in Genesis 2 and treated ever after as
 a created ordinance rather than a social arrangement. One verse carries almost the entire weight:
 
@@ -336,6 +345,8 @@ marriage procedure. The identities and chronology remain open.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

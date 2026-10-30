@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Israel must not imitate the nation being expelled and is set apart to belong to Yahweh (23–26).
+This is the law’s theological account of the inhabitants’ conduct, not independent evidence about
+every person in that land.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 *Gôyim* — the peoples of the earth, taken together as a category. Everything the Bible says about
 them assumes the list in Genesis 10.
 
@@ -124,6 +133,8 @@ promise is future, not a report of conquest completed. See [[The Covenant Renewe
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

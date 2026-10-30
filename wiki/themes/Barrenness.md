@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The uncle’s-wife and brother’s-wife cases specify dying childless or being childless (20–21).
+These particular sanctions do not establish that all infertility is punishment; Genesis 11:30
+states Sarai’s barrenness without naming an offense.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 A womb that does not open, in a book whose entire structure is a list of children being born.
 
 The theme enters Scripture in six Hebrew words at the end of a genealogy: *"Sarai was barren. She
@@ -88,6 +97,8 @@ Yahweh opened. See
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Four Things]] — Proverbs 30:16; The barren womb listed with Sheol, earth, and fire as never satisfied.
 

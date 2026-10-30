@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Some cases specify bearing iniquity or sin (17, 19–20); the chapter supplies no sacrificial
+remedy. Its account of prohibited conduct should not be generalized into a claim that every bodily
+impurity is sinful.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 Human action against God's word, and the condition that follows from it. Genesis narrates the
 first instance in [[The Fall]] without ever using the word: Hebrew *ḥaṭṭāʾt* does not appear until
 4:7, and even the term *fall* is later theology rather than the text's own. What Genesis 3 gives
@@ -511,6 +520,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

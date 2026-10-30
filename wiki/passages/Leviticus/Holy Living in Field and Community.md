@@ -89,6 +89,8 @@ The unit closes by requiring observance of all his statutes and ordinances (35â€
 
 ## Cross-references
 
+- [[Prohibitions and Penalties - Leviticus 18 and 20]] â€” [[Penalties and a People Set Apart]] develops penalties and separation in Leviticus 20.
+
 - [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]]
 - [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]]
 - [[Love Your Neighbor - Leviticus 19 and Matthew 22]]

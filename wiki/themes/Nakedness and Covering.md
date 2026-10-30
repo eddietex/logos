@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The stored WEB describes intercourse with the father’s, uncle’s, or brother’s wife as uncovering
+the corresponding man’s nakedness (11, 20–21). Sister and aunt cases also employ nakedness
+language (17, 19); this is an observation about the translation, not a new Hebrew claim.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 Genesis takes an interest in who is naked, who sees it, and who covers it, and the interest is
 structural rather than incidental: the primeval history's two worst episodes both turn on exposure,
 and both are resolved by someone putting a garment on someone else.
@@ -165,6 +174,8 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
 *Miqra according to the Masorah*.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

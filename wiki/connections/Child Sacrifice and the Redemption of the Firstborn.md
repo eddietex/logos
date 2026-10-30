@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
+
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28.
@@ -28,6 +30,16 @@ tags: [connection]
 - **Micah 6:6–8** — *"Shall I give my firstborn for my disobedience?"*
 
 ## Analysis
+
+### Leviticus 20 now ingested
+
+Leviticus 20:2–5 now supplies communal stoning, divine cutting off, and the case of a community
+hiding its eyes. Giving offspring to Molech defiles the sanctuary and holy name. Neither firstborn
+status nor a ritual technique is specified here; the redemption comparison must retain that
+distinction.
+
+Source: stored WEB Leviticus 20 and the stored chapters cited. Existing broader
+reception material below is retained, not independently reverified in this pass.
 
 ### Leviticus 18 now ingested
 

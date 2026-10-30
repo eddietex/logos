@@ -7,10 +7,22 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
+
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:16–24, 31.
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:19–30.
 
 ## Analysis
+
+### Leviticus 20 now ingested
+
+Leviticus 20:18 now adds cutting off for intercourse during menstruation. This strengthens the
+prohibition in 18:19 without making menstruation itself an offense or turning 15:24 into
+permission. Verses 22–26 join the land warning to animal distinctions and Israel’s separation to
+God.
+
+Source: stored WEB Leviticus 20 and the stored chapters cited. Existing broader
+reception material below is retained, not independently reverified in this pass.
 
 Leviticus 15 assigns uncleanness to bodily processes without identifying an offense in
 each case. Verse 24 gives seven days of uncleanness in the described intercourse case.

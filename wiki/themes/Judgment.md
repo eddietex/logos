@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Stoning is specified for giving offspring to Molech and for mediums or wizards (2, 27); burning is
+specified in the wife-and-mother case (14). Other cases state death without naming a method.
+Divine opposition persists when the people conceal Molech worship (3–5).
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 God's assessment of human conduct, including good and evil (Ecclesiastes 12:14).
 His response to wrongdoing includes coming, investigating, sentencing, and — in Genesis, without
 exception — providing for the sentenced. [[The Fall]] runs the sequence for the first time, and
@@ -555,6 +564,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Giving offspring to Molech profanes Yahweh’s holy name (3). Yahweh identifies himself as the one
+who sanctifies Israel (8) and separates the people to belong to him (26).
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 What God is called, who calls him it, and what each name is doing in the sentence it appears in.
 
 Genesis does not use one name. It opens with *ʾĕlōhîm*, switches to the compound *Yahweh ʾĕlōhîm*
@@ -180,6 +188,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

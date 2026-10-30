@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Israel’s inheritance of the land (24) stands alongside the warning of expulsion (22). The Molech
+prohibition applies explicitly to resident foreigners as well as Israelites (2); separation does
+not exempt Israel from judgment.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 Going somewhere and not arriving; living in a place that belongs to someone else.
 
 The theme begins in a travel notice. *"They went from Ur of the Chaldees, to go into the land of
@@ -230,6 +239,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Penalties and separation — Leviticus 20
+
+Moses receives the speech and must relay it to Israel (1–2). The chapter gives sanctions and the
+reason for national separation rather than narrating a trial.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The address entrusted to Moses in 19:1–2 continues through 37. He mediates these agricultural,
@@ -923,6 +931,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

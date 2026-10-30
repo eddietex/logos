@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+The separation of clean and unclean animals is joined to Israel’s separation from the peoples
+(24–26). Intercourse during menstruation brings cutting off (18), beyond the bodily status in
+15:24; menstruation itself is not declared an offense.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 A distinction between what may approach the holy and what may not — applied in the Torah to animals,
 foods, bodies, discharges, disease, corpses, and objects. Ritual impurity need not imply wrongdoing or poor hygiene. Leviticus 18 also applies
 defilement to prohibited conduct and the land; the distinction must be made by context.
@@ -368,6 +377,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

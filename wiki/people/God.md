@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Penalties and separation — Leviticus 20
+
+Yahweh commands penalties, opposes Molech worship even when the community conceals it, and
+identifies himself as the one who sanctifies Israel (1–8). His separation of Israel is for
+belonging to him (26).
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Yahweh gives these commands within the address of 19:1–2 and identifies himself as the one who
@@ -2898,6 +2907,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Penalties and separation — Leviticus 20
+
+Death penalties, cutting off, and childlessness are differentiated (2–21, 27). The chapter gives
+sanctions, not a narrative of their execution or a description of the offenders’ afterlife.
+
+See [[Penalties and a People Set Apart]]. Source: stored WEB Leviticus 20; comparisons as cited.
+
+
 Life in Scripture is not a property things have on their own but something given and sustained by
 God, and death is its withdrawal. Genesis establishes both in a single scene.
 
@@ -621,6 +629,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

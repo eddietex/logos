@@ -65,6 +65,8 @@ individual offenders face cutting off (24–30).
 
 ## Cross-references
 
+- [[Prohibitions and Penalties - Leviticus 18 and 20]] — [[Penalties and a People Set Apart]] develops penalties and separation in Leviticus 20.
+
 - [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]]
 - [[Child Sacrifice and the Redemption of the Firstborn]]
 - [[The Curse of Canaan and the Conquest]]
