@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+A fight in the camp occasions the curse (10–11). The text does not say who began the
+fight or what it concerned; the resulting judgment cannot establish the other
+combatant’s innocence in every respect.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 Genesis is largely a book about relatives who cannot get along. What it mostly narrates is the
 quarrel; what it rarely narrates is anyone stopping one. This theme tracks both — the strife, and the
 much smaller set of occasions on which somebody defuses it, and on what terms.
@@ -343,6 +351,8 @@ See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; com
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

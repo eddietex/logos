@@ -169,6 +169,10 @@ its evening-to-evening observance.
 an eighth-day assembly, and instruction about the departure from Egypt. Moses declares
 the appointed feasts, closing the calendar.
 
+[[The Blasphemer and One Law for All]] (24:10–23) interrupts the laws with a camp dispute,
+custody, divine ruling, and execution. The case grounds general rules about
+blasphemy, injury, and one law for foreigner and native-born.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -222,7 +226,7 @@ merge, or reorder them freely.
 - [x] [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32
 - [x] [[The Feast of Booths]] — Leviticus 23:33–44
 - [x] [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9
-- [ ] The Blasphemer and One Law for All — Leviticus 24:10–23
+- [x] [[The Blasphemer and One Law for All]] — Leviticus 24:10–23
 - [ ] The Sabbatical Year and the Jubilee — Leviticus 25:1–22
 - [ ] Redemption of Land and Houses — Leviticus 25:23–34
 - [ ] The Poor Brother and Redemption from Service — Leviticus 25:35–55

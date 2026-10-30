@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The WEB calls the object of the offense the Name (11), and the ruling identifies
+Yahweh’s name (16). The narrative does not reproduce the offending words. It cannot
+establish from those missing words a rule about mere pronunciation of the name.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### My holy name — Leviticus 22:17–33
 
 "My holy name" (32) and the refrain "I am Yahweh" (30, 31, 33) close the priestly holiness laws.
@@ -215,6 +223,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

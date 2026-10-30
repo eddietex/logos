@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The foreigner and native-born face the same blasphemy sanction and legal standard
+(16, 22). The offender has an Israelite mother and Egyptian father (10–11), but the
+narrator does not explicitly assign him either legal category.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Penalties and separation — Leviticus 20
 
 Israel’s inheritance of the land (24) stands alongside the warning of expulsion (22). The Molech
@@ -256,6 +264,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

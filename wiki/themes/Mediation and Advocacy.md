@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+Moses receives the accused, waits with the community for Yahweh’s will, and conveys
+the ruling (11–13, 23). His role here is transmission of judgment; no intercession
+or appeal for mitigation is narrated.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 The need for someone to stand *between* — between God and a person, or between two parties one of
 whom is God — and the Bible's various answers to it. The theme has two distinguishable strands that
 converge late:
@@ -343,6 +351,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

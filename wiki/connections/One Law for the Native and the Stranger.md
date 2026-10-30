@@ -14,7 +14,7 @@ tags: [connection]
   of it. One law shall be to him who is born at home, and to the stranger who lives as a foreigner among
   you"* — [[The Death of the Firstborn and the Departure]]
 - **Leviticus 24:22** — *"You shall have one kind of law for the foreigner as well as the native-born; for I
-  am Yahweh your God"* *(not yet ingested)*
+  am Yahweh your God"* — [[The Blasphemer and One Law for All]]
 - **Numbers 9:14** — the Passover again: *"You shall have one statute, both for the foreigner, and for him
   who is born in the land"* *(not yet ingested)*
 - **Numbers 15:15–16** — the offerings: *"there shall be one statute for you and for the stranger who lives
@@ -30,6 +30,16 @@ tags: [connection]
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
 ## Analysis
+
+### The narrated case — Leviticus 24:10–23
+
+[[The Blasphemer and One Law for All]] now supplies the setting: a man of mixed parentage is
+held until Yahweh’s ruling, and the sentence is carried out (10–16, 23). The
+foreigner/native distinction applies to the blasphemy penalty itself (16),
+then to the legal standard after the injury cases (22). The text does not
+explicitly classify this defendant as a foreigner. Equal law in these cases
+should not be generalized into the abolition of every status distinction
+elsewhere in Torah. Source for this addition: stored WEB Leviticus 24:10–23.
 
 **The phrase is a formula, and it begins at the Passover.** Exodus 12:49's ***tôrâ ʾaḥat***, *one law*, is
 the first singular *tôrâ* in Scripture (Genesis has only the plural, *"my laws"*, 26:5; WLC lemma

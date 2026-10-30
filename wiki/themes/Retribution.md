@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The corresponding-injury rule assigns a judicial consequence to a specified offense
+(19–20). It does not authorize inferring hidden guilt from someone’s misfortune, the
+reverse reasoning challenged in Job.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 The conviction that God so orders the world that righteousness is rewarded and wickedness punished
 *within this life*, and therefore that a person's circumstances are a readable index of their
 standing with God. Prosperity implies favour; catastrophe implies guilt; the size of the
@@ -595,6 +603,8 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; Universal judgment affirmed without explaining present reversals.
 

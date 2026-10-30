@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The tribe of Dan identifies Shelomith’s family in Leviticus 24:11. This is a tribal
+reference to the ancestral name, not an appearance of the patriarch in the camp.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 **Bilhah's first son, Jacob's fifth, and a name that is a legal verdict.**
 
 > **6** Rachel said, “God has judged me, and has also heard my voice, and has given me a son.”
@@ -108,6 +115,8 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   [[The Oppression in Egypt]]
 
 ## Appears in
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23 (tribal reference).
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Tribal ancestor named in Oholiab’s identification (38:23).
 

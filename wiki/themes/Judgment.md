@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The offender is held until Yahweh declares his will; the hearers lay hands on his head,
+and the congregation executes the sentence outside the camp (12–16, 23). This is a
+narrated communal execution, unlike warnings that leave enforcement unspecified.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Cut off from before me — Leviticus 22:3, 9
 
 A descendant of Aaron who approaches the holy things unclean is cut off "from before me" (3), and
@@ -589,6 +597,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

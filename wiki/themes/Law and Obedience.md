@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+Custody precedes the divine ruling (12); Moses then delivers it and Israel performs it
+(23). One law covers foreigner and native-born (22), including the capital sanction
+for blasphemy (16). Equal application here does not erase other status distinctions
+in the law, such as Exodus 21:26–27 on injured servants.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Keep my commandments — Leviticus 22:17–33
 
 "Therefore you shall keep my commandments, and do them. I am Yahweh" (31) summarizes the priestly
@@ -759,6 +768,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

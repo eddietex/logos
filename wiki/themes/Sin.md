@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+Cursing God entails bearing sin (15), and blaspheming Yahweh’s name carries death
+(16). No offering or restoration procedure is supplied for this case; the passage
+should not be rewritten as one of the earlier sacrificial remedies.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Penalties and separation — Leviticus 20
 
 Some cases specify bearing iniquity or sin (17, 19–20); the chapter supplies no sacrificial
@@ -520,6 +528,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

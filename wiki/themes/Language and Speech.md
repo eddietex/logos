@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+A fight leads to blasphemy and cursing (10–11). Those who heard the speech participate
+in the prescribed hand-laying (14). The speech itself is not quoted, so neither its
+precise wording nor the quarrel’s cause can be reconstructed from this account.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Penalties and separation — Leviticus 20
 
 Cursing father or mother carries death and personal liability (9). This strengthens the
@@ -559,6 +567,8 @@ Speech can fail by omission of testimony or by rash oath; the corrective respons
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

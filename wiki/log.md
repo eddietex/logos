@@ -20443,3 +20443,30 @@ Link checks passed: no wrapped links or unexpected dangling targets; 59 unstarte
 book pages remain the expected baseline. Quotation fidelity, type-based totals, the
 next unchecked boundary, and diff whitespace were checked. No unresolved blocker or
 harness change.
+
+## [2026-10-30] ingest | Leviticus 24.10-23 — The Blasphemer and One Law for All
+
+Ingested the planned unit in auto mode. Created the passage, Shelomith, Dibri,
+and The Son of Shelomith, plus a connection pairing Exodus 22:28 with the
+narrated judgment. Revised God, Moses, Dan (person), Egypt, Horeb, thirteen
+themes, and the existing equal-law and eye-for-eye connections; updated book
+queue, category rows, and counts. Leviticus is now 38 / 44 pericopes.
+
+Judgments: kept the boundary; used a relational title for the unnamed offender.
+The unnamed father and opponent receive no separate biographies; Dan is a
+tribal reference, Egypt an origin, and Sinai only contextual. The account does
+not assign guilt to Shelomith or Dibri or explain the offender’s legal status.
+Explicitly retained tensions between equal law and distinct servant remedies,
+and between communal penalties and prohibited private vengeance. Hand-laying
+is not asserted to transfer guilt.
+
+All new quotations were copied from stored WEB Leviticus 24. Comparisons use
+stored Exodus 21–22 and Leviticus 19; existing external verification records
+are preserved without adding unverified quotations or language claims. Raw
+texts and workflow instructions were unchanged.
+
+Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets;
+no wrapped or dangling links. Verified all fourteen quoted verses against raw,
+new-title uniqueness and index membership, and frontmatter counts: 265 passages,
+198 people, 104 places, 85 themes, 575 connections. Five pages created and
+32 existing pages revised (including indexes and log); no unresolved issue.

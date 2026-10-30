@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The accused is brought to Moses and kept in custody pending Yahweh’s decision
+(11–12). Moses receives and transmits the ruling; the community carries out the
+execution (13–23). No spontaneous sentence by Moses is reported.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Moses receives the command and must direct Israel to supply oil (1–2). The speech
@@ -994,6 +1002,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

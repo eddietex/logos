@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The fight, custody, and execution occur in and outside Israel’s camp (10–23). Sinai
+is the book’s contextual setting (Leviticus 7:38; 25:1), not a mountain named in this
+unit. No new journey is narrated.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The Tent of Meeting is explicitly named (3); Sinai is the book’s contextual setting
@@ -512,6 +520,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

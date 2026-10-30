@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+Killing an animal requires making the loss good (18, 21). No theft is alleged here:
+restitution addresses a destroyed animal, while human killing carries a different
+sanction. The chapter supplies no monetary conversion for its bodily-injury rule.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Unwitting eating of holy things — Leviticus 22:14
 
 A man who eats something holy unwittingly adds a fifth of its value and gives the holy thing to
@@ -167,6 +175,8 @@ provisions; neither expressly explains how the penalties interact in an overlapp
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

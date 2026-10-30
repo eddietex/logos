@@ -50,6 +50,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Birds and Cleansing - Persons and Houses in Leviticus 14]] | legal-ritual-parallel | [[The Cleansing of the Leper]] · [[Mildew in a House]] (Leviticus 14:1–57) |
 | [[Bitter Water Made Sweet - Marah and Elisha's Spring]] | parallel | Exodus 15:23–26 · 2 Kings 2:19–22 · Ezekiel 47:8–9 · Revelation 22:2 |
 | [[Blameless Before Anyone Is Watching]] | parallel | Genesis 6:9 · Job 1:1 · Job 1:8, 2:3 · Genesis 7:1 · Ezekiel 14:12–20 · James 5:11 · Hebrews 11:7 |
+| [[Blasphemy Forbidden and Judged - Exodus 22 and Leviticus 24]] | parallel | Exodus 22:28 · Leviticus 24:10–23 |
 | [[Blessed Are His Children - Proverbs 20.7 and the Losses of Job]] | thematic-parallel | [[Wine Is a Mocker]] — Proverbs 20:7, 9 · [[A False Balance]] — Proverbs 11:21 · [[Job of Uz]] — Job 1:1–5 · [[The Wager in Heaven and the Four Messengers]] — Job 1:6–22 · [[The Second Test]] — Job 2:1–10 · [[Why Do the Wicked Live]] — Job 21:7–9 |
 | [[Blessed Be God Who Delivered - Melchizedek and Jethro]] | typology | Genesis 14:18–20 · Exodus 18:1, 9–12 |
 | [[Blessed for His Sake - Laban's House and Potiphar's]] | parallel | Genesis 12:1–3 · Genesis 26:12–14 · Genesis 30:27, 30 · Genesis 39:5 · 2 Samuel 6:11 |

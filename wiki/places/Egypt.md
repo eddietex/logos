@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The offender’s father is described as Egyptian (10). Egypt supplies paternal
+identity, not the scene of the fight; neither the father’s name nor his history is
+given.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Egypt is the land from which Yahweh brought Israel (43). The shelters recall the
@@ -151,6 +159,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

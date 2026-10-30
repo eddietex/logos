@@ -9,12 +9,19 @@ tags: [connection]
 
 - [[Laws of Violence and Injury]] — Exodus 21:22–27: injury in a fight, proportionate penalties, and release of an
   injured servant.
-- Leviticus 24:17–22 — matching injury and one law for native and foreigner; verified WEB,
-  not yet ingested.
+- [[The Blasphemer and One Law for All]] — Leviticus 24:17–22: matching injury and one law
+  for native and foreigner; now ingested from stored WEB.
 - Matthew 5:38–42 — Jesus quotes the eye-and-tooth rule and commands nonretaliation; verified WEB,
   not yet ingested.
 
 ## Analysis
+
+The full Leviticus unit places the injury rules inside the blasphemy case:
+custody and divine sentence precede them, execution follows (24:10–23).
+This narrative frame matters: corresponding injury is given as public law,
+not as the offender’s justification for the fight. The killing of an animal
+requires replacement (18, 21), not the animal-killer’s death. Source for this
+addition: stored WEB Leviticus 24:10–23.
 
 Exodus introduces the matching scale within a case involving a pregnant woman injured in a fight.
 Its immediate surroundings include fines, payment for lost time and healing, and freedom for a

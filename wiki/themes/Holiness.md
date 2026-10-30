@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The name profaned in the camp receives judicial protection (11–16). Holiness reaches
+beyond priestly offerings into ordinary conflict and speech; the offender is taken
+outside the camp for execution, not for a cleansing rite.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Acceptable victims and the holy name — Leviticus 22:17–33
 
 Chapters 21–22 close with "You shall not profane my holy name, but I will be made holy among the
@@ -515,6 +523,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

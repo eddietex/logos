@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+Yahweh answers the unresolved case with a sentence and general laws protecting his
+name and governing death and injury (13–22). His self-identification grounds one law
+for foreigner and native-born.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Yahweh commands light and bread before him, providing an enduring pattern of service
@@ -2974,6 +2982,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

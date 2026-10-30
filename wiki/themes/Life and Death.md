@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+The law distinguishes killing a human, which carries death, from killing an animal,
+which requires replacement (17–21). The same unit narrates a death sentence for
+blasphemy, showing that its capital offenses are not limited to homicide.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 ### Death and the holy food — Leviticus 22:1–16
 
 Corpse contact and carcasses defile the priest (4, 8), and a priest who profanes the commandment
@@ -647,6 +655,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

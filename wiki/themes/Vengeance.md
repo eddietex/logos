@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The blasphemer and one law — Leviticus 24:10–23
+
+Matching injury is prescribed as a legal response (19–20), not a report of private
+revenge. Alongside Leviticus 19:18’s prohibition of vengeance, the texts distinguish
+communal judgment from a personal grudge without denying either instruction.
+
+See [[The Blasphemer and One Law for All]]. Source: stored WEB Leviticus 24:10–23.
+
 Harm returned for harm — who may return it, on what scale, and on whose authority. The Bible's
 first two statements on the subject stand three verses apart in the same chapter, and the second is
 a corruption of the first.
@@ -144,6 +152,8 @@ the couplet after *"Vengeance belongs to me; I will repay, says the Lord"* (Roma
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
 ## Key passages
+
+- [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
