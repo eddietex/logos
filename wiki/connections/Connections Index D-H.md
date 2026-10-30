@@ -15,6 +15,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] | legal-ritual-parallel | [[The Day of Atonement]] · Leviticus 23:26–32 |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
+| [[Defilement of Body and Land - Leviticus 15 and 18]] | law-comparison | [[Bodily Discharges and Cleansing]] · [[Forbidden Unions and the Defiled Land]] |
 | [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] | legal-thematic-parallel | Exodus 19:1–6 · Exodus 20:1–3 · Exodus 22:31 · Leviticus 11:44–47 |
 | [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] · [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4) |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |

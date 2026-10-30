@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - **Genesis 22:1–19** — God asks for a son as a burnt offering and stops the knife. See
@@ -26,6 +28,12 @@ tags: [connection]
 - **Micah 6:6–8** — *"Shall I give my firstborn for my disobedience?"*
 
 ## Analysis
+
+### Leviticus 18 now ingested
+
+Leviticus 18:21 explicitly forbids giving children as a sacrifice to Molech in the stored WEB. It does not limit the ban to firstborn children or describe the procedure. It must be distinguished from the redemption commands in Exodus 13:13 and 34:20; the broader tensions recorded on this page remain.
+
+Source: stored WEB Leviticus 18; Genesis and Exodus for the comparisons.
 
 **Genesis 22 asks for the one thing the rest of the Bible says most vehemently that God does not
 want. That is the problem, and it does not go away by being restated gently.**

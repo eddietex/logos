@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
+
 - **Genesis 35:22** — *"While Israel lived in that land, Reuben went and lay with Bilhah, his father's
   concubine, and Israel heard of it. Now the sons of Jacob were twelve."* See
   [[Return to Bethel; the Deaths of Rachel and Isaac]].
@@ -30,6 +32,12 @@ tags: [connection]
   about it.
 
 ## Analysis
+
+### Leviticus 18 now ingested
+
+Leviticus 18:8 prohibits uncovering the father’s wife’s nakedness. This gives a legal comparison for Reuben’s act in Genesis 35:22 and the defilement charge in 49:4, but does not itself assign a political motive.
+
+Source: stored WEB Leviticus 18; Genesis and Exodus for the comparisons.
 
 ### Four men, one act, and it is always about who is in charge
 

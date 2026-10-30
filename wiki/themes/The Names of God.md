@@ -66,6 +66,12 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Yahweh’s self-identification frames the commands (2, 4–6, 21, 30). Giving children to Molech is joined to profaning God’s name (21).
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 - **Exodus 3:13–15 gives the name a gloss and not an etymology.** *"I AM WHO I AM"* — *ʾehyeh ʾăšer
   ʾehyeh* — which links *Yahweh* to the verb *to be* without explaining it, and is followed by
   *"This is my name forever, and this is my memorial to all generations."*
@@ -157,6 +163,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Words of Agur]] — Proverbs 30:3–5, 9.
 

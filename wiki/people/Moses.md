@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Moses receives the charge to speak to Israel (1–2), now about household boundaries, forbidden worship, and the land.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Moses receives the speech and must transmit it to Aaron, his sons, and all
@@ -901,6 +907,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

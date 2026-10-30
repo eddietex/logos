@@ -43,6 +43,12 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Egypt and Canaan supply practices Israel must not imitate (3). The nations’ conduct explains expulsion, but Israel receives the same warning (24–28). This is the text’s theological portrayal, not independent ethnographic evidence about every inhabitant.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 - **Genesis 9:1, 9:7; 10:32** — the command to fill the earth, and the report that it was done. The
   only command of God in the primeval history that is simply carried out.
 - **Genesis 10:1–32** — the seventy: one ancestry for all of them, organized by families, languages,
@@ -118,6 +124,8 @@ promise is future, not a report of conquest completed. See [[The Covenant Renewe
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Six peoples displaced; alliances warned against for their
   worship consequences.

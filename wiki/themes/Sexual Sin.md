@@ -26,6 +26,12 @@ which Genesis treats as ordinary and which belong to [[Marriage]], nor the speci
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+The chapter prohibits specified kinship unions (6–18), intercourse during menstrual impurity (19), adultery (20), male same-sex intercourse (22), and intercourse with animals (23). It describes acts, not modern categories of sexual orientation.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### In Genesis: assumed, never commanded
 
 **The striking thing is how confident everyone is about a rule nobody has been given.**
@@ -240,6 +246,8 @@ about women in general. 7:28's count is harder and is discussed on the passage p
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:26; the ensnaring woman, read against Proverbs' adulteress.
 

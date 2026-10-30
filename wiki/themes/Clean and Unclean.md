@@ -7,8 +7,8 @@ tags: [theme]
 ## Definition / overview
 
 A distinction between what may approach the holy and what may not — applied in the Torah to animals,
-foods, bodies, discharges, disease, corpses, and objects. It is a **ritual** category rather than a
-moral or a hygienic one, and confusing it with either produces most of the bad readings of Leviticus.
+foods, bodies, discharges, disease, corpses, and objects. Ritual impurity need not imply wrongdoing or poor hygiene. Leviticus 18 also applies
+defilement to prohibited conduct and the land; the distinction must be made by context.
 
 The Hebrew pair is **ṭāhôr** (clean, pure) and **ṭāmēʾ** (unclean, defiled). Two things are worth
 fixing at the start. Unclean does not mean *dirty*, and it does not mean *sinful*: burying a parent
@@ -55,6 +55,12 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 [[Confession and Offerings According to Means]].
 
 ## Development across Scripture
+
+### Forbidden unions and the land — Leviticus 18:1–30
+
+The earlier nonmoral definition needs qualification: Leviticus 12 and 15 describe bodily conditions without necessarily identifying an offense, while 18:20–30 expressly associates defilement with prohibited conduct and the land. Menstruation itself is not identified as sin; sexual approach during it is forbidden (19).
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
 
 ### Sacrifice and blood — Leviticus 17:1–16
 
@@ -354,6 +360,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

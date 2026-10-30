@@ -65,6 +65,12 @@ has been argued.
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Prohibited acts defile persons and land (24–30). Unlike the bodily conditions in chapters 12–15, these acts are expressly forbidden, and chapter 18 supplies no washing-and-waiting remedy.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 The text assigns blood liability to prohibited slaughter (4), condemns
@@ -487,6 +493,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Canaan is the anticipated destination (3), but the land’s expulsion of inhabitants warns Israel against the same conduct (24–28).
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 The house law explicitly anticipates entry into Canaan, given by Yahweh as a possession
@@ -123,6 +129,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

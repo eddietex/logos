@@ -40,6 +40,12 @@ nakedness may not be revealed"* (Revelation 3:18).
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Uncovering nakedness organizes the kinship prohibitions (6–18); the father’s wife and brother’s wife are described through the corresponding male relative (8, 16). This observation concerns the stored WEB wording, not an exact Hebrew claim.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 - **Genesis 2:25** — *"both naked, and they were not ashamed"*: the state the fall interrupts, placed
   deliberately as the last line before Genesis 3. See [[The Garden of Eden]].
 - **Genesis 3:7, 3:10–11, 3:21** — the eyes opened, the fig leaves, the hiding, and God's question
@@ -159,6 +165,8 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
 *Miqra according to the Masorah*.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:3, 7; the robe taken off, and the cloak taken
   away.

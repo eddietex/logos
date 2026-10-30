@@ -40,6 +40,12 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Yahweh’s self-identification frames household boundaries and rejection of neighboring customs (2–5, 30). The Molech prohibition is joined to not profaning God’s name (21).
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Sacrificial allegiance and ordinary meals fall under the sanctuary’s ordering:
@@ -409,6 +415,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

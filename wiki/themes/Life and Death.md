@@ -68,6 +68,12 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Obedience is associated with life (5), child sacrifice is forbidden (21), and prohibited acts bring cutting off (29). The chapter does not define the life promise as immortality.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 The life of flesh grounds the blood restriction (11, 14). Permission to eat
@@ -607,6 +613,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

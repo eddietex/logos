@@ -40,6 +40,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Yahweh’s statutes replace Egypt’s and Canaan’s practices (3–5); obedience is associated with life (5). Native-born people and resident foreigners alike must refrain from the prohibited acts (26).
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 The rules distinguish livestock slaughter (3–7), offerings (8–9), blood eating
@@ -657,6 +663,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

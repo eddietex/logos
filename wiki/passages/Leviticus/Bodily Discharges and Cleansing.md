@@ -67,6 +67,8 @@ same community, without every bodily process being named a moral transgression.
 
 ## Cross-references
 
+- [[Defilement of Body and Land - Leviticus 15 and 18]] — 15:24 gives a status consequence; 18:19 states a prohibition.
+
 - [[Bodily Purification - Childbirth and Discharges in Leviticus 12 and 15]] — related bodily laws with distinct durations and offerings.
 - [[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]] — washing and the warning against death beside divine presence.
 - [[The Cleansing of the Leper]] — another seven-day and eighth-day restoration sequence.

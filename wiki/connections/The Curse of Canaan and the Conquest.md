@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
+
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the curse and its threefold refrain
 - [[The Table of Nations]] — Genesis 10:15–19, Canaan's eleven descendants and the border of the land,
   set out without any reference to the curse
@@ -19,6 +21,12 @@ tags: [connection]
 - Ezra 9:1; Nehemiah 9:8 — the peoples of the land named again after the exile
 
 ## Analysis
+
+### Leviticus 18 now ingested
+
+Leviticus 18:24–30 grounds expulsion in conduct, not Noah’s curse or ancestry. Israel faces the same outcome, and native-born people and resident foreigners share the command (26).
+
+Source: stored WEB Leviticus 18; Genesis and Exodus for the comparisons.
 
 Genesis 9:25 is the primeval history's only statement about a specific nation's status, and the nation
 it names is the one Israel will spend six books taking a land from. The obvious reading is that the

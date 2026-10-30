@@ -121,6 +121,10 @@ See [[The Day of Atonement]].
 explains the blood prohibition through life and atonement, and distinguishes hunting
 from altar rites and carcass cleansing.
 
+Leviticus 18 extends the laws into kinship and sexual conduct, forbids child sacrifice,
+and warns that defiling conduct can cost Israel the land. See
+[[Forbidden Unions and the Defiled Land]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -162,7 +166,7 @@ merge, or reorder them freely.
 - [x] [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33
 - [x] [[The Day of Atonement]] — Leviticus 16:1–34
 - [x] [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16
-- [ ] Forbidden Unions and the Defiled Land — Leviticus 18:1–30
+- [x] [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30
 - [ ] Be Holy and Love Your Neighbor — Leviticus 19:1–18
 - [ ] Holy Living in Field and Community — Leviticus 19:19–37
 - [ ] Penalties and a People Set Apart — Leviticus 20:1–27

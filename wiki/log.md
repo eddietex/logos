@@ -20082,3 +20082,31 @@ uses stored sources and paraphrase; no unstored books were fetched and no raw te
 workflow instructions changed. Link checks passed with 59 expected unstarted-book
 targets. Totals: 252 passages, 195 people, 104 places, 85 themes, 568 connections.
 Executed by OpenAI Codex in auto mode; exactly one pericope.
+
+## [2026-10-29] ingest | Leviticus 18.1-30 — Forbidden Unions and the Defiled Land
+
+Ingested the planned chapter as one pericope in unattended mode, by Codex. Created the
+passage and [[Defilement of Body and Land - Leviticus 15 and 18]]. Revised God and Moses,
+Egypt, Canaan, and Horeb, thirteen themes, five existing connections, and the earlier
+bodily-discharge passage. Updated the book queue (26 / 44), category rows, and counts:
+253 passages, 195 people, 104 places, 85 themes, 569 connections.
+
+The passage distinguishes kinship prohibitions, other sexual prohibitions, Molech, and
+the land warning. Molech remains under Idolatry rather than becoming a human person page.
+No new person or place is needed. The planned boundary is unchanged.
+
+Explicitly qualified the earlier nonmoral definition of uncleanness: chapters 12–15
+describe bodily conditions without necessarily alleging an offense, while chapter 18
+attributes defilement to prohibited acts. Preserved tensions between the ancestral unions
+and later prohibited degrees, and between the brother’s-wife prohibition and levirate duty.
+The two-sisters connection now flags its earlier overclaims about the chapter’s only
+temporal restriction and its supposed exclusively kinship-based prohibitions.
+
+New quotations were copied from raw WEB Leviticus 18; the existing 18:18 quotation was
+aligned to its stored wording. Comparisons use stored Genesis, Exodus, and Leviticus.
+No new quotation from an unstored book or exact source-language assertion was introduced.
+Existing wider reception discussions were not independently reverified by this ingest.
+
+Validation: scripts/link-check.sh passed, with 59 not-yet-started book pages as the expected
+baseline and no wrapped or dangling links. No raw text, schema, skill, or controller files
+were changed. No unresolved ingest blocker.

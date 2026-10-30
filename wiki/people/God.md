@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Yahweh commands Moses to address Israel and warns that Israel too can lose the land through defiling conduct (1–5, 24–30).
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Yahweh commands Moses to address priests and people (1–2), gives blood its altar
@@ -2875,6 +2881,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+The Sinai context continues from Leviticus 7:38; chapter 18 does not name the mountain. Egypt and Canaan are the remembered origin and anticipated destination.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 The Sinai setting continues from Leviticus 7:38; chapter 17 does not name the
@@ -416,6 +422,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

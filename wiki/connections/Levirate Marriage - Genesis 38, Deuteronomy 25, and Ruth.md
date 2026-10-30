@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
+
 - **Genesis 38:8–11** — Judah to Onan: *"perform the duty of a husband's brother to her, and raise up
   offspring for your brother"* — [[Judah and Tamar]]
 - **Deuteronomy 25:5–10** — the law, with the refusal ceremony attached
@@ -18,6 +20,12 @@ tags: [connection]
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
 
 ## Analysis
+
+### Leviticus 18 now ingested
+
+Leviticus 18:16 states the brother’s-wife prohibition without an explicit widowhood exception. The tension with Judah’s command in Genesis 38:8 remains. An exception drawn from Deuteronomy 25 is an interpretive comparison, not an exception stated in this verse.
+
+Source: stored WEB Leviticus 18; Genesis and Exodus for the comparisons.
 
 **Genesis 38 is the Bible's first levirate marriage and it happens four books before the law that
 governs it.** Judah issues the instruction as though it needs no explanation — ***yabbēm***, a verb

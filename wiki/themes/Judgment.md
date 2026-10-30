@@ -58,6 +58,12 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+The land vomits out its inhabitants for their conduct, and Israel faces the same warning (24–28). Individuals face cutting off (29); chapter 18 does not specify judicial execution procedures.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Unlawful slaughter incurs blood liability and cutting off (4); unauthorized
@@ -531,6 +537,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

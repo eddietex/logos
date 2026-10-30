@@ -7,11 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
+
 - **Genesis 29:23–30** — *"In the evening, he took Leah his daughter, and brought her to him … He
   gave him Rachel his daughter as wife … He went in also to Rachel, and he loved also Rachel more
   than Leah"* — [[Jacob, Leah, and Rachel]]
 - **Leviticus 18:18** — *"You shall not take a wife in addition to her sister, to be a rival, to
-  uncover her nakedness, while her sister is yet alive."*
+  uncover her nakedness, while her sister is still alive."*
 - **Genesis 30:1–24** — the rivalry itself: two sisters, two slaves, and eleven sons
 - **Genesis 35:16–20; 49:31** — one sister buried on a road, the other at Machpelah
 - Compare **Genesis 20:12** — Abraham marries his half-sister, which Leviticus 18:9 also forbids
@@ -23,6 +25,12 @@ tags: [connection]
 
 ## Analysis
 
+### Leviticus 18 now ingested
+
+Leviticus 18:18 now supplies the ingested prohibition beside Jacob’s marriages in Genesis 29. The law–narrative tension remains: the law does not name Jacob or issue a retrospective verdict. Correction to the earlier synthesis: verse 18 is not the chapter’s only temporal restriction (compare menstrual impurity in 19), and verses 20–23 are not all kinship rules. Its lifetime qualification limits this prohibition rather than providing a complete law of remarriage.
+
+Source: stored WEB Leviticus 18; Genesis and Exodus for the comparisons.
+
 **The founding marriage of Israel is one the Torah names and prohibits, and neither book mentions the
 other.**
 
@@ -31,7 +39,7 @@ shall not uncover the nakedness of X*. **Verse 18 is the exception, and it is th
 ways at once.** It is the only prohibition in the chapter that:
 
 - **gives a reason** — ***liṣrōr***, *to be a rival*, *to vex*;
-- **is limited in time** — *"while her sister is yet alive"*, so the union is permitted after a death,
+- **is limited in time** — *"while her sister is still alive"*, so the union is permitted after a death,
   which none of the others are; and
 - **describes, clause for clause, a marriage the Torah's own narrative reports without comment.**
 

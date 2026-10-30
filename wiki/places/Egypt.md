@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+Egypt is Israel’s former home, whose practices must not govern its life (3), rather than the setting of this speech.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11:45 recalls departure from Egypt as the ground for belonging to Yahweh and
@@ -118,6 +124,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

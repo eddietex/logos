@@ -49,6 +49,12 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 ## Development across Scripture
 
+### Forbidden unions and the land — Leviticus 18:1–30
+
+The half-sister, aunt, and simultaneous sister marriages excluded in 18:9, 12, 18 stand in tension with the unions reported in Genesis 20:12; 29:23–30; Exodus 6:20. Leviticus does not name those ancestors or pronounce a retrospective verdict.
+
+See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
+
 - **Genesis 1:27–28** — male and female, both bearing the image, together commanded to be
   fruitful.
 - **Genesis 2:18–25** — the institution: the not-good of aloneness, the counterpart, one flesh.
@@ -321,6 +327,8 @@ marriage procedure. The identities and chronology remain open.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8–5:1; *"my sister, my bride"*, the locked garden opened.
 
