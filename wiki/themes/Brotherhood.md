@@ -24,6 +24,15 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Brother, neighbor, and the children of one’s people appear together in the commands against hatred
+and vengeance (17–18). Responsibility for another reaches the heart and the handling of conflict,
+not only outward injury.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### The pattern set: Cain and Abel
 
 *"Cain rose up against Abel, his brother, and killed him"* (4:8). **The word *brother* appears seven
@@ -179,6 +188,8 @@ are recalled is unresolved; brotherly concern must not erase the sister’s voic
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Dark and Lovely]] — Song of Solomon 1:6; angry brothers set their sister to keep the vineyards.
 

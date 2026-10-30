@@ -125,6 +125,10 @@ Leviticus 18 extends the laws into kinship and sexual conduct, forbids child sac
 and warns that defiling conduct can cost Israel the land. See
 [[Forbidden Unions and the Defiled Land]].
 
+Leviticus 19:1–18 joins the call to holiness with parent-respect, Sabbath, offerings,
+harvest provision, honest dealings, impartial judgment, and love without vengeance.
+See [[Be Holy and Love Your Neighbor]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -167,7 +171,7 @@ merge, or reorder them freely.
 - [x] [[The Day of Atonement]] — Leviticus 16:1–34
 - [x] [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16
 - [x] [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30
-- [ ] Be Holy and Love Your Neighbor — Leviticus 19:1–18
+- [x] [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18
 - [ ] Holy Living in Field and Community — Leviticus 19:19–37
 - [ ] Penalties and a People Set Apart — Leviticus 20:1–27
 - [ ] The Holiness of the Priests — Leviticus 21:1–24
@@ -187,6 +191,36 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Theft and Restitution]]
+
+- [[The Poor and the Vulnerable]]
+
+- [[Righteousness]]
+
+- [[Brotherhood]]
+
+- [[Strife and Peacemaking]]
+
+- [[Vengeance]]
+
+- [[Language and Speech]]
+
+- [[The Fear of God]]
+
+- [[The Names of God]]
+
+- [[Deception]]
+
+- [[Integrity]]
+
+- [[Compassion and Mercy]]
+
+- [[Work]]
+
+- [[Wealth and Possessions]]
+
+- [[Love]]
 
 - [[Land and Sojourning]]
 

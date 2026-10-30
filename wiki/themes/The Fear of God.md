@@ -55,6 +55,14 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+The ban on cursing the deaf and placing a stumbling block before the blind ends with the demand to
+fear God (14). Reverence is expressed through restraint toward people vulnerable to abuse.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 15:1** — the other side of the word, and its first appearance in Scripture on God's own
   lips: ***"Don't be afraid, Abram."*** *ʾAl-tîrāʾ*, the same verb *yārēʾ* the theme is built on, in
   the negative — the beginning of the formula that runs through the theophanies, the prophetic
@@ -341,6 +349,8 @@ theme of awe, but the WEB does not explicitly call their response fear or specif
 shout. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; The congregation shouts and falls
   on its faces when fire consumes the offering (9:24).

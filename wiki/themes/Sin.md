@@ -65,6 +65,15 @@ has been argued.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Eating the profaned offering incurs iniquity (8), and the rebuke command warns against bearing sin
+because of the neighbor (17). The latter clause does not specify every circumstance in which
+silence or correction creates liability.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Prohibited acts defile persons and land (24–30). Unlike the bodily conditions in chapters 12–15, these acts are expressly forbidden, and chapter 18 supplies no washing-and-waiting remedy.
@@ -493,6 +502,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

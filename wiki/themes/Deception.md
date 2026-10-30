@@ -38,6 +38,14 @@ else. See [[The Fall]].
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Lying and deceiving one another are explicitly forbidden beside stealing (11). Unlike narratives
+reporting deception without a verdict, this instruction directly prohibits it.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 3:1–13** — the serpent's question, the amended prohibition, and Eve's *"the serpent
   deceived me"* — the first deception, worked by shading a true statement. See [[The Fall]].
 - **Genesis 4:8–9** — Cain speaks to his brother, kills him in the field, and answers God's question
@@ -327,6 +335,8 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

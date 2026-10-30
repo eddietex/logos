@@ -58,6 +58,15 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Eating the third-day sacrifice brings liability and cutting off (7–8). Human judgment must favor
+neither the poor nor the great (15). Provision for poor people in 9–10 is compatible with
+impartial verdicts rather than permission to distort them.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The land vomits out its inhabitants for their conduct, and Israel faces the same warning (24–28). Individuals face cutting off (29); chapter 18 does not specify judicial execution procedures.
@@ -537,6 +546,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

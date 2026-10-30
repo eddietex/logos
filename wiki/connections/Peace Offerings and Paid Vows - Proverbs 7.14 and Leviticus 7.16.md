@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:5–8.
+
 - [[The Peace Offering]] — Leviticus 3:1–17.
 
 - [[Wine Is a Mocker]] — Proverbs 20:25.
@@ -70,7 +72,7 @@ parts. Reading the meal back into chapter 3 as though it were stated there obscu
 division of instruction.
 
 See [[The Peace Offering]]. Source: stored WEB Leviticus 3; 7:11–34. Chapter 7 is now stored
-and checked for this comparison, and 7:11–21 is now ingested; 7:22–38 remains queued.
+and checked for this comparison, and 7:11–21 is now ingested; 7:22–38 is also now ingested.
 
 ### The eating law now ingested
 
@@ -79,6 +81,17 @@ Proverbs 7:14. Its longer eating window supports the meal inference, but neither
 her sincerity nor makes that meal a thanksgiving sacrifice. Leviticus 7:19–21 also makes
 cleanliness a condition of eating; Proverbs does not report her ritual state. Religious
 claims cannot by themselves establish compliance with either ritual or moral obligations.
+
+### The general peace-offering rule — Leviticus 19:5–8
+
+Leviticus 19 permits eating on the offering day and the next, then requires third-day
+remains to be burned. Its general peace-offering wording matches the vow/freewill
+window of 7:16–18 but does not repeat the thanksgiving exception of 7:15. This scope
+tension must remain visible: chapter 19 does not explicitly cancel thanksgiving’s
+same-day deadline. It also explicitly assigns cutting off to the third-day eater
+(19:8); 7:18 names iniquity, while 7:20–21 attaches cutting off to unclean eating.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 7:11–21; 19:5–8.
 
 ## Significance
 

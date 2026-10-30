@@ -32,6 +32,14 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+False swearing by God’s name profanes that name (12). The rule prohibits false oaths; it does not
+here prohibit every oath.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **God's first oath is sworn without words, at Genesis 15:17.** Before the *"I have sworn by
   myself"* formula there is a ceremony: five animals halved, a corridor between them, and *"a
   smoking furnace, and a flaming torch"* passing down it while Abram sleeps. Jeremiah 34:18–20
@@ -255,6 +263,8 @@ the paid-vow claim in Proverbs 7:14, not an automatic thanksgiving identificatio
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

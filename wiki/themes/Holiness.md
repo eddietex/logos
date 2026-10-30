@@ -40,6 +40,16 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+The command to all Israel rests on Yahweh’s own holiness (2). Parent-respect, Sabbath, worship,
+harvest sharing, truthful dealing, and love belong within one address. Holiness here includes
+social conduct as well as sacred boundaries.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+See also [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]].
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Yahweh’s self-identification frames household boundaries and rejection of neighboring customs (2–5, 30). The Molech prohibition is joined to not profaning God’s name (21).
@@ -415,6 +425,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

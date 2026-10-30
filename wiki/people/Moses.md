@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Moses receives the charge to speak to all the congregation (1–2). The address includes worship,
+family respect, economic protections, justice, and love; it is not restricted to priests.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Moses receives the charge to speak to Israel (1–2), now about household boundaries, forbidden worship, and the land.
@@ -907,6 +915,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

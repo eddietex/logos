@@ -22,6 +22,15 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Leaving food for the poor and foreigner and refusing to abuse deaf or blind people (9–10, 14) give
+protection practical form. These are thematic examples of care; no claim is made that a particular
+Hebrew mercy word occurs here.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Genesis 43 — asked for in Canaan, kindled in Egypt
 
 **The theme enters Genesis as a petition.** [[Jacob]], sending ten sons and [[Benjamin]] to a man he
@@ -260,6 +269,8 @@ See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; 
 records the additional comparison sources.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3; The missing comforter within an unequal distribution of power.
 

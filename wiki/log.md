@@ -20110,3 +20110,32 @@ Existing wider reception discussions were not independently reverified by this i
 Validation: scripts/link-check.sh passed, with 59 not-yet-started book pages as the expected
 baseline and no wrapped or dangling links. No raw text, schema, skill, or controller files
 were changed. No unresolved ingest blocker.
+
+## [2026-10-29] ingest | Leviticus 19.1-18 — Be Holy and Love Your Neighbor
+
+Ingested the next queued pericope in auto mode, retaining the 19:1–18 boundary.
+Created the passage and two connections: holiness and neighborly justice across Exodus
+20–23 and Leviticus 19, and the neighbor-love command in Matthew 22. Revised the
+peace-offering/vows connection, including its stale queued-status note.
+
+Updated God, Moses, contextual Horeb, and 25 existing themes, with passage-list entries
+and synthesis. The poor, foreigner, parents, hired worker, deaf person, and blind person
+are unnamed classes rather than new person pages; existing themes cover them. No new
+place is named. Added connection backlinks to the two relevant Exodus passage pages.
+Updated the book queue and overview (27 / 44), affected category rows, and progress:
+254 passages, 195 people, 104 places, 85 themes, 571 connections.
+
+The passage records the scope tension between the general two-day peace-offering window
+in 19:5–8 and the thanksgiving same-day deadline in 7:15, without cancelling either.
+It distinguishes provision for poor people from favoritism in court, and rebuke from
+hatred. The foreigner-love command at 19:34 is contextual comparison only; that next
+pericope remains unchecked.
+
+All Leviticus quotations were copied and checked against the unchanged stored WEB.
+Exodus comparisons use stored WEB. Matthew 22:34–40 was verified directly against
+bible-api.com/Matthew%2022:34-40?translation=web; no raw book was added. No new
+Hebrew/Greek claim was made. No harness or schema changes were needed.
+
+Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets.
+Quote matching, unique new titles, and git diff whitespace checks passed.
+Completed by Codex. No unresolved operational issue.

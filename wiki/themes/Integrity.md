@@ -36,6 +36,14 @@ letting go is the only relief on offer.**
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Truthfulness, fair wages, and impartial judgment (11–15) make the holiness command concrete in
+dealings with neighbors. Worship and reliable conduct are required together.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 **Genesis 6:9 — the first *tāmîm* applied to a person.** *"Noah was a righteous man, blameless among
 the people of his time."* The verdict is given before Noah does anything, is stated in the same
 breath as *ṣaddîq*, righteous, and is immediately qualified by a phrase — *in his generations* —
@@ -229,6 +237,8 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:10; the passage
 cross-reference sources and interpretive limits.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Where There Is No Vision]] — Proverbs 29:10; Integrity can attract murderous hostility rather
   than protection.

@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Moses must address the whole congregation (1–2). Worship, parents, economic dealings, courts, and
+inner hatred are joined in one divine instruction; the passage does not separate neighbor-love
+from obedience.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Yahweh’s statutes replace Egypt’s and Canaan’s practices (3–5); obedience is associated with life (5). Native-born people and resident foreigners alike must refrain from the prohibited acts (26).
@@ -663,6 +672,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

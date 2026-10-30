@@ -21,6 +21,15 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+The poor and foreigner receive harvest provision (9–10); hired workers, deaf people, and blind
+people receive explicit protections (13–14). Verse 15 rejects favoritism toward the poor in court,
+distinguishing support from a biased verdict.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The poor person’s provision reduces the flour and substitutes birds for the sin and burnt
@@ -334,6 +343,8 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

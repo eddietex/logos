@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+The Sinai setting is contextual from Leviticus 7:38; 19:1–18 names no mountain or settlement. Its
+fields and vineyards anticipate agricultural life without narrating a move from Sinai.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The Sinai context continues from Leviticus 7:38; chapter 18 does not name the mountain. Egypt and Canaan are the remembered origin and anticipated destination.
@@ -422,6 +430,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

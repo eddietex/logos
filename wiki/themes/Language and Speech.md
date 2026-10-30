@@ -49,6 +49,15 @@ noticing into doctrine.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Lies, false oaths, cursing the deaf, and slander are forbidden (11–16); rebuking a neighbor is
+required (17). The passage distinguishes harmful speech from correction instead of treating
+silence as the only righteous response.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 1:3–29** — creation by speech: *"God said… and it was so"*, ten times.
 - **Genesis 2:19–20; 2:23** — the man names the animals, and speaks his first recorded sentence, in
   verse. See [[The Garden of Eden]].
@@ -541,6 +550,8 @@ Speech can fail by omission of testimony or by rash oath; the corrective respons
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13; Speech can fail by omission of testimony or by rash oath; the corrective response itself includes specific confession (1, 4–5).
 

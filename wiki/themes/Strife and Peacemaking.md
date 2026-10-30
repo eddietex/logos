@@ -17,6 +17,14 @@ not be filed.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Hatred in the heart, vengeance, and grudges are rejected, while rebuke remains an obligation
+(17–18). Peace therefore need not mean concealing a wrong or refusing correction.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 **Strife first, and it is lethal.** The Bible's first quarrel between brothers ends in a field with a
 body in it — *"Cain rose up against Abel, his brother, and killed him"* (4:8), in a passage that uses
 the word *brother* seven times. Lamech escalates it into a boast (4:23–24). The corruption that
@@ -335,6 +343,8 @@ See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; com
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[The Forgotten Wise Man]] — Ecclesiastes 9:13–10:4; gentleness lays great offenses to rest before an angered ruler.
 

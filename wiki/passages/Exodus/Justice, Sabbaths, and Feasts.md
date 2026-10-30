@@ -128,6 +128,8 @@ commands for Israel's life and worship, not a report that the people have alread
 
 ## Cross-references
 
+- [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]] — Leviticus 19:1–18 joins worship, harvest provision, and impartial justice.
+
 - [[From Dust to Dust]] — Exodus 23:6–8 forbids corrupt judgment; Ecclesiastes 3:16–17
   observes wickedness where justice belongs and affirms God’s judgment.
 

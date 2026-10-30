@@ -21,6 +21,15 @@ heart*).
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Stealing, oppression, robbery, and keeping wages overnight are prohibited (11–13). This unit
+states obligations but supplies no new repayment multiplier, leaving the earlier restitution laws
+distinct.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Genesis — the verb before the law
 
 Theft in Genesis is almost always an accusation, often disputed, and seldom settled. Jacob offers
@@ -149,6 +158,8 @@ provisions; neither expressly explains how the penalties interact in an overlapp
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

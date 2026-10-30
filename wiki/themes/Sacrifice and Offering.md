@@ -47,6 +47,17 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Peace offerings may be eaten on the offering day and the next; third-day remains are burned (5–8).
+A tension in scope remains: this general wording gives the window of the vow/freewill case in
+7:16–18, while thanksgiving in 7:15 has a same-day deadline. Chapter 19 does not explicitly repeal
+that distinction.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+See also [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]].
+
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Livestock slaughter is brought to the Tent of Meeting as peace offerings (3–6);
@@ -478,6 +489,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

@@ -28,6 +28,15 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+The harvest includes provision for others (9–10), and a hired worker’s wages must not remain
+overnight until morning (13). Labor creates an obligation on the employer rather than merely an
+opportunity for gain.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 1:28; 2:15** — the mandate to fill, subdue, cultivate, and keep.
 - **Genesis 3:17–19** — the ground cursed; the same work now yields thorns and is done by sweat.
   The precision matters: the curse formula in 3:17 falls on *the ground*, not on the man and not
@@ -593,6 +602,8 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Rise Up, My Love]] — Song of Solomon 2:15–16; vineyards in blossom guarded from foxes, and the beloved browsing among the lilies.
 

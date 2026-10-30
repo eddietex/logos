@@ -66,6 +66,14 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Yahweh’s repeated self-identification grounds the commands, and false swearing by his name is
+called profanation (12). The name belongs to the ethics of speech as well as worship.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Yahweh’s self-identification frames the commands (2, 4–6, 21, 30). Giving children to Molech is joined to profaning God’s name (21).
@@ -163,6 +171,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

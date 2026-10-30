@@ -22,6 +22,14 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Israel must neither turn to idols nor make molten gods (4). The prohibition belongs to the call
+for the congregation to reflect Yahweh’s holiness, not only to regulations for priests.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The stored WEB forbids giving children as a sacrifice to Molech and profaning God’s name (21). It specifies neither a ritual procedure nor that the children are firstborn. Molech is treated as an object of forbidden worship rather than a new human person.
@@ -195,6 +203,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

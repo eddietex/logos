@@ -38,6 +38,15 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Field and vineyard owners must leave produce for the poor and foreigner (9–10), and employers must
+not keep wages overnight (13). Ownership does not authorize exhaustive collection or delayed
+payment.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 12:5, 16; 13:1–2** — the first inventory in the Bible. Abram leaves Haran with
   ***rəkûš***, *substance*, acquired there; comes out of Egypt with sheep, cattle, donkeys, slaves,
   and camels **handed over by a Pharaoh he deceived**; and is then described as ***kābēd məʾōd***,
@@ -657,6 +666,8 @@ figures do not contradict the refusal to price love.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 

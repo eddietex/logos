@@ -68,6 +68,14 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+The WEB forbids endangering the neighbor’s life (16), adjacent to its slander prohibition. The
+passage protects life within ordinary communal dealings; it does not narrate a death.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Obedience is associated with life (5), child sacrifice is forbidden (21), and prohibited acts bring cutting off (29). The chapter does not define the life promise as immortality.
@@ -613,6 +621,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

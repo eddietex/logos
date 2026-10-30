@@ -27,6 +27,15 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Keeping Yahweh’s Sabbaths stands beside respect for mother and father (3). The address to the
+whole congregation brings sacred time into the same instruction as everyday treatment of
+neighbors.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 2:2–3** — God rests, blesses the seventh day, makes it holy.
 - **Exodus 16:22–30** — the first *šabbāt* and the first *šabbātôn* in Scripture (WLC lemma search,
   Genesis–Deuteronomy), **given as a fact about bread before it is given as a command.** *"Tomorrow is a
@@ -132,6 +141,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

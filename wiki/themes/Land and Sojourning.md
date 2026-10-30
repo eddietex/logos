@@ -33,6 +33,15 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Harvest corners, gleanings, and fallen grapes must remain for poor people and foreigners (9–10).
+Possession of productive land carries obligations toward residents who need its produce; no named
+location is supplied.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The promised destination can expel Israel as well as its predecessors (3, 24–28). Native-born people and resident foreigners share the obligation (26); entry is not unconditional tenure.
@@ -212,6 +221,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

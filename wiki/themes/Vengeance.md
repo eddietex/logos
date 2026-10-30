@@ -44,6 +44,15 @@ for revenge becomes its measure for pardon. See
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Taking vengeance and bearing a grudge against one’s people are prohibited, and love of the
+neighbor is commanded (18). Private retaliation is rejected; the same passage still requires
+righteous judgment (15).
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 4:15** — sevenfold vengeance promised by God on anyone who kills Cain; a protection, not
   a permission.
 - **Genesis 4:23–24** — Lamech's Song of the Sword: a man claiming the number for himself and
@@ -135,6 +144,8 @@ the couplet after *"Vengeance belongs to me; I will repay, says the Lord"* (Roma
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Wine Is a Mocker]] — Proverbs 20:22; Personal repayment refused in favor of Yahweh’s rescue.
 

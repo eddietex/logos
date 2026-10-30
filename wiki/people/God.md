@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Yahweh grounds the whole congregation’s holiness in his own (2), and repeatedly names himself as
+the authority behind worship and neighbor-directed commands.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Yahweh commands Moses to address Israel and warns that Israel too can lose the land through defiling conduct (1–5, 24–30).
@@ -2881,6 +2889,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

@@ -24,6 +24,16 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Love of the neighbor as oneself (18) stands beside the rejection of inward hatred, vengeance, and
+grudges (17–18). Rebuke is commanded too: love is compatible with truthful correction. This
+develops the family preferences of Genesis into an obligation toward the neighbor.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+See also [[Love Your Neighbor - Leviticus 19 and Matthew 22]].
+
+
 **Genesis loves in a straight line, and every instance ranks somebody.**
 
 | verse | who loves whom | what it produces |
@@ -455,6 +465,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 

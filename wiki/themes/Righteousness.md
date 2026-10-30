@@ -43,6 +43,14 @@ about.
 
 ## Development across Scripture
 
+### Holiness and the neighbor — Leviticus 19:1–18
+
+Judging the neighbor in righteousness excludes partiality both to the poor and to the great (15).
+Material provision for the poor (9–10) and impartial adjudication are complementary duties.
+
+See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
+
+
 - **Genesis 6:9; 7:1** — *ṣaddîq*'s first appearance, of Noah, declared before any act and repeated
   by God. See [[Noah and the Flood]].
 - **Genesis 9:20–25** — and the same man drunk and uncovered in his tent, three chapters later. This
@@ -360,6 +368,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; the righteous share the event of the wicked.
 
