@@ -77,6 +77,17 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+A lamb with flour, oil, and wine accompanies the sheaf (12–13). The later bread comes
+with seven lambs, a bull, and two rams as burnt offerings, a goat as sin offering, and
+two lambs as peace offerings (18–20). The leavened loaves are waved and assigned to the
+priest, not commanded to burn. The apparent tension with 2:11 is qualified by 2:12's
+first-fruits exception; neither passage supports a ban on all holy leavened bread.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 Offerings made by fire are commanded for all seven days of Unleavened Bread (8).
@@ -537,6 +548,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Seven days of fire offerings, without an inventory here.
 

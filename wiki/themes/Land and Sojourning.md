@@ -42,6 +42,15 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The coming land is Yahweh's gift (10), and its harvest is subject to duties toward
+God and the foreigner (14, 22). Possession does not confer a right to collect every
+part of the crop; foreigners share the protected access to gleanings.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The orchard law anticipates entry into the land (23–25), while the foreigner within it must
@@ -239,6 +248,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

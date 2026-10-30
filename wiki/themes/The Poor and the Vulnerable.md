@@ -30,6 +30,15 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+Verse 22 repeats the field-corner and gleaning provision of 19:9–10 for the poor and
+foreigner within the harvest calendar. Sacred first-fruits gifts do not replace this
+material obligation; the text reserves produce rather than merely recommending generosity.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Elders receive honor and foreigners protection and love (32–34); a father must not make his
@@ -361,6 +370,8 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

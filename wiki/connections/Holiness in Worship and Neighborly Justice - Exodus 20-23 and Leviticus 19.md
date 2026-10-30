@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
+
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Ten Commandments]] — Exodus 20:1–17.
@@ -41,6 +43,16 @@ foreigners in Leviticus 19:9–10. The provisions differ in timing and mechanism
 Exodus 23:4–5 requires help for an enemy’s straying or burdened animal. Leviticus
 19:17–18 forbids hatred, vengeance, and grudges and commands love. These are related
 restraints on hostility, not identical wording or interchangeable laws.
+
+### The harvest calendar — Leviticus 23:9–22
+
+Leviticus 23:22 repeats the field-corner and gleaning command of 19:9–10 after the
+first-fruits offerings and holy assembly. Poor people and foreigners remain recipients.
+The vineyard clause of 19:10 is not repeated, but neither is it revoked. The new
+placement makes the connection between sanctuary gifts and material justice explicit:
+the harvest cannot be treated as wholly available to its owner after a ritual gift.
+
+Source for this addition: stored WEB Leviticus 2, 19, 23; Exodus 23, 34.
 
 ## Significance
 

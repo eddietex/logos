@@ -20316,3 +20316,33 @@ Leviticus is now 33/44 pericopes; totals counted by frontmatter type are 260 pas
 195 people, 104 places, 85 themes, and 574 connections. Seven books started, six complete.
 `scripts/link-check.sh` passed: no wrapped links or unexpected dangling targets; 59 unstarted
 book pages remain the expected baseline. No unresolved issue or harness change.
+
+## [2026-10-30] ingest | Leviticus 23.9-22 — First Fruits and the Feast of Weeks
+
+Ingested [[First Fruits and the Feast of Weeks]] in unattended mode with the complete
+stored WEB unit and discussion. Retained the planned boundary: verse 22 closes the harvest
+instructions before the new speech at 23. No further pericope was ingested.
+
+Created one passage; revised Leviticus, two people, two places, nine themes, and four
+existing connections. Updated eight category/book/progress indexes and this log: one new
+and twenty-seven revised wiki pages in total. Leviticus is now 34/44; frontmatter counts
+are 261 passages, 195 people, 104 places, 85 themes, and 574 connections. Seven books
+started, six complete.
+
+Judgment calls: the unnamed priest remains an office under [[Priesthood]], and collective
+Israel, poor people, and foreigners need no new person pages. Canaan and Sinai are marked
+as contextual, not names stated in these verses. The title uses Weeks as in Exodus 34:22;
+the precise starting Sabbath in the fifty-day count remains unresolved, with no inferred
+calendar date. The apparent tension between Leviticus 2:11 and 23:16–17 is explicit on
+the passage, offering theme, and leaven connection: 2:12 permits first-fruits presentation
+without altar burning, and 23:20 assigns the waved gifts to the priest.
+
+Extended the existing connections on leavened bread, three annual feasts, first-fruits
+honor, and holiness with neighborly justice. Verse 22 repeats field provision in 19:9–10;
+omission of the vineyard clause is not treated as repeal. No new connection page was
+needed. Quotations were copied directly from raw WEB Leviticus 23:9–22; comparisons
+checked in stored Leviticus 2, 7, 19 and Exodus 23, 34. No raw source changed; no new
+external quotation or Greek/Hebrew claim was added.
+
+Link checks passed with no wrapped links or unexpected dangling targets; the expected
+baseline remains 59 unstarted books. No operational blocker or harness change.

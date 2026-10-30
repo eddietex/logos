@@ -28,6 +28,15 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The harvest is labor whose consumption waits for the first offering (14). The later
+assembly prohibits regular work (21), and harvesting must leave corners and gleanings
+for others (22). Worship regulates both time spent working and the extent of collection.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 The WEB prohibits any kind of work on the weekly Sabbath (3), but regular work on the
@@ -612,6 +621,8 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Weekly and festival work prohibitions retain distinct wording.
 

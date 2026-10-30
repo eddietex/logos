@@ -27,6 +27,15 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+Seven Sabbaths structure the fifty-day count from the day after the Sabbath (11, 15–16).
+The resulting assembly prohibits regular work (21). The precise starting Sabbath is
+not independently identified here; this page assigns no fixed festival date.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 The weekly seventh day is both solemn rest and a holy convocation throughout the dwellings
@@ -159,6 +168,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Weekly holy convocation distinguished from annual assembly days.
 

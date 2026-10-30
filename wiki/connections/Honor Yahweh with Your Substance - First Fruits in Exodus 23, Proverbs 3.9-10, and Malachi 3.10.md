@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
+
 - [[The Meal Offering]] — Leviticus 2:1–16.
 
 - **Exodus 20:12** — *"Honor your father and your mother, that your days may be long in the land"*
@@ -71,6 +73,17 @@ exceptions on [[Retribution]] and does not soften the verse.
 Leviticus 2:11–16 distinguishes first-fruits gifts from what may be burned on the altar. Yeast and honey may be brought as first fruits but not burned for a pleasant aroma; parched fresh grain receives its own memorial rite. This adds preparation and destination to the first-fruits theme, without making all first-fruits gifts one recipe. See [[The Meal Offering]].
 
 Source for this addition: stored WEB Leviticus 2:1–16.
+
+### The harvest calendar — Leviticus 23:9–22
+
+Leviticus 23:10–14 requires the first sheaf and accompanying offerings before bread,
+roasted grain, or fresh grain is eaten. Verses 15–20 add a later first-fruits gift of
+two leavened loaves and sacrifices. First fruits therefore include distinct stages
+and preparations, not a single generic gift. The passage ends by reserving gleanings
+for poor people and foreigners (22); honoring Yahweh does not authorize retaining
+everything else. These verses prescribe duties without promising full barns.
+
+Source for this addition: stored WEB Leviticus 2, 19, 23; Exodus 23, 34.
 
 ## Significance
 

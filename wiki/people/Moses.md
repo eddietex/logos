@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+Moses receives the renewed speech (9) for the children of Israel (10). The instructions
+anticipate their settled harvest; no performance of the rites is narrated here.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 Moses receives the command to speak to the children of Israel (1–2). The instruction
@@ -964,6 +972,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Receives the calendar speech for Israel.
 

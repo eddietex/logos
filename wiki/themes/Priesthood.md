@@ -65,6 +65,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The unnamed priest waves the sheaf for the people's acceptance (11), then waves the
+first-fruits bread with the peace-offering lambs (20). Holy dedication includes a
+priestly portion; it does not mean everything presented is burned.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 An unnamed priest makes atonement for the man with the trespass-offering ram (22). No individual
@@ -416,6 +425,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

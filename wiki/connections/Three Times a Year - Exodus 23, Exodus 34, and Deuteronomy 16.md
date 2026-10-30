@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - [[The Passover]] — Exodus 12:14–20, the memorial and Unleavened Bread.
@@ -55,6 +57,17 @@ agricultural seasons are also bounded by seventh-day rest even during plowing an
 assurances, not a report that Israel has already kept the feasts.
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
+### The harvest calendar — Leviticus 23:9–22
+
+Leviticus 23:9–22 now supplies the sheaf rite and the fifty-day count leading to the
+new grain offering, two loaves, sacrifices, and an assembly without regular work.
+Exodus 34:22 names Weeks in relation to wheat first fruits; Leviticus gives the count
+without using that feast name in these verses. It adds priestly handling and reserved
+gleanings (22), without restating the three male appearances. No fixed month-and-day
+date is assigned here; the starting Sabbath's precise referent is left unresolved.
+
+Source for this addition: stored WEB Leviticus 2, 19, 23; Exodus 23, 34.
 
 ## Significance
 

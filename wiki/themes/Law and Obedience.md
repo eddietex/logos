@@ -76,6 +76,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The statutes regulate when grain may be eaten (14), the count and offerings (15–20),
+and assembly and work (21). Field corners and gleanings must be left for poor people
+and foreigners (22); cultic obedience does not replace this social command.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 Israel is to proclaim Yahweh’s appointed times in their season (2, 4), and to keep
@@ -725,6 +734,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Calendar proclamation and observance commanded together.
 

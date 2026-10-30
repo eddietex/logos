@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The land Yahweh gives Israel is the anticipated place of harvest (10), identified as
+Canaan by Leviticus 18:3. First produce and reserved gleanings constrain use of its yield (14, 22).
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Penalties and separation — Leviticus 20
 
 The land promised as an inheritance flowing with milk and honey can also vomit Israel out (22–24).
@@ -145,6 +153,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The Sinai frame of Leviticus 7:38 remains the context; no mountain is named here.
+The commanded harvest belongs to the future land rather than the present wilderness.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 The Sinai context follows the book’s frame (7:38); the mountain is not named here.
@@ -482,6 +490,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Sinai context; Sabbath throughout the dwellings.
 

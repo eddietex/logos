@@ -12,6 +12,15 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The sheaf precedes eating the harvest; seven Sabbaths and fifty days lead to two
+leavened first-fruits loaves, accompanying sacrifices, and an assembly (10–21). The
+unit ends with gleanings for the poor and foreigner (22), joining dedication to provision.
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 Passover is dated to the first month’s fourteenth evening, with Unleavened Bread beginning
@@ -92,6 +101,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Passover and Unleavened Bread dated; assemblies and seven days of offerings.
 

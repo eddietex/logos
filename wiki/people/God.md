@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+Yahweh gives the land (10) and receives its first produce before Israel eats (14).
+His self-identification also grounds the reserved harvest for poor people and foreigners (22).
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 Yahweh calls the appointed feasts his own (2, 4). Sabbath, Passover, and Unleavened Bread
@@ -2943,6 +2951,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Owns the appointed feasts and commands their observance.
 

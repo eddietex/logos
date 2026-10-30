@@ -79,6 +79,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### First fruits and harvest provision — Leviticus 23:9–22
+
+The waved gifts are holy to Yahweh for the priest (20), and the assembly is holy (21).
+The loaves explicitly contain yeast (17): holiness cannot here mean that all bread
+dedicated to Yahweh is unleavened. Altar burning remains a distinct question (2:11–12).
+
+See [[First Fruits and the Feast of Weeks]]. Source: stored WEB Leviticus 23:9–22; contextual references as cited.
+
+
 ### Sabbath and the opening feasts — Leviticus 23:1–8
 
 The calendar describes holy convocations for the Sabbath and the first and seventh days
@@ -482,6 +491,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Holiness expressed in appointed communal assemblies.
 
