@@ -48,6 +48,14 @@ rather than achieved.
 
 ## Development across Scripture
 
+### Land and house redemption — Leviticus 25:23–34
+
+Walls mark a legal distinction: a walled-city house can be sold permanently after its
+one-year redemption period, whereas village houses count with fields and return at
+Jubilee (29–31). Levite city houses are expressly excepted (32–33).
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 - **Genesis 4:17** — Cain builds the first city, named for his son Enoch, in defiance of or in
   submission to a sentence to wander. See [[Enoch (city)]].
 - **Genesis 4:20–22** — herding, music, and metalwork founded in three verses, all by Lamech's
@@ -175,6 +183,8 @@ The different uses remain distinct; no city becomes the established setting.
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
 ## Key passages
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:7; the watchmen beat her and the keepers of the
   walls take her cloak.

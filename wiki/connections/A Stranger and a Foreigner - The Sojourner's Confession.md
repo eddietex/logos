@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 23:4** — *"I am a stranger and a foreigner living with you. Give me a possession of a
   burying-place with you, that I may bury my dead out of my sight."*
 - **Leviticus 25:23** — *"The land shall not be sold in perpetuity, for the land is mine; for you are
-  strangers and live as foreigners with me."*
+  strangers and live as foreigners with me."* — [[Redemption of Land and Houses]]
 - **1 Chronicles 29:15** — *"For we are strangers before you, and foreigners, as all our fathers
   were. Our days on the earth are as a shadow, and there is no remaining."*
 - **Psalm 39:12** — *"For I am a stranger with you, a foreigner, as all my fathers were."*

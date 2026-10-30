@@ -30,6 +30,14 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Land and house redemption — Leviticus 25:23–34
+
+Poverty can force a sale of family property (25). Kin redemption, redemption after
+recovered means, and Jubilee return prevent that loss from necessarily becoming
+permanent (25–28); the law does not claim the poverty never happened.
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Servants, hired workers, and resident foreigners have access to the land’s food (6–7). Unlike Exodus 23:11, this list does not expressly name the poor; it widens the described beneficiaries to include the owner as well.
@@ -377,6 +385,8 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

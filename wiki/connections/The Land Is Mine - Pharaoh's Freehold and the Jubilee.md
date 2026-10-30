@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
+
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22, now ingested.
 
 - **Genesis 47:18–23** — every field in Egypt sold to the crown, the sellers left as tenants —
@@ -29,6 +31,25 @@ tags: [connection]
 
 ## Analysis
 
+### Correction from Leviticus 25:23–34
+
+The earlier assertions below that the Levites have no fields or property are **too broad
+and contradicted by Leviticus 25:32–34**. Those verses give them city houses with enduring
+redemption rights and surrounding fields that may not be sold. The later no-inheritance
+references concern tribal allotment and must not be used to deny these explicit holdings.
+The older wording is retained below as the interpretation being corrected, not a second
+conclusion. Genesis 47:22, 26 protects Egyptian priests from sale; Leviticus protects Levite
+holdings differently, but neither group is simply without property.
+
+The reason the older text gives, *because the Levites have no fields*, is also not the
+text's: verse 33 says the houses *"are their possession among the children of Israel."*
+
+The general land prohibition (23) also stands beside a permanent walled-city house sale
+(30), village-house return (31), and the Levite exception (32–34). Thus neither universal
+return of every house nor a blanket prohibition of every Egyptian transaction follows.
+See [[Redemption of Land and Houses]]. Sources: stored WEB Genesis 47 and Leviticus 25.
+
+
 ### Qualification from Leviticus 25:1–22
 
 The older formulation below that every element of Joseph's transaction is forbidden is
@@ -41,7 +62,7 @@ kinds of service (25:29–34, 39–46); Jubilee cannot mean that every person re
 field or that every form of servitude ends.
 
 See [[The Sabbatical Year and the Jubilee]]. Sources for this qualification: stored WEB
-Genesis 47:18–26 and Leviticus 25. The chapter's later units remain un-ingested.
+Genesis 47:18–26 and Leviticus 25. Leviticus 25:23–34 is now ingested; 25:35–55 remains queued.
 
 
 **Genesis 47:20 and Leviticus 25:23 are the same transaction, one performed and one prohibited.**
@@ -72,8 +93,8 @@ took them out of the country where it happened.
 
 ### *"Strangers and foreigners with me"*
 
-The following Hebrew comparison is inherited analysis, not reverified against a
-source-language edition in this pass; its exact wording remains provisional.
+The two Hebrew phrases are checked against Miqra according to the Masorah (Sefaria), Leviticus
+25:23 and Genesis 23:4; the inherited *məgûray* of 47:9 was not rechecked in this pass.
 
 ***Gērîm wətôšābîm*** (Leviticus 25:23) **is the patriarchs' own self-description** — *"I am a
 stranger and a foreigner living with you"*, Abraham to the Hittites, buying the cave (Genesis 23:4),

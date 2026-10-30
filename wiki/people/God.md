@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Land and house redemption — Leviticus 25:23–34
+
+Yahweh grounds the ban on permanent land sale in his own ownership (23). His law protects
+return of family land while distinguishing walled-city houses and Levite property (24–34).
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Yahweh gives the land, commands its rest and the Jubilee return, and promises the sixth-year blessing that supports obedience (2, 10, 21).
@@ -2989,6 +2996,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
 

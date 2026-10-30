@@ -65,6 +65,16 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Land and house redemption — Leviticus 25:23–34
+
+Leviticus 25:32–34 explicitly gives Levites houses with perpetual redemption rights and
+unsaleable surrounding fields. This contradicts the older connection’s unrestricted
+claim that they have no property or fields: lack of a tribal territorial allotment is
+not lack of every holding. The group called Levites here is not simply synonymous with
+all the Aaronic priestly roles regulated in chapters 21–22.
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Aaron tends the lamps and Aaron with his sons receives the bread (3–4, 9). Priestly
@@ -433,6 +443,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

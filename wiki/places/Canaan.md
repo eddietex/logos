@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Land and house redemption — Leviticus 25:23–34
+
+The anticipated land, named at 25:38, belongs to Yahweh (23). Its future fields, village
+houses, walled-city houses, and Levite holdings receive distinct rules of tenure (24–34).
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The land Yahweh will give Israel must rest and sustain its people (2–7, 18–22). Canaan is named later in this same speech (25:38); entry is anticipated here, not narrated.
@@ -160,6 +167,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
 

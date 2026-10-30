@@ -38,6 +38,15 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Land and house redemption — Leviticus 25:23–34
+
+Land belongs to Yahweh, limiting its permanent alienation (23). Yet the purchaser of a
+walled-city house can acquire permanent title after a year (30). Village houses and
+Levite houses return at Jubilee, and Levite surrounding fields cannot be sold (31–34).
+A claim that Jubilee returns every purchased property is therefore too broad.
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The buyer pays for the number of crop years remaining (15–16), while property returns at Jubilee (13). Law constrains exchange without prohibiting exchange altogether.
@@ -673,6 +682,8 @@ figures do not contradict the refusal to price love.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

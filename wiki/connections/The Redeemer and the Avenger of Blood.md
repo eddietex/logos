@@ -15,7 +15,8 @@ tags: [connection]
   [[Miserable Comforters and the Witness in Heaven]]
 - **Job 19:25** — *"But as for me, I know that my Redeemer lives. In the end, he will stand upon the
   earth."* — [[I Know That My Redeemer Lives]]
-- **Leviticus 25:25** — the *gōʾēl* redeeming land a poor relative has had to sell
+- **Leviticus 25:25** — the *gōʾēl* redeeming land a poor relative has had to sell —
+  [[Redemption of Land and Houses]]
 - **Leviticus 25:47–49** — the *gōʾēl* redeeming a relative who has sold himself to a resident alien
 - **Numbers 35:12, 19–27; Deuteronomy 19:6, 12; Joshua 20:1–9** — the *gōʾēl haddām*, the avenger of
   blood, and the cities of refuge that limit him

@@ -24,6 +24,14 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### Land and house redemption — Leviticus 25:23–34
+
+The impoverished brother is helped through the nearest kinsman, who is directed to
+redeem what was sold (25). Kinship carries material responsibility, while self-redemption
+and Jubilee also protect a seller without an available redeemer (26–28).
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Brother, neighbor, and the children of one’s people appear together in the commands against hatred
@@ -188,6 +196,8 @@ are recalled is unresolved; brotherly concern must not erase the sister’s voic
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

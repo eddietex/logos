@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Land and house redemption — Leviticus 25:23–34
+
+Moses continues to receive the Sinai address introduced at 25:1. The instructions now
+concern land redemption and the distinct treatment of city, village, and Levite houses.
+
+See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Moses receives the speech at Mount Sinai and is charged to address Israel (1–2). The unit records instruction for future settled life, not his performance of a Jubilee.
@@ -1009,6 +1016,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
 

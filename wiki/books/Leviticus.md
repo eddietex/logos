@@ -177,6 +177,9 @@ blasphemy, injury, and one law for foreigner and native-born.
 and promised sixth-year provision. The opening liberty proclamation is read alongside
 the specific property and service distinctions that follow.
 
+[[Redemption of Land and Houses]] (25:23–34) grounds land redemption in Yahweh’s ownership
+and distinguishes fields, walled-city houses, village houses, and protected Levite property.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -232,7 +235,7 @@ merge, or reorder them freely.
 - [x] [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9
 - [x] [[The Blasphemer and One Law for All]] — Leviticus 24:10–23
 - [x] [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22
-- [ ] Redemption of Land and Houses — Leviticus 25:23–34
+- [x] [[Redemption of Land and Houses]] — Leviticus 25:23–34
 - [ ] The Poor Brother and Redemption from Service — Leviticus 25:35–55
 - [ ] Blessings for Obedience — Leviticus 26:1–13
 - [ ] Covenant Warnings and Remembered Promises — Leviticus 26:14–46

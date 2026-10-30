@@ -111,6 +111,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Redemption of Land and Houses]] — 25:23–34 specifies which houses return and which may remain sold.
+
 - [[The Seventh Year's Food - Exodus 23 and Leviticus 25]] — shared land rest with
   differently described beneficiaries.
 - [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] — restoration of property

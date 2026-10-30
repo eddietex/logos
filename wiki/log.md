@@ -20504,3 +20504,26 @@ unchecked boundary, frontmatter counts, and diff whitespace. Totals are
 266 passages, 198 people, 104 places, 85 themes, and 576 connections.
 No operational blocker; the calendar alignment and inherited source-language
 comparison remain explicitly qualified interpretive limits.
+
+## [2026-10-30] ingest | Leviticus 25.23-34 — Redemption of Land and Houses
+
+Created [[Redemption of Land and Houses]]: Yahweh's ownership, the kinsman's redemption, repurchase
+by elapsed years, and the separate rules for walled-city, village, and Levite houses. Revised the
+Leviticus book page; [[God]], [[Moses]], [[Levi]]; [[Canaan]], [[Horeb]]; eight themes; four
+connections; the books, people, places, themes, and connections indexes; and `wiki/index.md`.
+
+Finished from another agent's uncommitted draft. Added here: [[Levi]],
+[[The Redeemer and the Avenger of Blood]], and
+[[A Stranger and a Foreigner - The Sojourner's Confession]], all missed by the draft; the stale
+*not yet ingested* notes on [[Redemption]]; and repair of index rows cut off mid-sentence.
+
+Contradiction flagged, not overwritten: the wiki's claims that Levites have no fields or property,
+and that the Levite exemption exists *because* they have no fields, against 25:32–34, which names
+their houses and fields and gives *their possession* as the reason. Corrections stand on both
+connection pages and on [[Levi]] and [[Priesthood]]; the older wording remains as the view corrected,
+except a one-line reference summary on the Priests connection, which now states the verse.
+
+Boundary kept as planned. Hebrew of Leviticus 25:23–34, Genesis 23:4, and Genesis 47:22 checked
+against Miqra according to the Masorah (Sefaria); the inherited *ḥōq* claims for the Leviticus and
+Numbers verses remain marked provisional. Counts: 267 passages, 198 people, 104 places, 85 themes,
+576 connections. Next: The Poor Brother and Redemption from Service, Leviticus 25:35–55.

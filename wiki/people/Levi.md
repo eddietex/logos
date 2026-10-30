@@ -96,6 +96,14 @@ sanctuary administration without describing all later Levitical divisions.
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### Levite houses and fields — Leviticus 25:32–34
+
+These are Levi's later descendants, not the patriarch. They are named as a group here for the only
+time in Leviticus: their city houses stay redeemable at any time and return at Jubilee, and the fields
+around their cities may not be sold (32–34). **This qualifies the *no land of his own* language on
+this page**: no tribal territory is one thing, no holdings another. Verse 33 calls the houses *"their
+possession"*. See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -119,6 +127,8 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - Exodus 32 — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Redemption of Land and Houses]] — Leviticus 25:32–34; Levite city houses and unsaleable fields; patriarch contextual only.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; The Levites’ service named in the inventory (38:21); patriarch contextual only.
 

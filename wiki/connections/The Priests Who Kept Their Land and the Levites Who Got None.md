@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
+
 - **Genesis 47:22, 26** — the priests of Egypt exempted from the sale, *"for the priests had a
   portion from Pharaoh"* — [[Joseph and the Famine]]
 - **Genesis 41:45; 46:20** — [[Potiphera]], *priest of [[On]]*, Joseph's father-in-law —
@@ -18,12 +20,28 @@ tags: [connection]
 - **Joshua 13:14, 33; 14:3–4** — the allotment of Canaan, with Levi conspicuously skipped
 - **Numbers 35:1–8; Joshua 21** — the forty-eight Levitical cities and their pasture lands: the one
   concession
-- Compare **Leviticus 25:32–34** — Levite houses exempted from the walled-city rule, because they
-  have no fields — [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
+- Compare **Leviticus 25:32–34** — Levite houses exempted from the walled-city rule, and their
+  fields unsaleable — [[Redemption of Land and Houses]];
+  [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
 - Compare **Genesis 49:5–7** — *"I will divide them in Jacob and scatter them in Israel"*, said as a
   curse — [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Analysis
+
+### Correction from Leviticus 25:23–34
+
+The earlier assertions below that the Levites have no fields or property are **too broad
+and contradicted by Leviticus 25:32–34**. Those verses give them city houses with enduring
+redemption rights and surrounding fields that may not be sold. The later no-inheritance
+references concern tribal allotment and must not be used to deny these explicit holdings.
+The older wording is retained below as the interpretation being corrected, not a second
+conclusion. Genesis 47:22, 26 protects Egyptian priests from sale; Leviticus protects Levite
+holdings differently, but neither group is simply without property.
+
+The reason this page used to give, *because they have no fields*, is also not the
+text's: verse 33 says the houses *"are their possession among the children of Israel."*
+See [[Redemption of Land and Houses]]. Sources: stored WEB Genesis 47 and Leviticus 25.
+
 
 **Two priesthoods are treated as exceptions to a national land settlement, and the exceptions run in
 opposite directions.**
@@ -34,6 +52,10 @@ opposite directions.**
 > **Numbers 18:20** Yahweh said to Aaron, "You shall have no inheritance in their land, neither
 > shall you have any portion among them. I am your portion and your inheritance among the children
 > of Israel."
+
+*Ḥōq* at Genesis 47:22 is checked against Miqra according to the Masorah (Sefaria). The
+inherited claim about the Leviticus and Numbers verses cited below was not rechecked in this
+pass and remains provisional.
 
 **The same noun sits at the centre of both.** ***Ḥōq*** in Genesis 47:22 is **an allotted due, a
 ration fixed by authority**, and the Torah uses it repeatedly of the priests' share of the offerings
