@@ -24,6 +24,14 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+*Brother* opens each case of poverty (35, 39, 47) and draws the legal line: no interest, no slave
+service, no harsh rule among brothers, while slaves may be bought from others (44–46). Brothers,
+uncles, cousins, and close relatives may redeem (48–49).
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 The impoverished brother is helped through the nearest kinsman, who is directed to
@@ -196,6 +204,8 @@ are recalled is unresolved; brotherly concern must not erase the sister’s voic
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Poor brother and service — Leviticus 25:35–55
+
+Yahweh forbids profit from a poor brother and identifies himself by the exodus and the gift of
+Canaan (38). He claims Israelites as his servants (42, 55); that claim is why they may not be sold
+as slaves. Foreign slaves stand outside the claim as stated (44–46).
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Yahweh grounds the ban on permanent land sale in his own ownership (23). His law protects
@@ -2996,6 +3004,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

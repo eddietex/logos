@@ -180,6 +180,10 @@ the specific property and service distinctions that follow.
 [[Redemption of Land and Houses]] (25:23–34) grounds land redemption in Yahweh’s ownership
 and distinguishes fields, walled-city houses, village houses, and protected Levite property.
 
+[[The Poor Brother and Redemption from Service]] (25:35–55) follows a poor brother through
+interest-free support, sale, and redemption. It denies Israelites the status of slave because they
+are Yahweh's servants, and in the same breath permits foreign slaves forever.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -236,7 +240,7 @@ merge, or reorder them freely.
 - [x] [[The Blasphemer and One Law for All]] — Leviticus 24:10–23
 - [x] [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22
 - [x] [[Redemption of Land and Houses]] — Leviticus 25:23–34
-- [ ] The Poor Brother and Redemption from Service — Leviticus 25:35–55
+- [x] [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55
 - [ ] Blessings for Obedience — Leviticus 26:1–13
 - [ ] Covenant Warnings and Remembered Promises — Leviticus 26:14–46
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34

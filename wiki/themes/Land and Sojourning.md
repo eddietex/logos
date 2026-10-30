@@ -50,6 +50,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+The poor brother is named with the nouns of 25:23, *gēr wətôšāb* (35), and the sold brother goes
+back to *the possession of his fathers* (41). The resident aliens of 45 have no such return; their
+children may be bought, and the word *possession* is applied to them.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Israel holds the land as strangers and foreigners with Yahweh, its owner (23). Family
@@ -279,6 +287,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

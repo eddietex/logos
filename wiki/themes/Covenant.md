@@ -66,6 +66,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+*To be your God* (38) gives the exodus its stated aim beside the gift of land. Israelites being
+Yahweh's *servants* (42, 55) sets limits on what they can do to each other. See also
+[[They Are My Servants - Leviticus 25.42, 55, Nehemiah 5, and 1 Corinthians 7]].
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The weekly arrangement of bread is called an everlasting covenant on Israel’s behalf
@@ -325,6 +333,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Poor brother and service — Leviticus 25:35–55
+
+The speech introduced on Mount Sinai at 25:1 reaches its end. No transaction at the mountain or
+new geographical movement is narrated.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 The speech introduced on Mount Sinai at 25:1 continues with redemption laws (23–34).
@@ -534,6 +541,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

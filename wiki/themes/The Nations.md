@@ -63,6 +63,14 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+*The nations that are around you* are a permitted source of slaves (44), with the families of
+resident aliens (45). The status is permanent and heritable (46). Israelites may be sold to an
+alien living in the land, but only on hired-servant terms (47–54).
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Egypt and Canaan supply practices Israel must not imitate (3). The nations’ conduct explains expulsion, but Israel receives the same warning (24–28). This is the text’s theological portrayal, not independent ethnographic evidence about every inhabitant.
@@ -144,6 +152,8 @@ promise is future, not a report of conquest completed. See [[The Covenant Renewe
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

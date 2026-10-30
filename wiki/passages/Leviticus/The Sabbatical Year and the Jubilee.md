@@ -112,6 +112,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 ## Cross-references
 
 - [[Redemption of Land and Houses]] — 25:23–34 specifies which houses return and which may remain sold.
+- [[The Poor Brother and Redemption from Service]] — 25:35–55 applies Jubilee to sold brothers and excludes foreign slaves.
 
 - [[The Seventh Year's Food - Exodus 23 and Leviticus 25]] — shared land rest with
   differently described beneficiaries.

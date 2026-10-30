@@ -20527,3 +20527,27 @@ Boundary kept as planned. Hebrew of Leviticus 25:23–34, Genesis 23:4, and Gene
 against Miqra according to the Masorah (Sefaria); the inherited *ḥōq* claims for the Leviticus and
 Numbers verses remain marked provisional. Counts: 267 passages, 198 people, 104 places, 85 themes,
 576 connections. Next: The Poor Brother and Redemption from Service, Leviticus 25:35–55.
+
+## [2026-10-30] ingest | Leviticus 25.35-55 — The Poor Brother and Redemption from Service
+
+Created [[The Poor Brother and Redemption from Service]]: interest-free support, the sold brother as hired servant until
+Jubilee, permanent foreign slavery, and redemption from an alien buyer. Created
+[[They Are My Servants - Leviticus 25.42, 55, Nehemiah 5, and 1 Corinthians 7]]. Revised the Leviticus book page; [[God]], [[Moses]];
+[[Canaan]], [[Egypt]], [[Horeb]]; eleven themes; five connections; five other passages;
+the books, people, places, themes, and connections indexes; and `wiki/index.md`.
+
+Corrections, stated on the pages: 25:39 names poverty, not debt, so *sold for debt* is withdrawn from
+[[The Land Is Mine - Pharaoh's Freehold and the Jubilee]], where a misquoted WEB clause was also
+fixed. *Sold into slavery* as a description of 25:47–49 is withdrawn from
+[[The Redeemer and the Avenger of Blood]], [[Redemption]], and [[I Know That My Redeemer Lives]]:
+the man is expressly a hired servant, and the noun *gōʾēl* is absent from 47–55.
+
+Tensions flagged, not resolved: 25:10 against 25:46; 19:33–34 and 24:22 against 25:45; and the
+six-year term of Exodus 21:2 against Jubilee release. WEB's *like an alien* at 25:35 has no
+comparative in the Hebrew; noted on [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
+
+Boundary kept as planned. Hebrew of Leviticus 19:14, 32; 25:10, 13, 17, 23, 25, 35–55 checked against
+Miqra according to the Masorah (Sefaria); the Torah-only claim for *bəpārek* on the harshness
+connection remains inherited. New WEB quotations from 2 Kings 4:1, Nehemiah 5, and 1 Corinthians 7
+verified at bible-api.com; the Greek of 1 Corinthians 7 was not checked. Counts: 268 passages, 198
+people, 104 places, 85 themes, 577 connections. Next: Blessings for Obedience, Leviticus 26:1–13.

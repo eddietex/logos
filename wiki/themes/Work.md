@@ -28,6 +28,13 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+The hired servant is the standard for a sold brother's terms (40, 50, 53). His labor is bounded by
+Jubilee, priced by years, and not to be harsh. Compare 19:13 on the hired servant's wages.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Sowing, pruning, and reaping are interrupted by the land Sabbath and Jubilee (3–5, 11–12). Eating is still permitted, and sowing resumes in the eighth year (22); these are specific agricultural rules, not a general ban on every human task.
@@ -652,6 +659,8 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

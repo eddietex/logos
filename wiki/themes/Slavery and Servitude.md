@@ -36,9 +36,19 @@ with a woman it owns.
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+The brother may be sold but not worked as a slave: he is *as a hired servant*, goes out at Jubilee
+with his children, and may not be ruled with harshness, because he is Yahweh's servant (39–43).
+Foreign slaves may be bought, held as property, and bequeathed *forever* (44–46). This is the
+sharpest statement in the Torah of both halves of the tension this page tracks. An alien buyer
+must keep the hired-servant terms under Israel's eyes (53). The law states poverty, not debt.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
-Servants and hired workers share the land’s food (6), and Jubilee proclaims liberty and return (10). The later distinctions concerning Israelite service and foreign slaves in 25:39–46 prevent reading this opening proclamation as an unqualified abolition of every form of slavery.
+Servants and hired workers share the land’s food (6), and Jubilee proclaims liberty and return (10). The distinctions concerning Israelite service and foreign slaves in 25:39–46 prevent reading this opening proclamation as an unqualified abolition of every form of slavery.
 
 See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
 
@@ -291,6 +301,8 @@ are identified on the passage and connection pages.
 
 ## Key passages
 
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
+
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 
 
@@ -358,7 +370,8 @@ are identified on the passage and connection pages.
 - Genesis 37; 39–41 — Joseph sold, enslaved, imprisoned, and raised to rule the country that bought
   him *(not yet ingested)*
 - Exodus 1–15 — the affliction, and the deliverance that becomes the Old Testament's defining act
-- Exodus 21:1–11 ([[The Altar and the Hebrew Slave]]), 20–21, 26–27; Leviticus 25:39–55; Deuteronomy
+- Exodus 21:1–11 ([[The Altar and the Hebrew Slave]]), 20–21, 26–27; Leviticus 25:39–55
+  ([[The Poor Brother and Redemption from Service]]); Deuteronomy
   15:12–18; 23:15–16 — the laws, and the tension between them
 - Jeremiah 34:8–22 — Judah re-enslaving the freed, judged by the ceremony of Genesis 15
 - Isaiah 42:1–9; 52:13–53:12 — *ʿebed* as the highest title in the book

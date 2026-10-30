@@ -85,6 +85,13 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+One situation, a poor man sold, yields different rules by the buyer's and the man's identity
+(39–43, 44–46, 47–54). Fear of God backs what no penalty clause in these verses enforces (36, 43).
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 The prohibition of permanent land sale (23) is followed by distinct rules for fields,
@@ -783,6 +790,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

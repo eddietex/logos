@@ -17,7 +17,8 @@ tags: [connection]
   earth."* — [[I Know That My Redeemer Lives]]
 - **Leviticus 25:25** — the *gōʾēl* redeeming land a poor relative has had to sell —
   [[Redemption of Land and Houses]]
-- **Leviticus 25:47–49** — the *gōʾēl* redeeming a relative who has sold himself to a resident alien
+- **Leviticus 25:47–49** — a relative redeeming one who has sold himself to a resident alien —
+  [[The Poor Brother and Redemption from Service]]
 - **Numbers 35:12, 19–27; Deuteronomy 19:6, 12; Joshua 20:1–9** — the *gōʾēl haddām*, the avenger of
   blood, and the cities of refuge that limit him
 - **Ruth 3:9–4:10** — Boaz as *gōʾēl*: land redeemed and a widow married *"to raise up the name of
@@ -62,10 +63,17 @@ been** — and unlike Job, he names him in a blessing rather than in a complaint
 
 ### The law
 
+**Correction from Leviticus 25:47–55.** This section has said the *gōʾēl* buys out a relative sold
+*into slavery*. The text says otherwise on two points: the man *sold* is expressly not a slave but
+*as a hired servant* (50, 53; compare 39–42), and the noun *gōʾēl* does not appear in 47–55, which
+use the verb and *gəʾullâ* (Miqra according to the Masorah, Sefaria). Nor does the unit state
+the duty in the unqualified terms of *lays four duties*: WEB has *may redeem*, and the Hebrew
+imperfect does not decide it. Verse 25's *gōʾălô* remains the noun's Leviticus anchor.
+
 **The word is family law, not courtroom law.** A *gōʾēl* — the participle of *gāʾal*, to redeem or
 reclaim — is the nearest able kinsman of a man in trouble, and Israelite law lays four duties on
 him. He **buys back** ancestral land a relative has been forced to sell (Leviticus 25:25). He
-**buys out** a relative who has sold himself into slavery (Leviticus 25:47–49). He **marries** a
+**buys out** a relative who has sold himself to a foreign buyer (Leviticus 25:47–49). He **marries** a
 childless widow so the dead man's name is not lost from his inheritance (Ruth 4:5, 10). And he
 **hunts down** the killer of a relative (Numbers 35:19).
 

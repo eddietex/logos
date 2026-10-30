@@ -13,7 +13,7 @@ tags: [connection]
 - **Deuteronomy 15:12–18** — the same six years, extended explicitly to *"a Hebrew woman"*, with
   provisions for the journey and the memory of Egypt as the motive *(not yet ingested)*
 - **Leviticus 25:39–46** — the impoverished brother who is not to *"serve as a slave"*, released at
-  the Year of Jubilee; foreign slaves held *"forever"* *(not yet ingested)*
+  the Year of Jubilee; foreign slaves held *"forever"* — [[The Poor Brother and Redemption from Service]]
 - **Jeremiah 34:8–17** — Zedekiah's covenant of release, the freed servants taken back, and God's
   answering *"liberty … to the sword"* *(not yet ingested)*
 
@@ -63,6 +63,12 @@ mention a master-given wife, but the outcomes for children do not match. 4. **Th
 21 gives no reason for the release. Deuteronomy and Leviticus both give the exodus as the reason,
 though in different forms. In Deuteronomy, Israel remembers it was a slave. In Leviticus, God says
 Israelites are already his servants and cannot be sold as slaves.
+
+**Leviticus 25 now read in full.** Its table entries stand against stored WEB. The law also
+adds a case the others lack: sale to a resident alien, with redemption by kin or by the man himself
+(47–52) and release at Jubilee (54). It neither cites the six-year rule nor sets it aside. A Jubilee
+term can be far longer than six years or far shorter, and the text does not relate the two. See
+[[The Poor Brother and Redemption from Service]].
 
 ## Significance
 

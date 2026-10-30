@@ -38,6 +38,14 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+Money and food may not earn profit from a poor brother (37). Yet people may be bought as
+*possession* and inherited (45–46), using the word *ʾăḥuzzâ* applied to family land (41).
+The chapter's limits on property in land do not extend to foreign persons.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Land belongs to Yahweh, limiting its permanent alienation (23). Yet the purchaser of a
@@ -682,6 +690,8 @@ figures do not contradict the refusal to price love.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

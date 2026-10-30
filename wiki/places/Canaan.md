@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Poor brother and service — Leviticus 25:35–55
+
+Canaan is named at 25:38, the chapter's only naming of it, as the purpose of the exodus: *to give
+you the land of Canaan*. Verse 45's *your land* assumes settlement; none is narrated.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 The anticipated land, named at 25:38, belongs to Yahweh (23). Its future fields, village
@@ -167,6 +174,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

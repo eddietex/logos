@@ -30,6 +30,14 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+Poverty is followed through failing support, sale to an Israelite, and sale to an alien (35, 39,
+47). The first response is to *uphold* him without interest or profit (35–37). The same chapter
+leaves the bought foreign slave without release (44–46), which marks a limit on who is protected.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Poverty can force a sale of family property (25). Kin redemption, redemption after
@@ -385,6 +393,8 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

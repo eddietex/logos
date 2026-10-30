@@ -82,6 +82,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 - [[The Sabbatical Year and the Jubilee]] — 25:10–16 announces return and crop-year pricing;
   this unit specifies redemption and the different house rules.
+- [[The Poor Brother and Redemption from Service]] — the same brother, and the same reckoning of years, applied to persons.
 - [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]] — Genesis 47's crown ownership
   compared with land that returns to the seller at Jubilee.
 - [[The Priests Who Kept Their Land and the Levites Who Got None]] — the Levites' protected
@@ -125,4 +126,4 @@ These two verses are the only place the stored WEB of Leviticus uses the word *L
 that Jubilee was historically observed. WEB 25:33 is quoted as stored; no conclusion about
 its underlying Hebrew syntax is asserted. At 25:30 the Hebrew has a *ketiv/qere*: written
 *lōʾ* (not), read *lô* (to it), so *the city that has a wall*; WEB follows the reading.
-Comparisons use stored Genesis 47 and Leviticus 25. The planned boundary is retained; the service laws beginning at 25:35 remain queued.
+Comparisons use stored Genesis 47 and Leviticus 25. The planned boundary is retained; the service laws begin at 25:35, [[The Poor Brother and Redemption from Service]].

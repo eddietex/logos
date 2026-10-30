@@ -159,6 +159,7 @@ but *"cast it to the dogs"* (22:31).
   and [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]].
 - Exodus 3:7, 9; 11:6; 12:30 — the cry God hears:
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–37.
 - Leviticus 25:35–37; Deuteronomy 23:19–20; Psalm 15:5; Ezekiel 18:8; Nehemiah 5:7 — lending
   without interest: [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
 - Deuteronomy 24:10–13; Amos 2:8; Job 22:6; 24:7–10 — the pledged cloak:

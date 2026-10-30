@@ -15,7 +15,7 @@ tags: [connection]
   to him as a creditor. You shall not charge him interest."* — [[Laws of Holiness and Compassion]]
 - **Leviticus 25:35–37** — *"If your brother has become poor … Take no interest from him or profit,
   but fear your God; that your brother may live among you. You shall not lend him your money at
-  interest, nor give him your food for profit."* *(not yet ingested)*
+  interest, nor give him your food for profit."* — [[The Poor Brother and Redemption from Service]]
 - **Deuteronomy 23:19–20** — *"You shall not lend on interest to your brother … You may lend on
   interest to a foreigner; but to your brother you shall not lend on interest"* *(not yet ingested)*
 - **Psalm 15:5** — the one who may dwell on God's hill is *"he who doesn't lend out his money for
@@ -59,6 +59,15 @@ against their own brothers.
 
 **The noun *nešek* is often connected with a verb *to bite*** — interest as what bites the borrower.
 That derivation is a common one; it was not checked against a lexicon in this pass.
+
+### Leviticus 25 in context
+
+Leviticus has two terms Exodus lacks one of: *nešek wətarbît* (36), then *nešek* for money and
+*marbît* for food (37; Exodus 22:25 has only *nešek*, MAM). Its motive is that the brother
+*may live among you*; verse 38 then cites the exodus. One qualification to the table above: WEB's
+*like an alien* has no comparative word in the Hebrew, *gēr wətôšāb wāḥay ʿimmāk* (35), so the
+argument from *like* depends on how that clause is construed. See
+[[The Poor Brother and Redemption from Service]]. Source: stored WEB; Miqra according to the Masorah (Sefaria).
 
 ### Proverbs 22 in context
 

@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
 
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55, now ingested.
+
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22, now ingested.
 
 - **Genesis 47:18–23** — every field in Egypt sold to the crown, the sellers left as tenants —
@@ -17,7 +19,7 @@ tags: [connection]
   strangers and live as foreigners with me"*
 - **Leviticus 25:8–17, 25–34** — the jubilee, the redemption of a sold field, and the walled-city
   exception
-- **Leviticus 25:39–43** — an Israelite sold for debt is not to be made a slave, *"for they are my
+- **Leviticus 25:39–43** — an impoverished Israelite is not to be made a slave, *"for they are my
   servants"*
 - Compare **Exodus 9:29; 19:5** — Moses to the king who owns Egypt's fields: *"that you may know that
   the earth is Yahweh's"*; and at Sinai, *"for all the earth is mine"* — [[Livestock, Boils, and Hail]]
@@ -62,7 +64,8 @@ kinds of service (25:29–34, 39–46); Jubilee cannot mean that every person re
 field or that every form of servitude ends.
 
 See [[The Sabbatical Year and the Jubilee]]. Sources for this qualification: stored WEB
-Genesis 47:18–26 and Leviticus 25. Leviticus 25:23–34 is now ingested; 25:35–55 remains queued.
+Genesis 47:18–26 and Leviticus 25. Leviticus 25 is now ingested through 25:55. Earlier wording here, *sold for debt*, is corrected:
+25:39 names poverty and does not mention debt. WEB 25:39 is *to serve as a slave*.
 
 
 **Genesis 47:20 and Leviticus 25:23 are the same transaction, one performed and one prohibited.**
@@ -81,7 +84,7 @@ law was given to the descendants of the man who conducted it.
 | **who owns the land** | Pharaoh, after 47:20 | *"the land is mine"* — God (25:23) |
 | **may a field be sold outright?** | it is, by every man in the country | **no** — *"not … in perpetuity"* (25:23) |
 | **what happens to a sold field** | it stays sold; the statute is *to this day* (47:26) | it returns at the jubilee (25:13, 28) |
-| **the debtor's own person** | *"buy us … we will be servants to Pharaoh"* (47:19) | *"you shall not make him serve as a slave"* (25:39–40) |
+| **the poor man's own person** | *"buy us … we will be servants to Pharaoh"* (47:19) | *"you shall not make him to serve as a slave"* (25:39–40) |
 | **why** | because the famine was severe (47:20) | *"for they are my servants, whom I brought out of the land of Egypt"* (25:42) |
 | **the resulting tenure** | tenancy at a fifth, indefinitely (47:24, 26) | possession restored *"to his family"* (25:10) |
 

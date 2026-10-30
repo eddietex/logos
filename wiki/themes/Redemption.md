@@ -10,7 +10,7 @@ Getting back, by right or by price, what belongs to you and has passed out of yo
 field, a life. **The Torah uses two verbs for it, and the wiki has now met both.** (Both checked in the WLC.)
 
 - ***Gāʾal*** — the act of the ***gōʾēl***, the kinsman whose duty is to buy back family land, redeem a
-  relative sold into slavery, or avenge his blood (Leviticus 25, ingested through 25:34; Numbers 35 by
+  relative sold to a foreign buyer, or avenge his blood (Leviticus 25; Numbers 35 by
   reference, *not yet ingested*). **Its first use is Jacob's**: *"the angel who has redeemed me from all evil"* (Genesis
   48:16). **Its second is God's promise in Egypt**: *"I will redeem you with an outstretched arm, and with
   great judgments"* (Exodus 6:6). **Its third says the promise is kept**: *"the people that you have
@@ -33,6 +33,15 @@ care and transport, extending the sea's account of the redeemed people. See
 [[Israel at Mount Sinai]] and [[On Eagles Wings - Exodus 19 and Deuteronomy 32]].
 
 ## Development across Scripture
+
+### Poor brother and service — Leviticus 25:35–55
+
+*Gāʾal* now applies to a person. A sold brother may be redeemed by brother, uncle, cousin, close
+relative, or himself (48–49), at a price proportional to the years left to Jubilee (50–52). The
+noun *gōʾēl* is absent from these verses; verb and *gəʾullâ* carry it (Miqra according to the
+Masorah, Sefaria). The law states this only for an alien buyer.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
 
 ### Land and house redemption — Leviticus 25:23–34
 
@@ -87,7 +96,7 @@ See [[Clean and Unclean Animals]]. Source: stored WEB Leviticus 11.
 - **Then praise.** *"You, in your loving kindness, have led the people that you have redeemed"* (15:13);
   *"the people you have purchased"* (15:16). **Moses' second song uses *qānâ* again**: *"Isn't he your
   father who has bought you?"* (Deuteronomy 32:6; WEB; WLC; *not yet ingested*).
-- **Ahead** *(not yet ingested)*: the *gōʾēl* law of slaves (Leviticus 25:47–49) and of blood (Numbers
+- **Ahead** *(not yet ingested)*: the *gōʾēl* law of blood (Numbers
   35); Deuteronomy's *pādâ* for the exodus (7:8); Boaz; the prophets' *"your Redeemer"*; and Micah's
   *"redeemed you out of the house of bondage"* (6:4, WEB).
 
@@ -172,6 +181,8 @@ role: the Redeemer *"will plead their case against you"*.
 See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

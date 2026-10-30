@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Poor brother and service — Leviticus 25:35–55
+
+Three times Yahweh names Egypt as what he brought Israel out of (38, 42, 55). The law's word for
+forbidden mastery, *with harshness* (43, 46, 53), is the one Exodus 1:13–14 uses of the Egyptians;
+see [[With Harshness - Exodus 1.13-14 and Leviticus 25]].
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The offender’s father is described as Egyptian (10). Egypt supplies paternal
@@ -159,6 +167,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

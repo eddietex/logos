@@ -278,7 +278,7 @@ master as a stranger (19:15), and a rock face where Job wants words cut (19:24).
 - **What *gōʾēl* means (19:25).** The root *gāʾal* is family law, not courtroom law. The *gōʾēl* is
   the nearest able kinsman, and the duty falls on him by relationship rather than by contract. Four
   offices are attested: **buying back** land a relative has had to sell (Leviticus 25:25),
-  **redeeming** a relative who has sold himself into slavery (Leviticus 25:47–49), **marrying** a
+  **redeeming** a relative who has sold himself to a foreign buyer (Leviticus 25:47–49), **marrying** a
   childless widow to raise up the dead man's name (the whole plot of Ruth), and **avenging** a
   relative's blood (*gōʾēl haddām*, Numbers 35:19). Every one of them is an act performed *for
   someone who cannot act for himself*, and three of the four are performed for someone who has lost

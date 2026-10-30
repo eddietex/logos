@@ -128,7 +128,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Hearing Ear and the Seeing Eye - Proverbs 20.12 and Exodus 4.11]] | thematic-parallel | [[Wine Is a Mocker]] — Proverbs 20:5, 8–12, 27 · [[The Burning Bush]] — Exodus 4:10–12 · [[The Glory of Kings]] (Proverbs 25:12) |
 | [[The Heart Knows Its Own Bitterness - Proverbs 14.10 and Job's Complaint]] | thematic-parallel | [[A Way That Seems Right]] (Proverbs 14:10, 13); [[The Arrows of the Almighty]] (Job 7:11); [[There Is No Umpire Between Us]] (Job 10:1); [[Why Do the Wicked Live]] (Job 21:23–26) |
 | [[Heart, Eyes, and Feet - Proverbs 4 and Job 31]] | tension | Proverbs 4:21–27 · Job 31:1, 7, 9 · Job 23:11 · Job 2:7 · Job 1:1 · [[Keep Your Heart]] · [[Job's Oath of Innocence]] |
-| [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 |
+| [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 · [[The Poor Brother and Redemption from Service]] |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]] | thematic-parallel | Exodus 23:4–5 · [[The Glory of Kings]] (Proverbs 25:21–22) · Matthew 5:43–48 · Romans 12:20–21 · [[Through Wisdom a House Is Built]] (Proverbs 24:17–18) |
 | [[The High Priest Once a Year - Leviticus 16 and Hebrews 9]] | typology | [[The Day of Atonement]] · Hebrews 9:7, 11–12, 24–26 · Hebrews 10:3–4 |

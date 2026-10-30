@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Poor brother and service — Leviticus 25:35–55
+
+Moses continues to receive the Sinai address introduced at 25:1. The speech moves from land to
+persons: lending, sold brothers, foreign slaves, and redemption from an alien buyer.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land and house redemption — Leviticus 25:23–34
 
 Moses continues to receive the Sinai address introduced at 25:1. The instructions now
@@ -1016,6 +1023,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 

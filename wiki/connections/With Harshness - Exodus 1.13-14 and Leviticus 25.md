@@ -14,8 +14,8 @@ tags: [connection]
 - **Leviticus 25:46** — *"over your brothers the children of Israel you shall not rule, one over
   another, with harshness"*
 - **Leviticus 25:53** — *"He shall not rule with harshness over him in your sight"*
-- Compare **Leviticus 25:42, 55** — Israel as God's servants whom he brought out of Egypt *(by
-  reference; to be quoted when Leviticus is reached)*
+- Compare **Leviticus 25:42, 55** — *"For they are my servants, whom I brought out of the land of
+  Egypt"* — [[The Poor Brother and Redemption from Service]]
 
 ## Analysis
 
@@ -30,10 +30,15 @@ work. And the alternative the law gives is the midwives' virtue: *"but shall fea
 and the thing that resisted it; Leviticus 25 makes them the two options open to every Israelite
 master.**
 
-**The reasoning is stated in the same chapter** (25:42, 55, by reference): the Israelites are God's
+**The reasoning is stated in the same chapter** (25:42, 55): the Israelites are God's
 servants, brought out of Egypt, and so may not be sold or treated as slaves are. **The Exodus makes
 Israel Yahweh's servants and therefore no one else's** — the same *ʿābad* that Exodus 1 uses five
 times for Egypt's service.
+
+**The three verses are three settings** (Miqra according to the Masorah, Sefaria: *bəpārek* at 43
+and 46, pausal *bəperek* at 53). Verse 43 binds the Israelite buyer. Verse 46 limits the ban to
+*your brothers*, right after foreign slaves are allowed. Verse 53 reaches the alien buyer, and
+the phrase there is *in your sight*: Israel must see that an outsider does not do what Egypt did.
 
 ## Significance
 

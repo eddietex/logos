@@ -55,6 +55,14 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Poor brother and service — Leviticus 25:35–55
+
+*Fear your God* (36, 43) stands where no human enforcer is named: over the lender and the Israelite
+master. For the alien buyer the check is *in your sight* (53). The formula is shared with 19:14,
+19:32, and 25:17.
+
+See [[The Poor Brother and Redemption from Service]]. Source: stored WEB Leviticus 25.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The prohibition of wronging a neighbor is grounded in fearing God (17). Its immediate setting is purchase and sale priced by the number of crops until Jubilee (14–16).
@@ -365,6 +373,8 @@ shout. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
 
+- [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
+
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 
 
@@ -562,7 +572,7 @@ shout. See [[The Eighth Day and the Appearing Glory]] .
   Scripture the fear of God is the ground for refusing a king's command, and the only reason the
   narrator gives for God's acting in the chapter: *"Because the midwives feared God, he gave them
   families."* Compare Acts 5:29; and Leviticus 25:43, where *fear your God* is set against Egypt's
-  *harshness*
+  *harshness* ([[The Poor Brother and Redemption from Service]])
 - [[The Birth of Moses]] — Exodus 2:1–10 with Hebrews 11:23; **the parents *"not afraid of the
   king's commandment"*** — the midwives' fear of God (1:17) restated as the absence of the fear of
   Pharaoh. Exodus itself names no fear in the passage
