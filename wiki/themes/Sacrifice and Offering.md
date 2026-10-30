@@ -77,6 +77,14 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+Both the first and tenth days require an offering made by fire (25, 27). This unit
+does not list animals or quantities. The Day of Atonement’s detailed priestly rite
+remains in chapter 16, alongside the calendar’s emphasis on communal duties.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 A lamb with flour, oil, and wine accompanies the sheaf (12–13). The later bread comes
@@ -548,6 +556,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

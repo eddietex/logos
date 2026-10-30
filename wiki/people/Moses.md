@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+Moses receives two successive speeches (23, 26), with an explicit charge to speak to
+Israel in the first (24). The unit records commands, not their performance.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 Moses receives the renewed speech (9) for the children of Israel (10). The instructions
@@ -972,6 +979,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

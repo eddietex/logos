@@ -28,6 +28,14 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+Regular work is forbidden on the trumpet memorial (25), while every kind of work is
+forbidden on the Day of Atonement (28, 30–31). Offerings are nevertheless commanded (27).
+The passage preserves this distinction without providing a general list of permitted tasks.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The harvest is labor whose consumption waits for the first offering (14). The later
@@ -621,6 +629,8 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

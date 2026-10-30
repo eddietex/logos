@@ -27,6 +27,14 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+The tenth day of the seventh month is a Sabbath of solemn rest observed from the
+ninth evening to the following evening (27, 32). The evening boundary explains the
+observance of the tenth day, rather than contradicting its stated date.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 Seven Sabbaths structure the fifty-day count from the day after the Sabbath (11, 15–16).
@@ -168,6 +176,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

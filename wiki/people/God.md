@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+Yahweh appoints seventh-month assemblies and offerings (24–28). He also declares that
+he will destroy the person who works on the Day of Atonement (30); the calendar joins
+atonement for the people to accountability for their response.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 Yahweh gives the land (10) and receives its first produce before Israel eats (14).
@@ -2951,6 +2959,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

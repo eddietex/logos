@@ -20346,3 +20346,34 @@ external quotation or Greek/Hebrew claim was added.
 
 Link checks passed with no wrapped links or unexpected dangling targets; the expected
 baseline remains 59 unstarted books. No operational blocker or harness change.
+
+## [2026-10-30] ingest | Leviticus 23.23-32 — Trumpets and the Day of Atonement
+
+Ingested [[Trumpets and the Day of Atonement]] in unattended mode, retaining the planned
+boundary and placing the discussion in the passage. The complete ten-verse WEB unit was
+copied from the stored source and checked verbatim. No other pericope was ingested.
+
+Created one passage and revised twenty-one existing wiki pages: Leviticus, two people,
+one place, nine themes, one connection, six indexes (book, people, places, themes,
+connections, and overall progress), and this log. Leviticus is now 35/44 pericopes.
+Frontmatter counts: 262 passages, 195 people, 104 places, 85 themes, 574 connections;
+seven books started, six complete.
+
+Updated [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] to link the now
+ingested calendar unit and distinguish regular-work and all-work prohibitions. The
+ninth evening begins the tenth day's observance, rather than changing its date.
+Chapter 23's omission of the resident foreigner does not revoke Leviticus 16:29.
+No new contradiction was found; complementary details and apparent date tension are
+explicitly explained rather than silently harmonized.
+
+Judgment calls: collective Israel receives no individual page; Sinai is contextual,
+not named in the unit. The trumpet memorial's remembered object is unspecified, and
+no instrument material, later festival name, or new-year identification is imported.
+Self-denial is described without inferring a particular diet or Hebrew expression.
+The existing connection suffices; no duplicate connection is created. All new source
+claims use stored WEB Leviticus 7, 16, and 23; no external quotations or new source-language
+claims were added. Raw sources and workflow instructions remain unchanged.
+
+`scripts/link-check.sh` passed with no wrapped links or unexpected dangling targets;
+59 unstarted book pages remain the expected baseline. Counts and quotation fidelity
+were checked, and `git diff --check` passed. No operational blocker or harness change.

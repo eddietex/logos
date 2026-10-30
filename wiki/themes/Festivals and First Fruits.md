@@ -12,6 +12,14 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+The first day of the seventh month brings a trumpet memorial, rest, and assembly
+(24–25); the tenth brings atonement, self-denial, and complete rest (27–32). Not every
+appointed assembly is a harvest celebration. No remembered event is specified for the memorial.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The sheaf precedes eating the harvest; seven Sabbaths and fifty days lead to two
@@ -101,6 +109,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

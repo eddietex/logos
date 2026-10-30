@@ -84,6 +84,14 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+Failure to deny oneself brings cutting off from the people (29); Yahweh says he will
+destroy the person who works on the Day of Atonement (30). These are stated sanctions,
+not a report of punishment carried out. No human execution procedure is prescribed here.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### Field and community — Leviticus 19:19–37
 
 The pair are punished but not put to death because the woman was not free (20). The form of
@@ -581,6 +589,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

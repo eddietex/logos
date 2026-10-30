@@ -12,7 +12,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
-| [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] | legal-ritual-parallel | [[The Day of Atonement]] · Leviticus 23:26–32 |
+| [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] | legal-ritual-parallel | [[The Day of Atonement]] · Leviticus 23:26–32 · [[Trumpets and the Day of Atonement]] (Leviticus 23:23–32) |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
 | [[Defilement of Body and Land - Leviticus 15 and 18]] | law-comparison | [[Bodily Discharges and Cleansing]] · [[Forbidden Unions and the Defiled Land]] · [[Penalties and a People Set Apart]] (Leviticus 20; sanctions now ingested) |

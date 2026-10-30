@@ -63,6 +63,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+The first day of the seventh month is a memorial of trumpet blowing in the WEB (24).
+The verse does not identify an event commemorated or say who is to remember; this memorial
+should not be supplied with an unstated object from other remembrance passages.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### Field and community — Leviticus 19:19–37
 
 Israel’s past as foreigners and its departure from Egypt supply reasons for present love and
@@ -350,6 +358,8 @@ The handful of flour and oil, with all its frankincense, is burned as a memorial
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -8,8 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Day of Atonement]] — Leviticus 16:1–34.
-- **Leviticus 23:26–32** — the same day within the festival calendar *(stored WEB; not yet
-  ingested)*.
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32, especially 26–32.
 
 ## Analysis
 
@@ -36,6 +35,12 @@ practice they describe is not further specified in either chapter, and identifyi
 fasting is an interpretation.
 
 Source: stored WEB Leviticus 16:29–34 and 23:26–32.
+
+The ingested calendar unit also includes the first-day trumpet memorial (23:23–25).
+Its prohibition of regular work contrasts with the tenth day's prohibition of every kind
+of work. The ninth evening begins the tenth day's observance (27, 32), so these are not
+competing dates. Chapter 23's silence about the resident foreigner does not repeal the
+explicit inclusion in 16:29. Neither passage reports a punishment being carried out.
 
 ## Significance
 

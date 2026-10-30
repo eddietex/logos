@@ -157,6 +157,10 @@ Passover, and the seven-day feast, distinguishing their assembly and work requir
 leavened first-fruits loaves and accompanying sacrifices, and gleanings for poor people
 and foreigners. Holy dedication and provision for neighbors share the harvest.
 
+[[Trumpets and the Day of Atonement]] (23:23–32) fixes seventh-month rest and assemblies,
+adds sanctions for refusal of self-denial or rest on the Day of Atonement, and defines
+its evening-to-evening observance.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -207,7 +211,7 @@ merge, or reorder them freely.
 - [x] [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33
 - [x] [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8
 - [x] [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22
-- [ ] Trumpets and the Day of Atonement — Leviticus 23:23–32
+- [x] [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32
 - [ ] The Feast of Booths — Leviticus 23:33–44
 - [ ] The Lamps and the Bread Before Yahweh — Leviticus 24:1–9
 - [ ] The Blasphemer and One Law for All — Leviticus 24:10–23

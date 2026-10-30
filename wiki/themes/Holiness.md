@@ -79,6 +79,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+Both the trumpet memorial and Day of Atonement are holy convocations (24, 27). Sacred
+time involves assembly and offerings as well as cessation of work; on the tenth day
+self-denial is also required.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The waved gifts are holy to Yahweh for the priest (20), and the assembly is holy (21).
@@ -491,6 +499,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

@@ -76,6 +76,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+The Day of Atonement’s work prohibition is a perpetual statute for every generation
+and dwelling (31). The calendar commands self-denial and rest with explicit sanctions
+(29–30); no observance is narrated within this unit.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The statutes regulate when grain may be eaten (14), the count and offerings (15–20),
@@ -734,6 +742,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

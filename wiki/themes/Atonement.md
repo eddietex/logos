@@ -20,6 +20,14 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+The calendar grounds the tenth day’s complete rest in atonement made for Israel before
+Yahweh (28). Self-denial and cessation of work are required of the people; chapter 16
+supplies the priestly procedure. See [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]].
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### Field and community — Leviticus 19:19–37
 
 The priest makes atonement with the ram for the man’s sin, and forgiveness is promised (21–22).
@@ -250,6 +258,8 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

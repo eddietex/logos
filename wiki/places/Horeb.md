@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Trumpets and atonement — Leviticus 23:23–32
+
+The Sinai setting is supplied by Leviticus 7:38, not named in 23:23–32. The statute
+extends into all Israel’s dwellings (31), without identifying another geographical site.
+
+See [[Trumpets and the Day of Atonement]]. Source: stored WEB Leviticus 23:23–32; contextual references as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The Sinai frame of Leviticus 7:38 remains the context; no mountain is named here.
@@ -490,6 +497,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
