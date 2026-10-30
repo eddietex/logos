@@ -172,7 +172,18 @@ Not named, but his death lies behind the phrase "his sons who were left" (12, 16
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The deaths that date the Day of Atonement — Leviticus 16:1–34
+
+Leviticus 16:1 places the law *"after the death of the two sons of Aaron, when they came near
+before Yahweh, and died"*. He is not named there. The chapter answers the deaths with a rule of
+entry rather than a further account of the offense; see
+[[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
 ## Appears in
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Unnamed; his death frames the exchange.
 

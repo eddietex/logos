@@ -12,6 +12,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
+| [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] | legal-ritual-parallel | [[The Day of Atonement]] · Leviticus 23:26–32 |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
 | [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] | legal-thematic-parallel | Exodus 19:1–6 · Exodus 20:1–3 · Exodus 22:31 · Leviticus 11:44–47 |
@@ -129,6 +130,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]] | parallel | Exodus 21:2–11 · Deuteronomy 15:12–18 · Leviticus 25:39–46 · Jeremiah 34:8–17 |
 | [[The Hedge Around Him - Job 1.10 and Job 3.23]] | word | Job 1:10 · Job 3:23 · Job 1:12; 2:6 · Job 19:8 · Hosea 2:6 · Lamentations 3:7, 9 |
 | [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]] | thematic-parallel | Exodus 23:4–5 · [[The Glory of Kings]] (Proverbs 25:21–22) · Matthew 5:43–48 · Romans 12:20–21 · [[Through Wisdom a House Is Built]] (Proverbs 24:17–18) |
+| [[The High Priest Once a Year - Leviticus 16 and Hebrews 9]] | typology | [[The Day of Atonement]] · Hebrews 9:7, 11–12, 24–26 · Hebrews 10:3–4 |
 | [[Higher Than Heaven, Deeper Than Sheol - The Measure of the Unsearchable]] | thread | Job 11:7–9 · Job 5:9; 9:10 · Job 28:3, 12–23 · Job 36:26; 37:23 · Job 38:16–18 · Psalm 139:7–10 · Amos 9:2–3 · Psalm 145:3 · Isaiah 40:28 · Romans 11:33–35 · Ephesians 3:18–19 · Job 26:5–6, 14 · [[A Time for Every Purpose]] (Ecclesiastes 3:1–15) · [[Righteousness and Wisdom Under Question]] (Ecclesiastes 7:23–24) · [[The Wicked Buried and the Work Beyond Finding]] — Ecclesiastes 8:10–17 |
 | [[His Blood Is Required - Darash and the Reckoning for Blood]] | thread | Genesis 4:10 · Genesis 9:5–6 · Genesis 42:22 · 2 Samuel 4:11 · Ezekiel 3:18, 20 · Ezekiel 33:6, 8 · Luke 11:50–51 |
 | [[His Life Is Bound Up in the Boy's Life - Nephesh Tied to Nephesh]] | idiom | Genesis 2:7 · Genesis 37:34–35 · Genesis 42:38 · Genesis 44:29–31 · 1 Samuel 18:1, 3 · 1 Samuel 20:17 · 1 Samuel 25:29 · Deuteronomy 6:5 |

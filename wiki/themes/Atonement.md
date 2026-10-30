@@ -20,6 +20,21 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### The Day of Atonement — Leviticus 16:1–34
+
+The chapter that gives the day its name uses atonement more broadly than any before it: for
+Aaron and his house (6, 11), the Holy Place and the Tent of Meeting (16), the altar (18), the
+people (24, 30, 33), and even the live goat, presented *"to make atonement for him"* (10). The
+grounds are both uncleanness and transgressions (16), and the result is stated as cleansing:
+*"from all your sins you shall be clean before Yahweh"* (30). **Qualification:** the chapter
+names actions — sprinkling, putting blood on horns, confession, sending away — without
+explaining how they effect atonement; theories of covering, wiping, or substitution remain
+interpretations. See [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] and
+[[The High Priest Once a Year - Leviticus 16 and Hebrews 9]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The priest makes atonement for the man for his discharge (15) and for the woman for
@@ -217,6 +232,8 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

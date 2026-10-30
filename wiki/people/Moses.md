@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The Day of Atonement — Leviticus 16:1–34
+
+Moses receives the law and is told to relay it to Aaron (1–2); he performs no part of the rite.
+The closing formula — *"It was done as Yahweh commanded Moses"* (34) — reports compliance
+without narrating the first observance, so the wiki does not date it.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 Moses receives the discharge laws with Aaron and is charged to teach Israel (1–2).
@@ -884,6 +893,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

@@ -61,8 +61,10 @@ practical.**
   wording here placed the discussion only in Leviticus and later; that chronology was misleading.
   The present comparison concerns the WEB's pardon language, not an independently verified
   concordance claim about every Hebrew occurrence or subject.
-- **The Day of Atonement makes the lifting literal**: the goat *"shall bear on himself all their
-  iniquities"* into the wilderness (Leviticus 16:22), *nāśāʾ* again.
+- **The Day of Atonement makes the lifting literal**: *"The goat shall carry all their iniquities on
+  himself to a solitary land"* (Leviticus 16:22, stored WEB; an earlier recalled wording here was
+  corrected at ingest). The verb is commonly identified as *nāśāʾ* again — **not re-verified in a
+  source-language edition in that pass**.
 - **[[Lamech (son of Methushael)]]'s boast of seventy-sevenfold vengeance** (4:24) **is the sentence
   Jesus inverts at Matthew 18:21–22** when Peter asks how many times to forgive. Filed as
   [[Seventy-Sevenfold - Lamech's Boast and Jesus on Forgiveness]].
@@ -178,7 +180,21 @@ goods.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Cleansed from all sins — Leviticus 16:1–34
+
+The day removes sin — confessed over and carried away by the goat (21–22) — and promises
+*"from all your sins you shall be clean before Yahweh"* (30). **Qualification:** unlike the sin
+offerings of Leviticus 4–5, the stored WEB of chapter 16 does not use the word *forgive*; the
+result is described as atonement and cleansing. Hebrews 10:3–4 reads the yearly repetition
+differently; the tension is recorded in
+[[The High Priest Once a Year - Leviticus 16 and Hebrews 9]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

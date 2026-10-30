@@ -14,9 +14,9 @@ tags: [connection]
   [[The Ark, the Table, and the Lampstand]]
 - **Leviticus 16:2** — *"not to come at all times into the Most Holy Place within the veil, before the
   mercy seat which is on the ark; lest he die: for I will appear in the cloud on the mercy seat"*
-  *(not yet ingested)*
+  — [[The Day of Atonement]]
 - **Leviticus 16:14–15** — the blood of the bull and of the people's goat sprinkled *"on the mercy seat
-  on the east; and before the mercy seat … seven times"* *(not yet ingested)*
+  on the east; and before the mercy seat … seven times"* — [[The Day of Atonement]]
 - **Numbers 7:89** — Moses *"heard his voice speaking to him from above the mercy seat that was on the
   ark of the Testimony, from between the two cherubim"* *(not yet ingested)*
 - **Hebrews 9:5** — *"and above it cherubim of glory overshadowing the mercy seat, of which things we
@@ -83,6 +83,16 @@ and use; it does not by itself resolve the word history or the interpretations o
 already distinguished above. No new Hebrew or Greek wording claim is inferred from it.
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
+
+### The rite performed — Leviticus 16
+
+Now ingested: the mercy seat is where Yahweh appears in the cloud (16:2), where incense smoke
+covers it *"so that he will not die"* (13), and where the bull's and the people's goat's blood
+are sprinkled on it *"on the east"* and seven times before it (14–15). Verse 16 names the
+purpose as atonement for the Holy Place because of Israel's uncleanness and transgressions.
+**This confirms the Leviticus side of the thread from stored text; it does not settle the word
+history or the reading of Romans 3:25 above.** See [[The Day of Atonement]]. Source: stored WEB
+Leviticus 16, 2026-10-29.
 
 ## Significance
 

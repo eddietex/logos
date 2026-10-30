@@ -15,7 +15,7 @@ tags: [connection]
   [[Do Not Consent to Sinners]]
 - **Exodus 28:30** — the Urim and Thummim in *"the breastplate of judgment"* — [[The Priestly Garments]]
 - **Leviticus 16:8** — *"Aaron shall cast lots for the two goats; one lot for Yahweh, and the other lot
-  for the scapegoat."* *(WEB verified at bible-api.com; not yet ingested)*
+  for the scapegoat."* — [[The Day of Atonement]]
 - **Joshua 18:10** — *"Joshua cast lots for them in Shiloh before Yahweh. There Joshua divided the land to
   the children of Israel according to their divisions."* *(WEB verified at bible-api.com; not yet
   ingested)*

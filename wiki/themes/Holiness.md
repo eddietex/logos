@@ -40,6 +40,17 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Guarded entry — Leviticus 16:1–34
+
+The Most Holy Place may not be entered *"at all times"* (2), and the entry permitted is hedged:
+bathing, linen *"holy garments"* (4), incense cloud, blood, solitude (17), and bathing again *"in
+a holy place"* afterward (24). The altar is *"made holy"* from Israel's uncleanness (19). The
+deaths of 1 show what the boundaries guard against; see
+[[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The tabernacle among Israel supplies the rationale for the bodily regulations (31).
@@ -389,6 +400,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

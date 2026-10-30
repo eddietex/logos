@@ -12,12 +12,12 @@ tags: [connection]
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:31–35; the inner veil separates the holy place from the most holy.
-- Leviticus 16:2 — Aaron must not enter within the veil at will, lest he die.
+- [[The Day of Atonement]] — Leviticus 16:2, 12, 15; Aaron must not enter within the veil at all times, lest he die, and enters once a year with incense and blood.
 - Hebrews 9:1–8 — two spaces, different priestly access, and the meaning of the restriction.
 - Hebrews 10:19–22 — access through Jesus' blood and through the veil identified with his flesh.
 - Matthew 27:50–51; Mark 15:37–38; Luke 23:44–46 — the temple veil torn at Jesus' death.
 
-All non-Exodus passages are verified WEB comparisons, not yet ingested.
+The Hebrews and Gospel passages are verified WEB comparisons, not yet ingested; Leviticus 16 is now ingested.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:3, 20–24, 35; veil installed and Moses barred by filling glory.
 

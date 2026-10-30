@@ -62,7 +62,19 @@ of any kind, and promises Deuteronomy's blessing *"in your barns"* (Deuteronomy 
 
 Yeast and honey may be offered as first fruits but not burned for a pleasant aroma (2:11–12); parched first-fruits grain has its own burned memorial (14–16). First fruits are not a single uniform altar preparation. See [[The Meal Offering]].
 
+### The tenth day of the seventh month — Leviticus 16:1–34
+
+Chapter 16 fixes its rite to a calendar date (29) and makes it annual (34). It is a day of
+affliction and rest rather than of feasting or first fruits, and its rite is given here,
+before the festival calendar of chapter 23 restates the date. See
+[[The Day of Atonement Commanded Twice - Leviticus 16 and 23]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

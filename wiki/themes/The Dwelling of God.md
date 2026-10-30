@@ -22,6 +22,16 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Presence in the middle of uncleanness — Leviticus 16:1–34
+
+Yahweh will *"appear in the cloud on the mercy seat"* (2), and the Tent of Meeting *"dwells with
+them in the middle of their uncleanness"* (16). The annual rite is what makes continued
+dwelling possible: it cleanses sanctuary, tent, and altar rather than removing the presence.
+Entry into the inner room remains closed except on this one day.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The tabernacle is among Israel, and defiling it in uncleanness threatens death (31).
@@ -315,6 +325,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

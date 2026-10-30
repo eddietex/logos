@@ -34,6 +34,16 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### The high priest alone — Leviticus 16:1–34
+
+The rite belongs to one man: no one else may be in the tent while he atones (17). He must
+first atone for himself and his house (6, 11), and the office passes to *"the priest, who is
+anointed and who is consecrated to be priest in his father's place"* (32). Hebrews 9:7 reads
+this restriction closely; see [[The High Priest Once a Year - Leviticus 16 and Hebrews 9]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The priest receives two birds at the Tent of Meeting and offers one as a sin offering
@@ -358,6 +368,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

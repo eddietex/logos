@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The Day of Atonement — Leviticus 16:1–34
+
+Yahweh dates the law by the deaths of Nadab and Abihu and warns that Aaron must not enter the
+Most Holy Place at all times, *"for I will appear in the cloud on the mercy seat"* (2). The
+divine presence is the reason both for the danger and for the rite. Israel is made clean
+*"before Yahweh"* (30), and the tent he dwells in stands *"in the middle of their uncleanness"*
+(16) — presence is not withdrawn from an unclean people but guarded and cleansed once a year.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 Yahweh addresses Moses and Aaron together and commands instruction for Israel (1–2).
@@ -2856,6 +2867,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

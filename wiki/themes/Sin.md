@@ -65,6 +65,17 @@ has been argued.
 
 ## Development across Scripture
 
+### Iniquities carried away — Leviticus 16:1–34
+
+Verse 21 gathers the vocabulary into one confession — *"all the iniquities … all their
+transgressions, even all their sins"* — and verse 22 has the goat *"carry all their iniquities
+on himself to a solitary land"*. Sin here is something that can be confessed, placed, and
+removed spatially. Unlike Leviticus 4–5, the confession is made by the high priest for the
+whole people rather than by the offender.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The offerings in 15:15, 30 include what the WEB calls a sin offering, but no personal
@@ -467,6 +478,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

@@ -68,6 +68,15 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Lest he die — Leviticus 16:1–34
+
+The chapter opens with the death of two priests (1) and twice frames the high priest's entry
+as a matter of survival — *"lest he die"* (2), *"so that he will not die"* (13). Life before the
+mercy seat is preserved by the prescribed approach, not assumed.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11:39–40 makes a dead animal of an edible kind a source of uncleanness.
@@ -589,6 +598,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

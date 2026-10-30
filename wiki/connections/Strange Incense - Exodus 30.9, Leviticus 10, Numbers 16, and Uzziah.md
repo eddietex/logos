@@ -74,6 +74,15 @@ See [[Nadab and Abihu and the Strange Fire]]. Source for this addition: stored W
 and Leviticus 10:1–11. Earlier external-source quotations and their provenance below are retained.
 
 
+### Commanded incense within the veil — Leviticus 16:12–13
+
+After the deaths of Leviticus 10, Leviticus 16 dates itself by them (1) and prescribes the
+incense that is allowed: coals *"from off the altar before Yahweh"*, two handfuls of beaten
+incense, brought within the veil so the cloud covers the mercy seat *"so that he will not die"*
+(12–13). The contrast with *"strange fire … which he had not commanded"* (10:1) is drawn by
+juxtaposition; the text does not say the sons' fire came from elsewhere. See
+[[The Day of Atonement]] and [[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]].
+
 ## Significance
 
 - Exodus 30 is the rule; the others are cases. The connection lets the reader of Exodus see what

@@ -21,6 +21,8 @@ tags: [connection]
   *"the meat of the bull, and its skin, and its dung, you shall burn with fire outside of the camp:
   it is a sin offering"* — [[The Ordination of the Priests]].
 - **Leviticus 8:14–17** — the same disposal performed *(stored WEB; now ingested)*.
+- **Leviticus 16:27** — the bull and goat *"whose blood was brought in to make atonement in the Holy
+  Place, shall be carried outside the camp"* and burned — [[The Day of Atonement]].
 - **Hebrews 13:10–13** — the bodies of animals whose blood is brought into the holy place are burned
   *"outside of the camp"*, and Jesus *"suffered outside of the gate"* *(verified WEB; not yet
   ingested)*.
@@ -113,6 +115,14 @@ and introduces no further claim or quotation from Hebrews.
 
 Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
 and Exodus 40:34–38, checked 2026-10-29.
+
+### The Day of Atonement — Leviticus 16:27
+
+Leviticus 16:27 supplies the case Hebrews 13:11 describes most closely: animals whose blood is
+brought into the Holy Place, their carcasses burned outside the camp, and the man who burns
+them washing before returning (28). The ordinary bull offerings of Leviticus 4 also go outside
+the camp, but their blood stops before the veil (4:6, 17). Which Levitical case Hebrews has
+chiefly in view is not stated in Hebrews 13 itself. See [[The Day of Atonement]].
 
 ## Significance
 

@@ -73,7 +73,7 @@ first used on. See [[Deception]].
   records the fact and neither draws nor forbids the inference. See [[Retribution]].
 - **The goat is also the family's ordinary currency**, which is part of why the motif works. It is
   the animal a household kills for a guest, the animal Judah owes a prostitute, and the animal the
-  law will later fix as the sin offering (Leviticus 4:23–28) and as the scapegoat (Leviticus 16). **A
+  law will later fix as the sin offering (Leviticus 4:23–28) and as the scapegoat (Leviticus 16, [[The Day of Atonement]]). **A
   kid is not a symbol in Genesis; it is what is to hand**, and the deceptions are built out of
   domestic materials.
 

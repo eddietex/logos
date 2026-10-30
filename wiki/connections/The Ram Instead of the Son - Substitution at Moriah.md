@@ -17,7 +17,7 @@ tags: [connection]
 - **Exodus 13:13; 34:20** — *"Every firstborn of a donkey you shall redeem with a lamb… All the
   firstborn of your sons you shall redeem"*
 - **Leviticus 1:1–17** — the *ʿōlâ*, the whole burnt offering, and the hand laid on its head
-- **Leviticus 16:8–22** — two goats, one killed and one sent away
+- **Leviticus 16:8–22** — two goats, one killed and one sent away — [[The Day of Atonement]]
 - **Numbers 3:11–13, 40–51** — the Levites taken *"instead of"* every firstborn of Israel
 - **Isaiah 53:4–6** — *"Yahweh has laid on him the iniquity of us all"*
 - **Exodus 12:3–5** — the next *śeh* in the Torah after Genesis 22 and 30:32: the Passover animal,

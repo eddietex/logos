@@ -112,6 +112,11 @@ Leviticus 15 completes the bodily purity instructions with discharges, emission,
 menstruation. Different durations and remedies serve the protection of the tabernacle
 among Israel (31). See [[Bodily Discharges and Cleansing]].
 
+Leviticus 16 resumes the narrative of chapter 10: after the deaths of Nadab and Abihu, Aaron
+may enter within the veil only once a year, with incense and blood. Two goats divide the
+rite, sanctuary and people are cleansed, and the day becomes a perpetual Sabbath of rest.
+See [[The Day of Atonement]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -151,7 +156,7 @@ merge, or reorder them freely.
 - [x] [[The Cleansing of the Leper]] — Leviticus 14:1–32
 - [x] [[Mildew in a House]] — Leviticus 14:33–57
 - [x] [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33
-- [ ] The Day of Atonement — Leviticus 16:1–34
+- [x] [[The Day of Atonement]] — Leviticus 16:1–34
 - [ ] The Place of Sacrifice and the Life in the Blood — Leviticus 17:1–16
 - [ ] Forbidden Unions and the Defiled Land — Leviticus 18:1–30
 - [ ] Be Holy and Love Your Neighbor — Leviticus 19:1–18
@@ -190,6 +195,10 @@ merge, or reorder them freely.
 
 - [[Mediation and Advocacy]]
 - [[Judgment]]
+- [[Sabbath]]
+- [[Festivals and First Fruits]]
+- [[Life and Death]]
+- [[Forgiveness]]
 
 ## Key people
 

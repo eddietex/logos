@@ -323,7 +323,20 @@ Moses describes the sin offering as given to the priests "to bear the iniquity o
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### One man for all the assembly — Leviticus 16:1–34
+
+Aaron atones *"for himself and for his household, and for all the assembly of Israel"* (17) and
+confesses the people's sins over the live goat (21). The people do not enter; they afflict
+their souls and rest (29). Mediation here is institutional and annual rather than an
+intercessor's improvised plea; see
+[[The High Priest Once a Year - Leviticus 16 and Hebrews 9]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Priests bear the congregation's iniquity; Aaron answers for his sons.
 

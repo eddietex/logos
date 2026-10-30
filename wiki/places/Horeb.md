@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The Day of Atonement — Leviticus 16:1–34
+
+The Sinai setting continues; the chapter does not name the mountain. The rite looks beyond the
+camp at Sinai to a perpetual annual observance (29, 34), and sends the live goat away from the
+camp into an unnamed wilderness (21–22).
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The continuing Sinai setting is contextual (Leviticus 7:38); the mountain is not named
@@ -398,6 +407,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

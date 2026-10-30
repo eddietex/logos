@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### The Day of Atonement — Leviticus 16:1–34
+
+Aaron alone enters within the veil, after the deaths of two of his sons (1). He bathes, wears
+the linen garments, offers a bull for himself and his house before the people's goat (6, 11,
+15), carries commanded incense *"so that he will not die"* (13), and confesses Israel's sins
+over the live goat with both hands on its head (21). The provision for *"the priest, who is
+anointed … in his father's place"* (32) makes the office outlast him. The chapter prescribes;
+the closing formula (34) reports compliance without a narrated performance.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 Aaron receives the speech alongside Moses (1). An unnamed priest offers the paired
@@ -502,6 +514,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

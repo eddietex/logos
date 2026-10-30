@@ -101,6 +101,8 @@ Israel has committed a particular offense.
 
 ## Cross-references
 
+- [[The Day of Atonement]] — Leviticus 16; once a year the bull's blood goes within the veil rather than before it, and the carcasses again leave the camp.
+
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
   The following cases use goats or a lamb, with blood at the outer altar and forgiveness explicitly promised.
 

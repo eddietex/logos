@@ -56,6 +56,17 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### The sanctuary cleansed — Leviticus 16:1–34
+
+After chapters 11–15, chapter 16 cleanses the sanctuary itself *"because of the uncleanness of
+the children of Israel"* (16, 19): the Tent of Meeting *"dwells with them in the middle of their
+uncleanness"* (16). The people too are cleansed: *"from all your sins you shall be clean"* (30),
+joining the purity vocabulary to sin. Those who handle the goat and the carcasses wash before
+re-entering the camp (26, 28).
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 Discharge, seminal emission, menstruation, and prolonged bleeding have distinct durations
@@ -334,6 +345,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

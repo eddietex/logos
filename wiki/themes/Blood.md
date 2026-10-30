@@ -37,6 +37,17 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Blood within the veil — Leviticus 16:1–34
+
+The bull's and the people's goat's blood is sprinkled on and before the mercy seat, seven
+times before it (14–15), then put on the altar's horns and sprinkled seven times to *"cleanse
+it, and make it holy"* (18–19). Once a year blood goes where the ordinary sin offering of
+Leviticus 4 only reached the front of the veil (4:6, 17). The live goat, notably, sheds no
+blood.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 Menstrual and prolonged blood flow confer uncleanness (19–30). This differs from
@@ -304,6 +315,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

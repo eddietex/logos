@@ -47,6 +47,17 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Two goats and two burnt offerings — Leviticus 16:1–34
+
+Aaron's bull and the people's two goats are sin offerings, with a ram each for burnt offerings
+(3, 5, 24). One goat is killed; the other is presented alive and sent away (9–10, 20–22),
+though verse 5 counts the pair as one sin offering. The carcasses whose blood entered the
+Holy Place are burned outside the camp, as in Leviticus 4:11–12, 21 (27). The text does not
+explain why the goats' roles are divided.
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ### Bodily discharges — Leviticus 15:1–33
 
 The male discharge and prolonged female discharge conclude with the same paired
@@ -458,6 +469,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
 

@@ -20022,3 +20022,35 @@ WEB Exodus 30 and Leviticus 12 and 15; no outside-book quotations or source-lang
 claims were introduced. Raw texts and workflow instructions remain unchanged.
 Link checks passed with 59 expected not-yet-started book targets and no findings.
 No unresolved issue. Executed by Codex in auto mode; exactly one pericope.
+
+## [2026-10-29] ingest | Leviticus 16.1-34 — The Day of Atonement
+
+Ingested [[The Day of Atonement]] from the stored WEB; retained the planned chapter boundary.
+Created the passage and three connections:
+[[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]],
+[[The Day of Atonement Commanded Twice - Leviticus 16 and 23]], and
+[[The High Priest Once a Year - Leviticus 16 and Hebrews 9]]. Revised the Leviticus overview,
+queue (24 / 44), and key themes; five people (God, Moses, Aaron, Nadab, Abihu), Horeb, and
+fourteen themes; six existing connections (Mercy Seat, Veil, Outside the Camp, the Lot, the
+Ram Instead of the Son, A Garment and a Goat) plus Strange Incense; and three passages with
+reciprocal references. Updated the books index, two connection subindexes, and the dashboard.
+Totals: 251 passages, 195 people, 104 places, 85 themes, 566 connections. This pass created
+4 pages and revised 36 existing pages including this log.
+
+Judgment calls: the unnamed man in readiness, the carcass burner, and the successor priest
+receive no pages; the WEB's *"scapegoat"* gets no page, and the underlying Hebrew (commonly
+transliterated Azazel) is flagged on the passage page as disputed and not verified against a
+source-language edition. Recorded two open questions rather than resolving them: which altar
+16:18 means (incense altar per Exodus 30:10 and the phrasing of Leviticus 4:18, or the bronze
+altar), and the tension between Leviticus 16:30 (*"from all your sins you shall be clean"*) and
+Hebrews 10:4, written out with both sources on the Hebrews connection page.
+
+Correction: [[Forgiveness]] quoted Leviticus 16:22 as *"shall bear on himself all their
+iniquities"*, a wording not in the stored WEB; replaced with the stored text, and its *nāśāʾ*
+claim is now qualified as not re-verified in a source-language edition.
+
+All Leviticus, Exodus 28 and 30 quotations were copied from `raw/bible/`. Leviticus 23:26–32 is
+quoted from stored WEB though not yet ingested. Hebrews 9:7, 11–12, 24–26 and 10:3–4 were
+verified individually at bible-api.com (WEB) on 2026-10-29; no books were bulk-fetched. Raw
+texts and workflow instructions remain unchanged. Executed by Claude in auto mode; exactly
+one pericope.

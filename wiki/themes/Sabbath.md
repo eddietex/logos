@@ -122,7 +122,18 @@ See [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]].
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### A Sabbath of solemn rest — Leviticus 16:1–34
+
+The Day of Atonement is called *"a Sabbath of solemn rest"* (31) on the tenth day of the
+seventh month — an annual date, not the seventh day of the week. No work is done, by native-born or resident
+foreigner (29). See [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]].
+
+See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
+
+
 ## Key passages
+
+- [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[The Freewill Offering]] — Exodus 35:1–29; Rest precedes the public sanctuary commission; kindling fire is forbidden.
 

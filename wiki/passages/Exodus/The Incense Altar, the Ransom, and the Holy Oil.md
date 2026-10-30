@@ -211,6 +211,8 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
 
 ## Cross-references
 
+- [[The Day of Atonement]] — Leviticus 16:12–19; incense within the veil and blood on the altar's horns; whether 16:18 means this altar is left open there.
+
 - [[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]] — compare [[Bodily Discharges and Cleansing]]; distinct washing, waiting, and offering requirements.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.
