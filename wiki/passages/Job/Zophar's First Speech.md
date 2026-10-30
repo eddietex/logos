@@ -140,10 +140,11 @@ Then the promise, and every clause of it answers something Job has said.
   twice, the second time three verses later for the wicked, and so is the friend who sets the two
   hopes side by side.
 - ***"Also you shall lie down, and no one shall make you afraid"*** (11:19). *Wərābaṣtā wəʾên
-  maḥărîd* — **the covenant blessing of Leviticus 26:6** (*"you will lie down, and no one will make you
+  maḥărîd* — **the covenant blessing of Leviticus 26:6** (*"you shall lie down, and no one will make you
   afraid"*), repeated by the prophets as the picture of the restored people (Micah 4:4; Zephaniah
-  3:13; Ezekiel 34:28). *Rābaṣ* is the verb of flocks lying down. Zophar is quoting Israel's
-  covenant to a man outside it. See
+  3:13; Ezekiel 34:28). *Rābaṣ* is the verb of flocks lying down; Leviticus 26:6 itself has *šākab*
+  (MAM), so the shared words are the closing clause. Zophar echoes Israel's covenant to a man
+  outside it. See
   [[None Shall Make You Afraid - The Covenant Blessing of Security]].
 - ***"Yes, many shall court your favor."*** *Wəḥillû pānêkā rabbîm* — *many will stroke your face*,
   the idiom of a petitioner approaching a ruler with a gift (Psalm 45:12; Proverbs 19:6) and of

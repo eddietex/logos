@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+One condition carries the whole list: *If you walk in my statutes, and keep my commandments, and do
+them* (3). Obedience is presented as a path walked, with the people's first-person God as its goal.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 Custody precedes the divine ruling (12); Moses then delivers it and Israel performs it
@@ -790,6 +797,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

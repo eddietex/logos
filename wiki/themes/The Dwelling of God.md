@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+*I will set my tent among you* (11, *miškānî*) is promised when the tent already stands, so the
+promise concerns residence continuing rather than a first arrival. It is the last gift in the list,
+before the identification in verse 13.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Priestly holiness — Leviticus 21
 
 The high priest must not leave or profane the sanctuary in the context of the death and mourning
@@ -123,8 +131,9 @@ hiphil of *šākan*; MAM) to guard Eden (Genesis 3:24). See [[Cherubim]].
 
 **Ahead** (by reference, *not yet ingested*; quoted from the WEB as fetched individually):
 
-- Leviticus 26:11–12 — *"I will set my tent among you … I will walk among you, and will be your God,
-  and you will be my people"*; the Hebrew of 26:11 has *miškānî*, *my dwelling* (MAM).
+- Leviticus 26:11–12 — now ingested at [[Blessings for Obedience]]: *"I will set my tent among you …
+  I will walk among you, and will be your God, and you will be my people"*; the Hebrew of 26:11 has
+  *miškānî*, *my dwelling* (MAM).
 - 1 Kings 8:10–11, 27 — the cloud fills Solomon's temple, and Solomon asks, *"will God in very deed
   dwell on the earth? Behold, heaven and the heaven of heavens can't contain you"*.
 - John 1:14 — *"The Word became flesh, and lived among us"*. The Greek verb is ***eskēnōsen***
@@ -369,6 +378,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

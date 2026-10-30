@@ -29,6 +29,13 @@ foreign state.**
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+The positive pole of the subject: rain in season, threshing that reaches vintage, bread to the full
+(4–5), and old stores cleared for new (10). The next unit reverses each (26:19–20, 26).
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The question of food during the fallow year is answered by sixth-year abundance and stored crops (20–22). This anticipates a planned interruption of production; it does not narrate a famine or prescribe Joseph’s centralization of land.
@@ -164,6 +171,8 @@ wisdom itself.
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

@@ -29,6 +29,14 @@ costly.
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Leviticus's fullest statement of blessing never uses *bārak*. The goods themselves stand in for the
+word: rain, harvest, bread, peace, increase, covenant, and presence. Here blessing has a stated
+condition (3), unlike the unconditioned word of Genesis 1. Compare Exodus 23:25–26.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Yahweh promises to command a sixth-year blessing sufficient for three years (21–22). This is a specific promise enabling land rest, not an unrestricted rule that every obedient person will always be wealthy.
@@ -329,6 +337,8 @@ emerging from the tent (9:22–23). Neither blessing's words are supplied. See
 [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

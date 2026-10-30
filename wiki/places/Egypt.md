@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+The chapter's promises end with Egypt: Yahweh brought Israel out so that they would not be
+Egypt's slaves, and broke the bars of their yoke (13).
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 Three times Yahweh names Egypt as what he brought Israel out of (38, 42, 55). The law's word for
@@ -167,6 +174,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

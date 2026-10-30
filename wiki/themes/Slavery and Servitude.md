@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+The list ends with slavery ended: *that you should not be their slaves* and *the bars of your yoke*
+(13). The promise follows directly on the law of chapter 25 on who may be enslaved. See
+[[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]].
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### The slave at the priest’s table — Leviticus 22:10–11
 
 A slave "purchased by his money" and those "born in his house" eat the priest's holy food, while a
@@ -300,6 +308,8 @@ See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

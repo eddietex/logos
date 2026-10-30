@@ -111,6 +111,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Blessings for Obedience]] — 26:5, 10 repeat *safely* (25:18–19) and *old store* (25:22) as covenant blessing.
 - [[Redemption of Land and Houses]] — 25:23–34 specifies which houses return and which may remain sold.
 - [[The Poor Brother and Redemption from Service]] — 25:35–55 applies Jubilee to sold brothers and excludes foreign slaves.
 

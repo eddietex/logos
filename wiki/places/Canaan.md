@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Unnamed here, the land is *your land* (1, 5, 6): rain, yield, safety, and peace are all promised
+inside it. Idols are excluded from it (1). The name was last given at 25:38.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 Canaan is named at 25:38, the chapter's only naming of it, as the purpose of the exodus: *to give
@@ -174,6 +181,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

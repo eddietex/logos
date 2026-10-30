@@ -80,6 +80,7 @@ vengeance and grudges are forbidden, and love of the neighbor as oneself is comm
 
 ## Cross-references
 
+- [[Blessings for Obedience]] — 26:1 and 19:4 share *ʾĕlîlîm*; Israel may not *turn* to idols, and Yahweh will *turn* to Israel (26:9).
 - [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]]
 - [[Love Your Neighbor - Leviticus 19 and Matthew 22]]
 - [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]]

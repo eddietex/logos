@@ -74,6 +74,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 · [[Behemoth and Leviathan]] (Job 40:6–41:34) · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
+| [[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]] | motif | Leviticus 26:7–8, 17, 36–37 · Deuteronomy 32:30 · Joshua 23:10 · [[Blessings for Obedience]] |
 | [[The Flood and Baptism]] | typology | Genesis 6:9–7:24 · Genesis 8:6–12 · Exodus 2:3, 5 · 1 Corinthians 10:1–2 · Romans 6:3–4 · 1 Peter 3:18–22 |
 | [[The Flood as Un-Creation]] | parallel | Genesis 1:1–2:3 · Genesis 6:9–7:24 · Genesis 8:1–5 · Genesis 9:1–7 · Psalm 104:5–9 · Jeremiah 4:23–26 · 2 Peter 3:5–7 · Exodus 7:19–21 · Exodus 8:3, 24 · Exodus 14:21–22 |
 | [[Flour for a Sin Offering - Leviticus 2 and 5]] | thematic-parallel | [[The Meal Offering]] (Leviticus 2); [[Confession and Offerings According to Means]] (5:11–13): shared memorial and remainder, distinct oil and frankincense rules. |

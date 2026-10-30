@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Yahweh attaches a long first-person promise to one condition (3): rain, safety, victory, increase, and
+his own presence (11–12). He identifies himself as the God who broke Israel's yoke (13). The word
+*I will not abhor you* (11) anticipates the alternative stated in 26:14–46.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 Yahweh forbids profit from a poor brother and identifies himself by the exodus and the gift of
@@ -3004,6 +3012,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

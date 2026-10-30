@@ -50,6 +50,13 @@ with God goes with not being destroyed.
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+The root *hālak* appears three ways: Israel walks in statutes (3), Yahweh walks about among them
+(12), and he made them walk upright (13). The next unit uses it for walking *contrary* (26:21–28).
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 - **Genesis 5:22, 5:24** — [[Enoch (son of Jared)]] walks with God for three hundred years and is
   taken. The phrase's first appearance, with no antecedent and no explanation.
 - **Genesis 6:9** — *"Noah was a righteous man, blameless among the people of his time. Noah walked
@@ -73,7 +80,7 @@ with God goes with not being destroyed.
   for expecting the errand to succeed. See [[A Wife for Isaac]]. And **48:15**, Jacob on the God
   *"before whom my fathers Abraham and Isaac walked"* *(not yet ingested)*.
 - **Leviticus 26:12** — *"I will walk among you, and will be your God"*: the direction reversed,
-  and made covenantal.
+  and made covenantal. See [[Blessings for Obedience]].
 - **Micah 6:8** — *"to walk humbly with your God"*, using the *ʾet* of Genesis 5, and the closest
   the prophets come to defining the phrase as a requirement rather than a description.
 - **Malachi 2:6** — of Levi, *"he walked with me in peace and uprightness"*.
@@ -216,6 +223,8 @@ and gluttons, the prostitute.
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Plans of the Heart]] — Proverbs 16:7, 9, 17, 25, 29.
 

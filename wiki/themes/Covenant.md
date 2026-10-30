@@ -66,6 +66,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+*I will establish my covenant with you* (9) uses the clause of Genesis 6:18 and 17:7 (MAM), and the
+formula comes in full at 12: *will be your God, and you will be my people*. The sanctions are
+now explicit: this unit gives the positive side, and 26:14–46 the negative.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 *To be your God* (38) gives the exodus its stated aim beside the gift of land. Israelites being
@@ -333,6 +341,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

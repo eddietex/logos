@@ -27,6 +27,13 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Verse 2 repeats 19:30 word for word in the Hebrew (MAM). Placed before the promises, *my Sabbaths* will
+return as the land's Sabbaths in the warnings (26:34–35, 43).
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The six-and-seven pattern governs years of cultivation; seven such cycles lead to a holy fiftieth year (1–12). Land rest permits eating its produce (6–7), so it cannot be summarized as a prohibition of all access to food.
@@ -199,6 +206,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

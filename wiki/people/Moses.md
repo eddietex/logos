@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+The promises continue the Sinai address given through Moses (25:1; 26:46). He is not named within
+26:1–13 and has no speaking part.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 Moses continues to receive the Sinai address introduced at 25:1. The speech moves from land to
@@ -1023,6 +1030,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

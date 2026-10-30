@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Idols, carved image, pillar, and figured stone head the chapter (1), with *ʾĕlîlîm* as at 19:4 (MAM).
+Figured stone (*ʾeben maśkît*) is listed for the land itself: the concern is what may stand in it.
+See [[The Pillar Jacob Raised and the Pillars the Law Forbids]].
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Penalties and separation — Leviticus 20
 
 Giving offspring to Molech defiles the sanctuary and profanes the holy name (2–5). Concealment by
@@ -221,6 +229,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

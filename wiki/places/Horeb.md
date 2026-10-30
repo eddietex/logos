@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+These promises are part of the Sinai address by the frame at 25:1 and 26:46.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 The speech introduced on Mount Sinai at 25:1 reaches its end. No transaction at the mountain or
@@ -541,6 +547,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

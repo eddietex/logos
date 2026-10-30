@@ -20,8 +20,9 @@ tags: [connection]
 - **Exodus 25:8** — *"Let them make me a sanctuary, that I may dwell among them."* The dwelling
   announced, without the formula, four chapters before 29:45 joins them —
   [[The Offering for the Sanctuary]]
-- **Leviticus 26:12** — the formula with God walking among the people, in the blessings of the
-  covenant *(not yet ingested; paraphrased)*
+- [[Blessings for Obedience]] — Leviticus 26:12; *"I will walk among you, and will be your God, and
+  you will be my people"*. *Wəhāyîtî lākem lēʾlōhîm* matches Exodus 6:7 (MAM), and 26:13 likewise
+  follows with the bringing out of Egypt.
 - **Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33** — the formula as the content of the old covenant's
   demand and of the new covenant's promise *(not yet ingested; paraphrased)*
 - **Ezekiel 11:20; 36:28; 37:27** — the formula after the gift of a new heart and spirit, and over

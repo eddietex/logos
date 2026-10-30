@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+*Dwell in your land safely* (5) comes one chapter after *you are strangers and live as foreigners
+with me* (25:23), and the two are not reconciled by the text. Security here is conditional tenancy.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The foreigner and native-born face the same blasphemy sanction and legal standard
@@ -287,6 +294,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

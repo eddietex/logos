@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Outcomes follow conduct, but the *you* throughout is plural and the goods are collective (3–13). The
+unit is a covenant promise to a people, which Job's friends apply to one man. It states a
+sanction and does not address the case of an innocent sufferer.
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The corresponding-injury rule assigns a judicial consequence to a specified offense
@@ -603,6 +611,8 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

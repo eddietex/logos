@@ -89,6 +89,7 @@ The unit closes by requiring observance of all his statutes and ordinances (35�
 
 ## Cross-references
 
+- [[Blessings for Obedience]] — 26:2 repeats 19:30 word for word in the Hebrew.
 - [[Prohibitions and Penalties - Leviticus 18 and 20]] — [[Penalties and a People Set Apart]] develops penalties and separation in Leviticus 20.
 
 - [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]]

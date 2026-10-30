@@ -20551,3 +20551,27 @@ Miqra according to the Masorah (Sefaria); the Torah-only claim for *bəpārek* o
 connection remains inherited. New WEB quotations from 2 Kings 4:1, Nehemiah 5, and 1 Corinthians 7
 verified at bible-api.com; the Greek of 1 Corinthians 7 was not checked. Counts: 268 passages, 198
 people, 104 places, 85 themes, 577 connections. Next: Blessings for Obedience, Leviticus 26:1–13.
+
+## [2026-10-30] ingest | Leviticus 26.1-13 — Blessings for Obedience
+
+Created [[Blessings for Obedience]]: idols and Sabbaths as heads, one condition (26:3), and the promises of rain, peace,
+victory, increase, and Yahweh's presence, closed by the broken yoke. Created
+[[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] and [[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]]. Revised the Leviticus book page; [[God]], [[Moses]]; [[Egypt]], [[Canaan]],
+[[Horeb]]; thirteen themes; five connections; six other passages; the books, people, places,
+themes, and connections indexes; and `wiki/index.md`.
+
+Corrections, stated on the pages: [[None Shall Make You Afraid - The Covenant Blessing of Security]]
+and [[Zophar's First Speech]] misquoted 26:6 as *you will lie down*, and the former called *rābaṣ* the
+covenant's verb; Leviticus 26:6 has *šākab*, and only the clause *wəʾên maḥărîd* is shared with Job
+11:19, so *quoting* is softened to *echoes*. [[The Pillar Jacob Raised and the Pillars the Law Forbids]]
+gave a non-WEB wording of 26:1, and [[Circumcision, the Sign of the Covenant]] an altered 26:12.
+
+Judgment calls: boundary kept as planned, though 26:1–2 could equally close chapter 25; MAM's
+paragraph break after verse 2 is noted on the page. The connection to Ezekiel 34 reports shared
+wording without claiming direction of dependence. Tension flagged, not resolved: collective
+promises beside the innocent sufferer of Job and the prospering wicked of Ecclesiastes 8:14.
+
+Hebrew of the passage and comparison verses checked against Miqra according to the Masorah (Sefaria);
+later WEB quotations verified at bible-api.com. The Greek of 2 Corinthians 6:16 was not checked and
+the page says so. Counts: 269 passages, 198 people, 104 places, 85 themes, 579 connections. Next:
+Covenant Warnings and Remembered Promises, Leviticus 26:14–46.

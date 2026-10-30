@@ -38,6 +38,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Balm, Spices, and Myrrh - The Caravan's Cargo and Jacob's Present]] | literary parallel | Genesis 37:25, 28 · Genesis 43:11 · Jeremiah 8:22; 46:11; 51:8 · Ezekiel 27:17 |
 | [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]] | typology | Exodus 13:21–22 · Exodus 14:19–22, 29, 31 · 1 Corinthians 10:1–6 · Hebrews 11:29 |
 | [[The Barren Matriarchs]] | parallel | Genesis 11:30 · Genesis 25:21 · Genesis 29:31 · Genesis 30:22 · 1 Samuel 1:2–20 · Isaiah 54:1 |
+| [[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] | verbal-parallel | Leviticus 26:4–6, 13 · Ezekiel 34:25–28 · [[Blessings for Obedience]] |
 | [[The Basin Made and Used - Exodus 30, 38, and 40]] | command-and-performance | Exodus 30:17–21 · Exodus 38:8 · Exodus 40:7, 30–32 · [[The Altar, the Basin, the Court, and the Inventory]] · [[The Tabernacle Raised and the Glory]] (Exodus 40:1–38) |
 | [[The Bear, Orion, and the Pleiades]] | image | Job 9:9 · Job 38:31–33 · Amos 5:8 · Isaiah 13:10 · Genesis 1:16 · Psalm 147:4 · Isaiah 40:26 |
 | [[Because Abraham Obeyed My Voice - Law Before Sinai]] | thread | Genesis 15:6, 17 · Genesis 17:1 · Genesis 18:19 · Genesis 22:16–18 · Genesis 26:5 · Exodus 15:26 · Exodus 16:28 · Exodus 19:4–8 · Exodus 20:1–21 · Deuteronomy 11:1 · Romans 4:1–16 · Galatians 3:15–18 |

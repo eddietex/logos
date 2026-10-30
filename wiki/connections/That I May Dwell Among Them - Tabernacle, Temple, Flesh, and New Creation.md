@@ -25,7 +25,7 @@ tags: [connection]
 - **Exodus 40:34–35** — *"the cloud covered the Tent of Meeting, and Yahweh's glory filled the
   tabernacle"* — [[The Tabernacle Raised and the Glory]]
 - **Leviticus 26:11–12** — *"I will set my tent among you, and my soul won't abhor you. I will walk
-  among you, and will be your God, and you will be my people."* *(not yet ingested)*
+  among you, and will be your God, and you will be my people."* — [[Blessings for Obedience]]
 - **1 Kings 8:10–11, 27** — *"the cloud filled Yahweh's house"*; *"will God in very deed dwell on the
   earth? Behold, heaven and the heaven of heavens can't contain you; how much less this house that I
   have built!"* *(not yet ingested)*
@@ -164,6 +164,13 @@ later canonical developments with their own documented sources.
 
 See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
 2026-10-25.
+
+### Leviticus 26 in context
+
+The tent of 26:11 already stands, so *I will set my tent among you* cannot mean a first arrival. The
+promise of residence depends on the condition of 26:3 and follows every material blessing in the list.
+The next unit states what happens when that condition fails. See [[Blessings for Obedience]].
+Source: stored WEB Leviticus 26, 2026-10-30.
 
 ## Significance
 

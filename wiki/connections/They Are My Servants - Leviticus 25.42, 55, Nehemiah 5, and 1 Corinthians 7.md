@@ -51,6 +51,11 @@ and the parallel is structural; the Greek was not checked here. Unlike Leviticus
 scope in that passage is not limited to an ethnic people, though neither text abolishes slavery as
 an institution.
 
+**The next verses keep the claim.** [[Blessings for Obedience]] ends at 26:13 on the same exodus, now
+stated from the other side: *that you should not be their slaves*. The promises of land and presence
+are closed by the release that 25:42, 55 had made the ground of the law. Source: stored WEB Leviticus
+25–26, 2026-10-30.
+
 ## Significance
 
 The thread gives a theological reason for release that is not sentiment: **a person cannot be sold

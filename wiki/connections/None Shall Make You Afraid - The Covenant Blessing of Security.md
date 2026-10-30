@@ -10,8 +10,8 @@ tags: [connection]
 - [[Do Not Withhold Good]] — Proverbs 3:21–26; retained wisdom, secure walking, sweet sleep,
   and Yahweh as confidence.
 
-- **Leviticus 26:6** — *"I will give peace in the land, and you will lie down, and no one will make
-  you afraid"* — *wəʾên maḥărîd*, the blessing of the covenant
+- [[Blessings for Obedience]] — Leviticus 26:6; *"I will give peace in the land, and you shall lie
+  down, and no one will make you afraid"* — *wəʾên maḥărîd*, the blessing of the covenant
 - **Job 11:19** — Zophar: *"Also you shall lie down, and no one shall make you afraid"* —
   [[Zophar's First Speech]]
 - **Job 5:22–24** — Eliphaz: *"you shall not be afraid of the animals of the earth… the animals of
@@ -37,10 +37,11 @@ regathered flock of Zephaniah 3:13, the covenant of peace of Ezekiel 34:25–28,
 the wild animals. Its negative is Deuteronomy 28:26, where the formula describes corpses that nobody
 is left to drive the birds from. **Security, in this language, is not wealth; it is sleep.**
 
-**Zophar quotes it to a man outside the covenant.** Job is from [[Uz]], not Israel; none of the
+**Zophar uses it for a man outside the covenant.** Job is from [[Uz]], not Israel; none of the
 friends uses the name *Yahweh*; the book takes pains to set its whole debate in the international
-wisdom world. And yet Zophar's promise at 11:19 is the covenant's own sentence, with the covenant's
-verb for lying down — *rābaṣ*, used of flocks — and its formula for the absence of fear. **Whether
+wisdom world. And yet Zophar's promise at 11:19 ends in the covenant's own clause, *wəʾên maḥărîd*. The verb
+before it differs: Leviticus 26:6 has *šākab* (*ûšəkabtem*), Job 11:19 has *rābaṣ*, the verb used of
+flocks, and Job 11:18 has *šākab* a line earlier (all MAM). **Whether
 the poet meant it as an echo or drew both from a common stock, the effect is that the friends offer
 Job Israel's blessing on Israel's terms**: put away iniquity, and the land will let you sleep.
 Eliphaz had made the same offer at 5:22–24 in its animal form, where the beasts of the field are at
@@ -66,6 +67,14 @@ life of the man introduced as upright (Job 1:1). Proverbs' promise cannot be mad
 exceptionless test of the sleeper's moral character. This addition compares the
 stored WEB wording; it does not claim that Proverbs uses the Hebrew formula discussed
 above. Source: stored WEB Proverbs 3 and Job 1, 7, checked 2026-10-25.
+
+### Leviticus 26 now in context
+
+Verse 6 sits in a list of national goods under the condition of 26:3, and every *you* is plural. Its
+*šākab* is the plain verb for lying down, not the flock verb an earlier form of this page gave it.
+Ezekiel 34:25, 28 repeats the evil animals and the formula together. See
+[[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] and [[Blessings for Obedience]].
+Source: stored WEB Leviticus 26; MAM (Sefaria) Leviticus 26:6, Job 11:18–19, Ezekiel 34:25–28.
 
 ## Significance
 

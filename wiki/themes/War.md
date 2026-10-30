@@ -25,6 +25,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+Peace and the sword stand side by side: no sword through the land (6), enemies falling by the sword
+(7–8). Five chasing a hundred gives no credit to skill. See
+[[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]].
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 - **The one war in Genesis Abram fights is a rescue, and he keeps nothing from it.** No territory,
   no plunder, no captives, no vassals. Set against the imperial reprisal that opens the chapter —
   tribute, rebellion, punitive campaign — the contrast is the chapter's political argument: he beats
@@ -180,6 +188,8 @@ See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparis
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[You Are All Beautiful]] — Song of Solomon 4:4; the neck as a tower hung with the shields of mighty men.
 

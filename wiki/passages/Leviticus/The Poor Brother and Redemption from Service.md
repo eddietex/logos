@@ -127,6 +127,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[The Redeemer and the Avenger of Blood]] — the kin ladder of 48–49.
 - [[They Are My Servants - Leviticus 25.42, 55, Nehemiah 5, and 1 Corinthians 7]] — the claim
   of ownership followed forward.
+- [[Blessings for Obedience]] — 26:13 restates the exodus claim of 25:55 at the end of the promises.
 
 ## Notes
 

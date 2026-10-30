@@ -459,7 +459,7 @@ event, with foreigners in it.
 - Exodus 12:43–49 — circumcision as the condition of eating the Passover, and the door it opens to
   the foreigner.
 - Leviticus 12:3 — the eighth day put into law.
-- Leviticus 26:12 — *"I will be your God, and you will be my people"*: the covenant formula of 17:7
+- Leviticus 26:12 — *"will be your God, and you will be my people"*: the covenant formula of 17:7
   in its classic shape.
 - Deuteronomy 10:16; 30:6 — circumcise the foreskin of your heart, and God circumcising it for you.
 - Joshua 5:2–9 — the whole exodus generation circumcised at Gilgal before the land is entered.

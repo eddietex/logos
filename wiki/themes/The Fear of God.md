@@ -55,6 +55,13 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Blessings for obedience — Leviticus 26:1–13
+
+WEB's *have reverence for my sanctuary* (2) is *tîrāʾû*, the verb *fear* (MAM), and its object here is a
+place. The unit also promises that no one will make Israel afraid (6), a different verb (*ḥārad*).
+
+See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 *Fear your God* (36, 43) stands where no human enforcer is named: over the lender and the Israelite
@@ -372,6 +379,8 @@ theme of awe, but the WEB does not explicitly call their response fear or specif
 shout. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
