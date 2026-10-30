@@ -77,6 +77,13 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+*I will not take delight in the sweet fragrance of your offerings* (31): the Hebrew is *lōʾ ʾārîaḥ*,
+*I will not smell*. The law itself allows for refused sacrifice. See [[A Pleasing Aroma]].
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Frankincense serves as the bread’s memorial fire offering (7), while the bread itself
@@ -573,6 +580,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

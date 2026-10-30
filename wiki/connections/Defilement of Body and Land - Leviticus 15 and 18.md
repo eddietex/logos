@@ -11,6 +11,9 @@ tags: [connection]
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:16–24, 31.
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:19–30.
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:33–35. Leviticus 18:28 has the land vomit Israel out for defilement; chapter 26
+  has Yahweh scatter Israel for breach of covenant, and the land gains rest. The two warnings give
+  different pictures of one expulsion, and neither cites the other.
 
 ## Analysis
 

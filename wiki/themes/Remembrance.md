@@ -63,6 +63,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+*Zākar* four times, promised ahead of time for exile: the covenant with Jacob, Isaac, and Abraham,
+the land (42), and the covenant of the first generation (45). No rescue follows at once, against the
+usual pattern. See [[God Remembered - Noah, Abraham, Rachel, and Israel]].
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Pure frankincense accompanies each row as the bread’s memorial offering (7). This
@@ -374,6 +382,8 @@ The handful of flour and oil, with all its frankincense, is burned as a memorial
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

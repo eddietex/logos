@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Mount Sinai closes the unit: *in Mount Sinai by Moses* (46). The whole catalog of exile is thus framed
+as spoken at the mountain, before Israel has entered the land it would lose.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 These promises are part of the Sinai address by the frame at 25:1 and 26:46.
@@ -547,6 +554,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

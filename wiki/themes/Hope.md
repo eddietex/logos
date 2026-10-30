@@ -35,6 +35,14 @@ is close because you cannot bear to sit in the dark with him.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Hope without a date: after exile and no announced return, *I will not reject them … for I am Yahweh
+their God* (44). Its ground is God's identity and covenant rather than Israel's record. See
+[[If They Confess Their Iniquity - Leviticus 26.40-45, 1 Kings 8, Daniel 9, and Nehemiah 9]].
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 - **Genesis 5:29** — Lamech naming Noah for the comfort he hopes is coming from the cursed ground:
   the wiki's first instance of hope, and one that receives at best a partial answer. See
   [[Comfort from the Cursed Ground - Naming Noah]] and [[From Adam to Noah]].
@@ -154,6 +162,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; hope belongs to the living.
 

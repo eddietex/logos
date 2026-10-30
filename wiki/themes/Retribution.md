@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Repeatedly *for your sins* (18, 24, 28), at the level of the people. The ratio is rhetorical: *seven
+times*. Survivors pine in their iniquity *and in the iniquities of their fathers* (39), which stands
+against Ezekiel 18 and Deuteronomy 24:16 and is left unresolved. The *you* is collective, so the unit
+does not license reading an individual's guilt from disaster.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Outcomes follow conduct, but the *you* throughout is plural and the goods are collective (3–13). The
@@ -611,6 +620,8 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

@@ -64,6 +64,14 @@ the same verses that put the tree of life back in reach (see
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The fullest curse catalog so far, with no use of the word *curse*. Each gift of 26:4–13 returns
+reversed, in five stages, ending in exile. It is conditional and it ends in a refusal to destroy
+(44). Deuteronomy 28 has the longer parallel.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 - **Genesis 3:14, 3:17** — the serpent and the ground; the first two curses in Scripture.
 - **Genesis 4:11** — Cain cursed from the ground: the first human being under the *ʾārûr* formula,
   and the ground's resistance become refusal.
@@ -208,6 +216,8 @@ See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; the king and the rich not to be cursed, even in thought (10:20).
 

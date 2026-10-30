@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The ban of 26:1 comes back as what falls: high places, incense altars, and *the bodies
+of your idols*, with Israel's dead on top of them (30). The idols are described in the same word as
+corpses.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Idols, carved image, pillar, and figured stone head the chapter (1), with *ʾĕlîlîm* as at 19:4 (MAM).
@@ -229,6 +237,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

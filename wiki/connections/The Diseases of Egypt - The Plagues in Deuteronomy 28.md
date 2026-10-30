@@ -20,6 +20,8 @@ tags: [connection]
 - **Deuteronomy 28:60** — *"He will bring on you again all the diseases of Egypt, which you were afraid
   of; and they will cling to you."* (WEB)
 - **Deuteronomy 28:68** — *"Yahweh will bring you into Egypt again with ships"* (WEB)
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:16; *šaḥepet* and *qaddaḥat*, *consumption and fever*, found only there and at
+  Deuteronomy 28:22 (WLC lemma search). The Exodus plagues themselves are not named in Leviticus 26.
 - **Job 2:7** — the same boil on a blameless man —
   [[The Boil of Deuteronomy 28 on a Blameless Man]]
 

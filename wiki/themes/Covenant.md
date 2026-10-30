@@ -66,6 +66,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Israel can *break my covenant* (15, *ləhapərəkem*). Yahweh brings a sword for *the vengeance of the
+covenant* (25), and then says he will not *break my covenant with them* (44), the same verb. He
+remembers it with Jacob, Isaac, and Abraham (42) and with the first generation (45).
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 *I will establish my covenant with you* (9) uses the clause of Genesis 6:18 and 17:7 (MAM), and the
@@ -341,6 +349,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

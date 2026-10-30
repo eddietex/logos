@@ -33,6 +33,13 @@ a mark that can be perfectly kept and entirely missed.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+*Uncircumcised heart* (41) is the first canonical use of the image for the heart; the image earlier
+appears of lips (Exodus 6:12). It is said in exile. See [[Circumcision of the Heart]].
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Purification after childbirth — Leviticus 12:1–8
 
 The son's circumcision takes place on the eighth day (3), repeating the timing of Genesis
@@ -109,6 +116,8 @@ bodies in Abraham's household and descendants; the other governs Israel's recurr
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Purification After Childbirth]] — Leviticus 12:1–8.
 

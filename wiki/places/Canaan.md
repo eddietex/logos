@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The land is unnamed but central. It is desolated, then *enjoys its Sabbaths* in Israel's absence
+(34–35, 43), and Yahweh says *I will remember the land* (42). Beside the covenant, it is the only
+thing the speech says God will remember.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Unnamed here, the land is *your land* (1, 5, 6): rain, yield, safety, and peace are all promised
@@ -181,6 +189,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

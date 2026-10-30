@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Refusal is described as a progression: not listening, not doing, rejecting, abhorring, and breaking
+(14–15). Each stage then asks only whether Israel will listen or be reformed.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 One condition carries the whole list: *If you walk in my statutes, and keep my commandments, and do
@@ -797,6 +804,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

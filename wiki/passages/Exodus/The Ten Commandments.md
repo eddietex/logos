@@ -113,6 +113,7 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:39–40; iniquity of the fathers confessed.
 - [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]] — Leviticus 19:1–18 joins worship, harvest provision, and impartial justice.
 
 - [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 20:1–3 compared with Leviticus 11.

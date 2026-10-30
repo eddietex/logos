@@ -25,7 +25,7 @@ round.** The one chasing a thousand is now Israel's enemy, and the thousand are 
 explanation offered is that *their Rock had sold them*. The odds were never about the numbers on
 the field, in either direction.
 
-**The reversal is already in Leviticus.** The next unit has Israel fleeing with no pursuer at all
+**The reversal is already in Leviticus.** [[Covenant Warnings and Remembered Promises]] has Israel fleeing with no pursuer at all
 (26:17, 36–37). The lesson of 26:8 is finished by that point: without Yahweh, no enemy need even be
 present. See [[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]].
 

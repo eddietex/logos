@@ -21,6 +21,9 @@ tags: [connection]
 - **Exodus 6:5** — *"Moreover I have heard the groaning of the children of Israel, whom the Egyptians
   keep in bondage, and I have remembered my covenant."* 2:24 in God's own voice, said to Moses after
   the failed audience — [[I Am Yahweh]]
+- **Leviticus 26:42, 45** — *"then I will remember my covenant with Jacob; and also my covenant with
+  Isaac, and also my covenant with Abraham; and I will remember the land."* The same act, promised in
+  advance for exile — [[Covenant Warnings and Remembered Promises]]
 - **Psalm 105:42** — *"For he remembered his holy word, and Abraham, his servant."*
 - **Luke 1:72–73** — *"to show mercy towards our fathers, to remember his holy covenant, the oath
   which he swore to Abraham, our father"*
@@ -73,6 +76,13 @@ this is my memorial to all generations"* (Exodus 3:15) — ***zikrî***, *my mem
 **God remembered his covenant at 2:24; at 3:15 he gives the people the means to remember him**, and
 the password for the elders is Joseph's dying promise kept word for word — *pāqōd pāqadtî*, *"I have
 surely visited you"* (3:16; Genesis 50:24–25). See [[The Burning Bush]].
+
+**Leviticus 26 extends the pattern to a disaster that has not happened.** Genesis 9:15 had promised
+remembering in advance; Leviticus 26:42, 45 does the same for exile, with the three names reversed
+and, for the first time, the land as an object: *wəhāʾāreṣ ʾezkōr*, *and the land I will remember*
+(WLC). Unlike the table above, nothing follows at once. No rescue is narrated, and the next clause
+has the land still lying desolate (43). See
+[[If They Confess Their Iniquity - Leviticus 26.40-45, 1 Kings 8, Daniel 9, and Nehemiah 9]].
 
 ## Significance
 

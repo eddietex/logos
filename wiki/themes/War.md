@@ -25,6 +25,13 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+War reverses: Israel is struck before enemies, flees when no one pursues, is besieged, and at last
+falls to a driven leaf (17, 25, 36–37). The sword is *brought* and *drawn* by Yahweh himself (25, 33).
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Peace and the sword stand side by side: no sword through the land (6), enemies falling by the sword
@@ -188,6 +195,8 @@ See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparis
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

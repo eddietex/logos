@@ -8,8 +8,7 @@ tags: [connection]
 ## Passages involved
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:1, 14, 18; flight, boldness, fear, and
   safety.
-- Leviticus 26:36 — flight without a pursuer in the covenant warning; verified WEB, not yet
-  ingested.
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:17, 36–37; flight without a pursuer in the covenant warning.
 - [[Job of Uz]] — Job 1:1; Job’s integrity affirmed by the narrator.
 - [[The Second Test]] — Job 2:3, 7; integrity affirmed amid undeserved ruin and disease.
 - [[Let the Day Perish]] — Job 3:25–26; fear, trouble, and the absence of rest.
@@ -20,8 +19,12 @@ Proverbs 28:1 says: “The wicked flee when no one pursues; but the righteous ar
 Leviticus 26:36 places a related picture inside the warning of judgment among enemies: “The sound of
 a driven leaf will put them to flight”; “They will fall when no one pursues.” The resemblance is
 visible in the verified WEB. Proverbs generalizes the insecurity of wickedness; Leviticus addresses
-a covenant community under judgment. Neither literary dependence nor an exact Hebrew quotation is
-established here.
+a covenant community under judgment. Literary dependence is not established here.
+
+**Hebrew, now checked, and a closer verse than 26:36.** Proverbs 28:1 opens *nāsû wəʾên-rōdēp*
+(WLC). Leviticus 26:17 ends *wənastem wəʾên rōdēp ʾetkem*, and 26:36 has *wənāpəlû wəʾên rōdēp*. So
+26:17 shares the verb *flee* as well as the clause, and is the nearer parallel. The shared words are
+a short idiom, not a quotation of a sentence.
 
 **The fear of Job prevents a diagnostic reversal.** Job 1:1 calls him blameless and upright, and God
 affirms his continuing integrity while describing ruin without cause in 2:3. Yet Job 3:25–26 speaks
@@ -37,8 +40,8 @@ rise, without calling the hiding people wicked. Righteous boldness in verse 1 is
 contrast, not a complete psychological profile of every righteous person.
 
 Sources: Proverbs 28 and Job 1–3 in existing raw WEB. Leviticus 26:36 verified at bible-api.com
-(`translation=web`) on 2026-10-26; only that verse was retrieved and no raw book was added. All
-wording comparisons here concern the WEB, not an independently checked Hebrew edition.
+(`translation=web`) on 2026-10-26, and now stored in raw WEB. The Hebrew paragraph above uses the
+WLC (Open Scriptures morphhb), 2026-10-30; other wording comparisons here concern the WEB.
 
 ## Significance
 

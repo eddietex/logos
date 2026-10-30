@@ -561,7 +561,11 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 
 - Exodus 32 — Remembered as a servant and recipient of the patriarchal promise (32:13). [[The Golden Calf]]
 
+- Leviticus 26 — Named in *my covenant* to be remembered in exile, between Jacob and Abraham (26:42). [[Covenant Warnings and Remembered Promises]]
+
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46; covenant party, not present.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; recalled as a recipient of the land oath (33:1).
 

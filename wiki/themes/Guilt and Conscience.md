@@ -22,6 +22,14 @@ and when a person admits it.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Confession is part of the end of exile: *wəhitwaddû*, they confess their iniquity and their fathers'
+(40), and *accept the punishment of their iniquity* (41, 43). WEB's *if* is not a Hebrew *ʾim*, so
+whether this is condition or prediction is open.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Genesis: the liability arrives before the vocabulary
 
 **The book's early chapters stage guilt without ever naming it.**
@@ -164,6 +172,8 @@ verdict establishes that point.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 

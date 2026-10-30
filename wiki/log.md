@@ -20575,3 +20575,29 @@ Hebrew of the passage and comparison verses checked against Miqra according to t
 later WEB quotations verified at bible-api.com. The Greek of 2 Corinthians 6:16 was not checked and
 the page says so. Counts: 269 passages, 198 people, 104 places, 85 themes, 579 connections. Next:
 Covenant Warnings and Remembered Promises, Leviticus 26:14–46.
+
+## [2026-10-30] ingest | Leviticus 26.14-46 — Covenant Warnings and Remembered Promises
+
+Created [[Covenant Warnings and Remembered Promises]]: five rising stages of warning answering 26:4–13, exile, the land's Sabbaths, and the
+remembered covenant, closed by the Sinai colophon. Created
+[[The Land Will Enjoy Its Sabbaths - Leviticus 26.34-35, 43 and 2 Chronicles 36.21]], [[The Staff of Bread - Leviticus 26.26-29, Deuteronomy 28, and Ezekiel 4-5]], and
+[[If They Confess Their Iniquity - Leviticus 26.40-45, 1 Kings 8, Daniel 9, and Nehemiah 9]]. Revised the Leviticus book page; [[God]], [[Moses]], [[Abraham]], [[Isaac]], [[Jacob]];
+[[Canaan]], [[Egypt]], [[Horeb]]; twenty-one themes; ten connections; five other passages; the books,
+people, places, themes, and connections indexes; and `wiki/index.md`.
+
+Corrections, stated on the pages: [[A Pleasing Aroma]] misquoted 26:31 as *pleasant aroma* against WEB's
+*sweet fragrance*. [[Circumcision of the Heart]] placed 26:41 in the curses; it is at the turn after
+them. [[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]] compared only 26:36, and the
+Hebrew shows 26:17 is the closer parallel to Proverbs 28:1.
+
+Judgment calls: boundary kept as planned, with verse 46 inside the unit though it could stand alone.
+WEB's *if* at 26:40 is not an *ʾim*; the page leaves condition against prediction open. Tensions
+flagged, not resolved: *my soul will abhor you* (30) against *neither will I abhor them* (44); the
+fathers' iniquity (39–40) against Ezekiel 18 and Deuteronomy 24:16; Chronicles crediting Jeremiah with
+wording found in Leviticus; and the Sinai frame against a detailed exile.
+
+Hebrew and lemma counts from WLC (Open Scriptures morphhb), because Sefaria refused the automated
+request this pass; earlier MAM citations were not rechecked. Later WEB quotations verified at
+bible-api.com. Senses of *qerî* and *rāṣâ* are qualified on the page as unchecked lexical judgments.
+Counts: 270 passages, 198 people, 104 places, 85 themes, 582 connections. Next: Vows, Valuations, and
+Devoted Things, Leviticus 27:1–34, which completes the book.

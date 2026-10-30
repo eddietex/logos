@@ -184,6 +184,10 @@ and distinguishes fields, walled-city houses, village houses, and protected Levi
 interest-free support, sale, and redemption. It denies Israelites the status of slave because they
 are Yahweh's servants, and in the same breath permits foreign slaves forever.
 
+[[Covenant Warnings and Remembered Promises]] (26:14–46) answers the blessings in five rising stages, ending in exile and
+a land that collects its Sabbaths. After the worst, Yahweh still remembers the covenant and the land
+and refuses to reject Israel. Verse 46 closes the Sinai laws.
+
 [[Blessings for Obedience]] (26:1–13) heads the book's closing sanctions with idols and Sabbaths, then
 promises rain, peace, victory, increase, and Yahweh's walking among his people, under one condition.
 The speaker closes as the God who broke Israel's yoke.
@@ -246,10 +250,14 @@ merge, or reorder them freely.
 - [x] [[Redemption of Land and Houses]] — Leviticus 25:23–34
 - [x] [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55
 - [x] [[Blessings for Obedience]] — Leviticus 26:1–13
-- [ ] Covenant Warnings and Remembered Promises — Leviticus 26:14–46
+- [x] [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Curse]]
+
+- [[Retribution]]
 
 - [[Light and Darkness]]
 
@@ -338,6 +346,7 @@ merge, or reorder them freely.
 - [[Aaron]]
 - [[Nadab (son of Aaron)]] and [[Abihu]]
 - [[Eleazar (son of Aaron)]] and [[Ithamar]]
+- [[Abraham]], [[Isaac]], and [[Jacob]] — the covenant remembered (26:42)
 
 ## Key places
 

@@ -92,6 +92,13 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Judgment here comes in stages meant to end early: each new stage begins with Israel still not
+listening (18, 21, 23, 27). Its last stage is exile, and the speech keeps going past that.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 Failure to deny oneself brings cutting off from the people (29); Yahweh says he will
@@ -597,6 +604,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

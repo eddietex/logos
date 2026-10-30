@@ -22,7 +22,8 @@ tags: [connection]
   [[The Offering for the Sanctuary]]
 - [[Blessings for Obedience]] — Leviticus 26:12; *"I will walk among you, and will be your God, and
   you will be my people"*. *Wəhāyîtî lākem lēʾlōhîm* matches Exodus 6:7 (MAM), and 26:13 likewise
-  follows with the bringing out of Egypt.
+  follows with the bringing out of Egypt. [[Covenant Warnings and Remembered Promises]], 26:45, keeps God's half alone after exile: brought
+  out *"that I might be their God"*, with no *my people* clause.
 - **Jeremiah 7:23; 11:4; 24:7; 30:22; 31:33** — the formula as the content of the old covenant's
   demand and of the new covenant's promise *(not yet ingested; paraphrased)*
 - **Ezekiel 11:20; 36:28; 37:27** — the formula after the gift of a new heart and spirit, and over

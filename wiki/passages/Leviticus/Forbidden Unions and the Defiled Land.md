@@ -65,6 +65,7 @@ individual offenders face cutting off (24–30).
 
 ## Cross-references
 
+- [[Covenant Warnings and Remembered Promises]] — 26:33–35; expulsion from the land stated as covenant sanction.
 - [[Prohibitions and Penalties - Leviticus 18 and 20]] — [[Penalties and a People Set Apart]] develops penalties and separation in Leviticus 20.
 
 - [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]]

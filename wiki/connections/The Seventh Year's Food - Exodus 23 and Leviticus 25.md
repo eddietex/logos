@@ -11,6 +11,8 @@ tags: [connection]
 - [[The Ten Commandments]] — Exodus 20:8–11, the household's seventh-day rest.
 - [[The Altar and the Hebrew Slave]] — Exodus 21:2, a similar six-and-seven service pattern.
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, food, Jubilee, and provision.
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:34–35, 43; the unkept rest repaid by exile. See
+  [[The Land Will Enjoy Its Sabbaths - Leviticus 26.34-35, 43 and 2 Chronicles 36.21]].
 
 ## Analysis
 

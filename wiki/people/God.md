@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Yahweh answers refusal in five rising stages and names himself as their cause: *I will set my face*,
+*I will walk contrary to you*, *my soul will abhor you* (17, 24, 30). The sanctions end in exile, not
+in the end of the covenant: *I will not reject them, neither will I abhor them, to destroy them
+utterly* (44). The tension between 30 and 44 stands in his own speech.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Yahweh attaches a long first-person promise to one condition (3): rain, safety, victory, increase, and
@@ -3012,6 +3021,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

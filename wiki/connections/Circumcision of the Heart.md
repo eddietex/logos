@@ -10,8 +10,8 @@ tags: [connection]
 - **Genesis 17:10–14** — the rite itself: *"You shall be circumcised in the flesh of your foreskin.
   It will be a token of the covenant between me and you"*, with a sanction for the man who is not
   cut. See [[Circumcision, the Sign of the Covenant]].
-- **Leviticus 26:41** — the metaphor's earliest form, in the covenant curses: *"their uncircumcised
-  heart is humbled"*.
+- **Leviticus 26:41** — the metaphor's earliest form, at the turn after the covenant curses:
+  *"their uncircumcised heart is humbled"* — [[Covenant Warnings and Remembered Promises]].
 - **Deuteronomy 10:16** — *"Circumcise therefore the foreskin of your heart, and be no more
   stiff-necked."* A command.
 - **Deuteronomy 30:6** — *"Yahweh your God will circumcise your heart, and the heart of your

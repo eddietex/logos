@@ -63,6 +63,13 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The nations are both exile and audience: Israel is scattered among them and perishes among them (33,
+38), and the exodus happened *in the sight of the nations* (45).
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 *The nations that are around you* are a permitted source of slaves (44), with the families of
@@ -152,6 +159,8 @@ promise is future, not a report of conquest completed. See [[The Covenant Renewe
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

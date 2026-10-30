@@ -435,6 +435,7 @@ pattern of [[Joseph]] before him, and the New Testament reads it forward. See
 
 ## Cross-references
 
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:42; the three names of 2:24, promised remembrance in exile, in reverse order.
 - Exodus 1:8, 11, 13–14 — *"didn't know Joseph"*; *burdens*; *ʿăbōdâ* — [[The Oppression in Egypt]]
 - Genesis 4:10; 18:20–21 — a cry that reaches God unaddressed
 - Genesis 8:1; 19:29; 30:22 — *"God remembered"* —

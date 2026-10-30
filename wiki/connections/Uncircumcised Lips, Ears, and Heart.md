@@ -21,7 +21,7 @@ tags: [connection]
   — so the man who called his own lips *ʿăral* is the one who delivers the rule** (WLC); the stranger
   who wants to eat must first have *"all his males"* circumcised, in the words of Genesis 17:10. See
   [[One Law for the Native and the Stranger]]
-- **Leviticus 26:41** — an uncircumcised heart humbled, in exile *(not yet ingested; paraphrased)*
+- **Leviticus 26:41** — *"if then their uncircumcised heart is humbled"*, in exile — [[Covenant Warnings and Remembered Promises]]
 - **Deuteronomy 10:16; 30:6** — Israel told to circumcise the foreskin of its heart; then God
   promising to circumcise it himself *(not yet ingested; paraphrased)*
 - **Jeremiah 4:4; 6:10; 9:25–26** — circumcise yourselves to Yahweh; an ear that is uncircumcised and

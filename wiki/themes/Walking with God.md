@@ -50,6 +50,13 @@ with God goes with not being destroyed.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+*Qerî*, *contrary*, found only in this chapter (WLC): Israel walks contrary, Yahweh walks contrary,
+and Israel finally confesses both (21–28, 40–41). This is the reverse of 26:12.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 The root *hālak* appears three ways: Israel walks in statutes (3), Yahweh walks about among them
@@ -223,6 +230,8 @@ and gluttons, the prostitute.
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

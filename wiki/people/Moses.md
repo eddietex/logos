@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The colophon at 26:46 names Moses for the first time since 25:1: the statutes, ordinances, and laws
+were made at Mount Sinai *by Moses*, literally *by the hand of Moses*. He has no speaking part.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 The promises continue the Sinai address given through Moses (25:1; 26:46). He is not named within
@@ -1030,6 +1037,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

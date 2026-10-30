@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The tent of 26:11 is answered by *your sanctuaries* brought to desolation (31) and exile with no
+mention of a dwelling. The presence of God is not said to go with the exiles.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 *I will set my tent among you* (11, *miškānî*) is promised when the tent already stands, so the
@@ -378,6 +385,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

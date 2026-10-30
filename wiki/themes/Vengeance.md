@@ -52,6 +52,13 @@ for revenge becomes its measure for pardon. See
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+*Neqam bərît*, *the vengeance of the covenant* (25), found only here (WLC). God avenges the covenant
+on the people inside it.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Taking vengeance and bearing a grudge against one’s people are prohibited, and love of the
@@ -152,6 +159,8 @@ the couplet after *"Vengeance belongs to me; I will repay, says the Lord"* (Roma
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

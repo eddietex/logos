@@ -27,6 +27,14 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The land's Sabbaths return as a debt. The land *will enjoy its Sabbaths* while desolate (34–35, 43),
+*the rest which it didn't have in your Sabbaths*. 2 Chronicles 36:21 reports this in the same words.
+See [[The Land Will Enjoy Its Sabbaths - Leviticus 26.34-35, 43 and 2 Chronicles 36.21]].
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Verse 2 repeats 19:30 word for word in the Hebrew (MAM). Placed before the promises, *my Sabbaths* will
@@ -206,6 +214,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

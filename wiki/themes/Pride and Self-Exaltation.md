@@ -58,6 +58,13 @@ reading that the text supports, is located in what the building was *for*.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+*I will break the pride of your power* (19, *gəʾôn ʿuzzəkem*) uses the verb of the broken yoke at
+26:13: the same God who freed Israel breaks what it then relied on.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 - **Genesis 3:5–6** — *"you will be like God, knowing good and evil"*: the first offer of exaltation,
   accepted. See [[The Fall]].
 - **Genesis 6:4** — *ʾanšê haššēm*, **men of the name**, the pre-flood *gibbōrîm*, immediately before
@@ -266,6 +273,8 @@ patience, not named as a sin or answered with a judgment in these verses. See
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Four Things]] — Proverbs 30:32; The one who has lifted himself up told to put his hand over his mouth.
 

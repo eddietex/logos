@@ -759,7 +759,11 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 
 - Exodus 32 — Named Israel in the appeal to the oath to the fathers (32:13). [[The Golden Calf]]
 
+- Leviticus 26 — Named in *my covenant* to be remembered in exile, first in a reversed list (26:42). [[Covenant Warnings and Remembered Promises]]
+
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46; covenant party, not present.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; recalled as a recipient of the land oath (33:1), not
   personally present.

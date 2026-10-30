@@ -87,6 +87,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Covenant Warnings and Remembered Promises]] — the second half of the same speech, 26:14–46.
 - [[The Poor Brother and Redemption from Service]] — 25:55 and 26:13 name the same exodus; the
   chapter break falls between them.
 - [[The Sabbatical Year and the Jubilee]] — 25:18–22 already promised safety, fill, and *old store*.

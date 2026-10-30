@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+The exodus is cited at the last, *in the sight of the nations* (45), as the ground of remembering a
+people now scattered among those nations. See 26:13 for the yoke.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 The chapter's promises end with Egypt: Yahweh brought Israel out so that they would not be
@@ -174,6 +181,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

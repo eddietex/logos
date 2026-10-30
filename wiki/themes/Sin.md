@@ -82,6 +82,14 @@ has been argued.
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Sin is named as *iniquity*, *the iniquity of their fathers*, and *trespass* (*maʿal*, 39–41). Verse
+40 has the people confess a shared record with their ancestors, and verse 41 locates the problem in
+an *uncircumcised heart*.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Field and community — Leviticus 19:19–37
 
 Verse 22 calls the man’s act sin and promises forgiveness after atonement. This case is not
@@ -528,6 +536,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

@@ -29,6 +29,14 @@ foreign state.**
 
 ## Development across Scripture
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Famine as announced covenant sanction: seed eaten by enemies, sky like iron, a land that will not
+give, and the *staff of bread* broken with ten women sharing one oven (16, 19–20, 26). See
+[[The Staff of Bread - Leviticus 26.26-29, Deuteronomy 28, and Ezekiel 4-5]].
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 The positive pole of the subject: rain in season, threshing that reaches vintage, bread to the full
@@ -171,6 +179,8 @@ wisdom itself.
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

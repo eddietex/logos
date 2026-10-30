@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant warnings and remembered promises — Leviticus 26:14–46
+
+Israel is scattered and the land remains. *The land of your enemies will eat you up* (38), while
+Yahweh says *I will remember the land* (42). The unit does not state a return; Deuteronomy 30:1–3
+does.
+
+See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 26.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 *Dwell in your land safely* (5) comes one chapter after *you are strangers and live as foreigners
@@ -294,6 +302,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 
