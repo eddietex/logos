@@ -12,6 +12,15 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+New fruit trees have three years of forbidden fruit, a fourth year holy for praise, and a fifth
+year for eating (23–25). This is an orchard timetable, not the announcement of another annual
+festival.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 **The departure becomes a memorial.** [[The Passover]] gives a continuing feast and seven days of
 Unleavened Bread (Exodus 12:14–20). [[The Consecration of the Firstborn]] connects the observance
 with Abib, the departure, and instruction to children (13:3–10). The firstborn claim is related to
@@ -73,6 +82,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

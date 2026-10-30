@@ -55,6 +55,14 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Rising before the gray head and honoring an old person are joined to fearing God (32). Reverence
+takes a public, embodied form toward the elderly.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 The ban on cursing the deaf and placing a stumbling block before the blind ends with the demand to
@@ -349,6 +357,8 @@ theme of awe, but the WEB does not explicitly call their response fear or specif
 shout. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

@@ -7,11 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
+
 - [[The Ten Commandments]] — Exodus 20:1–17.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–19.
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
 ## Analysis
+
+### Leviticus 19:19–37 now ingested
+
+Leviticus 19:30 repeats Sabbath keeping beside sanctuary reverence. Verses 33–34 develop the
+protection of the alien in Exodus 23:9 into an explicit command to love the resident foreigner as
+oneself. Both appeal to Israel’s experience in Egypt; the latter also requires treatment as
+native-born.
+
+Source for this addition: stored WEB Leviticus 19; Exodus 23:9 and Proverbs 11:1
+where compared. Existing wider reception material is retained.
+
 
 Leviticus 19:3–4, 11–12 revisits parents, Sabbath, idols, theft, and false speech,
 all matters treated in Exodus 20. Its order and elaborations differ: mother precedes

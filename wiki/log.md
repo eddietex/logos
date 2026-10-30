@@ -20139,3 +20139,37 @@ Hebrew/Greek claim was made. No harness or schema changes were needed.
 Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets.
 Quote matching, unique new titles, and git diff whitespace checks passed.
 Completed by Codex. No unresolved operational issue.
+
+## [2026-10-29] ingest | Leviticus 19.19-37 — Holy Living in Field and Community
+
+Ingested exactly the next queued pericope in auto mode, retaining its planned boundary.
+Created the passage and the connection comparing the trespass ram in Leviticus 5 and 19.
+Revised 28 themes, God and Moses, Egypt and contextual Canaan and Horeb, four existing
+connections, two earlier passage pages, and the Leviticus overview and queue (28 / 44).
+Updated eight index/count pages. Including this log, the pass creates 2 pages and revises
+49 existing pages. Progress is 255 passages, 195 people, 104 places, 85 themes, 572 connections.
+
+The existing connections cover honest weights, worship and neighborly justice, neighbor-love,
+and the foreigner's protection. The earlier passage's forward reference to 19:34 now links
+to the ingested unit. The unnamed priest, enslaved woman, partner, elders, foreigners, and
+daughters remain legal roles/classes covered in existing themes, not invented individuals.
+Mixtures and orchard timing are treated within Holiness, Law and Obedience, and Festivals
+and First Fruits; no new theme or place page was needed.
+
+The passage preserves the tension between love and native-like treatment for foreigners
+(33–34) and the unequal slave-status distinction (20). It neither supplies consent/coercion
+nor specifies the punishment left unspecified by the WEB. Forgiveness does not silently
+cancel punishment. The ram comparison distinguishes chapter 5's unwitting/unknown-guilt
+cases from chapter 19's case without generalizing this remedy to every deliberate offense.
+No historical origin is invented for the bodily or mixture prohibitions.
+
+All six new key-verse quotations match the unchanged stored WEB Leviticus exactly.
+New comparisons use stored Leviticus 5, Exodus 23:9, and Proverbs 11:1; existing broader
+reception material on revised connection pages was retained, not independently reverified.
+No new quotation from an unstored book or exact Hebrew/Greek claim was introduced.
+No raw, schema, skill, harness, or controller files were changed.
+
+Validation: scripts/link-check.sh passed with 59 expected unstarted-book targets and no
+wrapped or dangling links. Frontmatter counts, quote matching, title uniqueness for new
+pages, category row updates, and git diff whitespace checks passed.
+Completed by Codex. No unresolved operational issue.

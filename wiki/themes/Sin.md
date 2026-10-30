@@ -65,6 +65,15 @@ has been argued.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Verse 22 calls the man’s act sin and promises forgiveness after atonement. This case is not
+presented as accidental in the WEB; that does not establish that every deliberate offense has this
+remedy.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Eating the profaned offering incurs iniquity (8), and the rebuke command warns against bearing sin
@@ -502,6 +511,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

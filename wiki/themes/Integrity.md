@@ -36,6 +36,14 @@ letting go is the only relief on offer.**
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Just balances, weights, ephah, and hin require reliable dealings (35–36). Honesty includes the
+measuring instrument, not merely the merchant’s words.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Truthfulness, fair wages, and impartial judgment (11–15) make the holiness command concrete in
@@ -237,6 +245,8 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:10; the passage
 cross-reference sources and interpretive limits.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

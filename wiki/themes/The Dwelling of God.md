@@ -22,6 +22,15 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The trespass offering is brought to the Tent of Meeting’s door (21), and reverence for the
+sanctuary is commanded (30). The speech prescribes approach without narrating a new manifestation
+of divine presence.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 The door of the Tent of Meeting is the required place of sacrifice (4–9).
@@ -334,6 +343,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

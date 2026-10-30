@@ -27,6 +27,14 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Keeping Yahweh’s Sabbaths is paired with reverence for his sanctuary (30). Sacred time and sacred
+space remain part of the same community instruction as care for elders and foreigners.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Keeping Yahweh’s Sabbaths stands beside respect for mother and father (3). The address to the
@@ -141,6 +149,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

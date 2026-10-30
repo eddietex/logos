@@ -7,18 +7,30 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
+
 - [[The King's Heart]] — Proverbs 21:2.
 
 - [[Wine Is a Mocker]] — Proverbs 20:10, 14, 17, 23.
 
 - [[A False Balance]] — Proverbs 11:1, 3, 20.
 - [[Job's Oath of Innocence]] — Job 31:5–8.
-- Leviticus 19:35–36 and Deuteronomy 25:13–16 — WEB verified; books not yet ingested.
+- Deuteronomy 25:13–16 — WEB verified comparison; not yet ingested.
 - [[The Plans of the Heart]] — Proverbs 16:2, 11.
 - Proverbs 20:10, 23 — now ingested in [[Wine Is a Mocker]].
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12.
 
 ## Analysis
+
+### Leviticus 19:19–37 now ingested
+
+Leviticus 19:35–36 is now ingested. Its just measures are grounded in the exodus, while Proverbs
+11:1 names Yahweh’s evaluation of accurate and false weights. The Torah command and wisdom saying
+converge on accountable commerce without establishing a direction of literary borrowing.
+
+Source for this addition: stored WEB Leviticus 19; Exodus 23:9 and Proverbs 11:1
+where compared. Existing wider reception material is retained.
+
 
 **The marketplace is accountable to Yahweh.** Proverbs 11:1 condemns a false balance and delights in
 accurate weights. Verses 3 and 20 place that practical example beside integrity and blameless ways.

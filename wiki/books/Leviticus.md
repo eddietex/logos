@@ -129,6 +129,10 @@ Leviticus 19:1–18 joins the call to holiness with parent-respect, Sabbath, off
 harvest provision, honest dealings, impartial judgment, and love without vengeance.
 See [[Be Holy and Love Your Neighbor]].
 
+Leviticus 19:19–37 completes the address with field and bodily boundaries, a trespass
+offering case, orchard fruit, sanctuary reverence, elder-honor, foreigner-love, and
+honest measures. See [[Holy Living in Field and Community]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -172,7 +176,7 @@ merge, or reorder them freely.
 - [x] [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16
 - [x] [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30
 - [x] [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18
-- [ ] Holy Living in Field and Community — Leviticus 19:19–37
+- [x] [[Holy Living in Field and Community]] — Leviticus 19:19–37
 - [ ] Penalties and a People Set Apart — Leviticus 20:1–27
 - [ ] The Holiness of the Priests — Leviticus 21:1–24
 - [ ] Eating the Holy Things — Leviticus 22:1–16
@@ -191,6 +195,18 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Redemption]]
+
+- [[Remembrance]]
+
+- [[Mourning and Lament]]
+
+- [[Marriage]]
+
+- [[Sexual Sin]]
+
+- [[Slavery and Servitude]]
 
 - [[Theft and Restitution]]
 

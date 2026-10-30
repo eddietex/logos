@@ -37,6 +37,14 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Eating meat with blood still in it is prohibited (26), continuing the food restriction already
+developed in Leviticus 17. Here it stands beside bans on enchantments and sorcery.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Blood is excluded from food because of its relation to life and its God-given altar
@@ -324,6 +332,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

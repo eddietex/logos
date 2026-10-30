@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Field and community — Leviticus 19:19–37
+
+Egypt is remembered as the land of Israel’s foreign residence (34) and the place from which Yahweh
+brought them out (36). It grounds obligations to foreigners and in commerce, rather than locating
+this speech.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Egypt is Israel’s former home, whose practices must not govern its life (3), rather than the setting of this speech.
@@ -124,6 +133,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

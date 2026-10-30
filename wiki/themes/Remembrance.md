@@ -63,6 +63,15 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Israel’s past as foreigners and its departure from Egypt supply reasons for present love and
+honest dealing (34, 36). This is a thematic appeal to remembered experience, without an assertion
+about a Hebrew verb.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 - **Genesis 8:1** — *"God remembered Noah"*: the first occurrence with God as subject, at the apex
   of the flood chiasm, and the turn on which the world's survival hangs. See [[The Waters Recede]].
 - **Genesis 9:15–16** — *"I will remember my covenant"*: the rainbow is explicitly a memory aid, and
@@ -341,6 +350,8 @@ The handful of flour and oil, with all its frankincense, is burned as a memorial
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Altar Fire and the Priests’ Meal Offerings]] — Leviticus 6:8–23.
 

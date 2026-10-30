@@ -49,6 +49,15 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The woman is pledged to another man but remains unfree (20). Betrothal and slavery jointly define
+this legal case; it is not a narrative of a marriage or a general penalty rule for every sexual
+offense.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The half-sister, aunt, and simultaneous sister marriages excluded in 18:9, 12, 18 stand in tension with the unions reported in Genesis 20:12; 29:23–30; Exodus 6:20. Leviticus does not name those ancestors or pronounce a retrospective verdict.
@@ -327,6 +336,8 @@ marriage procedure. The identities and chronology remain open.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

@@ -47,6 +47,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The man in the slave-woman case brings a ram as a trespass offering to the Tent of Meeting
+(21–22). Fourth-year fruit is holy for praise (24), but the passage gives no detailed
+fruit-offering rite.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Peace offerings may be eaten on the offering day and the next; third-day remains are burned (5–8).
@@ -489,6 +498,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

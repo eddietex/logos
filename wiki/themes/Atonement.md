@@ -20,6 +20,15 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The priest makes atonement with the ram for the man’s sin, and forgiveness is promised (21–22).
+Unlike the unknown-guilt case of 5:17–18, this case is not described in the WEB as unwitting. The
+promise cannot be generalized into a sacrificial remedy for every offense.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 Yahweh gives blood on the altar to make atonement by reason of the life (11).
@@ -241,6 +250,8 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

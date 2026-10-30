@@ -21,6 +21,15 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Elders receive honor and foreigners protection and love (32–34); a father must not make his
+daughter a prostitute (29). The slave-woman case retains unequal status (20–22), so these
+protections should not be summarized as abolition of every legal inequality.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 The poor and foreigner receive harvest provision (9–10); hired workers, deaf people, and blind
@@ -343,6 +352,8 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

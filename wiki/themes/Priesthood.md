@@ -34,6 +34,14 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+An unnamed priest makes atonement for the man with the trespass-offering ram (22). No individual
+priest is identified, and the priest’s service does not cancel verse 20’s punishment.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Sacrifice and blood — Leviticus 17:1–16
 
 The priest sprinkles the peace offering’s blood and burns its fat at the sanctuary
@@ -377,6 +385,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 

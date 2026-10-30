@@ -40,6 +40,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Distinct kinds in breeding, sowing, and clothing (19), holy fourth-year fruit (23–25), and
+reverence for the sanctuary (30) stand alongside love for the foreigner and honest measures
+(33–36). The chapter holds sacred distinctions and social obligations together.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 The command to all Israel rests on Yahweh’s own holiness (2). Parent-respect, Sabbath, worship,
@@ -425,6 +434,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

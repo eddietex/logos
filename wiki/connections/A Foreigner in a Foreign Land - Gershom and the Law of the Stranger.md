@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
+
 - **Genesis 15:13** — *"Know for sure that your offspring will live as foreigners in a land that is
   not theirs, and will serve them."* — [[The Covenant Between the Pieces]]
 - **Genesis 41:51–52** — Joseph names his sons in exile: Manasseh, *"God has made me forget all my
@@ -33,6 +35,16 @@ tags: [connection]
   [[One Law for the Native and the Stranger]]
 
 ## Analysis
+
+### Leviticus 19:19–37 now ingested
+
+Leviticus 19:33–34 is now ingested. It joins the ban on wronging the foreigner to native-like
+treatment and love as oneself. The remembered Egyptian experience becomes an obligation toward
+others. The same unit grounds honest measures in Yahweh’s bringing Israel out (36).
+
+Source for this addition: stored WEB Leviticus 19; Exodus 23:9 and Proverbs 11:1
+where compared. Existing wider reception material is retained.
+
 
 **One noun, *gēr*, runs from a prophecy to a child's name to a law.**
 

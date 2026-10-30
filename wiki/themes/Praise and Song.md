@@ -23,6 +23,14 @@ is what God has just done**: *"The horse and his rider he has thrown into the se
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+All fourth-year fruit is holy for giving praise to Yahweh (24). Agricultural produce is directed
+toward praise; the text supplies neither a song nor a detailed performance.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 - **Before the Song, the people's speech to God is a cry.** They *"sighed … and cried"* in bondage (2:23),
   *"bowed their heads and worshiped"* without words (4:31; 12:27), and *"cried out to Yahweh"* at the sea in
   terror (14:10). **No one in Exodus addresses God in the second person with praise until *"Your right hand,
@@ -110,6 +118,8 @@ form without the passage describing a sung performance.
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; eating deadlines, assigned bread, and ritual eligibility.
 

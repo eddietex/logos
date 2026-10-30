@@ -25,6 +25,14 @@ and it is said by men who cannot think of another way out.**
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Forgiveness is explicitly promised to the man after priestly atonement with the ram (22). Verse 20
+still prescribes punishment; forgiveness and the legal consequence are both retained.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### In Genesis
 
 **The theme arrives late and arrives twice, and the two occurrences are not the same.**
@@ -193,6 +201,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

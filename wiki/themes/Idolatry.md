@@ -22,6 +22,15 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Enchantments and sorcery are prohibited (26), and seeking mediums and wizards brings defilement
+(31). These are forbidden religious practices; the passage does not name a particular foreign
+deity or explain the origin of each custom.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Israel must neither turn to idols nor make molten gods (4). The prohibition belongs to the call
@@ -203,6 +212,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

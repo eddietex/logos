@@ -58,6 +58,15 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The pair are punished but not put to death because the woman was not free (20). The form of
+punishment is unspecified in the WEB. Just judgment and honest measurements are commanded together
+(35–36).
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Eating the third-day sacrifice brings liability and cutting off (7–8). Human judgment must favor
@@ -546,6 +555,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

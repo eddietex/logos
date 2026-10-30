@@ -40,6 +40,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Keeping the statutes opens and closes this unit (19, 37). Its diverse commands address fields,
+bodies, worship, and commerce; the passage supplies no single explanation for every prohibition.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Moses must address the whole congregation (1–2). Worship, parents, economic dealings, courts, and
@@ -672,6 +680,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

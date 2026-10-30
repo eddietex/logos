@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Field and community — Leviticus 19:19–37
+
+Yahweh gives these commands within the address of 19:1–2 and identifies himself as the one who
+brought Israel out of Egypt (36). His authority joins sanctuary reverence, love of foreigners, and
+honest measures.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Yahweh grounds the whole congregation’s holiness in his own (2), and repeatedly names himself as
@@ -2889,6 +2898,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

@@ -34,6 +34,14 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The slave woman has not been ransomed or freed (20); those absent changes of status matter to the
+penalty. The man’s ram is an offering for his sin, not a payment said to purchase her freedom.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Clean and unclean animals — Leviticus 11:1–47
 
 Leviticus 11:45 recalls Yahweh bringing Israel out of Egypt to be their God. Deliverance
@@ -139,6 +147,8 @@ role: the Redeemer *"will plead their case against you"*.
 See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Clean and Unclean Animals]] — Leviticus 11:1–47.
 

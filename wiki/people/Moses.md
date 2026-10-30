@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Field and community — Leviticus 19:19–37
+
+The address entrusted to Moses in 19:1–2 continues through 37. He mediates these agricultural,
+ritual, and social commands; no new speech introduction occurs at 19.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Moses receives the charge to speak to all the congregation (1–2). The address includes worship,
@@ -915,6 +923,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

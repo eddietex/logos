@@ -35,6 +35,15 @@ conclude there is something to be penitent about. See [[Sitting in Dust and Ashe
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Cuttings in the flesh for the dead are prohibited (28). This restricts a bodily mourning practice
+without forbidding every expression of grief; the neighboring tattoo prohibition should not be
+turned into an unverified account of its historical origin.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 **Genesis establishes the rite and immediately shows it going wrong.**
 
 **Jacob is the wiki's first full mourner and its first bad one.** Shown the bloodied coat, he *"tore
@@ -169,6 +178,8 @@ Aaron appeals to "such things as these" that have happened to him (19) when expl
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Aaron appeals to the day's events in declining to eat.
 

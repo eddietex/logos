@@ -56,6 +56,14 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Seeking mediums or wizards is said to defile (31). This is prohibited conduct, distinct from
+bodily impurity that can arise without wrongdoing in chapters 12–15.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The earlier nonmoral definition needs qualification: Leviticus 12 and 15 describe bodily conditions without necessarily identifying an offense, while 18:20–30 expressly associates defilement with prohibited conduct and the land. Menstruation itself is not identified as sin; sexual approach during it is forbidden (19).
@@ -360,6 +368,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Field and community — Leviticus 19:19–37
+
+The land entered and planted with fruit trees (23) is Canaan in the wider context of 18:3. The
+name is not repeated in this unit, and entry is anticipated rather than narrated.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 Canaan is the anticipated destination (3), but the land’s expulsion of inhabitants warns Israel against the same conduct (24–28).
@@ -129,6 +137,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

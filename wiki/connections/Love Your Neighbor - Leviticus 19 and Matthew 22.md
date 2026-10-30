@@ -7,10 +7,23 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
+
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:17–18.
 - Matthew 22:34–40 — verified WEB comparison; passage not yet ingested.
 
 ## Analysis
+
+### Leviticus 19:19–37 now ingested
+
+Leviticus 19:33–34, now ingested, applies love as oneself explicitly to the resident foreigner.
+This prevents reading the reference to one’s people in 19:18 as permission to exclude foreigners
+from love. Matthew 22’s cited neighbor command remains 19:18; this addition concerns its Torah
+context, not a claim that Matthew quotes verse 34.
+
+Source for this addition: stored WEB Leviticus 19; Exodus 23:9 and Proverbs 11:1
+where compared. Existing wider reception material is retained.
+
 
 Leviticus 19:18 commands love of the neighbor as oneself after forbidding vengeance
 and grudges. Verse 17 has already rejected hatred and required rebuke. Love therefore

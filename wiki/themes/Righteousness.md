@@ -43,6 +43,15 @@ about.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Justice applies to measures of length, weight, and quantity as well as judgment (35–36). An
+accurate commercial standard is an obligation to Yahweh, who identifies himself as Israel’s
+deliverer.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Judging the neighbor in righteousness excludes partiality both to the poor and to the great (15).
@@ -368,6 +377,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

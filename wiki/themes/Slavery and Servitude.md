@@ -27,6 +27,15 @@ with a woman it owns.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The woman in 20 is enslaved, pledged to another man, and neither ransomed nor freed. Her unfree
+status is explicitly the reason the pair are not executed. This regulates an unequal legal
+institution rather than abolishing it; the WEB leaves the form of punishment unspecified.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 **The curse that gets misused.** *"Canaan is cursed. He will be a servant of servants to his
 brothers"* (9:25) is the first appearance of the vocabulary in Genesis, and it is a curse on a
 Canaanite, spoken by a drunk man about a grandson who was not in the room. Its abuse as a warrant for
@@ -265,6 +274,8 @@ See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; servants on horses and princes walking like servants (10:7).
 

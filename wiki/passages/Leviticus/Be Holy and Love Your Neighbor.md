@@ -99,9 +99,8 @@ does not explain every case of responsibility. The paragraph rules out treating 
 as either concealed hatred or automatic avoidance of correction.
 
 **Scope.** Verse 18 explicitly mentions the children of one’s people; verse 10 already
-protects foreigners. The later command to love the foreigner as oneself in 19:34 is
-verified in the stored chapter but belongs to the next queued pericope. It is not
-ingested here, and the narrower wording of 18 is not permission to harm outsiders.
+protects foreigners. The command to love the foreigner as oneself in 19:34 is now ingested in
+[[Holy Living in Field and Community]]. The narrower wording of 18 is not permission to harm outsiders.
 
 **Offering-law tension.** The general two-day allowance in 19:5–8 must be read beside
 the thanksgiving meal’s same-day limit in 7:15. Neither is silently replaced; the

@@ -26,6 +26,15 @@ which Genesis treats as ordinary and which belong to [[Marriage]], nor the speci
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Intercourse with the pledged slave woman incurs punishment and requires the man’s ram and priestly
+atonement (20–22). Making a daughter a prostitute is forbidden (29). The first case does not
+specify consent or coercion, so neither should be supplied as a narrative fact.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Forbidden unions and the land — Leviticus 18:1–30
 
 The chapter prohibits specified kinship unions (6–18), intercourse during menstrual impurity (19), adultery (20), male same-sex intercourse (22), and intercourse with animals (23). It describes acts, not modern categories of sexual orientation.
@@ -246,6 +255,8 @@ about women in general. 7:28's count is harder and is discussed on the passage p
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 

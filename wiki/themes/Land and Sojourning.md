@@ -33,6 +33,15 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The orchard law anticipates entry into the land (23–25), while the foreigner within it must
+receive native-like treatment and love (33–34). Israel’s own foreign residence in Egypt grounds
+the obligation.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Harvest corners, gleanings, and fallen grapes must remain for poor people and foreigners (9–10).
@@ -221,6 +230,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

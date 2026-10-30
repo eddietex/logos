@@ -66,6 +66,15 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+Repeated divine self-identification grounds commands about produce, bodies, sanctuary, elders,
+foreigners, and measures. In 36 Yahweh identifies himself through the exodus, linking honest
+commerce to deliverance.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Yahweh’s repeated self-identification grounds the commands, and false swearing by his name is
@@ -171,6 +180,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

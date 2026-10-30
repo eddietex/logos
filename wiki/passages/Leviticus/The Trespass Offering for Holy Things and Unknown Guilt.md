@@ -64,6 +64,8 @@ without a way forward.
 
 ## Cross-references
 
+- [[The Trespass Ram in Different Cases - Leviticus 5 and 19]]
+
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7; fraud, repayment to the owner, and the ram offering.
   See [[Restitution to the Neighbor and for Holy Things]] for the differing repayment rates.
 

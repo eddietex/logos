@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Field and community — Leviticus 19:19–37
+
+The Sinai setting follows the book’s context (7:38); no mountain is named in 19:19–37. Orchard
+planting anticipates settled life without relocating the current address.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 The Sinai setting is contextual from Leviticus 7:38; 19:1–18 names no mountain or settlement. Its
@@ -430,6 +438,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

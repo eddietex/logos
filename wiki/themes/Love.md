@@ -24,6 +24,15 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Field and community — Leviticus 19:19–37
+
+The resident foreigner must be treated as native-born and loved as oneself (33–34). This
+explicitly extends the self-love measure of 19:18 to the foreigner; its narrower reference to
+one’s people is not an exclusion of outsiders.
+
+See [[Holy Living in Field and Community]]. Source: stored WEB Leviticus 19.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Love of the neighbor as oneself (18) stands beside the rejection of inward hatred, vengeance, and
@@ -465,6 +474,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
