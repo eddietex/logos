@@ -12,6 +12,14 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+The seventh month’s fifteenth day begins seven days of harvest celebration, with
+an eighth-day assembly (34–41). Shelters give the harvest feast an explicit exodus
+memory (42–43); Moses’ declaration closes the calendar (44).
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 The first day of the seventh month brings a trumpet memorial, rest, and assembly
@@ -109,6 +117,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

@@ -32,6 +32,14 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+The calendar’s appointed offerings are additional to vows, gifts, and freewill
+offerings (37–38). Keeping an annual feast does not replace personal commitments;
+this summary does not prescribe a new oath or a new vow formula.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Vow and freewill offerings — Leviticus 22:17–33
 
 Vow and freewill offerings share the rule of no defect (18–21), but verse 23 separates them: a
@@ -273,6 +281,8 @@ the paid-vow claim in Proverbs 7:14, not an automatic thanksgiving identificatio
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

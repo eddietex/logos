@@ -42,6 +42,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+After gathering the land’s produce, native-born Israelites dwell in temporary
+shelters to remember departure from Egypt (39, 42–43). Settled abundance is thus
+paired with the memory of a people whose dwelling Yahweh provided on departure.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The coming land is Yahweh's gift (10), and its harvest is subject to duties toward
@@ -248,6 +256,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

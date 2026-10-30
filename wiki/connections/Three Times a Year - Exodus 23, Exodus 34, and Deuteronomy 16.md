@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Feast of Booths]] — Leviticus 23:33–44.
+
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28.
@@ -68,6 +70,26 @@ gleanings (22), without restating the three male appearances. No fixed month-and
 date is assigned here; the starting Sabbath's precise referent is left unresolved.
 
 Source for this addition: stored WEB Leviticus 2, 19, 23; Exodus 23, 34.
+
+### Gathered produce and remembered shelters — Leviticus 23:33–44
+
+[[The Feast of Booths]] fixes the feast to the seventh month’s fifteenth day and connects
+it with gathered produce (34, 39). Exodus 23:16 describes Ingathering at the year’s end;
+Exodus 34:22 calls its year-end feast harvest in the stored WEB. These seasonal statements
+and Leviticus’s month-and-day date are preserved without imposing a calendar-year theory.
+
+Leviticus adds seven days of shelter-dwelling to teach later generations the departure
+from Egypt (42–43). The agricultural and historical explanations reinforce one another.
+The first day and the additional eighth-day assembly prohibit regular work (35–36);
+seven-day rejoicing and shelter-dwelling remain distinct from that eighth day.
+
+The native-born specification concerns shelter-dwelling (42), not an explicit ban on
+foreign participation in the feast. This addition does not erase the participant list
+already documented above for Deuteronomy 16. The summary at 37–38 also preserves gifts,
+vows, freewill offerings, and Sabbaths alongside appointed festival offerings.
+
+Source for this addition: stored WEB Leviticus 23:33–44; Exodus 13:3–10; 23:14–19;
+34:21–24. No new quotation or source-language assertion from an unstored book is added.
 
 ## Significance
 

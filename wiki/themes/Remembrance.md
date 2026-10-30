@@ -63,6 +63,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Seven days in temporary shelters teach later generations what Yahweh did at the
+departure from Egypt (42–43). Like the instruction attached to Unleavened Bread
+(Exodus 13:8), a repeated practice carries the history of deliverance.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 The first day of the seventh month is a memorial of trumpet blowing in the WEB (24).
@@ -358,6 +366,8 @@ The handful of flour and oil, with all its frankincense, is burned as a memorial
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Egypt is the land from which Yahweh brought Israel (43). The shelters recall the
+departure, while the harvest feast anticipates settled life elsewhere; Egypt is
+a remembered origin, not the location of the command.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Acceptable victims and the holy name — Leviticus 22:17–33
 
 Yahweh closes the priestly holiness laws of chapters 21–22 as the one "who brought you out of
@@ -143,6 +151,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

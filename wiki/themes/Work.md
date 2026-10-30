@@ -28,6 +28,14 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Gathered produce provides the occasion for celebration (39), but the first and
+eighth days prohibit regular work (35–36). The passage does not prohibit regular
+work on every intervening day or equate this rule with the all-work ban of 23:28.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 Regular work is forbidden on the trumpet memorial (25), while every kind of work is
@@ -629,6 +637,8 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

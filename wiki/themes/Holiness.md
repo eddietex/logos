@@ -79,6 +79,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Holy convocations mark the first and eighth days (35–36). The calendar’s summary
+joins sacred assembly to offerings on their appointed days (37), while rejoicing
+before Yahweh also belongs to the commanded observance (40).
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 Both the trumpet memorial and Day of Atonement are holy convocations (24, 27). Sacred
@@ -499,6 +507,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

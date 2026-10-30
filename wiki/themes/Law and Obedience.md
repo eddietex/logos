@@ -76,6 +76,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+The seven-day annual feast is a perpetual statute throughout Israel’s generations
+(41). Moses declares the appointed feasts (44); transmission is narrated, but
+Israel’s observance is not. The shelter obligation expressly names native-born
+Israelites (42), without stating a general exclusion of foreigners from festivities.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 The Day of Atonement’s work prohibition is a perpetual statute for every generation
@@ -742,6 +751,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

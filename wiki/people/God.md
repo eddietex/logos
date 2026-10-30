@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Yahweh commands rejoicing before him and identifies himself as the one who brought
+Israel out of Egypt and made them live in shelters (40, 43). Remembrance teaches
+later generations his action, not simply their ancestors’ resourcefulness.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 Yahweh appoints seventh-month assemblies and offerings (24–28). He also declares that
@@ -2959,6 +2967,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

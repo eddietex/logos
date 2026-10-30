@@ -27,6 +27,14 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+The first and eighth days are solemn rests (39), with regular work forbidden
+(35–36). The calendar summary distinguishes the appointed offerings from Yahweh’s
+Sabbaths (37–38); annual rest does not cancel the weekly rhythm.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 The tenth day of the seventh month is a Sabbath of solemn rest observed from the
@@ -176,6 +184,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

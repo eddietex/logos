@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+The Sinai setting belongs to the book’s frame (Leviticus 7:38); no mountain is
+named in 23:33–44. The festival anticipates the gathered produce of the land (39).
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 The Sinai setting is supplied by Leviticus 7:38, not named in 23:23–32. The statute
@@ -497,6 +504,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

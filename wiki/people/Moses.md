@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Moses receives the speech (33–34) and declares the appointed feasts to Israel (44).
+Unlike the earlier calendar units, this ending explicitly narrates his delivery;
+it does not narrate Israel performing the rites.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 Moses receives two successive speeches (23, 26), with an explicit charge to speak to
@@ -979,6 +987,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

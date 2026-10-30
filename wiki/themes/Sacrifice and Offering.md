@@ -77,6 +77,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Seven days and the eighth-day assembly require fire offerings (36). The calendar
+summary lists burnt, meal, sacrifice, and drink offerings for their appointed days,
+besides Sabbaths and personal gifts, vows, and freewill offerings (37–38). No animal
+inventory for this feast is supplied here.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 Both the first and tenth days require an offering made by fire (25, 27). This unit
@@ -556,6 +565,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

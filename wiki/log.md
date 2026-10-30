@@ -20377,3 +20377,34 @@ claims were added. Raw sources and workflow instructions remain unchanged.
 `scripts/link-check.sh` passed with no wrapped links or unexpected dangling targets;
 59 unstarted book pages remain the expected baseline. Counts and quotation fidelity
 were checked, and `git diff --check` passed. No operational blocker or harness change.
+
+## [2026-10-30] ingest | Leviticus 23.33-44 — The Feast of Booths
+
+Ingested [[The Feast of Booths]] in unattended mode, retaining the planned boundary.
+The passage contains the discussion and all twelve verses copied from stored WEB.
+Created one passage and revised twenty-three existing pages: the book, two people,
+two places, ten themes, one connection, six indexes, and this log. Leviticus is now
+36/44 pericopes. Frontmatter totals: 263 passages, 195 people, 104 places, 85 themes,
+574 connections; seven books started and six complete.
+
+Extended [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] with the
+seventh-month date, gathered produce, remembered shelters, and eighth-day assembly.
+No duplicate connection was needed. Seven days of dwelling and rejoicing remain distinct
+from the eighth-day assembly. Exodus’s year-end descriptions and Leviticus’s date are
+preserved without imposing a theory of the calendar year. No new contradiction was found.
+
+Judgment calls: Israel remains a collective addressee, not a new person page. Egypt is
+remembered; Horeb/Sinai is contextual. Native-born shelter-dwelling is not turned into a
+ban on foreigners celebrating. The vegetation command is not expanded into unmentioned
+construction instructions or later ritual. Joy is covered by the existing Joy and
+Enjoyment theme, with its tension against a blanket rejection of pleasure made explicit.
+The WEB’s tents and temporary shelters remain verbatim despite the conventional title.
+
+New quotations and comparisons use stored WEB Leviticus 23 and Exodus 13, 23, 34.
+No new external quotation or Hebrew/Greek assertion was introduced; the existing
+connection’s earlier Deuteronomy verification is preserved without claiming a fresh fetch.
+Raw sources, schema, and workflow instructions are unchanged. No harness change or blocker.
+
+`scripts/link-check.sh` passed with no wrapped links or unexpected dangling targets;
+59 not-yet-started books remain the expected baseline. Quotation fidelity, frontmatter
+counts, the next unchecked boundary, and `git diff --check` were checked before commit.

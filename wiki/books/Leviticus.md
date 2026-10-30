@@ -161,6 +161,10 @@ and foreigners. Holy dedication and provision for neighbors share the harvest.
 adds sanctions for refusal of self-denial or rest on the Day of Atonement, and defines
 its evening-to-evening observance.
 
+[[The Feast of Booths]] (23:33–44) joins gathered produce, seven-day rejoicing and shelters,
+an eighth-day assembly, and instruction about the departure from Egypt. Moses declares
+the appointed feasts, closing the calendar.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -212,7 +216,7 @@ merge, or reorder them freely.
 - [x] [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8
 - [x] [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22
 - [x] [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32
-- [ ] The Feast of Booths — Leviticus 23:33–44
+- [x] [[The Feast of Booths]] — Leviticus 23:33–44
 - [ ] The Lamps and the Bread Before Yahweh — Leviticus 24:1–9
 - [ ] The Blasphemer and One Law for All — Leviticus 24:10–23
 - [ ] The Sabbatical Year and the Jubilee — Leviticus 25:1–22
@@ -223,6 +227,8 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Joy and Enjoyment]]
 
 - [[Barrenness]]
 

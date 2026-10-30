@@ -14,6 +14,15 @@ or as the theme recurs.
 
 ## Development across Scripture
 
+### Booths and remembered deliverance — Leviticus 23:33–44
+
+Rejoicing before Yahweh for seven days is commanded (40), with fruit and branches
+and the gathered harvest in view (39–40). This qualifies any reading of wisdom’s
+warnings about pleasure as a universal rejection of joy: here joy belongs to
+obedience and remembered deliverance, not a promise that enjoyment secures lasting gain.
+
+See [[The Feast of Booths]]. Source: stored WEB Leviticus 23:33–44; comparisons as cited.
+
 ### Warnings in Proverbs
 
 Proverbs 14:13 says *"Even in laughter the heart may be sorrowful, and mirth may end in
@@ -247,6 +256,8 @@ that the journey or enjoyment has already taken place.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.
 
