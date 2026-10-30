@@ -47,6 +47,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Livestock slaughter is brought to the Tent of Meeting as peace offerings (3–6);
+this redirects field sacrifices to Yahweh and excludes goat idols (7). Hunted edible
+animals have a distinct blood-disposal rule (13), not a command to bring them as offerings.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### Two goats and two burnt offerings — Leviticus 16:1–34
 
 Aaron's bull and the people's two goats are sin offerings, with a ram each for burnt offerings
@@ -469,6 +478,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

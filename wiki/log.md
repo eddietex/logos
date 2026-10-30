@@ -20054,3 +20054,31 @@ quoted from stored WEB though not yet ingested. Hebrews 9:7, 11–12, 24–26 an
 verified individually at bible-api.com (WEB) on 2026-10-29; no books were bulk-fetched. Raw
 texts and workflow instructions remain unchanged. Executed by Claude in auto mode; exactly
 one pericope.
+
+## [2026-10-29] ingest | Leviticus 17.1-16 — The Place of Sacrifice and the Life in the Blood
+
+Ingested [[The Place of Sacrifice and the Life in the Blood]] from stored WEB.
+Retained the planned boundary; checked the queue at 25 / 44. Created the passage and
+two connections, [[Sacrifice to Yahweh Alone - Exodus 22 and Leviticus 17]] and
+[[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]]. Extended
+[[Blood Reserved from Food - Genesis 9 and Leviticus 3]] and added reciprocal links
+to six existing passages. Revised God, Moses, Aaron, Horeb, and thirteen themes,
+with their index rows; updated the book overview, books index, connection subindexes,
+and dashboard. Created 3 pages and revised 35, including this log.
+
+Judgments: Aaron’s unnamed sons remain corporate recipients rather than newly named
+individual actors; goat idols remain under Idolatry. Sinai is contextual, not named
+in this chapter. Preserved the broad livestock-slaughter wording while identifying
+the narrower ritual-only reading as interpretation. Flagged the apparent tension
+between Exodus 22:31’s torn-meat prohibition and Leviticus 17:15’s cleansing rule.
+Preserved Leviticus 5’s flour atonement alongside 17:11. Corrected Blood’s absolute
+claim that the altar is blood’s only permitted destination, since 17:13 directs
+hunters to pour it out and cover it. Qualified that page’s existing Hebrew connection
+with Genesis 2:7 at the point of assertion because no source-language edition was
+verified during this pass.
+
+All new quotations were copied from stored WEB Leviticus 17. Cross-reference analysis
+uses stored sources and paraphrase; no unstored books were fetched and no raw texts or
+workflow instructions changed. Link checks passed with 59 expected unstarted-book
+targets. Totals: 252 passages, 195 people, 104 places, 85 themes, 568 connections.
+Executed by OpenAI Codex in auto mode; exactly one pericope.

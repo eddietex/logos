@@ -56,6 +56,15 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Eating an animal that died or was torn requires washing clothes, bathing, and
+waiting until evening (15). Failure to wash incurs iniquity (16). This cleansing
+procedure does not explicitly repeal Exodus 22:31’s prohibition on torn meat.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The sanctuary cleansed — Leviticus 16:1–34
 
 After chapters 11–15, chapter 16 cleanses the sanctuary itself *"because of the uncleanness of
@@ -345,6 +354,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

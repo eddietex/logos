@@ -70,6 +70,8 @@ his bringing Israel out of Egypt to be their God (44–47).
 - [[Redemption]] — the exodus grounds the call to belong to Yahweh.
 
 ## Cross-references
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]] for comparison.
 - [[Mildew in Garments]] — Leviticus 13:47–59; distinct rules for affected material.
 
 - [[Food for Noah and Food for Israel - Genesis 9 and Leviticus 11]] — the broad

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Yahweh commands Moses to address priests and people (1–2), gives blood its altar
+function (11), and promises his own opposition to those who eat blood (10).
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The Day of Atonement — Leviticus 16:1–34
 
 Yahweh dates the law by the deaths of Nadab and Abihu and warns that Aaron must not enter the
@@ -2867,6 +2875,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

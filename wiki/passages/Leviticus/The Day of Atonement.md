@@ -88,6 +88,8 @@ father's place repeats it, once a year, for sanctuary, tent, altar, priests, and
 
 ## Cross-references
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for comparison.
+
 - [[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]] — the deaths that date the chapter and the rule of entry that answers them.
 - [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] — the rite here, the calendar date and its sanctions in Leviticus 23:26–32.
 - [[The High Priest Once a Year - Leviticus 16 and Hebrews 9]] — Hebrews' reading of the annual entry.

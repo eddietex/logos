@@ -82,6 +82,8 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 
 ## Cross-references
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Sacrifice to Yahweh Alone - Exodus 22 and Leviticus 17]] for comparison.
+
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21 is now ingested; its eating and bread rules
   complement the earlier instructions. See [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]].
 

@@ -120,6 +120,8 @@ but *"cast it to the dogs"* (22:31).
 
 ## Cross-references
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]] for comparison.
+
 - [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 22:31 compared with Leviticus 11.
 
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3’s victims lack comfort, while Exodus 22:21–27

@@ -33,6 +33,15 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Resident foreigners are expressly included in the offering and blood rules
+(8–14) and in carcass cleansing (15). Verse 3 addresses the house of Israel specifically;
+the later inclusive clauses should not be silently substituted for its wording.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### Houses in the promised land — Leviticus 14:33–57
 
 Canaan is named as the possession Yahweh gives (34); the law anticipates settled
@@ -197,6 +206,8 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; house inspection and cleansing.
 

@@ -86,6 +86,8 @@ locates the offering laws in Yahweh's commands to Moses at Sinai.
 
 ## Cross-references
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for comparison.
+
 - [[The Peace Offering]] — Leviticus 3 supplies the altar procedure and initial prohibition.
 - [[Thanksgiving, Vows, and the Peace Offering]] — 7:11–21 supplies meal deadlines and eligibility.
 - [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] — the earlier food limits developed here.

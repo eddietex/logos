@@ -68,6 +68,15 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The life of flesh grounds the blood restriction (11, 14). Permission to eat
+animal food is bounded by respect for that life: even hunting requires pouring out
+and covering the blood (13).
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### Lest he die — Leviticus 16:1–34
 
 The chapter opens with the death of two priests (1) and twice frames the high priest's entry
@@ -598,6 +607,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

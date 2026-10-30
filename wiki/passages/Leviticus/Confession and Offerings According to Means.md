@@ -82,6 +82,8 @@ promise forgiveness; poverty changes the offering without removing the remedy.
 
 ## Cross-references
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; see [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for comparison.
+
 - [[Offerings According to Means - Leviticus 5 and 12]] — the childbirth provision shares the bird alternative but states cleansing.
 
 

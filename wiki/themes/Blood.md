@@ -10,8 +10,8 @@ tags: [theme]
 every use of the word, and all three are stated or assumed by the time Genesis 9 is finished:
 
 - **The life is in the blood.** *"Flesh with its life, that is, its blood"* (Genesis 9:4). Leviticus
-  17:11 makes it a formal principle: *"the life of the flesh is in the blood."* The Hebrew is
-  *nephesh*, the same word for the *living soul* the man becomes when God breathes into him at 2:7.
+  17:11 makes it a formal principle: *"the life of the flesh is in the blood."* The often-noted Hebrew connection with *nephesh* and Genesis 2:7 has not been
+  re-verified against a source-language edition here; this reading rests on the WEB’s life wording.
   Blood is therefore not property, not food, and not disposable — it is the visible form of
   something lent.
 - **Spilled blood speaks.** *"The voice of your brother's blood cries to me from the ground"*
@@ -36,6 +36,15 @@ prescribes flour and promises atonement and forgiveness. Leviticus 17:11 gives b
 altar function, but does not cancel that provision. See [[Flour for a Sin Offering - Leviticus 2 and 5]].
 
 ## Development across Scripture
+
+### Sacrifice and blood — Leviticus 17:1–16
+
+Blood is excluded from food because of its relation to life and its God-given altar
+function (10–14). Hunted animals’ blood is poured out and covered with dust (13).
+This corrects any absolute claim that the altar is the only permitted destination for blood.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
 
 ### Blood within the veil — Leviticus 16:1–34
 
@@ -316,6 +325,8 @@ narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
+
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33; bodily impurity, cleansing, and guarded sanctuary access.
@@ -404,7 +415,7 @@ See [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for the food prohib
 - [[Theft and Restitution]] — Exodus 22:1–15
 
 - [[Life and Death]] — what blood is the visible form of, and what its spilling takes
-- [[Sacrifice and Offering]] — the altar, which is the one place blood may go
+- [[Sacrifice and Offering]] — the altar’s appointed use of blood; hunters instead pour it out and cover it (Leviticus 17:13)
 - [[Image of God]] — the reason human blood is required differently from animal blood
 - [[Vengeance]] — the avenger of blood, and the ceiling Genesis 9:6 sets
 - [[Judgment]] — blood-guilt as a claim that must be settled

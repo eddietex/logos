@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Moses receives the speech and must transmit it to Aaron, his sons, and all
+Israel (1–2). He conveys both sanctuary requirements and rules for daily eating.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The Day of Atonement — Leviticus 16:1–34
 
 Moses receives the law and is told to relay it to Aaron (1–2); he performs no part of the rite.
@@ -893,6 +901,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

@@ -40,6 +40,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The rules distinguish livestock slaughter (3–7), offerings (8–9), blood eating
+(10–12), hunting (13–14), and carcass eating (15–16). A single generalized rule would
+erase their different actions and sanctions.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### A statute forever — Leviticus 16:1–34
 
 The rite is called *"a statute to you forever"* (29, 31) and *"an everlasting statute"* (34), with
@@ -648,6 +657,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

@@ -22,6 +22,15 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The door of the Tent of Meeting is the required place of sacrifice (4–9).
+The altar before the tabernacle orders slaughter within and outside the camp, while
+the hunting rule supplies a different treatment of blood (13).
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### Presence in the middle of uncleanness — Leviticus 16:1–34
 
 Yahweh will *"appear in the cloud on the mercy seat"* (2), and the Tent of Meeting *"dwells with
@@ -325,6 +334,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

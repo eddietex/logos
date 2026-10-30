@@ -20,6 +20,15 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Yahweh gives blood on the altar to make atonement by reason of the life (11).
+This positive explanation does not revoke the flour sin offering and its promise of
+atonement in Leviticus 5:11–13; it is not a claim that every remedy requires blood.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The Day of Atonement — Leviticus 16:1–34
 
 The chapter that gives the day its name uses atonement more broadly than any before it: for
@@ -232,6 +241,8 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

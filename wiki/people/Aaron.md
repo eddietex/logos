@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Aaron and his sons are named among the recipients (2). The priest’s role is
+to sprinkle the blood and burn the fat (6); no individual son is named here.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The Day of Atonement — Leviticus 16:1–34
 
 Aaron alone enters within the veil, after the deaths of two of his sons (1). He bathes, wears
@@ -514,6 +522,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

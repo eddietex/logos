@@ -34,6 +34,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The priest sprinkles the peace offering’s blood and burns its fat at the sanctuary
+altar (6). Aaron and his sons receive the instruction alongside the people (2); the
+chapter names no individual son or particular performance.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The high priest alone — Leviticus 16:1–34
 
 The rite belongs to one man: no one else may be in the tent while he atones (17). He must
@@ -368,6 +377,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

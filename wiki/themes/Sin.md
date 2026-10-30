@@ -65,6 +65,15 @@ has been argued.
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The text assigns blood liability to prohibited slaughter (4), condemns
+sacrifice to goat idols as unfaithfulness (7), and assigns iniquity to neglect of
+cleansing after carcass eating (16). Uncleanness and culpable neglect are distinguished.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### Iniquities carried away — Leviticus 16:1–34
 
 Verse 21 gathers the vocabulary into one confession — *"all the iniquities … all their
@@ -478,6 +487,8 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

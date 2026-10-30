@@ -7,11 +7,22 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:10–14.
+
 - [[The Covenant with Noah]] — Genesis 9:3–4.
 - [[The Peace Offering]] — Leviticus 3:2, 8, 13, 17.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38; food restrictions and priestly shares now ingested.
 
 ## Analysis
+
+### The rationale made explicit — Leviticus 17
+
+Leviticus 17:11 explicitly connects blood with life, as Genesis 9:4 does, and adds
+God’s gift of blood on the altar for atonement. Verses 10–14 include foreigners and
+give hunters a distinct procedure: pour out the blood and cover it with dust.
+This is not an altar rite. Thus reserved from food does not mean every animal’s blood
+must reach the sanctuary. Sources: stored WEB Genesis 9:3–4; Leviticus 17:10–14.
+
 
 Genesis 9:3 permits animal food; 9:4 excludes flesh with its life, identified there as its
 blood. Leviticus 3 places a restriction on blood within instructions for a particular

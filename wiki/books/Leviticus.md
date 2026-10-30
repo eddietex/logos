@@ -117,6 +117,10 @@ may enter within the veil only once a year, with incense and blood. Two goats di
 rite, sanctuary and people are cleansed, and the day becomes a perpetual Sabbath of rest.
 See [[The Day of Atonement]].
 
+[[The Place of Sacrifice and the Life in the Blood]] (17:1–16) brings field sacrifices to the sanctuary,
+explains the blood prohibition through life and atonement, and distinguishes hunting
+from altar rites and carcass cleansing.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -157,7 +161,7 @@ merge, or reorder them freely.
 - [x] [[Mildew in a House]] — Leviticus 14:33–57
 - [x] [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33
 - [x] [[The Day of Atonement]] — Leviticus 16:1–34
-- [ ] The Place of Sacrifice and the Life in the Blood — Leviticus 17:1–16
+- [x] [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16
 - [ ] Forbidden Unions and the Defiled Land — Leviticus 18:1–30
 - [ ] Be Holy and Love Your Neighbor — Leviticus 19:1–18
 - [ ] Holy Living in Field and Community — Leviticus 19:19–37
@@ -179,6 +183,10 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Land and Sojourning]]
+
+- [[Idolatry]]
 
 - [[Oaths and Vows]]
 - [[Praise and Song]]

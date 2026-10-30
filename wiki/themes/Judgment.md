@@ -58,6 +58,15 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Unlawful slaughter incurs blood liability and cutting off (4); unauthorized
+offerings also incur cutting off (9). Yahweh explicitly acts against the blood eater
+(10). The chapter does not specify a human court procedure for these sanctions.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 - **Genesis 3:8–24** — the first judgment scene: God comes, seeks, questions, sentences, clothes,
   exiles.
 - **Genesis 4:6–16** — the same sequence over Cain, question for question (*"Where is Abel your
@@ -522,6 +531,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

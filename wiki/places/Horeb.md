@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The Sinai setting continues from Leviticus 7:38; chapter 17 does not name the
+mountain. It locates sacrifice at the tent’s door and distinguishes camp, open field,
+and hunting outside the altar procedure (3–13).
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### The Day of Atonement — Leviticus 16:1–34
 
 The Sinai setting continues; the chapter does not name the mountain. The rite looks beyond the
@@ -407,6 +416,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

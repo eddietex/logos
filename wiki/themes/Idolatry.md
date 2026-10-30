@@ -22,6 +22,15 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+The purpose of redirecting field sacrifices is that Israel cease sacrificing
+to goat idols (5–7). The WEB describes this allegiance as prostitution. The passage
+does not supply names or biographies for these objects of worship.
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### In Genesis
 
 - **The gods of the fathers beyond the River.** Joshua 24:2 looks back on this family and says it
@@ -180,6 +189,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Furnishings Made]] — Exodus 37:1–29; Commanded gold cherubim follow the condemned calf; the image tension stays explicit.
 

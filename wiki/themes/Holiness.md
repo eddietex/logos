@@ -40,6 +40,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Sacrifice and blood — Leviticus 17:1–16
+
+Sacrificial allegiance and ordinary meals fall under the sanctuary’s ordering:
+field sacrifices must become offerings to Yahweh, blood is withheld from consumption,
+and carcass eating requires cleansing (3–16).
+
+See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Leviticus 17; comparisons as cited.
+
+
 ### Guarded entry — Leviticus 16:1–34
 
 The Most Holy Place may not be entered *"at all times"* (2), and the entry permitted is hedged:
@@ -400,6 +409,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:1–16; sanctuary sacrifice, blood, and cleansing.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
