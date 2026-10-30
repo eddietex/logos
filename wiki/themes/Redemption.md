@@ -34,6 +34,15 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Brought out to be your God — Leviticus 22:17–33
+
+The priestly holiness laws end on the exodus: "who brought you out of the land of Egypt, to be
+your God" (33). Deliverance is stated as the purpose of belonging, as at Leviticus 11:45.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Field and community — Leviticus 19:19–37
 
 The slave woman has not been ransomed or freed (20); those absent changes of status matter to the
@@ -147,6 +156,8 @@ role: the Redeemer *"will plead their case against you"*.
 See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

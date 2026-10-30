@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Acceptable victims and the holy name — Leviticus 22:17–33
+
+The Sinai setting is supplied by the book's frame (Leviticus 7:38); Leviticus 22:17–33 names no
+place. "The altar" (22) is where acceptance is decided, and "your land" (24) extends one
+prohibition beyond the sanctuary.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Eating the holy things — Leviticus 22:1–16
 
 The Sinai setting is supplied by the book's context (Leviticus 7:38); Leviticus 22:1–16 names no
@@ -464,6 +474,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

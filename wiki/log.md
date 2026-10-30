@@ -20255,3 +20255,39 @@ Source: stored WEB Leviticus 22:1–16, with comparisons in 5:15–16, 6:29, 7:6
 10:14, 19:9–10, and 21:22–23. Key quotations were copied from raw text; no raw file was changed,
 no outside-book quotation or source-language claim was added. Link checks passed with 59 expected
 not-yet-started book targets and no findings; no unresolved ingest blocker.
+
+## [2026-10-30] ingest | Leviticus 22.17-33 — Acceptable Victims and the Holy Name
+
+Ingested [[Acceptable Victims and the Holy Name]] in unattended mode, keeping the planned 22:17–33
+boundary: two speeches on acceptability (17, 26) and the closing exhortation (31–33) that ends
+chapters 21–22; chapter 23 opens the feasts. Discussion is recorded in the passage: the no-defect
+rule for vow and freewill offerings, the freewill-only exception for deformed or incomplete
+animals (23), the eighth-day minimum and the mother-and-young rule (27–28), the restated
+same-day thanksgiving meal (29–30), and Yahweh as the one who makes Israel holy and brought it out
+of Egypt (32–33).
+
+Created 1 passage; revised 18 existing content pages (Leviticus, 3 people, 2 places, 8 themes,
+and 4 connections), 10 indexes/dashboards, and this log: 1 created, 29 revised wiki pages in
+total. Leviticus is now 32/44 pericopes; progress counted by frontmatter is 259 passages,
+195 people, 104 places, 85 themes, and 573 connections.
+
+Judgment calls: no new person, place, theme, or connection page was needed. [[Egypt]] was added
+for verse 33, and [[Oaths and Vows]], [[The Nations]], and [[Redemption]] for verses 23, 18/25,
+and 33. [[Compassion and Mercy]] was deliberately not tagged: verses 27–28 state no reason, and a
+compassion reading is recorded only as interpretation. Extended four connections:
+[[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]] (22:20–21 now
+ingested, with the freewill exception),
+[[The Eighth Day - Circumcision and the Firstborn Given to God]] (22:27 now linked),
+[[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]] (22:27–28 as a
+shared subject, not a shared rationale), and
+[[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]] (stricter vow victim; 22:29–30
+reaffirms the thanksgiving exception chapter 19 did not repeat). The tension between foreigners
+offering (18) and the ban on offering "from the hand of a foreigner" (25), and the scope of "you
+must not do this in your land" (24), are flagged as unresolved from the WEB wording, with no
+Hebrew claim.
+
+Source: stored WEB Leviticus 22:17–33, with comparisons in Leviticus 1:3; 3:1, 6; 7:15–16, 38;
+11:45; 17:8; 21:17–23; and Exodus 22:29–30. Key quotations were copied from raw text; no raw file
+was changed, and no outside-book quotation or source-language claim was added.
+Link checks passed with 59 expected not-yet-started book targets and no findings; no unresolved
+ingest blocker.

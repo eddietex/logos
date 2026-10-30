@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### My holy name — Leviticus 22:17–33
+
+"My holy name" (32) and the refrain "I am Yahweh" (30, 31, 33) close the priestly holiness laws.
+The name is identified by what Yahweh does: "who makes you holy, who brought you out of the land of
+Egypt, to be your God" (32–33).
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### My holy name — Leviticus 22:1–16
 
 Priestly carelessness with holy things profanes "my holy name" (2), and the refrain "I am Yahweh
@@ -205,6 +215,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

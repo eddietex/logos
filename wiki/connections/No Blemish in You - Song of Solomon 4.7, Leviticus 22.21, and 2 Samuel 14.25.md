@@ -12,7 +12,7 @@ tags: [connection]
 - **Leviticus 21:17–23** — [[The Holiness of the Priests]] *(stored WEB; ingested)* — *"None of your offspring
   throughout their generations who has a defect may approach to offer the bread of his God"*
   (*ʾăšer yihyeh ḇô mûm*)
-- **Leviticus 22:20–21** *(stored WEB; not yet ingested)* — *"But whatever has a
+- **Leviticus 22:20–21** — [[Acceptable Victims and the Holy Name]] *(stored WEB; ingested)* — *"But whatever has a
   defect, that you shall not offer"*; a peace offering *"shall be perfect to be accepted. It shall have
   no defect"* (*tāmîm … kol-mûm lōʾ yihyeh-bô*)
 - **2 Samuel 14:25** *(not yet fetched; WEB checked at bible-api.com)* — Absalom: *"From the sole of
@@ -67,6 +67,14 @@ the veil and altar. The exclusion concerns eligibility for these actions, not a 
 personal offense or loss of every priestly entitlement. This qualification also prevents
 reading bodily wholeness as a universal measure of moral worth. Source: stored WEB
 Leviticus 21:17–23; this addition makes no new source-language claim.
+
+**The animal rule now ingested.** [[Acceptable Victims and the Holy Name]] places 22:20–21 in
+its setting. Verse 22 lists the excluded conditions (blind, injured, maimed, a wart, festering,
+a running sore), and verse 25 calls an unacceptable animal "the bread of your God", the phrase
+21:17 used for what a priest with a defect may not offer. Verse 23 then permits a deformed or
+incomplete bull or lamb as a freewill offering but not for a vow, so even the ritual sense has a
+stated exception. This addition compares the WEB wording only and makes no new source-language
+claim beyond the Hebrew already cited above. Source: stored WEB Leviticus 21:17; 22:17–25.
 
 ## Significance
 

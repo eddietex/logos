@@ -12,6 +12,7 @@ tags: [connection]
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:19.
 - Exodus 34:26 — checked in raw WEB.
 - Deuteronomy 14:21 — verified WEB, not yet ingested.
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:27–28; a related rule about a young animal and its mother.
 
 ## Analysis
 
@@ -42,6 +43,16 @@ prohibition. Its repetition is evidence of continuity with 23:19, not independen
 reconstructed foreign rite.
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
+### Mother and young at the altar — Leviticus 22:27–28
+
+[[Acceptable Victims and the Holy Name]] adds two rules that also name a young animal with its
+mother: a newborn stays "seven days with its mother" before it is acceptable (27), and "Whether it
+is a cow or ewe, you shall not kill it and its young both in one day" (28). These sit among
+offering rules, as the Exodus goat rule does. The text does not cite the goat rule or state a
+reason for either law, so the resemblance is recorded as a shared subject, not a shared
+rationale. Readings that all three express compassion toward animals are interpretations.
+Source: stored WEB Leviticus 22:26–28.
 
 ## Significance
 

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Defect in priest and offering — Leviticus 22:17–33
+
+Chapter 21 excluded a priest with a defect from offering "the bread of his God" (21:17); chapter
+22 excludes an animal with a defect from being "the bread of your God" (25). The altar is guarded
+both at the officiant and at the offering, and the offerer, not only the priest, is addressed (18).
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### The priest’s household table — Leviticus 22:1–16
 
 The priest's portion is "his bread" (7), and it feeds a household: bought and house-born slaves
@@ -406,6 +416,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

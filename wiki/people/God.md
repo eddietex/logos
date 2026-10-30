@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Acceptable victims and the holy name — Leviticus 22:17–33
+
+Yahweh speaks both speeches (17, 26), and acceptance is acceptance by him (19–21, 27, 29). The
+close joins his name to two actions: "I am Yahweh who makes you holy, who brought you out of the
+land of Egypt, to be your God" (32–33). He "will be made holy among the children of Israel" (32).
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Holy things and the holy name — Leviticus 22:1–16
 
 Yahweh speaks the instruction and grounds it in his name and sanctifying action: "I am Yahweh"
@@ -2925,6 +2935,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

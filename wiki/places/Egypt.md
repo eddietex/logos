@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Acceptable victims and the holy name — Leviticus 22:17–33
+
+Yahweh closes the priestly holiness laws of chapters 21–22 as the one "who brought you out of
+the land of Egypt, to be your God" (33), echoing Leviticus 11:45. Egypt is the remembered place of
+deliverance, not the setting.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Field and community — Leviticus 19:19–37
 
 Egypt is remembered as the land of Israel’s foreign residence (34) and the place from which Yahweh
@@ -133,6 +143,8 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

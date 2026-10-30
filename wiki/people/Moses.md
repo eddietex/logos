@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Acceptable victims and the holy name — Leviticus 22:17–33
+
+Moses receives both speeches and is to speak to Aaron, his sons, and all the children of Israel
+(17–18, 26). As in Leviticus 22:1–16, no delivery is narrated.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Holy things and the holy name — Leviticus 22:1–16
 
 Moses receives the speech for Aaron and his sons (1–3). Unlike Leviticus 21:24, this unit does
@@ -947,6 +956,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

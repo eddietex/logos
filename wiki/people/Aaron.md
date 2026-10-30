@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Acceptable victims and the holy name — Leviticus 22:17–33
+
+Aaron and his sons are addressed together with all Israel (18). The defect that barred a
+descendant of Aaron from offering the bread of his God (21:17) now bars an animal from being that
+bread (22:20, 25); the unit does not narrate Aaron acting.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Eating the holy things — Leviticus 22:1–16
 
 Aaron and his sons are told to separate themselves from the holy things while unclean (2), and
@@ -541,6 +551,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

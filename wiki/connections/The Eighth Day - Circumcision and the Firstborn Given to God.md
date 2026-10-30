@@ -20,7 +20,7 @@ tags: [connection]
   — [[Purification After Childbirth]]
 - **Leviticus 22:27** — *"When a bull, or a sheep, or a goat, is born, then it shall remain seven
   days with its mother; and from the eighth day and thenceforth it shall be accepted for the offering
-  of an offering made by fire to Yahweh."* *(not yet ingested)*
+  of an offering made by fire to Yahweh."* — [[Acceptable Victims and the Holy Name]]
 - **Luke 2:21** — *"When eight days were fulfilled for the circumcision of the child, his name was
   called Jesus"* *(not yet ingested)*
 
@@ -72,6 +72,15 @@ The preceding days and this inauguration are now ingested.
 
 Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
 and Exodus 40:34–38, checked 2026-10-29.
+
+### Every acceptable newborn — Leviticus 22:27
+
+[[Acceptable Victims and the Holy Name]] now supplies the setting of 22:27. Exodus 22:30 applied
+the seven days and the eighth to the firstborn given to God; Leviticus 22:27 applies the same
+interval to any bull, sheep, or goat offered by fire, and states it as a minimum ("from the
+eighth day and thenceforth"). Verse 28 follows with a separate rule forbidding a cow or ewe and
+its young to be killed on the same day. Neither verse states a reason. Source for this addition:
+stored WEB Leviticus 22:26–28 and Exodus 22:29–30; no new source-language claim is added.
 
 ## Significance
 

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Foreigners and acceptable offerings — Leviticus 22:17–33
+
+Foreigners in Israel may bring burnt offerings under the same no-defect rule (18), as at Leviticus
+17:8. Yet Israel must not offer "the bread of your God from the hand of a foreigner as any of these",
+because "there is a defect in them" (25). In the WEB context the stated reason is the animals'
+defect; the two verses are kept together rather than reduced to inclusion or exclusion alone.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Penalties and separation — Leviticus 20
 
 Israel must not imitate the nation being expelled and is set apart to belong to Yahweh (23–26).
@@ -133,6 +144,8 @@ promise is future, not a report of conquest completed. See [[The Covenant Renewe
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

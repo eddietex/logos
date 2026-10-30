@@ -13,6 +13,8 @@ tags: [connection]
 
 - [[Wine Is a Mocker]] — Proverbs 20:25.
 
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:21–23; vow and freewill peace offerings must be without defect, with a freewill-only exception.
+
 - **Proverbs 7:14** — [[The Young Man Void of Understanding]]: *"Sacrifices of peace offerings are
   with me. Today I have paid my vows"* (*zibḥê šəlāmîm ʿālāy hayyôm šillamtî nəḏārāy*)
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21; thanksgiving has a same-day deadline, while vow and freewill offerings permit the next day as well.
@@ -92,6 +94,17 @@ same-day deadline. It also explicitly assigns cutting off to the third-day eater
 (19:8); 7:18 names iniquity, while 7:20–21 attaches cutting off to unclean eating.
 
 See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 7:11–21; 19:5–8.
+
+### The vow victim — Leviticus 22:17–33
+
+Leviticus 22:21 requires a vow or freewill peace offering to be "perfect to be accepted", and
+22:23 allows a deformed or incomplete bull or lamb for a freewill offering "but for a vow it shall
+not be accepted." A paid vow therefore had a stricter standard for the animal than a freewill
+gift. Verses 29–30 also restate the same-day rule for thanksgiving, so the 7:15 exception that
+chapter 19 did not repeat is expressly reaffirmed. Proverbs 7:14 says nothing about the animal's
+condition; the law does not make her claim more or less credible.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 7:15–16; 22:21–23, 29–30.
 
 ## Significance
 

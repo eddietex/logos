@@ -32,6 +32,16 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Vow and freewill offerings — Leviticus 22:17–33
+
+Vow and freewill offerings share the rule of no defect (18–21), but verse 23 separates them: a
+bull or lamb with a deformity or lacking in its parts may be a freewill offering, "but for a vow it
+shall not be accepted." The text states the stricter standard for vows without giving its reason.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 False swearing by God’s name profanes that name (12). The rule prohibits false oaths; it does not
@@ -263,6 +273,8 @@ the paid-vow claim in Proverbs 7:14, not an automatic thanksgiving identificatio
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

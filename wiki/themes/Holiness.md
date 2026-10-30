@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Acceptable victims and the holy name — Leviticus 22:17–33
+
+Chapters 21–22 close with "You shall not profane my holy name, but I will be made holy among the
+children of Israel. I am Yahweh who makes you holy" (32). Holiness is something Yahweh does to
+Israel and something displayed among them; defective offerings are framed as one way it is
+profaned.
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Holy things and the holy name — Leviticus 22:1–16
 
 Holy things are what Israel makes "holy to me" (2): holiness as ownership by Yahweh. Priests
@@ -462,6 +473,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

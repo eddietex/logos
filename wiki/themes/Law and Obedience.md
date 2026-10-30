@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Keep my commandments — Leviticus 22:17–33
+
+"Therefore you shall keep my commandments, and do them. I am Yahweh" (31) summarizes the priestly
+holiness laws of chapters 21–22, grounding obedience in Yahweh's sanctifying and delivering action
+(32–33).
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Keeping the commandment of the holy things — Leviticus 22:1–16
 
 "They shall therefore follow my commandment" (9) frames the eating rules. The unwitting-eating
@@ -706,6 +716,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

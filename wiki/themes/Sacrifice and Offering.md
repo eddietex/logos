@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Acceptable victims — Leviticus 22:17–33
+
+Vow and freewill burnt offerings must be unblemished males (18–19), as at Leviticus 1:3; peace
+offerings must be "perfect" with no sex stated (21), consistent with Leviticus 3:1, 6. A deformed or
+incomplete bull or lamb may be a freewill offering but not a vow (23). Newborns are acceptable from
+the eighth day (27), a mother and young are not killed the same day (28), and thanksgiving is eaten
+the same day (29–30). An animal with a defect "shall not be acceptable for you" (20).
+
+See [[Acceptable Victims and the Holy Name]]. Source: stored WEB Leviticus 22:17–33.
+
+
+
 ### Who eats the holy things — Leviticus 22:1–16
 
 Israel's holy things and heave offering become the priest's food (2, 12), but eating them is
@@ -516,6 +528,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 
