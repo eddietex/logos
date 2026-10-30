@@ -173,6 +173,10 @@ the appointed feasts, closing the calendar.
 custody, divine ruling, and execution. The case grounds general rules about
 blasphemy, injury, and one law for foreigner and native-born.
 
+[[The Sabbatical Year and the Jubilee]] (25:1–22) joins land rest, Jubilee return, crop-based pricing,
+and promised sixth-year provision. The opening liberty proclamation is read alongside
+the specific property and service distinctions that follow.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -227,7 +231,7 @@ merge, or reorder them freely.
 - [x] [[The Feast of Booths]] — Leviticus 23:33–44
 - [x] [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9
 - [x] [[The Blasphemer and One Law for All]] — Leviticus 24:10–23
-- [ ] The Sabbatical Year and the Jubilee — Leviticus 25:1–22
+- [x] [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22
 - [ ] Redemption of Land and Houses — Leviticus 25:23–34
 - [ ] The Poor Brother and Redemption from Service — Leviticus 25:35–55
 - [ ] Blessings for Obedience — Leviticus 26:1–13

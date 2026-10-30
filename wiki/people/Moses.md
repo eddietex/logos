@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Moses receives the speech at Mount Sinai and is charged to address Israel (1–2). The unit records instruction for future settled life, not his performance of a Jubilee.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25.
+
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The accused is brought to Moses and kept in custody pending Yahweh’s decision
@@ -1002,6 +1009,9 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

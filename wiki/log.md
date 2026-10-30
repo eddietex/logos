@@ -20470,3 +20470,37 @@ no wrapped or dangling links. Verified all fourteen quoted verses against raw,
 new-title uniqueness and index membership, and frontmatter counts: 265 passages,
 198 people, 104 places, 85 themes, 575 connections. Five pages created and
 32 existing pages revised (including indexes and log); no unresolved issue.
+
+
+## [2026-10-30] ingest | Leviticus 25.1-22 — The Sabbatical Year and the Jubilee
+
+Ingested exactly the planned unit in auto mode. Created the passage and
+Provision Before Rest - Manna and the Sabbatical Year. Revised God, Moses,
+Horeb, Canaan, fifteen themes, the existing seventh-year-food and land-tenure
+connections, and Manna and Quail's reciprocal cross-reference. Updated the
+book queue, category rows, and frontmatter-based counts. Leviticus is 39 / 44.
+Two pages created and 31 existing pages revised, including indexes and log.
+
+Judgments: retained the boundary; no new person, place, or theme was needed.
+The food permission is preserved beside the harvest prohibition. The general
+liberty proclamation is qualified by the later service distinctions in 25:39–46;
+no universal debt cancellation or abolition is inferred. The seventh-year food
+promise is not made into a settled reconstruction of Jubilee cycle alignment.
+Canaan is contextual (25:38), while Sinai is explicit (25:1). The existing
+Egypt/Jubilee connection's sweeping condemnation of every element of Joseph's
+transaction is explicitly qualified against Genesis 47 and Leviticus 25.
+Its inherited Hebrew comparison is marked provisional at the claim because
+no source-language edition was verified in this pass.
+
+All 22 quoted verses were copied from stored WEB Leviticus 25. New comparisons
+use stored Exodus 16 and 23, Genesis 47, and Leviticus 23 and 25. No external
+quotation or new Hebrew/Greek assertion was added. No raw text, harness,
+workflow, or controller file changed. Later units remain un-ingested.
+
+Validation: scripts/link-check.sh passed, including both wrapped-link and
+dangling-target checks, with 59 expected unstarted-book targets. Verified
+quotation fidelity, unique new titles, connection index membership, next
+unchecked boundary, frontmatter counts, and diff whitespace. Totals are
+266 passages, 198 people, 104 places, 85 themes, and 576 connections.
+No operational blocker; the calendar alignment and inherited source-language
+comparison remain explicitly qualified interpretive limits.

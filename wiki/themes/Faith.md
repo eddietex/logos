@@ -47,6 +47,13 @@ See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The question about food (20) meets a promise of sufficient old stores (21–22). Trust is an interpretive theme of obeying this provision-dependent command; the unit does not use an explicit English faith formula or narrate Israel’s response.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 - **Genesis 6:22; 7:5** — obedience narrated without a word for it: Noah builds. Hebrews 11:7 calls it
   faith. See [[Noah and the Flood]].
 - **Genesis 12:1–4** — the command and *"So Abram went"*, with nothing said about what he thought.
@@ -183,6 +190,9 @@ in a spouse with saving faith or direct the husband to treat her as divine.
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Worthy Woman]] — Proverbs 31:11–12; A husband’s confidence rests on the woman’s trustworthy conduct.
 

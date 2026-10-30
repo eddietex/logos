@@ -27,6 +27,13 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The six-and-seven pattern governs years of cultivation; seven such cycles lead to a holy fiftieth year (1–12). Land rest permits eating its produce (6–7), so it cannot be summarized as a prohibition of all access to food.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Bread is arranged before Yahweh every Sabbath (8). This stands beside the prohibition
@@ -99,8 +106,7 @@ See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
   *"How long do you refuse to keep my commandments and my laws?"* (16:28). See [[Manna and Quail]].
 - To trace as ingestion reaches them: Deuteronomy 5:12–15 (the same commandment
   grounded instead in the exodus from Egypt — two different rationales for one command, worth
-  holding side by side), Leviticus 25 (sabbath year
-  and jubilee), Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
+  holding side by side), Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
   Hebrews 3:7–4:11 (a sabbath rest still remaining).
 
 **Before Sinai, the first rest in Israel's story is the one Pharaoh forbids.** When Moses asks for
@@ -193,6 +199,9 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

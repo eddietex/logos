@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Mount Sinai is expressly the place where Yahweh addresses Moses (1). The land’s future cultivation and rest are legislated from the mountain, not narrated as occurring there.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25.
+
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The fight, custody, and execution occur in and outside Israel’s camp (10–23). Sinai
@@ -520,6 +527,9 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

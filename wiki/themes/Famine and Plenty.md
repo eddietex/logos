@@ -29,6 +29,13 @@ foreign state.**
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The question of food during the fallow year is answered by sixth-year abundance and stored crops (20–22). This anticipates a planned interruption of production; it does not narrate a famine or prescribe Joseph’s centralization of land.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Genesis's three famines
 
 | where | who | what happens |
@@ -157,6 +164,9 @@ wisdom itself.
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[Four Things]] — Proverbs 30:22, 25; The fool filled with food; ants storing food in summer.
 

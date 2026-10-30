@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Yahweh gives the land, commands its rest and the Jubilee return, and promises the sixth-year blessing that supports obedience (2, 10, 21).
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25.
+
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 Yahweh answers the unresolved case with a sentence and general laws protecting his
@@ -2982,6 +2989,9 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

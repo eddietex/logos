@@ -20,6 +20,13 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The Jubilee trumpet sounds on the Day of Atonement (9). The date links restoration with the annual sacred calendar, but the unit supplies no additional atonement ritual and does not say the trumpet itself makes atonement.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Trumpets and atonement — Leviticus 23:23–32
 
 The calendar grounds the tenth day’s complete rest in atonement made for Israel before
@@ -258,6 +265,9 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32.
 

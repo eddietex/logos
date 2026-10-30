@@ -30,6 +30,13 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Servants, hired workers, and resident foreigners have access to the land’s food (6–7). Unlike Exodus 23:11, this list does not expressly name the poor; it widens the described beneficiaries to include the owner as well.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 Verse 22 repeats the field-corner and gleaning provision of 19:9–10 for the poor and
@@ -370,6 +377,9 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

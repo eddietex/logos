@@ -55,6 +55,13 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The prohibition of wronging a neighbor is grounded in fearing God (17). Its immediate setting is purchase and sale priced by the number of crops until Jubilee (14–16).
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Rising before the gray head and honoring an old person are joined to fearing God (32). Reverence
@@ -357,6 +364,9 @@ theme of awe, but the WEB does not explicitly call their response fear or specif
 shout. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

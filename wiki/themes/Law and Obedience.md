@@ -85,6 +85,13 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Keeping the statutes is joined to dwelling securely and eating sufficiently (18–19). The anticipated food question receives a promise of provision (20–22), not a reported act of disobedience.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The command distributes duties: Israel brings oil, Aaron tends lamps, bread is
@@ -768,6 +775,9 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

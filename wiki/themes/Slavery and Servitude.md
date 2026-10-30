@@ -36,6 +36,13 @@ with a woman it owns.
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Servants and hired workers share the land’s food (6), and Jubilee proclaims liberty and return (10). The later distinctions concerning Israelite service and foreign slaves in 25:39–46 prevent reading this opening proclamation as an unqualified abolition of every form of slavery.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The woman in 20 is enslaved, pledged to another man, and neither ransomed nor freed. Her unfree
@@ -283,6 +290,9 @@ See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

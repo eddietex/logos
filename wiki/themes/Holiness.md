@@ -87,6 +87,13 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Israel must make the fiftieth year holy (10, 12). Holiness here orders land use, return, and food rather than introducing a new sanctuary sacrifice.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The bread is most holy and must be eaten in a holy place by Aaron and his sons (9).
@@ -523,6 +530,9 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

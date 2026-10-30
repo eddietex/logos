@@ -34,6 +34,13 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Jubilee returns each person to property and family (10, 13). This scheduled restoration must be distinguished from the purchase-back procedures beginning at 25:23–34, which remain the next pericope.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Brought out to be your God — Leviticus 22:17–33
 
 The priestly holiness laws end on the exodus: "who brought you out of the land of Egypt, to be
@@ -156,6 +163,9 @@ role: the Redeemer *"will plead their case against you"*.
 See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

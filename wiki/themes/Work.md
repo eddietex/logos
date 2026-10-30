@@ -28,6 +28,13 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Sowing, pruning, and reaping are interrupted by the land Sabbath and Jubilee (3–5, 11–12). Eating is still permitted, and sowing resumes in the eighth year (22); these are specific agricultural rules, not a general ban on every human task.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Lamp tending is recurring priestly work (3–4), and arranging bread is assigned to
@@ -645,6 +652,9 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

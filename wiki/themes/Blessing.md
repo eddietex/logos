@@ -29,6 +29,13 @@ costly.
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Yahweh promises to command a sixth-year blessing sufficient for three years (21–22). This is a specific promise enabling land rest, not an unrestricted rule that every obedient person will always be wealthy.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 - **Genesis 1:22, 1:28, 2:3** — creation blessing: fruitfulness, dominion, holy rest.
 - **Genesis 3:14–19** — the first curses, aimed at the serpent and the ground, running against the
   creation blessing without cancelling it.
@@ -322,6 +329,9 @@ emerging from the tent (9:22–23). Neither blessing's words are supplied. See
 [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1–24; Aaron lifts his hands and blesses
   after the offerings; then Moses and Aaron bless together on emerging from the tent (9:22–23).

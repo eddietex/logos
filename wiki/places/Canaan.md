@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The land Yahweh will give Israel must rest and sustain its people (2–7, 18–22). Canaan is named later in this same speech (25:38); entry is anticipated here, not narrated.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25.
+
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The land Yahweh gives Israel is the anticipated place of harvest (10), identified as
@@ -153,6 +160,9 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22.
+
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

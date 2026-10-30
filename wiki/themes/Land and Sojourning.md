@@ -50,6 +50,13 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The given land must rest, and Jubilee restores property and family connection (2, 10, 13). The price of a transaction counts the crops remaining before return (15–16); the explicit ownership rationale follows at 23, outside this unit.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 After gathering the land’s produce, native-born Israelites dwell in temporary
@@ -264,6 +271,9 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

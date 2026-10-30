@@ -656,6 +656,10 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 
 ## Cross-references
 
+- [[Provision Before Rest - Manna and the Sabbatical Year]] — Exodus 16:22–30 and Leviticus 25:20–22;
+  provision before rest, with different rules for keeping food.
+
+
 - [[The Words of Agur]] — Proverbs 30:7–9 asks for food sufficient for need and neither poverty nor
   riches. Exodus 16:16–21 supplies a narrative comparison for sufficiency without establishing a
   direct allusion. See [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]] .

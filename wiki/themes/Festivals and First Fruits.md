@@ -12,6 +12,13 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+Seven Sabbaths of years and a fiftieth year (8–10) extend the calendar’s counting patterns. Compare the seven Sabbaths and fifty days of 23:15–16: the structures resemble one another, but their units and prescribed acts differ.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 The seventh month’s fifteenth day begins seven days of harvest celebration, with
@@ -117,6 +124,9 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22, now ingested.
+
 - **Genesis 47:18–23** — every field in Egypt sold to the crown, the sellers left as tenants —
   [[Joseph and the Famine]]
 - **Leviticus 25:23** — *"The land shall not be sold in perpetuity, for the land is mine; for you are
@@ -26,6 +28,21 @@ tags: [connection]
 - Compare **Isaiah 5:8**; **Micah 2:1–2** — the prophets on field added to field
 
 ## Analysis
+
+### Qualification from Leviticus 25:1–22
+
+The older formulation below that every element of Joseph's transaction is forbidden is
+**too broad**. Genesis 47:18–26 reports crown ownership with a priestly exception;
+Leviticus 25:13–16 permits transactions but prices the remaining crops before return.
+These are contrasting arrangements, not an explicit verdict on Joseph in Leviticus.
+The rhetorical claim below is retained as the earlier interpretation and is qualified
+by these passages. Likewise, the later laws preserve distinctions among houses and
+kinds of service (25:29–34, 39–46); Jubilee cannot mean that every person receives a
+field or that every form of servitude ends.
+
+See [[The Sabbatical Year and the Jubilee]]. Sources for this qualification: stored WEB
+Genesis 47:18–26 and Leviticus 25. The chapter's later units remain un-ingested.
+
 
 **Genesis 47:20 and Leviticus 25:23 are the same transaction, one performed and one prohibited.**
 
@@ -54,6 +71,9 @@ words, the condition Genesis 47 reduced Egypt to**, and the ground for the prohi
 took them out of the country where it happened.
 
 ### *"Strangers and foreigners with me"*
+
+The following Hebrew comparison is inherited analysis, not reverified against a
+source-language edition in this pass; its exact wording remains provisional.
 
 ***Gērîm wətôšābîm*** (Leviticus 25:23) **is the patriarchs' own self-description** — *"I am a
 stranger and a foreigner living with you"*, Abraham to the Hittites, buying the cave (Genesis 23:4),

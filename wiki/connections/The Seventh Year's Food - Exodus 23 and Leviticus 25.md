@@ -10,7 +10,7 @@ tags: [connection]
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:10–12.
 - [[The Ten Commandments]] — Exodus 20:8–11, the household's seventh-day rest.
 - [[The Altar and the Hebrew Slave]] — Exodus 21:2, a similar six-and-seven service pattern.
-- Leviticus 25:1–7 — Sabbath for the land and its produce as food; verified WEB, not yet ingested.
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, food, Jubilee, and provision.
 
 ## Analysis
 
@@ -37,6 +37,13 @@ That would require comparison with additional legislation.
 
 **Sources:** Exodus ranges checked in existing raw WEB. Leviticus 25:1–7 verified from bible-api.com
 (`translation=web`) on 2026-10-23. No source-language equivalence is claimed.
+
+The now-ingested unit continues through Jubilee return and crop-year pricing (8–17),
+then answers the food question with sixth-year provision (20–22). The land Sabbath
+is thus accompanied by an explicit promise, not merely a demand to stop production.
+See [[Provision Before Rest - Manna and the Sabbatical Year]].
+
+Source update: Leviticus 25:1–22 and Exodus 23:10–12 checked in stored WEB, 2026-10-30.
 
 ## Significance
 

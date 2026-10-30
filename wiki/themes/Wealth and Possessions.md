@@ -38,6 +38,13 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Land rest and Jubilee — Leviticus 25:1–22
+
+The buyer pays for the number of crop years remaining (15–16), while property returns at Jubilee (13). Law constrains exchange without prohibiting exchange altogether.
+
+See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1–22; contextual verses as cited.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Field and vineyard owners must leave produce for the poor and foreigner (9–10), and employers must
@@ -666,6 +673,9 @@ figures do not contradict the refusal to price love.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
+
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 
