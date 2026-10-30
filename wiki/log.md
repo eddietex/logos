@@ -20228,3 +20228,30 @@ were copied from raw text. No raw file was changed or new outside-book quotation
 prior documented source-language findings in the existing connection were retained, with
 no new lexical claim. Link checks passed with 59 expected not-yet-started book targets;
 no wrapped links or unexpected dangling targets. No unresolved ingest blocker.
+
+## [2026-10-29] ingest | Leviticus 22.1-16 — Eating the Holy Things
+
+Ingested [[Eating the Holy Things]] in unattended mode, keeping the planned 22:1–16 boundary
+(verse 17 opens a new speech on acceptable victims). Discussion is recorded in the passage:
+uncleanness suspending a priest's holy food until evening and bathing, the priestly table
+defined by household (bought and house-born slaves eat; hired servant, resident foreigner, and
+outsider do not), the priest's daughter leaving and returning, and the added fifth for unwitting
+eating. The defect rules of chapter 21 and the uncleanness rules here are kept distinct.
+
+Created 1 passage; revised 19 existing content pages (Leviticus, 3 people, 1 place, 12 themes,
+and 2 connections), 7 indexes/dashboards, and this log: 1 created, 27 revised wiki pages in
+total. Leviticus is now 31/44 pericopes; progress counted by frontmatter is 258 passages,
+195 people, 104 places, 85 themes, and 573 connections.
+
+Judgment calls: [[The Poor and the Vulnerable]] and [[Slavery and Servitude]] were added for
+22:10–13; no new person, place, or connection page was needed. Extended
+[[Who May Eat the Holy Portions - Leviticus 6 and 7]] with the household table, reading 22:12–13
+as narrowing 10:14 rather than contradicting it, and leaving open which grade of holy food 22:10–13
+covers. Extended [[Restitution to the Neighbor and for Holy Things]] with 22:14; the absence of
+the ram of 5:15 is flagged as unresolved, not harmonized. The ambiguous antecedents of 22:16 and
+the sense of "stranger" are read from WEB context only, with no Hebrew claim.
+
+Source: stored WEB Leviticus 22:1–16, with comparisons in 5:15–16, 6:29, 7:6, 7:20–21, 7:38,
+10:14, 19:9–10, and 21:22–23. Key quotations were copied from raw text; no raw file was changed,
+no outside-book quotation or source-language claim was added. Link checks passed with 59 expected
+not-yet-started book targets and no findings; no unresolved ingest blocker.

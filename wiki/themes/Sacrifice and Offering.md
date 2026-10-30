@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Who eats the holy things — Leviticus 22:1–16
+
+Israel's holy things and heave offering become the priest's food (2, 12), but eating them is
+governed by the eater's condition and household membership (4–13). Unwitting eating is repaid
+with a fifth added (14).
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Priests offer the bread of God and offerings made by fire (6, 8, 21). A descendant with a defect
@@ -507,6 +516,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

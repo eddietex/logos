@@ -12,6 +12,7 @@ tags: [connection]
 
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20.
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 ## Analysis
 
@@ -51,6 +52,24 @@ is not. Leviticus 10:16–20 then shows the sin-offering rule enforced; see
 [[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]].
 
 Source: stored WEB Leviticus 6:29; 7:6, 31–34; 10:12–20.
+
+### The priest's household and the unclean eater — Leviticus 22:1–16
+
+Leviticus 22:4–7 applies to priests the rule 7:20–21 set for peace-offering eaters: an unclean
+descendant of Aaron may not eat the holy things until he is clean, and the lesser cases end at
+sunset after bathing. Verses 10–13 then define the priestly table by household. A slave the
+priest has bought and those born in his house eat; a stranger, a foreigner living with the
+priests, and a hired servant do not. A daughter married to an outsider may not eat the heave
+offering, but a childless widowed or divorced daughter returned to her father's house may.
+
+**This narrows 10:14 rather than contradicting it.** Leviticus 10:14 includes Aaron's daughters
+at the breast and thigh; 22:12–13 says marriage outside the priestly household ends that
+eligibility and specifies when it returns. Neither chapter extends the most holy portions
+reserved for "every male among the priests" (6:29; 7:6) to slaves or daughters, and 22:10–13
+does not say which grade of holy food it covers beyond "the holy thing" and "the heave offering".
+That gap is left open.
+
+Source: stored WEB Leviticus 6:29; 7:6, 20–21; 10:14; 22:1–16.
 
 ## Significance
 

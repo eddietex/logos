@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Holy things and the holy name — Leviticus 22:1–16
+
+Yahweh speaks the instruction and grounds it in his name and sanctifying action: "I am Yahweh"
+(2, 3, 8) and "I am Yahweh who sanctifies them" (9, 16). What Israel makes holy is holy to him,
+so a priest's careless eating profanes his holy name (2).
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Yahweh grounds priestly obligations in his holiness and sanctifying action (6–8, 15, 23). He
@@ -2916,6 +2925,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

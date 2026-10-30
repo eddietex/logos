@@ -23,7 +23,7 @@ canonical order below. Edit this list to reprioritize.
 
 - [x] [[Genesis]] — complete (59 / 59 pericopes)
 - [x] [[Exodus]] — complete (53 / 53 pericopes)
-- [ ] [[Leviticus]] — in-progress (30 / 44 pericopes)
+- [ ] [[Leviticus]] — in-progress (31 / 44 pericopes)
 - [ ] [[Numbers]] — not-started
 - [ ] [[Deuteronomy]] — not-started
 

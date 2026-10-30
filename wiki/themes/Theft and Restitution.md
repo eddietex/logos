@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Unwitting eating of holy things — Leviticus 22:14
+
+A man who eats something holy unwittingly adds a fifth of its value and gives the holy thing to
+the priest (14), as Leviticus 5:16 requires for unwitting wrong in holy things. Verse 14 does not
+mention the ram of 5:15; whether it is assumed is left unresolved here.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 Taking what belongs to someone else, and what is owed for it afterward. The Hebrew verb is
 ***gānab***, *to steal*. It is the verb of the commandment *"You shall not steal"* (Exodus 20:15;
 *lōʾ tignōb*, Hebrew 20:13), and its nouns name the *thief* (*gannāb*) and the *theft* (*gənēbâ*)
@@ -158,6 +167,8 @@ provisions; neither expressly explains how the penalties interact in an overlapp
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

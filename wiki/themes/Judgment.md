@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Cut off from before me — Leviticus 22:3, 9
+
+A descendant of Aaron who approaches the holy things unclean is cut off "from before me" (3), and
+profanation risks death (9). Both are divine sanctions; no human enforcement is assigned here.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Leviticus 21:9 prescribes burning for a priest’s daughter who prostitutes herself. The chapter
@@ -573,6 +581,8 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

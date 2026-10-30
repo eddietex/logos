@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Eating the holy things — Leviticus 22:1–16
+
+Aaron and his sons are told to separate themselves from the holy things while unclean (2), and
+"the offspring of Aaron" are the subjects of the eating rules (3–4). The priest's portion, "his
+bread" (7), feeds his household — bought and house-born slaves and a returned childless daughter —
+but not a hired servant or an outsider (10–13).
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Aaron is named as the ancestor of the priestly line and recipient of the bodily-eligibility
@@ -531,6 +541,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

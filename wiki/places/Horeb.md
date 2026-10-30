@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Eating the holy things — Leviticus 22:1–16
+
+The Sinai setting is supplied by the book's context (Leviticus 7:38); Leviticus 22:1–16 names no
+place. Its spaces are the holy things and the priest's household, the "father's house" to which a
+daughter may return (13).
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 The Sinai setting is supplied by the book’s context (Leviticus 7:38), not a mountain named in
@@ -455,6 +464,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

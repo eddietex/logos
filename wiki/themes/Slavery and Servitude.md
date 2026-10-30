@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The slave at the priest’s table — Leviticus 22:10–11
+
+A slave "purchased by his money" and those "born in his house" eat the priest's holy food, while a
+foreigner living with the priests and a hired servant do not (10–11). Household membership, not
+free status, is the stated criterion; the text does not comment on the institution itself.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 One person owned by another, and the Bible's long, uneven, unfinished reckoning with the fact that
 its own world ran on it.
 
@@ -274,6 +283,8 @@ See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

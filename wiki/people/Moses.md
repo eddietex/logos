@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Holy things and the holy name — Leviticus 22:1–16
+
+Moses receives the speech for Aaron and his sons (1–3). Unlike Leviticus 21:24, this unit does
+not narrate its delivery.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Moses receives two speeches, one for the priests and one addressed through him to Aaron (1,
@@ -939,6 +947,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

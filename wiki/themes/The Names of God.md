@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### My holy name — Leviticus 22:1–16
+
+Priestly carelessness with holy things profanes "my holy name" (2), and the refrain "I am Yahweh
+who sanctifies them" (9, 16) names him by what he does to his priests.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Priests must not profane the name of their God because they present his offerings (6). Yahweh
@@ -197,6 +205,8 @@ explicitly made in Proverbs.
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

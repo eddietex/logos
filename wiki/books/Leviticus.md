@@ -141,6 +141,10 @@ Leviticus 21 distinguishes ordinary priests from the high priest in mourning and
 and restricts bodily eligibility for altar service while retaining holy-food entitlement.
 See [[The Holiness of the Priests]].
 
+Leviticus 22:1–16 suspends a priest's holy food while he is unclean and defines the priestly
+table by household: bought and house-born slaves and a returned childless daughter eat, a hired
+servant does not. See [[Eating the Holy Things]].
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -187,7 +191,7 @@ merge, or reorder them freely.
 - [x] [[Holy Living in Field and Community]] — Leviticus 19:19–37
 - [x] [[Penalties and a People Set Apart]] — Leviticus 20:1–27
 - [x] [[The Holiness of the Priests]] — Leviticus 21:1–24
-- [ ] Eating the Holy Things — Leviticus 22:1–16
+- [x] [[Eating the Holy Things]] — Leviticus 22:1–16
 - [ ] Acceptable Victims and the Holy Name — Leviticus 22:17–33
 - [ ] Sabbath, Passover, and Unleavened Bread — Leviticus 23:1–8
 - [ ] First Fruits and the Feast of Weeks — Leviticus 23:9–22

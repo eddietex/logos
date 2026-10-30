@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The priest’s household table — Leviticus 22:1–16
+
+The priest's portion is "his bread" (7), and it feeds a household: bought and house-born slaves
+and a returned childless daughter eat; a stranger, a resident foreigner, a hired servant, and a
+daughter married to an outsider do not (10–13). Uncleanness suspends a priest's own eating until
+evening and bathing (4–7), and priests must not make Israel bear guilt through the holy things
+(15–16).
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Ordinary priests may incur corpse defilement for specified close relatives (1–3), but the high
@@ -395,6 +406,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

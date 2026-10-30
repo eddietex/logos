@@ -11,6 +11,7 @@ tags: [connection]
 - [[The Trespass Offering for Holy Things and Unknown Guilt]] — Leviticus 5:14–19.
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
+- [[Eating the Holy Things]] — Leviticus 22:14.
 
 ## Analysis
 
@@ -49,6 +50,15 @@ Exodus 22:10–11 accepts an oath concerning entrusted goods where there is no w
 Leviticus 6:3, 5 addresses false swearing about goods: the oath can itself become part
 of the wrong. That is a legal comparison, not an assertion that the second passage
 narrates an actual violation of the first.
+
+### Unwitting eating of holy things — Leviticus 22:14
+
+A man who eats something holy unwittingly adds a fifth of its value and gives the holy thing to
+the priest. The fifth matches Leviticus 5:16, but 22:14 does not mention the ram of 5:15 or
+priestly atonement. **Unresolved:** the text neither says the ram is assumed nor that it is
+waived, and this comparison does not decide between them.
+
+Source: stored WEB Leviticus 5:15–16; 22:14.
 
 ## Significance
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Holy things and the holy name — Leviticus 22:1–16
+
+Holy things are what Israel makes "holy to me" (2): holiness as ownership by Yahweh. Priests
+must separate themselves from them while unclean, because profaning the holy things profanes "my
+holy name" (2); Yahweh is the one "who sanctifies them" (9, 16).
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Yahweh’s holiness and sanctifying action ground priestly conduct and sanctuary boundaries (6–8,
@@ -453,6 +462,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

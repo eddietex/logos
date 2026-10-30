@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Death and the holy food — Leviticus 22:1–16
+
+Corpse contact and carcasses defile the priest (4, 8), and a priest who profanes the commandment
+may "die therein" (9). The death language is a warning attached to the commandment, not a
+narrated execution.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Death affects priestly access through corpse defilement and differentiated kinship exceptions
@@ -638,6 +647,8 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The returned daughter — Leviticus 22:13
+
+A childless widowed or divorced priest's daughter who returns home is fed from the holy things
+(13). Unlike the gleanings of Leviticus 19:9–10, the provision runs through one household rather
+than to the poor at large.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 **The alien, the widow, the fatherless, and the poor are the people with no one to protect
 them.** The *gēr* (alien) has no land or kin in the place where he lives; the *ʾalmānâ* (widow) and
 the *yātôm* (fatherless child) have lost the man whose household protected them; the *ʿānî* (poor)
@@ -352,6 +361,8 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

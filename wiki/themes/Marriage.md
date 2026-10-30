@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A priest’s daughter and the holy food — Leviticus 22:12–13
+
+A priest's daughter married to an outsider may not eat the heave offering; if widowed or divorced,
+childless, and returned to her father's house "as in her youth", she may eat her father's bread
+(12–13). Marriage moves a woman's household belonging; its end can restore it. The text leaves
+unaddressed a returned daughter who has a child.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Verse 7 prohibits priests from marrying a prostitute, a profane woman, or a divorced woman. The
@@ -355,6 +365,8 @@ marriage procedure. The identities and chronology remain open.
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

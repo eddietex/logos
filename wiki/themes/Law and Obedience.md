@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Keeping the commandment of the holy things — Leviticus 22:1–16
+
+"They shall therefore follow my commandment" (9) frames the eating rules. The unwitting-eating
+case (14) distinguishes ignorance from defiance without excusing the loss.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 The instructions distinguish ordinary priests, the high priest, and descendants barred from
@@ -698,6 +706,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

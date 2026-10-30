@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Uncleanness and the holy food — Leviticus 22:1–16
+
+The conditions of Leviticus 11–15 return as bars to eating holy food: skin disease, discharge,
+corpse-contact, an emission of seed, creeping things, unclean persons (4–5). The lesser cases end
+at sunset after bathing (6–7). Approaching holy things unclean brings cutting off (3), yet the
+uncleanness itself is not called sin; unlike the defects of 21:17–23, it suspends eating rather
+than service.
+
+See [[Eating the Holy Things]]. Source: stored WEB Leviticus 22:1–16.
+
+
 ### Priestly holiness — Leviticus 21
 
 Corpse defilement has a limited close-kin exception for ordinary priests (1–3) and none for the
@@ -387,6 +398,8 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Eating the Holy Things]] — Leviticus 22:1–16.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 
