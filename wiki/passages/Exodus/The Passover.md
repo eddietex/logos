@@ -451,6 +451,9 @@ land.** The wiki records both and adopts neither.
 
 ## Cross-references
 
+- [[Passover and Unleavened Bread - Exodus 12 and Leviticus 23]] — [[Sabbath, Passover, and Unleavened Bread]] gives the later calendar formulation.
+
+
 - Exodus 23:14–19 — [[Justice, Sabbaths, and Feasts]] and [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] carry the memorial into the annual calendar.
 - Genesis 1:14 — the lights *"for signs, and for seasons"* — [[The Creation of the World]]
 - Genesis 6:9; 17:1 — *tāmîm* of Noah and Abram

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+Yahweh calls the appointed feasts his own (2, 4). Sabbath, Passover, and Unleavened Bread
+are directed to him; the community proclaims sacred times it receives rather than invents.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Acceptable victims and the holy name — Leviticus 22:17–33
 
 Yahweh speaks both speeches (17, 26), and acceptance is acceptance by him (19–21, 27, 29). The
@@ -2935,6 +2943,9 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Owns the appointed feasts and commands their observance.
+
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

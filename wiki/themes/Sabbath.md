@@ -27,6 +27,16 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+The weekly seventh day is both solemn rest and a holy convocation throughout the dwellings
+(3). The annual calendar follows a repeated introduction (4). The WEB distinguishes the
+Sabbath’s prohibition of any kind of work from the festival days’ prohibition of regular work
+(7–8); the unit gives no new creation rationale.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Keeping Yahweh’s Sabbaths is paired with reverence for his sanctuary (30). Sacred time and sacred
@@ -149,6 +159,9 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Weekly holy convocation distinguished from annual assembly days.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

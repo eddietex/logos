@@ -28,6 +28,16 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+The WEB prohibits any kind of work on the weekly Sabbath (3), but regular work on the
+first and seventh days of Unleavened Bread (7–8). Exodus 12:16 expressly allows food
+preparation on festival assembly days. Leviticus does not repeat that exception; its
+silence should not become an asserted repeal.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 The harvest includes provision for others (9–10), and a hired worker’s wages must not remain
@@ -602,6 +612,9 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Weekly and festival work prohibitions retain distinct wording.
+
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

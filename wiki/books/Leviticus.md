@@ -150,6 +150,9 @@ without defect, with a freewill-only exception, plus eighth-day, mother-and-youn
 thanksgiving rules. The close names Yahweh as the one who makes Israel holy.
 See [[Acceptable Victims and the Holy Name]].
 
+[[Sabbath, Passover, and Unleavened Bread]] (23:1–8) opens the calendar with weekly rest,
+Passover, and the seven-day feast, distinguishing their assembly and work requirements.
+
 ## Structure
 
 - 1–7: offerings and priestly handling of them.
@@ -198,7 +201,7 @@ merge, or reorder them freely.
 - [x] [[The Holiness of the Priests]] — Leviticus 21:1–24
 - [x] [[Eating the Holy Things]] — Leviticus 22:1–16
 - [x] [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33
-- [ ] Sabbath, Passover, and Unleavened Bread — Leviticus 23:1–8
+- [x] [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8
 - [ ] First Fruits and the Feast of Weeks — Leviticus 23:9–22
 - [ ] Trumpets and the Day of Atonement — Leviticus 23:23–32
 - [ ] The Feast of Booths — Leviticus 23:33–44

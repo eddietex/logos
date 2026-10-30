@@ -20291,3 +20291,28 @@ Source: stored WEB Leviticus 22:17–33, with comparisons in Leviticus 1:3; 3:1,
 was changed, and no outside-book quotation or source-language claim was added.
 Link checks passed with 59 expected not-yet-started book targets and no findings; no unresolved
 ingest blocker.
+
+## [2026-10-30] ingest | Leviticus 23.1-8 — Sabbath, Passover, and Unleavened Bread
+
+Ingested [[Sabbath, Passover, and Unleavened Bread]] in unattended mode; retained the planned
+1–8 boundary, ending before the new speech at verse 9. The passage includes the full stored WEB
+unit and the discussion of weekly rest, annual dates, assemblies, and seven days of offerings.
+
+Created the passage and [[Passover and Unleavened Bread - Exodus 12 and Leviticus 23]]. Revised
+[[Creation as the Ground of the Sabbath Command]] and added the reciprocal reference on
+[[The Passover]]. Updated [[God]], [[Moses]], [[Horeb]], [[Sabbath]], [[Festivals and First Fruits]],
+[[Work]], [[Holiness]], [[Law and Obedience]], and [[Sacrifice and Offering]], with synthesis and
+passage lists, plus their index rows. Israel remains the collective audience; unnamed dwellings
+need no separate place page. Sinai is contextual, not named in these eight verses.
+
+Preserved the different WEB work restrictions and Exodus 12:16's explicit food-preparation
+exception; Leviticus's silence is not treated as its repeal. No new contradiction was found.
+All quotations were taken from raw WEB Leviticus; the Exodus 12 comparison was checked against
+raw WEB Exodus. No raw text was changed, no external quotation was introduced, and no new
+Greek or Hebrew claim was made.
+
+Two pages created and twenty existing pages revised, including indexes and this log.
+Leviticus is now 33/44 pericopes; totals counted by frontmatter type are 260 passages,
+195 people, 104 places, 85 themes, and 574 connections. Seven books started, six complete.
+`scripts/link-check.sh` passed: no wrapped links or unexpected dangling targets; 59 unstarted
+book pages remain the expected baseline. No unresolved issue or harness change.

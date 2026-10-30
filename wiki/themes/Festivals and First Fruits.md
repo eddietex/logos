@@ -12,6 +12,16 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+Passover is dated to the first month’s fourteenth evening, with Unleavened Bread beginning
+on the fifteenth for seven days (5–6). First and seventh days have assemblies and work
+restrictions, and all seven have fire offerings (7–8). The earlier departure narrative
+is assumed rather than retold. See [[Passover and Unleavened Bread - Exodus 12 and Leviticus 23]].
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 New fruit trees have three years of forbidden fruit, a fourth year holy for praise, and a fifth
@@ -82,6 +92,9 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Passover and Unleavened Bread dated; assemblies and seven days of offerings.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

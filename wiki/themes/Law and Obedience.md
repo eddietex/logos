@@ -76,6 +76,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+Israel is to proclaim Yahweh’s appointed times in their season (2, 4), and to keep
+the prescribed rest, assemblies, unleavened bread, and offerings. Proclamation is a
+community obligation within the received calendar, not permission to invent its dates.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Keeping the statutes opens and closes this unit (19, 37). Its diverse commands address fields,
@@ -716,6 +725,9 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Calendar proclamation and observance commanded together.
+
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

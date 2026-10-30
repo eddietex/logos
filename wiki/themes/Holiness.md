@@ -79,6 +79,15 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+The calendar describes holy convocations for the Sabbath and the first and seventh days
+of Unleavened Bread (3, 7–8). Holiness thus orders communal time as well as the priests,
+food, and offerings regulated in chapters 21–22.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Distinct kinds in breeding, sowing, and clothing (19), holy fourth-year fruit (23–25), and
@@ -473,6 +482,9 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Holiness expressed in appointed communal assemblies.
+
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

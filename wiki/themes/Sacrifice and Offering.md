@@ -77,6 +77,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+Offerings made by fire are commanded for all seven days of Unleavened Bread (8).
+This calendar notice does not identify their animals, quantities, or officiants. It
+should not be expanded into a detailed ritual by importing information silently.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The man in the slave-woman case brings a ram as a trespass offering to the Tent of Meeting
@@ -528,6 +537,9 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Seven days of fire offerings, without an inventory here.
+
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

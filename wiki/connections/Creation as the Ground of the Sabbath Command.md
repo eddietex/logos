@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8.
+
+
 - [[The Freewill Offering]] — Exodus 35:1–29; the public summons, Sabbath, and willing gifts.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28.
@@ -24,6 +27,14 @@ tags: [connection]
 - [[The Work Completed]] — Exodus 39:32–43; Completion and blessing evoke creation without a new rest command.
 
 ## Analysis
+
+### The weekly rhythm in the calendar — Leviticus 23:1–8
+
+[[Sabbath, Passover, and Unleavened Bread]] retains six days of work and seventh-day rest (3),
+calling the Sabbath a holy convocation in all dwellings. Unlike Exodus 20:11, this verse
+supplies no explicit creation rationale. The festival introduction resumes in verse 4;
+the weekly rhythm is not collapsed into the annual dates. Source: stored WEB Leviticus 23.
+
 
 Exodus 20:11 expressly grounds the command in God's making of heaven, earth, sea, and their contents
 in six days, followed by rest on the seventh. Genesis 2:2–3 gives the narrative pattern: God

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sabbath and the opening feasts — Leviticus 23:1–8
+
+Moses receives the command to speak to the children of Israel (1–2). The instruction
+addresses the community, not only Aaron and his sons; delivery is not narrated in verses 1–8.
+
+See [[Sabbath, Passover, and Unleavened Bread]]. Source: stored WEB Leviticus 23:1–8; Exodus 12:16 where cited.
+
+
 ### Acceptable victims and the holy name — Leviticus 22:17–33
 
 Moses receives both speeches and is to speak to Aaron, his sons, and all the children of Israel
@@ -956,6 +964,9 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8; Receives the calendar speech for Israel.
+
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 
