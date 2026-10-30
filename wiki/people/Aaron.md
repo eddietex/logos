@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Aaron tends the lamps outside the veil from evening to morning (3–4). The weekly
+bread belongs to him and his sons for eating in a holy place (9); service and provision
+are joined without making the holy portion ordinary food.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Acceptable victims and the holy name — Leviticus 22:17–33
 
 Aaron and his sons are addressed together with all Israel (18). The defect that barred a
@@ -551,6 +559,8 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:17–33.
 

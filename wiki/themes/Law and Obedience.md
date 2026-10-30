@@ -76,6 +76,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The command distributes duties: Israel brings oil, Aaron tends lamps, bread is
+renewed weekly, and priests eat it in a holy place (2–9). Lasting statutes govern
+ordinary repetition as well as exceptional ceremonies.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 The seven-day annual feast is a perpetual statute throughout Israel’s generations
@@ -751,6 +759,8 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

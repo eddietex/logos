@@ -77,6 +77,14 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Frankincense serves as the bread’s memorial fire offering (7), while the bread itself
+is assigned for priestly eating (9). The fire-offering classification therefore does
+not mean that all twelve cakes are burned.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Seven days and the eighth-day assembly require fire offerings (36). The calendar
@@ -565,6 +573,8 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

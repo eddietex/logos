@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The bread is assigned to Aaron and his sons (9). Eleazar is included as a surviving
+son identified in Leviticus 10:12, not individually named in 24:1–9. This adds a
+specific most holy food to the priestly family’s provision.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 **[[Aaron]]'s third son, and his successor.** His name means *God has helped*.
 
 > **25** Eleazar Aaron's son took one of the daughters of Putiel as his wife; and she bore him
@@ -179,6 +187,8 @@ Called one of Aaron's sons "who were left" (12, 16), Eleazar receives the priest
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Rebuked with Ithamar over the burned goat.
 

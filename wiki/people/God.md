@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Yahweh commands light and bread before him, providing an enduring pattern of service
+and a most holy portion for the priests (1–9).
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Yahweh commands rejoicing before him and identifies himself as the one who brought
@@ -2967,6 +2974,8 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

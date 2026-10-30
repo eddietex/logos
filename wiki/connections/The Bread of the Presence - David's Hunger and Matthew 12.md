@@ -11,9 +11,8 @@ tags: [connection]
 
 - **Exodus 25:30** — *"You shall set bread of the presence on the table before me always"* —
   [[The Ark, the Table, and the Lampstand]]
-- **Leviticus 24:5–9** — *"twelve cakes"* in *"two rows, six on a row, on the pure gold table before
-  Yahweh"*, set out *"Every Sabbath day"*, eaten by *"Aaron and his sons … in a holy place"* *(not yet
-  ingested)*
+- **Leviticus 24:5–9** — twelve cakes, weekly renewal, and priestly eating —
+  [[The Lamps and the Bread Before Yahweh]].
 - **1 Samuel 21:1–6** — at Nob, Ahimelech the priest gives David *"holy bread; for there was no bread
   there but the show bread that was taken from before Yahweh"* *(not yet ingested)*
 - **Matthew 12:3–8** (compare Mark 2:25–26) — *"Haven't you read what David did, when he was hungry …
@@ -26,6 +25,21 @@ tags: [connection]
 2026-10-23.)
 
 ## Analysis
+
+### The weekly service now ingested — Leviticus 24:1–9
+
+[[The Lamps and the Bread Before Yahweh]] places the bread beside the lamps. Verse 7 assigns
+frankincense as the bread’s memorial fire offering; verse 9 assigns the bread for
+priestly eating in a holy place. The fire-offering language does not cancel that meal.
+Verse 8 calls the weekly arrangement an everlasting covenant on Israel’s behalf;
+representation by twelve cakes is plausible but not explicitly explained as one cake
+per tribe. The later tension between restricted eating and David’s reception of bread,
+already recorded below, remains explicit rather than retroactively removed.
+
+Source for this addition: stored WEB Leviticus 24:1–9, checked 2026-10-30. Earlier
+external quotations and edition identifications below retain their original source
+notes; no new source-language claim or external quotation is added here.
+
 
 **Exodus names the bread and says almost nothing else.** ***Leḥem pānîm ləpānay tāmîd*** — *bread of
 face, before my face, always* (25:30; MAM). The bread is named for where it is: in God's presence. It is

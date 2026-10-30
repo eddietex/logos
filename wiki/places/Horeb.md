@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The Tent of Meeting is explicitly named (3); Sinai is the book’s contextual setting
+(7:38), not a geographical name supplied in this unit. The recurring service belongs
+to the sanctuary, without a new journey or location being narrated.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 The Sinai setting belongs to the book’s frame (Leviticus 7:38); no mountain is
@@ -504,6 +512,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

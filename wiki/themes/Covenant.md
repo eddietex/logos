@@ -66,6 +66,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The weekly arrangement of bread is called an everlasting covenant on Israel’s behalf
+(8). Covenant here takes the form of recurring sanctuary provision, not a newly
+narrated oath ceremony or a grant of land.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 - **Genesis 6:18** — the word's first occurrence, announced to Noah before the flood. See
   [[Noah and the Flood]].
 - **Genesis 8:21–22** — the resolve that precedes the covenant, and is not one. God undertakes
@@ -317,6 +325,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Meal Offering]] — Leviticus 2:1–16.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Moses receives the command and must direct Israel to supply oil (1–2). The speech
+orders ongoing sanctuary practice; it does not narrate Moses performing it.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Moses receives the speech (33–34) and declares the appointed feasts to Israel (44).
@@ -987,6 +994,8 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

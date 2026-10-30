@@ -40,6 +40,14 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The lamps stand outside the veil in the Tent of Meeting (3), while bread is arranged
+before Yahweh on the gold table (6). Divine dwelling calls for recurring care, not
+only the construction of furniture; holy bread then sustains the priestly family.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Field and community — Leviticus 19:19–37
 
 The trespass offering is brought to the Tent of Meeting’s door (21), and reverence for the
@@ -361,6 +369,8 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

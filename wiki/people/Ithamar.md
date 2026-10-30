@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The bread belongs to Aaron and his sons for eating in a holy place (9). Ithamar is
+included contextually as a surviving son (10:12), not named here; the instruction
+adds weekly bread to the family’s holy portions.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 **[[Aaron]]'s youngest son.**
 
 > **23** … and she bore him Nadab and Abihu, Eleazar and Ithamar. (Exodus 6:23)
@@ -178,6 +186,8 @@ Named with Eleazar among the sons "who were left" (12, 16), Ithamar receives the
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Rebuked with Eleazar over the burned goat.
 

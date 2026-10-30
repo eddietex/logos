@@ -65,6 +65,14 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Aaron tends the lamps and Aaron with his sons receives the bread (3–4, 9). Priestly
+service includes maintaining furnishings and eating assigned holy food, alongside
+the slaughter and blood rites treated earlier.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### First fruits and harvest provision — Leviticus 23:9–22
 
 The unnamed priest waves the sheaf for the people's acceptance (11), then waves the
@@ -425,6 +433,8 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22.
 

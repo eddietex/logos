@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Lamps and the Bread Before Yahweh]] (24:1–9) joins nightly lamp tending with Sabbath renewal of twelve
+cakes before Yahweh. The bread is covenant provision on Israel’s behalf and most holy
+food for Aaron and his sons.
+
 Leviticus continues the sanctuary narrative of [[Exodus]] with Yahweh speaking to
 [[Moses]] from the Tent of Meeting. It orders Israel’s approach through offerings and
 priestly service, distinguishes clean and unclean, and extends holiness into households,
@@ -217,7 +221,7 @@ merge, or reorder them freely.
 - [x] [[First Fruits and the Feast of Weeks]] — Leviticus 23:9–22
 - [x] [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32
 - [x] [[The Feast of Booths]] — Leviticus 23:33–44
-- [ ] The Lamps and the Bread Before Yahweh — Leviticus 24:1–9
+- [x] [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9
 - [ ] The Blasphemer and One Law for All — Leviticus 24:10–23
 - [ ] The Sabbatical Year and the Jubilee — Leviticus 25:1–22
 - [ ] Redemption of Land and Houses — Leviticus 25:23–34
@@ -227,6 +231,10 @@ merge, or reorder them freely.
 - [ ] Vows, Valuations, and Devoted Things — Leviticus 27:1–34
 
 ## Key themes
+
+- [[Light and Darkness]]
+
+- [[Covenant]]
 
 - [[Joy and Enjoyment]]
 

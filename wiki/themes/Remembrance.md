@@ -63,6 +63,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Pure frankincense accompanies each row as the bread’s memorial offering (7). This
+is a ritual memorial before Yahweh, distinct from the explicit teaching of later
+generations in the preceding feast of shelters (23:43); neither sense erases the other.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Seven days in temporary shelters teach later generations what Yahweh did at the
@@ -366,6 +374,8 @@ The handful of flour and oil, with all its frankincense, is burned as a memorial
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

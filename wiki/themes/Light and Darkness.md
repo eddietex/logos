@@ -33,6 +33,14 @@ hardest.
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The lamp is practical sanctuary light maintained with pure beaten olive oil (2–4).
+Its continual service has an explicit nightly schedule. The unit does not itself
+identify the oil with the Spirit or explain the light as a moral allegory.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 **Genesis establishes the order and then uses darkness for judgment.** After 1:3–5, the pair goes
 quiet for a long stretch, surfacing at the covenant between the pieces, where *"terror and great
 darkness fell on"* Abram and, *"when the sun went down, and it was dark"*, a smoking furnace and a
@@ -307,6 +315,8 @@ See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparis
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[I Opened, but He Had Gone]] — Song of Solomon 5:2–7; the knock at night, and the night city.
 

@@ -28,6 +28,14 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Lamp tending is recurring priestly work (3–4), and arranging bread is assigned to
+the Sabbath itself (8). Together with the rest command in 23:3, this qualifies any
+claim that Sabbath means every kind of work ceases: the text commands this service.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Gathered produce provides the occasion for celebration (39), but the first and
@@ -637,6 +645,8 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

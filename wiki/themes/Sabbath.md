@@ -27,6 +27,15 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Bread is arranged before Yahweh every Sabbath (8). This stands beside the prohibition
+of work in 23:3: sanctuary service is commanded on the rest day. Any synthesis making
+Sabbath an end to every activity must retain both instructions rather than suppress
+the explicit weekly duty.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 The first and eighth days are solemn rests (39), with regular work forbidden
@@ -184,6 +193,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

@@ -79,6 +79,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+The bread is most holy and must be eaten in a holy place by Aaron and his sons (9).
+Being holy does not mean being wholly burned or never eaten; holiness determines
+its recipients and the place of its use.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Holy convocations mark the first and eighth days (35–36). The calendar’s summary
@@ -507,6 +515,8 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 

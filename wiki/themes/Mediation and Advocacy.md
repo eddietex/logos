@@ -74,6 +74,14 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Lamps and weekly bread — Leviticus 24:1–9
+
+Israel supplies oil and the bread is arranged on Israel’s behalf, while Aaron tends
+the lamps and the priests eat the holy portion (2–9). Mediation here is ordered
+service representing the community, with no narrated plea or dispute.
+
+See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1–9.
+
 - **Genesis 18:22–33** — Abraham bargaining for Sodom: intercession's first appearance in Scripture,
   and the first person to argue with God on someone else's behalf. See
   [[The Three Visitors and Abraham's Intercession]].
@@ -335,6 +343,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 

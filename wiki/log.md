@@ -20408,3 +20408,38 @@ Raw sources, schema, and workflow instructions are unchanged. No harness change 
 `scripts/link-check.sh` passed with no wrapped links or unexpected dangling targets;
 59 not-yet-started books remain the expected baseline. Quotation fidelity, frontmatter
 counts, the next unchecked boundary, and `git diff --check` were checked before commit.
+
+## [2026-10-30] ingest | Leviticus 24.1-9 — The Lamps and the Bread Before Yahweh
+
+Ingested [[The Lamps and the Bread Before Yahweh]] in unattended mode, retaining the
+planned boundary before the narrative at verse 10. Created one passage and revised
+29 existing pages: one book, five people, one place, eleven themes, two connections,
+eight indexes, and this log. Leviticus is now 37/44 pericopes. Frontmatter totals:
+264 passages, 195 people, 104 places, 85 themes, 574 connections; seven books started,
+six complete.
+
+Extended [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]] and
+[[The Bread of the Presence - David's Hunger and Matthew 12]] rather than creating
+duplicate connections. The passage contains the unattended discussion and all nine
+verses copied verbatim from stored WEB. Nightly tending and weekly bread renewal are
+kept distinct. Sabbath work prohibition (23:3) and commanded bread service (24:8) are
+explicitly juxtaposed in the passage and relevant themes; neither is suppressed.
+The existing bread connection retains its explicit later eating-rule tension.
+
+Judgment calls: Israel remains collective, the Tent of Meeting is covered by the
+Dwelling of God theme, and Horeb/Sinai is contextual rather than named in the unit.
+Eleazar and Ithamar receive contextual updates as the surviving sons identified in
+10:12; neither is represented as individually named here. Twelve cakes representing
+twelve tribes is marked as an inference, not an explanation supplied by the text.
+Frankincense as memorial is distinguished from the priestly eating of the bread.
+No additional theme or entity page was necessary.
+
+New quotations and comparisons were checked in stored WEB Leviticus 10, 23–24 and
+Exodus 25, 27, 30. Earlier external-source notes on the bread connection are preserved,
+without claiming a fresh external verification. No new external quotation or Hebrew/
+Greek assertion was introduced. Existing raw texts and workflow files are unchanged.
+
+Link checks passed: no wrapped links or unexpected dangling targets; 59 unstarted
+book pages remain the expected baseline. Quotation fidelity, type-based totals, the
+next unchecked boundary, and diff whitespace were checked. No unresolved blocker or
+harness change.
