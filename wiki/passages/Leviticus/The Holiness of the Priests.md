@@ -65,6 +65,7 @@ for those excluded.
 
 ## Cross-references
 
+- [[The Nazirite and the Priest - Numbers 6 and Leviticus 8, 10, and 21]] — the dead and the *nēzer*, compared with [[The Nazirite Vow]].
 - [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] — now includes Leviticus 21:10–12.
 - [[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]] — priestly eligibility and retained food rights in 21:17–23.
 

@@ -187,6 +187,12 @@ Aaron appeals to "such things as these" that have happened to him (19) when expl
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### No defilement for father or mother — Numbers 6:7
+
+The vow takes the Nazirite away from the rites for father, mother, brother, and sister, because of what is *on his head*. An ordinary priest may defile himself for near kin (Leviticus 21:2–3). Here a person chooses that limit, and the family bears it as well.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
@@ -271,6 +277,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
   Egyptians were burying all their firstborn"* (WEB). See
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
 - [[The House of Mourning]] — Ecclesiastes 7:2–4; the house of mourning preferred to the house of feasting.
+- [[The Nazirite Vow]] — Numbers 6:7; no defilement for near kin.
 
 ## Related themes
 

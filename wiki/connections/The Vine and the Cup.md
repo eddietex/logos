@@ -24,7 +24,7 @@ tags: [connection]
   into a king's hand
 - Genesis 49:11–12 — Judah's blessing: *"He has washed his garments in wine… his eyes will be red with
   wine"*
-- Numbers 6:1–4 — the Nazirite, separated from wine, vinegar, grapes, skins, and seeds
+- [[The Nazirite Vow]] — Numbers 6:1–4, separated from wine, vinegar, grapes, skins, and seeds
 - Numbers 13:23 — the cluster from Eshcol carried on a pole between two men
 - Deuteronomy 8:8; Psalm 104:15 — the vine as a mark of the good land, and wine that gladdens
 - Proverbs 20:1; 23:29–35; 31:4–7 — wine the mocker, the drunkard, and the cup for the perishing
@@ -103,7 +103,7 @@ Father's Kingdom"*. The cup of wrath and the cup of the covenant are the same cu
 prayer — *"let this cup pass away from me"* (Matthew 26:39) — is what joins them.
 
 **The counter-current.** Running against all of it is a strand of deliberate abstention: the Nazirite
-vow, which bars not just wine but vinegar, grapes, skins, and seeds (Numbers 6:3–4); the Rechabites,
+vow, which bars not just wine but vinegar, grapes, skins, and seeds (Numbers 6:3–4; see [[The Unpruned Vine and the Unshaved Head - Leviticus 25 and Numbers 6]]); the Rechabites,
 commended for keeping their ancestor's rule (Jeremiah 35); the priests forbidden wine on duty
 (Leviticus 10:9, immediately after Nadab and Abihu); and Proverbs 31:4–7, which reserves strong drink
 for the perishing and forbids it to kings *"lest they drink, and forget the law"*. Ephesians 5:18 does

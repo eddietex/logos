@@ -579,6 +579,12 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp 
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Holy without office — Numbers 6:1–21
+
+*He shall be holy* (5), and *he is holy to Yahweh* (8), of a person with no tribe, office, or service named. It is reached by a vow and ends by a rite. The *nēzer* on the Nazirite's head is the noun of the high priest's crown, though WEB rightly renders it *separation* here. See [[The Nazirite and the Priest - Numbers 6 and Leviticus 8, 10, and 21]].
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -730,6 +736,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 18–20; carried, not touched, not seen.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2–3; the boundary at the edge of the camp.
 - [[The Suspected Wife]] — Numbers 5:17; holy water, and dust from the sanctuary floor.
+- [[The Nazirite Vow]] — Numbers 6:5, 8; a lay person holy to Yahweh for a term.
 
 ## Related themes
 

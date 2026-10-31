@@ -491,6 +491,12 @@ The priest does every act: receives, sets her before Yahweh, mixes, loosens, swe
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### A lay person under priestly rules — Numbers 6:1–21
+
+The Nazirite is not a priest, but is held to wine, corpse, and head rules that run alongside priestly law, and the portions on the Nazirite's palms (19) recall Exodus 29:24 and Leviticus 8:27. The priest still does what only a priest does (10–11, 16–17, 20). See [[The Nazirite and the Priest - Numbers 6 and Leviticus 8, 10, and 21]].
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -646,6 +652,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20, 27–33; priests over the bearers.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10; the priest as final recipient.
 - [[The Suspected Wife]] — Numbers 5:11–31; the priest administers, and rules on nothing.
+- [[The Nazirite Vow]] — Numbers 6:7, 10–11, 16–20; alongside priestly law, and served by the priest.
 
 ## Related themes
 

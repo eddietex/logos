@@ -80,6 +80,7 @@ trespass-offering lamb, oil, bodily applications, and priestly atonement.
 
 ## Cross-references
 
+- [[The Nazirite Vow]] — Numbers 6:9–12, a seventh-day shaving and a trespass lamb, as at 14:9, 12.
 - [[Bodily Discharges and Cleansing]] — compare the seven-day count and eighth-day offerings; the cleansing procedures differ.
 
 - [[Mildew in a House]] — Leviticus 14:33–57; inspection, repair, and cleansing of a house.

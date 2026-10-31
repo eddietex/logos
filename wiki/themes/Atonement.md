@@ -270,6 +270,12 @@ The ram stands *besides* the repayment (8), so atonement does not replace it. *�
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### Atonement for an accident — Numbers 6:10–11
+
+The priest makes atonement *because he sinned by reason of the dead* (11), when nobody meant anything to happen. Atonement here answers a state, and does not require a guilty intention. The same rite restores the head: he *shall make his head holy that same day*.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -331,6 +337,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10, 12–16; yearly atonement on the
   incense altar, and the half-shekel ransom as atonement money.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the ram beside the repayment.
+- [[The Nazirite Vow]] — Numbers 6:11; atonement for a death nobody intended.
 
 ## Related themes
 

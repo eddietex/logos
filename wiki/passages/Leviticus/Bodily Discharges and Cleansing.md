@@ -67,6 +67,7 @@ same community, without every bodily process being named a moral transgression.
 
 ## Cross-references
 
+- [[The Nazirite Vow]] — Numbers 6:10–11, the same eighth-day birds at the door of the Tent.
 - [[Defilement of Body and Land - Leviticus 15 and 18]] — 15:24 gives a status consequence; 18:19 states a prohibition.
 
 - [[Bodily Purification - Childbirth and Discharges in Leviticus 12 and 15]] — related bodily laws with distinct durations and offerings.

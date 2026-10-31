@@ -133,6 +133,7 @@ The *priest* acts throughout, unnamed; [[Aaron]] is not mentioned.
 
 ## Cross-references
 
+- [[The Nazirite Vow]] — Numbers 6:2, the same *yaplîʾ* with *neder* as 27:2.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:47, the same five shekels.
 - [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]]
 - [[Redemption of Land and Houses]] and [[The Sabbatical Year and the Jubilee]] — the land law these

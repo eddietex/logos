@@ -846,6 +846,12 @@ The closing formula calls it *tôraṯ haqqənāʾōṯ* (29, WLC), a teaching f
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### The law of the Nazirite — Numbers 6:1–21
+
+*Tôrâ* opens and closes the final section (13, 21). This law is optional to enter, but once entered it is exact, and the last words bind the person to what was said (21).
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1047,6 +1053,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:37, 41, 45, 49; the count as commanded.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:4; the command carried out.
 - [[The Suspected Wife]] — Numbers 5:29–30; *the law of jealousy*.
+- [[The Nazirite Vow]] — Numbers 6:13, 21; a chosen law, exactly binding.
 
 ## Related themes
 

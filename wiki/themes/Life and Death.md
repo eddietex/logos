@@ -666,6 +666,12 @@ Contact with the dead is enough to put a living person outside the camp (2). The
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### Kept from the dead — Numbers 6:6–12
+
+The Nazirite may not go near a dead body, even a parent's (6–7), and the high priest's rule is close to the same words (Leviticus 21:11). When death comes unplanned, it undoes the vow. The text gives no theory of why death and the holy cannot meet.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -1085,6 +1091,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:11; Those led away to death, to be rescued.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; that they may live.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2; the dead and the camp.
+- [[The Nazirite Vow]] — Numbers 6:6–12; the holy person kept from the corpse.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -111,6 +111,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[The Unpruned Vine and the Unshaved Head - Leviticus 25 and Numbers 6]] — *nāzîr* of the undressed vine, 25:5, 11.
 - [[Covenant Warnings and Remembered Promises]] — 26:34–35, 43; the land collects the Sabbaths this law gives it.
 - [[Blessings for Obedience]] — 26:5, 10 repeat *safely* (25:18–19) and *old store* (25:22) as covenant blessing.
 - [[Redemption of Land and Houses]] — 25:23–34 specifies which houses return and which may remain sold.

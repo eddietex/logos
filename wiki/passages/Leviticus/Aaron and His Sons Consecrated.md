@@ -130,6 +130,7 @@ death warning. The chapter closes by affirming their obedience through Moses.
 
 ## Cross-references
 
+- [[The Nazirite and the Priest - Numbers 6 and Leviticus 8, 10, and 21]] — palms and the wave offering, 8:27 and Numbers 6:19.
 - [[Ear, Thumb, and Toe - Consecration and Cleansing]] — now also compared with [[The Cleansing of the Leper]], Leviticus 14:1–32.
 
 

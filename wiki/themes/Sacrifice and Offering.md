@@ -598,6 +598,12 @@ Barley meal, without the oil and frankincense of Leviticus 2:1, and *bringing in
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### The Nazirite's offerings — Numbers 6:9–20
+
+A defiled vow needs birds and a lamb. A completed one needs burnt, sin, and peace offerings, bread, meal, and drink, and the hair goes on the fire under the peace offering (18). The text does not call the hair an offering, and it gives no reason for a sin offering at a vow's successful end.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -824,6 +830,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
   a seduction
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–9; the ram and the heave offerings.
 - [[The Suspected Wife]] — Numbers 5:11–31; barley meal, no oil, no frankincense, and no atonement stated.
+- [[The Nazirite Vow]] — Numbers 6:9–20; offerings for a broken and for a finished vow.
 
 ## Related themes
 

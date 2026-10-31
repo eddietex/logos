@@ -114,6 +114,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 
 ## Cross-references
 
+- [[The Nazirite Vow]] — the law that follows; a woman who may bring herself, and the head in view again.
 - [[Two Bitter Waters - Marah and the Law of Jealousy]]
 - [[Made to Drink - Numbers 5.24 and Exodus 32.20]]
 - [[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]]

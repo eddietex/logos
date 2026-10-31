@@ -578,6 +578,7 @@ face, wept on him, and kissed him"* (50:1) — **is the response 49:33 withholds
 
 ## Cross-references
 
+- [[The Nazirite Vow]] — Numbers 6, the law for the person named by the same noun as Joseph in 49:26.
 - [[Jacob Blesses Ephraim and Manasseh]] — **the other half of the same deathbed**, and the chapter
   this one answers. 48:5 measured the adoption *"even as [[Reuben]] and [[Simeon]]"*; **49:3–7 vacates
   both positions**, which is the hinge 1 Chronicles 5:1–2 reads

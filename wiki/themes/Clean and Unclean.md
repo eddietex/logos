@@ -416,6 +416,12 @@ The law has two outcomes: *defiled* (*niṭməʾâ*) or *clean* (*ṭəhōrâ*, 
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Defiled by a death nearby — Numbers 6:9–12
+
+The defilement needs no act, since someone *dies very suddenly beside him* (9). The result is a shaved head, two birds, a lamb, and lost days. Status and intention are kept apart here as elsewhere, and the cost is still real.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -538,6 +544,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The basin receives water and Moses, Aaron, and the sons wash hands and feet.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–4; the unclean sent out, and the reason given.
 - [[The Suspected Wife]] — Numbers 5:11–31; defilement that cannot be seen, and the word *clean* as vindication.
+- [[The Nazirite Vow]] — Numbers 6:6–12; uncleanness that undoes a vow.
 
 ## Related themes
 

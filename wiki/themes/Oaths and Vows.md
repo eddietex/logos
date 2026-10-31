@@ -106,7 +106,7 @@ See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
   *"When you vow a vow to God, don’t defer to pay it … It is better that you should not vow, than
   that you should vow and not pay"* (Ecclesiastes 5:4–5; compare Deuteronomy 23:21–23). Numbers 30
   governs women's vows within a household; Leviticus 27 sets redemption values; Numbers 6 defines
-  the Nazirite vow. And the third commandment guards the misuse of the name an oath invokes
+  the Nazirite vow ([[The Nazirite Vow]]). And the third commandment guards the misuse of the name an oath invokes
   (Exodus 20:7).
 - **Two vows in the histories go badly.** Jephthah's, which he keeps at the cost of his daughter
   (Judges 11:30–40), and Saul's battlefield curse, which nearly kills Jonathan over a taste of honey
@@ -295,6 +295,12 @@ With no witness (13), the priest puts the woman under an oath in two halves (19�
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### The Nazirite vow — Numbers 6:1–21
+
+*Either man or woman* may make it (2), and no term is set. The vow binds the body for its length, and a defiled vow starts again with the earlier days lost (12). It closes on the words as spoken: *according to his vow which he vows* (21). Numbers 30 limits a woman's vow, and that law is not yet ingested.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -476,6 +482,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 - [[The Suspected Wife]] — Numbers 5:11–31; an imposed oath of cursing where no witness exists.
+- [[The Nazirite Vow]] — Numbers 6:1–21; a vow with its own law, open to man or woman.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

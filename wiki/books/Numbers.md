@@ -32,6 +32,9 @@ Kohathites who carry them *may live, and not die*.
 guilty to confess and repay with a fifth added.
 [[The Suspected Wife]] (5:11–31) takes a husband's unprovable jealousy to the priest, where an oath, a
 curse written into water, and the outcome are left to Yahweh.
+[[The Nazirite Vow]] (6:1–21) opens holiness to either man or woman by a vow: nothing from the vine, no
+razor, and no contact with the dead, even for a parent, until the days are fulfilled and the hair goes
+on the fire.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -61,7 +64,7 @@ merge, or reorder them freely.
 - [x] [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–49
 - [x] [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–10
 - [x] [[The Suspected Wife]] — Numbers 5:11–31
-- [ ] The Nazirite Vow — Numbers 6:1–21
+- [x] [[The Nazirite Vow]] — Numbers 6:1–21
 - [ ] Yahweh Bless You and Keep You — Numbers 6:22–27
 - [ ] The Offerings of the Twelve Princes — Numbers 7:1–89
 - [ ] The Lamps and the Levites Cleansed — Numbers 8:1–26

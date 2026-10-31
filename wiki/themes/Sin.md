@@ -541,6 +541,12 @@ Verse 6 treats a sin of the kind people commit as *maʿal* against Yahweh, while
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### He sinned by reason of the dead — Numbers 6:9–11
+
+The verb is *ḥāṭāʾ* (11, WLC), of something that happened suddenly beside a person (9). It may mark a failure in what was vowed and not a moral offense. The text does not separate these, and the wiki keeps its wording.
+
+See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -798,6 +804,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–19; *ḥaṭṭāʾîm* who entice, and the *"path of sinners"* of Psalm 1:1
 - [[Wisdom at the Creation]] — Proverbs 8:36; *"he who sins against me wrongs his own soul"* — missing Wisdom as violence to oneself
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–7; a human wrong as a trespass against Yahweh.
+- [[The Nazirite Vow]] — Numbers 6:11; *ḥāṭāʾ* with no intention.
 
 ## Related themes
 

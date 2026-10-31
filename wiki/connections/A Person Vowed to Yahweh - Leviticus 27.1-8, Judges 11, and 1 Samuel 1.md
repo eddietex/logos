@@ -30,6 +30,9 @@ The narrative does not say.
 did, Leviticus 18:21 and 20:2–5 stand against it, and so does the pattern of
 [[Child Sacrifice and the Redemption of the Firstborn]]. This page does not settle it.
 
+**Hannah's razor clause** is taken up at
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]].
+
 **Compare [[Yes, He Will Be Blessed - The Irrevocable Word]]**, which uses Jephthah as a case of a word
 that cannot be recalled, and [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 

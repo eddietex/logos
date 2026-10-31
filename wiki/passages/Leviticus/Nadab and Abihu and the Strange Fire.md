@@ -79,6 +79,7 @@ the tent, distinguish sacred and common and clean and unclean, and teach Israel 
 
 ## Cross-references
 
+- [[The Nazirite and the Priest - Numbers 6 and Leviticus 8, 10, and 21]] — the wine rule of 10:9, compared with the Nazirite's.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:4; the deaths reported, and the note that they had no children.
 - [[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]] — Leviticus 16:1 dates the Day of Atonement by these deaths and prescribes the permitted entry; see [[The Day of Atonement]].
 

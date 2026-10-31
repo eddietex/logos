@@ -20792,3 +20792,27 @@ Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong'
 verified at bible-api.com. Commentary not consulted; the calf-as-jealousy-rite reading is reported and
 unchecked. Counts: 278 passages, 201 people, 104 places, 86 themes, 603 connections. Next: The Nazirite
 Vow, Numbers 6:1–21.
+
+## [2026-10-31] ingest | Numbers 6.1-21 — The Nazirite Vow
+
+Created [[The Nazirite Vow]] and four connections:
+[[The Nazirite and the Priest - Numbers 6 and Leviticus 8, 10, and 21]],
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]],
+[[The Unpruned Vine and the Unshaved Head - Leviticus 25 and Numbers 6]], and
+[[Shaved Heads and Fulfilled Days - Numbers 6 and Acts 18 and 21]]. Revised two people, ten themes, two
+connections, nine passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary kept. No person page for the Nazirite, since the law describes a kind
+of person and names nobody, and [[Aaron]] is not named, so his page is unchanged. *Nēzer* at 6:7 is kept as
+WEB's *separation*, with the echo of the high priest's crown noted and not asserted. Acts 18 and 21 and
+Hannah's vow are treated as possible cases only, because neither text uses the word *Nazirite*.
+
+Tensions flagged, not resolved: no stated length; a sin offering at a completed vow; *he sinned* of an
+accident; the bar on defilement for near kin; Samson's lifelong status, which the law does not provide
+for. *Ḥarṣannîm* and *zāg* are marked uncertain, each occurring once.
+
+Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong's tags. Judges 13:4–7,
+13–14; 14:8–9; 16:17, 19, 22, 1 Samuel 1:11, 15, 28, Lamentations 4:7, Ezekiel 44:20–21, Amos 2:11–12,
+Matthew 2:23, Mark 14:25, Luke 1:15, and Acts 18:18; 21:23–26 verified at bible-api.com. Commentary and
+lexicons not consulted; the Greek of Acts 18:18 not checked. Counts: 279 passages, 201 people, 104 places,
+86 themes, 607 connections. Next: Yahweh Bless You and Keep You, Numbers 6:22–27.
