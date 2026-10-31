@@ -11,8 +11,8 @@ tags: [connection]
   [[Jacob's Family Settles in Egypt]]
 - **Exodus 6:16–25** — Levi's sons *"according to their generations"*, their sons, and Kohath's line
   through Amram to Aaron, Moses, and Phinehas — [[The Heads of the Fathers' Houses]]
-- **Numbers 3:17–20** — the same three sons and eight grandsons, listed *"according to their
-  families"* for the tabernacle charge (by reference; Hebrew checked, not yet ingested)
+- **Numbers 3:17–20** — the same three sons and eight grandsons, listed *"by their families"* for the
+  tabernacle charge — [[The Levites and the Firstborn Counted]]
 - **Numbers 26:57–61** — the second census's Levite clans, with Jochebed *"born to Levi in Egypt"*
   and the death of Nadab and Abihu (by reference; Hebrew checked, not yet ingested)
 - **1 Chronicles 6** — the Levite and high-priestly lines restated (by reference; not checked)
@@ -35,7 +35,8 @@ tags: [connection]
 Westminster Leningrad Codex. The Numbers columns are the wiki's own summaries of the Hebrew, written
 before Numbers reached `raw/`; every quoted phrase from Numbers on this page is the wiki's own
 rendering of the checked Hebrew, not the WEB. Numbers 3:2–4 is now checked at
-[[The Generations of Aaron and the Levites Given]]; 3:21–37 is cited from memory.)
+[[The Generations of Aaron and the Levites Given]], and 3:14–39 at
+[[The Levites and the Firstborn Counted]].)
 
 **Genesis records a family.** The three sons are one clause, with no titles and no future, on the
 road into Egypt.
@@ -47,7 +48,7 @@ other branches get one generation each and stop.
 
 **Numbers records an institution.** The same eight grandsons, in the same order, are now the heads
 of the clans that carry the tabernacle: the Gershonites its fabric, the Kohathites its holy things,
-the Merarites its frame (Numbers 3:21–37, by reference). **The names Exodus lists to place Moses are
+the Merarites its frame (Numbers 3:21–37). **The names Exodus lists to place Moses are
 the names Numbers lists to organise a camp.**
 
 **And the second census shows what the list has lost and kept.** Numbers 26:58 names five clans, not

@@ -122,6 +122,12 @@ The tribe is brought near, stood before Aaron, and given to him to keep the char
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### The Levites counted — Numbers 3:14–51
+
+His descendants are counted from a month old, three houses and 22,000 males (15, 39), though the parts come to 22,300. They camp on three sides of the tabernacle and stand in for Israel's firstborn, with their livestock (41, 45). See [[Twenty-Two Thousand - The Levite Sums in Numbers 3, 4, and 26]].
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -146,6 +152,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - Numbers 1 — Tribe left out of the census and appointed to the tabernacle. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — The camp in the middle, not counted. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — The tribe given to Aaron and taken in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
+- Numbers 3:14–51 — The tribe counted from a month old and exchanged for the firstborn. [[The Levites and the Firstborn Counted]]
 
 ## Appears in
 
@@ -212,6 +219,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe left out of the census and appointed to the tabernacle.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp in the middle, not counted.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; given to Aaron, and taken in place of the firstborn.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; counted from a month old, and exchanged.
 
 ## Related people
 

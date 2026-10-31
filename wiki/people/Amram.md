@@ -34,11 +34,18 @@ Kohath's sister; either way Leviticus forbids the marriage**, at 18:12 or 18:14,
 without comment. **His sons are named in birth order, Aaron first**; Miriam is not listed. See
 [[The Heads of the Fathers' Houses]] and [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]].
 
+### A clan — Numbers 3:14–51
+
+Listed first of Kohath's sons (19), and the Amramites head the house (27). His sons are not named in the clan list, though Moses and Aaron stand on the east in the same unit (38).
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Timeline / key events
 
 - Takes a daughter of Levi as his wife — Exodus 2:1, [[The Birth of Moses]]
 - Named in the Levite genealogy as Kohath's son; marries his aunt Jochebed; father of Aaron and Moses;
   137 years — Exodus 6:18, 20, [[The Heads of the Fathers' Houses]]
+- Numbers 3:19, 27 — Head of the Amramites. [[The Levites and the Firstborn Counted]]
 
 ## Appears in
 
@@ -46,6 +53,7 @@ without comment. **His sons are named in birth order, Aaron first**; Miriam is n
   rest of the passage
 - [[The Heads of the Fathers' Houses]] — Exodus 6:18, 20; **named at last**, with his wife, his sons, and his 137
   years
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; a clan of Kohath.
 
 ## Related people
 

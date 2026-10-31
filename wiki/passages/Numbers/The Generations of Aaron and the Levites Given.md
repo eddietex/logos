@@ -107,8 +107,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]]
 - [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 - [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
-- Numbers 3:40–51 — the firstborn counted against the Levites, and the 273 redeemed *(not yet
-  ingested; stored WEB)*.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:40–51, the firstborn counted against the Levites, and the 273 redeemed.
 - Numbers 8:14–19 — the same speech at the Levites' cleansing, with *to me* for *to him* *(not yet
   ingested; stored WEB)*.
 - Numbers 18:2, 6–7 — the Levites a gift to the priests, dedicated to Yahweh *(not yet ingested;

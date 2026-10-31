@@ -133,6 +133,8 @@ The *priest* acts throughout, unnamed; [[Aaron]] is not mentioned.
 
 ## Cross-references
 
+- [[The Levites and the Firstborn Counted]] — Numbers 3:47, the same five shekels.
+- [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]]
 - [[Redemption of Land and Houses]] and [[The Sabbatical Year and the Jubilee]] — the land law these
   field rules assume.
 - [[The Poor Brother and Redemption from Service]] — *mûk*, the same word for poverty (27:8).

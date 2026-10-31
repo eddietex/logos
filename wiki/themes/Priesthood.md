@@ -467,6 +467,12 @@ The line narrows to Eleazar and Ithamar (4). The Levites are placed under them t
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### The Levites ranked — Numbers 3:14–51
+
+Three Levite princes stand under Eleazar, *prince of the princes* (24, 30, 32, 35), and the east side belongs to Moses and the priests (38). The redemption money goes to Aaron and his sons (48, 51), the first income in Numbers to reach them. The order is now priest, Levite prince, clan.
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -618,6 +624,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levites set apart from the army.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the Levites in the middle of the camps.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the two surviving sons, and the Levites given.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; princes under Eleazar, and the money to Aaron.
 
 ## Related themes
 

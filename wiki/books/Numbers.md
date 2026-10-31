@@ -22,6 +22,9 @@ tabernacle instead. Israel is arranged as a marching army with a sanctuary at it
 every tribe a side and a turn, four camps of three around the Tent, in one order for rest and march.
 [[The Generations of Aaron and the Levites Given]] (3:1–13) names the priestly line, cut to two sons,
 and gives the tribe of Levi to Aaron, taken by Yahweh in place of every firstborn in Israel.
+[[The Levites and the Firstborn Counted]] (3:14–51) numbers
+the Levites from a month old, gives each house its side and charge, and sets 22,273 firstborn against
+them, with five shekels each for the 273 left over.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -47,7 +50,7 @@ merge, or reorder them freely.
 - [x] [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54
 - [x] [[The Camp Around the Tent]] — Numbers 2:1–34
 - [x] [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13
-- [ ] The Levites and the Firstborn Counted — Numbers 3:14–51
+- [x] [[The Levites and the Firstborn Counted]] — Numbers 3:14–51
 - [ ] The Service of Kohath, Gershon, and Merari — Numbers 4:1–49
 - [ ] The Unclean Sent Out and Wrongs Repaid — Numbers 5:1–10
 - [ ] The Suspected Wife — Numbers 5:11–31
@@ -108,6 +111,7 @@ merge, or reorder them freely.
 - [[Priesthood]] — Levites and priests set apart from the tribes
 - [[Law and Obedience]] — *as Yahweh commanded*
 - [[Birthright and the Firstborn]] — the Levites taken instead of the firstborn
+- [[Redemption]] — five shekels for those left over
 
 ## Key people
 
@@ -117,6 +121,7 @@ merge, or reorder them freely.
 - [[Nahshon]] — Judah's man
 - [[Eleazar (son of Aaron)]], [[Ithamar]] — the surviving priests
 - [[Levi]] — the tribe given to Aaron
+- [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
 

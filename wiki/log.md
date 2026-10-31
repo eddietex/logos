@@ -20701,3 +20701,26 @@ Hebrew and lemma counts from WLC (Open Scriptures morphhb, all thirty-nine books
 tags. 1 Chronicles 6, 9, 23–24, Ezra 2 and 8, and Ruth 4 verified at bible-api.com. Counts: 274
 passages, 199 people, 104 places, 86 themes, 594 connections. Next: The Levites and the Firstborn
 Counted, Numbers 3:14–51.
+
+## [2026-10-31] ingest | Numbers 3.14-51 — The Levites and the Firstborn Counted
+
+Created [[The Levites and the Firstborn Counted]], two people, [[Eliasaph (son of Lael)]] and [[Zuriel (son of Abihail)]], and two
+connections: [[Twenty-Two Thousand - The Levite Sums in Numbers 3, 4, and 26]] and
+[[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]]. Revised twelve people, [[Horeb]], seven
+themes, seven connections, six passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary kept. *Elzaphan* keeps its filename, with *Elizaphan* as an alias,
+since Exodus and Leviticus use that spelling. Libni, Shimei, Izhar, Hebron, Mahli, and Mushi stay on
+their parents' pages as clan names; a Hebron person page would force a rename of the place. Ithamar is
+not named in this unit, so his page is unchanged. Replaced the *cited from memory* note on
+[[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]], now that 3:14–39 is checked.
+
+Tensions flagged, not resolved: 22,300 in the parts against 22,000 in the total; 22,273 firstborn
+against 603,550 men; Levi smaller than any tribe; and redeemed or replaced. The *puncta* over *and
+Aaron* at 3:39 are in the WLC, and the variant reports at 3:28 and 3:39 are named on the pages as
+unchecked. The Elzaphan observation and the comparisons of five shekels are marked as the wiki's.
+
+Hebrew and lemma locations from WLC (Open Scriptures morphhb, all thirty-nine books), using its Strong's
+tags. Rashi on Numbers 3:39 and 16:1 read at Sefaria in the Rosenbaum–Silbermann English. Ezekiel 45:12
+verified at bible-api.com. Counts: 275 passages, 201 people, 104 places, 86 themes, 596 connections.
+Next: The Service of Kohath, Gershon, and Merari, Numbers 4:1–49.

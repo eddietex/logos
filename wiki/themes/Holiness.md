@@ -555,6 +555,12 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### Keeping the sanctuary — Numbers 3:14–51
+
+Kohath keeps *the requirements of the sanctuary* (28), Eleazar oversees those who do (32), and the priests keep them at the east door (38), where the sentence on the stranger comes a second time in the chapter. The holiness of the Tent has become a roster of who guards which side.
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -702,6 +708,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levite cordon and the stranger who comes near.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp held at a distance from the Tent.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the firstborn made holy, and the sentence at the boundary.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; keeping the sanctuary, and the door.
 
 ## Related themes
 

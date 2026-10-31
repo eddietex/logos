@@ -90,6 +90,12 @@ a reversal of fortunes like 11:8, naming no payer, payee, or procedure. The Hebr
 
 See [[The King's Heart]]. Source: stored WEB Proverbs 21; no new source-language claim.
 
+### *Pidyôm* at Numbers 3:49
+
+The noun of Hebrew Psalm 49:9 (WEB 49:8) stands in only two other places, by Strong's tag in the WLC:
+Exodus 21:30 and Numbers 3:49, *kesep happidyôm*, the redemption money of the 273 firstborn. There the
+price is five shekels, and it can be paid. See [[The Levites and the Firstborn Counted]].
+
 ## Significance
 
 - **The connection is a vocabulary, not a prediction.** Elihu offers a hypothetical — *"If there is

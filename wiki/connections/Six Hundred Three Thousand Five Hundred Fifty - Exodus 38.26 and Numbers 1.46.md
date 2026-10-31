@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Levites and the Firstborn Counted]] — Numbers 3:43; the 22,273 firstborn
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:37; *about six hundred thousand on
   foot who were men, besides children*
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:25–26; *six hundred three

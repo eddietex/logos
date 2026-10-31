@@ -822,6 +822,12 @@ The chapter closes on the same note as the last: *According to all that Yahweh c
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### As Yahweh commanded — Numbers 3:14–51
+
+Moses counts *according to Yahweh's word, as he was commanded* (16), counts again *as Yahweh commanded him* (42), and pays over the money *according to Yahweh's word, as Yahweh commanded Moses* (51). The formula brackets the unit.
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1019,6 +1025,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   the heart
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; census and exemption carried out as commanded.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; obedience in where the tribes camp and march.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:16, 42, 51; the command carried out.
 
 ## Related themes
 

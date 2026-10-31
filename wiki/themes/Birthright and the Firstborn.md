@@ -105,6 +105,12 @@ Nadab is called *the firstborn* (2), dies childless, and the line goes on throug
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### Counted by name — Numbers 3:14–51
+
+The firstborn are counted one by one, *the number of their names* (40, 43), and matched against a tribe. Their total of 22,273 sits oddly against 603,550 men, and the text does not address it. See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -256,6 +262,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; Reuben's title and Joseph's two tribes in the register.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; Judah ahead of Reuben, Ephraim ahead of Manasseh.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; Nadab, and the Levites taken instead.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted and exchanged.
 
 ## Related themes
 

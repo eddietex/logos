@@ -13,6 +13,12 @@ Addressed with Moses (1). The chapter gives him no action. His place on the east
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### At the door — Numbers 3:14–51
+
+He and his sons camp on the east, facing the entrance (38), and Eleazar is set over the Levite princes (32). He receives the redemption money (48, 51). Verse 39 names him in the Levite count, though verses 16 and 42 have Moses alone; the dots over his name in the WLC are read by Rashi as saying he was not among the numbered. See the note on the passage.
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ### The generations and the Levites — Numbers 3:1–13
 
 The heading names him before Moses (1), and the list that follows is his alone. Two of his four sons are dead and childless, and the other two minister in his presence (4). The tribe of Levi is stood before him and given to him *wholly* (6, 9), and he and his sons keep the priesthood (10). The chapter does not report his reaction to any of this.
@@ -578,6 +584,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 1 — Counts with Moses. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Receives the order of the camp with Moses. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Heads the list of generations; the Levites are given to him. [[The Generations of Aaron and the Levites Given]]
+- Numbers 3:14–51 — Camps at the door; receives the redemption money. [[The Levites and the Firstborn Counted]]
 
 ## Appears in
 
@@ -705,6 +712,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; counts with Moses.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; receives the order of the camp with Moses.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; heads the list, and receives the Levites.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; camps at the door and receives the money.
 
 ## Related people
 

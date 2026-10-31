@@ -378,7 +378,8 @@ a festival, not an object. The wiki adopts neither reading.
 - Leviticus 18:21; Deuteronomy 18:10 — *ʿābar* in the hiphil, of child sacrifice —
   [[Child Sacrifice and the Redemption of the Firstborn]] *(not yet ingested)*
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:12–13, the Levites instead of the firstborn
-- Numbers 3:40–51; 18:15–16 — the surplus and five shekels *(not yet ingested)*
+- [[The Levites and the Firstborn Counted]] — Numbers 3:40–51, the surplus and five shekels.
+- Numbers 18:15–16 — the standing price *(not yet ingested)*
 - Deuteronomy 6:8, 20–21; 11:18 — the frontlets and the son's question *(not yet ingested)* —
   [[When Your Son Asks - Telling the Exodus to the Next Generation]]
 - Deuteronomy 7:8 — *"redeemed you out of the house of bondage"* *(not yet ingested)*

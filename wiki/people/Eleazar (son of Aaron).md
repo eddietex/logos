@@ -129,6 +129,7 @@ Aaron’s sons present the offering and receive its most holy remainder (2:2–3
 
 - Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
 - Numbers 3:2, 4 — Ministers with Ithamar under Aaron. [[The Generations of Aaron and the Levites Given]]
+- Numbers 3:32 — Made prince of the princes of the Levites. [[The Levites and the Firstborn Counted]]
 
 ### The burnt offering — Leviticus 1:1–17
 
@@ -193,8 +194,15 @@ With Nadab and Abihu dead and childless, he and his brother *ministered in the p
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### Prince of the princes — Numbers 3:14–51
+
+*Eleazar the son of Aaron the priest shall be prince of the princes of the Levites* (32), with the oversight of those who keep the sanctuary. The surviving son now stands over the three Levite princes. His scope here is general; 4:28 and 4:33 will place Gershon and Merari under Ithamar.
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Appears in
 
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; prince of the princes of the Levites.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; ministers with Ithamar under Aaron.
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

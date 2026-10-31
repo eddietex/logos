@@ -136,8 +136,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13, the next unit, on those at the center.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54, the source of every figure; 1:52–53 already orders standards and a Levite ring.
-- The rest of the camp, Numbers 3:23, 29, 35, 38 — Gershon west, Kohath south, Merari north, and
-  Moses and the priests east *(not yet ingested; stored WEB)*.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:23, 29, 35, 38, Gershon west, Kohath south, Merari north, and Moses and the priests east.
 - [[Jacob Blesses His Sons]] — Genesis 49:8–10, Judah before his brothers.
 - [[Show Me Your Glory]] — Exodus 33:7, the tent pitched far outside the camp.
 - Exodus 27:13–16 — the court's east side and its gate.

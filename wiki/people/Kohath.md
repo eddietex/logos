@@ -36,13 +36,19 @@ same name as the city [[Hebron]], and the text makes nothing of it. **He went do
 his father (Genesis 46:11); his grandsons bring Israel out.** See [[The Heads of the Fathers' Houses]] and
 [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]].
 
+### The Kohathite house — Numbers 3:14–51
+
+Four clans, the largest house at 8,600 (19, 27–28). They camp on the south (29), under [[Elzaphan (son of Uzziel)]] (30), and keep the ark, table, lampstand, altars, vessels, and screen (31). Moses and Aaron belong to this house through Amram, but camp apart on the east (38).
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
   [[Jacob's Family Settles in Egypt]]
 - His four sons and 133 years; Amram's sons Aaron and Moses — Exodus 6:16, 18, 20,
   [[The Heads of the Fathers' Houses]]
-- Numbers 3:27–32 · 4:4–15 · 7:9 — the Kohathite charge over the ark and the holy vessels
+- Numbers 3:27–32 · 4:4–15 · 7:9 — the Kohathite charge over the ark and the holy vessels, [[The Levites and the Firstborn Counted]]
 - 1 Chronicles 6:33–38 — Heman's descent traced to him
 
 ## Appears in
@@ -50,6 +56,7 @@ his father (Genesis 46:11); his grandsons bring Israel out.** See [[The Heads of
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **the middle of three names in one clause**,
   and the only one of the seventy whose grandson will bring the rest of them out
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16, 18–24; **the line the genealogy follows**, with 133 years
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 8,600, on the south, with the holy things.
 
 ## Related people
 
@@ -62,6 +69,7 @@ his father (Genesis 46:11); his grandsons bring Israel out.** See [[The Heads of
 - [[Jacob]] — his grandfather
 - [[Aaron]] — his grandson
 - [[Korah (son of Izhar)]] — his grandson, through Izhar
+- [[Elzaphan (son of Uzziel)]] — his grandson, prince of his house (Numbers 3:30)
 
 ## Themes associated
 

@@ -55,6 +55,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Twelve Sons and the Lists That Reorder Them]] | parallel | Genesis 29:31–30:24 · Genesis 35:22–26 · Genesis 46:8–25 · Genesis 49:1–28 · Numbers 1–2 · Deuteronomy 33 · Ezekiel 48 · Revelation 7:5–8 · Exodus 28:9–21 · [[The Census in the Wilderness of Sinai]] · [[The Camp Around the Tent]] |
 | [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]] | allusion | Exodus 28:9–12, 17–21 · Genesis 2:12 · Ezekiel 28:13 · Revelation 21:12–14, 19–20 · [[The Priestly Garments Made]] (Exodus 39:1–31) |
 | [[Twenty Pieces of Silver - The Price of a Brother]] | parallel | Genesis 37:26–28 · Genesis 42:25–28, 35 · Genesis 43:12, 21–23 · Leviticus 27:5 · Exodus 21:16, 32 · Deuteronomy 24:7 · Zechariah 11:12–13 · Matthew 26:15; 27:3–10 · Genesis 45:22 · Exodus 21:12–36 |
+| [[Twenty-Two Thousand - The Levite Sums in Numbers 3, 4, and 26]] | tension | [[The Levites and the Firstborn Counted]] (Numbers 3:22, 28, 34, 39, 43, 46) · Numbers 4:36, 40, 44, 48 · Numbers 26:62 |
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 · Exodus 25:11, 17 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
 | [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |

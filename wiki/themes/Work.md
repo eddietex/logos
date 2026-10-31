@@ -664,8 +664,15 @@ See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### A duty for each house — Numbers 3:14–51
+
+The tabernacle's service is divided by material, not by rank alone: *duty* and *service* recur for each house (25–26, 31, 36). Even the cords and pins have someone responsible for them (26, 37).
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
+- [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each house and its charge.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:7–8; the service of the tabernacle.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

@@ -402,6 +402,12 @@ The Tent receives a permanent staff, who keep its furnishings and its charge (7�
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### The Tent itemized — Numbers 3:14–51
+
+Each part of the structure has a keeper: fabric to Gershon, furniture to Kohath, frame to Merari (25–26, 31, 36–37). The list is arranged by who is responsible, not by the order of Exodus.
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -497,6 +503,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the tabernacle carried by the Levites.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; every tribe placed around the Tent.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; a tribe given to keep the Tent.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each part of the Tent has a keeper.
 
 ## Related themes
 

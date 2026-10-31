@@ -194,8 +194,15 @@ The words for redeeming do not occur in these verses; *pādâ* language comes at
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### The price named — Numbers 3:14–51
+
+This is the first use of the *pādâ* words in Numbers: 273 firstborn with no Levite to match them are bought out at five shekels each (46–51). *Kesep happidyôm* (49, WLC) shares its noun with the ransom of Exodus 21:30 and Hebrew Psalm 49:9. Here redemption fills an exact shortfall. See [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]].
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
+- [[The Levites and the Firstborn Counted]] — Numbers 3:46–51; 273 firstborn bought out at five shekels.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:11–13; the substitute for the firstborn.
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.

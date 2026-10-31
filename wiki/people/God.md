@@ -13,6 +13,12 @@ Yahweh gives the arrangement to Moses and Aaron together (1). The speech is enti
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The count and the price — Numbers 3:14–51
+
+He orders both counts (15, 40), says twice that the Levites and their livestock are taken for the firstborn (41, 45), and adds *I am Yahweh* each time. He names the price of the 273 himself (47). The whole exchange is carried out *according to Yahweh's word* (16, 51).
+
+See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
+
 ### The Levites given — Numbers 3:1–13
 
 Yahweh takes the Levites *instead of all the firstborn* and states the ground himself: *for all the firstborn are mine* (12–13). He dates the claim to the day he struck Egypt's firstborn, and he ends with his name. The same speech places the death sentence at the boundary (10). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
@@ -3048,6 +3054,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 1 — Commands the census and the Levites' appointment. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Assigns every tribe its place around the Tent. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Gives the Levites to Aaron and takes them in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
+- Numbers 3:14–51 — Orders both counts and sets the price of the surplus. [[The Levites and the Firstborn Counted]]
 
 ## Appears in
 
@@ -3664,6 +3671,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; commands the census and the Levites' appointment.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; assigns every tribe its place around the Tent.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; gives the Levites to Aaron and claims the firstborn.
+- [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; orders both counts and names the price.
 
 ## Related people
 

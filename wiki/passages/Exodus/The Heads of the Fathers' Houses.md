@@ -347,6 +347,7 @@ never as priests. See [[Priesthood]].
 - Numbers 3:17–20; 26:57–61 — the Levite clans; Jochebed *"born to Levi in Egypt"*; Nadab and Abihu's
   death (cited by reference; Hebrew checked in the WLC) —
   [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
+- [[The Levites and the Firstborn Counted]] — Numbers 3:17–39, the same names as clans with charges.
 - Numbers 16; 26:11 — Korah's revolt; *"the sons of Korah did not die"*
 - Numbers 25:6–13 — Phinehas's covenant of peace —
   [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]

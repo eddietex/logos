@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Camp Around the Tent]] — Numbers 2:9, 16–17, 24, 31; the order commanded
-- Numbers 3:23, 29, 35, 38 — where the Levite clans camp *(not yet ingested; stored WEB)*
+- [[The Levites and the Firstborn Counted]] — Numbers 3:23, 29, 35, 38; where the Levite clans camp
 - Numbers 4 — what each clan carries *(not yet ingested; stored WEB)*
 - Numbers 10:14–28 — the order carried out *(not yet ingested; stored WEB)*
 

@@ -10,8 +10,7 @@ tags: [connection]
 - [[The Consecration of the Firstborn]] — Exodus 13:2, 12–15; *It is mine*, and the son redeemed
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29; the night behind the claim
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:11–13; the Levites taken *instead of*
-- Numbers 3:40–51 — the firstborn counted, and the surplus of 273 bought back *(not yet ingested;
-  stored WEB)*
+- [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted, and the surplus of 273 bought back
 - Numbers 8:14–19 — the claim restated at the Levites' cleansing *(not yet ingested; stored WEB)*
 - Numbers 18:15–16 — the firstborn redeemed by price *(not yet ingested; stored WEB)*
 
@@ -39,6 +38,11 @@ applied after it. That is a reading, and no verse says it.
 dies in this exchange. The firstborn's place is filled by men who go on serving, and the claim on
 them is paid in labor at the Tent. Numbers 8:19 adds that they do this *to make atonement for the
 children of Israel*, a phrase the wiki leaves for that pericope.
+
+**The exchange as carried out.** Numbers 3:40–51 does what 3:11–13 announced. Moses counts 22,273
+firstborn against 22,000 Levites and takes five shekels for each of the 273 (46–47). Levi's livestock
+goes in with no count at all (41, 45). The two arrangements above stand in one unit, and the money marks
+only where the first ran out. See [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]] and [[Twenty-Two Thousand - The Levite Sums in Numbers 3, 4, and 26]].
 
 ## Significance
 

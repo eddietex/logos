@@ -72,6 +72,11 @@ Numbers 1 commands a count and names no half shekel, no ransom, and no plague. I
 [[The Census in the Wilderness of Sinai]] and
 [[Six Hundred Three Thousand Five Hundred Fifty - Exodus 38.26 and Numbers 1.46]].
 
+### The firstborn price — Numbers 3
+
+Numbers 3:47 uses the same shekel and the same *laggulgōlet*, for a different payment: five shekels for
+each firstborn with no Levite to match him. See [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]].
+
 ## Significance
 
 - The half shekel joins three of the wiki's threads: the census idiom *lift up the head* (see
