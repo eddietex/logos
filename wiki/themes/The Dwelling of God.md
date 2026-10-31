@@ -408,6 +408,12 @@ Each part of the structure has a keeper: fabric to Gershon, furniture to Kohath,
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The dwelling on the road — Numbers 4:1–49
+
+A dwelling that moves has to be wrapped, divided, and carried. The veil comes down and covers the ark (5), and the tent becomes three loads (4–15, 25–26, 31–32).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -504,6 +510,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; every tribe placed around the Tent.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; a tribe given to keep the Tent.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each part of the Tent has a keeper.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–15, 25–26, 31–32; the dwelling made to move.
 
 ## Related themes
 

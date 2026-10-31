@@ -13,6 +13,7 @@ tags: [connection]
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:51, 53; *The stranger who comes near shall be put to death*
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:10; the sentence repeated for the priests
 - [[The Levites and the Firstborn Counted]] — Numbers 3:38; the same for the camp's east side
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 18–20; even Kohathites may not touch or look
 - Numbers 16:40 — *no stranger, who isn't of the offspring of Aaron* *(not yet ingested; stored WEB)*
 - Numbers 18:5, 7 — *that there be no more wrath*, and the sentence a last time *(not yet ingested;
   stored WEB)*
@@ -31,6 +32,10 @@ Israelite. At 3:10 and 18:7 it is anyone outside Aaron's house, which can includ
 only at WLC 17:11 (WEB 16:46) and 18:5, in the plague after Korah and in the law it produces. The
 verb stands at Leviticus 10:6. So the cordon is not only a rank. In the book's logic, one person's
 wrong approach endangers everyone, and the guards are there for the camp's sake.
+
+**Inside the tribe too.** The line does not run only between Levi and Israel. Numbers 4 sets one inside
+Levi, where the Kohathites may carry the holy things but not touch or see them (4:15, 20). See
+[[Lest They Die - The Ark Carried and the Ark Looked Into]].
 
 **Leviticus 10 is the background the text does not name.** Numbers 3:4 and 26:61 both go back to
 Nadab and Abihu's *strange fire*, in the same chapters that set the priests' and Levites' lines.

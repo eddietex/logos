@@ -172,7 +172,7 @@ Libni, Shimei, Izhar, Hebron, Mahli, and Mushi are named only as clan heads (18�
 - [[The Half Shekel - Census, Ransom, and the Temple Tax]]
 - [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]]
 - [[Six Hundred Three Thousand Five Hundred Fifty - Exodus 38.26 and Numbers 1.46]]
-- Numbers 4:1–49 — the adult Levites counted, and the loads *(not yet ingested; stored WEB)*.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–49, the working men counted, and the loads.
 - Numbers 7:6–9 — wagons for Gershon and Merari, and none for Kohath *(not yet ingested; stored WEB)*.
 - Numbers 16:1 — Korah the Izharite with the Reubenites *(not yet ingested; stored WEB)*.
 - Numbers 18:15–16 — the five-shekel price made a standing rule *(not yet ingested; stored WEB)*.
@@ -232,7 +232,7 @@ is the value of a male of a month to five years old, and a grown man is valued a
 text gives no accounting for them, and Exodus 13:12–13 is not said to lapse.
 
 **Princes on the sides.** Moses and Aaron are Amramites, of the same house as the south side, but they
-camp apart at the door. Eleazar's oversight at 32 is general. Numbers 4 will set Gershon and Merari
+camp apart at the door. Eleazar's oversight at 32 is general. [[The Service of Kohath, Gershon, and Merari]] sets Gershon and Merari
 under Ithamar (4:28, 33).
 
 **Elzaphan the prince.** The prince of Kohath is *ʾĕlîṣāpān* at 3:30, the name written *ʾelṣāpān* at

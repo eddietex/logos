@@ -654,6 +654,12 @@ afterlife, or reverse the mortality described in Job and Ecclesiastes.
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+### That they may live — Numbers 4:17–20
+
+The priests' care for the Kohathites is stated as a matter of survival: *that they may live, and not die* (19). The nearness that is their calling is also their danger.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -1071,6 +1077,7 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
   guests *"in the depths of Sheol"*: the prologue ends on the two tables as life and death
 - [[Do Not Envy Sinners]] — Proverbs 23:13–14, 22; The rod that does not kill and saves from Sheol; the father who gave life.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:11; Those led away to death, to be rescued.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; that they may live.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

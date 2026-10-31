@@ -31,12 +31,19 @@ The Mahlites and Mushites number 6,200 (20, 33–34). They camp on the north und
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The frame — Numbers 4:29–33
+
+Its 3,200 working men carry the boards, bars, pillars, sockets, pins, and cords, under the hand of [[Ithamar]] (31–33). It is the smallest house from a month old and the largest here, and only its instruments are assigned *by name* (32).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
   [[Jacob's Family Settles in Egypt]]
 - Listed third of Levi's sons; his sons Mahli and Mushi — Exodus 6:16, 19, [[The Heads of the Fathers' Houses]]
 - Numbers 3:33–37 · 4:29–33 · 7:8 — the Merarite house and its charge over the tabernacle's frame, [[The Levites and the Firstborn Counted]]
+- Numbers 4:29–33, 42–45 — 3,200 working men carry the frame, under Ithamar. [[The Service of Kohath, Gershon, and Merari]]
 - 1 Chronicles 6:44–47 — Ethan's descent traced to him
 
 ## Appears in
@@ -46,6 +53,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
   three houses: *"These are the families of the Levites according to their generations."* See
   [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 6,200, on the north, with the frame.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:29–33, 42–45; 3,200 men, with the frame.
 
 ## Related people
 
@@ -53,6 +61,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[Gershon]], [[Kohath]] — his brothers, and the other two Levitical houses
 - [[Jacob]] — his grandfather
 - [[Zuriel (son of Abihail)]] — prince of his house (Numbers 3:35)
+- [[Ithamar]] — the priest over his house (Numbers 4:33)
 
 ## Themes associated
 

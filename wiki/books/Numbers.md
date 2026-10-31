@@ -25,6 +25,9 @@ and gives the tribe of Levi to Aaron, taken by Yahweh in place of every firstbor
 [[The Levites and the Firstborn Counted]] (3:14–51) numbers
 the Levites from a month old, gives each house its side and charge, and sets 22,273 firstborn against
 them, with five shekels each for the 273 left over.
+[[The Service of Kohath, Gershon, and Merari]] (4:1–49) then counts the working men of thirty to
+fifty and gives each house its load; the priests must wrap the holy things first, so that the
+Kohathites who carry them *may live, and not die*.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -51,7 +54,7 @@ merge, or reorder them freely.
 - [x] [[The Camp Around the Tent]] — Numbers 2:1–34
 - [x] [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13
 - [x] [[The Levites and the Firstborn Counted]] — Numbers 3:14–51
-- [ ] The Service of Kohath, Gershon, and Merari — Numbers 4:1–49
+- [x] [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–49
 - [ ] The Unclean Sent Out and Wrongs Repaid — Numbers 5:1–10
 - [ ] The Suspected Wife — Numbers 5:11–31
 - [ ] The Nazirite Vow — Numbers 6:1–21

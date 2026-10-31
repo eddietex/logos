@@ -561,6 +561,12 @@ Kohath keeps *the requirements of the sanctuary* (28), Eleazar oversees those wh
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### Touch and sight — Numbers 4:1–49
+
+The holy things are so dangerous that even their appointed bearers may not touch them or go in to see them (15, 20). Holiness here is what makes *Don't cut off* (18) necessary.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -709,6 +715,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp held at a distance from the Tent.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the firstborn made holy, and the sentence at the boundary.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; keeping the sanctuary, and the door.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 18–20; carried, not touched, not seen.
 
 ## Related themes
 

@@ -670,9 +670,16 @@ The tabernacle's service is divided by material, not by rank alone: *duty* and *
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### Service and burden — Numbers 4:1–49
+
+The tabernacle is moved by men of thirty to fifty, each with his own *service* and *burden* (19, 49). Even the pins and cords are assigned by name (32). The word for service is also the word for an army (3).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each house and its charge.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:3, 19, 32, 47–49; each man to his load.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:7–8; the service of the tabernacle.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

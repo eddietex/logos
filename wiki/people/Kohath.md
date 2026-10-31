@@ -42,6 +42,12 @@ Four clans, the largest house at 8,600 (19, 27–28). They camp on the south (29
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The most holy things — Numbers 4:1–49
+
+His house is counted first here, though Gershon is first at 3:17. Its 2,750 working men carry the holy things only after Aaron and his sons have wrapped them, and may neither touch them nor go in to see (15, 20). Yahweh's own words are *Don't cut off the tribe of the families of the Kohathites* (18). See [[Lest They Die - The Ark Carried and the Ark Looked Into]].
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -49,6 +55,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - His four sons and 133 years; Amram's sons Aaron and Moses — Exodus 6:16, 18, 20,
   [[The Heads of the Fathers' Houses]]
 - Numbers 3:27–32 · 4:4–15 · 7:9 — the Kohathite charge over the ark and the holy vessels, [[The Levites and the Firstborn Counted]]
+- Numbers 4:1–20, 34–37 — 2,750 working men carry the wrapped holy things. [[The Service of Kohath, Gershon, and Merari]]
 - 1 Chronicles 6:33–38 — Heman's descent traced to him
 
 ## Appears in
@@ -57,6 +64,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
   and the only one of the seventy whose grandson will bring the rest of them out
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16, 18–24; **the line the genealogy follows**, with 133 years
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 8,600, on the south, with the holy things.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–20, 34–37; carries what it may not touch or see.
 
 ## Related people
 

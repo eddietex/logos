@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5; the veil taken down and laid over the ark.
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; The enclosure, supports, veil, and screen made.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.

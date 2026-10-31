@@ -19,6 +19,12 @@ He and his sons camp on the east, facing the entrance (38), and Eleazar is set o
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### Wrapping the holy things — Numbers 4:1–49
+
+He and his sons alone go in, take down the veil, and wrap the holy things (5–15). They also answer for the Kohathites, assigning each man his service and burden so that they *may live, and not die* (19). He counts with Moses and the princes (34, 37, 41, 45–46).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ### The generations and the Levites — Numbers 3:1–13
 
 The heading names him before Moses (1), and the list that follows is his alone. Two of his four sons are dead and childless, and the other two minister in his presence (4). The tribe of Levi is stood before him and given to him *wholly* (6, 9), and he and his sons keep the priesthood (10). The chapter does not report his reaction to any of this.
@@ -585,6 +591,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 2 — Receives the order of the camp with Moses. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Heads the list of generations; the Levites are given to him. [[The Generations of Aaron and the Levites Given]]
 - Numbers 3:14–51 — Camps at the door; receives the redemption money. [[The Levites and the Firstborn Counted]]
+- Numbers 4:5–20 — Goes in with his sons to wrap the holy things and assign the bearers. [[The Service of Kohath, Gershon, and Merari]]
 
 ## Appears in
 
@@ -713,6 +720,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; receives the order of the camp with Moses.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; heads the list, and receives the Levites.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; camps at the door and receives the money.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20; wraps the holy things and assigns the bearers.
 
 ## Related people
 

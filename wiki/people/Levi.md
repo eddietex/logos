@@ -128,6 +128,12 @@ His descendants are counted from a month old, three houses and 22,000 males (15,
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The working men — Numbers 4:1–49
+
+His descendants of thirty to fifty number 8,580 (48), and here the houses add up to the stated total. The tribe that stood in for the firstborn now carries the tabernacle.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -153,6 +159,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - Numbers 2 — The camp in the middle, not counted. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — The tribe given to Aaron and taken in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
 - Numbers 3:14–51 — The tribe counted from a month old and exchanged for the firstborn. [[The Levites and the Firstborn Counted]]
+- Numbers 4:46–49 — 8,580 working men counted. [[The Service of Kohath, Gershon, and Merari]]
 
 ## Appears in
 
@@ -220,6 +227,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp in the middle, not counted.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; given to Aaron, and taken in place of the firstborn.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; counted from a month old, and exchanged.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:46–49; 8,580 working men.
 
 ## Related people
 

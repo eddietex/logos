@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:22, 28, 34, 39; the three houses and the stated total
 - Numbers 3:43, 46 — the 22,273 firstborn, and the 273 over
-- Numbers 4:36, 40, 44, 48 — the working adults *(not yet ingested; stored WEB)*
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:36, 40, 44, 48; the working adults
 - Numbers 26:62 — the second Levite total *(not yet ingested; stored WEB)*
 
 ## Analysis
@@ -24,7 +24,8 @@ tags: [connection]
 | Sum of the parts | 22,300 | 8,580 |
 | Total stated | 22,000 (3:39) | 8,580 (4:48) |
 
-The sums of chapter 4 add up exactly. The sum of chapter 3 is off by 300, and the Hebrew of the four
+The sums of chapter 4 add up exactly, and the Hebrew of 4:36, 40, 44, and 48 has the same figures
+(WLC). The sum of chapter 3 is off by 300, and the Hebrew of the four
 verses has the same figures as WEB (WLC). Numbers 26:62 later gives 23,000, a rounded number on its
 face, with no parts.
 
@@ -45,7 +46,8 @@ difference has consequences in the story: 1,365 shekels depend on it.
 The wiki records the difference and adopts no account.
 
 **A proportion worth noting.** Merari is the smallest house counted from a month old and the largest
-among working adults. That is arithmetic from the table, and the text makes no comment.
+among working adults: 52 percent of Merari is of working age, 35 percent of Gershon, and 32 percent of
+Kohath, against the 8,600 as written. That is arithmetic from the table, and the text makes no comment.
 
 ## Significance
 

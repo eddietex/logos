@@ -19,6 +19,12 @@ He counts the Levites and the firstborn himself (16, 42), and verse 39 adds Aaro
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The working men counted — Numbers 4:1–49
+
+He receives all three commands, the first two with Aaron (1, 17, 21), and counts with Aaron and the princes (34). The chapter ends with the count *by Moses*, as Yahweh commanded (49).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ### The generations and the Levites — Numbers 3:1–13
 
 He is in the heading (1), and no son of his is listed. 1 Chronicles 23:14–15 counts his sons among the tribe of Levi (WEB verified at bible-api.com). Both speeches in the unit are addressed to him, and he is the one told to bring Levi near (5–6, 11). See [[The Generations of Aaron and Moses - Toledot Outside Genesis]].
@@ -1070,6 +1076,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 2 — Receives the order of the camp with Aaron. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Told to bring Levi near and give them to Aaron. [[The Generations of Aaron and the Levites Given]]
 - Numbers 3:14–51 — Counts the Levites and the firstborn, and takes the redemption money. [[The Levites and the Firstborn Counted]]
+- Numbers 4:34–49 — Counts the working Levites with Aaron and the princes. [[The Service of Kohath, Gershon, and Merari]]
 
 ## Appears in
 
@@ -1290,6 +1297,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; receives the order of the camp with Aaron.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; named in the heading, and told to bring Levi near.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; does the counting and handles the money.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:34–49; counts the working Levites.
 
 ## Related people
 

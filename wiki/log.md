@@ -20724,3 +20724,26 @@ Hebrew and lemma locations from WLC (Open Scriptures morphhb, all thirty-nine bo
 tags. Rashi on Numbers 3:39 and 16:1 read at Sefaria in the Rosenbaum–Silbermann English. Ezekiel 45:12
 verified at bible-api.com. Counts: 275 passages, 201 people, 104 places, 86 themes, 596 connections.
 Next: The Service of Kohath, Gershon, and Merari, Numbers 4:1–49.
+
+## [2026-10-31] ingest | Numbers 4.1-49 — The Service of Kohath, Gershon, and Merari
+
+Created [[The Service of Kohath, Gershon, and Merari]] and two connections:
+[[Lest They Die - The Ark Carried and the Ark Looked Into]] and
+[[Thirty, Twenty-Five, and Twenty - The Age of Levite Service]]. Revised nine people, seven themes, five connections, two
+passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary kept. No new person or place pages, since every name was already
+covered. Korah and Elzaphan are not named in the unit, so their pages are unchanged. [[Seeing and Being Seen]]
+and [[Life and Death]] gained entries for 4:19–20.
+
+Tensions flagged, not resolved: the ark's poles at 4:6 against Exodus 25:15; thirty against twenty-five
+at Numbers 8:24; who carries the ark; and the order of the houses against Numbers 10:17–21. The ark's
+blue, the *kəlîl* link to the high priest's robe, and the *bālaʿ* link to Korah are marked as the wiki's.
+Reports of a Greek addition at 4:14, of Greek *twenty-five* in chapter 4, and of other readings of
+*kəballaʿ* are named on the pages as unchecked.
+
+Hebrew and lemma locations from WLC (Open Scriptures morphhb, all thirty-nine books), using its
+Strong's tags. Deuteronomy 10:8 and 31:9, Joshua 3:3, 1 Samuel 6:13, 19, 2 Samuel 6:6–7, 1 Kings 8:3–4,
+1 Chronicles 15:2, 13–15 and 23:3, 24, 26–27, 2 Chronicles 31:17, and Ezra 3:8 verified at bible-api.com.
+Counts: 276 passages, 201 people, 104 places, 86 themes, 598 connections. Next: The Unclean Sent Out
+and Wrongs Repaid, Numbers 5:1–10.

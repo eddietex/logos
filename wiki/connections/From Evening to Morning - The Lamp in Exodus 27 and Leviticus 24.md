@@ -11,6 +11,8 @@ tags: [connection]
   [[The Altar and the Court]].
 - **Leviticus 24:1–4** — the rule repeated with Aaron named, and the lamps on the pure gold
   lampstand specified [[The Lamps and the Bread Before Yahweh]].
+- **Numbers 4:9, 16** — the lampstand wrapped for the march, and *the oil for the light* given to Eleazar
+  — [[The Service of Kohath, Gershon, and Merari]].
 - **Exodus 25:31–40; 26:35** — the lampstand made and assigned its location —
   [[The Ark, the Table, and the Lampstand]] and [[The Tabernacle Curtains and Frames]].
 - **Exodus 30:7–8** — morning tending and evening lighting alongside incense service —

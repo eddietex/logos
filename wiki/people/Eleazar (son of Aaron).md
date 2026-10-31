@@ -129,6 +129,7 @@ Aaron’s sons present the offering and receive its most holy remainder (2:2–3
 
 - Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
 - Numbers 3:2, 4 — Ministers with Ithamar under Aaron. [[The Generations of Aaron and the Levites Given]]
+- Numbers 4:16 — Given the oils, the incense, the meal offering, and the oversight. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 3:32 — Made prince of the princes of the Levites. [[The Levites and the Firstborn Counted]]
 
 ### The burnt offering — Leviticus 1:1–17
@@ -200,8 +201,15 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The oils and the oversight — Numbers 4:1–49
+
+Verse 16 gives him the oil for the light, the sweet incense, the continual meal offering, the anointing oil, and *the requirements of all the tabernacle*. He is also among the *sons* who go in with Aaron to cover the holy things (5, 15, 19). Gershon and Merari are put under his brother.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Appears in
 
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:16; the oils, the incense, and the oversight.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; prince of the princes of the Levites.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; ministers with Ithamar under Aaron.
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.

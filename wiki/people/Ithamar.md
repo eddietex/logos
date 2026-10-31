@@ -20,10 +20,10 @@ See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1
 > **23** … and she bore him Nadab and Abihu, Eleazar and Ithamar. (Exodus 6:23)
 
 **The genealogy names him and nothing else; Exodus 38:21 now gives him responsibility for
-the tabernacle’s material count.** See [[The Altar, the Basin, the Court, and the Inventory]]. Later he oversees
-the Gershonite and Merarite Levites (Numbers 4:28, 33), and the priestly house of Eli is usually
-traced to him (from 1 Chronicles 24:3 and the history of Abiathar; these later references remain
-unverified here). See [[The Heads of the Fathers' Houses]].
+the tabernacle’s material count.** See [[The Altar, the Basin, the Court, and the Inventory]]. He oversees
+the Gershonite and Merarite Levites in [[The Service of Kohath, Gershon, and Merari]] (Numbers 4:28, 33). The priestly
+house of Eli is usually traced to him (from 1 Chronicles 24:3 and the history of Abiathar; these later
+references remain unverified here). See [[The Heads of the Fathers' Houses]].
 
 ### The lamp service prescribed — Exodus 27:1–21
 
@@ -128,6 +128,7 @@ Aaron’s sons present the offering and receive its most holy remainder (2:2–3
 
 - Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
 - Numbers 3:2, 4 — Ministers with Eleazar under Aaron. [[The Generations of Aaron and the Levites Given]]
+- Numbers 4:28, 33 — Set over the Gershonite and Merarite service. [[The Service of Kohath, Gershon, and Merari]]
 
 ### The burnt offering — Leviticus 1:1–17
 
@@ -192,8 +193,15 @@ With Nadab and Abihu dead and childless, he and his brother *ministered in the p
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### Over Gershon and Merari — Numbers 4:21–33
+
+His first office by name in Numbers: the service of both houses is *under the hand of Ithamar the son of Aaron the priest* (28, 33). He is also among the *sons* who go in with Aaron to cover the holy things (5, 15, 19).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Appears in
 
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:28, 33; over Gershon and Merari.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; ministers with Eleazar under Aaron.
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
@@ -238,6 +246,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 
 - [[Aaron]], [[Elisheba]] — his parents
 - [[Nadab (son of Aaron)]], [[Abihu]], [[Eleazar (son of Aaron)]] — his brothers
+- [[Gershon]], [[Merari]] — the houses placed under him (Numbers 4:28, 33)
 
 ## Themes associated
 

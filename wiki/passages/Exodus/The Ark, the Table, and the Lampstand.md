@@ -258,8 +258,9 @@ given for the table's poles. **The ark is built to be carried and never touched.
 this seriously. When the ark comes into Solomon's temple, *"The poles were so long that the ends of the
 poles were seen from the holy place … They are there to this day"* (1 Kings 8:8). When Uzzah *"reached
 for God's ark, and took hold of it; for the cattle stumbled"*, *"God struck him there for his error"*
-(2 Samuel 6:6–7). Both are *not yet ingested*. Numbers 4 gives the Kohathites the job of carrying it;
-see [[Kohath]].
+(2 Samuel 6:6–7). Both are *not yet ingested*. [[The Service of Kohath, Gershon, and Merari]] gives the Kohathites the job of carrying it, and
+has Aaron's sons *put in its poles* at Numbers 4:6, which stands against 25:15 and is flagged there. See
+[[Kohath]] and [[Lest They Die - The Ark Carried and the Ark Looked Into]].
 
 ### "The testimony which I shall give you"
 

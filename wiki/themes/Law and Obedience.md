@@ -828,6 +828,12 @@ Moses counts *according to Yahweh's word, as he was commanded* (16), counts agai
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### According to the commandment — Numbers 4:1–49
+
+Each house's count closes on the commandment of Yahweh (37, 41, 45), and the chapter closes on it twice (49).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1026,6 +1032,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; census and exemption carried out as commanded.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; obedience in where the tribes camp and march.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:16, 42, 51; the command carried out.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:37, 41, 45, 49; the count as commanded.
 
 ## Related themes
 

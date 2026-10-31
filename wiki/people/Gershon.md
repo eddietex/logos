@@ -32,6 +32,12 @@ Listed first (17–18). The Libnites and Shimeites number 7,500 (21–22), camp 
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The fabric — Numbers 4:21–28
+
+His 2,630 working men carry the curtains, the coverings, the screens, and the hangings of the court, with cords and instruments (25–26). They work at the word of Aaron and his sons, under the hand of [[Ithamar]] (27–28).
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -39,6 +45,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - Listed first of Levi's sons; his sons Libni and Shimei *"according to their families"* — Exodus
   6:16–17, [[The Heads of the Fathers' Houses]]
 - Numbers 3:17–26 — the Gershonite house and its charge over the tabernacle's fabric, [[The Levites and the Firstborn Counted]]
+- Numbers 4:21–28, 38–41 — 2,630 working men carry the fabric, under Ithamar. [[The Service of Kohath, Gershon, and Merari]]
 - 1 Chronicles 6:39–43 — Asaph's descent traced to him
 
 ## Appears in
@@ -48,6 +55,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16–17; **one verse, two sons**, Libni and Shimei, the same names
   Numbers 3:18 gives his clans. See [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 7,500, on the west, with the fabric.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:21–28, 38–41; 2,630 men, with the fabric.
 
 ## Related people
 
@@ -55,6 +63,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[Kohath]], [[Merari]] — his brothers, and the other two Levitical houses
 - [[Jacob]] — his grandfather
 - [[Eliasaph (son of Lael)]] — prince of his house (Numbers 3:24)
+- [[Ithamar]] — the priest over his house (Numbers 4:28)
 
 ## Themes associated
 

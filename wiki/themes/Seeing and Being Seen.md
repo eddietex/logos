@@ -287,6 +287,12 @@ one poem. The man whose eyes are mentioned remains unnamed.
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### Not even a moment — Numbers 4:17–20
+
+The Kohathites may carry the sanctuary, but *they shall not go in to see the sanctuary even for a moment, lest they die* (20). Those nearest to the holy things are forbidden the sight of them.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -609,6 +615,7 @@ See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; return so that we may gaze.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:20; the bearers may not look.
 
 ## Related themes
 

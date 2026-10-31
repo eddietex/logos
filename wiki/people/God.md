@@ -19,6 +19,12 @@ He orders both counts (15, 40), says twice that the Levites and their livestock 
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### Keeping the bearers alive — Numbers 4:1–49
+
+He tells Moses and Aaron not to let the Kohathites be cut off (18), and gives the reason himself: *that they may live, and not die* (19). The rule that kills also has a provision for those at risk.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ### The Levites given — Numbers 3:1–13
 
 Yahweh takes the Levites *instead of all the firstborn* and states the ground himself: *for all the firstborn are mine* (12–13). He dates the claim to the day he struck Egypt's firstborn, and he ends with his name. The same speech places the death sentence at the boundary (10). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
@@ -3055,6 +3061,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 2 — Assigns every tribe its place around the Tent. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Gives the Levites to Aaron and takes them in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
 - Numbers 3:14–51 — Orders both counts and sets the price of the surplus. [[The Levites and the Firstborn Counted]]
+- Numbers 4:18–20 — Orders the Kohathites protected. [[The Service of Kohath, Gershon, and Merari]]
 
 ## Appears in
 
@@ -3672,6 +3679,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; assigns every tribe its place around the Tent.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; gives the Levites to Aaron and claims the firstborn.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; orders both counts and names the price.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; orders the bearers protected.
 
 ## Related people
 

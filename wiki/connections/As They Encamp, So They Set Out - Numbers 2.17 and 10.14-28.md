@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Camp Around the Tent]] — Numbers 2:9, 16–17, 24, 31; the order commanded
 - [[The Levites and the Firstborn Counted]] — Numbers 3:23, 29, 35, 38; where the Levite clans camp
-- Numbers 4 — what each clan carries *(not yet ingested; stored WEB)*
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:4–33; what each clan carries
 - Numbers 10:14–28 — the order carried out *(not yet ingested; stored WEB)*
 
 ## Analysis
@@ -40,6 +40,7 @@ The text does not say which. The wiki records the difference and does not resolv
 
 The rule that rest and march have one shape is the chapter's point, and it holds for the twelve
 tribes without exception. The difference is confined to how a sanctuary is moved, which is the
-subject of Numbers 4. See [[The Dwelling of God]].
+subject of [[The Service of Kohath, Gershon, and Merari]]. That chapter lists Kohath first, while 10:17, 21 sends
+Gershon and Merari ahead. Rank and order of march are simply different lists. See [[The Dwelling of God]].
 
 Source: stored WEB Numbers, 2026-10-30.

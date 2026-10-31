@@ -473,6 +473,12 @@ Three Levite princes stand under Eleazar, *prince of the princes* (24, 30, 32, 3
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The priests answer for the bearers — Numbers 4:1–49
+
+Only Aaron and his sons handle the holy things, and they appoint every man (5, 19, 27). Eleazar has the oversight and Ithamar has two houses (16, 28, 33), so the Levites' work depends on the priests' work.
+
+See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -625,6 +631,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the Levites in the middle of the camps.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the two surviving sons, and the Levites given.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; princes under Eleazar, and the money to Aaron.
+- [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20, 27–33; priests over the bearers.
 
 ## Related themes
 
