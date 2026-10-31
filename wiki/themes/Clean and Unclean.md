@@ -404,6 +404,12 @@ The breast and thigh are eaten "in a clean place" (14), a requirement distinct f
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### Three conditions, one camp — Numbers 5:1–4
+
+Leprosy, discharge, and contact with the dead each put a person outside the camp, male or female (2–3). Only the first has an earlier law that says so, and the laws are compared rather than harmonized on the connection page. None of the three is called a sin here.
+
+See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -524,6 +530,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:17–21; hands and feet washed at the basin before every approach.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The basin receives water and Moses, Aaron, and the sons wash hands and feet.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–4; the unclean sent out, and the reason given.
 
 ## Related themes
 

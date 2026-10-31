@@ -96,6 +96,10 @@ say how the two relate. See [[The Camp Around the Tent]].
 See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
 2026-10-25.
 
+Numbers 5:3 is the reverse of Exodus 33:7. There the Tent is pitched outside and those who seek Yahweh go
+out to it. Here Yahweh dwells in the camp and the unclean are sent out. The text does not compare them,
+and the comparison is the wiki's. See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Exodus 33:7; Numbers 5:1–4.
+
 ## Significance
 
 The geography makes the crisis visible: the people who were promised a dwelling among them now

@@ -20747,3 +20747,24 @@ Strong's tags. Deuteronomy 10:8 and 31:9, Joshua 3:3, 1 Samuel 6:13, 19, 2 Samue
 1 Chronicles 15:2, 13–15 and 23:3, 24, 26–27, 2 Chronicles 31:17, and Ezra 3:8 verified at bible-api.com.
 Counts: 276 passages, 201 people, 104 places, 86 themes, 598 connections. Next: The Unclean Sent Out
 and Wrongs Repaid, Numbers 5:1–10.
+
+## [2026-10-31] ingest | Numbers 5.1-10 — The Unclean Sent Out and Wrongs Repaid
+
+Created [[The Unclean Sent Out and Wrongs Repaid]] and two connections: [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] and
+[[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Revised two people, twelve themes, four connections, four passages, and the book, category,
+and top indexes.
+
+Judgment calls: the plan's boundary kept. No new person or place pages. [[Aaron]] is not named, so his
+page is unchanged. The connection [[Outside the Camp - The Sin Offering and Hebrews 13]] concerns the
+bodies of offerings and was not extended to the persons of Numbers 5. On [[Guilt and Conscience]], the
+older line that Numbers 5:6–7 requires confession *aloud* went beyond the text and now says the verse
+does not say how it is made.
+
+Tensions flagged, not resolved: who leaves the camp, across Leviticus 13 and 15, Numbers 5 and 19; the
+monthly period and *everyone who has an issue*; Numbers 5:3 against Leviticus 16:16; confession in
+Numbers 5:7 and its absence from Leviticus 6:1–7; and the fifth against the multiples of Exodus 22. The
+readings of *ḥaṭṭōʾt hāʾādām* (6) and of verse 10 are marked as open, and commentary was not consulted.
+
+Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong's tags. Deuteronomy
+23:10–14, 2 Kings 7:3, 2 Chronicles 26:21, and Luke 17:12–14 verified at bible-api.com. Counts: 277
+passages, 201 people, 104 places, 86 themes, 600 connections. Next: The Suspected Wife, Numbers 5:11–31.

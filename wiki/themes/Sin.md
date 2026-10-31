@@ -535,6 +535,12 @@ The sin offering is given to the priests "to bear the iniquity of the congregati
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### A wrong against a person, a trespass against Yahweh — Numbers 5:5–10
+
+Verse 6 treats a sin of the kind people commit as *maʿal* against Yahweh, while verse 7 pays the injured person. The same wrong has both directions.
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -791,6 +797,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:8–19; *ḥaṭṭāʾîm* who entice, and the *"path of sinners"* of Psalm 1:1
 - [[Wisdom at the Creation]] — Proverbs 8:36; *"he who sins against me wrongs his own soul"* — missing Wisdom as violence to oneself
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–7; a human wrong as a trespass against Yahweh.
 
 ## Related themes
 

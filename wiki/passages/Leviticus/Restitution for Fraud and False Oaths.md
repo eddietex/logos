@@ -73,6 +73,7 @@ both required; the passage does not make them alternatives.
   including the unresolved relation between their different repayment amounts.
 - [[Confession and Offerings According to Means]] — Leviticus 5:1–13;
   rash swearing and withheld testimony differ from this unit’s fraudulent oath.
+- [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]] — Numbers 5:5–10 adds confession and a rule for when no kinsman can be paid.
 
 ## Notes
 

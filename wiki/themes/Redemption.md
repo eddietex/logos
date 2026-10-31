@@ -200,6 +200,12 @@ This is the first use of the *pādâ* words in Numbers: 273 firstborn with no Le
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The kinsman as recipient — Numbers 5:5–10
+
+The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative who may receive a payment owed to the injured man (8).
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:46–51; 273 firstborn bought out at five shekels.
@@ -240,6 +246,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:11–16; the half-shekel *"ransom for his soul"* at the census.
 - [[The Lamp of the Commandment]] — Proverbs 6:35; *kōp̄er* offered by the adulterer and refused
 - [[Thirty Excellent Things]] — Proverbs 23:11; The fatherless's *Defender*, Hebrew *gōʾēl*.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the *gōʾēl* as the one who receives the payment.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

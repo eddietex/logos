@@ -81,7 +81,7 @@ record. **Genesis prints real repentance and its counterfeit back to back and la
 
 - **The guilt offering (*ʾāšām*)** of Leviticus 5:14–6:7 institutionalises the category: **restitution
   plus a fifth, then a sacrifice** — the liability is discharged materially first. Numbers 5:6–7
-  requires confession aloud.
+  requires confession; the verse does not say how it is made.
 - ***"Against you, and you only, have I sinned"*** — **David's** Psalm 51, written after a prophet
   forced the admission (2 Samuel 12:13). **Like Judah, he confesses when confronted.** See
   [[Sin Against God - Joseph at 39.9 and David at Psalm 51]].
@@ -171,6 +171,12 @@ verdict establishes that point.
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Confession required — Numbers 5:5–10
+
+The soul *is guilty* (6), and the first step is confession (7), which Leviticus 6:1–7 does not mention. The noun *ʾāšām* here names the repayment itself (7–8, WLC).
+
+See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -250,6 +256,7 @@ See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1�
   before the killing, hid the body after it, and when it was thrown back at him said *"Surely this
   thing is known"* and was afraid. The narrator records the precautions without a verdict; **the
   concealment is the only comment the text makes**
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–8; guilt confessed and repaid.
 
 ## Related themes
 

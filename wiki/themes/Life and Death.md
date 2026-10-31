@@ -660,6 +660,12 @@ The priests' care for the Kohathites is stated as a matter of survival: *that th
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### Unclean by the dead — Numbers 5:1–4
+
+Contact with the dead is enough to put a living person outside the camp (2). The law says nothing of how that person returns; Numbers 19 will.
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -1078,6 +1084,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[Do Not Envy Sinners]] — Proverbs 23:13–14, 22; The rod that does not kill and saves from Sheol; the father who gave life.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:11; Those led away to death, to be rescued.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; that they may live.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2; the dead and the camp.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

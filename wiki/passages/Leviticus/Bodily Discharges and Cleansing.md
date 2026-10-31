@@ -72,6 +72,7 @@ same community, without every bodily process being named a moral transgression.
 - [[Bodily Purification - Childbirth and Discharges in Leviticus 12 and 15]] — related bodily laws with distinct durations and offerings.
 - [[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]] — washing and the warning against death beside divine presence.
 - [[The Cleansing of the Leper]] — another seven-day and eighth-day restoration sequence.
+- [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] — Numbers 5:2 sends out those with an issue; this chapter names no camp.
 
 ## Notes
 

@@ -174,6 +174,12 @@ provisions; neither expressly explains how the penalties interact in an overlapp
 
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
+### Confession and the fifth — Numbers 5:5–10
+
+The principal plus a fifth goes to the one wronged (7). Where there is no kinsman to receive it, the payment passes to Yahweh and the priest (8), so the debt survives the loss of the creditor.
+
+See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -211,6 +217,7 @@ See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1�
 - [[The Lamp of the Commandment]] — Proverbs 6:30–31; the hungry thief, not despised, who still
   restores sevenfold
 - [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10; Robbing the poor and moving the boundary stone.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:7–8; repayment, the fifth, and the kinsman.
 
 ## Related themes
 

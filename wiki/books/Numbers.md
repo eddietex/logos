@@ -28,6 +28,8 @@ them, with five shekels each for the 273 left over.
 [[The Service of Kohath, Gershon, and Merari]] (4:1–49) then counts the working men of thirty to
 fifty and gives each house its load; the priests must wrap the holy things first, so that the
 Kohathites who carry them *may live, and not die*.
+[[The Unclean Sent Out and Wrongs Repaid]] (5:1–10) then clears the camp of the unclean, because Yahweh dwells in it, and requires the
+guilty to confess and repay with a fifth added.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -55,7 +57,7 @@ merge, or reorder them freely.
 - [x] [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13
 - [x] [[The Levites and the Firstborn Counted]] — Numbers 3:14–51
 - [x] [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–49
-- [ ] The Unclean Sent Out and Wrongs Repaid — Numbers 5:1–10
+- [x] [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–10
 - [ ] The Suspected Wife — Numbers 5:11–31
 - [ ] The Nazirite Vow — Numbers 6:1–21
 - [ ] Yahweh Bless You and Keep You — Numbers 6:22–27
@@ -115,6 +117,8 @@ merge, or reorder them freely.
 - [[Law and Obedience]] — *as Yahweh commanded*
 - [[Birthright and the Firstborn]] — the Levites taken instead of the firstborn
 - [[Redemption]] — five shekels for those left over
+- [[Clean and Unclean]] — the unclean sent out of the camp
+- [[Theft and Restitution]] — confession, repayment, and the fifth
 
 ## Key people
 

@@ -479,6 +479,12 @@ Only Aaron and his sons handle the holy things, and they appoint every man (5, 1
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### What is given to the priest — Numbers 5:5–10
+
+A payment with no human recipient goes to the priest, along with the ram (8), and what is presented to him is his (9–10).
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -632,6 +638,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the two surviving sons, and the Levites given.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; princes under Eleazar, and the money to Aaron.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20, 27–33; priests over the bearers.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10; the priest as final recipient.
 
 ## Related themes
 

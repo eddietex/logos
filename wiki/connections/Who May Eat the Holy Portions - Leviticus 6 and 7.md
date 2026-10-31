@@ -13,6 +13,7 @@ tags: [connection]
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38.
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20.
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10.
 
 ## Analysis
 
@@ -70,6 +71,12 @@ does not say which grade of holy food it covers beyond "the holy thing" and "the
 That gap is left open.
 
 Source: stored WEB Leviticus 6:29; 7:6, 20–21; 10:14; 22:1–16.
+
+### What is given to the priest — Numbers 5:8–10
+
+Numbers 5:8 adds a payment that was not an offering at all, the restitution with no one to receive it.
+Verses 9–10 state the general rule, that what is presented to the priest is his. Leviticus 22:4 still
+limits who may eat, and Numbers 5 does not touch that. Source: stored WEB Numbers 5:8–10.
 
 ## Significance
 

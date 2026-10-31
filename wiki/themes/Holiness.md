@@ -567,6 +567,12 @@ The holy things are so dangerous that even their appointed bearers may not touch
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### The whole camp — Numbers 5:1–4
+
+The boundary moves outward. Earlier chapters guarded the Tent from the tribes, and here the camp is guarded from defilement, because of who lives there (3).
+
+See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -716,6 +722,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the firstborn made holy, and the sentence at the boundary.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; keeping the sanctuary, and the door.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 18–20; carried, not touched, not seen.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2–3; the boundary at the edge of the camp.
 
 ## Related themes
 

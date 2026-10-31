@@ -414,6 +414,12 @@ A dwelling that moves has to be wrapped, divided, and carried. The veil comes do
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### The camp as his dwelling — Numbers 5:1–4
+
+*In the midst of which I dwell* (3) makes the camp itself the place to be kept. Leviticus 16:16 has the Tent dwelling *with them in the middle of their uncleanness*; the tension is flagged on the passage page.
+
+See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -511,6 +517,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; a tribe given to keep the Tent.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each part of the Tent has a keeper.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–15, 25–26, 31–32; the dwelling made to move.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3; the camp in which Yahweh dwells.
 
 ## Related themes
 

@@ -72,6 +72,7 @@ outside the camp for as long as the plague remains.
 ## Cross-references
 
 - [[Outside the Camp and Back Again - Leviticus 13 and 14]] — now also compared with [[The Cleansing of the Leper]], Leviticus 14:1–32.
+- [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] — Numbers 5:2 keeps the exclusion and widens the list.
 
 - [[Skin and Garments - Examination and Cleanness in Leviticus 13]] — adjoining laws compared.
 - [[Mildew in Garments]] — Leviticus 13:47–59; distinct rules for affected material.

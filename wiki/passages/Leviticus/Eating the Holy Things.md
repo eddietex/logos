@@ -77,6 +77,7 @@ entitlement — uncleanness, temporarily — and who outside the priest's own bo
 - [[Who May Eat the Holy Portions - Leviticus 6 and 7]] — now extended to the priestly household of 22:10–13.
 - [[Restitution to the Neighbor and for Holy Things]] — the added fifth for unwitting eating at 22:14.
 - [[The Holiness of the Priests]] — the defect rules of 21:17–23 keep holy food; this unit names what suspends it.
+- [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] — Numbers 5:2 applies the same three conditions of 22:4 to the whole camp.
 
 ## Notes
 

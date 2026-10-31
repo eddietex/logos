@@ -264,6 +264,12 @@ Moses says the sin offering was given to the priests "to bear the iniquity of th
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The ram of atonement — Numbers 5:5–10
+
+The ram stands *besides* the repayment (8), so atonement does not replace it. *ʾÊl hakkippurîm* occurs only here (WLC, Strong's tags).
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -324,6 +330,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Ordination of the Priests]] — Exodus 29:33, 36–37; atonement for the priests and the altar.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10, 12–16; yearly atonement on the
   incense altar, and the half-shekel ransom as atonement money.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the ram beside the repayment.
 
 ## Related themes
 

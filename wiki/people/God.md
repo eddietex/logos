@@ -25,6 +25,12 @@ He tells Moses and Aaron not to let the Kohathites be cut off (18), and gives th
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### The one who dwells in the camp — Numbers 5:1–10
+
+He says *I dwell* in the midst of the camp and gives that as the reason for the law (3). He also counts a wrong against a person as a trespass against himself (6), and stands as recipient when no kinsman remains (8).
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ### The Levites given — Numbers 3:1–13
 
 Yahweh takes the Levites *instead of all the firstborn* and states the ground himself: *for all the firstborn are mine* (12–13). He dates the claim to the day he struck Egypt's firstborn, and he ends with his name. The same speech places the death sentence at the boundary (10). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
@@ -3062,6 +3068,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 3:1–13 — Gives the Levites to Aaron and takes them in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
 - Numbers 3:14–51 — Orders both counts and sets the price of the surplus. [[The Levites and the Firstborn Counted]]
 - Numbers 4:18–20 — Orders the Kohathites protected. [[The Service of Kohath, Gershon, and Merari]]
+- Numbers 5:3, 6, 8 — Dwells in the camp; receives the unclaimed payment. [[The Unclean Sent Out and Wrongs Repaid]]
 
 ## Appears in
 
@@ -3680,6 +3687,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; gives the Levites to Aaron and claims the firstborn.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; orders both counts and names the price.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; orders the bearers protected.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3, 6, 8; dwells in the camp, and is wronged in the neighbor.
 
 ## Related people
 

@@ -12,6 +12,7 @@ tags: [connection]
 
 - [[Restitution for Fraud and False Oaths]] — Leviticus 6:1–7.
 - [[Eating the Holy Things]] — Leviticus 22:14.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:5–10.
 
 ## Analysis
 
@@ -59,6 +60,12 @@ priestly atonement. **Unresolved:** the text neither says the ram is assumed nor
 waived, and this comparison does not decide between them.
 
 Source: stored WEB Leviticus 5:15–16; 22:14.
+
+### Confession and the kinsman — Numbers 5:5–10
+
+Numbers 5:7 keeps the fifth and adds confession. Verse 8 sends the payment to Yahweh and the priest when
+no kinsman can receive it. It does not address the multiples of Exodus 22 either, so the unresolved
+tension above stands. See [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Source: stored WEB Numbers 5:5–10.
 
 ## Significance
 

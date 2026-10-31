@@ -834,6 +834,12 @@ Each house's count closes on the commandment of Yahweh (37, 41, 45), and the cha
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### As Yahweh spoke — Numbers 5:1–4
+
+The first law after the camp is ordered is carried out in the same unit, and the verse says so twice (4).
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1033,6 +1039,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Camp Around the Tent]] — Numbers 2:1–34; obedience in where the tribes camp and march.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:16, 42, 51; the command carried out.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:37, 41, 45, 49; the count as commanded.
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:4; the command carried out.
 
 ## Related themes
 

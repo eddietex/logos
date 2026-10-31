@@ -586,6 +586,12 @@ The meal offering (9:17), the peace-offering breast and thigh (9:21), and the pe
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### Offerings and repayment — Numbers 5:5–10
+
+The ram of atonement is assumed rather than described (8), and the heave offerings presented to the priest are his (9).
+
+See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -810,6 +816,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Moses burns incense and offers burnt and meal offerings on the installed altars.
 - [[The Young Man Void of Understanding]] — Proverbs 7:14; peace offerings at home, the opening of
   a seduction
+- [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–9; the ram and the heave offerings.
 
 ## Related themes
 
