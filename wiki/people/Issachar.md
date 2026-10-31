@@ -68,6 +68,12 @@ His tribe numbers 54,400, fifth in size, with Nethanel son of Zuar (8, 29).
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Encamps next to Judah on the east (5), with Nethanel son of Zuar as prince; 54,400, unchanged from chapter 1.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Leah]] after *"God listened to Leah"*; *"God has given me my hire"* — Genesis 30:17–18,
@@ -83,6 +89,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 54,400. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Judah's camp on the east. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -130,6 +137,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); fifth of Leah's sons — and the bondage's *śārê missîm*, *taskmasters* (1:11), is the *mas* of his own blessing (Genesis 49:15). Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 54,400.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Judah's camp on the east.
 
 ## Related people
 

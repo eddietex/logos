@@ -87,6 +87,12 @@ His tribe numbers 40,500, tenth in size, with Elishama son of Ammihud, and stand
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+His tribe heads the west camp and sets out third (18–24), with Manasseh and Benjamin. The younger son of Joseph leads, as at Genesis 48, although the west camp's 108,100 is the smallest of the four.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -99,6 +105,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Given the right hand and the greater blessing over Joseph's objection; *"his offspring will become a
   multitude of nations"* — Genesis 48:13–20, [[Jacob Blesses Ephraim and Manasseh]]
 - Numbers 1 — Tribe counted at 40,500, ahead of Manasseh. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — Heads the west camp and sets out third. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -123,6 +130,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   thing Genesis records about him.** The verse counts his descendants and then names
   [[Manasseh]]'s grandson instead
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 40,500, ahead of Manasseh.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; heads the west camp and sets out third.
 
 ## Related people
 

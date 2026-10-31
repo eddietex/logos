@@ -76,6 +76,12 @@ His tribe numbers 59,300, third in size, with Shelumiel son of Zurishaddai (6, 2
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Encamps next to Reuben on the south (12), with Shelumiel son of Zurishaddai as prince; 59,300, unchanged from chapter 1.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her second son; *"Yahweh has heard that I am hated"* — Genesis 29:33,
@@ -97,6 +103,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Second in the genealogy of Moses and Aaron, with his six sons — Exodus 6:15,
   [[The Heads of the Fathers' Houses]]
 - Numbers 1 — Tribe counted at 59,300. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Reuben's camp on the south. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -164,6 +171,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   all, and closed with *"these are the families of Simeon"*. **The list passes on to Levi**, the
   brother he was cursed with
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 59,300.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Reuben's camp on the south.
 
 ## Related people
 

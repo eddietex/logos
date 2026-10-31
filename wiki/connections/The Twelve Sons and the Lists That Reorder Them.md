@@ -15,7 +15,7 @@ tags: [connection]
 - **Genesis 49:1–28** — Jacob's blessing, and its own order
 - **Exodus 1:1–5** — the eleven who came with Jacob, with Joseph already in Egypt
   — [[The Oppression in Egypt]]
-- **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split** ([[The Census in the Wilderness of Sinai]])
+- **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split** ([[The Census in the Wilderness of Sinai]], [[The Camp Around the Tent]]). In the camp, the groups of three follow the mothers loosely, with Gad filling Levi's place beside Reuben and Simeon
 - **Deuteronomy 33** — Moses' blessing, with **Simeon missing**
 - **Joshua 13–19** — the allotments, with **no territory for Levi**
 - **Ezekiel 48:1–35** — the eschatological land, and the twelve gates
@@ -89,7 +89,8 @@ adopting any of the traditional explanations.
 **5. Ezekiel and Revelation put the number back together for the end.** Ezekiel 48 gives every tribe a
 strip of land — **Levi included, and Joseph split** — and names twelve gates for twelve tribes.
 Revelation 21:12–14 sets the twelve tribes on the gates of the city and the twelve apostles on its
-foundations, **which is the last thing the Bible does with these names.**
+foundations, **which is the last thing the Bible does with these names.** See
+[[Three Gates to a Side - Numbers 2, Ezekiel 48, and Revelation 21]].
 
 ### What survives every list
 

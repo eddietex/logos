@@ -261,6 +261,12 @@ The largest tribe, 74,600, with [[Nahshon]] as its man (7, 27). The text does no
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+His tribe heads the east camp, with Issachar and Zebulun, toward the sunrise, and sets out first (3–9). The camp's 186,400 is the largest of the four. Genesis 49:8–10 is the obvious background, but the chapter does not cite it or give a reason.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -291,6 +297,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Largest tribe, 74,600. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — Heads the east camp and sets out first. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -366,6 +373,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); fourth among Leah's six. Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; largest tribe, 74,600.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; heads the east camp and sets out first.
 
 ## Related people
 

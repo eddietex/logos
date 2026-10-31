@@ -51,6 +51,8 @@ tags: [connection]
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:16–33; general obedience and seven detailed WEB notices.
 
+- [[The Camp Around the Tent]] — Numbers 2:34; *so they encamped by their standards, and so they set out*
+
 ## Analysis
 
 **The formula is *kəkōl ʾăšer ṣiwwâ … kēn ʿāśâ*, *"according to all that he commanded … so he

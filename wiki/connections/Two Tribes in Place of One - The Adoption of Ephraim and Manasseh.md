@@ -26,6 +26,8 @@ tags: [connection]
 - **Revelation 7:5–8** — the sealed twelve: **[[Joseph]] and Manasseh listed, Ephraim and [[Dan (person)]]
   absent**
 
+- [[The Camp Around the Tent]] — Numbers 2:18–24; Ephraim heads the west camp, with Manasseh next to him
+
 ## Analysis
 
 **One sentence in Genesis 48 makes every later list of the tribes an arithmetic problem, and Scripture

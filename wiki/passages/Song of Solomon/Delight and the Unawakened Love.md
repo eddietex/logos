@@ -154,8 +154,9 @@ adopts neither.
 **The banquet hall.** The WEB's *banquet hall* (2:4) renders *bêt hayyāyin*, literally
 *house of wine* (Sefaria, *Miqra according to the Masorah*). That links the line with the
 wine comparisons of 1:2 and 1:4. What *"his banner over me is love"* pictures — a military
-standard, a sign over a hall, or something else — is not settled, and the page makes no
-lexical claim about *banner*.
+standard, a sign over a hall, or something else — is not settled. The noun is *degel*, which by
+the WLC's tags occurs otherwise only in Numbers, where it is a tribal standard. See
+[[By His Own Standard - Degel in Numbers and the Song of Solomon]].
 
 **Rose and lily.** The WEB's *rose of Sharon* names a flower that is not securely identified.
 The page follows the WEB and makes no botanical claim. The woman's self-description may be

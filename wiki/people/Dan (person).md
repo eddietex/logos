@@ -104,6 +104,12 @@ His tribe numbers 62,700, second in size, with Ahiezer son of Ammishaddai (12, 3
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+His tribe heads the north camp and sets out last (25–31), with Asher and Naphtali. The son of a servant leads the second-largest camp, 157,600, and 10:25 calls it the rear guard of all the camps.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -120,6 +126,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Second-largest tribe, 62,700. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — Heads the north camp and sets out last. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -182,6 +189,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); first of Bilhah's two, after Rachel's. Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; second-largest tribe, 62,700.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; heads the north camp and sets out last.
 
 ## Related people
 

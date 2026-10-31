@@ -207,6 +207,12 @@ Numbers opens with a muster. *All who are able to go out to war* (3) translates 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+The muster becomes a formation. Four camps of three stand *according to their divisions*, each under a standard, each with a set turn on the march, and *ṣābāʾ* occurs twenty times (WLC). The whole of it is drawn up around a tent, and nobody fights in the chapter. See [[By His Own Standard - Degel in Numbers and the Song of Solomon]].
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -300,6 +306,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:5–6; War waged by wise guidance; victory in many advisors.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; awesome as an army with banners.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the muster of those able to go out to war.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; the four camps in formation.
 
 ## Related themes
 

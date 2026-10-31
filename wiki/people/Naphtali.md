@@ -68,6 +68,12 @@ His tribe closes the register with 53,400, sixth in size, with Ahira son of Enan
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+In Dan's camp on the north (29), with Ahira son of Enan as prince; 53,400, unchanged from chapter 1.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"I have wrestled with my sister… and have prevailed"* —
@@ -83,6 +89,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 53,400. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Dan's camp on the north. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -132,6 +139,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); Bilhah's second. Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 53,400.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
 
 ## Related people
 

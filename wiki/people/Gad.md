@@ -62,6 +62,12 @@ His tribe numbers 45,650, the only figure not ending in hundreds, with Eliasaph 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Takes the third place in Reuben's camp on the south (14), which matches the census order of chapter 1: the son of Leah's servant stands where Levi might have been expected. His prince is Eliasaph, and his father is *Reuel* here, Deuel at 1:14, 7:42, and 10:20 (WLC).
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"How fortunate!"* — Genesis 30:10–11,
@@ -76,6 +82,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 45,650. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Reuben's camp on the south. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -124,6 +131,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); Zilpah's first — **moved after Rachel's and Bilhah's sons**, where Genesis 46 had put Zilpah's before them. Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 45,650.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Reuben's camp on the south.
 
 ## Related people
 

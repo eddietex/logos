@@ -19,6 +19,8 @@ tags: [connection]
   yet ingested)
 - **Luke 1:5** — Elizabeth, Zechariah's wife, *of the daughters of Aaron* (paraphrased)
 
+- [[The Camp Around the Tent]] — Numbers 2:3; Nahshon as prince of Judah's camp
+
 ## Analysis
 
 **Exodus 6:23 is the only verse in the genealogy that gives a wife both a father and a brother.**

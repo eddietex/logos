@@ -102,6 +102,12 @@ His tribe numbers 35,400, eleventh in size, with Abidan son of Gideoni (11, 37).
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+In Ephraim's camp on the west (22), with Abidan son of Gideoni as prince. All three west tribes descend from Rachel.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born on the road to Ephrath; [[Rachel]] dies in the labour — Genesis 35:16–19,
@@ -126,6 +132,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 35,400. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -195,6 +202,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); **Rachel's only son on the list**, since Joseph did not *come* — he *"was in Egypt already"* (1:5). Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 35,400.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
 
 ## Related people
 

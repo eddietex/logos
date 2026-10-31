@@ -88,6 +88,12 @@ His tribe numbers 32,200, the smallest, with Gamaliel son of Pedahzur (10, 35). 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Next to Ephraim on the west (20), with Gamaliel son of Pedahzur as prince. The firstborn of Joseph stands second, and his 32,200 is the smallest figure.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -101,6 +107,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   become a people, and he also will be great"* — Genesis 48:13–20,
   [[Jacob Blesses Ephraim and Manasseh]]
 - Numbers 1 — Smallest tribe, 32,200. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -124,6 +131,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   verse that gives [[Joseph]] his third generation. **The line Genesis follows to the very end is
   his, not [[Ephraim]]'s** — the demoted brother supplies the book's last name
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; smallest tribe, 32,200.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
 
 ## Related people
 

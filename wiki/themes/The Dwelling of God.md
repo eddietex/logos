@@ -390,6 +390,12 @@ The tabernacle is now mobile: the Levites take it down, carry it, and set it up 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Every tribe is placed in relation to the Tent, and all of them face it (2). The promise *that I may dwell among them* (Exodus 25:8) now has a map. Set against Exodus 33:7, where the tent stood far outside the camp, the difference is plain, and the wiki does not resolve how the two relate. See [[The Tent Outside the Camp and the Promised Dwelling]] and [[Three Gates to a Side - Numbers 2, Ezekiel 48, and Revelation 21]].
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -483,6 +489,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The completed sanctuary is filled, and its cloud accompanies the travelling people.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the tabernacle carried by the Levites.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; every tribe placed around the Tent.
 
 ## Related themes
 

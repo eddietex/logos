@@ -34,6 +34,12 @@ Israel is being organized to walk it, with the sanctuary at the center.
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp around the Tent — Numbers 2:1–34
+
+The place has no walls, roads, or settled order, so the order comes from the people's arrangement around the Tent. It moves with them: *As they encamp, so shall they set out* (17).
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ### Ahead
 
 Numbers 26:65 reports the sentence carried out: *They shall surely die in the wilderness*. Acts 7:38
@@ -45,6 +51,7 @@ later calls Israel *the assembly in the wilderness*.
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:14.
 - [[Manna and Quail]] — Exodus 16; hunger and bread.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1, 19; the book's opening.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; a camp in order, ready to move.
 
 ## Related themes
 

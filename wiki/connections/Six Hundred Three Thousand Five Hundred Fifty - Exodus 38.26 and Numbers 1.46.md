@@ -12,7 +12,7 @@ tags: [connection]
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:25–26; *six hundred three
   thousand five hundred fifty men*
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:46; the same figure, by tribe
-- Numbers 2:32 — the same figure again, by camp *(not yet ingested; stored WEB)*
+- [[The Camp Around the Tent]] — Numbers 2:32; the same figure again, by camp
 - Numbers 11:21 — *six hundred thousand men on foot*, Moses speaking *(not yet ingested; stored WEB)*
 - Numbers 26:51 — *six hundred one thousand seven hundred thirty*, the second census *(not yet
   ingested; stored WEB)*

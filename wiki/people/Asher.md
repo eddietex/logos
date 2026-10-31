@@ -57,6 +57,12 @@ His tribe numbers 41,500, ninth in size, with Pagiel son of Ochran (13, 41).
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Encamps next to Dan on the north (27), with Pagiel son of Ochran as prince; 41,500, unchanged from chapter 1.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"the daughters will call me happy"* — Genesis 30:12–13,
@@ -72,6 +78,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 41,500. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Dan's camp on the north. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -122,6 +129,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); last of the eleven. Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 41,500.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
 
 ## Related people
 

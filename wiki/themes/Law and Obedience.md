@@ -816,6 +816,12 @@ The chapter closes on the formula: *According to all that Yahweh commanded Moses
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+The chapter closes on the same note as the last: *According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out* (34). Here obedience is a matter of where one pitches a tent.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1012,6 +1018,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[The Young Man Void of Understanding]] — Proverbs 7:1–3, 5; the commandments kept, bound on the fingers, written on
   the heart
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; census and exemption carried out as commanded.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; obedience in where the tribes camp and march.
 
 ## Related themes
 

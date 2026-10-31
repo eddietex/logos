@@ -455,6 +455,12 @@ The Levites are not counted with the fighters (47–49). They are appointed to t
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+The Levites travel with the Tent, in the middle of the camps (17), and stay outside the count (33). Chapter 10 details the march differently. See [[As They Encamp, So They Set Out - Numbers 2.17 and 10.14-28]].
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -604,6 +610,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Consecration is commanded and washing reported; the full ordination rite is not retold.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levites set apart from the army.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; the Levites in the middle of the camps.
 
 ## Related themes
 

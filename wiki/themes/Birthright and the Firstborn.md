@@ -93,6 +93,12 @@ Reuben is listed first and called *Israel's firstborn* (20), though Genesis 49:4
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Reuben, *Israel's firstborn* at 1:20, leads a camp but goes second, behind Judah (9, 16). Ephraim leads Manasseh (18–21). The chapter comments on neither.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -242,6 +248,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]
 - [[Laws of Holiness and Compassion]] — Exodus 22:29–30; the firstborn given, with no redemption clause
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; Reuben's title and Joseph's two tribes in the register.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; Judah ahead of Reuben, Ephraim ahead of Manasseh.
 
 ## Related themes
 

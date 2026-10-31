@@ -543,6 +543,12 @@ The nearest sanctuary is not safe. *The stranger who comes near shall be put to 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+Nearness is structured. Israel camps *at a distance* (2), with the Levites between (17), and every man has a set place. The chapter says nothing about danger, but 1:53 has already given the reason.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -688,6 +694,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   noun read as a plural of majesty for God, as at 30:3 (Hebrew from Sefaria's *Miqra according to the
   Masorah*); holiness as the object of knowledge, paired with the fear of Yahweh.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levite cordon and the stranger who comes near.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; the camp held at a distance from the Tent.
 
 ## Related themes
 

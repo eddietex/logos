@@ -130,6 +130,12 @@ His tribe heads the census, 46,500, seventh in size. The register calls him *Isr
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+His tribe heads the south camp and sets out second (10–16). Reuben keeps the leadership of a camp, and yields the first place to Judah. Numbers does not give a reason.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to Leah, the firstborn of the twelve; *"see, a son"* — Genesis 29:32,
@@ -155,6 +161,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Heads the genealogy of Moses and Aaron as *"the firstborn of Israel"*, with his four sons —
   Exodus 6:14, [[The Heads of the Fathers' Houses]]
 - Numbers 1 — Tribe listed first as *Israel's firstborn*. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — Heads the south camp and sets out second. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -231,6 +238,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   4:22 has just called Israel God's firstborn. His four sons are Genesis 46:9's, now *"the families of
   Reuben"*. **The list does not mention the lost birthright**, and moves past him in a verse
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe listed first as *Israel's firstborn*.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; heads the south camp and sets out second.
 
 ## Related people
 

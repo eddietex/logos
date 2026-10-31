@@ -59,6 +59,12 @@ His tribe numbers 57,400, fourth in size, with Eliab son of Helon (9, 31).
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+In Judah's camp on the east (7), with Eliab son of Helon as prince; 57,400, unchanged from chapter 1.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her sixth son; *"God has endowed me with a good dowry"* — Genesis 30:19–20,
@@ -74,6 +80,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 57,400. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — In Judah's camp on the east. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -121,6 +128,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   their mothers' order (Genesis 35:23–26's, not 46's); last of Leah's six. Dead, with *"all that
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 57,400.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; in Judah's camp on the east.
 
 ## Related people
 

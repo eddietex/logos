@@ -18,7 +18,8 @@ says outright. The Hebrew name of the book is taken from its first verse, *in th
 
 [[The Census in the Wilderness of Sinai]] (1:1–54) sets the frame. A month after the tabernacle was raised, Moses and Aaron
 count 603,550 men of fighting age by tribe, and the Levites are set apart to carry and guard the
-tabernacle instead. Israel is arranged as a marching army with a sanctuary at its center.
+tabernacle instead. Israel is arranged as a marching army with a sanctuary at its center. [[The Camp Around the Tent]] (2:1–34) then gives
+every tribe a side and a turn, four camps of three around the Tent, in one order for rest and march.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -42,7 +43,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54
-- [ ] The Camp Around the Tent — Numbers 2:1–34
+- [x] [[The Camp Around the Tent]] — Numbers 2:1–34
 - [ ] The Generations of Aaron and the Levites Given — Numbers 3:1–13
 - [ ] The Levites and the Firstborn Counted — Numbers 3:14–51
 - [ ] The Service of Kohath, Gershon, and Merari — Numbers 4:1–49

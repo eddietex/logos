@@ -20,6 +20,8 @@ tags: [connection]
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:17, 34–38; raised sanctuary, blocked entry, and guidance.
 
+- [[The Camp Around the Tent]] — Numbers 2:2, 17; the Tent of Meeting at the center of the camp, against the distance of Exodus 33:7
+
 ## Analysis
 
 The promise to dwell among Israel in 25:8 and 29:45 is followed by the refusal to go among
@@ -86,6 +88,10 @@ Moses cannot enter because of the cloud and glory. Both descriptions must stand.
 different moments and settings do not establish a permanent exclusion or settle the
 history of the two tents. The new sanctuary’s cloud then governs the people’s journeys
 (40:36–38), giving the dwelling a continuing travelling function.
+
+Numbers 2 takes the tension further. The Tent of Meeting now stands in the middle of the camps, and
+every tribe faces it (2:2, 17). The outside tent is not mentioned again there, and the text does not
+say how the two relate. See [[The Camp Around the Tent]].
 
 See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
 2026-10-25.

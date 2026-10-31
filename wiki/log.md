@@ -20656,3 +20656,25 @@ Hebrew and lemma counts from WLC (Open Scriptures morphhb). Later WEB quotations
 bible-api.com. The explanation of Deuel and Reuel, the meanings of the princes' names, and the book
 titles are qualified on the page as unchecked. Counts: 272 passages, 199 people, 104 places, 86 themes,
 588 connections. Next: The Camp Around the Tent, Numbers 2:1–34.
+
+## [2026-10-30] ingest | Numbers 2.1-34 — The Camp Around the Tent
+
+Created [[The Camp Around the Tent]] and three connections: [[As They Encamp, So They Set Out - Numbers 2.17 and 10.14-28]], [[By His Own Standard - Degel in Numbers and the Song of Solomon]], and
+[[Three Gates to a Side - Numbers 2, Ezekiel 48, and Revelation 21]]. Revised sixteen people plus [[Nahshon]] and [[The Twelve Tribal Princes]]; [[Horeb]]; seven
+themes; six connections; two passages; and the book, connections, and top indexes.
+
+Judgment calls: one unit for the chapter. No new person or place pages, since every name was already
+covered. [[The Twelve Tribal Princes]] remains the group page, and Reuel at 2:14 stays there and is
+not treated as Moses' father-in-law. Leah, Rachel, Zilpah, and Bilhah are not revised, because the
+grouping by mothers is an inference and the chapter names none of them.
+
+Tensions flagged, not resolved: the Levites in the middle at 2:17 against the split order of 10:17–21;
+the Tent at the center against Exodus 33:7; Reuel and Deuel; and the size of the figures, where the
+wiki still adopts none of the answers. The Song of Solomon note on *banner*, which made no lexical
+claim, now reports *degel*, and keeps the meaning of the line open. Later emblem and cross-shape
+traditions are named on the page as unchecked.
+
+Hebrew and lemma counts from WLC (Open Scriptures morphhb, all thirty-nine books), using its Strong's
+tags. Ezekiel 48, Revelation 21, Joshua 3, and Psalm 20 verified at bible-api.com. Counts: 273 passages,
+199 people, 104 places, 86 themes, 591 connections. Next: The Generations of Aaron and the Levites
+Given, Numbers 3:1–13.

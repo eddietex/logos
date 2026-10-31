@@ -110,6 +110,12 @@ The one tribe not counted (47, 49). The reason given is service, not landlessnes
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The camp — Numbers 2:1–34
+
+The Levites camp in the middle (17) and are again not counted (33). Chapter 3 will give each clan its side.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -132,6 +138,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 - Exodus 32 — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29). [[The Golden Calf]]
 - Numbers 1 — Tribe left out of the census and appointed to the tabernacle. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — The camp in the middle, not counted. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -196,6 +203,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16–25; **the tribe the genealogy is for.** Ten verses where Reuben
   and Simeon get one; *tôlədôt*; 137 years; and the line to Aaron and Phinehas
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe left out of the census and appointed to the tabernacle.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; the camp in the middle, not counted.
 
 ## Related people
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The camp — Numbers 2:1–34
+
+Yahweh gives the arrangement to Moses and Aaron together (1). The speech is entirely about where people stand, and its center is his own Tent of Meeting.
+
+See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
+
 ### The census — Numbers 1:1–54
 
 Yahweh speaks in the Tent of Meeting and orders the count (1–4), then exempts Levi and gives the reason: the tabernacle needs guarding so that *there may be no wrath* (48–53). Israel's army is mustered by his command, and its total is reported without comment.
@@ -3034,6 +3040,7 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 1 — Commands the census and the Levites' appointment. [[The Census in the Wilderness of Sinai]]
+- Numbers 2 — Assigns every tribe its place around the Tent. [[The Camp Around the Tent]]
 
 ## Appears in
 
@@ -3648,6 +3655,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Wisdom at the Creation]] — Proverbs 8:22–36; named *Yahweh* twice (8:22, 35): the Creator with Wisdom beside him, and the giver of favour to whoever finds her; no speech.
 - [[The Two Feasts]] — Proverbs 9:1–18; named *Yahweh* once (9:10), in the motto, and *"the Holy One"*; no speech or act.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; commands the census and the Levites' appointment.
+- [[The Camp Around the Tent]] — Numbers 2:1–34; assigns every tribe its place around the Tent.
 
 ## Related people
 

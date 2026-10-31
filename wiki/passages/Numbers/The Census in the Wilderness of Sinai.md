@@ -179,6 +179,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 ## Cross-references
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:17, one month earlier.
+- [[The Camp Around the Tent]] — Numbers 2:1–34, the next unit, and these same figures by camp.
 - [[Vows, Valuations, and Devoted Things]] — the end of Leviticus, the last speech before this one.
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:11–16, the census law.
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:25–28, the same total.
