@@ -31,6 +31,12 @@ He says *I dwell* in the midst of the camp and gives that as the reason for the 
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### The one who answers what no one saw — Numbers 5:11–31
+
+The act was hidden from the husband (13), and the woman is set before him (16, 18). The oath names him as the one who acts: *Yahweh make you a curse* (21). Where no human can know, the law leaves the outcome to him, and Exodus 34:14's *Jealous* shares the root of the husband's jealousy. The text does not join the two.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ### The Levites given — Numbers 3:1–13
 
 Yahweh takes the Levites *instead of all the firstborn* and states the ground himself: *for all the firstborn are mine* (12–13). He dates the claim to the day he struck Egypt's firstborn, and he ends with his name. The same speech places the death sentence at the boundary (10). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
@@ -3069,6 +3075,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 3:14–51 — Orders both counts and sets the price of the surplus. [[The Levites and the Firstborn Counted]]
 - Numbers 4:18–20 — Orders the Kohathites protected. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 5:3, 6, 8 — Dwells in the camp; receives the unclaimed payment. [[The Unclean Sent Out and Wrongs Repaid]]
+- Numbers 5:11–31 — Gives the law of jealousy; the outcome is his. [[The Suspected Wife]]
 
 ## Appears in
 
@@ -3688,6 +3695,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; orders both counts and names the price.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; orders the bearers protected.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3, 6, 8; dwells in the camp, and is wronged in the neighbor.
+- [[The Suspected Wife]] — Numbers 5:16, 18, 21, 25, 30; the one before whom the woman stands.
 
 ## Related people
 

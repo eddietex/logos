@@ -177,6 +177,12 @@ The soul *is guilty* (6), and the first step is confession (7), which Leviticus 
 
 See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Source: stored WEB Numbers 5.
 
+### Iniquity brought to memory — Numbers 5:11–31
+
+Her guilt is known to her and to God, and to no one else. The law gives no route of confession, in contrast with 5:7, a few verses earlier. It ends: *that woman shall bear her iniquity* (31). The text does not say what happens if she confesses.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -257,6 +263,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a F
   thing is known"* and was afraid. The narrator records the precautions without a verdict; **the
   concealment is the only comment the text makes**
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–8; guilt confessed and repaid.
+- [[The Suspected Wife]] — Numbers 5:11–31; hidden guilt, and no confession provided for.
 
 ## Related themes
 

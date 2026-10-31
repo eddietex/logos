@@ -59,6 +59,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Twenty-Two Thousand - The Levite Sums in Numbers 3, 4, and 26]] | tension | [[The Levites and the Firstborn Counted]] (Numbers 3:22, 28, 34, 39, 43, 46) · [[The Service of Kohath, Gershon, and Merari]] (Numbers 4:36, 40, 44, 48) · Numbers 26:62 |
 | [[The Two Arks - Noah's Ship and Moses' Basket]] | typology | Genesis 6:14–7:24 · Exodus 1:22 · Exodus 2:3, 5 · Exodus 10:19 · Genesis 11:3 · 1 Corinthians 10:1–2 · Exodus 25:11, 17 |
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
+| [[Two Bitter Waters - Marah and the Law of Jealousy]] | comparison | [[Bitter Water at Marah]] (Exodus 15:23–25) · [[The Suspected Wife]] (Numbers 5:18, 24, 27) |
 | [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |
 | [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 · Exodus 6:14–27 |
 | [[Two Creation Accounts - Genesis 1 and Genesis 2]] | parallel | Genesis 1:1–2:3 · Genesis 2:4–25 |

@@ -840,6 +840,12 @@ The first law after the camp is ordered is carried out in the same unit, and the
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### The law of jealousy — Numbers 5:11–31
+
+The closing formula calls it *tôraṯ haqqənāʾōṯ* (29, WLC), a teaching for a case that has no evidence. The law regulates what it cannot establish.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1040,6 +1046,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:16, 42, 51; the command carried out.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:37, 41, 45, 49; the count as commanded.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:4; the command carried out.
+- [[The Suspected Wife]] — Numbers 5:29–30; *the law of jealousy*.
 
 ## Related themes
 

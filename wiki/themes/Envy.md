@@ -174,6 +174,12 @@ husband or vengeance. These distinct settings should not be collapsed.
 
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
+### The spirit of jealousy — Numbers 5:11–31
+
+*Rûaḥ qinʾâ* comes on a husband (14, 30, WLC), and the law says twice that it may have no ground (14). The word is used of a feeling here and proves nothing by itself, and the whole rite exists because of that. See [[Made to Drink - Numbers 5.24 and Exodus 32.20]].
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -210,7 +216,7 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
   [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]]
 - Exodus 1:9–11 — the same fear of a prospering household, and a labour draft instead of an eviction
 - Exodus 20:5; 34:14; Deuteronomy 4:24 — *ʾĒl qannāʾ*, and *Jealous* given as a divine name
-- Numbers 5:11–31 — the law of jealousy, the one ordeal in the Torah, built on the same root
+- [[The Suspected Wife]] — Numbers 5:11–31; the law of jealousy, built on the same root. *Ordeal* is the usual modern label, and the text calls it *the law of jealousy*.
 - Proverbs 14:30; 27:4; Ecclesiastes 4:4 — the Wisdom books on what it does to a person
 - Psalm 73:3 — *"I was envious of the arrogant, when I saw the prosperity of the wicked"*; see
   [[The Prosperity of the Wicked]]

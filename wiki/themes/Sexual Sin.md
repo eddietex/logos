@@ -272,6 +272,12 @@ about women in general. 7:28's count is harder and is discussed on the passage p
 
 See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes 7:15–29; comparison sources and Hebrew checks identified on the passage page.
 
+### Hidden from everyone — Numbers 5:11–31
+
+Here the act is defined by what cannot be shown: hidden, concealed, no witness, not caught (13). Only the woman is examined, and the other man never appears again. Leviticus 20:10 and Deuteronomy 22:22 put both to death, and the difference is left standing on the passage page.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
@@ -332,6 +338,7 @@ See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes
   for Sheol — and offers *"Stolen water"*, the other man's well of 5:15
 - [[A Good Name]] — Proverbs 22:14; The adulteress's mouth a deep pit.
 - [[Do Not Envy Sinners]] — Proverbs 23:27–28; The prostitute as a deep pit, the foreign woman as a narrow well, lying in wait.
+- [[The Suspected Wife]] — Numbers 5:11–31; suspected adultery with no witness, and the other man absent.
 
 ## Related themes
 

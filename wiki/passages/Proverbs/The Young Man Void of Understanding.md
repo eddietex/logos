@@ -198,7 +198,7 @@ gang's ambush was set *"for their own lives"* (1:18, *lənap̄šōṯām*).
 **7:24–27 — The verdict.** *"Now therefore, sons, listen to me. Pay attention to the words of my
 mouth. Don't let your heart turn to her ways. Don't go astray in her paths"* (7:24–25). *Sons*,
 plural, as at 4:1 and 5:7, and 7:24a repeats 5:7a (*wəʿattâ ḇānîm šimʿû-lî*). *Turn aside*,
-*ʾal-yēśṭ*, is the verb of the law of the suspected wife in Numbers 5:12, *"If any man's wife goes astray"* (*kî-ṯiśṭeh ʾištô*): the woman *went astray*, and
+*ʾal-yēśṭ*, is the verb of [[The Suspected Wife]] in Numbers 5:12, *"If any man's wife goes astray"* (*kî-ṯiśṭeh ʾištô*): the woman *went astray*, and
 the son is told not to go astray after her. *Heart* and *paths* again: the heart guarded (4:23) is
 the one that does not turn.
 

@@ -134,6 +134,7 @@ it, it need not; and a hired thing *"came for its lease"* (22:14–15).
   [[Laws of Holiness and Compassion]].
 - [[The Lamp of the Commandment]] — Proverbs 6:30–31; the hungry thief who restores sevenfold,
   *yəšallēm*, set as the lesser case against adultery.
+- [[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]] — Exodus 22:10–11; an oath where no one saw, with [[The Suspected Wife]]
 
 ## Notes
 

@@ -121,6 +121,7 @@ scene.
 - [[They Sat Down to Eat and Drink - Exodus 32 in First Corinthians 10]] — Paul's explicit use of Exodus 32:6 as a warning against idolatry.
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses sees commanded work and blesses, contrasting with his response in 32:19.
+- [[Made to Drink - Numbers 5.24 and Exodus 32.20]] — Exodus 32:20; made to drink, with [[The Suspected Wife]]
 
 ## Notes
 

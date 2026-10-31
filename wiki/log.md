@@ -20768,3 +20768,27 @@ readings of *ḥaṭṭōʾt hāʾādām* (6) and of verse 10 are marked as open
 Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong's tags. Deuteronomy
 23:10–14, 2 Kings 7:3, 2 Chronicles 26:21, and Luke 17:12–14 verified at bible-api.com. Counts: 277
 passages, 201 people, 104 places, 86 themes, 600 connections. Next: The Suspected Wife, Numbers 5:11–31.
+
+## [2026-10-31] ingest | Numbers 5.11-31 — The Suspected Wife
+
+Created [[The Suspected Wife]] and three connections: [[Two Bitter Waters - Marah and the Law of Jealousy]],
+[[Made to Drink - Numbers 5.24 and Exodus 32.20]], and
+[[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]]. Revised two people, fifteen themes,
+two connections, five passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary kept. No new person or place pages: the wife, husband, and priest
+are unnamed legal figures, and [[Aaron]] is not named, so his page is unchanged. The label *ordeal* on
+[[Envy]] was reworded, since the text calls this *the law of jealousy*. The older note on
+[[Bitter Water at Marah]] that both waters connect with a test now states that Numbers 5 does not use
+*nissâ*.
+
+Tensions flagged, not resolved: the law has no reciprocal case for a wife; Numbers 5:27 against the
+death penalty of Leviticus 20:10 and Deuteronomy 22:22; the accuser cleared at 5:31 against Deuteronomy
+22:13–19; what happens if she refuses or confesses; the order of verses 24 and 26. The meanings of
+*thigh* and of the loosened head are marked uncertain.
+
+Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong's tags. Deuteronomy
+17:6; 19:15; 22:13–21; 27:15, 1 Kings 8:31–32; 17:18, Ezekiel 29:16, Zechariah 5:3–4, and Hebrews 13:4
+verified at bible-api.com. Commentary not consulted; the calf-as-jealousy-rite reading is reported and
+unchecked. Counts: 278 passages, 201 people, 104 places, 86 themes, 603 connections. Next: The Nazirite
+Vow, Numbers 6:1–21.

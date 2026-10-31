@@ -609,6 +609,12 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The verdict left to Yahweh — Numbers 5:11–31
+
+No court sits, and nobody pronounces a sentence. The priest administers, and the outcome is said to be Yahweh's act (21). Neither the time nor any later procedure is given.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -937,6 +943,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12; The weigher of hearts judges the bystander who claims not to have known.
 - [[The Field of the Sluggard]] — Proverbs 24:23–25; Partiality in judgment cursed by the peoples; those who convict the guilty blessed.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; wrath prevented by the Levites' guard.
+- [[The Suspected Wife]] — Numbers 5:11–31; no human verdict, and the outcome left to Yahweh.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

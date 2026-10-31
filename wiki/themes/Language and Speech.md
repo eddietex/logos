@@ -566,6 +566,12 @@ Speech can fail by omission of testimony or by rash oath; the corrective respons
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### Amen, and words washed off — Numbers 5:11–31
+
+*Amen, Amen* (22) is the first occurrence of *ʾāmēn* in canonical order (WLC, by Strong's tags), and the woman's only speech. Then the written curses are blotted into the water and she drinks them (23–24). Here speech, writing, and swallowing are one act.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -872,6 +878,7 @@ See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticu
 - [[The Glory of Kings]] — Proverbs 25:9–15, 18–20, 23; The word fitly spoken, the soft tongue, the false witness as a weapon.
 - [[Answer a Fool]] — Proverbs 26:4–9, 18–28; The proverb in a fool's mouth, the "joke", the whisperer's morsels, charming speech, the lying tongue.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:2, 5, 11, 14; Praise from another's mouth, open rebuke, the answer to a reproacher, the loud blessing.
+- [[The Suspected Wife]] — Numbers 5:22–24; the first *Amen*, and curses written and drunk.
 
 ## Related themes
 

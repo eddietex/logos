@@ -30,6 +30,12 @@ does not remove the priest, altar, confession, or prescribed gift.
 Sources: stored WEB Leviticus 2 and 5:1–13. No exact Hebrew claim or New Testament quotation
 is needed to establish this comparison.
 
+Numbers 5:15 adds a third case. The offering of [[The Suspected Wife]] also has no oil and no
+frankincense, but it is *barley meal*, not fine flour, and it is called a *meal offering of jealousy*,
+not a sin offering. It has a memorial portion (5:26), but no atonement or forgiveness is stated. Oil
+and frankincense are absent in both, so the absence itself does not make it a sin offering. Source:
+stored WEB Numbers 5.
+
 ## Significance
 
 [[Sacrifice and Offering]], [[Atonement]], and [[Forgiveness]] must account for the flour

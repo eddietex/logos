@@ -410,6 +410,12 @@ Leprosy, discharge, and contact with the dead each put a person outside the camp
 
 See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]]. Source: stored WEB Numbers 5.
 
+### Defiled or clean — Numbers 5:11–31
+
+The law has two outcomes: *defiled* (*niṭməʾâ*) or *clean* (*ṭəhōrâ*, 28, WLC). Here the status is moral as well as ritual, and it cannot be seen until Yahweh shows it. This differs from the three conditions of 5:1–4, none of which is called a sin.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -531,6 +537,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp 
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The basin receives water and Moses, Aaron, and the sons wash hands and feet.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–4; the unclean sent out, and the reason given.
+- [[The Suspected Wife]] — Numbers 5:11–31; defilement that cannot be seen, and the word *clean* as vindication.
 
 ## Related themes
 

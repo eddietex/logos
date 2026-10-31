@@ -573,6 +573,12 @@ The boundary moves outward. Earlier chapters guarded the Tent from the tribes, a
 
 See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]]. Source: stored WEB Numbers 5.
 
+### Holy water — Numbers 5:17
+
+*Mayim qədōšîm* occurs only here, by Strong's tags (WLC). It takes dust from the sanctuary floor, and it stands in a clay vessel. The text does not say what the water's holiness contributes to the outcome.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -723,6 +729,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; keeping the sanctuary, and the door.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 18–20; carried, not touched, not seen.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2–3; the boundary at the edge of the camp.
+- [[The Suspected Wife]] — Numbers 5:17; holy water, and dust from the sanctuary floor.
 
 ## Related themes
 

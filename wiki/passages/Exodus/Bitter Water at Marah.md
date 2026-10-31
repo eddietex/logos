@@ -123,9 +123,10 @@ as water three days out.** The text does not draw the line; the root is the same
 [[Slavery and Servitude]] and [[The Passover]].
 
 **Numbers 5 is the Torah's other bitter water**: the suspected wife is given *"the water of bitterness that
-brings a curse"* (*mê hammārîm*, Numbers 5:18; WEB; WLC; *not yet ingested*), as a test of what cannot
+brings a curse"* (*mê hammārîm*, Numbers 5:18; WEB; WLC; [[The Suspected Wife]]), as a test of what cannot
 otherwise be known. **The Torah's two bitter waters are both connected with a test** — this one with the
-people's, that one with a woman's. The connection is the wiki's observation, not the text's.
+people's, that one with a woman's. The connection is the wiki's observation, not the text's, and Numbers
+5 does not use the verb *nissâ*. See [[Two Bitter Waters - Marah and the Law of Jealousy]].
 
 ***"Therefore its name was called"*** — ***ʿal-kēn qārāʾ šəmāh***, the impersonal *"one called"*, **the
 naming formula of Genesis** — *"Therefore its name was called Babel"* (*ʿal-kēn qārāʾ šəmāh bābel*, 11:9;
@@ -412,7 +413,7 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - Exodus 17:1–7 — water at Massah and Meribah; *"Why do you test Yahweh?"* — [[Water from the Rock]]
 - Exodus 19:5; 23:22, 25 — *"if you will indeed obey my voice"*; *"I will take sickness away"* —
   [[Israel at Mount Sinai]] and [[The Angel Sent Ahead]]
-- Numbers 5:18 — *"the water of bitterness that brings a curse"* *(not yet ingested)*
+- Numbers 5:18 — *"the water of bitterness that brings a curse"*; [[The Suspected Wife]]
 - Numbers 12:13 — *"Moses cried to Yahweh … 'Heal her, God'"* *(not yet ingested)*
 - Numbers 14; 16–17 — the murmurings that end in judgment *(not yet ingested)*
 - Numbers 33:8–9 — *"the wilderness of Etham … encamped in Marah … came to Elim"* *(not yet ingested)*

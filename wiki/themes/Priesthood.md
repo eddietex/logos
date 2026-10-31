@@ -485,6 +485,12 @@ A payment with no human recipient goes to the priest, along with the ram (8), an
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### The priest at the rite — Numbers 5:11–31
+
+The priest does every act: receives, sets her before Yahweh, mixes, loosens, swears, writes, blots, burns, makes her drink (15–26). He gives no ruling. The last verb of decision belongs to Yahweh (21).
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -639,6 +645,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; princes under Eleazar, and the money to Aaron.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20, 27–33; priests over the bearers.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10; the priest as final recipient.
+- [[The Suspected Wife]] — Numbers 5:11–31; the priest administers, and rules on nothing.
 
 ## Related themes
 

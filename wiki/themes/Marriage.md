@@ -364,6 +364,12 @@ marriage procedure. The identities and chronology remain open.
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### A husband's suspicion — Numbers 5:11–31
+
+A husband who suspects his wife may not settle it himself. He brings her to the priest, and the case passes to an oath before Yahweh (15–16). The law allows that he may be wrong (14). The chapter names *male and female* at 5:3, but this law has no case of a wife who suspects a husband.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
@@ -577,6 +583,7 @@ See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; singular attachment and royal plurality.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[The Suspected Wife]] — Numbers 5:11–31; a husband's jealousy brought before Yahweh, and no matching law for a wife.
 
 ## Related themes
 

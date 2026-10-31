@@ -592,6 +592,12 @@ The ram of atonement is assumed rather than described (8), and the heave offerin
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### A meal offering of jealousy — Numbers 5:11–31
+
+Barley meal, without the oil and frankincense of Leviticus 2:1, and *bringing iniquity to memory* (15). Nothing in the text says it atones. See [[Flour for a Sin Offering - Leviticus 2 and 5]].
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -817,6 +823,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Young Man Void of Understanding]] — Proverbs 7:14; peace offerings at home, the opening of
   a seduction
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–9; the ram and the heave offerings.
+- [[The Suspected Wife]] — Numbers 5:11–31; barley meal, no oil, no frankincense, and no atonement stated.
 
 ## Related themes
 

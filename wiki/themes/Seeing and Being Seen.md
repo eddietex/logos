@@ -293,6 +293,12 @@ The Kohathites may carry the sanctuary, but *they shall not go in to see the san
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### Hidden from a husband's eyes — Numbers 5:11–31
+
+The act is *hidden from the eyes of her husband* (13). The answer is to set her *before Yahweh*, three times (16, 18, 30). What no human eye saw is taken to the one who did not need a witness. The last clause is the wiki's reading.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -616,6 +622,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:20; the bearers may not look.
+- [[The Suspected Wife]] — Numbers 5:13, 16, 18, 30; hidden from the husband, set before Yahweh.
 
 ## Related themes
 

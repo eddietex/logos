@@ -96,6 +96,12 @@ Yahweh opened. See
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### "She shall conceive offspring" — Numbers 5:11–31
+
+The vindicated wife *shall be free, and shall conceive offspring* (28). The text does not say whether she was childless. The law sets fertility against the outcome of guilt, and what the thigh and belly of verses 21–22 mean exactly is uncertain. No claim follows that infertility as such shows guilt.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
@@ -181,6 +187,7 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
   Genesis God was the one who opened wombs** — Leah's (29:31) and Rachel's (30:22); **in Exodus 13 the
   child that opens the womb is his.** *Peṭer* first occurs here (WLC lemma search)
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; barrenness and miscarriage promised away in the land.
+- [[The Suspected Wife]] — Numbers 5:27–28; offspring as the outcome of innocence.
 
 ## Related themes
 

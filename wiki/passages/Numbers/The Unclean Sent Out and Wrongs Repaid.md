@@ -144,7 +144,7 @@ been wronged in either case.
 
 **Trespass.** WEB's *trespass* renders *limʿōl maʿal* (6, WLC). The same pair of words is used for the
 holy things (Leviticus 5:15) and for fraud (Leviticus 6:2; 5:21 in the Hebrew numbering). It returns in
-verses 12 and 27 of this chapter for the wife who is unfaithful, which is the verbal link between the
+verses 12 and 27 of this chapter for the wife who is unfaithful in [[The Suspected Wife]], which is the verbal link between the
 two units. A wrong against a neighbor is treated as a breach of faith with Yahweh, as at Leviticus 6:2.
 
 **Guilt as a payment.** In verses 7–8 the noun *ʾāšām* names the thing paid back, and verse 8 calls it

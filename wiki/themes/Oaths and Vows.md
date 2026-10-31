@@ -289,6 +289,12 @@ the paid-vow claim in Proverbs 7:14, not an automatic thanksgiving identificatio
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### The oath with no witness — Numbers 5:11–31
+
+With no witness (13), the priest puts the woman under an oath in two halves (19–21), and she answers *Amen, Amen* (22). The oath does not come from her: it is imposed. See [[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]].
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -469,6 +475,7 @@ See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus
   as the occasion of adultery
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
+- [[The Suspected Wife]] — Numbers 5:11–31; an imposed oath of cursing where no witness exists.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

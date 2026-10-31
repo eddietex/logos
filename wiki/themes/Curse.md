@@ -215,6 +215,12 @@ private words may be carried. 7:21–22 had warned about hearing a servant's cur
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### A curse drunk — Numbers 5:11–31
+
+The curse is sworn over the woman, written in a book, blotted into the water, and swallowed (21–24). If she is guilty, she herself *will be a curse among her people* (27). If she is not, it has no effect (28). Here a curse is conditional in the most literal way. See [[Two Bitter Waters - Marah and the Law of Jealousy]].
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -284,6 +290,7 @@ are identified on the passage and connection pages.
 - [[Laws of Holiness and Compassion]] — Exodus 22:28; not cursing God or a ruler, with the verbs of Genesis 12:3
 - [[The Field of the Sluggard]] — Proverbs 24:24–25, 30–31; The partial judge cursed by the peoples; the field left to thorns.
 - [[Answer a Fool]] — Proverbs 26:2; The undeserved curse, like a darting bird, does not come to rest.
+- [[The Suspected Wife]] — Numbers 5:11–31; the curse written, washed, and drunk.
 
 ## Related themes
 

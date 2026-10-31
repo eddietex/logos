@@ -31,6 +31,12 @@ He receives both speeches (1, 5). The people then do *as Yahweh spoke to Moses* 
 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
+### The law of jealousy — Numbers 5:11–31
+
+He receives the law (11) and is told to speak it to the people (12). He has no part in the rite, which belongs to the priest.
+
+See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
+
 ### The generations and the Levites — Numbers 3:1–13
 
 He is in the heading (1), and no son of his is listed. 1 Chronicles 23:14–15 counts his sons among the tribe of Levi (WEB verified at bible-api.com). Both speeches in the unit are addressed to him, and he is the one told to bring Levi near (5–6, 11). See [[The Generations of Aaron and Moses - Toledot Outside Genesis]].
@@ -1084,6 +1090,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 3:14–51 — Counts the Levites and the firstborn, and takes the redemption money. [[The Levites and the Firstborn Counted]]
 - Numbers 4:34–49 — Counts the working Levites with Aaron and the princes. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 5:1–10 — Receives the laws on the unclean and on restitution. [[The Unclean Sent Out and Wrongs Repaid]]
+- Numbers 5:11–31 — Receives the law of jealousy. [[The Suspected Wife]]
 
 ## Appears in
 
@@ -1306,6 +1313,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; does the counting and handles the money.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:34–49; counts the working Levites.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1, 4–5; receives the two laws.
+- [[The Suspected Wife]] — Numbers 5:11; receives the law.
 
 ## Related people
 

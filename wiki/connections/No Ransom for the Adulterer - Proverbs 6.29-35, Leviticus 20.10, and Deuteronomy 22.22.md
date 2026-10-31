@@ -23,7 +23,7 @@ tags: [connection]
   life of a murderer who is guilty of death; but he shall surely be put to death."*
 - **Exodus 23:8** — [[Justice, Sabbaths, and Feasts]]: *"You shall take no bribe, for a bribe blinds
   those who have sight and perverts the words of the righteous."*
-- **Numbers 5:14** *(not yet ingested; WEB verified)* — *"the spirit of jealousy comes on him, and he
+- **Numbers 5:14** — [[The Suspected Wife]]: *"the spirit of jealousy comes on him, and he
   is jealous of his wife"*
 - **Song of Solomon 8:6** — [[Love Is Strong as Death]] — *"for love is strong as death. Jealousy
   is as cruel as Sheol. Its flashes are flashes of fire, a very flame of Yahweh."*
@@ -83,6 +83,12 @@ Their juxtaposition does not turn the Song into a threat against a rival.
 Source for this addition: stored WEB Song 8:5–7 and Proverbs 6:27–35;
 no new source-language claim. See [[Love Beyond Purchase - Song of Solomon 8.6-7 and Proverbs 6.30-35]].
 
+**Numbers 5:11–31 now ingested.** [[The Suspected Wife]] is the case this page's texts leave out: jealousy
+with no witness and nobody caught. Proverbs imagines a husband who knows, and Numbers a husband who
+does not. There the law takes the matter out of his hands, and no ransom is in view at all. See
+[[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]]. Source for this addition: stored
+WEB Numbers 5.
+
 ## Significance
 
 The passage shows the wisdom tradition and the law describing one wrong in two registers: the law
@@ -95,5 +101,5 @@ bible-api.com, 2026-10-25, not stored. Hebrew of Proverbs 6:29–35, Exodus 20:1
 Leviticus 20:10, Numbers 5:14; 35:31, and Song of Solomon 8:6 read from Sefaria's *Miqra according to
 the Masorah*, 2026-10-25. Exodus 34:14 as recorded on [[Envy]].
 
-Song 8:6–7 is now stored and ingested; the earlier verification date above is retained
-as provenance, not as its current storage status.
+Numbers 5 and Song 8:6–7 are now stored and ingested; the earlier verification date above is retained
+as provenance, not as their current storage status.
