@@ -676,11 +676,18 @@ The tabernacle is moved by men of thirty to fifty, each with his own *service* a
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### According to his service — Numbers 7:5–9
+
+The wagons are given out *to every man according to his service* (5), and the means fit the work. Merari gets the most, and Kohath none.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each house and its charge.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:3, 19, 32, 47–49; each man to his load.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:7–8; the service of the tabernacle.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:5–9; tools shared out by service.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.

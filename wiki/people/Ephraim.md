@@ -93,6 +93,12 @@ His tribe heads the west camp and sets out third (18–24), with Manasseh and Be
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:48–53
+
+The tribe of Ephraim gives on the seventh day of twelve, by the hand of Elishama. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -106,6 +112,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   multitude of nations"* — Genesis 48:13–20, [[Jacob Blesses Ephraim and Manasseh]]
 - Numbers 1 — Tribe counted at 40,500, ahead of Manasseh. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the west camp and sets out third. [[The Camp Around the Tent]]
+- Numbers 7:48–53 — Ephraim gives seventh at the altar's dedication, through Elishama. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -131,6 +138,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[Manasseh]]'s grandson instead
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 40,500, ahead of Manasseh.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the west camp and sets out third.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:48–53; gives seventh, through Elishama.
 
 ## Related people
 

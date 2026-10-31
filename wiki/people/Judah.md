@@ -267,6 +267,12 @@ His tribe heads the east camp, with Issachar and Zebulun, toward the sunrise, an
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:12–17
+
+The tribe of Judah gives on the first day of twelve, by the hand of Nahshon. Its gift is identical to every other tribe's. Its man is not called *prince* in this entry, though he is at 2:3.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -298,6 +304,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[The Oppression in Egypt]]
 - Numbers 1 — Largest tribe, 74,600. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the east camp and sets out first. [[The Camp Around the Tent]]
+- Numbers 7:12–17 — Judah gives first at the altar's dedication, through Nahshon. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -374,6 +381,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; largest tribe, 74,600.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the east camp and sets out first.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:12–17; gives first, through Nahshon.
 
 ## Related people
 

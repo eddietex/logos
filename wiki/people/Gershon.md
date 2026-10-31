@@ -38,6 +38,12 @@ His 2,630 working men carry the curtains, the coverings, the screens, and the ha
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### Two wagons — Numbers 7:7
+
+The Gershonites receive two wagons and four oxen, *according to their service*: half of Merari's share.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -46,6 +52,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
   6:16–17, [[The Heads of the Fathers' Houses]]
 - Numbers 3:17–26 — the Gershonite house and its charge over the tabernacle's fabric, [[The Levites and the Firstborn Counted]]
 - Numbers 4:21–28, 38–41 — 2,630 working men carry the fabric, under Ithamar. [[The Service of Kohath, Gershon, and Merari]]
+- Numbers 7:7 — Gershonites given two wagons and four oxen. [[The Offerings of the Twelve Princes]]
 - 1 Chronicles 6:39–43 — Asaph's descent traced to him
 
 ## Appears in
@@ -56,6 +63,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
   Numbers 3:18 gives his clans. See [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 7,500, on the west, with the fabric.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:21–28, 38–41; 2,630 men, with the fabric.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:7; two wagons and four oxen.
 
 ## Related people
 

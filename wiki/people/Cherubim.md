@@ -61,6 +61,12 @@ prohibition (20:4–5; 32:4–8), without narrating worship of these commissione
 
 See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local raw WEB, 2026-10-24.
 
+### The voice between them — Numbers 7:89
+
+Moses hears the voice *from between the two cherubim*, as Exodus 25:22 promised. The verse says nothing about the figures themselves. See [[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]].
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Figures made on the curtains and inner veil (36:8, 35).
@@ -72,7 +78,8 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
   [[The Ark, the Table, and the Lampstand]]
 - Prescribed on the tabernacle curtains and veil — Exodus 26:1, 31, [[The Tabernacle Curtains and Frames]]
 - The gold cherubim made by Bezalel — Exodus 37:7–9, [[The Furnishings Made]]
-- Moses hears the voice *"from between the two cherubim"* — Numbers 7:89, *not yet ingested*
+- Moses hears the voice *"from between the two cherubim"* — Numbers 7:89, [[The Offerings of the Twelve Princes]]
+- Numbers 7:89 — The voice heard from between them. [[The Offerings of the Twelve Princes]]
 - God *"who sits above the cherubim"* — 1 Samuel 4:4; Psalm 80:1, *not yet ingested*
 - *"Cherubim of glory overshadowing the mercy seat"* — Hebrews 9:5, *not yet ingested*
 
@@ -89,6 +96,7 @@ See [[The Furnishings Made]]. Source: the cited Exodus verses checked in local r
   cherubim"*
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; represented on the inner curtains and the separating veil.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:89; the voice comes from between them.
 
 ## Related people
 

@@ -44,16 +44,24 @@ The twelve reappear in the chapter in camp order: Nahshon, Nethanel, and Eliab o
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:2–3, 10–83
+
+They bring six wagons and twelve oxen together (3), and then give one by one for twelve days, in camp order, Judah first (12–83). Each gift is the same, and it is written out in full each time. The father of Gad's man is Deuel here (42). A table is on the passage page.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Named to stand with Moses and Aaron at the census — Numbers 1:4–16, 44
 - Named as heads of the tribes in the camp — Numbers 2:3–29, [[The Camp Around the Tent]]
-- *(ahead)* Heads of the dedication and the march — Numbers 7; 10:14–27
+- *(ahead)* Heads of the march — Numbers 10:14–27
+- Numbers 7:2–3, 10–83 — Bring the wagons, and then give at the altar for twelve days. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:5–16, 44; named, and counted with Moses and Aaron
 - [[The Camp Around the Tent]] — Numbers 2:3–29; named as princes of the tribes in the camp
+- [[The Offerings of the Twelve Princes]] — Numbers 7:2–3, 10–83; the givers, in camp order.
 
 ## Related people
 

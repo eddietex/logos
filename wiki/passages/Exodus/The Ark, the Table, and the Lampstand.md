@@ -188,8 +188,9 @@ place to speak from.**
 - Genesis 50:26 — the only earlier *ʾārôn*, Joseph's coffin:
   [[Embalmed and Put in a Coffin - The Only Two Mummies in Scripture]].
 - Genesis 43:11 — almonds in Jacob's present to Egypt, the only earlier *šāqēd* word.
-- Leviticus 16:2, 14–15; Numbers 7:89; Romans 3:25; Hebrews 9:5 — the mercy seat *(not yet ingested)*:
-  [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]].
+- Leviticus 16:2, 14–15; Numbers 7:89; Romans 3:25; Hebrews 9:5 — the mercy seat *(Romans and Hebrews not
+  yet ingested)*: [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] and
+  [[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]].
 - Leviticus 24:5–9; 1 Samuel 21:6; Matthew 12:3–4; Hebrews 9:2 — the bread *(not yet ingested)*:
   [[The Bread of the Presence - David's Hunger and Matthew 12]].
 - Zechariah 4:2; Revelation 1:12, 20 — seven lamps *(not yet ingested)*:
@@ -328,7 +329,7 @@ image.
 *"Tent of Meeting"*, *ʾōhel môʿēd* (27:21, MAM; *not yet ingested*). **The verse is a promise of
 regular, arranged speech**: God will tell Moses *"all that I command you for the children of
 Israel"*. It is kept at Numbers 7:89: Moses *"heard his voice speaking to him from above the mercy seat
-that was on the ark of the Testimony, from between the two cherubim"* (WEB; *not yet ingested*).
+that was on the ark of the Testimony, from between the two cherubim"*, in [[The Offerings of the Twelve Princes]].
 
 *Môʿēd* and *ʿēdut*, *testimony*, sound alike, and the ark of the *ʿēdut* is where God *nôʿad*. They come
 from different roots (*y-ʿ-d* and *ʿ-w-d*, as usually analysed). The wiki notes the sound and does not

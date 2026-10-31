@@ -88,6 +88,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[The Levites and the Firstborn Counted]] — Numbers 3:7–8, 38; the same verb for those who guard the
   sanctuary
 - Psalm 121:7–8 — *Yahweh will keep you from all evil* (WEB, bible-api.com; *not yet ingested*)
+- [[The Offerings of the Twelve Princes]] — Numbers 7:1–89, the next unit, which goes back to the day the tabernacle was finished
 
 ## Notes
 

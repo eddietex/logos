@@ -18,7 +18,7 @@ register at 46:8–27 is counting the household that crossed into Egypt, and he 
 fathers Aaron and Moses** (Exodus 6:18, 20), **so the Exodus, the priesthood and the law all descend
 from the middle name of this clause.** **The Kohathite house is given the most dangerous charge in the
 camp**: the ark, the table, the lampstand, the altars and the vessels of the sanctuary (Numbers
-4:4–15), **carried on the shoulder rather than in a cart** (Numbers 7:9), **and not to be touched or
+4:4–15), **carried on the shoulder rather than in a cart** (Numbers 7:9, [[The Offerings of the Twelve Princes]]), **and not to be touched or
 looked at on pain of death.** The singer Heman is traced to his line (1 Chronicles 6:33–38).
 
 **Genesis is not withholding any of this; it does not know it yet.** **The point worth recording is
@@ -48,6 +48,12 @@ His house is counted first here, though Gershon is first at 3:17. Its 2,750 work
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### No wagons — Numbers 7:9
+
+The Kohathites receive nothing, *because the service of the sanctuary belonged to them; they carried it on their shoulders*. See [[Lest They Die - The Ark Carried and the Ark Looked Into]].
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -56,6 +62,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
   [[The Heads of the Fathers' Houses]]
 - Numbers 3:27–32 · 4:4–15 · 7:9 — the Kohathite charge over the ark and the holy vessels, [[The Levites and the Firstborn Counted]]
 - Numbers 4:1–20, 34–37 — 2,750 working men carry the wrapped holy things. [[The Service of Kohath, Gershon, and Merari]]
+- Numbers 7:9 — Kohathites given no wagon; the sanctuary goes on the shoulder. [[The Offerings of the Twelve Princes]]
 - 1 Chronicles 6:33–38 — Heman's descent traced to him
 
 ## Appears in
@@ -65,6 +72,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16, 18–24; **the line the genealogy follows**, with 133 years
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 8,600, on the south, with the holy things.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–20, 34–37; carries what it may not touch or see.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:9; given none, because they carry on the shoulder.
 
 ## Related people
 

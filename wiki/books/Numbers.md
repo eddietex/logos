@@ -37,8 +37,11 @@ razor, and no contact with the dead, even for a parent, until the days are fulfi
 on the fire.
 [[Yahweh Bless You and Keep You]] (6:22–27) closes the section with the words Aaron and his sons are to
 speak: three lines, each naming Yahweh, by which they put his name on Israel and he blesses.
+[[The Offerings of the Twelve Princes]] (7:1–89) then steps back to the day the tabernacle was finished: six
+wagons for the Levites, twelve identical gifts over twelve days in camp order, and Moses hearing the voice
+from between the cherubim.
 
-The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
+The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
 whole.
 
@@ -68,7 +71,7 @@ merge, or reorder them freely.
 - [x] [[The Suspected Wife]] — Numbers 5:11–31
 - [x] [[The Nazirite Vow]] — Numbers 6:1–21
 - [x] [[Yahweh Bless You and Keep You]] — Numbers 6:22–27
-- [ ] The Offerings of the Twelve Princes — Numbers 7:1–89
+- [x] [[The Offerings of the Twelve Princes]] — Numbers 7:1–89
 - [ ] The Lamps and the Levites Cleansed — Numbers 8:1–26
 - [ ] The Passover in the Second Year — Numbers 9:1–14
 - [ ] The Cloud over the Tabernacle — Numbers 9:15–23

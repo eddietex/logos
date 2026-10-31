@@ -585,6 +585,12 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### Anointed, and carried by hand — Numbers 7:1, 9
+
+Moses anoints and sanctifies the tabernacle and altar (1). The most holy load gets no wagon: *they carried it on their shoulders* (9). The text does not say why a cart is unfit.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -737,6 +743,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2–3; the boundary at the edge of the camp.
 - [[The Suspected Wife]] — Numbers 5:17; holy water, and dust from the sanctuary floor.
 - [[The Nazirite Vow]] — Numbers 6:5, 8; a lay person holy to Yahweh for a term.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:1, 9; anointing, and the shoulder.
 
 ## Related themes
 

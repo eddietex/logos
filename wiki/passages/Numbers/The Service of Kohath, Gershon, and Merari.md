@@ -191,7 +191,7 @@ of the action.
 - [[The Stranger Who Comes Near - Numbers 1.51, 3.10, 18.7, and Leviticus 10]]
 - [[The Veil - Separation in Exodus and Access in Hebrews]]
 - [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]]
-- Numbers 7:6–9 — wagons for Gershon and Merari, and the shoulder for Kohath *(not yet ingested; stored WEB)*.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:6–9; wagons for Gershon and Merari, and the shoulder for Kohath.
 - Numbers 8:23–26 — service from twenty-five *(not yet ingested; stored WEB)*.
 - Numbers 10:17, 21 — the two stages of the march *(not yet ingested; stored WEB)*.
 - Numbers 16:8–11, 30–34 — the Kohathite Korah, and the earth that swallows *(not yet ingested; stored

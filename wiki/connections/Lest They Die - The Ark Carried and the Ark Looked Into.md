@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 19–20; do not touch, do not look, *lest they die*
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:13–15; poles made to carry the ark
-- Numbers 7:9 — no wagons for Kohath; *they carried it on their shoulders* *(not yet ingested; stored WEB)*
+- [[The Offerings of the Twelve Princes]] — Numbers 7:9; no wagons for Kohath, *they carried it on their shoulders*
 - Deuteronomy 10:8; 31:9 — the tribe of Levi, and the priests, bearing the ark *(not yet ingested; WEB verified)*
 - Joshua 3:3 — *the priests the Levites bearing it* *(not yet ingested; WEB verified)*
 - 1 Samuel 6:13, 19 — the men of Beth Shemesh *(not yet ingested; WEB verified)*
@@ -33,7 +33,9 @@ is carried on the shoulder. Chronicles draws that conclusion itself. David says,
 God's ark but the Levites* (1 Chronicles 15:2), and *because you didn't carry it at first, Yahweh our God
 broke out in anger against us* (15:13). The Levites then carry it *on their shoulders with its poles, as
 Moses commanded according to Yahweh's word* (15:15). So Chronicles reads the death as a breach of the
-Mosaic order. 2 Samuel 6 itself does not say so.
+Mosaic order. 2 Samuel 6 itself does not say so. The word for the cart is *ʿăgālâ* (WLC), the word for the
+princes' wagons at Numbers 7:3, and the Philistines' cart at 1 Samuel 6:7 is the same. The wagons had been
+accepted for the Tent, and only the sanctuary's own load was barred from them.
 
 **Who carries it?** The texts differ, and the wiki leaves the difference standing.
 

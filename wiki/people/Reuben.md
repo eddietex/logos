@@ -136,6 +136,12 @@ His tribe heads the south camp and sets out second (10–16). Reuben keeps the l
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:30–35
+
+The tribe of Reuben gives on the fourth day of twelve, by the hand of Elizur. Its gift is identical to every other tribe's. The firstborn's tribe gives fourth, because the order is the camp's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to Leah, the firstborn of the twelve; *"see, a son"* — Genesis 29:32,
@@ -162,6 +168,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   Exodus 6:14, [[The Heads of the Fathers' Houses]]
 - Numbers 1 — Tribe listed first as *Israel's firstborn*. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the south camp and sets out second. [[The Camp Around the Tent]]
+- Numbers 7:30–35 — Reuben gives fourth at the altar's dedication, through Elizur. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -239,6 +246,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   Reuben"*. **The list does not mention the lost birthright**, and moves past him in a verse
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe listed first as *Israel's firstborn*.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the south camp and sets out second.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:30–35; gives fourth, through Elizur.
 
 ## Related people
 

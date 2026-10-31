@@ -420,6 +420,12 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 
 See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]]. Source: stored WEB Numbers 5.
 
+### The Tent in use — Numbers 7:1, 89
+
+Verse 1 has the dwelling anointed, and verse 89 has it doing what it was made for: Moses goes in, and the voice comes from above the mercy seat. See [[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]].
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -518,6 +524,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Who Is Put Out of the Camp 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each part of the Tent has a keeper.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–15, 25–26, 31–32; the dwelling made to move.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3; the camp in which Yahweh dwells.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the Tent anointed, and the voice inside it.
 
 ## Related themes
 

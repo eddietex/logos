@@ -1,0 +1,57 @@
+---
+type: connection
+subtype: thread
+tags: [connection]
+---
+# On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9
+
+## Passages involved
+
+- [[The Tabernacle Raised and the Glory]] — Exodus 40:2, 17; first day, first month, second year
+- [[Aaron and His Sons Consecrated]] — Leviticus 8:10–11, 33; the anointing, and seven days at the door
+- [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1, 24; the eighth day, and fire on the altar
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1; first day, second month
+- [[The Offerings of the Twelve Princes]] — Numbers 7:1, 10–11, 84; *on the day*, and twelve days
+- Numbers 9:1–5 — the Passover in the first month *(not yet ingested; stored WEB)*
+
+## Analysis
+
+The dated events of the tabernacle's first weeks are told across three books, and not in date order.
+
+| Date (second year) | Event | Where told |
+|---|---|---|
+| Month 1, day 1 | Tabernacle raised | Exodus 40:17 |
+| *On the day* Moses finished | Tabernacle and altar anointed; the princes bring gifts | Numbers 7:1, 10 |
+| Seven days, start not dated | Priests stay at the door | Leviticus 8:33 |
+| Eighth day of those | First service; fire on the altar | Leviticus 9:1, 24 |
+| Twelve days, start not dated | The twelve princes give | Numbers 7:11–83 |
+| Month 1 | Passover ordered | Numbers 9:1–5 |
+| Month 2, day 1 | Census ordered | Numbers 1:1 |
+
+The order of the narrative runs census, then gifts, then Passover. The order of the dates runs the other
+way. Numbers 7 is the book's first step back, and 9:1 is the second.
+
+The anointing is commanded at Exodus 40:9–11 for the same day as the raising, is not narrated in that
+chapter, and is reported at Leviticus 8:10–11. Numbers 7:1 then links it to the finishing of the work.
+Read together, the three texts suggest a single time of completion, and none of them says so outright.
+
+Numbers 7:84 is the check on how exact *on the day* is. It sums up twelve days of gifts as given *on the
+day when it was anointed*. The Hebrew *bəyôm* (WLC) there cannot be a single day, so verse 1 should not
+be pressed as one either. That reading comes from the chapter's own arithmetic.
+
+If the seven days of Leviticus 8:33 began on the first of the month and the twelve days began at once,
+they overlap those seven days and the altar atonement of Exodus 29:37, and run past the fire of Leviticus
+9:24, so some of the princes' animals would have come before the altar's first fire. If the twelve days
+began after the eighth day, they would run to the twentieth, past the Passover of the fourteenth (Numbers
+9:3). No text gives a start, so neither reading can be proved. Twelve consecutive days must also include a Sabbath.
+
+## Significance
+
+The texts show that the Torah can arrange its material by something other than the date. Numbers puts
+the census and camp first and then returns to the gifts, whose order already depends on the camp. Why it
+does this is not stated. It does mean that *the order of the book* is not an argument about what happened
+first. Harmonizing the three accounts into one calendar requires assumptions the texts do not supply,
+and the wiki leaves the start of the twelve days open.
+
+Source: WEB from `raw/bible/`; *bəyôm* at Numbers 7:1, 10, 84 from WLC (morphhb). Numbers 9 is stored but
+not yet ingested. The table is the wiki's arrangement. No commentary was consulted.

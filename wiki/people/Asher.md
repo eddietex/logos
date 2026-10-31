@@ -63,6 +63,12 @@ Encamps next to Dan on the north (27), with Pagiel son of Ochran as prince; 41,5
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:72–77
+
+The tribe of Asher gives on the eleventh day of twelve, by the hand of Pagiel. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"the daughters will call me happy"* — Genesis 30:12–13,
@@ -79,6 +85,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 41,500. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Dan's camp on the north. [[The Camp Around the Tent]]
+- Numbers 7:72–77 — Asher gives eleventh at the altar's dedication, through Pagiel. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -130,6 +137,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 41,500.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:72–77; gives eleventh, through Pagiel.
 
 ## Related people
 

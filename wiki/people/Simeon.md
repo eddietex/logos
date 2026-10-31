@@ -82,6 +82,12 @@ Encamps next to Reuben on the south (12), with Shelumiel son of Zurishaddai as p
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:36–41
+
+The tribe of Simeon gives on the fifth day of twelve, by the hand of Shelumiel. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her second son; *"Yahweh has heard that I am hated"* — Genesis 29:33,
@@ -104,6 +110,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[The Heads of the Fathers' Houses]]
 - Numbers 1 — Tribe counted at 59,300. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Reuben's camp on the south. [[The Camp Around the Tent]]
+- Numbers 7:36–41 — Simeon gives fifth at the altar's dedication, through Shelumiel. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -172,6 +179,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   brother he was cursed with
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 59,300.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Reuben's camp on the south.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:36–41; gives fifth, through Shelumiel.
 
 ## Related people
 

@@ -94,6 +94,12 @@ Next to Ephraim on the west (20), with Gamaliel son of Pedahzur as prince. The f
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:54–59
+
+The tribe of Manasseh gives on the eighth day of twelve, by the hand of Gamaliel. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -108,6 +114,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[Jacob Blesses Ephraim and Manasseh]]
 - Numbers 1 — Smallest tribe, 32,200. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
+- Numbers 7:54–59 — Manasseh gives eighth at the altar's dedication, through Gamaliel. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -132,6 +139,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   his, not [[Ephraim]]'s** — the demoted brother supplies the book's last name
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; smallest tribe, 32,200.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:54–59; gives eighth, through Gamaliel.
 
 ## Related people
 

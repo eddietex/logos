@@ -350,6 +350,12 @@ intercessor's improvised plea; see
 See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
 
 
+### One who hears — Numbers 7:89
+
+Moses alone goes in and hears, at the place Exodus 25:22 promised, and the text gives no one else access to that voice in this chapter.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -603,6 +609,7 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The obedient mediator equips the dwelling yet cannot enter when glory fills it.
 - [[Thirty Excellent Things]] — Proverbs 22:23; 23:11; Yahweh pleads the case of the poor and the fatherless.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:89; Moses alone hears the voice.
 
 ## Related themes
 

@@ -110,6 +110,12 @@ His tribe heads the north camp and sets out last (25–31), with Asher and Napht
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:66–71
+
+The tribe of Dan gives on the tenth day of twelve, by the hand of Ahiezer. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -127,6 +133,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[The Oppression in Egypt]]
 - Numbers 1 — Second-largest tribe, 62,700. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the north camp and sets out last. [[The Camp Around the Tent]]
+- Numbers 7:66–71 — Dan gives tenth at the altar's dedication, through Ahiezer. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -190,6 +197,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; second-largest tribe, 62,700.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the north camp and sets out last.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:66–71; gives tenth, through Ahiezer.
 
 ## Related people
 

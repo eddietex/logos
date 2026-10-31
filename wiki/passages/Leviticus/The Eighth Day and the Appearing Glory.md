@@ -127,6 +127,7 @@ altar. The people shout and fall on their faces.
 - [[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]] — wave portions in the
   peace-offering service, distinct from the installation ram's burned thigh.
 - [[As God Commanded, So He Did - The Obedience Formula]] — commanded worship performed.
+- [[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]]
 
 ## Notes
 

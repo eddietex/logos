@@ -61,6 +61,12 @@ Moses receives the order and counts Israel with Aaron and twelve tribal men (1�
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### The wagons and the voice — Numbers 7:1–9, 89
+
+He finishes the tabernacle and anoints it (1), is told to accept the wagons and gives them out (4–9), and hears the voice from above the mercy seat, from between the two cherubim (89). That is what Exodus 25:22 promised him. At Exodus 40:35 he could not enter the Tent, and here he goes in. See [[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]].
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Moses receives the last speech of the book, with no response recorded. The closing colophon names
@@ -697,7 +703,7 @@ where he finally has to stop the people from bringing more (36:6). See
 **The ark is designed around a conversation with Moses.** *"There I will meet with you (ləkā, singular),
 and I will tell you from above the mercy seat, from between the two cherubim … all that I command you for
 the children of Israel"* (25:22; MAM). **Moses is to be the one who hears**, at a fixed place, on behalf of
-everyone; Numbers 7:89 shows him doing it *(not yet ingested)*. The chapter closes with the warning
+everyone; Numbers 7:89 shows him doing it, [[The Offerings of the Twelve Princes]]. The chapter closes with the warning
 Hebrews will quote: *"See that you make them after their pattern, which has been shown to you on the
 mountain"* (25:40). The verb *morʾeh* is a passive participle, *being shown* (MAM): **Moses is still
 looking while God speaks.** Hebrews 8:5 and Acts 7:44 both remember him as the man who saw the
@@ -1105,6 +1111,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 5:11–31 — Receives the law of jealousy. [[The Suspected Wife]]
 - Numbers 6:1–21 — Receives the law of the Nazirite. [[The Nazirite Vow]]
 - Numbers 6:22–27 — Receives the words of blessing for Aaron and his sons. [[Yahweh Bless You and Keep You]]
+- Numbers 7:1–9, 89 — Accepts the gifts, and hears the voice from the mercy seat. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -1330,6 +1337,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Suspected Wife]] — Numbers 5:11; receives the law.
 - [[The Nazirite Vow]] — Numbers 6:1–2; receives the law.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–23; passes on the words.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:1–9, 89; distributes the wagons and hears the voice.
 
 ## Related people
 

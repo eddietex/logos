@@ -113,6 +113,12 @@ See [[The Tabernacle Raised and the Glory]]. Source: Exodus 40 checked in `raw/b
 
 Aaron’s sons present the offering and receive its most holy remainder (2:2–3, 10). Inclusion here is collective, from the family appointment in Exodus 28:1; the chapter neither names him individually nor narrates his performance of the rite. See [[The Meal Offering]].
 
+### The wagons of Merari — Numbers 7:8
+
+The Merarites receive four wagons and eight oxen *under the direction of Ithamar the son of Aaron the priest*. Numbers 4:28 and 33 put Gershon under him too, but verse 8 attaches the phrase to Merari only.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Included collectively among the sons whose garments are commissioned (35:19). See [[The Freewill Offering]].
@@ -199,6 +205,7 @@ His first office by name in Numbers: the service of both houses is *under the ha
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 - Numbers 6:22–27 — Among Aaron's unnamed sons given the blessing. [[Yahweh Bless You and Keep You]]
+- Numbers 7:8 — Merari's wagons placed under his direction. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -243,6 +250,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Included collectively among Aaron’s sons commanded to be consecrated and reported washing.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23; not named, among Aaron's living sons (3:4).
+- [[The Offerings of the Twelve Princes]] — Numbers 7:8; directs Merari's service.
 
 ## Related people
 

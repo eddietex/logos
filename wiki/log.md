@@ -20845,3 +20845,29 @@ own-face search for 6:26 may miss variants, and the passage page says so. WEB of
 passage page's scope note, plus 1 Kings 8:56, verified at bible-api.com. Commentary, lexicons, and grammars not
 consulted; New Testament Greek not checked. Counts: 280 passages, 201 people, 104 places, 86 themes, 611
 connections. Next: The Offerings of the Twelve Princes, Numbers 7:1–89.
+
+## [2026-10-31] ingest | Numbers 7.1-89 — The Offerings of the Twelve Princes
+
+Created [[The Offerings of the Twelve Princes]] and three connections:
+[[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]],
+[[The Dedication of the Altar - Numbers 7, 2 Chronicles 7, and Ezra 6]], and
+[[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]]. Revised 23 people, seven themes,
+[[Horeb]], five existing connections, nine passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary kept, with 7:89 inside the unit although it stands apart from the list.
+The eleven other princes stay on the group page, [[The Twelve Tribal Princes]], with no page each; the
+passage page tabulates them. Wagons are added to [[Lest They Die - The Ark Carried and the Ark Looked Into]]
+and get no connection of their own. The twelve tribal ancestors are updated as in the camp ingest.
+
+Tensions flagged, not resolved: the chapter predates 1:1 by its dates yet uses the census and the Levite
+service; how the twelve days fit Leviticus 8–9 and Exodus 29:37, since no start is dated; a Sabbath within
+twelve consecutive days; Exodus 40:35 against Moses entering at 7:89. Verse 84 shows that *bəyôm* in the
+chapter cannot mean one day. Nahshon's lack of the title *prince* at 7:12 is recorded with no meaning
+assigned. That 7:89 is the promise of Exodus 25:22 kept, and that Ezra's twelve goats answer to Numbers 7, are
+marked as inferences.
+
+Hebrew and word counts from WLC (Open Scriptures morphhb), by Strong's and morphology tags, so they depend on
+that tagging. WEB of the cross-references named on the new pages verified at bible-api.com. Psalm 30's heading
+is absent from that WEB text, so it is cited in Hebrew only. Commentary, lexicons, and grammars not consulted;
+Greek of John 10:22 and Hebrews 9:5 not checked. Counts: 281 passages, 201 people, 104 places, 86 themes, 614
+connections. Next: The Lamps and the Levites Cleansed, Numbers 8:1–26.

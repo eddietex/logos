@@ -61,6 +61,12 @@ Yahweh speaks in the Tent of Meeting and orders the count (1–4), then exempts 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### Accepting and speaking — Numbers 7:4–5, 11, 89
+
+He accepts a gift he did not ask for (5), and he orders the altar gifts *each prince on his day* (11). Verse 89 gives the only narrated instance of the voice from between the cherubim, and it does not report what is said.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Yahweh accepts a person, an animal, a house, or a field, and sets the terms. The chapter ends by
@@ -3090,6 +3096,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 5:11–31 — Gives the law of jealousy; the outcome is his. [[The Suspected Wife]]
 - Numbers 6:1–21 — Gives the law of the Nazirite; the vow is made to him. [[The Nazirite Vow]]
 - Numbers 6:22–27 — Gives the priests the blessing, and says he will bless. [[Yahweh Bless You and Keep You]]
+- Numbers 7:4–5, 11, 89 — Accepts the wagons, sets the days, and speaks from above the mercy seat. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -3712,6 +3719,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Suspected Wife]] — Numbers 5:16, 18, 21, 25, 30; the one before whom the woman stands.
 - [[The Nazirite Vow]] — Numbers 6:2, 5–6, 8; the one to whom the person is separated.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:24–27; the subject of every verb of the blessing.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:4–5, 11, 89; accepts the wagons, sets the days, and speaks from the mercy seat.
 
 ## Related people
 

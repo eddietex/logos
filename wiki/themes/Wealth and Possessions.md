@@ -696,6 +696,12 @@ figures do not contradict the refusal to price love.
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### Silver and gold given — Numbers 7:84–86
+
+Twelve princes give 2,400 shekels of silver and 120 of gold, by the shekel of the sanctuary. All twelve give the same, so wealth here does not rank the tribes, whatever their size.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -985,6 +991,7 @@ See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; jewels and ivory as admiration.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:84–86; equal gifts of silver and gold.
 
 ## Related themes
 

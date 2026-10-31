@@ -18,7 +18,7 @@ tags: [connection]
 - **Leviticus 16:14–15** — the blood of the bull and of the people's goat sprinkled *"on the mercy seat
   on the east; and before the mercy seat … seven times"* — [[The Day of Atonement]]
 - **Numbers 7:89** — Moses *"heard his voice speaking to him from above the mercy seat that was on the
-  ark of the Testimony, from between the two cherubim"* *(not yet ingested)*
+  ark of the Testimony, from between the two cherubim"* — [[The Offerings of the Twelve Princes]]
 - **Hebrews 9:5** — *"and above it cherubim of glory overshadowing the mercy seat, of which things we
   can't speak now in detail"* *(not yet ingested)*
 - **Romans 3:25** — *"whom God sent to be an atoning sacrifice, through faith in his blood, for a
@@ -37,7 +37,8 @@ tags: [connection]
 
 **One object, two functions.** In Exodus 25 the *kappōret* is where God *speaks* (25:22). In Leviticus
 16 it is where blood is put to make atonement, once a year, by the high priest alone. Numbers 7:89 shows
-the first function in use. **The place of the word and the place of the blood are the same slab of
+the first function in use; see
+[[The Voice from Between the Cherubim - Exodus 25.22 and Numbers 7.89]]. **The place of the word and the place of the blood are the same slab of
 gold.**
 
 **The Hebrew word.** ***Kappōret*** (Exodus 25:17; Leviticus 16:2; MAM) shares its consonants with

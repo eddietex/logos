@@ -15,7 +15,7 @@ tags: [connection]
 - **Genesis 49:1–28** — Jacob's blessing, and its own order
 - **Exodus 1:1–5** — the eleven who came with Jacob, with Joseph already in Egypt
   — [[The Oppression in Egypt]]
-- **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split** ([[The Census in the Wilderness of Sinai]], [[The Camp Around the Tent]]). In the camp, the groups of three follow the mothers loosely, with Gad filling Levi's place beside Reuben and Simeon
+- **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split** ([[The Census in the Wilderness of Sinai]], [[The Camp Around the Tent]]); the camp's order is used again for the altar gifts ([[The Offerings of the Twelve Princes]]). In the camp, the groups of three follow the mothers loosely, with Gad filling Levi's place beside Reuben and Simeon
 - **Deuteronomy 33** — Moses' blessing, with **Simeon missing**
 - **Joshua 13–19** — the allotments, with **no territory for Levi**
 - **Ezekiel 48:1–35** — the eschatological land, and the twelve gates

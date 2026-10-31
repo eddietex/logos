@@ -11,6 +11,7 @@ tags: [connection]
 - [[The Levites and the Firstborn Counted]] — Numbers 3:23, 29, 35, 38; where the Levite clans camp
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:4–33; what each clan carries
 - Numbers 10:14–28 — the order carried out *(not yet ingested; stored WEB)*
+- [[The Offerings of the Twelve Princes]] — Numbers 7:12–83; the same order, used for giving before the march
 
 ## Analysis
 

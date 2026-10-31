@@ -19,7 +19,7 @@ belong to [[Jacob]]'s own sons, and the grandsons are simply listed.
 **The Merarite house draws the tabernacle's heavy freight**: the frames, the bars, the pillars, the
 sockets and the pegs (Numbers 3:33–37; 4:29–33) — **the parts that are neither holy enough to be
 carried on the shoulder like [[Kohath]]'s ark nor light enough to be folded like [[Gershon]]'s
-curtains.** They are given wagons and oxen for it (Numbers 7:8). **The singer Ethan is traced to his
+curtains.** They are given wagons and oxen for it (Numbers 7:8, [[The Offerings of the Twelve Princes]]). **The singer Ethan is traced to his
 line** (1 Chronicles 6:44–47).
 
 **In Genesis he is a name in a list of seventy, going into Egypt with his father.** See
@@ -37,6 +37,12 @@ Its 3,200 working men carry the boards, bars, pillars, sockets, pins, and cords,
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 
+### Four wagons — Numbers 7:8
+
+The Merarites receive four wagons and eight oxen, the largest share, for the frames, bars, and sockets of 4:31–32, under Ithamar.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -44,6 +50,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Listed third of Levi's sons; his sons Mahli and Mushi — Exodus 6:16, 19, [[The Heads of the Fathers' Houses]]
 - Numbers 3:33–37 · 4:29–33 · 7:8 — the Merarite house and its charge over the tabernacle's frame, [[The Levites and the Firstborn Counted]]
 - Numbers 4:29–33, 42–45 — 3,200 working men carry the frame, under Ithamar. [[The Service of Kohath, Gershon, and Merari]]
+- Numbers 7:8 — Merarites given four wagons and eight oxen. [[The Offerings of the Twelve Princes]]
 - 1 Chronicles 6:44–47 — Ethan's descent traced to him
 
 ## Appears in
@@ -54,6 +61,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
   [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 6,200, on the north, with the frame.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:29–33, 42–45; 3,200 men, with the frame.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:8; four wagons and eight oxen.
 
 ## Related people
 

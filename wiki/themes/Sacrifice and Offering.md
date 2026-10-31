@@ -604,6 +604,12 @@ A defiled vow needs birds and a lamb. A completed one needs burnt, sin, and peac
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### The dedication of the altar — Numbers 7:10–88
+
+One gift, twelve times: grain in silver, incense in gold, and burnt, sin, and peace offerings, 252 animals in all. Peace offerings make up most of it. No priest is shown at work, and the chapter gives the gift by inventory, not by procedure.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -831,6 +837,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–9; the ram and the heave offerings.
 - [[The Suspected Wife]] — Numbers 5:11–31; barley meal, no oil, no frankincense, and no atonement stated.
 - [[The Nazirite Vow]] — Numbers 6:9–20; offerings for a broken and for a finished vow.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:10–88; twelve equal gifts for the altar.
 
 ## Related themes
 

@@ -166,6 +166,8 @@ guiding a people who have not yet reached the promised land.
 - [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] — Genesis 2:1–3;
   Exodus 39:32–43; 40:33; completion at different stages.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1; one month later, the first speech of Numbers.
+- [[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]]
+- [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the same day, and Moses inside the Tent
 
 ## Notes
 

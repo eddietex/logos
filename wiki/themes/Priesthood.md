@@ -503,6 +503,12 @@ Aaron and his sons are given a blessing to speak. They do not bless on their own
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### Silence at the altar — Numbers 7:8
+
+The chapter is about an altar and names no priest at work; Aaron and Ithamar appear only in *Ithamar the son of Aaron the priest* (8). The initiative in it lies with the tribal heads. The text may assume the priests' work, since Leviticus 1–7 has set it out.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -660,6 +666,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[The Suspected Wife]] — Numbers 5:11–31; the priest administers, and rules on nothing.
 - [[The Nazirite Vow]] — Numbers 6:7, 10–11, 16–20; alongside priestly law, and served by the priest.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23, 27; a duty of speech, and a limit on it.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:8; no priest shown at work; Ithamar directs Merari.
 
 ## Related themes
 

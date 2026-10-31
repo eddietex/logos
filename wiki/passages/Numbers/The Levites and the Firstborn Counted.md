@@ -174,7 +174,7 @@ Libni, Shimei, Izhar, Hebron, Mahli, and Mushi are named only as clan heads (18�
 - [[I Have Found a Ransom - Job 33.24, Psalm 49, and Mark 10.45]]
 - [[Six Hundred Three Thousand Five Hundred Fifty - Exodus 38.26 and Numbers 1.46]]
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–49, the working men counted, and the loads.
-- Numbers 7:6–9 — wagons for Gershon and Merari, and none for Kohath *(not yet ingested; stored WEB)*.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:6–9; wagons for Gershon and Merari, and none for Kohath.
 - Numbers 16:1 — Korah the Izharite with the Reubenites *(not yet ingested; stored WEB)*.
 - Numbers 18:15–16 — the five-shekel price made a standing rule *(not yet ingested; stored WEB)*.
 - Numbers 26:57–62 — the Levite clans and total at the second census *(not yet ingested; stored

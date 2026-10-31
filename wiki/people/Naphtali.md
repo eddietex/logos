@@ -74,6 +74,12 @@ In Dan's camp on the north (29), with Ahira son of Enan as prince; 53,400, uncha
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:78–83
+
+The tribe of Naphtali gives on the twelfth day of twelve, by the hand of Ahira. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"I have wrestled with my sister… and have prevailed"* —
@@ -90,6 +96,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 53,400. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Dan's camp on the north. [[The Camp Around the Tent]]
+- Numbers 7:78–83 — Naphtali gives twelfth at the altar's dedication, through Ahira. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -140,6 +147,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 53,400.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:78–83; gives twelfth, through Ahira.
 
 ## Related people
 

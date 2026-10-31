@@ -446,6 +446,12 @@ He and his sons are given the words to bless Israel (23). At Leviticus 9:22 he b
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### Named as a father — Numbers 7:8
+
+The dedication of the altar does not mention him at work. He is named once, as the father of Ithamar. The chapter assigns no act to any priest, and Leviticus 8–9 covers the same weeks with him at the center.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -598,6 +604,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 3:14–51 — Camps at the door; receives the redemption money. [[The Levites and the Firstborn Counted]]
 - Numbers 4:5–20 — Goes in with his sons to wrap the holy things and assign the bearers. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 6:22–27 — Given the words of blessing with his sons. [[Yahweh Bless You and Keep You]]
+- Numbers 7:8 — Named only as Ithamar's father. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -728,6 +735,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; camps at the door and receives the money.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20; wraps the holy things and assigns the bearers.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23; given the words with his sons.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:8; named only as Ithamar's father.
 
 ## Related people
 

@@ -108,6 +108,12 @@ In Ephraim's camp on the west (22), with Abidan son of Gideoni as prince. All th
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The altar gifts — Numbers 7:60–65
+
+The tribe of Benjamin gives on the ninth day of twelve, by the hand of Abidan. Its gift is identical to every other tribe's.
+
+See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
+
 ## Timeline / key events
 
 - Born on the road to Ephrath; [[Rachel]] dies in the labour — Genesis 35:16–19,
@@ -133,6 +139,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[The Oppression in Egypt]]
 - Numbers 1 — Tribe counted at 35,400. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
+- Numbers 7:60–65 — Benjamin gives ninth at the altar's dedication, through Abidan. [[The Offerings of the Twelve Princes]]
 
 ## Appears in
 
@@ -203,6 +210,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   generation"*, by 1:6
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 35,400.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
+- [[The Offerings of the Twelve Princes]] — Numbers 7:60–65; gives ninth, through Abidan.
 
 ## Related people
 
