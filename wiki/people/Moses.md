@@ -43,6 +43,12 @@ He receives the law (1) and is told to speak it to the people (2). He has no par
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### The words of blessing — Numbers 6:22–27
+
+He receives the words and is told to pass them to Aaron and his sons (22–23). He is not told to say them himself.
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ### The generations and the Levites — Numbers 3:1–13
 
 He is in the heading (1), and no son of his is listed. 1 Chronicles 23:14–15 counts his sons among the tribe of Levi (WEB verified at bible-api.com). Both speeches in the unit are addressed to him, and he is the one told to bring Levi near (5–6, 11). See [[The Generations of Aaron and Moses - Toledot Outside Genesis]].
@@ -1098,6 +1104,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 5:1–10 — Receives the laws on the unclean and on restitution. [[The Unclean Sent Out and Wrongs Repaid]]
 - Numbers 5:11–31 — Receives the law of jealousy. [[The Suspected Wife]]
 - Numbers 6:1–21 — Receives the law of the Nazirite. [[The Nazirite Vow]]
+- Numbers 6:22–27 — Receives the words of blessing for Aaron and his sons. [[Yahweh Bless You and Keep You]]
 
 ## Appears in
 
@@ -1322,6 +1329,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1, 4–5; receives the two laws.
 - [[The Suspected Wife]] — Numbers 5:11; receives the law.
 - [[The Nazirite Vow]] — Numbers 6:1–2; receives the law.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:22–23; passes on the words.
 
 ## Related people
 

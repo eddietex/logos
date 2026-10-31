@@ -206,6 +206,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 Verse 16 gives him the oil for the light, the sweet incense, the continual meal offering, the anointing oil, and *the requirements of all the tabernacle*. He is also among the *sons* who go in with Aaron to cover the holy things (5, 15, 19). Gershon and Merari are put under his brother.
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+- Numbers 6:22–27 — Among Aaron's unnamed sons given the blessing. [[Yahweh Bless You and Keep You]]
 
 ## Appears in
 
@@ -248,6 +249,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Work Completed]] — Exodus 39:32–43; Included among Aaron’s sons whose garments are delivered; not individually named.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Included collectively among Aaron’s sons commanded to be consecrated and reported washing.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:23; not named, among Aaron's living sons (3:4).
 
 ## Related people
 

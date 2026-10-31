@@ -87,6 +87,7 @@ of the tabernacle remain the separate subject of chapter 40.
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the first priestly blessing with its words supplied.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; the immediately preceding manufacturing account.
 - [[The Freewill Offering]] — Exodus 35:10–19; the public inventory of what was to be made.
 - [[The Tabernacle Built]], [[The Furnishings Made]], and

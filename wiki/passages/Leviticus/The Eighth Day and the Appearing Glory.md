@@ -107,6 +107,7 @@ altar. The people shout and fall on their faces.
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:22–27 gives words for a priest's blessing; 9:22–23 gives none, and the text does not join them.
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20 disposes of this day's meal offering,
   breast and thigh, and the people's goat (9:15, 17, 21).
 - [[Eaten or Burned - The Sin Offering in Leviticus 6, 9, and 10]] — whether "like the first" (15)

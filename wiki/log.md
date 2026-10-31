@@ -20816,3 +20816,32 @@ Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong'
 Matthew 2:23, Mark 14:25, Luke 1:15, and Acts 18:18; 21:23–26 verified at bible-api.com. Commentary and
 lexicons not consulted; the Greek of Acts 18:18 not checked. Counts: 279 passages, 201 people, 104 places,
 86 themes, 607 connections. Next: Yahweh Bless You and Keep You, Numbers 6:22–27.
+
+## [2026-10-31] ingest | Numbers 6.22-27 — Yahweh Bless You and Keep You
+
+Created [[Yahweh Bless You and Keep You]] and four connections:
+[[The Lifted Face and the Hidden Face - Numbers 6 and Deuteronomy 31]],
+[[Let Your Face Shine - Numbers 6 in Psalms 4, 67, 80, and 119]],
+[[His Name on Them, Their Names on Him - Numbers 6 and Exodus 28]], and
+[[To Bless in His Name - Numbers 6, Deuteronomy 10, and 2 Samuel 6]]. Revised five people, six themes, five
+existing connections, eleven passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary kept. [[Eleazar (son of Aaron)]] and [[Ithamar]] are updated though
+unnamed, as the sons 3:4 leaves. No new theme page for peace; *šālôm* is recorded on
+[[Strife and Peacemaking]] until a page is warranted. Numbers 6:26 is not treated as a plain case of the
+*nāśāʾ pānîm* idiom, because there Yahweh lifts his own face.
+
+Corrections: [[Blessing]] and [[Priesthood]] called Numbers 6:24–26 the continuation of the *bārûk* form of
+Genesis 14:19. The blessing uses jussives and no *bārûk*, so both now say the office continues and the form
+differs. Two quotations of 6:24 restored to WEB's comma.
+
+Tensions flagged, not resolved: Exodus 33:20 against a turned face; Deuteronomy 10:17 against any reading
+of 6:26 as favoritism; an unconditional blessing beside conditional law and Deuteronomy 31's hidden face;
+whether the blessing reaches those sent out of the camp at 5:1–4. Dependence of Psalm 67 on Numbers 6 is marked
+as inference. 2 Corinthians 4:6 and 13:14 are recorded as possible links only.
+
+Hebrew and lemma locations from WLC (Open Scriptures morphhb), using its Strong's and morphology tags; the
+own-face search for 6:26 may miss variants, and the passage page says so. WEB of the cross-references in the
+passage page's scope note, plus 1 Kings 8:56, verified at bible-api.com. Commentary, lexicons, and grammars not
+consulted; New Testament Greek not checked. Counts: 280 passages, 201 people, 104 places, 86 themes, 611
+connections. Next: The Offerings of the Twelve Princes, Numbers 7:1–89.

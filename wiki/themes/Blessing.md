@@ -134,8 +134,9 @@ See [[The Sabbatical Year and the Jubilee]]. Source: stored WEB Leviticus 25:1�
 - **The first blessing spoken by one man over another outside his family** is Melchizedek's, and it
   runs both ways in one breath: *"Blessed be Abram of God Most High, possessor of heaven and earth:
   and blessed be God Most High, who has delivered your enemies into your hand"* (Genesis 14:19–20).
-  The formula *bārûk X lə-ʾĒl ʿElyôn* is the shape the rest of Scripture keeps, and Numbers 6:24–26
-  will make its downward half a priest's standing office. It is also the first visible cashing of
+  The formula *bārûk X lə-ʾĒl ʿElyôn* recurs often, and
+  [[Yahweh Bless You and Keep You]] will make blessing the people a priest's standing office, though in a
+  different form: jussive verbs with *Yahweh* as subject, not *bārûk*. It is also the first visible cashing of
   12:3's *"I will bless those who bless you"* — by a stranger, in a chapter where God says nothing.
   See [[Priesthood]] and [[The Rescue of Lot and Melchizedek]].
 - **Genesis 27:1–45** — and here the theme acquires its definition, under maximum pressure. Four
@@ -341,6 +342,12 @@ emerging from the tent (9:22–23). Neither blessing's words are supplied. See
 The 603,550 is what the multiplication of Exodus 1:7 has come to. The chapter does not use the word *blessing* or cite the promise.
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
+### Words for the priest — Numbers 6:22–27
+
+Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and every verb his. The priests *put my name* on the people, and Yahweh says *I will bless them* (27). That keeps the speaker and the giver apart. The words come in jussive verbs and not in the *bārûk* form of Genesis 14:19–20, so this is a different form of blessing and not an extension of that one.
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
@@ -576,7 +583,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   Exodus 23:26, *"No one will miscarry or be barren in your land"*, and the fertility of Deuteronomy
   28:4 — enjoyed by men who tell God *"Depart from us"* (21:14). Blessing, on Job's evidence, is not a
   readable sign of standing with God, which is the inference the friends' whole case rests on.
-- [[The Months of Old]] — Job 29:2, 11, 13; God's *keeping* (*šāmar*, the verb of Numbers 6:24), the
+- [[The Months of Old]] — Job 29:2, 11, 13; God's *keeping* (*šāmar*, the verb of Numbers 6:24, [[Yahweh Bless You and Keep You]]), the
   ear that *"blessed me"* (*ʾšr*), and ***"the blessing of him who was ready to perish came on
   me"*** — blessing flowing up from the poor to their protector, and *ʾōbēd*, *perishing*, the verb of
   Eliphaz's *"who ever perished, being innocent?"* (4:7).
@@ -607,6 +614,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[A Good Name]] — Proverbs 22:9; The generous eye is blessed.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; called blessed by the daughters.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the multiplied people counted, without the word itself.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the priest speaks, and Yahweh blesses.
 
 ## Related themes
 

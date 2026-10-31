@@ -91,6 +91,7 @@ these instructions and promises, before the narrated passing in 34:5–7.
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:25–26; grace and a turned face, set against *You cannot see my face*.
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.

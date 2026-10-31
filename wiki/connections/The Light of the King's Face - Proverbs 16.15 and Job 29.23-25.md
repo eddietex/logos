@@ -24,6 +24,7 @@ tags: [connection]
   forfeits his own life."* — [[Wine Is a Mocker]]
 - **Proverbs 14:35** — *"The king's favor is toward a servant who deals wisely, but his wrath is toward
   one who causes shame."* — [[A Way That Seems Right]]
+- [[Yahweh Bless You and Keep You]] — Numbers 6:25; the shining face of Yahweh, the image in God's own case.
 
 ## Analysis
 

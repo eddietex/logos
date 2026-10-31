@@ -350,6 +350,12 @@ before wrath and rulers. See
 See [[The Forgotten Wise Man]]. Source: stored WEB Ecclesiastes 9:13–10:4; comparison sources
 are identified on the passage and connection pages.
 
+### Peace set by Yahweh — Numbers 6:26
+
+Most of this theme concerns peace reached between people. The priestly blessing asks for *šālôm* as Yahweh's gift, *and give you peace*, with no dispute in view. The verb, *śîm*, is the one used in the next verse for the priests' putting of the name. The wiki has no separate page on peace yet, and the word is recorded here.
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -530,6 +536,7 @@ are identified on the passage and connection pages.
 - [[The Glory of Kings]] — Proverbs 25:8–10, 21–24; Haste to court refused, the case argued with the neighbour, the enemy fed.
 - [[Answer a Fool]] — Proverbs 26:17, 20–21; The meddler holding a dog by the ears; the fire that goes out without wood; the contentious man.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:3–4, 15–16; The fool's provocation, jealousy, and the contentious wife.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:26; *šālôm* given and not negotiated.
 
 ## Related themes
 

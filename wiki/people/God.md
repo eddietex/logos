@@ -43,6 +43,12 @@ The Nazirite separates *to Yahweh* (2, 5, 6), and the summary is *holy to Yahweh
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### He says I will bless them — Numbers 6:22–27
+
+He is the subject of every verb in the blessing, and he names his own act in the last line: *I will bless them* (27). He gives the priests the words, and the name that goes on the people is his.
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ### The Levites given — Numbers 3:1–13
 
 Yahweh takes the Levites *instead of all the firstborn* and states the ground himself: *for all the firstborn are mine* (12–13). He dates the claim to the day he struck Egypt's firstborn, and he ends with his name. The same speech places the death sentence at the boundary (10). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
@@ -3083,6 +3089,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 5:3, 6, 8 — Dwells in the camp; receives the unclaimed payment. [[The Unclean Sent Out and Wrongs Repaid]]
 - Numbers 5:11–31 — Gives the law of jealousy; the outcome is his. [[The Suspected Wife]]
 - Numbers 6:1–21 — Gives the law of the Nazirite; the vow is made to him. [[The Nazirite Vow]]
+- Numbers 6:22–27 — Gives the priests the blessing, and says he will bless. [[Yahweh Bless You and Keep You]]
 
 ## Appears in
 
@@ -3704,6 +3711,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3, 6, 8; dwells in the camp, and is wronged in the neighbor.
 - [[The Suspected Wife]] — Numbers 5:16, 18, 21, 25, 30; the one before whom the woman stands.
 - [[The Nazirite Vow]] — Numbers 6:2, 5–6, 8; the one to whom the person is separated.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:24–27; the subject of every verb of the blessing.
 
 ## Related people
 

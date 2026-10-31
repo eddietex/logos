@@ -114,6 +114,7 @@ three, she goes free without payment (21:7–11).
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:27; the name and *I will bless* together, with people in place of a place.
 - [[The Golden Calf]] — The gold image forbidden in Exodus 20:23 becomes the crisis of Exodus 32:1–8.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:39–55.

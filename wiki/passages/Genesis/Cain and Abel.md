@@ -168,6 +168,7 @@ the garden.
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:24, 26; *keep*, and a lifted face.
 - [[The Meal Offering]] — Leviticus 2:1–16; see [[Gifts of the Ground - Cain and the Meal Offering]] for the limits of explaining Cain’s rejection by his gift’s material.
 
 - [[The Fall]] — Genesis 3:1–24, whose judgment scene this one reruns and whose *tešûqâ* and

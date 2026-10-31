@@ -440,6 +440,11 @@ Aaron and his sons receive the remainder after the memorial is burned (2:3, 10).
 Contextual priestly office established in Exodus 28:1: the priest receives restitution and makes atonement with the ram. Aaron is not named in Leviticus 5:14–19.
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]].
+### The words of blessing — Numbers 6:22–27
+
+He and his sons are given the words to bless Israel (23). At Leviticus 9:22 he blessed with lifted hands and no words were recorded. This is the first time the text gives him any. The blessing is Yahweh's to fulfil (27).
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Timeline / key events
 
@@ -592,6 +597,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 3:1–13 — Heads the list of generations; the Levites are given to him. [[The Generations of Aaron and the Levites Given]]
 - Numbers 3:14–51 — Camps at the door; receives the redemption money. [[The Levites and the Firstborn Counted]]
 - Numbers 4:5–20 — Goes in with his sons to wrap the holy things and assign the bearers. [[The Service of Kohath, Gershon, and Merari]]
+- Numbers 6:22–27 — Given the words of blessing with his sons. [[Yahweh Bless You and Keep You]]
 
 ## Appears in
 
@@ -721,6 +727,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; heads the list, and receives the Levites.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; camps at the door and receives the money.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20; wraps the holy things and assigns the bearers.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:23; given the words with his sons.
 
 ## Related people
 

@@ -220,6 +220,7 @@ chapter 39, and the ordination itself is prescribed in chapter 29.
 
 ## Cross-references
 
+- [[His Name on Them, Their Names on Him - Numbers 6 and Exodus 28]] — Aaron bears Israel's names; the priests put Yahweh's name on Israel.
 - [[The Plans of the Heart]] — Proverbs 16:33, the lot's *mišpāṭ*.
 - [[Bezalel's Workmen and the Surplus]] — Exodus 35:30–36:7; The wise-hearted garment makers belong
   to a wider company whose gifts include teaching and textile work.

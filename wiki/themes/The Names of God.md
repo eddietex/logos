@@ -222,6 +222,12 @@ explicitly made in Proverbs.
 
 See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the comparisons documented there.
 
+### The name put on a people — Numbers 6:22–27
+
+*YHWH* is said three times, and the act is called putting *my name* on the children of Israel (27). In Deuteronomy the name is put on a place (12:5). Here its object is people. How that happens is not stated, though the speaking seems to be the means. See [[His Name on Them, Their Names on Him - Numbers 6 and Exodus 28]].
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -442,6 +448,7 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 - [[The Ten Commandments]] — Exodus 20:2, 7; the known divine name must not be taken in vain
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; *"every place where I record my name"*
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the name placed *"in"* the angel sent ahead.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:27; *they shall put my name on the children of Israel*.
 
 ## Related themes
 

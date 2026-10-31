@@ -314,6 +314,12 @@ color, or narrate a dawn after the night search. The radiance is figurative.
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### The shining face — Numbers 6:25
+
+*Yahweh make his face to shine on you.* The verb is the one used for lamps at Numbers 8:2. Later prayers take it up at Psalms 4:6, 31:16, 67:1, 80:3, and 119:135 (WEB numbers). Moses' shining face at Exodus 34:29 is a different Hebrew verb, *qāran*. See [[Let Your Face Shine - Numbers 6 in Psalms 4, 67, 80, and 119]].
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
@@ -404,7 +410,7 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
   *"hidden from the eyes of all living"* (28:21)
 - [[The Months of Old]] — Job 29:3, 24; ***"when his lamp shone on my head, and by his light I walked
   through darkness"*** — darkness was there, and God's light carried him through it, against 19:8's
-  *"set darkness in my paths"*. And *"the light of my face"* (29:24): the shining face of Numbers 6:25,
+  *"set darkness in my paths"*. And *"the light of my face"* (29:24): the shining face of [[Yahweh Bless You and Keep You]], Numbers 6:25,
   on a man. See [[The Lamp of the Wicked Put Out]].
 - [[Now They Mock Me]] — Job 30:26, 28; ***"When I looked for good, then evil came; When I waited for
   light, there came darkness"*** — the lamp of 29:3, *"by his light I walked through darkness"*, gone
@@ -466,6 +472,7 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - [[The Young Man Void of Understanding]] — Proverbs 7:9; twilight to darkness, the adulterer's hour
 - [[Through Wisdom a House Is Built]] — Proverbs 24:20; The lamp of the wicked snuffed out.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; morning, moon, and sun.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:25; light as the turned face of Yahweh.
 
 ## Related themes
 

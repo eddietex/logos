@@ -193,6 +193,7 @@ the young who hid from him now mock him (30:1), the nobles' silence becomes spit
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:24–25; the words Job's memory echoes.
 - [[The Worthy Woman]] — Proverbs 31:20, 25, 28–31 joins help for the needy, character pictured as clothing, and public esteem; Job’s later humiliation qualifies any guarantee of lasting honor.
 
 - [[The Words of King Lemuel]] — Proverbs 31:8–9 commands the advocacy Job remembers practicing in

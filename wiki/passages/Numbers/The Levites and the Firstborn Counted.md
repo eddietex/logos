@@ -155,6 +155,7 @@ Libni, Shimei, Izhar, Hebron, Mahli, and Mushi are named only as clan heads (18�
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:24; the verb of the Levites' guarding, with Yahweh as subject.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:2–3, 47–53, the other census, on other terms.
 - [[The Camp Around the Tent]] — Numbers 2:3, 10, 18, 25, the outer ring around these sides.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:5–13, the speeches carried out here.

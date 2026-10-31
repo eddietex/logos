@@ -15,7 +15,7 @@ tags: [connection]
   in the fire"* — **the same construction, as a curse**
 - Compare **Genesis 12:2** — *"be a blessing"*, and **Genesis 22:18; 26:4** — *"in your offspring will
   all the nations of the earth be blessed"* — [[The Call of Abram]]
-- Compare **Numbers 6:24–26** — the priestly benediction, a blessing formula with no exemplar in it
+- Compare [[Yahweh Bless You and Keep You]], Numbers 6:24–26 — the priestly benediction, a blessing formula with no exemplar in it
 - Compare **Isaiah 65:16** — swearing *"by the God of truth"*, and **Zechariah 8:13** — *"you shall be a
   blessing"*
 

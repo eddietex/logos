@@ -35,6 +35,8 @@ curse written into water, and the outcome are left to Yahweh.
 [[The Nazirite Vow]] (6:1–21) opens holiness to either man or woman by a vow: nothing from the vine, no
 razor, and no contact with the dead, even for a parent, until the days are fulfilled and the hair goes
 on the fire.
+[[Yahweh Bless You and Keep You]] (6:22–27) closes the section with the words Aaron and his sons are to
+speak: three lines, each naming Yahweh, by which they put his name on Israel and he blesses.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -65,7 +67,7 @@ merge, or reorder them freely.
 - [x] [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–10
 - [x] [[The Suspected Wife]] — Numbers 5:11–31
 - [x] [[The Nazirite Vow]] — Numbers 6:1–21
-- [ ] Yahweh Bless You and Keep You — Numbers 6:22–27
+- [x] [[Yahweh Bless You and Keep You]] — Numbers 6:22–27
 - [ ] The Offerings of the Twelve Princes — Numbers 7:1–89
 - [ ] The Lamps and the Levites Cleansed — Numbers 8:1–26
 - [ ] The Passover in the Second Year — Numbers 9:1–14
@@ -126,6 +128,7 @@ merge, or reorder them freely.
 - [[Theft and Restitution]] — confession, repayment, and the fifth
 - [[Marriage]] — the law of jealousy
 - [[Curse]] — the oath of cursing, written and drunk
+- [[Blessing]] — the priests' words, and Yahweh's act
 
 ## Key people
 

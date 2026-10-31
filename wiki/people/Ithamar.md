@@ -198,6 +198,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 His first office by name in Numbers: the service of both houses is *under the hand of Ithamar the son of Aaron the priest* (28, 33). He is also among the *sons* who go in with Aaron to cover the holy things (5, 15, 19).
 
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
+- Numbers 6:22–27 — Among Aaron's unnamed sons given the blessing. [[Yahweh Bless You and Keep You]]
 
 ## Appears in
 
@@ -241,6 +242,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Work Completed]] — Exodus 39:32–43; Included among Aaron’s sons whose garments are delivered; not individually named.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Included collectively among Aaron’s sons commanded to be consecrated and reported washing.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:23; not named, among Aaron's living sons (3:4).
 
 ## Related people
 

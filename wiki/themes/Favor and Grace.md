@@ -224,6 +224,12 @@ and riches, it describes an expected benefit that ability cannot guarantee.
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### Grace asked for — Numbers 6:25
+
+*Wîḥunnekkā*, *and be gracious to you*, is the verb of Exodus 33:19, now a standing request in a priest's mouth. It stands with the shining face and names no condition. The first such wish in Scripture is Joseph's to Benjamin (Genesis 43:29).
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; skill does not secure favor.
@@ -340,6 +346,7 @@ are identified on the passage and connection pages.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3–4; favour *"in the sight of God and man"*
 - [[Wisdom at the Creation]] — Proverbs 8:35; *"will obtain favor from Yahweh"*, the phrase of 18:22
 - [[A Good Name]] — Proverbs 22:1, 11; Loving favor above silver; gracious speech wins the king.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:25; grace as the content of a blessing.
 
 ## Related themes
 

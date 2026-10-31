@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Shining Face of Moses]] — Exodus 34:29–35; radiance, approach, instruction, and veiling.
 - [[The Covenant Renewed]] — Exodus 34:1–28; the replacement tablets and renewed covenant.
 - 2 Corinthians 3:1–18 — Paul's comparison of covenant ministries; verified WEB, not yet ingested.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:25; Yahweh's face shining, with a different Hebrew verb from Moses'.
 
 ## Analysis
 

@@ -11,7 +11,7 @@ tags: [connection]
   and the four verses around it — [[Jacob's Flight from Laban]]
 - **Genesis 21:22–32** — the other oath between this family and an outsider, also over property, also
   at a named site — [[The Treaty at Beersheba]]
-- **Numbers 6:24–26** — the actual blessing formula the Torah supplies, for comparison
+- [[Yahweh Bless You and Keep You]] — Numbers 6:24–26; the actual blessing formula the Torah supplies, for comparison
 - **1 Samuel 7:5–6; Judges 20:1; 2 Kings 25:23** — the later Mizpahs, which are other places
 
 ## Analysis
@@ -59,7 +59,7 @@ sentence marks it as adversarial.** The adversarial content is entirely in the s
 the witness, the daughters, the second wife, the boundary — **and a verse lifted out of a chapter
 takes none of its chapter with it.**
 
-**The Torah does supply a benediction, and it is not this one.** Numbers 6:24–26 — *"Yahweh bless you
+**The Torah does supply a benediction, and it is not this one.** [[Yahweh Bless You and Keep You]], Numbers 6:24–26 — *"Yahweh bless you,
 and keep you"* — **is a blessing in form and function**, given to be said over people. **Genesis 31:49
 is a treaty clause in the middle of a non-aggression pact between a man and his father-in-law.**
 

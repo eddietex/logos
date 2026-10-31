@@ -497,6 +497,12 @@ The Nazirite is not a priest, but is held to wine, corpse, and head rules that r
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### Words to say — Numbers 6:22–27
+
+Aaron and his sons are given a blessing to speak. They do not bless on their own account: they put Yahweh's name on Israel, and he blesses (27). Exodus 28:12, 29 has Aaron carrying Israel's names before Yahweh, so the two passages can be read as the office running in both directions, though neither cites the other.
+
+See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -653,12 +659,13 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10; the priest as final recipient.
 - [[The Suspected Wife]] — Numbers 5:11–31; the priest administers, and rules on nothing.
 - [[The Nazirite Vow]] — Numbers 6:7, 10–11, 16–20; alongside priestly law, and served by the priest.
+- [[Yahweh Bless You and Keep You]] — Numbers 6:23, 27; a duty of speech, and a limit on it.
 
 ## Related themes
 
 - [[Sacrifice and Offering]] — what a priest handles, and what came first without one
 - [[Mediation and Advocacy]] — the same office described from the side of the person who needs it
-- [[Blessing]] — the priest's downward motion; Numbers 6:24–26 is the form Genesis 14:19 begins
+- [[Blessing]] — the priest's downward motion; Genesis 14:19 is the first case, and [[Yahweh Bless You and Keep You]] gives the office its own words
 - [[Tithing]] — the priest's upward one, and how he is supported
 - [[Kingship and Empire]] — the office Israel keeps separate and Melchizedek does not
 - [[Covenant]] — what the priesthood administers

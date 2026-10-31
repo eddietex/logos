@@ -19,6 +19,7 @@ tags: [connection]
   Lamb"*, and the foundations adorned with twelve precious stones *(verified WEB, not yet
   ingested)*.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Named shoulder and breastplate stones made; English gem list matches chapter 28.
+- [[His Name on Them, Their Names on Him - Numbers 6 and Exodus 28]] — Israel's names on Aaron, and Yahweh's name on Israel.
 
 ## Analysis
 

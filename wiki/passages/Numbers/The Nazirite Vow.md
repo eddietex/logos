@@ -123,6 +123,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]]
 - [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] — *unclean by the dead*
 - [[The Suspected Wife]] — the head and the hands in the law just before this one
+- [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the unit that follows, words in place of signs
 - [[Jacob Blesses His Sons]] — Genesis 49:26, *nəzîr* over Joseph
 - Amos 2:11–12 — Nazirites raised up and given wine to drink *(not yet ingested)*
 - Numbers 30:3–15 — a father's or husband's power to void a woman's vow *(not yet ingested)*

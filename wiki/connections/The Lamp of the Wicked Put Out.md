@@ -76,7 +76,7 @@ loss. Chapter 29 completes the reversal of Bildad's portrait line by line: the l
 (29:3 against 18:6), the root by the water and the dew on the branch (29:19 against 18:16's roots
 dried beneath and branch cut off), and a seat in the street (29:7) where the wicked man has *"no name
 in the street"* (18:17). And it ends with *"the light of my face"* (29:24) — the shining face of the
-priestly blessing (Numbers 6:25), worn by a man.
+priestly blessing ([[Yahweh Bless You and Keep You]], Numbers 6:25), worn by a man.
 
 ### Proverbs 20 in context
 

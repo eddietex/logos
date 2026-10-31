@@ -73,6 +73,7 @@ Exodus 33 supplies nearby context, but these verses do not identify a building.
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:25; Yahweh's shining face, with a different Hebrew verb.
 - [[The Freewill Offering]] — Exodus 35:1–29; public commission and willing contributions.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; the ascent, proclamation, and replacement tablets.

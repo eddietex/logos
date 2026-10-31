@@ -201,7 +201,7 @@ clauses, and **none of them was ever said to Abraham**:
 - ***Hinnēh ʾānōkî ʿimmāk*** — *I am with you.* Said to Isaac twice (26:3, 26:24) and to Jacob again
   at 31:3; it becomes the standing formula of every commission in Scripture — Moses at the bush
   (Exodus 3:12), Joshua (Joshua 1:5), Gideon, Jeremiah — and the last sentence of Matthew's Gospel.
-- ***Ûšmartîkā*** — *and I will keep you.* The verb of the priestly blessing (*"Yahweh bless you and
+- ***Ûšmartîkā*** — *and I will keep you.* The verb of the priestly blessing (*"Yahweh bless you, and
   keep you"*, Numbers 6:24) and of Psalm 121, which is a psalm about a road.
 - ***Wahăšibōtîkā ʾel-hāʾădāmâ hazzōʾt*** — *and I will bring you back to this land.*
 - ***Lōʾ ʾeʿĕzobkā*** — *I will not leave you.*
@@ -497,6 +497,7 @@ warrant they all appeal to**, and nothing in Genesis 28 authorises any of it. Se
 
 ## Cross-references
 
+- [[Yahweh Bless You and Keep You]] — Numbers 6:24; *šāmar* as a blessing on Israel.
 - [[Isaac Sends Jacob to Paddan Aram]] — Genesis 27:46–28:9; the sending, and Isaac's request that
   *ʾĒl Šadday* give Jacob *"the blessing of Abraham"* with the land. **God grants it directly four
   verses later.**
