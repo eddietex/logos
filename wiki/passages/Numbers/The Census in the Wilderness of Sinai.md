@@ -178,6 +178,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 
 ## Cross-references
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:5–13, the Levites' place explained.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:17, one month earlier.
 - [[The Camp Around the Tent]] — Numbers 2:1–34, the next unit, and these same figures by camp.
 - [[Vows, Valuations, and Devoted Things]] — the end of Leviticus, the last speech before this one.

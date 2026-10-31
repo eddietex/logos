@@ -20,6 +20,8 @@ says outright. The Hebrew name of the book is taken from its first verse, *in th
 count 603,550 men of fighting age by tribe, and the Levites are set apart to carry and guard the
 tabernacle instead. Israel is arranged as a marching army with a sanctuary at its center. [[The Camp Around the Tent]] (2:1–34) then gives
 every tribe a side and a turn, four camps of three around the Tent, in one order for rest and march.
+[[The Generations of Aaron and the Levites Given]] (3:1–13) names the priestly line, cut to two sons,
+and gives the tribe of Levi to Aaron, taken by Yahweh in place of every firstborn in Israel.
 
 The book mixes narrative with law, and it is not in strict date order: 9:1 goes back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -44,7 +46,7 @@ merge, or reorder them freely.
 
 - [x] [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54
 - [x] [[The Camp Around the Tent]] — Numbers 2:1–34
-- [ ] The Generations of Aaron and the Levites Given — Numbers 3:1–13
+- [x] [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13
 - [ ] The Levites and the Firstborn Counted — Numbers 3:14–51
 - [ ] The Service of Kohath, Gershon, and Merari — Numbers 4:1–49
 - [ ] The Unclean Sent Out and Wrongs Repaid — Numbers 5:1–10
@@ -105,6 +107,7 @@ merge, or reorder them freely.
 - [[Holiness]] — the danger of approach, and the cordon around the sanctuary
 - [[Priesthood]] — Levites and priests set apart from the tribes
 - [[Law and Obedience]] — *as Yahweh commanded*
+- [[Birthright and the Firstborn]] — the Levites taken instead of the firstborn
 
 ## Key people
 
@@ -112,8 +115,10 @@ merge, or reorder them freely.
 - [[Aaron]] — counts with Moses
 - [[The Twelve Tribal Princes]] — the man from each tribe
 - [[Nahshon]] — Judah's man
+- [[Eleazar (son of Aaron)]], [[Ithamar]] — the surviving priests
+- [[Levi]] — the tribe given to Aaron
 
 ## Key places
 
 - [[Horeb]] — the wilderness of Sinai, where the book begins
-- [[Egypt]] — the point from which its dates are reckoned
+- [[Egypt]] — the point from which its dates are reckoned, and the land of the struck firstborn

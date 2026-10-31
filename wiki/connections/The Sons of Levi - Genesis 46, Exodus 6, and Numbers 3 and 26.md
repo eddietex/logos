@@ -32,9 +32,10 @@ tags: [connection]
 | **Korah** | — | son of Izhar; his sons *"the families of the Korahites"* | — | the *Korahites* a clan; *"the sons of Korah did not die"* (26:11) |
 
 (Hebrew of Genesis 46:11, Exodus 6:16–25, Numbers 3:17–20, and Numbers 26:11, 57–61 checked in the
-Westminster Leningrad Codex. The Numbers columns are the wiki's own summaries of the Hebrew, because
-Numbers is not yet in `raw/`; every quoted phrase from Numbers on this page is the wiki's own
-rendering of the checked Hebrew, not the WEB. Numbers 3:2–4 and 3:21–37 are cited from memory.)
+Westminster Leningrad Codex. The Numbers columns are the wiki's own summaries of the Hebrew, written
+before Numbers reached `raw/`; every quoted phrase from Numbers on this page is the wiki's own
+rendering of the checked Hebrew, not the WEB. Numbers 3:2–4 is now checked at
+[[The Generations of Aaron and the Levites Given]]; 3:21–37 is cited from memory.)
 
 **Genesis records a family.** The three sons are one clause, with no titles and no future, on the
 road into Egypt.

@@ -13,6 +13,12 @@ The camp is laid out here, though the chapter does not name the place. Nothing h
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+The heading dates the generations to *the day that Yahweh spoke with Moses in Mount Sinai* (1), and Nadab and Abihu are said to have died *in the wilderness of Sinai* (4). Israel has not yet moved.
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ### The census — Numbers 1:1–54
 
 Numbers opens *in the wilderness of Sinai* (1, 19), with the camp still below the mountain and the Tent of Meeting as the place of speech. The army is counted here, and the march begins at 10:11–12.
@@ -739,6 +745,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The continuing Sinai setting; no new camp named.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the wilderness of Sinai, where the census is taken.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp ordered before the march.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the heading's date and the place of the deaths.
 
 ## Related places
 

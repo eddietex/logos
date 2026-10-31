@@ -658,8 +658,15 @@ not narrate how the woman’s circumstances changed or establish a general wage 
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### The Levites given — Numbers 3:1–13
+
+*To do the service of the tabernacle* stands twice (7–8), joined to *keeping* a charge. The same two roots stand in Genesis 2:15 (WLC). Here it is the assigned labor of one tribe, done on behalf of the others.
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:7–8; the service of the tabernacle.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.

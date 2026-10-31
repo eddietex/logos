@@ -79,6 +79,7 @@ the tent, distinguish sacred and common and clean and unclean, and teach Israel 
 
 ## Cross-references
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:4; the deaths reported, and the note that they had no children.
 - [[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]] — Leviticus 16:1 dates the Day of Atonement by these deaths and prescribes the permitted entry; see [[The Day of Atonement]].
 
 - [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] — the prohibitions on priestly

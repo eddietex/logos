@@ -461,6 +461,12 @@ The Levites travel with the Tent, in the middle of the camps (17), and stay outs
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+The line narrows to Eleazar and Ithamar (4). The Levites are placed under them to keep the Tent, but the priesthood itself stays with Aaron and his sons, and an outsider who comes near dies (10). Levites serve; they do not become priests. Verse 3 calls the sons *anointed*, and WEB's *consecrated* is the idiom *filled their hand* (WLC).
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -546,7 +552,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   first occurrence of *šemen* in Scripture, and God later refers to the act approvingly (31:13)
 - Exodus 28–29 — Aaron and his sons appointed and their consecration prescribed;
   Leviticus 8–9 — consecration and inauguration now ingested
-- Numbers 3:5–13; Deuteronomy 33:8–11 — Levi set apart
+- [[The Generations of Aaron and the Levites Given]] (Numbers 3:5–13); Deuteronomy 33:8–11 — Levi set apart
 - 1 Samuel 2:35 — *"I will raise up a faithful priest"*
 - Psalm 110:4 — the order of Melchizedek
 - Hosea 4:6; Malachi 2:1–9 — the indictment
@@ -611,6 +617,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Consecration is commanded and washing reported; the full ordination rite is not retold.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levites set apart from the army.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the Levites in the middle of the camps.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the two surviving sons, and the Levites given.
 
 ## Related themes
 

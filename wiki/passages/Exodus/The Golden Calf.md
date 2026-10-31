@@ -90,6 +90,7 @@ scene.
 
 ## Cross-references
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:3, 12; the idiom of 32:29 used of the priests, and Levi taken for another reason.
 - [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]] — comparison developed with Proverbs 29.
 
 - [[Where There Is No Vision]] — Proverbs 29:1, 18 compares the stubborn neck and failed restraint

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:12–13; within the firstborn nation, the firstborn are replaced by a tribe.
 - **Exodus 4:22–23** — *"Yahweh says, Israel is my son, my firstborn, and I have said to you, 'Let
   my son go, that he may serve me'; and you have refused to let him go. Behold, I will kill your son,
   your firstborn."* — [[Moses Returns to Egypt]]

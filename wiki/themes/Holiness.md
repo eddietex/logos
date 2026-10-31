@@ -549,6 +549,12 @@ Nearness is structured. Israel camps *at a distance* (2), with the Levites betwe
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+*I made holy to me all the firstborn* (13) dates a holiness to a night of death, and *the stranger who comes near shall be put to death* (10) sets its boundary. See [[The Stranger Who Comes Near - Numbers 1.51, 3.10, 18.7, and Leviticus 10]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -695,6 +701,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   Masorah*); holiness as the object of knowledge, paired with the fear of Yahweh.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levite cordon and the stranger who comes near.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp held at a distance from the Tent.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the firstborn made holy, and the sentence at the boundary.
 
 ## Related themes
 

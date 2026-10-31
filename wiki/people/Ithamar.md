@@ -127,6 +127,7 @@ Aaron’s sons present the offering and receive its most holy remainder (2:2–3
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 - Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
+- Numbers 3:2, 4 — Ministers with Eleazar under Aaron. [[The Generations of Aaron and the Levites Given]]
 
 ### The burnt offering — Leviticus 1:1–17
 
@@ -185,8 +186,15 @@ Named with Eleazar among the sons "who were left" (12, 16), Ithamar receives the
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The surviving line — Numbers 3:1–13
+
+With Nadab and Abihu dead and childless, he and his brother *ministered in the priest's office in the presence of Aaron their father* (4). The two Levite speeches that follow give the tribe to Aaron *and to his sons* (9), so he is included in both the priesthood and the gift. 1 Chronicles 24:1–2 makes the same point (WEB verified at bible-api.com).
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Appears in
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; ministers with Eleazar under Aaron.
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Rebuked with Eleazar over the burned goat.

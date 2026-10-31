@@ -13,6 +13,12 @@ Yahweh gives the arrangement to Moses and Aaron together (1). The speech is enti
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+Yahweh takes the Levites *instead of all the firstborn* and states the ground himself: *for all the firstborn are mine* (12–13). He dates the claim to the day he struck Egypt's firstborn, and he ends with his name. The same speech places the death sentence at the boundary (10). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ### The census — Numbers 1:1–54
 
 Yahweh speaks in the Tent of Meeting and orders the count (1–4), then exempts Levi and gives the reason: the tabernacle needs guarding so that *there may be no wrath* (48–53). Israel's army is mustered by his command, and its total is reported without comment.
@@ -3041,6 +3047,7 @@ The priests' portions are his offerings made by fire (12–15), and Aaron's defe
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 1 — Commands the census and the Levites' appointment. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Assigns every tribe its place around the Tent. [[The Camp Around the Tent]]
+- Numbers 3:1–13 — Gives the Levites to Aaron and takes them in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
 
 ## Appears in
 
@@ -3656,6 +3663,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Two Feasts]] — Proverbs 9:1–18; named *Yahweh* once (9:10), in the motto, and *"the Holy One"*; no speech or act.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; commands the census and the Levites' appointment.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; assigns every tribe its place around the Tent.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; gives the Levites to Aaron and claims the firstborn.
 
 ## Related people
 

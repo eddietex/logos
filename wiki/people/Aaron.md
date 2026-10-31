@@ -13,6 +13,12 @@ Addressed with Moses (1). The chapter gives him no action. His place on the east
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The generations and the Levites — Numbers 3:1–13
+
+The heading names him before Moses (1), and the list that follows is his alone. Two of his four sons are dead and childless, and the other two minister in his presence (4). The tribe of Levi is stood before him and given to him *wholly* (6, 9), and he and his sons keep the priesthood (10). The chapter does not report his reaction to any of this.
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ### The census — Numbers 1:1–54
 
 Aaron is named with Moses as counter (3, 17, 44). No speech or independent act is given, and the tribe of Levi he belongs to is not in the count (47).
@@ -571,6 +577,7 @@ Moses gives Aaron and his surviving sons the remaining meal offering and the bre
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 1 — Counts with Moses. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Receives the order of the camp with Moses. [[The Camp Around the Tent]]
+- Numbers 3:1–13 — Heads the list of generations; the Levites are given to him. [[The Generations of Aaron and the Levites Given]]
 
 ## Appears in
 
@@ -697,6 +704,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; His consecration is commanded; he washes at the basin with Moses and his sons.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; counts with Moses.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; receives the order of the camp with Moses.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; heads the list, and receives the Levites.
 
 ## Related people
 

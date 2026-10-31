@@ -94,7 +94,7 @@ words.
 ***"It is mine"*** — ***lî hûʾ***, two words. **No reason is given in God's speech.** The reason is given
 by Moses, at 13:15, and it is the night of 12:29. Numbers 3:13 gives it in God's voice: *"On the day that I
 struck down all the firstborn in the land of Egypt I made holy to me all the firstborn in Israel, both
-man and animal. They shall be mine"* (WEB; *not yet ingested*). See
+man and animal. They shall be mine"* (WEB, [[The Generations of Aaron and the Levites Given]]). See
 [[Child Sacrifice and the Redemption of the Firstborn]].
 
 ### Remember this day (13:3–4)
@@ -377,8 +377,8 @@ a festival, not an object. The wiki adopts neither reading.
   *(not yet ingested)*
 - Leviticus 18:21; Deuteronomy 18:10 — *ʿābar* in the hiphil, of child sacrifice —
   [[Child Sacrifice and the Redemption of the Firstborn]] *(not yet ingested)*
-- Numbers 3:12–13, 40–51; 18:15–16 — the Levites instead of the firstborn; five shekels *(not yet
-  ingested)*
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:12–13, the Levites instead of the firstborn
+- Numbers 3:40–51; 18:15–16 — the surplus and five shekels *(not yet ingested)*
 - Deuteronomy 6:8, 20–21; 11:18 — the frontlets and the son's question *(not yet ingested)* —
   [[When Your Son Asks - Telling the Exodus to the Next Generation]]
 - Deuteronomy 7:8 — *"redeemed you out of the house of bondage"* *(not yet ingested)*

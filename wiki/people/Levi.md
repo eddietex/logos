@@ -116,6 +116,12 @@ The Levites camp in the middle (17) and are again not counted (33). Chapter 3 wi
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+The tribe is brought near, stood before Aaron, and given to him to keep the charge of the Tent (6–9). Yahweh then claims it: *the Levites shall be mine* (12). The reason given is the firstborn, and neither Exodus 32:26–29 nor Jacob's curse (Genesis 49:5–7) is mentioned. So the earlier statement on this page that no text explains the change still stands for the priesthood, while this speech gives a purpose for the tribe's service. See [[Wholly Given - Netunim in Numbers and the Temple Servants]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -139,6 +145,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 - Exodus 32 — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29). [[The Golden Calf]]
 - Numbers 1 — Tribe left out of the census and appointed to the tabernacle. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — The camp in the middle, not counted. [[The Camp Around the Tent]]
+- Numbers 3:1–13 — The tribe given to Aaron and taken in place of the firstborn. [[The Generations of Aaron and the Levites Given]]
 
 ## Appears in
 
@@ -204,6 +211,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   and Simeon get one; *tôlədôt*; 137 years; and the line to Aaron and Phinehas
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe left out of the census and appointed to the tabernacle.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the camp in the middle, not counted.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; given to Aaron, and taken in place of the firstborn.
 
 ## Related people
 

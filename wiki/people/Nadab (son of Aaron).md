@@ -123,6 +123,7 @@ Aaron’s sons present the offering and receive its most holy remainder (2:2–3
 - Exodus 30:19–21, 30 — Included among Aaron's sons who wash at the basin and are anointed. See [[The Incense Altar, the Ransom, and the Holy Oil]].
 
 - Exodus 40:1–38 — Included collectively among Aaron’s sons commanded to be consecrated and reported washing. See [[The Tabernacle Raised and the Glory]].
+- Numbers 3:2, 4 — Named as firstborn; dead, without children. [[The Generations of Aaron and the Levites Given]]
 
 ### The burnt offering — Leviticus 1:1–17
 
@@ -190,8 +191,15 @@ entry rather than a further account of the offense; see
 
 See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
 
+### The firstborn, dead without children — Numbers 3:1–13
+
+Named as *the firstborn* (2), then reported dead *when they offered strange fire* in the wilderness of Sinai (4). This verse adds what Leviticus 10 did not say: he and Abihu had no children, so the firstborn's line ends with him. The unit then turns to the claim on all Israel's firstborn, though it does not link the two. See also [[Nadab, Abihu, and the Guarded Entry - Leviticus 10 and 16]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Appears in
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the firstborn, dead with no children.
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.
 
 - [[The Uneaten Sin Offering]] — Leviticus 10:12–20; Unnamed; his death frames the exchange.

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:4; the deaths reported in a line, with *no children*.
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 - [[The Day of Atonement]] — Leviticus 16:1–34.
 
@@ -34,6 +35,10 @@ shows the coming near that is allowed — once a year, washed, in linen, with co
 blood, and nobody else in the tent (16:17).
 
 Source: stored WEB Leviticus 10:1–11 and 16:1–34; comparison is paraphrase except where quoted.
+
+### Numbers 3:4
+
+The third account is the shortest. It keeps *strange fire* and *before Yahweh*, gives the place, and adds that the brothers had no children. It says nothing about the entry rules, but the chapter goes on to set the Levites around the Tent and repeat the death sentence for the outsider (10). See [[The Stranger Who Comes Near - Numbers 1.51, 3.10, 18.7, and Leviticus 10]].
 
 ## Significance
 

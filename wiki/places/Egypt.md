@@ -186,8 +186,15 @@ Egypt appears as the remembered point of departure in the explanation of Unleave
 (34:18). The month of that departure continues to shape the calendar after the calf and covenant
 renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenant Renewed]].
 
+### The Levites given — Numbers 3:1–13
+
+Egypt is named once, as the land where Yahweh struck down all the firstborn (13). That night is the ground of the claim on Israel's firstborn and so of the Levites' service.
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Appears in
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the land of the struck firstborn.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
@@ -526,3 +533,5 @@ renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenan
   [[Water from the Rock]]
 - Named as the land where Israel were aliens, the reason not to oppress one — Exodus 22:21,
   [[Laws of Holiness and Compassion]]
+- Named as the land where the firstborn were struck, the ground of the Levites' service — Numbers 3:13,
+  [[The Generations of Aaron and the Levites Given]]

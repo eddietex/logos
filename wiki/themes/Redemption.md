@@ -188,8 +188,15 @@ role: the Redeemer *"will plead their case against you"*.
 
 See [[Thirty Excellent Things]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### The Levites given — Numbers 3:1–13
+
+The words for redeeming do not occur in these verses; *pādâ* language comes at 3:46–51. The unit does give the logic of it, though: what Yahweh spared at the Passover he claims, and he accepts a substitute, *instead of* (12). See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:11–13; the substitute for the firstborn.
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

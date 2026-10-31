@@ -396,6 +396,12 @@ Every tribe is placed in relation to the Tent, and all of them face it (2). The 
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+The Tent receives a permanent staff, who keep its furnishings and its charge (7–8). The tribe's whole life is arranged around the place where Yahweh speaks.
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -490,6 +496,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The completed sanctuary is filled, and its cloud accompanies the travelling people.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the tabernacle carried by the Levites.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; every tribe placed around the Tent.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; a tribe given to keep the Tent.
 
 ## Related themes
 

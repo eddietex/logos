@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:5–13; Levi given to Aaron, with no mention of Shechem or the curse.
 - [[The Golden Calf]] — Exodus 32:26–29.
 
 - Genesis 34:13–31 — the proposal, the third day, and the brothers' unanswered question

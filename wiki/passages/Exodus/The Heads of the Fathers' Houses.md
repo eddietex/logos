@@ -206,7 +206,7 @@ names is the standard one, from memory, and was not checked against the Septuagi
 for offering *"strange fire"* before Yahweh (Numbers 26:61, *ʾēš zārâ*, WLC; told in Leviticus 10).
 [[Eleazar (son of Aaron)]] succeeds Aaron as high priest. [[Ithamar]] oversees the Levites' work at
 the tabernacle. **The list names four sons; the priesthood descends through the second pair.** The
-first pair has no sons (Numbers 3:4, from memory; not checked).
+first pair has no sons (Numbers 3:4, [[The Generations of Aaron and the Levites Given]]).
 
 ### Eleazar and Phinehas (6:25)
 
@@ -365,8 +365,7 @@ never as priests. See [[Priesthood]].
   married his *"father's sister"*, which Leviticus 18:12 forbids. That is the WEB's rendering, and it
   agrees with Numbers 26:59. The Hebrew of 6:20 says *his aunt*, and the word's two Leviticus uses
   mean an uncle's wife. The three pages now say both; the prohibition holds on either reading.
-- **Cited from memory and not checked**: the eleven Korahite psalm headings; Numbers 3:4 (Nadab and
-  Abihu had no sons); 1 Chronicles 23:14–15 (Moses' sons among the Levites); 1 Chronicles 6; the
+- **Cited from memory and not checked**: the eleven Korahite psalm headings; 1 Chronicles 23:14–15 (Moses' sons among the Levites); 1 Chronicles 6; the
   *Elisabet* form of Elisheba in the Septuagint and Luke. Each is hedged where it is used. No verse
   outside Genesis, Exodus, and Job is quoted in English on this page; the few short renderings of
   Numbers are the wiki's own, from the checked Hebrew, and are marked so.

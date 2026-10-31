@@ -100,6 +100,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[A Garment Used as Evidence - The Coat and the Cloak]] | parallel | Genesis 37:3–4, 23, 31–33 · Genesis 38:18, 25–26 · Genesis 39:12–18 · Genesis 27:15–16 · Exodus 22:13 · 2 Samuel 13:18–19 · Genesis 45:22, 27 |
 | [[The Garments Commanded and Made - Exodus 28 and 39]] | command-and-performance | Exodus 28:1–43 · Exodus 29:4–9, 21, 29–30 · Exodus 35:19–27 · [[The Priestly Garments Made]] (Exodus 39:1–31) · [[The Work Completed]] (Exodus 39:32–43) |
 | [[Gathered to His People]] | parallel | Genesis 25:8 · Genesis 25:17 · Genesis 35:29 · Genesis 49:29, 33 · Numbers 20:24 · Deuteronomy 32:50 |
+| [[The Generations of Aaron and Moses - Toledot Outside Genesis]] | word | [[The Generations of Aaron and the Levites Given]] · [[The Census in the Wilderness of Sinai]] · [[The Heads of the Fathers' Houses]] · [[The Priestly Garments]] · Ruth 4:18 · 1 Chronicles 1:29 |
 | [[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]] | thematic-parallel | Proverbs 15:1 · Proverbs 25:15 · Proverbs 27:5 · Ecclesiastes 8:3 · Ecclesiastes 9:17 · Ecclesiastes 10:4; [[The Forgotten Wise Man]] |
 | [[Gibeah and Sodom - Judges 19 as a Retelling]] | parallel | Genesis 19:1–11 · Judges 19:11–30 · Judges 20–21 · Hosea 9:9; 10:9 |
 | [[Gifts of the Ground - Cain and the Meal Offering]] | parallel | Genesis 4:3–7; Leviticus 2:1–16 — permitted grain offerings rule out blanket rejection of produce without supplying Cain’s unstated ritual error |

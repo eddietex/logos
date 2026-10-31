@@ -13,6 +13,12 @@ Addressed with Aaron (1). He does nothing in the chapter, but the close says the
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The generations and the Levites — Numbers 3:1–13
+
+He is in the heading (1), and no son of his is listed. 1 Chronicles 23:14–15 counts his sons among the tribe of Levi (WEB verified at bible-api.com). Both speeches in the unit are addressed to him, and he is the one told to bring Levi near (5–6, 11). See [[The Generations of Aaron and Moses - Toledot Outside Genesis]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ### The census — Numbers 1:1–54
 
 Moses receives the order and counts Israel with Aaron and twelve tribal men (1–4, 17–19, 44). He is the subject of *so he counted them* (19). Nothing he says is recorded.
@@ -1056,6 +1062,7 @@ Moses directs the surviving priests to eat their portions, then inquires about t
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 1 — Counts the tribes; appoints the Levites. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Receives the order of the camp with Aaron. [[The Camp Around the Tent]]
+- Numbers 3:1–13 — Told to bring Levi near and give them to Aaron. [[The Generations of Aaron and the Levites Given]]
 
 ## Appears in
 
@@ -1274,6 +1281,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Raises and equips the sanctuary, performs service, and then cannot enter the filled tent.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; counts the tribes; appoints the Levites.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; receives the order of the camp with Aaron.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; named in the heading, and told to bring Levi near.
 
 ## Related people
 

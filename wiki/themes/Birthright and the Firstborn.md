@@ -99,6 +99,12 @@ Reuben, *Israel's firstborn* at 1:20, leads a camp but goes second, behind Judah
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### The Levites given — Numbers 3:1–13
+
+Nadab is called *the firstborn* (2), dies childless, and the line goes on through younger sons (4). Then Yahweh takes a whole tribe in place of every firstborn in Israel (12). Levi, Leah's third son, stands in for the eldest. See [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]].
+
+See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -144,7 +150,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
 - Genesis 49:3–4 — Reuben, *"my firstborn, my might"*, loses the pre-eminence *(not yet ingested)*
 - Deuteronomy 21:15–17 — the law of the double portion, prohibiting the patriarchs' practice
-- Exodus 4:22; 13:2, 13; 34:20; Numbers 3:11–13 — the firstborn as God's claim, and their redemption
+- Exodus 4:22; 13:2, 13; 34:20; Numbers 3:11–13 ([[The Generations of Aaron and the Levites Given]]) — the firstborn as God's claim, and their redemption
 - Hebrews 12:16–17, 23 — Esau as the warning, and *"the assembly of the firstborn"* in the same
   chapter
 - [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:9; **the elder brother's answer to having lost
@@ -249,6 +255,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 - [[Laws of Holiness and Compassion]] — Exodus 22:29–30; the firstborn given, with no redemption clause
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; Reuben's title and Joseph's two tribes in the register.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; Judah ahead of Reuben, Ephraim ahead of Manasseh.
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; Nadab, and the Levites taken instead.
 
 ## Related themes
 

@@ -20678,3 +20678,26 @@ Hebrew and lemma counts from WLC (Open Scriptures morphhb, all thirty-nine books
 tags. Ezekiel 48, Revelation 21, Joshua 3, and Psalm 20 verified at bible-api.com. Counts: 273 passages,
 199 people, 104 places, 86 themes, 591 connections. Next: The Generations of Aaron and the Levites
 Given, Numbers 3:1–13.
+
+## [2026-10-31] ingest | Numbers 3.1-13 — The Generations of Aaron and the Levites Given
+
+Created [[The Generations of Aaron and the Levites Given]] and three connections:
+[[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]],
+[[Wholly Given - Netunim in Numbers and the Temple Servants]], and
+[[The Generations of Aaron and Moses - Toledot Outside Genesis]]. Revised eight people, [[Horeb]],
+[[Egypt]], six themes, seven connections, six passages, and the book, connections, and top indexes.
+
+Judgment calls: the plan's boundary kept. No new person or place pages, since every name was already
+covered. Revised two stale *from memory* notes, on [[The Heads of the Fathers' Houses]] and
+[[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]], now that 3:2–4 is checked.
+
+Tensions flagged, not resolved: given *to him* at 3:9 against *to me* at 8:16; Exodus 32 and the
+firstborn as two accounts of Levi's place; firstborn redeemed or replaced; and the day of 3:13 against
+the undated command of Exodus 13:2. *Filled their hand*, the *qārab* repetition, and the Genesis 2:15
+pair are marked as the wiki's observations. A reported ancient variant at 3:9 is named on the pages
+as unchecked.
+
+Hebrew and lemma counts from WLC (Open Scriptures morphhb, all thirty-nine books), using its Strong's
+tags. 1 Chronicles 6, 9, 23–24, Ezra 2 and 8, and Ruth 4 verified at bible-api.com. Counts: 274
+passages, 199 people, 104 places, 86 themes, 594 connections. Next: The Levites and the Firstborn
+Counted, Numbers 3:14–51.

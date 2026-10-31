@@ -11,8 +11,8 @@ tags: [connection]
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1, 6; *ʾēš zārâ*, and anger on the
   congregation
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:51, 53; *The stranger who comes near shall be put to death*
-- Numbers 3:10, 38 — the sentence repeated for the priests and for the camp's east side *(not yet
-  ingested; stored WEB)*
+- [[The Generations of Aaron and the Levites Given]] — Numbers 3:10; the sentence repeated for the priests
+- Numbers 3:38 — the same for the camp's east side *(not yet ingested; stored WEB)*
 - Numbers 16:40 — *no stranger, who isn't of the offspring of Aaron* *(not yet ingested; stored WEB)*
 - Numbers 18:5, 7 — *that there be no more wrath*, and the sentence a last time *(not yet ingested;
   stored WEB)*

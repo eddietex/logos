@@ -20,7 +20,8 @@ tags: [connection]
 - **Exodus 13:2, 11–15; 22:29–30; 34:19–20** — every firstborn is Yahweh's; every firstborn son is
   redeemed — [[The Consecration of the Firstborn]]
 - **Numbers 3:11–13, 40–51; 18:15–16** — the Levites taken instead of the firstborn, and the
-  five-shekel redemption price
+  five-shekel redemption price — [[The Generations of Aaron and the Levites Given]]; see also
+  [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]]
 - **Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 18:10** — the prohibition, attached to Molech and to
   *"passing through the fire"*
 - **Judges 11:29–40** — Jephthah's vow, and the daughter nobody stops
