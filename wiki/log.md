@@ -20823,7 +20823,7 @@ Created [[Yahweh Bless You and Keep You]] and four connections:
 [[The Lifted Face and the Hidden Face - Numbers 6 and Deuteronomy 31]],
 [[Let Your Face Shine - Numbers 6 in Psalms 4, 67, 80, and 119]],
 [[His Name on Them, Their Names on Him - Numbers 6 and Exodus 28]], and
-[[To Bless in His Name - Numbers 6, Deuteronomy 10, and 2 Samuel 6]]. Revised five people, six themes, five
+[[To Bless in His Name - Numbers 6, Deuteronomy 10, and 2 Samuel 6]]. Revised five people, six themes, six
 existing connections, eleven passages, and the book, category, and top indexes.
 
 Judgment calls: the plan's boundary kept. [[Eleazar (son of Aaron)]] and [[Ithamar]] are updated though
