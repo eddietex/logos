@@ -153,6 +153,7 @@ The *priest* acts throughout, unnamed; [[Aaron]] is not mentioned.
 - [[The Land Is Mine - Pharaoh's Freehold and the Jubilee]]
 - Psalm 15:4 — *he who keeps an oath even when it hurts, and doesn't change* *(not yet ingested; WEB,
   bible-api.com; Hebrew WLC)*.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1; the next speech, from the Tent of Meeting.
 
 ## Notes
 

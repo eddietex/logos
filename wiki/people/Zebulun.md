@@ -53,6 +53,12 @@ Zebulun and Naphtali as the first land to be brought into contempt and the first
 light** — the verse Matthew 4:13–16 quotes over Capernaum, making these two tribes' territory the
 ground Jesus' ministry begins on.
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 57,400, fourth in size, with Eliab son of Helon (9, 31).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her sixth son; *"God has endowed me with a good dowry"* — Genesis 30:19–20,
@@ -67,6 +73,7 @@ ground Jesus' ministry begins on.
 - Isaiah 9:1; Matthew 4:13–16 — Zebulun and Naphtali, contempt and then a great light
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Tribe counted at 57,400. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -113,6 +120,7 @@ ground Jesus' ministry begins on.
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); last of Leah's six. Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 57,400.
 
 ## Related people
 

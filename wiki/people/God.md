@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The census — Numbers 1:1–54
+
+Yahweh speaks in the Tent of Meeting and orders the count (1–4), then exempts Levi and gives the reason: the tabernacle needs guarding so that *there may be no wrath* (48–53). Israel's army is mustered by his command, and its total is reported without comment.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Yahweh accepts a person, an animal, a house, or a field, and sets the terms. The chapter ends by
@@ -3027,6 +3033,7 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 The priests' portions are his offerings made by fire (12–15), and Aaron's defense asks whether eating the sin offering would have been pleasing in Yahweh's sight (19). Yahweh does not speak in this unit; Moses, not Yahweh, is reported as accepting the answer (20).
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+- Numbers 1 — Commands the census and the Levites' appointment. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -3640,6 +3647,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:1–21; named *Yahweh* once (8:13), in Wisdom's definition of his fear as hatred of evil; no speech or act.
 - [[Wisdom at the Creation]] — Proverbs 8:22–36; named *Yahweh* twice (8:22, 35): the Creator with Wisdom beside him, and the giver of favour to whoever finds her; no speech.
 - [[The Two Feasts]] — Proverbs 9:1–18; named *Yahweh* once (9:10), in the motto, and *"the Holy One"*; no speech or act.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; commands the census and the Levites' appointment.
 
 ## Related people
 

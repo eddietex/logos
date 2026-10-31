@@ -336,6 +336,12 @@ Aaron lifts his hands and blesses after the offerings; then Moses and Aaron bles
 emerging from the tent (9:22–23). Neither blessing's words are supplied. See
 [[The Eighth Day and the Appearing Glory]] .
 
+### The census — Numbers 1:1–54
+
+The 603,550 is what the multiplication of Exodus 1:7 has come to. The chapter does not use the word *blessing* or cite the promise.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
@@ -600,6 +606,7 @@ emerging from the tent (9:22–23). Neither blessing's words are supplied. See
 - [[Wisdom at the Creation]] — Proverbs 8:32–34; *ʾašrê*: blessed are those who keep Wisdom's ways and wait at her door posts
 - [[A Good Name]] — Proverbs 22:9; The generous eye is blessed.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; called blessed by the daughters.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the multiplied people counted, without the word itself.
 
 ## Related themes
 

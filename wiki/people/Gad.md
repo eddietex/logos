@@ -56,6 +56,12 @@ tribes settled outside the land the promise names.** The Mesha Stele, a Moabite 
 ninth century, mentions the men of Gad living in Ataroth *"from of old"*: **one of the few tribal names
 of Genesis attested outside the Bible.**
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 45,650, the only figure not ending in hundreds, with Eliasaph son of Deuel (14, 25). Eleventh in the name list, he moves to third in the census, behind Simeon, which is his place in the camp at 2:14.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"How fortunate!"* — Genesis 30:10–11,
@@ -69,6 +75,7 @@ of Genesis attested outside the Bible.**
 - Isaiah 65:11 — *Gad* as a deity with a table prepared for him
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Tribe counted at 45,650. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -116,6 +123,7 @@ of Genesis attested outside the Bible.**
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); Zilpah's first — **moved after Rachel's and Bilhah's sons**, where Genesis 46 had put Zilpah's before them. Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 45,650.
 
 ## Related people
 

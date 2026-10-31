@@ -250,6 +250,7 @@ chapters 37–38 and the anointing commanded again at 40:9–15.
   not ingested). See the note below.
 - [[The Young Man Void of Understanding]] — Proverbs 7:17; myrrh and cinnamon, with aloes, on the strange woman's bed. See
   [[Myrrh, Aloes, and Cinnamon - Proverbs 7.17, Song of Solomon 4.14, and Psalm 45.8]].
+- [[The Census in the Wilderness of Sinai]] — Numbers 1; a census with no ransom named.
 
 ## Notes
 

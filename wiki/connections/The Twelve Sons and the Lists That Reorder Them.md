@@ -15,7 +15,7 @@ tags: [connection]
 - **Genesis 49:1–28** — Jacob's blessing, and its own order
 - **Exodus 1:1–5** — the eleven who came with Jacob, with Joseph already in Egypt
   — [[The Oppression in Egypt]]
-- **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split**
+- **Numbers 1–2; 26** — the censuses and the camp, with **Levi removed and Joseph split** ([[The Census in the Wilderness of Sinai]])
 - **Deuteronomy 33** — Moses' blessing, with **Simeon missing**
 - **Joshua 13–19** — the allotments, with **no territory for Levi**
 - **Ezekiel 48:1–35** — the eschatological land, and the twelve gates
@@ -74,8 +74,8 @@ portion. Chronicles states the mechanism outright: *"Reuben… was the firstborn
 given to the sons of Joseph."* **The birth order stands and the birthright moves.** See
 [[Birthright and the Firstborn]].
 
-**3. The wilderness lists remove Levi and split Joseph to keep the number at twelve.** Numbers 1:47–49
-takes Levi out of the census because it has no land and no army; **Ephraim and Manasseh, adopted by
+**3. The wilderness lists remove Levi and split Joseph to keep the number at twelve.** Numbers 1:47–53
+takes Levi out of the census and gives the reason as tabernacle service, with landlessness stated only at 18:20; **Ephraim and Manasseh, adopted by
 Jacob at 48:5, enter as two tribes**; and the total is twelve again. **This is the arithmetic that
 governs almost every later list**, and it means the phrase *the twelve tribes* names a set whose members
 change while the number does not.
@@ -134,3 +134,8 @@ chapter never lists the names, so it does not settle whether Levi and Joseph or 
 Manasseh are counted. Its one stated ordering principle, birth order, points back to the
 sequence narrated in Genesis 29:31–30:24 and 35:16–18 rather than to any later roster. See [[The Priestly Garments]] and
 [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]].
+
+**Numbers 1 has two orders in one chapter.** The name list (5–15) puts Gad eleventh. The census
+(20–43) moves him to third behind Simeon, where he stands in the camp at 2:10–14. *Corrected
+2026-10-30: this page earlier said Levi was excluded because it has no land and no army; Numbers 1
+gives tabernacle service as the reason.* See [[The Census in the Wilderness of Sinai]].

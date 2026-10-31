@@ -85,6 +85,10 @@ that he did not number those under twenty *"because Yahweh had said he would inc
 stars of the sky."* The tension is deliberate: a people defined by an uncountable promise keeps
 being tempted to find out how many it has.
 
+That last sentence needs a limit. The first count in Numbers is not a temptation: Yahweh commands it
+(1:1–3), and the figure is reported without blame. See [[The Census in the Wilderness of Sinai]] and
+[[David's Count and Moses' Count - Numbers 1, 2 Samuel 24, and 1 Chronicles 21]].
+
 Deuteronomy 1:10 and 10:22 declare the promise kept — *"Yahweh your God has multiplied you, and
 behold, you are today as the stars of the sky for multitude"*, with 10:22 pointing out that seventy
 people went down into Egypt. 1 Kings 4:20 uses the sand image for Solomon's Israel. And Hebrews 11:12

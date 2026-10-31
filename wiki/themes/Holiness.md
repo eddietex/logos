@@ -537,6 +537,12 @@ The most holy meal offering is eaten in a holy place by Aaron and his sons; the 
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The census — Numbers 1:1–54
+
+The nearest sanctuary is not safe. *The stranger who comes near shall be put to death* (51), and the Levites camp around it *that there may be no wrath on the congregation* (53). Holiness here sets the layout of the camp.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -681,6 +687,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Two Feasts]] — Proverbs 9:10; *"The knowledge of the Holy One is understanding"*: *daʿaṯ qədōšîm*, a plural
   noun read as a plural of majesty for God, as at 30:3 (Hebrew from Sefaria's *Miqra according to the
   Masorah*); holiness as the object of knowledge, paired with the fear of Yahweh.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levite cordon and the stranger who comes near.
 
 ## Related themes
 

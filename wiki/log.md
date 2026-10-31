@@ -20628,3 +20628,31 @@ Hebrew and lemma counts from WLC (Open Scriptures morphhb). Later WEB quotations
 bible-api.com. The sense of *pālāʾ* and the labor reading of the table are qualified on the page as
 unchecked. Counts: 271 passages, 198 people, 104 places, 85 themes, 585 connections. Next: no book
 is `in-progress` and the priority list is complete, so the next run opens [[Numbers]].
+
+## [2026-10-30] ingest | Numbers 1.1-54 — The Census in the Wilderness of Sinai
+
+Opened [[Numbers]] (no book in progress, priority list complete) and fetched its WEB text. Drew a
+54-pericope plan on the book page. Created [[The Census in the Wilderness of Sinai]]; the group page
+[[The Twelve Tribal Princes]]; the theme [[The Wilderness]]; and
+[[Six Hundred Three Thousand Five Hundred Fifty - Exodus 38.26 and Numbers 1.46]],
+[[David's Count and Moses' Count - Numbers 1, 2 Samuel 24, and 1 Chronicles 21]], and
+[[The Stranger Who Comes Near - Numbers 1.51, 3.10, 18.7, and Leviticus 10]]. Revised nineteen
+people and [[Nahshon]]'s ahead-notes; [[Horeb]], [[Egypt]]; nine themes; seven connections; five Exodus and
+Leviticus passages; and the books, people, places, themes, connections, and top indexes.
+
+Corrections, stated on the pages: [[The Twelve Sons and the Lists That Reorder Them]] said Levi was
+left out because it has no land and no army, and [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
+said the same of land. Numbers 1:50 gives tabernacle service as the reason. The closing sentence of
+the counted-and-uncounted section of [[Dust, Stars, and Sand - The Offspring Promises]] is now limited,
+because the first count is commanded.
+
+Judgment calls: one unit for the chapter, with 47–54 kept inside it. A group page for the twelve men
+rather than twenty-four minor pages; Eliab will need *(son of Helon)* if another Eliab gets a page.
+A new theme for the book's setting. Tensions flagged, not resolved: Exodus 38:26's total against the
+second-month date; no ransom at Numbers 1 against Exodus 30:12; Deuel and Reuel; counted against
+uncountable; and the size of the figures, where the wiki still adopts none of the three answers.
+
+Hebrew and lemma counts from WLC (Open Scriptures morphhb). Later WEB quotations verified at
+bible-api.com. The explanation of Deuel and Reuel, the meanings of the princes' names, and the book
+titles are qualified on the page as unchecked. Counts: 272 passages, 199 people, 104 places, 86 themes,
+588 connections. Next: The Camp Around the Tent, Numbers 2:1–34.

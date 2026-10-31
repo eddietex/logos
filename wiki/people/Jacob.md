@@ -610,6 +610,12 @@ each tribe a particular gemstone would go beyond the making account.
 
 See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local raw WEB, 2026-10-25.
 
+### The census — Numbers 1:1–54
+
+He is named once, as *Israel*, in *Israel's firstborn* (20). The seventy of Exodus 1:5 are now 603,550 men of fighting age.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Exodus 33 — recalled as a recipient of the land oath (33:1), not personally present.
@@ -760,6 +766,7 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - Exodus 32 — Named Israel in the appeal to the oath to the fathers (32:13). [[The Golden Calf]]
 
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, first in a reversed list (26:42). [[Covenant Warnings and Remembered Promises]]
+- Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -980,6 +987,7 @@ See [[The Priestly Garments Made]]. Source: cited Exodus verses checked in local
 - [[Israel at Mount Sinai]] — Exodus 19:3; ancestral name of the people, not a personal appearance
 - [[The Priestly Garments]] — Exodus 28:9–12, 21, 29; unnamed, but his sons' names are engraved on the ephod's onyx stones *"in the order of their birth"* and on the twelve breastplate stones.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Ancestral context for Israel’s twelve names; no personal appearance.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; named as Israel; his descendants mustered.
 
 ## Related people
 

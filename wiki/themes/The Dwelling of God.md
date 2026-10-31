@@ -384,6 +384,12 @@ The sanctuary's spaces govern the meal: most holy grain beside the altar in a ho
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The census — Numbers 1:1–54
+
+The tabernacle is now mobile: the Levites take it down, carry it, and set it up (50–51). The tribes camp by their standards and the Levites camp around it (52–53). The chapter gives the dwelling a center in a moving camp.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -476,6 +482,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Work Completed]] — Exodus 39:32–43; An approved sanctuary is ready before erection and filling.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The completed sanctuary is filled, and its cloud accompanies the travelling people.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the tabernacle carried by the Levites.
 
 ## Related themes
 

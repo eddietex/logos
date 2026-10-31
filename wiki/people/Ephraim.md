@@ -81,6 +81,12 @@ Ephraim's territory; **Jeroboam is an Ephraimite and the kingdom he founds is ca
 Isaiah and Jeremiah more or less interchangeably with *Israel*.** **Hosea 11:8 — *"How can I give you up,
 Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egypt.**
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 40,500, tenth in size, with Elishama son of Ammihud, and stands ahead of Manasseh (10, 33). Genesis 48:19 is in view for a reader; at 26:34, 37 the order of size reverses.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -92,6 +98,7 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
   [[Jacob Blesses Ephraim and Manasseh]]
 - Given the right hand and the greater blessing over Joseph's objection; *"his offspring will become a
   multitude of nations"* — Genesis 48:13–20, [[Jacob Blesses Ephraim and Manasseh]]
+- Numbers 1 — Tribe counted at 40,500, ahead of Manasseh. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -115,6 +122,7 @@ Ephraim?"* — is addressed to the name Joseph coined in a delivery room in Egyp
   generation"* — **the mark of a completed life** (compare Job 42:16; Psalm 128:6), **and the last
   thing Genesis records about him.** The verse counts his descendants and then names
   [[Manasseh]]'s grandson instead
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 40,500, ahead of Manasseh.
 
 ## Related people
 

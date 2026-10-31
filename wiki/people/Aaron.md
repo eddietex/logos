@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The census — Numbers 1:1–54
+
+Aaron is named with Moses as counter (3, 17, 44). No speech or independent act is given, and the tribe of Levi he belongs to is not in the count (47).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Aaron tends the lamps outside the veil from evening to morning (3–4). The weekly
@@ -557,6 +563,7 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 Moses gives Aaron and his surviving sons the remaining meal offering and the breast and thigh (12–15). When the people's goat is found burned, Aaron answers for Eleazar and Ithamar: after what has happened to him, would eating it have pleased Yahweh? Moses accepts the answer (19–20). The text does not say who decided on the burning or why.
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+- Numbers 1 — Counts with Moses. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -681,6 +688,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Work Completed]] — Exodus 39:32–43; Named as priest in the delivered garment inventory.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; His consecration is commanded; he washes at the basin with Moses and his sons.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; counts with Moses.
 
 ## Related people
 

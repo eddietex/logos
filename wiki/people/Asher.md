@@ -51,6 +51,12 @@ inhabitants and lived among them**, and Deborah's song reproaches it for staying
 the temple when the infant Jesus is brought in (Luke 2:36) — **the only one of the ten northern tribes
 named in the New Testament as a living identity.**
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 41,500, ninth in size, with Pagiel son of Ochran (13, 41).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"the daughters will call me happy"* — Genesis 30:12–13,
@@ -65,6 +71,7 @@ named in the New Testament as a living identity.**
 - Luke 2:36 — Anna the prophetess, *"of the tribe of Asher"*
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Tribe counted at 41,500. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -114,6 +121,7 @@ named in the New Testament as a living identity.**
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); last of the eleven. Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 41,500.
 
 ## Related people
 

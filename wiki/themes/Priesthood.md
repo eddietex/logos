@@ -449,6 +449,12 @@ The surviving priests must eat the most holy meal offering in a holy place and t
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The census — Numbers 1:1–54
+
+The Levites are not counted with the fighters (47–49). They are appointed to the tabernacle (50), and Aaron is not called a priest in this unit. The difference between Levite and priest is drawn in chapters 3–4.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -597,6 +603,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Work Completed]] — Exodus 39:32–43; Priestly clothing is delivered without a dressing or ordination rite.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Consecration is commanded and washing reported; the full ordination rite is not retold.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the Levites set apart from the army.
 
 ## Related themes
 

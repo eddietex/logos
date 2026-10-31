@@ -62,6 +62,12 @@ Naphtali** (Judges 4:6), and Deborah's song singles the tribe out for risking it
 Matthew 4:13–16 quotes that verse over Capernaum, making Naphtali's territory the region Jesus'
 ministry begins in.**
 
+### The census — Numbers 1:1–54
+
+His tribe closes the register with 53,400, sixth in size, with Ahira son of Enan (15, 43).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"I have wrestled with my sister… and have prevailed"* —
@@ -76,6 +82,7 @@ ministry begins in.**
   over Galilee
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Tribe counted at 53,400. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -124,6 +131,7 @@ ministry begins in.**
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); Bilhah's second. Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 53,400.
 
 ## Related people
 

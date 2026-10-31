@@ -9,8 +9,9 @@ tags: [connection]
 
 - **Exodus 6:23** — *"Aaron took Elisheba, the daughter of Amminadab, the sister of Nahshon, as his
   wife"* — [[The Heads of the Fathers' Houses]]
-- **Numbers 1:7; 2:3; 7:12; 10:14** — Nahshon son of Amminadab, head of Judah in the census, the
-  camp, the dedication offerings, and the march (by reference; Hebrew checked, not yet ingested)
+- **Numbers 1:7; 2:3; 7:12; 10:14** — Nahshon son of Amminadab, head of Judah in the census
+  ([[The Census in the Wilderness of Sinai]]), the camp, the dedication offerings, and the march (later
+  chapters by reference; Hebrew checked, not yet ingested)
 - **Ruth 4:19–20; 1 Chronicles 2:10–11** — Amminadab and Nahshon in the line from Perez to David
   (by reference; not yet ingested) —
   [[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]]

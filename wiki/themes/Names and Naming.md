@@ -162,6 +162,12 @@ without asserting an etymology, a hometown, or a historical identification.
 
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
+### The census — Numbers 1:1–54
+
+The count is *according to the number of the names* (2, 18, 20). Twelve men are named with their fathers (5–15). The list is a muster of names, not only of figures.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
@@ -327,6 +333,7 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 - [[A Good Name]] — Proverbs 22:1; A good name above riches.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; shulammite without a biography.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; a count by name.
 
 ## Related themes
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The census — Numbers 1:1–54
+
+Numbers opens *in the wilderness of Sinai* (1, 19), with the camp still below the mountain and the Tent of Meeting as the place of speech. The army is counted here, and the march begins at 10:11–12.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Leviticus ends on this place. Its last words are *bəhar sînāy*, *on Mount Sinai* (27:34), as 26:46
@@ -725,6 +731,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Work Completed]] — Exodus 39:32–43; The continuing Sinai camp; no new geographical location named.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The continuing Sinai setting; no new camp named.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the wilderness of Sinai, where the census is taken.
 
 ## Related places
 

@@ -165,6 +165,7 @@ guiding a people who have not yet reached the promised land.
   and the distinct obstacle of the filling cloud.
 - [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] — Genesis 2:1–3;
   Exodus 39:32–43; 40:33; completion at different stages.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1; one month later, the first speech of Numbers.
 
 ## Notes
 

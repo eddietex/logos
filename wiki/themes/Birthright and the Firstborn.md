@@ -87,6 +87,12 @@ A wise servant *"shall have a part in the inheritance among the brothers"*, disp
 
 See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
 
+### The census — Numbers 1:1–54
+
+Reuben is listed first and called *Israel's firstborn* (20), though Genesis 49:4 said he would not excel. Joseph's double place stands, as two tribes (10, 32–35). Title and portion remain separated.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -235,6 +241,7 @@ See [[A Dry Morsel with Quietness]]. Source: stored WEB Proverbs 17.
   of my sons I redeem"* (13:15). See [[Child Sacrifice and the Redemption of the Firstborn]] and
   [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]
 - [[Laws of Holiness and Compassion]] — Exodus 22:29–30; the firstborn given, with no redemption clause
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; Reuben's title and Joseph's two tribes in the register.
 
 ## Related themes
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The dates of Numbers — Numbers 1:1
+
+The first date in Numbers is reckoned from leaving Egypt: *in the second year after they had come out of the land of Egypt* (1). The place remains the book's reference point.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The exodus is cited at the last, *in the sight of the nations* (45), as the ground of remembering a
@@ -427,6 +433,7 @@ renewal. Nothing in the unit returns Moses or Israel to Egypt. See [[The Covenan
 - [[The Ordination of the Priests]] — Exodus 29:46; *"who brought them out of the land of Egypt, that I might dwell among them"*
 - [[The Young Man Void of Understanding]] — Proverbs 7:16; *"striped cloths of the yarn of Egypt"*
   (*ʾēṭûn miṣrāyim*), Egyptian linen as an imported luxury on the strange woman's couch
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the date is reckoned from the exodus.
 
 ## Related places
 

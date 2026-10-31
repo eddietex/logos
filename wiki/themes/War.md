@@ -201,6 +201,12 @@ is narrated; the image does not make the beloved an enemy.
 See [[My Dove Is Unique]]. Source: stored WEB Song of Solomon 6:4–10; comparisons use the stored WEB
 Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
+### The census — Numbers 1:1–54
+
+Numbers opens with a muster. *All who are able to go out to war* (3) translates *kol-yōṣēʾ ṣābāʾ*, and *ṣābāʾ* occurs sixteen times in the chapter (WLC). Exodus 12:41 already called Israel *Yahweh's armies*. This is the first time the armies are counted by tribe, and the one tribe left out guards the sanctuary.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -293,6 +299,7 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; God's terror, confusion, and hornet; a conquest *"little by little"*.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:5–6; War waged by wise guidance; victory in many advisors.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; awesome as an army with banners.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the muster of those able to go out to war.
 
 ## Related themes
 

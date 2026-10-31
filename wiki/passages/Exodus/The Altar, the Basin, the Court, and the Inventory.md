@@ -144,6 +144,7 @@ WEB text, Exodus 38:1–31, copied from the stored source.
 - [[The Freewill Offering]] and [[Bezalel's Workmen and the Surplus]] — contributions, skills, and the stopping of collection.
 - [[Called to Make the Sanctuary - Exodus 31 and Exodus 35-38]] — appointment becomes credited work.
 - [[The Half Shekel - Census, Ransom, and the Temple Tax]] — census silver accounted for.
+- [[Six Hundred Three Thousand Five Hundred Fifty - Exodus 38.26 and Numbers 1.46]] and [[The Census in the Wilderness of Sinai]] — the same total, in the next book.
 - [[The Basin Made and Used - Exodus 30, 38, and 40]] — prescription, mirror source, and washing kept distinct.
 - [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]] — differing altar provisions retained.
 - [[After Their Pattern - Exodus 25.40 in Acts 7 and Hebrews 8]] and

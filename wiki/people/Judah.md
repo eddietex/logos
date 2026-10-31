@@ -255,6 +255,12 @@ name locates the craftsman’s ancestry, alongside Oholiab’s identification wi
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The census — Numbers 1:1–54
+
+The largest tribe, 74,600, with [[Nahshon]] as its man (7, 27). The text does not connect the number to Genesis 49:8–10.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -284,6 +290,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - Matthew 1:2–3; Luke 3:33; Hebrews 7:14; Revelation 5:5 — the tribe in the New Testament
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Largest tribe, 74,600. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -358,6 +365,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); fourth among Leah's six. Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; largest tribe, 74,600.
 
 ## Related people
 

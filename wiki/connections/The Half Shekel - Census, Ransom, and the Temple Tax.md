@@ -15,7 +15,7 @@ tags: [connection]
 - **Exodus 38:25–28** — *"a beka a head, that is, half a shekel"* from 603,550 men; the silver cast
   into the sockets of the sanctuary and the veil, and the hooks and fillets of the pillars ([[The Altar, the Basin, the Court, and the Inventory]])
 - **Numbers 1:2–3** — *"Take a census of all the congregation … from twenty years old and upward,
-  all who are able to go out to war in Israel"*
+  all who are able to go out to war in Israel"* ([[The Census in the Wilderness of Sinai]])
 - **2 Samuel 24:1–2, 10, 15** — David orders Joab to *"count the people, that I may know the sum of
   the people"*; afterwards *"David's heart struck him"*, and *"Yahweh sent a pestilence on
   Israel"*
@@ -64,6 +64,13 @@ retained.
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### The census — Numbers 1
+
+Numbers 1 commands a count and names no half shekel, no ransom, and no plague. It reaches the same
+603,550, and it is dated a month after the point where Exodus places the silver account. See
+[[The Census in the Wilderness of Sinai]] and
+[[Six Hundred Three Thousand Five Hundred Fifty - Exodus 38.26 and Numbers 1.46]].
 
 ## Significance
 

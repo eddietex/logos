@@ -82,6 +82,12 @@ both brothers into the blessing Israel says over its sons**, in the order the ch
 place, **which is how the double portion of the firstborn reaches him** (1 Chronicles 5:1–2). See
 [[The Twelve Sons and the Lists That Reorder Them]].
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 32,200, the smallest, with Gamaliel son of Pedahzur (10, 35). At the second census it is 52,700 (26:34).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -94,6 +100,7 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - Passed over for the right hand; *"his younger brother will be greater than he"*, and *"he also will
   become a people, and he also will be great"* — Genesis 48:13–20,
   [[Jacob Blesses Ephraim and Manasseh]]
+- Numbers 1 — Smallest tribe, 32,200. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -116,6 +123,7 @@ place, **which is how the double portion of the firstborn reaches him** (1 Chron
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:23; **named once, as [[Machir]]'s father**, in the
   verse that gives [[Joseph]] his third generation. **The line Genesis follows to the very end is
   his, not [[Ephraim]]'s** — the demoted brother supplies the book's last name
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; smallest tribe, 32,200.
 
 ## Related people
 

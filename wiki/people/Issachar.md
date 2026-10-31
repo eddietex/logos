@@ -62,6 +62,12 @@ The tribe's one moment of standing is 1 Chronicles 12:32: *"of the children of I
 understanding of the times, to know what Israel ought to do"* — **the verse that made the name a
 byword for discernment**, and it has no narrative attached to it anywhere.
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 54,400, fifth in size, with Nethanel son of Zuar (8, 29).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Leah]] after *"God listened to Leah"*; *"God has given me my hire"* — Genesis 30:17–18,
@@ -76,6 +82,7 @@ byword for discernment**, and it has no narrative attached to it anywhere.
   times"*
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Tribe counted at 54,400. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -122,6 +129,7 @@ byword for discernment**, and it has no narrative attached to it anywhere.
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); fifth of Leah's sons — and the bondage's *śārê missîm*, *taskmasters* (1:11), is the *mas* of his own blessing (Genesis 49:15). Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 54,400.
 
 ## Related people
 

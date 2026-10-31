@@ -70,6 +70,12 @@ territory (Joshua 19:1, 9), it is the smallest tribe by the second census (Numbe
 missing from Moses' blessing in Deuteronomy 33 altogether** — **the only son of Jacob with no saying
 there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 59,300, third in size, with Shelumiel son of Zurishaddai (6, 23). By the second census it is 22,200 (26:14).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her second son; *"Yahweh has heard that I am hated"* — Genesis 29:33,
@@ -90,6 +96,7 @@ there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deute
   [[The Oppression in Egypt]]
 - Second in the genealogy of Moses and Aaron, with his six sons — Exodus 6:15,
   [[The Heads of the Fathers' Houses]]
+- Numbers 1 — Tribe counted at 59,300. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -156,6 +163,7 @@ there.** See [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deute
 - [[The Heads of the Fathers' Houses]] — Exodus 6:15; **one verse, copied from Genesis 46:10**, Canaanite mother and
   all, and closed with *"these are the families of Simeon"*. **The list passes on to Levi**, the
   brother he was cursed with
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 59,300.
 
 ## Related people
 

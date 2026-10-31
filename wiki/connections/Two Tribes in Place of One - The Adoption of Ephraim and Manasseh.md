@@ -14,7 +14,7 @@ tags: [connection]
 - **1 Chronicles 5:1–2** — ***"his birthright was given to the sons of Joseph"***, with the reason
   stated
 - **Numbers 1:10, 32–35; 2:18–21** — the census and the camp: **Ephraim and Manasseh counted as
-  separate tribes, [[Levi]] not numbered**
+  separate tribes, [[Levi]] not numbered** ([[The Census in the Wilderness of Sinai]])
 - **Numbers 26:28–37** — the second census, *"the sons of Joseph after their families: Manasseh and
   Ephraim"*
 - **Joshua 14:3–4** — ***"the children of Joseph were two tribes, Manasseh and Ephraim"***, and *"they
@@ -45,9 +45,10 @@ solves it the same way every time except the last.**
 | **Ezekiel 48** | the same, and *"Joseph shall have two portions"* stated outright (47:13) |
 | **Revelation 7:5–8** | **Joseph and Manasseh named; Ephraim and Dan omitted** |
 
-**Levi comes out because Levi is given no land** (Numbers 18:20; Joshua 13:14, 33) — **so wherever the
+**Levi is given no land** (Numbers 18:20; Joshua 13:14, 33) — **so wherever the
 twelve are counted as territories, the priestly tribe cannot be one of them, and Genesis 48:5 has
-already supplied the replacement.** **The adoption and the Levitical landlessness are two halves of one
+already supplied the replacement.** The census itself gives a different reason: Numbers 1:50 excludes
+Levi for tabernacle service ([[The Census in the Wilderness of Sinai]]). **The adoption and the Levitical landlessness are two halves of one
 arithmetic**, and neither book mentions the other. See
 [[The Twelve Sons and the Lists That Reorder Them]] and
 [[The Priests Who Kept Their Land and the Levites Who Got None]].

@@ -96,6 +96,12 @@ exterminated at Gibeah (Judges 19–21), a story told in the vocabulary of Sodom
 and, a thousand years later, *"of the tribe of Benjamin, a Hebrew of Hebrews"* (Philippians 3:5) —
 Paul, who carries Saul's name.
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 35,400, eleventh in size, with Abidan son of Gideoni (11, 37).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born on the road to Ephrath; [[Rachel]] dies in the labour — Genesis 35:16–19,
@@ -119,6 +125,7 @@ Paul, who carries Saul's name.
 - Blessed as a ravenous wolf; the poem's last word — Genesis 49:27, [[Jacob Blesses His Sons]]
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Tribe counted at 35,400. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -187,6 +194,7 @@ Paul, who carries Saul's name.
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); **Rachel's only son on the list**, since Joseph did not *come* — he *"was in Egypt already"* (1:5). Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 35,400.
 
 ## Related people
 

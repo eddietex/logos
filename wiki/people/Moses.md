@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The census — Numbers 1:1–54
+
+Moses receives the order and counts Israel with Aaron and twelve tribal men (1–4, 17–19, 44). He is the subject of *so he counted them* (19). Nothing he says is recorded.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Moses receives the last speech of the book, with no response recorded. The closing colophon names
@@ -1042,6 +1048,7 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 Moses directs the surviving priests to eat their portions, then inquires about the people's goat and is angry that it was burned rather than eaten, citing his command (16–18; compare 6:26–30). Aaron's answer is pleasing in Moses' sight (20). No word from Yahweh on the case is reported; the record is of Moses' acceptance.
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+- Numbers 1 — Counts the tribes; appoints the Levites. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -1258,6 +1265,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Work Completed]] — Exodus 39:32–43; Receives, inspects, and blesses the finished work’s makers.
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Raises and equips the sanctuary, performs service, and then cannot enter the filled tent.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; counts the tribes; appoints the Levites.
 
 ## Related people
 

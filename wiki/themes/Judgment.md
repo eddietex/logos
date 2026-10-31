@@ -603,6 +603,12 @@ Divine fire strikes the uncommanded offering’s ministers (1–2); the survivin
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### The census — Numbers 1:1–54
+
+*That there may be no wrath on the congregation* (53). The arrangement of the camp is preventive: the Levites keep judgment from falling on the people as a whole.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -930,6 +936,7 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 - [[Thirty Excellent Things]] — Proverbs 22:22–23; The needy crushed in court; the plunderers plundered.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12; The weigher of hearts judges the bystander who claims not to have known.
 - [[The Field of the Sluggard]] — Proverbs 24:23–25; Partiality in judgment cursed by the peoples; those who convict the guilty blessed.
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; wrath prevented by the Levites' guard.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

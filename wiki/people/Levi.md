@@ -104,6 +104,12 @@ around their cities may not be sold (32–34). **This qualifies the *no land of 
 this page**: no tribal territory is one thing, no holdings another. Verse 33 calls the houses *"their
 possession"*. See [[Redemption of Land and Houses]]. Source: stored WEB Leviticus 25.
 
+### The census — Numbers 1:1–54
+
+The one tribe not counted (47, 49). The reason given is service, not landlessness: the Levites are appointed over the tabernacle, carry it, and camp around it (50–53).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -125,6 +131,7 @@ possession"*. See [[Redemption of Land and Houses]]. Source: stored WEB Leviticu
   [[The Heads of the Fathers' Houses]]
 
 - Exodus 32 — His descendants answer Moses, kill in the camp, and are called to consecrate themselves (32:26–29). [[The Golden Calf]]
+- Numbers 1 — Tribe left out of the census and appointed to the tabernacle. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -188,6 +195,7 @@ possession"*. See [[Redemption of Land and Houses]]. Source: stored WEB Leviticu
   [[Jochebed]] is Levi's own daughter, born in Egypt
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16–25; **the tribe the genealogy is for.** Ten verses where Reuben
   and Simeon get one; *tôlədôt*; 137 years; and the line to Aaron and Phinehas
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe left out of the census and appointed to the tabernacle.
 
 ## Related people
 

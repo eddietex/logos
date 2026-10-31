@@ -89,3 +89,7 @@ reversal of fortune in a prison, which is exactly the genre of Genesis 40. **The
 and claims no literary dependence.** What it does claim is narrower and checkable: **the first Israelite
 carried into a foreign country and the last king carried out of the land are both described with these
 three words**, and in both places the phrase means a prisoner brought back to a table.
+
+**Numbers 1:49–50 turns the idiom.** Moses is told not to lift the head of Levi, and the next verse
+says the Levites shall lift the tabernacle (*yiśʾû*, the same verb, WLC). The census idiom is used
+to excuse a tribe and then given back to it as a job. See [[The Census in the Wilderness of Sinai]].

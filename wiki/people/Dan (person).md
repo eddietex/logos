@@ -98,6 +98,12 @@ a notice about the later tribe, not an action of the patriarch or a reference to
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The census — Numbers 1:1–54
+
+His tribe numbers 62,700, second in size, with Ahiezer son of Ammishaddai (12, 39).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -113,6 +119,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - 1 Kings 12:29–30 — Jeroboam's calf at Dan; Revelation 7:5–8 — the tribe omitted
 - Named among the sons who came into Egypt; dies with all that generation — Exodus 1:2–6,
   [[The Oppression in Egypt]]
+- Numbers 1 — Second-largest tribe, 62,700. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -174,6 +181,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[The Oppression in Egypt]] — Exodus 1:2–4; one of the eleven *"who came into Egypt"* with Jacob, listed in
   their mothers' order (Genesis 35:23–26's, not 46's); first of Bilhah's two, after Rachel's. Dead, with *"all that
   generation"*, by 1:6
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; second-largest tribe, 62,700.
 
 ## Related people
 

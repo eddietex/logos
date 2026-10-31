@@ -311,6 +311,12 @@ had let the people go"*, and beside the stage from Succoth to Etham (13:20)** �
 night of 12:29–42. The earlier sentence is kept as written and this note corrects its timing. See
 [[The Crossing of the Sea]] and [[Carry Up My Bones - Joseph's Oath and Its Keeping]].
 
+### The census — Numbers 1:1–54
+
+*The children of Joseph* appear twice, as [[Ephraim]] and [[Manasseh]] (10, 32–35), the arrangement of Genesis 48:5. He is not counted as a single tribe.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to [[Rachel]] after *"God remembered Rachel"*; *"may Yahweh add another son to me"* — Genesis
@@ -409,6 +415,7 @@ night of 12:29–42. The earlier sentence is kept as written and this note corre
 - *"In Egypt already"*; dies, with all his brothers and all that generation; a new king arises
   *"who didn't know Joseph"* — Exodus 1:5–8, [[The Oppression in Egypt]]
 - His bones taken up by Moses on the march out — *"with you"* — Exodus 13:19, [[The Crossing of the Sea]]
+- Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -577,6 +584,7 @@ night of 12:29–42. The earlier sentence is kept as written and this note corre
   beside his story.** Beauty (*yopyāh*; Joseph *yəp̄ēh-ṯōʾar*, Genesis 39:6), the woman's eyes, *"his neighbor's wife"*, and
   the man whose clothes burn with the fire he holds — where Joseph let his garment go. See
   [[Fire in the Lap and the Garment Left Behind - Proverbs 6.27-29 and Genesis 39]]
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; counted through two tribes.
 
 ## Related people
 

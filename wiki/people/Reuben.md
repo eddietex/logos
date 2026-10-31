@@ -124,6 +124,12 @@ words: *"Let Reuben live, and not die"*** (Deuteronomy 33:6) — **the barest sa
 the counterpart to the barest in this one. See
 [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]].
 
+### The census — Numbers 1:1–54
+
+His tribe heads the census, 46,500, seventh in size. The register calls him *Israel's firstborn* (20), the title kept even after Genesis 49:4. Elizur son of Shedeur stands for the tribe (5).
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Timeline / key events
 
 - Born to Leah, the firstborn of the twelve; *"see, a son"* — Genesis 29:32,
@@ -148,6 +154,7 @@ the counterpart to the barest in this one. See
   [[The Oppression in Egypt]]
 - Heads the genealogy of Moses and Aaron as *"the firstborn of Israel"*, with his four sons —
   Exodus 6:14, [[The Heads of the Fathers' Houses]]
+- Numbers 1 — Tribe listed first as *Israel's firstborn*. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
 
@@ -223,6 +230,7 @@ the counterpart to the barest in this one. See
   *"Reuben the firstborn of Israel"*, *bəkōr yiśrāʾēl* — Genesis 46:8 had *"Jacob's firstborn"*, and
   4:22 has just called Israel God's firstborn. His four sons are Genesis 46:9's, now *"the families of
   Reuben"*. **The list does not mention the lost birthright**, and moves past him in a verse
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe listed first as *Israel's firstborn*.
 
 ## Related people
 

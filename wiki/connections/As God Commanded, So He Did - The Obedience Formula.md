@@ -225,6 +225,10 @@ These English observations do not claim an independently verified Hebrew formula
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 9–10.
 
+### The census — Numbers 1:19, 54
+
+Numbers opens with the formula twice: *As Yahweh commanded Moses, so he counted them* (19) and
+*According to all that Yahweh commanded Moses, so they did* (54). See [[The Census in the Wilderness of Sinai]].
 
 ## Significance
 

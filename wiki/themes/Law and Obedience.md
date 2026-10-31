@@ -810,6 +810,12 @@ Moses rebukes the burning of the goat as contrary to what he commanded (18). Aar
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
+### The census — Numbers 1:1–54
+
+The chapter closes on the formula: *According to all that Yahweh commanded Moses, so they did* (54; see also 19). The first act of the book is a compliance report.
+
+See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1005,6 +1011,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
   heart, walking, sleeping, and waking with the son, a lamp and a light
 - [[The Young Man Void of Understanding]] — Proverbs 7:1–3, 5; the commandments kept, bound on the fingers, written on
   the heart
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; census and exemption carried out as commanded.
 
 ## Related themes
 
