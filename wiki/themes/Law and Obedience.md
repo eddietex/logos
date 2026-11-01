@@ -852,6 +852,12 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### As Yahweh commanded — Numbers 8:3, 20, 22
+
+The chapter reports obedience at each step. Aaron *did so* (3), and verses 20 and 22 say twice that what Yahweh commanded concerning the Levites was done.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1054,6 +1060,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:4; the command carried out.
 - [[The Suspected Wife]] — Numbers 5:29–30; *the law of jealousy*.
 - [[The Nazirite Vow]] — Numbers 6:13, 21; a chosen law, exactly binding.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:3, 20, 22; each command carried out.
 
 ## Related themes
 

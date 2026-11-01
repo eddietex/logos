@@ -111,6 +111,12 @@ The firstborn are counted one by one, *the number of their names* (40, 43), and 
 
 See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 
+### The claim repeated — Numbers 8:16–18
+
+The claim of 3:11–13 is repeated at the cleansing almost word for word, now with *wholly given to me*. It is the ground of the rite, stated in the middle of it.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -263,6 +269,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; Judah ahead of Reuben, Ephraim ahead of Manasseh.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; Nadab, and the Levites taken instead.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted and exchanged.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:16–18; the claim repeated as the ground of the cleansing.
 
 ## Related themes
 

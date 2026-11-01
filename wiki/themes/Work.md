@@ -682,6 +682,12 @@ The wagons are given out *to every man according to his service* (5), and the me
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### A term of service — Numbers 8:23–26
+
+The Levite law gives work a start and an end: twenty-five to fifty. After that a man leaves the *service* but may help his brothers and keep the *charge*. It is the only such limit the wiki has read so far.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each house and its charge.
@@ -939,6 +945,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; the hands of a skillful workman.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:23–26; a working life with an age limit.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -422,6 +422,12 @@ The defilement needs no act, since someone *dies very suddenly beside him* (9). 
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### Cleansing the clean — Numbers 8:5–22
+
+The Levites are cleansed although no impurity is named. The rite uses water, a razor, washed clothes, and a sin offering, and *ṭāhēr* is its leading word (6, 7, 15, 21). So cleansing here prepares men for the Tent and does not answer a stated defilement. The whole-body shaving matches [[The Cleansing of the Leper]].
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -545,6 +551,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–4; the unclean sent out, and the reason given.
 - [[The Suspected Wife]] — Numbers 5:11–31; defilement that cannot be seen, and the word *clean* as vindication.
 - [[The Nazirite Vow]] — Numbers 6:6–12; uncleanness that undoes a vow.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:5–22; cleansing as readiness for the Tent.
 
 ## Related themes
 

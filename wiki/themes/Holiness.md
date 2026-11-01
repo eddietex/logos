@@ -591,6 +591,12 @@ Moses anoints and sanctifies the tabernacle and altar (1). The most holy load ge
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The danger of nearness — Numbers 8:19
+
+The chapter's last reason for the Levites is that Israel coming near the sanctuary could bring a plague. The word *sanctify* is kept for the firstborn (17), and the Levites are *cleansed*.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -744,6 +750,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Suspected Wife]] — Numbers 5:17; holy water, and dust from the sanctuary floor.
 - [[The Nazirite Vow]] — Numbers 6:5, 8; a lay person holy to Yahweh for a term.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 9; anointing, and the shoulder.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:17, 19; the firstborn sanctified, and the risk of coming near.
 
 ## Related themes
 

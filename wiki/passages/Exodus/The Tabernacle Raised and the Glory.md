@@ -168,6 +168,7 @@ guiding a people who have not yet reached the promised land.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1; one month later, the first speech of Numbers.
 - [[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]]
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the same day, and Moses inside the Tent
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:3; Aaron lights what Moses lit at 40:25
 
 ## Notes
 

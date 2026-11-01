@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:3, 23, 30, 47; from thirty to fifty
-- Numbers 8:24–26 — from twenty-five, retiring at fifty *(not yet ingested; stored WEB)*
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:24–26; from twenty-five, retiring at fifty
 - 1 Chronicles 23:3, 24, 26–27 — thirty, then twenty *(not yet ingested; WEB verified)*
 - 2 Chronicles 31:17 — from twenty *(not yet ingested; WEB verified)*
 - Ezra 3:8 — from twenty *(not yet ingested; WEB verified)*
@@ -42,6 +42,10 @@ twenty-five, with full service from thirty, a view reported from rabbinic source
 explained by different tasks, heavy carrying in chapter 4 and work at the Tent in chapter 8, since 8:24
 does not mention burdens. Greek witnesses are reported to read twenty-five in chapter 4. None of these
 reports was checked, and the WLC reads *thirty* at 4:3, 23, 30, 35, 39, 43, and 47.
+
+**Numbers 8 uses the same language as Numbers 4.** *Liṣbōʾ ṣābāʾ* (8:24, WLC) is the phrase of 4:23, and both
+concern *ʿăbōdâ* in the Tent of Meeting. That counts against any easy division of the two chapters by
+vocabulary, though it does not rule out a difference in tasks. Numbers 8:24 gives no reason for its age.
 
 ## Significance
 

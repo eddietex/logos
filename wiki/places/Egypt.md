@@ -192,6 +192,12 @@ Egypt is named once, as the land where Yahweh struck down all the firstborn (13)
 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
+### The firstborn again — Numbers 8:17
+
+Egypt is named once, in the repeated claim: Yahweh sanctified Israel's firstborn on the day he struck those *in the land of Egypt*. The Levites' cleansing rests on that night as their giving did at 3:13.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Appears in
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the land of the struck firstborn.
@@ -441,6 +447,7 @@ See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbe
 - [[The Young Man Void of Understanding]] — Proverbs 7:16; *"striped cloths of the yarn of Egypt"*
   (*ʾēṭûn miṣrāyim*), Egyptian linen as an imported luxury on the strange woman's couch
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the date is reckoned from the exodus.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:17; the land of the struck firstborn.
 
 ## Related places
 

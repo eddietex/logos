@@ -19,7 +19,13 @@ tags: [connection]
   [[The Incense Altar, the Ransom, and the Holy Oil]]
   *(stored WEB; ingested)*.
 
+- **Numbers 8:1–4** — Aaron told to light the lamps, and doing it — [[The Lamps and the Levites Cleansed]].
+
 ## Analysis
+
+**The first narrated lighting by Aaron.** Exodus 30:8 said Aaron would light the lamps, and Moses lit them
+at Exodus 40:25. Numbers 8:3 is where Aaron does it. It is a report of a first act, not a change to the
+rule of evening to morning, which it does not mention.
 
 The ingested unit now places the lamp rule beside weekly bread renewal (24:5–9).
 Continual service involves distinct rhythms: nightly tending and Sabbath arrangement.

@@ -12,6 +12,7 @@ tags: [connection]
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:1, 24; the eighth day, and fire on the altar
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1; first day, second month
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 10–11, 84; *on the day*, and twelve days
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; no date, between two units that have one
 - Numbers 9:1–5 — the Passover in the first month *(not yet ingested; stored WEB)*
 
 ## Analysis
@@ -44,6 +45,9 @@ they overlap those seven days and the altar atonement of Exodus 29:37, and run p
 9:24, so some of the princes' animals would have come before the altar's first fire. If the twelve days
 began after the eighth day, they would run to the twentieth, past the Passover of the fourteenth (Numbers
 9:3). No text gives a start, so neither reading can be proved. Twelve consecutive days must also include a Sabbath.
+
+Numbers 8 has no date, so it cannot be placed in the table. The Levites receive wagons at 7:5–9, but they
+do not go in to work until they are cleansed at 8:15 and 22, and neither unit explains how the two relate.
 
 ## Significance
 

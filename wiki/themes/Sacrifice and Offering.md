@@ -610,6 +610,12 @@ One gift, twelve times: grain in silver, incense in gold, and burnt, sin, and pe
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Men as a wave offering — Numbers 8:10–21
+
+Israel lays hands on the Levites and Aaron offers them as a *tənûpâ*, the only place the tags use the word for people. The Levites then lay hands on two bulls. Those who are offered live, and the animals die. See [[The Levites as a Wave Offering - Tenufah from the Breast to the Tribe]].
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -838,6 +844,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Suspected Wife]] — Numbers 5:11–31; barley meal, no oil, no frankincense, and no atonement stated.
 - [[The Nazirite Vow]] — Numbers 6:9–20; offerings for a broken and for a finished vow.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:10–88; twelve equal gifts for the altar.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:10–21; a tribe presented as a wave offering.
 
 ## Related themes
 

@@ -40,6 +40,8 @@ speak: three lines, each naming Yahweh, by which they put his name on Israel and
 [[The Offerings of the Twelve Princes]] (7:1–89) then steps back to the day the tabernacle was finished: six
 wagons for the Levites, twelve identical gifts over twelve days in camp order, and Moses hearing the voice
 from between the cherubim.
+[[The Lamps and the Levites Cleansed]] (8:1–26) has Aaron light the lamps, then has the Levites shaved,
+cleansed, and offered as a wave offering for Israel, to serve from twenty-five to fifty.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -72,7 +74,7 @@ merge, or reorder them freely.
 - [x] [[The Nazirite Vow]] — Numbers 6:1–21
 - [x] [[Yahweh Bless You and Keep You]] — Numbers 6:22–27
 - [x] [[The Offerings of the Twelve Princes]] — Numbers 7:1–89
-- [ ] The Lamps and the Levites Cleansed — Numbers 8:1–26
+- [x] [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26
 - [ ] The Passover in the Second Year — Numbers 9:1–14
 - [ ] The Cloud over the Tabernacle — Numbers 9:15–23
 - [ ] The Two Silver Trumpets — Numbers 10:1–10
@@ -132,6 +134,9 @@ merge, or reorder them freely.
 - [[Marriage]] — the law of jealousy
 - [[Curse]] — the oath of cursing, written and drunk
 - [[Blessing]] — the priests' words, and Yahweh's act
+- [[Atonement]] — made for the Levites, and by them for Israel
+- [[Light and Darkness]] — the seven lamps lit
+- [[Work]] — Levite service with an age limit
 
 ## Key people
 

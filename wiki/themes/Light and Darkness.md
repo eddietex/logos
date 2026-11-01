@@ -320,6 +320,12 @@ Song 1:5–6; 4:1–9 and Proverbs 31:28–31 where noted.
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### The lamps in use — Numbers 8:1–4
+
+The lamps are lit by Aaron for the first time in the narrative, and they are to light the area in front of the lampstand. No meaning is given to the light.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
@@ -473,6 +479,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:20; The lamp of the wicked snuffed out.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; morning, moon, and sun.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:25; light as the turned face of Yahweh.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4; Aaron lights the seven lamps.
 
 ## Related themes
 

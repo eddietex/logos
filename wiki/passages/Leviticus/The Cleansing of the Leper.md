@@ -91,6 +91,7 @@ trespass-offering lamb, oil, bodily applications, and priestly atonement.
 - [[Show Yourself to the Priest - Leviticus 14 and Mark 1]] — Jesus sends a healed man to the priest.
 - [[Offerings According to Means - Leviticus 5 and 12]] — a further comparison with the distinct poverty provision in 14:21–32.
 - [[Examining Diseases of the Skin]] and [[Purification After Childbirth]] — different conditions, different remedies.
+- [[A Razor over All Their Flesh - Leviticus 14, Numbers 6, and Numbers 8]]
 
 ## Notes
 

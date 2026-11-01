@@ -452,6 +452,12 @@ The dedication of the altar does not mention him at work. He is named once, as t
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The lamps lit — Numbers 8:1–3, 11, 21
+
+Verse 3 is the first narrated time Aaron lights the lamps, as Exodus 30:8 said he would. Moses had lit them at Exodus 40:25. In the same chapter Aaron offers the Levites as a wave offering and makes atonement for them (11, 21), and they are given to him and his sons (19). Their rite puts them under him: they serve *before Aaron, and before his sons* (22).
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -605,6 +611,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 4:5–20 — Goes in with his sons to wrap the holy things and assign the bearers. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 6:22–27 — Given the words of blessing with his sons. [[Yahweh Bless You and Keep You]]
 - Numbers 7:8 — Named only as Ithamar's father. [[The Offerings of the Twelve Princes]]
+- Numbers 8:1–3, 11, 21 — Lights the lamps, and offers the Levites. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
 
@@ -736,6 +743,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–20; wraps the holy things and assigns the bearers.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23; given the words with his sons.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; named only as Ithamar's father.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:2–3, 11, 21; lights the lamps and offers the Levites.
 
 ## Related people
 

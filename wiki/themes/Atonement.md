@@ -276,6 +276,12 @@ The priest makes atonement *because he sinned by reason of the dead* (11), when 
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### Atonement for the Levites, and by them — Numbers 8:12, 19, 21
+
+Atonement is made *for* the Levites with bulls (12) and by Aaron (21). Then the Levites are given *to make atonement for the children of Israel* (19), a rare use with non-priests as the ones doing it. The verse does not say how; the only result it names is that no plague falls when Israel comes near.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -338,6 +344,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
   incense altar, and the half-shekel ransom as atonement money.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the ram beside the repayment.
 - [[The Nazirite Vow]] — Numbers 6:11; atonement for a death nobody intended.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:12, 19, 21; atonement for the Levites and by them.
 
 ## Related themes
 

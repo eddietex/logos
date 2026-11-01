@@ -167,7 +167,8 @@ suggested that the vine stands for settled life in the land, but the text does n
 wiki does not adopt it.
 
 **Razor.** *Taʿar* (5) passes over the head (*lōʾ yaʿăbōr*). The same word is used for the Levites'
-shaving at Numbers 8:7, the chapter of their cleansing. *Peraʿ*, *locks*, is tagged only here and at
+shaving at Numbers 8:7, the chapter of their cleansing; see
+[[A Razor over All Their Flesh - Leviticus 14, Numbers 6, and Numbers 8]]. *Peraʿ*, *locks*, is tagged only here and at
 Ezekiel 44:20, where priests may neither shave their heads nor let their locks grow long. It looks
 related to the verb *pāraʿ*, *let go loose*, which was used of the suspected wife's head in the law
 just before this one (5:18), although morphhb tags the noun and verb separately. Both laws put the

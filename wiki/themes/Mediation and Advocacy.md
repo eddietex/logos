@@ -356,6 +356,12 @@ Moses alone goes in and hears, at the place Exodus 25:22 promised, and the text 
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### A tribe in between — Numbers 8:19
+
+The Levites are placed between Israel and the sanctuary, and Israel's hands have been on them. The verse's result is protection: *no plague*. Mediation here is the work of a whole tribe, and it is unlike that of Moses or Aaron because no speech or sacrifice by them is named.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -610,6 +616,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The obedient mediator equips the dwelling yet cannot enter when glory fills it.
 - [[Thirty Excellent Things]] — Proverbs 22:23; 23:11; Yahweh pleads the case of the poor and the fatherless.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:89; Moses alone hears the voice.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:19; a tribe set between Israel and the danger.
 
 ## Related themes
 

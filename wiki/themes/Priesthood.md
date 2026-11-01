@@ -509,6 +509,12 @@ The chapter is about an altar and names no priest at work; Aaron and Ithamar app
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Two grades — Numbers 8:5–26
+
+The Levites' rite differs from that of the priests at every point that matters: cleansing for sanctifying, washed clothes for new garments, no oil and no blood on the body. They are *given to Aaron and to his sons* and work *before* them (19, 22). See [[Cleansed, Not Anointed - The Levites of Numbers 8 and the Priests of Leviticus 8]].
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -667,6 +673,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Nazirite Vow]] — Numbers 6:7, 10–11, 16–20; alongside priestly law, and served by the priest.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23, 27; a duty of speech, and a limit on it.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; no priest shown at work; Ithamar directs Merari.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the Levites made ready, and set under the priests.
 
 ## Related themes
 

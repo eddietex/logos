@@ -20871,3 +20871,31 @@ that tagging. WEB of the cross-references named on the new pages verified at bib
 is absent from that WEB text, so it is cited in Hebrew only. Commentary, lexicons, and grammars not consulted;
 Greek of John 10:22 and Hebrews 9:5 not checked. Counts: 281 passages, 201 people, 104 places, 86 themes, 614
 connections. Next: The Lamps and the Levites Cleansed, Numbers 8:1–26.
+
+## [2026-11-01] ingest | Numbers 8.1-26 — The Lamps and the Levites Cleansed
+
+Created [[The Lamps and the Levites Cleansed]] and three connections:
+[[Cleansed, Not Anointed - The Levites of Numbers 8 and the Priests of Leviticus 8]],
+[[The Levites as a Wave Offering - Tenufah from the Breast to the Tribe]], and
+[[A Razor over All Their Flesh - Leviticus 14, Numbers 6, and Numbers 8]]. Revised seven people, eleven
+themes, [[Egypt]], [[Horeb]], eight existing connections, ten passages, and the book, category, and top
+indexes.
+
+Judgment calls: the plan's boundary kept, joining the lamps (1–4) to the Levites (5–26) as one unit, since
+the chapter has one Aaron and three speeches. Gershon, Kohath, and Merari are not updated because the chapter
+names no house. [[Bezalel]] gets an entry for the unnamed subject of verse 4, marked as not named. The Malachi
+3:3 link stays on the contrast page and is marked as a possible allusion only. [[Hands on the Head - The First Blessing by Touch]]
+keeps Numbers 8:10 under appointment, with a note that the offerer's sense fits at least as well.
+
+Tensions flagged, not resolved: an undated unit whose Levites go in to serve only after cleansing, against the
+wagons of 7:5–9; thirty against twenty-five; who waves the Levites, Aaron at 11 and 21 or Moses at 13 and 15;
+whether *mê ḥaṭṭāʾt* is the red heifer water of chapter 19. How the Levites make atonement for Israel (19) is
+marked as unstated. The contrast of *charge* and *service* in verse 26 is recorded with the guard-duty reading
+marked as an unchecked report.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags, so *only* claims
+depend on that tagging. WEB of Numbers, Exodus, and Leviticus from `raw/bible/`; Ezra 6:20, Nehemiah 12:30 and
+13:22, 2 Chronicles 29:34, Malachi 3:3, Isaiah 7:20 and 66:20, Ezekiel 5:1 and 5:5, Romans 12:1 and 15:16, and
+Acts 6:6 and 13:3 verified at bible-api.com. Greek of Romans not checked. Commentary, lexicons, and grammars not
+consulted. Counts: 282 passages, 201 people, 104 places, 86 themes, 617 connections. Next: The Passover in the
+Second Year, Numbers 9:1–14.

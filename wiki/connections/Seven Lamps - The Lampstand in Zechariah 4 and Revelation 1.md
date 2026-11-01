@@ -25,6 +25,7 @@ tags: [connection]
 individually from bible-api.com on 2026-10-23.)
 
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:35; the enclosure, separation, or placement developed here.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4; the seven lamps lit by Aaron, with no meaning given.
 
 ## Analysis
 

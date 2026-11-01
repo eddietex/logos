@@ -206,6 +206,7 @@ His first office by name in Numbers: the service of both houses is *under the ha
 See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4.
 - Numbers 6:22–27 — Among Aaron's unnamed sons given the blessing. [[Yahweh Bless You and Keep You]]
 - Numbers 7:8 — Merari's wagons placed under his direction. [[The Offerings of the Twelve Princes]]
+- Numbers 8:13, 19, 22 — Among Aaron's unnamed sons, to whom the Levites are given. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
 
@@ -251,6 +252,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Included collectively among Aaron’s sons commanded to be consecrated and reported washing.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23; not named, among Aaron's living sons (3:4).
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; directs Merari's service.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:13, 19, 22; not named, among the sons before whom the Levites serve.
 
 ## Related people
 

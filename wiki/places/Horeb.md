@@ -754,6 +754,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the heading's date and the place of the deaths.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; where the count is ordered.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–89; the camp at Sinai, by the wider setting.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; the camp at Sinai, by the wider setting.
 
 ## Related places
 

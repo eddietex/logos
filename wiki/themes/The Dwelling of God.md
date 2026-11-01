@@ -426,6 +426,12 @@ Verse 1 has the dwelling anointed, and verse 89 has it doing what it was made fo
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Light and workers — Numbers 8:1–22
+
+With the altar dedicated in chapter 7, the Tent receives its light and its workers. The Levites may not go in until they are cleansed (15, 22).
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -525,6 +531,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:5–15, 25–26, 31–32; the dwelling made to move.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3; the camp in which Yahweh dwells.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the Tent anointed, and the voice inside it.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4, 15, 22; the Tent lit and staffed.
 
 ## Related themes
 

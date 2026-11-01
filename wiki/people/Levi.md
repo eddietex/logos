@@ -140,6 +140,12 @@ The princes' wagons and oxen go to the Levites, *to every man according to his s
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Cleansed for the work — Numbers 8:5–26
+
+Numbers now gives the tribe a rite of its own. The Levites are sprinkled, shaved over the whole body, and offered as a wave offering on Israel's behalf, with Israel's hands laid on them, and only then do they go in to serve. They are cleansed and not anointed. Verse 19 gives them a new task, *to make atonement for the children of Israel* so that no plague falls when Israel comes near. Service runs from twenty-five to fifty, against thirty at 4:3. The chapter names no house; the tribe is treated as one.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her third son; *"now this time will my husband be joined to me"* — Genesis 29:34,
@@ -167,6 +173,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 3:14–51 — The tribe counted from a month old and exchanged for the firstborn. [[The Levites and the Firstborn Counted]]
 - Numbers 4:46–49 — 8,580 working men counted. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 7:5–9 — The Levites receive the wagons and oxen. [[The Offerings of the Twelve Princes]]
+- Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
 
@@ -236,6 +243,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; counted from a month old, and exchanged.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:46–49; 8,580 working men.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:5–9; the tribe receives the wagons.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the tribe cleansed and offered.
 
 ## Related people
 

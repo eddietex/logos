@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:9; *wholly given to him*
-- Numbers 8:16, 19 — *wholly given to me*, and *as a gift to Aaron* *(not yet ingested; stored WEB)*
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:16, 19; *wholly given to me*, and *as a gift to Aaron*
 - Numbers 18:6 — *a gift to you, dedicated to Yahweh* *(not yet ingested; stored WEB)*
 - 1 Chronicles 6:48 (WLC 6:33) — *Their brothers the Levites were appointed* *(not yet ingested; WEB
   verified at bible-api.com)*

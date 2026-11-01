@@ -206,6 +206,7 @@ place to speak from.**
 
 - Exodus 27:20–21 — [[The Altar and the Court]] supplies the lamp's oil rule and named attendants;
   see [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]].
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4; the lamps lit, and the pattern recalled
 
 ## Notes
 

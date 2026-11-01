@@ -14,7 +14,7 @@ tags: [connection]
 - **Leviticus 1:4; 4:4; 16:21** — the hand laid on the head of an offering, and Aaron's two hands on
   the scapegoat
 - **Leviticus 24:14; Numbers 8:10** — witnesses' hands on a blasphemer's head; Israel's hands on the
-  Levites
+  Levites — [[The Lamps and the Levites Cleansed]]
 - **Numbers 27:18–23; Deuteronomy 34:9** — Moses lays his hands on Joshua, *"and he was full of
   wisdom"*
 - **Mark 10:16** — *"He took them in his arms and blessed them, laying his hands on them"*
@@ -66,7 +66,10 @@ assumes the reader will see why Joseph objects.
    head**: ownership, or guilt. See [[Sacrifice and Offering]].
 2. **Appointment to office** — **Moses on Joshua** (Numbers 27:18–23; Deuteronomy 34:9), **Israel on the
    Levites** (Numbers 8:10), **the apostles on the seven** (Acts 6:6) **and on Paul and Barnabas**
-   (13:3). **Authority is conveyed.** See [[Priesthood]].
+   (13:3). **Authority is conveyed.** See [[Priesthood]]. Numbers 8:10 sits uneasily here: the verse
+   is followed at once by the Levites being offered as a wave offering, and the verb is the offerer's
+   *sāmak*, so the first category fits it at least as well. It also says *on the Levites*, not on their heads.
+   See [[The Lamps and the Levites Cleansed]].
 3. **Blessing** — **Genesis 48:14 and Mark 10:16, and almost nothing else.** **Nothing is transferred and
    no office is given; a hand is put on a head and good is asked for the person under it.**
 

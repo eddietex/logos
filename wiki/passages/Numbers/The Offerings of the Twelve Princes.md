@@ -121,6 +121,7 @@ in full. The rest of the unit is summarized above and in the table under Notes.
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:24; fire on the altar
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:22, 29; the promise, and the same vessel names
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27, which this chapter steps back from
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; the next unit, which opens with *Yahweh spoke to Moses*
 
 ## Notes
 

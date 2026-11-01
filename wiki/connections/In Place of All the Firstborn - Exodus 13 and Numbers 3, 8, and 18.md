@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29; the night behind the claim
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:11–13; the Levites taken *instead of*
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted, and the surplus of 273 bought back
-- Numbers 8:14–19 — the claim restated at the Levites' cleansing *(not yet ingested; stored WEB)*
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:14–19; the claim restated at the Levites' cleansing
 - Numbers 18:15–16 — the firstborn redeemed by price *(not yet ingested; stored WEB)*
 
 ## Analysis
@@ -37,7 +37,10 @@ applied after it. That is a reading, and no verse says it.
 **The Levites are living, not sacrificed.** Unlike the donkey's lamb or the ram at Moriah, nothing
 dies in this exchange. The firstborn's place is filled by men who go on serving, and the claim on
 them is paid in labor at the Tent. Numbers 8:19 adds that they do this *to make atonement for the
-children of Israel*, a phrase the wiki leaves for that pericope.
+children of Israel*, and the result it names is *no plague* when Israel comes near. It does not say how.
+See [[The Lamps and the Levites Cleansed]]; the passage is the only one here where the Levites are also
+offered, as a wave offering. See
+[[The Levites as a Wave Offering - Tenufah from the Breast to the Tribe]].
 
 **The exchange as carried out.** Numbers 3:40–51 does what 3:11–13 announced. Moses counts 22,273
 firstborn against 22,000 Levites and takes five shekels for each of the 273 (46–47). Levi's livestock

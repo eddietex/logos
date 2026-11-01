@@ -89,6 +89,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
   sanctuary
 - Psalm 121:7–8 — *Yahweh will keep you from all evil* (WEB, bible-api.com; *not yet ingested*)
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–89, the next unit, which goes back to the day the tabernacle was finished
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:2; the same verb for giving light
 
 ## Notes
 

@@ -114,6 +114,7 @@ shared vocabulary without claiming that any of the later texts alludes to Bezale
 - [[The Work Completed]] — Exodus 39:32–43; Contextual craft leader; completion is credited to Israel collectively.
 
 - [[Through Wisdom a House Is Built]] — Proverbs 24:3–4; not named; the house built with the three gifts given him at Exodus 31:3.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:4; not named. *So he made the lamp stand* has no stated subject, and Exodus 37:17 reports the making under him.
 
 ## Related people
 

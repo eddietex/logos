@@ -86,6 +86,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   supplies the restriction underlying the later dispute about eating holy bread.
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:30 commands continual bread;
   Leviticus specifies quantity, arrangement, renewal, and recipients.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4; Aaron lighting the lamps
 
 ## Notes
 

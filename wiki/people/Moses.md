@@ -67,6 +67,12 @@ He finishes the tabernacle and anoints it (1), is told to accept the wagons and 
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The Levites cleansed — Numbers 8:5–22
+
+Moses is addressed as the one who cleanses, presents, and offers the Levites (6–15), and verse 20 has him, Aaron, and the whole congregation do it. The waving is given to Aaron at verses 11 and 21 and to *you* at 13 and 15, and the text does not sort that out. Verse 4 also ties the lampstand to the pattern shown to him.
+
+See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Moses receives the last speech of the book, with no response recorded. The closing colophon names
@@ -1112,6 +1118,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 6:1–21 — Receives the law of the Nazirite. [[The Nazirite Vow]]
 - Numbers 6:22–27 — Receives the words of blessing for Aaron and his sons. [[Yahweh Bless You and Keep You]]
 - Numbers 7:1–9, 89 — Accepts the gifts, and hears the voice from the mercy seat. [[The Offerings of the Twelve Princes]]
+- Numbers 8:5–22 — Carries out the Levites' cleansing with Aaron and the congregation. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
 
@@ -1338,6 +1345,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Nazirite Vow]] — Numbers 6:1–2; receives the law.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–23; passes on the words.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–9, 89; distributes the wagons and hears the voice.
+- [[The Lamps and the Levites Cleansed]] — Numbers 8:4–15, 20; receives the words and carries out the rite.
 
 ## Related people
 
