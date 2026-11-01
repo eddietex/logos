@@ -106,6 +106,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[Over the Tent and Before the People - Where the Cloud Stood]] — cloud, ark, guide, and God as leaders
 - [[By His Own Standard - Degel in Numbers and the Song of Solomon]] — the four standards (14, 18, 22, 25)
 - [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] — the in-law and the departure from Horeb
+- [[The Fire at Taberah]] — Numbers 11:1–3; the first complaint, at once
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the rule now used
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; the signals, which this unit does not mention
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the same order at rest
@@ -113,7 +114,6 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Passover in the Second Year]] — Numbers 9:11; the second-month date just before this one
 - [[Jethro's Counsel]] — Exodus 18:27; an earlier in-law's return to his own land
 - [[Moses Flees to Midian]] — Exodus 2:18; Reuel
-- Numbers 11:1–3 — the first complaint, at once *(stored WEB, not yet ingested)*
 - Numbers 12:16; 13:3, 26 — the camp in Paran *(stored WEB, not yet ingested)*
 - Numbers 14:44 — the ark that *didn't depart out of the camp* *(stored WEB, not yet ingested)*
 - Numbers 33:16–18 — the journey list from Sinai *(stored WEB, not yet ingested)*

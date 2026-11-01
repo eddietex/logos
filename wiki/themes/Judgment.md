@@ -615,6 +615,12 @@ No court sits, and nobody pronounces a sentence. The priest administers, and the
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Fire at the edge of the camp — Numbers 11:1–3
+
+No warning, charge, or stated complaint comes first. Yahweh hears, is angry, and his fire burns at the edge of the camp until Moses prays. The text gives no number of dead.
+
+See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -944,6 +950,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Field of the Sluggard]] — Proverbs 24:23–25; Partiality in judgment cursed by the peoples; those who convict the guilty blessed.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; wrath prevented by the Levites' guard.
 - [[The Suspected Wife]] — Numbers 5:11–31; no human verdict, and the outcome left to Yahweh.
+- [[The Fire at Taberah]] — Numbers 11:1–3; the first penalty for complaint on the road.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

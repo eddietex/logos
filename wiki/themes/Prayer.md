@@ -209,6 +209,12 @@ Moses addresses Yahweh in two short lines, one when the ark sets out and one whe
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The usual verb, late — Numbers 11:2
+
+The people cry to Moses, and Moses prays. *Wayyitpallēl* (WLC) is the first use of *hitpallel* for Moses, and by the tags Exodus and Leviticus have none. His earlier prayers use *ṣāʿaq*, *ʿātar*, and *ḥālâ*. No words are given, and the fire goes down.
+
+See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
@@ -392,6 +398,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:17; *"Those who seek me diligently will find me"*, 1:28 without the negative
 - [[The Two Silver Trumpets]] — Numbers 10:9; an alarm in danger, heard as remembrance before Yahweh.
 - [[The March from Sinai]] — Numbers 10:35–36; two lines spoken at the ark.
+- [[The Fire at Taberah]] — Numbers 11:2; a prayer asked for by a cry, with no words recorded.
 
 ## Related themes
 

@@ -17,7 +17,7 @@ this place is named for the people's sin.** See [[Water from the Rock]].
 **The two names travel separately.** *Massah* alone is the place of the commandment *"You shall not tempt
 Yahweh your God, as you tempted him in Massah"* (Deuteronomy 6:16; WEB), and of the list of provocations in
 Deuteronomy 9:22 — *"At Taberah, and at Massah, and at Kibroth Hattaavah, you provoked Yahweh to wrath"*
-(WEB). *Meribah* alone is also the name of a **second place**: the water at Kadesh, late in the wilderness years,
+(WEB; see [[Taberah]]). *Meribah* alone is also the name of a **second place**: the water at Kadesh, late in the wilderness years,
 where Moses struck the rock twice — *"These are the waters of Meribah; because the children of Israel strove
 with Yahweh"* (Numbers 20:13; WEB) — and which Numbers 27:14 calls *Meribah of Kadesh* (*mərîbat qādēš*; WLC).
 **The wiki files that second Meribah under [[Kadesh]]** and keeps this page for the place of Exodus 17;

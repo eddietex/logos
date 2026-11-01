@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:23–24.
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
+- [[The Fire at Taberah]] — Numbers 11:1–3.
 
 ## Analysis
 
@@ -26,7 +27,11 @@ The deaths do not terminate priesthood. The survivors remain at the tent and rec
 instructions for sobriety, discernment, and teaching (10:6–11). The explanation should
 not be expanded into a diagnosis of drunkenness: that is not reported in 10:1–2.
 
-Source: stored WEB Leviticus 9:23–24 and 10:1–11, checked 2026-10-29.
+Numbers 11:1 moves the fire from the sanctuary to the camp. *Yahweh's fire* burns among the people at its edge,
+and the offense is a complaint, with no altar in view. The wording differs from Leviticus (*ʾēš yhwh*, WLC), so this is a
+link in subject, not a repeated phrase. Moses' prayer stops this fire. No one intercedes in Leviticus 10.
+
+Source: stored WEB Leviticus 9:23–24 and 10:1–11, checked 2026-10-29; Numbers 11:1–3 from stored WEB, 2026-11-01.
 
 ## Significance
 

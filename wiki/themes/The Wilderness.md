@@ -63,6 +63,12 @@ Israel moves into the wilderness for the first time since the camp was ordered, 
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The first stop — Numbers 11:1–3
+
+The first place named after Sinai is named for fire. Whether Israel camped there as a stage the text does not say, since Numbers 33:16 does not list it.
+
+See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -73,6 +79,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Passover in the Second Year]] — Numbers 9:1–5; the Passover kept at Sinai.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; how the wilderness journeys were to work.
 - [[The March from Sinai]] — Numbers 10:11–36; the first march, and a guide requested.
+- [[The Fire at Taberah]] — Numbers 11:1–3; the first complaint on the road.
 
 ## Related themes
 

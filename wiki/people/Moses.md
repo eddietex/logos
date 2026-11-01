@@ -1147,6 +1147,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 9:15–23 — Named last, as the one by whom the command to move and stop was given. [[The Cloud over the Tabernacle]]
 - Numbers 10:1–10 — Told to make the trumpets; the assembly gathers to him. [[The Two Silver Trumpets]]
 - Numbers 10:11–36 — Leads the march, asks Hobab to stay, and cries out at the ark. [[The March from Sinai]]
+- Numbers 11:1–3 — The people cry to him, and he prays, the first time *hitpallel* is used of him. [[The Fire at Taberah]]
 
 ## Appears in
 
@@ -1378,6 +1379,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Cloud over the Tabernacle]] — Numbers 9:23; the command given *by Moses*.
 - [[The Two Silver Trumpets]] — Numbers 10:2–4; told to make them, and receives the assembly.
 - [[The March from Sinai]] — Numbers 10:13, 29–36; asks Hobab to come, and speaks the two cries of the ark.
+- [[The Fire at Taberah]] — Numbers 11:2; receives the people's cry, and prays.
 
 ## Related people
 

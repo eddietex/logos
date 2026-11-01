@@ -374,6 +374,12 @@ A sign in sight of all Israel still ends with *by the hand of Moses* (*bəyad-M�
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### They cried to Moses — Numbers 11:2
+
+The people do not cry to Yahweh, as at Exodus 14:10, but to Moses, and he prays. By the tags this is the only place the verb has Moses as the one cried to.
+
+See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -631,6 +637,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:19; a tribe set between Israel and the danger.
 - [[The Passover in the Second Year]] — Numbers 9:6–10; Moses takes the men's question to Yahweh.
 - [[The Cloud over the Tabernacle]] — Numbers 9:23; a public sign, and the command still *by Moses*.
+- [[The Fire at Taberah]] — Numbers 11:2; the people cry to Moses, and he prays.
 
 ## Related themes
 

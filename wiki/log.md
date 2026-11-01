@@ -21005,3 +21005,31 @@ and the Hebrew of Genesis 22:14 was not checked. Greek of Numbers 10 from the Ra
 LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. WEB of Genesis, Exodus, and Numbers from `raw/bible/`; all quoted WEB
 outside them verified at bible-api.com. New Testament Greek not checked. Commentary, lexicons, and grammars not consulted.
 Counts: 286 passages, 202 people, 104 places, 86 themes, 626 connections. Next: The Fire at Taberah, Numbers 11:1–3.
+
+## [2026-11-01] ingest | Numbers 11.1-3 — The Fire at Taberah
+
+Created [[The Fire at Taberah]], [[Taberah]], and [[Taberah Remembered - Numbers 11, Deuteronomy 9, and Psalm 78]]. Revised
+[[God]], [[Moses]], [[Paran]], [[Massah and Meribah]], [[Murmuring]], [[Prayer]], [[Judgment]], [[Mediation and Advocacy]],
+[[The Wilderness]], [[Names and Naming]], [[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]],
+[[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]], [[The March from Sinai]], the book page, and the
+book, place, theme, connection, and top indexes.
+
+Judgment calls: the plan's boundary and title kept. [[Taberah]] gets a page though it has one story, since the skill requires a
+page for each place. [[Aaron]] is not in the unit and was not revised. No new theme for fire; [[Judgment]] and
+[[Fire Before Yahweh - Acceptance and Judgment in Leviticus 9–10]] carry it. Kibroth Hattaavah stays plain text until 11:34.
+
+One addition qualifies existing text: [[Murmuring]] said its three features hold across the cycle, and Numbers 11:1 fits none
+cleanly, as the verb is not *lûn*, no object or need is stated, and Moses redirects nothing. The page keeps the features for the
+*lûn* passages and records Taberah as a bend in them.
+
+Tensions flagged, not resolved: Taberah's absence from Numbers 33:16; no time given after the three days of 10:33; Paran; and
+Psalm 78:18–21, which puts a kindled fire after a demand for meat, where Numbers has the fire first. WEB leaves *kə-* and *raʿ*
+untranslated at verse 1, and the syntax of *raʿ* is not settled here.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags across all 39 books, so counts and
+*only* claims depend on that tagging. The gloss of *šāqaʿ* and the sense of *mitʾōnənîm* come from context and recall, with no
+lexicon. Greek of Numbers 11:1–3 and the *γογγ-* search of Exodus and Numbers from the Rahlfs 1935 text in the eliranwong
+LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. WEB of Exodus, Leviticus, and Numbers from `raw/bible/`; all quoted
+WEB outside them verified at bible-api.com. Psalm 78's Hebrew and New Testament Greek not checked. Commentary, lexicons, and
+grammars not consulted. Counts: 287 passages, 202 people, 105 places, 86 themes, 627 connections. Next: The Seventy Elders and
+the Quail, Numbers 11:4–35.

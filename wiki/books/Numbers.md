@@ -50,6 +50,8 @@ the camp moves when the cloud rises, stays while it stays, and calls both *the c
 priests, and a memorial before God in the wars and feasts of the land.
 [[The March from Sinai]] (10:11–36) then moves at last: the cloud rises, the twelve tribes go in order with the tabernacle in two
 stages, Hobab is asked to be Israel's eyes, and Moses cries out as the ark sets out and rests.
+[[The Fire at Taberah]] (11:1–3) follows at once: an unspecified complaint, Yahweh's fire at the edge of the camp, a cry to Moses,
+and a prayer with no recorded words.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -87,7 +89,7 @@ merge, or reorder them freely.
 - [x] [[The Cloud over the Tabernacle]] — Numbers 9:15–23
 - [x] [[The Two Silver Trumpets]] — Numbers 10:1–10
 - [x] [[The March from Sinai]] — Numbers 10:11–36
-- [ ] The Fire at Taberah — Numbers 11:1–3
+- [x] [[The Fire at Taberah]] — Numbers 11:1–3
 - [ ] The Seventy Elders and the Quail — Numbers 11:4–35
 - [ ] Miriam and Aaron Against Moses — Numbers 12:1–16
 - [ ] The Twelve Spies — Numbers 13:1–33
@@ -147,6 +149,7 @@ merge, or reorder them freely.
 - [[Work]] — Levite service with an age limit
 - [[Festivals and First Fruits]] — the Passover kept, and a second date set
 - [[Remembrance]] — *remembered before Yahweh* at the alarm of the trumpets
+- [[Murmuring]] — the complaints that begin as soon as the march does
 
 ## Key people
 
@@ -162,3 +165,4 @@ merge, or reorder them freely.
 
 - [[Horeb]] — the wilderness of Sinai, where the book begins
 - [[Egypt]] — the point from which its dates are reckoned, and the land of the struck firstborn
+- [[Taberah]] — the first stop named after Sinai

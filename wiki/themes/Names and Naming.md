@@ -168,6 +168,12 @@ The count is *according to the number of the names* (2, 18, 20). Twelve men are 
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
+### Taberah — Numbers 11:3
+
+An active verb with no named subject (WLC), the form of Exodus 17:7, gives the place a name built on *bāʿar*, the verb of the fire. As at Massah, the name keeps what happened.
+
+See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
@@ -334,6 +340,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; shulammite without a biography.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; a count by name.
+- [[The Fire at Taberah]] — Numbers 11:3; *burning*.
 
 ## Related themes
 

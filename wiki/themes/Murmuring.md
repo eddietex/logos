@@ -65,6 +65,14 @@ not?"* (17:7) — and names the place for it, *Massah* and *Meribah*. **Still no
 cycle hardens as it repeats**: from a question of need to a wish for Egypt to a question about God's
 presence. See [[Water from the Rock]].
 
+**Taberah — after Sinai, a different verb, and the first penalty.** Numbers 11:1 does not use *lûn*. It has *mitʾōnənîm*,
+by the tags a verb found only here and at Lamentations 3:39, and the people are *as* complainers, with *raʿ*, *evil*, which WEB
+leaves untranslated (WLC). **All three features above bend here.** No object is named, and the complaint is placed straight
+in Yahweh's ears; no need is stated; and Moses does not redirect anything, since Yahweh has already heard. **The word differs,
+but the wiki files it here because the event belongs to the same series**, and Rahlfs's Greek uses *γογγύζω*. **The
+answer has changed too**: fire, then Moses' prayer. Every complaint in Exodus before Sinai was answered with no penalty. See
+[[The Fire at Taberah]].
+
 **Ahead in Numbers** (by reference, *not yet ingested*): after the spies' report, the murmuring of Numbers
 14 ends in the sentence that the generation will die in the wilderness; after Korah, it ends in plague
 (Numbers 16–17); and Aaron's budding rod is kept *"that you may make an end of their murmurings against
@@ -88,6 +96,8 @@ to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 C
 - [[Water from the Rock]] — Exodus 17:2–3; **the murmuring as a quarrel and a test.** *"Give us water to drink"*;
   *"Why do you quarrel with me? Why do you test Yahweh?"*; *"Why have you brought us up out of Egypt?"*;
   *"They are almost ready to stone me"*; the place named Massah and Meribah
+- [[The Fire at Taberah]] — Numbers 11:1–3; **the first complaint after Sinai, and the first with a penalty.** Not *lûn*, but
+  *mitʾōnənîm*; no content stated; answered with Yahweh's fire and Moses' prayer
 - **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 
