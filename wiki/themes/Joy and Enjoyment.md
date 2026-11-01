@@ -255,6 +255,12 @@ The animal comparison suggests lively movement; this is an invitation, not a rep
 that the journey or enjoyment has already taken place.
 Source: stored WEB Song 8:13–14.
 
+### The day of your gladness — Numbers 10:10
+
+The list of occasions opens with *the day of your gladness*, the one item with no date. The trumpet of alarm is also the trumpet of joy.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[The Feast of Booths]] — Leviticus 23:33–44.
@@ -304,6 +310,7 @@ Source: stored WEB Song 8:13–14.
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; love for delights.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
+- [[The Two Silver Trumpets]] — Numbers 10:10; gladness named first among the occasions for the trumpets.
 
 ## Related themes
 

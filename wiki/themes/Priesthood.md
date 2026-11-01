@@ -515,6 +515,12 @@ The Levites' rite differs from that of the priests at every point that matters: 
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### A statute for the instruments — Numbers 10:8
+
+The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The priest now gives Israel its signals as well as its offerings and blessing. Later texts do not all keep to this (2 Kings 11:14).
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -674,6 +680,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23, 27; a duty of speech, and a limit on it.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; no priest shown at work; Ithamar directs Merari.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the Levites made ready, and set under the priests.
+- [[The Two Silver Trumpets]] — Numbers 10:8; the trumpets given to the priests by statute.
 
 ## Related themes
 

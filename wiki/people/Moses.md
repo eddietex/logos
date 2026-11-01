@@ -894,6 +894,12 @@ The cloud is in sight of all Israel, and yet the unit ends by saying that Yahweh
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### Make for yourself — Numbers 10:2–4
+
+The command to make the trumpets is singular (*ʿăśē ləḵā*, WLC), and both the congregation and the princes gather *to you*. Moses now has a way to summon by sound, and verse 8 at once puts the blowing in the priests' hands. No verse reports him making them.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1133,6 +1139,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 8:5–22 — Carries out the Levites' cleansing with Aaron and the congregation. [[The Lamps and the Levites Cleansed]]
 - Numbers 9:1–14 — Orders the Passover, and takes the unclean men's case to Yahweh. [[The Passover in the Second Year]]
 - Numbers 9:15–23 — Named last, as the one by whom the command to move and stop was given. [[The Cloud over the Tabernacle]]
+- Numbers 10:1–10 — Told to make the trumpets; the assembly gathers to him. [[The Two Silver Trumpets]]
 
 ## Appears in
 
@@ -1362,6 +1369,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:4–15, 20; receives the words and carries out the rite.
 - [[The Passover in the Second Year]] — Numbers 9:4, 6–8; says *Wait*, and asks Yahweh.
 - [[The Cloud over the Tabernacle]] — Numbers 9:23; the command given *by Moses*.
+- [[The Two Silver Trumpets]] — Numbers 10:2–4; told to make them, and receives the assembly.
 
 ## Related people
 

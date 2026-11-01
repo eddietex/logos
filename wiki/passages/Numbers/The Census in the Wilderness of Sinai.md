@@ -204,6 +204,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - Numbers 26:51, 63–65 — the second census, 601,730, none of them counted here but Caleb and
   Joshua *(not yet ingested; stored WEB)*.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:2; the same twelve men, *over those who were counted*
+- [[The Two Silver Trumpets]] — Numbers 10:4; *the heads of the thousands of Israel* called by one trumpet
 
 ## Notes
 

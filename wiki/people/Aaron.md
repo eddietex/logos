@@ -464,6 +464,12 @@ The unclean men come before Moses and Aaron, and they then speak *to him*, singu
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### The sons who blow — Numbers 10:8
+
+Aaron appears only in *the sons of Aaron, the priests*. The statute goes past him to his sons and to every generation, and at this date only two of those sons are alive (3:4).
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -619,6 +625,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 7:8 — Named only as Ithamar's father. [[The Offerings of the Twelve Princes]]
 - Numbers 8:1–3, 11, 21 — Lights the lamps, and offers the Levites. [[The Lamps and the Levites Cleansed]]
 - Numbers 9:6 — The unclean men come before him and Moses. [[The Passover in the Second Year]]
+- Numbers 10:8 — Named as father of the priests who blow. [[The Two Silver Trumpets]]
 
 ## Appears in
 
@@ -752,6 +759,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; named only as Ithamar's father.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:2–3, 11, 21; lights the lamps and offers the Levites.
 - [[The Passover in the Second Year]] — Numbers 9:6; named, and silent.
+- [[The Two Silver Trumpets]] — Numbers 10:8; named as father of the priests.
 
 ## Related people
 

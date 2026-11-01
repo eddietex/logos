@@ -85,6 +85,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   weekly prohibition of all work from the annual feast's prohibition of regular work.
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:21 likewise joins holy assembly
   with cessation of regular work; the calendar now proceeds to seventh-month dates.
+- [[The Two Silver Trumpets]] — Numbers 10:10; a *memorial* with trumpets. Leviticus 23:24 itself has *tərûʿâ* and no instrument word (WLC)
 
 ## Notes
 
@@ -92,6 +93,9 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 blowing (24) but supplies neither a remembered historical event nor an instrument's
 material or detailed ritual. No later festival name, new-year identification, or
 source-language claim is inferred from this English text.
+
+The Hebrew later confirms the point: *ziḵrôn tərûʿâ* (24, WLC) has no instrument word, and WEB's *trumpets* is
+its rendering. See [[Trumpet and Ram's Horn - Two Instruments, One English Word]].
 
 **Self-denial is commanded without an explicit procedure here.** The WEB varies between
 afflicting oneself and denying oneself (27, 29, 32). This page does not treat those English

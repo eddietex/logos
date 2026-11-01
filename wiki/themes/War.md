@@ -213,6 +213,12 @@ The muster becomes a formation. Four camps of three stand *according to their di
 
 See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 
+### Blown for battle — Numbers 10:9
+
+The alarm of the march is also the alarm of war *in your land*. It is not a tactic in the verse. Its result is that Israel is *remembered before Yahweh* and saved. Numbers 31:6 and 2 Chronicles 13:12–15 show priests with the trumpets at a battle.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -307,6 +313,7 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; awesome as an army with banners.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the muster of those able to go out to war.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the four camps in formation.
+- [[The Two Silver Trumpets]] — Numbers 10:5–9; march alarms, and the alarm of war in the land.
 
 ## Related themes
 

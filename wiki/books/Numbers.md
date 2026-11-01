@@ -46,6 +46,8 @@ cleansed, and offered as a wave offering for Israel, to serve from twenty-five t
 keeps the feast at Sinai, and a question from men unclean by the dead yields a second date in the second month.
 [[The Cloud over the Tabernacle]] (9:15–23) then gives the rule of every journey before the first one starts:
 the camp moves when the cloud rises, stays while it stays, and calls both *the commandment of Yahweh*.
+[[The Two Silver Trumpets]] (10:1–10) puts that rule into sound: signals for assembly and march, a statute for the
+priests, and a memorial before God in the wars and feasts of the land.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -81,7 +83,7 @@ merge, or reorder them freely.
 - [x] [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26
 - [x] [[The Passover in the Second Year]] — Numbers 9:1–14
 - [x] [[The Cloud over the Tabernacle]] — Numbers 9:15–23
-- [ ] The Two Silver Trumpets — Numbers 10:1–10
+- [x] [[The Two Silver Trumpets]] — Numbers 10:1–10
 - [ ] The March from Sinai — Numbers 10:11–36
 - [ ] The Fire at Taberah — Numbers 11:1–3
 - [ ] The Seventy Elders and the Quail — Numbers 11:4–35
@@ -142,6 +144,7 @@ merge, or reorder them freely.
 - [[Light and Darkness]] — the seven lamps lit
 - [[Work]] — Levite service with an age limit
 - [[Festivals and First Fruits]] — the Passover kept, and a second date set
+- [[Remembrance]] — *remembered before Yahweh* at the alarm of the trumpets
 
 ## Key people
 

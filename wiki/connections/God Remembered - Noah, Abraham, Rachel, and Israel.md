@@ -30,6 +30,9 @@ tags: [connection]
 - **Exodus 12:14** — *"This day shall be to you for a memorial"* — the first *zikkārôn* in Scripture,
   and the turn from God remembering to Israel being given something to remember with —
   [[The Passover]]
+- **Numbers 10:9** — *"Then you will be remembered before Yahweh your God, and you will be saved from your
+  enemies."* Israel remembered at a signal the priests sound; with 10:10 the trumpets are a *zikkārôn* —
+  [[The Two Silver Trumpets]]
 
 ## Analysis
 

@@ -128,6 +128,12 @@ The first feast the Bible narrates after Egypt is kept at Sinai on its date (5).
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### Sound at the feasts — Numbers 10:10
+
+The set feasts and the first of each month are marked by trumpets over the offerings. Psalm 81:3 has the *šôpār* at the new moon, not this instrument (WLC), and neither text mentions the other.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -158,6 +164,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:14–19.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; first fruits of all one's increase, and full barns
 - [[The Passover in the Second Year]] — Numbers 9:1–14; the feast at its date, and a later date for those who could not come.
+- [[The Two Silver Trumpets]] — Numbers 10:10; feasts and new moons marked by trumpets.
 
 ## Related themes
 

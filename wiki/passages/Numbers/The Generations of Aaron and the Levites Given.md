@@ -114,6 +114,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - Numbers 26:61 — the deaths reported again *(not yet ingested; stored WEB)*.
 - 1 Chronicles 24:1–2 — *died before their father, and had no children*, the same report used to
   explain the priestly divisions *(not yet ingested; WEB verified at bible-api.com)*.
+- [[The Two Silver Trumpets]] — Numbers 10:8; the priests of 3:3–4 given the trumpets
 
 ## Notes
 

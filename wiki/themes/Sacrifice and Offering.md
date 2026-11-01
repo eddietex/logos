@@ -622,6 +622,12 @@ The men call the Passover *qorban YHWH*, the phrase of Leviticus 1:2. By the tag
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### Over the offerings — Numbers 10:10
+
+Trumpets are blown over the burnt offerings and peace offerings, and they are a *memorial* before God. 2 Chronicles 29:27–28 shows the same pairing, with the trumpets sounding until the burnt offering ends.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -852,6 +858,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:10–88; twelve equal gifts for the altar.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:10–21; a tribe presented as a wave offering.
 - [[The Passover in the Second Year]] — Numbers 9:7, 13; the Passover named a *qorbān*.
+- [[The Two Silver Trumpets]] — Numbers 10:10; trumpets blown over burnt offerings and peace offerings.
 
 ## Related themes
 

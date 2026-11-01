@@ -381,6 +381,12 @@ The handful of flour and oil, with all its frankincense, is burned as a memorial
 
 See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Leviticus 6:8–23; comparisons documented there.
 
+### Remembered at a signal — Numbers 10:9–10
+
+Here Israel is the one remembered: *wənizkartem*, *you will be remembered* (WLC), before Yahweh, at the sound of an alarm. Verse 10 calls the trumpets a *zikkārôn*. Unlike the Passover, this memorial does not recall a past event. The verses place the people themselves before God.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -599,6 +605,7 @@ See [[The Altar Fire and the Priests’ Meal Offerings]]. Source: stored WEB Lev
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:16; the atonement money *"a memorial for the children of Israel before Yahweh"*.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Engraved shoulder stones explicitly made as memorials for Israel.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1; *"don't forget my teaching"*, against the woman who forgot (2:17)
+- [[The Two Silver Trumpets]] — Numbers 10:9–10; the alarm brings Israel to mind, and the trumpets are a memorial.
 
 ## Related themes
 

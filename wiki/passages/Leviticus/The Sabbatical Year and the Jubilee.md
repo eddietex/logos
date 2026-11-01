@@ -127,6 +127,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   not the first-day trumpet memorial of Leviticus 23:24.
 - [[First Fruits and the Feast of Weeks]] — seven Sabbaths followed by fifty, counted
   in days at 23:15–16 and years at 25:8–10; an analogy rather than identical observances.
+- [[The Two Silver Trumpets]] — Numbers 10:1–10; the *ḥăṣōṣərâ*, not the *šôpār* of 25:9 (WLC)
 
 ## Notes
 

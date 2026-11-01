@@ -197,6 +197,12 @@ goes on to discuss is the vow (4–6).
 
 See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the passage page records the comparison sources and Hebrew checks.
 
+### A sound before God — Numbers 10:9
+
+The unit does not call the alarm prayer. Still, it is something done in danger with the result that God remembers and saves. 2 Chronicles 13:14 sets the two side by side: *they cried to Yahweh, and the priests sounded with the trumpets*.
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
@@ -378,6 +384,7 @@ See [[Let Your Words Be Few]]. Source: stored WEB Ecclesiastes 5:1–7; the pass
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:1–10, 34–38; the incense altar, later read as an image of prayer.
 - [[Wisdom Calls in the Street]] — Proverbs 1:28; calling and not being answered, after a call refused; set against Proverbs 8:17 and Deuteronomy 4:29
 - [[Wisdom Calls at the Gates]] — Proverbs 8:17; *"Those who seek me diligently will find me"*, 1:28 without the negative
+- [[The Two Silver Trumpets]] — Numbers 10:9; an alarm in danger, heard as remembrance before Yahweh.
 
 ## Related themes
 

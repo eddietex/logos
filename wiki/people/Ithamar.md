@@ -207,6 +207,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 6:22–27 — Among Aaron's unnamed sons given the blessing. [[Yahweh Bless You and Keep You]]
 - Numbers 7:8 — Merari's wagons placed under his direction. [[The Offerings of the Twelve Princes]]
 - Numbers 8:13, 19, 22 — Among Aaron's unnamed sons, to whom the Levites are given. [[The Lamps and the Levites Cleansed]]
+- Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
 
@@ -253,6 +254,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23; not named, among Aaron's living sons (3:4).
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; directs Merari's service.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:13, 19, 22; not named, among the sons before whom the Levites serve.
+- [[The Two Silver Trumpets]] — Numbers 10:8; not named, among Aaron's living sons (3:4), who hold the trumpets.
 
 ## Related people
 

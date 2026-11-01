@@ -117,6 +117,12 @@ form without the passage describing a sung performance.
 
 See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus 6–7.
 
+### Before there were singers — Numbers 10:10
+
+Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra keep the priests' trumpets and add David's instruments and singers to them (2 Chronicles 29:26–28; Ezra 3:10).
+
+See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
@@ -135,6 +141,7 @@ See [[Thanksgiving, Vows, and the Peace Offering]]. Source: stored WEB Leviticus
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; the women praised her.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; the upward description.
+- [[The Two Silver Trumpets]] — Numbers 10:10; the trumpets that later join the temple song.
 
 ## Related themes
 - [[The Fear of God]] — *"fearful in praises"*

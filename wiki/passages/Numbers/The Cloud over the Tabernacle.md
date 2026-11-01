@@ -90,6 +90,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Numbers 33:1–2 — the journey list, also *by the commandment of Yahweh* *(stored WEB, not yet ingested)*
 - Deuteronomy 1:33 — Yahweh seeking out the campsite *(WEB checked, not yet ingested)*
 - 1 Corinthians 10:1–2 — *our fathers were all under the cloud* *(WEB checked, not yet ingested)*
+- [[The Two Silver Trumpets]] — Numbers 10:1–10; the sound that follows the sign
 
 ## Notes
 

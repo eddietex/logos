@@ -107,6 +107,7 @@ commandments (19:9–25).
 
 - Exodus 20:1–21 — [[The Ten Commandments]]; the public speech follows the preparation, and the
   assembly asks Moses to mediate.
+- [[The Two Silver Trumpets]] — Numbers 10:1–10; made trumpets in human hands, a different Hebrew word from the sound at Sinai
 
 ## Notes
 

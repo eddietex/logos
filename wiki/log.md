@@ -20948,3 +20948,31 @@ and Leviticus from `raw/bible/`; Deuteronomy 1:2, 33, 46, Nehemiah 9:12, 17–19
 and 1 Corinthians 10:1–2 verified at bible-api.com. Greek of 1 Corinthians and the ancient versions at 9:16 not
 checked. Commentary, lexicons, and grammars not consulted. Counts: 284 passages, 201 people, 104 places, 86 themes,
 622 connections. Next: The Two Silver Trumpets, Numbers 10:1–10.
+
+## [2026-11-01] ingest | Numbers 10.1-10 — The Two Silver Trumpets
+
+Created [[The Two Silver Trumpets]] and two connections:
+[[The Priests' Trumpets - Numbers 10 from the Camp to the Second Temple]] and
+[[Trumpet and Ram's Horn - Two Instruments, One English Word]]. Revised [[God]], [[Moses]], [[Aaron]],
+[[Eleazar (son of Aaron)]], [[Ithamar]], [[Horeb]], eight themes, one existing connection, eight passages, and the
+book, category, and top indexes.
+
+Judgment calls: the plan's boundary and title kept. No new person or place pages, and no page for the trumpets
+themselves; the two connections carry them. Eleazar and Ithamar get timeline and appears-in lines only, as the unit
+does not name them. [[Horeb]] gets the entry as the setting, as with the previous units.
+
+Tensions flagged, not resolved: verse 9's *in your land* against Numbers 31:6; who blows, verse 8 against 2 Kings
+11:14 and 2 Chronicles 23:13; *ḥăṣōṣərâ* at the new moon here against *šôpār* at Psalm 81:3; and the alarm as both
+march signal and remembrance. The masoretic text gives alarms only for east and south; Rahlfs adds west and north at
+verse 6. Neither is preferred.
+
+WEB's *trumpet* covers both *ḥăṣōṣərâ* and *šôpār*, and Leviticus 23:24 and Numbers 29:1 have neither in the Hebrew. A
+note was added to [[Trumpets and the Day of Atonement]] on this.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags, so counts and *only*
+claims depend on that tagging; verse numbers from the tags are Hebrew numbering. Greek of Numbers 10 from the Rahlfs
+1935 text in the eliranwong LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. WEB of Numbers, Exodus,
+and Leviticus from `raw/bible/`; all quoted WEB outside them verified at bible-api.com. New Testament Greek not checked.
+Commentary, lexicons, and grammars not consulted, so the physical description of the instruments rests on the text
+alone. Counts: 285 passages, 201 people, 104 places, 86 themes, 624 connections. Next: The March from Sinai,
+Numbers 10:11–36.
