@@ -160,6 +160,12 @@ Leviticus 9 describes visible glory and accepted sacrifice; 10:3 speaks of Yahwe
 
 See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1–11.
 
+### The cloud without the word — Numbers 9:15–23
+
+This is the cloud and fire of Exodus 40:34–38, and the unit never says *glory*, *kābôd* (WLC). What it adds is duration: *so it was continually* (16). *Like fire* (15, 16) uses the words of Exodus 24:17, where the glory on Sinai looked like devouring fire. That link is the wiki's reading.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
@@ -192,6 +198,7 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Glory fills the tent and prevents Moses’ entry; cloud and fire remain publicly visible.
 - [[The Glory of Kings]] — Proverbs 25:2, 27; God's glory to conceal a thing, the king's to search it out.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–16; the cloud and fire over the tabernacle, without the word *glory*.
 
 ## Related themes
 

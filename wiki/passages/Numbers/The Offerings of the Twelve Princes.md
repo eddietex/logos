@@ -122,6 +122,7 @@ in full. The rest of the unit is summarized above and in the table under Notes.
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:22, 29; the promise, and the same vessel names
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27, which this chapter steps back from
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; the next unit, which opens with *Yahweh spoke to Moses*
+- [[The Cloud over the Tabernacle]] — Numbers 9:15; the same day, and the cloud on the Tent Moses enters at 7:89
 
 ## Notes
 

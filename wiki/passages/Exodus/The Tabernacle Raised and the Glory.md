@@ -169,6 +169,7 @@ guiding a people who have not yet reached the promised land.
 - [[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]]
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the same day, and Moses inside the Tent
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:3; Aaron lights what Moses lit at 40:25
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; 40:36–38 set out in full
 
 ## Notes
 

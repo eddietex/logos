@@ -150,6 +150,7 @@ death warning. The chapter closes by affirming their obedience through Moses.
   portions differ from the continuing peace-offering allocation.
 - [[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]]
 - [[Cleansed, Not Anointed - The Levites of Numbers 8 and the Priests of Leviticus 8]]
+- [[The Cloud over the Tabernacle]] — Numbers 9:19, 23; *mišmeret YHWH* (8:35) said of all Israel
 
 ## Notes
 

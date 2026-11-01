@@ -14,6 +14,7 @@ tags: [connection]
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 10–11, 84; *on the day*, and twelve days
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; no date, between two units that have one
 - [[The Passover in the Second Year]] — Numbers 9:1–5; the Passover in the first month
+- [[The Cloud over the Tabernacle]] — Numbers 9:15; *on the day* the tabernacle was raised, a third step back
 
 ## Analysis
 
@@ -21,7 +22,7 @@ The dated events of the tabernacle's first weeks are told across three books, an
 
 | Date (second year) | Event | Where told |
 |---|---|---|
-| Month 1, day 1 | Tabernacle raised | Exodus 40:17 |
+| Month 1, day 1 | Tabernacle raised; the cloud covers it | Exodus 40:17, 34; Numbers 9:15 |
 | *On the day* Moses finished | Tabernacle and altar anointed; the princes bring gifts | Numbers 7:1, 10 |
 | Seven days, start not dated | Priests stay at the door | Leviticus 8:33 |
 | Eighth day of those | First service; fire on the altar | Leviticus 9:1, 24 |
@@ -30,7 +31,7 @@ The dated events of the tabernacle's first weeks are told across three books, an
 | Month 2, day 1 | Census ordered | Numbers 1:1 |
 
 The order of the narrative runs census, then gifts, then Passover. The order of the dates runs the other
-way. Numbers 7 is the book's first step back, and 9:1 is the second.
+way. Numbers 7 is the book's first step back, 9:1 is the second, and 9:15 is the third.
 
 The anointing is commanded at Exodus 40:9–11 for the same day as the raising, is not narrated in that
 chapter, and is reported at Leviticus 8:10–11. Numbers 7:1 then links it to the finishing of the work.

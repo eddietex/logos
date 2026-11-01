@@ -432,6 +432,12 @@ With the altar dedicated in chapter 7, the Tent receives its light and its worke
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### The dwelling sets the pace — Numbers 9:15–23
+
+The cloud *settles*, *šāḵan*, on the *miškān* (17, 18, 22, WLC), and Israel camps where it settles. The dwelling is not only where Yahweh meets Israel. It decides when and where Israel lives.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -532,6 +538,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:3; the camp in which Yahweh dwells.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the Tent anointed, and the voice inside it.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4, 15, 22; the Tent lit and staffed.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the camp moves and stops with the cloud on the dwelling.
 
 ## Related themes
 

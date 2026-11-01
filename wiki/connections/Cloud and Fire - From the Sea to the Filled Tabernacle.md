@@ -13,6 +13,7 @@ tags: [connection]
 - [[The Blood of the Covenant]] — Exodus 24:15–18; the mountain covered and Moses called into the cloud.
 - [[Show Me Your Glory]] — Exodus 33:3, 7–17; threatened absence, the outside tent, and promised presence.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; filling, restricted entry, and travel.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the rule of travel set out in full.
 
 ## Analysis
 
@@ -59,6 +60,16 @@ The glory's appearance does not always have an identical effect on human approac
 
 Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
 and Exodus 40:34–38, checked 2026-10-29.
+
+### The rule set out — Numbers 9
+
+Numbers 9:15–23 expands Exodus 40:36–38 from three verses to nine. It adds the lengths of a stop and the
+phrase *at the commandment of Yahweh*. It also says the cloud covered the tabernacle *continually* (9:16). That
+sharpens the access question above: Exodus 40:35 gave the cloud's staying as the reason Moses could not enter,
+while Leviticus 9:23 and Numbers 7:89 have him inside and no text reports a change. Where the cloud stood
+during the march is taken up at [[Over the Tent and Before the People - Where the Cloud Stood]].
+
+Source for this addition: stored WEB Exodus 40, Leviticus 9, and Numbers 7 and 9, checked 2026-11-01.
 
 ## Significance
 

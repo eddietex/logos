@@ -2709,6 +2709,12 @@ The men asked about themselves. Yahweh answers for every generation, adds the tr
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### At the mouth of Yahweh — Numbers 9:15–23
+
+The cloud rises and settles, and the text calls each move *ʿal-pî YHWH*, literally *at the mouth of Yahweh* (WLC), seven times. No word is reported. God directs the camp here without a speech, and no reason is given for the length of any stop.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Timeline / key events
 
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
@@ -3111,6 +3117,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 7:4–5, 11, 89 — Accepts the wagons, sets the days, and speaks from above the mercy seat. [[The Offerings of the Twelve Princes]]
 - Numbers 8:14–19 — Claims the Levites and gives them to Aaron. [[The Lamps and the Levites Cleansed]]
 - Numbers 9:1–14 — Orders the Passover, and gives the second date. [[The Passover in the Second Year]]
+- Numbers 9:15–23 — Covers the tabernacle in cloud and fire, and moves and stops the camp. [[The Cloud over the Tabernacle]]
 
 ## Appears in
 
@@ -3736,6 +3743,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:4–5, 11, 89; accepts the wagons, sets the days, and speaks from the mercy seat.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1, 5–19, 23–26; takes the Levites and gives them to Aaron.
 - [[The Passover in the Second Year]] — Numbers 9:1–3, 9–14; orders the feast and rules on the case.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; directs every journey by the cloud.
 
 ## Related people
 

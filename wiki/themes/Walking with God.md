@@ -229,6 +229,12 @@ and gluttons, the prostitute.
 
 See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 
+### Moving when he moves — Numbers 9:15–23
+
+Journeying and camping are both *at the commandment of Yahweh*, seven times in the Hebrew (*ʿal-pî YHWH*, WLC). The picture is literal: a people going where the sign goes and stopping where it stops.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -285,6 +291,7 @@ See [[Do Not Envy Sinners]]. Source: stored WEB Proverbs 23:12–24:2.
 - [[The Young Man Void of Understanding]] — Proverbs 7:8, 25, 27; the way to her house, and her paths
 - [[Wisdom Calls at the Gates]] — Proverbs 8:2, 20; Wisdom at the crossroads, walking the paths of justice
 - [[Do Not Envy Sinners]] — Proverbs 23:19, 26; The heart kept on the right path, the eyes kept in the father's ways.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; camp and march both follow Yahweh's lead.
 
 ## Related themes
 

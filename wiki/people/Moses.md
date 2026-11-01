@@ -888,6 +888,12 @@ Moses says he has no ruling for the unclean men, and he asks Yahweh. The man who
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### By Moses — Numbers 9:23
+
+The cloud is in sight of all Israel, and yet the unit ends by saying that Yahweh's command came *by Moses*. How the sign and the man worked together is not stated.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1126,6 +1132,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 7:1–9, 89 — Accepts the gifts, and hears the voice from the mercy seat. [[The Offerings of the Twelve Princes]]
 - Numbers 8:5–22 — Carries out the Levites' cleansing with Aaron and the congregation. [[The Lamps and the Levites Cleansed]]
 - Numbers 9:1–14 — Orders the Passover, and takes the unclean men's case to Yahweh. [[The Passover in the Second Year]]
+- Numbers 9:15–23 — Named last, as the one by whom the command to move and stop was given. [[The Cloud over the Tabernacle]]
 
 ## Appears in
 
@@ -1354,6 +1361,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–9, 89; distributes the wagons and hears the voice.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:4–15, 20; receives the words and carries out the rite.
 - [[The Passover in the Second Year]] — Numbers 9:4, 6–8; says *Wait*, and asks Yahweh.
+- [[The Cloud over the Tabernacle]] — Numbers 9:23; the command given *by Moses*.
 
 ## Related people
 

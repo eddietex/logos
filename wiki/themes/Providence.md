@@ -361,6 +361,12 @@ happen. See [[The Way of the Wind - Ecclesiastes 11.5 and John 3.8]].
 See [[Cast Your Bread on the Waters]]. Source: stored WEB Ecclesiastes 11:1–6; comparison sources
 are identified on the passage and connection pages.
 
+### The length of every stop — Numbers 9:15–23
+
+One night, two days, a month, or longer (21–22): the unit lists the lengths and gives a reason for none of them. Israel is not told the plan, only the next move. The text shows guidance and withholds the explanation.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; the work of God who does all, known only as unknown (11:5).
@@ -528,6 +534,7 @@ are identified on the passage and connection pages.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The cloud determines both departure and waiting throughout Israel’s journeys.
 - [[If You Seek Her as Silver]] — Proverbs 2:7–8, 11; God as shield and guard, his keeping carried out by wisdom in the son
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:1; *"You don't know what a day may bring"*: tomorrow is not owned.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; route and timing set by the cloud, with no reason given.
 
 ## Related themes
 

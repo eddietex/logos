@@ -44,6 +44,8 @@ from between the cherubim.
 cleansed, and offered as a wave offering for Israel, to serve from twenty-five to fifty.
 [[The Passover in the Second Year]] (9:1–14)
 keeps the feast at Sinai, and a question from men unclean by the dead yields a second date in the second month.
+[[The Cloud over the Tabernacle]] (9:15–23) then gives the rule of every journey before the first one starts:
+the camp moves when the cloud rises, stays while it stays, and calls both *the commandment of Yahweh*.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -78,7 +80,7 @@ merge, or reorder them freely.
 - [x] [[The Offerings of the Twelve Princes]] — Numbers 7:1–89
 - [x] [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26
 - [x] [[The Passover in the Second Year]] — Numbers 9:1–14
-- [ ] The Cloud over the Tabernacle — Numbers 9:15–23
+- [x] [[The Cloud over the Tabernacle]] — Numbers 9:15–23
 - [ ] The Two Silver Trumpets — Numbers 10:1–10
 - [ ] The March from Sinai — Numbers 10:11–36
 - [ ] The Fire at Taberah — Numbers 11:1–3

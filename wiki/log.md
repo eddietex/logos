@@ -20924,3 +20924,27 @@ Numbers, Exodus, and Leviticus from `raw/bible/`; 2 Chronicles 30:2–3, 13–20
 16:2–7, Ezra 6:19–21, and John 11:55; 18:28 verified at bible-api.com. Greek of John not checked. Commentary,
 lexicons, and grammars not consulted. Counts: 283 passages, 201 people, 104 places, 86 themes, 620
 connections. Next: The Cloud over the Tabernacle, Numbers 9:15–23.
+
+## [2026-11-01] ingest | Numbers 9.15-23 — The Cloud over the Tabernacle
+
+Created [[The Cloud over the Tabernacle]] and two connections:
+[[Over the Tent and Before the People - Where the Cloud Stood]] and
+[[Under the Cloud - Numbers 9 in Israel's Memory]]. Revised [[God]], [[Moses]], [[Horeb]], eight themes, two
+existing connections, six passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary and title kept. The unit names no place, so [[Horeb]] gets the entry as the
+camp's setting (9:5, 10:12). No page for the cloud itself; the existing thread page carries it, and the two new
+pages cover the questions it left open. Aaron gets no entry, since he is not in the unit. The trumpets, Hobab, and
+the ark on the march stay as references for their own units. *A year* at 9:22 is kept as WEB's rendering of
+*yāmîm*, with the wiki resting nothing on it.
+
+Tensions flagged, not resolved: where the cloud stood on the march (Numbers 2:17, 9:17, 10:33–34, 14:14;
+Exodus 13:21; Deuteronomy 1:33); who picks the campsite, including Hobab at 10:31; how Moses entered a tent the
+cloud covered continually, against Exodus 40:35; and the cloud leaving at Numbers 12:10 with no march.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags, so counts and *only*
+claims depend on that tagging; Numbers 17 verse numbers from the tags are Hebrew numbering. WEB of Numbers, Exodus,
+and Leviticus from `raw/bible/`; Deuteronomy 1:2, 33, 46, Nehemiah 9:12, 17–19, Psalms 78:14; 105:39, Isaiah 4:5,
+and 1 Corinthians 10:1–2 verified at bible-api.com. Greek of 1 Corinthians and the ancient versions at 9:16 not
+checked. Commentary, lexicons, and grammars not consulted. Counts: 284 passages, 201 people, 104 places, 86 themes,
+622 connections. Next: The Two Silver Trumpets, Numbers 10:1–10.

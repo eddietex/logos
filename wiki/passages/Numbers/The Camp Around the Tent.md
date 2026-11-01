@@ -154,6 +154,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - Joshua 3:4 — a space of about two thousand cubits between the people and the ark, on another
   occasion *(not yet ingested; WEB verified at bible-api.com)*.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–83; the camp order, used for the altar gifts
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the signal that set this order moving
 
 ## Notes
 

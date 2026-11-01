@@ -51,6 +51,12 @@ Israel keeps the Passover in the wilderness of Sinai, though Exodus 12:25 and 13
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### A rule for moving — Numbers 9:15–23
+
+With no land and no fixed camp, Israel gets a rule instead of a map. A stop may last a night or far longer, and the people may not know which.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -59,6 +65,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1, 19; the book's opening.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; a camp in order, ready to move.
 - [[The Passover in the Second Year]] — Numbers 9:1–5; the Passover kept at Sinai.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; how the wilderness journeys were to work.
 
 ## Related themes
 

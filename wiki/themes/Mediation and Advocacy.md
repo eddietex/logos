@@ -368,6 +368,12 @@ Moses does not plead here. He stops and goes to ask, and he returns with more th
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### By Moses — Numbers 9:23
+
+A sign in sight of all Israel still ends with *by the hand of Moses* (*bəyad-Mōšeh*, WLC). Why it needed him is not stated.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -624,6 +630,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:89; Moses alone hears the voice.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:19; a tribe set between Israel and the danger.
 - [[The Passover in the Second Year]] — Numbers 9:6–10; Moses takes the men's question to Yahweh.
+- [[The Cloud over the Tabernacle]] — Numbers 9:23; a public sign, and the command still *by Moses*.
 
 ## Related themes
 

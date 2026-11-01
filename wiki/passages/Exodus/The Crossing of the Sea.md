@@ -674,6 +674,7 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
 - Exodus 23:20, 27; 32:34; 33:2 — the angel sent before; *"I will confuse"* — [[The Angel Sent Ahead]]
   (32:34 and 33:2 *not yet ingested*)
 - Numbers 15:30; 33:3, 6–8 — *"with a high hand"*; the itinerary *(not yet ingested)*
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the cloud now over the Tent, with no *pillar*
 - Deuteronomy 1:30; 3:22; 20:4 — *"he will fight for you"* *(not yet ingested)*
 - Deuteronomy 11:4 — *"he made the water of the Red Sea to overflow them as they pursued you"* *(not yet
   ingested)*

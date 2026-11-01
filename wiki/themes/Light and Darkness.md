@@ -326,6 +326,12 @@ The lamps are lit by Aaron for the first time in the narrative, and they are to 
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Fire until morning — Numbers 9:15–16
+
+The appearance of fire stays over the tabernacle from evening until morning. Unlike Exodus 13:21, the unit gives it no stated purpose of lighting the way. Inside, the lamps of Numbers 8:1–4 burn in the same hours (Exodus 27:21).
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
@@ -480,6 +486,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; morning, moon, and sun.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:25; light as the turned face of Yahweh.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4; Aaron lights the seven lamps.
+- [[The Cloud over the Tabernacle]] — Numbers 9:15–16; the appearance of fire over the tabernacle by night.
 
 ## Related themes
 

@@ -864,6 +864,12 @@ Moses has no answer and says *Wait*. The ruling that follows is general, *of you
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### Waiting as keeping the charge — Numbers 9:19, 23
+
+*Mišmeret YHWH*, *Yahweh's charge*, the phrase of the priests' seven days at Leviticus 8:35, is here said of all Israel, and in verse 19 it means staying where they are. Verse 23 reports that they kept it. Numbers will soon test that report.
+
+See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1068,6 +1074,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Nazirite Vow]] — Numbers 6:13, 21; a chosen law, exactly binding.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:3, 20, 22; each command carried out.
 - [[The Passover in the Second Year]] — Numbers 9:5–14; a case referred up and answered as law.
+- [[The Cloud over the Tabernacle]] — Numbers 9:19, 23; staying put called keeping Yahweh's charge.
 
 ## Related themes
 
