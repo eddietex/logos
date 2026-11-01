@@ -20983,7 +20983,7 @@ Created [[The March from Sinai]], [[Hobab]], and two connections:
 [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]] and
 [[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]]. Revised [[God]], [[Moses]], [[Jethro]], [[Zipporah]],
 [[Nahshon]], [[The Twelve Tribal Princes]], [[Gershon]], [[Kohath]], [[Merari]], the twelve tribe pages, [[Horeb]], [[Paran]],
-[[Midian]], ten themes, five existing connections, eight passages, and the book, category, and top indexes.
+[[Midian]], ten themes, four existing connections, eight passages, and the book, category, and top indexes.
 
 Judgment calls: the plan's boundary and title kept. [[Hobab]] gets his own page, apart from [[Jethro]], and the wiki adopts no
 reading of *ḥōtēn mōšeh* at verse 29. No page for the ark, as the connections carry it. No page for the Kenites yet. [[Aaron]] and
