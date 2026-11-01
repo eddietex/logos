@@ -20878,7 +20878,7 @@ Created [[The Lamps and the Levites Cleansed]] and three connections:
 [[Cleansed, Not Anointed - The Levites of Numbers 8 and the Priests of Leviticus 8]],
 [[The Levites as a Wave Offering - Tenufah from the Breast to the Tribe]], and
 [[A Razor over All Their Flesh - Leviticus 14, Numbers 6, and Numbers 8]]. Revised seven people, eleven
-themes, [[Egypt]], [[Horeb]], eight existing connections, ten passages, and the book, category, and top
+themes, [[Egypt]], [[Horeb]], seven existing connections, eleven passages, and the book, category, and top
 indexes.
 
 Judgment calls: the plan's boundary kept, joining the lamps (1–4) to the Levites (5–26) as one unit, since
