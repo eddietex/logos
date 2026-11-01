@@ -428,6 +428,12 @@ The Levites are cleansed although no impurity is named. The rite uses water, a r
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Unclean and not at fault — Numbers 9:6–13
+
+The men are *unclean because of the dead body of a man* and call it no sin. Uncleanness keeps them from the offering, and they ask why. Yahweh keeps the rule and moves the date. Verse 13 then sets *clean* against *unclean* as the test of who has an excuse.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -552,6 +558,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Suspected Wife]] — Numbers 5:11–31; defilement that cannot be seen, and the word *clean* as vindication.
 - [[The Nazirite Vow]] — Numbers 6:6–12; uncleanness that undoes a vow.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–22; cleansing as readiness for the Tent.
+- [[The Passover in the Second Year]] — Numbers 9:6–13; uncleanness that delays a duty but does not cancel it.
 
 ## Related themes
 

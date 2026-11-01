@@ -858,6 +858,12 @@ The chapter reports obedience at each step. Aaron *did so* (3), and verses 20 an
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### A case with no ruling — Numbers 9:6–14
+
+Moses has no answer and says *Wait*. The ruling that follows is general, *of you or of your generations* (10). Law here grows out of a question. See [[Wait, That I May Hear - The Cases Moses Took to Yahweh]].
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1061,6 +1067,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Suspected Wife]] — Numbers 5:29–30; *the law of jealousy*.
 - [[The Nazirite Vow]] — Numbers 6:13, 21; a chosen law, exactly binding.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:3, 20, 22; each command carried out.
+- [[The Passover in the Second Year]] — Numbers 9:5–14; a case referred up and answered as law.
 
 ## Related themes
 

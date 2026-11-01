@@ -36,5 +36,6 @@ Source: both passages checked in the repository's raw WEB Exodus and Leviticus t
 
 [[Festivals and First Fruits]] brings remembered deliverance into recurring sacred time.
 The parallel shows continuity without reducing two differently detailed laws to identical
-instructions. Read the festival work restrictions beside [[Sabbath]], not as proof that
+instructions. [[The Passover in the Second Year]] (Numbers 9:1–14) then sets a second date for those
+who could not keep the first. Read the festival work restrictions beside [[Sabbath]], not as proof that
 all sacred days carry exactly the same rules.

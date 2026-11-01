@@ -96,6 +96,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   and the distinction between legal redress and nonretaliation.
 - [[Blasphemy Forbidden and Judged - Exodus 22 and Leviticus 24]] — prohibition
   followed by a narrated case and sentence.
+- [[Wait, That I May Hear - The Cases Moses Took to Yahweh]] — the open cases Moses took to Yahweh
 
 ## Notes
 

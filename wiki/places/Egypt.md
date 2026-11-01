@@ -198,6 +198,12 @@ Egypt is named once, in the repeated claim: Yahweh sanctified Israel's firstborn
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### The year counted from it — Numbers 9:1
+
+The Passover at Sinai is dated from the coming out of Egypt, *in the first month of the second year*. The feast that recalls leaving it is the one reckoned by it.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Appears in
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the land of the struck firstborn.
@@ -448,6 +454,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
   (*ʾēṭûn miṣrāyim*), Egyptian linen as an imported luxury on the strange woman's couch
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the date is reckoned from the exodus.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:17; the land of the struck firstborn.
+- [[The Passover in the Second Year]] — Numbers 9:1; the point the year is counted from.
 
 ## Related places
 

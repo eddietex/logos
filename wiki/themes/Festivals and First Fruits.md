@@ -122,6 +122,11 @@ before the festival calendar of chapter 23 restates the date. See
 
 See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
 
+### A second date — Numbers 9:1–14
+
+The first feast the Bible narrates after Egypt is kept at Sinai on its date (5). A second date, the fourteenth of the second month, is then set for those unclean by a dead body or far away (10–11). The feast stays fixed, and access to it is made wider. The clean man who stays away is cut off (13).
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Key passages
 
@@ -152,6 +157,7 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 - [[Laws of Holiness and Compassion]] — Exodus 22:29.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:14–19.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; first fruits of all one's increase, and full barns
+- [[The Passover in the Second Year]] — Numbers 9:1–14; the feast at its date, and a later date for those who could not come.
 
 ## Related themes
 

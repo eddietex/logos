@@ -115,6 +115,12 @@ bodies in Abraham's household and descendants; the other governs Israel's recurr
 
 See [[Bezalel, Oholiab, and the Sabbath Sign]].
 
+### Silent at the Passover — Numbers 9:14
+
+Exodus 12:48 made circumcision the condition for a stranger at the Passover. Numbers 9:14 opens with the same words and does not mention it. The wiki does not take that silence as repeal; see [[One Law for the Native and the Stranger]] and [[Kept in the Wilderness - The Passovers of Egypt, Sinai, and Gilgal]].
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -176,6 +182,7 @@ See [[Bezalel, Oholiab, and the Sabbath Sign]].
   it"***. **Genesis 17's household rule becomes the admission rule for Israel's founding rite.** See
   [[One Law for the Native and the Stranger]] and [[Uncircumcised Lips, Ears, and Heart]]
 - [[Laws of Holiness and Compassion]] — Exodus 22:30; the firstborn animal given on the eighth day
+- [[The Passover in the Second Year]] — Numbers 9:14; the rule of Exodus 12:48 not repeated.
 
 ## Related themes
 

@@ -158,6 +158,12 @@ promise is future, not a report of conquest completed. See [[The Covenant Renewe
 
 See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
 
+### One statute for the stranger — Numbers 9:14
+
+The stranger who keeps the Passover does so by the same statute as the native, *ḥuqqâ ʾaḥat* (WLC). See [[One Law for the Native and the Stranger]].
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -404,6 +410,7 @@ See [[A Way That Seems Right]]. Source: stored WEB Proverbs 14.
   [[Blessed Be God Who Delivered - Melchizedek and Jethro]]
 - [[Israel at Mount Sinai]] — Exodus 19:5–6; a particular nation within the God-owned earth
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; six peoples to be driven out, for their gods' sake.
+- [[The Passover in the Second Year]] — Numbers 9:14; the stranger at the Passover.
 
 ## Related themes
 

@@ -488,6 +488,7 @@ land.** The wiki records both and adopts neither.
 - Isaiah 31:5 — *"He will pass over and preserve it"* *(not yet ingested)*
 - John 1:29; 1 Corinthians 5:7–8; Hebrews 11:28; 1 Peter 1:18–19 — the Passover in the New Testament —
   [[Christ Our Passover - Exodus 12 in the New Testament]]
+- [[The Passover in the Second Year]] — Numbers 9:1–14; the Passover kept at Sinai, and the second date
 
 ## Notes
 

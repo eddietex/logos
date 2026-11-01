@@ -755,6 +755,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; where the count is ordered.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–89; the camp at Sinai, by the wider setting.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; the camp at Sinai, by the wider setting.
+- [[The Passover in the Second Year]] — Numbers 9:1–14; the Passover kept in the wilderness of Sinai.
 
 ## Related places
 

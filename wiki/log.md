@@ -20899,3 +20899,28 @@ depend on that tagging. WEB of Numbers, Exodus, and Leviticus from `raw/bible/`;
 Acts 6:6 and 13:3 verified at bible-api.com. Greek of Romans not checked. Commentary, lexicons, and grammars not
 consulted. Counts: 282 passages, 201 people, 104 places, 86 themes, 617 connections. Next: The Passover in the
 Second Year, Numbers 9:1–14.
+
+## [2026-11-01] ingest | Numbers 9.1-14 — The Passover in the Second Year
+
+Created [[The Passover in the Second Year]] and three connections:
+[[Wait, That I May Hear - The Cases Moses Took to Yahweh]],
+[[The Second Month - Numbers 9 and Hezekiah's Passover]], and
+[[Kept in the Wilderness - The Passovers of Egypt, Sinai, and Gilgal]]. Revised three people, ten themes,
+[[Egypt]], [[Horeb]], five existing connections, six passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary and title kept, with the cloud (9:15–23) left as the next unit. The
+unnamed men get no page. [[Moses]] and [[Aaron]] get entries; Aaron's is that he is named and silent. The
+possible link to [[Mishael (son of Uzziel)]] and [[Elzaphan (son of Uzziel)]] is left on the passage page as
+the wiki's arithmetic only, naming no one, and their pages are not changed. The link between Numbers 9 and
+Hezekiah rests on the date, since the Chronicler does not cite Numbers.
+
+Tensions flagged, not resolved: where corpse-unclean men lived, given Numbers 5:2; Exodus 12:25 and 13:5 on
+the land against a Passover at Sinai; Exodus 12:47 against a later date; circumcision absent from 9:14 and
+the wilderness generation of Joshua 5:5; and whether the second-month Passover was kept at Sinai at all.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's tags, so *only* claims depend on
+that tagging. The dot over *rəḥōqâ* at 9:10 is in the WLC text and is reported without interpretation. WEB of
+Numbers, Exodus, and Leviticus from `raw/bible/`; 2 Chronicles 30:2–3, 13–20, Joshua 5:5–10, Deuteronomy
+16:2–7, Ezra 6:19–21, and John 11:55; 18:28 verified at bible-api.com. Greek of John not checked. Commentary,
+lexicons, and grammars not consulted. Counts: 283 passages, 201 people, 104 places, 86 themes, 620
+connections. Next: The Cloud over the Tabernacle, Numbers 9:15–23.

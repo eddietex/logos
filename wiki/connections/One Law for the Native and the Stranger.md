@@ -16,7 +16,7 @@ tags: [connection]
 - **Leviticus 24:22** — *"You shall have one kind of law for the foreigner as well as the native-born; for I
   am Yahweh your God"* — [[The Blasphemer and One Law for All]]
 - **Numbers 9:14** — the Passover again: *"You shall have one statute, both for the foreigner, and for him
-  who is born in the land"* *(not yet ingested)*
+  who is born in the land"* — [[The Passover in the Second Year]]
 - **Numbers 15:15–16** — the offerings: *"there shall be one statute for you and for the stranger who lives
   as a foreigner, a statute forever throughout your generations. As you are, so shall the foreigner be
   before Yahweh. One law and one ordinance shall be for you, and for the stranger who lives as a foreigner

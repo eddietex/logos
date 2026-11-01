@@ -70,6 +70,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. The complete eight-verse unit:
 - [[Passover and Unleavened Bread - Exodus 12 and Leviticus 23]] — dates, assembly days, and the food-preparation exception in Exodus 12:16.
 - [[Creation as the Ground of the Sabbath Command]] — the six-and-seven pattern persists;
   Leviticus 23:3 does not repeat Exodus 20:11's creation rationale.
+- [[The Passover in the Second Year]] — Numbers 9:1–5; the date kept at Sinai
 
 ## Notes
 

@@ -106,6 +106,7 @@ verses 2–4.
 - Numbers 18:8–11 — the priests' share set out in full *(not yet ingested; stored WEB)*.
 - Numbers 19:11–22 — cleansing from contact with the dead *(not yet ingested; stored WEB)*.
 - Numbers 31:19 — seven days outside the camp after battle *(not yet ingested; stored WEB)*.
+- [[The Passover in the Second Year]] — Numbers 9:6; men unclean by the dead before Moses and Aaron
 
 ## Notes
 
@@ -179,7 +180,8 @@ wiki leaves the first half open.
    mention it. See [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]].
 4. **The rates.** Exodus 22 sets multiples for theft, and this law sets a fifth. The earlier page records
    the gap; see [[Restitution to the Neighbor and for Holy Things]].
-5. **Numbers 9.** Men *unclean because of the dead body of a man* come before Moses and Aaron at 9:6.
+5. **Numbers 9.** Men *unclean because of the dead body of a man* come before Moses and Aaron at 9:6, in
+   [[The Passover in the Second Year]].
    The text does not say where they were living.
 
 **Scope and sources.** WEB quoted from `raw/bible/`; Deuteronomy 23:10–14, 2 Kings 7:3, 2 Chronicles

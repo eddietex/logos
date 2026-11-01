@@ -616,6 +616,12 @@ Israel lays hands on the Levites and Aaron offers them as a *tənûpâ*, the onl
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### The offering of Yahweh — Numbers 9:7, 13
+
+The men call the Passover *qorban YHWH*, the phrase of Leviticus 1:2. By the tags (WLC), verse 13 is the only verse with both *qorbān* and *pesaḥ*. Exodus 12:27 had used *zebaḥ*.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -803,7 +809,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
   place, and its cooking verb is disputed — see the table on the passage page
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:43–49; **the Passover sacrifice given its admission rules.** Eaten *"in one
   house"*, none of the meat carried out, ***"Do not break any of its bones"*** — no reason given; repeated
-  at Numbers 9:12 and taken up by John 19:36. See
+  at Numbers 9:12, in [[The Passover in the Second Year]], and taken up by John 19:36. See
   [[Christ Our Passover - Exodus 12 in the New Testament]]
 - [[The Consecration of the Firstborn]] — Exodus 13:12–15; ***"Therefore I sacrifice to Yahweh all that opens the
   womb, being males; but all the firstborn of my sons I redeem"*** — **the law's whole shape in two verbs.**
@@ -845,6 +851,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Nazirite Vow]] — Numbers 6:9–20; offerings for a broken and for a finished vow.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:10–88; twelve equal gifts for the altar.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:10–21; a tribe presented as a wave offering.
+- [[The Passover in the Second Year]] — Numbers 9:7, 13; the Passover named a *qorbān*.
 
 ## Related themes
 

@@ -309,6 +309,12 @@ fields of the fatherless"*. Deuteronomy 19:14 and 27:17 (not yet stored) carry t
 
 See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]]. Source: stored WEB Proverbs 22:17–23:11.
 
+### Born in the land, at Sinai — Numbers 9:14
+
+*ʾEzraḥ hāʾāreṣ*, *him who is born in the land*, is said to a people camped in a wilderness. As at Exodus 12:48, the category is drawn before the land is held.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -619,6 +625,7 @@ See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and t
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Exodus closes with a dwelling for God and continuing journeys for Israel.
 - [[If You Seek Her as Silver]] — Proverbs 2:21–22; the upright dwell in the land, the wicked cut off and rooted out; the tension with the sojourners and Job recorded
 - [[Thirty Excellent Things]] — Proverbs 22:28; 23:10; The ancient boundary stone set by the fathers.
+- [[The Passover in the Second Year]] — Numbers 9:14; *born in the land*, said before the land.
 
 ## Related themes
 

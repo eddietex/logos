@@ -882,6 +882,12 @@ Receives the new speech at 5:14; the valuation language belongs to the instructi
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]].
 
+### Wait, that I may hear — Numbers 9:6–14
+
+Moses says he has no ruling for the unclean men, and he asks Yahweh. The man who has passed on every law so far is shown here not yet knowing one. How he inquired is not stated.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1119,6 +1125,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 6:22–27 — Receives the words of blessing for Aaron and his sons. [[Yahweh Bless You and Keep You]]
 - Numbers 7:1–9, 89 — Accepts the gifts, and hears the voice from the mercy seat. [[The Offerings of the Twelve Princes]]
 - Numbers 8:5–22 — Carries out the Levites' cleansing with Aaron and the congregation. [[The Lamps and the Levites Cleansed]]
+- Numbers 9:1–14 — Orders the Passover, and takes the unclean men's case to Yahweh. [[The Passover in the Second Year]]
 
 ## Appears in
 
@@ -1346,6 +1353,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–23; passes on the words.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–9, 89; distributes the wagons and hears the voice.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:4–15, 20; receives the words and carries out the rite.
+- [[The Passover in the Second Year]] — Numbers 9:4, 6–8; says *Wait*, and asks Yahweh.
 
 ## Related people
 

@@ -42,6 +42,8 @@ wagons for the Levites, twelve identical gifts over twelve days in camp order, a
 from between the cherubim.
 [[The Lamps and the Levites Cleansed]] (8:1–26) has Aaron light the lamps, then has the Levites shaved,
 cleansed, and offered as a wave offering for Israel, to serve from twenty-five to fifty.
+[[The Passover in the Second Year]] (9:1–14)
+keeps the feast at Sinai, and a question from men unclean by the dead yields a second date in the second month.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -75,7 +77,7 @@ merge, or reorder them freely.
 - [x] [[Yahweh Bless You and Keep You]] — Numbers 6:22–27
 - [x] [[The Offerings of the Twelve Princes]] — Numbers 7:1–89
 - [x] [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26
-- [ ] The Passover in the Second Year — Numbers 9:1–14
+- [x] [[The Passover in the Second Year]] — Numbers 9:1–14
 - [ ] The Cloud over the Tabernacle — Numbers 9:15–23
 - [ ] The Two Silver Trumpets — Numbers 10:1–10
 - [ ] The March from Sinai — Numbers 10:11–36
@@ -137,6 +139,7 @@ merge, or reorder them freely.
 - [[Atonement]] — made for the Levites, and by them for Israel
 - [[Light and Darkness]] — the seven lamps lit
 - [[Work]] — Levite service with an age limit
+- [[Festivals and First Fruits]] — the Passover kept, and a second date set
 
 ## Key people
 

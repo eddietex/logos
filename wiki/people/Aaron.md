@@ -458,6 +458,12 @@ Verse 3 is the first narrated time Aaron lights the lamps, as Exodus 30:8 said h
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Named and silent — Numbers 9:6
+
+The unclean men come before Moses and Aaron, and they then speak *to him*, singular (7, WLC). Moses answers. Aaron has no line in the unit, and the unit does not mention priests at all.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Timeline / key events
 
 - Exodus 35:1–29 — Still named as priest in the public garment commission after the calf. See [[The Freewill Offering]].
@@ -612,6 +618,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 6:22–27 — Given the words of blessing with his sons. [[Yahweh Bless You and Keep You]]
 - Numbers 7:8 — Named only as Ithamar's father. [[The Offerings of the Twelve Princes]]
 - Numbers 8:1–3, 11, 21 — Lights the lamps, and offers the Levites. [[The Lamps and the Levites Cleansed]]
+- Numbers 9:6 — The unclean men come before him and Moses. [[The Passover in the Second Year]]
 
 ## Appears in
 
@@ -744,6 +751,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:23; given the words with his sons.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; named only as Ithamar's father.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:2–3, 11, 21; lights the lamps and offers the Levites.
+- [[The Passover in the Second Year]] — Numbers 9:6; named, and silent.
 
 ## Related people
 

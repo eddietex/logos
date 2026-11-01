@@ -547,6 +547,12 @@ The verb is *ḥāṭāʾ* (11, WLC), of something that happened suddenly beside
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### He shall bear his sin — Numbers 9:13
+
+The sin named is an omission: a clean man who could keep the Passover and does not. *Ḥeṭʾô yiśśāʾ* is the phrase of Leviticus 24:15, and the penalty is to be cut off.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -805,6 +811,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[Wisdom at the Creation]] — Proverbs 8:36; *"he who sins against me wrongs his own soul"* — missing Wisdom as violence to oneself
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–7; a human wrong as a trespass against Yahweh.
 - [[The Nazirite Vow]] — Numbers 6:11; *ḥāṭāʾ* with no intention.
+- [[The Passover in the Second Year]] — Numbers 9:13; a duty left undone.
 
 ## Related themes
 

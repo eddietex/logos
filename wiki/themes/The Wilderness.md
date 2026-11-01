@@ -45,6 +45,12 @@ See [[The Camp Around the Tent]]. Source: stored WEB Numbers 2.
 Numbers 26:65 reports the sentence carried out: *They shall surely die in the wilderness*. Acts 7:38
 later calls Israel *the assembly in the wilderness*.
 
+### A feast in the wilderness — Numbers 9:1–5
+
+Israel keeps the Passover in the wilderness of Sinai, though Exodus 12:25 and 13:5 spoke of keeping it in the land. See [[Kept in the Wilderness - The Passovers of Egypt, Sinai, and Gilgal]].
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -52,6 +58,7 @@ later calls Israel *the assembly in the wilderness*.
 - [[Manna and Quail]] — Exodus 16; hunger and bread.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1, 19; the book's opening.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; a camp in order, ready to move.
+- [[The Passover in the Second Year]] — Numbers 9:1–5; the Passover kept at Sinai.
 
 ## Related themes
 

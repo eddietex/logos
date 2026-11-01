@@ -11,7 +11,8 @@ tags: [connection]
 - [[Examining Diseases of the Skin]] — Leviticus 13:45–46.
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33.
 - [[Eating the Holy Things]] — Leviticus 22:4.
-- Numbers 9:6–10; 12:10–15; 19:11–22; 31:19 — stored WEB, not yet ingested.
+- [[The Passover in the Second Year]] — Numbers 9:6–10.
+- Numbers 12:10–15; 19:11–22; 31:19 — stored WEB, not yet ingested.
 - Deuteronomy 23:10–14; 2 Kings 7:3; 2 Chronicles 26:21; Luke 17:12–14 — WEB, not yet ingested.
 
 ## Analysis

@@ -2703,6 +2703,12 @@ Yahweh speaks to Moses, identifies liability even without knowledge, and provide
 
 See [[The Trespass Offering for Holy Things and Unknown Guilt]].
 
+### The answer wider than the question — Numbers 9:9–14
+
+The men asked about themselves. Yahweh answers for every generation, adds the traveller and the stranger, and warns the man who has no excuse. He is not asked how they became unclean, and he does not raise it.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Timeline / key events
 
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
@@ -3104,6 +3110,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 6:22–27 — Gives the priests the blessing, and says he will bless. [[Yahweh Bless You and Keep You]]
 - Numbers 7:4–5, 11, 89 — Accepts the wagons, sets the days, and speaks from above the mercy seat. [[The Offerings of the Twelve Princes]]
 - Numbers 8:14–19 — Claims the Levites and gives them to Aaron. [[The Lamps and the Levites Cleansed]]
+- Numbers 9:1–14 — Orders the Passover, and gives the second date. [[The Passover in the Second Year]]
 
 ## Appears in
 
@@ -3728,6 +3735,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:24–27; the subject of every verb of the blessing.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:4–5, 11, 89; accepts the wagons, sets the days, and speaks from the mercy seat.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1, 5–19, 23–26; takes the Levites and gives them to Aaron.
+- [[The Passover in the Second Year]] — Numbers 9:1–3, 9–14; orders the feast and rules on the case.
 
 ## Related people
 

@@ -23,7 +23,8 @@ tags: [connection]
 - **Luke 22:15** — *"I have earnestly desired to eat this Passover with you before I suffer"* (WEB)
 - **John 19:14, 36** — *"the Preparation Day of the Passover"*; *"A bone of him will not be broken"*
   (WEB), with Exodus 12:46 — *"Do not break any of its bones"*, at
-  [[The Death of the Firstborn and the Departure]] — Numbers 9:12, and Psalm 34:20
+  [[The Death of the Firstborn and the Departure]] — Numbers 9:12, at
+  [[The Passover in the Second Year]], and Psalm 34:20
 
 ## Analysis
 

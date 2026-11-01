@@ -362,6 +362,12 @@ The Levites are placed between Israel and the sanctuary, and Israel's hands have
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Wait, that I may hear — Numbers 9:8
+
+Moses does not plead here. He stops and goes to ask, and he returns with more than was requested. The men make their own case, and Moses carries it.
+
+See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -617,6 +623,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[Thirty Excellent Things]] — Proverbs 22:23; 23:11; Yahweh pleads the case of the poor and the fatherless.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:89; Moses alone hears the voice.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:19; a tribe set between Israel and the danger.
+- [[The Passover in the Second Year]] — Numbers 9:6–10; Moses takes the men's question to Yahweh.
 
 ## Related themes
 

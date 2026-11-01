@@ -13,7 +13,7 @@ tags: [connection]
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1; first day, second month
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 10–11, 84; *on the day*, and twelve days
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; no date, between two units that have one
-- Numbers 9:1–5 — the Passover in the first month *(not yet ingested; stored WEB)*
+- [[The Passover in the Second Year]] — Numbers 9:1–5; the Passover in the first month
 
 ## Analysis
 
@@ -57,5 +57,4 @@ does this is not stated. It does mean that *the order of the book* is not an arg
 first. Harmonizing the three accounts into one calendar requires assumptions the texts do not supply,
 and the wiki leaves the start of the twelve days open.
 
-Source: WEB from `raw/bible/`; *bəyôm* at Numbers 7:1, 10, 84 from WLC (morphhb). Numbers 9 is stored but
-not yet ingested. The table is the wiki's arrangement. No commentary was consulted.
+Source: WEB from `raw/bible/`; *bəyôm* at Numbers 7:1, 10, 84 from WLC (morphhb). The table is the wiki's arrangement. No commentary was consulted.

@@ -125,6 +125,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the exchange counted
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–49; thirty to fifty
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1–89; the unit this one follows
+- [[The Passover in the Second Year]] — Numbers 9:1–14; the unit that follows
 
 ## Notes
 
