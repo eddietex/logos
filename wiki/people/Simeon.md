@@ -88,6 +88,12 @@ The tribe of Simeon gives on the fifth day of twelve, by the hand of Shelumiel. 
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Reuben — Numbers 10:19
+
+In Reuben's camp, under Shelumiel son of Zurishaddai.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her second son; *"Yahweh has heard that I am hated"* — Genesis 29:33,
@@ -111,6 +117,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 59,300. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Reuben's camp on the south. [[The Camp Around the Tent]]
 - Numbers 7:36–41 — Simeon gives fifth at the altar's dedication, through Shelumiel. [[The Offerings of the Twelve Princes]]
+- Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -180,6 +187,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 59,300.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Reuben's camp on the south.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:36–41; gives fifth, through Shelumiel.
+- [[The March from Sinai]] — Numbers 10:19; in the second camp, under Shelumiel.
 
 ## Related people
 

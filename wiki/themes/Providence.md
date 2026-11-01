@@ -367,6 +367,12 @@ One night, two days, a month, or longer (21–22): the unit lists the lengths an
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### A guide as well — Numbers 10:29–34
+
+The cloud and ark are given as Israel's direction, and Moses still asks a Midianite for his eyes (31). The unit sets the two side by side and does not comment. See [[Over the Tent and Before the People - Where the Cloud Stood]].
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; the work of God who does all, known only as unknown (11:5).
@@ -535,6 +541,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[If You Seek Her as Silver]] — Proverbs 2:7–8, 11; God as shield and guard, his keeping carried out by wisdom in the son
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:1; *"You don't know what a day may bring"*: tomorrow is not owned.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; route and timing set by the cloud, with no reason given.
+- [[The March from Sinai]] — Numbers 10:29–34; God's leading and Hobab's knowledge in one paragraph.
 
 ## Related themes
 

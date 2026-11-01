@@ -65,7 +65,7 @@ reported to confirm.**
 arrive at Sinai only afterwards; Moses speaks of making the people know *"the statutes of God, and his laws"*
 (18:16) before the law has been given; and Jethro offers burnt offerings before any altar law. **Deuteronomy
 places the appointment of the judges when Israel was leaving Horeb** (Deuteronomy 1:6–18, by reference for
-1:6–8), and **Numbers has Moses' Midianite in-law leave at the departure from Sinai** (Numbers 10:29–32). Whether
+1:6–8), and **Numbers has Moses' Midianite in-law say he will leave at the departure from Sinai** (Numbers 10:29–32). Whether
 Exodus 18 is told out of chronological order — gathered here by subject, the foreign visitor set beside the
 foreign enemy — or in sequence is an old question; **the wiki records the tension and does not resolve it.**
 
@@ -457,7 +457,7 @@ third tradition** is set out on [[Jethro]].
 - Exodus 19:1–2 — the arrival at Sinai, after this chapter *(not yet ingested)*
 - Exodus 24:11, 13 — the elders *"saw God, and ate and drank"*; *"the Mountain of God"* — [[The Blood of the Covenant]]
 - Exodus 34:6 — *"abundant in loving kindness and truth"* *(not yet ingested)*
-- Numbers 10:29–32 — Hobab: *"I will depart to my own land"* *(not yet ingested)*
+- [[The March from Sinai]] — Numbers 10:29–32; Hobab: *"I will depart to my own land"*
 - Numbers 11:14–17 — *"I am not able to bear all this people alone"*; the seventy elders —
   [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] *(not yet ingested)*
 - Numbers 20:14 — *"all the travail that has happened to us"* *(not yet ingested)*

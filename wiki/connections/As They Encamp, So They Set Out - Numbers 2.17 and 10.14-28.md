@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Camp Around the Tent]] — Numbers 2:9, 16–17, 24, 31; the order commanded
 - [[The Levites and the Firstborn Counted]] — Numbers 3:23, 29, 35, 38; where the Levite clans camp
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:4–33; what each clan carries
-- Numbers 10:14–28 — the order carried out *(not yet ingested; stored WEB)*
+- [[The March from Sinai]] — Numbers 10:14–28, 33; the order carried out
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–83; the same order, used for giving before the march
 
 ## Analysis
@@ -36,6 +36,9 @@ structure goes ahead and is standing when the holy things come. Kohath, carrying
 the position verse 17 names. So the two chapters agree on Kohath and differ on Gershon and Merari,
 unless verse 17 is taken as a general statement of the Levites' place and chapter 10 as its detail.
 The text does not say which. The wiki records the difference and does not resolve it.
+
+Numbers 10:33 adds a further question. The ark is part of Kohath's load (3:31; 4:5, 15), and Kohath is in the middle at 10:21,
+yet *the ark of Yahweh's covenant went before them*. Neither chapter says how those fit.
 
 ## Significance
 

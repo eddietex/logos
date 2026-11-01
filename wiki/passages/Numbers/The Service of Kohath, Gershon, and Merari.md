@@ -193,7 +193,7 @@ of the action.
 - [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]]
 - [[The Offerings of the Twelve Princes]] — Numbers 7:6–9; wagons for Gershon and Merari, and the shoulder for Kohath.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:23–26; service from twenty-five.
-- Numbers 10:17, 21 — the two stages of the march *(not yet ingested; stored WEB)*.
+- [[The March from Sinai]] — Numbers 10:17, 21; the two stages of the march.
 - Numbers 16:8–11, 30–34 — the Kohathite Korah, and the earth that swallows *(not yet ingested; stored
   WEB)*.
 

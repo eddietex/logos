@@ -84,8 +84,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the same day, and Moses inside
 - [[The Passover in the Second Year]] — Numbers 9:1–14; the unit this one follows
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:35; *keep Yahweh's command* said to the priests
-- Numbers 10:11–12 — the first time the cloud rises *(stored WEB, not yet ingested)*
-- Numbers 10:29–36 — Hobab, the ark, and the cloud on the march *(stored WEB, not yet ingested)*
+- [[The March from Sinai]] — Numbers 10:11–12, 29–36; the first time the cloud rises, with Hobab and the ark
 - Numbers 12:10 — the cloud leaves the Tent with no march *(stored WEB, not yet ingested)*
 - Numbers 33:1–2 — the journey list, also *by the commandment of Yahweh* *(stored WEB, not yet ingested)*
 - Deuteronomy 1:33 — Yahweh seeking out the campsite *(WEB checked, not yet ingested)*

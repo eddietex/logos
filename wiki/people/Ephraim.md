@@ -99,6 +99,12 @@ The tribe of Ephraim gives on the seventh day of twelve, by the hand of Elishama
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The third standard — Numbers 10:22
+
+Ephraim's standard follows the Kohathites, with Elishama son of Ammihud over its army.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -113,6 +119,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 40,500, ahead of Manasseh. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the west camp and sets out third. [[The Camp Around the Tent]]
 - Numbers 7:48–53 — Ephraim gives seventh at the altar's dedication, through Elishama. [[The Offerings of the Twelve Princes]]
+- Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
 
@@ -139,6 +146,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 40,500, ahead of Manasseh.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the west camp and sets out third.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:48–53; gives seventh, through Elishama.
+- [[The March from Sinai]] — Numbers 10:22; leads the third camp, under Elishama.
 
 ## Related people
 

@@ -315,6 +315,12 @@ See [[Thirty Excellent Things]] and [[The Widow's Borders - Proverbs 15.25 and t
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### The place he promised — Numbers 10:29
+
+Moses tells Hobab *We are journeying to the place of which Yahweh said, "I will give it to you."* The land is unnamed here, and it is the reason for the march. Hobab answers with his own land (30).
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -626,6 +632,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[If You Seek Her as Silver]] — Proverbs 2:21–22; the upright dwell in the land, the wicked cut off and rooted out; the tension with the sojourners and Job recorded
 - [[Thirty Excellent Things]] — Proverbs 22:28; 23:10; The ancient boundary stone set by the fathers.
 - [[The Passover in the Second Year]] — Numbers 9:14; *born in the land*, said before the land.
+- [[The March from Sinai]] — Numbers 10:29–30; Moses names the goal, and Hobab his own land.
 
 ## Related themes
 

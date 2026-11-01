@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:52, *every man by his own standard*
 - [[The Camp Around the Tent]] — Numbers 2:2–34, eight of the occurrences
-- Numbers 10:14, 18, 22, 25 — the four standards on the march *(not yet ingested; stored WEB)*
+- [[The March from Sinai]] — Numbers 10:14, 18, 22, 25; the four standards on the march
 - [[Delight and the Unawakened Love]] — Song of Solomon 2:4, *His banner over me is love*
 - [[Altogether Lovely]] — Song of Solomon 5:10, the verb
 - [[My Dove Is Unique]] — Song of Solomon 6:4, 10, *awesome as an army with banners*

@@ -100,6 +100,12 @@ The tribe of Manasseh gives on the eighth day of twelve, by the hand of Gamaliel
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Ephraim — Numbers 10:23
+
+In Ephraim's camp, under Gamaliel son of Pedahzur.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -115,6 +121,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Smallest tribe, 32,200. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
 - Numbers 7:54–59 — Manasseh gives eighth at the altar's dedication, through Gamaliel. [[The Offerings of the Twelve Princes]]
+- Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -140,6 +147,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; smallest tribe, 32,200.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:54–59; gives eighth, through Gamaliel.
+- [[The March from Sinai]] — Numbers 10:23; in the third camp, under Gamaliel.
 
 ## Related people
 

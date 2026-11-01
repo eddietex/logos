@@ -142,6 +142,12 @@ The tribe of Reuben gives on the fourth day of twelve, by the hand of Elizur. It
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The second standard — Numbers 10:18
+
+Reuben's standard follows the tabernacle, with Elizur son of Shedeur over its army.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to Leah, the firstborn of the twelve; *"see, a son"* — Genesis 29:32,
@@ -169,6 +175,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe listed first as *Israel's firstborn*. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the south camp and sets out second. [[The Camp Around the Tent]]
 - Numbers 7:30–35 — Reuben gives fourth at the altar's dedication, through Elizur. [[The Offerings of the Twelve Princes]]
+- Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
 
@@ -247,6 +254,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe listed first as *Israel's firstborn*.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the south camp and sets out second.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:30–35; gives fourth, through Elizur.
+- [[The March from Sinai]] — Numbers 10:18; leads the second camp, under Elizur.
 
 ## Related people
 

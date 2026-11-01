@@ -116,6 +116,12 @@ The tribe of Dan gives on the tenth day of twelve, by the hand of Ahiezer. Its g
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The rear guard — Numbers 10:25
+
+Dan's standard goes last, *the rear guard of all the camps*, with Ahiezer son of Ammishaddai over its army.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"God has judged me"* — Genesis 30:5–6,
@@ -134,6 +140,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Second-largest tribe, 62,700. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the north camp and sets out last. [[The Camp Around the Tent]]
 - Numbers 7:66–71 — Dan gives tenth at the altar's dedication, through Ahiezer. [[The Offerings of the Twelve Princes]]
+- Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
 
@@ -198,6 +205,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; second-largest tribe, 62,700.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the north camp and sets out last.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:66–71; gives tenth, through Ahiezer.
+- [[The March from Sinai]] — Numbers 10:25; the rear guard of all the camps, under Ahiezer.
 
 ## Related people
 

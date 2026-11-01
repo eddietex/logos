@@ -203,6 +203,12 @@ The unit does not call the alarm prayer. Still, it is something done in danger w
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### A cry for each move — Numbers 10:35–36
+
+Moses addresses Yahweh in two short lines, one when the ark sets out and one when it rests. The first becomes a form of prayer in the Psalter. See [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]].
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
@@ -385,6 +391,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[Wisdom Calls in the Street]] — Proverbs 1:28; calling and not being answered, after a call refused; set against Proverbs 8:17 and Deuteronomy 4:29
 - [[Wisdom Calls at the Gates]] — Proverbs 8:17; *"Those who seek me diligently will find me"*, 1:28 without the negative
 - [[The Two Silver Trumpets]] — Numbers 10:9; an alarm in danger, heard as remembrance before Yahweh.
+- [[The March from Sinai]] — Numbers 10:35–36; two lines spoken at the ark.
 
 ## Related themes
 

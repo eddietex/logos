@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Crossing of the Sea]] — Exodus 13:21–22; 14:19–20; a pillar going before, then behind
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; on the tabernacle
 - [[The Camp Around the Tent]] — Numbers 2:17; the Tent travels in the middle
-- Numbers 10:11–12, 31–36 — the cloud, the ark, and Hobab on the march *(stored WEB, not yet ingested)*
+- [[The March from Sinai]] — Numbers 10:11–12, 31–36; the cloud, the ark, and Hobab on the march
 - Numbers 12:5, 10 — a pillar at the door, and the cloud leaving the Tent *(stored WEB, not yet ingested)*
 - Numbers 14:14 — *your cloud stands over them, and you go before them* *(stored WEB, not yet ingested)*
 - Deuteronomy 1:33 — Yahweh seeking out the camping place *(WEB checked at bible-api.com, not yet ingested)*

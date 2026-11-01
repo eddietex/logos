@@ -2721,6 +2721,12 @@ Yahweh gives Israel a way to be *remembered before Yahweh* (9): a sound blown in
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### The first march — Numbers 10:11–36
+
+The departure is *according to the commandment of Yahweh by Moses* (13), and the cloud and ark go with the column. Moses addresses him directly as the ark sets out and rests: *Rise up, Yahweh* (35), *Return, Yahweh* (36). The enemies of the march are called his.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
@@ -3125,6 +3131,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 9:1–14 — Orders the Passover, and gives the second date. [[The Passover in the Second Year]]
 - Numbers 9:15–23 — Covers the tabernacle in cloud and fire, and moves and stops the camp. [[The Cloud over the Tabernacle]]
 - Numbers 10:1–10 — Commands the trumpets, and promises remembrance and rescue at the alarm. [[The Two Silver Trumpets]]
+- Numbers 10:11–36 — Moves the camp from Sinai by his command; the ark and cloud go with it. [[The March from Sinai]]
 
 ## Appears in
 
@@ -3752,6 +3759,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Passover in the Second Year]] — Numbers 9:1–3, 9–14; orders the feast and rules on the case.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; directs every journey by the cloud.
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; orders the signals and promises to remember.
+- [[The March from Sinai]] — Numbers 10:11–36; commands the departure, and is called on at each move of the ark.
 
 ## Related people
 

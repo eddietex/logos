@@ -83,6 +83,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - [[Jethro's Counsel]] — Exodus 18:1, 27; **the priest's home, and his return.** *"Jethro, the priest of Midian"*
   comes to the camp, blesses Yahweh, gives the counsel, and *"went his way into his own land"*. **Midian in Exodus is
   the friend; in Numbers it will be the enemy** (Numbers 25; 31)
+- [[The March from Sinai]] — Numbers 10:29–30; Hobab the son of Reuel *the Midianite*, who says he will go to his own land
 
 ## Related places
 
@@ -102,5 +103,6 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Moses Returns to Egypt]]
 - Jethro comes from Midian to the Mountain of God with Moses' family, counsels Moses, and returns to his own
   land — Exodus 18:1–27, [[Jethro's Counsel]]
+- Hobab, a Midianite, is asked to go with Israel from Sinai — Numbers 10:29–32, [[The March from Sinai]]
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31
 - The raids Gideon ends — Judges 6–8

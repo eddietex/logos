@@ -462,7 +462,7 @@ pattern of [[Joseph]] before him, and the New Testament reads it forward. See
 - Exodus 14:30 — *"Thus Yahweh saved Israel"*
 - Exodus 18:2–4 — Gershom and Eliezer
 - Exodus 22:21; 23:9; Leviticus 19:34; Deuteronomy 10:19 — the law of the stranger
-- Numbers 10:29; Judges 4:11 — Hobab, and Reuel the Midianite
+- [[The March from Sinai]] — Numbers 10:29; with Judges 4:11, Hobab and Reuel the Midianite
 - Judges 18:30; 1 Chronicles 23:15–16 — Gershom's descendants
 - Isaiah 59:16 — *"He saw that there was no man"*
 - Luke 1:72–73 — *"to remember his holy covenant"*

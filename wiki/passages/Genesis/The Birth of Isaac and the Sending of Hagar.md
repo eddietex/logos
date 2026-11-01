@@ -442,7 +442,7 @@ Genesis declines to grade the person it is following.
 - Genesis 25:12–18 — Ishmael's twelve princes, and territory *"from Havilah to Shur"*.
 - Genesis 37:25–28 — Ishmaelites carry Joseph down to Egypt.
 - Exodus 3:16; 4:31 — *"I have surely visited you"*, the verb of 21:1, cashed for a nation.
-- Numbers 10:12; 12:16; 13:3, 26 — the wilderness of Paran, where Israel camps and from which the
+- [[The March from Sinai]] — Numbers 10:12; with 12:16; 13:3, 26, the wilderness of Paran, where Israel camps and from which the
   spies go out.
 - Deuteronomy 21:15–17 — the firstborn of the unloved wife, whose inheritance may not be transferred:
   the law Sarah's demand runs against.

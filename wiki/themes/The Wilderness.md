@@ -57,6 +57,12 @@ With no land and no fixed camp, Israel gets a rule instead of a map. A stop may 
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### The first stage — Numbers 10:11–36
+
+Israel moves into the wilderness for the first time since the camp was ordered, and the first thing Moses wants is someone who knows it (31). Verse 33 has the ark seeking *a resting place*, in a place that offers none.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -66,6 +72,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; a camp in order, ready to move.
 - [[The Passover in the Second Year]] — Numbers 9:1–5; the Passover kept at Sinai.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; how the wilderness journeys were to work.
+- [[The March from Sinai]] — Numbers 10:11–36; the first march, and a guide requested.
 
 ## Related themes
 

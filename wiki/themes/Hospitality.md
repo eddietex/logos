@@ -158,6 +158,12 @@ is Genesis 27's *savory food*; see
 
 See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Proverbs 22:9.
 
+### The guest invited to the road — Numbers 10:29
+
+Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son in turn: *Come with us, and we will treat you well*.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which
@@ -225,6 +231,7 @@ See [[Thirty Excellent Things]]. Source: stored WEB Proverbs 22:17–23:11; Prov
   host's table as the place where a life is decided. See
   [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]]
 - [[Thirty Excellent Things]] — Proverbs 23:1–3, 6–8; Two tables to be wary of: the ruler's and the stingy host's.
+- [[The March from Sinai]] — Numbers 10:29–32; Moses returns the welcome of Exodus 2.
 
 ## Related themes
 

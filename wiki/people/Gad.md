@@ -74,6 +74,12 @@ The tribe of Gad gives on the sixth day of twelve, by the hand of Eliasaph. Its 
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Reuben — Numbers 10:20
+
+In Reuben's camp, under Eliasaph son of Deuel, as at 1:14 and not the Reuel of 2:14.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"How fortunate!"* — Genesis 30:10–11,
@@ -90,6 +96,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 45,650. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Reuben's camp on the south. [[The Camp Around the Tent]]
 - Numbers 7:42–47 — Gad gives sixth at the altar's dedication, through Eliasaph. [[The Offerings of the Twelve Princes]]
+- Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -140,6 +147,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 45,650.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Reuben's camp on the south.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:42–47; gives sixth, through Eliasaph.
+- [[The March from Sinai]] — Numbers 10:20; in the second camp, under Eliasaph.
 
 ## Related people
 

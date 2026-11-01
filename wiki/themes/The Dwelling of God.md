@@ -438,6 +438,12 @@ The cloud *settles*, *šāḵan*, on the *miškān* (17, 18, 22, WLC), and Israe
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### The dwelling on the move — Numbers 10:17, 21, 33–36
+
+The tabernacle is taken down and set up again by its carriers (17, 21). The presence is not fixed to a place, and the ark goes ahead while the cloud is above. Moses asks Yahweh to *return* when the ark rests (36). See [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]].
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -539,6 +545,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 89; the Tent anointed, and the voice inside it.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4, 15, 22; the Tent lit and staffed.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the camp moves and stops with the cloud on the dwelling.
+- [[The March from Sinai]] — Numbers 10:17, 21, 33–36; the tabernacle carried, and the ark before the people.
 
 ## Related themes
 

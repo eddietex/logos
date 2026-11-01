@@ -50,18 +50,25 @@ They bring six wagons and twelve oxen together (3), and then give one by one for
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The march — Numbers 10:14–27
+
+The same twelve, with the same fathers, each *over* an army, in the order of chapter 2. The word *prince* does not appear in the unit (WLC tags). Gad's man is the son of Deuel (20).
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Named to stand with Moses and Aaron at the census — Numbers 1:4–16, 44
 - Named as heads of the tribes in the camp — Numbers 2:3–29, [[The Camp Around the Tent]]
-- *(ahead)* Heads of the march — Numbers 10:14–27
 - Numbers 7:2–3, 10–83 — Bring the wagons, and then give at the altar for twelve days. [[The Offerings of the Twelve Princes]]
+- Numbers 10:14–27 — Lead their armies out from Sinai. [[The March from Sinai]]
 
 ## Appears in
 
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:5–16, 44; named, and counted with Moses and Aaron
 - [[The Camp Around the Tent]] — Numbers 2:3–29; named as princes of the tribes in the camp
 - [[The Offerings of the Twelve Princes]] — Numbers 7:2–3, 10–83; the givers, in camp order.
+- [[The March from Sinai]] — Numbers 10:14–27; each over his tribe's army.
 
 ## Related people
 

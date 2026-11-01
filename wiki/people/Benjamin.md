@@ -114,6 +114,12 @@ The tribe of Benjamin gives on the ninth day of twelve, by the hand of Abidan. I
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Ephraim — Numbers 10:24
+
+In Ephraim's camp, under Abidan son of Gideoni.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born on the road to Ephrath; [[Rachel]] dies in the labour — Genesis 35:16–19,
@@ -140,6 +146,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 35,400. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
 - Numbers 7:60–65 — Benjamin gives ninth at the altar's dedication, through Abidan. [[The Offerings of the Twelve Princes]]
+- Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -211,6 +218,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 35,400.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:60–65; gives ninth, through Abidan.
+- [[The March from Sinai]] — Numbers 10:24; in the third camp, under Abidan.
 
 ## Related people
 

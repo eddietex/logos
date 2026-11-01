@@ -103,7 +103,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–4; the unclean by the dead sent out
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–26; the unit this one follows
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the unit that follows, back to the same weeks
-- Numbers 10:11 — the march begins on the twentieth of the second month *(stored WEB, not yet ingested)*
+- [[The March from Sinai]] — Numbers 10:11; the march begins on the twentieth of the second month
 - Numbers 19:11–22 — cleansing from a dead body *(stored WEB, not yet ingested)*
 - Numbers 27:1–11; 36:1–12 — the daughters of Zelophehad *(stored WEB, not yet ingested)*
 - Deuteronomy 16:2–7 — the Passover at the chosen place *(WEB checked, not yet ingested)*

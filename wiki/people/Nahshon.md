@@ -23,7 +23,7 @@ checked in the WLC; Numbers 1–2 and 7 are ingested and chapter 10 is not yet. 
 
 ### The census — Numbers 1:1–54
 
-The census names him as Judah's man (7), son of Amminadab, and Judah's 74,600 is the largest figure (27). Numbers has now reached him; the reference ahead (10:14) remains to be ingested.
+The census names him as Judah's man (7), son of Amminadab, and Judah's 74,600 is the largest figure (27).
 
 See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
@@ -39,13 +39,19 @@ He gives first, on behalf of Judah (12). He alone among the twelve is not called
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Over the first army — Numbers 10:14
+
+Judah moves first, and he is over its army. He is not called *prince* in the unit.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Named as [[Elisheba]]'s brother — Exodus 6:23, [[The Heads of the Fathers' Houses]]
-- *(ahead)* Head of Judah in the march — Numbers 10:14
 - Numbers 1 — Named as Judah's man at the census. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Prince of Judah in the east camp. [[The Camp Around the Tent]]
 - Numbers 7:12–17 — Gives first at the altar's dedication. [[The Offerings of the Twelve Princes]]
+- Numbers 10:14 — Over the first army on the march. [[The March from Sinai]]
 
 ## Appears in
 
@@ -53,6 +59,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; named as Judah's man at the census.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; prince of Judah in the east camp.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–17; first of the twelve to give.
+- [[The March from Sinai]] — Numbers 10:14; over the army that sets out first.
 
 ## Related people
 

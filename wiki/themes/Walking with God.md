@@ -235,6 +235,12 @@ Journeying and camping are both *at the commandment of Yahweh*, seven times in t
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### Following the ark — Numbers 10:33–36
+
+The people go where the ark and cloud go, and the unit makes the first march the picture of that. Moses' two cries put the following into words.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -292,6 +298,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:2, 20; Wisdom at the crossroads, walking the paths of justice
 - [[Do Not Envy Sinners]] — Proverbs 23:19, 26; The heart kept on the right path, the eyes kept in the father's ways.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; camp and march both follow Yahweh's lead.
+- [[The March from Sinai]] — Numbers 10:33–36; the people move as the ark moves.
 
 ## Related themes
 

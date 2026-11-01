@@ -80,6 +80,12 @@ named, only *"Moses' father-in-law"*** (WLC). **Deuteronomy's retelling of the j
 both are set out at [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] and in *The names*
 above. See [[Jethro's Counsel]].
 
+### Reuel the Midianite — Numbers 10:29
+
+Numbers 10:29 names [[Hobab]] as *the son of Reuel the Midianite, Moses' father-in-law*, and this is the only place Numbers uses the name *Reuel* for him. The verse can make either man the father-in-law, and *The names* above sets out the readings. The wiki adopts none. Rahlfs's Greek has *Ραγουηλ*.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - *The priest of Midian*, with seven daughters who water his flock — Exodus 2:16
@@ -92,6 +98,7 @@ above. See [[Jethro's Counsel]].
 - Blesses Yahweh, confesses him *"greater than all gods"*, offers a burnt offering, eats bread with Aaron and the
   elders before God — Exodus 18:9–12
 - Advises Moses to appoint judges; Moses does all he said; returns to his own land — Exodus 18:13–27
+- Numbers 10:29 — Named as Hobab's father, *Reuel the Midianite*. [[The March from Sinai]]
 
 ## Appears in
 
@@ -109,6 +116,7 @@ above. See [[Jethro's Counsel]].
   *"Blessed be Yahweh, who has delivered you"*; *"Now I know that Yahweh is greater than all gods"*; the first burnt
   offering made in Exodus; *"The thing that you do is not good"*; the judges of thousands, hundreds, fifties, and
   tens; *"and God commands you so"*; sent home in peace
+- [[The March from Sinai]] — Numbers 10:29; named as *Reuel the Midianite*, the father of Hobab.
 
 ## Related people
 
@@ -122,6 +130,7 @@ above. See [[Jethro's Counsel]].
 - [[Keturah]] — through whose son Midian descends from Abraham
 - [[Eliezer (son of Moses)]] — his younger grandson, first named when he brings him back
 - [[Aaron]] — who eats bread with him before God (18:12)
+- [[Hobab]] — *the son of Reuel the Midianite*, whose relation to him is not settled
 
 ## Themes associated
 

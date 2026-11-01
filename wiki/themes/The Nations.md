@@ -164,6 +164,12 @@ The stranger who keeps the Passover does so by the same statute as the native, *
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### An invitation to a Midianite — Numbers 10:29–32
+
+Moses offers an outsider the good Yahweh has promised Israel, without any stated condition. Whether Hobab accepts is not recorded. See [[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]].
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -411,6 +417,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[Israel at Mount Sinai]] — Exodus 19:5–6; a particular nation within the God-owned earth
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; six peoples to be driven out, for their gods' sake.
 - [[The Passover in the Second Year]] — Numbers 9:14; the stranger at the Passover.
+- [[The March from Sinai]] — Numbers 10:29–32; a Midianite offered a share of Israel's good.
 
 ## Related themes
 

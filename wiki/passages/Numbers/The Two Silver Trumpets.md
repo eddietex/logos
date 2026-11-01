@@ -85,7 +85,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[Israel at Mount Sinai]] — Exodus 19:16, 19; the trumpet sound with no human player
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:24; a *memorial* with *tərûʿâ*
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:9; the ram's horn on the Day of Atonement
-- Numbers 10:11–28 — the first march, on which no trumpet is mentioned *(stored WEB, not yet ingested)*
+- [[The March from Sinai]] — Numbers 10:11–28; the first march, on which no trumpet is mentioned
 - Numbers 29:1 — a day of *tərûʿâ* in the seventh month *(stored WEB, not yet ingested)*
 - Numbers 31:6 — *the trumpets for the alarm* in Phinehas's hand *(stored WEB, not yet ingested)*
 - 2 Chronicles 13:12–15 — priests sound the alarm, and God strikes *(WEB checked, not yet ingested)*

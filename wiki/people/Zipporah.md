@@ -89,6 +89,7 @@ written as their pericopes arrive.
 - [[Rebekah]] and [[Rachel]] — the earlier brides met at a well
 - [[Asenath]] — the earlier foreign priest's daughter married to a Hebrew in exile
 - [[Eliezer (son of Moses)]] — her second son
+- [[Hobab]] — her brother, if Hobab is the son of her father Reuel (Numbers 10:29)
 
 ## Themes associated
 

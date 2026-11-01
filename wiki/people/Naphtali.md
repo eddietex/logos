@@ -80,6 +80,12 @@ The tribe of Naphtali gives on the twelfth day of twelve, by the hand of Ahira. 
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Dan — Numbers 10:27
+
+In Dan's camp, under Ahira son of Enan, last named of the twelve.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Bilhah]] and named by [[Rachel]]; *"I have wrestled with my sister… and have prevailed"* —
@@ -97,6 +103,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 53,400. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Dan's camp on the north. [[The Camp Around the Tent]]
 - Numbers 7:78–83 — Naphtali gives twelfth at the altar's dedication, through Ahira. [[The Offerings of the Twelve Princes]]
+- Numbers 10:27 — Naphtali marches in Dan's camp, last named. [[The March from Sinai]]
 
 ## Appears in
 
@@ -148,6 +155,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 53,400.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:78–83; gives twelfth, through Ahira.
+- [[The March from Sinai]] — Numbers 10:27; in the rear camp, under Ahira.
 
 ## Related people
 

@@ -48,6 +48,8 @@ keeps the feast at Sinai, and a question from men unclean by the dead yields a s
 the camp moves when the cloud rises, stays while it stays, and calls both *the commandment of Yahweh*.
 [[The Two Silver Trumpets]] (10:1–10) puts that rule into sound: signals for assembly and march, a statute for the
 priests, and a memorial before God in the wars and feasts of the land.
+[[The March from Sinai]] (10:11–36) then moves at last: the cloud rises, the twelve tribes go in order with the tabernacle in two
+stages, Hobab is asked to be Israel's eyes, and Moses cries out as the ark sets out and rests.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -84,7 +86,7 @@ merge, or reorder them freely.
 - [x] [[The Passover in the Second Year]] — Numbers 9:1–14
 - [x] [[The Cloud over the Tabernacle]] — Numbers 9:15–23
 - [x] [[The Two Silver Trumpets]] — Numbers 10:1–10
-- [ ] The March from Sinai — Numbers 10:11–36
+- [x] [[The March from Sinai]] — Numbers 10:11–36
 - [ ] The Fire at Taberah — Numbers 11:1–3
 - [ ] The Seventy Elders and the Quail — Numbers 11:4–35
 - [ ] Miriam and Aaron Against Moses — Numbers 12:1–16

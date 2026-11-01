@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Leaving the mountain — Numbers 10:11–13, 33
+
+The camp goes *out of the wilderness of Sinai* (12) on the twentieth of the second month of the second year (11). Verse 33 calls the place *the Mount of Yahweh*, the only such use in Exodus, Numbers, and Deuteronomy by the WLC tags. Moses will recall the departure at Deuteronomy 1:6–7.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ### The camp — Numbers 2:1–34
 
 The camp is laid out here, though the chapter does not name the place. Nothing has moved since 1:1, and the arrangement is for a march that begins at 10:11–12.
@@ -758,6 +764,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Passover in the Second Year]] — Numbers 9:1–14; the Passover kept in the wilderness of Sinai.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the rule of the cloud, given before the camp leaves.
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; the last instruction given before the camp leaves.
+- [[The March from Sinai]] — Numbers 10:11–13, 33; Israel leaves, and it is called *the Mount of Yahweh*.
 
 ## Related places
 
@@ -808,3 +815,4 @@ action at the tent and altar and outside the camp, without naming the mountain. 
   [[The Ark, the Table, and the Lampstand]]
 
 - The tabernacle raised and filled with glory; future travel governed by the cloud — [[The Tabernacle Raised and the Glory]].
+- Israel sets out, on the twentieth of the second month of the second year — Numbers 10:11–13, [[The March from Sinai]]

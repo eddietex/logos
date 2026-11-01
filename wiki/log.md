@@ -20976,3 +20976,32 @@ and Leviticus from `raw/bible/`; all quoted WEB outside them verified at bible-a
 Commentary, lexicons, and grammars not consulted, so the physical description of the instruments rests on the text
 alone. Counts: 285 passages, 201 people, 104 places, 86 themes, 624 connections. Next: The March from Sinai,
 Numbers 10:11–36.
+
+## [2026-11-01] ingest | Numbers 10.11-36 — The March from Sinai
+
+Created [[The March from Sinai]], [[Hobab]], and two connections:
+[[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]] and
+[[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]]. Revised [[God]], [[Moses]], [[Jethro]], [[Zipporah]],
+[[Nahshon]], [[The Twelve Tribal Princes]], [[Gershon]], [[Kohath]], [[Merari]], the twelve tribe pages, [[Horeb]], [[Paran]],
+[[Midian]], ten themes, five existing connections, eight passages, and the book, category, and top indexes.
+
+Judgment calls: the plan's boundary and title kept. [[Hobab]] gets his own page, apart from [[Jethro]], and the wiki adopts no
+reading of *ḥōtēn mōšeh* at verse 29. No page for the ark, as the connections carry it. No page for the Kenites yet. [[Aaron]] and
+his sons are not in the unit and were not revised. The commanders stay on the group page.
+
+Two earlier statements were corrected, not only added to. [[Paran]] called the wilderness of Paran Israel's first camp after
+Sinai, and now records verse 12 against 11:3, 34–35; 12:16; and 33:16–18. [[Jethro's Counsel]] and
+[[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] said the in-law left, and now say he said he would, since
+Numbers gives no outcome.
+
+Tensions flagged, not resolved: Paran at verse 12 against the stages that follow; the ark in Kohath's load in the middle (21)
+against the ark in front (33); who picks the camp, cloud, Hobab, ark, or Yahweh; who Hobab is; and three days against the one
+stage of 33:16. Verse 36 has no preposition after *šûbâ*, and WEB supplies *to*. Rahlfs differs at verse 31 and in verse order
+at 34–36, and WLC marks verses 35–36 with inverted nuns. The marks were reported, and their meaning was not researched.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags, so counts and *only* claims
+depend on that tagging. The *har yhwh* search covered Exodus, Numbers, Deuteronomy, Joshua, Judges, 1–2 Samuel, Psalms, and Isaiah,
+and the Hebrew of Genesis 22:14 was not checked. Greek of Numbers 10 from the Rahlfs 1935 text in the eliranwong
+LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. WEB of Genesis, Exodus, and Numbers from `raw/bible/`; all quoted WEB
+outside them verified at bible-api.com. New Testament Greek not checked. Commentary, lexicons, and grammars not consulted.
+Counts: 286 passages, 202 people, 104 places, 86 themes, 626 connections. Next: The Fire at Taberah, Numbers 11:1–3.

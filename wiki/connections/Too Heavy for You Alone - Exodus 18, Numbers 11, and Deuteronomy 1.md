@@ -59,8 +59,8 @@ don't bear it yourself alone"* ends on Jethro's *ləbaddekā* (WLC).
 - **One event, retold.** Deuteronomy is Moses' sermon to the next generation, and a preacher need not name the
   in-law who first proposed the plan; Exodus 18:24 says Moses *"did all that he had said"*, so the plan became his.
   On this reading Exodus 18 is placed early by subject (the friendly foreigner beside the hostile Amalek), and the
-  institution was set up at the departure from Horeb, where Deuteronomy puts it and where Numbers 10:29–32 has
-  Moses' Midianite in-law take his leave.
+  institution was set up at the departure from Horeb, where Deuteronomy puts it and where [[The March from Sinai]] (Numbers 10:29–32) has
+  Moses' Midianite in-law say he will go.
 - **Two or three events.** Judges were appointed before Sinai (Exodus 18), the seventy elders later (Numbers 11);
   Deuteronomy compresses.
 - **Source criticism** assigns the three to different traditions about the origin of Israel's judiciary, one

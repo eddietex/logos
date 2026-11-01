@@ -26,8 +26,9 @@ range that runs along the same desert. See [[The Birth of Isaac and the Sending 
 
 **What the rest of the Bible does with it.**
 
-- **It is the wilderness of the wandering.** Israel's first camp after leaving Sinai is *"in the
-  wilderness of Paran"* (Numbers 10:12; 12:16); the twelve spies are sent out from it (Numbers 13:3)
+- **It is the wilderness of the wandering.** The cloud stops *"in the
+  wilderness of Paran"* after Sinai (Numbers 10:12), though the text reaches it by name only after Taberah, Kibroth Hattaavah,
+  and Hazeroth (11:3, 34–35; 12:16), and Numbers 33:16–18 does not list it; the twelve spies are sent out from it (Numbers 13:3)
   and return to it (13:26); and the generation that refuses to go up dies in it.
 - **It is a place God comes from.** Two of the oldest poems in the canon put him there: *"Yahweh came
   from Sinai, and rose from Seir to them. He shone from Mount Paran"* (Deuteronomy 33:2), and *"God
@@ -47,6 +48,7 @@ geography of the Torah, which puts Israel's spies in it.
   and where his mother takes him an Egyptian wife
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:6, as *El Paran*, the far point of the four
   kings' sweep down the eastern frontier
+- [[The March from Sinai]] — Numbers 10:12; where the cloud is said to stop, summarizing the stage from Sinai
 
 ## Related places
 
@@ -65,7 +67,8 @@ geography of the Torah, which puts Israel's spies in it.
   [[The Rescue of Lot and Melchizedek]]
 - Ishmael grows up here an archer, and marries an Egyptian — Genesis 21:20–21,
   [[The Birth of Isaac and the Sending of Hagar]]
-- Israel camps here after Sinai, and Miriam's exclusion ends here — Numbers 10:12; 12:16
+- The cloud stops here after Sinai — Numbers 10:12, [[The March from Sinai]]
+- Israel camps here after Hazeroth — Numbers 12:16
 - The twelve spies are sent from here and report back here — Numbers 13:3, 26
 - *"He shone from Mount Paran"* — Deuteronomy 33:2; Habakkuk 3:3
 - Hadad the Edomite passes through on his flight to Egypt — 1 Kings 11:18

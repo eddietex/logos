@@ -900,6 +900,12 @@ The command to make the trumpets is singular (*ʿăśē ləḵā*, WLC), and bot
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### The march and the two cries — Numbers 10:11–36
+
+The command reaches the people *by Moses* (13). He then appears twice for himself. He asks Hobab to come, is refused, and asks again: *you can be our eyes* (31). And he speaks to Yahweh at the ark, one line as it sets out and another as it rests (35–36).
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1140,6 +1146,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 9:1–14 — Orders the Passover, and takes the unclean men's case to Yahweh. [[The Passover in the Second Year]]
 - Numbers 9:15–23 — Named last, as the one by whom the command to move and stop was given. [[The Cloud over the Tabernacle]]
 - Numbers 10:1–10 — Told to make the trumpets; the assembly gathers to him. [[The Two Silver Trumpets]]
+- Numbers 10:11–36 — Leads the march, asks Hobab to stay, and cries out at the ark. [[The March from Sinai]]
 
 ## Appears in
 
@@ -1370,6 +1377,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Passover in the Second Year]] — Numbers 9:4, 6–8; says *Wait*, and asks Yahweh.
 - [[The Cloud over the Tabernacle]] — Numbers 9:23; the command given *by Moses*.
 - [[The Two Silver Trumpets]] — Numbers 10:2–4; told to make them, and receives the assembly.
+- [[The March from Sinai]] — Numbers 10:13, 29–36; asks Hobab to come, and speaks the two cries of the ark.
 
 ## Related people
 

@@ -273,6 +273,12 @@ The tribe of Judah gives on the first day of twelve, by the hand of Nahshon. Its
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### First out — Numbers 10:14
+
+Judah's standard sets out first, with Issachar and Zebulun, and Nahshon over its army.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Leah]], her fourth son; *"this time will I praise Yahweh"* — Genesis 29:35,
@@ -305,6 +311,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Largest tribe, 74,600. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Heads the east camp and sets out first. [[The Camp Around the Tent]]
 - Numbers 7:12–17 — Judah gives first at the altar's dedication, through Nahshon. [[The Offerings of the Twelve Princes]]
+- Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
 
@@ -382,6 +389,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; largest tribe, 74,600.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the east camp and sets out first.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–17; gives first, through Nahshon.
+- [[The March from Sinai]] — Numbers 10:14; first of the twelve to move, under Nahshon.
 
 ## Related people
 

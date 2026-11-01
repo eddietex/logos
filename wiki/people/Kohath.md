@@ -54,6 +54,12 @@ The Kohathites receive nothing, *because the service of the sanctuary belonged t
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Bearing the sanctuary — Numbers 10:21
+
+*The Kohathites set forward, bearing the sanctuary* (21), after Reuben's camp. The structure is already up when they arrive. The ark is part of their load (3:31), yet 10:33 has it going before the people, and the unit does not explain.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -64,6 +70,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 4:1–20, 34–37 — 2,750 working men carry the wrapped holy things. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 7:9 — Kohathites given no wagon; the sanctuary goes on the shoulder. [[The Offerings of the Twelve Princes]]
 - 1 Chronicles 6:33–38 — Heman's descent traced to him
+- Numbers 10:21 — The Kohathites carry the sanctuary, in the middle of the column. [[The March from Sinai]]
 
 ## Appears in
 
@@ -73,6 +80,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 8,600, on the south, with the holy things.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:1–20, 34–37; carries what it may not touch or see.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:9; given none, because they carry on the shoulder.
+- [[The March from Sinai]] — Numbers 10:21; the Kohathites carry the sanctuary.
 
 ## Related people
 

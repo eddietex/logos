@@ -43,6 +43,12 @@ The Merarites receive four wagons and eight oxen, the largest share, for the fra
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### The tabernacle moves — Numbers 10:17
+
+His sons take the tabernacle after Judah's camp has gone, alongside Gershon's sons (17), and so travel ahead of the holy things.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Listed among the seventy who go down into Egypt — Genesis 46:11,
@@ -52,6 +58,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 4:29–33, 42–45 — 3,200 working men carry the frame, under Ithamar. [[The Service of Kohath, Gershon, and Merari]]
 - Numbers 7:8 — Merarites given four wagons and eight oxen. [[The Offerings of the Twelve Princes]]
 - 1 Chronicles 6:44–47 — Ethan's descent traced to him
+- Numbers 10:17 — His sons carry the tabernacle, ahead of Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -62,6 +69,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; 6,200, on the north, with the frame.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:29–33, 42–45; 3,200 men, with the frame.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; four wagons and eight oxen.
+- [[The March from Sinai]] — Numbers 10:17; his sons carry the structure, second in the column.
 
 ## Related people
 

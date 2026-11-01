@@ -156,6 +156,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–83; the camp order, used for the altar gifts
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the signal that set this order moving
 - [[The Two Silver Trumpets]] — Numbers 10:5–6; alarms for the east and south camps
+- [[The March from Sinai]] — Numbers 10:14–28; the same order on the road
 
 ## Notes
 

@@ -219,6 +219,12 @@ The alarm of the march is also the alarm of war *in your land*. It is not a tact
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### Armies on the road — Numbers 10:14–28, 35
+
+Each tribe goes *according to their armies*, under a commander, and Moses prays for Yahweh's enemies to scatter (35). No battle comes in the unit. See [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]].
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -314,6 +320,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the muster of those able to go out to war.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the four camps in formation.
 - [[The Two Silver Trumpets]] — Numbers 10:5–9; march alarms, and the alarm of war in the land.
+- [[The March from Sinai]] — Numbers 10:14–28, 35; the armies march, and the ark goes out against Yahweh's enemies.
 
 ## Related themes
 

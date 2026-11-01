@@ -44,7 +44,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[To Bless in His Name - Numbers 6, Deuteronomy 10, and 2 Samuel 6]] | thread | [[Yahweh Bless You and Keep You]] (Numbers 6:23, 27) · Leviticus 9:22–23 · Deuteronomy 10:8; 21:5 · 2 Samuel 6:18 · 1 Kings 8:55 · 1 Chronicles 23:13 · 2 Chronicles 30:27 · Psalm 118:26; 129:8 · Malachi 2:1–2 · Luke 24:50–51 · 2 Corinthians 13:14 |
 | [[To Preserve a Remnant - Shearith from Genesis 45 to Romans 11]] | vocabulary thread | Genesis 14:13 · Genesis 45:7 · Isaiah 10:20–22 · Amos 5:15 · Micah 2:12 · Ezra 9:8 · Romans 9:27; 11:5 |
 | [[Too Great to Dwell Together - Abram and Lot, Esau and Jacob]] | parallel | Genesis 13:5–12 · Genesis 36:6–8 · Genesis 25:5–6 · Genesis 21:8–14 · Deuteronomy 2:4–5 |
-| [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] | parallel | Exodus 18:13–27 · Numbers 11:14–17 · Deuteronomy 1:9–18 · Acts 6:2–4 |
+| [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] | parallel | Exodus 18:13–27 · Numbers 11:14–17 · Deuteronomy 1:9–18 · Acts 6:2–4 · [[The March from Sinai]] |
 | [[Torn Clothes and Loose Hair - Leviticus 10 and 13]] | legal-thematic-parallel | Leviticus 10:6–7 · Leviticus 13:45–46 · [[The Holiness of the Priests]] (Leviticus 21) |
 | [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]] | legal-parallel | [[The Place of Sacrifice and the Life in the Blood]] |
 | [[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]] | thread | [[A Good Name]] (Proverbs 22:6, 15) · [[The Three Visitors and Abraham's Intercession]] (Genesis 18:19) · Deuteronomy 6:6–7 · Ephesians 6:4 · Proverbs 13:1; 17:21, 25; 19:26 · [[The Rescue of Lot and Melchizedek]] (Genesis 14:14) |

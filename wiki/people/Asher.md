@@ -69,6 +69,12 @@ The tribe of Asher gives on the eleventh day of twelve, by the hand of Pagiel. I
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Dan — Numbers 10:26
+
+In Dan's camp, under Pagiel son of Ochran.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"the daughters will call me happy"* — Genesis 30:12–13,
@@ -86,6 +92,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 41,500. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Dan's camp on the north. [[The Camp Around the Tent]]
 - Numbers 7:72–77 — Asher gives eleventh at the altar's dedication, through Pagiel. [[The Offerings of the Twelve Princes]]
+- Numbers 10:26 — Asher marches in Dan's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -138,6 +145,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 41,500.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:72–77; gives eleventh, through Pagiel.
+- [[The March from Sinai]] — Numbers 10:26; in the rear camp, under Pagiel.
 
 ## Related people
 

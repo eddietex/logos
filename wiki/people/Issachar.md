@@ -80,6 +80,12 @@ The tribe of Issachar gives on the second day of twelve, by the hand of Nethanel
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### With Judah — Numbers 10:15
+
+In Judah's camp, under Nethanel son of Zuar, second to move.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Timeline / key events
 
 - Born to [[Leah]] after *"God listened to Leah"*; *"God has given me my hire"* — Genesis 30:17–18,
@@ -97,6 +103,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - Numbers 1 — Tribe counted at 54,400. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — In Judah's camp on the east. [[The Camp Around the Tent]]
 - Numbers 7:18–23 — Issachar gives second at the altar's dedication, through Nethanel. [[The Offerings of the Twelve Princes]]
+- Numbers 10:15 — Issachar marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
 
@@ -146,6 +153,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; tribe counted at 54,400.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Judah's camp on the east.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:18–23; gives second, through Nethanel.
+- [[The March from Sinai]] — Numbers 10:15; in the first camp, under Nethanel.
 
 ## Related people
 

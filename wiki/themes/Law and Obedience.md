@@ -870,6 +870,12 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### The command carried out — Numbers 10:13
+
+*According to the commandment of Yahweh by Moses* repeats the end of 9:23. The rule is now kept in the event, and verses 14–28 show chapter 2 obeyed tribe by tribe.
+
+See [[The March from Sinai]]. Source: stored WEB Numbers 10.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1075,6 +1081,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:3, 20, 22; each command carried out.
 - [[The Passover in the Second Year]] — Numbers 9:5–14; a case referred up and answered as law.
 - [[The Cloud over the Tabernacle]] — Numbers 9:19, 23; staying put called keeping Yahweh's charge.
+- [[The March from Sinai]] — Numbers 10:13–28; the rule and order of march obeyed.
 
 ## Related themes
 
