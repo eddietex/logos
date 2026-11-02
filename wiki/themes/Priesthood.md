@@ -681,6 +681,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:8; no priest shown at work; Ithamar directs Merari.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the Levites made ready, and set under the priests.
 - [[The Two Silver Trumpets]] — Numbers 10:8; the trumpets given to the priests by statute.
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; the priest makes atonement
 
 ## Related themes
 

@@ -37,7 +37,7 @@ only what they did next and what happened.
 Verse 43 is the fear of 14:3 arriving. They refused the land so as not to *fall by the sword*, and
 they fall by the sword in the attempt to take it back. Nothing is said about how many died, and no
 further word comes from Yahweh. The chapter ends in the middle of a rout, and the next verse in the
-book is law for a future in the land.
+book is law for a future in the land: [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key verses
 
@@ -106,6 +106,7 @@ does not say what they did.
 - [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]] — verse 44
 - [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]] — verse
   45, the name
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; the next unit
 - Numbers 21:1–3 — the later vow, the victory, and the name *(stored WEB, not yet ingested)*
 - Numbers 32:15 — *if you turn away from after him* *(stored WEB, not yet ingested)*
 

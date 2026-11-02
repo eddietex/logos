@@ -24,7 +24,7 @@ tags: [connection]
 - **Leviticus 4:1–35; 5:1–19** — the sin offering and the guilt offering for the *šəgāgâ*, the sin
   committed unwittingly, for the individual, the ruler, and the whole assembly
 - **Numbers 15:22–31** — the sharp line between what is done *unwittingly* and what is done *with a
-  high hand*, which has no offering at all
+  high hand*, which has no offering at all — [[Offerings in the Land and Sins of Ignorance]]
 - **Numbers 35:9–34; Deuteronomy 19:1–13; Joshua 20** — the cities of refuge: the unintentional
   killer is not a murderer and is still not simply free
 - **Deuteronomy 21:1–9** — a corpse in open country, and a town that must clear itself of blood it
@@ -79,7 +79,9 @@ common person, and gives each an offering. **The law's assumption is exactly Abi
 that a person can incur real liability without intending anything, and that the remedy is a
 procedure rather than an argument.**
 
-Numbers 15:22–31 draws the boundary from the other side. Offerings cover the unwitting sin; the
+Numbers 15:22–31 draws the boundary from the other side; see
+[[Offerings in the Land and Sins of Ignorance]] and
+[[Unwitting and Presumptuous - Numbers 15, Psalm 19, and Hebrews 10]]. Offerings cover the unwitting sin; the
 person who acts *"with a high hand"* — deliberately, in contempt — *"blasphemes Yahweh"* and *"shall
 be cut off"*, with nothing provided. **The earlier claim here that the whole sacrificial apparatus is for the first case is
 corrected below in light of Leviticus 1–4 and 6:1–7.** That

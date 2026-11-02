@@ -21,6 +21,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Defilement of Body and Land - Leviticus 15 and 18]] | law-comparison | [[Bodily Discharges and Cleansing]] · [[Forbidden Unions and the Defiled Land]] · [[Penalties and a People Set Apart]] (Leviticus 20; sanctions now ingested) · [[Covenant Warnings and Remembered Promises]] |
 | [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] | legal-thematic-parallel | Exodus 19:1–6 · Exodus 20:1–3 · Exodus 22:31 · Leviticus 11:44–47 |
 | [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] · [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4) |
+| [[Despised the Word of Yahweh - Numbers 15.31 and 2 Samuel 12.9]] | thread | [[Offerings in the Land and Sins of Ignorance]] (Numbers 15:31) · 2 Samuel 12:9–13 · Psalm 51:16 · Proverbs 13:13 |
 | [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]] | thread | [[Vows, Valuations, and Devoted Things]] · [[Laws of Holiness and Compassion]] · Numbers 18:14 · Numbers 21:2–3 · Deuteronomy 7:2, 26 · Joshua 6:17; 7:1 · 1 Samuel 15:3, 9 · Ezekiel 44:29 |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
@@ -83,6 +84,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[The First Adam and the Last Adam]] | typology | Genesis 2:7 · Genesis 3:1–24 · Romans 5:12–21 · 1 Corinthians 15:21–22, 45–49 |
 | [[The First Man and Wisdom Before the Hills]] | allusion | Job 15:7–8 · Proverbs 8:22–31 · Job 38:4, 21 · Genesis 2:7 · Job 28:12–28 · Ezekiel 28:12–15 · Job 11:5–9 · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
 | [[The First of the Ways of God - Job 40.19 and Proverbs 8.22]] | allusion | Job 40:15, 19 · Proverbs 8:22–23 · Job 26:14 · Genesis 1:1, 24–26 · [[Behemoth and Leviathan]] (Job 40:6–41:34) · [[Wisdom at the Creation]] (Proverbs 8:22–36) |
+| [[The First of Your Dough - Numbers 15, Ezekiel 44, Nehemiah 10, and Romans 11]] | thread | [[Offerings in the Land and Sins of Ignorance]] (Numbers 15:20–21) · Nehemiah 10:37 · Ezekiel 44:30 · Romans 11:16 |
 | [[Five Changes of Clothing - The Coat Given Again]] | motif | Genesis 37:3–4 · Genesis 43:34 · Genesis 45:22, 24 |
 | [[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]] | motif | Leviticus 26:7–8, 17, 36–37 · Deuteronomy 32:30 · Joshua 23:10 · [[Blessings for Obedience]] · [[Covenant Warnings and Remembered Promises]] |
 | [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]] | thread | [[The Levites and the Firstborn Counted]] (Numbers 3:46–51) · [[Vows, Valuations, and Devoted Things]] (Leviticus 27:3, 6, 25) · Numbers 18:15–16 · Exodus 30:13 · Ezekiel 45:12 |

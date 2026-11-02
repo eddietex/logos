@@ -491,6 +491,7 @@ men, with the same raised hand as Exodus 6:8 (30). See [[The People Refuse the L
 - [[The Nazirite Vow]] — Numbers 6:1–21; a vow with its own law, open to man or woman.
 - [[The People Refuse the Land]] — Numbers 14:21–23, 28–30, 35; the first *as I live*, and the oath
   of exclusion
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 8; a vow as an occasion for sacrifice
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

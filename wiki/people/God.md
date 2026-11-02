@@ -3138,6 +3138,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 14:10–35 — Appears at the Tent, offers to replace Israel, pardons, swears *as I live*, and
   passes sentence. [[The People Refuse the Land]]
 - Numbers 14:42–45 — Declared not among the people who go up; he does not speak in these verses. [[The Defeat at Hormah]]
+- Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
 
@@ -3771,6 +3772,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Twelve Spies]] — Numbers 13:1–3; commands the sending, and calls the land his gift.
 - [[The People Refuse the Land]] — Numbers 14:10–35; pardons and sentences.
 - [[The Defeat at Hormah]] — Numbers 14:42–45; not among them.
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; law for the land, forgiveness, and the high hand.
 
 ## Related people
 

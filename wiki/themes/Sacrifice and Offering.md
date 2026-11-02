@@ -628,6 +628,11 @@ Trumpets are blown over the burnt offerings and peace offerings, and they are a 
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### What goes with the animal — Numbers 15:1–16
+
+Every burnt offering and sacrifice in the land must come with flour, oil, and wine, on a scale of a
+tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -859,6 +864,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:10–21; a tribe presented as a wave offering.
 - [[The Passover in the Second Year]] — Numbers 9:7, 13; the Passover named a *qorbān*.
 - [[The Two Silver Trumpets]] — Numbers 10:10; trumpets blown over burnt offerings and peace offerings.
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–16, 24–29; meal and drink offerings required with every animal
 
 ## Related themes
 

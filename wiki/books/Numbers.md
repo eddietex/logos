@@ -59,6 +59,7 @@ and Yahweh shares the Spirit on Moses with seventy elders, sends quail on a wind
 [[The People Refuse the Land]] (14:1–38) gives the answer: the people weep and propose a captain to take them back to Egypt, Moses turns down a second offer of a new nation and wins pardon,
 and Yahweh swears that the counted generation will die in the wilderness, forty years for forty days, while Caleb, Joshua, and the little ones go in.
 [[The Defeat at Hormah]] (14:39–45) reverses it: the people say *we have sinned*, go up without the ark or Moses against his warning, and are beaten down by the Amalekite and the Canaanite.
+[[Offerings in the Land and Sins of Ignorance]] (15:1–31) answers with law for the land they were just refused: flour, oil, and wine with every animal, the first of the dough, and offerings for error, with one law for native and stranger, and no offering for the one who sins *with a high hand*.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -102,7 +103,7 @@ merge, or reorder them freely.
 - [x] [[The Twelve Spies]] — Numbers 13:1–33
 - [x] [[The People Refuse the Land]] — Numbers 14:1–38
 - [x] [[The Defeat at Hormah]] — Numbers 14:39–45
-- [ ] Offerings in the Land and Sins of Ignorance — Numbers 15:1–31
+- [x] [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31
 - [ ] The Sabbath Breaker — Numbers 15:32–36
 - [ ] The Tassels — Numbers 15:37–41
 - [ ] The Rebellion of Korah — Numbers 16:1–40

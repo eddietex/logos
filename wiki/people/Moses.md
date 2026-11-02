@@ -1179,6 +1179,14 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
   [[The People Refuse the Land]]
 - Warns the people not to go up, and stays in the camp with the ark — Numbers 14:39–44,
   [[The Defeat at Hormah]]
+- Receives law for the land after the sentence — Numbers 15:1–31,
+  [[Offerings in the Land and Sins of Ignorance]]
+
+### Law for the land — Numbers 15:1–31
+
+After the sentence, Yahweh gives him two speeches for the people, each opening on their arrival in the
+land. No reply from him is reported, and he himself will not be told until 20:12 that he will stay
+out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
@@ -1417,6 +1425,7 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 - [[The People Refuse the Land]] — Numbers 14:1–38; falls on his face, pleads, and carries the
   sentence.
 - [[The Defeat at Hormah]] — Numbers 14:39–44; warns, and stays with the ark.
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; receives law for the land.
 
 ## Related people
 

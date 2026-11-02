@@ -97,6 +97,7 @@ prescribes worship rather than narrating a particular offering.
 - [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]] — Leviticus adds preparation and altar distinctions to the first-fruits thread.
 - [[The Ordination of the Priests]] — Exodus 29:23–28 already joins bread burned on the altar with assigned priestly portions, in a distinct consecration rite.
 - [[The Burnt Offering]] — Leviticus 1 burns the prepared animal offering; chapter 2 reserves a remainder for the priests.
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–16; the meal offering required with every animal
 
 ## Notes
 

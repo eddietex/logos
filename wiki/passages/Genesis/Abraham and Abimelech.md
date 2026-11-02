@@ -386,7 +386,7 @@ design of a book that tells things twice on purpose. See [[The Names of God]].
   king looking out of a window.
 - Genesis 12:17 and 20:18 — *"because of Sarai, Abram's wife"* / *"because of Sarah, Abraham's
   wife"*: the narrator restoring the suppressed relation at both rescues.
-- Leviticus 4:2, 13, 22, 27; Numbers 15:22–31 — the sin done unwittingly, and the offering for it.
+- Leviticus 4:2, 13, 22, 27; [[Offerings in the Land and Sins of Ignorance]], Numbers 15:22–31 — the sin done unwittingly, and the offering for it.
 - Leviticus 18:9; 20:17; Deuteronomy 27:22 — the prohibition on marrying a half-sister, several
   centuries of narrative away.
 - Exodus 32:11–14, 30–32; [[Miriam and Aaron Against Moses]], Numbers 12:6–8; 14:13–20 — Moses as the prophet whose prayer turns a

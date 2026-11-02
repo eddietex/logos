@@ -99,6 +99,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   Leviticus 23:22 repeats the field provision of 19:9–10 inside the calendar.
 - [[Honor Yahweh with Your Substance - First Fruits in Exodus 23, Proverbs 3.9-10, and Malachi 3.10]] —
   first produce is presented before the harvest is eaten.
+- [[Measures of Flour, Oil, and Wine - Exodus 29, Numbers 15, Numbers 28, and Ezekiel 46]] — verse 13
+- [[When You Come Into the Land - The Law Given Before Arrival]] — verse 10
 
 ## Notes
 

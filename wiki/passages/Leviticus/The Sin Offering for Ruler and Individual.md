@@ -96,6 +96,7 @@ distinct offering but no exemption from accountability or need for pardon.
 - [[A Pleasing Aroma]] — 4:31 applies this language to the sin offering's altar portion.
 - [[Outside the Camp - The Sin Offering and Hebrews 13]] — these cases limit any attempt to
   extend the preceding bulls' outside-camp disposal to every sin offering.
+- [[The Congregation's Error - Leviticus 4 and Numbers 15]] — verses 27–35
 
 ## Notes
 

@@ -115,6 +115,7 @@ Israel has committed a particular offense.
 - [[The Peace Offering]] — Leviticus 4:10 explicitly borrows the handling of the bull's fat.
 - [[The Burnt Offering]] — compare an offering burned on the altar with this carcass
   burned at the clean ash site.
+- [[The Congregation's Error - Leviticus 4 and Numbers 15]] — verses 13–21
 
 ## Notes
 

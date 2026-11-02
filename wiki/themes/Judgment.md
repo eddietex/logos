@@ -974,6 +974,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[Miriam and Aaron Against Moses]] — Numbers 12:9–15; Miriam struck, and the term set.
 - [[The People Refuse the Land]] — Numbers 14:26–37; the generation's own words as the sentence
 - [[The Defeat at Hormah]] — Numbers 14:43–45; the sword they feared
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30–31; cut off, with the iniquity on the person
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

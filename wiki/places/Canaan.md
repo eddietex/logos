@@ -389,6 +389,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - [[The People Refuse the Land]] — Numbers 14:1–38; the land refused, called *exceeding good* by
   Joshua and Caleb
 - [[The Defeat at Hormah]] — Numbers 14:40–45; the land attempted after it was refused
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:2, 18; *the land of your habitations*, unnamed
 
 ## Related places
 
@@ -463,3 +464,5 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
   [[The People Refuse the Land]]
 - The people go up to it against the word, and are beaten down to Hormah — Numbers 14:40–45,
   [[The Defeat at Hormah]]
+- Offerings are ordained for it after the refusal — Numbers 15:1–31,
+  [[Offerings in the Land and Sins of Ignorance]]

@@ -265,6 +265,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–8; guilt confessed and repaid.
 - [[The Suspected Wife]] — Numbers 5:11–31; hidden guilt, and no confession provided for.
 - [[The Defeat at Hormah]] — Numbers 14:40; *we have sinned*
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:24, 31; hidden from the congregation, and iniquity left on the person
 
 ## Related themes
 

@@ -345,6 +345,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the ram beside the repayment.
 - [[The Nazirite Vow]] — Numbers 6:11; atonement for a death nobody intended.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:12, 19, 21; atonement for the Levites and by them.
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; atonement for error, and none named for the high hand
 
 ## Related themes
 

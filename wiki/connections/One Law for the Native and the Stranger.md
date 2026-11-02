@@ -20,10 +20,10 @@ tags: [connection]
 - **Numbers 15:15–16** — the offerings: *"there shall be one statute for you and for the stranger who lives
   as a foreigner, a statute forever throughout your generations. As you are, so shall the foreigner be
   before Yahweh. One law and one ordinance shall be for you, and for the stranger who lives as a foreigner
-  with you"* *(not yet ingested)*
+  with you"* — [[Offerings in the Land and Sins of Ignorance]]
 - **Numbers 15:29** — unwitting sin: *"You shall have one law for him who does anything unwittingly, for
   him who is native-born among the children of Israel, and for the stranger who lives as a foreigner among
-  them"* *(not yet ingested)*
+  them"* — [[Offerings in the Land and Sins of Ignorance]]
 - **Genesis 17:12–13, 27** — the household rule the Passover law takes over: the bought slave and the
   house-born alike circumcised — [[Circumcision, the Sign of the Covenant]]
 

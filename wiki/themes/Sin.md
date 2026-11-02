@@ -570,6 +570,11 @@ against Yahweh (35), and *zənût* (33). Verses 18–19 and 34 use *ʿāwōn*. S
 
 The people say *we have sinned*, and in the same sentence announce the next act of disobedience. Confession here does not stop the action. See [[The Defeat at Hormah]].
 
+### Error and the high hand — Numbers 15:22–31
+
+The law sets a sin done *bišgāgâ* against one done *with a high hand*. The first has an offering, and
+the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -832,6 +837,7 @@ The people say *we have sinned*, and in the same sentence announce the next act 
 - [[Miriam and Aaron Against Moses]] — Numbers 12:11; Aaron's confession.
 - [[The People Refuse the Land]] — Numbers 14:9–35; a single refusal under many names
 - [[The Defeat at Hormah]] — Numbers 14:40–43; a confession and a new transgression at once
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:22–31; error set against the high hand
 
 ## Related themes
 

@@ -207,6 +207,11 @@ will not see the land. Forgiveness here is not the removal of every consequence,
 no theory of how the two fit. The same verb *nāśāʾ* covers Yahweh's bearing of iniquity (18–19) and
 the people's own (33–34). See [[The People Refuse the Land]].
 
+### Forgiveness by procedure — Numbers 15:25–28
+
+The verb of *I have pardoned* (14:20) returns three times, each following the priest's atonement. It is
+not extended to the high hand, whose iniquity stays on the person (31). See [[Offerings in the Land and Sins of Ignorance]].
+
 ## Key passages
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
@@ -277,6 +282,7 @@ the people's own (33–34). See [[The People Refuse the Land]].
 - [[The People Refuse the Land]] — Numbers 14:18–23; pardon at Moses' word, and the sentence beside
   it
 - [[The Defeat at Hormah]] — Numbers 14:42; pardoned at 14:20, yet Yahweh is not among them
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25–28; the verb of 14:19–20, attached to a procedure
 
 ## Related themes
 

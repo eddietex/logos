@@ -441,6 +441,7 @@ conclusions (13–16). Yahweh's name stands in their hearing. See
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1; a wife from Cush, or from Midian.
 - [[The Twelve Spies]] — Numbers 13:28–29, 33; the peoples of the land by region
 - [[The People Refuse the Land]] — Numbers 14:13–16; the nations as the audience of Israel's fate
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:14–16, 26, 29; *as you are, so shall the foreigner be*
 
 ## Related themes
 

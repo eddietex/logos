@@ -880,6 +880,11 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 Obedience here depends on the present word. What was commanded yesterday is forbidden today, and doing it is called crossing the mouth of Yahweh. See [[The Defeat at Hormah]].
 
+### Not done, and despised — Numbers 15:22–31
+
+The law separates commands left undone by error from the word of Yahweh despised. See
+[[Offerings in the Land and Sins of Ignorance]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1087,6 +1092,7 @@ Obedience here depends on the present word. What was commanded yesterday is forb
 - [[The Cloud over the Tabernacle]] — Numbers 9:19, 23; staying put called keeping Yahweh's charge.
 - [[The March from Sinai]] — Numbers 10:13–28; the rule and order of march obeyed.
 - [[The Defeat at Hormah]] — Numbers 14:40–44; the command refused, then attempted after it was withdrawn
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:15–16, 22, 31; one law, commands not done, and the word despised
 
 ## Related themes
 

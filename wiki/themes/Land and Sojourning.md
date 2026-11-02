@@ -336,6 +336,11 @@ The promise is intact, *the land which I swore to their fathers* (23), and those
 offer say they want Egypt. They are said to have *rejected* it (31). Those who reach it will be the
 children, and Caleb. See [[The People Refuse the Land]].
 
+### The land, again — Numbers 15
+
+One chapter after the sentence, the formula *when you have come into the land* returns unchanged. See
+[[Offerings in the Land and Sins of Ignorance]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -651,6 +656,7 @@ children, and Caleb. See [[The People Refuse the Land]].
 - [[The Twelve Spies]] — Numbers 13:1–33; the land seen, carried back as fruit, and slandered
 - [[The People Refuse the Land]] — Numbers 14:1–38; refused at the border, and postponed forty years
 - [[The Defeat at Hormah]] — Numbers 14:40–45; attempted after refusal
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:2, 18; law for arrival, given to a sentenced people
 
 ## Related themes
 

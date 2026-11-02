@@ -81,7 +81,7 @@ death sentence, with no way of knowing, on information supplied by God's own pro
 chapter's answer is neither that he is guilty nor that nothing happened. He was in real danger, he
 was prevented, and he needed someone else's prayer to be made well. That is the exact shape the later
 law gives the *šəgāgâ*, the sin committed unwittingly, which still requires an offering (Leviticus 4;
-Numbers 15:22–29). See [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]].
+Numbers 15:22–29; see [[Offerings in the Land and Sins of Ignorance]]). See [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]].
 
 ### In the next pericope — Genesis 21:22–34
 

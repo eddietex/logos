@@ -174,6 +174,7 @@ See [[The Twelve Spies]].
 - [[The Passover in the Second Year]] — Numbers 9:1–14; the feast at its date, and a later date for those who could not come.
 - [[The Two Silver Trumpets]] — Numbers 10:10; feasts and new moons marked by trumpets.
 - [[The Twelve Spies]] — Numbers 13:20, 26; the first-ripe grapes, brought as evidence
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 17–21; set feasts, and the first of the dough
 
 ## Related themes
 

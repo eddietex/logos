@@ -371,6 +371,7 @@ The people answer a sentence by going up against the word. The verb, *wayyaʿpil
 - [[The House of Mourning]] — Ecclesiastes 7:8; the patient in spirit better than the proud.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:2–3; *only with Moses?* and *very humble*.
 - [[The Defeat at Hormah]] — Numbers 14:44; *they presumed*
+- [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30; *with a high hand*
 
 ## Related themes
 
