@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The March from Sinai]] — Numbers 10:33; the ark goes before them *to seek out a resting place*
 - [[The Twelve Spies]] — Numbers 13:2, 16, 17, 21, 25, 32
-- Numbers 14:6, 7, 34, 36, 38 — the same verb in the sequel *(stored WEB and WLC, not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14:6, 7, 34, 36, 38; the same verb in the sequel
 - Numbers 15:39 — *that you don't follow your own heart and your own eyes* *(stored WEB and WLC, not
   yet ingested)*
 - Deuteronomy 1:33 — Yahweh going before them to seek out a place *(WLC; see

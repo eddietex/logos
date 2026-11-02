@@ -38,7 +38,7 @@ generation and says *you*, so the initiative and the fault both lie with the peo
 purpose is the wiki's.
 
 **The verdict does not differ.** Deuteronomy 1:26 says *Yet you wouldn't go up, but rebelled against
-the commandment of Yahweh your God*. Numbers 14 will say the same. Neither account says that wanting
+the commandment of Yahweh your God*. Numbers 14 says the same in other words; see [[The People Refuse the Land]], whose sentence Deuteronomy 1:34–40 retells, adding Moses' own exclusion at 1:37. Neither account says that wanting
 information was the sin.
 
 ## Significance

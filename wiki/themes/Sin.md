@@ -559,6 +559,13 @@ Aaron's confession pairs *nôʾalnû* with *ḥāṭāʾnû*, and asks Moses not
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### Names for the refusal — Numbers 14
+
+Few passages name one act so many ways: despising (*nāʾaṣ*, 11, 23), not believing (11), rebelling
+(*mārad*, 9), testing (22), not listening (22), rejecting (*māʾas*, 31), murmuring (27), gathering
+against Yahweh (35), and *zənût* (33). Verses 18–19 and 34 use *ʿāwōn*. See
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -819,6 +826,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Nazirite Vow]] — Numbers 6:11; *ḥāṭāʾ* with no intention.
 - [[The Passover in the Second Year]] — Numbers 9:13; a duty left undone.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:11; Aaron's confession.
+- [[The People Refuse the Land]] — Numbers 14:9–35; a single refusal under many names
 
 ## Related themes
 

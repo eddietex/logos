@@ -301,6 +301,12 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### *As I live* — Numbers 14
+
+By the tags this is the first *ḥay ʾānî* (21, 28), and 14:23, 30, and 35 have the oath forms with
+*ʾim*. The land was sworn to the fathers (16, 23), and here Yahweh swears not to give it to these
+men, with the same raised hand as Exodus 6:8 (30). See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -483,6 +489,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 - [[The Suspected Wife]] — Numbers 5:11–31; an imposed oath of cursing where no witness exists.
 - [[The Nazirite Vow]] — Numbers 6:1–21; a vow with its own law, open to man or woman.
+- [[The People Refuse the Land]] — Numbers 14:21–23, 28–30, 35; the first *as I live*, and the oath
+  of exclusion
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

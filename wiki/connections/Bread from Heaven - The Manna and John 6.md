@@ -45,7 +45,7 @@ wasn't Moses"* — is the correction Moses made.** What John adds is the identit
 
 **The difference John insists on is death.** Exodus says the manna lasted forty years and stopped at the
 border of Canaan (16:35; Joshua 5:12); it fed a generation that, in the Torah's account, died in the
-wilderness (Numbers 14; *not yet ingested*). John draws that line twice (6:49, 58). **The manna is
+wilderness (Numbers 14; [[The People Refuse the Land]]). John draws that line twice (6:49, 58). **The manna is
 treated as real bread from God that did what bread does, and no more.**
 
 **Other New Testament uses** (WEB; *not yet ingested*): Paul says the fathers *"all ate the same spiritual

@@ -672,6 +672,11 @@ The Nazirite may not go near a dead body, even a parent's (6–7), and the high 
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### They lived — Numbers 14
+
+*We wish that we had died* (2) is answered with *they shall die* (35), and the chapter closes on
+*ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -1092,6 +1097,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:18–20; that they may live.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:2; the dead and the camp.
 - [[The Nazirite Vow]] — Numbers 6:6–12; the holy person kept from the corpse.
+- [[The People Refuse the Land]] — Numbers 14:2, 35, 37–38; wished death, sentenced death, and the
+  two who lived
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

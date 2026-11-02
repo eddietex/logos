@@ -8,8 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Twelve Spies]] — Numbers 13:22, 28, 30
-- Numbers 14:24 — *him I will bring into the land into which he went* *(stored WEB, not yet
-  ingested)*
+- [[The People Refuse the Land]] — Numbers 14:24; *him I will bring into the land into which he went*
 - Deuteronomy 1:36 — *the land that he has trodden on* *(WEB checked, not yet ingested)*
 - Joshua 11:21–22 — Joshua cuts off the Anakim *(WEB checked, not yet ingested)*
 - Joshua 14:6–14 — Caleb asks for the hill country *(WEB checked, not yet ingested)*

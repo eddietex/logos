@@ -142,6 +142,12 @@ Hebrew verb here is the verb discussed in its earlier Genesis material.
 
 See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparisons as identified above.
 
+### *These ten times* — Numbers 14
+
+*Wayənassû ʾōtî zeh ʿeśer pəʿāmîm* (22, WLC). The verb is that of Massah, and the people are the
+ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατον* makes it a count. See
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; God tests humanity to reveal its likeness to animals.
@@ -245,6 +251,7 @@ See [[From Dust to Dust]]. Source: stored WEB Ecclesiastes 3:16–22; comparison
 - [[The Ten Commandments]] — Exodus 20:18–21; Moses explains the test to the people during the
   encounter
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:21; The crucible and furnace of 17:3 again, with praise as the test.
+- [[The People Refuse the Land]] — Numbers 14:22; *they have tempted me these ten times*
 
 ## Related themes
 

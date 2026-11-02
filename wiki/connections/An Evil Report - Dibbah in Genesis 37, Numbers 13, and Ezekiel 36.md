@@ -10,7 +10,7 @@ tags: [connection]
 - [[Joseph Sold into Slavery]] — Genesis 37:2; *Joseph brought an evil report of them to their
   father*
 - [[The Twelve Spies]] — Numbers 13:32
-- Numbers 14:36–37 — the men who brought it die *(stored WEB, not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14:36–37; the men who brought it die, and verse 37 adds *rāʿâ*
 - Psalm 31:13 (31:14 Hebrew) *(WLC, not yet ingested)*
 - Proverbs 10:18 — *He who utters a slander is a fool* *(WEB checked, not yet ingested)*
 - Proverbs 25:10 — *your bad reputation never depart* *(WEB checked, not yet ingested)*

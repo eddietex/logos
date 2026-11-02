@@ -57,6 +57,8 @@ land promised beyond it. See [[The Angel Sent Ahead]].
   upright as a heap"*; *"They sank like lead in the mighty waters"*
 - [[Bitter Water at Marah]] — Exodus 15:22; **left behind.** *"Moses led Israel onward from the Red Sea"*
 - [[The Angel Sent Ahead]] — Exodus 23:31; the southern limit of the promised border
+- [[The People Refuse the Land]] — Numbers 14:25; *the way to the Red Sea*, the road away from the
+  land
 
 ## Related places
 
@@ -75,3 +77,4 @@ land promised beyond it. See [[The Angel Sent Ahead]].
 - Israel sets out from it into the wilderness of Shur — Exodus 15:22, [[Bitter Water at Marah]]
 - *Ahead*: Numbers 33:10 has Israel camp *"by the Red Sea"* again after Elim
 - Named as the first limit of Israel's border — Exodus 23:31, [[The Angel Sent Ahead]]
+- Israel is told to turn back toward it — Numbers 14:25, [[The People Refuse the Land]]

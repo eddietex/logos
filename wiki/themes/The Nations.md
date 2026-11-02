@@ -184,6 +184,12 @@ list here have regions. See [[The Anakim]] and [[Amalek]].
 
 See [[The Twelve Spies]].
 
+### The audience — Numbers 14
+
+Moses argues that the Egyptians and the people of the land know what Yahweh has done, and will draw
+conclusions (13–16). Yahweh's name stands in their hearing. See
+[[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -434,6 +440,7 @@ See [[The Twelve Spies]].
 - [[The March from Sinai]] — Numbers 10:29–32; a Midianite offered a share of Israel's good.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1; a wife from Cush, or from Midian.
 - [[The Twelve Spies]] — Numbers 13:28–29, 33; the peoples of the land by region
+- [[The People Refuse the Land]] — Numbers 14:13–16; the nations as the audience of Israel's fate
 
 ## Related themes
 

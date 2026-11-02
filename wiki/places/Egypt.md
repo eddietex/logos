@@ -457,6 +457,8 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Passover in the Second Year]] — Numbers 9:1; the point the year is counted from.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; remembered for free fish, *it was well with us in Egypt*
 - [[The Twelve Spies]] — Numbers 13:22; named in the date of Hebron
+- [[The People Refuse the Land]] — Numbers 14:2–4, 13, 19, 22; where they wish they had died, and
+  propose to return
 
 ## Related places
 
@@ -552,3 +554,5 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
   [[Laws of Holiness and Compassion]]
 - Named as the land where the firstborn were struck, the ground of the Levites' service — Numbers 3:13,
   [[The Generations of Aaron and the Levites Given]]
+- The congregation proposes to appoint a head and return here — Numbers 14:4,
+  [[The People Refuse the Land]]

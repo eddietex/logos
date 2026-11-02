@@ -386,6 +386,8 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the prepared place, its six peoples, its border, and
   a gradual dispossession
 - [[The Twelve Spies]] — Numbers 13:2, 17; the land searched at last, *which I give*
+- [[The People Refuse the Land]] — Numbers 14:1–38; the land refused, called *exceeding good* by
+  Joshua and Caleb
 
 ## Related places
 
@@ -455,3 +457,5 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - Promised as the place prepared, to be entered behind an angel and taken little by little —
   Exodus 23:20–33, [[The Angel Sent Ahead]]
 - The twelve search it for forty days — Numbers 13:21–25, [[The Twelve Spies]]
+- The generation counted at Sinai is sworn out of it — Numbers 14:23, 30,
+  [[The People Refuse the Land]]

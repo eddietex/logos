@@ -116,6 +116,13 @@ judgment without itself using the word relent. Jonah 4:2 includes relenting in i
 divine mercy (WEB verified at bible-api.com, 2026-10-24). The difference matters: Jonah's speech
 is not a verbatim copy of every clause of Exodus. See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]]. See [[The Covenant Renewed]].
 
+### No word of relenting — Numbers 14
+
+Yahweh says he will strike and disinherit the people (12), and after Moses' plea he does not. Unlike
+Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It says *I have pardoned*
+(20), and what he then does is a different act from what he first announced. See
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Renewal follows relenting; Jonah later joins mercy to relenting.
@@ -143,6 +150,7 @@ is not a verbatim copy of every clause of Exodus. See [[Merciful and Gracious - 
   change their minds (yinnāḥēm)"* — the niphal of *nāḥam*, God's *"sorry"* at Genesis 6:6–7, here a change of
   heart God foresees in Israel and plans the route around (WLC). Its next use, at 32:12–14, is Moses asking
   God to relent
+- [[The People Refuse the Land]] — Numbers 14:11–20; a stated purpose changed, without *nāḥam*
 
 ## Related themes
 

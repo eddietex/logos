@@ -166,6 +166,14 @@ This is the cloud and fire of Exodus 40:34–38, and the unit never says *glory*
 
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
+### At the Tent, and in all the earth — Numbers 14
+
+The glory appears as the congregation speaks of stoning (10). It comes to protect, and it brings
+judgment. Yahweh then swears by it, *all the earth shall be filled with Yahweh's glory* (21), and he
+makes having seen it the ground of the charge (22). See
+[[Filled with His Glory - Numbers 14.21, Psalm 72, Isaiah 6, and Habakkuk 2]] and
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
@@ -199,6 +207,8 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; Glory fills the tent and prevents Moses’ entry; cloud and fire remain publicly visible.
 - [[The Glory of Kings]] — Proverbs 25:2, 27; God's glory to conceal a thing, the king's to search it out.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–16; the cloud and fire over the tabernacle, without the word *glory*.
+- [[The People Refuse the Land]] — Numbers 14:10, 21–22; the glory at the Tent, and sworn over the
+  earth
 
 ## Related themes
 

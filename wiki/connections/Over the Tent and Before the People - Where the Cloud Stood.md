@@ -13,7 +13,7 @@ tags: [connection]
 - [[The Camp Around the Tent]] — Numbers 2:17; the Tent travels in the middle
 - [[The March from Sinai]] — Numbers 10:11–12, 31–36; the cloud, the ark, and Hobab on the march
 - [[Miriam and Aaron Against Moses]] — Numbers 12:5, 10; a pillar at the door, and the cloud leaving the Tent
-- Numbers 14:14 — *your cloud stands over them, and you go before them* *(stored WEB, not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14:14; *your cloud stands over them, and you go before them*
 - Deuteronomy 1:33 — Yahweh seeking out the camping place *(WEB checked at bible-api.com, not yet ingested)*
 
 ## Analysis

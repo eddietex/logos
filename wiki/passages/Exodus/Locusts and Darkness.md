@@ -491,7 +491,7 @@ that ends at 11:8. **The text leaves the seam visible, and so does this page.**
 - Exodus 23:33; 34:12 — *môqēš*, *"a snare"* — [[The Angel Sent Ahead]] (34:12 *not yet ingested*)
 - Exodus 33:20 — *"man may not see me and live"* *(not yet ingested)*
 - Leviticus 11:3–7, 22 — *parsâ*; *ʾarbeh* among clean insects *(not yet ingested)*
-- Numbers 14:27 — *"How long shall I bear with this evil congregation?"* (WEB) *(not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14:27; *"How long shall I bear with this evil congregation?"* (WEB)
 - Numbers 22:5, 11, 29 — *"they cover the surface of the earth"*; *"you have mocked me"* (WEB, 22:29)
   *(not yet ingested)*
 - Deuteronomy 6:20–21 — *"When your son asks you in time to come"* (WEB) *(not yet ingested)*

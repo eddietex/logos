@@ -392,6 +392,14 @@ Aaron cannot go to God and goes to Moses, *my lord*, and Moses goes to God. Yahw
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### Moses against the offer — Numbers 14
+
+Yahweh offers to make a greater nation from Moses (12). Moses ignores it and argues from the
+nations' report and Yahweh's own words (13–19), and he wins the people's life but not their entry.
+Joshua and Caleb plead on the other side at the same time, with the people, and are nearly stoned.
+See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]]
+and [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -652,6 +660,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Fire at Taberah]] — Numbers 11:2; the people cry to Moses, and he prays.
 - [[The Seventy Elders and the Quail]] — Numbers 11:11–30; the mediator's burden shared with seventy.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:11–14; the attacked brother prays for the sister.
+- [[The People Refuse the Land]] — Numbers 14:5–19; the second offer of a new nation, and the plea
 
 ## Related themes
 

@@ -74,6 +74,12 @@ Yahweh promises marvels unlike those worked in all the earth or any nation, befo
 locates the announcement toward the journey and land; the verse does not enumerate particular
 miracles or identify all of them with the later conquest stories. See [[The Covenant Renewed]].
 
+### Signs that did not bring belief — Numbers 14
+
+*For all the signs which I have worked among them* (11), and *my signs, which I worked in Egypt and
+in the wilderness* (22). Yahweh treats the signs as evidence that should have settled the matter.
+See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Unprecedented marvels promised as covenant renewal begins.
@@ -151,6 +157,7 @@ miracles or identify all of them with the later conquest stories. See [[The Cove
   (17:9), the name of 4:20; raised, Israel prevails, lowered, Amalek does. **No sign is announced and no one is
   told to watch it** — the correlation is simply reported
 - [[Laws of Holiness and Compassion]] — Exodus 22:18; the sorceress, with the root of Pharaoh's sorcerers
+- [[The People Refuse the Land]] — Numbers 14:11, 22; the signs as the charge
 
 ## Related themes
 

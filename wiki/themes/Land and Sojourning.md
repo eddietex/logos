@@ -330,6 +330,12 @@ the fear side by side at the border, and the fathers' graves at Hebron go unment
 
 See [[The Twelve Spies]].
 
+### The land refused — Numbers 14
+
+The promise is intact, *the land which I swore to their fathers* (23), and those to whom it was on
+offer say they want Egypt. They are said to have *rejected* it (31). Those who reach it will be the
+children, and Caleb. See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -643,6 +649,7 @@ See [[The Twelve Spies]].
 - [[The Passover in the Second Year]] — Numbers 9:14; *born in the land*, said before the land.
 - [[The March from Sinai]] — Numbers 10:29–30; Moses names the goal, and Hobab his own land.
 - [[The Twelve Spies]] — Numbers 13:1–33; the land seen, carried back as fruit, and slandered
+- [[The People Refuse the Land]] — Numbers 14:1–38; refused at the border, and postponed forty years
 
 ## Related themes
 

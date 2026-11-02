@@ -119,6 +119,11 @@ WEB; Ezekiel 18:19–23 was rechecked at bible-api.com (`translation=web`) on 20
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
+**Numbers 14 enacts the clause Moses quoted.** Moses recites *visiting the iniquity of the fathers
+on the children* at 14:18, and at 14:33 the children *bear your prostitution* for forty years,
+though they enter the land and the fathers do not. See [[The People Refuse the Land]] and
+[[Your Little Ones - Numbers 14.31 and Deuteronomy 1.39]].
+
 ## Significance
 
 The texts create a sustained debate about responsibility across generations. The Decalogue's

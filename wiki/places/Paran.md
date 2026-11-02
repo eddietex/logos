@@ -51,6 +51,7 @@ geography of the Torah, which puts Israel's spies in it.
 - [[The March from Sinai]] — Numbers 10:12; where the cloud is said to stop, summarizing the stage from Sinai
 - [[Miriam and Aaron Against Moses]] — Numbers 12:16; reached by name, after Hazeroth
 - [[The Twelve Spies]] — Numbers 13:3, 26; the men go out from it and come back to it
+- [[The People Refuse the Land]] — Numbers 14:1–38; the wilderness of the scene, by 13:26
 
 ## Related places
 
@@ -77,3 +78,4 @@ geography of the Torah, which puts Israel's spies in it.
 - The twelve spies are sent from here and report back here — Numbers 13:3, 26, [[The Twelve Spies]]
 - *"He shone from Mount Paran"* — Deuteronomy 33:2; Habakkuk 3:3
 - Hadad the Edomite passes through on his flight to Egypt — 1 Kings 11:18
+- The refusal, and the sentence of forty years — Numbers 14:1–38, [[The People Refuse the Land]]

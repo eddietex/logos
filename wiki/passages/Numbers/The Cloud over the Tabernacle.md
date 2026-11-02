@@ -147,7 +147,7 @@ as long as it did.
 
 **Waiting as obedience.** Verse 19 calls staying put *keeping Yahweh's charge*: *and didn't travel*. The rule is
 hardest in the long stop, and verse 19 names that case first. Deuteronomy 1:2 sets the road from Horeb to Kadesh
-at eleven days, so the long years ahead are not a matter of distance. Their cause is told at Numbers 14.
+at eleven days, so the long years ahead are not a matter of distance. Their cause is told at Numbers 14, in [[The People Refuse the Land]].
 
 **Yahweh's charge.** *Mišmeret YHWH* (19, 23), adjacent, stands in the tags at these two verses, Leviticus 8:35,
 1 Kings 2:3, and 2 Chronicles 13:11; 23:6. *Mišmeret* has been the word for the Levites' guard duty (Numbers

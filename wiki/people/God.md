@@ -3135,6 +3135,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 11:1–3 — Hears the complaint, sends his fire, and stops it at Moses' prayer. [[The Fire at Taberah]]
 - Numbers 11:4–35 — Hears both complaints, shares the Spirit on Moses, and gives meat with a plague. [[The Seventy Elders and the Quail]]
 - Numbers 13:1–3 — Commands the sending, and calls the land what *I give*. [[The Twelve Spies]]
+- Numbers 14:10–35 — Appears at the Tent, offers to replace Israel, pardons, swears *as I live*, and
+  passes sentence. [[The People Refuse the Land]]
 
 ## Appears in
 
@@ -3766,6 +3768,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Fire at Taberah]] — Numbers 11:1–3; hears, is angry, and sends the fire.
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; answers Moses with help, and the people with what they asked for.
 - [[The Twelve Spies]] — Numbers 13:1–3; commands the sending, and calls the land his gift.
+- [[The People Refuse the Land]] — Numbers 14:10–35; pardons and sentences.
 
 ## Related people
 

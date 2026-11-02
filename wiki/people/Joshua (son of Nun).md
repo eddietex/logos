@@ -70,6 +70,13 @@ no reason. In this chapter he says nothing: Caleb speaks at 13:30, and Joshua's 
 matter come at 14:6–9. Deuteronomy 32:44 still has *Hoshea* in WLC, where WEB prints *Joshua* and
 Rahlfs has *Ἰησοῦς*. See [[The Twelve Spies]] and [[Joshua and Jesus - One Name]].
 
+### He speaks — Numbers 14
+
+Silent in Numbers 13, he stands with Caleb here: they tear their clothes and say *an exceeding good
+land*, and *they are bread for us* (6–9). Yahweh names him with Caleb as the two who will enter
+(30), and they alone of the men who went live (38). He is not named in the *my servant* of verse 24,
+and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the Land]].
+
 ## Timeline / key events
 
 - Exodus 33 — the young servant who remains at the tent (33:11). [[Show Me Your Glory]]
@@ -84,6 +91,8 @@ Rahlfs has *Ἰησοῦς*. See [[The Twelve Spies]] and [[Joshua and Jesus - O
 - *(ahead)* Commissioned as Moses' successor (Numbers 27:18–23; Deuteronomy 31; 34:9)
 
 - Exodus 32 — Hears the camp’s celebration as the noise of war (32:17–18). [[The Golden Calf]]
+- Tears his clothes and pleads; named as one of the two who will enter — Numbers 14:6–9, 30, 38,
+  [[The People Refuse the Land]]
 
 ## Appears in
 
@@ -100,6 +109,8 @@ Rahlfs has *Ἰησοῦς*. See [[The Twelve Spies]] and [[Joshua and Jesus - O
   his servant"*
 - [[The Twelve Spies]] — Numbers 13:8, 16; sent for Ephraim, and called Joshua; silent in the
   chapter
+- [[The People Refuse the Land]] — Numbers 14:6–9, 30, 38; pleads with Caleb, is threatened, and
+  survives.
 
 ## Related people
 

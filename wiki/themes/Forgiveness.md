@@ -199,6 +199,13 @@ differently; the tension is recorded in
 
 See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
 
+### *I have pardoned* — Numbers 14
+
+*Səlaḥ-nāʾ* (19) is answered with *sālaḥtî kidbārekā* (20, WLC), by the tags the only first-person
+perfect of this verb, and the very next word is *but*. The nation lives, and the men who refused
+will not see the land. Forgiveness here is not the removal of every consequence, and the text gives
+no theory of how the two fit. The same verb *nāśāʾ* covers Yahweh's bearing of iniquity (18–19) and
+the people's own (33–34). See [[The People Refuse the Land]].
 
 ## Key passages
 
@@ -267,6 +274,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
   Moses prays and the locusts go, but the text says nothing of forgiveness, and the heart is hardened
   again** (10:20)
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"he will not pardon your disobedience"*.
+- [[The People Refuse the Land]] — Numbers 14:18–23; pardon at Moses' word, and the sentence beside
+  it
 
 ## Related themes
 

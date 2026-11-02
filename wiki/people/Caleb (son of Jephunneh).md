@@ -18,10 +18,12 @@ once, and possess it; for we are well able to overcome it!"* (13:30). The Hebrew
 nûkal* (31). He does not mention Yahweh here. He does not dispute any fact in the report. He
 disputes the conclusion. See [[The Twelve Spies]].
 
-**His survival is ahead.** Numbers 14:24 calls him *my servant Caleb*, *because he had another
-spirit with him, and has followed me fully*. He and Joshua alone of the men who were sent stay alive
-(14:38), and he and Joshua alone of the counted generation enter (14:30; 26:65; 32:12). Those verses
-are stored WEB, *not yet ingested*.
+**His survival.** He tears his clothes with Joshua and pleads (14:6–9). Numbers 14:24 calls him *my
+servant Caleb*, *because he had another spirit with him, and has followed me fully*, and promises
+him the land he went into. He and Joshua alone of the men who were sent stay alive (14:38), and he
+and Joshua alone of the counted generation enter (14:30). Numbers 26:65 and 32:12 confirm it (stored
+WEB, *not yet ingested*). See [[The People Refuse the Land]] and
+[[Wholly Followed - Mille Ahare in Numbers, Deuteronomy, Joshua, and 1 Kings]].
 
 **At eighty-five he asks for the hill country.** Joshua 14:7 has him say, *I was forty years old
 when Moses the servant of Yahweh sent me from Kadesh Barnea to spy out the land*, and 14:10 has him
@@ -50,8 +52,7 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 
 - Sent for Judah — Numbers 13:6, [[The Twelve Spies]]
 - Stills the people and says *we are well able* — Numbers 13:30
-- *(ahead)* With Joshua, tears his clothes and pleads; spared the sentence and the plague — Numbers
-  14:6–9, 24, 30, 38
+- With Joshua, tears his clothes and pleads; spared the sentence and the plague — Numbers 14:6–9, 24, 30, 38, [[The People Refuse the Land]]
 - *(ahead)* Named to divide the land for Judah — Numbers 34:19
 - *(ahead)* At eighty-five, asks for Hebron — Joshua 14:6–14
 - *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
@@ -60,6 +61,7 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 
 - [[The Twelve Spies]] — Numbers 13:6, 30; first appearance, and the first to say the land can be
   taken
+- [[The People Refuse the Land]] — Numbers 14:6–9, 24, 30, 38; *my servant Caleb*
 
 ## Related people
 

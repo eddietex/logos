@@ -278,6 +278,12 @@ Here the act is defined by what cannot be shown: hidden, concealed, no witness, 
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### *Your prostitution* — Numbers 14
+
+*Zənût* first occurs at 14:33 (WLC), with no sexual act in view: refusing the land is called
+infidelity. The Prophets will use the word in this figurative way. See
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
@@ -339,6 +345,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[A Good Name]] — Proverbs 22:14; The adulteress's mouth a deep pit.
 - [[Do Not Envy Sinners]] — Proverbs 23:27–28; The prostitute as a deep pit, the foreign woman as a narrow well, lying in wait.
 - [[The Suspected Wife]] — Numbers 5:11–31; suspected adultery with no witness, and the other man absent.
+- [[The People Refuse the Land]] — Numbers 14:33; *zənût* of the refusal
 
 ## Related themes
 

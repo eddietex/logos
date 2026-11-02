@@ -53,8 +53,7 @@ command Israel to imitate the fast or explain its physiological conditions.
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 
 **Numbers 13:25** gives the spies forty days, *miqqēṣ ʾarbāʿîm yôm* (WLC), without *forty nights*.
-It is the same count as Sinai, and Numbers 14:34 will turn it into forty years, a year for a day
-(stored WEB; *not yet ingested*).
+It is the same count as Sinai, and Numbers 14:34 turns it into forty years, *yôm laššānâ yôm laššānâ*, a year for each day. See [[The People Refuse the Land]] and [[A Day for a Year - Numbers 14.34 and Ezekiel 4.6]]. Deuteronomy 2:14 counts thirty-eight (WEB checked).
 
 ## Significance
 

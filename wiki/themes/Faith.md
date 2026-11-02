@@ -209,6 +209,14 @@ Psalm 106:24 sums it up as *They didn't believe his word* (WEB; *not yet ingeste
 
 See [[The Twelve Spies]].
 
+### *How long will they not believe in me* — Numbers 14
+
+Yahweh names the refusal as unbelief: *lōʾ-yaʾămînû bî* (11, WLC), against all the signs, and it is
+the verb of Exodus 14:31. Joshua and Caleb argue from Yahweh's delight and presence, not from
+Israel's strength (8–9). Hebrews 3:19 will say *they were not able to enter in because of unbelief*,
+and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Land]] and
+[[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -349,6 +357,7 @@ See [[The Twelve Spies]].
 - [[The Seventy Elders and the Quail]] — Numbers 11:21–23; Moses' arithmetic, and the question it gets.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:7; *neʾĕmān*.
 - [[The Twelve Spies]] — Numbers 13:30–31; *we are well able* and *We aren't able*
+- [[The People Refuse the Land]] — Numbers 14:8–11; *how long will they not believe in me*
 
 ## Related themes
 

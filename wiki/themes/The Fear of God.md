@@ -381,10 +381,14 @@ shout. See [[The Eighth Day and the Appearing Glory]] .
 ### The spies — Numbers 13
 
 Yahweh's word to Israel has been to fear him, and the chapter gives the reverse. The word *fear* is
-not used, yet Moses says *Be courageous*, and the ten end at *grasshoppers*. Numbers 14:9 will name
-it: *neither fear the people of the land* (stored WEB; *not yet ingested*).
+not used, yet Moses says *Be courageous*, and the ten end at *grasshoppers*. Numbers 14:9 names it: *neither fear the people of the land* ([[The People Refuse the Land]]).
 
 See [[The Twelve Spies]].
+
+### *Neither fear the people of the land* — Numbers 14
+
+*ʾAl-tîrəʾû* comes twice in verse 9, around *Yahweh is with us*. The fear the ten spread is named
+and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
 
@@ -637,6 +641,7 @@ See [[The Twelve Spies]].
 - [[Do Not Envy Sinners]] — Proverbs 23:17; Fear of Yahweh *"all day long"*, as the alternative to envying sinners.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:21; Fear of Yahweh, and of the king, against joining the rebellious.
 - [[The Twelve Spies]] — Numbers 13:31–33; fear of the people, unnamed until 14:9
+- [[The People Refuse the Land]] — Numbers 14:9; *don't fear them*
 
 ## Related themes
 

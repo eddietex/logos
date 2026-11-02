@@ -36,7 +36,7 @@ says, *Let us go up at once* (30). The others say, *We aren't able* (31).
 Then the narrator changes the word. They bring out an *evil report of the land*: it is a land that
 eats up its inhabitants, all its people are huge, the Nephilim are there, and *we were in our own
 sight as grasshoppers, and so we were in their sight* (32–33). The chapter ends on that sentence.
-The people's answer, and Yahweh's, come in Numbers 14.
+The people's answer, and Yahweh's, come in [[The People Refuse the Land]].
 
 The chapter does not say the facts were false. The fruit is real, and so are the sons of Anak. The
 first report is called no evil thing. The turn comes when *we aren't able* replaces *Yahweh gives*,
@@ -159,7 +159,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[Joseph Sold into Slavery]] — Genesis 37:2; the same *dibbâ*
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:4
 - [[The Brothers' First Journey to Egypt]] — Genesis 42:9; *You are spies!*
-- Numbers 14:6–9, 24, 30, 36–38 — the two, and the death of the ten *(stored WEB, not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14:6–9, 24, 30, 36–38; the two, and the death of the ten
 - Numbers 15:39 — *that you don't follow*, the same verb *(stored WEB and WLC, not yet ingested)*
 - Numbers 20:1, 5 — Kadesh in the wilderness of Zin; figs, vines, and pomegranates *(stored WEB, not
   yet ingested)*

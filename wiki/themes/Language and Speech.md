@@ -586,6 +586,12 @@ issue, but the report becomes *an evil report*. Rahlfs has *ἔκστασιν*. 
 
 See [[The Twelve Spies]].
 
+### Words taken at their word — Numbers 14
+
+*As you have spoken in my ears, so will I do to you* (28, WLC). Speech is what is judged: the wish
+of verse 2, the claim of verse 3, the report of verses 36–37. The verse 10 stoning is itself only
+said. See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -895,6 +901,8 @@ See [[The Twelve Spies]].
 - [[The Suspected Wife]] — Numbers 5:22–24; the first *Amen*, and curses written and drunk.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; *dibbēr bə-* in two senses.
 - [[The Twelve Spies]] — Numbers 13:26, 32; *dābār* becomes *dibbâ*
+- [[The People Refuse the Land]] — Numbers 14:2–3, 28, 31, 36–37; speech as the terms of the
+  sentence
 
 ## Related themes
 

@@ -37,6 +37,11 @@ they say to you, "You are a devourer of men, and have been a bereaver of your na
 of Numbers 13:32 occur in one chapter, and Yahweh ends the slander by a promise. Whether Ezekiel
 means to echo Numbers cannot be proved; the wiki records the shared pair.
 
+**The answer at Numbers 14:9.** Joshua and Caleb reply *kî laḥmēnû hēm*, *they are bread for us*
+(WLC). It is the eating image turned round, and Rahlfs has *κατάβρωμα*. Psalm 14:4 has the wicked
+eating God's people *as they eat bread* (WEB checked), so the image is not tied to one side. See
+[[The People Refuse the Land]].
+
 ## Significance
 
 - The report borrowed a real idea, the land's power over those on it, and left out the reason

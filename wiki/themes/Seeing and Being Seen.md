@@ -313,6 +313,12 @@ sight as grasshoppers, and so we were in their sight* (33). They claim to know h
 
 See [[The Twelve Spies]].
 
+### They saw, and shall not see — Numbers 14
+
+*All those men who have seen my glory, and my signs … shall not see the land* (22–23). Having seen
+is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to eye* (14), and the
+glory appears to all Israel (10). See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -639,6 +645,7 @@ See [[The Twelve Spies]].
 - [[The Suspected Wife]] — Numbers 5:13, 16, 18, 30; hidden from the husband, set before Yahweh.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:8, 10; Yahweh's form, and Miriam's skin.
 - [[The Twelve Spies]] — Numbers 13:18, 33; *in our own sight*, and *in their sight*
+- [[The People Refuse the Land]] — Numbers 14:10, 14, 22–23; those who saw will not see
 
 ## Related themes
 

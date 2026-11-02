@@ -13,6 +13,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 |---|---|---|
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
 | [[David's Count and Moses' Count - Numbers 1, 2 Samuel 24, and 1 Chronicles 21]] | contrast | [[The Census in the Wilderness of Sinai]] · Exodus 30:12 · 2 Samuel 24:1, 10 · 1 Chronicles 21:1 · 1 Chronicles 27:23–24 |
+| [[A Day for a Year - Numbers 14.34 and Ezekiel 4.6]] | thread | [[The People Refuse the Land]] (Numbers 14:33–34) · Ezekiel 4:4–6 |
 | [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] | legal-ritual-parallel | [[The Day of Atonement]] · Leviticus 23:26–32 · [[Trumpets and the Day of Atonement]] (Leviticus 23:23–32) |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
 | [[Deceitful Food - The Savory Food of Genesis 27 and the Ruler's Delicacies]] | motif | [[The Stolen Blessing]] (Genesis 27:4, 7, 9, 14, 17, 31, 35) · [[Thirty Excellent Things]] (Proverbs 23:1–3, 6–8) · [[Wine Is a Mocker]] (Proverbs 20:17) |
@@ -71,6 +72,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]] | allusion | [[Laws of Holiness and Compassion]] (Exodus 22:28) · [[Through Wisdom a House Is Built]] (Proverbs 24:21–22) · [[The King's Heart]] (Proverbs 21:1) · 1 Peter 2:17 · Romans 13:7 · [[The King and the Limits of Power]] (Ecclesiastes 8:1–9) · [[Folly in High Places and Everyday Work]] (Ecclesiastes 10:20) |
 | [[Fell on His Neck and Wept - The Running Embrace in Genesis and Luke]] | parallel | Genesis 33:4 · Genesis 42:24 · Genesis 43:30–31 · Genesis 45:14–15 · Genesis 46:29–30 · Luke 15:20 |
 | [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] | thread | Genesis 41:33–36 · Genesis 47:20–26 · Deuteronomy 17:14–20 · 1 Samuel 8:10–18 · 1 Kings 12:3–4, 10–11 |
+| [[Filled with His Glory - Numbers 14.21, Psalm 72, Isaiah 6, and Habakkuk 2]] | thread | [[The People Refuse the Land]] (Numbers 14:21) · Psalm 72:19 · Isaiah 6:3 · Isaiah 11:9 · Habakkuk 2:14 |
 | [[The Finger of God - Exodus 8.19, Exodus 31.18, and Luke 11.20]] | allusion | Exodus 8:19 · Exodus 31:18 · Deuteronomy 9:10 · Luke 11:20 · Matthew 12:28 · [[Bezalel, Oholiab, and the Sabbath Sign]] · [[The Golden Calf]] (Exodus 32:15–19) · [[The Covenant Renewed]] (Exodus 34:1–28) |
 | [[Finished Work, Seeing, and Blessing - Creation and the Tabernacle]] | literary-parallel | Genesis 1:31–2:3 · [[The Work Completed]] (Exodus 39:32–43) · Exodus 35:1–3; 40:17–35 · [[The Tabernacle Raised and the Glory]] (Exodus 40:1–38) |
 | [[Fire and Sulfur from the Sky]] | thread | Genesis 19:24–25 · Exodus 9:8–10, 18–25 · Exodus 16:4 · Deuteronomy 29:23 · Job 18:15 · Psalm 11:6 · Isaiah 30:33; 34:9–10 · Ezekiel 38:22 · Luke 17:29 · Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 |

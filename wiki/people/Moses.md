@@ -911,6 +911,13 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 Sends the twelve, gives them six questions, calls Hoshea *Joshua*, and receives the report at
 Kadesh. He is silent when Caleb speaks and when the others reply. See [[The Twelve Spies]].
 
+### The refusal — Numbers 14
+
+He falls on his face before the assembly (5), and then, when Yahweh offers to make a greater nation
+from him (12), he never mentions it. He argues from the nations' report and from the proclamation of
+Exodus 34, leaving out its opening and keeping its warning (13–19), and he gets *I have pardoned*
+(20). He does not plead against the sentence. See [[The People Refuse the Land]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1162,6 +1169,8 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 - Numbers 12:1–16 — Spoken against by Miriam and Aaron; called very humble and faithful in all Yahweh's house; prays for Miriam. [[Miriam and Aaron Against Moses]]
 - Numbers 13:1–33 — Sends the twelve at Yahweh's word, renames Hoshea, and receives their report.
   [[The Twelve Spies]]
+- Refuses the offer of a greater nation and wins pardon — Numbers 14:11–20,
+  [[The People Refuse the Land]]
 
 ## Appears in
 
@@ -1397,6 +1406,8 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 - [[The Seventy Elders and the Quail]] — Numbers 11:10–30; his bitterest speech, and his widest wish.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; *very humble*, *mouth to mouth*, and five words for his sister.
 - [[The Twelve Spies]] — Numbers 13:1–33; sends the twelve, and calls Hoshea Joshua.
+- [[The People Refuse the Land]] — Numbers 14:1–38; falls on his face, pleads, and carries the
+  sentence.
 
 ## Related people
 

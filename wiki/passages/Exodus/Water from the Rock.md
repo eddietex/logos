@@ -160,7 +160,7 @@ Exodus's text this is **the first *"What shall I do?"*** he asks.
 Egyptians before their eyes, and won't they stone us?"* (8:26 WEB; 8:22 Hebrew). **Here it is the second
 *sāqal* in Scripture, and the threat comes from Israel** (WLC lemma search, Genesis–Exodus). **The next is God's
 own law at Sinai** — whoever touches the mountain *"shall surely be stoned"* (19:13; *not yet ingested*). Joshua
-and Caleb will be threatened with it in Numbers 14:10 (by reference, *not yet ingested*).
+and Caleb are threatened with it in Numbers 14:10 ([[The People Refuse the Land]]), where the verb is *rāgam*.
 
 ### I will stand before you there on the rock (17:5–6)
 

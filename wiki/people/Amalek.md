@@ -77,6 +77,8 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - Ordered blotted out for striking the stragglers — Deuteronomy 25:17–19
 - Spared by Saul, at the cost of Saul's kingdom — 1 Samuel 15
 - Haman the Agagite — Esther 3:1
+- The Amalekite is *in the valley*, with the Canaanite — Numbers 14:25,
+  [[The People Refuse the Land]]
 
 ## Appears in
 
@@ -90,6 +92,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   Esau's grandson's line or the older Amalekites of Genesis 14:7**
 - [[The Twelve Spies]] — Numbers 13:29; first in the spies' list of peoples, in the land of the
   South
+- [[The People Refuse the Land]] — Numbers 14:25; in the valley, against 13:29.
 
 ## Related people
 

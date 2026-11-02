@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[Show Me Your Glory]] — Exodus 33:18–23, the promised proclamation.
 - [[The Covenant Renewed]] — Exodus 34:5–10, character proclaimed and pardon sought.
-- Numbers 14:17–23 — Moses appeals to the proclamation; verified WEB, not yet ingested.
+- [[The People Refuse the Land]] — Numbers 14:17–23; Moses appeals to the proclamation.
 - Jonah 4:1–3 — Jonah's protest against mercy; verified WEB, not yet ingested.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:3, *kindness and truth* as a charge to the son.
 - [[A Way That Seems Right]] — Proverbs 14:29, *slow to anger* as human understanding; see [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]].
@@ -51,6 +51,14 @@ his loving kindness and his truth toward my master"* (Genesis 24:27, *lōʾ-ʿā
 Genesis says God did not forsake, the son is told not to let go. See
 [[Trust in Yahweh with All Your Heart]]. Hebrew of Exodus 34:6, Genesis 24:27, and Proverbs 3:3 checked
 against Sefaria's *Miqra according to the Masorah*, 2026-10-25.
+
+**Numbers 14:18 is a selection.** In WLC Moses drops *ʾēl raḥûm wəḥannûn*, *weʾĕmet*, *nōṣēr ḥesed
+lāʾălāpîm*, *wəḥaṭṭāʾâ*, and *wəʿal-bənê bānîm*. He keeps the clause *wənaqqēh lōʾ yənaqqeh*. Rahlfs
+has *καὶ ἀληθινός* and *καὶ ἁμαρτίας* again. So the earlier statement that no Hebrew lexical
+identity is asserted no longer stands for Numbers, which was compared word by word from WLC on
+2026-11-02. See the table on [[The People Refuse the Land]], and
+[[A Captain to Return to Egypt - Numbers 14.4, Nehemiah 9.17, and Acts 7.39]] for Nehemiah 9:17,
+which restores *gracious and merciful*.
 
 ## Significance
 

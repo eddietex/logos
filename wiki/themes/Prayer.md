@@ -227,6 +227,12 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### *According to your word* — Numbers 14
+
+Moses gives Yahweh reasons: his reputation (13–16), and what he himself has said (17–18), and Yahweh
+answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and the prayer is built on
+Yahweh's. See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
@@ -413,6 +419,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Fire at Taberah]] — Numbers 11:2; a prayer asked for by a cry, with no words recorded.
 - [[The Seventy Elders and the Quail]] — Numbers 11:11–15; a complaint to God, a request for death, and an answer with help.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:13; *Heal her, God, I beg you!*
+- [[The People Refuse the Land]] — Numbers 14:13–20; a prayer that quotes God to God
 
 ## Related themes
 

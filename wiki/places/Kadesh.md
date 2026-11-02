@@ -48,6 +48,7 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:7, as *En Mishpat*, on the coalition's route
 - [[Hagar and Ishmael]] — Genesis 16:14, one of the two bearings for Beer Lahai Roi
 - [[The Twelve Spies]] — Numbers 13:26; where the twelve report to the whole congregation
+- [[The People Refuse the Land]] — Numbers 14:1–38; the place of the refusal, by 13:26 and 32:8
 
 ## Related places
 
@@ -73,3 +74,4 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
   20:1–13; compare [[Water from the Rock]] and
   [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]
 - Messengers go from here to the king of Edom — Numbers 20:14–21
+- The refusal, and the sentence of forty years — Numbers 14:1–38, [[The People Refuse the Land]]

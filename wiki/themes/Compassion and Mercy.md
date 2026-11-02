@@ -268,6 +268,13 @@ This extension is thematic and makes no claim about shared Hebrew terms.
 See [[The Tears of the Oppressed]]. Source: stored WEB Ecclesiastes 3:16–4:3; the passage page
 records the additional comparison sources.
 
+### The proclamation as an argument — Numbers 14
+
+Moses quotes Exodus 34:6–7 at 14:18, and leaves out *merciful and gracious*, *truth*, and *to
+thousands*, while keeping the clause against him. He pleads on *the greatness of your loving
+kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]] and
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
@@ -374,6 +381,7 @@ records the additional comparison sources.
 - [[A Good Name]] — Proverbs 22:9; The generous eye shares food with the poor.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:10–12; The duty to rescue those led to death; the plea of ignorance refused.
 - [[The Glory of Kings]] — Proverbs 25:20–22; Cheer that wounds a heavy heart; food and water for an enemy.
+- [[The People Refuse the Land]] — Numbers 14:17–20; the proclamation quoted, in part, as a plea
 
 ## Related themes
 

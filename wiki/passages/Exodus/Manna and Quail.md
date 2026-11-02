@@ -245,7 +245,7 @@ complaint passes through them to God.
 
 ***"Your murmurings are not against us, but against Yahweh"*** — ***lōʾ-ʿālênû təlunnōtêkem kî ʿal-YHWH***.
 **The narrator has never reported a murmuring against God.** **It is Moses who says where the murmuring goes**,
-and God will say it himself in Numbers 14:27 (*not yet ingested*). See [[Murmuring]] and
+and God says it himself in Numbers 14:27 ([[The People Refuse the Land]]). See [[Murmuring]] and
 [[Mediation and Advocacy]].
 
 **The speeches run in an unusual order.** Moses and Aaron announce meat and bread (16:6–8) before God is
@@ -592,7 +592,7 @@ anachronism as the text's own.
 > **36** Now an omer is one tenth of an ephah.
 
 ***"Forty years"*** — ***ʾarbāʿîm šānâ***. **The narrator states the length of the wilderness before the
-reason for it has happened** — the sentence of Numbers 14:33–34 (*not yet ingested*). **The flood's number
+reason for it has happened** — the sentence of Numbers 14:33–34 ([[The People Refuse the Land]]). **The flood's number
 again** (Genesis 7:4, 12), now in years. **Joshua 5:12 closes it**: *"The manna ceased on the next day, after
 they had eaten of the produce of the land … but they ate of the fruit of the land of Canaan that year"* (WEB;
 *not yet ingested*).

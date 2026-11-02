@@ -199,6 +199,12 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### Weeping all night — Numbers 14
+
+*The people wept that night* (1). The weeping is for what the report has said, and the chapter
+treats it as a fault. Verse 39 will have them mourn again, after the sentence, too late. See
+[[The People Refuse the Land]].
+
 ## Key passages
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
@@ -285,6 +291,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The House of Mourning]] — Ecclesiastes 7:2–4; the house of mourning preferred to the house of feasting.
 - [[The Nazirite Vow]] — Numbers 6:7; no defilement for near kin.
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–20, 33–34; weeping for meat, and burial with no weeping told.
+- [[The People Refuse the Land]] — Numbers 14:1; the night of weeping
 
 ## Related themes
 

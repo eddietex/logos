@@ -56,6 +56,8 @@ and a prayer with no recorded words.
 and Yahweh shares the Spirit on Moses with seventy elders, sends quail on a wind, and strikes with a plague at the graves of craving.
 [[Miriam and Aaron Against Moses]] (12:1–16) brings the dispute into the family: Yahweh sets Moses above the prophets, *mouth to mouth*, Miriam is shut out seven days, and the people reach Paran.
 [[The Twelve Spies]] (13:1–33) sends a man from each tribe to search the land for forty days; they bring back a cluster on a pole, Caleb says *we are well able*, and the others bring an evil report that ends in *grasshoppers*.
+[[The People Refuse the Land]] (14:1–38) gives the answer: the people weep and propose a captain to take them back to Egypt, Moses turns down a second offer of a new nation and wins pardon,
+and Yahweh swears that the counted generation will die in the wilderness, forty years for forty days, while Caleb, Joshua, and the little ones go in.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -97,7 +99,7 @@ merge, or reorder them freely.
 - [x] [[The Seventy Elders and the Quail]] — Numbers 11:4–35
 - [x] [[Miriam and Aaron Against Moses]] — Numbers 12:1–16
 - [x] [[The Twelve Spies]] — Numbers 13:1–33
-- [ ] The People Refuse the Land — Numbers 14:1–38
+- [x] [[The People Refuse the Land]] — Numbers 14:1–38
 - [ ] The Defeat at Hormah — Numbers 14:39–45
 - [ ] Offerings in the Land and Sins of Ignorance — Numbers 15:1–31
 - [ ] The Sabbath Breaker — Numbers 15:32–36

@@ -89,6 +89,12 @@ the wilderness of Zin (21). The wilderness is now the place Israel looks out of.
 
 See [[The Twelve Spies]].
 
+### The sentence — Numbers 14
+
+The wilderness was the road, and now it becomes a destination. *In this wilderness* comes again and
+again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty years (33). Yahweh's
+direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -103,6 +109,7 @@ See [[The Twelve Spies]].
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; manna refused, quail given, graves left.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:15–16; a seven-day halt, and the camp in Paran.
 - [[The Twelve Spies]] — Numbers 13:3, 21, 26; Paran and Zin
+- [[The People Refuse the Land]] — Numbers 14:25–35; the wilderness as a sentence
 
 ## Related themes
 

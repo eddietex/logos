@@ -415,7 +415,7 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
   [[Israel at Mount Sinai]] and [[The Angel Sent Ahead]]
 - Numbers 5:18 — *"the water of bitterness that brings a curse"*; [[The Suspected Wife]]
 - [[Miriam and Aaron Against Moses]] — Numbers 12:13; *"Moses cried to Yahweh … 'Heal her, God'"*
-- Numbers 14; 16–17 — the murmurings that end in judgment *(not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14; the murmuring that ends in the sentence; Numbers 16–17 follows *(not yet ingested)*
 - Numbers 33:8–9 — *"the wilderness of Etham … encamped in Marah … came to Elim"* *(not yet ingested)*
 - Deuteronomy 7:15; 28:60 — *"the diseases of Egypt"*, promised away and threatened back *(not yet ingested)*
 - Deuteronomy 8:2 — *"to prove you, to know what was in your heart"* *(not yet ingested)*

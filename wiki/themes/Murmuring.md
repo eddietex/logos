@@ -82,8 +82,7 @@ is not punished for it. The people are given what they asked for, and the graves
 
 Still no *lûn*. The report itself is not a murmuring: the verb arrives at 14:2 and 14:36, where the men who brought the *dibbâ* are said to have *made all the congregation to murmur*. So the chapter is the cause. See [[The Twelve Spies]].
 
-**Ahead in Numbers** (by reference, *not yet ingested*): after the spies' report, the murmuring of Numbers
-14 ends in the sentence that the generation will die in the wilderness; after Korah, it ends in plague
+**Ahead in Numbers** (by reference, *not yet ingested*): after Korah, the murmuring ends in plague
 (Numbers 16–17); and Aaron's budding rod is kept *"that you may make an end of their murmurings against
 me"* (17:10 WEB; 17:25 Hebrew). **The first murmuring was met with sweet water; the last are met with judgment.**
 
@@ -100,6 +99,16 @@ No *lûn* here. The verb is *dibbēr bə-* (1), as at Numbers 21:5, 7 and Psalm 
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The refusal — Numbers 14
+
+*Lûn* returns at 14:2, and for the first time the people's complaint names Yahweh itself: *Why does
+Yahweh bring us to this land?* (3). Yahweh takes it as his: *the murmurings of the children of
+Israel, which they murmur against me* (27), and the noun *təlunnôt* is back. He says *I have heard*,
+as at Exodus 16:12, but where that sentence went on to meat, this one goes on to *your dead bodies
+shall fall*. So the first feature above is closed from Yahweh's side, and the third no longer
+applies, since Moses does not redirect anyone. Verse 36 adds a new form, a leader *causing* a
+murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Bitter Water at Marah]] — Exodus 15:24; **the first *lûn* in Scripture.** *"What shall we drink?"*; against
@@ -115,10 +124,12 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
   *mitʾōnənîm*; no content stated; answered with Yahweh's fire and Moses' prayer
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; **a complaint with food in hand.** No *lûn*; the word is weeping, with craving behind it; Moses complains
   too; meat given, and a plague
-- **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
+- **Numbers 16–17** — Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–9; complaint from inside the family, without *lûn*.
 - [[The Twelve Spies]] — Numbers 13:27–33; the report that leads to the murmuring of 14:2, 36.
+- [[The People Refuse the Land]] — Numbers 14:2, 27–29, 36; *against me*, and answered with the
+  sentence
 
 ## Related themes
 

@@ -633,6 +633,13 @@ The sentence comes without a word, on one of two. It has a term of seven days, a
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### *As you have spoken in my ears* — Numbers 14
+
+The sentence takes the people's words as its terms (28). They wished to die in the wilderness (2)
+and will, and they said their little ones would be prey (3) and those will enter (31). The
+punishment is measured at a year for a day (34). The men who brought the report die first, by plague
+(37). See [[The People Refuse the Land]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -965,6 +972,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first penalty for complaint on the road.
 - [[The Seventy Elders and the Quail]] — Numbers 11:18–34; plenty as penalty, and a place named for it.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:9–15; Miriam struck, and the term set.
+- [[The People Refuse the Land]] — Numbers 14:26–37; the generation's own words as the sentence
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

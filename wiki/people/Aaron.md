@@ -632,6 +632,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 - Numbers 9:6 — The unclean men come before him and Moses. [[The Passover in the Second Year]]
 - Numbers 10:8 — Named as father of the priests who blow. [[The Two Silver Trumpets]]
 - Numbers 12:1–16 — Speaks against Moses with Miriam, is not struck, confesses, and pleads for her. [[Miriam and Aaron Against Moses]]
+- Falls on his face with Moses; addressed in the sentence — Numbers 14:5, 26,
+  [[The People Refuse the Land]]
 
 ## Appears in
 
@@ -768,6 +770,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 - [[The Two Silver Trumpets]] — Numbers 10:8; named as father of the priests.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; speaks against Moses, and pleads for Miriam.
 - [[The Twelve Spies]] — Numbers 13:26; receives the report with Moses.
+- [[The People Refuse the Land]] — Numbers 14:2, 5, 26; object of the murmuring, and falls on his
+  face.
 
 ## Related people
 

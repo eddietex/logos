@@ -72,6 +72,10 @@ refer to the Kadesh Meribah of Numbers 20. **The wiki records the reversal and d
 17 names the place for Israel's testing of God, these two remember a testing by God, and Scripture keeps both.
 See [[Testing]].
 
+**Numbers 14:22 gathers the series.** Yahweh says the people have tested him *these ten times*, with
+the verb of Massah. See [[The People Refuse the Land]] and
+[[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
+
 ## Significance
 
 **Massah is how Scripture names the wrong kind of question.** *"Is Yahweh among us, or not?"* (Exodus 17:7)

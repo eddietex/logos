@@ -136,7 +136,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[Show Me Your Glory]] — Exodus 33:7–11; the Tent outside the camp, and Joshua there
 - [[The Fall]] — Genesis 3:6; *taʾăwâ*, what the woman saw in the tree
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; the next challenge to Moses, and Yahweh's words on prophets
-- Numbers 14:22 — *these ten times* *(stored WEB, not yet ingested)*
+- [[The People Refuse the Land]] — Numbers 14:22; *these ten times*
 - Numbers 27:18 — Joshua, *a man in whom is the Spirit* *(stored WEB, not yet ingested)*
 - Numbers 33:16–17 — the journey list, with Kibroth Hattaavah and Hazeroth *(stored WEB, not yet ingested)*
 - Deuteronomy 1:9–12 — *I am not able to bear you myself alone* *(WEB checked, not yet ingested)*
