@@ -107,6 +107,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[By His Own Standard - Degel in Numbers and the Song of Solomon]] — the four standards (14, 18, 22, 25)
 - [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] — the in-law and the departure from Horeb
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first complaint, at once
+- [[The Seventy Elders and the Quail]] — Numbers 11:4–35; the second, at Kibroth Hattaavah and on to Hazeroth
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the rule now used
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; the signals, which this unit does not mention
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the same order at rest

@@ -27,8 +27,8 @@ range that runs along the same desert. See [[The Birth of Isaac and the Sending 
 **What the rest of the Bible does with it.**
 
 - **It is the wilderness of the wandering.** The cloud stops *"in the
-  wilderness of Paran"* after Sinai (Numbers 10:12), though the text reaches it by name only after [[Taberah]], Kibroth Hattaavah,
-  and Hazeroth (11:3, 34–35; 12:16), and Numbers 33:16–18 does not list it; the twelve spies are sent out from it (Numbers 13:3)
+  wilderness of Paran"* after Sinai (Numbers 10:12), though the text reaches it by name only after [[Taberah]], [[Kibroth Hattaavah]],
+  and [[Hazeroth]] (11:3, 34–35; 12:16), and Numbers 33:16–18 does not list it; the twelve spies are sent out from it (Numbers 13:3)
   and return to it (13:26); and the generation that refuses to go up dies in it.
 - **It is a place God comes from.** Two of the oldest poems in the canon put him there: *"Yahweh came
   from Sinai, and rose from Seir to them. He shone from Mount Paran"* (Deuteronomy 33:2), and *"God
@@ -54,6 +54,7 @@ geography of the Torah, which puts Israel's spies in it.
 
 - [[Kadesh]] — the oasis Numbers 13:26 places inside it, and the wilderness generation's address
 - [[Taberah]] — the first stop named after Sinai, before Paran is reached by name
+- [[Kibroth Hattaavah]] and [[Hazeroth]] — the next two stops, before it is reached by name
 - [[Beersheba]] — the wilderness to its north, where the boy is laid under a bush before he reaches
   this one
 - [[Shur]] — the desert on the Egyptian frontier, and the other half of Ishmael's later range

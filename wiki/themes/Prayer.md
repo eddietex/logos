@@ -215,6 +215,12 @@ The people cry to Moses, and Moses prays. *Wayyitpallēl* (WLC) is the first use
 
 See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 
+### A prayer that accuses — Numbers 11:11–15
+
+Moses asks why Yahweh has treated him badly, whether he gave birth to this people, and finally to be killed. There is no *hitpallel* here, and the speech is simply *he said*. Yahweh answers with a plan and no rebuke. Compare [[Take My Life - Moses, Elijah, and Jonah]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
@@ -399,6 +405,7 @@ See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 - [[The Two Silver Trumpets]] — Numbers 10:9; an alarm in danger, heard as remembrance before Yahweh.
 - [[The March from Sinai]] — Numbers 10:35–36; two lines spoken at the ark.
 - [[The Fire at Taberah]] — Numbers 11:2; a prayer asked for by a cry, with no words recorded.
+- [[The Seventy Elders and the Quail]] — Numbers 11:11–15; a complaint to God, a request for death, and an answer with help.
 
 ## Related themes
 

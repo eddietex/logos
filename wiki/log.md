@@ -21033,3 +21033,28 @@ LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. WEB of Exodus, Lev
 WEB outside them verified at bible-api.com. Psalm 78's Hebrew and New Testament Greek not checked. Commentary, lexicons, and
 grammars not consulted. Counts: 287 passages, 202 people, 105 places, 86 themes, 627 connections. Next: The Seventy Elders and
 the Quail, Numbers 11:4–35.
+
+## [2026-11-01] ingest | Numbers 11.4-35 — The Seventy Elders and the Quail
+
+Created [[The Seventy Elders and the Quail]]; [[Eldad]], [[Medad]], and [[Seventy Elders (of Moses' time)]]; [[Kibroth Hattaavah]] and
+[[Hazeroth]]; [[The Spirit of God]]; and six connections: [[Gift and Judgment - The Two Quail Stories of Exodus 16 and Numbers 11]],
+[[The Graves of Craving - Numbers 11, Psalms 78 and 106, and 1 Corinthians 10]], [[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]],
+[[Do Not Forbid Them - Joshua in Numbers 11 and John in Mark 9]], [[Is Yahweh's Hand Short - Numbers 11.23 and Isaiah 50 and 59]], and
+[[Take My Life - Moses, Elijah, and Jonah]]. Revised [[God]], [[Moses]], [[Joshua (son of Nun)]], [[Nun]], [[Taberah]], [[Paran]], [[Egypt]],
+[[Massah and Meribah]], sixteen themes, eight existing connections, six earlier passages' forward references, the book page, and the book, people,
+place, theme, connection, and top indexes.
+
+Judgment calls: the plan's boundary and title kept. [[The Spirit of God]] is new, because no page held the theme and this is its first sharing; it opens
+with a short survey and is not yet complete for earlier books. The seventy get a group page, filed like [[Ministering Women (of Moses' time)]]. The young
+man and the mixed multitude get no page. [[Aaron]] and [[Miriam]] are not in the unit.
+
+Tensions flagged, not resolved: the Tent outside the camp here against Numbers 2's center; the cloud coming down against Numbers 9; a month of meat against
+*between their teeth*, turning on *yikkārēt*, where WEB's *chewed* and Rahlfs's *ἐκλείπειν* differ; Moses unpunished at 11:21–23 against 20:12; whether Eldad
+and Medad were of the seventy; and Psalm 105 and 106 keeping the quail as gift and as judgment.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags across all 39 books, so *only* and *first* claims depend on that
+tagging. Greek of Numbers 11 from the Rahlfs 1935 text in the eliranwong LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. New Testament Greek of
+Mark, Luke, Acts, and 1 Corinthians from SBLGNT. WEB of Genesis, Exodus, Leviticus, Numbers, and Job from `raw/bible/`; all other quoted WEB verified at
+bible-api.com. Items marked recalled in the passage are unverified: the *ʾăsapsup* and *ʾāsap* link, *nepeš* as throat, the scribal tradition at *bərāʿātî*, the
+variant *did not cease* at 11:25, and the sense of *Hazeroth*. Commentary, lexicons, and grammars not consulted. Counts: 288 passages, 205 people, 107 places,
+87 themes, 633 connections. Next: Miriam and Aaron Against Moses, Numbers 12:1–16.

@@ -125,6 +125,12 @@ English heading without deriving a biography or a source-language claim from it.
 See [[The Words of King Lemuel]] . Source: stored WEB Proverbs 31:1–9 and the comparisons documented
 there.
 
+### The first prophesying — Numbers 11:25–29
+
+By the tags *wayyitnabbəʾû* (25) is the first use of the verb *nāḇāʾ* in the Hebrew Bible's order. The seventy prophesy once and *did so no more*. Eldad and Medad prophesy in the camp, away from the Tent. The text records no content, and does not define the act. Moses' reply widens the office to a wish: *I wish that all Yahweh's people were prophets* (29). See [[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]] and [[The Spirit of God]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11. Word locations from WLC (morphhb) tags.
+
 ## Key passages
 
 - [[The Words of King Lemuel]] — Proverbs 31:1; The WEB calls the mother’s teaching a revelation
@@ -348,6 +354,7 @@ there.
   no oracle is reported. The masculine had been given to Abraham (Genesis 20:7) and Aaron (7:1). See
   [[Miriam]].
 - [[Wisdom Calls in the Street]] — Proverbs 1:23; Wisdom speaks in prophetic forms and promises to pour out her spirit
+- [[The Seventy Elders and the Quail]] — Numbers 11:25–29; the first use of the verb, and Moses' wish.
 
 ## Related themes
 

@@ -40,8 +40,8 @@ WEB gives all three as *"I will pour out my spirit"*. The Hebrew and Greek, chec
   line can be read as Wisdom pouring out her *mind*: what is in her, spoken. Some translations are
   reported to render it so (not checked here). In Joel the *rûaḥ* produces prophecy, dreams, and
   visions — it is the prophetic Spirit of God, as in Moses' wish *"that all Yahweh's people were
-  prophets, that Yahweh would put his Spirit on them!"* (Numbers 11:29, *not yet ingested*; WEB,
-  checked against bible-api.com).
+  prophets, that Yahweh would put his Spirit on them!"* ([[The Seventy Elders and the Quail]], Numbers 11:29; WEB,
+  stored in `raw/`).
 - **Acts follows the Septuagint's partitive** — *apo tou pneumatos mou*, *from* or *of my Spirit* —
   rather than the Hebrew's direct object. That the Septuagint of Joel has the same partitive is the
   usual account; it was not checked against a Septuagint edition here.

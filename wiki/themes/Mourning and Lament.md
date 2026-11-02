@@ -193,6 +193,12 @@ The vow takes the Nazirite away from the rites for father, mother, brother, and 
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
+### Weeping with no one dead — Numbers 11:4–20
+
+*Bākâ* is the chapter's word for the complaint (4, 10, 13, 18, 20). Each family weeps at its tent door, and the cause is the menu. The verb of mourning is used for a want, and Yahweh hears it as rejection. The real deaths come at verse 33, and no mourning is reported for them.
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
@@ -278,6 +284,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]]
 - [[The House of Mourning]] — Ecclesiastes 7:2–4; the house of mourning preferred to the house of feasting.
 - [[The Nazirite Vow]] — Numbers 6:7; no defilement for near kin.
+- [[The Seventy Elders and the Quail]] — Numbers 11:4–20, 33–34; weeping for meat, and burial with no weeping told.
 
 ## Related themes
 

@@ -37,6 +37,7 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 - [[Water from the Rock]] — Exodus 17:7; **the naming.** *"Because the children of Israel quarreled, and because
   they tested Yahweh"*
 - [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] — the later uses of the name
+- [[The Seventy Elders and the Quail]] — Numbers 11:34; [[Kibroth Hattaavah]], the third name beside Massah in Deuteronomy 9:22
 
 ## Related places
 - [[Rephidim]] — the camp the place belongs to (Exodus 17:1)

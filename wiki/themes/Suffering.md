@@ -276,6 +276,12 @@ with love (5:8).
 See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### Don't let me see my wretchedness — Numbers 11:10–15
+
+Moses asks for death rather than go on carrying the people. *Bərāʿātî*, *my evil*, shares a root with verses 10 and 11 (WLC). It is suffering from office, and not from loss. See [[Take My Life - Moses, Elijah, and Jonah]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
@@ -514,6 +520,7 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
   days without water, then water that is *mārîm*, the root of the lives *"made bitter"* in Egypt (1:14) and
   of the bitter herbs (12:8; WLC). The place keeps the name *Marah* after the water is made sweet
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12; discipline as a father's, placed after five promises
+- [[The Seventy Elders and the Quail]] — Numbers 11:10–15; a leader's request for death.
 
 ## Related themes
 

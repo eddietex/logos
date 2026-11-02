@@ -36,7 +36,7 @@ rebukes no one; the only judgment in Exodus 17:1–7 is the narrator's, and it i
 kaʾăšer nissîtem bammassâ* — **the verb of Exodus 17:2 and the place name built on it, in one sentence**
 (Deuteronomy 6:16; WLC). **What Exodus records as an event Deuteronomy forbids as a type.** Deuteronomy 9:22
 adds the anger that Exodus left out — *"you provoked Yahweh to wrath"* — and puts Massah in a list with two
-Numbers stories ([[The Fire at Taberah]], Numbers 11:1–3; Kibroth Hattaavah, 11:34, by reference).
+Numbers stories ([[The Fire at Taberah]], Numbers 11:1–3; [[The Seventy Elders and the Quail]], 11:34).
 
 **Psalm 95 turns it into liturgy, addressed to *"Today"*.** The psalm calls the congregation to worship and
 then warns it in God's voice: *"Don't harden your heart, as at Meribah, as in the day of Massah"* (95:8).

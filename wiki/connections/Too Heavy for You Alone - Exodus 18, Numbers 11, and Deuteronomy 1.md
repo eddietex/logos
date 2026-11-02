@@ -13,7 +13,7 @@ tags: [connection]
 - **Numbers 11:14–17** — Moses to God: *"I am not able to bear all this people alone, because it is too heavy for
   me"*; God: *"Gather to me seventy men of the elders of Israel … I will take of the Spirit which is on you, and will
   put it on them; and they shall bear the burden of the people with you, that you don't bear it yourself alone"*
-  (WEB; *not yet ingested*)
+  — [[The Seventy Elders and the Quail]]
 - **Deuteronomy 1:9–18** — Moses to Israel: *"I am not able to bear you myself alone"* (1:9); *"Take wise men of
   understanding and well known according to your tribes, and I will make them heads over you"* (1:13); the people:
   *"The thing which you have spoken is good to do"* (1:14); *"The case that is too hard for you, you shall bring to
@@ -50,7 +50,7 @@ nearly identical in Hebrew (WLC):
 **Exodus 18 and Deuteronomy 1 describe the same institution** — the decimal ranks, the small cases kept below and
 the hard ones sent up — **and disagree on its origin**: Exodus credits Jethro and never reports God's command,
 Deuteronomy credits Moses and never mentions Jethro. **Numbers 11 describes a different body** — seventy elders,
-endowed with the Spirit, who prophesy once (Numbers 11:25, by reference) — **but in the language of Exodus 18**:
+endowed with the Spirit, who prophesy once (Numbers 11:25) — **but in the language of Exodus 18**:
 *"they shall bear … with you"* (*wənāśəʾû … ʾittəkā*) is Jethro's *wənāśəʾû ʾittāk* (Exodus 18:22), and *"that you
 don't bear it yourself alone"* ends on Jethro's *ləbaddekā* (WLC).
 
@@ -72,6 +72,11 @@ don't bear it yourself alone"* ends on Jethro's *ləbaddekā* (WLC).
 part of the work, and the leaders keep the part only they can do — *"prayer and … the ministry of the word"*, as
 Jethro kept Moses *"before God"* and teaching the statutes (Exodus 18:19–20). **Luke cites no Old Testament text
 and names no precedent**; the likeness is structural, and the wiki notes it without claiming an allusion.
+
+**Numbers 11 now ingested.** [[The Seventy Elders and the Quail]] adds three things to the table above. Moses says this to God as a complaint and not as advice heard, and it
+comes with *please kill me*. The seventy are never shown carrying anything, as Numbers 11:30 only returns them to the camp. And the first
+sign of the gift is prophecy, not judging, so nothing in the chapter connects them to Exodus 18's courts. The wiki's *different body*
+stands.
 
 ## Significance
 

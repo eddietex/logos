@@ -387,6 +387,12 @@ Here Israel is the one remembered: *wənizkartem*, *you will be remembered* (WLC
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### We remember the fish — Numbers 11:5
+
+*Zākarnû*, *we remember* (WLC), and what follows is a list of foods eaten *for nothing*. This memory leaves out the slavery that Exodus 1–5 describes. The wiki reads it as selective memory, and the text answers it with its own account of the manna (7–9).
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -606,6 +612,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Engraved shoulder stones explicitly made as memorials for Israel.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1; *"don't forget my teaching"*, against the woman who forgot (2:17)
 - [[The Two Silver Trumpets]] — Numbers 10:9–10; the alarm brings Israel to mind, and the trumpets are a memorial.
+- [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt remembered without its slavery.
 
 ## Related themes
 

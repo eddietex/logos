@@ -180,6 +180,12 @@ Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Jealous on another's behalf — Numbers 11:28–29
+
+*Haməqannēʾ ʾattâ lî*, *are you jealous for my sake?* (WLC). Moses uses the verb of Numbers 5:14 for Joshua's zeal over his master's position. Jealousy here is on behalf of another, and it is refused by the one it is meant to protect. See [[Do Not Forbid Them - Joshua in Numbers 11 and John in Mark 9]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -265,6 +271,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[Do Not Envy Sinners]] — Proverbs 23:17; 24:1; Sinners and evil men not to be envied, nor their company wanted.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:19; Do not fret because of evildoers, nor envy the wicked.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:4, 20; Jealousy that no one can stand before; the eyes never satisfied.
+- [[The Seventy Elders and the Quail]] — Numbers 11:28–29; Joshua's jealousy for Moses, declined.
 
 ## Related themes
 

@@ -125,6 +125,12 @@ return. Sheol is named in 9:10, but not in this unit.
 See [[Remember Your Creator]]. Source: stored WEB Ecclesiastes 11:7–12:8; comparison sources
 identified on the passage page.
 
+### Graves named for a craving — Numbers 11:34
+
+*There they buried the people who lusted*. The graves are unnumbered and unnamed, and the place keeps them on the map. No one is named among the dead. See [[Kibroth Hattaavah]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; The everlasting home, mourners, and return to
@@ -228,6 +234,7 @@ identified on the passage page.
   graves in Egypt, have you taken us away to die in the wilderness?"* (14:11); and Israel sees *"the
   Egyptians dead on the seashore"* (14:30), with no burial recorded. **The people who carry a man out of Egypt
   rather than bury him there accuse Moses of bringing them out to die unburied**
+- [[The Seventy Elders and the Quail]] — Numbers 11:33–34; the graves of craving.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:4, 8, 19–20, 29; **four things go into

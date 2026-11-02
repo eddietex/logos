@@ -380,6 +380,12 @@ The people do not cry to Yahweh, as at Exodus 14:10, but to Moses, and he prays.
 
 See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 
+### The burden shared — Numbers 11:11–30
+
+Moses tells Yahweh he cannot carry the people alone, and Yahweh shares the Spirit on him with seventy elders, *that you don't bear it yourself alone* (17). The mediator does not plead for the people this time. He pleads against them, and the help is for him. See [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -638,6 +644,7 @@ See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 - [[The Passover in the Second Year]] — Numbers 9:6–10; Moses takes the men's question to Yahweh.
 - [[The Cloud over the Tabernacle]] — Numbers 9:23; a public sign, and the command still *by Moses*.
 - [[The Fire at Taberah]] — Numbers 11:2; the people cry to Moses, and he prays.
+- [[The Seventy Elders and the Quail]] — Numbers 11:11–30; the mediator's burden shared with seventy.
 
 ## Related themes
 

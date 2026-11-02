@@ -14,7 +14,7 @@ tags: [connection]
   thousand five hundred fifty men*
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:46; the same figure, by tribe
 - [[The Camp Around the Tent]] — Numbers 2:32; the same figure again, by camp
-- Numbers 11:21 — *six hundred thousand men on foot*, Moses speaking *(not yet ingested; stored WEB)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:21; *six hundred thousand men on foot*, Moses speaking
 - Numbers 26:51 — *six hundred one thousand seven hundred thirty*, the second census *(not yet
   ingested; stored WEB)*
 

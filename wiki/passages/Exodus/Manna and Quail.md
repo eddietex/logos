@@ -54,8 +54,7 @@ The pericope moves in eight steps:
 complaint now has Egypt in it and a charge of murder; Moses and Aaron say it is really against God; God
 says he has *"heard"* it (16:7, 8, 9, 12) — and feeds them. **The only anger in the chapter is Moses', at
 people who kept the bread overnight (16:20)**, and the only rebuke from God is for the Sabbath-breakers, in
-a question (16:28). Numbers 11 will tell a second quail story that ends very differently (WEB; *not yet
-ingested*).
+a question (16:28). Numbers 11 will tell a second quail story that ends very differently (WEB).
 
 **The chapter also looks forward past itself, twice.** The jar is laid up *"before the Testimony"* (16:34),
 which will not exist until 25:16; and the narrator says Israel *"ate the manna forty years"* (16:35), which
@@ -135,8 +134,7 @@ seventh day.
 ***"When we ate our fill of bread"*** — ***ləśōbaʿ***, *to satiety*. **Egypt is remembered as a full table.**
 **Exodus has said nothing about Egypt's food for the slaves**; it has said *"they made their lives bitter with
 hard service"* (1:14). **Numbers 11:5 will extend the memory**: *"We remember the fish, which we ate in Egypt
-for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic"* (WEB; *not yet
-ingested*). **God's answer takes the word up: *"bread to satisfy you"* (16:8), *"you shall be filled with
+for nothing; the cucumbers, and the melons, and the leeks, and the onions, and the garlic"* (WEB). **God's answer takes the word up: *"bread to satisfy you"* (16:8), *"you shall be filled with
 bread"* (16:12)** — the verb ***śābaʿ***, which occurs in Exodus only in these two verses (WLC lemma search,
 Genesis–Exodus). **They said they were full in Egypt; he says they will be full here.** See
 [[Slavery and Servitude]].
@@ -301,7 +299,7 @@ you shall know that I am Yahweh your God"*, reached in the wilderness** (WEB; th
 Genesis–Deuteronomy). **Here the quail get one clause and are never mentioned again**; no one eats them on the
 page. **In Numbers 11 they come by *"a wind from Yahweh"*, the people gather them for two days, and *"While the
 meat was still between their teeth … Yahweh struck the people with a very great plague"*** (Numbers 11:31–33;
-WEB; *not yet ingested*). **The first quail are a gift to a complaint; the second are a judgment on one.** The
+WEB). **The first quail are a gift to a complaint; the second are a judgment on one.** The
 psalm keeps the first: *"They asked, and he brought quails, and satisfied them with the bread of the sky"*
 (Psalm 105:40; WEB; *not yet ingested*).
 
@@ -442,8 +440,7 @@ habitation"* (15:11, 13)** (WLC lemma search). **Here, as in Genesis 2:3, the ho
 time a day of every week. See [[Holiness]].
 
 ***"Bake … boil"*** — ***tōʾpû … təbaššəlû***. **The manna can be cooked**; Numbers 11:8 lists the ways —
-*"ground it in mills, or beat it in mortars, and boiled it in pots, and made cakes of it"* (WEB; *not yet
-ingested*).
+*"ground it in mills, or beat it in mortars, and boiled it in pots, and made cakes of it"* (WEB).
 
 ***"Lay up for yourselves to be kept"*** — ***hannîḥû lākem ləmišmeret***. ***Mišmeret*, *keeping*, *charge*, is
 the word of the Passover lamb — *"you shall keep it (ləmišmeret) until the fourteenth day"*** (12:6) — **and of
@@ -543,8 +540,7 @@ of Jacob's gift to the man in Egypt, *"a little honey"* (Genesis 43:11) (WLC lem
 the same.
 
 **Numbers 11 describes it differently**: *"The manna was like coriander seed, and its appearance like the
-appearance of bdellium … Its taste was like the taste of fresh oil"* (Numbers 11:7–8; WEB; *not yet
-ingested*). **Exodus has honey wafers; Numbers has fresh oil.** Readers reconcile them as raw and cooked
+appearance of bdellium … Its taste was like the taste of fresh oil"* (Numbers 11:7–8; WEB). **Exodus has honey wafers; Numbers has fresh oil.** Readers reconcile them as raw and cooked
 manna — Numbers' taste comes after grinding and boiling — or let them stand as two traditions (reported, not
 decided). **The wiki records both descriptions without harmonizing.**
 
@@ -699,7 +695,8 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - Exodus 24:16–17 — the glory on Sinai: [[The Blood of the Covenant]]; 40:34–38, in the tabernacle —
   [[The Tabernacle Raised and the Glory]]
 - Exodus 25:16 — *"the testimony which I shall give you"*: [[The Ark, the Table, and the Lampstand]]
-- Numbers 11:4–9, 31–34 — the manna described again; the second quail, and the plague *(not yet ingested)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:4–9, 31–34; the manna described again, the second quail, and the plague
+- [[Gift and Judgment - The Two Quail Stories of Exodus 16 and Numbers 11]]
 - Numbers 15:32–36 — the man gathering sticks on the Sabbath *(not yet ingested)*
 - Deuteronomy 2:7 — *"You have lacked nothing"* *(not yet ingested)*
 - Deuteronomy 8:2–3, 16 — *"man does not live by bread only"* *(not yet ingested)*

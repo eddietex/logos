@@ -597,6 +597,12 @@ The chapter's last reason for the Levites is that Israel coming near the sanctua
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Sanctify yourselves — Numbers 11:18
+
+*Hitqaddəšû ləmāḥār* (WLC) is the preparation for meeting Yahweh, and Joshua 3:5 has the same pair of words before a wonder. Here it comes before a meal that is also a judgment. What the people did to obey is not told.
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -751,6 +757,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Nazirite Vow]] — Numbers 6:5, 8; a lay person holy to Yahweh for a term.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 9; anointing, and the shoulder.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:17, 19; the firstborn sanctified, and the risk of coming near.
+- [[The Seventy Elders and the Quail]] — Numbers 11:18; sanctified for the meat.
 
 ## Related themes
 

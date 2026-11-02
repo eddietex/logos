@@ -455,6 +455,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the date is reckoned from the exodus.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:17; the land of the struck firstborn.
 - [[The Passover in the Second Year]] — Numbers 9:1; the point the year is counted from.
+- [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; remembered for free fish, *it was well with us in Egypt*
 
 ## Related places
 

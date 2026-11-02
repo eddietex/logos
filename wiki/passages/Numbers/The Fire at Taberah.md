@@ -71,11 +71,10 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[Water from the Rock]] — Exodus 17:7; a place named for what the people did, with the same verb form
 - [[The Burning Bush]] — Exodus 3:2; a fire that burns and does not consume
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:2; fire from before Yahweh
-- Numbers 11:18 — *you have wept in the ears of Yahweh* *(stored WEB, not yet ingested)*
-- Numbers 11:33–34 — the same anger, a plague, and a second place named *(stored WEB, not yet ingested)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:18; *you have wept in the ears of Yahweh*
 - Numbers 16:35 — fire from Yahweh on the two hundred fifty *(stored WEB, not yet ingested)*
 - Numbers 21:7 — *Pray to Yahweh*; the people ask, and Moses prays *(stored WEB, not yet ingested)*
-- Numbers 33:16 — the journey list goes from Sinai to Kibroth Hattaavah, with no Taberah *(stored WEB, not yet ingested)*
+- Numbers 33:16 — the journey list goes from Sinai to [[Kibroth Hattaavah]], with no Taberah *(stored WEB, not yet ingested)*
 - Deuteronomy 9:22 — *At Taberah, and at Massah, and at Kibroth Hattaavah* *(WEB checked, not yet ingested)*
 - 1 Kings 18:38 — *Then Yahweh's fire fell* *(WEB checked, not yet ingested)*
 - Psalm 78:21 — *A fire was kindled against Jacob* *(WEB checked, not yet ingested)*

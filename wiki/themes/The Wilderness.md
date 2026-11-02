@@ -69,6 +69,12 @@ The first place named after Sinai is named for fire. Whether Israel camped there
 
 See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 
+### Meat in the wilderness — Numbers 11:4–35
+
+The second stop on the road is named for those buried in it. The food of the wilderness is defended by the narrator (7–9) and refused by the people (6). Egypt is remembered as free food (5), and the wind brings a supply no camp could need.
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -80,6 +86,7 @@ See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; how the wilderness journeys were to work.
 - [[The March from Sinai]] — Numbers 10:11–36; the first march, and a guide requested.
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first complaint on the road.
+- [[The Seventy Elders and the Quail]] — Numbers 11:4–35; manna refused, quail given, graves left.
 
 ## Related themes
 

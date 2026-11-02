@@ -22,6 +22,8 @@ tags: [connection]
 
 - [[The Camp Around the Tent]] — Numbers 2:2, 17; the Tent of Meeting at the center of the camp, against the distance of Exodus 33:7
 
+- [[The Seventy Elders and the Quail]] — Numbers 11:24–30; the elders go out to the Tent, and Moses returns to the camp, against the center of Numbers 2
+
 ## Analysis
 
 The promise to dwell among Israel in 25:8 and 29:45 is followed by the refusal to go among
@@ -106,3 +108,11 @@ The geography makes the crisis visible: the people who were promised a dwelling 
 seek God outside the camp. Continued encounter, mediated intercession, and restored promise
 prevent distance from being the last word. See [[The Dwelling of God]] and
 [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]].
+
+### Going out to the Tent — Numbers 11:24–30
+
+Numbers 2:2, 17 has the Tent in the middle of the camp. Numbers 11:26 says Eldad and Medad were *in the camp* and *had not gone out to the
+Tent*, and verse 30 has Moses go *into the camp*. Yahweh comes down in the cloud at the Tent (25), much as at Exodus 33:9. So after the
+tabernacle has been raised, this chapter still speaks as Exodus 33 does. The text does not explain it, and the wiki keeps both pictures.
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB, Exodus 33 and Numbers 2, 11.

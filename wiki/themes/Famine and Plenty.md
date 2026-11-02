@@ -178,6 +178,12 @@ wisdom itself.
 
 See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons documented there.
 
+### Plenty as penalty — Numbers 11:4–35
+
+The reversal of Exodus 16. There, hunger is met with a measured portion, and *he who gathered little had no lack*. Here the people have food, want other food, and the one who gathers least has ten homers (32), the same word *hammamʿît*. It is the plenty that kills. See [[Gift and Judgment - The Two Quail Stories of Exodus 16 and Numbers 11]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -253,6 +259,7 @@ See [[Four Things]]. Source: stored WEB Proverbs 30:15–33 and the comparisons 
   into Pharaoh's house"* (Genesis 47:14) and Egypt *"laid up grain"* in cities, the manna is gathered a day at
   a time, cannot be stored, and comes out to *"no lack"* and *"nothing over"* (16:18). Kept, it *"bred
   worms"*. See [[He Who Gathered Much - Exodus 16.18 and 2 Corinthians 8.15]]
+- [[The Seventy Elders and the Quail]] — Numbers 11:4–35; ten homers, and a plague.
 
 ## Related themes
 

@@ -458,12 +458,12 @@ third tradition** is set out on [[Jethro]].
 - Exodus 24:11, 13 — the elders *"saw God, and ate and drank"*; *"the Mountain of God"* — [[The Blood of the Covenant]]
 - Exodus 34:6 — *"abundant in loving kindness and truth"* *(not yet ingested)*
 - [[The March from Sinai]] — Numbers 10:29–32; Hobab: *"I will depart to my own land"*
-- Numbers 11:14–17 — *"I am not able to bear all this people alone"*; the seventy elders —
-  [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] *(not yet ingested)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:14–17; *"I am not able to bear all this people alone"*; the seventy elders —
+  [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - Numbers 20:14 — *"all the travail that has happened to us"* *(not yet ingested)*
 - Numbers 24:14 — Balaam, *"I will inform you"* (*ʾîʿāṣəkā*) *(not yet ingested)*
 - Deuteronomy 1:9–18 — the judges retold, with no Jethro —
-  [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] *(not yet ingested)*
+  [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - Deuteronomy 16:18–19 — judges in every gate; no bribe *(not yet ingested)*
 - Judges 1:16; 4:11 — the Kenites, *"Moses' brother-in-law"*, Hobab *(not yet ingested)*
 - Acts 6:2–4 — the apostles delegate the tables to *"seven men of good report"* so as to keep *"the ministry of

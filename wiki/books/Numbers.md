@@ -52,6 +52,8 @@ priests, and a memorial before God in the wars and feasts of the land.
 stages, Hobab is asked to be Israel's eyes, and Moses cries out as the ark sets out and rests.
 [[The Fire at Taberah]] (11:1–3) follows at once: an unspecified complaint, Yahweh's fire at the edge of the camp, a cry to Moses,
 and a prayer with no recorded words.
+[[The Seventy Elders and the Quail]] (11:4–35) sets two complaints side by side: the people crave meat, Moses says the burden is too heavy and asks to die,
+and Yahweh shares the Spirit on Moses with seventy elders, sends quail on a wind, and strikes with a plague at the graves of craving.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -90,7 +92,7 @@ merge, or reorder them freely.
 - [x] [[The Two Silver Trumpets]] — Numbers 10:1–10
 - [x] [[The March from Sinai]] — Numbers 10:11–36
 - [x] [[The Fire at Taberah]] — Numbers 11:1–3
-- [ ] The Seventy Elders and the Quail — Numbers 11:4–35
+- [x] [[The Seventy Elders and the Quail]] — Numbers 11:4–35
 - [ ] Miriam and Aaron Against Moses — Numbers 12:1–16
 - [ ] The Twelve Spies — Numbers 13:1–33
 - [ ] The People Refuse the Land — Numbers 14:1–38

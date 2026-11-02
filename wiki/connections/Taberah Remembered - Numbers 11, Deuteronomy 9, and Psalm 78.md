@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Fire at Taberah]] — Numbers 11:1–3; *"Yahweh's fire burned among them"*
-- **Numbers 11:33–34** — the plague, and Kibroth Hattaavah named *(stored WEB, not yet ingested)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:33–34; the plague, and [[Kibroth Hattaavah]] named
 - **Deuteronomy 9:22** — *"At Taberah, and at Massah, and at Kibroth Hattaavah, you provoked Yahweh to wrath."* (WEB) *(not yet
   ingested)*
 - **Psalm 78:18–21** — *"Will he provide meat for his people?" Therefore Yahweh heard, and was angry. A fire was kindled
@@ -29,6 +29,10 @@ else. The wiki keeps both possible.
 
 **The two namings.** Numbers 11:3 and 11:34 use the same sentence, *The name of that place was called* (WEB), a chapter
 apart. Both come after a burst of Yahweh's anger (11:1, 33). The first ended with a prayer, and the second reports no prayer.
+
+**With the second story in view.** [[The Seventy Elders and the Quail]] has the meat that Psalm 78:18–21 asks for, and Psalm 78:26–31 tells the quail after it. So the psalm does have
+the quail, and the fire of verse 21 comes earlier in its telling than the quail. See
+[[The Graves of Craving - Numbers 11, Psalms 78 and 106, and 1 Corinthians 10]].
 
 ## Significance
 

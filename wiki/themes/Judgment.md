@@ -621,6 +621,12 @@ No warning, charge, or stated complaint comes first. Yahweh hears, is angry, and
 
 See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 
+### A request granted — Numbers 11:18–34
+
+The people ask for meat, and Yahweh gives it as a penalty, *until it comes out at your nostrils* (20). The stated charge is *you have rejected Yahweh who is among you*. The plague comes with the meat. Psalm 106:15 states the pattern: *He gave them their request, but sent leanness into their soul.* Whether verse 33's plague falls at once or within the month depends on *yikkārēt*.
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11. Psalm 106:15 at bible-api.com.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -951,6 +957,7 @@ See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; wrath prevented by the Levites' guard.
 - [[The Suspected Wife]] — Numbers 5:11–31; no human verdict, and the outcome left to Yahweh.
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first penalty for complaint on the road.
+- [[The Seventy Elders and the Quail]] — Numbers 11:18–34; plenty as penalty, and a place named for it.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

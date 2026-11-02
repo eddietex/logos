@@ -189,6 +189,12 @@ in a spouse with saving faith or direct the husband to treat her as divine.
 
 See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the comparisons documented there.
 
+### Moses counts the portions — Numbers 11:21–23
+
+Moses sets six hundred thousand men against all the flocks, herds, and fish. Yahweh answers with a question and then an event: *Has Yahweh's hand grown short? Now you will see*. Verse 12 also uses *hāʾōmēn*, from the root of *believe*, for the one who carries a child. See [[Is Yahweh's Hand Short - Numbers 11.23 and Isaiah 50 and 59]].
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -326,6 +332,7 @@ See [[The Worthy Woman]]. Source: stored WEB Proverbs 31:10–31 and the compari
 - [[Israel at Mount Sinai]] — Exodus 19:9, 19; God speaks in the assembly’s hearing to establish trust in Moses
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:5–6; trust with all the heart, not leaning on one's own understanding
 - [[Thirty Excellent Things]] — Proverbs 22:19; The collection's stated purpose: *"that your trust may be in Yahweh"*.
+- [[The Seventy Elders and the Quail]] — Numbers 11:21–23; Moses' arithmetic, and the question it gets.
 
 ## Related themes
 

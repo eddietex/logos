@@ -39,6 +39,7 @@ tags: [connection]
   at the far end of the canon's other book about who may stand between
 - **Hebrews 7:25; Romans 8:34; 1 John 2:1** — the office continued in one person who *"always lives
   to make intercession"*
+- [[The Seventy Elders and the Quail]] — Numbers 11:17, 25–29
 
 ## Analysis
 
@@ -180,3 +181,7 @@ rather than the other way round.
 (*hannəbîʾâ*, Exodus 15:20) — the feminine's only use in the Torah (WLC lemma search) — leads the women with
 a tambourine and a one-line refrain (15:21). **Abraham's prophethood was shown in intercession; Miriam's, as
 first narrated, in praise.** See [[The Song of the Sea]] and [[Miriam]].
+
+### The verb arrives — Numbers 11:25–29
+
+The noun came at Genesis 20:7 and Exodus 7:1. By the tags the verb *nāḇāʾ* first appears at Numbers 11:25, with the noun's third use at verse 29. See [[The Seventy Elders and the Quail]].

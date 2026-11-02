@@ -466,9 +466,9 @@ take the two datings as different traditions. The wiki records both.
 - Exodus 14:5 — *"What is this we have done, that we have let Israel go?"* *(not yet ingested)*
 - Leviticus 24:22; Numbers 9:14; 15:15–16, 29 — one law for native and stranger —
   [[One Law for the Native and the Stranger]]
-- [[The Census in the Wilderness of Sinai]] — Numbers 1:46; 603,550. Numbers 11:21 *(not yet ingested)*
+- [[The Census in the Wilderness of Sinai]] — Numbers 1:46; 603,550. Numbers 11:21, [[The Seventy Elders and the Quail]]
 - [[The Passover in the Second Year]] — Numbers 9:12; *"nor break a bone of it"*
-- Numbers 11:4 — the *ʾăsapsup*, also *"mixed multitude"* in the WEB *(not yet ingested)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:4; the *ʾăsapsup*, also *"mixed multitude"* in the WEB
 - Numbers 33:3–5 — *"on the next day after the Passover … with a high hand"*; Rameses to Succoth
   *(not yet ingested)*
 - Psalm 34:20 — *"Not one of them is broken"* *(not yet ingested)*

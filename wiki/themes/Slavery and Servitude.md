@@ -307,6 +307,12 @@ of prison to reign (4:13–14); the objection is to unfitness in office, not to 
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Slavery recalled as free food — Numbers 11:5
+
+*Ḥinnām*, *for nothing* (WLC), is said of what slaves ate. The people who worked unpaid now recall being fed for nothing. Yahweh's reply puts the exodus itself at stake: *Why did we come out of Egypt?* (20).
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
@@ -582,6 +588,7 @@ are identified on the passage and connection pages.
 - [[Laws of Property and Restitution]] — Exodus 22:3; a thief who cannot pay is sold for his theft
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *ʿābad* three times: the peoples' gods or Yahweh.
 - [[A Good Name]] — Proverbs 22:7; The borrower is servant to the lender.
+- [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt's food remembered, its labor not.
 
 ## Related themes
 

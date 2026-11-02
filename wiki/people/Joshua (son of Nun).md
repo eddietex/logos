@@ -55,6 +55,13 @@ Joshua does not depart from the tent (33:11). This is attendance at the outside 
 appointment as an Aaronic priest; no reason for his remaining is stated. See [[Show Me Your Glory]]
 .
 
+### Forbid them — Numbers 11:28–29
+
+Joshua hears that Eldad and Medad are prophesying in the camp and says, *My lord Moses, forbid them!* He is called *the servant of Moses,
+one of his chosen men*. Moses asks, *Are you jealous for my sake?*, and refuses. It is the first time in the wiki's sequence that Joshua is
+corrected. *Mibbəḥurāw* can mean *from his youth* as well as *of his chosen men* (WLC tags). See [[The Seventy Elders and the Quail]] and
+[[Do Not Forbid Them - Joshua in Numbers 11 and John in Mark 9]].
+
 ## Timeline / key events
 
 - Exodus 33 — the young servant who remains at the tent (33:11). [[Show Me Your Glory]]
@@ -64,6 +71,7 @@ appointment as an Aaronic priest; no reason for his remaining is stated. See [[S
 - Rises with Moses as *"his servant"* and goes up God's Mountain with him — Exodus 24:13,
   [[The Blood of the Covenant]]
 - Remains at the outside tent when Moses returns to the camp (33:11) — [[Show Me Your Glory]]
+- Asks Moses to stop Eldad and Medad, and is corrected (Numbers 11:28–29) — [[The Seventy Elders and the Quail]]
 - *(ahead)* Hoshea renamed Joshua; one of the twelve spies (Numbers 13:8, 16)
 - *(ahead)* Commissioned as Moses' successor (Numbers 27:18–23; Deuteronomy 31; 34:9)
 
@@ -75,6 +83,8 @@ appointment as an Aaronic priest; no reason for his remaining is stated. See [[S
 
 - [[The Golden Calf]] — Hears the camp’s celebration as the noise of war (32:17–18).
 
+- [[The Seventy Elders and the Quail]] — Numbers 11:28–29; *"My lord Moses, forbid them!"*
+
 - [[The Battle with Amalek]] — Exodus 17:9–14; **first appearance, unintroduced.** *"Choose men for us, and go out,
   fight with Amalek"*; *"So Joshua did as Moses had told him"*; *"Joshua defeated Amalek"*; *"rehearse it in the ears
   of Joshua"*
@@ -84,6 +94,8 @@ appointment as an Aaronic priest; no reason for his remaining is stated. See [[S
 ## Related people
 
 - [[Nun]] — his father, named in Exodus 33:11.
+
+- [[Eldad]] and [[Medad]] — the men he wanted stopped
 
 - [[Moses]] — the master he serves, who sends him to fight and later renames him (Numbers 13:16)
 - [[Aaron]] and [[Hur (companion of Moses)]] — on the hill while he fights below

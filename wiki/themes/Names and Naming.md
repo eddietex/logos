@@ -174,6 +174,12 @@ An active verb with no named subject (WLC), the form of Exodus 17:7, gives the p
 
 See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 
+### The graves of craving — Numbers 11:34
+
+*Qibrôt hattaʾăwâ* is the second place named for a failure in one chapter. Verse 3 and verse 34 use the same sentence, and this one uses the chapter's first noun for its name.
+
+See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
+
 ## Key passages
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
@@ -341,6 +347,7 @@ See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; shulammite without a biography.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; a count by name.
 - [[The Fire at Taberah]] — Numbers 11:3; *burning*.
+- [[The Seventy Elders and the Quail]] — Numbers 11:34; *the graves of craving*.
 
 ## Related themes
 

@@ -317,7 +317,7 @@ clause also repeats the end of the hail: *"he didn't let the children of Israel 
 - Exodus 22:23–24 — *"I will surely hear their cry"* — [[Laws of Holiness and Compassion]]
 - Exodus 32:19 — *"Moses' anger grew hot"* *(not yet ingested)*
 - Exodus 33:12–17 — *ḥēn* and *pālâ* in Moses' plea *(not yet ingested)*
-- Numbers 11:8 — the manna ground *"in mills"* *(not yet ingested)*
+- [[The Seventy Elders and the Quail]] — Numbers 11:8; the manna ground *"in mills"*
 - Numbers 12:3 — *"the man Moses was very humble"* *(not yet ingested)*
 - Deuteronomy 24:6 — *"No man shall take the mill … as a pledge"* *(not yet ingested)*
 - Deuteronomy 29:24 — *"the heat of this great anger"* *(not yet ingested)*

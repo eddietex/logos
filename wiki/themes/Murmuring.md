@@ -73,6 +73,11 @@ but the wiki files it here because the event belongs to the same series**, and R
 answer has changed too**: fire, then Moses' prayer. Every complaint in Exodus before Sinai was answered with no penalty. See
 [[The Fire at Taberah]].
 
+**Kibroth Hattaavah — complaint with food in hand.** Numbers 11:4–35 also has no *lûn*. Its words are *hitʾawwâ*, *crave*, and *bākâ*,
+*weep* (WLC). Unlike Marah and the wilderness of Sin there is no lack, since the manna is falling. The memory of Egypt from Exodus 16:3
+comes back larger, and Yahweh calls it rejection of himself (11:20). For the first time **Moses joins the complaint**, against Yahweh, and
+is not punished for it. The people are given what they asked for, and the graves follow. See [[The Seventy Elders and the Quail]].
+
 **Ahead in Numbers** (by reference, *not yet ingested*): after the spies' report, the murmuring of Numbers
 14 ends in the sentence that the generation will die in the wilderness; after Korah, it ends in plague
 (Numbers 16–17); and Aaron's budding rod is kept *"that you may make an end of their murmurings against
@@ -98,6 +103,8 @@ to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 C
   *"They are almost ready to stone me"*; the place named Massah and Meribah
 - [[The Fire at Taberah]] — Numbers 11:1–3; **the first complaint after Sinai, and the first with a penalty.** Not *lûn*, but
   *mitʾōnənîm*; no content stated; answered with Yahweh's fire and Moses' prayer
+- [[The Seventy Elders and the Quail]] — Numbers 11:4–35; **a complaint with food in hand.** No *lûn*; the word is weeping, with craving behind it; Moses complains
+  too; meat given, and a plague
 - **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 

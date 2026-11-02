@@ -24,6 +24,7 @@ tags: [connection]
   the holy gods"*
 - **Isaiah 11:2; 42:1; 61:1** — the Spirit resting on a coming figure, permanently
 - **Luke 4:18–21; John 3:34; Acts 10:38** — that promise applied
+- [[The Seventy Elders and the Quail]] — Numbers 11:17, 25–29
 
 ## Analysis
 
@@ -136,3 +137,8 @@ correctly and told the truth about where the reading came from.**
 **For the wiki's purposes the practical point is the pattern**: the Spirit of God in the Hebrew Bible
 lands most often on people doing concrete work under pressure, **and Genesis 41:38 is where the pattern
 begins.**
+
+### The Spirit shared — Numbers 11:17, 25
+
+The phrase of Genesis 41:38 returns as a question of how many. Numbers 11 takes of the Spirit on Moses and puts it on seventy. Numbers 27:18 will
+say of Joshua, *a man in whom is the Spirit*. See [[The Seventy Elders and the Quail]] and [[The Spirit of God]].
