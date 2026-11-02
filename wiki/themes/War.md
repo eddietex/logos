@@ -234,6 +234,10 @@ to fight for the land.
 
 See [[The Twelve Spies]].
 
+### Going up alone — Numbers 14
+
+The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -331,6 +335,7 @@ See [[The Twelve Spies]].
 - [[The Two Silver Trumpets]] — Numbers 10:5–9; march alarms, and the alarm of war in the land.
 - [[The March from Sinai]] — Numbers 10:14–28, 35; the armies march, and the ark goes out against Yahweh's enemies.
 - [[The Twelve Spies]] — Numbers 13:17–20, 28–31; a reconnaissance, and a dispute about fighting
+- [[The Defeat at Hormah]] — Numbers 14:42–45; battle without the ark or Moses
 
 ## Related themes
 

@@ -566,6 +566,10 @@ Few passages name one act so many ways: despising (*nāʾaṣ*, 11, 23), not bel
 against Yahweh (35), and *zənût* (33). Verses 18–19 and 34 use *ʿāwōn*. See
 [[The People Refuse the Land]].
 
+### *We have sinned* — Numbers 14
+
+The people say *we have sinned*, and in the same sentence announce the next act of disobedience. Confession here does not stop the action. See [[The Defeat at Hormah]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -827,6 +831,7 @@ against Yahweh (35), and *zənût* (33). Verses 18–19 and 34 use *ʿāwōn*. S
 - [[The Passover in the Second Year]] — Numbers 9:13; a duty left undone.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:11; Aaron's confession.
 - [[The People Refuse the Land]] — Numbers 14:9–35; a single refusal under many names
+- [[The Defeat at Hormah]] — Numbers 14:40–43; a confession and a new transgression at once
 
 ## Related themes
 

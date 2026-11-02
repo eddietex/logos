@@ -163,7 +163,7 @@ a public order, but this unit does not make that link. See [[Mediation and Advoc
 
 **Verse 22 has no failure.** The unit reports no one leaving early or lagging behind. That is its picture of
 the arrangement, and it will not survive the book unchanged. Numbers 14:44 has the people going up on their own
-with the ark left in camp.
+with the ark left in camp; see [[The Defeat at Hormah]].
 
 **Tensions left standing.**
 

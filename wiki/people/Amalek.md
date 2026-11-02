@@ -79,6 +79,8 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - Haman the Agagite — Esther 3:1
 - The Amalekite is *in the valley*, with the Canaanite — Numbers 14:25,
   [[The People Refuse the Land]]
+- The Amalekite comes down from the hill country with the Canaanite and beats Israel to Hormah — Numbers
+  14:43–45, [[The Defeat at Hormah]]
 
 ## Appears in
 
@@ -93,6 +95,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - [[The Twelve Spies]] — Numbers 13:29; first in the spies' list of peoples, in the land of the
   South
 - [[The People Refuse the Land]] — Numbers 14:25; in the valley, against 13:29.
+- [[The Defeat at Hormah]] — Numbers 14:43–45; in *that mountain*, against 14:25.
 
 ## Related people
 

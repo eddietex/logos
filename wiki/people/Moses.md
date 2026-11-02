@@ -918,6 +918,12 @@ from him (12), he never mentions it. He argues from the nations' report and from
 Exodus 34, leaving out its opening and keeping its warning (13–19), and he gets *I have pardoned*
 (20). He does not plead against the sentence. See [[The People Refuse the Land]].
 
+### He does not go up — Numbers 14:39–45
+
+He tells the people the sentence, and they answer by going up. He gives the warning with no reported
+word from Yahweh, and then the narrator names him with the ark as what did not leave the camp (44).
+See [[The Defeat at Hormah]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1171,6 +1177,8 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
   [[The Twelve Spies]]
 - Refuses the offer of a greater nation and wins pardon — Numbers 14:11–20,
   [[The People Refuse the Land]]
+- Warns the people not to go up, and stays in the camp with the ark — Numbers 14:39–44,
+  [[The Defeat at Hormah]]
 
 ## Appears in
 
@@ -1408,6 +1416,7 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 - [[The Twelve Spies]] — Numbers 13:1–33; sends the twelve, and calls Hoshea Joshua.
 - [[The People Refuse the Land]] — Numbers 14:1–38; falls on his face, pleads, and carries the
   sentence.
+- [[The Defeat at Hormah]] — Numbers 14:39–44; warns, and stays with the ark.
 
 ## Related people
 

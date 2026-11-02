@@ -299,6 +299,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Do Not Envy Sinners]] — Proverbs 23:19, 26; The heart kept on the right path, the eyes kept in the father's ways.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; camp and march both follow Yahweh's lead.
 - [[The March from Sinai]] — Numbers 10:33–36; the people move as the ark moves.
+- [[The Defeat at Hormah]] — Numbers 14:43; *you turned back from following Yahweh*
 
 ## Related themes
 

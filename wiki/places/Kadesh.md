@@ -49,6 +49,7 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
 - [[Hagar and Ishmael]] — Genesis 16:14, one of the two bearings for Beer Lahai Roi
 - [[The Twelve Spies]] — Numbers 13:26; where the twelve report to the whole congregation
 - [[The People Refuse the Land]] — Numbers 14:1–38; the place of the refusal, by 13:26 and 32:8
+- [[The Defeat at Hormah]] — Numbers 14:39–45; the camp the people went up from
 
 ## Related places
 
@@ -60,6 +61,7 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
 - [[Massah and Meribah]] — the first Meribah, at Rephidim (Exodus 17:7); the Kadesh water of Numbers 20 is a
   second place given the same name, *"Meribah of Kadesh"* (Numbers 27:14; WLC)
 - [[The Wilderness of Zin]] — the other wilderness it is placed in
+- [[Hormah]] — how far the rout from here reached
 
 ## Events here
 
@@ -75,3 +77,5 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
   [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]
 - Messengers go from here to the king of Edom — Numbers 20:14–21
 - The refusal, and the sentence of forty years — Numbers 14:1–38, [[The People Refuse the Land]]
+- The people go up from here against Moses' word and are beaten back — Numbers 14:39–45,
+  [[The Defeat at Hormah]]

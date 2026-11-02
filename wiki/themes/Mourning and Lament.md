@@ -292,6 +292,7 @@ treats it as a fault. Verse 39 will have them mourn again, after the sentence, t
 - [[The Nazirite Vow]] — Numbers 6:7; no defilement for near kin.
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–20, 33–34; weeping for meat, and burial with no weeping told.
 - [[The People Refuse the Land]] — Numbers 14:1; the night of weeping
+- [[The Defeat at Hormah]] — Numbers 14:39; great mourning, and no change of direction
 
 ## Related themes
 

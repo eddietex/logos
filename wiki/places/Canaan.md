@@ -388,6 +388,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - [[The Twelve Spies]] — Numbers 13:2, 17; the land searched at last, *which I give*
 - [[The People Refuse the Land]] — Numbers 14:1–38; the land refused, called *exceeding good* by
   Joshua and Caleb
+- [[The Defeat at Hormah]] — Numbers 14:40–45; the land attempted after it was refused
 
 ## Related places
 
@@ -409,6 +410,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - [[The Salt Sea]] — the rift valley on its eastern edge, and the battlefield of Genesis 14
 - [[Damascus]] and [[Dan (city)]] — the northern limits of Abram's pursuit in Genesis 14, one of them
   outside the land altogether
+- [[Hormah]] — a town at its southern edge
 
 ## Events here
 
@@ -459,3 +461,5 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - The twelve search it for forty days — Numbers 13:21–25, [[The Twelve Spies]]
 - The generation counted at Sinai is sworn out of it — Numbers 14:23, 30,
   [[The People Refuse the Land]]
+- The people go up to it against the word, and are beaten down to Hormah — Numbers 14:40–45,
+  [[The Defeat at Hormah]]

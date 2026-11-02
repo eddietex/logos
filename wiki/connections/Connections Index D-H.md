@@ -37,6 +37,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] | thread | Exodus 17:2, 7 · Deuteronomy 6:16 · Deuteronomy 9:22 · Deuteronomy 33:8 · Psalm 81:7 · Psalm 95:7–11 · Matthew 4:7 · 1 Corinthians 10:9 · Hebrews 3:7–11 |
 | [[The Dog Returns to His Vomit - Proverbs 26.11 and 2 Peter 2.22]] | quotation | [[Answer a Fool]] (Proverbs 26:9, 11–12) · 2 Peter 2:22 · [[The Glory of Kings]] (Proverbs 25:16) |
 | [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]] | parallel | Genesis 12:10 · Genesis 26:1–6 · Genesis 46:1–7 · Isaiah 30:1–2 · Isaiah 31:1 · Jeremiah 42:13–43:7 |
+| [[Don't Go Up - Numbers 14.39-45 and Deuteronomy 1.41-46]] | parallel | [[The Defeat at Hormah]] (Numbers 14:39–45) · Deuteronomy 1:41–46 |
 | [[The Door and the Destroyer - Lot's House and the Passover Night]] | thread | Genesis 19:1–29 · Exodus 12:1–28 · Genesis 19:14, 16 · Exodus 12:29–39 |
 | [[The Dove and the Spirit]] | typology | Genesis 1:2 · Genesis 8:1–12 · Leviticus 5:7, 12:8 · Hosea 11:11 · Matthew 3:16 · Mark 1:10 · Luke 3:22 · John 1:32 · 1 Peter 3:20–21 · [[Delight and the Unawakened Love]] (Song of Solomon 1:15) · [[You Are All Beautiful]] (Song of Solomon 4:1) · [[Rise Up, My Love]] (Song of Solomon 2:12, 14) · [[Altogether Lovely]] · [[My Dove Is Unique]] (Song 6:4–10) |
 | [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] | typology | Genesis 12:10–20 · Genesis 13:1–2 · Genesis 15:13–14 · Genesis 42:2–3 · Genesis 43:15 · Genesis 46:1–4 · Exodus 1:22 · Exodus 7–12 · Exodus 11:1 · Exodus 12:31–36 · Deuteronomy 26:5 · Psalm 105:12–15 · Matthew 2:13–21 · Exodus 14:11 |
@@ -58,6 +59,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Enough for the Work - Manna and the Sanctuary Offering]] | contrast | Exodus 16:16–30 · Exodus 36:3–7 · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
+| [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] | thread | [[The Defeat at Hormah]] (Numbers 14:45) · Numbers 21:1–3 · Deuteronomy 1:44 · Joshua 12:14; 15:30; 19:4 · Judges 1:16–17 · 1 Samuel 30:30 · 1 Chronicles 4:30 |
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
 | [[Every Son Who Is Born - Pharaoh's Decree and Herod's]] | typology | Exodus 1:16, 22 · Exodus 2:1–10, 15 · Exodus 4:19 · Matthew 2:13–20 · Acts 7:19 · Hebrews 11:23 · Exodus 4:22–24 |
 | [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]] | parallel | [[The Words of Agur]] · [[The Covenant Between the Pieces]] · Psalm 18:30 · 2 Samuel 22:31 · Deuteronomy 4:2 |

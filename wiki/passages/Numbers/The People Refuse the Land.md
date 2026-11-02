@@ -189,8 +189,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Seventy Elders and the Quail]] — Numbers 11:20; the same verb, *rejected*
 - [[Jacob's Flight from Laban]] — Genesis 31:7, 41; *ten times*
 - [[The Call of Abram]] — Genesis 12:2; *a great nation*
-- Numbers 14:39–45 — the next pericope; the attempt to go up after all *(stored WEB, not yet
-  ingested)*
+- [[The Defeat at Hormah]] — Numbers 14:39–45; the attempt to go up after all
 - Numbers 20:12 — why Moses and Aaron will not go in *(stored WEB, not yet ingested)*
 - Numbers 26:64–65 — the second count, and the first generation gone *(stored WEB, not yet
   ingested)*

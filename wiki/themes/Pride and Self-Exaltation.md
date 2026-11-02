@@ -278,6 +278,10 @@ See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; compari
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### *They presumed* — Numbers 14
+
+The people answer a sentence by going up against the word. The verb, *wayyaʿpilû*, occurs only here by the tags, and Deuteronomy 1:43 has *zîd*. See [[The Defeat at Hormah]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -366,6 +370,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:1–2, 21; The boast about tomorrow, self-praise, and praise as the furnace.
 - [[The House of Mourning]] — Ecclesiastes 7:8; the patient in spirit better than the proud.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:2–3; *only with Moses?* and *very humble*.
+- [[The Defeat at Hormah]] — Numbers 14:44; *they presumed*
 
 ## Related themes
 

@@ -55,6 +55,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:11; Isaac settles at Beer Lahai Roi
   in it permanently, and the whole Ishmaelite corridor of 25:18 is drawn along its southern edge
 - [[The Twelve Spies]] — Numbers 13:17, 22, 29; the way in, and Amalek's country
+- [[The Defeat at Hormah]] — Numbers 14:40–45; the country below the hill country
 
 ## Related places
 
@@ -63,6 +64,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 - [[Bethel]] and [[Ai]] — the highland ridge he comes down from
 - [[Gerar]] — the town in its western belt that both Abraham and Isaac sojourn in
 - [[Kadesh]] and [[Shur]] — the two markers Genesis 20:1 places him between
+- [[Hormah]] — in or near its country
 
 ## Events here
 
@@ -76,3 +78,5 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 - Isaac's wells in the valley of Gerar — [[Esek]], [[Sitnah]], [[Rehoboth]] — and the promise renewed
   at Beersheba the night he arrives — Genesis 26:17–25, [[Isaac in Gerar]]
 - The spies go up by it; Amalek dwells there — Numbers 13:17, 22, 29, [[The Twelve Spies]]
+- The rout passes down toward Hormah — Numbers 14:45,
+  [[The Defeat at Hormah]]

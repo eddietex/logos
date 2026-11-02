@@ -52,6 +52,7 @@ geography of the Torah, which puts Israel's spies in it.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:16; reached by name, after Hazeroth
 - [[The Twelve Spies]] — Numbers 13:3, 26; the men go out from it and come back to it
 - [[The People Refuse the Land]] — Numbers 14:1–38; the wilderness of the scene, by 13:26
+- [[The Defeat at Hormah]] — Numbers 14:40; the camp of the failed ascent, by 13:26
 
 ## Related places
 
@@ -79,3 +80,5 @@ geography of the Torah, which puts Israel's spies in it.
 - *"He shone from Mount Paran"* — Deuteronomy 33:2; Habakkuk 3:3
 - Hadad the Edomite passes through on his flight to Egypt — 1 Kings 11:18
 - The refusal, and the sentence of forty years — Numbers 14:1–38, [[The People Refuse the Land]]
+- The failed ascent starts from the camp here — Numbers 14:39–45,
+  [[The Defeat at Hormah]]

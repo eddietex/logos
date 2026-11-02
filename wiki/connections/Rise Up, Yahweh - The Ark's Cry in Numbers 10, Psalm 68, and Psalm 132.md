@@ -52,3 +52,5 @@ goal stayed in use for what Israel still lacked. The two can be read together be
 
 Source: WEB of Numbers from `raw/bible/`; other WEB from bible-api.com (`translation=web`), 2026-11-01. Hebrew and word
 locations from WLC (morphhb), by its Strong's and morphology tags. No commentary was consulted.
+- At Numbers 14:44 Israel goes up and the ark stays in the camp. No cry is reported. See
+  [[The Defeat at Hormah]].

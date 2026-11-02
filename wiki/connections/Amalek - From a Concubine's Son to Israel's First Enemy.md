@@ -130,3 +130,5 @@ a narrative. Moab and Ammon get a cave; Canaan gets a curse; Ishmael gets a wild
 - **And it shows Genesis declining to prepare the ground.** The book that will not introduce Canaan
   without a curse introduces Amalek without an adjective, in the middle of the most even-handed
   genealogy it ever writes.
+- Numbers 14:43–45 is Amalek's only victory over Israel so far in the wiki, against the army that
+  went up without the ark or Moses. See [[The Defeat at Hormah]].

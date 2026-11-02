@@ -49,3 +49,5 @@ bible-api.com, 2026-11-02. See also [[Caleb and Hebron - Numbers 13, Joshua 14-1
 
 - The Bible's name for loyalty at the moment of decision comes from one man's refusal to go along
   with the majority.
+- Numbers 14:43 gives the opposite in the same chapter, *šabtem mēʾaḥărê YHWH*, *you turned back from
+  following Yahweh*. See [[The Defeat at Hormah]].

@@ -450,6 +450,10 @@ Yahweh comes down at the door of the Tent, speaks, and departs, and the cloud is
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### Not among you — Numbers 14
+
+The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -553,6 +557,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the camp moves and stops with the cloud on the dwelling.
 - [[The March from Sinai]] — Numbers 10:17, 21, 33–36; the tabernacle carried, and the ark before the people.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:5, 9–10; the pillar at the door, and the cloud gone.
+- [[The Defeat at Hormah]] — Numbers 14:42–44; *Yahweh isn't among you*, and the ark stays in the camp
 
 ## Related themes
 

@@ -181,7 +181,7 @@ light travels with them.**
 
 ***"Didn't depart"*** — ***lōʾ-yāmîš***. In the Torah *mûš* occurs here, of Joshua who *"didn't depart from
 the tent"* (33:11), and of the ark and Moses, which did not leave the camp when the people went up against the
-hill country (Numbers 14:44; *not yet ingested*) (WLC lemma search). **The first thing said never to leave Israel is the pillar.**
+hill country (Numbers 14:44; [[The Defeat at Hormah]]) (WLC lemma search). **The first thing said never to leave Israel is the pillar.**
 
 ### Turn back (14:1–4)
 

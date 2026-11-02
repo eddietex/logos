@@ -46,3 +46,5 @@ information was the sin.
 - The two accounts agree on the facts that carry the judgment: twelve men, fruit, the fear, and the
   refusal.
 - They differ on who began it, and the wiki keeps both claims.
+- The retelling continues past the sentence; see
+  [[Don't Go Up - Numbers 14.39-45 and Deuteronomy 1.41-46]].

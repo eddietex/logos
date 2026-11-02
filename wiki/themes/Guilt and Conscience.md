@@ -264,6 +264,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
   concealment is the only comment the text makes**
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–8; guilt confessed and repaid.
 - [[The Suspected Wife]] — Numbers 5:11–31; hidden guilt, and no confession provided for.
+- [[The Defeat at Hormah]] — Numbers 14:40; *we have sinned*
 
 ## Related themes
 

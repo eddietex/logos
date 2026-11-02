@@ -876,6 +876,10 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The word withdrawn — Numbers 14
+
+Obedience here depends on the present word. What was commanded yesterday is forbidden today, and doing it is called crossing the mouth of Yahweh. See [[The Defeat at Hormah]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -1082,6 +1086,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Passover in the Second Year]] — Numbers 9:5–14; a case referred up and answered as law.
 - [[The Cloud over the Tabernacle]] — Numbers 9:19, 23; staying put called keeping Yahweh's charge.
 - [[The March from Sinai]] — Numbers 10:13–28; the rule and order of march obeyed.
+- [[The Defeat at Hormah]] — Numbers 14:40–44; the command refused, then attempted after it was withdrawn
 
 ## Related themes
 

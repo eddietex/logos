@@ -31,7 +31,7 @@ that. The Hebrew joins a priest's field to a conquered city.
 | Leviticus 27:21, 28 | a field; property | the priest's; not sold or redeemed |
 | Leviticus 27:29 | a human being | put to death |
 | Exodus 22:20 | one who sacrifices to another god | death, as a sentence |
-| Numbers 21:2 | enemy cities, vowed | destroyed; the place is named Hormah (21:3) |
+| Numbers 21:2 | enemy cities, vowed | destroyed; the place is named Hormah (21:3), already the site of the defeat of [[The Defeat at Hormah]] (14:45) |
 | Deuteronomy 7:2 | the nations of the land | destruction, in war |
 | Joshua 6:17 | Jericho | all devoted except Rahab's house |
 | 1 Samuel 15:3 | Amalek | Saul spares Agag and the best animals |

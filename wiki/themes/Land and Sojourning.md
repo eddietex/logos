@@ -650,6 +650,7 @@ children, and Caleb. See [[The People Refuse the Land]].
 - [[The March from Sinai]] — Numbers 10:29–30; Moses names the goal, and Hobab his own land.
 - [[The Twelve Spies]] — Numbers 13:1–33; the land seen, carried back as fruit, and slandered
 - [[The People Refuse the Land]] — Numbers 14:1–38; refused at the border, and postponed forty years
+- [[The Defeat at Hormah]] — Numbers 14:40–45; attempted after refusal
 
 ## Related themes
 

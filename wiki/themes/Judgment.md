@@ -973,6 +973,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[The Seventy Elders and the Quail]] — Numbers 11:18–34; plenty as penalty, and a place named for it.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:9–15; Miriam struck, and the term set.
 - [[The People Refuse the Land]] — Numbers 14:26–37; the generation's own words as the sentence
+- [[The Defeat at Hormah]] — Numbers 14:43–45; the sword they feared
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

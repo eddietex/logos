@@ -276,6 +276,7 @@ the people's own (33–34). See [[The People Refuse the Land]].
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"he will not pardon your disobedience"*.
 - [[The People Refuse the Land]] — Numbers 14:18–23; pardon at Moses' word, and the sentence beside
   it
+- [[The Defeat at Hormah]] — Numbers 14:42; pardoned at 14:20, yet Yahweh is not among them
 
 ## Related themes
 
