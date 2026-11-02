@@ -906,6 +906,11 @@ The command reaches the people *by Moses* (13). He then appears twice for himsel
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The spies — Numbers 13
+
+Sends the twelve, gives them six questions, calls Hoshea *Joshua*, and receives the report at
+Kadesh. He is silent when Caleb speaks and when the others reply. See [[The Twelve Spies]].
+
 ## Timeline / key events
 
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
@@ -1155,6 +1160,8 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 - Numbers 11:1–3 — The people cry to him, and he prays, the first time *hitpallel* is used of him. [[The Fire at Taberah]]
 - Numbers 11:4–35 — Complains that the burden is too heavy, asks to die, shares the Spirit with seventy, and wishes all were prophets. [[The Seventy Elders and the Quail]]
 - Numbers 12:1–16 — Spoken against by Miriam and Aaron; called very humble and faithful in all Yahweh's house; prays for Miriam. [[Miriam and Aaron Against Moses]]
+- Numbers 13:1–33 — Sends the twelve at Yahweh's word, renames Hoshea, and receives their report.
+  [[The Twelve Spies]]
 
 ## Appears in
 
@@ -1389,6 +1396,7 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 - [[The Fire at Taberah]] — Numbers 11:2; receives the people's cry, and prays.
 - [[The Seventy Elders and the Quail]] — Numbers 11:10–30; his bitterest speech, and his widest wish.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; *very humble*, *mouth to mouth*, and five words for his sister.
+- [[The Twelve Spies]] — Numbers 13:1–33; sends the twelve, and calls Hoshea Joshua.
 
 ## Related people
 

@@ -201,6 +201,14 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The spies — Numbers 13
+
+Caleb says *we are well able* (30) and the others say *We aren't able* (31), with the same verb and
+no new facts. Neither side names Yahweh in the exchange. Faith here is not a dispute over evidence.
+Psalm 106:24 sums it up as *They didn't believe his word* (WEB; *not yet ingested*).
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -340,6 +348,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[Thirty Excellent Things]] — Proverbs 22:19; The collection's stated purpose: *"that your trust may be in Yahweh"*.
 - [[The Seventy Elders and the Quail]] — Numbers 11:21–23; Moses' arithmetic, and the question it gets.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:7; *neʾĕmān*.
+- [[The Twelve Spies]] — Numbers 13:30–31; *we are well able* and *We aren't able*
 
 ## Related themes
 

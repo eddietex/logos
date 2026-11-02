@@ -103,7 +103,7 @@ Genesis–Deuteronomy), **and Joshua is not introduced**: no father, no tribe, n
 commander. **Exodus will give him a role before it gives him a family** — *"Joshua, his servant"*
 (*məšārətô*, 24:13) — and the patronymic only at 33:11, *"his servant Joshua, the son of Nun, a young man"*.
 **Numbers says this is not even his first name**: *"Moses called Hoshea the son of Nun Joshua"* (Numbers 13:16;
-WEB; *not yet ingested*) — Hebrew *hôšēaʿ* to *yəhôšuaʿ*, the divine name added to the front (WLC). **Exodus
+WEB; [[The Twelve Spies]]) — Hebrew *hôšēaʿ* to *yəhôšuaʿ*, the divine name added to the front (WLC). **Exodus
 uses the later name from his first line**: the narrator writes from after the renaming. The name is commonly derived from
 *Yahweh* and the root *yāšaʿ*, *to save* — the verb of *"Thus Yahweh saved Israel that day"* (14:30; WLC) — a
 standard etymology the text itself does not spell out. See [[Joshua (son of Nun)]] and

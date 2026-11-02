@@ -46,6 +46,10 @@ gods?"* (15:11); a Canaanite answers it.**
 23:27; MAM). The Song sings that terror falls on Canaan's inhabitants (15:16); Sinai has God promise to
 send it; Rahab reports that it has fallen (2:9). The same noun runs through all three.
 
+**It answers the spies.** Numbers 13:33 says *so we were in their sight*, a claim the men could not
+have tested. Rahab speaks from inside the land forty years later, and she reports fear of Israel.
+See [[Twelve Spies and Two - Numbers 13 and Joshua 2]].
+
 ## Significance
 
 **The Song predicted what the nations would hear and feel; Joshua 2 has one of those nations report that it

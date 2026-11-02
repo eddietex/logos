@@ -26,8 +26,8 @@ wiki records the two itineraries without harmonizing.
 **The name has the same consonants as *Sinai* (*sînay*), and its first verse names both.** The WLC files them
 under separate numbers (5512, 5514). **Many readers take the wilderness as named for the mountain, or both
 for a common word** (reported, not checked in this pass); the wiki records the resemblance and draws nothing
-from it. It is not to be confused with *"the wilderness of Zin"* (*ṣin*, with a different first letter) of
-Numbers 13:21; 20:1; 27:14, near Kadesh (WLC lemma search, Numbers; *not yet ingested*).
+from it. It is not to be confused with [[The Wilderness of Zin]] (*ṣin*, with a different first letter) of
+Numbers 13:21; 20:1; 27:14, near Kadesh (WLC lemma search, Numbers).
 
 **Everything Exodus says happened there is in one chapter**: the murmuring against Moses and Aaron, the
 first appearance of *"Yahweh's glory … in the cloud"*, the quail, the manna, the omer, the first *Sabbath*,

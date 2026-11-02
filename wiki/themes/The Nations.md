@@ -176,6 +176,14 @@ Two chapters after Hobab the Midianite is invited to stay, a foreign wife is an 
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The spies — Numbers 13
+
+Verse 29 is a map: Amalek in the South, the Hittite, Jebusite, and Amorite in the hills, and the
+Canaanite by the sea and the Jordan. Rahlfs adds the Hivite. The peoples named at Exodus 3:8 as a
+list here have regions. See [[The Anakim]] and [[Amalek]].
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -425,6 +433,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Passover in the Second Year]] — Numbers 9:14; the stranger at the Passover.
 - [[The March from Sinai]] — Numbers 10:29–32; a Midianite offered a share of Israel's good.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1; a wife from Cush, or from Midian.
+- [[The Twelve Spies]] — Numbers 13:28–29, 33; the peoples of the land by region
 
 ## Related themes
 

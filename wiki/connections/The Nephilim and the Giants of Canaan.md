@@ -10,7 +10,7 @@ tags: [connection]
 - Genesis 6:4 — [[The Sons of God and the Corruption of the Earth]]
 - Genesis 10:8 — [[The Table of Nations]]: *gibbōr* used of Nimrod, the word's first reappearance
   after the flood
-- Numbers 13:31–33 *(not yet ingested)* — the spies' report, and the word's only other occurrence
+- [[The Twelve Spies]] — Numbers 13:31–33; the spies' report, and the word's only other verse
 - Deuteronomy 1:28; 2:10–11, 20–21; 3:11; 9:1–2 *(not yet ingested)* — the Anakim, Emim, Zamzummim,
   and Rephaim
 - Joshua 11:21–22; 14:12–15; 15:13–14 *(not yet ingested)* — the Anakim driven out, and the remnant
@@ -20,8 +20,8 @@ tags: [connection]
 
 ## Analysis
 
-**Two verses, and a chain the Bible does not quite forge.** *Nephilim* occurs exactly twice in the
-Hebrew Bible. Genesis 6:4 places them before the flood, with the parenthetical *"and also after
+**Two verses, and a chain the Bible does not quite forge.** *Nephilim* occurs in exactly two verses of the
+Hebrew Bible, three times in all (WLC). Genesis 6:4 places them before the flood, with the parenthetical *"and also after
 that"*. Numbers 13:33 places them in Canaan, in the mouths of ten frightened men: *"There we saw the
 Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers,
 and so we were in their sight."* Everything else usually said about them is inference from those two
@@ -77,6 +77,11 @@ gave English *"giants"* in Genesis 6:4. A good deal of the popular picture of th
 from a translator's choice rather than from the Hebrew, which never describes them and never gives a
 measurement. The only actual dimensions in this whole tradition belong to Og's bed and Goliath's
 armour.
+
+**The Greek lacks the bridge.** Rahlfs's Numbers 13:33 has *καὶ ἐκεῖ ἑωράκαμεν τοὺς γίγαντας*, and
+no words for *the sons of Anak, who come from the Nephilim*. So the single clause this page calls
+the only link is missing from that text. Whether it is a later Hebrew gloss or a Greek omission
+cannot be said here, because no apparatus was read. See [[The Anakim]].
 
 ## Significance
 

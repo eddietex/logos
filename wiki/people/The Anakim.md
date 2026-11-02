@@ -1,0 +1,53 @@
+---
+type: person
+also_known_as: [children of Anak, sons of Anak, ʿĂnāqîm, Ahiman, Sheshai, Talmai, Arba]
+tags: [person]
+---
+# The Anakim
+
+## Overview
+
+The people at Hebron whom the spies feared most. They enter at Numbers 13:22: *Ahiman, Sheshai, and
+Talmai, the children of Anak, were there*. Numbers 13 never uses the plural form *Anakim*, which
+first occurs at Deuteronomy 1:28 by the WLC tags. It has *yəlîdê hāʿănāq* (22, 28) and *bənê ʿănāq*
+(33), with the article in the first of these, so *ʿănāq* may be a title or class word more than a
+man's name. Its likely link with the word for a neck or necklace is recalled, not checked.
+
+**Three names, always in a group.** Ahiman, Sheshai, and Talmai appear together at Numbers 13:22,
+Joshua 15:14, and Judges 1:10. Sheshai occurs nowhere else by the tags. The Talmai of 2 Samuel 3:3
+and the Ahiman of 1 Chronicles 9:17 are other men.
+
+**The spies link them to the Nephilim.** *There we saw the Nephilim, the sons of Anak, who come from
+the Nephilim* (13:33). This is the only link anywhere, it comes from the men the chapter condemns,
+and Rahlfs's Greek lacks the clause (*καὶ ἐκεῖ ἑωράκαμεν τοὺς γίγαντας*, with no Enach). See
+[[The Nephilim]] and [[The Nephilim and the Giants of Canaan]].
+
+**How later books recall them** (WEB; *not yet ingested*). Deuteronomy 1:28 has the people quote
+*the sons of the Anakim*, and Deuteronomy 9:2 preserves a saying, *Who can stand before the sons of
+Anak?* Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. Joshua 15:13
+calls Arba *the father of Anak*, and Joshua 14:15 has him the greatest man among them, giving
+Hebron's old name. Joshua 11:21–22 says Joshua cut them off, except in Gaza, Gath, and Ashdod.
+Joshua 15:14 and Judges 1:20 have Caleb drive out the three, and Judges 1:10 has Judah strike them.
+See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
+
+## Timeline / key events
+
+- Found at Hebron — Numbers 13:22, [[The Twelve Spies]]
+- Reported to Moses and the people — Numbers 13:28, 33
+- *(ahead)* Removed from Hebron — Joshua 11:21–22; 15:14; Judges 1:10, 20
+
+## Appears in
+
+- [[The Twelve Spies]] — Numbers 13:22, 28, 33
+
+## Related people
+
+- [[The Nephilim]] — whom the spies say they come from
+- [[Caleb (son of Jephunneh)]] — who will ask for their country
+- [[The Ten Spies]] — who reported them
+
+## Themes associated
+
+- [[War]]
+- [[The Nations]]
+- [[Land and Sojourning]]

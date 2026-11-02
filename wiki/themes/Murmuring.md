@@ -78,6 +78,10 @@ answer has changed too**: fire, then Moses' prayer. Every complaint in Exodus be
 comes back larger, and Yahweh calls it rejection of himself (11:20). For the first time **Moses joins the complaint**, against Yahweh, and
 is not punished for it. The people are given what they asked for, and the graves follow. See [[The Seventy Elders and the Quail]].
 
+### The spies — Numbers 13
+
+Still no *lûn*. The report itself is not a murmuring: the verb arrives at 14:2 and 14:36, where the men who brought the *dibbâ* are said to have *made all the congregation to murmur*. So the chapter is the cause. See [[The Twelve Spies]].
+
 **Ahead in Numbers** (by reference, *not yet ingested*): after the spies' report, the murmuring of Numbers
 14 ends in the sentence that the generation will die in the wilderness; after Korah, it ends in plague
 (Numbers 16–17); and Aaron's budding rod is kept *"that you may make an end of their murmurings against
@@ -114,6 +118,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–9; complaint from inside the family, without *lûn*.
+- [[The Twelve Spies]] — Numbers 13:27–33; the report that leads to the murmuring of 14:2, 36.
 
 ## Related themes
 

@@ -18,8 +18,7 @@ singles him out as the hearer of the memorial: *"Write this for a memorial in a 
 ears of Joshua"* (17:14). **Why him the text does not say.** See [[The Battle with Amalek]].
 
 **His name is not the one he was born with.** Numbers lists him among the spies as *"Hoshea the son of Nun"*, of
-the tribe of Ephraim, and adds: ***"Moses called Hoshea the son of Nun Joshua"*** (Numbers 13:8, 16; WEB; *not
-yet ingested*) — Hebrew *hôšēaʿ* to *yəhôšuaʿ*, with the divine name prefixed (WLC). **Exodus uses the later name
+the tribe of Ephraim, and adds: ***"Moses called Hoshea the son of Nun Joshua"*** (Numbers 13:8, 16; WEB) — Hebrew *hôšēaʿ* to *yəhôšuaʿ*, with the divine name prefixed (WLC). **Exodus uses the later name
 from his first line**, so the narrator is writing from after a renaming it never reports. **The name is
 commonly derived from *Yahweh* and *yāšaʿ*, *to save*** — the verb of *"Thus Yahweh saved Israel that day"*
 (Exodus 14:30; WLC); that etymology is standard but is not spelled out by the text. **In Greek it is
@@ -38,7 +37,7 @@ wisdom; for Moses had laid his hands on him"* (Deuteronomy 34:9) (WEB; *not yet 
 
 ### What is ahead
 
-The spies and the renaming (Numbers 13–14); the succession
+The sentence and his survival (Numbers 14); the succession
 (Numbers 27; Deuteronomy 31, 34); and the book of Joshua. These sections are written as their pericopes arrive.
 
 ### The golden calf — Exodus 32
@@ -62,6 +61,15 @@ one of his chosen men*. Moses asks, *Are you jealous for my sake?*, and refuses.
 corrected. *Mibbəḥurāw* can mean *from his youth* as well as *of his chosen men* (WLC tags). See [[The Seventy Elders and the Quail]] and
 [[Do Not Forbid Them - Joshua in Numbers 11 and John in Mark 9]].
 
+### Hoshea called Joshua — Numbers 13
+
+He is sent for Ephraim as *Hoshea the son of Nun* (8), and at the end of the list *Moses called
+Hoshea the son of Nun Joshua* (16). Exodus and Numbers have called him Joshua since Exodus 17:9, so
+the verse either reports an earlier naming or the narrator has been using the later name. It gives
+no reason. In this chapter he says nothing: Caleb speaks at 13:30, and Joshua's first words on the
+matter come at 14:6–9. Deuteronomy 32:44 still has *Hoshea* in WLC, where WEB prints *Joshua* and
+Rahlfs has *Ἰησοῦς*. See [[The Twelve Spies]] and [[Joshua and Jesus - One Name]].
+
 ## Timeline / key events
 
 - Exodus 33 — the young servant who remains at the tent (33:11). [[Show Me Your Glory]]
@@ -72,7 +80,7 @@ corrected. *Mibbəḥurāw* can mean *from his youth* as well as *of his chosen 
   [[The Blood of the Covenant]]
 - Remains at the outside tent when Moses returns to the camp (33:11) — [[Show Me Your Glory]]
 - Asks Moses to stop Eldad and Medad, and is corrected (Numbers 11:28–29) — [[The Seventy Elders and the Quail]]
-- *(ahead)* Hoshea renamed Joshua; one of the twelve spies (Numbers 13:8, 16)
+- Hoshea of Ephraim, one of the twelve sent, is called Joshua by Moses (Numbers 13:8, 16) — [[The Twelve Spies]]
 - *(ahead)* Commissioned as Moses' successor (Numbers 27:18–23; Deuteronomy 31; 34:9)
 
 - Exodus 32 — Hears the camp’s celebration as the noise of war (32:17–18). [[The Golden Calf]]
@@ -90,6 +98,8 @@ corrected. *Mibbəḥurāw* can mean *from his youth* as well as *of his chosen 
   of Joshua"*
 - [[The Blood of the Covenant]] — Exodus 24:13; **Moses' servant on the mountain.** *"Moses rose up with Joshua,
   his servant"*
+- [[The Twelve Spies]] — Numbers 13:8, 16; sent for Ephraim, and called Joshua; silent in the
+  chapter
 
 ## Related people
 
@@ -100,7 +110,9 @@ corrected. *Mibbəḥurāw* can mean *from his youth* as well as *of his chosen 
 - [[Moses]] — the master he serves, who sends him to fight and later renames him (Numbers 13:16)
 - [[Aaron]] and [[Hur (companion of Moses)]] — on the hill while he fights below
 - [[Amalek]] — the people he defeats
-- [[Ephraim]] — his tribe, per Numbers 13:8 (*not yet ingested*)
+- [[Ephraim]] — his tribe, per Numbers 13:8
+- [[Caleb (son of Jephunneh)]] — the other spy who survives
+- [[The Ten Spies]] — the men sent with him
 
 ## Themes associated
 

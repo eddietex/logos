@@ -81,6 +81,14 @@ After Taberah, Kibroth Hattaavah, and Hazeroth, the people camp in the wildernes
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The spies — Numbers 13
+
+The men go from the wilderness of Paran and come back to it (3, 26), and they begin the search at
+the wilderness of Zin (21). The wilderness is now the place Israel looks out of. See
+[[The Wilderness of Zin]].
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -94,6 +102,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first complaint on the road.
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; manna refused, quail given, graves left.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:15–16; a seven-day halt, and the camp in Paran.
+- [[The Twelve Spies]] — Numbers 13:3, 21, 26; Paran and Zin
 
 ## Related themes
 

@@ -321,6 +321,15 @@ Moses tells Hobab *We are journeying to the place of which Yahweh said, "I will 
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The spies — Numbers 13
+
+The land is seen by Israel for the first time since Jacob's family left it. Yahweh calls it *the
+land of Canaan, which I give* (2). The spies bring its fruit and say *it flows with milk and honey*
+(27), and then call it *a land that eats up its inhabitants* (32). The chapter shows the promise and
+the fear side by side at the border, and the fathers' graves at Hebron go unmentioned.
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -633,6 +642,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Thirty Excellent Things]] — Proverbs 22:28; 23:10; The ancient boundary stone set by the fathers.
 - [[The Passover in the Second Year]] — Numbers 9:14; *born in the land*, said before the land.
 - [[The March from Sinai]] — Numbers 10:29–30; Moses names the goal, and Hobab his own land.
+- [[The Twelve Spies]] — Numbers 13:1–33; the land seen, carried back as fruit, and slandered
 
 ## Related themes
 

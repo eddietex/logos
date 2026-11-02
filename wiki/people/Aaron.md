@@ -767,6 +767,7 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 - [[The Passover in the Second Year]] — Numbers 9:6; named, and silent.
 - [[The Two Silver Trumpets]] — Numbers 10:8; named as father of the priests.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; speaks against Moses, and pleads for Miriam.
+- [[The Twelve Spies]] — Numbers 13:26; receives the report with Moses.
 
 ## Related people
 

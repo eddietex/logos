@@ -25,7 +25,7 @@ tags: [connection]
 - Genesis 49:11–12 — Judah's blessing: *"He has washed his garments in wine… his eyes will be red with
   wine"*
 - [[The Nazirite Vow]] — Numbers 6:1–4, separated from wine, vinegar, grapes, skins, and seeds
-- Numbers 13:23 — the cluster from Eshcol carried on a pole between two men
+- [[The Twelve Spies]] — Numbers 13:23; the cluster from Eshcol carried on a pole between two men
 - Deuteronomy 8:8; Psalm 104:15 — the vine as a mark of the good land, and wine that gladdens
 - Proverbs 20:1; 23:29–35; 31:4–7 — wine the mocker, the drunkard, and the cup for the perishing
 - Isaiah 5:1–7; Psalm 80:8–16 — Israel as the vineyard that yields wild grapes

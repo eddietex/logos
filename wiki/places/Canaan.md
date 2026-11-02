@@ -385,6 +385,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
   long-life promise
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the prepared place, its six peoples, its border, and
   a gradual dispossession
+- [[The Twelve Spies]] — Numbers 13:2, 17; the land searched at last, *which I give*
 
 ## Related places
 
@@ -453,3 +454,4 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - Named as the end of the manna, forty years ahead — Exodus 16:35, [[Manna and Quail]]
 - Promised as the place prepared, to be entered behind an angel and taken little by little —
   Exodus 23:20–33, [[The Angel Sent Ahead]]
+- The twelve search it for forty days — Numbers 13:21–25, [[The Twelve Spies]]

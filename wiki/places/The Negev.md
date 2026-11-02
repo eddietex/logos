@@ -54,6 +54,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   generation's address, and the field Isaac is walking in when Rebekah arrives
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:11; Isaac settles at Beer Lahai Roi
   in it permanently, and the whole Ishmaelite corridor of 25:18 is drawn along its southern edge
+- [[The Twelve Spies]] — Numbers 13:17, 22, 29; the way in, and Amalek's country
 
 ## Related places
 
@@ -74,3 +75,4 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   — Genesis 21:14–21, [[The Birth of Isaac and the Sending of Hagar]]
 - Isaac's wells in the valley of Gerar — [[Esek]], [[Sitnah]], [[Rehoboth]] — and the promise renewed
   at Beersheba the night he arrives — Genesis 26:17–25, [[Isaac in Gerar]]
+- The spies go up by it; Amalek dwells there — Numbers 13:17, 22, 29, [[The Twelve Spies]]

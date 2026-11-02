@@ -97,3 +97,4 @@ being shown a land and told he may not have it.
   the land of promise *"as in a land not his own"* because *"he looked for the city which has
   foundations"*. The epistle keeps the verb and moves the object: the man who was told to lift his
   eyes over a country is described as having looked past it.
+- **Numbers 13 is a fourth way.** Moses sends twelve men to *see the land, what it is* (13:18), and they see truly, and they return with *in our own sight* (13:33). Abram was told to look at a gift; the spies look at the land and leave the gift out. See [[The Twelve Spies]].

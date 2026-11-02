@@ -19,6 +19,7 @@ or present. This page records the named relationship without supplying an unrepo
 
 - [[Show Me Your Glory]] — Exodus 33:11; patronymic only.
 - [[The Seventy Elders and the Quail]] — Numbers 11:28; patronymic only.
+- [[The Twelve Spies]] — Numbers 13:8, 16; patronymic only.
 
 ## Related people
 

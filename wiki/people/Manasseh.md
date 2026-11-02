@@ -148,6 +148,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:54–59; gives eighth, through Gamaliel.
 - [[The March from Sinai]] — Numbers 10:23; in the third camp, under Gamaliel.
+- [[The Twelve Spies]] — Numbers 13:11; Gaddi, and *the tribe of Joseph* attached to Manasseh
 
 ## Related people
 

@@ -116,7 +116,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[Jethro's Counsel]] — Exodus 18:27; an earlier in-law's return to his own land
 - [[Moses Flees to Midian]] — Exodus 2:18; Reuel
 - [[Miriam and Aaron Against Moses]] — Numbers 12:16; the camp in Paran
-- Numbers 13:3, 26 — the spies sent from Paran *(stored WEB, not yet ingested)*
+- [[The Twelve Spies]] — Numbers 13:3, 26; the spies sent from Paran
+- [[To Seek Out the Land - Tur in Numbers 10, 13, 15, and Ezekiel 20]] — verse 33
 - Numbers 14:44 — the ark that *didn't depart out of the camp* *(stored WEB, not yet ingested)*
 - Numbers 33:16–18 — the journey list from Sinai *(stored WEB, not yet ingested)*
 - Deuteronomy 1:6–7 — *You have lived long enough at this mountain* *(WEB checked, not yet ingested)*

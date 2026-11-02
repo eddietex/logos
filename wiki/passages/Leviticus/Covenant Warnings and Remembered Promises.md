@@ -165,8 +165,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   26:16's two named diseases.
 - Deuteronomy 28:15–68 — the parallel curses, longer than this list *(not yet ingested; verses
   quoted on the connection pages are WEB from bible-api.com)*.
-- Numbers 13:32 — the spies' *land that eats up its inhabitants*, compare 26:38 *(not yet ingested;
-  WEB, bible-api.com)*.
+- [[The Twelve Spies]] — Numbers 13:32; *land that eats up its inhabitants*, compare 26:38
+- [[A Land That Eats Up Its Inhabitants - Numbers 13.32, Leviticus 18 and 26, and Ezekiel 36]]
 - Ezekiel 6:3–6 — sword, high places, *ḥammānîm*, and *gillûlîm* in one oracle *(not yet ingested;
   paraphrased; Hebrew WLC)*.
 

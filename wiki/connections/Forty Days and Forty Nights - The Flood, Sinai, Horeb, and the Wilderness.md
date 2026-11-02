@@ -22,6 +22,8 @@ tags: [connection]
 - **Matthew 4:2** — *"When he had fasted forty days and forty nights, he was hungry afterward"* (WEB;
   *not yet ingested*)
 
+- [[The Twelve Spies]] — Numbers 13:25; *at the end of forty days*, with no nights named
+
 ## Analysis
 
 **The full phrase *forty days and forty nights* gathers around one mountain.** In the books stored
@@ -49,6 +51,10 @@ here, unlike Exodus 24:18. The duration and fast characterize this encounter; th
 command Israel to imitate the fast or explain its physiological conditions.
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
+**Numbers 13:25** gives the spies forty days, *miqqēṣ ʾarbāʿîm yôm* (WLC), without *forty nights*.
+It is the same count as Sinai, and Numbers 14:34 will turn it into forty years, a year for a day
+(stored WEB; *not yet ingested*).
 
 ## Significance
 

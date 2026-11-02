@@ -390,6 +390,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the east camp and sets out first.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:12–17; gives first, through Nahshon.
 - [[The March from Sinai]] — Numbers 10:14; first of the twelve to move, under Nahshon.
+- [[The Twelve Spies]] — Numbers 13:6; Caleb goes for Judah, and Nahshon does not
 
 ## Related people
 

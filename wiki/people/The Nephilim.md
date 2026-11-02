@@ -7,7 +7,7 @@ tags: [person]
 
 ## Overview
 
-A word that appears twice in the Hebrew Bible and has generated a literature out of all proportion
+A word that appears in two verses of the Hebrew Bible and has generated a literature out of all proportion
 to its evidence.
 
 Genesis 6:4: *"The Nephilim were in the earth in those days, and also after that, when God's sons
@@ -65,17 +65,22 @@ no textual support; that the flood was regional; or that Numbers 13:33 uses the 
 outsized enemies without asserting descent. None is demanded by the text, and Genesis does not treat
 it as a problem.
 
+**Numbers 13:33 now read.** The word stands twice in that verse, spelled with and without the *y*
+(WLC), so the two verses hold three occurrences. Rahlfs's Greek has only *τοὺς γίγαντας* and lacks
+*the sons of Anak, who come from the Nephilim*, so the identification with Anak is absent from that
+text. No apparatus was read. See [[The Twelve Spies]] and [[The Anakim]].
+
 ## Timeline / key events
 
 - Present *"in the earth in those days"*, contemporaneous with the union of Genesis 6:2 —
   [[The Sons of God and the Corruption of the Earth]]
-- Reported by the spies as the ancestors of the Anakim in Canaan — Numbers 13:33 *(not yet
-  ingested)*
+- Reported by the spies as the ancestors of the Anakim in Canaan — Numbers 13:33, [[The Twelve Spies]]
 
 ## Appears in
 
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:4, the word's first of two
   occurrences in the Bible
+- [[The Twelve Spies]] — Numbers 13:33; named by the spies
 
 ## Related people
 
@@ -86,6 +91,7 @@ it as a problem.
   survived
 - [[Lamech (son of Methushael)]] — the pre-flood line's other figure of boasted violence, and the
   nearest thing Genesis gives to a portrait of a *gibbōr*
+- [[The Anakim]] — identified with them only at Numbers 13:33
 
 ## Themes associated
 

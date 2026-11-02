@@ -35,7 +35,8 @@ See [[Nahor's Line and the Burial of Sarah]] and [[Machpelah]].
 Anakim"* (Joshua 14:15; and Genesis 23:2, 35:27). The spies sent out from Kadesh reach it and find
 *"Ahiman, Sheshai, and Talmai, the children of Anak"* there (Numbers 13:22, which also dates its
 founding *"seven years before Zoan in Egypt"*), and it is Caleb who eventually takes it and is given
-it (Joshua 14:13–14; 15:13–14). Its modern Arabic name, *el-Khalil*, **the friend**, is for Abraham —
+it (Joshua 14:13–14; 15:13–14). The verse's verb *came* is singular (WLC), which has been read of Caleb alone. See
+[[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]]. Its modern Arabic name, *el-Khalil*, **the friend**, is for Abraham —
 *"Abraham my friend"* (Isaiah 41:8; 2 Chronicles 20:7; James 2:23).
 
 **It is the patriarchal grave.** The cave of Machpelah is the only ground in the promised land
@@ -71,6 +72,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   [[Isaac]]** (35:27–29), where the journey to [[Dothan]] begins — sixty-five miles north — and where the
   bloodied coat is brought back to him. **The chapter's grief happens here and its violence happens at the
   other end of the road**
+- [[The Twelve Spies]] — Numbers 13:22; the children of Anak, and a founding date set against Zoan
 
 ## Related places
 
@@ -81,6 +83,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 - [[Bethel]] — the previous camp, about thirty miles north along the ridge
 - [[The Plain of the Jordan]] — the well-watered ground Lot took instead, some thirty miles east and
   four thousand feet down
+- [[Zoan]] — the Egyptian city it is dated by
+- [[The Valley of Eshcol]] — reached just after it
 
 ## Events here
 
@@ -102,7 +106,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   37:32–35
 - Isaac, Rebekah, Leah, and Jacob buried there — Genesis 49:31, [[Jacob Blesses His Sons]];
   50:13, [[The Deaths of Jacob and Joseph]]
-- The spies find the Anakim in it — Numbers 13:22
+- The spies find the children of Anak in it — Numbers 13:22, [[The Twelve Spies]]
 - Caleb takes it and is given it as an inheritance — Joshua 14:13–15; 15:13–14
 - David anointed king over Judah, and reigns there seven and a half years — 2 Samuel 2:1–4; 5:5
 - Absalom raises his revolt there — 2 Samuel 15:7–10

@@ -203,7 +203,7 @@ under the sky.
   after the flood as the reason for never repeating it.
 - Genesis 11:1–9 — *"let's make ourselves a name"*, against the *"men of renown"* (literally *men of
   the name*) of 6:4.
-- Numbers 13:33 — *"There we saw the Nephilim … and we were in our own sight as grasshoppers"*.
+- [[The Twelve Spies]] — Numbers 13:33; *"There we saw the Nephilim … and we were in our own sight as grasshoppers"*.
 - Deuteronomy 32:8; Job 1:6; 2:1; 38:7; Psalm 29:1; 89:6 — the other appearances of *sons of God* /
   *sons of the mighty* in the Hebrew Bible.
 - 1 Samuel 15:11, 29, 35 — Yahweh regretting that he made Saul king, in the same chapter that says

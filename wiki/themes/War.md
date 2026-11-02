@@ -225,6 +225,15 @@ Each tribe goes *according to their armies*, under a commander, and Moses prays 
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The spies — Numbers 13
+
+Moses' questions are partly a commander's: strong or weak, few or many, camps or strongholds
+(18–19). *Be courageous* (20) is the verb *ḥāzaq*. The answer in verse 28 is about fortified cities.
+Caleb's *possess it* and the others' *stronger than we* are the first open disagreement over whether
+to fight for the land.
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -321,6 +330,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; the four camps in formation.
 - [[The Two Silver Trumpets]] — Numbers 10:5–9; march alarms, and the alarm of war in the land.
 - [[The March from Sinai]] — Numbers 10:14–28, 35; the armies march, and the ark goes out against Yahweh's enemies.
+- [[The Twelve Spies]] — Numbers 13:17–20, 28–31; a reconnaissance, and a dispute about fighting
 
 ## Related themes
 

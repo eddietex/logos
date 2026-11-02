@@ -180,6 +180,13 @@ See [[The Fire at Taberah]]. Source: stored WEB Numbers 11.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### The spies — Numbers 13
+
+Two namings. Moses calls Hoshea *Joshua* (16), and the place is called *the valley of Eshcol* for
+its cluster (24). The first has no explanation, and the second has one.
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
@@ -348,6 +355,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; a count by name.
 - [[The Fire at Taberah]] — Numbers 11:3; *burning*.
 - [[The Seventy Elders and the Quail]] — Numbers 11:34; *the graves of craving*.
+- [[The Twelve Spies]] — Numbers 13:16, 24; Hoshea called Joshua, and a valley named for its cluster
 
 ## Related themes
 

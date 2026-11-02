@@ -578,6 +578,14 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The spies — Numbers 13
+
+The narrator changes the noun from *dābār* (26) to *dibbâ* (32). The same men and subject are at
+issue, but the report becomes *an evil report*. Rahlfs has *ἔκστασιν*. See
+[[An Evil Report - Dibbah in Genesis 37, Numbers 13, and Ezekiel 36]].
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -886,6 +894,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:2, 5, 11, 14; Praise from another's mouth, open rebuke, the answer to a reproacher, the loud blessing.
 - [[The Suspected Wife]] — Numbers 5:22–24; the first *Amen*, and curses written and drunk.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; *dibbēr bə-* in two senses.
+- [[The Twelve Spies]] — Numbers 13:26, 32; *dābār* becomes *dibbâ*
 
 ## Related themes
 

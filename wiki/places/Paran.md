@@ -50,6 +50,7 @@ geography of the Torah, which puts Israel's spies in it.
   kings' sweep down the eastern frontier
 - [[The March from Sinai]] — Numbers 10:12; where the cloud is said to stop, summarizing the stage from Sinai
 - [[Miriam and Aaron Against Moses]] — Numbers 12:16; reached by name, after Hazeroth
+- [[The Twelve Spies]] — Numbers 13:3, 26; the men go out from it and come back to it
 
 ## Related places
 
@@ -63,6 +64,7 @@ geography of the Torah, which puts Israel's spies in it.
 - [[Beer Lahai Roi]] — the well of the first flight, in the same desert belt
 - [[Teman]] — named beside Mount Paran in Habakkuk 3:3
 - [[Canaan]] — the land it lies south of, and which Israel will fail to enter from it
+- [[The Wilderness of Zin]] — the wilderness Kadesh is placed in elsewhere
 
 ## Events here
 
@@ -72,6 +74,6 @@ geography of the Torah, which puts Israel's spies in it.
   [[The Birth of Isaac and the Sending of Hagar]]
 - The cloud stops here after Sinai — Numbers 10:12, [[The March from Sinai]]
 - Israel camps here after Hazeroth — Numbers 12:16, [[Miriam and Aaron Against Moses]]
-- The twelve spies are sent from here and report back here — Numbers 13:3, 26
+- The twelve spies are sent from here and report back here — Numbers 13:3, 26, [[The Twelve Spies]]
 - *"He shone from Mount Paran"* — Deuteronomy 33:2; Habakkuk 3:3
 - Hadad the Edomite passes through on his flight to Egypt — 1 Kings 11:18

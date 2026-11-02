@@ -37,11 +37,17 @@ Later it fixes the southern border of the land in the boundary lists (Numbers 34
 Ezekiel 47:19), so that the place where the first generation refused to enter becomes the survey
 point for what the second one receives.
 
+**Which wilderness.** Numbers 13:26 has *the wilderness of Paran, to Kadesh*, *qādēšâ* (WLC), and
+Numbers 20:1 and 33:36 place it in the wilderness of Zin. And Numbers 13:3 sends the men from *the
+wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea*. The wiki keeps
+both and does not map the boundary. See [[The Wilderness of Zin]].
+
 ## Appears in
 
 - [[Abraham and Abimelech]] — Genesis 20:1; the eastern marker of where Abraham settles after Sodom
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:7, as *En Mishpat*, on the coalition's route
 - [[Hagar and Ishmael]] — Genesis 16:14, one of the two bearings for Beer Lahai Roi
+- [[The Twelve Spies]] — Numbers 13:26; where the twelve report to the whole congregation
 
 ## Related places
 
@@ -52,6 +58,7 @@ point for what the second one receives.
 - [[Canaan]] — the land the spies are sent into from here, and refused
 - [[Massah and Meribah]] — the first Meribah, at Rephidim (Exodus 17:7); the Kadesh water of Numbers 20 is a
   second place given the same name, *"Meribah of Kadesh"* (Numbers 27:14; WLC)
+- [[The Wilderness of Zin]] — the other wilderness it is placed in
 
 ## Events here
 
@@ -60,8 +67,8 @@ point for what the second one receives.
 - Hagar's well is located between Kadesh and Bered — Genesis 16:14, [[Hagar and Ishmael]]
 - Abraham settles between Kadesh and Shur and sojourns in Gerar — Genesis 20:1,
   [[Abraham and Abimelech]]
-- The spies are sent into Canaan from here, and the generation is sentenced not to enter —
-  Numbers 13:26; 14:1–35
+- The spies report here, and the generation is sentenced not to enter — Numbers 13:26; 14:1–35,
+  [[The Twelve Spies]]
 - Miriam dies and is buried here; Moses strikes the rock at Meribah, the second water from the rock — Numbers
   20:1–13; compare [[Water from the Rock]] and
   [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]

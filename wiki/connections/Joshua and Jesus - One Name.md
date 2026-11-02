@@ -10,7 +10,7 @@ tags: [connection]
 - **Exodus 17:9–14** — the name's first appearance: *"Moses said to Joshua, 'Choose men for us, and go out, fight
   with Amalek'"* — [[The Battle with Amalek]]
 - **Numbers 13:8, 16** — *"Of the tribe of Ephraim, Hoshea the son of Nun"*; *"Moses called Hoshea the son of Nun
-  Joshua"* *(not yet ingested)*
+  Joshua"* — [[The Twelve Spies]]
 - **Matthew 1:21** — *"You shall call his name Jesus, for it is he who shall save his people from their sins"*
   *(not yet ingested)*
 - **Acts 7:45** — *"which also our fathers, in their turn, brought in with Joshua"* *(not yet ingested)*
@@ -42,6 +42,11 @@ wordplay**, since *Iēsous* and *sōzō* do not sound alike; **the pun works onl
 form of *Yəhôšuaʿ/Yēšûaʿ* and *yāšaʿ*. **Many commentators therefore read Matthew 1:21 as presupposing a Semitic
 etymology of the name**; the wiki reports that reading and does not quote any Hebrew or Aramaic form of Matthew,
 which does not exist in the manuscript tradition.
+
+**Rahlfs has both forms in one verse**: *τὸν Αυση υἱὸν Ναυη Ἰησοῦν* (Numbers 13:16), so the Greek
+Bible shows the renaming in the very form the New Testament uses. **The old name does not quite
+disappear.** Deuteronomy 32:44 has *hôšēaʿ bin-nûn* in WLC, though WEB prints *Joshua* and Rahlfs
+*Ἰησοῦς*.
 
 ### The typology the New Testament draws, and the one it does not
 

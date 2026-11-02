@@ -67,6 +67,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
   **its only appearance in Job, and the first outside Genesis in this wiki.** The river in flood is
   Behemoth's bath. *Yardēn* may here stand for any rushing river rather than the Jordan itself; recorded on
   the passage page
+- [[The Twelve Spies]] — Numbers 13:29; Canaanites along its side
 
 ## Related places
 

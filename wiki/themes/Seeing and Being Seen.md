@@ -305,6 +305,14 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The spies — Numbers 13
+
+Moses tells the men *See the land* (18), and *rāʾâ* recurs at verses 26, 28, 32, and 33, once in the
+causative, *showed them the fruit*. The chapter ends with two kinds of sight: *we were in our own
+sight as grasshoppers, and so we were in their sight* (33). They claim to know how they were seen.
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -630,6 +638,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:20; the bearers may not look.
 - [[The Suspected Wife]] — Numbers 5:13, 16, 18, 30; hidden from the husband, set before Yahweh.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:8, 10; Yahweh's form, and Miriam's skin.
+- [[The Twelve Spies]] — Numbers 13:18, 33; *in our own sight*, and *in their sight*
 
 ## Related themes
 

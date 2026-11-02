@@ -3134,6 +3134,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 10:11–36 — Moves the camp from Sinai by his command; the ark and cloud go with it. [[The March from Sinai]]
 - Numbers 11:1–3 — Hears the complaint, sends his fire, and stops it at Moses' prayer. [[The Fire at Taberah]]
 - Numbers 11:4–35 — Hears both complaints, shares the Spirit on Moses, and gives meat with a plague. [[The Seventy Elders and the Quail]]
+- Numbers 13:1–3 — Commands the sending, and calls the land what *I give*. [[The Twelve Spies]]
 
 ## Appears in
 
@@ -3764,6 +3765,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The March from Sinai]] — Numbers 10:11–36; commands the departure, and is called on at each move of the ark.
 - [[The Fire at Taberah]] — Numbers 11:1–3; hears, is angry, and sends the fire.
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; answers Moses with help, and the people with what they asked for.
+- [[The Twelve Spies]] — Numbers 13:1–3; commands the sending, and calls the land his gift.
 
 ## Related people
 

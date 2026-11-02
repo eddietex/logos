@@ -26,7 +26,7 @@ vow. They did not swear it; he does not impose it on them.
 
 ## The name
 
-*ʾEshkōl* is the ordinary Hebrew word for a **cluster** of grapes. The Valley of Eshcol near
+*ʾEshkōl* is the ordinary Hebrew word for a **cluster** of grapes. [[The Valley of Eshcol]] near
 [[Hebron]] carries the same name in Numbers 13:23–24, where the spies cut down a single cluster so
 large it has to be carried on a pole between two men, and the text supplies its own etymology:
 *"That place was called the valley of Eshcol, because of the cluster which the children of Israel

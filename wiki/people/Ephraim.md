@@ -147,6 +147,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the west camp and sets out third.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:48–53; gives seventh, through Elishama.
 - [[The March from Sinai]] — Numbers 10:22; leads the third camp, under Elishama.
+- [[The Twelve Spies]] — Numbers 13:8; Hoshea is its man, listed apart from Manasseh
 
 ## Related people
 

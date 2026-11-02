@@ -378,6 +378,14 @@ The congregation shouts and falls on its faces when fire consumes the offering (
 theme of awe, but the WEB does not explicitly call their response fear or specify the emotion of the
 shout. See [[The Eighth Day and the Appearing Glory]] .
 
+### The spies — Numbers 13
+
+Yahweh's word to Israel has been to fear him, and the chapter gives the reverse. The word *fear* is
+not used, yet Moses says *Be courageous*, and the ten end at *grasshoppers*. Numbers 14:9 will name
+it: *neither fear the people of the land* (stored WEB; *not yet ingested*).
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
@@ -628,6 +636,7 @@ shout. See [[The Eighth Day and the Appearing Glory]] .
 - [[A Good Name]] — Proverbs 22:4; Humility and the fear of Yahweh yield wealth, honor, and life.
 - [[Do Not Envy Sinners]] — Proverbs 23:17; Fear of Yahweh *"all day long"*, as the alternative to envying sinners.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:21; Fear of Yahweh, and of the king, against joining the rebellious.
+- [[The Twelve Spies]] — Numbers 13:31–33; fear of the people, unnamed until 14:9
 
 ## Related themes
 

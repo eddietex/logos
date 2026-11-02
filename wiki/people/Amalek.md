@@ -88,6 +88,8 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   fought with Israel in Rephidim"*; *"Joshua defeated Amalek and his people"*; *"I will utterly blot out the memory
   of Amalek"*; *"war with Amalek from generation to generation"*. **Exodus does not say whether this Amalek is
   Esau's grandson's line or the older Amalekites of Genesis 14:7**
+- [[The Twelve Spies]] — Numbers 13:29; first in the spies' list of peoples, in the land of the
+  South
 
 ## Related people
 

@@ -107,6 +107,7 @@ observation about the negotiation's form, not as an identification of these peop
   children of Heth."* **The assembly that sat in the gate of [[Hebron]] and watched
   [[Ephron the Hittite]] name his price** (23:10–18) **survives in the book's memory as the counterparty
   to a sale**, recited by a dying man in [[Egypt]] to establish that the grave is legally his
+- [[The Twelve Spies]] — Numbers 13:29; the Hittites, in the hill country
 
 ## Related people
 

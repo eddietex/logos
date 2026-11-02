@@ -134,6 +134,14 @@ The set feasts and the first of each month are marked by trumpets over the offer
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### The spies — Numbers 13
+
+*The time of the first-ripe grapes*, *bikkûrê ʿănābîm* (20, WLC), gives the mission its date. The
+men bring the land's first fruit before they own it, and they do so as evidence and not as an
+offering.
+
+See [[The Twelve Spies]].
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -165,6 +173,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:9–10; first fruits of all one's increase, and full barns
 - [[The Passover in the Second Year]] — Numbers 9:1–14; the feast at its date, and a later date for those who could not come.
 - [[The Two Silver Trumpets]] — Numbers 10:10; feasts and new moons marked by trumpets.
+- [[The Twelve Spies]] — Numbers 13:20, 26; the first-ripe grapes, brought as evidence
 
 ## Related themes
 

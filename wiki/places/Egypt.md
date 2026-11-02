@@ -456,6 +456,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:17; the land of the struck firstborn.
 - [[The Passover in the Second Year]] — Numbers 9:1; the point the year is counted from.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; remembered for free fish, *it was well with us in Egypt*
+- [[The Twelve Spies]] — Numbers 13:22; named in the date of Hebron
 
 ## Related places
 
@@ -475,6 +476,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - **Cush** and **Put** — Nubia and Libya, its neighbours south and west, and Ham's other two sons
 - [[Pithom]] — store-city built by Israel's forced labour
 - [[The Red Sea]] — *yam sûp*, where the west wind throws Egypt's locusts (Exodus 10:19)
+- [[Zoan]] — the Delta city of Numbers 13:22
 
 ## Events here
 
