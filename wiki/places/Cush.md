@@ -19,13 +19,16 @@ Sabtah, Raamah and Sabteca, and of [[Nimrod]] (10:7–8). The Eden reference is 
 because the other rivers point to Mesopotamia; some readers take this Cush to be the Kassite land
 east of the Tigris (Akkadian *Kaššû*) rather than Nubia. See [[Eden]].
 
-From then on the name is consistently African. Moses' wife is called *"a Cushite woman"* (Numbers
+From then on the name is African, with one open case at Numbers 12:1. Moses' wife is called *"a Cushite woman"* (Numbers
 12:1); *"Tirhakah king of Ethiopia"* — Taharqa, one of the Nubian pharaohs — marches against
 Sennacherib (2 Kings 19:9); the Persian empire runs *"from India even to Ethiopia"* (Esther 1:1); and
 the prophets use Cush as the far edge of the world — *"beyond the rivers of Ethiopia"* (Isaiah 18:1;
 Zephaniah 3:10) — and as a people on equal standing before God: *"Are you not like the children of
 the Ethiopians to me, children of Israel?"* (Amos 9:7). In Acts 8:27 a treasury official of the
 Ethiopian queen, returning from worship in Jerusalem, is baptized on the road home.
+
+**The open case.** This page has so far treated *a Cushite woman* as African, and that is the plain sense of the name and of Rahlfs's *Αἰθιόπισσα*. But Habakkuk 3:7 sets *Cushan* beside Midian, so she may be Zipporah, and Numbers 12:1 may then
+point elsewhere. Both readings are kept. See [[Who Is the Cushite Woman - Numbers 12.1, Exodus 2, and Habakkuk 3]].
 
 **In Job it is a source of precious stone**: *"The topaz of Ethiopia shall not equal it"* (Job 28:19),
 in the catalogue of goods that cannot buy wisdom. The stone (*piṭdâ*) is uncertain — topaz, peridot
@@ -42,6 +45,7 @@ in `AGENTS.md` applies and both pages take a qualifier.
 - [[The Table of Nations]] — Genesis 10:6–8, Cush son of Ham, father of Nimrod.
 - [[Where Shall Wisdom Be Found]] — Job 28:19, *"the topaz of Ethiopia"*, as the measure of a
   far-fetched treasure that is still not enough.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1; only as the origin of *the Cushite woman*.
 
 ## Related places
 

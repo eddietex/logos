@@ -14,7 +14,7 @@ tags: [connection]
 - Exodus 33:9–11 — the earlier tent, where *"Yahweh spoke to Moses face to face"*
 - Leviticus 1:1 — *"Yahweh called to Moses, and spoke to him from the Tent of Meeting"*
 - Numbers 1:1 — *"Yahweh spoke to Moses … in the Tent of Meeting"*
-- Numbers 12:8 — *"With him, I will speak mouth to mouth"* *(WEB, bible-api.com; not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:8; *"With him, I will speak mouth to mouth"*
 - [[The Day of Atonement]] — Leviticus 16:2; the same place, and *"lest he die"*
 
 ## Analysis
@@ -42,6 +42,8 @@ The same spot is dangerous to anyone else. Aaron may not come *at all times*, *l
 appear in the cloud on the mercy seat* (Leviticus 16:2). Moses goes in as a matter of course here, as far
 as the verse shows, though the verse does not say he went to the mercy seat itself, and the veil's place
 in this scene is not mentioned.
+
+**Numbers 12 now ingested.** The phrase is used of speech, and it adds that Moses *shall see Yahweh's form*, which Numbers 7:89 does not claim. See [[Mouth to Mouth - Numbers 12.6-8, Exodus 33, and Deuteronomy 34]].
 
 ## Significance
 

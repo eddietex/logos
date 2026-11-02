@@ -115,7 +115,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Passover in the Second Year]] — Numbers 9:11; the second-month date just before this one
 - [[Jethro's Counsel]] — Exodus 18:27; an earlier in-law's return to his own land
 - [[Moses Flees to Midian]] — Exodus 2:18; Reuel
-- Numbers 12:16; 13:3, 26 — the camp in Paran *(stored WEB, not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:16; the camp in Paran
+- Numbers 13:3, 26 — the spies sent from Paran *(stored WEB, not yet ingested)*
 - Numbers 14:44 — the ark that *didn't depart out of the camp* *(stored WEB, not yet ingested)*
 - Numbers 33:16–18 — the journey list from Sinai *(stored WEB, not yet ingested)*
 - Deuteronomy 1:6–7 — *You have lived long enough at this mountain* *(WEB checked, not yet ingested)*

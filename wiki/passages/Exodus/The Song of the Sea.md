@@ -604,7 +604,7 @@ whole song or the refrain of a longer one, the text does not say.** **Psalm 106:
 - Exodus 25:8 — *"Let them make me a sanctuary"* — [[The Offering for the Sanctuary]]
 - Exodus 32:12, 19 — *"your fierce wrath"*; *"the calf and the dancing"* *(not yet ingested)*
 - Leviticus 10:3 — *"Aaron held his peace"* (*dāmam*) *(not yet ingested)*
-- Numbers 12 — Miriam and Aaron against Moses *(not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12; Miriam and Aaron against Moses
 - Numbers 21:17 — *"Then Israel sang this song"* *(not yet ingested)*
 - Numbers 26:59 — *"Miriam their sister"* *(not yet ingested)*
 - Deuteronomy 31:30–32:43, especially 32:6 — Moses' second song; *"your father who has bought you"*

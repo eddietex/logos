@@ -21058,3 +21058,19 @@ Mark, Luke, Acts, and 1 Corinthians from SBLGNT. WEB of Genesis, Exodus, Levitic
 bible-api.com. Items marked recalled in the passage are unverified: the *ʾăsapsup* and *ʾāsap* link, *nepeš* as throat, the scribal tradition at *bərāʿātî*, the
 variant *did not cease* at 11:25, and the sense of *Hazeroth*. Commentary, lexicons, and grammars not consulted. Counts: 288 passages, 205 people, 107 places,
 87 themes, 633 connections. Next: Miriam and Aaron Against Moses, Numbers 12:1–16.
+
+## [2026-11-02] ingest | Numbers 12.1-16 — Miriam and Aaron Against Moses
+
+Created [[Miriam and Aaron Against Moses]]; [[Cushite Woman (of Moses' time)]]; and seven connections: [[Mouth to Mouth - Numbers 12.6-8, Exodus 33, and Deuteronomy 34]], [[Faithful in All My House - Numbers 12.7 and Hebrews 3]],
+[[Not in Riddles - Numbers 12.8 and 1 Corinthians 13.12]], [[As White as Snow - Moses' Hand, Miriam, and Gehazi]], [[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]],
+[[Spit in Her Face - Numbers 12.14 and Deuteronomy 25.9]], and [[Who Is the Cushite Woman - Numbers 12.1, Exodus 2, and Habakkuk 3]]. Revised [[Moses]], [[Aaron]], [[Miriam]], and [[Zipporah]]; [[Cush]], [[Hazeroth]], and [[Paran]];
+eighteen themes; seven existing connections; the forward references in earlier passages and themes; the book page; and the book, people, place, theme, connection, and top indexes.
+
+Judgment calls: the plan's boundary and title kept. The Cushite woman gets a page of her own, kept apart from [[Zipporah]] so that a filename does not decide the identification. No new *Humility* theme; *ʿānāw* is carried on [[Pride and Self-Exaltation]]. [[Amram]] is named only as a hypothetical (*her father*) and his page is unchanged.
+
+Contradictions flagged, not resolved: *he shall see Yahweh's form* (12:8) against Exodus 33:20, 23 and Deuteronomy 4:12, 15; Moses set above prophets against Deuteronomy 18:15, 18; the Cushite woman as Zipporah or a second wife, which also revises [[Cush]]'s *consistently African*;
+whether Miriam was healed, where the Hebrew says *brought in* and Rahlfs *cleansed*; the seven days against Leviticus 13:46; why Aaron was not struck; the Tent outside the camp against Numbers 2; the cloud leaving with no march; and Paran at 12:16 against Rithmah at 33:18.
+
+Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags across all 39 books, so *only* claims depend on that tagging. Greek of Numbers 12 from the Rahlfs 1935 text in the eliranwong LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. New Testament Greek of Matthew, 1 Corinthians, and Hebrews from SBLGNT.
+WEB of Exodus, Leviticus, and Numbers from `raw/bible/`; all other quoted WEB verified at bible-api.com. Items marked recalled in the passage are unverified: the sense range of *ʿānāw*, verb agreement with the first of two subjects, the scribal tradition at 12:12, and *kəlimmâ* with *kālam*. Commentary, lexicons, and grammars not consulted. Counts: 289 passages, 206 people, 107 places,
+87 themes, 640 connections. Next: The Twelve Spies, Numbers 13:1–33.

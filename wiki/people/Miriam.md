@@ -44,11 +44,17 @@ rider he has thrown into the sea"* (15:21). The *"them"* is masculine plural (WL
 point to Aaron as the elder, or to the pairing of Miriam and Aaron against Moses in Numbers 12 (reported,
 not decided). See [[The Song of the Sea]] and [[Praise and Song]].
 
+### At Hazeroth (Numbers 12)
+
+She is named first when she and Aaron speak against Moses, over the Cushite woman and over whether Yahweh speaks only with him (1–2). The verb is feminine singular (WLC), though
+that does not by itself prove she led. Yahweh grades prophets below Moses and does not deny that she is one. When the cloud goes she is *leprous, as white as snow* (10), and Aaron is not.
+Moses prays, and she is shut out of the camp seven days, and the people wait until she is brought in (14–15). **The Hebrew does not say she was healed**; Rahlfs says *cleansed*. These are her last
+recorded words and actions. See [[Miriam and Aaron Against Moses]] and [[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]].
+
 ### What is ahead
 
-She and Aaron speak against Moses and
-she is struck with leprosy and shut out of the camp seven days (Numbers 12); she dies at Kadesh
-(Numbers 20:1); and Micah names her with her brothers among the leaders God sent: *"I sent before you
+She dies at Kadesh
+(Numbers 20:1); Deuteronomy 24:9 tells Israel to remember what Yahweh did to her; and Micah names her with her brothers among the leaders God sent: *"I sent before you
 Moses, Aaron, and Miriam"* (Micah 6:4). These sections are written as their pericopes arrive.
 
 **She is not in the genealogy of 6:14–27.** Amram and Jochebed's children are given as *"Aaron and
@@ -61,7 +67,7 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - Offers Pharaoh's daughter a Hebrew nurse, and fetches her own mother — Exodus 2:7–8
 - Named *"the prophetess"*; leads the women with tambourine and dance, and answers with the refrain —
   Exodus 15:20–21, [[The Song of the Sea]]
-- *(ahead)* Speaks against Moses with Aaron; struck with leprosy — Numbers 12
+- Speaks against Moses with Aaron; struck with leprosy; shut out seven days — Numbers 12, [[Miriam and Aaron Against Moses]]
 - *(ahead)* Dies at Kadesh — Numbers 20:1
 
 ## Appears in
@@ -71,6 +77,7 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - [[The Heads of the Fathers' Houses]] — Exodus 6:20; **absent.** Her parents and brothers are named; she is not
 - [[The Song of the Sea]] — Exodus 15:20–21; **named for the first time.** *"Miriam the prophetess, the
   sister of Aaron"*; the tambourine; *"all the women went out after her"*; *"Sing to Yahweh"*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; speaks against Moses, is struck, and is shut out seven days
 
 ## Related people
 
@@ -78,6 +85,7 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - [[Jochebed]] — her mother
 - [[Amram]] — her father
 - [[Pharaoh's Daughter (of Moses' time)]] — whom she addresses
+- [[Cushite Woman (of Moses' time)]] — the wife named as the reason for the complaint
 - [[Hagar]] — the other woman who watches a child from far off
 - [[Aaron]] — *"the sister of Aaron"* (15:20), the only brother named with her at the sea
 
@@ -88,3 +96,6 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - [[Language and Speech]]
 - [[Praise and Song]]
 - [[Prophecy and Vision]]
+- [[Clean and Unclean]]
+- [[Healing]]
+- [[Judgment]]

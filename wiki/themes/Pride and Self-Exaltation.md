@@ -272,6 +272,12 @@ patience, not named as a sin or answered with a judgment in these verses. See
 
 See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; comparison sources identified on the passage page.
 
+### Very humble — Numbers 12:3
+
+*ʿĀnāw*, by the tags used only here in the Torah, stands between the claim of verse 2 and Yahweh's reply. Moses defends nothing, and Yahweh does it for him. Rahlfs has *πραΰς*. See [[Grace to the Humble - Proverbs 3.34, James 4.6, and 1 Peter 5.5]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -359,6 +365,7 @@ See [[The House of Mourning]]. Source: stored WEB Ecclesiastes 7:1–14; compari
 - [[Answer a Fool]] — Proverbs 26:5, 12, 16; *Wise in his own eyes* three times; the self-assured man has less hope than a fool.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:1–2, 21; The boast about tomorrow, self-praise, and praise as the furnace.
 - [[The House of Mourning]] — Ecclesiastes 7:8; the patient in spirit better than the proud.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:2–3; *only with Moses?* and *very humble*.
 
 ## Related themes
 

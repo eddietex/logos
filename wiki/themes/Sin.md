@@ -553,6 +553,12 @@ The sin named is an omission: a clean man who could keep the Passover and does n
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### We have done foolishly — Numbers 12:11
+
+Aaron's confession pairs *nôʾalnû* with *ḥāṭāʾnû*, and asks Moses not to lay the *ḥaṭṭāʾt* on them, as if he could. Rahlfs softens the first to *ἠγνοήσαμεν*.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -812,6 +818,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:6–7; a human wrong as a trespass against Yahweh.
 - [[The Nazirite Vow]] — Numbers 6:11; *ḥāṭāʾ* with no intention.
 - [[The Passover in the Second Year]] — Numbers 9:13; a duty left undone.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:11; Aaron's confession.
 
 ## Related themes
 

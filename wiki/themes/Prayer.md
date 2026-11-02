@@ -221,6 +221,12 @@ Moses asks why Yahweh has treated him badly, whether he gave birth to this peopl
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### Five words — Numbers 12:13
+
+*ʾĒl nāʾ rəpāʾ nāʾ lāh*. No argument, no appeal to promises, nothing about himself. Its answer is not a plain yes.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
@@ -388,7 +394,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Bitter Water at Marah]] — Exodus 15:24–25; **the murmur and the cry.** The people *"murmured against
   Moses"*; ***"he cried to Yahweh"*** (*ṣāʿaq*, the verb of his prayer over the frogs, 8:12 WEB). **Answered at
   once, by being shown something**: *"Yahweh showed him a tree"*. The same pair, *cry* and *heal*, returns
-  in his prayer for Miriam (Numbers 12:13; WEB; WLC; *not yet ingested*)
+  in his prayer for Miriam (Numbers 12:13; WEB; WLC; [[Miriam and Aaron Against Moses]])
 - [[Water from the Rock]] — Exodus 17:4; **a cry for instruction.** *"Moses cried to Yahweh, saying, 'What shall
   I do with these people? They are almost ready to stone me'"* — his third *ṣāʿaq* (8:12 WEB; 15:25; WLC), and
   the first that asks what to do; answered with a command and a promise, *"I will stand before you there on
@@ -406,6 +412,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The March from Sinai]] — Numbers 10:35–36; two lines spoken at the ark.
 - [[The Fire at Taberah]] — Numbers 11:2; a prayer asked for by a cry, with no words recorded.
 - [[The Seventy Elders and the Quail]] — Numbers 11:11–15; a complaint to God, a request for death, and an answer with help.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:13; *Heal her, God, I beg you!*
 
 ## Related themes
 

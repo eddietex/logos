@@ -654,7 +654,8 @@ Exodus that clause is his name.** See [[Call and Election]].
   [[On This Mountain - The Sign at the Bush and the Assembly at Sinai]]
 - Exodus 33:18–23 — *"man may not see me and live"*
 - Exodus 40:34–35 — the glory fills the tabernacle
-- Numbers 12:10; 2 Kings 5:27 — *"leprous, as white as snow"*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:10; *"leprous, as white as snow"*
+- [[As White as Snow - Moses' Hand, Miriam, and Gehazi]] — with 2 Kings 5:27
 - Deuteronomy 15:13–14 — *"you shall not let him go empty"*
 - Deuteronomy 18:18; Jeremiah 1:9 — *"I will put my words in his mouth"*
 - Deuteronomy 33:16 — *"him who lived in the bush"*

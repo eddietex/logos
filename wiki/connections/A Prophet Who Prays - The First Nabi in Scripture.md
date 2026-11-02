@@ -26,8 +26,8 @@ tags: [connection]
 - **Exodus 10:16–18** — *"please forgive my sin … and pray to Yahweh your God"*: the fourth and last
   intercession for Pharaoh — [[Locusts and Darkness]]
 - **Exodus 32:11–14, 30–32** — Moses at the golden calf: *"Yahweh repented of the evil which he said he would do to his people."* — [[The Golden Calf]]
-- **Numbers 12:6–8; 14:13–20** — prophecy defined by dream and vision, with Moses as the exception,
-  and Moses turning a sentence a second time
+- [[Miriam and Aaron Against Moses]] — Numbers 12:6–8, 13; prophecy defined by dream and vision, with Moses as the exception, and his prayer for Miriam
+- **Numbers 14:13–20** — Moses turning a sentence a second time
 - **1 Samuel 12:19, 23** — *"far be it from me that I should sin against Yahweh in ceasing to pray
   for you"*
 - **Jeremiah 7:16; 11:14; 14:11; 15:1** — the prophet forbidden to intercede, and told that even
@@ -163,6 +163,10 @@ the announced destruction; the second asks forgiveness and offers Moses’ own e
 forgiveness is denied. The answer does not accept an exchange of lives and preserves
 accountability for the sinner. The prophet’s advocacy is effective without becoming authority to
 dictate every outcome.
+
+### The prophet who prays for his accuser — Numbers 12:13
+
+Numbers 12:6–8 sets prophets who receive by vision and dream below Moses, who receives *mouth to mouth*. Then the one Yahweh has just defended uses his access for the person who spoke against him: *Heal her, God, I beg you!* (13). Genesis 20:7 tied the title to intercession, and here the rank and the prayer sit five verses apart. See [[Miriam and Aaron Against Moses]].
 
 ## Significance
 

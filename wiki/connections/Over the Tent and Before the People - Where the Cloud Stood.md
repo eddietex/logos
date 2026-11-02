@@ -12,7 +12,7 @@ tags: [connection]
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; on the tabernacle
 - [[The Camp Around the Tent]] — Numbers 2:17; the Tent travels in the middle
 - [[The March from Sinai]] — Numbers 10:11–12, 31–36; the cloud, the ark, and Hobab on the march
-- Numbers 12:5, 10 — a pillar at the door, and the cloud leaving the Tent *(stored WEB, not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:5, 10; a pillar at the door, and the cloud leaving the Tent
 - Numbers 14:14 — *your cloud stands over them, and you go before them* *(stored WEB, not yet ingested)*
 - Deuteronomy 1:33 — Yahweh seeking out the camping place *(WEB checked at bible-api.com, not yet ingested)*
 
@@ -48,6 +48,8 @@ guide knows what the cloud does not say, such as water and pasture, but the text
 Numbers 12 offers a check on the rule itself. *The cloud departed from over the Tent* (12:10), and yet *the people
 didn't travel until Miriam was brought in again* (12:15). The verb at 12:10 is *sār*, and Numbers 9 uses *ʿālâ*
 (WLC), so this may be a different event from the signal. The chapter makes no comment.
+
+**Numbers 12 now ingested.** The people's waiting is explained by Miriam's seven days and not by the cloud, and the text does not say when the cloud returned. See [[Miriam and Aaron Against Moses]].
 
 ## Significance
 

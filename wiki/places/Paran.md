@@ -49,6 +49,7 @@ geography of the Torah, which puts Israel's spies in it.
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:6, as *El Paran*, the far point of the four
   kings' sweep down the eastern frontier
 - [[The March from Sinai]] — Numbers 10:12; where the cloud is said to stop, summarizing the stage from Sinai
+- [[Miriam and Aaron Against Moses]] — Numbers 12:16; reached by name, after Hazeroth
 
 ## Related places
 
@@ -70,7 +71,7 @@ geography of the Torah, which puts Israel's spies in it.
 - Ishmael grows up here an archer, and marries an Egyptian — Genesis 21:20–21,
   [[The Birth of Isaac and the Sending of Hagar]]
 - The cloud stops here after Sinai — Numbers 10:12, [[The March from Sinai]]
-- Israel camps here after Hazeroth — Numbers 12:16
+- Israel camps here after Hazeroth — Numbers 12:16, [[Miriam and Aaron Against Moses]]
 - The twelve spies are sent from here and report back here — Numbers 13:3, 26
 - *"He shone from Mount Paran"* — Deuteronomy 33:2; Habakkuk 3:3
 - Hadad the Edomite passes through on his flight to Egypt — 1 Kings 11:18

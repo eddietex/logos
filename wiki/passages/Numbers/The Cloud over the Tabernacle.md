@@ -85,7 +85,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Passover in the Second Year]] — Numbers 9:1–14; the unit this one follows
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:35; *keep Yahweh's command* said to the priests
 - [[The March from Sinai]] — Numbers 10:11–12, 29–36; the first time the cloud rises, with Hobab and the ark
-- Numbers 12:10 — the cloud leaves the Tent with no march *(stored WEB, not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:10; the cloud leaves the Tent with no march
 - Numbers 33:1–2 — the journey list, also *by the commandment of Yahweh* *(stored WEB, not yet ingested)*
 - Deuteronomy 1:33 — Yahweh seeking out the campsite *(WEB checked, not yet ingested)*
 - 1 Corinthians 10:1–2 — *our fathers were all under the cloud* *(WEB checked, not yet ingested)*
@@ -177,7 +177,7 @@ with the ark left in camp.
    says the cloud covered it continually, and Moses goes in at Numbers 7:89 and Leviticus 9:23. The change is not
    explained. See [[Cloud and Fire - From the Sea to the Filled Tabernacle]].
 4. **Numbers 12:10.** The cloud *departed from over the Tent* and the people did not travel (12:15). The verb
-   there is *sār*, not the *ʿālâ* of this unit (WLC), so the rule may not be in view; the text does not comment.
+   there is *sār*, not the *ʿālâ* of this unit (WLC), so the rule may not be in view; the text does not comment. See [[Miriam and Aaron Against Moses]].
 
 **Scope and sources.** WEB of Numbers, Exodus, and Leviticus from `raw/bible/`. Exodus 13:21–22 and 14:19–20 also
 compared at bible-api.com. Deuteronomy 1:2, 33, 46 and 1 Corinthians 10:1–2 checked at bible-api.com

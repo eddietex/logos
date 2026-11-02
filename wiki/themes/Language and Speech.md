@@ -572,6 +572,12 @@ See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticu
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Speaking against and speaking with — Numbers 12
+
+*Dibbēr bə-* means both, and the chapter uses both (1, 2, 6, 8). Those who spoke against Moses are told how Yahweh speaks with him. *Mouth to mouth* is the top of the scale, and riddles are not used there. The offense here is speech, and so is the remedy, a prayer of five words.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -879,6 +885,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[Answer a Fool]] — Proverbs 26:4–9, 18–28; The proverb in a fool's mouth, the "joke", the whisperer's morsels, charming speech, the lying tongue.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:2, 5, 11, 14; Praise from another's mouth, open rebuke, the answer to a reproacher, the loud blessing.
 - [[The Suspected Wife]] — Numbers 5:22–24; the first *Amen*, and curses written and drunk.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; *dibbēr bə-* in two senses.
 
 ## Related themes
 

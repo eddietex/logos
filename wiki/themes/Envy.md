@@ -186,6 +186,12 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### Unnamed envy — Numbers 12:2
+
+*Qānāʾ* does not occur in this chapter. The question *only with Moses?* comes a few verses after Moses refuses Joshua's jealousy for him (11:29). The wiki notes the sequence and does not call the motive envy on the text's authority.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
@@ -272,6 +278,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:19; Do not fret because of evildoers, nor envy the wicked.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:4, 20; Jealousy that no one can stand before; the eyes never satisfied.
 - [[The Seventy Elders and the Quail]] — Numbers 11:28–29; Joshua's jealousy for Moses, declined.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:2; a claim to equal standing, with no word for envy.
 
 ## Related themes
 

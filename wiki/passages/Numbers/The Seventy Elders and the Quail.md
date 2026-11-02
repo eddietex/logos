@@ -135,7 +135,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Blood of the Covenant]] — Exodus 24:1, 9; seventy of the elders, on the mountain
 - [[Show Me Your Glory]] — Exodus 33:7–11; the Tent outside the camp, and Joshua there
 - [[The Fall]] — Genesis 3:6; *taʾăwâ*, what the woman saw in the tree
-- Numbers 12:1–8 — the next challenge to Moses, and Yahweh's words on prophets *(stored WEB, not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; the next challenge to Moses, and Yahweh's words on prophets
 - Numbers 14:22 — *these ten times* *(stored WEB, not yet ingested)*
 - Numbers 27:18 — Joshua, *a man in whom is the Spirit* *(stored WEB, not yet ingested)*
 - Numbers 33:16–17 — the journey list, with Kibroth Hattaavah and Hazeroth *(stored WEB, not yet ingested)*

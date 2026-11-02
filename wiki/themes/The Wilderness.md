@@ -75,6 +75,12 @@ The second stop on the road is named for those buried in it. The food of the wil
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### Paran reached — Numbers 12:16
+
+After Taberah, Kibroth Hattaavah, and Hazeroth, the people camp in the wilderness of Paran, which 10:12 had named ahead of time. The next chapter sends the spies from it.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
@@ -87,6 +93,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The March from Sinai]] — Numbers 10:11–36; the first march, and a guide requested.
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first complaint on the road.
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; manna refused, quail given, graves left.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:15–16; a seven-day halt, and the camp in Paran.
 
 ## Related themes
 

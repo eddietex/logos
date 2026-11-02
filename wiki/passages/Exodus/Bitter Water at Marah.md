@@ -171,7 +171,7 @@ Egypt in it.** See [[The Crossing of the Sea]].
 cried to Yahweh concerning the frogs"* (8:12 WEB; 8:8 Hebrew), and of the people at the sea, *"the children of
 Israel cried out to Yahweh"* (14:10), answered with *"Why do you cry to me?"* (14:15) (WLC lemma search). **The
 people murmur to Moses; Moses cries to God.** **He does it again at Massah** (17:4) **and for Miriam** — *"Moses
-cried to Yahweh, saying, 'Heal her, God, I beg you!'"* (Numbers 12:13; WEB; WLC; *not yet ingested*): **the
+cried to Yahweh, saying, 'Heal her, God, I beg you!'"* (Numbers 12:13; WEB; WLC; [[Miriam and Aaron Against Moses]]): **the
 same pair, *ṣāʿaq* and *rāpāʾ*, cry and heal, as Marah.** See [[Prayer]] and [[Mediation and Advocacy]].
 
 ***"Yahweh showed him"*** — ***wayyôrēhû***, the hiphil of ***yārâ***. **The WLC files this under the lemma of
@@ -414,7 +414,7 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - Exodus 19:5; 23:22, 25 — *"if you will indeed obey my voice"*; *"I will take sickness away"* —
   [[Israel at Mount Sinai]] and [[The Angel Sent Ahead]]
 - Numbers 5:18 — *"the water of bitterness that brings a curse"*; [[The Suspected Wife]]
-- Numbers 12:13 — *"Moses cried to Yahweh … 'Heal her, God'"* *(not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:13; *"Moses cried to Yahweh … 'Heal her, God'"*
 - Numbers 14; 16–17 — the murmurings that end in judgment *(not yet ingested)*
 - Numbers 33:8–9 — *"the wilderness of Etham … encamped in Marah … came to Elim"* *(not yet ingested)*
 - Deuteronomy 7:15; 28:60 — *"the diseases of Egypt"*, promised away and threatened back *(not yet ingested)*

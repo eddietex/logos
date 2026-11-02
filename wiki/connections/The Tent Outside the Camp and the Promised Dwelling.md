@@ -102,6 +102,8 @@ Numbers 5:3 is the reverse of Exodus 33:7. There the Tent is pitched outside and
 out to it. Here Yahweh dwells in the camp and the unclean are sent out. The text does not compare them,
 and the comparison is the wiki's. See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Exodus 33:7; Numbers 5:1–4.
 
+**Numbers 12.** Yahweh says *Come out to the Tent* (12:4) and comes down *at the door of the Tent* in a pillar of cloud (12:5), close to Exodus 33:9's wording (WLC). See [[Miriam and Aaron Against Moses]].
+
 ## Significance
 
 The geography makes the crisis visible: the people who were promised a dwelling among them now

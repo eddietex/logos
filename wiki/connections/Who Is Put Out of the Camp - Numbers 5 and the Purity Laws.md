@@ -12,7 +12,8 @@ tags: [connection]
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:1–33.
 - [[Eating the Holy Things]] — Leviticus 22:4.
 - [[The Passover in the Second Year]] — Numbers 9:6–10.
-- Numbers 12:10–15; 19:11–22; 31:19 — stored WEB, not yet ingested.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:10–15
+- Numbers 19:11–22; 31:19 — stored WEB, not yet ingested.
 - Deuteronomy 23:10–14; 2 Kings 7:3; 2 Chronicles 26:21; Luke 17:12–14 — WEB, not yet ingested.
 
 ## Analysis
@@ -51,6 +52,8 @@ military camp, with a reason close to Numbers 5:3: *for Yahweh your God walks in
 camp*. After settlement the pattern continues without a camp. Four leprous men sit *at the entrance of
 the gate* (2 Kings 7:3); King Uzziah *lived in a separate house* (2 Chronicles 26:21); and ten lepers
 meet Jesus and stand *at a distance* (Luke 17:12).
+
+**Miriam now ingested.** Numbers 12:14–15 uses Leviticus 13's verb *sāgar* and its seven days, and Leviticus 13:46's *outside of the camp*, while Leviticus has the leper out for as long as the disease lasts. No priest examines her. See [[Miriam and Aaron Against Moses]].
 
 ## Significance
 

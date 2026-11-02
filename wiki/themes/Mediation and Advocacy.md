@@ -103,7 +103,7 @@ See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1
   him. The man who spent the book asking for an advocate ends it as one — [[The Restoration of Job]].
 - **Exodus 32:11–14, 30–32** — Moses standing in the breach, *"blot me, I pray you, out of your book
   which you have written"*: mediation at its costliest in the Torah.
-- **Numbers 12:6–8; Deuteronomy 5:5** — Moses' standing office, *"I stood between Yahweh and you at
+- [[Miriam and Aaron Against Moses]], **Numbers 12:6–8; Deuteronomy 5:5** — Moses' standing office, *"I stood between Yahweh and you at
   that time"*.
 - **Leviticus 16** — the Day of Atonement: mediation institutionalized, and made repeatable.
 - **1 Samuel 2:25** — *"If a man sins against another, God will judge him; but if a man sins against
@@ -386,6 +386,12 @@ Moses tells Yahweh he cannot carry the people alone, and Yahweh shares the Spiri
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### The accused intercedes — Numbers 12:11–13
+
+Aaron cannot go to God and goes to Moses, *my lord*, and Moses goes to God. Yahweh has just said no one else has his access. He uses it first for the one who disputed it. See [[A Prophet Who Prays - The First Nabi in Scripture]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -645,6 +651,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The Cloud over the Tabernacle]] — Numbers 9:23; a public sign, and the command still *by Moses*.
 - [[The Fire at Taberah]] — Numbers 11:2; the people cry to Moses, and he prays.
 - [[The Seventy Elders and the Quail]] — Numbers 11:11–30; the mediator's burden shared with seventy.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:11–14; the attacked brother prays for the sister.
 
 ## Related themes
 

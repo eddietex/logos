@@ -203,6 +203,12 @@ are recalled is unresolved; brotherly concern must not erase the sister’s voic
 
 See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 8:7–12.
 
+### A sister and a brother against a brother — Numbers 12
+
+Moses' elder brother and sister speak against him. Aaron's *my lord* (11) reverses the birth order, and Moses, the younger brother, prays for the one named first. Aaron calls her *as one dead*, and Yahweh speaks of *her father*, but no one in the chapter says *brother* or *sister*.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
@@ -306,6 +312,7 @@ See [[Our Sister and My Own Vineyard]]. Source: stored WEB Song 1:6; 4:12–16; 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[Miriam and Aaron Against Moses]] — Numbers 12; Miriam and Aaron against Moses.
 
 ## Related themes
 

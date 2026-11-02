@@ -170,6 +170,12 @@ Moses offers an outsider the good Yahweh has promised Israel, without any stated
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The Cushite wife — Numbers 12:1
+
+Two chapters after Hobab the Midianite is invited to stay, a foreign wife is an occasion of complaint. Yahweh neither rebukes nor defends the marriage. The objection is not stated, and it may have nothing to do with where she came from. See [[Cushite Woman (of Moses' time)]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -418,6 +424,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; six peoples to be driven out, for their gods' sake.
 - [[The Passover in the Second Year]] — Numbers 9:14; the stranger at the Passover.
 - [[The March from Sinai]] — Numbers 10:29–32; a Midianite offered a share of Israel's good.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1; a wife from Cush, or from Midian.
 
 ## Related themes
 

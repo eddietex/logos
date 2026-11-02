@@ -434,6 +434,12 @@ The men are *unclean because of the dead body of a man* and call it no sin. Uncl
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### Shut out seven days — Numbers 12:10–15
+
+Miriam becomes *məṣōraʿat* with no word of a priest. The seven days and *sāgar* are from Leviticus 13:4–5, and *outside of the camp* from 13:46, though Leviticus keeps a leper out as long as the disease lasts. Aaron looks and does not pronounce. No rite of cleansing is told. See [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] and [[As White as Snow - Moses' Hand, Miriam, and Gehazi]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
@@ -559,6 +565,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Nazirite Vow]] — Numbers 6:6–12; uncleanness that undoes a vow.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–22; cleansing as readiness for the Tent.
 - [[The Passover in the Second Year]] — Numbers 9:6–13; uncleanness that delays a duty but does not cancel it.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:10–15; Miriam leprous, and out seven days.
 
 ## Related themes
 

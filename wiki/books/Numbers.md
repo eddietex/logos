@@ -54,6 +54,7 @@ stages, Hobab is asked to be Israel's eyes, and Moses cries out as the ark sets 
 and a prayer with no recorded words.
 [[The Seventy Elders and the Quail]] (11:4–35) sets two complaints side by side: the people crave meat, Moses says the burden is too heavy and asks to die,
 and Yahweh shares the Spirit on Moses with seventy elders, sends quail on a wind, and strikes with a plague at the graves of craving.
+[[Miriam and Aaron Against Moses]] (12:1–16) brings the dispute into the family: Yahweh sets Moses above the prophets, *mouth to mouth*, Miriam is shut out seven days, and the people reach Paran.
 
 The book mixes narrative with law, and it is not in strict date order: 7:1 and 9:1 go back to the first
 month. It names Moses as the writer of the journey list (33:2), but says nothing about the book as a
@@ -93,7 +94,7 @@ merge, or reorder them freely.
 - [x] [[The March from Sinai]] — Numbers 10:11–36
 - [x] [[The Fire at Taberah]] — Numbers 11:1–3
 - [x] [[The Seventy Elders and the Quail]] — Numbers 11:4–35
-- [ ] Miriam and Aaron Against Moses — Numbers 12:1–16
+- [x] [[Miriam and Aaron Against Moses]] — Numbers 12:1–16
 - [ ] The Twelve Spies — Numbers 13:1–33
 - [ ] The People Refuse the Land — Numbers 14:1–38
 - [ ] The Defeat at Hormah — Numbers 14:39–45
@@ -152,6 +153,7 @@ merge, or reorder them freely.
 - [[Festivals and First Fruits]] — the Passover kept, and a second date set
 - [[Remembrance]] — *remembered before Yahweh* at the alarm of the trumpets
 - [[Murmuring]] — the complaints that begin as soon as the march does
+- [[Prophecy and Vision]] — vision and dream, and Moses set above both
 
 ## Key people
 
@@ -161,6 +163,7 @@ merge, or reorder them freely.
 - [[Nahshon]] — Judah's man
 - [[Eleazar (son of Aaron)]], [[Ithamar]] — the surviving priests
 - [[Levi]] — the tribe given to Aaron
+- [[Miriam]] — speaks against Moses, and is shut out seven days
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
@@ -168,3 +171,5 @@ merge, or reorder them freely.
 - [[Horeb]] — the wilderness of Sinai, where the book begins
 - [[Egypt]] — the point from which its dates are reckoned, and the land of the struck firstborn
 - [[Taberah]] — the first stop named after Sinai
+- [[Hazeroth]] — where Miriam and Aaron speak against Moses
+- [[Paran]] — the wilderness from which the spies go

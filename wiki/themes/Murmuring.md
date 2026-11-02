@@ -90,6 +90,12 @@ Meribah"* (WEB; *not yet ingested*; see
 to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 Corinthians 10:10; WEB;
 *not yet ingested*).
 
+### Speaking against — Numbers 12
+
+No *lûn* here. The verb is *dibbēr bə-* (1), as at Numbers 21:5, 7 and Psalm 78:19 (WLC). The complaint now comes from the leaders. Its object is Moses alone, and Yahweh replies that it is about his servant, *against my servant, against Moses* (8).
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Bitter Water at Marah]] — Exodus 15:24; **the first *lûn* in Scripture.** *"What shall we drink?"*; against
@@ -107,6 +113,7 @@ to grumble *"as some of them also grumbled, and perished by the destroyer"* (1 C
   too; meat given, and a plague
 - **Numbers 14; 16–17** — the spies and Korah; murmuring answered with judgment *(not yet ingested)*
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–9; complaint from inside the family, without *lûn*.
 
 ## Related themes
 

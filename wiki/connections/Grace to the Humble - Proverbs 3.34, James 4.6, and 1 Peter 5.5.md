@@ -69,6 +69,8 @@ remains with 3:34.
 See [[Where There Is No Vision]]. Sources: stored WEB Proverbs 29 and the cited local comparisons; no new
 source-language claim.
 
+**Moses.** The word's only Torah use by the WLC tags is Numbers 12:3, *ʿānāw*, of Moses, which Rahlfs gives as *πραΰς* and not *ταπεινός*. In that chapter Yahweh himself defends him. See [[Miriam and Aaron Against Moses]].
+
 ## Significance
 
 - [[Favor and Grace]] is explicitly associated with humility without being described

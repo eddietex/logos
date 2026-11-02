@@ -50,7 +50,7 @@ happens.
   ***pitrôn***, an interpretation, occur fourteen times across those two chapters and **nowhere else in
   the Hebrew Bible.** The Aramaic cognate *pəšar* is Daniel's word for the same work. See
   [[Do Not Interpretations Belong to God - Joseph and Daniel]].
-- **Numbers 12:6–8** — the Torah's own taxonomy: to a prophet God makes himself known *"in a vision"*
+- [[Miriam and Aaron Against Moses]], **Numbers 12:6–8** — the Torah's own taxonomy: to a prophet God makes himself known *"in a vision"*
   and speaks *"in a dream"*, but with Moses *"mouth to mouth, even plainly, and not in riddles."*
   Genesis 15:1's *maḥăzeh* is the lower of the two registers, and the same rare word recurs in
   Balaam's oracles (Numbers 24:4, 16).
@@ -130,6 +130,12 @@ there.
 By the tags *wayyitnabbəʾû* (25) is the first use of the verb *nāḇāʾ* in the Hebrew Bible's order. The seventy prophesy once and *did so no more*. Eldad and Medad prophesy in the camp, away from the Tent. The text records no content, and does not define the act. Moses' reply widens the office to a wish: *I wish that all Yahweh's people were prophets* (29). See [[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]] and [[The Spirit of God]].
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11. Word locations from WLC (morphhb) tags.
+
+### Vision, dream, and mouth to mouth — Numbers 12:1–8
+
+The Torah's one statement of grades. Miriam the prophetess and Aaron ask whether Yahweh speaks only with Moses, and Yahweh does not deny he has spoken with them. A prophet receives by *marʾâ* and *ḥălôm*. Moses receives *peh ʾel-peh*, plainly and not in *ḥîdôt*, and he sees Yahweh's *təmûnâ* (6–8). See [[Mouth to Mouth - Numbers 12.6-8, Exodus 33, and Deuteronomy 34]] and [[Not in Riddles - Numbers 12.8 and 1 Corinthians 13.12]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
 
@@ -355,6 +361,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11. Word lo
   [[Miriam]].
 - [[Wisdom Calls in the Street]] — Proverbs 1:23; Wisdom speaks in prophetic forms and promises to pour out her spirit
 - [[The Seventy Elders and the Quail]] — Numbers 11:25–29; the first use of the verb, and Moses' wish.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; a vision and a dream for prophets, *mouth to mouth* for Moses.
 
 ## Related themes
 

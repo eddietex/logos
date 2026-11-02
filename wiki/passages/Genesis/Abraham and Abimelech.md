@@ -389,7 +389,7 @@ design of a book that tells things twice on purpose. See [[The Names of God]].
 - Leviticus 4:2, 13, 22, 27; Numbers 15:22–31 — the sin done unwittingly, and the offering for it.
 - Leviticus 18:9; 20:17; Deuteronomy 27:22 — the prohibition on marrying a half-sister, several
   centuries of narrative away.
-- Exodus 32:11–14, 30–32; Numbers 12:6–8; 14:13–20 — Moses as the prophet whose prayer turns a
+- Exodus 32:11–14, 30–32; [[Miriam and Aaron Against Moses]], Numbers 12:6–8; 14:13–20 — Moses as the prophet whose prayer turns a
   sentence, and the definition of prophecy through dreams and visions with Moses as the exception.
 - 1 Samuel 12:19, 23 — *"far be it from me that I should sin against Yahweh in ceasing to pray for
   you"*.

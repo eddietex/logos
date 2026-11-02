@@ -616,6 +616,11 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 Moses gives Aaron and his surviving sons the remaining meal offering and the breast and thigh (12–15). When the people's goat is found burned, Aaron answers for Eleazar and Ithamar: after what has happened to him, would eating it have pleased Yahweh? Moses accepts the answer (19–20). The text does not say who decided on the burning or why.
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
+### With Miriam against Moses — Numbers 12
+
+Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spoken through them too (1–2), and it is true that he has heard Yahweh (Exodus 4:27). Called to the door of the Tent, he hears the distinction between prophets and Moses (6–8). The anger burns against both, but only Miriam is struck. No reason is given. The priest whose office is to look at such a case (Leviticus 13:2) looks, says nothing as priest, and turns to his younger brother: *Oh, my lord*. He confesses for both, and asks that she not be as one dead (11–12). As at Exodus 32:22, a sin of his ends with *my lord*. See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12, Exodus 4 and 32, and Leviticus 13.
+
 - Numbers 1 — Counts with Moses. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Receives the order of the camp with Moses. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Heads the list of generations; the Levites are given to him. [[The Generations of Aaron and the Levites Given]]
@@ -626,6 +631,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 8:1–3, 11, 21 — Lights the lamps, and offers the Levites. [[The Lamps and the Levites Cleansed]]
 - Numbers 9:6 — The unclean men come before him and Moses. [[The Passover in the Second Year]]
 - Numbers 10:8 — Named as father of the priests who blow. [[The Two Silver Trumpets]]
+- Numbers 12:1–16 — Speaks against Moses with Miriam, is not struck, confesses, and pleads for her. [[Miriam and Aaron Against Moses]]
 
 ## Appears in
 
@@ -760,6 +766,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:2–3, 11, 21; lights the lamps and offers the Levites.
 - [[The Passover in the Second Year]] — Numbers 9:6; named, and silent.
 - [[The Two Silver Trumpets]] — Numbers 10:8; named as father of the priests.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; speaks against Moses, and pleads for Miriam.
 
 ## Related people
 

@@ -555,8 +555,8 @@ over the frogs (8:12 WEB; WLC). **He is shown a tree and throws it in, and the w
 *wayyašlēk*, the verb of his rod thrown down at the bush (4:3) and of Pharaoh's decree to *"cast every son …
 into the river"* (1:22; WLC). **He is not named again in the pericope**: the statute, the test, and *"I am
 Yahweh who heals you"* are God's (15:25–26). **The pairing of his cry with *heal* returns when he prays for
-Miriam** — *"Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'"* (Numbers 12:13; WEB; WLC; *not
-yet ingested*). See [[Bitter Water at Marah]] and [[Murmuring]].
+Miriam** — *"Moses cried to Yahweh, saying, 'Heal her, God, I beg you!'"* (Numbers 12:13; WEB; WLC;
+[[Miriam and Aaron Against Moses]]). See [[Bitter Water at Marah]] and [[Murmuring]].
 
 **At the manna he refuses the credit and the blame together.** The congregation says to him and Aaron
 *"you have brought us out (hôṣēʾtem) into this wilderness, to kill this whole assembly with hunger"*
@@ -1132,6 +1132,11 @@ See [[Nadab and Abihu and the Strange Fire]]. Source: stored WEB Leviticus 10:1�
 Moses directs the surviving priests to eat their portions, then inquires about the people's goat and is angry that it was burned rather than eaten, citing his command (16–18; compare 6:26–30). Aaron's answer is pleasing in Moses' sight (20). No word from Yahweh on the case is reported; the record is of Moses' acceptance.
 
 See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
+
+### Humble, and not like the prophets — Numbers 12
+
+Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh speaks only with him (1–2). The narrator calls him *very humble*, more than all people (3), and he says nothing in his own defense. Yahweh answers: a prophet has visions and dreams, but *my servant Moses … is faithful in all my house*, spoken with *mouth to mouth*, and he sees Yahweh's form (6–8). Moses' one sentence is a prayer for his sister (13). Exodus 33:20 and 23, on not seeing God's face, stand against verse 8, and the wiki keeps both. See [[Miriam and Aaron Against Moses]] and [[Mouth to Mouth - Numbers 12.6-8, Exodus 33, and Deuteronomy 34]]. Source: stored WEB Numbers 12 and Exodus 33.
+
 - Numbers 1 — Counts the tribes; appoints the Levites. [[The Census in the Wilderness of Sinai]]
 - Numbers 2 — Receives the order of the camp with Aaron. [[The Camp Around the Tent]]
 - Numbers 3:1–13 — Told to bring Levi near and give them to Aaron. [[The Generations of Aaron and the Levites Given]]
@@ -1149,6 +1154,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 10:11–36 — Leads the march, asks Hobab to stay, and cries out at the ark. [[The March from Sinai]]
 - Numbers 11:1–3 — The people cry to him, and he prays, the first time *hitpallel* is used of him. [[The Fire at Taberah]]
 - Numbers 11:4–35 — Complains that the burden is too heavy, asks to die, shares the Spirit with seventy, and wishes all were prophets. [[The Seventy Elders and the Quail]]
+- Numbers 12:1–16 — Spoken against by Miriam and Aaron; called very humble and faithful in all Yahweh's house; prays for Miriam. [[Miriam and Aaron Against Moses]]
 
 ## Appears in
 
@@ -1382,12 +1388,14 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The March from Sinai]] — Numbers 10:13, 29–36; asks Hobab to come, and speaks the two cries of the ark.
 - [[The Fire at Taberah]] — Numbers 11:2; receives the people's cry, and prays.
 - [[The Seventy Elders and the Quail]] — Numbers 11:10–30; his bitterest speech, and his widest wish.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; *very humble*, *mouth to mouth*, and five words for his sister.
 
 ## Related people
 
 - [[Jochebed]] — his mother, who hides him, makes the basket, and nurses him
 - [[Amram]] — his father, *"a man of the house of Levi"*
-- [[Miriam]] — his sister, who watches from far off and fetches the nurse
+- [[Miriam]] — his sister, who watches from far off and fetches the nurse, and who speaks against him at Hazeroth
+- [[Cushite Woman (of Moses' time)]] — his wife at Numbers 12:1; possibly [[Zipporah]]
 - [[Pharaoh's Daughter (of Moses' time)]] — his adoptive mother, who names him
 - [[Pharaoh (of the oppression)]] — the king whose decree he was born under
 - [[Levi]] and [[Kohath]] — his tribe and his grandfather's line

@@ -51,12 +51,11 @@ root *šālaḥ* that Deuteronomy uses for sending away a wife (Deuteronomy 24:1
 ground for the last beyond the root**, and Jethro presents her to Moses as *"your wife"* (18:6). **She says nothing,
 and the greeting is between the two men.** See [[Jethro's Counsel]].
 
-### What is ahead
+### The Cushite woman (Numbers 12:1)
 
-**Numbers 12:1**, Miriam and Aaron speaking *"against Moses because of the Cushite woman whom he had
-married"*, is sometimes read as Zipporah (Midian and *Cushan* stand in parallel at Habakkuk 3:7) and
-sometimes as a second wife; the wiki will record both when Numbers is reached. These sections are
-written as their pericopes arrive.
+Miriam and Aaron speak *"against Moses because of the Cushite woman whom he had
+married"*. This may be Zipporah, since Midian and *Cushan* stand in parallel at Habakkuk 3:7, or a second wife otherwise unmentioned. **The wiki records both and does not decide.** The woman of that verse has her own page,
+[[Cushite Woman (of Moses' time)]], so that the question stays open. See [[Who Is the Cushite Woman - Numbers 12.1, Exodus 2, and Habakkuk 3]] and [[Miriam and Aaron Against Moses]].
 
 ## Timeline / key events
 
@@ -80,6 +79,7 @@ written as their pericopes arrive.
   him alone"*
 - [[Jethro's Counsel]] — Exodus 18:2–6; **returned.** *"After he had sent her away"*; brought with her two sons;
   given no words
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1; **not named.** The Cushite woman of this verse may or may not be she
 
 ## Related people
 
@@ -89,6 +89,7 @@ written as their pericopes arrive.
 - [[Rebekah]] and [[Rachel]] — the earlier brides met at a well
 - [[Asenath]] — the earlier foreign priest's daughter married to a Hebrew in exile
 - [[Eliezer (son of Moses)]] — her second son
+- [[Cushite Woman (of Moses' time)]] — possibly the same woman
 - [[Hobab]] — her brother, if Hobab is the son of her father Reuel (Numbers 10:29)
 
 ## Themes associated

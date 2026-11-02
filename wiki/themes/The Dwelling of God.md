@@ -444,6 +444,12 @@ The tabernacle is taken down and set up again by its carriers (17, 21). The pres
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### Down at the door, and gone — Numbers 12:5, 9–10
+
+Yahweh comes down at the door of the Tent, speaks, and departs, and the cloud is gone from over the Tent. The camp's stillness that follows is due to Miriam. See [[Over the Tent and Before the People - Where the Cloud Stood]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -546,6 +552,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:1–4, 15, 22; the Tent lit and staffed.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the camp moves and stops with the cloud on the dwelling.
 - [[The March from Sinai]] — Numbers 10:17, 21, 33–36; the tabernacle carried, and the ark before the people.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:5, 9–10; the pillar at the door, and the cloud gone.
 
 ## Related themes
 

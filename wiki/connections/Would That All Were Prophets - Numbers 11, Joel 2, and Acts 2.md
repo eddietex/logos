@@ -28,6 +28,8 @@ speak of *πνεῦμα* given or poured *ἐπ᾿* people, a common enough word
 and visions. Acts has speech others can hear. The wiki treats this as a thread of one hope and does not call Numbers 11 a prophecy of
 Pentecost, since the verse is a wish.
 
+**The next chapter.** Numbers 12:2 has Miriam and Aaron claim that Yahweh speaks through them too, directly after Moses' wish. Numbers 12:6 names *a vision* and *a dream* as the prophet's ordinary means, and those are the two things Joel 2:28 spreads across old and young (WEB). So Joel's outpouring is of the ordinary kind in Numbers 12's terms. Nothing there says it reaches the *mouth to mouth* of Moses. See [[Miriam and Aaron Against Moses]].
+
 ## Significance
 
 Moses is the person with the most to lose from a shared Spirit, and he is the one who wishes for it. That is the point Joel and Acts

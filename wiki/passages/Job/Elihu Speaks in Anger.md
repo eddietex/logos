@@ -341,7 +341,7 @@ opposite.
 - Jeremiah 20:9 — *"a burning fire shut up in my bones"*.
 - Ecclesiastes 4:13; 1 Timothy 4:12 — *"Better is a poor and wise youth than an old and foolish king"*;
   *"Let no man despise your youth"*.
-- Numbers 12:6 — *"I will speak with him in a dream"*.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:6; *"I will speak with him in a dream"*.
 - Psalm 49:7–9; Exodus 21:30; Mark 10:45; 1 Timothy 2:5–6 — the ransom.
 - 2 Kings 5:14; Psalm 103:3–5 — flesh like a child's; youth renewed.
 - Psalm 30:3; Isaiah 38:17 — *"that I should not go down to the pit"*; *"delivered it from the pit of

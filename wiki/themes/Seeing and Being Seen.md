@@ -299,6 +299,12 @@ The act is *hidden from the eyes of her husband* (13). The answer is to set her 
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### He shall see Yahweh's form — Numbers 12:8, 10
+
+*Təmûnat yhwh yabbîṭ* is said of Moses, against Deuteronomy 4:12, 15's *no form*. Two verses on, Aaron looks at Miriam, and what he sees is the judgment. The Hebrew *marʾeh* in verse 8 is also Leviticus 13's word for how a sore looks.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
@@ -623,6 +629,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:20; the bearers may not look.
 - [[The Suspected Wife]] — Numbers 5:13, 16, 18, 30; hidden from the husband, set before Yahweh.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:8, 10; Yahweh's form, and Miriam's skin.
 
 ## Related themes
 

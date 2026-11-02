@@ -145,6 +145,12 @@ conditional health promise at Marah: the poem supplies a catalogue, not a covena
 
 See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 
+### Heal her — Numbers 12:13–15
+
+Moses prays five Hebrew words, with *rāpāʾ*. Yahweh answers with seven days of shame, and the Hebrew never says she was healed, only *brought in*. Rahlfs has *cleansed*. Whether the seven days are the healing or follow it the text does not say.
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Healing paired with killing.
@@ -169,7 +175,7 @@ See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 - [[Bitter Water at Marah]] — Exodus 15:25–26; **the name.** The water made sweet; *"I will put none of the
   diseases on you, which I have put on the Egyptians; for I am Yahweh who heals you"*
 - **Exodus 23:25** — *"I will take sickness away from among you"* — [[The Angel Sent Ahead]]
-- **Numbers 12:13** — *"Heal her, God, I beg you!"* *(not yet ingested)*
+- [[Miriam and Aaron Against Moses]] — Numbers 12:13; *"Heal her, God, I beg you!"*
 - **Deuteronomy 28:60; 32:39** — the diseases of Egypt brought back; *"I wound and I heal"* *(not yet
   ingested)*
 - **2 Kings 2:19–22** — *"I have healed these waters"* — [[Bitter Water Made Sweet - Marah and Elisha's Spring]]
@@ -178,6 +184,7 @@ See [[A Time for Every Purpose]]. Source: stored WEB Ecclesiastes 3:1–15.
 - [[Laws of Violence and Injury]] — Exodus 21:12–36; distinctions and remedies for injury and loss
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *"I will take sickness away from among you"*.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:8; *rip̄ʾûṯ*, health from the fear of Yahweh
+- [[Miriam and Aaron Against Moses]] — Numbers 12:13–15; the prayer, and seven days.
 
 ## Related themes
 

@@ -370,6 +370,12 @@ A husband who suspects his wife may not settle it himself. He brings her to the 
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### A wife as a reason — Numbers 12:1
+
+Moses' marriage to *the Cushite woman* is given as the reason his brother and sister speak against him. Nothing is said of what was wrong with it, and Yahweh's answer ignores it. Whether she is Zipporah is unsettled. See [[Who Is the Cushite Woman - Numbers 12.1, Exodus 2, and Habakkuk 3]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
@@ -584,6 +590,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Suspected Wife]] — Numbers 5:11–31; a husband's jealousy brought before Yahweh, and no matching law for a wife.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:1; the Cushite woman.
 
 ## Related themes
 

@@ -627,6 +627,12 @@ The people ask for meat, and Yahweh gives it as a penalty, *until it comes out a
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11. Psalm 106:15 at bible-api.com.
 
+### Struck when the cloud goes — Numbers 12:9–15
+
+The sentence comes without a word, on one of two. It has a term of seven days, and Yahweh frames it as a father's shame. The people wait for it. See [[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -958,6 +964,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11. Psalm 1
 - [[The Suspected Wife]] — Numbers 5:11–31; no human verdict, and the outcome left to Yahweh.
 - [[The Fire at Taberah]] — Numbers 11:1–3; the first penalty for complaint on the road.
 - [[The Seventy Elders and the Quail]] — Numbers 11:18–34; plenty as penalty, and a place named for it.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:9–15; Miriam struck, and the term set.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -195,6 +195,12 @@ Moses sets six hundred thousand men against all the flocks, herds, and fish. Yah
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### Faithful in all my house — Numbers 12:7
+
+*Neʾĕmān*, the niphal of *ʾāman*, is said of Moses. Exodus 14:31 had the people believe in *his servant Moses*, by the same root. See [[Faithful in All My House - Numbers 12.7 and Hebrews 3]].
+
+See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
+
 ## Key passages
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
@@ -333,6 +339,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:5–6; trust with all the heart, not leaning on one's own understanding
 - [[Thirty Excellent Things]] — Proverbs 22:19; The collection's stated purpose: *"that your trust may be in Yahweh"*.
 - [[The Seventy Elders and the Quail]] — Numbers 11:21–23; Moses' arithmetic, and the question it gets.
+- [[Miriam and Aaron Against Moses]] — Numbers 12:7; *neʾĕmān*.
 
 ## Related themes
 
