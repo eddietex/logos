@@ -25,6 +25,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Blessing includes violent victory over adversaries (24:8, 17–20), not merely fertility and peace.
+The later sayings widen the horizon to captivity and the destruction of conquering powers.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The second oracle ends with Israel as a lion consuming prey and the blood of the slain (23:24). This
@@ -272,6 +280,9 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

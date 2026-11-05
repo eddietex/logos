@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Numbers 24:24 names Eber beside Asshur as an object of affliction. This is a collective or regional
+reference in an oracle about peoples, not an event in the patriarch’s life; its precise scope is not
+explained by the verse.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 Shem's great-grandson, and the name the word **Hebrew** stands next to.
 
 He is introduced before he is born. Genesis 10:21 opens Shem's branch of [[The Table of Nations]] by
@@ -59,6 +68,9 @@ children of Eber"* — and the reader who has no idea yet what an Eberite is fin
   (Luke 3:35)
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Table of Nations]] — named at 10:21, 10:24, and 10:25; the only descendant a branch head is
   introduced by

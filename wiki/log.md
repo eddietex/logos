@@ -21609,3 +21609,31 @@ WEB texts in paraphrase, including Genesis 13:16, Numbers 14, and Exodus 32:14. 
 was changed or fetched, and no new original-language claim was introduced. No harness or
 workflow changes were required. Link checks clean (58 expected unstarted-book targets);
 no unresolved link issue or operational blocker.
+
+## [2026-11-05] ingest | Numbers 23.27-24.25 — Balaam's Last Oracles
+
+Ingested exactly the next planned unit in unattended mode with Codex. Retained the boundary:
+Peor and the third blessing, Balak’s dismissal, the future ruler and the shorter national
+oracles, ending with the two men’s departure. Numbers is now 40 / 54 pericopes complete.
+
+Created 6 pages: the passage, Agag, Sheth, Kenites, Peor, and Kittim. Revised 36 existing
+content pages: Numbers, Jacob Blesses His Sons, seven people, four places, fourteen themes,
+and nine connections. Updated eleven indexes/dashboards and this log (48 revised pages
+total). Counts: 311 passages, 228 people, 144 places, 87 themes, 693 connections; eight books
+started and seven complete.
+
+Kenites is a collective person page; Kain is treated within that saying, not equated with
+Cain. Sheth is not equated with Seth, and Agag is neither assigned to Saul’s time nor assumed
+to be a dynastic title. Eber’s collective scope, Kittim’s later historical application,
+and the last pronoun of 24:24 remain open. Seir is covered by Edom’s existing page.
+The oracle’s future possession of Edom is distinguished from Israel’s earlier withdrawal.
+The Spirit’s gift is kept beside Balaam’s earlier rebuke without certifying his character.
+
+Corrected the Spirit connection’s unsupported duration of three oracles to “not stated,”
+and qualified the scepter connection’s unverified Hebrew noun identity at its point of use.
+All new quotations were copied from stored WEB Numbers; royal comparisons were checked
+against stored WEB Genesis 49. No new original-language claim, external quotation, raw-text
+change, or harness/workflow edit was needed.
+
+Link checks clean: 58 expected not-yet-started book targets. No unresolved link issue or
+operational blocker; uncertain identifications are recorded on the relevant pages.

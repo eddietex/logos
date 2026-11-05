@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - **Genesis 36:12** — *"Timna was concubine to Eliphaz, Esau's son; and she bore to Eliphaz Amalek."*
   — [[The Descendants of Esau]]
 - **Genesis 36:16** — *chief Amalek*, among the chiefs descended from Eliphaz
@@ -22,6 +25,16 @@ tags: [connection]
 - **Deuteronomy 23:7** — *"You shall not abhor an Edomite, for he is your brother"*
 
 ## Analysis
+
+### Balaam’s final oracles
+
+Numbers 24:20 adds a prospective sentence of destruction to the Amalek thread. It concerns the
+nation, not the genealogical ancestor. First among nations is not explained as a date of origin; the
+short oracle neither narrates a campaign nor names its executor.
+
+Source: stored WEB Numbers 23:27–24:25; Genesis 49:1, 9–10 for the royal and future-horizon
+comparisons.
+
 
 **Nine words in a genealogy, and the Bible spends the next thousand years on them.**
 

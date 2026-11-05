@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+After a third sacrificial station at Peor, he angrily dismisses Balaam and attributes the loss of
+promised honor to Yahweh (24:10–11). His attempted curse has produced three blessings; the final
+oracle now predicts harm to his own people.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 He receives Balaam at the border, supplies sacrifices, and moves him to another viewpoint after the
@@ -31,6 +40,9 @@ when the first returns unsuccessful; his offer of honor cannot determine God’s
 - Numbers 22:1–21: Son of [[Zippor]] and king of Moab at this time (2, 4). Fear after Israel’s victories leads him to seek a curse before attempting military expulsion. He sends a second, more distinguished embassy when the first returns unsuccessful; his offer of honor cannot determine God’s instruction.
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

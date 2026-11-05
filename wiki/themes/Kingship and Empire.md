@@ -47,6 +47,15 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Israel’s king is exalted above Agag (24:7); the star and scepter portray future dominion (24:17–19).
+The final sayings also threaten the powers that subdue others (24:22–24). No particular historical
+ruler is identified here.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Balak can supply honor, victims, and new vantage points, but cannot command the divine answer. The
@@ -396,6 +405,9 @@ See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 
 comparisons documented on the passage page.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

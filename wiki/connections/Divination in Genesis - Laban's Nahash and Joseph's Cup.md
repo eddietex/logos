@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 
 
@@ -28,6 +31,13 @@ tags: [connection]
   with Israel"*
 
 ## Analysis
+
+### Balaam’s last oracles
+
+Numbers 24:1 now supplies an explicit narrative distinction: Balaam stops seeking enchantments because he sees that Yahweh intends to bless Israel. Verse 2 attributes the ensuing oracle to the Spirit of God. This extends the thread beyond 23:23 without treating Balaam’s earlier methods as approved or making a new Hebrew root claim.
+
+Source: stored WEB Numbers 23:27–24:25.
+
 
 ### The first two oracles — Numbers 22:36–23:26
 
@@ -107,7 +117,7 @@ link the Hebrew does not make.** See [[The Cupbearer and the Baker]].
 
 ## Significance
 
-**Numbers 23:23 is the verse this thread ends on**, and it is spoken by a professional diviner who
+**Numbers 23:23 brings the thread to Israel’s protection against divination**, and it is spoken by a professional diviner who
 has been hired to curse Israel and cannot: ***"Surely there is no enchantment with Jacob; neither is
 there any divination with Israel."*** **The name in the sentence is the name of the man Laban divined
 about.** Balaam's point is that this people cannot be read by omens, because what happens to them is

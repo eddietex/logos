@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Asshur is the power expected to carry Kain captive (24:22) and then suffer affliction from ships
+from Kittim (24:24). A conquering power is itself vulnerable; the oracle gives no named king or
+dated campaign.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 Upper Mesopotamia, along the Tigris — and in [[The Table of Nations]] both a country and a man, which
 is the difficulty the chapter's most disputed verse turns on.
 
@@ -43,6 +52,9 @@ capital and resents being sent. And Isaiah 19:23–25 ends with the most unexpec
 the Bible: *"Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance."*
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Table of Nations]] — Genesis 10:11 as a land, 10:22 as a son of Shem
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:18; a bearing rather than a place —

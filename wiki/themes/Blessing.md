@@ -29,6 +29,15 @@ costly.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The third blessing pictures watered gardens, abundant seed, and an exalted kingdom; 24:9 extends
+blessing to those who bless Israel. Balak’s attempt to obtain a curse therefore threatens to rebound
+on him.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The first oracle refuses an unauthorized curse; the second declares an already bestowed blessing
@@ -367,6 +376,9 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

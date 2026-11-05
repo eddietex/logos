@@ -13,6 +13,15 @@ is not yet a full survey of the wiki's earlier books.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The narrator explicitly attributes Balaam’s oracle to the Spirit coming on him (24:2), after he
+stops seeking enchantments. No duration is stated, and the episode does not certify all of his
+conduct.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 **Creation.** *God's Spirit was hovering over the surface of the waters* (Genesis 1:2). Job 33:4 says, *The Spirit of God has
 made me*. See [[Creation]].
 
@@ -49,6 +58,9 @@ The Spirit comes on Balaam (Numbers 24:2), and Joshua is *a man in whom is the S
 pericopes arrive.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Creation of the World]] — Genesis 1:2; the Spirit over the waters
 - [[The Sons of God and the Corruption of the Earth]] — Genesis 6:3; *My Spirit will not strive*

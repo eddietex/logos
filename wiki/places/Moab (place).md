@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The final main oracle predicts a ruler from Israel striking Moab (24:17). This is future speech, not
+a report of a conquest during Balak’s encounter. The unidentified city in 24:19 is not assigned a
+name.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The reception and two oracles unfold in Moab’s setting. The king and princes listen while Israel is
@@ -93,6 +102,9 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

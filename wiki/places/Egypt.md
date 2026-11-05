@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The third blessing recalls God bringing Israel out of Egypt (24:8). Exodus deliverance grounds the
+image of national strength; Egypt is not the oracle’s setting.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The second oracle recalls God bringing Israel out of Egypt (23:22). Egypt is a remembered place of
@@ -257,6 +265,9 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

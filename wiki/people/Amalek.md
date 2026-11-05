@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The oracle names the nation, not its ancestor, as first among nations and destined for destruction
+(24:20). The verse does not specify whether first means rank or chronological priority.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 **A grandson of [[Esau]] by a concubine, named in nine words at the bottom of a list — and the
 ancestor of the one nation the Bible commands Israel to destroy utterly.**
 
@@ -83,6 +91,9 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   14:43–45, [[The Defeat at Hormah]]
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Descendants of Esau]] — Genesis 36:12, 16; **nine words and a chief's title.** The Bible's
   most comprehensively condemned nation enters Scripture as the son of a concubine in the third

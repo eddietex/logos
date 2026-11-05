@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Edom and Seir are named as future possessions in the oracle (24:18). This contrasts with Israel’s
+withdrawal in Numbers 20:14–21 without contradicting the chronology: the oracle predicts, while the
+earlier scene reports a refused passage.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 Israel travels around Edom (4), continuing the narrative of refused passage in Numbers 20:14–21. The detour occasions discouragement; this unit reports no new confrontation with Edom.
@@ -87,6 +96,9 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

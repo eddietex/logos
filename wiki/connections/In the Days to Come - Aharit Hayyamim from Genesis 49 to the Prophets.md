@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - Genesis 49:1 — *"that I may tell you that which will happen to you **in the days to come**"* —
   **the first occurrence in the Bible**
 - Numbers 24:14 — Balaam: *"what this people shall do to your people in the latter days"*, just
@@ -22,6 +25,17 @@ tags: [connection]
 - [[Through Wisdom a House Is Built]] — Proverbs 24:14, 20.
 
 ## Analysis
+
+### Balaam’s final oracles
+
+Numbers 24:14 introduces what Israel will do to Moab; 24:17 expressly places the seen ruler beyond
+the immediate moment. The WEB supports a future horizon, but no timetable. The contextual comparison
+with Genesis 49:1 does not require an exact Hebrew lexical claim or settle later eschatological
+readings.
+
+Source: stored WEB Numbers 23:27–24:25; Genesis 49:1, 9–10 for the royal and future-horizon
+comparisons.
+
 
 ***Bəʾaḥărît hayyāmîm*** is **not *at the end of time*.** ***ʾAḥărît*** is the *after-part*, the
 *latter end*, the *remainder* of a thing — **it is what a life has at 49:1 and what a harvest has at

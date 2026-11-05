@@ -85,6 +85,14 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Seven altars with a bull and ram each are prepared again at Peor (23:29–30). The repeated
+expenditure does not reverse Yahweh’s pleasure in blessing Israel (24:1).
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Seven altars, each with a bull and ram, are prepared at each of two stations (23:1–2, 14). The
@@ -659,6 +667,9 @@ Every burnt offering and sacrifice in the land must come with flour, oil, and wi
 tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

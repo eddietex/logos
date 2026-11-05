@@ -64,6 +64,14 @@ the same verses that put the tree of life back in reach (see
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The curse sought by Balak remains unavailable. Instead, 24:9 declares those who curse Israel cursed,
+recalling the protective pattern of Genesis 12:3 and 27:29 without claiming an explicit citation.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Balak’s repeated demand is denied twice. Even his fallback request for silence fails to release
@@ -239,6 +247,9 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

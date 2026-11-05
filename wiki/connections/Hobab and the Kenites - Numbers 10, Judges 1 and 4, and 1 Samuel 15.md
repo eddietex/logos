@@ -7,14 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - [[The March from Sinai]] — Numbers 10:29–32; Moses asks Hobab to come, and promises to share the good
 - Genesis 15:19 — the Kenites among the peoples of the promised land *(stored WEB)*
-- Numbers 24:21–22 — Balaam's word to the Kenite *(stored WEB, not yet ingested)*
+- Numbers 24:21–22 — Balaam's word to the Kenite *(stored WEB; now ingested in [[Balaam's Last Oracles]])*
 - Judges 1:16 — *the children of the Kenite, Moses' brother-in-law*, go up with Judah *(WEB checked, not yet ingested)*
 - Judges 4:11, 17 — *the children of Hobab*, and Jael's tent *(WEB checked, not yet ingested)*
 - 1 Samuel 15:6 — Saul spares the Kenites for their kindness to Israel *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Balaam’s last oracles
+
+The Kenite oracle in Numbers 24:21–22 is now ingested. Strong dwelling and a rocky nest do not avert captivity by Asshur. The text addresses the group, not Hobab personally, and supplies no date. See [[Kenites]]; the oracle is not evidence that Hobab’s personal fate was captivity.
+
+Source: stored WEB Numbers 23:27–24:25.
+
 
 Numbers 10 ends the conversation without Hobab's answer. The later texts do not supply one directly, but they place
 people connected to him in the land.

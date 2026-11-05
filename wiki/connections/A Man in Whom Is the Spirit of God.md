@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - **Genesis 1:2** — *"God's Spirit was hovering over the surface of the waters"* — ***rûaḥ ʾĕlōhîm***,
   over an unformed world — [[The Creation of the World]]
 - **Genesis 41:38** — Pharaoh: *"Can we find such a one as this, a man in whom is the Spirit of God?"* —
@@ -27,6 +30,17 @@ tags: [connection]
 - [[The Seventy Elders and the Quail]] — Numbers 11:17, 25–29
 
 ## Analysis
+
+### Balaam’s final oracles
+
+Numbers 24:2 explicitly says the Spirit comes on Balaam before the third blessing. The earlier
+table’s duration of three oracles was unsupported: the verse gives no duration. The narrator’s
+attribution differs from Pharaoh’s recognition of Joseph in Genesis 41:38; it does not imply a
+general endorsement of Balaam’s conduct.
+
+Source: stored WEB Numbers 23:27–24:25; Genesis 49:1, 9–10 for the royal and future-horizon
+comparisons.
+
 
 **Genesis uses the phrase *rûaḥ ʾĕlōhîm* exactly twice, and the distance between them is the whole
 book.**
@@ -62,7 +76,7 @@ was coming from.**
 | **Joseph** (Genesis 41:38) | reading a dream, then running a famine | not said |
 | **Bezalel** (Exodus 31:3) | **craftsmanship** — the tabernacle | not stated |
 | **the seventy elders** (Numbers 11:25) | bearing the burden of the people | *"they didn't do so again"* |
-| **Balaam** (Numbers 24:2) | an oracle he was hired to reverse | three oracles |
+| **Balaam** (Numbers 24:2) | blessing Israel despite the requested curse | not stated |
 | **Joshua** (Numbers 27:18) | succeeding Moses | his life |
 | **the judges** | a deliverance, one at a time | the emergency |
 | **Saul** (1 Samuel 16:14) | kingship | **withdrawn** |

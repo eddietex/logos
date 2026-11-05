@@ -49,6 +49,15 @@ This page opened with Numbers, whose Hebrew name is the word itself.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Peor overlooks the desert (23:28), and Balaam turns toward the wilderness to see Israel’s tribal
+camp (24:1–2). The garden imagery of the blessing portrays flourishing in contrast to that immediate
+setting.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### Between the dead and the living — Numbers 16:41–50
 
 The renewed confrontation takes place the next day in the same camp, between the Tent and
@@ -149,6 +158,9 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

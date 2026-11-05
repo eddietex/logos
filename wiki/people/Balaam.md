@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+He abandons the earlier search for enchantments, sees the tribal camp, and receives the Spirit of
+God (24:1–2). His third blessing provokes dismissal, but he continues with future oracles before
+departing. This inspiration is not a blanket verdict on his character, nor does the text report
+accepted payment.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 His promised restriction becomes narrated action: Yahweh puts the words in his mouth twice (23:5,
@@ -32,6 +42,9 @@ not yet say that Balaam accepted payment.
 - Numbers 22:1–21: Son of [[Beor (father of Balaam)]], summoned from [[Pethor]] by [[Balak]] to curse Israel. He consults Yahweh twice and asserts that even a house full of wealth cannot authorize him to exceed the divine word (8–20). The narrator reports the rewards brought by the first delegation but does not yet say that Balaam accepted payment.
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

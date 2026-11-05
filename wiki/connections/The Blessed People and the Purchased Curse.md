@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 
 
@@ -15,6 +18,17 @@ tags: [connection]
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 ## Analysis
+
+### Balaam’s final oracles
+
+The third blessing closes with the protection of those who bless Israel and the curse on those who
+curse it (24:9). Balak’s dismissal and loss of promised honor (24:10–13) expose the failure of
+patronage. The blessing continues before the oracle turns against Moab; no accepted payment is
+narrated.
+
+Source: stored WEB Numbers 23:27–24:25; Genesis 49:1, 9–10 for the royal and future-horizon
+comparisons.
+
 
 ### The first two oracles — Numbers 22:36–23:26
 

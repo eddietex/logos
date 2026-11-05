@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Balaam's Last Oracles]] (Numbers 23:27–24:25) completes the attempted curse with a third blessing,
+then future oracles of royal victory and the downfall of nations. The Spirit’s gift and the
+seer’s constrained speech do not erase his earlier rebuke; historical identifications remain open.
+
+
 [[Balaam's First Two Oracles]] (Numbers 22:36–23:26) turns the attempted curse into two blessings.
 Repeated sacrifices and a changed viewpoint cannot reverse God’s commitment; the oracle’s
 claims about repentance and iniquity remain explicitly compared with earlier narratives.
@@ -190,7 +195,7 @@ merge, or reorder them freely.
 - [x] [[Balak Sends for Balaam]] — Numbers 22:1–21
 - [x] [[Balaam's Donkey]] — Numbers 22:22–35
 - [x] [[Balaam's First Two Oracles]] — Numbers 22:36–23:26
-- [ ] Balaam's Last Oracles — Numbers 23:27–24:25
+- [x] [[Balaam's Last Oracles]] — Numbers 23:27–24:25
 - [ ] Baal Peor and the Zeal of Phinehas — Numbers 25:1–18
 - [ ] The Second Census — Numbers 26:1–65
 - [ ] The Daughters of Zelophehad — Numbers 27:1–11
@@ -207,6 +212,12 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[The Names of God]] — [[Balaam's Last Oracles]].
+
+- [[Wealth and Possessions]] — [[Balaam's Last Oracles]].
+
+- [[The Spirit of God]] — [[Balaam's Last Oracles]].
 
 - [[Righteousness]] — [[Balaam's First Two Oracles]].
 
@@ -277,6 +288,12 @@ merge, or reorder them freely.
 
 ## Key people
 
+- [[Kenites]] — [[Balaam's Last Oracles]].
+
+- [[Sheth]] — [[Balaam's Last Oracles]].
+
+- [[Agag]] — [[Balaam's Last Oracles]].
+
 - [[The Angel of Yahweh]] — opposes Balaam’s journey and restricts his speech (22:22–35).
 
 - [[Balak]] and [[Balaam]] — the king’s summons and the constrained answer (22:1–21).
@@ -320,6 +337,10 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Kittim]] — [[Balaam's Last Oracles]].
+
+- [[Peor]] — [[Balaam's Last Oracles]].
 
 - [[Aram (place)]] — [[Balaam's First Two Oracles]].
 

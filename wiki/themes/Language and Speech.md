@@ -72,6 +72,14 @@ noticing into doctrine.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Balaam repeats that even a house full of silver and gold cannot authorize speech from his own mind
+(24:12–13). Balak can dismiss the speaker but cannot dictate the oracle.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 A royal commission to curse becomes a blessing because God supplies the speech (22:38; 23:5, 16).
@@ -607,6 +615,9 @@ of verse 2, the claim of verse 3, the report of verses 36–37. The verse 10 sto
 said. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

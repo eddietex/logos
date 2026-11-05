@@ -577,6 +577,8 @@ face, wept on him, and kissed him"* (50:1) — **is the response 49:33 withholds
   Bible, spoken by a man five verses from his death, about a rescue he is not going to see**
 
 ## Cross-references
+- [[Balaam's Last Oracles]] — Numbers 24:9, 17–19 echoes the lion and royal-rule imagery; the future ruler is unnamed.
+
 
 - [[The Nazirite Vow]] — Numbers 6, the law for the person named by the same noun as Joseph in 49:26.
 - [[Jacob Blesses Ephraim and Manasseh]] — **the other half of the same deathbed**, and the chapter

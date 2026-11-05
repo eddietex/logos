@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - **Genesis 17:1** — *"I am God Almighty. Walk before me, and be blameless."* The name's first
   occurrence in Scripture. See [[Circumcision, the Sign of the Covenant]].
 - **Genesis 28:3** — Isaac sending Jacob to Paddan Aram: *"May God Almighty bless you, and make you
@@ -36,6 +39,13 @@ tags: [connection]
   in the New Testament.
 
 ## Analysis
+
+### Balaam’s last oracles
+
+The stored WEB introductions in Numbers 24:4, 16 describe Balaam as seeing the Almighty’s vision; 24:16 also names the Most High. These claims belong to Balaam’s oracle introductions, beside the narrator’s statement of the Spirit in 24:2. The English evidence supports the divine-title comparison without independently establishing the historical origin of a name.
+
+Source: stored WEB Numbers 23:27–24:25.
+
 
 **Nobody knows what *Šadday* means.** It is one of the two or three most disputed words in the
 Hebrew Bible, and the four standing proposals all have something going for them:

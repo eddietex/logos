@@ -38,6 +38,14 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Balak withdraws promised honor, and Balaam repeats the hypothetical house full of silver and gold
+(24:11–13). The chapter describes failed patronage without reporting that Balaam received payment.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 The first delegation carries rewards of divination (7), and Balak later promises honor and
@@ -719,6 +727,9 @@ Twelve princes give 2,400 shekels of silver and 120 of gold, by the shekel of th
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

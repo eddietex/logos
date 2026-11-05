@@ -44,6 +44,15 @@ happens.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Balaam sees Israel’s tents and claims a vision beyond the immediate scene (24:2–4, 15–19). The
+future ruler is not near in 24:17, but no date or personal name is supplied. Predictions must not be
+filed as already narrated fulfillments.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The narrative twice attributes Balaam’s words to Yahweh (23:5, 16). The commissioned message exceeds
@@ -160,6 +169,9 @@ The Torah's one statement of grades. Miriam the prophetess and Aaron ask whether
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

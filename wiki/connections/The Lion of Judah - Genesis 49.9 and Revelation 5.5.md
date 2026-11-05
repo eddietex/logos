@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - Genesis 49:9 — *"Judah is a lion's cub. From the prey, my son, you have gone up. He stooped down,
   he crouched as a lion, as a lioness. Who will rouse him up?"*
 - Numbers 23:24; 24:9 — Balaam uses the same picture of Israel, the second time nearly word for word
@@ -18,6 +21,16 @@ tags: [connection]
 - Revelation 5:5 — *"the Lion of the tribe of Judah, the Root of David, has overcome"*
 
 ## Analysis
+
+### Balaam’s final oracles
+
+Numbers 24:9 repeats the crouching lion and the challenge to rouse it found in Genesis 49:9. The
+referent expands from Judah to Israel. Here the picture closes a blessing of flourishing and
+military strength; it does not by itself identify an individual messiah.
+
+Source: stored WEB Numbers 23:27–24:25; Genesis 49:1, 9–10 for the royal and future-horizon
+comparisons.
+
 
 **The picture grows inside one verse, and the growth is the point.** ***Gûr ʾaryēh*** is a cub;
 ***ʾaryēh*** is the adult; ***lābîʾ*** is the lioness, the most dangerous of the three. **Genesis

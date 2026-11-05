@@ -63,6 +63,15 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Moab, Edom, Amalek, the Kenite, Asshur, and Eber enter the oracle’s horizon, with ships from Kittim
+(24:17–24). Their exact historical referents are not all supplied, and an unqualified map of
+fulfillment would exceed this text.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Israel is depicted as dwelling alone and not being listed among the nations (23:9). The oracle
@@ -208,6 +217,9 @@ conclusions (13–16). Yahweh's name stands in their hearing. See
 [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]].
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

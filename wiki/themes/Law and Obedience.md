@@ -135,6 +135,15 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Balaam states that he cannot go beyond Yahweh’s word for good or bad on his own initiative (24:13).
+Restricted speech is the immediate issue; the statement does not establish universal moral
+obedience.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Balaam repeatedly insists that he must speak or do what Yahweh gives (22:38; 23:12, 26). These
@@ -962,6 +971,9 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

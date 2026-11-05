@@ -109,6 +109,15 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+The WEB oracle introductions use God, Almighty, and Most High (24:4, 16), while the narrative names
+Yahweh. These are observations about the stored English translation, not a new claim about Hebrew
+forms.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Repeated divine self-identification grounds commands about produce, bodies, sanctuary, elders,
@@ -229,6 +238,9 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

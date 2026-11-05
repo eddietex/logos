@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Jacob and Israel again designate the nation, whose tents are praised and from whom a future ruler is
+expected (24:5, 17–19). The patriarch is not present. The lion and scepter images recall his
+blessing in Genesis 49:9–10.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Jacob and Israel name the people in both oracles (23:7–10, 21, 23), not the living patriarch. The
@@ -786,6 +795,9 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

@@ -7,10 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
+
 - Genesis 49:10 — *"The scepter will not depart from Judah, nor the ruler's staff from between his
   feet, until he comes to whom it belongs. To him will the obedience of the peoples be"*
 - Genesis 17:6; 35:11 — kings promised to [[Abraham]] and to [[Jacob]], with no tribe named
-- Numbers 24:17 — Balaam's *"a scepter will rise out of Israel"*, the same noun ***šēbeṭ***
+- Numbers 24:17 — Balaam's *"a scepter will rise out of Israel"*, a royal-image parallel in the WEB; the proposed Hebrew noun identity is not verified in this ingest
 - Ezekiel 21:27 — *"until he comes whose right it is; and I will give it to him"*
 - Psalm 60:7 / 108:8 — *"Judah is my scepter"*
 - 1 Chronicles 5:2 — *"Judah prevailed above his brothers, and from him came the prince"*
@@ -18,6 +21,17 @@ tags: [connection]
 - Revelation 5:5; Hebrews 7:14 — the tribe named in the New Testament
 
 ## Analysis
+
+### Balaam’s final oracles
+
+Genesis 49:9–10 joins Judah’s lion imagery to rule; Numbers 24:9, 17–19 joins the lion of Israel to
+a star and scepter. The comparison is secure in the stored WEB imagery. Numbers does not name Judah
+or identify the future ruler, so this page should distinguish a royal parallel from a demonstrated
+individual fulfillment.
+
+Source: stored WEB Numbers 23:27–24:25; Genesis 49:1, 9–10 for the royal and future-horizon
+comparisons.
+
 
 **Three Hebrew words carry the weight of the whole verse, and nobody can read them with
 confidence:** ***ʿad kî-yābōʾ šîlōh***.

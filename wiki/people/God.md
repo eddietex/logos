@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s last oracles — Numbers 23:27–24:25
+
+Yahweh’s pleasure in blessing Israel governs the third oracle; the Spirit of God comes on Balaam
+(24:1–2). The speaker claims to hear God and see the Almighty’s vision (24:4, 16). Balak’s complaint
+that Yahweh withheld honor (24:11) is the frustrated king’s interpretation.
+
+See [[Balaam's Last Oracles]]. Source: stored WEB Numbers 23:27–24:25.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Yahweh meets Balaam and supplies both oracles (23:5, 16), maintaining Israel’s blessing. The denial
@@ -3260,6 +3269,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 
