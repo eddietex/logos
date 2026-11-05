@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Between the dead and the living — Numbers 16:41–50
+
+Accused of killing Yahweh’s people, Moses falls on his face with Aaron and orders immediate
+atonement with altar fire and incense (41–46). His response to the accusation is to send the
+priest to preserve his accusers; the text records no spoken petition to Yahweh in this unit.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Moses falls on his face, proposes the incense test, and identifies the dispute as a challenge to
@@ -1213,6 +1221,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

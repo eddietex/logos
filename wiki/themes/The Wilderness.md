@@ -19,6 +19,14 @@ This page opened with Numbers, whose Hebrew name is the word itself.
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The renewed confrontation takes place the next day in the same camp, between the Tent and
+the assembly. No named campsite is given in 16:41–50; the broader wilderness setting does
+not establish a precise location.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 The narrator locates the case only in the wilderness (32), with execution outside the
@@ -111,6 +119,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

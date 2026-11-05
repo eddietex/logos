@@ -24,7 +24,8 @@ against its destruction (16–22). The people are told to leave the rebels’ te
 that an extraordinary death will attest his commission; the ground opens and swallows the
 rebels and households, while fire consumes the 250 incense offerers (23–35). Eleazar recovers
 the holy censers, which become an altar covering and a warning guarding Aaron’s priesthood
-(36–40). The next day’s renewed complaint belongs to the next pericope.
+(36–40). The next day’s renewed complaint continues in
+[[Aaron Stands Between the Dead and the Living]].
 
 ## Key verses
 
@@ -82,6 +83,7 @@ Copied from stored WEB, `raw/bible/Numbers.md`.
 - [[The Wilderness]]
 
 ## Cross-references
+- [[Aaron Stands Between the Dead and the Living]] — the next day’s complaint and priestly rescue.
 - [[A Holy People and a Chosen Priest - Numbers 15 and 16]]
 - [[Incense and Consuming Fire - Leviticus 10 and Numbers 16]]
 - [[One Man and the Congregation - Intercession in Numbers 14 and 16]]

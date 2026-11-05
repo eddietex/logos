@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Between the dead and the living — Numbers 16:41–50
+
+Korah is mentioned retrospectively in the death count (49). The 14,700 who die in this plague
+are additional to those who died in his affair; he is not an active participant in this new scene.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Korah leads the challenge to Moses and Aaron with Reubenite allies and 250 recognized leaders. Moses
@@ -54,6 +61,8 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - *(ahead)* *"The sons of Korah did not die"* — Numbers 26:11
 
 ## Appears in
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

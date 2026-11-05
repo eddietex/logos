@@ -90,6 +90,14 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+Moses directs and Aaron acts for the congregation that has turned against them. Aaron’s
+position between dead and living (48) gives mediation a bodily form; no death of the mediator
+or exchange of his life for theirs is narrated.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 Moses receives the ruling after the man is brought to him, Aaron, and the congregation
@@ -417,6 +425,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

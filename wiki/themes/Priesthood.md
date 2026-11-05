@@ -73,6 +73,14 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The defended office becomes a means of rescue: Aaron runs among the people who accuse him
+and makes atonement (41, 46–48). Numbers 16:40 guards priestly access; 16:47 shows that service
+benefiting the congregation rather than merely protecting the priest’s status.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 The priest sets values, and his word stands (8, 12, 14). A field not redeemed passes to him at the
@@ -530,6 +538,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

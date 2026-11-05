@@ -100,6 +100,14 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The plague kills 14,700 in addition to the earlier deaths in Korah’s affair (49). Atonement
+stops further destruction but does not reverse the recorded deaths. The passage supplies
+neither a disease diagnosis nor a count of the survivors.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 Yahweh specifies death by communal stoning outside the camp (35), and the people carry
@@ -657,6 +665,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

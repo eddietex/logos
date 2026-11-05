@@ -7,11 +7,20 @@ tags: [person]
 
 ## Overview
 
+### Between the dead and the living — Numbers 16:41–50
+
+Aaron runs into the assembly with his censer at Moses’ command, makes atonement, and stands
+between the dead and the living (46–48). The priest whose office was contested now serves the
+people who accuse him. He returns to Moses only after the plague has stopped (50).
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Aaron is accused alongside Moses and summoned with his censer. He joins Moses in pleading against
 indiscriminate destruction (22). The final memorial restricts incense approach to his offspring
-(40); the intercession with incense in 16:41–50 remains the next unit.
+(40); the intercession with incense follows in
+[[Aaron Stands Between the Dead and the Living]].
 
 See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
 
@@ -651,6 +660,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

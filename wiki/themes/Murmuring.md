@@ -38,6 +38,14 @@ separating the two. **Whether they are one root or two is debated** (reported, n
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The next day’s complaint recasts the preceding judgment as killing by Moses and Aaron (41).
+The narrator’s account in 16:28–35 attributes the extraordinary judgment to Yahweh; the
+accusation contradicts that account and must not be adopted as the narrative verdict.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 **Before the word: the complaint at the sea.** The first time the people turn on Moses the verb is not
 used: *"Because there were no graves in Egypt, have you taken us away to die in the wilderness?"* (14:11).
 **It is the complaint without the name**, and its answer was *"Stand still, and see the salvation of
@@ -118,6 +126,8 @@ applies, since Moses does not redirect anyone. Verse 36 adds a new form, a leade
 murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

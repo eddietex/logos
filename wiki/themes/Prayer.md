@@ -31,6 +31,14 @@ phrase for public worship rather than for petition — see
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+Moses and Aaron fall on their faces (45), but no words of prayer are supplied. Moses then
+speaks to Aaron, who makes atonement with incense. The intercessory setting should not be
+turned into an invented petition or a claim that incense here is explicitly called prayer.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 **Genesis 4:26 — worship before petition.** *"Then men began to call on Yahweh's name."* The first
 religious act humanity performs collectively is invocation, and Genesis says nothing about what was
 asked for.
@@ -242,6 +250,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

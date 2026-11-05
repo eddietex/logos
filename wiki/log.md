@@ -21202,3 +21202,27 @@ Raw sources and harness instructions are unchanged. No unresolved link issue.
 Validation: `scripts/link-check.sh` exits 0, with no wrapped links or unexpected dangling
 targets (58 expected not-yet-started book pages). `git diff --check` is clean.
 Authored by Codex in one unattended invocation.
+
+## [2026-11-04] ingest | Numbers 16.41-50 — Aaron Stands Between the Dead and the Living
+
+Ingested the next planned pericope in unattended mode; boundary unchanged. The renewed
+accusation, appearing glory, threatened destruction, Aaron’s urgent incense atonement, and
+14,700 additional deaths are distinguished from the preceding rebellion. The passage records
+the tension between the congregation’s accusation and the narrator’s attribution of judgment,
+and between incense atonement here and blood applications in Leviticus, without inventing a
+prayer, repentance, disease diagnosis, or resurrection.
+
+Created two pages: the passage and [[Incense Preserving Life - Leviticus 16 and Numbers 16]].
+Revised 23 existing content pages: Numbers, four people (God, Moses, Aaron, and Korah), thirteen
+themes, two connections, and two earlier passages. Updated six index/dashboard pages plus this
+log (30 existing pages revised overall). No named campsite is supplied; the Tent and camp remain
+covered by the dwelling and wilderness themes, with no new place or collective-person page.
+Numbers now stands at 26 / 54 pericopes. Type-based totals are 297 passages, 215 people,
+113 places, 87 themes, and 673 connections. The dashboard’s prior 209-person figure was stale;
+this pass created no person pages and corrected the total to the 215 already present.
+
+All new quotations were copied from stored WEB Numbers 16. The Leviticus comparison was checked
+against stored WEB Leviticus 16:12–19. No new source-language claims or outside-book quotations
+were introduced; raw files were unchanged. No harness or workflow changes were needed.
+`scripts/link-check.sh` passed both checks, with 58 expected unopened-book targets and no
+unexpected dangling or wrapped links. No unresolved issue. Authored by Codex.

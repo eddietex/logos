@@ -55,6 +55,14 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The Tent is the point of appearance and divine speech (42–45), and the place to which Aaron
+returns (50). Fire is taken from the altar into the assembly for atonement; the scene moves
+from the sanctuary threshold to the endangered people and back.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The lamps stand outside the veil in the Tent of Meeting (3), while bread is arranged
@@ -455,6 +463,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

@@ -20,6 +20,16 @@ ransom, substitution — are interpretations, and this page names them as such w
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The WEB explicitly calls Aaron’s act with incense atonement (46–47). No new slaughter or blood
+application is narrated in this emergency rite. This qualifies any universal claim that every
+narrated act of atonement must itself include a blood application; it does not erase the blood
+rites of Leviticus 16–17. The stated result here is the stopping of the plague, not an explicit
+pronouncement of forgiveness.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The Jubilee trumpet sounds on the Day of Atonement (9). The date links restoration with the annual sacred calendar, but the unit supplies no additional atonement ritual and does not say the trumpet itself makes atonement.
@@ -283,6 +293,8 @@ Atonement is made *for* the Levites with bulls (12) and by Aaron (21). Then the 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

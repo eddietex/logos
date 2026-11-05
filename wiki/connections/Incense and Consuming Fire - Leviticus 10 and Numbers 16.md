@@ -6,6 +6,7 @@ tags: [connection]
 # Incense and Consuming Fire - Leviticus 10 and Numbers 16
 
 ## Passages involved
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50
 - [[Nadab and Abihu and the Strange Fire]]
 - [[The Rebellion of Korah]]
 
@@ -23,6 +24,11 @@ surviving son named in Leviticus 10:6, receives the task of recovering the cense
 16:36–39.
 
 Source: stored WEB in `raw/bible/Numbers.md` and, where cited, `raw/bible/Leviticus.md`.
+
+Numbers 16:41–50 supplies the deliberate reversal: Aaron takes altar fire and incense, runs
+into the assembly, and makes atonement that stops the plague. Incense is not inherently lethal
+or an independent safeguard. The contrast concerns its use in the narrative: the disputed
+approach of the 250 and Aaron’s rescue at Moses’ command.
 
 ## Significance
 

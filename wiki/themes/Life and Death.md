@@ -102,6 +102,13 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+Aaron stands between the dead and the living (48). The stopping of the plague preserves
+those still alive; the text describes no resurrection of the 14,700 who have died.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 The man’s death follows a specific divine sentence and communal execution (35–36).
@@ -686,6 +693,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

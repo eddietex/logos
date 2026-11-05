@@ -22,6 +22,14 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+Aaron’s urgent action benefits his accusers (41, 47). This is a thematic reading of rescue
+through priestly service, not a claim about a Hebrew mercy term or a narrated emotion.
+Preservation of the survivors coexists with the death of 14,700.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Leaving food for the poor and foreigner and refusing to abuse deaf or blind people (9–10, 14) give
@@ -276,6 +284,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

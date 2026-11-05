@@ -46,6 +46,14 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+Unlike the blood applications of Leviticus 16:14–19, Numbers 16:46–48 narrates incense and
+altar fire in an act the WEB calls atonement, without a new blood application. This is a
+difference between narrated rites, not a claim that the whole sanctuary system is bloodless.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### Field and community — Leviticus 19:19–37
 
 Eating meat with blood still in it is prohibited (26), continuing the food restriction already
@@ -341,6 +349,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

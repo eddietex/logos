@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Between the dead and the living — Numbers 16:41–50
+
+Yahweh appears in glory and announces judgment on the renewed assembly against Moses and Aaron
+(42–45). Moses attributes the spreading plague to his wrath (46); the narrative then records its
+cessation through Aaron’s atonement (47–50). Judgment and preservation belong to the same scene.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Moses announces that Yahweh will disclose his chosen servant. Yahweh appears in glory, warns of
@@ -3164,6 +3172,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

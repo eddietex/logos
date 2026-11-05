@@ -42,6 +42,14 @@ English, not an unverified Hebrew word search. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The cloud covers the Tent and Yahweh’s glory appears as the congregation gathers against
+Moses and Aaron (42). Visible presence here accompanies a threat of judgment, not automatic
+approval of the assembled community.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 **Exodus traces a movement of the glory — appearing, settling, filling.**
 
 | | Where | What the text says |
@@ -183,6 +191,8 @@ makes having seen it the ground of the charge (22). See
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

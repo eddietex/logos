@@ -90,6 +90,14 @@ has been argued.
 
 ## Development across Scripture
 
+### Between the dead and the living — Numbers 16:41–50
+
+The renewed accusation follows the warning memorial of 16:40. No confession or repentance
+is reported before Aaron makes atonement. This narrative rescue should not be converted into
+a general sacrificial permission for the high-handed offense described in Numbers 15:30–31.
+
+See [[Aaron Stands Between the Dead and the Living]]. Source: stored WEB Numbers 16:41–50; comparisons as cited.
+
 ### The tassels — Numbers 15:37–41
 
 The warning against following heart and eyes addresses the direction of desire (39).
@@ -599,6 +607,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

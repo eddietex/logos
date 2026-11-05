@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Aaron Stands Between the Dead and the Living]] (16:41–50) turns the defended
+priesthood toward rescue: Aaron’s incense stops the plague among his accusers, though 14,700
+have died. The repeated complaint leads to atonement as well as judgment.
+
+
 [[The Rebellion of Korah]] (16:1–40) joins a challenge to priestly access with an accusation
 of failed leadership. Intercession preserves the larger congregation, earth and fire judge the
 rebels, and their censers become an altar memorial guarding Aaron’s priesthood.
@@ -119,7 +124,7 @@ merge, or reorder them freely.
 - [x] [[The Sabbath Breaker]] — Numbers 15:32–36
 - [x] [[The Tassels]] — Numbers 15:37–41
 - [x] [[The Rebellion of Korah]] — Numbers 16:1–40
-- [ ] Aaron Stands Between the Dead and the Living — Numbers 16:41–50
+- [x] [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50
 - [ ] Aaron's Rod Buds — Numbers 17:1–13
 - [ ] The Duties and Portions of Priests and Levites — Numbers 18:1–32
 - [ ] The Red Heifer — Numbers 19:1–22
