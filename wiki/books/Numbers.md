@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Red Heifer]] (19:1–22) supplies purification from human-death contamination:
+stored ashes and water restore cleanness, while refusal of purification defiles the sanctuary.
+The rite’s preparers themselves undergo temporary uncleanness.
+
 [[The Duties and Portions of Priests and Levites]] (18:1–32)
 joins sanctuary responsibility to material provision: priestly portions and Levite tithes
 support assigned service, while the Levites themselves give the best tenth to Aaron.
@@ -135,7 +139,7 @@ merge, or reorder them freely.
 - [x] [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50
 - [x] [[Aaron's Rod Buds]] — Numbers 17:1–13
 - [x] [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32
-- [ ] The Red Heifer — Numbers 19:1–22
+- [x] [[The Red Heifer]] — Numbers 19:1–22
 - [ ] The Waters of Meribah — Numbers 20:1–13
 - [ ] Edom Refuses Passage — Numbers 20:14–21
 - [ ] The Death of Aaron — Numbers 20:22–29
@@ -163,6 +167,10 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Life and Death]] — the red heifer and purification (19:1–22).
+
+- [[Sacrifice and Offering]] — the red heifer and purification (19:1–22).
 
 - [[Tithing]] — Levi’s support for Tent service, with a tenth returned to Aaron (18:21–32)
 - [[Covenant]] — the lasting priestly grant described as a covenant of salt (18:19)

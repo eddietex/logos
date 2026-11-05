@@ -80,6 +80,8 @@ trespass-offering lamb, oil, bodily applications, and priestly atonement.
 
 ## Cross-references
 
+- [[Cleansing Beyond the Camp - Leviticus 14 and Numbers 19]] — comparison with [[The Red Heifer]].
+
 - [[The Nazirite Vow]] — Numbers 6:9–12, a seventh-day shaving and a trespass lamb, as at 14:9, 12.
 - [[Bodily Discharges and Cleansing]] — compare the seven-day count and eighth-day offerings; the cleansing procedures differ.
 

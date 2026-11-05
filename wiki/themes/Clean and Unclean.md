@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+Corpse contact, a death-tent, bones, and graves produce seven-day impurity (11–16).
+Ash-water sprinkling on days three and seven, followed by washing and evening, restores
+cleanness (17–19). Preparers also incur temporary uncleanness (7–10). Contact itself is
+not called moral wrongdoing; refusing purification brings cutting off (13, 20).
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### Uncleanness and the holy food — Leviticus 22:1–16
 
 The conditions of Leviticus 11–15 return as bars to eating holy food: skin disease, discharge,
@@ -449,6 +458,8 @@ Miriam becomes *məṣōraʿat* with no word of a priest. The seven days and *s�
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

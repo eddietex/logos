@@ -21289,3 +21289,31 @@ Validation: type-based counts and unique passage filename checked.
 `scripts/link-check.sh` passes with 58 expected unopened-book targets, no wrapped links,
 and no unexpected dangling targets. `git diff --check` is clean.
 No unresolved operational issue.
+
+## [2026-11-04] ingest | Numbers 19.1-22 — The Red Heifer
+
+Ingested the existing Numbers 19:1–22 unit in auto mode as [[The Red Heifer]];
+no queue boundary changed. Preparation and application remain one pericope.
+Created the passage and two connections:
+[[Ashes and Conscience - Numbers 19 and Hebrews 9]] and
+[[Cleansing Beyond the Camp - Leviticus 14 and Numbers 19]].
+Revised God, Moses, Aaron, and Eleazar; seven themes; three earlier passage
+cross-references; Numbers and the book index; the affected people, theme, and
+connection indexes; and the dashboard counts. Total: 3 pages created, 22 revised
+including this log (25 wiki files). Numbers is now 29 / 54 pericopes;
+wiki totals are 300 passages, 215 people, 113 places, 87 themes, 679 connections.
+
+The passage preserves the distinction between corpse impurity and moral wrongdoing,
+the prescribed temporary uncleanness of the rite’s preparers, and the separate
+clauses for the sprinkler and water-toucher in verse 21. No named geographical
+site is supplied, so no place page was created. No unnamed ritual functionary was
+made into a separate person page. No symbolic explanation of the red color or
+source-language assertion was supplied. No new contradiction between existing
+pages was identified; the rite’s internal tension is explicitly discussed.
+
+Source: Numbers 19 copied from immutable stored WEB; comparisons checked against
+stored Leviticus 14 and Numbers 5 and 9. Hebrews 9:13–14 was verified from
+bible-api.com’s WEB endpoint on this date and paraphrased in its connection;
+no additional raw book was fetched. Link checks passed with 58 expected
+not-yet-started book targets and no wrapped or unexpected dangling links.
+Authored by Codex. No unresolved issue.

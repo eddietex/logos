@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+The perpetual statute extends to Israel and the resident foreigner (10). Failure to
+receive purification leaves impurity in place and brings cutting off (13, 20);
+seven days of waiting alone are insufficient (12, 19).
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The budding rod — Numbers 17:1–13
 
 Moses carries out the command to retain the rod, with explicit obedience affirmed at verse 11.
@@ -917,6 +925,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

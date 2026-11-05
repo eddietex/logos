@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+Eleazar oversees the heifer and sprinkles its blood toward the Tent (3–4). Gathering
+ashes and applying the water require clean persons, not explicitly priests (9, 18).
+The officiating priest himself becomes temporarily unclean (7).
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The budding rod — Numbers 17:1–13
 
 The chosen rod belongs to Aaron for Levi (3, 8). In the context of Numbers 16:9–10, 40, this
@@ -554,6 +562,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

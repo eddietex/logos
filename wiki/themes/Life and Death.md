@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+Death affects the living through contact with a corpse, bone, grave, or death-tent
+(11–16). Purification restores the living person’s cleanness; the rite promises no
+revival of the dead and does not explain death’s origin.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The budding rod — Numbers 17:1–13
 
 The retained rod is expressly intended to prevent deaths (10), yet Israel concludes in terror
@@ -709,6 +717,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

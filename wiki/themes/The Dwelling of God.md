@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+The blood is sprinkled toward the Tent, while the heifer burns and its ashes are stored
+outside the camp (3–9). Unpurified corpse contamination defiles Yahweh’s sanctuary
+(13, 20), joining household and field life to the protection of divine presence.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The budding rod — Numbers 17:1–13
 
 The rods are laid before the testimony where Yahweh meets Moses (4, 7), and Aaron’s is retained
@@ -479,6 +487,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

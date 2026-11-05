@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The red heifer — Numbers 19:1–22
+
+Moses receives the statute together with Aaron and is to communicate the required heifer
+to Israel (1–2). The text prescribes a rite; it does not narrate Moses performing it.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### Duties and portions — Numbers 18:1–32
 
 Yahweh addresses Moses at verse 25 to communicate the Levites’ duty to offer a tenth of
@@ -1237,6 +1244,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

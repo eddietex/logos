@@ -87,6 +87,8 @@ verses 2–4.
 
 ## Cross-references
 
+- [[Cleansing Beyond the Camp - Leviticus 14 and Numbers 19]] — comparison with [[The Red Heifer]].
+
 - [[The Levites and the Firstborn Counted]] and [[The Camp Around the Tent]] — the camp being cleared.
 - [[Examining Diseases of the Skin]] — Leviticus 13:46, the leper's dwelling outside the camp.
 - [[Bodily Discharges and Cleansing]] — Leviticus 15, which regulates discharges and names no camp.

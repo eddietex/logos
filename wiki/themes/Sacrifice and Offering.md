@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+The unblemished, never-yoked red heifer is burned outside the camp; its ashes are kept
+for purification water (2–10). The WEB calls it a sin offering (9, 17), but this rite
+is not an ordinary altar meal or a narrated confession of personal wrongdoing.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### Acceptable victims — Leviticus 22:17–33
 
 Vow and freewill burnt offerings must be unblemished males (18–19), as at Leviticus 1:3; peace
@@ -642,6 +650,8 @@ Every burnt offering and sacrifice in the land must come with flour, oil, and wi
 tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

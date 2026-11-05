@@ -88,6 +88,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[Cleansing Beyond the Camp - Leviticus 14 and Numbers 19]] — comparison with [[The Red Heifer]].
+
 - [[Wait, That I May Hear - The Cases Moses Took to Yahweh]]
 - [[The Second Month - Numbers 9 and Hezekiah's Passover]]
 - [[Kept in the Wilderness - The Passovers of Egypt, Sinai, and Gilgal]]

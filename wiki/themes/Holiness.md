@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The red heifer — Numbers 19:1–22
+
+Failure to purify corpse impurity is said to defile the tabernacle and sanctuary
+(13, 20), although entry into the sanctuary is not described. The law protects holy
+presence through purification as well as through exclusion.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The budding rod — Numbers 17:1–13
 
 Israel fears that everyone who approaches the tabernacle dies (12–13). This is the people’s
@@ -643,6 +651,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

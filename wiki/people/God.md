@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The red heifer — Numbers 19:1–22
+
+Yahweh addresses Moses and Aaron with a lasting provision for corpse impurity. The remedy
+serves Israel and the resident foreigner; refusal to be purified defiles his sanctuary (1–2, 10, 20).
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The budding rod — Numbers 17:1–13
 
 Yahweh specifies the test, names its result as his choice, and orders the rod retained to end
@@ -3179,6 +3186,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

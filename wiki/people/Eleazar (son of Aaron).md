@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The red heifer — Numbers 19:1–22
+
+Eleazar supervises the killing and burning outside the camp and sprinkles blood seven times
+toward the Tent (3–6). The priest must then wash and remains unclean until evening (7).
+Authorized service can entail temporary impurity without being disobedience.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Eleazar collects the bronze censers after the burning. They are beaten into an altar covering to
@@ -219,6 +227,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

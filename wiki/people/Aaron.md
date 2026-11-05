@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The red heifer — Numbers 19:1–22
+
+Aaron receives the statute alongside Moses (1), but Eleazar is the priest specifically
+assigned to supervise the heifer and sprinkle its blood (3–4). Aaron is not its named officiant.
+
+See [[The Red Heifer]]. Source: stored WEB Numbers 19.
+
 ### Duties and portions — Numbers 18:1–32
 
 Yahweh addresses Aaron directly about responsibility for the sanctuary and priesthood (1–24).
@@ -676,6 +683,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Red Heifer]] — Numbers 19:1–22.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
