@@ -61,6 +61,7 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[Depart from the Mountain - Exodus 33, Numbers 10, and Deuteronomy 1.6-8]] — the departure from Horeb as ordered (Exodus 33:1), narrated (Numbers 10:11–13), and remembered here.
 - [[From the River of Egypt to the Euphrates]] — Genesis 15:18 and the maximal land formula Deuteronomy 1:7 repeats.
 - [[The Words of Moses Beyond the Jordan]] — the narrator's frame (1:1–5) that leads into this speech.
+- [[Judges Appointed for the People]] — the next unit (1:9–18), what Moses did *at that time*.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11, the same three-name oath formula recalled in judgment.
 
 ## Notes

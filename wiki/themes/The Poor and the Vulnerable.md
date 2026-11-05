@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+The judges hear cases between a man and his brother *and the foreigner who is living with him* (16), and *the small and the great alike* (17). The weaker party is protected by an equal hearing, not by favor — compare Exodus 23:3 and Leviticus 19:15.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Numbers 27 protects daughters without brothers against loss of their father's inheritance. Numbers
@@ -425,6 +431,7 @@ treats a man (2); it adds no protection and no further burden.
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the foreigner and *the small* in the same court.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 

@@ -17,7 +17,7 @@ tags: [connection]
 - **Deuteronomy 1:9–18** — Moses to Israel: *"I am not able to bear you myself alone"* (1:9); *"Take wise men of
   understanding and well known according to your tribes, and I will make them heads over you"* (1:13); the people:
   *"The thing which you have spoken is good to do"* (1:14); *"The case that is too hard for you, you shall bring to
-  me"* (1:17) (WEB; *not yet ingested*)
+  me"* (1:17) — [[Judges Appointed for the People]]
 - **Acts 6:2–4** — the twelve: *"It is not appropriate for us to forsake the word of God and serve tables. Therefore
   select from among you, brothers, seven men of good report … But we will continue steadfastly in prayer and in the
   ministry of the word"* (WEB; *not yet ingested*)
@@ -77,6 +77,15 @@ and names no precedent**; the likeness is structural, and the wiki notes it with
 comes with *please kill me*. The seventy are never shown carrying anything, as Numbers 11:30 only returns them to the camp. And the first
 sign of the gift is prophecy, not judging, so nothing in the chapter connects them to Exodus 18's courts. The wiki's *different body*
 stands.
+
+**Deuteronomy 1 now ingested.** [[Judges Appointed for the People]] confirms the Deuteronomy column
+against the stored WEB and adds two observations. Moses breaks off the complaint to pray that Israel
+become *"a thousand times as many as you are"* (1:11), so the burden is not set against the promise.
+And Exodus 18:22's division of *"every great matter"* and *"every small matter"* becomes, in
+Deuteronomy 1:17, *"you shall hear the small and the great alike"* — the same pair applied to the
+parties rather than to the cases, while the hard case still goes up to Moses. Deuteronomy's charge
+against partiality is followed further at
+[[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]].
 
 ## Significance
 

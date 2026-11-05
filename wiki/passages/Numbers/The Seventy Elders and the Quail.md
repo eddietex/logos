@@ -140,7 +140,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The People Refuse the Land]] — Numbers 14:22; *these ten times*
 - Numbers 27:18 — Joshua, *a man in whom is the Spirit* *(stored WEB, not yet ingested)*
 - Numbers 33:16–17 — the journey list, with Kibroth Hattaavah and Hazeroth *(stored WEB, not yet ingested)*
-- Deuteronomy 1:9–12 — *I am not able to bear you myself alone* *(WEB checked, not yet ingested)*
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–12; *I am not able to bear you myself alone*
 - Deuteronomy 5:21 — *Neither shall you desire*, the same verb as verse 4 *(WEB and WLC checked, not yet ingested)*
 - Deuteronomy 9:22 — *at Kibroth Hattaavah, you provoked Yahweh to wrath* *(WEB checked, not yet ingested)*
 - Psalm 78:26–31 — the quail remembered *(WEB and WLC checked, not yet ingested)*

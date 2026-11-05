@@ -29,6 +29,12 @@ costly.
 
 ## Development across Scripture
 
+### Judges appointed — Deuteronomy 1:9–18
+
+In the middle of saying Israel is too many to carry, Moses prays that Yahweh make them *a thousand times as many as you are, and bless you, as he has promised you* (11). The burden is not set against the promise.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The third blessing pictures watered gardens, abundant seed, and an exalted kingdom; 24:9 extends
@@ -377,6 +383,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; Moses' prayer for a thousandfold increase (11).
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

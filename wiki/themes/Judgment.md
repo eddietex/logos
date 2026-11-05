@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+Moses' charge to the first judges: hear cases between brothers and with the resident foreigner, judge righteously, show no partiality, hear small and great alike, fear no man, *for the judgment is God's*, and bring the case too hard to Moses (16–17). See [[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]].
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Weapons, hostility, ambush, and absence of hostile intent distinguish the cases (16–24). The congregation judges between killer and avenger; a single witness cannot support a death sentence (30). Refuge preserves life pending judgment and supplies conditional protection afterward.
@@ -749,6 +755,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 
 ## Key passages
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; impartial judges, because *the judgment is God's*.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.

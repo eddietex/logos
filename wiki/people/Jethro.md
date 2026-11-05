@@ -102,6 +102,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; **absent.** The judges are recalled as Moses' own proposal and Jethro is not named — [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - [[Moses Flees to Midian]] — Exodus 2:16–21; **as Reuel, the priest of Midian.** Rebukes his
   daughters for leaving their rescuer at the well, feeds him, keeps him, and gives him Zipporah —
   the father of the house in the third betrothal-at-the-well scene, the first not kin to the groom

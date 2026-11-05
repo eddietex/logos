@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:16–17; the first charge to Israel's judges against partiality. See [[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]].
+
 - [[The House of Mourning]] — Ecclesiastes 7:7.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22.

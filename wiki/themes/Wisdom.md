@@ -55,6 +55,12 @@ close to the book's whole point about who may speak for the tradition. See
 
 ## Development across Scripture
 
+### Judges appointed — Deuteronomy 1:9–18
+
+The qualification for leading and judging the tribes is to be *wise men of understanding and well known* (13, 15) — where Exodus 18:21 had asked for men who fear God and hate unjust gain.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 - **Genesis 3:6** — *"a tree to be desired to make one wise"*: wisdom as the first thing wanted
   wrongly. See [[The Fall]].
 - **Genesis 41:33–39** *(not yet ingested)* — Joseph as the wise administrator, the tradition's
@@ -794,6 +800,7 @@ comparison passages identified on that page.
 
 ## Key passages
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *wise men of understanding* as the qualification for office.
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; The wise teacher commended; study remains costly.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; acting wisely without foreknowledge of what will prosper.

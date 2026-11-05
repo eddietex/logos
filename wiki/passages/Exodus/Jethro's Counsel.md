@@ -462,7 +462,7 @@ third tradition** is set out on [[Jethro]].
   [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - Numbers 20:14 — *"all the travail that has happened to us"* *(not yet ingested)*
 - Numbers 24:14 — Balaam, *"I will inform you"* (*ʾîʿāṣəkā*) *(not yet ingested)*
-- Deuteronomy 1:9–18 — the judges retold, with no Jethro —
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges retold, with no Jethro —
   [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]]
 - Deuteronomy 16:18–19 — judges in every gate; no bribe *(not yet ingested)*
 - Judges 1:16; 4:11 — the Kenites, *"Moses' brother-in-law"*, Hobab *(not yet ingested)*

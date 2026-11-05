@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+He recalls telling Israel *I am not able to bear you myself alone* (9) — the sentence Jethro spoke to him in Exodus 18:18 and he spoke to God in Numbers 11:14, here his own and spoken to the people. He proposes the tribal heads, the people consent (14), he appoints captains of thousands to tens (15), charges the judges, and keeps the case too hard for them (17). Jethro is not mentioned.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 His direct speech begins, and his first words are Yahweh's, quoted (6–8). He says Yahweh spoke *to us*, placing himself among those addressed at Horeb, though Numbers 26:64–65 says few of that generation remained.
@@ -1426,6 +1432,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges recalled as his own proposal, with the people's consent.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; the address begins with a quotation of Yahweh's word at Horeb.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+Moses cannot carry the people alone (9, 12) and shares the work with tribal heads, but keeps the case too hard for them: *you shall bring to me, and I will hear it* (17). Deuteronomy 17:8–9 later assigns that function to the priests and *the judge who shall be in those days*.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The narrator distinguishes the source of the command, Yahweh, from its human speaker, Moses (3).
@@ -481,6 +487,7 @@ and [[The People Refuse the Land]].
 
 ## Key passages
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the burden shared, the hard case kept.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses asks for a leader; inquiry passes to Eleazar.

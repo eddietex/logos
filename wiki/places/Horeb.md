@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+Not named in the unit, but *at that time* (9, 16, 18) follows directly from the departure command at Horeb (1:6–8), so the speech places the appointment of judges at the mountain, before the march to Kadesh Barnea (19).
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 Moses remembers Yahweh's word there: *You have lived long enough at this mountain* (6). Deuteronomy names the mountain Horeb; the departure itself is narrated at Numbers 10:11–13 without this wording.
@@ -627,6 +633,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges appointed *at that time*, before the departure.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6; the stay at the mountain declared long enough.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 

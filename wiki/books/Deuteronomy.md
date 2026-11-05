@@ -25,6 +25,11 @@ a quotation of Yahweh's word at Horeb: the stay at the mountain is over, the lan
 Lebanon and the Euphrates, and it is *set before you* on the strength of the oath to Abraham,
 Isaac, and Jacob. The retrospect that follows measures Israel against that command.
 
+Before the march, [[Judges Appointed for the People]] (1:9–18) recalls how Moses, unable to carry so
+many alone, had the tribes supply wise and known men and made them heads and judges, charged to hear
+small and great alike *"for the judgment is God's"*. Exodus 18 credits the plan to Jethro;
+Deuteronomy tells it as Moses' own proposal, approved by the people.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -42,11 +47,11 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **2 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **3 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
-- [ ] Judges Appointed for the People — Deuteronomy 1:9–18
+- [x] [[Judges Appointed for the People]] — Deuteronomy 1:9–18
 - [ ] The Spies and the Refusal to Go Up — Deuteronomy 1:19–33
 - [ ] The Sentence and the Presumptuous Ascent — Deuteronomy 1:34–46
 - [ ] Around Seir and Past Moab and Ammon — Deuteronomy 2:1–23

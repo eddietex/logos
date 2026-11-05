@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+Yahweh has multiplied Israel *as the stars of the sky* (10), and Moses prays he will make them a thousand times more and bless them *as he has promised* (11). The judges are told to fear no man *for the judgment is God's* (17): the verdict is his, not theirs.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 Moses' speech opens by quoting Yahweh's word at Horeb (6–8). Yahweh ends the stay at the mountain, names the land region by region, declares it already set before Israel, and grounds the command in what he himself swore to Abraham, Isaac, and Jacob.
@@ -3380,6 +3386,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; multiplier of Israel and owner of *the judgment* the courts give.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; the speaker Moses quotes, who ends the stay at Horeb and swore the land.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

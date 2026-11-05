@@ -55,6 +55,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Judges appointed — Deuteronomy 1:9–18
+
+*You shall not be afraid of the face of man, for the judgment is God's* (17). Fear of man is ruled out because the verdict belongs to God; the qualification Exodus 18:21 stated as *able men which fear God* appears here as the judge's freedom from every other fear.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 WEB's *have reverence for my sanctuary* (2) is *tîrāʾû*, the verb *fear* (MAM), and its object here is a
@@ -392,6 +398,7 @@ and forbidden, and it is set against rebelling against Yahweh. See [[The People 
 
 ## Key passages
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *not afraid of the face of man*.
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.

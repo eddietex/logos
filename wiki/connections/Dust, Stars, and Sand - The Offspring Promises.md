@@ -28,6 +28,7 @@ tags: [connection]
   can't be counted because there are so many."* — [[Wrestling at the Jabbok]]
 - **Numbers 23:10** — *"Who can count the dust of Jacob, or count the fourth part of Israel?"*
 - **Deuteronomy 1:10; 10:22; 1 Kings 4:20; Hebrews 11:12** — the promise reported as fulfilled.
+  Deuteronomy 1:10 — [[Judges Appointed for the People]]
 
 ## Analysis
 

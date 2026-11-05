@@ -22180,3 +22180,38 @@ All quotations were copied from stored WEB Deuteronomy, Numbers, Exodus, and Gen
 Greek claim was introduced. No raw text, schema, or skill changed. scripts/link-check.sh exits 0
 (57 expected not-yet-started book targets). Counts: 9 books started, 8 complete; 327 passages,
 251 people, 205 places, 87 themes, 713 connections.
+
+## [2026-11-05] ingest | Deuteronomy 1.9-18 — Judges Appointed for the People
+
+Ingested Moses' recollection of the judges with the planned boundary unchanged: unable to bear a
+people multiplied *as the stars of the sky*, he prays for a thousandfold increase, has the tribes
+supply wise, understanding, well-known men, makes them captains of thousands to tens, and charges
+them to judge righteously, hear small and great alike, fear no man *for the judgment is God's*, and
+bring the case too hard for them to him.
+
+Created the passage and the connection
+[[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]], a thread on the law's
+charge against partiality (Exodus 23:3, 6; Leviticus 19:15; Deuteronomy 1:16–17; 10:17; 16:18–19;
+Job 34:19; Proverbs 24:23). Two pages created.
+
+Revised God, Moses, Jethro; Horeb; Judgment, Wisdom, Mediation and Advocacy, Blessing, The Poor and
+the Vulnerable, The Fear of God, Remembrance; the connections
+[[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] (Deuteronomy column now
+linked and checked against stored WEB, with a new paragraph), [[Dust, Stars, and Sand - The Offspring Promises]],
+and [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]]; reciprocal
+cross-references on Jethro's Counsel, The Seventy Elders and the Quail, and Leave Horeb and Possess
+the Land; plus the book page, book status, three connections subindexes, and counts.
+
+Judgment calls: no page for the tribal heads or *officers* as a group; Horeb touched though not named
+in the verses, because *at that time* follows directly from 1:6–8; the Exodus 18 / Deuteronomy 1
+disagreement over whose plan it was is left unharmonized, as the existing connection already does.
+Noted that Exodus 18:22's *great* and *small* matters become, in Deuteronomy 1:17, *small and great*
+parties heard alike — an observation on WEB wording only. Theme sections for Blessing, Wisdom, and
+The Fear of God were placed under *Development across Scripture* so their definitions stay first.
+
+All quotations were copied from stored WEB Deuteronomy, Exodus, Leviticus, Job, Proverbs, and
+Genesis; no new Hebrew or Greek claim was introduced. The connection's 2 Chronicles 19:6–7 and James
+2:1–9 references are paraphrases from memory, marked unchecked on the page. No raw text, schema, or
+skill changed. scripts/link-check.sh exits 0 (57 expected not-yet-started book targets).
+Counts: 9 books started, 8 complete; 328 passages, 251 people, 205 places, 87 themes,
+714 connections.

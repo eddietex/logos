@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judges appointed — Deuteronomy 1:9–18
+
+Moses recalls his own words and acts *at that time* (9, 16, 18): the proposal, the people's consent, the appointment, and the charge. The retelling omits Jethro, whom Exodus 18 credits with the plan.
+
+See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 Moses' speech begins by recalling a word Yahweh spoke at Horeb almost forty years earlier (6). He compresses the departure into a single remembered command and gives no date, cloud, or angel; recollection selects as well as preserves.
@@ -471,6 +477,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges remembered as Moses' own act.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
