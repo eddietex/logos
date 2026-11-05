@@ -87,7 +87,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:9; the ram's horn on the Day of Atonement
 - [[The March from Sinai]] — Numbers 10:11–28; the first march, on which no trumpet is mentioned
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:1; a day of *tərûʿâ* in the seventh month
-- Numbers 31:6 — *the trumpets for the alarm* in Phinehas's hand *(stored WEB, not yet ingested)*
+- [[The War Against Midian]] — Numbers 31:6, *the trumpets for the alarm* in Phinehas's hand
 - 2 Chronicles 13:12–15 — priests sound the alarm, and God strikes *(WEB checked, not yet ingested)*
 - 2 Chronicles 29:27–28 — trumpets through the burnt offering *(WEB checked, not yet ingested)*
 - Joel 2:1, 15 — alarm and assembly on the ram's horn *(WEB checked, not yet ingested)*

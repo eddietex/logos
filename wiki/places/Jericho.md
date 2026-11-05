@@ -20,6 +20,8 @@ Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
 
+- [[The War Against Midian]] — Numbers 31:1–54; the plains of Moab *by the Jordan at Jericho* (12).
+
 - [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.

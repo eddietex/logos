@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Two Silver Trumpets]] — Numbers 10:1–10
-- Numbers 31:6 — *the trumpets for the alarm* with Phinehas *(stored WEB, not yet ingested)*
+- [[The War Against Midian]] — Numbers 31:6, *the trumpets for the alarm* with Phinehas
 - 2 Kings 11:14 — trumpets at the crowning of Joash *(WEB checked, not yet ingested)*
 - 2 Kings 12:13 — trumpets among the temple vessels *(WEB checked, not yet ingested)*
 - 1 Chronicles 15:24; 16:6 — priests blow before the ark *(WEB checked, not yet ingested)*

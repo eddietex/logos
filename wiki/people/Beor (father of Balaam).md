@@ -25,6 +25,8 @@ this page retains the relationship qualifier.
 
 ## Appears in
 
+- [[The War Against Midian]] — Numbers 31:1–54; named in Balaam's patronymic at his death (8).
+
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

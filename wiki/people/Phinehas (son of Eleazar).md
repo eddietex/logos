@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The war against Midian — Numbers 31:1–54
+
+Phinehas goes with the twelve thousand *with the vessels of the sanctuary and the trumpets for the alarm
+in his hand* (6). The text does not say why he goes rather than his father, nor what the vessels were; he
+has no further act in the chapter.
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ### Baal Peor — Numbers 25:1–18
 
 Phinehas kills Zimri and Cozbi with a spear, stopping the plague (7–9). Yahweh calls this sharing
@@ -43,8 +51,11 @@ The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1
 - Born to [[Eleazar (son of Aaron)]] and a daughter of Putiel — Exodus 6:25,
   [[The Heads of the Fathers' Houses]]
 - The spear at Peor and the covenant of peace — Numbers 25:6–13; [[Baal Peor and the Zeal of Phinehas]]
+- With the army against Midian, holding the sanctuary vessels and trumpets — Numbers 31:6; [[The War Against Midian]]
 
 ## Appears in
+
+- [[The War Against Midian]] — Numbers 31:1–54; with the army, the sanctuary vessels, and the trumpets (6).
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

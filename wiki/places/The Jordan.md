@@ -71,6 +71,8 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[The War Against Midian]] — Numbers 31:1–54; the plains of Moab *by the Jordan at Jericho* (12).
+
 - [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.

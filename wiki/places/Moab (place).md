@@ -151,6 +151,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The War Against Midian]] — Numbers 31:1–54; the army returns *to the camp at the plains of Moab* (12).
 - [[Joshua Commissioned]] — Numbers 27:12–23; contextual setting; Abarim later placed in Moab.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

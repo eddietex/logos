@@ -58,6 +58,8 @@ open field. No geographical site is named; none is inferred for a place page.
 ## Cross-references
 - [[Ashes and Conscience - Numbers 19 and Hebrews 9]]
 - [[Cleansing Beyond the Camp - Leviticus 14 and Numbers 19]]
+- [[The War Against Midian]] — Numbers 31:19–24, soldiers and captives purified on the third and
+  seventh days, and metal purified with *the water for impurity*.
 
 ## Notes
 

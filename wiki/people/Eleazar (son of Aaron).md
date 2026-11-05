@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The war against Midian — Numbers 31:1–54
+
+Eleazar meets the returning army with Moses (13), gives the soldiers *the statute of the law* for
+purifying metal by fire and *the water for impurity* (21–24), receives the one-in-five-hundred levy as
+*Yahweh's wave offering* (29, 41), and with Moses brings the officers' gold into the Tent of Meeting (54).
+His son, not he, goes with the army.
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Joshua is set before Eleazar and the congregation (19, 22), and is to *stand before Eleazar the
@@ -269,6 +278,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The War Against Midian]] — Numbers 31:1–54; gives the purification statute; receives Yahweh's tribute.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Joshua set before him; inquiry by the Urim assigned to him.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

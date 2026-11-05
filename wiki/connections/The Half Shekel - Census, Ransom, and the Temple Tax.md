@@ -21,6 +21,9 @@ tags: [connection]
   Israel"*
 - **Matthew 17:24–27** — *"Doesn't your teacher pay the didrachma?"*; *"Therefore the children are
   exempt. But, lest we cause them to stumble …"*; a stater from a fish's mouth, *"for me and you"*
+- [[The War Against Midian]] — Numbers 31:48–54; after counting their men, *there lacks not one man of
+  us*, the officers bring gold *to make atonement for our souls before Yahweh*, and it goes into the Tent
+  *for a memorial for the children of Israel before Yahweh*
 
 ## Analysis
 
@@ -76,6 +79,13 @@ Numbers 1 commands a count and names no half shekel, no ransom, and no plague. I
 
 Numbers 3:47 uses the same shekel and the same *laggulgōlet*, for a different payment: five shekels for
 each firstborn with no Levite to match him. See [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]].
+
+**Numbers 31 repeats the pattern without the half shekel.** The officers report *wəlōʾ-nipqad mimmennû
+ʾîš*, *not one man of us is missing*, with *pāqad*, the census verb (31:49); they bring gold *ləkappēr
+ʿal-napšōtênû*, *to make atonement for our souls* (31:50); and Moses and Eleazar put it in the Tent *for
+a memorial for the children of Israel before Yahweh* (31:54) — the words of Exodus 30:16 (Miqra
+according to the Masorah; stored WEB). Numbers does not cite Exodus 30, and does not name what the
+atonement is for. The match of count, atonement, and memorial is the wiki's observation.
 
 ## Significance
 

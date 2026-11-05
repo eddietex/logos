@@ -595,6 +595,14 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### Priests in the war — Numbers 31
+
+Phinehas goes with the army holding the sanctuary vessels and the trumpets (6); Eleazar gives the
+purification statute (21–24) and receives Yahweh's share of the plunder (29, 41). The Levites receive one
+in fifty from the congregation's half (30, 47).
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Eleazar to inquire by the Urim for Joshua.
@@ -774,6 +782,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the Levites made ready, and set under the priests.
 - [[The Two Silver Trumpets]] — Numbers 10:8; the trumpets given to the priests by statute.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; the priest makes atonement
+- [[The War Against Midian]] — Numbers 31:1–54; Phinehas with the army; Eleazar's statute and portion.
 
 ## Related themes
 

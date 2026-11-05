@@ -457,6 +457,15 @@ Miriam becomes *məṣōraʿat* with no word of a priest. The seven days and *s�
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### Purification after battle — Numbers 31
+
+Killing a person or touching the slain makes the soldier unclean: the army and its captives stay outside
+the camp seven days and purify on the third and seventh days (19), as for corpse contact in Numbers 19.
+Metal goes through fire *and* the *water for impurity*; what cannot bear fire goes through water (21–23).
+A victorious army is not exempt.
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 
 - [[The Red Heifer]] — Numbers 19:1–22.
@@ -587,6 +596,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–22; cleansing as readiness for the Tent.
 - [[The Passover in the Second Year]] — Numbers 9:6–13; uncleanness that delays a duty but does not cancel it.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:10–15; Miriam leprous, and out seven days.
+- [[The War Against Midian]] — Numbers 31:1–54; soldiers, captives, and spoil purified.
 
 ## Related themes
 

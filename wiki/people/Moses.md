@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The war against Midian — Numbers 31:1–54
+
+Yahweh commands him to *avenge the children of Israel for the Midianites* and adds, *Afterward you shall be
+gathered to your people* (2): the war is the last campaign he directs. He calls it *Yahweh's vengeance on
+Midian* (3), sends a thousand from each tribe, and is angry with the officers for sparing the women,
+whom he holds responsible for Peor *through the counsel of Balaam* (14–16); he orders the boys and the
+women who had lain with a man killed (17–18). With Eleazar he divides the plunder and brings the
+officers' gold into the Tent *for a memorial* (54).
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ### Vows of Men and Women — Numbers 30:1–16
 
 Moses speaks the vow law to *the heads of the tribes of the children of Israel* (1): a man's vow binds,
@@ -1355,6 +1366,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The War Against Midian]] — Numbers 31:1–54; his last campaign; anger at the officers; the plunder divided.
 - [[Joshua Commissioned]] — Numbers 27:12–23; sentence recalled; asks for a successor and commissions Joshua.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

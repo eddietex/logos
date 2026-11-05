@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The war against Midian — Numbers 31:1–54
+
+Twelve thousand Israelites kill every male, the five kings, and Balaam, take the women, children,
+livestock, and goods, and burn the cities and encampments (7–11). Moses has the boys and the women who
+had lain with a man killed, because of Peor (15–17). The chapter reads as Midian's end, yet Judges 6:1
+has Yahweh deliver Israel *into the hand of Midian seven years* (WEB via bible-api.com); the wiki records
+both without harmonizing them.
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ### Baal Peor — Numbers 25:1–18
 
 Cozbi is the daughter of a Midianite leader. Yahweh commands hostility against the Midianites
@@ -75,6 +85,8 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 
 ## Appears in
 
+- [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance for Peor; five kings and Balaam killed.
+
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
@@ -125,5 +137,5 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - Jethro comes from Midian to the Mountain of God with Moses' family, counsels Moses, and returns to his own
   land — Exodus 18:1–27, [[Jethro's Counsel]]
 - Hobab, a Midianite, is asked to go with Israel from Sinai — Numbers 10:29–32, [[The March from Sinai]]
-- Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31
+- Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31, [[The War Against Midian]]
 - The raids Gideon ends — Judges 6–8

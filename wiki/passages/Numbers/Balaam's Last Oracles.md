@@ -95,6 +95,9 @@ destruction. Balaam and Balak part company (24:15–25).
 - [[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]]
 - [[A Man in Whom Is the Spirit of God]]
 - [[Amalek - From a Concubine's Son to Israel's First Enemy]]
+- [[The War Against Midian]] — Numbers 31:8, 16; after returning *to his place* (24:25), Balaam is killed
+  among Midian and named as the source of the counsel at Peor.
+- [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]]
 
 ## Notes
 

@@ -311,6 +311,15 @@ restate; Israel is to *afflict your souls* (29:7).
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### Gold to make atonement — Numbers 31
+
+After a count in which *not one man of us* is missing, the officers bring gold *ləkappēr ʿal-napšōtênû*,
+*to make atonement for our souls* (49–50; Miqra according to the Masorah), and it is laid up in the Tent
+*for a memorial* (54) — the terms of the census ransom at Exodus 30:12–16. What the atonement is for is
+not stated. See [[The Half Shekel - Census, Ransom, and the Temple Tax]].
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
@@ -380,6 +389,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:12, 19, 21; atonement for the Levites and by them.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; atonement for error, and none named for the high hand
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11; *to make atonement for you*, and the sin offering of atonement presupposed
+- [[The War Against Midian]] — Numbers 31:1–54; the officers' gold *to make atonement for our souls*.
 
 ## Related themes
 

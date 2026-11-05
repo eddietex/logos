@@ -19,6 +19,8 @@ tags: [connection]
 - 1 Samuel 15:3, 9 — *"utterly destroy all that they have"*; Saul and the people *"were not willing
   to utterly destroy them."* *(same)*
 - Ezekiel 44:29 — *"every devoted thing in Israel shall be theirs."* *(same)*
+- [[The War Against Midian]] — Numbers 31; a war of vengeance with no *ḥērem* vocabulary, whose plunder is
+  kept, divided, and levied.
 
 ## Analysis
 
@@ -57,6 +59,11 @@ setting, and neither can be shown to be the setting.
 **This does not settle the moral problem.** The war texts, including 1 Samuel 15:3's infants, remain
 among the hardest in Scripture. Noting that the word also covers fields explains its range. It does
 not make those commands any easier, and this page does not try to.
+
+**A contrast case: Numbers 31.** The war against Midian is total in its killing but is never called
+*ḥērem*; no form of the root *ḥrm* occurs in the chapter (Miqra according to the Masorah, searched by
+consonants). Its plunder is counted, halved, and levied for priest and Levites (31:25–47), where devoted
+things go wholly to Yahweh (Leviticus 27:28). The war is named vengeance (31:2–3), not devotion.
 
 ## Significance
 

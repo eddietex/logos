@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### His death, and the counsel of Peor — Numbers 31:1–54
+
+Balaam is killed *with the sword* among the Midianites (8), though 24:25 had him return *to his place*;
+the text does not explain how he came to be there. Moses then says the Midianite women caused Israel's
+trespass at Peor *through the counsel of Balaam* (16) — the only statement in Numbers that he had a part
+in it. Chapter 25 does not name him. The counsel is reported, not narrated, and the wiki keeps this
+portrait beside that of the seer who would speak only *the word that God puts in my mouth* (22:38). See
+[[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]].
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 He abandons the earlier search for enchantments, sees the tribal camp, and receives the Spirit of
@@ -39,9 +50,12 @@ not yet say that Balaam accepted payment.
 
 ## Timeline / key events
 
+- Numbers 31:8, 16 — killed with the sword among Midian; named by Moses as the source of the counsel at Peor. [[The War Against Midian]]
 - Numbers 22:1–21: Son of [[Beor (father of Balaam)]], summoned from [[Pethor]] by [[Balak]] to curse Israel. He consults Yahweh twice and asserts that even a house full of wealth cannot authorize him to exceed the divine word (8–20). The narrator reports the rewards brought by the first delegation but does not yet say that Balaam accepted payment.
 
 ## Appears in
+
+- [[The War Against Midian]] — Numbers 31:1–54; killed among Midian (8); the counsel of Peor attributed to him (16).
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

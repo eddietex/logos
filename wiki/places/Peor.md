@@ -24,6 +24,8 @@ Source: stored WEB Numbers 23:27–24:25.
 
 ## Appears in
 
+- [[The War Against Midian]] — Numbers 31:1–54; *the matter of Peor*, the reason Moses gives for his order (16).
+
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

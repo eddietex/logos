@@ -442,6 +442,13 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### A memorial in the Tent — Numbers 31
+
+The officers' gold is brought into the Tent of Meeting *for a memorial for the children of Israel before
+Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 
 - [[The Second Census]] — Numbers 26:1–65.
@@ -676,6 +683,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:1; *"don't forget my teaching"*, against the woman who forgot (2:17)
 - [[The Two Silver Trumpets]] — Numbers 10:9–10; the alarm brings Israel to mind, and the trumpets are a memorial.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt remembered without its slavery.
+- [[The War Against Midian]] — Numbers 31:1–54; the gold laid up *for a memorial*.
 
 ## Related themes
 

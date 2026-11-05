@@ -295,6 +295,18 @@ See [[The Twelve Spies]].
 
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
+### The war against Midian — Numbers 31
+
+A war commanded as vengeance for Peor: a thousand from each tribe, a priest with the trumpets, and a
+battle told in two verses (1–8). Most of the chapter is the aftermath: Moses' anger that the women were
+spared and his order to kill the boys and the women who had lain with a man (14–18), purification of
+soldiers and spoil (19–24), the plunder halved between fighters and congregation (25–47), and the
+officers' gold brought *to make atonement for our souls* after a count in which *there lacks not one man
+of us* (49–50). The text reports Moses' order without comment; the wiki does not soften it. See
+[[Half to the Fighters - Numbers 31 and David's Statute at Ziklag]].
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 
 - [[The Second Census]] — Numbers 26:1–65.
@@ -410,6 +422,7 @@ The first battle Israel loses is one it chose for itself, with the ark and Moses
 - [[The March from Sinai]] — Numbers 10:14–28, 35; the armies march, and the ark goes out against Yahweh's enemies.
 - [[The Twelve Spies]] — Numbers 13:17–20, 28–31; a reconnaissance, and a dispute about fighting
 - [[The Defeat at Hormah]] — Numbers 14:42–45; battle without the ark or Moses
+- [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance and its aftermath.
 
 ## Related themes
 

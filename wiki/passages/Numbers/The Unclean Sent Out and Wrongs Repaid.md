@@ -107,7 +107,7 @@ verses 2–4.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:10–15; Miriam shut outside the camp seven days
 - Numbers 18:8–11 — the priests' share set out in full *(not yet ingested; stored WEB)*.
 - Numbers 19:11–22 — cleansing from contact with the dead *(not yet ingested; stored WEB)*.
-- Numbers 31:19 — seven days outside the camp after battle *(not yet ingested; stored WEB)*.
+- [[The War Against Midian]] — Numbers 31:19, seven days outside the camp after battle.
 - [[The Passover in the Second Year]] — Numbers 9:6; men unclean by the dead before Moses and Aaron
 
 ## Notes

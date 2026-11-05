@@ -21,7 +21,7 @@ left in charge of is the one that makes the calf (32). **Hur is not mentioned th
 **Other Hurs.** *"Bezalel the son of Uri, the son of Hur, of the tribe of Judah"* (31:2; also 35:30; 38:22) is the
 tabernacle's craftsman, and Chronicles makes that Hur a son of Caleb by Ephrath (1 Chronicles 2:19–20; WEB; WLC;
 *not yet ingested*). **Whether he is the Hur of the hill the text never says**; the identification is possible and
-is not adopted here. **A Midianite king named Hur** (Numbers 31:8; WLC) is certainly a different man. Later Jewish
+is not adopted here. **A Midianite king named Hur** (Numbers 31:8; WLC), [[Hur (king of Midian)]], is certainly a different man. Later Jewish
 tradition says more about the Hur of Exodus 17 — including that he was Miriam's husband — but **those sources have
 not been checked here and are not relied on.**
 

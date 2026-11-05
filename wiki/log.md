@@ -21859,3 +21859,47 @@ according to the Masorah via the Sefaria API.
 Frontmatter recount: 318 passages, 236 people, 146 places, 87 themes, 704 connections. Link checks
 clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
 No unresolved issue.
+
+## [2026-11-05] ingest | Numbers 31.1-54 — The War Against Midian
+
+Ingested one pericope in unattended mode with Claude Code; the discussion is written into the
+passage page. Yahweh commands Moses to *avenge the children of Israel for the Midianites* before he is
+*gathered to your people*; twelve thousand go with Phinehas, the sanctuary vessels, and the trumpets; five
+kings of Midian and Balaam are killed. Moses, angry that the women were spared, lays Peor to *the counsel
+of Balaam* (16) and orders the boys and the women who had lain with a man killed. Soldiers, captives, and
+spoil are purified; the plunder is halved between fighters and congregation with levies for priest and
+Levites; the officers' gold, given *to make atonement for our souls*, is laid up in the Tent *for a
+memorial*. Numbers is now 48 / 54; the 31:1–54 boundary and the provisional title are unchanged.
+
+Created 7 pages: the passage; four people, [[Evi]], [[Rekem]], [[Reba]], and [[Hur (king of Midian)]]
+(qualified because two Hur pages exist); and two connections,
+[[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]] and
+[[Half to the Fighters - Numbers 31 and David's Statute at Ziklag]]. Revised 41 existing pages: the book
+page and books index; Moses, Eleazar, Phinehas, Balaam, Beor, Zur, and Hur (companion of Moses) and all
+three people subindexes; Midian, Moab (place), Jericho, The Jordan, and Peor and the places index; seven
+themes (War, Vengeance, Clean and Unclean, Wealth and Possessions, Atonement, Remembrance, Priesthood) and
+the themes index; five connections (The Half Shekel, Devoted to Destruction, Baal Peor Remembered, Who Is
+Put Out of the Camp, The Priests' Trumpets) and four connection subindexes; five earlier passages (The Two
+Silver Trumpets, The Unclean Sent Out and Wrongs Repaid, Baal Peor and the Zeal of Phinehas, The Red
+Heifer, Balaam's Last Oracles), whose references to Numbers 31 now link here; the dashboard; and this log.
+
+Judgment calls: Zur the king (31:8) is identified with Cozbi's father (25:15, 18) on name and rank, and the
+identification is marked as the wiki's. Moses' order concerning the women and boys is stated plainly and
+not softened; Deuteronomy 21:10–14 is cited beside it without claiming it governed these captives.
+Recorded, not resolved: Numbers 24:25 sends Balaam home, 31:8 finds him with Midian; Numbers calls the five
+*kings*, Joshua 13:21 *chiefs* and *princes of Sihon*; Midian's apparent end here stands beside Judges 6:1.
+The officers' gold matches Exodus 30:12–16 in count, atonement, and memorial; what it atones for is left
+open. Rashi's identification of *the vessels of the sanctuary* (ark and golden plate) is recorded as
+interpretation.
+
+External WEB quotations (Deuteronomy 20:13–14, 21:10–14, 23:4; Joshua 13:21–22; Judges 6:1; 1 Samuel
+30:24–25; 2 Peter 2:15; Revelation 2:14) were verified through bible-api.com, `translation=web`; nothing
+was fetched into raw/. Hebrew claims (*nəqōm niqmat bənê yiśrāʾēl* 31:2; *niqmat-YHWH* 31:3; *ḥăṣōṣərôt
+hattərûʿâ* 31:6; *bidbar bilʿām* and *limsor-maʿal* 31:16; *titḥaṭṭəʾû* 31:19; *mê niddâ* 31:23; *mekes*
+31:28, 37–41; *wəlōʾ-nipqad mimmennû ʾîš* 31:49; *ləkappēr ʿal-napšōtênû* 31:50; *zikkārôn* 31:54; no
+*ḥrm* in the chapter) were checked in Miqra according to the Masorah via the Sefaria API; Rashi on 31:6
+in Sefaria's English.
+
+Frontmatter recount: 319 passages, 240 people, 146 places, 87 themes, 706 connections. Link checks
+clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
+No unresolved issue.

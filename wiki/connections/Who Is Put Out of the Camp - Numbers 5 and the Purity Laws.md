@@ -13,7 +13,8 @@ tags: [connection]
 - [[Eating the Holy Things]] — Leviticus 22:4.
 - [[The Passover in the Second Year]] — Numbers 9:6–10.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:10–15
-- Numbers 19:11–22; 31:19 — stored WEB, not yet ingested.
+- Numbers 19:11–22 — stored WEB; see [[The Red Heifer]].
+- [[The War Against Midian]] — Numbers 31:19, soldiers outside the camp seven days.
 - Deuteronomy 23:10–14; 2 Kings 7:3; 2 Chronicles 26:21; Luke 17:12–14 — WEB, not yet ingested.
 
 ## Analysis

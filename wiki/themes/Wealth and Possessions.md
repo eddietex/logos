@@ -735,6 +735,15 @@ Twelve princes give 2,400 shekels of silver and 120 of gold, by the shekel of th
 
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
+### Dividing the plunder — Numbers 31
+
+Yahweh has the captured persons and animals counted and halved between the twelve thousand who fought
+and the whole congregation, with a levy from each half for priest and Levites (25–47). Personal booty
+stays with the man who took it (53). The officers give their gold jewellery, 16,750 shekels, to Yahweh
+(50–52).
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -1033,6 +1042,7 @@ See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:84–86; equal gifts of silver and gold.
+- [[The War Against Midian]] — Numbers 31:1–54; the plunder halved and levied.
 
 ## Related themes
 

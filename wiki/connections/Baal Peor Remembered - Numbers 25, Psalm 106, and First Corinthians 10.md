@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[Baal Peor and the Zeal of Phinehas]]
 - Psalm 106:28–31; 1 Corinthians 10:8 — verified WEB, not yet ingested.
+- [[The War Against Midian]] — Numbers 31:16, Numbers' own retrospect on Peor.
 
 ## Analysis
 
@@ -26,6 +27,11 @@ extra day or subgroup needed to demonstrate that reconciliation. Preserve both f
 Sources: stored WEB Numbers 25; bible-api.com WEB responses for Psalm 106:28–31 and 1 Corinthians
 10:8, verified 2026-11-05. Later texts are paraphrased, not quoted; their books remain un-
 ingested.
+
+**Numbers' own retrospect.** Before any later text, Numbers 31:16 looks back on Peor: the Midianite women
+caused the trespass *through the counsel of Balaam, … and so the plague was among the congregation of
+Yahweh*. Neither Psalm 106 nor 1 Corinthians 10 names Balaam. See
+[[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]].
 
 ## Significance
 

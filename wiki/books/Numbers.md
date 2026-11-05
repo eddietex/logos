@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The War Against Midian]] (31:1–54) carries out the command of 25:17 as Moses' last campaign:
+*Yahweh's vengeance on Midian*, five kings and Balaam killed, and Peor laid to *the counsel of Balaam*.
+Moses' order to kill the boys and the women who had lain with a man is reported without comment. Most of
+the chapter is aftermath: purification, the plunder halved, and the officers' gold laid up as a memorial.
+
 [[Vows of Men and Women]] (30:1–16) follows *besides your vows* (29:39) with the vow law: a man shall not
 break his word; a woman's vow in her father's or husband's house stands if he holds his peace and is void
 if he forbids it on the day he hears, and Yahweh forgives her. A widow's or divorced woman's vow stands.
@@ -237,7 +242,7 @@ merge, or reorder them freely.
 - [x] [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15
 - [x] [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40
 - [x] [[Vows of Men and Women]] — Numbers 30:1–16
-- [ ] The War Against Midian — Numbers 31:1–54
+- [x] [[The War Against Midian]] — Numbers 31:1–54
 - [ ] Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 - [ ] The Stages of the Journey — Numbers 33:1–49
 - [ ] Drive Out the Inhabitants — Numbers 33:50–56
@@ -246,6 +251,8 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Vengeance]] — [[The War Against Midian]].
 
 - [[The Names of God]] — [[Balaam's Last Oracles]].
 

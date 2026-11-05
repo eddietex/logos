@@ -158,6 +158,16 @@ the couplet after *"Vengeance belongs to me; I will repay, says the Lord"* (Roma
 
 See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 
+### The vengeance of Israel and of Yahweh — Numbers 31
+
+Yahweh commands *nəqōm niqmat bənê yiśrāʾēl*, *avenge the children of Israel for the Midianites* (2),
+and Moses passes it on as *niqmat-YHWH*, *Yahweh's vengeance on Midian* (3; Miqra according to the
+Masorah). The same war is the people's vengeance and Yahweh's; the text does not choose between them.
+The wrong avenged is Peor (25:17–18; 31:16). This is a commanded national war, not the private revenge
+Leviticus 19:18 forbids.
+
+See [[The War Against Midian]]. Source: stored WEB Numbers 31.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -231,6 +241,7 @@ See [[The Glory of Kings]]. Source: stored WEB Proverbs 25.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18; No rejoicing when an enemy falls, lest Yahweh turn his wrath away.
 - [[The Field of the Sluggard]] — Proverbs 24:29; The talion refused as a private resolve.
 - [[The Glory of Kings]] — Proverbs 25:21–22; Food for the enemy; Yahweh the one who repays.
+- [[The War Against Midian]] — Numbers 31:1–54; vengeance commanded, *Yahweh's vengeance on Midian*.
 
 ## Related themes
 

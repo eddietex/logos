@@ -93,6 +93,9 @@ Copied verbatim from stored WEB, `raw/bible/Numbers.md`.
 - [[Two Priests Stop the Plague - Aaron and Phinehas]]
 - [[Baal Peor Remembered - Numbers 25, Psalm 106, and First Corinthians 10]]
 - [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
+- [[The War Against Midian]] — Numbers 31, the war against Midian commanded at 25:17, and Moses' attribution of
+  Peor to *the counsel of Balaam* (31:16).
+- [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]]
 
 ## Notes
 
