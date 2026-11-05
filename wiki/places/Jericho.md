@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Jericho is the landmark used to locate the plains of Moab by the Jordan (13), not a city entered
+or conquered in this unit.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Jericho locates the speech in the plains of Moab beside the Jordan (1). It is not named as a refuge city or reported conquered here.
@@ -44,6 +51,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

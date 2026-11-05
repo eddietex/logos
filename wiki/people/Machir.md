@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Named as Gilead's father and Manasseh's son in the petitioning clan's ancestry (1). The family
+heads act; the ancestor is not said to be present.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *The children of Machir the son of Manasseh went to Gilead, took it, and dispossessed the Amorites who
@@ -83,6 +90,7 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his children take Gilead from the Amorites, and Moses gives it to Machir.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 

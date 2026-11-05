@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+The individual inheritance granted in Numbers 27 must remain within its tribal allotment (36:7–9).
+Family continuity and tribal continuity are protected together, but at the cost of restricting
+heiresses' marriage choices.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Tribes contribute cities according to the size of their inheritance (8). Refuge serves Israelites, strangers, and resident foreigners alike (15). Levite holdings and the killer’s eventual return to his own possession (28) qualify any account of land distribution as unrestricted tribal ownership.
@@ -468,6 +476,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

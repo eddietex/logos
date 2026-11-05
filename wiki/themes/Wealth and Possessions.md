@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Inherited land carries obligations to the tribe as well as rights for the individual holder (6–9).
+The daughters retain their possession; the law regulates its potential movement through marriage.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The possession passes to daughters when there is no son (7–8). Unlike Job 42:15, where daughters
@@ -755,6 +762,7 @@ rebuke is interpretation.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

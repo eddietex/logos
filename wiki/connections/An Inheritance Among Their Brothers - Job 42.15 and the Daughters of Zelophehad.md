@@ -7,11 +7,21 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
+
 - [[The Restoration of Job]] — Job 42:13–15.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:33, 52–56.
 
 ## Analysis
+
+### The final inheritance ruling — Numbers 36
+
+Numbers 36:6–12 preserves the daughters' inheritance while restricting marriage to their
+paternal tribal family. Job 42:15 gives no corresponding marriage rule. The two accounts
+therefore should not be collapsed into a single legal regime: Numbers now expressly
+balances an heiress's possession against the continuity of the tribe's allotment.
+Source: stored WEB Numbers 36; Job 42:15 as treated below.
 
 Both accounts name daughters who receive an inheritance, but under different circumstances.
 Job has seven sons and three named daughters, and gives the daughters an inheritance among

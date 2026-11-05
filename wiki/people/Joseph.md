@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+His descendants supply the petitioning tribal group whose concern Moses affirms (1, 5). Joseph is
+an ancestral identifier, not a living speaker.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 The roster groups Manasseh and Ephraim as Joseph’s children (23–24). This is ancestral affiliation, not a new act by Joseph.
@@ -440,6 +447,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:33; *the half-tribe of Manasseh the son of Joseph* receives land east of the Jordan.

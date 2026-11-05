@@ -80,6 +80,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]] — Numbers 36 retains the daughters’ inheritance while preventing tribal transfer through marriage.
+
 - [[Vows, Valuations, and Devoted Things]] — 27:16–24, dedicated land under the same Jubilee.
 - [[The Sabbatical Year and the Jubilee]] — 25:10–16 announces return and crop-year pricing;
   this unit specifies redemption and the different house rules.
@@ -128,3 +130,11 @@ that Jubilee was historically observed. WEB 25:33 is quoted as stored; no conclu
 its underlying Hebrew syntax is asserted. At 25:30 the Hebrew has a *ketiv/qere*: written
 *lōʾ* (not), read *lô* (to it), so *the city that has a wall*; WEB follows the reading.
 Comparisons use stored Genesis 47 and Leviticus 25. The planned boundary is retained; the service laws begin at 25:35, [[The Poor Brother and Redemption from Service]].
+
+### Qualification from Numbers 36
+
+The inheritance and Jubilee provisions should not be read as unrestricted guarantees of
+marital choice or automatic reversal of every tribal transfer.
+[[The Marriage of the Daughters of Zelophehad]] (36:1–13) preserves the daughters’ property
+while requiring marriage within their paternal tribal family; verse 4 presents the
+clan heads’ concern that Jubilee would not remedy an intertribal transfer.

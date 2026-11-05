@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Heads of the Gileadite households raise the risk that marriage will transfer inherited land to
+another tribe (1–4). Gilead is Machir's son in their ancestry, not the geographical region; the
+unnamed heads remain recorded with this family register.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The genealogy of Numbers 27:1 makes explicit the line
@@ -100,6 +108,7 @@ here is in Gilead’s line, not Hamor’s son or the city.
 - Numbers 26 — recorded in the second census.
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:1–65.
 

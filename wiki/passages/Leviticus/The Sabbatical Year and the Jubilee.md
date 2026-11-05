@@ -111,6 +111,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]] — Numbers 36 retains the daughters’ inheritance while preventing tribal transfer through marriage.
+
 - [[The Unpruned Vine and the Unshaved Head - Leviticus 25 and Numbers 6]] — *nāzîr* of the undressed vine, 25:5, 11.
 - [[Covenant Warnings and Remembered Promises]] — 26:34–35, 43; the land collects the Sabbaths this law gives it.
 - [[Blessings for Obedience]] — 26:5, 10 repeat *safely* (25:18–19) and *old store* (25:22) as covenant blessing.
@@ -153,3 +155,11 @@ calendar harmonization is inferred here.
 Exodus 16 and 23, Genesis 47, and Leviticus 23 and 25. No new source-language assertion or
 external quotation is introduced. The planned 1–22 boundary is retained: 23 introduces
 land ownership and specific redemption rules.
+
+### Qualification from Numbers 36
+
+The inheritance and Jubilee provisions should not be read as unrestricted guarantees of
+marital choice or automatic reversal of every tribal transfer.
+[[The Marriage of the Daughters of Zelophehad]] (36:1–13) preserves the daughters’ property
+while requiring marriage within their paternal tribal family; verse 4 presents the
+clan heads’ concern that Jubilee would not remedy an intertribal transfer.

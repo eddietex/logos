@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Mahlah, Tirzah, Hoglah, Milcah, and Noah marry their father's brothers' sons (10–12). Their
+inheritance is retained, but their freedom of choice is bounded by paternal tribal family (6–8).
+Numbers 27:7–8 grants inheritance; Numbers 36 qualifies marriage for heiresses rather than
+revoking their title.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Mahlah, Noah, Hoglah, Milcah, and Tirzah jointly petition before Moses, Eleazar, the princes, and
@@ -28,6 +37,7 @@ is not the city. Their petition follows the census in Numbers 27:1–11.
 - Numbers 26 — recorded in the second census.
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:1–65.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+The book's closing formula locates the commandments in the plains of Moab (13). Israel remains at
+the threshold of the land; the conclusion does not narrate a crossing.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The plains of Moab by the Jordan at Jericho are the setting of Yahweh’s speech to Moses (1). This is the place of instruction, not one of the refuge cities identified by name.
@@ -170,6 +177,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+The clan heads say Jubilee will not undo the tribal loss caused by heiresses marrying out (4).
+This qualifies any claim that Jubilee automatically restores every tribal boundary: Leviticus
+25:13, 28 concerns return of property, whereas this petition concerns the holder's tribal
+affiliation.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Two ransoms are forbidden: payment for a murderer’s life and payment to return from refuge before the priest’s death (31–32). This restricts monetary release without canceling the distinct ransom provision for a negligent bull owner in Exodus 21:29–30.
@@ -241,6 +250,7 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

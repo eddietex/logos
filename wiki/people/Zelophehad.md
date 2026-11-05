@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+His inheritance remains with his daughters within their father's tribe through their marriages to
+paternal cousins (2, 10–12). He is recalled as the deceased owner, not a participant.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 His daughters report that he died in his own sin in the wilderness, not in Korah's company (3).
@@ -25,6 +32,7 @@ The census notice prepares the inheritance question resolved in Numbers 27:1–1
 - Numbers 26 — recorded in the second census.
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:1–65.
 

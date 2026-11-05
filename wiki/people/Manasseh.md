@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+The tribal inheritance is protected against transfer through an heiress's marriage (1–9). The
+daughters marry within Manasseh's families, and their property stays there (12).
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 Half the tribe has already received an eastern inheritance (14–15), while Hanniel son of Ephod represents Manasseh in the western distribution (23). The two notices account for the divided tribe.
@@ -157,6 +164,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; the half-tribe is included in the eastern grant, and its clans take Gilead and its villages.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Heiresses may choose a husband within their father's tribal family (6–8); the five sisters marry
+paternal cousins (11). This rule concerns daughters possessing inheritance, not a stated universal
+ban on marriages between tribes.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### A priest’s daughter and the holy food — Leviticus 22:12–13
 
 A priest's daughter married to an outsider may not eat the heave offering; if widowed or divorced,
@@ -386,6 +394,7 @@ and his daughter* (16). A widow or divorced woman answers for her own vow (9).
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
 

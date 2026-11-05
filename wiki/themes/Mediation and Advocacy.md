@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+The clan heads' concern is affirmed just as the daughters' earlier claim was (27:7; 36:5). Moses
+conveys the ruling, though a separate consultation is not narrated here as it was in 27:5–6.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The daughters speak for their family's claim before the assembled authorities; Moses brings their
@@ -466,6 +473,7 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses asks for a leader; inquiry passes to Eleazar.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

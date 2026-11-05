@@ -7,13 +7,23 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
+
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23; *They put him in custody, until Yahweh's will should be declared to them* (12)
 - [[The Passover in the Second Year]] — Numbers 9:6–14; *Wait, that I may hear what Yahweh will command concerning you* (8)
 - [[The Sabbath Breaker]] — Numbers 15:32–36; *They put him in custody, because it had not been declared what should be done to him* (34)
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11; Moses submits the petition (5).
-- Numbers 36:1–12 — the same inheritance, questioned by the heads of Gilead's family *(stored WEB, not yet ingested)*
 
 ## Analysis
+
+### The final inheritance ruling — Numbers 36
+
+The family heads raise a consequence of the previous inheritance ruling (1–4), and Moses
+answers according to Yahweh's word (5–9). Unlike Numbers 27:5–6, a separate referral and
+divine reply are not narrated. The generalization below that Moses does not rule needs
+this qualification: in Numbers 36 he explicitly commands, as the mediator of Yahweh's word.
+The sisters then obey, preserving the tribal inheritance (10–12).
+Source: stored WEB Numbers 36.
 
 ### The inheritance petition now ingested
 

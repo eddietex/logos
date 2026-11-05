@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Numbers 27 protects daughters without brothers against loss of their father's inheritance. Numbers
+36 retains that protection while limiting heiresses' marriage options for the tribe's sake.
+Neither passage establishes that the sisters are destitute.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Five women facing exclusion from their father's possession can present a public petition and
@@ -417,6 +425,7 @@ treats a man (2); it adds no protection and no further burden.
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.

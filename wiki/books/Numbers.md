@@ -5,11 +5,16 @@ genre: Law and wilderness narrative
 author: "Traditionally Moses; final composition not specified by the book"
 canonical_order: 4
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Numbers
 
 ## Overview
+
+[[The Marriage of the Daughters of Zelophehad]] (36:1–13) completes the book:
+the daughters retain their inheritance while marrying within their paternal tribal family.
+The concluding commands remain located in Moab, before the Jordan crossing. All 54
+planned pericopes are now ingested.
 
 [[The Levitical Cities and the Cities of Refuge]] (35:1–34) assigns Levite cities and six refuges.
 Congregational judgment distinguishes murder from unwitting killing; witnesses, residence,
@@ -270,7 +275,7 @@ merge, or reorder them freely.
 - [x] [[Drive Out the Inhabitants]] — Numbers 33:50–56
 - [x] [[The Borders of the Land]] — Numbers 34:1–29
 - [x] [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34
-- [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
+- [x] [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13
 
 ## Key themes
 

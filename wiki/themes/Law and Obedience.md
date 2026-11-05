@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+A new petition produces a further rule, followed by reported compliance (1–12). Numbers ends with
+commandments mediated by Moses in Moab (13), not with Israel's entry into the land.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The refuge rules are a continuing statute throughout Israel’s dwellings (29). Congregational judgment, sufficient testimony, and refusal of ransom constrain how the homicide penalties operate.
@@ -1031,6 +1038,7 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

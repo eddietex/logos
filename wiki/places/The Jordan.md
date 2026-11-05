@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+The river locates the plains where Moses conveys the commandments (13). No crossing is reported in
+this final chapter.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The river marks the anticipated crossing (10) and the division of the six refuges: three beyond it and three in Canaan (14). Protection extends to both sides of Israel’s settlement.
@@ -104,6 +111,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

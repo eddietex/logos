@@ -80,6 +80,8 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]] — Numbers 36 retains the daughters’ inheritance while preventing tribal transfer through marriage.
+
 - [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]]
 - [[Wait, That I May Hear - The Cases Moses Took to Yahweh]]
 - [[The Second Census]] — Numbers 26:33, 52–56 supplies the family and allotment context.
@@ -112,3 +114,11 @@ in this unit. The five sisters also continue to act collectively.
 
 **Sources.** All quotations here are copied from stored WEB. Comparisons use stored Numbers
 26, Numbers 9, and Job 42. No source-language claim is needed to establish the comparison.
+
+### Qualification from Numbers 36
+
+The inheritance and Jubilee provisions should not be read as unrestricted guarantees of
+marital choice or automatic reversal of every tribal transfer.
+[[The Marriage of the Daughters of Zelophehad]] (36:1–13) preserves the daughters’ property
+while requiring marriage within their paternal tribal family; verse 4 presents the
+clan heads’ concern that Jubilee would not remedy an intertribal transfer.

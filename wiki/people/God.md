@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Yahweh's word through Moses affirms the tribal petition and requires heiresses to marry within
+their paternal tribal family (5–9). The daughters' compliance is explicitly obedience to his
+command (10).
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Yahweh commands provision for Levites and refuge for the unwitting killer (1–15). His dwelling among Israel grounds the prohibition of blood pollution in the land (33–34).
@@ -3358,6 +3366,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

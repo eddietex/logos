@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Marriage and tribal inheritance — Numbers 36:1–13
+
+Moses commands according to Yahweh's word after the family heads' petition (5–9). Unlike Numbers
+27:5–6, this chapter does not separately narrate his bringing the case to Yahweh and then
+receiving a speech. Verse 13 closes the book with commandments mediated through him.
+
+See [[The Marriage of the Daughters of Zelophehad]]. Source: stored WEB Numbers 36; comparisons as cited.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Moses receives the city and refuge commands in the plains of Moab (1, 9–10). He transmits law for settlement; the chapter does not report cities already assigned.
@@ -1403,6 +1411,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

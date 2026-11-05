@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
+
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:21; a devoted field does not return at the
@@ -35,6 +37,18 @@ tags: [connection]
 - Compare **Isaiah 5:8**; **Micah 2:1–2** — the prophets on field added to field
 
 ## Analysis
+
+### The final inheritance ruling — Numbers 36
+
+**Further limit on the earlier universal formulation.** Numbers 36:4 presents a transfer
+through marriage that the household heads say Jubilee would not reverse. Leviticus
+25:13, 28 regulates return of possession after sale; Numbers 36:6–9 prevents tribal
+transfer through the marriage of an heiress. Thus the older claim below that no Israelite
+can ever be permanently separated from a field is too sweeping: these texts prescribe
+particular protections, with distinct scopes. They do not narrate universal enforcement.
+See the dedicated comparison:
+[[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]].
+Source: stored WEB Leviticus 25 and Numbers 36.
 
 ### Correction from Leviticus 25:23–34
 

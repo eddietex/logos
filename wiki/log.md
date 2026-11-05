@@ -22091,3 +22091,34 @@ assertion was introduced; existing raw files were unchanged.
 
 Validation: scripts/link-check.sh passed, with 58 expected not-yet-started book targets and
 no wrapped or dangling links. No unresolved operational blocker.
+
+## [2026-11-05] ingest | Numbers 36.1-13 — The Marriage of the Daughters of Zelophehad
+
+Ingested the final planned pericope of Numbers with the boundary unchanged. The Gileadite
+household heads' petition leads to marriage within the paternal tribal family for heiresses;
+the five sisters marry paternal cousins and retain their inheritance within Manasseh.
+Numbers is complete at 54/54 pericopes. No next book was opened.
+
+Created the passage and the connection
+[[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]].
+Revised eight people, three places, seven themes, three existing connections, and three
+earlier passage pages, plus the book, category rows, book status, and dashboard counts.
+Two pages created and 35 existing pages revised, including indexes and this log.
+
+Kept the sisters on [[The Daughters of Zelophehad]] and the unnamed Gileadite heads on
+[[The Families of the Second Census]]: the unit gives no separate acts to the named sisters
+and does not identify the heads individually. Ancestors in verse 1 are not treated as
+living participants. No new person or place page was needed.
+
+Flagged the qualification to unrestricted inheritance/marriage summaries and the older
+universal description of Jubilee: Numbers 36:4 presents marriage-related tribal transfer
+as a problem Jubilee does not solve. Leviticus 25 addresses return of property after sale.
+Also qualified the legal-case connection: Numbers 36 narrates Moses commanding according
+to Yahweh's word, without a separate consultation scene such as Numbers 27:5–6.
+
+All new verse quotations were copied from stored WEB Numbers 36. Comparisons were checked
+against stored Numbers 27 and Leviticus 25; no new external quotations or source-language
+claims were introduced. Existing raw texts and workflow instructions were unchanged.
+Link checks clean: no wrapped links or unexpected dangling targets; 58 not-yet-started
+book pages remain the expected baseline. Dashboard: 8 books started, all 8 complete;
+325 passages, 251 people, 199 places, 87 themes, 711 connections.
