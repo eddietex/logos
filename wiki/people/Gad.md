@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The tribe’s eastern inheritance is already received (14–15), explaining its absence from the western allotment roster. The patriarch is not a participant.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 With Reuben, the tribe asks for Jazer and Gilead, *a place for livestock*, and is told by Moses that
@@ -119,6 +125,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; asks for Jazer and Gilead with Reuben, accepts Moses' condition, and builds eight towns.
 

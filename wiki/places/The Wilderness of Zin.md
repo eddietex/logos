@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Zin marks the southern frontier alongside Edom, with the boundary running south of Kadesh Barnea (3–4). This is a border description rather than another wilderness march.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The itinerary explicitly locates Kadesh in this wilderness (36).
@@ -46,6 +52,8 @@ at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for th
 (tags; *not yet ingested*).
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

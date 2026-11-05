@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The entrance of Hamath marks the northern line after Mount Hor and before Zedad (8). The boundary repeats a northern reference from the spies’ journey (Numbers 13:21); it does not report completed occupation.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 A city-state of Syria on the Orontes, and in the Bible the northern reference point of the land.
 Numbers 13:21 sends the spies as far as *the entrance of Hamath*, *ləbōʾ ḥămāt* (WLC). The same
 phrase marks the land's north border at Numbers 34:8 and Solomon's kingdom at 1 Kings 8:65: *from
@@ -24,6 +30,8 @@ Later texts (WEB and tags; *not yet ingested*): David's dealings with Toi king o
 Kings 18:34; Isaiah 10:9), and Ezekiel's northern border (Ezekiel 47:16–20).
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Twelve Spies]] — Numbers 13:21; *the entrance of Hamath*
 

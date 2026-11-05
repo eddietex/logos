@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The southern border begins from the wilderness of Zin alongside Edom (3). Edom locates the boundary; it is not included as a new grant in this description.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Mount Hor is on the edge of Edom (37); this is a border description, not a modern location.
@@ -102,6 +108,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

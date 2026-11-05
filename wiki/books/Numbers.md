@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Borders of the Land]] (34:1–29) defines Canaan’s borders for nine and a half tribes,
+recognizes the eastern inheritance already received, and appoints Eleazar, Joshua, and
+ten tribal representatives to divide the land. The commands do not yet report distribution.
+
 [[Drive Out the Inhabitants]] (33:50–56) turns from the itinerary to commands for entry: removal of
 inhabitants and idols, possession and allotment, and a warning that Israel can face the same
 judgment. The land gift does not make the recipients immune from dispossession.
@@ -259,7 +263,7 @@ merge, or reorder them freely.
 - [x] [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [x] [[The Stages of the Journey]] — Numbers 33:1–49
 - [x] [[Drive Out the Inhabitants]] — Numbers 33:50–56
-- [ ] The Borders of the Land — Numbers 34:1–29
+- [x] [[The Borders of the Land]] — Numbers 34:1–29
 - [ ] The Levitical Cities and the Cities of Refuge — Numbers 35:1–34
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 

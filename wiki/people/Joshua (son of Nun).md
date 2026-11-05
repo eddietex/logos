@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Joshua is named with Eleazar to divide the land (17). The successor commissioned in Numbers 27 now receives a specific settlement responsibility.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 Named twice in the chapter. In Moses' retelling of the oath, he and Caleb are the two who *followed
@@ -127,6 +133,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; an exception to the oath (12), and an executor of the agreement (28).
 

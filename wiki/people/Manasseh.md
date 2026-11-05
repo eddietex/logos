@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Half the tribe has already received an eastern inheritance (14–15), while Hanniel son of Ephod represents Manasseh in the western distribution (23). The two notices account for the divided tribe.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *The half-tribe of Manasseh the son of Joseph* is included in the grant of Sihon's and Og's kingdoms
@@ -151,6 +157,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; the half-tribe is included in the eastern grant, and its clans take Gilead and its villages.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 

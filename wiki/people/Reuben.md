@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The tribe has already received its inheritance east of the Jordan (14–15); no Reubenite official is named for this western distribution. This concerns the descendants, not an action by the patriarch.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 With Gad, the tribe has *a very great multitude of livestock* and asks for the conquered land east of
@@ -206,6 +212,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; asks for the land east of the Jordan with Gad, promises to cross armed, and builds six towns.
 

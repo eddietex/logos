@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Yahweh specifies Canaan’s borders and names the officials charged with dividing its inheritance (2–12, 16–29). The land grant receives defined limits and accountable human administrators.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 Yahweh gives Canaan for possession (53), orders the removal of inhabitants and cult objects (52),
@@ -3346,6 +3352,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

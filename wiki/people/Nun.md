@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Named as Joshua’s father in the appointment of the allotment officials (17); no action is assigned to Nun.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Named in Joshua's patronymic when Yahweh designates him (18); no action is attributed to Nun.
@@ -31,6 +37,8 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; patronymic only.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Caleb represents Judah in the allotment commission (19). The faithful spy becomes an administrator of the promised inheritance; this unit does not yet narrate his personal allotment.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 Named in Moses' retelling of the oath as *Caleb the son of Jephunneh the Kenizzite* (12; *hakkənizzî*,
@@ -74,6 +80,8 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *the Kenizzite*, an exception to the oath (12).
 

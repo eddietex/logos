@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Moses receives the boundary command and explains that the western allotment serves nine and a half tribes because the eastern inheritance is already received (13–15).
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 Moses receives Yahweh’s command in the plains of Moab and is charged to speak it to Israel
@@ -1391,6 +1397,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

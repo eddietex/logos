@@ -136,6 +136,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
+
 - [[Who Sent the Spies - Numbers 13 and Deuteronomy 1]]
 - [[A Land That Eats Up Its Inhabitants - Numbers 13.32, Leviticus 18 and 26, and Ezekiel 36]]
 - [[To Seek Out the Land - Tur in Numbers 10, 13, 15, and Ezekiel 20]]

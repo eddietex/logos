@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Eleazar the priest is named with Joshua to divide the inheritance (17). His responsibility extends to land distribution alongside tribal representatives.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 Addressed with Moses and the princes when Reuben and Gad make their request (2), and the first of the
@@ -286,6 +292,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; addressed with Moses, and charged to carry out the agreement (2, 28).
 

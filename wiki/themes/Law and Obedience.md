@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The borders of the land — Numbers 34:1–29
+
+The boundary and the allotment commission are commanded by Yahweh (2, 17–18, 29). The closing appointment statement is not a claim that the land has already been divided.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 The entry command joins dispossession, removal of cult objects, settlement, and ordered
@@ -1019,6 +1025,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

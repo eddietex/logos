@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The tribe is represented by [[Shemuel]], son of Ammihud, in the division of Canaan (20). This concerns the patriarch’s descendants.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 22,200 men in the second military census (Numbers 26). The register
@@ -138,6 +144,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

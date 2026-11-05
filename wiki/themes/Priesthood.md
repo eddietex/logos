@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The borders of the land — Numbers 34:1–29
+
+Eleazar the priest shares the allotment task with Joshua and tribal leaders (17–29). His commission concerns land administration; no new priestly rite is described.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The second census — Numbers 26:1–65
 
 Eleazar shares the count once performed with Aaron. Levi is separately counted from one month upward
@@ -604,6 +610,8 @@ in fifty from the congregation's half (30, 47).
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Eleazar to inquire by the Urim for Joshua.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The eastern line descends along the Jordan to the Salt Sea (12). Verses 14–15 simultaneously recognize Israelite inheritance east of it, distinguishing Canaan’s boundary from all Israel’s holdings.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 The river marks the crossing still ahead (50–51). Directions for life beyond it are given
@@ -92,6 +98,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Jericho locates the already received inheritance beyond the Jordan eastward (15); no conquest of Jericho is narrated here.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 Jericho locates the speech by the Jordan in the plains of Moab (50). It remains a geographical
@@ -32,6 +38,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

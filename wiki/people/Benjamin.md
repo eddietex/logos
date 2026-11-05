@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The tribe is represented by [[Elidad]], son of Chislon, in the division of Canaan (21). This concerns the patriarch’s descendants.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The second census — Numbers 26:1–65
 
 Genesis 46:21 lists Ard and Naaman among Benjamin’s sons; Numbers 26:40 places them
@@ -161,6 +167,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

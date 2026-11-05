@@ -14,8 +14,8 @@ tags: [connection]
   the only other frontier drawn in Genesis, and a much smaller one. See [[The Table of Nations]].
 - **Exodus 23:31** — *"from the Red Sea even to the sea of the Philistines, and from the wilderness
   to the River."* See [[The Angel Sent Ahead]].
-- **Numbers 34:1–12** — the detailed survey of *"the land of Canaan according to its borders"*, which
-  stops at Lebanon and the Jordan and never mentions the Euphrates.
+- [[The Borders of the Land]] — Numbers 34:1–29; the northern line runs through Mount Hor,
+  the entrance of Hamath, Zedad, Ziphron, and Hazar Enan; the eastern line reaches the Jordan.
 - **Deuteronomy 1:7; 11:24; Joshua 1:4** — the maximal formula repeated to Moses and to Joshua.
 - **Joshua 21:43–45** — *"Yahweh gave to Israel all the land which he swore to give to their fathers…
   Not a word failed."*
@@ -29,6 +29,19 @@ tags: [connection]
 
 ## Analysis
 
+### Canaan and the eastern inheritance — Numbers 34
+
+Numbers 34:13–15 explicitly recognizes land east of the Jordan as Israelite inheritance
+while excluding it from the Canaan survey assigned to nine and a half tribes. Thus the smaller
+boundary is not a denial of every grant beyond it. Genesis 15:18 reaches to the Euphrates;
+Numbers 34 names no Euphrates boundary. The differing scopes remain explicit. Describing
+one as a promise horizon and the other as a distribution plan is an interpretation of their
+functions, not a statement by either text that the two maps are identical.
+
+The previous shorthand that Numbers 34 “stops at Lebanon” was imprecise: Lebanon is not
+named in this chapter. The northern markers are now listed above without a modern boundary.
+
+
 Genesis 15:18 is the first time the land promise has an edge. Genesis 12:7 said *"this land"* while
 Abram stood at Shechem; 13:14–15 said *"all the land which you see"* in four directions from a hill.
 Both are gestures. The covenant chapter replaces the gesture with a survey, and the survey is the
@@ -39,19 +52,12 @@ largest territorial claim in the Bible.
 The northern boundary is unambiguous: *"the great river, the river Euphrates"*, glossed in case
 anyone might mistake it. See [[The Euphrates]].
 
-The southern one is not. Genesis 15:18 has *nəhar Miṣrayim*, using *nāhār* — a perennial river,
-normally the Euphrates or the Nile. Everywhere else the southern border is *naḥal Miṣrayim*, the
-**Wadi** of Egypt (Numbers 34:5; Joshua 15:4, 47; 1 Kings 8:65; Isaiah 27:12), which is a seasonal
-watercourse, almost certainly the Wadi el-Arish running north into the Mediterranean about halfway
-across Sinai. Two readings:
-
-- **The Wadi**, under an unusual word — the overwhelming majority view, because every other statement
-  of the border says the Wadi and because a boundary at the Nile would put Egypt itself inside the
-  promise.
-- **The Nile**, or its easternmost delta branch — a minority reading, taken seriously because
-  Genesis 15 is a maximal text and *nāhār* is a specific word.
-
-The wiki follows the majority and records that the verse's own word points the other way.
+The southern watercourse is less certain. Stored WEB Genesis 15:18 says “river of Egypt”,
+while Numbers 34:5 says “brook of Egypt”. The English distinction is verified here; an exact
+Hebrew lexical argument is not independently verified in this ingest. Identifying either
+watercourse with the Nile or Wadi el-Arish requires evidence beyond these boundary verses.
+The earlier version of this page preferred the Wadi identification; that preference is not
+established by the stored texts and is retained only as an interpretive possibility.
 
 ### The claim against the history
 

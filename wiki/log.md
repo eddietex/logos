@@ -22023,3 +22023,42 @@ raw-source, schema, or harness change was made.
 Validation: scripts/link-check.sh passed both checks (58 expected unstarted-book targets).
 Frontmatter totals and passage-title uniqueness checked; quoted verses match the stored source.
 No unresolved ingest blocker. Agent: Codex.
+
+## [2026-11-05] ingest | Numbers 34.1-29 — The Borders of the Land
+
+Ingested [[The Borders of the Land]] in unattended mode with the planned boundary retained.
+The two speeches define Canaan for nine and a half tribes, recognize the inheritance already
+received east of the Jordan, and appoint Eleazar, Joshua, and ten tribal representatives.
+The passage distinguishes a commanded distribution from a completed conquest or allotment.
+
+Created 24 pages: 1 passage, 9 people, 13 places, and 1 connection,
+[[From Census to Borders and Allotment - Numbers 26, 33, and 34]]. Revised 50 existing wiki
+pages including 19 people, 9 places, 4 themes, 2 connections, 5 earlier passages, Numbers,
+9 indexes/dashboard pages, and this log. Numbers is now 52 / 54 pericopes, still in progress.
+Frontmatter totals: 323 passages, 251 people, 199 places, 87 themes, 710 connections.
+
+Named officials receive individual pages. Fathers without an existing page remain patronymics
+in the roster, following the existing treatment of Jephunneh; no unreported biography is added.
+Nun's existing page is updated. The two mentions of Ammihud are not presumed to identify one
+father. Kemuel and Elizaphan retain patronymic qualifiers to avoid merging namesakes.
+Tribal ancestor pages distinguish descendants from personal participation.
+
+[[Mount Hor (northern border)]] is kept distinct from [[Mount Hor]], the established page for
+Aaron's death beside Edom; the latter now points out the distinction. No modern coordinates
+are assigned to the new boundary places. The brook of Egypt is not simply equated with the
+Nile or with Genesis 15's river of Egypt. The existing river-to-Euphrates connection now links
+the ingested passage, corrects its Lebanon shorthand, and qualifies its former watercourse
+identification and unsupported lexical argument at the point of the claim. Different land
+scopes remain explicit; lot and appointed administrators are both retained without inventing
+an allotment procedure. The eastern-grant connection now incorporates Numbers 34:13–15.
+
+All five passage quotations were copied from and mechanically matched to stored WEB Numbers 34.
+Comparisons use stored WEB Genesis and Numbers; no new quotation from an unstored book,
+exact source-language assertion, or raw-source change was introduced. No schema, harness,
+or controller file changed. The existing places-index growth follow-up remains open at
+199 rows; this invocation retains its current arrangement.
+
+Validation: scripts/link-check.sh passed both checks, with 58 expected unstarted-book targets.
+All four category catalogs match their typed pages exactly once; passage titles are unique;
+frontmatter counts match the dashboard; git diff --check is clean. No ingest blocker.
+Agent: Codex.

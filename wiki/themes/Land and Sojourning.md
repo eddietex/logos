@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The borders of the land — Numbers 34:1–29
+
+Canaan’s boundary (2–12), the eastern exception (13–15), and the named allotment officers (16–29) give the land gift geographical and administrative form. Lot and human administration coexist; the text still does not explain their precise coordination. Genesis 15:18 describes a wider grant toward the Euphrates; the descriptions should not be collapsed into one identical boundary.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 The gift of land grounds the command to take possession and dwell (53). Allotment combines
@@ -456,6 +462,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

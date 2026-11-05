@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The southern border passes south of Kadesh Barnea toward Hazar Addar and Azmon (4). The place previously associated with refusal and Meribah now serves as a boundary marker.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The itinerary places this stage after [[Ezion Geber]] and before [[Mount Hor]].
@@ -88,6 +94,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

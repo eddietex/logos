@@ -117,6 +117,8 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
+
 - [[The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22]] — the agreement made
   here, retold by Moses, recalled by Joshua, kept at the crossing, and discharged at Shiloh.
 - [[The Twelve Spies]] and [[The People Refuse the Land]] — Numbers 13–14, the discouragement Moses retells

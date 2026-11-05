@@ -118,6 +118,8 @@ Copied from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
+
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56; the rule of proportional shares and lot repeated at the border.
 - [[Two Censuses and a Passing Generation - Numbers 1 and 26]]
 - [[Korah Died but His Sons Lived - Numbers 16 and 26]]

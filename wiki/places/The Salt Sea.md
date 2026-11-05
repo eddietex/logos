@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The southern boundary begins at its eastern end (3), and the eastern border descends along the Jordan to end here (12). It anchors two sides of the circuit.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 The lowest body of water on the surface of the earth, and the place Genesis says a battle was fought
 in a valley.
 
@@ -43,6 +49,8 @@ river from the temple running down into it and healing it, so that fishermen sta
 an image that depends entirely on the reader knowing nothing lives in it.
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:3, 8, 10; the valley of Siddim, its tar pits,
   and the rout of the five kings

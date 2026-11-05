@@ -7,6 +7,9 @@ tags: [place]
 
 ## Overview
 
+**Distinct boundary namesake:** [[Mount Hor (northern border)]] belongs to Numbers 34:7–8,
+not the Edomite setting of Aaron’s death. The two textual locations are kept separate.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Aaron dies here at Yahweh’s command on day one of month five in year forty, aged 123 (37–39). This supplies the date and age absent from Numbers 20:22–29.

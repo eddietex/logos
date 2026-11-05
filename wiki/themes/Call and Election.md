@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The borders of the land — Numbers 34:1–29
+
+Yahweh names Eleazar, Joshua, and the tribal representatives for the distribution (17–29). Appointment carries a defined responsibility rather than an unbounded personal privilege.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The budding rod — Numbers 17:1–13
 
 Yahweh makes budding the announced sign of his choice (5); the next morning Aaron’s rod alone
@@ -168,6 +174,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Joshua designated as Moses' successor.
 

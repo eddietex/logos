@@ -87,6 +87,8 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
+
 - [[Meribah's Sentence and Aaron's Death]] — the Meribah verdict now recalled for Moses.
 - [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]]
 - [[The God of the Spirits of All Flesh - Numbers 16.22 and 27.16]]

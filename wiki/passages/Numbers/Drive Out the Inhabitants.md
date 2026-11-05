@@ -60,6 +60,8 @@ This is instruction and warning before entry, not a report that conquest has occ
 
 ## Cross-references
 
+- [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
+
 - [[Little by Little - The Hornet, the Snare, and the Land Not Taken]] — Exodus 23:27–33 and the warning of Numbers 33:55–56.
 - [[The Same Judgment on Israel - Leviticus 18 and Numbers 33]] — Leviticus 18:24–30 and the threatened reversal of possession.
 - [[The Second Census]] — Numbers 26:52–56 already joins proportionate shares and lot.

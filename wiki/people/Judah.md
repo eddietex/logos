@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+Caleb son of Jephunneh represents Judah in the division of Canaan (19). The tribal name refers to descendants of the patriarch.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 76,500 men in the second military census (Numbers 26). The register
@@ -322,6 +328,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

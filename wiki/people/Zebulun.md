@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The tribe is represented by [[Elizaphan (son of Parnach)]], son of Parnach, in the division of Canaan (25). This concerns the patriarch’s descendants.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 60,500 men in the second military census (Numbers 26). The register
@@ -105,6 +111,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:16 — Zebulun marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

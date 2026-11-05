@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The roster groups Manasseh and Ephraim as Joseph’s children (23–24). This is ancestral affiliation, not a new act by Joseph.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Joseph is the named father of Manasseh at the head of the petitioners' tribal ancestry (1). He is
@@ -434,6 +440,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:33; *the half-tribe of Manasseh the son of Joseph* receives land east of the Jordan.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 

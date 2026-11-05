@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The land is defined by a circuit of southern, western, northern, and eastern borders (2–12). Verses 13–15 distinguish this allotment for nine and a half tribes from the inheritance east of the Jordan; Canaan here does not include every Israelite possession.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 Canaan is the destination across the Jordan (51), given for possession and dwelling (53).
@@ -258,6 +264,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

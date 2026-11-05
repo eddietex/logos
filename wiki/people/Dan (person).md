@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The borders of the land — Numbers 34:1–29
+
+The tribe is represented by [[Bukki]], son of Jogli, in the division of Canaan (22). This concerns the patriarch’s descendants.
+
+See [[The Borders of the Land]]. Source: stored WEB Numbers 34.
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 64,400 men in the second military census (Numbers 26). The register
@@ -151,6 +157,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Borders of the Land]] — Numbers 34:1–29.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

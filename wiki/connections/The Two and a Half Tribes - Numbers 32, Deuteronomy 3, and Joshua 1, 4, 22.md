@@ -9,8 +9,7 @@ tags: [connection]
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; the request, the rebuke, the
   condition, and the grant *(stored WEB)*
-- Numbers 34:13–15 — *The two tribes and the half-tribe have received their inheritance beyond the Jordan*
-  *(stored WEB, not yet ingested)*
+- [[The Borders of the Land]] — Numbers 34:13–15; the eastern inheritance already received (stored WEB).
 - Deuteronomy 3:12–20 — Moses retells the grant and the command *(WEB via bible-api.com, not yet ingested)*
 - Joshua 1:12–18 — Joshua reminds the two and a half tribes *(WEB via bible-api.com, not yet ingested)*
 - Joshua 4:12–13 — they cross armed *(WEB via bible-api.com, not yet ingested)*
@@ -20,6 +19,11 @@ tags: [connection]
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+Numbers 34:13–15 makes the eastern grant the explicit reason that only nine and a half tribes
+receive this Canaan allotment. The western officials include Hanniel for Manasseh (23), but
+none for Reuben or Gad. This recognizes the grant; it does not report the military obligation
+of Numbers 32 already discharged.
 
 **One agreement, followed through four books.** Numbers 32 makes a conditional grant: Reuben and Gad,
 and in the end half of Manasseh, may settle east of the Jordan if their armed men cross *before Yahweh*
