@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Edom Refuses Passage]] (20:14–21) turns from water within the camp to access through Edom.
+Kinship, remembered rescue, and guarantees of payment do not secure passage; Israel
+withdraws before armed resistance.
+
+
 [[The Waters of Meribah]] (20:1–13) records Miriam’s death at Kadesh and a water crisis.
 Water is supplied, but Moses and Aaron are barred from bringing Israel into the land
 for failing to believe and sanctify Yahweh before the people.
@@ -145,7 +150,7 @@ merge, or reorder them freely.
 - [x] [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32
 - [x] [[The Red Heifer]] — Numbers 19:1–22
 - [x] [[The Waters of Meribah]] — Numbers 20:1–13
-- [ ] Edom Refuses Passage — Numbers 20:14–21
+- [x] [[Edom Refuses Passage]] — Numbers 20:14–21
 - [ ] The Death of Aaron — Numbers 20:22–29
 - [ ] Arad and Hormah — Numbers 21:1–3
 - [ ] The Brass Serpent — Numbers 21:4–9
@@ -171,6 +176,12 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Prayer]] — the appeal and withdrawal at Edom (20:14–21).
+
+- [[Strife and Peacemaking]] — the appeal and withdrawal at Edom (20:14–21).
+
+- [[Brotherhood]] — the appeal and withdrawal at Edom (20:14–21).
 
 - [[Life and Death]] — the red heifer and purification (19:1–22).
 
@@ -205,6 +216,8 @@ merge, or reorder them freely.
 
 ## Key people
 
+- [[King of Edom (of Moses' time)]] — the unnamed ruler addressed by the embassy (20:14).
+
 - [[Peleth]] — named in the rebellion account (16:1–40).
 
 - [[On (son of Peleth)]] — named in the rebellion account (16:1–40).
@@ -229,6 +242,8 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Edom]] — refuses Israel passage (20:14–21).
 
 - [[Horeb]] — the wilderness of Sinai, where the book begins
 - [[Egypt]] — the point from which its dates are reckoned, and the land of the struck firstborn

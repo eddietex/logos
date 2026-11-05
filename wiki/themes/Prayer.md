@@ -31,6 +31,14 @@ phrase for public worship rather than for petition — see
 
 ## Development across Scripture
 
+### Edom refuses passage — Numbers 20:14–21
+
+The message remembers Israel crying to Yahweh and being heard (16). This is a retrospective
+report of answered prayer, not a recorded prayer for permission to cross Edom.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Moses and Aaron fall on their faces (45), but no words of prayer are supplied. Moses then
@@ -250,6 +258,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

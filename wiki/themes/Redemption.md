@@ -34,6 +34,14 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Edom refuses passage — Numbers 20:14–21
+
+The embassy summarizes the exodus as Yahweh hearing the cry, sending an angel, and
+bringing Israel out of Egypt (15–16). Rescue becomes the ground of an appeal for passage.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 The firstborn redemption is fixed at five sanctuary shekels from a month old (15–16).
@@ -222,6 +230,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

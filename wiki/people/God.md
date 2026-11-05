@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel’s message recalls Yahweh hearing its cry and sending an angel to bring it out of
+Egypt (16). This is retrospective testimony, not a new divine speech at the border.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### The red heifer — Numbers 19:1–22
 
 Yahweh addresses Moses and Aaron with a lasting provision for corpse impurity. The remedy
@@ -3186,6 +3194,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

@@ -273,6 +273,8 @@ Genesis 34 will make him a central figure. See [[Hamor]].
 
 ## Cross-references
 
+- [[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]] — the later national refusal contrasts with Esau’s welcome.
+
 - [[Wrestling at the Jabbok]] — Genesis 32:1–32; the whole night of fear, prayer, and staged gift
   this chapter answers, and the *face* the previous chapter names is the *face* this one speaks to a
   person.

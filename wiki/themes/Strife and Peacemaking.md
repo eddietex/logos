@@ -25,6 +25,14 @@ not be filed.
 
 ## Development across Scripture
 
+### Edom refuses passage — Numbers 20:14–21
+
+Repeated negotiation fails to secure passage, yet Israel turns away rather than engaging
+Edom’s force (17–21). Avoiding combat here is distinct from achieving reconciliation.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Hatred in the heart, vengeance, and grudges are rejected, while rebuke remains an obligation
@@ -357,6 +365,8 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

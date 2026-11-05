@@ -21346,3 +21346,30 @@ workflow instructions were unchanged.
 
 Validation: scripts/link-check.sh passed with no wrapped or dangling links; the expected
 baseline is 58 not-yet-started book pages. No title collision or unresolved ingest blocker.
+
+## [2026-11-04] ingest | Numbers 20.14-21 — Edom Refuses Passage
+
+Ingested the next planned unit without changing its boundary. Moses’ appeal to national
+brotherhood, the exodus recollection, successive transit proposals, Edom’s armed refusal,
+and Israel’s withdrawal are recorded in [[Edom Refuses Passage]].
+
+Created 3 pages: the passage, [[King of Edom (of Moses' time)]], and
+[[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]].
+Revised 26 existing pages including this log: Numbers and its queue, the Genesis 33
+passage’s cross-references, 5 people, 3 places, 6 themes, the existing angel-guidance
+connection, and 8 indexes/dashboards. Numbers is now 31 / 54; totals are 302 passages,
+216 people, 113 places, 87 themes, and 680 connections.
+
+The unnamed king receives a period qualifier without identification with a Genesis 36 ruler.
+The highway remains within the Edom discussion rather than receiving an uncertain route map
+or separate place page. Jacob and Esau are indexed as ancestral comparisons, not actors here.
+The water-payment offer is retained as a second negotiating proposal. Edom’s existing
+“consistently fights” characterization is explicitly qualified: Numbers narrates withdrawal
+without battle. Esau’s welcome and the nation’s refusal remain distinct rather than
+silently harmonized. The angel comparison leaves the messenger’s identity unresolved.
+
+Quoted WEB verses were copied from stored Numbers 20. Comparisons were checked against
+stored Genesis 33 and Exodus 3, 14, and 23; no unstored-book quotation or new source-language
+claim was introduced. Raw sources were unchanged. Category row coverage and unique titles
+checked clean; scripts/link-check.sh passed with 58 expected not-yet-started book targets.
+No unresolved ingest issue.

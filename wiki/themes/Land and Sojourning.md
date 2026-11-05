@@ -81,6 +81,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel requests limited transit across Edom, promising no damage and then payment for
+water. The refusal is met by withdrawal, not a territorial claim (17–21).
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 Aaron has Yahweh as his portion, and Levi receives the tithe as inheritance in
@@ -366,6 +374,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

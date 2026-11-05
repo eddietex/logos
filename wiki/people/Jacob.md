@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel appeals to Edom as a brother nation (14), carrying the patriarchal relationship
+into diplomacy. Jacob himself does not appear; the national refusal contrasts with his
+personal reception by Esau in Genesis 33. See [[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]].
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 The third patriarch, the father of the twelve tribes, and **the only one of the three whose name the
 nation ends up carrying** — under his second name, Israel, given at a river in the dark after a
 fight he did not start and did not win outright.
@@ -769,6 +778,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21 (ancestral comparison).
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46; covenant party, not present.
 

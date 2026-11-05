@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Moses sends the embassy from here; his message describes Kadesh as a city at the edge of
+Edom’s border (14, 16). The text supplies this relation without a surveyed boundary.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The congregation stays here in the wilderness of Zin; Miriam dies and is buried here (1).
@@ -52,6 +60,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

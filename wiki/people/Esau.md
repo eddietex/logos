@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+The national brotherhood invoked at Edom’s border (14) rests on the ancestral relationship.
+Esau is not present or named personally. Edom’s armed refusal does not undo the account of
+his welcome to Jacob in Genesis 33; different generations act differently.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 Isaac's firstborn by minutes, the ancestor of Edom, and **the only person in his own birth narrative
 whose name Genesis refuses to explain.**
 
@@ -207,6 +216,8 @@ father of the Edomites"* (36:43). **After it he is not mentioned in the book aga
 - *"This is Esau, the father of the Edomites"* — his last words in the book — Genesis 36:43
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21 (ancestral comparison).
 
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:19–34; the elder twin of the oracle, born
   red and hairy into two etymologies that are not his own name, loved by his father for his venison,

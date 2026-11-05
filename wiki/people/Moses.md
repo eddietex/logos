@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Moses continues to act as Israel’s envoy after the Meribah sentence. He sends messengers
+with an appeal to kinship and a recollection of rescue; Edom refuses passage (14–21).
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Moses takes the rod as commanded, gathers the people with Aaron, addresses them as rebels,
@@ -1253,6 +1261,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

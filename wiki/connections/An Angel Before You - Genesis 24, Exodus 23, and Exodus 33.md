@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Edom Refuses Passage]] — Numbers 20:14–21, especially the recalled angel in verse 16.
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; continued communication without a named angel.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28.
@@ -32,6 +34,15 @@ tags: [connection]
   (WEB)
 
 ## Analysis
+
+### The rescue recalled at Edom’s border
+
+[[Edom Refuses Passage]] summarizes the exodus through Yahweh hearing, sending an angel, and
+bringing Israel out (Numbers 20:16). This retrospect complements the angel’s movement in
+Exodus 14:19 and the guidance promised in 23:20–23. It does not identify the angel or
+say that the promise guarantees access through every neighboring territory. Edom refuses.
+These comparisons were checked in stored WEB Numbers 20 and Exodus 14 and 23.
+
 
 **The sentence is first spoken by Abraham about a household errand, and then by God about a nation's
 march.** In Hebrew, Genesis 24:7 has *yišlaḥ malʾākô ləpānêkā*, *he will send his angel before you*.

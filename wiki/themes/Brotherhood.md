@@ -24,6 +24,14 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel addresses Edom as a brother, but kinship does not produce permission to pass.
+The appeal fails, and Israel withdraws before Edom’s force (14–21).
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### Poor brother and service — Leviticus 25:35–55
 
 *Brother* opens each case of poverty (35, 39, 47) and draws the legal line: no interest, no slave
@@ -210,6 +218,8 @@ Moses' elder brother and sister speak against him. Aaron's *my lord* (11) revers
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

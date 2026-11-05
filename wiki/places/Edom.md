@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel requests transit, not possession, and promises to protect fields and vineyards,
+then offers payment for any water consumed. Edom refuses twice and mobilizes; Israel turns
+away (14–21). The earlier description of the nations as consistently fighting needs this
+qualification: the confrontation here ends without a narrated battle.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 **The nation Israel is related to and cannot get along with** — the one neighbour the Hebrew Bible
 consistently calls *brother* and consistently fights.
 
@@ -64,6 +74,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:23, 25, 30; forecast as one of the *two
   nations*, seeded by the *ʾadmônî* and *śēʿār* of the birth notice, and named outright from the red

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel’s diplomatic message recalls ancestral migration, long residence, mistreatment,
+and Yahweh’s rescue (15–16). Egypt is the remembered setting, not the embassy’s location.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Egypt is the land the people blame their leaders for leaving (5), not the setting
@@ -228,6 +236,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

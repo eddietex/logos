@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Edom refuses passage — Numbers 20:14–21
+
+Israel recalls an angel sent by Yahweh in the deliverance from Egypt (16). The WEB here
+says an angel without further identification; this comparison does not settle the identity
+questions attached to other angel passages or narrate a new appearance at Kadesh.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 *Malʾak YHWH* — literally **Yahweh's messenger**. The figure enters the Bible at Genesis 16:7, in a
 desert, addressing an Egyptian slave, and it enters carrying the problem it never puts down: he is
 sent by God and he speaks as God, and the text will not say which.
@@ -335,6 +344,8 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 - Exodus 32 — The angel is promised before the people, with judgment still pending (32:34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the promised angel grouped here without identifying him
   (33:2).

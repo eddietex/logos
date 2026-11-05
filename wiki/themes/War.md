@@ -25,6 +25,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Edom refuses passage — Numbers 20:14–21
+
+Edom threatens the sword and comes out in force; Israel withdraws (18–21). Military
+coercion succeeds without a battle being narrated.
+
+See [[Edom Refuses Passage]]. Source: stored WEB Numbers 20:14–21.
+
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Leviticus never mentions war here, but *ḥērem* (28–29) is the word of the conquest texts. See
@@ -239,6 +247,8 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
