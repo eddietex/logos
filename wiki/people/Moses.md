@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Offerings of the Appointed Feasts — Numbers 28:16–29:40
+
+Moses receives the second half of the offering calendar — the animals for Unleavened Bread, the first
+fruits, and the three occasions of the seventh month — and the unit closes with his report: *Moses
+told the children of Israel according to all that Yahweh commanded Moses* (29:40; Hebrew 30:1).
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ### Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
 
 Moses receives the order to command Israel to present Yahweh's offering *in their due season* (2): the
@@ -1612,6 +1620,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[The Defeat at Hormah]] — Numbers 14:39–44; warns, and stays with the ark.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; receives law for the land.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; receives the calendar of daily, Sabbath, and new-moon offerings.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; receives the offerings of the annual feasts and tells them to Israel (29:40).
 
 ## Related people
 

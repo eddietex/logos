@@ -662,6 +662,15 @@ supply the reason the text leaves out.
 
 See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
 
+### A goat at every feast — Numbers 28:16–29:40
+
+Every feast day carries one male goat for a sin offering — *to make atonement for you* at Unleavened
+Bread, the first fruits, and the first of the seventh month (28:22, 30; 29:5); *besides the sin
+offering of atonement* on the tenth (29:11); and without the atonement phrase through the feast of
+tents (29:16–38). No sin is named for any of them.
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -946,6 +955,7 @@ See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1�
 - [[The Defeat at Hormah]] — Numbers 14:40–43; a confession and a new transgression at once
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:22–31; error set against the high hand
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:15; a male goat for a sin offering at each new month
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11, 16–38; a sin-offering goat at every feast
 
 ## Related themes
 

@@ -103,6 +103,7 @@ father's place repeats it, once a year, for sanctuary, tent, altar, priests, and
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:10's once-a-year atonement on the incense altar's horns.
 - [[The Sin Offering for Priest and Congregation]] — Leviticus 4's bull for priest and congregation, its blood before the veil, its carcass outside the camp.
 - [[The Ram Instead of the Son - Substitution at Moriah]] and [[A Garment and a Goat - Jacob Deceives and Is Deceived]] — earlier threads already reading forward to the two goats.
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:7–11; the day's festival burnt offering, *besides the sin offering of atonement* prescribed here.
 
 ## Notes
 

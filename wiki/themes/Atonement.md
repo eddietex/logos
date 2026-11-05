@@ -302,6 +302,15 @@ Atonement is made *for* the Levites with bulls (12) and by Aaron (21). Then the 
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Atonement at the feasts — Numbers 28:16–29:40
+
+Numbers attaches a sin-offering goat *to make atonement for you* to Unleavened Bread, the first fruits,
+and the first of the seventh month (28:22, 30; 29:5). On the tenth day the feast's goat is *besides the
+sin offering of atonement* (29:11), the rite of Leviticus 16, which Numbers presupposes and does not
+restate; Israel is to *afflict your souls* (29:7).
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
@@ -370,6 +379,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Nazirite Vow]] — Numbers 6:11; atonement for a death nobody intended.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:12, 19, 21; atonement for the Levites and by them.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; atonement for error, and none named for the high hand
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11; *to make atonement for you*, and the sin offering of atonement presupposed
 
 ## Related themes
 

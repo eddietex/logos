@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Offerings of the Appointed Feasts — Numbers 28:16–29:40
+
+The feast calendar continues in the plains of Moab setting of chapters 22–36; Moab is not named in
+the unit.
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ### Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
 
 Moab is not named in this unit; the plains of Moab remain the setting of Numbers 22–36, where the
@@ -171,6 +178,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
   **Emim in Shaveh Kiriathaim**, the people Deuteronomy 2:10–11 says held this land before Moab did
 - [[The Song of the Sea]] — Exodus 15:15; **its mighty men trembling.** *"Trembling takes hold of the mighty men of Moab"*
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; contextual setting.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; contextual setting.
 
 ## Related places
 

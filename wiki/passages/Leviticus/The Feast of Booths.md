@@ -89,6 +89,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   to teach children the departure; Leviticus 23:43 gives shelters a comparable purpose.
 - [[Sabbath, Passover, and Unleavened Bread]] — the calendar opens with another seven-day
   feast; its closing assembly is on the seventh day, whereas Booths adds an eighth.
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:12–38; the seven days' offerings, with bulls descending from thirteen
+  to seven, and the eighth day's single bull.
 
 
 ## Notes

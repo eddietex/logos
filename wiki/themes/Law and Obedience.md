@@ -995,6 +995,14 @@ timing of worship as well as its content.
 
 See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
 
+### After the ordinance — Numbers 28:16–29:40
+
+The feast offerings are fixed by number, and from 29:18 the lesser offerings are stated only as
+*according to their number, after the ordinance* (*kammišpāṭ*, MAM via Sefaria). The unit ends with
+Moses telling Israel *according to all that Yahweh commanded Moses* (29:40).
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -1231,6 +1239,7 @@ See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1�
 - [[The Defeat at Hormah]] — Numbers 14:40–44; the command refused, then attempted after it was withdrawn
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:15–16, 22, 31; one law, commands not done, and the word despised
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:2; keeping the offerings at their appointed times
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:18, 40; offerings *after the ordinance*, and Moses' report
 
 ## Related themes
 

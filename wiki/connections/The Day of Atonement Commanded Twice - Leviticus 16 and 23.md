@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[The Day of Atonement]] — Leviticus 16:1–34.
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:23–32, especially 26–32.
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:7–11, a third statement: the day's burnt offering and goat,
+  *besides the sin offering of atonement*.
 
 ## Analysis
 

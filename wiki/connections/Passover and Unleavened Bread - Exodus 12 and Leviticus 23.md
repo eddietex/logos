@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[The Passover]] — Exodus 12:1–28, especially 6, 15–20.
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–25, the week's offerings numbered.
 
 ## Analysis
 

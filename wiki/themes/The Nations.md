@@ -216,6 +216,15 @@ Moses argues that the Egyptians and the people of the land know what Yahweh has 
 conclusions (13–16). Yahweh's name stands in their hearing. See
 [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]].
 
+### Seventy bulls — Numbers 29:12–34
+
+The bulls of the seven days of tents total seventy. Numbers does not comment on the number. In the
+Talmud, Sukkah 55b, Rabbi Elazar says they correspond to the seventy nations of the world and that the
+one bull of the eighth day corresponds to Israel (William Davidson translation via Sefaria, checked
+2026-11-05). See [[Seventy Nations - Genesis 10 in Deuteronomy 32 and Luke 10]].
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
@@ -476,6 +485,7 @@ conclusions (13–16). Yahweh's name stands in their hearing. See
 - [[The Twelve Spies]] — Numbers 13:28–29, 33; the peoples of the land by region
 - [[The People Refuse the Land]] — Numbers 14:13–16; the nations as the audience of Israel's fate
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:14–16, 26, 29; *as you are, so shall the foreigner be*
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:12–34; seventy bulls, read in Sukkah 55b as offered for the seventy nations
 
 ## Related themes
 

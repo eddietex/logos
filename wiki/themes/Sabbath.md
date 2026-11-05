@@ -229,6 +229,15 @@ work is not restated here; the unit adds to the day's worship rather than defini
 
 See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
 
+### Rest on the feast days — Numbers 28:16–29:40
+
+The feast days forbid *regular work* (*məleʾket ʿăbōdâ*), but the tenth of the seventh month forbids
+*no kind of work* (29:7; *kol-məlāʾkâ*, MAM via Sefaria) — the Sabbath's own wording at Leviticus 23:3
+in WEB. The first of the seventh month is a new moon and receives the new-moon offering as well as its
+own (29:6).
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
@@ -298,6 +307,7 @@ See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1�
 
 - [[The Work Completed]] — Exodus 39:32–43; Creation’s rest supplies comparative context; no Sabbath observance is narrated.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:9–10; two lambs every Sabbath, besides the continual offering
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:6–7; the seventh month's new moon, and the Day of Atonement's Sabbath-like rest
 
 ## Related themes
 

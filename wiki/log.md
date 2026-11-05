@@ -21779,3 +21779,43 @@ according to the Masorah via the Sefaria API.
 Frontmatter recount: 316 passages, 236 people, 146 places, 87 themes, 701 connections. Link checks
 clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
 No unresolved issue.
+
+## [2026-11-05] ingest | Numbers 28.16-29.40 — The Offerings of the Appointed Feasts
+
+Ingested one pericope in unattended mode with Claude Code; the discussion is written into the
+passage page. The calendar of Numbers 28 continues to the annual feasts: two bulls, a ram, seven
+lambs, and a goat for each day of Unleavened Bread and for the first fruits; one bull on the first
+and tenth of the seventh month and on the eighth day; and for the seven days of tents a descending
+series of bulls from thirteen to seven, seventy in all, with doubled rams and lambs. Every set is
+*besides the continual burnt offering*, and the whole is *besides your vows* (29:39). Numbers is now
+46 / 54; the 28:16–29:40 boundary and the provisional title are unchanged.
+
+Created 2 pages: the passage and one connection,
+[[The Feast Offerings Numbered - Leviticus 23, Numbers 28-29, Ezra 3, and Ezekiel 45]]. Revised 39
+existing pages: the book page and books index; Moses, God, and Moab (place); nine themes (Festivals
+and First Fruits, Sacrifice and Offering, Sin, Law and Obedience, Sabbath, Atonement, Work, Oaths and
+Vows, The Nations); eight connections (Seventy Nations, Trumpet and Ram's Horn, Three Times a Year, The
+Day of Atonement Commanded Twice, Passover and Unleavened Bread, Measures of Flour, Oil, and Wine, The
+Continual Burnt Offering, A Pleasing Aroma); seven earlier passages (the four Leviticus 23 units, The
+Day of Atonement, Daily, Sabbath, and New Moon Offerings, The Two Silver Trumpets); the people F-M,
+places, themes, and five connection subindexes; the dashboard; and this log.
+
+Contradiction flagged, not harmonized: on the day of first fruits Leviticus 23:18 has one bull and two
+rams (plus two peace-offering lambs), and Numbers 28:27 has two bulls and one ram; the Hebrew numbers
+match WEB in both. Recorded on the passage page, on First Fruits and the Feast of Weeks, and on the new
+connection. Ezekiel 45:21–25's seven bulls and seven rams daily is likewise flagged as a discrepancy.
+Judgment calls: no new person or place page; Moab is listed as the contextual setting only; WEB 29:40
+is noted as Hebrew 30:1.
+
+External WEB quotations (Ezra 3:1–6; Nehemiah 8:13–18; Ezekiel 45:21–25; 2 Chronicles 8:12–13; John
+7:37) were verified through bible-api.com, `translation=web`; nothing was fetched into raw/. Hebrew
+claims (*pesaḥ laYHWH* 28:16; *bəšābuʿōtêkem* 28:26; the numbers of 28:27 and Leviticus 23:18; *yôm
+tərûʿâ* 29:1 and *zikrôn tərûʿâ* Leviticus 23:24; *məleʾket ʿăbōdâ* against *kol-məlāʾkâ* at 29:1, 7, 35
+and Leviticus 23:28; *wəʿinnîtem* 29:7 and *təʿannû* Leviticus 16:29; *kammišpāṭ* 29:18; *ʿăṣeret*
+29:35; the 30:1 verse division) were checked in Miqra according to the Masorah via the Sefaria API.
+Rabbi Elazar's seventy-nations reading was checked in Sukkah 55b, William Davidson translation via
+Sefaria.
+
+Frontmatter recount: 317 passages, 236 people, 146 places, 87 themes, 702 connections. Link checks
+clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
+No unresolved issue.

@@ -713,6 +713,14 @@ The Levite law gives work a start and an end: twenty-five to fifty. After that a
 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
+### Regular work and all work — Numbers 28:16–29:40
+
+Six feast days forbid *regular work* — Hebrew *məleʾket ʿăbōdâ*, *work of service* (28:18, 25, 26;
+29:1, 12, 35). The tenth of the seventh month forbids *no kind of work*, *kol-məlāʾkâ* (29:7). Hebrew
+forms checked for 29:1, 7, 35 in MAM via Sefaria. The text does not define the difference.
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
@@ -978,6 +986,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:23–26; a working life with an age limit.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:18–29:35; *regular work* on the feasts, *no kind of work* on the tenth of the seventh month.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

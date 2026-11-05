@@ -315,6 +315,13 @@ By the tags this is the first *ḥay ʾānî* (21, 28), and 14:23, 30, and 35 ha
 *ʾim*. The land was sworn to the fathers (16, 23), and here Yahweh swears not to give it to these
 men, with the same raised hand as Exodus 6:8 (30). See [[The People Refuse the Land]].
 
+### Besides your vows — Numbers 29:39
+
+The feast calendar closes by setting itself *besides your vows, and your freewill offerings* (29:39):
+the fixed public offerings do not discharge a private vow. The next unit, Numbers 30, turns to vows.
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
@@ -502,6 +509,7 @@ men, with the same raised hand as Exodus 6:8 (30). See [[The People Refuse the L
 - [[The People Refuse the Land]] — Numbers 14:21–23, 28–30, 35; the first *as I live*, and the oath
   of exclusion
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 8; a vow as an occasion for sacrifice
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:39; the public calendar *besides your vows*
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

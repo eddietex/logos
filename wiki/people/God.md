@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The Offerings of the Appointed Feasts — Numbers 28:16–29:40
+
+Yahweh fixes the offering for every annual feast, each *besides the continual burnt offering*, and
+calls them *the food of the offering made by fire, of a pleasant aroma to Yahweh* (28:24). Each feast
+carries a goat *to make atonement for you* (28:22, 30; 29:5). The calendar is public worship;
+individual vows and freewill offerings are *besides* it (29:39).
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ### Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
 
 Yahweh speaks of the offerings in the first person: *my offering, my food for my offerings made by
@@ -3992,6 +4001,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Defeat at Hormah]] — Numbers 14:42–45; not among them.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; law for the land, forgiveness, and the high hand.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; calls the offerings *my food* and fixes their times.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; fixes the offerings of every annual feast.
 
 ## Related people
 

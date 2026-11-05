@@ -101,6 +101,9 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   first produce is presented before the harvest is eaten.
 - [[Measures of Flour, Oil, and Wine - Exodus 29, Numbers 15, Numbers 28, and Ezekiel 46]] — verse 13
 - [[When You Come Into the Land - The Law Given Before Arrival]] — verse 10
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:26–31; two bulls and one ram where 23:18 has one bull and two rams.
+  The disagreement is recorded on both pages and in
+  [[The Feast Offerings Numbered - Leviticus 23, Numbers 28-29, Ezra 3, and Ezekiel 45]].
 
 ## Notes
 
@@ -126,3 +129,11 @@ produce. The next divine speech starts at 23:23, so no boundary change is needed
 All quotations above are copied from stored WEB. Comparisons were checked in stored
 Leviticus 2, 7, 19 and Exodus 23, 34. No external quotation or Hebrew/Greek assertion
 is added; prior wider comparisons remain on their existing connection pages.
+
+**A different count in Numbers.** Numbers 28:27 prescribes for the same day *two young bulls, one ram,
+seven male lambs a year old*, with a goat (28:30) and no peace offering; verse 18 here has one young
+bull and two rams, with two lambs for peace offerings (19). The Hebrew numbers match WEB in both verses
+(Miqra according to the Masorah via Sefaria, checked 2026-11-05). Neither text says the sets are
+separate or that one replaces the other; the disagreement is recorded, not harmonized. See
+[[The Offerings of the Appointed Feasts]] and
+[[The Feast Offerings Numbered - Leviticus 23, Numbers 28-29, Ezra 3, and Ezekiel 45]].

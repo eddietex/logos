@@ -12,7 +12,7 @@ tags: [connection]
 - [[The Ten Commandments]] — Exodus 20:18; *šôpār*
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:24; *tərûʿâ* and no instrument
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:9; *šôpar tərûʿâ*
-- Numbers 29:1 — a day of *tərûʿâ* *(stored WEB, not yet ingested)*
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:1; a day of *tərûʿâ*
 - Joshua 6:4–5, 20 — the rams' horns at Jericho *(WEB checked, not yet ingested)*
 - Psalms 47:5; 81:3; 98:6; 150:3 — the instruments in song *(WEB checked, not yet ingested)*
 - Hosea 5:8 — both named in one line *(WEB checked, not yet ingested)*

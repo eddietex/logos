@@ -13,6 +13,8 @@ tags: [connection]
   with oil"*, and *"the fourth part of a hin"* of wine — [[First Fruits and the Feast of Weeks]]
 - **Numbers 15:4–10** — lamb, ram, and bull — [[Offerings in the Land and Sins of Ignorance]]
 - **Numbers 28:5–7, 12–14** — the daily and monthly offerings, by the same scale — [[Daily, Sabbath, and New Moon Offerings]]
+- **Numbers 28:20–21, 28–29; 29:3–4, 9–10, 14–15, 18** — the feast offerings, flour by the same scale, then
+  *"according to their number, after the ordinance"* — [[The Offerings of the Appointed Feasts]]
 - **Ezekiel 46:5–7, 11, 14** — *"an ephah for the bull, and an ephah for the ram"*, *"a hin of oil to an
   ephah"*, and *"the sixth part of an ephah, and the third part of a hin of oil"* for the daily lamb
 - **Philippians 2:17; 2 Timothy 4:6** — *"poured out"* and *"already being offered"*, the verb
@@ -31,6 +33,7 @@ tags: [connection]
 | Numbers 15:9–10 | bull | 3/10 | 1/2 | 1/2 |
 | Numbers 28:5–7 | daily lamb | 1/10 | 1/4, beaten | 1/4, *strong drink* |
 | Numbers 28:12–14 | bull, ram, lamb | 3/10, 2/10, 1/10 | unstated | 1/2, 1/3, 1/4 |
+| Numbers 28:20–29:15 | bull, ram, lamb | 3/10, 2/10, 1/10 | unstated | unstated |
 | Ezekiel 46:5–7, 11 | bull, ram | 1 each | 1 per ephah | unstated |
 | Ezekiel 46:14 | daily lamb | 1/6 | 1/3 | unstated |
 

@@ -11,6 +11,8 @@ tags: [connection]
   *"a continual burnt offering throughout your generations"* — [[The Ordination of the Priests]].
 - **Numbers 28:1–8** — the same offering at the head of the festival calendar, *"ordained in Mount
   Sinai"* — [[Daily, Sabbath, and New Moon Offerings]] (stored WEB).
+- **Numbers 28:16–29:38** — every feast offering *"besides the continual burnt offering"* —
+  [[The Offerings of the Appointed Feasts]] (stored WEB).
 - **Daniel 8:11–13** — in a vision, a power takes away *"the continual burnt offering"*, and a holy
   one asks how long the vision will last *(verified WEB; not yet ingested)*.
 
@@ -38,7 +40,9 @@ fourth of a hin of beaten oil, and a fourth of a hin for the drink offering. Num
 lambs are *"without defect"* and that the drink is *"strong drink"* poured *"in the holy place"*.
 It calls this *"a continual burnt offering, which was ordained in Mount Sinai"* (28:6), pointing back to
 the Sinai instruction. The festival offerings of Numbers 28–29 are then stated as additions to this
-daily base, a structure noted here as context only.
+daily base, with the refrain *besides the continual burnt offering* at every feast (28:23–24, 31; 29:6,
+11, 16–38). Ezra 3:5 keeps the same order after the return: the feast of tents, *and afterward the
+continual burnt offering* (verified WEB).
 
 **Daniel makes its removal a sign of catastrophe.** In Daniel 8:11–13 the power of the vision
 *"took away from him the continual burnt offering, and the place of his sanctuary was cast down"*.

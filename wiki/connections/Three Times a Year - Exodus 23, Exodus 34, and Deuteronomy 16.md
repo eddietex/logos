@@ -18,6 +18,7 @@ tags: [connection]
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:14–19.
 - Exodus 34:18–26 — the parallel calendar in the covenant renewal; checked in raw.
 - Deuteronomy 16:1–17 — Passover, Weeks, and Tents; verified WEB, not yet ingested.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–31; 29:12–38, the offerings for each of the three feasts.
 
 ## Analysis
 

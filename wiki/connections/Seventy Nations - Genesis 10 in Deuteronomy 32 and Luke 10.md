@@ -14,7 +14,8 @@ tags: [connection]
 - **Exodus 24:1, 9; Numbers 11:16–25** — seventy elders on the mountain, and seventy who receive the
   spirit — [[The Blood of the Covenant]]
 - **Numbers 29:12–34** — the bulls of Sukkot: thirteen, twelve, eleven, ten, nine, eight, seven — the
-  descending series that totals seventy.
+  descending series that totals seventy — [[The Offerings of the Appointed Feasts]]. Rabbi Elazar's
+  reading in *Sukkah* 55b was checked in the William Davidson translation via Sefaria, 2026-11-05.
 - **Deuteronomy 32:8** — *"When the Most High gave to the nations their inheritance, when he separated
   the children of men, he set the bounds of the peoples according to the number of the children of
   Israel."*

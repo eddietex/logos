@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Offerings of the Appointed Feasts]] (28:16–29:40) completes the calendar: the animals for
+Unleavened Bread, the first fruits, and the seventh month's first, tenth, and fifteenth days, with
+seventy bulls across the week of tents. Every set is *besides the continual burnt offering*. On the
+first fruits it disagrees with Leviticus 23:18, and the wiki records both.
+
 [[Daily, Sabbath, and New Moon Offerings]] (28:1–15) opens the offering calendar for the counted generation: two
 lambs every day, *ordained in Mount Sinai*, two more each Sabbath, and bulls, a ram, lambs, and a
 sin-offering goat each new month — each layer *besides the continual burnt offering*. Yahweh calls the
@@ -226,7 +231,7 @@ merge, or reorder them freely.
 - [x] [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11
 - [x] [[Joshua Commissioned]] — Numbers 27:12–23
 - [x] [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15
-- [ ] The Offerings of the Appointed Feasts — Numbers 28:16–29:40
+- [x] [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40
 - [ ] Vows of Men and Women — Numbers 30:1–16
 - [ ] The War Against Midian — Numbers 31:1–54
 - [ ] Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
@@ -248,7 +253,7 @@ merge, or reorder them freely.
 
 - [[Kingship and Empire]] — [[Balaam's First Two Oracles]].
 
-- [[The Nations]] — [[Balaam's First Two Oracles]].
+- [[The Nations]] — [[Balaam's First Two Oracles]]; the seventy bulls of tents, [[The Offerings of the Appointed Feasts]] (29:12–34).
 
 - [[Divine Grief and Relenting]] — [[Balaam's First Two Oracles]].
 
@@ -272,7 +277,7 @@ merge, or reorder them freely.
 
 - [[Names and Naming]] — the vow and victory at Hormah (21:1–3).
 
-- [[Oaths and Vows]] — the vow and victory at Hormah (21:1–3).
+- [[Oaths and Vows]] — the vow and victory at Hormah (21:1–3); the calendar *besides your vows*, [[The Offerings of the Appointed Feasts]] (29:39).
 
 - [[Prayer]] — the appeal and withdrawal at Edom (20:14–21).
 
@@ -282,12 +287,12 @@ merge, or reorder them freely.
 
 - [[Life and Death]] — the red heifer and purification (19:1–22).
 
-- [[Sacrifice and Offering]] — the red heifer and purification (19:1–22); the calendar of offerings, [[Daily, Sabbath, and New Moon Offerings]] (28:1–15).
+- [[Sacrifice and Offering]] — the red heifer and purification (19:1–22); the calendar of offerings, [[Daily, Sabbath, and New Moon Offerings]] (28:1–15); the feast offerings, [[The Offerings of the Appointed Feasts]] (28:16–29:40).
 
 - [[Tithing]] — Levi’s support for Tent service, with a tenth returned to Aaron (18:21–32)
 - [[Covenant]] — the lasting priestly grant described as a covenant of salt (18:19)
 
-- [[Sabbath]] — gathering sticks judged by a specific divine sentence (15:32–36); two lambs every Sabbath, [[Daily, Sabbath, and New Moon Offerings]] (28:9–10).
+- [[Sabbath]] — gathering sticks judged by a specific divine sentence (15:32–36); two lambs every Sabbath, [[Daily, Sabbath, and New Moon Offerings]] (28:9–10); the Day of Atonement's rest from all work, [[The Offerings of the Appointed Feasts]] (29:7).
 
 - [[The Wilderness]] — the setting of the book and the name it carries in Hebrew
 - [[War]] — Israel is mustered as an army
@@ -302,10 +307,10 @@ merge, or reorder them freely.
 - [[Marriage]] — the law of jealousy
 - [[Curse]] — the oath of cursing, written and drunk
 - [[Blessing]] — the priests' words, and Yahweh's act
-- [[Atonement]] — made for the Levites, and by them for Israel
+- [[Atonement]] — made for the Levites, and by them for Israel; a sin-offering goat *to make atonement for you* at the feasts, [[The Offerings of the Appointed Feasts]] (28:22, 30; 29:5)
 - [[Light and Darkness]] — the seven lamps lit
 - [[Work]] — Levite service with an age limit
-- [[Festivals and First Fruits]] — the Passover kept, and a second date set; the new-moon offerings, [[Daily, Sabbath, and New Moon Offerings]] (28:11–15).
+- [[Festivals and First Fruits]] — the Passover kept, and a second date set; the new-moon offerings, [[Daily, Sabbath, and New Moon Offerings]] (28:11–15); every annual feast numbered, [[The Offerings of the Appointed Feasts]] (28:16–29:40).
 - [[Remembrance]] — *remembered before Yahweh* at the alarm of the trumpets
 - [[Murmuring]] — the complaints that begin as soon as the march does
 - [[Land and Sojourning]] — the land searched, and refused

@@ -159,6 +159,18 @@ Unleavened Bread and Weeks in the next unit (28:19–22, 27–30). See
 
 See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
 
+### The annual feasts numbered — Numbers 28:16–29:40
+
+Numbers gives the animals for every day Leviticus 23 dated: two bulls, a ram, seven lambs, and a goat
+for each day of Unleavened Bread and for the first fruits; one bull for the first and tenth of the
+seventh month and the eighth day; and for the seven days of tents a descending series of bulls from
+thirteen to seven, seventy in all. On the first fruits it disagrees with Leviticus 23:18 (two bulls and
+one ram against one bull and two rams); both are recorded. Ezra 3:4 later describes the feast of tents
+kept *by number, according to the ordinance*. See
+[[The Feast Offerings Numbered - Leviticus 23, Numbers 28-29, Ezra 3, and Ezekiel 45]].
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
@@ -195,6 +207,7 @@ See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1�
 - [[The Twelve Spies]] — Numbers 13:20, 26; the first-ripe grapes, brought as evidence
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 17–21; set feasts, and the first of the dough
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the recurring calendar under the annual feasts: daily, Sabbath, and new moon
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the animals for Unleavened Bread, the first fruits, and the seventh month
 
 ## Related themes
 

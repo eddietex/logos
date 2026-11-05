@@ -86,6 +86,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:21 likewise joins holy assembly
   with cessation of regular work; the calendar now proceeds to seventh-month dates.
 - [[The Two Silver Trumpets]] — Numbers 10:10; a *memorial* with trumpets. Leviticus 23:24 itself has *tərûʿâ* and no instrument word (WLC)
+- [[The Offerings of the Appointed Feasts]] — Numbers 29:1–11; the offerings for the first and tenth of the seventh month;
+  29:1 also has *yôm tərûʿâ* without an instrument (MAM).
 
 ## Notes
 

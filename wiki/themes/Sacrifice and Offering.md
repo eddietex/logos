@@ -683,6 +683,16 @@ scale of Numbers 15. See [[The Bread of God - Leviticus 3 and 21, Numbers 28, Ps
 
 See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
 
+### The feast offerings — Numbers 28:16–29:40
+
+Each annual feast receives a burnt offering of bulls, rams, and lambs with meal offerings by a fixed
+scale, and a goat for a sin offering, all *besides the continual burnt offering*. The calendar's
+offerings are cumulative: the first of the seventh month carries its own set, the new-moon set, and the
+daily lambs together (29:6). From 29:18 the meal and drink offerings are *according to their number,
+after the ordinance*, assuming the scale of Numbers 15.
+
+See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
 ## Key passages
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
@@ -928,6 +938,7 @@ See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1�
 - [[The Two Silver Trumpets]] — Numbers 10:10; trumpets blown over burnt offerings and peace offerings.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–16, 24–29; meal and drink offerings required with every animal
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the daily, Sabbath, and new-moon offerings, cumulative on the continual burnt offering
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the feast offerings, cumulative on the continual and the new moon
 
 ## Related themes
 

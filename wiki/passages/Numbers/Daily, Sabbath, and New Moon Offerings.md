@@ -85,6 +85,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
   offerings now applied to the calendar.
 - [[Sabbath, Passover, and Unleavened Bread]] — Leviticus 23:1–8, the start of the feast calendar,
   which for most days requires *an offering made by fire* without listing the animals.
+- [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40, the second half of the calendar, laid on this one.
 
 ## Notes
 
