@@ -212,6 +212,14 @@ the people's own (33–34). See [[The People Refuse the Land]].
 The verb of *I have pardoned* (14:20) returns three times, each following the priest's atonement. It is
 not extended to the high hand, whose iniquity stays on the person (31). See [[Offerings in the Land and Sins of Ignorance]].
 
+### Forgiven a cancelled vow — Numbers 30:5, 8, 12
+
+When a father or husband forbids a woman's vow, *Yahweh will forgive her* (*yislaḥ-lāh*, MAM via Sefaria),
+and no offering is named — unlike the rash oath of Leviticus 5:4–6, which needs a sin offering. The text
+does not say she sinned by vowing, and the wiki leaves open whether *forgive* here means more than release.
+
+See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
+
 ## Key passages
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
@@ -283,6 +291,7 @@ not extended to the high hand, whose iniquity stays on the person (31). See [[Of
   it
 - [[The Defeat at Hormah]] — Numbers 14:42; pardoned at 14:20, yet Yahweh is not among them
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25–28; the verb of 14:19–20, attached to a procedure
+- [[Vows of Men and Women]] — Numbers 30:5, 8, 12; *Yahweh will forgive her*, with no offering
 
 ## Related themes
 

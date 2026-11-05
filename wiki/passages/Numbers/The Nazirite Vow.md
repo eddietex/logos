@@ -126,7 +126,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the unit that follows, words in place of signs
 - [[Jacob Blesses His Sons]] — Genesis 49:26, *nəzîr* over Joseph
 - Amos 2:11–12 — Nazirites raised up and given wine to drink *(not yet ingested)*
-- Numbers 30:3–15 — a father's or husband's power to void a woman's vow *(not yet ingested)*
+- [[Vows of Men and Women]] — Numbers 30:3–15; a father's or husband's power to void a woman's vow
 
 ## Notes
 

@@ -21819,3 +21819,43 @@ Sefaria.
 Frontmatter recount: 317 passages, 236 people, 146 places, 87 themes, 702 connections. Link checks
 clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
 No unresolved issue.
+
+## [2026-11-05] ingest | Numbers 30.1-16 — Vows of Men and Women
+
+Ingested one pericope in unattended mode with Claude Code; the discussion is written into the
+passage page. Moses gives the heads of the tribes the vow law: a man who vows or swears *shall not
+break his word* (2); a young woman's vow in her father's house, or a wife's vow brought into the
+marriage or made in her husband's house, stands if he holds his peace and is void if he forbids it
+*in the day that he hears*, and then *Yahweh will forgive her*; a widow's or divorced woman's vow
+stands; a husband who voids a vow late *shall bear her iniquity*. Numbers is now 47 / 54; the
+30:1–16 boundary and the provisional title are unchanged.
+
+Created 3 pages: the passage and two connections,
+[[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]] and
+[[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]]. Revised 24 existing pages:
+the book page and books index; Moses and God and the people F-M subindex; six themes (Oaths and Vows,
+Marriage, Forgiveness, Language and Speech, Law and Obedience, The Poor and the Vulnerable) and the
+themes index; four connections (Pay What You Vow, A Person Vowed to Yahweh, Yes, He Will Be Blessed,
+Meribah's Sentence and Aaron's Death) and the I-N and O-S connection subindexes; five earlier passages
+(The Nazirite Vow, The Offerings of the Appointed Feasts, Jacob's Ladder at Bethel, Confession and
+Offerings According to Means, The Waters of Meribah), whose *not yet ingested* references to Numbers 30
+now link here; the dashboard; and this log.
+
+Judgment calls: no new person or place page (the vowers are unnamed legal figures; Hannah and Elkanah
+wait for 1 Samuel); Moab is listed as the contextual setting only. Recorded, not resolved: Psalm 106:33
+names Moses' fault at Meribah as rash speech, where Numbers 20:12 names unbelief; both are kept on the
+new Rash Words connection. Elkanah's *may Yahweh establish his word* (1 Samuel 1:23) shares the verb of
+confirming with Numbers 30:13–14, but no allusion is claimed, and *his word* is left without an assigned
+antecedent. The claim that *ʾissār* occurs only in Numbers 30 was not checked and is not made.
+
+External WEB quotations (1 Samuel 1:11, 21–23; Psalm 106:32–33; Psalm 35:13; Deuteronomy 23:21–23) were
+verified through bible-api.com, `translation=web`; nothing was fetched into raw/. Hebrew claims (*lōʾ
+yaḥēl dəbārô* 30:2 and *wəḥillaltā* Leviticus 19:12; *ʾissār*/*ʾāsar*; *heḥĕrîš*, *hēnîʾ*, *hēpēr*,
+*hēqîm*; *hēpar* Genesis 17:14; *yislaḥ-lāh*; *wənāśāʾ ʾet-ʿăwōnāh*; *hāyô tihyeh ləʾîš* 30:6;
+*mibṭāʾ śəpāteyhā* 30:6, 8 with Leviticus 5:4 and Psalm 106:33; *ləʿannōt nāpeš* 30:13 with Leviticus
+16:29 and Psalm 35:13; *yāqēm* 1 Samuel 1:23; the 29:40/30:1 verse offset) were checked in Miqra
+according to the Masorah via the Sefaria API.
+
+Frontmatter recount: 318 passages, 236 people, 146 places, 87 themes, 704 connections. Link checks
+clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
+No unresolved issue.

@@ -408,6 +408,14 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
+### The widow answers for her own vow — Numbers 30:9
+
+The widow and the divorced woman are the only women in the vow law with no father or husband over their
+word: *everything with which she has bound her soul, shall stand against her* (9). The law treats her as it
+treats a man (2); it adds no protection and no further burden.
+
+See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -497,6 +505,7 @@ See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticu
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:15; rich and poor pay the same ransom.
 - [[A Good Name]] — Proverbs 22:2, 7, 9, 16; One Maker of rich and poor; the poor fed, not oppressed.
 - [[Thirty Excellent Things]] — Proverbs 22:22–23; 23:10–11; The poor in court and the fatherless's field, both defended by Yahweh.
+- [[Vows of Men and Women]] — Numbers 30:9; the widow's and divorced woman's vows stand
 
 ## Related themes
 

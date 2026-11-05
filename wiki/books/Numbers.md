@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Vows of Men and Women]] (30:1–16) follows *besides your vows* (29:39) with the vow law: a man shall not
+break his word; a woman's vow in her father's or husband's house stands if he holds his peace and is void
+if he forbids it on the day he hears, and Yahweh forgives her. A widow's or divorced woman's vow stands.
+
 [[The Offerings of the Appointed Feasts]] (28:16–29:40) completes the calendar: the animals for
 Unleavened Bread, the first fruits, and the seventh month's first, tenth, and fifteenth days, with
 seventy bulls across the week of tents. Every set is *besides the continual burnt offering*. On the
@@ -232,7 +236,7 @@ merge, or reorder them freely.
 - [x] [[Joshua Commissioned]] — Numbers 27:12–23
 - [x] [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15
 - [x] [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40
-- [ ] Vows of Men and Women — Numbers 30:1–16
+- [x] [[Vows of Men and Women]] — Numbers 30:1–16
 - [ ] The War Against Midian — Numbers 31:1–54
 - [ ] Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 - [ ] The Stages of the Journey — Numbers 33:1–49

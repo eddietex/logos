@@ -212,7 +212,7 @@ The drink offerings are not given measures anywhere in this unit. See
 
 **Public offerings and private ones.** Verse 39 ends the calendar by setting it *besides your vows, and
 your freewill offerings*: the calendar is the community's fixed worship, and individual offerings come
-on top of it. Leviticus 23:37–38 closes the same way. The next unit, Numbers 30, is about vows.
+on top of it. Leviticus 23:37–38 closes the same way. The next unit, [[Vows of Men and Women]], is about vows.
 
 **Later keeping.** Ezra 3:4 says the returned exiles *kept the feast of tents, as it is written, and
 offered the daily burnt offerings by number, according to the ordinance, as the duty of every day

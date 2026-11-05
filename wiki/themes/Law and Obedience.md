@@ -1003,6 +1003,13 @@ Moses telling Israel *according to all that Yahweh commanded Moses* (29:40).
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### Statutes between a man and his wife — Numbers 30
+
+The vow law is spoken to *the heads of the tribes* (1) and closes as *the statutes which Yahweh commanded
+Moses* for the household (16). It regulates a vow after it is made; it does not command anyone to vow.
+
+See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -1240,6 +1247,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:15–16, 22, 31; one law, commands not done, and the word despised
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:2; keeping the offerings at their appointed times
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:18, 40; offerings *after the ordinance*, and Moses' report
+- [[Vows of Men and Women]] — Numbers 30:1, 16; household statutes for vows
 
 ## Related themes
 

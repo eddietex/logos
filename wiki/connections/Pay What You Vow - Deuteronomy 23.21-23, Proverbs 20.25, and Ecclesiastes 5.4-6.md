@@ -19,6 +19,8 @@ tags: [connection]
   2026-10-27; not yet ingested)*
 - **Deuteronomy 23:23** — *"You shall observe and do that which has gone out of your lips."*
   *(same source)*
+- [[Vows of Men and Women]] — Numbers 30:2, *"he shall not break his word. He shall do according to all
+  that proceeds out of his mouth."* *(stored WEB)*
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:2–13, what a vow costs; it does not call a vow
   rash, but sets the price and bars exchange.
 - **Job 22:27** — *"You shall make your prayer to him, and he will hear you. You shall pay your
@@ -62,6 +64,12 @@ here as evidence of the custom, not as the book's verdict on Job.
 **The rash vow.** Judges 11 (Jephthah) and 1 Samuel 14 (Saul's oath over the army) are the
 narratives most often read beside Proverbs 20:25. They are not stored or ingested, and the wiki
 neither quotes them nor treats them as the setting of the proverb.
+
+**Numbers 30:2 comes first in the canon.** The law's own rule for a man is *he shall not break his word. He shall
+do according to all that proceeds out of his mouth* (Numbers 30:2), and Deuteronomy 23:23's *that which has
+gone out of your lips* says the same in the WEB's English. Numbers 30 then adds what neither Deuteronomy nor
+Ecclesiastes says: a woman's vow under a father or husband can be voided on the day he hears it (30:3–15). See
+[[Vows of Men and Women]].
 
 ## Significance
 

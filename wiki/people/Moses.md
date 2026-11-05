@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Vows of Men and Women — Numbers 30:1–16
+
+Moses speaks the vow law to *the heads of the tribes of the children of Israel* (1): a man's vow binds,
+and a woman's may be confirmed or voided by her father or husband. The unit closes on *the statutes which
+Yahweh commanded Moses* (16).
+
+See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
+
 ### The Offerings of the Appointed Feasts — Numbers 28:16–29:40
 
 Moses receives the second half of the offering calendar — the animals for Unleavened Bread, the first
@@ -1621,6 +1629,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; receives law for the land.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; receives the calendar of daily, Sabbath, and new-moon offerings.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; receives the offerings of the annual feasts and tells them to Israel (29:40).
+- [[Vows of Men and Women]] — Numbers 30:1–16; speaks the vow law to the heads of the tribes.
 
 ## Related people
 

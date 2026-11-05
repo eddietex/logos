@@ -113,7 +113,7 @@ See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
 - **The law regulates rather than discourages.** A vow is optional, but once made it binds:
   *"When you vow a vow to God, don’t defer to pay it … It is better that you should not vow, than
   that you should vow and not pay"* (Ecclesiastes 5:4–5; compare Deuteronomy 23:21–23). Numbers 30
-  governs women's vows within a household; Leviticus 27 sets redemption values; Numbers 6 defines
+  governs women's vows within a household ([[Vows of Men and Women]]); Leviticus 27 sets redemption values; Numbers 6 defines
   the Nazirite vow ([[The Nazirite Vow]]). And the third commandment guards the misuse of the name an oath invokes
   (Exodus 20:7).
 - **Two vows in the histories go badly.** Jephthah's, which he keeps at the cost of his daughter
@@ -305,7 +305,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ### The Nazirite vow — Numbers 6:1–21
 
-*Either man or woman* may make it (2), and no term is set. The vow binds the body for its length, and a defiled vow starts again with the earlier days lost (12). It closes on the words as spoken: *according to his vow which he vows* (21). Numbers 30 limits a woman's vow, and that law is not yet ingested.
+*Either man or woman* may make it (2), and no term is set. The vow binds the body for its length, and a defiled vow starts again with the earlier days lost (12). It closes on the words as spoken: *according to his vow which he vows* (21). Numbers 30 sets who may void a woman's vow; see [[Vows of Men and Women]].
 
 See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
@@ -318,9 +318,20 @@ men, with the same raised hand as Exodus 6:8 (30). See [[The People Refuse the L
 ### Besides your vows — Numbers 29:39
 
 The feast calendar closes by setting itself *besides your vows, and your freewill offerings* (29:39):
-the fixed public offerings do not discharge a private vow. The next unit, Numbers 30, turns to vows.
+the fixed public offerings do not discharge a private vow. The next unit, [[Vows of Men and Women]], turns to vows.
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
+
+### A man's word and a woman's vow — Numbers 30:1–16
+
+A man who vows or swears *shall not break his word* (2; *lōʾ yaḥēl dəbārô*, MAM via Sefaria). A woman's
+vow made in her father's house or her husband's stands if he holds his peace, and is void if he forbids
+it *in the day that he hears*; then *Yahweh will forgive her* (3–8, 10–12). A widow's or divorced woman's
+vow stands (9). A husband who voids a vow late *shall bear her iniquity* (15). The chapter gives a man no
+release from his own vow, and so none to Jephthah, whose vow was his own (Judges 11, not yet ingested).
+
+See [[Vows of Men and Women]] and
+[[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]]. Source: stored WEB Numbers 30.
 
 ## Key passages
 
@@ -510,6 +521,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
   of exclusion
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 8; a vow as an occasion for sacrifice
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:39; the public calendar *besides your vows*
+- [[Vows of Men and Women]] — Numbers 30:1–16; a man's vow binds, a woman's may be voided by father or husband
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

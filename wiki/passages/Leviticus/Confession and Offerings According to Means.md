@@ -100,6 +100,8 @@ promise forgiveness; poverty changes the offering without removing the remedy.
   testimony, with the different oath situations preserved.
 - [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]] — hiddenness, knowledge,
   confession, and liability without treating all four cases as identical.
+- [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]] — the rash oath of verse 4,
+  set beside a woman's rash vow and Moses at Meribah
 
 ## Notes
 

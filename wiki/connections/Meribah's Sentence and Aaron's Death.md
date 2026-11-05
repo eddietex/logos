@@ -32,6 +32,9 @@ wilderness of Zin, to honor me as holy at the waters before their eyes*. The wor
 word*). Moses' death is announced, not narrated; Deuteronomy 32:49–50 repeats the command and
 compares his death to Aaron's on Mount Hor (WEB, verified through bible-api.com; not yet
 ingested). See [[Joshua Commissioned]]. Source: stored WEB Numbers 20 and 27.
+Psalm 106:33 names Moses' fault at Meribah as rash speech, *he spoke rashly with his lips* (WEB via
+bible-api.com), with the verb of the rash vow and oath; see
+[[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]].
 
 ## Significance
 

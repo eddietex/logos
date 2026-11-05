@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Vows of Men and Women — Numbers 30:1–16
+
+Yahweh commands the vow law. Vows are made *to Yahweh* (2–3), and when a father or husband voids a woman's
+vow, *Yahweh will forgive her* (5, 8, 12) — forgiveness stated without an offering.
+
+See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
+
 ### The Offerings of the Appointed Feasts — Numbers 28:16–29:40
 
 Yahweh fixes the offering for every annual feast, each *besides the continual burnt offering*, and
@@ -4002,6 +4009,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; law for the land, forgiveness, and the high hand.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; calls the offerings *my food* and fixes their times.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; fixes the offerings of every annual feast.
+- [[Vows of Men and Women]] — Numbers 30:1–16; receives vows, and forgives a woman whose vow is voided.
 
 ## Related people
 

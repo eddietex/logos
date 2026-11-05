@@ -35,6 +35,11 @@ did, Leviticus 18:21 and 20:2–5 stand against it, and so does the pattern of
 
 **Compare [[Yes, He Will Be Blessed - The Irrevocable Word]]**, which uses Jephthah as a case of a word
 that cannot be recalled, and [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
+**Numbers 30 offers neither a release.** [[Vows of Men and Women]] lets a father void a daughter's vow and a
+husband a wife's, on the day he hears it. A man's own vow has no such provision: *he shall not break his word*
+(Numbers 30:2). Jephthah's vow was his own, so the father's power over a daughter's vow does not reach it.
+Hannah's is a wife's vow, and Elkanah's response is set beside Numbers 30 at
+[[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]].
 
 ## Significance
 

@@ -95,8 +95,9 @@ the examples above would misrepresent it.
   grieved at having made humanity. **The prophetic threat is conditional in a way the patriarchal
   blessing is not**, and Jeremiah 18:7–10 states the principle outright. See
   [[Divine Grief and Relenting]].
-- **Vows can be annulled.** Numbers 30 gives a father or a husband the power to void a woman's vow on
-  the day he hears it, and Leviticus 27 sets prices for vowed persons and redemption prices for dedicated property,
+- **Vows can be annulled.** [[Vows of Men and Women]] (Numbers 30) gives a father or a husband the power
+  to void a woman's vow on the day he hears it — never a man's own, which *he shall not break*
+  (30:2) — and Leviticus 27 sets prices for vowed persons and redemption prices for dedicated property,
   though it never calls such vows rash. **Whether any of this was an exit open to Jephthah is an
   inference, since his vow named a burnt offering and Judges does not cite the law.** See
   [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]].

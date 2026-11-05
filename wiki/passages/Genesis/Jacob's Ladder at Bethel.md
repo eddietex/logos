@@ -298,7 +298,7 @@ lets the reader notice.**
 > give me I will surely give a tenth to you.”
 
 ***Wayyiddar Yaʿăqōb neder*** — **the first *neder* in Scripture**, and the cognate accusative
-(*vowed a vow*) is the formula the law will legislate in Numbers 30 and Deuteronomy 23:21–23, and
+(*vowed a vow*) is the formula the law will legislate in Numbers 30 ([[Vows of Men and Women]]) and Deuteronomy 23:21–23, and
 that Ecclesiastes 5:4–5 will warn about. **The institution enters the Bible in the mouth of a man
 negotiating.** See [[Oaths and Vows]].
 

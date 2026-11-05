@@ -614,6 +614,15 @@ See [[The Twelve Spies]].
 of verse 2, the claim of verse 3, the report of verses 36–37. The verse 10 stoning is itself only
 said. See [[The People Refuse the Land]].
 
+### A word that binds — Numbers 30
+
+*He shall do according to all that proceeds out of his mouth* (2). A woman's *rash utterance of her lips*
+(6, 8; *mibṭāʾ śəpāteyhā*, MAM via Sefaria) may be voided by her father or husband, and his silence on the
+day he hears is itself a binding answer (14).
+
+See [[Vows of Men and Women]] and
+[[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]]. Source: stored WEB Numbers 30.
+
 ## Key passages
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
@@ -933,6 +942,7 @@ said. See [[The People Refuse the Land]].
 - [[The Twelve Spies]] — Numbers 13:26, 32; *dābār* becomes *dibbâ*
 - [[The People Refuse the Land]] — Numbers 14:2–3, 28, 31, 36–37; speech as the terms of the
   sentence
+- [[Vows of Men and Women]] — Numbers 30:2, 6–8, 14; what proceeds out of the mouth, and silence as consent
 
 ## Related themes
 

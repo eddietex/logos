@@ -84,6 +84,8 @@ WEB, copied from the stored Numbers source.
 - [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]] — the two accounts and their later reception.
 - [[The People Refuse the Land]] — Numbers 14:1–38; exclusion from the land now reaches its leaders.
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the retained rod invites comparison, but Numbers 20 does not explicitly identify its provenance.
+- [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]] — Psalm 106:33, *he spoke
+  rashly with his lips*
 
 ## Notes
 

@@ -376,6 +376,15 @@ Moses' marriage to *the Cushite woman* is given as the reason his brother and si
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### A husband's word over his wife's vow — Numbers 30:6–16
+
+A husband may confirm his wife's vow by holding his peace, or void it on the day he hears it, whether she
+brought the vow into the marriage (6–8) or made it in his house (10–12). Voiding it later makes him *bear
+her iniquity* (15). The chapter calls these *the statutes … between a man and his wife, between a father
+and his daughter* (16). A widow or divorced woman answers for her own vow (9).
+
+See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
+
 ## Key passages
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.
@@ -591,6 +600,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Suspected Wife]] — Numbers 5:11–31; a husband's jealousy brought before Yahweh, and no matching law for a wife.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1; the Cushite woman.
+- [[Vows of Men and Women]] — Numbers 30:6–16; a husband's power to confirm or void his wife's vow
 
 ## Related themes
 
