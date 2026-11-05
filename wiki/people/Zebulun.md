@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 60,500 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Leah's sixth son, Jacob's tenth, and the one name in the list Genesis gives two etymologies in a
 single verse.**
 
@@ -97,6 +105,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:16 — Zebulun marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:19–20; the tenth son, and **the only name in the
   passage given two Hebrew roots in one verse.** His mother's speech is also the one that shows her

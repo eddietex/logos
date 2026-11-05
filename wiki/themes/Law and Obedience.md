@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+Moses and Eleazar conduct the commanded census; the land instructions join proportional shares and
+lot (1–4, 52–56), without explaining the mechanics.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 Permission to go in 22:20 does not prevent condemnation of Balaam’s way in 22:32. The renewed permission in 35 again restricts speech; the text does not explain the earlier permission and anger by reporting a secret intention.
@@ -971,6 +979,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

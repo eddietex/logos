@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+The 601,730 are those eligible for war from twenty upward (2, 51), not the entire population. Levi
+uses another age threshold and another total.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 The closing command to harass and strike Midian grounds subsequent hostility in the Peor deception
@@ -288,6 +296,8 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

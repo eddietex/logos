@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His family appears under Perez in Judah (21), distinct from Reuben’s Hezronites in verse 6.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **A name in a subordinate clause, and the line from it runs to David and to Jesus.**
 
 > **12** The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of
@@ -45,6 +52,8 @@ Reuben's Hezron has no page; he is named again at Exodus 6:14, in
 - Matthew 1:3 · Luke 3:33 — in both genealogies of Jesus
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **the fourth generation, in a clause about his
   father's sons**

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The exodus is recalled in verse 4 and Jochebed’s birth in Egypt in verse 59.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The third blessing recalls God bringing Israel out of Egypt (24:8). Exodus deliverance grounds the
@@ -265,6 +272,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

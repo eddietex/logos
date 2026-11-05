@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The river locates the census camp by Jericho (3, 63); no crossing is narrated.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 The river locates Israel’s camp beyond it at Jericho (1). No crossing is narrated; Jericho is a
@@ -63,6 +70,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

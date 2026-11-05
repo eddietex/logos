@@ -21664,3 +21664,29 @@ Numbers 25:4 quotation to paraphrase. No raw texts or harness/workflow instructi
 
 Link checks clean: 58 expected unstarted-book targets. No operational blocker or unresolved
 link issue. Textual and interpretive uncertainties remain stated on the relevant pages.
+
+## [2026-11-05] ingest | Numbers 26.1-65 — The Second Census
+
+Ingested the planned whole-chapter unit in auto mode, with the discussion incorporated
+into the passage. The count prepares land allotment and confirms the sentence on the
+former military generation, preserving Caleb and Joshua as exceptions. Levi's distinct
+age threshold and lack of territorial inheritance remain explicit.
+
+Created 6 pages: one passage, three person pages (Zelophehad, his daughters collectively,
+and the minor census families collectively), and two connections on the census generations
+and Korah's surviving sons. Revised 77 existing pages including the book, related
+people/places/themes, two existing connections, three earlier passages, category indexes,
+dashboard, and this log. Minor ancestors remain in a source-backed collective register;
+the daughters' individual actions and petition await the next pericope. No boundary changed.
+
+Preserved the genealogical differences in Genesis 46 and Numbers 26, Korah's sons'
+explicit survival, and Manasseh's numerical precedence over Ephraim. Corrected Machir's
+page: Numbers 26:29 does not explicitly call him Manasseh's only son. Did not attribute
+all of Simeon's decrease to the Peor plague. Proportion and lot remain together without
+an invented allotment procedure.
+
+All new quotations copied from stored WEB; cross-references checked in stored sources.
+No raw text, schema, workflow, or controller file changed; no new original-language claims.
+Progress: 313 passages, 236 people, 145 places, 87 themes, 697 connections;
+Numbers 42 / 54. Link checks clean (58 expected unstarted-book targets).
+No unresolved operational issue.

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Kohath is his father, Jochebed his wife, and Aaron, Moses, and Miriam their children (58–59).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The father of Moses, who in the story of his son's birth does one thing — marry — and is not
 mentioned again.** *"A man of the house of Levi went and took a daughter of Levi as his wife"*
 (Exodus 2:1). He has no name in the narrative; Exodus supplies it in the genealogy of Moses and
@@ -48,6 +55,8 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - Numbers 3:19, 27 — Head of the Amramites. [[The Levites and the Firstborn Counted]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Moses]] — Exodus 2:1; *"a man of the house of Levi"*, unnamed, and absent from the
   rest of the passage

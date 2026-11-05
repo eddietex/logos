@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 53,400 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Zilpah's second son, Jacob's eighth, and the only one of the twelve named for what other people will
 say.**
 
@@ -95,6 +103,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:26 — Asher marches in Dan's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:12–13; the eighth son, and the second of the two
   namings in the passage that mention neither God nor Jacob. **His mother names him for a future

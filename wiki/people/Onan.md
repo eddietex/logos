@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His death in Canaan with Er is recalled before the surviving Judah families (19).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Judah]]'s second son, and the only man in the Bible whose name became an English word for
 something the text does not condemn him for.**
 
@@ -71,6 +78,8 @@ first is his brother. Both are in this paragraph, three verses apart. See [[Retr
 - 1 Chronicles 2:3 — named in the register with his brothers
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Judah and Tamar]] — Genesis 38:4, 8–10; **the Bible's first levirate summons and its first
   refusal.** He takes the right and withholds the duty, repeatedly, and **the verse that condemns him

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named as the land in which Er and Onan died (19); the inheritance ahead is regulated in verses 52–56
+but not yet distributed.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Arad and Hormah — Numbers 21:1–3
 
 The king of Arad and his people are called Canaanites (1, 3). They attack and take
@@ -227,6 +235,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

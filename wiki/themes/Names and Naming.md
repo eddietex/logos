@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+Ancestral names organize families and inheritance (5–56). Serah and Zelophehad’s five daughters are
+named despite the military register’s scope.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Genesis is a book that stops to explain names, and the explanations are almost never linguistics.**
 
 Roughly forty times, the narrative pauses to say why somebody or somewhere is called what it is
@@ -196,6 +204,8 @@ its cluster (24). The first has no explanation, and the second has one.
 See [[The Twelve Spies]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

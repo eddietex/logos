@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Second Census]] — Numbers 26:28–37, 57–62.
+
 - **Genesis 48:5–6** — *"Now your two sons … are mine; Ephraim and Manasseh, even as Reuben and
   Simeon, will be mine"* — [[Jacob Blesses Ephraim and Manasseh]]
 - **Genesis 35:22** — [[Reuben]] and [[Bilhah]] — [[Return to Bethel; the Deaths of Rachel and Isaac]]
@@ -29,6 +31,15 @@ tags: [connection]
 - [[The Camp Around the Tent]] — Numbers 2:18–24; Ephraim heads the west camp, with Manasseh next to him
 
 ## Analysis
+
+### The second census
+
+Numbers 26:28–37 retains Joseph’s two tribal branches but counts Manasseh at 52,700 and Ephraim at
+32,500. This qualifies any claim that Genesis 48:19 promises Ephraim numerical superiority in every
+period. Verse 62 now explicitly connects Levi’s separate count with exclusion from inheritance.
+
+Source: stored WEB Numbers 26.
+
 
 **One sentence in Genesis 48 makes every later list of the tribes an arithmetic problem, and Scripture
 solves it the same way every time except the last.**

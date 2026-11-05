@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Second Census]] — Numbers 26:28–37, 57–62.
+
 - **Genesis 29:31–30:24; 35:16–18** — the births, in the order they happen: eleven sons and a daughter
   in Paddan Aram, and Benjamin on the road to Ephrath
 - **Genesis 35:22–26** — **the first complete list**, grouped by mother: wives before slaves,
@@ -27,6 +29,14 @@ tags: [connection]
   are arithmetic rather than rhetorical
 
 ## Analysis
+
+### The second census
+
+Numbers 26 keeps Gad third but places Manasseh before Ephraim (28–37), reversing their order in
+Numbers 1:32–35. Levi is separately counted (57–62). The sequence is not a single fixed birth order.
+
+Source: stored WEB Numbers 26.
+
 
 **There is no such thing as *the* list of the twelve tribes. There are about twenty, and almost none of
 them match.**

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+Eleazar shares the count once performed with Aaron. Levi is separately counted from one month upward
+and explicitly excluded from the other tribes’ inheritance (57–64).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 The promise to Phinehas and his offspring confirms a future within Aaron’s line (7, 11–13). It
@@ -579,6 +587,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Merarites appear in the separate Levitical census (57).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Levi]]'s third son, and the third name in the only clause Genesis gives him.**
 
 > **11** The sons of Levi: Gershon, Kohath, and Merari. (46:11)
@@ -61,6 +68,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:17 — His sons carry the tabernacle, ahead of Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **the last of three names in one clause**
 - [[The Heads of the Fathers' Houses]] — Exodus 6:16, 19; **two sons, Mahli and Mushi**, and the verse that closes the

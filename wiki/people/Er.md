@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His death in Canaan with Onan is recalled before the surviving Judah families (19).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Judah]]'s firstborn, given a wife and a verdict, and nothing else.**
 
 > **6** Judah took a wife for Er, his firstborn, and her name was Tamar.
@@ -45,6 +52,8 @@ way — and the line runs through [[Perez]], the fourth son of his father by a d
 - 1 Chronicles 2:3 — the verdict restated
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Judah and Tamar]] — Genesis 38:3, 6–7; **two verses, a wife, and an execution with no charge.**
   The firstborn of the tribe that takes the kingship, dead childless before the chapter is a quarter

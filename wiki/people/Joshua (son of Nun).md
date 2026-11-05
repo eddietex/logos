@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named with Caleb as the surviving exception to the former military census generation (65). His
+commissioning remains the later unit at 27:12–23.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Moses' commander and servant, and his successor — who walks into Exodus without a word of introduction and
 is given a sword before he is given a father.** *"Moses said to Joshua, 'Choose men for us, and go out, fight
 with Amalek'"* (Exodus 17:9). **It is the first time the name appears in Scripture** (WLC lemma search,
@@ -95,6 +103,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the young servant who remains at the tent (33:11).
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+He counts with Eleazar on the plains of Moab and receives the allotment command (1–4, 52–63). His
+continued leadership distinguishes him from the military cohort whose deaths close the chapter.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Moses receives the command concerning the chiefs, directs the judges to kill men joined to Baal
@@ -1302,6 +1310,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

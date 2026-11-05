@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+The wilderness sentence reaches its reported fulfillment in the census’s closing comparison with
+Sinai (64–65). The people continue while the condemned cohort does not.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The journey to Moab — Numbers 21:10–20
 
 The journey names camps east of Moab and along the Arnon before turning to the well and the heights
@@ -158,6 +166,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

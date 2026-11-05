@@ -178,6 +178,8 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 
 ## Cross-references
 
+- [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
+
 - [[The Levites and the Firstborn Counted]] — Numbers 3:15, 39, 43, the Levites counted from a month old.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:5–13, the Levites' place explained.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:17, one month earlier.
@@ -202,7 +204,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[Elisheba Daughter of Amminadab - Aaron's Marriage into Judah]]
 - [[As God Commanded, So He Did - The Obedience Formula]]
 - Numbers 26:51, 63–65 — the second census, 601,730, none of them counted here but Caleb and
-  Joshua *(not yet ingested; stored WEB)*.
+  Joshua *(now ingested in [[The Second Census]]; stored WEB)*.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:2; the same twelve men, *over those who were counted*
 - [[The Two Silver Trumpets]] — Numbers 10:4; *the heads of the thousands of Israel* called by one trumpet
 

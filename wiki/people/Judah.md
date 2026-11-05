@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 76,500 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Leah's fourth son, and the first of her naming speeches that asks her husband for nothing.**
 
 > **35** She conceived again, and bore a son. She said, “This time will I praise Yahweh.” Therefore she
@@ -314,6 +322,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Tribal ancestor named in Bezalel’s identification (38:22).
 

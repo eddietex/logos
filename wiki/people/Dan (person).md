@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 64,400 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The tribe of Dan identifies Shelomith’s family in Leviticus 24:11. This is a tribal
@@ -143,6 +151,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23 (tribal reference).
 

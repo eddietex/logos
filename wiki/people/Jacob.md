@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Israel names the people and is the father in Reuben’s firstborn designation (5). This is ancestral
+identification, not a living participant.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Jacob and Israel again designate the nation, whose tents are praised and from whom a future ruler is
@@ -795,6 +803,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

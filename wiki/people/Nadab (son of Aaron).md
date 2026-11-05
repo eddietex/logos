@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His death with Abihu for offering strange fire is recalled within the Levitical genealogy (60–61).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Aaron]]'s firstborn, and the first of the two sons who do not survive.**
 
 > **23** Aaron took Elisheba, the daughter of Amminadab, the sister of Nahshon, as his wife; and she
@@ -198,6 +205,8 @@ Named as *the firstborn* (2), then reported dead *when they offered strange fire
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the firstborn, dead with no children.
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named as Manasseh’s son and Gilead’s father (29), linking the family remembered in Genesis 50:23 to
+the new census.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The last person named in Genesis.**
 
 > **23** Joseph saw Ephraim's children to the third generation. The children also of Machir, the son
@@ -35,7 +43,8 @@ deciding what it does here. See [[Adoption]].
 **Genesis leaves him an infant's father in Egypt. The rest of the Torah makes him a clan and then a
 territory**, and none of it is in this book:
 
-- **Numbers 26:29 makes him the only son of Manasseh**, and the whole tribe descends through him
+- **Numbers 26:29 names Machir in Manasseh’s line**, and the register traces the listed families
+  through Gilead. It does not explicitly call Machir Manasseh’s only son.
 - **Numbers 32:39–40** — *"The children of Machir the son of Manasseh went to Gilead, took it, and
   dispossessed the Amorites who were therein"* — **and Moses gives them Gilead**
 - **Joshua 17:1** calls him *"the firstborn of Manasseh, the father of Gilead, because he was a man
@@ -57,6 +66,8 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:23; **named once, in the book's second-to-last
   scene, as the father of the children Joseph holds.** **The final personal name in Genesis**, and

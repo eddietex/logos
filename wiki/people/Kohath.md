@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Kohathites appear in the Levitical census; Kohath is named as Amram’s father (57–58).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Kohath is named as Korah’s grandfather in the opening genealogy (1). He performs no action; the
@@ -81,6 +88,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:21 — The Kohathites carry the sanctuary, in the middle of the column. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

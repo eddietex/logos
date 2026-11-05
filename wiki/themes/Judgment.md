@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+The register remembers rebellion, strange fire, and the death of the earlier census generation
+(9–11, 61, 64–65). Korah’s surviving sons prevent treating every descendant as condemned with his
+father.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Commands concerning chiefs and implicated men precede Phinehas’s killing of the pair and the
@@ -719,6 +728,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

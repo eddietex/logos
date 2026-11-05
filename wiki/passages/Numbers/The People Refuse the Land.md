@@ -160,6 +160,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
+
 - [[One Man and the Congregation - Intercession in Numbers 14 and 16]] — comparison with Numbers 16:1–40.
 
 - [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]]

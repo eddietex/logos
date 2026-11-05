@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Shelanites bear his name in Judah’s register (20).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Judah]]'s third son, the one who lives — and the one the chapter is about not getting.**
 
 > **5** She yet again bore a son, and named him Shelah: and he was at Chezib, when she bore him.
@@ -56,6 +63,8 @@ double failure that `AGENTS.md` makes the qualifier mandatory for.**
 - Numbers 26:20 — the Shelanites; 1 Chronicles 4:21–23 — the linen-workers
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Judah and Tamar]] — Genesis 38:5, 11, 14, 26; **four mentions, no lines, and the whole plot.** The
   third son, born at a town called *lie*, promised to his brothers' widow and never given to her —

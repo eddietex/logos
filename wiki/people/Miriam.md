@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named as Jochebed’s daughter and sister of Aaron and Moses (59), retrospectively after her death in
+Numbers 20:1.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Miriam dies and is buried at Kadesh (1). The verse gives neither her age nor the cause
@@ -79,6 +87,8 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - Dies and is buried at Kadesh — Numbers 20:1, [[The Waters of Meribah]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

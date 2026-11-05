@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 64,300 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Leah's fifth son, Jacob's ninth, and a name pulled between two transactions.**
 
 > **17** God listened to Leah, and she conceived, and bore Jacob a fifth son. **18** Leah said, “God has
@@ -106,6 +114,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:15 — Issachar marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:17–18; the ninth son, born of the night his mother
   bought with [[Reuben]]'s mandrakes and named for a hire his mother attributes to a different

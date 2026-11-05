@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His clans are counted separately: 23,000 males from one month upward, excluded from the territorial
+inheritance of the other tribes (57–62). This threshold differs from the military count.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 The name denotes the ancestral tribe, not the patriarch acting in the narrative (2, 21).
@@ -200,6 +208,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Gershonites appear in the separate Levitical census (57).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Levi]]'s firstborn, named once in Genesis and never again in it.**
 
 > **11** The sons of Levi: Gershon, Kohath, and Merari. (46:11)
@@ -63,6 +70,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:17 — His sons carry the tabernacle, ahead of Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **one of three names in one clause**, in the
   register taken at the border

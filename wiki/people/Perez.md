@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Perezites are subdivided into Hezronite and Hamulite families (20–21).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The twin who came second and was born first, and the ancestor of David.**
 
 > **29** As he drew back his hand, behold, his brother came out, and she said, “Why have you made a
@@ -64,6 +71,8 @@ this and does not celebrate it either.**
 - Matthew 1:3 · Luke 3:33 — the genealogies of Jesus
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Judah and Tamar]] — Genesis 38:27–30; **the second twin out, named by the midwife for the wall he
   came through.** The chapter opened on a firstborn who died childless and closes on a firstborn

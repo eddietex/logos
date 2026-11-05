@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+He now shares the census with Moses (1–3, 63), occupying the place Aaron held at the first count
+(64). His priestly succession is visible in administration as well as garments.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Eleazar is named as Phinehas’s father (7, 11). The action and ensuing covenant belong to his son;
@@ -243,6 +251,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

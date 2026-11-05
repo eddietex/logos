@@ -12,6 +12,15 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 32,500 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch. Manasseh now outnumbers Ephraim;
+numerical superiority cannot be assumed from Genesis 48:19 for every census.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Joseph's second son, named for fruitfulness in a country his father calls an affliction.**
 
 > **52** The name of the second, he called Ephraim: “For God has made me fruitful in the land of my
@@ -122,6 +131,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:50, 52; **the second of two sons born in the years
   of plenty, and the one whose name carries the chapter's sting.** The naming speech uses **the creation

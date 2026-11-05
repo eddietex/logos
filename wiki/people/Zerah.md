@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Zerahites of Judah are listed beside Shelah and Perez (20); Simeon’s Zerahites in verse 13 are a
+distinct clan.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The twin with the scarlet thread on his hand — first by the evidence and second by the birth.**
 
 > **28** When she travailed, one put out a hand, and the midwife took and tied a scarlet thread on his
@@ -65,6 +73,8 @@ own, so **no collision arises here**; if he is ever given one, both take a quali
 - Matthew 1:3 — named in the genealogy of Jesus
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Judah and Tamar]] — Genesis 38:27–30; **the hand that came out first and the boy who came out
   second.** The thread is the Bible's first attempt at documentary evidence, and it is wrong within a

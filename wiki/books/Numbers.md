@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Second Census]] (26:1–65) counts the new military generation and prepares land
+allotment. Levi is separately counted; the closing notice confirms the wilderness sentence
+with Caleb and Joshua as exceptions. Named survivors qualify indiscriminate accounts of judgment.
+
+
 [[Baal Peor and the Zeal of Phinehas]] (25:1–18) follows the blessings with apostasy and plague.
 Phinehas’s intervention stops the plague and receives a covenant of peace and enduring
 priesthood; the final command turns toward conflict with Midian.
@@ -202,7 +207,7 @@ merge, or reorder them freely.
 - [x] [[Balaam's First Two Oracles]] — Numbers 22:36–23:26
 - [x] [[Balaam's Last Oracles]] — Numbers 23:27–24:25
 - [x] [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18
-- [ ] The Second Census — Numbers 26:1–65
+- [x] [[The Second Census]] — Numbers 26:1–65
 - [ ] The Daughters of Zelophehad — Numbers 27:1–11
 - [ ] Joshua Commissioned — Numbers 27:12–23
 - [ ] Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15

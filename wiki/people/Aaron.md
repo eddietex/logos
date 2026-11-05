@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named as Eleazar’s father, as Jochebed’s son, and as the priest of the first census (1, 59–64). He
+is remembered, not alive at the second census.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Aaron is named as Phinehas’s grandfather and priestly ancestor (7, 11), not as a living
@@ -709,6 +717,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

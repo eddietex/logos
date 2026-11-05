@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The plains of Moab are the setting of the second census (3, 63), after the plague and before the
+land division.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 The opening names the daughters of Moab as inviting Israel to sacrifices (1–2), while the
@@ -111,6 +119,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

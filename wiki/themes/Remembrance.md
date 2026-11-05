@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+Genealogical entries preserve warnings about Dathan, Abiram, Korah, Nadab, and Abihu, as well as
+named survivors; counting also remembers.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The journey to Moab — Numbers 21:10–20
 
 The narrator cites the Book of the Wars of Yahweh for the Arnon landscape (14–15), then records
@@ -435,6 +443,8 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

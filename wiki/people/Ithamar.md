@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named among Aaron’s sons (60), without a separate action in this census.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The bread belongs to Aaron and his sons for eating in a holy place (9). Ithamar is
@@ -210,6 +217,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:28, 33; over Gershon and Merari.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; ministers with Eleazar under Aaron.

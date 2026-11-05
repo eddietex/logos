@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+Reuben remains the firstborn (5), but Joseph is represented by two tribal counts (28–37). Manasseh
+exceeds Ephraim here, qualifying any equation of the younger’s promised greatness with constant
+numerical superiority.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ***Bəkōrâ*** — **the birthright**: the status and the portion belonging to the *bəkôr*, the firstborn
 son. Genesis introduces the word at 25:31, in the mouth of a younger brother naming his price, **and
 never defines it.** What can be assembled from the rest of the canon is three separate things, which
@@ -126,6 +135,8 @@ The claim of 3:11–13 is repeated at the cleansing almost word for word, now wi
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

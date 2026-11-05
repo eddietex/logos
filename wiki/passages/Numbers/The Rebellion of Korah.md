@@ -83,6 +83,8 @@ Copied from stored WEB, `raw/bible/Numbers.md`.
 - [[The Wilderness]]
 
 ## Cross-references
+
+- [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
 - [[Two Memorials Against Rebellion - The Censers and the Budding Rod]]
 - [[Aaron Stands Between the Dead and the Living]] — the next day’s complaint and priestly rescue.
 - [[A Holy People and a Chosen Priest - Numbers 15 and 16]]
@@ -105,7 +107,7 @@ are assigned to those children.
 **Korah’s fate and On’s disappearance.** Verse 32 names Korah’s men rather than narrating a
 separate death scene for Korah. Stored WEB Numbers 26:10 explicitly places Korah in the swallowing;
 26:11 says his sons did not die. That retrospective qualifies an indiscriminate reading of
-“all” in chapter 16; it is a checked cross-reference, not ingestion of Numbers 26. On is named
+“all” in chapter 16; it is now ingested in [[The Second Census]]. On is named
 in 16:1 and then disappears from the account. His withdrawal, rescue, or death is not explained.
 
 **Holy objects from condemned offerers.** The censers remain holy because they were offered before

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+The old counted generation is gone except Caleb and Joshua; Korah’s sons survive, and the new count
+follows the plague (1, 11, 64–65). Continuity belongs to the people without erasing individual
+deaths.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 The plague stops after the killing of two people, but 24,000 have died (8–9). Rescue of the
@@ -754,6 +763,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

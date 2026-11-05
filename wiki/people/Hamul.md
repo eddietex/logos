@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His family appears with Hezron’s under Perez in Judah (21).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Perez]]'s second son, and one of the shortest careers in Scripture.**
 
 > **12** … The sons of Perez were Hezron and Hamul. (46:12)
@@ -29,6 +36,8 @@ list only goes that deep once. See [[Names and Naming]].
 - 1 Chronicles 2:5 — the clause repeated
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **the fourth generation of the register, and
   the shallower half of it**

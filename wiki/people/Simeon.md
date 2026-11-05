@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 22,200 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch. The decrease from 59,300 in Numbers
+1:23 is not explicitly attributed to the Peor plague.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Zimri is a prince of a fathers’ house among Simeon’s descendants (14); the patriarch himself is
@@ -129,6 +138,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

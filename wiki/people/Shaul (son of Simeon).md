@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The Shaulites appear among Simeon’s families (13).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The one man in the register of the seventy whose mother is flagged, in a list full of foreign
 mothers.**
 
@@ -43,6 +50,8 @@ page for that reason.** See [[The Nations]] and
 - 1 Chronicles 4:24 — the register repeated
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:10; **the register's one ethnic note**, attached to
   a man about whom nothing else is recorded

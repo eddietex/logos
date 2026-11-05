@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named with Joshua as the surviving exception to the death of the former military census generation
+(65), fulfilling Numbers 14:30.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 The spy from Judah, and the first voice in the wiki's sequence to say *we are well able*. He enters
 at Numbers 13:6 as one name in a list, *Of the tribe of Judah, Caleb the son of Jephunneh*, and he
 is not among the princes of Numbers 1, 7, or 10; Nahshon holds that place. Nothing else about him is
@@ -58,6 +66,8 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Twelve Spies]] — Numbers 13:6, 30; first appearance, and the first to say the land can be
   taken

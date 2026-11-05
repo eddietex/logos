@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 45,400 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Bilhah's second son, Jacob's sixth, and the only child in the list named after a fight.**
 
 > **8** Rachel said, “I have wrestled with my sister with mighty wrestlings, and have prevailed.” She
@@ -106,6 +114,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:27 — Naphtali marches in Dan's camp, last named. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:7–8; the sixth son, named in a sentence that pairs
   *ʾĕlōhîm* with a claim to have prevailed, **two chapters before his father is renamed in a sentence

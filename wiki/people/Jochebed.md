@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Named as Levi’s daughter born in Egypt and mother of Aaron, Moses, and Miriam (59). This
+genealogical statement is retained as written; the chapter supplies no additional generations or
+chronology.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The mother of Moses, who obeys Pharaoh's decree to the letter and defeats it.** In the passage
 where she acts she has no name — she is *"a daughter of Levi"* (Exodus 2:1), *"the woman"* (2:2, 9),
 *"the child's mother"* (2:8). Exodus gives her name only in the genealogy: *"Amram took Jochebed his
@@ -62,6 +71,8 @@ father. See [[The Heads of the Fathers' Houses]].
 - Named, with Amram, as the mother of Aaron and Moses — Exodus 6:20, [[The Heads of the Fathers' Houses]]; Numbers 26:59
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Moses]] — Exodus 2:1–10; **unnamed throughout**; the mother who sees, hides,
   builds, places, and nurses

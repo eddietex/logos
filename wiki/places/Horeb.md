@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The wilderness of Sinai is recalled as the location of the earlier count (64), in contrast to the
+plains of Moab.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Leaving the mountain — Numbers 10:11–13, 33
 
 The camp goes *out of the wilderness of Sinai* (12) on the twentieth of the second month of the second year (11). Verse 33 calls the place *the Mount of Yahweh*, the only such use in Exodus, Numbers, and Deuteronomy by the WLC tags. Moses will recall the departure at Deuteronomy 1:6–7.
@@ -591,6 +599,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

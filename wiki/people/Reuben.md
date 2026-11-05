@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 43,730 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch. He retains the firstborn title (5).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The Reubenite affiliation of Dathan, Abiram, and On is stated at the opening (1). The patriarch is
@@ -186,6 +194,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His death with Nadab for offering strange fire is recalled within the Levitical genealogy (60–61).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **[[Aaron]]'s second son, never named without [[Nadab (son of Aaron)]].**
 
 > **23** … and she bore him Nadab and Abihu, Eleazar and Ithamar. (Exodus 6:23)
@@ -189,6 +196,8 @@ Named second (2), and again paired with Nadab in death (4). The verse adds that 
 See [[The Generations of Aaron and the Levites Given]]. Source: stored WEB Numbers 3.
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; dead with Nadab, with no children.
 - [[The Day of Atonement]] — Leviticus 16:1–34; the annual entry within the veil, the two goats, and cleansing for sanctuary and people.

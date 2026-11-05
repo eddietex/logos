@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The retrospective explicitly places him in the earth’s swallowing (10), while his sons survive (11)
+and Korahites remain a Levitical family (58). The sweeping household language in Numbers 16:32 must
+not erase this stated exception.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Korah is mentioned retrospectively in the death count (49). The 14,700 who die in this plague
@@ -20,7 +29,7 @@ Korah leads the challenge to Moses and Aaron with Reubenite allies and 250 recog
 identifies his demand as seeking priesthood beyond the Levites’ given service (1–11). He gathers the
 congregation at the Tent (19). Chapter 16 describes the earth swallowing his men and the fire
 consuming the incense offerers; Numbers 26:10 explicitly includes Korah in the swallowing, while
-26:11 preserves his sons. These later verses are checked in stored WEB, not ingested here.
+26:11 preserves his sons. These later verses are now ingested in [[The Second Census]].
 
 See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
 
@@ -58,9 +67,11 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
   [[The Heads of the Fathers' Houses]]
 - Numbers 3:19, 27 — The Izharites listed among the Kohathites. [[The Levites and the Firstborn Counted]]
 - Leads the revolt against Moses and Aaron — Numbers 16:1–40, [[The Rebellion of Korah]]
-- *(ahead)* *"The sons of Korah did not die"* — Numbers 26:11
+- His sons survive — Numbers 26:11, [[The Second Census]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

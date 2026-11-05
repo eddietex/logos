@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 40,500 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Zilpah's first son, Jacob's seventh, and the one tribal name in the list glossed by a word the
 prophets later have to argue with.**
 
@@ -99,6 +107,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:10–11; the seventh son, borne by a slave produced to
   match a sister's move, and named with a word for luck. **One of the two namings in the passage with no

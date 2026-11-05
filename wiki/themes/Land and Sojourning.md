@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The second census — Numbers 26:1–65
+
+Allotment is to reflect numbers, while land is divided by lot (52–56). Both instructions stand;
+their administrative coordination is not explained. Levi receives no inheritance among the other
+tribes (62).
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 ### The journey to Moab — Numbers 21:10–20
 
 The Arnon is explicitly a boundary between Moab and the Amorites (13). Israel’s movement is narrated
@@ -406,6 +415,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

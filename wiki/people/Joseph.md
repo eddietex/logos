@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+His descendants are counted through Manasseh and Ephraim (28–37); he is not a separate thirteenth
+military tribe.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Rachel's first son, Jacob's eleventh, and the last word of the passage that produces the twelve.**
 
 > **22** God remembered Rachel, and God listened to her, and opened her womb. **23** She conceived, bore
@@ -418,6 +426,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[The Birth of Jacob's Children]] — Genesis 30:22–24; the eleventh son and the pericope's last, born
   after the passage's third and final divine act. **His name is glossed twice in two verses, in opposite

@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Genesis 46:21 lists Ard and Naaman among Benjamin’s sons; Numbers 26:40 places them
+under Bela. Both genealogical presentations are retained without supplying an unstated
+harmonization.
+
+The tribe bearing his name has 45,600 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The twelfth son, the last, the only one born in the land, and the only one his father names.**
 
 He arrives in a single verse that also kills his mother, and he is named twice in it:
@@ -149,6 +161,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:16–19, 24; **born, named twice,
   and listed.** The twelfth son and the last, the only one his father names, and **the only naming in

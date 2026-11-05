@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+The tribe bearing his name has 52,700 men in the second military census (Numbers 26). The register
+names ancestral families, not a new action by the patriarch.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **Joseph's firstborn, named for forgetting his father's house — by a man who had not forgotten it.**
 
 > **51** Joseph called the name of the firstborn Manasseh, “For”, he said, “God has made me forget all my
@@ -124,6 +132,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41:50–51; **born at the height of his father's power
   and named for what that power cost.** The speech is **one of only two Joseph makes in the chapter that

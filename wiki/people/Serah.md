@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The second census — Numbers 26:1–65
+
+Asher’s daughter is again named amid the clan register (46). Naming an ancestor in this census does
+not by itself assert she is still alive.
+
+See [[The Second Census]]. Source: stored WEB Numbers 26.
+
+
 **The only granddaughter named in the register of the seventy, and the Bible never says why.**
 
 > **17** The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister. The sons of Beriah:
@@ -36,6 +44,8 @@ not adopted. See [[Names and Naming]].
 - 1 Chronicles 7:30 — the Genesis clause repeated
 
 ## Appears in
+
+- [[The Second Census]] — Numbers 26:1–65.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:17; **one granddaughter in seventy names**, with
   no reason given
