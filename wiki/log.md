@@ -21118,3 +21118,33 @@ Judgment calls: the plan's boundary and title kept. Canaan is the only place lis
 Contradictions flagged, not resolved: the congregation's bull as sin offering (Leviticus 4:14) against bull as burnt offering with a goat as sin offering (15:24); doing what is forbidden (Leviticus 4:13) against not doing (15:22); goat or lamb without defect (Leviticus 4:28, 32) against a year-old goat (15:27); four ranks against two; one tenth of flour for a lamb against two (Leviticus 23:13) and Ezekiel 46's scale; wine against WEB's *strong drink* at Numbers 28:7; no offering for the high hand against Leviticus 6:1–7 and 2 Samuel 12:13; and one law for the stranger beside the circumcision condition of Exodus 12:48.
 
 Hebrew and word locations from WLC (Open Scriptures morphhb), by Strong's and morphology tags across all 39 books, so *only* claims depend on that tagging. The tags number *rāmâ* differently at Numbers 15:30 (7411 b) than at Exodus 14:8 and Numbers 33:3 (7311), which is left as an unresolved tagging question. Septuagint Greek from the Rahlfs 1935 text in the eliranwong LXX-Rahlfs-1935 repository, with no manuscripts or apparatus. New Testament Greek from SBLGNT (morphgnt). WEB of Genesis, Exodus, Leviticus, and Numbers from `raw/bible/`; all other quoted WEB verified at bible-api.com. Commentary, lexicons, and grammars not consulted. Counts: 293 passages, 209 people, 113 places, 87 themes, 667 connections. Next: The Sabbath Breaker, Numbers 15:32–36.
+
+## [2026-11-04] ingest | Numbers 15.32-36 — The Sabbath Breaker
+
+Created [[The Sabbath Breaker]] and
+[[Sabbath Work Forbidden and Judged - Exodus 31 and Numbers 15]]. Revised three people
+(God, Moses, Aaron), nine themes, the existing connection
+[[Wait, That I May Hear - The Cases Moses Took to Yahweh]], five earlier passages, and the
+Numbers book page. Updated the book index, two people subindexes, theme index, two connection
+subindexes, and dashboard counts. Total: two pages created and twenty-seven revised, including
+indexes and this log.
+
+Judgment calls: retained the planned title and boundary. The unnamed stick gatherer and the
+congregation remain on the passage page rather than receiving separate person pages; no
+individual history or identifying name is supplied. No place page was created or assigned:
+the passage names only the wilderness and camp. Literary adjacency to the high-hand law is
+identified as an interpretive link, not an explicit statement about the man's motive. Gathering
+sticks is not expanded into a reported act of lighting fire.
+
+Tensions retained: the prior death sanction (Exodus 31:14–15; 35:2) alongside the undeclared
+ruling (Numbers 15:34), whose precise scope is unstated; rebuke without reported execution in
+Exodus 16:27–30 alongside execution here; and hand-laying commanded in Leviticus 24:14 but not
+in Numbers 15. No harmonization is presented as an explicit explanation from the text.
+
+Sources: all new quotations copied from stored WEB; comparisons checked in stored Exodus,
+Leviticus, and Numbers. No external quotations or new Hebrew/Greek claims. Existing source-language
+verification records on the revised connection remain attributed to their original verification.
+No raw source, schema, or skill changes. Link checks passed, including wrapped links and dangling
+targets, with 58 expected not-yet-started book targets. Frontmatter counts: 294 passages,
+209 people, 113 places, 87 themes, 668 connections. Numbers: 23 / 54 pericopes.
+Next: The Tassels, Numbers 15:37–41. No operational blocker remains.

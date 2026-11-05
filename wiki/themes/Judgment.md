@@ -92,6 +92,14 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+Yahweh specifies death by communal stoning outside the camp (35), and the people carry
+it out (36). Custody precedes the ruling. This is a narrated judicial execution, not a plague
+or a sentence the community devises for itself.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Judgment here comes in stages meant to end early: each new stage begins with Israel still not
@@ -641,6 +649,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

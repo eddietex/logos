@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Sabbath breaker — Numbers 15:32–36
+
+Yahweh commands death and specifies communal stoning outside the camp (35). The narrator
+records the community’s compliance (36). This narrated sentence is distinct from the rebuke
+without reported execution in Exodus 16:27–30.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15 and Exodus 16.
+
 ### The camp — Numbers 2:1–34
 
 Yahweh gives the arrangement to Moses and Aaron together (1). The speech is entirely about where people stand, and its center is his own Tent of Meeting.
@@ -3141,6 +3149,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

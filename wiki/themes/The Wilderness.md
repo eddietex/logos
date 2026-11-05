@@ -12,6 +12,14 @@ This page opened with Numbers, whose Hebrew name is the word itself.
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The narrator locates the case only in the wilderness (32), with execution outside the
+camp (35–36). No named wilderness, station, or date is supplied; the setting should not be
+converted into a precise geographical claim.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Hagar — Genesis 16 and 21
 
 The first people in the wilderness in the Bible are the ones thrown out of a household. *Yahweh's
@@ -96,6 +104,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the fountain in the wilderness.
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:14.

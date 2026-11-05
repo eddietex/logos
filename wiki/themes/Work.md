@@ -28,6 +28,14 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+Gathering sticks is the activity judged here (32–33). The account specifies neither
+lighting a fire nor the purpose of the work. Exodus 35:3 supplies a related fire prohibition,
+not proof that the man committed an additional narrated act.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Poor brother and service — Leviticus 25:35–55
 
 The hired servant is the standard for a sold brother's terms (40, 50, 53). His labor is bounded by
@@ -689,6 +697,8 @@ The Levite law gives work a start and an end: twenty-five to fifty. After that a
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:25–37; each house and its charge.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:3, 19, 32, 47–49; each man to his load.

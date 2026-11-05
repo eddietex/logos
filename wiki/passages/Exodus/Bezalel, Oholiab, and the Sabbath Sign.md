@@ -130,6 +130,8 @@ mountain instructions; the following pericope will return to the people below.
 
 ## Cross-references
 
+- [[The Sabbath Breaker]] — Numbers 15:32–36; [[Sabbath Work Forbidden and Judged - Exodus 31 and Numbers 15]].
+
 - [[Wisdom's Worth and the Founding of the Earth]] — Exodus 31:3 and Proverbs 3:19–20; wisdom,
   understanding, and knowledge in skilled making and creation. See
   [[By Wisdom Yahweh Founded the Earth - Proverbs 3 and Creation]].

@@ -128,6 +128,8 @@ WEB text, Exodus 35:1–29, copied from the stored source.
 
 ## Cross-references
 
+- [[The Sabbath Breaker]] — Numbers 15:32–36; [[Sabbath Work Forbidden and Judged - Exodus 31 and Numbers 15]].
+
 - [[Wisdom, Understanding, and Knowledge - The Builder's Gifts in Proverbs, Exodus, and Kings]] — Proverbs 31:13, 19, 24, 26 pairs spinning and wise speech; Exodus 35:25–26 records women’s wise spinning for the sanctuary.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; outer equipment and material inventory.

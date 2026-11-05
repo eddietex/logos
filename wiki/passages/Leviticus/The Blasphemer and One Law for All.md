@@ -91,6 +91,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[The Sabbath Breaker]] — Numbers 15:32–36; [[Wait, That I May Hear - The Cases Moses Took to Yahweh]].
+
 - [[One Law for the Native and the Stranger]] — equal liability and protection.
 - [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]] — corresponding injury
   and the distinction between legal redress and nonretaliation.

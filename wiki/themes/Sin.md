@@ -82,6 +82,14 @@ has been argued.
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The case follows the high-hand law (30–31), inviting an illustrative reading, but the
+man’s intent and knowledge are not narrated. The page must not turn literary adjacency into
+a quotation of an explicit verdict about his motive.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Sin is named as *iniquity*, *the iniquity of their fathers*, and *trespass* (*maʿal*, 39–41). Verse
@@ -576,6 +584,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

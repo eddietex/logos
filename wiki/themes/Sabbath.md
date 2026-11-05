@@ -27,6 +27,14 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The death sanction for Sabbath work in Exodus 31:14–15 and 35:2 becomes an executed
+sentence. Exodus 16:27–30 reports rebuke without execution for gathering manna; the different
+outcomes remain explicit, and neither story directly explains the contrast.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The land's Sabbaths return as a debt. The land *will enjoy its Sabbaths* while desolate (34–35, 43),
@@ -214,6 +222,8 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

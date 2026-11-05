@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The Sabbath breaker — Numbers 15:32–36
+
+Aaron is named among those receiving the man found gathering sticks (33). The ensuing
+divine speech is addressed to Moses (35); no independent speech or judgment by Aaron is recorded.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15 and Exodus 16.
+
 ### The camp — Numbers 2:1–34
 
 Addressed with Moses (1). The chapter gives him no action. His place on the east side comes at 3:38.
@@ -636,6 +643,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

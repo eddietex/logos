@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The accused is brought to Moses with Aaron and the congregation (33). Yahweh addresses
+Moses with the sentence (35), and the community acts as commanded (36). No intercession is
+reported here, in contrast to Numbers 14.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15 and Exodus 16.
+
 ### The camp — Numbers 2:1–34
 
 Addressed with Aaron (1). He does nothing in the chapter, but the close says the people did *According to all that Yahweh commanded Moses* (34). At 3:38 his own place proves to be on the east, before the Tent.
@@ -1189,6 +1197,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

@@ -652,6 +652,8 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 
 ## Cross-references
 
+- [[The Sabbath Breaker]] — Numbers 15:32–36; [[Sabbath Work Forbidden and Judged - Exodus 31 and Numbers 15]].
+
 - [[Provision Before Rest - Manna and the Sabbatical Year]] — Exodus 16:22–30 and Leviticus 25:20–22;
   provision before rest, with different rules for keeping food.
 

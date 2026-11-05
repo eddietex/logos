@@ -99,6 +99,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The community waits for a ruling and then obeys it (34–36). The prior death sanction in
+Exodus 31:14–15 does not erase the stated uncertainty here: whether procedure or application
+was pending is not specified. Obedience includes waiting before acting.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 The book closes by binding Israel to what it freely offers: a vow has a price, and an exchange
@@ -886,6 +894,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Sabbath Breaker]] (15:32–36) brings a concrete case after the high-hand law:
+a man gathering sticks is held for a ruling, then stoned outside the camp as commanded.
+His motive is not narrated, and the precise uncertainty despite the earlier Sabbath death
+sanction is not explained.
+
 Numbers takes Israel from the camp at Sinai to the plains of Moab. It opens with the army counted
 around the tabernacle and closes with the next generation counted on the edge of the land. Between
 those two censuses the first generation refuses the land and dies in the wilderness, as 26:64–65
@@ -104,7 +109,7 @@ merge, or reorder them freely.
 - [x] [[The People Refuse the Land]] — Numbers 14:1–38
 - [x] [[The Defeat at Hormah]] — Numbers 14:39–45
 - [x] [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31
-- [ ] The Sabbath Breaker — Numbers 15:32–36
+- [x] [[The Sabbath Breaker]] — Numbers 15:32–36
 - [ ] The Tassels — Numbers 15:37–41
 - [ ] The Rebellion of Korah — Numbers 16:1–40
 - [ ] Aaron Stands Between the Dead and the Living — Numbers 16:41–50
@@ -138,6 +143,8 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Sabbath]] — gathering sticks judged by a specific divine sentence (15:32–36)
 
 - [[The Wilderness]] — the setting of the book and the name it carries in Hebrew
 - [[War]] — Israel is mustered as an army

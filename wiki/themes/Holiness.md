@@ -87,6 +87,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The holy day protected by Exodus 31:14–15 is enforced in a concrete wilderness case.
+Execution outside the camp is commanded (35–36); Numbers does not call this a cleansing rite
+or explain the location in terms of transferred impurity.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Holiness here is ownership. A dedicated thing has changed hands, and an attempted exchange makes
@@ -604,6 +612,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.

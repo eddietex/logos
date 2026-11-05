@@ -102,6 +102,14 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+The man’s death follows a specific divine sentence and communal execution (35–36).
+The account neither narrates an offer of atonement nor records the man’s response; silence
+about either should not become an invented history of refusal.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 The WEB forbids endangering the neighbor’s life (16), adjacent to its slander prohibition. The
@@ -678,6 +686,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

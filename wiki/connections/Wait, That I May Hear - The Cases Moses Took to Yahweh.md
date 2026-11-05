@@ -9,14 +9,25 @@ tags: [connection]
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23; *They put him in custody, until Yahweh's will should be declared to them* (12)
 - [[The Passover in the Second Year]] — Numbers 9:6–14; *Wait, that I may hear what Yahweh will command concerning you* (8)
-- Numbers 15:32–36 — the Sabbath breaker; *They put him in custody, because it had not been declared what should be done to him* (34) *(stored WEB, not yet ingested)*
+- [[The Sabbath Breaker]] — Numbers 15:32–36; *They put him in custody, because it had not been declared what should be done to him* (34)
 - Numbers 27:1–11 — the daughters of Zelophehad; *Moses brought their cause before Yahweh* (5) *(stored WEB, not yet ingested)*
 - Numbers 36:1–12 — the same inheritance, questioned by the heads of Gilead's family *(stored WEB, not yet ingested)*
 
 ## Analysis
 
+### The Sabbath case now ingested
+
+Numbers 15:33 names Aaron and the congregation alongside Moses; verses 35–36 specify
+communal stoning outside the camp. Compare Leviticus 24:12–14, 23: both narratives move from
+custody through Yahweh’s ruling to execution. Leviticus also commands the hearers to lay hands
+on the offender; Numbers 15 gives no such instruction. Exodus 31:14–15 already prescribes
+death for Sabbath work, so the unresolved question in Numbers must not be described as the
+absence of any prior law. Whether method or application was pending is not stated.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Exodus 31, Leviticus 24, Numbers 15.
+
 The Torah's law is mostly given as speech from Yahweh with no prompting. In these cases someone brings a
-situation the existing words do not cover, Moses does not rule, and Yahweh answers.
+situation requiring a further ruling, Moses does not rule, and Yahweh answers.
 
 | Text | Who brings it | Held in custody? | The answer |
 |---|---|---|---|

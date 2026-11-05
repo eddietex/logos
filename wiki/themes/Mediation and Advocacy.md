@@ -82,6 +82,14 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### The Sabbath breaker — Numbers 15:32–36
+
+Moses receives the ruling after the man is brought to him, Aaron, and the congregation
+(33–35). No prayer for pardon is recorded. His role here is receiving the judicial command,
+not the intercession narrated in Numbers 14.
+
+See [[The Sabbath Breaker]]. Source: stored WEB Numbers 15:32–36; comparisons as cited.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 Israel supplies oil and the bread is arranged on Israel’s behalf, while Aaron tends
@@ -401,6 +409,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sabbath Breaker]] — Numbers 15:32–36.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

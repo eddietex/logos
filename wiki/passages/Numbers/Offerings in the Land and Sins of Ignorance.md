@@ -107,6 +107,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Sabbath Breaker]] — Numbers 15:32–36; [[Sabbath Work Forbidden and Judged - Exodus 31 and Numbers 15]].
+
 - [[When You Come Into the Land - The Law Given Before Arrival]]
 - [[Measures of Flour, Oil, and Wine - Exodus 29, Numbers 15, Numbers 28, and Ezekiel 46]]
 - [[The First of Your Dough - Numbers 15, Ezekiel 44, Nehemiah 10, and Romans 11]]
