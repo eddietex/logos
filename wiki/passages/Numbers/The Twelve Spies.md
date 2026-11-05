@@ -136,6 +136,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33, Moses' retelling: the people propose the mission and the report is *a good land*.
 - [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
 
 - [[Who Sent the Spies - Numbers 13 and Deuteronomy 1]]
@@ -169,7 +170,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Numbers 33:36 — Kadesh in the wilderness of Zin *(stored WEB, not yet ingested)*
 - Numbers 34:3–4, 8 — Zin, Kadesh, and the entrance of Hamath as borders *(stored WEB, not yet
   ingested)*
-- Deuteronomy 1:19–28, 36–38 — Moses' retelling *(WEB checked, not yet ingested)*
+- Deuteronomy 1:36–38 — Caleb and Joshua excepted *(WEB checked, not yet ingested)*
 - Deuteronomy 9:2 — *Who can stand before the sons of Anak?* *(WEB checked, not yet ingested)*
 - Deuteronomy 32:44 — *Hoshea* in the Hebrew *(WEB, WLC, and Rahlfs checked, not yet ingested)*
 - Joshua 2:1, 24 — two spies *(WEB checked, not yet ingested)*

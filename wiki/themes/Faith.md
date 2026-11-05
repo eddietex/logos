@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+*Yet in this thing you didn't believe Yahweh your God* (32). The unbelief is specific — *in this thing*, the going up — and it follows a list of what they had seen: Egypt, the carrying, the fire and cloud (30–33). In the Masoretic text (Sefaria) the verb is a participle, *ʾênəkem maʾămînim*; whether that stresses a continuing state is left open.
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### The brass serpent — Numbers 21:4–9
 
 Looking at the appointed serpent brings life (8–9). Reading this response as trust is an interpretation of the action; the stored WEB describes looking, while John 3:14–17 explicitly develops belief.
@@ -251,6 +257,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 
 ## Key passages
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; unbelief *in this thing*, against what they had seen.
 - [[Sihon and Og]] — Numbers 21:21–35.
 
 

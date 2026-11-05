@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+*Kadesh Barnea* (19) is where Moses repeats the command to go up (21), where the twelve are sent from, and where the people refuse (26). Deuteronomy gives no wilderness name for it here.
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Kadesh Barnea is the endpoint of the eleven-day journey from Horeb by Mount Seir (2). This travel
@@ -102,6 +108,7 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the command, the twelve sent, and the refusal.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
@@ -151,6 +158,8 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
   [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]
 - Messengers go from here to the king of Edom — Numbers 20:14–21
 - The refusal, and the sentence of forty years — Numbers 14:1–38, [[The People Refuse the Land]]
+- Recalled by Moses: the command to go up repeated, the twelve sent, the refusal — Deuteronomy 1:19–33,
+  [[The Spies and the Refusal to Go Up]]
 - The people go up from here against Moses' word and are beaten back — Numbers 14:39–45,
   [[The Defeat at Hormah]]
 - Recalled as the place the spies were sent from (8). See [[Reuben, Gad, and the Land Beyond the Jordan]].

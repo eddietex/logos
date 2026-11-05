@@ -30,6 +30,8 @@ then the valley.
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:24
+
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
 - [[The Twelve Spies]] — Numbers 13:23–24
@@ -43,4 +45,5 @@ then the valley.
 ## Events here
 
 - The cluster is cut, with pomegranates and figs — Numbers 13:23
+- Recalled by Moses as how far the twelve went, before they brought fruit back (Deuteronomy 1:24–25). See [[The Spies and the Refusal to Go Up]].
 - Recalled as where the fathers saw the land and discouraged Israel (9). See [[Reuben, Gad, and the Land Beyond the Jordan]].

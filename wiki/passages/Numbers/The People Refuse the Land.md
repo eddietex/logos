@@ -160,6 +160,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:26–33, the refusal retold: *because Yahweh hated us*, and *in this thing you didn't believe*.
 - [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
 
 - [[One Man and the Congregation - Intercession in Numbers 14 and 16]] — comparison with Numbers 16:1–40.
@@ -198,7 +199,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Numbers 26:64–65 — the second count, and the first generation gone *(stored WEB, not yet
   ingested)*
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11–13, Moses retells the sentence
-- Deuteronomy 1:26–40; 2:14–16 — the same events, and thirty-eight years *(WEB checked, not yet
+- Deuteronomy 1:34–40; 2:14–16 — the sentence, and thirty-eight years *(WEB checked, not yet
   ingested)*
 
 ## Notes

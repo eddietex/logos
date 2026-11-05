@@ -55,6 +55,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+*Don't be afraid, neither be dismayed* (21); *Don't dread, neither be afraid of them* (29). The fear of the peoples takes the place of trust in Yahweh. The previous unit forbade judges to fear *the face of man* (17); here a whole people fears the people of the land.
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 *You shall not be afraid of the face of man, for the judgment is God's* (17). Fear of man is ruled out because the verdict belongs to God; the qualification Exodus 18:21 stated as *able men which fear God* appears here as the judge's freedom from every other fear.
@@ -398,6 +404,7 @@ and forbidden, and it is set against rebelling against Yahweh. See [[The People 
 
 ## Key passages
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; fear of the peoples displacing trust.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *not afraid of the face of man*.
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

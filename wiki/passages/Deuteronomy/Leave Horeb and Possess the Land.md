@@ -58,6 +58,7 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[The Wilderness]] — The stay at the mountain is ended by command (6); the wilderness is the time between that command and the land.
 
 ## Cross-references
+- [[The Spies and the Refusal to Go Up]] — 1:19–33; at Kadesh Barnea Moses repeats *set the land before you* (21), and the people refuse.
 - [[Depart from the Mountain - Exodus 33, Numbers 10, and Deuteronomy 1.6-8]] — the departure from Horeb as ordered (Exodus 33:1), narrated (Numbers 10:11–13), and remembered here.
 - [[From the River of Egypt to the Euphrates]] — Genesis 15:18 and the maximal land formula Deuteronomy 1:7 repeats.
 - [[The Words of Moses Beyond the Jordan]] — the narrator's frame (1:1–5) that leads into this speech.

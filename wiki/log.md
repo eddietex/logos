@@ -22215,3 +22215,41 @@ Genesis; no new Hebrew or Greek claim was introduced. The connection's 2 Chronic
 skill changed. scripts/link-check.sh exits 0 (57 expected not-yet-started book targets).
 Counts: 9 books started, 8 complete; 328 passages, 251 people, 205 places, 87 themes,
 714 connections.
+
+## [2026-11-05] ingest | Deuteronomy 1.19-33 — The Spies and the Refusal to Go Up
+
+Ingested Moses' retelling of Kadesh Barnea, with the planned boundary unchanged: the march from Horeb
+through *that great and terrible wilderness*, the Horeb command repeated (*set the land before you.
+Go up*), the people's own proposal to send men, the twelve's single verdict *It is a good land*, the
+refusal and the murmuring *because Yahweh hated us*, and Moses' answer — Yahweh fights for you, bore
+you *as a man does bear his son*, went before you in fire and cloud — closing on *in this thing you
+didn't believe Yahweh your God*.
+
+Created the passage and the connection
+[[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]], a thread on *nāśāʾ*:
+Moses unable to carry the people (Numbers 11:12, 14; Deuteronomy 1:9, 12), and Yahweh who carried
+them (Deuteronomy 1:31; 32:11; Exodus 19:4; Isaiah 46:3–4; 63:9). Two pages created.
+
+Revised God, Moses, The Ten Spies, The Anakim; Kadesh, Horeb, Egypt, Canaan, The Valley of Eshcol;
+Faith, Murmuring, Love, War, The Wilderness, Land and Sojourning, Remembrance, The Fear of God; the
+connections Who Sent the Spies, Under the Cloud, Over the Tent and Before the People, To Seek Out the
+Land, The Nephilim and the Giants of Canaan, On Eagles Wings, and Whose Bodies Fell in the
+Wilderness (Deuteronomy 1 entries now linked to the passage); cross-references on The Twelve Spies,
+The People Refuse the Land, The Seventy Elders and the Quail, Judges Appointed for the People, Leave
+Horeb and Possess the Land, Israel at Mount Sinai, and The Crossing of the Sea; plus the book page,
+book status, three connections subindexes, and counts.
+
+Judgment calls: Caleb and Joshua get no update yet, since they are named only at 1:36–38 (next
+unit); no page for the Amorites, mentioned three times here as the hill country's people (the wiki
+has none yet, and the group recurs heavily in Deuteronomy 2–3 — a candidate page for that pass); the
+Numbers 13 / Deuteronomy 1 disagreement over who began the mission stays unharmonized, as the
+existing connection already handles it. The reading that 1:31 answers Numbers 11:12 is marked on the
+connection as the wiki's own.
+
+Quotations come from stored WEB Deuteronomy, Numbers, Exodus, and Genesis; Psalm 106:24, Isaiah
+46:3–4, 63:9, and Hosea 11:3 were checked at bible-api.com (`translation=web`). Hebrew forms
+(Deuteronomy 1:9, 12, 27, 30–32; 9:28; 32:11; Numbers 11:12, 14; Exodus 19:4; Isaiah 46:3–4; 63:9;
+Hosea 11:3) were read in *Miqra according to the Masorah* via the Sefaria API. No raw text, schema,
+or skill changed. scripts/link-check.sh exits 0 (57 expected not-yet-started book targets).
+Counts: 9 books started, 8 complete; 329 passages, 251 people, 205 places, 87 themes,
+715 connections.

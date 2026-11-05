@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+Israel crossed *all that great and terrible wilderness which you saw* (19). Moses makes the wilderness evidence: there Yahweh carried them *as a man does bear his son* (31) and went before them in fire and cloud to find each camp (33).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 *You have lived long enough at this mountain* (6) ends the stay at Horeb by command. The wilderness journey that follows is framed from its start as the way to a land already set before Israel (7–8).
@@ -186,6 +192,7 @@ direction is back *by the way to the Red Sea* (25). See [[The People Refuse the 
 
 ## Key passages
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the *great and terrible wilderness* as the place Yahweh carried them.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 

@@ -11,7 +11,7 @@ tags: [connection]
 - Genesis 10:8 — [[The Table of Nations]]: *gibbōr* used of Nimrod, the word's first reappearance
   after the flood
 - [[The Twelve Spies]] — Numbers 13:31–33; the spies' report, and the word's only other verse
-- Deuteronomy 1:28; 2:10–11, 20–21; 3:11; 9:1–2 *(not yet ingested)* — the Anakim, Emim, Zamzummim,
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28 *(stored WEB)*; and 2:10–11, 20–21; 3:11; 9:1–2 *(not yet ingested)* — the Anakim, Emim, Zamzummim,
   and Rephaim
 - Joshua 11:21–22; 14:12–15; 15:13–14 *(not yet ingested)* — the Anakim driven out, and the remnant
   left in Gaza, Gath, and Ashdod

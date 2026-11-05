@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+The people say Yahweh brought them *out of the land of Egypt* because he hated them, to hand them to the Amorites (27). Moses answers that Yahweh will fight for them *according to all that he did for you in Egypt before your eyes* (30).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The departure takes place while the Egyptians bury their firstborn; Yahweh has judged their gods (3–4).
@@ -286,6 +292,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the exodus as alleged hatred, and as proof of Yahweh fighting for them.
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42

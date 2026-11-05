@@ -70,6 +70,8 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[Remembrance]] — The unit is Moses recalling what he said and did *"at that time"* (9, 16, 18).
 
 ## Cross-references
+- [[The Spies and the Refusal to Go Up]] — 1:19–33, the march and refusal that follow.
+- [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]] — the *bear* of verses 9 and 12, answered at 1:31.
 - [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] — Jethro's counsel (Exodus 18:13–27), the seventy elders (Numbers 11:14–17), and this retelling, compared.
 - [[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]] — the law's charges against partiality in judgment, from Exodus 23 to Deuteronomy 16 and Proverbs.
 - [[Dust, Stars, and Sand - The Offspring Promises]] — Deuteronomy 1:10 reports the star promise of Genesis 15:5 as fulfilled.

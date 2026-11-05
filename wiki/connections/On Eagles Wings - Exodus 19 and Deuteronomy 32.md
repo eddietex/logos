@@ -11,6 +11,9 @@ tags: [connection]
 - Deuteronomy 32:9–12 — the Song of Moses recalls Jacob as Yahweh's portion and pictures an eagle
   carrying its young; not yet ingested.
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:31, *as a man does bear his son*; the same verb, another picture. See
+  [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]].
+
 ## Analysis
 
 Exodus 19:4 interprets the completed rescue through an image:

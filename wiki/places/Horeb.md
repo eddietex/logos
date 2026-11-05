@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+The march begins *from Horeb* (19) and crosses *all that great and terrible wilderness* to Kadesh Barnea. The command spoken at Horeb (1:6–8) is repeated almost word for word at Kadesh (21).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 Not named in the unit, but *at that time* (9, 16, 18) follows directly from the departure command at Horeb (1:6–8), so the speech places the appointment of judges at the mountain, before the march to Kadesh Barnea (19).
@@ -633,6 +639,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the starting point of the march to Kadesh.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges appointed *at that time*, before the departure.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6; the stay at the mountain declared long enough.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

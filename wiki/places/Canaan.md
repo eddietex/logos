@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+Called *the hill country of the Amorites* (19–20), which the twelve search as far as the valley of Eshcol (24). Their one recorded verdict: *It is a good land which Yahweh our God gives to us* (25). The people's fears are taller people and cities *fortified up to the sky* (28).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 *The land of the Canaanites* is one region in Yahweh's list (7), and the whole is the land sworn to Abraham, Isaac, and Jacob (8). The list reaches beyond Canaan proper to Lebanon and the Euphrates.
@@ -277,6 +283,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the good land searched and refused.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7–8; *the land of the Canaanites* among the regions to be possessed.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

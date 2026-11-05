@@ -88,6 +88,7 @@ commandments (19:9–25).
 
 ## Cross-references
 
+- [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]] — Exodus 19:4's *bore* (*nāśāʾ*) beside Deuteronomy 1:31's father carrying his son.
 - [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 19:1–6 compared with Leviticus 11.
 
 - Exodus 3:1–12 — [[The Burning Bush]]; the promised return with the people is now realized:

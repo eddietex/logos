@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23
 - [[The Crossing of the Sea]] — Exodus 13:21–22; the pillar that *didn't depart*
-- Deuteronomy 1:33 — *in fire by night ... and in the cloud by day* *(WEB checked, not yet ingested)*
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:33, *in fire by night ... and in the cloud by day* *(stored WEB)*
 - Nehemiah 9:12, 19 — the prayer of the returned *(WEB checked, not yet ingested)*
 - Psalms 78:14; 105:39 — the cloud in Israel's songs *(WEB checked, not yet ingested)*
 - Isaiah 4:5 — cloud and fire over Zion *(WEB checked, not yet ingested)*

@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The People Refuse the Land]] — Numbers 14:16, 23, 29–35
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:32, *in this thing you didn't believe Yahweh your God* *(stored WEB)*
 - Psalm 95:10–11 — *They won't enter into my rest* *(WEB checked, not yet ingested)*
 - Psalm 106:24–27 — *he swore to them that he would overthrow them in the wilderness* *(WEB checked,
   not yet ingested)*

@@ -11,7 +11,7 @@ tags: [connection]
 - [[The Twelve Spies]] — Numbers 13:2, 16, 17, 21, 25, 32
 - [[The People Refuse the Land]] — Numbers 14:6, 7, 34, 36, 38; the same verb in the sequel
 - [[The Tassels]] — Numbers 15:37–41; the warning about heart and eyes
-- Deuteronomy 1:33 — Yahweh going before them to seek out a place *(WLC; see
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:33, Yahweh going before them to seek out a place *(WLC; see
   [[Over the Tent and Before the People - Where the Cloud Stood]])*
 - Judges 1:23 — *The house of Joseph sent to spy out Bethel* *(WEB and WLC checked, not yet
   ingested)*

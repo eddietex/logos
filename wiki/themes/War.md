@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+The people fear taller peoples, cities *fortified up to the sky*, and the Anakim (28). Moses' answer is *Yahweh your God who goes before you, he will fight for you* (30), recalling the word at the sea (Exodus 14:14). The war is refused before it begins.
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The defeats of Sihon and Og are recalled as completed events that precede the teaching (4). This
@@ -334,6 +340,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *he will fight for you*, refused.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.

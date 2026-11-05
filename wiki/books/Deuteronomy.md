@@ -30,6 +30,14 @@ many alone, had the tribes supply wise and known men and made them heads and jud
 small and great alike *"for the judgment is God's"*. Exodus 18 credits the plan to Jethro;
 Deuteronomy tells it as Moses' own proposal, approved by the people.
 
+At Kadesh Barnea, in [[The Spies and the Refusal to Go Up]] (1:19–33), the Horeb command is
+repeated, the people themselves propose sending men ahead, and the twelve bring back fruit and a
+single verdict, *"It is a good land"*. The people refuse anyway, saying Yahweh brought them out
+*"because Yahweh hated us"*. Moses answers with what they had seen — Yahweh fighting for them in
+Egypt, carrying them *"as a man does bear his son"*, and going before them in fire and cloud — and
+gives the verdict: *"in this thing you didn't believe Yahweh your God"*. The story is told to the
+sons in the second person, as if they had stood at Kadesh themselves.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -47,12 +55,12 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **3 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **4 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
 - [x] [[Judges Appointed for the People]] — Deuteronomy 1:9–18
-- [ ] The Spies and the Refusal to Go Up — Deuteronomy 1:19–33
+- [x] [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33
 - [ ] The Sentence and the Presumptuous Ascent — Deuteronomy 1:34–46
 - [ ] Around Seir and Past Moab and Ammon — Deuteronomy 2:1–23
 - [ ] The Defeat of Sihon Recounted — Deuteronomy 2:24–37

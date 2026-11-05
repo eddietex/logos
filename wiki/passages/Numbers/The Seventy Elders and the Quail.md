@@ -115,6 +115,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]] — Numbers 11:12, the nurse Moses refuses to be, and Yahweh as the father who carried Israel (Deuteronomy 1:31).
 - [[Joshua Commissioned]] — Numbers 27:18; Joshua, who objected at 11:28, is *a man in whom is the Spirit*.
 - [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] — Moses unable to carry Israel alone
 - [[Gift and Judgment - The Two Quail Stories of Exodus 16 and Numbers 11]]

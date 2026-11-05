@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+At the border the land is *set before* them again (21). The twelve's whole report is *It is a good land which Yahweh our God gives to us* (25). *Yet you wouldn't go up* (26).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 Yahweh's remembered command at Horeb lists the land by kinds of country — hill country, Arabah, lowland, South, seashore, Canaanite land, Lebanon, Euphrates — and declares it already *set before you* (7–8). The gift is stated as done; going in and possessing is what remains. The oath to the fathers who sojourned is the ground of the possession.
@@ -482,6 +488,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the good land given and refused.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 

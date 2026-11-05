@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+Moses recalls Yahweh as the one who *gives* the land (20, 25), *goes before* Israel and *will fight for you* (30), *bore you, as a man does bear his son* (31), and searched out each camp *in fire by night … and in the cloud by day* (33). The people say the opposite: *because Yahweh hated us, he has brought us out of the land of Egypt … to destroy us* (27). *In this thing you didn't believe Yahweh your God* (32).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 Yahweh has multiplied Israel *as the stars of the sky* (10), and Moses prays he will make them a thousand times more and bless them *as he has promised* (11). The judges are told to fear no man *for the judgment is God's* (17): the verdict is his, not theirs.
@@ -3386,6 +3392,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the father who carried Israel, accused of hating it.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; multiplier of Israel and owner of *the judgment* the courts give.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; the speaker Moses quotes, who ends the stay at Horeb and swore the land.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

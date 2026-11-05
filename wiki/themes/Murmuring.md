@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+*You murmured in your tents* (27). The complaint in Deuteronomy is the harshest form yet: the exodus itself is called an act of hatred, *because Yahweh hated us*. Moses will put the same accusation in Egypt's mouth at 9:28.
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### The brass serpent — Numbers 21:4–9
 
 Discouragement on the detour becomes speech against God and Moses. The people reject the provision they have, then confess that their speech was sin (5–7).
@@ -158,6 +164,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *in your tents*: the exodus called an act of hatred.
 - [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The spies and the refusal — Deuteronomy 1:19–33
+
+He recalls telling Israel at Kadesh Barnea to go up and not be afraid (20–21), approving their plan to send men ahead and taking twelve himself (23), and answering their fear with what they had seen: Yahweh fighting for them in Egypt, carrying them *as a man does bear his son*, and going before them in fire and cloud (29–33). Numbers 13:1–2 has Yahweh command the mission; here the plan *pleased* Moses. The verb he used for the people he could not *bear* alone (1:9, 12) is the one he now uses for Yahweh's carrying (31).
+
+See [[The Spies and the Refusal to Go Up]]. Source: stored WEB Deuteronomy 1:19–33.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 He recalls telling Israel *I am not able to bear you myself alone* (9) — the sentence Jethro spoke to him in Exodus 18:18 and he spoke to God in Numbers 11:14, here his own and spoken to the people. He proposes the tribal heads, the people consent (14), he appoints captains of thousands to tens (15), charges the judges, and keeps the case too hard for them (17). Jethro is not mentioned.
@@ -1432,6 +1438,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the refusal at Kadesh retold, and his answer to the people's fear.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges recalled as his own proposal, with the people's consent.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; the address begins with a quotation of Yahweh's word at Horeb.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

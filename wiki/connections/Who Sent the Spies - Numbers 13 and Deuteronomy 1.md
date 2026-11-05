@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Twelve Spies]] — Numbers 13:1–3, 25–33
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:8–9, *when I sent them from Kadesh Barnea to see the
   land* *(stored WEB)*
-- Deuteronomy 1:19–28 — Moses' retelling *(WEB checked, not yet ingested)*
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–28, Moses' retelling *(stored WEB)*
 - Joshua 14:7–8 — *Moses the servant of Yahweh sent me from Kadesh Barnea* *(WEB checked, not yet
   ingested)*
 
@@ -46,5 +46,8 @@ information was the sin.
 - The two accounts agree on the facts that carry the judgment: twelve men, fruit, the fear, and the
   refusal.
 - They differ on who began it, and the wiki keeps both claims.
+- Deuteronomy frames the request with two statements that Yahweh already went before Israel (1:30,
+  33), *to seek out a place for you*; see the Notes on
+  [[The Spies and the Refusal to Go Up]].
 - The retelling continues past the sentence; see
   [[Don't Go Up - Numbers 14.39-45 and Deuteronomy 1.41-46]].

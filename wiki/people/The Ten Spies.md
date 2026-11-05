@@ -44,17 +44,26 @@ die at once, while the rest of the generation has forty years. Joshua 14:8 has C
 brothers who went up with me*, and says they *made the heart of the people melt* (WEB; *not yet
 ingested*). See [[The People Refuse the Land]].
 
+**Deuteronomy does not separate them.** In Moses' retelling the twelve bring back fruit and one
+verdict, *It is a good land which Yahweh our God gives to us* (Deuteronomy 1:25). The frightening
+report is heard only inside the people's murmuring, as what *our brothers* said: the people taller,
+the cities *fortified up to the sky*, the sons of the Anakim (1:28). There are no names and no
+dissenting two in that unit; Caleb and Joshua are named only in the sentence that follows (1:36, 38).
+See [[The Spies and the Refusal to Go Up]].
+
 ## Timeline / key events
 
 - Sent one from each tribe — Numbers 13:1–16, [[The Twelve Spies]]
 - Search the land for forty days and return with fruit — Numbers 13:21–26
 - Say *We aren't able*, and bring out the evil report — Numbers 13:31–33
 - Die by plague — Numbers 14:36–37, [[The People Refuse the Land]]
+- Recalled as *our brothers* who *made our heart melt* — Deuteronomy 1:28, [[The Spies and the Refusal to Go Up]]
 
 ## Appears in
 
 - [[The Twelve Spies]] — Numbers 13:4–15, 25–33
 - [[The People Refuse the Land]] — Numbers 14:36–37; die by the plague
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:22–28; the twelve as one group, quoted as *our brothers*
 
 ## Related people
 

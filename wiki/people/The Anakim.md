@@ -22,8 +22,11 @@ the Nephilim* (13:33). This is the only link anywhere, it comes from the men the
 and Rahlfs's Greek lacks the clause (*καὶ ἐκεῖ ἑωράκαμεν τοὺς γίγαντας*, with no Enach). See
 [[The Nephilim]] and [[The Nephilim and the Giants of Canaan]].
 
-**How later books recall them** (WEB; *not yet ingested*). Deuteronomy 1:28 has the people quote
-*the sons of the Anakim*, and Deuteronomy 9:2 preserves a saying, *Who can stand before the sons of
+**In Deuteronomy's retelling.** At Deuteronomy 1:28 the people quote what *our brothers* said: *we
+have seen the sons of the Anakim there!* They are the last and climactic item in the list of fears,
+after the taller people and the walled cities. See [[The Spies and the Refusal to Go Up]].
+
+**How later books recall them** (WEB; *not yet ingested*). Deuteronomy 9:2 preserves a saying, *Who can stand before the sons of
 Anak?* Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. Joshua 15:13
 calls Arba *the father of Anak*, and Joshua 14:15 has him the greatest man among them, giving
 Hebron's old name. Joshua 11:21–22 says Joshua cut them off, except in Gaza, Gath, and Ashdod.
@@ -34,11 +37,13 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 
 - Found at Hebron — Numbers 13:22, [[The Twelve Spies]]
 - Reported to Moses and the people — Numbers 13:28, 33
+- Recalled in the people's murmuring — Deuteronomy 1:28, [[The Spies and the Refusal to Go Up]]
 - *(ahead)* Removed from Hebron — Joshua 11:21–22; 15:14; Judges 1:10, 20
 
 ## Appears in
 
 - [[The Twelve Spies]] — Numbers 13:22, 28, 33
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28
 
 ## Related people
 
