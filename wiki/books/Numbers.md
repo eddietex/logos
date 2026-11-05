@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Arad and Hormah]] (21:1–3) turns an attack and captivity into a vow and victory.
+Yahweh hears Israel; the Canaanites and their cities are destroyed, and the place
+is named Hormah, recalling the earlier defeat while leaving the naming tension open.
+
 [[The Death of Aaron]] (20:22–29) brings the Meribah sentence to its consequence for Aaron.
 His garments pass to Eleazar on Mount Hor, and Israel mourns for thirty days; priestly
 service continues beyond the death of its first holder.
@@ -157,7 +161,7 @@ merge, or reorder them freely.
 - [x] [[The Waters of Meribah]] — Numbers 20:1–13
 - [x] [[Edom Refuses Passage]] — Numbers 20:14–21
 - [x] [[The Death of Aaron]] — Numbers 20:22–29
-- [ ] Arad and Hormah — Numbers 21:1–3
+- [x] [[Arad and Hormah]] — Numbers 21:1–3
 - [ ] The Brass Serpent — Numbers 21:4–9
 - [ ] The Journey to Moab — Numbers 21:10–20
 - [ ] Sihon and Og — Numbers 21:21–35
@@ -181,6 +185,14 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Judgment]] — the vow and victory at Hormah (21:1–3).
+
+- [[Faith]] — the vow and victory at Hormah (21:1–3).
+
+- [[Names and Naming]] — the vow and victory at Hormah (21:1–3).
+
+- [[Oaths and Vows]] — the vow and victory at Hormah (21:1–3).
 
 - [[Prayer]] — the appeal and withdrawal at Edom (20:14–21).
 
@@ -221,6 +233,8 @@ merge, or reorder them freely.
 
 ## Key people
 
+- [[King of Arad (of Moses' time)]] — attacks Israel and takes captives (21:1).
+
 - [[King of Edom (of Moses' time)]] — the unnamed ruler addressed by the embassy (20:14).
 
 - [[Peleth]] — named in the rebellion account (16:1–40).
@@ -247,6 +261,8 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Arad]] and [[Atharim]] — the king’s center and Israel’s approach (21:1).
 
 - [[Mount Hor]] — Aaron’s death and Eleazar’s succession (20:22–29).
 

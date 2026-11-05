@@ -30,6 +30,14 @@ what is named**, which is why it matters so much who does it, and why the except
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+Hormah receives its name after Israel’s vowed destruction (3). The name already
+appears at Numbers 14:45; Judges 1:17 supplies another naming account associated with
+Zephath. These are retained as a textual tension rather than silently harmonized.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### The three registers Genesis uses
 
 **1. The name as a record of what happened.** Cain (*qānîtî*, *I have gotten*, 4:1); Seth (*šāt*, *he
@@ -188,6 +196,8 @@ its cluster (24). The first has no explanation, and the second has one.
 See [[The Twelve Spies]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[Love Better Than Wine]] — Song of Solomon 1:1–4; the name as fragrant oil.
 

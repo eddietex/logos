@@ -21401,3 +21401,26 @@ source-language claim, raw-text edit, or harness change was needed.
 Validation: frontmatter counts and category row coverage checked; no new title collision.
 scripts/link-check.sh passed with 58 expected not-yet-started book targets.
 No unresolved ingest issue.
+
+## [2026-11-04] ingest | Numbers 21.1-3 — Arad and Hormah
+
+Ingested the next planned pericope in auto mode, retaining the three-verse boundary.
+Created the passage, Arad, Atharim, and King of Arad (of Moses' time): four pages.
+Revised Numbers, The Defeat at Hormah, God, three existing places, seven themes, and
+both existing Hormah/devoted-destruction connections: fifteen content pages. Updated
+six indexes and this log (22 revised pages in total). Numbers is now 33 / 54;
+frontmatter totals are 304 passages, 217 people, 116 places, 87 themes, 682 connections.
+
+The unnamed king receives the narrative-period qualifier from the start. Atharim gets
+its own page as the explicitly named approach, without an asserted meaning or location.
+Israel is treated collectively, not linked to Jacob; Moses is not inserted as a speaker.
+Existing connection pages cover the parallels, so no duplicate connection is created.
+The earlier use of Hormah and the distinct Judges naming account remain explicitly in
+tension. Arad is not equated with Hormah, and no modern site identification is adopted.
+
+Quoted all three verses directly from stored WEB Numbers; read Numbers 14:39–45 and
+Leviticus 27:28–29 in raw for comparisons. Verified Judges 1:16–17 through bible-api.com's
+WEB endpoint (2026-11-04) after the web reader could not open it; used paraphrase in the
+new material. No new source-language assertions or unverified quotations were added.
+Raw texts and workflow instructions are unchanged. Link checks passed: no wrapped or
+dangling links, with 58 not-yet-started book pages as the expected baseline.

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Arad and Hormah — Numbers 21:1–3
+
+Yahweh hears Israel’s collective vow and delivers the Canaanites (3). No divine speech
+is reported; the response is narrated as an event.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### The death of Aaron — Numbers 20:22–29
 
 Yahweh recalls the rebellion at Meribah and announces Aaron’s death outside the land
@@ -3202,6 +3209,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

@@ -31,6 +31,13 @@ phrase for public worship rather than for petition — see
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+Israel addresses Yahweh through a conditional vow and is heard (2–3). The account
+names no mediator. The divine answer is military deliverance, not a recorded speech.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 The message remembers Israel crying to Yahweh and being heard (16). This is a retrospective
@@ -258,6 +265,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

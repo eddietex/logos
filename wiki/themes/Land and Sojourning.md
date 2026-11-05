@@ -88,6 +88,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+The encounter on the southern approach ends in destruction of cities, without a
+report of occupation or settlement (1–3). A local victory should not be treated as
+completion of the promised entry into the land.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel requests limited transit across Edom, promising no damage and then payment for
@@ -381,6 +389,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

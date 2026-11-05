@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Arad and Hormah — Numbers 21:1–3
+
+The king of Arad and his people are called Canaanites (1, 3). They attack and take
+captives, then are delivered to Israel and destroyed with their cities. This is a
+local conflict, not a report of the settlement of the whole land.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### The death of Aaron — Numbers 20:22–29
 
 The land given to Israel remains the promised destination, unnamed here but identified
@@ -219,6 +227,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Arad and Hormah — Numbers 21:1–3
+
+Numbers 21:3 now supplies the ingested naming account: Israel destroys the Canaanites
+and their cities after Yahweh hears its vow. The earlier defeat at Numbers 14:45 and
+the distinct naming of Zephath in Judges 1:17 remain unreconciled accounts; Arad and
+Hormah are not explicitly equated in this unit.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 The place in the far south of Canaan where the rout of the first generation ends, and later a town of
 Judah and Simeon. Numbers uses the name at 14:45, before it has been explained.
 
@@ -24,8 +33,9 @@ checked.
 
 ## Appears in
 
+- [[Arad and Hormah]] — Numbers 21:1–3.
+
 - [[The Defeat at Hormah]] — Numbers 14:45; how far Israel was beaten down
-- Numbers 21:1–3 — the vow and the naming *(stored WEB, not yet ingested)*
 - Deuteronomy 1:44 — *in Seir, even to Hormah* *(WEB checked, not yet ingested)*
 - Joshua 12:14; 15:30; 19:4 — the king and the town lists *(WEB checked, not yet ingested)*
 - Judges 1:17 — Zephath renamed *(WEB checked, not yet ingested)*

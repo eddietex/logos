@@ -116,6 +116,14 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+Yahweh delivers the Canaanites to Israel, which destroys them and their cities (3).
+The narrative records their attack and capture of Israelites (1), but does not supply
+a separate judicial speech or a catalogue of the inhabitants’ offenses.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 The plague kills 14,700 in addition to the earlier deaths in Korah’s affair (49). Atonement
@@ -681,6 +689,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

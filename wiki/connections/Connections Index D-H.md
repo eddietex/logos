@@ -22,7 +22,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] | legal-thematic-parallel | Exodus 19:1–6 · Exodus 20:1–3 · Exodus 22:31 · Leviticus 11:44–47 |
 | [[Desire and Rule - Genesis 3.16 and 4.7]] | parallel | Genesis 3:16 · Genesis 4:7 · Song of Songs 7:10 · [[My Beloved Is Mine - Song of Solomon 2.16, 6.3, and 7.10]] · [[Come into the Fields, My Beloved]] (Song of Solomon 7:10–8:4) |
 | [[Despised the Word of Yahweh - Numbers 15.31 and 2 Samuel 12.9]] | thread | [[Offerings in the Land and Sins of Ignorance]] (Numbers 15:31) · 2 Samuel 12:9–13 · Psalm 51:16 · Proverbs 13:13 |
-| [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]] | thread | [[Vows, Valuations, and Devoted Things]] · [[Laws of Holiness and Compassion]] · Numbers 18:14 · Numbers 21:2–3 · Deuteronomy 7:2, 26 · Joshua 6:17; 7:1 · 1 Samuel 15:3, 9 · Ezekiel 44:29 |
+| [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]] | thread | [[Vows, Valuations, and Devoted Things]] · [[Laws of Holiness and Compassion]] · Numbers 18:14 · Numbers 21:2–3 · Deuteronomy 7:2, 26 · Joshua 6:17; 7:1 · 1 Samuel 15:3, 9 · Ezekiel 44:29; [[Arad and Hormah]]: Numbers 21:1–3 now ingested |
 | [[Dinah and Tamar - Two Rapes and Two Avenging Brothers]] | parallel | Genesis 34:1–31 · 2 Samuel 13:1–39 · Exodus 22:16–17 · Deuteronomy 22:28–29 · Genesis 49:5–7 · 2 Samuel 12:10–11 |
 | [[Discern, Please - Hakker-na from Jacob's Coat to Judah's Pledge]] | parallel | Genesis 37:31–33 · Genesis 38:25–26 · Genesis 27:23 · Genesis 31:32 · Genesis 42:7–8 |
 | [[The Diseases of Egypt - The Plagues in Deuteronomy 28]] | allusion | Exodus 9:8–11 · Exodus 10:12–15, 21–22 · Deuteronomy 28:27, 29, 38, 60, 68 · Job 2:7 · [[Covenant Warnings and Remembered Promises]] |
@@ -60,7 +60,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[Enough for the Work - Manna and the Sanctuary Offering]] | contrast | Exodus 16:16–30 · Exodus 36:3–7 · [[The Altar, the Basin, the Court, and the Inventory]] (Exodus 38:1–31) |
 | [[Entertaining Angels Unawares]] | allusion | Genesis 18:1–8 · Genesis 19:1–3 · Judges 6:11–24 · Judges 13:2–23 · Tobit 12:19 · Luke 24:13–35 · Hebrews 13:2 |
 | [[Esau's Birthright in Hebrews]] | fulfillment | Genesis 25:29–34 · Genesis 27:34–38 · Hebrews 12:16–17, 23 |
-| [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] | thread | [[The Defeat at Hormah]] (Numbers 14:45) · Numbers 21:1–3 · Deuteronomy 1:44 · Joshua 12:14; 15:30; 19:4 · Judges 1:16–17 · 1 Samuel 30:30 · 1 Chronicles 4:30 |
+| [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] | thread | [[The Defeat at Hormah]] (Numbers 14:45) · Numbers 21:1–3 · Deuteronomy 1:44 · Joshua 12:14; 15:30; 19:4 · Judges 1:16–17 · 1 Samuel 30:30 · 1 Chronicles 4:30; [[Arad and Hormah]]: Numbers 21:1–3 now ingested |
 | [[The Everlasting God - El Olam in Genesis and Isaiah]] | thread | Genesis 21:33 · Genesis 14:18–22; 16:13; 17:1; 33:20; 35:7 · Isaiah 40:28 · Psalm 90:2 |
 | [[Every Son Who Is Born - Pharaoh's Decree and Herod's]] | typology | Exodus 1:16, 22 · Exodus 2:1–10, 15 · Exodus 4:19 · Matthew 2:13–20 · Acts 7:19 · Hebrews 11:23 · Exodus 4:22–24 |
 | [[Every Word of God Is Flawless - Proverbs 30.5-6, Psalm 18.30, and Deuteronomy 4.2]] | parallel | [[The Words of Agur]] · [[The Covenant Between the Pieces]] · Psalm 18:30 · 2 Samuel 22:31 · Deuteronomy 4:2 |

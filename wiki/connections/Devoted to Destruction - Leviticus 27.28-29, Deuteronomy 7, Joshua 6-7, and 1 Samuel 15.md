@@ -12,8 +12,7 @@ tags: [connection]
   only, shall be utterly destroyed."* (WLC 22:19.)
 - Numbers 18:14 — *"Everything devoted in Israel shall be yours."* *(WEB, bible-api.com; not yet
   ingested)*
-- Numbers 21:2 — *"Israel vowed a vow to Yahweh, and said, 'If you will indeed deliver this people
-  into my hand, then I will utterly destroy their cities.'"* *(same)*
+- [[Arad and Hormah]] — Numbers 21:1–3; vowed destruction (stored WEB, ingested).
 - Deuteronomy 7:2, 26 — *"you shall utterly destroy them"*; *"for it is a devoted thing."* *(same)*
 - Joshua 6:17; 7:1 — *"The city shall be devoted"*; Achan *"took some of the devoted things."*
   *(same)*
@@ -22,6 +21,14 @@ tags: [connection]
 - Ezekiel 44:29 — *"every devoted thing in Israel shall be theirs."* *(same)*
 
 ## Analysis
+
+**Now ingested: [[Arad and Hormah]].** Numbers 21:1–3 begins with an attack and captives,
+then reports Israel's conditional vow, Yahweh's hearing, and destruction of the people
+and cities. Victory is attributed to Yahweh, but a divine command initiating the vow
+is not reported. The earlier rout at Hormah is a narrative contrast, not evidence
+that every detail of the two battles or their sites is identical.
+
+Source for this addition: stored WEB Numbers 14:39–45; 21:1–3.
 
 **One root, *ḥāram* and *ḥērem*, in all of these (WLC).** WEB's *devoted* and *utterly destroy* conceal
 that. The Hebrew joins a priest's field to a conquered city.

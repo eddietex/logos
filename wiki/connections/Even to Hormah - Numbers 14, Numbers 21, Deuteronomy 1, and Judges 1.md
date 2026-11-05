@@ -8,13 +8,21 @@ tags: [connection]
 ## Passages involved
 
 - [[The Defeat at Hormah]] — Numbers 14:45
-- Numbers 21:1–3 — *The name of the place was called Hormah* *(stored WEB, not yet ingested)*
+- [[Arad and Hormah]] — Numbers 21:1–3; the vow, victory, and naming.
 - Deuteronomy 1:44 — *in Seir, even to Hormah* *(WEB checked, not yet ingested)*
 - Joshua 12:14; 15:30; 19:4 *(WEB checked, not yet ingested)*
 - Judges 1:16–17 — Zephath *(WEB checked, not yet ingested)*
 - 1 Samuel 30:30; 1 Chronicles 4:30 *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+**Now ingested: [[Arad and Hormah]].** Numbers 21:1–3 begins with an attack and captives,
+then reports Israel's conditional vow, Yahweh's hearing, and destruction of the people
+and cities. Victory is attributed to Yahweh, but a divine command initiating the vow
+is not reported. The earlier rout at Hormah is a narrative contrast, not evidence
+that every detail of the two battles or their sites is identical.
+
+Source for this addition: stored WEB Numbers 14:39–45; 21:1–3.
 
 By the tags the name occurs nine times in the Hebrew Bible, in the verses above. The first use
 assumes the reader knows it.

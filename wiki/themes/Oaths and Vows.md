@@ -32,6 +32,14 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+Israel promises destruction of enemy cities if Yahweh gives victory (2), and performs
+it after being heard (3). The promise is collective and conditional; no intermediary
+or divine command initiating the vow is reported.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 A vowed person is met with silver on a fixed scale, with a poor vower assessed by what he can pay
@@ -308,6 +316,8 @@ By the tags this is the first *ḥay ʾānî* (21, 28), and 14:23, 30, and 35 ha
 men, with the same raised hand as Exodus 6:8 (30). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Feast of Booths]] — Leviticus 23:33–44.

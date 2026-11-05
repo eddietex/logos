@@ -55,6 +55,14 @@ See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+Israel makes victory dependent on Yahweh’s delivery of the enemy (2–3), contrasting
+with the warned-against ascent of Numbers 14:39–45. Reading this as dependence is an
+interpretation of the action; the passage does not explicitly call Israel faithful.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 The question about food (20) meets a promise of sufficient old stores (21–22). Trust is an interpretive theme of obeying this provision-dependent command; the unit does not use an explicit English faith formula or narrate Israel’s response.
@@ -226,6 +234,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

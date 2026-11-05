@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Arad and Hormah — Numbers 21:1–3
+
+The king of Arad lives in the South and attacks Israel approaching by Atharim (1).
+The southern border setting now holds victory as well as the defeat of Numbers 14.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 The dry country at the bottom of the land, and — because it is where the road to Egypt begins — the
 place the patriarchs go when the land they were promised stops feeding them.
 
@@ -42,6 +49,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 126:4).
 
 ## Appears in
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Call of Abram]] — Genesis 12:9, the last stage of Abram's transit of the land
 - [[Abram in Egypt]] — Genesis 12:10, unnamed but implied: the descent to Egypt starts from here, and

@@ -25,6 +25,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Arad and Hormah — Numbers 21:1–3
+
+An enemy attack takes captives; Israel’s vow and Yahweh’s answer lead to destruction
+of both the Canaanites and their cities. Neither tactics nor the captives’ fate is
+reported. Divine deliverance and lethal destruction stand together in the account.
+
+See [[Arad and Hormah]]. Source: stored WEB Numbers 21:1–3.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Edom threatens the sword and comes out in force; Israel withdraws (18–21). Military
@@ -247,6 +255,8 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 
