@@ -38,6 +38,14 @@ happens.
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+A man approached with rewards of divination receives actual divine speech (7–12, 20). His
+declaration that he cannot exceed Yahweh’s word (18) establishes a constraint; it is not yet an
+unqualified verdict on his character. No divinatory technique is described.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 - **Genesis 15:1–16** — the formula's first occurrence, the first *maḥăzeh*, and the first predictive
   oracle in the Bible. See [[The Covenant Between the Pieces]].
 - **Genesis 20:3, 7** — two firsts in one pericope: *ḥălôm*, **dream**, occurs here for the first time
@@ -138,6 +146,8 @@ The Torah's one statement of grades. Miriam the prophetess and Aaron ask whether
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[The Words of King Lemuel]] — Proverbs 31:1; The WEB calls the mother’s teaching a revelation
   without narrating a prophetic call.

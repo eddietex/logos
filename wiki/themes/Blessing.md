@@ -29,6 +29,14 @@ costly.
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+Israel’s existing blessed status is the stated reason God forbids the requested curse (12). Balak
+attributes effective blessing and cursing to Balaam (6); the divine response places that supposed
+power under God’s decision.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 Leviticus's fullest statement of blessing never uses *bārak*. The goods themselves stand in for the
@@ -350,6 +358,8 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

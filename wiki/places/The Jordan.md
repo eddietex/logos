@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Balak’s embassies — Numbers 22:1–21
+
+The river locates Israel’s camp beyond it at Jericho (1). No crossing is narrated; Jericho is a
+reference point across the river.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 **The river that becomes the Bible's boundary between being outside the land and being in it — and
 in Genesis it is never crossed.**
 
@@ -56,6 +63,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[Abram and Lot Separate]] — Genesis 13:10–11; **the plain of the Jordan**, seen from the ridge and
   chosen, with the narrator's warning attached

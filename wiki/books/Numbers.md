@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Balak Sends for Balaam]] (22:1–21) moves the conflict from battle to attempted cursing. Balak’s
+embassies cannot override Israel’s blessed status; Balaam departs with permission restricted to
+God’s word.
+
 [[Sihon and Og]] (21:21–35) moves from requested transit to possession of Amorite territory. Sihon’s earlier conquest of Moab supplies the historical background; Yahweh’s assurance before Og frames the second victory. The quoted Heshbon poem preserves a different voice within the conquest narrative.
 
 [[The Journey to Moab]] (21:10–20) follows the camps toward Moab, cites the Book of the
@@ -174,7 +178,7 @@ merge, or reorder them freely.
 - [x] [[The Brass Serpent]] — Numbers 21:4–9
 - [x] [[The Journey to Moab]] — Numbers 21:10–20
 - [x] [[Sihon and Og]] — Numbers 21:21–35
-- [ ] Balak Sends for Balaam — Numbers 22:1–21
+- [x] [[Balak Sends for Balaam]] — Numbers 22:1–21
 - [ ] Balaam's Donkey — Numbers 22:22–35
 - [ ] Balaam's First Two Oracles — Numbers 22:36–23:26
 - [ ] Balaam's Last Oracles — Numbers 23:27–24:25
@@ -248,6 +252,9 @@ merge, or reorder them freely.
 
 ## Key people
 
+- [[Balak]] and [[Balaam]] — the king’s summons and the constrained answer (22:1–21).
+- [[Zippor]] and [[Beor (father of Balaam)]] — their named fathers (22:2, 5).
+
 - [[Chemosh]] — [[Sihon and Og]] (Numbers 21:21–35).
 
 - [[King of Moab (before Sihon's conquest)]] — [[Sihon and Og]] (Numbers 21:21–35).
@@ -286,6 +293,9 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Pethor]] — Balaam’s location by the River (22:5).
+- [[Jericho]] and [[The Jordan]] — reference points for the camp in Moab (22:1).
 
 - [[Edrei]] — [[Sihon and Og]] (Numbers 21:21–35).
 

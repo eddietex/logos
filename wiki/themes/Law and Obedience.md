@@ -129,6 +129,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+The initial refusal to travel (12) becomes conditional permission (20), always bounded by the
+divine word. Permission to go does not authorize the requested curse. The anger reported at 22:22
+remains a narrative tension for the next unit, not proof that verse 20 never granted permission.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Duties and portions — Numbers 18:1–32
 
 The chapter regulates access, food, redemption, and distribution together.
@@ -940,6 +948,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

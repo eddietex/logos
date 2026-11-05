@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
+
 - **Genesis 30:27** — *"I have divined that Yahweh has blessed me for your sake"* — [[Jacob's Flocks]]
 - **Genesis 44:5, 15** — [[The Silver Cup and Judah's Plea]]; *"Isn't this that from which my lord
   drinks, and by which he indeed divines?"*; *"Don't you know that such a man as I can indeed
@@ -23,6 +25,15 @@ tags: [connection]
   with Israel"*
 
 ## Analysis
+
+### The first embassies
+
+Numbers 22:7 explicitly names rewards of divination in the first delegation’s hands. Verses 8–20
+nevertheless narrate God speaking to Balaam and restricting him. This unit neither describes a
+divinatory ritual nor says he accepted payment; those details must not be inferred from the
+delegation’s purpose.
+
+Source: stored WEB Numbers 22:1–21.
 
 **The root is ***nāḥaš***, and Genesis uses it exactly twice — for a Mesopotamian herdsman and for an
 Egyptian vizier who is Jacob's son.**

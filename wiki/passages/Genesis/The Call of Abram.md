@@ -190,6 +190,8 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
 
 ## Cross-references
 
+- [[Balak Sends for Balaam]] — [[The Blessed People and the Purchased Curse]] compares the blessing with Numbers 22:12.
+
 - [[From Shem to Abram]] — Genesis 11:10–32, the dead end this call is heard against: collapsing
   lifespans, a dead son, a barren wife, and a journey that stopped.
 - [[Out of Ur - Terah's Journey and Abram's Call]] — the two departures set side by side, with the

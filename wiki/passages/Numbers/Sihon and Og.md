@@ -105,6 +105,8 @@ they possessed his land.
 - [[Idolatry]] — Moab is called the people of Chemosh in the quoted poem (29). Its portrayal of the deity surrendering his people belongs to that poetic taunt; no Israelite worship of Chemosh is narrated here.
 
 ## Cross-references
+
+- [[Balak Sends for Balaam]] — the fear produced by Israel’s victories leads to Balak’s embassies.
 - [[Edom and Sihon - Refused Passage and Different Outcomes]]
 - [[From Defeat at Hormah to Victory over Og]]
 - [[From the Well Song to the Heshbon Poem]]

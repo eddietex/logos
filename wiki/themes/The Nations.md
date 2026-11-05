@@ -63,6 +63,14 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+Moab and Midian cooperate against Israel through an embassy (4–7). God speaks to Balaam outside
+Israel’s camp and protects Israel’s blessing there; the people do not participate in the
+negotiations.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The nations are both exile and audience: Israel is scattered among them and perishes among them (33,
@@ -191,6 +199,8 @@ conclusions (13–16). Yahweh's name stands in their hearing. See
 [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]].
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

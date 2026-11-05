@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Balak’s embassies — Numbers 22:1–21
+
+Israel camps in Moab’s plains beyond the Jordan at Jericho (1). Fear of Israel’s numbers and
+victories prompts Moab’s appeal to Midian and Balak’s embassies (2–7). No attack on Moab is
+narrated in this unit.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Sihon and Og — Numbers 21:21–35
 
 Sihon had previously taken Heshbon and land down to the Arnon from Moab’s former king (26). Israel
@@ -76,6 +84,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

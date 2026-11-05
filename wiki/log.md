@@ -21513,3 +21513,40 @@ or harness change was needed. Existing raw files are unchanged. The link check p
 no wrapped or dangling links; 58 not-yet-started book links remain the expected baseline.
 No execution blocker remains. Poetic speaker attribution and precise site locations
 remain explicitly uncertain rather than asserted as settled.
+
+## [2026-11-05] ingest | Numbers 22.1-21 — Balak Sends for Balaam
+
+Completed one unattended ingest begun on November 4 and resumed after the quota reset.
+The planned boundary is unchanged: Israel’s camp, Balak’s two embassies, and Balaam’s
+departure. The donkey episode remains the next unchecked unit.
+
+Created eight pages: the passage; Balaam, Balak, Beor (father of Balaam), and Zippor;
+Pethor and Jericho; and The Blessed People and the Purchased Curse. Revised 19 existing
+content pages: Numbers, three comparison passages, God, four places, seven themes,
+and two connections. Updated nine indexes/dashboards and this log, for 29 existing
+pages revised overall. Numbers is now 37 / 54 pericopes. Frontmatter totals are
+308 passages, 225 people, 137 places, 87 themes, and 691 connections. The old dashboard
+people count was stale (217 rather than 221); recounting includes that correction.
+
+The passage distinguishes Balak’s confidence in Balaam’s power from God’s prohibition,
+and tracks what the successive reports omit. Travel permission in 22:20 and anger
+at the journey in 22:22 remain an explicit tension rather than being harmonized by an
+invented motive. Rewards carried by envoys are not treated as payment accepted by Balaam.
+The Curse synthesis now distinguishes divine judicial curses from Balak’s attempted
+purchase of a hostile pronouncement. Beor receives a relationship qualifier rather
+than an unsupported identification with Bela’s father. Zippor and Beor receive minimal
+identity pages; unnamed delegations remain collective. Pethor’s modern location and
+the unnamed River’s identification are left open. Jericho is a geographical reference,
+not a city entered in this passage.
+
+All new quotations were checked against stored WEB Numbers 22. The new connection
+uses verified stored Genesis 12:1–3 and Numbers 6:22–27 in paraphrase. No new quotation
+from an unstored book, exact source-language claim, raw-text edit, or harness change
+was required. Authored by Codex.
+
+Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 58
+expected unstarted-book targets. Changed category pages have exactly one index row;
+the passage title is unique; checked pericopes and frontmatter counts match the indexes;
+new verse quotations match raw text; git diff --check is clean. No execution blocker
+or deliberately dangling link remains. Narrative and geographical uncertainties are
+identified on the pages rather than presented as resolved.

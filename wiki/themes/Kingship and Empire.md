@@ -47,6 +47,13 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+Balak responds to fear with diplomacy, rewards, and promised honor (2–17). Royal patronage cannot
+secure divine authorization for his military aim.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 - **Genesis 10:8–12** — the first *kingdom*, the first ruler, and eight cities; no evaluation. See
   [[The Table of Nations]].
 - **Genesis 11:1–9** — the first collective political project, and what happens to it. The passage
@@ -380,6 +387,8 @@ See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 
 comparisons documented on the passage page.
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[The Sin Offering for Ruler and Individual]] — Leviticus 4:22–35.
 

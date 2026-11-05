@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
+
 - **Genesis 27:33** — *"Isaac trembled violently, and said, 'Who, then, is he who has taken venison,
   and brought it me, and I have eaten of all before you came, and have blessed him? **Yes, he will be
   blessed.**'"*
@@ -27,6 +29,14 @@ tags: [connection]
 - **Romans 11:29** — *"For the gifts and the calling of God are irrevocable."*
 
 ## Analysis
+
+### The first embassies
+
+Numbers 22:6 attributes effective blessing and cursing to Balaam in Balak’s own speech. Verse 12
+supplies the correction: God refuses a curse because the people are blessed. The king’s assessment
+must not be treated as the narrator’s claim of Balaam’s autonomous power.
+
+Source: stored WEB Numbers 22:1–21.
 
 **The Bible's clearest statement that a blessing cannot be recalled is made by the man it was stolen
 from, two verses after he worked out how.**

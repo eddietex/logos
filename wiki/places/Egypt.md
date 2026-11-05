@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Balak’s embassies — Numbers 22:1–21
+
+Balak identifies Israel as the people who came out of Egypt (5, 11). The exodus is recalled by a
+frightened neighboring king; Egypt is not this scene’s location.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### The brass serpent — Numbers 21:4–9
 
 Egypt is the place the people accuse God and Moses of bringing them out of to die (5). It is remembered in the complaint, not the location of the snake episode.
@@ -242,6 +249,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

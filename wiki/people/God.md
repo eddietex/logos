@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Balak’s embassies — Numbers 22:1–21
+
+God forbids both the first journey and the curse because Israel is blessed (12), then permits
+travel under a strict restriction to his word (20). The change in travel instruction does not
+authorize a curse. The following verse 22 reports anger at the journey; that tension must not be
+erased by calling the departure simply approved in every respect.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Sihon and Og — Numbers 21:21–35
 
 Yahweh tells Moses not to fear Og and promises delivery of his people and land, using the defeat of
@@ -3235,6 +3244,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

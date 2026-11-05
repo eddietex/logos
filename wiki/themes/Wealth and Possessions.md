@@ -38,6 +38,14 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+The first delegation carries rewards of divination (7), and Balak later promises honor and
+compliance (17). Balaam names a hypothetical house full of silver and gold to deny that wealth can
+override God’s word (18); the passage does not narrate receipt of that wealth.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Duties and portions — Numbers 18:1–32
 
 Offerings and tithes become assigned material support (8–24), and the recipients
@@ -711,6 +719,8 @@ Twelve princes give 2,400 shekels of silver and 120 of gold, by the shekel of th
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Balak’s embassies — Numbers 22:1–21
+
+Midian’s elders join Moab’s elders in carrying the rewards of divination to Balaam (4–7). This
+collaboration contrasts with Midian’s earlier hospitality to Moses; a collective action here does
+not identify these elders with Jethro or his household.
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 **A people and a territory rather than a city — the caravan nomads of north-western Arabia and the
 eastern Sinai — and one of the very few nations the Bible treats as both Israel's in-laws and Israel's
 enemies.**
@@ -57,6 +65,8 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[The Descendants of Esau]] — Genesis 36:35; struck by an Edomite king in the field of Moab, in the
   only clause of the chapter that describes a battle

@@ -71,6 +71,8 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 
 ## Cross-references
 
+- [[Balak Sends for Balaam]] — [[The Blessed People and the Purchased Curse]] compares the blessing with Numbers 22:12.
+
 - [[The Lifted Face and the Hidden Face - Numbers 6 and Deuteronomy 31]]
 - [[Let Your Face Shine - Numbers 6 in Psalms 4, 67, 80, and 119]]
 - [[His Name on Them, Their Names on Him - Numbers 6 and Exodus 28]]

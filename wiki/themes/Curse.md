@@ -64,6 +64,15 @@ the same verses that put the tree of life back in reach (see
 
 ## Development across Scripture
 
+### Balak’s embassies — Numbers 22:1–21
+
+Balak seeks a curse as preparation for battle and expulsion (6, 11). This qualifies the overview’s
+general description of curses as judicial rather than magical: it describes authoritative divine
+curses, whereas Balak attempts to purchase a hostile pronouncement. His belief in its efficacy is
+not the narrator’s guarantee; God refuses it (12).
+
+See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The fullest curse catalog so far, with no use of the word *curse*. Each gift of 26:4–13 returns
@@ -222,6 +231,8 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
