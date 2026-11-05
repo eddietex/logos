@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+His direct speech begins, and his first words are Yahweh's, quoted (6–8). He says Yahweh spoke *to us*, placing himself among those addressed at Horeb, though Numbers 26:64–65 says few of that generation remained.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 He addresses all Israel in Moab on the first day of the eleventh month of the fortieth year (1–5).
@@ -1420,6 +1426,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; the address begins with a quotation of Yahweh's word at Horeb.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 

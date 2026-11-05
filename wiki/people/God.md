@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+Moses' speech opens by quoting Yahweh's word at Horeb (6–8). Yahweh ends the stay at the mountain, names the land region by region, declares it already set before Israel, and grounds the command in what he himself swore to Abraham, Isaac, and Jacob.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Yahweh is the source of the commandments Moses speaks to Israel (3). The introduction presents
@@ -3374,6 +3380,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; the speaker Moses quotes, who ends the stay at Horeb and swore the land.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 

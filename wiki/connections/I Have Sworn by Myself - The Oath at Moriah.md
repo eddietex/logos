@@ -14,7 +14,8 @@ tags: [connection]
 - **Genesis 15:7–21** — the promise as a self-curse God walks through alone. See
   [[The Covenant Between the Pieces]].
 - **Genesis 24:7; 26:3; 50:24; Exodus 13:5, 11; 32:13; Deuteronomy 1:8** — *"the land which he swore
-  to Abraham, to Isaac, and to Jacob"*: the oath becomes the standing formula
+  to Abraham, to Isaac, and to Jacob"*: the oath becomes the standing formula (Deuteronomy 1:8 now in
+  [[Leave Horeb and Possess the Land]])
 - **Psalm 105:8–11; Luke 1:72–73; Acts 2:30** — *"the oath which he swore to Abraham our father"*
 - **Hebrews 6:13–18** — *"since he could swear by no one greater, he swore by himself"*
 - **Isaiah 45:23; Jeremiah 22:5; 49:13; Amos 6:8** — God swearing by himself elsewhere

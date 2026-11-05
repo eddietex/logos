@@ -56,6 +56,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7, *in the South*: one of the regions of the land Israel is told to go to and possess.
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
@@ -97,3 +98,5 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 - The spies go up by it; Amalek dwells there — Numbers 13:17, 22, 29, [[The Twelve Spies]]
 - The rout passes down toward Hormah — Numbers 14:45,
   [[The Defeat at Hormah]]
+- Listed as *the South* among the regions to be possessed — Deuteronomy 1:7,
+  [[Leave Horeb and Possess the Land]]

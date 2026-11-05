@@ -22150,3 +22150,33 @@ on the relevant pages. No new contradiction is asserted from the compressed batt
 Validation: scripts/link-check.sh exits 0 (57 expected not-yet-started book targets).
 Counts: 9 books started, 8 complete; 326 passages, 251 people, 205 places, 87 themes,
 712 connections. No harness or schema changes. Implemented by Codex.
+
+## [2026-11-05] ingest | Deuteronomy 1.6-8 — Leave Horeb and Possess the Land
+
+Ingested the opening of Moses' direct speech with the planned boundary unchanged: Yahweh's word at
+Horeb, quoted by Moses — the stay at the mountain is over, the land is listed region by region out
+to Lebanon and the Euphrates, and it is set before Israel on the oath to Abraham, Isaac, and Jacob.
+
+Created the passage and the connection
+[[Depart from the Mountain - Exodus 33, Numbers 10, and Deuteronomy 1.6-8]], which sets the
+departure as commanded (Exodus 33:1–3), narrated (Numbers 10:11–13), and remembered here, without
+claiming Deuteronomy quotes either earlier occasion verbatim. Two pages created.
+
+Revised God, Moses, Abraham, Isaac, Jacob; Horeb, Canaan, Arabah, The Negev, Lebanon, The Euphrates;
+Land and Sojourning, Covenant, Oaths and Vows, Remembrance, The Wilderness; the connections
+[[From the River of Egypt to the Euphrates]] and [[I Have Sworn by Myself - The Oath at Moriah]];
+reciprocal cross-references on The Words of Moses Beyond the Jordan, The March from Sinai (replacing
+its not-yet-ingested Deuteronomy 1:6–7 note), Show Me Your Glory, and Reuben, Gad, and the Land
+Beyond the Jordan; plus the book page, book status, places and connections indexes, and counts.
+
+Judgment calls: no page for the Amorites as a people or for *the lowland* (commonly identified with
+the Shephelah, a name the stored WEB does not use); *the South* filed under [[The Negev]] by the
+wiki's existing alias, with no new lexical claim. Resolved The Euphrates page's open note: the WEB
+wording of Deuteronomy 1:7 is now checked against stored text; 11:24 and Joshua 1:4 remain
+unchecked. Noted, without resolving, that Moses says Yahweh spoke *to us* at Horeb to an audience
+Numbers 26:64–65 says was almost wholly a new generation.
+
+All quotations were copied from stored WEB Deuteronomy, Numbers, Exodus, and Genesis; no Hebrew or
+Greek claim was introduced. No raw text, schema, or skill changed. scripts/link-check.sh exits 0
+(57 expected not-yet-started book targets). Counts: 9 books started, 8 complete; 327 passages,
+251 people, 205 places, 87 themes, 713 connections.

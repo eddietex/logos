@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+*The land of the Canaanites* is one region in Yahweh's list (7), and the whole is the land sworn to Abraham, Isaac, and Jacob (8). The list reaches beyond Canaan proper to Lebanon and the Euphrates.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Three refuge cities are to be appointed in Canaan, alongside three beyond the Jordan (10, 14). The cities are not named in this chapter; the land must not be polluted by blood (33–34).
@@ -271,6 +277,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7–8; *the land of the Canaanites* among the regions to be possessed.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

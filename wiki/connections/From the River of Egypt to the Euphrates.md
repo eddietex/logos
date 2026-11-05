@@ -16,7 +16,9 @@ tags: [connection]
   to the River."* See [[The Angel Sent Ahead]].
 - [[The Borders of the Land]] — Numbers 34:1–29; the northern line runs through Mount Hor,
   the entrance of Hamath, Zedad, Ziphron, and Hazar Enan; the eastern line reaches the Jordan.
-- **Deuteronomy 1:7; 11:24; Joshua 1:4** — the maximal formula repeated to Moses and to Joshua.
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; *"as far as the great river, the river
+  Euphrates"*, Yahweh's command at Horeb as Moses recalls it, with Lebanon in the list.
+- **Deuteronomy 11:24; Joshua 1:4** — the maximal formula repeated later to Israel and to Joshua.
 - **Joshua 21:43–45** — *"Yahweh gave to Israel all the land which he swore to give to their fathers…
   Not a word failed."*
 - **Judges 1:19–36; 3:1–6** — the same land, itemized by what Israel did not take.

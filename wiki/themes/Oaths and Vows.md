@@ -342,8 +342,17 @@ witnesses (28).
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### The oath that opens Deuteronomy — Deuteronomy 1:6–8
+
+Moses' address begins with the land *which Yahweh swore to your fathers, to Abraham, to Isaac, and to
+Jacob* (8). The same three-name formula in Numbers 32:11 excluded a generation; here it is the reason
+to go in. The command rests on God's sworn word, not on the people's readiness.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ## Key passages
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:8; the sworn land as the ground of the command to go in.
 - [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.

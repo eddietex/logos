@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+Moses' first recalled word grounds the journey in the oath to Abraham, Isaac, and Jacob and their offspring (8). No new covenant is made; the sworn promise of Genesis is invoked as the basis of possession.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Baal Peor — Numbers 25:1–18
 
 Yahweh grants Phinehas a covenant of peace, specified as an everlasting priesthood for him and his
@@ -367,6 +373,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.

@@ -120,7 +120,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[To Seek Out the Land - Tur in Numbers 10, 13, 15, and Ezekiel 20]] — verse 33
 - [[The Defeat at Hormah]] — Numbers 14:44; the ark that *didn't depart out of the camp*
 - Numbers 33:16–18 — the journey list from Sinai *(stored WEB, not yet ingested)*
-- Deuteronomy 1:6–7 — *You have lived long enough at this mountain* *(WEB checked, not yet ingested)*
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8; *You have lived long enough at this mountain*
+- [[Depart from the Mountain - Exodus 33, Numbers 10, and Deuteronomy 1.6-8]] — the departure commanded, narrated, and remembered
 - Deuteronomy 12:9 — *the rest and … the inheritance* *(WEB checked, not yet ingested)*
 - Joshua 3:3–6 — the ark before the people at the Jordan *(WEB checked, not yet ingested)*
 - 1 Samuel 4:3 — the ark sent for, to *save us* *(WEB checked, not yet ingested)*

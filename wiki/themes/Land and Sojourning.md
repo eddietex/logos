@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+Yahweh's remembered command at Horeb lists the land by kinds of country — hill country, Arabah, lowland, South, seashore, Canaanite land, Lebanon, Euphrates — and declares it already *set before you* (7–8). The gift is stated as done; going in and possessing is what remains. The oath to the fathers who sojourned is the ground of the possession.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 The individual inheritance granted in Numbers 27 must remain within its tribal allotment (36:7–9).
@@ -476,6 +482,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

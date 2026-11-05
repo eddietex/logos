@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+Moses remembers Yahweh's word there: *You have lived long enough at this mountain* (6). Deuteronomy names the mountain Horeb; the departure itself is narrated at Numbers 10:11–13 without this wording.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The starting point of the eleven-day route to Kadesh Barnea by Mount Seir (2). The address itself
@@ -621,6 +627,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6; the stay at the mountain declared long enough.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.

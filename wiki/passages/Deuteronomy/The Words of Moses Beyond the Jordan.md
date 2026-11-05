@@ -71,6 +71,7 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[From Commandments in Moab to Moses’ Address]]
 - [[Sihon and Og]] — Numbers 21:21–35, the campaigns presupposed in verse 4.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:13, the preceding book’s closing frame.
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8, the speech this frame introduces.
 
 ## Notes
 

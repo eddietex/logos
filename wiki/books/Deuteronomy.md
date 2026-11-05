@@ -15,10 +15,15 @@ Deuteronomy places Moses’ instruction to Israel beyond the Jordan, in Moab, be
 and the people’s crossing. Retrospective speeches, covenant commands, blessings and curses,
 a song, tribal blessings, and the account of Moses’ death form its major movements.
 
-Only the introductory frame is ingested: [[The Words of Moses Beyond the Jordan]] (1:1–5).
-It dates the address to the first day of the eleventh month of the fortieth year and places it
-after the victories over Sihon and Og. Moses speaks according to Yahweh’s command and begins
-to declare the law. The narrator’s introduction and Moses’ direct speech must be distinguished.
+The introductory frame, [[The Words of Moses Beyond the Jordan]] (1:1–5), dates the address to
+the first day of the eleventh month of the fortieth year and places it after the victories over
+Sihon and Og. Moses speaks according to Yahweh’s command and begins to declare the law. The
+narrator’s introduction and Moses’ direct speech must be distinguished.
+
+Moses' speech then opens, in [[Leave Horeb and Possess the Land]] (1:6–8), not with a law but with
+a quotation of Yahweh's word at Horeb: the stay at the mountain is over, the land is listed out to
+Lebanon and the Euphrates, and it is *set before you* on the strength of the oath to Abraham,
+Isaac, and Jacob. The retrospect that follows measures Israel against that command.
 
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
@@ -37,10 +42,10 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **1 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **2 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
-- [ ] Leave Horeb and Possess the Land — Deuteronomy 1:6–8
+- [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
 - [ ] Judges Appointed for the People — Deuteronomy 1:9–18
 - [ ] The Spies and the Refusal to Go Up — Deuteronomy 1:19–33
 - [ ] The Sentence and the Presumptuous Ascent — Deuteronomy 1:34–46

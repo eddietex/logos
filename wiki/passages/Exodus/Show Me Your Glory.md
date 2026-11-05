@@ -110,6 +110,7 @@ these instructions and promises, before the narrated passing in 34:5–7.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; erection, service, filling, and continuing guidance.
 
 - [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
+- [[Depart from the Mountain - Exodus 33, Numbers 10, and Deuteronomy 1.6-8]] — *Depart, go up from here* (1), remembered at Deuteronomy 1:6–8.
 
 ## Notes
 

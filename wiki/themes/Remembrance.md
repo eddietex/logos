@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+Moses' speech begins by recalling a word Yahweh spoke at Horeb almost forty years earlier (6). He compresses the departure into a single remembered command and gives no date, cloud, or angel; recollection selects as well as preserves.
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The opening dates the address after Sihon and Og’s defeat and places an eleven-day route beside the
@@ -465,6 +471,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.

@@ -53,8 +53,9 @@ and at the sixth bowl, *"that the way might be prepared for the kings that come 
 Egypt to the great river"* recurs at Exodus 23:31. The WEB of 23:31 (`raw/bible/Exodus.md`) reads
 *"from the Red Sea even to the sea of the Philistines, and from the wilderness to the River"*: the
 same reach to the Euphrates, in different wording and with different southern and western limits.
-The sentence above now says *in varying wording*. The wording of Deuteronomy 1:7, 11:24 and Joshua
-1:4 was not rechecked in this pass.
+The sentence above now says *in varying wording*. The wording of Deuteronomy 1:7 has since been
+checked against stored WEB: *"as far as the great river, the river Euphrates"*, matching Genesis
+15:18's *"the great river, the river Euphrates"*. Deuteronomy 11:24 and Joshua 1:4 remain unchecked.
 
 **Exodus 23:31 calls it only *"the River"***, *hannāhār* (MAM), from *"the wilderness to the
 River"*. The verse does not name it; the identification with the Euphrates follows the full form of
@@ -63,6 +64,7 @@ Genesis 15:18 and the usual use of the definite *the River*. See [[The Angel Sen
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; *as far as the great river, the river Euphrates* — Genesis 15:18's formula repeated in Yahweh's command at Horeb, as Moses recalls it
 - [[The Garden of Eden]] — Genesis 2:14; the fourth river out of Eden, named
   without a description
 - [[The Covenant Between the Pieces]] — Genesis 15:18; the northern boundary of the land sworn to
@@ -93,7 +95,8 @@ Genesis 15:18 and the usual use of the definite *the River*. See [[The Angel Sen
   [[The Covenant Between the Pieces]]
 - Crossed westward by Jacob, fleeing Laban with his household and herds — Genesis 31:21,
   [[Jacob's Flight from Laban]]
-- The boundary formula repeated to Israel — Exodus 23:31; Deuteronomy 1:7, 11:24; Joshua 1:4
+- The boundary formula repeated to Israel — Exodus 23:31; Deuteronomy 1:7 ([[Leave Horeb and Possess the Land]]),
+  11:24; Joshua 1:4
 - David strikes Hadadezer *"as he went to recover his dominion at the River"* — 2 Samuel 8:3
 - Solomon's rule reaches from it to the border of Egypt — 1 Kings 4:21, 24
 - Jeremiah's ruined loincloth — Jeremiah 13:1–7

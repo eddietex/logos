@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Leave Horeb and possess the land — Deuteronomy 1:6–8
+
+*You have lived long enough at this mountain* (6) ends the stay at Horeb by command. The wilderness journey that follows is framed from its start as the way to a land already set before Israel (7–8).
+
+See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The wilderness is the setting of instruction (1), while the eleven-day route and fortieth-year date
@@ -180,6 +186,7 @@ direction is back *by the way to the Red Sea* (25). See [[The People Refuse the 
 
 ## Key passages
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.

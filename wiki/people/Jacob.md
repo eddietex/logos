@@ -804,6 +804,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:8; named in the oath Moses quotes, *the land which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob*, now as a promise to be entered rather than (as in Numbers 32:11) a sentence of exclusion.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11; named in the oath Moses recalls.
 
 - [[The Second Census]] — Numbers 26:1–65.

@@ -57,6 +57,7 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
 
+- [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; the northern reach of the land listed in Yahweh's command at Horeb — the first time the stored Torah names it.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:9; the wood of Solomon's carriage.
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8, 11, 15; where the bride is called from, her garments' smell, and
   the garden's streams.
@@ -73,4 +74,5 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Events here
 
-None narrated yet. Lebanon is a source of timber and an image.
+None narrated yet. Lebanon is a source of timber and an image, and in Deuteronomy 1:7 a region
+listed within the land Israel is told to possess ([[Leave Horeb and Possess the Land]]).
