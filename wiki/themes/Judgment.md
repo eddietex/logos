@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Aaron — Numbers 20:22–29
+
+The Meribah sentence is expressly recalled and Aaron dies without entering the land
+(24–28). The provision of a successor and national mourning do not erase his judgment.
+See [[Meribah's Sentence and Aaron's Death]].
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The sentence falls on both leaders: they will not bring the assembly into the given
@@ -673,6 +681,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

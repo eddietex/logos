@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Yahweh recalls the rebellion at Meribah and announces Aaron’s death outside the land
+(23–26). The same speech commands transfer of the garments to Eleazar, preserving
+priestly continuity alongside the judgment.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel’s message recalls Yahweh hearing its cry and sending an angel to bring it out of
@@ -3194,6 +3202,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

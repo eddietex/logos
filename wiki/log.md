@@ -21373,3 +21373,31 @@ stored Genesis 33 and Exodus 3, 14, and 23; no unstored-book quotation or new so
 claim was introduced. Raw sources were unchanged. Category row coverage and unique titles
 checked clean; scripts/link-check.sh passed with 58 expected not-yet-started book targets.
 No unresolved ingest issue.
+
+## [2026-11-04] ingest | Numbers 20.22-29 — The Death of Aaron
+
+Ingested [[The Death of Aaron]] with the planned boundary unchanged. Recorded the
+Meribah sentence, the ascent before the congregation, the transfer of garments to Eleazar,
+Aaron’s death on the summit, and thirty days of national mourning.
+
+Created 4 pages: the passage, [[Mount Hor]], [[Aaron's Garments Pass to Eleazar]], and
+[[Meribah's Sentence and Aaron's Death]]. Revised 26 existing pages including this log:
+Numbers, 3 earlier passages, 4 people, 3 places, 6 themes, and 8 indexes/dashboards.
+Numbers is now 32 / 54; totals are 303 passages, 216 people, 114 places, 87 themes,
+and 682 connections.
+
+Mount Hor is given its own place page without claiming a modern identification.
+Kadesh continues to hold this Meribah site; Canaan is identified as the promised destination
+by context, not as a name present in this unit. Aaron’s shared responsibility is retained
+without inventing his separate act at the rock. The succession connection distinguishes
+unreported rites from revoked instructions. Eleazar’s presence at his father’s death and
+Leviticus 21’s corpse restrictions are held together explicitly: Numbers narrates no corpse
+contact or burial, so neither a violation nor an exemption is asserted.
+
+All quoted verses were copied from stored WEB Numbers 20. Comparisons were checked against
+stored WEB Exodus 29:29–30 and Leviticus 21:10–12. No unstored-book quotation, exact
+source-language claim, raw-text edit, or harness change was needed.
+
+Validation: frontmatter counts and category row coverage checked; no new title collision.
+scripts/link-check.sh passed with 58 expected not-yet-started book targets.
+No unresolved ingest issue.

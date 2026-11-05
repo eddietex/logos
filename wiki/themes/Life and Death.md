@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Aaron is gathered to his people and dies on the summit (24–28). The transfer of garments
+continues the office, not the individual’s life; Israel mourns him for thirty days (29).
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Miriam’s actual death (1) precedes the congregation’s wish to have died and its fear
@@ -725,6 +732,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

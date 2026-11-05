@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Aaron dies, but his garments pass to Eleazar by divine command (25–28). This enacts
+the succession anticipated in Exodus 29:29–30. The short account does not narrate
+every ordination rite. See [[Aaron's Garments Pass to Eleazar]] for the mourning-law question.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The red heifer — Numbers 19:1–22
 
 Eleazar oversees the heifer and sprinkles its blood toward the Tent (3–4). Gathering
@@ -562,6 +570,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

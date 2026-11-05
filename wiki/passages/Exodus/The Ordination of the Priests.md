@@ -230,6 +230,8 @@ narrates the performance.
 
 ## Cross-references
 
+- [[Aaron's Garments Pass to Eleazar]] — the garments pass to the named successor.
+
 - [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]] — the promised meeting and the
   eighth-day manifestation in [[The Eighth Day and the Appearing Glory]] .
 

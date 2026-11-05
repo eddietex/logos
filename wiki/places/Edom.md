@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Mount Hor is described as by Edom’s border (23). This locates Aaron’s death after
+the refusal of passage; it does not report Israel marching through Edom.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel requests transit, not possession, and promises to protect fields and vineyards,
@@ -74,6 +81,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

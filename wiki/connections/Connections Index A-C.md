@@ -11,6 +11,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
+| [[Aaron's Garments Pass to Eleazar]] | parallel | [[The Ordination of the Priests]] · [[The Death of Aaron]] · [[The Holiness of the Priests]] |
 | [[Aaron's Rod Before the Testimony - Numbers 17 and Hebrews 9]] | parallel | [[Aaron's Rod Buds]] · Hebrews 9:3–4 |
 | [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] | thread | Job 26:6 · Job 28:22 · Job 31:12 · Psalm 88:11 · Proverbs 15:11 · [[Do Not Boast About Tomorrow]] (Proverbs 27:20) · Revelation 9:11 · [[A Gentle Answer]] (Proverbs 15:3, 11) |
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:25–26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 |

@@ -74,6 +74,8 @@ WEB, copied from the stored Numbers source.
 
 ## Cross-references
 
+- [[Meribah's Sentence and Aaron's Death]] — the sentence becomes final for Aaron.
+
 - [[Water from the Rock]] — Exodus 17:1–7; similar need, but a command to strike.
 - [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]] — the two accounts and their later reception.
 - [[The People Refuse the Land]] — Numbers 14:1–38; exclusion from the land now reaches its leaders.

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Moses obeys the command to ascend with Aaron and Eleazar, transfers the garments, and
+returns with Eleazar (25–28). Present obedience does not reverse the earlier Meribah sentence.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Moses continues to act as Israel’s envoy after the Meribah sentence. He sends messengers
@@ -1261,6 +1268,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

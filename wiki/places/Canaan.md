@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+The land given to Israel remains the promised destination, unnamed here but identified
+by the book’s context. Aaron will not enter it (24); his death does not revoke Israel’s gift.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The land is unnamed in verse 12 but is the promised destination in the book’s context.
@@ -212,6 +219,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

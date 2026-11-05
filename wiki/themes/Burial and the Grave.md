@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Israel weeps for Aaron thirty days (29). Unlike Miriam’s notice in Numbers 20:1,
+this unit reports no burial. Being gathered to his people (24, 26) must not be expanded
+into an invented burial procedure or identification of those handling his body.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Miriam dies and is buried at Kadesh (1). No funeral speech, mourning period, age,
@@ -140,6 +148,8 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

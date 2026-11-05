@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Eleazar receives Aaron’s garments from Moses and descends with him after Aaron’s death
+(25–28). The earlier anticipation of his succession is now narrated. Neither burial by
+Eleazar nor corpse contact is reported; anointing and a seven-day rite are not described here.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The red heifer — Numbers 19:1–22
 
 Eleazar supervises the killing and burning outside the camp and sprinkles blood seven times
@@ -41,7 +49,7 @@ See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1
 last verse before the summary is about him. **The list follows the priestly line one generation past
 Aaron, through him, to [[Phinehas (son of Eleazar)]].** In Numbers he takes Aaron's garments on Mount
 Hor and succeeds him as high priest (Numbers 20:25–28, by reference), and he divides the land with
-Joshua (Joshua 14:1, by reference). These sections are written as their pericopes arrive. See
+Joshua (Joshua 14:1, by reference). The Mount Hor succession is now recorded in [[The Death of Aaron]]; the Joshua section awaits ingestion. See
 [[The Heads of the Fathers' Houses]].
 
 The wiki qualifies the page because a later Eleazar, the son of Abinadab, keeps the ark (1 Samuel
@@ -227,6 +235,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

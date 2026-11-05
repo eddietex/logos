@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Death of Aaron]] (20:22–29) brings the Meribah sentence to its consequence for Aaron.
+His garments pass to Eleazar on Mount Hor, and Israel mourns for thirty days; priestly
+service continues beyond the death of its first holder.
+
+
 [[Edom Refuses Passage]] (20:14–21) turns from water within the camp to access through Edom.
 Kinship, remembered rescue, and guarantees of payment do not secure passage; Israel
 withdraws before armed resistance.
@@ -151,7 +156,7 @@ merge, or reorder them freely.
 - [x] [[The Red Heifer]] — Numbers 19:1–22
 - [x] [[The Waters of Meribah]] — Numbers 20:1–13
 - [x] [[Edom Refuses Passage]] — Numbers 20:14–21
-- [ ] The Death of Aaron — Numbers 20:22–29
+- [x] [[The Death of Aaron]] — Numbers 20:22–29
 - [ ] Arad and Hormah — Numbers 21:1–3
 - [ ] The Brass Serpent — Numbers 21:4–9
 - [ ] The Journey to Moab — Numbers 21:10–20
@@ -242,6 +247,8 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Mount Hor]] — Aaron’s death and Eleazar’s succession (20:22–29).
 
 - [[Edom]] — refuses Israel passage (20:14–21).
 

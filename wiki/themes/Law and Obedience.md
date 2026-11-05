@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Aaron — Numbers 20:22–29
+
+The earlier rebellion against Yahweh’s word (24) is followed by Moses doing as commanded
+(27–28). Obedience in executing the succession does not cancel the earlier sentence.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Taking the rod is explicitly obedient (9); striking the rock twice (11) differs from
@@ -933,6 +940,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

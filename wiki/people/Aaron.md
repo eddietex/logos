@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Aaron’s exclusion from the land is made final in his death on Mount Hor. Moses transfers
+his garments to Eleazar before he dies; Israel mourns him thirty days (24–29).
+Judgment and public mourning stand together, without a separate account of Aaron’s Meribah act.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Aaron joins Moses before the Tent and at the assembly before the rock (6, 10).
@@ -692,6 +700,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

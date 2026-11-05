@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Israel departs from Kadesh for Mount Hor (22). The recalled waters of Meribah (24)
+belong to the Kadesh incident of 20:1–13, not the Rephidim account in Exodus 17.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Moses sends the embassy from here; his message describes Kadesh as a city at the edge of
@@ -60,6 +67,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

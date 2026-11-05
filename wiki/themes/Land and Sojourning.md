@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Aaron — Numbers 20:22–29
+
+Yahweh describes the land as given to Israel while excluding Aaron from entering (24).
+The journey continues beyond the lifetime of one of its leaders.
+
+See [[The Death of Aaron]]. Source: stored WEB Numbers 20:22–29.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The congregation protests the absence of seed, figs, vines, pomegranates, and water
@@ -374,6 +381,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Death of Aaron]] — Numbers 20:22–29.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

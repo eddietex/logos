@@ -100,6 +100,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Melchizedek in Psalm 110 and Hebrews]] | typology | Genesis 14:18–20 · Psalm 110:1–4 · Joshua 10:1 · Psalm 76:2 · 11QMelchizedek · Zechariah 6:11–13 · Hebrews 5:5–10; 7:1–28 |
 | [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]] | quotation and allusion | Exodus 33:18–23 · Exodus 34:5–10 · Numbers 14:17–23 · Jonah 4:1–3 · Genesis 24:27 · Proverbs 3:3 · [[A Way That Seems Right]] (Proverbs 14:29) |
 | [[The Mercy Seat - Kapporet and Hilasterion from Leviticus 16 to Romans 3]] | thread | Exodus 25:17–22 · Leviticus 16:2, 14–15 · Numbers 7:89 · Hebrews 9:5 · Romans 3:25 · Genesis 6:14 · Exodus 26:31–34 · Exodus 30:6, 10, 36 · Leviticus 16:12–13 · [[The Furnishings Made]] (Exodus 37:1–29) |
+| [[Meribah's Sentence and Aaron's Death]] | fulfillment | [[The Waters of Meribah]] · [[The Death of Aaron]] |
 | [[The Midwives and Rahab - Deceiving the King to Save Life]] | thematic-parallel | Exodus 1:15–21 · Joshua 2:1–7 · Hebrews 11:31 · James 2:25 · Acts 5:29 |
 | [[Mightier Than We - Isaac in Gerar and Israel in Egypt]] | parallel | Genesis 26:12–17 · Exodus 1:7–14 · Genesis 12:10–20 · Genesis 47:27 · Exodus 12:35–36 |
 | [[The Mighty One of Jacob and the Stone of Israel]] | title | Genesis 48:15 · Genesis 49:24 · Psalm 118:22 · Psalm 132:2, 5 · Isaiah 1:24; 8:14; 28:16; 49:26; 60:16 · Daniel 2:34–35 · Matthew 21:42 · 1 Peter 2:4–8 |
