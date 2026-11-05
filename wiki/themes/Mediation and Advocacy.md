@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Moses and Aaron plead that one man’s sin should not entail anger against the entire congregation
+(22). Separation follows their plea. This protects the larger assembly without eliminating the
+difficult household scope of the ensuing judgment.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 Moses receives the accused, waits with the community for Yahweh’s will, and conveys
@@ -409,6 +417,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

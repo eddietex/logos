@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The plea distinguishes one man’s sin from the whole congregation, but Moses warns others away from
+the rebels’ possessions lest they share their destruction (22–26). The censers’ holiness does not
+acquit those who offered them (38).
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 Cursing God entails bearing sin (15), and blaspheming Yahweh’s name carries death
@@ -591,6 +599,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

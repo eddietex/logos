@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Dathan and Abiram describe the land Moses brought them from as a land flowing with milk and honey
+(13), reversing the exodus promise. Egypt is the implied referent, not named here and not the scene
+of the confrontation. Their accusation is a speaker’s claim, not the narrator’s endorsement.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The tassels — Numbers 15:37–41
 
 Egypt is recalled as the land from which Yahweh brought Israel to be their God (41).
@@ -212,6 +220,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The Reubenite affiliation of Dathan, Abiram, and On is stated at the opening (1). The patriarch is
+an ancestral designation, not an actor, and the text does not charge the whole tribe with their
+rebellion.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 **Jacob's firstborn, and the first of the twelve to lose what being firstborn was for.**
 
 He is born in the verse after God opens [[Leah]]'s womb, and his mother's naming speech is an argument
@@ -178,6 +186,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Birth of Jacob's Children]] — Genesis 29:32; 30:14. **The firstborn, named in an argument about
   his mother's marriage, and the only child in the passage who acts.** He brings home the mandrakes that

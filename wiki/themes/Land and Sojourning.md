@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The promised inheritance becomes an accusation against Moses (13–14). The opponents call the land
+left behind fertile and desirable, while presenting the lack of fields and vineyards as his failure;
+Numbers 14 supplies the preceding refusal of the land.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Israel is scattered and the land remains. *The land of your enemies will eat you up* (38), while
@@ -342,6 +350,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

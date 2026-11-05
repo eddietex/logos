@@ -91,6 +91,8 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 
 ## Cross-references
 
+- [[A Holy People and a Chosen Priest - Numbers 15 and 16]] — comparison with Numbers 16:1–40.
+
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:47–53, the Levites first set apart.
 - [[The Camp Around the Tent]] — Numbers 2:17, 33, the camp in the middle, not counted.
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–2, the death 3:4 reports.

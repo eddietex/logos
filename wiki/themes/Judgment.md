@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The earth swallows the rebels and households; fire consumes 250 incense offerers (27–35).
+Intercession averts the announced destruction of the whole assembly, but household judgment remains:
+wives and little ones appear in the scene, without individually narrated offenses.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The offender is held until Yahweh declares his will; the hearers lay hands on his head,
@@ -649,6 +657,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Glory appears to the congregation gathered by Korah (19), preceding the threat of destruction and
+the intercessory plea. This manifestation is not approval of the gathering. Unlike some earlier
+accounts, verse 19 does not mention a cloud.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 **God's presence made visible — *kəbôd YHWH*, *Yahweh's glory*.** The noun ***kābôd*** comes from the root
 ***kbd***, *be heavy*, and its range runs from *weight* through *wealth* and *honour* to *glory* (WLC; the
 semantic range is the usual lexical report, not checked in this pass). **Exodus uses the root for both sides
@@ -175,6 +183,8 @@ makes having seen it the ground of the charge (22). See
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1–11.
 

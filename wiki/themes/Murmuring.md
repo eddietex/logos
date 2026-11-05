@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Moses identifies the complaint against Aaron as gathering against Yahweh (11). Dathan and Abiram
+accuse Moses of domination and failed land promises (12–14). Here the dispute concerns authority and
+priestly access as well as wilderness deprivation.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 **The wilderness generation's complaint against its leaders, and through them against God.** The Hebrew is
 ***lûn*** in the niphal and hiphil, *murmur*, *grumble* (WLC), and its noun ***təlunnôt***, *murmurings*
 (Exodus 16:7–12; Numbers 14:27; 17:20, 25 Hebrew; WLC lemma search). **It is a wilderness word.** In
@@ -111,6 +119,8 @@ murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 
 ## Key passages
 
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
+
 - [[Bitter Water at Marah]] — Exodus 15:24; **the first *lûn* in Scripture.** *"What shall we drink?"*; against
   Moses; no punishment; answered by Moses' cry, the tree, the sweetened water, and a statute
 - [[The Crossing of the Sea]] — Exodus 14:11–12; **the complaint before the word**
@@ -124,7 +134,7 @@ murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
   *mitʾōnənîm*; no content stated; answered with Yahweh's fire and Moses' prayer
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–35; **a complaint with food in hand.** No *lûn*; the word is weeping, with craving behind it; Moses complains
   too; meat given, and a plague
-- **Numbers 16–17** — Korah; murmuring answered with judgment *(not yet ingested)*
+- **Numbers 16:41–17:13** — the aftermath and the rod remain ahead.
 - **1 Corinthians 10:10** — the wilderness as warning *(not yet ingested)*
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–9; complaint from inside the family, without *lûn*.
 - [[The Twelve Spies]] — Numbers 13:27–33; the report that leads to the murmuring of 14:2, 36.

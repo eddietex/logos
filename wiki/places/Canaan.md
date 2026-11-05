@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The promised land is the unnamed, unreceived inheritance of fields and vineyards in Dathan and
+Abiram’s complaint (14). Their accusation omits the people’s refusal in Numbers 14. The current
+scene is the wilderness camp, not Canaan.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Not named. The dedication of a field assumes Israel holding the land: *the field of his possession*,
@@ -196,6 +204,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

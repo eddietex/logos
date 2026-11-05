@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The challengers appeal to the holiness of the whole congregation (3), but Moses distinguishes that
+claim from Yahweh’s choice of who may approach (5–10). The censers remain holy because presented
+before Yahweh despite their owners’ sin (37–38). Shared holiness does not erase assigned service.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The name profaned in the camp receives judicial protection (11–16). Holiness reaches
@@ -619,6 +627,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Aaron is accused alongside Moses and summoned with his censer. He joins Moses in pleading against
+indiscriminate destruction (22). The final memorial restricts incense approach to his offspring
+(40); the intercession with incense in 16:41–50 remains the next unit.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 Aaron is named among those receiving the man found gathering sticks (33). The ensuing
@@ -643,6 +651,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

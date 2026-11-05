@@ -160,6 +160,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[One Man and the Congregation - Intercession in Numbers 14 and 16]] — comparison with Numbers 16:1–40.
+
 - [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]]
 - [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]]
 - [[A Day for a Year - Numbers 14.34 and Ezekiel 4.6]]

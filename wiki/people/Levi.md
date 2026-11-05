@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Levi is named in Korah’s ancestry (1), and Moses addresses the sons of Levi as already separated for
+tabernacle service (7–10). The dispute distinguishes their privileged ministry from Aaron’s
+priesthood; it does not condemn every Levite.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 **Leah's third son, and the one child in the birth list whose naming has no stated subject.**
 
 > **34** She conceived again, and bore a son. Said, “Now this time will my husband be joined to me,
@@ -176,6 +184,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:32–34; Levite city houses and unsaleable fields; patriarch contextual only.
 

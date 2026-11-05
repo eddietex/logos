@@ -53,6 +53,8 @@ is preserved from the source.
 - [[Redemption]] — deliverance into belonging to God, without a payment described here.
 
 ## Cross-references
+
+- [[A Holy People and a Chosen Priest - Numbers 15 and 16]] — comparison with Numbers 16:1–40.
 - [[Visible Reminders and the God Who Brought Israel Out]] — Exodus 13:3–16 and Leviticus 22:31–33.
 - [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] — Job 31:1, 7 and the discipline of sight.
 - [[To Seek Out the Land - Tur in Numbers 10, 13, 15, and Ezekiel 20]] — the existing comparison with the spies.

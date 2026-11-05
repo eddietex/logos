@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Eleazar collects the bronze censers after the burning. They are beaten into an altar covering to
+warn against unauthorized incense offering (36–40). The objects remain holy although their offerers
+have died.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The bread is assigned to Aaron and his sons (9). Eleazar is included as a surviving
@@ -211,6 +219,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:16; the oils, the incense, and the oversight.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:14–51; prince of the princes of the Levites.

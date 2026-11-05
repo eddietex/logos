@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Kohath is named as Korah’s grandfather in the opening genealogy (1). He performs no action; the
+ancestral link locates the priesthood challenger within the Levite house already entrusted with
+sanctuary service.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 **The second son of [[Levi]], and the ancestor of Moses and Aaron — which Genesis does not mention.**
 
 > **11** The sons of Levi: Gershon, Kohath, and Merari. (46:11)
@@ -73,6 +81,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:21 — The Kohathites carry the sanctuary, in the middle of the column. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:11; **the middle of three names in one clause**,
   and the only one of the seventy whose grandson will bring the rest of them out

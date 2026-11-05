@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Rebellion of Korah]] (16:1–40) joins a challenge to priestly access with an accusation
+of failed leadership. Intercession preserves the larger congregation, earth and fire judge the
+rebels, and their censers become an altar memorial guarding Aaron’s priesthood.
+
 [[The Tassels]] (15:37–41) adds a visible reminder: looking at garment fringes is to lead
 to remembering and doing all the commandments, with holiness grounded in the God of the exodus.
 
@@ -114,7 +118,7 @@ merge, or reorder them freely.
 - [x] [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31
 - [x] [[The Sabbath Breaker]] — Numbers 15:32–36
 - [x] [[The Tassels]] — Numbers 15:37–41
-- [ ] The Rebellion of Korah — Numbers 16:1–40
+- [x] [[The Rebellion of Korah]] — Numbers 16:1–40
 - [ ] Aaron Stands Between the Dead and the Living — Numbers 16:41–50
 - [ ] Aaron's Rod Buds — Numbers 17:1–13
 - [ ] The Duties and Portions of Priests and Levites — Numbers 18:1–32
@@ -172,6 +176,18 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — vision and dream, and Moses set above both
 
 ## Key people
+
+- [[Peleth]] — named in the rebellion account (16:1–40).
+
+- [[On (son of Peleth)]] — named in the rebellion account (16:1–40).
+
+- [[Eliab (father of Dathan and Abiram)]] — named in the rebellion account (16:1–40).
+
+- [[Abiram]] — named in the rebellion account (16:1–40).
+
+- [[Dathan]] — named in the rebellion account (16:1–40).
+
+- [[Izhar]] — named in the rebellion account (16:1–40).
 
 - [[Moses]] — leader, counter, and recipient of the speeches
 - [[Aaron]] — counts with Moses

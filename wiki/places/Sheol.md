@@ -12,6 +12,16 @@ nothing in Scripture locates it.*
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The rebels descend alive into Sheol when the ground opens (30–33). This qualifies this page’s
+categorical statement that Sheol is not a place of punishment: in Genesis 37:35 and Job it can name
+the expected realm of the dead without implying guilt, but here descent into it is explicitly a
+punitive sign. The text does not describe ongoing torment there, and the fire consumes the incense
+offerers above ground (35).
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 *Šəʾôl*, the common destination of the dead in the Hebrew Bible. It appears about sixty-five times,
 and what is most striking about it to a reader arriving from the New Testament is how little it
 does. Sheol is dark, dusty, silent, and downward. It is not a place of punishment — the wicked go
@@ -89,6 +99,8 @@ realm: the poem does not give a tour of the dead or narrate their release.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 

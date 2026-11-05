@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Moses announces that Yahweh will disclose his chosen servant. Yahweh appears in glory, warns of
+consuming the congregation, and directs separation after Moses and Aaron intercede. Earth and fire
+execute judgment; the censers become a lasting sign (5–7, 19–40).
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The tassels — Numbers 15:37–41
 
 Yahweh gives a visible aid to obedience and identifies himself as the deliverer from Egypt.
@@ -3156,6 +3164,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

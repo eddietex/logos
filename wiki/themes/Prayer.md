@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Moses asks Yahweh not to respect the rebels’ offering (15), yet with Aaron pleads for the
+congregation (22). Opposition to the rebel claim and intercession for those around them belong to
+the same scene.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 A human being addressing God, unbidden, and asking for something.
 
 The distinction that matters for Genesis is between **being spoken to** and **speaking first**. God
@@ -234,6 +242,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Let Your Words Be Few]] — Ecclesiastes 5:2; Speech before God to be unhurried and few.
 

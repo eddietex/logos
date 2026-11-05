@@ -21179,3 +21179,26 @@ Next: The Tassels, Numbers 15:37–41. No operational blocker remains.
 - Validation: scripts/link-check.sh passed with no wrapped or dangling links; 58 expected
   not-yet-started book targets. Index row counts and git diff whitespace check passed.
   No unresolved issue for this ingestion.
+
+## [2026-11-04] ingest | Numbers 16.1-40 — The Rebellion of Korah
+
+Ingested the planned unit without changing its boundary; Numbers is now 25 / 54 pericopes.
+Created the passage, six person pages (Izhar, Dathan, Abiram, Eliab father of Dathan and Abiram,
+On son of Peleth, and Peleth), and three connections: shared holiness and chosen priesthood,
+incense and consuming fire, and intercession for the congregation. Updated eight existing
+people, three places, twelve themes, four earlier passages, the book and category indexes,
+and dashboard counts. Totals: 296 passages, 215 people, 113 places, 87 themes, 672 connections.
+
+Kept the two strands of the coalition distinct. On’s unreported fate remains unreported;
+ancestral names receive short pages without invented biographies. Eliab is qualified to
+avoid confusion with the Zebulunite prince. Flagged the tension between the earlier Sheol
+page’s categorical denial of punishment and the punitive descent here, and the continuing
+household judgment despite intercession against destruction of the entire congregation.
+Korah’s fate and his sons’ survival are checked against stored WEB Numbers 26:10–11,
+without ingesting that later unit. New quotations are copied from stored WEB; connections
+use stored Numbers and Leviticus, with no new source-language claims or external quotations.
+Raw sources and harness instructions are unchanged. No unresolved link issue.
+
+Validation: `scripts/link-check.sh` exits 0, with no wrapped links or unexpected dangling
+targets (58 expected not-yet-started book pages). `git diff --check` is clean.
+Authored by Codex in one unattended invocation.

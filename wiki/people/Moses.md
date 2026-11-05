@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Moses falls on his face, proposes the incense test, and identifies the dispute as a challenge to
+Yahweh. He denies exploiting or harming the people, intercedes with Aaron, and announces the
+extraordinary death that will attest his commission (4–30). His anger at the rebels and his plea for
+the congregation coexist.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### The tassels — Numbers 15:37–41
 
 Moses receives the command about garment fringes and is told to speak to Israel (37–38).
@@ -1204,6 +1213,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

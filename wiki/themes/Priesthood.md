@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Levite service is already a gift of nearness, yet Korah seeks priesthood also (9–10). The altar
+covering explicitly warns anyone outside Aaron’s offspring against burning incense (40). The
+distinction is between offices within Israel, not simply between Israel and foreigners.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### Defect in priest and offering — Leviticus 22:17–33
 
 Chapter 21 excluded a priest with a defect from offering "the bread of his God" (21:17); chapter
@@ -522,6 +530,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+Moses directs the dispute to Yahweh’s choice of who may approach (5–7) and stakes his own commission
+on a distinctive divine act (28–30). Existing Levite election does not automatically confer Aaron’s
+priestly office.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 ### Penalties and separation — Leviticus 20
 
 Yahweh has separated Israel from the peoples to belong to him (24, 26). That election includes
@@ -144,6 +152,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

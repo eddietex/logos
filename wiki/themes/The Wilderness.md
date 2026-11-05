@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The confrontation occurs at the camp and the Tent of Meeting; death in the wilderness is part of the
+opponents’ accusation (13). No named campsite or precise date is supplied in this unit.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 *Midbār* is the uncultivated, thinly watered land outside settled life. It is a place of danger,
 hunger, and exposure. It is also where the Pentateuch puts God's most direct meetings with people.
 This page opened with Numbers, whose Hebrew name is the word itself.
@@ -104,6 +111,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The rebellion of Korah — Numbers 16:1–40
+
+The bronze censers become an altar covering and a memorial warning against repeating the
+unauthorized approach (36–40). Unlike the garment fringes of Numbers 15:37–41, this reminder is made
+from the instruments of a judged act.
+
+See [[The Rebellion of Korah]]. Source: stored WEB Numbers 16:1–40; comparisons as cited.
+
 Remembering as divine faithfulness, human obligation, and the preservation or loss of a person's
 place in a community's memory. The foundational Genesis pattern is what God does when the story
 turns; Ecclesiastes 1:11 adds the frailty of human recollection. These are distinct questions.
@@ -401,6 +409,8 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Rebellion of Korah]] — Numbers 16:1–40.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
