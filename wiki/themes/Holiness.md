@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+Israel fears that everyone who approaches the tabernacle dies (12–13). This is the people’s
+alarmed claim, not a universal divine prohibition: Moses has just entered and returned alive
+(8–9). The passage sharpens the question of authorized access.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The challengers appeal to the holiness of the whole congregation (3), but Moses distinguishes that
@@ -627,6 +635,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

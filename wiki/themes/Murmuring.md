@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+The sign is intended to end complaints against Moses and Aaron, which Yahweh treats as directed
+against himself (5, 10). The closing cry is alarm about death (12–13), not a narrated declaration
+that all future resistance has ended.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Moses identifies the complaint against Aaron as gathering against Yahweh (11). Dathan and Abiram
@@ -126,6 +134,8 @@ applies, since Moses does not redirect anyone. Verse 36 adds a new form, a leade
 murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

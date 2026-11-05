@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The budding rod — Numbers 17:1–13
+
+Aaron’s name marks the rod of Levi, which produces buds, blossoms, and ripe almonds overnight
+(3, 8). His selection is publicly displayed and permanently commemorated (9–10). The chapter
+records no speech by Aaron and does not identify this rod explicitly as the one used in Egypt.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Aaron runs into the assembly with his censer at Moses’ command, makes atonement, and stands
@@ -660,6 +668,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

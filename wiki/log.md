@@ -21226,3 +21226,32 @@ against stored WEB Leviticus 16:12–19. No new source-language claims or outsid
 were introduced; raw files were unchanged. No harness or workflow changes were needed.
 `scripts/link-check.sh` passed both checks, with 58 expected unopened-book targets and no
 unexpected dangling or wrapped links. No unresolved issue. Authored by Codex.
+
+## [2026-11-04] ingest | Numbers 17.1-13 — Aaron's Rod Buds
+
+Ingested exactly the next planned pericope in unattended mode; boundary unchanged. Created three
+pages: the passage, [[Two Memorials Against Rebellion - The Censers and the Budding Rod]], and
+[[Aaron's Rod Before the Testimony - Numbers 17 and Hebrews 9]]. Revised nineteen existing
+content pages: Numbers, five people, ten themes, one connection, and two earlier passages.
+Updated nine index/dashboard pages plus this log (29 existing pages revised overall).
+Numbers is now 27 / 54 pericopes. Type-based totals: 298 passages, 215 people, 113 places,
+87 themes, and 675 connections.
+
+Kept the twelve rods inclusive of Aaron’s as the stored WEB states; did not import the census
+roster into an unnamed group or invent a thirteenth rod. Levi is the ancestral house here;
+no new person page is needed. The Tent has no named geographic campsite, so dwelling and
+wilderness themes cover the setting. Distinguished the sign’s life-preserving purpose from
+Israel’s fearful generalization about death, and Aaron’s selection from universal Levite
+priesthood. The censers and rod are compared as warning memorials. The earlier staff connection
+now links the ingested sequel without asserting that the rods are the same physical object.
+
+Copied the full pericope verbatim from stored WEB Numbers 17 and checked the Numbers 16 and
+Exodus 7 comparisons there. Verified Hebrews 9:3–4 against bible-api.com’s WEB endpoint on
+2026-11-04, without fetching a raw book; the connection uses paraphrase and records the source.
+Preserved the descriptive difference between Numbers’ placement before the testimony and
+Hebrews’ inventory inside the ark. No new Hebrew or Greek wording claims, raw-source edits,
+or harness/workflow changes. No unresolved operational issue.
+
+Validation: type-based counts and unique passage title checked; copied verses match the raw
+source. `scripts/link-check.sh` passes with 58 expected unopened-book targets, no wrapped links,
+and no unexpected dangling targets. `git diff --check` is clean. Authored by Codex.

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The budding rod — Numbers 17:1–13
+
+Moses gathers and labels the rods, places them before Yahweh, displays the result, and returns
+Aaron’s rod as commanded (1–11). Israel addresses its closing fear to him (12–13); no reply is
+recorded within this unit.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Accused of killing Yahweh’s people, Moses falls on his face with Aaron and orders immediate
@@ -1221,6 +1229,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

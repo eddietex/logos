@@ -18,6 +18,8 @@ tags: [connection]
   swallowed them up, with their households, all of Korah's men, and all their goods"* (16:32; WEB,
   quoted from bible-api.com; Hebrew checked, not yet ingested)
 
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; a narrative sequel to the rod contest.
+
 ## Analysis
 
 **The verb is *bālaʿ*, *to swallow*, and in Genesis and Exodus it occurs at only four verses**:
@@ -42,7 +44,7 @@ the last act against him use the same verb.** And the *"stretched out … hand"*
 [[The Heads of the Fathers' Houses]], rises against Moses and Aaron, the earth *swallows* his company
 (Numbers 16:30, 32, 34; 26:10; WLC). **The verb that ended Egypt's opposition ends the first
 rebellion against Aaron's priesthood** — and that rebellion is decided, in Numbers 17, by another
-sign of Aaron's rod (by reference; not yet ingested).
+sign of Aaron's rod: see [[Aaron's Rod Buds]] (Numbers 17:1–13).
 
 ## Significance
 
@@ -56,3 +58,12 @@ from the dream that saved it to the water that closed over it**, with Aaron's ro
 Song's image for the prose event** — *katepothēsan*, *they were swallowed up* (SBLGNT), from *katapinō*.
 Which Greek verb the Septuagint uses at Exodus 15:12 is not checked in this pass. See
 [[The Crossing of the Sea]].
+
+### The rod bears fruit — Numbers 17
+
+In [[Aaron's Rod Buds]], the rod confirms Aaron’s selection within Israel, after the earlier
+rod sign before Pharaoh (Exodus 7:8–13). Here the other rods are returned (Numbers 17:9),
+not swallowed. This is a narrative comparison, not an extension of the swallowing-word study
+above. Numbers does not explicitly identify the two rods as the same physical object.
+
+Source for this addition: stored WEB Exodus 7:8–13 and Numbers 17:1–13.

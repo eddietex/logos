@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+The chosen rod belongs to Aaron for Levi (3, 8). In the context of Numbers 16:9–10, 40, this
+affirms Aaron’s priesthood without erasing the distinction between priests and other Levites.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Levite service is already a gift of nearness, yet Korah seeks priesthood also (9–10). The altar
@@ -538,6 +545,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+The rods are laid before the testimony where Yahweh meets Moses (4, 7), and Aaron’s is retained
+there (10). The place of divine meeting becomes the setting of public confirmation and of
+Israel’s fear of approach (12–13). No geographic campsite is named.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The tent of 26:11 is answered by *your sanctuaries* brought to desolation (31) and exile with no
@@ -463,6 +471,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

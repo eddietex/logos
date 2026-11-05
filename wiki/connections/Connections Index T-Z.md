@@ -74,6 +74,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
 | [[The Two Flights of Hagar]] | parallel | Genesis 16:1–16 · Genesis 21:8–21 · Genesis 25:12–18 |
 | [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
+| [[Two Memorials Against Rebellion - The Censers and the Budding Rod]] | parallel | [[Aaron's Rod Buds]] · Numbers 16:1–50 |
 | [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] | literary-parallel | [[Seeking Him by Night]] (Song of Solomon 3:1–5) · [[I Opened, but He Had Gone]] (Song of Solomon 5:2–8) · [[Delight and the Unawakened Love]] (Song of Solomon 2:5) · Proverbs 1:28 · Song of Solomon 6:3 · [[Altogether Lovely]] |
 | [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] | literary parallel | Genesis 4:3–5 · Genesis 32:13–21 · Genesis 33:8–11 · Genesis 43:11–15, 25–26 · Genesis 45:23 |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+Aaron’s rod is put back before the testimony as a token against rebellion (10). Like the altar
+covering from the censers in Numbers 16:38–40, an object preserves a warning beyond the event;
+this object bears fruit rather than the marks of the rebels’ destruction.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The bronze censers become an altar covering and a memorial warning against repeating the
@@ -409,6 +417,8 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

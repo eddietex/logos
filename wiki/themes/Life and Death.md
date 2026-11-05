@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+The retained rod is expressly intended to prevent deaths (10), yet Israel concludes in terror
+that everyone approaching the tabernacle dies (12–13). The life-preserving purpose and the
+people’s fear are distinct voices; no new death is narrated in this chapter.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The law distinguishes killing a human, which carries death, from killing an animal,
@@ -693,6 +701,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

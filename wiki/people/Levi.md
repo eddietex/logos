@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The budding rod — Numbers 17:1–13
+
+Levi here names the ancestral house, not the living patriarch: Aaron’s name goes on its rod
+(3, 8). The sign vindicates Aaron as its representative; it does not confer priestly access on
+every Levite, a distinction already explicit in Numbers 16:9–10, 40.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Levi is named in Korah’s ancestry (1), and Moses addresses the sons of Levi as already separated for
@@ -184,6 +192,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Aaron's Rod Buds]] (17:1–13) confirms Aaron’s selection through a rod bearing buds, blossoms,
+and almonds. Retained as a warning to prevent death, it leaves Israel asking fearfully how
+anyone can approach the sanctuary and live.
+
 [[Aaron Stands Between the Dead and the Living]] (16:41–50) turns the defended
 priesthood toward rescue: Aaron’s incense stops the plague among his accusers, though 14,700
 have died. The repeated complaint leads to atonement as well as judgment.
@@ -125,7 +129,7 @@ merge, or reorder them freely.
 - [x] [[The Tassels]] — Numbers 15:37–41
 - [x] [[The Rebellion of Korah]] — Numbers 16:1–40
 - [x] [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50
-- [ ] Aaron's Rod Buds — Numbers 17:1–13
+- [x] [[Aaron's Rod Buds]] — Numbers 17:1–13
 - [ ] The Duties and Portions of Priests and Levites — Numbers 18:1–32
 - [ ] The Red Heifer — Numbers 19:1–22
 - [ ] The Waters of Meribah — Numbers 20:1–13

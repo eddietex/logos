@@ -83,6 +83,7 @@ Copied from stored WEB, `raw/bible/Numbers.md`.
 - [[The Wilderness]]
 
 ## Cross-references
+- [[Two Memorials Against Rebellion - The Censers and the Budding Rod]]
 - [[Aaron Stands Between the Dead and the Living]] — the next day’s complaint and priestly rescue.
 - [[A Holy People and a Chosen Priest - Numbers 15 and 16]]
 - [[Incense and Consuming Fire - Leviticus 10 and Numbers 16]]

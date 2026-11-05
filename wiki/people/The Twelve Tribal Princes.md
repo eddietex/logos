@@ -7,6 +7,15 @@ tags: [person, group]
 
 ## Overview
 
+### The budding rod — Numbers 17:1–13
+
+The princes supply named rods, inspect the result, and recover their rods (2, 6, 9). The WEB
+counts twelve with Aaron’s among them, unlike the earlier census roster that excludes Levi.
+Chapter 17 gives no personal roster or explanation of how the other houses are grouped; the
+earlier twelve named men should not be mechanically identified with this set.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 The twelve men who stand with Moses and Aaron at the census, one from each tribe. This is a group
 page, because Numbers gives them a shared role and almost no individual action: they recur as a set
 in the camp (chapter 2), the dedication gifts (chapter 7), and the order of march (chapter 10).
@@ -64,6 +73,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14–27 — Lead their armies out from Sinai. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:5–16, 44; named, and counted with Moses and Aaron
 - [[The Camp Around the Tent]] — Numbers 2:3–29; named as princes of the tribes in the camp

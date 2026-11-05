@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+The overnight flowering and fruiting of Aaron’s rod confirms the announced choice (5, 8).
+The rod is then retained as a warning token (10), moving from a witnessed event to a lasting sign.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 **A sign (*ʾôt*) in Scripture is a visible thing that points beyond itself; a wonder (*môpēt*, or
 *niplāʾôt*, *wonders*) is a thing that exceeds what is possible.** The two are paired so often —
 *"signs and wonders"* — that they become a single formula for the exodus: *"Yahweh showed great and
@@ -81,6 +88,8 @@ in the wilderness* (22). Yahweh treats the signs as evidence that should have se
 See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Unprecedented marvels promised as covenant renewal begins.
 

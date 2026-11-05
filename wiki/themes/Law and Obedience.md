@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+Moses carries out the command to retain the rod, with explicit obedience affirmed at verse 11.
+His execution of the instructions contrasts with the rebellion the sign is meant to restrain.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Refusal is described as a progression: not listening, not doing, rejecting, abhorring, and breaking
@@ -902,6 +909,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

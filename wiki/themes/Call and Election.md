@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The budding rod — Numbers 17:1–13
+
+Yahweh makes budding the announced sign of his choice (5); the next morning Aaron’s rod alone
+is described as bearing buds, blossoms, and almonds (8). Selection is made visible to the assembly.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Moses directs the dispute to Yahweh’s choice of who may approach (5–7) and stakes his own commission
@@ -152,6 +159,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

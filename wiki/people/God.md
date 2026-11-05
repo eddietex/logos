@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The budding rod — Numbers 17:1–13
+
+Yahweh specifies the test, names its result as his choice, and orders the rod retained to end
+murmuring and avert death (5, 10). The sign confirms authority with the stated purpose of preservation.
+
+See [[Aaron's Rod Buds]]. Source: stored WEB Numbers 17.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Yahweh appears in glory and announces judgment on the renewed assembly against Moses and Aaron
@@ -3172,6 +3179,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 
