@@ -96,6 +96,15 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+Israel moves from requesting transit to occupying Amorite cities (22–25, 31). The narrator
+distinguishes Sihon’s earlier seizure of Moabite territory from Israel’s present conquest (26);
+Ammon’s strong border remains a limit (24).
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### Arad and Hormah — Numbers 21:1–3
 
 The encounter on the southern approach ends in destruction of cities, without a
@@ -397,6 +406,9 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

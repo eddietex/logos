@@ -67,6 +67,9 @@ WEB, copied verbatim from the stored Numbers source.
 
 ## Cross-references
 
+- [[Edom and Sihon - Refused Passage and Different Outcomes]] — comparison with [[Sihon and Og]].
+
+
 - [[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]] — Genesis 33:1–17 and this encounter contrast the outcomes of
   approaches between the related families and nations.
 - [[An Angel Before You - Genesis 24, Exodus 23, and Exodus 33]] — the exodus recollection joins the existing angel-guidance thread.

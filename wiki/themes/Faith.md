@@ -62,6 +62,15 @@ See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+Yahweh’s command not to fear Og grounds confidence in promised delivery and the already completed
+victory over Sihon (34). The text records the assurance and outcome without describing Moses’ inner
+emotional response.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### Arad and Hormah — Numbers 21:1–3
 
 Israel makes victory dependent on Yahweh’s delivery of the enemy (2–3), contrasting
@@ -241,6 +250,9 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

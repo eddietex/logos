@@ -25,6 +25,15 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+The request for transit becomes battle when Sihon attacks (21–24). Og also comes out to fight (33);
+Yahweh promises victory and the account ends with no survivors and possession of the land (34–35).
+These are lethal conquests, not merely diplomatic successes.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### Arad and Hormah — Numbers 21:1–3
 
 An enemy attack takes captives; Israel’s vow and Yahweh’s answer lead to destruction
@@ -255,6 +264,9 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

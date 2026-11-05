@@ -77,6 +77,9 @@ Complete unit, copied verbatim from stored WEB `raw/bible/Numbers.md`.
 - [[Work]] — The well song credits princes and nobles with digging, using the scepter and their poles in the WEB wording (18). Divine provision in verse 16 does not erase human labor, though the song is not a technical description of excavation.
 
 ## Cross-references
+
+- [[From the Well Song to the Heshbon Poem]] — comparison with [[Sihon and Og]].
+
 - [[From Meribah to Beer - Water and the Gathered People]]
 - [[From the Sea Song to the Well Song]]
 - [[The Wells of Abraham and the Wells of Isaac]]

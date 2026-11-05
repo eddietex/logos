@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Sihon and Og — Numbers 21:21–35
+
+Israel’s acquired territory reaches to the children of Ammon, whose border the WEB describes as
+strong (24). Ammon is not said to be conquered here. The older opening description of Ammon across
+the Arnon should not obscure the Amorite territory between Moab’s Arnon boundary and the Jabbok in
+Numbers 21:13, 24–26.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 **The country north of Moab across the Arnon, around the headwaters of the Jabbok — and, with Moab,
 one of the two nations Genesis explains by a night in a cave.**
 
@@ -60,6 +70,9 @@ displaced five chapters before either of them is born.** See
 
 ## Appears in
 
+- [[Sihon and Og]] — Numbers 21:21–35.
+
+
 - [[Lot and His Daughters]] — Genesis 19:38; the nation's origin, given as a birth in a cave
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, by anticipation: the **Zuzim in Ham**, the
   people Deuteronomy 2:20 calls the Zamzummim and says held this land before Ammon did
@@ -72,6 +85,9 @@ displaced five chapters before either of them is born.** See
 - [[Zoar]] — the town Lot abandons in the verse before Ammon's conception
 
 ## Events here
+
+- [[Sihon and Og]] — Israel’s acquired territory reaches to the children of Ammon, whose border the WEB describes as strong (24). Ammon is not said to be conquered here. The older opening description of Ammon across the Arnon should not obscure the Amorite territory between Moab’s Arnon boundary and the Jabbok in Numbers 21:13, 24–26.
+
 
 - Ben Ammi is born in a cave in the hills above Zoar — Genesis 19:30–38, [[Lot and His Daughters]]
 - Its territory is granted to *"the children of Lot"* and closed to Israel — Deuteronomy 2:19–21

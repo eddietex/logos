@@ -32,6 +32,15 @@ is what God has just done**: *"The horse and his rider he has thrown into the se
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+The Heshbon poem is introduced as the speech of those who speak in proverbs (27), not as Israel
+singing to Yahweh. Its celebration of Sihon and lament over Moab stand within an account of Sihon’s
+own defeat; this preserved poetry differs from the nearby well song.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### Field and community — Leviticus 19:19–37
 
 All fourth-year fruit is holy for giving praise to Yahweh (24). Agricultural produce is directed
@@ -133,6 +142,9 @@ Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra ke
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

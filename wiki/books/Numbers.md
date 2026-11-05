@@ -11,6 +11,8 @@ status: in-progress
 
 ## Overview
 
+[[Sihon and Og]] (21:21–35) moves from requested transit to possession of Amorite territory. Sihon’s earlier conquest of Moab supplies the historical background; Yahweh’s assurance before Og frames the second victory. The quoted Heshbon poem preserves a different voice within the conquest narrative.
+
 [[The Journey to Moab]] (21:10–20) follows the camps toward Moab, cites the Book of the
 Wars of Yahweh, and records the well song at Beer. Promised water and the leaders’
 digging stand together; the unit ends before the confrontation with Sihon.
@@ -171,7 +173,7 @@ merge, or reorder them freely.
 - [x] [[Arad and Hormah]] — Numbers 21:1–3
 - [x] [[The Brass Serpent]] — Numbers 21:4–9
 - [x] [[The Journey to Moab]] — Numbers 21:10–20
-- [ ] Sihon and Og — Numbers 21:21–35
+- [x] [[Sihon and Og]] — Numbers 21:21–35
 - [ ] Balak Sends for Balaam — Numbers 22:1–21
 - [ ] Balaam's Donkey — Numbers 22:22–35
 - [ ] Balaam's First Two Oracles — Numbers 22:36–23:26
@@ -192,6 +194,8 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Idolatry]] — [[Sihon and Og]] (Numbers 21:21–35).
 
 - [[Praise and Song]] — the promised water and well song (21:16–18).
 
@@ -244,6 +248,16 @@ merge, or reorder them freely.
 
 ## Key people
 
+- [[Chemosh]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[King of Moab (before Sihon's conquest)]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Og]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Sihon]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[God]] — [[Sihon and Og]] (Numbers 21:21–35).
+
 - [[King of Arad (of Moses' time)]] — attacks Israel and takes captives (21:1).
 
 - [[King of Edom (of Moses' time)]] — the unnamed ruler addressed by the embassy (20:14).
@@ -272,6 +286,26 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Edrei]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Bashan]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Jazer]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Medeba]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Nophah]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Dibon]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Jahaz]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Ammon]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[The Jabbok]] — [[Sihon and Og]] (Numbers 21:21–35).
+
+- [[Heshbon]] — [[Sihon and Og]] (Numbers 21:21–35).
 
 - [[Ar]] — the journey to Moab (21:10–20).
 - [[Bamoth]] — the journey to Moab (21:10–20).

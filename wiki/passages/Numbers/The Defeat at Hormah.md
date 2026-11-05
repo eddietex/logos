@@ -91,6 +91,9 @@ does not say what they did.
 
 ## Cross-references
 
+- [[From Defeat at Hormah to Victory over Og]] — comparison with [[Sihon and Og]].
+
+
 - [[Don't Go Up - Numbers 14.39-45 and Deuteronomy 1.41-46]]
 - [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]]
 - [[Is Yahweh Among Us - Exodus 17, Numbers 14, 1 Samuel 4, and Micah 3]]

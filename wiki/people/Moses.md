@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sihon and Og — Numbers 21:21–35
+
+Moses sends scouts to Jazer (32) and receives Yahweh’s assurance before the battle with Og (34). His
+leadership in these victories does not revoke the Meribah sentence concerning entry into the land.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### The journey to Moab — Numbers 21:10–20
 
 Yahweh addresses Moses with the command to gather the people at Beer (16). Moses is not named as the
@@ -1019,6 +1027,9 @@ See [[The Defeat at Hormah]].
 
 ## Timeline / key events
 
+- [[Sihon and Og]] — Moses sends scouts to Jazer (32) and receives Yahweh’s assurance before the battle with Og (34). His leadership in these victories does not revoke the Meribah sentence concerning entry into the land.
+
+
 - [[The Tabernacle Built]] — Exodus 36:8–38; Contextual transmitter of the design; no new action narrated here.
 
 - Exodus 35:1–29 — Assembles Israel and relays the commands for rest, materials, and skilled work. See [[The Freewill Offering]].
@@ -1282,6 +1293,9 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

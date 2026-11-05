@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Sihon and Og — Numbers 21:21–35
+
+Sihon had previously taken Heshbon and land down to the Arnon from Moab’s former king (26). Israel
+now takes that land from Sihon, not from the Moabite king. The poem laments Moab’s defeat and
+captivity (28–29), keeping historical possession distinct from present control.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### The journey to Moab — Numbers 21:10–20
 
 Israel camps east of Moab and near the Arnon, identified here as the boundary with the Amorites
@@ -68,6 +77,9 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
 
+- [[Sihon and Og]] — Numbers 21:21–35.
+
+
 - [[The Journey to Moab]] — Numbers 21:10–20.
 
 
@@ -86,6 +98,9 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[The Plain of the Jordan]] — the burned *kikkar* the cave overlooked
 
 ## Events here
+
+- [[Sihon and Og]] — Sihon had previously taken Heshbon and land down to the Arnon from Moab’s former king (26). Israel now takes that land from Sihon, not from the Moabite king. The poem laments Moab’s defeat and captivity (28–29), keeping historical possession distinct from present control.
+
 
 - Moab is born in a cave in the hills above Zoar — Genesis 19:30–37, [[Lot and His Daughters]]
 - Israel camps on the plains of Moab; Balak hires Balaam; Baal Peor — Numbers 22–25

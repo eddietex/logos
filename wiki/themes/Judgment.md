@@ -122,6 +122,15 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+Og’s defeat includes his sons and all his people, leaving no survivors (35). Divine delivery is
+explicit (34), but this unit supplies no catalogue of their sins; one should not invent one to
+soften or explain the severity.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### Arad and Hormah — Numbers 21:1–3
 
 Yahweh delivers the Canaanites to Israel, which destroys them and their cities (3).
@@ -695,6 +704,9 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

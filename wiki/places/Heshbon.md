@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Sihon and Og — Numbers 21:21–35
+
+Sihon’s city and an earlier possession of Moab (25–26). Israel occupies it after defeating him; the
+poem celebrates its strength and then speaks of its ruin (27–30). The historical account supplies a
+different setting from the pools imagery in Song of Solomon 7:4.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 A city whose pools beside the gate of [[Bathrabbim]] supply the comparison for the
 woman's eyes in [[Return, Return, Shulammite]] (7:4). The poem gives no account of a visit.
 Numbers 21:26 identifies Heshbon as Sihon's city, taken from the former king of Moab;
@@ -17,6 +26,9 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 
 ## Appears in
 
+- [[Sihon and Og]] — Numbers 21:21–35.
+
+
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; geographical comparison.
 
 ## Related places
@@ -24,5 +36,8 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 - [[Bathrabbim]] — the gate beside the pools; [[Moab (place)]] — the earlier kingdom in Numbers 21:26.
 
 ## Events here
+
+- [[Sihon and Og]] — Sihon’s city and an earlier possession of Moab (25–26). Israel occupies it after defeating him; the poem celebrates its strength and then speaks of its ruin (27–30). The historical account supplies a different setting from the pools imagery in Song of Solomon 7:4.
+
 
 No event at this site is narrated in the ingested Song passage.

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Sihon and Og — Numbers 21:21–35
+
+Northern endpoint in the description of Israel’s acquisition from Sihon, from the Arnon to the
+Jabbok and up to Ammon (24). The verse gives a territorial boundary, not a new episode at Jacob’s
+ford.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 The river that splits Gilead in two, running west from the Transjordanian highlands into the Jordan
 about midway between the Sea of Galilee and the Dead Sea — the modern Zarqa. It is a border in every
 later text that mentions it: Numbers 21:24 and Deuteronomy 2:37 make it the line between Ammon and the
@@ -17,6 +26,9 @@ wrestled* (32:24), sit one letter apart in Hebrew — a wordplay Genesis lets st
 on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earlier.
 
 ## Appears in
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[Wrestling at the Jabbok]] — Genesis 32:22–24; the ford everyone else crosses and Jacob does not,
   until after he is left alone on its near side to wrestle until daybreak
@@ -29,6 +41,9 @@ on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earli
 - [[Ammon]] — the country whose western border it later marks
 
 ## Events here
+
+- [[Sihon and Og]] — Northern endpoint in the description of Israel’s acquisition from Sihon, from the Arnon to the Jabbok and up to Ammon (24). The verse gives a territorial boundary, not a new episode at Jacob’s ford.
+
 
 - Jacob sends his wives, slaves, and eleven sons across the ford by night — Genesis 32:22–23
 - Left alone on the near bank, he wrestles a man until daybreak and is renamed Israel — Genesis

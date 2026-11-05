@@ -88,6 +88,15 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+The poem preserves the memory of Moab’s defeat and Sihon’s power (27–30), while the surrounding
+prose records his fall. The text does not identify its author or securely assign every poetic
+speaker.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### The tassels — Numbers 15:37–41
 
 The fringe makes remembrance a practice of looking that leads to doing (39–40). This is
@@ -426,6 +435,9 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

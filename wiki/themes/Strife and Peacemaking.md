@@ -25,6 +25,14 @@ not be filed.
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+Israel offers limited transit without using fields, vineyards, or wells (22). Sihon refuses and
+attacks (23). Unlike the withdrawal before Edom in Numbers 20:21, this refusal leads to conquest.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Repeated negotiation fails to secure passage, yet Israel turns away rather than engaging
@@ -365,6 +373,9 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

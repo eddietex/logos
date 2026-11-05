@@ -21484,3 +21484,32 @@ Validation: link checks clean, with 58 expected unstarted-book targets; changed 
 index rows each occur exactly once; passage title unique; counts verified by type;
 `git diff --check` clean. No unresolved blocker or deliberately dangling link.
 Authored by Codex in one unattended invocation.
+
+## [2026-11-04] ingest | Numbers 21.21-35 — Sihon and Og
+
+Ingested the next planned unit in unattended mode; the boundary is unchanged. Created
+15 pages: the passage, four person pages (Sihon, Og, the former king of Moab, and Chemosh),
+seven place pages (Jahaz, Dibon, Nophah, Medeba, Jazer, Bashan, and Edrei), and three
+connections comparing the Edom embassy, the defeat at Hormah, and the well song.
+Revised 20 existing content pages: Numbers, three comparison passages, God and Moses,
+six places, and eight themes. Updated eight index/dashboard pages and this log (29
+existing pages revised in all). Numbers now stands at 36 / 54 pericopes; totals are
+307 passages, 221 people, 135 places, 87 themes, and 690 connections.
+
+The discussion is incorporated into the passage: requested transit becomes occupation,
+the narrator distinguishes former Moabite land from Sihon's present territory, and the
+Heshbon poem retains its quoted voice and uncertain speaker at verse 30. Chemosh is
+handled under the existing person-page convention for deities, without adopting the
+poem's attribution as the narrator's independent theology. The unnamed earlier Moabite
+king receives a narrative qualifier, not an identification with Balak. Israel and the
+Amorites remain collective peoples rather than invented individual actors; no route
+map or modern site identifications were added. Ammon's earlier geographical description
+is explicitly qualified against the Arnon–Jabbok limits in the current source. Og's
+people's destruction is recorded without inventing crimes or softening the outcome.
+
+All new quotations are copied from stored WEB Numbers 21; comparisons were checked in
+stored Numbers 14 and 20–21. No quotation from a book outside raw, source-language claim,
+or harness change was needed. Existing raw files are unchanged. The link check passed:
+no wrapped or dangling links; 58 not-yet-started book links remain the expected baseline.
+No execution blocker remains. Poetic speaker attribution and precise site locations
+remain explicitly uncertain rather than asserted as settled.

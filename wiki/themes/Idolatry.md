@@ -54,6 +54,15 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Sihon and Og — Numbers 21:21–35
+
+Moab is called the people of Chemosh in the quoted poem (29). Its portrayal of the deity
+surrendering his people belongs to that poetic taunt; no Israelite worship of Chemosh is narrated
+here.
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### The tassels — Numbers 15:37–41
 
 Following heart and eyes is described as prostitution (39), language of unfaithfulness.
@@ -251,6 +260,9 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

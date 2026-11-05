@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Sihon and Og — Numbers 21:21–35
+
+Yahweh tells Moses not to fear Og and promises delivery of his people and land, using the defeat of
+Sihon as the precedent (34). The subsequent victory fulfills that assurance within the narrative
+(35).
+
+See [[Sihon and Og]]. Source: stored WEB Numbers 21:21–35.
+
+
 ### The journey to Moab — Numbers 21:10–20
 
 Yahweh promises to give the assembled people water at Beer (16). The divine gift stands beside the
@@ -2811,6 +2820,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Timeline / key events
 
+- [[Sihon and Og]] — Yahweh tells Moses not to fear Og and promises delivery of his people and land, using the defeat of Sihon as the precedent (34). The subsequent victory fulfills that assurance within the narrative (35).
+
+
 - Ecclesiastes 12:9–14 — [[The End of the Matter]]; the teacher assessed and God feared as judge.
 
 - Ecclesiastes 11:7–12:8 — [[Remember Your Creator]]; joy, judgment, and the Creator before death.
@@ -3223,6 +3235,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Sihon and Og]] — Numbers 21:21–35.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 
