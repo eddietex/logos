@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The journey to Moab — Numbers 21:10–20
+
+Yahweh addresses Moses with the command to gather the people at Beer (16). Moses is not named as the
+singer or digger in verses 17–18; his role here is receiving the instruction.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 The people confess speaking against him and ask his intercession. He prays for them and makes the brass serpent as commanded (7–9), continuing to serve after his own sentence at Meribah.
@@ -1274,6 +1282,9 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

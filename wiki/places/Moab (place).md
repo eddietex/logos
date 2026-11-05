@@ -1,11 +1,22 @@
 ---
 type: place
-also_known_as: [the plains of Moab, the field of Moab, Ar]
+also_known_as: [the plains of Moab, the field of Moab]
 tags: [place]
 ---
 # Moab (place)
 
 ## Overview
+
+### The journey to Moab — Numbers 21:10–20
+
+Israel camps east of Moab and near the Arnon, identified here as the boundary with the Amorites
+(11–15), before reaching the field of Moab and Pisgah (20). The previous alias Ar is too broad:
+verse 15 names a dwelling, now treated separately as [[Ar]], not as a synonym for the entire
+country. The earlier overview’s boundary with Ammon describes a different claim; this passage
+explicitly says Amorites, and that distinction must be preserved.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
 
 **The tableland east of the Dead Sea, and one of only two countries in the Bible whose territory God
 is said to have granted to someone other than Israel, Edom, or the nations of Canaan.**
@@ -56,6 +67,9 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[Lot and His Daughters]] — Genesis 19:37; the nation's origin, given as a birth in a cave
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, by anticipation: Chedorlaomer strikes the

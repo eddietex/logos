@@ -557,6 +557,9 @@ whole song or the refrain of a longer one, the text does not say.** **Psalm 106:
 
 ## Cross-references
 
+- [[From the Sea Song to the Well Song]] — comparison with [[The Journey to Moab]].
+
+
 - [[The King's Heart]] — Proverbs 21:31; see [[Victory Is with Yahweh - Proverbs 21.31, Exodus 15, and Psalm 20.7]].
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:9; Pharaoh's chariots, cast into the sea
   here (15:4), become a compliment in a love poem. See

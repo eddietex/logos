@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The journey to Moab — Numbers 21:10–20
+
+The well song credits princes and nobles with digging, using the scepter and their poles in the WEB
+wording (18). Divine provision in verse 16 does not erase human labor, though the song is not a
+technical description of excavation.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 Labour as a human vocation. The Bible's placement of it is the whole argument: **work appears
 before the fall, not after it.** *"Yahweh God took the man, and put him into the garden of Eden to
 cultivate and keep it"* (2:15) comes fourteen verses before the prohibition is broken and a
@@ -705,6 +714,9 @@ The Levite law gives work a start and an end: twenty-five to fifty. After that a
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

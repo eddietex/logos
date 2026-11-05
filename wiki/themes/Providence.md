@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The journey to Moab — Numbers 21:10–20
+
+At Beer Yahweh explicitly promises water (16), and Israel sings of the leaders’ digging (17–18).
+Unlike hidden providence in the Joseph narratives, provision here is openly announced; divine gift
+and human work stand together.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The congregation and livestock receive abundant water despite the quarrel and the
@@ -382,6 +391,9 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

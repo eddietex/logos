@@ -17,11 +17,18 @@ tags: [connection]
 - **Genesis 21:19** — *"God opened her eyes, and she saw a well of water"* — eleven verses before
   Abraham's dispute over a different one. See [[The Birth of Isaac and the Sending of Hagar]].
 - **Genesis 24:11–20; 29:1–10; Exodus 2:15–17** — the betrothal well, three times.
-- **Numbers 21:16–18** — the Song of the Well: *"Spring up, well! Sing to it."*
+- **Numbers 21:16–18** — [[The Journey to Moab]]: the well song at Beer.
 - **Song of Solomon 4:15** — [[A Garden Locked and Opened]]: *"a well of living waters"*, the same
   Hebrew as Isaac's well at Genesis 26:19.
 
 ## Analysis
+
+### The communal well at Beer
+
+In [[The Journey to Moab]], Yahweh promises water to the assembled people, and the song credits the
+princes and nobles with digging (Numbers 21:16–18, stored WEB). Unlike the patriarchal disputes,
+this unit narrates no contested ownership, treaty, or naming oath. A shared dependence on wells
+connects the scenes without making Beer another name for Beersheba.
 
 ### The two treaties, side by side
 

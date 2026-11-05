@@ -74,6 +74,9 @@ WEB, copied from the stored Numbers source.
 
 ## Cross-references
 
+- [[From Meribah to Beer - Water and the Gathered People]] — comparison with [[The Journey to Moab]].
+
+
 - [[Meribah's Sentence and Aaron's Death]] — the sentence becomes final for Aaron.
 
 - [[Water from the Rock]] — Exodus 17:1–7; similar need, but a command to strike.

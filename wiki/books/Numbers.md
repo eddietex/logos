@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Journey to Moab]] (21:10–20) follows the camps toward Moab, cites the Book of the
+Wars of Yahweh, and records the well song at Beer. Promised water and the leaders’
+digging stand together; the unit ends before the confrontation with Sihon.
+
 [[The Brass Serpent]] (21:4–9) joins deadly judgment to rescue on the detour around Edom.
 Moses intercedes for his accusers; the bitten person who looks at the commanded sign lives.
 
@@ -166,7 +170,7 @@ merge, or reorder them freely.
 - [x] [[The Death of Aaron]] — Numbers 20:22–29
 - [x] [[Arad and Hormah]] — Numbers 21:1–3
 - [x] [[The Brass Serpent]] — Numbers 21:4–9
-- [ ] The Journey to Moab — Numbers 21:10–20
+- [x] [[The Journey to Moab]] — Numbers 21:10–20
 - [ ] Sihon and Og — Numbers 21:21–35
 - [ ] Balak Sends for Balaam — Numbers 22:1–21
 - [ ] Balaam's Donkey — Numbers 22:22–35
@@ -188,6 +192,10 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Praise and Song]] — the promised water and well song (21:16–18).
+
+- [[Providence]] — the promised water and well song (21:16–18).
 
 - [[Judgment]] — the vow and victory at Hormah (21:1–3).
 
@@ -264,6 +272,20 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Ar]] — the journey to Moab (21:10–20).
+- [[Bamoth]] — the journey to Moab (21:10–20).
+- [[Beer]] — the journey to Moab (21:10–20).
+- [[Iyeabarim]] — the journey to Moab (21:10–20).
+- [[Mattanah]] — the journey to Moab (21:10–20).
+- [[Nahaliel]] — the journey to Moab (21:10–20).
+- [[Oboth]] — the journey to Moab (21:10–20).
+- [[Pisgah]] — the journey to Moab (21:10–20).
+- [[Suphah]] — the journey to Moab (21:10–20).
+- [[The Arnon]] — the journey to Moab (21:10–20).
+- [[The Valley of Zered]] — the journey to Moab (21:10–20).
+- [[Vaheb]] — the journey to Moab (21:10–20).
+- [[Moab (place)]] — regional setting and Arnon boundary.
 
 - [[Arad]] and [[Atharim]] — the king’s center and Israel’s approach (21:1).
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The journey to Moab — Numbers 21:10–20
+
+The journey names camps east of Moab and along the Arnon before turning to the well and the heights
+of Pisgah (10–20). Wilderness is a traversed region with water and remembered places, not only a
+setting of rebellion.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 The journey around Edom produces discouragement and a renewed accusation that the exodus leads only to death (4–5). The remedy is given on the road, without a new campsite being named.
@@ -140,6 +149,9 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

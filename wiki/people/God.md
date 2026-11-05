@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The journey to Moab — Numbers 21:10–20
+
+Yahweh promises to give the assembled people water at Beer (16). The divine gift stands beside the
+song’s attribution of digging to the leaders, without explaining the physical process.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 Yahweh sends the snakes after the complaint, then directs Moses to make the sign through which the bitten may live (6–9). Judgment and rescue are both attributed to him.
@@ -3215,6 +3223,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

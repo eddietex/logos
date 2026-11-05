@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The journey to Moab — Numbers 21:10–20
+
+The narrator cites the Book of the Wars of Yahweh for the Arnon landscape (14–15), then records
+Israel’s well song (17–18). Written citation and communal song preserve memory; the fragment does
+not disclose the cited book’s full contents or author.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 ### The budding rod — Numbers 17:1–13
 
 Aaron’s rod is put back before the testimony as a token against rebellion (10). Like the altar
@@ -417,6 +426,9 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

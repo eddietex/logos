@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The journey to Moab — Numbers 21:10–20
+
+The Arnon is explicitly a boundary between Moab and the Amorites (13). Israel’s movement is narrated
+through named territories without a conquest being reported within this pericope.
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 ### The death of Aaron — Numbers 20:22–29
 
 Yahweh describes the land as given to Israel while excluding Aaron from entering (24).
@@ -389,6 +397,9 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

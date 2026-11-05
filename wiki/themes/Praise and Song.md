@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The journey to Moab — Numbers 21:10–20
+
+Israel sings to the well and celebrates the princes’ digging (17–18). Unlike the Song of the Sea,
+the short song does not directly address Yahweh; its surrounding narrative identifies him as the
+giver of water (16).
+
+See [[The Journey to Moab]]. Source: stored WEB Numbers 21:10–20.
+
+
 Speech that celebrates worth and deeds, addressed to God or spoken about him before others,
 and also given to people whose conduct merits recognition (Proverbs 31:28–31) and to human
 love itself (Song of Solomon 1:4). Music, singing,
@@ -124,6 +133,9 @@ Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra ke
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Journey to Moab]] — Numbers 21:10–20.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

@@ -21453,3 +21453,34 @@ is covered by passage and connections without introducing a new page type.
 No new named people or places require pages. Link checks passed with the expected
 58 unstarted-book baseline; counts and passage-title uniqueness were checked.
 No unresolved blocker or deliberately dangling link.
+
+## [2026-11-04] ingest | Numbers 21.10-20 — The Journey to Moab
+
+Ingested exactly the next planned unit without changing its boundary. Numbers is now
+35 / 54 pericopes. Created 15 pages: the passage, twelve places (Oboth, Iyeabarim,
+the Valley of Zered, the Arnon, Vaheb, Suphah, Ar, Beer, Mattanah, Nahaliel, Bamoth,
+and Pisgah), and two connections comparing Beer with Meribah and the well song with
+the sea song. Revised 21 pages including this log: God and Moses, Moab, six themes,
+the patriarchal-wells connection, two earlier passages, Numbers, and the relevant
+indexes and counts. Totals by frontmatter type: 306 passages, 217 people, 128 places,
+87 themes, and 687 connections.
+
+The complete passage quotation was copied from stored WEB Numbers. Comparisons use
+stored WEB Numbers 20 and Exodus 15; no new external quotation or source-language
+claim was introduced. Raw sources were not changed. Vaheb, Suphah, and Ar are treated
+as names in a cited geographical fragment, not as additional narrated camps. Modern
+site identifications remain unspecified. The Book of the Wars of Yahweh is discussed
+without reconstructing its author, date, contents, or a battle at Vaheb. The separately
+introduced well song is not automatically assigned to that book.
+
+Removed Ar from Moab’s aliases and created its own place page. Explicitly flagged the
+tension between the older Moab overview’s boundary description involving Ammon and
+Numbers 21:13’s stated boundary with the Amorites. Divine gift and human digging are
+retained together; the well song is distinguished from direct address to God. Israel,
+the Amorites, and the unnamed princes are treated as collectives rather than invented
+individuals; the princes are not equated with the twelve named census leaders.
+
+Validation: link checks clean, with 58 expected unstarted-book targets; changed entity
+index rows each occur exactly once; passage title unique; counts verified by type;
+`git diff --check` clean. No unresolved blocker or deliberately dangling link.
+Authored by Codex in one unattended invocation.
