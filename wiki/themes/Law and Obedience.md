@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+Permission to go in 22:20 does not prevent condemnation of Balaam’s way in 22:32. The renewed permission in 35 again restricts speech; the text does not explain the earlier permission and anger by reporting a secret intention.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### The death of Aaron — Numbers 20:22–29
 
 The earlier rebellion against Yahweh’s word (24) is followed by Moses doing as commanded
@@ -948,6 +954,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

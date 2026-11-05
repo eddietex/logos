@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Balaam's Donkey]] (22:22–35) interrupts the permitted journey with a deadly encounter.
+The donkey sees and avoids the angel before Balaam does; his eyes are opened, his way rebuked,
+and his onward speech restricted again to the given word.
+
 [[Balak Sends for Balaam]] (22:1–21) moves the conflict from battle to attempted cursing. Balak’s
 embassies cannot override Israel’s blessed status; Balaam departs with permission restricted to
 God’s word.
@@ -179,7 +183,7 @@ merge, or reorder them freely.
 - [x] [[The Journey to Moab]] — Numbers 21:10–20
 - [x] [[Sihon and Og]] — Numbers 21:21–35
 - [x] [[Balak Sends for Balaam]] — Numbers 22:1–21
-- [ ] Balaam's Donkey — Numbers 22:22–35
+- [x] [[Balaam's Donkey]] — Numbers 22:22–35
 - [ ] Balaam's First Two Oracles — Numbers 22:36–23:26
 - [ ] Balaam's Last Oracles — Numbers 23:27–24:25
 - [ ] Baal Peor and the Zeal of Phinehas — Numbers 25:1–18
@@ -198,6 +202,14 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Compassion and Mercy]] — [[Balaam's Donkey]] (22:22–35).
+
+- [[Sin]] — [[Balaam's Donkey]] (22:22–35).
+
+- [[Language and Speech]] — [[Balaam's Donkey]] (22:22–35).
+
+- [[Seeing and Being Seen]] — [[Balaam's Donkey]] (22:22–35).
 
 - [[Idolatry]] — [[Sihon and Og]] (Numbers 21:21–35).
 
@@ -251,6 +263,8 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — vision and dream, and Moses set above both
 
 ## Key people
+
+- [[The Angel of Yahweh]] — opposes Balaam’s journey and restricts his speech (22:22–35).
 
 - [[Balak]] and [[Balaam]] — the king’s summons and the constrained answer (22:1–21).
 - [[Zippor]] and [[Beor (father of Balaam)]] — their named fathers (22:2, 5).

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+Balaam confesses sin after his eyes are opened, mentions his ignorance of the angel, and offers to return (34). His acknowledgment follows the rebuke of his way and his beatings; the text does not specify a complete account of his motives.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### The brass serpent — Numbers 21:4–9
 
 The people identify their own speech against Yahweh and Moses as sin (7). Confession precedes intercession and rescue; no sacrificial rite is prescribed in this unit.
@@ -621,6 +627,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+The angel blocks the road with a drawn sword, is seen first by the donkey, and tells Balaam that her turning aside saved his life. He questions the beatings and permits further travel only under a restriction to his word (22–35). Here the messenger opposes a traveler rather than simply guiding or reassuring him.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel recalls an angel sent by Yahweh in the deliverance from Egypt (16). The WEB here
@@ -344,6 +350,8 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 - Exodus 32 — The angel is promised before the people, with judgment still pending (32:34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

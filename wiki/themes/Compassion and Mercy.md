@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+The donkey’s evasions preserve the rider who strikes her. The angel challenges the three beatings and distinguishes her preservation from Balaam’s threatened death (32–33); animal resistance is not proof of wrongdoing.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### The brass serpent — Numbers 21:4–9
 
 The God who sends the deadly snakes also provides a way for the bitten to live (6–9). Mercy is a thematic description of this rescue; it does not cancel the deaths already narrated.
@@ -290,6 +296,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

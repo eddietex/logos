@@ -87,7 +87,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[Calling on the Name of Yahweh]] | thread | Genesis 4:26 · Genesis 12:8 · Exodus 3:13–15 · Exodus 6:2–3 · Joel 2:32 · Acts 2:21 · Romans 10:13 |
 | [[Can a Man Be Profitable to God - Job 22.2-3, Job 35.6-8, and Luke 17.10]] | thread | Job 22:2–4, 21 · Job 1:8–9; 2:3 · Job 7:20 · Job 21:15 · Job 34:9; 35:2–3 · Job 35:6–8 · Job 41:11 · Romans 11:35 · Luke 17:10 |
 | [[A Captain to Return to Egypt - Numbers 14.4, Nehemiah 9.17, and Acts 7.39]] | quotation and allusion | [[The People Refuse the Land]] (Numbers 14:3–4) · Exodus 14:12 · Deuteronomy 17:16 · Nehemiah 9:17 · Acts 7:39 |
-| [[Care for the Animal - Proverbs 12.10 and Exodus 23]] | thematic-parallel | [[Whoever Loves Correction]] (Proverbs 12:10); [[Justice, Sabbaths, and Feasts]] (Exodus 23:4–5, 11–12) |
+| [[Care for the Animal - Proverbs 12.10 and Exodus 23]] | thematic-parallel | [[Whoever Loves Correction]] (Proverbs 12:10); [[Justice, Sabbaths, and Feasts]] (Exodus 23:4–5, 11–12)  · [[Balaam's Donkey]] |
 | [[Carry Up My Bones - Joseph's Oath and Its Keeping]] | prophecy → fulfillment | Genesis 50:24–26 · Genesis 47:29–31 · Genesis 48:22 · Exodus 13:19 · Joshua 24:32 · Hebrews 11:22 |
 | [[The Charmer's Tongue - Psalm 58.4-5, Jeremiah 8.17, and Ecclesiastes 10.11]] | motif | Psalm 58:3–5 · Jeremiah 8:17 · [[Folly in High Places and Everyday Work]] (Ecclesiastes 10:10–11) · Ecclesiastes 1:3 |
 | [[A Child of His Old Age - Ben-Zequnim from Joseph to Benjamin]] | literary parallel | Genesis 21:2, 7 · Genesis 37:3–4 · Genesis 43:34 · Genesis 44:20 · Genesis 45:22 |

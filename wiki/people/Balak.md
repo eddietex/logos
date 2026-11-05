@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+Balak does not appear in person in this scene. His princes accompany Balaam as the journey resumes under the angel’s restriction (35); the king’s summons has not given Balaam control over what he may say.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 Son of [[Zippor]] and king of Moab at this time (2, 4). Fear after Israel’s victories leads him to
 seek a curse before attempting military expulsion. He sends a second, more distinguished embassy
 when the first returns unsuccessful; his offer of honor cannot determine God’s instruction.
@@ -16,6 +22,8 @@ when the first returns unsuccessful; his offer of honor cannot determine God’s
 - Numbers 22:1–21: Son of [[Zippor]] and king of Moab at this time (2, 4). Fear after Israel’s victories leads him to seek a curse before attempting military expulsion. He sends a second, more distinguished embassy when the first returns unsuccessful; his offer of honor cannot determine God’s instruction.
 
 ## Appears in
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

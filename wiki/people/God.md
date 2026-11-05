@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+God is angry at Balaam’s journey, yet opens the donkey’s mouth and Balaam’s eyes, exposing the danger and preserving the traveler. Permission in 22:20 and anger in 22:22 stand together; the angel calls Balaam’s way perverse (32), but the narrative supplies no fuller explanation of that tension.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### Balak’s embassies — Numbers 22:1–21
 
 God forbids both the first journey and the curse because Israel is blessed (12), then permits
@@ -3244,6 +3250,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

@@ -68,6 +68,8 @@ Balaam saddles his donkey and departs (15–21).
 
 ## Cross-references
 
+- [[A Permitted Journey and a Deadly Encounter - Moses and Balaam]] — permitted travel and divine opposition compared with [[Balaam's Donkey]].
+
 - [[Sihon and Og]] — Numbers 21:21–35 supplies the victories behind Balak’s fear.
 - [[The Blessed People and the Purchased Curse]] — Genesis 12 and Numbers 6 compared with the refused curse.
 - [[Yes, He Will Be Blessed - The Irrevocable Word]] — Balak’s claim distinguished from God’s answer.

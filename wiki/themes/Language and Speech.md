@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+Yahweh opens an animal’s mouth (28), and the episode ends by restricting the human speaker to the word given him (35). The donkey’s questions expose what Balaam’s angry speech overlooks.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 A fight leads to blasphemy and cursing (10–11). Those who heard the speech participate
@@ -593,6 +599,8 @@ of verse 2, the claim of verse 3, the report of verses 36–37. The verse 10 sto
 said. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

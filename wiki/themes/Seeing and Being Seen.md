@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+The donkey sees the angel three times before Balaam sees him. Yahweh must open Balaam’s eyes (31); his access to divine speech in the preceding episode does not make his perception automatic or complete.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### The brass serpent — Numbers 21:4–9
 
 Here the endangered person must look at the object God appoints (8–9). Sight is associated with life, not because every image heals but because this act answers a particular promise.
@@ -334,6 +340,8 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

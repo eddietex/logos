@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's Donkey]] — Numbers 22:22–35.
+
 - [[Whoever Loves Correction]] — Proverbs 12:10.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:4–5, 11–12.
 
@@ -33,6 +35,15 @@ prohibition of all animal use or a complete theory of animal rights.
 
 Sources: quotation copied from stored WEB Proverbs 12:10; Exodus 23:4–5, 11–12 read in
 `raw/bible/Exodus.md`. No source-language identity is claimed.
+
+### Balaam’s donkey
+
+In Numbers 22:22–35 the animal Balaam strikes is preserving his life. The angel asks why he
+struck her three times and says that without her evasions Balaam would have died while she
+lived (32–33). This narrative makes the animal’s resistance intelligible and condemns the
+rider’s response; it does not establish that every resisting animal perceives a divine threat.
+The comparison extends the proverb and law above without claiming a direct citation.
+Source: stored WEB Numbers 22:22–35, paraphrased.
 
 ## Significance
 

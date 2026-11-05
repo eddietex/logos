@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+The summoned speaker cannot see the angel until Yahweh opens his eyes. The renewed command governs what he may speak (35), linking revelation to dependence rather than to a speaker’s autonomous power.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 God putting words in a human mouth, and showing a human being something.
 
 Three word-groups carry it. **_Nābîʾ_**, prophet — probably *one called*, or *one who calls* — the
@@ -146,6 +152,8 @@ The Torah's one statement of grades. Miriam the prophetess and Aaron ask whether
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

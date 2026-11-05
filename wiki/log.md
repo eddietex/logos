@@ -21550,3 +21550,31 @@ the passage title is unique; checked pericopes and frontmatter counts match the 
 new verse quotations match raw text; git diff --check is clean. No execution blocker
 or deliberately dangling link remains. Narrative and geographical uncertainties are
 identified on the pages rather than presented as resolved.
+
+## [2026-11-05] ingest | Numbers 22.22-35 — Balaam's Donkey
+
+Ingested the next planned pericope without changing its boundary. Created the passage and
+[[A Permitted Journey and a Deadly Encounter - Moses and Balaam]]; revised the existing animal-care
+connection, two related passage pages, four people, seven themes, the Numbers book page, and
+seven indexes/dashboards. Including this log, 2 pages created and 23 revised. Numbers now stands
+at 38 / 54 pericopes; totals are 309 passages, 225 people, 137 places, 87 themes, and 692 connections.
+
+The donkey’s three evasions, opened mouth, and Balaam’s opened eyes structure the reading.
+The permission in 22:20, anger in 22:22, rebuke in 22:32, and renewed permission in 22:35 remain
+an explicit narrative tension. No invented motive or accepted payment is supplied to resolve it.
+The Moses comparison preserves the different missions and does not make circumcision the cause
+of Balaam’s danger. The animal-care comparison does not generalize the donkey’s perception to
+all animal resistance. Balak is named through his princes, not treated as present on the road.
+Unnamed servants and princes remain collective; unnamed road features do not receive speculative
+place pages. No new person, place, or theme was needed.
+
+All new Bible quotations were copied from stored WEB Numbers 22 and mechanically checked against
+it. The Exodus comparison uses the stored WEB Exodus 4 in paraphrase. No quotation from an
+unstored book, exact source-language assertion, raw-text edit, or harness change was required.
+Authored by Codex.
+
+Validation: scripts/link-check.sh exits 0 with no wrapped or dangling links and 58 expected
+unstarted-book targets. The passage title is unique, each affected category page has one index
+row, the Numbers checklist has 38 checked units, and frontmatter counts match the dashboard.
+Git diff --check is clean. No execution blocker or deliberately dangling link remains; the
+permission/anger tension and unspecified location remain identified on the passage page.

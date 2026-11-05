@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Balaam’s donkey — Numbers 22:22–35
+
+The drawn sword makes the threat concrete: the angel says Balaam would have died and the donkey lived had she not turned aside (33). The rebuke distinguishes the threatened rider from the animal he punished.
+
+See [[Balaam's Donkey]]. Source: stored WEB Numbers 22:22–35.
+
 ### The brass serpent — Numbers 21:4–9
 
 Yahweh sends the snakes, and many Israelites die (6). The remedy preserves bitten people who look; no restoration of those already dead is narrated.
@@ -704,6 +710,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 
