@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*The children of Machir the son of Manasseh went to Gilead, took it, and dispossessed the Amorites who
+were therein. Moses gave Gilead to Machir the son of Manasseh; and he lived therein* (39–40). The clan of
+the last person named in Genesis takes and receives the region by conquest — the verse already quoted on
+this page under *What becomes of him*, now ingested.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Numbers 27:1 places Machir between Manasseh and Gilead in the petitioners' ancestry. His role here
@@ -74,6 +83,7 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his children take Gilead from the Amorites, and Moses gives it to Machir.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

@@ -7,6 +7,14 @@ tags: [person, group]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Reuben and Gad bring their request to *the princes of the congregation* with Moses and Eleazar (2), and
+Moses gives the agreement to *the heads of the fathers' households of the tribes* with Eleazar and Joshua
+(28). The text does not name them or say whether they are the same men as the princes of earlier chapters.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The budding rod — Numbers 17:1–13
 
 The princes supply named rods, inspect the result, and recover their rods (2, 6, 9). The WEB
@@ -73,6 +81,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14–27 — Lead their armies out from Sinai. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; addressed with the request (2), and charged with the agreement (28).
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

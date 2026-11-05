@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+With Reuben, the tribe asks for Jazer and Gilead, *a place for livestock*, and is told by Moses that
+staying behind would repeat the spies' discouragement (1–15). Named first from verse 2 onward. The two
+tribes offer to go armed before Israel and not return home until every tribe has inherited (16–19);
+Moses binds the offer *before Yahweh*, with *be sure your sin will find you out* if they break it (20–24).
+Gad builds Dibon, Ataroth, Aroer, Atrothshophan, Jazer, Jogbehah, Beth Nimrah, and Beth Haran (34–36) —
+the allotment Jacob's saying about a troop pressing on Gad (Genesis 49:19) fits. Joshua 13 assigns some of
+the same towns to Reuben; see the passage page.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 40,500 men in the second military census (Numbers 26). The register
@@ -107,6 +119,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; asks for Jazer and Gilead with Reuben, accepts Moses' condition, and builds eight towns.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

@@ -12,6 +12,16 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*The half-tribe of Manasseh the son of Joseph* is included in the grant of Sihon's and Og's kingdoms
+(33), though it had not asked and was not party to the condition. The chapter then explains it after the
+fact: Manassite clans — Machir, Jair, and Nobah — had taken land in Gilead by their own conquest (39–42).
+This is the first time *half-tribe* is used of Manasseh in Genesis through Numbers; the tribe Jacob adopted
+now settles on both banks of the Jordan.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The daughters' descent through Machir, Gilead, Hepher, and Zelophehad locates their inheritance
@@ -141,6 +151,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; the half-tribe is included in the eastern grant, and its clans take Gilead and its villages.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

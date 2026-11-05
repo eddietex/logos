@@ -197,7 +197,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Numbers 20:12 — why Moses and Aaron will not go in *(stored WEB, not yet ingested)*
 - Numbers 26:64–65 — the second count, and the first generation gone *(stored WEB, not yet
   ingested)*
-- Numbers 32:11–13 — Moses retells the sentence *(stored WEB, not yet ingested)*
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11–13, Moses retells the sentence
 - Deuteronomy 1:26–40; 2:14–16 — the same events, and thirty-eight years *(WEB checked, not yet
   ingested)*
 

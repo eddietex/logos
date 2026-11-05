@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Reuben, Gad, and the Land Beyond the Jordan]] (32:1–42) has Reuben and Gad, rich in livestock, ask to settle the conquered land east of
+the Jordan. Moses hears Kadesh again — *Shall your brothers go to the war, and shall you sit here?* — and
+binds them to cross armed *before Yahweh* until every tribe has its inheritance: *be sure your sin will
+find you out*. Gad, Reuben, and half of Manasseh receive Sihon's and Og's kingdoms.
+
 [[The War Against Midian]] (31:1–54) carries out the command of 25:17 as Moses' last campaign:
 *Yahweh's vengeance on Midian*, five kings and Balaam killed, and Peor laid to *the counsel of Balaam*.
 Moses' order to kill the boys and the women who had lain with a man is reported without comment. Most of
@@ -243,7 +248,7 @@ merge, or reorder them freely.
 - [x] [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40
 - [x] [[Vows of Men and Women]] — Numbers 30:1–16
 - [x] [[The War Against Midian]] — Numbers 31:1–54
-- [ ] Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+- [x] [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [ ] The Stages of the Journey — Numbers 33:1–49
 - [ ] Drive Out the Inhabitants — Numbers 33:50–56
 - [ ] The Borders of the Land — Numbers 34:1–29
@@ -251,6 +256,8 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Guilt and Conscience]] — [[Reuben, Gad, and the Land Beyond the Jordan]].
 
 - [[Vengeance]] — [[The War Against Midian]].
 
@@ -294,7 +301,7 @@ merge, or reorder them freely.
 
 - [[Strife and Peacemaking]] — the appeal and withdrawal at Edom (20:14–21).
 
-- [[Brotherhood]] — the appeal and withdrawal at Edom (20:14–21).
+- [[Brotherhood]] — the appeal and withdrawal at Edom (20:14–21); *Shall your brothers go to the war?*, [[Reuben, Gad, and the Land Beyond the Jordan]] (32:6).
 
 - [[Life and Death]] — the red heifer and purification (19:1–22).
 
@@ -328,6 +335,8 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — vision and dream, and Moses set above both
 
 ## Key people
+
+- [[Reuben]], [[Gad]], [[Machir]], [[Jair (son of Manasseh)]], and [[Nobah (person)]] — [[Reuben, Gad, and the Land Beyond the Jordan]].
 
 - [[The Daughters of Zelophehad]] and [[Zelophehad]] — the inheritance petition (27:1–11).
 
@@ -383,6 +392,10 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Gilead]], [[Ataroth]], [[Aroer]], [[Atrothshophan]], [[Jogbehah]], [[Beth Nimrah]], [[Beth Haran]],
+  [[Elealeh]], [[Kiriathaim]], [[Nebo (city)]], [[Baal Meon]], [[Sibmah]], [[Havvoth Jair]], and [[Kenath]] —
+  [[Reuben, Gad, and the Land Beyond the Jordan]].
 
 - [[Abarim]] — [[Joshua Commissioned]].
 

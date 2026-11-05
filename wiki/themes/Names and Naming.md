@@ -212,6 +212,15 @@ its cluster (24). The first has no explanation, and the second has one.
 
 See [[The Twelve Spies]].
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Reuben rebuilds Nebo and Baal Meon *(their names being changed)* and gives *other names to the cities which
+they built* (38); the new names are not recorded, and Rashi takes the old ones as idol names. Jair calls the
+villages he takes *Havvoth Jair* and Nobah calls Kenath *Nobah, after his own name* (41–42): conquerors naming
+land after themselves.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -386,6 +395,7 @@ See [[The Twelve Spies]].
 - [[The Fire at Taberah]] — Numbers 11:3; *burning*.
 - [[The Seventy Elders and the Quail]] — Numbers 11:34; *the graves of craving*.
 - [[The Twelve Spies]] — Numbers 13:16, 24; Hoshea called Joshua, and a valley named for its cluster
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; towns renamed, and land named after its conquerors (38, 41–42).
 
 ## Related themes
 

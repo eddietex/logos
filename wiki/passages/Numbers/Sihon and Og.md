@@ -106,6 +106,7 @@ they possessed his land.
 
 ## Cross-references
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32, the conquered land given to Gad, Reuben, and half of Manasseh.
 - [[Balak Sends for Balaam]] — the fear produced by Israel’s victories leads to Balak’s embassies.
 - [[Edom and Sihon - Refused Passage and Different Outcomes]]
 - [[From Defeat at Hormah to Victory over Og]]

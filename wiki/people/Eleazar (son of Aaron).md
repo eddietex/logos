@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Addressed with Moses and the princes when Reuben and Gad make their request (2), and the first of the
+three whom Moses commands *concerning them*, to give Gilead if the two tribes cross armed and land in
+Canaan if they do not (28–30). The agreement will outlive Moses, and Eleazar is one of its executors.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The war against Midian — Numbers 31:1–54
 
 Eleazar meets the returning army with Moses (13), gives the soldiers *the statute of the law* for
@@ -278,6 +286,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; addressed with Moses, and charged to carry out the agreement (2, 28).
 
 - [[The War Against Midian]] — Numbers 31:1–54; gives the purification statute; receives Yahweh's tribute.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Joshua set before him; inquiry by the Urim assigned to him.

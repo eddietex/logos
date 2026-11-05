@@ -307,6 +307,15 @@ of us* (49–50). The text reports Moses' order without comment; the wiki does n
 
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+The two eastern tribes are bound to go *armed before Yahweh to the war* (20) until the land is
+*subdued before Yahweh* (22). Moses' repeated *before Yahweh* makes the conquest Yahweh's war; the tribes take
+up the phrase in their second answer (27, 32). The chapter ends with three Manassite conquests in Gilead
+(39–42).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 
 - [[The Second Census]] — Numbers 26:1–65.
@@ -423,6 +432,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Twelve Spies]] — Numbers 13:17–20, 28–31; a reconnaissance, and a dispute about fighting
 - [[The Defeat at Hormah]] — Numbers 14:42–45; battle without the ark or Moses
 - [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance and its aftermath.
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; armed service *before Yahweh* as the price of land.
 
 ## Related themes
 

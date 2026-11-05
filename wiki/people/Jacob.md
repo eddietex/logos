@@ -804,6 +804,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11; named in the oath Moses recalls.
+
 - [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

@@ -217,6 +217,15 @@ Moses' elder brother and sister speak against him. Aaron's *my lord* (11) revers
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*Shall your brothers go to the war, and shall you sit here?* (6). Moses frames the request of Reuben and Gad as
+a failure of brotherhood, and the tribes answer by binding themselves to fight *until the children of
+Israel have each inherited their inheritance* (18). Joshua 22:3 later commends them, *You have not left your
+brothers these many days* (WEB via bible-api.com, not yet ingested).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
@@ -323,6 +332,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[Miriam and Aaron Against Moses]] — Numbers 12; Miriam and Aaron against Moses.
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *Shall your brothers go to the war, and shall you sit here?*
 
 ## Related themes
 

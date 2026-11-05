@@ -111,7 +111,7 @@ does not say what they did.
   45, the name
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; the next unit
 - [[Arad and Hormah]] — Numbers 21:1–3; the later vow, victory, and naming.
-- Numbers 32:15 — *if you turn away from after him* *(stored WEB, not yet ingested)*
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:15, *if you turn away from after him*
 
 ## Notes
 

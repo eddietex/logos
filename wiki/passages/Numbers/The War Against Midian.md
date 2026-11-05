@@ -215,8 +215,8 @@ who had lain with a man, and gives Peor as the reason. See
 bible-api.com). The text of Numbers does not say every Midianite clan was involved; the wiki records the
 later strength of Midian beside this chapter without harmonizing them. See [[Midian]].
 
-**Boundary and naming.** The planned boundary, 31:1–54, is kept: chapter 32 turns to Reuben and Gad. The
-provisional title is kept. New person pages are created for four of the five kings — [[Evi]], [[Rekem]],
+**Boundary and naming.** The planned boundary, 31:1–54, is kept: chapter 32 turns to Reuben and Gad, in
+[[Reuben, Gad, and the Land Beyond the Jordan]]. The provisional title is kept. New person pages are created for four of the five kings — [[Evi]], [[Rekem]],
 [[Reba]], and [[Hur (king of Midian)]], the last qualified because two Hur pages already exist. Zur's page
 already existed.
 

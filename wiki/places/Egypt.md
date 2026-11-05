@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*None of the men who came up out of Egypt, from twenty years old and upward, shall see the land* (11).
+Egypt is the starting point that dates the condemned generation in Moses' retelling of the oath.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The second census — Numbers 26:1–65
 
 The exodus is recalled in verse 4 and Jochebed’s birth in Egypt in verse 59.
@@ -272,6 +279,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
 - [[The Second Census]] — Numbers 26:1–65.
 
@@ -643,3 +652,4 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
   [[The Generations of Aaron and the Levites Given]]
 - The congregation proposes to appoint a head and return here — Numbers 14:4,
   [[The People Refuse the Land]]
+- Named in the oath Moses recalls (11). See [[Reuben, Gad, and the Land Beyond the Jordan]].

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*When they went up to the valley of Eshcol, and saw the land, they discouraged the heart of the
+children of Israel* (9). Moses names the valley again as the place the discouragement began.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 The valley near Hebron where the spies cut one cluster of grapes and carried it on a staff between
 two men (Numbers 13:23). *Naḥal* is a wadi or stream valley, and *ʾeškôl* is a cluster. Verse 24
 gives the etymology: *That place was called the valley of Eshcol, because of the cluster which the
@@ -23,6 +30,8 @@ then the valley.
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
+
 - [[The Twelve Spies]] — Numbers 13:23–24
 
 ## Related places
@@ -34,3 +43,4 @@ then the valley.
 ## Events here
 
 - The cluster is cut, with pomegranates and figs — Numbers 13:23
+- Recalled as where the fathers saw the land and discouraged Israel (9). See [[Reuben, Gad, and the Land Beyond the Jordan]].

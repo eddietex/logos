@@ -73,6 +73,8 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:24, *do that which has proceeded out of your mouth*, a promise
+  held like a vow; and *hēnîʾ*, the verb of a father's veto (30:5), used for discouraging Israel (32:7, 9).
 - [[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]] — a wife's vow, and a husband's word
   about it.
 - [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]] — *mibṭāʾ śəpāteyhā*, the

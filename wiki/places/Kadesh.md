@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Moses recalls *when I sent them from Kadesh Barnea to see the land* (8), the spies whose report
+discouraged Israel. On the difference from 13:3, see below.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 The narrator's gloss names *the waters of Meribah of Kadesh* (14) as the site of the rebellion
@@ -76,6 +83,8 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
+
 - [[Joshua Commissioned]] — Numbers 27:12–23; named in the gloss on Meribah (14).
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
@@ -119,3 +128,4 @@ both and does not map the boundary. See [[The Wilderness of Zin]].
 - The refusal, and the sentence of forty years — Numbers 14:1–38, [[The People Refuse the Land]]
 - The people go up from here against Moses' word and are beaten back — Numbers 14:39–45,
   [[The Defeat at Hormah]]
+- Recalled as the place the spies were sent from (8). See [[Reuben, Gad, and the Land Beyond the Jordan]].

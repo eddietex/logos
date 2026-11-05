@@ -101,7 +101,8 @@ sequence without asserting the design.
 ### What the split actually produced
 
 **The two half-tribes of Joseph became the largest bloc in Israel.** **Manasseh alone is settled on both
-sides of the Jordan** — Gilead and Bashan in the east (Numbers 32:33; Joshua 13:29–31), the hill
+sides of the Jordan** — Gilead and Bashan in the east (Numbers 32:33, in
+[[Reuben, Gad, and the Land Beyond the Jordan]]; Joshua 13:29–31), the hill
 country in the west (Joshua 17:7–10). **Ephraim holds Shiloh, where the tabernacle stood, and Bethel on
 its border**; **Joshua is an Ephraimite** (Numbers 13:8, 16), **Gideon a Manassite** (Judges 6:15),
 **Samuel raised at Shiloh, Jeroboam an Ephraimite** (1 Kings 11:26). **When the kingdom divides,

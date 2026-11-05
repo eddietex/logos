@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+If Reuben and Gad will not cross armed, *they shall have possessions among you in the land of Canaan*
+(30); they reply that they will pass over *into the land of Canaan*, while their inheritance stays
+*beyond the Jordan* (32). The chapter uses *Canaan* for the west bank only, and the eastern grant is not
+called Canaan.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The second census — Numbers 26:1–65
 
 Named as the land in which Er and Onan died (19); the inheritance ahead is regulated in verses 52–56
@@ -235,6 +244,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
 - [[The Second Census]] — Numbers 26:1–65.
 
@@ -515,3 +526,4 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
   [[The Defeat at Hormah]]
 - Offerings are ordained for it after the refusal — Numbers 15:1–31,
   [[Offerings in the Land and Sins of Ignorance]]
+- The west bank, where the eastern tribes will fight but not settle (30, 32). See [[Reuben, Gad, and the Land Beyond the Jordan]].

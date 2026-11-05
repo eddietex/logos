@@ -856,6 +856,8 @@ promise persists even when the terms of divine accompaniment are disputed. See
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11; named in the oath Moses recalls, *the land which I swore to Abraham, to Isaac, and to Jacob*.
+
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46; covenant party, not present.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; recalled as a recipient of the land oath (33:1).

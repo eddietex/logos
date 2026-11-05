@@ -147,6 +147,15 @@ shall fall*. So the first feature above is closed from Yahweh's side, and the th
 applies, since Moses does not redirect anyone. Verse 36 adds a new form, a leader *causing* a
 murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Moses' fear is not that two tribes complain but that they will *discourage the heart of the children of
+Israel* (7), as the spies did (9). The verb, the hiphil of *nwʾ*, is the same one used of a father's veto
+of a vow at 30:5 (Miqra according to the Masorah). Discouragement is treated as a public act with
+consequences for the whole people (15).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
@@ -178,6 +187,7 @@ murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 - [[The Twelve Spies]] — Numbers 13:27–33; the report that leads to the murmuring of 14:2, 36.
 - [[The People Refuse the Land]] — Numbers 14:2, 27–29, 36; *against me*, and answered with the
   sentence
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; discouraging Israel's heart, as the spies did (7–9).
 
 ## Related themes
 

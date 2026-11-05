@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+With Gad, the tribe has *a very great multitude of livestock* and asks for the conquered land east of
+the Jordan: *Don't bring us over the Jordan* (1–5). Named first in verse 1 and second, after Gad, in most of
+the chapter. Moses calls the two tribes *an increase of sinful men* in their fathers' place (14), and they
+answer by promising to go armed before Israel until every tribe has its inheritance (16–19). Reuben builds
+Heshbon, Elealeh, Kiriathaim, Nebo, Baal Meon, and Sibmah, and changes some of their names (37–38). The
+firstborn's tribe takes the first settled land, on the east bank; Deborah will later ask it *Why did you
+sit among the sheepfolds?* (Judges 5:16; WEB via bible-api.com, not yet ingested).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 43,730 men in the second military census (Numbers 26). The register
@@ -194,6 +206,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; asks for the land east of the Jordan with Gad, promises to cross armed, and builds six towns.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

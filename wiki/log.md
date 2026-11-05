@@ -21903,3 +21903,58 @@ in Sefaria's English.
 Frontmatter recount: 319 passages, 240 people, 146 places, 87 themes, 706 connections. Link checks
 clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
 No unresolved issue.
+
+## [2026-11-05] ingest | Numbers 32.1-42 — Reuben, Gad, and the Land Beyond the Jordan
+
+Ingested one pericope in unattended mode with Claude Code; the discussion is written into the
+passage page. Reuben and Gad, rich in livestock, ask for the conquered land east of the Jordan: *Don't
+bring us over the Jordan*. Moses hears Kadesh again, retells the spies and the oath, and calls them *an
+increase of sinful men*; they offer to go armed before Israel until every tribe has inherited, and Moses
+binds the offer *before Yahweh* — *be sure your sin will find you out* — and hands it to Eleazar, Joshua,
+and the tribal heads. Gad, Reuben, and half of Manasseh receive Sihon's and Og's kingdoms; the towns are
+rebuilt, some renamed; Machir, Jair, and Nobah take land in Gilead. Numbers is now 49 / 54; the 32:1–42
+boundary and the provisional title are unchanged.
+
+Created 17 pages: the passage; two people, [[Jair (son of Manasseh)]] (qualified because Judges 10 has
+another Jair) and [[Nobah (person)]] (qualified because Nobah is also a place name); thirteen places,
+[[Ataroth]], [[Atrothshophan]], [[Aroer]], [[Jogbehah]], [[Beth Nimrah]], [[Beth Haran]], [[Elealeh]],
+[[Kiriathaim]], [[Nebo (city)]], [[Baal Meon]], [[Sibmah]], [[Havvoth Jair]], and [[Kenath]]; and one
+connection, [[The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22]]. Revised 54
+existing pages: the book page and books index; Reuben, Gad, Manasseh, Machir, Moses, Eleazar, Joshua,
+Caleb, the Twelve Tribal Princes, Sihon, Og, God, Abraham, Isaac, Jacob, and Joseph, and all three people
+subindexes; Jazer, Gilead, Dibon, Heshbon, Bashan, The Jordan, Kadesh, The Valley of Eshcol, Egypt, and
+Canaan and the places index; nine themes (Land and Sojourning, Brotherhood, War, Oaths and Vows, Sin, Guilt
+and Conscience, Murmuring, Wealth and Possessions, Names and Naming) and the themes index; three
+connections (Who Sent the Spies, Wholly Followed, Two Tribes in Place of One) and the T–Z connections
+subindex; six earlier passages (The Twelve Spies, The People Refuse the Land, The Defeat at Hormah, Sihon
+and Og, Vows of Men and Women, The War Against Midian), whose references to Numbers 32 now link here; the
+dashboard; and this log.
+
+Judgment calls: Sebam = Sibmah, Beon = Baal Meon, and Nimrah = Beth Nimrah are filed as one page each
+(Rashi for the first; spelling and the parallel lists for the others); Beth Haran is taken as Joshua
+13:27's Beth Haram. *Nebo* is qualified *(city)* ahead of Mount Nebo and the god Nebo; Kenath keeps its
+first name so it does not collide with the man Nobah. One Aroer page covers the Transjordan Aroer(s) for
+now. No Amorites page was created, though the people are named here and repeatedly since Genesis 14 — a
+lint candidate. Recorded, not resolved: Numbers 32:34–37 has Gad building Dibon and Aroer and Reuben
+building Heshbon, while Joshua 13:16–17, 25–26 puts Dibon and the Arnon Aroer in Reuben's border and
+Heshbon on both; Havvoth Jair is named by Jair son of Manasseh (Numbers 32:41; Deuteronomy 3:14, Argob,
+Bashan) and by Jair the Gileadite (Judges 10:3–4), with thirty or sixty towns; Gilead is given both to
+Reuben and Gad and to Machir, as Deuteronomy 3:12–16 later divides it. Rashi's readings (children before
+sheep, 32:16; the extra promise, 32:24; idol names changed, 32:38) are recorded as interpretation. The
+Mesha Stele is paraphrased from memory and marked as unchecked.
+
+Growth trigger: the places index now has 159 rows, past the 150-row rule of thumb in `AGENTS.md`. It was
+not split in this ingest; the split into alphabetical subindexes is left for a dedicated pass.
+
+External WEB quotations (Deuteronomy 3:12–20, 32:49, 33:20–21; Joshua 1:12–18, 4:12–13, 13:15–31,
+22:1–9; Judges 5:15–17, 8:11, 10:3–4; 1 Chronicles 5:18–26; Isaiah 46:1) were verified through
+bible-api.com, `translation=web`; nothing was fetched into raw/. Hebrew claims (*miqneh* first in 32:1;
+*tənîʾûn*, ketiv *tnwʾwn*, 32:7, and *wayyānîʾû* 32:9, beside *hēnîʾ* 30:6 and *tənûʾātî* 14:34; *tarbût
+ʾănāšîm ḥaṭṭāʾîm* 32:14; *mēʿēber layyardēn* and *mēʿēber hayyardēn mizrāḥâ* 32:19; *nəqiyyim* and
+*wənikbəšâ* 32:22, with *wəkibšuhā* Genesis 1:28; *ḥaṭṭaʾtkem ʾăšer timṣāʾ ʾetkem* 32:23; *ḥăṣî šēbeṭ
+mənaššeh* 32:33; *wayyibnû* 32:34; *mûsabbōt šēm* 32:38; *ḥawwōtêhem* 32:41; *bənōtêhā* 32:42) were
+checked in Miqra according to the Masorah via the Sefaria API; Rashi in the Rosenbaum and Silbermann
+English on Sefaria.
+
+Frontmatter recount: 320 passages, 242 people, 159 places, 87 themes, 707 connections. Link checks
+clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.

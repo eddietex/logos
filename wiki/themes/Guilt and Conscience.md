@@ -183,6 +183,14 @@ Her guilt is known to her and to God, and to no one else. The law gives no route
 
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+If the eastern tribes cross and fight, they will *be guiltless towards Yahweh, and towards Israel* (22;
+*nəqiyyim*, Miqra according to the Masorah). Guilt here is an unpaid obligation owed to God and to the
+other tribes at once.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -266,6 +274,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Suspected Wife]] — Numbers 5:11–31; hidden guilt, and no confession provided for.
 - [[The Defeat at Hormah]] — Numbers 14:40; *we have sinned*
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:24, 31; hidden from the congregation, and iniquity left on the person
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *guiltless towards Yahweh, and towards Israel* (22).
 
 ## Related themes
 

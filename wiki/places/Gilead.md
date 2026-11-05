@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*The land of Gilead … was a place for livestock* (1). Reuben and Gad ask for it and receive it on condition
+that their armed men cross the Jordan (29). Their families stay *there in the cities of Gilead* (26). The
+children of Machir take Gilead from the Amorites and Moses gives it to Machir (39–40), and Jair takes
+villages in it (41). The chapter gives Gilead both to the two tribes and to Machir; Deuteronomy 3:12–16
+divides it, half to Reuben and Gad and *the rest of Gilead* to Manasseh (WEB via bible-api.com, not yet
+ingested).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 **The highland east of the Jordan**, running roughly from the Yarmuk down to the north end of the
 Dead Sea and split in two by the Jabbok — **the country Israel holds outside the land it was
 promised**, and the first Israelite territory taken in the conquest narratives.
@@ -47,6 +58,8 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
+
 - [[Jacob's Flight from Laban]] — Genesis 31:21, 23, 25, 54; **the chapter's whole stage.** Jacob sets
   his face toward it; Laban overtakes him on it after seven days; both camp on it; the search, the
   lawsuit, the covenant, the sacrifice and the meal all happen on it; and Laban leaves it in the
@@ -85,3 +98,4 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 - A caravan carrying spices, balm, and myrrh sets out from here for Egypt and passes [[Dothan]] — Genesis
   37:25
 - Goats stream down from it in the Song's picture of the woman's hair — Song of Solomon 4:1; 6:5
+- Requested by Reuben and Gad; promised on condition; taken by Machir (1, 26, 29, 39–40). See [[Reuben, Gad, and the Land Beyond the Jordan]].

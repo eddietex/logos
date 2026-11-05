@@ -671,6 +671,15 @@ tents (29:16–38). No sin is named for any of them.
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*Be sure your sin will find you out* (23) — literally *know your sin, which will find you* (*ḥaṭṭaʾtkem ʾăšer
+timṣāʾ ʾetkem*, Miqra according to the Masorah). Sin is personified as something that comes after the one
+who breaks a promise. Moses also calls the two tribes *an increase of sinful men* in their fathers' place
+(14).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -956,6 +965,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:22–31; error set against the high hand
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:15; a male goat for a sin offering at each new month
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11, 16–38; a sin-offering goat at every feast
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *be sure your sin will find you out* (23).
 
 ## Related themes
 

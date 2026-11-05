@@ -333,6 +333,15 @@ release from his own vow, and so none to Jephthah, whose vow was his own (Judges
 See [[Vows of Men and Women]] and
 [[May Yahweh Establish His Word - Numbers 30 and 1 Samuel 1]]. Source: stored WEB Numbers 30.
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Moses recalls Yahweh's oath that the generation of Kadesh would not see the land (10–11), and binds the
+eastern tribes to their own promise: *do that which has proceeded out of your mouth* (24), the language of
+the vow law at 30:2. The promise is not called a vow, but it is made *before Yahweh* and handed to
+witnesses (28).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
@@ -522,6 +531,7 @@ See [[Vows of Men and Women]] and
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 8; a vow as an occasion for sacrifice
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:39; the public calendar *besides your vows*
 - [[Vows of Men and Women]] — Numbers 30:1–16; a man's vow binds, a woman's may be voided by father or husband
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; Yahweh's oath recalled, and a promise held like a vow (10–11, 24).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -434,6 +434,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:33; *the half-tribe of Manasseh the son of Joseph* receives land east of the Jordan.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

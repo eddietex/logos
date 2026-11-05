@@ -8,7 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - [[The People Refuse the Land]] — Numbers 14:24
-- Numbers 32:11–12 — *they have not wholly followed me* *(stored WEB and WLC, not yet ingested)*
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11–12, *they have not wholly followed me* *(stored WEB and
+  WLC)*
 - Deuteronomy 1:36 — *he has wholly followed Yahweh* *(WEB and WLC checked, not yet ingested)*
 - Joshua 14:8, 9, 14 — Caleb's own claim *(WEB and WLC checked, not yet ingested)*
 - 1 Kings 11:6 — Solomon *didn't go fully after Yahweh* *(WEB and WLC checked, not yet ingested)*

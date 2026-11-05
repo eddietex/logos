@@ -163,7 +163,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Numbers 15:39 — *that you don't follow*, the same verb *(stored WEB and WLC, not yet ingested)*
 - Numbers 20:1, 5 — Kadesh in the wilderness of Zin; figs, vines, and pomegranates *(stored WEB, not
   yet ingested)*
-- Numbers 32:8–13 — Moses retells it to Reuben and Gad *(stored WEB, not yet ingested)*
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:8–13, Moses retells it to Reuben and Gad
 - Numbers 33:36 — Kadesh in the wilderness of Zin *(stored WEB, not yet ingested)*
 - Numbers 34:3–4, 8 — Zin, Kadesh, and the entrance of Hamath as borders *(stored WEB, not yet
   ingested)*

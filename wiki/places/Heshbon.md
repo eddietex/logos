@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Named in the request (3) and built by Reuben (37). Sihon's former capital becomes a Reubenite town.
+Joshua 13 names Heshbon in Reuben's border and as the start of Gad's (13:17, 26; WEB via bible-api.com, not
+yet ingested).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### Sihon and Og — Numbers 21:21–35
 
 Sihon’s city and an earlier possession of Moab (25–26). Israel occupies it after defeating him; the
@@ -26,6 +34,8 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
+
 - [[Sihon and Og]] — Numbers 21:21–35.
 
 
@@ -41,3 +51,4 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 
 
 No event at this site is narrated in the ingested Song passage.
+- Requested, and built by Reuben (3, 37). See [[Reuben, Gad, and the Land Beyond the Jordan]].

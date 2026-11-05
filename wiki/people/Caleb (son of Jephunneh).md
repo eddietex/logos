@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Named in Moses' retelling of the oath as *Caleb the son of Jephunneh the Kenizzite* (12; *hakkənizzî*,
+Miqra according to the Masorah), one of the two who *followed Yahweh completely*. This is the verse the
+page already cites for the epithet; see *Whose family he is from* below.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The second census — Numbers 26:1–65
 
 Named with Joshua as the surviving exception to the death of the former military census generation
@@ -66,6 +74,8 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *the Kenizzite*, an exception to the oath (12).
 
 - [[The Second Census]] — Numbers 26:1–65.
 

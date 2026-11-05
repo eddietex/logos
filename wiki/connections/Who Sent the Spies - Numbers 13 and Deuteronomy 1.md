@@ -8,8 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - [[The Twelve Spies]] — Numbers 13:1–3, 25–33
-- Numbers 32:8–9 — *when I sent them from Kadesh Barnea to see the land* *(stored WEB, not yet
-  ingested)*
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:8–9, *when I sent them from Kadesh Barnea to see the
+  land* *(stored WEB)*
 - Deuteronomy 1:19–28 — Moses' retelling *(WEB checked, not yet ingested)*
 - Joshua 14:7–8 — *Moses the servant of Yahweh sent me from Kadesh Barnea* *(WEB checked, not yet
   ingested)*

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+Named twice in the chapter. In Moses' retelling of the oath, he and Caleb are the two who *followed
+Yahweh completely* (12). Then Moses commands *concerning* Reuben and Gad to Eleazar, *Joshua the son of
+Nun*, and the tribal heads (28): Joshua will be the one to hold the eastern tribes to their word. Joshua
+1:12–18 and 22:1–9 show him doing it (WEB via bible-api.com, not yet ingested).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### Commissioned — Numbers 27:12–23
 
 When Moses asks for a man to go out and come in before the congregation, Yahweh names *Joshua the
@@ -118,6 +127,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; an exception to the oath (12), and an executor of the agreement (28).
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; designated by Yahweh and commissioned before Eleazar.
 

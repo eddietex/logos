@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+He hears the request of Reuben and Gad as Kadesh again — *Shall your brothers go to the war, and shall you
+sit here?* (6) — and retells the spies, the oath, and the forty years (7–15). When the tribes offer to go
+armed, he turns the offer into a condition *before Yahweh*, with *be sure your sin will find you out* (20–24),
+reverses their order to *cities for your little ones, and folds for your sheep* (24), and hands the
+agreement to Eleazar, Joshua, and the tribal heads, since he will not cross (28–30). He gives the kingdoms
+of Sihon and Og to Gad, Reuben, and half of Manasseh (33), and Gilead to Machir (40).
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The war against Midian — Numbers 31:1–54
 
 Yahweh commands him to *avenge the children of Israel for the Midianites* and adds, *Afterward you shall be
@@ -1366,6 +1377,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; rebukes the request, binds the eastern tribes to cross, and gives the land.
 
 - [[The War Against Midian]] — Numbers 31:1–54; his last campaign; anger at the officers; the plunder divided.
 - [[Joshua Commissioned]] — Numbers 27:12–23; sentence recalled; asks for a successor and commissions Joshua.

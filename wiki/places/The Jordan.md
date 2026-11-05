@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+*Don't bring us over the Jordan* (5). The two tribes ask to stop on the east bank, and the condition is
+that every armed man *will pass over the Jordan before Yahweh* (21). Verse 19 uses *ʿēber hayyardēn*,
+*across the Jordan*, for both banks in one sentence, the direction set by *eastward* (Miqra according to
+the Masorah). From here on the river is a border within Israel as well as the border of Canaan.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ### The second census — Numbers 26:1–65
 
 The river locates the census camp by Jericho (3, 63); no crossing is narrated.
@@ -71,6 +80,8 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
+
 - [[The War Against Midian]] — Numbers 31:1–54; the plains of Moab *by the Jordan at Jericho* (12).
 
 - [[The Second Census]] — Numbers 26:1–65.
@@ -104,3 +115,4 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 - **[[Lot]] chooses the plain** and travels east — Genesis 13:10–11
 - **[[Jacob]] recalls crossing it westward with a staff**, on the night before Peniel — Genesis 32:10
 - **Seven days of mourning for Jacob** at the threshing floor of Atad, *beyond* it — Genesis 50:10–11
+- Two tribes ask not to cross; the condition is that they will (5, 19, 21, 29, 32). See [[Reuben, Gad, and the Land Beyond the Jordan]].

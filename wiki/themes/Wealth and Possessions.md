@@ -744,6 +744,16 @@ stays with the man who took it (53). The officers give their gold jewellery, 16,
 
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+The request starts from livestock: *a very great multitude of livestock* and *a place for livestock*
+(1, 4). The tribes propose *sheepfolds … for our livestock, and cities for our little ones* (16); Moses gives
+it back as *cities for your little ones, and folds for your sheep* (24). Rashi reads the reversal as a
+rebuke for putting property before children (on 32:16, Sefaria English); the reversal is in the text, the
+rebuke is interpretation.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -1043,6 +1053,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:84–86; equal gifts of silver and gold.
 - [[The War Against Midian]] — Numbers 31:1–54; the plunder halved and levied.
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; livestock as the reason for the request, and Moses' reversed order (1, 16, 24).
 
 ## Related themes
 

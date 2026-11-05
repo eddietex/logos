@@ -431,6 +431,15 @@ children, and Caleb. See [[The People Refuse the Land]].
 One chapter after the sentence, the formula *when you have come into the land* returns unchanged. See
 [[Offerings in the Land and Sins of Ignorance]].
 
+### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
+
+The first tribes to settle do so east of the Jordan, outside what the chapter calls *the land of Canaan*
+(30, 32). Moses gives it as *a possession before Yahweh* (22), but the condition attached treats crossing
+the river as entering *the land which Yahweh has given them* (7, 9). The chapter leaves open whether the
+eastern grant is a full inheritance or something less.
+
+See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
+
 ## Key passages
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land he will not enter.
 
@@ -770,6 +779,7 @@ One chapter after the sentence, the formula *when you have come into the land* r
 - [[The People Refuse the Land]] — Numbers 14:1–38; refused at the border, and postponed forty years
 - [[The Defeat at Hormah]] — Numbers 14:40–45; attempted after refusal
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:2, 18; law for arrival, given to a sentenced people
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; settlement east of the Jordan, outside *the land of Canaan*.
 
 ## Related themes
 

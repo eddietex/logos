@@ -3332,6 +3332,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *struck* the land (4), swore the wilderness sentence (10–11), and is the one *before* whom the tribes cross (20–32).
 - [[Joshua Commissioned]] — Numbers 27:12–23; names Joshua as Moses' successor.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
