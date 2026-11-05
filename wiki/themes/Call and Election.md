@@ -72,6 +72,15 @@ nations is an interpretation of this combination, not an explicit missionary com
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Joshua is designated by Yahweh, not chosen by Moses or by the congregation (18). The one stated
+qualification is *a man in whom is the Spirit*; his record since Exodus 17 is not cited. The
+appointment is made public by commissioning *in their sight* (19).
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 - **Genesis 12:1–4** — the first call. A command with the destination withheld, five blessings, and
   no reason given. The response is reported as a verb and not a speech: *"So Abram went, as Yahweh
   had told him."* See [[The Call of Abram]].
@@ -159,6 +168,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; Joshua designated as Moses' successor.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

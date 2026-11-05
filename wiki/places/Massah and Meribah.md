@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Yahweh recalls Moses' rebellion *at the waters*, and the narrator glosses: *These are the waters
+of Meribah of Kadesh in the wilderness of Zin* (14). The gloss locates this Meribah at Kadesh,
+the site of Numbers 20, rather than at Rephidim (Exodus 17:1, 7).
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Comparison only: [[The Waters of Meribah]] is at Kadesh in Zin (Numbers 20:1–13),
@@ -43,6 +52,8 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 **Its location is Rephidim's**, and not known. See [[Rephidim]].
 
 ## Appears in
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; the Meribah sentence recalled for Moses (14).
 
 - [[The Waters of Meribah]] — Numbers 20:1–13 (comparison with the Kadesh event).
 - [[Water from the Rock]] — Exodus 17:7; **the naming.** *"Because the children of Israel quarreled, and because

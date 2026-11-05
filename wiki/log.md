@@ -21717,3 +21717,31 @@ Frontmatter recount: 314 passages, 236 people, 145 places, 87 themes, 697 connec
 (233 instead of 236); no person pages were created in this pass.
 Link checks passed with 58 expected not-yet-started book targets; no wrapped or unexpected
 dangling links. No unresolved ingestion issue.
+
+## [2026-11-05] ingest | Numbers 27.12-23 — Joshua Commissioned
+
+Ingested one pericope in unattended mode with Claude Code; the discussion is written into the
+passage page. Yahweh repeats the Meribah sentence on Moses, Moses asks for a leader so the
+congregation will not be *as sheep which have no shepherd*, and Joshua is commissioned before
+Eleazar, who will inquire for him by the Urim. Numbers is now 44 / 54; the 27:12–23 boundary and
+the provisional title are unchanged.
+
+Created 4 pages: the passage, the place [[Abarim]], and two connections — the shepherdless-flock
+thread (Numbers 27:17, 1 Kings 22:17, Matthew 9:36, Mark 6:34) and the parallel title *the God of
+the spirits of all flesh* (Numbers 16:22; 27:16). Revised 38 existing pages: the book page and
+books index, six person pages (Joshua, Moses, God, Eleazar, Aaron, Nun), four places, eight themes,
+three existing connections (Meribah's sentence, Urim and Thummim, Hands on the Head), four earlier
+Numbers passages' cross-references, nine indexes and the dashboard, and this log. Judgment calls:
+Abarim gets its own page and is not identified with Iyeabarim; Nun is touched only by patronymic;
+no Joshua–Jesus typology is asserted from the shepherd phrase.
+
+External WEB quotations (Deuteronomy 32:49–50, 34:9; 1 Kings 22:17; Matthew 9:36; Mark 6:34) were
+verified through bible-api.com, `translation=web`; nothing outside raw/ was fetched into raw/.
+Hebrew claims — the shared phrase of 16:22 and 27:16, *rûaḥ* without article at 27:18, singular
+*yādəkā* (18) against plural *yādāyw* (23), *mēhôdəkā* (20), and *hāʾûrîm* without Thummim (21) —
+were checked in Miqra according to the Masorah via the Sefaria API; the partitive reading of
+*mēhôdəkā* is marked as interpretation where it is stated.
+
+Frontmatter recount: 315 passages, 236 people, 146 places, 87 themes, 699 connections. Link checks
+clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
+No unresolved issue.

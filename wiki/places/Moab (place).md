@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Moab is not named in this unit; the setting of Numbers 22–36 is the plains of Moab, and
+Deuteronomy 32:49 later places *this mountain of Abarim* at Nebo *in the land of Moab* (WEB,
+verified; not yet ingested). See [[Abarim]].
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The hearing continues the plains-of-Moab setting supplied by Numbers 26:3, 63. Numbers 27:2
@@ -128,6 +137,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[Joshua Commissioned]] — Numbers 27:12–23; contextual setting; Abarim later placed in Moab.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

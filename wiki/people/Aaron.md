@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Aaron's death is the precedent for Moses': *you also shall be gathered to your people, as Aaron
+your brother was gathered* (13). Both are excluded for the rebellion at Meribah (14; compare
+20:24).
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The second census — Numbers 26:1–65
 
 Named as Eleazar’s father, as Jochebed’s son, and as the priest of the first census (1, 59–64). He
@@ -717,6 +726,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; the precedent for Moses being gathered to his people.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

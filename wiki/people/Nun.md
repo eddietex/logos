@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Named in Joshua's patronymic when Yahweh designates him (18); no action is attributed to Nun.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The second census — Numbers 26:1–65
 
 Named as Joshua’s father in the closing survival notice (65); no action is assigned to Nun.
@@ -24,6 +31,8 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; patronymic only.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

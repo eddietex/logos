@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Named twice in verse 14 as the place of Moses' rebellion: *you rebelled against my word in the
+wilderness of Zin*, and in the narrator's gloss on *Meribah of Kadesh*.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The congregation arrives in the first month and stays at Kadesh (1), where Miriam dies.
@@ -32,6 +40,8 @@ at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for th
 (tags; *not yet ingested*).
 
 ## Appears in
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; named as the place of the rebellion (14).
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Joshua Commissioned]] (27:12–23) restates the Meribah sentence on Moses and answers his request
+for a shepherd over the congregation. Joshua, *a man in whom is the Spirit*, is commissioned before
+Eleazar, who will inquire for him by the Urim; leadership passes without Moses' direct access.
+
+
 [[The Petition of Zelophehad's Daughters]] (27:1–11) turns the census notice of a sonless family
 into a ruling: daughters inherit before paternal collateral relatives when no son survives.
 The public petition is affirmed and becomes a general succession statute.
@@ -214,7 +219,7 @@ merge, or reorder them freely.
 - [x] [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18
 - [x] [[The Second Census]] — Numbers 26:1–65
 - [x] [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11
-- [ ] Joshua Commissioned — Numbers 27:12–23
+- [x] [[Joshua Commissioned]] — Numbers 27:12–23
 - [ ] Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
 - [ ] The Offerings of the Appointed Feasts — Numbers 28:16–29:40
 - [ ] Vows of Men and Women — Numbers 30:1–16
@@ -232,7 +237,7 @@ merge, or reorder them freely.
 
 - [[Wealth and Possessions]] — [[Balaam's Last Oracles]].
 
-- [[The Spirit of God]] — [[Balaam's Last Oracles]].
+- [[The Spirit of God]] — [[Balaam's Last Oracles]]; [[Joshua Commissioned]].
 
 - [[Righteousness]] — [[Balaam's First Two Oracles]].
 
@@ -352,11 +357,13 @@ merge, or reorder them freely.
 - [[Eleazar (son of Aaron)]], [[Ithamar]] — the surviving priests
 - [[Levi]] — the tribe given to Aaron
 - [[Caleb (son of Jephunneh)]] — Judah's spy, who says *we are well able*
-- [[Joshua (son of Nun)]] — Hoshea of Ephraim, called Joshua by Moses
+- [[Joshua (son of Nun)]] — Hoshea of Ephraim, called Joshua by Moses; commissioned as Moses' successor, Numbers 27:12–23
 - [[Miriam]] — speaks against Moses, and is shut out seven days
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Abarim]] — [[Joshua Commissioned]].
 
 - [[Kittim]] — [[Balaam's Last Oracles]].
 

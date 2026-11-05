@@ -115,6 +115,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[Joshua Commissioned]] — Numbers 27:18; Joshua, who objected at 11:28, is *a man in whom is the Spirit*.
 - [[Too Heavy for You Alone - Exodus 18, Numbers 11, and Deuteronomy 1]] — Moses unable to carry Israel alone
 - [[Gift and Judgment - The Two Quail Stories of Exodus 16 and Numbers 11]]
 - [[The Graves of Craving - Numbers 11, Psalms 78 and 106, and 1 Corinthians 10]]

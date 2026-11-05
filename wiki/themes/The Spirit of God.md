@@ -13,6 +13,16 @@ is not yet a full survey of the wiki's earlier books.
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Joshua is *a man in whom is the Spirit* (18). WEB capitalizes; the Hebrew *ʾîš ʾăšer-rûaḥ bô* has
+no article (MAM via Sefaria), so the capital remains a translator's decision. The verse does not say
+when he received it. Moses also addresses *the God of the spirits of all flesh* (16), the plural
+*rûḥōt*; the text does not relate the two uses.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The narrator explicitly attributes Balaam’s oracle to the Spirit coming on him (24:2), after he
@@ -58,6 +68,8 @@ The Spirit comes on Balaam (Numbers 24:2), and Joshua is *a man in whom is the S
 pericopes arrive.
 
 ## Key passages
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; a man in whom is the Spirit (18).
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

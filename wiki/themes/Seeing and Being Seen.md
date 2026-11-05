@@ -44,6 +44,15 @@ without unrestricted access. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Two kinds of seeing frame the unit: Moses is to *see the land* (12–13), and Joshua is commissioned
+*in their sight* (19), set before Eleazar and the whole congregation (22). The first is a private
+view of what he will not enter; the second is a public act meant to secure obedience (20).
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The man who failed to see the angel in Numbers 22 now sees the ordered camp and speaks of open eyes
@@ -358,6 +367,8 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land; Joshua commissioned in Israel's sight.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

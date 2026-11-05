@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+The narrator's gloss names *the waters of Meribah of Kadesh* (14) as the site of the rebellion
+for which Moses will die outside the land.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The death of Aaron — Numbers 20:22–29
 
 Israel departs from Kadesh for Mount Hor (22). The recalled waters of Meribah (24)
@@ -67,6 +75,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; named in the gloss on Meribah (14).
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

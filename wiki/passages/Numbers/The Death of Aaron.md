@@ -64,6 +64,7 @@ WEB, copied from stored Numbers 20:22–29.
 - [[Burial and the Grave]] — communal mourning; no burial procedure is narrated.
 
 ## Cross-references
+- [[Joshua Commissioned]] — Numbers 27:13; Moses to be gathered *as Aaron your brother was gathered*.
 - [[The Waters of Meribah]] — Numbers 20:1–13; the sentence recalled in verse 24.
 - [[Meribah's Sentence and Aaron's Death]] — the charge and its consequence, without inventing Aaron’s separate offense.
 - [[The Ordination of the Priests]] — Exodus 29:29–30; garments for Aaron’s successor.

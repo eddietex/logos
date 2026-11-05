@@ -113,6 +113,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Eleazar becomes the means of guidance for the new leader: Joshua is to stand before him while he
+*inquires for him by the judgment of the Urim before Yahweh* (21). Leadership and priestly inquiry
+are separated in a way they were not under Moses, who spoke with Yahweh directly.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 Priestly service and Levite assistance are gifts with distinct boundaries (1–7).
@@ -587,6 +596,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; Eleazar to inquire by the Urim for Joshua.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

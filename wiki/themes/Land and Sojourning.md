@@ -114,6 +114,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Moses is allowed to see *the land which I have given to the children of Israel* (12) but not to
+enter it. Seeing without possessing is the form his exclusion takes.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 Israel moves from requesting transit to occupying Amorite cities (22–25, 31). The narrator
@@ -424,6 +432,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+- [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land he will not enter.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

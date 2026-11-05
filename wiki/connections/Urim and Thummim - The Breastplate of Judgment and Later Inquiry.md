@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Joshua Commissioned]] — Numbers 27:12–23; now ingested.
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 
 - **Exodus 28:30** — *"You shall put in the breastplate of judgment the Urim and the Thummim;
@@ -77,6 +78,14 @@ no manufacture, material, or procedure of inquiry. The act of placement is verif
 stored WEB and should not become a reconstruction of the objects’ mechanism.
 
 Source for this addition: stored WEB Exodus 28–29 and Leviticus 6–8, checked 2026-10-29.
+
+### Joshua commissioned — Numbers 27:12–23
+
+Numbers 27:21 is now ingested. Joshua is to stand before Eleazar, *who shall inquire for him by the
+judgment of the Urim before Yahweh*. The Hebrew names only *hāʾûrîm*, without the Thummim (Miqra
+according to the Masorah, via Sefaria); *the judgment* (*mišpaṭ*) is the word of the *breastplate of
+judgment*. The verse assigns a function but narrates no inquiry and describes no procedure. See
+[[Joshua Commissioned]]. Source: stored WEB Numbers 27:21.
 
 ## Significance
 

@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Joshua Commissioned]] — Numbers 27:18, 23; now ingested.
 - **Genesis 48:13–14, 17–18** — *"Israel stretched out his right hand, and laid it on Ephraim's head …
   guiding his hands knowingly"* — [[Jacob Blesses Ephraim and Manasseh]]
 - **Genesis 27:21–27** — [[Isaac]] *feels* his son to identify him, and blesses him with a kiss, **not
@@ -89,6 +90,16 @@ and tries to move it** (48:17). **He is refused** (48:19).
 **The gesture's first appearance is therefore also the only one that is contested while it is
 happening**, and the wiki files that as the point: **Genesis introduces the laying on of hands in a
 scene about whose head the hand is on.**
+
+### Joshua commissioned — Numbers 27:12–23
+
+Numbers 27 is now ingested. Yahweh commands *lay your hand on him* (18; singular *yādəkā*), and
+Moses *laid his hands on him* (23; plural *yādāyw*) (MAM via Sefaria; WEB follows both). The act
+accompanies a commissioning before Eleazar and the congregation, and verse 20 adds the giving of
+*authority*. Numbers does not say the gesture transmits the Spirit; Joshua already has *the Spirit*
+in verse 18. Deuteronomy 34:9 later links Moses' hands to Joshua being *full of the spirit of
+wisdom* (WEB, verified; not yet ingested). See [[Joshua Commissioned]]. Source: stored WEB Numbers
+27:18–23.
 
 ## Significance
 

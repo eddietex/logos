@@ -37,6 +37,15 @@ phrase for public worship rather than for petition — see
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Moses' response to the announcement of his death is a petition for others: *Let Yahweh, the God
+of the spirits of all flesh, appoint a man over the congregation* (16). It is answered at once and
+specifically (18).
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### Arad and Hormah — Numbers 21:1–3
 
 Israel addresses Yahweh through a conditional vow and is heard (2–3). The account
@@ -271,6 +280,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; Moses' petition for a successor, answered at once.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

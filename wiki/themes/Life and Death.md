@@ -156,6 +156,15 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Moses is told to see the land and then be gathered to his people *as Aaron your brother was
+gathered* (13). The formula links his coming death to Aaron's (20:24–26). The death itself is not
+narrated in Numbers.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The first two oracles — Numbers 22:36–23:26
 
 Balaam wishes to die the death of the righteous and share Israel’s end (23:10). The wish expresses
@@ -763,6 +772,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; Moses' death announced, *gathered to your people*.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

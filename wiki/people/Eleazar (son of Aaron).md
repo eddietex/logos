@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Joshua is set before Eleazar and the congregation (19, 22), and is to *stand before Eleazar the
+priest, who shall inquire for him by the judgment of the Urim before Yahweh* (21). Eleazar thus
+becomes the channel of guidance for Moses' successor. No inquiry is narrated in this unit.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Eleazar stands with Moses, the princes, and the congregation when the daughters present their
@@ -260,6 +269,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+- [[Joshua Commissioned]] — Numbers 27:12–23; Joshua set before him; inquiry by the Urim assigned to him.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

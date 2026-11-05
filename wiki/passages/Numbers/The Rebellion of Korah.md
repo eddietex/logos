@@ -84,6 +84,7 @@ Copied from stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The God of the Spirits of All Flesh - Numbers 16.22 and 27.16]] — the title of 16:22 reused in 27:16.
 - [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
 - [[Two Memorials Against Rebellion - The Censers and the Budding Rod]]
 - [[Aaron Stands Between the Dead and the Living]] — the next day’s complaint and priestly rescue.

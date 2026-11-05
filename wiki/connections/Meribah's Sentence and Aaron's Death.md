@@ -6,6 +6,7 @@ tags: [connection]
 # Meribah's Sentence and Aaron's Death
 
 ## Passages involved
+- [[Joshua Commissioned]] — Numbers 27:12–14; the sentence recalled for Moses.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 - [[The Death of Aaron]] — Numbers 20:22–29.
 
@@ -21,6 +22,16 @@ The later charge interprets the earlier event, but supplies no separate action b
 Numbers 20:11 describes Moses striking the rock; both leaders receive the verdict in verse
 12. Shared responsibility is explicit, while the precise nature of Aaron’s participation
 remains unstated. The wiki retains both facts.
+
+### Joshua commissioned — Numbers 27:12–23
+
+Numbers 27:12–14 applies the same verdict to Moses. Yahweh tells him he will be *gathered to your
+people, as Aaron your brother was gathered*, *because … you rebelled against my word in the
+wilderness of Zin, to honor me as holy at the waters before their eyes*. The wording joins 20:12
+(*to sanctify me in the eyes of the children of Israel*) with 20:24 (*you rebelled against my
+word*). Moses' death is announced, not narrated; Deuteronomy 32:49–50 repeats the command and
+compares his death to Aaron's on Mount Hor (WEB, verified through bible-api.com; not yet
+ingested). See [[Joshua Commissioned]]. Source: stored WEB Numbers 20 and 27.
 
 ## Significance
 

@@ -74,6 +74,7 @@ WEB, copied from the stored Numbers source.
 
 ## Cross-references
 
+- [[Joshua Commissioned]] — Numbers 27:12–14; the Meribah sentence recalled for Moses.
 - [[From Meribah to Beer - Water and the Gathered People]] — comparison with [[The Journey to Moab]].
 
 

@@ -121,6 +121,16 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Joshua commissioned — Numbers 27:12–23
+
+Told he will not enter, Moses intercedes for the congregation's future rather than for himself
+(15–17). His successor will not have Moses' direct access: Eleazar will inquire for him (21). The
+mediating role is divided between leader and priest. See
+[[The God of the Spirits of All Flesh - Numbers 16.22 and 27.16]].
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Moses directs and Aaron acts for the congregation that has turned against them. Aaron’s
@@ -456,6 +466,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+- [[Joshua Commissioned]] — Numbers 27:12–23; Moses asks for a leader; inquiry passes to Eleazar.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.

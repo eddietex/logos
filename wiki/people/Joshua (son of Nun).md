@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Commissioned — Numbers 27:12–23
+
+When Moses asks for a man to go out and come in before the congregation, Yahweh names *Joshua the
+son of Nun, a man in whom is the Spirit* (18). It is the first verse to say the Spirit is in him; it
+does not say when he received it, and his earlier record is not cited as a reason. Moses sets him
+before Eleazar and the whole congregation, lays his hands on him, and commissions him (22–23). He
+receives some of Moses' *authority* (20; Hebrew *mēhôdəkā*, *from your majesty*, MAM via Sefaria —
+the partitive reading is interpretive), *that all the congregation … may obey*. Unlike Moses, he is to
+*stand before Eleazar the priest*, who will inquire for him by the Urim (21). Joshua says nothing in
+the unit. See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The second census — Numbers 26:1–65
 
 Named with Caleb as the surviving exception to the former military census generation (65). His
@@ -39,14 +51,15 @@ they; how far, the text does not say, and the next time he appears he is coming 
 servant Joshua, the son of Nun, a young man"*, who *"didn't depart from the Tent"* (33:11) — **the first time
 Exodus names his father**. Chapter 32 is ingested in [[The Golden Calf]]; chapter 33 is ingested in
 [[Show Me Your Glory]]. **Numbers and Deuteronomy make him the successor** —
-*"a man in whom is the Spirit"*, on whom Moses lays his hand (Numbers 27:18), *"full of the spirit of
-wisdom; for Moses had laid his hands on him"* (Deuteronomy 34:9) (WEB; *not yet ingested*) — and the book
+*"a man in whom is the Spirit"*, on whom Moses lays his hands (Numbers 27:18, 23; [[Joshua Commissioned]]),
+*"full of the spirit of wisdom; for Moses had laid his hands on him"* (Deuteronomy 34:9; WEB, verified;
+not yet ingested) — and the book
 [[Joshua]] is named for him.
 
 ### What is ahead
 
-The sentence and his survival (Numbers 14); the succession
-(Numbers 27; Deuteronomy 31, 34); and the book of Joshua. These sections are written as their pericopes arrive.
+The succession in Deuteronomy 31 and 34, and the book of Joshua. The sentence and his survival
+(Numbers 14) and the commissioning (Numbers 27) are now ingested below. These sections are written as their pericopes arrive.
 
 ### The golden calf — Exodus 32
 
@@ -96,13 +109,17 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Remains at the outside tent when Moses returns to the camp (33:11) — [[Show Me Your Glory]]
 - Asks Moses to stop Eldad and Medad, and is corrected (Numbers 11:28–29) — [[The Seventy Elders and the Quail]]
 - Hoshea of Ephraim, one of the twelve sent, is called Joshua by Moses (Numbers 13:8, 16) — [[The Twelve Spies]]
-- *(ahead)* Commissioned as Moses' successor (Numbers 27:18–23; Deuteronomy 31; 34:9)
+- Designated by Yahweh and commissioned by Moses before Eleazar and the congregation — Numbers
+  27:18–23, [[Joshua Commissioned]]
+- *(ahead)* Charged again and installed (Deuteronomy 31; 34:9)
 
 - Exodus 32 — Hears the camp’s celebration as the noise of war (32:17–18). [[The Golden Calf]]
 - Tears his clothes and pleads; named as one of the two who will enter — Numbers 14:6–9, 30, 38,
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Joshua Commissioned]] — Numbers 27:12–23; designated by Yahweh and commissioned before Eleazar.
 
 - [[The Second Census]] — Numbers 26:1–65.
 
@@ -136,6 +153,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - [[The Ten Spies]] — the men sent with him
 
 ## Themes associated
+
+- [[The Spirit of God]]
 
 - [[War]]
 - [[Names and Naming]]

@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Yahweh tells Moses to go up into the mountain of Abarim and see the land, then be gathered to
+his people as Aaron was, because he rebelled at the waters of Meribah (12–14). His recorded reply
+is a request: that *the God of the spirits of all flesh* appoint a man over the congregation, so
+that it will not be *as sheep which have no shepherd* (16–17). He does as commanded, and lays not
+one hand but both hands on Joshua (23; Yahweh had said *your hand*, 18). His death is announced,
+not narrated; the text records no protest here.
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Moses brings the daughters' case before Yahweh (5), then receives both the favorable judgment and
@@ -1319,6 +1331,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[Joshua Commissioned]] — Numbers 27:12–23; sentence recalled; asks for a successor and commissions Joshua.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

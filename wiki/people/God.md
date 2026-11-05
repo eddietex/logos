@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Joshua commissioned — Numbers 27:12–23
+
+Yahweh repeats the Meribah sentence on Moses (12–14), then answers Moses' request by naming
+Joshua, *a man in whom is the Spirit* (18), and prescribing a public commissioning before Eleazar
+and the congregation (19–21). Moses addresses him as *the God of the spirits of all flesh* (16), the
+title used in Numbers 16:22. Guidance after Moses is to come through inquiry by the Urim (21).
+
+See [[Joshua Commissioned]]. Source: stored WEB Numbers 27:12–23.
+
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Yahweh affirms the daughters' claim and commands that their father's inheritance pass to them
@@ -3296,6 +3306,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Joshua Commissioned]] — Numbers 27:12–23; names Joshua as Moses' successor.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
