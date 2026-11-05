@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The sentence falls on both leaders: they will not bring the assembly into the given
+land (12). No death penalty is executed within this unit, and no punishment of Miriam
+is stated. Water for the people and judgment of leaders occur together.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The earth swallows the rebels and households; fire consumes 250 incense offerers (27–35).
@@ -665,6 +673,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

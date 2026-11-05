@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Waters of Meribah]] (20:1–13) records Miriam’s death at Kadesh and a water crisis.
+Water is supplied, but Moses and Aaron are barred from bringing Israel into the land
+for failing to believe and sanctify Yahweh before the people.
+
 [[The Red Heifer]] (19:1–22) supplies purification from human-death contamination:
 stored ashes and water restore cleanness, while refusal of purification defiles the sanctuary.
 The rite’s preparers themselves undergo temporary uncleanness.
@@ -140,7 +144,7 @@ merge, or reorder them freely.
 - [x] [[Aaron's Rod Buds]] — Numbers 17:1–13
 - [x] [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32
 - [x] [[The Red Heifer]] — Numbers 19:1–22
-- [ ] The Waters of Meribah — Numbers 20:1–13
+- [x] [[The Waters of Meribah]] — Numbers 20:1–13
 - [ ] Edom Refuses Passage — Numbers 20:14–21
 - [ ] The Death of Aaron — Numbers 20:22–29
 - [ ] Arad and Hormah — Numbers 21:1–3

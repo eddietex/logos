@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Miriam dies and is buried at Kadesh (1). No funeral speech, mourning period, age,
+or burial agent is supplied. The brief notice should not acquire details from other
+biblical death accounts.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 What the living do with the dead, and why Scripture treats it as a claim rather than a disposal.
 
 **The theme starts late.** Genesis reports a great many deaths before it reports a single burial.
@@ -132,6 +140,8 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; The everlasting home, mourners, and return to
   earth.

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Aaron joins Moses before the Tent and at the assembly before the rock (6, 10).
+The narrative assigns the striking to Moses, but Yahweh addresses the sentence to both
+men (12): neither will bring this assembly into the land. Aaron’s separate act of wrongdoing
+is not described; his silence must not be filled with an invented speech or blow.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The red heifer — Numbers 19:1–22
 
 Aaron receives the statute alongside Moses (1), but Eleazar is the priest specifically
@@ -683,6 +692,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The congregation and livestock receive abundant water despite the quarrel and the
+leaders’ failure (8–12). This is overt divine provision rather than the hidden governance
+described in this page’s Joseph-cycle synthesis; provision does not imply approval.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 **Providence is Genesis's claim that God is running events he is not visibly present in.**
 
 The book has two modes for divine action and they do not overlap. In the first, **God appears**: he
@@ -374,6 +382,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Cast Your Bread on the Waters]] — Ecclesiastes 11:1–6; the work of God who does all, known only as unknown (11:5).
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Miriam dies and is buried at Kadesh (1). The verse gives neither her age nor the cause
+of death and does not connect her death causally to the following shortage of water.
+Her earlier restoration in Numbers 12 did not promise exemption from mortality.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 **The sister of Moses and Aaron, who first appears unnamed — standing far off to watch what will be
 done to her brother — and speaks one sentence that saves him.** In Exodus 2:1–10 she is only *"his
 sister"* (2:4, 7) and *"the young woman"*, *hāʿalmâ* (2:8). The name *Miriam* first appears at the
@@ -53,8 +61,8 @@ recorded words and actions. See [[Miriam and Aaron Against Moses]] and [[Remembe
 
 ### What is ahead
 
-She dies at Kadesh
-(Numbers 20:1); Deuteronomy 24:9 tells Israel to remember what Yahweh did to her; and Micah names her with her brothers among the leaders God sent: *"I sent before you
+Her death at Kadesh is now ingested in [[The Waters of Meribah]] (Numbers 20:1).
+Looking ahead, Deuteronomy 24:9 tells Israel to remember what Yahweh did to her; and Micah names her with her brothers among the leaders God sent: *"I sent before you
 Moses, Aaron, and Miriam"* (Micah 6:4). These sections are written as their pericopes arrive.
 
 **She is not in the genealogy of 6:14–27.** Amram and Jochebed's children are given as *"Aaron and
@@ -68,9 +76,11 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - Named *"the prophetess"*; leads the women with tambourine and dance, and answers with the refrain —
   Exodus 15:20–21, [[The Song of the Sea]]
 - Speaks against Moses with Aaron; struck with leprosy; shut out seven days — Numbers 12, [[Miriam and Aaron Against Moses]]
-- *(ahead)* Dies at Kadesh — Numbers 20:1
+- Dies and is buried at Kadesh — Numbers 20:1, [[The Waters of Meribah]]
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Birth of Moses]] — Exodus 2:4, 7–8; **unnamed**, *"his sister"* and *"the young woman"*;
   the watch at a distance and the one sentence

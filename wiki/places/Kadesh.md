@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The congregation stays here in the wilderness of Zin; Miriam dies and is buried here (1).
+The water crisis ends in abundant provision and the sentence against Moses and Aaron (2–13).
+This is the Kadesh Meribah, distinct from the Rephidim site in Exodus 17. The wiki continues
+to record these waters here, as established on [[Massah and Meribah]].
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 The great oasis at the southern edge of the land — the place Israel spends most of the wilderness
 years, and where nearly everything that goes wrong on the way to Canaan goes wrong.
 
@@ -43,6 +52,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Abraham and Abimelech]] — Genesis 20:1; the eastern marker of where Abraham settles after Sodom
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:7, as *En Mishpat*, on the coalition's route

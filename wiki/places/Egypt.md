@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Egypt is the land the people blame their leaders for leaving (5), not the setting
+of the episode. Their complaint contrasts departure with a place lacking crops and water;
+it is the congregation’s accusation, not the narrator’s judgment on the exodus.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Dathan and Abiram describe the land Moses brought them from as a land flowing with milk and honey
@@ -220,6 +228,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

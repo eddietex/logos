@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Miriam’s actual death (1) precedes the congregation’s wish to have died and its fear
+of dying with the animals (3–4). The water preserves the living (11); it neither reverses
+Miriam’s death nor removes the sentence against the leaders.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The red heifer — Numbers 19:1–22
 
 Death affects the living through contact with a corpse, bone, grave, or death-tent
@@ -717,6 +725,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

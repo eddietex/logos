@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The lack of water is real (2), but the people turn it into an accusation against the
+exodus and its leaders (3–5). Verse 13 identifies their quarrel as contention with Yahweh.
+The warning intended to end complaints in Numbers 17:10 has not ended resistance.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The budding rod — Numbers 17:1–13
 
 The sign is intended to end complaints against Moses and Aaron, which Yahweh treats as directed
@@ -134,6 +142,8 @@ applies, since Moses does not redirect anyone. Verse 36 adds a new form, a leade
 murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

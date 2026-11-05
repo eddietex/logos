@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Yahweh’s glory appears to Moses and Aaron when they fall on their faces at the Tent
+(6). It precedes the command to provide water; the manifestation does not guarantee
+that the leaders will obey the instruction that follows.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Glory appears to the congregation gathered by Korah (19), preceding the threat of destruction and
@@ -191,6 +199,8 @@ makes having seen it the ground of the charge (22). See
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Moses and Aaron withdraw from the assembly to fall before Yahweh (6); no spoken
+petition is recorded. They mediate water to the people but themselves receive judgment
+(8–12). The mediators remain accountable to the God whose command they convey.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Moses and Aaron plead that one man’s sin should not entail anger against the entire congregation
@@ -425,6 +433,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

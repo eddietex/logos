@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Comparison only: [[The Waters of Meribah]] is at Kadesh in Zin (Numbers 20:1–13),
+not at this Exodus 17 site. Both narratives join quarrelling and water from rock, but
+the commands and the judgment on the leaders differ. The second site remains filed under
+[[Kadesh]], with no merger of the two places.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 **The name given to the place at Rephidim where water came out of the rock — two names, both for what the
 people did**: *"He called the name of the place Massah, and Meribah, because the children of Israel quarreled,
 and because they tested Yahweh, saying, 'Is Yahweh among us, or not?'"* (Exodus 17:7). ***Massâ*** is from
@@ -34,6 +43,8 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 **Its location is Rephidim's**, and not known. See [[Rephidim]].
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13 (comparison with the Kadesh event).
 - [[Water from the Rock]] — Exodus 17:7; **the naming.** *"Because the children of Israel quarreled, and because
   they tested Yahweh"*
 - [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]] — the later uses of the name

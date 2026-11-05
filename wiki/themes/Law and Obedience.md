@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Taking the rod is explicitly obedient (9); striking the rock twice (11) differs from
+the command to speak to it (8). Exodus 17:6 had commanded striking in a different event.
+Earlier authorization does not replace the present instruction.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The red heifer — Numbers 19:1–22
 
 The perpetual statute extends to Israel and the resident foreigner (10). Failure to
@@ -925,6 +933,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

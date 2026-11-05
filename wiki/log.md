@@ -21317,3 +21317,32 @@ bible-api.com’s WEB endpoint on this date and paraphrased in its connection;
 no additional raw book was fetched. Link checks passed with 58 expected
 not-yet-started book targets and no wrapped or unexpected dangling links.
 Authored by Codex. No unresolved issue.
+
+
+## [2026-11-04] ingest | Numbers 20.1-13 — The Waters of Meribah
+
+Ingested [[The Waters of Meribah]] in unattended mode using Codex. The planned boundary
+is unchanged; Numbers now stands at 30 / 54 pericopes. Miriam dies at Kadesh; the water
+crisis ends in abundant provision and the sentence against Moses and Aaron.
+
+Created 1 passage page; revised 23 existing content pages: the Numbers book, the earlier
+Exodus passage, 3 people, 5 places (including the comparison-only Massah and Meribah),
+12 themes, and 1 existing connection. Updated 7 index/dashboard files and this log
+(1 new and 31 revised wiki files overall). Counts by frontmatter: 301 passages,
+215 people, 113 places, 87 themes, 679 connections; 8 books started, 7 complete.
+
+Kept Kadesh as the existing home for the second Meribah; no duplicate place was created.
+Retained the distinction between the leaders’ failure to sanctify Yahweh (20:12) and his
+being sanctified there (20:13), and the geographic tension between Paran and Zin. No
+specific separate offense was invented for Aaron. The rod’s identity and the exact year
+remain unspecified by this unit. Removed stale future-ingestion wording for Miriam’s death.
+
+Expanded [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]
+and explicitly corrected its former one-blow claim and exact interval: neither detail
+is supplied by the two cited pericopes. New quotations were copied directly from stored
+WEB Numbers 20; the Exodus comparison was checked against stored WEB Exodus 17. No new
+quotation from an unstored book or new Hebrew/Greek claim was introduced. Raw files and
+workflow instructions were unchanged.
+
+Validation: scripts/link-check.sh passed with no wrapped or dangling links; the expected
+baseline is 58 not-yet-started book pages. No title collision or unresolved ingest blocker.

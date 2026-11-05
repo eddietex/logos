@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The land is unnamed in verse 12 but is the promised destination in the book’s context.
+Yahweh describes it as given to the congregation while denying Moses and Aaron the role
+of bringing them into it. The leaders’ exclusion does not cancel the gift to Israel.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The promised land is the unnamed, unreceived inheritance of fields and vineyards in Dathan and
@@ -204,6 +212,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

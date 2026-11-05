@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The congregation protests the absence of seed, figs, vines, pomegranates, and water
+(5). Yahweh still describes the land as given to them (12), while excluding the two
+leaders from bringing them in. Promised inheritance and individual exclusion coexist.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The promised inheritance becomes an accusation against Moses (13–14). The opponents call the land
@@ -358,6 +366,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

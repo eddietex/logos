@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Moses takes the rod as commanded, gathers the people with Aaron, addresses them as rebels,
+and strikes the rock twice (9–11). Water comes abundantly, yet Yahweh judges both leaders
+for unbelief and failure to sanctify him before Israel (12). The successful provision does
+not certify Moses’ obedience. The command was to speak to the rock (8).
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The red heifer — Numbers 19:1–22
 
 Moses receives the statute together with Aaron and is to communicate the required heifer
@@ -638,7 +647,7 @@ him to walk in front of them**, with the elders, carrying *"the rod … with whi
 — **the striking credited to him**, though at 7:19 the rod was Aaron's to stretch out. He strikes the rock God
 stands on, *"in the sight of the elders of Israel"*, and the place is named *Massah* and *Meribah* (17:7).
 **Numbers 20 repeats the scene at Kadesh, and there striking the rock costs him the land** (Numbers 20:8–12;
-WEB; *not yet ingested*). See [[Water from the Rock]] and
+WEB; now ingested as [[The Waters of Meribah]]). See [[Water from the Rock]] and
 [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]].
 
 **In the same camp he fights his first battle, and fights it with his hands.** *"Then Amalek came"* (17:8), and
@@ -1244,6 +1253,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

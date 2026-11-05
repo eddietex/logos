@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Zin and Kadesh frame a fresh lack of water (1–5). The people contrast wilderness
+conditions with cultivated life, but the lack is met without their entering the land.
+The first month is specified; the year is not specified in this pericope.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The budding rod — Numbers 17:1–13
 
 The sign takes place at the Tent in the continuing wilderness narrative, with no new campsite
@@ -126,6 +134,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

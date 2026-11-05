@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The congregation arrives in the first month and stays at Kadesh (1), where Miriam dies.
+The verse supplies no year. Numbers 13:26 locates Kadesh in Paran; this geographic tension
+remains explicit, without imposing an unprovided boundary between the wildernesses.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 The southern edge of the land. Numbers 13:21 gives it as the start of the search, *from the
 wilderness of Zin to Rehob*. It is *ṣin* (6790 in the tags), not the *sîn* of
 [[The Wilderness of Sin]] (5512), which lies on the far side of Sinai. Rahlfs writes both alike
@@ -25,6 +33,8 @@ at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for th
 
 ## Appears in
 
+- [[The Waters of Meribah]] — Numbers 20:1–13.
+
 - [[The Twelve Spies]] — Numbers 13:21; the southern limit of the search
 
 ## Related places
@@ -38,4 +48,4 @@ at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for th
 ## Events here
 
 - The spies begin the search here — Numbers 13:21
-- *(ahead)* Miriam dies at Kadesh, in this wilderness — Numbers 20:1
+- Miriam dies at Kadesh, in this wilderness — Numbers 20:1

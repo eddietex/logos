@@ -296,6 +296,9 @@ usual candidates) the verse does not say.
 - [[Hardening of the Heart]]
 
 ## Cross-references
+
+- [[The Waters of Meribah]] — Numbers 20:1–13; now ingested. At Kadesh the command is to speak,
+  Moses strikes twice, and both leaders receive a sentence excluding them from leading Israel in.
 - Genesis 26:20–22 — *"The herdsmen of Gerar argued with Isaac's herdsmen, saying, 'The water is ours'"* — the
   first *rîb* — [[Isaac in Gerar]]
 - Genesis 31:36 — *"Jacob was angry, and argued with Laban"* — [[Jacob's Flight from Laban]]

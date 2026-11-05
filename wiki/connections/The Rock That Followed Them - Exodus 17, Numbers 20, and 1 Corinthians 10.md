@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Waters of Meribah]] — Numbers 20:1–13, now ingested from the stored WEB source.
+
 - **Exodus 17:5–6** — *"Behold, I will stand before you there on the rock in Horeb. You shall strike the rock,
   and water will come out of it, that the people may drink."* — [[Water from the Rock]]
 - **Numbers 20:2–13** — at Kadesh: *"speak to the rock before their eyes, that it pour out its water"*; *"Moses
   lifted up his hand, and struck the rock with his rod twice, and water came out abundantly"*; *"Because you
   didn't believe in me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring
-  this assembly into the land"*; *"These are the waters of Meribah"* (WEB, 20:8, 11–13) *(not yet ingested)*
+  this assembly into the land"*; *"These are the waters of Meribah"* (WEB, 20:8, 11–13; checked against stored Numbers)
 - **Deuteronomy 8:15** — *"who poured water for you out of the rock of flint"* (WEB) *(not yet ingested)*
 - **Deuteronomy 32:4** — *"The Rock: his work is perfect"* (by reference) *(not yet ingested)*
 - **Psalm 78:15–16, 20** — *"He split rocks in the wilderness … He brought streams also out of the rock"*;
@@ -26,8 +28,21 @@ tags: [connection]
 
 ## Analysis
 
-**Two stories, forty years apart in the narrative, both ending in a place called Meribah.** In Exodus 17 the
-people quarrel at Rephidim, God says *strike*, Moses strikes once, and no one is punished. In Numbers 20 the
+### The Kadesh account now ingested
+
+[[The Waters of Meribah]] distinguishes the abundant gift of water from approval of the leaders.
+Both Moses and Aaron receive the sentence, although only Moses is narrated striking.
+Verse 12 charges failure to sanctify Yahweh; verse 13 affirms that he was sanctified there.
+The two statements concern different agents and must be retained together.
+
+**Correction to the earlier synthesis:** this page formerly specified one blow in Exodus
+and an exact forty-year interval. Stored WEB Exodus 17:6 gives obedience without a blow
+count; Numbers 20:1 supplies a month without a year. Those earlier details exceeded the
+evidence of the cited units and have been removed.
+
+
+**Two wilderness stories, both ending in a place called Meribah.** Numbers 20:1 gives a month but no year; the precise interval is not supplied by these two units alone. In Exodus 17 the
+people quarrel at Rephidim, God says *strike*, Moses strikes as commanded (the number of blows is not specified), and no one is punished. In Numbers 20 the
 people quarrel at Kadesh, God says *"speak to the rock"*, Moses says *"Hear now, you rebels! Shall we bring
 water out of this rock for you?"* and strikes it twice — and he and Aaron are told they will not bring the
 assembly into the land.
@@ -85,7 +100,7 @@ manna.
 
 ## Significance
 
-**The rock is struck once and obeyed, then struck twice and disobeyed, and Scripture remembers both.** Exodus 17
+**Striking obeys the command in Exodus 17; the two blows in Numbers 20 follow a command to speak.** Exodus 17
 gives the wilderness its first picture of God providing out of what cannot provide — water from stone, on the
 rock where he stood. Numbers 20 makes the same act the reason the lawgiver does not enter the land. Deuteronomy
 makes *the Rock* a name of God; Paul makes the rock Christ. **The thread runs from a camp with no water to a

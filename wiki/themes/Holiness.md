@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+The leaders fail to sanctify Yahweh before Israel (12), yet the narrator concludes
+that he was sanctified in the waters (13). These are distinct assertions: their failure
+to honor him does not prevent his holiness being manifested in the outcome.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 ### The red heifer — Numbers 19:1–22
 
 Failure to purify corpse impurity is said to defile the tabernacle and sanctuary
@@ -651,6 +659,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

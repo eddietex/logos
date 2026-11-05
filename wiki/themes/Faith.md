@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The waters of Meribah — Numbers 20:1–13
+
+Yahweh’s verdict names the leaders’ failure to believe in him (12), despite their
+receiving the command and producing water. This tests any equation of visible success
+with faithful action: the water is abundant while the leaders are judged.
+
+See [[The Waters of Meribah]]. Source: stored WEB Numbers 20:1–13.
+
 Leaning your weight on someone and finding they hold.
 
 The Hebrew root is **ʾ-m-n**, whose basic physical sense is *firmness* — a nursing father carrying a
@@ -218,6 +226,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[The Waters of Meribah]] — Numbers 20:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 
