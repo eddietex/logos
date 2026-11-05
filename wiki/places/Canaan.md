@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The king of Arad lives in the South in Canaan (40). Israel’s final camp remains across the Jordan.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 If Reuben and Gad will not cross armed, *they shall have possessions among you in the land of Canaan*
@@ -175,7 +181,7 @@ footing as Japheth and Shem. The moral partition of 9:25–27 and the geographic
 **The first time anyone goes there.** Genesis 11:31 is the land's first appearance as a
 destination rather than a territory: *"They went from Ur of the Chaldees, **to go into the land of
 Canaan**. They came to Haran and lived there."* Every previous mention placed it, drew its border,
-or cursed the man it is named for; here somebody sets out for it — and it is [[Terah]], not Abram,
+or cursed the man it is named for; here somebody sets out for it — and it is [[Terah (person)]], not Abram,
 and he does not arrive. The land enters the story as a place a family failed to reach. See
 [[From Shem to Abram]] and [[Land and Sojourning]].
 
@@ -244,6 +250,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
@@ -479,7 +487,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 - The eleven Canaanite peoples spread abroad, and their border is fixed — Genesis 10:18–19,
   [[The Table of Nations]]
-- Named as [[Terah]]'s destination, and not reached — Genesis 11:31, [[From Shem to Abram]]
+- Named as [[Terah (person)]]'s destination, and not reached — Genesis 11:31, [[From Shem to Abram]]
 - Abram enters it and passes through it, from Shechem to the Negev — Genesis 12:5–9,
   [[The Call of Abram]]
 - Promised to Abram's offspring at the oak of Moreh — Genesis 12:7, [[The Call of Abram]]

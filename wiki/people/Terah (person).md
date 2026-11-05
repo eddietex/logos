@@ -3,7 +3,7 @@ type: person
 also_known_as: [Thara]
 tags: [person]
 ---
-# Terah
+# Terah (person)
 
 ## Overview
 

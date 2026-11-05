@@ -7,12 +7,20 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Numbers 33:44–45 uses Iye Abarim and then Iyim for the stage between Oboth and Dibon Gad, on Moab’s border. These forms are filed with Iyeabarim of Numbers 21:11; that account continues to Zered, so the lists should not be silently flattened.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 Camp in the wilderness east of Moab, reached from Oboth and left for the valley of Zered (11–12).
 The WEB spelling is retained; no modern site is assigned.
 
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 - [[The Journey to Moab]] — Numbers 21:10–20
 
 ## Related places

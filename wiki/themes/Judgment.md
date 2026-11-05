@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Egypt’s firstborn are struck and its gods judged (4). Aaron’s commanded death is recalled (38); its Meribah rationale is supplied by Numbers 20:24, not repeated here.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The second census — Numbers 26:1–65
 
 The register remembers rebellion, strange fire, and the death of the earlier census generation
@@ -728,6 +734,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

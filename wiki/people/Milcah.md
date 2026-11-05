@@ -70,7 +70,7 @@ related to her and whose case establishes daughters' inheritance rights in Israe
 - [[Nahor (brother of Abram)]] — her husband and her uncle
 - [[Lot]] — her brother
 - [[Iscah]] — her sister
-- [[Terah]] — her grandfather and her father-in-law
+- [[Terah (person)]] — her grandfather and her father-in-law
 - [[Sarah]] — her sister-in-law, named beside her in the verse that gives her a father and Sarai none;
   and the unstated other half of *"Milcah, **she also** has borne children"* (22:20), four verses
   before Sarah's death notice

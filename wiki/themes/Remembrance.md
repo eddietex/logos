@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The journey is preserved as a written record attributed to Moses at Yahweh’s command (2). Selective notices of departure, water, and Aaron’s death punctuate repeated travel stages.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The second census — Numbers 26:1–65
 
 Genealogical entries preserve warnings about Dathan, Abiram, Korah, Nadab, and Abihu, as well as
@@ -450,6 +456,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

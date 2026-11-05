@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Pihahiroth]] and before [[Elim]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The first camp after the sea, three days into the wilderness, named for its water.**
 
 > **23** When they came to Marah, they couldn't drink from the waters of Marah, for they were bitter.
@@ -18,7 +24,7 @@ impersonal naming formula of Genesis (*ʿal-kēn qārāʾ šəmāh*, as at Babel
 
 **The water was made sweet, and the name stayed.** Moses cried to Yahweh, was shown a tree, threw it into
 the water, and *"the waters were made sweet"* (15:25). Numbers 33:8–9 keeps the place in the itinerary —
-*"encamped in Marah. They traveled from Marah, and came to Elim"* (WEB; *not yet ingested*) — and does not
+*"encamped in Marah. They traveled from Marah, and came to Elim"* (WEB) — and does not
 mention the sweetening. **The place is remembered for the problem, not the solution.**
 
 **It is also where Israel's first statute after the sea was given and its first test set**: *"There he
@@ -36,6 +42,8 @@ bitterly with me"* (Ruth 1:20; WEB; *not yet ingested*). The WLC spells her *Mā
 and files it under a separate number from the place; the meaning is the same.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Bitter Water at Marah]] — Exodus 15:23–26; **the bitter water, the complaint, the tree, the sweet
   water, the statute, the test, and *"I am Yahweh who heals you"***
@@ -56,4 +64,4 @@ and files it under a separate number from the place; the meaning is the same.
   the tree he is shown, and the water is made sweet — Exodus 15:23–25
 - Yahweh makes *"a statute and an ordinance"*, tests the people, and names himself *"Yahweh who heals you"*
   — Exodus 15:25–26
-- *Ahead*: the itinerary's stage — Numbers 33:8–9
+- Itinerary: the itinerary's stage — Numbers 33:8–9

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The departure on the day after Passover is public, while Egypt buries its firstborn (3–4). The journey begins with deliverance rather than with Israel’s conquest of Canaan.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 Getting back, by right or by price, what belongs to you and has passed out of your hands — a person, a
 field, a life. **The Torah uses two verbs for it, and the wiki has now met both.** (Both checked in the WLC.)
 
@@ -230,6 +236,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+His hearing of Israel’s arrival is recalled (40). Numbers 21:1–3 supplies the attack and victory omitted from this brief itinerary notice.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 The unnamed Canaanite king associated with [[Arad]], living in [[The Negev]].
 He attacks Israel after hearing of its approach by [[Atharim]] and takes captives
 (Numbers 21:1). The subsequent defeat is told of the Canaanites collectively; the text
@@ -18,6 +24,8 @@ not a proposed historical identity.
 - Attacks Israel and takes captives; Israel vows to Yahweh and defeats his people (21:1–3).
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

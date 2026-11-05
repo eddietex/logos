@@ -18,7 +18,7 @@ sentence is why the genealogy exists.** Everything in front of it is the road to
 
 **His position in the family is worth stating carefully**, because Genesis will lean on it. He is the
 son of [[Nahor (brother of Abram)]] and [[Milcah]], and Milcah is [[Haran (son of Terah)]]'s
-daughter — so both his parents are [[Terah]]'s descendants, and he is [[Abraham]]'s nephew twice
+daughter — so both his parents are [[Terah (person)]]'s descendants, and he is [[Abraham]]'s nephew twice
 over. His daughter [[Rebekah]] is therefore Abraham's great-niece, and when Abraham sends his
 servant *"to my country, and to my relatives"* (24:4) for a wife for [[Isaac]], the servant is being
 sent to Bethuel's house. Bethuel's son Laban then supplies both of Jacob's wives a generation later.
@@ -85,7 +85,7 @@ follow too.
 - [[Nahor (brother of Abram)]] — his father
 - [[Milcah]] — his mother
 - [[Rebekah]] — his daughter, and Isaac's wife
-- [[Terah]] — his great-grandfather on one side and his grandfather's father on the other
+- [[Terah (person)]] — his great-grandfather on one side and his grandfather's father on the other
 - [[Abraham]] — his uncle, and his daughter's father-in-law
 - [[Isaac]] — his son-in-law
 - [[Laban]] — his son, who answers before him at 24:50 and takes the gifts at 24:53

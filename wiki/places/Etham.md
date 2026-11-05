@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The name denotes both the camp before the turn toward the sea (6–7) and the wilderness traversed afterward (8). Exodus 15:22 calls that wilderness Shur; the different names remain explicit, without a forced geographical reconciliation.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The second camp of the exodus, *"in the edge of the wilderness"*.**
 
 > **20** They took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
@@ -17,7 +23,7 @@ before God turns the people back toward the sea** (14:2), and it is the point at
 and fire is first described (13:21–22). Numbers 33:6–8 repeats the stage in the same words — *"They
 traveled from Succoth, and encamped in Etham, which is in the edge of the wilderness"* — and adds that after
 the crossing Israel *"went three days' journey in the wilderness of Etham, and encamped in Marah"* (WEB;
-WLC; *not yet ingested*). **So *Etham* names both a camp on the Egyptian side and a wilderness on the
+WLC). **So *Etham* names both a camp on the Egyptian side and a wilderness on the
 other.** Exodus 15:22 calls the wilderness after the crossing *"the wilderness of Shur"*; the two names for
 it stand in two books, and the wiki records both without harmonizing. See [[Shur]].
 
@@ -26,6 +32,8 @@ and before [[Pihahiroth]]. Identifications with an Egyptian frontier term or for
 they are reported, not checked in this pass, and none is adopted.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Crossing of the Sea]] — Exodus 13:20; **the camp at the edge of the wilderness**, where the pillar
   of cloud and fire is first described

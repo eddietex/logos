@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The Egyptians are burying the firstborn when Israel departs (4). Aaron’s death is recorded later (38–39), but no burial procedure is described.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The death of Aaron — Numbers 20:22–29
 
 Israel weeps for Aaron thirty days (29). Unlike Miriam’s notice in Numbers 20:1,
@@ -148,6 +154,8 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

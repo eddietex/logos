@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Horeb]] and before [[Hazeroth]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 *The graves of craving*. The stop where the quail fell and the plague struck: *"The name of that place was called Kibroth
 Hattaavah, because there they buried the people who lusted"* (Numbers 11:34). *Qibrôt* is *graves*, and *hattaʾăwâ* is the noun
 of verse 4 (WLC). Rahlfs's Greek translates the name, *μνήματα τῆς ἐπιθυμίας*.
@@ -20,6 +26,8 @@ named for a judgment. The name is used in Numbers 11:34–35 and 33:16–17, and
 Deuteronomy 9:22 (tags): *"At Taberah, and at Massah, and at Kibroth Hattaavah, you provoked Yahweh to wrath."*
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Seventy Elders and the Quail]] — Numbers 11:34–35; the plague, the burial, and the name
 

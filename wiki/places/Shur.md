@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Comparison with Numbers 33
+
+Exodus 15:22 names Shur for the three-day journey after the sea; Numbers 33:8 names Etham. Both descriptions are retained without asserting that the regions are identical.
+
+See [[The Stages of the Journey]].
+
 The desert frontier between Canaan and Egypt, and in the Bible always a direction rather than a
 destination — the place you are *on the way to* when you are leaving one country for the other.
 
@@ -56,6 +62,8 @@ stretch *"the wilderness of Etham"* (WEB; *not yet ingested*); the wiki records 
 [[Bitter Water at Marah]] and [[Etham]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49, comparison rather than an explicit identification.
 
 - [[Hagar and Ishmael]] — Genesis 16:7; the road Hagar is on when the angel finds her, and the
   chapter's evidence that she is going back to Egypt

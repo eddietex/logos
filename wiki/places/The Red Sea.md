@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Elim]] and before [[The Wilderness of Sin]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The brass serpent — Numbers 21:4–9
 
 The way to the Red Sea supplies the direction of travel from Mount Hor around Edom (4). The verse narrates no second sea crossing or exact route.
@@ -52,6 +58,8 @@ land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
 
+- [[The Stages of the Journey]] — Numbers 33:1–49.
+
 - [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Locusts and Darkness]] — Exodus 10:19; **first named**, as the place where the west wind drives
@@ -83,6 +91,6 @@ land promised beyond it. See [[The Angel Sent Ahead]].
 - Israel camps by it, is overtaken, and crosses on dry ground; Pharaoh's army is covered — Exodus 14:2–31
 - Sung by Moses and Israel, and by Miriam — Exodus 15:1–21
 - Israel sets out from it into the wilderness of Shur — Exodus 15:22, [[Bitter Water at Marah]]
-- *Ahead*: Numbers 33:10 has Israel camp *"by the Red Sea"* again after Elim
+- Itinerary: Numbers 33:10 has Israel camp *"by the Red Sea"* again after Elim
 - Named as the first limit of Israel's border — Exodus 23:31, [[The Angel Sent Ahead]]
 - Israel is told to turn back toward it — Numbers 14:25, [[The People Refuse the Land]]

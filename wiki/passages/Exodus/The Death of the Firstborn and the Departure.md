@@ -437,6 +437,8 @@ take the two datings as different traditions. The wiki records both.
 - [[War]]
 
 ## Cross-references
+
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
 - Genesis 3:24; 21:10 — *gāraš*, driven out of Eden, Hagar cast out — [[The Garden of Eden]]
 - Genesis 15:13–14 — four hundred years; *"great wealth"* — [[The Covenant Between the Pieces]],
   [[Four Hundred Years - The Sojourn and the Exodus]]

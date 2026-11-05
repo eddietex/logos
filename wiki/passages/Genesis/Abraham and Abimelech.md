@@ -152,7 +152,7 @@ chapter who does not appear to fear God very much. See [[The Fear of God]].
 **2. A technicality, and it is true.** *"Besides, she is indeed my sister, the daughter of my father,
 but not the daughter of my mother; and she became my wife"* (20:12). **This is the only verse in
 Scripture that answers the question Genesis 11:29 raised** by giving [[Milcah]]'s father and
-withholding [[Sarah]]'s: she is [[Terah]]'s daughter by another woman. The half-truth turns out to
+withholding [[Sarah]]'s: she is [[Terah (person)]]'s daughter by another woman. The half-truth turns out to
 have had a true half all along — which is precisely the shape of deception Genesis specializes in,
 where nothing false is said and a false belief is produced anyway. The marriage it describes is
 forbidden at Leviticus 18:9 and 20:17 and cursed at Deuteronomy 27:22, none of which exists yet in
@@ -311,7 +311,7 @@ design of a book that tells things twice on purpose. See [[The Names of God]].
   questions and got no answers; this king asks them and gets three.
 - [[Isaac]] — unborn and one verse away. The chapter's care over *"Abimelech had not come near her"*
   is care about him.
-- [[Terah]] — named by implication in 20:12, the only verse in Scripture that identifies Sarah's
+- [[Terah (person)]] — named by implication in 20:12, the only verse in Scripture that identifies Sarah's
   father.
 
 ## Places

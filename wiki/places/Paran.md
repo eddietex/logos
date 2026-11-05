@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Comparison with Numbers 33
+
+Numbers 12:16 gives Paran after Hazeroth; Numbers 33:18 names Rithmah. A region and a particular camp could explain the difference, but neither passage expressly identifies them.
+
+See [[The Stages of the Journey]].
+
 The great desert south of Canaan where [[Ishmael]] grows up, and afterwards the country Israel spends
 its wilderness years in. It is the one place in the Bible that is a home to the son who was sent away
 and a wasteland to everyone else.
@@ -43,6 +49,8 @@ region of Mecca is late reception built on Genesis 21:21 and is not a reading av
 geography of the Torah, which puts Israel's spies in it.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49, comparison rather than an explicit identification.
 
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:21; where Ishmael grows up an archer,
   and where his mother takes him an Egyptian wife

@@ -212,7 +212,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[Hagar]] — the fertile one, and what the arrangement costs her
 - [[Ishmael]] — the child the human solution produces
 - [[Eliezer of Damascus]] — the heir barrenness produces, and whom Genesis 15:4 removes
-- [[Terah]] — in whose household the sentence is first recorded
+- [[Terah (person)]] — in whose household the sentence is first recorded
 - [[Abimelech (of Abraham's time)]] — whose household is struck with it on Sarah's account, and
   healed of it by Abraham's prayer
 - [[Rebekah]] — the second, twenty years, and the only one whose husband prays

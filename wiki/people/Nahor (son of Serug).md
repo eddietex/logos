@@ -12,7 +12,7 @@ Abraham's grandfather, and the shortest-lived person named in the Bible up to th
 *"Nahor lived twenty-nine years, and became the father of Terah. Nahor lived one hundred nineteen
 years after he became the father of Terah"* (Genesis 11:24–25). A hundred and forty-eight years in
 all — less than a sixth of Noah's nine hundred fifty, and the low point of the collapse that runs
-through the whole register. His son [[Terah]] will live 205, and Abraham 175, so the fall is not
+through the whole register. His son [[Terah (person)]] will live 205, and Abraham 175, so the fall is not
 monotonic; it bottoms out here.
 
 **He is not the Nahor who married Milcah.** His grandson, Abram's brother, carries his name — see
@@ -31,7 +31,7 @@ the second of the ten to die, one year after [[Peleg]], and one of three men in 
 ## Timeline / key events
 
 - Born to [[Serug]] in Serug's thirtieth year — Genesis 11:22
-- Fathers [[Terah]] at twenty-nine, the youngest fathering age in either register, and lives one
+- Fathers [[Terah (person)]] at twenty-nine, the youngest fathering age in either register, and lives one
   hundred nineteen years after — Genesis 11:24–25, [[From Shem to Abram]]
 - Named in 1 Chronicles 1:26 and, as Nachor, in Luke 3:34
 
@@ -42,7 +42,7 @@ the second of the ten to die, one year after [[Peleg]], and one of three men in 
 ## Related people
 
 - [[Serug]] — his father
-- [[Terah]] — his son
+- [[Terah (person)]] — his son
 - [[Abraham]] — his grandson
 - [[Nahor (brother of Abram)]] — his grandson and namesake
 

@@ -84,7 +84,7 @@ Genesis 11:29 withholds it and two later texts fill it differently.
 
 - **Genesis 20:12** — Abraham, explaining himself to Abimelech: *"Besides, she is indeed my sister,
   the daughter of my father, but not the daughter of my mother; and she became my wife."* On the
-  plain sense she is [[Terah]]'s daughter by a second wife, and Abram's half-sister. This is the only
+  plain sense she is [[Terah (person)]]'s daughter by a second wife, and Abram's half-sister. This is the only
   statement in Scripture that directly answers the question, and it is the reading this wiki records
   first for that reason.
 - **The identification with [[Iscah]]** — found in Josephus (*Antiquities* 1.6.5), in the Talmud (b.
@@ -484,7 +484,7 @@ stopped. See [[A Wife for Isaac]] and [[Rebekah]].
 ## Related people
 
 - [[Abraham]] — her husband, and by Genesis 20:12 her half-brother
-- [[Terah]] — her father-in-law, and on the plain reading of 20:12 her father
+- [[Terah (person)]] — her father-in-law, and on the plain reading of 20:12 her father
 - [[Milcah]] — her sister-in-law, named in the same verse with the parentage she is denied
 - [[Iscah]] — named once, and identified with her by an old and much-repeated tradition
 - [[Lot]] — her nephew by marriage, and the household's only child

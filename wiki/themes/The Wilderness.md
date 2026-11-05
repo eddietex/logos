@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+A long sequence of named camps links liberation to the border of the land. Most receive no event or duration; the list cannot supply a precise modern route by itself.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The second census — Numbers 26:1–65
 
 The wilderness sentence reaches its reported fulfillment in the census’s closing comparison with
@@ -166,6 +172,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

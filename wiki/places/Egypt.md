@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The departure takes place while the Egyptians bury their firstborn; Yahweh has judged their gods (3–4).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *None of the men who came up out of Egypt, from twenty years old and upward, shall see the land* (11).
@@ -279,6 +285,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

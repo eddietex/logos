@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Egypt’s burial of the firstborn and Aaron’s dated death frame the long march (4, 38–39). Israel’s continuity does not mean that all its original leaders survive.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The second census — Numbers 26:1–65
 
 The old counted generation is gone except Caleb and Joshua; Korah’s sons survive, and the new count
@@ -772,6 +778,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses' death announced, *gathered to your people*.
 

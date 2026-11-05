@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary starts from [[Rameses]] on the fifteenth day of the first month, the day after Passover (3–5).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The best land in Egypt, given as a gift — and the address of the bondage.**
 
 > **11** Joseph placed his father and his brothers, and gave them a possession in the land of Egypt,
@@ -43,6 +49,8 @@ it as evidence for or against anything else.**
 **Genesis treats them as interchangeable without saying so.**
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Jacob's Family Settles in Egypt]] — Genesis 47:11; **the family's legal possession in Egypt**,
   granted by Pharaoh's command and named for the first and last time in Genesis

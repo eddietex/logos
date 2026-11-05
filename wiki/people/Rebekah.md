@@ -19,7 +19,7 @@ before Sarah's death** — that is, at the exact seam where the covenant needs a
 the current one is ending. See [[Nahor's Line and the Burial of Sarah]].
 
 **Her family position is the point of the placement.** Her father is [[Bethuel]], son of
-[[Nahor (brother of Abram)]] and [[Milcah]] — so she comes from the branch of [[Terah]]'s household
+[[Nahor (brother of Abram)]] and [[Milcah]] — so she comes from the branch of [[Terah (person)]]'s household
 that never left Mesopotamia, and she is [[Abraham]]'s great-niece. When Abraham makes his servant
 swear *"you shall not take a wife for my son of the daughters of the Canaanites … But you shall go to
 my country, and to my relatives"* (24:3–4), the reader already knows who is waiting at the other

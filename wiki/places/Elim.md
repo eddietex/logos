@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary preserves the twelve springs and seventy palms (9), agreeing with Exodus 15:27; a Red Sea camp follows (10).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The oasis after Marah: twelve springs and seventy palm trees.**
 
 > **27** They came to Elim, where there were twelve springs of water, and seventy palm trees: and they
@@ -25,10 +31,9 @@ pass); the WLC files it as a proper name. **Its consonants nearly match the *ʾ�
 
 **Twelve and seventy are the book's numbers for Israel** — *"the twelve tribes of Israel"* (Genesis 49:28),
 the *"seventy souls"* who went down to Egypt (Exodus 1:5), and ahead the *"seventy of the elders of Israel"*
-(24:1, 9; *not yet ingested*). **Many readers take Elim's springs and palms as a picture of the tribes and
+(24:1, 9). **Many readers take Elim's springs and palms as a picture of the tribes and
 the elders** (reported, not decided); the text gives only the numbers. Numbers 33:9 repeats them exactly:
-*"In Elim, there were twelve springs of water, and seventy palm trees; and they encamped there"* (WEB;
-*not yet ingested*).
+*"In Elim, there were twelve springs of water, and seventy palm trees; and they encamped there"* (WEB).
 
 ***Tāmār*, *palm*, occurs here for the first time in Scripture** (WLC lemma search, Genesis–Deuteronomy).
 The same letters are the name of [[Tamar]] (Genesis 38), which the WLC files under a separate number.
@@ -41,6 +46,8 @@ the Passover of the fourteenth day of the first month (12:6). How long they camp
 been proposed; they are reported, not checked in this pass, and none is adopted.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Bitter Water at Marah]] — Exodus 15:27; **twelve springs, seventy palms, and the camp *"by the
   waters"***

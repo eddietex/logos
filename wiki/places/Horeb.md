@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The wilderness of Sinai is the camp between Rephidim and Kibroth Hattaavah (15–16). Filed with the existing Horeb/Sinai page; the itinerary itself says Sinai, not Horeb.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The continual offering recalled — Numbers 28:6
 
 On the plains of Moab, the daily burnt offering is called *a continual burnt offering, which was
@@ -607,6 +613,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

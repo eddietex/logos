@@ -297,6 +297,8 @@ usual candidates) the verse does not say.
 
 ## Cross-references
 
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
+
 - [[The Waters of Meribah]] — Numbers 20:1–13; now ingested. At Kadesh the command is to speak,
   Moses strikes twice, and both leaders receive a sentence excluding them from leading Israel in.
 - Genesis 26:20–22 — *"The herdsmen of Gerar argued with Isaac's herdsmen, saying, 'The water is ours'"* — the

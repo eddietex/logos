@@ -23,7 +23,7 @@ later in the same three words.**
 
 *Śêbâ ṭôbâ*, **a good old age**, occurs in Genesis exactly twice, and the two occurrences are these.
 It is not a stock phrase the book reaches for when someone dies: [[Sarah]] gets a lifespan and a
-funeral (23:1–2), [[Terah]] gets *"died in Haran"* (11:32), [[Lot]] gets nothing. **The phrase is
+funeral (23:1–2), [[Terah (person)]] gets *"died in Haran"* (11:32), [[Lot]] gets nothing. **The phrase is
 reserved, used once as a commitment and once as a discharge**, and Genesis marks the second by
 reusing the first's words and saying nothing at all about it.
 

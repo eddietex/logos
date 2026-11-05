@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The movement ends in the plains of Moab, with an extended camp beside the Jordan (48–49). Arrival at the border is distinguished from entry and possession.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 Following the census allotment instructions, a family without sons receives an explicit right to
@@ -245,7 +251,7 @@ in it stand together in this instruction.
 
 See [[Mildew in a House]]. Source: stored WEB Leviticus 14:33–57; contextual references as cited.
 
-- **Genesis 11:31–32** — the first journey toward Canaan, undertaken by [[Terah]] with no command
+- **Genesis 11:31–32** — the first journey toward Canaan, undertaken by [[Terah (person)]] with no command
   behind it, stopping at [[Haran (city)]]. He dies short of the land.
 - **Genesis 12:1, 5–9** — the command, the arrival, and the first promise of the land itself. Three
   things are set here that hold for the rest of the Bible. The destination is **withheld** — *"the
@@ -441,6 +447,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land he will not enter.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
@@ -797,6 +805,6 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Related people
 
-- [[Terah]] — the first man to set out for Canaan, and the first to die short of it
+- [[Terah (person)]] — the first man to set out for Canaan, and the first to die short of it
 - [[Abraham]] — promised the land, and buried in the only field of it he ever bought
 - [[Lot]] — who chooses his land by looking at it, and loses it

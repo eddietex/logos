@@ -61,6 +61,8 @@ no intermediary is specified for the collective vow.
 
 ## Cross-references
 
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
+
 - [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] — the defeat and victory, with a second naming in Judges.
 - [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]] — vowed destruction beside Leviticus 27:28–29.
 - [[The Defeat at Hormah]] — Numbers 14:39–45, where Israel fights despite the warning.

@@ -35,7 +35,7 @@ last the Bible says about any of the three.
 secure. Whether the grove took the man's name as its owner, or the man took the grove's as a local
 chief, is not recoverable from the text, and the same doubling happens elsewhere in Genesis with
 [[Enoch (city)]] and, in the other direction, with the register names that are also towns near
-[[Haran (city)]] — [[Serug]], [[Nahor (son of Serug)]], [[Terah]], [[Reu]].
+[[Haran (city)]] — [[Serug]], [[Nahor (son of Serug)]], [[Terah (person)]], [[Reu]].
 
 **On the two pages.** `AGENTS.md` requires that a name held by two pages be qualified on both, so
 this page is `Mamre (person)` and the oak grove is [[Mamre (place)]]. The collision was flagged when

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The retrospective explicitly includes judgment on Egypt’s gods (4); it supplies neither a list of gods nor a one-to-one correspondence between gods and plagues.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Baal Peor — Numbers 25:1–18
 
 Sacrificial eating and bowing accompany Israel’s attachment to Baal Peor (1–3). Divine jealousy
@@ -116,7 +122,7 @@ See [[The Place of Sacrifice and the Life in the Blood]]. Source: stored WEB Lev
 - **The gods of the fathers beyond the River.** Joshua 24:2 looks back on this family and says it
   plainly — *"your fathers lived of old time beyond the River… and they served other gods"* — **which
   Genesis itself never says about Terah, Nahor, or Laban.** The book leaves the household's religion
-  unstated and lets Joshua supply the verdict centuries later. See [[Terah]] and
+  unstated and lets Joshua supply the verdict centuries later. See [[Terah (person)]] and
   [[Nahor (brother of Abram)]].
 - **The *teraphim*, at 31:19.** **The first household gods in the Bible**, taken by a matriarch,
   hidden under a camel saddle, never recovered, and never explained. **Their purpose in Genesis is
@@ -270,6 +276,8 @@ texts, 2026-10-25.
 
 ## Key passages
 
+- [[The Stages of the Journey]] — Numbers 33:1–49.
+
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
@@ -311,7 +319,7 @@ texts, 2026-10-25.
   the God of Nahor, with a plural verb.
 - [[Jacob's Flocks]] — Genesis 30:27; ***niḥaštî***, *I have divined*, the first *nāḥaš* in Scripture,
   and it produces a correct reading of Genesis 12:3.
-- [[From Shem to Abram]] — Genesis 11:27–32; [[Terah]] and the family beyond the River, whose religion
+- [[From Shem to Abram]] — Genesis 11:27–32; [[Terah (person)]] and the family beyond the River, whose religion
   Genesis leaves unstated and Joshua 24:2 names.
 - [[The Call of Abram]] — Genesis 12:1–9; the departure from that household, given without a religious
   reason in the text.
@@ -374,6 +382,6 @@ texts, 2026-10-25.
 - [[Rachel]] — who steals the *teraphim*, hides them, and is never shown giving them back
 - [[Laban]] — who divines, keeps household gods, calls them *my gods*, and names Yahweh correctly
   three times
-- [[Terah]] — the father Joshua 24:2 says served other gods, and Genesis does not
+- [[Terah (person)]] — the father Joshua 24:2 says served other gods, and Genesis does not
 - [[Nahor (brother of Abram)]] — whose God is invoked beside Abraham's in a plural verb
 - [[Jacob]] — who buries the foreign gods at Shechem (35:2–4), the one purge in the book

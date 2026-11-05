@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary explicitly locates Kadesh in this wilderness (36).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Named twice in verse 14 as the place of Moses' rebellion: *you rebelled against my word in the
@@ -40,6 +46,8 @@ at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for th
 (tags; *not yet ingested*).
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; named as the place of the rebellion (14).
 

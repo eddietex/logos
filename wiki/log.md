@@ -21958,3 +21958,39 @@ English on Sefaria.
 
 Frontmatter recount: 320 passages, 242 people, 159 places, 87 themes, 707 connections. Link checks
 clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
+
+
+## [2026-11-05] ingest | Numbers 33.1-49 — The Stages of the Journey
+
+Ingested one pericope in auto mode using the canonical skill, by Codex. The planned title and
+boundary are unchanged. The passage follows the written itinerary from Egypt to the plains
+of Moab, its selective notices of water, and Aaron’s dated death at age 123. All quotations
+were copied from stored WEB; comparisons use stored Exodus and Numbers. No external quotation,
+Hebrew or Greek assertion, or modern site identification was added. Existing raw files are unchanged.
+
+Created 29 content pages: the passage, 27 places, and the connection
+[[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]]. Updated every named stage
+already represented, the four individual figures, ten themes, the book queue and overview,
+category rows, progress counts, and reciprocal passage links. Extended
+[[Meribah's Sentence and Aaron's Death]] with the date and age supplied by the itinerary.
+
+The camp [[Terah (place)]] requires renaming the patriarch to [[Terah (person)]] and updating
+inbound links; both now carry qualifiers. Historical log prose remains unchanged. Libnah is
+qualified as a wilderness camp. Iye Abarim and Iyim are filed under [[Iyeabarim]]. Dibon Gad and
+Abel Shittim retain separate pages with explicitly qualified comparisons to Dibon and Shittim.
+[[Nebo (landmark)]] preserves the text’s ambiguity between a city and mountain referent.
+The wilderness of Sinai remains filed under the established Horeb page. These are filing
+choices, not new claims about ancient coordinates or name derivations.
+
+Retained the differences between Shur and Etham, Paran and Rithmah, and the route selections
+of Numbers 21 and 33. Regional/campsite harmonizations are possibilities, not established facts.
+Removed obsolete not-yet-ingested labels attached to the present unit in earlier place pages.
+
+The places index now contains 186 place rows. Its previously recorded growth-trigger follow-up
+(alphabetical subindexes) remains open; this invocation retains the existing index arrangement.
+Frontmatter totals: 321 passages, 242 people, 186 places, 87 themes, 708 connections.
+Link check: clean, with 58 expected not-yet-started book targets. No schema, workflow,
+or controller files changed.
+
+File accounting: 29 new content pages; 93 existing wiki pages revised (including the
+Terah rename, its inbound links, indexes, dashboard, and this log).

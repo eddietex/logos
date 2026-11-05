@@ -184,7 +184,7 @@ Acts pull in opposite directions on it — see the note on Terah's 205 years bel
 - [[Serug]] — the seventh; *Sarugi* in Assyrian records, a town a day's walk from Haran.
 - [[Nahor (son of Serug)]] — the eighth, and the shortest life in the Bible so far at 148 years;
   Abram's grandfather, and the namesake of his grandson.
-- [[Terah]] — the man both halves of the pericope converge on. He ends the register at a round
+- [[Terah (person)]] — the man both halves of the pericope converge on. He ends the register at a round
   seventy with three sons, exactly as Noah ended the first at a round five hundred with three; then
   he takes over as the subject of his own *toledot*, buries a son, leads the family out of Ur
   toward Canaan, stops at Haran, and dies there at 205. He is the only man in the pericope given a

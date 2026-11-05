@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Etham]] and before [[Marah]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The camp by the sea, where Israel is overtaken and from which it crosses.**
 
 > **2** "Speak to the children of Israel, that they turn back and encamp before Pihahiroth, between Migdol
@@ -28,6 +34,8 @@ and the camp *"before Migdol"* (WEB; *not yet ingested*).
 location.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Crossing of the Sea]] — Exodus 14:2, 9; **the camp chosen to look like a trap**, where the chariots
   overtake Israel and from which the crossing begins

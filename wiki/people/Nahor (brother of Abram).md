@@ -64,7 +64,7 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 
 ## Timeline / key events
 
-- Born to [[Terah]], second-named of three sons — Genesis 11:26–27
+- Born to [[Terah (person)]], second-named of three sons — Genesis 11:26–27
 - Marries [[Milcah]], his brother Haran's daughter — Genesis 11:29
 - Not named among those who leave Ur with Terah — Genesis 11:31, [[From Shem to Abram]]
 - Fathers eight sons by [[Milcah]] and four by his concubine [[Reumah]], including [[Bethuel]],
@@ -100,7 +100,7 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 
 ## Related people
 
-- [[Terah]] — his father
+- [[Terah (person)]] — his father
 - [[Abraham]] — his brother, who leaves
 - [[Haran (son of Terah)]] — his brother, who dies; and his father-in-law
 - [[Milcah]] — his wife and his niece

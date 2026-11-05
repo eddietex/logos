@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary ends in the plains of Moab, by the Jordan at Jericho, with the camp extending from Beth Jeshimoth to Abel Shittim (48–49).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The Offerings of the Appointed Feasts — Numbers 28:16–29:40
 
 The feast calendar continues in the plains of Moab setting of chapters 22–36; Moab is not named in
@@ -151,6 +157,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The War Against Midian]] — Numbers 31:1–54; the army returns *to the camp at the plains of Moab* (12).
 - [[Joshua Commissioned]] — Numbers 27:12–23; contextual setting; Abarim later placed in Moab.

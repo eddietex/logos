@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The South locates the king of Arad within Canaan (40).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Arad and Hormah — Numbers 21:1–3
 
 The king of Arad lives in the South and attacks Israel approaching by Atharim (1).
@@ -49,6 +55,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 126:4).
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

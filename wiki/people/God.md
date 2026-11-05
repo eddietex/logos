@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Yahweh commands the written record (2), strikes Egypt’s firstborn and judges its gods (4), and commands Aaron’s ascent before his death (38). Deliverance and the death of a leader belong to the same remembered journey.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Vows of Men and Women — Numbers 30:1–16
 
 Yahweh commands the vow law. Vows are made *to Yahweh* (2–3), and when a father or husband voids a woman's
@@ -856,7 +862,7 @@ root Melchizedek used one verse of narrative earlier when he said God had *shiel
 into his hand (14:20). And *"I am Yahweh who brought you out of Ur of the Chaldees, to give you this
 land to inherit it"* (15:7), which is the exact shape Exodus 20:2 will use with Egypt in place of
 Ur. He identifies himself by his record, not by his attributes, and the record he chooses in Genesis
-11:31 had been credited to [[Terah]].
+11:31 had been credited to [[Terah (person)]].
 
 **He takes a complaint and does not treat it as one.** Abram's first words to him in Scripture are
 that the promise has produced nothing (15:2–3). The reply is a correction (*"This man will not be
@@ -3332,6 +3338,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *struck* the land (4), swore the wilderness sentence (10–11), and is the one *before* whom the tribes cross (20–32).
 - [[Joshua Commissioned]] — Numbers 27:12–23; names Joshua as Moses' successor.
 

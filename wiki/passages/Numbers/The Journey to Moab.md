@@ -78,6 +78,8 @@ Complete unit, copied verbatim from stored WEB `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
+
 - [[From the Well Song to the Heshbon Poem]] — comparison with [[Sihon and Og]].
 
 - [[From Meribah to Beer - Water and the Gathered People]]

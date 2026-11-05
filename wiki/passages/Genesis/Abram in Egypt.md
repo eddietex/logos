@@ -55,7 +55,7 @@ about the price.
 
 **And it is not quite a lie.** Genesis 20:12, in the second of these episodes, has Abraham explain
 to Abimelech: *"she is indeed my sister, the daughter of my father, but not the daughter of my
-mother."* On the plain sense she is [[Terah]]'s daughter by another wife, so *say that you are my
+mother."* On the plain sense she is [[Terah (person)]]'s daughter by another wife, so *say that you are my
 sister* is a true sentence deployed to produce a false belief. Genesis lets him say so eight
 chapters later and never says it here, which leaves the reader of chapter 12 with what looks like a
 flat lie and the reader of the whole book with something worse and more familiar. See

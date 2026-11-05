@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Comparison with Numbers 33
+
+Numbers 33:47 places the Abarim camp before Nebo without specifying city or mountain. See [[Nebo (landmark)]]; the itinerary is not treated as an unambiguous appearance of this city.
+
+See [[The Stages of the Journey]].
+
 A town named in the request of Reuben and Gad (Numbers 32:3) and built by the children of Reuben, one of
 two whose names are marked *(their names being changed)* (32:38). The text does not give the new name.
 
@@ -18,6 +24,8 @@ qualified *(city)* so that the mountain and the god can have their own pages wit
 Source: stored WEB Numbers 32.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49, comparison rather than an explicit identification.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
 ## Related places

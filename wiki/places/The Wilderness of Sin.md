@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[The Red Sea]] and before [[Dophkah]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The stretch of wilderness *"between Elim and Sinai"*, where the manna first fell and the first Sabbath was
 kept.**
 
@@ -19,8 +25,7 @@ title.** The Hebrew place-name ***sîn*** has nothing to do with the English wor
 
 **It is named four times in the Torah** — Exodus 16:1; 17:1; and Numbers 33:11–12 (WLC lemma search,
 Genesis–Deuteronomy) — **always as a stage of the march.** Numbers 33 puts a camp *"by the Red Sea"* between
-Elim and the wilderness of Sin, and a stop at Dophkah after it (Numbers 33:10–12; by reference, *not yet
-ingested*); Exodus goes straight from Elim to Sin and from Sin, *"by their journeys"*, to Rephidim (17:1). The
+Elim and the wilderness of Sin, and a stop at Dophkah after it (Numbers 33:10–12; by reference,); Exodus goes straight from Elim to Sin and from Sin, *"by their journeys"*, to Rephidim (17:1). The
 wiki records the two itineraries without harmonizing.
 
 **The name has the same consonants as *Sinai* (*sînay*), and its first verse names both.** The WLC files them
@@ -42,6 +47,8 @@ assumption that Sinai lies in the south of it (reported, not checked in this pas
 location for either. See [[Horeb]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Manna and Quail]] — Exodus 16:1–36; **the whole chapter.** *"The wilderness of Sin, which is between Elim
   and Sinai"*; the murmuring, the glory in the cloud, the quail and manna, the first Sabbath

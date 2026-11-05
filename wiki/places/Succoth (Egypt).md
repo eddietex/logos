@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Rameses]] and before [[Etham]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The first camp of the exodus — the place the march from Rameses reaches on the first stage.**
 
 > **37** The children of Israel traveled from Rameses to Succoth, about six hundred thousand on foot who
@@ -34,6 +40,8 @@ wiki records the shared word only. The Transjordan page's *"Feast of Booths"* is
 its traditional English name.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:37; **the first stage of the march**,
   *"from Rameses to Succoth"*, with six hundred thousand men on foot and a mixed multitude

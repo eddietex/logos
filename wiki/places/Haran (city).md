@@ -30,7 +30,7 @@ partners, and 2 Kings 19:12 and Isaiah 37:12 name it among the cities Assyria ha
 in a taunt sent to Hezekiah.
 
 **Four of the register's names are towns in its district.** [[Serug]] (*Sarugi*, modern Suruç),
-[[Nahor (son of Serug)]] (*Naḫur*, in the Mari texts), [[Terah]] (often connected to *Til-ša-turaḫi*),
+[[Nahor (son of Serug)]] (*Naḫur*, in the Mari texts), [[Terah (person)]] (often connected to *Til-ša-turaḫi*),
 and less certainly [[Reu]] all correspond to places within a short journey of Haran. Whatever that
 means — a genuine clan memory, or a shared local stock of names — the family settles in the middle of
 its own genealogy.
@@ -87,7 +87,7 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
 
 ## Events here
 
-- [[Terah]]'s household settles instead of continuing to Canaan — Genesis 11:31
+- [[Terah (person)]]'s household settles instead of continuing to Canaan — Genesis 11:31
 - Terah dies at two hundred five — Genesis 11:32
 - Abram is called out of it at seventy-five — Genesis 12:1–4, [[The Call of Abram]]
 - Abraham's servant comes back for Rebekah, if *the city of Nahor* is this city — Genesis 24,

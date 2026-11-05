@@ -817,7 +817,7 @@ merge, or reorder them freely.
 - [[Reu]]
 - [[Serug]]
 - [[Nahor (son of Serug)]]
-- [[Terah]]
+- [[Terah (person)]]
 - [[Abraham]]
 - [[Sarah]]
 - [[Lot]]

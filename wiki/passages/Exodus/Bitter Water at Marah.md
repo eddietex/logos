@@ -384,6 +384,8 @@ departure to *"the fifteenth day of the second month"*, a month after the Passov
 - [[Slavery and Servitude]]
 
 ## Cross-references
+
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
 - Genesis 2:9 — *"the tree of life … and the tree of the knowledge of good and evil"* — [[The Garden of Eden]]
 - Genesis 4:23 — *"listen (ʾāzan) to my speech"* — [[The Line of Cain and the Birth of Seth]]
 - Genesis 16:7 — *"by the fountain on the way to Shur"* — [[Hagar and Ishmael]],

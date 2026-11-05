@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Mount Hor is on the edge of Edom (37); this is a border description, not a modern location.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Edom and Seir are named as future possessions in the oracle (24:18). This contrasts with Israel’s
@@ -96,6 +102,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

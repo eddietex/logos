@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Stages of the Journey]] (33:1–49) gathers the journey from Egypt to Moab into a written itinerary
+attributed to Moses at Yahweh’s command. Aaron’s date and age at death interrupt the stages;
+the route is preserved without resolving every difference from the earlier narratives.
+
 [[Reuben, Gad, and the Land Beyond the Jordan]] (32:1–42) has Reuben and Gad, rich in livestock, ask to settle the conquered land east of
 the Jordan. Moses hears Kadesh again — *Shall your brothers go to the war, and shall you sit here?* — and
 binds them to cross armed *before Yahweh* until every tribe has its inheritance: *be sure your sin will
@@ -249,7 +253,7 @@ merge, or reorder them freely.
 - [x] [[Vows of Men and Women]] — Numbers 30:1–16
 - [x] [[The War Against Midian]] — Numbers 31:1–54
 - [x] [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
-- [ ] The Stages of the Journey — Numbers 33:1–49
+- [x] [[The Stages of the Journey]] — Numbers 33:1–49
 - [ ] Drive Out the Inhabitants — Numbers 33:50–56
 - [ ] The Borders of the Land — Numbers 34:1–29
 - [ ] The Levitical Cities and the Cities of Refuge — Numbers 35:1–34

@@ -6,11 +6,16 @@ tags: [connection]
 # Meribah's Sentence and Aaron's Death
 
 ## Passages involved
+
+- [[The Stages of the Journey]] — Numbers 33:38–39.
 - [[Joshua Commissioned]] — Numbers 27:12–14; the sentence recalled for Moses.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 - [[The Death of Aaron]] — Numbers 20:22–29.
 
 ## Analysis
+
+Numbers 33:38–39 now dates Aaron’s death to year forty, month five, day one, at age 123.
+It repeats the commanded ascent without restating the Meribah offense. See [[The Stages of the Journey]].
 
 At Meribah, Yahweh denies Moses and Aaron the role of bringing the assembly into the land
 because they failed to believe and sanctify him before Israel (20:12). At Mount Hor, he

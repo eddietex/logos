@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary recalls the lack of drinking water (14), without retelling the rock miracle of Exodus 17.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The last camp before Sinai, and the place where two things happen in one chapter: water from the rock and
 Israel's first battle as a people.** Israel comes to it from the wilderness of Sin, *"by their journeys,
 according to Yahweh's commandment … but there was no water for the people to drink"* (Exodus 17:1). There the
@@ -19,7 +25,7 @@ and Exodus draws no wordplay from the name. **It is named five times in the Tora
 Numbers 33:14, 15 (WLC lemma search, Genesis–Deuteronomy).
 
 **Numbers 33 reaches it in three stages that Exodus skips**: Sin, Dophkah, Alush, Rephidim — *"where there was
-no water for the people to drink"* (Numbers 33:12–14; WEB; *not yet ingested*). **Numbers 33 mentions water at only two
+no water for the people to drink"* (Numbers 33:12–14; WEB). **Numbers 33 mentions water at only two
 camps** — Elim's *"twelve springs of water"* (33:9) and Rephidim's lack (WLC).
 
 **Its location is not known**, and depends on where Sinai is placed. Under the traditional southern location,
@@ -43,6 +49,8 @@ The verse gives no distance or modern location, and does not explain the relatio
 Horeb rock in 17:6 to the new camp. See [[Israel at Mount Sinai]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 - [[Water from the Rock]] — Exodus 17:1–7; **the camp without water.** *"Encamped in Rephidim; but there was
   no water for the people to drink"*; the quarrel, the test, and the rock in Horeb
 - [[The Battle with Amalek]] — Exodus 17:8–16; **the battlefield.** *"Then Amalek came and fought with Israel in
@@ -61,4 +69,4 @@ Horeb rock in 17:6 to the new camp. See [[Israel at Mount Sinai]].
 - Amalek attacks; Moses' raised hands; Joshua's victory; the memorial written; the altar *"Yahweh our Banner"* —
   Exodus 17:8–16, [[The Battle with Amalek]]
 - Israel departs for the wilderness of Sinai — Exodus 19:2, [[Israel at Mount Sinai]];
-  also Numbers 33:15 (not yet ingested)
+  also Numbers 33:15 (now [[The Stages of the Journey]])

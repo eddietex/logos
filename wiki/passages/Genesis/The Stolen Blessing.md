@@ -646,7 +646,7 @@ alone, on a road north. See
 ## Places
 
 - [[Haran (city)]] — the destination, named in the chapter's second-to-last speech; the town
-  [[Terah]] died in and [[Abraham]] left, and the place the family keeps going back to for wives.
+  [[Terah (person)]] died in and [[Abraham]] left, and the place the family keeps going back to for wives.
   Jacob's *"few days"* there will be twenty years.
 - [[Edom]] — unnamed and forecast. 27:39–40 is the charter of Esau's country: fertile or arid
   depending on one preposition, living by the sword, serving its brother, and eventually breaking the

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Israel camps beside the river at Jericho, from Beth Jeshimoth to Abel Shittim (48–49); no crossing is narrated.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *Don't bring us over the Jordan* (5). The two tribes ask to stop on the east bank, and the condition is
@@ -79,6 +85,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

@@ -7,9 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Israel camps before Migdol after turning back from Etham (7).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **One of the two landmarks that fix Israel's camp by the sea** — *"before Pihahiroth, between Migdol and
-the sea, before Baal Zephon"* (Exodus 14:2). Numbers 33:7 has the people encamp *"before Migdol"* (WEB;
-*not yet ingested*).
+the sea, before Baal Zephon"* (Exodus 14:2). Numbers 33:7 has the people encamp *"before Migdol"* (WEB).
 
 ***Migdōl* means *tower*** — a form related to *migdāl*, the *"tower"* of Babel (Genesis 11:4; WLC) — **and
 may be a common noun used as a name: a fortified watchtower on Egypt's eastern frontier.** That reading,
@@ -21,6 +26,8 @@ limit of the land (cited from memory, not checked in this pass; *not yet ingeste
 later pass shows two places, this page will take a qualifier.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Crossing of the Sea]] — Exodus 14:2; **a landmark of the camp by the sea**
 

@@ -44,7 +44,7 @@ Ur sets up four chapters.
 
 ## Timeline / key events
 
-- Born to [[Terah]] in Ur, probably the eldest of three sons — Genesis 11:26–27
+- Born to [[Terah (person)]] in Ur, probably the eldest of three sons — Genesis 11:26–27
 - Fathers [[Lot]], [[Milcah]], and [[Iscah]] — Genesis 11:27, 29
 - Dies before his father, in [[Ur of the Chaldees]], the land of his birth — Genesis 11:28,
   [[From Shem to Abram]]
@@ -55,7 +55,7 @@ Ur sets up four chapters.
 
 ## Related people
 
-- [[Terah]] — his father, whom he predeceases
+- [[Terah (person)]] — his father, whom he predeceases
 - [[Abraham]] and [[Nahor (brother of Abram)]] — his brothers; Nahor marries his daughter
 - [[Lot]] — his son
 - [[Milcah]] — his daughter

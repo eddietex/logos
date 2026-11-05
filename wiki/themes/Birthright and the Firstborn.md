@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Egyptians bury their firstborn as Israel departs (4), recalling the final plague rather than discussing inheritance rights.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The second census — Numbers 26:1–65
 
 Reuben remains the firstborn (5), but Joseph is represented by two tribal counts (28–37). Manasseh
@@ -135,6 +141,8 @@ The claim of 3:11–13 is repeated at the cleansing almost word for word, now wi
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

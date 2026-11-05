@@ -106,6 +106,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
+
 - [[Mouth to Mouth - Numbers 12.6-8, Exodus 33, and Deuteronomy 34]]
 - [[Faithful in All My House - Numbers 12.7 and Hebrews 3]]
 - [[Not in Riddles - Numbers 12.8 and 1 Corinthians 13.12]]

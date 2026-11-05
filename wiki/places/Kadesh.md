@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Ezion Geber]] and before [[Mount Hor]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 Moses recalls *when I sent them from Kadesh Barnea to see the land* (8), the spies whose report
@@ -82,6 +88,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

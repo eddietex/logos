@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The itinerary places this stage after [[Kibroth Hattaavah]] and before [[Rithmah]].
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 The camp after [[Kibroth Hattaavah]] (Numbers 11:35; 33:17), and the place Israel leaves for [[Paran]] (12:16). In Numbers 33:18
 the next stage is Rithmah. The word has the form of a common noun, often taken as *enclosures* or *settlements*, but that sense is
 recalled and not checked here. The verse gives no meaning for the name.
@@ -18,6 +24,8 @@ Israel stays there, *wayyihyû baḥăṣērôt* (11:35, WLC), for a length of t
 and Aaron against Moses happens here, and 12:15–16 shows the people leave only after her seven days.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Seventy Elders and the Quail]] — Numbers 11:35; the camp reached after the plague
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; the dispute, and the seven days of waiting

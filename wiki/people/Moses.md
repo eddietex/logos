@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Moses and Aaron lead the departure (1), but Moses alone is named as the writer of the journeys at Yahweh’s command (2). This attribution concerns the itinerary; it does not by itself attribute every part of Numbers to him.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 He hears the request of Reuben and Gad as Kadesh again — *Shall your brothers go to the war, and shall you
@@ -1377,6 +1383,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; rebukes the request, binds the eastern tribes to cross, and gives the land.
 

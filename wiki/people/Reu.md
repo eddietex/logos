@@ -47,7 +47,7 @@ either reckoning of when Abram was born.
 - [[Peleg]] — his father
 - [[Serug]] — his son
 - [[Eber]] — his grandfather
-- [[Terah]] — his great-grandson
+- [[Terah (person)]] — his great-grandson
 
 ## Themes associated
 

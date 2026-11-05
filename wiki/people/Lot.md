@@ -214,7 +214,7 @@ caravan.
 
 - Born to [[Haran (son of Terah)]] in [[Ur of the Chaldees]] — Genesis 11:27
 - Orphaned when his father dies before Terah — Genesis 11:28
-- Taken by [[Terah]] out of Ur toward [[Canaan]]; settles with the household in
+- Taken by [[Terah (person)]] out of Ur toward [[Canaan]]; settles with the household in
   [[Haran (city)]] — Genesis 11:31, [[From Shem to Abram]]
 - Goes out of Haran with Abram, uncommanded and unpromised — Genesis 12:4–5,
   [[The Call of Abram]]
@@ -295,7 +295,7 @@ at [[Righteous Lot - 2 Peter's Verdict and Genesis's Silence]].
 ## Related people
 
 - [[Haran (son of Terah)]] — his father, dead before the story starts
-- [[Terah]] — his grandfather, who takes him along
+- [[Terah (person)]] — his grandfather, who takes him along
 - [[Abraham]] — his uncle, and his companion for eight chapters
 - [[Milcah]] and [[Iscah]] — his sisters
 - [[Nahor (brother of Abram)]] — his uncle, and his brother-in-law

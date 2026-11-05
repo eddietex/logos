@@ -39,7 +39,7 @@ how it reads.
 - **He is Sarai's half-brother.** *"she is indeed my sister, the daughter of my father, but not the
   daughter of my mother"* (Genesis 20:12). Genesis 11:29 conspicuously gives [[Milcah]]'s father and
   withholds Sarai's; 20:12 is the only place in Scripture that supplies the answer, and it makes her
-  [[Terah]]'s daughter by another wife. An old alternative identifies her with [[Iscah]] and makes
+  [[Terah (person)]]'s daughter by another wife. An old alternative identifies her with [[Iscah]] and makes
   her Abram's niece; see the discussion on [[Sarah]].
 - **He came out of a family that served other gods.** *"Your fathers lived of old time beyond the
   River, even Terah, the father of Abraham and the father of Nahor, and they served other gods. I
@@ -988,7 +988,7 @@ promise persists even when the terms of divine accompaniment are disputed. See
 
 ## Related people
 
-- [[Terah]] — his father, who takes him out of Ur and dies short of Canaan
+- [[Terah (person)]] — his father, who takes him out of Ur and dies short of Canaan
 - [[Sarah]] — his wife, and by Genesis 20:12 his half-sister
 - [[Nahor (brother of Abram)]] — his brother, who stays in Mesopotamia; both their households will
   supply wives to the next two generations, and whose twelve sons are the one piece of news from home

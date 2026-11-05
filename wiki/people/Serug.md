@@ -47,7 +47,7 @@ chapter. See [[Out of Ur - Terah's Journey and Abram's Call]].
 
 - [[Reu]] — his father
 - [[Nahor (son of Serug)]] — his son
-- [[Terah]] — his grandson
+- [[Terah (person)]] — his grandson
 - [[Abraham]] — his great-grandson
 
 ## Themes associated

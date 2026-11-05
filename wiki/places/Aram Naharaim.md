@@ -34,7 +34,7 @@ respectable:
   *Haran* for the same errand to the same family, which is the strongest argument.
 - **It is a distinct town called Nahor.** A city *Naḫur* is well attested in the Mari archives of the
   eighteenth century BC, on the Balikh, within a short journey of Haran — and the same district
-  supplies matches for [[Serug]], [[Terah]], and possibly [[Reu]]. On this reading Genesis is naming
+  supplies matches for [[Serug]], [[Terah (person)]], and possibly [[Reu]]. On this reading Genesis is naming
   a real neighbouring town, and the family register is a map of the district.
 
 **Which Nahor the city is named for is also ambiguous**, since Abraham's brother

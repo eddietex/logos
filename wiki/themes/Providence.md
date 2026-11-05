@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Elim’s springs and palms and Rephidim’s lack of water are remembered together (9, 14). Provision is part of the remembered route without every hardship being retold.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### The journey to Moab — Numbers 21:10–20
 
 At Beer Yahweh explicitly promises water (16), and Israel sings of the leaders’ digging (17–18).
@@ -391,6 +397,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

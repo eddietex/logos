@@ -27,7 +27,7 @@ ablatives that get smaller and harder as they go: *ʾarṣəkā*, your land; *m�
 the people you were born among; *bêt ʾābîkā*, your father's house, the household you eat in. Rashi's
 observation on the order is the standard one and is hard to improve: geographically it is a
 narrowing, emotionally it is an ascent — the last thing named is the thing hardest to leave. And the
-destination is withheld. Where [[From Shem to Abram]] had [[Terah]] set out *"to go into the land of
+destination is withheld. Where [[From Shem to Abram]] had [[Terah (person)]] set out *"to go into the land of
 Canaan"* and stop halfway, Abram is sent to *"the land that I **will show** you"* and arrives.
 Hebrews 11:8 reads exactly this difference: *"he went out, not knowing where he went."*
 
@@ -132,7 +132,7 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
 - [[Lot]] — *"Lot went with him"* (12:4), and again in the inventory of 12:5. He is not commanded,
   not promised anything, and not explained: the call said *leave your father's house*, and Abram
   brings a member of it. That unresolved presence is what Genesis 13 and 14 and 19 are made of.
-- [[Terah]] — not named, but the pericope is unintelligible without him. Abram departs *from Haran*,
+- [[Terah (person)]] — not named, but the pericope is unintelligible without him. Abram departs *from Haran*,
   the city his father stopped in and died in, on the road his father was already taking.
 - **The people acquired in Haran** — *hannepeš ʾăšer ʿāśû bəḥārān*, literally *"the souls they had
   made in Haran"*. The plain sense is dependants and slaves gathered over the years in Haran; the

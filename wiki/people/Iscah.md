@@ -24,7 +24,7 @@ supplying it obliquely. On that reading both brothers married nieces, the verse 
 the otherwise pointless name is doing work.
 
 **Against it stands Genesis 20:12**, where Abraham says of Sarah *"she is indeed my sister, the
-daughter of my father, but not the daughter of my mother"* — which makes her [[Terah]]'s daughter and
+daughter of my father, but not the daughter of my mother"* — which makes her [[Terah (person)]]'s daughter and
 Abram's half-sister, not Haran's daughter and his niece. To hold both, *"daughter of my father"* has
 to be stretched to *granddaughter*, which Hebrew kinship terms will sometimes bear but which sits
 badly in a sentence whose entire purpose is to be exact about degree of relation. The wiki records

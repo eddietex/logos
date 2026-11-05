@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+Israel camps in the mountains of Abarim before Nebo, then descends to the plains of Moab (47–48). The mountain command to Moses in Numbers 27:12 is not an ascent narrated in this list.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 *"Go up into this mountain of Abarim, and see the land which I have given to the children of
@@ -25,6 +31,8 @@ does not identify the two sites or derive either name.
 Source: stored WEB Numbers 27:12–14.
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Joshua Commissioned]] — Numbers 27:12; Moses told to go up and see the land.
 

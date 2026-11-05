@@ -636,6 +636,8 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
 
 ## Cross-references
 
+- [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
+
 - [[The King's Heart]] — Proverbs 21:31 places with Yahweh the victory that 14:14 says he fights for.
 
 - [[Wait for Yahweh - Proverbs 20.22 and the Refusal of Revenge]] — Proverbs 20:22 shares reliance on Yahweh’s rescue, in a different setting from pursuit by an army.

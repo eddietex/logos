@@ -324,6 +324,6 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 - [[God]] — who calls, and never explains the choice
 - [[Abraham]] — the first man called, and the one the New Testament argues from
 - [[Sarah]] — chosen with him, and named in the promise only later (17:16)
-- [[Terah]] — who set out for the same land uncalled, and stopped
+- [[Terah (person)]] — who set out for the same land uncalled, and stopped
 - [[Noah]] — commanded and covenanted with, but never *called* in this sense; the vocabulary starts
   at Genesis 12

@@ -17,7 +17,7 @@ all of them about leaving it.
 
 **The city is never described.** Genesis says nothing about what it looked like, what was worshipped
 there, how large it was, or why the family left. That last silence is the important one: 11:31 gives
-[[Terah]] a destination and no motive, and God does not appear in the chapter. What Ur *is*, in
+[[Terah (person)]] a destination and no motive, and God does not appear in the chapter. What Ur *is*, in
 Genesis, is a place someone died and a place a family walked out of.
 
 Every previous city in Genesis was founded — Enoch by Cain (4:17), Babel and the cities of Shinar and
@@ -54,7 +54,7 @@ Canaan would have no reason to pass through Haran except that the northern route
 avoids the desert. Joshua 24:2–3 places the fathers *"beyond the River"*, which reads most naturally
 of the upper Euphrates. Genesis 24:4 and 10 call the Haran district Abraham's *"country"* and his
 *"relatives"*, and send the servant there, not to Babylonia. And four names in the register —
-[[Serug]], [[Nahor (son of Serug)]], [[Terah]], and less certainly [[Reu]] — correspond to towns in
+[[Serug]], [[Nahor (son of Serug)]], [[Terah (person)]], and less certainly [[Reu]] — correspond to towns in
 that same small district. A northern Ur has been proposed at Urfa (ancient Edessa, modern Şanlıurfa),
 where local tradition has long placed Abraham, and at a site *Ura* named in Hittite and Ugaritic
 texts. The case is circumstantial and the position is a minority one.
@@ -104,7 +104,7 @@ early, in the chapter that predicts the Egypt version. See [[The Covenant Betwee
 ## Events here
 
 - [[Haran (son of Terah)]] dies before his father — Genesis 11:28
-- [[Terah]] takes Abram, Sarai, and Lot and leaves for Canaan — Genesis 11:31
+- [[Terah (person)]] takes Abram, Sarai, and Lot and leaves for Canaan — Genesis 11:31
 - Cited by Yahweh as what Abram was brought out of — Genesis 15:7,
   [[The Covenant Between the Pieces]]
 - Cited by the Levites in Nehemiah's covenant prayer — Nehemiah 9:7

@@ -7,10 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+A landmark before the sea crossing, locating Pihahiroth (7).
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 **The landmark Israel camps *"opposite"* before crossing the sea** — *"before Pihahiroth, between Migdol and
 the sea, before Baal Zephon. You shall encamp opposite it by the sea"* (Exodus 14:2). It is named again when
 the chariots overtake them *"beside Pihahiroth, before Baal Zephon"* (14:9), and in the itinerary of Numbers
-33:7 (WEB; *not yet ingested*).
+33:7 (WEB).
 
 ***Baʿal ṣəpōn*** (WLC) — **a place-name carrying the name of a god**: *Baal of Zaphon*, or *of the north*.
 *Baʿal* is an ordinary Hebrew noun for *owner* or *husband* (Genesis 20:3), and as a divine name it
@@ -24,6 +30,8 @@ Egypt"* (12:12). **The text does not draw that line**; the wiki notes it and ado
 **Its location is not known.**
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Crossing of the Sea]] — Exodus 14:2, 9; **the landmark the camp faces**
 

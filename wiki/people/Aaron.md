@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The stages of the journey — Numbers 33:1–49
+
+The opening recalls his leadership with Moses (1). His death on Mount Hor is dated to the first day of the fifth month of the fortieth year, at age 123 (38–39). The list pauses for this death before continuing toward Moab.
+
+See [[The Stages of the Journey]]. Source: stored WEB Numbers 33:1–49.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Aaron's death is the precedent for Moses': *you also shall be gathered to your people, as Aaron
@@ -726,6 +732,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; the precedent for Moses being gathered to his people.
 
