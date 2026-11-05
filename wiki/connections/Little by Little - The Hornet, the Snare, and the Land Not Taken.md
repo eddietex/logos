@@ -13,8 +13,7 @@ tags: [connection]
   as *"a snare"* — [[The Angel Sent Ahead]]
 - **Exodus 34:11–13** — *"I drive out before you"*; *"lest it be for a snare among you"*; break their
   altars and pillars (WEB)
-- **Numbers 33:55** — those left *"will be as pricks in your eyes and as thorns in your sides"*
-  (WEB; *not yet ingested*)
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56; removal, allotment, harassment, and judgment.
 - **Deuteronomy 7:1–5, 20–24** — seven nations; no covenant, no marriages; the hornet; *"little by
   little … lest the animals of the field increase on you"* (WEB; *not yet ingested*)
 - **Joshua 23:13** — *"they shall be a snare and a trap to you"* (WEB; *not yet ingested*)
@@ -69,6 +68,17 @@ timetable for gradual removal is stated in this unit. Those details remain featu
 earlier speech, not quotations to supply here.
 
 Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
+
+### The warning at the border — Numbers 33:50–56
+
+[[Drive Out the Inhabitants]] joins the destruction of cult objects to removal of the inhabitants (52),
+then adds possession, dwelling, and proportional allotment by lot (53–54). The inhabitants
+left behind will harass Israel (55); Yahweh threatens Israel with their intended fate (56).
+The danger here is therefore military as well as religious, and culminates in divine judgment.
+The earlier Exodus account’s planned gradual removal and this warning against failure remain
+in tension; Numbers gives no deadline that would settle their practical relationship.
+
+Numbers 33:50–56 checked in stored WEB. See also [[The Same Judgment on Israel - Leviticus 18 and Numbers 33]].
 
 ## Significance
 

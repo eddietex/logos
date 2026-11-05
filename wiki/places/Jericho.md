@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+Jericho locates the speech by the Jordan in the plains of Moab (50). It remains a geographical
+reference point, not a city reported conquered here.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The final camp is located by the Jordan at Jericho (48), not inside a conquered city.
@@ -25,6 +32,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

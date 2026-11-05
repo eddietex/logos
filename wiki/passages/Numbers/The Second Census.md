@@ -117,6 +117,8 @@ Copied from stored WEB, raw/bible/Numbers.md.
 - [[The Wilderness]]
 
 ## Cross-references
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56; the rule of proportional shares and lot repeated at the border.
 - [[Two Censuses and a Passing Generation - Numbers 1 and 26]]
 - [[Korah Died but His Sons Lived - Numbers 16 and 26]]
 - [[The Twelve Sons and the Lists That Reorder Them]]

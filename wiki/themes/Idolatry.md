@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+Removal of the inhabitants is joined to destruction of stone idols, molten images, and high
+places (52). The charge concerns the land’s worship as well as possession. The passage gives
+no inventory of deities or identification of particular archaeological objects.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The retrospective explicitly includes judgment on Egypt’s gods (4); it supplies neither a list of gods nor a one-to-one correspondence between gods and plagues.
@@ -275,6 +283,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

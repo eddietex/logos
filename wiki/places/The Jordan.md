@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+The river marks the crossing still ahead (50–51). Directions for life beyond it are given
+before Israel crosses; no crossing occurs within this unit.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Israel camps beside the river at Jericho, from Beth Jeshimoth to Abel Shittim (48–49); no crossing is narrated.
@@ -85,6 +92,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

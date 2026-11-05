@@ -119,6 +119,8 @@ still at Sinai. Nothing in these verses reports that any of it has happened yet.
 
 ## Cross-references
 
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56; see [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
 - [[Blessings for Obedience]] — Leviticus 26:3–13, a fuller list of promises under a stated condition.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; the presence crisis after the calf.

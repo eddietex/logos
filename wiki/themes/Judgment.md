@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+The inhabitants who remain will harass Israel (55), and Yahweh threatens to do to Israel what
+he intended for them (56). This is a conditional warning, not a report of Israel’s expulsion.
+It parallels Leviticus 18:24–28, where the land can expel Israel as it expelled earlier inhabitants.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Egypt’s firstborn are struck and its gods judged (4). Aaron’s commanded death is recalled (38); its Meribah rationale is supplied by Numbers 20:24, not repeated here.
@@ -734,6 +742,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

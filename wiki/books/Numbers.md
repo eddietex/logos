@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Drive Out the Inhabitants]] (33:50–56) turns from the itinerary to commands for entry: removal of
+inhabitants and idols, possession and allotment, and a warning that Israel can face the same
+judgment. The land gift does not make the recipients immune from dispossession.
+
 [[The Stages of the Journey]] (33:1–49) gathers the journey from Egypt to Moab into a written itinerary
 attributed to Moses at Yahweh’s command. Aaron’s date and age at death interrupt the stages;
 the route is preserved without resolving every difference from the earlier narratives.
@@ -254,7 +258,7 @@ merge, or reorder them freely.
 - [x] [[The War Against Midian]] — Numbers 31:1–54
 - [x] [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [x] [[The Stages of the Journey]] — Numbers 33:1–49
-- [ ] Drive Out the Inhabitants — Numbers 33:50–56
+- [x] [[Drive Out the Inhabitants]] — Numbers 33:50–56
 - [ ] The Borders of the Land — Numbers 34:1–29
 - [ ] The Levitical Cities and the Cities of Refuge — Numbers 35:1–34
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13

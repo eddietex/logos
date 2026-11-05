@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+The plains of Moab are explicitly the setting of Yahweh’s speech to Moses (50), continuing
+the itinerary’s final camp. The command concerns Canaan across the river, not an attack on Moab.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The itinerary ends in the plains of Moab, by the Jordan at Jericho, with the camp extending from Beth Jeshimoth to Abel Shittim (48–49).
@@ -157,6 +164,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

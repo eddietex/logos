@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+The gift of land grounds the command to take possession and dwell (53). Allotment combines
+family and tribal belonging, proportional shares, and lot (54), as in Numbers 26:52–56.
+The procedure coordinating size and lot remains unspecified. The closing threat (56) prevents
+reading the gift as an unconditional guarantee of continued occupation.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The movement ends in the plains of Moab, with an extended camp beside the Jordan (48–49). Arrival at the border is distinguished from entry and possession.
@@ -447,6 +456,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land he will not enter.

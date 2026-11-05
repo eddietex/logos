@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+The entry command joins dispossession, removal of cult objects, settlement, and ordered
+allotment (51–54). Failure has both human consequences, harassment, and a divine threat (55–56).
+Divine gift and commanded action are held together rather than made alternatives.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 A petition becomes a statute for Israel (5–11). The succession order is daughter when there is no
@@ -1011,6 +1019,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

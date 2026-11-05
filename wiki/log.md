@@ -21994,3 +21994,32 @@ or controller files changed.
 
 File accounting: 29 new content pages; 93 existing wiki pages revised (including the
 Terah rename, its inbound links, indexes, dashboard, and this log).
+
+
+## [2026-11-05] ingest | Numbers 33.50-56 — Drive Out the Inhabitants
+
+Ingested [[Drive Out the Inhabitants]] in unattended mode, retaining the planned boundary.
+The passage follows the itinerary with commands to remove inhabitants and cult objects,
+possess and allot the land, and heed the warning that Israel can face the same judgment.
+Distinguished commanded expulsion from an unreported battle or a command here to kill every resident.
+
+Created 2 pages: the passage and
+[[The Same Judgment on Israel - Leviticus 18 and Numbers 33]]. Revised 17 existing content pages:
+Numbers; God and Moses; Moab (place), the Jordan, Jericho, and Canaan; Land and Sojourning,
+Idolatry, Judgment, Law and Obedience, War, and The Nations; the existing Little by Little
+connection; and the Exodus 23, Leviticus 18, and Numbers 26 passage cross-references.
+Updated 7 index/dashboard pages and this log (25 existing wiki pages revised in total).
+Numbers is now 51 / 54 pericopes, still in progress. Counts by frontmatter: 322 passages,
+242 people, 186 places, 87 themes, 709 connections.
+
+Quoted text was copied from stored WEB Numbers 33 and checked against the raw lines.
+Comparisons were read in stored WEB Exodus 23, Leviticus 18, and Numbers 26; no new quotation
+from an unstored book or exact source-language assertion was introduced. The existing tension
+between planned gradual removal and failure to remove inhabitants is retained explicitly,
+as is the distinction between gift and immunity from judgment. Allotment mechanics remain
+unspecified rather than reconstructed. No new person or place was needed, and no boundary,
+raw-source, schema, or harness change was made.
+
+Validation: scripts/link-check.sh passed both checks (58 expected unstarted-book targets).
+Frontmatter totals and passage-title uniqueness checked; quoted verses match the stored source.
+No unresolved ingest blocker. Agent: Codex.

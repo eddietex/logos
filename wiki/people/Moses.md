@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+Moses receives Yahweh’s command in the plains of Moab and is charged to speak it to Israel
+(50–51). He mediates instructions for crossing and settlement; this speech does not narrate
+his own entry into Canaan.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Moses and Aaron lead the departure (1), but Moses alone is named as the writer of the journeys at Yahweh’s command (2). This attribution concerns the itinerary; it does not by itself attribute every part of Numbers to him.
@@ -1383,6 +1391,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

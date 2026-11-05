@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+Israel is commanded to drive out all the inhabitants (52). The text envisages coercive
+dispossession and warns of continuing harassment (55), but narrates no battle and supplies
+no casualty list or command here to kill each inhabitant. Those distinctions should not
+soften the expulsion it actually commands.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The second census — Numbers 26:1–65
 
 The 601,730 are those eligible for war from twenty upward (2, 51), not the entire population. Levi
@@ -317,6 +326,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

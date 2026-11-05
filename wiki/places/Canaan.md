@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+Canaan is the destination across the Jordan (51), given for possession and dwelling (53).
+Its inhabitants and cult objects are to be removed (52); family and tribal shares are assigned
+by lot with larger shares for larger groups (54). Israel itself faces judgment if it disobeys (56).
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The king of Arad lives in the South in Canaan (40). Israel’s final camp remains across the Jordan.
@@ -250,6 +258,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+The inhabitants of Canaan are collectively marked for removal (52), without a list of named
+peoples. Israel is not exempt from the fate threatened against them (56). This is the speech’s
+theological framing, not independent evidence about each inhabitant’s conduct.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### Foreigners and acceptable offerings — Leviticus 22:17–33
 
 Foreigners in Israel may bring burnt offerings under the same no-defect rule (18), as at Leviticus
@@ -226,6 +234,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

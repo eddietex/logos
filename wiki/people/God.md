@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Drive out the inhabitants — Numbers 33:50–56
+
+Yahweh gives Canaan for possession (53), orders the removal of inhabitants and cult objects (52),
+and warns that the judgment intended for them can fall on Israel (56). The giver is also the judge;
+the grant does not confer immunity.
+
+See [[Drive Out the Inhabitants]]. Source: stored WEB Numbers 33:50–56.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Yahweh commands the written record (2), strikes Egypt’s firstborn and judges its gods (4), and commands Aaron’s ascent before his death (38). Deliverance and the death of a leader belong to the same remembered journey.
@@ -3338,6 +3346,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *struck* the land (4), swore the wilderness sentence (10–11), and is the one *before* whom the tribes cross (20–32).
