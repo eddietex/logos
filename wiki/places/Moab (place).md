@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The hearing continues the plains-of-Moab setting supplied by Numbers 26:3, 63. Numbers 27:2
+specifies the Tent of Meeting's entrance but does not repeat the regional name; Moab is therefore
+contextual, not an explicit place-name in this unit.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 The plains of Moab are the setting of the second census (3, 63), after the plague and before the
@@ -119,6 +128,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

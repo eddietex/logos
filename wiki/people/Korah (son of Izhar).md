@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The daughters explicitly deny that Zelophehad belonged to Korah's company (3). This retrospective
+reference distinguishes their father's unspecified sin from that rebellion; it does not claim he
+was sinless.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 The retrospective explicitly places him in the earth’s swallowing (10), while his sons survive (11)
@@ -70,6 +79,7 @@ See [[The Levites and the Firstborn Counted]]. Source: stored WEB Numbers 3.
 - His sons survive — Numbers 26:11, [[The Second Census]]
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

@@ -212,3 +212,8 @@ Whether John has Numbers 9 in mind is not stated. The Greek of those verses was 
 the Westminster Leningrad Codex in the Open Scriptures Hebrew Bible (morphhb), by its Strong's and morphology
 tags, 2026-11-01; statements of *only* describe those tags. No commentary, lexicon, or grammar was consulted,
 and the readings are the wiki's own.
+
+### The daughters’ petition in Numbers 27
+
+[[The Petition of Zelophehad's Daughters]] develops the inheritance and petition comparison.
+See [[Wait, That I May Hear - The Cases Moses Took to Yahweh]].

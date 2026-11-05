@@ -12,6 +12,15 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The daughters' descent through Machir, Gilead, Hepher, and Zelophehad locates their inheritance
+claim within Manasseh's families (1). Descent establishes the family to which the requested
+possession belongs.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 The tribe bearing his name has 52,700 men in the second military census (Numbers 26). The register
@@ -132,6 +141,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

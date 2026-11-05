@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The possession passes to daughters when there is no son (7–8). Unlike Job 42:15, where daughters
+receive alongside brothers, this law addresses a sonless estate. It does not state a general ban
+on a father's gifts to daughters when sons exist.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 **Genesis is a book about property, and it never once says whether property is good.**
 
 Livestock, silver, gold, slaves, tents, wells, a cave, a field, a coat. The narrative is full of
@@ -727,6 +736,7 @@ Twelve princes give 2,400 shekels of silver and 120 of gold, by the shekel of th
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

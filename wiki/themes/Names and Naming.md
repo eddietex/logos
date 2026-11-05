@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The five sisters are individually named (1), and their argument concerns the survival of their
+father's name within his family (4). Inheritance preserves family continuity; the text does not
+describe a requirement to change anyone's personal name.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 Ancestral names organize families and inheritance (5–56). Serah and Zelophehad’s five daughters are
@@ -204,6 +213,7 @@ its cluster (24). The first has no explanation, and the second has one.
 See [[The Twelve Spies]].
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

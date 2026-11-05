@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Petition of Zelophehad's Daughters]] (27:1–11) turns the census notice of a sonless family
+into a ruling: daughters inherit before paternal collateral relatives when no son survives.
+The public petition is affirmed and becomes a general succession statute.
+
+
 [[The Second Census]] (26:1–65) counts the new military generation and prepares land
 allotment. Levi is separately counted; the closing notice confirms the wilderness sentence
 with Caleb and Joshua as exceptions. Named survivors qualify indiscriminate accounts of judgment.
@@ -208,7 +213,7 @@ merge, or reorder them freely.
 - [x] [[Balaam's Last Oracles]] — Numbers 23:27–24:25
 - [x] [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18
 - [x] [[The Second Census]] — Numbers 26:1–65
-- [ ] The Daughters of Zelophehad — Numbers 27:1–11
+- [x] [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11
 - [ ] Joshua Commissioned — Numbers 27:12–23
 - [ ] Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
 - [ ] The Offerings of the Appointed Feasts — Numbers 28:16–29:40
@@ -297,6 +302,8 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — vision and dream, and Moses set above both
 
 ## Key people
+
+- [[The Daughters of Zelophehad]] and [[Zelophehad]] — the inheritance petition (27:1–11).
 
 - [[Phinehas (son of Eleazar)]], [[Zimri (son of Salu)]], [[Cozbi]], [[Salu]], [[Zur]], and [[Baal Peor]] — Numbers 25.
 

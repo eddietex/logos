@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The daughters speak for their family's claim before the assembled authorities; Moses brings their
+cause to Yahweh (2–5). The resulting judgment affirms their speech. Asking for a ruling is not
+treated as rebellion.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Phinehas turns wrath from the congregation through intervention credited as atonement (7–13). No
@@ -447,6 +456,7 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Eleazar stands with Moses, the princes, and the congregation when the daughters present their
+petition at the Tent entrance (2). No separate response by the priest is recorded; Moses brings
+the case to Yahweh.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 He now shares the census with Moses (1–3, 63), occupying the place Aaron held at the first count
@@ -251,6 +260,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

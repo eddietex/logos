@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Moses brings the daughters' case before Yahweh (5), then receives both the favorable judgment and
+the general inheritance ordinance (6–11). He mediates the decision rather than dismissing their
+petition or supplying his own ruling.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 He counts with Eleazar on the plains of Moab and receives the allotment command (1–4, 52–63). His
@@ -1310,6 +1319,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

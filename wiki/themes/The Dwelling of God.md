@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The Tent of Meeting's entrance is the public setting for the petition before Moses, Eleazar,
+princes, and congregation (2). The daughters' approach for judgment is not described as entry into
+the sanctuary's restricted interior.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 The people weep at the door of the Tent of Meeting (6), making the sanctuary entrance the public
@@ -503,6 +512,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

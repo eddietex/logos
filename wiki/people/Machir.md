@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Numbers 27:1 places Machir between Manasseh and Gilead in the petitioners' ancestry. His role here
+is genealogical, not as a living participant in the hearing.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 Named as Manasseh’s son and Gilead’s father (29), linking the family remembered in Genesis 50:23 to
@@ -66,6 +74,7 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

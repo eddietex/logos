@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The genealogy of Numbers 27:1 makes explicit the line
+Joseph–Manasseh–Machir–Gilead–Hepher–Zelophehad. Gilead and Hepher remain recorded in this
+collective register; neither is assigned a separate act here. This Gilead is a person in the
+lineage, not the region.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 The ancestral families of Numbers 26 are preserved together here where no separate
 biographical page exists. A clan name does not establish that its ancestor is alive
 at the time of the count. Distinct occurrences of Nemuel, Hezron, and Zerah must not
@@ -90,6 +100,7 @@ here is in Gilead’s line, not Hamor’s son or the city.
 - Numbers 26 — recorded in the second census.
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:1–65.
 
 ## Related people

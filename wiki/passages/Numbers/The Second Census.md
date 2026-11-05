@@ -151,3 +151,8 @@ The family register is preserved in [[The Families of the Second Census]].
 **Boundary and sources.** The planned whole-chapter boundary is retained. All new quotations
 are copied from stored WEB. Comparisons use stored Numbers 1, 14, 16, 25; Genesis 46 and 48;
 and Exodus 6. No new Hebrew or Greek wording claim or unverified external quotation is made.
+
+### The daughters’ petition in Numbers 27
+
+[[The Petition of Zelophehad's Daughters]] develops the inheritance and petition comparison.
+See [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]].

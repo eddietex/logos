@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Yahweh affirms the daughters' claim and commands that their father's inheritance pass to them
+(6–7). He makes the case a general statute: when there is no son, the daughter inherits, followed
+in her absence by progressively more distant paternal kin (8–11).
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 Yahweh commands the new muster and the land division (1–2, 52–56). The closing notice presents the
@@ -3287,6 +3296,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

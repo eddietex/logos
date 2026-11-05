@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+The daughters distinguish dying in one's own sin from belonging to Korah's company (3). They do
+not claim their father was innocent. Neither his particular sin nor the precise circumstances of
+his death are supplied, and his death does not disqualify their inheritance.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### Baal Peor — Numbers 25:1–18
 
 Israel’s own sexual and cultic infidelity brings judgment (1–3), despite the blessing that an
@@ -646,6 +655,7 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

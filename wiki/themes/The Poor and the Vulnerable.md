@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Five women facing exclusion from their father's possession can present a public petition and
+receive an enforceable inheritance ruling (2–11). The text establishes their vulnerability to loss
+of inheritance; it does not say they are already destitute.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The returned daughter — Leviticus 22:13
 
 A childless widowed or divorced priest's daughter who returns home is fed from the holy things
@@ -400,6 +409,7 @@ Inability to afford a lamb, and then even two birds, receives explicit provision
 See [[Confession and Offerings According to Means]]. Source: stored WEB Leviticus 5:1–13.
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.

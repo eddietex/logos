@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Following the census allotment instructions, a family without sons receives an explicit right to
+inherit through daughters (7–8). The grant is commanded before possession of the land; the hearing
+is not a narrated distribution of fields.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 Allotment is to reflect numbers, while land is divided by lot (52–56). Both instructions stand;
@@ -415,6 +424,7 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

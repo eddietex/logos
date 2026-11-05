@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+Joseph is the named father of Manasseh at the head of the petitioners' tribal ancestry (1). He is
+an ancestor in the genealogy, not a participant in the hearing.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 His descendants are counted through Manasseh and Ephraim (28–37); he is not a separate thirteenth
@@ -426,6 +434,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

@@ -7,61 +7,39 @@ tags: [connection]
 
 ## Passages involved
 
-- **Job 42:13–15** — *"He had also seven sons and three daughters. He called the name of the first, Jemimah;
-  and the name of the second, Keziah; and the name of the third, Keren Happuch. In all the land were no women
-  found so beautiful as the daughters of Job. Their father gave them an inheritance among their brothers."* —
-  [[The Restoration of Job]]
-- **Job 1:2, 4** — the first seven sons and three daughters, unnamed; the sisters *"sent and called for"* to
-  the brothers' feasts — [[Job of Uz]]
-- **Numbers 27:1–8** *(not yet ingested)* — the daughters of Zelophehad, of the tribe of
-  [[Manasseh]] — Mahlah, Noah, Hoglah, Milcah, and Tirzah — ask for *"a possession among the brothers of our
-  father"* because *"He had no sons"* (27:3–4). Yahweh: *"The daughters of Zelophehad speak right. You shall
-  surely give them a possession of an inheritance among their father's brothers"* (27:7); and the general
-  rule, *"If a man dies, and has no son, then you shall cause his inheritance to pass to his daughter"* (27:8).
-- **Numbers 36; Joshua 17:3–6** *(not yet ingested)* — the ruling's sequel: the daughters marry within the
-  tribe, and receive their portion in the land.
+- [[The Restoration of Job]] — Job 42:13–15.
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
+- [[The Second Census]] — Numbers 26:33, 52–56.
 
 ## Analysis
 
-**Both texts name daughters who inherit, and the difference between them is the point.**
+Both accounts name daughters who receive an inheritance, but under different circumstances.
+Job has seven sons and three named daughters, and gives the daughters an inheritance among
+their brothers (Job 42:13–15). Zelophehad has no sons; his five daughters request a possession
+among their father's brothers (Numbers 27:1–4). Yahweh affirms their claim and makes succession
+through daughters, when no son exists, a general ordinance (7–11).
 
-In Numbers the daughters of Zelophehad are named five times over, because their case makes law, and the law
-it makes is a fallback: daughters inherit *when there is no son*. The ruling protects a father's name (27:4) by
-letting his property pass through his daughters rather than out of his family.
+**Correction to the earlier synthesis.** The previous statement that Job's daughters “would
+inherit nothing” under Numbers 27:8 overstated what this statute establishes. It specifies
+succession for a sonless man; it does not prohibit a living father's gift to daughters who
+have brothers. Job's setting is not identified as Israel under this law. The comparison is
+between a narrated gift and an explicit succession rule, not a demonstrated breach of law.
 
-Job's daughters have seven living brothers. **Under the rule of Numbers 27:8 they would inherit nothing.**
-Their father gives them an inheritance anyway, *bətôk ʾăḥêhem*, *among their brothers* — nearly the phrase of
-Numbers 27:4, *bətôk ʾăḥê ʾābînû*, *among the brothers of our father*, which Yahweh's answer repeats at 27:7. The epilogue does not say why.
-It says only that they were the most beautiful women in the land, and that their father gave.
+The sisters' concern is their father's name within his family (27:4). In Job the narrative
+names the daughters while giving only the number of the sons. Naming and possession give
+these women a distinct place in both accounts, although neither text says it is interpreting
+the other. See [[Names and Naming]] and [[Wealth and Possessions]].
 
-### Reading the gift
-
-- **Excess, not law.** The epilogue doubles everything that can be doubled; this is the one place where Job
-  himself acts, and he goes past what any rule required. A man who had sworn that he never withheld from the
-  poor what they desired (31:16) and that his land never cried out against him (31:38) ends the book giving
-  more than the law of inheritance asks.
-- **Outside Israel's law.** Job is not an Israelite and Numbers is not his law; the book never mentions Sinai.
-  So the gift may simply reflect another custom. The wiki notes that this makes it neither a breach of Numbers
-  nor an endorsement of it, and does not press a contrast the book does not draw.
-- **The daughters named, the sons not.** The first daughters were sent for to eat with their brothers (1:4);
-  the second are named, praised, and endowed, while their brothers are only a number. **In a book with almost no
-  women in it — one sentence from Job's wife, and nothing from anyone else — the last people it names are
-  three women.** See [[Job's Children]] and [[Names and Naming]].
-
-### *Speak right*
-
-Numbers 27:7 has Yahweh say *"The daughters of Zelophehad speak right"* — *kēn … dōbərōt*, from the root *kûn*.
-Job 42:7–8 has Yahweh say twice that the friends did not speak *the thing that is right*, *nəkônâ*, from the same
-root, as Job did. **Both chapters join *speaking right* before God with an inheritance that goes past the
-expected line.** The wiki records the coincidence as an observation; it does not claim the epilogue alludes to
-Numbers, and the root *kûn* is common. See
-[[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]].
+The WEB also offers a comparison in divine approval of speech: Yahweh affirms the daughters
+in Numbers 27:7 and contrasts Job's speech with his friends' in Job 42:7–8. This is a thematic
+comparison, not proof of literary dependence. The earlier Hebrew root comparison has not
+been verified against a source-language edition in this pass and is not relied upon here.
 
 ## Significance
 
-- It shows the epilogue's restoration ending in an act of Job's own, not only in gifts to him — and an act of
-  generosity beyond obligation.
-- It sets Job's daughters beside the daughters of Zelophehad as the Old Testament's two named cases of
-  daughters who inherit, one by petition and law, one by a father's free gift.
-- It is a small sign, at the very end of a book about a man who lost everything, of what he does with what he
-  is given. See [[Wealth and Possessions]] and [[Birthright and the Firstborn]].
+[[The Daughters of Zelophehad]] obtain a ruling that keeps their father's inheritance in
+his family through them. [[Job's Children]] receive a gift without a narrated petition.
+Both texts resist a blanket assertion that daughters never receive property in these
+narratives, while Numbers retains the priority of a son in its succession rule.
+
+Source: stored WEB Job 42:7–8, 13–15 and Numbers 26:33, 52–56; 27:1–11.

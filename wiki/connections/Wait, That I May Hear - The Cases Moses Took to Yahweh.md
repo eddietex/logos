@@ -10,10 +10,21 @@ tags: [connection]
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23; *They put him in custody, until Yahweh's will should be declared to them* (12)
 - [[The Passover in the Second Year]] — Numbers 9:6–14; *Wait, that I may hear what Yahweh will command concerning you* (8)
 - [[The Sabbath Breaker]] — Numbers 15:32–36; *They put him in custody, because it had not been declared what should be done to him* (34)
-- Numbers 27:1–11 — the daughters of Zelophehad; *Moses brought their cause before Yahweh* (5) *(stored WEB, not yet ingested)*
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11; Moses submits the petition (5).
 - Numbers 36:1–12 — the same inheritance, questioned by the heads of Gilead's family *(stored WEB, not yet ingested)*
 
 ## Analysis
+
+### The inheritance petition now ingested
+
+The five daughters appear before Moses, Eleazar, the princes, and the whole congregation
+at the Tent entrance (27:1–2). Moses brings their cause to Yahweh (5). The answer first
+confirms their claim (7), then lays down a succession rule for Israel (8–11). Like the
+Passover request in Numbers 9:6–14, an appeal about exclusion produces a provision for
+future cases. Unlike the custody cases, these petitioners are not accused of wrongdoing.
+
+See [[The Petition of Zelophehad's Daughters]].
+
 
 ### The Sabbath case now ingested
 

@@ -424,3 +424,8 @@ Lord is full of compassion and mercy."*
   Job spoke *"without knowledge"* (38:2) and that he spoke *"the thing that is right"* (42:7). Both are in the text,
   and every page that quotes one of them is left as it is. [[Words Without Knowledge - Job 34.35, 35.16, 38.2, and 42.3]]
   already frames the question; it is updated, not corrected.
+
+### The daughters’ petition in Numbers 27
+
+[[The Petition of Zelophehad's Daughters]] develops the inheritance and petition comparison.
+See [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]].

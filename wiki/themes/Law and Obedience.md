@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The daughters’ inheritance — Numbers 27:1–11
+
+A petition becomes a statute for Israel (5–11). The succession order is daughter when there is no
+son, then brothers, paternal uncles, and nearest family kinsman. The favorable ruling does not
+abolish the son's priority or prescribe equal shares for sons and daughters together.
+
+See [[The Petition of Zelophehad's Daughters]]. Source: stored WEB Numbers 27:1–11.
+
+
 ### The second census — Numbers 26:1–65
 
 Moses and Eleazar conduct the commanded census; the land instructions join proportional shares and
@@ -979,6 +988,7 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+- [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

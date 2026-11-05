@@ -21690,3 +21690,30 @@ No raw text, schema, workflow, or controller file changed; no new original-langu
 Progress: 313 passages, 236 people, 145 places, 87 themes, 697 connections;
 Numbers 42 / 54. Link checks clean (58 expected unstarted-book targets).
 No unresolved operational issue.
+
+## [2026-11-05] ingest | Numbers 27.1-11 — The Petition of Zelophehad's Daughters
+
+Ingested one pericope in unattended mode with Codex. The five daughters' public petition,
+Moses' referral, Yahweh's affirmation, and the general succession ordinance are recorded.
+Numbers is now 43 / 54 pericopes; the 27:1–11 boundary is unchanged. The provisional title
+was expanded to avoid collision with the existing person page The Daughters of Zelophehad.
+
+Created one passage page; revised 35 existing pages, including the book, three related
+passages, ten person pages, one place page, eight theme pages, two connection pages,
+nine indexes/dashboards, and this log. The sisters remain collective because they act
+together; Hepher and Gilead remain in the existing family-register page. The regional
+setting is explicitly marked as contextual. No raw text or workflow instructions changed.
+
+Updated the cases-brought-to-Yahweh and Job-daughters inheritance connections. Corrected
+the latter's overstatement that Job's daughters could inherit nothing under Numbers 27:
+the statute regulates sonless succession without forbidding gifts to daughters alongside
+sons. Removed reliance on an unverified Hebrew comparison, with the limitation stated
+on the connection page. All new verse quotations come directly from stored WEB; the
+comparisons were checked against stored Numbers 9 and 26 and Job 42. No external verse
+quotation or new source-language claim was introduced.
+
+Frontmatter recount: 314 passages, 236 people, 145 places, 87 themes, 697 connections;
+8 books started, 7 complete. Corrected a pre-existing dashboard undercount of people
+(233 instead of 236); no person pages were created in this pass.
+Link checks passed with 58 expected not-yet-started book targets; no wrapped or unexpected
+dangling links. No unresolved ingestion issue.
