@@ -284,7 +284,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Jacob's Flocks]] — Genesis 30:27: ***ʾim-nāʾ māṣāʾtî ḥēn bəʿênêkā***, **the theme's formula used
   downward.** *"If now I have found favor in your eyes, stay here"* is what Abraham says to the three
   visitors (18:3) and Lot to the angels (19:19) — **a petitioner's idiom, addressed by a master to
-  his own hired man.** [[Laban]] has just been handed a resignation and answers it as a supplicant,
+  his own hired man.** [[Laban (person)]] has just been handed a resignation and answers it as a supplicant,
   and the reason he gives is that God has been enriching him through the man he is asking to keep.
   **The one place in Genesis where *ḥēn* runs from the powerful to the powerless**, and it is a
   negotiating posture rather than a gift

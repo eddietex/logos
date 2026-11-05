@@ -66,7 +66,7 @@ stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Is
   mother calls *"a few days"* and what turns out to be twenty years
 - [[Jacob's Ladder at Bethel]] — Genesis 28:10; *"Jacob … went toward Haran"*, the stated
   destination — **against 28:5's regional *Paddan Aram*, five verses earlier.** The two registers sit
-  in adjacent verses and Genesis reconciles neither; the town is where [[Laban]] is actually found
+  in adjacent verses and Genesis reconciles neither; the town is where [[Laban (person)]] is actually found
   (29:4–5)
 - [[Jacob, Leah, and Rachel]] — Genesis 29:4; **the arrival, confirmed by strangers rather than by the
   narrator.** Jacob asks a group of shepherds at a well where they are from and they say *"We are from

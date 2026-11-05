@@ -418,7 +418,7 @@ ordinary meaning of *paḥad* is **dread**, giving *the Dread that Isaac feared*
 alternative reads it against Arabic *faḫd*, thigh and hence clan, giving ***the Kinsman of Isaac***.
 **The wiki records the second as a proposal and adopts neither.**
 
-**What is not uncertain is the use Jacob puts it to.** [[Laban]] offers a joint formula — *"the God of
+**What is not uncertain is the use Jacob puts it to.** [[Laban (person)]] offers a joint formula — *"the God of
 Abraham, and the God of Nahor, the God of their father"* — **which would put the two branches' gods on
 one footing**; Jacob swears instead by his father's title alone, **and Nahor is not in it.** **A man
 who has not seen Isaac in twenty years takes an oath in a name that belongs to nobody else.** See

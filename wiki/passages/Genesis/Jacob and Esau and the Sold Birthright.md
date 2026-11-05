@@ -68,7 +68,7 @@ words earlier in this verse. The standard proposals for why it is here:
 > Aram, the sister of Laban the Syrian, to be his wife.
 
 **Four identifiers for a woman the reader met sixty-seven verses ago.** Daughter of [[Bethuel]];
-Aramean; of Paddan Aram; sister of [[Laban]]. **Nothing in this verse is new**, and Genesis 24 gave
+Aramean; of Paddan Aram; sister of [[Laban (person)]]. **Nothing in this verse is new**, and Genesis 24 gave
 all of it at greater length. The repetition is doing two things at once: it satisfies the *toledot*
 form, which files a generation with its pedigree — and **it plants Laban**, who is named here for no
 narrative reason whatever and who will own twenty years of Jacob's life from chapter 29.
@@ -420,7 +420,7 @@ handed the job.**
 - [[Abraham]] — dead, and named twice in the heading; on the book's arithmetic he was alive until
   these twins were fifteen, which Genesis supplies and never says.
 - [[Bethuel]] — named again as Rebekah's father, in a pedigree the reader already has.
-- [[Laban]] — **planted.** Named here for no reason the pericope needs, four chapters before he takes
+- [[Laban (person)]] — **planted.** Named here for no reason the pericope needs, four chapters before he takes
   over Jacob's life for twenty years and repays the younger-for-elder substitution in kind.
 
 ## Places

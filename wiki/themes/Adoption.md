@@ -38,7 +38,7 @@ parallels inside and outside Scripture, and the wiki says so where it uses them.
   by her"*), [[Rachel]] and [[Bilhah]] (30:3), [[Leah]] and [[Zilpah]] (30:9). **The child is the
   husband's by blood and the wife's by claim**, and Rachel's *"that she may bear on my knees"* is the
   gesture Genesis 48:12 reuses. **Four of the twelve tribes arrive this way.** See [[Barrenness]].
-- **A daughter's household absorbed.** [[Lot]] under Abram, [[Jacob]]'s household under [[Laban]] — but
+- **A daughter's household absorbed.** [[Lot]] under Abram, [[Jacob]]'s household under [[Laban (person)]] — but
   Laban's *"the daughters are my daughters, and the children are my children"* (31:43) **is a property
   claim in a dispute, not a transfer.** See [[Brotherhood]].
 

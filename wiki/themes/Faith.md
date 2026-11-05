@@ -346,7 +346,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
   that Hebrews 11 selects.** *"By faith, Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped,
   leaning on the top of his staff"* (Hebrews 11:21). **The New Testament's verdict on Jacob rests on this
   chapter** — **not on [[Bethel]], not on [[The Jabbok]], not on the twenty years at
-  [[Laban]]'s** — **and Hebrews 11:20 credits [[Isaac]]'s blessing in the previous verse on the same
+  [[Laban (person)]]'s** — **and Hebrews 11:20 credits [[Isaac]]'s blessing in the previous verse on the same
   ground, though Isaac did not know which son he was blessing.** **What Jacob acts on here is a promise
   about a return he will not live to see** (48:21). See
   [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]]

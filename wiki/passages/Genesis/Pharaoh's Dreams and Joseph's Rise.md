@@ -434,7 +434,7 @@ thing anyone says about anyone in the book of Genesis.**
 3. **A pagan king says it.** **Joseph does not claim the Spirit; Pharaoh attributes it to him** — and
    **Pharaoh, not Joseph, is the character in this chapter who draws the theological conclusion.**
    Genesis has a habit of putting its clearest confessions in foreign mouths:
-   [[Melchizedek]] at 14:19, [[Abimelech (of Abraham's time)]] at 20:4–5, [[Laban]] at 30:27. **This is
+   [[Melchizedek]] at 14:19, [[Abimelech (of Abraham's time)]] at 20:4–5, [[Laban (person)]] at 30:27. **This is
    the strongest of them.**
 
 ***"Only in the throne I will be greater than you."*** **A ruler in the Ancient Near East does not say

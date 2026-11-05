@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Yahweh is the source of the commandments Moses speaks to Israel (3). The introduction presents
+Moses’ address as accountable to that commission.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Yahweh's word through Moses affirms the tribal petition and requires heiresses to marry within
@@ -1459,7 +1466,7 @@ clauses.**
 birth, and across the nineteen verses of [[Jacob's Flocks]] **no verb in the passage has God as its
 subject.** He is named three times and every one is reported speech:
 
-- *"I have divined that **Yahweh has blessed me** for your sake"* — [[Laban]], 30:27
+- *"I have divined that **Yahweh has blessed me** for your sake"* — [[Laban (person)]], 30:27
 - *"**Yahweh has blessed you** wherever I turned"* — [[Jacob]], 30:30
 
 **Both sentences are true, both are about somebody else's estate, and both are arguments.** Laban's
@@ -3366,6 +3373,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

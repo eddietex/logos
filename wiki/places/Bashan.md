@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Og is identified as king of Bashan in the retrospective notice (4). The introduction assumes the
+victory already accomplished.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *The kingdom of Og king of Bashan* is given to Gad, Reuben, and half of Manasseh (33). Deuteronomy 3:13
@@ -21,6 +28,8 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [[Sihon and Og]] — Numbers 21:21–35
 

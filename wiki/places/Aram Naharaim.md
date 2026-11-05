@@ -49,7 +49,7 @@ of Nahor"* has the same ambiguity.
   the Syrian of Paddan Aram, the sister of Laban the Syrian"*.
 - Leah and Rachel are married here, and eleven of the twelve tribes are fathered here (29–30); 35:26
   lists *"the sons of Jacob, who were born to him in Paddan Aram."*
-- Jacob serves [[Laban]] twenty years in it and leaves under pursuit (31).
+- Jacob serves [[Laban (person)]] twenty years in it and leaves under pursuit (31).
 
 **And nothing is ever promised about it.** No altar is built here, no theophany occurs here, and the
 one non-negotiable clause of the oath in Genesis 24 is that Isaac must never set foot in it: *"Beware
@@ -67,7 +67,7 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:20, **the first of the ten occurrences of
   *Paddan Aram* in Genesis**, in a pedigree that repeats what chapter 24 already gave at length:
   *"Rebekah, the daughter of Bethuel the Syrian of Paddan Aram, the sister of Laban the Syrian"*. The
-  *toledot* form files a generation with its parentage — and the verse also **plants [[Laban]]**, four
+  *toledot* form files a generation with its parentage — and the verse also **plants [[Laban (person)]]**, four
   chapters before he takes over the life of the son about to be born
 - [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:2, 5–7; **four occurrences of *Paddan Aram* in
   nine verses**, more than anywhere else in the book, and the region named as an instruction for the
@@ -125,7 +125,7 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
 - Abraham's servant arrives at the well outside the city of Nahor and meets [[Rebekah]] —
   Genesis 24:10–27, [[A Wife for Isaac]]
 - Rebekah's family agrees, blesses her, and sends her to Canaan — Genesis 24:50–61
-- Jacob is sent here for a wife from the daughters of [[Laban]] — Genesis 28:2, 5,
+- Jacob is sent here for a wife from the daughters of [[Laban (person)]] — Genesis 28:2, 5,
   [[Isaac Sends Jacob to Paddan Aram]]
 - Jacob arrives, serves fourteen years, and marries Leah and Rachel — Genesis 29:1–30,
   [[Jacob, Leah, and Rachel]]

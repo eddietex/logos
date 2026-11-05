@@ -504,7 +504,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Jacob Blesses Ephraim and Manasseh]] — Genesis 48:15–16; ***"the God who has fed me all my life long to this
   day"*** — ***hārōʿeh ʾōtî***, **the first time in Scripture that God shepherds anyone**, and **the whole
   of Genesis 25–48 summarised in nine words by the man who lived them.** **The clause makes no
-  exceptions**: it covers the twenty years at [[Laban]]'s, the limp, [[Dinah]], the bloodied coat and the
+  exceptions**: it covers the twenty years at [[Laban (person)]]'s, the limp, [[Dinah]], the bloodied coat and the
   famine. **And it sits eleven verses after *"few and evil have been the days of the years of my life"***
   (47:9) **and immediately before *"redeemed me from all evil"*** (48:16). **Three verdicts on one life,
   two of them contradictory, and Genesis harmonises none of them.** See

@@ -146,7 +146,7 @@ See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
   servant's case, and *"jewels of silver, and jewels of gold, and clothing"* given to the bride with
   *"precious things"* to her brother and mother. **The negotiation for Rebekah is conducted in
   goods**, and the family's decision is announced immediately after the goods appear. See
-  [[A Wife for Isaac]] and [[Laban]].
+  [[A Wife for Isaac]] and [[Laban (person)]].
 - **Genesis 25:5–6** — inheritance managed. *"Abraham gave all that he had to Isaac"*, and the sons
   of the concubines are given **gifts** and sent east, away from the son who gets the estate. See
   [[The Death of Abraham and the Line of Ishmael]].
@@ -1086,6 +1086,6 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Lot]] — whose herds outgrow his uncle's land and who chooses by looking
 - [[Isaac]] — the only patriarch shown farming, and the only one expelled for growing too big
 - [[Jacob]] — who arrives with nothing, works twenty years, and leaves with a herd
-- [[Laban]] — who reads his own prosperity correctly and detains its cause
+- [[Laban (person)]] — who reads his own prosperity correctly and detains its cause
 - [[Job (person)]] — introduced by his possessions, stripped of them, and given twice as many back
 - [[Elihu the Buzite]] — *"Would your wealth sustain you in distress?"* (Job 36:19)

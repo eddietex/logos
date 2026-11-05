@@ -178,7 +178,7 @@ and the book grants one of them what he asks for on the spot and makes the other
 angry in the Bible**, and it is at the woman he served fourteen years for. **Genesis gives him exactly
 one speech in this pericope and it is this one.** He does not name a child, is not consulted about
 Bilhah or Zilpah, and is hired for a night by his own wife at 30:16. **The man who was put on wages by
-[[Laban]] at 29:15 is put on wages by Leah at 30:16**, and the vocabulary is the same root.
+[[Laban (person)]] at 29:15 is put on wages by Leah at 30:16**, and the vocabulary is the same root.
 
 ***"Am I in God's place?"*** ***Hătaḥat ʾĕlōhîm ʾānōkî.*** **The sentence is true and it is a refusal.**
 **Isaac, faced with the same problem, prayed** — *"Isaac entreated Yahweh for his wife, because she was
@@ -552,7 +552,7 @@ declines to connect them.**
   listened*, *God remembered.* He is heard by three of the passage's petitions and quoted in none of
   them, invoked by Jacob as the reason he can do nothing, and named *Yahweh* at the two ends of the
   pericope and *ʾĕlōhîm* through all eighteen verses of the middle.
-- [[Laban]] — **absent**, and the passage is the only stretch of Genesis 29–31 he is not in. The wages
+- [[Laban (person)]] — **absent**, and the passage is the only stretch of Genesis 29–31 he is not in. The wages
   and the flocks resume at 30:25, the verse after this one.
 
 ## Places

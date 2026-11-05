@@ -192,7 +192,7 @@ tells us about Laban is what he noticed**, and it will be doing the same thing t
 chapters: the wage changed ten times (31:7, 41), the substituted bride (29:23–25), the household gods
 he chases his daughter across a desert for (31:30–35). **He is a hospitable man throughout, and he is
 never generous without an angle**, and the chapter that turns on a woman's unforced kindness at a
-trough opens its portrait of her brother by telling you what he was looking at. See [[Laban]].
+trough opens its portrait of her brother by telling you what he was looking at. See [[Laban (person)]].
 
 The hospitality itself is impeccable — unloading, straw and feed, water for feet, a meal — and it
 follows [[The Three Visitors and Abraham's Intercession]] closely enough to be a deliberate echo. See
@@ -427,7 +427,7 @@ interpret. **Genesis 24 is where the book learns to do that.**
 - [[Isaac]] — absent for sixty-one verses of the chapter about his marriage; comes in from
   [[Beer Lahai Roi]], goes out into a field at evening to do something the Hebrew cannot name, and is
   the first husband in Scripture said to love his wife.
-- [[Laban]] — Rebekah's brother, introduced by the gold he saw; an exemplary host who runs the
+- [[Laban (person)]] — Rebekah's brother, introduced by the gold he saw; an exemplary host who runs the
   negotiation his father should be running, concedes the case to Yahweh, and then tries to keep his
   sister ten more days.
 - [[Bethuel]] — alive, present, and named second; he speaks once, jointly with his son, and is absent

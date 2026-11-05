@@ -71,12 +71,12 @@ follow too.
 - [[Isaac Sends Jacob to Paddan Aram]] — Genesis 28:2, 5; *"the house of Bethuel your mother's
   father"* is the address Jacob is given, which makes this the one verse that treats him as a living
   head of household. **It is also the last time Scripture mentions him.** Genesis narrates no death
-  for him, and when Jacob arrives it is [[Laban]] who runs out, embraces him, and takes him in
+  for him, and when Jacob arrives it is [[Laban (person)]] who runs out, embraces him, and takes him in
   (29:13–14)
 - [[Jacob, Leah, and Rachel]] — Genesis 29:1–30; **by absence, and the absence is total.** He is not
   named once in the chapter that marries off two of his granddaughters. The shepherds identify the
   household by [[Nahor (brother of Abram)]] rather than by him (29:5); [[Rachel]] runs to *her
-  father*, who is [[Laban]]; and it is Laban who receives Jacob, sets his wages, gives away both
+  father*, who is [[Laban (person)]]; and it is Laban who receives Jacob, sets his wages, gives away both
   daughters, and speaks the house rule. **The man Genesis 24 kept alive, present, and named second
   has become a name the book stops using**, and Genesis never says why
 
@@ -88,7 +88,7 @@ follow too.
 - [[Terah (person)]] — his great-grandfather on one side and his grandfather's father on the other
 - [[Abraham]] — his uncle, and his daughter's father-in-law
 - [[Isaac]] — his son-in-law
-- [[Laban]] — his son, who answers before him at 24:50 and takes the gifts at 24:53
+- [[Laban (person)]] — his son, who answers before him at 24:50 and takes the gifts at 24:53
 - [[Abraham's Servant]] — the envoy who came to deal with him and dealt with his son
 - [[Reumah]] — his father's concubine, and the mother of four of his half-brothers
 - [[Jacob]] — his grandson, sent back to his house for a wife two generations after his daughter left

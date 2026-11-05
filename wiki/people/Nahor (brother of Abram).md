@@ -83,7 +83,7 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 - [[A Wife for Isaac]] — Genesis 24:10, 15; *the city of Nahor* is the servant's destination, and the
   narrator introduces Rebekah as *the wife of Nahor, Abraham's brother*'s granddaughter rather than
   by her own father
-- [[Jacob, Leah, and Rachel]] — Genesis 29:5; **called [[Laban]]'s father**, where 22:22–23, 24:24,
+- [[Jacob, Leah, and Rachel]] — Genesis 29:5; **called [[Laban (person)]]'s father**, where 22:22–23, 24:24,
   and 28:2 make him Laban's great-grandfather through [[Bethuel]]. The two standing explanations are
   that ***bēn*** covers *descendant* — as *Jehu son of Nimshi* does at 2 Kings 9:2, 20, and as 28:13's
   *"the God of Abraham your father"* does two chapters earlier for a grandson — or that a household is
@@ -109,7 +109,7 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 - [[Reumah]] — his concubine, and the mother of four of his twelve
 - [[Bethuel]] — his eighth son, and Rebekah's father
 - [[Rebekah]] — his granddaughter, and Isaac's wife
-- [[Laban]] — his great-grandson, who runs the household when the servant arrives
+- [[Laban (person)]] — his great-grandson, who runs the household when the servant arrives
 
 ## Themes associated
 

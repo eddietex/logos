@@ -424,7 +424,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
   God tells what a prophet is for
 - [[Noah]] — who receives detailed instructions and an announcement of the future and is never called
   a prophet
-- [[Laban]] — the Bible's first diviner, who gets the right answer by a means the law will forbid and
+- [[Laban (person)]] — the Bible's first diviner, who gets the right answer by a means the law will forbid and
   is never told so
 - [[Joseph]] — the first interpreter in Scripture, and the first person to say where an interpretation
   comes from; **the only major figure in Genesis God never speaks to, given the job of telling other

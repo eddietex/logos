@@ -180,4 +180,4 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
   speaks desire and celebrates the beloved (Song of Solomon 1:2–4).
 - [[Moses]] — leads the first song
 - [[Miriam]] — leads the women with the tambourine and the refrain
-- [[Laban]] — names songs and tambourine first, as a send-off he did not give
+- [[Laban (person)]] — names songs and tambourine first, as a send-off he did not give

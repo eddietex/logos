@@ -3,9 +3,12 @@ type: person
 also_known_as: [Laban the Syrian, Laban the Aramean]
 tags: [person]
 ---
-# Laban
+# Laban (person)
 
 ## Overview
+
+Distinguished from [[Laban (place)]], the geographical name in Deuteronomy 1:1.
+The person is not a participant in that address.
 
 Rebekah's brother, Jacob's uncle and father-in-law twice over, and the Bible's most durable portrait
 of a man who is never actually unkind and never once disinterested.

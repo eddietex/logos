@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+The narrator distinguishes the source of the command, Yahweh, from its human speaker, Moses (3).
+This is mediation of teaching, not a narrated act of intercession.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 The clan heads' concern is affirmed just as the daughters' earlier claim was (27:7; 36:5). Moses
@@ -473,6 +480,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses asks for a leader; inquiry passes to Eleazar.
 

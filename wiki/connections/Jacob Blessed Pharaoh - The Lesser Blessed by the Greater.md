@@ -65,7 +65,7 @@ direction of the blessing reverses and the direction of the goods does not.**
 ### What Genesis does not do with it
 
 **It does not report Pharaoh's reaction.** **It does not say the blessing took effect.** **It does not
-even say what was said.** **Genesis 30:27 had [[Laban]] state the principle out loud** — *"I have
+even say what was said.** **Genesis 30:27 had [[Laban (person)]] state the principle out loud** — *"I have
 divined that Yahweh has blessed me for your sake"* — and **39:5 said it of [[Potiphar]]'s house in the
 narrator's own voice**: *"Yahweh blessed the Egyptian's house for Joseph's sake."* **Here, where the
 house is the whole of Egypt, the narrator says only that the old man did it.** See

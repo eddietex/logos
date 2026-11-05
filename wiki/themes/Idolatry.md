@@ -390,7 +390,7 @@ texts, 2026-10-25.
 ## Related people
 
 - [[Rachel]] — who steals the *teraphim*, hides them, and is never shown giving them back
-- [[Laban]] — who divines, keeps household gods, calls them *my gods*, and names Yahweh correctly
+- [[Laban (person)]] — who divines, keeps household gods, calls them *my gods*, and names Yahweh correctly
   three times
 - [[Terah (person)]] — the father Joshua 24:2 says served other gods, and Genesis does not
 - [[Nahor (brother of Abram)]] — whose God is invoked beside Abraham's in a plural verb

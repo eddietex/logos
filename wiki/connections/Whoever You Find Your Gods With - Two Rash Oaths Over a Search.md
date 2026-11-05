@@ -7,7 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
-- **Genesis 31:30–35** — [[Jacob's Flight from Laban]]; [[Jacob]] to [[Laban]]: *"Anyone you find your
+- **Genesis 31:30–35** — [[Jacob's Flight from Laban]]; [[Jacob]] to [[Laban (person)]]: *"Anyone you find your
   gods with shall not live"*, and the narrator's *"For Jacob didn't know that Rachel had stolen them"*
 - **Genesis 44:1–13** — [[The Silver Cup and Judah's Plea]]; the brothers to [[Joseph's Steward]]:
   *"With whomever of your servants it is found, let him die, and we also will be my lord's slaves"*

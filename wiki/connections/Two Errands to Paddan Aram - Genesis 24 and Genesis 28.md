@@ -68,7 +68,7 @@ with *"a variety of good things of his master's"* and closes the deal the same e
 and her mother (24:53). **Jacob arrives with nothing and offers seven years** (29:18), is given the wrong sister,
 and serves seven more.
 
-**And the man on the other side of the transaction is the same man.** [[Laban]] receives the
+**And the man on the other side of the transaction is the same man.** [[Laban (person)]] receives the
 servant's gifts in chapter 24 and sets the terms in chapter 29, and it is Laban who works on Jacob
 the substitution of an elder daughter for a younger — the very trick Jacob had just worked on his own
 father in the other direction. See [[The Younger Before the Firstborn - Jacob and Laban]] and

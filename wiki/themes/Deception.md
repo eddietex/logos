@@ -596,5 +596,5 @@ See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1�
   word *mirmâ* for what was done to him
 - [[Esau]] — the only person in the book to name the family's habit as a habit: *"he has supplanted
   me these two times"*
-- [[Laban]] — who runs the same substitution back on the deceiver, and calls it a local custom
+- [[Laban (person)]] — who runs the same substitution back on the deceiver, and calls it a local custom
 - [[Jochebed]] — obeys the decree to the letter and is hired to nurse her own son (Exodus 2:3, 9)

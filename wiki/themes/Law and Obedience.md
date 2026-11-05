@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Moses speaks according to Yahweh’s command and begins to declare the law (3, 5). The book presents
+instruction as a public address to Israel within its remembered history.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 A new petition produces a further rule, followed by reported compliance (1–12). Numbers ends with
@@ -1038,6 +1045,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

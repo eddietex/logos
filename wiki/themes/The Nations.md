@@ -384,7 +384,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Jacob's Flocks]] — Genesis 30:27: **an Aramean says *Yahweh*, reads providence correctly, and
   arrives at it by divination.** *"I have divined that Yahweh has blessed me for your sake"* is
   Genesis 12:3 stated by a beneficiary rather than by God, **and it is used as a reason to detain the
-  man the blessing runs through.** [[Laban]] joins [[Melchizedek]],
+  man the blessing runs through.** [[Laban (person)]] joins [[Melchizedek]],
   [[Abimelech (of Abraham's time)]], and [[Abimelech (of Isaac's time)]] in the book's standing habit
   of handing accurate theology to outsiders and never explaining where they got it — **and he is the
   only one of them who acts on it by refusing to let the carrier go**, which is what [[Egypt]] will
@@ -421,7 +421,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
   [[Seir the Horite]] and [[Edom]]
 - [[The Cupbearer and the Baker]] — Genesis 40:5–8; **Egyptians receive true revelation in their
   sleep and cannot read it.** The pattern is Genesis's most consistent and least explained habit — a
-  dream to [[Abimelech (of Abraham's time)]] at 20:3, a dream to [[Laban]] at 31:24, an accurate omen at
+  dream to [[Abimelech (of Abraham's time)]] at 20:3, a dream to [[Laban (person)]] at 31:24, an accurate omen at
   30:27 — **and here it reaches two palace servants in a jail.** What is new is that **the outsiders
   need an Israelite to read it**, and that the Israelite tells them where the reading comes from without
   ever saying the covenant name to them: he says ***ʾĕlōhîm***, as he did at 39:9 and will at 41:16
@@ -430,7 +430,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
   in whom is the Spirit of God?"* (41:38) — **and he makes it about a foreign convict, as a question to
   his own courtiers, on empirical grounds**; see [[A Man in Whom Is the Spirit of God]]. **An Egyptian
   court receives a true revelation in its sleep**, as [[Abimelech (of Abraham's time)]] did at 20:3 and
-  [[Laban]] did at 31:24, **and needs an Israelite to read it.** **Joseph marries into the priesthood of
+  [[Laban (person)]] did at 31:24, **and needs an Israelite to read it.** **Joseph marries into the priesthood of
   the Egyptian sun cult at [[On]] and Genesis does not comment.** And at 41:57 ***"all countries came
   into Egypt, to Joseph, to buy grain"*** — **the promise of 12:3 operating before anyone in the chapter
   knows it is a promise**, and the only time in Genesis that the whole earth is fed through a son of

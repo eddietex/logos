@@ -214,7 +214,7 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - Takes her son's curse onto herself: *"Let your curse be on me, my son"* — Genesis 27:13
 - Cooks the goats, dresses Jacob in Esau's clothes, and ties the skins on his hands and neck —
   Genesis 27:14–17
-- Overhears Esau's plan a second time and sends Jacob to [[Laban]] in [[Haran (city)]] for *"a few
+- Overhears Esau's plan a second time and sends Jacob to [[Laban (person)]] in [[Haran (city)]] for *"a few
   days"* — Genesis 27:42–45
 - Gives Isaac the Hittite wives as her reason, never the blessing or the murder plot; *qaṣtî
   bəḥayyay*, *I loathe my life* — **her last recorded words in Scripture** — Genesis 27:46,
@@ -281,7 +281,7 @@ Rebekah, his wife"*, seen through a window by a Philistine king.
 - [[Milcah]] — her grandmother
 - [[Isaac]] — her husband, and her father's cousin; at 24:67 the first husband in Scripture said to
   love his wife
-- [[Laban]] — her brother, who runs the negotiation, takes the gifts, and tries to keep her ten more
+- [[Laban (person)]] — her brother, who runs the negotiation, takes the gifts, and tries to keep her ten more
   days; she will send her own son to him a lifetime later
 - [[Abraham's Servant]] — the unnamed man who prays for her arrival and hands her over in one clause
 - [[Deborah (Rebekah's nurse)]] — the woman who left Paddan Aram with her, unnamed; **named at her own

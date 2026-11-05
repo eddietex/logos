@@ -99,7 +99,7 @@ about a child or about the other one; **here they answer as one and the subject 
 **foreigners** by him? For he has **sold** us, and has also **used up our money**"* (31:14–15).
 ***Nokriyyôt*** is the sharpest word the Bible has for an outsider with no claim, and ***mākar*** is
 the ordinary verb for selling a slave — **the verb [[Joseph]]'s brothers will use of him at 37:28.**
-**It is the harshest verdict anyone in Scripture passes on [[Laban]], and it comes from his
+**It is the harshest verdict anyone in Scripture passes on [[Laban (person)]], and it comes from his
 daughters.** See [[Marriage]], [[Slavery and Servitude]], and [[Wealth and Possessions]].
 
 **Then she steals the *teraphim*** (31:19), ***wattignōb*** — **the Bible's first household gods**,
@@ -289,7 +289,7 @@ over the killing of the infants at Bethlehem. See
 - [[Leah]] — her elder sister, married to the same man a week before her, in a union Leviticus 18:18
   forbids by name; see
   [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]]
-- [[Laban]] — her father, who does not name her in the verse that promises her
+- [[Laban (person)]] — her father, who does not name her in the verse that promises her
 - [[Bilhah]] — her slave, given to her at her wedding and given by her to Jacob
 - [[Rebekah]] — her husband's mother and her father's sister; the woman who left this house a
   generation earlier on the same errand, in the other direction

@@ -59,7 +59,7 @@ somebody else**, and Joseph never mentions the Spirit at all, here or anywhere.
 **2. A pagan king says it.** Genesis has a habit of putting its clearest confessions in foreign mouths —
 [[Melchizedek]] blessing Abram *"of God Most High, possessor of heaven and earth"* (14:19),
 [[Abimelech (of Abraham's time)]] pleading *"in the integrity of my heart"* to God directly (20:5),
-[[Laban]] admitting *"Yahweh has blessed me for your sake"* (30:27). **This is the strongest of them**,
+[[Laban (person)]] admitting *"Yahweh has blessed me for your sake"* (30:27). **This is the strongest of them**,
 and **the speaker is the head of the religion of [[On]].**
 
 **3. It is a question, not a proclamation.** ***Hănimṣāʾ kāzeh** — "can we find such a one as this?"* —

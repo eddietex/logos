@@ -219,7 +219,7 @@ root *l-b-n*, *white*, and ***Lābān*** is that adjective exactly.** The verse 
 twice more: he peels ***pəṣālôt ləbānôt***, ***white*** streaks, and *"made the ***white***
 appear"*, ***maḥśōp hallābān***. **Three occurrences of *lābān* in one verse, in the operation that
 strips Laban of his flock.** **Genesis does not gloss the pun and does not need to.** See
-[[Names and Naming]] and [[Laban]].
+[[Names and Naming]] and [[Laban (person)]].
 
 ***"Almond."*** ***Lûz*** — **and *Luz* is the name Genesis gave for Bethel before Jacob renamed
 it**: *"the name of that city was Luz at the first"* (28:19). **The man who slept at Luz and vowed a
@@ -371,7 +371,7 @@ arithmetic and animal husbandry, and lets nobody in either of them notice.**
   is about property or release**; he does not pray, build, vow, or mention the promise, and the verb
   Genesis uses of his prosperity in the last verse is the one God used of his offspring at Bethel.
   **Genesis passes no verdict on any of it.**
-- [[Laban]] — **he diagnoses the blessing correctly and responds by refusing to release its carrier.**
+- [[Laban (person)]] — **he diagnoses the blessing correctly and responds by refusing to release its carrier.**
   He petitions his own employee with the formula of a supplicant, admits he has been divining, opens
   a wages negotiation with the same move that cost Jacob seven years at 29:15, agrees to the terms in
   five words — and **strips every animal that could produce those wages out of the flock the same
@@ -391,7 +391,7 @@ arithmetic and animal husbandry, and lets nobody in either of them notice.**
 - **Laban's sons** — **unnamed, and the passage's quietest problem.** The odd-coloured flock is put
   *"into the hand of his sons"* (30:35), which means Laban has grown sons, three days away, with
   property of their own — and **it is their complaint that opens Genesis 31**: *"Jacob has taken away
-  all that was our father's."* No page is created for them; they are carried on [[Laban]].
+  all that was our father's."* No page is created for them; they are carried on [[Laban (person)]].
 
 ## Places
 
@@ -529,7 +529,7 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
   the book does not.
 - **On the *lābān* pun, which is the page's main philological claim.** ***Libneh*** (poplar/storax),
   ***ləbānôt*** (white, of the peeled streaks), and ***hallābān*** (the white) all sit in Genesis
-  30:37, and ***Lābān*** is the ordinary adjective *white*, as the [[Laban]] page has recorded since
+  30:37, and ***Lābān*** is the ordinary adjective *white*, as the [[Laban (person)]] page has recorded since
   Genesis 24. **The page states the wordplay as wordplay and makes no argument from it**, because
   Genesis glosses none of it.
 - **On the two explanations, which are the reason a connection page exists rather than a verdict.**
@@ -545,7 +545,7 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
   [[Two Explanations for One Flock - The Rods and the Dream]], and
   [[Divination in Genesis - Laban's Nahash and Joseph's Cup]].
 - **On what was deliberately not created.** **No page for Laban's sons** — they are given a hand to
-  hold animals in and a complaint in 31:1, and they are carried on [[Laban]] until that pericope
+  hold animals in and a complaint in 31:1, and they are carried on [[Laban (person)]] until that pericope
   arrives. **No place page**, because the passage names none. **No connection page for *šalləḥēnî*
   and the Exodus**: the proto-exodus shape of the Laban years (a service, a release refused, a
   departure with plunder, a pursuit) only completes in Genesis 31, and the material is carried here

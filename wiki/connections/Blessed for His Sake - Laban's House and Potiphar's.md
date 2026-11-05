@@ -41,7 +41,7 @@ why an Egyptian official's household prospered.
 
 **What the two cases share is more than a word.**
 
-| | [[Laban]] and [[Jacob]] | Potiphar and [[Joseph]] |
+| | [[Laban (person)]] and [[Jacob]] | Potiphar and [[Joseph]] |
 |---|---|---|
 | **the man's status** | hired shepherd, no property of his own | bought slave |
 | **who notices** | the master — *"I have divined"* | the master — *"his master saw that Yahweh was with him"* (39:3) |

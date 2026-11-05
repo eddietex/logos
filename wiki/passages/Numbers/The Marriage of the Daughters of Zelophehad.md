@@ -83,6 +83,8 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[From Commandments in Moab to Moses’ Address]] — the Moab frame and remembered victories in Deuteronomy 1:1–5.
+
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11, the ruling now qualified.
 - [[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]]
 - [[Wait, That I May Hear - The Cases Moses Took to Yahweh]]

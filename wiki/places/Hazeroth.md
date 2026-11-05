@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Named among the bearings in verse 1. The existing page also covers the Numbers campsite; identity of
+the sites is not established by this introduction alone.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The itinerary places this stage after [[Kibroth Hattaavah]] and before [[Rithmah]].
@@ -24,6 +31,8 @@ Israel stays there, *wayyihyû baḥăṣērôt* (11:35, WLC), for a length of t
 and Aaron against Moses happens here, and 12:15–16 shows the people leave only after her seven days.
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

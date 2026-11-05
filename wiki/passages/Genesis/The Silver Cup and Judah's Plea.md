@@ -102,7 +102,7 @@ are this.**
 25:31–34; [[The Ark, the Table, and the Lampstand]]). **The English *cup* in both places invites a link the Hebrew does not make.**
 
 ***Naḥēš yənaḥēš*** — *"he indeed divines"* (44:5), *"such a man as I can indeed divine"* (44:15) —
-**is the same root as [[Laban]]'s *niḥaštî* at 30:27, and Genesis contains no other occurrence.** It
+**is the same root as [[Laban (person)]]'s *niḥaštî* at 30:27, and Genesis contains no other occurrence.** It
 is also **exactly what Joseph has twice denied about himself**: *"Don't interpretations belong to
 God?"* (40:8), *"It isn't in me. God will give Pharaoh an answer of peace"* (41:16). **The chapter
 puts the claim in the mouth of a servant reading a script (44:5) and then in Joseph's own (44:15)** —
@@ -118,7 +118,7 @@ standing next to the only surviving son of the woman it killed the last time.**
 
 > **31:32** Anyone you find your gods with shall not live.
 
-**[[Jacob]] said the second one to [[Laban]] about the *teraphim*, not knowing [[Rachel]] had them.**
+**[[Jacob]] said the second one to [[Laban (person)]] about the *teraphim*, not knowing [[Rachel]] had them.**
 The narrator adds the clause it almost never adds — *"for Jacob didn't know that Rachel had stolen
 them"* — **and Rachel is dead four chapters later.** Here her son's sack is the one opened last. See
 [[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]].
@@ -638,7 +638,7 @@ himself."***
   qəšûrâ bənapšô*** (44:30) **and *"the soul of Jonathan was knit with the soul of David"***
   (1 Samuel 18:1) — **the idiom's only two occurrences**
 - [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] — ***naḥēš yənaḥēš*** at 44:5 and 44:15,
-  **the second and third occurrences of the root in Genesis after [[Laban]]'s at 30:27**, and both of
+  **the second and third occurrences of the root in Genesis after [[Laban (person)]]'s at 30:27**, and both of
   them inside a performance. **The cup is a *gābîaʿ*, not the *kôs* of 40:11**
 - [[Truly We Are Guilty - The Brothers' Confession and the Gap in Genesis 37]] — **44:16 is the second
   of the three confessions**, and the first said aloud to Joseph: *"God has found out the iniquity of

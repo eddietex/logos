@@ -233,7 +233,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a F
 
 - [[Jacob]] — charged with theft of the teraphim; *steals Laban's heart*; pays for stolen animals
 - [[Rachel]] — steals her father's teraphim
-- [[Laban]] — searches for stolen gods
+- [[Laban (person)]] — searches for stolen gods
 - [[Joseph]] — *"stolen away"*; later plants a cup as evidence of a theft
 - [[Benjamin]] — the cup found in his sack
 - [[God]] — gives the commandment and its cases; the one *"before"* whom a disputed claim is decided

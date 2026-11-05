@@ -27,7 +27,7 @@ keeps the wives he already had** — *"besides the wives that he had"* — so [[
 
 **Her identification runs through her brother, not only her father.** *"The sister of Nebaioth"* is
 how Genesis marks the male relative who negotiates a marriage: [[Rebekah]] is introduced as *"the
-sister of Laban"* and it is [[Laban]] who answers for her at 24:29, 50, and 55. **Nebaioth is
+sister of Laban"* and it is [[Laban (person)]] who answers for her at 24:29, 50, and 55. **Nebaioth is
 Ishmael's firstborn** (25:13) and is never seen; the prophets keep him as a nation whose rams serve
 at the altar (Isaiah 60:7).
 

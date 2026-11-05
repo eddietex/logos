@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+The starting point of the eleven-day route to Kadesh Barnea by Mount Seir (2). The address itself
+takes place in Moab, not at Horeb.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The wilderness of Sinai is the camp between Rephidim and Kibroth Hattaavah (15–16). Filed with the existing Horeb/Sinai page; the itinerary itself says Sinai, not Horeb.
@@ -613,6 +620,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

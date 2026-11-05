@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+The opening dates the address after Sihon and Og’s defeat and places an eleven-day route beside the
+fortieth year (2–4). The frame invites historical recollection before the speech supplies its
+account.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The journey is preserved as a written record attributed to Moses at Yahweh’s command (2). Selective notices of departure, water, and Aaron’s death punctuate repeated travel stages.
@@ -456,6 +464,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

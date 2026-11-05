@@ -108,7 +108,7 @@ himself**, on foot, alone, and Genesis does not mention a gift, an animal, or a 
 brother."*** **The destination is specified through Rebekah, twice**, and [[Bethuel]] is named as
 alive — a man who spoke one sentence in Genesis 24 and has not been mentioned since. **Genesis never
 narrates his death and never mentions him again after this verse.** The household Jacob actually
-arrives at is [[Laban]]'s (29:13–14), and Bethuel is nowhere in it.
+arrives at is [[Laban (person)]]'s (29:13–14), and Bethuel is nowhere in it.
 
 **And the instruction is to marry a first cousin.** *"The daughters of Laban"* — plural, and the
 plural is doing quiet work: [[Jacob]] is being sent for one wife and the sentence has already
@@ -337,7 +337,7 @@ been set aside. **Genesis hands out the promise and the consequences in the same
 - [[Ishmael]] — **named as a father-in-law, thirteen years after the book buried him**, on its own
   arithmetic; the phrase *"went to Ishmael"* is standardly read as his household. The elder son sent
   away at 21:12 receives the elder son passed over at 27:33.
-- [[Laban]] — the destination for the second time in this book, and the first time for a man rather
+- [[Laban (person)]] — the destination for the second time in this book, and the first time for a man rather
   than a servant. *"The daughters of Laban"* is the whole marriage instruction, and it is plural.
 - [[Bethuel]] — named alive, as the house Jacob is sent to and as Laban's father and Rebekah's; he
   does not appear when Jacob arrives (29:13–14) and Genesis never mentions him again.

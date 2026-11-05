@@ -48,7 +48,7 @@ everything: *"He left all that he had in Joseph's hand. He didn't concern himsel
 for the food which he ate"* (39:6).
 
 **The blessing spreads to the household that owns him** — *"Yahweh blessed the Egyptian's house for
-Joseph's sake"* (39:5), ***biglal Yôsēp***, **the same rare construction [[Laban]] used of Jacob at
+Joseph's sake"* (39:5), ***biglal Yôsēp***, **the same rare construction [[Laban (person)]] used of Jacob at
 30:27** and the only two places Genesis uses it. See
 [[Blessed for His Sake - Laban's House and Potiphar's]].
 

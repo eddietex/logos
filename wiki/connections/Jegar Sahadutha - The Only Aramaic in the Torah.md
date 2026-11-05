@@ -26,7 +26,7 @@ notice that the other man answered in a different one.**
 
 **The book has been preparing this for four chapters.** Laban is *the Aramean*, ***hāʾărammî***, at
 25:20, 28:5, 31:20 and 31:24 — **a label Genesis attaches to nobody else** — and the reader has been
-told twice in this chapter alone. **At 31:47 the label finally becomes audible.** See [[Laban]] and
+told twice in this chapter alone. **At 31:47 the label finally becomes audible.** See [[Laban (person)]] and
 [[The Nations]].
 
 **What the naming scene establishes is a boundary of three kinds at once**, all in the same handful

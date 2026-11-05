@@ -491,7 +491,7 @@ two verses to say so.**
 - [[Work]] — **both dreams are about doing the job**, and the cupbearer's restoration is described
   entirely as the resumption of a task
 - [[The Nations]] — **Egyptians receive true revelation in their sleep**, as
-  [[Abimelech (of Abraham's time)]] did at 20:3 and [[Laban]] did at 31:24, **and need an Israelite to
+  [[Abimelech (of Abraham's time)]] did at 20:3 and [[Laban (person)]] did at 31:24, **and need an Israelite to
   read it**
 
 ## Cross-references

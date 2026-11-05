@@ -58,7 +58,7 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
 
 ## Timeline / key events
 
-- Given by [[Laban]] to [[Leah]] at her wedding — Genesis 29:24, [[Jacob, Leah, and Rachel]]
+- Given by [[Laban (person)]] to [[Leah]] at her wedding — Genesis 29:24, [[Jacob, Leah, and Rachel]]
 - Given by Leah to [[Jacob]] as a wife when Leah stops bearing — Genesis 30:9,
   [[The Birth of Jacob's Children]]
 - Bears [[Gad]] and [[Asher]], named by Leah — Genesis 30:10–13
@@ -99,7 +99,7 @@ and the Bible never returns to her. See [[Slavery and Servitude]].
 ## Related people
 
 - [[Leah]] — her mistress, who receives her at the wedding and later gives her to Jacob
-- [[Laban]] — the man who owned her and gave her away
+- [[Laban (person)]] — the man who owned her and gave her away
 - [[Jacob]] — her master, and the father of her two sons
 - [[Bilhah]] — Rachel's slave, and her exact counterpart in the chapter's construction
 - [[Hagar]] — the *šipḥâ* of Genesis 16, and the precedent for what is done with both of them

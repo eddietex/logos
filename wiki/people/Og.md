@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+His defeat also precedes the address (4). The WEB names Bashan, Ashtaroth, and Edrei; Numbers 21:33
+locates his battle at Edrei. No new campaign is narrated here.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *The kingdom of Og king of Bashan* is given with Sihon's to Gad, Reuben, and half of Manasseh (33).
@@ -26,6 +33,8 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his kingdom given to the eastern tribes (33).
 - [[Sihon and Og]] — Numbers 21:21–35
 

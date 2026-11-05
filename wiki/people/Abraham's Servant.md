@@ -101,7 +101,7 @@ adopt it, on both pages.
 - [[Isaac]] — his master's son, whom he never names in his own mouth except as *my master's son*, and
   who becomes *my master* in the chapter's last exchange
 - [[Rebekah]] — the answer to his prayer, and the only person in the chapter who asks him anything
-- [[Laban]] — his host and his negotiating counterpart
+- [[Laban (person)]] — his host and his negotiating counterpart
 - [[Bethuel]] — nominally the father he came to deal with, and effectively a second signature
 - [[Eliezer of Damascus]] — the steward of Genesis 15:2, whom tradition identifies with him; the wiki
   records the identification without adopting it

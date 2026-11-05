@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Kadesh Barnea is the endpoint of the eleven-day journey from Horeb by Mount Seir (2). This travel
+measure stands beside the fortieth-year date, not a claim that the current address is at Kadesh.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### The borders of the land — Numbers 34:1–29
 
 The southern border passes south of Kadesh Barnea toward Hazar Addar and Azmon (4). The place previously associated with refusal and Meribah now serves as a boundary marker.
@@ -94,6 +101,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

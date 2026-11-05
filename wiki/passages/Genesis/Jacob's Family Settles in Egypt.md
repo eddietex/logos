@@ -327,7 +327,7 @@ he has never been anywhere he belonged**, and he applies it to his fathers too.
 ***"Few and evil."*** **A hundred and thirty years is *few* only against [[Abraham]]'s hundred and
 seventy-five and [[Isaac]]'s hundred and eighty** (25:7; 35:28), **and he says so.** He is right on
 the arithmetic — **he will die at a hundred and forty-seven** (47:28) — **and the reader, who has
-just come through the flight from [[Esau]], the twenty years with [[Laban]], the death of
+just come through the flight from [[Esau]], the twenty years with [[Laban (person)]], the death of
 [[Rachel]], Shechem, and twenty-two years of believing [[Joseph]] torn to pieces, is in no position
 to correct him on the rest.** **The book lets the complaint stand.** See [[Suffering]] and
 [[A Stranger and a Foreigner - The Sojourner's Confession]].
@@ -488,7 +488,7 @@ five.**
   the four lines except Bilhah's, and the only one whose mother is given a status rather than a
   provenance.** She is dead and buried at 35:19–20 and **still the wife of record in the register her
   sons are listed in**
-- [[Zilpah]] and [[Bilhah]] — **named as what [[Laban]] gave** (46:18, 25), **thirty years and a
+- [[Zilpah]] and [[Bilhah]] — **named as what [[Laban (person)]] gave** (46:18, 25), **thirty years and a
   border later**. Between them they account for **twenty-three of the seventy**
 - [[Dinah]] — **counted** (46:15). **It is the last mention of her in Scripture**, and it is a number
 - [[Serah]] — ***"Serah their sister"*** (46:17), **the only granddaughter named in the register**,

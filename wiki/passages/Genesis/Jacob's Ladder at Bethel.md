@@ -65,7 +65,7 @@ for it if.** It is the first vow in the Bible.
 
 **The itinerary is two place names and no companions.** [[Beersheba]] is where 26:23–33 settled the
 household and where the previous pericope's blessing was given; [[Haran (city)]] is the town
-[[Laban]] is actually found in, which is why 28:10 gives it where 28:5 gave the regional name
+[[Laban (person)]] is actually found in, which is why 28:10 gives it where 28:5 gave the regional name
 **Paddan Aram**. **The book uses the two registers side by side without reconciling them**, and this
 verse is the seam: the sending is to Paddan Aram, the walking is toward Haran. See
 [[Aram Naharaim]].
@@ -458,7 +458,7 @@ warrant they all appeal to**, and nothing in Genesis 28 authorises any of it. Se
   Jeroboam's calf and Josiah's bonfire.
 - [[Beersheba]] — the point of departure, and the household [[Isaac]] settled at 26:23–33. Jacob will
   not see it again; his father's house, when he returns, is at Mamre (35:27).
-- [[Haran (city)]] — the stated destination, where [[Laban]] is actually found, against 28:5's
+- [[Haran (city)]] — the stated destination, where [[Laban (person)]] is actually found, against 28:5's
   regional **Paddan Aram**. **The two registers sit in adjacent verses.**
 - [[Aram Naharaim]] — the region under its other names; the country Jacob is walking to and will not
   leave for twenty years.

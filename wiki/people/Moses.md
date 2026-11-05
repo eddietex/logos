@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+He addresses all Israel in Moab on the first day of the eleventh month of the fortieth year (1–5).
+His work is to declare the law after the eastern victories; the narrator introduces him before his
+direct speech begins.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Moses commands according to Yahweh's word after the family heads' petition (5–9). Unlike Numbers
@@ -1411,6 +1419,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

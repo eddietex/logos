@@ -76,7 +76,7 @@ related to her and whose case establishes daughters' inheritance rights in Israe
   before Sarah's death notice
 - [[Bethuel]] — her eighth son, and the only one of the eight the narrative needs
 - [[Rebekah]] — her granddaughter, and Isaac's wife
-- [[Laban]] — her great-grandson
+- [[Laban (person)]] — her great-grandson
 - [[Reumah]] — her husband's concubine, mother of the other four of his twelve
 
 ## Themes associated

@@ -66,7 +66,7 @@ verse. **Genesis calls it neither a miracle nor a display**, and none of the wat
 a word about it. See [[Rachel]].
 
 **Genesis 29 is the same well, the same family, and the same house — and it goes wrong.** Jacob
-arrives at a well in the same country and is met by [[Laban]], who welcomed the servant twenty-odd
+arrives at a well in the same country and is met by [[Laban (person)]], who welcomed the servant twenty-odd
 years earlier with *"Come in, you blessed of Yahweh"* and now says *"Surely you are my bone and my
 flesh"* — and then charges him seven years. **The scene that produced Rebekah in one day produces
 Rachel in fourteen**, and a substituted bride in between. Genesis is running the same pattern on the

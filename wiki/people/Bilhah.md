@@ -87,7 +87,7 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 
 ## Timeline / key events
 
-- Given by [[Laban]] to [[Rachel]] at Rachel's wedding, a week after Leah's — Genesis 29:29,
+- Given by [[Laban (person)]] to [[Rachel]] at Rachel's wedding, a week after Leah's — Genesis 29:29,
   [[Jacob, Leah, and Rachel]]
 - Given by Rachel to [[Jacob]] *as wife*; *"that she may bear on my knees"* — Genesis 30:3–4,
   [[The Birth of Jacob's Children]]
@@ -132,7 +132,7 @@ the twelve without qualification (35:25; 46:25). **The Bible never records a wor
 ## Related people
 
 - [[Rachel]] — her mistress, who receives her at the wedding and later gives her to Jacob
-- [[Laban]] — the man who owned her and gave her away
+- [[Laban (person)]] — the man who owned her and gave her away
 - [[Jacob]] — her master, the father of her two sons, and the man who is silent about her for fourteen
   chapters
 - [[Zilpah]] — Leah's slave, and her exact counterpart in the chapter's construction

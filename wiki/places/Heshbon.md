@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Named as Sihon’s residence in the retrospective notice of his defeat (4).
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 Named in the request (3) and built by Reuben (37). Sihon's former capital becomes a Reubenite town.
@@ -33,6 +39,8 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

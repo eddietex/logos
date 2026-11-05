@@ -91,7 +91,7 @@ will have a steward lie on his behalf about the money (43:23) and will plant a c
 speech in Genesis with *"for you are even as Pharaoh"*, ***kî kāmôkā kəparʿōh***, **naming the power
 he is addressing instead of swearing by it.** See [[The Silver Cup and Judah's Plea]].
 **Genesis records the whole of it and passes no judgment**, exactly as it passed none on the deceptions
-of [[Jacob]], [[Rebekah]], [[Laban]] and [[Tamar]] before it. See [[Deception]] and [[Oaths and Vows]].
+of [[Jacob]], [[Rebekah]], [[Laban (person)]] and [[Tamar]] before it. See [[Deception]] and [[Oaths and Vows]].
 
 ### Matthew 5 reads the practice out
 

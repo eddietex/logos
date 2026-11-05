@@ -127,7 +127,7 @@ the Egyptians will not sit with Hebrews and he cannot say that he is one.** The 
 cost of [[Zaphenath-Paneah - Renaming at a Foreign Court]] rendered as furniture.
 
 **And it plants the fact that makes Exodus possible.** [[Hospitality]] in Genesis has been the book's
-reliable virtue — [[Abraham]] under the oaks (18:4–8), [[Laban]] receiving a servant (24:31–32), and
+reliable virtue — [[Abraham]] under the oaks (18:4–8), [[Laban (person)]] receiving a servant (24:31–32), and
 in this same chapter water, washed feet and fodder (43:24). **Here the formula is executed perfectly
 and then breaks at the last step.** Genesis does not moralise about it. **It simply notes that these
 two peoples cannot share a meal, and four hundred and thirty years later that is the only reason

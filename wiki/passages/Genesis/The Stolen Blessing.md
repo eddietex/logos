@@ -636,7 +636,7 @@ alone, on a road north. See
   (27:28). **He does not speak, act, appear, or get asked**, and the oracle he gave at 25:23 is never
   cited by anyone — including the woman he gave it to. **The outcome matches what he said anyway**,
   and Genesis makes no comment on the relation.
-- [[Laban]] — named once (27:43), as the destination and as *"my brother"*; he has been standing in
+- [[Laban (person)]] — named once (27:43), as the destination and as *"my brother"*; he has been standing in
   the text unused since 25:20, and he is about to own twenty years of Jacob's life and repay this
   chapter's substitution in kind.
 - [[Abraham]] — not named, and his one sentence is in the blessing: *"Cursed be everyone who curses

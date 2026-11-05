@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Mount Seir supplies the route designation between Horeb and Kadesh Barnea (2). This page retains
+Seir under its existing Edom aliases; no passage through Edom is newly narrated.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### The borders of the land — Numbers 34:1–29
 
 The southern border begins from the wilderness of Zin alongside Edom (3). Edom locates the boundary; it is not included as a new grant in this description.
@@ -108,6 +115,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

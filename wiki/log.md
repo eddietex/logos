@@ -4184,7 +4184,7 @@ stop for a domestic transaction over a pot of stew.
   requires. The heading's second clause is famously redundant (*"Abraham's son. Abraham became the
   father of Isaac"*); three proposals are recorded and none adopted. 25:20 restates Rebekah's pedigree
   in four identifiers the reader already has, gives ***Paddan Aram*** its **first of ten occurrences
-  in Genesis**, and **plants [[Laban]]** four chapters before he takes over Jacob's life.
+  in Genesis**, and **plants [[Laban (person)]]** four chapters before he takes over Jacob's life.
 - **25:21.** *"Isaac entreated Yahweh for his wife … Yahweh was entreated by him"* —
   ***wayyeʿtar … wayyēʿāter lô***, the same rare root active and then passive in one sentence, and
   **the first occurrence of *ʿātar* in the Bible**. **Isaac is the only patriarch who prays for his
@@ -5493,7 +5493,7 @@ Laban years and separates the two branches of Terah's family permanently.
   [[Jegar Sahadutha - The Only Aramaic in the Torah]], [[Warned in a Dream - Abimelech and Laban]],
   and [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]].
 - **No page was created for Laban's sons**, who speak once, are never named, and stay carried on
-  [[Laban]] as they have been since 30:35. **No page for *the fear of Isaac*** — the title occurs
+  [[Laban (person)]] as they have been since 30:35. **No page for *the fear of Isaac*** — the title occurs
   twice in one chapter and the material sits on [[The Names of God]] and [[The Fear of God]]. **No
   connection page for the *gānab* chain**, which is confined to this pericope and is treated on the
   passage page.
@@ -5503,7 +5503,7 @@ Laban years and separates the two branches of Terah's family permanently.
 - **31:15 against 31:26.** The daughters say *"he has sold us, and has also used up our money"*; their
   father says Jacob *"carried away my daughters like captives of the sword."* **Both are direct
   speech, both are self-interested, and the narrator supports neither.** Recorded as a contradiction
-  on the passage page and on [[Laban]], [[Rachel]] and [[Leah]].
+  on the passage page and on [[Laban (person)]], [[Rachel]] and [[Leah]].
 - **The ten changed wages are testimony, not narration.** Genesis 30 shows one wage agreement and no
   changes to it; the ten appear twice (31:7, 41), both times in Jacob's mouth in an argument, and
   Laban never confirms or denies them.
@@ -5537,7 +5537,7 @@ Laban years and separates the two branches of Terah's family permanently.
 [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]].
 
 **Revised (36).** People (10): [[Jacob]] (new in-pericope section, nine timeline entries, an
-appearance note, five themes), [[Laban]] (a full in-pericope section replacing the *what is still
+appearance note, five themes), [[Laban (person)]] (a full in-pericope section replacing the *what is still
 ahead* stub — **he is finished in Genesis as of this chapter** — twelve timeline entries, an
 appearance note, six themes), [[Rachel]] and [[Leah]] (new in-pericope sections on the joint speech
 and, for Rachel, the theft and the search; timeline and appearance entries; themes), [[God]] (a new
@@ -6909,7 +6909,7 @@ and **both households Joseph enters in Egypt are named for the sun god.**
 - **The book page's `## Key people` and `## Key places` lists were rebuilt, which is a repair rather than
   an ingest step.** They had been recorded as debt in the last two entries — *"ends at [[Levi]] … belongs
   to a lint pass"* — and by this pericope the gap was **76 people and 19 places**, including [[Joseph]],
-  [[Judah]], [[Rachel]], [[Leah]], [[Laban]], [[Melchizedek]], [[Tamar]] and nine of the twelve sons.
+  [[Judah]], [[Rachel]], [[Leah]], [[Laban (person)]], [[Melchizedek]], [[Tamar]] and nine of the twelve sons.
   **Adding [[Asenath]] to a list that does not contain [[Joseph]] was not a coherent option**, so both
   lists were rewritten in narrative order under one checkable rule: **every person and place with a page
   that appears in Genesis, and nothing else.** A script verified the result — **no duplicates, every
@@ -22122,3 +22122,31 @@ claims were introduced. Existing raw texts and workflow instructions were unchan
 Link checks clean: no wrapped links or unexpected dangling targets; 58 not-yet-started
 book pages remain the expected baseline. Dashboard: 8 books started, all 8 complete;
 325 passages, 251 people, 199 places, 87 themes, 711 connections.
+
+## [2026-11-05] ingest | Deuteronomy 1.1-5 — The Words of Moses Beyond the Jordan
+
+Opened Deuteronomy after all in-progress books and priority books were complete. Fetched the
+34-chapter WEB source with the repository script; no previously added raw text changed.
+Created the book page and a provisional 69-pericope plan covering all 959 verses without gaps
+or overlaps. Ingested only the narrator's introduction, 1:1–5; the direct speech begins at 1:6.
+
+Created the passage, book, six places (Arabah, Suf, Tophel, Laban (place), Dizahab, Ashtaroth),
+and the connection [[From Commandments in Moab to Moses’ Address]]: nine new wiki pages.
+Updated Moses, God, Sihon, Og; ten existing geographical pages; and Law and Obedience,
+Mediation and Advocacy, Remembrance, The Wilderness, and War, with passage lists and synthesis.
+Added reciprocal links to the two Numbers passages and updated affected indexes and counts.
+
+The place Laban triggers the required person/place qualification. Renamed the existing person
+to [[Laban (person)]] and migrated inbound wikilink targets, including only the targets in old
+log entries; their historical prose and chronological order remain unchanged. Kept Mount Seir
+under Edom and Kadesh Barnea under Kadesh. Hazeroth's identity across the two books remains
+qualified; Suf is not equated with Suphah or the Red Sea. No modern coordinates are invented.
+
+The new connection checks Numbers 21:21–35 and 36:13 against stored WEB and distinguishes the
+earlier battles from the Moab address. Every new quotation is copied from stored WEB.
+No Hebrew/Greek assertion or external quotation is introduced. Geographic uncertainty is stated
+on the relevant pages. No new contradiction is asserted from the compressed battle notice.
+
+Validation: scripts/link-check.sh exits 0 (57 expected not-yet-started book targets).
+Counts: 9 books started, 8 complete; 326 passages, 251 people, 205 places, 87 themes,
+712 connections. No harness or schema changes. Implemented by Codex.

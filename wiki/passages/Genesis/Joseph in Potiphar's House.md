@@ -158,7 +158,7 @@ and Genesis uses it without irony. **Prosperity in this chapter is not a state; 
 whatever he is put in charge of.**
 
 ***"His master saw that Yahweh was with him."*** **An Egyptian slaver diagnoses the God of Abraham
-correctly, by name, and Genesis does not remark on it.** [[Laban]] did the same at 30:27 — *"I have
+correctly, by name, and Genesis does not remark on it.** [[Laban (person)]] did the same at 30:27 — *"I have
 divined that Yahweh has blessed me for your sake"* — **and the Philistines saw it about Isaac at
 26:28.** **Genesis keeps handing accurate theology to people outside the covenant line and never explains
 where they got it**; it is one of the book's most consistent and least commented-on habits. See

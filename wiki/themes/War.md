@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+The defeats of Sihon and Og are recalled as completed events that precede the teaching (4). This
+notice compresses the campaigns narrated in Numbers 21:21–35.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 Israel is commanded to drive out all the inhabitants (52). The text envisages coercive
@@ -326,6 +333,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

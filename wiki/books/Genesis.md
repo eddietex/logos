@@ -335,7 +335,7 @@ even fratricidal betrayal into rescue (Joseph).
   turns from the household to the herd, and **God vanishes from the narration entirely**: he is named
   three times in nineteen verses and every one is inside a human sentence, with **no verb in the
   pericope taking him as its subject.** Jacob asks to be released — ***šalləḥēnî***, *send me away*,
-  **the verb Moses will use on Pharaoh** — and [[Laban]] refuses him with a supplicant's formula and a
+  **the verb Moses will use on Pharaoh** — and [[Laban (person)]] refuses him with a supplicant's formula and a
   confession: *"I have **divined** that Yahweh has blessed me **for your sake**"*, **the Bible's first
   *nāḥaš*, producing a correct reading of Genesis 12:3 and used as an argument for detention.** What
   follows is the book's only sustained description of a trade. Jacob refuses a wage in Abram's own
@@ -364,7 +364,7 @@ even fratricidal betrayal into rescue (Joseph).
   to me"* (31:13), **which he does nowhere else in Scripture.** Then **[[Rachel]] and [[Leah]] speak
   with one voice for the only time in Genesis**, and the subject is not children: *"Aren't we
   considered as **foreigners** by him? For he has **sold** us, and has also used up our money"* —
-  **the harshest verdict anyone passes on [[Laban]], delivered by his daughters**, and set eleven
+  **the harshest verdict anyone passes on [[Laban (person)]], delivered by his daughters**, and set eleven
   verses from his own *"you carried away my daughters like captives of the sword"*, **with the
   narrator adjudicating neither.** The flight is stopped by **a night dream to a foreigner** in the
   formula used of Abimelech at 20:3 and nowhere else (31:24), and the search that follows is farce:
@@ -849,7 +849,7 @@ merge, or reorder them freely.
 - [[The Children of Heth]]
 - [[Abraham's Servant]]
 - [[Rebekah]]
-- [[Laban]]
+- [[Laban (person)]]
 - [[Keturah]]
 - [[Jacob]]
 - [[Esau]]

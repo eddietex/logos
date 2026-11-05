@@ -71,4 +71,4 @@ last thing he ever does in Scripture. **The affection at the end of the chapter 
 the jewellers.** But it is at 31:55, and the *Mizpah* clause is at 31:49, **and six verses is the
 distance between a farewell and a surveillance agreement.**
 
-See [[Strife and Peacemaking]], [[Covenant]], [[Laban]], and [[Names and Naming]].
+See [[Strife and Peacemaking]], [[Covenant]], [[Laban (person)]], and [[Names and Naming]].

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+His defeat precedes the address (4). He is identified as king of the Amorites, resident in Heshbon;
+this is retrospective dating, not a second battle.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *The kingdom of Sihon king of the Amorites* is given to Gad, Reuben, and half of Manasseh (33). Several of
@@ -27,6 +34,8 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his kingdom given to the eastern tribes (33).
 - [[Sihon and Og]] — Numbers 21:21–35
 

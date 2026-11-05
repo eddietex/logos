@@ -19,7 +19,7 @@ chapters of fratricide, deception, rape, massacre, betrayal and sale, and the wo
 up once.** **What it has instead is a series of settlements without it** — a mark on [[Cain]]
 instead of a pardon (4:15), a treaty with [[Abimelech (of Abraham's time)]] instead of an apology
 (21:22–32), [[Esau]] running and embracing and never once being asked (33:4), a heap of stones and
-a boundary between [[Jacob]] and [[Laban]] (31:44–53). **Reconciliation in Genesis is normally
+a boundary between [[Jacob]] and [[Laban (person)]] (31:44–53). **Reconciliation in Genesis is normally
 achieved by ritual, distance, or silence.** **Chapter 50 is where somebody finally says the word,
 and it is said by men who cannot think of another way out.**
 

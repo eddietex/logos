@@ -207,7 +207,7 @@ is no longer mentioned at all.
 and the bracelets on his sister's hands, and when he heard the words."* **Here there is no ring.**
 There is a report and a penniless nephew, and Laban runs anyway, embraces, kisses, and takes him home.
 **The wiki notes that the withheld motive is withheld**, and that the equivalent sentence arrives two
-verses later in the form of a question about wages. See [[Laban]] and [[Hospitality]].
+verses later in the form of a question about wages. See [[Laban (person)]] and [[Hospitality]].
 
 ***"Jacob told Laban all these things."*** ***Kol-haddəbārîm hāʾēlleh.*** **Genesis does not say what
 they were.** Whether he told him about the birthright, the blessing, the death threat, or the
@@ -484,7 +484,7 @@ the one Israel comes from.**
   foreign kings asked his grandfather and father, **and he is the injured party for the first time in
   the family's history.** Then he accepts the revised terms in three words. **He says nothing to God
   in this passage and God says nothing to him.**
-- [[Laban]] — **runs to meet a nephew with no gold on him, and puts him on wages inside a month.** He
+- [[Laban (person)]] — **runs to meet a nephew with no gold on him, and puts him on wages inside a month.** He
   pronounces the formula of the first marriage — *"Surely you are my bone and my flesh"* — over Jacob
   at 29:14, and at 29:15 turns *brother* into the premise of an employment question. **His refusal at
   29:26 is not an apology but a house rule**, delivered without embarrassment, in the vocabulary of

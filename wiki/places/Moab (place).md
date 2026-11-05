@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+The explicit location where Moses begins to declare the law (5). It continues the setting of Numbers
+36:13 without narrating a Jordan crossing.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 The book's closing formula locates the commandments in the plains of Moab (13). Israel remains at
@@ -177,6 +184,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

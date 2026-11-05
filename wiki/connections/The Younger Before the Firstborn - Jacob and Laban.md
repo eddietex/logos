@@ -90,7 +90,7 @@ took at 27:19–24. Neither man in the exchange has any standing.
   instruction she gives, and it sends her son to the man who will run her own technique back on him.
   Genesis planted Laban at 25:20 in a pedigree that had no need of him, three chapters before he was
   wanted. **The book has been holding him in reserve since before the twins were born.** See
-  [[Laban]].
+  [[Laban (person)]].
 - **It does not make [[Leah]] an accomplice or a victim, because Genesis does not say.** She is given
   no word in the chapter, no consent scene, and no reaction. The book that recorded Rebekah's *"I will
   go"* records nothing at all here, and the wiki notes the silence rather than filling it.

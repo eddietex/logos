@@ -108,7 +108,7 @@ about their father and say so in one sentence.**
 foreigners by him? For he has sold us, and has also used up our money"* (31:14–15). ***Ḥēleq
 wənaḥălâ*** is the legal pair for a share in an estate; ***nokriyyôt*** is the Bible's word for an
 alien with no claim; ***mākar*** is the verb for selling a slave. **It is the harshest verdict passed
-on [[Laban]] anywhere in Scripture, and the two women who pass it are the only lifelong witnesses to
+on [[Laban (person)]] anywhere in Scripture, and the two women who pass it are the only lifelong witnesses to
 his household the book ever puts on the record.** See [[Wealth and Possessions]] and
 [[Slavery and Servitude]].
 
@@ -240,7 +240,7 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
 - [[Jacob]] — her husband by substitution, who served seven years for her sister and got her
 - [[Rachel]] — her younger sister, married to the same man a week later; the rivalry Leviticus 18:18
   names as the reason for its own prohibition
-- [[Laban]] — her father, who gave her away without telling either party
+- [[Laban (person)]] — her father, who gave her away without telling either party
 - [[Zilpah]] — her slave, given to her at the wedding and given by her to Jacob
 - [[Bilhah]] — her sister's slave
 - [[Rebekah]] — her husband's mother, whose technique her father repeats on her husband

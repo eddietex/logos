@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+The wilderness is the setting of instruction (1), while the eleven-day route and fortieth-year date
+orient the reader (2–3). The introduction alone does not recount the causes of the long delay.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### The stages of the journey — Numbers 33:1–49
 
 A long sequence of named camps links liberation to the border of the land. Most receive no event or duration; the list cannot supply a precise modern route by itself.
@@ -172,6 +179,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

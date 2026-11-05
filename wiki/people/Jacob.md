@@ -253,7 +253,7 @@ the last clause of his own Bethel vow, *"so that I come again to my father's hou
 **His complaint is that after twenty years he owns nothing.** *"It was little which you had before I
 came, and it has increased to a multitude… Now when will I provide for my own house also?"*
 (30:30). ***Bêtî***, *my house* — **the first thing in the Jacob cycle he calls his own**, and
-[[Laban]] disputes none of the audit.
+[[Laban (person)]] disputes none of the audit.
 
 **Then he refuses a wage.** *"You shall not give me anything"* (30:31) is Abram's formula to the king
 of Sodom (14:23), and what he asks for instead is the odd-coloured minority of two herds, **with an
@@ -666,7 +666,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   name used as cover — Genesis 27:15–29
 - Named a supplanter by his brother, in the second and harsher etymology of his own name —
   Genesis 27:36
-- Sent to [[Laban]] in [[Haran (city)]] to escape a death threat, for *"a few days"* that become
+- Sent to [[Laban (person)]] in [[Haran (city)]] to escape a death threat, for *"a few days"* that become
   twenty years — Genesis 27:42–45
 - Blessed a second time, knowingly, and given *"the blessing of Abraham"* with the land attached;
   sent to Paddan Aram for a wife, silent throughout and carrying nothing the text names — Genesis
@@ -681,7 +681,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   clothing, a safe return, and a tenth — Genesis 28:18–22
 - Arrives in the east country; rolls the well-stone alone, waters Laban's flock, and kisses Rachel —
   Genesis 29:1–12, [[Jacob, Leah, and Rachel]]
-- Received by [[Laban]] — *"Surely you are my bone and my flesh"* — and put on wages after a month —
+- Received by [[Laban (person)]] — *"Surely you are my bone and my flesh"* — and put on wages after a month —
   Genesis 29:13–15
 - Loves [[Rachel]] and names his own price: seven years — Genesis 29:18–20
 - Given [[Leah]] in the dark; *"Why then have you deceived me?"* — Genesis 29:23–25
@@ -1047,7 +1047,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
   will engineer the blessing and then send him away to save his life
 - [[Abraham]] — his grandfather, alive until Jacob was fifteen on the book's own arithmetic, and never
   shown in a scene with him
-- [[Laban]] — his mother's brother, named in 25:20 for no reason this pericope needs; his employer,
+- [[Laban (person)]] — his mother's brother, named in 25:20 for no reason this pericope needs; his employer,
   father-in-law, and the man who does the younger-for-elder substitution back to him
 - [[God]] — who names the outcome before the twins are born, speaks it to his mother rather than to
   him, and does not address him until Bethel, where the first thing he says is his own name and the

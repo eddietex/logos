@@ -41,7 +41,7 @@ who coins it is a professional shepherd describing his own career.**
 
 **WEB's *"has fed me"* renders *hārōʿeh ʾōtî*, a participle of *rāʿâ*, *to shepherd*.** **Every earlier
 occurrence in Genesis is about livestock and a hired man** — [[Abel]] *"a keeper of sheep"* (4:2), the
-flocks at the well (29:2–9), [[Jacob]] feeding [[Laban]]'s flock (30:31, 36), [[Joseph]] and his
+flocks at the well (29:2–9), [[Jacob]] feeding [[Laban (person)]]'s flock (30:31, 36), [[Joseph]] and his
 brothers feeding their father's (37:2, 12–16), and the family telling [[Pharaoh (of Joseph's time)]]
 *"your servants are shepherds"* (46:32–34; 47:3). **48:15 is the first time in Scripture that the
 subject of the verb is God.**
@@ -54,7 +54,7 @@ verse in the Old Testament that does.
 ### Why this man
 
 **Jacob is the only patriarch who worked for wages, and the work was shepherding.** **Genesis gives the
-job description in his own words, in the speech where he confronts [[Laban]]:**
+job description in his own words, in the speech where he confronts [[Laban (person)]]:**
 
 > **38** These twenty years I have been with you. Your ewes and your female goats have not cast their
 > young, and I haven't eaten the rams of your flocks. **39** That which was torn by animals, I didn't

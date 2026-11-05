@@ -126,7 +126,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Reuel (son of Esau)]] — the other bearer of the name *Reuel*, not the same man
 - [[Melchizedek]] and [[Potiphera]] — the other priests outside the line who bless it or marry into
   it
-- [[Laban]] — the earlier father of the house at the well, who welcomes and then exploits
+- [[Laban (person)]] — the earlier father of the house at the well, who welcomes and then exploits
 - [[Keturah]] — through whose son Midian descends from Abraham
 - [[Eliezer (son of Moses)]] — his younger grandson, first named when he brings him back
 - [[Aaron]] — who eats bread with him before God (18:12)

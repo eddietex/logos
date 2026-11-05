@@ -297,7 +297,7 @@ with a covenant.** See [[Warned in a Dream - Abimelech and Laban]].
 ***"Either good or bad."*** ***Miṭṭôb ʿad-rāʿ.*** **The idiom is Laban's own**, from the first scene
 he ever appeared in: *"we can't speak to you bad or good"* (24:50), his answer when Abraham's servant
 laid the case out. **His first recorded position and his last are the same sentence**, and the second
-time it is imposed on him from outside. He repeats it back verbatim at 31:29. See [[Laban]].
+time it is imposed on him from outside. He repeats it back verbatim at 31:29. See [[Laban (person)]].
 
 ### 31:25–35 — the charge, the sentence, and the camel saddle
 
@@ -644,7 +644,7 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   by a divine title that excludes his uncle's side of the family**, raises his second pillar, and
   offers the Bible's first *zebaḥ*. **He asks for nothing and gets everything**, and he never finds
   out about the *teraphim*.
-- [[Laban]] — **he loses, concedes nothing, and gets the last protection clause in the treaty.** He is
+- [[Laban (person)]] — **he loses, concedes nothing, and gets the last protection clause in the treaty.** He is
   stopped by God in a dream, admits in one sentence that he had the power to harm and was forbidden,
   calls a set of figurines *my gods*, searches four tents on his hands and knees, and is defeated by
   a daughter sitting on a camel saddle. **He proposes the covenant himself**, invokes *the God of
@@ -681,7 +681,7 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   named. Their tent is searched and they say nothing; **it is the last time either is mentioned in
   Genesis until 35:22 and 37:2.**
 - **Laban's sons** — **their complaint opens the chapter** (31:1) and they do not appear again. They
-  remain unnamed and without a page; they are carried on [[Laban]].
+  remain unnamed and without a page; they are carried on [[Laban (person)]].
 
 ## Places
 
@@ -907,7 +907,7 @@ foreigners**, and Israel's confession of them is a single line about a wandering
   [[Jegar Sahadutha - The Only Aramaic in the Torah]], [[Warned in a Dream - Abimelech and Laban]],
   and [[The Mizpah Benediction - Genesis 31.49 and How It Is Read]].
 - **On what was deliberately not created.** **No page for Laban's sons** — they speak once, are never
-  named, and are carried on [[Laban]] as they have been since 30:35. **No separate page for *the fear
+  named, and are carried on [[Laban (person)]] as they have been since 30:35. **No separate page for *the fear
   of Isaac*** — the title occurs twice, in one chapter, and the material sits on
   [[The Names of God]] and [[The Fear of God]] rather than carrying a page of its own. **No connection
   page for the *gānab* chain**, which is confined to this pericope and is treated on this page.

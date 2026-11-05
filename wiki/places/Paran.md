@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ address in Moab — Deuteronomy 1:1–5
+
+Named among the geographical bearings in the opening frame (1). The verse does not narrate a new
+camp or give modern coordinates.
+
+See [[The Words of Moses Beyond the Jordan]]. Source: stored WEB Deuteronomy 1:1–5.
+
 ### Comparison with Numbers 33
 
 Numbers 12:16 gives Paran after Hazeroth; Numbers 33:18 names Rithmah. A region and a particular camp could explain the difference, but neither passage expressly identifies them.
@@ -49,6 +56,8 @@ region of Mecca is late reception built on Genesis 21:21 and is not a reading av
 geography of the Torah, which puts Israel's spies in it.
 
 ## Appears in
+
+- [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49, comparison rather than an explicit identification.
 
