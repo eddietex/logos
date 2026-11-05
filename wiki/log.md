@@ -21637,3 +21637,30 @@ change, or harness/workflow edit was needed.
 
 Link checks clean: 58 expected not-yet-started book targets. No unresolved link issue or
 operational blocker; uncertain identifications are recorded on the relevant pages.
+
+
+## [2026-11-05] ingest | Numbers 25.1-18 — Baal Peor and the Zeal of Phinehas
+
+Ingested exactly one planned pericope in auto mode with Codex; boundary unchanged.
+Numbers is now 41 / 54 complete. Created 9 pages: the passage, five person pages
+(Baal Peor, Zimri son of Salu, Salu, Cozbi, Zur), Shittim, and two connections.
+Revised 44 existing pages including content, category indexes, dashboard, and this log.
+Counts: 312 passages, 233 people, 145 places, 87 themes, 695 connections.
+
+Named deities follow the existing person-page convention; Baal Peor is distinct from Peor
+the height. Zimri takes a patronymic to distinguish him from other biblical namesakes.
+Moabite women and the Midianite pair are not conflated. The text does not specify intercourse
+in the pavilion, Cozbi’s occupation, completion of all ordered executions, or a tribal
+breakdown of the plague deaths. Aaron and Eleazar are genealogical mentions, not actors.
+The covenant of peace after killing and the earlier condemnation of Levi’s anger remain
+explicit tensions; no general license for private violence is inferred.
+
+All new passage quotations were copied from stored WEB Numbers. Psalm 106:28–31 and
+1 Corinthians 10:8 were verified via bible-api.com WEB responses (2026-11-05), without
+adding raw books. Preserved the 24,000/23,000 death-count tension without an invented
+reconciliation. Corrected the existing Psalm quotation to verified paraphrase and qualified
+its unverified Hebrew identity/uniqueness claim at the point of use; corrected an inexact
+Numbers 25:4 quotation to paraphrase. No raw texts or harness/workflow instructions changed.
+
+Link checks clean: 58 expected unstarted-book targets. No operational blocker or unresolved
+link issue. Textual and interpretive uncertainties remain stated on the relevant pages.

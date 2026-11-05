@@ -85,6 +85,10 @@ Copied verbatim from stored WEB, `raw/bible/Numbers.md`.
 - [[Strife and Peacemaking]]
 
 ## Cross-references
+- [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]]
+- [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]]
+- [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]]
+
 
 - [[Two Priests Stop the Plague - Aaron and Phinehas]]
 - [[Baal Peor Remembered - Numbers 25, Psalm 106, and First Corinthians 10]]

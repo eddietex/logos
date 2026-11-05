@@ -119,7 +119,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Sold for a Servant - Joseph's Sale in Psalm 105 and Acts 7]] | quotation | Genesis 37:18–36 · Genesis 40:23–41:1 · Genesis 45:4–8 · Genesis 50:20 · Psalm 105:16–22 · Acts 7:9–10, 16 · Genesis 45:5, 7, 8 |
 | [[The Song of Moses and the Lamb - Exodus 15 in Revelation 15]] | allusion | Exodus 14:31 · Exodus 15:1, 11, 18 · Revelation 15:1–4 · Genesis 31:27 |
 | [[The Sons of God and the Angels That Sinned]] | thread | Genesis 6:1–4 · Job 1:6 · Deuteronomy 32:8 · *1 Enoch* 6–16 · Jude 6 · 2 Peter 2:4 · Matthew 22:30 |
-| [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · [[The Levites and the Firstborn Counted]] (Numbers 3:17–20) · Numbers 26:57–61 · 1 Chronicles 6 |
+| [[The Sons of Levi - Genesis 46, Exodus 6, and Numbers 3 and 26]] | parallel | Genesis 46:11 · Exodus 6:16–25 · [[The Levites and the Firstborn Counted]] (Numbers 3:17–20) · Numbers 26:57–61 · 1 Chronicles 6  · [[Baal Peor and the Zeal of Phinehas]] — Numbers 25 now ingested. |
 | [[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]] | thematic-parallel | [[Cast Your Bread on the Waters]] (Ecclesiastes 11:4–6) · [[Wine Is a Mocker]] (Proverbs 20:4) · [[The Waters Recede]] (Genesis 8:22) · Galatians 6:9 |
 | [[Sow Wickedness, Reap Trouble - Proverbs 22.8, Job 4.8, and Hosea 8.7]] | thread | [[A Good Name]] (Proverbs 22:8) · [[A False Balance]] (Proverbs 11:18) · [[Eliphaz's First Speech]] (Job 4:7–8) · Hosea 8:7 · Hosea 10:13 · Galatians 6:7 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
