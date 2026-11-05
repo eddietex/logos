@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Jericho locates the speech in the plains of Moab beside the Jordan (1). It is not named as a refuge city or reported conquered here.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 Jericho locates the already received inheritance beyond the Jordan eastward (15); no conquest of Jericho is narrated here.
@@ -38,6 +44,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

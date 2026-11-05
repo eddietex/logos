@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The plains of Moab by the Jordan at Jericho are the setting of Yahweh’s speech to Moses (1). This is the place of instruction, not one of the refuge cities identified by name.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 The plains of Moab are explicitly the setting of Yahweh’s speech to Moses (50), continuing
@@ -164,6 +170,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

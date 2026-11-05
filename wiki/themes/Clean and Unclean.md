@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Blood pollutes the inhabited land (33–34). This moral liability differs from the corpse-contact impurity treated by Numbers 19: homicide is not remedied here by washing or ash-water sprinkling.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The red heifer — Numbers 19:1–22
 
 Corpse contact, a death-tent, bones, and graves produce seven-day impurity (11–16).
@@ -467,6 +473,8 @@ A victorious army is not exempt.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

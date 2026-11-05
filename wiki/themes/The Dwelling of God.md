@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Yahweh’s presence among Israel makes the inhabited land subject to a prohibition of defilement (34). Homicide law is therefore tied to divine dwelling beyond the sanctuary precinct itself.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The Tent of Meeting's entrance is the public setting for the petition before Moses, Eleazar,
@@ -512,6 +518,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.

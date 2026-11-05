@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The avenger executes the murderer (19–21), but the congregation must judge and rescue an unwitting killer (24–25). Protection is geographically conditional until the high priest dies; outside the boundary the avenger incurs no bloodguilt for killing him (26–28). The law both authorizes and restricts retaliation.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 Matching injury is prescribed as a legal response (19–20), not a report of private
@@ -169,6 +175,8 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
+
 - **Genesis 4:10–15** — Abel's blood crying from the ground, and God alone requiring it —
   [[Cain and Abel]]
 - **Genesis 4:23–24** — Lamech's seventy-sevenfold boast, retribution with no ceiling —
@@ -34,6 +36,13 @@ tags: [connection]
 - [[Laws of Violence and Injury]] — Exodus 21:12–36: intent, refuge, injury, and negligence differentiated
 
 ## Analysis
+
+### Numbers 35 now ingested
+
+Numbers 35 now supplies the legal detail directly: the congregation distinguishes hostile killing from an unintentional act (16–25), and one witness is insufficient for a capital sentence (30). Both ransom for murder and payment for early return from refuge are prohibited (31–32). The land-pollution rationale (33–34) stands alongside rescue for the unwitting killer, not an undifferentiated rule that every death-causer must die.
+
+Source: stored WEB Numbers 35; comparisons use stored Exodus 21, Leviticus 25, and Numbers 18.
+
 
 **The line is a chiasm, and it is the Bible's first legal sentence.**
 

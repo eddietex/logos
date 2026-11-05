@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The law protects the unwitting killer but requires the murderer’s death, refusing to price that life with ransom (16–32). The high priest’s death marks a different legal event: release to the land of the protected killer’s possession (28).
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Egypt’s burial of the firstborn and Aaron’s dated death frame the long march (4, 38–39). Israel’s continuity does not mean that all its original leaders survive.
@@ -778,6 +784,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The Levites, descendants of Levi rather than the patriarch himself, receive forty-eight cities and surrounding land from the tribes (2–8). Six are refuges. The no-tribal-inheritance rule of Numbers 18:23–24 does not mean no houses or pastures.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The second census — Numbers 26:1–65
 
 His clans are counted separately: 23,000 males from one month upward, excluded from the territorial
@@ -208,6 +214,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

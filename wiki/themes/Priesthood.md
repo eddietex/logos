@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Levites receive forty-eight cities with surrounding land, including six refuges (2–8). This confirms the correction to absolute propertylessness: Numbers 18 withholds a tribal inheritance, while Numbers 35 grants residential and pastoral holdings. The anointed high priest’s death ends the required refuge residence (25–28); the text does not explain the mechanism or call that death a sacrifice.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 Eleazar the priest shares the allotment task with Joshua and tribal leaders (17–29). His commission concerns land administration; no new priestly rite is described.
@@ -610,6 +616,8 @@ in fifty from the congregation's half (30, 47).
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

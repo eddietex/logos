@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
+
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
@@ -29,6 +31,13 @@ tags: [connection]
   curse — [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Analysis
+
+### Numbers 35 now ingested
+
+Numbers 35:2–8 directly commands forty-eight cities and surrounding land for Levites, with contributions proportional to tribal inheritance. This reinforces the existing correction: the older claims below of no fields and absolute propertylessness contradict Leviticus 25:32–34 and Numbers 35:2–8. Numbers 18:20–24 excludes a tribal territorial share; it does not deny residential and pastoral holdings. Six cities also serve as refuges. These are commanded allocations, not a report of completed distribution.
+
+Source: stored WEB Numbers 35; comparisons use stored Exodus 21, Leviticus 25, and Numbers 18.
+
 
 ### Duties and portions — Numbers 18:1–32
 

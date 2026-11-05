@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The closing prohibition of land defilement rests on Yahweh’s presence (33–34). The anointing of the high priest is specified (25), but no new anointing rite is performed.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### Baal Peor — Numbers 25:1–18
 
 Public allegiance to a foreign god provokes wrath within the camp; Phinehas’s intervention
@@ -668,6 +674,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

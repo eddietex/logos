@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Two ransoms are forbidden: payment for a murderer’s life and payment to return from refuge before the priest’s death (31–32). This restricts monetary release without canceling the distinct ransom provision for a negligent bull owner in Exodus 21:29–30.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The departure on the day after Passover is public, while Egypt buries its firstborn (3–4). The journey begins with deliverance rather than with Israel’s conquest of Canaan.
@@ -16,8 +22,7 @@ Getting back, by right or by price, what belongs to you and has passed out of yo
 field, a life. **The Torah uses two verbs for it, and the wiki has now met both.** (Both checked in the WLC.)
 
 - ***Gāʾal*** — the act of the ***gōʾēl***, the kinsman whose duty is to buy back family land, redeem a
-  relative sold to a foreign buyer, or avenge his blood (Leviticus 25; Numbers 35 by
-  reference, *not yet ingested*). **Its first use is Jacob's**: *"the angel who has redeemed me from all evil"* (Genesis
+  relative sold to a foreign buyer, or avenge his blood (Leviticus 25; Numbers 35, now ingested). **Its first use is Jacob's**: *"the angel who has redeemed me from all evil"* (Genesis
   48:16). **Its second is God's promise in Egypt**: *"I will redeem you with an outstretched arm, and with
   great judgments"* (Exodus 6:6). **Its third says the promise is kept**: *"the people that you have
   redeemed"* (15:13) (WLC lemma search).
@@ -236,6 +241,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

@@ -7,14 +7,23 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:17.
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–14, 29–30: refuge for unintentional killing, no altar protection
   for planned murder, and a possible ransom for the negligent bull owner.
 - Numbers 35:9–34 — cities of refuge, adjudication, witnesses, and prohibited ransoms; verified
-  WEB, not yet ingested.
+  WEB, now ingested from the stored raw text.
 
 ## Analysis
+
+### Numbers 35 now ingested
+
+The whole chapter now places the six refuges within forty-eight Levite cities (1–8), apportioned from larger and smaller inheritances. The death of the anointed high priest ends confinement (25–28); no reason for that timing is stated. Verse 33’s blood-pollution rule must be read with the explicit rescue of the unwitting killer, not as an order to execute every person who has caused a death.
+
+Source: stored WEB Numbers 35; comparisons use stored Exodus 21, Leviticus 25, and Numbers 18.
+
 
 Exodus 21:13 promises a place to which the unintentional killer may flee. Verse 14 denies even the
 altar to a person who schemes to kill a neighbor. It names neither a city nor the procedure for

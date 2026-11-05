@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
+
 - **Genesis 48:16** — *"the angel who has **redeemed** me from all evil, bless the lads"* — ***the first
   occurrence of *gāʾal* in the Bible***, and the only one in Genesis —
   [[Jacob Blesses Ephraim and Manasseh]]
@@ -38,6 +40,13 @@ tags: [connection]
 - **Revelation 6:9–10** — *"How long, Master … until you judge and avenge our blood?"*
 
 ## Analysis
+
+### Numbers 35 now ingested
+
+The WEB’s avenger of blood is subject to public adjudication: the congregation judges and must rescue the unwitting killer (24–25), while the murderer faces death (19–21). The earlier description of the avenger simply hunting a killer is incomplete without this distinction. Protection ends outside the refuge boundary until the high priest dies (26–28). This addition rests on the English text and adds no claim about Hebrew wording or the identity of Job’s redeemer.
+
+Source: stored WEB Numbers 35; comparisons use stored Exodus 21, Leviticus 25, and Numbers 18.
+
 
 ### Where the word enters Scripture
 

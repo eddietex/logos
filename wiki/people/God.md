@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Yahweh commands provision for Levites and refuge for the unwitting killer (1–15). His dwelling among Israel grounds the prohibition of blood pollution in the land (33–34).
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 Yahweh specifies Canaan’s borders and names the officials charged with dividing its inheritance (2–12, 16–29). The land grant receives defined limits and accountable human administrators.
@@ -3352,6 +3358,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

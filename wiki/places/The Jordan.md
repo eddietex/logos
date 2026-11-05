@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The river marks the anticipated crossing (10) and the division of the six refuges: three beyond it and three in Canaan (14). Protection extends to both sides of Israel’s settlement.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 The eastern line descends along the Jordan to the Salt Sea (12). Verses 14–15 simultaneously recognize Israelite inheritance east of it, distinguishing Canaan’s boundary from all Israel’s holdings.
@@ -98,6 +104,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Numbers 35:33 uses atonement in the WEB for the land polluted by shed blood and specifies the shedder’s blood as the remedy. No animal offering or payment is prescribed here. The high priest’s death releases the protected killer (25–28), but the passage does not explicitly call that death atonement; the two provisions should not be collapsed.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### Baal Peor — Numbers 25:1–18
 
 The WEB explicitly calls Phinehas’s action atonement for Israel (13). The narrative describes a
@@ -321,6 +327,8 @@ not stated. See [[The Half Shekel - Census, Ransom, and the Temple Tax]].
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

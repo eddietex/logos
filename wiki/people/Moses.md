@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Moses receives the city and refuge commands in the plains of Moab (1, 9–10). He transmits law for settlement; the chapter does not report cities already assigned.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 Moses receives the boundary command and explains that the western allotment serves nine and a half tribes because the eastern inheritance is already received (13–15).
@@ -1397,6 +1403,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

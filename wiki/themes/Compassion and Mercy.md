@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The congregation must deliver the unwitting killer from the avenger and restore him to refuge (24–25). Protection includes resident foreigners (15), yet requires residence until the high priest dies. Mercy here describes the protection, not an explicit forgiveness formula.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 The donkey’s evasions preserve the rider who strikes her. The angel challenges the three beatings and distinguishes her preservation from Balaam’s threatened death (32–33); animal resistance is not proof of wrongdoing.
@@ -296,6 +302,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

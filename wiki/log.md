@@ -22062,3 +22062,32 @@ Validation: scripts/link-check.sh passed both checks, with 58 expected unstarted
 All four category catalogs match their typed pages exactly once; passage titles are unique;
 frontmatter counts match the dashboard; git diff --check is clean. No ingest blocker.
 Agent: Codex.
+
+## [2026-11-05] ingest | Numbers 35.1-34 — The Levitical Cities and the Cities of Refuge
+
+Ingested [[The Levitical Cities and the Cities of Refuge]] in one unattended Codex invocation.
+Retained the planned 35:1–34 boundary, joining the forty-eight Levite cities to their six
+refuges. Numbers now stands at 53 / 54 pericopes; the next unit remains unprocessed.
+
+Created one passage page; revised 25 related content pages (three people, four places,
+fourteen themes, and four existing connections), plus the Numbers book page, seven index
+pages including the main dashboard and books index, and this log. Counts by frontmatter:
+324 passages, 251 people, 199 places, 87 themes, 710 connections.
+
+The existing refuge, blood-avenger, homicide, and Levite-land connections were extended rather
+than duplicated. Explicitly reinforced the correction to absolute Levite propertylessness:
+Numbers 18 excludes a tribal share, but Leviticus 25 and Numbers 35 grant houses and surrounding
+land. Recorded the congregation’s duty to rescue the unwitting killer alongside the avenger’s
+authority, the two distinct ransom prohibitions, and foreign residents’ access to refuge.
+The high priest and legal actors remain unnamed roles rather than invented person pages;
+none of the forty-eight cities is named here. No new place page was needed.
+
+The thousand- and two-thousand-cubit measurements remain visible without an asserted
+harmonization. The priest’s death releases the protected killer, but no sacrificial mechanism
+is stated; the passage distinguishes that provision from the WEB’s land-atonement statement.
+Quotations were copied directly from stored WEB Numbers 35. Comparisons use stored WEB
+Exodus 21, Leviticus 25, and Numbers 18. No new unstored-book quotation or exact source-language
+assertion was introduced; existing raw files were unchanged.
+
+Validation: scripts/link-check.sh passed, with 58 expected not-yet-started book targets and
+no wrapped or dangling links. No unresolved operational blocker.

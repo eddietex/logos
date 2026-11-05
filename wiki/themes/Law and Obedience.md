@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+The refuge rules are a continuing statute throughout Israel’s dwellings (29). Congregational judgment, sufficient testimony, and refusal of ransom constrain how the homicide penalties operate.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 The boundary and the allotment commission are commanded by Yahweh (2, 17–18, 29). The closing appointment statement is not a claim that the land has already been divided.
@@ -1025,6 +1031,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

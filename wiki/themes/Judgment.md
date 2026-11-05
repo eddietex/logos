@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Weapons, hostility, ambush, and absence of hostile intent distinguish the cases (16–24). The congregation judges between killer and avenger; a single witness cannot support a death sentence (30). Refuge preserves life pending judgment and supplies conditional protection afterward.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 The inhabitants who remain will harass Israel (55), and Yahweh threatens to do to Israel what
@@ -742,6 +748,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

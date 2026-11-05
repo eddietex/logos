@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Levitical Cities and the Cities of Refuge]] (35:1–34) assigns Levite cities and six refuges.
+Congregational judgment distinguishes murder from unwitting killing; witnesses, residence,
+and prohibited ransoms regulate blood vengeance in the land where Yahweh dwells.
+
+
 [[The Borders of the Land]] (34:1–29) defines Canaan’s borders for nine and a half tribes,
 recognizes the eastern inheritance already received, and appoints Eleazar, Joshua, and
 ten tribal representatives to divide the land. The commands do not yet report distribution.
@@ -264,7 +269,7 @@ merge, or reorder them freely.
 - [x] [[The Stages of the Journey]] — Numbers 33:1–49
 - [x] [[Drive Out the Inhabitants]] — Numbers 33:50–56
 - [x] [[The Borders of the Land]] — Numbers 34:1–29
-- [ ] The Levitical Cities and the Cities of Refuge — Numbers 35:1–34
+- [x] [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes

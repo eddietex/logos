@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Blood shed in homicide pollutes the land, and the WEB says atonement for that blood requires the shedder’s blood (33). The context distinguishes murder from unwitting killing and requires judgment and witnesses (12, 22–30); verse 33 cannot erase those safeguards.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### Penalties and separation — Leviticus 20
 
 The repeated formula assigning offenders’ blood to themselves accompanies death penalties (9,
@@ -147,8 +153,7 @@ See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
 - **Leviticus 17:11** — the theme's hinge verse, and the one that ties its three strands into one
   sentence: the life is in the blood, God gave it for the altar, and it atones *by reason of the
   life*.
-- **Numbers 35:30–34** — blood pollutes the land, and *"no expiation can be made for the land… but
-  by the blood of him who shed it."* The cities of refuge and the requirement of two witnesses are
+- **Numbers 35:30–34** — blood pollutes the land, and atonement requires the shedder’s blood (WEB 35:33) The cities of refuge and the requirement of two witnesses are
   the procedure Genesis 9:6 lacks.
 - **Deuteronomy 21:1–9** — the unsolved murder: the elders break a heifer's neck over running water
   and wash their hands, declaring *"Our hands have not shed this blood."* Blood-guilt is a liability
@@ -349,6 +354,8 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

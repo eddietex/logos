@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities and refuge — Numbers 35:1–34
+
+Tribes contribute cities according to the size of their inheritance (8). Refuge serves Israelites, strangers, and resident foreigners alike (15). Levite holdings and the killer’s eventual return to his own possession (28) qualify any account of land distribution as unrestricted tribal ownership.
+
+See [[The Levitical Cities and the Cities of Refuge]]. Source: stored WEB Numbers 35; comparisons as cited.
+
 ### The borders of the land — Numbers 34:1–29
 
 Canaan’s boundary (2–12), the eastern exception (13–15), and the named allotment officers (16–29) give the land gift geographical and administrative form. Lot and human administration coexist; the text still does not explain their precise coordination. Genesis 15:18 describes a wider grant toward the Euphrates; the descriptions should not be collapsed into one identical boundary.
@@ -462,6 +468,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 
