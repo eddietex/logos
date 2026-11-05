@@ -10,8 +10,7 @@ tags: [connection]
 - [[The March from Sinai]] — Numbers 10:33; the ark goes before them *to seek out a resting place*
 - [[The Twelve Spies]] — Numbers 13:2, 16, 17, 21, 25, 32
 - [[The People Refuse the Land]] — Numbers 14:6, 7, 34, 36, 38; the same verb in the sequel
-- Numbers 15:39 — *that you don't follow your own heart and your own eyes* *(stored WEB and WLC, not
-  yet ingested)*
+- [[The Tassels]] — Numbers 15:37–41; the warning about heart and eyes
 - Deuteronomy 1:33 — Yahweh going before them to seek out a place *(WLC; see
   [[Over the Tent and Before the People - Where the Cloud Stood]])*
 - Judges 1:23 — *The house of Joseph sent to spy out Bethel* *(WEB and WLC checked, not yet
@@ -20,6 +19,11 @@ tags: [connection]
 - Ezekiel 20:6 — *a land that I had searched out for them* *(WEB and WLC checked, not yet ingested)*
 
 ## Analysis
+
+**Numbers 15 now ingested.** The full unit makes the fringe a positive direction for sight:
+look, remember, and do (39–40), grounded in the exodus (41). The Hebrew comparison below
+retains the earlier entry’s WLC attribution; this ingest verifies the WEB context only.
+The connection of the command with the spies remains a literary inference.
 
 **Not the spy word.** Genesis 42 has *məraggəlîm*, and Joshua 2:1 has the same word for Joshua's two
 men. Numbers 13 uses *tûr* instead. That verb has 22 verses by the tags, and most of them are in

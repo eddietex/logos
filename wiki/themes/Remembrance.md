@@ -63,6 +63,13 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+The fringe makes remembrance a practice of looking that leads to doing (39–40). This is
+human remembrance of commandments, distinct from God remembering people or covenant.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 *Zākar* four times, promised ahead of time for exile: the covenant with Jacob, Isaac, and Abraham,
@@ -394,6 +401,8 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

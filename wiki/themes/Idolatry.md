@@ -47,6 +47,13 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+Following heart and eyes is described as prostitution (39), language of unfaithfulness.
+No idol or foreign deity is named; the warning should not be narrowed to one specified cult.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### Field and community — Leviticus 19:19–37
 
 Enchantments and sorcery are prohibited (26), and seeking mediums and wizards brings defilement
@@ -237,6 +244,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

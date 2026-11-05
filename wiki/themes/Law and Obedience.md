@@ -99,6 +99,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+Looking, remembering, and doing form the stated purpose of the fringe (39–40). After the
+Sabbath sentence, the chapter turns to a continuing aid to obedience, without explicitly
+claiming that the sentence caused this instruction.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 The community waits for a ruling and then obeys it (34–36). The prior death sanction in
@@ -894,6 +902,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

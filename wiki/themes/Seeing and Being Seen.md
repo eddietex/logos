@@ -32,6 +32,14 @@ without unrestricted access. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+Israel must look at the fringe rather than follow its own eyes (39). Sight is capable of
+serving obedience as well as leading astray: the passage redirects attention rather than
+condemning the faculty of sight.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 **God sees, and seeing is acting.** *"Yahweh saw that the wickedness of man was great"* (6:5) is the
 verdict that produces the flood. *"I have surely seen the affliction of my people who are in Egypt …
 and I know their sorrows"* (Exodus 3:7) is the sentence the exodus comes out of, and it uses Genesis
@@ -320,6 +328,8 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[Altogether Lovely]] — Song of Solomon 5:9–6:3; her description of his body before an audience.
 

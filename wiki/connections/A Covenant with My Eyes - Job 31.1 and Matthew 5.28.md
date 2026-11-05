@@ -16,8 +16,7 @@ tags: [connection]
   woman?"* — [[Job's Oath of Innocence]]
 - **Job 31:7, 9** — *"if my heart walked after my eyes … If my heart has been enticed to a woman, and I
   have laid wait at my neighbor's door"* — [[Job's Oath of Innocence]]
-- **Numbers 15:39** *(not yet ingested)* — the tassels, *"that you don't follow your own heart and your
-  own eyes, after which you use to play the prostitute"*
+- **Numbers 15:39–40** — [[The Tassels]]; sight directed toward remembered obedience.
 - **2 Samuel 11:2** *(not yet ingested)* — David on the roof: *"he saw a woman bathing, and the woman
   was very beautiful to look at"*
 - **Proverbs 6:25** — [[The Lamp of the Commandment]]: *"Don't lust after her beauty in your heart, neither let her
@@ -29,6 +28,12 @@ tags: [connection]
   the flesh, the lust of the eyes, and the pride of life"*
 
 ## Analysis
+
+**The tassels in context.** Numbers 15:39–40 commands looking at the fringe, not the
+abolition of sight. Its warning about heart and eyes concerns disloyalty to God without
+naming a particular woman or sexual act. Job 31:1 and 7 supply a more specific comparison;
+the two contexts should remain distinct. Source for this addition: stored WEB Numbers 15
+and Job 31. Earlier cross-reference quotations are not newly verified by this addition.
 
 **Scripture locates the beginning of the sin in the eye, and it does so from the first sin onward.**
 Eve's fall is narrated as a sequence of seeing, desiring and taking (Genesis 3:6); Potiphar's wife

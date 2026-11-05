@@ -347,6 +347,8 @@ a festival, not an object. The wiki adopts neither reading.
 
 ## Cross-references
 
+- [[Visible Reminders and the God Who Brought Israel Out]] — [[The Tassels]] brings remembrance, obedience, and deliverance together (Numbers 15:37–41).
+
 - [[Get Wisdom]] — Proverbs 4:1–9 passes remembered instruction through a family; see
   [[Wisdom Handed On - Proverbs 4 and Exodus 13]] .
 

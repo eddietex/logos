@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The tassels — Numbers 15:37–41
+
+Moses receives the command about garment fringes and is told to speak to Israel (37–38).
+No response or act of making fringes is narrated in this unit.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 The accused is brought to Moses with Aaron and the congregation (33). Yahweh addresses
@@ -1197,6 +1204,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

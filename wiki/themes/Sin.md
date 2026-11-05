@@ -82,6 +82,13 @@ has been argued.
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+The warning against following heart and eyes addresses the direction of desire (39).
+The fringe is prescribed as a reminder to obey, not as a remedy that cancels an offense.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 The case follows the high-hand law (30–31), inviting an illustrative reading, but the
@@ -584,6 +591,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

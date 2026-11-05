@@ -21148,3 +21148,34 @@ No raw source, schema, or skill changes. Link checks passed, including wrapped l
 targets, with 58 expected not-yet-started book targets. Frontmatter counts: 294 passages,
 209 people, 113 places, 87 themes, 668 connections. Numbers: 23 / 54 pericopes.
 Next: The Tassels, Numbers 15:37–41. No operational blocker remains.
+
+## [2026-11-04] ingest | Numbers 15.37-41 — The Tassels
+
+- Ingested the next planned unit without changing its boundary. Created [[The Tassels]]
+  with all five verses copied verbatim from stored WEB, retaining the source's spacing in 15:39.
+- Created [[Visible Reminders and the God Who Brought Israel Out]], comparing Exodus 13:3–16
+  and Leviticus 22:31–33 with the fringes, remembrance, holiness, and exodus purpose.
+  Added reciprocal links to the two earlier passage pages.
+- Revised [[God]], [[Moses]], [[Egypt]], and seven themes: [[Remembrance]], [[Holiness]],
+  [[Law and Obedience]], [[Seeing and Being Seen]], [[Sin]], [[Idolatry]], and [[Redemption]].
+  Updated their synthesis, passage lists, and category rows.
+- Updated [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]] and
+  [[To Seek Out the Land - Tur in Numbers 10, 13, 15, and Ezekiel 20]]
+  to link the newly ingested unit and account for its full context. The distinction between
+  looking at the fringe and following one's own eyes is explicit; Numbers does not name a
+  particular woman, idol, or sexual act. The link to the spies is retained as literary inference.
+- Judgments: no new person or place is needed for the community addressed. No symbolism of blue,
+  dye source, knot count, or later garment practice is inferred. The exodus link concerns
+  deliverance into belonging, without asserting a payment here. Divine sanctification in
+  Leviticus and commanded holiness in Numbers are retained together.
+- Sources: all new quotations come from stored WEB Numbers; supporting comparisons were checked
+  in stored WEB Exodus, Leviticus, and Job. No raw text changed, no unstored book was fetched,
+  and no new Hebrew or Greek claim was introduced. Existing source-language research and
+  external quotations in the two older connection pages retain their prior provenance;
+  the additions distinguish what this pass checked.
+- Advanced Numbers to 24 / 54 pericopes. Totals by frontmatter type: 295 passages, 209 people,
+  113 places, 87 themes, 669 connections. Two pages created; 23 existing pages revised,
+  including book, indexes, and this log.
+- Validation: scripts/link-check.sh passed with no wrapped or dangling links; 58 expected
+  not-yet-started book targets. Index row counts and git diff whitespace check passed.
+  No unresolved issue for this ingestion.

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The tassels — Numbers 15:37–41
+
+Yahweh gives a visible aid to obedience and identifies himself as the deliverer from Egypt.
+The end of deliverance is belonging to him (41), while the commanded response is holiness (40).
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 Yahweh commands death and specifies communal stoning outside the camp (35). The narrator
@@ -3149,6 +3156,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

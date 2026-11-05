@@ -34,6 +34,13 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+Yahweh brought Israel out of Egypt to be their God (41). Deliverance here grounds belonging
+and obedience; no payment or purchase mechanism is described.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Redemption of sanctuary property: *gāʾal* with an added fifth for animals, houses, fields, and the
@@ -207,6 +214,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Levites and the Firstborn Counted]] — Numbers 3:46–51; 273 firstborn bought out at five shekels.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:11–13; the substitute for the firstborn.

@@ -11,6 +11,9 @@ status: in-progress
 
 ## Overview
 
+[[The Tassels]] (15:37–41) adds a visible reminder: looking at garment fringes is to lead
+to remembering and doing all the commandments, with holiness grounded in the God of the exodus.
+
 [[The Sabbath Breaker]] (15:32–36) brings a concrete case after the high-hand law:
 a man gathering sticks is held for a ruling, then stoned outside the camp as commanded.
 His motive is not narrated, and the precise uncertainty despite the earlier Sabbath death
@@ -110,7 +113,7 @@ merge, or reorder them freely.
 - [x] [[The Defeat at Hormah]] — Numbers 14:39–45
 - [x] [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31
 - [x] [[The Sabbath Breaker]] — Numbers 15:32–36
-- [ ] The Tassels — Numbers 15:37–41
+- [x] [[The Tassels]] — Numbers 15:37–41
 - [ ] The Rebellion of Korah — Numbers 16:1–40
 - [ ] Aaron Stands Between the Dead and the Living — Numbers 16:41–50
 - [ ] Aaron's Rod Buds — Numbers 17:1–13

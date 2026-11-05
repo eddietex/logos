@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The tassels — Numbers 15:37–41
+
+Egypt is recalled as the land from which Yahweh brought Israel to be their God (41).
+It is the origin of deliverance, not the stated location of the garment command.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### The dates of Numbers — Numbers 1:1
 
 The first date in Numbers is reckoned from leaving Egypt: *in the second year after they had come out of the land of Egypt* (1). The place remains the book's reference point.
@@ -205,6 +212,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the land of the struck firstborn.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

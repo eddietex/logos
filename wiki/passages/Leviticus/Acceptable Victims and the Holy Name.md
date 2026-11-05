@@ -78,6 +78,8 @@ unit, [[Eating the Holy Things]], regulated who eats; this one regulates what is
 
 ## Cross-references
 
+- [[Visible Reminders and the God Who Brought Israel Out]] — [[The Tassels]] brings remembrance, obedience, and deliverance together (Numbers 15:37–41).
+
 - [[Vows, Valuations, and Devoted Things]] — 27:9–10, vowed animals may not be exchanged.
 - [[No Blemish in You - Song of Solomon 4.7, Leviticus 22.21, and 2 Samuel 14.25]] — the defect word for animals (22:20–21) now ingested.
 - [[The Eighth Day - Circumcision and the Firstborn Given to God]] — the seven days with the mother and the eighth day (22:27).

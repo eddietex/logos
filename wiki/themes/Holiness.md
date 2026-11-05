@@ -87,6 +87,13 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The tassels — Numbers 15:37–41
+
+All Israel is addressed about fringes across generations (38); remembering and doing the
+commandments serves holiness to their God (40). The calling is not restricted to priests.
+
+See [[The Tassels]]. Source: stored WEB Numbers 15:37–41.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 The holy day protected by Exodus 31:14–15 is enforced in a concrete wilderness case.
@@ -612,6 +619,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 
