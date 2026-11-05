@@ -21578,3 +21578,34 @@ unstarted-book targets. The passage title is unique, each affected category page
 row, the Numbers checklist has 38 checked units, and frontmatter counts match the dashboard.
 Git diff --check is clean. No execution blocker or deliberately dangling link remains; the
 permission/anger tension and unspecified location remain identified on the passage page.
+
+## [2026-11-05] ingest | Numbers 22.36-23.26 — Balaam's First Two Oracles
+
+Ingested the next planned unit in unattended mode with Codex. Retained the boundary before
+Balak’s move to Peor: two sacrificial consultations, two blessings, and the king’s failed
+request for silence. Numbers is now 39 / 54 pericopes complete.
+
+Created 7 pages: the passage, five places (City of Moab, Kiriath Huzoth, High Places of Baal,
+Zophim, and Aram (place)), and the connection
+[[God Does Not Repent - Balaam and the Golden Calf]]. Revised 29 existing content pages:
+the Numbers book, the Golden Calf passage’s cross-references, five people, four places,
+fifteen themes, and three connections. Updated ten index/dashboard pages and this log
+(40 revised pages in total). Counts: 310 passages, 225 people, 142 places, 87 themes,
+693 connections; eight books started, seven complete.
+
+Named stations receive individual pages without speculative modern identifications. City of
+Moab is not silently equated with Ar; broad Aram remains distinct from Aram Naharaim.
+Unnamed princes remain collective; Jacob/Israel is identified as the nation, and Zippor as
+a named father rather than an actor. Both viewpoints already describe partial sight.
+
+Explicitly retained the tension between Numbers 23:21 and Numbers 14’s rebellion, and between
+Numbers 23:19 and Exodus 32:14’s divine relenting. Corrected an existing connection’s claim
+that Balak had already paid Balaam: the present narrative does not report accepted payment.
+Withdrew that connection’s unverified assertion equating Greek expressions in Romans 11:29
+and Hebrews 12:17; no lexical conclusion is used in this ingest.
+
+Passage quotations were copied directly from stored WEB Numbers. New comparisons use stored
+WEB texts in paraphrase, including Genesis 13:16, Numbers 14, and Exodus 32:14. No raw text
+was changed or fetched, and no new original-language claim was introduced. No harness or
+workflow changes were required. Link checks clean (58 expected unstarted-book targets);
+no unresolved link issue or operational blocker.

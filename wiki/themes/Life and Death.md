@@ -139,6 +139,14 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Balaam wishes to die the death of the righteous and share Israel’s end (23:10). The wish expresses
+admiration for the blessed people, not a narrated fulfillment or a guarantee about his death.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 Repeated death warnings mark unauthorized approach and profanation (3, 7, 22, 32).
@@ -738,6 +746,9 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

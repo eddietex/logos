@@ -90,6 +90,8 @@ scene.
 
 ## Cross-references
 
+- [[God Does Not Repent - Balaam and the Golden Calf]] — Numbers 23:19–20 and Exodus 32:14.
+
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:3, 12; the idiom of 32:29 used of the priests, and Levi taken for another reason.
 - [[Without Revelation and Without Restraint - Proverbs 29.18 and Exodus 32.25]] — comparison developed with Proverbs 29.
 

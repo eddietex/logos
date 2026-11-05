@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The first two oracles — Numbers 22:36–23:26
+
+The City of Moab, where Balak meets Balaam, stands at the Arnon border (22:36). This boundary notice
+does not itself identify that city with Ar.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 Southern limit of the territory Israel takes from Sihon (24), also the limit of Sihon’s earlier
@@ -23,11 +31,16 @@ Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
 
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
+
 - [[Sihon and Og]] — Numbers 21:21–35.
 
 - [[The Journey to Moab]] — Numbers 21:10–20
 
 ## Related places
+
+- [[City of Moab]] — border reception, Numbers 22:36.
 - [[Moab (place)]] — the regional setting of the itinerary.
 
 ## Events here

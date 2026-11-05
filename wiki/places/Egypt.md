@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The first two oracles — Numbers 22:36–23:26
+
+The second oracle recalls God bringing Israel out of Egypt (23:22). Egypt is a remembered place of
+departure, not the scene of the oracles.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Balak identifies Israel as the people who came out of Egypt (5, 11). The exodus is recalled by a
@@ -249,6 +257,9 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

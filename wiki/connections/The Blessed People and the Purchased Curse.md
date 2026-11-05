@@ -7,11 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
+
 - [[The Call of Abram]] — Genesis 12:1–3.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27.
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 ## Analysis
+
+### The first two oracles — Numbers 22:36–23:26
+
+The first two oracles enact the restriction of 22:12. Repeated sacrifices and a changed vantage
+point do not alter Israel’s blessed status (23:8, 20). Israel’s uncountable dust (23:10) also
+recalls Genesis 13:16. This protection does not erase the judgment on Israel in Numbers 14; the
+WEB’s denial of iniquity in 23:21 remains in tension with that history.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
 
 Genesis 12:1–3 promises blessing to Abram and a divine response to those who oppose him. Numbers
 6:22–27 assigns priests words of blessing but reserves the act of blessing to Yahweh. Numbers 22:6

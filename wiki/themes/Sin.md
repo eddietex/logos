@@ -102,6 +102,16 @@ has been argued.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+The WEB’s denial of seen iniquity or perverseness in Israel (23:21) stands in tension with the
+rebellion and judgment narrated in Numbers 14. Protection from a hostile curse must not be turned
+into a claim that the wilderness generation committed no sins; the oracle does not explain the
+relation fully.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 Bearing iniquity is attached to sanctuary and priestly responsibility (1, 23).
@@ -627,6 +637,9 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

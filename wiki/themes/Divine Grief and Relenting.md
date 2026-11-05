@@ -62,6 +62,18 @@ happening in God rather than in the world.
 
 ## Development across Scripture
 
+See [[God Does Not Repent - Balaam and the Golden Calf]] for the explicit comparison.
+
+### The first two oracles — Numbers 22:36–23:26
+
+Numbers 23:19 denies that God lies or repents in the context of reversing Israel’s blessing (20).
+Exodus 32:14 explicitly narrates divine repentance of threatened harm. This verbal tension remains:
+distinguishing a protected blessing from a judgment withdrawn after intercession explains the
+different settings without deleting either claim.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 - **Genesis 6:6–7** — the first use of *nāḥam* of God, twice in two verses, as the ground of the
   flood. See [[The Sons of God and the Corruption of the Earth]].
 - **Genesis 8:21** — the counterpart, and the theme's most important turn: God
@@ -124,6 +136,9 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Renewal follows relenting; Jonah later joins mercy to relenting.
 

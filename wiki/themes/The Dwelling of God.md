@@ -71,6 +71,14 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+The second oracle declares Yahweh present with Israel (23:21). Divine presence protects the people
+before an external enemy even though earlier camp narratives record judgment within it.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 The Tent of Meeting is guarded through assigned responsibilities (1–7, 22–23).
@@ -487,6 +495,9 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 

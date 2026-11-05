@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
+
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - **Genesis 30:27** — *"I have divined that Yahweh has blessed me for your sake"* — [[Jacob's Flocks]]
@@ -25,6 +28,16 @@ tags: [connection]
   with Israel"*
 
 ## Analysis
+
+### The first two oracles — Numbers 22:36–23:26
+
+The stored WEB of Numbers 23:23 speaks of no enchantment with Jacob and no divination with Israel.
+The surrounding scene nevertheless has Balaam seek a meeting after sacrifices, and explicitly
+attributes the answer to Yahweh (23:3–5, 15–16). The distinction between Israel’s status and
+Balaam’s practice must be retained; this verse alone does not describe every technique he used.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
 
 ### The first embassies
 

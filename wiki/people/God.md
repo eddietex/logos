@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The first two oracles — Numbers 22:36–23:26
+
+Yahweh meets Balaam and supplies both oracles (23:5, 16), maintaining Israel’s blessing. The denial
+of repentance in 23:19 stands in explicit tension with Exodus 32:14, where Yahweh repents of
+threatened harm. Here the immediate issue is whether a king can reverse an already given blessing;
+neither statement should erase the other.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 God is angry at Balaam’s journey, yet opens the donkey’s mouth and Balaam’s eyes, exposing the danger and preserving the traveler. Permission in 22:20 and anger in 22:22 stand together; the angel calls Balaam’s way perverse (32), but the narrative supplies no fuller explanation of that tension.
@@ -3250,6 +3260,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

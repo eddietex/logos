@@ -44,6 +44,15 @@ without unrestricted access. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Balak changes the viewpoint after the first blessing (23:13–14). Both 22:41 and 23:13 already speak
+of seeing only part of Israel, so the narrative should not be simplified into a change from seeing
+the whole camp to seeing only part.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### The tassels — Numbers 15:37–41
 
 Israel must look at the fringe rather than follow its own eyes (39). Sight is capable of
@@ -340,6 +349,9 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

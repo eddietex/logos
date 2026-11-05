@@ -47,6 +47,15 @@ brought out of Egypt, not a new Pharaoh. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Balak can supply honor, victims, and new vantage points, but cannot command the divine answer. The
+shout of a king among Israel accompanies Yahweh’s presence (23:21); no human Israelite monarch is
+named here.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Balak responds to fear with diplomacy, rewards, and promised honor (2–17). Royal patronage cannot
@@ -387,6 +396,9 @@ See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 
 comparisons documented on the passage page.
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

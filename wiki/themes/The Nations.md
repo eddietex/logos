@@ -63,6 +63,15 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Israel is depicted as dwelling alone and not being listed among the nations (23:9). The oracle
+asserts a distinct status; it does not claim that Israel lacks relations or conflicts with
+neighboring peoples.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Moab and Midian cooperate against Israel through an embassy (4–7). God speaks to Balaam outside
@@ -199,6 +208,9 @@ conclusions (13–16). Yahweh's name stands in their hearing. See
 [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

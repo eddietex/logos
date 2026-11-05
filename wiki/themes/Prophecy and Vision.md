@@ -44,6 +44,14 @@ happens.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+The narrative twice attributes Balaam’s words to Yahweh (23:5, 16). The commissioned message exceeds
+both the patron’s purpose and the speaker’s control.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 A man approached with rewards of divination receives actual divine speech (7–12, 20). His
@@ -152,6 +160,9 @@ The Torah's one statement of grades. Miriam the prophetess and Aaron ask whether
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

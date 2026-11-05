@@ -64,6 +64,14 @@ the same verses that put the tree of life back in reach (see
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Balak’s repeated demand is denied twice. Even his fallback request for silence fails to release
+Balaam from the obligation to speak what Yahweh gives (23:25–26).
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Balak seeks a curse as preparation for battle and expulsion (6, 11). This qualifies the overview’s
@@ -231,6 +239,9 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

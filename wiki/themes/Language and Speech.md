@@ -72,6 +72,14 @@ noticing into doctrine.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+A royal commission to curse becomes a blessing because God supplies the speech (22:38; 23:5, 16).
+The utterance’s authority does not come from the person who financed the setting.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Lies, false oaths, cursing the deaf, and slander are forbidden (11–16); rebuking a neighbor is
@@ -599,6 +607,9 @@ of verse 2, the claim of verse 3, the report of verses 36–37. The verse 10 sto
 said. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

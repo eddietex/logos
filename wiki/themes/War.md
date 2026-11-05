@@ -25,6 +25,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+The second oracle ends with Israel as a lion consuming prey and the blood of the slain (23:24). This
+is martial imagery promising power, not a report of a new battle in this unit.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 The request for transit becomes battle when Sihon attacks (21–24). Og also comes out to fight (33);
@@ -264,6 +272,9 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

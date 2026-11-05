@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
+
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
 - **Genesis 27:33** — *"Isaac trembled violently, and said, 'Who, then, is he who has taken venison,
@@ -29,6 +32,16 @@ tags: [connection]
 - **Romans 11:29** — *"For the gifts and the calling of God are irrevocable."*
 
 ## Analysis
+
+### The first two oracles — Numbers 22:36–23:26
+
+Numbers 23:19–20 now supplies the direct scene behind the comparison: Balaam cannot reverse God’s
+blessing. Balak changes locations and repeats sacrifices, but receives the same refusal. The text
+has not said that Balaam accepted payment. The analogy with Genesis 27 concerns a blessing that
+stands, not identical agents or circumstances.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
 
 ### The first embassies
 
@@ -62,7 +75,7 @@ sides with the act and not with the intention.** See [[Language and Speech]] and
 |---|---|---|---|
 | **Genesis 27:33** | Isaac's blessing on Jacob | obtained by disguise and a flat lie | *"Yes, he will be blessed"* |
 | **Genesis 9:25** | Noah's curse on Canaan | pronounced on waking from wine, on a grandson who did nothing | never modified; Genesis 10 lists Canaan's line without reference to it |
-| **Numbers 23:20** | God's blessing on Israel | a king has paid a prophet to reverse it | *"He has blessed, and I can't reverse it"* |
+| **Numbers 23:20** | God's blessing on Israel | a king seeks a prophet’s reversal through offered honor and repeated sacrifices | *"He has blessed, and I can't reverse it"* |
 | **Joshua 9:19** | Israel's oath to Gibeon | the treaty was obtained by a deliberate deception | *"we may not touch them"* |
 | **Judges 11:35** | Jephthah's vow | it costs him his daughter | *"I can't go back"* |
 
@@ -101,15 +114,11 @@ commitments.
 
 ### The theological use Paul makes of it
 
-***"The gifts and the calling of God are irrevocable"*** — ***ametamélēta*** (Romans 11:29),
-literally *not to be regretted, not subject to a change of mind.* **Paul is arguing that God has not
-withdrawn from Israel**, and the noun behind the adjective is *metánoia*, the same word Hebrews 12:17
-uses of what Esau could not find: *"he found no place for a change of mind."*
-
-**The two verses are the same word from opposite ends.** Esau cannot produce a reversal; God will not
-produce one. **In both cases the fixed point is the word already spoken**, and in both cases the
-person who wants it changed is the one who has to live with it. See
-[[Esau's Birthright in Hebrews]] and [[Call and Election]].
+Romans 11:29 and Hebrews 12:17 offer a further comparison concerning irrevocable gifts and
+Esau’s inability to obtain a reversal. The earlier assertion here that their Greek expressions
+are the same word has not been verified against an identified Greek edition and is withdrawn.
+This ingest makes no lexical argument from those verses. See [[Esau's Birthright in Hebrews]]
+and [[Call and Election]].
 
 ## Significance
 

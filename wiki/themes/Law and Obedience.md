@@ -135,6 +135,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Balaam repeatedly insists that he must speak or do what Yahweh gives (22:38; 23:12, 26). These
+obedient utterances do not by themselves settle his entire character.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 The initial refusal to travel (12) becomes conditional permission (20), always bounded by the
@@ -954,6 +962,9 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

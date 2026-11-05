@@ -29,6 +29,15 @@ costly.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+The first oracle refuses an unauthorized curse; the second declares an already bestowed blessing
+irreversible by Balaam (23:8, 20). Blessing is grounded in God’s commitment, not Balak’s
+expenditure.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Israel’s existing blessed status is the stated reason God forbids the requested curse (12). Balak
@@ -358,6 +367,9 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

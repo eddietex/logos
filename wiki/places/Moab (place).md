@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The first two oracles — Numbers 22:36–23:26
+
+The reception and two oracles unfold in Moab’s setting. The king and princes listen while Israel is
+viewed from heights; the nation is the object of attempted cursing, not a participant in the
+sacrificial consultations.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Israel camps in Moab’s plains beyond the Jordan at Jericho (1). Fear of Israel’s numbers and
@@ -84,6 +93,9 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

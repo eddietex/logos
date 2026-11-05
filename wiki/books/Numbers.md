@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Balaam's First Two Oracles]] (Numbers 22:36–23:26) turns the attempted curse into two blessings.
+Repeated sacrifices and a changed viewpoint cannot reverse God’s commitment; the oracle’s
+claims about repentance and iniquity remain explicitly compared with earlier narratives.
+
+
 [[Balaam's Donkey]] (22:22–35) interrupts the permitted journey with a deadly encounter.
 The donkey sees and avoids the angel before Balaam does; his eyes are opened, his way rebuked,
 and his onward speech restricted again to the given word.
@@ -184,7 +189,7 @@ merge, or reorder them freely.
 - [x] [[Sihon and Og]] — Numbers 21:21–35
 - [x] [[Balak Sends for Balaam]] — Numbers 22:1–21
 - [x] [[Balaam's Donkey]] — Numbers 22:22–35
-- [ ] Balaam's First Two Oracles — Numbers 22:36–23:26
+- [x] [[Balaam's First Two Oracles]] — Numbers 22:36–23:26
 - [ ] Balaam's Last Oracles — Numbers 23:27–24:25
 - [ ] Baal Peor and the Zeal of Phinehas — Numbers 25:1–18
 - [ ] The Second Census — Numbers 26:1–65
@@ -202,6 +207,14 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Righteousness]] — [[Balaam's First Two Oracles]].
+
+- [[Kingship and Empire]] — [[Balaam's First Two Oracles]].
+
+- [[The Nations]] — [[Balaam's First Two Oracles]].
+
+- [[Divine Grief and Relenting]] — [[Balaam's First Two Oracles]].
 
 - [[Compassion and Mercy]] — [[Balaam's Donkey]] (22:22–35).
 
@@ -307,6 +320,16 @@ merge, or reorder them freely.
 - [[Gershon]], [[Kohath]], [[Merari]] — the three Levite houses
 
 ## Key places
+
+- [[Aram (place)]] — [[Balaam's First Two Oracles]].
+
+- [[Zophim]] — [[Balaam's First Two Oracles]].
+
+- [[High Places of Baal]] — [[Balaam's First Two Oracles]].
+
+- [[Kiriath Huzoth]] — [[Balaam's First Two Oracles]].
+
+- [[City of Moab]] — [[Balaam's First Two Oracles]].
 
 - [[Pethor]] — Balaam’s location by the River (22:5).
 - [[Jericho]] and [[The Jordan]] — reference points for the camp in Moab (22:1).

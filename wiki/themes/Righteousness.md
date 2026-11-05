@@ -43,6 +43,15 @@ about.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+The wish for the death of the righteous (23:10) accompanies the declaration of Israel’s blessing.
+Verse 21 must still be read beside the narrated rebellion of Numbers 14 rather than used to deny
+that history.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Justice applies to measures of length, weight, and quantity as well as judgment (35–36). An
@@ -377,6 +386,9 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

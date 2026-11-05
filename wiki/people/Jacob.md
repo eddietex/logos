@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The first two oracles — Numbers 22:36–23:26
+
+Jacob and Israel name the people in both oracles (23:7–10, 21, 23), not the living patriarch. The
+uncountable dust image recalls the promise of numerous descendants in Genesis 13:16.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel appeals to Edom as a brother nation (14), carrying the patriarchal relationship
@@ -778,6 +786,9 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21 (ancestral comparison).
 

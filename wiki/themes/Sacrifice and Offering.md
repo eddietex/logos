@@ -85,6 +85,15 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### The first two oracles — Numbers 22:36–23:26
+
+Seven altars, each with a bull and ram, are prepared at each of two stations (23:1–2, 14). The
+sacrifices accompany meetings with God but do not purchase the requested curse; these are not
+presented as Israel’s prescribed sanctuary rites.
+
+See [[Balaam's First Two Oracles]]. Source: stored WEB Numbers 22:36–23:26.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 Offerings sustain priestly households, with different eligibility for different
@@ -650,6 +659,9 @@ Every burnt offering and sacrifice in the land must come with flour, oil, and wi
 tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
+
 
 - [[The Red Heifer]] — Numbers 19:1–22.
 
