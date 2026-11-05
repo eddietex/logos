@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
+
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:5–13; Levi given to Aaron, with no mention of Shechem or the curse.
 - [[The Golden Calf]] — Exodus 32:26–29.
 
@@ -107,3 +109,12 @@ Genesis 34 are worth holding onto**: ***"in their self-will they hamstrung cattl
 *məkērōtêhem*, WEB *"their swords"*, a word that occurs once in the Bible** and has been read as
 *wares*, *bargains*, *dwellings* and *plans* as well. **Jacob's account of Shechem is harsher than the
 narrator's, and Genesis lets both stand.**
+
+
+### Peor now ingested
+
+Numbers 25 places a Simeonite household prince, Zimri, opposite Phinehas of Aaron’s line.
+Yahweh explicitly approves Phinehas’s zeal (11–13), whereas Genesis 49 condemns the brothers’
+cruel anger. That moral tension remains; no blanket approval of ancestral violence follows.
+The chapter neither attributes all plague deaths to Simeon nor explains the tribe’s census loss.
+See [[Baal Peor and the Zeal of Phinehas]].

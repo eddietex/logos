@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Yahweh’s anger at Israel’s allegiance to Baal Peor leads to judgment (3–4). He credits Phinehas
+with turning away wrath and grants him and his offspring a covenant of peace and enduring
+priesthood (10–13). The blessing of Israel in chapters 23–24 does not remove accountability for
+its own acts.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Yahweh’s pleasure in blessing Israel governs the third oracle; the Spirit of God comes on Balaam
@@ -3269,6 +3279,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

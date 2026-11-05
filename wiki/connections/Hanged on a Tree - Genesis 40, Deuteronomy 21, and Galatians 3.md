@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
+
 - [[The Cupbearer and the Baker]] — Genesis 40:19, 22: *"will hang you on a tree; and the birds will eat
   your flesh from off you"* — **the first occurrence in Scripture**
 - Deuteronomy 21:22–23 — the body taken down before nightfall, *"for he who is hanged is accursed of
@@ -16,7 +18,7 @@ tags: [connection]
 - 2 Samuel 4:12 — the hands and feet of Rechab and Baanah, hung up by the pool at Hebron
 - 2 Samuel 21:9–13 — Saul's seven descendants left exposed, and Rizpah keeping the birds off them
 - Esther 2:23; 5:14; 7:9–10; 9:13–14 — the gallows, and a courtier hanged on the one he built
-- Numbers 25:4 — the chiefs *"hanged up before Yahweh"*
+- Numbers 25:4 — the chiefs ordered exposed before Yahweh and the sun (WEB paraphrase)
 - Galatians 3:13 — *"Christ redeemed us from the curse of the law, having become a curse for us. For it
   is written, 'Cursed is everyone who hangs on a tree'"*
 - Acts 5:30; 10:39; 13:29; 1 Peter 2:24 — *"hanging him on a tree"* as the apostolic shorthand for the
@@ -100,3 +102,13 @@ same scavengers, from the other side.
 **Nothing in Genesis 40 anticipates any of this.** The baker is a minor Egyptian official in a chapter
 about whether an interpreter is reliable, **and the wiki claims no typology.** What it claims is
 lexical: the phrase the New Testament uses of the cross enters Scripture here.
+
+
+### Peor now ingested
+
+Numbers 25:4 commands exposure of the chiefs before Yahweh and the sun; verse 5 addresses
+the judges and men attached to Baal Peor. No tree is specified here, and the chapter does
+not report completion of these commands. This must not become an asserted method of
+execution or a narrated hanging of every chief.
+
+See [[Baal Peor and the Zeal of Phinehas]].

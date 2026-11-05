@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+The opening names the daughters of Moab as inviting Israel to sacrifices (1–2), while the
+following incident identifies Cozbi as Midianite (6, 15). The narrative involves both peoples;
+they must not be silently equated.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The final main oracle predicts a ruler from Israel striking Moab (24:17). This is future speech, not
@@ -102,6 +111,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

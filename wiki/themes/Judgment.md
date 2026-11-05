@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Commands concerning chiefs and implicated men precede Phinehas’s killing of the pair and the
+stopping of the plague (4–9). The plague toll is 24,000; the passage supplies no tribal breakdown
+or report that all commanded executions occurred.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 The drawn sword makes the threat concrete: the angel says Balaam would have died and the donkey lived had she not turned aside (33). The rebuke distinguishes the threatened rider from the animal he punished.
@@ -710,6 +719,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

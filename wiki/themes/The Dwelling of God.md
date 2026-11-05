@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The people weep at the door of the Tent of Meeting (6), making the sanctuary entrance the public
+setting of the crisis. No movement of the Tent is narrated.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The red heifer — Numbers 19:1–22
 
 The blood is sprinkled toward the Tent, while the heifer burns and its ashes are stored
@@ -495,6 +503,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

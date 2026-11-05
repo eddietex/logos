@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Zimri is a prince of a fathers’ house among Simeon’s descendants (14); the patriarch himself is
+not present. The chapter does not assign all 24,000 deaths to this tribe or explain the later
+census decline.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 **Leah's second son, named for a hearing Genesis never prints.**
 
 *"Because Yahweh has heard that I am hated, he has therefore given me this son also"* (29:33) —
@@ -120,6 +129,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Birth of Jacob's Children]] — Genesis 29:33; the second son, named for God hearing what nobody
   in the household says out loud. **His mother's speech is the one place she states her own position

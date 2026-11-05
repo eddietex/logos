@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The congregation weeps at the Tent’s door as the man brings the Midianite woman (6). No words of
+lament or individual confessions are supplied.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Priestly holiness — Leviticus 21
 
 Priests may defile themselves for the close relatives enumerated in 2–3, while the high priest
@@ -206,6 +214,8 @@ treats it as a fault. Verse 39 will have them mourn again, after the sentence, t
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

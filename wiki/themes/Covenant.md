@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Yahweh grants Phinehas a covenant of peace, specified as an everlasting priesthood for him and his
+offspring (12–13). No new sacrifice, oath by Phinehas, or covenant sign is narrated; the grant
+qualifies an overly rigid account requiring every covenant to narrate all such features.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 A binding, sworn relationship between parties, with stated obligations, a sign, and a curse for
 breach — and, in the Bible, the primary category under which God relates himself to creatures. It
 becomes the organizing structure of the whole canon: the two divisions of the Christian Bible are
@@ -357,6 +366,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

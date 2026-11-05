@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The WEB explicitly calls Phinehas’s action atonement for Israel (13). The narrative describes a
+lethal intervention and the stopping of wrath, not an altar offering or an explicit forgiveness
+formula. Together with Aaron’s incense in Numbers 16, this prevents treating every narrated
+atonement as the same ritual.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 Atonement is what the Hebrew root *kpr* does in the sanctuary: it deals with whatever stands
 between a holy God and a people, a priest, or a thing, so that approach is possible and death or
 plague does not follow. The root supplies the verb *kipper*, *to make atonement*; the noun
@@ -293,6 +303,8 @@ Atonement is made *for* the Levites with bulls (12) and by Aaron (21). Then the 
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

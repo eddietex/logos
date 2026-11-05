@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Public allegiance to a foreign god provokes wrath within the camp; Phinehas’s intervention
+preserves the congregation (1–13). Sacred boundaries here concern fidelity, not merely ritual
+washing.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The leaders fail to sanctify Yahweh before Israel (12), yet the narrator concludes
@@ -659,6 +668,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

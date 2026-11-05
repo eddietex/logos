@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Phinehas turns wrath from the congregation through intervention credited as atonement (7–13). No
+intercessory speech is recorded, distinguishing this scene from Moses’ spoken pleas.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 Moses prays for the people who have spoken against him, then makes the object Yahweh commands (7–9). His work mediates rescue without making him its independent source.
@@ -439,6 +447,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

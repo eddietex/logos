@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Eleazar is named as Phinehas’s father (7, 11). The action and ensuing covenant belong to his son;
+Eleazar’s own action is not narrated.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The death of Aaron — Numbers 20:22–29
 
 Eleazar receives Aaron’s garments from Moses and descends with him after Aaron’s death
@@ -235,6 +243,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

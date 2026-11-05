@@ -7,11 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
+
 - **Genesis 15:6** — *"He believed in Yahweh, who credited it to him for righteousness."* See
   [[The Covenant Between the Pieces]].
-- **Psalm 106:30–31** — of Phinehas: *"Then Phinehas stood up and executed judgment, so the plague
-  was stopped. That was credited to him for righteousness, for all generations forever more."* The
-  same formula, for a deed.
+- **Psalm 106:30–31** — Phinehas’s intervention is credited to him for righteousness
+  across generations (paraphrase of verified bible-api.com WEB).
 - **Nehemiah 9:7–8** — *"you found his heart faithful before you, and made a covenant with him"*: the
   post-exilic prayer's own reading of Genesis 15, which grounds the covenant in Abraham's
   faithfulness.
@@ -39,10 +40,11 @@ later reader supplies the missing terms, and they supply different ones.
 
 ### The Old Testament is already arguing with itself
 
-The identical formula — *wattēḥāšeb lô li-ṣədāqâ* — occurs once more in the Hebrew Bible, at Psalm
-106:31, and what is credited there is a spear. Phinehas sees an Israelite man bring a Midianite woman
+The WEB uses similar crediting-for-righteousness language in Psalm 106:31.
+The previously claimed exact Hebrew identity and uniqueness have not been verified against
+an identified source-language edition here and remain unconfirmed. In the Psalm, and what is credited there is a spear. Phinehas sees an Israelite man bring a Midianite woman
 into the camp, runs both of them through, and stops a plague (Numbers 25:6–13); the psalm reckons
-that to him as righteousness *"for all generations forever more"*, and Numbers itself gives him a
+that to him as righteousness for all generations to come (WEB, Psalm 106:31), and Numbers itself gives him a
 covenant of perpetual priesthood for it.
 
 So the Hebrew Bible contains both readings. One man is credited for believing a promise about stars;
@@ -128,3 +130,13 @@ standing the verse confers, it survives conduct that would not have earned it.
 - **And the chronology matters more than the definition.** Paul's decisive move is not a theory of
   faith; it is the observation that Genesis 15 comes before Genesis 17, and that Genesis 12 comes
   before Exodus 20. See [[Covenant]] and [[Faith]].
+
+
+### Peor now ingested
+
+Numbers 25:11–13 now supplies the ingested narrative behind Psalm 106:30–31: the act
+is credited as atonement and answered with a priestly covenant. Psalm 106’s righteousness
+language is a further interpretation, not a quotation of Numbers. The Psalm passage was
+verified against bible-api.com WEB on 2026-11-05.
+
+See [[Baal Peor and the Zeal of Phinehas]].

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Sacrificial eating and bowing accompany Israel’s attachment to Baal Peor (1–3). Divine jealousy
+concerns violated allegiance; the narrative joins religious and sexual infidelity without
+detailing a cultic sexual rite.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 Numbers 21:8–9 commands making and looking at a serpent, without commanding worship of it. In 2 Kings 18:4, incense offered to the same object leads to its destruction. The authorized sign and its later cultic use must be distinguished.
@@ -260,6 +269,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

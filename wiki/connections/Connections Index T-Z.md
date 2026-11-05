@@ -77,6 +77,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Memorials Against Rebellion - The Censers and the Budding Rod]] | parallel | [[Aaron's Rod Buds]] · Numbers 16:1–50 |
 | [[The Two Night Searches - Song of Solomon 3.1-5 and 5.2-8]] | literary-parallel | [[Seeking Him by Night]] (Song of Solomon 3:1–5) · [[I Opened, but He Had Gone]] (Song of Solomon 5:2–8) · [[Delight and the Unawakened Love]] (Song of Solomon 2:5) · Proverbs 1:28 · Song of Solomon 6:3 · [[Altogether Lovely]] |
 | [[Two Presents to a Feared Brother - Jacob's Minchah to Esau and to Egypt]] | literary parallel | Genesis 4:3–5 · Genesis 32:13–21 · Genesis 33:8–11 · Genesis 43:11–15, 25–26 · Genesis 45:23 |
+| [[Two Priests Stop the Plague - Aaron and Phinehas]] | parallel | [[Baal Peor and the Zeal of Phinehas]] — Numbers 25; [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50. |
 | [[Two Sets of Twins - Jacob and Esau, Perez and Zerah]] | parallel | Genesis 25:21–26 · Genesis 38:27–30 · Genesis 48:13–20 · Malachi 1:2–3 · Romans 9:10–13 |
 | [[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]] | law-and-narrative | Genesis 29:23–30 · Genesis 30:1–24 · Leviticus 18:18 · Genesis 20:12 · Exodus 6:20 · Leviticus 18:14 · Leviticus 20:20 · [[Forbidden Unions and the Defiled Land]] |
 | [[Two Sons Nearly Lost - The Sending of Ishmael and the Binding of Isaac]] | parallel | Genesis 21:8–21 · Genesis 22:1–19 |

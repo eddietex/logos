@@ -89,6 +89,7 @@ scene.
 - [[Praise and Song]] and [[Festivals and First Fruits]] — singing, dancing, and a proclaimed feast accompany forbidden worship.
 
 ## Cross-references
+- [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] — [[Baal Peor and the Zeal of Phinehas]] develops the comparison at Peor.
 
 - [[God Does Not Repent - Balaam and the Golden Calf]] — Numbers 23:19–20 and Exodus 32:14.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The promise to Phinehas and his offspring confirms a future within Aaron’s line (7, 11–13). It
+neither creates Aaron’s office for the first time nor states that Eleazar immediately ceases
+serving.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The death of Aaron — Numbers 20:22–29
 
 Aaron dies, but his garments pass to Eleazar by divine command (25–28). This enacts
@@ -570,6 +579,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

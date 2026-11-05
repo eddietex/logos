@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The covenant of peace follows a lethal act credited with turning away consuming wrath (11–13). The
+tension between the means and the name must remain visible; peace here cannot simply be equated
+with an absence of violence.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 A fight in the camp occasions the curse (10–11). The text does not say who began the
@@ -373,6 +382,8 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

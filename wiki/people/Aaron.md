@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Aaron is named as Phinehas’s grandfather and priestly ancestor (7, 11), not as a living
+participant. The covenant to Phinehas extends the family’s future after Aaron’s death in chapter
+20.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The death of Aaron — Numbers 20:22–29
 
 Aaron’s exclusion from the land is made final in his death on Mount Hor. Moses transfers
@@ -700,6 +709,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

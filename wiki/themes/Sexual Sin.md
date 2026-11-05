@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Sexual misconduct with Moabite women is joined to participation in their sacrifices (1–3). Zimri
+brings a Midianite woman before the assembly (6–8), but the narrator does not describe an act of
+intercourse in the pavilion or label her a temple prostitute.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Priestly holiness — Leviticus 21
 
 The priest’s daughter who prostitutes herself is said to profane her father and is sentenced to
@@ -285,6 +294,8 @@ infidelity. The Prophets will use the word in this figurative way. See
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Holiness of the Priests]] — Leviticus 21:1–24.
 

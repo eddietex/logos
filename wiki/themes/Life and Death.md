@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The plague stops after the killing of two people, but 24,000 have died (8–9). Rescue of the
+remaining congregation does not undo those deaths.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 Many die from the bites, while bitten people who look at the brass serpent live (6–9). Rescue here is survival, not a narrated resurrection of the dead.
@@ -746,6 +754,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

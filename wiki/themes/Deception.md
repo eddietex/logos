@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The closing oracle accuses Midian of wiles in the Peor affair and the Cozbi incident (18). It
+supplies no detailed plot and does not name Balaam in this chapter.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 Producing a false belief in someone else — and in Genesis, usually without saying anything false.
 
 The theme's distinctive shape in this book is not the flat lie. It is the true statement aimed to
@@ -335,6 +343,8 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:1–18.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+Israel’s own sexual and cultic infidelity brings judgment (1–3), despite the blessing that an
+outsider could not overturn in chapters 23–24. Blessing does not make subsequent wrongdoing
+impossible.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 Balaam confesses sin after his eyes are opened, mentions his ignorance of the angel, and offers to return (34). His acknowledgment follows the rebuke of his way and his beatings; the text does not specify a complete account of his motives.
@@ -637,6 +646,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

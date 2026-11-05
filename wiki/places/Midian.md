@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Cozbi is the daughter of a Midianite leader. Yahweh commands hostility against the Midianites
+because of their deception in the Peor affair (15–18). This differs from the hospitality of
+Jethro’s household; the text does not identify that household with these actors.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Balak’s embassies — Numbers 22:1–21
 
 Midian’s elders join Moab’s elders in carrying the rewards of divination to Balaam (4–7). This
@@ -65,6 +74,8 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 

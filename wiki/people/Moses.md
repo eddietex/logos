@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Moses receives the command concerning the chiefs, directs the judges to kill men joined to Baal
+Peor, and receives the oracle for Phinehas and the command against Midian (4–5, 10–18). The text
+does not state that every commanded execution was carried out.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 Moses sends scouts to Jazer (32) and receives Yahweh’s assurance before the battle with Og (34). His
@@ -1293,6 +1302,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

@@ -69,6 +69,7 @@ Copied verbatim from stored WEB, `raw/bible/Numbers.md`.
 
 
 ## Cross-references
+- [[Two Priests Stop the Plague - Aaron and Phinehas]] — [[Baal Peor and the Zeal of Phinehas]] develops the comparison at Peor.
 - [[Two Memorials Against Rebellion - The Censers and the Budding Rod]]
 - [[Incense and Consuming Fire - Leviticus 10 and Numbers 16]]
 - [[One Man and the Congregation - Intercession in Numbers 14 and 16]]

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Baal Peor — Numbers 25:1–18
+
+Phinehas kills Zimri and Cozbi with a spear, stopping the plague (7–9). Yahweh calls this sharing
+his jealousy and making atonement for Israel, and grants a covenant of peace and everlasting
+priesthood to him and his offspring (10–13). This is explicit divine approval within this
+narrative, not a general command for private violence.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 **[[Aaron]]'s grandson, and the last name in the genealogy of Moses and Aaron.**
 
 > **25** Eleazar Aaron's son took one of the daughters of Putiel as his wife; and she bore him
@@ -20,7 +30,7 @@ certain.
 
 **The reason he is named becomes clear in Numbers.** At Peor he kills an Israelite man and a
 Midianite woman, and is given *"a covenant of peace"* and an everlasting priesthood for his
-descendants (Numbers 25:6–13, paraphrased; not yet ingested). **The genealogy that answers *who is
+descendants (Numbers 25:6–13, now ingested). **The genealogy that answers *who is
 this Moses?* ends on the heir in whom Aaron's priesthood is confirmed.** See
 [[The Heads of the Fathers' Houses]] and
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]], which reads his zeal beside
@@ -32,9 +42,11 @@ The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1
 
 - Born to [[Eleazar (son of Aaron)]] and a daughter of Putiel — Exodus 6:25,
   [[The Heads of the Fathers' Houses]]
-- *(ahead)* The spear at Peor and the covenant of peace — Numbers 25:6–13
+- The spear at Peor and the covenant of peace — Numbers 25:6–13; [[Baal Peor and the Zeal of Phinehas]]
 
 ## Appears in
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Heads of the Fathers' Houses]] — Exodus 6:25; **the last name in the list**
 

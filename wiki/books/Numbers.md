@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Baal Peor and the Zeal of Phinehas]] (25:1–18) follows the blessings with apostasy and plague.
+Phinehas’s intervention stops the plague and receives a covenant of peace and enduring
+priesthood; the final command turns toward conflict with Midian.
+
+
 [[Balaam's Last Oracles]] (Numbers 23:27–24:25) completes the attempted curse with a third blessing,
 then future oracles of royal victory and the downfall of nations. The Spirit’s gift and the
 seer’s constrained speech do not erase his earlier rebuke; historical identifications remain open.
@@ -196,7 +201,7 @@ merge, or reorder them freely.
 - [x] [[Balaam's Donkey]] — Numbers 22:22–35
 - [x] [[Balaam's First Two Oracles]] — Numbers 22:36–23:26
 - [x] [[Balaam's Last Oracles]] — Numbers 23:27–24:25
-- [ ] Baal Peor and the Zeal of Phinehas — Numbers 25:1–18
+- [x] [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18
 - [ ] The Second Census — Numbers 26:1–65
 - [ ] The Daughters of Zelophehad — Numbers 27:1–11
 - [ ] Joshua Commissioned — Numbers 27:12–23
@@ -287,6 +292,9 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — vision and dream, and Moses set above both
 
 ## Key people
+
+- [[Phinehas (son of Eleazar)]], [[Zimri (son of Salu)]], [[Cozbi]], [[Salu]], [[Zur]], and [[Baal Peor]] — Numbers 25.
+
 
 - [[Kenites]] — [[Balaam's Last Oracles]].
 

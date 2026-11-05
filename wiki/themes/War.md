@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The closing command to harass and strike Midian grounds subsequent hostility in the Peor deception
+(16–18). No military campaign is narrated in this unit.
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 Organized violence between peoples — which the Bible introduces late, reports without praising, and
 then never stops narrating.
 
@@ -280,6 +288,8 @@ See [[The Twelve Spies]].
 The first battle Israel loses is one it chose for itself, with the ark and Moses left behind. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

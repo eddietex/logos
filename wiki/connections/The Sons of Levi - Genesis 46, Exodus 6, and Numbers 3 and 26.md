@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
+
 - **Genesis 46:11** — *"The sons of Levi: Gershon, Kohath, and Merari."* —
   [[Jacob's Family Settles in Egypt]]
 - **Exodus 6:16–25** — Levi's sons *"according to their generations"*, their sons, and Kohath's line
@@ -74,3 +76,12 @@ The tribe Jacob cursed with dispersal (Genesis 49:7) is the one whose genealogy 
 greatest detail. **Exodus 6 is the hinge**: the first place the list is followed downward on purpose,
 and the first place it is made to end in a priest. See [[Levi]], [[Priesthood]], and
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
+
+
+### Peor now ingested
+
+The genealogy ending with Phinehas in Exodus 6:25 now reaches the covenant promise
+to him and his offspring in Numbers 25:12–13. The family relationship anchors the promise
+within Aaron’s line; no new Levite census or family list is supplied here.
+
+See [[Baal Peor and the Zeal of Phinehas]].

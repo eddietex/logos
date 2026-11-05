@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Peor — Numbers 25:1–18
+
+The opening sacrifices are to foreign gods, and Israel eats and bows (2). The later atonement
+credited to Phinehas is not described as an altar sacrifice (13).
+
+See [[Baal Peor and the Zeal of Phinehas]]. Source: stored WEB Numbers 25:1–18.
+
+
 ### The red heifer — Numbers 19:1–22
 
 The unblemished, never-yoked red heifer is burned outside the camp; its ashes are kept
@@ -667,6 +675,8 @@ Every burnt offering and sacrifice in the land must come with flour, oil, and wi
 tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
