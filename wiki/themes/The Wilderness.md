@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+The journey around Edom produces discouragement and a renewed accusation that the exodus leads only to death (4–5). The remedy is given on the road, without a new campsite being named.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Zin and Kadesh frame a fresh lack of water (1–5). The people contrast wilderness
@@ -134,6 +140,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

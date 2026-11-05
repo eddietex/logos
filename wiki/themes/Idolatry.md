@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Numbers 21:8–9 commands making and looking at a serpent, without commanding worship of it. In 2 Kings 18:4, incense offered to the same object leads to its destruction. The authorized sign and its later cultic use must be distinguished.
+
+See [[The Brass Serpent]] and
+[[From Healing Sign to Nehushtan - Numbers 21 and 2 Kings 18]]. Source: stored WEB Numbers 21:4–9; 2 Kings 18:4 verified in bible-api.com WEB, 2026-11-04.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 The ban of 26:1 comes back as what falls: high places, incense altars, and *the bodies
@@ -244,6 +251,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

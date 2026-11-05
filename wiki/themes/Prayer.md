@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+The people ask Moses to pray for the serpents to be taken away. His prayer is reported without its words; the answer provides life for the bitten, without stating that the snakes disappear (7–9).
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 Moses asks Yahweh not to respect the rebels’ offering (15), yet with Aaron pleads for the
@@ -265,6 +271,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

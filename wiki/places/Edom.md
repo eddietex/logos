@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The brass serpent — Numbers 21:4–9
+
+Israel travels around Edom (4), continuing the narrative of refused passage in Numbers 20:14–21. The detour occasions discouragement; this unit reports no new confrontation with Edom.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The death of Aaron — Numbers 20:22–29
 
 Mount Hor is described as by Edom’s border (23). This locates Aaron’s death after
@@ -81,6 +87,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 

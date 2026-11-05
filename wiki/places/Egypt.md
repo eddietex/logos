@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The brass serpent — Numbers 21:4–9
+
+Egypt is the place the people accuse God and Moses of bringing them out of to die (5). It is remembered in the complaint, not the location of the snake episode.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel’s diplomatic message recalls ancestral migration, long residence, mistreatment,
@@ -236,6 +242,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The brass serpent — Numbers 21:4–9
+
+The way to the Red Sea supplies the direction of travel from Mount Hor around Edom (4). The verse narrates no second sea crossing or exact route.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 **The sea Israel crosses out of Egypt — in Hebrew *yam sûp*, which most readers take as *the Sea of
 Reeds*.** *Sûp* is the word for the *"reeds"* by the Nile's bank where Moses' basket was laid (Exodus
 2:3, 5), so the name of the sea and the place of the infant's rescue share a noun. The WEB, following
@@ -45,6 +51,8 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Locusts and Darkness]] — Exodus 10:19; **first named**, as the place where the west wind drives
   the locusts

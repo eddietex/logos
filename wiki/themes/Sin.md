@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+The people identify their own speech against Yahweh and Moses as sin (7). Confession precedes intercession and rescue; no sacrificial rite is prescribed in this unit.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The plea distinguishes one man’s sin from the whole congregation, but Moses warns others away from
@@ -615,6 +621,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Looking at the appointed serpent brings life (8–9). Reading this response as trust is an interpretation of the action; the stored WEB describes looking, while John 3:14–17 explicitly develops belief.
+
+See [[The Brass Serpent]] and
+[[Lifted Up - The Brass Serpent and the Son of Man]]. Source: stored WEB Numbers 21:4–9; John 3:14–17 verified in bible-api.com WEB, 2026-11-04.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Yahweh’s verdict names the leaders’ failure to believe in him (12), despite their
@@ -234,6 +241,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

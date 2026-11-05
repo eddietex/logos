@@ -84,3 +84,11 @@ for being a condition: show us, or we will stone the man you sent. **Deuteronomy
 it a warning sung in worship, Hebrews makes it a sermon, and Jesus makes it his answer when the tempter asks
 him to put God's promise to the proof.** The connection is the reason a seven-verse story with no punishment in
 it became one of the most-cited episodes of the wilderness.
+
+### The serpent episode now ingested
+
+[[The Brass Serpent]] supplies the Numbers 21:4–9 narrative behind the serpent warning
+in 1 Corinthians 10:9. Unlike Taberah, it reports a means of survival without explicitly
+reporting removal of the danger. See
+[[Serpents and the Warning Against Testing - Numbers 21 and 1 Corinthians 10]].
+Source: stored WEB Numbers 21:4–9; 1 Corinthians 10:9 verified in bible-api.com WEB, 2026-11-04.

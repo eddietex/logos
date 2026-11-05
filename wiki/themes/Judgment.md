@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Yahweh sends the snakes, and many Israelites die (6). The remedy preserves bitten people who look; no restoration of those already dead is narrated.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The death of Aaron — Numbers 20:22–29
 
 The Meribah sentence is expressly recalled and Aaron dies without entering the land
@@ -689,6 +695,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

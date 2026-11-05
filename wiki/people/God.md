@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The brass serpent — Numbers 21:4–9
+
+Yahweh sends the snakes after the complaint, then directs Moses to make the sign through which the bitten may live (6–9). Judgment and rescue are both attributed to him.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### Arad and Hormah — Numbers 21:1–3
 
 Yahweh hears Israel’s collective vow and delivers the Canaanites (3). No divine speech
@@ -3209,6 +3215,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
 

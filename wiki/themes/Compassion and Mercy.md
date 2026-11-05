@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+The God who sends the deadly snakes also provides a way for the bitten to live (6–9). Mercy is a thematic description of this rescue; it does not cancel the deaths already narrated.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 **The Hebrew word is ***raḥămîm***, and it is a plural noun built on ***reḥem***, *womb*.** Whatever
 else it means, it begins as a body word: **the feeling a mother has for what came out of her**,
 extended to anyone who feels that way about anyone. It is not pity from above and it is not
@@ -284,6 +290,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

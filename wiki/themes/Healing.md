@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+The bitten person who looks lives (9). Bodily rescue follows intercession and a commanded sign, rather than a described medical procedure; the narrator does not explain the physical mechanism.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 **God restoring a body, a household, or a place to soundness — and naming himself by it.** The Hebrew
 verb is ***rāpāʾ***, *heal* (WLC). **Its first occurrence in Scripture is *"God healed Abimelech, and his
 wife, and his female servants, and they bore children"*** (Genesis 20:17), after Abraham prayed. **Its
@@ -152,6 +158,8 @@ Moses prays five Hebrew words, with *rāpāʾ*. Yahweh answers with seven days o
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[A Time for Every Purpose]] — Ecclesiastes 3:1–15; Healing paired with killing.
 

@@ -11,6 +11,9 @@ status: in-progress
 
 ## Overview
 
+[[The Brass Serpent]] (21:4–9) joins deadly judgment to rescue on the detour around Edom.
+Moses intercedes for his accusers; the bitten person who looks at the commanded sign lives.
+
 [[Arad and Hormah]] (21:1–3) turns an attack and captivity into a vow and victory.
 Yahweh hears Israel; the Canaanites and their cities are destroyed, and the place
 is named Hormah, recalling the earlier defeat while leaving the naming tension open.
@@ -162,7 +165,7 @@ merge, or reorder them freely.
 - [x] [[Edom Refuses Passage]] — Numbers 20:14–21
 - [x] [[The Death of Aaron]] — Numbers 20:22–29
 - [x] [[Arad and Hormah]] — Numbers 21:1–3
-- [ ] The Brass Serpent — Numbers 21:4–9
+- [x] [[The Brass Serpent]] — Numbers 21:4–9
 - [ ] The Journey to Moab — Numbers 21:10–20
 - [ ] Sihon and Og — Numbers 21:21–35
 - [ ] Balak Sends for Balaam — Numbers 22:1–21

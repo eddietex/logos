@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Here the endangered person must look at the object God appoints (8–9). Sight is associated with life, not because every image heals but because this act answers a particular promise.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 Sight is the Bible's most morally loaded sense. *Rāʾâ*, to see, is the verb of God's approval in
 Genesis 1 (*"God saw that it was good"*, seven times), of the first temptation (*"the woman saw that
 the tree was good for food"*, 3:6), of the two ways of looking at a country (13:10 against 13:14), and
@@ -328,6 +334,8 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Tassels]] — Numbers 15:37–41; the visible reminder and deliverance into belonging.
 

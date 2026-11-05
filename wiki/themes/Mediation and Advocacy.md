@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Moses prays for the people who have spoken against him, then makes the object Yahweh commands (7–9). His work mediates rescue without making him its independent source.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Moses and Aaron withdraw from the assembly to fall before Yahweh (6); no spoken
@@ -433,6 +439,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

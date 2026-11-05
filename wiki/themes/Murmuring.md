@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Discouragement on the detour becomes speech against God and Moses. The people reject the provision they have, then confess that their speech was sin (5–7).
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 The lack of water is real (2), but the people turn it into an accusation against the
@@ -142,6 +148,8 @@ applies, since Moses does not redirect anyone. Verse 36 adds a new form, a leade
 murmur, *wayyallînû*, the *qərê* (WLC). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 

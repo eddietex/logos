@@ -21424,3 +21424,32 @@ WEB endpoint (2026-11-04) after the web reader could not open it; used paraphras
 new material. No new source-language assertions or unverified quotations were added.
 Raw texts and workflow instructions are unchanged. Link checks passed: no wrapped or
 dangling links, with 58 not-yet-started book pages as the expected baseline.
+
+## [2026-11-04] ingest | Numbers 21.4-9 — The Brass Serpent
+
+Ingested one planned pericope in unattended mode, with its boundary unchanged.
+Created the passage and three connections: the lifted serpent and Son of Man,
+the sign's later destruction as Nehushtan, and Paul's warning about testing.
+Revised the existing Massah/testing connection to point to the now-ingested episode.
+
+Updated God and Moses, four places (Mount Hor, Edom, Egypt, the Red Sea), and twelve
+themes with passage links and specific synthesis. Updated their category rows, three
+connection subindexes, Numbers and its checklist, the book status, and dashboard counts.
+Four pages created and twenty-nine revised, including indexes and this log.
+Numbers is now 34 / 54; totals are 305 passages, 217 people, 116 places, 87 themes,
+and 685 connections (counted by frontmatter type).
+
+Source: the complete six verses are quoted directly from stored WEB Numbers, including
+the missing punctuation after Edom in 21:4; raw files were not altered. John 3:14–17,
+2 Kings 18:4, and 1 Corinthians 10:9 were verified against bible-api.com's WEB responses.
+No additional raw books were fetched. No source-language claim was added; Paul's
+wording is identified as the WEB reading without deciding textual variants.
+
+The passage preserves the difference between asking for the snakes' removal and the
+narrated remedy for bites, and the tension between an authorized sign and its later
+cultic use. Looking as trust is labeled interpretation; Numbers' survival and John's
+eternal life remain distinct. Israel is treated as the collective, not Jacob; the object
+is covered by passage and connections without introducing a new page type.
+No new named people or places require pages. Link checks passed with the expected
+58 unstarted-book baseline; counts and passage-title uniqueness were checked.
+No unresolved blocker or deliberately dangling link.

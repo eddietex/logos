@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brass serpent — Numbers 21:4–9
+
+Many die from the bites, while bitten people who look at the brass serpent live (6–9). Rescue here is survival, not a narrated resurrection of the dead.
+
+See [[The Brass Serpent]]. Source: stored WEB Numbers 21:4–9.
+
 ### The death of Aaron — Numbers 20:22–29
 
 Aaron is gathered to his people and dies on the summit (24–28). The transfer of garments
@@ -732,6 +738,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Brass Serpent]] — Numbers 21:4–9.
 
 - [[The Death of Aaron]] — Numbers 20:22–29.
 
