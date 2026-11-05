@@ -99,6 +99,7 @@ offering is wholly burned and may not be eaten.
   fire supports the daily altar service commanded in Exodus 29:38–42.
 - [[The Ordination of the Priests]] — Exodus 29:29–37 connects succession, holy food,
   and the holiness of what touches the altar; these are related but distinct instructions.
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:3–8; the daily lambs that keep the fire's morning and evening offerings.
 
 ## Notes
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The continual offering recalled — Numbers 28:6
+
+On the plains of Moab, the daily burnt offering is called *a continual burnt offering, which was
+ordained in Mount Sinai* (6). The verse points back to Exodus 29:38–42; Sinai remains the source of the
+calendar now given to the new generation.
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ### The second census — Numbers 26:1–65
 
 The wilderness of Sinai is recalled as the location of the earlier count (64), in contrast to the
@@ -775,6 +783,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; the rule of the cloud, given before the camp leaves.
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; the last instruction given before the camp leaves.
 - [[The March from Sinai]] — Numbers 10:11–13, 33; Israel leaves, and it is called *the Mount of Yahweh*.
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:6; the continual burnt offering *ordained in Mount Sinai*.
 
 ## Related places
 

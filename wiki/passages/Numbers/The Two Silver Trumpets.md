@@ -92,6 +92,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - 2 Chronicles 29:27–28 — trumpets through the burnt offering *(WEB checked, not yet ingested)*
 - Joel 2:1, 15 — alarm and assembly on the ram's horn *(WEB checked, not yet ingested)*
 - 1 Corinthians 14:8 — *if the trumpet gave an uncertain sound* *(WEB checked, not yet ingested)*
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:11–15; the offerings over which the new-moon trumpets of verse 10 are blown.
 
 ## Notes
 

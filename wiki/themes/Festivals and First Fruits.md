@@ -150,6 +150,15 @@ offering.
 
 See [[The Twelve Spies]].
 
+### The new moon — Numbers 28:11–15
+
+The beginnings of months, marked by trumpets in Numbers 10:10, receive their own offerings: two young
+bulls, one ram, seven lambs, and a male goat for a sin offering. The same animal set recurs for
+Unleavened Bread and Weeks in the next unit (28:19–22, 27–30). See
+[[Sabbath and New Moon - Numbers 28, Ezekiel 46, Isaiah 66, and Colossians 2]].
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ## Key passages
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
@@ -185,6 +194,7 @@ See [[The Twelve Spies]].
 - [[The Two Silver Trumpets]] — Numbers 10:10; feasts and new moons marked by trumpets.
 - [[The Twelve Spies]] — Numbers 13:20, 26; the first-ripe grapes, brought as evidence
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 17–21; set feasts, and the first of the dough
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the recurring calendar under the annual feasts: daily, Sabbath, and new moon
 
 ## Related themes
 

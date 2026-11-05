@@ -12,8 +12,7 @@ tags: [connection]
 - **Leviticus 23:13** — the lamb of the first sheaf: *"two tenths of an ephah of fine flour mingled
   with oil"*, and *"the fourth part of a hin"* of wine — [[First Fruits and the Feast of Weeks]]
 - **Numbers 15:4–10** — lamb, ram, and bull — [[Offerings in the Land and Sins of Ignorance]]
-- **Numbers 28:5–7, 12–14** — the daily and monthly offerings, by the same scale *(stored WEB, not yet
-  ingested)*
+- **Numbers 28:5–7, 12–14** — the daily and monthly offerings, by the same scale — [[Daily, Sabbath, and New Moon Offerings]]
 - **Ezekiel 46:5–7, 11, 14** — *"an ephah for the bull, and an ephah for the ram"*, *"a hin of oil to an
   ephah"*, and *"the sixth part of an ephah, and the third part of a hin of oil"* for the daily lamb
 - **Philippians 2:17; 2 Timothy 4:6** — *"poured out"* and *"already being offered"*, the verb
@@ -30,6 +29,7 @@ tags: [connection]
 | Numbers 15:4–5 | lamb | 1/10 | 1/4 | 1/4 |
 | Numbers 15:6–7 | ram | 2/10 | 1/3 | 1/3 |
 | Numbers 15:9–10 | bull | 3/10 | 1/2 | 1/2 |
+| Numbers 28:5–7 | daily lamb | 1/10 | 1/4, beaten | 1/4, *strong drink* |
 | Numbers 28:12–14 | bull, ram, lamb | 3/10, 2/10, 1/10 | unstated | 1/2, 1/3, 1/4 |
 | Ezekiel 46:5–7, 11 | bull, ram | 1 each | 1 per ephah | unstated |
 | Ezekiel 46:14 | daily lamb | 1/6 | 1/3 | unstated |
@@ -39,7 +39,8 @@ agree. Leviticus 23:13 doubles the flour for one lamb on one day and keeps the w
 not fit the scale at all. For the ram it gives a whole ephah, not two tenths, and for the lambs *as he
 is able*. The wiki flags these differences and does not resolve them.
 
-Numbers 15:5 has *yayin* and Exodus 29:40 has *yayin*, while WEB at Numbers 28:7 reads *strong drink*.
+Numbers 15:5 has *yayin* and Exodus 29:40 has *yayin*, while WEB at Numbers 28:7 reads *strong drink*,
+for Hebrew *šēkār*; Numbers 28:14 returns to *yayin* (MAM via Sefaria, checked 2026-11-05).
 *Σπονδή* renders *nesek* at Numbers 15:5, 24 in Rahlfs, and *σπένδομαι* is the verb of the same family
 in Paul. He does not cite this chapter, and the link is by the Greek word alone.
 

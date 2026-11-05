@@ -127,6 +127,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - [[First Fruits and the Feast of Weeks]] — Leviticus 23:10–14; the other firstfruit rule for the land
 - [[The Meal Offering]] — Leviticus 2:1–16
 - Numbers 15:32–36 — the next unit *(stored WEB, not yet ingested)*
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:5–7, 12–14; the scale of 15:4–10 applied to the daily and monthly offerings.
 
 ## Notes
 

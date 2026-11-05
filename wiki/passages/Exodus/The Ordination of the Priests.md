@@ -272,6 +272,8 @@ narrates the performance.
 
 [[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]] distinguishes the consecration ram’s burned thigh and Moses’ breast from the continuing peace-offering portions in [[Fat, Blood, and the Priests’ Share]].
 
+[[Daily, Sabbath, and New Moon Offerings]] (Numbers 28:3–8) restates the daily lambs of 29:38–42 and calls them *ordained in Mount Sinai*.
+
 ## Notes
 
 ### What Moses does

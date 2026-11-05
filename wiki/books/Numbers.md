@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Daily, Sabbath, and New Moon Offerings]] (28:1–15) opens the offering calendar for the counted generation: two
+lambs every day, *ordained in Mount Sinai*, two more each Sabbath, and bulls, a ram, lambs, and a
+sin-offering goat each new month — each layer *besides the continual burnt offering*. Yahweh calls the
+offerings *my food*.
+
 [[Joshua Commissioned]] (27:12–23) restates the Meribah sentence on Moses and answers his request
 for a shepherd over the congregation. Joshua, *a man in whom is the Spirit*, is commissioned before
 Eleazar, who will inquire for him by the Urim; leadership passes without Moses' direct access.
@@ -220,7 +225,7 @@ merge, or reorder them freely.
 - [x] [[The Second Census]] — Numbers 26:1–65
 - [x] [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11
 - [x] [[Joshua Commissioned]] — Numbers 27:12–23
-- [ ] Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
+- [x] [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15
 - [ ] The Offerings of the Appointed Feasts — Numbers 28:16–29:40
 - [ ] Vows of Men and Women — Numbers 30:1–16
 - [ ] The War Against Midian — Numbers 31:1–54
@@ -277,12 +282,12 @@ merge, or reorder them freely.
 
 - [[Life and Death]] — the red heifer and purification (19:1–22).
 
-- [[Sacrifice and Offering]] — the red heifer and purification (19:1–22).
+- [[Sacrifice and Offering]] — the red heifer and purification (19:1–22); the calendar of offerings, [[Daily, Sabbath, and New Moon Offerings]] (28:1–15).
 
 - [[Tithing]] — Levi’s support for Tent service, with a tenth returned to Aaron (18:21–32)
 - [[Covenant]] — the lasting priestly grant described as a covenant of salt (18:19)
 
-- [[Sabbath]] — gathering sticks judged by a specific divine sentence (15:32–36)
+- [[Sabbath]] — gathering sticks judged by a specific divine sentence (15:32–36); two lambs every Sabbath, [[Daily, Sabbath, and New Moon Offerings]] (28:9–10).
 
 - [[The Wilderness]] — the setting of the book and the name it carries in Hebrew
 - [[War]] — Israel is mustered as an army
@@ -300,7 +305,7 @@ merge, or reorder them freely.
 - [[Atonement]] — made for the Levites, and by them for Israel
 - [[Light and Darkness]] — the seven lamps lit
 - [[Work]] — Levite service with an age limit
-- [[Festivals and First Fruits]] — the Passover kept, and a second date set
+- [[Festivals and First Fruits]] — the Passover kept, and a second date set; the new-moon offerings, [[Daily, Sabbath, and New Moon Offerings]] (28:11–15).
 - [[Remembrance]] — *remembered before Yahweh* at the alarm of the trumpets
 - [[Murmuring]] — the complaints that begin as soon as the march does
 - [[Land and Sojourning]] — the land searched, and refused

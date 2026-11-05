@@ -105,6 +105,8 @@ prescribed worship, not a narrated occasion on which a particular person sacrifi
 
 Leviticus 7:22–38 now expands the fat and blood prohibition and assigns the breast and right thigh: [[Fat, Blood, and the Priests’ Share]].
 
+[[The Bread of God - Leviticus 3 and 21, Numbers 28, Psalm 50, and Malachi 1]] traces *the food of the offering made by fire* (3:11, 16) to Numbers 28:2.
+
 ## Notes
 
 ### Shared pattern, differentiated victims

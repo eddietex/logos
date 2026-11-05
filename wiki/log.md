@@ -21745,3 +21745,37 @@ were checked in Miqra according to the Masorah via the Sefaria API; the partitiv
 Frontmatter recount: 315 passages, 236 people, 146 places, 87 themes, 699 connections. Link checks
 clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
 No unresolved issue.
+
+## [2026-11-05] ingest | Numbers 28.1-15 — Daily, Sabbath, and New Moon Offerings
+
+Ingested one pericope in unattended mode with Claude Code; the discussion is written into the
+passage page. Yahweh calls the offerings *my food* and fixes the recurring base of the calendar:
+two lambs daily, *ordained in Mount Sinai*, two more each Sabbath, and two bulls, a ram, seven
+lambs, and a sin-offering goat each new month, every layer *besides the continual burnt offering*.
+Numbers is now 45 / 54; the 28:1–15 boundary and the provisional title are unchanged.
+
+Created 3 pages: the passage and two connections — [[The Bread of God - Leviticus 3 and 21, Numbers 28, Psalm 50, and Malachi 1]]
+and [[Sabbath and New Moon - Numbers 28, Ezekiel 46, Isaiah 66, and Colossians 2]]. Revised 28
+existing pages: the book page and books index; Moses and God; Horeb and Moab (place); five themes
+(Sacrifice and Offering, Sabbath, Festivals and First Fruits, Sin, Law and Obedience); three
+connections (The Continual Burnt Offering, Measures of Flour, Oil, and Wine, A Pleasing Aroma); six
+earlier passages' cross-references; the themes, places, people F-M, and three connection subindexes;
+the dashboard; and this log. Judgment calls: no new person or place page (Sinai is covered by Horeb);
+the Ezekiel 46 numbers are flagged as a discrepancy with Numbers 28, not harmonized; the new-moon sin
+offering's purpose is left unstated, as the text leaves it.
+
+The Continual Burnt Offering connection's Numbers bullet moved from *verified WEB; not yet ingested*
+to the stored text, and its open question about the Hebrew of Numbers is now answered (Numbers 28:3, 6
+share *ʿōlat tāmîd* with Exodus 29:42); Daniel remains unchecked. The Measures table gained the daily
+lamb row from 28:5–7.
+
+External WEB quotations (Psalm 50:12–13; Malachi 1:7; Ezekiel 46:1–7; Isaiah 1:13–14; 66:23; Amos
+8:5; Colossians 2:16–17) were verified through bible-api.com, `translation=web`; nothing was fetched
+into raw/. Hebrew claims — the first-person suffixes of 28:2, *bên hāʿarbāyim* at 28:4 and Exodus
+12:6, 29:39, *šēkār* (7) against *yayin* (14), the *šabbat bəšabbattô* / *ḥōdeš bəḥodšô* idiom (10,
+14), *ləḥaṭṭāʾt laYHWH* (15), and *leḥem* at Leviticus 3:11 and 21:6 — were checked in Miqra
+according to the Masorah via the Sefaria API.
+
+Frontmatter recount: 316 passages, 236 people, 146 places, 87 themes, 701 connections. Link checks
+clean (58 expected not-yet-started book targets). No raw text, schema, or controller file changed.
+No unresolved issue.

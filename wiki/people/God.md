@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
+
+Yahweh speaks of the offerings in the first person: *my offering, my food for my offerings made by
+fire, of a pleasant aroma to me* (2; Hebrew *laḥmî*, *my bread/food*, MAM via Sefaria). He orders their
+times — every day, every Sabbath, every month — and names Sinai as the place the daily offering was
+ordained (6). Psalm 50:12–13 later denies that he is hungry; the two are set side by side in
+[[The Bread of God - Leviticus 3 and 21, Numbers 28, Psalm 50, and Malachi 1]].
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Yahweh repeats the Meribah sentence on Moses (12–14), then answers Moses' request by naming
@@ -3981,6 +3991,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The People Refuse the Land]] — Numbers 14:10–35; pardons and sentences.
 - [[The Defeat at Hormah]] — Numbers 14:42–45; not among them.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; law for the land, forgiveness, and the high hand.
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; calls the offerings *my food* and fixes their times.
 
 ## Related people
 

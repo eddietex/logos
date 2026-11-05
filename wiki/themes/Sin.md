@@ -654,6 +654,14 @@ The people say *we have sinned*, and in the same sentence announce the next act 
 The law sets a sin done *bišgāgâ* against one done *with a high hand*. The first has an offering, and
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
+### A monthly sin offering — Numbers 28:15
+
+One male goat *for a sin offering to Yahweh* is fixed for every new month. The verse names no specific
+sin and does not use the word atonement, unlike the festival goats of 28:22, 30; the wiki does not
+supply the reason the text leaves out.
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -937,6 +945,7 @@ the second is called blasphemy and has none named. See [[Offerings in the Land a
 - [[The People Refuse the Land]] — Numbers 14:9–35; a single refusal under many names
 - [[The Defeat at Hormah]] — Numbers 14:40–43; a confession and a new transgression at once
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:22–31; error set against the high hand
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:15; a male goat for a sin offering at each new month
 
 ## Related themes
 

@@ -220,6 +220,14 @@ foreigner (29). See [[The Day of Atonement Commanded Twice - Leviticus 16 and 23
 
 See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as cited.
 
+### The Sabbath offering — Numbers 28:9–10
+
+The first numbered Sabbath offering in the wiki's sequence: two male lambs a year old, with two tenths
+of an ephah of flour and the drink offering, *besides the continual burnt offering* (10). Rest from
+work is not restated here; the unit adds to the day's worship rather than defining the day. See
+[[Sabbath and New Moon - Numbers 28, Ezekiel 46, Isaiah 66, and Colossians 2]].
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
 
 ## Key passages
 
@@ -289,6 +297,7 @@ See [[The Day of Atonement]]. Source: stored WEB Leviticus 16; comparisons as ci
 - [[The Altar and the Hebrew Slave]] — Exodus 21:2; six years of service and release in the seventh
 
 - [[The Work Completed]] — Exodus 39:32–43; Creation’s rest supplies comparative context; no Sabbath observance is narrated.
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:9–10; two lambs every Sabbath, besides the continual offering
 
 ## Related themes
 

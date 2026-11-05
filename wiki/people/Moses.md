@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
+
+Moses receives the order to command Israel to present Yahweh's offering *in their due season* (2): the
+daily lambs, the Sabbath lambs, and the new-moon offerings. He is the channel of the instruction; no
+act or reply of his is narrated in this unit.
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Yahweh tells Moses to go up into the mountain of Abarim and see the land, then be gathered to
@@ -1603,6 +1611,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
   sentence.
 - [[The Defeat at Hormah]] — Numbers 14:39–44; warns, and stays with the ark.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–31; receives law for the land.
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; receives the calendar of daily, Sabbath, and new-moon offerings.
 
 ## Related people
 

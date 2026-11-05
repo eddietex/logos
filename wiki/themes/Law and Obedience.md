@@ -987,6 +987,14 @@ Obedience here depends on the present word. What was commanded yesterday is forb
 The law separates commands left undone by error from the word of Yahweh despised. See
 [[Offerings in the Land and Sins of Ignorance]].
 
+### In their due season — Numbers 28:2
+
+Israel is told to *see that* it presents Yahweh's offering *in their due season* (2; Hebrew
+*tišmərû … bəmôʿădô*, MAM via Sefaria). The verb is the common verb of keeping, applied here to the
+timing of worship as well as its content.
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ## Key passages
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
@@ -1222,6 +1230,7 @@ The law separates commands left undone by error from the word of Yahweh despised
 - [[The March from Sinai]] — Numbers 10:13–28; the rule and order of march obeyed.
 - [[The Defeat at Hormah]] — Numbers 14:40–44; the command refused, then attempted after it was withdrawn
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:15–16, 22, 31; one law, commands not done, and the word despised
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:2; keeping the offerings at their appointed times
 
 ## Related themes
 

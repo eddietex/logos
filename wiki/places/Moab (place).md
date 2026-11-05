@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Daily, Sabbath, and New Moon Offerings — Numbers 28:1–15
+
+Moab is not named in this unit; the plains of Moab remain the setting of Numbers 22–36, where the
+offering calendar is given to the counted generation.
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Moab is not named in this unit; the setting of Numbers 22–36 is the plains of Moab, and
@@ -163,6 +170,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, by anticipation: Chedorlaomer strikes the
   **Emim in Shaveh Kiriathaim**, the people Deuteronomy 2:10–11 says held this land before Moab did
 - [[The Song of the Sea]] — Exodus 15:15; **its mighty men trembling.** *"Trembling takes hold of the mighty men of Moab"*
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; contextual setting.
 
 ## Related places
 

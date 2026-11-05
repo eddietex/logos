@@ -10,7 +10,7 @@ tags: [connection]
 - **Exodus 29:38–42** — two lambs a year old *"day by day continually"*, morning and evening,
   *"a continual burnt offering throughout your generations"* — [[The Ordination of the Priests]].
 - **Numbers 28:1–8** — the same offering at the head of the festival calendar, *"ordained in Mount
-  Sinai"* *(verified WEB; not yet ingested)*.
+  Sinai"* — [[Daily, Sabbath, and New Moon Offerings]] (stored WEB).
 - **Daniel 8:11–13** — in a vision, a power takes away *"the continual burnt offering"*, and a holy
   one asks how long the vision will last *(verified WEB; not yet ingested)*.
 
@@ -51,13 +51,16 @@ page.
 **The daily lamb measures whether the arrangement of Exodus 29:42–46 is in force.** In Exodus the
 offering marks the place where God meets and dwells. Numbers keeps it as the base of the calendar.
 Daniel treats its interruption as the sanctuary's ruin. The thread is the same English phrase in the
-WEB in all three passages; whether the Hebrew of Numbers and the Hebrew and Aramaic setting of
-Daniel use *tāmîd* in the same construction was not checked for this page. See
+WEB in all three passages; Numbers 28 shares the Hebrew construction of Exodus 29:42 (see Sources),
+while whether Daniel uses *tāmîd* in the same construction was not checked for this page. See
 [[Sacrifice and Offering]], [[Priesthood]], and [[The Dwelling of God]].
 
 ## Sources
 
 Exodus quotations were checked against `raw/bible/Exodus.md`; the Hebrew of Exodus 29:42 was read
 in *Miqra according to the Masorah* via Sefaria. Numbers 28:1–8 and Daniel 8:11–13 were fetched
-individually from bible-api.com with `translation=web` on 2026-10-23. Neither book is ingested, and
-neither was fetched into raw.
+individually from bible-api.com with `translation=web` on 2026-10-23; Numbers is now stored, and its
+quotations were rechecked against `raw/bible/Numbers.md` on 2026-11-05 when 28:1–15 was ingested.
+Daniel is not ingested and was not fetched into raw. The Hebrew of Numbers 28:3, 6 has *ʿōlâ tāmîd* /
+*ʿōlat tāmîd* (MAM via Sefaria, 2026-11-05), so Exodus 29:42 and Numbers 28 share the construction;
+Daniel's wording remains unchecked.

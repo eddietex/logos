@@ -674,6 +674,15 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 Every burnt offering and sacrifice in the land must come with flour, oil, and wine, on a scale of a
 tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
 
+### The calendar of offerings — Numbers 28:1–15
+
+Yahweh calls the offerings *my food* (2) and fixes the base of the public calendar: two lambs daily,
+two more each Sabbath, and two bulls, one ram, seven lambs, and a male goat for a sin offering at each
+new month, all *besides the continual burnt offering* (10, 15). Meal and drink offerings follow the
+scale of Numbers 15. See [[The Bread of God - Leviticus 3 and 21, Numbers 28, Psalm 50, and Malachi 1]].
+
+See [[Daily, Sabbath, and New Moon Offerings]]. Source: stored WEB Numbers 28:1–15.
+
 ## Key passages
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
@@ -918,6 +927,7 @@ tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[O
 - [[The Passover in the Second Year]] — Numbers 9:7, 13; the Passover named a *qorbān*.
 - [[The Two Silver Trumpets]] — Numbers 10:10; trumpets blown over burnt offerings and peace offerings.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–16, 24–29; meal and drink offerings required with every animal
+- [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the daily, Sabbath, and new-moon offerings, cumulative on the continual burnt offering
 
 ## Related themes
 
