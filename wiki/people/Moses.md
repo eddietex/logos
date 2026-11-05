@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Duties and portions — Numbers 18:1–32
+
+Yahweh addresses Moses at verse 25 to communicate the Levites’ duty to offer a tenth of
+their received tithes to Aaron (26–32). Most of the chapter addresses Aaron directly; Moses
+is the mediator of this final instruction, not its named beneficiary.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### The budding rod — Numbers 17:1–13
 
 Moses gathers and labels the rods, places them before Yahweh, displays the result, and returns
@@ -1229,6 +1237,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

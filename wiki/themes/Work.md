@@ -28,6 +28,14 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+The tithe is explicitly compensation for Levite service at the Tent (21, 31).
+After offering its best tenth, workers and their households may eat the remainder anywhere.
+Service given by God (6) is also work materially supported by the community.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### The Sabbath breaker — Numbers 15:32–36
 
 Gathering sticks is the activity judged here (32–33). The account specifies neither
@@ -697,6 +705,8 @@ The Levite law gives work a start and an end: twenty-five to fifty. After that a
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

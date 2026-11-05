@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
+
 - Genesis 14:20 — *"Abram gave him a tenth of all"*
 - Genesis 28:20–22 — Jacob's vow at Bethel
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:30–33: a tenth of seed, fruit, and herd is
@@ -23,6 +25,15 @@ tags: [connection]
   twice the rate 1 Samuel 8:15 warns a king will take
 
 ## Analysis
+
+### Duties and portions — Numbers 18:1–32
+
+Numbers 18:26–32 adds an obligation on the recipients themselves: the Levites give
+a tenth of their tithes, from the best, to Aaron. The remainder may be eaten anywhere
+by their households as compensation. Unlike the patriarchal episodes, this is a
+standing system of support with responsibility at each stage.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
 
 **Two tenths are given in Scripture before any tenth is required, and both are anomalies.**
 

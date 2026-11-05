@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
+
 - [[The Priests’ Portions of Sin and Trespass Offerings]] — Leviticus 6:24–7:10.
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21.
 
@@ -16,6 +18,15 @@ tags: [connection]
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8–10.
 
 ## Analysis
+
+### Duties and portions — Numbers 18:1–32
+
+Numbers 18:9–13 distinguishes most holy portions for males from wave offerings and
+first fruits for the clean priestly household, including daughters. Verses 30–32 then
+allow Levite households to eat their provision anywhere after its best is offered.
+These are different recipients and classes of food, not contradictory permissions.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
 
 Leviticus 6:26, 29 and 7:6 reserve sin- and trespass-offering meat for priests in a
 holy place. Leviticus 6:30 excludes eating altogether when sin-offering blood enters

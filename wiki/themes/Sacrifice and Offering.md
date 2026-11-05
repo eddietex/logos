@@ -77,6 +77,14 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Offerings sustain priestly households, with different eligibility for different
+portions (8–19). The firstborn cow, sheep, and goat are not redeemed: blood and fat go to
+the altar, while their meat belongs to the priests (17–18).
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 An animal once given stays given: no swap, even for a better one (9–10). Tithed animals are not
@@ -634,6 +642,8 @@ Every burnt offering and sacrifice in the land must come with flour, oil, and wi
 tenth, two tenths, and three tenths of an ephah for lamb, ram, and bull. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

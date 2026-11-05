@@ -83,6 +83,8 @@ prescribes worship rather than narrating a particular offering.
 
 ## Cross-references
 
+- [[A Covenant of Salt - Leviticus 2 and Numbers 18]] — comparison with Numbers 18.
+
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:11–21 is now ingested; its eating and bread rules
   complement the earlier instructions. See [[Leavened Bread with Thanksgiving - Leviticus 2 and 7]].
 

@@ -31,6 +31,14 @@ asked for.
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Israel’s tithe becomes the Levites’ inheritance in return for Tent service (21–24).
+They must give a tenth of that receipt, its best, to Aaron (26–29); their households may eat
+the remainder anywhere as compensation (30–32). Receiving tithes does not exempt them from giving.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 The first command of a tithe: *maʿăśēr* occurs in Leviticus only at 27:30–32 (WLC). Seed and fruit
@@ -69,6 +77,8 @@ See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
   directions since the patristic period, and the wiki records the argument without settling it.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - Genesis 14:18–20 — the first tithe, [[The Rescue of Lot and Melchizedek]]

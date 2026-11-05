@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
+
 - [[The Incense Altar, the Ransom, and the Holy Oil]] — Exodus 30:33; the holy oil on a *stranger*
 - [[Nadab and Abihu and the Strange Fire]] — Leviticus 10:1, 6; *ʾēš zārâ*, and anger on the
   congregation
@@ -14,11 +16,19 @@ tags: [connection]
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:10; the sentence repeated for the priests
 - [[The Levites and the Firstborn Counted]] — Numbers 3:38; the same for the camp's east side
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 18–20; even Kohathites may not touch or look
-- Numbers 16:40 — *no stranger, who isn't of the offspring of Aaron* *(not yet ingested; stored WEB)*
-- Numbers 18:5, 7 — *that there be no more wrath*, and the sentence a last time *(not yet ingested;
-  stored WEB)*
+- Numbers 16:40 — *no stranger, who isn't of the offspring of Aaron* *(stored WEB; now ingested)*
+- Numbers 18:5, 7 — *that there be no more wrath*, and the sentence a last time *(stored WEB; now ingested)*
 
 ## Analysis
+
+### Duties and portions — Numbers 18:1–32
+
+Numbers 18:3 distinguishes the Levites from Aaron’s sons even within sanctuary service:
+they must not approach the vessels or altar, lest both they and the priests die. Verse 5
+states the collective purpose, preventing further wrath. The chapter answers the fear
+of Numbers 17:12–13 with assigned duties rather than unrestricted approach.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
 
 **A short sentence comes back.** *Wəhazzār haqqārēb yûmāt* stands at Numbers 1:51, and WEB gives the
 same English at 3:10, 3:38, and 18:7. It is the book's boundary law.

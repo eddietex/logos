@@ -110,6 +110,14 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Repeated death warnings mark unauthorized approach and profanation (3, 7, 22, 32).
+The positive purpose is no further wrath on Israel (5): priestly and Levite service
+provides a way for the people to live beside the sanctuary.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Aaron stands between the dead and the living (48). The stopping of the plague preserves
@@ -701,6 +709,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

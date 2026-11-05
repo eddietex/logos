@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Duties and portions — Numbers 18:1–32
+
+Yahweh addresses Aaron directly about responsibility for the sanctuary and priesthood (1–24).
+His sons guard the altar and the service within the veil; their portions include holy food,
+first fruits, and redemption payments. His daughters share eligible household portions (11, 19).
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### The budding rod — Numbers 17:1–13
 
 Aaron’s name marks the rod of Levi, which produces buds, blossoms, and ripe almonds overnight
@@ -668,6 +676,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

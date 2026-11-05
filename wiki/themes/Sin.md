@@ -90,6 +90,14 @@ has been argued.
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Bearing iniquity is attached to sanctuary and priestly responsibility (1, 23).
+Unauthorized approach brings death (3, 7, 22); correctly separating the best of the
+tithe prevents sin in its use (32). These are duties and liabilities, not a narrated new offense.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 The renewed accusation follows the warning memorial of 16:40. No confession or repentance
@@ -607,6 +615,8 @@ The law sets a sin done *bišgāgâ* against one done *with a high hand*. The fi
 the second is called blasphemy and has none named. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.
 

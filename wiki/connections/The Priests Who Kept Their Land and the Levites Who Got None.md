@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
+
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34, now ingested.
 
 - **Genesis 47:22, 26** — the priests of Egypt exempted from the sale, *"for the priests had a
@@ -27,6 +29,15 @@ tags: [connection]
   curse — [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Analysis
+
+### Duties and portions — Numbers 18:1–32
+
+Numbers 18:20–24 now directly supplies the no-inheritance rule and its material counterpart:
+Yahweh is Aaron’s portion, and tithes are Levi’s inheritance for service. The correction
+above remains necessary: Leviticus 25:32–34 gives Levites houses and fields. Lack of a
+tribal allotment must not be paraphrased as absolute propertylessness.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
 
 ### Correction from Leviticus 25:23–34
 

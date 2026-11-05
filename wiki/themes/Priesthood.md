@@ -80,6 +80,15 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Priestly service and Levite assistance are gifts with distinct boundaries (1–7).
+Responsibility for the sanctuary accompanies support from Israel’s holy gifts (8–24).
+The no-inheritance rule does not erase the city houses and fields of Leviticus 25:32–34;
+older descriptions of absolute propertylessness are too broad.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 The defended office becomes a means of rescue: Aaron runs among the people who accuse him
@@ -545,6 +554,8 @@ The trumpets go to *the sons of Aaron, the priests*, as a statute forever. The p
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

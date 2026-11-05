@@ -26,6 +26,14 @@ See, now he has taken away my blessing."* The wiki follows Genesis and keeps the
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Firstborn humans and unclean animals must be redeemed, while firstborn cattle,
+sheep, and goats remain sacrificial (15–18). The five-shekel redemption from a month old
+continues the firstborn claim after the Levite exchange of Numbers 3.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 The firstborn of the herd cannot be dedicated, *It is Yahweh's* (26): nobody can give what is
@@ -118,6 +126,8 @@ The claim of 3:11–13 is repeated at the cleansing almost word for word, now wi
 See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:2.

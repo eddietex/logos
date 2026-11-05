@@ -38,6 +38,14 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Offerings and tithes become assigned material support (8–24), and the recipients
+themselves must give from the best (26–32). Yahweh as Aaron’s inheritance is expressed
+through food and payments, not a command to live without material provision.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 The closing chapter of Leviticus translates people, animals, houses, and fields into shekels of the
@@ -703,6 +711,8 @@ Twelve princes give 2,400 shekels of silver and 120 of gold, by the shekel of th
 See [[The Offerings of the Twelve Princes]]. Source: stored WEB Numbers 7.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.

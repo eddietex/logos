@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Duties and Portions of Priests and Levites]] (18:1–32)
+joins sanctuary responsibility to material provision: priestly portions and Levite tithes
+support assigned service, while the Levites themselves give the best tenth to Aaron.
+
 [[Aaron's Rod Buds]] (17:1–13) confirms Aaron’s selection through a rod bearing buds, blossoms,
 and almonds. Retained as a warning to prevent death, it leaves Israel asking fearfully how
 anyone can approach the sanctuary and live.
@@ -130,7 +134,7 @@ merge, or reorder them freely.
 - [x] [[The Rebellion of Korah]] — Numbers 16:1–40
 - [x] [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50
 - [x] [[Aaron's Rod Buds]] — Numbers 17:1–13
-- [ ] The Duties and Portions of Priests and Levites — Numbers 18:1–32
+- [x] [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32
 - [ ] The Red Heifer — Numbers 19:1–22
 - [ ] The Waters of Meribah — Numbers 20:1–13
 - [ ] Edom Refuses Passage — Numbers 20:14–21
@@ -159,6 +163,9 @@ merge, or reorder them freely.
 - [ ] The Marriage of the Daughters of Zelophehad — Numbers 36:1–13
 
 ## Key themes
+
+- [[Tithing]] — Levi’s support for Tent service, with a tenth returned to Aaron (18:21–32)
+- [[Covenant]] — the lasting priestly grant described as a covenant of salt (18:19)
 
 - [[Sabbath]] — gathering sticks judged by a specific divine sentence (15:32–36)
 

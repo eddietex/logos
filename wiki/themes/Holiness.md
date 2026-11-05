@@ -103,6 +103,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Holy gifts have differentiated uses: most holy portions belong to priestly males,
+other portions to the clean household, and Levite provisions may be eaten anywhere after
+the best tenth is removed (9–13, 29–32). Sacred status does not forbid every human use.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### The tassels — Numbers 15:37–41
 
 All Israel is addressed about fringes across generations (38); remembering and doing the
@@ -635,6 +643,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

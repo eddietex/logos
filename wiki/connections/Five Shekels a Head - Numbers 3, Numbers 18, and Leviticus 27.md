@@ -7,17 +7,26 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
+
 - [[The Levites and the Firstborn Counted]] — Numbers 3:46–51; five shekels for each of the 273
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:3, 6, 25; a male of a month to five years
   valued at five shekels
-- Numbers 18:15–16 — the firstborn redeemed from a month old at five shekels *(not yet ingested;
-  stored WEB)*
+- Numbers 18:15–16 — the firstborn redeemed from a month old at five shekels *(stored WEB; now ingested)*
 - [[The Half Shekel - Census, Ransom, and the Temple Tax]] — Exodus 30:13; another price by the same
   shekel
 - Ezekiel 45:12 — *The shekel shall be twenty gerahs* (WEB verified at bible-api.com; not yet
   ingested)
 
 ## Analysis
+
+### Duties and portions — Numbers 18:1–32
+
+Numbers 18:15–18 now supplies the ingested standing rule: redemption from a month old
+at five shekels, distinguished from firstborn cattle, sheep, and goats that must not be
+redeemed. The fixed payment does not make every firstborn category exchangeable.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
 
 **One price, one exchange, one rule.** Numbers 3:47 uses five shekels once, for the men left over.
 Numbers 18:16 makes it the fixed price of redeeming a firstborn, *from a month old*. So a figure that

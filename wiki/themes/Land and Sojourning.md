@@ -73,6 +73,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Aaron has Yahweh as his portion, and Levi receives the tithe as inheritance in
+return for service (20–24). This lack of territorial inheritance must be held beside the
+explicit Levite city houses and fields of Leviticus 25:32–34, not turned into a denial of property.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Dedicated land still answers to the Jubilee. Its value is prorated to that year, a bought field
@@ -350,6 +358,8 @@ One chapter after the sentence, the formula *when you have come into the land* r
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

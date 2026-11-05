@@ -7,14 +7,25 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
+
 - [[The Consecration of the Firstborn]] — Exodus 13:2, 12–15; *It is mine*, and the son redeemed
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29; the night behind the claim
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:11–13; the Levites taken *instead of*
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted, and the surplus of 273 bought back
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:14–19; the claim restated at the Levites' cleansing
-- Numbers 18:15–16 — the firstborn redeemed by price *(not yet ingested; stored WEB)*
+- Numbers 18:15–16 — the firstborn redeemed by price *(stored WEB; now ingested)*
 
 ## Analysis
+
+### Duties and portions — Numbers 18:1–32
+
+Numbers 18:15–18 maintains firstborn redemption alongside the established service of
+Levi. The chapter does not say that the earlier substitution abolished the household
+obligation; neither does it narrate the transition between these arrangements.
+The chronological reconciliation above remains an inference.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
 
 **The claim comes first, then the replacement.** Exodus 13:2 says of every firstborn, *It is mine*,
 and Moses gives the reason at 13:15. Numbers 3:13 gives the same reason in God's own voice: *On the

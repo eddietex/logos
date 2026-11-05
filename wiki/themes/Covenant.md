@@ -66,6 +66,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+The lasting grant of holy portions to Aaron and his offspring is called a covenant
+of salt forever (19). The passage names durability but does not explain the symbol through
+preservation, shared meals, or an otherwise unmentioned salt ceremony.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Israel can *break my covenant* (15, *ləhapərəkem*). Yahweh brings a sword for *the vengeance of the
@@ -349,6 +357,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

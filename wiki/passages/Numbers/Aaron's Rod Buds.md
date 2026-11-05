@@ -77,6 +77,8 @@ Full pericope, copied verbatim from stored WEB, `raw/bible/Numbers.md`.
 - [[The Wilderness]]
 
 ## Cross-references
+
+- [[Will We All Perish - Numbers 17 and 18]] — comparison with Numbers 18.
 - [[Two Memorials Against Rebellion - The Censers and the Budding Rod]]
 - [[Aaron's Rod Before the Testimony - Numbers 17 and Hebrews 9]]
 - [[Swallowed Up - Pharaoh's Dream, Aaron's Staff, and the Sea]] — the earlier rod sign.

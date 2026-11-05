@@ -21255,3 +21255,37 @@ or harness/workflow changes. No unresolved operational issue.
 Validation: type-based counts and unique passage title checked; copied verses match the raw
 source. `scripts/link-check.sh` passes with 58 expected unopened-book targets, no wrapped links,
 and no unexpected dangling targets. `git diff --check` is clean. Authored by Codex.
+
+## [2026-11-04] ingest | Numbers 18.1-32 — The Duties and Portions of Priests and Levites
+
+Ingested [[The Duties and Portions of Priests and Levites]] without changing the planned
+boundary. Created three pages: the passage and two connections,
+[[A Covenant of Salt - Leviticus 2 and Numbers 18]] and
+[[Will We All Perish - Numbers 17 and 18]]. Revised 28 existing content pages:
+Numbers, three people, sixteen themes, six connections, and two earlier passages.
+Updated ten index/dashboard pages plus this log, for 39 existing pages revised overall.
+Numbers is now 28 / 54 pericopes. Type-based totals: 299 passages, 215 people,
+113 places, 87 themes, and 677 connections.
+
+Distinguished Aaron’s priesthood from Levite assistance, most holy portions from
+clean household portions, and firstborn redemption from animal sacrifice. Levi denotes
+the tribe here; unnamed sons and daughters receive no invented identities. No geographic
+campsite is supplied, so no new place page was created. The chapter’s order answers
+Israel’s fear in Numbers 17 by assigned service; that relationship is marked as a reading.
+Salt symbolism is left unexplained where the text leaves it unexplained.
+
+Preserved the explicit correction of older claims of Levite propertylessness:
+Numbers 18:20–24 excludes territorial inheritance, while Leviticus 25:32–34 gives
+Levites houses and fields. The transition from the Numbers 3 exchange to continuing
+firstborn redemption remains an interpretive question rather than an asserted chronology.
+
+Copied the full source and key verses directly from stored WEB Numbers 18 and verified
+the full copy mechanically. Checked Numbers 17 and Leviticus 2, 25, and 27 in stored WEB.
+No new unstored-book quotation or source-language claim was introduced; existing
+cross-reference discussions were retained, with Numbers 18 links and synthesis added.
+Raw files and harness instructions are unchanged. Authored by Codex.
+
+Validation: type-based counts and unique passage filename checked.
+`scripts/link-check.sh` passes with 58 expected unopened-book targets, no wrapped links,
+and no unexpected dangling targets. `git diff --check` is clean.
+No unresolved operational issue.

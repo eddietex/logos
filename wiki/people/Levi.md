@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Duties and portions — Numbers 18:1–32
+
+The name denotes the ancestral tribe, not the patriarch acting in the narrative (2, 21).
+The Levites assist Aaron but may not approach the sanctuary vessels or altar (3). Tithes
+support their service in place of a territorial inheritance; they in turn give a tenth to Aaron.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### The budding rod — Numbers 17:1–13
 
 Levi here names the ancestral house, not the living patriarch: Aaron’s name goes on its rod
@@ -192,6 +200,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

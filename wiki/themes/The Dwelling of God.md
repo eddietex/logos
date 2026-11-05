@@ -63,6 +63,14 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+The Tent of Meeting is guarded through assigned responsibilities (1–7, 22–23).
+The point stated in verse 5 is to prevent further wrath on Israel; the sanctuary’s
+presence calls for ordered approach, not the extinction feared in Numbers 17:12–13.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 The Tent is the point of appearance and divine speech (42–45), and the place to which Aaron
@@ -471,6 +479,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 

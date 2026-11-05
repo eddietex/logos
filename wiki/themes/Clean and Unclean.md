@@ -86,6 +86,14 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+Clean members of Aaron’s household may eat the wave offerings and first fruits
+(11–13); the most holy portions have a narrower male entitlement (9–10). Unclean firstborn
+animals are redeemed, unlike the sacrificial cattle, sheep, and goats (15–17).
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 Unclean animals can still be priced, dedicated, and redeemed (11–13, 27). Uncleanness here bars the
@@ -441,6 +449,8 @@ Miriam becomes *məṣōraʿat* with no word of a priest. The seven days and *s�
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Eating the Holy Things]] — Leviticus 22:1–16.

@@ -12,6 +12,14 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+The best oil, vintage, grain, and first-ripe fruit brought to Yahweh become
+Aaron’s household provision (12–13). The passage specifies recipients and purity,
+without adding a festival date.
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### Land rest and Jubilee — Leviticus 25:1–22
 
 Seven Sabbaths of years and a fiftieth year (8–10) extend the calendar’s counting patterns. Compare the seven Sabbaths and fifty days of 23:15–16: the structures resemble one another, but their units and prescribed acts differ.
@@ -143,6 +151,8 @@ offering.
 See [[The Twelve Spies]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

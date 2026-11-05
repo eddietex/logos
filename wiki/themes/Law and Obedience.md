@@ -106,6 +106,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Duties and portions — Numbers 18:1–32
+
+The chapter regulates access, food, redemption, and distribution together.
+Its closing instruction makes guilt-free enjoyment of Levite provisions conditional on
+first separating the best for Yahweh (29–32).
+
+See [[The Duties and Portions of Priests and Levites]]. Source: stored WEB Numbers 18.
+
 ### The tassels — Numbers 15:37–41
 
 Looking, remembering, and doing form the stated purpose of the fringe (39–40). After the
@@ -909,6 +917,8 @@ The law separates commands left undone by error from the word of Yahweh despised
 [[Offerings in the Land and Sins of Ignorance]].
 
 ## Key passages
+
+- [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
