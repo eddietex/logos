@@ -97,6 +97,7 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
 
 ## Cross-references
 
+- [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — who wrote the tablets: Exodus 34:1, 27–28 beside Deuteronomy 4:13.
 - [[The Plans of the Heart]] — Proverbs 16:6, *ḥesed we'ĕmet* as the means of atonement.
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*What great nation is there, that has a god so near to them, as Yahweh our God is whenever we call on him?* (7). Calling on Yahweh is assumed as ordinary practice, and his nearness marks Israel off from the nations.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Moses begins with praise of Yahweh’s incomparable works and asks for personal entry into the land
@@ -295,6 +301,7 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*He declared to you his covenant, which he commanded you to perform, even the ten commandments* (13). The covenant is identified with the commandments spoken from the fire and written on two stone tablets.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 Moses' first recalled word grounds the journey in the oath to Abraham, Isaac, and Jacob and their offspring (8). No new covenant is made; the sworn promise of Genesis is invoked as the basis of possession.
@@ -373,6 +379,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

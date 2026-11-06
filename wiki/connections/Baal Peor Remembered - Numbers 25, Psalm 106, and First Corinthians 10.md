@@ -10,6 +10,7 @@ tags: [connection]
 - [[Baal Peor and the Zeal of Phinehas]]
 - Psalm 106:28–31; 1 Corinthians 10:8 — verified WEB, not yet ingested.
 - [[The War Against Midian]] — Numbers 31:16, Numbers' own retrospect on Peor.
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:3–4, Moses' retrospect to the survivors.
 
 ## Analysis
 
@@ -32,6 +33,13 @@ ingested.
 caused the trespass *through the counsel of Balaam, … and so the plague was among the congregation of
 Yahweh*. Neither Psalm 106 nor 1 Corinthians 10 names Balaam. See
 [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]].
+
+**Deuteronomy's retrospect.** Deuteronomy 4:3–4 recalls Peor to people who saw it: *all the men who
+followed Baal Peor, Yahweh your God has destroyed them from among you. But you who were faithful to
+Yahweh your God are all alive today.* It names neither Phinehas, the Midianite women, nor Balaam, and
+gives no number. Where Psalm 106 makes Peor a story about intervention and Numbers 31:16 about
+Balaam's counsel, Deuteronomy makes it a proof that obedience is life (4:1). Source: stored WEB
+Deuteronomy 4:3–4.
 
 ## Significance
 

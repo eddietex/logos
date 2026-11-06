@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Words of Agur]] — Proverbs 30:5–6.
 - [[The Covenant Between the Pieces]] — Genesis 15:1, God as Abram’s shield.
 - Psalm 18:30 and 2 Samuel 22:31 — God’s tested word and refuge; verified WEB, not yet ingested.
-- Deuteronomy 4:2 — do not add to or take away from the command; verified WEB, not yet ingested.
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:2, do not add to or take away from the command.
 
 ## Analysis
 
@@ -38,6 +38,12 @@ Sources: Proverbs 30:5–6, Genesis 15:1, and Job 2:3, 7 read in raw WEB. Psalm 
 22:31, and Deuteronomy 4:2 verified directly at bible-api.com with translation=web on 2026-10-26.
 Responses identified World English Bible; no whole book fetched or added to raw. No Hebrew
 identity is asserted.
+
+**With Deuteronomy 4 now ingested**, the stored WEB confirms the verse: *You shall not add to the word
+which I command you, neither shall you take away from it, that you may keep the commandments of Yahweh
+your God which I command you.* Its context is Moses' teaching of statutes for life in the land (4:1, 5),
+so the prohibition protects obedience to the commanded word; it is not framed, as Proverbs 30:6 is, as a
+warning against being found a liar.
 
 ## Significance
 

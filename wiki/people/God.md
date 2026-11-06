@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+Yahweh gives the land (1), destroyed those who followed Baal Peor and kept alive those who held fast to him (3–4), and is near whenever Israel calls (7). At Horeb he assembled the people to hear his words, spoke out of the fire without any form being seen, declared his covenant, and wrote the ten commandments on two stone tablets (10–13).
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Yahweh’s incomparable power grounds Moses’ appeal (24), but he refuses the crossing and forbids
@@ -3437,6 +3443,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

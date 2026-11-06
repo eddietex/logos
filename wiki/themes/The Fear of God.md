@@ -55,6 +55,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+Yahweh assembles the people to hear his words *that they may learn to fear me all the days that they live on the earth, and that they may teach their children* (10). Fear is learned by hearing and handed on by teaching.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 *Don't be afraid, neither be dismayed* (21); *Don't dread, neither be afraid of them* (29). The fear of the peoples takes the place of trust in Yahweh. The previous unit forbade judges to fear *the face of man* (17); here a whole people fears the people of the land.
@@ -404,6 +410,7 @@ and forbidden, and it is set against rebelling against Yahweh. See [[The People 
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; fear learned at Horeb and taught to children.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; fear of the peoples displacing trust.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *not afraid of the face of man*.
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

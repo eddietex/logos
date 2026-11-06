@@ -43,6 +43,12 @@ about.
 
 ## Development across Scripture
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*What great nation is there, that has statutes and ordinances so righteous as all this law?* (8). Righteousness is predicated of the law, not of Israel; 9:4–6 will deny that the land is given for Israel's righteousness.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The wish for the death of the righteous (23:10) accompanies the declaration of Israel’s blessing.
@@ -387,6 +393,7 @@ are identified on the passage and connection pages.
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; the law called righteous.
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 
 

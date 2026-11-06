@@ -113,6 +113,7 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — Deuteronomy 4:11–13; the people near the mountain, and the covenant written on two tablets.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:39–40; iniquity of the fathers confessed.
 - [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]] — Leviticus 19:1–18 joins worship, harvest provision, and impartial justice.
 

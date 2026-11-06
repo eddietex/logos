@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+The retrospect turns to exhortation: Moses teaches statutes and ordinances *as Yahweh my God commanded me* (5) and forbids adding to or subtracting from the command (2). He recalls being told at Horeb to assemble the people and *at that time* to teach them statutes for the land (10, 14) — instruction for a land he has just been told he will not enter (3:27).
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Moses asks to cross and see the good land (23–25), but receives permission to see from Pisgah
@@ -1486,6 +1492,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

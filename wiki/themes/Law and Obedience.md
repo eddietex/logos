@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+Hearing and doing the statutes is the condition of life and of possessing the land (1, 14). The command may not be added to or reduced (2). Keeping it is Israel's wisdom before the nations (6), and the law is called more righteous than any great nation's (8). The covenant declared from the fire is identified with the ten commandments; Moses teaches the statutes and ordinances (13–14).
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 The answer gives Moses limits and work: cease this petition, ascend and look, and commission and
@@ -1081,6 +1087,7 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 

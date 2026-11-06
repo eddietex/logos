@@ -22416,3 +22416,34 @@ against stored Numbers 20 and 27 and the preceding Deuteronomy units. No unstore
 source-language assertion, raw-text edit, or harness change was needed.
 Link checks passed with 57 not-yet-started book pages as the expected baseline.
 No unresolved link or source-verification issue.
+
+## [2026-11-05] ingest | Deuteronomy 4.1-14 — Hear the Statutes and Remember Horeb
+
+Ingested one pericope in unattended mode with Claude Code. Kept the planned title and boundary
+(4:1–14), ending before *Be very careful, for you saw no kind of form* (15) opens the image
+prohibition. The turn from retrospect to exhortation, the Peor example, the nations' anticipated
+admiration, and the Horeb memory are developed in the passage rather than discussed interactively.
+
+Created two pages: the passage and
+[[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]].
+Revised three people (God, Moses, Baal Peor), one place (Horeb), twelve themes, four existing
+connections (Baal Peor Remembered, Every Word of God Is Flawless, Sinai and Zion, Train Up a Child),
+five earlier passages, the book, nine category/book indexes, the dashboard, and this log
+(37 existing pages). Deuteronomy is now 11 / 69 pericopes; totals are 336 passages, 257 people,
+213 places, 87 themes, and 725 connections.
+
+Judgment calls: no separate place page for Peor in 4:3, since *because of Baal Peor* is filed with the
+existing deity page and its ambiguity (deity or incident) noted there. Did not make Wisdom's or
+Righteousness's entries say more than the verses: the nations' praise is anticipated, and
+righteousness is predicated of the law, not Israel. Recorded, without calling it a contradiction,
+that Deuteronomy 4:11 has the people near the mountain where Exodus 20:18, 21 has them withdraw, and
+that Exodus 34:28 leaves the writer of the tablets unnamed where Deuteronomy 4:13 names Yahweh.
+The Every Word connection's Deuteronomy 4:2 line now links the ingested passage instead of a
+bible-api verification note.
+
+All quotations were copied from stored WEB Deuteronomy 4; comparisons were checked against stored
+Exodus 19, 20, 31, 34, Numbers 25, and Deuteronomy 2, 5, 9, 10. Hebrews 12 is compared only through
+the existing connection's paraphrase. No unstored-book quotation, source-language assertion,
+raw-text edit, or harness change was needed.
+Link checks passed with 57 not-yet-started book pages as the expected baseline.
+No unresolved link or source-verification issue.

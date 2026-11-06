@@ -38,7 +38,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 | [[As White as Snow - Moses' Hand, Miriam, and Gehazi]] | motif | [[The Burning Bush]] (Exodus 4:6) · [[Miriam and Aaron Against Moses]] (Numbers 12:10) · 2 Kings 5:27 · 2 Chronicles 26:20 |
 | [[Ashes and Conscience - Numbers 19 and Hebrews 9]] | typology | [[The Red Heifer]] · Hebrews 9:13–14 |
 | [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]] | literary-parallel | Genesis 38:14–15, 21, 26 · Proverbs 7:10–13 · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) · [[Judah and Tamar]] · Song of Solomon 1:7 |
-| [[Baal Peor Remembered - Numbers 25, Psalm 106, and First Corinthians 10]] | parallel | [[Baal Peor and the Zeal of Phinehas]] — Numbers 25; Psalm 106:28–31; 1 Corinthians 10:8. · [[The War Against Midian]] (Numbers 31:16) |
+| [[Baal Peor Remembered - Numbers 25, Psalm 106, and First Corinthians 10]] | parallel | [[Baal Peor and the Zeal of Phinehas]] — Numbers 25; Psalm 106:28–31; 1 Corinthians 10:8. · [[The War Against Midian]] (Numbers 31:16) · [[Hear the Statutes and Remember Horeb]] (Deuteronomy 4:3–4) |
 | [[Babel and Babylon the Great]] | typology | Genesis 10:10 · Genesis 11:1–9 · Isaiah 13–14 · Jeremiah 50–51 · Daniel 4:28–37 · Psalm 137 · Revelation 17–18 · 1 Peter 5:13 |
 | [[Babel and the Gate of Heaven]] | parallel | Genesis 11:1–9 · Genesis 28:10–22 · Genesis 12:2–3 · Genesis 13:16 |
 | [[Balm, Spices, and Myrrh - The Caravan's Cargo and Jacob's Present]] | literary parallel | Genesis 37:25, 28 · Genesis 43:11 · Jeremiah 8:22; 46:11; 51:8 · Ezekiel 27:17 |

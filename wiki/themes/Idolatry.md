@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+Peor is the fresh example: all who followed Baal Peor were destroyed (3). At Horeb Israel heard a voice and saw no form (12), which 4:15–19 makes the ground of the prohibition of images.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 Removal of the inhabitants is joined to destruction of stone idols, molten images, and high
@@ -284,6 +290,7 @@ texts, 2026-10-25.
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.

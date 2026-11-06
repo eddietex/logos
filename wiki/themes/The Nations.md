@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+The peoples are imagined as an audience that hears Israel's statutes and admires them (6). No great nation has a god so near, or a law so righteous (7–8). The nations' admiration is anticipated, not narrated.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 The two kings are identified as Amorite rulers (8), while Sidonians and Amorites supply different
@@ -258,6 +264,7 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

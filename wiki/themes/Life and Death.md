@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*That you may live* (1): obedience is tied to life and entry into the land. Those who followed Baal Peor were destroyed; those who held fast to Yahweh are *all alive today* (3–4).
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The law protects the unwitting killer but requires the murderer’s death, refusing to price that life with ransom (16–32). The high priest’s death marks a different legal event: release to the land of the protected killer’s possession (28).
@@ -785,6 +791,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.

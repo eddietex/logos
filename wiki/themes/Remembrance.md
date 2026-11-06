@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*Lest you forget the things which your eyes saw* (9): memory is guarded like the soul and passed to children and grandchildren. Two seen events are summoned — the deaths at Peor (3) and the day at Horeb (10–13).
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Moses turns recollection of the two defeated kings into assurance for Joshua about kingdoms ahead
@@ -511,6 +517,7 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

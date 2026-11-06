@@ -55,6 +55,12 @@ close to the book's whole point about who may speak for the tradition. See
 
 ## Development across Scripture
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*This is your wisdom and your understanding in the sight of the peoples* (6). Wisdom is identified with keeping the statutes; the nations will judge Israel *a wise and understanding people* by what they hear of its law.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 The qualification for leading and judging the tribes is to be *wise men of understanding and well known* (13, 15) — where Exodus 18:21 had asked for men who fear God and hate unjust gain.
@@ -800,6 +806,7 @@ comparison passages identified on that page.
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; keeping the statutes as Israel's wisdom.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *wise men of understanding* as the qualification for office.
 - [[The End of the Matter]] — Ecclesiastes 12:9–14; The wise teacher commended; study remains costly.
 

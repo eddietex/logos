@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+*You heard the voice of words, but you saw no form; you only heard a voice* (12). The covenant comes as declared speech and then as writing on stone (13); Moses' teaching must not be added to or reduced (2).
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 Yahweh opens an animal’s mouth (28), and the episode ends by restricting the human speaker to the word given him (35). The donkey’s questions expose what Balaam’s angry speech overlooks.
@@ -625,6 +631,7 @@ See [[Vows of Men and Women]] and
 
 ## Key passages
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

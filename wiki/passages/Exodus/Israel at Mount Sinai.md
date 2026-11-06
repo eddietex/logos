@@ -88,6 +88,7 @@ commandments (19:9–25).
 
 ## Cross-references
 
+- [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — Deuteronomy 4:10–14 recalls this day as Horeb: fire, darkness, and a voice with no form.
 - [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]] — Exodus 19:4's *bore* (*nāśāʾ*) beside Deuteronomy 1:31's father carrying his son.
 - [[Delivered to Be Holy - Exodus 19 and Leviticus 11]] — Exodus 19:1–6 compared with Leviticus 11.
 

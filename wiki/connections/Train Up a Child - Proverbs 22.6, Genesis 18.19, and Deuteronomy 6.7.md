@@ -15,6 +15,8 @@ tags: [connection]
   on your heart; and you shall teach them diligently to your children, and shall talk of them when
   you sit in your house, and when you walk by the way, and when you lie down, and when you rise
   up."*
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:9–10, the Horeb memory made known to
+  children and grandchildren.
 - **Ephesians 6:4** *(not yet ingested)* — *"You fathers, don’t provoke your children to wrath, but
   nurture them in the discipline and instruction of the Lord."*
 - **Proverbs 13:1; 17:21, 25; 19:26** — the scoffing, foolish, and shameful sons of the same
@@ -61,6 +63,11 @@ Hebrew edition in this pass.
 Sources: Proverbs and Genesis quotations copied from stored WEB Proverbs 13:1; 17:21, 25; 19:26;
 22:6, 15; Genesis 18:19. Deuteronomy 6:6–7 and Ephesians 6:4 verified at bible-api.com with
 `translation=web` on 2026-10-26; neither book is in `raw/`.
+
+**Deuteronomy 4:9–10 comes first.** Before the command of 6:7, Moses charges Israel to make what its eyes
+saw at Horeb known *to your children and your children's children*, and recalls that Yahweh assembled the
+people so *that they may teach their children*. Here what is taught is a remembered event as well as
+words. Source: stored WEB Deuteronomy 4:9–10.
 
 ## Significance
 

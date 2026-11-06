@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+Israel's eyes saw the judgment at Peor and the events at Horeb (3, 9), yet at Horeb *you saw no form* (12). Sight witnesses the event; the revelation itself is heard.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Moses asks to cross and see, but is commanded to look from Pisgah without crossing (25–27). Sight
@@ -374,6 +380,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land; Joshua commissioned in Israel's sight.

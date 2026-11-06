@@ -61,6 +61,12 @@ of the two kings. Possession precedes release from shared responsibility.
 He may see from Pisgah but must strengthen Joshua to lead Israel into the inheritance.
 The explanation of his exclusion remains in tension with Numbers 20:12.
 
+[[Hear the Statutes and Remember Horeb]] (4:1–14) turns the retrospect into exhortation. Hearing and
+doing the statutes is life and possession; the word may not be added to or reduced; the deaths at Peor
+and the survival of the faithful are the proof. Keeping the law is Israel's wisdom before the nations,
+and the day at Horeb — fire, darkness, a voice with no form, the covenant on two tablets — must be
+remembered and taught to children's children.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -78,7 +84,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **10 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **11 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -90,7 +96,7 @@ Plan drawn 2026-11-05 from the stored WEB. **10 / 69 pericopes ingested.**
 - [x] [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
 - [x] [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22
 - [x] [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29
-- [ ] Hear the Statutes and Remember Horeb — Deuteronomy 4:1–14
+- [x] [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14
 - [ ] No Form Seen and No Image Made — Deuteronomy 4:15–31
 - [ ] Has Any People Heard God and Lived — Deuteronomy 4:32–40
 - [ ] Three Cities Beyond the Jordan — Deuteronomy 4:41–43
@@ -156,6 +162,7 @@ Plan drawn 2026-11-05 from the stored WEB. **10 / 69 pericopes ingested.**
 - [[Remembrance]]
 - [[The Wilderness]]
 - [[War]]
+- [[Wisdom]]
 
 ## Key people
 - [[God]]

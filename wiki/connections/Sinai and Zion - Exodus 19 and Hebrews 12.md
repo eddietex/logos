@@ -59,6 +59,13 @@ fire"* matches Deuteronomy 4:24, *"Yahweh your God is a devouring fire"* (WEB), 
 Deuteronomy 4:24 were fetched from bible-api.com's WEB on 2026-10-23. See [[The Blood of the Covenant]]
 and [[The Blood of the Covenant - Exodus 24, the Last Supper, and Hebrews 9]].
 
+**Deuteronomy 4 ingested.** The burning, darkness, and voice of Hebrews 12:18–19 (as summarized above)
+are gathered in one sentence pair at Deuteronomy 4:11–12 — fire *to the heart of the sky*, darkness, cloud,
+thick darkness, and *the voice of words* — and again at 5:22–23, while Exodus spreads fire (19:18) and thick
+darkness (20:21) across its narrative. This is a resemblance of English wording and imagery, not a claim about which text Hebrews draws on. See
+[[Hear the Statutes and Remember Horeb]] and
+[[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]].
+
 ## Significance
 
 Read alongside [[Mediation and Advocacy]], [[Covenant]], and [[The Fear of God]], the comparison

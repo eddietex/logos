@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Statutes and Horeb — Deuteronomy 4:1–14
+
+The day Israel stood before Yahweh at Horeb is the memory Moses charges them to guard and teach to their grandchildren (9–10). The mountain burned *to the heart of the sky* with darkness, cloud, and thick darkness; the people heard a voice from the fire and saw no form (11–12). Exodus 19 names the mountain Sinai.
+
+See [[Hear the Statutes and Remember Horeb]]. Source: stored WEB Deuteronomy 4:1–14.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 The march begins *from Horeb* (19) and crosses *all that great and terrible wilderness* to Kadesh Barnea. The command spoken at Horeb (1:6–8) is repeated almost word for word at Kadesh (21).
@@ -639,6 +645,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; the day of the assembly recalled.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the starting point of the march to Kadesh.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges appointed *at that time*, before the departure.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6; the stay at the mountain declared long enough.
