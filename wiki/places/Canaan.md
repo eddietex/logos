@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The good land is given despite Israel’s stubbornness (4–6). Canaan is the contextual destination, not a place name used in this unit; its fortified cities are left unnamed.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 The good land promised to the fathers is the destination in view (1, 7–10), though Canaan is not
@@ -339,6 +346,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

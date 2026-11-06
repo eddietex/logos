@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The imagined inward boast now claims moral credit for possession (4), following the claim to self-made wealth in 8:17. Moses blocks the inference from success to deservingness.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 The lifted heart forgets rescue and credits its own strength with wealth (14, 17). The corrective is
@@ -298,6 +305,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The people answer a sentence by going up against the word. The verb, *wayyaʿpilû*, occurs only here by the tags, and Deuteronomy 1:43 has *zîd*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

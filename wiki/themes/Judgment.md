@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The nations’ wickedness is the stated reason for their expulsion (4–5), but the beneficiaries are themselves called stiff-necked (6). Victory does not certify the conqueror’s righteousness.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Israel is warned that it can perish like the nations displaced before it (19–20). Election and
@@ -844,6 +851,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

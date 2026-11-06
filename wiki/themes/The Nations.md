@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The nations are stronger than Israel, with fortified cities and the tall Anakim (1–2). Their wickedness explains expulsion (4–5); the unit names no new nation and supplies no list of specific offenses.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 The destruction of the nations becomes a warning to Israel itself (20). The comparison concerns
@@ -300,6 +307,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

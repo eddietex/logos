@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Possession fulfills the ancestral oath and follows judgment on the nations (5). The repeated denial of Israel’s merit prevents reading the land as proof of the recipients’ moral superiority.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 The promised land is described by water, crops, iron, and copper (7–9). Its abundance calls for
@@ -604,6 +611,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

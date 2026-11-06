@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
+
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
 
 - [[The Covenant Renewed]] — Exodus 34:1–28.
@@ -26,6 +28,13 @@ tags: [connection]
   shall be in your sides, and their gods will be a snare to you"* (WEB; *not yet ingested*)
 
 ## Analysis
+
+### Possession without merit — Deuteronomy 9:1–6
+
+Explicit tension: the stored WEB of Deuteronomy 9:3 commands Israel to make the nations perish quickly, while 7:22 says their removal is little by little and forbids consuming them at once. Swift victories within a gradual occupation could reconcile the statements, but neither passage articulates that distinction. Preserve both temporal descriptions rather than silently replacing one.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
 
 ### Deuteronomy 7:12–26 now ingested
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The nations’ wickedness and Israel’s stubbornness are both named (4–6). The judgment on the former is not an acquittal of the latter; the following remembrance will expand Israel’s indictment.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The people confess that they sinned and then disobey the prohibition against battle (41–43). An
@@ -688,6 +695,8 @@ who breaks a promise. Moses also calls the two tribes *an increase of sinful men
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Verses 4–6 repeatedly deny Israel’s righteousness as the reason for possession. Explicit tension: Deuteronomy 6:25 calls obedient conduct righteousness, whereas 9:4–6 denies that the people’s righteousness explains the land gift. These concern conduct and the ground of possession respectively; neither assertion cancels the other.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Explicit qualification of any universal claim that righteousness is only declared before conduct:
@@ -401,6 +408,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

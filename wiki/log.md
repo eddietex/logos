@@ -22744,3 +22744,33 @@ was not re-audited.
 Validation: scripts/link-check.sh passed with no wrapped links or dangling targets;
 57 not-yet-started book pages remain the expected baseline. Passage title is unique.
 No unresolved issue from this ingest.
+
+
+## [2026-11-06] ingest | Deuteronomy 9.1-6 — Not Because of Your Righteousness
+
+Ingested [[Not Because of Your Righteousness]] in one unattended invocation using the canonical
+ingest skill, executed by OpenAI Codex. Retained the planned 9:1–6 boundary. The passage absorbs
+the discussion: fear of the Anakim, Yahweh’s advance, the denial of Israel’s merit, judgment on
+the nations, and fulfillment of the ancestral oath.
+
+Created 2 content pages: the passage and
+[[Not for Your Righteousness - The Ancestral Oath and the Gift of the Land]].
+Revised 24 existing content pages: the book, 6 people, 2 places, 11 themes, and 4 connections.
+Updated 9 index/dashboard pages and this log: 34 revised wiki pages in all.
+Counts by frontmatter: 348 passages, 257 people, 216 places, 87 themes, 730 connections;
+9 books started, 8 complete. Deuteronomy is now 23 / 69 pericopes.
+
+Kept Israel collective, used the existing Anakim page, and inferred no individual biography
+of Anak or named fortified city. Canaan is the contextual destination, not a name in this unit.
+Explicitly preserved the tension between quick destruction (9:3) and gradual removal (7:22),
+and distinguished righteousness as obedient conduct (6:25) from the denied ground of the
+land gift (9:4–6). Neither comparison silently overwrites the earlier claim.
+
+All six quoted verses were mechanically checked against immutable stored WEB Deuteronomy 9.
+Comparisons use stored WEB Genesis 15:16–18 and Deuteronomy 4:24, 6:25, 7:7–8, 7:22,
+8:17–18. No new quotation from an unstored book, original-language claim, raw-text edit,
+or harness change. Older material outside these additions was not re-audited.
+
+Validation: scripts/link-check.sh clean, with no wrapped links or dangling targets and
+57 not-yet-started book pages as the expected baseline. Passage title unique; progress counts
+verified by frontmatter. No unresolved issue from this ingest.

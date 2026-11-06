@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
+
 - **Genesis 15:17** — *"behold, a smoking furnace, and a flaming torch passed between these pieces."*
   See [[The Covenant Between the Pieces]].
 - **Genesis 3:24** — the flaming sword turning every way, guarding the way to the tree of life: fire
@@ -29,6 +31,13 @@ tags: [connection]
   fire."*
 
 ## Analysis
+
+### Possession without merit — Deuteronomy 9:1–6
+
+Deuteronomy 9:3 describes Yahweh going before Israel as a devouring fire. Unlike Genesis 15:17, this is a comparison in an exhortation, not a narrated sight of fire. Deuteronomy 4:24 uses the same English image in warning Israel against idolatry; 9:3 applies it to the power that brings down its opponents. The image offers no immunity to Israel.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
 
 Genesis 15:17 is the first theophany in the Bible in which God appears **as** something rather than
 simply speaking or walking. He has spoken in a garden, spoken to Cain, spoken to Noah, appeared to

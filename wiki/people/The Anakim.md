@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Their great stature and the saying about who can withstand them sharpen the threat (2). Moses answers with Yahweh’s advance (3), not by denying their size. The stored WEB here supplies no Nephilim genealogy.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 The Anakim serve as the measure of the stature of the Emim and Zamzummim (10–11, 21). The WEB also
@@ -34,8 +41,9 @@ and Rahlfs's Greek lacks the clause (*καὶ ἐκεῖ ἑωράκαμεν τ�
 have seen the sons of the Anakim there!* They are the last and climactic item in the list of fears,
 after the taller people and the walled cities. See [[The Spies and the Refusal to Go Up]].
 
-**How later books recall them** (WEB; *not yet ingested*). Deuteronomy 9:2 preserves a saying, *Who can stand before the sons of
-Anak?* Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. Joshua 15:13
+**Other notices.** Deuteronomy 9:2, now ingested, preserves the saying quoted in the passage.
+Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. The following
+Joshua notices remain not yet ingested. Joshua 15:13
 calls Arba *the father of Anak*, and Joshua 14:15 has him the greatest man among them, giving
 Hebron's old name. Joshua 11:21–22 says Joshua cut them off, except in Gaza, Gath, and Ashdod.
 Joshua 15:14 and Judges 1:20 have Caleb drive out the three, and Judges 1:10 has Judah strike them.
@@ -49,6 +57,8 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - *(ahead)* Removed from Hebron — Joshua 11:21–22; 15:14; Judges 1:10, 20
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

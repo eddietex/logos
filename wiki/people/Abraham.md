@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Named with Isaac and Jacob as a recipient of the oath Yahweh establishes in giving Israel the land (5). The ancestor is remembered, not present in the scene.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Named with Isaac and Jacob as a recipient of the oath to give the land (10). The inherited cities
@@ -862,6 +869,8 @@ promise persists even when the terms of divine accompaniment are disputed. See
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, third in a reversed list (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

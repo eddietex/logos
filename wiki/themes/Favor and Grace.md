@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The land is given to a stiff-necked people, not for their righteousness (4–6). This supports a thematic account of unearned gift; it is not a claim about which Hebrew grace term occurs or a complete doctrine of individual salvation.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 Favor can be freely given before any claim of merit is stated, as in Genesis 6:8, or explicitly
 associated with good conduct, as in Proverbs 12:2. These are distinct textual settings; the English
 word alone does not make every occurrence a statement about unearned favor.
@@ -231,6 +238,8 @@ are identified on the passage and connection pages.
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; skill does not secure favor.
 

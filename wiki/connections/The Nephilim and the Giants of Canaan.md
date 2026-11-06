@@ -7,11 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
+
 - Genesis 6:4 — [[The Sons of God and the Corruption of the Earth]]
 - Genesis 10:8 — [[The Table of Nations]]: *gibbōr* used of Nimrod, the word's first reappearance
   after the flood
 - [[The Twelve Spies]] — Numbers 13:31–33; the spies' report, and the word's only other verse
-- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28 *(stored WEB)*; and 2:10–11, 20–21; 3:11; 9:1–2 *(not yet ingested)* — the Anakim, Emim, Zamzummim,
+- [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28 *(stored WEB)*; and 2:10–11, 20–21; 3:11; 9:1–2 *(also now ingested)* — the Anakim, Emim, Zamzummim,
   and Rephaim
 - Joshua 11:21–22; 14:12–15; 15:13–14 *(not yet ingested)* — the Anakim driven out, and the remnant
   left in Gaza, Gath, and Ashdod
@@ -19,6 +21,13 @@ tags: [connection]
 - 2 Samuel 21:15–22 *(not yet ingested)* — the last four *"born to the giant in Gath"*
 
 ## Analysis
+
+### Possession without merit — Deuteronomy 9:1–6
+
+Deuteronomy 9:1–3 now supplies an ingested account of the Anakim’s stature and reputation. Moses does not answer the remembered question by denying their size; Yahweh goes before Israel. These verses do not call them Nephilim or establish their ancestry, so they do not independently confirm the genealogy in the spies’ report.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
 
 **Two verses, and a chain the Bible does not quite forge.** *Nephilim* occurs in exactly two verses of the
 Hebrew Bible, three times in all (WLC). Genesis 6:4 places them before the flood, with the parenthetical *"and also after

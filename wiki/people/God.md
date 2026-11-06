@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Yahweh goes before Israel as a devouring fire, bringing down stronger nations (3). Their wickedness and his oath to the fathers explain the gift; Israel’s righteousness does not (4–6).
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Yahweh leads, humbles, tests, feeds, and disciplines Israel as a father (2–5). He gives the good
@@ -3513,6 +3520,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

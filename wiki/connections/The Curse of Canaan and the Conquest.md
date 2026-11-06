@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
+
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
@@ -23,6 +25,13 @@ tags: [connection]
 - Ezra 9:1; Nehemiah 9:8 — the peoples of the land named again after the exile
 
 ## Analysis
+
+### Possession without merit — Deuteronomy 9:1–6
+
+Deuteronomy 9:4–6 now directly grounds possession in the nations’ wickedness and the oath to Abraham, Isaac, and Jacob. It rejects Israel’s righteousness as the cause and does not invoke Noah’s curse. The ancestral oath must not disappear from a summary that emphasizes only judgment: verse 5 states both reasons.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
 
 ### Deuteronomy 7:1–11 now ingested
 

@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Not Because of Your Righteousness]] (9:1–6) answers fear of stronger nations with Yahweh’s advance,
+then denies Israel’s righteousness as the basis for possession. Judgment on the nations and
+the ancestral oath explain the gift to a stiff-necked people.
+
 [[Remember the Wilderness and the Giver of Wealth]] (8:1–20) interprets hunger, manna, and
 preservation as humbling, testing, and fatherly discipline. The good land’s abundance calls
 for gratitude; self-credit and forgetting can end in the same destruction as the nations.
@@ -136,7 +140,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **22 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **23 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -160,7 +164,7 @@ Plan drawn 2026-11-05 from the stored WEB. **22 / 69 pericopes ingested.**
 - [x] [[A People Chosen in Love]] — Deuteronomy 7:1–11
 - [x] [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26
 - [x] [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20
-- [ ] Not Because of Your Righteousness — Deuteronomy 9:1–6
+- [x] [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6
 - [ ] Remember the Calf and Moses' Intercession — Deuteronomy 9:7–29
 - [ ] New Tablets and the Journey Onward — Deuteronomy 10:1–11
 - [ ] What Yahweh Requires of Israel — Deuteronomy 10:12–22

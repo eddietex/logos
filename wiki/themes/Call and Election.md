@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Following the denial that numerical greatness explains election (7:7–8), this unit denies that Israel’s righteousness explains possession (4–6). The ancestral oath, not superiority, grounds the gift.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Yahweh took *a nation for himself from among another nation* (34), and *because he loved your fathers, therefore he chose their offspring after them* (37). It is the first time Deuteronomy gives love as the reason for the choice; 7:7–8 will repeat it.
@@ -195,6 +202,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; love the ground of the choice

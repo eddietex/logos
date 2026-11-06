@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Named with Abraham and Isaac among the fathers to whom Yahweh swore (5). Jacob the patriarch and Israel the addressed people are distinct referents here.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Named with Abraham and Isaac among the fathers to whom Yahweh swore the land (10). Here Jacob is the
@@ -810,6 +817,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

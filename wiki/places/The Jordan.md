@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+The river is the boundary Israel is about to cross (1). The speech announces entry; these six verses do not narrate a completed crossing.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The repeated bearings beyond the river, toward sunrise, and eastward locate the instruction and conquered territory on the eastern side (46–49). No crossing is narrated.
@@ -166,6 +173,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Divine advance and human action belong together: Yahweh brings the nations down and Israel drives them out (3). Explicit tension: 9:3 says they perish quickly, while 7:22 says removal is little by little. Decisive encounters within gradual occupation are a possible reading, not an explanation supplied by either verse.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Thrusting out enemies remains part of possessing the good land (18–19). The text presents this as
@@ -409,6 +416,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

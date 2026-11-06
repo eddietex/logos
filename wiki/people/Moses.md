@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Moses answers the fear of superior enemies with Yahweh’s presence, then forbids the victorious people to credit their righteousness (1–6). This continues his address, not a narrated crossing.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Moses exhorts Israel to remember its forty years and addresses the imagined claim of self-made
@@ -1572,6 +1579,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

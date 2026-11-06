@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Possession without merit — Deuteronomy 9:1–6
+
+Named with Abraham and Jacob in the ancestral oath (5). Possession fulfills that sworn word rather than rewarding the present generation’s righteousness.
+
+See [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 9:1–6.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Named with Abraham and Jacob in the land oath (10). Moses invokes the patriarch as a recipient of
@@ -571,6 +578,8 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, between Jacob and Abraham (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
