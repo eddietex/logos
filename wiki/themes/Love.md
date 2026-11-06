@@ -24,6 +24,12 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+The unit opens and turns on love: "you shall love Yahweh your God, and keep" his commands (1), and the rain is promised if Israel listens "to love Yahweh your God, and to serve him with all your heart and with all your soul" (13). Love is stated as service and listening.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Love joins God’s delight in the fathers (15), Israel’s wholehearted response (12), God’s provision for the foreigner (18), and Israel’s duty to love that foreigner (19). Election is not a license to restrict care to the chosen people.
@@ -523,6 +529,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

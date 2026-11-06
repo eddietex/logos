@@ -54,6 +54,12 @@ one.
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+The signs and works in Egypt, "his mighty hand, his outstretched arm", are recalled as a body of evidence the hearers have seen (2–3). They are presented as chastisement, instruction for obedience.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 The *great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched
@@ -109,6 +115,8 @@ in the wilderness* (22). Yahweh treats the signs as evidence that should have se
 See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

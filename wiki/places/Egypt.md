@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Egypt appears twice: as the scene of Yahweh's signs against Pharaoh and his land (3), and as the contrast to the promised land, a place where seed was watered "with your foot" rather than by rain from the sky (10–11). The point of the contrast is dependence on Yahweh, not which land is more fertile.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Egypt is recalled both as the place where Israel lived as foreigners (19) and as the destination of the seventy ancestors (22). Memory of vulnerability grounds love for the foreigner; the contrast with present multitude grounds praise.
@@ -364,6 +370,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

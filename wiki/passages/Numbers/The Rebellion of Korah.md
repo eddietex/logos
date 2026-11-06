@@ -84,6 +84,8 @@ Copied from stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[Watered with Your Foot - Egypt and the Land That Drinks the Rain]] — 16:13's "milk and honey" for Egypt, answered in Deuteronomy 11:9–10.
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:6 recalls Dathan and Abiram without naming Korah.
 - [[The God of the Spirits of All Flesh - Numbers 16.22 and 27.16]] — the title of 16:22 reused in 27:16.
 - [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
 - [[Two Memorials Against Rebellion - The Censers and the Budding Rod]]

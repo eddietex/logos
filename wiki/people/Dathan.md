@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Named with Abiram as sons of Eliab, son of Reuben, swallowed by the earth with households, tents, and followers (6). Moses cites this as a deed the assembly saw, and Korah is not named here. The omission is noted, not explained, on the passage page.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### The second census — Numbers 26:1–65
 
 Named with Abiram as Eliab’s son and a rebel swallowed by the earth (9–10); the genealogy retains a
@@ -25,6 +31,8 @@ separate speeches or offenses.
 - Numbers 16:1–40 — [[The Rebellion of Korah]].
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[The Second Census]] — Numbers 26:1–65.
 - [[The Rebellion of Korah]] — Numbers 16:1–40.

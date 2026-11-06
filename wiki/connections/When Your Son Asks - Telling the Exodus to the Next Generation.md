@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
+
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
@@ -32,6 +34,14 @@ tags: [connection]
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
 ## Analysis
+
+### Deuteronomy 11:2 — the children who have not seen
+
+Deuteronomy 11:2 turns the formula around. Moses says he does *not* speak with "your children who
+have not known, and who have not seen", but with those whose eyes saw (7). The children are
+named as the audience that lacks the experience, which is the gap the telling formula exists to
+fill. The next unit returns to teaching them (11:19, stored WEB; not yet ingested). The verse does
+not say how many eyewitnesses remained after the wilderness deaths of Deuteronomy 2:14–16.
 
 ### Deuteronomy 6:20–25 now ingested
 

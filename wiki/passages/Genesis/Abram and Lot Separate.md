@@ -318,6 +318,7 @@ trees in the hills.
 
 ## Cross-references
 
+- [[Watered with Your Foot - Egypt and the Land That Drinks the Rain]] — 13:10's comparison of the Jordan plain with Egypt, set against Deuteronomy 11:10–11.
 - [[The Call of Abram]] — Genesis 12:1–9: the first land promise (12:7), the altars at Shechem and
   between Bethel and Ai, and the transit south that 13:1–4 runs in reverse.
 - [[Abram in Egypt]] — Genesis 12:10–20: the descent this chapter climbs back out of, and the source

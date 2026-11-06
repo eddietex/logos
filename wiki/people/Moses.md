@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Moses tells the assembly that he speaks to those whose eyes saw Yahweh's deeds, not to their children (2, 7). He contrasts Egypt's foot-watered fields with the land that drinks rain, and warns that a deceived heart serving other gods would shut the sky (10–17).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Moses turns from recalled restoration to the question of what Yahweh requires (12–13). He commands wholehearted service, a responsive heart, and love for the foreigner, grounding the latter in Israel’s remembered Egyptian experience (16–19).
@@ -1603,6 +1609,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

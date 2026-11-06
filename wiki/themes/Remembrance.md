@@ -192,6 +192,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Moses addresses those who saw, not their children who did not (2, 7). Signs in Egypt, the sea, the wilderness, and the fate of Dathan and Abiram are listed as the content of what must be known "this day" (2–6).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Israel’s former foreignness in Egypt becomes the reason to love foreigners (19). Seen divine deeds and the growth from seventy to a multitude furnish the reasons for praise (21–22). Remembering produces care, not only gratitude.
@@ -575,6 +581,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

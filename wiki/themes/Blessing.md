@@ -44,6 +44,12 @@ costly.
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Without using the word, the unit lays out a blessing: rain in season, grain, wine, oil, grass for livestock, and fullness (14–15). The next unit names blessing and curse directly (11:26–28).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Blessing follows listening (12). It is concrete: love, multiplication, the fruit of body and ground,
@@ -413,6 +419,8 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

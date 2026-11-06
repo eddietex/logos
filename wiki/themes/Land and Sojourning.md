@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+The promised land is defined against Egypt: a land of hills and valleys that drinks the rain of the sky, cared for by Yahweh, his eyes on it all year (10–12). Long life there depends on obedience (8–9, 17).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Remembered foreignness in Egypt grounds Israel’s obligation to love the foreigner (19). Food and clothing in verse 18 make the ethic material, extending the prohibitions of Exodus 22:21 and 23:9 and the love command of Leviticus 19:34.
@@ -625,6 +631,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

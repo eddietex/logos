@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Named with Dathan as sons of Eliab, son of Reuben, swallowed with households and tents (6). Deuteronomy recalls the Reubenite pair without Korah; the passage gives no reason for the omission.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### The second census — Numbers 26:1–65
 
 Named with Dathan as Eliab’s son and a rebel swallowed by the earth (9–10); the account remembers
@@ -24,6 +30,8 @@ rebels (12–14, 27–33). No distinct speech or independent motive is assigned 
 - Numbers 16:1–40 — [[The Rebellion of Korah]].
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[The Second Census]] — Numbers 26:1–65.
 - [[The Rebellion of Korah]] — Numbers 16:1–40.

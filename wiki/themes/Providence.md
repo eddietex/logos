@@ -70,6 +70,12 @@ evidence of it.
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+"A land which Yahweh your God cares for. Yahweh your God’s eyes are always on it, from the beginning of the year even to the end of the year" (12). Providence here is seasonal and agricultural, and conditional on Israel's loyalty.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Before Joseph: providence with the machinery showing
 
 Genesis's earlier books are not shy about the mechanism.
@@ -414,6 +420,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

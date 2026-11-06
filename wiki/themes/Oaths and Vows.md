@@ -47,6 +47,12 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Long days in the land are promised in the land "which Yahweh swore to your fathers to give to them and to their offspring" (9). The oath is the frame for the conditional blessing that follows.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Swearing by Yahweh’s name stands with fearing, serving, and clinging to him (20). The verse concerns covenant allegiance; it neither narrates a particular oath nor institutes a new vow procedure.
@@ -386,6 +392,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

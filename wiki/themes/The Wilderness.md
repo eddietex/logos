@@ -113,6 +113,12 @@ This page opened with Numbers, whose Hebrew name is the word itself.
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+"What he did to you in the wilderness, until you came to this place" (5) sums up the journey between the sea and the earth swallowing the rebels. The wilderness is part of the remembered chastisement and care.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Peor overlooks the desert (23:28), and Balaam turns toward the wilderness to see Israel’s tribal
@@ -222,6 +228,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

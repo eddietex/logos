@@ -45,6 +45,12 @@ foreign state.**
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Plenty and drought come as one conditional. Former and latter rain bring grain, new wine, oil, and grass, so "you shall eat and be full" (14–15); a shut sky means no rain and no fruit (17).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Famine as announced covenant sanction: seed eaten by enemies, sky like iron, a land that will not
@@ -201,6 +207,8 @@ The reversal of Exodus 16. There, hunger is met with a measured portion, and *he
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

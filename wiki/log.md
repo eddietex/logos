@@ -22846,3 +22846,33 @@ Raw files, canonical workflow instructions, and controller files were unchanged.
 Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
 not-yet-started book targets. Frontmatter counts and the book queue agree; git diff --check
 passes. No unresolved operational issue.
+
+## [2026-11-06] ingest | Deuteronomy 11.1-17 — Remember His Deeds and Guard Your Hearts
+
+Ingested exactly the planned unit in auto mode, by Claude, retaining its boundary. Created the
+passage page and one connection,
+[[Watered with Your Foot - Egypt and the Land That Drinks the Rain]], and revised 39 existing
+pages including this log: Deuteronomy, seven people, two places, fourteen themes, three existing
+connections, two earlier passage pages (Cross-references backlinks), and eight index/dashboard
+pages. Deuteronomy is now 27 / 69; counts by frontmatter type are 352 passages, 257 people,
+219 places, 87 themes, and 733 connections.
+
+Judgment calls: no page for the land itself, the sky, or "the children" (collective references);
+Pharaoh filed as the existing Pharaoh (of the Exodus) page. Recorded, without explaining, that
+Deuteronomy 11:6 names Dathan and Abiram but not Korah, alongside the different emphases of
+Numbers 16:32, 35 and 26:10. Recorded the unresolved tension between addressing eyewitnesses
+(11:2, 7) and the death of "the generation of the men of war" (2:14–16). "Watered it with your
+foot" is marked as an interpretive crux, with irrigation offered only as a common reading. The
+pairing of Numbers 16:13 (Egypt as "milk and honey") with Deuteronomy 11:9–10 is flagged as the
+wiki's observation, not a claim the text makes. The unmarked shift from Moses' "I command" to a
+divine "I will give" (11:13–15) is noted and left unresolved. The gods of 11:16 are not identified
+with storm deities.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 11:1–17. Comparisons verified in
+stored WEB Deuteronomy 2:14–16, 6:5–9, 8:5, 11:19, 26–28, 28:12, 23–24 (chapter 28 not yet
+ingested); Genesis 13:10; Numbers 16:1, 12–14, 27–35, 26:5–11; Leviticus 26:4, 19. 1 Kings 17–18
+is named by reference only, not quoted. No assertion about exact Hebrew wording was made. Raw
+files, canonical workflow instructions, and controller files were unchanged.
+
+Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
+not-yet-started book targets. Frontmatter counts and the book queue agree.

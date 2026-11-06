@@ -255,6 +255,12 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Judgment is recalled outward and inward: on Egypt's army at the sea (4) and on Dathan and Abiram "in the middle of all Israel" (6). It is threatened forward as anger that shuts the sky, so that Israel perishes quickly from the good land (17).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Yahweh’s justice accepts neither personal favoritism nor reward (17) and defends the fatherless and widow (18). His choice of Israel (15) must therefore be distinguished from corrupt partiality in judgment.
@@ -866,6 +872,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

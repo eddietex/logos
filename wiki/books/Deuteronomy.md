@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Remember His Deeds and Guard Your Hearts]] (11:1–17) grounds obedience in what the assembly saw,
+from Egypt's signs to the earth swallowing Dathan and Abiram. The land drinks the sky's rain, unlike
+foot-watered Egypt, so loyalty or a deceived heart decides between harvest and a shut sky.
+
 [[What Yahweh Requires of Israel]] (10:12–22) joins wholehearted obedience and heart-circumcision
 to impartial justice and love for foreigners. Remembered Egypt grounds care; growth from seventy
 to a multitude grounds praise. Election does not authorize judicial favoritism.
@@ -180,7 +184,7 @@ Plan drawn 2026-11-05 from the stored WEB. **26 / 69 pericopes ingested.**
 - [x] [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29
 - [x] [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11
 - [x] [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22
-- [ ] Remember His Deeds and Guard Your Hearts — Deuteronomy 11:1–17
+- [x] [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
 - [ ] Set These Words Before You — Deuteronomy 11:18–32
 - [ ] The Place Yahweh Will Choose — Deuteronomy 12:1–28
 - [ ] Do Not Follow Other Gods — Deuteronomy 12:29–13:18

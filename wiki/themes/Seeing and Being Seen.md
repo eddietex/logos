@@ -63,6 +63,12 @@ without unrestricted access. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Two kinds of seeing frame the unit. Israel's eyes "have seen all of Yahweh’s great work" (7), and Yahweh's eyes are always on the land (12). The children who "have not seen" are named and set aside (2).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Two kinds of seeing frame the unit: Moses is to *see the land* (12–13), and Joshua is commissioned
@@ -386,6 +392,8 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Yahweh's signs in Egypt, the sea, the wilderness care, and the earth opening under Dathan and Abiram are called his chastisement and great work (2–7). The land he gives drinks rain from the sky; his eyes are on it all year, and he gives or withholds the early and late rain according to Israel's loyalty (11–17).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Yahweh owns heaven and earth yet loves and chooses the fathers’ descendants (14–15). His supremacy is expressed in impartial justice, refusal of bribes, and food and clothing for the foreigner (17–18); election must not be confused with judicial favoritism.
@@ -3542,6 +3548,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

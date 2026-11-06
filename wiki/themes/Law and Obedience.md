@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Keeping "all the commandment" is tied to strength, possession, and long days in the land (8–9). Listening brings seasonal rain and harvest; turning to other gods brings drought and loss of the land (13–17).
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Fear, walking in God’s ways, love, wholehearted service, and keeping the commands belong to one answer about what God requires, explicitly for Israel’s good (12–13). The requirement reaches both the heart and treatment of foreigners (16–19).
@@ -1182,6 +1188,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

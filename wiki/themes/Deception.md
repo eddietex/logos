@@ -46,6 +46,12 @@ else. See [[The Fall]].
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+"Be careful, lest your heart be deceived" (16) places deception within the heart, leading to the worship of other gods. No deceiver is named; the danger is self-deception amid the plenty of a rain-fed harvest.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 False testimony against a neighbor is prohibited (20). The command names the person harmed by the testimony; it is not merely a warning about the speaker’s reputation.
@@ -350,6 +356,8 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

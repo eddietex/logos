@@ -119,6 +119,12 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Turning to "serve other gods, and worship them" (16) is the act that shuts the sky (17). The passage does not name the gods or link them to storm or fertility cults.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Serving the nations' gods would be *a snare* (16). Their engraved images are to be burned, and the
@@ -348,6 +354,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

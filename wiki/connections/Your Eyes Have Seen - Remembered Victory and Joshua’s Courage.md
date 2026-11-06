@@ -6,6 +6,7 @@ tags: [connection]
 # Your Eyes Have Seen - Remembered Victory and Joshua’s Courage
 
 ## Passages involved
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22
@@ -22,6 +23,13 @@ This is a recurring argument within Moses’ retrospect, not a prediction indepe
 by the wording of a later verse. Deuteronomy 3:21–22 records the exhortation, not Joshua’s spoken
 answer or a description of his private emotions. The preceding call for the eastern warriors to
 cross also prevents divine warfare from being read as exemption from human service (3:18–20).
+
+Deuteronomy 11:2–7 extends the argument from victories in war to the whole sequence: signs in
+Egypt, the sea, the wilderness, and the earth opening under Dathan and Abiram. Moses insists he
+speaks to those whose "eyes have seen all of Yahweh’s great work" (7), not to their children
+(2). Here the seen deeds ground obedience and possession of the land (8), not only courage in
+battle. Judgment on rebels inside Israel is counted among them, so what was seen is a warning
+as well as a reassurance.
 
 Sources: stored WEB Deuteronomy 1:19–33 and 3:1–22. No source-language assertion is made.
 

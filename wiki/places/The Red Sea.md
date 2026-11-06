@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Moses recalls Yahweh making the Red Sea overflow Egypt's army, horses, and chariots as they pursued Israel (4). The sea is a memory used to argue for obedience.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 The journey turns toward the wilderness by the Red Sea road before the long circuit of Seir (1).
@@ -71,6 +77,8 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

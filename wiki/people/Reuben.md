@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+The tribal ancestor appears in Dathan and Abiram's lineage (6). Their judgment is one of the deeds the assembly is told it has seen.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Bezer, in the wilderness and plain country, is designated for the Reubenites (43).
@@ -227,6 +233,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

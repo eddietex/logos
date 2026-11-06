@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
+
+Recalled as "Pharaoh the king of Egypt", against whom and against whose land Yahweh did his signs and works (3). His army, horses, and chariots are remembered as overwhelmed by the Red Sea (4). He is cited only as a past witness of Yahweh's power.
+
+See [[Remember His Deeds and Guard Your Hearts]]. Source: stored WEB Deuteronomy 11:1–17.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Israel must remember well what Yahweh did to Pharaoh and to all Egypt (18). The defeat of Pharaoh
@@ -236,6 +242,8 @@ See [[The Song of the Sea]].
   the Song, and not said to die — Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
+
+- [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
