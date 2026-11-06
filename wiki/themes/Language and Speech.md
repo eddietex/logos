@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+*Out of heaven he made you to hear his voice, that he might instruct you* (36). The voice is given for teaching, and its hearers lived (33).
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 The ban rests on a voice with no form (15). Exile's gods *neither see, nor hear* (28), and the return is to *listen to his voice* (30): the unit begins and ends with Yahweh's voice.
@@ -637,6 +643,7 @@ See [[Vows of Men and Women]] and
 
 ## Key passages
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

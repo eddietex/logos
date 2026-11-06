@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Moses asks whether any people has heard *the voice of God speaking out of the middle of the fire* and lived (33), or whether any god has taken a nation for himself from within another *by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors* (34). The deeds were shown *so that you might know that Yahweh is God. There is no one else besides him* (35). His voice came from heaven and his fire was seen on earth (36). He loved the fathers and chose their offspring (37), and is confessed as *God in heaven above and on the earth beneath. There is no one else* (39). Whether the confession denies that other gods exist or denies that any is like him is debated; see [[There Is No One Else - Deuteronomy 4.35-39, Isaiah 45, and Mark 12.32]].
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Yahweh spoke at Horeb from the fire with no form seen (15), and so forbids any image of human, beast, bird, creeping thing, or fish, and the worship of the sun, moon, and stars he has *allotted to all the peoples* (16–19). He took Israel from *the iron furnace* to be his inheritance (20), swore that Moses would not cross (21), and is *a devouring fire, a jealous God* (24). He will scatter an idolatrous Israel (26–27), yet be found by those who seek him with all heart and soul, and as *a merciful God* will not forget the covenant with the fathers (29–31). Fire and mercy are both predicated of him in the same speech; the passage does not reconcile them in so many words.
@@ -3449,6 +3455,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

@@ -105,6 +105,7 @@ Source: stored WEB, Deuteronomy 4:15–31. Full unit copied verbatim.
 - [[Language and Speech]] — From the voice at Horeb (15) to gods that cannot hear (28) to Israel listening *to his voice* again (30).
 
 ## Cross-references
+- [[Has Any People Heard God and Lived]] — the following unit, 4:32–40; the God who spoke and is the only one there is, after gods that cannot hear.
 - [[Hear the Statutes and Remember Horeb]] — the preceding unit; 4:12's *you saw no form* is the premise here.
 - [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — Horeb told and retold; this unit draws the image ban from the formless voice.
 - [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]] — the forbidden likenesses and the order of creation.

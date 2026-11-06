@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Two confessions frame the close of the first address: *Yahweh is God. There is no one else besides him* (35), and *Yahweh himself is God in heaven above and on the earth beneath. There is no one else* (39). They go further in English than Exodus 15:11's *Who is like you … among the gods?* See [[There Is No One Else - Deuteronomy 4.35-39, Isaiah 45, and Mark 12.32]].
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 *A devouring fire, a jealous God* (24) and *a merciful God* (31) are said of Yahweh in one speech. Exodus 20:5 grounds the image commandment in *a jealous God*, and Exodus 34:14 makes *Jealous* a name; Exodus 34:6 begins *a merciful and gracious God*. Hebrews 12:29's WEB has *consuming fire* where Deuteronomy 4:24's has *devouring fire*.
@@ -245,6 +251,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; *there is no one else*
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

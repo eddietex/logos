@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+*Did a people ever hear the voice of God speaking out of the middle of the fire, as you have heard, and live?* (33). Survival of the hearing is the wonder; at 5:24–26 it becomes the people's reason for asking for a mediator. Keeping the statutes is the way to *prolong your days in the land* (40).
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *That you may live* (1): obedience is tied to life and entry into the land. Those who followed Baal Peor were destroyed; those who held fast to Yahweh are *all alive today* (3–4).
@@ -791,6 +797,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; heard and lived
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

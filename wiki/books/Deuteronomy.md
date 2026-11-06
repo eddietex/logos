@@ -73,6 +73,12 @@ his own sworn exclusion between the warnings. Yahweh is a devouring fire and a j
 long-settled, image-making Israel will be scattered to serve gods that cannot hear, and from there will
 seek and find a merciful God who does not forget the covenant.
 
+[[Has Any People Heard God and Lived]] (4:32–40) closes the first address. Moses challenges Israel to
+search all history since creation for anything like Horeb and the exodus: a people that heard God from
+the fire and lived, a nation taken out of another by signs and a mighty hand. It was shown so that
+Israel would know *there is no one else*. Yahweh's love for the fathers is named for the first time as
+the reason for the choice, and the confession leads straight to the charge to keep the statutes.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -90,7 +96,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **12 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **13 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -104,7 +110,7 @@ Plan drawn 2026-11-05 from the stored WEB. **12 / 69 pericopes ingested.**
 - [x] [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29
 - [x] [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14
 - [x] [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31
-- [ ] Has Any People Heard God and Lived — Deuteronomy 4:32–40
+- [x] [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40
 - [ ] Three Cities Beyond the Jordan — Deuteronomy 4:41–43
 - [ ] The Setting of the Covenant Instruction — Deuteronomy 4:44–49
 - [ ] The Ten Commandments Recounted — Deuteronomy 5:1–22
@@ -166,6 +172,7 @@ Plan drawn 2026-11-05 from the stored WEB. **12 / 69 pericopes ingested.**
 - [[Covenant]]
 - [[Idolatry]]
 - [[Law and Obedience]]
+- [[Love]]
 - [[Mediation and Advocacy]]
 - [[Remembrance]]
 - [[The Wilderness]]

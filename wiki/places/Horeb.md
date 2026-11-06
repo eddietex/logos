@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Not named, but the scene of verses 33 and 36: a people heard *the voice of God speaking out of the middle of the fire* and lived. Verse 36 adds that the voice came *out of heaven* while the fire was seen *on earth*.
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 The day Yahweh spoke at Horeb out of the fire, when Israel *saw no kind of form*, is the stated ground of the prohibition of images (15). The calf made at the same mountain (Exodus 32) is the obvious instance of what the verse forbids, though this unit does not name it.
@@ -651,6 +657,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; the voice heard and survived
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; the day of the assembly recalled.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the starting point of the march to Kadesh.

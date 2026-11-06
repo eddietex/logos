@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+The exodus remembered as evidence: *by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors … before your eyes* (34). Its purpose is knowledge: *It was shown to you so that you might know that Yahweh is God* (35). Deuteronomy 26:8 gives nearly the same list.
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### The budding rod — Numbers 17:1–13
 
 The overnight flowering and fruiting of Aaron’s rod confirms the announced choice (5, 8).
@@ -53,8 +59,9 @@ one.
   at the lice, *"This is God's finger"*; the flies are the first sign that distinguishes Israel from
   Egypt. See [[Water Turned to Blood]] and [[Frogs, Lice, and Flies]].
 - *(ahead)* **Exodus 9–12** — the remaining plagues.
-- *(ahead)* **Deuteronomy 4:34; 6:22** — *"by signs, by wonders, by war, by a mighty hand"*: the exodus
-  remembered as the definitive sign.
+- **Deuteronomy 4:34; 6:22** — *"by signs, by wonders, by war, by a mighty hand"*: the exodus
+  remembered as the definitive sign, *shown to you so that you might know that Yahweh is God* (4:35).
+  See [[Has Any People Heard God and Lived]]; 6:22 is still ahead.
 - *(ahead)* **Deuteronomy 13:1–3** — a sign that comes true from a prophet who leads to other gods is
   not to be believed.
 - *(ahead)* **Acts 2:22** — Jesus *"approved by God to you by mighty works and wonders and signs"*.
@@ -89,6 +96,7 @@ See [[The People Refuse the Land]].
 
 ## Key passages
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; the exodus *shown to you so that you might know*
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; Unprecedented marvels promised as covenant renewal begins.

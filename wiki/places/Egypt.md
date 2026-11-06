@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Recalled as the place where Yahweh took *a nation for himself from among another nation*, with signs, wonders, war, a mighty hand, and an outstretched arm, *before your eyes* (34), and from which he brought Israel out *with his presence, with his great power* (37).
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Egypt is *the iron furnace* out of which Yahweh took Israel to be *a people of inheritance* (20). 1 Kings 8:51 repeats the phrase (WEB, verified via bible-api.com 2026-11-05).
@@ -298,6 +304,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the exodus as alleged hatred, and as proof of Yahweh fighting for them.
 - [[The Stages of the Journey]] — Numbers 33:1–49.

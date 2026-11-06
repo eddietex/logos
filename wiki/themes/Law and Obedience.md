@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Knowing that Yahweh alone is God (39) is followed at once by *You shall keep his statutes, and his commandments* (40). Chapter 4 began with *listen to the statutes* (4:1) and ends with *keep his statutes*.
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 Hearing and doing the statutes is the condition of life and of possessing the land (1, 14). The command may not be added to or reduced (2). Keeping it is Israel's wisdom before the nations (6), and the law is called more righteous than any great nation's (8). The covenant declared from the fire is identified with the ten commandments; Moses teaches the statutes and ordinances (13–14).
@@ -1087,6 +1093,7 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

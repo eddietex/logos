@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Moses closes the first address of Deuteronomy, begun at 1:6, with a rhetorical search of all history since creation and of the whole sky (32). He states the confession twice, *There is no one else* (35, 39), and ends with the charge to keep the statutes so that Israel may prolong its days in the land (40).
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Moses draws the image ban from the memory of Horeb (15–19) and reports, for the third time in Deuteronomy, Yahweh's anger with him *for your sakes* (21; compare 1:37, 3:26), adding that Yahweh *swore* it. *I must die in this land* (22) is his first plain statement that he will die east of the Jordan. He calls heaven and earth to witness against a future idolatrous Israel (26) and promises them a return to Yahweh from exile (29–31).
@@ -1498,6 +1504,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

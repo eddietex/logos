@@ -12,6 +12,7 @@ tags: [connection]
 - [[The Covenant Renewed]] — Exodus 34:1, 27–28: the second tablets and *the ten commandments*.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:9–14: the day at Horeb recalled for the sons.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–24: the formless voice made the ground of the image ban.
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:33, 36: a people heard the voice from the fire and lived; the voice *out of heaven*, the fire *on earth*.
 - Deuteronomy 5:22–24 — the same scene recalled before the people's request for a mediator; stored WEB, not yet ingested.
 
 ## Analysis
@@ -55,6 +56,12 @@ for you saw no kind of form on the day that Yahweh spoke to you in Horeb out of 
 lest you corrupt yourselves, and make yourself a carved image* (4:15–16). Exodus 20:22–23 places the
 seeing and the ban side by side; Deuteronomy 4:15 joins them with *for* and *lest*. See also
 [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
+
+**Heard and lived, ingested.** [[Has Any People Heard God and Lived]] turns the memory into an argument: *Did a people ever hear the
+voice of God speaking out of the middle of the fire, as you have heard, and live?* (4:33). Verse 36
+splits the scene between heaven and earth, *Out of heaven he made you to hear his voice … On earth he
+made you to see his great fire*. That matches Exodus 20:22's *I have talked with you from heaven*, said
+at the mountain.
 
 Sources: stored WEB Exodus 19, 20, 31, 34 and Deuteronomy 4, 5, 10 in `raw/bible/`. No Hebrew wording
 is asserted.

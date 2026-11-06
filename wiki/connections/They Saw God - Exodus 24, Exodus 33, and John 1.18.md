@@ -16,6 +16,8 @@ tags: [connection]
 - **Exodus 24:10–11** — *"They saw the God of Israel … He didn't lay his hand on the nobles of the
   children of Israel. They saw God, and ate and drank"* — [[The Blood of the Covenant]]
 - **Exodus 33:20** — *"You cannot see my face, for man may not see me and live"* — [[Show Me Your Glory]]
+- **Deuteronomy 4:33** — *"Did a people ever hear the voice of God speaking out of the middle of the fire, as
+  you have heard, and live?"* — [[Has Any People Heard God and Lived]]
 - **Deuteronomy 5:4** — *"Yahweh spoke with you face to face on the mountain out of the middle of the
   fire"* (WEB; *not yet ingested*)
 - **Judges 13:22** — *"We shall surely die, because we have seen God"* (WEB; *not yet ingested*)
@@ -70,6 +72,14 @@ The face Israel sees in Exodus 34:30, 35 is Moses' face, shining after divine co
 This does not assert that Moses saw the divine face or supply a solution to the earlier tension.
 The distinction between seeing the mediator and seeing God is essential here. See
 [[The Shining Face of Moses]] (WEB checked in local Exodus).
+
+### Heard, not seen — Deuteronomy 4:33
+
+Deuteronomy 4:33 makes survival the wonder, but of hearing rather than seeing: *Did a people ever hear
+the voice of God speaking out of the middle of the fire, as you have heard, and live?* Deuteronomy 4:12
+had already said Israel *saw no form*. Deuteronomy 5:4's *face to face* and 5:24's *We have seen today
+that God does speak with man, and he lives* (stored WEB, not yet ingested) bring back the language of
+sight, and the tension this page records stays in place. See [[Has Any People Heard God and Lived]].
 
 ## Significance
 

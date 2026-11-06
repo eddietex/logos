@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+The positive answer to the image ban. Having warned of gods that *neither see, nor hear* (4:28), Moses names the God whose voice Israel heard and whose deeds it saw, and of whom *there is no one else* (35, 39). Deuteronomy still speaks of *the gods of the peoples* (6:14); the page records the confession without deciding whether it denies that such gods exist.
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Deuteronomy's fullest statement of the image ban. Because Israel saw no form at Horeb (15), it may make no carved likeness of male or female, land animal, winged bird, creeping thing, or fish (16–18), nor worship the sun, moon, stars, and *army of the sky* (19). Forgetting the covenant and making an image are the same act (23). The prediction is that long-settled Israel will make images, be scattered, and serve gods of wood and stone *which neither see, nor hear, nor eat, nor smell* (25–28). The unit covers both images of Yahweh and the worship of other beings without separating them. See also [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
@@ -296,6 +302,7 @@ texts, 2026-10-25.
 
 ## Key passages
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.

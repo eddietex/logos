@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Yahweh *brought you out with his presence, with his great power, out of Egypt* (37), taking a nation *from among another nation* (34).
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 *Yahweh has taken you, and brought you out of the iron furnace, out of Egypt, to be to him a people of inheritance* (20). The exodus is cast as the purchase of an inheritance, the ground for Israel's not sharing the nations' worship.
@@ -256,6 +262,7 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 

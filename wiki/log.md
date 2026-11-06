@@ -22488,3 +22488,31 @@ Link checks passed with 57 not-yet-started book pages as the expected baseline.
 No unresolved link or source-verification issue. The Connections Index I-N row for
 [[The Lion of Judah - Genesis 49.9 and Revelation 5.5]] has a malformed type cell from an earlier pass;
 left for a lint.
+
+## [2026-11-05] ingest | Deuteronomy 4.32-40 — Has Any People Heard God and Lived
+
+Unattended run. Created [[Has Any People Heard God and Lived]] (Deuteronomy 4:32–40), the close of
+Moses' first address: the search of all history and space, the voice heard from the fire, the nation
+taken from another nation by signs and a mighty hand, the twice-stated *There is no one else*, the
+fathers loved and their offspring chosen, and the charge to keep the statutes. New connection:
+[[There Is No One Else - Deuteronomy 4.35-39, Isaiah 45, and Mark 12.32]].
+Revised two people (God, Moses), two places (Egypt, Horeb), twelve themes (The Names of God, Idolatry,
+Signs and Wonders, Call and Election, Love, Life and Death, Language and Speech, Creation, The Nations,
+Redemption, Land and Sojourning, Law and Obedience), two existing connections (The Voice Out of the
+Fire, They Saw God), the preceding passage, the book, the books index, the themes, places, and
+People F-M indexes, Connections Index T-Z, the dashboard, and this log. Deuteronomy is now 13 / 69
+pericopes; totals are 338 passages, 257 people, 213 places, 87 themes, and 727 connections.
+
+Judgment calls: the planned boundary and title are kept. Horeb is not named in these verses; it is
+linked because verses 33 and 36 recall its scene. *There is no one else* (35, 39) is recorded beside
+Deuteronomy's own references to the gods of the peoples (4:28; 6:14), and the debate over whether it
+denies that other gods exist is left open. Verse 40's *forever* beside 4:26's warning is noted as two
+conditions stated side by side, not flagged as a contradiction. The WEB's capital *God* in 4:34 (*has
+God tried*) is noted as an English reading question; no Hebrew claim is made. Love is added to the
+book's key themes, since 4:37 is the first occurrence of *love* in the stored WEB Deuteronomy. The
+Signs and Wonders *(ahead)* entry for Deuteronomy 4:34 is now marked ingested.
+
+Quotations were copied from stored WEB Deuteronomy 4, 5, 6, 7, 26, 32; Genesis 32; and Exodus 6, 15,
+20, 33. Isaiah 45:5–6, 18, 21–22 and Mark 12:29–33 were verified against bible-api.com's WEB on
+2026-11-05. No Hebrew or Greek wording is asserted on the new pages. No raw-text edit or harness change
+was needed.

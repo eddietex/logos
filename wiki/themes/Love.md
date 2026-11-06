@@ -24,6 +24,12 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Heard and lived — Deuteronomy 4:32–40
+
+*Because he loved your fathers, therefore he chose their offspring after them* (37). Deuteronomy first names Yahweh's love here, as the reason for the election and the exodus. 7:7–8 (stored WEB, not yet ingested) says the same: *because Yahweh loves you*.
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 The people say *because Yahweh hated us* (27), the noun *śinʾâ* in the Masoretic text. Moses answers with the image of a father: Yahweh *bore you, as a man does bear his son* (31). The word *love* does not occur in the unit; the father image answers the accusation of hatred. See [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]].
@@ -481,6 +487,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; Yahweh *loved your fathers*
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *hated us* answered by a father who carried his son.
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

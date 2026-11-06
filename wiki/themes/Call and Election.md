@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+Yahweh took *a nation for himself from among another nation* (34), and *because he loved your fathers, therefore he chose their offspring after them* (37). It is the first time Deuteronomy gives love as the reason for the choice; 7:7–8 will repeat it.
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Joshua’s appointment is attached to a defined task: crossing before the people and causing them to
@@ -181,6 +187,7 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; love the ground of the choice
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Heard and lived — Deuteronomy 4:32–40
+
+No nation has heard God and lived, and no god has taken a nation out of another nation (33–34). Nations *greater and mightier than you* are driven out so that Israel can have their land (38).
+
+See [[Has Any People Heard God and Lived]]. Source: stored WEB Deuteronomy 4:32–40.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 The sun, moon, and stars are what Yahweh *has allotted to all the peoples under the whole sky* (19), set against Israel as his *people of inheritance* (20); compare Deuteronomy 32:8–9 (stored WEB, not yet ingested). Whether the allotment means the lights as lights or a worship permitted to the nations is not settled by the verse. Exile will scatter Israel *among the peoples* and leave it *few in number among the nations* (27).
@@ -270,6 +276,7 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
