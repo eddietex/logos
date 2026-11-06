@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Yahweh hears the refusal and swears exclusion, yet promises the land to Caleb and the children
+(34–39). His warning that he is not among the attackers is followed by refusal to hear their tears
+(42–45). Hearing in verse 34 and not hearing in verse 45 frame the judgment.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 Moses recalls Yahweh as the one who *gives* the land (20, 25), *goes before* Israel and *will fight for you* (30), *bore you, as a man does bear his son* (31), and searched out each camp *in fire by night … and in the cloud by day* (33). The people say the opposite: *because Yahweh hated us, he has brought us out of the land of Egypt … to destroy us* (27). *In this thing you didn't believe Yahweh your God* (32).
@@ -3391,6 +3399,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the father who carried Israel, accused of hating it.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; multiplier of Israel and owner of *the judgment* the courts give.

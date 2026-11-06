@@ -160,6 +160,8 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46; the sentence, succession, and failed ascent recalled.
+
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:26–33, the refusal retold: *because Yahweh hated us*, and *in this thing you didn't believe*.
 - [[The Second Census]] — Numbers 26; the later census now ingested, preserving judgment and surviving exceptions.
 

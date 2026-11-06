@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Joshua is promised entry and charged with bringing Israel into its inheritance (38). Moses must
+encourage the successor who will enter where he cannot. This anticipates the leadership transition
+narrated in Numbers 27:12–23; Deuteronomy does not repeat that commissioning ceremony here.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The borders of the land — Numbers 34:1–29
 
 Joshua is named with Eleazar to divide the land (17). The successor commissioned in Numbers 27 now receives a specific settlement responsibility.
@@ -133,6 +141,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

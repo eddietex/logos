@@ -87,6 +87,10 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[Moses Excluded - Numbers 20 and Deuteronomy 1]] — the differing explanations of Moses’ exclusion.
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46; the sentence, succession, and failed ascent recalled.
+
 - [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
 
 - [[Meribah's Sentence and Aaron's Death]] — the Meribah verdict now recalled for Moses.

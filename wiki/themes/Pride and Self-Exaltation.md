@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The ascent is explicitly presumptuous in the stored WEB (41, 43). Courage becomes rebellion when it
+refuses the command to stop.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 Human beings lifting themselves up — making a name, ascending, securing a position that is not
 theirs — and God bringing them down. It is one of the most consistent moral patterns in Scripture,
 and its founding text does not use the word.
@@ -283,6 +290,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The people answer a sentence by going up against the word. The verb, *wayyaʿpilû*, occurs only here by the tags, and Deuteronomy 1:43 has *zîd*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

@@ -99,6 +99,8 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[The Fear of God]] — *"Don't be afraid"* (21, 29): the fear of the peoples displaces trust in Yahweh.
 
 ## Cross-references
+
+- [[The Sentence and the Presumptuous Ascent]] — the sentence and failed ascent that follow (1:34–46).
 - [[Who Sent the Spies - Numbers 13 and Deuteronomy 1]] — the two tellings of who began it, set out in a table.
 - [[Carried as a Man Carries His Son - Numbers 11.12 and Deuteronomy 1.31]] — the burden Moses could not *bear* (1:9, 12) and the son Yahweh *bore* (1:31).
 - [[The Twelve Spies]] — Numbers 13, the first telling.

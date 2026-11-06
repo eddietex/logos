@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Moses includes his own exclusion within the recollection of the sentence, saying Yahweh was angry
+with him for the people’s sakes (37). This is a tension with Numbers 20:12, which grounds exclusion
+in Moses and Aaron’s failure to believe and sanctify Yahweh at Meribah. Deuteronomy 1 does not
+narrate the rock incident or explain the chronology. He must encourage Joshua and relay the
+prohibition on battle (38, 42–43).
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 He recalls telling Israel at Kadesh Barnea to go up and not be afraid (20–21), approving their plan to send men ahead and taking twelve himself (23), and answering their fear with what they had seen: Yahweh fighting for them in Egypt, carrying them *as a man does bear his son*, and going before them in fire and cloud (29–33). Numbers 13:1–2 has Yahweh command the mission; here the plan *pleased* Moses. The verb he used for the people he could not *bear* alone (1:9, 12) is the one he now uses for Yahweh's carrying (31).
@@ -1437,6 +1447,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the refusal at Kadesh retold, and his answer to the people's fear.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges recalled as his own proposal, with the people's consent.

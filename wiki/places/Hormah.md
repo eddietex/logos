@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Deuteronomy 1:44 recalls the rout reaching Hormah, locating the beating in Seir and naming Amorites
+as the pursuers. Numbers 14:45 names Amalekites and Canaanites instead; the different enemy
+designations remain explicit.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### Arad and Hormah — Numbers 21:1–3
 
 Numbers 21:3 now supplies the ingested naming account: Israel destroys the Canaanites
@@ -33,10 +41,11 @@ checked.
 
 ## Appears in
 
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
+
 - [[Arad and Hormah]] — Numbers 21:1–3.
 
 - [[The Defeat at Hormah]] — Numbers 14:45; how far Israel was beaten down
-- Deuteronomy 1:44 — *in Seir, even to Hormah* *(WEB checked, not yet ingested)*
 - Joshua 12:14; 15:30; 19:4 — the king and the town lists *(WEB checked, not yet ingested)*
 - Judges 1:17 — Zephath renamed *(WEB checked, not yet ingested)*
 - 1 Samuel 30:30; 1 Chronicles 4:30 — David's gifts, and Simeon *(WEB checked, not yet ingested)*

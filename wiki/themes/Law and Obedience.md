@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Refusing to ascend when commanded (1:26) and ascending when forbidden (1:42–43) are both rebellion.
+Appealing to the earlier command in 1:41 does not make the new ascent obedient.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Moses speaks according to Yahweh’s command and begins to declare the law (3, 5). The book presents
@@ -1045,6 +1052,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

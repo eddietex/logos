@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Caleb alone is named as the exception in verse 36, with land promised to him and his children
+because he wholly followed Yahweh. Joshua is also promised entry, separately in verse 38 as the one
+who will lead Israel into its inheritance; Caleb’s exception must not be read as excluding Joshua.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The borders of the land — Numbers 34:1–29
 
 Caleb represents Judah in the allotment commission (19). The faithful spy becomes an administrator of the promised inheritance; this unit does not yet narrate his personal allotment.
@@ -80,6 +88,8 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

@@ -8,9 +8,18 @@ tags: [connection]
 ## Passages involved
 
 - [[The Defeat at Hormah]] — Numbers 14:39–45
-- Deuteronomy 1:41–46 — Moses' retelling *(WEB checked, not yet ingested)*
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 ## Analysis
+
+### Deuteronomy’s sentence and ascent
+
+The full Deuteronomy unit now places the forbidden ascent after the oath and the command to turn
+toward the wilderness (34–40). Confession is followed by preparation for battle, a fresh
+prohibition, and disobedience (41–43). The unanswered weeping and prolonged stay at Kadesh close
+this telling (45–46).
+
+Source for this update: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20.
 
 Moses tells this story a second time on the plains of Moab, to the children of the men who went up.
 The events agree, and the details do not.

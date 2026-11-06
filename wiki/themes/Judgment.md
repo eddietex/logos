@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The exclusion oath distinguishes the condemned generation from Caleb, Joshua, and the children
+(34–39). Confession, military resolve, and tears do not cancel the sentence (41–46).
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 Moses' charge to the first judges: hear cases between brothers and with the resident foreigner, judge righteously, show no partiality, hear small and great alike, fear no man, *for the judgment is God's*, and bring the case too hard to Moses (16–17). See [[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]].
@@ -754,6 +761,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; impartial judges, because *the judgment is God's*.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

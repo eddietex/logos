@@ -9,12 +9,21 @@ tags: [connection]
 
 - [[The Defeat at Hormah]] — Numbers 14:45
 - [[Arad and Hormah]] — Numbers 21:1–3; the vow, victory, and naming.
-- Deuteronomy 1:44 — *in Seir, even to Hormah* *(WEB checked, not yet ingested)*
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - Joshua 12:14; 15:30; 19:4 *(WEB checked, not yet ingested)*
 - Judges 1:16–17 — Zephath *(WEB checked, not yet ingested)*
 - 1 Samuel 30:30; 1 Chronicles 4:30 *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Deuteronomy’s sentence and ascent
+
+Deuteronomy 1:44–46 is now ingested: Amorites pursue Israel like bees, beat them down in Seir as far
+as Hormah, and the people return to weep without being heard. Numbers 14:45 gives Amalekites and
+Canaanites as the enemies. The accounts share the defeat and endpoint but differ in the named
+opponents; this update does not infer an exact route or harmonize the labels.
+
+Source for this update: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20.
 
 **Now ingested: [[Arad and Hormah]].** Numbers 21:1–3 begins with an attack and captives,
 then reports Israel's conditional vow, Yahweh's hearing, and destruction of the people

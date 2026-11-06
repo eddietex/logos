@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Moses tells the generation in Moab the sentence and defeat in the second person. The recollection
+makes the old refusal and the later presumption warnings for the listeners who will inherit.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 Moses argues from what the people remember: the wilderness *which you saw* (19), Egypt *before your eyes* (30), the carrying *where you have seen* (31). The refusal is told to the sons in the second person, as if they had refused.
@@ -482,6 +489,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the argument from what they had seen.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges remembered as Moses' own act.

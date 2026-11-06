@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Yahweh’s oath denying entry to the evil generation stands beside the earlier oath to give the land
+to the fathers (34–35). The children’s entry continues the promise without reversing their parents’
+exclusion.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 Binding yourself with words — and in the Bible, two different acts that English blurs together.
 
 An **oath** (*šebûʿâ*, from the verb *nišbaʿ*) calls God to witness that a statement is true or that
@@ -351,6 +359,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:8; the sworn land as the ground of the command to go in.
 - [[Arad and Hormah]] — Numbers 21:1–3.

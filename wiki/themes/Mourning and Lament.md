@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Weeping follows the failed ascent in Deuteronomy 1:45, whereas Numbers 14:39 reports mourning before
+it. Both details can be retained without collapsing their narrative positions.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### Baal Peor — Numbers 25:1–18
 
 The congregation weeps at the Tent’s door as the man brings the Midianite woman (6). No words of
@@ -214,6 +221,8 @@ treats it as a fault. Verse 39 will have them mourn again, after the sentence, t
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

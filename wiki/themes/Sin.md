@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The people confess that they sinned and then disobey the prohibition against battle (41–43). An
+admission of earlier wrongdoing is followed by a fresh act of rebellion.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The daughters distinguish dying in one's own sin from belonging to Korah's company (3). They do
@@ -681,6 +688,8 @@ who breaks a promise. Moses also calls the two tribes *an increase of sinful men
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.

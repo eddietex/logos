@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The people weep before Yahweh after defeat, but he does not listen (45). The text reports no words
+of a prayer and does not make this particular refusal a rule that every later cry will be rejected.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The brass serpent — Numbers 21:4–9
 
 The people ask Moses to pray for the serpents to be taken away. His prayer is reported without its words; the answer provides life for the bitten, without stating that the snakes disappear (7–9).
@@ -280,6 +287,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses' petition for a successor, answered at once.
 

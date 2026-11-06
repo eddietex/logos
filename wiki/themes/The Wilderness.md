@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The sentence redirects Israel toward the wilderness by the Red Sea road (40), and the account ends
+with an extended stay at Kadesh (46).
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 Israel crossed *all that great and terrible wilderness which you saw* (19). Moses makes the wilderness evidence: there Yahweh carried them *as a man does bear his son* (31) and went before them in fire and cloud to find each camp (33).
@@ -191,6 +198,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the *great and terrible wilderness* as the place Yahweh carried them.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.

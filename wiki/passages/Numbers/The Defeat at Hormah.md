@@ -91,6 +91,8 @@ does not say what they did.
 
 ## Cross-references
 
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46; the sentence, succession, and failed ascent recalled.
+
 - [[From Defeat at Hormah to Victory over Og]] — comparison with [[Sihon and Og]].
 
 

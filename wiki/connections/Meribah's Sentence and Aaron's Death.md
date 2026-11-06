@@ -7,12 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
+
 - [[The Stages of the Journey]] — Numbers 33:38–39.
 - [[Joshua Commissioned]] — Numbers 27:12–14; the sentence recalled for Moses.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 - [[The Death of Aaron]] — Numbers 20:22–29.
 
 ## Analysis
+
+### Deuteronomy’s sentence and ascent
+
+Deuteronomy 1:37 places Moses’ exclusion in the recollection of the earlier refusal and attributes
+Yahweh’s anger to the people’s sakes. Numbers 20:12 explicitly grounds Moses and Aaron’s exclusion
+in their own failure to believe and sanctify Yahweh. These are differing explanations and narrative
+settings; Deuteronomy 1 does not mention Meribah, and this comparison does not relocate the rock
+incident to the spies’ revolt.
+
+Source for this update: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20.
 
 Numbers 33:38–39 now dates Aaron’s death to year forty, month five, day one, at age 123.
 It repeats the commanded ascent without restating the Meribah offense. See [[The Stages of the Journey]].

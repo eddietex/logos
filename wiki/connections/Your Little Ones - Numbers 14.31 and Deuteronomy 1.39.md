@@ -8,10 +8,18 @@ tags: [connection]
 ## Passages involved
 
 - [[The People Refuse the Land]] — Numbers 14:3, 23 (Rahlfs), 31, 33
-- Deuteronomy 1:39 — *your children, who today have no knowledge of good or evil* *(WEB and WLC
-  checked, not yet ingested)*
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 ## Analysis
+
+### Deuteronomy’s sentence and ascent
+
+Deuteronomy 1:39 is now ingested within the sentence: the children their parents feared would be
+captured or killed are promised possession. Their lack of knowledge of good or evil is stated, but
+no numerical age threshold is given here. Numbers 14:29–31 supplies the twenty-year census boundary;
+the two formulations are retained without turning Deuteronomy’s phrase into a universal age rule.
+
+Source for this update: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20.
 
 **The accusation is quoted back.** The fathers said it first: *nāšênû wəṭappēnû yihyû lābaz*
 (Numbers 14:3, WLC). Yahweh returns it: *wəṭappəkem ʾăšer ʾămartem lābaz yihyeh* (14:31). Moses

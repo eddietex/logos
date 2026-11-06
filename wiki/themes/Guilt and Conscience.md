@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The confession in verse 41 acknowledges guilt, but does not authorize the people’s chosen remedy.
+The text judges the ascent without declaring whether their feelings were sincere.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 **Guilt in Scripture is first a status and only later a feeling.** The Hebrew root ***ʾāšām*** means
 *to be liable* — to have incurred a debt that stands whether or not anyone knows about it, and whether
 or not the debtor feels anything. It is the root of the ***ʾāšām***, the guilt offering of Leviticus
@@ -192,6 +199,8 @@ other tribes at once.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

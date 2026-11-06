@@ -10,11 +10,20 @@ tags: [connection]
 - [[The People Refuse the Land]] — Numbers 14:24
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11–12, *they have not wholly followed me* *(stored WEB and
   WLC)*
-- Deuteronomy 1:36 — *he has wholly followed Yahweh* *(WEB and WLC checked, not yet ingested)*
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - Joshua 14:8, 9, 14 — Caleb's own claim *(WEB and WLC checked, not yet ingested)*
 - 1 Kings 11:6 — Solomon *didn't go fully after Yahweh* *(WEB and WLC checked, not yet ingested)*
 
 ## Analysis
+
+### Deuteronomy’s sentence and ascent
+
+Deuteronomy 1:36 now supplies an ingested promise of the trodden land to Caleb and his children
+because he wholly followed Yahweh. Verse 38 separately guarantees Joshua’s entry as Israel’s future
+leader. The contrast is between the condemned generation and these exceptions, not a denial that
+Joshua will enter.
+
+Source for this update: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20.
 
 *Millēʾ ʾaḥărê*, literally *to fill after*, occurs in those verses only by the WLC tags, eight verses in all. It is the phrase of Caleb. Seven of the eight concern him or the sentence on his
 generation.

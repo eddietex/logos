@@ -22253,3 +22253,35 @@ Hosea 11:3) were read in *Miqra according to the Masorah* via the Sefaria API. N
 or skill changed. scripts/link-check.sh exits 0 (57 expected not-yet-started book targets).
 Counts: 9 books started, 8 complete; 329 passages, 251 people, 205 places, 87 themes,
 715 connections.
+
+## [2026-11-05] ingest | Deuteronomy 1.34-46 — The Sentence and the Presumptuous Ascent
+
+Ingested the next planned unit in auto mode without changing its boundary. Created the passage
+with all thirteen verses copied from stored WEB and the connection
+[[Moses Excluded - Numbers 20 and Deuteronomy 1]]. Revised the Deuteronomy book overview and
+checklist to 5 / 69, five existing passage cross-reference sections, five people, five places,
+fourteen themes, and five existing connections. Updated book status, all affected category rows,
+and dashboard counts. Two content pages created; 35 existing content pages revised, plus ten
+indexes and this log (48 wiki files in total).
+
+The sentence preserves the promises to Caleb, Joshua, and the children while excluding the
+condemned generation. Confession followed by forbidden battle and unanswered tears receives
+explicit treatment. The difference between Moses’ explanation of his exclusion in Deuteronomy
+1:37 and the leaders’ responsibility in Numbers 20:12 is flagged on the passage, Moses page,
+and connections; an anticipatory aside is identified as an interpretation, not a supplied
+chronology. The Amorite pursuers in Deuteronomy and the Amalekite/Canaanite opponents in Numbers
+remain distinct descriptions.
+
+Judgment calls: retained Jephunneh as Caleb’s patronymic without inventing a biography or creating
+a page, following the existing Caleb convention. Nun’s existing page records his patronymic
+appearance. Amorites remain treated under Canaan, as in the preceding ingest; no new collective
+page is created. Seir remains under Edom’s existing alias. No modern route, age-of-accountability
+rule, or casualty count is inferred. Existing connections for the ascent, Hormah, Caleb’s
+following, the children, and Meribah are updated rather than duplicated.
+
+Sources: stored WEB Deuteronomy 1:34–46 and Numbers 14, 20, and 27. All thirteen blockquoted
+verses were checked mechanically against the raw source. No new Hebrew/Greek assertions or
+quotations from unstored books were introduced. Raw texts, schema, and skill instructions are
+unchanged. Link checks exit 0 with 57 expected not-yet-started book targets; diff whitespace
+check passes. Counts by frontmatter: 330 passages, 251 people, 205 places, 87 themes, 716
+connections; nine books started, eight complete. No operational blocker.

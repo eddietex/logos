@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Weapons and willingness to fight cannot substitute for Yahweh’s presence (41–44). The Amorites
+pursue Israel like bees; no casualty count is supplied.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 The people fear taller peoples, cities *fortified up to the sky*, and the Anakim (28). Moses' answer is *Yahweh your God who goes before you, he will fight for you* (30), recalling the word at the sea (Exodus 14:14). The war is refused before it begins.
@@ -339,6 +346,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *he will fight for you*, refused.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

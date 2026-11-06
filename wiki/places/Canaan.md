@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The good land sworn to the fathers is denied to the condemned generation but promised to Caleb and
+his children and to Israel’s little ones (35–39). The hill country is the scene of the unauthorized
+ascent (41–44); the name Canaan is supplied from the wider narrative.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 Called *the hill country of the Amorites* (19–20), which the twelve search as far as the valley of Eshcol (24). Their one recorded verdict: *It is a good land which Yahweh our God gives to us* (25). The people's fears are taller people and cities *fortified up to the sky* (28).
@@ -282,6 +290,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the good land searched and refused.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7–8; *the land of the Canaanites* among the regions to be possessed.

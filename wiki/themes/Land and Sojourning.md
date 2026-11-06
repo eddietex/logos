@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The oath to the fathers continues through the children even while their parents lose entry (35–39).
+Caleb’s descendants receive a particular promise within that continuing inheritance.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 At the border the land is *set before* them again (21). The twelve's whole report is *It is a good land which Yahweh our God gives to us* (25). *Yet you wouldn't go up* (26).
@@ -488,6 +495,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the good land given and refused.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

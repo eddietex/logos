@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The condemned people are told to turn toward the wilderness by the way to the Red Sea (40). This is
+a route designation, not a new crossing of the sea.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The itinerary places this stage after [[Elim]] and before [[The Wilderness of Sin]].
@@ -57,6 +64,8 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

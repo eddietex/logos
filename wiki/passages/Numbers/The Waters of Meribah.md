@@ -74,6 +74,10 @@ WEB, copied from the stored Numbers source.
 
 ## Cross-references
 
+- [[Moses Excluded - Numbers 20 and Deuteronomy 1]] — the differing explanations of Moses’ exclusion.
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46; the sentence, succession, and failed ascent recalled.
+
 - [[Joshua Commissioned]] — Numbers 27:12–14; the Meribah sentence recalled for Moses.
 - [[From Meribah to Beer - Water and the Gathered People]] — comparison with [[The Journey to Moab]].
 

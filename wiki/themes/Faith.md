@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Caleb’s wholehearted following is set against the condemned generation (36). The surrounding
+narrative contrasts the refusal to trust in 1:32 with an armed initiative that ignores the present
+word in 1:42–43.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 *Yet in this thing you didn't believe Yahweh your God* (32). The unbelief is specific — *in this thing*, the going up — and it follows a list of what they had seen: Egypt, the carrying, the fire and cloud (30–33). In the Masoretic text (Sefaria) the verb is a participle, *ʾênəkem maʾămînim*; whether that stresses a continuing state is left open.
@@ -256,6 +264,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; unbelief *in this thing*, against what they had seen.
 - [[Sihon and Og]] — Numbers 21:21–35.

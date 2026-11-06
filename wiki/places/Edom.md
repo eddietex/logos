@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Seir is named in the pursuit toward Hormah (44), retained under this page’s existing Seir alias. The
+verse does not identify a modern route or equate Hormah with Seir.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Mount Seir supplies the route designation between Horeb and Kadesh Barnea (2). This page retains
@@ -115,6 +122,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 

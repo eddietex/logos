@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+The people remain at Kadesh many days after defeat and unanswered weeping (45–46). The verse does
+not number those days.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 *Kadesh Barnea* (19) is where Moses repeats the command to go up (21), where the twelve are sent from, and where the people refuse (26). Deuteronomy gives no wilderness name for it here.
@@ -107,6 +114,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the command, the twelve sent, and the refusal.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

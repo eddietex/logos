@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The sentence and the ascent — Deuteronomy 1:34–46
+
+Named as Joshua’s father (38); no action or presence is attributed to him.
+
+See [[The Sentence and the Presumptuous Ascent]]. Source: stored WEB Deuteronomy 1:34–46; Numbers 14 and 20 for comparisons.
+
 ### The borders of the land — Numbers 34:1–29
 
 Named as Joshua’s father in the appointment of the allotment officials (17); no action is assigned to Nun.
@@ -37,6 +43,8 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 
