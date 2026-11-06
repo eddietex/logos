@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Rest and inheritance not yet — Deuteronomy 12:1–28
+
+The statutes are for *"the land … all the days that you live on the earth"* (1). The rule of the place waits on arrival: *"you haven't yet come to the rest and to the inheritance"* (9). The enlarged border (20) and the distance from the place (21) are why meat may be eaten at home.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Every place the sole of your foot treads — Deuteronomy 11:18–32
 
 If Israel keeps the commandments, every place the sole of its foot treads will be its own, from the wilderness and Lebanon to the Euphrates and the western sea (24). The land sworn to the fathers is to be possessed and dwelt in (21, 31).
@@ -638,6 +644,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"not yet come to the rest and to the inheritance"* (9).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; every place the foot treads, within the maximal border (24), and the crossing to possess and dwell (31).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

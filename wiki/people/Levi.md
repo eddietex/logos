@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The Levite within your gates — Deuteronomy 12:1–28
+
+The Levite *"within your gates"* has *"no portion nor inheritance with you"* (12) and joins the household when it eats tithes and offerings before Yahweh (12, 18). *"Be careful that you don't forsake the Levite as long as you live in your land"* (19) is the first of Deuteronomy's repeated care clauses for him. The Levite here lives in the towns and depends on the households that bring him to the feast.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 The tribe, not the living patriarch, is set apart to bear the covenant ark, minister before Yahweh,
@@ -224,6 +230,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Appears in
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the landless Levite at the feast, not to be forsaken (12, 18–19).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

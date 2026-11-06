@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The place he chooses — Deuteronomy 12:1–28
+
+Yahweh chooses one place out of all the tribes *"to put his name there"* (5), and Israel is not to worship him as the nations worshiped their gods, at every high hill and green tree (2–4). He gives rest from enemies (10), blesses the work of Israel's hands (7, 15), and his eyes, not the worshiper's, measure what is right (25, 28).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Blessing and curse set before Israel — Deuteronomy 11:18–32
 
 Yahweh's words are to be laid up in heart and soul and taught to the children (18–19). If Israel loves him, walks in his ways, and clings to him, he will drive out greater nations and lay the dread of Israel on the land (22–25). The blessing and the curse turn on listening to his commandments or going after other gods (26–28).
@@ -3555,6 +3561,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; chooses the place for his name; the blood is the life.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the words to be laid up and taught; the giver of possession and the one whose commandments decide blessing or curse.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

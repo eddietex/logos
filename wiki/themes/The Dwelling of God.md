@@ -109,6 +109,12 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### The place to put his name — Deuteronomy 12:1–28
+
+Israel is to *"seek his habitation"* at *"the place which Yahweh your God shall choose … to put his name there"* (5), *"to cause his name to dwell there"* (11). Deuteronomy never names the place. Later books identify Shiloh and then the Jerusalem temple (Joshua 18:1; Jeremiah 7:12; 1 Kings 8:29, WEB, verified from bible-api.com). See [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The second oracle declares Yahweh present with Israel (23:21). Divine presence protects the people
@@ -534,6 +540,7 @@ The Dweller stays in the camp with the ark. The people who leave are the ones to
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; one chosen place, *"to put his name there"* (5).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

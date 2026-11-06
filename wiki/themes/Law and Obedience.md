@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The statutes begin — Deuteronomy 12:1–28
+
+*"These are the statutes and the ordinances"* (1) opens the law code of chapters 12–26, and the code begins with worship. Present practice, *"every man whatever is right in his own eyes"* (8), is to give way to *"that which is right in Yahweh's eyes"* (25, 28). See [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]].
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Blessing and curse set before Israel — Deuteronomy 11:18–32
 
 The section closes by turning the commands into a choice: blessing if Israel listens, curse if it turns from the way (26–28). The words are to be laid up, bound, taught, and written (18–20), and all the statutes and ordinances are to be observed (32), just before 12:1 begins the law code.
@@ -1195,6 +1201,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the law code opens; right in his own eyes vs. right in Yahweh's eyes.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; listening or not listening decides blessing or curse; the hinge into the statutes (32).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

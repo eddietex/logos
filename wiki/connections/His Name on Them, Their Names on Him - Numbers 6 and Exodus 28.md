@@ -10,7 +10,7 @@ tags: [connection]
 - [[Yahweh Bless You and Keep You]] — Numbers 6:27.
 - [[The Priestly Garments]] — Exodus 28:12, 29, 36–38.
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24.
-- Deuteronomy 12:5 — *"to put his name there."* *(WEB, bible-api.com; not yet ingested)*
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:5: *"to put his name there."* Also 12:11, 21.
 - Deuteronomy 28:10 — *"you are called by Yahweh’s name."* *(same)*
 - [[Twelve Stones and Twelve Names - The Breastplate and the New Jerusalem]]
 

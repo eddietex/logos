@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The crossing that starts the rule — Deuteronomy 12:1–28
+
+Once Israel goes over the Jordan and has rest from its enemies, all offerings go to the one chosen place (10–11). The crossing marks when the rule of the place takes full effect.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Beyond the Jordan, westward — Deuteronomy 11:18–32
 
 Gerizim and Ebal are *"beyond the Jordan"* (30), meaning the west bank, while Deuteronomy 1:1 used the same phrase for Moses' place on the east. Israel is *"to pass over the Jordan"* to possess the land (31).
@@ -180,6 +186,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the crossing after which the chosen place governs worship (10).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the river still to be crossed; *"beyond the Jordan"* here means the west (30–31).
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

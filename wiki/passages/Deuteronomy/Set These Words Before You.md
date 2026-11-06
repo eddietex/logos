@@ -92,6 +92,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[The Place Yahweh Will Choose]] — 12:1–28, the statutes and ordinances that 11:32 sets before Israel, opened with the
+  law of the place.
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:6–9, the first statement of the words on the
   heart, the hand, the eyes, the door posts, and the gates.
 - [[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]] — the daily

@@ -19,6 +19,8 @@ tags: [connection]
   [[Pharaoh's Dreams and Joseph's Rise]]
 - **Numbers 18:20–24** — *"You shall have no inheritance in their land … I am your portion and your
   inheritance"*; the tithe given to Levi instead
+- **Deuteronomy 12:12, 18–19** — the Levite *"within your gates"*, with *"no portion nor inheritance"*,
+  brought to the household feast and not to be forsaken — [[The Place Yahweh Will Choose]]
 - **Deuteronomy 10:9; 18:1–2** — *"Levi has no portion nor inheritance with his brothers. Yahweh is
   his inheritance"*
 - **Joshua 13:14, 33; 14:3–4** — the allotment of Canaan, with Levi conspicuously skipped

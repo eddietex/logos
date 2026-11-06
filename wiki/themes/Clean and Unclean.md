@@ -101,6 +101,12 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Clean and unclean alike — Deuteronomy 12:1–28
+
+Meat killed at home may be eaten by *"the unclean and the clean"* alike, *"as of the gazelle, and as of the deer"* (15, 22). Ordinary meat is treated like game, outside the sanctuary's purity rules; holy portions remain at the chosen place (17–18, 26).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Duties and portions — Numbers 18:1–32
 
 Clean members of Aaron’s household may eat the wave offerings and first fruits
@@ -474,6 +480,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; home slaughter eaten by unclean and clean alike (15, 22).
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Red Heifer]] — Numbers 19:1–22.

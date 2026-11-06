@@ -70,7 +70,9 @@ sanctuary, and the two provisions are not reconciled in Exodus (see
 [[The Altar and the Hebrew Slave]]). The Ebal altar shows that the uncut-stone law was understood to
 be in force for altars outside the sanctuary, at least by the writers of Deuteronomy and Joshua. It
 does not by itself show how Exodus 20:24's *"every place"* relates to Deuteronomy 12's *"the place
-which Yahweh your God shall choose"*. That question stays open.
+which Yahweh your God shall choose"*. That question stays open; Deuteronomy 12 is now ingested
+as [[The Place Yahweh Will Choose]], and the three laws are compared on
+[[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
 
 **The Ebal altar is at Shechem's mountains**, between which the blessings and curses are read (see
 [[Shechem (city)]]), where Abram built his first altar in Canaan (Genesis 12:6–7). See also

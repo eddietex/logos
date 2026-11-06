@@ -52,6 +52,12 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Poured out like water — Deuteronomy 12:1–28
+
+Meat may now be killed and eaten at home, but *"you shall not eat the blood. You shall pour it out on the earth like water"* (16, 24), *"for the blood is the life"* (23). Sacrificial blood still goes on the altar at the chosen place (27). The prohibition of Genesis 9:4 and Leviticus 17:10–14 is kept while the slaughter rule changes.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Unlike the blood applications of Leviticus 16:14–19, Numbers 16:46–48 narrates incense and
@@ -355,6 +361,7 @@ narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"the blood is the life"* (23); poured on the ground like water (16, 24).
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.

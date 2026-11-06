@@ -14,7 +14,8 @@ tags: [connection]
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:30–33: a tenth of seed, fruit, and herd is
   holy to Yahweh
 - Numbers 18:21–32 — the tithe as Levi's inheritance, and Levi's tithe of the tithe
-- Deuteronomy 12:5–19; 14:22–29; 26:12–15 — the tithe eaten at the sanctuary, and the third-year tithe
+- Deuteronomy 12:5–19; 14:22–29; 26:12–15 — the tithe eaten at the sanctuary, and the third-year tithe;
+  12:6, 11, 17–18 now ingested as [[The Place Yahweh Will Choose]]
 - 2 Chronicles 31:4–12; Nehemiah 10:37–39; 13:10–12 — the reform tithes
 - Amos 4:4; Malachi 3:8–10 — the prophets on both ends of it
 - Matthew 23:23; Luke 11:42; 18:12 — mint, dill, and cumin

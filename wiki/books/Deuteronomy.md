@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Place Yahweh Will Choose]] (12:1–28) opens the law code with worship. The nations' shrines
+are destroyed, and offerings, tithes, and vows go only to the one unnamed place Yahweh will choose
+for his name. Ordinary meat may now be eaten at home, but never its blood.
+
 [[Set These Words Before You]] (11:18–32) closes the exhortation begun at 4:44. The household
 teaching of chapter 6 returns, possession is promised for love and obedience, and a blessing and a
 curse are set before Israel, to be staged on Gerizim and Ebal beside the oaks of Moreh.
@@ -160,7 +164,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **28 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **29 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -190,7 +194,7 @@ Plan drawn 2026-11-05 from the stored WEB. **28 / 69 pericopes ingested.**
 - [x] [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22
 - [x] [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
 - [x] [[Set These Words Before You]] — Deuteronomy 11:18–32
-- [ ] The Place Yahweh Will Choose — Deuteronomy 12:1–28
+- [x] [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28
 - [ ] Do Not Follow Other Gods — Deuteronomy 12:29–13:18
 - [ ] A Holy People and Its Food — Deuteronomy 14:1–21
 - [ ] Tithes for Feasting and Provision — Deuteronomy 14:22–29
@@ -237,6 +241,8 @@ Plan drawn 2026-11-05 from the stored WEB. **28 / 69 pericopes ingested.**
 - [[Idolatry]]
 - [[Law and Obedience]]
 - [[Love]]
+- [[Sacrifice and Offering]]
+- [[The Dwelling of God]]
 - [[Mediation and Advocacy]]
 - [[Remembrance]]
 - [[The Wilderness]]
@@ -248,6 +254,7 @@ Plan drawn 2026-11-05 from the stored WEB. **28 / 69 pericopes ingested.**
 - [[Moses]]
 - [[Sihon]]
 - [[Og]]
+- [[Levi]]
 
 ## Key places
 - [[Moab (place)]]

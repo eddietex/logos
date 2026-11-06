@@ -22912,3 +22912,40 @@ workflow instructions, and controller files were unchanged.
 Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
 not-yet-started book targets. Frontmatter counts and the book queue agree. The Places index
 (now 222 rows) is past the 150-row split trigger; the split was not attempted in this ingest.
+
+## [2026-11-06] ingest | Deuteronomy 12.1-28 — The Place Yahweh Will Choose
+
+Ingested exactly the planned unit in auto mode, by Claude, retaining its boundary and title. Created
+the passage page and two connections:
+[[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]] and
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]]. Revised 46 existing pages
+including this log: Deuteronomy, three people (God, Moses, Levi), two places (The Jordan, Canaan),
+fifteen themes, eight existing connections, seven earlier passage pages (Cross-references and
+"not yet ingested" notes now pointing here), and nine index/dashboard pages. Deuteronomy is now
+29 / 69. Counts by frontmatter type are 354 passages, 257 people, 222 places, 87 themes, and 737
+connections.
+
+Judgment calls: the chosen place gets no place page and no [[Jerusalem]] link, because Deuteronomy
+never names it; the later identifications (Shiloh in Joshua 18:1 and Jeremiah 7:12, the temple in
+1 Kings 8:29) are recorded in the passage notes, and whether Deuteronomy meant one fixed site or
+successive ones is left open. No Shiloh page was created from a verified-but-uningested reference.
+The Levite of 12:12, 18–19 is filed on [[Levi]], following the tribe-level use already on that page.
+The change from Leviticus 17:3–5 (all domestic slaughter at the tent) to Deuteronomy 12:15, 20–22
+(slaughter at home) is recorded as a difference with its stated reason (distance, an enlarged
+border); the canonical-sequence and separate-tradition readings are both named, and neither is
+adopted. The tithe eaten by the household (12:17–18) is flagged as differing from Numbers 18:21–24,
+with the resolution left for the Deuteronomy 14 ingest. The pairing of the nations' destroyed
+*name* (3) with Yahweh's placed *name* (5) is marked as the wiki's reading of the WEB wording. The
+Right in His Own Eyes connection reads Judges 17's shrine story only provisionally, since Judges is
+not ingested.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 12:1–28. Comparisons verified in
+stored WEB Deuteronomy 5:14, 10:9, 11:32, 12:29–32, 14:28–29, 27:5–7; Leviticus 17:1–16; Exodus
+20:22–26; Numbers 18:21–24; Genesis 9:4; Proverbs 12:15, 21:2. Joshua 18:1, Judges 17:6, 21:25,
+1 Kings 8:29, and Jeremiah 7:12 verified from bible-api.com (WEB) without storing those books. No
+assertion about exact Hebrew wording was made. Raw files, canonical workflow instructions, and
+controller files were unchanged.
+
+Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
+not-yet-started book targets. Frontmatter counts and the book queue agree. The Places index (222
+rows) remains past the 150-row split trigger; the split was not attempted in this ingest.

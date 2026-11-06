@@ -47,6 +47,12 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Vows paid at the place — Deuteronomy 12:1–28
+
+*"All your choice vows which you vow to Yahweh"* go to the chosen place (11), may not be eaten at home (17), and are taken there with the holy things (26).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### The sworn land — Deuteronomy 11:18–32
 
 The days are to be multiplied *"in the land which Yahweh swore to your fathers to give them"* (21); the dread of Israel will fall on the land *"as he has spoken to you"* (25).
@@ -399,6 +405,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; vows brought to the chosen place (11, 17, 26).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the land Yahweh swore to the fathers (21).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

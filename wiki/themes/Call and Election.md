@@ -98,6 +98,12 @@ nations is an interpretation of this combination, not an explicit missionary com
 
 ## Development across Scripture
 
+### A chosen place — Deuteronomy 12:1–28
+
+Election extends to a place: *"the place which Yahweh your God shall choose out of all your tribes"* (5), repeated six times in the unit. The choice is set against *"every place that you see"* (13), the worshiper's own selection.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 The owner of all heaven and earth chooses the fathers’ offspring (14–15), yet shows no partiality and loves the foreigner (17–19). Particular election and impartial justice stand together; chosen status does not authorize neglect of outsiders.
@@ -209,6 +215,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the place Yahweh will choose (5, 11, 14, 18, 21, 26).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.

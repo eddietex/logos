@@ -44,6 +44,12 @@ costly.
 
 ## Development across Scripture
 
+### Eating by Yahweh's blessing — Deuteronomy 12:1–28
+
+The households rejoice in all *"in which Yahweh your God has blessed you"* (7), and meat at home is eaten *"according to Yahweh your God's blessing which he has given you"* (15). Obedience is *"that it may go well with you, and with your children after you"* (25, 28).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### A blessing set before Israel — Deuteronomy 11:18–32
 
 Moses sets *"a blessing and a curse"* before the people (26). The blessing is conditioned on listening (27) and is to be set on Mount Gerizim once Israel is in the land (29). The verse names the blessing but does not spell out its words.
@@ -426,6 +432,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; eating *"according to Yahweh your God's blessing"* (15).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the blessing set before Israel, to be set on Mount Gerizim (26–29).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

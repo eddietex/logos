@@ -41,6 +41,12 @@ See, now he has taken away my blessing."* The wiki follows Genesis and keeps the
 
 ## Development across Scripture
 
+### Firstborn animals at the place — Deuteronomy 12:1–28
+
+The firstborn of herd and flock are brought to the chosen place and eaten there, not at home (6, 17–18).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Duties and portions — Numbers 18:1–32
 
 Firstborn humans and unclean animals must be redeemed, while firstborn cattle,
@@ -142,6 +148,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; firstborn of herd and flock eaten at the chosen place (6, 17).
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[The Second Census]] — Numbers 26:1–65.

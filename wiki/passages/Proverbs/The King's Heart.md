@@ -158,6 +158,8 @@ reverses fortunes; it is not developed into a theory of substitution here.
 
 ## Cross-references
 
+- [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]] — 21:2's
+  *"right in his own eyes"* beside Deuteronomy 12:8 and Judges 17:6; 21:25.
 - [[One Event Comes to All]] — Ecclesiastes 9:11 denies that strength secures battle; see
   [[Time and Chance and the Prepared Horse]] .
 

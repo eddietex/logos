@@ -31,6 +31,12 @@ asked for.
 
 ## Development across Scripture
 
+### The tithe eaten at the place — Deuteronomy 12:1–28
+
+Tithes of grain, new wine, and oil are brought to the chosen place and eaten there by the households that bring them, with the Levite (6, 11, 17–18). This differs from Numbers 18:21–24, where the tithe is given to the Levites as their inheritance; Deuteronomy 14:22–29 develops its own rules. The difference is recorded, not resolved, here.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Duties and portions — Numbers 18:1–32
 
 Israel’s tithe becomes the Levites’ inheritance in return for Tent service (21–24).
@@ -78,6 +84,7 @@ See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; tithes eaten before Yahweh at the chosen place (17–18).
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.

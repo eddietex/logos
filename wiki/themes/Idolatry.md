@@ -119,6 +119,12 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Destroy their places — Deuteronomy 12:1–28
+
+Every site where the nations served their gods — high mountains, hills, *"under every green tree"* — is to be destroyed: altars, pillars, Asherah poles, engraved images, and their name (2–3). *"You shall not do so to Yahweh your God"* (4): Yahweh is not to be worshiped at many self-chosen sites, as they were.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Gods you have not known — Deuteronomy 11:18–32
 
 The curse is defined as turning from the way *"to go after other gods, which you have not known"* (28). The English echoes 11:2, where the children had *"not known"* Yahweh's discipline.
@@ -361,6 +367,7 @@ texts, 2026-10-25.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed (2–3); *"You shall not do so to Yahweh"* (4).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the curse is following *"other gods, which you have not known"* (28).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

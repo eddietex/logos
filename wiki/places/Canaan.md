@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Shrines to destroy and one place to seek — Deuteronomy 12:1–28
+
+Unnamed, the land is *"the land which Yahweh, the God of your fathers, has given you to possess"* (1). Its existing shrines on mountains, hills, and under green trees are to be destroyed (2–3), and one place in it, never named, is to be chosen by Yahweh (5).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Gerizim and Ebal in the land of the Canaanites — Deuteronomy 11:18–32
 
 The mountains of blessing and curse are located *"in the land of the Canaanites who dwell in the Arabah"* (30). Israel is to cross the Jordan, possess the land, and dwell in it (31).
@@ -361,6 +367,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed and one place chosen (not named).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the land in which the blessing and curse are to be set (29–31).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

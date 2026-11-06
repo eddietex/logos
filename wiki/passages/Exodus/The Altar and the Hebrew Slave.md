@@ -130,7 +130,9 @@ three, she goes free without payment (21:7–11).
   [[Abram the Hebrew - The First Use of the Name]].
 - Exodus 12:7; 13:13 — the doorposts of the Passover, and the redemption of the firstborn:
   [[The Passover]] and [[The Consecration of the Firstborn]].
-- Deuteronomy 12:5 — *"the place which Yahweh your God shall choose … to put his name there"*.
+- Deuteronomy 12:5 — *"the place which Yahweh your God shall choose … to put his name there"*;
+  now ingested as [[The Place Yahweh Will Choose]], and compared with 20:24 on
+  [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
 
 - [[Laws of Violence and Injury]] — Exodus 21:12–36: a planned killer is taken from the altar (21:14), and
   injuries, ownership, and release further qualify the servant laws (21:20–21, 26–27, 32).

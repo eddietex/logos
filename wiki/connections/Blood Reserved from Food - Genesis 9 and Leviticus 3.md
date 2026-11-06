@@ -8,12 +8,23 @@ tags: [connection]
 ## Passages involved
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:10–14.
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:16, 23–25, 27.
 
 - [[The Covenant with Noah]] — Genesis 9:3–4.
 - [[The Peace Offering]] — Leviticus 3:2, 8, 13, 17.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38; food restrictions and priestly shares now ingested.
 
 ## Analysis
+
+### Meat at home, blood on the ground — Deuteronomy 12
+
+Deuteronomy 12 lets domestic animals be killed and eaten in the towns, but keeps the limit:
+*"you shall not eat the blood. You shall pour it out on the earth like water"* (16, 24), *"for the
+blood is the life"* (23). The hunter's procedure of Leviticus 17:13 is in effect extended to
+home slaughter, without the covering with dust; sacrificial blood still goes on the altar at the
+chosen place (27). See
+[[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]]. Source: stored WEB
+Deuteronomy 12:15–27; Leviticus 17:13.
 
 ### The rationale made explicit — Leviticus 17
 

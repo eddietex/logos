@@ -14,6 +14,12 @@ or as the theme recurs.
 
 ## Development across Scripture
 
+### Rejoicing before Yahweh — Deuteronomy 12:1–28
+
+Each list of offerings ends in eating and rejoicing: *"There you shall eat before Yahweh your God, and you shall rejoice in all that you put your hand to"* (7; also 12, 18). The joy is shared by sons, daughters, servants, and the Levite. Meat is also eaten at home *"after all the desire of your soul"* (15, 20–21).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Booths and remembered deliverance — Leviticus 23:33–44
 
 Rejoicing before Yahweh for seven days is commanded (40), with fruit and branches
@@ -263,6 +269,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"you shall rejoice"* before Yahweh with the household (7, 12, 18).
 - [[The Feast of Booths]] — Leviticus 23:33–44.
 
 - [[Make Haste, My Beloved]] — Song of Solomon 8:13–14.

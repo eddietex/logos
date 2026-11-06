@@ -121,6 +121,12 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### The name placed at the chosen place — Deuteronomy 12:1–28
+
+The nations' gods have their *name* destroyed from their places (3); Yahweh puts his *name* at the place he chooses (5, 11, 21). The pairing is noted from the WEB wording; no claim is made about the Hebrew.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 The WEB names Yahweh God of gods and Lord of lords (17). The titles introduce impartiality and protection of the vulnerable, joining sovereignty to justice rather than implying that power is available for purchase.
@@ -264,6 +270,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"to put his name there"* (5, 21) and *"to cause his name to dwell there"* (11).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.

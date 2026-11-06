@@ -142,6 +142,12 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### The Levite not forsaken — Deuteronomy 12:1–28
+
+The Levite *"within your gates"*, who *"has no portion nor inheritance with you"*, eats at the household feast (12, 18), and Israel is warned, *"Be careful that you don't forsake the Levite"* (19). The passage says nothing about the Levite's duties at the place itself.
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Eleazar becomes the means of guidance for the new leader: Joshua is to stand before him while he
@@ -634,6 +640,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the landless Levite at the feast (12, 18–19).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

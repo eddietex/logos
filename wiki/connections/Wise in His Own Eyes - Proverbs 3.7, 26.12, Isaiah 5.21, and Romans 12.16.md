@@ -29,6 +29,8 @@ tags: [connection]
   Verified WEB, not yet ingested.
 - Romans 12:16 — *"… Don't set your mind on high things, but associate with the humble. Don't be wise
   in your own conceits."* Verified WEB, not yet ingested.
+- Compare *right in his own eyes* in [[The Place Yahweh Will Choose]] (Deuteronomy 12:8) and Judges 17:6; 21:25 —
+  [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]].
 
 ## Analysis
 

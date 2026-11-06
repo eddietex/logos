@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The place Yahweh will choose — Deuteronomy 12:1–28
+
+Moses opens the statutes and ordinances (1) and includes himself in the present practice that must end: *"the things that we do here today, every man whatever is right in his own eyes"* (8). He adapts the camp rule of Leviticus 17 for a people spread across the land, permitting meat at home while keeping offerings for the chosen place (15–27).
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Blessing and curse set before Israel — Deuteronomy 11:18–32
 
 Moses repeats the household teaching of 6:6–9 with a promise of multiplied days (18–21), then sets a blessing and a curse before the people (26). He commands that they be set on Mount Gerizim and Mount Ebal once Israel is in the land, and closes the exhortation begun at 4:44 (29–32).
@@ -1616,6 +1622,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the statutes begin; *"that we do here today"* (8).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; he sets the blessing and curse before the people and names Gerizim and Ebal.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

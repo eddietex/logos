@@ -72,6 +72,8 @@ washing, bathing, and uncleanness until evening; failure to cleanse brings iniqu
 
 - [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] — food limits now explained through life and altar use.
 - [[Sacrifice to Yahweh Alone - Exodus 22 and Leviticus 17]] — exclusive allegiance and the required place of sacrifice.
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:15–27 releases domestic slaughter from the sanctuary in the land while
+  keeping the blood prohibition; compared on [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
 - [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]] — prohibition and cleansing kept distinct.
 - [[The Day of Atonement]] — chapter 16’s blood rites precede this explanation.
 - [[Confession and Offerings According to Means]] — flour atonement remains an explicit provision.

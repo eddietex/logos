@@ -13,7 +13,7 @@ tags: [connection]
 - 2 Chronicles 6:41 — Solomon's prayer ends with the same line *(WEB checked, not yet ingested)*
 - 1 Chronicles 28:2 — *a house of rest for the ark* *(WEB checked, not yet ingested)*
 - Psalms 3:7; 7:6 — *Arise, Yahweh*, in personal danger *(WEB checked, not yet ingested)*
-- Deuteronomy 12:9 — *the rest and … the inheritance* *(WEB checked, not yet ingested)*
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:9: *the rest and … the inheritance*
 - Psalm 95:11 and Hebrews 4:9 — the rest refused and the rest remaining *(WEB checked, not yet ingested)*
 - Isaiah 66:1 — *Where will I rest?* *(WEB checked, not yet ingested)*
 

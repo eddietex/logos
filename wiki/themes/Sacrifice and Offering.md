@@ -93,6 +93,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### One place for offerings, meat at home — Deuteronomy 12:1–28
+
+Burnt offerings, sacrifices, tithes, wave offerings, vows, freewill offerings, and firstborn go to the chosen place (6, 11, 17–18, 26–27), not to *"every place that you see"* (13). Ordinary domestic slaughter is released from the sanctuary *"within all your gates"* (15, 21), changing Leviticus 17:3–5's camp rule. See [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
+
+See [[The Place Yahweh Will Choose]]. Source: stored WEB Deuteronomy 12:1–28.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Seven altars with a bull and ram each are prepared again at Peor (23:29–30). The repeated
@@ -695,6 +701,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 
 ## Key passages
 
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; offerings only at the chosen place; meat at home.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

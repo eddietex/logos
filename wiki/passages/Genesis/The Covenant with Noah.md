@@ -386,7 +386,7 @@ all flesh, and the earth needs no map. Geography returns at Genesis 10.
   blood of him who shed it"*, with the cities of refuge putting a trial in the way.
 - Deuteronomy 11:25 — *"the fear of you and the dread of you"*, the pair of 9:2 used of nations.
 - Deuteronomy 12:16, 23–25 — blood poured out on the ground like water, *"for the blood is the
-  life."*
+  life."* Now ingested as [[The Place Yahweh Will Choose]].
 - 1 Samuel 14:32–34 — Saul's army eating meat with the blood, and the one narrative in Scripture
   where 9:4 is broken and named as a sin.
 - Isaiah 54:9–10 — *"this is like the waters of Noah to me"*: the Noahic oath cited as the model of
