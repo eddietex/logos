@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Moses recalls receiving the instructions to turn north, avoid conflict, and cross Zered (1–19). His
+recollection joins travel orders to the completion of the wilderness sentence.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Moses includes his own exclusion within the recollection of the sentence, saying Yahweh was angry
@@ -1447,6 +1454,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

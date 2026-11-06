@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+The journey turns toward the wilderness by the Red Sea road before the long circuit of Seir (1).
+This recalls a direction of travel, not another sea crossing.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The condemned people are told to turn toward the wilderness by the way to the Red Sea (40). This is
@@ -64,6 +71,8 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

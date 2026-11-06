@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Mount Seir belongs to Esau’s descendants by Yahweh’s grant (1–8, 12, 22). Israel must buy provisions
+and avoid contention. Numbers 20:14–21 narrates refusal of passage and withdrawal; Deuteronomy
+foregrounds divine restraint and passing by. A precise route harmonization is not supplied by either
+account.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Seir is named in the pursuit toward Hormah (44), retained under this page’s existing Seir alias. The
@@ -122,6 +131,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

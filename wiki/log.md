@@ -22285,3 +22285,34 @@ quotations from unstored books were introduced. Raw texts, schema, and skill ins
 unchanged. Link checks exit 0 with 57 expected not-yet-started book targets; diff whitespace
 check passes. Counts by frontmatter: 330 passages, 251 people, 205 places, 87 themes, 716
 connections; nine books started, eight complete. No operational blocker.
+
+## [2026-11-05] ingest | Deuteronomy 2.1–23 — Around Seir and Past Moab and Ammon
+
+Ingested one planned unit in auto mode, with its complete WEB text copied from the stored
+Deuteronomy source. The boundary is unchanged. Protected grants to Esau and Lot’s descendants,
+paid provisions, the thirty-eight years from Kadesh to Zered, and the military generation’s
+death form the synthesis. Provision and judgment are retained together.
+
+Created 12 pages: the passage, six collective people pages (Rephaim, Emim, Zamzummim, Horites,
+Avvim, Caphtorim), three places (Elath, Gaza, Caphtor), and two connections on protected lands
+and refused passage and on the sentence fulfilled at Zered. Collective people follow the
+existing Anakim page convention; Seir stays under Edom and brook Zered under The Valley of
+Zered. No modern locations or ethnic equations are imposed.
+
+Revised 42 existing pages including this log: the book and status, five people, nine places,
+nine themes, two existing connections, four earlier passages, category indexes, and the main
+counts. Deuteronomy is 6 / 69. Totals by frontmatter type: 331 passages, 257 people, 208 places,
+87 themes, 718 connections; nine books started, eight complete.
+
+Retained the different Edom accounts without imposing a precise route harmonization or treating
+a purchase command as a completed transaction. Narrowed the Moab/Ammon connection’s prior
+formulation: Deuteronomy 2:10–11 names former Emim inhabitants but does not expressly narrate
+Yahweh destroying them, unlike the explicit attribution for the Zamzummim in 2:21. The
+retrospective wording in 2:12 is noted without assigning the aside a date or author.
+
+Source checks: stored WEB Deuteronomy 1–2, Genesis 14:5–6, 19:36–38, 36:6–8, and Numbers
+14:26–35, 20:14–21, 21:10–15. All 23 quoted verses match the raw file. No new quotation from
+an unstored book or new source-language claim was introduced. Existing raw texts are unchanged.
+Link checks passed with 57 expected not-yet-started book targets, no wrapped links, and no
+unexpected dangling targets. New titles are unique and have one category row each where
+applicable. No unresolved ingest issue or harness change.

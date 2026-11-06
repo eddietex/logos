@@ -78,6 +78,8 @@ Complete unit, copied verbatim from stored WEB `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[From the Wilderness Sentence to the Crossing of Zered]] — [[Around Seir and Past Moab and Ammon]]; Deuteronomy 2:1–23.
+
 - [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
 
 - [[From the Well Song to the Heshbon Poem]] — comparison with [[Sihon and Og]].

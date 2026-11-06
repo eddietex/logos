@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Obedience consists in turning, crossing, paying, and refraining from battle as instructed (3–6, 9,
+13, 19). Possessing the promised land includes respecting lands withheld from Israel.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Refusing to ascend when commanded (1:26) and ascending when forbidden (1:42–43) are both rebellion.
@@ -1052,6 +1059,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

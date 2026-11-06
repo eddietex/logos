@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Israel passes by the wilderness of Moab and must not attack it: Ar belongs to Lot’s descendants
+(8–9, 18). The Emim are recalled as earlier inhabitants (10–11); unlike the account of Ammon in
+verse 21, these verses do not expressly narrate Yahweh destroying the Emim.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The explicit location where Moses begins to declare the law (5). It continues the setting of Numbers
@@ -184,6 +192,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

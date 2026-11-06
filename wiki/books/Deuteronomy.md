@@ -40,6 +40,11 @@ sons in the second person, as if they had stood at Kadesh themselves.
 
 [[The Sentence and the Presumptuous Ascent]] (1:34–46) recalls the exclusion oath, the promises to Caleb, Joshua, and the children, and the failed attempt to fight after Yahweh forbids it. Moses includes his own exclusion; its explanation differs from Numbers 20:12 and remains explicitly flagged. The account closes with unanswered weeping and the stay at Kadesh.
 
+[[Around Seir and Past Moab and Ammon]] (2:1–23) recalls the protected territories of Esau and Lot’s descendants,
+the thirty-eight years from Kadesh to Zered, and the end of the condemned military generation.
+Historical asides place Israel’s possession beside other peoples’ territorial successions;
+provision in the wilderness does not cancel judgment.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -57,14 +62,14 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **5 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **6 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
 - [x] [[Judges Appointed for the People]] — Deuteronomy 1:9–18
 - [x] [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33
 - [x] [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46
-- [ ] Around Seir and Past Moab and Ammon — Deuteronomy 2:1–23
+- [x] [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
 - [ ] The Defeat of Sihon Recounted — Deuteronomy 2:24–37
 - [ ] The Defeat of Og Recounted — Deuteronomy 3:1–11
 - [ ] The Eastern Inheritance and the Charge to Joshua — Deuteronomy 3:12–22

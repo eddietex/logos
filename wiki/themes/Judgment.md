@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+The thirty-eight-year journey to Zered ends with the military generation consumed under Yahweh’s
+hand, fulfilling the oath (14–16). The claim concerns the condemned cohort, not every Israelite
+without exception; compare the exceptions in Deuteronomy 1:36–39.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The exclusion oath distinguishes the condemned generation from Caleb, Joshua, and the children
@@ -761,6 +769,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

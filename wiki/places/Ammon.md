@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Ammon’s territory is protected as a grant to Lot’s descendants (19). Its former inhabitants, called
+Zamzummim by the Ammonites, are classed as Rephaim; Yahweh destroyed them before the successors
+(20–21). This passage does not explicitly equate them with Genesis 14:5’s Zuzim.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Sihon and Og — Numbers 21:21–35
 
 Israel’s acquired territory reaches to the children of Ammon, whose border the WEB describes as
@@ -69,6 +77,8 @@ displaced five chapters before either of them is born.** See
   23:3 read aloud and enforced against Ammonites and Moabites in the same chapter.
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

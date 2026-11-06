@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Esau’s descendants are explicitly Israel’s brothers, although they fear Israel (4, 8). Brotherhood
+here obliges restraint; it does not establish an unrestricted right of passage.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ***ʾāḥ***, *brother*, **is one of the most heavily loaded words in Genesis**, and the book uses it for
 three overlapping things: a sibling, a kinsman at any distance (Abram calls [[Lot]] *"my brother"* at
 13:8, and Lot is his nephew), and **a moral category — the person you are answerable for.**
@@ -227,6 +234,8 @@ brothers these many days* (WEB via bible-api.com, not yet ingested).
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 

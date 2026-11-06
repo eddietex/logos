@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Forty years of divine presence and sufficient provision are recalled while Israel is ordered to
+purchase provisions (6–7). Provision does not imply that the condemned generation escaped death
+(14–15).
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Elim’s springs and palms and Rephidim’s lack of water are remembered together (9, 14). Provision is part of the remembered route without every hardship being retold.
@@ -397,6 +405,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

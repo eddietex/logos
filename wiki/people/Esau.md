@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Esau is named as the recipient of Mount Seir, and his descendants as Israel’s brothers (4–8). Verses
+12 and 22 recall their displacement of the Horites; this is ancestral and national memory, not Esau
+newly acting in Moses’ time.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 The national brotherhood invoked at Edom’s border (14) rests on the ancestral relationship.
@@ -216,6 +224,8 @@ father of the Edomites"* (36:43). **After it he is not mentioned in the book aga
 - *"This is Esau, the father of the Edomites"* — his last words in the book — Genesis 36:43
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Edom Refuses Passage]] — Numbers 20:14–21 (ancestral comparison).
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Yahweh grants land to Esau and Lot’s descendants, forbids Israel to seize it, and sustains Israel
+for forty years (5–9, 19). The same divine hand ends the condemned military generation (14–15).
+Provision and judgment coexist in this account.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Yahweh hears the refusal and swears exclusion, yet promises the land to Caleb and the children
@@ -3399,6 +3407,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

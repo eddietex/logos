@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Esau’s and Lot’s descendants hold protected grants (5, 9, 19). The recollections of earlier
+populations and their displacement extend the account beyond Israel; Israel’s own grant is not
+permission to seize every neighbor’s land.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Drive out the inhabitants — Numbers 33:50–56
 
 The inhabitants of Canaan are collectively marked for removal (52), without a list of named
@@ -234,6 +242,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

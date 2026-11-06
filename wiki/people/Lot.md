@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Lot is named as the ancestor whose children received the territories of Moab and Ammon (9, 19). The
+difficult origin story in Genesis 19:30–38 does not cancel these grants; the present passage gives
+no new verdict on Lot’s personal conduct.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 An orphan attached to his grandfather's household, and — until the promise supplies a real one — the
 nearest thing Abram has to an heir.
 
@@ -238,6 +246,8 @@ caravan.
 - Leaves the narrative without a death notice; last named at Genesis 19:36
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[From Shem to Abram]] — Genesis 11:27–31
 - [[The Call of Abram]] — Genesis 12:4–5; the relative Abram brings out of the father's house he was

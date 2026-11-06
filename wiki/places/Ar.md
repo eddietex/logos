@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Ar is named in the grant to Lot’s descendants and as the border of Moab that Israel is to pass (9,
+18). The passage gives a territorial role without supplying a modern identification.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Sihon and Og — Numbers 21:21–35
 
 Ar of Moab is devoured by the fire from Heshbon in the quoted poem (28). This is an account of
@@ -22,6 +29,8 @@ entire country.
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

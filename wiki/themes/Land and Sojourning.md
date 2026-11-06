@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+The land giver also sets territorial limits: Israel receives none of Seir, Moab, or Ammon here (5,
+9, 19). Purchasing food and water recognizes another people’s possession (6).
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The oath to the fathers continues through the children even while their parents lose entry (35–39).
@@ -495,6 +502,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the good land given and refused.

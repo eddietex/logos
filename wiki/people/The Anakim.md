@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+The Anakim serve as the measure of the stature of the Emim and Zamzummim (10–11, 21). The WEB also
+classes the Anakim with the Rephaim (11). These comparisons do not supply a genealogy or identify
+every named group as identical.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 The people at Hebron whom the spies feared most. They enter at Numbers 13:22: *Ahiman, Sheshai, and
 Talmai, the children of Anak, were there*. Numbers 13 never uses the plural form *Anakim*, which
 first occurs at Deuteronomy 1:28 by the WLC tags. It has *yəlîdê hāʿănāq* (22, 28) and *bənê ʿănāq*
@@ -41,6 +49,8 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - *(ahead)* Removed from Hebron — Joshua 11:21–22; 15:14; Judges 1:10, 20
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Twelve Spies]] — Numbers 13:22, 28, 33
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28

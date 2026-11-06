@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Israel must not contend with the descendants of Esau or Lot (5, 9, 19). The asides recall other
+peoples’ violent displacement, so this is a restriction on these campaigns rather than a universal
+ban on warfare.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Weapons and willingness to fight cannot substitute for Yahweh’s presence (41–44). The Amorites
@@ -346,6 +354,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

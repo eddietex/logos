@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+Commands not to contend with neighboring kin direct Israel toward payment and avoidance of battle
+(4–9, 19). The narrative does not report a reconciliation ceremony or claim that national hostility
+has permanently ended.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Baal Peor — Numbers 25:1–18
 
 The covenant of peace follows a lethal act credited with turning away consuming wrath (11–13). The
@@ -382,6 +390,8 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

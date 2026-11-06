@@ -67,6 +67,8 @@ WEB, copied verbatim from the stored Numbers source.
 
 ## Cross-references
 
+- [[Protected Lands and Refused Passage - Numbers 20 and Deuteronomy 2]] — [[Around Seir and Past Moab and Ammon]]; Deuteronomy 2:1–23.
+
 - [[Edom and Sihon - Refused Passage and Different Outcomes]] — comparison with [[Sihon and Og]].
 
 

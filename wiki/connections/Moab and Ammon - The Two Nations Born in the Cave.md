@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
+
 - [[Lot and His Daughters]] — Genesis 19:30–38, the origin: *"He is the father of the Moabites to
   this day"*, *"He is the father of the children of Ammon to this day"*
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, the Emim and Zuzim already in the country
@@ -28,6 +30,15 @@ tags: [connection]
 
 ## Analysis
 
+### Deuteronomy 2 now ingested
+
+The now-ingested Deuteronomy 2:1–23 explicitly protects the possessions of Lot’s descendants
+(9, 19). Its ethnographic asides need careful differentiation: verses 10–11 name the Emim as
+former inhabitants without expressly narrating Yahweh destroying them; verses 20–21 expressly
+attribute the Zamzummim’s removal to Yahweh. The analogy is real but the earlier formulation about God dispossessing both groups has therefore been narrowed below.
+
+Source for this update: stored WEB Deuteronomy 2:1–23.
+
 Genesis explains most of the peoples around Israel in a list. Moab and Ammon it explains in a
 scene, and the scene is the ugliest in the Abraham cycle. **What happens to those two nations
 afterwards is the reason the wiki keeps this as a thread rather than filing it under the
@@ -38,20 +49,16 @@ passage.** The canon does four different things with them, and they do not add u
 The single most surprising verse in the thread is in Deuteronomy, and it is spoken on the march to
 the conquest:
 
-> Don't bother Moab, neither contend with them in battle; for I will not give you his land for a
-> possession, because I have given Ar to the children of Lot for a possession. *(Deuteronomy 2:9)*
+Deuteronomy 2:9 forbids battle against Moab because Ar has been given to Lot’s descendants;
+verse 19 gives the same ground for protecting Ammon. Israel’s anticipated possession does
+not authorize taking these lands. The shared language of gift and possession is visible
+in the stored WEB; no claim about exact Hebrew wording is required here.
 
-And nineteen verses later, the same for Ammon (2:19). **In the book whose entire subject is the
-taking of Canaan, Israel is forbidden to take Moab or Ammon, and the ground of the prohibition is a
-divine land grant to the offspring of the cave.** The formula is the one used of Israel's own
-inheritance — *given for a possession* — and the recipients are identified not by their own names
-but as *bənê Lôṭ*, the children of Lot.
-
-Deuteronomy 2 goes further and supplies a small ethnography: the **Emim** held Moab before Moab did,
-the **Zamzummim** held Ammon, both were Rephaim, and God dispossessed them for Lot's descendants
-exactly as he did the Horites for Esau and will do the Canaanites for Israel. **The conquest
-theology is applied to Moab and Ammon in their own favour.** See
-[[The Nephilim and the Giants of Canaan]].
+The Emim are named as former inhabitants of Moab (10–11), while the Zamzummim’s destruction
+before Ammon is explicitly attributed to Yahweh (20–21). The Horites’ displacement before
+Esau supplies another comparison (12, 22). The account thus places Israel’s possession beside
+other peoples’ possessions without describing every displacement in identical terms.
+See [[The Nephilim and the Giants of Canaan]].
 
 ### 2. They are barred from the assembly, on the Sodom charge
 

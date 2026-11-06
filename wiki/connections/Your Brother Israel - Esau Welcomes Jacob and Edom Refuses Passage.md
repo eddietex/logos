@@ -7,10 +7,21 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
+
 - [[The Reconciliation with Esau]] — Genesis 33:1–17.
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
 
 ## Analysis
+
+### Deuteronomy 2 now ingested
+
+Deuteronomy 2:4–8 again calls Esau’s descendants brothers and commands Israel not to contend
+with them, grounding the restriction in their own divine land grant. It does not narrate a
+reconciliation or repeat Numbers’ embassy. The distinct emphases are retained in
+[[Protected Lands and Refused Passage - Numbers 20 and Deuteronomy 2]].
+
+Source for this update: stored WEB Deuteronomy 2:1–23.
 
 Jacob approaches Esau with his family and livestock while Esau comes with four hundred men.
 The feared encounter ends in embrace, gifts, and an offer of escort; the two then take separate

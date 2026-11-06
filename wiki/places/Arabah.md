@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
+
+The Arabah road is named with Elath and Ezion Geber in the movement past Seir toward Moab (8). No
+exact modern route is assigned.
+
+See [[Around Seir and Past Moab and Ammon]]. Source: stored WEB Deuteronomy 2:1–23.
+
 ### Leave Horeb and possess the land — Deuteronomy 1:6–8
 
 Named again in Yahweh's remembered command (7), now as one region of the land to be entered rather than as part of the setting of the address. The list does not define its boundaries.
@@ -21,6 +28,8 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+
+- [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 
