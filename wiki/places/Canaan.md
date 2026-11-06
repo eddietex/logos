@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Living in the nations' land — Deuteronomy 12:29–13:18
+
+Unnamed, the land is where Israel will *"dwell in their land"* after the nations are cut off (12:29), and its towns are *"your cities, which Yahweh your God gives you"* (13:12). A town in it drawn to other gods is to be devoted and left *"a heap forever"* (13:16).
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Shrines to destroy and one place to seek — Deuteronomy 12:1–28
 
 Unnamed, the land is *"the land which Yahweh, the God of your fathers, has given you to possess"* (1). Its existing shrines on mountains, hills, and under green trees are to be destroyed (2–3), and one place in it, never named, is to be chosen by Yahweh (5).
@@ -601,6 +607,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
   Joshua and Caleb
 - [[The Defeat at Hormah]] — Numbers 14:40–45; the land attempted after it was refused
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:2, 18; *the land of your habitations*, unnamed
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the nations' land and Israel's towns; an apostate town left a heap.
 
 ## Related places
 

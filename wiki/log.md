@@ -22949,3 +22949,37 @@ controller files were unchanged.
 Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
 not-yet-started book targets. Frontmatter counts and the book queue agree. The Places index (222
 rows) remains past the 150-row split trigger; the split was not attempted in this ingest.
+
+## [2026-11-06] ingest | Deuteronomy 12.29-13.18 — Do Not Follow Other Gods
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and two connections:
+[[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]] and
+[[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]]. Revised 38 existing
+pages including this log: Deuteronomy, two people (God, Moses), two places (Egypt, Canaan),
+fourteen themes, four existing connections (Every Word of God Is Flawless, Right in His Own Eyes,
+Child Sacrifice and the Redemption of the Firstborn, Devoted to Destruction), five earlier passage
+pages (Cross-references), and nine index/dashboard pages. Deuteronomy is now 30 / 69. Counts by
+frontmatter type are 355 passages, 257 people, 222 places, 87 themes, and 739 connections.
+
+Judgment calls: the prophet, the enticing relative, and the "wicked fellows" of 13:13 are
+hypothetical figures in case law and get no person pages. The severity of the three death
+sentences is stated plainly on the passage page, with the text's own grounds (recruitment, the
+exodus, deterrence, diligent inquiry) recorded without being offered as a resolution; whether the
+laws were enforced is left open. The relative case (13:6–11) has no inquiry clause, unlike
+13:14 and 17:4–6; the difference is recorded and not harmonized. 12:31's *burn* is distinguished
+from 18:10's *pass through the fire* and Leviticus' *give* to Molech, without deciding whether they
+name one rite. 1 Corinthians 5:13 is not tied to 13:5 alone, since the formula recurs in eight later
+Deuteronomy verses. The link between 12:32's ban on adding and the sign-giving prophet of 13:1–5 is
+marked as the wiki's reading. Prophecy and Vision was added to the book page's key themes.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 12:29–13:18. Comparisons verified in
+stored WEB Deuteronomy 4:2, 6:5, 8:2, 17:2–7, 17:12, 18:10, 18:20–22, 19:19, 21:21, 22:21–24, 24:7;
+Exodus 7:11–12, 22, 8:7, 32:26–29; Leviticus 18:21, 20:2. Matthew 10:37, 24:24, 1 Corinthians
+5:1–13, Galatians 1:8, 1 John 4:1, and Joshua 6:19 verified from bible-api.com (WEB) without storing
+those books. Hebrew claims (*śārap* 12:31; *lōʾ tōsēp / lōʾ tigraʿ* 4:2 and WLC 13:1; *nāsâ*,
+*dābaq*, *bāʿar*, *pādâ*, *sût*, *bənê bəliyyaʿal*, *ḥāram/ḥērem*)
+checked against WLC Deuteronomy from morphhb (openscriptures, GitHub), retrieved 2026-11-06; WLC
+numbering in chapter 13 runs one verse ahead of the WEB, and each Hebrew claim gives its WLC verse.
+The Job page's existing claim that Deuteronomy 13:6 uses *hēsît* (*sût*) is consistent with WLC 13:7.
+Raw files, canonical workflow instructions, and controller files were unchanged.

@@ -128,6 +128,12 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Do not ask how they served their gods — Deuteronomy 12:29–13:18
+
+After Yahweh cuts off the nations, Israel must not be *"ensnared to follow them"* or ask how they served their gods (12:29–30), because they did every abomination Yahweh hates (12:31). The gods of *"the peoples who are around you, near to you, or far off"* are the enticer's offer (13:7).
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Nations greater and mightier — Deuteronomy 11:18–32
 
 Yahweh will drive out *"nations greater and mightier than yourselves"* (23) and lay the fear and dread of Israel on the land (25), on condition of Israel's obedience (22). The curse is going after *"other gods, which you have not known"* (28).
@@ -592,6 +598,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The People Refuse the Land]] — Numbers 14:13–16; the nations as the audience of Israel's fate
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:14–16, 26, 29; *as you are, so shall the foreigner be*
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:12–34; seventy bulls, read in Sukkah 55b as offered for the seventy nations
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; their rites not to be imitated; their gods near and far.
 
 ## Related themes
 

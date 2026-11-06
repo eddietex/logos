@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Do Not Follow Other Gods]] (12:29–13:18) forbids imitating the nations' rites, which included
+burning their children, and adds nothing to the command. A prophet whose sign comes true, a relative
+who entices in secret, and a town drawn away to other gods all face death; the town is devoted.
+
 [[The Place Yahweh Will Choose]] (12:1–28) opens the law code with worship. The nations' shrines
 are destroyed, and offerings, tithes, and vows go only to the one unnamed place Yahweh will choose
 for his name. Ordinary meat may now be eaten at home, but never its blood.
@@ -164,7 +168,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **29 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **30 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -195,7 +199,7 @@ Plan drawn 2026-11-05 from the stored WEB. **29 / 69 pericopes ingested.**
 - [x] [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
 - [x] [[Set These Words Before You]] — Deuteronomy 11:18–32
 - [x] [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28
-- [ ] Do Not Follow Other Gods — Deuteronomy 12:29–13:18
+- [x] [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18
 - [ ] A Holy People and Its Food — Deuteronomy 14:1–21
 - [ ] Tithes for Feasting and Provision — Deuteronomy 14:22–29
 - [ ] The Year of Release and the Open Hand — Deuteronomy 15:1–11
@@ -244,6 +248,7 @@ Plan drawn 2026-11-05 from the stored WEB. **29 / 69 pericopes ingested.**
 - [[Sacrifice and Offering]]
 - [[The Dwelling of God]]
 - [[Mediation and Advocacy]]
+- [[Prophecy and Vision]]
 - [[Remembrance]]
 - [[The Wilderness]]
 - [[War]]

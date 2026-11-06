@@ -74,6 +74,12 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Redeemed out of the house of bondage — Deuteronomy 12:29–13:18
+
+The prophet who leads to other gods speaks rebellion against *"Yahweh your God, who brought you out of the land of Egypt, and redeemed you out of the house of bondage"* (13:5; the verb is *pādâ*, WLC 13:6, morphhb). Redemption is the stated ground of the law's severity toward enticement.
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Verse 8 explicitly calls the exodus redemption from bondage and Pharaoh’s hand. Love and fidelity
@@ -344,6 +350,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Lamp of the Commandment]] — Proverbs 6:35; *kōp̄er* offered by the adulterer and refused
 - [[Thirty Excellent Things]] — Proverbs 23:11; The fatherless's *Defender*, Hebrew *gōʾēl*.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the *gōʾēl* as the one who receives the payment.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; redemption from Egypt as the ground of loyalty.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

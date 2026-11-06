@@ -38,6 +38,12 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### When the brother is the enticer — Deuteronomy 12:29–13:18
+
+*"If your brother, the son of your mother … entices you secretly"* (13:6): kinship gives no protection against the charge of leading to other gods, and the one enticed must not conceal him (13:8). Exodus 32:27–29 has the Levites act against brother and companion after the calf.
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Edom refuses passage — Numbers 20:14–21
 
 Israel addresses Edom as a brother, but kinship does not produce permission to pass.
@@ -350,6 +356,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[Miriam and Aaron Against Moses]] — Numbers 12; Miriam and Aaron against Moses.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *Shall your brothers go to the war, and shall you sit here?*
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the brother, child, wife, or friend who entices (13:6–11).
 
 ## Related themes
 

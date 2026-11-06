@@ -76,6 +76,8 @@ individual offenders face cutting off (24–30).
 - [[Lying with the Father's Concubine - A Claim on the Succession]]
 - [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
 - [[Defilement of Body and Land - Leviticus 15 and 18]]
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:31; the nations *"burn their sons and their
+  daughters in the fire"*, without Molech's name.
 
 ## Notes
 

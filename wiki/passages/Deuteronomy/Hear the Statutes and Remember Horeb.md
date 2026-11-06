@@ -103,6 +103,8 @@ Source: stored WEB, Deuteronomy 4:1–14. Full unit copied verbatim.
 - [[The Ten Commandments]] — Exodus 20:1–21.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 - [[Moses Pleads to Cross the Jordan]] — the preceding unit; Moses will not enter, but teaches for the land.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:32; the prohibition on adding or taking away,
+  repeated before the cases of enticement to other gods.
 
 ## Notes
 

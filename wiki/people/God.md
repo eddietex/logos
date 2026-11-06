@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He tests, and he shows mercy — Deuteronomy 12:29–13:18
+
+Yahweh cuts off the nations and hates what they did for their gods, including burning their children (12:29–31). When a prophet's sign comes true but the message is other gods, *"Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul"* (13:3). The death penalties are grounded in his act of redemption from *"the house of bondage"* (13:5, 10), and when nothing devoted is kept he turns from his anger and shows mercy (13:17).
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### The place he chooses — Deuteronomy 12:1–28
 
 Yahweh chooses one place out of all the tribes *"to put his name there"* (5), and Israel is not to worship him as the nations worshiped their gods, at every high hill and green tree (2–4). He gives rest from enemies (10), blesses the work of Israel's hands (7, 15), and his eyes, not the worshiper's, measure what is right (25, 28).
@@ -4293,6 +4299,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; calls the offerings *my food* and fixes their times.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; fixes the offerings of every annual feast.
 - [[Vows of Men and Women]] — Numbers 30:1–16; receives vows, and forgives a woman whose vow is voided.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; tests Israel through a fulfilled sign; turns from anger to mercy.
 
 ## Related people
 

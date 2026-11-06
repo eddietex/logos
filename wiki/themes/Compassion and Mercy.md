@@ -69,6 +69,12 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### No pity for the enticer, mercy for Israel — Deuteronomy 12:29–13:18
+
+The relative who entices to other gods is not to be pitied, spared, or concealed (13:8). If nothing devoted is kept from the apostate town, Yahweh will *"turn from the fierceness of his anger, and show you mercy, and have compassion on you, and multiply you"* (13:17). Mercy is withheld from the offender and promised to the nation.
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 The awesome ruler gives food and clothing to the foreigner and upholds widow and fatherless (17–18). Israel’s answering love is grounded in God’s action as well as its own remembered need (19).
@@ -482,6 +488,7 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 - [[Through Wisdom a House Is Built]] — Proverbs 24:10–12; The duty to rescue those led to death; the plea of ignorance refused.
 - [[The Glory of Kings]] — Proverbs 25:20–22; Cheer that wounds a heavy heart; food and water for an enemy.
 - [[The People Refuse the Land]] — Numbers 14:17–20; the proclamation quoted, in part, as a plea
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; *neither shall your eye pity him* (13:8); mercy to Israel (13:17).
 
 ## Related themes
 

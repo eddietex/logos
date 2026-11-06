@@ -123,6 +123,12 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### The sword turned on an Israelite town — Deuteronomy 12:29–13:18
+
+A town drawn to other gods is struck *"with the edge of the sword"* and devoted to destruction with its livestock (13:15), using the *ḥāram/ḥērem* vocabulary of the conquest (WLC 13:16, 18, morphhb). Its plunder is burned, not divided. See [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]].
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### No man will be able to stand — Deuteronomy 11:18–32
 
 Conquest is promised as a consequence of obedience: Yahweh will drive out the nations, *"no man will be able to stand before you"*, and he will lay the dread of Israel on the land (23, 25). The dread recalls 2:25.
@@ -561,6 +567,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Defeat at Hormah]] — Numbers 14:42–45; battle without the ark or Moses
 - [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance and its aftermath.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; armed service *before Yahweh* as the price of land.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; an apostate Israelite town devoted to destruction (13:12–18).
 
 ## Related themes
 

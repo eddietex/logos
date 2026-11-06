@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Follow Other Gods]] — Deuteronomy 13:12–18; an Israelite town (now ingested).
+
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
@@ -27,6 +29,21 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### Deuteronomy 13:12–18 now ingested
+
+*Ḥērem* is turned inward. A town of Israel drawn to other gods is to be struck *"destroying it
+utterly"* (*haḥărēm*, WLC 13:16) with its inhabitants and livestock, after diligent inquiry (13:14).
+Unlike Jericho's metal, which was *"holy to Yahweh"* and went *"into Yahweh's treasury"* (Joshua
+6:19, WEB, verified from bible-api.com), this plunder goes nowhere: it is gathered into the square and
+burned with the city *"to Yahweh your God"*, and the city is never rebuilt (13:16). *"Nothing of the
+devoted thing"* (*haḥērem*, WLC 13:18) may cling to Israel's hand — the verb *dābaq*, the same one
+used in 13:4 for clinging to Yahweh (WLC 13:5). Keeping it would bring the anger that the
+destruction is meant to turn away (13:17); this is the rule that Joshua 7 narrates broken, cited
+here by reference until Joshua is stored.
+
+Source for this addition: stored WEB Deuteronomy 13:12–18; WLC (morphhb), retrieved 2026-11-06.
+Joshua 6:19 verified from bible-api.com (WEB), 2026-11-06.
 
 ### Deuteronomy 7:12–26 now ingested
 
@@ -66,6 +83,7 @@ that. The Hebrew joins a priest's field to a conquered city.
 | Exodus 22:20 | one who sacrifices to another god | death, as a sentence |
 | Numbers 21:2 | enemy cities, vowed | destroyed; the place is named Hormah (21:3), already the site of the defeat of [[The Defeat at Hormah]] (14:45) |
 | Deuteronomy 7:2 | the nations of the land | destruction, in war |
+| Deuteronomy 13:16, 18 (WLC; WEB 13:15, 17) | an Israelite town gone after other gods | destroyed, plunder burned, never rebuilt |
 | Joshua 6:17 | Jericho | all devoted except Rahab's house |
 | 1 Samuel 15:3 | Amalek | Saul spares Agag and the best animals |
 | Numbers 18:14; Ezekiel 44:29 | devoted things in Israel | priestly income |

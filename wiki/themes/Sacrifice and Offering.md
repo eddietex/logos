@@ -93,6 +93,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### What the nations did for their gods — Deuteronomy 12:29–13:18
+
+Israel must not ask how the nations served their gods, *"for they even burn their sons and their daughters in the fire to their gods"* (12:31). The apostate town and all its plunder are burned *"to Yahweh your God"* (13:16) — destruction, not an offering to be eaten. See [[Child Sacrifice and the Redemption of the Firstborn]].
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### One place for offerings, meat at home — Deuteronomy 12:1–28
 
 Burnt offerings, sacrifices, tithes, wave offerings, vows, freewill offerings, and firstborn go to the chosen place (6, 11, 17–18, 26–27), not to *"every place that you see"* (13). Ordinary domestic slaughter is released from the sanctuary *"within all your gates"* (15, 21), changing Leviticus 17:3–5's camp rule. See [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
@@ -946,6 +952,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:1–16, 24–29; meal and drink offerings required with every animal
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the daily, Sabbath, and new-moon offerings, cumulative on the continual burnt offering
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the feast offerings, cumulative on the continual and the new moon
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; children burned by the nations (12:31); the devoted town burned.
 
 ## Related themes
 

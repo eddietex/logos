@@ -44,6 +44,12 @@ happens.
 
 ## Development across Scripture
 
+### A true sign from a false prophet — Deuteronomy 12:29–13:18
+
+A prophet or *"dreamer of dreams"* may give a sign that really comes to pass and still say *"Let us go after other gods"*; Israel must not listen, and the prophet dies (13:1–5). Fulfilment does not authenticate a prophet; 18:20–22 later adds that failure exposes one. See [[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]].
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Balaam sees Israel’s tents and claims a vision beyond the immediate scene (24:2–4, 15–19). The
@@ -87,7 +93,7 @@ See [[Balak Sends for Balaam]]. Source: stored WEB Numbers 22:1–21.
   Balaam's oracles (Numbers 24:4, 16).
 - **Numbers 22–24** — Balaam: a prophet who is not an Israelite, hired to curse and unable to, and
   who says the true thing anyway. The office is not confined to the covenant people.
-- **Deuteronomy 13:1–5; 18:15–22** — the two tests. Fulfilment is one and is the weaker: a sign that
+- [[Do Not Follow Other Gods]], **Deuteronomy 13:1–5; 18:15–22** — the two tests. Fulfilment is one and is the weaker: a sign that
   comes true but leads to other gods condemns the prophet who gave it.
 - **1 Samuel 3** — the call of Samuel, and 3:1's flat notice that *"Yahweh's word was rare in those
   days; there were not many visions."*
@@ -403,6 +409,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[Wisdom Calls in the Street]] — Proverbs 1:23; Wisdom speaks in prophetic forms and promises to pour out her spirit
 - [[The Seventy Elders and the Quail]] — Numbers 11:25–29; the first use of the verb, and Moses' wish.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; a vision and a dream for prophets, *mouth to mouth* for Moses.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the prophet or dreamer whose sign comes true but leads to other gods.
 
 ## Related themes
 

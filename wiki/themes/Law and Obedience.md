@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Add nothing, take nothing away — Deuteronomy 12:29–13:18
+
+*"Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it"* (12:32), repeating 4:2. A prophet's sign that urges other gods would add to the command, and Israel must not listen (13:1–3). The unit closes with *"that which is right in Yahweh your God's eyes"* (13:18).
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### The statutes begin — Deuteronomy 12:1–28
 
 *"These are the statutes and the ordinances"* (1) opens the law code of chapters 12–26, and the code begins with worship. Present practice, *"every man whatever is right in his own eyes"* (8), is to give way to *"that which is right in Yahweh's eyes"* (25, 28). See [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]].
@@ -1485,6 +1491,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:2; keeping the offerings at their appointed times
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:18, 40; offerings *after the ordinance*, and Moses' report
 - [[Vows of Men and Women]] — Numbers 30:1, 16; household statutes for vows
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 12:32; nothing added or taken away.
 
 ## Related themes
 

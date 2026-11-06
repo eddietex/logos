@@ -32,6 +32,18 @@ tags: [connection]
 
 ## Analysis
 
+### Deuteronomy 12:31 now ingested
+
+[[Do Not Follow Other Gods]] gives the reason Israel must not ask how the nations served their
+gods: *"for they even burn their sons and their daughters in the fire to their gods"* (12:31). The
+verb is *śārap*, to burn (WLC 12:31, morphhb). Unlike Leviticus 18:21 and 20:2, the verse names no
+Molech; it attributes the practice to the nations generally, as *"every abomination to Yahweh, which
+he hates"*. Deuteronomy 18:10's *"pass through the fire"* is a different phrase, and this page does
+not decide whether the two describe the same rite.
+
+Source: stored WEB Deuteronomy 12:29–31, 18:10; Leviticus 18:21, 20:2. WLC from morphhb, retrieved
+2026-11-06.
+
 ### Leviticus 20 now ingested
 
 Leviticus 20:2–5 now supplies communal stoning, divine cutting off, and the case of a community

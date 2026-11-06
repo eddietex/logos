@@ -46,6 +46,12 @@ Read together, the three settings give three answers to *right in his own eyes*:
 and Yahweh's eyes (Deuteronomy), a king (Judges, as its refrain implies), and counsel and Yahweh's
 weighing of hearts (Proverbs). The wiki does not make any of them the key to the others.
 
+**Deuteronomy 13:18 now ingested.** The next unit closes on the same contrast: obedience is *"to
+do that which is right in Yahweh your God's eyes"* (13:18), here set against following other gods
+rather than against worship at many places. See [[Do Not Follow Other Gods]].
+
+Source for this addition: stored WEB Deuteronomy 13:18.
+
 ## Significance
 
 The phrase ties Deuteronomy's law of the place to the history that follows. Moses describes his

@@ -24,6 +24,12 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Love tested by a fulfilled sign — Deuteronomy 12:29–13:18
+
+The prophet's fulfilled sign tests *"whether you love Yahweh your God with all your heart and with all your soul"* (13:3), the first two phrases of 6:5. Love here is exclusive loyalty: walking after Yahweh, fearing, obeying, serving, and clinging to him (13:4). The second case sets that loyalty above the love of brother, child, wife, and *"your friend, who is as your own soul"* (13:6).
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Love, walk, cling — Deuteronomy 11:18–32
 
 Love for Yahweh appears inside a four-part condition: keep the commandments, love Yahweh, walk in all his ways, and cling to him (22). Possession of the land follows (23–25).
@@ -683,6 +689,7 @@ Source: stored WEB Song 8:13–14.
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; love for Yahweh tested (13:3) and set above family and friend (13:6).
 
 ## Related themes
 

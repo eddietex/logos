@@ -54,6 +54,12 @@ one.
 
 ## Development across Scripture
 
+### A sign that comes to pass and must be refused — Deuteronomy 12:29–13:18
+
+The sign or wonder of a prophet who leads to other gods *"comes to pass"* (13:2), yet Israel must not listen (13:3). The exodus, not the sign, is the ground of loyalty (13:5). See [[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]].
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 The signs and works in Egypt, "his mighty hand, his outstretched arm", are recalled as a body of evidence the hearers have seen (2–3). They are presented as chastisement, instruction for obedience.
@@ -82,8 +88,8 @@ See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 
 - **Deuteronomy 4:34; 6:22** — *"by signs, by wonders, by war, by a mighty hand"*: the exodus
   remembered as the definitive sign, *shown to you so that you might know that Yahweh is God* (4:35).
   See [[Has Any People Heard God and Lived]]; 6:22 is still ahead.
-- *(ahead)* **Deuteronomy 13:1–3** — a sign that comes true from a prophet who leads to other gods is
-  not to be believed.
+- [[Do Not Follow Other Gods]], **Deuteronomy 13:1–3** — a sign that comes true from a prophet who
+  leads to other gods is not to be believed.
 - *(ahead)* **Acts 2:22** — Jesus *"approved by God to you by mighty works and wonders and signs"*.
 - *(ahead)* **John 20:30–31** — the Gospel's signs *"written, that you may believe"*.
 
@@ -201,6 +207,7 @@ See [[The People Refuse the Land]].
   told to watch it** — the correlation is simply reported
 - [[Laws of Holiness and Compassion]] — Exodus 22:18; the sorceress, with the root of Pharaoh's sorcerers
 - [[The People Refuse the Land]] — Numbers 14:11, 22; the signs as the charge
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; a fulfilled sign that does not authenticate the prophet.
 
 ## Related themes
 

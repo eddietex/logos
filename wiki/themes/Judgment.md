@@ -255,6 +255,12 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Inquire diligently, then remove the evil — Deuteronomy 12:29–13:18
+
+The three enticement cases end in death; the first introduces Deuteronomy's formula *"So you shall remove the evil from among you"* (13:5). The town case requires inquiry first: *"you shall inquire, and make search, and ask diligently"*, and action only *"if it is true, and the thing certain"* (13:14). See [[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]].
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Judgment is recalled outward and inward: on Egypt's army at the sea (4) and on Dathan and Abiram "in the middle of all Israel" (6). It is threatened forward as anger that shuts the sky, so that Israel perishes quickly from the good land (17).
@@ -1267,6 +1273,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[The People Refuse the Land]] — Numbers 14:26–37; the generation's own words as the sentence
 - [[The Defeat at Hormah]] — Numbers 14:43–45; the sword they feared
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30–31; cut off, with the iniquity on the person
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; death for enticement; diligent inquiry; *remove the evil*.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

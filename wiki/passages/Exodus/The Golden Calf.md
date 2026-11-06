@@ -125,6 +125,9 @@ scene.
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses sees commanded work and blesses, contrasting with his response in 32:19.
 - [[Made to Drink - Numbers 5.24 and Exodus 32.20]] — Exodus 32:20; made to drink, with [[The Suspected Wife]]
+- [[Do Not Follow Other Gods]] — Deuteronomy 13:6–11; the law against a brother, child, wife, or
+  friend who entices to other gods, set beside the Levites' action against brother and companion
+  (32:27–29).
 
 ## Notes
 

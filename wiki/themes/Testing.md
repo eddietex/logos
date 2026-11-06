@@ -58,6 +58,12 @@ same verb is faith when God is the subject and unbelief when a human being is.**
 
 ## Development across Scripture
 
+### A false prophet as Yahweh's test — Deuteronomy 12:29–13:18
+
+*"Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul"* (13:3). The verb is *nāsâ* (WLC 13:4, morphhb), as in 8:2's wilderness testing. Here the instrument of the test is a prophet whose sign succeeds.
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 **Genesis 22 — the pattern case.** God tests Abraham by asking for the son the whole promise runs
 through. The reader is told; the man is not. The test's object is named at its close: *"now I know
 that you fear God"*. What it proves is not that Abraham believes a proposition but that he will act
@@ -198,6 +204,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 - **Exodus 16:4; 17:2, 7; 20:20** — the wilderness tests after Marah, in both directions *(not yet
   ingested)*
 - **Deuteronomy 8:2, 16; 13:1–3** — testing as pedagogy, and a false prophet as an instrument of it
+  ([[Do Not Follow Other Gods]])
 - **Psalm 66:10; Proverbs 17:3; Isaiah 48:10; Zechariah 13:9; Malachi 3:2–3** — the furnace
 - **Matthew 4:1–11; Luke 22:31–32** — Jesus tested, and Simon sifted like wheat
 - **James 1:2–4, 12–15; 1 Peter 1:6–7; Hebrews 11:17** — endurance, the crown, and the line between
@@ -272,6 +279,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
   encounter
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:21; The crucible and furnace of 17:3 again, with praise as the test.
 - [[The People Refuse the Land]] — Numbers 14:22; *they have tempted me these ten times*
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:3; Yahweh tests Israel's love through a fulfilled sign.
 
 ## Related themes
 

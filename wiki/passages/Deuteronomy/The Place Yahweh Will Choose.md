@@ -122,6 +122,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   commanded within the same book that restricts sacrifice to the chosen place.
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17, the earlier camp rule.
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24, *"in every place where I record my name"*.
+- [[Do Not Follow Other Gods]] — 12:29–13:18; the next unit, where *"You shall not do so to Yahweh
+  your God"* (31) returns against the nations' rites.
 
 ## Notes
 

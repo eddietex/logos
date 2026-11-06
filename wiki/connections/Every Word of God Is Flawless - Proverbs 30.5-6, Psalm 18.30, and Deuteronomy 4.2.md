@@ -11,6 +11,8 @@ tags: [connection]
 - [[The Covenant Between the Pieces]] — Genesis 15:1, God as Abram’s shield.
 - Psalm 18:30 and 2 Samuel 22:31 — God’s tested word and refuge; verified WEB, not yet ingested.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:2, do not add to or take away from the command.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:32 (WLC 13:1), the same prohibition before the
+  cases of enticement to other gods.
 
 ## Analysis
 
@@ -44,6 +46,18 @@ which I command you, neither shall you take away from it, that you may keep the 
 your God which I command you.* Its context is Moses' teaching of statutes for life in the land (4:1, 5),
 so the prohibition protects obedience to the commanded word; it is not framed, as Proverbs 30:6 is, as a
 warning against being found a liar.
+
+**Deuteronomy 12:32 now ingested.** *"Whatever thing I command you, that you shall observe to do.
+You shall not add to it, nor take away from it."* In the Hebrew it repeats 4:2's two verbs, *lōʾ
+tōsēp* and *lōʾ tigraʿ*, with the same object, the word *that I command you* (WLC Deuteronomy 4:2 and
+13:1, morphhb). The setting differs: in 4:2 it introduces the statutes; here it stands between the
+ban on the nations' rites (12:29–31) and a prophet whose fulfilled sign urges other gods (13:1–5).
+That prophet is the case of someone adding to the command with apparent divine backing, and
+Deuteronomy refuses it. This is the wiki's reading of the sequence; the text does not draw the link
+in so many words.
+
+Source for this addition: stored WEB Deuteronomy 4:2, 12:32–13:5; WLC (morphhb), retrieved
+2026-11-06.
 
 ## Significance
 

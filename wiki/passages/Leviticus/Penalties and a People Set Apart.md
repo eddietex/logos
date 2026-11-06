@@ -75,6 +75,8 @@ A final provision prescribes stoning for a man or woman who is a medium or wizar
 - [[Child Sacrifice and the Redemption of the Firstborn]]
 - [[Defilement of Body and Land - Leviticus 15 and 18]]
 - [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:31 and 13:6–11; children burned by the nations, and
+  another stoning law against enticement to other gods.
 
 ## Notes
 

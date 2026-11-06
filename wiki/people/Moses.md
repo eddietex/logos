@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Add nothing and follow no other god — Deuteronomy 12:29–13:18
+
+Moses forbids adding to or taking from what he commands (12:32), repeating 4:2, and sets out three cases of enticement to other gods: a prophet with a fulfilled sign, a relative or friend in secret, and a whole town (13:1–18). He frames every case in terms of the exodus and of love for Yahweh.
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### The place Yahweh will choose — Deuteronomy 12:1–28
 
 Moses opens the statutes and ordinances (1) and includes himself in the present practice that must end: *"the things that we do here today, every man whatever is right in his own eyes"* (8). He adapts the camp rule of Leviticus 17 for a people spread across the land, permitting meat at home while keeping offerings for the chosen place (15–27).
@@ -1957,6 +1963,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; receives the calendar of daily, Sabbath, and new-moon offerings.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; receives the offerings of the annual feasts and tells them to Israel (29:40).
 - [[Vows of Men and Women]] — Numbers 30:1–16; speaks the vow law to the heads of the tribes.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; add nothing, take nothing away; three cases of enticement to other gods.
 
 ## Related people
 

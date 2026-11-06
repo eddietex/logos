@@ -119,6 +119,12 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Three voices saying "let us serve other gods" — Deuteronomy 12:29–13:18
+
+After the nations are gone, Israel must not ask *"How do these nations serve their gods? I will do likewise"* (12:30). Three cases follow — a prophet with a fulfilled sign, a relative or friend enticing in secret, and a town drawn away — each with the words *"Let us go … and serve other gods"*, and each ending in death (13:1–18). The offence is recruitment, and it is treated as rebellion against the God of the exodus (13:5, 10).
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Destroy their places — Deuteronomy 12:1–28
 
 Every site where the nations served their gods — high mountains, hills, *"under every green tree"* — is to be destroyed: altars, pillars, Asherah poles, engraved images, and their name (2–3). *"You shall not do so to Yahweh your God"* (4): Yahweh is not to be worshiped at many self-chosen sites, as they were.
@@ -471,6 +477,7 @@ texts, 2026-10-25.
 - [[The Tabernacle Curtains and Frames]] — Exodus 26:1–37; Commanded cherubim appear on textiles as well as on the ark (26:1, 31).
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses blesses commanded craftsmanship after condemning the calf.
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the nations' rites not to be imitated; three cases of enticement.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

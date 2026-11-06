@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The house of bondage — the ground of the sentence — Deuteronomy 12:29–13:18
+
+Egypt is named only as the place Yahweh brought Israel out of, *"the house of bondage"* (13:5, 10). Both the prophet and the relative who entice to other gods die because they would draw Israel away from the God who redeemed it from there.
+
+See [[Do Not Follow Other Gods]]. Source: stored WEB Deuteronomy 12:29–13:18.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Egypt appears twice: as the scene of Yahweh's signs against Pharaoh and his land (3), and as the contrast to the promised land, a place where seed was watered "with your foot" rather than by rain from the sky (10–11). The point of the contrast is dependence on Yahweh, not which land is more fertile.
@@ -670,6 +676,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The Twelve Spies]] — Numbers 13:22; named in the date of Hebron
 - [[The People Refuse the Land]] — Numbers 14:2–4, 13, 19, 22; where they wish they had died, and
   propose to return
+- [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; the house of bondage, the ground of the death sentences.
 
 ## Related places
 
