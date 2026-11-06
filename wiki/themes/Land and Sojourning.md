@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The eastern grant is already possession and rest, yet its recipients must help their brothers
+possess the western land before returning home (18–20). Land given to one group carries
+responsibility toward the whole people.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Victory becomes possession of the two kings’ territory from the Arnon to Hermon (8–10). Territorial
@@ -517,6 +525,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

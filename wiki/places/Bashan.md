@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+All Bashan, Og’s former kingdom and a land of Rephaim, goes to half of Manasseh (13). Jair’s taking
+and naming of Argob is recalled within this allocation (14).
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Og’s kingdom includes sixty fortified cities in Argob and many unwalled villages (4–5). Israel takes
@@ -35,6 +42,7 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

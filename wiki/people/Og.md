@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+His former kingdom, Bashan, is assigned to half of Manasseh (13). He is one of the two defeated
+kings whose fate supplies encouragement for Joshua (21), not a living participant in the allocation.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Deuteronomy identifies Og as the remaining survivor of the Rephaim remnant and describes his iron
@@ -41,6 +48,7 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

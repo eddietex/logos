@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Armed men cross while families and livestock stay in the granted cities (18–20). Yahweh’s fighting
+for Israel (22) accompanies commanded human participation rather than replacing it.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Sixty fortified cities and many unwalled villages fall (4–5). The account explicitly includes the
@@ -371,6 +378,7 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

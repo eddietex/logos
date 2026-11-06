@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Its border is identified with the Jabbok (16). This boundary continues the distinction between
+acquired land and protected Ammonite territory in Deuteronomy 2:19, 37.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Rabbah of the children of Ammon is cited as the location of Og’s bedstead (11). This does not
@@ -91,6 +98,7 @@ displaced five chapters before either of them is born.** See
   23:3 read aloud and enforced against Ammonites and Moabites in the same chapter.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

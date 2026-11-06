@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The grant includes the Arabah and the Jordan’s border from Chinnereth to the Salt Sea beneath
+Pisgah’s eastern slopes (17).
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 The Arabah road is named with Elath and Ezion Geber in the movement past Seir toward Moab (8). No
@@ -28,6 +35,7 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7

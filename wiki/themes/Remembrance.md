@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Moses turns recollection of the two defeated kings into assurance for Joshua about kingdoms ahead
+(21–22). The past is used to equip a successor for a future Moses will not lead.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 The retelling expands Numbers 21:33–35 with fortified cities, geographical names, and Og’s bedstead
@@ -504,6 +511,7 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

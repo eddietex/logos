@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The naming by Jair now appears in the ingested Deuteronomy account, tied to Argob and Bashan (14).
+The differences from the later Jair tradition already recorded below remain unresolved; this passage
+does not explain their relationship.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 *Jair the son of Manasseh went and took its villages, and called them Havvoth Jair* (Numbers 32:41).
 *Ḥawwôt* is usually rendered *villages* or *tent-villages*; the exact meaning is not certain. The name means
 *the villages of Jair*.
@@ -24,6 +32,7 @@ name renewed by a later Jair of the same clan. The wiki records them side by sid
 Source: stored WEB Numbers 32.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
 ## Related places

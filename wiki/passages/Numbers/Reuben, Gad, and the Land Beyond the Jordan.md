@@ -116,6 +116,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 - [[Names and Naming]]
 
 ## Cross-references
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; the eastern grant and encouragement for Joshua.
 
 - [[The Borders of the Land]] — Numbers 34 defines the borders and names the allotment officials.
 

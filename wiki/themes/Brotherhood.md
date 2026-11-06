@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The repeated reference to brothers makes shared military service a condition of returning to settled
+homes (18–20). Receiving an inheritance first does not end mutual obligation.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Esau’s descendants are explicitly Israel’s brothers, although they fear Israel (4, 8). Brotherhood
@@ -234,6 +241,7 @@ brothers these many days* (WEB via bible-api.com, not yet ingested).
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

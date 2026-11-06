@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Jair names his acquired territory Havvoth Jair after himself (14). The continuing place-name
+preserves conquest memory; its relation to the later Jair tradition remains unresolved.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Hermon is called Sirion by Sidonians and Senir by Amorites (9). These are coexisting names
@@ -229,6 +236,7 @@ land after themselves.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 

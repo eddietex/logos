@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Joshua’s encouragement rests on victories his own eyes have seen (21–22). The call to courage is an
+argument from remembered divine action, not a claim that Joshua never experienced fear.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 The command not to fear is grounded in promised delivery and the precedent of Sihon (2). The text
@@ -271,6 +278,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

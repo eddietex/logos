@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The half-tribe receives the rest of Gilead and all Bashan (13). Jair and Machir specify Manassite
+holdings (14–15). The command following this combined allocation addresses the eastern recipients
+collectively (18–20); Numbers 32 had recorded the negotiation with Reuben and Gad.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 The tribal inheritance is protected against transfer through an heiress's marriage (1–9). The
@@ -164,6 +172,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

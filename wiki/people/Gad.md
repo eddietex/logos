@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The Gadites share the grant described with Reuben in verses 12 and 16–17. Settlement does not
+release their warriors from crossing with their brothers; return waits for the others’ possession
+(18–20). The patriarch is not a participant.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### The borders of the land — Numbers 34:1–29
 
 The tribe’s eastern inheritance is already received (14–15), explaining its absence from the western allotment roster. The patriarch is not a participant.
@@ -125,6 +133,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

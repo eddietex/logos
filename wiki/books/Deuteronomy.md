@@ -53,6 +53,10 @@ The comparison with Edomite accommodation in 2:29 remains in tension with Number
 the destruction of civilians, and notices about Hermon’s names and Og’s bedstead. The bedstead’s
 dimensions do not establish Og’s height.
 
+[[The Eastern Inheritance and the Charge to Joshua]] (3:12–22) recalls the tribal allocation, the eastern warriors’
+obligation to serve until their brothers also rest, and Joshua’s encouragement from the defeats
+of the two kings. Possession precedes release from shared responsibility.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -70,7 +74,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **8 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **9 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -80,7 +84,7 @@ Plan drawn 2026-11-05 from the stored WEB. **8 / 69 pericopes ingested.**
 - [x] [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
 - [x] [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37
 - [x] [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
-- [ ] The Eastern Inheritance and the Charge to Joshua — Deuteronomy 3:12–22
+- [x] [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22
 - [ ] Moses Pleads to Cross the Jordan — Deuteronomy 3:23–29
 - [ ] Hear the Statutes and Remember Horeb — Deuteronomy 4:1–14
 - [ ] No Form Seen and No Image Made — Deuteronomy 4:15–31

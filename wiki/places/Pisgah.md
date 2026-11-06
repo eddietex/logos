@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Its eastern slopes supply a geographical bearing for the grant (17). Moses’ request to cross and
+instruction to ascend its summit belong to the following unit.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The field of Zophim on Pisgah’s summit becomes the second sacrificial station (23:14). Another set
@@ -21,6 +28,7 @@ valley in the field of Moab. The verse does not narrate Moses’ later death or 
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

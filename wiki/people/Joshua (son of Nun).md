@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Moses appeals to what Joshua has seen happen to the two kings as grounds for confidence about the
+kingdoms ahead (21–22). This is a remembered exhortation, not a repetition of Numbers 27’s public
+laying on of hands.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Joshua is promised entry and charged with bringing Israel into its inheritance (38). Moses must
@@ -141,6 +149,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The Reubenites receive land with Gad from the Arnon through Gilead to the Jabbok and along the
+Jordan (12, 16–17). Their families and livestock may remain, but their warriors must help the other
+tribes (18–20). These are the patriarch’s descendants.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### The borders of the land — Numbers 34:1–29
 
 The tribe has already received its inheritance east of the Jordan (14–15); no Reubenite official is named for this western distribution. This concerns the descendants, not an action by the patriarch.
@@ -212,6 +220,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

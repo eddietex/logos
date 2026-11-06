@@ -10,7 +10,7 @@ tags: [connection]
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; the request, the rebuke, the
   condition, and the grant *(stored WEB)*
 - [[The Borders of the Land]] — Numbers 34:13–15; the eastern inheritance already received (stored WEB).
-- Deuteronomy 3:12–20 — Moses retells the grant and the command *(WEB via bible-api.com, not yet ingested)*
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; grant, shared rest, and encouragement (stored WEB).
 - Joshua 1:12–18 — Joshua reminds the two and a half tribes *(WEB via bible-api.com, not yet ingested)*
 - Joshua 4:12–13 — they cross armed *(WEB via bible-api.com, not yet ingested)*
 - Joshua 13:8–32 — their allotment *(WEB via bible-api.com for 13:15–31, not yet ingested)*
@@ -19,6 +19,11 @@ tags: [connection]
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+Deuteronomy 3:12–22 is now ingested. The grant includes half of Manasseh before the command to
+cross (13–18); the retelling omits Numbers 32’s dispute and negotiated proposal. Verse 20 makes
+the brothers’ rest the endpoint of service. Verses 21–22 then ground Joshua’s confidence in the
+two kings’ defeat. This supplements, rather than duplicates, the earlier negotiation.
 
 Numbers 34:13–15 makes the eastern grant the explicit reason that only nine and a half tribes
 receive this Canaan allotment. The western officials include Hanniel for Manasseh (23), but

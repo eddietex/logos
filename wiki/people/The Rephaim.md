@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Bashan is called the land of Rephaim (13), continuing the notice about Og in 3:11. This is a
+remembered territorial designation, not a new encounter with surviving Rephaim.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Og is identified as the sole remaining member of the remnant in this notice (11). Read beside the
@@ -27,6 +34,7 @@ Source: stored WEB Deuteronomy 2:1–23.
 - Recalled among earlier inhabitants and successors — [[Around Seir and Past Moab and Ammon]].
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
 

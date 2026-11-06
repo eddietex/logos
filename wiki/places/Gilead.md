@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Half the hill country goes to Reuben and Gad, the rest to half of Manasseh (12–13); the grant to
+Machir is stated separately (15). This explains how Numbers 32 can speak of Gilead in connection
+with both groups without requiring identical holdings.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 All Gilead appears in the summary of territory taken from the two kings (8–10). The division among
@@ -27,8 +35,7 @@ See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
 that their armed men cross the Jordan (29). Their families stay *there in the cities of Gilead* (26). The
 children of Machir take Gilead from the Amorites and Moses gives it to Machir (39–40), and Jair takes
 villages in it (41). The chapter gives Gilead both to the two tribes and to Machir; Deuteronomy 3:12–16
-divides it, half to Reuben and Gad and *the rest of Gilead* to Manasseh (WEB via bible-api.com, not yet
-ingested).
+divides it, half to Reuben and Gad and *the rest of Gilead* to Manasseh (stored WEB, now ingested).
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
@@ -71,6 +78,7 @@ resuming the comparison of 4:1. The region supplies a pastoral image, not a loca
 the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

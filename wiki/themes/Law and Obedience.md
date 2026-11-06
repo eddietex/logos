@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The eastern warriors are commanded to cross and may return only when their brothers also possess
+their land (18–20). The gift brings a defined obligation and a stated endpoint.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 The command to contend with Sihon (24) differs from the preceding bans on conflict with neighboring
@@ -1067,6 +1074,7 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

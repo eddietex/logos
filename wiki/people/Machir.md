@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Moses recalls giving Gilead to Machir (15), within the distribution between Reuben, Gad, and
+Manasseh (12–16). Numbers 32:39–40 identifies the conquering children of Machir; the abbreviated
+grant does not require the ancestral individual to be present.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Named as Gilead's father and Manasseh's son in the petitioning clan's ancestry (1). The family
@@ -90,6 +98,7 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his children take Gilead from the Amorites, and Moses gives it to Machir.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

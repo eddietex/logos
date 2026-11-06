@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Moses recalls allocating the eastern territory, binding its warriors to their brothers’ campaign,
+and encouraging Joshua from the victories already seen (12–22). His allocation administers the land
+that verse 18 calls Yahweh’s gift.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Moses recalls receiving assurance against Og and speaks as part of the conquering people (1–8). His
@@ -1469,6 +1477,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

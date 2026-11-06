@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Moses explicitly acknowledges the eastern tribes’ many livestock and permits families and herds to
+remain in their cities (19). Provision for property and households accompanies continued service to
+the wider people.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Inherited land carries obligations to the tribe as well as rights for the individual holder (6–9).
@@ -762,6 +770,7 @@ rebuke is interpretation.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 

@@ -99,6 +99,8 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[The Fear of God]] — *"Don't be afraid"* (21, 29): the fear of the peoples displaces trust in Yahweh.
 
 ## Cross-references
+- [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]] — remembered deliverance as grounds for courage.
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; the eastern grant and encouragement for Joshua.
 
 - [[The Sentence and the Presumptuous Ascent]] — the sentence and failed ascent that follow (1:34–46).
 - [[Who Sent the Spies - Numbers 13 and Deuteronomy 1]] — the two tellings of who began it, set out in a table.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The valley and its middle mark the southern boundary in the land granted to Reuben and Gad (12, 16).
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Its valley marks the southern endpoint of the combined territory taken from the two Amorite kings,
@@ -44,6 +50,7 @@ modern map here.
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

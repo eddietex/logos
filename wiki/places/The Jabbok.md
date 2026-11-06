@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The river marks the border of the children of Ammon in the eastern grant (16). Reaching this
+boundary is not a grant of Ammonite territory.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Its banks appear among the limits Israel does not approach under Yahweh’s prohibition (37). Numbers
@@ -34,6 +41,7 @@ wrestled* (32:24), sit one letter apart in Hebrew — a wordplay Genesis lets st
 on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earlier.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

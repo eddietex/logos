@@ -77,6 +77,8 @@ Complete unit, copied verbatim from stored WEB Deuteronomy 3:1–11.
 - [[Names and Naming]]
 
 ## Cross-references
+- [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]] — remembered deliverance as grounds for courage.
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; the eastern grant and encouragement for Joshua.
 - [[Og’s Defeat - Numbers 21 and Deuteronomy 3]]
 - [[Hermon and Senir - Shared Name and Paired Heights]]
 - [[From Defeat at Hormah to Victory over Og]]

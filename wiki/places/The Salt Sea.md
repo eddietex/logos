@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Called the sea of the Arabah and the Salt Sea in verse 17, it marks the southern end of the Jordan
+boundary beneath Pisgah’s eastern slopes.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### The borders of the land — Numbers 34:1–29
 
 The southern boundary begins at its eastern end (3), and the eastern border descends along the Jordan to end here (12). It anchors two sides of the circuit.
@@ -49,6 +56,7 @@ river from the temple running down into it and healing it, so that fishermen sta
 an image that depends entirely on the reader knowing nothing lives in it.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

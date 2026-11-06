@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+Although not named in this unit, he is the other of the two kings recalled in verse 21, alongside Og
+(compare 2:24–3:11). Their defeats become the precedent for Joshua’s future campaigns.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 His earlier defeat supplies both the promise’s precedent (2) and the comparison for destroying the
@@ -50,6 +57,7 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

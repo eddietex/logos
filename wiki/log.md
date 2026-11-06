@@ -22366,3 +22366,28 @@ Comparisons were checked against stored WEB Numbers 21:33–35 and Song of Solom
 No new quotation from an unstored book and no new Hebrew or Greek lexical assertion was used.
 Link checks passed with the expected 57 not-yet-started book targets excluded; no wrapped or
 dangling links. No operational blocker; the geographical interpretation remains unresolved.
+
+## [2026-11-05] ingest | Deuteronomy 3.12-22 — The Eastern Inheritance and the Charge to Joshua
+
+Ingested [[The Eastern Inheritance and the Charge to Joshua]] in unattended mode, retaining the
+planned title and boundary. Deuteronomy now stands at 9 / 69 pericopes. Copied the complete
+11-verse unit from stored WEB and checked every quoted verse programmatically against raw text.
+
+Created two pages: the passage and
+[[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]]. Revised 45 existing pages:
+11 people, 13 places, eight themes, one existing connection, three earlier passages, the book,
+seven indexes/dashboard pages, and this log. Counts: 334 passages, 257 people, 212 places,
+87 themes, 723 connections; nine books started, eight complete.
+
+The eastern grant is treated as possession carrying shared military responsibility. The charge
+to Joshua is distinguished from Numbers 27’s public commissioning. The territorial division of
+Gilead clarifies the overlapping group names in Numbers 32; the differing Havvoth Jair traditions
+remain explicitly unresolved, not harmonized. Geshurites and Maacathites remain border peoples
+in the passage notes, without invented individual ancestors or modern territorial identifications.
+Chinnereth uses the existing sea page, with the shortened designation noted. No pericope after
+3:22 was ingested. Existing Places index growth remains a separate maintenance concern.
+
+Comparisons use stored WEB Numbers 32 and Deuteronomy 1:19–33 and 3:1–11. No new quotation from
+an unstored book, source-language claim, raw edit, or harness-compatibility change was needed.
+Link checks passed: no wrapped or dangling links, with 57 not-yet-started books excluded as the
+expected baseline. No operational blocker; the existing geographical uncertainty is preserved.

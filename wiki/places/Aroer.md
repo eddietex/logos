@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern inheritance — Deuteronomy 3:12–22
+
+The Arnon-valley Aroer anchors the eastern grant to Reuben and Gad (12). The joint regional grant
+does not settle the existing question of which Aroer Gad builds in Numbers 32:34.
+
+See [[The Eastern Inheritance and the Charge to Joshua]]. Source: stored WEB Deuteronomy 3:12–22.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Verse 36 specifies the Aroer at the edge of the Arnon valley. It is distinguished from the unnamed
@@ -26,6 +33,7 @@ the Transjordan Aroer(s) until the text requires separate pages.
 Source: stored WEB Numbers 32.
 
 ## Appears in
+- [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
