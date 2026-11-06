@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The molten calf is a rapid departure from the commanded way (12, 16). Moses burns, crushes, and
+grinds it, then throws its dust into the mountain brook (21); Deuteronomy does not report the
+drinking narrated in Exodus 32:20.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Forgetting moves into following, serving, and worshiping other gods (19). Economic self-sufficiency
@@ -339,6 +348,9 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

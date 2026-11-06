@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Aaron himself is threatened with destruction and receives Moses’ intercession (20). His office
+does not exempt him from the judgment associated with the calf; no new ordination or replacement
+is narrated.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Levites receive forty-eight cities with surrounding land, including six refuges (2–8). This confirms the correction to absolute propertylessness: Numbers 18 withholds a tribal inheritance, while Numbers 35 grants residential and pastoral holdings. The anointed high priest’s death ends the required refuge residence (25–28); the text does not explain the mechanism or call that death a sacrifice.
@@ -616,6 +625,9 @@ in fifty from the congregation's half (30, 47).
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

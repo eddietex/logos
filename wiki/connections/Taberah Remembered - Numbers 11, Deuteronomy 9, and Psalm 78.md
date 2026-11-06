@@ -9,8 +9,7 @@ tags: [connection]
 
 - [[The Fire at Taberah]] — Numbers 11:1–3; *"Yahweh's fire burned among them"*
 - [[The Seventy Elders and the Quail]] — Numbers 11:33–34; the plague, and [[Kibroth Hattaavah]] named
-- **Deuteronomy 9:22** — *"At Taberah, and at Massah, and at Kibroth Hattaavah, you provoked Yahweh to wrath."* (WEB) *(not yet
-  ingested)*
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29, especially verse 22.
 - **Psalm 78:18–21** — *"Will he provide meat for his people?" Therefore Yahweh heard, and was angry. A fire was kindled
   against Jacob* (WEB) *(not yet ingested)*
 
@@ -33,6 +32,16 @@ apart. Both come after a burst of Yahweh's anger (11:1, 33). The first ended wit
 **With the second story in view.** [[The Seventy Elders and the Quail]] has the meat that Psalm 78:18–21 asks for, and Psalm 78:26–31 tells the quail after it. So the psalm does have
 the quail, and the fire of verse 21 comes earlier in its telling than the quail. See
 [[The Graves of Craving - Numbers 11, Psalms 78 and 106, and 1 Corinthians 10]].
+
+**The wider Deuteronomy context now ingested.** In Deuteronomy 9:7–29, the three-place list
+is followed by Kadesh’s rebellion and unbelief (23), then the summary that Israel has been
+rebellious throughout Moses’ acquaintance with it (24). The list substantiates the denial of
+merit in 9:4–6 rather than supplying an itinerary. The prayer that follows appeals to redemption
+and the ancestral servants while acknowledging the people’s sin (26–29).
+
+Source for this extension: stored WEB Deuteronomy 9:7–29 and Exodus 17:1–7, checked
+2026-11-06. Deuteronomy’s wider context is now read directly; the earlier Psalm comparison
+and its source-language limits remain unchanged.
 
 ## Significance
 

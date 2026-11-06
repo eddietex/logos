@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Moses recalls receiving and breaking the tablets, destroying the calf, and fasting in intercession
+(9–21). He prays for Aaron as well as the people, appealing to redemption and the patriarchs
+rather than Israel’s merit (20, 26–29).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Moses answers the fear of superior enemies with Yahweh’s presence, then forbids the victorious people to credit their righteousness (1–6). This continues his address, not a narrated crossing.
@@ -1579,6 +1588,9 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

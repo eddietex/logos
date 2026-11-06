@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Survival after the calf supports the denial that possession proves merit (9:4–6). The people
+endure through heard intercession and the appealed-to prior relationship, not an assertion of
+innocence (19, 26–29).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The land is given to a stiff-necked people, not for their righteousness (4–6). This supports a thematic account of unearned gift; it is not a claim about which Hebrew grace term occurs or a complete doctrine of individual salvation.
@@ -238,6 +247,9 @@ are identified on the passage and connection pages.
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

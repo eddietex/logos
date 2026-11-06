@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The tablets carry the words of the assembly and are explicitly covenant tablets (9–11, 15). Their
+public breaking (17) stands beside Moses’ appeal to the ancestral servants and the people as
+Yahweh’s inheritance (26–29).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The sworn word to Abraham, Isaac, and Jacob is explicitly a reason for dispossession and Israel’s entry (5). The text joins this fidelity to judgment on the nations, without praising Israel’s conduct.
@@ -453,6 +462,9 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

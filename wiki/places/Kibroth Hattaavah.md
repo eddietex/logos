@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Named among the remembered provocations (22), without retelling the quail and plague of Numbers
+11. The place functions as evidence against Israel’s claim to righteousness.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### The stages of the journey — Numbers 33:1–49
 
 The itinerary places this stage after [[Horeb]] and before [[Hazeroth]].
@@ -26,6 +34,9 @@ named for a judgment. The name is used in Numbers 11:34–35 and 33:16–17, and
 Deuteronomy 9:22 (tags): *"At Taberah, and at Massah, and at Kibroth Hattaavah, you provoked Yahweh to wrath."*
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

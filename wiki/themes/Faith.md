@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+At Kadesh, rebellion is described as neither believing Yahweh nor listening to his voice (23).
+Faith here is inseparable from response to the command to possess the land.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The saying about the Anakim’s invincibility is answered with assurance that Yahweh goes ahead (2–3). Confidence is grounded in his action, not a denial of the enemy’s strength or a boast of Israel’s merit.
@@ -285,6 +293,9 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

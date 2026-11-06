@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The recollection of rebellion supplies the concrete evidence for the denial of merit in 9:4–6.
+Moses’ plea names the people’s wickedness rather than claiming their righteousness (27).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Verses 4–6 repeatedly deny Israel’s righteousness as the reason for possession. Explicit tension: Deuteronomy 6:25 calls obedient conduct righteousness, whereas 9:4–6 denies that the people’s righteousness explains the land gift. These concern conduct and the ground of possession respectively; neither assertion cancels the other.
@@ -408,6 +416,9 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

@@ -6,6 +6,7 @@ tags: [connection]
 # Not for Your Righteousness - The Ancestral Oath and the Gift of the Land
 
 ## Passages involved
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 - [[The Covenant Between the Pieces]] — Genesis 15:16–18.
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
@@ -30,6 +31,14 @@ The latter does not make obedience irrelevant, and the former does not make the 
 
 Sources: stored WEB Genesis 15:16–18 and Deuteronomy 6:25, 7:7–8, 8:17–18, 9:1–6.
 These comparisons are paraphrases; no source-language equivalence is asserted.
+
+**Rebellion supplies the evidence.** Deuteronomy 9:7–29 follows the denial of merit with
+the calf and other remembered provocations. Moses’ intercession asks Yahweh to remember
+Abraham, Isaac, and Jacob and to spare his redeemed inheritance (26–29). The argument moves
+from the ancestral oath explaining possession (9:5) to ancestral remembrance supporting
+preservation (9:27). Neither appeal claims innocence for Israel.
+
+Source for this extension: stored WEB Deuteronomy 9:1–29, checked 2026-11-06.
 
 ## Significance
 

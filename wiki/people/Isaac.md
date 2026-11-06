@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Named with Abraham and Jacob in Moses’ appeal that Yahweh remember his servants (27). This is
+remembrance of the ancestor, not his presence at Horeb.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Named with Abraham and Jacob in the ancestral oath (5). Possession fulfills that sworn word rather than rewarding the present generation’s righteousness.
@@ -578,6 +586,9 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, between Jacob and Abraham (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

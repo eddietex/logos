@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The calf is evidence of a continuing history of rebellion from Egypt onward (7, 24). Moses names
+stubbornness, wickedness, and sin in his prayer rather than pleading innocence (27).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The nations’ wickedness and Israel’s stubbornness are both named (4–6). The judgment on the former is not an acquittal of the latter; the following remembrance will expand Israel’s indictment.
@@ -695,6 +703,9 @@ who breaks a promise. Moses also calls the two tribes *an increase of sinful men
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

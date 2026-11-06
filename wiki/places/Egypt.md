@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The exodus starts the period of rebellion recalled in verse 7. Moses appeals to the deliverance
+from Egypt and fears that the land left behind will interpret destruction as divine inability or
+hatred (26–29).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Remembered as the house of bondage from which Yahweh brought Israel (14). Prosperity in the land
@@ -349,6 +358,9 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The written words given at the assembly contrast with Israel’s rapid departure from the commanded
+way (10–16). At Kadesh the same refusal takes the form of disobeying the command to go up (23).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Keeping the commands frames the chapter (1, 6, 11, 20). Obedience is the question disclosed by
@@ -1160,6 +1168,9 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

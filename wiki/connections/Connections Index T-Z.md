@@ -11,7 +11,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
-| [[Taberah Remembered - Numbers 11, Deuteronomy 9, and Psalm 78]] | thread | [[The Fire at Taberah]] (Numbers 11:1–3) · Numbers 11:33–34 · Deuteronomy 9:22 · Psalm 78:18–21 · [[The Seventy Elders and the Quail]] |
+| [[Taberah Remembered - Numbers 11, Deuteronomy 9, and Psalm 78]] | thread | [[The Fire at Taberah]] (Numbers 11:1–3) · Numbers 11:33–34 · Deuteronomy 9:22 · Psalm 78:18–21 · [[The Seventy Elders and the Quail]] · [[Remember the Calf and Moses' Intercession]] (Deuteronomy 9:7–29 now ingested) |
 | [[The Table of Nations at Pentecost]] | typology | Genesis 10:1–32 · Genesis 11:1–9 · Acts 2:5–11 · Revelation 5:9 · Revelation 7:9 · Revelation 14:6 |
 | [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]] | motif | Exodus 24:12; 31:18 · Deuteronomy 6:6–8 · Proverbs 3:1–3 · Proverbs 7:3 · Jeremiah 17:1 · Jeremiah 31:33 · Ezekiel 36:26 · 2 Corinthians 3:3 · Proverbs 6:21 · [[The Lamp of the Commandment]] (Proverbs 6:20–35) · [[The Young Man Void of Understanding]] (Proverbs 7:1–27) |
 | [[Take My Life - Moses, Elijah, and Jonah]] | parallel | [[The Seventy Elders and the Quail]] (Numbers 11:15) · 1 Kings 19:4 · Jonah 4:3 |

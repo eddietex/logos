@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Remember the Calf and Moses' Intercession]] (9:7–29) recalls the calf and other wilderness rebellions as
+evidence against merit. Moses’ heard intercession appeals to redemption, the ancestors, and
+Yahweh’s ownership of Israel; the specific prayer for Aaron expands the Exodus account.
+
 [[Not Because of Your Righteousness]] (9:1–6) answers fear of stronger nations with Yahweh’s advance,
 then denies Israel’s righteousness as the basis for possession. Judgment on the nations and
 the ancestral oath explain the gift to a stiff-necked people.
@@ -140,7 +144,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **23 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **24 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -165,7 +169,7 @@ Plan drawn 2026-11-05 from the stored WEB. **23 / 69 pericopes ingested.**
 - [x] [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26
 - [x] [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20
 - [x] [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6
-- [ ] Remember the Calf and Moses' Intercession — Deuteronomy 9:7–29
+- [x] [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29
 - [ ] New Tablets and the Journey Onward — Deuteronomy 10:1–11
 - [ ] What Yahweh Requires of Israel — Deuteronomy 10:12–22
 - [ ] Remember His Deeds and Guard Your Hearts — Deuteronomy 11:1–17

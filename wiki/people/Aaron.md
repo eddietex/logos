@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Yahweh was angry enough to destroy Aaron, and Moses prayed for him (20). This explicit threat and
+personal intercession supplement Exodus 32, which narrates Aaron’s making of the calf but does not
+report this prayer.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### The stages of the journey — Numbers 33:1–49
 
 The opening recalls his leadership with Moses (1). His death on Mount Hor is dated to the first day of the fifth month of the fortieth year, at age 123 (38–39). The list pauses for this death before continuing toward Moab.
@@ -732,6 +741,9 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

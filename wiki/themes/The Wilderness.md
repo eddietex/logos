@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Horeb, Taberah, Massah, Kibroth Hattaavah, and Kadesh become a remembered history of provocation
+(7–24). This supplements the wilderness as a place of provision and testing in Deuteronomy 8.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 The forty years combine hunger, danger, preservation, and provision (2–5, 15–16). Moses interprets
@@ -214,6 +222,9 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

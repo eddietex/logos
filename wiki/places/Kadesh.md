@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Kadesh Barnea is where the command to possess the land met rebellion, unbelief, and refusal to
+listen (23). Moses places that refusal beside the calf and other wilderness provocations.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Kadesh Barnea is the starting point of the thirty-eight-year interval ending at the crossing of
@@ -121,6 +129,9 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

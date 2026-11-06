@@ -201,3 +201,12 @@ for the calf (32:1–4). The destroyed calf's gold is not reported recovered. Se
 [[Gold for the Calf and Gold for the Sanctuary]].
 
 See [[The Freewill Offering]]. Comparison checked in local raw WEB, 2026-10-24.
+
+### The rebellion remembered — Deuteronomy 9:7–29
+
+The retelling is now ingested as [[Remember the Calf and Moses' Intercession]] (Deuteronomy 9:7–29).
+It explicitly reports Moses’ intercession for Aaron (9:20), the forty-day fast in intercession,
+and the dust thrown into the descending brook (9:18–21). Exodus reports drinking the powder
+(32:20) but not the personal prayer for Aaron. These distinct details and the different
+placement of intercession are retained in
+[[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]].

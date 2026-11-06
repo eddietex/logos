@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Destruction is threatened (14), but Moses reports that Yahweh listened (19). Unlike Exodus 32:14,
+the stored WEB here describes the outcome as listening; no equivalence of source-language verbs is
+asserted.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 Whether God can change his mind, and whether he can be hurt — two questions the Bible raises in the
 same verse and never fully separates.
 
@@ -136,6 +145,9 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

@@ -100,3 +100,9 @@ boundary is retained, ending before the detailed remembrance of rebellion begins
 Quotations are copied from stored WEB Deuteronomy 9; comparisons use stored Deuteronomy
 4:24, 6:25, 7:7–8, 7:22, 8:17–18 and Genesis 15:16–18. No new original-language claim or
 quotation from an unstored book is introduced.
+
+### The rebellion remembered — Deuteronomy 9:7–29
+
+[[Remember the Calf and Moses' Intercession]] (9:7–29) now supplies the next part of the argument:
+the calf and the other provocations substantiate the denial of Israel’s merit. Moses appeals
+to the remembered ancestors and Yahweh’s redeemed inheritance, not the people’s innocence.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Destruction and erasure of the people’s name are threatened (14); Aaron too faces destruction
+(20). Yahweh’s listening to Moses (19) averts total destruction without making the rebellion
+innocent.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The nations’ wickedness is the stated reason for their expulsion (4–5), but the beneficiaries are themselves called stiff-necked (6). Victory does not certify the conqueror’s righteousness.
@@ -851,6 +860,9 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

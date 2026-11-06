@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Massah is named as a place where Israel provoked Yahweh (22). The recalled episode is Exodus 17 at
+Rephidim, not the later Meribah event at Kadesh.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Massah is explicitly recalled as the example of testing Yahweh that Israel must not repeat (16).
@@ -60,6 +68,9 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 **Its location is Rephidim's**, and not known. See [[Rephidim]].
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

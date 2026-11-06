@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Yahweh listens to Moses despite the people’s evil (18–19). Preservation rests on the appealed-to
+relationship and redemption (26–29), not a finding that Israel deserves survival.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Protection is made accessible in three named cities for the unwitting killer
@@ -333,6 +341,9 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

@@ -22774,3 +22774,27 @@ or harness change. Older material outside these additions was not re-audited.
 Validation: scripts/link-check.sh clean, with no wrapped links or dangling targets and
 57 not-yet-started book pages as the expected baseline. Passage title unique; progress counts
 verified by frontmatter. No unresolved issue from this ingest.
+
+## [2026-11-06] ingest | Deuteronomy 9.7-29 — Remember the Calf and Moses' Intercession
+
+Ingested one planned pericope in auto mode, by Codex. Created the passage page;
+revised Deuteronomy, two related passage pages, six people, six places, fifteen themes,
+and three existing connections. Updated nine index/dashboard pages including book progress
+and totals: 349 passages, 257 people, 216 places, 87 themes, 730 connections;
+Deuteronomy is 24 / 69. Including this log, 1 page created and 43 revised.
+
+Retained the planned boundary and expanded the existing calf-retelling, Taberah-remembrance,
+and ancestral-oath connections rather than creating duplicates. Israel remains the collective
+addressee; the patriarchs are remembered, not present. No page was invented for the unnamed brook.
+The calf narrative's differing sequence and details in Exodus and Deuteronomy remain explicit;
+the repeated forty-day prostration is treated as resumptive, not necessarily an additional fast.
+Aaron's threatened destruction and Moses' prayer now enter his synthesis and the priesthood theme.
+No new contradiction requiring a reversal of an earlier claim was found.
+
+Quotations were copied from stored WEB Deuteronomy 9. Comparisons checked in stored WEB
+Exodus 17:1–7 and 32:7–24, Numbers 11:1–3 and 14:11–23. Existing Psalm/Acts comparisons
+retain their previously documented verification; no new quotation from an unstored book or
+source-language claim was added. Raw files and workflow instructions were unchanged.
+
+Validation: scripts/link-check.sh exits 0, with 57 expected unstarted-book targets and no
+wrapped or dangling links. No unresolved issue.

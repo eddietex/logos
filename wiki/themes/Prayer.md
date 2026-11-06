@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Moses recalls forty days and nights without bread or water in intercession (18), prays
+specifically for Aaron (20), and appeals to redemption, the ancestors, and the interpretation
+Egypt would give destruction (26–29). Yahweh listens (19).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *What great nation is there, that has a god so near to them, as Yahweh our God is whenever we call on him?* (7). Calling on Yahweh is assumed as ordinary practice, and his nearness marks Israel off from the nations.
@@ -301,6 +310,9 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Moses asks Yahweh to remember Abraham with Isaac and Jacob as his servants (27). The appeal
+grounds preservation in the ancestral relationship rather than the people’s conduct.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Named with Isaac and Jacob as a recipient of the oath Yahweh establishes in giving Israel the land (5). The ancestor is remembered, not present in the scene.
@@ -869,6 +877,9 @@ promise persists even when the terms of divine accompaniment are disputed. See
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, third in a reversed list (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The proposed greater nation from Moses (14) is followed by his advocacy for the endangered people
+and Aaron (18–20). His prayer insists on their identity as Yahweh’s people and inheritance (26,
+29).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Moses repeats that Yahweh was angry with him *for your sakes* and swore he would not cross (21–22). The mediator's exclusion is told as bound up with the people, and placed between two warnings against images; compare Numbers 20:12, which gives the reason as Moses' and Aaron's unbelief.
@@ -515,6 +524,9 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

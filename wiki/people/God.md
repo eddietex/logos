@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Yahweh threatens destruction and a new nation from Moses (13–14), yet listens to his intercession
+(19). The prayer appeals to his redemption, servants, and ownership of Israel (26–29).
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Yahweh goes before Israel as a devouring fire, bringing down stronger nations (3). Their wickedness and his oath to the fathers explain the gift; Israel’s righteousness does not (4–6).
@@ -3520,6 +3528,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

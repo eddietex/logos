@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Named with Abraham and Isaac as a servant to be remembered in intercession (27). Jacob here is the
+patriarch; the people whose stubbornness Moses confesses are his descendants.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Named with Abraham and Isaac among the fathers to whom Yahweh swore (5). Jacob the patriarch and Israel the addressed people are distinct referents here.
@@ -817,6 +825,9 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+The calf crisis is explicitly located at Horeb (8); the mountain burns while Moses descends with
+the tablets (15). Its descending brook receives the calf’s dust (21); no separate name or modern
+location is given for that brook.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 The burning mountain remains the scene of the remembered encounter (23). The name is supplied by
@@ -671,6 +680,9 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

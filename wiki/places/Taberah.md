@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Named with Massah and Kibroth Hattaavah as a place of provocation (22). The list recalls guilt
+rather than retracing the route: Massah’s Exodus 17 episode precedes Taberah’s Numbers 11 episode.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 *Burning*. The first stop named after Israel leaves Sinai, and it is named for what Yahweh did there: *"The name of that
 place was called Taberah, because Yahweh's fire burned among them"* (Numbers 11:3). The name is built on *bāʿar*, the verb
 of the fire in verses 1 and 3 (WLC). Rahlfs's Greek translates it as *ἐμπυρισμός* and does not spell it out.
@@ -23,6 +31,9 @@ and at Kibroth Hattaavah, you provoked Yahweh to wrath"*. See
 Like [[Massah and Meribah]], it is a place named for what the people did, and it keeps the failure on the map.
 
 ## Appears in
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[The Fire at Taberah]] — Numbers 11:1–3; the fire, the prayer, and the name
 

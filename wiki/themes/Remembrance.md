@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The calf and intercession — Deuteronomy 9:7–29
+
+Israel must remember its provocations (7), while Moses asks Yahweh to remember Abraham, Isaac, and
+Jacob (27). Memory both humbles the people and supplies the intercessor’s appeal.
+
+See [[Remember the Calf and Moses' Intercession]]. Source: stored WEB Deuteronomy 9:7–29.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Remembering the whole journey (2) and the giver of productive power (18) counters forgetting through
@@ -561,6 +569,9 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
