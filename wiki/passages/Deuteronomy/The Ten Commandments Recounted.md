@@ -100,8 +100,8 @@ in 2:14–16.
 “Face to face” in verse 4 describes the encounter, while 4:12 and 4:15 insist that no form was seen.
 It should not be used to assert a visible divine body. Verse 5 places Moses between God and the
 people, and verse 22 still says the whole assembly heard the words. Both claims belong to this
-account. The people's fuller request and God's response belong to the next planned unit,
-5:23–33, which is not ingested in this pass.
+account. The people's fuller request and God's response are treated in
+[[The People's Request for a Mediator]], Deuteronomy 5:23–33.
 
 ### Same commands, differing emphases
 

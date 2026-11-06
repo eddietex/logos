@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The burning mountain remains the scene of the remembered encounter (23). The name is supplied by
+5:2, not repeated here. The people are sent back to their tents while Moses remains beside Yahweh
+(30–31); no modern location or new mountain is introduced.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Named as the place of the covenant (2), the mountain is recalled as the scene of fire, cloud, darkness, public divine speech, and the giving of two tablets (4–5, 22). No modern location is supplied.
@@ -663,6 +671,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

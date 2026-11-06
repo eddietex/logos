@@ -247,6 +247,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The promise to hear and do (27) receives approval, but God's wish concerns a heart that obeys always
+(29). Moses receives further instruction for teaching (31); the public words' limit in 5:22 does not
+end revelation. Walking without turning right or left describes sustained fidelity (32–33).
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Hearing is directed toward learning and doing (1). The public words become two stone tablets (22). The statement that Yahweh added no more describes this public speech, not an end to all further instruction: 5:31 explicitly anticipates more.
@@ -1113,6 +1121,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

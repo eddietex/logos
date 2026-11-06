@@ -13,9 +13,15 @@ tags: [connection]
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:9–14: the day at Horeb recalled for the sons.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–24: the formless voice made the ground of the image ban.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:33, 36: a people heard the voice from the fire and lived; the voice *out of heaven*, the fire *on earth*.
-- Deuteronomy 5:22–24 — the same scene recalled before the people's request for a mediator; stored WEB, not yet ingested.
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:22, the public voice.
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33, hearing survived and mediation requested.
 
 ## Analysis
+
+Deuteronomy 5:23–33 now adds the representatives’ response: the fire and darkness occasion
+a request that Moses hear for them. They acknowledge survival (24) while fearing further
+hearing (25–26). God approves their words and wishes for lasting fear and obedience (28–29);
+the frightening setting does not make their request an act of rejection.
 
 Exodus narrates the descent at Sinai with sound and motion:
 

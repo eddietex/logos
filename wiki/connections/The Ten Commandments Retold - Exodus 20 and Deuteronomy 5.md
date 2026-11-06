@@ -9,9 +9,13 @@ tags: [connection]
 
 - [[The Ten Commandments]] — Exodus 20:1–21.
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22, now ingested.
-- Deuteronomy 5:23–33 — the request for mediation; checked in stored WEB, awaiting ingestion.
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33, the request and divine approval.
 
 ## Analysis
+
+The ingested request makes the distinction between approved speech and enduring obedience
+explicit: 5:28 affirms their words, while 5:29 wishes for a heart that keeps the commands always.
+The closing exhortation (32–33) carries this into life in the land.
 
 The current passage identifies the living assembly with the Horeb covenant (5:2–3). Its direct
 hearing and Moses’ mediation are both stated (4–5, 22); neither should erase the other.

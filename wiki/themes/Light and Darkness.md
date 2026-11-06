@@ -33,6 +33,13 @@ hardest.
 
 ## Development across Scripture
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The divine voice comes from the darkness while the mountain burns with fire (23). Darkness is the
+setting of an encounter with God, not proof of his absence or a symbol of evil in this scene.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Fire, cloud, and thick darkness accompany the public divine voice (22). Darkness here marks the encounter with God; it is not treated as a rival power.
@@ -340,6 +347,8 @@ The appearance of fire stays over the tabernacle from evening until morning. Unl
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
 ## Key passages
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

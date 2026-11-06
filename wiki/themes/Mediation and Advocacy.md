@@ -155,6 +155,14 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The people request mediation and promise obedience; Yahweh approves their words (27–28). Moses is to
+remain and hear what he must teach (31). Mediation transmits divine instruction while preserving the
+people's responsibility to do it. No atoning act or plea for forgiveness occurs here.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Moses stands between Yahweh and the fearful people (5), yet the people themselves hear the divine speech (4, 22). Mediation does not cancel direct hearing; the fuller request for continuing mediation follows in 5:23–33.
@@ -507,6 +515,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

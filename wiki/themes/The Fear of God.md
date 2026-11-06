@@ -55,6 +55,15 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+Fear of dying under further divine speech motivates the request (25–27), which God approves (28).
+His wish for lasting fear and obedience (29) distinguishes a frightened response from durable
+fidelity. The existing distinction between terror and obedient fear must not imply that the approved
+speakers were unafraid.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Fear of the fire keeps Israel from ascending the mountain, and Moses stands between them and Yahweh (5). This verse describes fear within an encounter, without itself declaring that fear disobedient.
@@ -416,6 +425,8 @@ See [[The Twelve Spies]].
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

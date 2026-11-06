@@ -99,6 +99,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The Horeb covenant scene continues with the people's promise to obey mediated instruction and God's
+approval (27–31). No new covenant ceremony is described. The concern for children and prolonged days
+binds the present response to future life in the land (29, 33).
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Moses calls the Horeb covenant the covenant of the living assembly (2–3). The contrast with the fathers is emphatic, but does not erase the ancestral covenant remembered in 4:31. Corporate identification with Horeb is explicit; whether fathers means patriarchs or the earlier generation is not settled here.
@@ -397,6 +405,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

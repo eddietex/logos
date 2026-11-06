@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The tribal heads and elders ask Moses to hear God and transmit all his words (23–27). Yahweh
+confirms this role: Moses remains beside him to receive statutes and ordinances to teach for
+practice in the land (30–31). This is mediation of instruction, not an intercession for pardon.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Moses summons all Israel to hear, learn, and do, identifies the living assembly with the Horeb covenant, and recalls standing between Yahweh and the people (1–5). He receives the two tablets (22); his mediation does not erase the assembly’s direct hearing.
@@ -1524,6 +1532,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

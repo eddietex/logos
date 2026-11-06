@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+Yahweh approves the people's request for Moses to relay his words (28), yet wishes for a heart that
+will fear him and obey always (29). He sends the people to their tents and retains Moses to receive
+instruction for them (30–31). Approval of their present words is distinguished from enduring
+fidelity.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Yahweh identifies himself as Israel’s deliverer, commands exclusive allegiance and neighborly duties, speaks to the assembly, and writes the words on two tablets (6–22). Rescue precedes the demands; the speech joins judgment with loving kindness.
@@ -3462,6 +3471,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

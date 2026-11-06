@@ -187,6 +187,14 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### The request for a mediator — Deuteronomy 5:23–33
+
+The people acknowledge surviving God's speech but fear that further hearing will kill them (24–26).
+Their feared death is not a narrated death. The conclusion connects obedience with life and
+prolonged days in the land (33), without explaining each individual's lifespan.
+
+See [[The People's Request for a Mediator]]. Source: stored WEB Deuteronomy 5:23–33.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Murder is forbidden (17), while honoring parents carries a promise of long life and well-being in the land (16). The promise does not give a case-by-case explanation of premature death.
@@ -810,6 +818,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

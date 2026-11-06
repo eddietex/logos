@@ -22575,3 +22575,28 @@ All new Bible quotations come directly from stored WEB; comparisons checked in D
 4–5, Exodus 20, and Job 21. No new source-language assertion, external quotation, raw change,
 schema change, or harness change. The next unit, 5:23–33, remains unchecked.
 Link checks clean (exit 0; 57 expected unstarted-book targets); no unresolved link issue.
+
+## [2026-11-05] ingest | Deuteronomy 5.23-33 — The People's Request for a Mediator
+
+Ingested the next planned unit in unattended mode, retaining the boundary. Created one passage
+page; revised 14 existing content pages (the preceding passage, Deuteronomy, two people, Horeb,
+seven themes, and two connections), six indexes/dashboards, and this log: 1 created, 21 revised.
+
+The passage distinguishes the people's acknowledged survival from their fear of further hearing,
+and God's approval of their words from his wish for enduring obedience. The mediation is of
+instruction, not an act of atonement or a plea for pardon. The heads and elders remain unnamed
+representatives rather than new individual person pages. Horeb is identified from 5:2; no new
+place is inferred from the unnamed mountain or tents.
+
+Updated the existing Exodus 20 / Deuteronomy 5 and voice-from-fire connections instead of creating
+a duplicate. Removed the preceding passage's stale not-yet-ingested notice. The fear theme now
+qualifies any implication that the approved speakers cannot also be frightened. No new textual
+contradiction was found; differing emphases in Exodus and Deuteronomy are retained.
+
+All new quotations come directly from stored WEB Deuteronomy 5. Comparisons were checked in
+stored WEB Exodus 20 and Deuteronomy 4–5. No unstored-book quotations, source-language claims,
+raw-text changes, or harness changes. Deuteronomy is now 17 / 69; totals by frontmatter type:
+342 passages, 257 people, 216 places, 87 themes, 727 connections.
+
+Validation: scripts/link-check.sh passed, with 57 expected not-yet-started book targets and no
+wrapped or unexpected dangling links. No unresolved issue.
