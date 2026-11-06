@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The parent recounts signs against Egypt, Pharaoh, and his house as witnessed acts of rescue (22).
+The signs become part of the explanation transmitted to a later child.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 The exodus remembered as evidence: *by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors … before your eyes* (34). Its purpose is knowledge: *It was shown to you so that you might know that Yahweh is God* (35). Deuteronomy 26:8 gives nearly the same list.
@@ -95,6 +102,8 @@ in the wilderness* (22). Yahweh treats the signs as evidence that should have se
 See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; the exodus *shown to you so that you might know*
 - [[Aaron's Rod Buds]] — Numbers 17:1–13; the chosen rod and the warning against death.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Eating to fullness is anticipated (11), but it can make the deliverer forgettable (12). Unlike
+Agur’s request against riches in Proverbs 30:8–9, this passage instructs recipients to remain
+faithful within abundance.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 **Food running out, and what people do about it.**
 
 **Famine is the engine of the patriarchal narratives more often than war, and far more often than
@@ -185,6 +193,8 @@ The reversal of Exodus 16. There, hunger is met with a measured portion, and *he
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

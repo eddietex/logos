@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Named with Abraham and Isaac among the fathers to whom Yahweh swore the land (10). Here Jacob is the
+patriarch, distinguished from the people addressed collectively as Israel.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### The second census — Numbers 26:1–65
 
 Israel names the people and is the father in Reuben’s firstborn designation (5). This is ancestral
@@ -803,6 +810,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:8; named in the oath Moses quotes, *the land which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob*, now as a promise to be entered rather than (as in Numbers 32:11) a sentence of exclusion.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11; named in the oath Moses recalls.

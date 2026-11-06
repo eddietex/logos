@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The former house of bondage remains central to Israel’s memory amid abundance (12, 21–23). The
+child’s explanation begins with slavery and signs in Egypt, then connects departure to the promised
+entry.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 The land of bondage is named in the divine self-identification (6) and in the reason for Sabbath observance (15). It is a remembered place of servitude and rescue, not the setting of Moses’ present address.
@@ -316,6 +324,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

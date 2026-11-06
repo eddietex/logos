@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The household answer begins with deliverance from Pharaoh’s slavery (21). Verse 23 joins being
+brought out to being brought in: rescue is directed toward the promised land and an obedient life
+there.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Yahweh *brought you out with his presence, with his great power, out of Egypt* (37), taking a nation *from among another nation* (34).
@@ -269,6 +277,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

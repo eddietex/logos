@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Yahweh gives the promised land and its abundance, requires exclusive service, and warns that his
+jealousy can bring destruction (10–15). His rescue precedes the commands explained to the child
+(21–25).
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Yahweh is confessed as Israel’s God and as one (4), and is to be loved with all heart, soul, and
@@ -3478,6 +3486,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

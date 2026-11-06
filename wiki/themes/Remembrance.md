@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Fullness threatens memory of the deliverer (10–12). The future child’s question is answered by a
+first-person account of slavery and rescue (20–23), making remembrance part of explaining the law.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 *Be careful, lest you forget the covenant* (23); in exile, Yahweh will not *forget the covenant of your fathers* (31). Israel's memory of Horeb (15) is the premise of the image ban.
@@ -538,6 +545,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

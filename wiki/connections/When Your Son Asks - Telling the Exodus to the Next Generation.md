@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
+
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - **Exodus 10:2** — *"that you may tell in the hearing of your son, and of your son's son, what things I
@@ -20,8 +22,7 @@ tags: [connection]
   — [[The Consecration of the Firstborn]]
 - **Deuteronomy 6:20–21** — *"When your son asks you in time to come, saying, 'What do the testimonies,
   the statutes, and the ordinances, which Yahweh our God has commanded you mean?' then you shall tell your
-  son, 'We were Pharaoh's slaves in Egypt. Yahweh brought us out of Egypt with a mighty hand …'"* *(not yet
-  ingested)*
+  son, 'We were Pharaoh's slaves in Egypt. Yahweh brought us out of Egypt with a mighty hand …'"* (now ingested in [[Do Not Forget When You Are Full]])
 - **Joshua 4:6–7, 21–22** — *"when your children ask in the future, saying, 'What do you mean by these
   stones?' then you shall tell them, 'Because the waters of the Jordan were cut off …'"*; *"Israel came
   over this Jordan on dry land"* *(not yet ingested)*
@@ -31,6 +32,18 @@ tags: [connection]
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
 ## Analysis
+
+### Deuteronomy 6:20–25 now ingested
+
+The son asks about the whole body of commands, and the answer runs from slavery through
+rescue to land, obedience, and life. **Qualification of the earlier “never a rule” claim:**
+the response begins as a story (21–23), but explicitly includes commanded practice and calls
+observance righteousness (24–25). History and obligation belong to the same answer.
+
+The household remembers in the first person even as the question is projected into the
+future. The purpose is continuing identification with the rescued people, not a claim
+that every future speaker personally witnessed the plagues. Source: stored WEB Deuteronomy
+6:20–25.
 
 ### Deuteronomy 6:1–9 now ingested
 

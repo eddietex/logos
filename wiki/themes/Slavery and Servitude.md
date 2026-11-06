@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The parent must identify with the former slaves in Egypt (21), even when explaining commands in
+settled prosperity. Service to Yahweh (13) follows release from Pharaoh; the passage supplies no
+general abolition law.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Blessings for obedience — Leviticus 26:1–13
 
 The list ends with slavery ended: *that you should not be their slaves* and *the bars of your yoke*
@@ -321,6 +329,8 @@ are identified on the passage and connection pages.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

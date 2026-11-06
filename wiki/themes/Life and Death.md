@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Commands are given for Israel’s good and preservation alive (24), while rival worship brings a
+warning of destruction (15). This is covenant exhortation to a community, not a diagnosis of every
+individual death.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 The stated purpose of flight is that the unwitting killer may live (42). Causing
@@ -825,6 +833,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

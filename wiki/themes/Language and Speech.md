@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The future son asks what the commands mean, and the parent answers with the community’s rescue story
+and its continuing obligations (20–25). Teaching includes explanation, not only recital of rules.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 *Out of heaven he made you to hear his voice, that he might instruct you* (36). The voice is given for teaching, and its hearers lived (33).
@@ -657,6 +664,8 @@ See [[Vows of Men and Women]] and
 [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

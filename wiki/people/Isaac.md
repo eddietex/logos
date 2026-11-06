@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Named with Abraham and Jacob in the land oath (10). Moses invokes the patriarch as a recipient of
+the promise, not as a participant in the address.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 The son of the promise, named by God a year before he was conceived, and the only one of the three
 patriarchs who never leaves the land.
 
@@ -564,6 +571,8 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, between Jacob and Abraham (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:8; named in the oath Moses quotes, *the land which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob*, now as a promise to be entered rather than (as in Numbers 32:11) a sentence of exclusion.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11; named in the oath Moses recalls.

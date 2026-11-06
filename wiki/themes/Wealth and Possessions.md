@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Filled houses and productive estates are gifts that can foster forgetfulness (10–12). The command is
+to remember amid abundance, not to reject every possession; compare Agur’s prayer in Proverbs
+30:7–9.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Moses explicitly acknowledges the eastern tribes’ many livestock and permits families and herds to
@@ -777,6 +785,8 @@ rebuke is interpretation.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

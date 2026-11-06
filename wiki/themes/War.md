@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Thrusting out enemies remains part of possessing the good land (18–19). The text presents this as
+Yahweh’s promise; it gives no battle procedure here and does not erase the displacement behind the
+inherited cities.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The narrator recalls the defeat of Sihon and possession of the two Amorite kingdoms (46–47). This summary does not repeat the civilian deaths explicitly reported in 2:34 and 3:6; its brevity does not contradict or erase them.
@@ -384,6 +392,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Do Not Forget When You Are Full]] (6:10–25) warns that inherited abundance can lead to forgetting the exodus.
+Exclusive service, the Massah warning, and the future parent’s explanation join rescue to
+obedience for the people’s good and life.
+
+
 [[Hear Israel and Love Yahweh]] (6:1–9) joins confession, wholehearted love, and
 daily household teaching. The commands are for life in the land across generations; words
 on the heart become words spoken, bound as signs, and written at household entrances.
@@ -118,7 +123,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **18 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **19 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -138,7 +143,7 @@ Plan drawn 2026-11-05 from the stored WEB. **18 / 69 pericopes ingested.**
 - [x] [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22
 - [x] [[The People's Request for a Mediator]] — Deuteronomy 5:23–33
 - [x] [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9
-- [ ] Do Not Forget When You Are Full — Deuteronomy 6:10–25
+- [x] [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25
 - [ ] A People Chosen in Love — Deuteronomy 7:1–11
 - [ ] Blessing and the Removal of the Nations — Deuteronomy 7:12–26
 - [ ] Remember the Wilderness and the Giver of Wealth — Deuteronomy 8:1–20

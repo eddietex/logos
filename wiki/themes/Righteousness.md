@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Explicit qualification of any universal claim that righteousness is only declared before conduct:
+verse 25 calls keeping the command righteousness for Israel. That differs from the narrative
+sequence around Noah in Genesis 6:8–9. The contexts and claims should both be retained; this verse
+does not itself settle later debates about justification.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 Being in the right — and in the Hebrew Bible that is a relational and forensic condition before it
 is a moral one. To be *ṣaddîq* is to be the party who would be vindicated if the case were tried,
 whether the case is a lawsuit, a covenant, or a life.
@@ -392,6 +401,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; the law called righteous.
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.

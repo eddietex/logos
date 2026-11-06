@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The land is sworn to the fathers and supplied with improvements Israel did not produce (10–11).
+Entry and the displacement of enemies remain linked to doing right (18–19), so gift does not
+eliminate obligation.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 Israel already possesses the eastern territories of Sihon and Og (47–49) when Moses sets the law before it. Teaching takes place in acquired land while the western crossing still lies ahead.
@@ -574,6 +582,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

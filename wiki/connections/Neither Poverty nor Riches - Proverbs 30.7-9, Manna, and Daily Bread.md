@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
+
 - [[The Words of Agur]] — Proverbs 30:7–9.
 - [[Manna and Quail]] — Exodus 16:16–21.
 - [[Wisdom Calls at the Gates]] — Proverbs 8:18–21, the contrasting promise of wealth.
@@ -14,6 +16,17 @@ tags: [connection]
   ingested.
 
 ## Analysis
+
+### Fullness in Deuteronomy 6:10–25
+
+Deuteronomy 6:10–12 anticipates eating to fullness and warns against forgetting Yahweh.
+Proverbs 30:8–9 asks for enough, fearing that fullness might lead to denial of Yahweh.
+The shared danger is abundance severed from acknowledgment of its giver.
+
+**Difference retained:** Deuteronomy tells a people how to live faithfully with inherited
+abundance; Agur asks not to receive riches. These are different responses to a common danger,
+not identical economic instructions. This is a thematic comparison, not an assertion of
+literary dependence. Sources: stored WEB Deuteronomy 6:10–25 and Proverbs 30:7–9.
 
 Agur’s two requests remove falsehood and ask for provision fitted to need. Neither poverty nor
 riches is the desired state: fullness could lead him to deny Yahweh, while poverty could tempt

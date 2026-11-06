@@ -7,11 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
+
 - **Exodus 17:2, 7** — *"Why do you quarrel with me? Why do you test Yahweh?"*; *"He called the name of the
   place Massah, and Meribah, because the children of Israel quarreled, and because they tested Yahweh, saying,
   'Is Yahweh among us, or not?'"* — [[Water from the Rock]]
-- **Deuteronomy 6:16** — *"You shall not tempt Yahweh your God, as you tempted him in Massah."* (WEB) *(not
-  yet ingested)*
+- **Deuteronomy 6:16** — *"You shall not tempt Yahweh your God, as you tempted him in Massah."* (WEB; now ingested in [[Do Not Forget When You Are Full]])
 - **Deuteronomy 9:22** — *"At Taberah, and at Massah, and at Kibroth Hattaavah, you provoked Yahweh to
   wrath."* (WEB) *(not yet ingested)*
 - **Deuteronomy 33:8** — *"Your Thummim and your Urim are with your godly one, whom you proved at Massah, with
@@ -29,6 +30,20 @@ tags: [connection]
   (WEB, 3:8–9) *(not yet ingested)*
 
 ## Analysis
+
+### Deuteronomy 6:10–25 now ingested
+
+The Massah prohibition (16) stands within instructions for prosperity, not only privation.
+Israel must remember Yahweh when full (10–12), refuse other gods (13–15), and keep the commands
+(17–19). The inherited abundance is no reason either to forget God or demand new proof.
+
+Matthew 4:7 uses the prohibition against testing God; 4:10 also draws on Deuteronomy 6:13’s
+service command in refusing the devil’s offer of kingdoms. This connects both replies to
+the same exhortation to exclusive allegiance. The wording of the WEB differs: Deuteronomy
+6:13 speaks of fear, service, and swearing; Matthew 4:10 speaks of worship and serving only
+God. This is a comparison of verified English texts, not a claim of exact Hebrew or Greek
+identity. Matthew 4:1–11 verified at bible-api.com, translation=web, 2026-11-05; Deuteronomy
+6:10–25 and Exodus 17:1–7 read in stored WEB.
 
 **Exodus tells the story without a verdict. Every later text supplies one.** At Rephidim God gives water and
 rebukes no one; the only judgment in Exodus 17:1–7 is the narrator's, and it is in the name: *Massah*,

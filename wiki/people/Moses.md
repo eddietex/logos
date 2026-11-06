@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Moses prepares Israel for settled prosperity and supplies the future parent’s answer about the law
+(10–25). His instruction joins ancestral promise, exodus memory, and present obedience.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Moses continues the teaching commissioned in 5:31: commands are given for practice in the land
@@ -1540,6 +1547,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

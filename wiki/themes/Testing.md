@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Israel must not test Yahweh as at Massah (16). This is human testing of God, distinct from God
+testing people; the remembered water crisis becomes a prohibition for life in the land.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 **God putting people to the proof, revealing their response and sometimes forming it.**
 Genesis 22 and Job disclose the test to readers while withholding that knowledge from the tested;
 Exodus 20:20 explicitly explains its purpose to the people in the encounter.
@@ -149,6 +156,8 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; God tests humanity to reveal its likeness to animals.
 

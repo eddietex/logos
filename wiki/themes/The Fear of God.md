@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Fear takes practical form in serving Yahweh, swearing by his name, and keeping commands for the
+community’s good (13, 24). It stands alongside the real warning of destruction in verse 15.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 The Old Testament's most compact name for right relation to God — and a phrase that resists the
 two easy translations. It is not terror, because the people commended for it are not described as
 frightened, and God repeatedly tells the people he is addressing not to be afraid in the same
@@ -433,6 +440,8 @@ See [[The Twelve Spies]].
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

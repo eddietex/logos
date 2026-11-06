@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Massah is explicitly recalled as the example of testing Yahweh that Israel must not repeat (16).
+Exodus 17:1–7 supplies the event at Rephidim; the command does not move it to the separate Meribah
+at Kadesh.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Yahweh recalls Moses' rebellion *at the waters*, and the narrator glosses: *These are the waters
@@ -52,6 +60,8 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 **Its location is Rephidim's**, and not known. See [[Rephidim]].
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; the Meribah sentence recalled for Moses (14).
 

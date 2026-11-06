@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Yahweh’s jealousy brings a warning that Israel itself can be destroyed for following other gods
+(14–15). The people receiving the land are not exempt from judgment.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Eligibility for refuge includes unwitting killing and absence of previous hatred
@@ -813,6 +820,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

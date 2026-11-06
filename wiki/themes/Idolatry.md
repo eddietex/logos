@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Israel must not follow the surrounding peoples’ gods (14–15). Prosperity does not remove the demand
+for exclusive allegiance or the danger of destruction under Yahweh’s jealousy.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 The positive answer to the image ban. Having warned of gods that *neither see, nor hear* (4:28), Moses names the God whose voice Israel heard and whose deeds it saw, and of whom *there is no one else* (35, 39). Deuteronomy still speaks of *the gods of the peoples* (6:14); the page records the confession without deciding whether it denies that such gods exist.
@@ -308,6 +315,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

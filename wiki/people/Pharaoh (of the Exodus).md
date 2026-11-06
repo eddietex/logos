@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The future household confession remembers slavery under Pharaoh and signs against him and his house
+(21–22). This is a retrospective title in the exodus story; no personal name or dynasty is supplied.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 **The king of Egypt to whom Moses is sent — and whose refusal God announces before the first request is
 made.** He is not [[Pharaoh (of the oppression)]], who *"died"* in the course of Moses' years in
 Midian (Exodus 2:23); Exodus gives neither man a personal name, and the wiki keys the page to the
@@ -214,6 +221,8 @@ See [[The Song of the Sea]].
   the Song, and not said to die — Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Burning Bush]] — Exodus 3:10–11, 18–20; **present only in God's forecast.** The king who
   *"won't give you permission to go"* until Egypt is struck

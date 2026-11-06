@@ -22630,3 +22630,37 @@ this pass's claims, explicitly noted on the passage page.
 
 Validation: scripts/link-check.sh clean (57 expected not-yet-started book targets);
 frontmatter counts refreshed and git diff --check clean. No unresolved ingest blocker.
+
+## [2026-11-05] ingest | Deuteronomy 6.10-25 — Do Not Forget When You Are Full
+
+Ingested [[Do Not Forget When You Are Full]] in unattended mode with Codex. Retained the
+planned 6:10–25 boundary: inherited abundance, exclusive service, the Massah warning, and
+the future parent's explanation of the commands. Deuteronomy is now 19 / 69 pericopes.
+
+Created one passage page; revised 31 existing content pages (one book, six people, three
+places, eighteen themes, and three connections), ten indexes/dashboards, and this log.
+Counts by frontmatter: 344 passages, 257 people, 216 places, 87 themes, 727 connections.
+
+Judgments: the named patriarchs and Pharaoh are remembered figures, not living participants.
+The future son is generic, and Israel is the collective addressee; no new person is created.
+Canaan is contextual identification, not a place name used in these verses. Massah remains
+on the existing Massah and Meribah page, distinct from the Kadesh event. Existing connections
+cover the teaching, testing, and fullness parallels without duplicate pages.
+
+Explicit qualifications preserve both sides of two earlier syntheses: the child's answer
+begins with history but includes commanded obedience (6:24–25), qualifying the teaching
+connection's claim that the answer is never a rule; righteousness here is attached to conduct
+(6:25), qualifying any universal reading of the righteousness page's emphasis on declaration
+before action in Noah's story. The fullness connection preserves the difference between
+Deuteronomy's instruction within abundance and Agur's request against riches. The passage
+also names the displacement behind the inherited cities rather than concealing it.
+
+All sixteen verses were copied directly from stored WEB Deuteronomy 6. Exodus 17:1–7 and
+Proverbs 30:7–9 were checked in stored WEB. Matthew 4:1–11 was verified at bible-api.com with
+translation=web, which identified World English Bible, on 2026-11-05; the updated comparison
+paraphrases Jesus' use of both 6:13 and 6:16. No new exact source-language claim was made.
+No raw text, workflow, schema, or controller file changed.
+
+Validation: scripts/link-check.sh clean (57 expected not-yet-started book targets);
+frontmatter counts refreshed, quotation comparison passed, and git diff --check clean.
+No unresolved ingest issue or blocker.

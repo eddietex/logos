@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The oath to the fathers frames both the inherited abundance and the account of the exodus (10, 18,
+23). Rescue comes before the stated obligation to keep the commands; no new covenant ceremony is
+narrated.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The title anticipates the covenant teaching introduced here, following the identification of the covenant with the ten commandments in 4:13. These six verses contain no new covenant ceremony or oath; covenant is the contextual theme, not a quoted term from this unit.
@@ -413,6 +421,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

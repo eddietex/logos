@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Yahweh’s oath to the fathers gives the promise its continuity (10, 18, 23); Israel must swear by his
+name (13). The unit connects divine promise with human allegiance but prescribes no vow ritual.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Yahweh’s oath denying entry to the evil generation stands beside the earlier oath to give the land
@@ -359,6 +366,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+The land ahead contains cities, filled houses, cisterns, vineyards, and olive trees Israel did not
+build or plant (10–11). Canaan is identified from the wider narrative, not named in this unit;
+possession also entails the removal of enemies (18–19).
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 The land to be possessed is described as flowing with milk and honey (1–3). Obedience and
@@ -306,6 +314,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

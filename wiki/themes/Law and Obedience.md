@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fullness and remembrance — Deuteronomy 6:10–25
+
+Doing what is right and good is joined to possession of the land (17–19). The answer to the child
+includes both rescue and the commands given for the people’s good and survival (20–25); history does
+not replace obedience.
+
+See [[Do Not Forget When You Are Full]]. Source: stored WEB Deuteronomy 6:10–25.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The narrator calls Moses’ instruction law, testimonies, statutes, and ordinances (44–45). The unit introduces instruction to Israel in a concrete historical setting; it does not yet enumerate the commands.
@@ -1129,6 +1137,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
