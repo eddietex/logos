@@ -47,6 +47,13 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The oath sworn to the fathers is named as a reason for the exodus alongside Yahweh’s love (8). No
+new oath ceremony or human vow is narrated.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Arad and Hormah — Numbers 21:1–3
 
 Israel promises destruction of enemy cities if Yahweh gives victory (2), and performs
@@ -366,6 +373,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

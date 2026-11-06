@@ -102,6 +102,14 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The marriage prohibition is explained by the danger of turning Israel’s children toward other gods
+(3–4). Altars, pillars, Asherah poles, and engraved images must be destroyed (5); Israel itself is
+threatened with destruction if it turns away.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Exclusive allegiance, the ban on images, and the prohibition of worshiping them are repeated (7–10). Divine jealousy accompanies both generational judgment and loving kindness; the commands are grounded in deliverance (6).
@@ -315,6 +323,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

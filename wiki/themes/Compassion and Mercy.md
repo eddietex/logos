@@ -54,6 +54,15 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The command to show no mercy to the seven nations (2) stands in tension with Yahweh’s mercy toward
+returning Israel in Deuteronomy 4:31 and his covenant loving kindness here (9). The texts assign
+different recipients and circumstances; that distinction does not erase the ethical tension or
+make mercy unconditional.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Between the dead and the living — Numbers 16:41–50
 
 Aaron’s urgent action benefits his accusers (41, 47). This is a thematic reading of rescue
@@ -316,6 +325,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 

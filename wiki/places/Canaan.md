@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The land ahead is occupied by seven named peoples, described as greater and mightier than Israel
+(1). Possession entails their destruction and dismantling their worship (2–5); Canaan is the
+narrative identification of the destination, while verse 1 names the Canaanite among its peoples.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The land ahead contains cities, filled houses, cisterns, vineyards, and olive trees Israel did not
@@ -314,6 +322,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

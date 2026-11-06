@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Yahweh chooses Israel from love and fidelity to the ancestral oath, not numerical strength (6–8).
+He keeps covenant with those who love and obey, repays those who hate him, and warns that Israel
+itself can be destroyed for apostasy (4, 9–10). Love here does not cancel judgment.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Yahweh gives the promised land and its abundance, requires exclusive service, and warns that his
@@ -3486,6 +3494,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

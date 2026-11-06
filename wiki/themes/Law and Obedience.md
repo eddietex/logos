@@ -255,6 +255,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The explanation of election ends in a command to do the commandments, statutes, and ordinances
+(11). Covenant faithfulness is associated with love and obedience (9), while rescue is grounded in
+Yahweh’s love and oath (8).
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Hearing must become doing in the land (1–3). The words belong on the heart, in conversation with
@@ -1137,6 +1145,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

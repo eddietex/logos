@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
+
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:21, 28–29.
 - [[Laws of Holiness and Compassion]] — Exodus 22:20: *"He who sacrifices to any god, except to Yahweh
   only, shall be utterly destroyed."* (WLC 22:19.)
@@ -23,6 +25,15 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### Deuteronomy 7:1–11 now ingested
+
+Deuteronomy 7:2 is now ingested. Destruction follows Yahweh’s delivery of the nations; treaty and
+mercy are forbidden. The instruction is not narrated as Israel’s voluntary vow. Verse 5 separately
+orders destruction of worship objects, so verse 2 cannot be reduced to those objects. Verse 26
+remains outside this completed pericope.
+
+Source for this addition: stored WEB Deuteronomy 7:1–11; Exodus 34:12–16.
 
 **Now ingested: [[Arad and Hormah]].** Numbers 21:1–3 begins with an attack and captives,
 then reports Israel's conditional vow, Yahweh's hearing, and destruction of the people

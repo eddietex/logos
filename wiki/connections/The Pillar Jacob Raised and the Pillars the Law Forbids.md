@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
+
 - Genesis 28:18, 22 — the stone at Bethel set up and anointed
 - Genesis 31:45–52 — the pillar and the heap at Galeed, as a boundary witness —
   [[Jacob's Flight from Laban]], [[Galeed]]
@@ -28,6 +30,15 @@ tags: [connection]
 - Isaiah 19:19 — *"a pillar at its border to Yahweh"*, in Egypt
 
 ## Analysis
+
+### Deuteronomy 7:1–11 now ingested
+
+Deuteronomy 7:5 is now ingested: the pillars appear alongside altars, Asherah poles, and engraved
+images as objects of commanded destruction. The immediate parallel is Exodus 34:13. This
+contextual identification with rival worship should be retained when comparing the patriarchal
+pillars; the verse itself does not discuss Jacob’s acts.
+
+Source for this addition: stored WEB Deuteronomy 7:1–11; Exodus 34:12–16.
 
 **The Hebrew word is the same in the commendation and in the prohibition.**
 

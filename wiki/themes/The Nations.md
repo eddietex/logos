@@ -113,6 +113,14 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Hittite, Girgashite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite form the seven-nation
+roster (1). They are described as greater and mightier than Israel. The collective list defines
+the targets of the commands; no individual representative is named.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Moab, Edom, Amalek, the Kenite, Asshur, and Eber enter the oracle’s horizon, with ships from Kittim
@@ -276,6 +284,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.

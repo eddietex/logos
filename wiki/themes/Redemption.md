@@ -74,6 +74,13 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Verse 8 explicitly calls the exodus redemption from bondage and Pharaoh’s hand. Love and fidelity
+to the ancestral oath explain this rescue; Israel’s size does not.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 The identity of the lawgiver rests on bringing Israel out of bondage (6). That rescue becomes the explicit reason for giving servants Sabbath rest (14–15), without any ransom payment being described.
@@ -277,6 +284,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

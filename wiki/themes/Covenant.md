@@ -107,6 +107,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Israel must make no covenant with the seven nations (2), while Yahweh keeps covenant and loving
+kindness with those who love and obey him (9). His ancestral oath grounds rescue (8). The
+different covenant partners distinguish the prohibition from the affirmation.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Within the Horeb covenant instruction, confession and wholehearted love become responsibilities
@@ -421,6 +429,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

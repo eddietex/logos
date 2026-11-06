@@ -22664,3 +22664,27 @@ No raw text, workflow, schema, or controller file changed.
 Validation: scripts/link-check.sh clean (57 expected not-yet-started book targets);
 frontmatter counts refreshed, quotation comparison passed, and git diff --check clean.
 No unresolved ingest issue or blocker.
+
+## [2026-11-05] ingest | Deuteronomy 7.1-11 — A People Chosen in Love
+
+Ingested the next planned unit in unattended mode; retained the 7:1–11 boundary.
+Created the passage and one connection, [[A Holy People for His Own Possession - Exodus 19 and Deuteronomy 7]].
+Revised 3 person, 2 place, 15 theme, and 4 existing connection pages, plus the book,
+10 index/dashboard pages, and this log: 2 created and 36 revised pages in total.
+Deuteronomy is now 20 / 69 pericopes; vault totals are 345 passages, 257 people,
+216 places, 87 themes, and 728 connections.
+
+The page absorbs the unattended discussion: love and the fathers’ oath ground election;
+size is excluded as its cause; obedience remains required. The command against people
+is distinguished from destruction of worship objects. The tension between no mercy to
+the seven nations and mercy toward Israel is explicit, as is Israel’s own exposure to
+judgment. The fewest/multiplied descriptions are retained without an invented census.
+The seven peoples are treated collectively under The Nations, not as seven new individuals;
+the fathers are recalled collectively, and no new minor individual or place page is needed.
+
+The full unit is quoted directly from stored WEB and mechanically compared with it.
+Comparisons use stored WEB Exodus 19:4–6; 34:11–16 and Deuteronomy 1:10; 4:31, 37.
+No new unstored-book quotation or source-language claim was introduced; raw files and
+workflow instructions were unchanged. Category index coverage and frontmatter totals
+were checked. scripts/link-check.sh passed with 57 expected unstarted-book targets,
+no wrapped links, and no unexpected dangling targets. No unresolved issue.

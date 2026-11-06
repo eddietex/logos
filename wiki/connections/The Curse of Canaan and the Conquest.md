@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
+
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
 
 - [[Noah's Sons and the Curse of Canaan]] — Genesis 9:25–27, the curse and its threefold refrain
@@ -21,6 +23,15 @@ tags: [connection]
 - Ezra 9:1; Nehemiah 9:8 — the peoples of the land named again after the exile
 
 ## Analysis
+
+### Deuteronomy 7:1–11 now ingested
+
+Deuteronomy 7:1–11 names the seven nations and commands their destruction, but never invokes
+Noah’s curse. Its immediate explanation concerns turning Israel to other gods and Israel’s holy,
+chosen status (4–6). The passage threatens Israel itself for apostasy (4), so this is not immunity
+based on ancestry.
+
+Source for this addition: stored WEB Deuteronomy 7:1–11; Exodus 34:12–16.
 
 ### Leviticus 18 now ingested
 

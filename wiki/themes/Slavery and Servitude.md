@@ -52,6 +52,14 @@ with a woman it owns.
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Israel remembers the house of bondage and Pharaoh’s hand as the condition from which it was
+redeemed (8). The passage contrasts that former domination with belonging to Yahweh, without
+announcing a general abolition of slavery.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Former bondage grounds equal Sabbath rest for male and female servants (14–15). Yet servants remain in the neighbor’s household list (21). Protection of rest is explicit; universal emancipation is not commanded by this unit.
@@ -329,6 +337,8 @@ are identified on the passage and connection pages.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

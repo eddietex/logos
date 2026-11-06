@@ -91,6 +91,14 @@ nations is an interpretation of this combination, not an explicit missionary com
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Israel is holy and chosen as Yahweh’s own possession (6). Numerical superiority is expressly
+excluded as the reason: love and keeping the ancestral oath explain the choice and rescue (7–8).
+Election carries obligations and does not shield Israel from the warning in verse 4.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Joshua is designated by Yahweh, not chosen by Moses or by the congregation (18). The one stated
@@ -187,6 +195,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; love the ground of the choice
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 

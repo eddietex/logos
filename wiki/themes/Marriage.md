@@ -86,6 +86,15 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Both giving daughters and taking daughters in marriage with the named nations are forbidden (3).
+The stated reason is turning to other gods (4). This is a nationally defined rule with a religious
+rationale; it is not a statement that every foreign marriage already narrated in Genesis was
+condemned.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Adultery and coveting the neighbor’s wife are forbidden (18, 21). Both father and mother must receive honor (16); the command links that honor with life and well-being in the given land.
@@ -401,6 +410,8 @@ and his daughter* (16). A widow or divorced woman answers for her own vow (9).
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

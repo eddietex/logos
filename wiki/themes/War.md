@@ -116,6 +116,15 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The seven nations are to be utterly destroyed after Yahweh delivers them to Israel; neither
+covenant nor mercy is allowed (1–2). Destruction of worship objects follows separately (5), so the
+command cannot be reduced to removing idols. This is prospective instruction, not a completed
+battle report.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Blessing includes violent victory over adversaries (24:8, 17–20), not merely fertility and peace.
@@ -392,6 +401,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Pharaoh is recalled as the king from whose hand Yahweh redeemed Israel (8). His title supplies the
+former power of bondage; the verse gives no personal name or dynasty.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The future household confession remembers slavery under Pharaoh and signs against him and his house
@@ -221,6 +228,8 @@ See [[The Song of the Sea]].
   the Song, and not said to die — Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

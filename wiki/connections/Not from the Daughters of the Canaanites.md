@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
+
 - **Genesis 24:3–4** — Abraham's oath: *"you shall not take a wife for my son of the daughters of the
   Canaanites … But you shall go to my country, and to my relatives"* — [[A Wife for Isaac]]
 - **Genesis 26:34–35** — Esau, at forty, marries [[Judith]] and [[Basemath (daughter of Elon)]], both
@@ -40,6 +42,15 @@ tags: [connection]
   that Genesis states the pedigrees and passes no verdict
 
 ## Analysis
+
+### Deuteronomy 7:1–11 now ingested
+
+The prohibition is now ingested in Deuteronomy 7:3–4. Both directions of intermarriage are
+forbidden, and turning to other gods is the stated reason. Exodus 34:12–16 already joins treaties,
+worship, and marriage. This explicit religious rationale should not be retrojected into Genesis 24
+as its unstated explanation.
+
+Source for this addition: stored WEB Deuteronomy 7:1–11; Exodus 34:12–16.
 
 **The first statement of the rule is an oath, not a law, and it is about one marriage.** Abraham does
 not legislate; he binds a servant with a sanction, for a single errand, in his own household, and he

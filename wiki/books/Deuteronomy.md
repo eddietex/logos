@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[A People Chosen in Love]] (7:1–11) grounds election in love and the ancestral oath rather than size.
+Holiness entails separation from rival worship, including destruction and marriage prohibitions;
+the warning of destruction also addresses Israel. Covenant faithfulness calls for obedience.
+
 [[Do Not Forget When You Are Full]] (6:10–25) warns that inherited abundance can lead to forgetting the exodus.
 Exclusive service, the Massah warning, and the future parent’s explanation join rescue to
 obedience for the people’s good and life.
@@ -123,7 +127,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **19 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **20 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -144,7 +148,7 @@ Plan drawn 2026-11-05 from the stored WEB. **19 / 69 pericopes ingested.**
 - [x] [[The People's Request for a Mediator]] — Deuteronomy 5:23–33
 - [x] [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9
 - [x] [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25
-- [ ] A People Chosen in Love — Deuteronomy 7:1–11
+- [x] [[A People Chosen in Love]] — Deuteronomy 7:1–11
 - [ ] Blessing and the Removal of the Nations — Deuteronomy 7:12–26
 - [ ] Remember the Wilderness and the Giver of Wealth — Deuteronomy 8:1–20
 - [ ] Not Because of Your Righteousness — Deuteronomy 9:1–6

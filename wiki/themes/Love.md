@@ -24,6 +24,15 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Yahweh’s love explains Israel’s redemption alongside fidelity to the fathers’ oath (7–8); Israel’s
+answering love is joined to obedience (9). The same unit commands no mercy toward the seven
+nations (2). This is a tension between particular electing love and commanded destruction, not a
+universal promise of protection.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Love of Yahweh is commanded with all heart, soul, and might (5). The following commands put the
@@ -501,6 +510,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

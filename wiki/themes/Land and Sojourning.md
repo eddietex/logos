@@ -232,6 +232,13 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Entry into the land is paired with displacement and destruction of its seven named peoples (1–5).
+Calling Israel chosen and redeemed (6–8) does not remove the human cost of possession.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 The instruction is for doing in the land Israel is going over to possess (1–3). The promise to the
@@ -582,6 +589,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

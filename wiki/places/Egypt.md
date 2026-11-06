@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Egypt is the remembered house of bondage, under Pharaoh, from which Yahweh redeemed Israel (8).
+Its mention grounds the call to obedience in prior rescue, rather than supplying the current
+location of the address.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The former house of bondage remains central to Israel’s memory amid abundance (12, 21–23). The
@@ -324,6 +332,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

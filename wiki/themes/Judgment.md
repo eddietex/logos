@@ -231,6 +231,14 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Judgment faces both the nations delivered to destruction (1–2) and Israel if marriage leads it to
+other gods (4). Repayment to those who hate Yahweh is emphatic (10). Chosen status does not remove
+accountability.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 The image prohibition includes visiting ancestral iniquity upon the third and fourth generation of those who hate Yahweh (9). The tension with Job’s objection to punishment stored up for children (Job 21:19–21) remains; neither text simply cancels the other.
@@ -820,6 +828,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

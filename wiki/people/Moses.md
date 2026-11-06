@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Chosen in love — Deuteronomy 7:1–11
+
+Moses commands separation from the seven nations and explains Israel’s choice through divine love
+and the ancestral oath (1–11). This is instruction before entry, not a report that the destruction
+has already happened.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Moses prepares Israel for settled prosperity and supplies the future parent’s answer about the law
@@ -1547,6 +1555,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

@@ -134,6 +134,14 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Chosen in love — Deuteronomy 7:1–11
+
+The whole people is called holy and Yahweh’s own possession (6). Here that status grounds
+separation from rival worship and marriages that lead to it (3–5), not merely priestly or
+sanctuary restrictions.
+
+See [[A People Chosen in Love]]. Source: stored WEB Deuteronomy 7:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 The Sabbath must be kept holy (12). Here that sanctification is expressed in shared cessation of work and remembrance of rescue, without a new ritual of purification.
@@ -681,6 +689,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 
