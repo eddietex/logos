@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+Its slopes locate the sea of the Arabah within the eastern territorial summary (49). No ascent or vision from its summit is narrated here.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Moses is commanded to ascend its top and look west, north, south, and east, while remaining
@@ -35,6 +41,7 @@ valley in the field of Moab. The verse does not narrate Moses’ later death or 
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 

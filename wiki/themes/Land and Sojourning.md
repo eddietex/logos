@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+Israel already possesses the eastern territories of Sihon and Og (47–49) when Moses sets the law before it. Teaching takes place in acquired land while the western crossing still lies ahead.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 The land is given *for an inheritance, as it is today* (38), and held *forever* by keeping the statutes (40). Just before, 4:26 warned that idolatry would end their days on it; the two conditions stand side by side.
@@ -545,6 +551,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

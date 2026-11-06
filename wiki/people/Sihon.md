@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+His former land contains the valley where Moses speaks. He is identified as king of the Amorites, resident at Heshbon, and defeated by Moses and Israel (46–47); no new battle occurs.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Although not named in this unit, he is the other of the two kings recalled in verse 21, alongside Og
@@ -57,6 +63,7 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

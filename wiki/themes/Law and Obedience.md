@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The narrator calls Moses’ instruction law, testimonies, statutes, and ordinances (44–45). The unit introduces instruction to Israel in a concrete historical setting; it does not yet enumerate the commands.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Moses designates the three eastern cities (41–43), giving concrete locations to
@@ -1100,6 +1106,7 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.

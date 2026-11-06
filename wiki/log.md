@@ -22534,3 +22534,23 @@ All quotations are copied from stored WEB Deuteronomy 4:41–43; comparisons wer
 against stored WEB Exodus 21:12–14 and Numbers 35:9–34. No raw text changed, external
 quotation added, or source-language assertion introduced. Existing connection expanded
 instead of creating a duplicate refuge thread. Link checks passed with no findings.
+
+## [2026-11-05] ingest | Deuteronomy 4.44-49 — The Setting of the Covenant Instruction
+
+Ingested [[The Setting of the Covenant Instruction]] with the planned boundary unchanged.
+Created one passage; revised the book, three people, eleven places, four themes, and two
+connections: [[From Commandments in Moab to Moses’ Address]] and
+[[Hermon and Senir - Shared Name and Paired Heights]]. Updated seven index/dashboard files
+and this log: one new page and 29 revised pages in total. Deuteronomy is now 15/69;
+frontmatter counts are 340 passages, 257 people, 216 places, 87 themes, 727 connections.
+
+Judgments: this is a narrator’s heading, not a fresh campaign or covenant ceremony.
+The exodus wording compresses the journey rather than redating the victories; 1:3–4 supplies
+the fortieth-year frame. Mount Sion is an explicit WEB alias of Hermon; no separate place
+page or identification with Zion is warranted. Existing Senir/Hermon and Aroer uncertainties
+are retained at the relevant claims. No newly established contradiction was found.
+
+All six quoted verses come from stored WEB Deuteronomy 4:44–49; comparisons use stored
+Deuteronomy. No external quotation, exact source-language claim, raw-text modification,
+or harness change was needed. Existing connections were expanded rather than duplicated.
+Link checks passed with no findings (57 expected not-yet-started book targets).

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The title anticipates the covenant teaching introduced here, following the identification of the covenant with the ten commandments in 4:13. These six verses contain no new covenant ceremony or oath; covenant is the contextual theme, not a quoted term from this unit.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Forgetting *the covenant of Yahweh your God* is paired with making an image (23). In exile, Yahweh *will not … forget the covenant of your fathers which he swore to them* (31): Israel's forgetting and God's not forgetting frame the warning.
@@ -384,6 +390,7 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.

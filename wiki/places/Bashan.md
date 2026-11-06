@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+Og’s land is included in the conquered territory where the law is framed (47). This is a territorial summary, not another campaign or a fresh tribal allocation.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Golan in Bashan is set apart for the Manassites as a refuge for unwitting killing
@@ -49,6 +55,7 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

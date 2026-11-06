@@ -1,11 +1,17 @@
 ---
 type: place
-also_known_as: [Mount Hermon, Senir, Sirion]
+also_known_as: [Mount Hermon, Senir, Sirion, Mount Sion]
 tags: [place]
 ---
 # Hermon
 
 ## Overview
+
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The stored WEB explicitly identifies Mount Sion with Hermon (48). Sion is therefore recorded as an alias here, not as Jerusalem’s Zion. This additional name does not resolve the already flagged tension between the identification of Senir with Hermon in Deuteronomy 3:9 and their pairing in Song 4:8.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
 
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
@@ -43,6 +49,7 @@ Deuteronomy 3:9 and Ezekiel 27:5 from the same Sefaria edition. The location is 
 identification and is not argued from the verses here.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8; *"from the top of Senir and Hermon"*.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The repeated bearings beyond the river, toward sunrise, and eastward locate the instruction and conquered territory on the eastern side (46–49). No crossing is narrated.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 The three designated refuge cities lie east of the river, explicitly toward sunrise
@@ -160,6 +166,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The summary includes all the Arabah east of the Jordan as far as its sea below Pisgah (49). These are territorial bearings rather than a narrated journey.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The grant includes the Arabah and the Jordan’s border from Chinnereth to the Salt Sea beneath
@@ -35,6 +41,7 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.

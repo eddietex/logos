@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The narrator identifies Moses as the speaker who sets the law before Israel (44–45), and recalls Moses and Israel striking Sihon (46). This framing voice is distinct from Moses’ direct address.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Moses sets apart three eastern cities for the unwitting killer to flee and live. This
@@ -1511,6 +1517,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+Sihon is identified as having lived here (46). The instruction itself takes place in the valley opposite Beth Peor, not in Heshbon.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Sihon is identified by his residence here (2) and as its king (6); his defeat is the precedent for
@@ -53,6 +59,7 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The sea of the Arabah below Pisgah is the endpoint in verse 49. Deuteronomy 3:17 explicitly identifies this sea as the Salt Sea; the shorter designation here does not introduce another sea.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Called the sea of the Arabah and the Salt Sea in verse 17, it marks the southern end of the Jordan
@@ -56,6 +62,7 @@ river from the temple running down into it and healing it, so that fishermen sta
 an image that depends entirely on the reader knowing nothing lives in it.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

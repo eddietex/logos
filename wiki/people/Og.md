@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+His former kingdom of Bashan is included with Sihon’s territory in Israel’s acquired land (47). The two are explicitly called kings of the Amorites.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 His former kingdom, Bashan, is assigned to half of Manasseh (13). He is one of the two defeated
@@ -48,6 +54,7 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The town at the edge of the Arnon valley is the southern endpoint of the summary reaching to Hermon (48). This explicit location still does not settle which Aroer Gad builds in Numbers 32:34.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The Arnon-valley Aroer anchors the eastern grant to Reuben and Gad (12). The joint regional grant
@@ -33,6 +39,7 @@ the Transjordan Aroer(s) until the text requires separate pages.
 Source: stored WEB Numbers 32.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

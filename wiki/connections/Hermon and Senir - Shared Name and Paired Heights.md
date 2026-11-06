@@ -6,6 +6,7 @@ tags: [connection]
 # Hermon and Senir - Shared Name and Paired Heights
 
 ## Passages involved
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:8–9
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8
 
@@ -20,6 +21,13 @@ mountain range or different scopes of geographical names, but neither verse esta
 solution. The wiki keeps Senir as an alias of Hermon while preserving the difference in usage.
 
 Sources: stored WEB at the references above. No source-language claim is made.
+
+### The renewed setting
+
+Deuteronomy 4:48 adds Mount Sion, explicitly identified with Hermon in the stored WEB.
+This is another gloss within the territorial summary, not an identification with Jerusalem’s
+Zion. It does not settle the distinction between identifying Senir with Hermon and pairing the
+two in the Song; that tension remains as described above. Source: stored WEB Deuteronomy 4:48.
 
 ## Significance
 

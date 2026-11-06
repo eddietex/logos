@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+Aroer on the edge of its valley anchors the southern end of the conquered territory (48), paired with Hermon at the northern end.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The valley and its middle mark the southern boundary in the land granted to Reuben and Gad (12, 16).
@@ -50,6 +56,7 @@ modern map here.
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

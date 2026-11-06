@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The departure from Egypt supplies the historical frame for the instruction and the defeat of Sihon (45–46). This compressed retrospect does not date the battle to the day of departure; Deuteronomy 1:3–4 places the address in the fortieth year after the victories.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Recalled as the place where Yahweh took *a nation for himself from among another nation*, with signs, wonders, war, a mighty hand, and an outstretched arm, *before your eyes* (34), and from which he brought Israel out *with his presence, with his great power* (37).
@@ -303,6 +309,7 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Setting of the instruction — Deuteronomy 4:44–49
+
+The narrator recalls the defeat of Sihon and possession of the two Amorite kingdoms (46–47). This summary does not repeat the civilian deaths explicitly reported in 2:34 and 3:6; its brevity does not contradict or erase them.
+
+See [[The Setting of the Covenant Instruction]]. Source: stored WEB Deuteronomy 4:44–49.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Armed men cross while families and livestock stay in the granted cities (18–20). Yahweh’s fighting
@@ -378,6 +384,7 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
