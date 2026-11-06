@@ -18,7 +18,12 @@ tags: [connection]
   the entrance of Hamath, Zedad, Ziphron, and Hazar Enan; the eastern line reaches the Jordan.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; *"as far as the great river, the river
   Euphrates"*, Yahweh's command at Horeb as Moses recalls it, with Lebanon in the list.
-- **Deuteronomy 11:24; Joshua 1:4** — the maximal formula repeated later to Israel and to Joshua.
+- [[Set These Words Before You]] — Deuteronomy 11:24; *"from the wilderness, and Lebanon, from the
+  river, the river Euphrates, even to the western sea"*, promised to *"every place on which the
+  sole of your foot treads"* on condition of obedience (22).
+- **Joshua 1:3–4** *(verified from bible-api.com, WEB)* — *"every place that the sole of your foot
+  will tread on, as I told Moses"*, with the same list ending at *"the great sea toward the going
+  down of the sun"*.
 - **Joshua 21:43–45** — *"Yahweh gave to Israel all the land which he swore to give to their fathers…
   Not a word failed."*
 - **Judges 1:19–36; 3:1–6** — the same land, itemized by what Israel did not take.

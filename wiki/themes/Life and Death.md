@@ -202,6 +202,12 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Days as the days of the heavens — Deuteronomy 11:18–32
+
+Keeping the words is *"that your days may be multiplied, and the days of your children … as the days of the heavens above the earth"* (21). The blessing and curse of 26–28 anticipate the *"life and death"* of 30:19.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Prolonged days are a stated purpose of keeping the commands, across three generations (2). The
@@ -841,6 +847,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; days multiplied *"as the days of the heavens above the earth"* (21).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.

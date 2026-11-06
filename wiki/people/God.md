@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Blessing and curse set before Israel — Deuteronomy 11:18–32
+
+Yahweh's words are to be laid up in heart and soul and taught to the children (18–19). If Israel loves him, walks in his ways, and clings to him, he will drive out greater nations and lay the dread of Israel on the land (22–25). The blessing and the curse turn on listening to his commandments or going after other gods (26–28).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Yahweh's signs in Egypt, the sea, the wilderness care, and the earth opening under Dathan and Abiram are called his chastisement and great work (2–7). The land he gives drinks rain from the sky; his eyes are on it all year, and he gives or withholds the early and late rain according to Israel's loyalty (11–17).
@@ -3549,6 +3555,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the words to be laid up and taught; the giver of possession and the one whose commandments decide blessing or curse.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

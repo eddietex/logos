@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Blessing and curse set before Israel — Deuteronomy 11:18–32
+
+The section closes by turning the commands into a choice: blessing if Israel listens, curse if it turns from the way (26–28). The words are to be laid up, bound, taught, and written (18–20), and all the statutes and ordinances are to be observed (32), just before 12:1 begins the law code.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Keeping "all the commandment" is tied to strength, possession, and long days in the land (8–9). Listening brings seasonal rain and harvest; turning to other gods brings drought and loss of the land (13–17).
@@ -1189,6 +1195,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; listening or not listening decides blessing or curse; the hinge into the statutes (32).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

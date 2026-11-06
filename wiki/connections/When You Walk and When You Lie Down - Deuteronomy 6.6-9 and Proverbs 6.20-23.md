@@ -14,6 +14,9 @@ tags: [connection]
   talk of them when you sit in your house, and when you walk by the way, and when you lie down, and
   when you rise up. You shall bind them for a sign on your hand, and they shall be for frontlets
   between your eyes. You shall write them on the door posts of your house, and on your gates."*
+- [[Set These Words Before You]] — Deuteronomy 11:18–21; the same words repeated at the close of
+  the exhortation: *"lay up these my words in your heart and in your soul"*, binding before
+  teaching, and a promise of multiplied days.
 - **Exodus 13:9** — the feast of unleavened bread *"shall be for a sign to you on your hand, and for
   a memorial between your eyes, that Yahweh's law may be in your mouth"* —
   [[The Consecration of the Firstborn]]
@@ -70,6 +73,14 @@ Deuteronomy's sign was meant literally — the later practice of *tefillin* and 
 or figuratively is outside what these texts settle, and the wiki does not decide it. Proverbs
 plainly uses the image figuratively: the words are worn like a necklace (1:9) and written on the
 heart (3:3).
+
+### Deuteronomy says it twice
+
+Deuteronomy 11:18–20 repeats 6:6–9 at the close of the exhortation. In the WEB the words are now
+laid up *"in your heart and in your soul"*, the binding comes before the teaching, and verse 21 adds
+the purpose of multiplied days. The repetition frames chapters 6–11 and leads into the statutes of
+chapter 12. See [[Set These Words Before You]]. This is an English-level comparison of the stored
+WEB; the Hebrew notes above concern chapter 6 only.
 
 ## Significance
 

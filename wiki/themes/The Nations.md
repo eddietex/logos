@@ -128,6 +128,12 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Nations greater and mightier — Deuteronomy 11:18–32
+
+Yahweh will drive out *"nations greater and mightier than yourselves"* (23) and lay the fear and dread of Israel on the land (25), on condition of Israel's obedience (22). The curse is going after *"other gods, which you have not known"* (28).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 The nations Israel fears are *more than I* (17), but Yahweh will do to them what he did to Egypt
@@ -308,6 +314,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; nations greater and mightier than Israel driven out on condition of obedience (23–25).
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.

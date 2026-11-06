@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Set These Words Before You]] (11:18–32) closes the exhortation begun at 4:44. The household
+teaching of chapter 6 returns, possession is promised for love and obedience, and a blessing and a
+curse are set before Israel, to be staged on Gerizim and Ebal beside the oaks of Moreh.
+
 [[Remember His Deeds and Guard Your Hearts]] (11:1–17) grounds obedience in what the assembly saw,
 from Egypt's signs to the earth swallowing Dathan and Abiram. The land drinks the sky's rain, unlike
 foot-watered Egypt, so loyalty or a deceived heart decides between harvest and a shut sky.
@@ -156,7 +160,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **26 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **28 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -185,7 +189,7 @@ Plan drawn 2026-11-05 from the stored WEB. **26 / 69 pericopes ingested.**
 - [x] [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11
 - [x] [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22
 - [x] [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
-- [ ] Set These Words Before You — Deuteronomy 11:18–32
+- [x] [[Set These Words Before You]] — Deuteronomy 11:18–32
 - [ ] The Place Yahweh Will Choose — Deuteronomy 12:1–28
 - [ ] Do Not Follow Other Gods — Deuteronomy 12:29–13:18
 - [ ] A Holy People and Its Food — Deuteronomy 14:1–21

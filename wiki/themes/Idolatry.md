@@ -119,6 +119,12 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Gods you have not known — Deuteronomy 11:18–32
+
+The curse is defined as turning from the way *"to go after other gods, which you have not known"* (28). The English echoes 11:2, where the children had *"not known"* Yahweh's discipline.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Turning to "serve other gods, and worship them" (16) is the act that shuts the sky (17). The passage does not name the gods or link them to storm or fertility cults.
@@ -355,6 +361,7 @@ texts, 2026-10-25.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the curse is following *"other gods, which you have not known"* (28).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

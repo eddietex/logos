@@ -14,7 +14,9 @@ tags: [connection]
 - **Genesis 35:4** — the household's foreign gods buried *"under the oak which was by Shechem"*, on
   the field Jacob had bought, as he abandons it. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
   *(not yet ingested)*
-- **Deuteronomy 11:29–30** — Gerizim and Ebal located *"beside the oaks of Moreh"*
+- [[Set These Words Before You]] — Deuteronomy 11:29–30; Gerizim and Ebal located *"beside the oaks of
+  Moreh"*. See [[Mount Gerizim]], [[Mount Ebal]], and
+  [[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]]
 - **Deuteronomy 27:1–26** — the blessings and the curses to be pronounced from the two mountains
 - **Joshua 8:30–35** — Joshua builds an altar on Ebal and reads the whole law between the mountains
 - **Joshua 24:1–27** — the covenant renewal at Shechem, and the stone set up *"under the oak that was

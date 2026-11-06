@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Gerizim and Ebal in the land of the Canaanites — Deuteronomy 11:18–32
+
+The mountains of blessing and curse are located *"in the land of the Canaanites who dwell in the Arabah"* (30). Israel is to cross the Jordan, possess the land, and dwell in it (31).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 The land sworn to the fathers remains the destination after the covenant breach (11). Canaan is
@@ -355,6 +361,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the land in which the blessing and curse are to be set (29–31).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.

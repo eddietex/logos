@@ -44,6 +44,12 @@ costly.
 
 ## Development across Scripture
 
+### A blessing set before Israel — Deuteronomy 11:18–32
+
+Moses sets *"a blessing and a curse"* before the people (26). The blessing is conditioned on listening (27) and is to be set on Mount Gerizim once Israel is in the land (29). The verse names the blessing but does not spell out its words.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Without using the word, the unit lays out a blessing: rain in season, grain, wine, oil, grass for livestock, and fullness (14–15). The next unit names blessing and curse directly (11:26–28).
@@ -420,6 +426,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the blessing set before Israel, to be set on Mount Gerizim (26–29).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

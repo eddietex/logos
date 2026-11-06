@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Blessing and curse set before Israel — Deuteronomy 11:18–32
+
+Moses repeats the household teaching of 6:6–9 with a promise of multiplied days (18–21), then sets a blessing and a curse before the people (26). He commands that they be set on Mount Gerizim and Mount Ebal once Israel is in the land, and closes the exhortation begun at 4:44 (29–32).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Moses tells the assembly that he speaks to those whose eyes saw Yahweh's deeds, not to their children (2, 7). He contrasts Egypt's foot-watered fields with the land that drinks rain, and warns that a deceived heart serving other gods would shut the sky (10–17).
@@ -1610,6 +1616,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; he sets the blessing and curse before the people and names Gerizim and Ebal.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

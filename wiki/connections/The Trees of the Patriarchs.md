@@ -23,6 +23,8 @@ tags: [connection]
 - **Exodus 15:25** — *"Yahweh showed him a tree, and he threw it into the waters, and the waters were
   made sweet."* The first tree after Genesis, and the first one that is used rather than stood under.
   See [[Bitter Water at Marah]].
+- [[Set These Words Before You]] — Deuteronomy 11:30; Gerizim and Ebal located *"beside the oaks of
+  Moreh"*, the WEB's plural where Genesis 12:6 has the singular.
 - **Joshua 24:26** — Joshua sets a great stone *"under the oak that was by the sanctuary of Yahweh"*
   at Shechem, at the covenant renewal.
 - **Judges 6:11, 19; 9:6, 37** — the oak at Ophrah; the oak of the pillar at Shechem where Abimelech

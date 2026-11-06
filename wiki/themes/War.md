@@ -123,6 +123,12 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### No man will be able to stand — Deuteronomy 11:18–32
+
+Conquest is promised as a consequence of obedience: Yahweh will drive out the nations, *"no man will be able to stand before you"*, and he will lay the dread of Israel on the land (23, 25). The dread recalls 2:25.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Yahweh fights through the hornet (20), confusion (23), and the delivery of kings (24). Israel
@@ -417,6 +423,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; conditional dispossession and the dread of Israel on the land (23–25).
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.

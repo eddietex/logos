@@ -24,6 +24,12 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Love, walk, cling — Deuteronomy 11:18–32
+
+Love for Yahweh appears inside a four-part condition: keep the commandments, love Yahweh, walk in all his ways, and cling to him (22). Possession of the land follows (23–25).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 The unit opens and turns on love: "you shall love Yahweh your God, and keep" his commands (1), and the rain is promised if Israel listens "to love Yahweh your God, and to serve him with all your heart and with all your soul" (13). Love is stated as service and listening.
@@ -530,6 +536,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; love as one of the conditions of possession, with walking and clinging (22).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

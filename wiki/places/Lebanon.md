@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The border repeated — Deuteronomy 11:18–32
+
+Lebanon is named again among the reaches of the land: *"from the wilderness, and Lebanon, from the river, the river Euphrates, even to the western sea"* (24). Joshua 1:4 repeats the list.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Lebanon is named as part of the desired prospect beyond the Jordan (25). The verse does not
@@ -63,6 +69,7 @@ the verse, and no journey to Lebanon is narrated.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; a reach of the border promised to every place the sole of Israel's foot treads (24).
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; the northern reach of the land listed in Yahweh's command at Horeb — the first time the stored Torah names it.

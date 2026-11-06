@@ -86,6 +86,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Korah Died but His Sons Lived - Numbers 16 and 26]]
 - [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]]
 - [[When Your Son Asks - Telling the Exodus to the Next Generation]]
+- [[Set These Words Before You]] — 11:18–32, the second half of the chapter.
 
 
 ## Notes
@@ -99,7 +100,8 @@ reconcile this with its own frame. Deuteronomy 2:14–16 says "all the generatio
 war" died in the wilderness, so many of those addressed would have been children or young at
 the sea. The text does not say how many eyewitnesses remained, and the wiki should not
 supply a number. It treats the assembly as one people whose memory is a duty. The children
-come back into view in the next unit, Deuteronomy 11:19.
+come back into view in the next unit, Deuteronomy 11:19; see
+[[Set These Words Before You]].
 
 "Chastisement" (2) names the discipline already described in
 [[Remember the Wilderness and the Giver of Wealth]], where hunger and manna teach as a father

@@ -11,8 +11,15 @@ The sea defines the western border and provides the starting point for the north
 
 Source: stored WEB Numbers 34:5–7. No precise modern site is assigned here.
 
+### The western sea — Deuteronomy 11:18–32
+
+Deuteronomy 11:24 names *"the western sea"* as the end of the border; Joshua 1:4 has *"the great sea toward the going down of the sun"* (WEB, verified from bible-api.com). The wiki files both with this page.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ## Appears in
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; *"the western sea"*, the end of the maximal border (24).
 - [[The Borders of the Land]] — Numbers 34:5–7.
 
 ## Related places

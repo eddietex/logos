@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
+- [[Set These Words Before You]] — Deuteronomy 11:19; the children taught at every point of the day.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
@@ -40,7 +41,8 @@ tags: [connection]
 Deuteronomy 11:2 turns the formula around. Moses says he does *not* speak with "your children who
 have not known, and who have not seen", but with those whose eyes saw (7). The children are
 named as the audience that lacks the experience, which is the gap the telling formula exists to
-fill. The next unit returns to teaching them (11:19, stored WEB; not yet ingested). The verse does
+fill. The next unit returns to teaching them: *"You shall teach them to your children"* (11:19);
+see [[Set These Words Before You]]. The verse does
 not say how many eyewitnesses remained after the wilderness deaths of Deuteronomy 2:14–16.
 
 ### Deuteronomy 6:20–25 now ingested

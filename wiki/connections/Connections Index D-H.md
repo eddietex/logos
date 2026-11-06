@@ -113,7 +113,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[From Healing Sign to Nehushtan - Numbers 21 and 2 Kings 18]] | parallel | Numbers 21:4–9 and 2 Kings 18:4 |
 | [[From Meribah to Beer - Water and the Gathered People]] | thematic-parallel | [[The Journey to Moab]] · [[The Waters of Meribah]] |
 | [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] | narrative-continuation | [[The Tabernacle Raised and the Glory]] · [[The Burnt Offering]] · [[The Ordination of the Priests]] |
-| [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 · [[The Borders of the Land]] |
+| [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 · [[The Borders of the Land]] · [[Set These Words Before You]] |
 | [[From the Sea Song to the Well Song]] | thematic-parallel | [[The Journey to Moab]] · [[The Song of the Sea]] |
 | [[From the Well Song to the Heshbon Poem]] | literary comparison | [[Sihon and Og]] · [[The Journey to Moab]] |
 | [[From the Wilderness Sentence to the Crossing of Zered]] | narrative fulfillment | [[The People Refuse the Land]] · [[The Sentence and the Presumptuous Ascent]] · [[Around Seir and Past Moab and Ammon]] · [[The Journey to Moab]] |

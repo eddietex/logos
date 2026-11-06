@@ -50,6 +50,12 @@ with God goes with not being destroyed.
 
 ## Development across Scripture
 
+### Walking in all his ways — Deuteronomy 11:18–32
+
+The condition of possession includes *"to walk in all his ways, and to cling to him"* (22). The curse is defined as turning *"out of the way"* (28), so the image of a path frames both outcomes.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 *Qerî*, *contrary*, found only in this chapter (WLC): Israel walks contrary, Yahweh walks contrary,
@@ -243,6 +249,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; *"walk in all his ways"* (22), and the curse as turning *"out of the way"* (28).
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.

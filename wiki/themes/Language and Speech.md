@@ -97,6 +97,12 @@ noticing into doctrine.
 
 ## Development across Scripture
 
+### Talking of them — Deuteronomy 11:18–32
+
+The words are to be taught to the children *"talking of them"* at home, on the road, lying down, and rising up (19), and written on door posts and gates (20). Speech and writing both carry the commands.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 The hearer must speak the commanded words to children throughout ordinary daily activities (7).
@@ -665,6 +671,7 @@ See [[Vows of Men and Women]] and
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; teaching *"talking of them"* through the day, and writing them at the house's entrances (19–20).
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.

@@ -64,6 +64,12 @@ the same verses that put the tree of life back in reach (see
 
 ## Development across Scripture
 
+### A curse set before Israel — Deuteronomy 11:18–32
+
+The curse follows not listening and turning aside to *"go after other gods, which you have not known"* (28). It is to be set on Mount Ebal (29). Deuteronomy 27:15–26 later spells out twelve curses for that ceremony; chapter 11 gives only the command.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The curse sought by Balak remains unavailable. Instead, 24:9 declares those who curse Israel cursed,
@@ -248,6 +254,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the curse set before Israel for following other gods, to be set on Mount Ebal (26–29).
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

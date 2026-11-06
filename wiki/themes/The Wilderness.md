@@ -113,6 +113,12 @@ This page opened with Numbers, whose Hebrew name is the word itself.
 
 ## Development across Scripture
 
+### From the wilderness — Deuteronomy 11:18–32
+
+*"The wilderness"* is named as one edge of the promised border (24). It is now the land's boundary rather than the road behind them.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 "What he did to you in the wilderness, until you came to this place" (5) sums up the journey between the sea and the earth swallowing the rebels. The wilderness is part of the remembered chastisement and care.
@@ -229,6 +235,7 @@ direction is back *by the way to the Red Sea* (25). See [[The People Refuse the 
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the wilderness as one edge of the border (24).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

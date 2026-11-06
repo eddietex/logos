@@ -69,8 +69,15 @@ The pattern is hard to miss: Shechem is where covenants are made and where Israe
 builds the first altar in the land there, and the ten northern tribes walk out of the kingdom on the
 same spot.
 
+### The mountains of blessing and curse — Deuteronomy 11:18–32
+
+Deuteronomy 11:29–30 places the blessing on Gerizim and the curse on Ebal *"beside the oaks of Moreh"*, the tree where Abram built the first altar in the land. Shechem itself is not named, but the two mountains have their own pages now: [[Mount Gerizim]] and [[Mount Ebal]].
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ## Appears in
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; not named; the oaks of Moreh and the two mountains on either side of the town locate the blessing and curse (29–30).
 - [[The Call of Abram]] — Genesis 12:6–7, the first stop in the land and the site of Abram's first
   altar
 - [[The Reconciliation with Esau]] — Genesis 33:18–20; Jacob arrives *"in peace"*, buys the field
@@ -111,8 +118,8 @@ same spot.
 - [[Canaan]] — the land Shechem is the first stop in
 - [[Bethel]] and [[Ai]] — Abram's next stop, twenty miles south along the same ridge
 - [[Haran (city)]] — the city he came from, four hundred miles north-east
-- **Gerizim and Ebal** — the two mountains the town sits between, and the platform of Deuteronomy's
-  blessings and curses; they get their own pages when Deuteronomy or Joshua is ingested
+- [[Mount Gerizim]] and [[Mount Ebal]] — the two mountains the town sits between, and the platform
+  of Deuteronomy's blessings and curses; given their own pages at Deuteronomy 11:29
 
 ## Events here
 
@@ -130,6 +137,8 @@ same spot.
   Genesis 37:12
 - Joseph arrives alone from the valley of Hebron, finds nobody, and is redirected to [[Dothan]] by a
   stranger in a field — Genesis 37:14–17
+- The blessing and curse commanded to be set on Gerizim and Ebal, *"beside the oaks of Moreh"* —
+  Deuteronomy 11:29–30, [[Set These Words Before You]]
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
 - Joshua's covenant renewal — Joshua 24:1–27
 - Abimelech's kingship and the destruction of the city — Judges 9

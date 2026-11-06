@@ -192,6 +192,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Words laid up and handed on — Deuteronomy 11:18–32
+
+The words are to be laid up in heart and soul, bound on hand and forehead, and written on door posts and gates (18, 20). The children Moses said had not seen (11:2) are now the ones to be taught (19).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Moses addresses those who saw, not their children who did not (2, 7). Signs in Egypt, the sea, the wilderness, and the fate of Dathan and Abiram are listed as the content of what must be known "this day" (2–6).
@@ -582,6 +588,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; laid-up words, bound signs, and door-post writing as means of memory (18–20).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

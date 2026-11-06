@@ -223,7 +223,8 @@ a voice. See [[Out of Ur - Terah's Journey and Abram's Call]].
 - Genesis 22:1–19 — *lek-ləkā* again, and a mountain *"that I will tell you of"*.
 - Genesis 33:18–20; 35:1–7 — Jacob at Shechem and at Bethel, building on both of Abram's sites.
 - Exodus 3:8 — the land described to Moses as *"the place of the Canaanite"*, still.
-- Deuteronomy 11:29–30 — Gerizim and Ebal located *"beside the oaks of Moreh"*.
+- Deuteronomy 11:29–30 — Gerizim and Ebal located *"beside the oaks of Moreh"*. See
+  [[Set These Words Before You]].
 - Joshua 7–8 — Ai, and Israel's only defeat in the conquest.
 - Joshua 24:1–27 — the covenant at Shechem, under an oak, on the ground of *"I took your father
   Abraham from beyond the River"*.

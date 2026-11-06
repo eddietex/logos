@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Beyond the Jordan, westward — Deuteronomy 11:18–32
+
+Gerizim and Ebal are *"beyond the Jordan"* (30), meaning the west bank, while Deuteronomy 1:1 used the same phrase for Moses' place on the east. Israel is *"to pass over the Jordan"* to possess the land (31).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The river is the boundary Israel is about to cross (1). The speech announces entry; these six verses do not narrate a completed crossing.
@@ -174,6 +180,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the river still to be crossed; *"beyond the Jordan"* here means the west (30–31).
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 

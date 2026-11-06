@@ -22876,3 +22876,39 @@ files, canonical workflow instructions, and controller files were unchanged.
 
 Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
 not-yet-started book targets. Frontmatter counts and the book queue agree.
+
+## [2026-11-06] ingest | Deuteronomy 11.18-32 — Set These Words Before You
+
+Ingested exactly the planned unit in auto mode, by Claude, retaining its boundary and title. Created
+the passage page, three places ([[Mount Gerizim]], [[Mount Ebal]], [[Gilgal]]), and two
+connections:
+[[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]] and
+[[A Blessing and a Curse Set Before You - Deuteronomy 11.26-28 and 30.15-20]]. Revised 42 existing
+pages including this log: Deuteronomy, two people, seven places, fifteen themes, five existing
+connections, three earlier passage pages (Cross-references and forward links), and eight
+index/dashboard pages. Deuteronomy is now 28 / 69; the book page's own tally, which read 26, was
+corrected to match. Counts by frontmatter type are 353 passages, 257 people, 222 places, 87 themes,
+and 735 connections.
+
+Judgment calls: no people pages for the fathers, the children, the nations, or the Canaanites of
+the Arabah (collective references). "The western sea" filed under [[The Great Sea]]. The oaks of
+Moreh stay on [[Shechem (city)]] rather than getting a page, as in the Genesis ingests; Gerizim and
+Ebal got the pages that page had promised them. [[Gilgal]] is created as a single page although
+11:30's Gilgal may not be the Jordan-valley Gilgal of Joshua 4:19; the difficulty is recorded on
+the page, the passage, and the Gerizim–Ebal connection, unresolved, with a split to follow if a
+second Gilgal becomes clear. "As he has spoken to you" (11:25) is tied to 2:25 as the wiki's
+identification, not the text's. The opposite use of "beyond the Jordan" in 11:30 and 1:1 is noted.
+The echo of "have not known" between 11:28 and 11:2 is marked as the wiki's reading of the WEB
+wording. The connection page records that Deuteronomy 27:15–26 spells out only curses, and that
+the altar stands on the mountain of the curse, without explaining either.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 11:18–32. Comparisons verified in
+stored WEB Deuteronomy 1:1, 1:7, 2:25, 4:26, 6:5–9, 7:1, 9:1, 10:20, 12:1, 27:1–26, 30:15–20 (27
+and 30 not yet ingested); Genesis 12:6–7, 15:18. Joshua 1:3–4, 4:19, 5:9, 8:30–35 and John 4:20
+verified from bible-api.com (WEB) without storing either book. No assertion about exact Hebrew
+wording was made; the verb behind "cling" is explicitly left unchecked. Raw files, canonical
+workflow instructions, and controller files were unchanged.
+
+Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
+not-yet-started book targets. Frontmatter counts and the book queue agree. The Places index
+(now 222 rows) is past the 150-row split trigger; the split was not attempted in this ingest.

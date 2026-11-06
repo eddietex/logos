@@ -47,6 +47,12 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### The sworn land — Deuteronomy 11:18–32
+
+The days are to be multiplied *"in the land which Yahweh swore to your fathers to give them"* (21); the dread of Israel will fall on the land *"as he has spoken to you"* (25).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Long days in the land are promised in the land "which Yahweh swore to your fathers to give to them and to their offspring" (9). The oath is the frame for the conditional blessing that follows.
@@ -393,6 +399,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the land Yahweh swore to the fathers (21).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

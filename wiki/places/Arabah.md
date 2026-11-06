@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The Canaanites of the Arabah — Deuteronomy 11:18–32
+
+Gerizim and Ebal are located *"in the land of the Canaanites who dwell in the Arabah"* (30). The mountains stand in the central hill country, and the verse does not explain how the Arabah locates them.
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The summary includes all the Arabah east of the Jordan as far as its sea below Pisgah (49). These are territorial bearings rather than a narrated journey.
@@ -41,6 +47,7 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; the Canaanites *"who dwell in the Arabah"*, in the description of Gerizim and Ebal (30).
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 

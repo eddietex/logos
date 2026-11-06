@@ -140,6 +140,12 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### A covenant choice located in the land — Deuteronomy 11:18–32
+
+The exhortation ends by setting blessing and curse before Israel and giving them a place in the land, Gerizim and Ebal (26–29). The land is the one Yahweh swore to the fathers (21). See [[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]].
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 The fathers’ loved and chosen offspring must answer with wholehearted obedience (12–16). This follows the restored tablets and leads to love for foreigners; belonging does not exempt the people from the character of their God.
@@ -477,6 +483,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; blessing and curse set before Israel and located on two mountains (26–29).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Every place the sole of your foot treads — Deuteronomy 11:18–32
+
+If Israel keeps the commandments, every place the sole of its foot treads will be its own, from the wilderness and Lebanon to the Euphrates and the western sea (24). The land sworn to the fathers is to be possessed and dwelt in (21, 31).
+
+See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 The promised land is defined against Egypt: a land of hills and valleys that drinks the rain of the sky, cared for by Yahweh, his eyes on it all year (10–12). Long life there depends on obedience (8–9, 17).
@@ -632,6 +638,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[Set These Words Before You]] — Deuteronomy 11:18–32; every place the foot treads, within the maximal border (24), and the crossing to possess and dwell (31).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

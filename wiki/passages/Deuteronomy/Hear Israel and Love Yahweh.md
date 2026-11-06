@@ -78,6 +78,7 @@ WEB text of the complete nine-verse unit:
 - [[When Your Son Asks - Telling the Exodus to the Next Generation]]
 - [[There Is No One Else - Deuteronomy 4.35-39, Isaiah 45, and Mark 12.32]]
 - [[Love Your Neighbor - Leviticus 19 and Matthew 22]]
+- [[Set These Words Before You]] — 11:18–21 repeats 6:6–9 at the close of the exhortation.
 
 ## Notes
 
