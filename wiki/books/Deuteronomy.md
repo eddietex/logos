@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Remember the Wilderness and the Giver of Wealth]] (8:1–20) interprets hunger, manna, and
+preservation as humbling, testing, and fatherly discipline. The good land’s abundance calls
+for gratitude; self-credit and forgetting can end in the same destruction as the nations.
+
+
 [[Blessing and the Removal of the Nations]] (7:12–26) ties covenant blessing in the land to listening.
 Fear of the nations is answered by remembering Egypt; their removal is complete but gradual, and the
 snare of their gods reaches the silver and gold on their images.
@@ -131,7 +136,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **21 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **22 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -154,7 +159,7 @@ Plan drawn 2026-11-05 from the stored WEB. **21 / 69 pericopes ingested.**
 - [x] [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25
 - [x] [[A People Chosen in Love]] — Deuteronomy 7:1–11
 - [x] [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26
-- [ ] Remember the Wilderness and the Giver of Wealth — Deuteronomy 8:1–20
+- [x] [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20
 - [ ] Not Because of Your Righteousness — Deuteronomy 9:1–6
 - [ ] Remember the Calf and Moses' Intercession — Deuteronomy 9:7–29
 - [ ] New Tablets and the Journey Onward — Deuteronomy 10:1–11

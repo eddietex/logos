@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Forgetting moves into following, serving, and worshiping other gods (19). Economic self-sufficiency
+and rival worship are joined in the warning, though wealth itself is not called an idol.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Israel must not follow the surrounding peoples’ gods (14–15). Prosperity does not remove the demand
@@ -331,6 +339,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

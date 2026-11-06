@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+The land is sworn to the fathers (1), and the power to acquire wealth serves the establishment of
+that covenant (18). The warning that Israel may perish (19–20) remains alongside the oath, not
+erased by it.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The oath to the fathers frames both the inherited abundance and the account of the exodus (10, 18,
@@ -437,6 +446,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+The forty years combine hunger, danger, preservation, and provision (2–5, 15–16). Moses interprets
+the journey as humbling and testing for eventual good, not simply as a route to the land.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 The wilderness is simultaneously the setting of forty years of provision and of a generation’s death
@@ -206,6 +214,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

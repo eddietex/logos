@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Yahweh leads, humbles, tests, feeds, and disciplines Israel as a father (2–5). He gives the good
+land and the power to acquire wealth (7–18), and warns that forgetting him brings destruction
+(19–20).
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Yahweh promises to keep the sworn covenant and loving kindness with a listening Israel (12) and to
@@ -3504,6 +3513,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

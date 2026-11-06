@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+The good land promised to the fathers is the destination in view (1, 7–10), though Canaan is not
+named in this chapter. Water, seven agricultural products, iron, and copper describe its
+sufficiency, in contrast to the thirsty wilderness.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 The land is again *the land which he swore to your fathers to give you*, where blessing falls on
@@ -330,6 +339,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

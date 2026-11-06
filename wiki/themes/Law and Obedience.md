@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Keeping the commands frames the chapter (1, 6, 11, 20). Obedience is the question disclosed by
+testing and the practical opposite of forgetting Yahweh.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Doing what is right and good is joined to possession of the land (17–19). The answer to the child
@@ -1152,6 +1160,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

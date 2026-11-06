@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+The lifted heart forgets rescue and credits its own strength with wealth (14, 17). The corrective is
+acknowledgment that productive power itself is given (18), not a denial that people work.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The ascent is explicitly presumptuous in the stored WEB (41, 43). Courage becomes rebellion when it
@@ -290,6 +298,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The people answer a sentence by going up against the word. The verb, *wayyaʿpilû*, occurs only here by the tags, and Deuteronomy 1:43 has *zîd*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Walking in Yahweh’s ways and fearing him (6) answer the remembered discipline of a father (5).
+Reverence is expressed in conduct and dependence.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Fear takes practical form in serving Yahweh, swearing by his name, and keeping commands for the
@@ -440,6 +448,8 @@ See [[The Twelve Spies]].
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

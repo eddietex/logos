@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Moses exhorts Israel to remember its forty years and addresses the imagined claim of self-made
+wealth (2, 17). His witness against apostasy closes the unit (19–20); no new journey or action by
+Moses is narrated.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Moses anticipates Israel's fear that the nations are too many (17) and answers it with memory: what
@@ -1563,6 +1572,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

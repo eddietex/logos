@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Israel is warned that it can perish like the nations displaced before it (19–20). Election and
+rescue do not grant immunity from the consequences of refusing Yahweh’s voice.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Yahweh’s jealousy brings a warning that Israel itself can be destroyed for following other gods
@@ -836,6 +844,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

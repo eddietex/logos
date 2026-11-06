@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
+
 - **Exodus 16:4, 15** — *"Behold, I will rain bread from the sky for you"*; *"It is the bread which Yahweh has
   given you to eat."* — [[Manna and Quail]]
 - **Exodus 16:2, 7–8** — the congregation *"murmured"*; *"Your murmurings are not against us, but against
@@ -18,6 +20,11 @@ tags: [connection]
   ingested*)
 
 ## Analysis
+
+### The lesson of manna in Deuteronomy 8
+
+Deuteronomy 8:3 and 16 now have an ingested context: the unknown food teaches dependence on Yahweh’s word, and humbling and testing aim at Israel’s good. Bread is still given and the good land promises enough to eat (7–10); the contrast is not a rejection of bodily food. For the verified Matthew comparison see [[Not by Bread Only - Deuteronomy 8 and Matthew 4]]. Source: stored WEB Deuteronomy 8; Matthew 4:1–4 verified as WEB at bible-api.com on 2026-11-06.
+
 
 **John 6 is a commentary on Exodus 16, delivered in the form of an argument.** The crowd raises the manna
 first, quoting Scripture: *"Our fathers ate the manna in the wilderness. As it is written, 'He gave them bread

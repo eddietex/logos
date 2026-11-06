@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
+
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 
 - [[The Words of Agur]] — Proverbs 30:7–9.
@@ -16,6 +18,11 @@ tags: [connection]
   ingested.
 
 ## Analysis
+
+### Fullness and the giver of wealth
+
+Deuteronomy 8:10–18 makes the danger more explicit: abundance can lead the heart to credit its own power. Agur fears fullness leading to denial of Yahweh (Proverbs 30:7–9). The difference remains: Moses commands gratitude within anticipated abundance, while Agur asks not to receive riches. Sources: stored WEB Deuteronomy 8 and Proverbs 30:7–9.
+
 
 ### Fullness in Deuteronomy 6:10–25
 

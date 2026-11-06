@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Yahweh tests Israel to disclose whether it will keep his commandments (2, 16). This divine testing
+differs from Israel testing Yahweh at Massah (6:16); the same participants do not imply the same
+moral direction.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Israel must not test Yahweh as at Massah (16). This is human testing of God, distinct from God
@@ -156,6 +165,8 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

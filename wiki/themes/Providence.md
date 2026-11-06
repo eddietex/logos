@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Preserved clothing and feet, manna, and water from flint accompany the remembered hardships (3–4,
+15–16). Provision continues in the land through the power to acquire wealth (18), beyond the
+exceptional wilderness food.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Forty years of divine presence and sufficient provision are recalled while Israel is ordered to
@@ -405,6 +414,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

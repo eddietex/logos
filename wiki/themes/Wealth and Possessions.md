@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Houses, livestock, silver, and gold are anticipated gifts, yet their increase can produce
+self-credit (12–18). Even the power to acquire wealth is given to establish the ancestral covenant;
+this is a communal covenant address, not a promise of riches to every faithful individual.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Filled houses and productive estates are gifts that can foster forgetfulness (10–12). The command is
@@ -793,6 +802,8 @@ rebuke is interpretation.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

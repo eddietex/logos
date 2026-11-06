@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Moses explicitly interprets this wilderness experience as fatherly discipline directed toward good
+(2–5, 16). This does not erase Job’s different case: Job 2:3 describes his ruin as without cause.
+Discipline must not be made the explanation of every sufferer.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 The Bible does not have a single doctrine of suffering; it has a set of accounts that do not
 reduce to one another, and it declines to rank them. Any honest treatment has to hold several at
 once:
@@ -283,6 +292,8 @@ Moses asks for death rather than go on carrying the people. *Bərāʿātî*, *my
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[The Cleansing of the Leper]] — Leviticus 14:1–32; restoration after healing.
 

@@ -22713,3 +22713,34 @@ Exodus 15:22, 26; 23:25–33 and Deuteronomy 28:60. Joshua 2, Joshua 7, and Judg
 reference only; no source-language claim was introduced. Raw files and workflow instructions
 were unchanged. scripts/link-check.sh passed with 57 expected unstarted-book targets, no
 wrapped links, and no unexpected dangling targets. No unresolved issue.
+
+## [2026-11-06] ingest | Deuteronomy 8.1-20 — Remember the Wilderness and the Giver of Wealth
+
+Ingested [[Remember the Wilderness and the Giver of Wealth]] in one unattended Codex invocation.
+Retained the planned 8:1–20 boundary; Deuteronomy is now 22 / 69 pericopes ingested.
+The passage includes the entire stored WEB unit and the discussion of testing, fatherly
+discipline, abundant land, gratitude, self-credit, and the warning of destruction.
+
+Created 2 content pages: the passage and
+[[Not by Bread Only - Deuteronomy 8 and Matthew 4]]. Revised 26 existing content pages:
+the book, 2 people, 2 places, 16 themes, and 5 connections. Updated 9 index/dashboard pages
+and this log (36 revised wiki pages in all). Counts by frontmatter are 347 passages,
+257 people, 216 places, 87 themes, and 729 connections; 9 books started, 8 complete.
+
+The father in the comparison, the ancestral fathers, and Israel remain collective or
+illustrative rather than new individual pages. Canaan is identified from the book’s context;
+the chapter itself calls it the good land. The unnamed wilderness is covered by its theme.
+No new campsite is inferred from the rock notice. The comparison with Job explicitly retains
+the difference between this stated discipline and Job’s undeserved suffering.
+
+Verified all 20 quoted verses mechanically against immutable stored WEB Deuteronomy 8.
+Comparisons read in stored WEB Exodus 16, Proverbs 3:11–12 and 30:7–9, and Job 2:3.
+Matthew 4:1–4 was verified via bible-api.com with translation=web on 2026-11-06 (response
+identified World English Bible), and paraphrased in the new connection. The web tool could
+not open that API URL; a direct HTTPS request succeeded. No new source-language claims,
+raw text changes, or harness changes. Existing connection material outside the additions
+was not re-audited.
+
+Validation: scripts/link-check.sh passed with no wrapped links or dangling targets;
+57 not-yet-started book pages remain the expected baseline. Passage title is unique.
+No unresolved issue from this ingest.

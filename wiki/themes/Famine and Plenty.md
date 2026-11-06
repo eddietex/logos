@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Hunger and manna teach dependence (3); the good land promises bread without scarcity (7–10).
+Fullness is to produce gratitude, but can instead produce forgetting (11–14).
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Eating to fullness is anticipated (11), but it can make the deliverer forgettable (12). Unlike
@@ -193,6 +201,8 @@ The reversal of Exodus 16. There, hunger is met with a measured portion, and *he
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

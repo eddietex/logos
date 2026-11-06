@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+The destruction of the nations becomes a warning to Israel itself (20). The comparison concerns
+shared liability to judgment, not a new list of peoples or a newly narrated conquest.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 No nation has heard God and lived, and no god has taken a nation out of another nation (33–34). Nations *greater and mightier than you* are driven out so that Israel can have their land (38).
@@ -292,6 +300,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

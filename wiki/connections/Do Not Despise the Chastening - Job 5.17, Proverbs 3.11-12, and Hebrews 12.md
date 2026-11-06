@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
+
 - **Job 5:17–18** — Eliphaz: *"Behold, happy is the man whom God corrects. Therefore do not despise
   the chastening of the Almighty. For he wounds, and binds up. He injures, and his hands make
   whole."* — [[Eliphaz's First Speech]]
@@ -25,6 +27,11 @@ tags: [connection]
 - **Job 2:3** — God's own word for Job's affliction: *ḥinnām*, *without cause* — [[The Second Test]]
 
 ## Analysis
+
+### Deuteronomy 8 now in context
+
+The father-and-son comparison at 8:5 belongs to the remembered forty years: humbling, hunger, manna, preserved clothing and feet, and testing for eventual good (2–5, 16). Moses supplies this interpretation to Israel rather than inferring an individual’s guilt from pain. The contrast already recorded with Job’s undeserved affliction remains; discipline is a stated explanation here, not a universal diagnosis. Source: stored WEB Deuteronomy 8:1–20.
+
 
 **Job 5:17 and Proverbs 3:11 share a phrase.** *Mûsar … ʾal-timʾās*, *do not reject the discipline
 of*, appears in both, with *Šadday* in Job where Proverbs has *Yahweh*; and both pair it with the

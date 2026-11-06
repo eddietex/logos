@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+Remembered as the house of bondage from which Yahweh brought Israel (14). Prosperity in the land
+must not erase that history; the passage does not narrate a return to Egypt.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Egypt supplies both the promise and the proof. Yahweh will put none of *the evil diseases of Egypt,
@@ -341,6 +349,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

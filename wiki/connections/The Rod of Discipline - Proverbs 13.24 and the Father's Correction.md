@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
+
 - [[Where There Is No Vision]] — Proverbs 29:15, 17, 19, 21.
 
 - [[Do Not Envy Sinners]] — Proverbs 23:13–16.
@@ -41,6 +43,11 @@ tags: [connection]
   fatherly discipline (paraphrased; Hebrews is not yet in `raw/`).
 
 ## Analysis
+
+### The wilderness as fatherly discipline
+
+Deuteronomy 8:5 explicitly compares Yahweh’s discipline of Israel with a man disciplining his son. Verses 2–4 and 16 interpret hunger, testing, and provision; no rod is mentioned here. Proverbs 3:11–12 shares the fatherly comparison, but the wilderness retrospect concerns a people rather than a household instruction. The limit from Job remains: this explanation cannot diagnose every suffering. Sources: stored WEB Deuteronomy 8 and Proverbs 3:11–12.
+
 
 Proverbs 13 is framed by the two sides of one relationship. It opens with the son who *listens* to
 his father's instruction (13:1) and closes with the father who does not *spare the rod* (13:24).

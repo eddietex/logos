@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
+
 - [[The Waters of Meribah]] — Numbers 20:1–13, now ingested from the stored WEB source.
 
 - **Exodus 17:5–6** — *"Behold, I will stand before you there on the rock in Horeb. You shall strike the rock,
@@ -27,6 +29,11 @@ tags: [connection]
   followed them, and the rock was Christ."* (WEB, 10:4) *(not yet ingested)*
 
 ## Analysis
+
+### Water remembered amid wealth
+
+Deuteronomy 8:15 recalls water from the rock of flint amid snakes, scorpions, and thirsty ground. Its purpose here is remembrance of the provider before abundance fosters self-credit (14–18). It does not name a location, recount Moses’ action, or describe a moving rock. Source: stored WEB Deuteronomy 8:14–18; no new source-language assertion.
+
 
 ### The Kadesh account now ingested
 

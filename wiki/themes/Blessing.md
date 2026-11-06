@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wilderness and wealth — Deuteronomy 8:1–20
+
+After eating to fullness Israel is to bless Yahweh for the good land (10). Here the people bless the
+giver in acknowledgment; the direction differs from God granting prosperity to the people.
+
+See [[Remember the Wilderness and the Giver of Wealth]]. Source: stored WEB Deuteronomy 8:1–20.
+
+
 God's act of granting the power to flourish. In Genesis 1 blessing is not a wish or a mood but a
 performative word that confers capacity: what God blesses becomes able to increase, to fill, and
 to be fruitful.
@@ -398,6 +406,8 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
