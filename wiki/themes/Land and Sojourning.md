@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Remembered foreignness in Egypt grounds Israel’s obligation to love the foreigner (19). Food and clothing in verse 18 make the ethic material, extending the prohibitions of Exodus 22:21 and 23:9 and the love command of Leviticus 19:34.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 The sworn land is the setting of blessing (13). Possession is gradual, *little by little*, so that
@@ -619,6 +625,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

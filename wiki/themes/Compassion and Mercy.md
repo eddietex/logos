@@ -69,6 +69,12 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+The awesome ruler gives food and clothing to the foreigner and upholds widow and fatherless (17–18). Israel’s answering love is grounded in God’s action as well as its own remembered need (19).
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 *Your eye shall not pity them* (16) repeats 7:2's refusal of mercy to the nations. The tension with
@@ -348,6 +354,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

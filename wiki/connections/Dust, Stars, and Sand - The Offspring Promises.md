@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+
 - **Genesis 13:16** — *"I will make your offspring as the dust of the earth, so that if a man can
   count the dust of the earth, then your offspring may also be counted."*
 - **Genesis 15:5** — *"Look now toward the sky, and count the stars, if you are able to count
@@ -31,6 +33,12 @@ tags: [connection]
   Deuteronomy 1:10 — [[Judges Appointed for the People]]
 
 ## Analysis
+
+### The requirement now ingested
+
+Deuteronomy 10:22 explicitly contrasts seventy ancestors entering Egypt with the present multitude like the stars. Genesis 15:5 supplies the ancestral star promise, while Genesis 46:27 and Exodus 1:5 supply the seventy. The image supports the call to praise and loyalty (20–21), not a fresh census or a claim that the people literally equal the astronomical number of stars.
+
+Source: stored WEB Deuteronomy 10:12–22; Genesis 15:5, 46:26–27; Exodus 1:5, 22:21–22, 23:9; Leviticus 19:33–34.
 
 The promise of innumerable offspring is made three times in three materials, and Genesis is careful
 about the order.

@@ -53,6 +53,12 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Yahweh executes justice for the fatherless and widow and gives the foreigner food and clothing (18). Israel must love the foreigner because it knows that condition from Egypt (19). Divine greatness is expressed in practical provision.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Servants and resident strangers receive rest alongside the household head (14). The point is protection for those under another’s authority; their poverty is not asserted of every individual.
@@ -438,6 +444,8 @@ treats a man (2); it adds no protection and no further burden.
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

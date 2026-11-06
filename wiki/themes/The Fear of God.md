@@ -70,6 +70,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Fear frames the call to love, obey, serve, cling to Yahweh, and swear by his name (12, 20). Awe before the mighty and awesome God belongs with imitation of his care for vulnerable people (17–19).
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Fear is explicitly joined to keeping the commandments throughout the lives of hearers, children,
@@ -448,6 +454,8 @@ See [[The Twelve Spies]].
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

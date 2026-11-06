@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Moses turns from recalled restoration to the question of what Yahweh requires (12–13). He commands wholehearted service, a responsive heart, and love for the foreigner, grounding the latter in Israel’s remembered Egyptian experience (16–19).
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Moses makes the wooden ark, cuts replacement tablets, ascends and descends, and deposits the writing
@@ -1597,6 +1603,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

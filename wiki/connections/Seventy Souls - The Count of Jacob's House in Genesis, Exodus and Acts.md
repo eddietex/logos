@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+
 - **Genesis 46:8–27** — [[Jacob's Family Settles in Egypt]]. The register, its four subtotals, and the
   two grand totals of 46:26–27.
 - **Exodus 1:5** — the same figure, opening the book of the bondage. — [[The Oppression in Egypt]]
@@ -15,6 +17,12 @@ tags: [connection]
 - **Acts 7:14** — Stephen, before the Sanhedrin: **seventy-five souls.**
 
 ## Analysis
+
+### The requirement now ingested
+
+Deuteronomy 10:22 is now ingested: its seventy matches the stored WEB totals in Genesis 46:27 and Exodus 1:5. It compresses the ancestral migration rather than repeating the register or explaining its counting rules. The contrast with the present star-like multitude is its argument for praise. The previously noted seventy/seventy-five discrepancy remains; this verse supplies no reconciliation.
+
+Source: stored WEB Deuteronomy 10:12–22; Genesis 15:5, 46:26–27; Exodus 1:5, 22:21–22, 23:9; Leviticus 19:33–34.
 
 ### The arithmetic of Genesis 46
 

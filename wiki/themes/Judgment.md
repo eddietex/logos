@@ -255,6 +255,12 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Yahweh’s justice accepts neither personal favoritism nor reward (17) and defends the fatherless and widow (18). His choice of Israel (15) must therefore be distinguished from corrupt partiality in judgment.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Judgment falls on the nations in stages: the hornet, confusion, and destruction (20–24). The
@@ -860,6 +866,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

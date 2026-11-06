@@ -140,6 +140,12 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+The fathers’ loved and chosen offspring must answer with wholehearted obedience (12–16). This follows the restored tablets and leads to love for foreigners; belonging does not exempt the people from the character of their God.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Yahweh will keep with a listening Israel *the covenant and the loving kindness which he swore to
@@ -470,6 +476,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

@@ -98,6 +98,12 @@ nations is an interpretation of this combination, not an explicit missionary com
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+The owner of all heaven and earth chooses the fathers’ offspring (14–15), yet shows no partiality and loves the foreigner (17–19). Particular election and impartial justice stand together; chosen status does not authorize neglect of outsiders.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Israel is holy and chosen as Yahweh’s own possession (6). Numerical superiority is expressly
@@ -202,6 +208,8 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

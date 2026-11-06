@@ -47,6 +47,12 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Swearing by Yahweh’s name stands with fearing, serving, and clinging to him (20). The verse concerns covenant allegiance; it neither narrates a particular oath nor institutes a new vow procedure.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 The oath to the fathers is named twice: the covenant and loving kindness Yahweh swore (12), and the
@@ -380,6 +386,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

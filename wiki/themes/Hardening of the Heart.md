@@ -40,6 +40,12 @@ runs four verses ahead of the English (Hebrew 8:11, 15, 28 = English 8:15, 19, 3
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Israel is commanded to circumcise its heart and cease being stiff-necked (16). Unlike the account of Sihon’s hardening, the emphasis here is a responsibility to yield. The surrounding demands give that response ethical content.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Exodus — who hardens whom
 
 **The order of agents is the old question, and the text sets it out in sequence:**
@@ -131,6 +137,8 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1; the passage 
 sources and interpretive limits.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

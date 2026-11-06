@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+
 - **Genesis 17:14** — *"The uncircumcised male who is not circumcised in the flesh of his foreskin,
   that soul shall be cut off from his people. He has broken my covenant."* The literal sense, and the
   first occurrence of *ʿārēl* — [[Circumcision, the Sign of the Covenant]]
@@ -23,13 +25,19 @@ tags: [connection]
   [[One Law for the Native and the Stranger]]
 - **Leviticus 26:41** — *"if then their uncircumcised heart is humbled"*, in exile — [[Covenant Warnings and Remembered Promises]]
 - **Deuteronomy 10:16; 30:6** — Israel told to circumcise the foreskin of its heart; then God
-  promising to circumcise it himself *(not yet ingested; paraphrased)*
+  promising to circumcise it himself *(10:16 now ingested; 30:6 verified in stored WEB, paraphrased)*
 - **Jeremiah 4:4; 6:10; 9:25–26** — circumcise yourselves to Yahweh; an ear that is uncircumcised and
   cannot listen; nations and Israel alike uncircumcised in heart *(not yet ingested; paraphrased)*
 - **Acts 7:51; Romans 2:28–29** — Stephen's *"uncircumcised in heart and ears"*; Paul's circumcision
   of the heart, by the Spirit *(not yet ingested; paraphrased)*
 
 ## Analysis
+
+### The requirement now ingested
+
+Deuteronomy 10:16 is now ingested in its setting of wholehearted service and love for foreigners. Its heart image is paired with the command to cease being stiff-necked. Deuteronomy 30:6 is verified in stored WEB, though still awaiting ingestion; its divine promise must be distinguished from the command here. These additions concern the English WEB wording, without a new source-language claim.
+
+Source: stored WEB Deuteronomy 10:12–22; Deuteronomy 30:6.
 
 **Moses is the first person in Scripture to call a part of the body other than the flesh
 *uncircumcised*.** In Genesis, Exodus, and Job the adjective *ʿārēl* occurs only four times (WLC

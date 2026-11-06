@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Yahweh owns heaven and earth yet loves and chooses the fathers’ descendants (14–15). His supremacy is expressed in impartial justice, refusal of bribes, and food and clothing for the foreigner (17–18); election must not be confused with judicial favoritism.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Yahweh writes the former commandments again, sets Levi apart, hears Moses, and refuses to destroy
@@ -3536,6 +3542,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

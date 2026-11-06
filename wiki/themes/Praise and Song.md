@@ -32,6 +32,12 @@ is what God has just done**: *"The horse and his rider he has thrown into the se
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Yahweh is Israel’s praise because of the great deeds it has seen (21). The movement from seventy ancestors in Egypt to a multitude like the stars supplies a concrete example (22); no sung performance is narrated.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Sihon and Og — Numbers 21:21–35
 
 The Heshbon poem is introduced as the speech of those who speak in proverbs (27), not as Israel
@@ -142,6 +148,8 @@ Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra ke
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

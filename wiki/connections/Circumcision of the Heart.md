@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+
 - **Genesis 17:10–14** — the rite itself: *"You shall be circumcised in the flesh of your foreskin.
   It will be a token of the covenant between me and you"*, with a sanction for the man who is not
   cut. See [[Circumcision, the Sign of the Covenant]].
@@ -33,6 +35,12 @@ tags: [connection]
 
 ## Analysis
 
+### The requirement now ingested
+
+Verse 16 now stands in its ingested setting: after restored tablets, the chosen people must cease being stiff-necked. Love, obedience, and care for foreigners supply the practical content (12–19). Deuteronomy 30:6, verified in the stored WEB but not yet ingested, promises that God will circumcise the heart so the people may love him and live. Command and promise have different agents and settings; neither verse alone explains how those agencies relate.
+
+Source: stored WEB Deuteronomy 10:12–22; Deuteronomy 30:6.
+
 **The metaphor is not a New Testament invention and it is not a rejection of the rite.** It begins in
 the Torah, in the same books that command circumcision in the flesh, and it works by taking the
 physical sign seriously enough to ask what it was for.
@@ -45,7 +53,7 @@ the same job with lips (Exodus 6:12, *"uncircumcised lips"*, of Moses' speech) a
 
 ### The move that Deuteronomy makes twice
 
-Deuteronomy 10:16 and 30:6 are the same sentence with the subject changed, and twenty chapters apart:
+Deuteronomy 10:16 and 30:6 share the heart-circumcision image, but differ in agent, wording, and setting:
 
 | | Deuteronomy 10:16 | Deuteronomy 30:6 |
 |---|---|---|
@@ -54,9 +62,12 @@ Deuteronomy 10:16 and 30:6 are the same sentence with the subject changed, and t
 | Scope | the generation addressed | *"and the heart of your offspring"* |
 | Result | *"be no more stiff-necked"* | *"to love Yahweh your God with all your heart"* |
 
-That shift — a command that the same book later says God will perform himself — is the Old
-Testament's own admission that the first version did not work, and it is the seed of Jeremiah's new
-covenant *"written on their hearts"* (31:33) and Ezekiel's *"heart of flesh"* (36:26).
+The shift from Israel’s commanded response to God’s promised action raises a tension between
+responsibility and divine enablement. The earlier wording called this an admission that the
+command failed; that overstates what these verses explicitly say. Deuteronomy 10:16 commands
+response, while 30:6 promises transformation in the setting of restoration. A theological
+relationship to later new-covenant passages is an interpretation, not an explicit cross-reference
+made by either verse.
 
 ### Jeremiah's list, which is the sharpest thing in the thread
 

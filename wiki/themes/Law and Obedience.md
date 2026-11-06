@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Fear, walking in God’s ways, love, wholehearted service, and keeping the commands belong to one answer about what God requires, explicitly for Israel’s good (12–13). The requirement reaches both the heart and treatment of foreigners (16–19).
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 *Because you listen to these ordinances, and keep and do them*, the covenant blessings follow (12).
@@ -1176,6 +1182,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

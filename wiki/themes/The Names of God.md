@@ -121,6 +121,12 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+The WEB names Yahweh God of gods and Lord of lords (17). The titles introduce impartiality and protection of the vulnerable, joining sovereignty to justice rather than implying that power is available for purchase.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Misuse of Yahweh’s name carries guilt (11). The unit gives no list of permitted pronunciations and should not be treated as such a list.
@@ -257,6 +263,8 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

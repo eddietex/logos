@@ -33,6 +33,12 @@ a mark that can be perfectly kept and entirely missed.
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+The command to circumcise the heart is immediately explained by the demand to cease being stiff-necked (16). In this setting the image calls for responsive obedience after the calf episode; it does not abolish bodily circumcision. See [[Circumcision of the Heart]].
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 *Uncircumcised heart* (41) is the first canonical use of the image for the heart; the image earlier
@@ -122,6 +128,8 @@ Exodus 12:48 made circumcision the condition for a stranger at the Passover. Num
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

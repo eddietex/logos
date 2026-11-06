@@ -22819,3 +22819,30 @@ Validation: scripts/link-check.sh exited 0: no wrapped or dangling links; 57 exp
 not-yet-started book targets. Created 6 pages and revised 45 existing pages, including indexes
 and log. Deuteronomy is 25 / 69; totals are 350 passages, 257 people, 219 places,
 87 themes, and 732 connections.
+
+## [2026-11-06] ingest | Deuteronomy 10.12-22 — What Yahweh Requires of Israel
+
+Ingested exactly the planned unit in auto mode, by Codex, retaining its boundary. Created one
+passage page and revised 34 existing pages including this log: Deuteronomy, two people, Egypt,
+fifteen themes, five existing connections, and nine index/dashboard pages. Deuteronomy is now
+26 / 69; counts by frontmatter type are 351 passages, 257 people, 219 places, 87 themes,
+and 732 connections. No new entity or connection was needed.
+
+Integrated wholehearted obedience, heart-circumcision, election alongside impartial justice,
+God’s material provision for vulnerable people, love for foreigners, and the seventy-to-stars
+retrospect. Israel and the fathers remain collective references; no unnamed person or cosmic
+place page was invented. Extended the existing heart, foreigner, offspring, and seventy-count
+connections. Corrected the heart connection’s overstatement that Deuteronomy 10:16 and 30:6
+are the same sentence and explicitly qualified its claim that the command failed. Retained
+the command/promise agency tension, the distinct treatment of nations and foreigners, and the
+previously recorded seventy/seventy-five difference without an invented reconciliation.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 10:12–22. Comparisons verified
+in stored WEB Genesis 15:5, 46:26–27; Exodus 1:5, 22:21–22, 23:9; Leviticus 19:33–34;
+and Deuteronomy 30:6 (verified but not yet ingested). Existing wider reception material was
+retained; no new unstored-book quotation or exact source-language assertion was introduced.
+Raw files, canonical workflow instructions, and controller files were unchanged.
+
+Validation: scripts/link-check.sh exits 0, with no wrapped or dangling links and 57 expected
+not-yet-started book targets. Frontmatter counts and the book queue agree; git diff --check
+passes. No unresolved operational issue.

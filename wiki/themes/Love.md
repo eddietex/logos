@@ -24,6 +24,12 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Love joins God’s delight in the fathers (15), Israel’s wholehearted response (12), God’s provision for the foreigner (18), and Israel’s duty to love that foreigner (19). Election is not a license to restrict care to the chosen people.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 *He will love you, bless you, and multiply you* (13). Yahweh's love, which in 7:7–8 explained the
@@ -517,6 +523,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

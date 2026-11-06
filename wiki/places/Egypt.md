@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Egypt is recalled both as the place where Israel lived as foreigners (19) and as the destination of the seventy ancestors (22). Memory of vulnerability grounds love for the foreigner; the contrast with present multitude grounds praise.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The exodus starts the period of rebellion recalled in verse 7. Moses appeals to the deliverance
@@ -358,6 +364,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

@@ -192,6 +192,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### What Yahweh requires — Deuteronomy 10:12–22
+
+Israel’s former foreignness in Egypt becomes the reason to love foreigners (19). Seen divine deeds and the growth from seventy to a multitude furnish the reasons for praise (21–22). Remembering produces care, not only gratitude.
+
+See [[What Yahweh Requires of Israel]]. Source: stored WEB Deuteronomy 10:12–22.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Memory is the cure for fear. When Israel says the nations are too many, it must *remember well what
@@ -569,6 +575,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - **Genesis 15:13** — *"Know for sure that your offspring will live as foreigners in a land that is
@@ -35,6 +37,12 @@ tags: [connection]
   [[One Law for the Native and the Stranger]]
 
 ## Analysis
+
+### The requirement now ingested
+
+Deuteronomy 10:18–19 adds God’s own love and provision to the remembered Egyptian experience. The move is from the sovereign’s justice for widow and fatherless and food and clothing for the foreigner to Israel’s answering love. Exodus 22:21–22 and 23:9 prohibit oppression; Leviticus 19:33–34 already commands love as oneself. Deuteronomy does not invent the positive obligation but anchors it explicitly in divine action as well as shared history.
+
+Source: stored WEB Deuteronomy 10:12–22; Genesis 15:5, 46:26–27; Exodus 1:5, 22:21–22, 23:9; Leviticus 19:33–34.
 
 ### Leviticus 19:19–37 now ingested
 
