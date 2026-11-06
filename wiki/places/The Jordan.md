@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+The three designated refuge cities lie east of the river, explicitly toward sunrise
+(41). This notice does not narrate a crossing or designate the western refuges.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 Yahweh swore that Moses would not go over the Jordan; he must die on the east side while Israel goes over (21–22). The land *which you go over the Jordan to possess* is also the land an idolatrous Israel will perish from (26).
@@ -153,6 +160,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Golan in Bashan is designated for the Manassites (43). This concerns the eastern
+tribal community, not an action by the patriarch.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The half-tribe receives the rest of Gilead and all Bashan (13). Jair and Machir specify Manassite
@@ -172,6 +179,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 

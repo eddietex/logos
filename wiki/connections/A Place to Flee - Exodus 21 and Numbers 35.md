@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43; the three eastern cities designated.
+
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:17.
@@ -17,6 +19,21 @@ tags: [connection]
   WEB, now ingested from the stored raw text.
 
 ## Analysis
+
+### The eastern cities named — Deuteronomy 4:41–43
+
+Moses sets apart Bezer for the Reubenites, Ramoth in Gilead for the Gadites, and Golan
+in Bashan for the Manassites. Numbers 35:14 had required three eastern cities without
+naming them. Deuteronomy supplies the names and repeats the protective purpose for a
+killer who acted unwittingly and had no previous hatred. Exodus 21:13’s place of flight
+thus has specific locations in the narrative.
+
+Three here and six in Numbers are not conflicting totals: this notice concerns the
+eastern half. Its silence about judgment, the high priest’s death, and the avenger does
+not cancel Numbers 35:24–28. Neither passage here narrates an actual asylum case or
+settles the date when the full system began operating.
+
+Source: stored WEB Deuteronomy 4:41–43, Numbers 35:9–34, and Exodus 21:12–14.
 
 ### Numbers 35 now ingested
 

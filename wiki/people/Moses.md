@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Moses sets apart three eastern cities for the unwitting killer to flee and live. This
+is a narrated act of provision, not another first-person exhortation.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Moses closes the first address of Deuteronomy, begun at 1:6, with a rhetorical search of all history since creation and of the whole sky (32). He states the confession twice, *There is no one else* (35, 39), and ends with the charge to keep the statutes so that Israel may prolong its days in the land (40).
@@ -1504,6 +1511,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.

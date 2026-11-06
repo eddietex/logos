@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+The eastern refuges preserve the unwitting killer’s life (41–43). Unlike Numbers
+35:12, this notice does not name the avenger; the connection to restrained
+retaliation comes from reading the two passages together.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The avenger executes the murderer (19–21), but the congregation must judge and rescue an unwitting killer (24–25). Protection is geographically conditional until the high priest dies; outside the boundary the avenger incurs no bloodguilt for killing him (26–28). The law both authorizes and restricts retaliation.
@@ -175,6 +183,8 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

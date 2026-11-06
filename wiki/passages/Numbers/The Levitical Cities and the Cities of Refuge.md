@@ -81,6 +81,9 @@ None of the forty-eight cities is named here.
 
 ## Cross-references
 
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 names the three eastern refuges;
+  see [[A Place to Flee - Exodus 21 and Numbers 35]].
+
 - [[A Place to Flee - Exodus 21 and Numbers 35]]
 - [[The Priests Who Kept Their Land and the Levites Who Got None]]
 - [[The Redeemer and the Avenger of Blood]]

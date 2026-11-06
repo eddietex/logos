@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Moses designates the three eastern cities (41–43), giving concrete locations to
+the eastern half of the six-city provision in Numbers 35:13–14.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Knowing that Yahweh alone is God (39) is followed at once by *You shall keep his statutes, and his commandments* (40). Chapter 4 began with *listen to the statutes* (4:1) and ends with *keep his statutes*.
@@ -1093,6 +1100,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Bezer, Ramoth, and Golan serve as places of protective flight (41–43). Urban
+space has a legal purpose in preserving the eligible fugitive’s life.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Forty-eight cities house the Levites and provide land for animals; six also protect killers awaiting adjudication or confined after it (2–15, 24–28). City boundaries become a legal boundary of safety (26–27).
@@ -189,6 +196,8 @@ The different uses remain distinct; no city becomes the established setting.
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
 ## Key passages
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

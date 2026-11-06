@@ -22516,3 +22516,21 @@ Quotations were copied from stored WEB Deuteronomy 4, 5, 6, 7, 26, 32; Genesis 3
 20, 33. Isaiah 45:5–6, 18, 21–22 and Mark 12:29–33 were verified against bible-api.com's WEB on
 2026-11-05. No Hebrew or Greek wording is asserted on the new pages. No raw-text edit or harness change
 was needed.
+
+## [2026-11-05] ingest | Deuteronomy 4.41-43 — Three Cities Beyond the Jordan
+
+Ingested the planned three-verse narrative notice without changing the boundary. Created
+[[Three Cities Beyond the Jordan]], [[Bezer]], [[Ramoth]], and [[Golan]]. Revised Moses,
+the three tribal ancestor pages (explicitly as descendants), the Jordan, Gilead, Bashan,
+and six themes; expanded [[A Place to Flee - Exodus 21 and Numbers 35]] and added reciprocal
+references to the Exodus 21, Numbers 35, and eastern inheritance passage pages.
+Updated the book queue to 14/69, category rows, and dashboard counts (339 passages,
+216 places; other category totals unchanged).
+
+Judgments: the unnamed killer is a legal role, not a new person. The city pages make no
+modern site or etymological claim. Three eastern refuges implement, rather than contradict,
+the six-city plan; this short notice does not repeal the fuller judgment and residence rules.
+All quotations are copied from stored WEB Deuteronomy 4:41–43; comparisons were checked
+against stored WEB Exodus 21:12–14 and Numbers 35:9–34. No raw text changed, external
+quotation added, or source-language assertion introduced. Existing connection expanded
+instead of creating a duplicate refuge thread. Link checks passed with no findings.

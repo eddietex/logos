@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Ramoth in Gilead is set apart for the Gadites as a refuge for unwitting killing
+without previous hatred (42–43). The region now supplies a named protective city.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Half the hill country goes to Reuben and Gad, the rest to half of Manasseh (12–13); the grant to
@@ -78,6 +85,8 @@ resuming the comparison of 4:1. The region supplies a pastoral image, not a loca
 the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

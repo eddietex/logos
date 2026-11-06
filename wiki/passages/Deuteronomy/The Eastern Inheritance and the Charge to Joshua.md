@@ -90,6 +90,9 @@ Complete unit, copied verbatim from stored WEB, raw/bible/Deuteronomy.md.
 - [[Wealth and Possessions]] — Moses explicitly acknowledges the eastern tribes’ many livestock and permits families and herds to remain in their cities (19). Provision for property and households accompanies continued service to the wider people.
 
 ## Cross-references
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 names the three eastern refuges;
+  see [[A Place to Flee - Exodus 21 and Numbers 35]].
 - [[The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22]] — the agreement of Numbers 32 retold as allocation and command.
 - [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]] — the appeal to past deliverance at Kadesh and before Joshua’s campaigns.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — the fuller negotiation, Numbers 32.

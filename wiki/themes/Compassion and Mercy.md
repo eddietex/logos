@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Protection is made accessible in three named cities for the unwitting killer
+without previous hatred (41–43). This is preservation of life, not an explicit
+pronouncement of forgiveness or exemption for deliberate murder.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 *For Yahweh your God is a merciful God. He will not fail you, neither destroy you, nor forget the covenant of your fathers* (31). Mercy is the stated ground of Israel's return from exile, three verses after the God of verse 24 is called a devouring fire.
@@ -308,6 +316,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

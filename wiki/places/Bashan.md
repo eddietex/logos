@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Golan in Bashan is set apart for the Manassites as a refuge for unwitting killing
+without previous hatred (42–43). The inherited territory receives a protective city.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 All Bashan, Og’s former kingdom and a land of Rephaim, goes to half of Manasseh (13). Jair’s taking
@@ -42,6 +49,8 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

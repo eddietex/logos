@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Bezer, in the wilderness and plain country, is designated for the Reubenites (43).
+The tribal descendants, not the patriarch, receive this refuge provision.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The Reubenites receive land with Gad from the Arnon through Gilead to the Jabbok and along the
@@ -220,6 +227,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

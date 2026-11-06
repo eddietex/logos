@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+The stated purpose of flight is that the unwitting killer may live (42). Causing
+a death is not treated as sufficient reason to deny all protection.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 *Did a people ever hear the voice of God speaking out of the middle of the fire, as you have heard, and live?* (33). Survival of the hearing is the wonder; at 5:24–26 it becomes the people's reason for asking for a mediator. Keeping the statutes is the way to *prolong your days in the land* (40).
@@ -796,6 +803,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; heard and lived
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.

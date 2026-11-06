@@ -135,6 +135,9 @@ from a danger the owner knew about (21:33–36).
 
 ## Cross-references
 
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 names the three eastern refuges;
+  see [[A Place to Flee - Exodus 21 and Numbers 35]].
+
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:17 describes a bloodguilty fugitive without
   support; its generality must not cancel Exodus 21:12–14’s distinction between deliberate and
   unintentional killing.

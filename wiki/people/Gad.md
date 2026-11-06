@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Eastern refuge cities — Deuteronomy 4:41–43
+
+Ramoth in Gilead is designated for the Gadites (43). The tribal descendants, not
+the patriarch, receive this refuge provision.
+
+See [[Three Cities Beyond the Jordan]]. Source: stored WEB Deuteronomy 4:41–43.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The Gadites share the grant described with Reuben in verses 12 and 16–17. Settlement does not
@@ -133,6 +140,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
