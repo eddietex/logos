@@ -128,6 +128,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[They Are My Servants - Leviticus 25.42, 55, Nehemiah 5, and 1 Corinthians 7]] — the claim
   of ownership followed forward.
 - [[Blessings for Obedience]] — 26:13 restates the exodus claim of 25:55 at the end of the promises.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the poor brother's debt released in the seventh year, and the hand opened to lend him what he lacks.
 
 ## Notes
 

@@ -188,6 +188,7 @@ but *"cast it to the dogs"* (22:31).
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:20, the king not to be cursed even
   in thought. See [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the animal that dies of itself goes to the
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; lending to the poor brother commanded, and his cry to Yahweh against the one who refuses (15:9).
   foreigner, not to the dogs. See [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
 
 ## Notes

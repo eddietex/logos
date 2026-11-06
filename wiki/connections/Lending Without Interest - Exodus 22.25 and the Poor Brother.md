@@ -11,6 +11,8 @@ tags: [connection]
 
 - [[A Good Name]] — Proverbs 22:7.
 
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11.
+
 - **Exodus 22:25** — *"If you lend money to any of my people with you who is poor, you shall not be
   to him as a creditor. You shall not charge him interest."* — [[Laws of Holiness and Compassion]]
 - **Leviticus 25:35–37** — *"If your brother has become poor … Take no interest from him or profit,
@@ -68,6 +70,17 @@ Leviticus has two terms Exodus lacks one of: *nešek wətarbît* (36), then *ne�
 *like an alien* has no comparative word in the Hebrew, *gēr wətôšāb wāḥay ʿimmāk* (35), so the
 argument from *like* depends on how that clause is construed. See
 [[The Poor Brother and Redemption from Service]]. Source: stored WEB; Miqra according to the Masorah (Sefaria).
+
+### Deuteronomy 15 in context
+
+Deuteronomy 15:1–11 does not mention interest. It goes further in another direction: at the end of
+every seven years the creditor releases *"that which he has lent to his neighbor"* (15:2), and the
+poor brother must still be lent *"sufficient for his need"* when the release is near (15:8–9). The
+brother–foreigner line of 23:19–20 is already drawn here: *"Of a foreigner you may require it"*
+(15:3; *nokrî*, WLC, morphhb). Exodus 22:23, 27 has God hear the cry of the oppressed and of the
+debtor; Deuteronomy 15:9 turns that cry against the lender who refuses — *"and it be sin to you"*.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11; Exodus 22:23, 25, 27; Hebrew from WLC (morphhb).
 
 ### Proverbs 22 in context
 

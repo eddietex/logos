@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[The Year of Release and the Open Hand]] (15:1–11) releases a brother's debts at the end of every seven years, though not a
+foreigner's. It promises that there shall be no poor in a blessed and obedient land, yet says the
+poor will never cease, and forbids refusing a loan because the year of release is near.
+
 [[Tithes for Feasting and Provision]] (14:22–29) has the household eat its yearly tithe before
 Yahweh at the chosen place, turning it into money if the way is long, so as to learn to fear him.
 Every third year the tithe stays in the towns for the Levite, foreigner, fatherless, and widow.
@@ -176,7 +180,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **32 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **33 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -210,7 +214,7 @@ Plan drawn 2026-11-05 from the stored WEB. **32 / 69 pericopes ingested.**
 - [x] [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18
 - [x] [[A Holy People and Its Food]] — Deuteronomy 14:1–21
 - [x] [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29
-- [ ] The Year of Release and the Open Hand — Deuteronomy 15:1–11
+- [x] [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11
 - [ ] Release the Servant with Gifts — Deuteronomy 15:12–18
 - [ ] Consecrate the Firstborn of the Herd and Flock — Deuteronomy 15:19–23
 - [ ] Passover Weeks and Booths — Deuteronomy 16:1–17
@@ -263,6 +267,8 @@ Plan drawn 2026-11-05 from the stored WEB. **32 / 69 pericopes ingested.**
 - [[The Wilderness]]
 - [[War]]
 - [[Wisdom]]
+- [[Sabbath]]
+- [[The Poor and the Vulnerable]]
 
 ## Key people
 - [[God]]

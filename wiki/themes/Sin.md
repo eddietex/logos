@@ -142,6 +142,12 @@ has been argued.
 
 ## Development across Scripture
 
+### A refused loan counted as sin — Deuteronomy 15:1–11
+
+The lender who reckons *"The seventh year … is at hand"* and gives nothing commits *ḥēṭʾ*: the poor brother will *"cry to Yahweh against you, and it be sin to you"* (15:9; WLC, morphhb). The same clause recurs for unpaid wages at 24:15. The sin begins as *"a wicked thought in your heart"*.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The WEB’s denial of seen iniquity or perverseness in Israel (23:21) stands in tension with the
@@ -995,6 +1001,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:15; a male goat for a sin offering at each new month
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11, 16–38; a sin-offering goat at every feast
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *be sure your sin will find you out* (23).
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused loan as *"sin to you"* (9).
 
 ## Related themes
 

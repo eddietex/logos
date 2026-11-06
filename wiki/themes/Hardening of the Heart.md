@@ -40,6 +40,12 @@ runs four verses ahead of the English (Hebrew 8:11, 15, 28 = English 8:15, 19, 3
 
 ## Development across Scripture
 
+### Do not harden your heart against a brother — Deuteronomy 15:1–11
+
+*"You shall not harden your heart, nor shut your hand from your poor brother"* (15:7). The verb *ʾāmaṣ* with *ləbāb* is the one used of Yahweh making Sihon's heart obstinate at 2:30 (WLC 2:30; 15:7, morphhb). Here hardening is a choice Israel is warned against, and its form is a refused loan.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Israel is commanded to circumcise its heart and cease being stiff-necked (16). Unlike the account of Sihon’s hardening, the emphasis here is a responsibility to yield. The surrounding demands give that response ethical content.
@@ -215,6 +221,7 @@ sources and interpretive limits.
   the word; *"Don't harden (taqšû) your heart, as at Meribah, as in the day of Massah"* (Psalm 95:8; WLC) reads
   the quarrel and the test with the verb of Pharaoh's heart (7:3; 13:15), and Hebrews 3:8 preaches on it
 - [[Wisdom Calls in the Street]] — Proverbs 1:24–30; a call refused until the refusers' own call goes unanswered
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; *ʾāmaṣ* the heart and shut the hand against the poor brother (7).
 
 ## Related themes
 

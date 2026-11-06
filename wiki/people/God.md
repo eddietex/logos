@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He proclaims the release and hears the refused — Deuteronomy 15:1–11
+
+The seventh-year release is *"Yahweh's release"* (15:2), proclaimed in his name before any creditor acts. He promises such blessing in the land that *"there shall be no poor with you"* if Israel listens (4–6), yet the poor brother who is refused will *"cry to Yahweh against you"*, and he counts the refusal as sin (9). He blesses the work of the one who gives without a grieving heart (10).
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### He gives the harvest and is feared at the meal — Deuteronomy 14:22–29
 
 Yahweh chooses the place *"to cause his name to dwell there"* (14:23), and the tithe eaten there is *"that you may learn to fear Yahweh your God always"*. His blessing makes the harvest too large to carry (24), and he promises to bless *"all the work of your hand"* when the Levite, foreigner, fatherless, and widow are fed (29).
@@ -4314,6 +4320,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; tests Israel through a fulfilled sign; turns from anger to mercy.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; calls Israel his children and his own possession.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten before him, that Israel may learn to fear him.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; God's release proclaimed (2); the refused poor brother's cry heard (9).
 
 ## Related people
 

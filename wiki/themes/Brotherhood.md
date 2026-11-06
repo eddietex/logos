@@ -38,6 +38,12 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### The brother whose debt is released — Deuteronomy 15:1–11
+
+The release is for *"his neighbor and his brother"*; *"Of a foreigner you may require it"* (15:2–3). The poor man is *"one of your brothers"* (7), and the closing command opens the hand *"to your brother, to your needy, and to your poor"* (11). Brotherhood here sets the boundary of the release and the reason for the loan.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### When the brother is the enticer — Deuteronomy 12:29–13:18
 
 *"If your brother, the son of your mother … entices you secretly"* (13:6): kinship gives no protection against the charge of leading to other gods, and the one enticed must not conceal him (13:8). Exodus 32:27–29 has the Levites act against brother and companion after the calf.
@@ -357,6 +363,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Miriam and Aaron Against Moses]] — Numbers 12; Miriam and Aaron against Moses.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *Shall your brothers go to the war, and shall you sit here?*
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the brother, child, wife, or friend who entices (13:6–11).
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the release is for the brother, not the foreigner (2–3).
 
 ## Related themes
 

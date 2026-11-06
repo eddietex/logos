@@ -130,6 +130,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[First Fruits and the Feast of Weeks]] — seven Sabbaths followed by fifty, counted
   in days at 23:15–16 and years at 25:8–10; an analogy rather than identical observances.
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; the *ḥăṣōṣərâ*, not the *šôpār* of 25:9 (WLC)
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the seventh year as a release of debts, with no mention of the land's rest. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
 
 ## Notes
 

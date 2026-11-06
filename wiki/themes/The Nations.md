@@ -128,6 +128,12 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Lender to many nations — Deuteronomy 15:1–11
+
+*"You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you"* (15:6). Within Israel the foreigner (*nokrî*) may be required to repay (3; WLC, morphhb), and the release is for the brother. The promise recurs at 28:12 and is reversed at 28:44.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### Above all peoples — Deuteronomy 14:2, 21
 
 Israel is chosen *"above all peoples who are on the face of the earth"* (14:2), and the food law marks the difference: what dies of itself may be sold to a foreigner (21). Acts 10:28 later reads Peter's vision of unclean animals as being about people.
@@ -606,6 +612,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:12–34; seventy bulls, read in Sukkah 55b as offered for the seventy nations
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; their rites not to be imitated; their gods near and far.
 - [[A Holy People and Its Food]] — Deuteronomy 14:2, 21; a people set apart from all peoples by its food.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; Israel to lend to many nations and not borrow (6); the *nokrî* not released (3).
 
 ## Related themes
 

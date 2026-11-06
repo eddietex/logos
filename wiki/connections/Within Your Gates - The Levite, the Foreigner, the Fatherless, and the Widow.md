@@ -9,6 +9,7 @@ tags: [connection]
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:18
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:12, 18–19
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:27–29
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:7
 - Deuteronomy 16:11, 14 — the feasts of Weeks and Booths; not yet ingested
 - Deuteronomy 24:19 — the forgotten sheaf; not yet ingested
 - Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
@@ -43,6 +44,16 @@ inference the wiki notes but does not attribute to the text.
 Two motives are attached: Yahweh's character (10:18), and blessing on the giver's work (14:29; 24:19). The text puts both side by side and does not rank them.
 
 Sources: stored WEB Deuteronomy 10:9, 18; 12:12, 18–19; 14:27–29; 16:11, 14; 24:19; 26:12–13.
+
+
+### The poor brother within your gates
+
+Deuteronomy 15:7 places the poor brother *"within any of your gates"*, the phrase of the four
+recipients in 14:29. He is not one of the four: he is an Israelite, a brother with a debt, and what he
+receives is a loan and its release rather than a share in the tithe. The phrase marks the same place
+— Israel's own towns — as the scene of the obligation.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 14:29; 15:7.
 
 ## Significance
 

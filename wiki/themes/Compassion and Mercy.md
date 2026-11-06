@@ -69,6 +69,12 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### The open hand and the ungrieved heart — Deuteronomy 15:1–11
+
+The poor brother is to receive an open hand and a loan *"sufficient for his need"* (15:8). The giver is commanded to give so that *"your heart shall not be grieved"* (10) — the inner attitude is part of the command, as the evil eye of verse 9 is part of the sin.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### No pity for the enticer, mercy for Israel — Deuteronomy 12:29–13:18
 
 The relative who entices to other gods is not to be pitied, spared, or concealed (13:8). If nothing devoted is kept from the apostate town, Yahweh will *"turn from the fierceness of his anger, and show you mercy, and have compassion on you, and multiply you"* (13:17). Mercy is withheld from the offender and promised to the nation.
@@ -489,6 +495,7 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 - [[The Glory of Kings]] — Proverbs 25:20–22; Cheer that wounds a heavy heart; food and water for an enemy.
 - [[The People Refuse the Land]] — Numbers 14:17–20; the proclamation quoted, in part, as a plea
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; *neither shall your eye pity him* (13:8); mercy to Israel (13:17).
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the hand opened and the heart not grieved in giving (8, 10).
 
 ## Related themes
 

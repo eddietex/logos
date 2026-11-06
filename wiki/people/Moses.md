@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The release of debts and the open hand — Deuteronomy 15:1–11
+
+Moses commands creditors to release what a brother owes at the end of every seven years, while allowing payment to be required of a foreigner (15:1–3). He sets the promise *"there shall be no poor with you"* (4) beside the warning *"the poor will never cease out of the land"* (11), and forbids refusing a loan because the year of release is near (9).
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### The tithe eaten and shared — Deuteronomy 14:22–29
 
 Moses commands the yearly tithe to be eaten by the household at the chosen place, allows it to be turned into money for a long journey, and stores every third year's tithe in the towns for the Levite and the poor (14:22–29). His rules differ from the tithe laws of Leviticus 27:30–33 and Numbers 18:21–32, which he does not mention.
@@ -1978,6 +1984,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; add nothing, take nothing away; three cases of enticement to other gods.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; restates the clean and unclean animals for the people.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; commands the eaten tithe and the third-year tithe.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; commands the seventh-year release of debts and the open hand to the poor brother.
 
 ## Related people
 

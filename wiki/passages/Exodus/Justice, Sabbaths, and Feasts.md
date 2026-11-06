@@ -187,6 +187,7 @@ commands for Israel's life and worship, not a report that the people have alread
   husband who will not take it.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:15, 23; the bribe taken and justice perverted, in the vocabulary of Exodus 23:6–8.
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the goat rule's third occurrence, closing the
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the verb *šāmaṭ* of 23:11's fallow land applied to debts. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
   food laws.
 
 ## Notes

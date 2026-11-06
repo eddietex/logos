@@ -44,6 +44,12 @@ costly.
 
 ## Development across Scripture
 
+### Blessing that makes the poor cease, and blessing on the giver — Deuteronomy 15:1–11
+
+*"Yahweh will surely bless you in the land"* is the reason there should be no poor (15:4), and the blessing makes Israel a lender to nations (6). The giver who opens his hand is promised blessing *"in all your work, and in all that you put your hand to"* (10) — the loss the lender fears is met with blessing.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### Blessing that makes the tithe heavy, and blessing for giving it — Deuteronomy 14:22–29
 
 Yahweh's blessing is what makes the produce too much to carry far (24), and the third-year tithe is given *"that Yahweh your God may bless you in all the work of your hand which you do"* (29). Blessing stands at both ends: the harvest received and the harvest shared.
@@ -724,6 +730,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the multiplied people counted, without the word itself.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the priest speaks, and Yahweh blesses.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; blessing makes the harvest heavy (24) and follows feeding the needy (29).
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; blessing as the ground of *"no poor"* (4) and the reward of giving (10).
 
 ## Related themes
 

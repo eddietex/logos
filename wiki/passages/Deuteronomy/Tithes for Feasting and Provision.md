@@ -95,6 +95,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   sheaf; see
   [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
 - [[The Tithe Before the Law]] — the tithes of Abram and Jacob, and the tithe's later history.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the next pericope, the year of release, opening with the related phrase *"at the end of every seven years"* and repeating the promise of blessing on the work of the hand (15:10).
 
 ## Notes
 

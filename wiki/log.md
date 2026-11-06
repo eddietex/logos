@@ -23051,3 +23051,34 @@ Sources: quotations copied directly from stored WEB Deuteronomy 10:9, 18; 12:6�
 morphhb (openscriptures, GitHub) — Genesis 28:22; Deuteronomy 4:10; 12:5, 11, 21; 14:22–29; 15:1;
 17:19; 26:12; 31:10, 12–13; Numbers 18:21 — retrieved 2026-11-06. Raw files, canonical workflow
 instructions, and controller files were unchanged.
+
+## [2026-11-06] ingest | Deuteronomy 15.1-11 — The Year of Release and the Open Hand
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and two connections:
+[[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]] and
+[[The Poor Will Never Cease - Deuteronomy 15 and the Poor Always with You]]. Revised 28 existing
+pages including this log: Deuteronomy, two people (God, Moses), ten themes (The Poor and the
+Vulnerable, Sabbath, Wealth and Possessions, Brotherhood, Blessing, Hardening of the Heart,
+Compassion and Mercy, Sin, Prayer, The Nations), three existing connections (Lending Without
+Interest; Within Your Gates; The Seventh Year's Food), five earlier passage pages
+(Cross-references), and six index/dashboard pages. No place is named. Deuteronomy is now 33 / 69.
+Counts by frontmatter type are 358 passages, 257 people, 222 places, 87 themes, and 746
+connections.
+
+Judgment calls: the creditor, brother, *nokrî*, and poor brother get no person pages. The
+contradiction inside the unit — *"there shall be no poor with you"* (15:4) against *"the poor will
+never cease"* (15:11) — is recorded, not resolved. Whether *šəmiṭṭâ* cancels debts or suspends
+collection is left open; the *prozbul* is mentioned as a widely reported later Jewish practice whose
+sources were not checked. The fit of the debt release with the fallow year of Exodus 23 and
+Leviticus 25 is not reconstructed. The Gospel saying and Acts 4:34 are reported as commonly read
+echoes of 15:11 and 15:4; Greek and Septuagint wording were not compared, and the Gospels' narrative
+settings were not checked. The *nokrî* as a non-resident foreigner is labelled an inference.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 2:30; 10:18; 13:13; 14:28–29;
+15:1–12; 23:20; 24:15; 28:12, 44, 54; 31:10–12; Exodus 22:23, 25, 27; 23:10–11; Leviticus 25:1–7,
+35. Matthew 26:11, Mark 14:7, John 12:8, and Acts 4:34 fetched from bible-api.com (`translation=web`)
+for the single verses quoted; no book was added to raw/. Hebrew claims checked against WLC from
+morphhb (openscriptures, GitHub) — Deuteronomy 2:30; 13:14; 14:29; 15:1–18; 23:21; 24:15; 28:12,
+44, 54; 31:10; Exodus 22:22, 24, 26 (Hebrew numbering); 23:11; Leviticus 25:1–7, 35 — retrieved
+2026-11-06. Raw files, canonical workflow instructions, and controller files were unchanged.

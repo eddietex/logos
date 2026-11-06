@@ -28,6 +28,12 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### The seventh year as a release of debts — Deuteronomy 15:1–11
+
+Deuteronomy's seventh year releases debts, not land. *Šəmiṭṭâ*, *release* (15:1–2, 9), shares its verb with the fallow seventh year of Exodus 23:11; Leviticus 25:1–7 calls that year *a Sabbath to Yahweh* and does not mention debts (WLC, morphhb). The texts do not say whether the two releases fell in the same year. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 The explicit rationale here is remembered slavery and rescue (15), and servants must rest as the addressee does (14). Exodus 20:11 grounds the same duty in creation. These differing reasons must remain distinct; creation is not the only stated biblical ground for Sabbath.
@@ -318,6 +324,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The Work Completed]] — Exodus 39:32–43; Creation’s rest supplies comparative context; no Sabbath observance is narrated.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:9–10; two lambs every Sabbath, besides the continual offering
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:6–7; the seventh month's new moon, and the Day of Atonement's Sabbath-like rest
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the seventh-year *šəmiṭṭâ* applied to debts.
 
 ## Related themes
 

@@ -74,6 +74,12 @@ phrase for public worship rather than for petition — see
 
 ## Development across Scripture
 
+### The cry of the refused poor — Deuteronomy 15:1–11
+
+The poor brother turned away will *"cry to Yahweh against you"* (15:9), like the oppressed and the debtor of Exodus 22:23, 27, whose cry God promises to hear. Prayer here is the poor man's appeal against his neighbor.
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Moses' response to the announcement of his death is a petition for others: *Let Yahweh, the God
@@ -524,6 +530,7 @@ Yahweh's. See [[The People Refuse the Land]].
 - [[The Seventy Elders and the Quail]] — Numbers 11:11–15; a complaint to God, a request for death, and an answer with help.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:13; *Heal her, God, I beg you!*
 - [[The People Refuse the Land]] — Numbers 14:13–20; a prayer that quotes God to God
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused poor man's cry to Yahweh (9).
 
 ## Related themes
 

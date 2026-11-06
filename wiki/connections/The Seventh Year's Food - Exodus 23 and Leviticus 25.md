@@ -11,6 +11,8 @@ tags: [connection]
 - [[The Ten Commandments]] — Exodus 20:8–11, the household's seventh-day rest.
 - [[The Altar and the Hebrew Slave]] — Exodus 21:2, a similar six-and-seven service pattern.
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, food, Jubilee, and provision.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the seventh year as a release of debts. See
+  [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:34–35, 43; the unkept rest repaid by exile. See
   [[The Land Will Enjoy Its Sabbaths - Leviticus 26.34-35, 43 and 2 Chronicles 36.21]].
 
@@ -36,6 +38,11 @@ or proves how the rule was historically observed.
 The servant's release after six years in Exodus 21:2 supplies a related pattern. It is not
 identified here with the land cycle, and these verses do not legislate a general remission of debts.
 That would require comparison with additional legislation.
+
+**Deuteronomy 15:1–11 supplies that legislation.** Its seventh year is *šəmiṭṭâ*, a release of debts
+owed by a brother, using the verb Exodus 23:11 uses of the land (WLC, morphhb). It does not mention
+the land's rest. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]] and
+[[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
 
 **Sources:** Exodus ranges checked in existing raw WEB. Leviticus 25:1–7 verified from bible-api.com
 (`translation=web`) on 2026-10-23. No source-language equivalence is claimed.

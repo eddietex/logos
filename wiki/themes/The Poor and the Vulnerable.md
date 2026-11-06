@@ -53,6 +53,12 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### The year of release and the open hand — Deuteronomy 15:1–11
+
+Debts owed by a brother are released at the end of every seven years (15:1–3). *"There shall be no poor with you"* is promised if Israel listens (4–5), yet *"the poor will never cease out of the land"* (11); **the unit states both and does not reconcile them**. Between them, the poor brother *"within any of your gates"* must not meet a hardened heart or a shut hand (7), and refusing him because the release is near is *"sin to you"* (9). See [[The Poor Will Never Cease - Deuteronomy 15 and the Poor Always with You]] and [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
+
+See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 15:1–11.
+
 ### The third-year tithe — Deuteronomy 14:22–29
 
 Every third year the tithe is stored *"within your gates"*, and the Levite, the foreigner, the fatherless, and the widow *"shall come, and shall eat and be satisfied"* (29). This is the first time Deuteronomy joins all four in one list. See [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
@@ -547,6 +553,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[Thirty Excellent Things]] — Proverbs 22:22–23; 23:10–11; The poor in court and the fatherless's field, both defended by Yahweh.
 - [[Vows of Men and Women]] — Numbers 30:9; the widow's and divorced woman's vows stand
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the Levite, foreigner, fatherless, and widow eat the third-year tithe.
+- [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released in the seventh year; *"the poor will never cease"* and the hand opened to them.
 
 ## Related themes
 
