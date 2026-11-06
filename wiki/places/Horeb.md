@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+The day Yahweh spoke at Horeb out of the fire, when Israel *saw no kind of form*, is the stated ground of the prohibition of images (15). The calf made at the same mountain (Exodus 32) is the obvious instance of what the verse forbids, though this unit does not name it.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 The day Israel stood before Yahweh at Horeb is the memory Moses charges them to guard and teach to their grandchildren (9–10). The mountain burned *to the heart of the sky* with darkness, cloud, and thick darkness; the people heard a voice from the fire and saw no form (11–12). Exodus 19 names the mountain Sinai.
@@ -645,6 +651,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 
 ## Appears in
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; the day of the assembly recalled.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the starting point of the march to Kadesh.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the judges appointed *at that time*, before the departure.

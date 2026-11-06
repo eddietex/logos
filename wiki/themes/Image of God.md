@@ -27,6 +27,12 @@ What the passage does state plainly: the image belongs to humanity as such, male
 alike, before any distinction of nation, righteousness, or ability — and it is the ground of the
 dominion given in 1:28, not a reward for exercising it.
 
+### No form and no image — Deuteronomy 4:15–31
+
+The first forbidden likeness is *male or female* (16), the creature Genesis 1:27 says God made *in his own image … male and female*. The text does not itself draw the connection; read beside Genesis, the one image God made may not be turned into an image of God. See [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ## Development across Scripture
 
 - **Genesis 1:26–28** — the image granted, tied to dominion and to male-and-female.
@@ -92,6 +98,7 @@ See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:29; humanity made upright, then seeking many schemes.
 
 - [[From Dust to Dust]] — Ecclesiastes 3:16–22; Human distinction set beside the denial of advantage in death.

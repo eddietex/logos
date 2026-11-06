@@ -75,7 +75,8 @@ It does three things, and the theophany texts trade on all three at once.
 
 - **It marks presence.** The bush, the pillar, the mountain, the throne. Fire is how a God who cannot
   be depicted is nevertheless seen.
-- **It consumes.** *"Our God is a consuming fire"* (Deuteronomy 4:24; Hebrews 12:29). The same
+- **It consumes.** *"Yahweh your God is a devouring fire"* (Deuteronomy 4:24); *"our God is a consuming
+  fire"* (Hebrews 12:29; both WEB, Hebrews verified via bible-api.com 2026-11-05). The same
   element accepts Elijah's offering and burns up the men who come for him (2 Kings 1:10).
 - **It purifies without destroying**, which is the paradox the bush states — burning and not consumed
   — and which Malachi 3:2–3 turns into a refiner sitting over silver.
@@ -123,6 +124,15 @@ of the people before 19:21 warns against a fatal rush to gaze. The comparison wi
 15 remains one of imagery and covenant setting; it does not require every furnace term to
 be identical. For the verified New Testament comparison, see
 [[Sinai and Zion - Exodus 19 and Hebrews 12]].
+
+### The iron furnace and the devouring fire, ingested
+
+[[No Form Seen and No Image Made]] (Deuteronomy 4:15–31) puts the two fires of this thread in one speech. Egypt is *the iron
+furnace* Yahweh brought Israel out of (4:20), and Yahweh himself is *a devouring fire, a jealous God*
+(4:24). The fire at Horeb is also the reason no image may be made: Israel saw fire and heard a voice,
+but *saw no kind of form* (4:15). Fire is the visible sign that keeps God from being depicted. An
+earlier version of this page quoted Deuteronomy 4:24 as *consuming fire*; the WEB has *devouring*,
+and *consuming* is Hebrews 12:29's wording.
 
 ## Significance
 

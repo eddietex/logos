@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Moses must die outside the land; Israel goes over and possesses *that good land* (21–22). Being *long in the land* is the setting of the predicted apostasy, and loss of the land its penalty (25–26). The promised return in these verses is *to Yahweh* (30), not explicitly to the land; Deuteronomy 30:1–5 (stored WEB, not yet ingested) is the passage that adds the gathering.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Seeing the land and entering it are separated: Moses receives the prospect, Joshua the charge to
@@ -533,6 +539,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

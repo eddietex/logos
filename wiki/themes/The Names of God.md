@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+*A devouring fire, a jealous God* (24) and *a merciful God* (31) are said of Yahweh in one speech. Exodus 20:5 grounds the image commandment in *a jealous God*, and Exodus 34:14 makes *Jealous* a name; Exodus 34:6 begins *a merciful and gracious God*. Hebrews 12:29's WEB has *consuming fire* where Deuteronomy 4:24's has *devouring fire*.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 The WEB calls the object of the offense the Name (11), and the ruling identifies
@@ -239,6 +245,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

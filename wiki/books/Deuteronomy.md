@@ -67,6 +67,12 @@ and the survival of the faithful are the proof. Keeping the law is Israel's wisd
 and the day at Horeb — fire, darkness, a voice with no form, the covenant on two tablets — must be
 remembered and taught to children's children.
 
+[[No Form Seen and No Image Made]] (4:15–31) draws the first command from that memory: Israel saw no
+form at Horeb, so it may make no likeness of any creature and worship nothing in the sky. Moses sets
+his own sworn exclusion between the warnings. Yahweh is a devouring fire and a jealous God; a
+long-settled, image-making Israel will be scattered to serve gods that cannot hear, and from there will
+seek and find a merciful God who does not forget the covenant.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -84,7 +90,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **11 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **12 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -97,7 +103,7 @@ Plan drawn 2026-11-05 from the stored WEB. **11 / 69 pericopes ingested.**
 - [x] [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22
 - [x] [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29
 - [x] [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14
-- [ ] No Form Seen and No Image Made — Deuteronomy 4:15–31
+- [x] [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31
 - [ ] Has Any People Heard God and Lived — Deuteronomy 4:32–40
 - [ ] Three Cities Beyond the Jordan — Deuteronomy 4:41–43
 - [ ] The Setting of the Covenant Instruction — Deuteronomy 4:44–49
@@ -157,6 +163,8 @@ Plan drawn 2026-11-05 from the stored WEB. **11 / 69 pericopes ingested.**
 - [ ] The Death of Moses — Deuteronomy 34:1–12
 
 ## Key themes
+- [[Covenant]]
+- [[Idolatry]]
 - [[Law and Obedience]]
 - [[Mediation and Advocacy]]
 - [[Remembrance]]
@@ -174,4 +182,5 @@ Plan drawn 2026-11-05 from the stored WEB. **11 / 69 pericopes ingested.**
 - [[Moab (place)]]
 - [[The Jordan]]
 - [[Horeb]]
+- [[Egypt]]
 - [[Kadesh]]

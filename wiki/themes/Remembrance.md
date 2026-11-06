@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+*Be careful, lest you forget the covenant* (23); in exile, Yahweh will not *forget the covenant of your fathers* (31). Israel's memory of Horeb (15) is the premise of the image ban.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *Lest you forget the things which your eyes saw* (9): memory is guarded like the soul and passed to children and grandchildren. Two seen events are summoned — the deaths at Peor (3) and the day at Horeb (10–13).
@@ -517,6 +523,7 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

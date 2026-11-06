@@ -67,6 +67,7 @@ Source: stored WEB, Deuteronomy 3:23–29. Full unit copied verbatim.
 - [[Call and Election]] — Joshua’s appointment is attached to a defined task: crossing before the people and causing them to inherit (28). Moses’ service continues in preparing the successor who will enter where he cannot.
 
 ## Cross-references
+- [[No Form Seen and No Image Made]] — 4:21–22 reports the refusal again, adding that Yahweh *swore* it.
 - [[Hear the Statutes and Remember Horeb]] — the following unit; the stay near Beth Peor (3:29) precedes the Peor warning in 4:3.
 - [[Moses Excluded - Numbers 20 and Deuteronomy 1]] — the differing explanations of exclusion, now continued in 3:26.
 - [[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]] — a prospect of the land and provision for a successor.

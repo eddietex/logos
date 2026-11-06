@@ -33,6 +33,12 @@ light is near' in the presence of darkness"* (17:12). That is a precise descript
 comfort — not lying about the facts, but relabelling them, and telling a man in the dark that dawn
 is close because you cannot bear to sit in the dark with him.
 
+### No form and no image — Deuteronomy 4:15–31
+
+From scattering among the nations, Israel *shall seek Yahweh your God, and you shall find him, when you search after him with all your heart and with all your soul* (29), and *in the latter days* will return and listen to his voice (30). The hope rests on Yahweh's mercy and oath (31); Jeremiah 29:13 makes a closely worded promise to the exiles (WEB, verified via bible-api.com 2026-11-05).
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ## Development across Scripture
 
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
@@ -163,6 +169,7 @@ are identified on the passage and connection pages.
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
 - [[One Event Comes to All]] — Ecclesiastes 9:1–12; hope belongs to the living.

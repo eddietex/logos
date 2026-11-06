@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Egypt is *the iron furnace* out of which Yahweh took Israel to be *a people of inheritance* (20). 1 Kings 8:51 repeats the phrase (WEB, verified via bible-api.com 2026-11-05).
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 The people say Yahweh brought them *out of the land of Egypt* because he hated them, to hand them to the Amorites (27). Moses answers that Yahweh will fight for them *according to all that he did for you in Egypt before your eyes* (30).
@@ -292,6 +298,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; the exodus as alleged hatred, and as proof of Yahweh fighting for them.
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

@@ -66,6 +66,10 @@ darkness (20:21) across its narrative. This is a resemblance of English wording 
 [[Hear the Statutes and Remember Horeb]] and
 [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]].
 
+**Deuteronomy 4:24 ingested.** The *devouring fire* verse is now on [[No Form Seen and No Image Made]], where it grounds the
+warning against images: *For Yahweh your God is a devouring fire, a jealous God* (4:24). Hebrews 12:29
+uses the same image for a warning against refusing the speaker, not for images.
+
 ## Significance
 
 Read alongside [[Mediation and Advocacy]], [[Covenant]], and [[The Fear of God]], the comparison

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+The ban rests on a voice with no form (15). Exile's gods *neither see, nor hear* (28), and the return is to *listen to his voice* (30): the unit begins and ends with Yahweh's voice.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *You heard the voice of words, but you saw no form; you only heard a voice* (12). The covenant comes as declared speech and then as writing on stone (13); Moses' teaching must not be added to or reduced (2).
@@ -631,6 +637,7 @@ See [[Vows of Men and Women]] and
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

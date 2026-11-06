@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+The sun, moon, and stars are what Yahweh *has allotted to all the peoples under the whole sky* (19), set against Israel as his *people of inheritance* (20); compare Deuteronomy 32:8–9 (stored WEB, not yet ingested). Whether the allotment means the lights as lights or a worship permitted to the nations is not settled by the verse. Exile will scatter Israel *among the peoples* and leave it *few in number among the nations* (27).
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 The peoples are imagined as an audience that hears Israel's statutes and admires them (6). No great nation has a god so near, or a law so righteous (7–8). The nations' admiration is anticipated, not narrated.
@@ -264,6 +270,7 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

@@ -11,6 +11,7 @@ tags: [connection]
 - [[The Ten Commandments]] — Exodus 20:18–22: the people's fear, their distance, and *I have talked with you from heaven*.
 - [[The Covenant Renewed]] — Exodus 34:1, 27–28: the second tablets and *the ten commandments*.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:9–14: the day at Horeb recalled for the sons.
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–24: the formless voice made the ground of the image ban.
 - Deuteronomy 5:22–24 — the same scene recalled before the people's request for a mediator; stored WEB, not yet ingested.
 
 ## Analysis
@@ -48,6 +49,12 @@ The Exodus ambiguity is a question of reading, preserved here rather than resolv
 **Purpose.** Exodus 20:20 gives the visit's purpose as testing, *that his fear may be before you*.
 Deuteronomy 4:10 gives Yahweh's own purpose as learning to fear him all their days and teaching their
 children. Both join fear to the hearing of God's words; Deuteronomy extends it across generations.
+
+**The inference drawn, ingested.** [[No Form Seen and No Image Made]] makes the step from 4:12 explicit: *Be very careful,
+for you saw no kind of form on the day that Yahweh spoke to you in Horeb out of the middle of the fire,
+lest you corrupt yourselves, and make yourself a carved image* (4:15–16). Exodus 20:22–23 places the
+seeing and the ban side by side; Deuteronomy 4:15 joins them with *for* and *lest*. See also
+[[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
 
 Sources: stored WEB Exodus 19, 20, 31, 34 and Deuteronomy 4, 5, 10 in `raw/bible/`. No Hebrew wording
 is asserted.

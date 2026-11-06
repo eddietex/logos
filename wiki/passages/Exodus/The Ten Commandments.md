@@ -113,6 +113,8 @@ mediation belong to one scene; no tablets are handed over within this pericope.
 
 ## Cross-references
 
+- [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]] — the three zones of 20:4 spelled out as creatures.
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31 draws the image ban from Horeb's formless voice and lists the forbidden likenesses; *a jealous God* (4:24, as 20:5).
 - [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — Deuteronomy 4:11–13; the people near the mountain, and the covenant written on two tablets.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:39–40; iniquity of the fathers confessed.
 - [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]] — Leviticus 19:1–18 joins worship, harvest provision, and impartial justice.

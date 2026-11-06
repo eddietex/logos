@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Forgetting *the covenant of Yahweh your God* is paired with making an image (23). In exile, Yahweh *will not … forget the covenant of your fathers which he swore to them* (31): Israel's forgetting and God's not forgetting frame the warning.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *He declared to you his covenant, which he commanded you to perform, even the ten commandments* (13). The covenant is identified with the commandments spoken from the fire and written on two stone tablets.
@@ -379,6 +385,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.

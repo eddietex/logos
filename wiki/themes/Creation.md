@@ -22,6 +22,12 @@ Genesis 1 sets four load-bearing claims:
 4. **Creation is for rest.** The account does not end at the sixth day with humanity, but at the
    seventh with a blessed and hallowed day — see [[Sabbath]].
 
+### No form and no image — Deuteronomy 4:15–31
+
+The forbidden likenesses are the creatures of Genesis 1 — male and female, land animals, birds, creeping things, fish — followed by the sun, moon, and stars, in an order close to the reverse of the six days (16–19). Deuteronomy grounds the ban on Horeb, not creation; the echo is the wiki's observation. See [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ## Development across Scripture
 
 - **Genesis 1:1–2:3** — the cosmic account: God (Elohim) orders the whole world in six days and
@@ -250,6 +256,7 @@ identified on the passage page.
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; The Creator remembered; the given spirit
   returns to God.
 

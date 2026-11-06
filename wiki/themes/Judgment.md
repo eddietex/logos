@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Moses calls heaven and earth to witness that a long-settled, image-making Israel will *utterly perish* from the land, be scattered, and be left *few in number* (26–27). The judgment is removal from the land; verse 31 denies that Yahweh will destroy the people.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Moses’ exclusion stands despite his plea (26–27). His explanation of divine anger for the people’s
@@ -793,6 +799,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

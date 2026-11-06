@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Moses draws the image ban from the memory of Horeb (15–19) and reports, for the third time in Deuteronomy, Yahweh's anger with him *for your sakes* (21; compare 1:37, 3:26), adding that Yahweh *swore* it. *I must die in this land* (22) is his first plain statement that he will die east of the Jordan. He calls heaven and earth to witness against a future idolatrous Israel (26) and promises them a return to Yahweh from exile (29–31).
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 The retrospect turns to exhortation: Moses teaches statutes and ordinances *as Yahweh my God commanded me* (5) and forbids adding to or subtracting from the command (2). He recalls being told at Horeb to assemble the people and *at that time* to teach them statutes for the land (10, 14) — instruction for a land he has just been told he will not enter (3:27).
@@ -1492,6 +1498,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

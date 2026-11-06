@@ -39,6 +39,10 @@ Source: Exodus from stored WEB; the three later ranges checked against bible-api
 later-source statements here are paraphrases; no claim about exact Hebrew or Greek wording is
 made.
 
+**The prohibition before the retelling.** Deuteronomy 4:15–23 forbids any image at all on the ground
+that Israel saw no form at Horeb ([[No Form Seen and No Image Made]]). The unit does not name the calf; Deuteronomy 9 will
+tell it as the breach of exactly this command at the same mountain.
+
 ## Significance
 
 The calf becomes a remembered failure of obedience, memory, and allegiance, while Moses becomes

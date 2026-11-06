@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Yahweh spoke at Horeb from the fire with no form seen (15), and so forbids any image of human, beast, bird, creeping thing, or fish, and the worship of the sun, moon, and stars he has *allotted to all the peoples* (16–19). He took Israel from *the iron furnace* to be his inheritance (20), swore that Moses would not cross (21), and is *a devouring fire, a jealous God* (24). He will scatter an idolatrous Israel (26–27), yet be found by those who seek him with all heart and soul, and as *a merciful God* will not forget the covenant with the fathers (29–31). Fire and mercy are both predicated of him in the same speech; the passage does not reconcile them in so many words.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 Yahweh gives the land (1), destroyed those who followed Baal Peor and kept alive those who held fast to him (3–4), and is near whenever Israel calls (7). At Horeb he assembled the people to hear his words, spoke out of the fire without any form being seen, declared his covenant, and wrote the ten commandments on two stone tablets (10–13).
@@ -3443,6 +3449,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

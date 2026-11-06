@@ -22447,3 +22447,44 @@ the existing connection's paraphrase. No unstored-book quotation, source-languag
 raw-text edit, or harness change was needed.
 Link checks passed with 57 not-yet-started book pages as the expected baseline.
 No unresolved link or source-verification issue.
+
+## [2026-11-05] ingest | Deuteronomy 4.15-31 — No Form Seen and No Image Made
+
+Ingested one pericope in unattended mode with Claude Code. Kept the planned title and boundary
+(4:15–31): *Be very careful, for you saw no kind of form* (15) opens the image prohibition, and
+*For ask now of the days that are past* (32) opens the doxological close. The argument from the
+unseen form, the creature list, the sky's host allotted to the peoples, Moses' sworn exclusion, the
+devouring fire and jealous God, and the exile-and-return prediction are developed on the passage page
+in place of discussion.
+
+Created two pages: the passage and
+[[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
+Revised two people (God, Moses), three places (Horeb, Egypt, The Jordan), fifteen themes, five
+existing connections (The Voice Out of the Fire, Smoking Furnace and Flaming Torch, If They Confess
+Their Iniquity, Sinai and Zion, The Golden Calf Retold), six earlier passages, the book, the books
+index, the themes, places, and people F-M indexes, four connections subindexes, the dashboard, and this
+log. Deuteronomy is now 12 / 69 pericopes; totals are 337 passages, 257 people, 213 places, 87 themes,
+and 726 connections.
+
+Judgment calls: no page for *the army of the sky* or for the sun, moon, and stars; they are filed
+under Idolatry, Creation, and The Nations. The reverse-creation order of 4:16–19 is recorded as a
+resemblance of English lists, not as literary dependence, and is noted as inexact (birds before
+creeping things). Verse 19's *allotted to all the peoples* is left open between two readings. Fire
+(24) and mercy (31), and *utterly be destroyed* (26) against *neither destroy you* (31), are noted as
+held together in the text, read as destruction from the land versus of the people; not flagged as a
+contradiction. Moses' *for your sakes* against Numbers 20:12 was already recorded on
+[[Moses Pleads to Cross the Jordan]] and is only cross-referenced.
+
+Corrections to earlier pages: the fire-theophany connection quoted Deuteronomy 4:24 as *"Our God is a
+consuming fire"*; the WEB has *devouring fire*, and *consuming* is Hebrews 12:29. Fixed, with a note on
+the page. The themes index row for Language and Speech had the previous ingest's Deuteronomy 4:1–14
+phrase pasted into its title cell; moved it to the summary cell.
+
+Quotations were copied from stored WEB Deuteronomy 4 and Genesis 1–2, Exodus 20, 32, 34, and
+Leviticus 26. Romans 1:20, 22–25, Jeremiah 29:13–14, Hebrews 12:29, and 1 Kings 8:51 were verified
+against bible-api.com's WEB on 2026-11-05; Psalms 106, 115, and 135 are cited by reference only. No
+Hebrew or Greek wording is asserted on the new pages. No raw-text edit or harness change was needed.
+Link checks passed with 57 not-yet-started book pages as the expected baseline.
+No unresolved link or source-verification issue. The Connections Index I-N row for
+[[The Lion of Judah - Genesis 49.9 and Revelation 5.5]] has a malformed type cell from an earlier pass;
+left for a lint.

@@ -77,6 +77,7 @@ named locations of Genesis begin at [[Eden]] in the next pericope.
 
 ## Cross-references
 
+- [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]] — Deuteronomy 4:16–19 forbids likenesses of the creatures and lights of Genesis 1, in nearly reverse order.
 - [[From Dust to Dust]] — Genesis 1:26–28’s image and dominion beside the shared mortality of
   humans and animals in Ecclesiastes 3:19–20. See [[Dust and Breath - Genesis 2-3 and Ecclesiastes 3.18-21]].
 

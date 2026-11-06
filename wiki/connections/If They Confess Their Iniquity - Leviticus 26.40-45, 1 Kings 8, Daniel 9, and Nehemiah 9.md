@@ -8,8 +8,10 @@ tags: [connection]
 ## Passages involved
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:40–45.
-- **Deuteronomy 4:27–31** — scattered among the peoples, then *"He will not fail you, neither destroy
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:27–31: scattered among the peoples, then *"He will not fail you, neither destroy
   you, nor forget the covenant of your fathers"* (WEB).
+- **Jeremiah 29:13–14** — *"You shall seek me, and find me, when you search for me with all your heart"*,
+  then *"I will turn again your captivity, and I will gather you"* (WEB).
 - **Deuteronomy 30:1–3** — return, then *"release you from captivity … gather you"* (WEB).
 - **1 Kings 8:46–50** — Solomon's prayer for a people taken captive: *"We have sinned, and have done
   perversely; we have dealt wickedly"* (WEB).
@@ -61,6 +63,14 @@ See the note at [[Covenant Warnings and Remembered Promises]]. **The tension bet
 resolved in the thread.** Psalm 106:44–45 has God remembering at a cry, with no confession mentioned
 in those verses.
 
+**Deuteronomy 4, ingested.** [[No Form Seen and No Image Made]] puts the turning *from there*, in exile: *you shall seek Yahweh
+your God, and you shall find him, when you search after him with all your heart and with all your soul*
+(4:29), and *in the latter days you shall return* (4:30). Its human act is seeking, returning, and
+listening, with no confession named; its divine act is mercy that does not forget the oath (4:31). It
+promises return to Yahweh, not, in these verses, to the land. Jeremiah 29:13 repeats the seek-and-find
+promise in close WEB English and, in 29:14, adds the gathering Deuteronomy 4 leaves for 30:1–5. No
+Hebrew comparison of the two verses is claimed here.
+
 ## Significance
 
 - It gives [[Prayer]] a pattern: exile prayers quote the covenant's own terms back to God.
@@ -72,5 +82,5 @@ in those verses.
 - It marks a limit of [[Guilt and Conscience]]: these texts require saying so, and also keep the
   fathers in the sentence. Compare [[The Ten Commandments]].
 
-Sources: stored WEB Leviticus 26; other WEB via bible-api.com, 2026-10-30. Hebrew and lemma searches
+Sources: stored WEB Leviticus 26 and Deuteronomy 4; other WEB via bible-api.com, 2026-10-30 (Jeremiah 29:13–14 on 2026-11-05). Hebrew and lemma searches
 from WLC (Open Scriptures morphhb). The Deuteronomy table reflects only the verses cited.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+*Yahweh has taken you, and brought you out of the iron furnace, out of Egypt, to be to him a people of inheritance* (20). The exodus is cast as the purchase of an inheritance, the ground for Israel's not sharing the nations' worship.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 The clan heads say Jubilee will not undo the tribal loss caused by heiresses marrying out (4).
@@ -250,6 +256,7 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

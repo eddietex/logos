@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Moses repeats that Yahweh was angry with him *for your sakes* and swore he would not cross (21–22). The mediator's exclusion is told as bound up with the people, and placed between two warnings against images; compare Numbers 20:12, which gives the reason as Moses' and Aaron's unbelief.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 The mediator petitions for himself here (23–25), unlike his request for a successor in Numbers
@@ -494,6 +500,7 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the burden shared, the hard case kept.

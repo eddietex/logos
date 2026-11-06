@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+*You saw no kind of form* (15): what was not seen may not be made. Lifting the eyes to the sky can end in being *drawn away* (19). The gods of exile are visible but *neither see, nor hear* (28) — the reverse of Horeb, where Israel heard a God it did not see.
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 Israel's eyes saw the judgment at Peor and the events at Horeb (3, 9), yet at Horeb *you saw no form* (12). Sight witnesses the event; the revelation itself is heard.
@@ -380,6 +386,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Yahweh swore that Moses would not go over the Jordan; he must die on the east side while Israel goes over (21–22). The land *which you go over the Jordan to possess* is also the land an idolatrous Israel will perish from (26).
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 The river marks the crossing Moses requests and is refused (25–27). Joshua will lead the people
@@ -147,6 +153,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

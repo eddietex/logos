@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### No form and no image — Deuteronomy 4:15–31
+
+Deuteronomy's fullest statement of the image ban. Because Israel saw no form at Horeb (15), it may make no carved likeness of male or female, land animal, winged bird, creeping thing, or fish (16–18), nor worship the sun, moon, stars, and *army of the sky* (19). Forgetting the covenant and making an image are the same act (23). The prediction is that long-settled Israel will make images, be scattered, and serve gods of wood and stone *which neither see, nor hear, nor eat, nor smell* (25–28). The unit covers both images of Yahweh and the worship of other beings without separating them. See also [[The Likeness of Any Figure - Deuteronomy 4.16-19, Genesis 1, and Romans 1.23]].
+
+See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 Peor is the fresh example: all who followed Baal Peor were destroyed (3). At Horeb Israel heard a voice and saw no form (12), which 4:15–19 makes the ground of the prohibition of images.
@@ -290,6 +296,7 @@ texts, 2026-10-25.
 
 ## Key passages
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 

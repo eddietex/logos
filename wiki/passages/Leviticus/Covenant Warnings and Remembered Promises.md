@@ -144,6 +144,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[No Form Seen and No Image Made]] — Deuteronomy 4:25–31: images, scattering among the peoples, then seeking, return, and a God who will not forget the covenant.
 - [[Vows, Valuations, and Devoted Things]] — 27:34, the book's second colophon.
 - [[Blessings for Obedience]] — the first half of the same speech, reversed here item by item.
 - [[The Sabbatical Year and the Jubilee]] — the land Sabbaths of 25:1–7, which 26:34–35 collects.
