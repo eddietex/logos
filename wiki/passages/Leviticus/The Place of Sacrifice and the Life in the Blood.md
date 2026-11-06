@@ -77,6 +77,9 @@ washing, bathing, and uncleanness until evening; failure to cleanse brings iniqu
 - [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]] — prohibition and cleansing kept distinct.
 - [[The Day of Atonement]] — chapter 16’s blood rites precede this explanation.
 - [[Confession and Offerings According to Means]] — flour atonement remains an explicit provision.
+- [[A Holy People and Its Food]] — Deuteronomy 14:21 gives the *gēr* what dies of itself to eat,
+  where 17:15 requires the *gēr* who eats it to wash; see
+  [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
 
 ## Notes
 

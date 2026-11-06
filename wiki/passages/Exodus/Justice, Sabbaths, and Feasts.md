@@ -186,6 +186,8 @@ commands for Israel's life and worship, not a report that the people have alread
 - [[The Lamp of the Commandment]] — Proverbs 6:35; *šōḥaḏ*, the bribe of 23:8, offered to a wronged
   husband who will not take it.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:15, 23; the bribe taken and justice perverted, in the vocabulary of Exodus 23:6–8.
+- [[A Holy People and Its Food]] — Deuteronomy 14:21; the goat rule's third occurrence, closing the
+  food laws.
 
 ## Notes
 

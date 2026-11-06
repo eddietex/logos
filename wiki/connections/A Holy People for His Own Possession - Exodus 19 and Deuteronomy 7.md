@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[Israel at Mount Sinai]] — Exodus 19:4–6.
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
+- [[A Holy People and Its Food]] — Deuteronomy 14:2, 21.
 
 ## Analysis
 
@@ -28,6 +29,16 @@ short Exodus 19:4–6 declaration. Shared identity language does not make the co
 
 Source: stored WEB Exodus 19:4–6 and Deuteronomy 7:1–11. This is a thematic and literary
 parallel, not a claim of verified Hebrew verbal identity or a demonstrated direction of borrowing.
+
+### Repeated as the ground of the food law — Deuteronomy 14:2
+
+Deuteronomy 14:2 repeats 7:6 almost word for word: *"For you are a holy people to Yahweh your God,
+and Yahweh has chosen you to be a people for his own possession, above all peoples who are on the
+face of the earth."* The stored WEB differs only in *"and Yahweh has chosen you"* against 7:6's
+*"Yahweh your God has chosen you"*. Here the status grounds no war against the nations but the bans
+on mourning cuts (14:1) and unclean food (14:3–21), and 14:21 states it again. The phrase is *ʿam
+səgullâ* in 14:2 (WLC, morphhb). See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy
+7:6; 14:1–21.
 
 ## Significance
 

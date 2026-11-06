@@ -11,7 +11,7 @@ tags: [connection]
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:19.
 - Exodus 34:26 — checked in raw WEB.
-- Deuteronomy 14:21 — verified WEB, not yet ingested.
+- [[A Holy People and Its Food]] — Deuteronomy 14:21.
 - [[Acceptable Victims and the Holy Name]] — Leviticus 22:27–28; a related rule about a young animal and its mother.
 
 ## Analysis
@@ -53,6 +53,14 @@ offering rules, as the Exodus goat rule does. The text does not cite the goat ru
 reason for either law, so the resemblance is recorded as a shared subject, not a shared
 rationale. Readings that all three express compassion toward animals are interpretations.
 Source: stored WEB Leviticus 22:26–28.
+
+### The food laws' last clause — Deuteronomy 14:21
+
+In [[A Holy People and Its Food]], the rule is the last clause of the food laws, after the ban on
+eating what dies of itself and the repeated ground, *"for you are a holy people to Yahweh your
+God"*. Deuteronomy gives no more reason for it than Exodus does. Its setting among food laws,
+rather than offerings, is the one difference the text shows; it does not show that the rule was
+understood as a food law in Exodus too. Source: stored WEB Deuteronomy 14:21, ingested 2026-11-06.
 
 ## Significance
 

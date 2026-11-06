@@ -93,6 +93,8 @@ Complete unit, copied from the stored WEB:
 - [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]
 - [[The Covenant Renewed]] — Exodus 34:11–16 parallels the treaty, worship, and marriage prohibitions.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:37 already links love for the fathers with choice of their descendants.
+- [[A Holy People and Its Food]] — Deuteronomy 14:2 repeats 7:6 almost word for word, as the ground
+  of the food laws.
 
 ## Notes
 

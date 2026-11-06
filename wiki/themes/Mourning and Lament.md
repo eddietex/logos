@@ -60,6 +60,12 @@ conclude there is something to be penitent about. See [[Sitting in Dust and Ashe
 
 ## Development across Scripture
 
+### No cutting, no baldness — Deuteronomy 14:1
+
+*"You shall not cut yourselves, nor make any baldness between your eyes for the dead"* (14:1) extends to the whole people the baldness Leviticus 21:5 forbids to the priests. The ban is on marking the body, not on grief: Israel weeps thirty days for Moses (34:8). Jeremiah 16:6 later names cutting and baldness as ordinary mourning in Judah.
+
+See [[A Holy People and Its Food]] and [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]]. Source: stored WEB Deuteronomy 14:1; 34:8; Leviticus 19:28; 21:5; Jeremiah 16:6 verified from bible-api.com (WEB).
+
 ### Field and community — Leviticus 19:19–37
 
 Cuttings in the flesh for the dead are prohibited (28). This restricts a bodily mourning practice
@@ -312,6 +318,7 @@ treats it as a fault. Verse 39 will have them mourn again, after the sentence, t
 - [[The Seventy Elders and the Quail]] — Numbers 11:4–20, 33–34; weeping for meat, and burial with no weeping told.
 - [[The People Refuse the Land]] — Numbers 14:1; the night of weeping
 - [[The Defeat at Hormah]] — Numbers 14:39; great mourning, and no change of direction
+- [[A Holy People and Its Food]] — Deuteronomy 14:1; no cutting or baldness for the dead.
 
 ## Related themes
 

@@ -187,6 +187,8 @@ but *"cast it to the dogs"* (22:31).
 - [[Through Wisdom a House Is Built]] — Proverbs 24:21, *"fear Yahweh and the king"*, after 22:28. See [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:20, the king not to be cursed even
   in thought. See [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
+- [[A Holy People and Its Food]] — Deuteronomy 14:21; the animal that dies of itself goes to the
+  foreigner, not to the dogs. See [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
 
 ## Notes
 

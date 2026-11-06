@@ -97,6 +97,8 @@ The unit closes by requiring observance of all his statutes and ordinances (35â€
 - [[Love Your Neighbor - Leviticus 19 and Matthew 22]]
 - [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]
 - [[The Trespass Ram in Different Cases - Leviticus 5 and 19]]
+- [[A Holy People and Its Food]] â€” Deuteronomy 14:1 forbids cutting and baldness for the dead to all
+  Israel; see [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]].
 
 ## Notes
 

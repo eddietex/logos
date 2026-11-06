@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[A Holy People and Its Food]] (14:1–21) grounds daily life in Israel's status as Yahweh's
+children and holy people: no cutting or baldness for the dead, and a food list close to
+Leviticus 11, with differences over insects and over meat that dies of itself.
+
 [[Do Not Follow Other Gods]] (12:29–13:18) forbids imitating the nations' rites, which included
 burning their children, and adds nothing to the command. A prophet whose sign comes true, a relative
 who entices in secret, and a town drawn away to other gods all face death; the town is devoted.
@@ -168,7 +172,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **30 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **31 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -200,7 +204,7 @@ Plan drawn 2026-11-05 from the stored WEB. **30 / 69 pericopes ingested.**
 - [x] [[Set These Words Before You]] — Deuteronomy 11:18–32
 - [x] [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28
 - [x] [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18
-- [ ] A Holy People and Its Food — Deuteronomy 14:1–21
+- [x] [[A Holy People and Its Food]] — Deuteronomy 14:1–21
 - [ ] Tithes for Feasting and Provision — Deuteronomy 14:22–29
 - [ ] The Year of Release and the Open Hand — Deuteronomy 15:1–11
 - [ ] Release the Servant with Gifts — Deuteronomy 15:12–18
@@ -241,7 +245,9 @@ Plan drawn 2026-11-05 from the stored WEB. **30 / 69 pericopes ingested.**
 - [ ] The Death of Moses — Deuteronomy 34:1–12
 
 ## Key themes
+- [[Clean and Unclean]]
 - [[Covenant]]
+- [[Holiness]]
 - [[Idolatry]]
 - [[Law and Obedience]]
 - [[Love]]

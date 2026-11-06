@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The Father of a holy people — Deuteronomy 14:1–21
+
+*"You are the children of Yahweh your God"* (14:1). Yahweh has chosen Israel *"to be a people for his own possession, above all peoples who are on the face of the earth"* (2). From that status follow the bans on cutting for the dead and on unclean food; the ground is stated twice, *"you are a holy people to Yahweh your God"* (2, 21).
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 14:1–21.
+
 ### He tests, and he shows mercy — Deuteronomy 12:29–13:18
 
 Yahweh cuts off the nations and hates what they did for their gods, including burning their children (12:29–31). When a prophet's sign comes true but the message is other gods, *"Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul"* (13:3). The death penalties are grounded in his act of redemption from *"the house of bondage"* (13:5, 10), and when nothing devoted is kept he turns from his anger and shows mercy (13:17).
@@ -4300,6 +4306,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; fixes the offerings of every annual feast.
 - [[Vows of Men and Women]] — Numbers 30:1–16; receives vows, and forgives a woman whose vow is voided.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; tests Israel through a fulfilled sign; turns from anger to mercy.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; calls Israel his children and his own possession.
 
 ## Related people
 

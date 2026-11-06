@@ -22983,3 +22983,40 @@ checked against WLC Deuteronomy from morphhb (openscriptures, GitHub), retrieved
 numbering in chapter 13 runs one verse ahead of the WEB, and each Hebrew claim gives its WLC verse.
 The Job page's existing claim that Deuteronomy 13:6 uses *hēsît* (*sût*) is consistent with WLC 13:7.
 Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-06] ingest | Deuteronomy 14.1-21 — A Holy People and Its Food
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and three connections:
+[[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]],
+[[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]], and
+[[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Revised 32 existing pages
+including this log: Deuteronomy, two people (God, Moses), nine themes (Clean and Unclean,
+Holiness, Call and Election, Adoption, Mourning and Lament, Life and Death, Land and Sojourning,
+The Nations, Law and Obedience), three existing connections (A Young Goat in Its Mother's Milk, A
+Holy People for His Own Possession, Torn Flesh and Cleansing), nine earlier passage pages
+(Cross-references), and seven index/dashboard pages. No place is named in the unit, so no place page
+changed. Deuteronomy is now 31 / 69. Counts by frontmatter type are 356 passages, 257 people, 222
+places, 87 themes, and 742 connections.
+
+Judgment calls: the *gēr* and the *nokrî* of 14:21 are legal categories and get no person pages.
+Two tensions with Leviticus are recorded, not resolved: 14:19 forbids all winged swarming things
+with no exception for Leviticus 11:21–22's four hopping kinds (the *ʿôp* of 14:20 is noted as one
+reading's basis, not adopted); and 14:21 gives the *gēr* meat that died of itself, where Leviticus
+17:15 requires the *gēr* who eats it to wash. Whether the plural *their carcasses* in 14:8 covers
+all four forbidden land animals or the pig alone is left open. *Rabbit* (14:7) and *cony*
+(Leviticus 11:5) are shown to be one Hebrew word; bird identifications are not attempted. The
+link between *tôʿēbâ* in 14:3 and in 12:31 / 13:14 is noted without calling unclean food idolatry.
+Mark 7:19's attribution (Jesus or narrator) is left unclaimed; the Greek was not checked. Clean
+and Unclean and Holiness were added to the book page's key themes.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 14:1–21. Comparisons verified in
+stored WEB Deuteronomy 1:31, 7:6, 8:5, 12:15, 12:22, 12:31, 13:14, 34:8; Exodus 4:22, 22:31, 23:19,
+34:26; Leviticus 11:1–47, 17:15–16, 19:28, 21:1–5. Mark 7:15, 19, Acts 10:14, 15, 28, 1 Kings
+18:28, and Jeremiah 16:6 verified from bible-api.com (WEB) without storing those books. Hebrew
+claims (*bānîm*, *gādad* / *titgōdədû*, *qorḥâ*, *ʿam səgullâ*, *tôʿēbâ*, *šāpān*, *rāʾâ / dāʾâ /
+dayyâ*, *šereṣ hāʿôp*, *ṣippôr / ʿôp*, *nəbēlâ*, *gēr / nokrî*, *śereṭ*, *śāraṭ*, *šeqeṣ*) checked
+against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 12:31, 13:15, 14:1–3, 7–8, 11, 13,
+19–21; Leviticus 11:5, 8, 14, 20, 17:15, 19:28, 21:5; 1 Kings 18:28 — retrieved 2026-11-06. The
+Hebrew of Jeremiah 16:6 was not checked and the connection says so. Raw files, canonical workflow
+instructions, and controller files were unchanged.

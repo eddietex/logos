@@ -84,6 +84,9 @@ his bringing Israel out of Egypt to be their God (44–47).
   an offering to its hidden-contact cases, unlike the procedures specified here.
 - [[Thanksgiving, Vows, and the Peace Offering]] — Leviticus 7:19–21 regulates unclean
   flesh and unclean eaters within a sacred meal.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the second form of the food law. See
+  [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]] and
+  [[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]].
 
 ## Notes
 

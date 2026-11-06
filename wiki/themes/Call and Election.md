@@ -98,6 +98,12 @@ nations is an interpretation of this combination, not an explicit missionary com
 
 ## Development across Scripture
 
+### Chosen as his own possession — Deuteronomy 14:2
+
+*"Yahweh has chosen you to be a people for his own possession, above all peoples"* (14:2) repeats 7:6. The election clause becomes the ground of ordinary law: what Israel eats and how it mourns. The phrase is *ʿam səgullâ* (WLC 14:2, morphhb).
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 7:6; 14:2.
+
 ### A chosen place — Deuteronomy 12:1–28
 
 Election extends to a place: *"the place which Yahweh your God shall choose out of all your tribes"* (5), repeated six times in the unit. The choice is set against *"every place that you see"* (13), the worshiper's own selection.
@@ -362,6 +368,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   be *"separated … from all the people who are on the surface of the earth"* (WLC lemma search). Not
   a dog will *"move its tongue"* against Israel
 - [[Israel at Mount Sinai]] — Exodus 19:4–6; rescued Israel called to belong and serve
+- [[A Holy People and Its Food]] — Deuteronomy 14:2; election repeated as the ground of the food law.
 
 ## Related themes
 

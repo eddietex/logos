@@ -27,6 +27,12 @@ parallels inside and outside Scripture, and the wiki says so where it uses them.
 
 ## Development across Scripture
 
+### *You are the children of Yahweh* — Deuteronomy 14:1
+
+Deuteronomy has compared Yahweh to a father carrying (1:31) and disciplining (8:5) his son. At 14:1 it says it directly: *"You are the children of Yahweh your God"* — *bānîm*, sons (WLC, morphhb). This is not adoption in the sense of Genesis 48, where a child not one's own is declared one's own; the text gives no mechanism by which Israel became Yahweh's children. It is recorded here because it is the Torah's plainest statement of Israel's sonship, and the first consequence it draws concerns mourning the dead.
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 1:31; 8:5; 14:1; Exodus 4:22.
+
 ### What Genesis has before chapter 48
 
 **Three near-misses, all of them about getting an heir rather than about taking a child.**
@@ -122,6 +128,7 @@ cross-reference sources and interpretive limits.
   Scripture calls Israel God's son, said to a foreign king as the ground of a claim: *"Let my son go"*.
   The sonship is declared, not derived. See
   [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]]
+- [[A Holy People and Its Food]] — Deuteronomy 14:1; *"You are the children of Yahweh your God"*.
 
 ## Related themes
 

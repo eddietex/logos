@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### The *gēr* may eat what Israel may not — Deuteronomy 14:21
+
+The animal that dies of itself may be given to *"the foreigner living among you who is within your gates"* (*gēr*) or sold to *"a foreigner"* (*nokrî*; WLC 14:21, morphhb). The WEB translates both words alike. Leviticus 17:15 by contrast requires the *gēr* who eats such meat to wash and be unclean until evening; the tension is recorded on the passage page and in [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 14:21; Leviticus 17:15.
+
 ### Rest and inheritance not yet — Deuteronomy 12:1–28
 
 The statutes are for *"the land … all the days that you live on the earth"* (1). The rule of the place waits on arrival: *"you haven't yet come to the rest and to the inheritance"* (9). The enlarged border (20) and the distance from the place (21) are why meat may be eaten at home.
@@ -1030,6 +1036,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Defeat at Hormah]] — Numbers 14:40–45; attempted after refusal
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:2, 18; law for arrival, given to a sentenced people
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; settlement east of the Jordan, outside *the land of Canaan*.
+- [[A Holy People and Its Food]] — Deuteronomy 14:21; the *gēr* and the foreigner may have what Israel may not eat.
 
 ## Related themes
 

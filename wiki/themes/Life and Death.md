@@ -202,6 +202,12 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### The dead and what dies of itself — Deuteronomy 14:1, 21
+
+Death enters the unit twice. Sons of Yahweh are not to mark their bodies *"for the dead"* (14:1), and they are not to eat an animal that *"dies of itself"* (21). Deuteronomy gives one carcass clause (8) where Leviticus 11:24–40 gives many.
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 14:1–21.
+
 ### Days as the days of the heavens — Deuteronomy 11:18–32
 
 Keeping the words is *"that your days may be multiplied, and the days of your children … as the days of the heavens above the earth"* (21). The blessing and curse of 26–28 anticipate the *"life and death"* of 30:19.
@@ -1312,6 +1318,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The Nazirite Vow]] — Numbers 6:6–12; the holy person kept from the corpse.
 - [[The People Refuse the Land]] — Numbers 14:2, 35, 37–38; wished death, sentenced death, and the
   two who lived
+- [[A Holy People and Its Food]] — Deuteronomy 14:1, 21; mourning marks forbidden, and meat that died of itself.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

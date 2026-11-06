@@ -134,6 +134,12 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### A holy people at the table — Deuteronomy 14:1–21
+
+*"You are a holy people to Yahweh your God"* frames the unit at 14:2 and 14:21. Holiness here is a status already given by election (2), from which the bans on mourning cuts and unclean food follow; Leviticus 11:44–45 grounds the same diet in *"be holy; for I am holy"*.
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 14:1–21.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 The opposite of holiness is contagious here. An abomination brought into the house makes its owner
@@ -875,6 +881,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:1, 9; anointing, and the shoulder.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:17, 19; the firstborn sanctified, and the risk of coming near.
 - [[The Seventy Elders and the Quail]] — Numbers 11:18; sanctified for the meat.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; *"you are a holy people"* (2, 21) as the ground of the food law.
 
 ## Related themes
 

@@ -101,6 +101,12 @@ and confession. The text does not explain them by an unstated sanctuary violatio
 
 ## Development across Scripture
 
+### Clean and unclean food restated — Deuteronomy 14:1–21
+
+Deuteronomy repeats Leviticus 11's tests for land and water animals, adds ten permitted animals by name, lists twenty-one forbidden birds (WEB), and forbids all winged swarming things without Leviticus 11:21–22's exception for four hopping kinds. The difference is recorded, not resolved. Unclean food is called *tôʿēbâ* (14:3, WLC, morphhb), Deuteronomy's word for idolatrous practice. The animal that dies of itself is forbidden to Israel but may go to the *gēr* — in tension with Leviticus 17:15, which requires the *gēr* who eats it to wash.
+
+See [[A Holy People and Its Food]], [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]], and [[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Source: stored WEB Deuteronomy 14:1–21; Leviticus 11; 17:15.
+
 ### Clean and unclean alike — Deuteronomy 12:1–28
 
 Meat killed at home may be eaten by *"the unclean and the clean"* alike, *"as of the gazelle, and as of the deer"* (15, 22). Ordinary meat is treated like game, outside the sanctuary's purity rules; holy portions remain at the chosen place (17–18, 26).
@@ -612,6 +618,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Passover in the Second Year]] — Numbers 9:6–13; uncleanness that delays a duty but does not cancel it.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:10–15; Miriam leprous, and out seven days.
 - [[The War Against Midian]] — Numbers 31:1–54; soldiers, captives, and spoil purified.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated for the people, without the edible insects.
 
 ## Related themes
 

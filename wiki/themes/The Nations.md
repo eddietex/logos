@@ -128,6 +128,12 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Above all peoples — Deuteronomy 14:2, 21
+
+Israel is chosen *"above all peoples who are on the face of the earth"* (14:2), and the food law marks the difference: what dies of itself may be sold to a foreigner (21). Acts 10:28 later reads Peter's vision of unclean animals as being about people.
+
+See [[A Holy People and Its Food]] and [[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Source: stored WEB Deuteronomy 14:2, 21; Acts 10:28 verified from bible-api.com (WEB).
+
 ### Do not ask how they served their gods — Deuteronomy 12:29–13:18
 
 After Yahweh cuts off the nations, Israel must not be *"ensnared to follow them"* or ask how they served their gods (12:29–30), because they did every abomination Yahweh hates (12:31). The gods of *"the peoples who are around you, near to you, or far off"* are the enticer's offer (13:7).
@@ -599,6 +605,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:14–16, 26, 29; *as you are, so shall the foreigner be*
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:12–34; seventy bulls, read in Sukkah 55b as offered for the seventy nations
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; their rites not to be imitated; their gods near and far.
+- [[A Holy People and Its Food]] — Deuteronomy 14:2, 21; a people set apart from all peoples by its food.
 
 ## Related themes
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The food law restated — Deuteronomy 14:1–21
+
+Moses repeats for the people the food law that Leviticus 11 gives to Moses and Aaron: hoof and cud, fins and scales, a list of forbidden birds. He adds a list of permitted animals, gives no exception for winged insects, and lets the animal that dies of itself go to the foreigner. He grounds it all in Israel's status as Yahweh's children and holy people (14:1–2, 21).
+
+See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy 14:1–21.
+
 ### Add nothing and follow no other god — Deuteronomy 12:29–13:18
 
 Moses forbids adding to or taking from what he commands (12:32), repeating 4:2, and sets out three cases of enticement to other gods: a prophet with a fulfilled sign, a relative or friend in secret, and a whole town (13:1–18). He frames every case in terms of the exodus and of love for Yahweh.
@@ -1964,6 +1970,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; receives the offerings of the annual feasts and tells them to Israel (29:40).
 - [[Vows of Men and Women]] — Numbers 30:1–16; speaks the vow law to the heads of the tribes.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; add nothing, take nothing away; three cases of enticement to other gods.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; restates the clean and unclean animals for the people.
 
 ## Related people
 

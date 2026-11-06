@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The food law for the people — Deuteronomy 14:1–21
+
+Deuteronomy restates Leviticus 11 for the whole people, shorter in its carcass rules and different on insects and on the animal that dies of itself. Its ground is status, not reward: *"you are a holy people"* (2, 21).
+
+See [[A Holy People and Its Food]] and [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]]. Source: stored WEB Deuteronomy 14:1–21; Leviticus 11.
+
 ### Add nothing, take nothing away — Deuteronomy 12:29–13:18
 
 *"Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it"* (12:32), repeating 4:2. A prophet's sign that urges other gods would add to the command, and Israel must not listen (13:1–3). The unit closes with *"that which is right in Yahweh your God's eyes"* (13:18).
@@ -1492,6 +1498,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:18, 40; offerings *after the ordinance*, and Moses' report
 - [[Vows of Men and Women]] — Numbers 30:1, 16; household statutes for vows
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 12:32; nothing added or taken away.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated, with differences from Leviticus 11.
 
 ## Related themes
 

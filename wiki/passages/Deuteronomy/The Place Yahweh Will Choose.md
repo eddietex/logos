@@ -124,6 +124,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24, *"in every place where I record my name"*.
 - [[Do Not Follow Other Gods]] — 12:29–13:18; the next unit, where *"You shall not do so to Yahweh
   your God"* (31) returns against the nations' rites.
+- [[A Holy People and Its Food]] — Deuteronomy 14:1–21; after 12:15, 22 lets the clean and unclean
+  person eat, the food list turns to which animals are clean.
 
 ## Notes
 
