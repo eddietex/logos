@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Verse 10 recalls that Yahweh listened to Moses again and would not destroy Israel. No prayer text is
+repeated here; the preceding appeal in 9:26–29 supplies the immediate context.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Moses recalls forty days and nights without bread or water in intercession (18), prays
@@ -310,6 +317,8 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

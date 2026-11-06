@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the shining face and recurring unveiling.
 
 - [[The Ten Commandments]] — Exodus 20:1–21, the assembly's address.
@@ -14,9 +16,19 @@ tags: [connection]
 - [[Bezalel, Oholiab, and the Sabbath Sign]] — Exodus 31:18, tablets given.
 - [[The Golden Calf]] — Exodus 32:15–19, divine work broken.
 - [[The Covenant Renewed]] — Exodus 34:1–4, 10–28, replacement and writing.
-- Deuteronomy 10:1–5 — the replacement account retold; verified WEB, not yet ingested.
+- Deuteronomy 10:1–5 — the replacement account retold; now in the passage linked above.
 
 ## Analysis
+
+### Deuteronomy 10 now ingested
+
+Deuteronomy 10:1–5 is now ingested from stored WEB. The ark is made before Moses ascends, and the
+tablets are deposited on his return. Exodus 37:1 credits Bezalel with making the ark, and Exodus
+40:20 places the deposit in the erection account. Agency and narrative placement differ.
+Commissioned work or a temporary ark can be proposed, but neither explanation is stated in this
+unit.
+
+Source: stored WEB Deuteronomy 10:1–11.
 
 Exodus 32:16 attributes both the tablets and their writing to God. In 34:1, 4 the replacement
 stones are cut by Moses, while God promises to write the former words on them. The change in

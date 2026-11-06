@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Yahweh writes the former commandments again, sets Levi apart, hears Moses, and refuses to destroy
+Israel (2–4, 8–11). Restored tablets and the command to depart give concrete expression to continued
+covenant commitment.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Yahweh threatens destruction and a new nation from Moses (13–14), yet listens to his intercession
@@ -3528,6 +3536,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

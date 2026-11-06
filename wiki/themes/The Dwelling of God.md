@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+The wooden ark receives the covenant tablets and is borne by Levi (1–5, 8). No tabernacle
+construction or glory descent is narrated here. Exodus 37:1 and 40:20 give different construction
+detail and a later narrative setting for depositing the testimony.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Yahweh says he is not among the proposed attackers (42). Numbers 14:44 adds the ark and Moses
@@ -525,6 +533,8 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

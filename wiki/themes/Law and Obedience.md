@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Yahweh writes the ten commandments again and Moses deposits them as commanded (4–5). The repeated
+words establish continuity after the breaking of the first tablets; this passage supplies no new
+ten-item law collection.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The written words given at the assembly contrast with Israel’s rapid departure from the commanded
@@ -1168,6 +1176,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

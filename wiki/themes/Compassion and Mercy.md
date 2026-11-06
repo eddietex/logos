@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Yahweh does not destroy Israel, restores the written words, and sends the people onward (1–5,
+10–11). Mercy takes the form of continued covenant life without denying the preceding rebellion.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Yahweh listens to Moses despite the people’s evil (18–19). Preservation rests on the appealed-to
@@ -341,6 +348,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

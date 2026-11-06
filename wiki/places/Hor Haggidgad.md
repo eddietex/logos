@@ -7,11 +7,21 @@ tags: [place]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Compare Gudgodah in Deuteronomy 10:7, likewise immediately before Jotbathah. The similar sequence
+suggests a correspondence but does not prove identity; the names are retained separately without a
+modern-site claim.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 The itinerary places this stage after [[Bene Jaakan]] and before [[Jotbathah]].
 
 Source: stored WEB Numbers 33:1–49. No modern site is assigned.
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 - [[The Stages of the Journey]] — Numbers 33:1–49
 
 ## Related places

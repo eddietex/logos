@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Israel is to possess the sworn land (11), but Levi has no tribal portion: Yahweh is its inheritance
+(9). Numbers 18:21–24 supplies tithes for service, so lack of a territorial share does not mean lack
+of support.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Possession fulfills the ancestral oath and follows judgment on the nations (5). The repeated denial of Israel’s merit prevents reading the land as proof of the recipients’ moral superiority.
@@ -611,6 +619,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

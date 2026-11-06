@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+The mountain of the renewed ascent is Horeb in the continuing context of 9:8, though unnamed in
+10:1–11. Moses brings down replacement tablets and places them in the ark (1–5).
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The calf crisis is explicitly located at Horeb (8); the mountain burns while Moses descends with
@@ -680,6 +687,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

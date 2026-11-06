@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Replacement tablets contain the former words spoken at the assembly (1–5). The covenant ark
+preserves them; continued travel toward the sworn land follows the threat of destruction (10–11).
+Restoration maintains rather than replaces the commandments.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The tablets carry the words of the assembly and are explicitly covenant tablets (9–11, 15). Their
@@ -462,6 +470,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

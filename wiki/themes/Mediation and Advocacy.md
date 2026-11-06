@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Moses’ forty-day stay and Yahweh’s listening answer the threatened destruction (10). The mediator is
+then commissioned to lead the continuing journey (11).
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The proposed greater nation from Moses (14) is followed by his advocacy for the endangered people
@@ -524,6 +531,8 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

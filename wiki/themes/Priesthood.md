@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Aaron’s death is followed by Eleazar’s ministry (6). Levi’s collective appointment includes carrying
+the ark, ministering, and blessing (8–9). Numbers 18 distinguishes Aaron’s altar service from Levite
+assistance; Deuteronomy’s collective wording should not silently erase that distinction.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Aaron himself is threatened with destruction and receives Moses’ intercession (20). His office
@@ -625,6 +633,8 @@ in fifty from the congregation's half (30, 47).
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

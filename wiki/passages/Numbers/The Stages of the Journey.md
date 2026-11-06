@@ -158,3 +158,11 @@ whether the referent is the city or mountain. No Hebrew etymology is asserted.
 **Scope and sources.** The planned 1–49 boundary is unchanged. All quoted verses are from
 stored WEB. Comparisons use stored Exodus and Numbers; no external quotation or source-language
 claim is added. The commands in 33:50–56 belong to the next invocation.
+
+### Comparison with Deuteronomy 10:1–11
+
+Deuteronomy 10:6–7 differs in the first pair’s order if the similar station names correspond, and
+locates Aaron’s death at Moserah rather than Mount Hor. No return journey is asserted.
+
+See [[New Tablets and the Journey Onward]] and
+[[Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33]]. Sources: the stored WEB passages named above.

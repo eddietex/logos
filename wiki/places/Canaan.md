@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+The land sworn to the fathers remains the destination after the covenant breach (11). Canaan is
+contextual, not a place name in these verses; the command to depart is not a report that possession
+has occurred.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The good land is given despite Israel’s stubbornness (4–6). Canaan is the contextual destination, not a place name used in this unit; its fortified cities are left unnamed.
@@ -346,6 +354,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Aaron dies, but Eleazar succeeds him (6). Israel’s threatened destruction is averted (10); the
+continuity of people and office does not mean the absence of individual death.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Commands are given for Israel’s good and preservation alive (24), while rival worship brings a
@@ -833,6 +840,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

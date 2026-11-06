@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Moses cuts the stones and makes an acacia ark; Yahweh supplies the writing (1–5). Exodus 37:1 names
+Bezalel as ark maker. Attributing commissioned work to Moses can reconcile the agency, but
+Deuteronomy does not state that explanation.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The journey to Moab — Numbers 21:10–20
 
 The well song credits princes and nobles with digging, using the scepter and their poles in the WEB
@@ -729,6 +737,8 @@ forms checked for 29:1, 7, 35 in MAM via Sefaria. The text does not define the d
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

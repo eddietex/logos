@@ -174,6 +174,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]] | thread | [[The Seventy Elders and the Quail]] (Numbers 11:29) · Joel 2:28–29 · Acts 2:17–18 |
 | [[Wrestlings of God - Rachel at Naphtali's Birth and Jacob at the Jabbok]] | parallel | Genesis 30:8 · Genesis 32:24–28 · Hosea 12:3–4 · Exodus 4:24–27 |
 | [[Yah Is My Strength and Song - Exodus 15.2 in Psalm 118 and Isaiah 12]] | quotation | Exodus 15:2 · Psalm 118:14, 28 · Isaiah 12:2 · Isaiah 11:16 |
+| [[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]] | Tribal service and divine inheritance compared with Numbers’ differentiated duties and support. | [[New Tablets and the Journey Onward]] |
 | [[Yahweh Turned the Captivity of Job - Restoration and the Double]] | thread | Job 42:10, 12 · Deuteronomy 30:3 · Psalm 14:7 · Psalm 126:1, 4 · Jeremiah 29:14 · Amos 9:14 · Exodus 22:4, 7, 9 · Isaiah 40:1–2 · Isaiah 61:7 · Zechariah 9:12 |
 | [[Yahweh Visited Sarah - Paqad and the Visitations of God]] | thread | Genesis 21:1 · Genesis 50:24–25 · Exodus 3:16 · Exodus 4:31 · Ruth 1:6 · 1 Samuel 2:21 · Job 7:18 · Amos 3:2 · Luke 1:68, 78 · Luke 7:16 |
 | [[Yahweh Will Provide - Moriah and the Temple Mount]] | thread | Genesis 22:2, 8, 14 · 2 Chronicles 3:1 · Exodus 23:17 · Deuteronomy 16:16 · Genesis 14:18 · Psalm 76:2 |

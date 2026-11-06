@@ -237,3 +237,12 @@ on the way. Presence is the book’s achieved ending; possession of the land rem
 stored WEB Exodus 12:1–3; 13:20–22; 14:19–24; 16:9–10; 19:1–2; 24:15–18; 25:8–9,
 15–16; 26:33–35; 28:1; 29:1–46; 30:18–21; 33:3–17; 37:5; 39:32–43; and
 Genesis 2:1–3. No new quotation from an unstored book or exact source-language claim is added.
+
+### Comparison with Deuteronomy 10:1–11
+
+Deuteronomy 10:5 places the deposit of the replacement tablets on Moses’ descent; Exodus 40:20
+narrates depositing the testimony during erection of the tabernacle. The differing narrative
+placement is retained.
+
+See [[New Tablets and the Journey Onward]] and
+[[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. Sources: the stored WEB passages named above.

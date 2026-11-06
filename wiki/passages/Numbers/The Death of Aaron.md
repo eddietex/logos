@@ -100,3 +100,11 @@ relation to Edom, without a modern-site identification.
 
 Sources: stored WEB Numbers 20, Exodus 29:29–30, and Leviticus 21:10–12.
 No unstored-book quotations or source-language claims are introduced. Boundary unchanged.
+
+### Comparison with Deuteronomy 10:1–11
+
+Deuteronomy 10:6 instead locates Aaron’s death and burial at Moserah. The place discrepancy is
+unresolved; succession to Eleazar agrees.
+
+See [[New Tablets and the Journey Onward]] and
+[[Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33]]. Sources: the stored WEB passages named above.

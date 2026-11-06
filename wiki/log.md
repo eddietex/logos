@@ -22798,3 +22798,24 @@ source-language claim was added. Raw files and workflow instructions were unchan
 
 Validation: scripts/link-check.sh exits 0, with 57 expected unstarted-book targets and no
 wrapped or dangling links. No unresolved issue.
+
+## [2026-11-06] ingest | Deuteronomy 10.1-11 — New Tablets and the Journey Onward
+
+Ingested the planned unit without changing its boundary. Restored tablets, heard intercession,
+Aaron’s succession, Levi’s service and inheritance, and the onward command are integrated into
+people, places, themes, connections, the book queue, category indexes, and progress counts.
+Created the passage, three place pages (Beeroth Bene Jaakan, Moserah, Gudgodah), and two
+connections (Aaron’s death locations and Levi’s inheritance). Retained different place names
+separately with possible correspondences rather than assuming identity. Explicitly flagged the
+Moserah/Mount Hor death contradiction and conditional reversed station order. Recorded ark-maker
+and narrative-placement differences and the scope of collective Levitical duties without forcing
+harmonization. Revised replacement-tablets, forty-day, and ark-bearing connections and relevant
+older passage pages. No new person or theme page was needed; Levi denotes the ancestral tribe.
+
+Sources: stored WEB Deuteronomy 9–10, Exodus 34, 37, 40, Numbers 18, 20, 33, 35.
+New quotations copied from the stored Deuteronomy text; no unstored-book quotation or exact
+source-language claim introduced. No raw source or workflow/harness file changed.
+Validation: scripts/link-check.sh exited 0: no wrapped or dangling links; 57 expected
+not-yet-started book targets. Created 6 pages and revised 45 existing pages, including indexes
+and log. Deuteronomy is 25 / 69; totals are 350 passages, 257 people, 219 places,
+87 themes, and 732 connections.

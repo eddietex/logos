@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+He ministers in Aaron’s place after Aaron dies and is buried at Moserah (6). Succession agrees with
+Numbers 20:25–28; the death location differs from Mount Hor there. Deuteronomy does not retell the
+garment transfer or identify who buried Aaron.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The borders of the land — Numbers 34:1–29
 
 Eleazar the priest is named with Joshua to divide the inheritance (17). His responsibility extends to land distribution alongside tribal representatives.
@@ -292,6 +300,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

@@ -127,3 +127,11 @@ is named. See [[The Dwelling of God]]. No new place page is needed.
 > **30** “Therefore you shall tell them, ‘When you heave its best from it, then it shall be credited to the Levites as the increase of the threshing floor, and as the increase of the wine press.
 > **31** You may eat it anywhere, you and your households, for it is your reward in return for your service in the Tent of Meeting.
 > **32** You shall bear no sin by reason of it, when you have heaved from it its best. You shall not profane the holy things of the children of Israel, that you not die.’”
+
+### Comparison with Deuteronomy 10:1–11
+
+Deuteronomy 10:8–9 describes Levi’s service collectively and names Yahweh as its inheritance.
+Numbers 18 retains its explicit distinctions between Aaron’s priesthood and assisting Levites.
+
+See [[New Tablets and the Journey Onward]] and
+[[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]]. Sources: the stored WEB passages named above.

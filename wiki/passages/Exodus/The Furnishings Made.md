@@ -245,3 +245,12 @@ itemize the gold weight of every furnishing.
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Comparison checked in local raw WEB,
 2026-10-25.
+
+### Comparison with Deuteronomy 10:1–11
+
+Deuteronomy 10:3 credits Moses with making an acacia ark before ascending with replacement tablets;
+Exodus 37:1 names Bezalel. Commissioned work is a possible reconciliation, not an explicit
+explanation in Deuteronomy.
+
+See [[New Tablets and the Journey Onward]] and
+[[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]. Sources: the stored WEB passages named above.

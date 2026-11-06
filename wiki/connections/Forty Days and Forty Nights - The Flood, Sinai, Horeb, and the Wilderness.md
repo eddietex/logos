@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - **Genesis 7:4, 12** — *"It rained on the earth forty days and forty nights"* —
@@ -25,6 +27,15 @@ tags: [connection]
 - [[The Twelve Spies]] — Numbers 13:25; *at the end of forty days*, with no nights named
 
 ## Analysis
+
+### Deuteronomy 10 now ingested
+
+Deuteronomy 10:10 explicitly repeats the forty-day and forty-night stay and says Yahweh listened and
+would not destroy Israel. This verse emphasizes heard intercession; unlike 9:9, 18, it does not
+repeat abstention from bread and water. The recurrence does not independently settle a complete
+chronology of Moses’ ascents.
+
+Source: stored WEB Deuteronomy 10:1–11.
 
 **The full phrase *forty days and forty nights* gathers around one mountain.** In the books stored
 in the wiki so far, it occurs twice in the Flood (Genesis 7:4, 12) and twice at Sinai (Exodus 24:18;

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Moses makes the wooden ark, cuts replacement tablets, ascends and descends, and deposits the writing
+(1–5). His forty-day stay and heard intercession lead to a renewed command to lead the people
+(10–11). Exodus 37:1 credits the ark’s making to Bezalel; Deuteronomy credits Moses. Delegated
+workmanship is a possible reading, not an explanation this passage supplies.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Moses recalls receiving and breaking the tablets, destroying the calf, and fasting in intercession
@@ -1588,6 +1597,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

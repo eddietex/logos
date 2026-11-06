@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Deuteronomy 10:6 locates his death and burial at Moserah, followed by Eleazar’s succession. This
+explicitly conflicts in location with Numbers 20:22–29 and 33:38–39, which place his death on Mount
+Hor. Neither text identifies Moserah as Mount Hor or reports a return journey resolving the
+difference.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Yahweh was angry enough to destroy Aaron, and Moses prayed for him (20). This explicit threat and
@@ -741,6 +750,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

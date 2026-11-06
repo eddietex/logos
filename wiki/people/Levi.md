@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+The tribe, not the living patriarch, is set apart to bear the covenant ark, minister before Yahweh,
+and bless in his name (8). Yahweh is its inheritance in place of a portion with its brothers (9).
+This collective description is broader than Numbers 18’s distinctions between Aaron’s priesthood and
+assisting Levites; it does not explicitly give every Levite every priestly duty.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The Levites, descendants of Levi rather than the patriarch himself, receive forty-eight cities and surrounding land from the tribes (2–8). Six are refuges. The no-tribal-inheritance rule of Numbers 18:23–24 does not mean no houses or pastures.
@@ -214,6 +223,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

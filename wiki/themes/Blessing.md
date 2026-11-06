@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Blessing in Yahweh’s name is one of Levi’s appointed functions (8). The verse gives neither a spoken
+formula nor an explicit distribution of duties among the tribe’s members.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 After eating to fullness Israel is to bless Yahweh for the good land (10). Here the people bless the
@@ -406,6 +413,8 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

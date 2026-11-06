@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Aaron is explicitly buried at Moserah (6); no agent or procedure is named. Numbers 20:28 places his
+death on Mount Hor without narrating a burial. The location discrepancy remains unresolved.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The Egyptians are burying the firstborn when Israel departs (4). Aaron’s death is recorded later (38–39), but no burial procedure is described.
@@ -154,6 +161,8 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

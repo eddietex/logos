@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
+
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:15, 19–20; do not touch, do not look, *lest they die*
 - [[The Ark, the Table, and the Lampstand]] — Exodus 25:13–15; poles made to carry the ark
 - [[The Offerings of the Twelve Princes]] — Numbers 7:9; no wagons for Kohath, *they carried it on their shoulders*
-- Deuteronomy 10:8; 31:9 — the tribe of Levi, and the priests, bearing the ark *(not yet ingested; WEB verified)*
+- Deuteronomy 10:8 — now ingested above; 31:9 remains ahead in the stored WEB.
 - Joshua 3:3 — *the priests the Levites bearing it* *(not yet ingested; WEB verified)*
 - 1 Samuel 6:13, 19 — the men of Beth Shemesh *(not yet ingested; WEB verified)*
 - 2 Samuel 6:6–7 — Uzzah *(not yet ingested; WEB verified)*
@@ -18,6 +20,14 @@ tags: [connection]
 - 1 Kings 8:3–4 — the ark brought into the temple *(not yet ingested; WEB verified)*
 
 ## Analysis
+
+### Deuteronomy 10 now ingested
+
+Deuteronomy 10:8 is now ingested: the tribe of Levi is set apart to bear the covenant ark, minister,
+and bless. The collective tribal designation does not specify every internal duty or cancel Numbers
+4’s restrictions. No ark-contact death is narrated in this unit.
+
+Source: stored WEB Deuteronomy 10:1–11.
 
 **Two prohibitions.** Numbers 4 forbids two things to the Kohathites: touching (15) and going in to see
 (20). Each carries the same result, *lest they die*. Later narrative has one story for each.

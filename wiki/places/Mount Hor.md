@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Renewed tablets and onward journey — Deuteronomy 10:1–11
+
+Numbers 20:28 and 33:38 place Aaron’s death here. Deuteronomy 10:6 instead says he died and was
+buried at Moserah. This is an unresolved location tension, not evidence that the two names are
+established synonyms. Mount Hor is a comparison, not a name in Deuteronomy 10:1–11.
+
+See [[New Tablets and the Journey Onward]]. Source: stored WEB Deuteronomy 10:1–11.
+
 **Distinct boundary namesake:** [[Mount Hor (northern border)]] belongs to Numbers 34:7–8,
 not the Edomite setting of Aaron’s death. The two textual locations are kept separate.
 
@@ -27,6 +35,8 @@ The mountain reached after Israel leaves [[Kadesh]], described as by the border 
 The passage gives a narrative location, not coordinates or a secure modern identification.
 
 ## Appears in
+
+- [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 
