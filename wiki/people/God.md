@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Yahweh is confessed as Israel’s God and as one (4), and is to be loved with all heart, soul, and
+might (5). The confession leads to a whole-life response, not simply a statement to recite.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 Yahweh approves the people's request for Moses to relay his words (28), yet wishes for a heart that
@@ -3471,6 +3478,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

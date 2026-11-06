@@ -7,11 +7,13 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
+
 - [[A Good Name]] — Proverbs 22:6, 15.
 - **Genesis 18:19** — [[The Three Visitors and Abraham's Intercession]]: *"For I have known him, to
   the end that he may command his children and his household after him, that they may keep the way
   of Yahweh, to do righteousness and justice."*
-- **Deuteronomy 6:6–7** *(not yet ingested)* — *"These words, which I command you today, shall be
+- **Deuteronomy 6:6–7** *(ingested; stored WEB)* — *"These words, which I command you today, shall be
   on your heart; and you shall teach them diligently to your children, and shall talk of them when
   you sit in your house, and when you walk by the way, and when you lie down, and when you rise
   up."*
@@ -25,6 +27,14 @@ tags: [connection]
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14, Abram's *trained men*.
 
 ## Analysis
+
+### Deuteronomy 6:1–9 now ingested
+
+Deuteronomy 6:1–9 now supplies the full setting for verse 7: children and grandchildren are named
+in the call to lifelong obedience (2), and daily teaching follows the command to love Yahweh
+(5–7). This is a command to teach, not a prediction that every child will comply. Source: stored
+WEB Deuteronomy 6:1–9.
+
 
 Proverbs 22:6 is the Bible's best-known sentence about raising children:
 
@@ -62,7 +72,7 @@ Hebrew edition in this pass.
 
 Sources: Proverbs and Genesis quotations copied from stored WEB Proverbs 13:1; 17:21, 25; 19:26;
 22:6, 15; Genesis 18:19. Deuteronomy 6:6–7 and Ephesians 6:4 verified at bible-api.com with
-`translation=web` on 2026-10-26; neither book is in `raw/`.
+`translation=web` on 2026-10-26; Deuteronomy is now stored and 6:1–9 ingested; Ephesians remains an external comparison.
 
 **Deuteronomy 4:9–10 comes first.** Before the command of 6:7, Moses charges Israel to make what its eyes
 saw at Horeb known *to your children and your children's children*, and recalls that Yahweh assembled the

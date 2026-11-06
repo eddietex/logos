@@ -187,6 +187,13 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Prolonged days are a stated purpose of keeping the commands, across three generations (2). The
+promise concerns lived continuity in the land, not a claim here about life after death.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 The people acknowledge surviving God's speech but fear that further hearing will kill them (24–26).
@@ -818,6 +825,8 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

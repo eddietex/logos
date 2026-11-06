@@ -7,15 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
+
 - [[The Song of the Sea]] — Exodus 15:11; *Who is like you, Yahweh, among the gods?*
 - [[The Ten Commandments]] — Exodus 20:2–3; *You shall have no other gods before me.*
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:35, 39; *There is no one else besides him.*
-- Deuteronomy 6:4 — *Hear, Israel: Yahweh is our God. Yahweh is one.* (stored WEB; not yet ingested)
+- Deuteronomy 6:4 — *Hear, Israel: Yahweh is our God. Yahweh is one.* (stored WEB; ingested)
 - Deuteronomy 32:39 — *There is no god with me.* (stored WEB; not yet ingested)
 - Isaiah 45:5–6, 18, 21–22 — *I am Yahweh, and there is no one else.* (WEB, verified via bible-api.com; not yet ingested)
 - Mark 12:29–33 — the scribe's *he is one, and there is none other but he.* (WEB, verified via bible-api.com; not yet ingested)
 
 ## Analysis
+
+### Deuteronomy 6:1–9 now ingested
+
+Deuteronomy 6:4–5 is now ingested with its immediate demands: the confession of Yahweh as one
+leads to wholehearted love, then to words kept on the heart and taught throughout the day (6–9).
+The present reading follows the stored WEB wording without deciding alternative Hebrew construals.
+
 
 Moses gives the confession twice at the end of Deuteronomy 4:
 

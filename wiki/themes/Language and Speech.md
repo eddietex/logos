@@ -90,6 +90,14 @@ noticing into doctrine.
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+The hearer must speak the commanded words to children throughout ordinary daily activities (7).
+Writing them on door posts and gates (9) accompanies spoken teaching; inscription does not replace
+conversation.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Yahweh speaks to the assembly and writes the words on tablets (22). Human speech is accountable too: misuse of the divine name and false testimony against a neighbor are forbidden (11, 20).
@@ -649,6 +657,8 @@ See [[Vows of Men and Women]] and
 [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

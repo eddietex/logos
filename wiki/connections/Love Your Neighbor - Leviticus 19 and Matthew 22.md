@@ -7,12 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
+
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 
 - [[Be Holy and Love Your Neighbor]] — Leviticus 19:17–18.
 - Matthew 22:34–40 — verified WEB comparison; passage not yet ingested.
 
 ## Analysis
+
+### Deuteronomy 6:1–9 now ingested
+
+The first command named in the Matthew comparison now has its ingested Torah page: Deuteronomy 6:5
+commands love of Yahweh with all heart, soul, and might. Leviticus 19:18 commands love of the
+neighbor as oneself. The two commands have distinct immediate settings, household instruction and
+communal conduct, before Matthew brings them together. Source for the new addition: stored WEB
+Deuteronomy 6:1–9 and Leviticus 19:18; the previously verified Matthew comparison above is
+retained.
+
 
 ### Leviticus 19:19–37 now ingested
 

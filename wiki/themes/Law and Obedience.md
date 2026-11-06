@@ -247,6 +247,14 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Hearing must become doing in the land (1–3). The words belong on the heart, in conversation with
+children, on the body as signs, and on the household’s door posts and gates (6–9). Public
+instruction becomes daily practice.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 The promise to hear and do (27) receives approval, but God's wish concerns a heart that obeys always
@@ -1121,6 +1129,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

@@ -24,6 +24,14 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Love of Yahweh is commanded with all heart, soul, and might (5). The following commands put the
+words on the heart and into daily household speech (6–9). Love is therefore expressed through
+sustained attention and teaching as well as obedience.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Loving Yahweh is paired with keeping his commandments, and divine loving kindness is promised to thousands (10). This stands beside the judgment warning in verse 9, not in place of it.
@@ -493,6 +501,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+The land to be possessed is described as flowing with milk and honey (1–3). Obedience and
+instruction are ordered toward life there. Canaan is the wider narrative identification; the name
+does not occur in these nine verses.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 The good land beyond the Jordan is what Moses longs to enter (25). It will be inherited under
@@ -298,6 +306,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

@@ -169,6 +169,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Words are carried through the daily round of sitting, walking, lying down, and rising (6–9).
+Teaching, bodily signs, and writing at household entrances sustain remembrance; the command does
+not wait for a child to ask a question.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Remembering bondage and deliverance produces a concrete duty to give others rest (15). This differs from Exodus 20:8–11, where remembering the day is connected with creation.
@@ -530,6 +538,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

@@ -7,7 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
-- **Deuteronomy 6:6–9** *(not yet ingested; WEB verified)* — *"These words, which I command you
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
+
+- **Deuteronomy 6:6–9** *(ingested; stored WEB)* — *"These words, which I command you
   today, shall be on your heart; and you shall teach them diligently to your children, and shall
   talk of them when you sit in your house, and when you walk by the way, and when you lie down, and
   when you rise up. You shall bind them for a sign on your hand, and they shall be for frontlets
@@ -27,6 +29,14 @@ tags: [connection]
   your head, and chains around your neck."* — [[Do Not Consent to Sinners]]
 
 ## Analysis
+
+### Deuteronomy 6:1–9 now ingested
+
+Deuteronomy 6:1–9 is now ingested in its setting: the daily teaching of verses 6–9 follows the
+command to love Yahweh with the whole person (5). Proverbs 6:20–23 presents the corresponding
+daily companionship of parental instruction. This comparison uses the stored WEB of both passages;
+it adds no source-language claim.
+
 
 **Three shared elements, in one place.** Proverbs 6:20–22 shares with Deuteronomy 6:6–8 the
 heart as the place of the words (*ʿal-lᵊḇāḇeḵā*, Deuteronomy 6:6; *ʿal-libbəḵā*, Proverbs 6:21), the
@@ -74,7 +84,7 @@ teaching the Sinai law, but it makes the household the place where that law is c
 instruction is handed on, see also [[Wisdom Handed On - Proverbs 4 and Exodus 13]].
 
 **Sources:** Proverbs 1:8–9; 3:3; 6:20–23; 7:3 and Exodus 13:9 copied from the stored WEB;
-Deuteronomy 6:6–9 verified WEB from bible-api.com, 2026-10-25, not stored. Hebrew of Proverbs 6:20–23,
+Deuteronomy 6:6–9 verified WEB from bible-api.com, 2026-10-25; now also checked in stored WEB on 2026-11-05. Hebrew of Proverbs 6:20–23,
 1:8, 3:3 and Deuteronomy 6:6–8 read from Sefaria's *Miqra according to the Masorah*, 2026-10-25;
 Exodus 24:12's *wəhattôrâ wəhammiṣwâ* as read on
 [[The Tablet of the Heart - Proverbs 3.3, Jeremiah 31.33, and 2 Corinthians 3.3]]. The *šāmar*

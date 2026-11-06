@@ -55,6 +55,14 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Fear is explicitly joined to keeping the commandments throughout the lives of hearers, children,
+and grandchildren (2). The command to love God (5) belongs to the same address; fear and love are
+complementary obligations here.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 Fear of dying under further divine speech motivates the request (25–27), which God approves (28).
@@ -425,6 +433,8 @@ See [[The Twelve Spies]].
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

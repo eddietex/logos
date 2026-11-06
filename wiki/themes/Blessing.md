@@ -29,6 +29,14 @@ costly.
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Well-being, length of days, and increase in the promised fertile land are attached to hearing and
+doing (2–3). These are covenant exhortations to Israel; they should not be converted into a
+diagnosis of every individual sufferer.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 In the middle of saying Israel is too many to carry, Moses prays that Yahweh make them *a thousand times as many as you are, and bless you, as he has promised you* (11). The burden is not set against the promise.
@@ -382,6 +390,8 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; Moses' prayer for a thousandfold increase (11).
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

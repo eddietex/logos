@@ -224,6 +224,14 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+The instruction is for doing in the land Israel is going over to possess (1–3). The promise to the
+fathers and the prospect of increase accompany the call to obedience; the address anticipates
+settlement rather than narrating it.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 The land is God's gift to be possessed (31), and the instruction Moses receives is for practice
@@ -566,6 +574,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

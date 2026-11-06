@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Wholehearted love and daily instruction — Deuteronomy 6:1–9
+
+Moses continues the teaching commissioned in 5:31: commands are given for practice in the land
+(1–3). He charges the hearers themselves to become teachers of their children (7), extending
+instruction beyond his own voice.
+
+See [[Hear Israel and Love Yahweh]]. Source: stored WEB Deuteronomy 6:1–9.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 The tribal heads and elders ask Moses to hear God and transmit all his words (23–27). Yahweh
@@ -1532,6 +1540,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 

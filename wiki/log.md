@@ -22600,3 +22600,33 @@ raw-text changes, or harness changes. Deuteronomy is now 17 / 69; totals by fron
 
 Validation: scripts/link-check.sh passed, with 57 expected not-yet-started book targets and no
 wrapped or unexpected dangling links. No unresolved issue.
+
+## [2026-11-05] ingest | Deuteronomy 6.1-9 — Hear Israel and Love Yahweh
+
+Ingested [[Hear Israel and Love Yahweh]] in unattended mode with Codex. Kept the planned
+6:1–9 boundary: purpose of instruction, confession and wholehearted love, then words carried
+through daily household life. Deuteronomy is now 18 / 69 pericopes; the next unit is unchanged.
+
+Created one passage page. Revised eighteen existing content pages: Deuteronomy; God and Moses;
+Canaan; nine themes (Blessing, Covenant, Land and Sojourning, Language and Speech, Law and
+Obedience, Life and Death, Love, Remembrance, and The Fear of God); and five existing connections
+covering daily teaching, training children, telling the exodus, the confession of one God, and
+the paired love commands in Matthew. Updated seven index/dashboard pages and this log.
+Counts by frontmatter: 343 passages, 257 people, 216 places, 87 themes, 727 connections.
+
+Judgments: Israel and its successive generations are collective addressees, not new named people.
+Canaan is identified from the wider narrative and explicitly marked as unnamed in this unit;
+generic houses, roads, and gates receive no separate place pages. Existing connections carry
+the parallels rather than duplicating them. The teaching thread now explicitly qualifies any
+suggestion that instruction always waits for a child's question: Deuteronomy 6:7 and Exodus 13:8
+command telling without one. No new contradiction requiring harmonization was found.
+
+All nine verses were copied directly from stored WEB Deuteronomy 6. Exodus 13:8–16 and
+Proverbs 6:20–23 were checked in stored WEB. Gospel comparisons remain paraphrases supported
+by the existing connections' recorded WEB checks; no recalled verse quotation or new claim
+about exact Hebrew or Greek was introduced. Existing raw texts and workflow files were unchanged.
+The literal/figurative interpretation of signs and alternative syntax of 6:4 remain outside
+this pass's claims, explicitly noted on the passage page.
+
+Validation: scripts/link-check.sh clean (57 expected not-yet-started book targets);
+frontmatter counts refreshed and git diff --check clean. No unresolved ingest blocker.

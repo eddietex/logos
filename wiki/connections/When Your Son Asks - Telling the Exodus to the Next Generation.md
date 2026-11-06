@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
+
 - **Exodus 10:2** — *"that you may tell in the hearing of your son, and of your son's son, what things I
   have done to Egypt, and my signs which I have done among them"* — [[Locusts and Darkness]]
 - **Exodus 12:26–27** — *"It will happen, when your children ask you, 'What do you mean by this service?'
@@ -24,11 +26,20 @@ tags: [connection]
   stones?' then you shall tell them, 'Because the waters of the Jordan were cut off …'"*; *"Israel came
   over this Jordan on dry land"* *(not yet ingested)*
 - **Exodus 13:9, 16; Deuteronomy 6:8; 11:18** — the companion formula: *"a sign on your hand"* and
-  *ṭôṭāpōt*, *"symbols"* or *"frontlets"*, *"between your eyes"* *(Deuteronomy not yet ingested)*
+  *ṭôṭāpōt*, *"symbols"* or *"frontlets"*, *"between your eyes"* *(6:8 ingested; 11:18 not yet ingested)*
 
 (WEB throughout; verses outside `raw/` fetched from bible-api.com, `translation=web`.)
 
 ## Analysis
+
+### Deuteronomy 6:1–9 now ingested
+
+Deuteronomy 6:1–9 commands continuous teaching before the question-and-answer scene of 6:20–25.
+Verse 7 does not depend on a child first asking; the signs and inscriptions of verses 8–9
+accompany daily speech. Exodus 13:8 likewise commands telling without first reporting a question.
+This qualifies any suggestion that all teaching in this thread begins with a question. Sources:
+stored WEB Deuteronomy 6 and Exodus 13.
+
 
 **Five times the Torah and Joshua build a child's question into a rite, and four of them use one Hebrew
 clause.** *"When your son asks you in time to come, saying"* — ***kî-yišʾālkā binkā māḥār lēʾmōr*** — is
@@ -58,7 +69,7 @@ it is written for a generation that was not there.**
 
 **The companion formula — the sign on the hand and between the eyes — goes with the telling.** At Exodus
 13:9 the sign is set *"that Yahweh's law may be in your mouth"*; at Deuteronomy 6:7–8 it follows *"you
-shall teach them diligently to your children"* (WEB, 6:7; *not yet ingested*). Whether the sign is an object
+shall teach them diligently to your children"* (stored WEB, 6:7; ingested). Whether the sign is an object
 or a figure, its stated purpose both times is speech. The literal reading became the later practice of
 *tefillin* (reported, not checked in this pass); the passage page on
 [[The Consecration of the Firstborn]] records both readings and adopts neither.
