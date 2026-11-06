@@ -78,6 +78,9 @@ is named. See [[The Dwelling of God]]. No new place page is needed.
 - [[Who May Eat the Holy Portions - Leviticus 6 and 7]]
 - [[A Covenant of Salt - Leviticus 2 and Numbers 18]]
 - [[Will We All Perish - Numbers 17 and 18]]
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten by the household and, every third
+  year, stored for the Levite and the poor; 14:23 also gives the household the firstborn. See
+  [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
 
 ## Notes
 

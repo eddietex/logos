@@ -41,6 +41,12 @@ See, now he has taken away my blessing."* The wiki follows Genesis and keeps the
 
 ## Development across Scripture
 
+### The firstborn on the household's table — Deuteronomy 14:22–29
+
+The firstborn of herd and flock is eaten by the household with the tithe at the chosen place (23), as at 12:6, 17–18. **This differs from Numbers 18:17–18**, where the meat of the firstborn of cattle, sheep, and goats belongs to Aaron. Both are recorded as they stand; see [[Tithes for Feasting and Provision]] Notes.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### Firstborn animals at the place — Deuteronomy 12:1–28
 
 The firstborn of herd and flock are brought to the chosen place and eaten there, not at home (6, 17–18).
@@ -306,6 +312,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; Nadab, and the Levites taken instead.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted and exchanged.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:16–18; the claim repeated as the ground of the cleansing.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the firstborn eaten by the household, against Numbers 18:18's assignment to Aaron.
 
 ## Related themes
 

@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### The landless within the gates — Deuteronomy 14:22–29
+
+The Levite has *"no portion nor inheritance"* (27, 29), and the *gēr*, the fatherless, and the widow share the third-year tithe with him (29). The produce of the land is shared with those who hold none of it. See [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The *gēr* may eat what Israel may not — Deuteronomy 14:21
 
 The animal that dies of itself may be given to *"the foreigner living among you who is within your gates"* (*gēr*) or sold to *"a foreigner"* (*nokrî*; WLC 14:21, morphhb). The WEB translates both words alike. Leviticus 17:15 by contrast requires the *gēr* who eats such meat to wash and be unclean until evening; the tension is recorded on the passage page and in [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
@@ -1037,6 +1043,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:2, 18; law for arrival, given to a sentenced people
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; settlement east of the Jordan, outside *the land of Canaan*.
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the *gēr* and the foreigner may have what Israel may not eat.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the land's produce shared with the landless.
 
 ## Related themes
 

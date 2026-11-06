@@ -84,6 +84,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Dust, Stars, and Sand - The Offspring Promises]]
 - [[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]]
 - [[Uncircumcised Lips, Ears, and Heart]]
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:29; the fatherless, widow, and foreigner of 10:18 fed by the
+  third-year tithe. See
+  [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
 
 
 ## Notes

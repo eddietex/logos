@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The Levite at the tithe meal — Deuteronomy 14:22–29
+
+*"You shall not forsake the Levite who is within your gates, for he has no portion nor inheritance with you"* (14:27) repeats 12:19. The Levite shares the household's tithe meal, and every third year he is first among those for whom the tithe is stored in the towns (28–29). Numbers 18:21–24 gives the Levites the whole tithe; Deuteronomy does not say whether that still applies. See [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The Levite within your gates — Deuteronomy 12:1–28
 
 The Levite *"within your gates"* has *"no portion nor inheritance with you"* (12) and joins the household when it eats tithes and offerings before Yahweh (12, 18). *"Be careful that you don't forsake the Levite as long as you live in your land"* (19) is the first of Deuteronomy's repeated care clauses for him. The Levite here lives in the towns and depends on the households that bring him to the feast.
@@ -310,6 +316,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Service of Kohath, Gershon, and Merari]] — Numbers 4:46–49; 8,580 working men.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:5–9; the tribe receives the wagons.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the tribe cleansed and offered.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; not to be forsaken; first among the third-year tithe's recipients.
 
 ## Related people
 

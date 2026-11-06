@@ -89,6 +89,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Remember the Calf and Moses' Intercession]] — preceding appeal and threat.
 - [[The Furnishings Made]] — Exodus 37:1 names Bezalel as ark maker.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:20 deposits the testimony.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:27, 29; the Levite's lack of *"portion nor inheritance"* (10:9)
+  as the reason he shares the tithe.
 
 ## Notes
 

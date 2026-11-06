@@ -142,6 +142,12 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### The Levite's share in the tithe — Deuteronomy 14:22–29
+
+The Levite *"has no portion nor inheritance"* and must not be forsaken (27); he joins the tithe meal and is first among the third-year recipients (29). Numbers 18:21–24 gives the Levites the whole tithe as their inheritance. Deuteronomy's arrangement is different and does not mention Numbers'. See [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The Levite not forsaken — Deuteronomy 12:1–28
 
 The Levite *"within your gates"*, who *"has no portion nor inheritance with you"*, eats at the household feast (12, 18), and Israel is warned, *"Be careful that you don't forsake the Levite"* (19). The passage says nothing about the Levite's duties at the place itself.
@@ -828,6 +834,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Two Silver Trumpets]] — Numbers 10:8; the trumpets given to the priests by statute.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; the priest makes atonement
 - [[The War Against Midian]] — Numbers 31:1–54; Phinehas with the army; Eleazar's statute and portion.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the landless Levite at the tithe meal and in the third-year tithe.
 
 ## Related themes
 

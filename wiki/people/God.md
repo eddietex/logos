@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He gives the harvest and is feared at the meal — Deuteronomy 14:22–29
+
+Yahweh chooses the place *"to cause his name to dwell there"* (14:23), and the tithe eaten there is *"that you may learn to fear Yahweh your God always"*. His blessing makes the harvest too large to carry (24), and he promises to bless *"all the work of your hand"* when the Levite, foreigner, fatherless, and widow are fed (29).
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The Father of a holy people — Deuteronomy 14:1–21
 
 *"You are the children of Yahweh your God"* (14:1). Yahweh has chosen Israel *"to be a people for his own possession, above all peoples who are on the face of the earth"* (2). From that status follow the bans on cutting for the dead and on unclean food; the ground is stated twice, *"you are a holy people to Yahweh your God"* (2, 21).
@@ -4307,6 +4313,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Vows of Men and Women]] — Numbers 30:1–16; receives vows, and forgives a woman whose vow is voided.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; tests Israel through a fulfilled sign; turns from anger to mercy.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; calls Israel his children and his own possession.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten before him, that Israel may learn to fear him.
 
 ## Related people
 

@@ -14,6 +14,12 @@ or as the theme recurs.
 
 ## Development across Scripture
 
+### Feasting on the tithe — Deuteronomy 14:22–29
+
+The tithe is spent on *"whatever your soul desires, for cattle, or for sheep, or for wine, or for strong drink"*, and eaten before Yahweh: *"you shall rejoice, you and your household"* (26). Rejoicing is commanded as part of the giving, as at 12:7, 12, 18.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### Rejoicing before Yahweh — Deuteronomy 12:1–28
 
 Each list of offerings ends in eating and rejoicing: *"There you shall eat before Yahweh your God, and you shall rejoice in all that you put your hand to"* (7; also 12, 18). The joy is shared by sons, daughters, servants, and the Levite. Meat is also eaten at home *"after all the desire of your soul"* (15, 20–21).
@@ -318,6 +324,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 - [[The Two Silver Trumpets]] — Numbers 10:10; gladness named first among the occasions for the trumpets.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe spent on what the soul desires, and eaten with rejoicing.
 
 ## Related themes
 

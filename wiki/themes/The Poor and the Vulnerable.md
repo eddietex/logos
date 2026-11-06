@@ -53,6 +53,12 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### The third-year tithe — Deuteronomy 14:22–29
+
+Every third year the tithe is stored *"within your gates"*, and the Levite, the foreigner, the fatherless, and the widow *"shall come, and shall eat and be satisfied"* (29). This is the first time Deuteronomy joins all four in one list. See [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 Yahweh executes justice for the fatherless and widow and gives the foreigner food and clothing (18). Israel must love the foreigner because it knows that condition from Egypt (19). Divine greatness is expressed in practical provision.
@@ -540,6 +546,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[A Good Name]] — Proverbs 22:2, 7, 9, 16; One Maker of rich and poor; the poor fed, not oppressed.
 - [[Thirty Excellent Things]] — Proverbs 22:22–23; 23:10–11; The poor in court and the fatherless's field, both defended by Yahweh.
 - [[Vows of Men and Women]] — Numbers 30:9; the widow's and divorced woman's vows stand
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the Levite, foreigner, fatherless, and widow eat the third-year tithe.
 
 ## Related themes
 

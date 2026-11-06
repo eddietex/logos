@@ -79,6 +79,12 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Produce turned to money and back — Deuteronomy 14:22–29
+
+If the place is far, the household is to *"turn it into money"*, bind it in the hand, and spend it at the place on *"whatever your soul desires"* (25–26). Money here is a means of carrying value to worship, not a substitute for the meal. Leviticus 27:31 adds a fifth when a tithe is redeemed; Deuteronomy does not.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### Blessing and removal — Deuteronomy 7:12–26
 
 Precious metal can be forbidden wealth. Israel must not covet or take *the silver or the gold* on
@@ -1112,6 +1118,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Offerings of the Twelve Princes]] — Numbers 7:84–86; equal gifts of silver and gold.
 - [[The War Against Midian]] — Numbers 31:1–54; the plunder halved and levied.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; livestock as the reason for the request, and Moses' reversed order (1, 16, 24).
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe turned into money for the journey, then into a feast.
 
 ## Related themes
 

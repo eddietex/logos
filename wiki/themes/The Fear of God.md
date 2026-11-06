@@ -70,6 +70,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Learned at the table — Deuteronomy 14:22–29
+
+The tithe meal is *"that you may learn to fear Yahweh your God always"* (23). Deuteronomy pairs learning with fear elsewhere for hearing and reading (4:10; 17:19; 31:12–13, WLC *lāmad* with the verb *yārēʾ*, morphhb); here the setting is a meal at the place Yahweh chose. The text does not say how the meal teaches.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### Fear him, and all Israel shall hear and fear — Deuteronomy 12:29–13:18
 
 Fearing Yahweh stands among the six loyalties of 13:4. The stoning of the relative who enticed is meant to make *"all Israel … hear, and fear, and … not do any more wickedness like this"* (13:11): fear here is also deterrence.
@@ -728,6 +734,7 @@ and forbidden, and it is set against rebelling against Yahweh. See [[The People 
 - [[The Twelve Spies]] — Numbers 13:31–33; fear of the people, unnamed until 14:9
 - [[The People Refuse the Land]] — Numbers 14:9; *don't fear them*
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:4, 11; fear Yahweh, and all Israel hears and fears.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten *"that you may learn to fear Yahweh"* (23).
 
 ## Related themes
 

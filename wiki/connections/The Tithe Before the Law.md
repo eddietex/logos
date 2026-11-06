@@ -15,7 +15,8 @@ tags: [connection]
   holy to Yahweh
 - Numbers 18:21–32 — the tithe as Levi's inheritance, and Levi's tithe of the tithe
 - Deuteronomy 12:5–19; 14:22–29; 26:12–15 — the tithe eaten at the sanctuary, and the third-year tithe;
-  12:6, 11, 17–18 now ingested as [[The Place Yahweh Will Choose]]
+  12:6, 11, 17–18 now ingested as [[The Place Yahweh Will Choose]]; 14:22–29 as
+  [[Tithes for Feasting and Provision]]
 - 2 Chronicles 31:4–12; Nehemiah 10:37–39; 13:10–12 — the reform tithes
 - Amos 4:4; Malachi 3:8–10 — the prophets on both ends of it
 - Matthew 23:23; Luke 11:42; 18:12 — mint, dill, and cumin
@@ -26,6 +27,15 @@ tags: [connection]
   twice the rate 1 Samuel 8:15 warns a king will take
 
 ## Analysis
+
+### The eaten tithe — Deuteronomy 14:22–29
+
+Deuteronomy's tithe is eaten by the household at the chosen place, may travel as money, and every
+third year is stored in the towns for the Levite, foreigner, fatherless, and widow. Its relation to
+Leviticus 27 and Numbers 18 is set out in
+[[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
 
 ### Duties and portions — Numbers 18:1–32
 

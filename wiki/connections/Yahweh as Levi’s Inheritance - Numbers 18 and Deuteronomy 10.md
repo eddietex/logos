@@ -9,6 +9,7 @@ tags: [connection]
 - [[New Tablets and the Journey Onward]]
 - [[The Duties and Portions of Priests and Levites]]
 - [[The Levitical Cities and the Cities of Refuge]]
+- [[Tithes for Feasting and Provision]]
 
 ## Analysis
 
@@ -27,7 +28,12 @@ Numbers 35:1–8 assigns Levitical cities and pasturelands. The lack of a tribal
 share therefore does not mean that Levites have no housing, land use, or material provision.
 The contrast is between the other tribes’ inheritance and Levi’s particular service and support.
 
-Sources: stored WEB Deuteronomy 10:8–9; Numbers 18:1–24; 35:1–8.
+Deuteronomy 14:27–29 gives the same reason — *"he has no portion nor inheritance with you"* — for
+not forsaking the Levite at the tithe meal and for storing every third year's tithe for him in the
+towns. Numbers 18:21–24 answers the same lack by giving the Levites the whole tithe. The two
+provisions differ; see [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+
+Sources: stored WEB Deuteronomy 10:8–9; 14:27–29; Numbers 18:1–24; 35:1–8.
 
 ## Significance
 

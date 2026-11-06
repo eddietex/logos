@@ -109,6 +109,12 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### His name dwells at the place — Deuteronomy 14:22–29
+
+The tithe is eaten *"in the place which he chooses, to cause his name to dwell there"* (23), and the place is *"which Yahweh your God shall choose, to set his name there"* (24) — both formulas of Deuteronomy 12 (*ləšakkēn šəmô šām*, *lāśûm šəmô šām*, WLC 12:5, 11; 14:23–24, morphhb). The place remains unnamed.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The place to put his name — Deuteronomy 12:1–28
 
 Israel is to *"seek his habitation"* at *"the place which Yahweh your God shall choose … to put his name there"* (5), *"to cause his name to dwell there"* (11). Deuteronomy never names the place. Later books identify Shiloh and then the Jerusalem temple (Joshua 18:1; Jeremiah 7:12; 1 Kings 8:29, WEB, verified from bible-api.com). See [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
@@ -663,6 +669,7 @@ The Dweller stays in the camp with the ark. The people who leave are the ones to
 - [[The March from Sinai]] — Numbers 10:17, 21, 33–36; the tabernacle carried, and the ark before the people.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:5, 9–10; the pillar at the door, and the cloud gone.
 - [[The Defeat at Hormah]] — Numbers 14:42–44; *Yahweh isn't among you*, and the ark stays in the camp
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten where Yahweh causes his name to dwell.
 
 ## Related themes
 

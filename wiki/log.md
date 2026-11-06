@@ -23020,3 +23020,34 @@ against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 12:31, 13:15, 
 19–21; Leviticus 11:5, 8, 14, 20, 17:15, 19:28, 21:5; 1 Kings 18:28 — retrieved 2026-11-06. The
 Hebrew of Jeremiah 16:6 was not checked and the connection says so. Raw files, canonical workflow
 instructions, and controller files were unchanged.
+
+## [2026-11-06] ingest | Deuteronomy 14.22-29 — Tithes for Feasting and Provision
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and two connections:
+[[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]] and
+[[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Revised 27 existing
+pages including this log: Deuteronomy, three people (God, Moses, Levi), ten themes (Tithing, The
+Poor and the Vulnerable, Joy and Enjoyment, The Fear of God, Priesthood, Blessing, The Dwelling of
+God, Land and Sojourning, Wealth and Possessions, Birthright and the Firstborn), two existing
+connections (The Tithe Before the Law; Yahweh as Levi’s Inheritance), five earlier passage pages
+(Cross-references), and five index/dashboard pages. No place is named; the chosen place stays
+without a page, as at 12:1–28. Deuteronomy is now 32 / 69. Counts by frontmatter type are 357
+passages, 257 people, 222 places, 87 themes, and 744 connections.
+
+Judgment calls: the household, *gēr*, fatherless, and widow get no person pages. Two tensions are
+recorded, not resolved: Deuteronomy's eaten tithe against Leviticus 27:30 (*Yahweh's*) and Numbers
+18:21 (the Levites' inheritance); and 14:23's firstborn eaten by the household against Numbers
+18:17–18, which gives its meat to Aaron. The multiple-tithe tradition is mentioned as a widely
+reported later Jewish practice; its rabbinic and other ancient sources were not checked. The
+three-year cycle is not fitted to the seven-year release. The inference that the foreigner,
+fatherless, and widow are grouped with the Levite for lack of land is labelled an inference.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 10:9, 18; 12:6–7, 12, 15, 17–21;
+14:22–29; 15:1, 19–20; 16:11, 14; 17:19; 24:19; 26:12–14; 31:10–13; Leviticus 27:30–33; Numbers
+18:15–18, 21–32. No book outside raw/ was quoted. Hebrew claims (*ʿaśśēr təʿaśśēr*, *maʿăśēr*,
+*ləšakkēn / lāśûm šəmô šām*, *lāmad* with *yārēʾ*, *kî-yirḥaq mimməkā hammāqôm*, *ʾāwâ / ʾawwâ*,
+*šēkār*, *ḥēleq wənaḥălâ*, *miqṣēh* / *miqqēṣ*, the four recipients) checked against WLC from
+morphhb (openscriptures, GitHub) — Genesis 28:22; Deuteronomy 4:10; 12:5, 11, 21; 14:22–29; 15:1;
+17:19; 26:12; 31:10, 12–13; Numbers 18:21 — retrieved 2026-11-06. Raw files, canonical workflow
+instructions, and controller files were unchanged.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The tithe eaten and shared — Deuteronomy 14:22–29
+
+Moses commands the yearly tithe to be eaten by the household at the chosen place, allows it to be turned into money for a long journey, and stores every third year's tithe in the towns for the Levite and the poor (14:22–29). His rules differ from the tithe laws of Leviticus 27:30–33 and Numbers 18:21–32, which he does not mention.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The food law restated — Deuteronomy 14:1–21
 
 Moses repeats for the people the food law that Leviticus 11 gives to Moses and Aaron: hoof and cud, fins and scales, a list of forbidden birds. He adds a list of permitted animals, gives no exception for winged insects, and lets the animal that dies of itself go to the foreigner. He grounds it all in Israel's status as Yahweh's children and holy people (14:1–2, 21).
@@ -1971,6 +1977,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Vows of Men and Women]] — Numbers 30:1–16; speaks the vow law to the heads of the tribes.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; add nothing, take nothing away; three cases of enticement to other gods.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; restates the clean and unclean animals for the people.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; commands the eaten tithe and the third-year tithe.
 
 ## Related people
 

@@ -1,0 +1,52 @@
+---
+type: connection
+subtype: thread
+tags: [connection]
+---
+# Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow
+
+## Passages involved
+- [[What Yahweh Requires of Israel]] — Deuteronomy 10:18
+- [[The Place Yahweh Will Choose]] — Deuteronomy 12:12, 18–19
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:27–29
+- Deuteronomy 16:11, 14 — the feasts of Weeks and Booths; not yet ingested
+- Deuteronomy 24:19 — the forgotten sheaf; not yet ingested
+- Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
+
+## Analysis
+
+Deuteronomy builds a list of people who live *"within your gates"* but hold no land of their own,
+and returns to it each time food is shared.
+
+- **10:18** names three of them as the objects of Yahweh's own care: *"He does execute justice for
+  the fatherless and widow, and loves the foreigner, in giving him food and clothing."*
+- **12:12, 18–19** brings in the fourth. The Levite eats at the place with the household, *"because
+  he has no portion nor inheritance with you"*, and *"Be careful that you don't forsake the Levite"*.
+- **14:29** joins all four for the first time: *"The Levite, … and the foreigner living among you,
+  and the fatherless, and the widow, who are within your gates, shall come, and shall eat and be
+  satisfied"*.
+- **16:11, 14** puts the same four at the feasts, after son, daughter, and servants: *"You shall
+  rejoice before Yahweh your God"*.
+- **24:19** leaves the forgotten sheaf *"for the foreigner, for the fatherless, and for the widow"*
+  — the three without the Levite.
+- **26:12–13** makes the householder declare before Yahweh that the third-year tithe has been given
+  *"to the Levite, to the foreigner, to the fatherless, and to the widow"*.
+
+The Hebrew terms are constant: *hallēwî*, *haggēr*, *hayyātôm*, *hāʾalmānâ* (WLC Deuteronomy
+14:29; 26:12, morphhb).
+
+What they share, on the text's own terms, is the Levite's stated reason: *"no portion nor
+inheritance"*. Deuteronomy does not give the same reason for the other three. A common reading is
+that the *gēr*, the fatherless, and the widow also lacked secure access to family land; that is an
+inference the wiki notes but does not attribute to the text.
+
+Two motives are attached: Yahweh's character (10:18), and blessing on the giver's work (14:29; 24:19). The text puts both side by side and does not rank them.
+
+Sources: stored WEB Deuteronomy 10:9, 18; 12:12, 18–19; 14:27–29; 16:11, 14; 24:19; 26:12–13.
+
+## Significance
+
+[[The Poor and the Vulnerable]] in Deuteronomy are not left to occasional charity. They are written
+into the calendar — the yearly feasts, the harvest, and the third-year tithe — and into the
+household's own worship. The landless Levite stands among them, which ties [[Priesthood]] to the
+same provision. See also [[Land and Sojourning]].

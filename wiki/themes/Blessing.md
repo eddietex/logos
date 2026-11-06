@@ -44,6 +44,12 @@ costly.
 
 ## Development across Scripture
 
+### Blessing that makes the tithe heavy, and blessing for giving it — Deuteronomy 14:22–29
+
+Yahweh's blessing is what makes the produce too much to carry far (24), and the third-year tithe is given *"that Yahweh your God may bless you in all the work of your hand which you do"* (29). Blessing stands at both ends: the harvest received and the harvest shared.
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### Eating by Yahweh's blessing — Deuteronomy 12:1–28
 
 The households rejoice in all *"in which Yahweh your God has blessed you"* (7), and meat at home is eaten *"according to Yahweh your God's blessing which he has given you"* (15). Obedience is *"that it may go well with you, and with your children after you"* (25, 28).
@@ -717,6 +723,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[My Dove Is Unique]] — Song of Solomon 6:4–10; called blessed by the daughters.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; the multiplied people counted, without the word itself.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the priest speaks, and Yahweh blesses.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; blessing makes the harvest heavy (24) and follows feeding the needy (29).
 
 ## Related themes
 

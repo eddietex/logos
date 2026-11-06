@@ -126,6 +126,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   your God"* (31) returns against the nations' rites.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; after 12:15, 22 lets the clean and unclean
   person eat, the food list turns to which animals are clean.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe and firstborn of 12:6, 17–18 eaten at the place, with the money
+  rule for distance and the third-year tithe.
 
 ## Notes
 

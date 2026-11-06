@@ -157,6 +157,8 @@ The *priest* acts throughout, unnamed; [[Aaron]] is not mentioned.
 - Psalm 15:4 — *he who keeps an oath even when it hurts, and doesn't change* *(not yet ingested; WEB,
   bible-api.com; Hebrew WLC)*.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1; the next speech, from the Tent of Meeting.
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten by the household, turned into money
+  with no fifth. See [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
 
 ## Notes
 

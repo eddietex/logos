@@ -31,6 +31,12 @@ asked for.
 
 ## Development across Scripture
 
+### The eaten tithe and the third-year tithe — Deuteronomy 14:22–29
+
+The tithe of grain, new wine, oil, and the firstborn is eaten by the household before Yahweh at the chosen place; far-off households may turn it into money and buy food and drink there (22–26). Every third year it is stored in the towns for the Levite, the foreigner, the fatherless, and the widow (28–29). This differs from Leviticus 27:30, where the tithe *"is Yahweh's"*, and from Numbers 18:21, where it is the Levites' inheritance. The difference is recorded, not resolved; see [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+
+See [[Tithes for Feasting and Provision]]. Source: stored WEB Deuteronomy 14:22–29.
+
 ### The tithe eaten at the place — Deuteronomy 12:1–28
 
 Tithes of grain, new wine, and oil are brought to the chosen place and eaten there by the households that bring them, with the Levite (6, 11, 17–18). This differs from Numbers 18:21–24, where the tithe is given to the Levites as their inheritance; Deuteronomy 14:22–29 develops its own rules. The difference is recorded, not resolved, here.
@@ -101,6 +107,7 @@ See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
 - Malachi 3:8–10 — *"Will a man rob God?"*
 - Matthew 23:23; Luke 11:42; 18:12 — mint, dill, and cumin
 - Hebrews 7:1–10 — Levi tithed in Abraham's body
+- [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten at the place, or turned to money; every third year stored for the Levite and the poor.
 
 ## Related themes
 
