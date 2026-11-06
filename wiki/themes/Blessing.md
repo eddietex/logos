@@ -29,6 +29,14 @@ costly.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Blessing follows listening (12). It is concrete: love, multiplication, the fruit of body and ground,
+grain, new wine, oil, herds, and flocks, in the sworn land (13). Israel will be *blessed above all
+peoples* (14). Deuteronomy 7 anticipates the conditional blessings of chapter 28.
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Well-being, length of days, and increase in the promised fertile land are attached to hearing and
@@ -390,6 +398,8 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9.
 

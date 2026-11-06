@@ -113,6 +113,14 @@ alone exists under God's rule. The scope of that priestly role is not spelled ou
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+The nations Israel fears are *more than I* (17), but Yahweh will do to them what he did to Egypt
+(19). They are removed gradually (22), their kings delivered and their name blotted out (24). The
+diseases of Egypt fall on *all those who hate you* (15).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Hittite, Girgashite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite form the seven-nation
@@ -284,6 +292,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.

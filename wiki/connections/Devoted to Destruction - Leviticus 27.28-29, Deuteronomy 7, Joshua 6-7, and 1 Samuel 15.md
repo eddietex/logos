@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
+
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:21, 28–29.
@@ -25,6 +27,17 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### Deuteronomy 7:12–26 now ingested
+
+Verse 26, left open by the previous section, is now ingested. Here *devoted thing* is said of the
+silver and gold on the nations' images, not of people. The status spreads: whoever brings it into
+the house will *become a devoted thing like it*. Coveting and taking it are forbidden together (25).
+This prepares directly for Joshua 7, where Achan takes devoted things and the consequence falls on
+Israel; that narrative is cited here by reference only until Joshua is stored. Deuteronomy 7:16,
+*your eye shall not pity them*, keeps the severity of verse 2 toward people.
+
+Source for this addition: stored WEB Deuteronomy 7:12–26.
 
 ### Deuteronomy 7:1–11 now ingested
 

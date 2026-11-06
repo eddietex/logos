@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Yahweh promises to keep the sworn covenant and loving kindness with a listening Israel (12) and to
+love, bless, and multiply it (13). He removes sickness (15), sends the hornet (20), and is *among
+you, a great and awesome God* (21). He clears the nations little by little for the land's sake, yet
+delivers them up until they are destroyed (22–24). Images and their metal are an abomination to him
+(25).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Yahweh chooses Israel from love and fidelity to the ancestral oath, not numerical strength (6–8).
@@ -3494,6 +3504,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

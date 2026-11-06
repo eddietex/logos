@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
+
 - **Exodus 15:14–16** — *"The peoples have heard. They tremble … All the inhabitants of Canaan have melted
   away. Terror and dread falls on them. By the greatness of your arm they are as still as a stone— until your
   people pass over, Yahweh"* — [[The Song of the Sea]]
@@ -21,6 +23,15 @@ tags: [connection]
   — [[The Angel Sent Ahead]]
 
 ## Analysis
+
+### Deuteronomy 7:12–26 now ingested
+
+Deuteronomy 7:23 repeats the Exodus 23:27 promise of confusion: Yahweh *will confuse them with a
+great confusion, until they are destroyed*. The same unit commands Israel not to be afraid of these
+peoples (18, 21). The fear is to move from Israel to the nations, the reversal that Rahab will later
+describe in Joshua 2.
+
+Source for this addition: stored WEB Deuteronomy 7:12–26; Exodus 23:27.
 
 **Rahab's speech uses the Song's phrases, in the Song's order.** (All forms checked in the WLC.)
 

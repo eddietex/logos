@@ -134,6 +134,13 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+The opposite of holiness is contagious here. An abomination brought into the house makes its owner
+*a devoted thing like it*, so Israel must *utterly detest* and *utterly abhor* it (26).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The whole people is called holy and Yahweh’s own possession (6). Here that status grounds
@@ -689,6 +696,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

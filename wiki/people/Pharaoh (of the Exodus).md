@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Israel must remember well what Yahweh did to Pharaoh and to all Egypt (18). The defeat of Pharaoh
+becomes the pattern for the conquest: *So shall Yahweh your God do to all the peoples of whom you
+are afraid* (19).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Pharaoh is recalled as the king from whose hand Yahweh redeemed Israel (8). His title supplies the
@@ -228,6 +236,8 @@ See [[The Song of the Sea]].
   the Song, and not said to die — Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

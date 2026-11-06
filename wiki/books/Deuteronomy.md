@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Blessing and the Removal of the Nations]] (7:12–26) ties covenant blessing in the land to listening.
+Fear of the nations is answered by remembering Egypt; their removal is complete but gradual, and the
+snare of their gods reaches the silver and gold on their images.
+
 [[A People Chosen in Love]] (7:1–11) grounds election in love and the ancestral oath rather than size.
 Holiness entails separation from rival worship, including destruction and marriage prohibitions;
 the warning of destruction also addresses Israel. Covenant faithfulness calls for obedience.
@@ -127,7 +131,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **20 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **21 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -149,7 +153,7 @@ Plan drawn 2026-11-05 from the stored WEB. **20 / 69 pericopes ingested.**
 - [x] [[Hear Israel and Love Yahweh]] — Deuteronomy 6:1–9
 - [x] [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25
 - [x] [[A People Chosen in Love]] — Deuteronomy 7:1–11
-- [ ] Blessing and the Removal of the Nations — Deuteronomy 7:12–26
+- [x] [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26
 - [ ] Remember the Wilderness and the Giver of Wealth — Deuteronomy 8:1–20
 - [ ] Not Because of Your Righteousness — Deuteronomy 9:1–6
 - [ ] Remember the Calf and Moses' Intercession — Deuteronomy 9:7–29

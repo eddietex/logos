@@ -232,6 +232,13 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+The sworn land is the setting of blessing (13). Possession is gradual, *little by little*, so that
+the land does not go wild with animals before Israel can fill it (22).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Entry into the land is paired with displacement and destruction of its seven named peoples (1–5).
@@ -589,6 +596,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

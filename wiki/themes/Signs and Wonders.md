@@ -54,6 +54,13 @@ one.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+The *great trials which your eyes saw, the signs, the wonders, the mighty hand, and the outstretched
+arm* (19) are cited as evidence. Having seen them is the reason Israel need not fear the nations.
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 - **Genesis 1:14; 4:15; 9:12–17; 17:11** — signs as marks and tokens, none of them displays of power.
   See [[The Sign and the Seal - Genesis 17 in Romans 4]].
 - **Exodus 3:12** — the token in arrears: *"you shall serve God on this mountain"*.
@@ -102,6 +109,8 @@ in the wilderness* (22). Yahweh treats the signs as evidence that should have se
 See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

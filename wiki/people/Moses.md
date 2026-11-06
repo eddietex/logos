@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Moses anticipates Israel's fear that the nations are too many (17) and answers it with memory: what
+Israel saw done to Pharaoh and Egypt is what Yahweh will do to the peoples it fears (18–19). He
+closes the chapter with a warning against coveting the silver and gold on the images (25–26).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Moses commands separation from the seven nations and explains Israel’s choice through divine love
@@ -1555,6 +1563,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

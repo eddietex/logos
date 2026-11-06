@@ -37,6 +37,14 @@ not be had.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+*There won't be male or female barren among you, or among your livestock* (14). The barrenness that
+drove the patriarchal stories becomes the subject of a covenant promise for the whole people and its
+herds, as in Exodus 23:26. See [[The Barren Matriarchs]].
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 - **Sarah** — Genesis 11:30, and then the promise (12:2; 15:4; 17:16), Hagar (16), the laughter
   behind the tent flap (18:12), and Isaac at ninety (21:2). Hers is the longest and the theme's
   template: the wait is twenty-five years, and the human attempt to solve it produces Ishmael.
@@ -103,6 +111,8 @@ The vindicated wife *shall be free, and shall conceive offspring* (28). The text
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

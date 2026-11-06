@@ -102,6 +102,14 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Serving the nations' gods would be *a snare* (16). Their engraved images are to be burned, and the
+snare extends to the silver and gold on them: coveting it is forbidden, because it is an abomination
+and devoted (25–26).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The marriage prohibition is explained by the danger of turning Israel’s children toward other gods
@@ -323,6 +331,8 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

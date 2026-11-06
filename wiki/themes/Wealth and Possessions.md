@@ -70,6 +70,14 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Precious metal can be forbidden wealth. Israel must not covet or take *the silver or the gold* on
+the nations' images (25). It is an abomination, and bringing it home makes the household *a devoted
+thing like it* (26).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Theft and coveting are forbidden (19, 21). Compared with Exodus 20:17, the wife is named first and the field is explicitly included; the law addresses acquisition and desire.
@@ -785,6 +793,8 @@ rebuke is interpretation.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

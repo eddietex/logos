@@ -24,6 +24,13 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+*He will love you, bless you, and multiply you* (13). Yahweh's love, which in 7:7–8 explained the
+exodus, here heads a list of blessings that follow Israel's listening (12).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Yahweh’s love explains Israel’s redemption alongside fidelity to the fathers’ oath (7–8); Israel’s
@@ -510,6 +517,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

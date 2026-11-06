@@ -54,6 +54,14 @@ nobody forgives anybody.**
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+*Your eye shall not pity them* (16) repeats 7:2's refusal of mercy to the nations. The tension with
+the mercy promised to a returning Israel (4:31), already flagged here, remains unresolved by this
+unit.
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The command to show no mercy to the seven nations (2) stands in tension with Yahweh’s mercy toward
@@ -325,6 +333,8 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

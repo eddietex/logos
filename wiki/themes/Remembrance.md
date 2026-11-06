@@ -176,6 +176,14 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Memory is the cure for fear. When Israel says the nations are too many, it must *remember well what
+Yahweh your God did to Pharaoh, and to all Egypt*: what its own eyes saw is evidence for what Yahweh
+will do next (17–19).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Wholehearted love and daily instruction — Deuteronomy 6:1–9
 
 Words are carried through the daily round of sitting, walking, lying down, and rising (6–9).
@@ -545,6 +553,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 

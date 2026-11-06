@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+The land is again *the land which he swore to your fathers to give you*, where blessing falls on
+womb, field, and flock (13). Its peoples are to be cleared little by little, lest the wild animals
+increase (22). Their kings will be delivered and their name made to perish (24).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The land ahead is occupied by seven named peoples, described as greater and mightier than Israel
@@ -322,6 +330,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

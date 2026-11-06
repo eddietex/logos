@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
+
 - **Genesis 11:30** — *"Sarai was barren. She had no child."* — six words, and the last verse of the
   genealogy before Abram is called
 - **Genesis 25:21** — *"Isaac entreated Yahweh for his wife, because she was barren. Yahweh was
@@ -19,6 +21,15 @@ tags: [connection]
 - Psalm 113:9; Isaiah 54:1; Galatians 4:27 — the barren woman as a figure for the people
 
 ## Analysis
+
+### Deuteronomy 7:12–26 now ingested
+
+*There won't be male or female barren among you, or among your livestock* (14). What was the
+recurring crisis of Genesis becomes a covenant blessing for the whole people, conditioned on
+listening (12). It follows Exodus 23:26. The promise does not explain or revisit the matriarchs'
+barrenness, and it is not presented as fulfilled in them.
+
+Source for this addition: stored WEB Deuteronomy 7:12–26; Exodus 23:26.
 
 **Three generations, three barren wives, and Genesis runs the same problem three times on purpose.**
 

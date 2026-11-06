@@ -231,6 +231,14 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Judgment falls on the nations in stages: the hornet, confusion, and destruction (20–24). The
+diseases of Egypt are reassigned to *all those who hate you* (15), and whoever takes devoted metal
+shares its devoted status (26).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Judgment faces both the nations delivered to destruction (1–2) and Israel if marriage leads it to
@@ -828,6 +836,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

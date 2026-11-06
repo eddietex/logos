@@ -47,6 +47,13 @@ heaven and earth, that I will not take a thread nor a sandal strap nor anything 
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+The oath to the fathers is named twice: the covenant and loving kindness Yahweh swore (12), and the
+land he swore to give (13).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The oath sworn to the fathers is named as a reason for the exodus alongside Yahweh’s love (8). No
@@ -373,6 +380,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

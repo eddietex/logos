@@ -116,6 +116,14 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Yahweh fights through the hornet (20), confusion (23), and the delivery of kings (24). Israel
+consumes the peoples delivered to it (16), but only *little by little*, lest the wild animals
+increase (22). The destruction is complete in extent but gradual in pace (22–24).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The seven nations are to be utterly destroyed after Yahweh delivers them to Israel; neither
@@ -401,6 +409,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

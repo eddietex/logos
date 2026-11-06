@@ -255,6 +255,13 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+*Because you listen to these ordinances, and keep and do them*, the covenant blessings follow (12).
+Obedience here is the condition of blessing in the land, not the cause of election (contrast 7:7–8).
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 The explanation of election ends in a command to do the commandments, statutes, and ordinances
@@ -1145,6 +1152,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

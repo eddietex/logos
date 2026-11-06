@@ -22688,3 +22688,28 @@ No new unstored-book quotation or source-language claim was introduced; raw file
 workflow instructions were unchanged. Category index coverage and frontmatter totals
 were checked. scripts/link-check.sh passed with 57 expected unstarted-book targets,
 no wrapped links, and no unexpected dangling targets. No unresolved issue.
+
+## [2026-11-06] ingest | Deuteronomy 7.12-26 — Blessing and the Removal of the Nations
+
+Ingested the next planned unit in unattended mode; retained the 7:12–26 boundary (chapter 8
+opens a new exhortation). Created the passage page. No new connection page: the Exodus 15:26 →
+Deuteronomy 7:15 → 28:60 disease thread was folded into the existing
+[[The Diseases of Egypt - The Plagues in Deuteronomy 28]] instead of duplicating it.
+Revised 3 person, 2 place, 17 theme, and 5 connection pages, the Exodus passage
+[[The Angel Sent Ahead]] (cross-reference), the book, 10 index/dashboard pages, and this log:
+1 created and 40 revised pages in total. Deuteronomy is now 21 / 69 pericopes; vault totals are
+346 passages, 257 people, 216 places, 87 themes, and 728 connections.
+
+The page absorbs the unattended discussion: Deuteronomy 7:12–26 reworks Exodus 23:25–33 into an
+answer to fear, with memory of Egypt as the evidence. Conditional blessing (12) is set beside the
+unconditioned love of 7:7–8 without merging them. *Your eye shall not pity them* (16) keeps the
+already-flagged tension with 4:31; *consume all* (16) and *not at once* (22) are read as pace, not
+extent. The hornet remains uninterpreted. The snare is extended to silver and gold on images,
+which become *a devoted thing* (25–26); Joshua 7 (Achan) is cited by reference only. The nations'
+kings are unnamed and collective; no new person or place page is needed.
+
+All quotations are copied from stored WEB Deuteronomy 7:12–26; comparisons use stored WEB
+Exodus 15:22, 26; 23:25–33 and Deuteronomy 28:60. Joshua 2, Joshua 7, and Judges 2 are cited by
+reference only; no source-language claim was introduced. Raw files and workflow instructions
+were unchanged. scripts/link-check.sh passed with 57 expected unstarted-book targets, no
+wrapped links, and no unexpected dangling targets. No unresolved issue.

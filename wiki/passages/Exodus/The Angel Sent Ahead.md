@@ -119,6 +119,7 @@ still at Sinai. Nothing in these verses reports that any of it has happened yet.
 
 ## Cross-references
 
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 restates removed sickness, no barrenness, the hornet, gradual removal, and the snare (23:25–33).
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56; see [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
 
 - [[Blessings for Obedience]] — Leviticus 26:3–13, a fuller list of promises under a stated condition.

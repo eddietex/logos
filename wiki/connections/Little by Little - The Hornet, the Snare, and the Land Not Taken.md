@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - **Exodus 23:27–33** — terror, confusion, the hornet, *"little by little"*, and the peoples' gods
@@ -15,7 +17,8 @@ tags: [connection]
   altars and pillars (WEB)
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56; removal, allotment, harassment, and judgment.
 - **Deuteronomy 7:1–5, 20–24** — seven nations; no covenant, no marriages; the hornet; *"little by
-  little … lest the animals of the field increase on you"* (WEB; *not yet ingested*)
+  little … lest the animals of the field increase on you"* (stored WEB) —
+  [[A People Chosen in Love]] · [[Blessing and the Removal of the Nations]]
 - **Joshua 23:13** — *"they shall be a snare and a trap to you"* (WEB; *not yet ingested*)
 - **Joshua 24:12** — *"I sent the hornet before you … not with your sword, nor with your bow"* (WEB;
   *not yet ingested*)
@@ -23,6 +26,20 @@ tags: [connection]
   shall be in your sides, and their gods will be a snare to you"* (WEB; *not yet ingested*)
 
 ## Analysis
+
+### Deuteronomy 7:12–26 now ingested
+
+Deuteronomy 7:16–26 is now ingested, so the quotations above can be checked against the stored WEB.
+All three motifs are present. The hornet is sent *until those who are left, and hide themselves,
+perish* (20). The nations are cast out *little by little*, *lest the animals of the field increase
+on you* (22), the same reason Exodus 23:29 gives. The snare is serving their gods (16), and is then
+extended to coveting the silver and gold on their images (25), a development Exodus 23 does not
+make. Deuteronomy also sets the gradual pace inside a promise of completeness. The confusion and the
+delivery of kings continue *until they are destroyed* (23–24), so the slow conquest is not presented
+as a partial one. That makes the contrast with Judges 2:1–3, cited above, sharper, and the wiki
+still states both explanations without merging them.
+
+Source for this addition: stored WEB Deuteronomy 7:12–26; Exodus 23:27–33.
 
 **Three motifs from Exodus 23:27–33 recur together, and the later texts reread them.**
 

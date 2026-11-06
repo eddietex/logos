@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
+
 - **Exodus 9:8–11** — the boils, *šəḥîn* — [[Livestock, Boils, and Hail]]
 - **Exodus 10:12–15** — the locusts, *ʾarbeh* — [[Locusts and Darkness]]
 - **Exodus 10:21–22** — *"darkness which may be felt"*, *wəyāmēš ḥōšek*; *"thick darkness"*,
@@ -26,6 +28,18 @@ tags: [connection]
   [[The Boil of Deuteronomy 28 on a Blameless Man]]
 
 ## Analysis
+
+### Deuteronomy 7:12–26 now ingested
+
+Deuteronomy 7:15 gives the promise that 28:60 reverses: *he will put none of the evil diseases of
+Egypt, which you know, on you, but will lay them on all those who hate you*. It restates the Marah
+promise (Exodus 15:26, [[Bitter Water at Marah]]) and the covenant code's *I will take sickness away
+from among you* (Exodus 23:25). Deuteronomy adds a destination: the diseases go to Israel's enemies.
+Read together, 7:15 and 28:60 make the same diseases a blessing withheld and a curse returned, and
+*which you know* (7:15) and *which you were afraid of* (28:60) both rely on Israel's memory of
+Egypt. Neither verse names the diseases; the plague links tabled above come from Deuteronomy 28.
+
+Source for this addition: stored WEB Deuteronomy 7:12–26; Exodus 15:26; 23:25–26; Deuteronomy 28:60.
 
 **Deuteronomy 28's curses for breaking the covenant include the plagues of Egypt, by name and by
 vocabulary.** None of Deuteronomy is yet ingested, so the verses are quoted from the WEB at

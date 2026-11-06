@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Egypt supplies both the promise and the proof. Yahweh will put none of *the evil diseases of Egypt,
+which you know* on an obedient Israel (15), and the signs and wonders seen there are evidence for
+what he will do in Canaan (18–19). Deuteronomy 28:60 will reverse the disease promise for
+disobedience; see [[The Diseases of Egypt - The Plagues in Deuteronomy 28]].
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Egypt is the remembered house of bondage, under Pharaoh, from which Yahweh redeemed Israel (8).
@@ -332,6 +341,8 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

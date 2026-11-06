@@ -36,6 +36,14 @@ the Hebrew forms in those two verses.
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Yahweh will take away all sickness and put none of *the evil diseases of Egypt, which you know* on
+Israel, laying them instead on those who hate it (15). This restates the Marah promise of Exodus
+15:26 and anticipates its reversal in Deuteronomy 28:60. See [[The Diseases of Egypt - The Plagues in Deuteronomy 28]].
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 **Genesis — healing after prayer, and physicians at a funeral.** *"Abraham prayed to God. God healed
 Abimelech"* (Genesis 20:17): **the first healing in Scripture is of a foreign king's household, closing
 wombs God himself had closed** (20:18). **The only other use in Genesis is a participle — *"the
@@ -158,6 +166,8 @@ Moses prays five Hebrew words, with *rāpāʾ*. Yahweh answers with seven days o
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[The Brass Serpent]] — Numbers 21:4–9.
 

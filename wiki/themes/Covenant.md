@@ -107,6 +107,14 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Blessing and removal — Deuteronomy 7:12–26
+
+Yahweh will keep with a listening Israel *the covenant and the loving kindness which he swore to
+your fathers* (12). Verses 7–8 had grounded the rescue from Egypt in love and the oath alone; the
+blessing in the land is now tied to obedience. The two are set side by side, not merged.
+
+See [[Blessing and the Removal of the Nations]]. Source: stored WEB Deuteronomy 7:12–26.
+
 ### Chosen in love — Deuteronomy 7:1–11
 
 Israel must make no covenant with the seven nations (2), while Yahweh keeps covenant and loving
@@ -429,6 +437,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 
