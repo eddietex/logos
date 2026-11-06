@@ -22853,7 +22853,7 @@ Ingested exactly the planned unit in auto mode, by Claude, retaining its boundar
 passage page and one connection,
 [[Watered with Your Foot - Egypt and the Land That Drinks the Rain]], and revised 39 existing
 pages including this log: Deuteronomy, seven people, two places, fourteen themes, three existing
-connections, two earlier passage pages (Cross-references backlinks), and eight index/dashboard
+connections, two earlier passage pages (Cross-references backlinks), and nine index/dashboard
 pages. Deuteronomy is now 27 / 69; counts by frontmatter type are 352 passages, 257 people,
 219 places, 87 themes, and 733 connections.
 
