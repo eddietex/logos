@@ -6,11 +6,18 @@ tags: [connection]
 # Moses Excluded - Numbers 20 and Deuteronomy 1
 
 ## Passages involved
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:37–38.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+Deuteronomy 3:26 repeats the explanation that Yahweh was angry with Moses for the people's
+sakes. His plea to cross is denied, though he may look from Pisgah (3:23–27). He must strengthen
+Joshua (3:28). This continues the tension described below: it does not replace Numbers'
+account of the leaders' responsibility. See
+[[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]]. Source: stored WEB Deuteronomy 3:23–29.
 
 Deuteronomy 1:37 recalls Yahweh’s anger at Moses for the people’s sakes, immediately after the
 promise to Caleb and before the charge to encourage Joshua. Moses’ exclusion forms part of the

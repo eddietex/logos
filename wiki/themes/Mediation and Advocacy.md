@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+The mediator petitions for himself here (23–25), unlike his request for a successor in Numbers
+27:15–17. His denied request leaves him responsible for encouraging that successor (28). Mediation
+does not grant exemption from judgment.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 Moses cannot carry the people alone (9, 12) and shares the work with tribal heads, but keeps the case too hard for them: *you shall bring to me, and I will hear it* (17). Deuteronomy 17:8–9 later assigns that function to the priests and *the judge who shall be in those days*.
@@ -486,6 +494,7 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the burden shared, the hard case kept.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

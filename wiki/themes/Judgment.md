@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Moses’ exclusion stands despite his plea (26–27). His explanation of divine anger for the people’s
+sakes differs in emphasis from Numbers 20:12, which charges the leaders with failure to believe
+and sanctify Yahweh; neither account is silently replaced.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Divine delivery of Og and his people is explicit (2–3), as is civilian destruction (6). No
@@ -785,6 +793,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

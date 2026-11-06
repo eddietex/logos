@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+The good land beyond the Jordan is what Moses longs to enter (25). It will be inherited under
+Joshua while Moses only sees it (27–28). Canaan is the wider narrative identification, not a name
+used in these verses.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The good land sworn to the fathers is denied to the condemned generation but promised to Caleb and
@@ -290,6 +298,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

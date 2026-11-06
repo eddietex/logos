@@ -92,6 +92,7 @@ Source: stored WEB, Deuteronomy 1:34–46. Full unit copied below.
 - [[Guilt and Conscience]] — The confession in verse 41 acknowledges guilt, but does not authorize the people’s chosen remedy. The text judges the ascent without declaring whether their feelings were sincere.
 
 ## Cross-references
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29 repeats the explanation of Moses’ exclusion and the charge to strengthen Joshua.
 
 - [[From the Wilderness Sentence to the Crossing of Zered]] — [[Around Seir and Past Moab and Ammon]]; Deuteronomy 2:1–23.
 - [[Don't Go Up - Numbers 14.39-45 and Deuteronomy 1.41-46]]

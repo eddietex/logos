@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+The answer gives Moses limits and work: cease this petition, ascend and look, and commission and
+strengthen Joshua (26–28). These are reported commands; their performance is not narrated here.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The eastern warriors are commanded to cross and may return only when their brothers also possess
@@ -1074,6 +1081,7 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

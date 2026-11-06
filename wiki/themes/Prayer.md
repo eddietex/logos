@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Moses begins with praise of Yahweh’s incomparable works and asks for personal entry into the land
+(23–25). The refusal is explicit, including a prohibition on further petition about this matter
+(26). This is a particular denied request, not a rule that prayer is futile.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The people weep before Yahweh after defeat, but he does not listen (45). The text reports no words
@@ -287,6 +295,7 @@ answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and 
 Yahweh's. See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+The river marks the crossing Moses requests and is refused (25–27). Joshua will lead the people
+over (28); no crossing happens within this unit.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The river marks the eastern holdings and the crossing required of their warriors (17–20). In verse
@@ -140,6 +147,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

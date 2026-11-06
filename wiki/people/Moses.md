@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Moses asks to cross and see the good land (23–25), but receives permission to see from Pisgah
+without crossing (26–27). He attributes Yahweh’s anger to the people’s sakes; Numbers 20:12
+instead stresses his and Aaron’s failure to believe and sanctify Yahweh. Both emphases remain
+explicit. He must prepare Joshua to lead (28).
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Moses recalls allocating the eastern territory, binding its warriors to their brothers’ campaign,
@@ -1477,6 +1486,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

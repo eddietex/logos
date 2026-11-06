@@ -22391,3 +22391,28 @@ Comparisons use stored WEB Numbers 32 and Deuteronomy 1:19–33 and 3:1–11. No
 an unstored book, source-language claim, raw edit, or harness-compatibility change was needed.
 Link checks passed: no wrapped or dangling links, with 57 not-yet-started books excluded as the
 expected baseline. No operational blocker; the existing geographical uncertainty is preserved.
+
+## [2026-11-05] ingest | Deuteronomy 3.23-29 — Moses Pleads to Cross the Jordan
+
+Ingested one pericope in unattended mode with Codex. Kept the planned title and boundary.
+Moses' refused plea, the commanded view from Pisgah, and his responsibility to strengthen Joshua
+are developed in the passage rather than discussed interactively.
+
+Created three pages: the passage, Beth Peor, and
+[[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]].
+Revised three people, four existing places, seven themes, the existing Moses-exclusion connection,
+two earlier passages, the book, six category/book indexes, the dashboard, and this log
+(26 existing pages). Deuteronomy is now 10 / 69 pericopes; totals are 335 passages,
+257 people, 213 places, 87 themes, and 724 connections.
+
+Retained the explicit tension between Deuteronomy 3:26's explanation of anger for the people's
+sakes and Numbers 20:12's attribution to the leaders' failure. Distinguished the personal plea
+here from Numbers 27's request for a successor. Commands to ascend and commission are not
+reported as performances. Created Beth Peor as the named location beside the valley; did not
+equate it with Peor or identify the unnamed fine mountain with a later sanctuary.
+
+All new quotations were copied from stored WEB Deuteronomy 3:23–29; comparisons were checked
+against stored Numbers 20 and 27 and the preceding Deuteronomy units. No unstored-book quotation,
+source-language assertion, raw-text edit, or harness change was needed.
+Link checks passed with 57 not-yet-started book pages as the expected baseline.
+No unresolved link or source-verification issue.

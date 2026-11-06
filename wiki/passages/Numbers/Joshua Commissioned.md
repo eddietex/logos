@@ -86,6 +86,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 - [[Seeing and Being Seen]]
 
 ## Cross-references
+- [[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]] — the prospect, distinct prayers, and succession.
 
 - [[Moses Excluded - Numbers 20 and Deuteronomy 1]] — the differing explanations of Moses’ exclusion.
 
@@ -116,8 +117,9 @@ not name Nebo or say which peak of Abarim is meant.
 **Moses answers with the people's need.** His only recorded reply is a request for a leader
 (15–17). He does not argue the sentence, and the text gives no report of his feelings. Whether
 this is resignation, acceptance, or simply priority is not stated; the wiki records the words
-alone. Deuteronomy 3:23–27 narrates a plea to cross over that Numbers does not include; that text
-is not yet ingested and is not quoted here.
+alone. Deuteronomy 3:23–27 narrates a plea to cross over that Numbers does not include; that plea is now ingested in
+[[Moses Pleads to Cross the Jordan]]. See also
+[[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]].
 
 **The God of the spirits of all flesh.** Moses addresses Yahweh with the title he and Aaron used in
 Numbers 16:22, when they pleaded against the death of the whole congregation for one man's sin.

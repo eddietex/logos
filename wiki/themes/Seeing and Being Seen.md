@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Moses asks to cross and see, but is commanded to look from Pisgah without crossing (25–27). Sight
+grants a prospect of the promised land without granting possession.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 The donkey sees the angel three times before Balaam sees him. Yahweh must open Balaam’s eyes (31); his access to divine speech in the preceding episode does not make his perception automatic or complete.
@@ -367,6 +374,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; Moses sees the land; Joshua commissioned in Israel's sight.
 

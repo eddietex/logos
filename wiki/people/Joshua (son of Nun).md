@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Yahweh commands Moses to commission, encourage, and strengthen Joshua, who will cross before the
+people and cause them to inherit the land (28). This is a command, not a narrated commissioning
+ceremony; Numbers 27:22–23 supplies such a ceremony.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Moses appeals to what Joshua has seen happen to the two kings as grounds for confidence about the
@@ -149,6 +157,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Moses is commanded to ascend its top and look west, north, south, and east, while remaining
+forbidden to cross the Jordan (27). The command is not an account of an ascent already performed.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Its eastern slopes supply a geographical bearing for the grant (17). Moses’ request to cross and
@@ -28,6 +35,7 @@ valley in the field of Moab. The verse does not narrate Moses’ later death or 
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.

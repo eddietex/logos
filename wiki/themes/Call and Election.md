@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Joshua’s appointment is attached to a defined task: crossing before the people and causing them to
+inherit (28). Moses’ service continues in preparing the successor who will enter where he cannot.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### The borders of the land — Numbers 34:1–29
 
 Yahweh names Eleazar, Joshua, and the tribal representatives for the distribution (17–29). Appointment carries a defined responsibility rather than an unbounded personal privilege.
@@ -174,6 +181,7 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
 ## Key passages
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

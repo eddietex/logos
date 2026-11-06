@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Yahweh’s incomparable power grounds Moses’ appeal (24), but he refuses the crossing and forbids
+further petition on this matter (26–27). He provides for Israel’s future by ordering Moses to
+strengthen Joshua (28).
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Yahweh gives the eastern land and the rest still awaited by the other tribes (18–20). Moses grounds
@@ -3429,6 +3437,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Moses’ plea — Deuteronomy 3:23–29
+
+Lebanon is named as part of the desired prospect beyond the Jordan (25). The verse does not
+identify the unnamed fine mountain with a particular later sanctuary.
+
+See [[Moses Pleads to Cross the Jordan]]. Source: stored WEB Deuteronomy 3:23–29.
+
 The mountain range north of Israel, along the coast behind Sidon and Tyre, and the forested
 country around it. In Scripture it is known above all for its trees. The Hebrew name, *lǝḇānôn*,
 has the consonants *l-b-n*, the root for *white*. The name is usually explained by snow on its
@@ -56,6 +63,7 @@ the verse, and no journey to Lebanon is narrated.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
+- [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; the northern reach of the land listed in Yahweh's command at Horeb — the first time the stored Torah names it.
 - [[Solomon's Wedding Procession]] — Song of Solomon 3:9; the wood of Solomon's carriage.
