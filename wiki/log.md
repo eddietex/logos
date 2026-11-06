@@ -22316,3 +22316,27 @@ an unstored book or new source-language claim was introduced. Existing raw texts
 Link checks passed with 57 expected not-yet-started book targets, no wrapped links, and no
 unexpected dangling targets. New titles are unique and have one category row each where
 applicable. No unresolved ingest issue or harness change.
+
+## [2026-11-05] ingest | Deuteronomy 2.24-37 — The Defeat of Sihon Recounted
+
+Ingested one queued pericope in auto mode with the discussion recorded in the passage.
+No boundary changes. Created four pages: the passage, Kedemoth, and two connections comparing
+the Sihon accounts and Pharaoh/Sihon hardening. Revised the book and status, four existing
+passages, four people, eleven existing places, eight themes, two existing connections, eight
+index/dashboard pages, and this log (40 existing pages total).
+
+Kept explicit the command to fight before the peaceful embassy, divine hardening alongside
+Sihon’s refusal, and the reported destruction of women and little ones. Retained the apparent
+contradiction between Deuteronomy 2:29’s accommodation precedent and Numbers 20’s Edomite
+refusal; purchases or different journey stages remain possible interpretations, not proven
+harmonizations. Ammon’s prohibition remains distinct from the conquest. Seir stays under Edom;
+Kedemoth is not assigned a modern location. The unnamed valley city and Sihon’s sons receive
+no speculative names or separate pages.
+
+The entire passage quotation was copied from stored WEB Deuteronomy. Comparisons were checked
+against stored WEB Numbers 20:14–21; 21:21–35 and Exodus 4:21–23; 14:4. No external-book
+quotations, source-language assertions, raw-text edits, or harness changes were needed.
+Counts: 332 passages, 257 people, 209 places, 87 themes, 720 connections.
+Link checks clean (57 not-yet-started book pages form the expected baseline).
+Existing Places index growth remains a separate maintenance concern; no split was attempted
+during this single-pericope pass.

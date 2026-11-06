@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Moses identifies the Moabites living here as a precedent when proposing terms to Sihon (29). No
+conquest of Ar is reported.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Ar is named in the grant to Lot’s descendants and as the border of Moab that Israel is to pass (9,
@@ -29,6 +36,8 @@ entire country.
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

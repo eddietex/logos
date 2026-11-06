@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Esau’s descendants in Seir are cited as having done for Moses what he asks of Sihon (29). **Apparent
+contradiction retained:** Numbers 20:18–21 reports Edom refusing passage. Restricting the comparison
+to food and water purchases (28) is possible, but neither account establishes a precise route or
+transaction history.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Mount Seir belongs to Esau’s descendants by Yahweh’s grant (1–8, 12, 22). Israel must buy provisions
@@ -131,6 +140,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

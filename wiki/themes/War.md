@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Battle at Jahaz leads to the destruction of every inhabited city, expressly including women and
+little ones, with no survivors reported (32–34). Livestock and goods become spoil (35). This is not
+a bloodless transfer or a claim limited to combatants; Ammon remains outside the permitted conquest
+(37).
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Israel must not contend with the descendants of Esau or Lot (5, 9, 19). The asides recall other
@@ -354,6 +363,8 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

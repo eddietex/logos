@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Israel explicitly stays away from its land and the prohibited riverbanks and hill-country cities
+(37). The conquest does not cancel the protection stated in Deuteronomy 2:19.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Ammon’s territory is protected as a grant to Lot’s descendants (19). Its former inhabitants, called
@@ -77,6 +84,8 @@ displaced five chapters before either of them is born.** See
   23:3 read aloud and enforced against Ammonites and Moabites in the same chapter.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

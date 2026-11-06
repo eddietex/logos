@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Sihon refuses passage; Moses attributes that refusal to Yahweh’s hardening for the purpose of
+delivering him to Israel (30). He fights at Jahaz, and he, his sons, and his people are struck
+(32–34). Numbers 21:21–26 narrates the refusal and defeat without the hardening explanation.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 His defeat precedes the address (4). He is identified as king of the Amorites, resident in Heshbon;
@@ -34,6 +42,8 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his kingdom given to the eastern tribes (33).

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+His descendants in Seir are cited as a precedent for what Moses requests from Sihon (29). This
+concerns the descendants, not the patriarch acting in person. The apparent tension with Edom’s
+refusal in Numbers 20:18–21 is retained: the comparison may refer to purchases rather than
+through-passage, but that is an interpretation.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Esau is named as the recipient of Mount Seir, and his descendants as Israel’s brothers (4–8). Verses
@@ -224,6 +233,8 @@ father of the Edomites"* (36:43). **After it he is not mentioned in the book aga
 - *"This is Esau, the father of the Edomites"* — his last words in the book — Genesis 36:43
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

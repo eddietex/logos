@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Moses recalls sending peaceful terms from Kedemoth after the command to fight (24–29). His
+first-person account attributes victory to Yahweh while acknowledging Israel’s destruction of women
+and little ones (33–36).
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Moses recalls receiving the instructions to turn north, avoid conflict, and cross Zered (1–19). His
@@ -1454,6 +1462,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

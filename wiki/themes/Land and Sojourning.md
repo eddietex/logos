@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+A request for transit toward the Jordan becomes possession of Sihon’s cities (27–36). Yahweh grants
+this territory but forbids approach to Ammon’s land (37); gift and boundary belong to the same
+account.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 The land giver also sets territorial limits: Israel receives none of Seir, Moab, or Ammon here (5,
@@ -502,6 +510,8 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

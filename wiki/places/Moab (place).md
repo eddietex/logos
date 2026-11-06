@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Moabites living in Ar are cited alongside Esau’s descendants as a precedent in the request for paid
+provisions and passage (28–29). They are not the enemy conquered in this unit.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Israel passes by the wilderness of Moab and must not attack it: Ar belongs to Lot’s descendants
@@ -192,6 +199,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

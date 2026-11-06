@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+The command to contend with Sihon (24) differs from the preceding bans on conflict with neighboring
+peoples. Verse 37 presents non-approach to forbidden territory as part of obedience, even amid
+victory.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Obedience consists in turning, crossing, paying, and refraining from battle as instructed (3–6, 9,
@@ -1059,6 +1067,8 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

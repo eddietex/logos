@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Crossing its valley introduces the command to fight Sihon (24). Aroer on its edge and an unnamed
+city within the valley mark the southern end of the victories described in verse 36.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### The first two oracles — Numbers 22:36–23:26
 
 The City of Moab, where Balak meets Balaam, stands at the Arnon border (22:36). This boundary notice
@@ -30,6 +37,8 @@ modern map here.
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 

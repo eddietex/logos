@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Moses sends words of peace and offers paid provisions after receiving a command to fight (24–29).
+The text retains this tension alongside divine hardening and Sihon’s refusal; it does not explain
+the embassy as either a sham or a reversal of the command.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Commands not to contend with neighboring kin direct Israel toward payment and avoidance of battle
@@ -390,6 +398,8 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

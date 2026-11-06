@@ -106,6 +106,8 @@ they possessed his land.
 
 ## Cross-references
 
+- [[Sihon’s Defeat - Numbers 21 and Deuteronomy 2]]
+
 - [[From Commandments in Moab to Moses’ Address]] — the Moab frame and remembered victories in Deuteronomy 1:1–5.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32, the conquered land given to Gad, Reuben, and half of Manasseh.

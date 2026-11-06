@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Verse 30 explicitly attributes Sihon’s hardened spirit and obstinate heart to Yahweh, with delivery
+into Israel’s hand as the purpose. The refusal is also Sihon’s act. The WEB supports this
+combination of divine agency and human refusal; no claim about exact Hebrew verbs is needed.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 **The heart made strong, heavy, or hard against God's word — most of all Pharaoh's, in Exodus 4–14,
 where God says he will do it before Moses has met the king.** In Hebrew thought the *lēb*, *heart*,
 is the seat of will and understanding rather than of feeling, so a hardened heart is a will that will
@@ -69,7 +77,6 @@ lengthens the contest so that the signs are seen.** See [[Signs and Wonders]].
 
 ### Ahead
 
-- Deuteronomy 2:30 — Sihon's spirit hardened *(not yet ingested)*
 - Joshua 11:20 — the Canaanite kings *(not yet ingested)*
 - 1 Samuel 6:6 — the Philistine priests: *"Why then do you harden your hearts, as the Egyptians and
   Pharaoh hardened their hearts?"* (WEB) — *kābēd*, the verb of Exodus 10:1, with *hitʿallēl*, the verb
@@ -124,6 +131,8 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1; the passage 
 sources and interpretive limits.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Where There Is No Vision]] — Proverbs 29:1; The repeatedly rebuked person stiffens his neck and
   is suddenly destroyed without remedy.

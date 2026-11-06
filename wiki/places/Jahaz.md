@@ -7,12 +7,21 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Sihon comes here with all his people to fight Israel (32). This agrees with the battle location in
+Numbers 21:23.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 Place where Sihon gathers his people and fights Israel after refusing passage (23). Israel wins and
 takes his territory; no modern identification is supplied here.
 
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 - [[Sihon and Og]] — Numbers 21:21–35
 
 ## Related places

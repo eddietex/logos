@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Moses asks for transit until Israel crosses this river into the land Yahweh gives (29). The crossing
+remains ahead; the victory over Sihon occurs before it.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 The address is beyond the Jordan, in Moab (1, 5), hence east of the river in this setting. The river
@@ -118,6 +125,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

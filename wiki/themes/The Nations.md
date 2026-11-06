@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+The promised dread extends to peoples under the whole sky (25), while the concrete battle concerns
+Sihon. The passage does not narrate the conquest of every nation; Moab, Edom, and Ammon retain
+distinct roles and limits.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Esau’s and Lot’s descendants hold protected grants (5, 9, 19). The recollections of earlier
@@ -242,6 +250,8 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Sihon is repeatedly identified as its king (24, 26, 30). The account moves from a request to pass
+through his land to the conquest of his cities.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Named as Sihon’s residence in the retrospective notice of his defeat (4).
@@ -39,6 +46,8 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 

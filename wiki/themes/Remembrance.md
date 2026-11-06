@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Moses recounts the embassy, hardening, battle, and bounded conquest as the explanation of Israel’s
+present possession (24–37). Numbers 21:21–26 shares the narrative outline but omits the hardening
+and the explicit description of women and little ones in Sihon’s cities.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Moses tells the generation in Moab the sentence and defeat in the second person. The recollection
@@ -489,6 +497,8 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

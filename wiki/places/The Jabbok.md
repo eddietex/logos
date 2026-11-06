@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Its banks appear among the limits Israel does not approach under Yahweh’s prohibition (37). Numbers
+21:24 describes conquest up to the Jabbok; the accounts distinguish conquered Amorite territory from
+protected Ammonite territory without supplying a complete boundary map.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Sihon and Og — Numbers 21:21–35
 
 Northern endpoint in the description of Israel’s acquisition from Sihon, from the Arnon to the
@@ -26,6 +34,8 @@ wrestled* (32:24), sit one letter apart in Hebrew — a wordplay Genesis lets st
 on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earlier.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Sihon and Og]] — Numbers 21:21–35.
 

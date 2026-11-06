@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+The conquest summary extends from Aroer and the Arnon valley to Gilead (36). It reports no city too
+high for Israel, attributing success to Yahweh; it is not yet the tribal allotment account.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 *The land of Gilead … was a place for livestock* (1). Reuben and Gad ask for it and receive it on condition
@@ -57,6 +64,8 @@ resuming the comparison of 4:1. The region supplies a pastoral image, not a loca
 the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

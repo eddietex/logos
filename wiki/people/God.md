@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Yahweh commands battle and promises dread among the nations (24–25), hardens Sihon’s spirit and
+makes his heart obstinate to deliver him to Israel (30), and grants the cities (31–36). His
+prohibitions also delimit the victory (37).
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 Yahweh grants land to Esau and Lot’s descendants, forbids Israel to seize it, and sustains Israel
@@ -3407,6 +3415,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 

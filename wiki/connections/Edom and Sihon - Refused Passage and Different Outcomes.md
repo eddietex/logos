@@ -6,6 +6,7 @@ tags: [connection]
 # Edom and Sihon - Refused Passage and Different Outcomes
 
 ## Passages involved
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37
 - [[Sihon and Og]] — Numbers 21:21–35
 - [[Edom Refuses Passage]] — Numbers 20:14–21
 
@@ -19,6 +20,12 @@ alone supplies a general rule that a refusal of transit authorizes conquest. The
 belongs to the Edom episode and is absent from this embassy.
 
 Sources: stored WEB Numbers, the references above. No source-language claim is made.
+
+Deuteronomy 2:24–37 now supplies the explicit divine command to contend with Sihon, the hardening
+explanation (30), and the prohibition concerning Ammon (37). The different outcomes therefore belong
+to different territorial commands, not a general license to attack anyone who denies passage.
+
+Source for this addition: stored WEB Deuteronomy 2:24–37; Numbers 20:14–21.
 
 ## Significance
 

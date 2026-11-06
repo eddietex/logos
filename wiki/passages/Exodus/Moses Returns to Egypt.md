@@ -372,6 +372,8 @@ not say; it is the reading that best explains why the scene is here, and the wik
 
 ## Cross-references
 
+- [[Pharaoh and Sihon - Hardened Hearts and Defeated Kings]]
+
 - [[A Permitted Journey and a Deadly Encounter - Moses and Balaam]] — permitted travel and divine opposition compared with [[Balaam's Donkey]].
 
 - [[The King's Heart]] — Proverbs 21:1 states as a principle the turning of a king's heart announced at 4:21.

@@ -150,3 +150,7 @@ Seir remains under the existing Edom page and brook Zered under The Valley of Ze
 people pages follow the existing Anakim convention. No modern ethnic identifications or
 source-language claims are needed. Quotations are taken from the stored WEB; comparisons use
 stored Genesis 14, 19, 36 and Numbers 14, 20, 21. The planned boundary is unchanged.
+
+### The next embassy adds a claim
+
+[[The Defeat of Sihon Recounted]] (2:29) cites earlier accommodation by Esau’s descendants and the Moabites. This is additional evidence beyond the command in 2:6, though its relation to Edom’s refusal in Numbers 20 remains disputed; see [[Protected Lands and Refused Passage - Numbers 20 and Deuteronomy 2]].

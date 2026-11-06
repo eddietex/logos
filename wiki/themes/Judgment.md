@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sihon’s defeat recalled — Deuteronomy 2:24–37
+
+Divine delivery and hardening accompany the killing of Sihon’s people, including women and little
+ones (30–34). The passage supplies no individual charges against those civilians. Its attribution of
+victory to Yahweh must not be used to erase the moral difficulty of the reported destruction.
+
+See [[The Defeat of Sihon Recounted]]. Source: stored WEB Deuteronomy 2:24–37.
+
 ### Protected neighbors and the wilderness generation — Deuteronomy 2:1–23
 
 The thirty-eight-year journey to Zered ends with the military generation consumed under Yahweh’s
@@ -769,6 +777,8 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
