@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+The command not to fear is grounded in promised delivery and the precedent of Sihon (2). The text
+reports reassurance and victory, without describing Moses’ private emotional response.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Caleb’s wholehearted following is set against the condemned generation (36). The surrounding
@@ -264,6 +271,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

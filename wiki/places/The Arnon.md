@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Its valley marks the southern endpoint of the combined territory taken from the two Amorite kings,
+with Hermon at the other end (8).
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Crossing its valley introduces the command to fight Sihon (24). Aroer on its edge and an unnamed
@@ -37,6 +44,7 @@ modern map here.
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

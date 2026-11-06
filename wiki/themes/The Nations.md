@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+The two kings are identified as Amorite rulers (8), while Sidonians and Amorites supply different
+names for Hermon (9). Og’s Rephaim identity (11) accompanies his political identity as king of
+Bashan; the text does not explain a genealogy relating these designations.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 The promised dread extends to peoples under the whole sky (25), while the concrete battle concerns
@@ -250,6 +258,7 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

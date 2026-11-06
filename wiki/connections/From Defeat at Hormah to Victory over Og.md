@@ -6,6 +6,7 @@ tags: [connection]
 # From Defeat at Hormah to Victory over Og
 
 ## Passages involved
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
 - [[Sihon and Og]] — Numbers 21:21–35
 - [[The Defeat at Hormah]] — Numbers 14:39–45
 
@@ -18,6 +19,10 @@ divine authorization, not a claim that Israel’s military strength always guara
 earlier defeat and present victory are distinct events, not an unresolved contradiction.
 
 Sources: stored WEB Numbers, the references above. No source-language claim is made.
+
+Deuteronomy 3:1–11 retells the victory with the same assurance and adds the fortified cities
+and civilian destruction. The contrast with the forbidden ascent does not make this victory
+bloodless. Source: stored WEB Deuteronomy 3:1–11.
 
 ## Significance
 

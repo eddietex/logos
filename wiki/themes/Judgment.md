@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Divine delivery of Og and his people is explicit (2–3), as is civilian destruction (6). No
+individual offenses of the women and little ones are supplied. Reading the defeat as judgment must
+not turn that silence into invented charges.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Divine delivery and hardening accompany the killing of Sihon’s people, including women and little
@@ -777,6 +785,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

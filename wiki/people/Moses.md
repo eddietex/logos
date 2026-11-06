@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Moses recalls receiving assurance against Og and speaks as part of the conquering people (1–8). His
+account joins victory, civilian destruction, and the geography of the acquired land.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Moses recalls sending peaceful terms from Kedemoth after the command to fight (24–29). His
@@ -1462,6 +1469,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Sihon is identified by his residence here (2) and as its king (6); his defeat is the precedent for
+Og’s.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Sihon is repeatedly identified as its king (24, 26, 30). The account moves from a request to pass
@@ -46,6 +53,7 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

@@ -12,6 +12,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[Offerings According to Means - Leviticus 5 and 12]] | comparison | [[Confession and Offerings According to Means]] · [[Purification After Childbirth]]  · [[The Cleansing of the Leper]] (Leviticus 14:21–32) |
+| [[Og’s Defeat - Numbers 21 and Deuteronomy 3]] | parallel | [[Sihon and Og]] — Numbers 21:33–35 · [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11 |
 | [[On Eagles Wings - Exodus 19 and Deuteronomy 32]] | parallel | Exodus 19:4–6 · Deuteronomy 32:9–12 |
 | [[On the Bed's Head or on His Staff - Genesis 47.31 in Hebrews 11.21]] | textual-problem | Genesis 47:31 · Genesis 48:1–2 · 1 Kings 1:47 · Hebrews 11:21 |
 | [[On the Day Moses Finished - Exodus 40, Leviticus 8-9, and Numbers 1, 7, and 9]] | thread | [[The Tabernacle Raised and the Glory]] (Exodus 40:2, 17) · [[Aaron and His Sons Consecrated]] (Leviticus 8:10–11, 33) · [[The Eighth Day and the Appearing Glory]] (Leviticus 9:1, 24) · [[The Offerings of the Twelve Princes]] (Numbers 7:1, 10–11, 84) · Numbers 1:1 · [[The Passover in the Second Year]] (Numbers 9:1–5) · [[The Lamps and the Levites Cleansed]] · [[The Cloud over the Tabernacle]] |

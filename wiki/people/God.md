@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Yahweh tells Moses not to fear Og and promises the same outcome as with Sihon (2). The victory is
+attributed to his delivery (3), alongside the explicit destruction of women and little ones (6).
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Yahweh commands battle and promises dread among the nations (24–25), hardens Sihon’s spirit and
@@ -3415,6 +3422,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

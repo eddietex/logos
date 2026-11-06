@@ -106,6 +106,8 @@ they possessed his land.
 
 ## Cross-references
 
+- [[Og’s Defeat - Numbers 21 and Deuteronomy 3]]
+
 - [[Sihon’s Defeat - Numbers 21 and Deuteronomy 2]]
 
 - [[From Commandments in Moab to Moses’ Address]] — the Moab frame and remembered victories in Deuteronomy 1:1–5.

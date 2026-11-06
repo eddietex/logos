@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+All Gilead appears in the summary of territory taken from the two kings (8–10). The division among
+Israel’s tribes belongs to the following unit, not this conquest summary.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 The conquest summary extends from Aroer and the Arnon valley to Gilead (36). It reports no city too
@@ -64,6 +71,7 @@ resuming the comparison of 4:1. The region supplies a pastoral image, not a loca
 the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

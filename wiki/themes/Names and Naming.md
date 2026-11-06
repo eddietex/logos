@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Hermon is called Sirion by Sidonians and Senir by Amorites (9). These are coexisting names
+attributed to peoples, not an Israelite renaming ceremony or an etymology.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### The daughters’ inheritance — Numbers 27:1–11
 
 The five sisters are individually named (1), and their argument concerns the survival of their
@@ -222,6 +229,7 @@ land after themselves.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 
 - [[The Second Census]] — Numbers 26:1–65.

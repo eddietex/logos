@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Victory becomes possession of the two kings’ territory from the Arnon to Hermon (8–10). Territorial
+acquisition is narrated before the following unit’s tribal allocation.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 A request for transit toward the Jordan becomes possession of Sihon’s cities (27–36). Yahweh grants
@@ -510,6 +517,7 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

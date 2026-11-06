@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+His earlier defeat supplies both the promise’s precedent (2) and the comparison for destroying the
+inhabitants (6). Verse 8 gathers his and Og’s territories into a single account of the two Amorite
+kings.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Sihon refuses passage; Moses attributes that refusal to Yahweh’s hardening for the purpose of
@@ -42,6 +50,7 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

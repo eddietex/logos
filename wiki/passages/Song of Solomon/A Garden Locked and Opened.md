@@ -107,6 +107,8 @@ paradise reopened. The Song never names Eden. See
 
 ## Cross-references
 
+- [[Hermon and Senir - Shared Name and Paired Heights]]
+
 - [[A Garden Locked - Song of Solomon 4.12-5.1, Eden, and the Royal Parks]] — the Song's garden, the
   garden of Eden, and the *pardēs* of Ecclesiastes 2:5.
 - [[Your Own Well - Proverbs 5.15-19, Song of Solomon 4.12-15, and Ecclesiastes 9.9]] — the wife as

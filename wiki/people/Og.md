@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Deuteronomy identifies Og as the remaining survivor of the Rephaim remnant and describes his iron
+bedstead at Rabbah as nine cubits by four (11). These are the bedstead’s dimensions, not a
+measurement of his height. This adds information absent from Numbers 21:33–35.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 His defeat also precedes the address (4). The WEB names Bashan, Ashtaroth, and Edrei; Numbers 21:33
@@ -33,6 +41,7 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his kingdom given to the eastern tribes (33).

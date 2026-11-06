@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Sixty fortified cities and many unwalled villages fall (4–5). The account explicitly includes the
+destruction of women and little ones while livestock and goods are retained as plunder (6–7); it
+cannot be reduced to combat against soldiers.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Battle at Jahaz leads to the destruction of every inhabited city, expressly including women and
@@ -363,6 +371,7 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

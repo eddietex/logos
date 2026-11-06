@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+The two defeated kings are located beyond this river (8). This account concerns the eastern
+conquests and reports no crossing of the Jordan.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Moses asks for transit until Israel crosses this river into the land Yahweh gives (29). The crossing
@@ -125,6 +132,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

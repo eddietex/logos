@@ -22340,3 +22340,29 @@ Counts: 332 passages, 257 people, 209 places, 87 themes, 720 connections.
 Link checks clean (57 not-yet-started book pages form the expected baseline).
 Existing Places index growth remains a separate maintenance concern; no split was attempted
 during this single-pericope pass.
+
+## [2026-11-05] ingest | Deuteronomy 3.1-11 — The Defeat of Og Recounted
+
+Ingested [[The Defeat of Og Recounted]] in unattended mode, retaining the planned boundary.
+Deuteronomy now stands at 8 / 69 pericopes. The complete eleven-verse WEB unit was copied from
+stored raw text and checked programmatically against it; no raw text was changed or fetched.
+
+Created six pages: the passage, [[Argob]], [[Salecah]], [[Rabbah]],
+[[Og’s Defeat - Numbers 21 and Deuteronomy 3]], and
+[[Hermon and Senir - Shared Name and Paired Heights]]. Revised 34 existing pages, including
+five people, nine places, seven themes, the book, two earlier passages, one existing connection,
+eight index/dashboard pages, and this log. Counts: 333 passages, 257 people, 212 places,
+87 themes, 722 connections; nine books started, eight complete.
+
+The passage preserves the explicit killing of women and little ones and does not supply invented
+charges against them. Og’s bedstead dimensions are not treated as his height or independent
+archaeological confirmation. Rabbah’s mention does not imply the conquest of protected Ammon.
+Sirion and Senir remain aliases under Hermon; the tension between Deuteronomy’s identification
+and Song 4:8’s pairing remains explicit, with a range/summit explanation only a possibility.
+The Rephaim retain their collective page; the other national designations do not create new
+individual ancestors. Tribal allotments beginning at 3:12 remain for the next invocation.
+
+Comparisons were checked against stored WEB Numbers 21:33–35 and Song of Solomon 4:8.
+No new quotation from an unstored book and no new Hebrew or Greek lexical assertion was used.
+Link checks passed with the expected 57 not-yet-started book targets excluded; no wrapped or
+dangling links. No operational blocker; the geographical interpretation remains unresolved.

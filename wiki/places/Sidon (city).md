@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+The Sidonians are cited for their name Sirion for Hermon (9). This is a naming notice, not a visit
+to or conquest of Sidon.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 **The Phoenician port on the Lebanese coast, and the northernmost place Genesis names.**
 
 **It enters the book twice in one chapter and once at the end.** **Genesis 10:15 makes it a person**
@@ -36,6 +43,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Table of Nations]] — Genesis 10:15, 19; **named twice in five verses, first as
   [[Canaan (son of Ham)]]'s firstborn and then as the top of the Canaanite frontier.** **It is the

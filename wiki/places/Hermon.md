@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+The mountain is the northern endpoint of the acquired territory (8). Verse 9 identifies Sirion as
+the Sidonian name and Senir as the Amorite name. The tension with Song 4:8, which pairs Senir and
+Hermon, remains explicit; distinguishing a summit from a wider range is a possible explanation, not
+something these verses establish.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 The highest mountain of the region, at the southern end of the Anti-Lebanon range, north of the
 Sea of Galilee. In the Old Testament it marks the northern limit of the land Israel took east of the
 Jordan: Moses' conquest ran *"from the valley of the Arnon to Mount Hermon"* (Deuteronomy 3:8).
@@ -34,6 +43,7 @@ Deuteronomy 3:9 and Ezekiel 27:5 from the same Sefaria edition. The location is 
 identification and is not argued from the verses here.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8; *"from the top of Senir and Hermon"*.
 

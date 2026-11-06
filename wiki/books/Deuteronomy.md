@@ -49,6 +49,10 @@ provision in the wilderness does not cancel judgment.
 the conquest including civilian deaths, and the continued prohibition on approaching Ammon.
 The comparison with Edomite accommodation in 2:29 remains in tension with Numbers 20.
 
+[[The Defeat of Og Recounted]] (3:1–11) adds the defeat of Og, sixty fortified cities,
+the destruction of civilians, and notices about Hermon’s names and Og’s bedstead. The bedstead’s
+dimensions do not establish Og’s height.
+
 The full plan below is provisional beyond the checked opening unit. It follows discourse and
 subject changes, joining across chapter boundaries where a unit continues.
 
@@ -66,7 +70,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **7 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **8 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -75,7 +79,7 @@ Plan drawn 2026-11-05 from the stored WEB. **7 / 69 pericopes ingested.**
 - [x] [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46
 - [x] [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
 - [x] [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37
-- [ ] The Defeat of Og Recounted — Deuteronomy 3:1–11
+- [x] [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
 - [ ] The Eastern Inheritance and the Charge to Joshua — Deuteronomy 3:12–22
 - [ ] Moses Pleads to Cross the Jordan — Deuteronomy 3:23–29
 - [ ] Hear the Statutes and Remember Horeb — Deuteronomy 4:1–14

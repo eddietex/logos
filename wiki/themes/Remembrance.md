@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+The retelling expands Numbers 21:33–35 with fortified cities, geographical names, and Og’s bedstead
+(4–11). Remembered victory supplies encouragement without concealing the destruction of inhabitants.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Moses recounts the embassy, hardening, battle, and bounded conquest as the explanation of Israel’s
@@ -497,6 +504,7 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

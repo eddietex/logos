@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Og’s kingdom includes sixty fortified cities in Argob and many unwalled villages (4–5). Israel takes
+the kingdom; the territorial summary reaches Salecah and Edrei (10).
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Og is identified as king of Bashan in the retrospective notice (4). The introduction assumes the
@@ -28,6 +35,7 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42

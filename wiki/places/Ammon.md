@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Og’s defeat recalled — Deuteronomy 3:1–11
+
+Rabbah of the children of Ammon is cited as the location of Og’s bedstead (11). This does not
+narrate an Israelite conquest of Ammon or explain how the object arrived there.
+
+See [[The Defeat of Og Recounted]]. Source: stored WEB Deuteronomy 3:1–11.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Israel explicitly stays away from its land and the prohibited riverbanks and hill-country cities
@@ -84,6 +91,7 @@ displaced five chapters before either of them is born.** See
   23:3 read aloud and enforced against Ammonites and Moabites in the same chapter.
 
 ## Appears in
+- [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
