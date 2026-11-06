@@ -24,6 +24,13 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Loving Yahweh is paired with keeping his commandments, and divine loving kindness is promised to thousands (10). This stands beside the judgment warning in verse 9, not in place of it.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 *Because he loved your fathers, therefore he chose their offspring after them* (37). Deuteronomy first names Yahweh's love here, as the reason for the election and the exodus. 7:7–8 (stored WEB, not yet ingested) says the same: *because Yahweh loves you*.
@@ -486,6 +493,9 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; Yahweh *loved your fathers*
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *hated us* answered by a father who carried his son.

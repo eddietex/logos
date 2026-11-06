@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Yahweh identifies himself as Israel’s deliverer, commands exclusive allegiance and neighborly duties, speaks to the assembly, and writes the words on two tablets (6–22). Rescue precedes the demands; the speech joins judgment with loving kindness.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Moses asks whether any people has heard *the voice of God speaking out of the middle of the fire* and lived (33), or whether any god has taken a nation for himself from within another *by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors* (34). The deeds were shown *so that you might know that Yahweh is God. There is no one else besides him* (35). His voice came from heaven and his fire was seen on earth (36). He loved the fathers and chose their offspring (37), and is confessed as *God in heaven above and on the earth beneath. There is no one else* (39). Whether the confession denies that other gods exist or denies that any is like him is debated; see [[There Is No One Else - Deuteronomy 4.35-39, Isaiah 45, and Mark 12.32]].
@@ -3455,6 +3462,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.

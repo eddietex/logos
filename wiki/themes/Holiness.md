@@ -134,6 +134,13 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The Sabbath must be kept holy (12). Here that sanctification is expressed in shared cessation of work and remembrance of rescue, without a new ritual of purification.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 Holy gifts have differentiated uses: most holy portions belong to priestly males,
@@ -674,6 +681,9 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

@@ -155,6 +155,13 @@ See [[Israel at Mount Sinai]] and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Moses stands between Yahweh and the fearful people (5), yet the people themselves hear the divine speech (4, 22). Mediation does not cancel direct hearing; the fuller request for continuing mediation follows in 5:23–33.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Told he will not enter, Moses intercedes for the congregation's future rather than for himself
@@ -500,6 +507,9 @@ See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, a
 and [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 

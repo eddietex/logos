@@ -224,6 +224,13 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The resident stranger receives Sabbath rest within the gates (14); the promise attached to honoring parents concerns the land Yahweh gives (16). No new boundary description is supplied.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Moses is allowed to see *the land which I have given to the children of Israel* (12) but not to
@@ -551,6 +558,9 @@ eastern grant is a full inheritance or something less.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

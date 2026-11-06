@@ -33,6 +33,13 @@ hardest.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Fire, cloud, and thick darkness accompany the public divine voice (22). Darkness here marks the encounter with God; it is not treated as a rival power.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Lamps and weekly bread — Leviticus 24:1–9
 
 The lamp is practical sanctuary light maintained with pure beaten olive oil (2–4).
@@ -333,6 +340,9 @@ The appearance of fire stays over the tabernacle from evening until morning. Unl
 See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

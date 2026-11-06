@@ -95,6 +95,13 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Exclusive allegiance, the ban on images, and the prohibition of worshiping them are repeated (7–10). Divine jealousy accompanies both generational judgment and loving kindness; the commands are grounded in deliverance (6).
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 Moab is called the people of Chemosh in the quoted poem (29). Its portrayal of the deity
@@ -301,6 +308,9 @@ See [[The Work Completed]]. Source: cited passages checked in the stored WEB Gen
 texts, 2026-10-25.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

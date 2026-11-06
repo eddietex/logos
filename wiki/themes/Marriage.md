@@ -86,6 +86,13 @@ has not been so"*, quoting 1:27 and 2:24 and passing over 3:16 entirely.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Adultery and coveting the neighbor’s wife are forbidden (18, 21). Both father and mother must receive honor (16); the command links that honor with life and well-being in the given land.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Field and community — Leviticus 19:19–37
 
 The woman is pledged to another man but remains unfree (20). Betrothal and slavery jointly define
@@ -394,6 +401,9 @@ and his daughter* (16). A widow or divorced woman answers for her own vow (9).
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[Eating the Holy Things]] — Leviticus 22:1–16.

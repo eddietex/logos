@@ -121,6 +121,13 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Misuse of Yahweh’s name carries guilt (11). The unit gives no list of permitted pronunciations and should not be treated as such a list.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The WEB oracle introductions use God, Almighty, and Most High (24:4, 16), while the narrative names
@@ -250,6 +257,9 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; *there is no one else*
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

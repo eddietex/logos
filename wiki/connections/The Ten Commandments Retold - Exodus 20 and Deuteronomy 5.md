@@ -8,10 +8,15 @@ tags: [connection]
 ## Passages involved
 
 - [[The Ten Commandments]] — Exodus 20:1–21.
-- Deuteronomy 5:1–33 — Moses retells the covenant speech and the request for mediation; verified
-  WEB, not yet ingested.
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22, now ingested.
+- Deuteronomy 5:23–33 — the request for mediation; checked in stored WEB, awaiting ingestion.
 
 ## Analysis
+
+The current passage identifies the living assembly with the Horeb covenant (5:2–3). Its direct
+hearing and Moses’ mediation are both stated (4–5, 22); neither should erase the other.
+The closing limit on public speech (22) does not preclude further mediated instruction (31).
+
 
 The two accounts share the deliverance preface and the sequence of duties toward God and neighbor.
 Both include the warning about generations, the protection of the divine name, Sabbath rest for the
@@ -43,6 +48,8 @@ simply because the later retelling includes them.
 
 **Sources:** Exodus checked in `raw/bible/Exodus.md`; Deuteronomy verified 2026-10-23 from
 bible-api.com's WEB, request `Deuteronomy 5:1-33?translation=web`.
+
+Source update, 2026-11-05: Deuteronomy 5 and Exodus 20 rechecked in the stored WEB.
 
 ## Significance
 

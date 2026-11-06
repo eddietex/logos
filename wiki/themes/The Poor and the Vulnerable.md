@@ -53,6 +53,13 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Servants and resident strangers receive rest alongside the household head (14). The point is protection for those under another’s authority; their poverty is not asserted of every individual.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Vows, valuations, and devoted things — Leviticus 27:1–34
 
 A vower *poorer than your valuation* is assessed by what he can reach (8), with the *mûk* of the
@@ -431,6 +438,9 @@ treats a man (2); it adds no protection and no further burden.
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; the foreigner and *the small* in the same court.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

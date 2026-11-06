@@ -22,7 +22,7 @@ tags: [connection]
 - [[The Creation of the World]] — Genesis 2:2–3.
 - [[Manna and Quail]] — Exodus 16:22–30, Sabbath practiced before the Sinai speech.
 - [[The Ten Commandments]] — Exodus 20:8–11.
-- Deuteronomy 5:12–15 — the parallel Sabbath instruction; verified WEB, not yet ingested.
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:12–15; now ingested from stored WEB.
 
 - [[The Work Completed]] — Exodus 39:32–43; Completion and blessing evoke creation without a new rest command.
 
@@ -127,6 +127,9 @@ construction period or an additional Sabbath observance.
 
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
+
+Source update, 2026-11-05: Deuteronomy 5:12–15 rechecked in the stored WEB. The explicit
+shared-rest purpose remains alongside the household hierarchy visible in 5:21.
 
 ## Significance
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Named as the place of the covenant (2), the mountain is recalled as the scene of fire, cloud, darkness, public divine speech, and the giving of two tablets (4–5, 22). No modern location is supplied.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Not named, but the scene of verses 33 and 36: a people heard *the voice of God speaking out of the middle of the fire* and lived. Verse 36 adds that the voice came *out of heaven* while the fire was seen *on earth*.
@@ -656,6 +663,9 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40; the voice heard and survived
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

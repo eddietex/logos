@@ -90,6 +90,13 @@ noticing into doctrine.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Yahweh speaks to the assembly and writes the words on tablets (22). Human speech is accountable too: misuse of the divine name and false testimony against a neighbor are forbidden (11, 20).
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Balaam repeats that even a house full of silver and gold cannot authorize speech from his own mind
@@ -642,6 +649,9 @@ See [[Vows of Men and Women]] and
 [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

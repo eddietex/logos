@@ -53,6 +53,13 @@ which Genesis treats as ordinary and which belong to [[Marriage]], nor the speci
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The prohibition of adultery (18) stands beside the prohibition of coveting a neighbor’s wife (21). Conduct and desire are both addressed in this law, without waiting for a later interpretation.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Field and community — Leviticus 19:19–37
 
 Intercourse with the pledged slave woman incurs punishment and requires the man’s ram and priestly
@@ -294,6 +301,9 @@ infidelity. The Prophets will use the word in this figurative way. See
 [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

@@ -22554,3 +22554,24 @@ All six quoted verses come from stored WEB Deuteronomy 4:44–49; comparisons us
 Deuteronomy. No external quotation, exact source-language claim, raw-text modification,
 or harness change was needed. Existing connections were expanded rather than duplicated.
 Link checks passed with no findings (57 expected not-yet-started book targets).
+
+## [2026-11-05] ingest | Deuteronomy 5.1-22 — The Ten Commandments Recounted
+
+Ingested one planned unit from the stored WEB, retaining the 5:1–22 boundary. Created the
+passage page; revised Deuteronomy’s overview and queue (16 / 69), the Exodus parallel passage,
+God and Moses, Egypt and Horeb, 24 themes, and two existing connections. Updated the affected
+category rows, book status count, and dashboard: 341 passages, 257 people, 216 places,
+87 themes, 727 connections; 9 books started, 8 complete. Total: 1 page created and 40 revised,
+including indexes and this log.
+
+The discussion is incorporated into the passage: living-assembly covenant identity, direct
+hearing alongside mediation, liberation-grounded Sabbath rest, continuing servitude, and the
+changed household list. Fathers in 5:3 is left interpretively open. The tension with Job’s
+objection to punishment deferred to children remains explicit. Corrected Sabbath’s overly
+universal creation-rationale claim and removed its stale pending-ingestion note for this unit.
+Reused the existing Exodus/Deuteronomy and Sabbath connections rather than creating duplicates.
+
+All new Bible quotations come directly from stored WEB; comparisons checked in Deuteronomy 2,
+4–5, Exodus 20, and Job 21. No new source-language assertion, external quotation, raw change,
+schema change, or harness change. The next unit, 5:23–33, remains unchecked.
+Link checks clean (exit 0; 57 expected unstarted-book targets); no unresolved link issue.

@@ -62,6 +62,13 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Theft and coveting are forbidden (19, 21). Compared with Exodus 20:17, the wife is named first and the field is explicitly included; the law addresses acquisition and desire.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Balak withdraws promised honor, and Balaam repeats the hypothetical house full of silver and gold
@@ -770,6 +777,9 @@ rebuke is interpretation.
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

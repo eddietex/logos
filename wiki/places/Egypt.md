@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The land of bondage is named in the divine self-identification (6) and in the reason for Sabbath observance (15). It is a remembered place of servitude and rescue, not the setting of Moses’ present address.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The departure from Egypt supplies the historical frame for the instruction and the defeat of Sihon (45–46). This compressed retrospect does not date the battle to the day of departure; Deuteronomy 1:3–4 places the address in the fortieth year after the victories.
@@ -309,6 +316,9 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Appears in
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.

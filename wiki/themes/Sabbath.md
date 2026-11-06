@@ -7,8 +7,9 @@ tags: [theme]
 ## Definition / overview
 
 The seventh day, on which God rested from the work of creation, blessed the day, and made it
-holy (Genesis 2:2–3). Everything the Bible later builds on Sabbath — commandment, sign, sabbath
-year, jubilee, and the rest promised in Hebrews — is anchored to these two verses.
+holy (Genesis 2:2–3). Creation supplies the rationale in Exodus 20:11. **The earlier claim that every Sabbath
+rationale is anchored to creation was too broad:** Deuteronomy 5:15 explicitly grounds the
+command in remembered bondage and rescue. Both stated grounds must remain visible.
 
 Four things the creation account establishes, before any law exists:
 
@@ -26,6 +27,13 @@ The word *shabbat* itself does not appear here — only the verb *shabat*, "he r
 day being counted, blessed, and hallowed is what Exodus 20:11 will point back to.
 
 ## Development across Scripture
+
+### The commandments recounted — Deuteronomy 5:1–22
+
+The explicit rationale here is remembered slavery and rescue (15), and servants must rest as the addressee does (14). Exodus 20:11 grounds the same duty in creation. These differing reasons must remain distinct; creation is not the only stated biblical ground for Sabbath.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
 
 ### The Sabbath breaker — Numbers 15:32–36
 
@@ -127,9 +135,8 @@ See [[Be Holy and Love Your Neighbor]]. Source: stored WEB Leviticus 19:1–18.
   seventh day"*** (16:30) — **the first time people are the subject of *šābat*** (WLC lemma search,
   Genesis–Exodus). **The first Sabbath-breakers are not punished; they find nothing** (16:27), and God asks
   *"How long do you refuse to keep my commandments and my laws?"* (16:28). See [[Manna and Quail]].
-- To trace as ingestion reaches them: Deuteronomy 5:12–15 (the same commandment
-  grounded instead in the exodus from Egypt — two different rationales for one command, worth
-  holding side by side), Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
+- Deuteronomy 5:12–15 is now ingested in [[The Ten Commandments Recounted]]; its exodus
+  rationale stands beside creation. Still to trace as ingestion reaches them: Isaiah 58:13–14, Mark 2:23–3:6 (*"The Sabbath was made for man"*), and
   Hebrews 3:7–4:11 (a sabbath rest still remaining).
 
 **Before Sinai, the first rest in Israel's story is the one Pharaoh forbids.** When Moses asks for
@@ -239,6 +246,9 @@ own (29:6).
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[The Sabbath Breaker]] — Numbers 15:32–36.
 

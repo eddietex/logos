@@ -169,6 +169,13 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Remembering bondage and deliverance produces a concrete duty to give others rest (15). This differs from Exodus 20:8–11, where remembering the day is connected with creation.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 The poem preserves the memory of Moab’s defeat and Sihon’s power (27–30), while the surrounding
@@ -523,6 +530,9 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

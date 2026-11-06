@@ -247,6 +247,13 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Hearing is directed toward learning and doing (1). The public words become two stone tablets (22). The statement that Yahweh added no more describes this public speech, not an end to all further instruction: 5:31 explicitly anticipates more.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Balaam states that he cannot go beyond Yahweh’s word for good or bad on his own initiative (24:13).
@@ -1106,6 +1113,9 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

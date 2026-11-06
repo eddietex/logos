@@ -187,6 +187,13 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Murder is forbidden (17), while honoring parents carries a promise of long life and well-being in the land (16). The promise does not give a case-by-case explanation of premature death.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Joshua commissioned — Numbers 27:12–23
 
 Moses is told to see the land and then be gathered to his people *as Aaron your brother was
@@ -803,6 +810,9 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 

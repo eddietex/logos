@@ -224,6 +224,13 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The image prohibition includes visiting ancestral iniquity upon the third and fourth generation of those who hate Yahweh (9). The tension with Job’s objection to punishment stored up for children (Job 21:19–21) remains; neither text simply cancels the other.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Sihon and Og — Numbers 21:21–35
 
 Og’s defeat includes his sons and all his people, leaving no survivors (35). Divine delivery is
@@ -806,6 +813,9 @@ punishment is measured at a year for a day (34). The men who brought the report 
 (37). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

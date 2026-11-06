@@ -37,6 +37,13 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Six days of labor are followed by a rest that the household head must extend to children, servants, animals, and the resident stranger (13–14). The command limits the power to require others to work.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 The tithe is explicitly compensation for Levite service at the Tent (21, 31).
@@ -722,6 +729,9 @@ forms checked for 29:1, 7, 35 in MAM via Sefaria. The text does not define the d
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[The Journey to Moab]] — Numbers 21:10–20.
 

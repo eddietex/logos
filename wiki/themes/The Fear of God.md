@@ -55,6 +55,13 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Fear of the fire keeps Israel from ascending the mountain, and Moses stands between them and Yahweh (5). This verse describes fear within an encounter, without itself declaring that fear disobedient.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 Yahweh assembles the people to hear his words *that they may learn to fear me all the days that they live on the earth, and that they may teach their children* (10). Fear is learned by hearing and handed on by teaching.
@@ -409,6 +416,9 @@ See [[The Twelve Spies]].
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; fear learned at Horeb and taught to children.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; fear of the peoples displacing trust.

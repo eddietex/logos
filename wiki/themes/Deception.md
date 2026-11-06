@@ -46,6 +46,13 @@ else. See [[The Fall]].
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+False testimony against a neighbor is prohibited (20). The command names the person harmed by the testimony; it is not merely a warning about the speaker’s reputation.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Holiness and the neighbor — Leviticus 19:1–18
 
 Lying and deceiving one another are explicitly forbidden beside stealing (11). Unlike narratives
@@ -343,6 +350,9 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 

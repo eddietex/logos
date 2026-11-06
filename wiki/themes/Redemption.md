@@ -66,6 +66,13 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The identity of the lawgiver rests on bringing Israel out of bondage (6). That rescue becomes the explicit reason for giving servants Sabbath rest (14–15), without any ransom payment being described.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Edom refuses passage — Numbers 20:14–21
 
 The embassy summarizes the exodus as Yahweh hearing the cry, sending an angel, and
@@ -262,6 +269,9 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

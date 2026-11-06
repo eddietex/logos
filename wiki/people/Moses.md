@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Moses summons all Israel to hear, learn, and do, identifies the living assembly with the Horeb covenant, and recalls standing between Yahweh and the people (1–5). He receives the two tablets (22); his mediation does not erase the assembly’s direct hearing.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The narrator identifies Moses as the speaker who sets the law before Israel (44–45), and recalls Moses and Israel striking Sihon (46). This framing voice is distinct from Moses’ direct address.
@@ -1517,6 +1524,9 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

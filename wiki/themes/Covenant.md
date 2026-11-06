@@ -99,6 +99,13 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Moses calls the Horeb covenant the covenant of the living assembly (2–3). The contrast with the fathers is emphatic, but does not erase the ancestral covenant remembered in 4:31. Corporate identification with Horeb is explicit; whether fathers means patriarchs or the earlier generation is not settled here.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Duties and portions — Numbers 18:1–32
 
 The lasting grant of holy portions to Aaron and his offspring is called a covenant
@@ -390,6 +397,9 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

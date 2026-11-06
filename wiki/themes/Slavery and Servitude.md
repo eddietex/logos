@@ -44,6 +44,13 @@ with a woman it owns.
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+Former bondage grounds equal Sabbath rest for male and female servants (14–15). Yet servants remain in the neighbor’s household list (21). Protection of rest is explicit; universal emancipation is not commanded by this unit.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 ### Poor brother and service — Leviticus 25:35–55
 
 The brother may be sold but not worked as a slave: he is *as a hired servant*, goes out at Jubilee
@@ -314,6 +321,9 @@ are identified on the passage and connection pages.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Blessings for Obedience]] — Leviticus 26:1–13.
 

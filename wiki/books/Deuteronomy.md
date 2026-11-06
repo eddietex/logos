@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Ten Commandments Recounted]] (5:1–22) binds the living assembly to Horeb’s covenant.
+The public words are recalled and written on tablets; Sabbath rest is explicitly grounded
+in remembered bondage and rescue, differing from Exodus 20’s creation rationale.
+
+
 [[The Setting of the Covenant Instruction]] (4:44–49) introduces the law in the valley opposite Beth Peor,
 east of the Jordan. The narrator ties the instruction to the exodus journey and the already
 conquered kingdoms of Sihon and Og before Moses resumes direct speech.
@@ -104,7 +109,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **15 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **16 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -121,7 +126,7 @@ Plan drawn 2026-11-05 from the stored WEB. **15 / 69 pericopes ingested.**
 - [x] [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40
 - [x] [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43
 - [x] [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49
-- [ ] The Ten Commandments Recounted — Deuteronomy 5:1–22
+- [x] [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22
 - [ ] The People's Request for a Mediator — Deuteronomy 5:23–33
 - [ ] Hear Israel and Love Yahweh — Deuteronomy 6:1–9
 - [ ] Do Not Forget When You Are Full — Deuteronomy 6:10–25

@@ -19,6 +19,13 @@ up as a divine attribute — with the Bible never explaining how one word can do
 
 ## Development across Scripture
 
+### The commandments recounted — Deuteronomy 5:1–22
+
+The demand not to covet reaches a neighbor’s wife, house, field, servants, animals, and everything belonging to the neighbor (21). This is a thematic connection with envy, not a claim that all these English terms translate the same Hebrew word.
+
+See [[The Ten Commandments Recounted]]. Source: stored WEB Deuteronomy 5:1–22.
+
+
 **Genesis 26:14 — the first *qānāʾ*, and it is about a harvest.**
 
 > **12** Isaac sowed in that land, and reaped in the same year one hundred times what he planted.
@@ -193,6 +200,9 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
+
 
 - [[Love Is Strong as Death]] — Song of Solomon 8:5–7.
 
