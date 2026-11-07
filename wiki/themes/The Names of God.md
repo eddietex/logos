@@ -121,6 +121,12 @@ everlasting possession, by treaty with its current occupant.
 
 ## Development across Scripture
 
+### Ministering in Yahweh's name — Deuteronomy 18:5–7
+
+The priest is chosen *"to stand to minister in Yahweh's name"* (5), and the Levite from the towns *"shall minister in the name of Yahweh his God"* (7) — *bəšēm YHWH* (WLC). In 10:8 the tribe was set apart *"to bless in his name"*. The name placed at the chosen place (12:5, 11) is the name its ministers serve in.
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### The name placed at the chosen place — Deuteronomy 12:1–28
 
 The nations' gods have their *name* destroyed from their places (3); Yahweh puts his *name* at the place he chooses (5, 11, 21). The pairing is noted from the WEB wording; no claim is made about the Hebrew.
@@ -500,6 +506,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24; *"every place where I record my name"*
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the name placed *"in"* the angel sent ahead.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:27; *they shall put my name on the children of Israel*.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; ministering *"in Yahweh's name"* (5, 7).
 
 ## Related themes
 

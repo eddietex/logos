@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The priests' portion — Deuteronomy 18:1–8
+
+Moses, unnamed in the passage, gives the law of the priests' due — the shoulder, cheeks, and inner parts, and the first fruits and fleece — and secures the Levite from the towns an equal place and share at the chosen place.
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### The law for a future king — Deuteronomy 17:14–20
 
 Moses, unnamed, gives the only law of the Torah about a king, for an office that will not exist until long after his death. Israel's request is quoted in advance, *"I will set a king over me, like all the nations"* (17:14), and granted with limits. The king is to copy *"this law"* from the priests' text and read it all his life (18–19): the law Moses speaks becomes the book the king lives under. See [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]].
@@ -2020,6 +2026,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; commands Passover, weeks, and tents at the chosen place.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; commands courts in the gates; sends the hard case to the place instead of to himself.
 - [[The Law for the King]] — Deuteronomy 17:14–20; gives the law of the king, who must copy and read *"this law"*.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; gives the priests' due and the country Levite's right.
 
 ## Related people
 

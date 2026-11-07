@@ -131,6 +131,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - 1 Samuel 8:4–22 *(not yet ingested)* — Israel asks for a king *"like all the nations"*.
 - 1 Kings 10:14–11:4 *(not yet ingested)* — Solomon's gold, horses from Egypt, and many wives who
   turned his heart. WEB checked; quoted in the notes.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the next pericope. The priests the Levites, keepers of the
+  law the king copies, and their due.
 
 ## Notes
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The priests' due and the Levite from the towns — Deuteronomy 18:1–8
+
+*"The priests the Levites, all the tribe of Levi"* (1): Deuteronomy's fullest statement of who the priests are. The tribe has no portion nor inheritance and eats the offerings by fire; the priest receives fixed cuts and first fruits (3–4), chosen *"out of all your tribes"* (5). A Levite who sojourns in a town may come to the place, minister as his brothers do, and eat like portions (6–8). Whether this gives every Levite the altar right Numbers 18 reserves for Aaron's sons is left open. The scattering of Genesis 49:7 appears here as a tribe living in *"any of your gates out of all Israel"* (6), though Deuteronomy does not connect the two.
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### The Levite at the tithe meal — Deuteronomy 14:22–29
 
 *"You shall not forsake the Levite who is within your gates, for he has no portion nor inheritance with you"* (14:27) repeats 12:19. The Levite shares the household's tithe meal, and every third year he is first among those for whom the tithe is stored in the towns (28–29). Numbers 18:21–24 gives the Levites the whole tithe; Deuteronomy does not say whether that still applies. See [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
@@ -317,6 +323,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:5–9; the tribe receives the wagons.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the tribe cleansed and offered.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; not to be forsaken; first among the third-year tithe's recipients.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; *"all the tribe of Levi"*, its due, and the country Levite at the place.
 
 ## Related people
 

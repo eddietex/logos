@@ -149,6 +149,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - 2 Chronicles 19:5–11 — Jehoshaphat sets judges in the cities and a court of priests, Levites, and
   heads of families at Jerusalem. Not yet ingested and not quoted; the parallel is commonly drawn.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the next pericope. The king is held to the same *"right hand … left"* (17:20) as the court's verdict (17:11).
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; *"the priests the Levites, all the tribe of Levi"* (18:1),
+  and the country Levite who ministers *"as all his brothers the Levites do, who stand there before
+  Yahweh"* (18:7).
 
 ## Notes
 
@@ -303,8 +306,8 @@ does not say which.
 only in Deuteronomy, at 17:9, 17:18, 18:1, 24:8, and 27:9 (WLC search for the two nouns in sequence,
 morphhb). Deuteronomy 18:1 defines it: *"The priests the Levites, all the tribe of Levi"*. Whether
 Deuteronomy distinguishes priests from other Levites, as Numbers does, or treats all Levites as
-eligible for priesthood, is a long-standing question; 18:1–8 is its main text and is not yet
-ingested. See [[The Priests Who Kept Their Land and the Levites Who Got None]].
+eligible for priesthood, is a long-standing question; 18:1–8 is its main text, now ingested as
+[[The Portion of the Priests and Levites]], which records the readings and adopts none. See [[The Priests Who Kept Their Land and the Levites Who Got None]].
 
 *"The judge who shall be in those days"* (9) is a single officer, not a council. Verse 12 also
 narrows *"the priests"* to *"the priest who stands to minister there before Yahweh"*. The text does

@@ -23279,3 +23279,48 @@ against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 5:32; 8:13–1
 15:3; 17:8–20; 28:14, 68; Exodus 14:13; 1 Samuel 8:5, 20 — retrieved 2026-11-07. No Hebrew claim
 is made for 1 Kings 11, Numbers 20, Proverbs, or Joshua. Raw files, canonical workflow
 instructions, and controller files were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 18.1-8 — The Portion of the Priests and Levites
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and two connections:
+[[The Custom of the Priests - Deuteronomy 18.3 and 1 Samuel 2.13-16]], which sets the priests' due
+beside Eli's sons under the same Hebrew heading, *mišpaṭ hakkōhănîm*, and
+[[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]], which sets the country
+Levite's right beside the priests Josiah brought in but kept from the altar. Revised 29 existing
+pages including this log: Deuteronomy (box checked, overview, Land and Sojourning added as a key
+theme); three people (God, Moses, Levi); seven themes (Priesthood, Land and Sojourning, Sacrifice and
+Offering, Festivals and First Fruits, Call and Election, Brotherhood, The Names of God); four
+connections (Yahweh as Levi's Inheritance, The Breast and the Right Thigh, The Priests Who Kept Their
+Land and the Levites Who Got None, Within Your Gates); eight earlier passage pages (Cross-references:
+Judges, Worship, and Difficult Cases, whose note on 18:1–8 as "not yet ingested" now links it; The
+Law for the King; New Tablets and the Journey Onward; The Place Yahweh Will Choose; Tithes for
+Feasting and Provision; The Duties and Portions of Priests and Levites; Fat, Blood, and the Priests'
+Share; Redemption of Land and Houses); and five index/dashboard pages. Deuteronomy is now 39 / 69.
+The book page's own count read 37 / 69 after the previous ingest while 38 boxes were checked; it now
+reads 39, matching the checklist and `wiki/books/index.md`. Counts by frontmatter type are 364
+passages, 257 people, 222 places, 87 themes, and 754 connections.
+
+Apparent contradiction recorded, not resolved: Deuteronomy 18:3 gives the priest the shoulder,
+cheeks, and stomach of an ox or sheep; Leviticus 7:31–34 gives the breast and right thigh of the
+peace offering. Written out on The Breast and the Right Thigh with the proposed harmonizations
+(home slaughter, addition, differing practice) and Numbers 6:19–20 as the one Torah text where a
+shoulder is given alongside breast and thigh. The distinction-by-rite already on that page is noted
+as not obviously applying here.
+
+Judgment calls: no person pages for the unnamed priest, the country Levite, Eli, or Josiah; no place
+page for the chosen place. The following are recorded and not resolved: whose *naḥălâ* the tribe
+eats in 18:1 (WEB *"his portion"*); whether *"him and his sons"* (18:5) means Aaron's line or the
+tribe; whether 18:7 makes every Levite eligible for altar service, against Numbers 18:1–7 (three
+readings given; Numbers 16:9 shows the same verbs used of non-priestly Levites); what *"the sale of his
+family possessions"* (18:8) was; and how 2 Kings 23:9 relates to the law. The gloss of *qēbâ* as a
+particular ruminant stomach is marked unverified at the point of the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 10:8–9; 12:2–3, 12, 15, 19–21;
+14:27–29; 17:12, 18; 18:1–8; 21:5; Leviticus 7:31–34; 25:32–34; Numbers 6:19–20; 16:9; 18:8–24.
+1 Samuel 2:12–17 and 2 Kings 23:8–9 checked at bible-api.com (`translation=web`), 2026-11-07;
+neither book was fetched into raw/. Hebrew claims checked against WLC from morphhb (openscriptures,
+GitHub) — Deuteronomy 10:8–9; 12:15, 20–21; 17:12; 18:1–8; 21:5; Leviticus 7:34; 25:33; Numbers
+6:19; 16:9; 18:12, 20; 1 Samuel 2:13; 2 Kings 23:9 — with lemma searches for 185, 801, 1116, 1488,
+2220, 3895, 4465, 6896 and a sequence search for *mišpāṭ* + *kōhănîm*, retrieved 2026-11-07. Raw
+files, canonical workflow instructions, and controller files were unchanged.

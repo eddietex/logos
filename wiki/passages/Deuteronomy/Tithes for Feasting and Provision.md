@@ -100,6 +100,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   working or shearing it and a rule for the defective firstling. See
   [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
 - [[The Law for the King]] — Deuteronomy 17:19; the king reads the law *"that he may learn to fear Yahweh his God"*, the aim of the tithe meal (14:23).
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the Levite who *"has no portion nor inheritance"* (14:27) and
+  what he eats at the place.
 
 ## Notes
 

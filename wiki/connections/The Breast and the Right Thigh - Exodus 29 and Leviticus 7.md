@@ -13,6 +13,7 @@ tags: [connection]
 
 - [[The Ordination of the Priests]] — Exodus 29:22–28.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:28–36.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:3–4.
 
 ## Analysis
 
@@ -59,6 +60,27 @@ matters when comparing the portions.
 
 Source for this addition: stored WEB Leviticus 4:1–12; 7:28–38; 8:33–36; 9:1–24
 and Exodus 40:34–38, checked 2026-10-29.
+
+### Different cuts — Deuteronomy 18:3
+
+Deuteronomy 18:3 names a different priestly share: *"from those who offer a sacrifice, whether it be
+ox or sheep, … the shoulder, the two cheeks, and the inner parts"*. In the WLC these are *zərōaʿ*,
+*ləḥāyayim*, and *qēbâ*. The last two occur nowhere else in Genesis–Deuteronomy, and *zərōaʿ* as a
+sacrificial cut only at Numbers 6:19, where the Nazirite's boiled shoulder is waved *"together with
+the breast that is waved and the thigh that is offered"* (6:20). Leviticus 7:34 names *ḥăzê
+hattənûpâ* and *šôq hattərûmâ*.
+
+**Apparent contradiction, recorded and not resolved.** Leviticus gives the breast and right thigh of
+the peace offering; Deuteronomy gives the shoulder, cheeks, and stomach of a sacrifice of ox or sheep,
+and does not mention breast or thigh. Proposed harmonizations: Deuteronomy's portions come from
+animals slaughtered for food in the towns (12:15, 21); they are an addition to Leviticus' portions;
+or the two laws reflect different practice. Numbers 6:19–20 shows a shoulder given alongside breast
+and thigh in one rite, so the cuts are not mutually exclusive in principle; it does not show that
+Deuteronomy 18:3 means the same. The distinction-by-rite used above for Exodus 29 and Leviticus 7 does
+not obviously apply here, since both laws describe continuing provision.
+
+Source: stored WEB Leviticus 7:31–34; Numbers 6:19–20; Deuteronomy 12:15, 21; 18:3. Hebrew from WLC
+(morphhb), lemma searches for 2220, 3895, 6896 across Genesis–Deuteronomy, retrieved 2026-11-07.
 
 ## Significance
 

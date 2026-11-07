@@ -84,6 +84,9 @@ is named. See [[The Dwelling of God]]. No new place page is needed.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the clean firstborn eaten by the owner's
   household, where 18:18 gives its meat to Aaron. See
   [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no inheritance and Yahweh as inheritance (18:20 here), first
+  fruits of oil, wine, and grain (18:12 here), but different cuts of the sacrifice and no stated
+  priest–Levite distinction.
 
 ## Notes
 

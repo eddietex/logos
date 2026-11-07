@@ -12,6 +12,12 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### First fruits to the priest — Deuteronomy 18:4
+
+*"The first fruits of your grain, of your new wine, and of your oil, and the first of the fleece of your sheep, you shall give him"* (4). Numbers 18:12 gives Aaron the first fruits of the same three crops. The fleece is new: *gēz* occurs nowhere else in the Torah (WLC).
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### Three feasts at the place — Deuteronomy 16:1–17
 
 Deuteronomy's calendar keeps the three feasts of Exodus 23 and 34 and names them unleavened bread, weeks, and tents (16:16). It gives no day of the month for any of them: Passover is kept in *"the month of Abib"* (1), weeks is counted from the first cutting of the grain (9), and tents follows the gathering from threshing floor and wine press (13). It has no sheaf or loaves, no living in shelters, and no eighth day (compare Leviticus 23). What it adds is the chosen place for all three, including the Passover, which *"You may not sacrifice … within any of your gates"* (5); the household and its dependants rejoicing; and gifts *"according to Yahweh your God's blessing"* (17). The seventh day of unleavened bread is an *ʿăṣeret* (8), the word Leviticus 23:36 and Numbers 29:35 use only for the eighth day after booths (WLC lemma search, morphhb).
@@ -215,6 +221,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the recurring calendar under the annual feasts: daily, Sabbath, and new moon
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the animals for Unleavened Bread, the first fruits, and the seventh month
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the three feasts at the chosen place, without dates; joy, dependants, and gifts by blessing.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; first fruits of grain, wine, oil, and fleece to the priest (4).
 
 ## Related themes
 

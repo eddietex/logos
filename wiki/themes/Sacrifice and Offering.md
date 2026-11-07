@@ -93,6 +93,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### The priest's cut of the sacrifice — Deuteronomy 18:1–5
+
+The tribe of Levi eats *"the offerings of Yahweh made by fire"* (1), and from *"those who offer a sacrifice, whether it be ox or sheep"*, the priest receives *"the shoulder, the two cheeks, and the inner parts"* (3). Leviticus 7:31–34 gives the breast and right thigh of the peace offering instead. Whether Deuteronomy's cuts come from home slaughter (12:15, 21), add to Leviticus', or reflect other practice is not settled by the text. See [[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]].
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### No defective ox or sheep — Deuteronomy 17:1
 
 *"You shall not sacrifice to Yahweh your God an ox, or a sheep, in which is a defect, or anything evil; for that is an abomination to Yahweh your God"* (17:1). The firstling rule of 15:21 is made general, and the word *abomination* is the one used three verses later for worshipping the stars (17:4).
@@ -974,6 +980,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling eaten at the place, the defective one barred from sacrifice.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Passover sacrificed only at the chosen place (5–6); freewill gifts, and no one empty (10, 16).
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no defective ox or sheep; *an abomination* (17:1).
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the offerings by fire as Levi's food; shoulder, cheeks, and inner parts (3).
 
 ## Related themes
 

@@ -93,6 +93,8 @@ locates the offering laws in Yahweh's commands to Moses at Sinai.
 - [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] — the earlier food limits developed here.
 - [[Who May Eat the Holy Portions - Leviticus 6 and 7]] — broad participation does not cancel reserved shares.
 - [[The Breast and the Right Thigh - Exodus 29 and Leviticus 7]] — ordination and continuing priestly provision.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:3; the shoulder, cheeks, and inner parts, where this passage gives
+  the breast and right thigh.
 
 ## Notes
 

@@ -38,6 +38,12 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### The Levite among his brothers — Deuteronomy 18:1–8
+
+Levi has no inheritance *"among their brothers"* (2), and the Levite who comes from the towns serves *"as all his brothers the Levites do"*, with *"like portions to eat"* (7–8). Within the tribe, brotherhood means equal standing for the newcomer at the place. 2 Kings 23:9's priests who *"ate unleavened bread among their brothers"* but did not go up to the altar are set beside this on [[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]].
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### The brother sold into service — Deuteronomy 15:12–18
 
 The servant is first *"your brother"* and only then *"a Hebrew man, or a Hebrew woman"* (15:12), where Exodus 21:2 says only *"a Hebrew servant"*. The brother whose debts are released in 15:1–11 is now the brother whose person is released.
@@ -378,6 +384,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the release is for the brother, not the foreigner (2–3).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant named *"your brother"* before *"a Hebrew"* (12).
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king *"from among your brothers"* (15), not lifted *"above his brothers"* (20).
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no inheritance among the brothers (2); the newcomer serves as his brothers the Levites (7).
 
 ## Related themes
 

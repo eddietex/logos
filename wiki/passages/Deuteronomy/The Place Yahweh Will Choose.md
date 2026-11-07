@@ -133,6 +133,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   all in the words of 12:15–16, 22–24.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the place named six times for the three feasts, and the
   rejoicing of 12:12, 18 widened to the foreigner, the fatherless, and the widow.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8; the Levite *"within your gates"* (12:12, 18) may come to the
+  place and serve and eat with his brothers.
 
 ## Notes
 

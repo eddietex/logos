@@ -94,6 +94,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   verb and noun run through the whole unit.
 - [[A Stranger and a Foreigner - The Sojourner's Confession]] — verse 23 applies Abraham's
   two nouns of Genesis 23:4 to Israel, with Yahweh as the landowner.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:8; *mimkār*, *sale*, otherwise in the Torah only in this chapter,
+  used of what a Levite may have sold.
 
 ## Notes
 

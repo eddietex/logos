@@ -98,6 +98,12 @@ nations is an interpretation of this combination, not an explicit missionary com
 
 ## Development across Scripture
 
+### The priest chosen out of all the tribes — Deuteronomy 18:5–6
+
+*"Yahweh your God has chosen him out of all your tribes, to stand to minister in Yahweh's name, him and his sons for ever"* (5), with the *bāḥar* of the place, named again in the next verse: *"the place which Yahweh shall choose"* (6). *"Out of all your tribes"* points to Levi as a tribe; 21:5 says the same of *"the priests the sons of Levi"*. Aaron is not named.
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### Chosen as his own possession — Deuteronomy 14:2
 
 *"Yahweh has chosen you to be a people for his own possession, above all peoples"* (14:2) repeats 7:6. The election clause becomes the ground of ordinary law: what Israel eats and how it mourns. The phrase is *ʿam səgullâ* (WLC 14:2, morphhb).
@@ -376,6 +382,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Israel at Mount Sinai]] — Exodus 19:4–6; rescued Israel called to belong and serve
 - [[A Holy People and Its Food]] — Deuteronomy 14:2; election repeated as the ground of the food law.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king *"whom Yahweh your God chooses"* (15).
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priest *"chosen … out of all your tribes"* (5).
 
 ## Related themes
 

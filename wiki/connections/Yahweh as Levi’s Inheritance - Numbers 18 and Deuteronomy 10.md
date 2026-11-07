@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Duties and Portions of Priests and Levites]]
 - [[The Levitical Cities and the Cities of Refuge]]
 - [[Tithes for Feasting and Provision]]
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 
 ## Analysis
 
@@ -34,6 +35,25 @@ towns. Numbers 18:21–24 answers the same lack by giving the Levites the whole 
 provisions differ; see [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
 
 Sources: stored WEB Deuteronomy 10:8–9; 14:27–29; Numbers 18:1–24; 35:1–8.
+
+### Deuteronomy 18:1–8 now ingested
+
+18:1–2 restates the rule a third time in Deuteronomy: *"The priests the Levites, all the tribe of
+Levi, shall have no portion nor inheritance with Israel. … Yahweh is their inheritance, as he has
+spoken to them."* The words *"as he has spoken to them"* (also 10:9) point back to a promise; the
+nearest stored form is Numbers 18:20, said to Aaron. In place of land, 18:1 gives the tribe *"the
+offerings of Yahweh made by fire"*, and 18:3–4 the priest's cuts and first fruits. That is
+Deuteronomy's counterpart to Numbers 18:8–19, not to Numbers 18:21–24's tithe.
+
+The scope tension noted above is sharpest here. 18:5 says Yahweh chose *"him out of all your
+tribes, to stand to minister in Yahweh's name, him and his sons"*, and 18:7 says the Levite from the
+towns *"shall minister … as all his brothers the Levites do, who stand there before Yahweh"*, with
+the same verbs (WLC *ʿāmad*, *šārat*). Numbers 16:9 uses those verbs of the Levites' non-priestly
+service, so the vocabulary alone does not show that every Levite serves at the altar. The passage
+page records the readings and adopts none.
+
+Source: stored WEB Deuteronomy 18:1–8; Numbers 16:9; 18:8–24. Hebrew from WLC (morphhb), retrieved
+2026-11-07.
 
 ## Significance
 

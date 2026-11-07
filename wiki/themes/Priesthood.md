@@ -142,6 +142,12 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### The priests' due and the Levite from the towns — Deuteronomy 18:1–8
+
+*"The priests the Levites, all the tribe of Levi"* have no portion nor inheritance with Israel and eat *"the offerings of Yahweh made by fire"* (1–2). The priest receives the shoulder, the two cheeks, and the inner parts of each ox or sheep sacrificed, and the first fruits of grain, wine, oil, and fleece (3–4), because Yahweh *"has chosen him out of all your tribes, to stand to minister in Yahweh's name, him and his sons for ever"* (5). A Levite from the towns who comes to the place *"shall minister … as all his brothers the Levites do"* and eats *"like portions"* (7–8). The cuts are not Leviticus 7's breast and right thigh. Whether 18:7 makes every Levite eligible for altar service, as against Numbers 18:1–7, is the long-standing question this passage raises; the passage page records three readings and adopts none, as does [[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]]. See also [[The Custom of the Priests - Deuteronomy 18.3 and 1 Samuel 2.13-16]] and [[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]].
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### The priests the Levites as judges — Deuteronomy 17:8–12
 
 The hard case goes to *"the priests who are Levites, and to the judge who shall be in those days"* (17:9), and refusing *"the priest who stands to minister there before Yahweh"* is a capital offence (12). *Hakkōhănîm halwiyyim* occurs in the Torah only in Deuteronomy (17:9, 18; 18:1; 24:8; 27:9; WLC, morphhb). How priest and judge divide the work is not stated.
@@ -842,6 +848,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The War Against Midian]] — Numbers 31:1–54; Phinehas with the army; Eleazar's statute and portion.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the landless Levite at the tithe meal and in the third-year tithe.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the Levitical priests and the judge at the place give the final verdict.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priests' due, and the Levite from the towns who serves and eats with his brothers.
 
 ## Related themes
 

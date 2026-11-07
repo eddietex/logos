@@ -91,6 +91,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:20 deposits the testimony.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:27, 29; the Levite's lack of *"portion nor inheritance"* (10:9)
   as the reason he shares the tithe.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–2, 5; the no-inheritance rule of 10:9 restated, and *"to stand
+  to minister in Yahweh's name"* (18:5) echoing 10:8.
 
 ## Notes
 

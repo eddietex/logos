@@ -11,6 +11,13 @@ status: in-progress
 
 ## Overview
 
+[[The Portion of the Priests and Levites]] (18:1–8) turns from the king to the priests. *"The priests
+the Levites, all the tribe of Levi"* have no portion nor inheritance with Israel; Yahweh is their
+inheritance, and they eat the offerings by fire. The priest receives the shoulder, cheeks, and inner
+parts of each sacrifice, and the first fruits of grain, wine, oil, and fleece. A Levite from the
+towns may come to the chosen place, minister as his brothers do, and eat like portions. Whether this
+makes every Levite a priest is left open, as are the different cuts named in Leviticus 7.
+
 [[The Law for the King]] (17:14–20) foresees Israel's request for a king *"like all the nations"*
 and grants it: the king must be chosen by Yahweh and be a brother, not a foreigner. He shall not
 multiply horses, sending the people back to Egypt for them, nor wives, nor silver and gold. His one
@@ -207,7 +214,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **37 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **39 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -247,7 +254,7 @@ Plan drawn 2026-11-05 from the stored WEB. **37 / 69 pericopes ingested.**
 - [x] [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17
 - [x] [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13
 - [x] [[The Law for the King]] — Deuteronomy 17:14–20
-- [ ] The Portion of the Priests and Levites — Deuteronomy 18:1–8
+- [x] [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 - [ ] A Prophet Like Moses — Deuteronomy 18:9–22
 - [ ] Refuge for the Unwitting Killer — Deuteronomy 19:1–13
 - [ ] Landmarks Witnesses and False Testimony — Deuteronomy 19:14–21
@@ -302,6 +309,7 @@ Plan drawn 2026-11-05 from the stored WEB. **37 / 69 pericopes ingested.**
 - [[Kingship and Empire]]
 - [[The Fear of God]]
 - [[Brotherhood]]
+- [[Land and Sojourning]]
 
 ## Key people
 - [[God]]

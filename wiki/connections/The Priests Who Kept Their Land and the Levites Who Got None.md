@@ -22,7 +22,7 @@ tags: [connection]
 - **Deuteronomy 12:12, 18–19** — the Levite *"within your gates"*, with *"no portion nor inheritance"*,
   brought to the household feast and not to be forsaken — [[The Place Yahweh Will Choose]]
 - **Deuteronomy 10:9; 18:1–2** — *"Levi has no portion nor inheritance with his brothers. Yahweh is
-  his inheritance"*
+  his inheritance"* — [[The Portion of the Priests and Levites]]
 - **Joshua 13:14, 33; 14:3–4** — the allotment of Canaan, with Levi conspicuously skipped
 - **Numbers 35:1–8; Joshua 21** — the forty-eight Levitical cities and their pasture lands: the one
   concession
@@ -33,6 +33,19 @@ tags: [connection]
   curse — [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Analysis
+
+### Deuteronomy 18:1–8 now ingested
+
+18:1–2 is the rule cited in the list above, now in its passage. 18:8 adds a detail that bears on the
+correction below: the Levite who comes to the place eats like portions *"in addition to that which
+comes from the sale of his family possessions"*. The Hebrew, *ləbad mimkārāyw ʿal-hāʾābôt*, is
+obscure and WEB's rendering is one interpretation. But *mimkār*, *sale*, occurs elsewhere in the Torah
+only in the land-sale law of Leviticus 25 (WLC lemma 4465), including the Levite's house *"that was
+sold"* (25:33). On any reading, the verse assumes a Levite may have something of his own to sell.
+This supports the correction: no tribal inheritance is not the same as no property.
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8; Leviticus
+25:32–34; Hebrew from WLC (morphhb), retrieved 2026-11-07.
 
 ### Numbers 35 now ingested
 

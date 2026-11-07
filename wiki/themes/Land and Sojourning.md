@@ -255,6 +255,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### No portion, and a Levite who sojourns — Deuteronomy 18:1–8
+
+Levi has *"no portion nor inheritance with Israel"*; *"Yahweh is their inheritance"* (1–2). The Levite of 18:6 *gār*, *"lives as a foreigner"*, in his own town — the verb of the *gēr*, used of an Israelite without land. Yet 18:8 assumes he may have *"family possessions"* to sell, and the noun *mimkār*, *sale*, is otherwise in the Torah only in the land-sale law of Leviticus 25 (WLC). Landless means without tribal territory, not without property; see [[The Priests Who Kept Their Land and the Levites Who Got None]].
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 18:1–8.
+
 ### The landless within the gates — Deuteronomy 14:22–29
 
 The Levite has *"no portion nor inheritance"* (27, 29), and the *gēr*, the fatherless, and the widow share the third-year tithe with him (29). The produce of the land is shared with those who hold none of it. See [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
@@ -1044,6 +1050,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; settlement east of the Jordan, outside *the land of Canaan*.
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the *gēr* and the foreigner may have what Israel may not eat.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the land's produce shared with the landless.
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no portion nor inheritance (1–2); the Levite who *"lives as a foreigner"* in his town (6).
 
 ## Related themes
 

@@ -11,6 +11,7 @@ tags: [connection]
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:27–29
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:7
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14
+- [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8
 - Deuteronomy 24:19 — the forgotten sheaf; not yet ingested
 - Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
 
@@ -54,6 +55,17 @@ receives is a loan and its release rather than a share in the tithe. The phrase 
 — Israel's own towns — as the scene of the obligation.
 
 See [[The Year of Release and the Open Hand]]. Source: stored WEB Deuteronomy 14:29; 15:7.
+
+### The Levite who leaves the gates — Deuteronomy 18:6–8
+
+18:6 turns from the Levite who stays to one who leaves: *"If a Levite comes from any of your gates out
+of all Israel, where he lives as a foreigner, and comes with all the desire of his soul to the place
+which Yahweh shall choose"*. He *gār*, sojourns, in the town — the verb of the *gēr* who stands beside
+him in the four-member list. At the place *"he shall minister … as all his brothers the Levites do"*
+and eat *"like portions"* (7–8). The household's duty not to forsake him (12:19; 14:27) is matched by
+his own right to serve and eat at the sanctuary; the law does not say whether he may then go home.
+
+See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 12:19; 14:27; 18:6–8.
 
 ## Significance
 
