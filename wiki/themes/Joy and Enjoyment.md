@@ -14,6 +14,12 @@ or as the theme recurs.
 
 ## Development across Scripture
 
+### Rejoice at the feasts — Deuteronomy 16:1–17
+
+*"You shall rejoice before Yahweh your God"* (16:11), *"You shall rejoice in your feast"* (14), *"you shall be altogether joyful"* (15). Joy is commanded at weeks and tents, for son, daughter, servants, Levite, foreigner, fatherless, and widow. The adjective *śāmēaḥ* (15) occurs in the Torah only here (WLC lemma search, morphhb). See [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]].
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### Feasting on the tithe — Deuteronomy 14:22–29
 
 The tithe is spent on *"whatever your soul desires, for cattle, or for sheep, or for wine, or for strong drink"*, and eaten before Yahweh: *"you shall rejoice, you and your household"* (26). Rejoicing is commanded as part of the giving, as at 12:7, 12, 18.
@@ -325,6 +331,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[Come into the Fields, My Beloved]] — Song of Solomon 7:10–8:4.
 - [[The Two Silver Trumpets]] — Numbers 10:10; gladness named first among the occasions for the trumpets.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe spent on what the soul desires, and eaten with rejoicing.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; joy commanded at weeks and tents (11, 14), and *"altogether joyful"* (15).
 
 ## Related themes
 

@@ -11,6 +11,13 @@ status: in-progress
 
 ## Overview
 
+[[Passover, Weeks, and Booths]] (16:1–17) sets Deuteronomy's festival calendar. Passover is kept in
+Abib, but only at the chosen place and not in the towns, with seven days of *"the bread of
+affliction"*. Weeks is counted from the first sickle in the grain, and tents follows the harvest of
+threshing floor and wine press. At both the household, servants, Levite, foreigner, fatherless, and
+widow rejoice before Yahweh, and all males appear three times a year, not empty, giving as Yahweh
+has blessed.
+
 [[Consecrate the Firstborn of the Herd and Flock]] (15:19–23) dedicates every firstborn male of herd and flock to
 Yahweh: it may not be worked or shorn, and the household eats it yearly at the chosen place. A
 firstling with a defect is not sacrificed but eaten at home like game, its blood poured out.
@@ -189,7 +196,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **33 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **36 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -226,7 +233,7 @@ Plan drawn 2026-11-05 from the stored WEB. **33 / 69 pericopes ingested.**
 - [x] [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11
 - [x] [[Release the Servant with Gifts]] — Deuteronomy 15:12–18
 - [x] [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23
-- [ ] Passover Weeks and Booths — Deuteronomy 16:1–17
+- [x] [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17
 - [ ] Judges Worship and Difficult Cases — Deuteronomy 16:18–17:13
 - [ ] The Law for the King — Deuteronomy 17:14–20
 - [ ] The Portion of the Priests and Levites — Deuteronomy 18:1–8

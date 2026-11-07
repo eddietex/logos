@@ -17,7 +17,7 @@ tags: [connection]
 - [[The Consecration of the Firstborn]] — Exodus 13:3–10, Abib and the remembered departure.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:14–19.
 - Exodus 34:18–26 — the parallel calendar in the covenant renewal; checked in raw.
-- Deuteronomy 16:1–17 — Passover, Weeks, and Tents; verified WEB, not yet ingested.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; Passover, weeks, and tents.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–31; 29:12–38, the offerings for each of the three feasts.
 
 ## Analysis
@@ -91,6 +91,32 @@ vows, freewill offerings, and Sabbaths alongside appointed festival offerings.
 
 Source for this addition: stored WEB Leviticus 23:33–44; Exodus 13:3–10; 23:14–19;
 34:21–24. No new quotation or source-language assertion from an unstored book is added.
+
+### Deuteronomy's calendar in its own setting — Deuteronomy 16:1–17
+
+[[Passover, Weeks, and Booths]] now carries the third calendar, read from the stored WEB rather than
+the API copy cited above. Set beside the others, it is the shortest and the least dated. It names
+the month of Abib but no day (16:1), counts weeks *"From the time you begin to put the sickle to the
+standing grain"* (9), and sets tents *"after you have gathered in from your threshing floor and from
+your wine press"* (13). It has no sheaf, no loaves, no shelters to live in, and no eighth day, all of
+which Leviticus 23 supplies.
+
+| | Exodus 23:14–17 | Exodus 34:18–24 | Leviticus 23 | Deuteronomy 16:1–17 |
+|---|---|---|---|---|
+| Names | unleavened bread, harvest, ingathering | unleavened bread, weeks, harvest | Passover and unleavened bread, (first fruits / count), booths | Passover and unleavened bread, weeks, tents |
+| Dates | *"the time appointed in the month Abib"* | the same | month and day for each | Abib; the sickle; the threshing floor |
+| Where | before *"the Lord Yahweh"* | the same | *"before Yahweh your God"* (23:40); no site named | *"in the place which he chooses"* |
+| Joy | not commanded | not commanded | *"rejoice … seven days"* at booths (23:40) | commanded at weeks and tents (16:11, 14–15) |
+
+The male appearance and the *"not … empty"* rule stay, now *"in the place which he chooses"*
+(16:16), and the gift is measured *"according to Yahweh your God's blessing"* (17). The *ʿăṣeret*,
+*"solemn assembly"*, which Leviticus 23:36 and Numbers 29:35 put on the eighth day after booths, is in
+Deuteronomy the seventh day of unleavened bread (16:8; WLC lemma search, morphhb). The wiki records the
+differences and does not decide whether Deuteronomy assumes the Levitical dates or sets them aside.
+See [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]].
+
+Source for this addition: stored WEB Exodus 23:14–17; 34:18–24; Leviticus 23:5–8, 15, 36, 40–43;
+Deuteronomy 16:1–17. Hebrew from WLC (morphhb, openscriptures on GitHub), retrieved 2026-11-07.
 
 ## Significance
 

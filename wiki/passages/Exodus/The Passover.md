@@ -483,7 +483,8 @@ land.** The wiki records both and adopts neither.
 - Leviticus 14:4–6, 49–52; Numbers 19:6, 18 — hyssop in cleansing *(not yet ingested)*
 - Numbers 33:3–4 — *"Yahweh also executed judgments on their gods"* *(not yet ingested)*
 - Deuteronomy 6:9 — *"on the door posts of your house"* *(not yet ingested)*
-- Deuteronomy 16:1–8 — the Passover at the chosen place *(not yet ingested)*
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–8; the Passover at the chosen place, *"of the flock and the herd"*, and
+  cooked and eaten there; see the note *Deuteronomy 16 and Exodus 12 — two forms of the rite* below
 - 2 Chronicles 35:13 — the Passover *"roasted with fire"* under Josiah *(not yet ingested)*
 - Isaiah 31:5 — *"He will pass over and preserve it"* *(not yet ingested)*
 - John 1:29; 1 Corinthians 5:7–8; Hebrews 11:28; 1 Peter 1:18–19 — the Passover in the New Testament —

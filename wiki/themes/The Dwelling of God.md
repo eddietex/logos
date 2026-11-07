@@ -109,6 +109,12 @@ The theme is related to two others in the wiki, and distinct from both:
 
 ## Development across Scripture
 
+### Where his name dwells, three times a year — Deuteronomy 16:1–17
+
+*"The place which Yahweh … shall choose"* comes six times in 16:1–17, three times with *"to cause his name to dwell there"* (2, 6, 11). All three feasts and all the males' appearances are directed there (16).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### Before Yahweh, year by year — Deuteronomy 15:19–23
 
 The firstling is eaten *"before Yahweh your God year by year in the place which Yahweh shall choose"* (15:20). The defective one is eaten *"within your gates"* (22), the same contrast between the place and the towns that chapter 12 drew.
@@ -677,6 +683,7 @@ The Dweller stays in the camp with the ark. The people who leave are the ones to
 - [[The Defeat at Hormah]] — Numbers 14:42–44; *Yahweh isn't among you*, and the ark stays in the camp
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten where Yahweh causes his name to dwell.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling eaten before Yahweh at the place.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the place where his name dwells, for Passover, weeks, and tents (2, 6, 11, 16).
 
 ## Related themes
 

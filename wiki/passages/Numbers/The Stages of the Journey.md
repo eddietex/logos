@@ -134,7 +134,8 @@ Other named regions and landmarks:
 - [[The Death of the Firstborn and the Departure]] — Exodus 12:29–42.
 - [[The Death of Aaron]] — Numbers 20:22–29.
 - [[Arad and Hormah]] — Numbers 21:1–3.
-
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1; *"brought you out of Egypt by night"*, beside 33:3, *"on the
+  next day after the Passover"*.
 
 ## Notes
 

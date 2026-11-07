@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:12, 18–19
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:27–29
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:7
-- Deuteronomy 16:11, 14 — the feasts of Weeks and Booths; not yet ingested
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14
 - Deuteronomy 24:19 — the forgotten sheaf; not yet ingested
 - Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
 

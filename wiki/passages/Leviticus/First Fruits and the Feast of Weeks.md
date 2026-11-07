@@ -104,6 +104,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:26–31; two bulls and one ram where 23:18 has one bull and two rams.
   The disagreement is recorded on both pages and in
   [[The Feast Offerings Numbered - Leviticus 23, Numbers 28-29, Ezra 3, and Ezekiel 45]].
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:9–12; seven weeks counted from the first sickle in the standing grain,
+  with no sheaf and no Sabbath named.
 
 ## Notes
 

@@ -86,11 +86,11 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:15; the first of Deuteronomy's *"remember that
   you were a slave"* clauses. See
   [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
-- Deuteronomy 16:12; 24:18, 22 — the same clause for the feast of weeks, for justice to the foreigner
-  and orphan, and for gleaning; not yet ingested. See
+- Deuteronomy 24:18, 22 — the same clause for justice to the foreigner and orphan, and for
+  gleaning; not yet ingested. See
   [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
-- Deuteronomy 16:16 — *"They shall not appear before Yahweh empty"*; the same *rêqām*; not yet
-  ingested.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:12, 16; *"remember that you were a slave"* at the feast of weeks, and
+  *"They shall not appear before Yahweh empty"*, the same *rêqām*.
 - Jeremiah 34:8–17 — Zedekiah's release of Hebrew servants and its reversal; not yet ingested. See
   [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the next pericope, the firstborn of herd and

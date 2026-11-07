@@ -73,6 +73,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. The complete eight-verse unit:
 - [[The Passover in the Second Year]] — Numbers 9:1–5; the date kept at Sinai
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–25; the unnumbered *offering made by fire* of 23:8 given its
   animals: two bulls, a ram, seven lambs, and a goat each day.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–8; Abib with no day given; the Passover only at the chosen place;
+  the seventh day an *ʿăṣeret*.
 
 ## Notes
 

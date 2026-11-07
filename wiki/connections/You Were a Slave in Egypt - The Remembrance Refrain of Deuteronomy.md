@@ -15,7 +15,7 @@ tags: [connection]
   the land of Egypt, and Yahweh your God redeemed you. Therefore I command you this thing today."* —
   [[Release the Servant with Gifts]]
 - **Deuteronomy 16:12** — the feast of weeks: *"You shall remember that you were a slave in Egypt.
-  You shall observe and do these statutes."* *(not yet ingested)*
+  You shall observe and do these statutes."* — [[Passover, Weeks, and Booths]]
 - **Deuteronomy 24:18** — justice for the foreigner and the fatherless, and the widow's clothing not
   taken in pledge: *"but you shall remember that you were a slave in Egypt, and Yahweh your God
   redeemed you there. Therefore I command you to do this thing."* *(not yet ingested)*

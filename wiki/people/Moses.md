@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Commands the three feasts — Deuteronomy 16:1–17
+
+Moses, unnamed in these verses, gives Deuteronomy's festival calendar: the Passover at the chosen place and not in the towns, the count of seven weeks, the feast of tents after the harvest, and the three appearances, *"They shall not appear before Yahweh empty"* (16:16).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### The firstborn of herd and flock — Deuteronomy 15:19–23
 
 Moses commands that the firstborn males of herd and flock be dedicated, neither worked nor shorn, and eaten by the household at the chosen place (15:19–20). A defective firstling is eaten at home like game, its blood poured out (21–23). Numbers 18:17–18, also given through Moses, assigns the firstling's meat to Aaron; see [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
@@ -1999,6 +2005,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; commands the seventh-year release of debts and the open hand to the poor brother.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; commands the servant's release with gifts and the ear-piercing for one who stays.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; commands the firstling dedicated, unworked, and eaten at the place.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; commands Passover, weeks, and tents at the chosen place.
 
 ## Related people
 

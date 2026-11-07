@@ -131,6 +131,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstborn of 12:6, 17 eaten at the place, the
   defective one eaten at home *"as the gazelle, and as the deer"*, and its blood poured out like water,
   all in the words of 12:15–16, 22–24.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the place named six times for the three feasts, and the
+  rejoicing of 12:12, 18 widened to the foreigner, the fatherless, and the widow.
 
 ## Notes
 

@@ -56,6 +56,12 @@ requires only that you be standing outside it.
 
 ## Development across Scripture
 
+### The bread of affliction — Deuteronomy 16:1–17
+
+Unleavened bread is *leḥem ʿōnî*, *"the bread of affliction"* (16:3; WLC, morphhb). Elsewhere in the Torah *ʿŏnî* is mostly something God sees or hears (Genesis 16:11; 29:32; 31:42; Exodus 3:7; 4:31; Deuteronomy 26:7), or a condition left behind (Genesis 41:52; Exodus 3:17); here it is eaten, once a year, *"for you came out of the land of Egypt in haste"*. Whether *affliction* names the slavery or the hurried flight is not said. See [[Affliction and Flight - Hagar and the Exodus]].
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### Cleansing after healing — Leviticus 14:1–32
 
 The social exclusion of Leviticus 13:46 is answered by a path back into the camp and eventually
@@ -532,6 +538,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
   of the bitter herbs (12:8; WLC). The place keeps the name *Marah* after the water is made sweet
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12; discipline as a father's, placed after five promises
 - [[The Seventy Elders and the Quail]] — Numbers 11:10–15; a leader's request for death.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; *"the bread of affliction"* (3).
 
 ## Related themes
 

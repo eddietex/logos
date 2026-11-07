@@ -96,7 +96,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] — the blood withheld from every meal.
 - Deuteronomy 17:1 — no ox or sheep *"in which is a defect"* to be sacrificed, *"an abomination to
   Yahweh your God"*; not yet ingested.
-- Deuteronomy 16:1–8 — the next pericope; the Passover, *"of the flock and the herd"*, also sacrificed
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the next pericope; the Passover, *"of the flock and the herd"*, also sacrificed
   only at the place (16:2, 5–7).
 
 ## Notes

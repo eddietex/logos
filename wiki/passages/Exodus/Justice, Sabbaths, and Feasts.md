@@ -171,7 +171,7 @@ commands for Israel's life and worship, not a report that the people have alread
   [[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
 - Leviticus 25:1–7 — the seventh year's rest and food:
   [[The Seventh Year's Food - Exodus 23 and Leviticus 25]].
-- Exodus 34:18–26; Deuteronomy 16:1–17 — parallel festival instructions:
+- Exodus 34:18–26; [[Passover, Weeks, and Booths]] (Deuteronomy 16:1–17) — parallel festival instructions:
   [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]].
 - Exodus 34:26; Deuteronomy 14:21 — the repeated goat-and-milk prohibition:
   [[A Young Goat in Its Mother's Milk - Exodus 23, Exodus 34, and Deuteronomy 14]].

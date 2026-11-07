@@ -91,7 +91,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
   feast; its closing assembly is on the seventh day, whereas Booths adds an eighth.
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:12–38; the seven days' offerings, with bulls descending from thirteen
   to seven, and the eighth day's single bull.
-
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:13–15; the feast of tents kept seven days after the harvest, with no
+  shelters to live in and no eighth day.
 
 ## Notes
 

@@ -32,6 +32,8 @@ tags: [connection]
   verb is *šillaḥ*, *let go*, the verb of *"Let my people go"* (Exodus 5:1); *rêqām* appears in the
   Torah only at Genesis 31:42, Exodus 3:21, 23:15, 34:20, and Deuteronomy 15:13 and 16:16 (WLC lemma
   search, morphhb)
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:16–17; *"They shall not appear before Yahweh empty. Every man
+  shall give as he is able, according to Yahweh your God's blessing which he has given you."*
 - **Exodus 25:2–3** — *"From everyone whose heart makes him willing you shall take my offering. This is the
   offering which you shall take from them: gold, silver, brass"* — [[The Offering for the Sanctuary]]. The
   source of the metals is not stated in the verse

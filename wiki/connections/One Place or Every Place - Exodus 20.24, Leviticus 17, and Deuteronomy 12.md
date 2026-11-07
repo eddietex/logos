@@ -18,6 +18,8 @@ tags: [connection]
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:20–22: the firstling eaten *"in the place which Yahweh
   shall choose"*, but the defective one *"within your gates"*, *"as the gazelle, and as the deer"* —
   12:15, 22's category for home slaughter.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:5–6: *"You may not sacrifice the Passover within any of your gates"*,
+  only at the place.
 
 ## Analysis
 

@@ -192,6 +192,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### The day you came out, and the slave you were — Deuteronomy 16:1–17
+
+The unleavened bread is eaten *"that you may remember the day when you came out of the land of Egypt all the days of your life"* (16:3). At weeks: *"You shall remember that you were a slave in Egypt"* (12). The Passover's memory is the night of leaving; the feast of weeks remembers the slavery itself, as the household's servants rejoice beside it (11). See [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### Remember you were a slave — Deuteronomy 15:12–18
 
 The second of five *"remember that you were a slave"* clauses in Deuteronomy (5:15; 15:15; 16:12; 24:18, 22). Each grounds a command that protects someone dependent; here, the servant released with gifts. See [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
@@ -862,6 +868,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt remembered without its slavery.
 - [[The War Against Midian]] — Numbers 31:1–54; the gold laid up *for a memorial*.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"You shall remember that you were a slave in the land of Egypt"* (15).
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; *"that you may remember the day when you came out"* (3); *"remember that you were a slave"* (12).
 
 ## Related themes
 

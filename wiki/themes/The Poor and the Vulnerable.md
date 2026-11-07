@@ -53,6 +53,12 @@ answer and the vocabulary it is written in. Hospitality to strangers is treated 
 
 ## Development across Scripture
 
+### At the feast, at the place — Deuteronomy 16:1–17
+
+The Levite, the foreigner, the fatherless, and the widow rejoice at weeks and tents beside the household (16:11, 14). At 14:29 the same four ate the third-year tithe in the towns. Here they eat *"in the place which Yahweh your God shall choose"* (11). See [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### The year of release and the open hand — Deuteronomy 15:1–11
 
 Debts owed by a brother are released at the end of every seven years (15:1–3). *"There shall be no poor with you"* is promised if Israel listens (4–5), yet *"the poor will never cease out of the land"* (11); **the unit states both and does not reconcile them**. Between them, the poor brother *"within any of your gates"* must not meet a hardened heart or a shut hand (7), and refusing him because the release is near is *"sin to you"* (9). See [[The Poor Will Never Cease - Deuteronomy 15 and the Poor Always with You]] and [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
@@ -554,6 +560,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[Vows of Men and Women]] — Numbers 30:9; the widow's and divorced woman's vows stand
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the Levite, foreigner, fatherless, and widow eat the third-year tithe.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released in the seventh year; *"the poor will never cease"* and the hand opened to them.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Levite, foreigner, fatherless, and widow rejoicing at the feasts (11, 14).
 
 ## Related themes
 

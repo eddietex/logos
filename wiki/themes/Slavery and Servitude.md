@@ -52,6 +52,12 @@ with a woman it owns.
 
 ## Development across Scripture
 
+### Servants at the feast — Deuteronomy 16:1–17
+
+The male and female servant are among those who rejoice before Yahweh at weeks and tents (16:11, 14). The command that follows is *"You shall remember that you were a slave in Egypt"* (12): the household that keeps slaves remembers being slaves, and eats with them.
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### The Hebrew servant released with gifts — Deuteronomy 15:12–18
 
 Deuteronomy's release law names the servant *"your brother"* and includes *"a Hebrew woman"* (15:12). He is not to go *"empty"* but furnished from flock, threshing floor, and wine press (13–14), because Israel *"was a slave in the land of Egypt"* and was redeemed (15). The servant who loves the house may still stay *"forever"* with his ear pierced at the door (16–17), and the master is told he has had *"double value of a hired hand"* (18). Deuteronomy regulates and softens the institution; it does not end it. See [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
@@ -626,6 +632,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[A Good Name]] — Proverbs 22:7; The borrower is servant to the lender.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt's food remembered, its labor not.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the six-year release of the Hebrew man and woman, with gifts; the ear pierced for the one who stays.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; servants at the feasts (11, 14), and *"remember that you were a slave in Egypt"* (12).
 
 ## Related themes
 

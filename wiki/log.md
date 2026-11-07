@@ -23151,3 +23151,43 @@ GitHub) — Deuteronomy 12:16, 24; 15:19–23; 17:1; Exodus 13:12; Leviticus 22:
 — with lemma searches across Genesis–Deuteronomy for *gāzaz*, *pissēaḥ*, *ʿiwwēr*, *mûm*, *ṣəbî*, and
 *ʾayyāl*, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files were
 unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 16.1-17 — Passover, Weeks, and Booths
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary. The title is written
+*Passover, Weeks, and Booths*, adding the commas the draft plan lacked. Created the passage page and
+one connection, [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]], which follows the commanded
+joy at the feast meals (12:7, 12, 18; 14:26; 16:11, 14–15; 26:11; 27:7). Revised 41 existing pages
+including this log: Deuteronomy; two people (God, Moses); one place (Egypt); ten themes (Festivals
+and First Fruits, Joy and Enjoyment, Remembrance, Blessing, The Poor and the Vulnerable, Sacrifice
+and Offering, The Dwelling of God, Slavery and Servitude, Suffering, Work); seven connections (Three
+Times a Year, which gains a four-calendar comparison table; Passover and Unleavened Bread; Within
+Your Gates; You Were a Slave in Egypt; You Shall Not Go Empty-Handed; One Place or Every Place;
+Affliction and Flight, which gains the *bread of affliction*); eleven earlier passage pages
+(Cross-references: The Passover, Justice, Sabbaths, and Feasts, The Covenant Renewed, Sabbath,
+Passover, and Unleavened Bread, First Fruits and the Feast of Weeks, The Feast of Booths, The Stages
+of the Journey, The Place Yahweh Will Choose, Tithes for Feasting and Provision, Release the Servant
+with Gifts, Consecrate the Firstborn of the Herd and Flock); and eight index/dashboard pages. The
+book page's stale *"33 / 69 pericopes ingested"* line was corrected. Deuteronomy is now 36 / 69.
+Counts by frontmatter type are 361 passages, 257 people, 222 places, 87 themes, and 749
+connections.
+
+Judgment calls: the household members, servants, and dependants get no person pages, and the chosen
+place still gets no place page. The following are recorded and not resolved: Deuteronomy's lack of
+feast dates (whether it assumes Leviticus 23's or sets them aside); *"by night"* (16:1) against
+Numbers 33:3's *"on the next day after the Passover"*; *"of the flock and the herd"* against Exodus
+12:5; the six days of 16:8 against the seven of 16:3; whether *"return to your tents"* (16:7) means
+home; the omission of the wife from the rejoicing lists. *Bāšal* at 16:7 is left to the existing
+note on The Passover. The sense of *missâ* (16:10) is labelled as inferred, and its uniqueness was
+checked only across Genesis–Deuteronomy. Deuteronomy 26:1–11, 27:7, 31:10–13 and 2 Chronicles 35
+are cited as not yet ingested; Chronicles is not quoted.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 12:7, 11–12, 18; 14:26–27, 29;
+15:13–15; 16:1–17; 23:25; 24:5; 26:7, 10–11; 27:4, 7; 31:10–11; Genesis 16:11; 29:32; 31:42; 33:17;
+41:52; Exodus 3:7, 17; 4:14, 31; 9:31; 12:5–6, 9–11, 31, 39, 42; 13:4, 6–7; 22:6; 23:15–17;
+34:18–25; Leviticus 2:14; 23:5–8, 15, 36, 40–43; Numbers 10:10; 33:3. No book outside raw/ was quoted
+or fetched. Hebrew claims checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy
+16:1–17; Exodus 12:9, 42; Numbers 33:3 — with lemma searches across Genesis–Deuteronomy for *ʾābîb*,
+*ʿŏnî*, *ḥippāzôn*, *śəʾōr*, *ʿăṣeret*, *ḥermēš*, *qāmâ*, *missâ*, *nədābâ*, *śāmaḥ*, *śāmēaḥ*,
+*śimḥâ*, *sukkâ*, *zəkûr*, *mattānâ*, and *šākan*, retrieved 2026-11-07. Raw files, canonical
+workflow instructions, and controller files were unchanged.

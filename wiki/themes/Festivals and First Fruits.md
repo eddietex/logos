@@ -12,6 +12,12 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Three feasts at the place — Deuteronomy 16:1–17
+
+Deuteronomy's calendar keeps the three feasts of Exodus 23 and 34 and names them unleavened bread, weeks, and tents (16:16). It gives no day of the month for any of them: Passover is kept in *"the month of Abib"* (1), weeks is counted from the first cutting of the grain (9), and tents follows the gathering from threshing floor and wine press (13). It has no sheaf or loaves, no living in shelters, and no eighth day (compare Leviticus 23). What it adds is the chosen place for all three, including the Passover, which *"You may not sacrifice … within any of your gates"* (5); the household and its dependants rejoicing; and gifts *"according to Yahweh your God's blessing"* (17). The seventh day of unleavened bread is an *ʿăṣeret* (8), the word Leviticus 23:36 and Numbers 29:35 use only for the eighth day after booths (WLC lemma search, morphhb).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### Duties and portions — Numbers 18:1–32
 
 The best oil, vintage, grain, and first-ripe fruit brought to Yahweh become
@@ -208,6 +214,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:3, 17–21; set feasts, and the first of the dough
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the recurring calendar under the annual feasts: daily, Sabbath, and new moon
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the animals for Unleavened Bread, the first fruits, and the seventh month
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the three feasts at the chosen place, without dates; joy, dependants, and gifts by blessing.
 
 ## Related themes
 

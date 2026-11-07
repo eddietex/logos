@@ -119,6 +119,8 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
 - [[Slow to Anger - Proverbs 14.29 and Exodus 34.6]] — the WEB's *slow to anger* of 34:6 commended as human understanding in [[A Way That Seems Right]] (Proverbs 14:29).
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the goat rule's third occurrence, closing the
   food laws.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the third festival calendar, with the three appearances at the
+  chosen place. See [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]].
 
 ## Notes
 

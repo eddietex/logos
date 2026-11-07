@@ -45,6 +45,12 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### No work on the seventh day — Deuteronomy 16:1–17
+
+The seventh day of unleavened bread is a solemn assembly, and *"You shall do no work"* (16:8). The feasts of weeks and tents are dated by farm work — the first sickle in the standing grain (9), and the gathering from threshing floor and wine press (13) — and the joy of tents is for *"all the work of your hands"* (15).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### No work with the firstling — Deuteronomy 15:19–23
 
 *"You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock"* (15:19). The ox's labor and the sheep's wool are withheld from the owner because the animal is Yahweh's. No earlier firstborn law in the Torah says this.
@@ -1021,6 +1027,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:18–29:35; *regular work* on the feasts, *no kind of work* on the tenth of the seventh month.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; six years' service set against *"a hired hand"* (18).
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; no work with the firstborn of the herd (19).
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; no work on the seventh day (8); the feasts dated by the harvest (9, 13, 15).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

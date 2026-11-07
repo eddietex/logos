@@ -131,3 +131,11 @@ Genesis makes nothing of it, and neither does Exodus.
 **At the sea the verb is used of the whole people.** *"The king of Egypt was told that the people had fled"*
 — *bāraḥ hāʿām* (Exodus 14:5; WLC) — **the flight word of Hagar (16:6, 8) and of Moses (2:15), now in
 Pharaoh's report of a release he had granted.** See [[The Crossing of the Sea]].
+
+**The noun becomes a meal.** Deuteronomy 16:3 calls unleavened bread *leḥem ʿōnî*, *"the bread of
+affliction"* (WLC, morphhb). *ʿŏnî* occurs nine times in the Torah: Genesis 16:11; 29:32; 31:42; 41:52;
+Exodus 3:7, 17; 4:31; Deuteronomy 16:3; 26:7 (WLC lemma search across Genesis–Deuteronomy). In six it is
+something God sees or hears, and in two (Genesis 41:52; Exodus 3:17) a condition left behind. **In
+Deuteronomy 16:3 alone it is something Israel eats,** once a year, *"for you came out of the land of
+Egypt in haste"*. The affliction Hagar's son was named for is then remembered by eating. See
+[[Passover, Weeks, and Booths]].

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Left by night and in haste — Deuteronomy 16:1–17
+
+*"Yahweh your God brought you out of Egypt by night"* (16:1); *"you came out of the land of Egypt in haste"* (3). Egypt is the memory of the Passover and its bread, and the place where Israel *"was a slave"* (12).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### Remembered as the place of slavery — Deuteronomy 15:12–18
 
 *"You shall remember that you were a slave in the land of Egypt, and Yahweh your God redeemed you"* (15:15). Egypt is the memory behind the servant's release, not the setting. The servant must not go out *"empty"*, the word Exodus 3:21 uses for Israel leaving Egypt.
@@ -684,6 +690,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
   propose to return
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; the house of bondage, the ground of the death sentences.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; remembered as the land where Israel was a slave (15).
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; left *"by night"* (1) and *"in haste"* (3); remembered as the land of slavery (12).
 
 ## Related places
 

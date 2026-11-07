@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He chooses the place, and blesses the harvest — Deuteronomy 16:1–17
+
+Yahweh *"brought you out of Egypt by night"* (16:1). He chooses the place *"to cause his name to dwell"* (2, 6, 11), where all three feasts are kept and the males appear *"before Yahweh your God"* (16). He blesses the harvest and the work of Israel's hands (10, 15), and that blessing is the measure of what each man gives (17).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### The firstling is his — Deuteronomy 15:19–23
 
 Every firstborn male of herd and flock is to be dedicated *"to Yahweh your God"* (15:19) and eaten *"before Yahweh your God … in the place which Yahweh shall choose"* (20). A firstling with a defect may not be sacrificed to him (21), and its blood, like all blood, is poured on the ground (23).
@@ -4335,6 +4341,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; God's release proclaimed (2); the refused poor brother's cry heard (9).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the blessing that measures the servant's gifts (14), the redemption from Egypt (15), and blessing for release (18).
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated to him and eaten before him at the place he chooses.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the feasts kept at the place he chooses; his blessing the measure of the gifts.
 
 ## Related people
 

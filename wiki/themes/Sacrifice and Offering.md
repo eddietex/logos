@@ -93,6 +93,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### The Passover only at the place — Deuteronomy 16:1–17
+
+*"You may not sacrifice the Passover within any of your gates"* (16:5); it is sacrificed *"of the flock and the herd"* at the chosen place, *"at evening, at the going down of the sun"* (2, 6), and cooked and eaten there (7). Exodus 12 had it killed at every house. At weeks the gift is *"a freewill offering of your hand"* (10), and no one appears *"empty"* (16).
+
+See [[Passover, Weeks, and Booths]]. Source: stored WEB Deuteronomy 16:1–17.
+
 ### The defective firstling — Deuteronomy 15:19–23
 
 A firstling that is *"lame or blind, or has any defect whatever"* may not be sacrificed (15:21), the rule of Leviticus 22:20–22 applied to the firstborn. It is not redeemed or sold but eaten at home, *"as the gazelle, and as the deer"* (22): it leaves the altar's category and enters the common meal. See [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
@@ -960,6 +966,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the feast offerings, cumulative on the continual and the new moon
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; children burned by the nations (12:31); the devoted town burned.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling eaten at the place, the defective one barred from sacrifice.
+- [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Passover sacrificed only at the chosen place (5–6); freewill gifts, and no one empty (10, 16).
 
 ## Related themes
 
