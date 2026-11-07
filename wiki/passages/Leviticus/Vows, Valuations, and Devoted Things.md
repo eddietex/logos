@@ -159,6 +159,9 @@ The *priest* acts throughout, unnamed; [[Aaron]] is not mentioned.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1; the next speech, from the Tent of Meeting.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten by the household, turned into money
   with no fifth. See [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; *"You shall dedicate"*, *taqdîš*, the verb 27:26
+  negates for the same animal (WLC, morphhb). See
+  [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
 
 ## Notes
 

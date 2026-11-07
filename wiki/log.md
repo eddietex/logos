@@ -23116,3 +23116,38 @@ fetched. Hebrew claims checked against WLC from morphhb (openscriptures, GitHub)
 searches across Genesis–Deuteronomy for *rêqām*, *ʿānaq*, *marṣēaʿ*, *mišneh*, *pādâ*, *ḥopšî*, and
 *ʿebed hāyîtā*, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller
 files were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 15.19-23 — Consecrate the Firstborn of the Herd and Flock
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and one connection,
+[[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]], which sets out the firstborn
+laws side by side and records the unresolved difference over who eats the clean firstling's meat
+(Numbers 18:18, Aaron; Deuteronomy 12:17–18, 14:23, 15:20, the household). Revised 33 existing pages
+including this log: Deuteronomy; two people (God, Moses); seven themes (Birthright and the Firstborn,
+Sacrifice and Offering, Holiness, Blood, Clean and Unclean, Work, The Dwelling of God); six
+connections (In Place of All the Firstborn, Three Tithe Laws, Blood Reserved from Food, One Place or
+Every Place, No Blemish in You, The Eighth Day); eight earlier passage pages (Cross-references: The
+Place Yahweh Will Choose, Tithes for Feasting and Provision, Release the Servant with Gifts, The
+Duties and Portions of Priests and Levites, The Consecration of the Firstborn, Vows, Valuations, and
+Devoted Things, Acceptable Victims and the Holy Name, The Holiness of the Priests); and eight
+index/dashboard pages. Deuteronomy is now 35 / 69. Counts by frontmatter type are 360 passages, 257
+people, 222 places, 87 themes, and 748 connections.
+
+Judgment calls: the owner and household get no person pages, and the chosen place still gets no
+place page. *Taqdîš* (15:19) against Leviticus 27:26's *lōʾ yaqdîš* is recorded as a probable
+difference of act (treating as holy versus vowing as a gift), labelled as a reading the texts do not
+state. Whether *"year by year"* (15:20) is an age limit or the yearly pilgrimage, and whether it
+explains the ban on working and shearing, is labelled an inference, set beside the eighth day of
+Exodus 22:30 and Leviticus 22:27. Two common harmonizations of the Numbers 18 / Deuteronomy 15
+difference are described and neither is adopted. Deuteronomy 16:1–8 and 17:1 are cited as not yet
+ingested.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 12:6, 15–17, 21–24, 27; 14:5, 23;
+15:19–23; 16:1–2, 5–7; 17:1; Genesis 4:4; 31:19; 38:12–13; Exodus 13:2, 12–13, 15; 22:29–30;
+34:19–20; Leviticus 1:3; 7:20–21; 21:17–18; 22:19–25, 27; 27:26; Numbers 18:1, 8, 15–18. No book
+outside raw/ was quoted or fetched. Hebrew claims checked against WLC from morphhb (openscriptures,
+GitHub) — Deuteronomy 12:16, 24; 15:19–23; 17:1; Exodus 13:12; Leviticus 22:22; 27:26; Numbers 18:17
+— with lemma searches across Genesis–Deuteronomy for *gāzaz*, *pissēaḥ*, *ʿiwwēr*, *mûm*, *ṣəbî*, and
+*ʾayyāl*, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files were
+unchanged.

@@ -93,6 +93,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   ingested.
 - Jeremiah 34:8–17 — Zedekiah's release of Hebrew servants and its reversal; not yet ingested. See
   [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the next pericope, the firstborn of herd and
+  flock eaten *"year by year"* before Yahweh.
 
 ## Notes
 

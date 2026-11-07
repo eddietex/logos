@@ -81,6 +81,9 @@ is named. See [[The Dwelling of God]]. No new place page is needed.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten by the household and, every third
   year, stored for the Levite and the poor; 14:23 also gives the household the firstborn. See
   [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the clean firstborn eaten by the owner's
+  household, where 18:18 gives its meat to Aaron. See
+  [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
 
 ## Notes
 

@@ -41,6 +41,12 @@ See, now he has taken away my blessing."* The wiki follows Genesis and keeps the
 
 ## Development across Scripture
 
+### Not worked, not shorn — Deuteronomy 15:19–23
+
+*"You shall dedicate all the firstborn males … You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock"* (15:19). The owner may take nothing from the firstling before he gives it. The household eats it at the chosen place (20), which again differs from Numbers 18:18's assignment to Aaron. A defective firstling is not sacrificed but eaten at home (21–22). See [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
+
+See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:19–23.
+
 ### The firstborn on the household's table — Deuteronomy 14:22–29
 
 The firstborn of herd and flock is eaten by the household with the tithe at the chosen place (23), as at 12:6, 17–18. **This differs from Numbers 18:17–18**, where the meat of the firstborn of cattle, sheep, and goats belongs to Aaron. Both are recorded as they stand; see [[Tithes for Feasting and Provision]] Notes.
@@ -313,6 +319,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted and exchanged.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:16–18; the claim repeated as the ground of the cleansing.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the firstborn eaten by the household, against Numbers 18:18's assignment to Aaron.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling unworked and unshorn, eaten by the household; the defective one eaten at home.
 
 ## Related themes
 

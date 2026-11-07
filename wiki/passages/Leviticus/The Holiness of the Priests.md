@@ -73,6 +73,9 @@ for those excluded.
 - [[The Bread of God - Leviticus 3 and 21, Numbers 28, Psalm 50, and Malachi 1]] — *the bread of their God* (21:6, 8, 17) and Yahweh's *my food* at Numbers 28:2.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1 forbids to the whole people the baldness 21:5
   forbids to the priests; see [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]].
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:21; *pissēaḥ* and *ʿiwwēr*, *lame* and *blind*, the
+  pair of 21:18, now naming a firstling unfit for the altar; the two occur together in the Torah only
+  in these verses (morphhb).
 
 ## Notes
 

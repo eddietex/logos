@@ -52,6 +52,12 @@ altar function, but does not cancel that provision. See [[Flour for a Sin Offeri
 
 ## Development across Scripture
 
+### Even the firstling's blood — Deuteronomy 15:19–23
+
+*"Only you shall not eat its blood. You shall pour it out on the ground like water"* (15:23) repeats 12:16 almost word for word (WLC, morphhb). The defective firstling is never sacrificed, but its blood is still withheld from the meal.
+
+See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:19–23.
+
 ### Poured out like water — Deuteronomy 12:1–28
 
 Meat may now be killed and eaten at home, but *"you shall not eat the blood. You shall pour it out on the earth like water"* (16, 24), *"for the blood is the life"* (23). Sacrificial blood still goes on the altar at the chosen place (27). The prohibition of Genesis 9:4 and Leviticus 17:10–14 is kept while the slaughter rule changes.
@@ -362,6 +368,7 @@ narrated. See [[The Eighth Day and the Appearing Glory]] .
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"the blood is the life"* (23); poured on the ground like water (16, 24).
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the defective firstling's blood poured out like water (23).
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[Aaron Stands Between the Dead and the Living]] — Numbers 16:41–50.

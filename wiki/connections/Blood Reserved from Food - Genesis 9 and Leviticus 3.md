@@ -9,12 +9,19 @@ tags: [connection]
 
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:10–14.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:16, 23–25, 27.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:23.
 
 - [[The Covenant with Noah]] — Genesis 9:3–4.
 - [[The Peace Offering]] — Leviticus 3:2, 8, 13, 17.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:22–38; food restrictions and priestly shares now ingested.
 
 ## Analysis
+
+### The firstling's blood — Deuteronomy 15:23
+
+A firstling with a defect is not sacrificed but eaten at home, and the rule follows it there: *"Only
+you shall not eat its blood. You shall pour it out on the ground like water"* (15:23), almost word for
+word 12:16 (WLC, morphhb). See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:21–23.
 
 ### Meat at home, blood on the ground — Deuteronomy 12
 

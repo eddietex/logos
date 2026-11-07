@@ -128,6 +128,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   person eat, the food list turns to which animals are clean.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe and firstborn of 12:6, 17–18 eaten at the place, with the money
   rule for distance and the third-year tithe.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstborn of 12:6, 17 eaten at the place, the
+  defective one eaten at home *"as the gazelle, and as the deer"*, and its blood poured out like water,
+  all in the words of 12:15–16, 22–24.
 
 ## Notes
 

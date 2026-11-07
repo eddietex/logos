@@ -21,6 +21,9 @@ tags: [connection]
 - **Leviticus 22:27** — *"When a bull, or a sheep, or a goat, is born, then it shall remain seven
   days with its mother; and from the eighth day and thenceforth it shall be accepted for the offering
   of an offering made by fire to Yahweh."* — [[Acceptable Victims and the Holy Name]]
+- **Deuteronomy 15:20** — *"You shall eat it before Yahweh your God year by year"*; Deuteronomy
+  names no eighth day for the firstling, and forbids working or shearing it meanwhile —
+  [[Consecrate the Firstborn of the Herd and Flock]]. See [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
 - **Luke 2:21** — *"When eight days were fulfilled for the circumcision of the child, his name was
   called Jesus"* *(not yet ingested)*
 

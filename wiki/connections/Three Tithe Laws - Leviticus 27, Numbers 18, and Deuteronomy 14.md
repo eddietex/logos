@@ -45,7 +45,8 @@ carry the value to the place.
 
 A related tension, outside the tithe: Deuteronomy 14:23 sets the firstborn of herd and flock on the
 household's table, while Numbers 18:17–18 gives the meat of the clean firstborn to Aaron. See the
-Notes of [[Tithes for Feasting and Provision]].
+Notes of [[Tithes for Feasting and Provision]], and now
+[[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]], written when Deuteronomy 15:19–23 restated the firstling law.
 
 Sources: stored WEB Leviticus 27:30–33; Numbers 18:15–18, 21–32; Deuteronomy 12:6, 11, 17–18;
 14:22–29; 26:12–14. Hebrew from WLC (morphhb), retrieved 2026-11-06.

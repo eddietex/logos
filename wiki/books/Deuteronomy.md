@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Consecrate the Firstborn of the Herd and Flock]] (15:19–23) dedicates every firstborn male of herd and flock to
+Yahweh: it may not be worked or shorn, and the household eats it yearly at the chosen place. A
+firstling with a defect is not sacrificed but eaten at home like game, its blood poured out.
+
 [[Release the Servant with Gifts]] (15:12–18) frees a Hebrew man or woman in the seventh year
 and forbids sending them away empty: the master gives from flock, threshing floor, and wine press,
 remembering Israel's slavery in Egypt. A servant who loves the house may stay for life, his ear
@@ -221,7 +225,7 @@ Plan drawn 2026-11-05 from the stored WEB. **33 / 69 pericopes ingested.**
 - [x] [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29
 - [x] [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11
 - [x] [[Release the Servant with Gifts]] — Deuteronomy 15:12–18
-- [ ] Consecrate the Firstborn of the Herd and Flock — Deuteronomy 15:19–23
+- [x] [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23
 - [ ] Passover Weeks and Booths — Deuteronomy 16:1–17
 - [ ] Judges Worship and Difficult Cases — Deuteronomy 16:18–17:13
 - [ ] The Law for the King — Deuteronomy 17:14–20

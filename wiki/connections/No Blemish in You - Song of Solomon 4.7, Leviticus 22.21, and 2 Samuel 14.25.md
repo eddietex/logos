@@ -15,6 +15,9 @@ tags: [connection]
 - **Leviticus 22:20–21** — [[Acceptable Victims and the Holy Name]] *(stored WEB; ingested)* — *"But whatever has a
   defect, that you shall not offer"*; a peace offering *"shall be perfect to be accepted. It shall have
   no defect"* (*tāmîm … kol-mûm lōʾ yihyeh-bô*)
+- **Deuteronomy 15:21** — [[Consecrate the Firstborn of the Herd and Flock]] *(stored WEB; ingested)* — *"If it has any defect, is lame
+  or blind, or has any defect whatever, you shall not sacrifice it"* (*mûm*, WLC, morphhb); the
+  defective firstling is eaten at home instead.
 - **2 Samuel 14:25** *(not yet fetched; WEB checked at bible-api.com)* — Absalom: *"From the sole of
   his foot even to the crown of his head there was no defect in him"* (*lōʾ-hāyâ ḇô mûm*)
 - **Daniel 1:4** *(not yet fetched; WEB checked at bible-api.com)* — *"youths in whom was no defect,

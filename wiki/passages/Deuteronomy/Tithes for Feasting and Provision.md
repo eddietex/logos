@@ -96,6 +96,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
 - [[The Tithe Before the Law]] — the tithes of Abram and Jacob, and the tithe's later history.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the next pericope, the year of release, opening with the related phrase *"at the end of every seven years"* and repeating the promise of blessing on the work of the hand (15:10).
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstborn of 14:23 again, with the ban on
+  working or shearing it and a rule for the defective firstling. See
+  [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
 
 ## Notes
 

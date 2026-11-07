@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The firstling is his — Deuteronomy 15:19–23
+
+Every firstborn male of herd and flock is to be dedicated *"to Yahweh your God"* (15:19) and eaten *"before Yahweh your God … in the place which Yahweh shall choose"* (20). A firstling with a defect may not be sacrificed to him (21), and its blood, like all blood, is poured on the ground (23).
+
+See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:19–23.
+
 ### He blessed the master and redeemed Israel — Deuteronomy 15:12–18
 
 Yahweh is the measure of the gift — *"As Yahweh your God has blessed you, you shall give to him"* (15:14) — and its reason: *"Yahweh your God redeemed you"* from slavery in Egypt (15). He promises to bless the master who lets the servant go (18).
@@ -4328,6 +4334,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten before him, that Israel may learn to fear him.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; God's release proclaimed (2); the refused poor brother's cry heard (9).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the blessing that measures the servant's gifts (14), the redemption from Egypt (15), and blessing for release (18).
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated to him and eaten before him at the place he chooses.
 
 ## Related people
 

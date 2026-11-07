@@ -93,6 +93,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### The defective firstling — Deuteronomy 15:19–23
+
+A firstling that is *"lame or blind, or has any defect whatever"* may not be sacrificed (15:21), the rule of Leviticus 22:20–22 applied to the firstborn. It is not redeemed or sold but eaten at home, *"as the gazelle, and as the deer"* (22): it leaves the altar's category and enters the common meal. See [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
+
+See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:19–23.
+
 ### What the nations did for their gods — Deuteronomy 12:29–13:18
 
 Israel must not ask how the nations served their gods, *"for they even burn their sons and their daughters in the fire to their gods"* (12:31). The apostate town and all its plunder are burned *"to Yahweh your God"* (13:16) — destruction, not an offering to be eaten. See [[Child Sacrifice and the Redemption of the Firstborn]].
@@ -953,6 +959,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; the daily, Sabbath, and new-moon offerings, cumulative on the continual burnt offering
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the feast offerings, cumulative on the continual and the new moon
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; children burned by the nations (12:31); the devoted town burned.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling eaten at the place, the defective one barred from sacrifice.
 
 ## Related themes
 

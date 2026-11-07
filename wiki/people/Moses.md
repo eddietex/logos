@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The firstborn of herd and flock — Deuteronomy 15:19–23
+
+Moses commands that the firstborn males of herd and flock be dedicated, neither worked nor shorn, and eaten by the household at the chosen place (15:19–20). A defective firstling is eaten at home like game, its blood poured out (21–23). Numbers 18:17–18, also given through Moses, assigns the firstling's meat to Aaron; see [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
+
+See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:19–23.
+
 ### The Hebrew servant released with gifts — Deuteronomy 15:12–18
 
 Moses commands that a Hebrew man or woman sold into service go free in the seventh year, furnished from flock, threshing floor, and wine press (15:12–14), *"Therefore I command you this thing today"* (15). He keeps the ear-piercing for a servant who chooses to stay (16–17) but omits Exodus 21:6's *"to God"*.
@@ -1992,6 +1998,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; commands the eaten tithe and the third-year tithe.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; commands the seventh-year release of debts and the open hand to the poor brother.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; commands the servant's release with gifts and the ear-piercing for one who stays.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; commands the firstling dedicated, unworked, and eaten at the place.
 
 ## Related people
 

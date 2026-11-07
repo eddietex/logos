@@ -87,6 +87,8 @@ unit, [[Eating the Holy Things]], regulated who eats; this one regulates what is
 - [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]] — vow and freewill peace offerings, now distinguished in acceptable victims (22:21–23).
 - [[Thanksgiving, Vows, and the Peace Offering]] — the same-day deadline for thanksgiving (7:15), restated at 22:29–30.
 - [[The Holiness of the Priests]] — the defect rules for priests (21:17–23) that this unit applies to offerings.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:21–22; the defect rule applied to the firstling, which
+  is then eaten at home rather than sacrificed.
 
 ## Notes
 

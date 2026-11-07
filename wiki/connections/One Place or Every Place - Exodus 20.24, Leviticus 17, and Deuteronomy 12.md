@@ -15,6 +15,9 @@ tags: [connection]
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:5–27: offerings only at *"the place which
   Yahweh your God shall choose"*, not *"in every place that you see"* (13); ordinary meat killed
   and eaten *"within all your gates"* (15, 21).
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:20–22: the firstling eaten *"in the place which Yahweh
+  shall choose"*, but the defective one *"within your gates"*, *"as the gazelle, and as the deer"* —
+  12:15, 22's category for home slaughter.
 
 ## Analysis
 

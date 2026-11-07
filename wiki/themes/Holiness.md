@@ -134,6 +134,12 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Dedicating what is already holy — Deuteronomy 15:19–23
+
+*"You shall dedicate"*, *taqdîš* (WLC 15:19, morphhb), is the verb Leviticus 27:26 negates for the same animal: *"no man may dedicate"* the firstborn, for *"It is Yahweh's"*. Deuteronomy commands treating it as holy; Leviticus forbids vowing it as a gift. A defect then moves it from holy to common (15:21–22). See [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
+
+See [[Consecrate the Firstborn of the Herd and Flock]]. Source: stored WEB Deuteronomy 15:19–23.
+
 ### A holy people at the table — Deuteronomy 14:1–21
 
 *"You are a holy people to Yahweh your God"* frames the unit at 14:2 and 14:21. Holiness here is a status already given by election (2), from which the bans on mourning cuts and unclean food follow; Leviticus 11:44–45 grounds the same diet in *"be holy; for I am holy"*.
@@ -882,6 +888,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:17, 19; the firstborn sanctified, and the risk of coming near.
 - [[The Seventy Elders and the Quail]] — Numbers 11:18; sanctified for the meat.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; *"you are a holy people"* (2, 21) as the ground of the food law.
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated, and the defective one made common.
 
 ## Related themes
 

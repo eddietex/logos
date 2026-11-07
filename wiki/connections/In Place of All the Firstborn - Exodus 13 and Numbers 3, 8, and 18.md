@@ -15,6 +15,8 @@ tags: [connection]
 - [[The Levites and the Firstborn Counted]] — Numbers 3:40–51; the firstborn counted, and the surplus of 273 bought back
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:14–19; the claim restated at the Levites' cleansing
 - Numbers 18:15–16 — the firstborn redeemed by price *(stored WEB; now ingested)*
+- [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstborn of herd and flock, eaten by the household. See
+  [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
 
 ## Analysis
 
@@ -57,6 +59,13 @@ offered, as a wave offering. See
 firstborn against 22,000 Levites and takes five shekels for each of the 273 (46–47). Levi's livestock
 goes in with no count at all (41, 45). The two arrangements above stand in one unit, and the money marks
 only where the first ran out. See [[Five Shekels a Head - Numbers 3, Numbers 18, and Leviticus 27]] and [[Twenty-Two Thousand - The Levite Sums in Numbers 3, 4, and 26]].
+
+### The animal firstborn in Deuteronomy — Deuteronomy 15:19–23
+
+Deuteronomy 15 deals only with the herd and flock, not with sons or donkeys, and does not mention
+redemption or the Levites. The firstling is dedicated, not worked or shorn, and eaten by the
+household at the chosen place (19–20), while Numbers 18:18 gave its meat to Aaron. See
+[[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]]. Source: stored WEB Deuteronomy 15:19–23; Numbers 18:15–18.
 
 ## Significance
 
