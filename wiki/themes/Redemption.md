@@ -74,6 +74,12 @@ care and transport, extending the sea's account of the redeemed people. See
 
 ## Development across Scripture
 
+### Redeemed, so release — Deuteronomy 15:12–18
+
+*"Yahweh your God redeemed you"* (15:15) uses *pādâ*, the exodus verb of 7:8 and 9:26 (WLC, morphhb). The redeemed people must release its own servants, and not empty-handed. See [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### Redeemed out of the house of bondage — Deuteronomy 12:29–13:18
 
 The prophet who leads to other gods speaks rebellion against *"Yahweh your God, who brought you out of the land of Egypt, and redeemed you out of the house of bondage"* (13:5; the verb is *pādâ*, WLC 13:6, morphhb). Redemption is the stated ground of the law's severity toward enticement.
@@ -351,6 +357,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[Thirty Excellent Things]] — Proverbs 23:11; The fatherless's *Defender*, Hebrew *gōʾēl*.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the *gōʾēl* as the one who receives the payment.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; redemption from Egypt as the ground of loyalty.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"Yahweh your God redeemed you"* (15) as the ground of the servant's release.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Release the Servant with Gifts]] (15:12–18) frees a Hebrew man or woman in the seventh year
+and forbids sending them away empty: the master gives from flock, threshing floor, and wine press,
+remembering Israel's slavery in Egypt. A servant who loves the house may stay for life, his ear
+pierced at the door.
+
 [[The Year of Release and the Open Hand]] (15:1–11) releases a brother's debts at the end of every seven years, though not a
 foreigner's. It promises that there shall be no poor in a blessed and obedient land, yet says the
 poor will never cease, and forbids refusing a loan because the year of release is near.
@@ -215,7 +220,7 @@ Plan drawn 2026-11-05 from the stored WEB. **33 / 69 pericopes ingested.**
 - [x] [[A Holy People and Its Food]] — Deuteronomy 14:1–21
 - [x] [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29
 - [x] [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11
-- [ ] Release the Servant with Gifts — Deuteronomy 15:12–18
+- [x] [[Release the Servant with Gifts]] — Deuteronomy 15:12–18
 - [ ] Consecrate the Firstborn of the Herd and Flock — Deuteronomy 15:19–23
 - [ ] Passover Weeks and Booths — Deuteronomy 16:1–17
 - [ ] Judges Worship and Difficult Cases — Deuteronomy 16:18–17:13

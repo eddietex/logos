@@ -79,6 +79,12 @@ the promise is repeatedly mistaken for.
 
 ## Development across Scripture
 
+### Not empty — Deuteronomy 15:12–18
+
+The master's flock, grain, and wine are drawn on so that the servant does not leave *"empty"* (*rêqām*, 15:13–14), the word of Exodus 3:21 for Israel leaving Egypt. The master is reminded that six years of service were worth *"double value of a hired hand"* (18). See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]].
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### Loans released and lending commanded — Deuteronomy 15:1–11
 
 The creditor releases *"that which he has lent to his neighbor"* (15:2), but may require payment of a foreigner (3). Israel is promised that it *"will lend to many nations"* and not borrow (6), and is commanded to lend the poor brother *"sufficient for his need"* even when the year of release is near (8–9). Wealth is a blessing to be lent, not a reason to refuse.
@@ -1126,6 +1132,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; livestock as the reason for the request, and Moses' reversed order (1, 16, 24).
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe turned into money for the journey, then into a feast.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released, and loans commanded to the poor even near the release.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the released servant furnished from flock, threshing floor, and wine press (13–14).
 
 ## Related themes
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He blessed the master and redeemed Israel — Deuteronomy 15:12–18
+
+Yahweh is the measure of the gift — *"As Yahweh your God has blessed you, you shall give to him"* (15:14) — and its reason: *"Yahweh your God redeemed you"* from slavery in Egypt (15). He promises to bless the master who lets the servant go (18).
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### He proclaims the release and hears the refused — Deuteronomy 15:1–11
 
 The seventh-year release is *"Yahweh's release"* (15:2), proclaimed in his name before any creditor acts. He promises such blessing in the land that *"there shall be no poor with you"* if Israel listens (4–6), yet the poor brother who is refused will *"cry to Yahweh against you"*, and he counts the refusal as sin (9). He blesses the work of the one who gives without a grieving heart (10).
@@ -4321,6 +4327,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; calls Israel his children and his own possession.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten before him, that Israel may learn to fear him.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; God's release proclaimed (2); the refused poor brother's cry heard (9).
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the blessing that measures the servant's gifts (14), the redemption from Egypt (15), and blessing for release (18).
 
 ## Related people
 

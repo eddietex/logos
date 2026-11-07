@@ -82,6 +82,9 @@ The unit closes with the public voice and the two written tablets entrusted to M
   also recalls the covenant with the fathers.
 - [[Why Do the Wicked Live]] — Job 21:19–21 questions punishment stored up for children;
   the tension with 5:9 must remain visible.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:15; the same *"remember that you were a slave"*
+  clause as 5:15, with *redeemed* for *brought out*. See
+  [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
 
 ## Notes
 

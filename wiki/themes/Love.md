@@ -24,6 +24,12 @@ by it is *loved less*. **Genesis's love is comparative before it is anything els
 
 ## Development across Scripture
 
+### A servant who loves the house — Deuteronomy 15:12–18
+
+The one place love appears here is the servant's: *"because he loves you and your house, because he is well with you"* (15:16). Exodus 21:5 had *"I love my master, my wife, and my children"*. In both, love for the household is the reason for staying a servant *"forever"* (17).
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### Love tested by a fulfilled sign — Deuteronomy 12:29–13:18
 
 The prophet's fulfilled sign tests *"whether you love Yahweh your God with all your heart and with all your soul"* (13:3), the first two phrases of 6:5. Love here is exclusive loyalty: walking after Yahweh, fearing, obeying, serving, and clinging to him (13:4). The second case sets that loyalty above the love of brother, child, wife, and *"your friend, who is as your own soul"* (13:6).
@@ -690,6 +696,7 @@ Source: stored WEB Song 8:13–14.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; love for Yahweh tested (13:3) and set above family and friend (13:6).
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant who stays *"because he loves you and your house"* (16).
 
 ## Related themes
 

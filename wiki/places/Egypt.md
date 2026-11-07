@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Remembered as the place of slavery — Deuteronomy 15:12–18
+
+*"You shall remember that you were a slave in the land of Egypt, and Yahweh your God redeemed you"* (15:15). Egypt is the memory behind the servant's release, not the setting. The servant must not go out *"empty"*, the word Exodus 3:21 uses for Israel leaving Egypt.
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### The house of bondage — the ground of the sentence — Deuteronomy 12:29–13:18
 
 Egypt is named only as the place Yahweh brought Israel out of, *"the house of bondage"* (13:5, 10). Both the prophet and the relative who entice to other gods die because they would draw Israel away from the God who redeemed it from there.
@@ -677,6 +683,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[The People Refuse the Land]] — Numbers 14:2–4, 13, 19, 22; where they wish they had died, and
   propose to return
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; the house of bondage, the ground of the death sentences.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; remembered as the land where Israel was a slave (15).
 
 ## Related places
 

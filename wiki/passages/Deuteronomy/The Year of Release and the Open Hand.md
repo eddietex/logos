@@ -91,8 +91,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:28–29; the third-year tithe for the poor
   *"within your gates"*, and the same promise of blessing on the work of the hand. See
   [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
-- Deuteronomy 15:12–18 — the Hebrew servant released in the seventh year; the next pericope, not yet
-  ingested. See
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the Hebrew servant released in the
+  seventh year, with the same promise of blessing on the giver. See
   [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
 - Deuteronomy 23:19–20 — no interest from a brother, interest allowed from a foreigner; not yet
   ingested.

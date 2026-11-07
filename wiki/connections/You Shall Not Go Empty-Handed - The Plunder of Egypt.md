@@ -28,7 +28,10 @@ tags: [connection]
   they asked. They plundered the Egyptians."* — [[The Death of the Firstborn and the Departure]]
 - **Psalm 105:37** — *"He brought them out with silver and gold."*
 - **Deuteronomy 15:13–14** — the released Hebrew slave: *"When you let him go free from you, you shall
-  not let him go empty. You shall furnish him liberally …"*
+  not let him go empty. You shall furnish him liberally …"* — [[Release the Servant with Gifts]]. The
+  verb is *šillaḥ*, *let go*, the verb of *"Let my people go"* (Exodus 5:1); *rêqām* appears in the
+  Torah only at Genesis 31:42, Exodus 3:21, 23:15, 34:20, and Deuteronomy 15:13 and 16:16 (WLC lemma
+  search, morphhb)
 - **Exodus 25:2–3** — *"From everyone whose heart makes him willing you shall take my offering. This is the
   offering which you shall take from them: gold, silver, brass"* — [[The Offering for the Sanctuary]]. The
   source of the metals is not stated in the verse

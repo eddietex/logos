@@ -45,6 +45,12 @@ the seventh day a blessing. See [[Sabbath]].
 
 ## Development across Scripture
 
+### Six years and the hired hand — Deuteronomy 15:12–18
+
+Six years' service is compared with a hired worker's: *"he has been double value of a hired hand"* (*mišneh śəkar śākîr*, 15:18; WLC, morphhb). Whether *mišneh* means *double* or *equivalent* here is debated; either way the master is told the work has already paid him.
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### The commandments recounted — Deuteronomy 5:1–22
 
 Six days of labor are followed by a rest that the household head must extend to children, servants, animals, and the resident stranger (13–14). The command limits the power to require others to work.
@@ -1007,6 +1013,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:23–26; a working life with an age limit.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:18–29:35; *regular work* on the feasts, *no kind of work* on the tenth of the seventh month.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; six years' service set against *"a hired hand"* (18).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

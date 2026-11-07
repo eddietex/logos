@@ -44,6 +44,12 @@ costly.
 
 ## Development across Scripture
 
+### Give as you were blessed — Deuteronomy 15:12–18
+
+The gift to the released servant is measured by blessing already received: *"As Yahweh your God has blessed you, you shall give to him"* (15:14). Releasing him is then promised blessing *"in all that you do"* (18), as 15:10 promised for lending.
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### Blessing that makes the poor cease, and blessing on the giver — Deuteronomy 15:1–11
 
 *"Yahweh will surely bless you in the land"* is the reason there should be no poor (15:4), and the blessing makes Israel a lender to nations (6). The giver who opens his hand is promised blessing *"in all your work, and in all that you put your hand to"* (10) — the loss the lender fears is met with blessing.
@@ -731,6 +737,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27; the priest speaks, and Yahweh blesses.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; blessing makes the harvest heavy (24) and follows feeding the needy (29).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; blessing as the ground of *"no poor"* (4) and the reward of giving (10).
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; blessing as the measure of the gift (14) and the reward of release (18).
 
 ## Related themes
 

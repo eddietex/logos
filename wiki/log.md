@@ -23082,3 +23082,37 @@ for the single verses quoted; no book was added to raw/. Hebrew claims checked a
 morphhb (openscriptures, GitHub) — Deuteronomy 2:30; 13:14; 14:29; 15:1–18; 23:21; 24:15; 28:12,
 44, 54; 31:10; Exodus 22:22, 24, 26 (Hebrew numbering); 23:11; Leviticus 25:1–7, 35 — retrieved
 2026-11-06. Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 15.12-18 — Release the Servant with Gifts
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and one connection,
+[[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]], tracing the five *"remember
+that you were a slave"* clauses (5:15; 15:15; 16:12; 24:18, 22). Revised 30 existing pages including
+this log: Deuteronomy; two people (God, Moses); one place (Egypt); eight themes (Slavery and
+Servitude, Redemption, Remembrance, Blessing, Wealth and Possessions, Brotherhood, Love, Work); three
+connections (The Hebrew Servant Goes Free, now marking Deuteronomy 15 as read; You Shall Not Go
+Empty-Handed; Served, Released, Pursued); seven earlier passage pages (Cross-references: The Altar
+and the Hebrew Slave, The Poor Brother and Redemption from Service, The Year of Release and the Open
+Hand, The Ten Commandments Recounted, The Burning Bush, Jacob's Flight from Laban, and Justice,
+Sabbaths, and Feasts, where a cross-reference bullet added in the previous ingest had been inserted
+mid-sentence and split *"food laws."* from its line; repaired); and seven index/dashboard pages.
+Deuteronomy is now 34 / 69. Counts by frontmatter type are 359 passages, 257 people, 222 places, 87
+themes, and 747 connections.
+
+Judgment calls: the Hebrew servant, master, and hired hand get no person pages. The omission of
+Exodus 21:6's *"to God"* at 15:17 is recorded; linking it to the one chosen place of chapter 12 is
+labelled a common interpretation, not a statement of the text. *Mišneh śəkar śākîr* (15:18) is left
+open between *double* and *equivalent*. The sense of *haʿănêq* (15:14) from *ʿănāq*, *necklace*, is
+labelled an inference. The *forever* of 15:17 against Leviticus 25's Jubilee release, and the woman's
+release against Exodus 21:7, are recorded as tensions and not harmonized. Deuteronomy 16:12, 16 and
+24:18, 22 and Jeremiah 34 are cited as not yet ingested.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 5:14–15, 22; 7:8; 9:26; 10:19;
+15:1–23; 16:11–13, 16; 17:18; 24:17–22; Genesis 31:42; 43:12, 15; Exodus 3:21; 5:1; 16:5, 22;
+20:11; 21:2–7; 22:21; 23:9, 15; 34:20; Leviticus 25:39–42, 55. No book outside raw/ was quoted or
+fetched. Hebrew claims checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 5:15;
+15:12–18; 16:12; 24:18, 22; Exodus 3:21; 5:1; 21:6; Genesis 31:42; Leviticus 25:39 — with lemma
+searches across Genesis–Deuteronomy for *rêqām*, *ʿānaq*, *marṣēaʿ*, *mišneh*, *pādâ*, *ḥopšî*, and
+*ʿebed hāyîtā*, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller
+files were unchanged.

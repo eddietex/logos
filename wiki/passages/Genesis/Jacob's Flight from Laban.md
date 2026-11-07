@@ -836,6 +836,8 @@ foreigners**, and Israel's confession of them is a single line about a wandering
 - Micah 6:1–2 — ***rîb***, the lawsuit Jacob brings at 31:36, as a prophetic form.
 - [[Laws of Property and Restitution]] — Exodus 22:10–13; the keeper's law that exempts the loss
   Jacob says he bore (31:39), and the theft verb of 31:19–20, 30–39 given its cases.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:13; the released servant must not be sent away
+  *rêqām*, the word and verb of 31:42.
 
 ## Notes
 

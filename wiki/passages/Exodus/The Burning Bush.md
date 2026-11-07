@@ -663,6 +663,8 @@ Exodus that clause is his name.** See [[Call and Election]].
 - Judges 6:15–16; 1 Samuel 9:21; Isaiah 6:5, 8; Jeremiah 1:6 — the objections of the called —
   [[Who Am I - The Objections of the Called]]
 - Psalm 105:37 — *"He brought them out with silver and gold"*
+- [[Release the Servant with Gifts]] — Deuteronomy 15:13; the released servant must not go out *rêqām*,
+  *empty*, the word of 3:21. See [[You Shall Not Go Empty-Handed - The Plunder of Egypt]].
 - Matthew 22:31–32; Mark 12:26; Luke 20:37–38 — the resurrection argued from 3:6 —
   [[I Am the God of Abraham - Exodus 3.6 and the Resurrection]]
 - Luke 21:15 — *"I will give you a mouth and wisdom"*

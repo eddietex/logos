@@ -38,6 +38,12 @@ moves to Seir; Joseph is sold. **Reconciliation, when it comes, is always a retu
 
 ## Development across Scripture
 
+### The brother sold into service — Deuteronomy 15:12–18
+
+The servant is first *"your brother"* and only then *"a Hebrew man, or a Hebrew woman"* (15:12), where Exodus 21:2 says only *"a Hebrew servant"*. The brother whose debts are released in 15:1–11 is now the brother whose person is released.
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### The brother whose debt is released — Deuteronomy 15:1–11
 
 The release is for *"his neighbor and his brother"*; *"Of a foreigner you may require it"* (15:2–3). The poor man is *"one of your brothers"* (7), and the closing command opens the hand *"to your brother, to your needy, and to your poor"* (11). Brotherhood here sets the boundary of the release and the reason for the loan.
@@ -364,6 +370,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *Shall your brothers go to the war, and shall you sit here?*
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the brother, child, wife, or friend who entices (13:6–11).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the release is for the brother, not the foreigner (2–3).
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant named *"your brother"* before *"a Hebrew"* (12).
 
 ## Related themes
 

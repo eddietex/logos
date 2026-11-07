@@ -192,6 +192,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Remember you were a slave — Deuteronomy 15:12–18
+
+The second of five *"remember that you were a slave"* clauses in Deuteronomy (5:15; 15:15; 16:12; 24:18, 22). Each grounds a command that protects someone dependent; here, the servant released with gifts. See [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### Words laid up and handed on — Deuteronomy 11:18–32
 
 The words are to be laid up in heart and soul, bound on hand and forehead, and written on door posts and gates (18, 20). The children Moses said had not seen (11:2) are now the ones to be taught (19).
@@ -855,6 +861,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Two Silver Trumpets]] — Numbers 10:9–10; the alarm brings Israel to mind, and the trumpets are a memorial.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt remembered without its slavery.
 - [[The War Against Midian]] — Numbers 31:1–54; the gold laid up *for a memorial*.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"You shall remember that you were a slave in the land of Egypt"* (15).
 
 ## Related themes
 

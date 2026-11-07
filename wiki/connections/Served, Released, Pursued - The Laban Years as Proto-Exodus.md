@@ -106,3 +106,7 @@ not grant Laban the claim; they leave with Jacob, and the treaty of 31:44–53 e
 parallel is the wiki's observation**: neither text refers to the other. See
 [[The Altar and the Hebrew Slave]] and
 [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
+
+Deuteronomy 15:13 forbids an Israelite master to send a released servant away *rêqām*, with the
+same verb *šillaḥ* that Jacob uses of Laban at Genesis 31:42 (WLC, morphhb). See
+[[Release the Servant with Gifts]].

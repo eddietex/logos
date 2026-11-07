@@ -11,7 +11,7 @@ tags: [connection]
   the door; the daughter who *"shall not go out as the male servants do"* —
   [[The Altar and the Hebrew Slave]]
 - **Deuteronomy 15:12–18** — the same six years, extended explicitly to *"a Hebrew woman"*, with
-  provisions for the journey and the memory of Egypt as the motive *(not yet ingested)*
+  provisions for the journey and the memory of Egypt as the motive — [[Release the Servant with Gifts]]
 - **Leviticus 25:39–46** — the impoverished brother who is not to *"serve as a slave"*, released at
   the Year of Jubilee; foreign slaves held *"forever"* — [[The Poor Brother and Redemption from Service]]
 - **Jeremiah 34:8–17** — Zedekiah's covenant of release, the freed servants taken back, and God's
@@ -63,6 +63,16 @@ mention a master-given wife, but the outcomes for children do not match. 4. **Th
 21 gives no reason for the release. Deuteronomy and Leviticus both give the exodus as the reason,
 though in different forms. In Deuteronomy, Israel remembers it was a slave. In Leviticus, God says
 Israelites are already his servants and cannot be sold as slaves.
+
+**Deuteronomy 15 now read in full.** Its table entries stand against stored WEB. Two further
+differences from Exodus 21 appear. The servant who stays does so *"because he loves you and your
+house"* (15:16), not because of a wife and children who would stay behind (Exodus 21:4–5); and the
+ear is pierced *"to the door"* with no *"to God"* (*ʾel-hāʾĕlōhîm*, Exodus 21:6; absent at WLC
+Deuteronomy 15:17, morphhb). Connecting the omission with Deuteronomy's one chosen place is a common
+interpretation, not a statement of the text. Deuteronomy also says nothing about the wife and children
+of Exodus 21:3–4. *Ḥopšî* occurs in the Torah only in Exodus 21 and Deuteronomy 15 (morphhb lemma
+search). See [[Release the Servant with Gifts]] and
+[[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
 
 **Leviticus 25 now read in full.** Its table entries stand against stored WEB. The law also
 adds a case the others lack: sale to a resident alien, with redemption by kin or by the man himself

@@ -118,6 +118,8 @@ three, she goes free without payment (21:7–11).
 - [[The Golden Calf]] — The gold image forbidden in Exodus 20:23 becomes the crisis of Exodus 32:1–8.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:39–55.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the six-year law retold for the Hebrew
+  man and woman, with gifts, and the ear pierced *"to the door"* without *"to God"*.
 - Deuteronomy 15:12–18; Leviticus 25:39–46; Jeremiah 34:8–17 — the release law retold, reconceived,
   and broken: [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
 - Deuteronomy 27:5–7; Joshua 8:30–31 — the altar of uncut stones commanded for Mount Ebal and built

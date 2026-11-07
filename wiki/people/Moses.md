@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The Hebrew servant released with gifts — Deuteronomy 15:12–18
+
+Moses commands that a Hebrew man or woman sold into service go free in the seventh year, furnished from flock, threshing floor, and wine press (15:12–14), *"Therefore I command you this thing today"* (15). He keeps the ear-piercing for a servant who chooses to stay (16–17) but omits Exodus 21:6's *"to God"*.
+
+See [[Release the Servant with Gifts]]. Source: stored WEB Deuteronomy 15:12–18.
+
 ### The release of debts and the open hand — Deuteronomy 15:1–11
 
 Moses commands creditors to release what a brother owes at the end of every seven years, while allowing payment to be required of a foreigner (15:1–3). He sets the promise *"there shall be no poor with you"* (4) beside the warning *"the poor will never cease out of the land"* (11), and forbids refusing a loan because the year of release is near (9).
@@ -1985,6 +1991,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; restates the clean and unclean animals for the people.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; commands the eaten tithe and the third-year tithe.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; commands the seventh-year release of debts and the open hand to the poor brother.
+- [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; commands the servant's release with gifts and the ear-piercing for one who stays.
 
 ## Related people
 
