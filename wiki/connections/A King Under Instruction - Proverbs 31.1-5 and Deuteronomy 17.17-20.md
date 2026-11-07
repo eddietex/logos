@@ -8,8 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - [[The Words of King Lemuel]] — Proverbs 31:1–5, with the goal in 8–9.
-- Deuteronomy 17:17–20 — the king’s restraint concerning wives and wealth, his copy of the law,
-  and lifelong learning; verified WEB, not yet ingested.
+- [[The Law for the King]] — Deuteronomy 17:17–20, the king’s restraint concerning wives and
+  wealth, his copy of the law, and lifelong learning; now ingested from the stored WEB.
 - [[Do Not Consent to Sinners]] — Proverbs 1:8, maternal instruction beside paternal instruction.
 - [[The Lamp of the Commandment]] — Proverbs 6:20, the mother’s teaching retained.
 - [[The Youth and the Old King]] — Ecclesiastes 4:13, the opposite case: an old and foolish king who
@@ -53,3 +53,10 @@ No exact Hebrew correspondence is claimed.
 [[Kingship and Empire]] does not place the ruler above [[Law and Obedience]]. Royal restraint
 preserves his capacity to judge for other people. The comparison also gives [[Wisdom]] a
 maternal voice whose instruction reaches public life, rather than ending at household order.
+
+**Deuteronomy 17 is now ingested** in [[The Law for the King]]. The stored WEB confirms the reading
+above: *"He shall not multiply wives to himself, that his heart not turn away"* (17:17), and the
+king reads *"that he may learn to fear Yahweh his God"* (17:19). The ingested page adds one point
+to the comparison: the king's reading is *"that his heart not be lifted up above his brothers"*
+(17:20), so Deuteronomy, like Proverbs 31:8–9, places royal instruction in service of other people.
+Source: stored WEB Deuteronomy 17:17–20.

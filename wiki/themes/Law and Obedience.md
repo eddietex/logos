@@ -1217,6 +1217,12 @@ Moses* for the household (16). It regulates a vow after it is made; it does not 
 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
+### The king under the book — Deuteronomy 17:14–20
+
+The king's only positive duty is to *"write himself a copy of this law in a book"* and *"read from it all the days of his life"* (17:18–19), so as not to turn from the commandment *"to the right hand, or to the left"* (20) — the words already set for the people (5:32) and the court (17:11). See [[Neither to the Right Hand nor to the Left - Deuteronomy 5.32, 17.11, 17.20, and 28.14]].
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the law code opens; right in his own eyes vs. right in Yahweh's eyes.
@@ -1506,6 +1512,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 12:32; nothing added or taken away.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated, with differences from Leviticus 11.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the court's verdict as *tôrâ*, not to be turned from right or left.
+- [[The Law for the King]] — Deuteronomy 17:14–20; the king copies and reads *"this law"* all his life (18–19).
 
 ## Related themes
 

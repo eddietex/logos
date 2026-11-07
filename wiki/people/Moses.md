@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The law for a future king — Deuteronomy 17:14–20
+
+Moses, unnamed, gives the only law of the Torah about a king, for an office that will not exist until long after his death. Israel's request is quoted in advance, *"I will set a king over me, like all the nations"* (17:14), and granted with limits. The king is to copy *"this law"* from the priests' text and read it all his life (18–19): the law Moses speaks becomes the book the king lives under. See [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]].
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ### Courts in the gates and the case too hard — Deuteronomy 16:18–17:13
 
 Moses, unnamed, commands judges and officers in every town and repeats the bans on partiality and bribes (16:18–19). In Deuteronomy 1:17 he kept the hard case for himself, *"bring to me, and I will hear it"*. Here it goes to the chosen place, to the Levitical priests and *"the judge who shall be in those days"* (17:9): the law provides for the work he did once he is gone. At 17:3 his voice becomes Yahweh's, *"which I have not commanded"*. See [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
@@ -2013,6 +2019,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; commands the firstling dedicated, unworked, and eaten at the place.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; commands Passover, weeks, and tents at the chosen place.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; commands courts in the gates; sends the hard case to the place instead of to himself.
+- [[The Law for the King]] — Deuteronomy 17:14–20; gives the law of the king, who must copy and read *"this law"*.
 
 ## Related people
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He chooses the king — Deuteronomy 17:14–20
+
+Yahweh gives the land (17:14) and chooses the king: *"whom Yahweh your God chooses"* (15), with the verb used of the place in chapters 12–17 (*bāḥar*, WLC). He has said *"You shall not go back that way again"* (16), a saying not found in those words earlier in the stored Torah; Exodus 14:13 is the nearest. The king reads the law *"that he may learn to fear Yahweh his God"* (19).
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ### He hates the sacred stone, and keeps the last court — Deuteronomy 16:18–17:13
 
 Yahweh gives the towns where the judges sit (16:18). He *"hates"* the sacred stone (16:22), the only place in the Torah where that is said of it, and a defective sacrifice is *"an abomination"* to him (17:1). At 17:3 the law speaks in his voice, *"which I have not commanded"*. The case too hard for the towns goes up to the place he chooses, to the priest *"who stands to minister there before Yahweh your God"* (17:12).
@@ -4349,6 +4355,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated to him and eaten before him at the place he chooses.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the feasts kept at the place he chooses; his blessing the measure of the gifts.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the place he chooses as the court for hard cases (17:8); hates the sacred stone (16:22).
+- [[The Law for the King]] — Deuteronomy 17:14–20; chooses the king (15); forbids the way back to Egypt (16).
 
 ## Related people
 

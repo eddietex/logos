@@ -9,7 +9,8 @@ tags: [connection]
 
 - [[The People Refuse the Land]] — Numbers 14:3–4
 - [[The Crossing of the Sea]] — Exodus 14:12
-- Deuteronomy 17:16; 28:68 — never going back that way *(WEB checked, not yet ingested)*
+- [[The Law for the King]] — Deuteronomy 17:16, now ingested; and 28:68 *(not yet ingested)* — never
+  going back that way
 - Nehemiah 9:16–17 — *appointed a captain to return to their bondage* *(WEB and WLC checked, not yet
   ingested)*
 - Hosea 11:5 — *They won't return into the land of Egypt* *(WEB checked, not yet ingested)*
@@ -51,3 +52,10 @@ Numbers from `raw/bible/`. Nehemiah 9:21 cited by reference only.
 
 - The exodus could be reversed by appointment. The wiki's wilderness texts never treat going back as
   a neutral option.
+
+**Deuteronomy 17:16 is now ingested** in [[The Law for the King]]. The king must not *"cause the
+people to return to Egypt"* for horses, *"because Yahweh has said to you, 'You shall not go back that
+way again'"*. Numbers 14:4 proposed a leader to take the people back; Deuteronomy forbids the future
+leader to do it. In the WLC the saying, *lōʾ tōsipûn lāšûb baddereḵ hazzeh ʿôd*, uses *šûb*, the
+verb of Numbers 14:4's *wənāšûbâ*, and the *yāsap … ʿôd* construction of Exodus 14:13 and
+Deuteronomy 28:68 (morphhb). Source: stored WEB Deuteronomy 17:16.

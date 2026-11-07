@@ -404,6 +404,12 @@ would go beyond these verses.
 See [[The Sin Offering for Ruler and Individual]]. Source: stored WEB Leviticus 4:22–35; contextual
 comparisons documented on the passage page.
 
+### The law of the king, ingested — Deuteronomy 17:14–20
+
+The Torah's only law of the king is now ingested. The request is quoted in advance, *"I will set a king over me, like all the nations that are around me"* (17:14), and granted: the king must be the one *"whom Yahweh your God chooses"* and *"one from among your brothers"* (15). He shall not multiply horses, wives, or silver and gold (16–17). His one duty is to copy *"this law"* and read it all his life (18–19), *"that his heart not be lifted up above his brothers"* (20). He is given no judicial, military, or priestly task. See [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]] and [[Kings Will Come Out of You]].
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
@@ -610,6 +616,7 @@ comparisons documented on the passage page.
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; a king captive in her hair.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
+- [[The Law for the King]] — Deuteronomy 17:14–20; the law of the king: chosen by Yahweh, a brother, limited, a reader of the law.
 
 ## Related themes
 

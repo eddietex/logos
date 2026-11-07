@@ -258,6 +258,12 @@ brothers these many days* (WEB via bible-api.com, not yet ingested).
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### The king is a brother — Deuteronomy 17:14–20
+
+The king must be *"one from among your brothers. You may not put a foreigner over you, who is not your brother"* (17:15), and his reading is *"that his heart not be lifted up above his brothers"* (20). The throne does not take him out of the brotherhood; the law keeps him in it.
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
@@ -371,6 +377,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the brother, child, wife, or friend who entices (13:6–11).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the release is for the brother, not the foreigner (2–3).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant named *"your brother"* before *"a Hebrew"* (12).
+- [[The Law for the King]] — Deuteronomy 17:14–20; the king *"from among your brothers"* (15), not lifted *"above his brothers"* (20).
 
 ## Related themes
 

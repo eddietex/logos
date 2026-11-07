@@ -692,6 +692,7 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
 
 - [[Cloud and Fire - From the Sea to the Filled Tabernacle]] — the cloud’s guidance, glory, and differing access across Exodus.
 - [[With a High Hand - Exodus 14, Numbers 15, and Numbers 33]] — verse 8
+- [[The Law for the King]] — Deuteronomy 17:16; *"You shall not go back that way again"*, a saying close to 14:13's *"you shall never see them again"*.
 
 ## Notes
 

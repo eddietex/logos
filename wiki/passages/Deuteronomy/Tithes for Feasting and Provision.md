@@ -99,6 +99,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstborn of 14:23 again, with the ban on
   working or shearing it and a rule for the defective firstling. See
   [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
+- [[The Law for the King]] — Deuteronomy 17:19; the king reads the law *"that he may learn to fear Yahweh his God"*, the aim of the tithe meal (14:23).
 
 ## Notes
 

@@ -11,6 +11,12 @@ status: in-progress
 
 ## Overview
 
+[[The Law for the King]] (17:14–20) foresees Israel's request for a king *"like all the nations"*
+and grants it: the king must be chosen by Yahweh and be a brother, not a foreigner. He shall not
+multiply horses, sending the people back to Egypt for them, nor wives, nor silver and gold. His one
+duty is to copy *"this law"* and read it all his life, so that his heart is not lifted above his
+brothers.
+
 [[Judges, Worship, and Difficult Cases]] (16:18–17:13) sets judges and officers in every town, bans
 partiality and bribes, and commands *"that which is altogether just"*. It forbids an Asherah or a
 sacred stone at Yahweh's altar and a defective sacrifice. Death for other gods needs two or three
@@ -240,7 +246,7 @@ Plan drawn 2026-11-05 from the stored WEB. **37 / 69 pericopes ingested.**
 - [x] [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23
 - [x] [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17
 - [x] [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13
-- [ ] The Law for the King — Deuteronomy 17:14–20
+- [x] [[The Law for the King]] — Deuteronomy 17:14–20
 - [ ] The Portion of the Priests and Levites — Deuteronomy 18:1–8
 - [ ] A Prophet Like Moses — Deuteronomy 18:9–22
 - [ ] Refuge for the Unwitting Killer — Deuteronomy 19:1–13
@@ -293,6 +299,9 @@ Plan drawn 2026-11-05 from the stored WEB. **37 / 69 pericopes ingested.**
 - [[Judgment]]
 - [[Righteousness]]
 - [[Priesthood]]
+- [[Kingship and Empire]]
+- [[The Fear of God]]
+- [[Brotherhood]]
 
 ## Key people
 - [[God]]

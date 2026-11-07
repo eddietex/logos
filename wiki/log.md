@@ -23238,3 +23238,44 @@ Genesis–Deuteronomy for *šōṭēr*, *šōḥad*, *ʿiwwēr*, *ṣedeq*, *ʾ�
 *bāʿar*, *pālāʾ* (with stems), *qāšâ*, *zādôn*, and *zîd*, and a sequence search for *hakkōhănîm
 halwiyyim*, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files
 were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 17.14-20 — The Law for the King
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created
+the passage page and two connections:
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]], which sets the request of 17:14
+beside the elders' request in the same Hebrew phrase, and
+[[Neither to the Right Hand nor to the Left - Deuteronomy 5.32, 17.11, 17.20, and 28.14]], which
+follows the road image from the literal highway to people, court, and king. Revised 31 existing pages
+including this log: Deuteronomy, which gains Kingship and Empire, The Fear of God, and Brotherhood as
+key themes; two people (God, Moses); one place (Egypt); ten themes (Kingship and Empire, Law and
+Obedience, The Fear of God, Brotherhood, The Nations, Call and Election, Wealth and Possessions,
+Marriage, Pride and Self-Exaltation, Walking with God); four connections (Kings Will Come Out of You,
+A King Under Instruction, A Steed in Pharaoh's Chariots, A Captain to Return to Egypt), whose
+"not yet ingested" references to Deuteronomy 17 now link the passage; six earlier passage pages
+(Cross-references: Judges, Worship, and Difficult Cases, Remember the Wilderness and the Giver of
+Wealth, Tithes for Feasting and Provision, The Crossing of the Sea, The People's Request for a
+Mediator, Keep Your Heart); and six index/dashboard pages. Deuteronomy is now 38 / 69. Counts by
+frontmatter type are 363 passages, 257 people, 222 places, 87 themes, and 752 connections.
+
+Nuance recorded, not a contradiction: Kings Will Come Out of You summarized the law as *four
+prohibitions* (horses, wives, silver, and the return to Egypt). The stored WEB ties the return to
+Egypt to the horses, so the page now notes three things not to be multiplied, plus the two
+conditions of 17:15. The earlier summary is kept and the adjustment stated beside it.
+
+Judgment calls: the king, the priests the Levites, and Solomon get no person pages; Solomon is
+quoted from 1 Kings in the passage notes and left for when Kings is reached. The following are
+recorded and not resolved: whether the law permits or commands a king, or was shaped by the later
+kings; how 17:14 fits 1 Samuel 8:7; whether *"return to Egypt"* means trade or alliance; what
+*"this law"* covers; and whether the quoted saying of 17:16 cites Exodus 14:13. The Septuagint origin
+of the name *Deuteronomion* is given as commonly reported and marked unverified at the point of the
+claim. 1 Samuel 8:7, 11–18 is paraphrased, not quoted.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 2:27; 4:10; 5:32; 8:13–14; 12:5,
+30; 14:21, 23; 15:3; 17:8–20; 18:9; 20:1–9; 28:14, 68; Exodus 14:13; Numbers 20:17; 22:26; Proverbs
+4:27. 1 Samuel 8:5, 19–20; 1 Kings 10:14, 26–29; 11:1–4; and Joshua 1:7 checked at bible-api.com
+(`translation=web`), 2026-11-07; none of those books was fetched into raw/. Hebrew claims checked
+against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 5:32; 8:13–14; 12:5; 14:21, 23;
+15:3; 17:8–20; 28:14, 68; Exodus 14:13; 1 Samuel 8:5, 20 — retrieved 2026-11-07. No Hebrew claim
+is made for 1 Kings 11, Numbers 20, Proverbs, or Joshua. Raw files, canonical workflow
+instructions, and controller files were unchanged.

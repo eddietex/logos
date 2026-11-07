@@ -20,8 +20,8 @@ tags: [connection]
   his feet"*: the promise narrowed to one tribe.
 - **Numbers 24:17** — Balaam, an outsider: *"A star will come out of Jacob. A scepter will rise out
   of Israel."*
-- **Deuteronomy 17:14–20** — the law of the king: permitted, hedged, and required to keep a copy of
-  the law beside him.
+- **Deuteronomy 17:14–20** — [[The Law for the King]]: permitted, hedged, and required to keep a
+  copy of the law beside him.
 - **1 Samuel 8:4–22** — Israel asks for a king *"like all the nations"*, and is told the request is a
   rejection of God's own kingship, and is granted it anyway.
 - **2 Samuel 7:8–17** — the promise landed on David: a house, a throne, and a kingdom *forever*.
@@ -136,3 +136,12 @@ three words actually say is undecided** — see
 its subject, three verses after *"the chiefs of Edom"* (15:15; WLC lemma search). **The Song's answer to the
 note in Genesis 36 is that Israel's first reigning king is God.** Whether the Song intends that answer is
 not said. See [[The Song of the Sea]].
+
+**Deuteronomy 17:14–20 is now ingested**, in [[The Law for the King]]. The stored WEB adjusts the
+summary above in one point: the law names three things the king shall not *multiply* — horses,
+wives, silver and gold — and ties the return to Egypt to the horses rather than listing it as a
+fourth (17:16–17). It also adds two conditions the table above leaves out: the king is the one
+*"whom Yahweh your God chooses"*, and *"one from among your brothers"* (17:15). Between the blessing
+of Genesis 17:6 and the request of 1 Samuel 8, the law foresees the request in the words the elders
+will use; see [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]]. Source: stored WEB
+Deuteronomy 17:14–20.

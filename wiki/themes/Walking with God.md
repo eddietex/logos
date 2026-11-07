@@ -247,6 +247,12 @@ The people go where the ark and cloud go, and the unit makes the first march the
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+### The road of the commandment — Deuteronomy 17:14–20
+
+The king is not to turn from the commandment *"to the right hand, or to the left"* (17:20). Obedience is pictured as a road, for people, court, and king alike. See [[Neither to the Right Hand nor to the Left - Deuteronomy 5.32, 17.11, 17.20, and 28.14]].
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"walk in all his ways"* (22), and the curse as turning *"out of the way"* (28).
@@ -307,6 +313,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; camp and march both follow Yahweh's lead.
 - [[The March from Sinai]] — Numbers 10:33–36; the people move as the ark moves.
 - [[The Defeat at Hormah]] — Numbers 14:43; *you turned back from following Yahweh*
+- [[The Law for the King]] — Deuteronomy 17:14–20; not turning right or left from the commandment (20).
 
 ## Related themes
 

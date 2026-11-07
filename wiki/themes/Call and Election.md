@@ -219,6 +219,12 @@ receiving separate appointments. The wider workforce in 36:1–2 remains part of
 
 See [[The Altar, the Basin, the Court, and the Inventory]].
 
+### The chosen king — Deuteronomy 17:14–20
+
+The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, the verb of the chosen place (12:5; 14:23; 17:8, 10; WLC). The people may ask for and set up a king, but the choice of the man belongs to Yahweh.
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the place Yahweh will choose (5, 11, 14, 18, 21, 26).
@@ -369,6 +375,7 @@ See [[The Altar, the Basin, the Court, and the Inventory]].
   a dog will *"move its tongue"* against Israel
 - [[Israel at Mount Sinai]] — Exodus 19:4–6; rescued Israel called to belong and serve
 - [[A Holy People and Its Food]] — Deuteronomy 14:2; election repeated as the ground of the food law.
+- [[The Law for the King]] — Deuteronomy 17:14–20; the king *"whom Yahweh your God chooses"* (15).
 
 ## Related themes
 

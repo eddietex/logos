@@ -64,6 +64,7 @@ instruction for life in the land. The closing exhortation binds hearing to an un
 - [[The Ten Commandments Recounted]] — the public address preceding this request.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:33 makes the same survival a
   rhetorical demonstration of Israel's exceptional encounter.
+- [[The Law for the King]] — Deuteronomy 17:20; the king too must not turn *"to the right hand, or to the left"* (5:32). See [[Neither to the Right Hand nor to the Left - Deuteronomy 5.32, 17.11, 17.20, and 28.14]].
 
 ## Notes
 

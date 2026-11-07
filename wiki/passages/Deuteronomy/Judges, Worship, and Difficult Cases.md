@@ -148,6 +148,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   *zādôn* in the Torah. Not yet ingested.
 - 2 Chronicles 19:5–11 — Jehoshaphat sets judges in the cities and a court of priests, Levites, and
   heads of families at Jerusalem. Not yet ingested and not quoted; the parallel is commonly drawn.
+- [[The Law for the King]] — Deuteronomy 17:14–20; the next pericope. The king is held to the same *"right hand … left"* (17:20) as the court's verdict (17:11).
 
 ## Notes
 

@@ -409,6 +409,12 @@ and his daughter* (16). A widow or divorced woman answers for her own vow (9).
 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
+### Many wives forbidden to the king — Deuteronomy 17:14–20
+
+*"He shall not multiply wives to himself, that his heart not turn away"* (17:17). The reason given is the king's heart. 1 Kings 11:3–4 reports that Solomon's wives *"turned away his heart after other gods"* (WEB checked; not stored). The law limits number; it does not forbid a king to marry.
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
@@ -631,6 +637,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[The Suspected Wife]] — Numbers 5:11–31; a husband's jealousy brought before Yahweh, and no matching law for a wife.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1; the Cushite woman.
 - [[Vows of Men and Women]] — Numbers 30:6–16; a husband's power to confirm or void his wife's vow
+- [[The Law for the King]] — Deuteronomy 17:14–20; *"He shall not multiply wives to himself, that his heart not turn away"* (17).
 
 ## Related themes
 

@@ -471,6 +471,12 @@ See [[The Twelve Spies]].
 *ʾAl-tîrəʾû* comes twice in verse 9, around *Yahweh is with us*. The fear the ten spread is named
 and forbidden, and it is set against rebelling against Yahweh. See [[The People Refuse the Land]].
 
+### The king learns to fear — Deuteronomy 17:14–20
+
+The king reads the law *"that he may learn to fear Yahweh his God"* (17:19). The words *ləmaʿan yilmad ləyirʾâ* are those of the tithe meal, *"that you may learn to fear Yahweh your God always"* (14:23; WLC). Fear is learned, by the household at the yearly meal and by the king in daily reading.
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
@@ -742,6 +748,7 @@ and forbidden, and it is set against rebelling against Yahweh. See [[The People 
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:4, 11; fear Yahweh, and all Israel hears and fears.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten *"that you may learn to fear Yahweh"* (23).
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *all the people shall hear, and fear* (17:13).
+- [[The Law for the King]] — Deuteronomy 17:14–20; the king reads *"that he may learn to fear Yahweh his God"* (19).
 
 ## Related themes
 

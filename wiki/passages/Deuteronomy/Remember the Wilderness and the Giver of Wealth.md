@@ -108,6 +108,7 @@ Complete unit, copied from stored WEB:
 - [[The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10]]
 - [[Bread from Heaven - The Manna and John 6]]
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25 anticipates this warning.
+- [[The Law for the King]] — Deuteronomy 17:14–20; the king must not multiply silver and gold, *"that his heart not be lifted up"* (17:17, 20), the warning of 8:13–14 applied to the throne.
 
 ## Notes
 

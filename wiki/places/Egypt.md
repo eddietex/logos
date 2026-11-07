@@ -387,6 +387,12 @@ The Passover at Sinai is dated from the coming out of Egypt, *in the first month
 
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
+### The road the king must not take — Deuteronomy 17:14–20
+
+The king *"shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he may multiply horses; because Yahweh has said to you, 'You shall not go back that way again'"* (17:16). Egypt is the source of horses and the house of bondage at once; buying its strength would be going back. 1 Kings 10:28 later reports that Solomon's horses *"were brought out of Egypt"* (WEB checked; not stored). See [[A Steed in Pharaoh's Chariots - Exodus 14-15, 1 Kings 10.28-29, and Song of Solomon 1.9]].
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
+
 ## Appears in
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
@@ -691,6 +697,7 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; the house of bondage, the ground of the death sentences.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; remembered as the land where Israel was a slave (15).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; left *"by night"* (1) and *"in haste"* (3); remembered as the land of slavery (12).
+- [[The Law for the King]] — Deuteronomy 17:14–20; the king must not send the people back there for horses (16).
 
 ## Related places
 

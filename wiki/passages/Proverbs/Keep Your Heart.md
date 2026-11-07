@@ -153,6 +153,7 @@ No named geographical place. The path is a metaphor for a manner of life.
   father's commandment, bound on the heart.
 - [[The Young Man Void of Understanding]] — Proverbs 7:10, 25; the strange woman *nəṣurat lēḇ*, *guarded of heart*,
   with 4:23's verb, and the son's heart told not to turn aside.
+- [[The Law for the King]] — Deuteronomy 17:20; the king not to turn right or left from the commandment, the image of 4:27. See [[Neither to the Right Hand nor to the Left - Deuteronomy 5.32, 17.11, 17.20, and 28.14]].
 
 ## Notes
 

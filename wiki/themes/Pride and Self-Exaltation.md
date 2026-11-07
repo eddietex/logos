@@ -310,6 +310,12 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 
 The people answer a sentence by going up against the word. The verb, *wayyaʿpilû*, occurs only here by the tags, and Deuteronomy 1:43 has *zîd*. See [[The Defeat at Hormah]].
 
+### The king's heart not lifted up — Deuteronomy 17:14–20
+
+The king reads the law *"that his heart not be lifted up above his brothers"* (17:20). *Rûm* with *lēbāb* is the phrase of 8:14, where the heart is lifted up when wealth multiplies and Yahweh is forgotten (WLC). The warning first given to the people is applied to the throne.
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
@@ -407,6 +413,7 @@ The people answer a sentence by going up against the word. The verb, *wayyaʿpil
 - [[The Defeat at Hormah]] — Numbers 14:44; *they presumed*
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30; *with a high hand*
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *zādôn*, presumption, as refusal of the verdict.
+- [[The Law for the King]] — Deuteronomy 17:14–20; *"that his heart not be lifted up above his brothers"* (20).
 
 ## Related themes
 

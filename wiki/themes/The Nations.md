@@ -330,6 +330,12 @@ one bull of the eighth day corresponds to Israel (William Davidson translation v
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### To be like the nations — Deuteronomy 17:14–20
+
+Israel's request is foreseen: *"I will set a king over me, like all the nations that are around me"* (17:14). It is granted, but the king may not be a *nokrî*, a foreigner (15), and the law at once makes him unlike other kings. 1 Samuel 8:5, 20 repeats the phrase (WEB and WLC checked; not stored). See [[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]].
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; nations greater and mightier than Israel driven out on condition of obedience (23–25).
@@ -613,6 +619,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; their rites not to be imitated; their gods near and far.
 - [[A Holy People and Its Food]] — Deuteronomy 14:2, 21; a people set apart from all peoples by its food.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; Israel to lend to many nations and not borrow (6); the *nokrî* not released (3).
+- [[The Law for the King]] — Deuteronomy 17:14–20; *"like all the nations"* (14); no foreigner as king (15).
 
 ## Related themes
 

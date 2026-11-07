@@ -819,6 +819,12 @@ rebuke is interpretation.
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### Not multiplied to himself — Deuteronomy 17:14–20
+
+The king *"shall not multiply horses to himself"* and *"shall not greatly multiply to himself silver and gold"* (17:16–17). The verb *rābâ* is that of 8:13, where multiplied silver and gold come just before the heart is lifted up (8:14; WLC). 1 Kings 10:14, 27 describes Solomon's gold and silver in exactly these terms (WEB checked; not stored).
+
+See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
+
 ## Key passages
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
@@ -1133,6 +1139,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe turned into money for the journey, then into a feast.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released, and loans commanded to the poor even near the release.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the released servant furnished from flock, threshing floor, and wine press (13–14).
+- [[The Law for the King]] — Deuteronomy 17:14–20; no multiplying of horses, silver, or gold for the king (16–17).
 
 ## Related themes
 

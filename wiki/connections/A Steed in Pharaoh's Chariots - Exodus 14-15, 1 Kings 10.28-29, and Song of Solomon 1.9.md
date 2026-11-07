@@ -11,7 +11,7 @@ tags: [connection]
   Pharaoh, his horsemen, and his army overtook them"* (14:9).
 - **Exodus 15:1, 4, 19** — [[The Song of the Sea]]: *"He has cast Pharaoh's chariots and his
   army into the sea"* (15:4).
-- **Deuteronomy 17:16** *(not yet ingested; WEB verified)* — the king *"shall not multiply horses
+- **Deuteronomy 17:16** — [[The Law for the King]]: the king *"shall not multiply horses
   to himself, nor cause the people to return to Egypt, to the end that he may multiply horses"*.
 - **1 Kings 10:28–29** *(not yet ingested; WEB verified)* — *"The horses which Solomon had were
   brought out of Egypt"*; a chariot cost six hundred shekels of silver and a horse a hundred
@@ -68,3 +68,8 @@ prepared for battle is not the victory, and
 Deuteronomy 17:16 and 1 Kings 10:28–29 checked at bible-api.com (`translation=web`),
 2026-10-28; neither book is stored. Hebrew of Song 1:9 read from Sefaria's *Miqra according
 to the Masorah*, 2026-10-28.
+
+**Deuteronomy 17:16 is now ingested** in [[The Law for the King]]; the quotation above matches the
+stored WEB. The verse gives the reason as well as the rule: *"because Yahweh has said to you, 'You
+shall not go back that way again'"*. Buying Egypt's horses is pictured as a road back to Egypt.
+Source: stored WEB Deuteronomy 17:16.
