@@ -38,9 +38,9 @@ tags: [connection]
   from a false charge, and don't kill the innocent and righteous: for I will not justify the
   wicked. You shall take no bribe, for a bribe blinds those who have sight and perverts the words of
   the righteous."* — [[Justice, Sabbaths, and Feasts]]
-- **Deuteronomy 16:19** *(not yet ingested)* — *"You shall not pervert justice. You shall not show
+- **Deuteronomy 16:19** — *"You shall not pervert justice. You shall not show
   partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise, and perverts the
-  words of the righteous."*
+  words of the righteous."* — [[Judges, Worship, and Difficult Cases]]
 - **Deuteronomy 25:1** *(not yet ingested)* — *"they shall justify the righteous, and condemn the
   wicked."*
 - **Isaiah 5:23** *(not yet ingested)* — the woe on those *"who acquit the guilty for a bribe, but deny
@@ -154,6 +154,21 @@ otherwise praise wisdom (7:5, 11–12), so it reads as a limit on wisdom's secur
 legal rule. The comparison is in the English of the WEB; no Hebrew identity of vocabulary
 with Exodus 23:8 or Proverbs 17:23 is asserted. Source: stored WEB Ecclesiastes 7:5–12;
 Exodus 23:8; Proverbs 17:23.
+
+### Deuteronomy 16:19 now ingested
+
+In [[Judges, Worship, and Difficult Cases]] the bribe clause is the third of three prohibitions
+given to the judges and officers *"in all your gates"* (16:18–19). Morphhb's WLC confirms the Hebrew
+quoted above. It also shows that the verb *ʿiwwēr*, *blinds*, occurs in the Torah only at Exodus 23:8
+and Deuteronomy 16:19, and that the object changes from *piqḥîm*, *those who have sight*, to *ʿênê
+ḥăkāmîm*, *the eyes of the wise*. *Šōḥad* occurs in the Torah only at Exodus 23:8, Deuteronomy 10:17,
+16:19, and 27:25 (lemma search across Genesis–Deuteronomy). Yahweh *"doesn't … take reward"* (10:17),
+the judge must not take it (16:19), and the assembly curses *"he who takes a bribe to kill an
+innocent person"* (27:25). The next verse gives the positive command: *ṣedeq ṣedeq tirdōp*, *"You
+shall follow that which is altogether just"* (16:20).
+
+Sources: stored WEB Deuteronomy 10:17; 16:18–20; 27:25; Exodus 23:8. Hebrew from WLC (morphhb,
+openscriptures on GitHub), retrieved 2026-11-07.
 
 ## Significance
 

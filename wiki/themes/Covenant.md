@@ -140,6 +140,12 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Transgressing the covenant — Deuteronomy 17:2
+
+Serving other gods is *"transgressing his covenant"* (17:2) and is tried in the town court like any other capital case, with inquiry and witnesses (4–6). The covenant is guarded by ordinary legal procedure.
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### A covenant choice located in the land — Deuteronomy 11:18–32
 
 The exhortation ends by setting blessing and curse before Israel and giving them a place in the land, Gerizim and Ebal (26–29). The land is the one Yahweh swore to the fathers (21). See [[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]].
@@ -741,6 +747,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:1–38; The testimony is placed in the ark and promised presence becomes visible after renewal.
 - [[If You Seek Her as Silver]] — Proverbs 2:17, 22; marriage as covenant; *cut off* and *rooted out*, the covenant penalties applied to the wicked
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; serving other gods as *transgressing his covenant* (17:2).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

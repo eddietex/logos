@@ -87,7 +87,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:29; the fatherless, widow, and foreigner of 10:18 fed by the
   third-year tithe. See
   [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
-
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:19; the judge must not take the *šōḥad* that Yahweh does not take (10:17).
 
 ## Notes
 

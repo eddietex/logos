@@ -89,6 +89,7 @@ unit, [[Eating the Holy Things]], regulated who eats; this one regulates what is
 - [[The Holiness of the Priests]] — the defect rules for priests (21:17–23) that this unit applies to offerings.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:21–22; the defect rule applied to the firstling, which
   is then eaten at home rather than sacrificed.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:1; no ox or sheep with a defect, *"an abomination to Yahweh your God"*.
 
 ## Notes
 

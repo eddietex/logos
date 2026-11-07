@@ -255,6 +255,12 @@ rule are the conditions the rest of Scripture is set in.
 
 ## Development across Scripture
 
+### Courts in the gates, and the higher court — Deuteronomy 16:18–17:13
+
+Judges and officers sit *"in all your gates"* and judge *"with righteous judgment"* (16:18), without perverting justice, partiality, or bribes (19). Death requires inquiry and *"two witnesses, or three"* (17:4, 6). A case *"too hard for you"* goes to the chosen place, and the verdict there is final: the one who refuses it *"shall die"* (17:8–12). See [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Inquire diligently, then remove the evil — Deuteronomy 12:29–13:18
 
 The three enticement cases end in death; the first introduces Deuteronomy's formula *"So you shall remove the evil from among you"* (13:5). The town case requires inquiry first: *"you shall inquire, and make search, and ask diligently"*, and action only *"if it is true, and the thing certain"* (13:14). See [[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]].
@@ -1274,6 +1280,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[The Defeat at Hormah]] — Numbers 14:43–45; the sword they feared
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30–31; cut off, with the iniquity on the person
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; death for enticement; diligent inquiry; *remove the evil*.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; courts in every town; two or three witnesses; the hard case sent to the place.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

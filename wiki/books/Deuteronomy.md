@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Judges, Worship, and Difficult Cases]] (16:18–17:13) sets judges and officers in every town, bans
+partiality and bribes, and commands *"that which is altogether just"*. It forbids an Asherah or a
+sacred stone at Yahweh's altar and a defective sacrifice. Death for other gods needs two or three
+witnesses, and the case too hard for the towns goes up to the priests and judge at the chosen place.
+
 [[Passover, Weeks, and Booths]] (16:1–17) sets Deuteronomy's festival calendar. Passover is kept in
 Abib, but only at the chosen place and not in the towns, with seven days of *"the bread of
 affliction"*. Weeks is counted from the first sickle in the grain, and tents follows the harvest of
@@ -196,7 +201,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **36 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **37 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -234,7 +239,7 @@ Plan drawn 2026-11-05 from the stored WEB. **36 / 69 pericopes ingested.**
 - [x] [[Release the Servant with Gifts]] — Deuteronomy 15:12–18
 - [x] [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23
 - [x] [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17
-- [ ] Judges Worship and Difficult Cases — Deuteronomy 16:18–17:13
+- [x] [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13
 - [ ] The Law for the King — Deuteronomy 17:14–20
 - [ ] The Portion of the Priests and Levites — Deuteronomy 18:1–8
 - [ ] A Prophet Like Moses — Deuteronomy 18:9–22
@@ -285,6 +290,9 @@ Plan drawn 2026-11-05 from the stored WEB. **36 / 69 pericopes ingested.**
 - [[Wisdom]]
 - [[Sabbath]]
 - [[The Poor and the Vulnerable]]
+- [[Judgment]]
+- [[Righteousness]]
+- [[Priesthood]]
 
 ## Key people
 - [[God]]

@@ -19,8 +19,8 @@ tags: [connection]
 - **Deuteronomy 10:17** — Yahweh *"doesn't respect persons, nor takes reward"* (WEB; stored, *not
   yet ingested*)
 - **Deuteronomy 16:18–19** — judges and officers *"in all your gates"*: *"You shall not pervert
-  justice. You shall not show partiality. You shall not take a bribe"* (WEB; stored, *not yet
-  ingested*)
+  justice. You shall not show partiality. You shall not take a bribe"* —
+  [[Judges, Worship, and Difficult Cases]]
 - **Job 34:19** — God *"doesn't respect the persons of princes, nor respects the rich more than the
   poor; for they all are the work of his hands"* — [[Elihu on God's Justice]]
 - **Proverbs 24:23** — *"To show partiality in judgment is not good."* — [[The Field of the Sluggard]]
@@ -58,6 +58,18 @@ that they judge not for man but for Yahweh, and that with Yahweh there is no res
 nor taking of bribes. That reference is given from memory as a paraphrase; the WEB text is not
 stored and has not been checked. James 2:1–9 applies the rule to the seating of rich and poor in
 the assembly — likewise a paraphrase, unchecked.
+
+### Deuteronomy 16:18–17:13 now ingested
+
+[[Judges, Worship, and Difficult Cases]] moves the rule from Moses' wilderness judges to judges in
+every town. The partiality clause is the same idiom as 1:17, *hakkîr pānîm*, *to recognize faces*,
+but singular, addressed to Israel, instead of plural, addressed to the judges (WLC 1:17; 16:19,
+morphhb). Deuteronomy 1:17 kept the hard case for Moses. Deuteronomy 17:8–9 sends it to the chosen
+place and to *"the priests who are Levites, and to the judge who shall be in those days"*. See
+[[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
+
+Sources: stored WEB Deuteronomy 1:17; 16:18–19; 17:8–9. Hebrew from WLC (morphhb), retrieved
+2026-11-07.
 
 ## Significance
 

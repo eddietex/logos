@@ -189,6 +189,7 @@ commands for Israel's life and worship, not a report that the people have alread
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the goat rule's third occurrence, closing the
   food laws.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the verb *šāmaṭ* of 23:11's fallow land applied to debts. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:19; the bribe clause of 23:8 repeated, with *"the eyes of the wise"* for *"those who have sight"*.
 
 ## Notes
 

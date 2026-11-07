@@ -119,6 +119,12 @@ anyone in Genesis act against foreign gods**, and it is Jacob, at 35:2–4, bury
 
 ## Development across Scripture
 
+### An Asherah beside Yahweh's altar, and the host of heaven — Deuteronomy 16:21–17:7
+
+Israel may not plant an Asherah *"beside Yahweh your God's altar"* or set up a sacred stone *"which Yahweh your God hates"* (16:21–22). Earlier texts ordered the destruction of the nations' poles; this one forbids putting one beside Yahweh's own altar. A man or woman who serves *"the sun, or the moon, or any of the stars of the sky"* (17:3) is stoned once the matter is proved on two or three witnesses. See [[The Pillar Jacob Raised and the Pillars the Law Forbids]].
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Three voices saying "let us serve other gods" — Deuteronomy 12:29–13:18
 
 After the nations are gone, Israel must not ask *"How do these nations serve their gods? I will do likewise"* (12:30). Three cases follow — a prophet with a fulfilled sign, a relative or friend enticing in secret, and a town drawn away — each with the words *"Let us go … and serve other gods"*, and each ending in death (13:1–18). The offence is recruitment, and it is treated as rebellion against the God of the exodus (13:5, 10).
@@ -478,6 +484,7 @@ texts, 2026-10-25.
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses blesses commanded craftsmanship after condemning the calf.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the nations' rites not to be imitated; three cases of enticement.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no Asherah by Yahweh's altar, no sacred stone; the worship of sun, moon, and stars judged.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

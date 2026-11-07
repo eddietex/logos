@@ -421,6 +421,7 @@ Abraham before Moriah is that he had made a durable peace, planted a tree, and s
 - 1 Samuel 22:6; 31:13 — the Bible's other two tamarisks, both Saul's.
 - Isaiah 40:28 — *"the everlasting God, Yahweh, the Creator of the ends of the earth"*, the closest
   thing in Scripture to a second use of Abraham's name for God.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:21; *"You shall not plant"* an Asherah, with the verb of Abraham's planting (21:33). See [[The Trees of the Patriarchs]].
 
 ## Notes
 

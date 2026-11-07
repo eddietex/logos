@@ -29,8 +29,8 @@ tags: [connection]
   at Shechem, at the covenant renewal.
 - **Judges 6:11, 19; 9:6, 37** — the oak at Ophrah; the oak of the pillar at Shechem where Abimelech
   is made king; the *oak of the diviners*.
-- **Deuteronomy 16:21** — *"You shall not plant for yourself an Asherah of any kind of tree beside
-  Yahweh's altar which you shall make for yourself."*
+- **Deuteronomy 16:21** — *"You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God's altar,
+  which you shall make for yourselves."* — [[Judges, Worship, and Difficult Cases]]
 - **Hosea 4:13; Isaiah 1:29; 57:5; Ezekiel 6:13** — the prophets on worship *"under every green
   tree"*.
 
@@ -70,8 +70,8 @@ horizon, invoked beside the slowest-growing thing available. See
 
 ### The problem Deuteronomy has with all of this
 
-> *"You shall not plant for yourself an Asherah of any kind of tree beside Yahweh's altar which you
-> shall make for yourself."* — Deuteronomy 16:21
+> *"You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God's altar,
+> which you shall make for yourselves."* — Deuteronomy 16:21
 
 **Read flatly, that verse forbids what Genesis 21:33 records without a flicker of unease.** Nor is it
 the only one: the patriarchs sacrifice at open-air sites all over the land, set up standing stones
@@ -129,6 +129,20 @@ named for the water, not the tree. The kind of tree is not given, and *ʿēṣ* 
 *tree*. **The only patriarch who cuts trees is Jacob, peeling rods to work a sign on Laban's flocks**
 (Genesis 30:37; see below); Moses at Marah is shown a tree to work a sign on water. See
 [[Bitter Water at Marah]].
+
+### Deuteronomy 16:21 now ingested
+
+The verb is the same in both verses: *wayyiṭṭaʿ*, *he planted* (Genesis 21:33), and *lōʾ-tiṭṭaʿ*,
+*you shall not plant* (Deuteronomy 16:21), both from *nāṭaʿ* (WLC, morphhb). *ʾĂšērâ* occurs in the
+Torah only at Exodus 34:13, Deuteronomy 7:5, 12:3, and 16:21, and 16:21 is the only one that forbids
+Israel to make one rather than ordering the nations' poles destroyed (lemma search, morphhb). Abraham's
+tamarisk was not beside an altar and is not called an Asherah. The wiki notes the shared verb and
+does not treat it as a ruling on Genesis. See [[Judges, Worship, and Difficult Cases]]. (Corrected
+2026-11-07: the two quotations of 16:21 above previously read *"for yourself"* and *"Yahweh's
+altar"*. They now match the stored WEB.)
+
+Source: stored WEB Genesis 21:33; Deuteronomy 16:21. Hebrew from WLC (morphhb), retrieved
+2026-11-07.
 
 ## Significance
 

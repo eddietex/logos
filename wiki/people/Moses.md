@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Courts in the gates and the case too hard — Deuteronomy 16:18–17:13
+
+Moses, unnamed, commands judges and officers in every town and repeats the bans on partiality and bribes (16:18–19). In Deuteronomy 1:17 he kept the hard case for himself, *"bring to me, and I will hear it"*. Here it goes to the chosen place, to the Levitical priests and *"the judge who shall be in those days"* (17:9): the law provides for the work he did once he is gone. At 17:3 his voice becomes Yahweh's, *"which I have not commanded"*. See [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Commands the three feasts — Deuteronomy 16:1–17
 
 Moses, unnamed in these verses, gives Deuteronomy's festival calendar: the Passover at the chosen place and not in the towns, the count of seven weeks, the feast of tents after the harvest, and the three appearances, *"They shall not appear before Yahweh empty"* (16:16).
@@ -2006,6 +2012,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; commands the servant's release with gifts and the ear-piercing for one who stays.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; commands the firstling dedicated, unworked, and eaten at the place.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; commands Passover, weeks, and tents at the chosen place.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; commands courts in the gates; sends the hard case to the place instead of to himself.
 
 ## Related people
 

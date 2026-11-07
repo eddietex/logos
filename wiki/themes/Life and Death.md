@@ -202,6 +202,12 @@ The boundary binds animal and human alike; the offender is to be stoned or shot,
 
 ## Development across Scripture
 
+### Death on two witnesses, life by justice — Deuteronomy 16:20; 17:6
+
+Justice is pursued *"that you may live, and inherit the land"* (16:20). The death penalty needs two or three witnesses: *"At the mouth of one witness he shall not be put to death"* (17:6). The witnesses' hands are first (7), so whoever testifies to a death also begins it.
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### The dead and what dies of itself — Deuteronomy 14:1, 21
 
 Death enters the unit twice. Sons of Yahweh are not to mark their bodies *"for the dead"* (14:1), and they are not to eat an animal that *"dies of itself"* (21). Deuteronomy gives one carcass clause (8) where Leviticus 11:24–40 gives many.
@@ -1319,6 +1325,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[The People Refuse the Land]] — Numbers 14:2, 35, 37–38; wished death, sentenced death, and the
   two who lived
 - [[A Holy People and Its Food]] — Deuteronomy 14:1, 21; mourning marks forbidden, and meat that died of itself.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; justice for life in the land; no death on one witness.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

@@ -148,6 +148,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Stages of the Journey]] — Numbers 33:3; Israel *"went out with a high hand"* *"on the next
   day after the Passover"*. See the note *By night* below.
 - 2 Chronicles 35:1–19 — Josiah's Passover at Jerusalem; not yet ingested, and not quoted here.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the next pericope, which makes the chosen place the court for hard cases.
 
 ## Notes
 

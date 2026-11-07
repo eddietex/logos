@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### He hates the sacred stone, and keeps the last court — Deuteronomy 16:18–17:13
+
+Yahweh gives the towns where the judges sit (16:18). He *"hates"* the sacred stone (16:22), the only place in the Torah where that is said of it, and a defective sacrifice is *"an abomination"* to him (17:1). At 17:3 the law speaks in his voice, *"which I have not commanded"*. The case too hard for the towns goes up to the place he chooses, to the priest *"who stands to minister there before Yahweh your God"* (17:12).
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### He chooses the place, and blesses the harvest — Deuteronomy 16:1–17
 
 Yahweh *"brought you out of Egypt by night"* (16:1). He chooses the place *"to cause his name to dwell"* (2, 6, 11), where all three feasts are kept and the males appear *"before Yahweh your God"* (16). He blesses the harvest and the work of Israel's hands (10, 15), and that blessing is the measure of what each man gives (17).
@@ -4342,6 +4348,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the blessing that measures the servant's gifts (14), the redemption from Egypt (15), and blessing for release (18).
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated to him and eaten before him at the place he chooses.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the feasts kept at the place he chooses; his blessing the measure of the gifts.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the place he chooses as the court for hard cases (17:8); hates the sacred stone (16:22).
 
 ## Related people
 

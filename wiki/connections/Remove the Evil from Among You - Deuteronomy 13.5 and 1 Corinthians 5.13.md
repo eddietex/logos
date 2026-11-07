@@ -9,8 +9,10 @@ tags: [connection]
 
 - [[Do Not Follow Other Gods]] — Deuteronomy 13:5; the formula's first use, for the prophet who
   leads to other gods.
-- Deuteronomy 17:7, 17:12, 19:19, 21:21, 22:21, 22:22, 22:24, 24:7 — the formula's later uses in
-  Deuteronomy's laws (stored WEB, not yet ingested).
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:7, 12; the worshipper of other gods put to death on two or three
+  witnesses, and the man who refuses the verdict of the court at the place.
+- Deuteronomy 19:19, 21:21, 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's
+  laws (stored WEB, not yet ingested).
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
   yourselves.'"* (WEB, verified from bible-api.com).
 
@@ -51,6 +53,16 @@ who are outside, God judges"* (5:13).
 Which Deuteronomy verse Paul is quoting is not stated in 1 Corinthians. Because the formula occurs
 in several laws, including the sexual offences of 22:21–24, the wiki does not tie the quotation to
 13:5 alone. It is filed here because 13:5 is the formula's first occurrence.
+
+### Deuteronomy 17:7, 12 now ingested
+
+In [[Judges, Worship, and Difficult Cases]] both uses close a death sentence. At 17:7 the witnesses'
+hands are first, then all the people's, *"So you shall remove the evil from among you"*. At 17:12 the
+evil removed is the presumption of a man who will not listen *"to the priest … or to the judge"*.
+Both verses use *ûbiʿartā hāraʿ* (WLC, morphhb). The second is the first case in which the offence is
+refusing a court, not worship or violence.
+
+Source: stored WEB Deuteronomy 17:7, 12. Hebrew from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 

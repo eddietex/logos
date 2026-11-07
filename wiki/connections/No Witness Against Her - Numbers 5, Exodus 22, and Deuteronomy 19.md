@@ -9,7 +9,8 @@ tags: [connection]
 
 - **Numbers 5:13** — [[The Suspected Wife]]: *"there is no witness against her, and she isn't taken in the act"*.
 - **Exodus 22:10–11** — [[Laws of Property and Restitution]]: *"no man seeing it; the oath of Yahweh shall be between them both"*.
-- **Deuteronomy 17:6; 19:15** *(not yet ingested; WEB verified)* — *"At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established."*
+- **Deuteronomy 17:6** — [[Judges, Worship, and Difficult Cases]]: *"At the mouth of one witness he shall not be put to death."*
+- **Deuteronomy 19:15** *(not yet ingested; WEB verified)* — *"At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established."*
 - **Deuteronomy 22:13–19** *(not yet ingested; WEB verified)* — the husband who gives his wife *"a bad name"*.
 - **1 Kings 8:31–32** *(not yet ingested; WEB verified)* — an oath before the altar, and Yahweh asked to judge, *"condemning the wicked … and justifying the righteous"*.
 
@@ -30,6 +31,18 @@ chastised, fined one hundred shekels, and cannot put her away. Numbers 5:31 says
 free from iniquity*. These are different cases, one about proof of virginity and one about adultery,
 and the Deuteronomy case has tokens to show. So they do not contradict each other, but the two laws
 give the husband different exposure. **The wiki states the difference and leaves it unresolved.**
+
+### Deuteronomy 17:2–7 now ingested
+
+[[Judges, Worship, and Difficult Cases]] gives the first form of the rule in Deuteronomy. It applies
+to a capital charge, the worship of other gods, and adds two things. An inquiry comes first: *"you
+shall inquire diligently. Behold, if it is true, and the thing certain"* (17:4). And the witnesses
+must throw the first stones (17:7), so testimony that kills makes the witness the first executioner.
+Numbers 35:30 had stated the one-witness rule for murder. 19:15 will extend it to *"any iniquity"*.
+The gap this page is about is still open: where there is no witness at all, Deuteronomy 17 has no
+procedure, and Numbers 5 gives the only one for that case.
+
+Source: stored WEB Numbers 35:30; Deuteronomy 17:4–7; 19:15.
 
 ## Significance
 

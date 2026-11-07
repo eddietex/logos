@@ -67,6 +67,12 @@ about.
 
 ## Development across Scripture
 
+### Justice, justice you shall pursue — Deuteronomy 16:18–20
+
+The judges give *mišpaṭ-ṣedeq*, *"righteous judgment"* (16:18), and Israel is told *ṣedeq ṣedeq tirdōp*, *"You shall follow that which is altogether just, that you may live, and inherit the land"* (20; WLC, morphhb). It is the only verse in the Torah where *ṣedeq* occurs twice. The bribe *"perverts the words of the righteous"* (19): the danger is to righteous people, not only to corrupt ones.
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *What great nation is there, that has statutes and ordinances so righteous as all this law?* (8). Righteousness is predicated of the law, not of Israel; 9:4–6 will deny that the land is given for Israel's righteousness.
@@ -654,6 +660,7 @@ are identified on the passage and connection pages.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:15–16; The righteous man falls seven times and rises.
 - [[The Field of the Sluggard]] — Proverbs 24:24; *"You are righteous"* said to the wicked, and cursed.
 - [[The Glory of Kings]] — Proverbs 25:5, 26; The throne established by removing the wicked; the righteous who gives way, a polluted spring.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *ṣedeq ṣedeq*, justice pursued for life in the land; the bribe that perverts the righteous.
 
 ## Related themes
 

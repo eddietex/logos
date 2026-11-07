@@ -279,6 +279,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### The verdict kept like the law — Deuteronomy 17:8–13
+
+The higher court's ruling is *tôrâ*, *"the decisions of the law which they shall teach you"* (17:11; WLC, morphhb), and Israel must not turn from it *"to the right hand, nor to the left"*, the phrase 5:32 used for the commandments. Refusal is *zādôn*, presumption, and is punished by death (12), so that *"All the people shall hear, and fear"* (13).
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### The food law for the people — Deuteronomy 14:1–21
 
 Deuteronomy restates Leviticus 11 for the whole people, shorter in its carcass rules and different on insects and on the animal that dies of itself. Its ground is status, not reward: *"you are a holy people"* (2, 21).
@@ -1499,6 +1505,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[Vows of Men and Women]] — Numbers 30:1, 16; household statutes for vows
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 12:32; nothing added or taken away.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated, with differences from Leviticus 11.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the court's verdict as *tôrâ*, not to be turned from right or left.
 
 ## Related themes
 

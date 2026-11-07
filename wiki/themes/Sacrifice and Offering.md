@@ -93,6 +93,12 @@ recorded on [[The Fall]] as a reading rather than as what the verse states.
 
 ## Development across Scripture
 
+### No defective ox or sheep — Deuteronomy 17:1
+
+*"You shall not sacrifice to Yahweh your God an ox, or a sheep, in which is a defect, or anything evil; for that is an abomination to Yahweh your God"* (17:1). The firstling rule of 15:21 is made general, and the word *abomination* is the one used three verses later for worshipping the stars (17:4).
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### The Passover only at the place — Deuteronomy 16:1–17
 
 *"You may not sacrifice the Passover within any of your gates"* (16:5); it is sacrificed *"of the flock and the herd"* at the chosen place, *"at evening, at the going down of the sun"* (2, 6), and cooked and eaten there (7). Exodus 12 had it killed at every house. At weeks the gift is *"a freewill offering of your hand"* (10), and no one appears *"empty"* (16).
@@ -967,6 +973,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; children burned by the nations (12:31); the devoted town burned.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling eaten at the place, the defective one barred from sacrifice.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Passover sacrificed only at the chosen place (5–6); freewill gifts, and no one empty (10, 16).
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no defective ox or sheep; *an abomination* (17:1).
 
 ## Related themes
 

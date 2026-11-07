@@ -23191,3 +23191,50 @@ or fetched. Hebrew claims checked against WLC from morphhb (openscriptures, GitH
 *ʿŏnî*, *ḥippāzôn*, *śəʾōr*, *ʿăṣeret*, *ḥermēš*, *qāmâ*, *missâ*, *nədābâ*, *śāmaḥ*, *śāmēaḥ*,
 *śimḥâ*, *sukkâ*, *zəkûr*, *mattānâ*, and *šākan*, retrieved 2026-11-07. Raw files, canonical
 workflow instructions, and controller files were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 16.18-17.13 — Judges, Worship, and Difficult Cases
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary. The title is written
+*Judges, Worship, and Difficult Cases*, adding the commas the draft plan lacked. Created the passage
+page and one connection, [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]],
+which follows the hard case from Moses (Exodus 18:26; Deuteronomy 1:17) to the court at the chosen
+place (17:8–13), with the *yippālēʾ … dābār* of Genesis 18:14. Revised 37 existing pages including this
+log: Deuteronomy, which gains Judgment, Righteousness, and Priesthood as key themes; two people (God,
+Moses); eleven themes (Judgment, Righteousness, Idolatry, Law and Obedience, Priesthood, Sacrifice
+and Offering, The Fear of God, Wisdom, Pride and Self-Exaltation, Life and Death, Covenant); six
+connections (A Bribe Blinds, The Judgment Is God's, The Pillar Jacob Raised, The Trees of the
+Patriarchs, No Witness Against Her, Remove the Evil from Among You); nine earlier passage pages
+(Cross-references: Jethro's Counsel, Judges Appointed for the People, Justice, Sabbaths, and Feasts,
+Do Not Follow Other Gods, The Three Visitors and Abraham's Intercession, The Treaty at Beersheba,
+Acceptable Victims and the Holy Name, What Yahweh Requires of Israel, Passover, Weeks, and Booths);
+and seven index/dashboard pages. Deuteronomy is now 37 / 69. Counts by frontmatter type are 362
+passages, 257 people, 222 places, 87 themes, and 750 connections.
+
+Corrections: The Trees of the Patriarchs quoted Deuteronomy 16:21 twice as *"for yourself"* and
+*"Yahweh's altar"*, and The Pillar Jacob Raised quoted 16:22 with *"pillar"*. All three now match the
+stored WEB (*"for yourselves"*, *"Yahweh your God's altar"*, *"sacred stone"*), and each page notes the
+correction.
+
+Judgment calls: the judges, officers, witnesses, priests, and *"the judge who shall be in those days"*
+get no person pages, and the chosen place and the gates get no place pages. 16:21–17:1 is kept in
+this unit although it interrupts the court laws; three explanations are recorded and none adopted.
+The following are recorded and not resolved: what the *šōṭərîm* did; the doubling *ṣedeq ṣedeq*;
+whether the Asherah was a living tree or a pole; how 16:22 fits Jacob's pillars (left to the existing
+page); the first-person *"which I have not commanded"* (17:3); the enticer case of 13:9, where the
+relative's hand is first and the two-witness rule could not be met in the same way; whether *negaʿ*
+(17:8) is assault or skin disease; whether Deuteronomy distinguishes priests from Levites (left for
+18:1–8); how priest and judge share the work. Deuteronomy 18:15–22; 19:15; 30:11 and 2 Chronicles 19
+are cited as not yet ingested; Chronicles is paraphrased, not quoted. The New Testament uses of the
+witness rule (Matthew 18:16; John 8:17; 2 Corinthians 13:1; 1 Timothy 5:19; Hebrews 10:28) are given
+as references only.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 1:9, 13, 15, 17, 43; 4:1, 19; 5:32;
+6:18; 7:5; 10:17; 11:8; 12:3, 31; 13:6, 9, 11, 14; 15:21; 16:18–17:13; 18:1, 15, 20–22; 19:15–19;
+24:8; 27:25; 30:11; Genesis 18:14; 21:33; Exodus 1:14; 5:14; 18:22, 26; 21:14; 23:6–8; 32:9; 34:13;
+Leviticus 22:20–21; 26:1; Numbers 35:30. No book outside raw/ was quoted or fetched. Hebrew claims
+checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 1:17; 13:12, 15;
+16:18–17:13; 30:11; Genesis 18:14; 21:33; Exodus 18:22, 26; 23:8 — with lemma searches across
+Genesis–Deuteronomy for *šōṭēr*, *šōḥad*, *ʿiwwēr*, *ṣedeq*, *ʾăšērâ*, *maṣṣēbâ*, *mûm*, *tôʿēbâ*,
+*bāʿar*, *pālāʾ* (with stems), *qāšâ*, *zādôn*, and *zîd*, and a sequence search for *hakkōhănîm
+halwiyyim*, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files
+were unchanged.

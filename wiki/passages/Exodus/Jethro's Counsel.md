@@ -468,6 +468,7 @@ third tradition** is set out on [[Jethro]].
 - Judges 1:16; 4:11 — the Kenites, *"Moses' brother-in-law"*, Hobab *(not yet ingested)*
 - Acts 6:2–4 — the apostles delegate the tables to *"seven men of good report"* so as to keep *"the ministry of
   the word"* *(not yet ingested)*
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:8–13; the hard case no longer goes to Moses but to the chosen place. See [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
 
 ## Notes
 

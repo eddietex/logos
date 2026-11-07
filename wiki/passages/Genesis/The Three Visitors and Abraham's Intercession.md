@@ -479,6 +479,7 @@ the sparing of the place he argued for.
 - Job 9:22–24; 34:10–19 — the Judge of all the earth doing right, questioned at book length.
 - Job 30:19; 42:6 — *dust and ashes*, in the mouth of the other man who argues.
 - [[Train Up a Child - Proverbs 22.6, Genesis 18.19, and Deuteronomy 6.7]] — 18:19's charge to command his children in the way of Yahweh.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:8; *yippālēʾ … dābār*, the matter *"too hard for you"*, the same verb form as 18:14. See [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
 
 ## Notes
 

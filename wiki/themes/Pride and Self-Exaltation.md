@@ -80,6 +80,12 @@ reading that the text supports, is located in what the building was *for*.
 
 ## Development across Scripture
 
+### Presumption against the court — Deuteronomy 17:12–13
+
+*"The man who does presumptuously"* — *bəzādôn* — *"in not listening to the priest … or to the judge, even that man shall die"* (17:12; WLC, morphhb). *Zādôn* occurs in the Torah only here and at 18:22, of the prophet who speaks presumptuously. The related verb describes Israel going up at Kadesh against the command (1:43). Presumption here is refusing an authority one knows to be binding.
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 *I will break the pride of your power* (19, *gəʾôn ʿuzzəkem*) uses the verb of the broken yoke at
@@ -400,6 +406,7 @@ The people answer a sentence by going up against the word. The verb, *wayyaʿpil
 - [[Miriam and Aaron Against Moses]] — Numbers 12:2–3; *only with Moses?* and *very humble*.
 - [[The Defeat at Hormah]] — Numbers 14:44; *they presumed*
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30; *with a high hand*
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *zādôn*, presumption, as refusal of the verdict.
 
 ## Related themes
 

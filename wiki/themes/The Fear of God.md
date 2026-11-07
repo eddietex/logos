@@ -70,6 +70,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Hear, and fear — Deuteronomy 17:13
+
+After the death of the man who refused the verdict, *"All the people shall hear, and fear, and do no more presumptuously"* (17:13), repeating 13:11. Fear here is the public lesson of a judgment, and its opposite is presumption.
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Learned at the table — Deuteronomy 14:22–29
 
 The tithe meal is *"that you may learn to fear Yahweh your God always"* (23). Deuteronomy pairs learning with fear elsewhere for hearing and reading (4:10; 17:19; 31:12–13, WLC *lāmad* with the verb *yārēʾ*, morphhb); here the setting is a meal at the place Yahweh chose. The text does not say how the meal teaches.
@@ -735,6 +741,7 @@ and forbidden, and it is set against rebelling against Yahweh. See [[The People 
 - [[The People Refuse the Land]] — Numbers 14:9; *don't fear them*
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:4, 11; fear Yahweh, and all Israel hears and fears.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten *"that you may learn to fear Yahweh"* (23).
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *all the people shall hear, and fear* (17:13).
 
 ## Related themes
 

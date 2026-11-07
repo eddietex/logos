@@ -20,7 +20,8 @@ tags: [connection]
   [[The Blood of the Covenant]]
 - Exodus 23:24; 34:13; Deuteronomy 7:5; 12:3 — smash the Canaanite pillars — [[The Angel Sent Ahead]]
 - Leviticus 26:1 — *"you shall not raise up a carved image or a pillar"* — [[Blessings for Obedience]]
-- Deuteronomy 16:21–22 — *"neither shall you set yourself up a pillar, which Yahweh your God hates"*
+- Deuteronomy 16:21–22 — *"Neither shall you set yourself up a sacred stone which Yahweh your God
+  hates"* (16:22) — [[Judges, Worship, and Difficult Cases]]
 - Joshua 4:1–9 — twelve stones out of the Jordan
 - Joshua 24:26–27 — a great stone under an oak, *"it shall be a witness against us"*
 - 1 Samuel 7:12 — Ebenezer
@@ -30,6 +31,21 @@ tags: [connection]
 - Isaiah 19:19 — *"a pillar at its border to Yahweh"*, in Egypt
 
 ## Analysis
+
+### Deuteronomy 16:21–22 now ingested
+
+[[Judges, Worship, and Difficult Cases]] gives the prohibition in the WEB as *"sacred stone"*; the
+noun is the same *maṣṣēbâ* (WLC 16:22, morphhb). Two details matter for the readings below. It is
+the only Torah text that says Yahweh *hates* the object; Exodus 23:24, 34:13, Deuteronomy 7:5 and 12:3
+command destroying the nations' pillars, and Leviticus 26:1 forbids raising one. And the paired
+Asherah in 16:21 is planted *"beside Yahweh your God's altar"*, so the setting is Israel's own worship
+of Yahweh, not the nations'. So reading 1 has to be put carefully: what is forbidden here is not only the
+Canaanites' objects but the same objects set up in Yahweh's own worship. The wiki still does not
+choose between the readings. (Corrected
+2026-11-07: the bullet above previously quoted 16:22 as *"pillar"*, not the WEB's *"sacred stone"*.)
+
+Source for this addition: stored WEB Deuteronomy 7:5; 12:3; 16:21–22; Exodus 23:24; 34:13; Leviticus
+26:1. Hebrew from WLC (morphhb), retrieved 2026-11-07.
 
 ### Deuteronomy 7:1–11 now ingested
 

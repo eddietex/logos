@@ -142,6 +142,12 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### The priests the Levites as judges — Deuteronomy 17:8–12
+
+The hard case goes to *"the priests who are Levites, and to the judge who shall be in those days"* (17:9), and refusing *"the priest who stands to minister there before Yahweh"* is a capital offence (12). *Hakkōhănîm halwiyyim* occurs in the Torah only in Deuteronomy (17:9, 18; 18:1; 24:8; 27:9; WLC, morphhb). How priest and judge divide the work is not stated.
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### The Levite's share in the tithe — Deuteronomy 14:22–29
 
 The Levite *"has no portion nor inheritance"* and must not be forsaken (27); he joins the tithe meal and is first among the third-year recipients (29). Numbers 18:21–24 gives the Levites the whole tithe as their inheritance. Deuteronomy's arrangement is different and does not mention Numbers'. See [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
@@ -835,6 +841,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; the priest makes atonement
 - [[The War Against Midian]] — Numbers 31:1–54; Phinehas with the army; Eleazar's statute and portion.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the landless Levite at the tithe meal and in the third-year tithe.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the Levitical priests and the judge at the place give the final verdict.
 
 ## Related themes
 

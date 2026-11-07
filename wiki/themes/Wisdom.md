@@ -55,6 +55,12 @@ close to the book's whole point about who may speak for the tradition. See
 
 ## Development across Scripture
 
+### A bribe blinds the wise — Deuteronomy 16:19
+
+*"A bribe blinds the eyes of the wise"* (16:19), where Exodus 23:8 had *"those who have sight"*. Wisdom is no protection against a bribe; it is the thing the bribe blinds. See [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
+
+See [[Judges, Worship, and Difficult Cases]]. Source: stored WEB Deuteronomy 16:18–17:13.
+
 ### Statutes and Horeb — Deuteronomy 4:1–14
 
 *This is your wisdom and your understanding in the sight of the peoples* (6). Wisdom is identified with keeping the statutes; the nations will judge Israel *a wise and understanding people* by what they hear of its law.
@@ -1066,6 +1072,7 @@ comparison passages identified on that page.
 - [[The Field of the Sluggard]] — Proverbs 24:23, 32; The second *"sayings of the wise"*; instruction received by looking.
 - [[The Glory of Kings]] — Proverbs 25:2, 12, 16–17, 28; The king's searching, the reprover and the hearing ear, the spirit without restraint.
 - [[Answer a Fool]] — Proverbs 26:4–5, 7, 9, 16; Two true sayings that require judgment; the proverb that needs a wise mouth.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the bribe that blinds the eyes of the wise.
 
 ## Related themes
 

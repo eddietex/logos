@@ -79,6 +79,7 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[The Seventy Elders and the Quail]] — Numbers 11:14, Moses' *"not able to bear … alone"* spoken to God.
 - [[Leave Horeb and Possess the Land]] — the command at Horeb (1:6–8) that this unit follows.
 - [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] — the corrupted court, which Deuteronomy 16:18–19 forbids to the judges in every gate.
+- [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; judges in every town, and the hard case sent to the place instead of to Moses. See [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
 
 ## Notes
 
