@@ -131,7 +131,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   towns, here given a way to the place.
 - [[The Priests Who Kept Their Land and the Levites Who Got None]] — what *"no portion nor
   inheritance"* does and does not exclude.
-- Deuteronomy 18:9–22 *(next pericope)* — the prophet, the last office in the list.
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the next pericope, the prophet, the last office in the list.
 - 1 Samuel 2:12–17 and 2 Kings 23:8–9 *(not yet ingested)* — WEB checked; quoted on the connection
   pages.
 

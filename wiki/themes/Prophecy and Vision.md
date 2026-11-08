@@ -174,6 +174,19 @@ The Torah's one statement of grades. Miriam the prophetess and Aaron ask whether
 
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
+### The law of the prophet — Deuteronomy 18:9–22
+
+The Torah's one law of the office. Divination, sorcery, mediums, and the dead are what the nations
+*"listen to"* (14); Israel is to listen to a prophet Yahweh raises *"of your brothers, like me"* (15),
+with Yahweh's words in his mouth (18). The prophet begins on Yahweh's side and is sent; the diviner begins
+on the human side and asks. The office brings its own danger, so the section ends with the prophet who
+speaks *"presumptuously"* and the test after the event: *"if the thing doesn't follow, nor happen, that is
+the thing which Yahweh has not spoken"* (22). Whether *"a prophet"* is an office or one figure is left
+open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:15 to Jesus. See [[A Prophet Like Me - Deuteronomy 18.15-19 in John, Acts, and the Transfiguration]],
+[[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]], and [[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]].
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
+
 ## Key passages
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
@@ -410,6 +423,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 - [[The Seventy Elders and the Quail]] — Numbers 11:25–29; the first use of the verb, and Moses' wish.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; a vision and a dream for prophets, *mouth to mouth* for Moses.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the prophet or dreamer whose sign comes true but leads to other gods.
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the prophet like Moses instead of the diviners, and the test of the word that does not happen.
 
 ## Related themes
 

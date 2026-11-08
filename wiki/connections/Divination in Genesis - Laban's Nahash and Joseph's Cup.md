@@ -24,8 +24,8 @@ tags: [connection]
 - [[The Cupbearer and the Baker]] — **Genesis 40:8**: dream interpretation credited to God — *"don't
   interpretations belong to God?"*; and 41:16, *"it is not in me. God will give Pharaoh an answer"*
   *(41 not yet ingested)*
-- **Leviticus 19:26; Deuteronomy 18:9–14** — the prohibition, and *"you shall be blameless with
-  Yahweh your God"*
+- **Leviticus 19:26;** [[A Prophet Like Moses]] **(Deuteronomy 18:9–14)** — the prohibition, and *"You shall be perfect
+  with Yahweh your God"* (18:13). See [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]]
 - **Numbers 22–24** — Balaam, hired for divination and made to bless
 - **Numbers 23:23** — *"Surely there is no enchantment with Jacob; neither is there any divination
   with Israel"*
@@ -124,7 +124,7 @@ about.** Balaam's point is that this people cannot be read by omens, because wha
 decided elsewhere — which is, in different words, the thing Laban's omen actually told him.
 
 **Deuteronomy 18:9–14 then draws the line the narrative never draws**, and draws it as a contrast
-rather than a ban in isolation: the nations *"listen to those who practice divination"*, but **you
+rather than a ban in isolation: the nations *"listen to those who practice sorcery and to diviners"* (18:14), but **you
 shall have a prophet.** **Genesis has already shown the alternative in operation** — the dream at
 Bethel, the angel at the ford, the interpretations Joseph twice hands back to God — **without ever
 telling Laban he was doing it wrong.**

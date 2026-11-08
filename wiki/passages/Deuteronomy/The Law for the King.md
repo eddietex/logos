@@ -133,6 +133,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   turned his heart. WEB checked; quoted in the notes.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the next pericope. The priests the Levites, keepers of the
   law the king copies, and their due.
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the prophet, the last office in the list, also raised *"of your brothers"*.
 
 ## Notes
 

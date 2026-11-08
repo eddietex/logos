@@ -4363,6 +4363,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the place he chooses as the court for hard cases (17:8); hates the sacred stone (16:22).
 - [[The Law for the King]] — Deuteronomy 17:14–20; chooses the king (15); forbids the way back to Egypt (16).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; Levi's inheritance (2); chooses the priest (5).
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the arts of the nations an abomination to him (12); raises the prophet and puts his words in his mouth (15, 18); will require it of the one who does not listen (19).
 
 ## Related people
 

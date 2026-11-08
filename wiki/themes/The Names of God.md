@@ -507,6 +507,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; the name placed *"in"* the angel sent ahead.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:27; *they shall put my name on the children of Israel*.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; ministering *"in Yahweh's name"* (5, 7).
+- [[A Prophet Like Moses]] — Deuteronomy 18:19–22; the prophet speaks *"in my name"*; the false one *"in the name of other gods"* (20).
 
 ## Related themes
 

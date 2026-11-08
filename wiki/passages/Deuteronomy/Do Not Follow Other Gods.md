@@ -122,6 +122,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - Matthew 10:37 — *"He who loves father or mother more than me is not worthy of me"* (WEB, verified
   from bible-api.com); loyalty above family, without Deuteronomy's death sentence.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:2–7; the same inquiry, *"if it is true, and the thing certain"*, now with two or three witnesses.
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the nations' arts forbidden, the prophet promised, and the second test of a prophet (20–22).
 
 ## Notes
 

@@ -15,6 +15,7 @@ tags: [connection]
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:33, 36: a people heard the voice from the fire and lived; the voice *out of heaven*, the fire *on earth*.
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:22, the public voice.
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33, hearing survived and mediation requested.
+- [[A Prophet Like Moses]] — Deuteronomy 18:16–18, the request recalled as the origin of the prophet like Moses.
 
 ## Analysis
 

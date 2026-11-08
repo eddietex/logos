@@ -121,7 +121,7 @@ will speak what Moses gives him**, as Moses is *"as God"* to Pharaoh — the arr
 where Aaron was to be Moses' *"mouth"*. **Genesis 20:7 makes the prophet someone who speaks *to*
 God for others; Exodus 7:1 makes him someone who speaks *for* another to others.** The canon keeps
 both directions, and Moses, who does both, is the figure in whom they meet (Exodus 32:11–14;
-Deuteronomy 18:18, not yet ingested). See [[Aaron's Staff Before Pharaoh]].
+Deuteronomy 18:18, in [[A Prophet Like Moses]]). See [[Aaron's Staff Before Pharaoh]].
 
 **And Exodus 8 brings the two directions together within a chapter of 7:1.** The man who is *"as
 God"* to Pharaoh, with a *nābîʾ* of his own, is asked by the same Pharaoh to *"Entreat Yahweh"* (8:8)

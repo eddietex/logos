@@ -11,6 +11,14 @@ status: in-progress
 
 ## Overview
 
+[[A Prophet Like Moses]] (18:9–22) ends the list of offices with the prophet. Israel is not to imitate
+the nations' child-burning, divination, sorcery, mediums, or consulting of the dead, which are why the
+nations are driven out; it is to be *"perfect with Yahweh"*. Instead Yahweh will raise *"a prophet …
+like me"* from among the brothers, as he promised at Horeb when the people asked not to hear his voice
+again, and put his words in his mouth. The prophet who speaks presumptuously dies, and a word that does
+not happen was not Yahweh's. Whether the promise is of an office or of one prophet is left open; Acts
+3:22–23 applies it to Jesus.
+
 [[The Portion of the Priests and Levites]] (18:1–8) turns from the king to the priests. *"The priests
 the Levites, all the tribe of Levi"* have no portion nor inheritance with Israel; Yahweh is their
 inheritance, and they eat the offerings by fire. The priest receives the shoulder, cheeks, and inner
@@ -214,7 +222,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **39 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **40 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -255,7 +263,7 @@ Plan drawn 2026-11-05 from the stored WEB. **39 / 69 pericopes ingested.**
 - [x] [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13
 - [x] [[The Law for the King]] — Deuteronomy 17:14–20
 - [x] [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
-- [ ] A Prophet Like Moses — Deuteronomy 18:9–22
+- [x] [[A Prophet Like Moses]] — Deuteronomy 18:9–22
 - [ ] Refuge for the Unwitting Killer — Deuteronomy 19:1–13
 - [ ] Landmarks Witnesses and False Testimony — Deuteronomy 19:14–21
 - [ ] Laws for Going to War — Deuteronomy 20:1–20
@@ -310,6 +318,8 @@ Plan drawn 2026-11-05 from the stored WEB. **39 / 69 pericopes ingested.**
 - [[The Fear of God]]
 - [[Brotherhood]]
 - [[Land and Sojourning]]
+- [[Integrity]]
+- [[The Nations]]
 
 ## Key people
 - [[God]]

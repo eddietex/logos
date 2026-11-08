@@ -270,6 +270,13 @@ The king must be *"one from among your brothers. You may not put a foreigner ove
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### The prophet is a brother — Deuteronomy 18:15, 18
+
+Like the king (17:15), the prophet is raised *"from among you, of your brothers"* (15), *"from among their
+brothers"* (18). Every office in the list of 16:18–18:22 is filled from within Israel.
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
@@ -385,6 +392,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant named *"your brother"* before *"a Hebrew"* (12).
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king *"from among your brothers"* (15), not lifted *"above his brothers"* (20).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no inheritance among the brothers (2); the newcomer serves as his brothers the Levites (7).
+- [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; the prophet raised *"of your brothers"*.
 
 ## Related themes
 

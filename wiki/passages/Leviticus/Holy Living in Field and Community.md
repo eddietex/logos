@@ -99,6 +99,7 @@ The unit closes by requiring observance of all his statutes and ordinances (35�
 - [[The Trespass Ram in Different Cases - Leviticus 5 and 19]]
 - [[A Holy People and Its Food]] — Deuteronomy 14:1 forbids cutting and baldness for the dead to all
   Israel; see [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]].
+- [[A Prophet Like Moses]] — Deuteronomy 18:10–11; enchantment, sorcery, mediums, and wizards in Deuteronomy's list. See [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]]
 
 ## Notes
 

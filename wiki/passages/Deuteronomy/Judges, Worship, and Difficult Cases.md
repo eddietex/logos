@@ -152,6 +152,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; *"the priests the Levites, all the tribe of Levi"* (18:1),
   and the country Levite who ministers *"as all his brothers the Levites do, who stand there before
   Yahweh"* (18:7).
+- [[A Prophet Like Moses]] — Deuteronomy 18:20–22; the presumptuous prophet dies, as does the presumptuous man of 17:12–13.
 
 ## Notes
 

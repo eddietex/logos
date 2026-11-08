@@ -530,6 +530,14 @@ Joshua and Caleb plead on the other side at the same time, with the people, and 
 See [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]]
 and [[The People Refuse the Land]].
 
+### The prophet as the people's go-between — Deuteronomy 18:15–18
+
+The prophet is Yahweh's answer to the request at Horeb: *"Let me not hear again Yahweh my God's voice"*
+(16). Yahweh approves it, *"They have well said"* (17, as at 5:28), and promises a prophet like Moses to
+carry his words (18). Mediation is not only Moses' person but a lasting provision. See [[A Prophet Like Me - Deuteronomy 18.15-19 in John, Acts, and the Transfiguration]].
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
@@ -822,6 +830,7 @@ and [[The People Refuse the Land]].
 - [[The Seventy Elders and the Quail]] — Numbers 11:11–30; the mediator's burden shared with seventy.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:11–14; the attacked brother prays for the sister.
 - [[The People Refuse the Land]] — Numbers 14:5–19; the second offer of a new nation, and the plea
+- [[A Prophet Like Moses]] — Deuteronomy 18:15–18; the prophet as the lasting answer to the request for a go-between.
 
 ## Related themes
 

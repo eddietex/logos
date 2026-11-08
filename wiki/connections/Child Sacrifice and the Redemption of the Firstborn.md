@@ -23,7 +23,7 @@ tags: [connection]
   five-shekel redemption price — [[The Generations of Aaron and the Levites Given]]; see also
   [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]]
 - **Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 18:10** — the prohibition, attached to Molech and to
-  *"passing through the fire"*
+  *"passing through the fire"*; 18:10 heads the list of the nations' arts in [[A Prophet Like Moses]]
 - **Judges 11:29–40** — Jephthah's vow, and the daughter nobody stops
 - **2 Kings 3:26–27; 16:3; 21:6; 23:10** — kings of Moab, Judah, and Israel who do it
 - **Jeremiah 7:31; 19:5; 32:35** — *"which I didn't command, nor did it come into my mind"*

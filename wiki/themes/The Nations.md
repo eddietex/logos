@@ -336,6 +336,14 @@ Israel's request is foreseen: *"I will set a king over me, like all the nations 
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### What the nations listen to — Deuteronomy 18:9–14
+
+*"These nations that you shall dispossess listen to those who practice sorcery and to diviners; but as for
+you, Yahweh your God has not allowed you so to do"* (14). As with the king *"like all the nations"*
+(17:14), the law defines Israel against them; their practices are why they are driven out (12).
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; nations greater and mightier than Israel driven out on condition of obedience (23–25).
@@ -620,6 +628,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[A Holy People and Its Food]] — Deuteronomy 14:2, 21; a people set apart from all peoples by its food.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; Israel to lend to many nations and not borrow (6); the *nokrî* not released (3).
 - [[The Law for the King]] — Deuteronomy 17:14–20; *"like all the nations"* (14); no foreigner as king (15).
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–14; the nations' diviners, and why they are driven out.
 
 ## Related themes
 

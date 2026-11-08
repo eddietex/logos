@@ -10,6 +10,7 @@ tags: [connection]
 - [[Forbidden Unions and the Defiled Land]]
 - [[Penalties and a People Set Apart]]
 - [[Holy Living in Field and Community]]
+- [[A Prophet Like Moses]] — Deuteronomy 18:10–11; the mediums and wizards of Leviticus 19:31 and 20:6, 27 in Deuteronomy's list
 - [[Clean and Unclean Animals]]
 
 ## Analysis

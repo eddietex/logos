@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Do Not Follow Other Gods]] — Deuteronomy 13:1–5; the prophet whose sign comes to pass.
-- Deuteronomy 18:20–22 — the prophet whose word does not happen (stored WEB, not yet ingested).
+- [[A Prophet Like Moses]] — Deuteronomy 18:20–22; the prophet whose word does not happen.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:6–8; Yahweh speaks to a prophet in a vision or
   a dream, and to Moses *"mouth to mouth"*.
 - [[Water Turned to Blood]] — Exodus 7:22; Pharaoh's magicians reproduce a sign.

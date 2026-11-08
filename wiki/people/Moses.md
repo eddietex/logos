@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### A prophet like me — Deuteronomy 18:9–22
+
+Moses, unnamed, closes the law of offices with the prophet. He sets the nine arts of the nations against
+a prophet Yahweh will raise *"of your brothers, like me"* (15), and grounds the promise in Horeb, where
+the people asked for him as go-between and Yahweh said *"They have well said"* (16–17). His own role
+becomes the pattern of an office: Yahweh's words in the prophet's mouth (18). Deuteronomy 34:10 will say
+none like him has arisen. See [[A Prophet Like Me - Deuteronomy 18.15-19 in John, Acts, and the Transfiguration]].
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ### The priests' portion — Deuteronomy 18:1–8
 
 Moses, unnamed in the passage, gives the law of the priests' due — the shoulder, cheeks, and inner parts, and the first fruits and fleece — and secures the Levite from the towns an equal place and share at the chosen place.
@@ -2027,6 +2037,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; commands courts in the gates; sends the hard case to the place instead of to himself.
 - [[The Law for the King]] — Deuteronomy 17:14–20; gives the law of the king, who must copy and read *"this law"*.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; gives the priests' due and the country Levite's right.
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–22; promises *"a prophet … like me"* and gives the test of a prophet's word.
 
 ## Related people
 

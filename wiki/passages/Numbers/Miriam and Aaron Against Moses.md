@@ -133,7 +133,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Numbers 26:59 — Miriam in the family list *(stored WEB, not yet ingested)*
 - Numbers 33:18 — the journey list goes from Hazeroth to Rithmah *(stored WEB, not yet ingested)*
 - Deuteronomy 4:12, 15 — *you saw no form* *(WEB checked, not yet ingested)*
-- Deuteronomy 18:15, 18 — *a prophet … like me* *(WEB checked, not yet ingested)*
+- [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; *a prophet … like me*
 - Deuteronomy 24:8–9 — *Remember what Yahweh your God did to Miriam* *(WEB checked, not yet ingested)*
 - Deuteronomy 25:9 — *and spit in his face* *(WEB and WLC checked, not yet ingested)*
 - Deuteronomy 34:10 — *whom Yahweh knew face to face* *(WEB checked, not yet ingested)*

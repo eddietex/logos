@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The day of the assembly recalled — Deuteronomy 18:16–17
+
+Horeb is named as the origin of prophecy in Israel. The people's request *"in the day of the assembly"*
+not to hear Yahweh's voice or see *"this great fire"* again (16) is the request Yahweh approved, and the
+prophet like Moses is his answer to it (17–18).
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:16–18.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 The mountain of the renewed ascent is Horeb in the continuing context of 9:8, though unnamed in
@@ -884,6 +892,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; the last instruction given before the camp leaves.
 - [[The March from Sinai]] — Numbers 10:11–13, 33; Israel leaves, and it is called *the Mount of Yahweh*.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:6; the continual burnt offering *ordained in Mount Sinai*.
+- [[A Prophet Like Moses]] — Deuteronomy 18:16; the request at Horeb that grounds the promise of a prophet.
 
 ## Related places
 

@@ -477,6 +477,14 @@ The king reads the law *"that he may learn to fear Yahweh his God"* (17:19). The
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### Do not fear the false prophet — Deuteronomy 18:16, 22
+
+The people feared the fire at Horeb, *"that I not die"* (16), and asked for a prophet. Of the prophet whose
+word fails, Moses says *"You shall not be afraid of him"* (22). Fear of Yahweh is right; fear of a speaker
+Yahweh did not send is not.
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
@@ -749,6 +757,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten *"that you may learn to fear Yahweh"* (23).
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *all the people shall hear, and fear* (17:13).
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king reads *"that he may learn to fear Yahweh his God"* (19).
+- [[A Prophet Like Moses]] — Deuteronomy 18:16, 22; fear of the fire, and *"you shall not be afraid of him"*.
 
 ## Related themes
 

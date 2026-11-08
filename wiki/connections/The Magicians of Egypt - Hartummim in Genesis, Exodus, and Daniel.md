@@ -22,6 +22,7 @@ tags: [connection]
 - **Isaiah 19:3, 11–14; 44:25; 47:12–13** — the prophets on the collapse of Egyptian and Babylonian
   counsel
 - **2 Timothy 3:8** — *"Jannes and Jambres"*, the names later tradition gave the two of Exodus 7
+- [[A Prophet Like Moses]] — Deuteronomy 18:10; *məkaššēp*, *"a sorcerer"*, the root of Exodus 7:11's *"sorcerers"* (WLC), among the arts forbidden to Israel. See [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]]
 
 ## Analysis
 

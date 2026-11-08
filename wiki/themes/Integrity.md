@@ -244,6 +244,15 @@ safety.
 See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:10; the passage page records the
 cross-reference sources and interpretive limits.
 
+### Perfect with Yahweh — Deuteronomy 18:13
+
+*"You shall be perfect with Yahweh your God"*, *tāmîm tihyeh ʿim YHWH* (WLC). In Deuteronomy *tāmîm* occurs
+only here and at 32:4 (morphhb lemma 8549). Set between the diviners and the prophet, it means whole with
+Yahweh and not divided between him and the arts of the nations — the word of Noah (Genesis 6:9) and of
+Abram's charge (17:1) given to the people.
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
@@ -371,6 +380,7 @@ cross-reference sources and interpretive limits.
 
 - [[Do Not Consent to Sinners]] — Proverbs 1:11–12; the innocent victims called *təmîmîm*, *"whole"*
 - [[If You Seek Her as Silver]] — Proverbs 2:7, 21; *tōm* and *tāmîm* given a shield and the land; the tension with Job 1:1 recorded
+- [[A Prophet Like Moses]] — Deuteronomy 18:13; *tāmîm* with Yahweh, against the diviners.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

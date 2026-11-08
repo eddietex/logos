@@ -377,6 +377,15 @@ See [[Gold for the Calf and Gold for the Sanctuary]].
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
 
+### The abominations of those nations — Deuteronomy 18:9–14, 20
+
+Child-burning heads a list of eight arts of knowing the hidden — divination, sorcery, enchantment,
+charming, consulting spirits and the dead — called together *"an abomination to Yahweh"* and the reason
+the nations are driven out (12). The prophet *"who speaks in the name of other gods"* dies (20). See
+[[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]].
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed (2–3); *"You shall not do so to Yahweh"* (4).
@@ -485,6 +494,7 @@ texts, 2026-10-25.
 - [[The Work Completed]] — Exodus 39:32–43; Moses blesses commanded craftsmanship after condemning the calf.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the nations' rites not to be imitated; three cases of enticement.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no Asherah by Yahweh's altar, no sacred stone; the worship of sun, moon, and stars judged.
+- [[A Prophet Like Moses]] — Deuteronomy 18:9–14, 20; the nine practices of the nations, and the prophet in the name of other gods.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

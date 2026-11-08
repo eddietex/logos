@@ -77,6 +77,7 @@ A final provision prescribes stoning for a man or woman who is a medium or wizar
 - [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:31 and 13:6–11; children burned by the nations, and
   another stoning law against enticement to other gods.
+- [[A Prophet Like Moses]] — Deuteronomy 18:10–11; the medium and wizard of 20:6, 27, among the arts Israel will not need. See [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]]
 
 ## Notes
 

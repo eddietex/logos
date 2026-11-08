@@ -669,6 +669,14 @@ day he hears is itself a binding answer (14).
 See [[Vows of Men and Women]] and
 [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]]. Source: stored WEB Numbers 30.
 
+### Words in the mouth — Deuteronomy 18:18–22
+
+*"I will put my words in his mouth, and he shall speak to them all that I shall command him"* (18). The
+same chapter names the word spoken *"presumptuously"* (20, 22) and asks how a hearer can tell the two
+apart (21). Speech is the prophet's whole office, and its test is whether the word happens.
+
+See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; teaching *"talking of them"* through the day, and writing them at the house's entrances (19–20).
@@ -1000,6 +1008,7 @@ See [[Vows of Men and Women]] and
 - [[The People Refuse the Land]] — Numbers 14:2–3, 28, 31, 36–37; speech as the terms of the
   sentence
 - [[Vows of Men and Women]] — Numbers 30:2, 6–8, 14; what proceeds out of the mouth, and silence as consent
+- [[A Prophet Like Moses]] — Deuteronomy 18:18–22; Yahweh's words in the prophet's mouth, and the presumptuous word.
 
 ## Related themes
 

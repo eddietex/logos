@@ -23324,3 +23324,46 @@ GitHub) — Deuteronomy 10:8–9; 12:15, 20–21; 17:12; 18:1–8; 21:5; Levitic
 6:19; 16:9; 18:12, 20; 1 Samuel 2:13; 2 Kings 23:9 — with lemma searches for 185, 801, 1116, 1488,
 2220, 3895, 4465, 6896 and a sequence search for *mišpāṭ* + *kōhănîm*, retrieved 2026-11-07. Raw
 files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 18.9-22 — A Prophet Like Moses
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created the
+passage page and two connections:
+[[A Prophet Like Me - Deuteronomy 18.15-19 in John, Acts, and the Transfiguration]], which records the
+title *"the prophet"* in John 1:21, 25; 6:14; 7:40, the explicit applications in Acts 3:22–23 and 7:37,
+and *"Listen to him"* at the Transfiguration as an allusion; and
+[[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]], which traces
+the nine practices of 18:10–11 by WLC lemma through Genesis–Numbers. Revised 31 existing pages
+including this log: Deuteronomy (box checked, overview, Integrity and The Nations added as key themes)
+and `wiki/books/index.md`; two people (God, Moses); one place (Horeb); nine themes (Prophecy and Vision,
+Idolatry, Integrity, The Nations, Mediation and Advocacy, The Fear of God, Language and Speech, The Names
+of God, Brotherhood); eight connections (Two Tests of a Prophet, Mouth to Mouth, Divination in Genesis,
+Child Sacrifice and the Redemption of the Firstborn, The Voice Out of the Fire, The Magicians of Egypt,
+Prohibitions and Penalties, A Prophet Who Prays); eight earlier passage pages (The Portion of the Priests
+and Levites, The People's Request for a Mediator, Do Not Follow Other Gods, The Law for the King, Judges,
+Worship, and Difficult Cases, Miriam and Aaron Against Moses, Holy Living in Field and Community,
+Penalties and a People Set Apart); and the people, places, themes, and two connections subindexes plus
+`wiki/index.md`. Deuteronomy is now 40 / 69. Counts by frontmatter type are 365 passages, 257 people, 222
+places, 87 themes, and 756 connections.
+
+Corrected two misquotations on Divination in Genesis: *"you shall be blameless with Yahweh your God"* is
+now WEB's *"You shall be perfect with Yahweh your God"* (18:13), and *"listen to those who practice
+divination"* is now *"listen to those who practice sorcery and to diviners"* (18:14).
+
+Judgment calls: no person pages for the promised prophet, the presumptuous prophet, or the nine
+practitioners; no place page for the land. Recorded and not resolved: whether *"a prophet"* (18:15, 18)
+is an office or one figure (three readings given); what each of the nine practices was; whether *"pass
+through the fire"* is burning or dedication; how 18:22 applies to far-future or conditional words. The
+sanction in Acts 3:23 is compared with Deuteronomy 18:19 and Leviticus 23:29 in WEB English only, marked
+at the point of the claim; no Greek was consulted. The *məʿônēn* / *ʿānān* link is marked as unverified
+against a lexicon; morphhb gives Genesis 9:14 the same lemma number with a different sense letter.
+
+Sources: quotations copied directly from stored WEB Genesis 6:9; 9:14; 17:1; 30:27; 44:5, 15; Exodus
+4:12, 15; 7:11; 22:18; Leviticus 19:26, 31; 20:6, 27; 23:29; Numbers 12:6–8; 22:7; 23:23; 24:1;
+Deuteronomy 1:43; 5:25, 28; 12:31; 17:12–15; 18:9–22; 34:10. John 1:19–25; 6:14; 7:40; Acts 3:22–23;
+7:37; Matthew 17:5; Luke 9:35; Hebrews 3:5–6; Jeremiah 1:9; 28:9; 1 Samuel 28:3; 2 Kings 21:6 checked at
+bible-api.com (`translation=web`), 2026-11-07; none of those books was fetched into raw/. Hebrew claims
+checked against WLC from morphhb (openscriptures, GitHub) — Genesis 6:9; 9:14; 17:1; Deuteronomy 1:43;
+12:31; 17:12–13; 18:6, 10–22; 34:10; Leviticus 19:26, 31 — with lemma searches across Genesis–Deuteronomy
+for 178, 2102, 2087, 2266, 2267, 3049, 3784, 5172, 5173, 6049, 7080, 7081, and 8549 in Deuteronomy,
+retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files were unchanged.
