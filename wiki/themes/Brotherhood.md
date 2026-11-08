@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Lying against a brother — Deuteronomy 19:18–19
+
+The accused is the false witness's *"brother"* twice (18, 19; *ʾāḥ*, WLC), where the Ten Words say
+*neighbour* (5:20). The perjurer lies about a member of his own people.
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21. Hebrew from WLC (morphhb), 2026-11-07.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The repeated reference to brothers makes shared military service a condition of returning to settled
@@ -393,6 +400,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king *"from among your brothers"* (15), not lifted *"above his brothers"* (20).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no inheritance among the brothers (2); the newcomer serves as his brothers the Levites (7).
 - [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; the prophet raised *"of your brothers"*.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:18–19; the false witness *"testified falsely against his brother"*.
 
 ## Related themes
 

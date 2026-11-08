@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### No pity for the perjurer — Deuteronomy 19:21
+
+*"Your eyes shall not pity"* (21) closes off mercy a second time in the chapter, after the murderer
+(19:13). The verse then gives the talion, whose first *eye* is the hearer's own: *lōʾ tāḥôs ʿênekā …
+ʿayin bəʿayin* (WLC).
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21. Hebrew from WLC (morphhb), 2026-11-07.
+
 ### Refuge, and no pity — Deuteronomy 19:1–13
 
 The same law shows mercy and forbids it. The man whose ax head flew off is given a city and a prepared
@@ -505,6 +513,7 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 - [[The People Refuse the Land]] — Numbers 14:17–20; the proclamation quoted, in part, as a plea
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; *neither shall your eye pity him* (13:8); mercy to Israel (13:17).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the hand opened and the heart not grieved in giving (8, 10).
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:21; *"Your eyes shall not pity"*, said of the false witness.
 
 ## Related themes
 

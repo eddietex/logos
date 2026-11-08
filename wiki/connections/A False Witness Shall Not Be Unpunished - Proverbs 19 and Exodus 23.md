@@ -14,6 +14,7 @@ tags: [connection]
 - [[Better Is the Poor Who Walks in Integrity]] — Proverbs 19:5, 9, 28–29.
 - [[The Ten Commandments]] — Exodus 20:16.
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:1–8.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:16–21.
 
 ## Analysis
 
@@ -72,6 +73,20 @@ punishment; 25:18 says instead what his testimony does to its victim — it stri
 three ranges. See [[The Glory of Kings]] and [[The Ten Commandments]].
 
 Source: stored WEB Exodus 20:16; Proverbs 25:18.
+
+### The law's penalty — Deuteronomy 19:16–21
+
+Proverbs promised that *"A false witness shall not be unpunished"* (19:5, 9) without saying how.
+Deuteronomy 19 says how. A disputed testimony goes before the priests and judges, who *"make diligent
+inquisition"* (18). If the witness is false, *"you shall do to him as he had thought to do to his brother"*
+(19), *"Your eyes shall not pity"* (21). The *"unrighteous witness"* of 19:16 is *ʿēd-ḥāmās* (WLC), Exodus
+23:1's *"malicious witness"*. The *"false witness"* of 19:18 is *ʿēd šeqer* (WLC), Exodus 20:16's phrase. So
+the law in Deuteronomy uses the vocabulary of both Exodus texts. This page does not claim Proverbs
+quotes Deuteronomy. See [[Landmarks, Witnesses, and False Testimony]] and
+[[Two or Three Witnesses - Deuteronomy 19.15, Matthew 18.16, and 2 Corinthians 13.1]].
+
+Source: stored WEB Deuteronomy 19:16–21; Exodus 20:16; 23:1. Hebrew of Deuteronomy 19:16, 18; Exodus
+20:16; 23:1 from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 

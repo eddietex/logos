@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two or three witnesses and a diligent inquiry — Deuteronomy 19:15–21
+
+No single witness can establish *"any iniquity, or … any sin"* (15). A disputed testimony goes
+*"before Yahweh, before the priests and the judges"* (17), who *"make diligent inquisition"* (18), and
+the false witness receives what *"he had thought to do to his brother"* (19). The court tests the accuser as well as the accused.
+
+See [[Landmarks, Witnesses, and False Testimony]] and
+[[Two or Three Witnesses - Deuteronomy 19.15, Matthew 18.16, and 2 Corinthians 13.1]]. Source: stored WEB Deuteronomy 19:14–21.
+
 ### Hatred beforehand — Deuteronomy 19:1–13
 
 The line between the unwitting killer and the murderer is drawn three times by the same test: he
@@ -1291,6 +1300,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:30–31; cut off, with the iniquity on the person
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; death for enticement; diligent inquiry; *remove the evil*.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; courts in every town; two or three witnesses; the hard case sent to the place.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:15–21; two or three witnesses for any sin (15); the false witness tried and given his own intended penalty (16–19).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

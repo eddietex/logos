@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### As he had thought to do — Deuteronomy 19:19–21
+
+The false witness is paid by intention, not outcome: *"you shall do to him as he had thought to do to
+his brother"* (19), with the talion as the scale (21). The verse needs no injury to have happened; the penalty is
+the sentence the witness tried to have the court pass.
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21.
+
 ### Covenant warnings and remembered promises — Leviticus 26:14–46
 
 Repeatedly *for your sins* (18, 24, 28), at the level of the people. The ratio is rhetorical: *seven
@@ -947,6 +955,7 @@ comparison passages identified on that page.
 - [[The Field of the Sluggard]] — Proverbs 24:24–25, 29, 34; Rendering according to work belongs to God and the court, not the wronged man.
 - [[The Glory of Kings]] — Proverbs 25:8–10, 16–17, 22; Social consequences, and Yahweh's repayment of the one who feeds his enemy.
 - [[Answer a Fool]] — Proverbs 26:3, 26–27; The rod for the fool's back, hidden hatred exposed, the pit and the stone that return on their makers.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:19, 21; *"as he had thought to do to his brother"*, and *"life for life, eye for eye"*.
 
 ## Related themes
 

@@ -11,6 +11,7 @@ tags: [connection]
   injured servant.
 - [[The Blasphemer and One Law for All]] — Leviticus 24:17–22: matching injury and one law
   for native and foreigner; now ingested from stored WEB.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:21: the talion applied to the false witness.
 - Matthew 5:38–42 — Jesus quotes the eye-and-tooth rule and commands nonretaliation; verified WEB,
   not yet ingested.
 
@@ -41,6 +42,19 @@ Jesus directs the person addressed beyond insisting on it. A distinction between
 and personal response helps explain the settings, but these five verses do not themselves settle
 every question about courts or political force. Matthew's quotation matches more than one Torah
 formulation; Exodus is not claimed as its uniquely identifiable source.
+
+### Deuteronomy 19:21 now ingested
+
+The third Torah setting is a perjury case. When the judges find a false witness, *"you shall do to him
+as he had thought to do to his brother"* (19:19), and *"Your eyes shall not pity: life for life, eye for
+eye, tooth for tooth, hand for hand, foot for foot"* (21). It is Exodus's list, without *"burning for
+burning"* and what follows (Exodus 21:25). It is applied to a man who has injured no one's body, only
+tried to do so through the court. In WLC the joining word also differs: Deuteronomy has *ʿayin bəʿayin*,
+Exodus 21:24 and Leviticus 24:20 *ʿayin taḥat ʿayin*. The WEB English is the same. Whether this
+talion was carried out literally, Deuteronomy does not say. See [[Landmarks, Witnesses, and False Testimony]].
+
+Source: stored WEB Deuteronomy 19:19–21; Exodus 21:23–25. Hebrew from WLC (morphhb), retrieved
+2026-11-07.
 
 ## Significance
 

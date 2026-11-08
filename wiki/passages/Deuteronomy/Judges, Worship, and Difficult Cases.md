@@ -135,7 +135,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]] — the formula at 17:7
   and 17:12.
 - The witness rule — Numbers 35:30, *"one witness shall not testify against any person that he
-  die"*, and Deuteronomy 19:15, not yet ingested. See
+  die"*, and Deuteronomy 19:15, in [[Landmarks, Witnesses, and False Testimony]]. See
+  [[Two or Three Witnesses - Deuteronomy 19.15, Matthew 18.16, and 2 Corinthians 13.1]] and
   [[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]]. In the New Testament the rule
   is cited at Matthew 18:16, John 8:17, 2 Corinthians 13:1, 1 Timothy 5:19, and Hebrews 10:28; none of
   these is ingested, and they are not quoted here.

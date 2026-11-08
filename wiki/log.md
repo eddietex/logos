@@ -23397,3 +23397,42 @@ Hebrew checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy
 — with lemma searches in Deuteronomy for 693, 1197 a, 2347, 3179, 4733, 5355 a, and 7523, and in Numbers
 for 4733 and 7523, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files
 were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 19.14-21 — Landmarks, Witnesses, and False Testimony
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and restoring the commas
+to its planned title. Created the passage page and one connection,
+[[Two or Three Witnesses - Deuteronomy 19.15, Matthew 18.16, and 2 Corinthians 13.1]], which traces the
+witness rule from Numbers 35:30 and Deuteronomy 17:6 to Matthew 18, 2 Corinthians 13, 1 Timothy 5, and
+Hebrews 10, with Naboth's and Jesus' trials as its abuse. Revised 29 existing pages including this log:
+Deuteronomy (box checked, overview, Deception and Retribution added as key themes, and the stale
+"40 / 69" plan line corrected to 42) and `wiki/books/index.md`; two people (God, Moses); seven themes
+(Land and Sojourning, Judgment, Deception, Retribution, Compassion and Mercy, Priesthood, Brotherhood); six
+connections (Eye for Eye, No Witness Against Her, The Widow's Borders, A False Witness Shall Not Be
+Unpunished, As He Has Done to Me, Remove the Evil from Among You); three earlier passage pages (Refuge for
+the Unwitting Killer, Judges, Worship, and Difficult Cases, Oh That I Knew Where I Might Find Him); the
+People F-M subindex, the themes index, all five Connections subindexes, and `wiki/index.md`. Deuteronomy
+is now 42 / 69. Counts by frontmatter type are 367 passages, 257 people, 222 places, 87 themes, and 757
+connections.
+
+Judgment calls: no person pages for the neighbour, the accused, the false witness, the priests, or the
+judges; no place page for the land. No Naboth page yet — 1 Kings is not ingested, and he is cited by
+reference with WEB checked. Recorded and not resolved: why the landmark law stands between the refuge and
+witness laws (catchword *gəbûl*, a group of laws about trust, or a Decalogue ordering); whether 19:17
+means the central court of 17:8–13; whether *sārâ* (19:16) points to an apostasy charge; whether the
+talion was literal; what penalty applies when the false charge had no fixed one; what Paul's three
+witnesses are in 2 Corinthians 13:1; and Matthew's two false witnesses against Mark's disagreeing ones.
+The Widow's Borders now compares Proverbs 22:28 and 23:10 with Deuteronomy 19:14 in WLC, which replaces its
+earlier Sefaria-only comparison for those verses.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 5:11, 20; 13:5, 11, 14; 15:2–12; 17:4, 6,
+9, 13; 19:1–21; 21:21; 27:17; Genesis 6:11, 13; Exodus 20:16; 21:23–25; 23:1; Leviticus 24:19–20; Numbers
+5:16; 14:14; 35:30–31; Proverbs 19:5, 9; 22:28; 23:10; Job 24:2. Matthew 18:15–17; 26:59–61; Mark 14:55–59;
+John 8:17–18; 2 Corinthians 13:1; 1 Timothy 5:19; Hebrews 10:28; 1 Kings 21:3, 10, 13 checked at
+bible-api.com (`translation=web`), 2026-11-07; none of those books was fetched into raw/. Hebrew checked
+against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 5:20; 13:6, 15; 17:4, 6, 9; 19:14–21;
+27:17; Exodus 20:16; 21:24; 23:1; Leviticus 24:20; Numbers 14:14; Proverbs 22:28; 23:10 — with lemma
+searches in Deuteronomy for 1366, 1379, 2161, 2555, 3190, 5253, 5627, 5707, 7723, and 8267, and in
+Genesis–Numbers for 1379, 2161, 2555, 5253, and 5627, retrieved 2026-11-07. The Greek of the New Testament
+verses and the Septuagint were not checked. Raw files, canonical workflow instructions, and controller files
+were unchanged.

@@ -16,8 +16,8 @@ tags: [connection]
   according to his work?"*
 - [[Wine Is a Mocker]] — **Proverbs 20:22** — *"Don't say, 'I will pay back evil.' Wait for Yahweh,
   and he will save you."*
-- **Deuteronomy 19:18–19** *(not yet ingested)* — the false witness to be done to *"as he had thought
-  to do to his brother."* (WEB verified at bible-api.com)
+- **Deuteronomy 19:18–19** — [[Landmarks, Witnesses, and False Testimony]] — the false witness to be done to *"as he had
+  thought to do to his brother."*
 - [[The Deaths of Jacob and Joseph]] — **Genesis 50:19** — *"am I in the place of God?"*
 - **Matthew 5:38–39** *(not yet ingested)* — *"You have heard that it was said, 'An eye for an eye,
   and a tooth for a tooth.' But I tell you, don't resist him who is evil; but whoever strikes you on
@@ -57,6 +57,17 @@ forbids resisting the evil man. The text quoted is the law's (Exodus 21:24; Levi
 Proverbs; but Proverbs 24:29 had already refused the talion as a rule for personal response, and
 the wiki notes it as one Old Testament place where that refusal stands within the Hebrew Bible
 itself. The Greek of Matthew 5:38–39 was not checked in this pass.
+
+### Deuteronomy 19:19 now ingested
+
+The Hebrew of 19:19, unchecked above, is *waʿăśîtem lô kaʾăšer zāmam laʿăśôt ləʾāḥîw* (WLC): *you shall do
+to him as he planned to do to his brother*. It has the *kaʾăšer* and the verb *ʿāśāh* of Leviticus 24:19
+and Proverbs 24:29, but no *kēn*. Instead of a completed act (*ʿāśāh*, *he has done*) it measures by an
+intention (*zāmam*, *planned*; in Deuteronomy only here). The doer is plural, *you shall do*, the community
+acting through its judges (18), so this is the court's retaliation and not the private one Proverbs
+forbids. See [[Landmarks, Witnesses, and False Testimony]].
+
+Source: stored WEB Deuteronomy 19:18–19. Hebrew from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 

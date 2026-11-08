@@ -19,8 +19,10 @@ tags: [connection]
 - **Exodus 22:22–24** — *"You shall not take advantage of any widow or fatherless child. If you take
   advantage of them at all, and they cry at all to me, I will surely hear their cry"* —
   [[Laws of Holiness and Compassion]]
-- **Deuteronomy 19:14; 27:17** — the law against moving a neighbour's landmark, and a curse on whoever
-  does. *(Not yet stored; paraphrased, not quoted.)*
+- **Deuteronomy 19:14** — *"You shall not remove your neighbor's landmark, which they of old time have
+  set, in your inheritance"* — [[Landmarks, Witnesses, and False Testimony]]
+- **Deuteronomy 27:17** *(stored, not yet ingested)* — *"Cursed is he who removes his neighbor's
+  landmark."*
 - [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10–11.
 
 ## Analysis
@@ -65,6 +67,21 @@ with the identical clause, and 22:23 and 23:11 share the phrase *yārîb rîbām
 words, for the poor man in court and the fatherless in his field.
 
 Source: stored WEB Proverbs 22:22–23, 28; 23:10–11; Hebrew as stated.
+
+### Deuteronomy 19:14 now ingested
+
+The law behind the proverbs is now stored. *"You shall not remove your neighbor's landmark, which they of old
+time have set, in your inheritance which you shall inherit, in the land that Yahweh your God gives you"*
+(19:14). Proverbs 22:28 grounds the stone in *"your fathers"*; Deuteronomy in *"they of old time"* and in
+the inheritance Yahweh gives. In WLC the verb is *nāsag*, *move back*: *lōʾ tassîg gəbûl rēʿăkā*.
+Proverbs 22:28 and 23:10 open with *ʾal-tassēg gəbûl ʿôlām* (WLC): the same verb, *nāsag*, and the same noun
+(morphhb lemmas 5253, 1366), with *ʿôlām*, *ancient*, where Deuteronomy has *rīʾšōnîm*, *they of old time*.
+Deuteronomy names no widow or orphan in 19:14; Proverbs 23:10 adds them. Naboth's refusal to give up *"the inheritance of
+my fathers"* (1 Kings 21:3, WEB checked at bible-api.com) is the narrative case of a holding taken by
+force and a false trial. See [[Landmarks, Witnesses, and False Testimony]].
+
+Source: stored WEB Deuteronomy 19:14; 27:17; Proverbs 22:28; 23:10. Hebrew of Deuteronomy 19:14; 27:17
+and Proverbs 22:28; 23:10 from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 

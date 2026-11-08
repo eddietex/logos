@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priests in the court — Deuteronomy 19:17
+
+In a disputed testimony both parties *"stand before Yahweh, before the priests and the judges who shall
+be in those days"* (17), the phrase of 17:9's court. Whether that means the central court at the chosen
+place, the text does not say.
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Aaron’s death is followed by Eleazar’s ministry (6). Levi’s collective appointment includes carrying
@@ -849,6 +857,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the landless Levite at the tithe meal and in the third-year tithe.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the Levitical priests and the judge at the place give the final verdict.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priests' due, and the Levite from the towns who serves and eats with his brothers.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:17; the priests and the judges *"before Yahweh"* in a disputed testimony.
 
 ## Related themes
 

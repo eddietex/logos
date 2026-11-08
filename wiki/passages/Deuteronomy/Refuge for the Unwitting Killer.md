@@ -162,7 +162,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Whoever Sheds Man's Blood]] — the shedding of blood and its reckoning from Genesis 9 onward.
 - [[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]] — the verb of *"purge the
   innocent blood"* (19:13).
-- Deuteronomy 19:14–21 *(next pericope)* — the landmark, two or three witnesses, and the false witness.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; the next pericope: the landmark, two or three witnesses, and the false witness.
 - Deuteronomy 21:1–9 *(stored, not yet ingested)* — the killing with no known killer, where the town's
   elders *"put away the innocent blood"* (21:9).
 - Joshua 20:1–9 *(not yet ingested)* — the six cities named and the procedure at the city gate; WEB

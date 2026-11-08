@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Landmarks and witnesses — Deuteronomy 19:14–21
+
+Moses forbids moving a neighbour's landmark (14), widens the two-witness rule of 17:6 to *"any iniquity"*
+(15), and gives the false witness the penalty he intended for his brother (19), quoting the talion
+list of Exodus 21:23–24 (21).
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21.
+
 ### Three cities in the land — Deuteronomy 19:1–13
 
 Having set apart the three eastern cities himself (4:41–43), Moses commands Israel to set apart three
@@ -2049,6 +2057,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; gives the priests' due and the country Levite's right.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; promises *"a prophet … like me"* and gives the test of a prophet's word.
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; commands three cities of refuge in the land, and three more if the border grows.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; the landmark, two or three witnesses, and the false witness.
 
 ## Related people
 

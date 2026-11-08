@@ -10,7 +10,7 @@ tags: [connection]
 - **Numbers 5:13** — [[The Suspected Wife]]: *"there is no witness against her, and she isn't taken in the act"*.
 - **Exodus 22:10–11** — [[Laws of Property and Restitution]]: *"no man seeing it; the oath of Yahweh shall be between them both"*.
 - **Deuteronomy 17:6** — [[Judges, Worship, and Difficult Cases]]: *"At the mouth of one witness he shall not be put to death."*
-- **Deuteronomy 19:15** *(not yet ingested; WEB verified)* — *"At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established."*
+- **Deuteronomy 19:15** — [[Landmarks, Witnesses, and False Testimony]]: *"At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established."*
 - **Deuteronomy 22:13–19** *(not yet ingested; WEB verified)* — the husband who gives his wife *"a bad name"*.
 - **1 Kings 8:31–32** *(not yet ingested; WEB verified)* — an oath before the altar, and Yahweh asked to judge, *"condemning the wicked … and justifying the righteous"*.
 
@@ -43,6 +43,17 @@ The gap this page is about is still open: where there is no witness at all, Deut
 procedure, and Numbers 5 gives the only one for that case.
 
 Source: stored WEB Numbers 35:30; Deuteronomy 17:4–7; 19:15.
+
+### Deuteronomy 19:15–21 now ingested
+
+19:15 extends the rule to *"any iniquity, or … any sin"*, as expected. The verses after it deal with the
+opposite case from this page's: not too few witnesses, but a witness who lies. A disputed testimony is
+brought *"before Yahweh, before the priests and the judges"* (17), and the false witness receives what he
+*"had thought to do to his brother"* (19). Like Numbers 5, Deuteronomy 19:17 brings the hard case *"before
+Yahweh"*. But in 19:18 the judges investigate, and no oath or ordeal is described. See [[Landmarks, Witnesses, and False Testimony]] and
+[[Two or Three Witnesses - Deuteronomy 19.15, Matthew 18.16, and 2 Corinthians 13.1]].
+
+Source: stored WEB Deuteronomy 19:15–19; Numbers 5:16.
 
 ## Significance
 

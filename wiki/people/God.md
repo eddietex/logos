@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Before Yahweh in court — Deuteronomy 19:14–21
+
+Yahweh gives the inheritance whose landmark may not be moved (14), and the two parties to a disputed
+testimony *"stand before Yahweh"* (17) when they come before the priests and judges.
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21.
+
 ### He enlarges the border, and the refuges grow with it — Deuteronomy 19:1–13
 
 Yahweh *"cuts off the nations"* and gives their cities and houses (1). The number of refuges is tied to
@@ -4374,6 +4381,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; Levi's inheritance (2); chooses the priest (5).
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the arts of the nations an abomination to him (12); raises the prophet and puts his words in his mouth (15, 18); will require it of the one who does not listen (19).
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; cuts off the nations and gives the land (1–2); may enlarge the border as sworn to the fathers (8).
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; giver of the inheritance (14), before whom the parties stand (17).
 
 ## Related people
 

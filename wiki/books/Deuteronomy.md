@@ -11,6 +11,12 @@ status: in-progress
 
 ## Overview
 
+[[Landmarks, Witnesses, and False Testimony]] (19:14–21) closes the chapter. A neighbour's landmark,
+*"which they of old time have set"*, may not be moved. No single witness can establish *"any iniquity"*;
+it takes two or three. A witness suspected of lying is tried *"before Yahweh, before the priests and the
+judges"*, and if he is false, *"you shall do to him as he had thought to do to his brother"*, with the
+talion as the measure: *"life for life, eye for eye"*.
+
 [[Refuge for the Unwitting Killer]] (19:1–13) turns from the offices to the protection of life. Three
 cities in the middle of the land, with the way prepared, receive the man who *"kills his neighbor
 unawares, and didn't hate him in time past"* — the ax head flying off the handle — lest *"the avenger of
@@ -229,7 +235,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **40 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **42 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -272,7 +278,7 @@ Plan drawn 2026-11-05 from the stored WEB. **40 / 69 pericopes ingested.**
 - [x] [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 - [x] [[A Prophet Like Moses]] — Deuteronomy 18:9–22
 - [x] [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13
-- [ ] Landmarks Witnesses and False Testimony — Deuteronomy 19:14–21
+- [x] [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21
 - [ ] Laws for Going to War — Deuteronomy 20:1–20
 - [ ] An Unsolved Killing and the Broken-Necked Heifer — Deuteronomy 21:1–9
 - [ ] Captives Firstborn Sons and Public Shame — Deuteronomy 21:10–23
@@ -329,6 +335,8 @@ Plan drawn 2026-11-05 from the stored WEB. **40 / 69 pericopes ingested.**
 - [[The Nations]]
 - [[Vengeance]]
 - [[Blood]]
+- [[Deception]]
+- [[Retribution]]
 
 ## Key people
 - [[God]]

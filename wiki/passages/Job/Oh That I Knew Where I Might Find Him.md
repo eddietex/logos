@@ -400,7 +400,8 @@ in effect, without an answer to this chapter.
 - Psalm 66:10; Proverbs 17:3; Zechariah 13:9; Malachi 3:2–3; 1 Peter 1:6–7 — testing as refining.
 - Psalm 119:11; Deuteronomy 8:3; Matthew 4:4; Jeremiah 15:16 — the word treasured above food.
 - Psalm 115:3; 135:6 — *"he does whatever he pleases"*.
-- Deuteronomy 19:14; 27:17; Proverbs 22:28; 23:10–11; Hosea 5:10 — the landmark.
+- Deuteronomy 19:14; 27:17; Proverbs 22:28; 23:10–11; Hosea 5:10 — the landmark. Deuteronomy 19:14 is
+  now ingested as [[Landmarks, Witnesses, and False Testimony]].
 - Deuteronomy 24:6, 10–22; 25:4; Exodus 22:26–27; 2 Kings 4:1 — the pledge, the gleaner, the hired
   man, the unmuzzled ox, and the creditor who takes children.
 - Proverbs 7:9; John 3:19–21; Matthew 6:19–20; 1 Thessalonians 5:2–7 — the deeds of the night.

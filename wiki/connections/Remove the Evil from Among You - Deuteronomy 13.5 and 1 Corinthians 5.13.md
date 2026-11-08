@@ -12,7 +12,8 @@ tags: [connection]
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:7, 12; the worshipper of other gods put to death on two or three
   witnesses, and the man who refuses the verdict of the court at the place.
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:13; the same verb with *"the innocent blood"* as its object.
-- Deuteronomy 19:19, 21:21, 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:19; the false witness.
+- Deuteronomy 21:21, 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's
   laws (stored WEB, not yet ingested).
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
   yourselves.'"* (WEB, verified from bible-api.com).
@@ -75,6 +76,15 @@ away the innocent blood"*. A morphhb lemma search for *bāʿar* (1197 a) in Deut
 (13:5 English); 17:7, 12; 19:13, 19; 21:9, 21; 22:21, 22, 24; 24:7, besides the sense *burn* at 4:11;
 5:23; 9:15 and *remove* at 26:13–14. See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:13; 21:9; Hebrew
 from WLC (morphhb), retrieved 2026-11-07.
+
+### Deuteronomy 19:19 now ingested
+
+*"So you shall remove the evil from among you"* (19:19) is *ûbiʿartā hāraʿ miqqirbekā* (WLC), the 13:5
+form. What is removed is the false witness, and he receives what he *"had thought to do to his brother"*,
+so the penalty depends on the charge he made, as the table above says. 19:20 then gives the formula's
+usual companion, *"Those who remain shall hear, and fear"*, as at 13:11 and 17:13. See [[Landmarks, Witnesses, and False Testimony]].
+
+Source: stored WEB Deuteronomy 13:11; 17:13; 19:19–20. Hebrew from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The false witness — Deuteronomy 19:16–19
+
+*"If the witness is a false witness, and has testified falsely against his brother"* (18): the case
+law uses *ʿēd šeqer*, Exodus 20:16's phrase, where Deuteronomy 5:20 has *ʿēd šāwʾ* (WLC). The
+lie is called *ḥāmās*, *violence* (16; WLC), and is punished by the penalty it was meant to bring about.
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21. Hebrew from WLC (morphhb), 2026-11-07.
+
 ### Baal Peor — Numbers 25:1–18
 
 The closing oracle accuses Midian of wiles in the Peor affair and the Cozbi incident (18). It
@@ -583,6 +591,7 @@ See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1�
 - [[Do Not Envy Sinners]] — Proverbs 23:31–32, 35; Wine that goes down smoothly and bites at the end.
 - [[The Glory of Kings]] — Proverbs 25:14, 18–19; The false boaster, the false witness, the unfaithful man trusted in trouble.
 - [[Answer a Fool]] — Proverbs 26:18–19, 23–26, 28; The prankster's excuse, the glazed pot, the hater disguised by his lips.
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:16–19; the *"unrighteous witness"* who *"testified falsely against his brother"*.
 
 ## Related themes
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The neighbour's landmark — Deuteronomy 19:14
+
+*"You shall not remove your neighbor's landmark, which they of old time have set, in your inheritance"*
+(14). The *gəbûl* is the same word as the national *"border"* Yahweh may enlarge (19:8; WLC). The
+boundary stone keeps each family's share of the allotment Yahweh gives, and moving it undoes that allotment. Deuteronomy 27:17
+will curse it.
+
+See [[Landmarks, Witnesses, and False Testimony]]. Source: stored WEB Deuteronomy 19:14–21. Hebrew from WLC (morphhb), 2026-11-07.
+
 ### The land divided, enlarged, and kept clean — Deuteronomy 19:1–13
 
 The land is divided *"into three parts"* (3) around the three cities, its border may be enlarged
@@ -1059,6 +1068,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the *gēr* and the foreigner may have what Israel may not eat.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the land's produce shared with the landless.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no portion nor inheritance (1–2); the Levite who *"lives as a foreigner"* in his town (6).
+- [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14; the neighbour's landmark *"which they of old time have set"*.
 
 ## Related themes
 
