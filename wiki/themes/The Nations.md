@@ -344,6 +344,16 @@ you, Yahweh your God has not allowed you so to do"* (14). As with the king *"lik
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### Near and far — Deuteronomy 20:10–18
+
+The law of war divides the nations in two. Cities *"very far off"* are offered peace, and their people
+become forced laborers or, if they fight, lose their males (10–15). The cities of the six peoples of the
+land — Hittite, Amorite, Canaanite, Perizzite, Hivite, Jebusite — are to be utterly destroyed, *"that
+they not teach you to follow all their abominations"* (16–18). The Girgashite of 7:1 is absent from this
+list, without explanation.
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; nations greater and mightier than Israel driven out on condition of obedience (23–25).
@@ -629,6 +639,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; Israel to lend to many nations and not borrow (6); the *nokrî* not released (3).
 - [[The Law for the King]] — Deuteronomy 17:14–20; *"like all the nations"* (14); no foreigner as king (15).
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–14; the nations' diviners, and why they are driven out.
+- [[Laws for Going to War]] — Deuteronomy 20:10–18; distant cities and the cities of the six peoples.
 
 ## Related themes
 

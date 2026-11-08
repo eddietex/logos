@@ -142,7 +142,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Widow's Borders - Proverbs 15.25 and the Ancient Boundary Stone]] — the boundary stone in Proverbs
   and Job.
 - [[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]] — the formula of 19:19.
-- Deuteronomy 20:1–20 *(next pericope)* — laws for going to war.
+- [[Laws for Going to War]] — Deuteronomy 20:1–20; the next pericope.
 - Deuteronomy 27:17 *(stored, not yet ingested)* — *"Cursed is he who removes his neighbor's landmark."*
 - 1 Kings 21:10, 13 *(not yet ingested; WEB checked at bible-api.com)* — *"two men, wicked fellows"* who
   testify against Naboth, who had refused to sell *"the inheritance of my fathers"* (21:3).

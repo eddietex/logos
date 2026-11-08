@@ -386,6 +386,14 @@ the nations are driven out (12). The prophet *"who speaks in the name of other g
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### The ground of the ḥērem — Deuteronomy 20:18
+
+The cities of the land are to be utterly destroyed *"that they not teach you to follow all their
+abominations, which they have done to their gods; so would you sin against Yahweh your God"* (18). The
+reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, not military security.
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed (2–3); *"You shall not do so to Yahweh"* (4).
@@ -495,6 +503,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the nations' rites not to be imitated; three cases of enticement.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no Asherah by Yahweh's altar, no sacred stone; the worship of sun, moon, and stars judged.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–14, 20; the nine practices of the nations, and the prophet in the name of other gods.
+- [[Laws for Going to War]] — Deuteronomy 20:18; *ḥērem* so that the nations *"not teach you to follow all their abominations"*.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

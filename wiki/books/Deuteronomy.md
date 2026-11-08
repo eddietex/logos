@@ -11,6 +11,14 @@ status: in-progress
 
 ## Overview
 
+[[Laws for Going to War]] (20:1–20) is the law code's one chapter on war. Before battle the priest tells
+the army not to fear, *"for Yahweh your God is he who goes with you, to fight for you"*. The officers send
+home the man with an undedicated house, an unused vineyard, or a betrothed wife, and the man who is
+afraid, *"lest his brother's heart melt as his heart"*. A city far off is offered peace; if it refuses, its
+males are killed. The cities of the land are utterly destroyed, *"that they not teach you to follow all
+their abominations"*. Fruit trees may not be cut in a siege: *"is the tree of the field man?"* Whether the
+offer of peace reaches the land's cities is left open.
+
 [[Landmarks, Witnesses, and False Testimony]] (19:14–21) closes the chapter. A neighbour's landmark,
 *"which they of old time have set"*, may not be moved. No single witness can establish *"any iniquity"*;
 it takes two or three. A witness suspected of lying is tried *"before Yahweh, before the priests and the
@@ -235,7 +243,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **42 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **43 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -279,7 +287,7 @@ Plan drawn 2026-11-05 from the stored WEB. **42 / 69 pericopes ingested.**
 - [x] [[A Prophet Like Moses]] — Deuteronomy 18:9–22
 - [x] [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13
 - [x] [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21
-- [ ] Laws for Going to War — Deuteronomy 20:1–20
+- [x] [[Laws for Going to War]] — Deuteronomy 20:1–20
 - [ ] An Unsolved Killing and the Broken-Necked Heifer — Deuteronomy 21:1–9
 - [ ] Captives Firstborn Sons and Public Shame — Deuteronomy 21:10–23
 - [ ] Care for the Neighbor and Ordered Distinctions — Deuteronomy 22:1–12
@@ -337,6 +345,9 @@ Plan drawn 2026-11-05 from the stored WEB. **42 / 69 pericopes ingested.**
 - [[Blood]]
 - [[Deception]]
 - [[Retribution]]
+- [[Strife and Peacemaking]]
+- [[Slavery and Servitude]]
+- [[Marriage]]
 
 ## Key people
 - [[God]]

@@ -27,6 +27,15 @@ to different territorial commands, not a general license to attack anyone who de
 
 Source for this addition: stored WEB Deuteronomy 2:24–37; Numbers 20:14–21.
 
+Deuteronomy 20:10–15 now gives the general law for a city outside the land: *"proclaim peace to it"*
+(10), and if it refuses, strike its males and take the rest as plunder (13–14). The embassy to Sihon
+with *"words of peace"* (2:26) matches the first step. The outcome does not match the second: Sihon's
+cities were destroyed *"with the women and the little ones"* (2:34), which 20:14 spares. Deuteronomy 2
+grounds the war on a specific command, *"contend with him in battle"* (2:24), not on the general law,
+and the wiki records the difference rather than harmonizing it. See [[Laws for Going to War]].
+
+Source for this addition: stored WEB Deuteronomy 2:24, 26, 34; 20:10–15.
+
 ## Significance
 
 The journey contains restraint as well as conquest. These accounts should neither be collapsed into

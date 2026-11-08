@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Proclaim peace — Deuteronomy 20:10–12
+
+*"When you draw near to a city to fight against it, then proclaim peace to it"* (10). A city that
+*"makes you answer of peace"* and opens its gates is spared, though its people become forced laborers
+(11); only one that *"will make no peace"* is besieged (12). Moses had sent Sihon *"words of peace"* in the
+same way (2:26). Whether the offer also applies to the cities of the land (16–18) the text does not say.
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Moses sends words of peace and offers paid provisions after receiving a command to fight (24–29).
@@ -589,6 +598,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Answer a Fool]] — Proverbs 26:17, 20–21; The meddler holding a dog by the ears; the fire that goes out without wood; the contentious man.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:3–4, 15–16; The fool's provocation, jealousy, and the contentious wife.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:26; *šālôm* given and not negotiated.
+- [[Laws for Going to War]] — Deuteronomy 20:10–12; *"proclaim peace to it"*, and the city that answers with peace.
 
 ## Related themes
 

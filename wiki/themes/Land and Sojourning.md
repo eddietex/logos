@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### House, vineyard, and inheritance — Deuteronomy 20:5–6, 16, 19–20
+
+A man who has built a house or planted a vineyard and not yet enjoyed it is sent home from war (5–6).
+The cities *"that Yahweh your God gives you for an inheritance"* are under the *ḥērem* (16). And the
+fruit trees of a besieged city are spared *"for you may eat of them"* (19).
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### The neighbour's landmark — Deuteronomy 19:14
 
 *"You shall not remove your neighbor's landmark, which they of old time have set, in your inheritance"*
@@ -1069,6 +1077,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the land's produce shared with the landless.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no portion nor inheritance (1–2); the Levite who *"lives as a foreigner"* in his town (6).
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14; the neighbour's landmark *"which they of old time have set"*.
+- [[Laws for Going to War]] — Deuteronomy 20:5–6, 16, 19; the unenjoyed house and vineyard, the inheritance, and the fruit trees.
 
 ## Related themes
 

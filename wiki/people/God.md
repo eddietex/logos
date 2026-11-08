@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### He goes with the army — Deuteronomy 20:1–20
+
+Yahweh, who brought Israel up out of Egypt, is *"with you"* against horses and chariots (1). The priest
+names him as the one *"who goes with you, to fight for you against your enemies, to save you"* (4). He
+delivers the besieged city (13), gives the plunder (14) and the inheritance (16), and has commanded the
+destruction of the six peoples so that Israel will not learn their abominations (17–18).
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### Before Yahweh in court — Deuteronomy 19:14–21
 
 Yahweh gives the inheritance whose landmark may not be moved (14), and the two parties to a disputed
@@ -4382,6 +4391,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the arts of the nations an abomination to him (12); raises the prophet and puts his words in his mouth (15, 18); will require it of the one who does not listen (19).
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; cuts off the nations and gives the land (1–2); may enlarge the border as sworn to the fathers (8).
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; giver of the inheritance (14), before whom the parties stand (17).
+- [[Laws for Going to War]] — Deuteronomy 20:1–20; with Israel in battle (1), fights for it (4), delivers the city (13), commands the *ḥērem* (17).
 
 ## Related people
 

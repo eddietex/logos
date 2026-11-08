@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The priest before battle — Deuteronomy 20:2–4
+
+*"When you draw near to the battle, … the priest shall approach and speak to the people"* (2). His
+address opens *"Hear, Israel"* and forbids fear, because Yahweh *"goes with you, to fight for you"* (3–4).
+The priest gives the theological word; the officers then handle the dismissals and the muster (5–9).
+Compare Phinehas at the war with Midian, with *"the trumpets for the alarm in his hand"* (Numbers 31:6).
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20; Numbers 31:6.
+
 ### Priests in the court — Deuteronomy 19:17
 
 In a disputed testimony both parties *"stand before Yahweh, before the priests and the judges who shall
@@ -858,6 +867,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the Levitical priests and the judge at the place give the final verdict.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priests' due, and the Levite from the towns who serves and eats with his brothers.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:17; the priests and the judges *"before Yahweh"* in a disputed testimony.
+- [[Laws for Going to War]] — Deuteronomy 20:2–4; the priest addresses the army before battle.
 
 ## Related themes
 

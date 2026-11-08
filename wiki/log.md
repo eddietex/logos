@@ -23436,3 +23436,44 @@ searches in Deuteronomy for 1366, 1379, 2161, 2555, 3190, 5253, 5627, 5707, 7723
 Genesis–Numbers for 1379, 2161, 2555, 5253, and 5627, retrieved 2026-11-07. The Greek of the New Testament
 verses and the Septuagint were not checked. Raw files, canonical workflow instructions, and controller files
 were unchanged.
+
+## [2026-11-08] ingest | Deuteronomy 20.1-20 — Laws for Going to War
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created the
+passage page and two connections:
+[[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]], which follows the
+four dismissals into the newlywed's year, the curse of 28:30 that reverses them with the same verbs,
+Gideon's dismissal of the fearful, and the excuses at Luke's great supper; and
+[[Is the Tree of the Field Man - Deuteronomy 20.19, 2 Kings 3, and Jeremiah 6]], which sets the fruit-tree
+law beside the felling of Moab's good trees and the siege of Jerusalem. Revised 28 existing pages
+including this log: Deuteronomy (box checked, overview, Strife and Peacemaking, Slavery and Servitude, and
+Marriage added as key themes) and `wiki/books/index.md`; two people (God, Moses); one place (Egypt); nine
+themes (War, The Nations, Strife and Peacemaking, Slavery and Servitude, Idolatry, Priesthood, Marriage,
+Land and Sojourning, Brotherhood); three connections (Devoted to Destruction, The Dedication of the Altar,
+Edom and Sihon); four earlier passage pages (Landmarks, Witnesses, and False Testimony; The War Against
+Midian; The Spies and the Refusal to Go Up; Holy Living in Field and Community); the People F-M
+subindex, the places index, the themes index, the Connections D-H and I-N subindexes, and `wiki/index.md`.
+Deuteronomy is now 43 / 69. Counts by frontmatter type are 368 passages, 257 people, 222 places, 87
+themes, and 759 connections.
+
+Judgment calls: no pages for the priest, the officers, or the men sent home; no people pages for the six
+nations of 20:17, which are better treated when Joshua narrates them; no place pages for the unnamed
+cities. Recorded and not resolved: whether the offer of peace (20:10) reaches the cities of the land;
+why the Girgashite of 7:1 is absent from 20:17; what dedicating a house involved; whether *"nothing that
+breathes"* includes animals; how 2 Kings 3:19, 25 relates to 20:19; whether Gideon's proclamation
+applies 20:8; and whether Luke 14:18–20 alludes to 20:5–7. The difference between Sihon's war (2:34,
+women and little ones destroyed) and the law for distant cities (20:14, spared) is written out in the
+passage page and in Edom and Sihon, not harmonized. Later Jewish readings — the offer of peace to every
+city, *bal tašḥît*, the limiting of the exemptions to discretionary wars — are described from general
+knowledge and marked so at the point of the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 1:28–30; 2:24, 26, 34–35; 3:7, 22; 6:4;
+7:1–2, 21; 12:29–31; 17:16; 18:9–12; 19:5; 20:1–20; 24:5; 28:30, 52–53; 31:6; Exodus 3:8, 17; 14:9;
+23:23; Leviticus 19:23–25; Numbers 10:9; 31:6. Joshua 9:15; 10:40; 11:14, 19–20; 16:10; Judges 7:2–3;
+1 Kings 9:20–21; 2 Kings 3:19, 25; Jeremiah 6:6; Luke 14:18–20 checked at bible-api.com
+(`translation=web`), 2026-11-08; none of those books was fetched into raw/. Hebrew checked against WLC
+from morphhb (openscriptures, GitHub) — Deuteronomy 1:28–30; 2:24, 26; 3:22; 7:2, 21; 20:1–20; 24:5;
+28:30, 52; 31:6; Leviticus 19:23, 25; Joshua 10:40; 11:14; 16:10; Judges 7:3; 2 Kings 3:19 — with lemma
+searches in Deuteronomy for 1631, 2490, 2596, 2648, 4522, 4549, 4692, 5080, 5397, 6206, 7401, and 8610,
+retrieved 2026-11-08. The Hebrew of Jeremiah 6:6 and the Greek of Luke 14 were not checked. Raw files,
+canonical workflow instructions, and controller files were unchanged.

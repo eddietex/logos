@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Forced laborers — Deuteronomy 20:11
+
+A distant city that surrenders becomes *"forced laborers to you, and shall serve you"* (11). *Mas*, the
+corvée, occurs in Deuteronomy only here (WLC). Joshua 16:10 and 1 Kings 9:20–21 later apply forced labor
+to peoples of the land that Israel did not drive out or destroy (WEB, bible-api.com; not yet ingested).
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The parent must identify with the former slaves in Egypt (21), even when explaining commands in
@@ -633,6 +641,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The Seventy Elders and the Quail]] — Numbers 11:5, 18, 20; Egypt's food remembered, its labor not.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the six-year release of the Hebrew man and woman, with gifts; the ear pierced for the one who stays.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; servants at the feasts (11, 14), and *"remember that you were a slave in Egypt"* (12).
+- [[Laws for Going to War]] — Deuteronomy 20:11; the surrendered city's people become *"forced laborers"*.
 
 ## Related themes
 

@@ -206,7 +206,7 @@ named — and the wiki leaves that open. See
 destruction, occurs in the Hebrew of Numbers 31 (MAM, searched by consonants). The plunder is kept,
 divided, and tithed, unlike Jericho's (Joshua 6:17–19). Deuteronomy 20:13–14, in its law for distant
 cities, allows males to be killed and *the women, the little ones, the livestock … all its plunder* to be
-taken (WEB via bible-api.com, not yet ingested); Numbers 31 goes further in killing the boys and the women
+taken (now ingested as [[Laws for Going to War]]); Numbers 31 goes further in killing the boys and the women
 who had lain with a man, and gives Peor as the reason. See
 [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]].
 

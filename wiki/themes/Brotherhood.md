@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Lest his brother's heart melt — Deuteronomy 20:8
+
+The fearful man is sent home *"lest his brother's heart melt as his heart"* (8). The verb *māsas*, *melt*,
+occurs in Deuteronomy only here and at 1:28, where *"our brothers have made our heart melt"* (WLC): the
+spies' report is the case the law guards against. The fearful man is exempted for his brothers' sake.
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### Lying against a brother — Deuteronomy 19:18–19
 
 The accused is the false witness's *"brother"* twice (18, 19; *ʾāḥ*, WLC), where the Ten Words say
@@ -401,6 +409,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no inheritance among the brothers (2); the newcomer serves as his brothers the Levites (7).
 - [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; the prophet raised *"of your brothers"*.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:18–19; the false witness *"testified falsely against his brother"*.
+- [[Laws for Going to War]] — Deuteronomy 20:8; the fearful man sent home *"lest his brother's heart melt"*.
 
 ## Related themes
 

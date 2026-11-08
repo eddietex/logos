@@ -123,6 +123,19 @@ what is withheld, which is Genesis's habit with its patriarchs.
 
 ## Development across Scripture
 
+### The law of war — Deuteronomy 20:1–20
+
+The law code's only chapter on war is a series of limits. The priest forbids fear because Yahweh fights
+(2–4); the officers send home the man with an undedicated house, an unused vineyard, or a betrothed
+wife, and the fearful man *"lest his brother's heart melt"* (5–8). A distant city is offered peace and,
+if it refuses, loses its males (10–15); the cities of the land are *ḥērem*, *"nothing that breathes"*
+(16–18); and the fruit trees of a besieged city may not be cut (19–20). The harshest command and the
+mildest stand together in one chapter, and the wiki records both. See
+[[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]] and
+[[Is the Tree of the Field Man - Deuteronomy 20.19, 2 Kings 3, and Jeremiah 6]].
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### The sword turned on an Israelite town — Deuteronomy 12:29–13:18
 
 A town drawn to other gods is struck *"with the edge of the sword"* and devoted to destruction with its livestock (13:15), using the *ḥāram/ḥērem* vocabulary of the conquest (WLC 13:16, 18, morphhb). Its plunder is burned, not divided. See [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]].
@@ -568,6 +581,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance and its aftermath.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; armed service *before Yahweh* as the price of land.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; an apostate Israelite town devoted to destruction (13:12–18).
+- [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered to distant cities, *ḥērem*, and the fruit trees.
 
 ## Related themes
 

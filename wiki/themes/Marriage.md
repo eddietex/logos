@@ -415,6 +415,16 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### The betrothed man goes home — Deuteronomy 20:7
+
+*"What man is there who has pledged to be married a wife, and has not taken her? Let him go and return to
+his house, lest he die in the battle, and another man take her"* (7). 24:5 adds a year at home for the man
+newly married, and 28:30 turns the protection into a curse, *"You will betroth a wife, and another man
+shall lie with her"*. See
+[[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]].
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ## Key passages
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
@@ -638,6 +648,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1; the Cushite woman.
 - [[Vows of Men and Women]] — Numbers 30:6–16; a husband's power to confirm or void his wife's vow
 - [[The Law for the King]] — Deuteronomy 17:14–20; *"He shall not multiply wives to himself, that his heart not turn away"* (17).
+- [[Laws for Going to War]] — Deuteronomy 20:7; the betrothed man exempted from battle.
 
 ## Related themes
 

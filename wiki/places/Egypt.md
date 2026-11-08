@@ -698,6 +698,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; remembered as the land where Israel was a slave (15).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; left *"by night"* (1) and *"in haste"* (3); remembered as the land of slavery (12).
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king must not send the people back there for horses (16).
+- [[Laws for Going to War]] — Deuteronomy 20:1; Yahweh *"brought you up out of the land of Egypt"*, the ground of courage before horses and chariots.
 
 ## Related places
 

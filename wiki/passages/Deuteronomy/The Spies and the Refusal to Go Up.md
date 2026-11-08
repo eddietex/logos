@@ -117,6 +117,7 @@ Complete unit copied verbatim from raw/bible/Deuteronomy.md (WEB).
 - [[Leave Horeb and Possess the Land]] — 1:6–8, the command verse 21 repeats.
 - [[Judges Appointed for the People]] — 1:9–18, Moses unable to *bear* the people alone.
 - [[The Tower of Babel]] — *"fortified up to the sky"* (28) and the tower *"whose top reaches to the sky"*.
+- [[Laws for Going to War]] — Deuteronomy 20:3–4, 8; the priest's *"to fight for you"* repeats 1:30, and the fearful man is sent home *"lest his brother's heart melt"*, with the verb *māsas* of 1:28 (WLC).
 
 ## Notes
 

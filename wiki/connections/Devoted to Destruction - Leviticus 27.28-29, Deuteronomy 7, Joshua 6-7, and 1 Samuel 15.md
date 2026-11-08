@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Laws for Going to War]] — Deuteronomy 20:16–18; the cities of the land (now ingested).
+
 - [[Do Not Follow Other Gods]] — Deuteronomy 13:12–18; an Israelite town (now ingested).
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
@@ -29,6 +31,23 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### Deuteronomy 20:16–18 now ingested
+
+The law of war restates the *ḥērem* of 7:2 for the cities *"that Yahweh your God gives you for an
+inheritance"*: *"you shall save alive nothing that breathes; but you shall utterly destroy them"* (16–17),
+*kî-haḥărēm taḥărîmēm* (WLC 20:17), the same infinitive-plus-finite construction as 7:2. Two things are
+new. The *ḥērem* is now set against a second category, the cities *"very far off"* (15), which are offered
+peace and, if they fight, lose only their males (10–14); so the *ḥērem* is not Deuteronomy's rule for war
+in general but for the land. And the reason is stated: *"that they not teach you to follow all their
+abominations, which they have done to their gods"* (18). The list names six peoples; the Girgashite of 7:1
+is missing, without explanation. Joshua 10:40 and 11:14 narrate the command carried out with the same
+noun, *nəšāmâ*, *"all that breathed"* (WLC; WEB, bible-api.com), and Joshua 11:19–20 says that no city but
+Gibeon *"made peace"*, which bears on whether 20:10's offer reached the land's cities at all. The text of
+Deuteronomy 20 does not settle that; see [[Laws for Going to War]].
+
+Source for this addition: stored WEB Deuteronomy 7:1–2; 20:10–18. Joshua 10:40; 11:14, 19–20 verified from
+bible-api.com (WEB), 2026-11-08. WLC (morphhb), retrieved 2026-11-08.
 
 ### Deuteronomy 13:12–18 now ingested
 
@@ -83,6 +102,7 @@ that. The Hebrew joins a priest's field to a conquered city.
 | Exodus 22:20 | one who sacrifices to another god | death, as a sentence |
 | Numbers 21:2 | enemy cities, vowed | destroyed; the place is named Hormah (21:3), already the site of the defeat of [[The Defeat at Hormah]] (14:45) |
 | Deuteronomy 7:2 | the nations of the land | destruction, in war |
+| Deuteronomy 20:16–17 | the cities of the six peoples of the land, not the cities *"very far off"* | *"nothing that breathes"* saved alive |
 | Deuteronomy 13:16, 18 (WLC; WEB 13:15, 17) | an Israelite town gone after other gods | destroyed, plunder burned, never rebuilt |
 | Joshua 6:17 | Jericho | all devoted except Rahab's house |
 | 1 Samuel 15:3 | Amalek | Saul spares Agag and the best animals |

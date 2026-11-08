@@ -17,7 +17,8 @@ tags: [connection]
 - Nehemiah 12:27 — *"to keep the dedication with gladness."* *(same)*
 - Psalm 30, heading — *šîr ḥănukkat habbayit* (WLC, where the heading is verse 1); bible-api's WEB text
   of the psalm does not carry the heading, so no English is quoted
-- Deuteronomy 20:5 — a man who *"has built a new house, and has not dedicated it"* *(same)*
+- [[Laws for Going to War]] — Deuteronomy 20:5; a man who *"has built a new house, and has not dedicated it"*
+  (now ingested)
 - John 10:22 — *"It was the Feast of the Dedication at Jerusalem."* *(same; Greek not checked)*
 
 ## Analysis
@@ -48,6 +49,13 @@ verse that does. Its seven days are not the twelve of Numbers, and Chronicles gi
 John 10:22 is the name of a later feast, which is commonly identified with the Maccabean rededication.
 That identification and the Greek word were not checked for this page. It is noted here for the English
 word only, not as a link the text draws.
+
+**Deuteronomy 20:5 now ingested.** The man who *"has built a new house, and has not dedicated it"*
+(*wəlōʾ ḥănākô*, WLC) is sent home from battle *"lest he die in the battle, and another man dedicate it"*.
+The verb occurs in Deuteronomy only here (morphhb lemma 2596). It is used of a private house, which
+confirms that the root is not cultic in every use; what the dedication of a house involved, the text does
+not say. See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:5; WLC (morphhb), retrieved
+2026-11-08.
 
 ## Significance
 

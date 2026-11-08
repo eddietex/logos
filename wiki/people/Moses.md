@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The law of war — Deuteronomy 20:1–20
+
+Moses gives the law code's one chapter on war: the priest's address before battle, the officers'
+four dismissals, the offer of peace to a distant city, the *ḥērem* for the cities of the land, and the
+protection of fruit trees in a siege. The priest's *"he will fight for you"* repeats what Moses had told
+the Kadesh generation (1:30).
+
+See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
+
 ### Landmarks and witnesses — Deuteronomy 19:14–21
 
 Moses forbids moving a neighbour's landmark (14), widens the two-witness rule of 17:6 to *"any iniquity"*
@@ -2058,6 +2067,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; promises *"a prophet … like me"* and gives the test of a prophet's word.
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; commands three cities of refuge in the land, and three more if the border grows.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; the landmark, two or three witnesses, and the false witness.
+- [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered, *ḥērem*, and the fruit trees.
 
 ## Related people
 
