@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge, and no pity — Deuteronomy 19:1–13
+
+The same law shows mercy and forbids it. The man whose ax head flew off is given a city and a prepared
+road (3, 5); the man who lay in wait is not: *"Your eye shall not pity him"* (13), the formula used of
+the enticer to other gods (13:8).
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Yahweh does not destroy Israel, restores the written words, and sends the people onward (1–5,
@@ -367,6 +375,7 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; refuge for the accident (3–5); *"your eye shall not pity him"* (13).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

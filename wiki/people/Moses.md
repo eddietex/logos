@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Three cities in the land — Deuteronomy 19:1–13
+
+Having set apart the three eastern cities himself (4:41–43), Moses commands Israel to set apart three
+more *"in the middle of your land"* (2) once it is taken, and three beyond those if Yahweh enlarges the
+border (8–9). He defines the unwitting killer in the words of 4:42 and hands the murderer back to
+the avenger by the elders of his own town (12). None of the Numbers 35 procedure — congregation, high
+priest — is repeated.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### A prophet like me — Deuteronomy 18:9–22
 
 Moses, unnamed, closes the law of offices with the prophet. He sets the nine arts of the nations against
@@ -2038,6 +2048,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[The Law for the King]] — Deuteronomy 17:14–20; gives the law of the king, who must copy and read *"this law"*.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; gives the priests' due and the country Levite's right.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; promises *"a prophet … like me"* and gives the test of a prophet's word.
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; commands three cities of refuge in the land, and three more if the border grows.
 
 ## Related people
 

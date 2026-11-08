@@ -20,6 +20,7 @@ tags: [connection]
 - **Leviticus 24:17–21** — life for life, and the *lex talionis* stated as a limit
 - **Numbers 35:9–34** — the cities of refuge, the two-witness rule, and the ban on ransom for a
   murderer
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13.
 - **Deuteronomy 19:1–13; 21:1–9** — the same institutions restated, and the ritual for an unsolved
   killing
 - **Matthew 26:52** — *"all those who take the sword will die by the sword"*
@@ -119,6 +120,16 @@ image-bearing ground in Genesis 9:6 stands beside unequal status in these cases;
 state both rather than infer equality from the earlier principle. See
 [[A Place to Flee - Exodus 21 and Numbers 35]] and [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].
 Exodus 21 and Genesis 9:5–6 were checked in existing raw files for this addition.
+
+### Deuteronomy 19:1–13 now ingested
+
+Deuteronomy restates the distinction of Exodus 21:12–14 in its own terms: the killer who *"didn't hate
+him in time past"* (4, 6) against the one who *"hates his neighbor, lies in wait for him"* (11). The
+blood the law guards is called *"innocent blood"* in both directions — the unwitting killer's, which a
+long road might spill and leave *"blood guilt on you"* (10), and the murdered man's, which must be
+purged *"from Israel"* (13). Genesis 9:6's *"his blood will be shed by man"* thus has a limit written
+into it: it is the guilty man's blood, and the community is answerable for getting the difference right.
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13; Genesis 9:6.
 
 ## Significance
 

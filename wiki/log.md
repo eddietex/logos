@@ -23367,3 +23367,33 @@ checked against WLC from morphhb (openscriptures, GitHub) — Genesis 6:9; 9:14;
 12:31; 17:12–13; 18:6, 10–22; 34:10; Leviticus 19:26, 31 — with lemma searches across Genesis–Deuteronomy
 for 178, 2102, 2087, 2266, 2267, 3049, 3784, 5172, 5173, 6049, 7080, 7081, and 8549 in Deuteronomy,
 retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-07] ingest | Deuteronomy 19.1-13 — Refuge for the Unwitting Killer
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created the
+passage page; no new connection, since [[A Place to Flee - Exodus 21 and Numbers 35]] already carries the
+refuge law and now has a Deuteronomy 19 section, including the six-or-nine-cities question. Revised 27
+existing pages including this log: Deuteronomy (box checked, overview, Vengeance and Blood added as key
+themes) and `wiki/books/index.md`; two people (God, Moses); nine themes (Vengeance, Blood, Life and Death,
+Judgment, Compassion and Mercy, Law and Obedience, City and Civilization, Land and Sojourning, Love); four
+connections (A Place to Flee, The Redeemer and the Avenger of Blood, Whoever Sheds Man's Blood, Remove the
+Evil from Among You); four earlier passage pages (A Prophet Like Moses, Three Cities Beyond the Jordan,
+The Levitical Cities and the Cities of Refuge, Laws of Violence and Injury); the People F-M subindex, the
+themes index, the Connections O-S and T-Z subindexes, and `wiki/index.md`. Deuteronomy is now 41 / 69.
+Counts by frontmatter type are 366 passages, 257 people, 222 places, 87 themes, and 756 connections.
+
+Judgment calls: no person pages for the man slayer, the avenger, the murderer, or the elders; no place
+pages for the land or the unnamed three cities (Joshua 20:7 names the western three, to be paged when
+Joshua is ingested). Recorded and not resolved: six cities or nine (19:2, 9 against 4:41–43, Numbers
+35:13–14, Joshua 20:7–8); which body decides between killer and avenger (the murderer's town's elders,
+19:12; the congregation, Numbers 35:24; the elders of the refuge city, Joshua 20:4); the avenger's status;
+the absence of the high priest's death from Deuteronomy. The Leviticus 4 sense of *šəgāgâ* is taken from
+existing wiki pages and marked as not re-checked against WLC at the point of the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 4:42; 5:17; 7:16; 12:20; 13:5, 8; 17:7,
+12; 19:1–13; 21:9, 19; 22:15; 25:7–9; Genesis 9:6; 15:18; Exodus 21:12–14; Numbers 35:11–15, 24–25, 31.
+Joshua 20:2–9 checked at bible-api.com (`translation=web`), 2026-11-07; Joshua was not fetched into raw/.
+Hebrew checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 19:1–13; Numbers 35:11, 15
+— with lemma searches in Deuteronomy for 693, 1197 a, 2347, 3179, 4733, 5355 a, and 7523, and in Numbers
+for 4733 and 7523, retrieved 2026-11-07. Raw files, canonical workflow instructions, and controller files
+were unchanged.

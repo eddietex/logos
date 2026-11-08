@@ -11,6 +11,13 @@ status: in-progress
 
 ## Overview
 
+[[Refuge for the Unwitting Killer]] (19:1–13) turns from the offices to the protection of life. Three
+cities in the middle of the land, with the way prepared, receive the man who *"kills his neighbor
+unawares, and didn't hate him in time past"* — the ax head flying off the handle — lest *"the avenger of
+blood"* overtake him *"because the way is long"*. Three more are added if the border is enlarged. The man
+who lay in wait is fetched by his own elders and handed to the avenger: *"Your eye shall not pity him"*.
+Whether this means six cities or nine is left open.
+
 [[A Prophet Like Moses]] (18:9–22) ends the list of offices with the prophet. Israel is not to imitate
 the nations' child-burning, divination, sorcery, mediums, or consulting of the dead, which are why the
 nations are driven out; it is to be *"perfect with Yahweh"*. Instead Yahweh will raise *"a prophet …
@@ -264,7 +271,7 @@ Plan drawn 2026-11-05 from the stored WEB. **40 / 69 pericopes ingested.**
 - [x] [[The Law for the King]] — Deuteronomy 17:14–20
 - [x] [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 - [x] [[A Prophet Like Moses]] — Deuteronomy 18:9–22
-- [ ] Refuge for the Unwitting Killer — Deuteronomy 19:1–13
+- [x] [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13
 - [ ] Landmarks Witnesses and False Testimony — Deuteronomy 19:14–21
 - [ ] Laws for Going to War — Deuteronomy 20:1–20
 - [ ] An Unsolved Killing and the Broken-Necked Heifer — Deuteronomy 21:1–9
@@ -320,6 +327,8 @@ Plan drawn 2026-11-05 from the stored WEB. **40 / 69 pericopes ingested.**
 - [[Land and Sojourning]]
 - [[Integrity]]
 - [[The Nations]]
+- [[Vengeance]]
+- [[Blood]]
 
 ## Key people
 - [[God]]

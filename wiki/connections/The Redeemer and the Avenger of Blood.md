@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - **Genesis 48:16** — *"the angel who has **redeemed** me from all evil, bless the lads"* — ***the first
@@ -129,6 +130,16 @@ The WEB renders Proverbs 23:11's title as *"Defender"*; in Sefaria's *Miqra acco
 plead their case* — the same phrase used of Yahweh at 22:23 for the poor in court. The kinsman who buys
 back land in Leviticus 25 here defends the land of those who have no kinsman. See [[Thirty Excellent Things]].
 Source: stored WEB Proverbs 22:23; 23:10–11.
+
+### Deuteronomy 19:1–13 now ingested
+
+The *gōʾēl haddām* appears twice (19:6, 12, WLC). Deuteronomy neither commands nor condemns him; it
+plans around him. He pursues *"while his heart is hot"* (6), so the cities shorten the road; and when a
+man who lay in wait flees to one, his own town's elders *"deliver him into the hand of the avenger of
+blood"* (12). Here, unlike in Numbers 35:24–25, no congregation stands between them in the text. The
+kinsman who buys back land and the kinsman who pursues a killer are named by the same word, and in this
+law the second is the means of the sentence. See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13;
+Hebrew from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 

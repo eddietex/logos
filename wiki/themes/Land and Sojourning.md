@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land divided, enlarged, and kept clean — Deuteronomy 19:1–13
+
+The land is divided *"into three parts"* (3) around the three cities, its border may be enlarged
+*"as he has sworn to your fathers"* (8), and innocent blood shed in it leaves guilt on its people (10).
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Israel is to possess the sworn land (11), but Levi has no tribal portion: Yahweh is its inheritance
@@ -662,6 +669,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the land in three parts (3), enlarged (8), and its blood guilt (10).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"not yet come to the rest and to the inheritance"* (9).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; every place the foot treads, within the maximal border (24), and the crossing to possess and dwell (31).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

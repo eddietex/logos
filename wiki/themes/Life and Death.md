@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Flee and live — Deuteronomy 19:1–13
+
+*"He shall flee to one of these cities and live"* (5). The unwitting killer is *"not worthy of
+death"* — literally *no judgment of death* is on him (6, WLC *mišpaṭ-māwet*) — while the murderer is
+handed over *"that he may die"* (12). The difference is hatred beforehand, not the death itself.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Aaron dies, but Eleazar succeeds him (6). Israel’s threatened destruction is averted (10); the
@@ -859,6 +867,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"flee … and live"* (5); *"not worthy of death"* (6); *"that he may die"* (12).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; days multiplied *"as the days of the heavens above the earth"* (21).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

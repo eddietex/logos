@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Innocent blood, twice — Deuteronomy 19:1–13
+
+*"Innocent blood"* names two people. In 10 it is the unwitting killer, whose death on the road would
+leave *"blood guilt on you"*; in 13 it is the murdered man, whose blood Israel must *"purge … from
+Israel"*. Blood guilt is a claim on the community, which can incur it by not providing refuge as well
+as by sparing a murderer.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Blood shed in homicide pollutes the land, and the WEB says atonement for that blood requires the shedder’s blood (33). The context distinguishes murder from unwitting killing and requires judgment and witnesses (12, 22–30); verse 33 cannot erase those safeguards.
@@ -367,6 +376,7 @@ narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"innocent blood"* not to be shed (10) and purged (13).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"the blood is the life"* (23); poured on the ground like water (16, 24).
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the defective firstling's blood poured out like water (23).
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

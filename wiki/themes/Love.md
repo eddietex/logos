@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Love and hatred — Deuteronomy 19:1–13
+
+The further cities depend on Israel's keeping the command *"to love Yahweh your God"* (9); the
+murderer is defined as the man who *"hates his neighbor"* (11), and the unwitting killer as one who
+*"didn't hate him in time past"* (4, 6).
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 The Hebrew is ***ʾāhab***, and it is the Bible's ordinary word for the whole range English calls love:
 a father for a son, a man for a woman, a woman for her son, a man for grilled venison, and eventually
 Israel for God and God for Israel. **It is not a specialised religious term** and the Bible never
@@ -548,6 +556,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"to love Yahweh your God"* (9) beside the hatred that makes murder (11).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; love as one of the conditions of possession, with walking and clinging (22).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

@@ -135,6 +135,8 @@ from a danger the owner knew about (21:33–36).
 
 ## Cross-references
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the place of flight of 21:13 made three
+  cities, and the man who lies in wait handed to the avenger.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 names the three eastern refuges;
   see [[A Place to Flee - Exodus 21 and Numbers 35]].
 

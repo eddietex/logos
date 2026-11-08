@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three cities in the land, three more if the border
+  grows, and the murderer handed to the avenger.
+
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43; the three eastern cities designated.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
@@ -70,6 +73,30 @@ law’s distinctions. This addition compares the stored WEB of Proverbs and Exod
 
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
 Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
+
+### Deuteronomy 19:1–13 now ingested
+
+Deuteronomy's own refuge law repeats 4:42's definition — *"kills his neighbor unawares, and didn't hate
+him in time past"* (19:4) — and adds an example, the ax head that slips from the handle (5). Its
+concerns are distance and the land: three cities *"in the middle of your land"*, the land divided in
+three and the way prepared (2–3), because *"the way is long"* and the avenger's heart is hot (6).
+
+It differs from Numbers 35 in what it leaves out and what it adds. It does not use *"city of refuge"*
+(WLC *miqlāṭ* is absent from Deuteronomy; morphhb), names no congregation and no high priest, and
+gives the murderer's fate to *"the elders of his city"* (12). Joshua 20:4 has the fugitive state his case
+to *"the elders of that city"*, the city of refuge, and 20:6 keeps Numbers' congregation and high priest
+(WEB, checked at bible-api.com). Each text names a different body; none describes how they fit together.
+
+**Six cities or nine.** With the eastern three of 4:41–43, the three western cities of 19:2 make the six
+of Numbers 35:13–14 and of Joshua 20:7–8, which names Kedesh, Shechem, and Kiriath Arba west of the
+Jordan and Bezer, Ramoth, and Golan east of it. 19:8–9 then adds *"three cities more … besides these
+three"* if the border is enlarged *"as he has sworn to your fathers"*. Read as nine, the extra three
+were conditional and never appointed; read as six, the *"three more"* are the eastern cities, which sits
+awkwardly with 19:8–9's future tense after 4:41–43. The wiki keeps both readings.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 4:41–43; 19:1–13; Numbers 35:12–14, 24–25. Joshua 20:2–9
+checked at bible-api.com (`translation=web`), 2026-11-07. Hebrew from WLC (morphhb), retrieved
+2026-11-07.
 
 ## Significance
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Hatred beforehand — Deuteronomy 19:1–13
+
+The line between the unwitting killer and the murderer is drawn three times by the same test: he
+*"didn't hate him in time past"* (4, 6), or he *"hates his neighbor, lies in wait for him"* (11). The
+elders of the murderer's own town act (12); Numbers 35:24 names the congregation and Joshua 20:4 the
+elders of the city of refuge. The wiki records the difference without harmonizing it.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Destruction and erasure of the people’s name are threatened (14); Aaron too faces destruction
@@ -885,6 +894,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; prior hatred decides between refuge and death (4, 6, 11); the elders act (12).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

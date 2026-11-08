@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Cities set apart — Deuteronomy 19:1–13
+
+Three cities are *"set apart"* (2, 7) and the land divided into three, with the way prepared (3), so
+that a city of refuge is within reach of every part. The murderer's own town acts through its elders
+(12).
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Bezer, Ramoth, and Golan serve as places of protective flight (41–43). Urban
@@ -197,6 +205,7 @@ See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three cities set apart and the land divided around them (2–3); the elders of the town (12).
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The avenger restrained and given his due — Deuteronomy 19:1–13
+
+The avenger of blood is assumed, not created, and his anger is a fact the law plans around: he
+pursues *"while his heart is hot"*, and the long road gives him the chance (6). The refuge keeps him
+from the innocent killer; for the murderer, the elders *"deliver him into the hand of the avenger of
+blood"* (12). Unlike Numbers 35, no congregation or high priest is named.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 The eastern refuges preserve the unwitting killer’s life (41–43). Unlike Numbers
@@ -184,6 +193,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the avenger *"while his heart is hot"* (6), and the murderer handed to him (12).
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

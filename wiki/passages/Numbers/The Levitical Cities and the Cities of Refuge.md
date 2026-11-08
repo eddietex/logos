@@ -81,6 +81,8 @@ None of the forty-eight cities is named here.
 
 ## Cross-references
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the law restated without the congregation
+  or the high priest, with the elders and three conditional cities added.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 names the three eastern refuges;
   see [[A Place to Flee - Exodus 21 and Numbers 35]].
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### He enlarges the border, and the refuges grow with it — Deuteronomy 19:1–13
+
+Yahweh *"cuts off the nations"* and gives their cities and houses (1). The number of refuges is tied to
+his promise: *"If Yahweh your God enlarges your border, as he has sworn to your fathers"*, and Israel
+keeps the command *"to love Yahweh your God, and to walk ever in his ways"*, three more are added (8–9),
+so that *"innocent blood will not be shed in the middle of your land"* (10).
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### He is Levi's inheritance — Deuteronomy 18:1–8
 
 *"Yahweh is their inheritance, as he has spoken to them"* (2). The tribe eats *"the offerings of Yahweh made by fire"* (1). He has *"chosen him out of all your tribes, to stand to minister in Yahweh's name"* (5), and the Levites *"stand there before Yahweh"* at the place he chooses (6–7).
@@ -4364,6 +4373,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[The Law for the King]] — Deuteronomy 17:14–20; chooses the king (15); forbids the way back to Egypt (16).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; Levi's inheritance (2); chooses the priest (5).
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the arts of the nations an abomination to him (12); raises the prophet and puts his words in his mouth (15, 18); will require it of the one who does not listen (19).
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; cuts off the nations and gives the land (1–2); may enlarge the border as sworn to the fathers (8).
 
 ## Related people
 

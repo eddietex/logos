@@ -170,7 +170,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   to hear again.
 - [[The Magicians of Egypt - Hartummim in Genesis, Exodus, and Daniel]] — Pharaoh's *"sorcerers"*
   (Exodus 7:11), the same root as 18:10's *"sorcerer"*.
-- Deuteronomy 19:1–13 *(next pericope)* — the cities of refuge; the list of offices is finished.
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the next pericope, the cities of refuge; the list of offices is finished.
 - Deuteronomy 34:10 *(stored, not yet ingested)* — *"there has not arisen a prophet in Israel like
   Moses"*.
 - John 1:21, 25; 6:14; 7:40; Acts 3:22–23; 7:37; Matthew 17:5; Luke 9:35; Jeremiah 1:9; 28:9;

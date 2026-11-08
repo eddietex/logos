@@ -55,6 +55,8 @@ The killer and neighbor are legal roles, not identifiable individuals.
 
 ## Cross-references
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the three western cities and the same definition
+  of the unwitting killer (19:4).
 - [[A Place to Flee - Exodus 21 and Numbers 35]] — the promised place of flight,
   six-city legislation, and the three eastern cities now named.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:9–34 supplies the

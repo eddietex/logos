@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Obedience enlarges the refuge — Deuteronomy 19:1–13
+
+The three further cities depend on a condition: *"if you keep all this commandment to do it … to love
+Yahweh your God, and to walk ever in his ways"* (9). Obedience is not only rewarded with land; it brings
+with it a new duty to the man who kills by accident.
+
+See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:1–13.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Yahweh writes the ten commandments again and Moses deposits them as commanded (4–5). The repeated
@@ -1225,6 +1233,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three more cities if Israel keeps *"all this commandment"* (9).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the law code opens; right in his own eyes vs. right in Yahweh's eyes.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; listening or not listening decides blessing or curse; the hinge into the statutes (32).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

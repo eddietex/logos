@@ -11,6 +11,7 @@ tags: [connection]
   leads to other gods.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:7, 12; the worshipper of other gods put to death on two or three
   witnesses, and the man who refuses the verdict of the court at the place.
+- [[Refuge for the Unwitting Killer]] — Deuteronomy 19:13; the same verb with *"the innocent blood"* as its object.
 - Deuteronomy 19:19, 21:21, 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's
   laws (stored WEB, not yet ingested).
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
@@ -63,6 +64,17 @@ Both verses use *ûbiʿartā hāraʿ* (WLC, morphhb). The second is the first ca
 refusing a court, not worship or violence.
 
 Source: stored WEB Deuteronomy 17:7, 12. Hebrew from WLC (morphhb), retrieved 2026-11-07.
+
+### Deuteronomy 19:13 now ingested
+
+*"You shall purge the innocent blood from Israel"* is not in the English-phrase list above, but its verb
+is: *ûbiʿartā dam-hannāqî miyyiśrāʾēl* (WLC, morphhb). What is removed is not *"the evil"* but the
+murdered man's blood, by handing his murderer to the avenger (19:12), and the WEB's *"from Israel"*
+matches the variant at 17:12 and 22:22. The same verb with the same object returns at 21:9, WEB *"put
+away the innocent blood"*. A morphhb lemma search for *bāʿar* (1197 a) in Deuteronomy finds it at 13:6
+(13:5 English); 17:7, 12; 19:13, 19; 21:9, 21; 22:21, 22, 24; 24:7, besides the sense *burn* at 4:11;
+5:23; 9:15 and *remove* at 26:13–14. See [[Refuge for the Unwitting Killer]]. Source: stored WEB Deuteronomy 19:13; 21:9; Hebrew
+from WLC (morphhb), retrieved 2026-11-07.
 
 ## Significance
 
