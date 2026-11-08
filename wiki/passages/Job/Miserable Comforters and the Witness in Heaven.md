@@ -218,7 +218,7 @@ the earth under him, and heaven above.
   necessary to hold.
 - Genesis 4:10–11 — *"The voice of your brother's blood cries to me from the ground."*
 - Leviticus 17:13; Deuteronomy 21:1–9 — the covering of blood, and the rite for innocent blood
-  whose shedder is unknown.
+  whose shedder is unknown; see [[An Unsolved Killing and the Broken-Necked Heifer]].
 - Isaiah 26:21 — *"the earth will disclose her blood, and will no longer cover her slain."*
 - Ezekiel 24:7–8 — blood set on bare rock, uncovered, so that wrath may come up.
 - Psalm 22:7; Lamentations 2:15; Matthew 27:39 — the shaking of the head at a sufferer.

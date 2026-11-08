@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A body in the given land — Deuteronomy 21:1–4
+
+The case opens *"in the land which Yahweh your God gives you to possess"* (1), and the liability is mapped
+onto it: the town *"nearest to the slain man"* (3). The heifer is taken to a valley *"which is neither
+plowed nor sown"* (4), ground untouched by work. Compare Numbers 35:33–34, where shed blood *"pollutes the
+land"* in which Yahweh dwells.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9; Numbers 35:33–34.
+
 ### House, vineyard, and inheritance — Deuteronomy 20:5–6, 16, 19–20
 
 A man who has built a house or planted a vineyard and not yet enjoyed it is sent home from war (5–6).
@@ -1078,6 +1087,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; no portion nor inheritance (1–2); the Levite who *"lives as a foreigner"* in his town (6).
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14; the neighbour's landmark *"which they of old time have set"*.
 - [[Laws for Going to War]] — Deuteronomy 20:5–6, 16, 19; the unenjoyed house and vineyard, the inheritance, and the fruit trees.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–4; a body found in the given land, and the unworked valley.
 
 ## Related themes
 

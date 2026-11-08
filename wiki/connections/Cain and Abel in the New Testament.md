@@ -78,7 +78,8 @@ the serpent, and it is worth answering the same way: record both, and mark which
 The other thing worth carrying forward is Hebrews 12:24's comparison, because it makes the
 Bible's first murder the first term in a series about **what blood says**. Genesis 4:10 (blood
 crying from the ground), Genesis 9:5–6 (blood required), Leviticus 17:11 (life in the blood),
-Deuteronomy 21:1–9 (a land polluted by blood), and Hebrews 12:24 are one strand. Revisit when
+Deuteronomy 21:1–9 (a land polluted by blood;
+[[An Unsolved Killing and the Broken-Necked Heifer]]), and Hebrews 12:24 are one strand. Revisit when
 Genesis 9 and Leviticus 17 are ingested.
 
 That strand now has a middle term. Job 16:18 — *"Earth, don't cover my blood. Let my cry have

@@ -121,6 +121,7 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
   food laws.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the third festival calendar, with the three appearances at the
   chosen place. See [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]].
+- [[Break Its Neck - Exodus 13.13, 34.20, and Deuteronomy 21.4]] — 34:20 and the heifer of Deuteronomy 21:4.
 
 ## Notes
 

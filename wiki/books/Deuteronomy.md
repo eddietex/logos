@@ -11,6 +11,14 @@ status: in-progress
 
 ## Overview
 
+[[An Unsolved Killing and the Broken-Necked Heifer]] (21:1–9) takes the killing that chapter 19's courts cannot reach: a body
+in the field, and *"it isn't known who has struck him"*. The elders and judges measure to the nearest
+town, whose elders break the neck of an unworked heifer in a valley *"neither plowed nor sown"*, wash
+their hands over it, and say, *"Our hands have not shed this blood, neither have our eyes seen it"*. They
+pray, *"Forgive, Yahweh, your people Israel, whom you have redeemed"*, and the innocent blood is put away.
+The verb is *kipper*, which Numbers 35:33 allows for the land only by the shedder's blood; the tension is
+recorded, not resolved.
+
 [[Laws for Going to War]] (20:1–20) is the law code's one chapter on war. Before battle the priest tells
 the army not to fear, *"for Yahweh your God is he who goes with you, to fight for you"*. The officers send
 home the man with an undedicated house, an unused vineyard, or a betrothed wife, and the man who is
@@ -288,7 +296,7 @@ Plan drawn 2026-11-05 from the stored WEB. **43 / 69 pericopes ingested.**
 - [x] [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13
 - [x] [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21
 - [x] [[Laws for Going to War]] — Deuteronomy 20:1–20
-- [ ] An Unsolved Killing and the Broken-Necked Heifer — Deuteronomy 21:1–9
+- [x] [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9
 - [ ] Captives Firstborn Sons and Public Shame — Deuteronomy 21:10–23
 - [ ] Care for the Neighbor and Ordered Distinctions — Deuteronomy 22:1–12
 - [ ] Marriage Accusations and Sexual Offenses — Deuteronomy 22:13–30
@@ -348,6 +356,10 @@ Plan drawn 2026-11-05 from the stored WEB. **43 / 69 pericopes ingested.**
 - [[Strife and Peacemaking]]
 - [[Slavery and Servitude]]
 - [[Marriage]]
+- [[Atonement]]
+- [[Forgiveness]]
+- [[Guilt and Conscience]]
+- [[Redemption]]
 
 ## Key people
 - [[God]]

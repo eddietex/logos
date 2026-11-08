@@ -90,6 +90,8 @@ None of the forty-eight cities is named here.
 - [[The Priests Who Kept Their Land and the Levites Who Got None]]
 - [[The Redeemer and the Avenger of Blood]]
 - [[Whoever Sheds Man's Blood]]
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *kipper* asked for the people when the shedder of the blood (35:33)
+  cannot be found.
 
 ## Notes
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### "The blood shall be forgiven them" — Deuteronomy 21:8
+
+WEB's *"Forgive"* and *"shall be forgiven"* in 21:8 translate *kipper* (WLC), not *sālaḥ*, the verb
+usually rendered *forgive*. The forgiveness is for a people that has, by its elders' oath, neither shed
+the blood nor seen it shed (7). It is asked for anyway, because the blood is *"among your people
+Israel"*, and the guilt for it is the people's whether or not anyone in it is to blame.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9.
+
 **Genesis waits until its last chapter to use the word.**
 
 **The Hebrew idiom is *nāśāʾ* — *to lift*, *to carry*** — **and what gets lifted is the weight of
@@ -292,6 +301,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[The Defeat at Hormah]] — Numbers 14:42; pardoned at 14:20, yet Yahweh is not among them
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25–28; the verb of 14:19–20, attached to a procedure
 - [[Vows of Men and Women]] — Numbers 30:5, 8, 12; *Yahweh will forgive her*, with no offering
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *"Forgive, Yahweh, your people Israel"* — *kipper*, not *sālaḥ*.
 
 ## Related themes
 

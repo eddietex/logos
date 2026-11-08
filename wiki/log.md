@@ -23477,3 +23477,45 @@ from morphhb (openscriptures, GitHub) — Deuteronomy 1:28–30; 2:24, 26; 3:22;
 searches in Deuteronomy for 1631, 2490, 2596, 2648, 4522, 4549, 4692, 5080, 5397, 6206, 7401, and 8610,
 retrieved 2026-11-08. The Hebrew of Jeremiah 6:6 and the Greek of Luke 14 were not checked. Raw files,
 canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-08] ingest | Deuteronomy 21.1-9 — An Unsolved Killing and the Broken-Necked Heifer
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created the
+passage page and two connections:
+[[Washing the Hands of Innocent Blood - Deuteronomy 21, Psalms 26 and 73, and Matthew 27]], which sets the
+elders' washing and oath beside the psalmist's clean hands and Pilate's; and
+[[Break Its Neck - Exodus 13.13, 34.20, and Deuteronomy 21.4]], which follows *ʿārap* through its only
+Torah uses, the unredeemed donkey and the heifer. Revised 36 existing pages including this log:
+Deuteronomy (box checked, overview, Atonement, Forgiveness, Guilt and Conscience, and Redemption added as
+key themes) and `wiki/books/index.md`; three people (God, Moses, Levi); eight themes (Blood, Atonement,
+Forgiveness, Guilt and Conscience, Redemption, Priesthood, Judgment, Land and Sojourning); six connections
+(Do Not Cover My Blood, Whoever Sheds Man's Blood, Sinning Unwittingly, Cain and Abel in the New
+Testament, To Bless in His Name, Remove the Evil from Among You); nine earlier passage pages (Laws for
+Going to War; Refuge for the Unwitting Killer; The Consecration of the Firstborn; The Covenant Renewed;
+The Crossing of the Sea; Cain and Abel; Miserable Comforters and the Witness in Heaven; The Red Heifer;
+The Levitical Cities and the Cities of Refuge), each turning a forward reference into a link or adding a
+cross-reference; the People F-M subindex, the themes index, the Connections A-C, D-H, O-S, and T-Z
+subindexes, and `wiki/index.md`. Deuteronomy is now 44 / 69. Counts by frontmatter type are 369
+passages, 257 people, 222 places, 87 themes, and 761 connections.
+
+Correction: [[Do Not Cover My Blood]] quoted Numbers 35:33 as *"blood, it defiles the land"*; the stored
+WEB reads *"blood pollutes the land"*, and the quotation now matches it.
+
+Judgment calls: no pages for the slain man, the elders, or the judges; no place pages for the unnamed
+field, towns, or valley. Recorded and not resolved: whether the heifer's death is a re-enactment, a
+substitute, or a removal; how the *kipper* of 21:8 relates to Numbers 35:33's denial of any atonement for
+the land without the shedder's blood; what the priests of 21:5 do; whether *ʾêtān* describes the stream or
+the ground; why the law sits between two laws of war; and whether Matthew 27:24 alludes to 21:6–8. The
+Mishnah's treatment of the rite (tractate Sotah), the King James *"rough valley"*, and the wider use of
+hand-washing as a sign of innocence are described from general knowledge and marked so at the point of
+the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 9:26; 10:8; 12:5; 15:19; 16:18; 17:8–9;
+19:10, 12–13, 15, 17; 21:1–9; 23:11; 27:25; 28:48; 32:42–43; Genesis 4:10–11; 15:9; 49:24; Exodus 13:13;
+14:27; 34:20; Leviticus 11:3; Numbers 19:2, 16; 24:21; 35:33–34. Psalm 26:6; 73:13 and Matthew 27:24–25
+checked at bible-api.com (`translation=web`), 2026-11-08; neither book was fetched into raw/. Hebrew
+checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 9:26; 10:8; 17:8; 19:10; 21:1–9;
+23:12; 32:43; Numbers 19:2, 16; 35:33; Exodus 13:13; 34:20 — with lemma searches across Genesis–Deuteronomy
+for 386, 2491, 5697, and 6202, and across Deuteronomy for 1197, 3722, 4058, 5061, 5355, 5647, 5923, 6299,
+7364, and 7379, retrieved 2026-11-08. The Hebrew of the Psalms and the Greek of Matthew 27 were not
+checked. Raw files, canonical workflow instructions, and controller files were unchanged.

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The priests at the valley — Deuteronomy 21:5
+
+*"The priests the sons of Levi shall come near; for them Yahweh your God has chosen to minister to him,
+and to bless in Yahweh's name; and according to their word shall every controversy and every assault be
+decided"* (5). The pairing of ministering and blessing is 10:8. The verse gives the priests no act in the
+rite — the elders do everything — and states their presence as the court's: every *rîb* and *negaʿ*, the
+words of the hard cases at 17:8 (WLC).
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9.
+
 ### The priests' due and the Levite from the towns — Deuteronomy 18:1–8
 
 *"The priests the Levites, all the tribe of Levi"* (1): Deuteronomy's fullest statement of who the priests are. The tribe has no portion nor inheritance and eats the offerings by fire; the priest receives fixed cuts and first fruits (3–4), chosen *"out of all your tribes"* (5). A Levite who sojourns in a town may come to the place, minister as his brothers do, and eat like portions (6–8). Whether this gives every Levite the altar right Numbers 18 reserves for Aaron's sons is left open. The scattering of Genesis 49:7 appears here as a tribe living in *"any of your gates out of all Israel"* (6), though Deuteronomy does not connect the two.
@@ -324,6 +334,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:5–26; the tribe cleansed and offered.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; not to be forsaken; first among the third-year tithe's recipients.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; *"all the tribe of Levi"*, its due, and the country Levite at the place.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:5; *"the priests the sons of Levi"*, chosen to minister and bless, by whose word every controversy is decided.
 
 ## Related people
 

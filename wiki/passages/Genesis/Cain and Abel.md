@@ -188,7 +188,7 @@ the garden.
 - Genesis 9:5–6 — the blood of a man required *"at the hand of every man's brother"*, the rule this
   narrative is missing.
 - Leviticus 17:11 and Deuteronomy 21:1–9 — blood as life, and the ritual for a land polluted by
-  blood whose shedder is unknown.
+  blood whose shedder is unknown; see [[An Unsolved Killing and the Broken-Necked Heifer]].
 - Numbers 35:9–34 — the cities of refuge and the avenger of blood, the institution that will do
   formally what the mark of Cain does here informally.
 - Matthew 5:21–24 — anger treated as the root the murder grows from, and reconciliation with a

@@ -386,7 +386,8 @@ a festival, not an object. The wiki adopts neither reading.
   [[When Your Son Asks - Telling the Exodus to the Next Generation]]
 - Deuteronomy 7:8 — *"redeemed you out of the house of bondage"* *(not yet ingested)*
 - Deuteronomy 16:1 — *"Observe the month of Abib"* *(not yet ingested)*
-- Deuteronomy 21:4, 6 — the heifer's neck broken *(not yet ingested)*
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:4, 6; the heifer's neck broken
+- [[Break Its Neck - Exodus 13.13, 34.20, and Deuteronomy 21.4]]
 - Joshua 4:6–7, 21–22 — *"when your children ask … What do you mean by these stones?"* *(not yet ingested)*
 - Luke 2:22–24 — Jesus presented, *"Every male who opens the womb shall be called holy to the Lord"* —
   [[Holy to the Lord - The Firstborn Law and the Presentation of Jesus]]

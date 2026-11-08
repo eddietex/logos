@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Answerable without being accused — Deuteronomy 21:1–9
+
+The town nearest the body is not charged with the killing. It is made answerable by distance (2–3), and
+it discharges that liability by oath: *"Our hands have not shed this blood, neither have our eyes seen
+it"* (7). The law distinguishes the guilt of the deed, which no one has been shown to carry, from the
+liability of the blood, which someone must. Compare *"blood guilt on you"* at 19:10.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9; 19:10.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 The confession in verse 41 acknowledges guilt, but does not authorize the people’s chosen remedy.
@@ -284,6 +293,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Defeat at Hormah]] — Numbers 14:40; *we have sinned*
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:24, 31; hidden from the congregation, and iniquity left on the person
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *guiltless towards Yahweh, and towards Israel* (22).
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the nearest town clears itself by oath of blood it did not shed.
 
 ## Related themes
 

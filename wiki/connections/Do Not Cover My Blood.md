@@ -16,8 +16,8 @@ tags: [connection]
   eaten its fruits without money, or have caused its owners to lose their life"* — the ground as
   witness, sworn to be silent — [[Job's Oath of Innocence]]
 - **Leviticus 17:13** — the blood of hunted game to be poured out and *covered with dust*
-- **Deuteronomy 21:1–9** — the rite for a body found in open country, so that innocent blood is not
-  left on the land
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the rite for a body found in open country, so that innocent blood
+  is not left on the land
 - **Isaiah 26:21** — *"the earth will also disclose her blood, and will no longer cover her slain."*
 - **Ezekiel 24:6–8** — blood set on bare rock, deliberately not covered with dust, *"that it may
   cause wrath to come up to take vengeance"*
@@ -48,7 +48,7 @@ Job 16:19 takes the witness to be the cry itself, arrived and standing up in cou
 [[The Witness in Heaven]].
 
 The legal background sharpens both texts. Israelite law treats unavenged blood as a **pollution of
-the land**, not merely a wrong to the victim: Numbers 35:33 says *"blood, it defiles the land"*, and
+the land**, not merely a wrong to the victim: Numbers 35:33 says *"blood pollutes the land"* (stored WEB), and
 Deuteronomy 21:1–9 provides an elaborate rite — a heifer killed in an untilled valley, the elders
 of the nearest town washing their hands over it — for the case where a body is found and the killer
 is unknown, so that innocent blood is not left on the community's account. Leviticus 17:13 is the

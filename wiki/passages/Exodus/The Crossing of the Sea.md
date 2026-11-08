@@ -528,7 +528,7 @@ comes to *"the Egyptians shall know that I am Yahweh"*.** It is made too late.
 
 ***"The sea returned to its strength"*** — ***ləʾêtānô***, *to its steady flow*. ***ʾÊtān* is the word of
 Jacob's blessing on Joseph — *"his bow remained strong"*** (Genesis 49:24) — and of Deuteronomy 21:4's
-*"valley with running water"* (WLC; *not yet ingested*); in the Torah it occurs at only those, here, and
+*"valley with running water"* (WLC; [[An Unsolved Killing and the Broken-Necked Heifer]]); in the Torah it occurs at only those, here, and
 Numbers 24:21 (WLC lemma search).
 
 ***"When the morning appeared"*** — ***lipnôt bōqer***. **The plagues' mornings** (7:15; 8:20; 9:13) **and the

@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Asked to cover blood the court cannot reach — Deuteronomy 21:1–9
+
+The body lies *"in the land which Yahweh your God gives you"* (1). The priests are there because *"Yahweh your
+God has chosen"* them *"to minister to him, and to bless in Yahweh's name"* (5). When the elders of the
+nearest town have disowned the killing, they turn to him: *"Forgive, Yahweh, your people Israel, whom you
+have redeemed, and don't allow innocent blood among your people Israel"* (8). The verb is *kipper*
+(WLC), and the petition rests on his redemption of the people, in the words of Moses' own prayer at 9:26.
+Doing this is *"that which is right in Yahweh's eyes"* (9).
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9.
+
 ### He goes with the army — Deuteronomy 20:1–20
 
 Yahweh, who brought Israel up out of Egypt, is *"with you"* against horses and chariots (1). The priest
@@ -4392,6 +4403,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; cuts off the nations and gives the land (1–2); may enlarge the border as sworn to the fathers (8).
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; giver of the inheritance (14), before whom the parties stand (17).
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; with Israel in battle (1), fights for it (4), delivers the city (13), commands the *ḥērem* (17).
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; gives the land (1), chose the priests (5), asked to *kipper* for the people he redeemed (8).
 
 ## Related people
 

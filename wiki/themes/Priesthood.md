@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Present and silent at the valley — Deuteronomy 21:5
+
+*"The priests the sons of Levi shall come near"* (5), and the verse states why — chosen *"to minister to
+him, and to bless in Yahweh's name"*, and by their word *"every controversy and every assault"* is
+decided. It gives them nothing to do. The elders take, bring down, and kill the heifer, wash, and pray;
+no priestly act is named. Their presence is that of the court of 17:8–9 and 19:17.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9.
+
 ### The priest before battle — Deuteronomy 20:2–4
 
 *"When you draw near to the battle, … the priest shall approach and speak to the people"* (2). His
@@ -868,6 +877,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the priests' due, and the Levite from the towns who serves and eats with his brothers.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:17; the priests and the judges *"before Yahweh"* in a disputed testimony.
 - [[Laws for Going to War]] — Deuteronomy 20:2–4; the priest addresses the army before battle.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:5; the priests come near, chosen to minister, bless, and decide controversies, but perform no act in the rite.
 
 ## Related themes
 

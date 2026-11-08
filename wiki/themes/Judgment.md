@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A case with no defendant — Deuteronomy 21:1–9
+
+The elders and judges *"come out"* and *"measure"* (2), but there is no one to try. The two or three
+witnesses of 19:15 are exactly what the case lacks, and the elders' oath says so: *"neither have our eyes
+seen it"* (7). The rite is what the law does when its courts have nothing to work on.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9; 19:15.
+
 ### Two or three witnesses and a diligent inquiry — Deuteronomy 19:15–21
 
 No single witness can establish *"any iniquity, or … any sin"* (15). A disputed testimony goes
@@ -1301,6 +1309,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; death for enticement; diligent inquiry; *remove the evil*.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; courts in every town; two or three witnesses; the hard case sent to the place.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:15–21; two or three witnesses for any sin (15); the false witness tried and given his own intended penalty (16–19).
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the elders and judges measure for a killing with no known killer.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

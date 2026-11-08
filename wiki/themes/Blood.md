@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blood with no known shedder — Deuteronomy 21:1–9
+
+A body is found in the field and *"it isn't known who has struck him"* (1). The blood still has to be put
+away (9), and there is no one whose death can do it. The elders of the nearest town break a heifer's neck
+in an unworked valley, wash their hands over it, and swear, *"Our hands have not shed this blood"* (7).
+No blood of the heifer is collected or applied; the text says only that *"the blood shall be forgiven
+them"* (8). Compare Numbers 35:33, *"blood pollutes the land"*, where the remedy is the shedder's blood.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9; Numbers 35:33.
+
 ### Innocent blood, twice — Deuteronomy 19:1–13
 
 *"Innocent blood"* names two people. In 10 it is the unwitting killer, whose death on the road would
@@ -176,7 +186,8 @@ See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
   life*.
 - **Numbers 35:30–34** — blood pollutes the land, and atonement requires the shedder’s blood (WEB 35:33) The cities of refuge and the requirement of two witnesses are
   the procedure Genesis 9:6 lacks.
-- **Deuteronomy 21:1–9** — the unsolved murder: the elders break a heifer's neck over running water
+- **Deuteronomy 21:1–9** — the unsolved murder ([[An Unsolved Killing and the Broken-Necked Heifer]]): the elders break a heifer's neck over
+  running water
   and wash their hands, declaring *"Our hands have not shed this blood."* Blood-guilt is a liability
   the community carries until it is discharged.
 - **1 Samuel 14:32–34** — the one narrative in Scripture where Genesis 9:4 is broken. Saul's
@@ -472,6 +483,7 @@ narrated. See [[The Eighth Day and the Appearing Glory]] .
 - [[Do Not Consent to Sinners]] — Proverbs 1:11–18; lying in wait for blood, and for their own blood
 
 See [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for the food prohibition in both settings.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; *"Our hands have not shed this blood"* (7), and the innocent blood put away (9).
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

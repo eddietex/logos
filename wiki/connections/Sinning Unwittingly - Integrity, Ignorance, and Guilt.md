@@ -28,7 +28,7 @@ tags: [connection]
 - **Numbers 35:9–34; Deuteronomy 19:1–13; Joshua 20** — the cities of refuge: the unintentional
   killer is not a murderer and is still not simply free
 - **Deuteronomy 21:1–9** — a corpse in open country, and a town that must clear itself of blood it
-  did not shed
+  did not shed — [[An Unsolved Killing and the Broken-Necked Heifer]]
 - **1 Samuel 14:24–45** — Jonathan eats the honey without knowing his father's oath, and the lot
   falls on him anyway
 - **2 Samuel 6:6–7** — Uzzah steadies the ark, and dies for it

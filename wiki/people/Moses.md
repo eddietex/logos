@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The law of the unsolved killing — Deuteronomy 21:1–9
+
+Moses gives the rite for a body found in the field with no known killer: the measuring, the heifer, the
+valley, the washing of hands, and the elders' declaration and prayer. The prayer borrows his own
+intercession at Horeb, *"your people … that you have redeemed"* (9:26; 21:8).
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9.
+
 ### The law of war — Deuteronomy 20:1–20
 
 Moses gives the law code's one chapter on war: the priest's address before battle, the officers'
@@ -2068,6 +2076,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; commands three cities of refuge in the land, and three more if the border grows.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; the landmark, two or three witnesses, and the false witness.
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered, *ḥērem*, and the fruit trees.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the heifer, the washing, and the prayer for the redeemed people.
 
 ## Related people
 

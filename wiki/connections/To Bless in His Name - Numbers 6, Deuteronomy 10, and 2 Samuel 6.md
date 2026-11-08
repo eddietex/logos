@@ -11,7 +11,8 @@ tags: [connection]
 - [[The Eighth Day and the Appearing Glory]] — Leviticus 9:22–23.
 - Deuteronomy 10:8 — Levi set apart *"to minister to him, and to bless in his name, to this day."* *(WEB,
   bible-api.com; not yet ingested)*
-- Deuteronomy 21:5 — the priests chosen *"to minister to him, and to bless in Yahweh’s name."* *(same)*
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:5; the priests chosen *"to minister to him, and to bless in Yahweh’s
+  name"* (stored WEB).
 - 1 Chronicles 23:13 — Aaron and his sons *"to bless in his name, forever."* *(same)*
 - 2 Samuel 6:18 — David *"blessed the people in the name of Yahweh of Armies."* *(same)*
 - 1 Kings 8:55 — Solomon *"stood, and blessed all the assembly of Israel with a loud voice."* *(same)*

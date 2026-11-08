@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### "Whom you have redeemed" — Deuteronomy 21:8
+
+The elders ground their petition in redemption: *"your people Israel, whom you have redeemed"* (8),
+*ʾăšer pādîtā*, the identical form Moses used at Horeb, *"your people and your inheritance, that you have
+redeemed"* (9:26; WLC). A people Yahweh bought out of Egypt is asked not to be left with innocent blood
+in its midst.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9; 9:26.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The household answer begins with deliverance from Pharaoh’s slavery (21). Verse 23 joins being
@@ -358,6 +367,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:8; the *gōʾēl* as the one who receives the payment.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; redemption from Egypt as the ground of loyalty.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"Yahweh your God redeemed you"* (15) as the ground of the servant's release.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *"your people Israel, whom you have redeemed"* as the ground of the elders' prayer.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

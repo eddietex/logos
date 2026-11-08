@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### Kipper asked for the people — Deuteronomy 21:8
+
+The elders' prayer over the heifer is *kappēr lǝʿammǝkā yiśrāʾēl* — WEB *"Forgive, Yahweh, your people
+Israel"* — and the result is *wǝnikkappēr lāhem haddām*, *"The blood shall be forgiven them"* (WLC;
+WEB). It is one of only two passages in Deuteronomy with the verb (the other is 32:43; WLC lemma 3722).
+Three things are unusual. The *kipper* is asked of Yahweh, not performed by a priest. No blood is applied
+and no altar is used. And Numbers 35:33 has said that *"no atonement can be made for the land for the
+blood that is shed in it, but by the blood of him who shed it"*. Deuteronomy 21 is the case where that
+blood cannot be had; whether it is an exception to Numbers or a different object (*your people* rather
+than *the land*) is not settled by either text, and the wiki records both readings.
+
+See [[An Unsolved Killing and the Broken-Necked Heifer]]. Source: stored WEB Deuteronomy 21:1–9; Numbers 35:33; Deuteronomy 32:43.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Numbers 35:33 uses atonement in the WEB for the land polluted by shed blood and specifies the shedder’s blood as the remedy. No animal offering or payment is prescribed here. The high priest’s death releases the protected killer (25–28), but the passage does not explicitly call that death atonement; the two provisions should not be collapsed.
@@ -398,6 +411,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Offerings in the Land and Sins of Ignorance]] — Numbers 15:25, 28; atonement for error, and none named for the high hand
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11; *to make atonement for you*, and the sin offering of atonement presupposed
 - [[The War Against Midian]] — Numbers 31:1–54; the officers' gold *to make atonement for our souls*.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *kipper* asked of Yahweh for the people when the killer is unknown.
 
 ## Related themes
 

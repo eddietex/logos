@@ -60,6 +60,8 @@ open field. No geographical site is named; none is inferred for a place page.
 - [[Cleansing Beyond the Camp - Leviticus 14 and Numbers 19]]
 - [[The War Against Midian]] — Numbers 31:19–24, soldiers and captives purified on the third and
   seventh days, and metal purified with *the water for impurity*.
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; a different heifer (*ʿeglâ*, not *pārâ*), also unyoked, killed for
+  blood whose shedder is unknown; the *ḥālāl*, the slain man of 19:16, is its subject.
 
 ## Notes
 

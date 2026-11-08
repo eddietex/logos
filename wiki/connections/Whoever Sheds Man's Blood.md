@@ -23,6 +23,7 @@ tags: [connection]
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13.
 - **Deuteronomy 19:1–13; 21:1–9** — the same institutions restated, and the ritual for an unsolved
   killing
+- [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9.
 - **Matthew 26:52** — *"all those who take the sword will die by the sword"*
 - **Romans 13:4** — the magistrate who *"doesn't bear the sword in vain"*
 - **James 3:9** — cursing *"men who are made in the image of God"*
