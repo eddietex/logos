@@ -23333,7 +23333,7 @@ passage page and two connections:
 title *"the prophet"* in John 1:21, 25; 6:14; 7:40, the explicit applications in Acts 3:22–23 and 7:37,
 and *"Listen to him"* at the Transfiguration as an allusion; and
 [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]], which traces
-the nine practices of 18:10–11 by WLC lemma through Genesis–Numbers. Revised 31 existing pages
+the nine practices of 18:10–11 by WLC lemma through Genesis–Numbers. Revised 40 existing pages
 including this log: Deuteronomy (box checked, overview, Integrity and The Nations added as key themes)
 and `wiki/books/index.md`; two people (God, Moses); one place (Horeb); nine themes (Prophecy and Vision,
 Idolatry, Integrity, The Nations, Mediation and Advocacy, The Fear of God, Language and Speech, The Names
@@ -23342,7 +23342,7 @@ Child Sacrifice and the Redemption of the Firstborn, The Voice Out of the Fire, 
 Prohibitions and Penalties, A Prophet Who Prays); eight earlier passage pages (The Portion of the Priests
 and Levites, The People's Request for a Mediator, Do Not Follow Other Gods, The Law for the King, Judges,
 Worship, and Difficult Cases, Miriam and Aaron Against Moses, Holy Living in Field and Community,
-Penalties and a People Set Apart); and the people, places, themes, and two connections subindexes plus
+Penalties and a People Set Apart); and the people, places, and themes indexes, all five connections subindexes, and
 `wiki/index.md`. Deuteronomy is now 40 / 69. Counts by frontmatter type are 365 passages, 257 people, 222
 places, 87 themes, and 756 connections.
 
