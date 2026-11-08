@@ -184,7 +184,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   a private house at 20:5.
 - [[Edom and Sihon - Refused Passage and Different Outcomes]] — peace offered to a king outside the land.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the next pericope: the unsolved killing and the heifer.
-- Deuteronomy 21:10–14 *(stored, not yet ingested)* — the captive woman taken in war.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman taken in war.
 - Deuteronomy 24:5 *(stored, not yet ingested)* — *"When a man takes a new wife, he shall not go out in
   the army"*.
 - Deuteronomy 28:30, 52–53 *(stored, not yet ingested)* — the curse that undoes the exemptions, and the

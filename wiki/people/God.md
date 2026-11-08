@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Delivered into your hands, and accursed of God — Deuteronomy 21:10–23
+
+Yahweh *"delivers them into your hands"* (10), and the captive taken from that victory may not be sold
+(14). At the end of the pericope the hanged man is *"accursed of God"* (23), a phrase that can mean cursed
+by God or an affront to him; the land Yahweh gives must not be defiled by the body left overnight.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Asked to cover blood the court cannot reach — Deuteronomy 21:1–9
 
 The body lies *"in the land which Yahweh your God gives you"* (1). The priests are there because *"Yahweh your
@@ -4404,6 +4412,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; giver of the inheritance (14), before whom the parties stand (17).
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; with Israel in battle (1), fights for it (4), delivers the city (13), commands the *ḥērem* (17).
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; gives the land (1), chose the priests (5), asked to *kipper* for the people he redeemed (8).
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; delivers the enemy into Israel's hand, and the hanged man *"accursed of God"*.
 
 ## Related people
 

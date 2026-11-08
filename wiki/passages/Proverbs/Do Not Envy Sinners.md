@@ -179,6 +179,7 @@ and the God-fearer's end is a hope that will not be cut off.
 
 - [[Do Not Fret Because of Evildoers - Proverbs 23.17, 24.19, and Psalm 37.1]] — Proverbs 23:17–18; 24:1–2.
 - [[A Glutton and a Drunkard - Proverbs 23.20-21, Deuteronomy 21.20, and Matthew 11.19]] — Proverbs 23:20–21.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the rebellious son charged as *"a glutton and a drunkard"*.
 - [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]] — Proverbs 23:13–14.
 - [[The Vine and the Cup]] — Proverbs 23:29–35.
 - [[The Drunkenness of Noah and the Drunkenness of Lot]] — Proverbs 23:33–35, the drunkard who does not know what was done to him.

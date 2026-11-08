@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The parents' charge in the gate — Deuteronomy 21:18–21
+
+The father and mother do not punish the rebellious son themselves; they bring him *"to the elders of
+his city, and to the gate of his place"* (19) and state the charge (20). The elders hear it, and *"all
+the men of his city"* carry out the sentence (21).
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### A case with no defendant — Deuteronomy 21:1–9
 
 The elders and judges *"come out"* and *"measure"* (2), but there is no one to try. The two or three
@@ -1310,6 +1318,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; courts in every town; two or three witnesses; the hard case sent to the place.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:15–21; two or three witnesses for any sin (15); the false witness tried and given his own intended penalty (16–19).
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the elders and judges measure for a killing with no known killer.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the parents bring the rebellious son to the elders in the gate.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

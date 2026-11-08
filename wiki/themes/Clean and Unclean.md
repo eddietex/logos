@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A body that defiles the land — Deuteronomy 21:23
+
+A hanged body left overnight would *"defile your land which Yahweh your God gives you for an
+inheritance"* (23). The verb *ṭimmēʾ* is used of the land at Leviticus 18:25, 27–28 and Numbers 35:34
+as well (WLC). Here the defilement is not from contact but from exposure.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 Blood pollutes the inhabited land (33–34). This moral liability differs from the corpse-contact impurity treated by Numbers 19: homicide is not remedied here by washing or ash-water sprinkling.
@@ -626,6 +634,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The War Against Midian]] — Numbers 31:1–54; soldiers, captives, and spoil purified.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated for the people, without the edible insects.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the defective firstling eaten by clean and unclean alike (22).
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the body left on the tree would defile the land.
 
 ## Related themes
 

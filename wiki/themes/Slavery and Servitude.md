@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Not sold, not treated as a slave — Deuteronomy 21:14
+
+The dismissed captive wife goes *"where she desires"*: *"you shall not sell her at all for money. You
+shall not deal with her as a slave"* (14). The verb *titʿammēr* recurs in the Torah only at 24:7, the
+kidnapper who *"deals with him as a slave, or sells him"* (WLC). Compare Exodus 21:8, the slave wife who
+may not be sold *"to a foreign people"*.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Forced laborers — Deuteronomy 20:11
 
 A distant city that surrenders becomes *"forced laborers to you, and shall serve you"* (11). *Mas*, the
@@ -642,6 +651,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the six-year release of the Hebrew man and woman, with gifts; the ear pierced for the one who stays.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; servants at the feasts (11, 14), and *"remember that you were a slave in Egypt"* (12).
 - [[Laws for Going to War]] — Deuteronomy 20:11; the surrendered city's people become *"forced laborers"*.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:14; the dismissed captive wife may not be sold or treated as a slave.
 
 ## Related themes
 

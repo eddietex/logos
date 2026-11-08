@@ -99,6 +99,11 @@ which has something to say about ten of his sons, does not mention her at all.
   counts out the wives who are actually on the road** (46:26). **It is the last mention of her in
   Scripture, and it is a number**
 
+**In the law.** Deuteronomy 21:10–14 uses the verbs of Genesis 34 — *see*, *desire*, take *as a wife*,
+*humble* — for a soldier and a captive woman, and gives the captive what Dinah is never given in the
+narrative: a month to mourn, and freedom rather than sale if she is sent away. Neither text cites the
+other. See [[Took Her and Humbled Her - Genesis 34 and Deuteronomy 21.10-14]].
+
 ## Related people
 
 - [[Leah]] — her mother, whose seventh and last child she is

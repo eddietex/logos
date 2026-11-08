@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The double portion fixed in law — Deuteronomy 21:15–17
+
+The firstborn of the hated wife receives *"a double portion of all that he has; for he is the
+beginning of his strength. The right of the firstborn is his"* (17). The father may not *bikkēr*, *make
+firstborn*, the loved wife's son (16); he can only acknowledge the son who is. *Rēʾšît ʾônô* is Jacob's
+phrase for Reuben at Genesis 49:3, in the speech that takes his preeminence away (WLC).
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Egyptians bury their firstborn as Israel departs (4), recalling the final plague rather than discussing inheritance rights.
@@ -320,6 +329,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - [[The Lamps and the Levites Cleansed]] — Numbers 8:16–18; the claim repeated as the ground of the cleansing.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the firstborn eaten by the household, against Numbers 18:18's assignment to Aaron.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling unworked and unshorn, eaten by the household; the defective one eaten at home.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; the double portion, *"the beginning of his strength"*, and *"the right of the firstborn"*.
 
 ## Related themes
 

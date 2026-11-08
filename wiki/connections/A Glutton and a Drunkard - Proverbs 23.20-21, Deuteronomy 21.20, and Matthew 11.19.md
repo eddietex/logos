@@ -15,8 +15,7 @@ tags: [connection]
   voice of his father or the voice of his mother, and though they chasten him, will not listen to
   them; then his father and his mother shall take hold of him and bring him out to the elders of his
   city … They shall tell the elders of his city, 'This our son is stubborn and rebellious. He will not
-  obey our voice. He is a glutton and a drunkard.'"* (WEB verified at bible-api.com; Deuteronomy not
-  yet in `raw/`)
+  obey our voice. He is a glutton and a drunkard.'"* (stored WEB; [[Captives, Firstborn Sons, and Public Shame]])
 - **Matthew 11:19** — *"The Son of Man came eating and drinking, and they say, 'Behold, a gluttonous
   man and a drunkard, a friend of tax collectors and sinners!' But wisdom is justified by her
   children."* (WEB verified at bible-api.com)
@@ -37,8 +36,8 @@ drunkard and the glutton *"shall become poor"*. Deuteronomy addresses the parent
 when chastening has failed, and its sanction is the city's: the elders hear the case and the men
 of the city stone him. The two describe the same character at two stages — the son who might still
 listen, and the son who has stopped. Deuteronomy requires both parents to bring the charge and the
-elders to hear it, so the father alone does not hold the power of life and death; the law is
-discussed when Deuteronomy is ingested.
+elders to hear it, so the father alone does not hold the power of life and death. See
+[[Captives, Firstborn Sons, and Public Shame]].
 
 **The charge turned on Jesus.** Matthew 11:19 and Luke 7:34 report that Jesus's critics called him
 *"a gluttonous man and a drunkard"*. The Greek of those verses was not checked in this pass, and
@@ -56,3 +55,6 @@ pair of words, *glutton and drunkard*, carried the full weight of a son's reject
 
 Source: Proverbs quotations from the stored WEB; Deuteronomy 21:18–21, Matthew 11:19, and Luke
 7:34 verified at bible-api.com with `translation=web` on 2026-10-26; Hebrew as stated above.
+
+Deuteronomy 21:20's *zôlēl wǝsōbēʾ* was rechecked against WLC (morphhb) on 2026-11-08; in the Torah
+neither word occurs anywhere else (lemmas 2151, 5435).

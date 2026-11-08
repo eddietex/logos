@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The beloved and the hated wife in law — Deuteronomy 21:15–17
+
+The law names the wives *"the one beloved, and the other hated"* (15), the comparative idiom of Genesis
+29:30–31, and forbids the father to let that ranking decide the firstborn. Love may be unequal; the
+birthright may not follow it. See [[Loved and Hated - Genesis 29 and Deuteronomy 21.15-17]].
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Love and hatred — Deuteronomy 19:1–13
 
 The further cities depend on Israel's keeping the command *"to love Yahweh your God"* (9); the
@@ -706,6 +714,7 @@ Source: stored WEB Song 8:13–14.
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; love for Yahweh tested (13:3) and set above family and friend (13:6).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant who stays *"because he loves you and your house"* (16).
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; *"the one beloved, and the other hated"*, and the protected firstborn.
 
 ## Related themes
 

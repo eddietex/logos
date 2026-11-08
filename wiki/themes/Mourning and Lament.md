@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A month for her father and mother — Deuteronomy 21:13
+
+The captive shall *"bewail her father and her mother a full month"* (13) before she becomes a wife —
+the length of Israel's mourning for Aaron (Numbers 20:29) and for Moses (34:8). She shaves her head, but
+the verb is *gillaḥ*, not the *qorḥâ*, *baldness*, *"for the dead"* that 14:1 forbids (WLC); whether the
+shaving belongs to the mourning is not said.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Weeping follows the failed ascent in Deuteronomy 1:45, whereas Numbers 14:39 reports mourning before
@@ -319,6 +328,7 @@ treats it as a fault. Verse 39 will have them mourn again, after the sentence, t
 - [[The People Refuse the Land]] — Numbers 14:1; the night of weeping
 - [[The Defeat at Hormah]] — Numbers 14:39; great mourning, and no change of direction
 - [[A Holy People and Its Food]] — Deuteronomy 14:1; no cutting or baldness for the dead.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:13; the captive bewails her father and mother a full month.
 
 ## Related themes
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The son who will not listen — Deuteronomy 21:18–21
+
+The stubborn and rebellious son *"will not obey the voice of his father or the voice of his mother"*
+even when chastened (18). The law takes the sentence out of the father's hands: both parents bring him
+to the elders in the gate, and the town carries it out. The command to honour parents (5:16) here meets
+its limit case.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Obedience enlarges the refuge — Deuteronomy 19:1–13
 
 The three further cities depend on a condition: *"if you keep all this commandment to do it … to love
@@ -1522,6 +1531,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated, with differences from Leviticus 11.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the court's verdict as *tôrâ*, not to be turned from right or left.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king copies and reads *"this law"* all his life (18–19).
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the son who will not obey his father's or his mother's voice.
 
 ## Related themes
 

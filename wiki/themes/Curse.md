@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Accursed of God — Deuteronomy 21:23
+
+*"He who is hanged is accursed of God"* (23); the Hebrew *qilelat ʾĕlōhîm tālûy* can be read *cursed
+by God* or *an affront to God*, and the wiki adopts neither (WLC). The curse is the reason the body is
+taken down the same day. Galatians 3:13 quotes the verse of the crucifixion (WEB, bible-api.com). See
+[[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]].
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 The counter-word to [[Blessing]], and its exact structural opposite: where blessing is a
 performative word conferring the power to flourish, a curse is a performative word withdrawing it.
 Both are spoken by God in Genesis, and the first three blessings (1:22, 1:28, 2:3) all land before
@@ -255,6 +264,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the curse set before Israel for following other gods, to be set on Mount Ebal (26–29).
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; *"he who is hanged is accursed of God"*.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

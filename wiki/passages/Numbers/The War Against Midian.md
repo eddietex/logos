@@ -98,6 +98,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 
 ## Cross-references
 
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman's month of mourning, and no sale.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:16–18, the command to *harass the Midianites*
   that this chapter carries out.
 - [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]] — Balaam's part at Peor, named only
@@ -168,8 +169,8 @@ not the war itself (16). The girls are counted, 32,000, and divided like the res
 40, 46), and thirty-two are given as *Yahweh's tribute* to Eleazar (40–41); the text does not say what
 became of them. And Deuteronomy later regulates the taking of a captive woman as a wife: a month of
 mourning for *her father and her mother*, and if the man has no delight in her, *you shall let her go
-where she desires; but you shall not sell her at all for money* (Deuteronomy 21:10–14; WEB via
-bible-api.com, not yet ingested). Numbers 31 does not cite that law, and the wiki does not claim the
+where she desires; but you shall not sell her at all for money* (Deuteronomy 21:10–14; now ingested
+as [[Captives, Firstborn Sons, and Public Shame]]). Numbers 31 does not cite that law, and the wiki does not claim the
 Deuteronomy law governed these captives.
 
 **Purification after battle.** Killing and touching the slain make the soldier unclean, as touching a

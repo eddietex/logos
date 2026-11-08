@@ -553,7 +553,7 @@ two verses to say so.**
   40:15 left agentless *(not yet ingested)*
 - Exodus 21:16; Deuteronomy 24:7 — *gānab* of a person, made a capital crime
 - Exodus 30:12; Numbers 1:2 — *nāśāʾ rōʾš* as the census idiom of 40:20
-- Deuteronomy 21:22–23 — the body on the tree, and *"he who is hanged is accursed of God"*
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:22–23; the body on the tree, and *"he who is hanged is accursed of God"*
 - Deuteronomy 28:26; 1 Samuel 17:44–46; Jeremiah 7:33 — birds eating the unburied
 - 2 Kings 25:27–30; Jeremiah 52:31–34 — Jehoiachin's head lifted up out of prison, in the same idiom,
   in the last lines of the history

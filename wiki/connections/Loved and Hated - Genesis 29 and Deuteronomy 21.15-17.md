@@ -11,7 +11,7 @@ tags: [connection]
   with him yet seven other years"* — [[Jacob, Leah, and Rachel]]
 - **Genesis 29:31–33** — *"Yahweh saw that Leah was hated, and he opened her womb … 'Because Yahweh
   has heard that I am hated'"*
-- **Deuteronomy 21:15–17** — *"If a man has two wives, the one beloved, and the other hated, and they
+- **Deuteronomy 21:15–17** — [[Captives, Firstborn Sons, and Public Shame]] — *"If a man has two wives, the one beloved, and the other hated, and they
   have borne him children, both the beloved and the hated; and if the firstborn son is hers who was
   hated; then it shall be, in the day that he causes his sons to inherit that which he has, that he
   may not give the son of the beloved the rights of the firstborn before the son of the hated, who is
@@ -130,3 +130,12 @@ adopted here.
 own technical phrase in the verse before the transfer the law forbids.** ***Rēʾšît ʾônî***, *the
 beginning of my strength*, **is exactly what the law says the firstborn is and why his double portion
 cannot be moved**; **49:4 moves it.** **The wiki records the collision and adopts neither side.**
+
+### Deuteronomy 21 now ingested
+
+The law is now on the page at [[Captives, Firstborn Sons, and Public Shame]], and its Hebrew confirms two things this page relied on
+(WLC, morphhb). 21:15 names the wives *ʾăhûbâ* and *śǝnûʾâ*, and 21:17 calls the firstborn *rēʾšît ʾônô*,
+Jacob's *rēʾšît ʾônî* of Reuben at Genesis 49:3. It adds a third: the verb of 21:16, *bikkēr*, *to make
+firstborn*, occurs in the Torah only here and at Leviticus 27:26, so the law's point is that a father
+cannot make a firstborn, only acknowledge one (*yakkîr*, 21:17). The law's neighbour, 21:11, also uses
+Rachel's own phrase, *yǝpat-tōʾar*, *beautiful in form* (Genesis 29:17), of the captive woman.

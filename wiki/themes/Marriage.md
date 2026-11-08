@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A captive wife, and two wives ranked — Deuteronomy 21:10–17
+
+Two marriage laws stand side by side. The captive is made a wife only after a month (13), and if the
+husband has *"no delight in her"* he must let her go free, *"because you have humbled her"* (14). Then a
+man with *"two wives, the one beloved, and the other hated"* (15) may not let his preference move the
+firstborn's portion. Neither law forbids the arrangement it regulates.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Heiresses may choose a husband within their father's tribal family (6–8); the five sisters marry
@@ -649,6 +658,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[Vows of Men and Women]] — Numbers 30:6–16; a husband's power to confirm or void his wife's vow
 - [[The Law for the King]] — Deuteronomy 17:14–20; *"He shall not multiply wives to himself, that his heart not turn away"* (17).
 - [[Laws for Going to War]] — Deuteronomy 20:7; the betrothed man exempted from battle.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–17; the captive made a wife after a month, and the loved and hated wives.
 
 ## Related themes
 

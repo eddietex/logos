@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Bury him the same day — Deuteronomy 21:22–23
+
+The executed man's body may be hung on a tree, but *"shall not remain all night on the tree, but you
+shall surely bury him the same day"* (23). Even the condemned is owed burial. The word for his body,
+*nǝbēlâ*, is otherwise the Torah's word for a carcass (WLC).
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Aaron is explicitly buried at Moserah (6); no agent or procedure is named. Numbers 20:28 places his
@@ -163,6 +171,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 ## Key passages
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:22–23; the hanged body buried the same day.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

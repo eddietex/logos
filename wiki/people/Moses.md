@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Captives, firstborn sons, and the hanged man — Deuteronomy 21:10–23
+
+Moses gives four household and public laws: the captive woman's month of mourning and her release
+without sale, the hated wife's firstborn and his double portion, the stubborn and rebellious son brought
+to the elders, and the hanged body buried the same day. The rebellious son's *môreh* is the verb Moses
+uses of Israel's own rebellion (1:26; 9:7, 24; 31:27).
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### The law of the unsolved killing — Deuteronomy 21:1–9
 
 Moses gives the rite for a body found in the field with no known killer: the measuring, the heifer, the
@@ -2077,6 +2086,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; the landmark, two or three witnesses, and the false witness.
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered, *ḥērem*, and the fruit trees.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the heifer, the washing, and the prayer for the redeemed people.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; the captive wife, the firstborn's portion, the rebellious son, and the hanged man.
 
 ## Related people
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The captive taken in battle — Deuteronomy 21:10–14
+
+*"When you go out to battle … and you carry them away captive"* (10). The law of war in chapter 20
+let the women of a distant city be taken as plunder (20:14); this law limits what the captor may do
+with one of them. She mourns a month before any marriage, and if he dismisses her he may not sell her.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Divine advance and human action belong together: Yahweh brings the nations down and Israel drives them out (3). Explicit tension: 9:3 says they perish quickly, while 7:22 says removal is little by little. Decisive encounters within gradual occupation are a possible reading, not an explanation supplied by either verse.
@@ -582,6 +590,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; armed service *before Yahweh* as the price of land.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; an apostate Israelite town devoted to destruction (13:12–18).
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered to distant cities, *ḥērem*, and the fruit trees.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman taken in battle, a month's mourning, and no sale.
 
 ## Related themes
 

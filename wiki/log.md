@@ -23519,3 +23519,49 @@ checked against WLC from morphhb (openscriptures, GitHub) — Deuteronomy 9:26; 
 for 386, 2491, 5697, and 6202, and across Deuteronomy for 1197, 3722, 4058, 5061, 5355, 5647, 5923, 6299,
 7364, and 7379, retrieved 2026-11-08. The Hebrew of the Psalms and the Greek of Matthew 27 were not
 checked. Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-08] ingest | Deuteronomy 21.10-23 — Captives, Firstborn Sons, and Public Shame
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary. The plan's title,
+*Captives Firstborn Sons and Public Shame*, gained its commas and was otherwise kept. Created the passage
+page and one connection, [[Took Her and Humbled Her - Genesis 34 and Deuteronomy 21.10-14]], which sets
+Shechem's *saw*, *took*, *humbled*, and *ḥāšaq* beside the same verbs in the law of the captive woman.
+Revised 40 existing pages including this log: Deuteronomy (box checked, overview, plan count corrected
+from a stale 43 to 45, Birthright and the Firstborn, Curse, Burial and the Grave, and Mourning and Lament
+added as key themes) and `wiki/books/index.md`; four people (God, Moses, Dinah, Shechem (son of Hamor));
+thirteen themes (War, Marriage, Slavery and Servitude, Mourning and Lament, Love, Birthright and the
+Firstborn, Law and Obedience, Judgment, The Fear of God, Curse, Burial and the Grave, Clean and Unclean,
+Land and Sojourning); four connections (Loved and Hated, Hanged on a Tree, A Glutton and a Drunkard,
+Remove the Evil from Among You), each now linking the passage and the latter three dropping their *not
+yet ingested* wording; seven earlier passage pages (An Unsolved Killing and the Broken-Necked Heifer; Laws
+for Going to War; The War Against Midian; Dinah and the Massacre at Shechem; Jacob, Leah, and Rachel; The
+Cupbearer and the Baker; Do Not Envy Sinners), each turning a forward reference into a link or adding a
+cross-reference; the People A-E, F-M, and N-Z subindexes, the themes index, the Connections D-H, I-N,
+O-S, and T-Z subindexes, and `wiki/index.md`. Deuteronomy is now 45 / 69. Counts by frontmatter type are
+370 passages, 257 people, 222 places, 87 themes, and 762 connections.
+
+Correction: the themes index row for [[Curse]] had lost its closing table pipe; it was restored when the
+row was extended.
+
+Judgment calls: no pages for the captive woman, the two wives, the sons, the parents, the elders, or the
+hanged man; no place pages for the unnamed house, city, or gate. Recorded and not resolved: whether the
+captive consents to anything; whether her shaving and change of clothes are mourning, purification, or a
+sign of leaving her people; whether *"no delight"* means formal divorce; how the firstborn law bears on a
+firstborn who forfeits by conduct (Reuben); whether the rebellious-son law was ever carried out; whether
+*qilelat ʾĕlōhîm* means *cursed by God* or *an affront to God*; and the source of Paul's wording in
+Galatians 3:13. The Talmud's view that the rebellious-son law was never applied, and the identity of
+2 Kings 2:9's *double portion* with *pî šǝnayim*, are given from general knowledge and marked so at the
+point of the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 1:26, 31; 4:36; 7:7; 8:5; 9:7, 17, 24;
+10:15; 13:11; 14:1; 16:4; 17:13; 19:20; 20:14; 21:10–23; 22:18, 24, 29; 23:5; 24:7; 28:26; 31:27; 32:42;
+34:8; Genesis 29:17; 34:2, 4, 8; 39:12; 40:19, 22; 41:14; 49:3; Exodus 2:2; 21:8, 15, 17; Leviticus 18:25,
+28; 20:9; 27:26; Numbers 20:29; 31:18; 35:34. Galatians 3:13, John 19:31, Joshua 8:29; 10:26–27, 2 Kings
+2:9, 1 Chronicles 5:1–2, Acts 5:30, and Matthew 11:19 checked at bible-api.com (`translation=web`),
+2026-11-08; none of those books was fetched into raw/. Hebrew checked against WLC from morphhb
+(openscriptures, GitHub) — Deuteronomy 7:7; 10:15; 13:12; 14:1; 17:13; 19:20; 21:10–23; 24:7; 31:27;
+Genesis 29:17; 34:2, 8; 49:3 — with lemma searches across Genesis–Deuteronomy for 1062, 1069, 1548, 2151,
+2836, 2930, 3256, 3391, 3885, 5038, 5435, 5637, 6014, 6031, 7045, 7275, 7617, 7633, 8071, 8389, 8518, and
+8610, and across Deuteronomy for 4784 and 5619, retrieved 2026-11-08. The Hebrew of 2 Kings, Psalms,
+Jeremiah, and Proverbs and the Greek of the New Testament and the Septuagint were not checked. Raw files,
+canonical workflow instructions, and controller files were unchanged.

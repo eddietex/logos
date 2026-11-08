@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The inheritance kept clean — Deuteronomy 21:23
+
+The pericope ends where 21:1–9 began, with the land: the body on the tree must come down *"that you
+don't defile your land which Yahweh your God gives you for an inheritance"* (23).
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### A body in the given land — Deuteronomy 21:1–4
 
 The case opens *"in the land which Yahweh your God gives you to possess"* (1), and the liability is mapped
@@ -1088,6 +1095,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14; the neighbour's landmark *"which they of old time have set"*.
 - [[Laws for Going to War]] — Deuteronomy 20:5–6, 16, 19; the unenjoyed house and vineyard, the inheritance, and the fruit trees.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–4; a body found in the given land, and the unworked valley.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the land given for an inheritance kept undefiled.
 
 ## Related themes
 

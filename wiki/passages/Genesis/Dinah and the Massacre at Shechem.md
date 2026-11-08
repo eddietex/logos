@@ -409,6 +409,8 @@ chapters**, until 49:5–7. See [[Vengeance]] and [[Retribution]].
 - Psalm 105:12 — Jacob's *few in number* said back about the patriarchs as a whole.
 - Deuteronomy 22:28–29; Exodus 22:16–17 — the law's remedy, which is what Shechem offers:
   [[Laws of Holiness and Compassion]].
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:11, 14; the captive woman *seen*, *desired*, taken *as a wife*, and
+  *humbled*: Shechem's verbs. See [[Took Her and Humbled Her - Genesis 34 and Deuteronomy 21.10-14]].
 - 2 Samuel 13:1–39 — Amnon and Tamar: the same verb, the same formula, an avenging brother, and a
   silent father.
 - Judges 19–20 — the other *nĕbālâ* atrocity, and the only other case in the Hebrew Bible where the

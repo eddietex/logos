@@ -64,6 +64,10 @@ it.
   killed in 26 — and the narrator calls him *honored above all the house of his father* in the middle
   of it
 
+**In the law.** His verbs at Genesis 34:2, 8 — *saw*, *took*, *humbled*, and *ḥāšaq*, *longs for* —
+recur together in the Torah only in the law of the captive woman, Deuteronomy 21:11, 14 (WLC). See
+[[Took Her and Humbled Her - Genesis 34 and Deuteronomy 21.10-14]].
+
 ## Related people
 
 - [[Hamor]] — his father, who conducts the negotiation for him and dies with him

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### All Israel shall hear, and fear — Deuteronomy 21:21
+
+The rebellious son's stoning ends with the deterrence formula of 13:11, 17:13, and 19:20: *"All Israel
+shall hear, and fear"* (21). The fear named is of the sentence; the formula is about what a public
+judgment teaches the people.
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Source: stored WEB Deuteronomy 21:10–23.
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Walking in Yahweh’s ways and fearing him (6) answer the remembered discipline of a father (5).
@@ -758,6 +766,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *all the people shall hear, and fear* (17:13).
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king reads *"that he may learn to fear Yahweh his God"* (19).
 - [[A Prophet Like Moses]] — Deuteronomy 18:16, 22; fear of the fire, and *"you shall not be afraid of him"*.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:21; *"All Israel shall hear, and fear"*.
 
 ## Related themes
 

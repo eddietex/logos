@@ -172,8 +172,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   blessing to the priests.
 - [[Sinning Unwittingly - Integrity, Ignorance, and Guilt]] — a town clearing itself of blood it did not
   shed.
-- Deuteronomy 21:10–23 *(next pericope)* — the captive woman, the firstborn of the hated wife, the
-  rebellious son, and the hanged man.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; the next pericope: the captive woman, the firstborn of the hated wife,
+  the rebellious son, and the hanged man.
 - Deuteronomy 32:43 *(stored, not yet ingested)* — Yahweh *"will make atonement for his land and for his
   people"*; the only other *kipper* in Deuteronomy.
 - Psalm 26:6; 73:13 *(not yet ingested; WEB checked at bible-api.com)* — *"I will wash my hands in

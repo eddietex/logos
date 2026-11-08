@@ -607,7 +607,8 @@ the one Israel comes from.**
 - Exodus 2:15–21 — Moses at the well in Midian: the third instance of the type-scene, and the other
   one in which the man does the drawing.
 - Leviticus 18:18 — two sisters, *to be a rival*, forbidden while the first is alive.
-- Deuteronomy 21:15–17 — the loved wife, the hated wife, and the firstborn's double portion.
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; the loved wife, the hated wife, and the firstborn's double portion;
+  21:11's *yǝpat-tōʾar* is 29:17's phrase for Rachel.
 - Judges 14:12 — the seven-day bridal feast, the ***šābuaʿ*** of 29:27.
 - Ruth 4:11 — *"like Rachel and like Leah, which two built the house of Israel."*
 - Hosea 12:12 — the prophets' one direct notice of this chapter: *"Jacob fled into the country of

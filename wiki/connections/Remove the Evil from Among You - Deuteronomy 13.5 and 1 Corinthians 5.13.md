@@ -15,8 +15,9 @@ tags: [connection]
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:19; the false witness.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:9; *"So you shall put away the innocent blood from among you"*, the
   verb *bāʿar* (WLC *tǝbaʿēr*) with the object of 19:13, after a rite in which no one is put to death.
-- Deuteronomy 21:21, 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's
-  laws (stored WEB, not yet ingested).
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:21; the stubborn and rebellious son.
+- Deuteronomy 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's laws (stored WEB,
+  not yet ingested).
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
   yourselves.'"* (WEB, verified from bible-api.com).
 

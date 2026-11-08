@@ -11,7 +11,7 @@ tags: [connection]
 
 - [[The Cupbearer and the Baker]] — Genesis 40:19, 22: *"will hang you on a tree; and the birds will eat
   your flesh from off you"* — **the first occurrence in Scripture**
-- Deuteronomy 21:22–23 — the body taken down before nightfall, *"for he who is hanged is accursed of
+- [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:22–23; the body taken down before nightfall, *"for he who is hanged is accursed of
   God"*
 - Joshua 8:29 — the king of Ai, hanged on a tree and taken down at sunset
 - Joshua 10:26–27 — the five kings, hanged on five trees and taken down at sunset
@@ -112,3 +112,13 @@ not report completion of these commands. This must not become an asserted method
 execution or a narrated hanging of every chief.
 
 See [[Baal Peor and the Zeal of Phinehas]].
+
+### Deuteronomy 21 now ingested
+
+See [[Captives, Firstborn Sons, and Public Shame]]. Two points above are now checked against WLC (morphhb). The order of 21:22 is
+*wǝhûmāt wǝtālîtā ʾōtô ʿal-ʿēṣ*, *he is put to death, and you hang him on a tree* — death first, then
+display. And *tālâ* occurs in the Torah only at Genesis 40:19, 22; 41:13 and Deuteronomy 21:22–23 (lemma
+8518), so the thread's Torah links are complete. The body is called *nǝbēlâ*, otherwise the Torah's word
+for a carcass. Galatians 3:13's *"Cursed is everyone who hangs on a tree"* differs in English from the
+WEB of 21:23, *"accursed of God"*; the Greek of Galatians and of the Septuagint was not checked, so the
+source of Paul's wording is left open.

@@ -11,6 +11,15 @@ status: in-progress
 
 ## Overview
 
+[[Captives, Firstborn Sons, and Public Shame]] (21:10–23) sets four limits inside powers the law does not
+remove. A woman taken in war may become a wife only after she has *"bewail[ed] her father and her mother
+a full month"*, and if she is dismissed, *"you shall not sell her at all for money … because you have
+humbled her"*. A father may not let love for one wife move the firstborn's *"double portion"* from the
+hated wife's son, *"the beginning of his strength"*. Both parents bring the *"stubborn and rebellious"*
+son to the elders in the gate; the town stones him, and *"All Israel shall hear, and fear"*. A hanged body
+is buried the same day, *"for he who is hanged is accursed of God"*, which Galatians 3:13 applies to the
+cross.
+
 [[An Unsolved Killing and the Broken-Necked Heifer]] (21:1–9) takes the killing that chapter 19's courts cannot reach: a body
 in the field, and *"it isn't known who has struck him"*. The elders and judges measure to the nearest
 town, whose elders break the neck of an unworked heifer in a valley *"neither plowed nor sown"*, wash
@@ -251,7 +260,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **43 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **45 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -297,7 +306,7 @@ Plan drawn 2026-11-05 from the stored WEB. **43 / 69 pericopes ingested.**
 - [x] [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21
 - [x] [[Laws for Going to War]] — Deuteronomy 20:1–20
 - [x] [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9
-- [ ] Captives Firstborn Sons and Public Shame — Deuteronomy 21:10–23
+- [x] [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23
 - [ ] Care for the Neighbor and Ordered Distinctions — Deuteronomy 22:1–12
 - [ ] Marriage Accusations and Sexual Offenses — Deuteronomy 22:13–30
 - [ ] The Assembly and the Holy Camp — Deuteronomy 23:1–14
@@ -360,6 +369,10 @@ Plan drawn 2026-11-05 from the stored WEB. **43 / 69 pericopes ingested.**
 - [[Forgiveness]]
 - [[Guilt and Conscience]]
 - [[Redemption]]
+- [[Birthright and the Firstborn]]
+- [[Curse]]
+- [[Burial and the Grave]]
+- [[Mourning and Lament]]
 
 ## Key people
 - [[God]]
