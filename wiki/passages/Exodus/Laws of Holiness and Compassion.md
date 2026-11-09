@@ -190,6 +190,7 @@ but *"cast it to the dogs"* (22:31).
 - [[A Holy People and Its Food]] — Deuteronomy 14:21; the animal that dies of itself goes to the
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; lending to the poor brother commanded, and his cry to Yahweh against the one who refuses (15:9).
   foreigner, not to the dogs. See [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:28–29; the unpledged virgin seized, fifty shekels, and no divorce — compared on [[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]].
 
 ## Notes
 

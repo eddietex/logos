@@ -300,6 +300,18 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 infidelity. The Prophets will use the word in this figurative way. See
 [[The People Refuse the Land]].
 
+### Seven cases — Deuteronomy 22:13–30
+
+The bride found not to be a virgin is stoned *"because she has done folly in Israel, to play the
+prostitute in her father's house"* (21). Adultery with a married woman brings death on both (22). A pledged
+woman in the city is stoned with the man *"because she didn't cry"*; in the field only the man dies, *"for
+as when a man rises against his neighbor, and kills him, even so is this matter"* (24–26). The man who
+seizes an unpledged virgin pays and marries her (28–29). The father's wife is forbidden (30). Deuteronomy
+22:23–27 is the procedure this page's Development section reads Potiphar's wife's claim against; her *"I cried"*
+(Genesis 39:14) is *qārāʾ*, not the law's *ṣāʿaq* (WLC), so the link is in the situation, not the word.
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
@@ -367,6 +379,7 @@ infidelity. The Prophets will use the word in this figurative way. See
 - [[Do Not Envy Sinners]] — Proverbs 23:27–28; The prostitute as a deep pit, the foreign woman as a narrow well, lying in wait.
 - [[The Suspected Wife]] — Numbers 5:11–31; suspected adultery with no witness, and the other man absent.
 - [[The People Refuse the Land]] — Numbers 14:33; *zənût* of the refusal
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the bride's virginity, adultery, the pledged woman in city and field, the seized virgin, the father's wife.
 
 ## Related themes
 

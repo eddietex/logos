@@ -119,6 +119,18 @@ at 49:4 than to Ahithophel's calculation.
 immorality among you… that one has his father's wife"* (1 Corinthians 5:1) — the same phrase, the same
 offence, and a church told to act on it because *"even the Gentiles don't do this."*
 
+### Deuteronomy 22:30 now ingested
+
+*"A man shall not take his father's wife, and shall not uncover his father's skirt"* (22:30; WLC 23:1),
+in [[Marriage Accusations and Sexual Offenses]]. It is a prohibition with no penalty, unlike Leviticus 20:11's death. The *"skirt"* is
+*kǝnap ʾābîw* (WLC), the *corner* of the garment, where Leviticus 18:8 and 20:11 have *ʿerwâ*,
+*nakedness*; Deuteronomy 27:20 repeats *kǝnap ʾābîw* in the curse, WEB *"his father's bed"*. Deuteronomy's
+wording thus describes the act in terms of the father's garment and his bed, close to Jacob's *"you went
+up to your father's bed"* (Genesis 49:4).
+
+Source: stored WEB Genesis 49:4; Leviticus 18:8; 20:11; Deuteronomy 22:30; 27:20. Hebrew from WLC (morphhb),
+retrieved 2026-11-09.
+
 ## Significance
 
 - **The Bible's first firstborn to be disinherited loses it for an act the book will not explain**,

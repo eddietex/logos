@@ -427,6 +427,14 @@ not know the way to the city (15), as on the road of 10:3. See
 See [[Folly in High Places and Everyday Work]]. Source: stored WEB Ecclesiastes 10:5–20; comparison sources
 are identified on the passage and connection pages.
 
+### Folly in Israel — Deuteronomy 22:21
+
+*"She has done folly in Israel, to play the prostitute in her father's house"* (21). *Nǝbālâ* occurs in
+the Torah only here and at Genesis 34:7 (WLC lemma 5039); in Genesis the folly was the man's, and here it is
+the woman's. See [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]].
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; folly set in great dignity; the fool's words and wearying labor (10:6, 12–15).
@@ -511,6 +519,7 @@ are identified on the passage and connection pages.
 - [[The Field of the Sluggard]] — Proverbs 24:30; The vineyard of the man void of understanding.
 - [[Answer a Fool]] — Proverbs 26:1–12; Honour, errands, and proverbs wasted on the fool; the commands to answer and not answer him; the dog at its vomit; the man wise in his own eyes, worse than a fool.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:3, 12, 22; The fool's heavy provocation, the simple who pass on, the fool ground in a mortar.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21; *nǝbālâ*, the bride's *"folly in Israel"*.
 
 ## Related themes
 - [[Wisdom]] — its opposite, and the other path of the book of Proverbs

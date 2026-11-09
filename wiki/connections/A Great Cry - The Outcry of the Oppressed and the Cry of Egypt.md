@@ -75,6 +75,16 @@ supply a rescue that Ecclesiastes 4:1–3 itself narrates, and that observation 
 that God never hears. This is a thematic contrast, not a claim that Ecclesiastes uses the
 Hebrew cry vocabulary analyzed above. Sources: stored WEB texts at these references.
 
+### The pledged woman's cry — Deuteronomy 22:23–27
+
+[[Marriage Accusations and Sexual Offenses]] makes *ṣāʿaq* a matter of evidence. The pledged woman in the city is stoned *"because she
+didn't cry"* (22:24); the woman in the field is spared because *"the pledged to be married lady cried, and
+there was no one to save her"* (22:27) — *ṣāʿăqâ … wǝʾên môšîaʿ lāh* (WLC). The law presumes a cry in the
+field where no one could have heard it. Here the cry goes unanswered at the time, and the law's
+judgment answers it afterward. *"No one to save"* returns in the curses of 28:29, 31.
+
+Source: stored WEB Deuteronomy 22:23–27; 28:29, 31. Hebrew from WLC (morphhb), retrieved 2026-11-09.
+
 ## Significance
 
 - **It ties the plagues to the Sodom narrative** by the cry that comes up to God and the God who comes

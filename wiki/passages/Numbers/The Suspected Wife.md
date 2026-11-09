@@ -123,6 +123,7 @@ Source: stored WEB, `raw/bible/Numbers.md`. Complete unit:
 - [[The Young Man Void of Understanding]] — Proverbs 7:25, the same verb
 - Hebrews 13:4 — *God will judge the sexually immoral and adulterers* *(not yet ingested)*
 - Zechariah 5:3–4 — a curse that enters the house of him who swears falsely *(not yet ingested)*
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–22; a husband's charge tried before elders with evidence, and a false accuser punished.
 
 ## Notes
 

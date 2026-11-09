@@ -11,7 +11,7 @@ tags: [connection]
 - **Exodus 22:10–11** — [[Laws of Property and Restitution]]: *"no man seeing it; the oath of Yahweh shall be between them both"*.
 - **Deuteronomy 17:6** — [[Judges, Worship, and Difficult Cases]]: *"At the mouth of one witness he shall not be put to death."*
 - **Deuteronomy 19:15** — [[Landmarks, Witnesses, and False Testimony]]: *"At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established."*
-- **Deuteronomy 22:13–19** *(not yet ingested; WEB verified)* — the husband who gives his wife *"a bad name"*.
+- **Deuteronomy 22:13–19** — [[Marriage Accusations and Sexual Offenses]]: the husband who gives his wife *"a bad name"*.
 - **1 Kings 8:31–32** *(not yet ingested; WEB verified)* — an oath before the altar, and Yahweh asked to judge, *"condemning the wicked … and justifying the righteous"*.
 
 ## Analysis
@@ -54,6 +54,18 @@ Yahweh"*. But in 19:18 the judges investigate, and no oath or ordeal is describe
 [[Two or Three Witnesses - Deuteronomy 19.15, Matthew 18.16, and 2 Corinthians 13.1]].
 
 Source: stored WEB Deuteronomy 19:15–19; Numbers 5:16.
+
+### Deuteronomy 22:13–21 now ingested
+
+[[Marriage Accusations and Sexual Offenses]] gives the case its evidence and its procedure. The husband *"accuses her of shameful
+things"* — *ʿălîlōt dǝbārîm*, *deeds of words* (WLC) — and her father and mother answer him before *"the
+elders of the city in the gate"*, where *"They shall spread the cloth"* (22:15–17). If the charge is false he
+is chastised, fined a hundred shekels, and may never divorce her; if it is true, she is stoned (22:18–21).
+Unlike Numbers 5, the accusing husband here can be punished; unlike 19:19, the false accuser is not given
+what his charge would have done to her. The passage page records that second difference unresolved.
+
+Source: stored WEB Deuteronomy 19:19; 22:13–21; Numbers 5:31. Hebrew from WLC (morphhb), retrieved
+2026-11-09.
 
 ## Significance
 

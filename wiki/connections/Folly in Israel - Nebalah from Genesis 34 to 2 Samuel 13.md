@@ -9,7 +9,7 @@ tags: [connection]
 
 - Genesis 34:7 — *"he had done folly in Israel in lying with Jacob's daughter; a thing ought not to
   be done"*
-- Deuteronomy 22:21 — the unchaste bride, *"because she has done folly in Israel"*
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21; the unchaste bride, *"because she has done folly in Israel"*
 - Joshua 7:15 — Achan, *"because he has… done a disgraceful thing in Israel"*
 - Judges 19:23–24 — the old man at Gibeah, *"don't do this folly"*
 - Judges 20:6, 10 — the Levite and the assembly, *"they have committed lewdness and folly in
@@ -62,6 +62,17 @@ is the destruction of a town, and the wiki already tracks the chapter as a delib
 Sodom — see [[Gibeah and Sodom - Judges 19 as a Retelling]]. **Judges thus stands at the junction of
 both of Genesis's atrocity stories**, quoting Sodom's plot and Shechem's vocabulary in the same
 chapter.
+
+### Deuteronomy 22:21 now ingested
+
+In the Torah *nǝbālâ* occurs only at Genesis 34:7 and Deuteronomy 22:21 (WLC lemma 5039, morphhb,
+retrieved 2026-11-09). The law takes the narrative's phrase and moves it: in Genesis the *folly* is the
+man's act against Jacob's daughter; in Deuteronomy it is the daughter's, *"to play the prostitute in her
+father's house"*, and she is stoned *"to the door of her father's house"*. Of the seven entries in the
+table above, Deuteronomy 22:21 is the only one in which a woman is the one charged. See
+[[Marriage Accusations and Sexual Offenses]].
+
+Source: stored WEB Genesis 34:7; Deuteronomy 22:20–21.
 
 ## Significance
 

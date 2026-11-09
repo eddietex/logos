@@ -14,7 +14,7 @@ tags: [connection]
 - [[Captives, Firstborn Sons, and Public Shame]] — **Deuteronomy 21:11** — *"and see among the captives
   a beautiful woman, and you have a desire to her, and desire to take her as your wife"*
 - **Deuteronomy 21:14** — *"You shall not deal with her as a slave, because you have humbled her."*
-- Compare **Deuteronomy 22:29** *(stored, not yet ingested)* — *"She shall be his wife, because he has
+- Compare **Deuteronomy 22:29** — [[Marriage Accusations and Sexual Offenses]]: *"She shall be his wife, because he has
   humbled her. He may not put her away all his days."*
 - Compare **Deuteronomy 7:7; 10:15** — the same verb of desire used of Yahweh's choice of Israel and of
   the fathers
@@ -57,6 +57,18 @@ that condemns nothing aloud and in law that limits what the man may do afterward
 *"Yahweh didn't set his love on you … because you were more in number"* (7:7) and *"Yahweh had a delight
 in your fathers to love them"* (10:15). The text sets no boundary between the senses, and neither does
 this page; it records that the same verb is used of Shechem, of the soldier, and of God.
+
+### Deuteronomy 22:24, 29 now ingested
+
+*ʿInnâ* returns twice in [[Marriage Accusations and Sexual Offenses]]: the man who lies with a pledged woman in the city *"has humbled his
+neighbor's wife"* (22:24), and the man who seizes an unpledged virgin must marry her *"because he has
+humbled her"* (22:29). A lemma search of Deuteronomy (6031) finds the piel at 21:14; 22:24, 29, and also
+of Yahweh, who *"humbled you"* in the wilderness (8:2, 3, 16), and of the Egyptians who *"afflicted us"*
+(26:6) (WLC; stored WEB). In the law of 22:29 the verb grounds an obligation, as at 21:14: there the man
+may not sell the woman he humbled, here he may not send her away.
+
+Source: stored WEB Deuteronomy 8:2–3, 16; 21:14; 22:24, 29; 26:6. Hebrew from WLC (morphhb), retrieved
+2026-11-09.
 
 ## Significance
 

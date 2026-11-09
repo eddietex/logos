@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Accusations and sexual offenses — Deuteronomy 22:13–30
+
+Moses, unnamed in the passage, gives seven cases: the bride falsely or truly accused before the elders,
+adultery with a married woman, the pledged woman in the city and in the field, the unpledged virgin seized,
+and the father's wife. Yahweh is not named in the eighteen verses; the only reason given is *"So you shall
+remove the evil from among you"*.
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ### The brother's ox and the laws of two kinds — Deuteronomy 22:1–12
 
 Moses, unnamed in the passage, restates the Exodus law of the stray animal for *"your brother"*,
@@ -2097,6 +2106,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the heifer, the washing, and the prayer for the redeemed people.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; the captive wife, the firstborn's portion, the rebellious son, and the hanged man.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; the stray animal, the nest, the parapet, two kinds, and the fringes.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, the pledged woman, the seized virgin, and the father's wife.
 
 ## Related people
 

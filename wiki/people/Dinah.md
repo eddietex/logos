@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Folly in Israel and the law's remedy — Deuteronomy 22:21, 28–29
+
+Two phrases from Dinah's chapter reach the law. *"Folly in Israel"*, *nǝbālâ*, occurs in the Torah only at
+Genesis 34:7 and Deuteronomy 22:21 (WLC), where it is the bride's offence, not the man's. And the remedy
+Shechem offered — a bride-price and marriage (34:12) — is what 22:28–29 requires of the man who
+*"grabs"* an unpledged virgin, with no right of divorce; Exodus 22:17 adds the father's right to refuse.
+Dinah is not named. See [[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]].
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Genesis 34:7, 12; Exodus 22:17; Deuteronomy 22:21, 28–29.
+
 **Jacob's only named daughter, and the one birth in Genesis 29:31–30:24 with no gloss, no speech, and
 no reason given.**
 
@@ -103,6 +113,7 @@ which has something to say about ten of his sons, does not mention her at all.
 *humble* — for a soldier and a captive woman, and gives the captive what Dinah is never given in the
 narrative: a month to mourn, and freedom rather than sale if she is sent away. Neither text cites the
 other. See [[Took Her and Humbled Her - Genesis 34 and Deuteronomy 21.10-14]].
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21, 28–29; *nǝbālâ* and the remedy of payment and marriage, without her name.
 
 ## Related people
 

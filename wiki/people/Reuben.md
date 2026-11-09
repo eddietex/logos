@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The father's wife — Deuteronomy 22:30
+
+*"A man shall not take his father's wife, and shall not uncover his father's skirt."* Reuben is not named,
+but he is the one man in Genesis who did this, with Bilhah (Genesis 35:22), and lost the firstborn's place
+for it (49:4). Deuteronomy gives the prohibition without a penalty. See
+[[Lying with the Father's Concubine - A Claim on the Succession]].
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:30; Genesis 35:22; 49:4.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 The tribal ancestor appears in Dathan and Abiram's lineage (6). Their judgment is one of the deeds the assembly is told it has seen.
@@ -323,6 +332,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the south camp and sets out second.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:30–35; gives fourth, through Elizur.
 - [[The March from Sinai]] — Numbers 10:18; leads the second camp, under Elizur.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:30; the law against taking the father's wife, without his name.
 
 ## Related people
 

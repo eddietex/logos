@@ -917,6 +917,21 @@ and will, and they said their little ones would be prey (3) and those will enter
 punishment is measured at a year for a day (34). The men who brought the report die first, by plague
 (37). See [[The People Refuse the Land]].
 
+### The elders in the gate — Deuteronomy 22:13–30
+
+The bride's parents answer her husband's charge before *"the elders of the city in the gate"*, who
+*"chastise him"* and fine him if it is false (15–19); if it is true, *"the men of her city shall stone
+her"* (21). The pledged woman and the man are stoned *"at the gate of that city"* (24); in the field the law
+gives her the benefit of what no one saw (27).
+
+**A correction recorded, not overwritten.** The Judah and Tamar entry under Key passages on this page says *"the ordinary
+penalty for adultery is stoning (Deuteronomy 22:23–24)"*. Deuteronomy 22:23–24 is the case of a *pledged*
+woman; for a married woman, 22:22 says only that *"they shall both die"*, as Leviticus 20:10 does, and
+names no method. Stoning is named in Deuteronomy 22 for the bride (21) and the pledged woman (24). The
+earlier sentence stands with this qualification.
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; prior hatred decides between refuge and death (4, 6, 11); the elders act (12).
@@ -1319,6 +1334,7 @@ punishment is measured at a year for a day (34). The men who brought the report 
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:15–21; two or three witnesses for any sin (15); the false witness tried and given his own intended penalty (16–19).
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the elders and judges measure for a killing with no known killer.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the parents bring the rebellious son to the elders in the gate.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the elders try the bride's case, and stoning at the father's door and the city gate.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

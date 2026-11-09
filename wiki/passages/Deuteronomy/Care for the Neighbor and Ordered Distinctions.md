@@ -192,7 +192,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - Exodus 22:26–27 — the cloak taken in pledge, *"his only covering"*; the *kǝsût* of 22:12 (stored
   WEB; WLC).
 - Deuteronomy 32:11 *(stored, not yet ingested)* — *"As an eagle that stirs up her nest"*.
-- Deuteronomy 22:17 *(stored, not yet ingested)* — *"They shall spread the cloth before the elders"*.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the next pericope. *"They shall spread the cloth before the elders"*
+  (22:17), and *"his father's skirt"*, the *kānāp* of 22:12 (22:30).
 - Matthew 9:20; 14:36; 23:5 *(not yet ingested; WEB checked at bible-api.com)* — *"the fringe of his
   garment"*, and those who *"enlarge the fringes of their garments"*.
 - 2 Corinthians 6:14 *(not yet ingested; WEB checked at bible-api.com)* — *"Don't be unequally yoked

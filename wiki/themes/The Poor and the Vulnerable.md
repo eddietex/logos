@@ -461,6 +461,15 @@ treats a man (2); it adds no protection and no further burden.
 
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
+### No one to save her — Deuteronomy 22:25–27
+
+*"The pledged to be married lady cried, and there was no one to save her"* (27). The law spares the woman
+in the field because it presumes the cry no one heard, and it likens the act to a man who *"rises against
+his neighbor, and kills him"* (26). *ʾÊn môšîaʿ*, *no one to save*, comes back in the curses of 28:29, 31
+(WLC; stored WEB).
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
@@ -561,6 +570,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the Levite, foreigner, fatherless, and widow eat the third-year tithe.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released in the seventh year; *"the poor will never cease"* and the hand opened to them.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Levite, foreigner, fatherless, and widow rejoicing at the feasts (11, 14).
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:25–27; the pledged woman in the field, *"no one to save her"*.
 
 ## Related themes
 

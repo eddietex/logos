@@ -11,6 +11,15 @@ status: in-progress
 
 ## Overview
 
+[[Marriage Accusations and Sexual Offenses]] (22:13–30) gives seven cases about a woman's status. A husband who *"hates"* his
+bride and gives her *"a bad name"* is answered by her parents, who *"spread the cloth before the elders of
+the city"*; if he lied he is chastised, fined a hundred shekels, and *"may not put her away all his days"*,
+and if the charge is true she is stoned at her father's door, *"because she has done folly in Israel"*.
+Adultery brings death on both. A pledged woman in the city is stoned with the man *"because she didn't
+cry"*; in the field only the man dies, *"for as when a man rises against his neighbor, and kills him, even
+so is this matter"*. The man who seizes an unpledged virgin pays fifty shekels and marries her without
+right of divorce, and no man may take his father's wife. Yahweh is not named in the eighteen verses.
+
 [[Care for the Neighbor and Ordered Distinctions]] (22:1–12) gathers ten short laws. The Exodus law
 of the enemy's straying ox is restated for *"your brother"*, with the animal kept *"until your brother
 comes looking for it"* and a threefold *"you may not hide yourself"*. Men's and women's clothing are
@@ -269,7 +278,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **46 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **47 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -317,7 +326,7 @@ Plan drawn 2026-11-05 from the stored WEB. **46 / 69 pericopes ingested.**
 - [x] [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9
 - [x] [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23
 - [x] [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12
-- [ ] Marriage Accusations and Sexual Offenses — Deuteronomy 22:13–30
+- [x] [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30
 - [ ] The Assembly and the Holy Camp — Deuteronomy 23:1–14
 - [ ] Fugitives Interest Vows and a Neighbor's Produce — Deuteronomy 23:15–25
 - [ ] Divorce Remarriage and the Newlywed — Deuteronomy 24:1–5
@@ -387,6 +396,9 @@ Plan drawn 2026-11-05 from the stored WEB. **46 / 69 pericopes ingested.**
 - [[Life and Death]]
 - [[Blessing]]
 - [[Nakedness and Covering]]
+- [[Sexual Sin]]
+- [[Folly]]
+- [[Language and Speech]]
 
 ## Key people
 - [[God]]

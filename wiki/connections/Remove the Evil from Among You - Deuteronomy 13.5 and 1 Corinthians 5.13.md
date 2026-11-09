@@ -16,8 +16,9 @@ tags: [connection]
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:9; *"So you shall put away the innocent blood from among you"*, the
   verb *bāʿar* (WLC *tǝbaʿēr*) with the object of 19:13, after a rite in which no one is put to death.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:21; the stubborn and rebellious son.
-- Deuteronomy 22:21, 22:22, 22:24, 24:7 — the formula's later uses in Deuteronomy's laws (stored WEB,
-  not yet ingested).
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21, 22, 24; the bride found not to be a virgin, adultery, and the pledged
+  woman in the city.
+- Deuteronomy 24:7 — the kidnapper (stored WEB, not yet ingested).
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
   yourselves.'"* (WEB, verified from bible-api.com).
 
@@ -88,6 +89,20 @@ so the penalty depends on the charge he made, as the table above says. 19:20 the
 usual companion, *"Those who remain shall hear, and fear"*, as at 13:11 and 17:13. See [[Landmarks, Witnesses, and False Testimony]].
 
 Source: stored WEB Deuteronomy 13:11; 17:13; 19:19–20. Hebrew from WLC (morphhb), retrieved 2026-11-07.
+
+### Deuteronomy 22:21, 22, 24 now ingested
+
+[[Marriage Accusations and Sexual Offenses]] uses the formula three times in four verses. At 22:21 and 22:24 it is *ûbiʿartā hāraʿ
+miqqirbekā*, the 13:5 form; at 22:22 *ûbiʿartā hāraʿ miyyiśrāʾēl*, *"from Israel"* (WLC). Each closes a
+death sentence, and two of the three name stoning (22:21, 24).
+
+**Paul's case is the one the chapter leaves without the formula.** The offence of 1 Corinthians 5:1,
+*"that one has his father's wife"*, is the subject of Deuteronomy 22:30 (WLC 23:1), which forbids it but
+gives no penalty and no formula; Leviticus 20:11 gives death. The words Paul quotes stand three times in
+the verses just before it. This does not settle which verse Paul had in mind, and the page's earlier
+caution stands.
+
+Source: stored WEB Deuteronomy 22:21–30; Leviticus 20:11. Hebrew from WLC (morphhb), retrieved 2026-11-09.
 
 ## Significance
 

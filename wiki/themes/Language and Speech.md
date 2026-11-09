@@ -677,6 +677,16 @@ apart (21). Speech is the prophet's whole office, and its test is whether the wo
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### A bad name — Deuteronomy 22:13–19
+
+The husband *"accuses her of shameful things, and gives her a bad name"* (14) — *ʿălîlōt dǝbārîm*, *deeds
+of words*, and *šēm rāʿ*, *an evil name* (WLC). The father answers in direct speech before the elders,
+*"I gave my daughter to this man as his wife, and he hates her"* (16), and the fine is paid *"because he has
+given a bad name to a virgin of Israel"* (19). A false word about a woman is punished as an injury to her
+father's house.
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; teaching *"talking of them"* through the day, and writing them at the house's entrances (19–20).
@@ -1009,6 +1019,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
   sentence
 - [[Vows of Men and Women]] — Numbers 30:2, 6–8, 14; what proceeds out of the mouth, and silence as consent
 - [[A Prophet Like Moses]] — Deuteronomy 18:18–22; Yahweh's words in the prophet's mouth, and the presumptuous word.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–19; the husband's *"bad name"* and the father's answer.
 
 ## Related themes
 

@@ -10,7 +10,8 @@ tags: [connection]
 - Genesis 34:1–31 — Dinah, Shechem son of Hamor, and the massacre by Simeon and Levi
 - 2 Samuel 13:1–39 — Tamar, Amnon, and the killing of Amnon by Absalom
 - Deuteronomy 22:28–29; Exodus 22:16–17 — the law's remedy, offered in one case and refused in the
-  other — [[Laws of Holiness and Compassion]]
+  other — [[Marriage Accusations and Sexual Offenses]], [[Laws of Holiness and Compassion]], and
+  [[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]]
 - Genesis 49:5–7 — Jacob's verdict on his two sons
 - 2 Samuel 12:10–11 — Nathan's sentence on David's house, which 2 Samuel 13 is the first instalment
   of
@@ -68,6 +69,18 @@ brothers"* (34:25) in a household of four mothers; 2 Samuel specifies Absalom as
 a household of many wives. **The claim being asserted is a claim of the maternal sub-family, not of
 the father's house** — which is part of why both fathers experience it as an attack on their own
 authority.
+
+### Deuteronomy 22:28–29 now ingested
+
+The law the table calls *"the missing middle"* reads: the man who *"grabs"* an unpledged virgin pays her
+father fifty shekels, *"She shall be his wife, because he has humbled her. He may not put her away all his
+days"* (22:29). Its verb for the humbling, *ʿinnâ*, is the verb of Genesis 34:2 (WLC). Exodus 22:17 adds
+what Deuteronomy does not, that the father may *"utterly refuse"*. Jacob's sons, in effect, refused, and
+answered with the sword; the two laws are compared on
+[[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]]. Neither narrative cites either law.
+
+Source: stored WEB Genesis 34:2; Exodus 22:16–17; Deuteronomy 22:28–29. Hebrew from WLC (morphhb), retrieved
+2026-11-09.
 
 ## Significance
 

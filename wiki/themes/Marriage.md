@@ -434,6 +434,17 @@ shall lie with her"*. See
 
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
+### Accusation, betrothal, and no divorce — Deuteronomy 22:13–30
+
+A husband who *"hates"* his new wife and charges her falsely with not being a virgin is chastised, fined a
+hundred shekels paid to her father, and *"may not put her away all his days"* (19); the same words bind the
+man who seizes an unpledged virgin and must marry her (29). The pledged woman is already *"his neighbor's
+wife"* (24), so betrothal counts as marriage in the law of adultery. The married woman is *bǝʿulat baʿal*
+(22, WLC), the phrase of Genesis 20:3. And a man *"shall not take his father's wife"* (30). The power to
+send a wife away, which 24:1–4 will regulate, is here taken from two husbands as a penalty.
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
@@ -659,6 +670,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[The Law for the King]] — Deuteronomy 17:14–20; *"He shall not multiply wives to himself, that his heart not turn away"* (17).
 - [[Laws for Going to War]] — Deuteronomy 20:7; the betrothed man exempted from battle.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–17; the captive made a wife after a month, and the loved and hated wives.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, betrothal treated as marriage, and two marriages without divorce.
 
 ## Related themes
 

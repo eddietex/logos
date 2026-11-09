@@ -183,6 +183,14 @@ text does not say she was left naked or speak of shame, and the wiki does not su
 See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; Hebrew read from Sefaria's
 *Miqra according to the Masorah*.
 
+### The cloth and the father's skirt — Deuteronomy 22:17, 30
+
+The parents *"spread the cloth before the elders of the city"* (17), the *śimlâ* of 22:3, 5. And *"A man
+shall not take his father's wife, and shall not uncover his father's skirt"* (30): *kǝnap ʾābîw* (WLC
+23:1), the *corner* of the garment, where Leviticus 18:8 has *ʿerwâ*, *nakedness*.
+
+See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
+
 ## Key passages
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
@@ -255,6 +263,7 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
 - [[The Priestly Garments]] — Exodus 28:1–43; linen breeches for the priests, under threat of death.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The linen breeches required in chapter 28 are now made.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:5, 12; men's and women's clothing; fringes on the covering cloak.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:17, 30; the cloth spread before the elders; the father's skirt uncovered.
 
 ## Related themes
 

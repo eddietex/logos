@@ -19423,7 +19423,7 @@ link or ingestion issue; no schema or harness-compatibility change needed.
 
 Ingested [[The Meal Offering]], Leviticus 2:1–16, as the next unchanged queue unit.
 Created 2 pages: the passage and [[Gifts of the Ground - Cain and the Meal Offering]].
-Revised 32 existing pages including this log: the book, 7 people, 1 place, 8 themes,
+Revised 36 existing pages including this log: the book, 7 people, 1 place, 8 themes,
 2 connections, 3 earlier passages, and 9 indexes/dashboards. Leviticus is now 2 / 44;
 counts are 229 passages, 192 people, 104 places, 85 themes, and 541 connections.
 
@@ -22990,7 +22990,7 @@ Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary 
 the passage page and three connections:
 [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]],
 [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]], and
-[[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Revised 32 existing pages
+[[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Revised 36 existing pages
 including this log: Deuteronomy, two people (God, Moses), nine themes (Clean and Unclean,
 Holiness, Call and Election, Adoption, Mourning and Lament, Life and Death, Land and Sojourning,
 The Nations, Law and Obedience), three existing connections (A Young Goat in Its Mother's Milk, A
@@ -23603,3 +23603,48 @@ Genesis–Deuteronomy for 9, 667, 1000, 1434, 2790, 3610, 3682, 4327, 4395, 4624
 6942, 7064, 7257, 8162, and 8441, and across Deuteronomy for 748, 3190, and the plural forms of 1818.
 The Greek of the New Testament and the Septuagint and the Hebrew of Exodus 28 and 39 were not checked.
 Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-09] ingest | Deuteronomy 22.13-30 — Marriage Accusations and Sexual Offenses
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created the
+passage page and two connections, [[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]]
+and [[Not Willing to Make Her a Public Example - Deuteronomy 22.23-24 and Matthew 1.18-19]]. Revised 36
+existing pages including this log: Deuteronomy (box checked, overview, count, and Sexual Sin, Folly, and
+Language and Speech added as key themes) and `wiki/books/index.md`; three people (Moses, Reuben, Dinah);
+seven themes (Marriage, Sexual Sin, Judgment, Folly, Language and Speech, The Poor and the Vulnerable,
+Nakedness and Covering); eight connections (No Ransom for the Adulterer, Remove the Evil from Among You,
+Folly in Israel, Dinah and Tamar, Took Her and Humbled Her, No Witness Against Her, Lying with the
+Father's Concubine, A Great Cry), each given a section on the verses it had listed as not yet ingested;
+six earlier passage pages (Laws of Holiness and Compassion; Forbidden Unions and the Defiled Land;
+Penalties and a People Set Apart; Dinah and the Massacre at Shechem; The Suspected Wife; Care for the
+Neighbor and Ordered Distinctions), each given a cross-reference; the People A-E, F-M, and N-Z
+subindexes, the themes index, the Connections D-H, I-N, O-S, and T-Z subindexes, and `wiki/index.md`.
+Deuteronomy is now 47 / 69. Counts by frontmatter type are 372 passages, 257 people, 222 places, 87
+themes, and 766 connections.
+
+Contradiction flagged, not overwritten: [[Judgment]] said *"the ordinary penalty for adultery is stoning
+(Deuteronomy 22:23–24)"*; 22:23–24 concerns a pledged woman, and 22:22 (like Leviticus 20:10) names no
+method. The qualification is added on [[Judgment]] beside the original sentence and on the passage page.
+
+Judgment calls: 22:30 (WLC 23:1) kept in this pericope as planned. No pages for the husband, the bride,
+her parents, the elders, the men of the city, or the man who finds the woman; no place pages for the
+gate, the father's door, the city, or the field. No page for Joseph the husband of Mary or for Mary; they
+are named in the Matthew connection without links, to be created when Matthew is reached. Recorded and
+not resolved: why the false accuser is not given 19:19's penalty; what happens when there is no cloth;
+whether the city-and-field rule could be rebutted; whether 22:28 describes seizure or seduction, and
+whether Exodus 22:17's father's refusal applies; what method of death 22:22 intends; whether *"righteous"*
+in Matthew 1:19 explains or qualifies Joseph's mercy. That the defective spelling of *naʿărâ* is a
+feature of Torah orthography, that fifty shekels was the customary bride-price, and that Ruth 3:9 uses
+*kānāp* are given from general knowledge or inference and marked so at the point of the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 5:21; 8:2–3, 5, 16; 19:19; 20:7; 21:14,
+18–19; 22:3, 5, 12, 13–30; 24:1; 25:11; 26:6; 27:20; 28:29–31; Genesis 20:3; 34:2, 7, 12; 35:22; 39:12,
+14; 49:4; Exodus 21:22; 22:16–17; Leviticus 18:8, 20; 20:10–11; 21:13; Numbers 5:13, 31. Matthew 1:18–20,
+24–25, John 8:4–5, Ruth 3:9, and 1 Corinthians 5:1 checked at bible-api.com (`translation=web`),
+2026-11-09; none of those books was fetched into raw/. Hebrew checked against WLC from morphhb
+(openscriptures, GitHub), retrieved 2026-11-09 — Deuteronomy 5:21; 20:7; 21:19; 22:13–29; 23:1; 27:20;
+28:29–30; Genesis 20:3; 34:2–3, 7; 39:14–15; Exodus 22:15–16; Leviticus 18:8; 20:10–11; 21:13 — with lemma
+searches across Genesis–Deuteronomy for 781, 1166, 1330, 1331, 2388, 3256, 3467, 3671, 4119, 5039, 5291,
+5949, 6064, 6566, 6601, 6817, 7523, and 8610, and across Deuteronomy for 2181, 6031, and 7971. The Hebrew
+of Ruth and 2 Samuel and the Greek of the New Testament were not checked. Raw files, canonical workflow
+instructions, and controller files were unchanged.

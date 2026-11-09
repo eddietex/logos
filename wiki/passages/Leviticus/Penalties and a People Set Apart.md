@@ -78,6 +78,7 @@ A final provision prescribes stoning for a man or woman who is a medium or wizar
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:31 and 13:6–11; children burned by the nations, and
   another stoning law against enticement to other gods.
 - [[A Prophet Like Moses]] — Deuteronomy 18:10–11; the medium and wizard of 20:6, 27, among the arts Israel will not need. See [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]]
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:22, 30; death for both adulterers as at 20:10, and the father's wife forbidden without the penalty of 20:11.
 
 ## Notes
 

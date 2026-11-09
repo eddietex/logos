@@ -78,6 +78,7 @@ individual offenders face cutting off (24–30).
 - [[Defilement of Body and Land - Leviticus 15 and 18]]
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:31; the nations *"burn their sons and their
   daughters in the fire"*, without Molech's name.
+- [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:22–30; adultery and the father's wife (18:8, 20), with *kǝnap ʾābîw*, *his father's skirt*, for 18:8's *ʿerwâ*.
 
 ## Notes
 

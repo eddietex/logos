@@ -14,7 +14,7 @@ tags: [connection]
 - **Leviticus 20:10** *(not yet ingested; WEB verified)* — *"The man who commits adultery with another
   man's wife, even he who commits adultery with his neighbor's wife, the adulterer and the
   adulteress shall surely be put to death."*
-- **Deuteronomy 22:22** *(not yet ingested; WEB verified)* — *"If a man is found lying with a woman
+- **Deuteronomy 22:22** — [[Marriage Accusations and Sexual Offenses]]: *"If a man is found lying with a woman
   married to a husband, then they shall both die … So you shall remove the evil from Israel."*
 - **Exodus 20:14** — [[The Ten Commandments]]: *"You shall not commit adultery."*
 - **Exodus 21:30** — [[Laws of Violence and Injury]]: *"If a ransom is laid on him, then he shall give
@@ -88,6 +88,21 @@ with no witness and nobody caught. Proverbs imagines a husband who knows, and Nu
 does not. There the law takes the matter out of his hands, and no ransom is in view at all. See
 [[No Witness Against Her - Numbers 5, Exodus 22, and Deuteronomy 19]]. Source for this addition: stored
 WEB Numbers 5.
+
+### Deuteronomy 22:22 now ingested
+
+In [[Marriage Accusations and Sexual Offenses]] the law is one of seven cases about a woman's status, and the only one about a woman *"married
+to a husband"*: *bǝʿulat baʿal* (WLC), the phrase God uses of Sarah to Abimelech, *"she is a man's wife"*
+(Genesis 20:3). The case is put as discovery, *"If a man is found"*, and the sentence is death for both,
+with the formula *"So you shall remove the evil from Israel"*. Like Leviticus 20:10, 22:22 does not name
+the method; Deuteronomy names stoning in the neighbouring cases of the bride (22:21) and the pledged woman
+(22:24). The scribes' *"Moses commanded us to stone such women"* (John 8:5, WEB checked at bible-api.com)
+is recorded on the passage page with that gap noted. Neither text here mentions ransom; Proverbs' point
+that the husband *"won't regard any ransom"* still has no statute behind it in Deuteronomy, and the
+law's sentence leaves no place for one.
+
+Source: stored WEB Genesis 20:3; Leviticus 20:10; Deuteronomy 22:21–24. Hebrew from WLC (morphhb),
+retrieved 2026-11-09.
 
 ## Significance
 
