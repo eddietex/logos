@@ -569,6 +569,8 @@ comparison himself. See
   Holy Spirit
 - [[The Young Man Void of Understanding]] — Proverbs 7:10, 13; a wife in *"the attire of a prostitute"*, with a bold face
   where Tamar covered hers. See [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]].
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17–18 ingested. In the Torah *qǝdēšâ* occurs only at 38:21–22 and
+  Deuteronomy 23:17 (WLC 23:18, morphhb), and 23:18 uses *zônâ* for the prostitute's hire.
 
 ## Notes
 

@@ -15,10 +15,8 @@ tags: [connection]
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - **Deuteronomy 23:21–22** — *"When you vow a vow to Yahweh your God, you shall not be slack to pay
   it; for Yahweh your God will surely require it of you; and it would be sin in you. But if you
-  refrain from making a vow, it shall be no sin in you."* *(WEB verified at bible-api.com,
-  2026-10-27; not yet ingested)*
+  refrain from making a vow, it shall be no sin in you."* — [[Fugitives, Interest, Vows, and a Neighbor's Produce]]
 - **Deuteronomy 23:23** — *"You shall observe and do that which has gone out of your lips."*
-  *(same source)*
 - [[Vows of Men and Women]] — Numbers 30:2, *"he shall not break his word. He shall do according to all
   that proceeds out of his mouth."* *(stored WEB)*
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:2–13, what a vow costs; it does not call a vow
@@ -71,6 +69,22 @@ gone out of your lips* says the same in the WEB's English. Numbers 30 then adds 
 Ecclesiastes says: a woman's vow under a father or husband can be voided on the day he hears it (30:3–15). See
 [[Vows of Men and Women]].
 
+### Deuteronomy 23 in context
+
+Now ingested, Deuteronomy 23:21–23 can be read in its setting. Its stored WEB matches the text quoted
+above from bible-api.com. Two verses earlier, 23:18 forbids paying a vow at Yahweh's house with *"the
+hire of a prostitute, or the wages of a male prostitute"*. The law governs what a vow is paid with as
+well as when. In the Hebrew, *"that which has gone out of your lips"* is *môṣāʾ śǝpātêkā* (WLC 23:24).
+Numbers 30:13 (WEB 30:12) uses the same construct of a woman's vows, *môṣāʾ śǝpātêhā*. Numbers 30:3
+(WEB 30:2) instead has the participle, *hayyōṣēʾ mippîw*. Deuteronomy 8:3 uses the same noun of
+*"every word that proceeds out of Yahweh's mouth"* (WLC, morphhb). The earlier claim on this page that
+Numbers 30:2 and Deuteronomy 23:23 "say the same in the WEB's English" stands. In Hebrew, the closer
+match is Numbers 30:13. *"Will surely require it"* (21) is *dāraš*, the verb of 18:19's *"I will
+require it of him"*.
+
+See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 8:3; 18:19; 23:18, 21–23; Numbers 30:2, 12; Hebrew from WLC
+(morphhb).
+
 ## Significance
 
 Vows in Scripture are never required and never casual. Law, narrative, and wisdom agree that the
@@ -80,7 +94,7 @@ freedom lies entirely before the vow is made; after it, the speaker's own words 
 the opening line of a seduction.
 
 **Sources.** Genesis 28:20–22; 35:1, 3; Job 22:27; Proverbs 20:25; and Ecclesiastes 5:2–6 quoted
-from stored WEB. Deuteronomy 23:21–23 verified in the WEB at bible-api.com on 2026-10-27, not
-stored. Judges 11 and 1 Samuel 14 cited by reference only. No Hebrew claim is made on this page
+from stored WEB. Deuteronomy 23:21–23 verified in the WEB at bible-api.com on 2026-10-27, and
+since stored in `raw/` and ingested. Judges 11 and 1 Samuel 14 cited by reference only. No Hebrew claim is made on this page
 beyond the cognate phrase, which is visible in the WEB's *vow a vow*; the Hebrew of Ecclesiastes
 5:4–6 is discussed on [[Let Your Words Be Few]].

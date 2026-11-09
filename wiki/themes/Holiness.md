@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The word for holy, misused — Deuteronomy 23:17
+
+Three verses after *"your camp shall be holy"* (*qādôš*, 23:14), Deuteronomy forbids the *qǝdēšâ* and
+the *qādēš* (17), nouns from the same root (WLC 23:15, 18; morphhb). Whatever office they named, the
+law refuses Israel a holiness of that kind. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### The holy camp — Deuteronomy 23:9–14
 
 *"Therefore your camp shall be holy, that he may not see an unclean thing in you, and turn away from
@@ -914,6 +920,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated, and the defective one made common.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–12; two kinds of seed make the vineyard's yield *become holy* (9); the fringes.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; *"your camp shall be holy"*.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17; the *qǝdēšâ* and *qādēš* forbidden.
 
 ## Related themes
 

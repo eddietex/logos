@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Deuteronomy 23:21–23 ingested
+
+The law this page has cited ahead of its ingest is now in place. *"When you vow a vow to Yahweh your
+God, you shall not be slack to pay it … But if you refrain from making a vow, it shall be no sin in
+you"* (21–22). Its last clause, *"that which has gone out of your lips"* (23), uses *môṣāʾ śǝpātêkā*,
+the construct Numbers 30:13 (WEB 30:12) uses of a woman's vows, and the noun of Deuteronomy 8:3's
+*"every word that proceeds out of Yahweh's mouth"* (WLC, morphhb). Verse 18 adds that a vow may not be
+paid with a prostitute's hire. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]] and
+[[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 Yahweh’s oath to the fathers gives the promise its continuity (10, 18, 23); Israel must swear by his
@@ -608,6 +618,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:39; the public calendar *besides your vows*
 - [[Vows of Men and Women]] — Numbers 30:1–16; a man's vow binds, a woman's may be voided by father or husband
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; Yahweh's oath recalled, and a promise held like a vow (10–11, 24).
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:18, 21–23; the vow optional, its payment not.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

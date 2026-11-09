@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The nokrî and interest — Deuteronomy 23:20
+
+*"You may lend on interest to a foreigner"*. The word is *nokrî* (WLC 23:21, morphhb), the foreigner
+of 14:21, 15:3, and 17:15, not the resident *gēr* whom Deuteronomy protects. The verse gives no reason
+for the permission beyond the contrast with the brother. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Who may enter the assembly — Deuteronomy 23:3–8
 
 Four nations, sorted by their history with Israel. The Ammonite and the Moabite are excluded from
@@ -656,6 +662,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[Laws for Going to War]] — Deuteronomy 20:10–18; distant cities and the cities of the six peoples.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–8; Ammon and Moab excluded, Edom and Egypt
   admitted in the third generation.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; interest permitted from the *nokrî*.
 
 ## Related themes
 

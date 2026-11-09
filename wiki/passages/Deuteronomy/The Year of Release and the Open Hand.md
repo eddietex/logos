@@ -94,8 +94,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the Hebrew servant released in the
   seventh year, with the same promise of blessing on the giver. See
   [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
-- Deuteronomy 23:19–20 — no interest from a brother, interest allowed from a foreigner; not yet
-  ingested.
+- Deuteronomy 23:19–20 — no interest from a brother, interest allowed from a foreigner; now ingested,
+  see the last entry in this list.
 - Deuteronomy 24:15 — the day-labourer's wages, *"lest he cry against you to Yahweh, and it be sin
   to you"*; not yet ingested.
 - Deuteronomy 28:12, 44 — lending to many nations as blessing, and its reversal as curse; not yet
@@ -105,6 +105,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   [[The Poor Will Never Cease - Deuteronomy 15 and the Poor Always with You]].
 - Acts 4:34 — *"neither was there among them any who lacked"*. See
   [[The Poor Will Never Cease - Deuteronomy 15 and the Poor Always with You]].
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:19–20; the *nokrî* and the brother drawn apart again, for interest.
 
 ## Notes
 

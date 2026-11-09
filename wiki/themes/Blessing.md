@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessing for the forgone profit — Deuteronomy 23:20
+
+The lender who takes no interest from a brother does so *"that Yahweh your God may bless you in all that
+you put your hand to"* — the phrase of 12:7, 18 and 15:10 (*mišlaḥ yādekā*, WLC, morphhb). The blessing
+is offered in place of the profit given up. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### A curse turned into a blessing — Deuteronomy 23:5
 
 *"Yahweh your God turned the curse into a blessing to you, because Yahweh your God loved you"* (5). The
@@ -764,6 +770,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; blessing as the measure of the festival gift (10, 17) and the ground of joy (15).
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:7; the mother bird let go, *"that it may be well with you"*.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; the curse turned into a blessing.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; blessing on the one who lends without interest.
 
 ## Related themes
 

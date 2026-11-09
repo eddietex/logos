@@ -95,6 +95,8 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
   house.
 - [[The Suspected Wife]] — Numbers 5:11–31, an oath a husband brings on his wife; here, a vow he may
   cancel.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:21–23; *môṣāʾ śǝpātêkā*, the construct of 30:13 (WEB 30:12), with a
+  masculine suffix (WLC, morphhb).
 
 ## Notes
 

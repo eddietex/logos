@@ -19,7 +19,7 @@ tags: [connection]
   but fear your God; that your brother may live among you. You shall not lend him your money at
   interest, nor give him your food for profit."* — [[The Poor Brother and Redemption from Service]]
 - **Deuteronomy 23:19–20** — *"You shall not lend on interest to your brother … You may lend on
-  interest to a foreigner; but to your brother you shall not lend on interest"* *(not yet ingested)*
+  interest to a foreigner; but to your brother you shall not lend on interest"* — [[Fugitives, Interest, Vows, and a Neighbor's Produce]]
 - **Psalm 15:5** — the one who may dwell on God's hill is *"he who doesn't lend out his money for
   usury"* *(not yet ingested)*
 - **Ezekiel 18:8** — the righteous man *"hasn't lent to them with interest, hasn't taken any
@@ -60,7 +60,11 @@ portrait of the righteous man. **Nehemiah 5:7 shows it broken** after the return
 against their own brothers.
 
 **The noun *nešek* is often connected with a verb *to bite*** — interest as what bites the borrower.
-That derivation is a common one; it was not checked against a lexicon in this pass.
+That derivation is a common one; it was not checked against a lexicon in this pass. **The morphhb
+tagging of the WLC, checked when Deuteronomy 23 was ingested, files the verb of interest (*nāšak*,
+lemma 5391 b: Deuteronomy 23:19–20, WLC 23:20–21) under a separate lemma from *nāšak*, *to bite*
+(5391 a: Genesis 49:17; Numbers 21:6, 8, 9).** That edition, then, treats them as homonyms. This does
+not disprove the derivation, but the wiki does not rely on it.
 
 ### Leviticus 25 in context
 
@@ -112,6 +116,17 @@ alter Exodus’s command. No equivalence or distinction between the Hebrew terms
 
 See [[The Wicked Flee When No One Pursues]]. Source: stored WEB Proverbs 28; comparisons with
 Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
+
+### Deuteronomy 23 in context
+
+Deuteronomy 23:19–20 is now ingested. Two things in the table are confirmed by the text. The brother
+is not called poor. *"Interest of money, interest of food, interest of anything that is lent on
+interest"* (19) uses *nešek* three times. Deuteronomy does not use Leviticus's *tarbît*/*marbît* (WLC 23:20,
+morphhb). The foreigner is the *nokrî* of 15:3 (WLC 23:21), not the *gēr*, so the exception does not
+reach the resident alien whom 10:19 commands Israel to love. The promise, *"that Yahweh your God may
+bless you in all that you put your hand to"* (20), is the formula of 12:7, 18 and 15:10.
+
+See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 10:19; 15:3; 23:19–20; Hebrew from WLC (morphhb).
 
 ## Significance
 

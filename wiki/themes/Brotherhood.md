@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The brother and the foreigner at the loan — Deuteronomy 23:19–20
+
+*"You may lend on interest to a foreigner; but to your brother you shall not lend on interest"* (20).
+As in 15:3, the brother is set against the *nokrî*, not the *gēr* (WLC, morphhb). Brotherhood is
+the boundary of the interest-free loan. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### The Edomite your brother — Deuteronomy 23:7
 
 *"You shall not abhor an Edomite; for he is your brother"* (7). Kinship outweighs Edom's refusal of
@@ -435,6 +441,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Laws for Going to War]] — Deuteronomy 20:8; the fearful man sent home *"lest his brother's heart melt"*.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–4; the brother's straying ox, lost garment, and fallen donkey.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"he is your brother"*.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:19–20; no interest from a brother.
 
 ## Related themes
 

@@ -149,6 +149,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   day after the Passover"*. See the note *By night* below.
 - 2 Chronicles 35:1–19 — Josiah's Passover at Jerusalem; not yet ingested, and not quoted here.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the next pericope, which makes the chosen place the court for hard cases.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:25; the other *ḥermēš*, the sickle not moved into a neighbor's grain.
 
 ## Notes
 

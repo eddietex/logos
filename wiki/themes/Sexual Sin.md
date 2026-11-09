@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The qǝdēšâ, the qādēš, and the prostitute's hire — Deuteronomy 23:17–18
+
+*"There shall be no prostitute of the daughters of Israel, neither shall there be a sodomite of the
+sons of Israel"* (17). WEB's two words translate *qǝdēšâ* and *qādēš*, from the root *qdš*, *holy* —
+the word Hirah used of Tamar (Genesis 38:21–22) and, in the Torah, nowhere else (WLC, morphhb). Whether
+they denote cultic prostitution or another class of sanctuary personnel is disputed and not settled
+here. Verse 18 then uses the ordinary *zônâ*: *"the hire of a prostitute, or the wages of a male
+prostitute"* — literally *the price of a dog* — may not pay a vow at Yahweh's house, *"for both of these
+are an abomination to Yahweh your God"*. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Baal Peor — Numbers 25:1–18
 
 Sexual misconduct with Moabite women is joined to participation in their sacrifices (1–3). Zimri
@@ -380,6 +390,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[The Suspected Wife]] — Numbers 5:11–31; suspected adultery with no witness, and the other man absent.
 - [[The People Refuse the Land]] — Numbers 14:33; *zənût* of the refusal
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the bride's virginity, adultery, the pledged woman in city and field, the seized virgin, the father's wife.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17–18; no *qǝdēšâ* or *qādēš*, and no prostitute's hire for a vow.
 
 ## Related themes
 

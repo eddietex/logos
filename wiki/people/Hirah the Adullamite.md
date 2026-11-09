@@ -58,6 +58,7 @@ first**, so the qualifier is the text's own.
 - [[Judah and Tamar]] — Genesis 38:1, 12, 20–23; **the friend, the errand, and the wrong word.** He is
   the reason Judah is in Canaanite country at all, and the man who has to go back and ask a town about
   a woman who was not there
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — not named; Deuteronomy 23:17 forbids the *qǝdēšâ* he went looking for, the only other Torah use of the word.
 
 ## Related people
 

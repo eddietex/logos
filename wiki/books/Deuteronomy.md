@@ -11,6 +11,14 @@ status: in-progress
 
 ## Overview
 
+[[Fugitives, Interest, Vows, and a Neighbor's Produce]] (23:15–25) gives five short laws. A slave who has
+escaped to Israel is not handed back, and he *"shall dwell with you … in the place which he shall
+choose"*: Deuteronomy's formula for Yahweh's chosen place, used this once with another chooser. No
+*qǝdēšâ* or *qādēš* is to be found in Israel, and a prostitute's hire may not pay a vow. No interest
+is taken from a brother, though it may be from a *nokrî*. A vow is optional, but once spoken it must
+be paid. A passer-by may eat a neighbor's grapes and grain by hand but carry nothing off. Whether the
+runaway law covers an Israelite's own slave is recorded as unsettled.
+
 [[The Assembly and the Holy Camp]] (23:1–14) draws two boundaries around a gathering where Yahweh is
 present. No man *"emasculated by crushing or cutting"*, no *mamzēr*, and no Ammonite or Moabite *"even
 to the tenth generation"* may *"enter into Yahweh's assembly"* — the last because they *"didn't meet you
@@ -287,7 +295,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **48 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **49 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -337,7 +345,7 @@ Plan drawn 2026-11-05 from the stored WEB. **48 / 69 pericopes ingested.**
 - [x] [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12
 - [x] [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30
 - [x] [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14
-- [ ] Fugitives Interest Vows and a Neighbor's Produce — Deuteronomy 23:15–25
+- [x] [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25
 - [ ] Divorce Remarriage and the Newlywed — Deuteronomy 24:1–5
 - [ ] Pledges Wages Justice and Gleaning — Deuteronomy 24:6–22
 - [ ] Justice Family Duty Honest Weights and Amalek — Deuteronomy 25:1–19
@@ -410,6 +418,9 @@ Plan drawn 2026-11-05 from the stored WEB. **48 / 69 pericopes ingested.**
 - [[Language and Speech]]
 - [[Hospitality]]
 - [[Walking with God]]
+- [[Oaths and Vows]]
+- [[Wealth and Possessions]]
+- [[Sin]]
 
 ## Key people
 - [[God]]

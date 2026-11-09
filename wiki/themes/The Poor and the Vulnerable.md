@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fugitive and the borrower — Deuteronomy 23:15–20
+
+The runaway slave is not handed back and *"You shall not oppress him"* (16). The brother is lent to
+without interest (19–20). Unlike Exodus 22:25 and Leviticus 25:35, Deuteronomy does not say the
+brother is poor. The vineyard and grain law (24–25) names no poor beneficiary at all; it is written for
+anyone passing through. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Judges appointed — Deuteronomy 1:9–18
 
 The judges hear cases between a man and his brother *and the foreigner who is living with him* (16), and *the small and the great alike* (17). The weaker party is protected by an equal hearing, not by favor — compare Exodus 23:3 and Leviticus 19:15.
@@ -571,6 +578,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released in the seventh year; *"the poor will never cease"* and the hand opened to them.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Levite, foreigner, fatherless, and widow rejoicing at the feasts (11, 14).
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:25–27; the pledged woman in the field, *"no one to save her"*.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–20; the fugitive protected, the brother lent to freely.
 
 ## Related themes
 

@@ -123,7 +123,10 @@ Genesis makes nothing of it, and neither does Exodus.
   is *we were slaves and God brought us out*, and the humane laws are grounded in it (Deuteronomy
   15:15; 24:18). Genesis has already recorded the founding household on the other side of the
   transaction, without comment, and Deuteronomy 23:15–16 — which forbids returning a runaway slave —
-  is the Torah eventually legislating against what Genesis 16:9 commands.
+  is the Torah eventually legislating against what Genesis 16:9 commands. *(Qualified on ingest of
+  [[Fugitives, Interest, Vows, and a Neighbor's Produce]]: the law does not say whose slave it means, and *"escaped from his master to you"* most naturally
+  describes a slave arriving from outside Israel. On that reading the contrast with Hagar is less
+  direct. Both readings are recorded on [[Slavery and Servitude]].)*
 - **It is why the word *ʿŏnî* in Ishmael's naming matters.** *"Yahweh has heard your affliction"*
   (16:11) uses the noun that Exodus 3:7 will use of Israel in Egypt. The boy's name is a permanent
   record that God heard a slave's affliction four hundred years before he heard a nation's.

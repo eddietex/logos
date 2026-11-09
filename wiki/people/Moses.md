@@ -2109,6 +2109,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, the pledged woman, the seized virgin, and the father's wife.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14; the speaker, setting who may enter
   *"Yahweh's assembly"* and how the war camp is kept holy.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25; the runaway slave, the *qǝdēšâ*, interest, vows, and the neighbor's field.
 
 ## Related people
 

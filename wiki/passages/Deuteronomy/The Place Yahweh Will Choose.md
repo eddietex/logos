@@ -135,6 +135,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   rejoicing of 12:12, 18 widened to the foreigner, the fatherless, and the widow.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8; the Levite *"within your gates"* (12:12, 18) may come to the
   place and serve and eat with his brothers.
+- [[Where It Pleases Him Best - The Runaway Slave and the Place Yahweh Chooses]] — Deuteronomy 23:16;
+  the only *yibḥar* in Deuteronomy whose subject is not Yahweh.
 
 ## Notes
 

@@ -17,6 +17,10 @@ tags: [connection]
   with the attire of a prostitute, and with crafty intent … So she caught him, and kissed him. With
   an impudent face she said to him"* (*šîṯ zônâ ûnəṣurat lēḇ … hēʿēzâ p̄ānêhā*)
 
+- **Deuteronomy 23:17–18** — [[Fugitives, Interest, Vows, and a Neighbor's Produce]]: *"There shall be no prostitute of the daughters of Israel"*
+  (*qǝdēšâ*, Hirah's word at Genesis 38:21), and *"the hire of a prostitute"* (*zônâ*, the narrator's
+  word at 38:15) barred from paying a vow (WLC, morphhb).
+
 - Compare **Song of Solomon 1:7** — [[Dark and Lovely]]: *"why should I be as one who is veiled
   beside the flocks of your companions?"* A possible echo; see the analysis.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sin in the delay, not the abstention — Deuteronomy 23:21–22
+
+*"It would be sin in you"* if a vow is left unpaid; *"if you refrain from making a vow, it shall be no
+sin in you"*. Sin here is located in the gap between a word and its performance, not in the choice not
+to speak. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The calf is evidence of a continuing history of rebellion from Egypt onward (7, 24). Moses names
@@ -1002,6 +1008,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:22, 30; 29:5, 11, 16–38; a sin-offering goat at every feast
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *be sure your sin will find you out* (23).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused loan as *"sin to you"* (9).
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:21–22; the unpaid vow is sin, the unmade vow is not.
 
 ## Related themes
 

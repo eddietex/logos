@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eating is not theft; carrying is — Deuteronomy 23:24–25
+
+The passer-by may eat his fill of a neighbor's grapes and pluck his grain by hand. He may not put
+grapes in a container or move a sickle into the field. The law marks the line between hunger satisfied
+and property taken. The Synoptic grain-field scene records only a Sabbath objection. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]] and
+[[Plucking a Neighbor's Grain - Deuteronomy 23.24-25 and the Sabbath Grain Fields]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Every lost thing of your brother's — Deuteronomy 22:1–3
 
 Finding is not keeping. The straying ox or sheep is brought back, or, if the owner is unknown, kept
@@ -231,6 +238,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a F
 - [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10; Robbing the poor and moving the boundary stone.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:7–8; repayment, the fifth, and the kinsman.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–3; the lost animal or garment kept and restored to its owner.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:24–25; eat in the field, carry nothing away.
 
 ## Related themes
 

@@ -14,6 +14,7 @@ tags: [connection]
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8
 - Deuteronomy 24:19 — the forgotten sheaf; not yet ingested
 - Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:16
 
 ## Analysis
 
@@ -66,6 +67,16 @@ and eat *"like portions"* (7–8). The household's duty not to forsake him (12:1
 his own right to serve and eat at the sanctuary; the law does not say whether he may then go home.
 
 See [[The Portion of the Priests and Levites]]. Source: stored WEB Deuteronomy 12:19; 14:27; 18:6–8.
+
+### The runaway who chooses the gates — Deuteronomy 23:16
+
+The Levite of 18:6 comes *"from any of your gates"* to *"the place which Yahweh shall choose"*. The
+fugitive slave of 23:16 moves the other way, into the gates: he *"shall dwell with you, among you, in
+the place which he shall choose within one of your gates"*. He is not one of the four, but the law
+gives him what it gives the *gēr*: *"You shall not oppress him"*, with the verb of Exodus 22:21 (WLC,
+morphhb). See [[Where It Pleases Him Best - The Runaway Slave and the Place Yahweh Chooses]].
+
+See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 18:6; 23:15–16; Exodus 22:21.
 
 ## Significance
 

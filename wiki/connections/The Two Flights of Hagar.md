@@ -82,6 +82,8 @@ mother was stopped.**
 - **It is the wiki's reason for not reading Genesis 16:9 as the last word.** The command to return is
   real, unmitigated, and not repeated; Genesis itself ends the arrangement five chapters later, and
   the Torah eventually legislates against returning runaway slaves at all (Deuteronomy 23:15–16).
+  *(Qualified on ingest of [[Fugitives, Interest, Vows, and a Neighbor's Produce]]: whether that law covers an Israelite household's own slaves, or only
+  a slave who flees into Israel, the text does not say; see [[Slavery and Servitude]].)*
 - **It shows Genesis's method with its own doublets.** The book does not harmonize; it lays the second
   version beside the first and lets the differences do the work. The same technique produces the three
   wife-sister episodes (see [[The Wife-Sister Episodes]]) and the two accounts of creation.

@@ -399,6 +399,8 @@ which makes this verse a report of a practice rather than a law establishing one
 - [[A Strong Tower]] — Proverbs 18:16; *"A man's gift makes room for him"*, beside the present sent ahead to Esau (32:20).
 
 - [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] — the place name recurs in a dance comparison; no angelic dance is asserted.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15; *"my life is preserved"* (32:30) and the slave who *"has escaped"*
+  are the Torah's only two niphals of *nāṣal* (WLC, morphhb).
 
 ## Notes
 

@@ -249,6 +249,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   Jerusalem to worship"*.
 - 2 Corinthians 6:16 *(not yet ingested; WEB checked at bible-api.com)* — *"I will dwell in them, and walk
   in them"*.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25; the next pericope. The slave who *"has escaped"* (15) takes the niphal
+  of *nāṣal*, the verb of *"to deliver you"* in 14. The *qǝdēšâ* and *qādēš* (17) share the root of
+  *"your camp shall be holy"* (14) (WLC, morphhb).
 
 ## Notes
 

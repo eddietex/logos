@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### What has gone out of your lips — Deuteronomy 23:23
+
+*"You shall observe and do that which has gone out of your lips"*. The noun *môṣāʾ*, *what goes out*,
+is the one Deuteronomy 8:3 uses of *"every word that proceeds out of Yahweh's mouth"* (WLC, morphhb).
+A spoken vow binds its speaker as Yahweh's word binds him. See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The future son asks what the commands mean, and the parent answers with the community’s rescue story
@@ -1020,6 +1026,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[Vows of Men and Women]] — Numbers 30:2, 6–8, 14; what proceeds out of the mouth, and silence as consent
 - [[A Prophet Like Moses]] — Deuteronomy 18:18–22; Yahweh's words in the prophet's mouth, and the presumptuous word.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–19; the husband's *"bad name"* and the father's answer.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:23; *"that which has gone out of your lips"*.
 
 ## Related themes
 

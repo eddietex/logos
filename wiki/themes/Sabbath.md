@@ -325,6 +325,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:9–10; two lambs every Sabbath, besides the continual offering
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:6–7; the seventh month's new moon, and the Day of Atonement's Sabbath-like rest
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the seventh-year *šəmiṭṭâ* applied to debts.
+- [[Plucking a Neighbor's Grain - Deuteronomy 23.24-25 and the Sabbath Grain Fields]] — Deuteronomy 23:25 as the permission behind the disciples' plucking; the objection recorded is the Sabbath alone (Matthew 12:1–2; Mark 2:23–24).
 
 ## Related themes
 

@@ -191,6 +191,8 @@ but *"cast it to the dogs"* (22:31).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; lending to the poor brother commanded, and his cry to Yahweh against the one who refuses (15:9).
   foreigner, not to the dogs. See [[Torn Flesh and Cleansing - Exodus 22 and Leviticus 11 and 17]].
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:28–29; the unpledged virgin seized, fifty shekels, and no divorce — compared on [[The Unbetrothed Virgin - Exodus 22.16-17 and Deuteronomy 22.28-29]].
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–20; the runaway protected with the verb of 22:21 (*yānâ*), and
+  interest refused to a brother.
 
 ## Notes
 
@@ -281,7 +283,8 @@ advantage of widows and orphans leave widows and orphans behind. See
 *ʾEt-ʿammî ʾet-heʿānî ʿimmāk* (MAM 22:24) reads literally *my people, the poor one with you*: the
 poor borrower is called God's people before he is called poor. The lender is not to act toward him
 *kənōšeh*, *as a creditor*, and is not to put *nešek*, *interest*, on him. That *nešek* comes from a
-root meaning *to bite* is a common derivation; it was not checked against a lexicon in this pass.
+root meaning *to bite* is a common derivation; it was not checked against a lexicon in this pass,
+and the morphhb WLC tagging lists the two verbs as separate lemmas (5391 a and b).
 Later law restates the rule (Leviticus 25:35–37; Deuteronomy 23:19–20, which allows interest
 from a foreigner), and the Psalms and prophets make it a mark of the righteous (Psalm 15:5; Ezekiel
 18:8). See [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].

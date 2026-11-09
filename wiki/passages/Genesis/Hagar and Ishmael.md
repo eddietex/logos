@@ -432,6 +432,8 @@ years he is, as far as Abram knows, the son.
 - Galatians 4:21–31 — Hagar, Sinai, and the two covenants.
 - [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]] — *pereʾ ʾādām*'s only other occurrence,
   in Zophar's insult at Job 11:12.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–16; the runaway not handed back. Whether it covers a household's
+  own slave, as Hagar was, the text does not say.
 
 ## Notes
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Interest, a tainted gift, and the neighbor's crop — Deuteronomy 23:18–25
+
+Four limits on gain sit in eleven verses. A prostitute's hire may not pay a vow (18). No interest is
+taken from a brother on *"money … food … anything"*, though it may be from a *nokrî* (19–20), and the
+promise attached is that *"Yahweh your God may bless you in all that you put your hand to"*. A vow, once
+spoken, is a debt to Yahweh (21–23). And a neighbor's grapes and grain may be eaten in the field but not
+carried off in a container or cut with a sickle (24–25). See [[Fugitives, Interest, Vows, and a Neighbor's Produce]] and
+[[Lending Without Interest - Exodus 22.25 and the Poor Brother]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Houses, livestock, silver, and gold are anticipated gifts, yet their increase can produce
@@ -1140,6 +1149,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; debts released, and loans commanded to the poor even near the release.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the released servant furnished from flock, threshing floor, and wine press (13–14).
 - [[The Law for the King]] — Deuteronomy 17:14–20; no multiplying of horses, silver, or gold for the king (16–17).
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:18–25; tainted money, interest, vows, and the neighbor's crop.
 
 ## Related themes
 

@@ -6,6 +6,28 @@ tags: [theme]
 
 ## Definition / overview
 
+### The runaway not handed back — Deuteronomy 23:15–16
+
+*"You shall not deliver to his master a servant who has escaped from his master to you. He shall dwell
+with you, among you, in the place which he shall choose within one of your gates, where it pleases him
+best. You shall not oppress him."* The fugitive chooses his own town, in the words Deuteronomy otherwise
+uses only for Yahweh's choice of his place, and he is protected with *yānâ*, the verb of the alien's
+protection in Exodus 22:21 and Leviticus 19:33 (WLC, morphhb). See
+[[Where It Pleases Him Best - The Runaway Slave and the Place Yahweh Chooses]].
+
+**A qualification to claims already on this page, flagged rather than overwritten.** The Development
+section below says that *"uniquely in the ancient world, Deuteronomy 23:15–16 forbids returning a
+runaway slave to their master — the exact opposite of what Genesis 16:9 tells Hagar to do"*, and
+[[Affliction and Flight - Hagar and the Exodus]] and [[The Two Flights of Hagar]] make the same Hagar
+comparison. Two things the ingested text does not settle bear on both claims. First, the law does not
+say whose slave this is: *"has escaped from his master to you"* and *"within one of your gates"* most
+naturally describe a slave arriving from outside Israel, and on that reading it is not a rule about an
+Israelite household's own slaves, so the contrast with Hagar's return to Sarai is less direct. Second,
+*"uniquely in the ancient world"* is a comparative claim about other law collections that the wiki has
+not checked against any source; that some other collections penalized harbouring runaways is reported
+from general knowledge only. Both statements are left in place with this qualification. See
+[[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 23:15–25.
+
 ### Not sold, not treated as a slave — Deuteronomy 21:14
 
 The dismissed captive wife goes *"where she desires"*: *"you shall not sell her at all for money. You
@@ -652,6 +674,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; servants at the feasts (11, 14), and *"remember that you were a slave in Egypt"* (12).
 - [[Laws for Going to War]] — Deuteronomy 20:11; the surrendered city's people become *"forced laborers"*.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:14; the dismissed captive wife may not be sold or treated as a slave.
+- [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–16; the runaway not handed back, choosing his own town.
 
 ## Related themes
 

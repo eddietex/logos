@@ -23698,3 +23698,50 @@ Zechariah for 240, 1616, 1795, 2015, 2658, 3489, 4464, 6154, 6172, 6481, 6923, 7
 8581, across Deuteronomy for 6951, and a morphology search of Genesis–Deuteronomy for the hithpael of
 1980. The Hebrew of Ezra and the Greek of the New Testament and Septuagint were not checked. Raw files,
 canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-09] ingest | Deuteronomy 23.15-25 — Fugitives, Interest, Vows, and a Neighbor's Produce
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary (WEB 23:15–25 = WLC
+23:16–26). Commas were added to the plan's title, giving *Fugitives, Interest, Vows, and a Neighbor's
+Produce*. Created the passage page and two connections,
+[[Where It Pleases Him Best - The Runaway Slave and the Place Yahweh Chooses]] and
+[[Plucking a Neighbor's Grain - Deuteronomy 23.24-25 and the Sabbath Grain Fields]]. Revised 42
+existing pages including this log. They are: Deuteronomy (box checked, overview, count, and Oaths and
+Vows, Wealth and Possessions, and Sin added as key themes) and `wiki/books/index.md`; three people
+(Moses, Hirah the Adullamite, Tamar); thirteen themes (Slavery and Servitude, Sexual Sin, Holiness,
+Wealth and Possessions, The Poor and the Vulnerable, Brotherhood, The Nations, Blessing, Oaths and Vows,
+Language and Speech, Sin, Theft and Restitution, Sabbath); six connections (Lending Without Interest,
+Pay What You Vow, Affliction and Flight, The Two Flights of Hagar, Within Your Gates, The Attire of a
+Prostitute); nine earlier passage pages, each given a cross-reference; the People F-M and N-Z
+subindexes, the themes index, all five Connections subindexes
+except D-H, and `wiki/index.md`. Deuteronomy is now 49 / 69. Counts by frontmatter type are 374
+passages, 257 people, 222 places, 87 themes, and 770 connections.
+
+Contradiction flagged, not overwritten. [[Slavery and Servitude]] said that *"uniquely in the ancient
+world, Deuteronomy 23:15–16 forbids returning a runaway slave … the exact opposite of what Genesis 16:9
+tells Hagar to do"*. [[Affliction and Flight - Hagar and the Exodus]] and [[The Two Flights of Hagar]]
+make the same Hagar contrast. The law does not say whose slave it covers, and *"escaped from his master
+to you"* most naturally describes a slave arriving from outside Israel. The "uniquely" claim compares
+other ancient law collections the wiki has not checked. All three statements are kept, each with a
+qualification. Also revised: [[Lending Without Interest - Exodus 22.25 and the Poor Brother]] and
+[[Laws of Holiness and Compassion]] had left the *nešek* < *bite* derivation unchecked. Morphhb files
+the verb of interest (5391 b) separately from *to bite* (5391 a), and both pages now say so.
+
+Judgment calls: no pages for the runaway slave, his master, the *qǝdēšâ* or *qādēš*, the borrower, or
+the neighbor. No place page; no place is named. Recorded and not resolved: whether 23:15–16 covers an
+Israelite's slave; what the *qǝdēšâ* and *qādēš* were; whether *keleb* means a male prostitute; why the
+*nokrî* may be charged interest; whom the vineyard law was written for. Given from general knowledge and
+marked so where made: the usual reading of *keleb*; that *qǝdēšâ*, *qādēš*, and *qādôš* share a root;
+1 Kings 14:24 and Hosea 4:14 as the usual comparison texts (not checked); that Deuteronomy 24:14 uses
+*ʿāšaq* (not checked); that other ancient collections penalized harbouring runaways.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 8:3; 10:19; 12:5, 14, 18; 15:3, 11;
+16:9, 11; 17:15; 18:6, 19; 23:6, 14–25; 24:14, 19; 29:22; 30:19; 32:30; Genesis 16:9; 32:30; 38:15,
+21–22; Exodus 3:8; 22:6, 21, 25; Leviticus 7:16; 19:9–10, 33; 22:18–23; 25:14, 17, 36–37; Numbers 30:2,
+12. Matthew 12:1–2, Mark 2:23–24, and Luke 6:1 checked at bible-api.com (`translation=web`),
+2026-11-09; none of those books was fetched into raw/. Hebrew checked against WLC from morphhb
+(openscriptures, GitHub), retrieved 2026-11-09: Deuteronomy 23:15–26; Numbers 30:3, 7, 13. Lemma
+searches across Genesis–Deuteronomy were run for 868, 2181, 2308, 2770, 3238, 3611, 4161, 4242, 4425,
+5071, 5237, 5337, 5391, 5392, 5462, 6025, 6945, 6948, 6998, 7054, and 7648. Searches across Deuteronomy
+were run for 977, 1875, 4916, and the construct of 8441 before *YHWH*. The Greek of the Gospels was not
+checked. Raw files, canonical workflow instructions, and controller files were unchanged.
