@@ -19423,7 +19423,7 @@ link or ingestion issue; no schema or harness-compatibility change needed.
 
 Ingested [[The Meal Offering]], Leviticus 2:1–16, as the next unchanged queue unit.
 Created 2 pages: the passage and [[Gifts of the Ground - Cain and the Meal Offering]].
-Revised 36 existing pages including this log: the book, 7 people, 1 place, 8 themes,
+Revised 32 existing pages including this log: the book, 7 people, 1 place, 8 themes,
 2 connections, 3 earlier passages, and 9 indexes/dashboards. Leviticus is now 2 / 44;
 counts are 229 passages, 192 people, 104 places, 85 themes, and 541 connections.
 
@@ -22990,7 +22990,7 @@ Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary 
 the passage page and three connections:
 [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]],
 [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]], and
-[[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Revised 36 existing pages
+[[All Foods Clean - Leviticus 11, Deuteronomy 14, Mark 7, and Acts 10]]. Revised 32 existing pages
 including this log: Deuteronomy, two people (God, Moses), nine themes (Clean and Unclean,
 Holiness, Call and Election, Adoption, Mourning and Lament, Life and Death, Land and Sojourning,
 The Nations, Law and Obedience), three existing connections (A Young Goat in Its Mother's Milk, A
