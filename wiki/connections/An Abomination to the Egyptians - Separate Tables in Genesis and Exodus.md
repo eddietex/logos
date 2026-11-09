@@ -16,8 +16,22 @@ tags: [connection]
   they stone us?"* — [[Frogs, Lice, and Flies]]
 - **Leviticus 18:22–30; Deuteronomy 7:25–26; 14:3** — the word turned round
 - **Genesis 39:14, 17; 40:15; 41:12** — *"Hebrew"* as the Egyptians' word for Joseph
+- **Deuteronomy 23:7** — [[The Assembly and the Holy Camp]]; *"You shall not abhor an Egyptian, because
+  you lived as a foreigner in his land"*
 
 ## Analysis
+
+### The verb turned round — Deuteronomy 23:7
+
+Deuteronomy 23:7 uses the verb of *tôʿēbâ* the other way: *lōʾ-tǝtaʿēb miṣrî*, *"You shall not abhor an
+Egyptian"* (WLC 23:8). The Egyptians would not eat bread with Hebrews; Israel is forbidden to hold the
+Egyptian in the same contempt, and the Egyptian's children enter Yahweh's assembly in the third
+generation (8). The reason given is the sojourn, *"because you lived as a foreigner in his land"*, and
+not the slavery that followed it. In the Torah the verb *tāʿab* occurs otherwise only at Deuteronomy
+7:26 (WLC lemma 8581).
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 7:26; 23:7–8; WLC Deuteronomy
+23:8 (morphhb), retrieved 2026-11-09.
 
 ### The Bible's first abomination is a dining custom
 

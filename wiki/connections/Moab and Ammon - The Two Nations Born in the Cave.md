@@ -15,7 +15,6 @@ tags: [connection]
   the two nations will hold
 - Deuteronomy 2:9, 19 — *"I have given Ar to the children of Lot for a possession"*, and the same
   for Ammon
-- Deuteronomy 23:3–6 — both nations barred from the assembly *"to the tenth generation"*
 - Numbers 22–24; 25:1–3 — Balak of Moab and Balaam; Baal Peor
 - Judges 3:12–30; 11:4–33 — Eglon of Moab; Jephthah against Ammon
 - 1 Samuel 11:1–11; 22:3–4; 2 Samuel 10:1–14; 12:26–31 — Ammon besieging Jabesh Gilead; David
@@ -27,8 +26,36 @@ tags: [connection]
 - Ruth 1:1–4; 4:13–22 — Ruth the Moabitess, and the line to David
 - Nehemiah 13:1–3, 23–27 — Deuteronomy 23 read out and enforced
 - Matthew 1:5 — Ruth in the genealogy of Jesus
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6, the exclusion.
 
 ## Analysis
+
+### Deuteronomy 23 now ingested
+
+The block quotation of 23:3–4 below has been recopied from the stored WEB, which the earlier version had
+paraphrased slightly (*"bread and water on the way when you came out"*). Three points from the text are
+added.
+
+**Bread and water, and Deuteronomy 2:29.** In 2:28–29 Moses asks Sihon to sell food and water *"as the
+children of Esau who dwell in Seir, and the Moabites who dwell in Ar, did to me"*. By that verse Moab
+did supply Israel; by 23:4 it did not *"meet"* Israel with bread and water. Ammon is not named in 2:29.
+**Unresolved:** *qiddǝmû*, *"meet"* (WLC 23:5), may mean coming out with provisions as a gift, which
+selling is not; or the two verses remember different encounters; or they were never harmonized. The wiki
+adopts none of these.
+
+**The overturned curse.** *"Turned the curse into a blessing"* uses *hāpak* (WLC 23:6), the verb of the
+overthrow of Sodom (Genesis 19:25; Deuteronomy 29:23, WLC 29:22). The descendants of the man who escaped
+Sodom's *overthrow* are the ones whose curse is *overturned* on Israel's behalf. The text does not draw
+the link.
+
+**Nehemiah's copy.** Nehemiah 13:1–2 (WEB checked at bible-api.com) repeats the law with *"the assembly
+of God"* for *"Yahweh's assembly"* and *"our God"* for *"Yahweh your God"*, keeps the
+curse-into-blessing clause, and drops *"because Yahweh your God loved you"*. Its verse 3 applies the law
+more widely than the text it quotes: *"they separated all the mixed multitude from Israel"*. See
+[[The Eunuch and the Foreigner - Deuteronomy 23.1-8 and Isaiah 56.3-7]].
+
+See [[The Assembly and the Holy Camp]]. Sources: stored WEB Deuteronomy 2:28–29; 23:3–6; 29:23; Genesis
+19:25; WLC Deuteronomy 23:4–6 and Nehemiah 13:1–3 (morphhb), retrieved 2026-11-09.
 
 ### Deuteronomy 2 now ingested
 
@@ -63,8 +90,8 @@ See [[The Nephilim and the Giants of Canaan]].
 ### 2. They are barred from the assembly, on the Sodom charge
 
 > An Ammonite or a Moabite shall not enter into Yahweh's assembly; even to the tenth generation
-> shall no one belonging to them enter into Yahweh's assembly forever, because they didn't meet you
-> with bread and water on the way when you came out of Egypt. *(Deuteronomy 23:3–4)*
+> shall no one belonging to them enter into Yahweh's assembly forever; because they didn't meet you
+> with bread and with water on the way, when you came out of Egypt … *(Deuteronomy 23:3–4)*
 
 **The stated reason is inhospitality**, and it is worth pausing on how exactly that lands. The
 grandfather of both nations spent his last night in Sodom shutting a door against a town that would
@@ -76,7 +103,7 @@ same charge. See [[Hospitality]].
 
 Deuteronomy 23:4–5 then adds the second count, Balaam, and closes it with the reversal that
 governs the whole thread: *"Nevertheless Yahweh your God wouldn't listen to Balaam, but Yahweh your
-God turned the curse into a blessing to you, because Yahweh your God loved you."*
+God turned the curse into a blessing to you, because Yahweh your God loved you"* (23:5).
 
 ### 3. They are Israel's standing enemies for six hundred years
 

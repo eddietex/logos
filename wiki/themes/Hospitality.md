@@ -67,6 +67,16 @@ theme, and its last appearance inverts who performs it.
 
 ## Development across Scripture
 
+### Bread and water refused — Deuteronomy 23:4
+
+Ammon and Moab are excluded from Yahweh's assembly first *"because they didn't meet you with bread and
+with water on the way, when you came out of Egypt"* (4). Inhospitality to travellers is made a ground of
+national exclusion. **Tension retained:** Deuteronomy 2:29 says the Moabites in Ar sold Israel food and
+water. Whether *qiddǝmû*, *"meet"* (WLC 23:5), implies coming out with a gift rather than a sale is a
+reading, not a stated distinction. See [[Moab and Ammon - The Two Nations Born in the Cave]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 2:29.
+
 - **Genesis 18:1–8** — the founding scene: an offer of *"a little water"* and *"a morsel of bread"*,
   answered with three seahs of flour, a calf, and curds, served standing by a hundred-year-old man
   who ran twice in the noon heat.
@@ -232,6 +242,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
   [[Come, Eat of My Bread - Proverbs 9, Isaiah 55, and the Gospel Banquets]]
 - [[Thirty Excellent Things]] — Proverbs 23:1–3, 6–8; Two tables to be wary of: the ruler's and the stingy host's.
 - [[The March from Sinai]] — Numbers 10:29–32; Moses returns the welcome of Exodus 2.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Ammon and Moab excluded for not meeting Israel
+  with bread and water.
 
 ## Related themes
 

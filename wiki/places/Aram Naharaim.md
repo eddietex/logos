@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Balaam's country — Deuteronomy 23:4
+
+WEB *"Pethor of Mesopotamia"* (4) renders *pǝtôr ʾăram nahărayim* (WLC 23:5). The name of Abraham's
+servant's journey (Genesis 24:10) is used here for Balaam's home, which Numbers 22:5 had placed only
+*"by the River"*.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14.
+
 The country the family came from and kept going back to — **the region that supplies the mothers of
 Israel for three generations, and never receives a single promise.**
 
@@ -108,6 +116,7 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   31:18; 33:18; 35:9, 26; 46:15), **and here, in direct speech, a dying man clips it.** **The region
   enters the pericope only as the thing he was travelling home from when his wife died**, which is what
   the verse is in the chapter to establish
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Balaam's home, WEB *"Mesopotamia"*.
 
 ## Related places
 

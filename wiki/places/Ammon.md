@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Excluded from the assembly — Deuteronomy 23:3–6
+
+The Ammonite is barred from Yahweh's assembly *"even to the tenth generation … forever"* (3), with Moab,
+for not meeting Israel *"with bread and with water"* and for hiring Balaam (4). Numbers 22 gives the
+hire to Moab alone, and Ammon is absent from Deuteronomy 2:29's list of peoples who sold Israel food.
+Deuteronomy 2:19 had protected Ammon's land as given *"to the children of Lot"*. *"You shall not seek
+their peace nor their prosperity"* (6). See [[Moab and Ammon - The Two Nations Born in the Cave]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 2:19, 29.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Its border is identified with the Jabbok (16). This boundary continues the distinction between
@@ -111,6 +121,7 @@ displaced five chapters before either of them is born.** See
 - [[Lot and His Daughters]] — Genesis 19:38; the nation's origin, given as a birth in a cave
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, by anticipation: the **Zuzim in Ham**, the
   people Deuteronomy 2:20 calls the Zamzummim and says held this land before Ammon did
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Ammonite excluded from Yahweh's assembly.
 
 ## Related places
 

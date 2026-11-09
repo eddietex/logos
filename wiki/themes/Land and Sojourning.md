@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A foreigner in Egypt remembered — Deuteronomy 23:7
+
+*"You shall not abhor an Egyptian, because you lived as a foreigner in his land"* (7). The sojourn is
+made a reason for regard toward the people of the land of bondage. The word is *gēr* (WLC 23:8), as in
+10:19, *"you were foreigners in the land of Egypt"*. See
+[[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 10:19.
+
 ### The inheritance kept clean — Deuteronomy 21:23
 
 The pericope ends where 21:1–9 began, with the land: the body on the tree must come down *"that you
@@ -1096,6 +1105,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Laws for Going to War]] — Deuteronomy 20:5–6, 16, 19; the unenjoyed house and vineyard, the inheritance, and the fruit trees.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–4; a body found in the given land, and the unworked valley.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the land given for an inheritance kept undefiled.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"you lived as a foreigner in his land"*.
 
 ## Related themes
 

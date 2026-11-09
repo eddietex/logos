@@ -701,6 +701,8 @@ tent and a curse on his grandson.** The chapter closes on ten men relaxing for t
   to supply the names
 - [[A Dry Morsel with Quietness]] — Proverbs 17:18; the warning against becoming collateral, beside Judah's pledge (43:9).
 - [[A Strong Tower]] — Proverbs 18:16; the gift that brings a man before great men, beside the present carried down (43:11).
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"You shall not abhor an Egyptian"*, the verb
+  of 43:32's *"abomination"* turned round.
 
 ## Notes
 

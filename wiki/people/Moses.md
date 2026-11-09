@@ -2107,6 +2107,8 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; the captive wife, the firstborn's portion, the rebellious son, and the hanged man.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; the stray animal, the nest, the parapet, two kinds, and the fringes.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, the pledged woman, the seized virgin, and the father's wife.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14; the speaker, setting who may enter
+  *"Yahweh's assembly"* and how the war camp is kept holy.
 
 ## Related people
 

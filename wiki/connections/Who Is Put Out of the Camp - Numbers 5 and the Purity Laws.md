@@ -15,9 +15,23 @@ tags: [connection]
 - [[Miriam and Aaron Against Moses]] — Numbers 12:10–15
 - Numbers 19:11–22 — stored WEB; see [[The Red Heifer]].
 - [[The War Against Midian]] — Numbers 31:19, soldiers outside the camp seven days.
-- Deuteronomy 23:10–14; 2 Kings 7:3; 2 Chronicles 26:21; Luke 17:12–14 — WEB, not yet ingested.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14.
+- 2 Kings 7:3; 2 Chronicles 26:21; Luke 17:12–14 — WEB, not yet ingested.
 
 ## Analysis
+
+### Deuteronomy 23 now ingested
+
+The war camp of Deuteronomy 23:9–14 adds a fourth condition to the table below: the man *"not clean by
+reason of that which happens him by night"* (10). Leviticus 15:16 makes him *"unclean until the
+evening"* and names no camp; Deuteronomy sends him *"outside of the camp"* until *"the sun is down"*
+(10–11). So Deuteronomy, like Numbers 5, adds a removal that Leviticus 15 does not state — but for one
+night, not for the length of the discharge. Its reason, *"for Yahweh your God walks in the middle of
+your camp"* (14), stands beside Numbers 5:3, *"in the midst of which I dwell"*. See
+[[Yahweh Walks in the Camp - Genesis 3.8, Leviticus 26.12, and Deuteronomy 23.14]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:9–14; Leviticus 15:16; Numbers
+5:3.
 
 Numbers 5:2 sends three kinds of people out of the camp. The other laws do not all say the same thing.
 

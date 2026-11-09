@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The holy camp — Deuteronomy 23:9–14
+
+*"Therefore your camp shall be holy, that he may not see an unclean thing in you, and turn away from
+you"* (14). The holiness required of the army in the field is concrete: the man unclean by night stays
+outside the camp until sunset, and excrement is buried outside it with a trowel carried *"among your
+weapons"*. The reason is presence — *"Yahweh your God walks in the middle of your camp"* — and its
+purpose is deliverance in battle. See
+[[Yahweh Walks in the Camp - Genesis 3.8, Leviticus 26.12, and Deuteronomy 23.14]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14.
+
 ### Levitical cities and refuge — Numbers 35:1–34
 
 The closing prohibition of land defilement rests on Yahweh’s presence (33–34). The anointing of the high priest is specified (25), but no new anointing rite is performed.
@@ -902,6 +913,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; *"you are a holy people"* (2, 21) as the ground of the food law.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated, and the defective one made common.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–12; two kinds of seed make the vineyard's yield *become holy* (9); the fringes.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; *"your camp shall be holy"*.
 
 ## Related themes
 

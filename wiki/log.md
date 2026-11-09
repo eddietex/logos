@@ -23648,3 +23648,53 @@ searches across Genesis–Deuteronomy for 781, 1166, 1330, 1331, 2388, 3256, 346
 5949, 6064, 6566, 6601, 6817, 7523, and 8610, and across Deuteronomy for 2181, 6031, and 7971. The Hebrew
 of Ruth and 2 Samuel and the Greek of the New Testament were not checked. Raw files, canonical workflow
 instructions, and controller files were unchanged.
+
+## [2026-11-09] ingest | Deuteronomy 23.1-14 — The Assembly and the Holy Camp
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title (WEB 23:1–14 =
+WLC 23:2–15). Created the passage page and two connections,
+[[The Eunuch and the Foreigner - Deuteronomy 23.1-8 and Isaiah 56.3-7]] and
+[[Yahweh Walks in the Camp - Genesis 3.8, Leviticus 26.12, and Deuteronomy 23.14]]. Revised 55 existing
+pages including this log: Deuteronomy (box checked, overview, count, Hospitality and Walking with God
+added as key themes, Balaam as a key person, Edom and Ammon as key places) and `wiki/books/index.md`;
+six people (Moses, Balaam, Beor, Balak, Esau, Moab); six places (Ammon, Moab, Edom, Egypt, Pethor, Aram
+Naharaim); twelve themes (The Nations, Holiness, Clean and Unclean, The Dwelling of God, Walking with
+God, Hospitality, Curse, Blessing, Love, Brotherhood, Land and Sojourning, War); seven connections (Moab
+and Ammon, The Counsel of Balaam, Who Is Put Out of the Camp, An Abomination to the Egyptians, Your
+Brother Israel, The Blessed People and the Purchased Curse, A Foreigner in a Foreign Land); twelve
+earlier passage pages, each given a cross-reference; the People A-E and F-M subindexes, the places and
+themes indexes, the Connections A-C, D-H, I-N, and T-Z subindexes, and `wiki/index.md`. Deuteronomy is
+now 48 / 69. Counts by frontmatter type are 373 passages, 257 people, 222 places, 87 themes, and 768
+connections.
+
+Contradiction flagged, not overwritten: Deuteronomy 23:4 says Ammon and Moab *"didn't meet you with
+bread and with water"*, while 2:29 has *"the Moabites who dwell in Ar"* selling Israel food and water.
+Recorded on the passage page, [[Moab (place)]], [[Hospitality]], and
+[[Moab and Ammon - The Two Nations Born in the Cave]], with three readings and none adopted. On that
+connection page the block quotation of 23:3–4, which had paraphrased the WEB slightly, was recopied from
+the stored text.
+
+Judgment calls: no pages for Ben Ammi, the emasculated man, the *mamzēr*, or the man unclean by night;
+no place page for the camp. Recorded and not resolved: what *"enter into Yahweh's assembly"* means in
+practice; what *mamzēr* means; whether 23:1 concerns injury, castration, or both; why Ammon is joined to
+Moab in hiring Balaam; why Egypt is admitted in the third generation and Moab not in the tenth; whether
+the exclusions of 23:1–8 are a kind of purity like that of 23:9–14; whether Isaiah 56 plays on
+Deuteronomy 23's *kārat*. These are given from general knowledge and marked so where they are made: that
+*mamzēr* occurs nowhere in the Hebrew Bible but Deuteronomy 23:2 and Zechariah 9:6, and that *ʿerwat
+dābār* occurs only at 23:14 and 24:1 (both checked against the Torah and the other books searched, not
+the full canon); the rabbinic definition of *mamzēr*; the meanings of *šopkâ* and *ʾāzēn*; that *tāʿab*
+and *tôʿēbâ* share a root.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 2:4, 6, 8–9, 19, 28–29; 7:8, 26; 9:10;
+10:19; 20:4; 22:5, 30; 23:1–16; 24:1; 29:23; 31:30; Genesis 3:7–8, 10; 5:22, 24; 6:9; 12:3; 17:1; 19:25,
+37–38; 24:10; 43:32; Exodus 12:38; 22:21; 23:9; Leviticus 15:16, 31; 21:20, 22–23; 26:3, 11–12; Numbers
+5:3; 16:3; 20:4; 22:5–7. Isaiah 56:3–7, Nehemiah 13:1–3, Ezra 9:12, Lamentations 1:10, Zechariah 9:6,
+Acts 8:27–28, 2 Corinthians 6:16–17, and Matthew 19:12 checked at bible-api.com (`translation=web`),
+2026-11-09; none of those books was fetched into raw/. Hebrew checked against WLC from morphhb
+(openscriptures, GitHub), retrieved 2026-11-09 — Deuteronomy 2:29; 23:1–26; 29:22; Genesis 3:7–8, 10;
+Exodus 22:20; 23:9; Leviticus 21:20; 22:24; Isaiah 21:14; 56:3–5; Nehemiah 13:1–3; Lamentations 1:10 —
+with lemma searches across Genesis–Deuteronomy plus Judges, Isaiah, Lamentations, Nehemiah, and
+Zechariah for 240, 1616, 1795, 2015, 2658, 3489, 4464, 6154, 6172, 6481, 6923, 7137, 8212, 8441, and
+8581, across Deuteronomy for 6951, and a morphology search of Genesis–Deuteronomy for the hithpael of
+1980. The Hebrew of Ezra and the Greek of the New Testament and Septuagint were not checked. Raw files,
+canonical workflow instructions, and controller files were unchanged.

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The hire remembered without his name — Deuteronomy 23:4
+
+Deuteronomy 23:4 excludes Ammon and Moab together *"because they hired against you Balaam"*. Balak, the
+king of Moab who sent for Balaam (Numbers 22:2–6), is not named, and Ammon, which has no part in Numbers
+22, is joined to the hire. The text does not explain the addition.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; Numbers 22.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 After a third sacrificial station at Peor, he angrily dismisses Balaam and attributes the loss of
@@ -50,6 +58,8 @@ when the first returns unsuccessful; his offer of honor cannot determine God’s
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; not named; the hire of Balaam attributed to
+  Ammon and Moab.
 
 ## Related people
 

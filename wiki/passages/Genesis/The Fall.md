@@ -193,6 +193,8 @@ and the walking in the cool of the day.
 - [[The Field of the Sluggard]] — Proverbs 24:30–31, a field left to thorns.
 - [[Righteousness and Wisdom Under Question]] — Ecclesiastes 7:29, an upright making followed by humanity's many schemes. See
   [[God Made Man Upright - Ecclesiastes 7.29 and Genesis 1-3]].
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; *mithallēk*, Yahweh *"walks in the middle of
+  your camp"*, the participle of 3:8.
 
 ## Notes
 

@@ -118,7 +118,8 @@ Complete unit, copied verbatim from stored WEB Deuteronomy 2:1–23.
 - [[Moab and Ammon - The Two Nations Born in the Cave]]
 - [[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]]
 - [[The Journey to Moab]] — Numbers 21:10–20 supplies the earlier Zered itinerary.
-
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–8; the peoples whose land 2:9, 19 protects are
+  excluded from the assembly, and Edom, *"your brothers"* here, is admitted in the third generation.
 
 ## Notes
 

@@ -16,8 +16,18 @@ tags: [connection]
 - [[The Call of Abram]] — Genesis 12:1–3.
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27.
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5.
 
 ## Analysis
+
+### The purchase remembered — Deuteronomy 23:4–5
+
+Deuteronomy names the purchase outright: Ammon and Moab *"hired against you Balaam … to curse you"* (4),
+and *"Yahweh your God turned the curse into a blessing to you, because Yahweh your God loved you"* (5).
+The bought curse becomes a permanent ground of exclusion (3), as Genesis 12:3, *"I will curse him who
+treats you with contempt"* (stored WEB *"treates"*), and Numbers 24:9 would lead one to expect.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:3–5; Genesis 12:3.
 
 ### Balaam’s final oracles
 

@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Outside the camp until sunset — Deuteronomy 23:10–11
+
+A man *"not clean by reason of that which happens him by night"* goes outside the war camp, bathes at
+evening, and returns *"When the sun is down"* (10–11). Leviticus 15:16 makes such a man *"unclean until
+the evening"* but names no camp; Deuteronomy adds the removal, for the army. The uncleanness is
+temporary and involves no fault. See [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]].
+
+Verse 14 calls what must not be seen *ʿerwat dābār*, *the nakedness of a thing* (WLC 23:15), WEB *"an
+unclean thing"* — the phrase that recurs at 24:1 as the ground of divorce.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 24:1; Leviticus 15:16.
+
 ### Ox and donkey, and a defiled vineyard — Deuteronomy 22:9–10
 
 WEB's *"lest all the fruit be defiled"* (9) is not the vocabulary of uncleanness: the verb is
@@ -646,6 +658,8 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the defective firstling eaten by clean and unclean alike (22).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the body left on the tree would defile the land.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–10; WEB's *defiled* is Hebrew *become holy*; clean ox and unclean donkey under one yoke.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:10–14; the man unclean by night, and the camp kept
+  clean.
 
 ## Related themes
 

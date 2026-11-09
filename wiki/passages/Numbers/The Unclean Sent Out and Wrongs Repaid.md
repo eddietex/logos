@@ -109,6 +109,8 @@ verses 2–4.
 - Numbers 19:11–22 — cleansing from contact with the dead *(not yet ingested; stored WEB)*.
 - [[The War Against Midian]] — Numbers 31:19, seven days outside the camp after battle.
 - [[The Passover in the Second Year]] — Numbers 9:6; men unclean by the dead before Moses and Aaron
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:10–14; the man unclean by night outside the war
+  camp until sunset.
 
 ## Notes
 

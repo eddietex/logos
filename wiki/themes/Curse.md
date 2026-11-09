@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The curse turned — Deuteronomy 23:4–5
+
+Ammon and Moab *"hired against you Balaam … to curse you"* (4). *"Nevertheless Yahweh your God wouldn't
+listen to Balaam; but Yahweh your God turned the curse into a blessing to you, because Yahweh your God
+loved you"* (5). The verb is *hāpak*, *overturn*, the verb of Sodom's overthrow (Genesis 19:25;
+Deuteronomy 29:23) (WLC). Nehemiah 13:2 repeats the clause. See
+[[The Blessed People and the Purchased Curse]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 29:23; Genesis 19:25;
+Nehemiah 13:2 checked at bible-api.com (WEB).
+
 ### Accursed of God — Deuteronomy 21:23
 
 *"He who is hanged is accursed of God"* (23); the Hebrew *qilelat ʾĕlōhîm tālûy* can be read *cursed
@@ -341,6 +352,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[The Field of the Sluggard]] — Proverbs 24:24–25, 30–31; The partial judge cursed by the peoples; the field left to thorns.
 - [[Answer a Fool]] — Proverbs 26:2; The undeserved curse, like a darting bird, does not come to rest.
 - [[The Suspected Wife]] — Numbers 5:11–31; the curse written, washed, and drunk.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; the hired curse turned into a blessing.
 
 ## Related themes
 

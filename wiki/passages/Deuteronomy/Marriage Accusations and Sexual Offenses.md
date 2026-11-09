@@ -238,6 +238,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   women"*.
 - 1 Corinthians 5:1 *(not yet ingested; WEB checked at bible-api.com)* — *"that one has his father's
   wife"*.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14; the next pericope, beginning after 22:30
+  (WLC 23:1) with who may enter Yahweh's assembly.
 
 ## Notes
 

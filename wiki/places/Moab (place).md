@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### Excluded from the assembly — Deuteronomy 23:3–6
+
+The Moabite is barred from Yahweh's assembly *"even to the tenth generation"* (3), for not meeting
+Israel *"with bread and with water on the way"* and for hiring Balaam (4). **Tension retained:**
+Deuteronomy 2:29 has the Moabites *"who dwell in Ar"* doing for Israel what Moses asked of Sihon,
+selling food and water. Whether *"meet"* means a gift rather than a sale, or the two verses remember
+different encounters, the text does not say. Nehemiah 13:1–3 has the law read and enforced; Ruth the
+Moabitess stands on the other side. See [[Moab and Ammon - The Two Nations Born in the Cave]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 2:9, 29.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Moabites living in Ar are cited alongside Esau’s descendants as a precedent in the request for paid
@@ -242,6 +253,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 - [[The Song of the Sea]] — Exodus 15:15; **its mighty men trembling.** *"Trembling takes hold of the mighty men of Moab"*
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:1–15; contextual setting.
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; contextual setting.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Moabite excluded from Yahweh's assembly.
 
 ## Related places
 

@@ -11,6 +11,15 @@ status: in-progress
 
 ## Overview
 
+[[The Assembly and the Holy Camp]] (23:1–14) draws two boundaries around a gathering where Yahweh is
+present. No man *"emasculated by crushing or cutting"*, no *mamzēr*, and no Ammonite or Moabite *"even
+to the tenth generation"* may *"enter into Yahweh's assembly"* — the last because they *"didn't meet you
+with bread and with water"* and hired Balaam, whose curse *"Yahweh your God turned … into a blessing to
+you, because Yahweh your God loved you"*. The Edomite, *"your brother"*, and the Egyptian, *"because you
+lived as a foreigner in his land"*, enter in the third generation. In the war camp the man unclean by
+night stays outside until sunset and excrement is buried, *"for Yahweh your God walks in the middle of
+your camp"*. That 2:29 has Moab selling Israel food is recorded, not resolved.
+
 [[Marriage Accusations and Sexual Offenses]] (22:13–30) gives seven cases about a woman's status. A husband who *"hates"* his
 bride and gives her *"a bad name"* is answered by her parents, who *"spread the cloth before the elders of
 the city"*; if he lied he is chastised, fined a hundred shekels, and *"may not put her away all his days"*,
@@ -278,7 +287,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **47 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **48 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -327,7 +336,7 @@ Plan drawn 2026-11-05 from the stored WEB. **47 / 69 pericopes ingested.**
 - [x] [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23
 - [x] [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12
 - [x] [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30
-- [ ] The Assembly and the Holy Camp — Deuteronomy 23:1–14
+- [x] [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14
 - [ ] Fugitives Interest Vows and a Neighbor's Produce — Deuteronomy 23:15–25
 - [ ] Divorce Remarriage and the Newlywed — Deuteronomy 24:1–5
 - [ ] Pledges Wages Justice and Gleaning — Deuteronomy 24:6–22
@@ -399,6 +408,8 @@ Plan drawn 2026-11-05 from the stored WEB. **47 / 69 pericopes ingested.**
 - [[Sexual Sin]]
 - [[Folly]]
 - [[Language and Speech]]
+- [[Hospitality]]
+- [[Walking with God]]
 
 ## Key people
 - [[God]]
@@ -406,6 +417,7 @@ Plan drawn 2026-11-05 from the stored WEB. **47 / 69 pericopes ingested.**
 - [[Sihon]]
 - [[Og]]
 - [[Levi]]
+- [[Balaam]]
 
 ## Key places
 - [[Moab (place)]]
@@ -413,3 +425,5 @@ Plan drawn 2026-11-05 from the stored WEB. **47 / 69 pericopes ingested.**
 - [[Horeb]]
 - [[Egypt]]
 - [[Kadesh]]
+- [[Edom]]
+- [[Ammon]]

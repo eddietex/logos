@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### His descendants excluded — Deuteronomy 23:3–6
+
+*"An Ammonite or a Moabite shall not enter into Yahweh's assembly; even to the tenth generation"* (3).
+Moab himself is not named. The reasons are the refusal of bread and water and the hire of Balaam (4);
+Deuteronomy 2:29 had said the Moabites in Ar sold Israel food and water, and the tension is recorded on
+the passage page. See [[Moab and Ammon - The Two Nations Born in the Cave]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 2:29.
+
 **A man who exists in Scripture as one clause and a nation.**
 
 > **37** The firstborn bore a son, and named him Moab. He is the father of the Moabites to this day.
@@ -59,6 +68,8 @@ ambiguous to Obsidian and invisible to `scripts/link-check.sh`.
 ## Appears in
 
 - [[Lot and His Daughters]] — Genesis 19:37; his only verse
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; not named; the Moabite excluded from the
+  assembly.
 
 ## Related people
 

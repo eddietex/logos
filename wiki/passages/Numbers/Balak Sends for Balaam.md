@@ -74,6 +74,8 @@ Balaam saddles his donkey and departs (15–21).
 - [[The Blessed People and the Purchased Curse]] — Genesis 12 and Numbers 6 compared with the refused curse.
 - [[Yes, He Will Be Blessed - The Irrevocable Word]] — Balak’s claim distinguished from God’s answer.
 - [[Divination in Genesis - Laban's Nahash and Joseph's Cup]] — rewards and divine speech distinguished.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; the hire remembered, and the curse turned
+  into a blessing.
 
 ## Notes
 

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh walks in the camp — Deuteronomy 23:14
+
+*"For Yahweh your God walks in the middle of your camp, to deliver you, and to give up your enemies
+before you"* (14). The participle *mithallēk* is the form of Genesis 3:8, and the stem of Leviticus
+26:12's *"I will walk among you"* (WLC). The presence is in the army camp, and its consequence is
+practical: the camp must be kept so that he will not *"see an unclean thing in you, and turn away from
+you"*. The assembly of 23:1–8, from which some are excluded, is likewise *qǝhal YHWH*, *Yahweh's*
+assembly. See [[Yahweh Walks in the Camp - Genesis 3.8, Leviticus 26.12, and Deuteronomy 23.14]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 The wooden ark receives the covenant tablets and is borne by Levi (1–5, 8). No tabernacle
@@ -684,6 +695,8 @@ The Dweller stays in the camp with the ark. The people who leave are the ones to
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten where Yahweh causes his name to dwell.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling eaten before Yahweh at the place.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the place where his name dwells, for Passover, weeks, and tents (2, 6, 11, 16).
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; *"Yahweh your God walks in the middle of your
+  camp"*.
 
 ## Related themes
 

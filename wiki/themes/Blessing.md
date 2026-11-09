@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A curse turned into a blessing — Deuteronomy 23:5
+
+*"Yahweh your God turned the curse into a blessing to you, because Yahweh your God loved you"* (5). The
+blessing is not something Israel earned or asked for; its ground is Yahweh's love, the reason 7:8 gives
+for the Exodus. The same act is the ground for excluding the nations that bought the curse.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 7:8.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Blessing in Yahweh’s name is one of Levi’s appointed functions (8). The verse gives neither a spoken
@@ -755,6 +763,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; blessing as the measure of the gift (14) and the reward of release (18).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; blessing as the measure of the festival gift (10, 17) and the ground of joy (15).
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:7; the mother bird let go, *"that it may be well with you"*.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; the curse turned into a blessing.
 
 ## Related themes
 

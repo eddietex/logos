@@ -50,6 +50,17 @@ with God goes with not being destroyed.
 
 ## Development across Scripture
 
+### God walking among his people — Deuteronomy 23:14
+
+Here the walking is God's: *"Yahweh your God walks in the middle of your camp"* (14). In the Torah the
+hithpael of *hālak* has God as subject only here, at Genesis 3:8, and at Leviticus 26:12 (WLC morphology
+search); its other uses are people who *"walked with God"* or walk *"before"* him. The human walk
+answers a divine one. See
+[[Yahweh Walks in the Camp - Genesis 3.8, Leviticus 26.12, and Deuteronomy 23.14]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; Genesis 3:8; Leviticus
+26:12.
+
 ### Walking in all his ways — Deuteronomy 11:18–32
 
 The condition of possession includes *"to walk in all his ways, and to cling to him"* (22). The curse is defined as turning *"out of the way"* (28), so the image of a path frames both outcomes.
@@ -314,6 +325,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The March from Sinai]] — Numbers 10:33–36; the people move as the ark moves.
 - [[The Defeat at Hormah]] — Numbers 14:43; *you turned back from following Yahweh*
 - [[The Law for the King]] — Deuteronomy 17:14–20; not turning right or left from the commandment (20).
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; Yahweh *mithallēk*, walking in the camp.
 
 ## Related themes
 

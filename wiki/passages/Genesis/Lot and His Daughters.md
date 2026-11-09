@@ -308,6 +308,8 @@ about disappears from the book without their meeting again. The two of them last
 - Nehemiah 13:1–3 — Deuteronomy 23 read aloud and enforced, four centuries after Ruth.
 - Matthew 1:5 — Ruth in the genealogy of Jesus.
 - 2 Peter 2:7–8 — *"righteous Lot"*, and no narrative attached.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Ammonite and the Moabite excluded from
+  Yahweh's assembly *"even to the tenth generation"*.
 
 ## Notes
 

@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### Who may enter the assembly — Deuteronomy 23:3–8
+
+Four nations, sorted by their history with Israel. The Ammonite and the Moabite are excluded from
+Yahweh's assembly *"even to the tenth generation … forever"*, for not meeting Israel with bread and
+water and for hiring Balaam (3–4), and Israel is not to *"seek their peace nor their prosperity"* (6).
+The Edomite is not to be abhorred, *"for he is your brother"*, and the Egyptian, *"because you lived as
+a foreigner in his land"*; their children enter in the third generation (7–8). The same book protects
+Ammon's and Moab's land (2:9, 19). Isaiah 56:3–7 later promises the foreigner who holds fast to the
+covenant a place in Yahweh's house. See
+[[The Eunuch and the Foreigner - Deuteronomy 23.1-8 and Isaiah 56.3-7]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 2:9, 19; Isaiah 56:3–7
+checked at bible-api.com (WEB).
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The nations are stronger than Israel, with fortified cities and the tall Anakim (1–2). Their wickedness explains expulsion (4–5); the unit names no new nation and supplies no list of specific offenses.
@@ -640,6 +654,8 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[The Law for the King]] — Deuteronomy 17:14–20; *"like all the nations"* (14); no foreigner as king (15).
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–14; the nations' diviners, and why they are driven out.
 - [[Laws for Going to War]] — Deuteronomy 20:10–18; distant cities and the cities of the six peoples.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–8; Ammon and Moab excluded, Edom and Egypt
+  admitted in the third generation.
 
 ## Related themes
 

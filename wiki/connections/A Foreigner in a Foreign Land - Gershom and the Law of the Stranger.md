@@ -35,8 +35,19 @@ tags: [connection]
   and to the stranger who lives as a foreigner among you."* **The first law about the *gēr*, given before
   the ethic of 22:21** — [[The Death of the Firstborn and the Departure]],
   [[One Law for the Native and the Stranger]]
+- **Deuteronomy 23:7** — [[The Assembly and the Holy Camp]]; *"You shall not abhor an Egyptian, because
+  you lived as a foreigner in his land"*
 
 ## Analysis
+
+### The memory applied to Egypt — Deuteronomy 23:7
+
+Everywhere else the memory of being *gēr* in Egypt grounds Israel's treatment of the stranger among
+them. Deuteronomy 23:7 applies it to the Egyptian himself: *"You shall not abhor an Egyptian, because
+you lived as a foreigner in his land"* (*kî-gēr hāyîtā bǝʾarṣô*, WLC 23:8). The sojourn is remembered in
+Egypt's favour, and the Egyptian's grandchildren may enter Yahweh's assembly (8).
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:7–8.
 
 ### The requirement now ingested
 

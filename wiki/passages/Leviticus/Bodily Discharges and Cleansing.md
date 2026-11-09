@@ -74,6 +74,8 @@ same community, without every bodily process being named a moral transgression.
 - [[Washing and Life Before the Sanctuary - Exodus 30 and Leviticus 15]] — washing and the warning against death beside divine presence.
 - [[The Cleansing of the Leper]] — another seven-day and eighth-day restoration sequence.
 - [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] — Numbers 5:2 sends out those with an issue; this chapter names no camp.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:10–11; the emission of 15:16, with removal from
+  the war camp until sunset.
 
 ## Notes
 

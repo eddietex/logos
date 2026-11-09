@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Edomite not abhorred — Deuteronomy 23:7–8
+
+*"You shall not abhor an Edomite; for he is your brother"* (7); his children enter Yahweh's assembly in
+the third generation (8). The verb is *tāʿab*, the root of *tôʿēbâ*, *abomination* (WLC 23:8). The law
+sets kinship above the refusal of passage in Numbers 20:14–21.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Esau’s descendants in Seir are cited as having done for Moses what he asks of Sihon (29). **Apparent
@@ -179,6 +187,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
   *chief*, occurs here and in the Chronicler's copy of this list more than in the rest of the Hebrew
   Bible together. **God is not mentioned anywhere in it**
 - [[The Song of the Sea]] — Exodus 15:15; **its chiefs dismayed.** *"Then the chiefs of Edom were dismayed"*
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:7–8; the Edomite admitted in the third generation.
 
 ## Related places
 

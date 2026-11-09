@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Named in the exclusion of Ammon and Moab — Deuteronomy 23:4
+
+*"Balaam the son of Beor from Pethor of Mesopotamia"* (4). Beor appears only in his son's patronymic, as
+in Numbers 22:5. Nothing further is said of him.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 Balaam identifies himself as Beor’s son in both oracle introductions (24:3, 15). Beor is a
@@ -31,6 +38,7 @@ this page retains the relationship qualifier.
 
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; in Balaam's patronymic.
 
 ## Related people
 

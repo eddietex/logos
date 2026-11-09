@@ -88,6 +88,8 @@ Complete unit, copied verbatim from stored WEB Deuteronomy 2:24–37.
 - [[Pharaoh and Sihon - Hardened Hearts and Defeated Kings]]
 - [[Edom and Sihon - Refused Passage and Different Outcomes]]
 - [[Protected Lands and Refused Passage - Numbers 20 and Deuteronomy 2]]
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Ammon and Moab *"didn't meet you with bread and
+  with water"*, against 2:29's Moabites who sold them.
 
 ## Notes
 

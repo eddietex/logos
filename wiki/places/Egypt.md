@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### The Egyptian not abhorred — Deuteronomy 23:7–8
+
+*"You shall not abhor an Egyptian, because you lived as a foreigner in his land"* (7). The ground is the
+sojourn, not the slavery — *gēr*, the word of 10:19, *"you were foreigners in the land of Egypt"*.
+Genesis 43:32 had the Egyptians holding table-fellowship with Hebrews *"an abomination"*; Deuteronomy
+uses the verb of that noun to forbid Israel the reverse. The Egyptian's children enter Yahweh's assembly
+in the third generation (8). See
+[[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 10:19; Genesis 43:32.
+
 ### Left by night and in haste — Deuteronomy 16:1–17
 
 *"Yahweh your God brought you out of Egypt by night"* (16:1); *"you came out of the land of Egypt in haste"* (3). Egypt is the memory of the Passover and its bread, and the place where Israel *"was a slave"* (12).
@@ -699,6 +710,8 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; left *"by night"* (1) and *"in haste"* (3); remembered as the land of slavery (12).
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king must not send the people back there for horses (16).
 - [[Laws for Going to War]] — Deuteronomy 20:1; Yahweh *"brought you up out of the land of Egypt"*, the ground of courage before horses and chariots.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4, 7–8; *"when you came out of Egypt"*; the
+  Egyptian not abhorred.
 
 ## Related places
 

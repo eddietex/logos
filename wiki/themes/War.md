@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The camp against your enemies — Deuteronomy 23:9–14
+
+*"When you go out and camp against your enemies, then you shall keep yourselves from every evil thing"*
+(9). The army's camp is to be holy: the man unclean by night goes outside until sunset, and the latrine
+is outside the camp, a trowel carried *"among your weapons"*. Victory is Yahweh's, who *"walks in the
+middle of your camp, to deliver you, and to give up your enemies before you"* (14), and the danger named
+is not the enemy but that he may *"turn away from you"*. Compare 20:4, *"Yahweh your God is he who goes
+with you"*.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 20:4.
+
 ### The captive taken in battle — Deuteronomy 21:10–14
 
 *"When you go out to battle … and you carry them away captive"* (10). The law of war in chapter 20
@@ -591,6 +602,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; an apostate Israelite town devoted to destruction (13:12–18).
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered to distant cities, *ḥērem*, and the fruit trees.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman taken in battle, a month's mourning, and no sale.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; the holy war camp.
 
 ## Related themes
 

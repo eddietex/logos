@@ -76,6 +76,8 @@ for those excluded.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:21; *pissēaḥ* and *ʿiwwēr*, *lame* and *blind*, the
   pair of 21:18, now naming a firstling unfit for the altar; the two occur together in the Torah only
   in these verses (morphhb).
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:1; the emasculated man kept out of Yahweh's
+  assembly, in other words than 21:20.
 
 ## Notes
 

@@ -111,6 +111,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - 2 Corinthians 6:16 — *"I will dwell in them, and walk in them; and I will be their God, and they
   will be my people"* (WEB, bible-api.com). The wording is close to 26:11–12 and is not identical to
   it; other Old Testament texts may stand behind it, and the Greek was not checked in this pass.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; *"Yahweh your God walks in the middle of your
+  camp"*, the verb of 26:12.
 
 ## Notes
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### "He is your brother" — Deuteronomy 23:7–8
+
+*"You shall not abhor an Edomite; for he is your brother"* (7). The Edomite is admitted to Yahweh's
+assembly in the third generation (8), while Ammon and Moab are excluded to the tenth. The ground is
+kinship alone, with no mention of Edom's refusal of passage (Numbers 20:14–21). See
+[[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 His descendants in Seir are cited as a precedent for what Moses requests from Sihon (29). This
@@ -288,6 +297,7 @@ father of the Edomites"* (36:43). **After it he is not mentioned in the book aga
   any. It is the fourth and last run of the book's habit of dealing with the other line first, and
   the longest by six times. **God is not mentioned in it**, and the charter of 27:39–40 is never
   connected to the nation that fulfils it
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:7–8; not named; the Edomite *"is your brother"*.
 
 ## Related people
 

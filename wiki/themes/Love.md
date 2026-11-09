@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Because Yahweh your God loved you — Deuteronomy 23:5
+
+The reversal of Balaam's curse is explained by love alone: *"because Yahweh your God loved you"* (5), as
+at 7:8, *"because Yahweh loves you"*. The verse names love as the reason for the blessing; it does not
+set love against the exclusion of Ammon and Moab that it grounds.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 7:8.
+
 ### The beloved and the hated wife in law — Deuteronomy 21:15–17
 
 The law names the wives *"the one beloved, and the other hated"* (15), the comparative idiom of Genesis
@@ -715,6 +723,7 @@ Source: stored WEB Song 8:13–14.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; love for Yahweh tested (13:3) and set above family and friend (13:6).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the servant who stays *"because he loves you and your house"* (16).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; *"the one beloved, and the other hated"*, and the protected firstborn.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; *"because Yahweh your God loved you"*.
 
 ## Related themes
 

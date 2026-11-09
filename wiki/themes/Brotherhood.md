@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Edomite your brother — Deuteronomy 23:7
+
+*"You shall not abhor an Edomite; for he is your brother"* (7). Kinship outweighs Edom's refusal of
+passage (Numbers 20:14–21), which the law does not mention. The Edomite enters the assembly in the third
+generation (8), against Ammon's and Moab's tenth, though Moab and Ammon are also kin, *"the children of
+Lot"* (2:9, 19). Deuteronomy calls Edom *brother* (2:4, 8; 23:7) and never calls Moab or Ammon so (stored WEB). See
+[[Your Brother Israel - Esau Welcomes Jacob and Edom Refuses Passage]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; 2:9, 19.
+
 ### Your brother's ox — Deuteronomy 22:1–4
 
 Where Exodus 23:4–5 required the return of *"your enemy's ox"* and help with *"the donkey of him who
@@ -424,6 +434,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:18–19; the false witness *"testified falsely against his brother"*.
 - [[Laws for Going to War]] — Deuteronomy 20:8; the fearful man sent home *"lest his brother's heart melt"*.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–4; the brother's straying ox, lost garment, and fallen donkey.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"he is your brother"*.
 
 ## Related themes
 

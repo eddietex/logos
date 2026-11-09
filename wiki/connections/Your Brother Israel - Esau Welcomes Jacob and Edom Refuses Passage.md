@@ -11,8 +11,19 @@ tags: [connection]
 
 - [[The Reconciliation with Esau]] — Genesis 33:1–17.
 - [[Edom Refuses Passage]] — Numbers 20:14–21.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:7–8.
 
 ## Analysis
+
+### Deuteronomy 23 now ingested
+
+*"You shall not abhor an Edomite; for he is your brother"* (23:7). The law grounds Edom's admission to
+Yahweh's assembly in the third generation (8) on kinship alone and does not mention the refusal of
+Numbers 20. Ammon and Moab, also kin through Lot, are excluded to the tenth generation for refusing
+bread and water (23:3–4). The law weighs Edom's refusal of passage less than Ammon and Moab's refusal of
+provisions, and it does not say why.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:3–8.
 
 ### Deuteronomy 2 now ingested
 

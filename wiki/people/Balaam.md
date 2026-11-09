@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Hired to curse, remembered — Deuteronomy 23:4–5
+
+Deuteronomy gives Balaam one sentence and calls the transaction a hire: Ammon and Moab are excluded from
+the assembly *"because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to
+curse you"* (4). Numbers 22:7 had the elders bring *"the rewards of divination"* without the verb
+*hire*. The verse recalls only the hiring; it does not mention the counsel of Peor (Numbers 31:16).
+*"Nevertheless Yahweh your God wouldn't listen to Balaam; but Yahweh your God turned the curse into a
+blessing to you, because Yahweh your God loved you"* (5). Nehemiah 13:2 repeats the clause. See
+[[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]].
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:1–14; Numbers 22:7.
+
 ### His death, and the counsel of Peor — Numbers 31:1–54
 
 Balaam is killed *with the sword* among the Midianites (8), though 24:25 had him return *to his place*;
@@ -66,6 +78,8 @@ not yet say that Balaam accepted payment.
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; hired against Israel, the curse turned to
+  blessing.
 
 ## Related people
 

@@ -196,6 +196,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - 1 Kings 9:20–21 *(not yet ingested; WEB checked at bible-api.com)* — Solomon's levy of the peoples Israel
   *"were not able utterly to destroy"*.
 - 2 Kings 3:19, 25 *(not yet ingested; WEB checked at bible-api.com)* — *"fell every good tree"*.
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; the army's camp kept holy, *"for Yahweh your
+  God walks in the middle of your camp"*.
 
 ## Notes
 

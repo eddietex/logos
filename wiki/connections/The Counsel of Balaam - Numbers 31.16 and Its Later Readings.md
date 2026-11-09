@@ -11,8 +11,7 @@ tags: [connection]
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18; Peor narrated, with no mention of Balaam.
 - [[The War Against Midian]] — Numbers 31:8, 16; Balaam killed among Midian, and named as the source of
   *the counsel* at Peor.
-- Deuteronomy 23:4 — Moab and Ammon excluded *because they hired against you Balaam the son of Beor …
-  to curse you* (WEB via bible-api.com, not yet ingested).
+- [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; Moab and Ammon excluded *"because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you"*.
 - Joshua 13:22 — *The children of Israel also killed Balaam the son of Beor, the soothsayer, with the
   sword, among the rest of their slain* (WEB via bible-api.com, not yet ingested).
 - 2 Peter 2:15 — false teachers *followed the way of Balaam the son of Beor, who loved the wages of
@@ -22,6 +21,16 @@ tags: [connection]
   bible-api.com, not yet ingested).
 
 ## Analysis
+
+### Deuteronomy 23 now ingested
+
+The stored WEB confirms the reading recorded below: Deuteronomy 23:4 remembers only the hiring to curse,
+and 23:5 adds that Yahweh *"wouldn't listen to Balaam"* and *"turned the curse into a blessing"*.
+Nothing in the verse touches Peor. Deuteronomy calls the transaction a hire (*śākar*, WLC 23:5), where
+Numbers 22:7 had *"the rewards of divination"*, and it joins Ammon to Moab as the hirers, which Numbers
+does not.
+
+See [[The Assembly and the Holy Camp]]. Source: stored WEB Deuteronomy 23:4–5; Numbers 22:7.
 
 **Numbers tells the Balaam story twice, and the second telling changes him.** Chapters 22–24 end with
 Balaam having blessed Israel three times and gone home (24:25). Chapter 25 follows with Peor and does not
