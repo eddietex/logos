@@ -91,6 +91,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]] — 23:22;
+  Deuteronomy 24:19–21 in [[Pledges, Wages, Justice, and Gleaning]] names the foreigner, the fatherless, and the widow.
 - [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]] — the harvest feast
   receives a detailed count and offerings here; Exodus 34:22 names Weeks.
 - [[Leavened Bread with Thanksgiving - Leviticus 2 and 7]] — chapter 23 adds leavened

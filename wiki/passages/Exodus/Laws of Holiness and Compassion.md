@@ -163,7 +163,8 @@ but *"cast it to the dogs"* (22:31).
 - Leviticus 25:35–37; Deuteronomy 23:19–20; Psalm 15:5; Ezekiel 18:8; Nehemiah 5:7 — lending
   without interest: [[Lending Without Interest - Exodus 22.25 and the Poor Brother]].
 - Deuteronomy 24:10–13; Amos 2:8; Job 22:6; 24:7–10 — the pledged cloak:
-  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]].
+  [[Bread to the Hungry and Clothing to the Naked - Job 22.6-9, Job 31, and Matthew 25]];
+  [[Pledges, Wages, Justice, and Gleaning]]; [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]].
 - Exodus 34:6 — *"merciful and gracious"*, the adjective of 22:27 in God's own name *(not yet
   ingested)*.
 - Genesis 12:3 — the same two verbs for *curse* as 22:28: [[The Call of Abram]].

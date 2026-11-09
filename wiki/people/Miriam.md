@@ -70,7 +70,9 @@ recorded words and actions. See [[Miriam and Aaron Against Moses]] and [[Remembe
 ### What is ahead
 
 Her death at Kadesh is now ingested in [[The Waters of Meribah]] (Numbers 20:1).
-Looking ahead, Deuteronomy 24:9 tells Israel to remember what Yahweh did to her; and Micah names her with her brothers among the leaders God sent: *"I sent before you
+Deuteronomy 24:9 tells Israel to remember what Yahweh did to her, in a law on leprosy and the priests'
+teaching, and with the same frame as the command to remember Amalek (25:17); see
+[[Pledges, Wages, Justice, and Gleaning]]. Looking ahead, Micah names her with her brothers among the leaders God sent: *"I sent before you
 Moses, Aaron, and Miriam"* (Micah 6:4). These sections are written as their pericopes arrive.
 
 **She is not in the genealogy of 6:14–27.** Amram and Jochebed's children are given as *"Aaron and
@@ -98,6 +100,7 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 - [[The Song of the Sea]] — Exodus 15:20–21; **named for the first time.** *"Miriam the prophetess, the
   sister of Aaron"*; the tambourine; *"all the women went out after her"*; *"Sing to Yahweh"*
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–16; speaks against Moses, is struck, and is shut out seven days
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:9; *"Remember what Yahweh your God did to Miriam, by the way as you came out of Egypt"*
 
 ## Related people
 

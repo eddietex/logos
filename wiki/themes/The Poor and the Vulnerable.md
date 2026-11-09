@@ -477,6 +477,17 @@ his neighbor, and kills him"* (26). *ʾÊn môšîaʿ*, *no one to save*, comes 
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### What the poor cannot do without for a day — Deuteronomy 24:6–22
+
+The chapter protects one thing after another: the household mill, *"for he takes a life in pledge"* (6);
+the poor man's pledged garment, returned *"when the sun goes down, that he may sleep in his garment"*
+(13); the hired man's wage, paid *"in his day"*, *"for he is poor, and sets his heart on it"* (15); the
+court's judgment for the foreigner and fatherless, and the widow's clothing, never taken (17); and the
+forgotten sheaf, the olives, and the grapes left *"for the foreigner, for the fatherless, and for the
+widow"* (19–21). *ʿĀnî*, *poor*, occurs three times (12, 14, 15) (WLC). See [[Pledges, Wages, Justice, and Gleaning]],
+[[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]], and
+[[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
@@ -579,6 +590,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Levite, foreigner, fatherless, and widow rejoicing at the feasts (11, 14).
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:25–27; the pledged woman in the field, *"no one to save her"*.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–20; the fugitive protected, the brother lent to freely.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22; the mill, the pledge, the wage, the widow's garment, and the gleanings.
 
 ## Related themes
 

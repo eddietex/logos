@@ -387,6 +387,13 @@ are identified on the passage and connection pages.
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### The kidnapper and the refrain — Deuteronomy 24:7, 18, 22
+
+24:7 restates Exodus 21:16 with *gōnēb nepeš*, *one who steals a life*, and narrows it to *"any of his
+brothers of the children of Israel"*, whom the thief *"deals with … as a slave, or sells"*. The verb
+*hitʿammēr* occurs in the Torah only here and at 21:14, the captive wife (WLC). The chapter twice grounds
+its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
@@ -675,6 +682,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Laws for Going to War]] — Deuteronomy 20:11; the surrendered city's people become *"forced laborers"*.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:14; the dismissed captive wife may not be sold or treated as a slave.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–16; the runaway not handed back, choosing his own town.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7, 18, 22; the kidnapper of a brother, and the slave refrain.
 
 ## Related themes
 

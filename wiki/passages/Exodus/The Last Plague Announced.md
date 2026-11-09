@@ -319,7 +319,7 @@ clause also repeats the end of the hail: *"he didn't let the children of Israel 
 - Exodus 33:12–17 — *ḥēn* and *pālâ* in Moses' plea *(not yet ingested)*
 - [[The Seventy Elders and the Quail]] — Numbers 11:8; the manna ground *"in mills"*
 - [[Miriam and Aaron Against Moses]] — Numbers 12:3; *"the man Moses was very humble"*
-- Deuteronomy 24:6 — *"No man shall take the mill … as a pledge"* *(not yet ingested)*
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6; *"No man shall take the mill … as a pledge"*
 - Deuteronomy 29:24 — *"the heat of this great anger"* *(not yet ingested)*
 - Joshua 10:21 — *"None moved his tongue against any of the children of Israel"* *(not yet ingested)*
 - Exodus 12:1–28 — the rite given between the announcement and the blow — [[The Passover]]

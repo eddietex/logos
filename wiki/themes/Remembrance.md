@@ -608,6 +608,14 @@ Yahweh* (54), the phrase used of the census silver at Exodus 30:16.
 
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
+### Remember Miriam, remember Egypt, leave the forgotten sheaf — Deuteronomy 24:9, 18–22
+
+*Zākôr*, the infinitive absolute, occurs in Deuteronomy at 7:18 (Pharaoh), 24:9 (Miriam), and 25:17
+(Amalek), and 24:9 and 25:17 share their frame word for word (WLC). The chapter also uses the slave
+refrain twice (18, 22). Between them stands the one sheaf Israel is told to leave forgotten (19), with
+*šākaḥ*, the verb of Deuteronomy's warnings not to forget Yahweh (6:12). See [[Pledges, Wages, Justice, and Gleaning]] and
+[[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; laid-up words, bound signs, and door-post writing as means of memory (18–20).
@@ -880,6 +888,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"You shall remember that you were a slave in the land of Egypt"* (15).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; *"that you may remember the day when you came out"* (3); *"remember that you were a slave"* (12).
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:12; the fringes restated without Numbers' reminder clause.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:9, 18–22; Miriam remembered, Egypt remembered, the sheaf forgotten.
 
 ## Related themes
 

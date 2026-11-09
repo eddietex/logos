@@ -92,7 +92,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   [[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]].
 - Deuteronomy 26:12–15 — the third-year tithe given and declared before Yahweh; not yet ingested.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14; the same dependants at the feasts, now at the place.
-  Deuteronomy 24:19, the forgotten sheaf, is not yet ingested. See
+  Deuteronomy 24:19, the forgotten sheaf, is in [[Pledges, Wages, Justice, and Gleaning]]. See
   [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].
 - [[The Tithe Before the Law]] — the tithes of Abram and Jacob, and the tithe's later history.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the next pericope, the year of release, opening with the related phrase *"at the end of every seven years"* and repeating the promise of blessing on the work of the hand (15:10).

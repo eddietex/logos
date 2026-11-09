@@ -149,7 +149,7 @@ from a danger the owner knew about (21:33–36).
 - Genesis 9:5–6; Exodus 20:12–13 — the demand for human life, honoring parents, and the prohibition
   of murder become differentiated cases: [[Whoever Sheds Man's Blood]] and [[The Ten Commandments]].
 - Genesis 37:26–28; 40:15; Deuteronomy 24:7 — captivity and sale:
-  [[Kidnapping and Sale - Joseph and the Law of Exodus 21]].
+  [[Kidnapping and Sale - Joseph and the Law of Exodus 21]]; [[Pledges, Wages, Justice, and Gleaning]].
 - Numbers 35:9–34 — refuge, judgment, and limits on ransom: [[A Place to Flee - Exodus 21 and Numbers 35]].
 - Leviticus 24:17–22; Matthew 5:38–42 — matching injury and Jesus' response:
   [[Eye for Eye - Exodus 21, Leviticus 24, and Matthew 5]].

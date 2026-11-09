@@ -12,7 +12,7 @@ tags: [connection]
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:7
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8
-- Deuteronomy 24:19 — the forgotten sheaf; not yet ingested
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:14, 17, 19–21
 - Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:16
 
@@ -77,6 +77,18 @@ gives him what it gives the *gēr*: *"You shall not oppress him"*, with the verb
 morphhb). See [[Where It Pleases Him Best - The Runaway Slave and the Place Yahweh Chooses]].
 
 See [[Fugitives, Interest, Vows, and a Neighbor's Produce]]. Source: stored WEB Deuteronomy 18:6; 23:15–16; Exodus 22:21.
+
+### The hired man, the court, and the field — Deuteronomy 24:14–21
+
+24:14 extends the wage law to the hired man *"whether he is one of your brothers, or one of the
+foreigners who are in your land within your gates"*: the *gēr* is paid on the same day as the Israelite.
+24:17 protects three of the four in court and at the creditor's door: *"You shall not deprive the
+foreigner or the fatherless of justice, nor take a widow's clothing in pledge"*. 24:19–21 then leaves the
+sheaf, the olives, and the grapes *"for the foreigner, for the fatherless, and for the widow"*, three
+times in three verses. The Levite is absent from all of chapter 24; he has his portion from the altar and
+the tithe. See [[Pledges, Wages, Justice, and Gleaning]] and
+[[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]]. Source: stored WEB
+Deuteronomy 24:14–21.
 
 ## Significance
 

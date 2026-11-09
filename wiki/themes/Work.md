@@ -754,6 +754,14 @@ forms checked for 29:1, 7, 35 in MAM via Sefaria. The text does not define the d
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### The day's wage — Deuteronomy 24:14–15
+
+*"You shall not oppress a hired servant who is poor and needy … In his day you shall give him his hire,
+neither shall the sun go down on it."* Leviticus 19:13 set the limit at morning; Deuteronomy sets it at
+sunset, and extends it to the foreigner *"within your gates"*. The withheld wage brings the worker's
+cry to Yahweh, *"and it be sin to you"*. See [[Pledges, Wages, Justice, and Gleaning]] and
+[[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
@@ -1028,6 +1036,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; six years' service set against *"a hired hand"* (18).
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; no work with the firstborn of the herd (19).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; no work on the seventh day (8); the feasts dated by the harvest (9, 13, 15).
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:14–15; the hired man paid before sunset.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

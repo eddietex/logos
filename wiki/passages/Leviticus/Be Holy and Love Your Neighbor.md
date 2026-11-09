@@ -81,6 +81,10 @@ vengeance and grudges are forbidden, and love of the neighbor as oneself is comm
 ## Cross-references
 
 - [[Blessings for Obedience]] — 26:1 and 19:4 share *ʾĕlîlîm*; Israel may not *turn* to idols, and Yahweh will *turn* to Israel (26:9).
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:14–15, 19–21; the hired man paid before
+  sunset, and the gleanings left for the foreigner, the fatherless, and the widow.
+- [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]] — 19:13.
+- [[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]] — 19:9–10.
 - [[Holiness in Worship and Neighborly Justice - Exodus 20-23 and Leviticus 19]]
 - [[Love Your Neighbor - Leviticus 19 and Matthew 22]]
 - [[Peace Offerings and Paid Vows - Proverbs 7.14 and Leviticus 7.16]]

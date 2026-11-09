@@ -720,6 +720,13 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 Exodus 23:33, where the nations *"make you sin against me"* (WLC). Here the land, not a person, is the
 one made to sin. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
 
+### *"It be sin to you"* — Deuteronomy 24:15–16
+
+*Wǝhāyâ bǝkā ḥēṭʾ* occurs in Deuteronomy at 15:9 (the loan refused), 23:21 (WLC 23:22, the vow unpaid),
+and 24:15 (the wage withheld) (WLC). In each case the sin is something kept back. The next verse uses
+the same noun for the sin no one else may die for: *"Every man shall be put to death for his own sin"*
+(16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
@@ -1016,6 +1023,7 @@ one made to sin. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored W
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused loan as *"sin to you"* (9).
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:21–22; the unpaid vow is sin, the unmade vow is not.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; *"You shall not cause the land to sin"*.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:15–16; the withheld wage as *"sin to you"*, and each man's own sin.
 
 ## Related themes
 

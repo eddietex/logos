@@ -11,6 +11,15 @@ status: in-progress
 
 ## Overview
 
+[[Pledges, Wages, Justice, and Gleaning]] (24:6–22) protects what a poor person cannot do without for a
+day. No one takes a household's mill in pledge, *"for he takes a life in pledge"*; a man who steals and
+sells an Israelite brother dies; Israel follows the priests on leprosy and remembers Miriam. The lender
+waits outside for the pledge and returns a poor man's garment at sunset, and it *"shall be righteousness
+to you before Yahweh your God"*. The hired man, Israelite or foreigner, is paid the same day. *"Every
+man shall be put to death for his own sin."* The widow's clothing is never pledged, and the forgotten
+sheaf, the olives, and the grapes are left for the foreigner, the fatherless, and the widow, because
+*"you were a slave in Egypt"*.
+
 [[Divorce, Remarriage, and the Newlywed]] (24:1–5) gives two laws about the end and the beginning of a marriage. A man
 who has sent his wife away with *"a bill of divorce"* *"may not take her again to be his wife"* after she
 has married another man, *"after that she is defiled; for that is abomination before Yahweh. You shall
@@ -302,7 +311,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **50 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **51 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -354,7 +363,7 @@ Plan drawn 2026-11-05 from the stored WEB. **50 / 69 pericopes ingested.**
 - [x] [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14
 - [x] [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25
 - [x] [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5
-- [ ] Pledges Wages Justice and Gleaning — Deuteronomy 24:6–22
+- [x] [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22
 - [ ] Justice Family Duty Honest Weights and Amalek — Deuteronomy 25:1–19
 - [ ] First Fruits and the Tithe Declaration — Deuteronomy 26:1–15
 - [ ] A People for Yahweh and a God for Israel — Deuteronomy 26:16–19
@@ -429,6 +438,8 @@ Plan drawn 2026-11-05 from the stored WEB. **50 / 69 pericopes ingested.**
 - [[Wealth and Possessions]]
 - [[Sin]]
 - [[Joy and Enjoyment]]
+- [[Work]]
+- [[Theft and Restitution]]
 
 ## Key people
 - [[God]]

@@ -834,6 +834,13 @@ The king *"shall not multiply horses to himself"* and *"shall not greatly multip
 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
+### Limits on the creditor — Deuteronomy 24:6, 10–13, 17
+
+The lender may take a pledge, but not the mill (6), not by entering the house (10–11), not overnight
+from a poor man (12–13), and not from a widow at all (17). *ʿĂbôṭ*, the pledge, occurs in the Torah only
+in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh your God"* (13). See
+[[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
@@ -1150,6 +1157,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the released servant furnished from flock, threshing floor, and wine press (13–14).
 - [[The Law for the King]] — Deuteronomy 17:14–20; no multiplying of horses, silver, or gold for the king (16–17).
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:18–25; tainted money, interest, vows, and the neighbor's crop.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6, 10–13, 17; what a creditor may not take.
 
 ## Related themes
 

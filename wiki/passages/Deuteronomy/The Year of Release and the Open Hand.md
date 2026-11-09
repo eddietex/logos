@@ -96,8 +96,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   [[The Hebrew Servant Goes Free - Exodus 21, Deuteronomy 15, and Jeremiah 34]].
 - Deuteronomy 23:19–20 — no interest from a brother, interest allowed from a foreigner; now ingested,
   see the last entry in this list.
-- Deuteronomy 24:15 — the day-labourer's wages, *"lest he cry against you to Yahweh, and it be sin
-  to you"*; not yet ingested.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:15; the day-labourer's wages, *"lest he cry
+  against you to Yahweh, and it be sin to you"*.
 - Deuteronomy 28:12, 44 — lending to many nations as blessing, and its reversal as curse; not yet
   ingested.
 - Deuteronomy 31:10 — the law read *"in the set time of the year of release"*; not yet ingested.

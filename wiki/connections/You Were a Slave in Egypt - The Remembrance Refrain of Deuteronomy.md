@@ -18,10 +18,10 @@ tags: [connection]
   You shall observe and do these statutes."* — [[Passover, Weeks, and Booths]]
 - **Deuteronomy 24:18** — justice for the foreigner and the fatherless, and the widow's clothing not
   taken in pledge: *"but you shall remember that you were a slave in Egypt, and Yahweh your God
-  redeemed you there. Therefore I command you to do this thing."* *(not yet ingested)*
+  redeemed you there. Therefore I command you to do this thing."* — [[Pledges, Wages, Justice, and Gleaning]]
 - **Deuteronomy 24:22** — the forgotten sheaf, the olive tree, and the vineyard left for the
   foreigner, the fatherless, and the widow: *"You shall remember that you were a slave in the land of
-  Egypt. Therefore I command you to do this thing."* *(not yet ingested)*
+  Egypt. Therefore I command you to do this thing."* — [[Pledges, Wages, Justice, and Gleaning]]
 
 ## Analysis
 

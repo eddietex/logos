@@ -627,6 +627,15 @@ remain together. See [[Every Work and Every Hidden Thing]].
 See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
+### Each for his own sin — Deuteronomy 24:16
+
+*"The fathers shall not be put to death for the children, neither shall the children be put to death for
+the fathers. Every man shall be put to death for his own sin."* The verb is the hophal of *mût*, the
+passive of judicial execution (WLC): the law binds human courts. 2 Kings 14:6 cites it. Its relation to
+5:9, *"visiting the iniquity of the fathers on the children"*, is left as Deuteronomy leaves it, and as
+this page has recorded it above. See [[Pledges, Wages, Justice, and Gleaning]] and
+[[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -956,6 +965,7 @@ comparison passages identified on that page.
 - [[The Glory of Kings]] — Proverbs 25:8–10, 16–17, 22; Social consequences, and Yahweh's repayment of the one who feeds his enemy.
 - [[Answer a Fool]] — Proverbs 26:3, 26–27; The rod for the fool's back, hidden hatred exposed, the pit and the stone that return on their makers.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:19, 21; *"as he had thought to do to his brother"*, and *"life for life, eye for eye"*.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:16; every man put to death for his own sin.
 
 ## Related themes
 

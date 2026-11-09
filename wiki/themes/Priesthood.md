@@ -682,6 +682,12 @@ in fifty from the congregation's half (30, 47).
 
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
+### The priests teach the leprosy law — Deuteronomy 24:8
+
+*"Do according to all that the priests the Levites teach you. As I commanded them, so you shall observe
+to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deuteronomy assigns the case to
+the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the landless Levite at the feast (12, 18–19).
@@ -878,6 +884,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:17; the priests and the judges *"before Yahweh"* in a disputed testimony.
 - [[Laws for Going to War]] — Deuteronomy 20:2–4; the priest addresses the army before battle.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:5; the priests come near, chosen to minister, bless, and decide controversies, but perform no act in the rite.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8; *"all that the priests the Levites teach you"*.
 
 ## Related themes
 

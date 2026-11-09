@@ -527,6 +527,13 @@ defiled"*: *huṭṭammāʾâ*, the only hotpaal (passive) of *ṭāmēʾ* in th
 or what defiled her is not said. The cause in 24:1 is *ʿerwat dābār*, the *"unclean thing"* of the camp
 in 23:14. In Deuteronomy *ṭāmēʾ* is otherwise used only of the land, at 21:23. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
 
+### The plague of leprosy — Deuteronomy 24:8
+
+*"Be careful in the plague of leprosy, that you observe diligently, and do according to all that the
+priests the Levites teach you."* *Ṣāraʿat* occurs in Deuteronomy only here (WLC). The book gives no
+procedure; it points back to Leviticus 13–14, *"As I commanded them"*, and to Miriam (9). See
+[[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; home slaughter eaten by unclean and clean alike (15, 22).
@@ -668,6 +675,7 @@ in 23:14. In Deuteronomy *ṭāmēʾ* is otherwise used only of the land, at 21:
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:10–14; the man unclean by night, and the camp kept
   clean.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1, 4; *ʿerwat dābār* and the wife *"defiled"* for her first husband.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8–9; leprosy left to the priests' teaching, and Miriam remembered.
 
 ## Related themes
 

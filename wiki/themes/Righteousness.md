@@ -421,6 +421,14 @@ death as proof of guilt. See
 See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; comparison sources
 are identified on the passage and connection pages.
 
+### A returned coat counted as righteousness — Deuteronomy 24:13
+
+*"You shall surely restore to him the pledge when the sun goes down, that he may sleep in his garment,
+and bless you. It shall be righteousness to you before Yahweh your God."* *Ṣǝdāqâ* in Deuteronomy: 6:25,
+the whole commandment kept; 9:4–6, three times, the land *not* given *"for your righteousness"*; 24:13;
+33:21 (WLC). 24:13 says it of a single act. How it relates to 9:4–6 the text does not say, and this page
+does not settle it. See [[Pledges, Wages, Justice, and Gleaning]] and [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
@@ -661,6 +669,7 @@ are identified on the passage and connection pages.
 - [[The Field of the Sluggard]] — Proverbs 24:24; *"You are righteous"* said to the wicked, and cursed.
 - [[The Glory of Kings]] — Proverbs 25:5, 26; The throne established by removing the wicked; the righteous who gives way, a polluted spring.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *ṣedeq ṣedeq*, justice pursued for life in the land; the bribe that perverts the righteous.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13; the returned pledge, *"righteousness to you before Yahweh"*.
 
 ## Related themes
 

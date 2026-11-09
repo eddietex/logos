@@ -196,7 +196,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - Exodus 21:15, 17; Leviticus 20:9 — death for the son who attacks or curses a parent (stored WEB).
 - Deuteronomy 22:24, 29 *(stored, not yet ingested)* — *"humbled"*, of the betrothed woman and of the
   unbetrothed girl who must be married.
-- Deuteronomy 24:7 *(stored, not yet ingested)* — the kidnapper who *"deals with him as a slave, or sells
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7; the kidnapper who *"deals with him as a slave, or sells
   him"*, the same pair of verbs as 21:14.
 - Joshua 8:29; 10:26–27 *(not yet ingested; WEB checked at bible-api.com)* — the king of Ai and the five
   kings, hanged *"until the evening"* and taken down at sundown.

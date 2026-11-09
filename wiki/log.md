@@ -23796,3 +23796,51 @@ against WLC from morphhb (openscriptures, GitHub), retrieved 2026-11-09: Deutero
 hotpaal stem; and a co-occurrence search of 8441 with 6440 across Genesis–Deuteronomy. The Greek of the
 Gospels was not checked. Raw files, canonical workflow instructions, and controller files were
 unchanged.
+
+## [2026-11-09] ingest | Deuteronomy 24.6-22 — Pledges, Wages, Justice, and Gleaning
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary (WEB 24:6–22 = WLC
+24:6–22). Commas were added to the plan's title, giving *Pledges, Wages, Justice, and Gleaning*. Created
+the passage page and two connections,
+[[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]] and
+[[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]]. Revised 46
+existing pages including this log. They are: Deuteronomy (box checked, overview, count, Work and Theft
+and Restitution added as key themes) and `wiki/books/index.md`; two people (Moses, Miriam) and one place
+(Egypt); twelve themes (The Poor and the Vulnerable, Slavery and Servitude, Theft and Restitution, Work,
+Wealth and Possessions, Retribution, Remembrance, Righteousness, Clean and Unclean, Priesthood, Blessing,
+Sin); eight connections (Within Your Gates, You Were a Slave in Egypt, Remember What Yahweh Did to
+Miriam, Kidnapping and Sale, Remove the Evil from Among You, Visiting the Iniquity of the Fathers,
+Plucking a Neighbor's Grain, Bread to the Hungry and Clothing to the Naked), each given a link and the
+first three and Kidnapping and Sale a new paragraph; eleven earlier passage pages whose forward
+references to 24:6–22 now link the new page (Divorce, Remarriage, and the Newlywed, Fugitives, Interest,
+Vows, and a Neighbor's Produce, Captives, Firstborn Sons, and Public Shame, The Year of Release and the
+Open Hand, Tithes for Feasting and Provision, Laws of Holiness and Compassion, Laws of Violence and
+Injury, The Last Plague Announced, Be Holy and Love Your Neighbor, First Fruits and the Feast of Weeks,
+Miriam and Aaron Against Moses); the People F-M subindex, the places and themes indexes, all five
+Connections subindexes, and `wiki/index.md`. Deuteronomy is now 51 / 69. Counts by frontmatter type are
+376 passages, 257 people, 222 places, 87 themes, and 774 connections.
+
+No contradictions found against existing pages. Recorded, not resolved: what Israel is to learn from
+Miriam (leprosy or speech against Moses), with both readings on the passage page; how *"righteousness to
+you"* (24:13) relates to *"not … for your righteousness"* (9:4–6); how 24:16 relates to 5:9, already
+recorded on the Retribution theme and the Visiting the Iniquity connection; whether *hitʿammēr* means
+*enslave* or *mistreat*; whether the poor man's pledge is retaken each morning. Malachi 3:5 names the
+same four classes as Deuteronomy 24:14–17 in a different order; whether it draws on Deuteronomy is left
+open.
+
+Judgment calls: no pages for the creditor, debtor, kidnapper, hired man, or the priests the Levites as a
+group; no new place page. Given from general knowledge and marked so where made: *rekeb* as *upper
+millstone*; the lexical range of *hitʿammēr*; *lift up the soul* as *long for*; that Ruth's story ends in
+the line of David (Ruth 4:17–22, cited by reference and not checked).
+
+Sources: quotations copied directly from stored WEB Deuteronomy 5:9; 6:12, 25; 7:18; 9:4, 6; 15:9; 16:19;
+17:11; 21:14; 23:21, 24–25; 24:6–22; 25:17; 27:19; Genesis 15:6; 40:15; Exodus 11:5; 21:16; 22:21–27;
+23:6; Leviticus 13:2; 19:9–10, 13; 23:22; Numbers 11:8; 12:10, 14–15; Job 24:3, 9. 2 Kings 14:6; Ezekiel
+18:20; Jeremiah 22:13; Amos 2:8; Malachi 3:5; Ruth 2:2, 15–16; Matthew 20:8; and James 5:4 checked at
+bible-api.com (`translation=web`), 2026-11-09; none of those books was fetched into raw/. Hebrew checked
+against WLC from morphhb (openscriptures, GitHub), retrieved 2026-11-09: Deuteronomy 6:25; 15:9; 16:19;
+17:11; 23:22; 24:6–21; 25:17; 27:19; Exodus 21:16; 22:25; 23:6. Lemma searches across Genesis–Deuteronomy
+for 1589, 2251, 2254, 5667, 5670, 5953, 6014, 6016, 6231, 6286, 7347, 7393, 7911, 7916, 7939, and 8008;
+across Deuteronomy for 2142, 2399, 4813, 6041, 6666, and 6883; across Exodus, Leviticus, and Deuteronomy
+for 6041. The Greek of Matthew and James was not checked. Raw files, canonical workflow instructions, and
+controller files were unchanged.

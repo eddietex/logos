@@ -184,6 +184,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25; the previous
   pericope.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22; the next pericope.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; the other *ʿerwat dābār*.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13, 19, 22, 29; the husband who
   *"hates"*, the husband who *"may not put her away"*, and adultery.

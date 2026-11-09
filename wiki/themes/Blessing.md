@@ -477,6 +477,12 @@ Here blessing gets a fixed form of words: three lines, *Yahweh* in each, and eve
 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
+### Two blessings — Deuteronomy 24:13, 19
+
+The poor man whose pledge is returned *"bless[es] you"* (13), the piel of *bārak* with the creditor as
+object (WLC); the farmer who leaves the sheaf is promised *"that Yahweh your God may bless you in all the
+work of your hands"* (19). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; eating *"according to Yahweh your God's blessing"* (15).
@@ -771,6 +777,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:7; the mother bird let go, *"that it may be well with you"*.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; the curse turned into a blessing.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; blessing on the one who lends without interest.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13, 19; the poor man's blessing and Yahweh's.
 
 ## Related themes
 

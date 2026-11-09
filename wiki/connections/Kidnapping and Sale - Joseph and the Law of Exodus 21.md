@@ -11,8 +11,8 @@ tags: [connection]
   sale for twenty pieces of silver.
 - [[The Cupbearer and the Baker]] — Genesis 40:15: Joseph describes himself as stolen from his homeland.
 - [[Laws of Violence and Injury]] — Exodus 21:16: death for kidnapping followed by sale or continued possession.
-- Deuteronomy 24:7 — kidnapping an Israelite brother and enslaving or selling him; verified WEB,
-  not yet ingested.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7; kidnapping an Israelite brother and enslaving or
+  selling him.
 
 ## Analysis
 
@@ -33,6 +33,14 @@ Exodus's prohibition of kidnapping stands beside its regulation of purchased ser
 These are not an abolition decree and an immediate repeal of it: the collection condemns seizure
 while continuing to recognize other forms of human ownership. That distinction explains the
 shape of the legislation without removing its moral tension.
+
+**Deuteronomy's wording and Joseph's case.** Deuteronomy 24:7 reads *"If a man is found stealing any of
+his brothers of the children of Israel, and he deals with him as a slave, or sells him; then that thief
+shall die."* Exodus 21:16 has *gōnēb ʾîš*, *one who steals a man*; Deuteronomy has *gōnēb nepeš*, *one
+who steals a life*, and specifies *"his brothers"* (WLC). In Deuteronomy *"brothers"* means fellow
+Israelites. Joseph's sellers were his brothers in the literal sense too. The law does not mention them,
+and the comparison remains the wiki's. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:7; WLC
+Exodus 21:16; Deuteronomy 24:7.
 
 ## Significance
 

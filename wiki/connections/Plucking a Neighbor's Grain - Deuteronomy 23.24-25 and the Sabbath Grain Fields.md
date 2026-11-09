@@ -15,7 +15,7 @@ tags: [connection]
   poor and for the foreigner"*.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:9: *"From the time you begin to put the sickle to
   the standing grain"*.
-- **Deuteronomy 24:19–21** *(stored, not yet ingested)* — the forgotten sheaf, the olives, and the
+- **Deuteronomy 24:19–21** — [[Pledges, Wages, Justice, and Gleaning]]; the forgotten sheaf, the olives, and the
   grapes left *"for the foreigner, for the fatherless, and for the widow"*.
 - **Matthew 12:1–2** *(not yet ingested)* — *"At that time, Jesus went on the Sabbath day through the
   grain fields. His disciples were hungry and began to pluck heads of grain and to eat. But the

@@ -12,7 +12,8 @@ tags: [connection]
 
 - **Exodus 22:22–27; Deuteronomy 24:6, 10–13, 17** — the widow and the fatherless not to be
   afflicted, and the pledged cloak returned before the sun goes down, *"for that is his only
-  covering"* — [[Laws of Holiness and Compassion]] (Deuteronomy not yet ingested)
+  covering"* — [[Laws of Holiness and Compassion]] and [[Pledges, Wages, Justice, and Gleaning]]; see
+  [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]]
 - **Job 4:3–4** — Eliphaz's first description of Job: *"you have strengthened the weak hands. Your
   words have supported him who was falling"* — [[Eliphaz's First Speech]]
 - **Job 20:19** — Zophar, of the wicked man in general: *"he has oppressed and forsaken the poor"* —

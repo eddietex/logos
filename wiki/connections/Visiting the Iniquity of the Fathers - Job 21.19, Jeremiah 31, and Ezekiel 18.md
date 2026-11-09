@@ -14,7 +14,7 @@ tags: [connection]
   the hatred qualification of 20:5 is not repeated in this WEB proclamation.
 - **Deuteronomy 24:16** — *"The fathers shall not be put to death for the children, neither shall the
   children be put to death for the fathers. Every man shall be put to death for his own sin."*: the
-  principle refused to human courts
+  principle refused to human courts — [[Pledges, Wages, Justice, and Gleaning]]
 - **2 Kings 14:5–6** — Amaziah executes his father's assassins and spares their sons, *"according to
   that which is written in the book of the law of Moses"*, quoting Deuteronomy 24:16
 - **Job 5:4** — Eliphaz on the foolish man: *"His children are far from safety"* —

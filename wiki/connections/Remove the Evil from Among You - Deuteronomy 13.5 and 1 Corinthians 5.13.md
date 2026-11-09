@@ -18,7 +18,7 @@ tags: [connection]
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:21; the stubborn and rebellious son.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21, 22, 24; the bride found not to be a virgin, adultery, and the pledged
   woman in the city.
-- Deuteronomy 24:7 — the kidnapper (stored WEB, not yet ingested).
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7; the kidnapper.
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
   yourselves.'"* (WEB, verified from bible-api.com).
 

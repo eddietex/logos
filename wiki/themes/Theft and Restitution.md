@@ -199,6 +199,12 @@ The principal plus a fifth goes to the one wronged (7). Where there is no kinsma
 
 See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a Fifth - Leviticus 6 and Numbers 5]]. Source: stored WEB Numbers 5.
 
+### Stealing a person — Deuteronomy 24:7
+
+*"If a man is found stealing any of his brothers of the children of Israel … then that thief shall die."*
+Where theft of goods is repaid, theft of a person is capital, here as in Exodus 21:16. Deuteronomy's
+participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
+
 ## Key passages
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
@@ -239,6 +245,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a F
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:7–8; repayment, the fifth, and the kinsman.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–3; the lost animal or garment kept and restored to its owner.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:24–25; eat in the field, carry nothing away.
+- [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7; the man who steals a brother.
 
 ## Related themes
 
