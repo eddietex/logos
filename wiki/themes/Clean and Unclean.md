@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ox and donkey, and a defiled vineyard — Deuteronomy 22:9–10
+
+WEB's *"lest all the fruit be defiled"* (9) is not the vocabulary of uncleanness: the verb is
+*qādaš*, *become holy* (WLC), and the yield is forfeited rather than polluted. The plow team of
+22:10 pairs a clean animal with an unclean one — the ox may be offered, the donkey's firstborn must
+be redeemed with a lamb (Exodus 13:13) — but the law gives no reason, and whether cleanness is its
+concern is not said.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### A body that defiles the land — Deuteronomy 21:23
 
 A hanged body left overnight would *"defile your land which Yahweh your God gives you for an
@@ -635,6 +645,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; the food law restated for the people, without the edible insects.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the defective firstling eaten by clean and unclean alike (22).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the body left on the tree would defile the land.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–10; WEB's *defiled* is Hebrew *become holy*; clean ox and unclean donkey under one yoke.
 
 ## Related themes
 

@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Every lost thing of your brother's — Deuteronomy 22:1–3
+
+Finding is not keeping. The straying ox or sheep is brought back, or, if the owner is unknown, kept
+at the finder's house *"until your brother comes looking for it, and you shall restore it to him"*
+(2). The same holds for a donkey, a garment, and *"every lost thing of your brother's, which he has
+lost, and you have found"* (3). The noun *ʾăbēdâ*, *lost thing*, occurs in the Torah only here, at
+Exodus 22:8 (WEB 22:9), and at Leviticus 5:22–23 (WEB 6:3–4) (WLC). Exodus judges the lost thing in
+dispute and Leviticus the lost thing denied on oath; Deuteronomy rules on it at the moment it is
+found, before any wrong has been done.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### The blasphemer and one law — Leviticus 24:10–23
 
 Killing an animal requires making the loss good (18, 21). No theft is alleged here:
@@ -218,6 +230,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]] and [[Confess, Repay, and Add a F
   restores sevenfold
 - [[Thirty Excellent Things]] — Proverbs 22:22–23, 28; 23:10; Robbing the poor and moving the boundary stone.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:7–8; repayment, the fifth, and the kinsman.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–3; the lost animal or garment kept and restored to its owner.
 
 ## Related themes
 

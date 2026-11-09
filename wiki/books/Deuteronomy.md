@@ -11,6 +11,15 @@ status: in-progress
 
 ## Overview
 
+[[Care for the Neighbor and Ordered Distinctions]] (22:1–12) gathers ten short laws. The Exodus law
+of the enemy's straying ox is restated for *"your brother"*, with the animal kept *"until your brother
+comes looking for it"* and a threefold *"you may not hide yourself"*. Men's and women's clothing are
+not to be exchanged, *"an abomination to Yahweh your God"*. The mother bird is let go, with the fifth
+commandment's promise, *"that it may be well with you, and that you may prolong your days"*. A railing
+keeps *"blood"* off a new house. Vineyard, plow team, and cloth are not to mix two kinds, the vineyard's
+yield *"defiled"* — Hebrew *become holy* — if they do; and the fringes of Numbers 15 go *"on the four
+corners of your cloak"*.
+
 [[Captives, Firstborn Sons, and Public Shame]] (21:10–23) sets four limits inside powers the law does not
 remove. A woman taken in war may become a wife only after she has *"bewail[ed] her father and her mother
 a full month"*, and if she is dismissed, *"you shall not sell her at all for money … because you have
@@ -260,7 +269,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **45 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **46 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -307,7 +316,7 @@ Plan drawn 2026-11-05 from the stored WEB. **45 / 69 pericopes ingested.**
 - [x] [[Laws for Going to War]] — Deuteronomy 20:1–20
 - [x] [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9
 - [x] [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23
-- [ ] Care for the Neighbor and Ordered Distinctions — Deuteronomy 22:1–12
+- [x] [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12
 - [ ] Marriage Accusations and Sexual Offenses — Deuteronomy 22:13–30
 - [ ] The Assembly and the Holy Camp — Deuteronomy 23:1–14
 - [ ] Fugitives Interest Vows and a Neighbor's Produce — Deuteronomy 23:15–25
@@ -373,6 +382,11 @@ Plan drawn 2026-11-05 from the stored WEB. **45 / 69 pericopes ingested.**
 - [[Curse]]
 - [[Burial and the Grave]]
 - [[Mourning and Lament]]
+- [[Compassion and Mercy]]
+- [[Theft and Restitution]]
+- [[Life and Death]]
+- [[Blessing]]
+- [[Nakedness and Covering]]
 
 ## Key people
 - [[God]]

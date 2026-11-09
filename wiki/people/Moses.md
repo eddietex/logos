@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The brother's ox and the laws of two kinds — Deuteronomy 22:1–12
+
+Moses, unnamed in the passage, restates the Exodus law of the stray animal for *"your brother"*,
+forbids the exchange of men's and women's clothing, spares the mother bird, requires a railing on
+the roof, repeats the Leviticus laws of two kinds in his own form, and restates the fringes of
+Numbers 15 in one sentence.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Captives, firstborn sons, and the hanged man — Deuteronomy 21:10–23
 
 Moses gives four household and public laws: the captive woman's month of mourning and her release
@@ -2087,6 +2096,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered, *ḥērem*, and the fruit trees.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the heifer, the washing, and the prayer for the redeemed people.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; the captive wife, the firstborn's portion, the rebellious son, and the hanged man.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; the stray animal, the nest, the parapet, two kinds, and the fringes.
 
 ## Related people
 

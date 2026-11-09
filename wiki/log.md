@@ -23565,3 +23565,41 @@ Genesis 29:17; 34:2, 8; 49:3 — with lemma searches across Genesis–Deuteronom
 8610, and across Deuteronomy for 4784 and 5619, retrieved 2026-11-08. The Hebrew of 2 Kings, Psalms,
 Jeremiah, and Proverbs and the Greek of the New Testament and the Septuagint were not checked. Raw files,
 canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-08] ingest | Deuteronomy 22.1-12 — Care for the Neighbor and Ordered Distinctions
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title. Created the
+passage page and two connections, [[Two Kinds - Leviticus 19.19 and Deuteronomy 22.9-11]] and
+[[Fringes on the Four Corners - Numbers 15.37-41 and Deuteronomy 22.12]]. Revised 28 existing pages
+including this log: Deuteronomy (box checked, overview, count, and Compassion and Mercy, Theft and
+Restitution, Life and Death, Blessing, and Nakedness and Covering added as key themes) and
+`wiki/books/index.md`; two people (God, Moses); eleven themes (Brotherhood, Compassion and Mercy, Theft
+and Restitution, Holiness, Clean and Unclean, Blood, Life and Death, Blessing, Law and Obedience,
+Remembrance, Nakedness and Covering); two connections (Help for an Enemy, which gains a section on
+Deuteronomy's *brother* for Exodus' *enemy*; Honor Your Father and Mother, which gains the promise of
+22:7); five earlier passage pages (Justice, Sabbaths, and Feasts; Holy Living in Field and Community;
+The Tassels; Captives, Firstborn Sons, and Public Shame; The Ten Commandments Recounted), each given a
+cross-reference; the People F-M subindex, the themes index, the Connections D-H and T-Z subindexes, and
+`wiki/index.md`. Deuteronomy is now 46 / 69. Counts by frontmatter type are 371 passages, 257 people,
+222 places, 87 themes, and 764 connections.
+
+Judgment calls: no pages for the brother, the finder, the builder, or the one who might fall; no place
+pages for the house, road, roof, or vineyard. No new theme page for *abomination* (*tôʿēbâ*); it is
+treated under the passage's notes and [[God]]. Recorded and not resolved: what 22:5 forbids (ordinary
+dress, cultic disguise, or war gear); why the nest law carries the fifth commandment's promise; the
+reason for the laws of two kinds and why Deuteronomy's list differs from Leviticus 19:19; to whom the
+forfeited vineyard goes; whether *gǝdilîm* and *ṣîṣit* are one object; and whether Deuteronomy's
+*brother* excludes Exodus' enemy. That some priestly fabrics mixed wool and linen, that *šaʿaṭnēz* is a
+loan word, and that Matthew's *fringe* is the Septuagint's word for the fringes of Numbers 15 are given
+from general knowledge and marked so at the point of the claim.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 5:16; 19:10; 22:1–12, 17, 30; 32:11;
+Genesis 1:11; 20:16; Exodus 13:13; 21:10; 22:9, 26–27, 29; 23:4–5; Leviticus 6:3–4; 13:47; 19:2, 19; Numbers
+15:38–41; 24:21. Matthew 9:20; 14:36; 23:5 and 2 Corinthians 6:14 checked at bible-api.com
+(`translation=web`), 2026-11-08; neither book was fetched into raw/. Hebrew checked against WLC from
+morphhb (openscriptures, GitHub), retrieved 2026-11-08 — Deuteronomy 5:16; 21:14; 22:1–12, 17; 23:1;
+32:11; Exodus 22:28; 23:4–5; Leviticus 5:22; 19:19; Numbers 15:38 — with lemma searches across
+Genesis–Deuteronomy for 9, 667, 1000, 1434, 2790, 3610, 3682, 4327, 4395, 4624, 5956, 6593, 6734, 6785,
+6942, 7064, 7257, 8162, and 8441, and across Deuteronomy for 748, 3190, and the plural forms of 1818.
+The Greek of the New Testament and the Septuagint and the Hebrew of Exodus 28 and 39 were not checked.
+Raw files, canonical workflow instructions, and controller files were unchanged.

@@ -13,6 +13,7 @@ tags: [connection]
 - Romans 12:20–21 — enemy-feeding instruction and overcoming evil with good; verified WEB, not yet
   ingested.
 - [[Through Wisdom a House Is Built]] — Proverbs 24:17–18.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–4, the law restated for *"your brother"*.
 
 ## Analysis
 
@@ -69,6 +70,25 @@ adopting one. See [[The Glory of Kings]] and
 Source: stored WEB Proverbs 20:22; 25:21–22; Exodus 23:5. Romans 12:19–21 verified at bible-api.com
 with `translation=web` on 2026-10-26. The Hebrew of Exodus 23:5 was read in the same edition on
 2026-10-26.
+
+### Your brother, not your enemy — Deuteronomy 22:1–4
+
+Deuteronomy restates the Exodus law with one word changed throughout: *"your brother's ox or his
+sheep"*, *"your brother's donkey or his ox"* (22:1, 4), where Exodus 23:4–5 had *ʾōyibkā*, *your
+enemy*, and *śōnaʾăkā*, *the one who hates you* (WLC). The command form *hāšēb tǝšîbēm*, *you shall
+surely bring them again*, repeats Exodus' *hāšēb tǝšîbennû* (WLC). Deuteronomy then adds what Exodus
+lacks: if the brother *"isn't near to you, or if you don't know him"*, the finder keeps the animal
+*"until your brother comes looking for it"* (2), and the duty extends to *"his garment"* and *"every
+lost thing"* (3). Three times it forbids the finder to *"hide yourself"* (1, 3, 4). The help with
+the fallen animal changes verb: Exodus *ʿāzōb taʿăzōb ʿimmô*, Deuteronomy *hāqēm tāqîm ʿimmô*, *you
+shall surely help him to lift them up again* (WLC; stored WEB).
+
+Whether the change from *enemy* to *brother* narrows the law to fellow Israelites or simply restates
+it for the community Deuteronomy addresses as brothers throughout is not said. It should not be read
+as withdrawing the Exodus duty to the enemy, which Deuteronomy does not repeal. See
+[[Care for the Neighbor and Ordered Distinctions]].
+
+Source: stored WEB Deuteronomy 22:1–4; Exodus 23:4–5. Hebrew from WLC (morphhb), retrieved 2026-11-08.
 
 ## Significance
 

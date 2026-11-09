@@ -190,6 +190,7 @@ commands for Israel's life and worship, not a report that the people have alread
   food laws.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the verb *šāmaṭ* of 23:11's fallow land applied to debts. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:19; the bribe clause of 23:8 repeated, with *"the eyes of the wise"* for *"those who have sight"*.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–4; the law of 23:4–5 restated with *"your brother"* for *"your enemy"*, and the animal kept until its owner comes.
 
 ## Notes
 

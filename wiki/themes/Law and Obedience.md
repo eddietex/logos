@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Laws of the road, the roof, and the cloak — Deuteronomy 22:1–12
+
+Ten short laws, most a single verse, about what one comes upon by chance — a stray ox, a lost
+garment, a fallen donkey, a nest — and what one sows, yokes, and wears. The duty to the brother's
+animal is a duty not to *"hide yourself"* (1, 3, 4). Men's and women's clothing kept apart is backed
+by *"an abomination to Yahweh your God"* (5). The fringes on the four corners (12) are the sign
+Numbers 15:39 gives *"that you may look on it, and remember all Yahweh's commandments, and do
+them"*.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### The son who will not listen — Deuteronomy 21:18–21
 
 The stubborn and rebellious son *"will not obey the voice of his father or the voice of his mother"*
@@ -1532,6 +1543,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the court's verdict as *tôrâ*, not to be turned from right or left.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king copies and reads *"this law"* all his life (18–19).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the son who will not obey his father's or his mother's voice.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; duties of chance encounters, distinctions of kinds, and the fringes.
 
 ## Related themes
 

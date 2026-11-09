@@ -78,6 +78,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]] | parallel | Genesis 24:1–67 · Genesis 27:46–28:9 · Genesis 29:1–30 · Genesis 32:10 · Hosea 12:12 |
 | [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
 | [[The Two Flights of Hagar]] | parallel | Genesis 16:1–16 · Genesis 21:8–21 · Genesis 25:12–18 |
+| [[Two Kinds - Leviticus 19.19 and Deuteronomy 22.9-11]] | comparison | [[Holy Living in Field and Community]] (Leviticus 19:19) · [[Care for the Neighbor and Ordered Distinctions]] (Deuteronomy 22:9–11) |
 | [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
 | [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]] | parallel | [[Clean and Unclean Animals]] (Leviticus 11:1–47) · [[A Holy People and Its Food]] (Deuteronomy 14:1–21) |
 | [[Two Memorials Against Rebellion - The Censers and the Budding Rod]] | parallel | [[Aaron's Rod Buds]] · Numbers 16:1–50 |

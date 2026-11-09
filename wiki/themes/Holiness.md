@@ -134,6 +134,18 @@ a verdict on individual moral guilt. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### The vineyard that becomes holy — Deuteronomy 22:9–12
+
+*"You shall not sow your vineyard with two kinds of seed, lest all the fruit be defiled"* (9). WEB's
+*defiled* renders *tiqdaš*, the qal of *qādaš*, *become holy* (WLC): the mixed yield is forfeited
+from ordinary use, though the text does not say to whom. The ox and donkey yoked together and wool
+and linen woven together follow (10–11), and then the fringes on the four corners of the cloak (12),
+which Numbers 15:40 gives the purpose *"be holy to your God"*. See
+[[Two Kinds - Leviticus 19.19 and Deuteronomy 22.9-11]] and
+[[Fringes on the Four Corners - Numbers 15.37-41 and Deuteronomy 22.12]].
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Dedicating what is already holy — Deuteronomy 15:19–23
 
 *"You shall dedicate"*, *taqdîš* (WLC 15:19, morphhb), is the verb Leviticus 27:26 negates for the same animal: *"no man may dedicate"* the firstborn, for *"It is Yahweh's"*. Deuteronomy commands treating it as holy; Leviticus forbids vowing it as a gift. A defect then moves it from holy to common (15:21–22). See [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]].
@@ -889,6 +901,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[The Seventy Elders and the Quail]] — Numbers 11:18; sanctified for the meat.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1–21; *"you are a holy people"* (2, 21) as the ground of the food law.
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; the firstling dedicated, and the defective one made common.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–12; two kinds of seed make the vineyard's yield *become holy* (9); the fringes.
 
 ## Related themes
 

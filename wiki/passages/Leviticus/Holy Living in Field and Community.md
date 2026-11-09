@@ -101,6 +101,7 @@ The unit closes by requiring observance of all his statutes and ordinances (35�
   Israel; see [[Cuttings for the Dead - Leviticus 19.28, 21.5, and Deuteronomy 14.1]].
 - [[A Prophet Like Moses]] — Deuteronomy 18:10–11; enchantment, sorcery, mediums, and wizards in Deuteronomy's list. See [[Diviners, Mediums, and the Dead - Deuteronomy 18.10-11 and the Torah's Forbidden Arts]]
 - [[Laws for Going to War]] — Deuteronomy 20:19–20; *ʿēṣ maʾăkāl*, *trees for food* (20:20, WLC), the phrase of 19:23, spared in a siege. See [[Is the Tree of the Field Man - Deuteronomy 20.19, 2 Kings 3, and Jeremiah 6]].
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–11; vineyard, plow team, and wool and linen; see [[Two Kinds - Leviticus 19.19 and Deuteronomy 22.9-11]].
 
 ## Notes
 

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fallen animal and the mother bird — Deuteronomy 22:4–7
+
+*"You shall surely help him to lift them up again"* (4): the finder works *"with him"* (*ʿimmô*,
+WLC), beside the owner of the fallen donkey or ox. Then a law of restraint toward an animal: the
+mother bird found on her nest *"you shall surely let … go"*, though the young may be taken (7). The
+law gives the promise of the fifth commandment for it — *"that it may be well with you, and that you
+may prolong your days"* — and does not say why. That it protects the source of future young, or
+forbids taking advantage of a mother's care, or both, are the usual readings.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### No pity for the perjurer — Deuteronomy 19:21
 
 *"Your eyes shall not pity"* (21) closes off mercy a second time in the chapter, after the murderer
@@ -514,6 +525,7 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; *neither shall your eye pity him* (13:8); mercy to Israel (13:17).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the hand opened and the heart not grieved in giving (8, 10).
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:21; *"Your eyes shall not pity"*, said of the false witness.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:4–7; help with a fallen animal, and the mother bird let go.
 
 ## Related themes
 

@@ -206,6 +206,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   of Elijah's spirit.
 - 1 Chronicles 5:1–2 *(not yet ingested; WEB checked at bible-api.com)* — Reuben's birthright *"given to
   the sons of Joseph"*.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; the next pericope. The mother bird is *"let go"* (22:7) with the verb of 21:14.
 
 ## Notes
 

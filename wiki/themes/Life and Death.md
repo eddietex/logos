@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### That you may prolong your days — Deuteronomy 22:6–8
+
+The law of the nest ends *"that it may be well with you, and that you may prolong your days"* (7),
+the promise of the fifth commandment (5:16) with the two verbs in the reverse order (WLC). The next
+law is about a death to be prevented: a railing on the roof *"if anyone falls from there"* (8).
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Flee and live — Deuteronomy 19:1–13
 
 *"He shall flee to one of these cities and live"* (5). The unwitting killer is *"not worthy of
@@ -1335,6 +1343,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
   two who lived
 - [[A Holy People and Its Food]] — Deuteronomy 14:1, 21; mourning marks forbidden, and meat that died of itself.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; justice for life in the land; no death on one witness.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:6–8; long days promised for sparing the mother bird; the railing against a fatal fall.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

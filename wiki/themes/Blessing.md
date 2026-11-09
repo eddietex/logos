@@ -44,6 +44,15 @@ costly.
 
 ## Development across Scripture
 
+### That it may be well with you — Deuteronomy 22:7
+
+*"That it may be well with you, and that you may prolong your days"* (7): a lemma search of
+Deuteronomy finds *ʾārak* and *yāṭab* together only here, at 4:40, and in the fifth commandment,
+5:16 (WLC). The promise attached to honoring father and mother is attached also to letting the
+mother bird go. See [[Honor Your Father and Mother - Exodus 20 and Ephesians 6]].
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Give as Yahweh blesses — Deuteronomy 16:1–17
 
 The freewill offering at weeks is given *"according as Yahweh your God blesses you"* (16:10); the feast of tents is joyful *"because Yahweh your God will bless you in all your increase"* (15); and *"Every man shall give as he is able, according to Yahweh your God's blessing which he has given you"* (17). As at 15:14, blessing is the measure of the gift.
@@ -745,6 +754,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; blessing as the ground of *"no poor"* (4) and the reward of giving (10).
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; blessing as the measure of the gift (14) and the reward of release (18).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; blessing as the measure of the festival gift (10, 17) and the ground of joy (15).
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:7; the mother bird let go, *"that it may be well with you"*.
 
 ## Related themes
 

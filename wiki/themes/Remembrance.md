@@ -192,6 +192,16 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Fringes without the reason — Deuteronomy 22:12
+
+*"You shall make yourselves fringes on the four corners of your cloak with which you cover
+yourself."* Numbers 15:39 gave the fringes their purpose, *"that you may look on it, and remember
+all Yahweh's commandments"*. Deuteronomy restates the law without the purpose, the blue cord, or
+Numbers' word *ṣîṣit*, using *gǝdilîm* instead (WLC). See
+[[Fringes on the Four Corners - Numbers 15.37-41 and Deuteronomy 22.12]].
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### The day you came out, and the slave you were — Deuteronomy 16:1–17
 
 The unleavened bread is eaten *"that you may remember the day when you came out of the land of Egypt all the days of your life"* (16:3). At weeks: *"You shall remember that you were a slave in Egypt"* (12). The Passover's memory is the night of leaving; the feast of weeks remembers the slavery itself, as the household's servants rejoice beside it (11). See [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
@@ -869,6 +879,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The War Against Midian]] — Numbers 31:1–54; the gold laid up *for a memorial*.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"You shall remember that you were a slave in the land of Egypt"* (15).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; *"that you may remember the day when you came out"* (3); *"remember that you were a slave"* (12).
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:12; the fringes restated without Numbers' reminder clause.
 
 ## Related themes
 

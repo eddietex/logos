@@ -60,6 +60,7 @@ is preserved from the source.
 - [[To Seek Out the Land - Tur in Numbers 10, 13, 15, and Ezekiel 20]] — the existing comparison with the spies.
 - [[Offerings in the Land and Sins of Ignorance]] and [[The Sabbath Breaker]] — the laws
   and judgment preceding this instruction.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:12; fringes *"on the four corners of your cloak"*, without the cord or the reason; see [[Fringes on the Four Corners - Numbers 15.37-41 and Deuteronomy 22.12]].
 
 ## Notes
 

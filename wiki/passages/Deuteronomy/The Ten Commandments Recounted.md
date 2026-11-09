@@ -85,6 +85,7 @@ The unit closes with the public voice and the two written tablets entrusted to M
 - [[Release the Servant with Gifts]] — Deuteronomy 15:15; the same *"remember that you were a slave"*
   clause as 5:15, with *redeemed* for *brought out*. See
   [[You Were a Slave in Egypt - The Remembrance Refrain of Deuteronomy]].
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:7; the promise of 5:16, *"that it may be well with you, and that you may prolong your days"*, given to the law of the nest.
 
 ## Notes
 

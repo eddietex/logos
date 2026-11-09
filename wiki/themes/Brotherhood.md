@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### Your brother's ox — Deuteronomy 22:1–4
+
+Where Exodus 23:4–5 required the return of *"your enemy's ox"* and help with *"the donkey of him who
+hates you"*, Deuteronomy says *"your brother"* six times in four verses, and extends the duty to a
+brother who *"isn't near to you"* or whom *"you don't know"* (2): the finder keeps the animal
+*"until your brother comes looking for it"*. Three times the law forbids the finder to *"hide
+yourself"* (1, 3, 4; *hitʿallēm*, WLC). Brotherhood here is not kinship or friendship but membership
+in Israel, owed even to a stranger. Whether the change of word excludes the enemy of Exodus or
+assumes him among the brothers is not said; see
+[[Help for an Enemy - Exodus 23, Proverbs 25, and Matthew 5]].
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Lest his brother's heart melt — Deuteronomy 20:8
 
 The fearful man is sent home *"lest his brother's heart melt as his heart"* (8). The verb *māsas*, *melt*,
@@ -410,6 +423,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; the prophet raised *"of your brothers"*.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:18–19; the false witness *"testified falsely against his brother"*.
 - [[Laws for Going to War]] — Deuteronomy 20:8; the fearful man sent home *"lest his brother's heart melt"*.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–4; the brother's straying ox, lost garment, and fallen donkey.
 
 ## Related themes
 

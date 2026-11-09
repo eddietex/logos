@@ -25,6 +25,7 @@ tags: [connection]
   teaching"*, repeated at 6:20.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:2, 9, 12; length of days, *"Honor Yahweh"*, and
   Yahweh *"as a father"*.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:7, the same promise given to the law of the nest.
 
 ## Analysis
 
@@ -123,6 +124,18 @@ closing demand concerns the recognition and fruit owed to her work.
 
 Source: stored WEB Proverbs 31:10–31 and the local comparisons cited above, checked
 2026-10-27. No new source-language claim is made in this addition.
+
+### The same promise for the mother bird — Deuteronomy 22:7
+
+*"You shall surely let the hen go, but the young you may take for yourself; that it may be well with
+you, and that you may prolong your days."* The two verbs of the fifth commandment's promise in 5:16,
+*ʾārak*, *be long*, and *yāṭab*, *go well*, appear together in Deuteronomy only at 4:40, 5:16, and
+22:7, by a lemma search of WLC (morphhb, 2026-11-08). So the one other single law that carries the
+whole promise concerns a mother: the bird found on her nest, who may not be taken with her young.
+Whether the correspondence is meant — honor to a human mother, restraint toward an animal one — is
+not said, and the wiki does not argue it.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 5:16; 22:7.
 
 ## Significance
 

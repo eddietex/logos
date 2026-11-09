@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The cloak you cover yourself with — Deuteronomy 22:5, 12
+
+Men's and women's clothing are not to be exchanged (5) — *kǝlî geber*, *a man's article*, and
+*śimlat ʾiššâ*, *a woman's cloak* (WLC). The fringes go on *"your cloak with which you cover
+yourself"* (12), the *kǝsût*, which the Torah otherwise uses of the wife's clothing that may not be
+diminished (Exodus 21:10) and the pledged cloak that is a poor man's *"only covering"* (22:26–27)
+(WLC; stored WEB).
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Penalties and separation — Leviticus 20
 
 The stored WEB describes intercourse with the father’s, uncle’s, or brother’s wife as uncovering
@@ -244,6 +254,7 @@ See [[I Opened, but He Had Gone]]. Source: stored WEB Song of Solomon 5:2–8; H
 - [[Laws of Holiness and Compassion]] — Exodus 22:26–27; *"his garment for his skin"*, returned before sunset
 - [[The Priestly Garments]] — Exodus 28:1–43; linen breeches for the priests, under threat of death.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The linen breeches required in chapter 28 are now made.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:5, 12; men's and women's clothing; fringes on the covering cloak.
 
 ## Related themes
 

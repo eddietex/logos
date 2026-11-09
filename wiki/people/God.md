@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### An abomination, and a promise of long days — Deuteronomy 22:1–12
+
+Yahweh is named twice in the pericope. Men's and women's clothing exchanged is *"an abomination to
+Yahweh your God"* (5), Deuteronomy's word for what he will not have among his people. And the law of
+the nest carries his promise from the fifth commandment, *"that it may be well with you, and that
+you may prolong your days"* (7). Elsewhere in Deuteronomy his care for Israel is pictured as an
+eagle that *"stirs up her nest"* and *"flutters over her young"* (32:11).
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Delivered into your hands, and accursed of God — Deuteronomy 21:10–23
 
 Yahweh *"delivers them into your hands"* (10), and the captive taken from that victory may not be sold
@@ -4413,6 +4423,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; with Israel in battle (1), fights for it (4), delivers the city (13), commands the *ḥērem* (17).
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; gives the land (1), chose the priests (5), asked to *kipper* for the people he redeemed (8).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; delivers the enemy into Israel's hand, and the hanged man *"accursed of God"*.
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; abomination (5); the promise of long days (7).
 
 ## Related people
 

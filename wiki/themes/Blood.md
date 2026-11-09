@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blood on the house — Deuteronomy 22:8
+
+*"When you build a new house, then you shall make a railing around your roof, so that you don't
+bring blood on your house if anyone falls from there."* *Dāmîm*, the plural of bloodguilt, occurs in
+Deuteronomy only here and at 19:10, where innocent blood in the land would leave *"blood guilt on
+you"* (WLC). The owner bears the death he could have prevented, though he did not cause the fall.
+After the rite of 21:1–9, which put away blood already shed, this law prevents it.
+
+See [[Care for the Neighbor and Ordered Distinctions]]. Source: stored WEB Deuteronomy 22:1–12.
+
 ### Blood with no known shedder — Deuteronomy 21:1–9
 
 A body is found in the field and *"it isn't known who has struck him"* (1). The blood still has to be put
@@ -484,6 +494,7 @@ narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 See [[Blood Reserved from Food - Genesis 9 and Leviticus 3]] for the food prohibition in both settings.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; *"Our hands have not shed this blood"* (7), and the innocent blood put away (9).
+- [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:8; the railing, *"so that you don't bring blood on your house"*.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15
