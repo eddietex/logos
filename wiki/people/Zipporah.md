@@ -47,7 +47,7 @@ verb of Genesis 17:14, where the uncircumcised male *"shall be cut off from his 
 sendings-off*, a noun the Torah uses nowhere else (WLC lemma search, Genesis–Deuteronomy). **The Hebrew has no
 subject; who sent her, when, and why are not told.** She was last on the road to Egypt (4:20–26). **Readings reported,
 not adopted**: sent back for safety before the plagues; sent back after the lodging place; or a divorce, from the
-root *šālaḥ* that Deuteronomy uses for sending away a wife (Deuteronomy 24:1, by reference). **The text gives no
+root *šālaḥ* that Deuteronomy uses for sending away a wife (Deuteronomy 24:1; see [[Divorce, Remarriage, and the Newlywed]]). **The text gives no
 ground for the last beyond the root**, and Jethro presents her to Moses as *"your wife"* (18:6). **She says nothing,
 and the greeting is between the two men.** See [[Jethro's Counsel]].
 

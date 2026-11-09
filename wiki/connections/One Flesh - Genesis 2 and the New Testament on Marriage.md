@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Garden of Eden]] — Genesis 2:24
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–4, the law behind the question
 - Matthew 19:4–6 · Mark 10:6–8 *(not yet ingested)*
 - 1 Corinthians 6:16 *(not yet ingested)*
 - Ephesians 5:31–32 *(not yet ingested)*
@@ -20,11 +21,11 @@ in three completely different arguments:
 > **Genesis 2:24** Therefore a man will leave his father and his mother, and will join with his
 > wife, and they will be one flesh.
 
-**Jesus, on divorce (Matthew 19:4–6, Mark 10:6–8).** Asked whether divorce is lawful "for any
-cause", Jesus does not answer from Deuteronomy 24, the text the question was built on. He goes
-behind the law to the creation accounts and quotes two verses together — Genesis 1:27 (*"made
-them male and female"*) and 2:24 — then draws a conclusion neither verse states: *"So then they
-are no more two, but one flesh. What therefore God has joined together, don't let man tear
+**Jesus, on divorce (Matthew 19:4–6, Mark 10:6–8).** Asked whether divorce is lawful *"for any
+reason"* (Matthew 19:3), Jesus does not answer from Deuteronomy 24, the text the question was
+built on. He goes behind the law to the creation accounts and quotes two verses together — Genesis
+1:27 (*"made them male and female"*) and 2:24 — then draws a conclusion neither verse states: *"So
+that they are no more two, but one flesh. What therefore God has joined together, don't let man tear
 apart."* Two moves are worth marking. First, he treats Genesis 2:24 as prescriptive, not merely
 descriptive of a custom. Second, he ranks it above the Mosaic permission, which he explains as a
 concession *"because of the hardness of your hearts"* — beginning is more authoritative than
@@ -63,4 +64,11 @@ beginning. The same move appears elsewhere in the Gospels — the sabbath *"made
 ingested. Compare
 [[Creation as the Ground of the Sabbath Command]], where the Torah itself argues the same way.
 
+Deuteronomy 24:1–4, the law the question was built on, is now ingested as
+[[Divorce, Remarriage, and the Newlywed]]; the Gospel exchange is traced on
+[[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]].
+
 Revisit this page when Matthew 19, Mark 10, 1 Corinthians 6, and Ephesians 5 are ingested.
+
+Matthew 19:3, 6 rechecked at bible-api.com (`translation=web`), 2026-11-09: the question had been quoted
+as *"for any cause"* and verse 6 as *"So then they are"*; both now follow the WEB.

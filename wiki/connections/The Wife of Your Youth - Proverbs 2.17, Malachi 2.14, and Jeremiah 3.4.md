@@ -54,3 +54,8 @@ in chapter 2, the husband's in chapter 5. See [[The Strange Woman and the Wife o
 The thread shows Proverbs' sexual ethic resting on covenant, not on custom: adultery in Proverbs 2
 is forgetting a covenant God witnessed, and Malachi uses the same language to forbid treacherous
 divorce. See [[Marriage]], [[Covenant]], and [[Sexual Sin]].
+
+Malachi 2:16, WEB *"For I hate divorce"*, uses the two verbs of the second husband in Deuteronomy
+24:3, *śānēʾ* and *šillaḥ* (WLC), and the bill of divorce of Deuteronomy 24 recurs in Jeremiah 3:1, 8,
+the chapter that calls Yahweh *"the guide of my youth"*. See [[Divorce, Remarriage, and the Newlywed]] and
+[[A Bill of Divorce - Deuteronomy 24.1-4, Isaiah 50.1, and Jeremiah 3]].

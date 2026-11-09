@@ -693,6 +693,14 @@ father's house.
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### A written bill — Deuteronomy 24:1–3
+
+Divorce is done in writing: the husband *"shall write her a bill of divorce, and put it in her
+hand"* (1, 3). Every other *kātab*, *write*, in Deuteronomy has the commandments, the law, its curses,
+or Moses' song as its object (4:13 to 31:24, WLC lemma search). The bill of divorce is the only thing
+in the book written by one person for another. See
+[[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; teaching *"talking of them"* through the day, and writing them at the house's entrances (19–20).
@@ -1027,6 +1035,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[A Prophet Like Moses]] — Deuteronomy 18:18–22; Yahweh's words in the prophet's mouth, and the presumptuous word.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–19; the husband's *"bad name"* and the father's answer.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:23; *"that which has gone out of your lips"*.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–3; the bill of divorce written and put in her hand.
 
 ## Related themes
 

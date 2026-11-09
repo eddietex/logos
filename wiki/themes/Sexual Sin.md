@@ -322,6 +322,12 @@ seizes an unpledged virgin pays and marries her (28–29). The father's wife is 
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### Return to the first husband — Deuteronomy 24:1–4
+
+A second marriage after divorce is lawful (24:2). What is *"abomination before Yahweh"* is the first
+husband's taking her back after it (4). Matthew 5:32 later calls the second marriage itself adultery.
+See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
@@ -391,6 +397,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[The People Refuse the Land]] — Numbers 14:33; *zənût* of the refusal
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the bride's virginity, adultery, the pledged woman in city and field, the seized virgin, the father's wife.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17–18; no *qǝdēšâ* or *qādēš*, and no prostitute's hire for a vow.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; the return to the first husband as *"abomination before Yahweh"*.
 
 ## Related themes
 

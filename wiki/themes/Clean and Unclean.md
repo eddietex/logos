@@ -520,6 +520,13 @@ A victorious army is not exempt.
 
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
+### A wife *"defiled"* — Deuteronomy 24:4
+
+The first husband may not take back his divorced wife after her second marriage, *"after that she is
+defiled"*: *huṭṭammāʾâ*, the only hotpaal (passive) of *ṭāmēʾ* in the books searched (WLC, morphhb). Who
+or what defiled her is not said. The cause in 24:1 is *ʿerwat dābār*, the *"unclean thing"* of the camp
+in 23:14. In Deuteronomy *ṭāmēʾ* is otherwise used only of the land, at 21:23. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; home slaughter eaten by unclean and clean alike (15, 22).
@@ -660,6 +667,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–10; WEB's *defiled* is Hebrew *become holy*; clean ox and unclean donkey under one yoke.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:10–14; the man unclean by night, and the camp kept
   clean.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1, 4; *ʿerwat dābār* and the wife *"defiled"* for her first husband.
 
 ## Related themes
 

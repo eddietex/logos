@@ -279,6 +279,13 @@ The list of occasions opens with *the day of your gladness*, the one item with n
 
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
+### *"Shall cheer his wife"* — Deuteronomy 24:5
+
+The newly married man stays home a year and *"shall cheer his wife whom he has taken"*: *wǝśimmaḥ*,
+the piel of *śāmaḥ*, *make glad*. Elsewhere in Deuteronomy the verb is qal, Israel rejoicing before
+Yahweh at the feasts (12:7; 16:11, 14). This is the only piel in Genesis–Deuteronomy, and the only time
+in the book that the joy is given to someone else (WLC). See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"you shall rejoice"* before Yahweh with the household (7, 12, 18).
@@ -332,6 +339,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 - [[The Two Silver Trumpets]] — Numbers 10:10; gladness named first among the occasions for the trumpets.
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe spent on what the soul desires, and eaten with rejoicing.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; joy commanded at weeks and tents (11, 14), and *"altogether joyful"* (15).
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; *"shall cheer his wife"*, the Torah's one piel of *śāmaḥ*.
 
 ## Related themes
 

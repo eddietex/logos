@@ -714,6 +714,12 @@ who breaks a promise. Moses also calls the two tribes *an increase of sinful men
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### The land made to sin — Deuteronomy 24:4
+
+*"You shall not cause the land to sin"* is the hiphil of *ḥāṭāʾ*, in the Torah otherwise only at
+Exodus 23:33, where the nations *"make you sin against me"* (WLC). Here the land, not a person, is the
+one made to sin. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
@@ -1009,6 +1015,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; *be sure your sin will find you out* (23).
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused loan as *"sin to you"* (9).
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:21–22; the unpaid vow is sin, the unmade vow is not.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; *"You shall not cause the land to sin"*.
 
 ## Related themes
 

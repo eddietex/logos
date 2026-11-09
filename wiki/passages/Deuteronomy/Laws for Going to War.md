@@ -185,8 +185,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Edom and Sihon - Refused Passage and Different Outcomes]] — peace offered to a king outside the land.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the next pericope: the unsolved killing and the heifer.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman taken in war.
-- Deuteronomy 24:5 *(stored, not yet ingested)* — *"When a man takes a new wife, he shall not go out in
-  the army"*.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; *"When a man takes a new wife, he shall not go out
+  in the army"*.
 - Deuteronomy 28:30, 52–53 *(stored, not yet ingested)* — the curse that undoes the exemptions, and the
   siege turned on Israel.
 - Joshua 9:15; 10:40; 11:14, 19–20; 16:10 *(not yet ingested; WEB checked at bible-api.com)* — the

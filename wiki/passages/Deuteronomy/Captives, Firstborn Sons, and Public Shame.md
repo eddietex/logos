@@ -166,6 +166,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–4; the divorce law, with the same *šillaḥ*, *"let her go"* (21:14),
+  the same *"hated"* wife's verb (21:15), and the same *"may not"* (21:16).
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the previous pericope, and
   the land kept clean of innocent blood.
 - [[Laws for Going to War]] — Deuteronomy 20:14; *"the women, the little ones"* taken as plunder.

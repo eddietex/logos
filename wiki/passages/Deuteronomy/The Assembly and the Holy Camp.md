@@ -234,7 +234,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Who Is Put Out of the Camp - Numbers 5 and the Purity Laws]] — 23:10–14.
 - [[The Eunuch and the Foreigner - Deuteronomy 23.1-8 and Isaiah 56.3-7]] — 23:1–8.
 - [[Yahweh Walks in the Camp - Genesis 3.8, Leviticus 26.12, and Deuteronomy 23.14]] — 23:14.
-- Deuteronomy 24:1 *(stored, not yet ingested)* — *"some unseemly thing"*, the other *ʿerwat dābār*.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1; *"some unseemly thing"*, the other *ʿerwat dābār*.
 - Deuteronomy 29:23 *(stored, not yet ingested)* — *"the overthrow of Sodom … which Yahweh overthrew"*.
 - Nehemiah 13:1–3 *(not yet ingested; WEB checked at bible-api.com)* — the law read and the mixed
   multitude separated.

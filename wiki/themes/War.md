@@ -459,6 +459,12 @@ up the phrase in their second answer (27, 32). The chapter ends with three Manas
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### The newlywed's year — Deuteronomy 24:5
+
+*"When a man takes a new wife, he shall not go out in the army"* and is *"free at home one year"*.
+This extends 20:7, which sent the betrothed man home, to the man just married. See [[Divorce, Remarriage, and the Newlywed]] and
+[[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; conditional dispossession and the dread of Israel on the land (23–25).
@@ -603,6 +609,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[Laws for Going to War]] — Deuteronomy 20:1–20; the priest's address, the exemptions, peace offered to distant cities, *ḥērem*, and the fruit trees.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman taken in battle, a month's mourning, and no sale.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; the holy war camp.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; the newly married man exempt from the army for a year.
 
 ## Related themes
 

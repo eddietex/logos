@@ -709,6 +709,13 @@ eastern grant is a full inheritance or something less.
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### *"You shall not cause the land to sin"* — Deuteronomy 24:4
+
+A husband's taking back his divorced wife after her second marriage would *"cause the land to sin"*,
+the hiphil of *ḥāṭāʾ* (WLC). The land is again *"which Yahweh your God gives you for an inheritance"*,
+the phrase of 19:10 and 21:23. Jeremiah 3:1 asks of the same case, *"Wouldn't that land be greatly
+polluted?"* See [[Divorce, Remarriage, and the Newlywed]] and [[A Bill of Divorce - Deuteronomy 24.1-4, Isaiah 50.1, and Jeremiah 3]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the land in three parts (3), enlarged (8), and its blood guilt (10).
@@ -1106,6 +1113,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–4; a body found in the given land, and the unworked valley.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the land given for an inheritance kept undefiled.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"you lived as a foreigner in his land"*.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; a remarriage that would *"cause the land to sin"*.
 
 ## Related themes
 

@@ -11,6 +11,13 @@ status: in-progress
 
 ## Overview
 
+[[Divorce, Remarriage, and the Newlywed]] (24:1–5) gives two laws about the end and the beginning of a marriage. A man
+who has sent his wife away with *"a bill of divorce"* *"may not take her again to be his wife"* after she
+has married another man, *"after that she is defiled; for that is abomination before Yahweh. You shall
+not cause the land to sin"*. The divorce is assumed and its ground, *"some unseemly thing"*, left
+undefined. A man newly married stays home a year and *"shall cheer his wife whom he has taken"*. Who or
+what defiled the woman is recorded as unsettled.
+
 [[Fugitives, Interest, Vows, and a Neighbor's Produce]] (23:15–25) gives five short laws. A slave who has
 escaped to Israel is not handed back, and he *"shall dwell with you … in the place which he shall
 choose"*: Deuteronomy's formula for Yahweh's chosen place, used this once with another chooser. No
@@ -295,7 +302,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **49 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **50 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -346,7 +353,7 @@ Plan drawn 2026-11-05 from the stored WEB. **49 / 69 pericopes ingested.**
 - [x] [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30
 - [x] [[The Assembly and the Holy Camp]] — Deuteronomy 23:1–14
 - [x] [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25
-- [ ] Divorce Remarriage and the Newlywed — Deuteronomy 24:1–5
+- [x] [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5
 - [ ] Pledges Wages Justice and Gleaning — Deuteronomy 24:6–22
 - [ ] Justice Family Duty Honest Weights and Amalek — Deuteronomy 25:1–19
 - [ ] First Fruits and the Tithe Declaration — Deuteronomy 26:1–15
@@ -421,6 +428,7 @@ Plan drawn 2026-11-05 from the stored WEB. **49 / 69 pericopes ingested.**
 - [[Oaths and Vows]]
 - [[Wealth and Possessions]]
 - [[Sin]]
+- [[Joy and Enjoyment]]
 
 ## Key people
 - [[God]]

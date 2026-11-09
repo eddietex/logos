@@ -95,7 +95,8 @@ not said.** The last time Zipporah was on the page she was travelling to Egypt w
 her son at the lodging place (4:24–26). **The Hebrew has no subject** — the suffix *-hā* is *her*, and the sender is
 unstated; the WEB supplies *"he"*, and readers usually take the sender to be Moses. **Readings reported, not adopted**:
 Moses sent his family back for safety before the plagues; or after the lodging place; or the noun means a
-*divorce*, from *šālaḥ*, the verb Deuteronomy uses of sending away a wife (Deuteronomy 24:1, by reference). **The
+*divorce*, from *šālaḥ*, the verb Deuteronomy uses of sending away a wife (Deuteronomy 24:1; see
+[[Divorce, Remarriage, and the Newlywed]]). **The
 text gives no ground for the last beyond the root**, and 18:5–6 has Jethro bring *"your wife"* back to him. See
 [[Zipporah]].
 

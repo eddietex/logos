@@ -181,7 +181,7 @@ See [[Forbidden Unions and the Defiled Land]]. Source: stored WEB Leviticus 18.
   where 20:4 is careful to deny it — a silence with a long commentary history. See
   [[Abram in Egypt]] and [[The Wife-Sister Episodes]].
 - Later strands to trace: polygamy in the patriarchs and its consistent narrative trouble;
-  Deuteronomy 24:1–4 and the divorce debate; Hosea's marriage as prophecy; Song of Songs;
+  Deuteronomy 24:1–4 and the divorce debate (now ingested: [[Divorce, Remarriage, and the Newlywed]]); Hosea's marriage as prophecy; Song of Songs;
   1 Corinthians 7 on singleness; Revelation 19:7–9, the marriage supper of the Lamb.
 
 ### The commandments at Sinai — Exodus 20:12, 14, 17
@@ -445,6 +445,19 @@ send a wife away, which 24:1–4 will regulate, is here taken from two husbands 
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### Divorce assumed, return forbidden, the first year kept — Deuteronomy 24:1–5
+
+Deuteronomy never commands divorce. It assumes it: a husband who finds *"some unseemly thing"* in his
+wife *"shall write her a bill of divorce, and put it in her hand, and send her out of his house"*, and
+she *"may go and be another man's wife"* (1–2). The one ruling is that if the second marriage ends, by
+divorce or death, *"her former husband, who sent her away, may not take her again to be his wife, after
+that she is defiled"* (4). *Lōʾ-yûkal*, *may not*, is the form that took the power to divorce from two
+husbands in 22:19, 29 (WLC). Then a new marriage is protected: the husband stays *"free at home one
+year"* and *"shall cheer his wife"* (5), the piel *śimmaḥ*, *make glad* (WLC). Jeremiah 3:1 and Isaiah
+50:1 apply the bill of divorce to Yahweh and Israel, and the Gospels' divorce debate turns on what Moses
+*"commanded"* or *"allowed"*. See [[Divorce, Remarriage, and the Newlywed]], [[A Bill of Divorce - Deuteronomy 24.1-4, Isaiah 50.1, and Jeremiah 3]], and
+[[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
+
 ## Key passages
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
@@ -671,6 +684,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[Laws for Going to War]] — Deuteronomy 20:7; the betrothed man exempted from battle.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–17; the captive made a wife after a month, and the loved and hated wives.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, betrothal treated as marriage, and two marriages without divorce.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the bill of divorce, no return after a second marriage, and the newlywed's year.
 
 ## Related themes
 

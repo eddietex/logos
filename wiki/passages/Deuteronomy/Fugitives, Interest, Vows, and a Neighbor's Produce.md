@@ -200,6 +200,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Lending Without Interest - Exodus 22.25 and the Poor Brother]] — 23:19–20.
 - [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]] — 23:21–23.
 - [[Plucking a Neighbor's Grain - Deuteronomy 23.24-25 and the Sabbath Grain Fields]] — 23:24–25.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the next pericope, opening with the other *ʿerwat dābār*.
 - Deuteronomy 24:19–21 *(stored, not yet ingested)* — the forgotten sheaf, the olives, and the
   grapes left for the foreigner, the fatherless, and the widow.
 - Matthew 12:1–2; Mark 2:23–24; Luke 6:1 *(not yet ingested; WEB checked at bible-api.com)* — the

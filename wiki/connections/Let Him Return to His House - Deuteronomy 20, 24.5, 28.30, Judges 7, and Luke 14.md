@@ -9,9 +9,9 @@ tags: [connection]
 
 - [[Laws for Going to War]] — Deuteronomy 20:5–8; the officers send home the man with a new house, a new
   vineyard, a betrothed wife, and the man who is afraid.
-- Deuteronomy 24:5 — *"When a man takes a new wife, he shall not go out in the army, neither shall he be
-  assigned any business. He shall be free at home one year, and shall cheer his wife whom he has taken."*
-  *(stored WEB, not yet ingested)*
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; *"When a man takes a new wife, he shall not go out
+  in the army, neither shall he be assigned any business. He shall be free at home one year, and shall
+  cheer his wife whom he has taken."*
 - Deuteronomy 28:30 — *"You will betroth a wife, and another man shall lie with her. You will build a
   house, and you won't dwell in it. You will plant a vineyard, and not use its fruit."* *(stored WEB, not
   yet ingested)*
@@ -32,7 +32,11 @@ exempted for their own sake. The fourth is exempted for the army's.
 **Deuteronomy 24:5 extends the third.** The newly married man does not go out with the army for a year,
 and is not given *"any business"*; he is *"free at home"* to *"cheer his wife"*. 20:7 covered the man
 betrothed; 24:5 covers the man just married. The two laws, read together, protect the beginning of a
-marriage from war at both ends of the wedding.
+marriage from war at both ends of the wedding. 24:5 goes further than 20:7 in two ways. The exemption
+covers *"any business"*, not only war, and the reason is not *"lest he die … and another man take her"*
+but *"shall cheer his wife"*, the piel *śimmaḥ*, *make glad* (WLC). 20:7 protects what the man would
+lose; 24:5 gives the wife something. It opens with the same words as the divorce law just before it,
+*kî-yiqqaḥ ʾîš ʾiššâ*, *when a man takes a wife* (24:1, 5, WLC); see [[Divorce, Remarriage, and the Newlywed]].
 
 **Deuteronomy 28:30 reverses all three.** The covenant curses take the three exemptions and turn each
 into its loss, with the same Hebrew verbs: *ʾāraś*, *betroth*; *bānâ*, *build*; *nāṭaʿ*, *plant*; and
@@ -67,7 +71,8 @@ things, so the exemptions and the curse are two halves of one picture. Judges 7 
 dismissals in narrative and parable, each for its own purpose. See [[War]], [[Marriage]], and
 [[Laws for Going to War]].
 
-Sources: stored WEB Deuteronomy 1:28; 20:5–8; 24:5; 28:30. Judges 7:2–3 and Luke 14:18–20 checked at
+Sources: stored WEB Deuteronomy 1:28; 20:5–8; 24:1, 5; 28:30. Judges 7:2–3 and Luke 14:18–20 checked at
 bible-api.com (`translation=web`), 2026-11-08; neither book is stored. Hebrew from WLC (morphhb,
-openscriptures, GitHub), retrieved 2026-11-08: Deuteronomy 20:5–8; 24:5; 28:30; Judges 7:3. The Greek of
+openscriptures, GitHub), retrieved 2026-11-08: Deuteronomy 20:5–8; 24:5; 28:30; Judges 7:3; Deuteronomy
+24:1, 5 rechecked 2026-11-09. The Greek of
 Luke 14 was not checked.

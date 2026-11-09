@@ -191,6 +191,13 @@ shall not take his father's wife, and shall not uncover his father's skirt"* (30
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### *ʿErwat dābār*, *"some unseemly thing"* — Deuteronomy 24:1
+
+The ground on which a husband divorces his wife is *ʿerwat dābār*, literally *the nakedness of a
+thing*. The same phrase was the *"unclean thing"* that must be covered in the camp (23:14). In
+Deuteronomy *ʿerwâ* occurs only in those two verses (WLC). What it means in a wife the text does not
+say. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 23:14; 24:1.
+
 ## Key passages
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
@@ -264,6 +271,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[The Priestly Garments Made]] — Exodus 39:1–31; The linen breeches required in chapter 28 are now made.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:5, 12; men's and women's clothing; fringes on the covering cloak.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:17, 30; the cloth spread before the elders; the father's skirt uncovered.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1; *ʿerwat dābār*, *"some unseemly thing"*.
 
 ## Related themes
 

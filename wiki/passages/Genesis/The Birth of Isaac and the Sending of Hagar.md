@@ -136,7 +136,9 @@ third time, on his own account, by a narrator who withholds it.
 
 ***Gārēš*, cast out** — the verb used of the man driven from the garden (3:24) and by [[Cain]] of his
 own sentence (4:14). It is the language of expulsion from a place one belongs to, and it is the
-Torah's word for what happens to a divorced wife (Leviticus 21:7, 14; 22:13). [[Sarah]] uses no
+Torah's word for what happens to a divorced wife (Leviticus 21:7, 14; 22:13). That holds for Leviticus
+and Numbers (30:9); Deuteronomy's divorce law uses *šillaḥ*, *send away*, instead (24:1–4, WLC; see
+[[Divorce, Remarriage, and the Newlywed]]). [[Sarah]] uses no
 names: *this servant*, *her son*, *the son of this servant*, against *my son, Isaac*. **She has never
 once said Hagar's name in the Bible**, in either chapter.
 

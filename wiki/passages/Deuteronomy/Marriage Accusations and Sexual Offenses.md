@@ -228,7 +228,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Lying with the Father's Concubine - A Claim on the Succession]] — 22:30.
 - [[Not Willing to Make Her a Public Example - Deuteronomy 22.23-24 and Matthew 1.18-19]] — Joseph and
   Mary, pledged to be married.
-- Deuteronomy 24:1–4 *(stored, not yet ingested)* — the bill of divorce, *"send her out of his house"*.
+- [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–4; the bill of divorce, *"send her out of his house"*, and *"may not"* again.
 - Deuteronomy 27:20 *(stored, not yet ingested)* — *"Cursed is he who lies with his father's wife"*.
 - Deuteronomy 28:29–31 *(stored, not yet ingested)* — *"no one to save you"*; *"You will betroth a wife,
   and another man shall lie with her"*.

@@ -23745,3 +23745,54 @@ searches across Genesis–Deuteronomy were run for 868, 2181, 2308, 2770, 3238, 
 5071, 5237, 5337, 5391, 5392, 5462, 6025, 6945, 6948, 6998, 7054, and 7648. Searches across Deuteronomy
 were run for 977, 1875, 4916, and the construct of 8441 before *YHWH*. The Greek of the Gospels was not
 checked. Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-09] ingest | Deuteronomy 24.1-5 — Divorce, Remarriage, and the Newlywed
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary (WEB 24:1–5 = WLC
+24:1–5). Commas were added to the plan's title, giving *Divorce, Remarriage, and the Newlywed*. Created
+the passage page and two connections,
+[[A Bill of Divorce - Deuteronomy 24.1-4, Isaiah 50.1, and Jeremiah 3]] and
+[[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Revised 31 existing
+pages including this log. They are: Deuteronomy (box checked, overview, count, Joy and Enjoyment added
+as a key theme) and `wiki/books/index.md`; two people (Moses, Zipporah); nine themes (Marriage, Clean
+and Unclean, Sexual Sin, Land and Sojourning, Sin, War, Joy and Enjoyment, Language and Speech,
+Nakedness and Covering); three connections (Let Him Return to His House, One Flesh, The Wife of Your
+Youth); seven earlier passage pages, each given a link or cross-reference (Marriage Accusations and
+Sexual Offenses, The Assembly and the Holy Camp, Laws for Going to War, Captives, Firstborn Sons, and
+Public Shame, Fugitives, Interest, Vows, and a Neighbor's Produce, Jethro's Counsel, The Birth of Isaac
+and the Sending of Hagar); the People F-M subindex, the themes index, the Connections A-C, I-N, O-S, and
+T-Z subindexes, and `wiki/index.md`. Deuteronomy is now 50 / 69. Counts by frontmatter type are 375
+passages, 257 people, 222 places, 87 themes, and 772 connections.
+
+Corrections made, not contradictions between claims. [[One Flesh - Genesis 2 and the New Testament on Marriage]]
+quoted Matthew 19:3 as *"for any cause"* and 19:6 as *"So then they are no more two"*; the WEB has
+*"for any reason"* and *"So that they are"*, and both were recopied. [[The Birth of Isaac and the Sending of Hagar]]
+called *gāraš* *"the Torah's word for what happens to a divorced wife"*. Leviticus and Numbers use it,
+but Deuteronomy 24 uses *šillaḥ*, and the page now says so with its original claim kept.
+
+Recorded, not resolved: Jeremiah 3:8 has Yahweh give Israel *"a bill of divorce"*, while Isaiah 50:1
+asks *"Where is the bill of your mother's divorce?"*, implying none. Three readings are set out on the
+Bill of Divorce connection, none adopted. Also left open: what *ʿerwat dābār* means; whether the WEB is
+right to begin the apodosis in 24:1 (making the bill a command) rather than at 24:4; who or what
+*"defiled"* the wife, with three readings on the passage page; whether *"yet return again to me"* in
+Jeremiah 3:1 is an invitation or an ironic question; who is the subject of *śānēʾ* in Malachi 2:16.
+
+Judgment calls: no pages for the husband, the divorced wife, the second husband, or the newlywed
+couple; no place page. Given from general knowledge and marked so where made: that *sēper kǝrîtut*
+occurs only in Deuteronomy 24, Isaiah 50, and Jeremiah 3 across the Hebrew Bible; *kǝrîtut* from
+*kārat*; the Shammai–Hillel dispute (Mishnah *Gittin* 9:10, not checked); that many modern translations
+hold the apodosis until 24:4; the *rejoice with his wife* reading of 24:5; the alternative readings of
+Jeremiah 3:1 and Malachi 2:16. Jeremiah 3:14, 22 cited by reference and not checked.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 12:7; 16:11, 14; 17:18; 19:10;
+20:5, 7; 21:14–16, 23; 22:8, 13, 19, 22, 29; 23:14; 24:1–5; 28:30; Genesis 6:8; 24:41; Exodus 23:33;
+Leviticus 18:20, 25, 28; 21:7, 14; 22:13; Numbers 5:13–14, 29; 32:22; 35:33–34. Jeremiah 3:1, 8;
+Isaiah 50:1; Malachi 2:16; Matthew 5:31–32; 19:3–9; Mark 10:2–12; and Luke 16:18 checked at
+bible-api.com (`translation=web`), 2026-11-09; none of those books was fetched into raw/. Hebrew checked
+against WLC from morphhb (openscriptures, GitHub), retrieved 2026-11-09: Deuteronomy 21:15; 22:13;
+24:1–5; Isaiah 50:1; Jeremiah 3:1, 8; Malachi 2:16. Lemma searches across Genesis–Deuteronomy for 1644,
+2398, 2580, 2610, 2930, 5355, and 8055; across Deuteronomy for 2319, 3201, 3789, 5612, 6172, 6635,
+7971, and 8130; across Genesis–Deuteronomy, Isaiah, Jeremiah, Hosea, and Malachi for 3748 and the
+hotpaal stem; and a co-occurrence search of 8441 with 6440 across Genesis–Deuteronomy. The Greek of the
+Gospels was not checked. Raw files, canonical workflow instructions, and controller files were
+unchanged.
