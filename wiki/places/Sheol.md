@@ -12,6 +12,13 @@ nothing in Scripture locates it.*
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Correction to the earlier overview’s categorical claim that Sheol has no fire: Deuteronomy 32:22 explicitly depicts divine anger burning to the lowest Sheol. Genesis 37:35 and Job’s death imagery do not erase this image, nor does this verse alone describe an ongoing system of torment for the dead. Its fire reaches earth and mountain foundations as well.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The rebellion of Korah — Numbers 16:1–40
 
 The rebels descend alive into Sheol when the ground opens (30–33). This qualifies this page’s
@@ -99,6 +106,8 @@ realm: the poem does not give a tour of the dead or narrate their release.
 Source: stored WEB Song 8:5–7; comparisons use the stored Song and Proverbs 6:30–35.
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Rebellion of Korah]] — Numbers 16:1–40.
 

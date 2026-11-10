@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Recompense belongs to Yahweh (35), who avenges servants’ blood (43). Divine vengeance is not permission for private revenge; Romans 12:19 uses the declaration to forbid believers’ revenge. That verse was checked in WEB at bible-api.com on 2026-11-10.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The avenger restrained and given his due — Deuteronomy 19:1–13
 
 The avenger of blood is assumed, not created, and his anger is a fact the law plans around: he
@@ -192,6 +199,8 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the avenger *"while his heart is hot"* (6), and the murderer handed to him (12).
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

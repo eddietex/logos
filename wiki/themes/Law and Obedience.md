@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+After the song Moses commands attention, teaching children, and doing all the law (46). The word is Israel’s life and the means of prolonged days in the land (47); memorizing the accusation cannot substitute for obedience.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Moses completes a written law and orders its preservation (24–26), yet predicts departure from the commanded way (29). Possession of the text and obedience to it remain distinct.
@@ -1334,6 +1341,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

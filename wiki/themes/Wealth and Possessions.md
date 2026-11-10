@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Rich food and provision (13–14) lead into Jeshurun’s growing fat and abandoning the giver (15). This realizes the warning of Deuteronomy 8:10–20 within the poem: prosperity is a gift that can become an occasion of disloyalty.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Eating, fullness, and growing fat in the gifted land precede turning to other gods (20). The
@@ -863,6 +870,8 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The closing WEB line says Yahweh will make atonement for his land and people (43), beside avenging his servants’ blood. No priest, altar, or animal rite is prescribed here. The poem connects restored land and people with divine action against bloodshed, without defining a ritual mechanism.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### Kipper asked for the people — Deuteronomy 21:8
 
 The elders' prayer over the heifer is *kappēr lǝʿammǝkā yiśrāʾēl* — WEB *"Forgive, Yahweh, your people
@@ -340,6 +347,8 @@ not stated. See [[The Half Shekel - Census, Ransom, and the Temple Tax]].
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 

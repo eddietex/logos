@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Joshua joins Moses in speaking the song to the people (44). Succession includes transmitting the warning as well as leading into the land; no independent speech by Joshua is reproduced.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Joshua accompanies Moses to the Tent for commissioning (14). The closing charge promises that he
@@ -172,6 +179,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

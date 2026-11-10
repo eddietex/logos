@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The nations receive bounds (8), a foolish nation provokes Israel (21), enemies might claim divine victory as their own (27), and nations are finally invited to rejoice with his people (43). No particular later empire is named.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Israel is driven *among all the nations* (1) and gathered *from all the peoples* (3). The curses pass to Israel's enemies (7); the nations here are places of exile and sources of persecution, not observers as in 29:24.
@@ -409,6 +416,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 

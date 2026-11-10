@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Rams of Bashan appear in the catalogue of rich provision (14). The region supplies an image of abundance, not the location of the song’s delivery.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Og is named as its king when the two defeated rulers and the eastern inheritance are recalled (7–8).
@@ -61,6 +68,8 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

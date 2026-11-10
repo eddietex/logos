@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Israel’s sacrifices go to demons rather than God (17); its new gods provoke jealousy (16–21). The taunt in 37–38 asks those gods to rescue their worshippers, while 39 denies any god alongside Yahweh. The poem’s language about gods must be read with its own denial of their saving power.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 The work of the people’s hands provokes Yahweh (29). In the immediate context of other gods (31:16–20), this points toward idolatry, though verse 29 names no particular image or deity.
@@ -442,6 +449,8 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

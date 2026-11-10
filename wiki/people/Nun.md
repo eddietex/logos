@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Nun is named only as Joshua’s father (44); the verse gives him no action or presence.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Nun is named as Joshua's father in the commissioning notice (23). No action or attendance is
@@ -50,6 +57,8 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

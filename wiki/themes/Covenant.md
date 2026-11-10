@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The song unfolds the breach predicted in 31:16–21: the cared-for people abandon their maker (15–18). The faithful Rock’s justice (4) exposes their corruption (5). The forecast does not withdraw the concluding command to obey and teach children (46–47).
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 The book beside the covenant ark stands as a witness against Israel (26). Covenant custody preserves the standard by which the people are accused, rather than guaranteeing their fidelity.
@@ -571,6 +578,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

@@ -24306,3 +24306,30 @@ pages; git diff --check passed. No title collision or unresolved blocker.
   224 places, 87 themes, 791 connections. Both link checks clean with 57 expected
   not-yet-started book targets. Title unique; git whitespace check passed. No unresolved
   link, new unflagged contradiction, or blocker.
+
+## [2026-11-10] ingest | Deuteronomy 31.30-32.47 — The Song of Moses
+
+Ingested [[The Song of Moses]] with the planned delivery frame and closing exhortation intact.
+The poem traces wilderness care, prosperity and abandonment, judgment, compassion, and the
+nations’ rejoicing; the final command requires teaching children to obey. No boundary was changed.
+Jacob and Jeshurun are treated as collective names for Israel, not new people; Nun remains a
+patronymic mention. Moab is the continuing setting, not a location named by the song.
+
+Created the passage and [[The Song of Moses in Romans and Hebrews]]. Revised five people,
+six places, fourteen themes, five existing connections, and the Deuteronomy book page, with
+all affected index rows and dashboard totals updated. Deuteronomy is now 66 / 69 pericopes;
+totals are 391 passages, 257 people, 224 places, 87 themes, and 792 connections. Including
+indexes and this log, the pass creates 2 pages and revises 41 existing pages.
+
+Explicitly corrected the categorical no-fire claim on [[Sheol]] against Deuteronomy 32:22,
+without turning the verse into a complete doctrine of punishment after death. Retained the
+song’s tensions between rejected children and sons/daughters, judgment and compassion, and
+prediction of betrayal and the command to obey. Pronoun referents in 32:28–33 remain qualified.
+No original-language or textual-variant conclusion was asserted without source collation.
+
+Quotations are copied from stored WEB Deuteronomy. Romans 10:19; 12:19; 15:10, Hebrews 10:30,
+1 Corinthians 10:20, and Revelation 15:3–4 were individually verified against bible-api.com
+with translation=web for the later connections; no additional raw book was fetched or changed.
+Corrected the earlier Deuteronomy 32:4 excerpt on the rock connection to match stored WEB.
+No harness or workflow changes were needed. Link checks passed with 57 expected not-started
+book targets and no wrapped links or unexpected dangling targets. No unresolved blocker.

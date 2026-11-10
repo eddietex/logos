@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The closing exhortation locates prolonged life in the land across the Jordan (47). The crossing is still future; this passage narrates instruction rather than entry.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The river remains the boundary Israel will cross to possess the land (13). The scheduled reading concerns life after entry; this passage narrates no crossing.
@@ -217,6 +224,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

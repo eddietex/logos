@@ -6,11 +6,20 @@ tags: [connection]
 # Heaven and Earth as Witnesses - Deuteronomy 4, 30, and 31
 
 ## Passages involved
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
+
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:25–26.
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:19.
 - [[The Book Beside the Ark]] — Deuteronomy 31:28–29.
 
 ## Analysis
+
+### The song now delivered
+
+Deuteronomy 32:1 addresses the heavens and earth summoned in 31:28. Their hearing frames the whole indictment, while 32:46–47 returns the witnesses’ audience to obedience and life. The poem thus follows the summons without canceling the earlier appeal to choose life.
+
+Source: stored WEB Deuteronomy 31:30–32:47; later-text verification as noted.
+
 
 Moses invokes heaven and earth in three related settings. Deuteronomy 4:25–26 anticipates
 corruption and image-making after generations in the land and calls the witnesses against

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The desert is the scene of being found, guarded, and carried like an eagle’s young (10–12). The poem stresses tender care where earlier narratives also stressed testing and rebellion. It need not supply a separate wilderness itinerary.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Forty years of preserved clothing and unusual provision become evidence for knowing Yahweh (5–6). The wilderness past grounds the covenant obligation now.
@@ -240,6 +247,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

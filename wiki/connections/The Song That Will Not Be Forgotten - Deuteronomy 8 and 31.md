@@ -6,6 +6,8 @@ tags: [connection]
 # The Song That Will Not Be Forgotten - Deuteronomy 8 and 31
 
 ## Passages involved
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
+
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
@@ -13,6 +15,13 @@ tags: [connection]
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 ## Analysis
+
+### The song now delivered
+
+The song now voices the prediction: abundance becomes abandonment (32:13–18). Its conclusion requires teaching children to obey (46–47), so remembered testimony remains an urgent summons rather than a guarantee of faithfulness.
+
+Source: stored WEB Deuteronomy 31:30–32:47; later-text verification as noted.
+
 The book beside the ark adds a material witness to the remembered song (31:24–29).
 Both survive Moses and expose rebellion; preservation is not obedience. Source: stored WEB
 Deuteronomy 31:19–29.

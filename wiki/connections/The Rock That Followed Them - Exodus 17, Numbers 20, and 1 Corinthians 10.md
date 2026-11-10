@@ -6,6 +6,8 @@ tags: [connection]
 # The Rock That Followed Them - Exodus 17, Numbers 20, and 1 Corinthians 10
 
 ## Passages involved
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
@@ -18,7 +20,7 @@ tags: [connection]
   didn't believe in me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring
   this assembly into the land"*; *"These are the waters of Meribah"* (WEB, 20:8, 11–13; checked against stored Numbers)
 - **Deuteronomy 8:15** — *"who poured water for you out of the rock of flint"* (WEB) *(not yet ingested)*
-- **Deuteronomy 32:4** — *"The Rock: his work is perfect"* (by reference) *(not yet ingested)*
+- **Deuteronomy 32:4** — *"The Rock, his work is perfect"* (stored WEB; now ingested)
 - **Psalm 78:15–16, 20** — *"He split rocks in the wilderness … He brought streams also out of the rock"*;
   *"Behold, he struck the rock, so that waters gushed out … Can he give bread also?"* (WEB) *(not yet ingested)*
 - **Psalm 105:41; 114:8** — *"He opened the rock, and waters gushed out"*; *"who turned the rock into a pool
@@ -29,6 +31,13 @@ tags: [connection]
   followed them, and the rock was Christ."* (WEB, 10:4) *(not yet ingested)*
 
 ## Analysis
+
+### The song now delivered
+
+Deuteronomy 32:4, 15, 18, 30–31 names Yahweh as the Rock who creates, saves, and also delivers his unfaithful people to defeat. The contrast with helpless rival rocks (37–39) concerns divine faithfulness and power. This song does not narrate water flowing from a rock or identify the Rock as Christ; the latter identification belongs to Paul’s later reading.
+
+Source: stored WEB Deuteronomy 31:30–32:47; later-text verification as noted.
+
 
 ### Water remembered amid wealth
 

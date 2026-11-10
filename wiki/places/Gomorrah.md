@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Gomorrah’s fields are paired with Sodom’s vine in the image of poisonous grapes and wine (32–33). The song invokes corruption through a familiar place-name rather than narrating another destruction.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Named with Sodom, Admah, and Zeboiim as an example of overthrow (23). The comparison concerns Israel’s future land, not another destruction of Gomorrah.
@@ -43,6 +50,8 @@ Lot pitches toward Sodom, and Gomorrah is there because the phrase requires it.
 for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of the Jordan]].
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

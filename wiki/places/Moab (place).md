@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The song continues the Moab setting of Deuteronomy 29:1. Moab is not named in this unit, and the named places within the poem are images or remembered sources of provision rather than a new itinerary.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 The deposition command continues the Moab setting of Deuteronomy 29:1. No new location is named in 31:24–29; heaven and earth are summoned as witnesses, not travel destinations.
@@ -242,6 +249,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

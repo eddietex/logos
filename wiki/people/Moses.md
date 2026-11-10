@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Moses delivers the entire song before Israel (31:30; 32:44–45), with Joshua named beside him. He then commands wholehearted attention and teaching children to obey: these words are their life in the land (46–47). The song is not merely a farewell performance.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Moses finishes writing the law, commands its deposit beside the ark, and summons elders and officers (24–28). His forecast of rebellion after his death rests on the rebellion he already knows while alive (27–29).
@@ -1843,6 +1850,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

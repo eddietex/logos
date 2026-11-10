@@ -6,6 +6,8 @@ tags: [connection]
 # The Song of Moses and the Lamb - Exodus 15 in Revelation 15
 
 ## Passages involved
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
+
 
 - **Exodus 15:1, 11** — *"Then Moses and the children of Israel sang this song to Yahweh"*; *"Who is like
   you, Yahweh, among the gods? Who is like you, glorious in holiness, fearful in praises, doing wonders?"* —
@@ -19,6 +21,13 @@ tags: [connection]
   have been revealed.'"* (WEB; *not yet ingested*)
 
 ## Analysis
+
+### The song now delivered
+
+Deuteronomy 32 is now another ingested Mosaic song relevant to Revelation 15:3–4: just divine ways (32:4) and nations rejoicing (32:43) accompany the Exodus sea-song background. Revelation’s title does not settle which Mosaic song supplies its entire wording. Its praise combines themes rather than reproducing Deuteronomy 32 verbatim. Revelation 15:3–4 WEB was checked at bible-api.com on 2026-11-10.
+
+Source: stored WEB Deuteronomy 31:30–32:47; later-text verification as noted.
+
 
 **Revelation names the Song but does not quote it.** The words sung in 15:3–4 are not the words of Exodus
 15. What it shares is a setting and a set of themes (Greek checked against the SBLGNT; Hebrew against the

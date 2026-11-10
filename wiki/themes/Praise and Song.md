@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The poem begins with proclamation of Yahweh’s greatness and justice (1–4), accuses Israel, and ends by calling nations to rejoice with his people (43). Song carries warning and promised vindication together. The prose says Moses and Joshua spoke it (44), without describing instruments or a musical performance.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Song here serves as a witness against the people (19–21). This broadens the theme beyond
@@ -156,6 +163,8 @@ Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra ke
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Yahweh is the faithful Rock and parent whose care Israel repays with abandonment (4–18). He hides his face and judges, yet restrains annihilation lest enemies claim the victory (20–27), has compassion on powerless servants (36), and alone kills, makes alive, wounds, and heals (39). Judgment and compassion remain together; neither cancels the other.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Yahweh is the covenant Lord against whom rebellion is directed. Moses predicts evil following the people’s provocation (27–29); the ark’s presence does not exempt its custodians from accountability.
@@ -3750,6 +3757,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The Rock names the just and faithful God (4), rejected by his prosperous people (15). Fatherhood and birth imagery (6, 18) describe his relation to Israel. Rival rocks cannot protect their dependents (31, 37–39). These observations concern the stored WEB, without a source-language claim.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### Heard and lived — Deuteronomy 4:32–40
 
 Two confessions frame the close of the first address: *Yahweh is God. There is no one else besides him* (35), and *Yahweh himself is God in heaven above and on the earth beneath. There is no one else* (39). They go further in English than Exodus 15:11's *Who is like you … among the gods?* See [[There Is No One Else - Deuteronomy 4.35-39, Isaiah 45, and Mark 12.32]].
@@ -275,6 +282,8 @@ See [[The Words of Agur]]. Source: stored WEB Proverbs 30:1–14 and the compari
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"to put his name there"* (5, 21) and *"to cause his name to dwell there"* (11).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The faithful God’s judgment reaches every age group (24–25); the violence is explicit. Threatened erasure is restrained because enemies would misconstrue their victory (26–27). Compassion at powerlessness (36) does not erase the threatened judgment; vengeance against adversaries follows (41–43).
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Moses links future evil to corruption and provocation of Yahweh (29), and calls heaven and earth as witnesses (28). The prediction supplies a covenant explanation, not a license to infer anyone’s guilt from suffering alone.
@@ -977,6 +984,8 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

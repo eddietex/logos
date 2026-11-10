@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+The poisonous vine is described as coming from Sodom, paired with Gomorrah’s fields (32–33). This is a moral comparison, not a new journey or a botanical report; the shifting referents in the surrounding indictment should not be forced into a precise geographical claim.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Its overthrow is explicitly made a comparison for Israel’s threatened devastated land (23). Covenant membership does not make Israel immune from a fate associated with foreign cities.
@@ -78,6 +85,8 @@ geology does supply, uncontroversially, is a region on an active transform fault
 and salt over. See [[The Plain of the Jordan]].
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Yahweh alone kills and makes alive, wounds and heals (39). The closing exhortation calls the instruction Israel’s life (47). The first statement asserts divine sovereignty; it does not by itself specify a resurrection event.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Moses’ approaching death sharpens the problem of continuity: rebellion already exists during his life and will worsen after it (27, 29). A deposited book and summoned witnesses preserve accountability beyond his death.
@@ -908,6 +915,8 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Yahweh has compassion on servants whose power is gone (36). Unlike the explicit return of 30:1–3, this line names helplessness rather than a prior confession. These are different emphases, not grounds to delete either account of restoration.
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Yahweh will *release you from captivity, have compassion on you* (3), as 4:31 promised that he is *a merciful God*. Compassion follows the curses that 28:63 described without withdrawing them.
@@ -406,6 +413,8 @@ same chapter the guilty man's beating is capped so that *"your brother"* is not 
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 

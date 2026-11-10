@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The Song of Moses — Deuteronomy 31:30–32:47
+
+Jacob names the collective people who are Yahweh’s inheritance (9), cared for in the wilderness (10–12). This is national personification using the ancestor’s name, not a new episode in the patriarch’s biography. Jeshurun likewise names Israel within the song (15).
+
+See [[The Song of Moses]]. Source: stored WEB Deuteronomy 31:30–32:47.
+
+
 ### Choose life — Deuteronomy 30:11–20
 
 Named with Abraham and Isaac as the fathers to whom Yahweh swore the land (20). Ancestral remembrance, not presence.
@@ -847,6 +854,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

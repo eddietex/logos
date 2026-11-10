@@ -6,6 +6,8 @@ tags: [connection]
 # What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9
 
 ## Passages involved
+- [[The Song of Moses]] — Deuteronomy 31:30–32:47.
+
 
 - [[The Golden Calf]] — Exodus 32:10–14
 - [[The People Refuse the Land]] — Numbers 14:11–20
@@ -14,6 +16,13 @@ tags: [connection]
 - Ezekiel 20:13–17 — *I worked for my name's sake* *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### The song now delivered
+
+In Deuteronomy 32:26–27 Yahweh himself restrains threatened erasure lest enemies claim victory for their own hand. Unlike the earlier intercessions, no prayer by Moses intervenes within this part of the song. Concern for what enemies would conclude is voiced as divine deliberation.
+
+Source: stored WEB Deuteronomy 31:30–32:47; later-text verification as noted.
+
 
 Twice Yahweh offers to destroy Israel and start again with Moses, and both times Moses refuses to
 discuss it.
