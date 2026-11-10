@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Its overthrow is explicitly made a comparison for Israel’s threatened devastated land (23). Covenant membership does not make Israel immune from a fate associated with foreign cities.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 A city named four times before anything happens in it, and by then the reader already knows how it
 ends.
 
@@ -72,6 +78,8 @@ geology does supply, uncontroversially, is a region on an active transform fault
 and salt over. See [[The Plain of the Jordan]].
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[The Table of Nations]] — Genesis 10:19, a border marker for Canaan's territory
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:2, 8–12, 17, 21–24; sacked by the four kings,

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The king of Bashan is recalled with Sihon as defeated before the eastern land was allotted (7–8). No new battle takes place.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 His former kingdom of Bashan is included with Sihon’s territory in Israel’s acquired land (47). The two are explicitly called kings of the Amorites.
@@ -54,6 +60,8 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

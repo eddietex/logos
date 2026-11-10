@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Yahweh refuses pardon to the apostate who presumes peace while persisting in stubbornness (19–20). The warning targets defiant self-assurance; it is not a universal denial that repentant sinners may be forgiven.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### "The blood shall be forgiven them" — Deuteronomy 21:8
 
 WEB's *"Forgive"* and *"shall be forgiven"* in 21:8 translate *kipper* (WLC), not *sālaḥ*, the verb
@@ -230,6 +236,8 @@ does not say she sinned by vowing, and the wiki leaves open whether *forgive* he
 See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

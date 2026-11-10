@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Israel has encountered other nations’ idols (16–18); later nations ask why Yahweh devastated Israel’s land (24–28). Their question receives a covenant explanation rather than an account of Yahweh’s defeat.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 An unnamed distant nation invades, the king is deported, and Israel becomes a byword among peoples (36–37, 49–50, 64). The text does not identify a particular later empire, so no identification is imposed here.
@@ -397,6 +403,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

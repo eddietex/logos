@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The earlier covenant at Horeb is expressly distinguished from the covenant commanded in Moab (1). The verse does not say the earlier covenant is abolished.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### The day of the assembly recalled — Deuteronomy 18:16–17
 
 Horeb is named as the origin of prophecy in Israel. The people's request *"in the day of the assembly"*
@@ -695,6 +701,8 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

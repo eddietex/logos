@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
+
 - [[The Golden Calf]] — Exodus 32:30–34.
 
 - **Genesis 6:7; 7:4, 23** — *"I will destroy man"*; *"I will destroy every living thing"*; *"Every living thing was
@@ -16,15 +18,21 @@ tags: [connection]
 - **Exodus 32:32–33** — *"please blot me out of your book which you have written"*; *"Whoever has sinned against
   me, him will I blot out of my book"* — [[The Golden Calf]]
 - **Deuteronomy 9:14** — *"Leave me alone, that I may destroy them, and blot out their name from under the sky"*
-  *(not yet ingested)*
+  — [[Remember the Calf and Moses' Intercession]]
 - **Deuteronomy 25:6, 19** — *"that his name not be blotted out of Israel"*; *"you shall blot out the memory of
   Amalek from under the sky. You shall not forget"* — [[Justice, Family Duty, Honest Weights, and Amalek]]
 - **Deuteronomy 29:20** (29:19 Hebrew) — *"all the curse that is written in this book will fall on him, and Yahweh
-  will blot out his name from under the sky"* *(not yet ingested)*
+  will blot out his name from under the sky"* — [[The Covenant in Moab and the Hidden Things]]
 - **Psalm 69:28** (69:29 Hebrew) — *"Let them be blotted out of the book of life, and not be written with the
   righteous"* *(not yet ingested)*
 
 ## Analysis
+
+### Deuteronomy 29 now ingested
+
+Deuteronomy 29:20 singles out the presumptuous apostate; the written book contains the curse, not an expressly named register of life.
+
+Source for this addition: stored WEB Deuteronomy 29:1–29.
 
 **One Hebrew verb, *māḥâ*, *to wipe out*, runs from the flood to the book of life, and from Exodus 17 onward it
 keeps company with two other words: *sēper*, *book*, and *kātab*, *write*.** All forms below were checked

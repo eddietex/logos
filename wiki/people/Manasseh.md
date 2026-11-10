@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The half-tribe of the Manassites shares the eastern inheritance (8). The statement does not assign the whole tribe east of the Jordan.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Golan in Bashan is designated for the Manassites (43). This concerns the eastern
@@ -179,6 +185,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

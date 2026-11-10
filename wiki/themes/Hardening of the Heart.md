@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Witnessed signs coexist with the absence of a divinely given knowing heart (2–4). The warning also holds the stubborn apostate responsible (18–21). The tension between divine gift and human responsibility is stated, not resolved by equating verse 4 with a deliberate hardening act.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Verse 30 explicitly attributes Sihon’s hardened spirit and obstinate heart to Yahweh, with delivery
@@ -143,6 +149,8 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1; the passage 
 sources and interpretive limits.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

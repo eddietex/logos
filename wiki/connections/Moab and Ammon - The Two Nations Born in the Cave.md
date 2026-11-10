@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
+
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 
 - [[Lot and His Daughters]] — Genesis 19:30–38, the origin: *"He is the father of the Moabites to
@@ -29,6 +31,12 @@ tags: [connection]
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6, the exclusion.
 
 ## Analysis
+
+### Deuteronomy 29 now ingested
+
+The covenant made in Moab warns Israel itself with the fate of Sodom; location is not a covenant with Moab.
+
+Source for this addition: stored WEB Deuteronomy 29:1–29.
 
 ### Deuteronomy 23 now ingested
 

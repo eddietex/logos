@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Forty years of preserved clothing and unusual provision become evidence for knowing Yahweh (5–6). The wilderness past grounds the covenant obligation now.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Horeb, Taberah, Massah, Kibroth Hattaavah, and Kadesh become a remembered history of provocation
@@ -234,6 +240,8 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the wilderness as one edge of the border (24).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

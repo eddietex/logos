@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The secret belongs to Yahweh, while revelation is entrusted to the people and their children for obedience (29). Unlike royal investigation in Proverbs 25:2, this verse emphasizes the practical obligation arising from what is known.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 *Ḥokmâ* — skill, first of all. The word's earliest uses are craft: the *"wise-hearted"* who weave
 and cut stones and work gold for the tabernacle (Exodus 28:3, 31:3–6, 35:35). From there it widens
 to the skill of living well — knowing how the world is arranged and how to move within it — and
@@ -811,6 +817,8 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; keeping the statutes as Israel's wisdom.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *wise men of understanding* as the qualification for office.

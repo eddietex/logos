@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The covenant is made in Moab in addition to the covenant at Horeb (1). The location distinguishes this assembly without making it a covenant with the Moabites.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Excluded from the assembly — Deuteronomy 23:3–6
 
 The Moabite is barred from Yahweh's assembly *"even to the tenth generation"* (3), for not meeting
@@ -210,6 +216,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

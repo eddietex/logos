@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+A hidden turning of any individual, household, or tribe toward other gods becomes a poisonous root (16–18). Future observers explain national ruin by abandoned covenant and worship of other gods (25–28).
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Exile brings service to gods of wood and stone (36, 64), the very allegiance the covenant forbids. The threatened outcome is not permission to worship them.
@@ -415,6 +421,8 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

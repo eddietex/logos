@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The devastated and abandoned land of verses 22–28 is the promised land in context; Canaan is not named. Exile is explained as covenant abandonment and rival worship, not failed divine ownership.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The given land is the scene of crop failure, siege, and eventual uprooting (21, 38–42, 52, 63). Canaan is the contextual identification; it is not named in this unit.
@@ -393,6 +399,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

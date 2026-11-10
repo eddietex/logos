@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Og is named as its king when the two defeated rulers and the eastern inheritance are recalled (7–8).
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 Og’s land is included in the conquered territory where the law is framed (47). This is a territorial summary, not another campaign or a fresh tribal allocation.
@@ -55,6 +61,8 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

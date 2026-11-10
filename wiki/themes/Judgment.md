@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+An individual apostate’s erased name and a land made barren stand together (20–28). Sodom’s overthrow becomes the explicit analogy for Israel’s possible fate, explained to future generations as covenant breach.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Disease, dispossession, siege, and scattering are presented as divine sanctions (20–68). Their terrible effects on children are explicit; describing judgment must not conceal the cost or turn the warning into permission for cruelty.
@@ -956,6 +962,8 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

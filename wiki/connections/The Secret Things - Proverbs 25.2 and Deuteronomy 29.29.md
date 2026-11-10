@@ -7,17 +7,25 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
+
 - [[The Glory of Kings]] — Proverbs 25:2–3: *"It is the glory of God to conceal a thing, but the glory
   of kings is to search out a matter. As the heavens for height, and the earth for depth, so the hearts
   of kings are unsearchable."*
 - Deuteronomy 29:29 — *"The secret things belong to Yahweh our God; but the things that are revealed
   belong to us and to our children forever, that we may do all the words of this law."* Verified WEB,
-  not yet ingested.
+  now ingested in [[The Covenant in Moab and the Hidden Things]].
 - [[The Glory of Kings]] — Proverbs 25:9, *"don't betray the confidence of another"*, and 25:23, *"a
   backbiting tongue"*.
 - [[The King's Heart]] — Proverbs 21:1, *"The king's heart is in Yahweh's hand"*.
 
 ## Analysis
+
+### Deuteronomy 29 now ingested
+
+Deuteronomy 29 now ingested: revealed law belongs to the community and its children for doing; Proverbs honors royal inquiry.
+
+Source for this addition: stored WEB Deuteronomy 29:1–29.
 
 **One root for what is hidden.** Proverbs 25:2 gives God the glory of *concealing* — *hastēr*, from
 *sāṯar*, to hide. Deuteronomy 29:29 (29:28 in Hebrew numbering) calls *"the secret things"*

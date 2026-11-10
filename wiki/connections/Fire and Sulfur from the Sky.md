@@ -7,17 +7,25 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
+
 - Genesis 19:24–25 — the first occurrence, and the source of everything below
 - Exodus 9:18–25 — Yahweh *"rained"* hail with fire on Egypt, the same verb and the same pairing of
   sky and fire, without the sulfur — [[Livestock, Boils, and Hail]]
 - Exodus 16:4 — *"Behold, I will rain bread from the sky for you"* — the same verb and the same *"from the
   sky"*, reversed — [[Manna and Quail]]
-- Deuteronomy 29:23 — *"brimstone, salt, and burning"*, the covenant curse
+- Deuteronomy 29:23 — *"sulfur, salt, and burning"*, the covenant curse
 - Job 18:15; Psalm 11:6; Isaiah 30:33; 34:9–10; Ezekiel 38:22 — the prophetic and wisdom uses
 - Luke 17:29 — the one New Testament narrative use, in the discourse on the day of the Son of Man
 - Revelation 9:17–18; 14:10; 19:20; 20:10; 21:8 — five uses, all eschatological
 
 ## Analysis
+
+### Deuteronomy 29 now ingested
+
+Deuteronomy 29:23 explicitly applies the overthrow of four cities to Israel’s threatened devastated land.
+
+Source for this addition: stored WEB Deuteronomy 29:1–29.
 
 > **24** Then Yahweh rained on Sodom and on Gomorrah sulfur and fire from Yahweh out of the sky.
 

@@ -24093,3 +24093,36 @@ Validation: scripts/link-check.sh passed with no wrapped links or unexpected dan
 and 57 expected not-yet-started books. Frontmatter totals are 383 passages, 257 people,
 222 places, 87 themes, and 783 connections. New titles are unique; git diff --check passed.
 No unresolved ingestion blocker.
+
+## [2026-11-10] ingest | Deuteronomy 29.1-29 — The Covenant in Moab and the Hidden Things
+
+Ingested [[The Covenant in Moab and the Hidden Things]], retaining the planned boundary.
+The Moab covenant gathers women, children, resident foreigners, and those absent under the
+ancestral oath. Witnessed signs and the ungiven knowing heart remain in tension; private
+presumption does not escape the written curse. The ruined land prompts future observers’
+question, and the closing distinction grounds obedience in what has been revealed.
+
+Created four pages: one passage, the places [[Admah]] and [[Zeboiim]], and the connection
+[[Seen Signs and an Unknowing Heart - Deuteronomy 4 and 29]], filed under S. Revised eleven
+people, eight existing places, sixteen themes, four existing connections, two related passages,
+and the book overview/checklist, plus eleven indexes/dashboard files and this log: 54 existing
+pages revised. Deuteronomy now stands at 59 / 69 pericopes.
+
+Tribal names are identified as descendants, remembered kings and patriarchs as past figures,
+and Canaan as a contextual identification. Generic workers, officials, and future observers
+receive no invented personal identities. Admah and Zeboiim receive no speculative modern sites.
+The moist/dry image in verse 19 remains unresolved; the absent parties in verse 15 are not
+restricted to a named generation. No pericope boundary changed.
+
+All 29 quoted verses were mechanically compared with stored WEB Deuteronomy 29:1–29.
+New comparisons use stored WEB Deuteronomy 4:35–39, Genesis 19:24–25, and Proverbs 25:2–3.
+Corrected the fire-and-sulfur connection’s short Deuteronomy quotation to the stored WEB wording
+and replaced stale ingestion labels on the secret-things and blot-out connections. No new
+external quotation or exact Hebrew/Greek claim was introduced. Existing linguistic source
+attributions remain in place without a claim of fresh independent verification. Raw texts,
+instructions, and controller files were unchanged. Agent: OpenAI Codex.
+
+Validation: scripts/link-check.sh passed, with no wrapped links or unexpected dangling targets
+and 57 expected not-yet-started book pages. Frontmatter totals: 384 passages, 257 people,
+224 places, 87 themes, 784 connections. New titles and their category rows are unique;
+git diff --check passed. No unresolved ingestion blocker.

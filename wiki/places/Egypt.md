@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The assembly remembers witnessed signs against Pharaoh (2–3), former residence and encountered idols (16–17), and the covenant made at the exodus (25).
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Egypt supplies the named diseases (27, 60) and the final destination by ship (68). Return and attempted self-sale reverse the exodus; the WEB ends with nobody buying, not a completed slave transaction.
@@ -412,6 +418,8 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Clothing and shoes endure forty years, and life without bread, wine, or strong drink teaches dependence on Yahweh (5–6). The point is sustained provision; the passage does not say Israel ate nothing.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Preserved clothing and feet, manna, and water from flint accompany the remembered hardships (3–4,
@@ -420,6 +426,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

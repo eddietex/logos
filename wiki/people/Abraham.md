@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Named with Isaac and Jacob as a recipient of the oath underlying Israel’s establishment as Yahweh’s people (13). This is ancestral remembrance, not presence in Moab.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Moses asks Yahweh to remember Abraham with Isaac and Jacob as his servants (27). The appeal
@@ -877,6 +883,8 @@ promise persists even when the terms of divine accompaniment are disputed. See
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, third in a reversed list (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

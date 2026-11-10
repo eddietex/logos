@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Yahweh establishes Israel as his people by oath (12–13), yet has not given a knowing heart to this day (4). He judges the self-assured apostate (20–21); hidden things belong to him while revealed law belongs to the community (29).
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Yahweh is explicitly the agent of disease, defeat, exile, and terrifying insecurity (20–28, 63–68). Verse 63 places rejoicing over destruction beside rejoicing to do good; this disturbing claim must remain beside the promises of covenant preservation in Leviticus 26:44–45.
@@ -3710,6 +3716,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

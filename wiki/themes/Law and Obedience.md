@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Keeping and doing frame the address (9, 29). Hidden things belong to God, but revealed law obligates the community and its children; uncertainty is not an excuse to disregard what has been disclosed.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Failure to listen and do frames the sanctions (15, 45, 58, 62). Verse 58 expressly speaks of the words written in this book; the warning concerns enacted allegiance, not merely hearing a reading.
@@ -1289,6 +1295,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

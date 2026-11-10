@@ -497,3 +497,8 @@ say which, and it withholds the information from Abraham as well as from the rea
   earliest evidence of the chapter being read against a visible landscape, and worth nothing more
   than that: the Lisan marl throws up salt columns continually, and Josephus makes similar claims
   elsewhere.
+
+### Deuteronomy 29 comparison
+
+[[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:23 explicitly applies the cities’ overthrow as a warning to Israel’s land.
+See [[Fire and Sulfur from the Sky]]. Source: stored WEB Deuteronomy 29.

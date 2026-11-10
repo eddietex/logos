@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The people saw the signs and wonders in Egypt (2–3), yet lack a knowing heart (4). This stands in tension with Deuteronomy 4:35, where showing has knowledge as its purpose: visible evidence and effective understanding are not treated as identical.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The curses themselves become a sign and wonder to Israel and its offspring (46). Signs here expose covenant failure rather than guaranteeing rescue.
@@ -134,6 +140,8 @@ signs, and with wonders."* The list of 4:34, now put in the mouth of every house
 first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

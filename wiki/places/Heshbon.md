@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Sihon is identified as king of Heshbon in the recollection of victory (7). The present assembly is in Moab, not a new battle here.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 Sihon is identified as having lived here (46). The instruction itself takes place in the valley opposite Beth Peor, not in Heshbon.
@@ -59,6 +65,8 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

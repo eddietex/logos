@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The Moab covenant is additional to Horeb (1), grounded in the ancestral oath (13), and embraces those present and absent (14–15). Belonging includes women, children, and resident foreigners (10–11); it gives no immunity to secret apostasy.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Land, multiplication, freedom, and national standing are all threatened with reversal (36, 43–44, 62–68). Destruction language stands in tension with Leviticus 26:44–45, where Yahweh refuses utter destruction and covenant cancellation; the witnesses are retained without making this unit a final declaration of abandonment.
@@ -525,6 +531,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

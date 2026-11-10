@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The king and his servants are recalled as recipients of the witnessed deeds in Egypt (2–3). No personal name or dynasty is supplied.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Recalled as "Pharaoh the king of Egypt", against whom and against whose land Yahweh did his signs and works (3). His army, horses, and chariots are remembered as overwhelmed by the Red Sea (4). He is cited only as a past witness of Yahweh's power.
@@ -242,6 +248,8 @@ See [[The Song of the Sea]].
   the Song, and not said to die — Exodus 15:1–21, [[The Song of the Sea]]
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

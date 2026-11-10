@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Egypt’s signs, forty years of preserved clothing, and the victories over Sihon and Og ground the present summons (2–9). Remembered experience does not itself guarantee understanding (4).
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Israel must remember its provocations (7), while Moses asks Yahweh to remember Abraham, Isaac, and
@@ -636,6 +642,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; laid-up words, bound signs, and door-post writing as means of memory (18–20).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

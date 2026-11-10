@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The entire assembly enters Yahweh’s covenant and oath (10–15), grounded in his oath to the fathers. This is communal allegiance across generations, not an optional private vow.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The people’s repeated Amen assents to stated curses (15–26). This resembles the woman’s assent in Numbers 5:22, but here it is communal covenant acknowledgment, not a voluntary vow or an individual ordeal.
@@ -421,6 +427,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Named with Abraham and Isaac among the fathers to whom Yahweh swore (13). Jacob the ancestor is distinguished from the assembled people Israel.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### *"My father was a Syrian ready to perish"* — Deuteronomy 26:5
 
 The first-fruits confession begins with an unnamed father, *ʾărammî*, *"a Syrian"*, the gentilic
@@ -835,6 +841,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

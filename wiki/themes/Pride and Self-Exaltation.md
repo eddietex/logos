@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The inward claim of peace despite stubbornness (19) is a form of presumptuous security. Hearing a covenant warning while privately exempting oneself defeats its intended response.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 The imagined inward boast now claims moral credit for possession (4), following the claim to self-made wealth in 8:17. Moses blocks the inference from success to deservingness.
@@ -317,6 +323,8 @@ The king reads the law *"that his heart not be lifted up above his brothers"* (1
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 

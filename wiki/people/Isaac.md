@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Named with Abraham and Jacob in the ancestral oath (13). The covenant assembly inherits a promise made before its own generation.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Named with Abraham and Jacob in Moses’ appeal that Yahweh remember his servants (27). This is
@@ -586,6 +592,8 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, between Jacob and Abraham (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

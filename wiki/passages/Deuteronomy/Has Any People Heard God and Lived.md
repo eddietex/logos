@@ -154,3 +154,8 @@ begins a new movement after the promise of return in 4:29–31, and verse 41 cha
 narrative. Quotations are from stored WEB Deuteronomy 4, 5, 6, 7, 26, 32; Genesis 32; and Exodus 6, 15,
 20, 33. Isaiah 45:5–6, 18, 21–22 and Mark 12:29–33 were verified against bible-api.com's WEB on
 2026-11-05. No claim about exact Hebrew or Greek wording is made on this page.
+
+### Deuteronomy 29 comparison
+
+[[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:2–4 places witnessed signs beside an ungiven knowing heart.
+See [[Seen Signs and an Unknowing Heart - Deuteronomy 4 and 29]]. Source: stored WEB Deuteronomy 29.

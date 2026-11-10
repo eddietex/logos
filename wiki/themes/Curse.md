@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+The person who hears the curse and inwardly claims peace is singled out for the book’s sanctions (19–21). The national devastation that follows exposes the emptiness of that private self-blessing.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The opening curses reverse city, field, basket, offspring, and coming and going from the blessing list (15–19). The expanded sanctions overtake disobedience and reach exile and return to Egypt (45–68).
@@ -287,6 +293,8 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

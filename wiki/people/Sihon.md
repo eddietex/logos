@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+His defeat alongside Og is recalled as the prelude to the eastern inheritance (7–8). He is identified as king of Heshbon, not a participant in the present assembly.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 His former land contains the valley where Moses speaks. He is identified as king of the Amorites, resident at Heshbon, and defeated by Moses and Israel (46–47); no new battle occurs.
@@ -63,6 +69,8 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

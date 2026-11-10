@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Covenant in Moab and the Hidden Things]] (29:1–29) gathers the inclusive assembly into the Moab covenant.
+Witnessed signs coexist with an ungiven knowing heart; presumptuous apostasy brings judgment,
+and the ruined land becomes a warning to later observers. Hidden things remain God’s; revealed
+law obligates Israel and its children.
+
 [[Curses for Disobedience]] (28:15–68) reverses the blessings through disease, failed harvests,
 defeat, siege, and scattering. The closing return to Egypt undoes liberation; unnamed kings
 and invaders remain unnamed, and threatened destruction is held beside the covenant-preserving
@@ -416,7 +421,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26
 - [x] [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14
 - [x] [[Curses for Disobedience]] — Deuteronomy 28:15–68
-- [ ] The Covenant in Moab and the Hidden Things — Deuteronomy 29:1–29
+- [x] [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29
 - [ ] Return Restoration and the Circumcised Heart — Deuteronomy 30:1–10
 - [ ] The Word Is Near and the Choice Is Life — Deuteronomy 30:11–20
 - [ ] Be Strong as Joshua Takes the Lead — Deuteronomy 31:1–8

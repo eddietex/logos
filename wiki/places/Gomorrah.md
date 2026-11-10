@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant in Moab — Deuteronomy 29:1–29
+
+Named with Sodom, Admah, and Zeboiim as an example of overthrow (23). The comparison concerns Israel’s future land, not another destruction of Gomorrah.
+
+See [[The Covenant in Moab and the Hidden Things]]. Source: stored WEB Deuteronomy 29:1–29.
+
 The Bible's most consistently attached name. Gomorrah appears roughly two dozen times in Scripture
 and, with two exceptions, never without [[Sodom]] beside it.
 
@@ -37,6 +43,8 @@ Lot pitches toward Sodom, and Gomorrah is there because the phrase requires it.
 for the cities of the plain, neither settled. See [[Sodom]] and [[The Plain of the Jordan]].
 
 ## Appears in
+
+- [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[The Table of Nations]] — Genesis 10:19, second of the four border markers
 - [[Abram and Lot Separate]] — Genesis 13:10, in the narrator's aside about the destruction to come
