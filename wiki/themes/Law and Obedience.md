@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Failure to listen and do frames the sanctions (15, 45, 58, 62). Verse 58 expressly speaks of the words written in this book; the warning concerns enacted allegiance, not merely hearing a reading.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Listening must become keeping and doing (1, 9, 13). The closing prohibition against turning right or left explicitly concerns going after other gods (14).
@@ -1282,6 +1289,9 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

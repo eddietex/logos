@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Failure to serve Yahweh joyfully gives way to serving enemies in deprivation under an iron yoke (47–48). Return to Egypt culminates in attempted self-sale without a buyer in the WEB (68), a reversal of liberation.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### The runaway not handed back — Deuteronomy 23:15–16
 
 *"You shall not deliver to his master a servant who has escaped from his master to you. He shall dwell
@@ -395,6 +402,9 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

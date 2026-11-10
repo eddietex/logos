@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The opening curses reverse city, field, basket, offspring, and coming and going from the blessing list (15–19). The expanded sanctions overtake disobedience and reach exile and return to Egypt (45–68).
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Twelve curses receive twelve communal responses (15–26). These are covenant sanctions Israel must acknowledge, not hostile magic directed at another nation. The last curse embraces failure to uphold the law by doing it.
@@ -280,6 +287,9 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

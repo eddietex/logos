@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Betrothal gives way to another man taking the woman (30); the siege destroys even affection between spouses (54–57). The protected beginnings of household life in Deuteronomy 20:5–7 are reversed.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### A captive wife, and two wives ranked — Deuteronomy 21:10–17
 
 Two marriage laws stand side by side. The captive is made a wife only after a month (13), and if the
@@ -469,6 +476,9 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

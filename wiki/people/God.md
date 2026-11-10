@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Yahweh is explicitly the agent of disease, defeat, exile, and terrifying insecurity (20–28, 63–68). Verse 63 places rejoicing over destruction beside rejoicing to do good; this disturbing claim must remain beside the promises of covenant preservation in Leviticus 26:44–45.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Yahweh gives land, rain, fertility, victory, and holy standing (7–12). The promised elevation of Israel remains conditional on obedience and exclusive allegiance (1, 9, 13–14).
@@ -3703,6 +3710,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

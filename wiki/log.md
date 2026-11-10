@@ -24065,3 +24065,31 @@ comparisons checked against stored WEB Leviticus 26, Deuteronomy 7, 15, 27–28,
 No external quotation or new Greek/Hebrew wording claim was introduced. Raw sources and
 harness instructions were unchanged. Agent: OpenAI Codex. Link checks passed with 57 expected
 not-yet-started book targets and no findings. No unresolved ingestion issue.
+
+## [2026-11-10] ingest | Deuteronomy 28.15-68 — Curses for Disobedience
+
+Ingested [[Curses for Disobedience]], retaining the planned boundary. The passage follows
+blessings reversed through disease, dispossession, siege, scattering, and return to Egypt.
+The unnamed king, invader, and generic households receive no invented identities or pages;
+Canaan is explicitly contextual, while Egypt is named. Destruction and rejoicing to destroy
+remain in tension with Leviticus 26:44–45; Job’s undeserved suffering prevents turning the
+national sanctions into a diagnosis of every individual’s guilt.
+
+Created one passage and one connection,
+[[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]]. Revised two people,
+two places, twenty-two themes, six existing connections, and four related passage pages,
+plus the book overview/checklist, category rows, dashboard counts, and this log. Corrected
+stale ingestion-status prose and the Deuteronomy 28:35 quotation on the existing boil connection.
+The new connection is filed under F. Deuteronomy now stands at 58 / 69 pericopes.
+
+All 54 quoted verses were mechanically compared with stored WEB Deuteronomy 28:15–68.
+New comparisons use stored WEB Leviticus 26, Deuteronomy 17:16, 20:5–7, 28:1–14, and Job 2.
+No new external quotation or exact source-language claim was introduced. Earlier linguistic
+comparisons retain their existing source attributions or provisional qualifications; this
+pass does not assert their independent reverification. Raw text, instructions, and controller
+files were unchanged. Agent: OpenAI Codex.
+
+Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets
+and 57 expected not-yet-started books. Frontmatter totals are 383 passages, 257 people,
+222 places, 87 themes, and 783 connections. New titles are unique; git diff --check passed.
+No unresolved ingestion blocker.

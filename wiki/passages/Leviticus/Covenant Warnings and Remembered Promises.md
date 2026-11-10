@@ -144,6 +144,9 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]] — liberation reversed, with covenant preservation retained.
+
+
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:25–31: images, scattering among the peoples, then seeking, return, and a God who will not forget the covenant.
 - [[Vows, Valuations, and Devoted Things]] — 27:34, the book's second colophon.
 - [[Blessings for Obedience (Leviticus)]] — the first half of the same speech, reversed here item by item.

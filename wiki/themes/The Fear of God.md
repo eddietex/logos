@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Failure to fear Yahweh’s glorious name accompanies disobedience (58); exile then brings fearful insecurity morning and evening (65–67). Reverence and debilitating terror have distinct roles in the warning.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### All Israel shall hear, and fear — Deuteronomy 21:21
 
 The rebellious son's stoning ends with the deterrence formula of 13:11, 17:13, and 19:20: *"All Israel
@@ -501,6 +508,9 @@ and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or 
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

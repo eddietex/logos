@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The repeated inability to be healed intensifies the threatened disease (27, 35, 59–61). It is not a medical classification or a warrant for diagnosing sufferers as covenant-breakers.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### The brass serpent — Numbers 21:4–9
 
 The bitten person who looks lives (9). Bodily rescue follows intercession and a commanded sign, rather than a described medical procedure; the narrator does not explain the physical mechanism.
@@ -166,6 +173,9 @@ Moses prays five Hebrew words, with *rāpāʾ*. Yahweh answers with seven days o
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

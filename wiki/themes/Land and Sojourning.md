@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The land remains Yahweh’s gift even when its inhabitants are uprooted (52, 63). Scattering brings no secure resting place (64–65); possession does not make covenant accountability disappear.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 The land is both Yahweh’s present gift in the promise and the land sworn to the fathers (8, 11). Productive settled life there is tied to obedience; receiving the land is not exemption from responsibility.
@@ -739,6 +746,9 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

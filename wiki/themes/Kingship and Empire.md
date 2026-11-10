@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The king whom Israel will appoint shares the people’s deportation (36). Royal office offers no immunity from covenant judgment; neither the king nor the invading empire is named.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 Human beings ruling other human beings at scale — and the Bible's long, unresolved argument about
 whether that is a good idea.
 
@@ -411,6 +418,9 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

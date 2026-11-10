@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The blessings of 28:3–6 and 12–13 are reversed in 28:16–19 and 43–44. Both halves retain their conditional setting, rather than making election an unconditional guarantee of prosperity.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Blessing reaches city and field, children, crops, animals, food preparation, and coming and going (3–6). The repeated condition of obedience frames these comprehensive promises (1–2, 13–14).
@@ -505,6 +512,9 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

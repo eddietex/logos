@@ -104,6 +104,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]] — liberation reversed, with covenant preservation retained.
+
+
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; the previous pericope. The
   court is set up before the king, and *"to the right hand, nor to the left"* (17:11) returns at
   17:20.

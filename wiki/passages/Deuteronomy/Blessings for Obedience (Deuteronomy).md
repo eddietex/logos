@@ -81,6 +81,9 @@ Complete unit copied from stored WEB:
 
 ## Cross-references
 
+- [[Curses for Disobedience]] — the following unit reverses the blessings in 28:15–68.
+
+
 - [[Blessing Lists - Leviticus 26 and Deuteronomy 28]]
 - [[Lend and Not Borrow - Deuteronomy 15 and 28]]
 - [[Watered with Your Foot - Egypt and the Land That Drinks the Rain]]

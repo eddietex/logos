@@ -7,15 +7,25 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
+
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:17
 - [[The Defeat at Hormah]] — Numbers 14:42
-- Deuteronomy 1:42; 28:7, 25 (stored WEB; 28:25 remains ahead)
+- Deuteronomy 1:42; 28:7, 25 (stored WEB; both blessing and curse now ingested)
 - 1 Samuel 4:2, 10 *(WEB checked, not yet ingested)*
 - 1 Kings 8:33; 2 Chronicles 6:24 *(WEB checked for 1 Kings, not yet ingested)*
 
 ## Analysis
+
+### Curses now ingested
+
+Both sides of the contrast are now ingested: Deuteronomy 28:7 has enemies flee seven ways; 28:25 has Israel flee seven ways. The warning belongs to the conditional national sanctions, not an account of a named campaign.
+
+Source for this addition: stored WEB Deuteronomy 28:15–68 and the stored comparison passages.
+
 
 The niphal of *nāgap* with *lipnê*, *struck before*, is a fixed way of describing defeat (tags). With
 *ʾōyəbêkem*, *your enemies*, the exact phrase comes at Leviticus 26:17, Numbers 14:42, and Deuteronomy
@@ -35,7 +45,7 @@ afterward was not heard.
 
 ### Blessings now ingested — Deuteronomy 28:1–14
 
-Deuteronomy 28:7 supplies the positive counterpart to 28:25: enemies rising against Israel are defeated and flee in seven directions. In verse 25 Israel instead flees in seven directions. Both clauses are verified in the stored WEB; only the blessing unit is ingested here. The contrast concerns which side suffers defeat, not a new account of a battle.
+Deuteronomy 28:7 supplies the positive counterpart to 28:25: enemies rising against Israel are defeated and flee in seven directions. In verse 25 Israel instead flees in seven directions. Both clauses are verified in the stored WEB; both units are now ingested. The contrast concerns which side suffers defeat, not a new account of a battle.
 
 Source: stored WEB Deuteronomy 28:1–14 and the comparison verses cited above.
 

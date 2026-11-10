@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The threatened suffering includes bodily disease, loss of children, hunger, and unremitting fear (27–35, 53–67). Job 2:3 explicitly resists applying this explanation to every sufferer; similar bodily symptoms do not establish similar guilt.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Moses explicitly interprets this wilderness experience as fatherly discipline directed toward good
@@ -306,6 +313,9 @@ the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:6–7; Exodus 3:7, 9; Genesis 41:51.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

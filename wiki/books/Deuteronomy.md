@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Curses for Disobedience]] (28:15–68) reverses the blessings through disease, failed harvests,
+defeat, siege, and scattering. The closing return to Egypt undoes liberation; unnamed kings
+and invaders remain unnamed, and threatened destruction is held beside the covenant-preserving
+promise of Leviticus 26:44–45.
+
 [[Blessings for Obedience (Deuteronomy)]] (28:1–14) promises blessing across household, harvest, work,
 security, and national standing, conditional on obedience. Holy identity and seasonal rain
 join lending without borrowing; the section closes against following other gods.
@@ -410,7 +415,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10
 - [x] [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26
 - [x] [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14
-- [ ] Curses for Disobedience — Deuteronomy 28:15–68
+- [x] [[Curses for Disobedience]] — Deuteronomy 28:15–68
 - [ ] The Covenant in Moab and the Hidden Things — Deuteronomy 29:1–29
 - [ ] Return Restoration and the Circumcised Heart — Deuteronomy 30:1–10
 - [ ] The Word Is Near and the Choice Is Life — Deuteronomy 30:11–20

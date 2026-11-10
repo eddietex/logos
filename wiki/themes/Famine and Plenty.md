@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Failed rain, insects, confiscated harvests, and siege hunger undo plenty (23–24, 33, 38–42, 51–57). The children themselves become food in the warning; the text describes familial devastation rather than approving it.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Fruitfulness, full barns, food preparation, and rain in season describe the promised plenty (4–5, 8, 11–12). These conditional national promises differ from Genesis’s famine narratives, which do not assign each famine to the sufferers’ sin.
@@ -213,6 +220,9 @@ The reversal of Exodus 16. There, hunger is met with a measured portion, and *he
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Egypt supplies the named diseases (27, 60) and the final destination by ship (68). Return and attempted self-sale reverse the exodus; the WEB ends with nobody buying, not a completed slave transaction.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### The Egyptian not abhorred — Deuteronomy 23:7–8
 
 *"You shall not abhor an Egyptian, because you lived as a foreigner in his land"* (7). The ground is the
@@ -405,6 +412,9 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

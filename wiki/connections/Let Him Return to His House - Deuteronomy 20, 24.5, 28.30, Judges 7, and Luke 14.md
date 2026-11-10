@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
+
 - [[Laws for Going to War]] — Deuteronomy 20:5–8; the officers send home the man with a new house, a new
   vineyard, a betrothed wife, and the man who is afraid.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; *"When a man takes a new wife, he shall not go out
@@ -22,6 +25,13 @@ tags: [connection]
   and *"I have married a wife, and therefore I can't come"*. *(WEB, bible-api.com; not yet ingested)*
 
 ## Analysis
+
+### Curses now ingested
+
+Deuteronomy 28:30 is now ingested. Betrothal, house-building, and vineyard planting culminate in deprivation, reversing the protections of 20:5–7. The present addition compares the stored English text without adding a claim about Hebrew wording.
+
+Source for this addition: stored WEB Deuteronomy 28:15–68 and the stored comparison passages.
+
 
 **Deuteronomy 20 sends four kinds of men home.** Three have begun something and not yet enjoyed it — a
 house not dedicated, a vineyard not yet eaten from, a wife pledged and not taken — and each is sent home

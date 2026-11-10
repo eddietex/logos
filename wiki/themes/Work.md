@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+House-building, planting, sowing, and tending vineyards fail to yield enjoyment (30, 33, 38–40). The curse includes labor whose benefit goes to others, not simply the absence of effort.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Barns and all the work of the hand receive blessing (8, 12). Rain and productive labor belong together; the promise does not make work unnecessary or attribute the harvest to human effort alone.
@@ -776,6 +783,9 @@ quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timoth
 [[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

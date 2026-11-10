@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The resident foreigner rises and lends while Israel becomes dependent (43–44), reversing 28:12–13. This national sanction does not establish that each poor or indebted person is disobedient.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Abundance and lending to many nations without borrowing are national covenant promises (11–13), not a ban on every loan or an individual guarantee of wealth. Deuteronomy 15:4–11 places the same national promise beside duties toward poor neighbors.
@@ -848,6 +855,9 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

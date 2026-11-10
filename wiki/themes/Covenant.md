@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Land, multiplication, freedom, and national standing are all threatened with reversal (36, 43–44, 62–68). Destruction language stands in tension with Leviticus 26:44–45, where Yahweh refuses utter destruction and covenant cancellation; the witnesses are retained without making this unit a final declaration of abandonment.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 The ancestral land oath and the oath to establish a holy people accompany the condition of keeping the commandments (9, 11). Promise and obligation stand together; the passage does not cancel either.
@@ -518,6 +525,9 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

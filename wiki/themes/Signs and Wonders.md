@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The curses themselves become a sign and wonder to Israel and its offspring (46). Signs here expose covenant failure rather than guaranteeing rescue.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Fullness and remembrance — Deuteronomy 6:10–25
 
 The parent recounts signs against Egypt, Pharaoh, and his house as witnessed acts of rescue (22).
@@ -127,6 +134,9 @@ signs, and with wonders."* The list of 4:34, now put in the mouth of every house
 first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

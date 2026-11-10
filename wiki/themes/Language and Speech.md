@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The invader’s language is not understood (49), intensifying alienation and powerlessness. No language or nation is identified by name.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Loud Levitical proclamation is answered by the same response from all the people after each curse (14–26). Speech binds the assembly to acknowledge standards that must also be enacted.
@@ -709,6 +716,9 @@ in the book written by one person for another. See
 [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

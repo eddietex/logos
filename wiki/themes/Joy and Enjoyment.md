@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Verses 47–48 contrast joyful service in abundance with enemy service in deprivation. They address covenant ingratitude, not a general accusation against those who experience grief or cannot feel cheerful.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 Eating peace offerings and rejoicing before Yahweh are commanded at Ebal (7). The mountain
@@ -302,6 +309,9 @@ foreigner, who has no Israelite father to recite about, is at the meal. See [[Fi
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

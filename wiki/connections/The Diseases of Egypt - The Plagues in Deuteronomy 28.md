@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
+
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
 
 - **Exodus 9:8–11** — the boils, *šəḥîn* — [[Livestock, Boils, and Hail]]
@@ -29,6 +32,13 @@ tags: [connection]
 
 ## Analysis
 
+### Curses now ingested
+
+The curses are now ingested through 28:68. Named Egyptian diseases (27, 60), ruined crops (38–42), and return by ship (68) combine into a reversal of liberation. In the stored WEB, the last verse ends with attempted self-sale and no buyer, not a completed sale.
+
+Source for this addition: stored WEB Deuteronomy 28:15–68 and the stored comparison passages.
+
+
 ### Deuteronomy 7:12–26 now ingested
 
 Deuteronomy 7:15 gives the promise that 28:60 reverses: *he will put none of the evil diseases of
@@ -42,8 +52,8 @@ Egypt. Neither verse names the diseases; the plague links tabled above come from
 Source for this addition: stored WEB Deuteronomy 7:12–26; Exodus 15:26; 23:25–26; Deuteronomy 28:60.
 
 **Deuteronomy 28's curses for breaking the covenant include the plagues of Egypt, by name and by
-vocabulary.** None of Deuteronomy is yet ingested, so the verses are quoted from the WEB at
-bible-api.com, and the Hebrew links were checked in the WLC.
+vocabulary.** Deuteronomy 28 is now ingested. The earlier WEB quotations were obtained from bible-api.com;
+the earlier Hebrew comparisons are attributed to WLC and are not newly asserted by this update.
 
 | Plague in Exodus | The curse in Deuteronomy 28 | Shared Hebrew (WLC) |
 |---|---|---|

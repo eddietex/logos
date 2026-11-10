@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The given land is the scene of crop failure, siege, and eventual uprooting (21, 38–42, 52, 63). Canaan is the contextual identification; it is not named in this unit.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 The land promised to the fathers is the setting of future blessing (8, 11–12), though Canaan is not named in these verses. Cities, fields, barns, and seasonal rain describe life there, not new named locations.
@@ -386,6 +393,9 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

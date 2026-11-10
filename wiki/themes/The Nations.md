@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+An unnamed distant nation invades, the king is deported, and Israel becomes a byword among peoples (36–37, 49–50, 64). The text does not identify a particular later empire, so no identification is imposed here.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Israel is promised elevation, recognition as bearing Yahweh’s name, and freedom from dependence on foreign lenders (1, 10, 12–13). The fear of other peoples is a promised consequence, not an instruction to exploit them.
@@ -390,6 +397,9 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

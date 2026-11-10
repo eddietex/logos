@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Disease, dispossession, siege, and scattering are presented as divine sanctions (20–68). Their terrible effects on children are explicit; describing judgment must not conceal the cost or turn the warning into permission for cruelty.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Withheld justice and payment to kill an innocent person are cursed (19, 25). The ceremony condemns these acts but does not replace the evidentiary procedures of Deuteronomy 19:15–21.
@@ -949,6 +956,9 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

@@ -87,6 +87,9 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 ## Cross-references
 
+- [[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]] — liberation reversed, with covenant preservation retained.
+
+
 - [[Covenant Warnings and Remembered Promises]] — the second half of the same speech, 26:14–46.
 - [[The Poor Brother and Redemption from Service]] — 25:55 and 26:13 name the same exodus; the
   chapter break falls between them.

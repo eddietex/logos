@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+The sanctions explicitly follow national disobedience (15, 45), but their symptoms cannot prove individual guilt. Job 2:3 affirms blamelessness amid ruin, and 2:7 describes a similarly extensive affliction; the tension rules out reversing the conditional.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 The conditional benefits address Israel’s common life in the land (1–14). They stand in tension with attempts to turn prosperity into a universal test of personal righteousness: Job 1:1 and 2:3 affirm Job’s integrity amid loss. Both witnesses remain; this covenant address supplies no warrant to infer an individual sufferer’s guilt.
@@ -649,6 +656,9 @@ offense. It is also capped, at forty, for the sake of *"your brother"* (3). The 
 proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

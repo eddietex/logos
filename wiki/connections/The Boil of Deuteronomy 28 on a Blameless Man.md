@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
+
 - [[Examining Diseases of the Skin]] — Leviticus 13:1–46, especially 18–23.
 
 - **Job 2:7** — *"So Satan went out from the presence of Yahweh, and struck Job with painful sores
   from the sole of his foot to his head."* — [[The Second Test]]
-- **Deuteronomy 28:35** — *"Yahweh will strike you in the knees, and in the legs, with a sore boil,
-  of which you can't be healed, from the sole of your foot to the crown of your head."*
+- **Deuteronomy 28:35** — *"Yahweh will strike you in the knees and in the legs with a sore boil, of which you can not be healed, from the sole of your foot to the crown of your head."* (stored WEB)
 - **Deuteronomy 28:27** — *"Yahweh will strike you with the boils of Egypt, with the tumors, with the
   scurvy, and with the itch, of which you can not be healed."* (WEB, bible-api.com)
 - **Exodus 9:8–11** — the sixth plague: *šəḥîn* breaking out in boils on man and beast throughout
@@ -28,6 +30,13 @@ tags: [connection]
 - **Job 42:7** ([[The Restoration of Job]]) — *"you have not spoken of me the thing that is right, as my servant Job has"*
 
 ## Analysis
+
+### Curses now ingested
+
+Deuteronomy 28:35 now belongs to an ingested passage. Its whole-body affliction resembles Job 2:7 in the stored WEB, while Job 2:3 affirms undeserved ruin. Similar symptoms cannot establish guilt; literary dependence is an interpretation, not something these English parallels prove.
+
+Source for this addition: stored WEB Deuteronomy 28:15–68 and the stored comparison passages.
+
 
 ### Qualification from the ingested skin law
 

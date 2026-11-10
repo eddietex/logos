@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
+
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:22, 25–26, 29, 33, 39; *"When I break your staff of bread, ten women shall bake
   your bread in one oven, and they shall deliver your bread again by weight."*
 - **Deuteronomy 28:53** — *"You will eat the fruit of your own body, the flesh of your sons and of
@@ -21,6 +24,13 @@ tags: [connection]
 - **2 Kings 6:28–29; Lamentations 4:10** — the thing narrated: at a siege, and after one (WEB).
 
 ## Analysis
+
+### Curses now ingested
+
+Deuteronomy 28:53–57 now makes the siege setting and collapse of household solidarity explicit. Both the tender man and woman withhold food from loved ones while consuming their children. This expands Leviticus 26:29; it describes threatened horror, not an authorized act.
+
+Source for this addition: stored WEB Deuteronomy 28:15–68 and the stored comparison passages.
+
 
 **The phrase.** *Maṭṭēh leḥem* with *šābar*, *break*, occurs in five verses: Leviticus 26:26; Psalm
 105:16; Ezekiel 4:16; 5:16; 14:13 (WLC lemma search). The image is usually explained as the staff or

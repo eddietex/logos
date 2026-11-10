@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Covenant sanctions — Deuteronomy 28:15–68
+
+Moses continues the address with conditional sanctions, not a report of their fulfillment (15, 45). The future king and invader remain unnamed.
+
+See [[Curses for Disobedience]]. Source: stored WEB Deuteronomy 28:15–68.
+
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Moses continues the covenant address, placing blessing under the condition of listening and doing (1–2, 13–14). He announces promises rather than narrating their fulfillment.
@@ -1791,6 +1798,9 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Curses for Disobedience]] — Deuteronomy 28:15–68.
+
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 
