@@ -12,6 +12,12 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The feast of tents in the year of release becomes the occasion for reading the law at the chosen place (10–11). The express summons includes men, women, little ones, and resident foreigners (12). Deuteronomy 16:16’s male pilgrimage requirement is not a prohibition on these others attending.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### First fruits to the priest — Deuteronomy 18:4
 
 *"The first fruits of your grain, of your new wine, and of your oil, and the first of the fleece of your sheep, you shall give him"* (4). Numbers 18:12 gives Aaron the first fruits of the same three crops. The fleece is new: *gēz* occurs nowhere else in the Torah (WLC).
@@ -194,6 +200,8 @@ Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+Moses writes the law and entrusts it to the Levitical priests and all Israel’s elders (9). He commands its recurring public reading (10–13), providing for instruction beyond his own lifetime. The extent of “this law” is not specified in these verses.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 At 120, Moses announces that he can no longer go out and come in and recalls Yahweh’s prohibition on crossing the Jordan (2). He publicly encourages Joshua (7–8). His stated inability stands beside 34:7’s report of undiminished sight and strength: the leadership idiom and divine prohibition caution against treating this as a simple diagnosis of bodily decline.
@@ -1822,6 +1828,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

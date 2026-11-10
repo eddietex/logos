@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Read the Law to All Israel]] (31:9–13) entrusts the written law to priests and elders,
+then commands its reading to men, women, children, and resident foreigners at the release-year
+feast of tents. Hearing must lead to learning, fear, and obedience across generations.
+
 [[Be Strong as Joshua Takes the Lead]] (31:1–8) opens the succession instructions. Moses announces his
 limit and exclusion, encourages all Israel, and publicly charges Joshua. The defeat of Sihon
 and Og grounds confidence, while Yahweh’s continuing presence grounds both people and leader.
@@ -439,7 +443,7 @@ Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 - [x] [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10
 - [x] [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20
 - [x] [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8
-- [ ] Read the Law to All Israel — Deuteronomy 31:9–13
+- [x] [[Read the Law to All Israel]] — Deuteronomy 31:9–13
 - [ ] A Song to Witness Against Israel — Deuteronomy 31:14–23
 - [ ] The Book Beside the Ark — Deuteronomy 31:24–29
 - [ ] The Song of Moses — Deuteronomy 31:30–32:47

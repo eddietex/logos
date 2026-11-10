@@ -28,6 +28,12 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The seven-year release cycle provides the time for public instruction at the feast of tents (10). This passage prescribes neither weekly rest nor a new fallow rule; it adds hearing the law to the year of release already described in Deuteronomy 15.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### The seventh year as a release of debts — Deuteronomy 15:1–11
 
 Deuteronomy's seventh year releases debts, not land. *Šəmiṭṭâ*, *release* (15:1–2, 9), shares its verb with the fallow seventh year of Exodus 23:11; Leviticus 25:1–7 calls that year *a Sabbath to Yahweh* and does not mention debts (WLC, morphhb). The texts do not say whether the two releases fell in the same year. See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
@@ -252,6 +258,8 @@ own (29:6).
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 

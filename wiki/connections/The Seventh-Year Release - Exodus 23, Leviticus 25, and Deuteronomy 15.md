@@ -14,8 +14,8 @@ tags: [connection]
   harvest promised for three years.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; *"At the end of every seven
   years, you shall cancel debts"*.
-- Deuteronomy 31:10–13 — the law read to all Israel *"in the set time of the year of release, in
-  the feast of tents"*; not yet ingested.
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; the law read to all Israel *"in the set time of the year of release, in
+  the feast of tents"*.
 
 (WEB throughout, copied from `raw/bible/`.)
 
@@ -23,6 +23,12 @@ This page extends [[The Seventh Year's Food - Exodus 23 and Leviticus 25]], whic
 two laws and notes that neither legislates a remission of debts. Deuteronomy 15 is that legislation.
 
 ## Analysis
+
+The now-ingested Deuteronomy 31:9–13 assigns the reading to the release-year feast of tents.
+Men, women, little ones, and resident foreigners must hear; hearing aims at learning, fear,
+and obedience, including children who have not known. This adds an instructional purpose
+to the release calendar without resolving the relation to the land’s fallow cycle.
+
 
 **Three laws keep a seventh year, and each releases something different.**
 

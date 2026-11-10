@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The land beyond the Jordan is the setting for continuing instruction of children (13). Canaan is the contextual identification, not a name supplied here; the chosen place of the reading is also unnamed (11).
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 The land sworn to the fathers is the inheritance Joshua is charged to secure for Israel (7). Canaan is the contextual identification, not a name used in these verses.
@@ -417,6 +423,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

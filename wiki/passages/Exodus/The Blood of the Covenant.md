@@ -141,6 +141,9 @@ says to him there fills the next seven chapters.
 
 ## Cross-references
 
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
+  See [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
+
 - [[The Shining Face of Moses]] — Exodus 34:29–35; the return with tablets and renewed instruction.
 
 - [[The Covenant Renewed]] — Exodus 34:1–28; covenant renewal after the calf.

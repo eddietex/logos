@@ -24230,3 +24230,24 @@ files unchanged. Agent: OpenAI Codex (GPT-6 Astra).
 
 Validation: scripts/link-check.sh passed both checks, with 57 expected not-yet-started book
 pages; git diff --check passed. No title collision or unresolved blocker.
+
+## [2026-11-10] ingest | Deuteronomy 31.9-13 — Read the Law to All Israel
+
+- Ingested [[Read the Law to All Israel]] from stored WEB; retained the planned boundary.
+  Moses entrusts the written law to priests and elders and commands public reading at the
+  release-year feast of tents, including women, children, and resident foreigners.
+- Created the passage and
+  [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
+  Revised the existing seventh-year connection, six related passages, Moses and Levi,
+  three places, eight themes, and the Deuteronomy book page: 2 content pages created and
+  21 content pages revised, plus 7 index/dashboard pages and this log revised.
+- Distinguished the descendants of Levi from the patriarch; did not equate the unnamed
+  elders with the seventy elders. Moab and Canaan are contextual locations; the chosen
+  place remains unnamed. The scope of “this law” and a single future reader remain
+  unspecified. No new entity page or pericope boundary change was needed.
+- Compared Exodus 24:3–8 and Deuteronomy 4:9–10; 6:6–9; 15:1–3; 16:13–17; 17:18–20
+  directly with stored WEB. New quotations are copied from the raw source; no unstored-book
+  quotation or new source-language assertion was introduced. Raw files were unchanged.
+- Deuteronomy now 63 / 69; totals by frontmatter: 388 passages, 257 people, 224 places,
+  87 themes, 788 connections. Link checks clean (57 expected not-yet-started book targets);
+  no unresolved link or content contradiction introduced.

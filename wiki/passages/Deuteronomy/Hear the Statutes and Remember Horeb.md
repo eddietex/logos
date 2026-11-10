@@ -93,6 +93,9 @@ Source: stored WEB, Deuteronomy 4:1–14. Full unit copied verbatim.
 - [[Righteousness]] — The statutes and ordinances are called righteous beyond those of any great nation (8). The claim is about the law's character; the verse does not call Israel righteous.
 
 ## Cross-references
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
+  See [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
 - [[No Form Seen and No Image Made]] — the following unit; 4:15 draws the image ban from *you saw no form* (12).
 - [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — Horeb as told in Exodus and recalled here.
 - [[Baal Peor Remembered - Numbers 25, Psalm 106, and First Corinthians 10]] — Deuteronomy 4:3–4 is the Torah's own first retrospect on Peor.

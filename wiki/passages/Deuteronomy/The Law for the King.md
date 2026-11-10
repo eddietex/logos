@@ -104,6 +104,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
+  See [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
+
 - [[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]] — liberation reversed, with covenant preservation retained.
 
 

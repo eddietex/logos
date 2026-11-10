@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The river remains the boundary Israel will cross to possess the land (13). The scheduled reading concerns life after entry; this passage narrates no crossing.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Moses may not cross this river (2), while Joshua will lead Israel onward (3). The passage announces the transition; it does not narrate the crossing.
@@ -211,6 +217,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

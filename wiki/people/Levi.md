@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The priests descended from Levi receive the written law alongside the elders; they are described as bearing the covenant ark (9). This concerns the descendants, not an act of the patriarch. Custody serves public hearing rather than keeping the law within the priestly group.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch. The Levites also speak the curses loudly (14); their relation to the tribal positioning is not explained.
@@ -258,6 +264,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

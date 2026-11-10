@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The writing and command continue Moses’ address in the Moab setting of Deuteronomy 29:1. Moab is not named in 31:9–13; the future reading is assigned to the chosen place across the Jordan.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 The address continues in the Moab setting established in Deuteronomy 29:1. No new location is named in 31:1–8; Moses’ going in verse 1 supplies no destination.
@@ -222,6 +228,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

@@ -201,6 +201,12 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The written law is entrusted to those who bear the ark of Yahweh’s covenant and to the elders (9). Covenant continuity includes the whole listening community and children who do not yet know (12–13), not only the preservation of a document.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Transgressing the covenant — Deuteronomy 17:2
 
 Serving other gods is *"transgressing his covenant"* (17:2) and is tried in the town court like any other capital case, with inquiry and witnesses (4–6). The covenant is guarded by ordinary legal procedure.
@@ -549,6 +555,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

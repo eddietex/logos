@@ -349,6 +349,12 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+Resident foreigners join the men, women, and children who hear and learn the law (12). Life in the promised land depends on transmitting its obligations, not on treating settlement as the end of instruction (13).
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### No portion, and a Levite who sojourns — Deuteronomy 18:1–8
 
 Levi has *"no portion nor inheritance with Israel"*; *"Yahweh is their inheritance"* (1–2). The Levite of 18:6 *gār*, *"lives as a foreigner"*, in his own town — the verb of the *gēr*, used of an Israelite without land. Yet 18:8 assumes he may have *"family possessions"* to sell, and the noun *mimkār*, *sale*, is otherwise in the Torah only in the land-sale law of Leviticus 25 (WLC). Landless means without tribal territory, not without property; see [[The Priests Who Kept Their Land and the Levites Who Got None]].
@@ -770,6 +776,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

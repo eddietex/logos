@@ -77,6 +77,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
+  See [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]].
+
 - [[Lend and Not Borrow - Deuteronomy 15 and 28]] — the national promise repeated.
 
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:10–11; the seventh year the land is left to *"rest

@@ -368,6 +368,12 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+Writing, custody, reading, hearing, learning, fearing, and doing belong together (9–13). Access to the law is communal, and the command requires actual obedience rather than hearing alone. The exact extent of “this law” remains unspecified.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### The verdict kept like the law — Deuteronomy 17:8–13
 
 The higher court's ruling is *tôrâ*, *"the decisions of the law which they shall teach you"* (17:11; WLC, morphhb), and Israel must not turn from it *"to the right hand, nor to the left"*, the phrase 5:32 used for the commandments. Refusal is *zādôn*, presumption, and is punished by death (12), so that *"All the people shall hear, and fear"* (13).
@@ -1313,6 +1319,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

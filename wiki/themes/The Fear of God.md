@@ -85,6 +85,12 @@ and [[Sinai and Zion - Exodus 19 and Hebrews 12]].
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+The assembled people hear in order to learn, fear Yahweh, and do the law (12). Children also learn to fear him (13). Reverence is teachable through hearing and is directed toward conduct, as in the king’s reading in Deuteronomy 17:19.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Hear, and fear — Deuteronomy 17:13
 
 After the death of the man who refused the verdict, *"All the people shall hear, and fear, and do no more presumptuously"* (17:13), repeating 13:11. Fear here is the public lesson of a judgment, and its opposite is presumption.
@@ -508,6 +514,8 @@ and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or 
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

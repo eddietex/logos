@@ -104,6 +104,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
+  See [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
+
 - [[The Passover]] — Exodus 12:1–28; the first Passover, kept by each household at its own door, with
   the meat *"roasted with fire"* and not *"boiled at all with water"* (12:9). Its note *Deuteronomy 16
   and Exodus 12 — two forms of the rite* sets out the differences.

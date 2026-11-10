@@ -183,6 +183,12 @@ See [[Israel at Mount Sinai]] and [[A Kingdom of Priests - Exodus 19 and First P
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+Levitical priests and all the elders receive Moses’ written law (9). The ensuing command is addressed to them (10), without naming a single future reader or excluding the elders from responsibility. No personal priestly name is given.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### The priests' due and the Levite from the towns — Deuteronomy 18:1–8
 
 *"The priests the Levites, all the tribe of Levi"* have no portion nor inheritance with Israel and eat *"the offerings of Yahweh made by fire"* (1–2). The priest receives the shoulder, the two cheeks, and the inner parts of each ox or sheep sacrificed, and the first fruits of grain, wine, oil, and fleece (3–4), because Yahweh *"has chosen him out of all your tribes, to stand to minister in Yahweh's name, him and his sons for ever"* (5). A Levite from the towns who comes to the place *"shall minister … as all his brothers the Levites do"* and eats *"like portions"* (7–8). The cuts are not Leviticus 7's breast and right thigh. Whether 18:7 makes every Levite eligible for altar service, as against Numbers 18:1–7, is the long-standing question this passage raises; the passage page records three readings and adopts none, as does [[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]]. See also [[The Custom of the Priests - Deuteronomy 18.3 and 1 Samuel 2.13-16]] and [[The Priests of the High Places - Deuteronomy 18.6-8 and 2 Kings 23.9]].
@@ -704,6 +710,8 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

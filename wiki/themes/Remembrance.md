@@ -210,6 +210,12 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Reading to all Israel — Deuteronomy 31:9–13
+
+Recurring public hearing gives children who have not known a way to learn (13). This complements household teaching in Deuteronomy 6:6–9; transmission is scheduled for the community as well as practiced at home.
+
+See [[Read the Law to All Israel]]. Source: stored WEB Deuteronomy 31:9–13.
+
 ### Fringes without the reason — Deuteronomy 22:12
 
 *"You shall make yourselves fringes on the four corners of your cloak with which you cover
@@ -654,6 +660,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

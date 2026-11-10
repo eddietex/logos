@@ -71,6 +71,9 @@ WEB text of the complete nine-verse unit:
 - [[Language and Speech]]
 
 ## Cross-references
+
+- [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
+  See [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
 - [[The People's Request for a Mediator]] — 5:31 commissions the teaching begun here.
 - [[Hear the Statutes and Remember Horeb]] — 4:9–10 already joins memory and teaching children.
 - [[When You Walk and When You Lie Down - Deuteronomy 6.6-9 and Proverbs 6.20-23]]
