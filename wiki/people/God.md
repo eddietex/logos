@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+Yahweh is the covenant Lord against whom rebellion is directed. Moses predicts evil following the people’s provocation (27–29); the ark’s presence does not exempt its custodians from accountability.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Yahweh appears in the cloud, foretells covenant betrayal, and appoints the song as testimony
@@ -3743,6 +3750,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

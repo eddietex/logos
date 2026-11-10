@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+The book beside the covenant ark stands as a witness against Israel (26). Covenant custody preserves the standard by which the people are accused, rather than guaranteeing their fidelity.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Israel will forsake Yahweh and break his covenant after entering the land (16, 20). Divine
@@ -564,6 +571,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

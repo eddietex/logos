@@ -88,6 +88,8 @@ Source: stored WEB, Deuteronomy 30:11–20. Full unit copied verbatim.
 - [[Faith]] — Not used in the passage. Added because Paul reads verses 12–14 as *the righteousness which is of faith* (Romans 10:6–8); see the connection page.
 
 ## Cross-references
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29; see [[Heaven and Earth as Witnesses - Deuteronomy 4, 30, and 31]].
+
 
 - [[The Word Is Near You - Deuteronomy 30.11-14 in Romans 10.6-8]] — Paul's reading of verses 12–14.
 - [[A Blessing and a Curse Set Before You - Deuteronomy 11.26-28 and 30.15-20]] — 11:26–28 and this unit as the two closing choices.
@@ -153,7 +155,7 @@ closes both. The wiki recorded the question of order — human turning or divine
 settle it.
 
 **Witnesses.** *I call heaven and earth to witness* (*haʿîdōtî*, 5749) repeats 4:26 word for word in the
-WEB, and 31:28 will repeat it again (stored WEB, not yet ingested). At 4:26 the witnesses attend a
+WEB, and 31:28 invokes the same witnesses (see [[The Book Beside the Ark]]). At 4:26 the witnesses attend a
 warning of perishing and short days in the land across the Jordan; verse 18 repeats that warning
 almost exactly. Here, for the first time, the witnessed statement is also an offer.
 

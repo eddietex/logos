@@ -6,11 +6,17 @@ tags: [connection]
 # The Song That Will Not Be Forgotten - Deuteronomy 8 and 31
 
 ## Passages involved
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13.
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 ## Analysis
+The book beside the ark adds a material witness to the remembered song (31:24–29).
+Both survive Moses and expose rebellion; preservation is not obedience. Source: stored WEB
+Deuteronomy 31:19–29.
+
 
 Deuteronomy 8:10–20 warns that fullness in a good land can lead to forgetting Yahweh, claiming
 wealth as one's own achievement, and serving other gods. Deuteronomy 31:20 predicts the

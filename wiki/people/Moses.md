@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+Moses finishes writing the law, commands its deposit beside the ark, and summons elders and officers (24–28). His forecast of rebellion after his death rests on the rebellion he already knows while alive (27–29).
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Moses is told that his death approaches, presents himself with Joshua at the Tent, and writes
@@ -1836,6 +1843,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

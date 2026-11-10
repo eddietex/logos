@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+The book is to be placed beside the covenant ark (26), whereas the tablets are inside it in 10:5. The ark is a locus of preserved testimony against Israel, not a guarantee of immunity from judgment.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Yahweh appears in a pillar of cloud over the Tent's door (15), yet announces the future hiding
@@ -583,6 +590,8 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

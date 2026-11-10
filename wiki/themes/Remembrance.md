@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+The enduring book complements the enduring song of 31:19–21. Preservation allows testimony to outlast Moses even when the people abandon the way he taught (26–29).
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 The song will survive in descendants' mouths as a witness against Israel (19–21). Retaining a
@@ -668,6 +675,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

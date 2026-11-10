@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+The work of the people’s hands provokes Yahweh (29). In the immediate context of other gods (31:16–20), this points toward idolatry, though verse 29 names no particular image or deity.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Future worship of other gods is described as prostitution, abandonment, and covenant breach (16,
@@ -435,6 +442,8 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

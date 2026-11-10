@@ -10,6 +10,11 @@ status: in-progress
 # Deuteronomy
 
 ## Overview
+[[The Book Beside the Ark]] (31:24–29) completes the written law and commands its deposit beside
+the ark as testimony against Israel. Moses summons elders and officers and calls heaven and
+earth as witnesses, predicting worse rebellion after his death. Preserved instruction and
+the appeal to choose life stand beside the forecast of covenant failure.
+
 
 [[A Song to Witness Against Israel]] (31:14–23) pairs Joshua's commissioning with a warning
 of covenant betrayal. Moses writes and teaches enduring testimony before his death. The cloud
@@ -450,7 +455,7 @@ Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 - [x] [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8
 - [x] [[Read the Law to All Israel]] — Deuteronomy 31:9–13
 - [x] [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23
-- [ ] The Book Beside the Ark — Deuteronomy 31:24–29
+- [x] [[The Book Beside the Ark]] — Deuteronomy 31:24–29
 - [ ] The Song of Moses — Deuteronomy 31:30–32:47
 - [ ] Moses Commanded to Ascend Nebo — Deuteronomy 32:48–52
 - [ ] Moses Blesses the Tribes — Deuteronomy 33:1–29

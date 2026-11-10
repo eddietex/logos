@@ -58,6 +58,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Land and Sojourning]]
 
 ## Cross-references
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29; see [[Inside and Beside the Ark - Tablets and Book in Deuteronomy]].
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.
 - [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]] — memory, prosperity, and covenant betrayal.

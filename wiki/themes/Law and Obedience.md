@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+Moses completes a written law and orders its preservation (24–26), yet predicts departure from the commanded way (29). Possession of the text and obedience to it remain distinct.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Beside the public reading commanded in 31:9–13, the song must be written, taught, and placed in
@@ -1327,6 +1334,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

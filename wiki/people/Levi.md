@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+The Levites who carry the covenant ark receive the command to place the law book beside it (25–26). This is a duty of Levi’s descendants, not an action by the patriarch; the passage does not name individual custodians.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The priests descended from Levi receive the written law alongside the elders; they are described as bearing the covenant ark (9). This concerns the descendants, not an act of the patriarch. Custody serves public hearing rather than keeping the law within the priestly group.
@@ -264,6 +271,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

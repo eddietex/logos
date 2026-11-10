@@ -24278,3 +24278,31 @@ pages; git diff --check passed. No title collision or unresolved blocker.
   87 themes, 789 connections. Both link checks pass, with 57 expected not-yet-started
   book targets. No title collision, unresolved link, or blocker. Git diff whitespace
   validation passed.
+
+## [2026-11-10] ingest | Deuteronomy 31.24-29 — The Book Beside the Ark
+
+- Ingested [[The Book Beside the Ark]], retaining the planned six-verse boundary. Moses
+  completes the written law, commands its deposit beside the ark, summons elders and
+  officers, and predicts rebellion after his death with heaven and earth as witnesses.
+- Created three pages: the passage,
+  [[Inside and Beside the Ark - Tablets and Book in Deuteronomy]], and
+  [[Heaven and Earth as Witnesses - Deuteronomy 4, 30, and 31]]. Revised 20 existing content
+  pages: the book, five related passages, three people, one place, nine themes, and the
+  song-witness connection. Eight index/dashboard updates and this log bring the total to
+  three created and 29 revised pages.
+- Distinguished tablets inside the ark from the book beside it. Left the scope of the
+  completed law book unspecified; the writing notice does not settle final composition.
+  Retained the tension between the appeal to choose life (30:19) and the forecast of
+  corruption (31:29). The latter-days language receives no invented date or fulfillment.
+- Levi represents descendants, not the patriarch acting; elders and officers remain unnamed.
+  Moab is contextual, not newly named here. The ark remains covered by the dwelling theme
+  and the new connection; no new entity page is needed. Idolatry is a contextual reading of
+  the work of their hands, not a claim that verse 29 identifies a particular image.
+- All six WEB verses copied from stored Deuteronomy and checked against the source. New
+  comparisons use stored Deuteronomy 4:25–26; 10:1–11; 30:19; 31:9–29. No quotations from
+  unstored books or new Greek/Hebrew assertions. Raw texts, instructions, and controller
+  files unchanged. Agent: OpenAI Codex (GPT-6 Astra).
+- Deuteronomy now 65 / 69 pericopes; frontmatter totals: 390 passages, 257 people,
+  224 places, 87 themes, 791 connections. Both link checks clean with 57 expected
+  not-yet-started book targets. Title unique; git whitespace check passed. No unresolved
+  link, new unflagged contradiction, or blocker.

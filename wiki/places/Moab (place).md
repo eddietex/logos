@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The book beside the ark — Deuteronomy 31:24–29
+
+The deposition command continues the Moab setting of Deuteronomy 29:1. No new location is named in 31:24–29; heaven and earth are summoned as witnesses, not travel destinations.
+
+See [[The Book Beside the Ark]]. Source: stored WEB Deuteronomy 31:24–29.
+
+
 ### The song as witness — Deuteronomy 31:14–23
 
 The meeting at the Tent occurs within Deuteronomy's Moab setting (29:1); 31:14–23 gives no new
@@ -235,6 +242,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
+
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

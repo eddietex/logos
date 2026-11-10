@@ -72,6 +72,8 @@ without concealing the coming covenant crisis.
 - [[Land and Sojourning]]
 
 ## Cross-references
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29; see [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]].
+
 - [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]]
 - [[I Will Not Forsake You - Deuteronomy 31, Joshua 1, and Hebrews 13]]
 - [[Over the Tent and Before the People - Where the Cloud Stood]]

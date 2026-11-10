@@ -80,6 +80,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Blessing]]
 
 ## Cross-references
+- [[The Book Beside the Ark]] — Deuteronomy 31:24–29; see [[Inside and Beside the Ark - Tablets and Book in Deuteronomy]].
+
 
 - [[The Replacement Tablets - Exodus 34 and Deuteronomy 10]]
 - [[Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33]]
