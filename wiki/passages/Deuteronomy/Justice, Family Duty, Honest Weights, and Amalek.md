@@ -299,7 +299,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–20; *ṣedeq*.
 - [[Wine Is a Mocker]] — Proverbs 20:10, 23; the doubled *ephah*.
 - [[A Dry Morsel with Quietness]] — Proverbs 17:15.
-- Deuteronomy 26:1–15 *(stored, not yet ingested)* — the next pericope.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; the next pericope, whose declaration answers *"You shall
+  not forget"* with *"neither have I forgotten them"* (26:13).
 - Deuteronomy 27:6, 16 *(stored, not yet ingested)* — *šǝlēmôt*, and the hiphil of *qālâ*.
 - Ruth 4:5–12; 1 Samuel 15:2–3; Esther 3:1; Joshua 10:19; Micah 6:10–11; Amos 8:5 *(not yet
   ingested; WEB checked at bible-api.com)*.

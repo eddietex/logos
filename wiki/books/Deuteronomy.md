@@ -11,6 +11,17 @@ status: in-progress
 
 ## Overview
 
+[[First Fruits and the Tithe Declaration]] (26:1–15) closes the law code with two speeches. Once in the
+land, the farmer brings the first of the ground's fruit in a basket to the chosen place and recites
+over it: *"My father was a Syrian ready to perish. He went down into Egypt"*, the oppression, the cry,
+*"Yahweh heard our voice"*, the mighty hand, and *"this land, a land flowing with milk and honey"*;
+then *"Now, behold, I have brought the first of the fruit of the ground"*. He bows down, the only time
+in the book that verb is directed to Yahweh, and rejoices with the Levite and the foreigner. In the
+third year, after giving the tithe to the Levite, the foreigner, the fatherless, and the widow, he
+declares *"I have put away the holy things out of my house"*, kept from mourning and the dead, and
+asks Yahweh to *"Look down from your holy habitation, from heaven, and bless"*. Who *"my father"* is
+is recorded, not settled.
+
 [[Justice, Family Duty, Honest Weights, and Amalek]] (25:1–19) closes the casuistic laws with six cases.
 The judges *"justify the righteous, and condemn the wicked"*, and a beating is *"by number"* and capped
 at forty, *"lest … your brother will be degraded in your sight"*. The threshing ox is not muzzled. A
@@ -320,7 +331,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **52 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -374,7 +385,7 @@ Plan drawn 2026-11-05 from the stored WEB. **52 / 69 pericopes ingested.**
 - [x] [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5
 - [x] [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22
 - [x] [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19
-- [ ] First Fruits and the Tithe Declaration — Deuteronomy 26:1–15
+- [x] [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15
 - [ ] A People for Yahweh and a God for Israel — Deuteronomy 26:16–19
 - [ ] Stones and an Altar on Mount Ebal — Deuteronomy 27:1–10
 - [ ] The People Answer Amen to the Curses — Deuteronomy 27:11–26
@@ -449,6 +460,11 @@ Plan drawn 2026-11-05 from the stored WEB. **52 / 69 pericopes ingested.**
 - [[Joy and Enjoyment]]
 - [[Work]]
 - [[Names and Naming]]
+- [[Tithing]]
+- [[Festivals and First Fruits]]
+- [[Prayer]]
+- [[Suffering]]
+- [[Signs and Wonders]]
 
 ## Key people
 - [[God]]

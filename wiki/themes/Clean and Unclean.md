@@ -534,6 +534,13 @@ priests the Levites teach you."* *Ṣāraʿat* occurs in Deuteronomy only here (
 procedure; it points back to Leviticus 13–14, *"As I commanded them"*, and to Miriam (9). See
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### The holy tithe kept from death — Deuteronomy 26:14
+
+*"I have not eaten of it in my mourning, neither have I removed any of it while I was unclean, nor
+given of it for the dead."* The poor's tithe is holy food, and the declaration keeps it from the
+uncleanness of the dead (Numbers 19:11; Leviticus 22:4). What *"for the dead"* refers to is not
+said. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:14; Numbers 19:11; Leviticus 22:4.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; home slaughter eaten by unclean and clean alike (15, 22).
@@ -676,6 +683,7 @@ procedure; it points back to Leviticus 13–14, *"As I commanded them"*, and to 
   clean.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1, 4; *ʿerwat dābār* and the wife *"defiled"* for her first husband.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8–9; leprosy left to the priests' teaching, and Miriam remembered.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:14; the holy tithe not eaten unclean or *"given … for the dead"*.
 
 ## Related themes
 

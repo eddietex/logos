@@ -50,7 +50,7 @@ Genesis returns here three times, and each time it is where the wives come from.
 
 So the line that received the promise takes its wives, for three generations, from the branch that
 stayed at the place the journey stopped. Deuteronomy 26:5 keeps the memory in Israel's own confession:
-*"A Syrian ready to perish was my father."*
+*"My father was a Syrian ready to perish."*
 
 ## Appears in
 

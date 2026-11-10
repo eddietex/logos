@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:21–32
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:6, 11, 17–18
-- Deuteronomy 26:12–15 — the third-year tithe declared; not yet ingested
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:12–15; the third-year tithe given and declared
 
 ## Analysis
 
@@ -47,6 +47,14 @@ A related tension, outside the tithe: Deuteronomy 14:23 sets the firstborn of he
 household's table, while Numbers 18:17–18 gives the meat of the clean firstborn to Aaron. See the
 Notes of [[Tithes for Feasting and Provision]], and now
 [[Whose Is the Firstling - Exodus 13, Numbers 18, and Deuteronomy 15]], written when Deuteronomy 15:19–23 restated the firstling law.
+
+**The third-year declaration (Deuteronomy 26:12–15).** When the third-year tithe has been given to
+the four in the towns, the householder says *"I have put away the holy things out of my house"*
+(26:13). The tithe given to the poor is called *haqqōdeš*, *the holy*, the same class of thing
+Leviticus 27:30 calls the tithe, *"holy to Yahweh"*. It may not be eaten in mourning or while unclean,
+or given *"for the dead"* (26:14), as holy food may not be eaten by the unclean (Leviticus 22:4). So
+Deuteronomy keeps Leviticus' category even where it gives the tithe to the poor rather than the
+sanctuary. See [[First Fruits and the Tithe Declaration]] (WLC 26:13, morphhb; stored WEB).
 
 Sources: stored WEB Leviticus 27:30–33; Numbers 18:15–18, 21–32; Deuteronomy 12:6, 11, 17–18;
 14:22–29; 26:12–14. Hebrew from WLC (morphhb), retrieved 2026-11-06.

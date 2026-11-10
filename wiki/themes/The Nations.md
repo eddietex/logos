@@ -553,7 +553,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
   then **lets him speak Aramaic on the page** — *Jegar Sahadutha* against Jacob's *Galeed*, **the only
   Aramaic in the Torah** — and lets him swear by *"the God of Nahor"* beside the God of Abraham under
   a plural verb. **Language, gods, and a border, in twelve verses.** Deuteronomy 26:5 keeps the whole
-  of it in one line of Israel's creed: *"A Syrian ready to perish was my father"*
+  of it in one line of Israel's creed: *"My father was a Syrian ready to perish"*
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **a Canaanite town given speech, motive, a
   ruler, an assembly, and a unanimous decision — and then destroyed.** The [[Shechem (city)]] Hivites
   are the most fully drawn foreign community in Genesis outside Egypt: [[Hamor]] argues a policy of

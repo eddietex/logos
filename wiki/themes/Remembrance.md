@@ -626,6 +626,15 @@ Amalek did. That is the wiki's reading of the knot, not a resolution of it. See 
 [[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]], and
 [[Amalek - From a Concubine's Son to Israel's First Enemy]]. Source: stored WEB Deuteronomy 25.
 
+### The history said aloud — Deuteronomy 26:5–13
+
+The first-fruits confession is remembrance as a script: *"My father was a Syrian ready to perish. He
+went down into Egypt"*, then *"The Egyptians mistreated us"*, *"we cried"*, *"Yahweh brought us
+out"*, *"he has brought us into this place"* (5–9). The speaker was not in Egypt and says *us*. The
+third-year declaration answers the last word of chapter 25, *"You shall not forget"*, with *"neither
+have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] and
+[[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; laid-up words, bound signs, and door-post writing as means of memory (18–20).
@@ -900,6 +909,7 @@ Amalek did. That is the wiki's reading of the knot, not a resolution of it. See 
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:12; the fringes restated without Numbers' reminder clause.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:9, 18–22; Miriam remembered, Egypt remembered, the sheaf forgotten.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; *"Remember … You shall not forget"*.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–13; the history recited over the basket in the first person plural, and *"neither have I forgotten them"*.
 
 ## Related themes
 

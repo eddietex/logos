@@ -567,6 +567,13 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 
 The Dweller stays in the camp with the ark. The people who leave are the ones told *Yahweh isn't among you*. See [[The Defeat at Hormah]].
 
+### The name at the place, the habitation in heaven — Deuteronomy 26:2, 15
+
+The basket goes *"to the place which Yahweh your God shall choose, to cause his name to dwell there"*
+(2). The prayer at the end of the same rite asks *"Look down from your holy habitation, from heaven"*
+(15). *Māʿôn*, *habitation*, occurs only here in Genesis–Deuteronomy (WLC). The text sets the two side
+by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; one chosen place, *"to put his name there"* (5).
@@ -697,6 +704,7 @@ The Dweller stays in the camp with the ark. The people who leave are the ones to
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the place where his name dwells, for Passover, weeks, and tents (2, 6, 11, 16).
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:14; *"Yahweh your God walks in the middle of your
   camp"*.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:2, 15; the name at the chosen place and the *"holy habitation"* in heaven.
 
 ## Related themes
 

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### *"My father was a Syrian ready to perish"* — Deuteronomy 26:5
+
+The first-fruits confession begins with an unnamed father, *ʾărammî*, *"a Syrian"*, the gentilic
+Genesis gives Bethuel and Laban, who *"went down into Egypt, and lived there, few in number"*. The
+text does not say who he is. Jacob is the usual reading: he spent twenty years in Aram and took the
+family down to Egypt, and Joshua 24:4 says *"Jacob and his children went down into Egypt"* (WEB at
+bible-api.com). Abraham is another reading (reported from general knowledge). The wiki records both.
+
+See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Named with Abraham and Isaac as a servant to be remembered in intercession (27). Jacob here is the
@@ -1064,6 +1074,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - [[The Priestly Garments]] — Exodus 28:9–12, 21, 29; unnamed, but his sons' names are engraved on the ephod's onyx stones *"in the order of their birth"* and on the twelve breastplate stones.
 - [[The Priestly Garments Made]] — Exodus 39:1–31; Ancestral context for Israel’s twelve names; no personal appearance.
 - [[The Census in the Wilderness of Sinai]] — Numbers 1:1–54; named as Israel; his descendants mustered.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5; not named. Most readers take him as *"My father … a Syrian ready to perish"*, who *"went down into Egypt"*; Abraham is another reading.
 
 ## Related people
 

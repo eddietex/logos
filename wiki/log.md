@@ -23903,3 +23903,57 @@ for 14, 68, 374, 705, 1121, 1129, 1758, 2142, 2143, 2179, 2347, 2502, 2629, 2654
 6664, 7034, 7112, 7136, 7379, 7561, 7794, 7911, and 8003; across Joshua for 2179; across Proverbs for
 374 and 3599. The Greek of the New Testament and the Hebrew of Ruth were not checked. Raw files,
 canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-10] ingest | Deuteronomy 26.1-15 — First Fruits and the Tithe Declaration
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary and title (WEB 26:1–15
+= WLC 26:1–15). Created the passage page and one connection,
+[[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]], which sets the confession
+beside Moses' message to Edom, the answer to the son in 6:21–23, 10:22, and Joshua 24:2–4. Revised 50
+existing pages including this log. They are: Deuteronomy (box checked, overview, count, five key themes
+added: Tithing, Festivals and First Fruits, Prayer, Suffering, Signs and Wonders) and
+`wiki/books/index.md`; three people (Moses, Jacob, Laban (person)) and three places (Egypt, Aram
+Naharaim, Haran (city)); thirteen themes given a section and a key-passage
+entry (Tithing, Festivals and First Fruits, Remembrance, Prayer, Joy and Enjoyment, The Poor and the
+Vulnerable, Suffering, Signs and Wonders, Land and Sojourning, Blessing, Clean and Unclean, Mourning
+and Lament, The Dwelling of God) and The Nations; seven connections (Within Your Gates, Three Tithe
+Laws, Rejoice Before Yahweh, Honor Yahweh with Your Substance, Down to Egypt and Up Again, Served,
+Released, Pursued, and Jegar Sahadutha); eleven earlier passage pages whose forward references or
+quotations of Deuteronomy 26 now link or are corrected; the People F-M subindex, the places and themes
+indexes, four Connections subindexes, and `wiki/index.md`. Deuteronomy is now 53 / 69. Counts by
+frontmatter type are 378 passages, 257 people, 222 places, 87 themes, and 777 connections.
+
+Corrections made, not contradictions between sources: fifteen quotations of Deuteronomy 26:5 on eleven
+pages read *"A Syrian ready to perish was my father"*, and three of them continued *"and lived there
+as a foreigner"*. The WEB has *"My father was a Syrian ready to perish. He went down into Egypt, and
+lived there, few in number."* All are now the WEB's wording; the table on
+[[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]] now gives *"and lived there"* with the
+Hebrew *wayyāgor*, and [[Served, Released, Pursued - The Laban Years as Proto-Exodus]] says *"One verse"*
+where it said *"One sentence"*. [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]] quoted 26:4 as
+*"before the altar of Yahweh your God"*; the WEB has *"before Yahweh your God's altar"*.
+
+Recorded, not resolved: who *"my father"* is (Jacob, Abraham), and whether *ʾōbēd* means perishing or
+wandering, with the transitive Laban reading; whether the foreigner who rejoices (11) also recites; what
+*"given of it for the dead"* (14) refers to; the lexical identity of *bǝʾōnî*, *"in my mourning"*, which
+morphhb tags as *ʾāwen*; how the name at the chosen place (2) relates to the habitation in heaven (15);
+why Numbers 20:16 has an angel where Deuteronomy 26:8 has Yahweh's own hand. Offered as readings and
+marked so: the shared verb *bāʿar* in *"put away the holy things"* and *"remove the evil"*; the pairing
+of *"Yahweh heard our voice"* (7) with *"I have listened to Yahweh my God's voice"* (14).
+
+Judgment calls: no pages for the farmer, the priest, or the four landless groups; [[Jacob]] given an
+Appears-in entry and an overview section though unnamed, because the identification is the usual one
+and the page is where a reader would look; no new place page; the Laban reading of 26:5 and the
+Abraham identification reported from general knowledge, not checked against the Haggadah or a
+commentary.
+
+Sources: quotations copied directly from stored WEB Deuteronomy 4:19, 26–27, 34; 5:9; 6:20–24; 8:2, 10,
+12, 19–20; 10:22; 11:16; 12:5–7, 11–12, 18; 13:5; 14:1, 22–29; 16:11, 14; 17:3, 7, 12; 18:1–2, 4;
+19:13, 19; 21:9, 21; 22:3, 21–24; 24:7; 25:19; 26:1–19; 28:5, 17, 62; 29:26; 30:17–18; 33:11; Genesis
+12:2, 10; 15:13; 18:16; 19:28; 25:20; 28:5; 35:18; 41:51; 42:7; 47:9; Exodus 1:9, 11, 14; 3:7–9; 6:9;
+14:24; 22:22–23; 23:19; Leviticus 7:20; 22:4; 23:10; 27:30; Numbers 19:11; 20:14–16; 23:21. Joshua
+24:2–4 and Hosea 9:4 checked at bible-api.com (`translation=web`), 2026-11-10; neither book was fetched
+into raw/. Hebrew from WLC (morphhb, openscriptures, GitHub), retrieved 2026-11-10: Deuteronomy 4:27;
+10:22; 13:6; 26:1–15; 30:18; 33:11; Numbers 20:15–16; Exodus 1:11, 14; Genesis 12:2, 10; 35:18. Lemma
+searches across Genesis–Deuteronomy for 6, 205, 761, 1061, 1197, 2935, 3906, 4172, 4583, 4592, 4643,
+4962, 5046, 5656, 5999, 6031, 6099, 6817, 7186, 7225, 7489, 8259; across Deuteronomy for 1288, 7812,
+8055. Raw files, canonical workflow instructions, and controller files were unchanged.

@@ -714,6 +714,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
   Egyptian not abhorred.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:9, 18, 22; *"as you came out of Egypt"*, and *"you were a slave in Egypt"*, twice.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17; *"as you came out of Egypt"*, the phrase of 23:4 and 24:9.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–8; *"He went down into Egypt"*, *"The Egyptians mistreated us"*, *"Yahweh brought us out of Egypt"*: the confession over the first fruits.
 
 ## Related places
 

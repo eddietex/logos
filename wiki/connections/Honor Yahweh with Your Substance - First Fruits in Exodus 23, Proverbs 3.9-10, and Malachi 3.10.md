@@ -18,7 +18,7 @@ tags: [connection]
   house of Yahweh your God"* (*rēʾšîṯ bikkûrê ʾaḏmāṯəḵā*) — [[Justice, Sabbaths, and Feasts]],
   [[The Covenant Renewed]]
 - **Deuteronomy 26:2** — *"take some of the first of all the fruit of the ground … put it in a basket,
-  and … go to the place which Yahweh your God shall choose"* (WEB, verified; not yet ingested)
+  and … go to the place which Yahweh your God shall choose"* (WEB) — [[First Fruits and the Tithe Declaration]]
 - **Deuteronomy 28:8** — *"Yahweh will command the blessing on you in your barns"* (*baʾăsāmeḵā*;
   WEB, verified; not yet ingested)
 - **Proverbs 3:9–10** — *"Honor Yahweh with your substance, with the first fruits of all your increase:
@@ -42,7 +42,8 @@ commandment in it is not stated; the shared forms are the evidence.
 **The father widens the offering.** The law asks for the first fruits *of your ground*; Proverbs asks
 Yahweh to be honoured *"with your substance"*, *hôn*, a general word for wealth, and *"the first fruits
 of all your increase"*. Deuteronomy 26 makes the first fruits a confession — the worshipper recites
-the story of the exodus over the basket — and Proverbs makes them an act of *honour*, the word for what
+the story of the exodus over the basket, and uses *rēʾšît* without *bikkûrîm*, a word Deuteronomy
+never uses (WLC lemma search) — and Proverbs makes them an act of *honour*, the word for what
 is owed to a parent or a king. In either case the first portion goes to Yahweh before the rest is
 used.
 

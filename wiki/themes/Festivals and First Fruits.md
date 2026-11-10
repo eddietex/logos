@@ -183,6 +183,16 @@ kept *by number, according to the ordinance*. See
 
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
+### The basket and the confession — Deuteronomy 26:1–11
+
+The first of the ground's fruit goes in a basket to the chosen place, and the farmer recites over it
+the history from *"My father was a Syrian ready to perish"* to *"a land flowing with milk and honey"*,
+and ends *"Now, behold, I have brought the first of the fruit of the ground, which you, Yahweh, have
+given me"* (5–10). Deuteronomy's word is *rēʾšît*, *first*; it never uses *bikkûrîm* (WLC lemma
+search). The rite ends in worship, the only verse in Deuteronomy where *hištaḥăwâ* is directed to
+Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
+[[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
+
 ## Key passages
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
@@ -222,6 +232,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[The Offerings of the Appointed Feasts]] — Numbers 28:16–29:40; the animals for Unleavened Bread, the first fruits, and the seventh month
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the three feasts at the chosen place, without dates; joy, dependants, and gifts by blessing.
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; first fruits of grain, wine, oil, and fleece to the priest (4).
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–11; the first fruits brought in a basket, the history recited over them, worship and rejoicing.
 
 ## Related themes
 

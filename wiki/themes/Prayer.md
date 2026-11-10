@@ -322,6 +322,15 @@ Moses gives Yahweh reasons: his reputation (13–16), and what he himself has sa
 answers *kidbārekā*, *according to your word* (20). The *word* is Moses', and the prayer is built on
 Yahweh's. See [[The People Refuse the Land]].
 
+### Two set speeches before Yahweh — Deuteronomy 26:5–15
+
+Deuteronomy gives the farmer two speeches to say *"before Yahweh your God"*. The first tells what
+Yahweh did and turns to address him only at the end: *"which you, Yahweh, have given me"* (10). The
+second tells what the farmer did and ends in the request *"Look down from your holy habitation, from
+heaven, and bless your people Israel"* (15). The first has *"Yahweh heard our voice"* (7); the
+second, *"I have listened to Yahweh my God's voice"* (14). See
+[[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5–15.
+
 ## Key passages
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
@@ -531,6 +540,7 @@ Yahweh's. See [[The People Refuse the Land]].
 - [[Miriam and Aaron Against Moses]] — Numbers 12:13; *Heal her, God, I beg you!*
 - [[The People Refuse the Land]] — Numbers 14:13–20; a prayer that quotes God to God
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused poor man's cry to Yahweh (9).
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–15; the confession over the first fruits and the third-year declaration, ending *"Look down … and bless"*.
 
 ## Related themes
 

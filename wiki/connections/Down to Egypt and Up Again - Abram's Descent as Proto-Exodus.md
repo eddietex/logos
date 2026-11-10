@@ -37,8 +37,8 @@ tags: [connection]
   cannot be shown
 - **Exodus 12:31–36** — *"Rise up, go out from among my people"*, the Egyptians urgent to send them
   away, and the silver, gold, and clothing carried out
-- **Deuteronomy 26:5** — the harvest credo: *"A Syrian ready to perish was my father. He went down
-  into Egypt, and lived there as a foreigner."*
+- **Deuteronomy 26:5** — the harvest credo: *"My father was a Syrian ready to perish. He went down
+  into Egypt, and lived there, few in number."* — [[First Fruits and the Tithe Declaration]]
 - **Psalm 105:12–15** — *"He allowed no one to do them wrong. Yes, he reproved kings for their
   sakes."*
 - **Matthew 2:13–21** — a descent into Egypt to escape a killing of sons, and a return
@@ -62,7 +62,7 @@ but a rehearsal of Israel's.
 | | **Genesis 12:10–20** | **Exodus / the national story** |
 |---|---|---|
 | Cause | *"There was a famine in the land … for the famine was severe in the land"* | *"the famine is severe in the land of Canaan"* (Genesis 47:4) |
-| Movement | *"Abram went down into Egypt to live as a foreigner there"* | *"He went down into Egypt, and lived there as a foreigner"* (Deuteronomy 26:5) |
+| Movement | *"Abram went down into Egypt to live as a foreigner there"* | *"He went down into Egypt, and lived there"*, *wayyāgor*, the verb of Genesis 12:10 (Deuteronomy 26:5) |
 | The threat | *"They will kill me, but they will save you alive"* | *"cast every son … into the river, and every daughter you shall save alive"* (Exodus 1:22) |
 | Who is at risk | the wife the promise runs through | the sons the nation runs through |
 | The intervention | *"Yahweh afflicted Pharaoh and his house with great plagues"* | ten plagues, culminating in Pharaoh's own house (Exodus 12:29) |
@@ -180,5 +180,5 @@ second rehearsal.
 
 **The wiki keeps the two rehearsals distinct rather than merging them.** Abram's is the plot of the
 Exodus; Jacob's is its labour relations. **And Deuteronomy 26:5 puts the second one, not the first,
-into Israel's own confession**: *"A Syrian ready to perish was my father, and he went down into
+into Israel's own confession**: *"My father was a Syrian ready to perish. He went down into
 Egypt."*

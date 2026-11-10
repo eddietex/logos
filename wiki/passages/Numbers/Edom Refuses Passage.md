@@ -67,6 +67,7 @@ WEB, copied verbatim from the stored Numbers source.
 
 ## Cross-references
 
+- [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]] — [[First Fruits and the Tithe Declaration]]; Deuteronomy 26:5–9 retells verses 15–16 as a confession.
 - [[Protected Lands and Refused Passage - Numbers 20 and Deuteronomy 2]] — [[Around Seir and Past Moab and Ammon]]; Deuteronomy 2:1–23.
 
 - [[Edom and Sihon - Refused Passage and Different Outcomes]] — comparison with [[Sihon and Og]].

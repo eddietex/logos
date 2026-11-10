@@ -64,8 +64,9 @@ one non-negotiable clause of the oath in Genesis 24 is that Isaac must never set
 that you don't bring my son there again"* (24:6, 8). **The land the covenant marries into is the land
 the covenant may not return to.** See [[Land and Sojourning]] and [[A Wife for Isaac]].
 
-Israel's own creed keeps the memory and keeps it uncomfortable: *"A Syrian ready to perish was my
-father, and he went down into Egypt"* (Deuteronomy 26:5). And Joshua 24:2 is blunter about what was
+Israel's own creed keeps the memory and keeps it uncomfortable: *"My father was a Syrian ready to
+perish. He went down into Egypt"* (Deuteronomy 26:5; see
+[[First Fruits and the Tithe Declaration]]). And Joshua 24:2 is blunter about what was
 left behind: *"Your fathers lived of old time beyond the River … and they served other gods."*
 
 ## Appears in
@@ -117,6 +118,7 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   enters the pericope only as the thing he was travelling home from when his wife died**, which is what
   the verse is in the chapter to establish
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Balaam's home, WEB *"Mesopotamia"*.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5; unnamed, but behind *ʾărammî*, *"My father was a Syrian ready to perish"*.
 
 ## Related places
 

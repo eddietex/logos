@@ -90,7 +90,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:9; Levi has *"no portion nor
   inheritance with his brothers"*. See
   [[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]].
-- Deuteronomy 26:12–15 — the third-year tithe given and declared before Yahweh; not yet ingested.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:12–15; the third-year tithe given and declared before Yahweh.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14; the same dependants at the feasts, now at the place.
   Deuteronomy 24:19, the forgotten sheaf, is in [[Pledges, Wages, Justice, and Gleaning]]. See
   [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]].

@@ -13,7 +13,7 @@ tags: [connection]
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:6–8
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:14, 17, 19–21
-- Deuteronomy 26:12–13 — the third-year tithe declared; not yet ingested
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:11–13
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:16
 
 ## Analysis
@@ -32,6 +32,7 @@ and returns to it each time food is shared.
   rejoice before Yahweh your God"*.
 - **24:19** leaves the forgotten sheaf *"for the foreigner, for the fatherless, and for the widow"*
   — the three without the Levite.
+- **26:11** puts two of them, the Levite and the foreigner, at the first-fruits rejoicing.
 - **26:12–13** makes the householder declare before Yahweh that the third-year tithe has been given
   *"to the Levite, to the foreigner, to the fatherless, and to the widow"*.
 

@@ -266,7 +266,7 @@ the root five more times.**
 ***"Laban the Syrian."*** ***Hāʾărammî.*** **The fourth of four times Genesis attaches the ethnic
 label to him** (25:20; 28:5; 31:20, 24), **and both of this chapter's uses sit next to a deception or
 a divine warning.** Deuteronomy 26:5 will make the same word Israel's confession of these very years:
-*"A Syrian ready to perish was my father."* See [[The Nations]] and [[Aram Naharaim]].
+*"My father was a Syrian ready to perish."* See [[The Nations]] and [[Aram Naharaim]].
 
 ***"Passed over the River, and set his face toward the mountain of Gilead."*** ***Hannāhār*** with no
 qualifier is **the Euphrates**, and crossing it is what the family did in the other direction under
@@ -821,7 +821,7 @@ foreigners**, and Israel's confession of them is a single line about a wandering
 - Exodus 22:10–13 — the shepherd's liability, and the exemption Jacob says he never had.
 - Leviticus 15:19–23 — what a menstruating woman sits on.
 - Numbers 14:22 — *"these ten times"*, the idiom of 31:7 and 31:41.
-- Deuteronomy 26:5 — *"A Syrian ready to perish was my father"*: Israel's confession of these twenty
+- Deuteronomy 26:5 — *"My father was a Syrian ready to perish"*: Israel's confession of these twenty
   years.
 - Judges 17:5; 18:14–20 — Micah's *teraphim*, and the tribe that steals them.
 - 1 Samuel 15:23 — *teraphim* named with divination and called iniquity.

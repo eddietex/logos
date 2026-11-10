@@ -436,7 +436,7 @@ been set aside. **Genesis hands out the promise and the consequences in the same
   passage *(not yet ingested)*.
 - Deuteronomy 7:1–4 — the marriage prohibition made national law, with the theological reason Genesis
   never gives.
-- Deuteronomy 26:5 — *"A Syrian ready to perish was my father"*, the creed built on the gentilic
+- Deuteronomy 26:5 — *"My father was a Syrian ready to perish"*, the creed built on the gentilic
   applied to Bethuel and Laban here.
 - Isaiah 60:7 — the rams of Nebaioth, the only later notice of Mahalath's brother.
 - Hosea 12:12 — the prophets' one-verse summary of this sending and its cost: Jacob fled to the

@@ -16,8 +16,8 @@ tags: [connection]
   [[Jacob's Flight from Laban]]
 - **Exodus 1:8–14; 3:7–22; 5:1–3; 12:31–36; 14:5–9** — the service, the seen affliction, *let my
   people go*, the plundering, and the pursuit — [[The Oppression in Egypt]], [[Bricks Without Straw]]
-- **Deuteronomy 26:5–9** — *"A Syrian ready to perish was my father"*: Israel's own creed, which puts
-  the two stories in one sentence
+- **Deuteronomy 26:5–9** — *"My father was a Syrian ready to perish"*: Israel's own creed, which puts
+  the two stories in one verse — [[First Fruits and the Tithe Declaration]]
 - **Exodus 15:1, 20** — Israel sings, and Miriam takes a tambourine — the *šîr* and *tōp* of Laban's
   unfulfilled send-off (Genesis 31:27) — [[The Song of the Sea]]
 
@@ -56,8 +56,8 @@ proto-exodus and not a rehearsal.
 **Genesis is also not claiming the parallel.** No character in Genesis 31 mentions Egypt, and Exodus
 never mentions Laban. **What connects them is a shared vocabulary and a shared shape**, and the
 connection is made explicit only later — **by Israel itself**, in the confession recited over the
-firstfruits: *"A Syrian ready to perish was my father, and he went down into Egypt"* (Deuteronomy
-26:5). **One sentence, two servitudes, and the Aramean is the subject of both halves.**
+firstfruits: *"My father was a Syrian ready to perish. He went down into Egypt"* (Deuteronomy
+26:5). **One verse, two servitudes, and the Aramean is the subject of both halves.**
 
 ## Significance
 

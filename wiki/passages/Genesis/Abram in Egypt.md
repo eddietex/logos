@@ -255,8 +255,8 @@ See [[Down to Egypt and Up Again - Abram's Descent as Proto-Exodus]].
   — [[The Oppression in Egypt]]
 - Exodus 11:1; 12:31–36 — Pharaoh's household struck, Israel sent away, and the Egyptians' silver and
   gold carried out.
-- Deuteronomy 26:5 — the credo Israel recites over the firstfruits: *"A Syrian ready to perish was my
-  father. He went down into Egypt, and lived there as a foreigner."*
+- Deuteronomy 26:5 — the credo Israel recites over the firstfruits: *"My father was a Syrian ready to
+perish. He went down into Egypt, and lived there, few in number."*
 - Leviticus 18:9; 20:17; Deuteronomy 27:22 — the half-sister marriage the Torah later forbids and
   curses, narrated here without comment.
 - Isaiah 30:1–3; 31:1 — Judah going down to Egypt for help *"and don't ask for my counsel"*; the

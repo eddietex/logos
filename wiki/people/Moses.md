@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Words for the farmer to say — Deuteronomy 26:1–15
+
+Moses gives Israel two speeches to say before Yahweh once in the land: the confession over the
+basket of first fruits, *"My father was a Syrian ready to perish …"* (5–10), and the declaration
+after the third-year tithe, *"I have put away the holy things out of my house"* (13–15). He does not
+appear in the history he gives them to recite.
+
+See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15.
+
 ### Accusations and sexual offenses — Deuteronomy 22:13–30
 
 Moses, unnamed in the passage, gives seven cases: the bride falsely or truly accused before the elders,
@@ -2113,6 +2122,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the bill of divorce, the wife who may not be taken back, and the newlywed's year at home.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22; the speaker, on pledges, wages, the kidnapper, leprosy and Miriam, justice, and gleaning.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19; the speaker, on judges and beatings, the ox, the levirate, the fight, weights, and Amalek.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; the speaker, giving the words of the first-fruits confession and the third-year tithe declaration.
 
 ## Related people
 

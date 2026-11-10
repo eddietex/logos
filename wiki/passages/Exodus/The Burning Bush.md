@@ -622,6 +622,7 @@ Exodus that clause is his name.** See [[Call and Election]].
 
 ## Cross-references
 
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:7; *"saw our affliction … and our oppression"*, the *ʿŏnî* and *laḥaṣ* of 3:7, 9.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 describes tears without a narrated intervention, in
   tension with Exodus 3:7–9’s announced deliverance; see
   [[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]].

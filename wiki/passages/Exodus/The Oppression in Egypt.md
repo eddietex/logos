@@ -426,7 +426,8 @@ the boys of a town (Matthew 2:16), and a child who escapes — by going *into* E
   [[Carry Up My Bones - Joseph's Oath and Its Keeping]]
 - Leviticus 25:43, 46, 53 — *"You shall not rule over him with harshness, but shall fear your God"* —
   [[With Harshness - Exodus 1.13-14 and Leviticus 25]] *(new)*
-- Deuteronomy 26:5–6 — the creed
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–6; the creed
+- [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]
 - Joshua 2:1–7; Hebrews 11:31; James 2:25 — Rahab and the king of Jericho —
   [[The Midwives and Rahab - Deceiving the King to Save Life]] *(new)*
 - Judges 2:8–10 — *"another generation arose after them, who didn't know Yahweh"* —

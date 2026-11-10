@@ -297,6 +297,14 @@ Moses asks for death rather than go on carrying the people. *Bərāʿātî*, *my
 
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
+### Affliction, toil, and oppression seen — Deuteronomy 26:6–7
+
+The confession names Egypt's treatment in three verbs, *"mistreated us, afflicted us, and imposed
+hard labor on us"*, and what Yahweh saw in three nouns, *"our affliction, our toil, and our
+oppression"*. *ʿOnyēnû* and *laḥăṣēnû* are what Yahweh saw at the bush (Exodus 3:7, 9); *ʿămālēnû* is
+the *"toil"* Joseph was made to forget (Genesis 41:51) (WLC). See
+[[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:6–7; Exodus 3:7, 9; Genesis 41:51.
+
 ## Key passages
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
@@ -539,6 +547,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Trust in Yahweh with All Your Heart]] — Proverbs 3:11–12; discipline as a father's, placed after five promises
 - [[The Seventy Elders and the Quail]] — Numbers 11:10–15; a leader's request for death.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; *"the bread of affliction"* (3).
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:6–7; *"our affliction, our toil, and our oppression"* seen by Yahweh.
 
 ## Related themes
 

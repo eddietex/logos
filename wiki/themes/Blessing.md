@@ -483,6 +483,14 @@ The poor man whose pledge is returned *"bless[es] you"* (13), the piel of *bāra
 object (WLC); the farmer who leaves the sheaf is promised *"that Yahweh your God may bless you in all the
 work of your hands"* (19). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### *"Look down … and bless"* — Deuteronomy 26:15
+
+The third-year declaration ends in a request: *"Look down from your holy habitation, from heaven, and
+bless your people Israel, and the ground which you have given us"*. It asks for what 14:29 promised to
+the one who feeds the four, *"that Yahweh your God may bless you in all the work of your hand"*. One
+of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 33:11 (WLC). See
+[[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; eating *"according to Yahweh your God's blessing"* (15).
@@ -778,6 +786,7 @@ work of your hands"* (19). See [[Pledges, Wages, Justice, and Gleaning]]. Source
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:5; the curse turned into a blessing.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; blessing on the one who lends without interest.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13, 19; the poor man's blessing and Yahweh's.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:15; *"bless your people Israel, and the ground"*, after the poor's tithe is given.
 
 ## Related themes
 

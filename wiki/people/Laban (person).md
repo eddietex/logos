@@ -188,8 +188,8 @@ only time he does them with nothing to gain.** He never appears again.
 
 He is done. **Genesis calls him *"the Syrian"* — *hāʾărammî*, the Aramean — four times** (25:20; 28:5; 31:20, 24),
 which is how the book marks the branch that never crossed into Canaan as having become another
-people. Deuteronomy 26:5 keeps the memory in Israel's own confession: *"A Syrian ready to perish was
-my father."* See [[The Nations]].
+people. Deuteronomy 26:5 keeps the memory in Israel's own confession: *"My father was a Syrian ready
+to perish."* See [[The Nations]] and [[First Fruits and the Tithe Declaration]].
 
 **The name.** *Lābān* is the ordinary Hebrew adjective **white**. Like *Milcah*, *Sarai*, and
 *Terah*, it sits in a family whose names have been connected to the moon-cult of Haran; *Lebanon* is

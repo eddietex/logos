@@ -83,6 +83,7 @@ Source: stored WEB, Deuteronomy 4:32–40. Full unit copied verbatim.
 - [[Law and Obedience]] — Knowledge of God issues in a command: *You shall keep his statutes* (40).
 
 ## Cross-references
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:8; the same list in the first-fruits confession.
 - [[No Form Seen and No Image Made]] — the preceding unit; gods that cannot hear against the God who spoke.
 - [[Hear the Statutes and Remember Horeb]] — 4:1–14; chapter 4 begins and ends with the statutes.
 - [[The Voice Out of the Fire - Exodus 19-20 and Deuteronomy 4]] — the Horeb scene; 4:33 and 36 recall it again.
@@ -116,8 +117,8 @@ claimed gods, as 4:35 makes plain.
 **The list in verse 34.** *Trials, signs, wonders, war, a mighty hand, an outstretched arm, great
 terrors.* Exodus 6:6 has Yahweh promise to redeem Israel *with an outstretched arm, and with great
 judgments*. Deuteronomy 26:8 gives almost the same list in the first-fruits confession: *with a mighty
-hand, with an outstretched arm, with great terror, with signs, and with wonders* (stored WEB, not yet
-ingested). *War* in the list fits Exodus 15:3's *Yahweh is a man of war* at the sea.
+hand, with an outstretched arm, with great terror, with signs, and with wonders* (stored WEB; see
+[[First Fruits and the Tithe Declaration]]). *War* in the list fits Exodus 15:3's *Yahweh is a man of war* at the sea.
 
 **There is no one else.** Verses 35 and 39 make the strongest statement in the Torah so far that Yahweh
 alone is God. Exodus 15:11 had asked *Who is like you, Yahweh, among the gods?*, which compares Yahweh

@@ -495,7 +495,7 @@ rods from is named by a tree**, *lûz*, which is what [[Bethel]] was called befo
 - Exodus 5:1–3 — ***šallaḥ ʾet-ʿammî***, and a three days' journey asked for.
 - Exodus 12:35–36 — leaving a foreign employer enriched.
 - Leviticus 19:26; Deuteronomy 18:10 — the prohibition of *nāḥaš*.
-- Deuteronomy 26:5 — *"A Syrian ready to perish was my father"*, Israel's confession of these years.
+- Deuteronomy 26:5 — *"My father was a Syrian ready to perish"*, Israel's confession of these years.
 - Hosea 12:12 — *"Jacob fled… and Israel served to get a wife, and for a wife he tended flocks"*: the
   prophets' one-line summary of Genesis 29–31.
 

@@ -488,6 +488,15 @@ widow"* (19–21). *ʿĀnî*, *poor*, occurs three times (12, 14, 15) (WLC). See
 [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]], and
 [[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### The tithe that fills the four — Deuteronomy 26:12–13
+
+The third-year tithe goes *"to the Levite, to the foreigner, to the fatherless, and to the widow, that
+they may eat within your gates, and be filled"* (12), and the giver must say before Yahweh that he has
+given it (13). The same chapter has Israel confess *"we cried to Yahweh … Yahweh heard our voice"*
+(7), with the verb (*ṣāʿaq*) Exodus 22:23 uses for the widow's and orphan's cry that Yahweh will
+hear (WLC). See [[First Fruits and the Tithe Declaration]] and
+[[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
+
 ## Key passages
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
@@ -591,6 +600,7 @@ widow"* (19–21). *ʿĀnî*, *poor*, occurs three times (12, 14, 15) (WLC). See
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:25–27; the pledged woman in the field, *"no one to save her"*.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–20; the fugitive protected, the brother lent to freely.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22; the mill, the pledge, the wage, the widow's garment, and the gleanings.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:12–13; the third-year tithe given so the four *"eat within your gates, and be filled"*, and declared before Yahweh.
 
 ## Related themes
 

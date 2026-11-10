@@ -286,6 +286,13 @@ the piel of *śāmaḥ*, *make glad*. Elsewhere in Deuteronomy the verb is qal, 
 Yahweh at the feasts (12:7; 16:11, 14). This is the only piel in Genesis–Deuteronomy, and the only time
 in the book that the joy is given to someone else (WLC). See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
 
+### *"Rejoice in all the good"* — Deuteronomy 26:11
+
+After the basket is set before the altar: *"You shall rejoice in all the good which Yahweh your God
+has given to you, and to your house, you, and the Levite, and the foreigner who is among you."* The
+foreigner, who has no Israelite father to recite about, is at the meal. See [[First Fruits and the Tithe Declaration]] and
+[[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
+
 ## Key passages
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"you shall rejoice"* before Yahweh with the household (7, 12, 18).
@@ -340,6 +347,7 @@ in the book that the joy is given to someone else (WLC). See [[Divorce, Remarria
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe spent on what the soul desires, and eaten with rejoicing.
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; joy commanded at weeks and tents (11, 14), and *"altogether joyful"* (15).
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; *"shall cheer his wife"*, the Torah's one piel of *śāmaḥ*.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:11; rejoicing over the first fruits with the Levite and the foreigner.
 
 ## Related themes
 

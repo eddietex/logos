@@ -716,6 +716,14 @@ the hiphil of *ḥāṭāʾ* (WLC). The land is again *"which Yahweh your God gi
 the phrase of 19:10 and 21:23. Jeremiah 3:1 asks of the same case, *"Wouldn't that land be greatly
 polluted?"* See [[Divorce, Remarriage, and the Newlywed]] and [[A Bill of Divorce - Deuteronomy 24.1-4, Isaiah 50.1, and Jeremiah 3]]. Source: stored WEB Deuteronomy 24:1–5.
 
+### *"I have come to the land"* — Deuteronomy 26:1–10, 15
+
+The rite assumes the land is held: *"when you have come in … possess it, and dwell in it"* (1). The
+farmer tells the priest *"I have come to the land which Yahweh swore to our fathers to give us"* (3),
+and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (5; the verb of Genesis
+12:10, WLC). The prayer that closes the chapter asks blessing on *"the ground which you have given
+us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
+
 ## Key passages
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the land in three parts (3), enlarged (8), and its blood guilt (10).
@@ -1114,6 +1122,7 @@ polluted?"* See [[Divorce, Remarriage, and the Newlywed]] and [[A Bill of Divorc
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; the land given for an inheritance kept undefiled.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"you lived as a foreigner in his land"*.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; a remarriage that would *"cause the land to sin"*.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; *"I have come to the land"*; the sojourning father; blessing asked on the ground.
 
 ## Related themes
 

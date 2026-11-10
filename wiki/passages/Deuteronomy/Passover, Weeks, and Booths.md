@@ -141,8 +141,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   name and seen in Egypt, here eaten as bread (16:3).
 - [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]] — the joy commanded at the place, from
   chapter 12 to chapter 27.
-- Deuteronomy 26:1–11 — the first fruits brought to the place, and *"you shall rejoice in all the good
-  which Yahweh your God has given to you"* (26:11); not yet ingested.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–11; the first fruits brought to the place, and *"you shall rejoice in all the good
+  which Yahweh your God has given to you"* (26:11).
 - Deuteronomy 31:10–13 — the law read *"in the feast of tents"* of the year of release; not yet
   ingested.
 - [[The Stages of the Journey]] — Numbers 33:3; Israel *"went out with a high hand"* *"on the next

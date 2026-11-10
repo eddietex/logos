@@ -31,6 +31,16 @@ asked for.
 
 ## Development across Scripture
 
+### The third-year tithe declared — Deuteronomy 26:12–15
+
+When the tithe of the third year has been given *"to the Levite, to the foreigner, to the fatherless,
+and to the widow"*, the householder says so before Yahweh: *"I have put away the holy things out of my
+house"* (26:13). The poor's tithe is *haqqōdeš*, *the holy*, and is kept from mourning, uncleanness,
+and *"the dead"* (14). The verb *"put away"*, *biʿartî*, is the piel of *bāʿar* that Deuteronomy
+elsewhere uses for removing evil from Israel (WLC). The declaration ends in a request for blessing on
+the ground, the blessing 14:29 had promised. See [[First Fruits and the Tithe Declaration]] and
+[[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]]. Source: stored WEB Deuteronomy 14:29; 26:12–15.
+
 ### The eaten tithe and the third-year tithe — Deuteronomy 14:22–29
 
 The tithe of grain, new wine, oil, and the firstborn is eaten by the household before Yahweh at the chosen place; far-off households may turn it into money and buy food and drink there (22–26). Every third year it is stored in the towns for the Levite, the foreigner, the fatherless, and the widow (28–29). This differs from Leviticus 27:30, where the tithe *"is Yahweh's"*, and from Numbers 18:21, where it is the Levites' inheritance. The difference is recorded, not resolved; see [[Three Tithe Laws - Leviticus 27, Numbers 18, and Deuteronomy 14]].
@@ -108,6 +118,7 @@ See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
 - Matthew 23:23; Luke 11:42; 18:12 — mint, dill, and cumin
 - Hebrews 7:1–10 — Levi tithed in Abraham's body
 - [[Tithes for Feasting and Provision]] — Deuteronomy 14:22–29; the tithe eaten at the place, or turned to money; every third year stored for the Levite and the poor.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:12–15; the third-year tithe given in the towns and declared before Yahweh, *"I have put away the holy things out of my house"*.
 
 ## Related themes
 

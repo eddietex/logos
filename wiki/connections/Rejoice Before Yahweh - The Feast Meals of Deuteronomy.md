@@ -17,9 +17,9 @@ tags: [connection]
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:11, 14–15: the feast of weeks and the feast of
   tents, with the Levite, the foreigner, the fatherless, and the widow added to the household; *"and
   you shall be altogether joyful"* (16:15).
-- Deuteronomy 26:11 — the first fruits brought to the place: *"You shall rejoice in all the good which
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:11: the first fruits brought to the place: *"You shall rejoice in all the good which
   Yahweh your God has given to you, and to your house, you, and the Levite, and the foreigner who is
-  among you"*; not yet ingested.
+  among you"*.
 - Deuteronomy 27:7 — on Mount Ebal: *"You shall sacrifice peace offerings, and shall eat there. You
   shall rejoice before Yahweh your God"*; not yet ingested.
 
@@ -36,7 +36,8 @@ morphhb).
 tithes at the place (chapter 12), the tithe bought as food and drink (14:26), the feasts (16), the
 first fruits (26), the peace offerings at Ebal (27). None is a command to feel something apart from
 the table. Each is tied to *before Yahweh your God* or to the place he chooses, except 26:11, which
-follows the basket set *"before the altar of Yahweh your God"* in the same unit.
+follows the basket set *"before Yahweh your God's altar"* (26:4) in the same unit. (This page
+earlier quoted 26:4 as *"before the altar of Yahweh your God"*; corrected to the WEB 2026-11-10.)
 
 **The guest list grows.**
 

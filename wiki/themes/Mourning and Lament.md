@@ -235,6 +235,13 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 treats it as a fault. Verse 39 will have them mourn again, after the sentence, too late. See
 [[The People Refuse the Land]].
 
+### *"Not … in my mourning"* — Deuteronomy 26:14
+
+The third-year tithe may not be eaten *"in my mourning"* or *"given … for the dead"*. Hosea 9:4 calls
+the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of it will be polluted"*
+(WEB at bible-api.com). The Hebrew *bǝʾōnî* is lexically uncertain; morphhb assigns it to *ʾāwen*,
+*trouble*. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:14.
+
 ## Key passages
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
@@ -329,6 +336,7 @@ treats it as a fault. Verse 39 will have them mourn again, after the sentence, t
 - [[The Defeat at Hormah]] — Numbers 14:39; great mourning, and no change of direction
 - [[A Holy People and Its Food]] — Deuteronomy 14:1; no cutting or baldness for the dead.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:13; the captive bewails her father and mother a full month.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:14; the tithe kept from mourning and from *"the dead"*.
 
 ## Related themes
 

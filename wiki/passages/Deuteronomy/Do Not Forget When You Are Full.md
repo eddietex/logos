@@ -105,6 +105,7 @@ Complete unit, copied from the stored WEB:
 
 ## Cross-references
 
+- [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]] — [[First Fruits and the Tithe Declaration]]; 6:21–23 and 26:5–9 as two short retellings.
 - [[Hear Israel and Love Yahweh]] — the daily teaching of 6:7 becomes a worked household answer.
 - [[Water from the Rock]] — Exodus 17:1–7 supplies the Massah event.
 - [[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]]

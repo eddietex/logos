@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 31:47** — *"Laban called it Jegar Sahadutha, but Jacob called it Galeed"* —
   [[Jacob's Flight from Laban]]
 - **Genesis 31:20, 24** — *Laban the Syrian*, ***hāʾărammî***, twice in one chapter
-- **Deuteronomy 26:5** — *"A Syrian ready to perish was my father"*
+- **Deuteronomy 26:5** — *"My father was a Syrian ready to perish"* — [[First Fruits and the Tithe Declaration]]
 - **2 Kings 18:26** — the officials at the wall: *"speak to your servants in the Syrian language, for
   we understand it; and don't speak to us in the Jews' language"*
 - **Ezra 4:8–6:18; 7:12–26; Jeremiah 10:11; Daniel 2:4–7:28** — the Old Testament's other Aramaic
@@ -66,6 +66,6 @@ and his son-in-law.**
 makes its point by withholding the comment. It does not say *the family had grown apart*; it prints
 two names. It does not say *Laban's religion was not Abraham's*; it prints a plural verb (31:53). **It
 does not say the two branches were now separate peoples — it lets Deuteronomy 26:5 say it, in one
-line, to be recited over a basket of fruit**: *"A Syrian ready to perish was my father."*
+line, to be recited over a basket of fruit**: *"My father was a Syrian ready to perish."*
 
 See [[Galeed]], [[Gilead]], [[Names and Naming]], and [[Nahor (brother of Abram)]].

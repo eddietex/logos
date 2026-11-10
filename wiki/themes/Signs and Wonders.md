@@ -120,6 +120,12 @@ miracles or identify all of them with the later conquest stories. See [[The Cove
 in the wilderness* (22). Yahweh treats the signs as evidence that should have settled the matter.
 See [[The People Refuse the Land]].
 
+### In the confession — Deuteronomy 26:8
+
+*"Yahweh brought us out of Egypt with a mighty hand, with an outstretched arm, with great terror, with
+signs, and with wonders."* The list of 4:34, now put in the mouth of every household that brings
+first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
+
 ## Key passages
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
@@ -208,6 +214,7 @@ See [[The People Refuse the Land]].
 - [[Laws of Holiness and Compassion]] — Exodus 22:18; the sorceress, with the root of Pharaoh's sorcerers
 - [[The People Refuse the Land]] — Numbers 14:11, 22; the signs as the charge
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; a fulfilled sign that does not authenticate the prophet.
+- [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:8; the signs and wonders recited over the first fruits.
 
 ## Related themes
 
