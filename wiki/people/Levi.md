@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch. The Levites also speak the curses loudly (14); their relation to the tribal positioning is not explained.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The priests at the valley — Deuteronomy 21:5
 
 *"The priests the sons of Levi shall come near; for them Yahweh your God has chosen to minister to him,
@@ -251,6 +258,9 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the landless Levite at the feast, not to be forsaken (12, 18–19).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

@@ -7,12 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
+
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[Set These Words Before You]] — Deuteronomy 11:29–30; *"you shall set the blessing on Mount
   Gerizim, and the curse on Mount Ebal"*, with the two mountains located by Gilgal and the oaks of
   Moreh.
-- **Deuteronomy 27:1–26** *(stored WEB; 1–10 now ingested, 11–26 pending)* — plastered stones with the law written
+- **Deuteronomy 27:1–26** *(stored WEB; entire chapter now ingested)* — plastered stones with the law written
   on them and an altar of uncut stones on Ebal (2–8); six tribes on Gerizim *"to bless the people"*,
   six on Ebal *"for the curse"* (12–13); the Levites pronounce twelve curses, each answered
   *"Amen"* (14–26).
@@ -22,6 +25,13 @@ tags: [connection]
   of the law, the blessing and the curse"* (34).
 
 ## Analysis
+
+### The assembly’s assent — Deuteronomy 27:11–26
+
+The full responsive unit is now ingested. The twelve curses require assent from all the people, not only the Ebal tribes. Levi is assigned to Gerizim while Levites pronounce the curses; the command does not explain the spatial arrangement of these roles. The lack of matching blessing formulas remains explicit.
+
+Source: stored WEB Deuteronomy 27:11–26.
+
 
 ### One command, three stages
 
@@ -66,7 +76,7 @@ The first unit of chapter 27, verses 1–10, is now ingested. Moses and the elde
 stones and an altar after the crossing, and Moses with the priests addresses Israel's present
 belonging. Ebal receives both law and joyful worship (4–8), although 11:29 associates it with
 the curse. The text does not explain that combination as the offerings removing the curses.
-The tribal arrangement and responsive curses in 27:11–26 remain the next un-ingested unit;
+The tribal arrangement and responsive curses in 27:11–26 are now ingested;
 Joshua's narrated implementation is also distinct from this command.
 
 Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
@@ -76,8 +86,7 @@ Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared abov
 Deuteronomy 11 sets a blessing and a curse before Israel as words (26–28) and then gives them a
 place (29). The choice is to be staged on the actual ground of the land, between two visible
 mountains. Joshua 8 shows the generation that crossed doing exactly that, with foreigners, women,
-and little ones present (Joshua 8:35). The remaining unit of Deuteronomy 27 and the future Joshua ingest will revisit this
-page.
+and little ones present (Joshua 8:35). Deuteronomy 27 is now fully ingested; the future Joshua ingest will revisit this page.
 
 Sources: stored WEB Deuteronomy 11:26–30, 27:1–26; Genesis 12:6–7. Joshua 4:19 and 8:30–35 verified
 from bible-api.com (WEB) without storing the book. No assertion about exact Hebrew wording is made.

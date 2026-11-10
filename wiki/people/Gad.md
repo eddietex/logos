@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribe bearing this ancestor’s name is assigned to Mount Ebal for the curse (13). This concerns the descendants, not the patriarch. The assignment does not pronounce this tribe morally inferior or uniquely cursed.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Ramoth in Gilead is designated for the Gadites (43). The tribal descendants, not
@@ -140,6 +147,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Removing a neighbor’s landmark is cursed (17), reinforcing the boundary protection of Deuteronomy 19:14. The curse gives no new restitution amount.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Eating is not theft; carrying is — Deuteronomy 23:24–25
 
 The passer-by may eat his fill of a neighbor's grapes and pluck his grain by hand. He may not put
@@ -206,6 +213,9 @@ Where theft of goods is repaid, theft of a person is capital, here as in Exodus 
 participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

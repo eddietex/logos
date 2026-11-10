@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The first curse targets an engraved or molten image made by a craftsman and installed in secret (15). Concealment does not remove accountability to Yahweh.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 The molten calf is a rapid departure from the commanded way (12, 16). Moses burns, crushes, and
@@ -395,6 +402,9 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed (2–3); *"You shall not do so to Yahweh"* (4).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the curse is following *"other gods, which you have not known"* (28).

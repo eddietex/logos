@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch. Joseph is named as one group here rather than divided into Ephraim and Manasseh.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 His descendants supply the petitioning tribal group whose concern Moses affirms (1, 5). Joseph is
@@ -447,6 +454,9 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

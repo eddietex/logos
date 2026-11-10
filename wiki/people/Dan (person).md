@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribe bearing this ancestor’s name is assigned to Mount Ebal for the curse (13). This concerns the descendants, not the patriarch. The assignment does not pronounce this tribe morally inferior or uniquely cursed.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The borders of the land — Numbers 34:1–29
 
 The tribe is represented by [[Bukki]], son of Jogli, in the division of Canaan (22). This concerns the patriarch’s descendants.
@@ -157,6 +164,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

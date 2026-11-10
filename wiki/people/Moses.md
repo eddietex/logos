@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Moses commands the tribal arrangement and responsive curses on the same day (11). He prescribes future words and positions rather than reporting a completed ceremony.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 Moses shares the command with Israel's elders (1), then the call to listen with the Levitical
@@ -1778,6 +1785,9 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

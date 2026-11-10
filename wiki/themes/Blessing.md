@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Six tribes stand on Gerizim to bless the people (12), but this unit supplies only curse formulas (15–26). The assignment to bless must not be mistaken for a written series of matching blessings.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Blessing for the forgone profit — Deuteronomy 23:20
 
 The lender who takes no interest from a brother does so *"that Yahweh your God may bless you in all that
@@ -492,6 +499,9 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; eating *"according to Yahweh your God's blessing"* (15).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the blessing set before Israel, to be set on Mount Gerizim (26–29).

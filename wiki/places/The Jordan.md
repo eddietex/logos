@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribal ceremony is commanded for after Israel crosses the river (12). The crossing itself is not narrated in this unit.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 The crossing is the temporal threshold for setting up the stones and altar (2–4).
@@ -192,6 +199,9 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

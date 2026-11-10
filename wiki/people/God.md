@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Yahweh is named as the one to whom the crafted image is an abomination (15). The commanded curse liturgy places even secret wrongdoing under covenant accountability.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 Yahweh gives the land promised to the ancestors (2–3), receives burnt and peace offerings
@@ -3690,6 +3697,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

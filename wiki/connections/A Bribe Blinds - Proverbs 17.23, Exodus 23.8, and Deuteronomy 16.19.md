@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
+
 - [[Judges Appointed for the People]] — Deuteronomy 1:16–17; the first charge to Israel's judges against partiality. See [[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]].
 
 - [[The House of Mourning]] — Ecclesiastes 7:7.
@@ -47,6 +50,13 @@ tags: [connection]
   justice for the innocent!"*
 
 ## Analysis
+
+### The assembly’s assent — Deuteronomy 27:11–26
+
+Deuteronomy 27:25 places acceptance of a bribe to kill an innocent person under a curse to which all the people must assent. This adds a communal sanction to the judicial prohibitions discussed above; it does not state whether the recipient is a judge or a hired killer.
+
+Source: stored WEB Deuteronomy 27:11–26.
+
 
 **The law forbids, Proverbs describes, and the vocabulary is the same.** Exodus 23:8 commands
 *wəšōḥad lōʾ tiqqāḥ*, *you shall not take a bribe*; Proverbs 17:23 reports that *šōḥad … rāšāʿ

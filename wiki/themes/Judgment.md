@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Withheld justice and payment to kill an innocent person are cursed (19, 25). The ceremony condemns these acts but does not replace the evidentiary procedures of Deuteronomy 19:15–21.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The parents' charge in the gate — Deuteronomy 21:18–21
 
 The father and mother do not punish the rebellious son themselves; they bring him *"to the elders of
@@ -942,6 +949,9 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; prior hatred decides between refuge and death (4, 6, 11); the elders act (12).
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

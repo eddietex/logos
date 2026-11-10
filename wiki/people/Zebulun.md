@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribe bearing this ancestor’s name is assigned to Mount Ebal for the curse (13). This concerns the descendants, not the patriarch. The assignment does not pronounce this tribe morally inferior or uniquely cursed.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The borders of the land — Numbers 34:1–29
 
 The tribe is represented by [[Elizaphan (son of Parnach)]], son of Parnach, in the division of Canaan (25). This concerns the patriarch’s descendants.
@@ -111,6 +118,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:16 — Zebulun marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

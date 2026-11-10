@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Specific wrongs against worship, parents, neighbors, vulnerable people, and sexual boundaries culminate in failure to do the law (15–26). Communal assent is not a claim that every speaker has committed each listed act.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Sin in the delay, not the abstention — Deuteronomy 23:21–22
 
 *"It would be sin in you"* if a vow is left unpaid; *"if you refrain from making a vow, it shall be no
@@ -728,6 +735,9 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

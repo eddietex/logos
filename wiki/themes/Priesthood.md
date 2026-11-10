@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The Levites must pronounce the curses loudly to all Israel (14). Levi also appears among the tribes on Gerizim (12); the text does not specify how the speaking group is positioned relative to that tribal assignment.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 The Levitical priests speak with Moses to all Israel, calling for silence, listening,
@@ -697,6 +704,9 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

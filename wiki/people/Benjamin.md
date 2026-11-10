@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The borders of the land — Numbers 34:1–29
 
 The tribe is represented by [[Elidad]], son of Chislon, in the division of Canaan (21). This concerns the patriarch’s descendants.
@@ -167,6 +174,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

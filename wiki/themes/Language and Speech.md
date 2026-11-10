@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Loud Levitical proclamation is answered by the same response from all the people after each curse (14–26). Speech binds the assembly to acknowledge standards that must also be enacted.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### What has gone out of your lips — Deuteronomy 23:23
 
 *"You shall observe and do that which has gone out of your lips"*. The noun *môṣāʾ*, *what goes out*,
@@ -702,6 +709,9 @@ in the book written by one person for another. See
 [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; teaching *"talking of them"* through the day, and writing them at the house's entrances (19–20).
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.

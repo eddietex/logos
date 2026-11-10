@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Twelve curses receive twelve communal responses (15–26). These are covenant sanctions Israel must acknowledge, not hostile magic directed at another nation. The last curse embraces failure to uphold the law by doing it.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The curse turned — Deuteronomy 23:4–5
 
 Ammon and Moab *"hired against you Balaam … to curse you"* (4). *"Nevertheless Yahweh your God wouldn't
@@ -273,6 +280,9 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the curse set before Israel for following other gods, to be set on Mount Ebal (26–29).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:23; *"he who is hanged is accursed of God"*.

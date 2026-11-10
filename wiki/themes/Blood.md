@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Secretly killing a neighbor and accepting a bribe to kill an innocent person are cursed (24–25). Concealment and payment do not make the taking of life permissible.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Blood on the house — Deuteronomy 22:8
 
 *"When you build a new house, then you shall make a railing around your roof, so that you don't
@@ -396,6 +403,9 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"innocent blood"* not to be shed (10) and purged (13).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"the blood is the life"* (23); poured on the ground like water (16, 24).

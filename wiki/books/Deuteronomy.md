@@ -11,6 +11,12 @@ status: in-progress
 
 ## Overview
 
+[[The People Answer Amen to the Curses]] (27:11–26) prescribes six tribes on each mountain,
+loud Levitical curses, and the people’s repeated Amen. Specific wrongs culminate in failure
+to uphold the law by doing it. Blessing is assigned but only curse formulas are supplied;
+the ceremony remains commanded rather than narrated.
+
+
 [[Stones and an Altar on Mount Ebal]] (27:1–10) moves from the law code to instructions for entry:
 plastered inscribed stones, an uncut-stone altar, offerings, and rejoicing on Ebal. Moses speaks
 with elders and then priests; present belonging grounds obedience, while the ceremony remains
@@ -398,7 +404,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15
 - [x] [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19
 - [x] [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10
-- [ ] The People Answer Amen to the Curses — Deuteronomy 27:11–26
+- [x] [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26
 - [ ] Blessings for Obedience — Deuteronomy 28:1–14
 - [ ] Curses for Disobedience — Deuteronomy 28:15–68
 - [ ] The Covenant in Moab and the Hidden Things — Deuteronomy 29:1–29

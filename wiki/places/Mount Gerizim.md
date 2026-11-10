@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Simeon, Levi, Judah, Issachar, Joseph, and Benjamin must stand here to bless the people (12). No corresponding blessing formulas are recorded in this unit.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 The mountain on which Israel is to *"set the blessing"* once it is in the land (Deuteronomy 11:29).
 It stands opposite [[Mount Ebal]], with the town of [[Shechem (city)]] in the pass between them, in
 the central hill country. Deuteronomy 11:30 locates the pair by the oaks of Moreh, the landmark at
@@ -23,6 +30,9 @@ Deuteronomy and is noted only so it is not lost; see
 [[The Altar at Shechem and the Covenant at Shechem]].
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Set These Words Before You]] — Deuteronomy 11:29–30; first named, as the mountain of the
   blessing.

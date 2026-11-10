@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Misleading the blind on the road and withholding justice from the foreigner, fatherless, and widow receive curses (18–19). Vulnerability must not become an opportunity for exploitation.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The fugitive and the borrower — Deuteronomy 23:15–20
 
 The runaway slave is not handed back and *"You shall not oppress him"* (16). The brother is lent to
@@ -498,6 +505,9 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

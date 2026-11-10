@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Reuben, Gad, Asher, Zebulun, Dan, and Naphtali must stand here for the curse (13). All the people, not just these six tribes, must answer the Levitical curses (15–26).
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 Ebal is the specified site of plastered inscribed stones and an uncut-stone altar (4–8).
@@ -28,6 +35,9 @@ written law are placed on the mountain of the curse, not of the blessing; none o
 explains the choice.
 
 ## Appears in
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

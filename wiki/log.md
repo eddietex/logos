@@ -24005,3 +24005,36 @@ comparisons were retained. Raw texts, workflow instructions, and controller file
 
 Validation: scripts/link-check.sh passed, with no wrapped links or unexpected dangling targets
 (57 not-yet-started book pages remain the expected baseline). Counts were checked by frontmatter.
+
+## [2026-11-10] ingest | Deuteronomy 27.11-26 — The People Answer Amen to the Curses
+
+Ingested exactly one planned pericope in auto mode, retaining the 11–26 boundary. Created the
+passage with all sixteen verses copied from stored WEB and three connections: Amen in Numbers 5
+and Deuteronomy 27; commands recast as curses in Leviticus 18–19 and Deuteronomy 27; and the
+closing curse as used in Galatians 3. Revised the Gerizim/Ebal and bribe connections.
+
+Revised fourteen people (Moses, God, and the twelve tribal ancestors), three places (Gerizim,
+Ebal, Jordan), and fifteen themes, each with synthesis and a passage-list entry. Tribal names
+refer to descendants, not patriarchs present at the ceremony. Unnamed offenders and the
+collective assembly do not receive invented individual pages. Updated affected category rows,
+the book overview and checked queue, books index (56 / 69), and dashboard counts by frontmatter:
+381 passages, 257 people, 222 places, 87 themes, 780 connections. Total: four new pages and
+45 revised pages, including indexes and this log.
+
+Interpretive limits retained: the ceremony is prescribed rather than narrated; all the people
+answer, not only Ebal’s tribes; assignment to Ebal is not a judgment of tribal inferiority.
+Levi’s placement and the Levites’ speaking role are both recorded without reconstructing their
+positions. The absence of matching blessing formulas is explicit. Only two curses explicitly
+name secrecy; the list is not described as exclusively secret offenses. Amen is assent to
+sanctions, not a confession to every listed offense. No new contradiction requiring replacement
+of an earlier claim was found; the existing liturgical asymmetry remains unresolved.
+
+Sources: stored WEB Deuteronomy 27:11–26, Leviticus 18–19, Numbers 5, and Deuteronomy 19.
+All sixteen quoted verses were mechanically compared with raw text. Galatians 3:10–14 was
+verified directly from bible-api.com (translation=web) on 2026-11-10 and paraphrased in the
+new connection. No source-language assertion was added. Raw texts, workflow instructions,
+and controller files were unchanged.
+
+Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets;
+57 not-yet-started books remain the expected baseline. New titles are unique, progress counts
+match frontmatter, and git diff --check passed.

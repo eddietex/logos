@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+Secret idolatry and secret killing are explicitly condemned (15, 24). The public response therefore acknowledges obligations even where an offender might evade ordinary observation.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 **Being all of one piece — the same thing on every side, and the same thing whether or not anyone is
 looking.** The Hebrew root is ***t-m-m***, whose plain sense is *complete, whole, finished, entire*,
 and which is used of a full day and a sum that has been paid out. (An earlier claim that it is used
@@ -262,6 +269,9 @@ unrighteously, are an abomination to Yahweh"* (15–16). See [[Justice, Family D
 [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
 

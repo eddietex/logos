@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The people’s repeated Amen assents to stated curses (15–26). This resembles the woman’s assent in Numbers 5:22, but here it is communal covenant acknowledgment, not a voluntary vow or an individual ordeal.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### Deuteronomy 23:21–23 ingested
 
 The law this page has cited ahead of its ingest is now in place. *"When you vow a vow to Yahweh your
@@ -414,6 +421,9 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; vows brought to the chosen place (11, 17, 26).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the land Yahweh swore to the fathers (21).

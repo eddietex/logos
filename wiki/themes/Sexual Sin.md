@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The responsive curses — Deuteronomy 27:11–26
+
+The curses name intercourse with a father’s wife, an animal, a sister, and a mother-in-law (20–23). They restate selected sexual boundaries as communal sanctions, without supplying a new trial procedure.
+
+See [[The People Answer Amen to the Curses]]. Source: stored WEB Deuteronomy 27:11–26.
+
+
 ### The qǝdēšâ, the qādēš, and the prostitute's hire — Deuteronomy 23:17–18
 
 *"There shall be no prostitute of the daughters of Israel, neither shall there be a sodomite of the
@@ -329,6 +336,9 @@ husband's taking her back after it (4). Matthew 5:32 later calls the second marr
 See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+
+- [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
+
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 
