@@ -41,7 +41,7 @@ tags: [connection]
 - **Deuteronomy 16:19** — *"You shall not pervert justice. You shall not show
   partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise, and perverts the
   words of the righteous."* — [[Judges, Worship, and Difficult Cases]]
-- **Deuteronomy 25:1** *(not yet ingested)* — *"they shall justify the righteous, and condemn the
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1; *"they shall justify the righteous, and condemn the
   wicked."*
 - **Isaiah 5:23** *(not yet ingested)* — the woe on those *"who acquit the guilty for a bribe, but deny
   justice for the innocent!"*
@@ -86,6 +86,15 @@ Sefaria). The next chapter also has a gift that is not called a bribe: *"A man's
 him, and brings him before great men"* (18:16). The noun is *mattān*, not *šōḥad*, and the saying only
 observes. Read with 17:8 and 17:23, the collection leaves the reader to tell the present that opens a
 door from the bribe that buys a verdict. See [[A Strong Tower]].
+
+### Deuteronomy 25:1 now ingested
+
+In Genesis–Deuteronomy the hiphil of *ṣādaq* occurs only at Exodus 23:7 and Deuteronomy 25:1, and the
+hiphil of *rāšaʿ* only at Exodus 22:9 (WLC 22:8), *"He whom God condemns"*, and Deuteronomy 25:1 (WLC
+lemma search). What God does and refuses to do in Exodus, the judges are told to do in Deuteronomy.
+The verse leads at once into the sentence, counted and capped at forty strokes (25:2–3). See
+[[Justice, Family Duty, Honest Weights, and Amalek]] and [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source:
+stored WEB Exodus 22:9; 23:7; Deuteronomy 25:1–3.
 
 ### Proverbs 21 in context
 

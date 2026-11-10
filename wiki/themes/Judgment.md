@@ -932,6 +932,15 @@ earlier sentence stands with this qualification.
 
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
+### The judge, the verdict, and the count — Deuteronomy 25:1–3
+
+*"They shall justify the righteous, and condemn the wicked"* (25:1). Both verbs are hiphil, *declare
+righteous* and *declare guilty*; in the Torah the first occurs otherwise only at Exodus 23:7 (*"I will
+not justify the wicked"*) and the second only at Exodus 22:9 (WLC). The sentence that follows is
+limited three ways: it is carried out *"before his face"*, *"by number"*, and to *"no more than forty
+stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See [[Justice, Family Duty, Honest Weights, and Amalek]] and
+[[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; prior hatred decides between refuge and death (4, 6, 11); the elders act (12).
@@ -1335,6 +1344,7 @@ See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; the elders and judges measure for a killing with no known killer.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:18–21; the parents bring the rebellious son to the elders in the gate.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the elders try the bride's case, and stoning at the father's door and the city gate.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–3; the righteous justified, the wicked condemned, and the beating capped at forty.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

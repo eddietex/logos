@@ -458,6 +458,16 @@ year"* and *"shall cheer his wife"* (5), the piel *śimmaḥ*, *make glad* (WLC)
 *"commanded"* or *"allowed"*. See [[Divorce, Remarriage, and the Newlywed]], [[A Bill of Divorce - Deuteronomy 24.1-4, Isaiah 50.1, and Jeremiah 3]], and
 [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
 
+### The levirate law — Deuteronomy 25:5–10
+
+When brothers *"dwell together"* and one dies *"and has no son"*, his brother takes the widow, and
+*"the firstborn whom she bears shall succeed in the name of his brother who is dead"* (25:5–6). The
+duty Judah gave Onan in Genesis 38:8 (*yabbēm*, the same verb) is now law. Refusal is allowed but
+public: the widow goes to the elders at the gate, loosens his shoe, spits in his face, and his house is
+called *"The house of him who had his shoe removed"* (7–10). The law gives the widow the standing
+Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is recorded on the
+connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
@@ -685,6 +695,7 @@ year"* and *"shall cheer his wife"* (5), the piel *śimmaḥ*, *make glad* (WLC)
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–17; the captive made a wife after a month, and the loved and hated wives.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, betrothal treated as marriage, and two marriages without divorce.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the bill of divorce, no return after a second marriage, and the newlywed's year.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–10; the levirate law and the ceremony of refusal.
 
 ## Related themes
 

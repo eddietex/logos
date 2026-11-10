@@ -198,6 +198,13 @@ thing*. The same phrase was the *"unclean thing"* that must be covered in the ca
 Deuteronomy *ʿerwâ* occurs only in those two verses (WLC). What it means in a wife the text does not
 say. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuteronomy 23:14; 24:1.
 
+### The wife in the fight — Deuteronomy 25:11–12
+
+A wife who intervenes in a fight and *"takes him by his private parts"* loses her hand: *"Your eye
+shall have no pity"* (25:11–12). The noun, *mǝbūšāyw*, occurs only here in Genesis–Deuteronomy (WLC).
+The law gives no reason, and the wiki does not choose between the readings recorded on the passage
+page. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
@@ -272,6 +279,7 @@ say. See [[Divorce, Remarriage, and the Newlywed]]. Source: stored WEB Deuterono
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:5, 12; men's and women's clothing; fringes on the covering cloak.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:17, 30; the cloth spread before the elders; the father's skirt uncovered.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1; *ʿerwat dābār*, *"some unseemly thing"*.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:11–12; the seized private parts and the hand cut off.
 
 ## Related themes
 

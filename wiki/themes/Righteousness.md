@@ -429,6 +429,13 @@ the whole commandment kept; 9:4–6, three times, the land *not* given *"for you
 33:21 (WLC). 24:13 says it of a single act. How it relates to 9:4–6 the text does not say, and this page
 does not settle it. See [[Pledges, Wages, Justice, and Gleaning]] and [[Not Because of Your Righteousness]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### The judge and the weight — Deuteronomy 25:1, 15
+
+The human judges *"justify the righteous"* (25:1), the hiphil of *ṣādaq* that Yahweh refuses to the
+wicked at Exodus 23:7. The merchant's weight must be *"perfect and just"*, *šǝlēmâ wāṣedeq* (25:15),
+the *ṣedeq* of *"righteous judgment"* in 16:18. A verdict and a stone weight are both called righteous.
+See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
@@ -670,6 +677,7 @@ does not settle it. See [[Pledges, Wages, Justice, and Gleaning]] and [[Not Beca
 - [[The Glory of Kings]] — Proverbs 25:5, 26; The throne established by removing the wicked; the righteous who gives way, a polluted spring.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; *ṣedeq ṣedeq*, justice pursued for life in the land; the bribe that perverts the righteous.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13; the returned pledge, *"righteousness to you before Yahweh"*.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1, 15; the hiphil of *ṣādaq*, and *ṣedeq* for the honest weight.
 
 ## Related themes
 

@@ -11,6 +11,15 @@ status: in-progress
 
 ## Overview
 
+[[Justice, Family Duty, Honest Weights, and Amalek]] (25:1–19) closes the casuistic laws with six cases.
+The judges *"justify the righteous, and condemn the wicked"*, and a beating is *"by number"* and capped
+at forty, *"lest … your brother will be degraded in your sight"*. The threshing ox is not muzzled. A
+brother marries his brother's childless widow *"that his name not be blotted out of Israel"*; if he
+refuses, she loosens his shoe and spits in his face before the elders, and his house is named for it.
+A wife who seizes a man's private parts in a fight loses her hand. One weight and one measure, *"perfect
+and just"*. And *"Remember what Amalek did to you"*, who struck the stragglers *"when you were faint and
+weary"*: *"you shall blot out the memory of Amalek from under the sky. You shall not forget."*
+
 [[Pledges, Wages, Justice, and Gleaning]] (24:6–22) protects what a poor person cannot do without for a
 day. No one takes a household's mill in pledge, *"for he takes a life in pledge"*; a man who steals and
 sells an Israelite brother dies; Israel follows the priests on leprosy and remembers Miriam. The lender
@@ -311,7 +320,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **51 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **52 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -364,7 +373,7 @@ Plan drawn 2026-11-05 from the stored WEB. **51 / 69 pericopes ingested.**
 - [x] [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25
 - [x] [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5
 - [x] [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22
-- [ ] Justice Family Duty Honest Weights and Amalek — Deuteronomy 25:1–19
+- [x] [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19
 - [ ] First Fruits and the Tithe Declaration — Deuteronomy 26:1–15
 - [ ] A People for Yahweh and a God for Israel — Deuteronomy 26:16–19
 - [ ] Stones and an Altar on Mount Ebal — Deuteronomy 27:1–10
@@ -439,7 +448,7 @@ Plan drawn 2026-11-05 from the stored WEB. **51 / 69 pericopes ingested.**
 - [[Sin]]
 - [[Joy and Enjoyment]]
 - [[Work]]
-- [[Theft and Restitution]]
+- [[Names and Naming]]
 
 ## Key people
 - [[God]]
@@ -448,6 +457,7 @@ Plan drawn 2026-11-05 from the stored WEB. **51 / 69 pericopes ingested.**
 - [[Og]]
 - [[Levi]]
 - [[Balaam]]
+- [[Amalek]]
 
 ## Key places
 - [[Moab (place)]]

@@ -873,6 +873,13 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 *We wish that we had died* (2) is answered with *they shall die* (35), and the chapter closes on
 *ḥāyû*, *they lived* (38), of the two men who wanted to go in. See [[The People Refuse the Land]].
 
+### A name instead of a life — Deuteronomy 25:5–6
+
+The levirate law answers a man's death without a son by giving his name a son: *"the firstborn …
+shall succeed in the name of his brother who is dead, that his name not be blotted out of Israel"*
+(25:6). The law does not speak of the dead man himself, only of his name in Israel. See [[Justice, Family Duty, Honest Weights, and Amalek]] and
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"flee … and live"* (5); *"not worthy of death"* (6); *"that he may die"* (12).
@@ -1344,6 +1351,7 @@ See [[The Nazirite Vow]]. Source: stored WEB Numbers 6.
 - [[A Holy People and Its Food]] — Deuteronomy 14:1, 21; mourning marks forbidden, and meat that died of itself.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; justice for life in the land; no death on one witness.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:6–8; long days promised for sparing the mother bird; the railing against a fatal fall.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–6; the dead brother's name continued.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

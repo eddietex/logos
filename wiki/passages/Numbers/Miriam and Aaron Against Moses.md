@@ -135,7 +135,7 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 - Deuteronomy 4:12, 15 — *you saw no form* *(WEB checked, not yet ingested)*
 - [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; *a prophet … like me*
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8–9; *Remember what Yahweh your God did to Miriam*
-- Deuteronomy 25:9 — *and spit in his face* *(WEB and WLC checked, not yet ingested)*
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:9; *and spit in his face*
 - Deuteronomy 34:10 — *whom Yahweh knew face to face* *(WEB checked, not yet ingested)*
 - 2 Kings 5:27 — Gehazi, *a leper, as white as snow* *(WEB and WLC checked, not yet ingested)*
 - 2 Chronicles 26:20 — Uzziah struck in the forehead *(WEB checked, not yet ingested)*

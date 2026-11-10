@@ -13,7 +13,7 @@ tags: [connection]
 
 - **Genesis 38:8–11** — Judah to Onan: *"perform the duty of a husband's brother to her, and raise up
   offspring for your brother"* — [[Judah and Tamar]]
-- **Deuteronomy 25:5–10** — the law, with the refusal ceremony attached
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–10; the law, with the refusal ceremony attached.
 - **Leviticus 18:16; 20:21** — *"you shall not uncover the nakedness of your brother's wife"*, with
   childlessness as the penalty
 - **Ruth 1:11–13; 3:1–13; 4:1–12** — Naomi's argument, the threshing floor, and the redemption at the
@@ -22,6 +22,24 @@ tags: [connection]
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
 
 ## Analysis
+
+### Deuteronomy 25 now ingested
+
+The law's vocabulary is narrow. The verb *yibbēm*, *perform the brother-in-law's duty*, occurs in
+Genesis–Deuteronomy only at Genesis 38:8 and Deuteronomy 25:5, 7; the nouns *yābām* and *yǝbēmet* only
+in Deuteronomy 25:5–9 (WLC lemma search). The condition is stated tightly: *"If brothers dwell
+together, and one of them dies, and has no son"* (5). The purpose is the name: *"that his name not be
+blotted out of Israel"* (6), with the verb of 25:19, *"blot out the memory of Amalek"*. The brother may
+refuse (*lōʾ yaḥpōṣ*, 7); the widow goes to the elders and speaks first; she loosens his shoe and spits
+in his face, and says, *"So shall it be done to the man who does not build up his brother's house"*
+(9). The law does not mention Leviticus 18:16 or 20:21, and the tension recorded below stands.
+
+**A quotation corrected.** This page earlier gave 25:10 as *"sandal removed"* and the table spoke of a
+*sandal*. The WEB has *"shoe"* in Deuteronomy 25:9–10 and Ruth 4:7–8; the Hebrew *naʿal* is the same
+word the WEB renders *"sandal"* at Exodus 3:5. Both are now *shoe*, matching the WEB.
+
+Source: stored WEB Genesis 38:8; Exodus 3:5; Deuteronomy 25:5–10; Ruth 4:7–8 at bible-api.com
+(`translation=web`), 2026-11-09; WLC (morphhb).
 
 ### Leviticus 20 now ingested
 
@@ -53,13 +71,13 @@ chapter is the evidence.
 | the purpose | *"raise up offspring for your brother"* | *"that his name not be blotted out of Israel"* | *"to raise up the name of the dead on his inheritance"* (4:5, 10) |
 | the child's status | counted to the dead brother | *"shall succeed in the name of his brother"* | counted to Mahlon (4:10), though 4:17 calls him Naomi's |
 | land involved | **none mentioned** | none mentioned | **central** — the field must be bought with the widow |
-| refusal | **Onan performs it in form and voids it**; **Judah simply withholds** | a public ceremony: elders, a pulled-off sandal, spitting, and a name of contempt | the nearer redeemer declines **openly, at the gate, with the sandal** |
+| refusal | **Onan performs it in form and voids it**; **Judah simply withholds** | a public ceremony: elders, a pulled-off shoe, spitting, and a name of contempt | the nearer redeemer declines **openly, at the gate, with the shoe** |
 | the widow's remedy | **none** | **she initiates** — *"his brother's wife shall come to him in the presence of the elders"* | Naomi and Ruth engineer it; Boaz completes it |
 | how she gets her son | **deception at a roadside** | **due process** | **negotiation at a threshing floor and a gate** |
 
 **The most important row is the last three.** *Deuteronomy gives the widow standing*: she brings the
 refusing brother before the elders herself, and the penalty is public and permanent — *"his name shall
-be called in Israel, 'The house of him who had his sandal removed.'"* **Ruth 4 shows that machinery
+be called in Israel, 'The house of him who had his shoe removed.'"* **Ruth 4 shows that machinery
 working**, in daylight, with ten elders and a witnessed transfer.
 
 **Genesis 38 is what the same situation looks like with none of it.** [[Tamar]] is sent back to her

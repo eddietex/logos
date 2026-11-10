@@ -43,7 +43,13 @@ priority as decisive.
   met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were
   faint and weary; and he didn't fear God."* Then: *"you shall blot out the memory of Amalek from
   under the sky. You shall not forget."* **The command is to forget them and to remember to**, which
-  is a knot the tradition has never untied.
+  is a knot the tradition has never untied. *"Faint"* in 25:18 is *ʿāyēp*, which in the Torah
+  occurs otherwise only of Esau, *"famished"*, at Genesis 25:29–30 (WLC lemma search): **the
+  grandson's people struck Israel's weary, as the grandfather had come in weary and sold his
+  birthright.** That is a verbal link, not a claim Deuteronomy makes. See
+  [[Justice, Family Duty, Honest Weights, and Amalek]].
+  *(Corrected 2026-11-09: the section below called Amalek Esau's great-grandson and Esau his
+  great-grandfather; Genesis 36:12 makes him Esau's grandson.)*
 - **1 Samuel 15** — Saul is sent to carry it out, spares Agag the king and the best of the livestock,
   and loses the kingdom for it. **The one command Saul is destroyed for disobeying is this one.**
 - **Esther 3:1** — Haman is *the Agagite*, and the book's plot is a last attempt to do to the Jews
@@ -63,8 +69,8 @@ routine entry in a genealogy — **and the genealogy's whole tendency is generou
 line chiefs, kings, and a country without a word of disparagement. See
 [[The Other Line First - The Order of the Toledot in Genesis]].
 
-**And the descent complicates the sentence rather than justifying it.** Amalek is Esau's great-
-grandson, which makes the Amalekites kin — and Deuteronomy 23:7, in the same book that orders their
+**And the descent complicates the sentence rather than justifying it.** Amalek is Esau's grandson
+(Genesis 36:12), which makes the Amalekites kin — and Deuteronomy 23:7, in the same book that orders their
 memory blotted out, says *"You shall not abhor an Edomite, for he is your brother."* **The Torah
 protects the uncle and proscribes the nephew.** Whether the Amalekites were in fact an Edomite
 offshoot is doubtful on other grounds: they range the Negev and Sinai rather than Seir, Genesis 14:7
@@ -82,7 +88,8 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - Listed as *chief Amalek* among the chiefs descended from Eliphaz — Genesis 36:16
 - His people attack Israel at Rephidim, are defeated by Joshua, and are put under permanent war — Exodus 17:8–16,
   [[The Battle with Amalek]]
-- Ordered blotted out for striking the stragglers — Deuteronomy 25:17–19
+- Ordered blotted out for striking the stragglers — Deuteronomy 25:17–19,
+  [[Justice, Family Duty, Honest Weights, and Amalek]]
 - Spared by Saul, at the cost of Saul's kingdom — 1 Samuel 15
 - Haman the Agagite — Esther 3:1
 - The Amalekite is *in the valley*, with the Canaanite — Numbers 14:25,
@@ -107,13 +114,14 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
   South
 - [[The People Refuse the Land]] — Numbers 14:25; in the valley, against 13:29.
 - [[The Defeat at Hormah]] — Numbers 14:43–45; in *that mountain*, against 14:25.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; **the charge and the sentence.** Amalek struck the stragglers *"when you were faint and weary"*, and Israel is to blot out his memory and not forget
 
 ## Related people
 
 - [[Eliphaz (son of Esau)]] — his father, Esau's firstborn
 - [[Timna]] — his mother, a concubine and a Horite woman, sister of Lotan
 - [[Adah (wife of Esau)]] — his grandmother, in whose line he is counted
-- [[Esau]] — his great-grandfather, whose other descendants Israel is forbidden to abhor
+- [[Esau]] — his grandfather, whose other descendants Israel is forbidden to abhor
 - [[Joshua (son of Nun)]] — who defeats his people at Rephidim (Exodus 17:13)
 
 ## Themes associated

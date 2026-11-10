@@ -76,7 +76,8 @@ one with a sword and one with a sacrifice.**
 **Exodus does not say which it means**, and says nothing about the people's origin at all. **Exodus gives no
 reason for the attack**; Deuteronomy supplies one forty years on: *"how he met you by the way, and struck the
 rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn't fear God"*
-(Deuteronomy 25:18; WEB; *not yet ingested*). **That detail — an attack on the stragglers — is not in Exodus**,
+(Deuteronomy 25:18; WEB; now ingested as
+[[Justice, Family Duty, Honest Weights, and Amalek]]). **That detail — an attack on the stragglers — is not in Exodus**,
 which describes a pitched battle with Joshua's chosen men. **The wiki records both accounts and does not
 harmonize them.** See [[Amalek]] and
 [[Amalek - From a Concubine's Son to Israel's First Enemy]].
@@ -260,8 +261,8 @@ own name at the bush**, *"This is my name forever, and this is my memorial (zikr
 dōr)"* (3:15; WLC lemma search, Genesis–Deuteronomy). **God's *zēker* lasts *to all generations*; Amalek's is to
 be blotted out, by a war that lasts *"from generation to generation"* (17:16).** **And the command is written
 down so that the blotting out will be remembered** — the paradox Deuteronomy puts into two clauses: *"you shall
-blot out the memory of Amalek from under the sky. You shall not forget"* (Deuteronomy 25:19; WEB; WLC; *not yet
-ingested*).
+blot out the memory of Amalek from under the sky. You shall not forget"* (Deuteronomy 25:19; WEB; WLC; see
+[[Justice, Family Duty, Honest Weights, and Amalek]]).
 
 **Exodus 17:14 and Deuteronomy 25:19 differ on who blots out.** Here God says ***"I will"*** blot out
 (*ʾemḥeh*, first person); in Deuteronomy Israel is told ***"you shall"*** (*timḥeh*, second person) (WLC). **The
@@ -354,6 +355,8 @@ from the name *Agag*; Esther never mentions Amalek.** All *not yet ingested*. Se
 - [[Signs and Wonders]]
 
 ## Cross-references
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; the reason for the sentence, and the command
+  to remember.
 - Genesis 6:7; 7:4, 23 — the flood, *"I will destroy (ʾemḥeh) man"* — *māḥâ*, the verb of 17:14 —
   [[Blot Out - The Flood, Amalek, and God's Book]]
 - Genesis 14:7 — *"all the country of the Amalekites"* — [[The Rescue of Lot and Melchizedek]]

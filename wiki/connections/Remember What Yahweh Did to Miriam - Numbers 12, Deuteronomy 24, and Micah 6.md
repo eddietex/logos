@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[Miriam and Aaron Against Moses]] — Numbers 12:10–15
 - **Deuteronomy 24:8–9** — *Be careful in the plague of leprosy … Remember what Yahweh your God did to Miriam, by the way as you came out of Egypt.* (WEB) — [[Pledges, Wages, Justice, and Gleaning]]
+- **Deuteronomy 25:17** — *Remember what Amalek did to you by the way as you came out of Egypt* (WEB) —
+  [[Justice, Family Duty, Honest Weights, and Amalek]]
 - **Micah 6:4** — *I sent before you Moses, Aaron, and Miriam.* (WEB) *(not yet ingested)*
 - **Numbers 20:1** — *Miriam died there, and was buried there.* (stored WEB) *(not yet ingested)*
 
@@ -26,7 +28,10 @@ Yahweh your God did to Miriam, by the way as you came out of Egypt"*, and *"Reme
 by the way as you came out of Egypt"*. The infinitive absolute *zākôr* occurs in Deuteronomy only at 7:18,
 24:9, and 25:17 (WLC lemma search). One memory is of what Yahweh did to one of Israel's own leaders; the
 other of what an enemy did to Israel. Whether the parallel is meant to be read, the text does not say. See
-[[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:9; 25:17.
+[[Pledges, Wages, Justice, and Gleaning]] and [[Justice, Family Duty, Honest Weights, and Amalek]]. The same closing words stand at
+23:4 (WLC 23:5), of Ammon and Moab, who *"didn't meet you with bread and with water on the way, when you came
+out of Egypt"*: three wilderness memories in three chapters. Source: stored WEB Deuteronomy 23:4; 24:9;
+25:17.
 
 ## Significance
 

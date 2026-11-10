@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Miriam and Aaron Against Moses]] — Numbers 12:14; *If her father had but spit in her face, shouldn't she be ashamed seven days?*
-- **Deuteronomy 25:9** — *and spit in his face* (WEB) *(not yet ingested)*
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:9; *and spit in his face* (WEB)
 - **Isaiah 50:6** — *I didn't hide my face from shame and spitting.* (WEB) *(not yet ingested)*
 
 ## Analysis
@@ -18,6 +18,12 @@ tags: [connection]
 **Both are public shame, and both are bounded.** In Deuteronomy, a widow spits in the face of the brother-in-law who refuses his duty, in front of the elders. In Numbers, a father spits in a daughter's face as a supposition. Each act names a person as having failed the family. Numbers then limits the shame to seven days, and Deuteronomy's law ends with a name for his house.
 
 **Isaiah's noun.** Isaiah 50:6 uses *rōq*, a different lemma by the tags, beside *kəlimmôt*, *shame*. The noun comes from the same word family as *tikkālēm* at Numbers 12:14. The servant there accepts freely what the verses above impose. The link is one of theme and vocabulary, and no text cites another.
+
+**Deuteronomy 25 now ingested.** The widow acts three times before the elders: she loosens his
+shoe, spits in his face, and pronounces the sentence, *"So shall it be done to the man who does not build
+up his brother's house"* (25:9). His house is then named *"The house of him who had his shoe removed"*
+(10). The shame is not bounded in days, as Miriam's was; it is attached to a name. Source: stored WEB
+Deuteronomy 25:9–10.
 
 ## Significance
 

@@ -15,7 +15,7 @@ tags: [connection]
 
 - [[A False Balance]] — Proverbs 11:1, 3, 20.
 - [[Job's Oath of Innocence]] — Job 31:5–8.
-- Deuteronomy 25:13–16 — WEB verified comparison; not yet ingested.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:13–16.
 - [[The Plans of the Heart]] — Proverbs 16:2, 11.
 - Proverbs 20:10, 23 — now ingested in [[Wine Is a Mocker]].
 - [[Through Wisdom a House Is Built]] — Proverbs 24:12.
@@ -53,6 +53,20 @@ dishonesty.
 Sources: Proverbs 11:1–3, 20; 20:10, 23 and Job 2:3; 31:5–8 checked in stored WEB. Leviticus
 19:35–36 and Deuteronomy 25:13–16 checked through bible-api.com with `translation=web`, 2026-10-25.
 No new Hebrew-equivalence claim is made.
+
+### Deuteronomy 25:13–16 now ingested
+
+Deuteronomy forbids having the second weight at all: *"You shall not have in your bag diverse weights
+… You shall not have in your house diverse measures"* (25:13–14). The Hebrew doubles the noun, *ʾeben
+wāʾāben* and *ʾêpâ wǝʾêpâ*; the doubled *ephah* stands also in Proverbs 20:10, *"Differing weights and
+differing measures"* (WLC). *Kîs*, the *"bag"*, is in Genesis–Deuteronomy only here, and Proverbs 16:11
+has it in *"all the weights in the bag are his work"*. The true weight is *ʾeben šǝlēmâ wāṣedeq*,
+*"perfect and just"*, and the promise is long days in the land (25:15), the promise of the fifth
+commandment. *ʿĀwel*, *"unrighteously"* (25:16), occurs in the Torah only at Leviticus 19:15, 35 and
+Deuteronomy 25:16; 32:4 (WLC lemma search). Micah 6:11 and Amos 8:5 later charge the merchants with
+*"a bag of deceitful weights"* and *"making the ephah small, and the shekel large"* (WEB at
+bible-api.com). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 5:16; 25:13–16; Leviticus
+19:35; Proverbs 16:11; 20:10.
 
 ### The weights are Yahweh's — Proverbs 16:2, 11
 

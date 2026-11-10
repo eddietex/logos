@@ -253,6 +253,14 @@ Abram's charge (17:1) given to the people.
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### Two weights in the bag — Deuteronomy 25:13–16
+
+*"You shall not have in your bag diverse weights … You shall not have in your house diverse
+measures"* (25:13–14). The Hebrew is *ʾeben wāʾāben*, *a stone and a stone*. The law forbids owning the
+second weight, not only using it. The honest weight is *"perfect and just"*, and *"all who do
+unrighteously, are an abomination to Yahweh"* (15–16). See [[Justice, Family Duty, Honest Weights, and Amalek]] and
+[[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.
@@ -381,6 +389,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Do Not Consent to Sinners]] — Proverbs 1:11–12; the innocent victims called *təmîmîm*, *"whole"*
 - [[If You Seek Her as Silver]] — Proverbs 2:7, 21; *tōm* and *tāmîm* given a shield and the land; the tension with Job 1:1 recorded
 - [[A Prophet Like Moses]] — Deuteronomy 18:13; *tāmîm* with Yahweh, against the diviners.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:13–16; one weight and one measure.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

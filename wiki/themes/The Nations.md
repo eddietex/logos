@@ -663,6 +663,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–8; Ammon and Moab excluded, Edom and Egypt
   admitted in the third generation.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; interest permitted from the *nokrî*.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; Amalek's memory to be blotted out from under the sky.
 
 ## Related themes
 

@@ -465,6 +465,13 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 This extends 20:7, which sent the betrothed man home, to the man just married. See [[Divorce, Remarriage, and the Newlywed]] and
 [[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]]. Source: stored WEB Deuteronomy 24:1–5.
 
+### The attack on the rear — Deuteronomy 25:17–19
+
+Exodus 17 says only that Amalek *"fought with Israel"*. Deuteronomy says Amalek *"struck the rearmost
+of you"* (*wayzannēb*, from *zānāb*, *tail*), *"all who were feeble behind you"* (25:18). The verb occurs
+in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits until Yahweh has given
+*"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; conditional dispossession and the dread of Israel on the land (23–25).
@@ -610,6 +617,7 @@ This extends 20:7, which sent the betrothed man home, to the man just married. S
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–14; the captive woman taken in battle, a month's mourning, and no sale.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; the holy war camp.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; the newly married man exempt from the army for a year.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; the stragglers struck, and war against Amalek deferred until rest.
 
 ## Related themes
 

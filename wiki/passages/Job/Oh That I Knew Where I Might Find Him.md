@@ -352,6 +352,7 @@ in effect, without an answer to this chapter.
 
 ## Cross-references
 
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:4; the ox not muzzled.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 compresses oppression into tears and unequal power.
   See [[Power with the Oppressors - Job 24 and Ecclesiastes 4.1]].
 

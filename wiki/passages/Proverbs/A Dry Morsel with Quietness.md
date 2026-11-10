@@ -262,6 +262,7 @@ and [[The Prosperity of the Wicked]].
 
 ## Cross-references
 
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1, 3; the judges' duty and the forty stripes.
 - [[The Wicked Flee When No One Pursues]] — Proverbs 28:13 requires honesty about one’s own sins,
   alongside 17:9’s refusal to repeat another’s offense; 28:21 returns to partiality and the ease of
   corruption.

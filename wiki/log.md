@@ -23844,3 +23844,62 @@ for 1589, 2251, 2254, 5667, 5670, 5953, 6014, 6016, 6231, 6286, 7347, 7393, 7911
 across Deuteronomy for 2142, 2399, 4813, 6041, 6666, and 6883; across Exodus, Leviticus, and Deuteronomy
 for 6041. The Greek of Matthew and James was not checked. Raw files, canonical workflow instructions, and
 controller files were unchanged.
+
+## [2026-11-09] ingest | Deuteronomy 25.1-19 — Justice, Family Duty, Honest Weights, and Amalek
+
+Ingested exactly the planned unit in auto mode, by Claude, keeping its boundary (WEB 25:1–19 = WLC
+25:1–19). Commas were added to the plan's title. Created the passage page and two connections,
+[[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]] and
+[[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Revised 44 existing pages including this
+log. They are: Deuteronomy (box checked, overview, count, Names and Naming added as a key theme, Amalek
+as a key person, and a duplicated Theft and Restitution entry removed) and `wiki/books/index.md`; two
+people (Moses, Amalek) and one place (Egypt); seventeen themes (Judgment, Righteousness, Retribution,
+Brotherhood, Work, Marriage, Names and Naming, Life and Death, Nakedness and Covering, Compassion and
+Mercy, Integrity, Wealth and Possessions, Remembrance, The Fear of God, War, The Nations, Vengeance);
+seven connections (Levirate Marriage, Amalek, Blot Out, A Bribe Blinds, Honest Weights, Spit in Her
+Face, Remember What Yahweh Did to Miriam), each linked and given a section or paragraph; five earlier
+passage pages whose forward references to Deuteronomy 25 now link the new page (Pledges, Wages,
+Justice, and Gleaning; The Battle with Amalek; Miriam and Aaron Against Moses; Oh That I Knew Where I
+Might Find Him; A Dry Morsel with Quietness); the People A-E and F-M subindexes, the places and themes
+indexes, four Connections subindexes, and `wiki/index.md`. Deuteronomy is now 52 / 69. Counts by
+frontmatter type are 377 passages, 257 people, 222 places, 87 themes, and 776 connections.
+
+Corrections made, not contradictions between sources: [[Amalek]] called Amalek Esau's great-grandson
+and Esau his great-grandfather; Genesis 36:12 makes him Esau's grandson, and the page now says so with
+a dated note. [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]] quoted 25:10 as *"sandal
+removed"*; the WEB has *"shoe"*, and the quotation and table now match it.
+
+Recorded, not resolved: why the ox (25:4) stands among laws about persons; what *"dwell together"*
+means; how 25:5 relates to Leviticus 18:16 and 20:21 (already on the levirate connection); why the
+wife's hand is cut off, and whether the penalty was read literally; whether the subject of *"he didn't
+fear God"* (25:18) is Amalek or Israel; how Israel blots out a memory it may not forget; Exodus 17:14's
+*"I will"* against 25:19's *"you shall"* (already on The Battle with Amalek); whether Paul in
+1 Corinthians 9:9 denies that the law concerns oxen or only that it concerns them alone; whether
+1 Timothy 5:18 cites *"The laborer is worthy of his wages"* as Scripture. Offered as readings and
+marked so: the chapter's common concern with who may be degraded; the verbal link between Esau's
+*ʿāyēp* (Genesis 25:29–30) and Amalek's attack on the *ʿāyēp* (25:18).
+
+Judgment calls: no pages for the judges, the beaten man, the brothers, the widow, the elders, the wife
+in the fight, or the merchant; no new place page; [[Onan]] and [[Tamar]] not revised, since they do not
+appear in the passage and their pages already point to the levirate connection. Given from general
+knowledge and marked so where made: threshing by oxen treading the sheaves; thirty-nine strokes as later
+practice (Mishnah *Makkot* 3:10, not checked); the readings of the wife's penalty, including a monetary
+reading; that *mǝbūšîm*, *zānab* outside Joshua 10:19, and *ḥāšal* occur nowhere else in the Hebrew
+Bible; that 25:12 is the Torah's only mutilation penalty; Ruth's use of *yǝbēmet* (1:15) and *bānâ*
+(4:11).
+
+Sources: quotations copied directly from stored WEB Deuteronomy 1:26; 3:18, 20; 4:40; 5:14, 16; 7:16;
+12:10; 13:8; 16:18–20; 17:8; 19:13, 21; 21:14; 22:4; 23:4, 24; 24:9, 15; 25:1–19; 27:6, 16; 29:5;
+Genesis 20:11; 25:29–30; 36:12; 38:8, 26; 44:16; Exodus 1:17; 2:13; 3:5, 15; 17:8–16; 21:22; 22:9;
+23:7, 12; 39:3; Leviticus 19:15, 35–36; 24:10; Numbers 12:14; 24:20; Proverbs 11:1; 16:11; 17:10, 15;
+20:10, 23. Ruth 4:5–12; 1 Samuel 15:2–3, 8–9; Joshua 10:19; Esther 3:1; 1 Chronicles 4:43; Micah
+6:10–11; Amos 8:4–6; Ezekiel 45:10; Hosea 12:7; Isaiah 5:23; 1 Kings 8:32; Matthew 22:23–28; Mark
+12:19; Luke 10:7; John 7:51; Acts 23:3; 1 Corinthians 9:8–11; 1 Timothy 5:17–18; and 2 Corinthians
+11:24 checked at bible-api.com (`translation=web`), 2026-11-09; none of those books was fetched into
+raw/. Hebrew checked against WLC from morphhb (openscriptures, GitHub), retrieved 2026-11-09:
+Deuteronomy 23:5; 24:9, 22; 25:1–19; 26:1; Genesis 25:29. Lemma searches across Genesis–Deuteronomy
+for 14, 68, 374, 705, 1121, 1129, 1758, 2142, 2143, 2179, 2347, 2502, 2629, 2654, 2826, 2992, 2993,
+2994, 3023, 3417, 3599, 3709, 4016, 4229, 4347, 4557, 5117, 5221, 5275, 5327, 5766, 5889, 6002, 6663,
+6664, 7034, 7112, 7136, 7379, 7561, 7794, 7911, and 8003; across Joshua for 2179; across Proverbs for
+374 and 3599. The Greek of the New Testament and the Hebrew of Ruth were not checked. Raw files,
+canonical workflow instructions, and controller files were unchanged.

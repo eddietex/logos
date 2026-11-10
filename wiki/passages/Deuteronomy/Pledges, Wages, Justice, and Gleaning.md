@@ -260,8 +260,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   17.
 - [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]] — 24:6, 10–15, 17.
 - [[The Forgotten Sheaf - Gleaning in Leviticus 19 and 23, Deuteronomy 24, and Ruth 2]] — 24:19–22.
-- Deuteronomy 25:17; 27:19 *(stored, not yet ingested)* — *"Remember what Amalek did to you"*, and the
-  curse on *"he who withholds justice"*.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19; the next pericope, and *"Remember what Amalek did
+  to you"* (25:17).
+- Deuteronomy 27:19 *(stored, not yet ingested)* — the curse on *"he who withholds justice"*.
 - 2 Kings 14:6; Ezekiel 18:20; Jeremiah 22:13; Amos 2:8; Malachi 3:5; Ruth 2:2, 15–16; Matthew 20:8;
   James 5:4 *(not yet ingested; WEB checked at bible-api.com)*.
 

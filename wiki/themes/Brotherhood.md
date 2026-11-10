@@ -321,6 +321,14 @@ brothers"* (18). Every office in the list of 16:18–18:22 is filled from within
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### Your brother, beaten and bereaved — Deuteronomy 25:3–10
+
+The convicted man is *"the wicked"* in 25:2 and *"your brother"* in 25:3, and the cap on his beating
+exists so that he is not *"degraded in your sight"*. Two verses later the levirate law turns on
+*"brothers dwell together"* (5). The brother who refuses to *"build up his brother's house"* is named
+for it at the gate (9–10). One chapter keeps the guilty brother's dignity and shames the brother who
+abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
@@ -442,6 +450,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–4; the brother's straying ox, lost garment, and fallen donkey.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"he is your brother"*.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:19–20; no interest from a brother.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:3–10; *"your brother"* not degraded, and the brother who will not build his brother's house.
 
 ## Related themes
 

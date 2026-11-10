@@ -1158,6 +1158,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 - [[The Law for the King]] — Deuteronomy 17:14–20; no multiplying of horses, silver, or gold for the king (16–17).
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:18–25; tainted money, interest, vows, and the neighbor's crop.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6, 10–13, 17; what a creditor may not take.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:13–16; the merchant's bag and house, and the promise of long days for honest weights.
 
 ## Related themes
 

@@ -235,6 +235,13 @@ land after themselves.
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
+### A name kept and a name given — Deuteronomy 25:6, 10
+
+The levirate son is born *"that his name not be blotted out of Israel"* (25:6), and the brother who
+refuses is given a name instead: *"His name shall be called in Israel, 'The house of him who had his
+shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot out the memory of
+Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
@@ -412,6 +419,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - [[The Seventy Elders and the Quail]] — Numbers 11:34; *the graves of craving*.
 - [[The Twelve Spies]] — Numbers 13:16, 24; Hoshea called Joshua, and a valley named for its cluster
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; towns renamed, and land named after its conquerors (38, 41–42).
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:6, 10; the dead man's name kept, and the refuser's house named.
 
 ## Related themes
 

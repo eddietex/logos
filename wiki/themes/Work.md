@@ -762,6 +762,13 @@ sunset, and extends it to the foreigner *"within your gates"*. The withheld wage
 cry to Yahweh, *"and it be sin to you"*. See [[Pledges, Wages, Justice, and Gleaning]] and
 [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### The threshing ox — Deuteronomy 25:4
+
+*"You shall not muzzle the ox when he treads out the grain."* The animal eats from the work it does,
+as the neighbor eats from the vineyard (23:24) and the hired man is paid the same day (24:15). Paul
+quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timothy 5:18). See [[Justice, Family Duty, Honest Weights, and Amalek]] and
+[[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
@@ -1037,6 +1044,7 @@ cry to Yahweh, *"and it be sin to you"*. See [[Pledges, Wages, Justice, and Glea
 - [[Consecrate the Firstborn of the Herd and Flock]] — Deuteronomy 15:19–23; no work with the firstborn of the herd (19).
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; no work on the seventh day (8); the feasts dated by the harvest (9, 13, 15).
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:14–15; the hired man paid before sunset.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:4; the threshing ox not muzzled.
 
 ## Related themes
 - [[Theft and Restitution]] — Exodus 22:1–15

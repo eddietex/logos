@@ -493,6 +493,13 @@ Yahweh did not send is not.
 
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
+### He did not fear God — Deuteronomy 25:18
+
+Amalek *"struck the rearmost of you, all who were feeble behind you, when you were faint and weary;
+and he didn't fear God"* (25:18). The WEB reads Amalek as the subject; the Hebrew also allows Israel,
+and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or not shows in how the
+weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
@@ -767,6 +774,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king reads *"that he may learn to fear Yahweh his God"* (19).
 - [[A Prophet Like Moses]] — Deuteronomy 18:16, 22; fear of the fire, and *"you shall not be afraid of him"*.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:21; *"All Israel shall hear, and fear"*.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:18; *"he didn't fear God"*, said of the attack on the stragglers.
 
 ## Related themes
 

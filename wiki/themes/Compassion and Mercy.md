@@ -392,6 +392,13 @@ thousands*, while keeping the clause against him. He pleads on *the greatness of
 kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4]] and
 [[The People Refuse the Land]].
 
+### Your eye shall have no pity — Deuteronomy 25:12
+
+The formula that withheld pity from the nations (7:16), the inciter (13:8), the murderer (19:13), and the
+false witness (19:21) is used once more, of a wife who seized a man's private parts (25:12). In the
+same chapter the guilty man's beating is capped so that *"your brother"* is not degraded (3). The
+chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; refuge for the accident (3–5); *"your eye shall not pity him"* (13).
@@ -526,6 +533,7 @@ kindness* (19). See [[Merciful and Gracious - Exodus 34, Numbers 14, and Jonah 4
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the hand opened and the heart not grieved in giving (8, 10).
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:21; *"Your eyes shall not pity"*, said of the false witness.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:4–7; help with a fallen animal, and the mother bird let go.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:3, 12; the beating limited, and *"Your eye shall have no pity"*.
 
 ## Related themes
 

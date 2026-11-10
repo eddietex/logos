@@ -2112,6 +2112,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15–25; the runaway slave, the *qǝdēšâ*, interest, vows, and the neighbor's field.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the bill of divorce, the wife who may not be taken back, and the newlywed's year at home.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22; the speaker, on pledges, wages, the kidnapper, leprosy and Miriam, justice, and gleaning.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19; the speaker, on judges and beatings, the ox, the levirate, the fight, weights, and Amalek.
 
 ## Related people
 

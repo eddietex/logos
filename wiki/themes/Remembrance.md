@@ -616,6 +616,16 @@ refrain twice (18, 22). Between them stands the one sheaf Israel is told to leav
 *šākaḥ*, the verb of Deuteronomy's warnings not to forget Yahweh (6:12). See [[Pledges, Wages, Justice, and Gleaning]] and
 [[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### Remember Amalek, and do not forget — Deuteronomy 25:17–19
+
+*"Remember what Amalek did to you by the way as you came out of Egypt"* (25:17) opens with the same
+Hebrew words as *"Remember what Yahweh your God did to Miriam"* (24:9), *zākôr ʾēt ʾăšer ʿāśâ*. The
+chapter ends with Israel told to *"blot out the memory (zēker) of Amalek from under the sky"* and also
+*"You shall not forget"* (19). What is erased is Amalek's memory under the sky; what is kept is what
+Amalek did. That is the wiki's reading of the knot, not a resolution of it. See [[Justice, Family Duty, Honest Weights, and Amalek]],
+[[Remember What Yahweh Did to Miriam - Numbers 12, Deuteronomy 24, and Micah 6]], and
+[[Amalek - From a Concubine's Son to Israel's First Enemy]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; laid-up words, bound signs, and door-post writing as means of memory (18–20).
@@ -889,6 +899,7 @@ refrain twice (18, 22). Between them stands the one sheaf Israel is told to leav
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; *"that you may remember the day when you came out"* (3); *"remember that you were a slave"* (12).
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:12; the fringes restated without Numbers' reminder clause.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:9, 18–22; Miriam remembered, Egypt remembered, the sheaf forgotten.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; *"Remember … You shall not forget"*.
 
 ## Related themes
 

@@ -19,7 +19,7 @@ tags: [connection]
 - **Numbers 24:20** — Balaam: *"Amalek was the first of the nations, but his latter end shall come to
   destruction"*
 - **Deuteronomy 25:17–19** — *"Remember what Amalek did to you … you shall blot out the memory of
-  Amalek from under the sky. You shall not forget."*
+  Amalek from under the sky. You shall not forget."* — [[Justice, Family Duty, Honest Weights, and Amalek]]
 - **1 Samuel 15** — Saul spares Agag and the best of the livestock, and loses the kingdom
 - **Esther 3:1** — *"Haman the son of Hammedatha the Agagite"*
 - **Deuteronomy 23:7** — *"You shall not abhor an Edomite, for he is your brother"*
@@ -81,6 +81,18 @@ uniqueness was never checked.)* See [[The Fear of God]] and [[Vengeance]].
 You shall not forget."* **Israel is ordered to erase them and ordered to remember to** — which is why
 the passage is read aloud in the synagogue every year on the Sabbath before Purim, and why the
 tradition has never treated Amalek as a closed file.
+
+### Deuteronomy 25 now ingested
+
+The charge has three words found nowhere else in Genesis–Deuteronomy by the WLC tags: *wayzannēb*,
+*struck the rearmost* (from *zānāb*, *tail*; elsewhere at Joshua 10:19, *"attack them from the
+rear"*), *hanneḥĕšālîm*, *the feeble*, and *yāgēaʿ*, *weary*. Its other adjective, *ʿāyēp*, *faint*, is
+used in the Torah otherwise only of Esau coming in *"famished"* (Genesis 25:29–30). The command opens
+with the words of 24:9, *zākôr ʾēt ʾăšer-ʿāśâ*, and waits for *"rest from all your enemies all around"*
+(25:19), the phrase of 12:10. The same chapter uses *māḥâ* for the dead brother's name that must *not*
+be blotted out (25:6). *"He didn't fear God"* is read by the WEB of Amalek; the Hebrew also allows
+Israel as subject, and the passage page records both. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB
+Deuteronomy 12:10; 24:9; 25:6, 17–19; Genesis 25:29–30; Joshua 10:19 at bible-api.com; WLC (morphhb).
 
 ### The thread
 

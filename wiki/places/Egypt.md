@@ -713,6 +713,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4, 7–8; *"when you came out of Egypt"*; the
   Egyptian not abhorred.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:9, 18, 22; *"as you came out of Egypt"*, and *"you were a slave in Egypt"*, twice.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17; *"as you came out of Egypt"*, the phrase of 23:4 and 24:9.
 
 ## Related places
 

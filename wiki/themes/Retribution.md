@@ -636,6 +636,12 @@ passive of judicial execution (WLC): the law binds human courts. 2 Kings 14:6 ci
 this page has recorded it above. See [[Pledges, Wages, Justice, and Gleaning]] and
 [[Visiting the Iniquity of the Fathers - Job 21.19, Jeremiah 31, and Ezekiel 18]]. Source: stored WEB Deuteronomy 24:6–22.
 
+### According to his wickedness, by number — Deuteronomy 25:2–3
+
+The beating is *"according to his wickedness, by number"* (25:2), so the penalty is proportioned to the
+offense. It is also capped, at forty, for the sake of *"your brother"* (3). The law does not let
+proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
+
 ## Key passages
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
@@ -966,6 +972,7 @@ this page has recorded it above. See [[Pledges, Wages, Justice, and Gleaning]] a
 - [[Answer a Fool]] — Proverbs 26:3, 26–27; The rod for the fool's back, hidden hatred exposed, the pit and the stone that return on their makers.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:19, 21; *"as he had thought to do to his brother"*, and *"life for life, eye for eye"*.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:16; every man put to death for his own sin.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:2–3; the penalty counted and capped.
 
 ## Related themes
 

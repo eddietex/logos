@@ -17,8 +17,8 @@ tags: [connection]
   me, him will I blot out of my book"* — [[The Golden Calf]]
 - **Deuteronomy 9:14** — *"Leave me alone, that I may destroy them, and blot out their name from under the sky"*
   *(not yet ingested)*
-- **Deuteronomy 25:19** — *"you shall blot out the memory of Amalek from under the sky. You shall not forget"*
-  *(not yet ingested)*
+- **Deuteronomy 25:6, 19** — *"that his name not be blotted out of Israel"*; *"you shall blot out the memory of
+  Amalek from under the sky. You shall not forget"* — [[Justice, Family Duty, Honest Weights, and Amalek]]
 - **Deuteronomy 29:20** (29:19 Hebrew) — *"all the curse that is written in this book will fall on him, and Yahweh
   will blot out his name from under the sky"* *(not yet ingested)*
 - **Psalm 69:28** (69:29 Hebrew) — *"Let them be blotted out of the book of life, and not be written with the
@@ -81,6 +81,7 @@ Greek not checked) continues the image.
 | Exodus 17:14 | God (*"I will"*) | the memory of Amalek | Moses' memorial *"in a book"* |
 | Exodus 32:32–33 | God | Moses (offered), or *"whoever has sinned"* | *"your book which you have written"* |
 | Deuteronomy 9:14 | God (threatened) | Israel's name | — |
+| Deuteronomy 25:6 | (forbidden) | the dead brother's name | — |
 | Deuteronomy 25:19 | Israel (*"you shall"*) | the memory of Amalek | — |
 | Deuteronomy 29:20 | God | the apostate's name | *"this book"*, the curse written in it |
 | Psalm 69:28 | (prayer) | the psalmist's enemies | *"the book of life"* |
@@ -95,6 +96,15 @@ answer assigns erasure to the sinner (32:33). Romans 9:1–3 offers a thematic c
 expresses willingness to be accursed for his relatives. It is not presented as an explicit
 quotation of Moses. Romans checked in WEB at bible-api.com on 2026-10-24; paraphrase only, no
 Greek claim.
+
+### Deuteronomy 25 now ingested
+
+**One chapter uses *māḥâ* twice, in opposite directions.** The levirate son is born *"that his name not
+be blotted out (yimmāḥeh) of Israel"* (25:6, niphal); thirteen verses later Israel is told *"you shall
+blot out (timḥeh) the memory of Amalek"* (25:19, qal) (WLC). The verb that the law forbids for a
+brother's name, it commands for an enemy's memory. Deuteronomy 25:19 also changes Exodus 17:14's
+*"I will"* to *"you shall"*; that tension is recorded on [[The Battle with Amalek]]. See
+[[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25:6, 19; Exodus 17:14.
 
 ## Significance
 

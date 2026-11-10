@@ -270,6 +270,7 @@ See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 - [[The Field of the Sluggard]] — Proverbs 24:29; The talion refused as a private resolve.
 - [[The Glory of Kings]] — Proverbs 25:21–22; Food for the enemy; Yahweh the one who repays.
 - [[The War Against Midian]] — Numbers 31:1–54; vengeance commanded, *Yahweh's vengeance on Midian*.
+- [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:19; *"you shall blot out the memory of Amalek"*, where Exodus 17:14 had *"I will"*.
 
 ## Related themes
 
