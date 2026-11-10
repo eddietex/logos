@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+Israel is promised elevation in praise, name, and honor above the nations Yahweh has made
+(19). The comparison asserts a distinctive status while recognizing his creation of the other
+peoples. Read with 10:14–17, election and judicial impartiality remain alongside one another;
+this verse offers no permission to treat other peoples unjustly.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### The nokrî and interest — Deuteronomy 23:20
 
 *"You may lend on interest to a foreigner"*. The word is *nokrî* (WLC 23:21, morphhb), the foreigner
@@ -375,6 +384,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; nations greater and mightier than Israel driven out on condition of obedience (23–25).
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.

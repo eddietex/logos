@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+The law code concludes with keeping and doing the statutes wholeheartedly (16). Walking
+in Yahweh’s ways, keeping the commands, and listening to his voice define Israel’s declaration
+(17); keeping the commandments also appears within Yahweh’s declaration (18). Belonging and
+obedience cannot be detached from one another in this conclusion.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### Laws of the road, the roof, and the cloak — Deuteronomy 22:1–12
 
 Ten short laws, most a single verse, about what one comes upon by chance — a stray ox, a lost
@@ -1252,6 +1261,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three more cities if Israel keeps *"all this commandment"* (9).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the law code opens; right in his own eyes vs. right in Yahweh's eyes.

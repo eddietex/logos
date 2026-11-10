@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[A People for Yahweh and a God for Israel]] (26:16–19) closes the law code with reciprocal
+declarations: Israel acknowledges Yahweh and undertakes obedience, and Yahweh declares Israel
+his possession. Wholehearted keeping of the commands accompanies the promise of honor among
+the nations and holiness to him; the earlier promise is reaffirmed.
+
 [[First Fruits and the Tithe Declaration]] (26:1–15) closes the law code with two speeches. Once in the
 land, the farmer brings the first of the ground's fruit in a basket to the chosen place and recites
 over it: *"My father was a Syrian ready to perish. He went down into Egypt"*, the oppression, the cry,
@@ -386,7 +391,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22
 - [x] [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19
 - [x] [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15
-- [ ] A People for Yahweh and a God for Israel — Deuteronomy 26:16–19
+- [x] [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19
 - [ ] Stones and an Altar on Mount Ebal — Deuteronomy 27:1–10
 - [ ] The People Answer Amen to the Curses — Deuteronomy 27:11–26
 - [ ] Blessings for Obedience — Deuteronomy 28:1–14

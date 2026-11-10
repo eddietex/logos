@@ -23957,3 +23957,20 @@ into raw/. Hebrew from WLC (morphhb, openscriptures, GitHub), retrieved 2026-11-
 searches across Genesis–Deuteronomy for 6, 205, 761, 1061, 1197, 2935, 3906, 4172, 4583, 4592, 4643,
 4962, 5046, 5656, 5999, 6031, 6099, 6817, 7186, 7225, 7489, 8259; across Deuteronomy for 1288, 7812,
 8055. Raw files, canonical workflow instructions, and controller files were unchanged.
+
+## [2026-11-10] ingest | Deuteronomy 26.16-19 — A People for Yahweh and a God for Israel
+
+Ingested the next planned unit in auto mode, retaining its four-verse boundary. Created one
+passage page; revised God, Moses, Covenant, Holiness, Call and Election, Law and Obedience,
+and The Nations, with synthesis and passage-list entries. Extended the existing holy-possession
+connection from Exodus 19 and Deuteronomy 7/14 to this conclusion rather than creating a duplicate.
+Updated the book overview and queue (54 / 69), category rows, books index, and dashboard
+(379 passages; other category counts unchanged).
+
+The passage distinguishes reciprocal declarations from equal-party negotiation, and collective
+honor from a guarantee of individual acclaim. Earlier statements of holiness and its prospective
+presentation here are both retained. No new place or individual is named; Moses is the continuing
+speaker and Israel is treated collectively. All quotations and comparisons use stored WEB;
+no unstored-book quotation or source-language assertion was added. Raw sources were unchanged.
+
+Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets.

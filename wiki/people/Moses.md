@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+Moses brings the law code to its conclusion by declaring the reciprocal commitments of
+Israel and Yahweh (16–19). The continuing speech gathers the detailed laws into wholehearted
+obedience and belonging; no fresh journey, ceremony, or spoken response by Israel is narrated.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### Words for the farmer to say — Deuteronomy 26:1–15
 
 Moses gives Israel two speeches to say before Yahweh once in the land: the confession over the
@@ -1762,6 +1770,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the statutes begin; *"that we do here today"* (8).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; he sets the blessing and curse before the people and names Gerizim and Ebal.

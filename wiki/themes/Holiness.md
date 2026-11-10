@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+The promised elevation culminates in being a holy people to Yahweh (19). Deuteronomy 7:6
+and 14:2 already state that Israel is holy; here that identity is also a goal of the promise.
+The difference is retained as given identity and continuing vocation, not silently flattened.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### The word for holy, misused — Deuteronomy 23:17
 
 Three verses after *"your camp shall be holy"* (*qādôš*, 23:14), Deuteronomy forbids the *qǝdēšâ* and
@@ -737,6 +745,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.
 

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+Yahweh commands wholehearted obedience and declares Israel his own possession (16–18).
+He promises honor above the nations he has made and holiness to himself (19). Promise and
+command are held together; belonging does not remove the obligation to listen.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### An abomination, and a promise of long days — Deuteronomy 22:1–12
 
 Yahweh is named twice in the pericope. Men's and women's clothing exchanged is *"an abomination to
@@ -3674,6 +3682,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; chooses the place for his name; the blood is the life.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the words to be laid up and taught; the giver of possession and the one whose commandments decide blessing or curse.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+Yahweh declares Israel his own possession as promised (18), with obedience included in
+the declaration. Honor above the nations is something he will give (19), not a reason supplied
+for his earlier choice. This continues 7:6–8 rather than reversing its rejection of superiority
+as the ground of election.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Following the denial that numerical greatness explains election (7:7–8), this unit denies that Israel’s righteousness explains possession (4–6). The ancestral oath, not superiority, grounds the gift.
@@ -232,6 +241,8 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the place Yahweh will choose (5, 11, 14, 18, 21, 26).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

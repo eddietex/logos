@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Belonging and obedience — Deuteronomy 26:16–19
+
+Israel declares Yahweh its God, while Yahweh declares Israel his own possession (17–18).
+The earlier promise and present duty to keep the commandments belong together. This compact
+conclusion gives the law code a relational frame; it does not narrate a new sacrifice or rite.
+
+See [[A People for Yahweh and a God for Israel]]. Source: stored WEB Deuteronomy 26:16–19.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Replacement tablets contain the former words spoken at the assembly (1–5). The covenant ark
@@ -488,6 +496,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; blessing and curse set before Israel and located on two mountains (26–29).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19.
+
 - [[Israel at Mount Sinai]] — Exodus 19:4–6.
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 - [[A Holy People and Its Food]] — Deuteronomy 14:2, 21.
@@ -39,6 +41,22 @@ face of the earth."* The stored WEB differs only in *"and Yahweh has chosen you"
 on mourning cuts (14:1) and unclean food (14:3–21), and 14:21 states it again. The phrase is *ʿam
 səgullâ* in 14:2 (WLC, morphhb). See [[A Holy People and Its Food]]. Source: stored WEB Deuteronomy
 7:6; 14:1–21.
+
+### The law code closes with belonging — Deuteronomy 26:16–19
+
+[[A People for Yahweh and a God for Israel]] returns to the possession and holiness language after the detailed laws.
+Israel declares Yahweh its God and undertakes obedience (17); Yahweh declares Israel his own
+possession and again includes keeping the commandments (18). The conclusion promises honor
+above the nations he has made and holiness to himself (19).
+
+Exodus 19:5 places obedience in the condition of the promise, Deuteronomy 7:6 and 14:2 affirm
+chosen holy status, and 26:16–19 joins that status to present commitment and promised honor.
+These different emphases remain visible. The final passage neither cancels election nor
+turns it into exemption from obedience. Its reciprocal declarations expand the pattern;
+there is no need to posit a new identity unrelated to the earlier promise.
+
+Source: stored WEB Exodus 19:5–6 and Deuteronomy 7:6–11; 14:2; 26:16–19.
+This comparison concerns the verified English texts, not a source-language identity claim.
 
 ## Significance
 
