@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Moses publicly charges Joshua to go with Israel and cause the people to inherit the sworn land (3, 7–8). Yahweh goes before both people and successor; Joshua’s leadership does not replace divine presence. This encouragement supplies a public address without repeating Numbers 27’s laying on of hands.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Moses’ plea — Deuteronomy 3:23–29
 
 Yahweh commands Moses to commission, encourage, and strengthen Joshua, who will cross before the
@@ -157,6 +163,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 

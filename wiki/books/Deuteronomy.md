@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Be Strong as Joshua Takes the Lead]] (31:1–8) opens the succession instructions. Moses announces his
+limit and exclusion, encourages all Israel, and publicly charges Joshua. The defeat of Sihon
+and Og grounds confidence, while Yahweh’s continuing presence grounds both people and leader.
+
 [[The Word Is Near and the Choice Is Life]] (30:11–20) closes the covenant address in Moab. The
 command is not in heaven or beyond the sea but *very near … in your mouth and in your heart*. Moses
 sets life and death, blessing and curse, before Israel with heaven and earth as witnesses and commands
@@ -434,7 +438,7 @@ Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 - [x] [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29
 - [x] [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10
 - [x] [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20
-- [ ] Be Strong as Joshua Takes the Lead — Deuteronomy 31:1–8
+- [x] [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8
 - [ ] Read the Law to All Israel — Deuteronomy 31:9–13
 - [ ] A Song to Witness Against Israel — Deuteronomy 31:14–23
 - [ ] The Book Beside the Ark — Deuteronomy 31:24–29

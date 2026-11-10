@@ -6,6 +6,7 @@ tags: [connection]
 # See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3
 
 ## Passages involved
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
@@ -27,6 +28,12 @@ Deuteronomy's refused request for personal entry. The different explanations of 
 remain explicit in [[Moses Excluded - Numbers 20 and Deuteronomy 1]].
 
 Source: stored WEB Numbers 27:12–23 and Deuteronomy 3:23–29; paraphrases only.
+
+Deuteronomy 31:1–8 now supplies Moses’ public encouragement of Joshua before all Israel.
+The exclusion from crossing remains, while the successor will bring the people into their
+inheritance. The words about no longer going out and coming in (31:2) recall the leadership
+function sought in Numbers 27:17. Deuteronomy 31 does not repeat the hands or Urim ceremony;
+these distinct accounts should not be made identical. Source: stored WEB of these passages.
 
 ## Significance
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+The defeat of Sihon and Og becomes a precedent for the future (4). Moses gives the whole people the remembered-victory argument previously addressed to Joshua in 3:21–22.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Return begins when Israel *shall call them to mind among all the nations* (1). Memory of blessing and curse in exile is the first step back to Yahweh.
@@ -648,6 +654,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 

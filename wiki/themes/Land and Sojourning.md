@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+The ancestral land oath outlasts Moses’ leadership: Joshua will go with the people and cause them to inherit (7). The gift remains ahead of the assembly, with the Jordan still uncrossed.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Choose life — Deuteronomy 30:11–20
 
 Life is life *in the land* (16, 20); death is not to *prolong your days in the land* across the Jordan (18). The land is the one *Yahweh swore to your fathers* (20).
@@ -764,6 +770,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

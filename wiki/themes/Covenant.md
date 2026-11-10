@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+The land is sworn to the fathers (7), and divine presence grounds courage (6, 8). Tension retained: 31:16–18 threatens forsaking in response to covenant abandonment. The assurance here cannot simply cancel that warning.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Choose life — Deuteronomy 30:11–20
 
 The covenant in Moab closes with an appeal witnessed by heaven and earth (19): life and blessing, or death and curse, grounded in the land sworn to the fathers (20).
@@ -543,6 +549,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

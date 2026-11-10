@@ -6,6 +6,7 @@ tags: [connection]
 # Your Eyes Have Seen - Remembered Victory and Joshua’s Courage
 
 ## Passages involved
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
@@ -32,6 +33,11 @@ battle. Judgment on rebels inside Israel is counted among them, so what was seen
 as well as a reassurance.
 
 Sources: stored WEB Deuteronomy 1:19–33 and 3:1–22. No source-language assertion is made.
+
+Deuteronomy 31:4 explicitly names Sihon and Og as the precedent for the nations ahead.
+The encouragement now reaches all Israel (6) before Moses addresses Joshua publicly (7–8).
+Remembered victory and promised continuing presence support both congregation and successor.
+Source: stored WEB Deuteronomy 31:1–8.
 
 ## Significance
 

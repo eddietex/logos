@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Divine delivery of the nations is joined to the people’s duty to do what Moses has commanded (5). Courage and obedience belong together; the passage does not substitute confidence for commanded action.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Not too hard — Deuteronomy 30:11–20
 
 The command *is not too hard for you or too distant* (11): not in heaven, not beyond the sea, but *very near … in your mouth and in your heart, that you may do it* (14). Doable law is the premise of the choice that follows (15–20). Paul reads the passage of *the word of faith* (Romans 10:6–8).
@@ -1307,6 +1313,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

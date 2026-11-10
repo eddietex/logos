@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Moses may not cross this river (2), while Joshua will lead Israel onward (3). The passage announces the transition; it does not narrate the crossing.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Life on the far side — Deuteronomy 30:11–20
 
 Not prolonging days *in the land where you pass over the Jordan* is the penalty of apostasy (18), echoing 4:26. The verb *ʿābar* (WLC) is the one verse 13 uses for going *over the sea*; the crossing is still ahead.
@@ -205,6 +211,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

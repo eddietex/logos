@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Courage is grounded in Yahweh’s continuing presence rather than in Moses’ continued leadership (6–8). This is a thematic description of trust, not a claim that the WEB uses the noun faith here.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### The word is near — Deuteronomy 30:11–20
 
 The passage does not use the word faith. It is listed because Romans 10:6–8 reads verses 12–14 as *the righteousness which is of faith* and *the word of faith, which we preach*. See [[The Word Is Near You - Deuteronomy 30.11-14 in Romans 10.6-8]].
@@ -299,6 +305,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

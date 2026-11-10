@@ -24200,3 +24200,33 @@ instructions, and controller files unchanged. Agent: Claude (Opus 5.5).
 Validation: scripts/link-check.sh passed, no wrapped or unexpected dangling links, 57 expected
 not-yet-started book pages. Frontmatter totals: 386 passages, 257 people, 224 places, 87 themes,
 786 connections. git diff --check passed. Deuteronomy stands at 61 / 69. No unresolved blocker.
+
+## [2026-11-10] ingest | Deuteronomy 31.1-8 — Be Strong as Joshua Takes the Lead
+
+Ingested exactly one pericope in auto mode: [[Be Strong as Joshua Takes the Lead]]. Retained the
+planned title and boundary. Moses’ public encouragement of Israel and Joshua begins the
+succession instructions; the written law and its reading remain for the next invocation.
+
+Created two pages: the passage and
+[[I Will Not Forsake You - Deuteronomy 31, Joshua 1, and Hebrews 13]]. Revised 28 existing pages:
+five people, three places, seven themes, two connections, the book, nine index/dashboard pages,
+and this log. The two revised connections trace public commissioning and remembered victory.
+Deuteronomy now stands at 62 / 69; counts are 387 passages, 257 people, 224 places, 87 themes,
+and 787 connections.
+
+Judgment calls: Canaan and Moab are contextual locations, explicitly distinguished from names
+in the unit. The fathers remain collective rather than creating appearances for individually
+unnamed ancestors. Faith describes the passage’s call to trust, not a claimed vocabulary item.
+The tension between Moses’ inability in 31:2 and preserved vigor in 34:7 is retained, with the
+leadership idiom of Numbers 27:17 offered as an interpretation. Promised presence in 31:6, 8
+is held beside threatened forsaking in 31:16–18 on the passage, God, Covenant, and connection
+pages. No claim of an exclusive source for Hebrews 13:5 is made.
+
+Sources: passage quotations copied directly from stored WEB Deuteronomy 31:1–8. Contextual
+comparisons use stored WEB Numbers 27:17 and Deuteronomy 31:16–18; 34:7. Joshua 1:5–9 and
+Hebrews 13:5–6 verified through bible-api.com with translation=web on 2026-11-10, without
+adding raw books. No source-language claims added. Raw texts, instructions, and controller
+files unchanged. Agent: OpenAI Codex (GPT-6 Astra).
+
+Validation: scripts/link-check.sh passed both checks, with 57 expected not-yet-started book
+pages; git diff --check passed. No title collision or unresolved blocker.

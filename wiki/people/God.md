@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Yahweh will go before Israel, defeat the nations, and remain with Joshua (3–8). Tension retained: the assurance against forsaking in 31:6, 8 stands beside threatened forsaking after Israel’s apostasy in 31:16–18. Encouragement for entry must not erase the chapter’s covenant warning.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### The word is near and the choice of life — Deuteronomy 30:11–20
 
 Yahweh's command is *not too hard … or too distant* (11); the word is *in your mouth and in your heart* (14). He blesses in the land those who love him and walk in his ways (16), and is himself named Israel's life: *he is your life, and the length of your days* (20).
@@ -3728,6 +3734,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

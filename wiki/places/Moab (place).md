@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+The address continues in the Moab setting established in Deuteronomy 29:1. No new location is named in 31:1–8; Moses’ going in verse 1 supplies no destination.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The covenant is made in Moab in addition to the covenant at Horeb (1). The location distinguishes this assembly without making it a covenant with the Moabites.
@@ -216,6 +222,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

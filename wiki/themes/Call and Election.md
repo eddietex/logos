@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Joshua’s succession is publicly affirmed before all Israel (3, 7–8). The commissioned successor is encouraged for a task grounded in Yahweh’s prior word, not presented as self-appointed.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Israel told to choose — Deuteronomy 30:11–20
 
 Yahweh is the usual chooser in Deuteronomy; here Israel is commanded *choose life* (*ûbāḥartā*, 19). The other non-divine chooser recorded so far is the runaway slave of 23:16.
@@ -255,6 +261,8 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.

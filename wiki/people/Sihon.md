@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+His destruction with Og and their land supplies the explicit precedent for Yahweh’s action against the nations ahead (4). This is recollection, not another battle.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 His defeat alongside Og is recalled as the prelude to the eastern inheritance (7–8). He is identified as king of Heshbon, not a participant in the present assembly.
@@ -69,6 +75,8 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

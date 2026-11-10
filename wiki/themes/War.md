@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+Yahweh promises to destroy the nations as he destroyed Sihon and Og; Israel must act according to the command already given (3–5). The reassurance concerns this entry into the land, not an unrestricted warrant for later wars.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Defeat reverses 28:7, and a distant, unnamed nation besieges trusted walls without sparing old or young (25, 49–57). These are threatened horrors, not commands authorizing siege atrocities.
@@ -486,6 +492,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

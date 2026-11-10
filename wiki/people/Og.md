@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+His destruction alongside Sihon is recalled to encourage the people facing the crossing (4). The defeated kings are both identified as Amorite rulers.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The king of Bashan is recalled with Sihon as defeated before the eastern land was allotted (7–8). No new battle takes place.
@@ -60,6 +66,8 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

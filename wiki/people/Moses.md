@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+At 120, Moses announces that he can no longer go out and come in and recalls Yahweh’s prohibition on crossing the Jordan (2). He publicly encourages Joshua (7–8). His stated inability stands beside 34:7’s report of undiminished sight and strength: the leadership idiom and divine prohibition caution against treating this as a simple diagnosis of bodily decline.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Choose life — Deuteronomy 30:11–20
 
 Moses closes the covenant address in Moab by setting *life and death, the blessing and the curse* before Israel, calling heaven and earth as witnesses as at 4:26, and commanding *choose life* (15–19).
@@ -1816,6 +1822,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

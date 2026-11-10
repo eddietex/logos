@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Courage and succession — Deuteronomy 31:1–8
+
+The land sworn to the fathers is the inheritance Joshua is charged to secure for Israel (7). Canaan is the contextual identification, not a name used in these verses.
+
+See [[Be Strong as Joshua Takes the Lead]]. Source: stored WEB Deuteronomy 31:1–8; Deuteronomy 31:16–18 and 34:7 where compared.
+
 ### Choose life — Deuteronomy 30:11–20
 
 Not named; *the land which Yahweh swore to your fathers* (20) is the promised land in context. Life is to live and multiply there (16); death is not to prolong days there (18).
@@ -411,6 +417,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
