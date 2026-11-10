@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Levi’s blessing unites sacred discernment, teaching, incense, burnt offering, and covenant loyalty
+(8–11); the godly one is not personally named. The tribe and its priestly functions are joined
+without a detailed account of internal offices.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Ark-bearing Levites are entrusted with the book’s deposit (25–26). The functional description connects custody of covenant objects with custody of instruction without specifying internal Levitical divisions.
@@ -717,6 +726,7 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

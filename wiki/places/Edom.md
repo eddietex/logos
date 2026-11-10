@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Seir appears in the description of Yahweh’s rising toward his people (2). The poem does not give a
+travel itinerary or alter the earlier protection of Edomite territory.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The Edomite not abhorred — Deuteronomy 23:7–8
 
 *"You shall not abhor an Edomite; for he is your brother"* (7); his children enter Yahweh's assembly in
@@ -148,6 +156,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

@@ -6,89 +6,60 @@ tags: [connection]
 # Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33
 
 ## Passages involved
-
-- Genesis 49:1–28 — [[Jacob]]'s twelve sayings, the last thing he does before he dies
-- Deuteronomy 33:1–29 — *"the blessing with which Moses the man of God blessed the children of
-  Israel before his death"*
-- Judges 5:14–18 — Deborah's roll-call, a third tribal list and the only one that praises and blames
-  by conduct
-- Genesis 48:5 — the adoption that makes Joseph two tribes, which Deuteronomy 33:17 assumes and
-  Genesis 49:28 does not
+- [[Jacob Blesses His Sons]] — Genesis 49:1–28.
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
+- [[The Golden Calf]] — Exodus 32:26–29, a comparison for Levi’s loyalty above kin.
 
 ## Analysis
 
-**Two long tribal poems, both spoken by a dying man, forty years and a wilderness apart.** Genesis
-49 is the older by setting and probably by composition; Deuteronomy 33 knows it, quotes it in at
-least one place word for word, and disagrees with it in several others. **Set side by side they are
-the Bible's two answers to the same question, and they do not match.**
+Both poems bless the tribes before the speaker’s death. Genesis addresses sons and names
+their futures; Deuteronomy sets tribal sayings within Yahweh’s coming and Israel’s security.
+Their narrative settings are separated by the Egyptian sojourn and the wilderness, not
+merely forty years. Similarity does not establish their dates of composition.
 
-| tribe | Genesis 49 | Deuteronomy 33 |
+| Tribe | Genesis 49 | Deuteronomy 33 |
 |---|---|---|
-| [[Reuben]] | *"you shall not excel"* — the firstborn's rights recited and removed (49:3–4) | *"Let Reuben live, and not die"* — **survival, and nothing else** (33:6) |
-| [[Simeon]] | cursed with Levi; *"scatter them in Israel"* (49:5–7) | **absent — the only son with no saying at all** |
-| [[Levi]] | cursed with Simeon; the sword called a weapon of violence (49:5–7) | **four verses**: Thummim and Urim, the teaching office, the altar (33:8–11) |
-| [[Judah]] | **five verses** — the lion, the scepter, the vine (49:8–12) | **one verse**, and it is a prayer for help against adversaries (33:7) |
-| [[Zebulun]] | a harbour and ships (49:13) | *"Rejoice, Zebulun, in your going out"* (33:18) |
-| [[Issachar]] | a strong donkey under forced labour (49:14–15) | *"and Issachar, in your tents"* — **paired with Zebulun, no reproach** (33:18) |
-| [[Dan (person)]] | **a serpent on the trail** (49:16–17) | **a lion's cub leaping out of Bashan** (33:22) |
-| [[Gad]] | **raided by a troop**, and raids back (49:19) | **a lioness that tears the arm** (33:20) |
-| [[Asher]] | rich food, royal dainties (49:20) | *"let him dip his foot in oil"* (33:24) |
-| [[Naphtali]] | a doe set free (49:21) | *"satisfied with favour"*, possessing west and south (33:23) |
-| [[Joseph]] | **five verses**; the deep beneath, the crown of the head, *separated from his brothers* (49:22–26) | **five verses**, much of the same vocabulary, plus [[Ephraim]] and [[Manasseh]] by name (33:13–17) |
-| [[Benjamin]] | **a ravenous wolf** dividing plunder (49:27) | ***"the beloved of Yahweh"*** dwelling in safety (33:12) |
+| [[Reuben]] | Preeminence forfeited (3–4) | Life and a population not few (6) |
+| [[Simeon]] | Anger condemned with Levi (5–7) | No named saying |
+| [[Levi]] | Cruel anger and dispersal (5–7) | Discernment, loyalty, teaching, altar service (8–11) |
+| [[Judah]] | Lion, rule, abundance (8–12) | Hearing, reunion, help (7) |
+| [[Benjamin]] | Wolf and plunder (27) | Beloved and sheltered (12) |
+| [[Joseph]] | Fruitfulness, endurance, heaven, deep, hills (22–26) | Fertility and strength through Ephraim and Manasseh (13–17) |
+| [[Zebulun]] | Haven and ships (13) | Going out; paired with Issachar (18–19) |
+| [[Issachar]] | Rest and forced labor (14–15) | Tents, rejoicing, shared sacrifice and abundance (18–19) |
+| [[Gad]] | Raids and counterattack (19) | Lioness, portion, action with Israel (20–21) |
+| [[Dan (person)]] | Serpent (16–17) | Lion cub from Bashan (22) |
+| [[Naphtali]] | Doe and fawns in WEB (21) | Favor and possession (23) |
+| [[Asher]] | Rich food (20) | Children, acceptance, oil, security (24–25) |
 
-**Four things in the table are worth stating plainly.**
-
-**1. Levi is the reversal.** **Genesis curses the sword and sentences the tribe to dispersal;
-Deuteronomy grounds the priesthood in the same willingness** — *"who said of his father and of his
-mother, 'I have not seen him'"* (33:9) — **and asks God to bless his substance.** **The dispersal is
-not rescinded; it is re-described as having no inheritance but Yahweh.** Filed at length on
+**Levi presents a moral tension, not a silently erased curse.** Genesis condemns cruel anger;
+Deuteronomy approves covenant loyalty. Exodus 32 narrates obedience against kin followed
+by blessing, a plausible background to Deuteronomy 33:9. The poem does not explicitly
+identify that event or explain the transformation. See
 [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]].
 
-**2. Simeon is gone.** **Deuteronomy 33 gives eleven sayings to twelve sons**, and the missing one is
-the brother who shared Levi's curse and did not share Levi's rehabilitation. **Joshua 19:1, 9 has
-already put his allotment inside [[Judah]]'s.** **The wiki records the omission as the Bible's own
-commentary on Genesis 49:7**, and notes that no text explains it.
+**Simeon’s omission is unexplained.** Reading it as punishment or absorption into Judah is
+an interpretation, not this poem’s stated reason. Ten saying units name eleven of Jacob’s
+sons: Zebulun and Issachar share one, while Ephraim and Manasseh are inside Joseph’s saying.
+See [[The Twelve Sons and the Lists That Reorder Them]].
 
-**3. Benjamin and Dan swap register.** **Genesis's wolf becomes Deuteronomy's beloved; Genesis's
-serpent becomes Deuteronomy's lion.** **And the lion Genesis gave to [[Judah]], Deuteronomy gives to
-[[Gad]] and [[Dan (person)]] and not to Judah at all.** See
-[[The Lion of Judah - Genesis 49.9 and Revelation 5.5]].
+**Joseph supplies the closest verbal correspondence in the stored WEB.** Genesis 49:25–26
+and Deuteronomy 33:13–16 share heaven, deep, hills, and blessing on Joseph’s head.
+That supports a literary comparison; it does not prove a direction of borrowing.
+No exact Hebrew identity or edition-based linguistic conclusion is claimed here.
 
-**4. Joseph's two sayings are verbally dependent.** **Deuteronomy 33:16 ends with *"him who was
-separated from his brothers"* — *nəzîr ʾeḥāyw* — which is Genesis 49:26's last phrase word for
-word**, and **33:13's *deep that couches beneath* is Genesis 49:25's *blessings of the deep that lies
-below*.** **Both poems put the blessing *on the crown of the head* of Joseph.** **This is the
-strongest evidence in either direction that one text knows the other**, and the wiki states it as
-verbal dependence without claiming a direction of borrowing.
-
-**The frames differ as much as the contents.** **Genesis 49 is a father to his sons, in a house in
-Egypt, with no theophany and God named three times.** **Deuteronomy 33 opens with Yahweh coming from
-Sinai and shining from Mount Paran (33:2) and closes with *"there is none like God, Jeshurun"*
-(33:26) — a liturgy with the tribes inside it.** **Genesis 49 predicts; Deuteronomy 33 prays.**
-**Genesis 49 contains a curse; Deuteronomy 33 contains none.**
-
-**And the counting differs.** **Genesis 49:28 calls the twelve sayings *the twelve tribes of
-Israel*, with [[Levi]] in and [[Joseph]] counted once** — **the arrangement Genesis 48:5 had made
-untenable eight verses earlier.** **Deuteronomy 33:17 names *the ten thousands of [[Ephraim]]* and
-*the thousands of [[Manasseh]]* inside Joseph's saying**, which is the adoption taken into account.
-See [[The Twelve Sons and the Lists That Reorder Them]] and
-[[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]].
+**Different images need not be contradictions.** Benjamin can be martial and protected;
+Dan’s serpent and lion can both depict danger. Judah’s prayer does not expressly revoke
+his scepter, nor does Reuben’s survival restore his lost preeminence.
 
 ## Significance
 
-**Judges 5 is the third member of the set and the one that changes the question.** Deborah's song
-goes through the tribes too, **but it grades them on whether they turned up**: Zebulun and Naphtali
-*"jeopardized their lives to the deaths"* (5:18); **Reuben sat among the sheepfolds, Gilead stayed
-beyond the Jordan, Dan stayed in his ships, and Asher sat still at the haven of the sea** (5:15–17).
-**Genesis 49 says what the tribes will be; Deuteronomy 33 asks what they may be given; Judges 5
-reports what they did.**
+The tribal future is portrayed through distinct voices and purposes. Genesis retains
+ancestral wrongdoing within blessing; Deuteronomy foregrounds communal security and each
+tribe’s gifts without explaining every difference. The blessing also stands beside the
+judgment of [[The Song of Moses]], rather than cancelling it.
 
-**The wiki's position is that the three lists are not harmonised in Scripture and should not be
-harmonised here.** **What they share is the assumption that a tribe has a character** — that
-something true of a man in Egypt is still true of forty thousand of his descendants in Canaan —
-**and Genesis 49:1 states the assumption outright**: *"that which will happen to you in the days to
-come."*
-
-See [[Jacob Blesses His Sons]], [[Blessing]], [[Prophecy and Vision]],
-[[In the Days to Come - Aharit Hayyamim from Genesis 49 to the Prophets]] and [[Jacob]].
+Source: stored WEB Genesis 49, Deuteronomy 33, and Exodus 32. This revision corrects the
+earlier forty-year interval, eleven-saying count, claim that Reuben receives only survival,
+and treatment of Simeon’s omission as an explained verdict. Previous claims about Hebrew
+identity and compositional priority have been replaced by the verified English comparison.

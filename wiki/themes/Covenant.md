@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Levi’s keeping of the covenant grounds praise (9). The national blessing follows the warnings of
+breach, preserving both promised care and responsibility.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The song unfolds the breach predicted in 31:16–21: the cared-for people abandon their maker (15–18). The faithful Rock’s justice (4) exposes their corruption (5). The forecast does not withdraw the concluding command to obey and teach children (46–47).
@@ -578,6 +586,7 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

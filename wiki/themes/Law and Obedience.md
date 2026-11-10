@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Law is an inheritance for Jacob’s assembly (4), and Levi teaches it (10). Receiving blessing
+includes receiving instruction rather than freedom from it.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 After the song Moses commands attention, teaching children, and doing all the law (46). The word is Israel’s life and the means of prolonged days in the land (47); memorizing the accusation cannot substitute for obedience.
@@ -1341,6 +1349,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

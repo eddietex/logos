@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+The tribe is beloved and sheltered in safety (12). The wolf image of Genesis 49:27 describes a
+different aspect; protection here does not logically contradict martial strength there. No sanctuary
+location is named.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch.
@@ -174,6 +183,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

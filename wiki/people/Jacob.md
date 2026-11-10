@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Jacob and Israel name the assembled descendants, recipients of law and safety (4, 10, 28–29).
+Jeshurun likewise addresses the people (5, 26), not another person.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Jacob names the collective people who are Yahweh’s inheritance (9), cared for in the wilderness (10–12). This is national personification using the ancestor’s name, not a new episode in the patriarch’s biography. Jeshurun likewise names Israel within the song (15).
@@ -854,6 +862,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

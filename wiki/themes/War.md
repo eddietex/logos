@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Help against adversaries, wild-ox horns, lion imagery, and the expulsion of enemies accompany the
+promise of safety (7, 11, 17, 20–22, 27–29). Protection and violent victory coexist in the blessing.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Yahweh promises to destroy the nations as he destroyed Sihon and Og; Israel must act according to the command already given (3–5). The reassurance concerns this entry into the land, not an unrestricted warrant for later wars.
@@ -492,6 +500,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+The blessing before Moses’ death embraces distinct tribal gifts within Yahweh’s care for Israel
+(1–29). It does not erase the curses of chapter 28 or the predicted betrayal of chapter 32.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Choose life — Deuteronomy 30:11–20
 
 *That Yahweh your God may bless you in the land* (16); *the blessing* is set before Israel with *the curse*, and both are joined to life and death (19).
@@ -524,6 +532,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

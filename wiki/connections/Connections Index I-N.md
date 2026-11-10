@@ -46,7 +46,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] | textual-problem | Genesis 37:25, 27, 28, 36 · Genesis 39:1 · Genesis 16:15 · Genesis 25:1–4, 12–18 · Judges 8:22–24 · Isaiah 60:6 |
 | [[Israel My Firstborn - Exodus 4.22, Hosea 11.1, and Matthew 2.15]] | prophecy → fulfillment | Exodus 4:22–23 · Exodus 11:4–7 · Exodus 12:29; 13:15 · Deuteronomy 14:1; 32:6 · Psalm 89:26–27 · Jeremiah 31:9 · Hosea 11:1–2 · Matthew 2:13–15, 20 · Romans 9:4 · Exodus 12:29, 31 · Luke 2:22–24 |
 | [[Jacob Blessed Pharaoh - The Lesser Blessed by the Greater]] | theological | Genesis 12:2–3 · Genesis 14:18–20 · Genesis 47:7, 10 · Hebrews 7:7 · Exodus 12:32 |
-| [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]] | parallel | Genesis 48:5 · Genesis 49:1–28 · Deuteronomy 33:1–29 · Judges 5:14–18 |
+| [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]] | parallel  Deuteronomy 33 now ingested: ten saying units, unexplained Simeon omission, Levi’s moral tension, and verified WEB parallels. | Genesis 48:5 · Genesis 49:1–28 · Deuteronomy 33:1–29 · Judges 5:14–18  · [[Moses Blesses the Tribes]] |
 | [[Jacob, Jacob - The Doubled Name and Hinneni]] | motif | Genesis 22:11 · Genesis 46:2 · Exodus 3:4 · 1 Samuel 3:10 · Luke 10:41 · Luke 22:31 · Acts 9:4 |
 | [[Jannes and Jambres - The Magicians Who Opposed Moses]] | allusion | Exodus 7:11–12 · Exodus 7:22; 8:7, 18–19; 9:11 · 2 Timothy 3:8–9 |
 | [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · [[First Fruits and the Tithe Declaration]] (Deuteronomy 26:5) · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |

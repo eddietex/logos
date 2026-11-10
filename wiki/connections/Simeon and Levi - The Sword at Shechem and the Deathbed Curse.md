@@ -6,6 +6,7 @@ tags: [connection]
 # Simeon and Levi - The Sword at Shechem and the Deathbed Curse
 
 ## Passages involved
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
@@ -32,6 +33,17 @@ tags: [connection]
   [[The Priests Who Kept Their Land and the Levites Who Got None]]
 
 ## Analysis
+
+### Moses’ blessing now ingested
+
+Deuteronomy 33 is now ingested. Levi’s teaching and altar service receive blessing (8–11),
+whereas Simeon has no saying. **Qualification of the older synthesis below:** omission does
+not establish disappearance or prove that a curse ran its course unmodified. The poem gives
+no reason for Simeon’s absence. Genesis 49:5–7 condemns cruel anger; Deuteronomy approves
+covenant loyalty. The relation to Exodus 32:26–29 is plausible but not explicitly named.
+
+Source: stored WEB Deuteronomy 33, Genesis 49, and Exodus 32.
+
 
 **One act, one curse, and two opposite outcomes from the same sentence.**
 

@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Ephraim’s ten thousands appear with Manasseh’s thousands in Joseph’s wild-ox image (17). These are
+poetic measures of tribal strength, not a new military census.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The borders of the land — Numbers 34:1–29
 
 The tribe is represented by [[Kemuel (son of Shiphtan)]], son of Shiphtan, in the division of Canaan (24). This concerns the patriarch’s descendants.
@@ -137,6 +145,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

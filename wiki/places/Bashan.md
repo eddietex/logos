@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Dan’s lion cub leaps from Bashan (22). The image does not by itself narrate a conquest or identify a
+later city.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Rams of Bashan appear in the catalogue of rich provision (14). The region supplies an image of abundance, not the location of the song’s delivery.
@@ -68,6 +76,7 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

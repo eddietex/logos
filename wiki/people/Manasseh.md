@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Manasseh’s thousands share Joseph’s blessing with Ephraim’s ten thousands (17). The tribe is
+included within Joseph rather than given an independent saying.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The half-tribe of the Manassites shares the eastern inheritance (8). The statement does not assign the whole tribe east of the Jordan.
@@ -185,6 +193,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

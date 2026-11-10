@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Heaven, deep, sun, moon, hills, earth, and dew supply the picture of Joseph’s fertility and Israel’s
+security (13–16, 28). Blessing embraces ordinary provision as well as victory.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Clothing and shoes endure forty years, and life without bread, wine, or strong drink teaches dependence on Yahweh (5–6). The point is sustained provision; the passage does not say Israel ate nothing.
@@ -426,6 +434,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

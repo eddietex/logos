@@ -10,6 +10,10 @@ status: in-progress
 # Deuteronomy
 
 ## Overview
+[[Moses Blesses the Tribes]] (33:1–29) gives Moses’ final tribal blessing, framed by divine coming
+and Israel’s safety. Levi’s service, Joseph’s abundance, and the omission of Simeon sharpen
+the comparison with Genesis 49; the blessing does not revoke Moses’ exclusion or the song’s warnings.
+
 [[Moses Commanded to Ascend Nebo]] (32:48–52) commands the ascent of Nebo, sight of Canaan,
 and death without entry. Meribah’s offense explains the exclusion, while Aaron’s death
 on Mount Hor supplies the precedent. Neither ascent nor death is yet narrated.
@@ -467,7 +471,7 @@ Plan drawn 2026-11-05 from the stored WEB. **67 / 69 pericopes ingested.**
 - [x] [[The Book Beside the Ark]] — Deuteronomy 31:24–29
 - [x] [[The Song of Moses]] — Deuteronomy 31:30–32:47
 - [x] [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52
-- [ ] Moses Blesses the Tribes — Deuteronomy 33:1–29
+- [x] [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29
 - [ ] The Death of Moses — Deuteronomy 34:1–12
 
 ## Key themes

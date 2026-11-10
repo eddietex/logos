@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+The blessing joins agricultural abundance, the favor of the one who lived in the bush, and martial
+strength through Ephraim and Manasseh (13–17). Genesis 49:25–26 supplies closely corresponding
+images of heaven, deep, hills, and blessing on Joseph’s head.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch. Joseph is named as one group here rather than divided into Ephraim and Manasseh.
@@ -454,6 +463,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

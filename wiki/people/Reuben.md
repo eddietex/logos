@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Moses prays for the tribe to live and not become few (6). This differs from the removal of
+preeminence in Genesis 49:3–4 without explicitly reversing that verdict.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The Reubenites receive a share of the defeated kings’ land (8). The reference is to the tribe, not the patriarch personally.
@@ -255,6 +263,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

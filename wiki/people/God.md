@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Yahweh comes in glory, loves his people, gives instruction, and sustains Israel as dwelling place,
+help, shield, and sword (2–5, 26–29). The blessing stands beside, rather than cancels, the judgment
+forecast in chapter 32.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Yahweh commands Moses to ascend, view the land, and die (48–52). His gift of Canaan to Israel
@@ -3765,6 +3774,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

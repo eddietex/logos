@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Moses asks Yahweh to hear Judah, bring him to his people, and help against adversaries (7). Genesis
+49:8–12 emphasizes rule and abundance; this shorter prayer neither repeats nor explicitly revokes
+the scepter promise.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch.
@@ -335,6 +344,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

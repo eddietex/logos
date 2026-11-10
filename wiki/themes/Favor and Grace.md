@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Joseph receives the good will of the one who lived in the bush (16), and Naphtali is satisfied with
+favor (23). Particular gifts occur within the shared national blessing.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Survival after the calf supports the denial that possession proves merit (9:4–6). The people
@@ -247,6 +255,7 @@ are identified on the passage and connection pages.
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

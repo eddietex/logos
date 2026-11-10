@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Land receives dew and fertility; Gad’s portion and Naphtali’s possession sit inside Israel’s
+promised safety (13–16, 21, 23, 28). The poem is not a full boundary survey.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 The land remains Yahweh’s gift to Israel (49, 52), yet Moses is denied entry. The people’s
@@ -792,6 +800,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.

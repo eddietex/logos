@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Gad receives enlargement, lioness imagery, a first portion, and praise for acting with Israel’s
+leaders (20–21). This can be compared with the eastern allotment and obligation to assist the other
+tribes in Numbers 32; the poem does not retell that negotiation.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The Gadites receive a share of the eastern inheritance (8). This recalls the descendants’ allotment rather than the patriarch’s own action.
@@ -153,6 +162,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

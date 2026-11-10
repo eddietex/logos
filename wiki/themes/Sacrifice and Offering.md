@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Levi offers incense and burnt offerings (10); Zebulun and Issachar summon peoples to offer righteous
+sacrifices at an unnamed mountain (19). The poem does not identify that mountain with a particular
+sanctuary.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 At Ebal an altar of uncut stones untouched by iron receives burnt and peace offerings
@@ -739,6 +748,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 

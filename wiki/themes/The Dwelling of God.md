@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+God himself is Israel’s dwelling place, with everlasting arms beneath (27); Benjamin is covered in
+safety (12). Neither image requires a named temple site.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 The book is to be placed beside the covenant ark (26), whereas the tablets are inside it in 10:5. The ark is a locus of preserved testimony against Israel, not a guarantee of immunity from judgment.
@@ -590,6 +598,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

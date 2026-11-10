@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+The blessing associates Levi with Urim and Thummim, testing, covenant loyalty above kinship,
+instruction, incense, and burnt offerings (8–11). Genesis 49:5–7 condemns the brothers’ cruel anger;
+Exodus 32:26–29 connects Levitical obedience against kin with blessing. The moral tension remains;
+Deuteronomy does not explicitly explain that reversal.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 The Levites who carry the covenant ark receive the command to place the law book beside it (25–26). This is a duty of Levi’s descendants, not an action by the patriarch; the passage does not name individual custodians.
@@ -271,6 +281,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

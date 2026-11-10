@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Comparison only: Simeon has no named saying in Deuteronomy 33, unlike Genesis 49:5–7. The omission
+is observable; punishment, absorption into Judah, or disappearance is not explained by this chapter.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch.
@@ -151,6 +159,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29 (comparison: absent).
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

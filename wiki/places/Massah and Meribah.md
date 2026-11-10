@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Massah and the waters of Meribah occur in the blessing of Levi as places of testing and contention
+(8). Unlike 32:51, this verse does not specify Kadesh; it should not be forced into a complete
+reconciliation of Exodus 17 and Numbers 20.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Comparison only: Deuteronomy 32:51 specifies Meribah of Kadesh in Zin, the Numbers 20 site. It does
@@ -76,6 +85,7 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 **Its location is Rephidim's**, and not known. See [[Rephidim]].
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52 (comparison).
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

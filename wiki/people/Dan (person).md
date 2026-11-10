@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Dan is pictured as a lion’s cub leaping from Bashan (22), unlike the serpent of Genesis 49:17. This
+is a tribal image, not a new act of the patriarch or a narrated migration.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Ebal for the curse (13). This concerns the descendants, not the patriarch. The assignment does not pronounce this tribe morally inferior or uniquely cursed.
@@ -164,6 +172,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

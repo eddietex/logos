@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Called the man of God, Moses blesses Israel before his death (1). His exclusion from entry in
+32:48–52 does not remove his role as mediator of blessing; the death itself is still ahead.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Moses is commanded to ascend Mount Nebo in Moab, see Canaan, and die there as Aaron died on Mount
@@ -1859,6 +1867,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

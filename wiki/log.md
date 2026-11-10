@@ -24361,3 +24361,36 @@ changed. Agent: OpenAI Codex (GPT-6 Astra). Frontmatter totals: 392 passages, 25
 225 places, 87 themes, and 792 connections. Both link checks passed with 57 expected
 not-yet-started book targets; no unexpected dangling targets or wrapped links. No execution
 blocker remains; the textual tensions above are explicitly recorded rather than resolved.
+
+## [2026-11-10] ingest | Deuteronomy 33.1-29 — Moses Blesses the Tribes
+
+Ingested exactly one pericope in auto mode; the planned boundary is unchanged.
+Created [[Moses Blesses the Tribes]] from the passage template. Revised Deuteronomy,
+17 person pages (including Simeon as an explicitly absent comparison), five place pages,
+16 theme pages, and three existing connections. Updated ten index/dashboard pages and
+this log: one page created and 53 revised in total. Deuteronomy is now 68 / 69 pericopes,
+still in progress. Counts by frontmatter: 393 passages, 257 people, 225 places, 87 themes,
+792 connections; nine books started, eight complete.
+
+The discussion is retained in the passage: divine coming and law frame differentiated
+tribal gifts, with safety and victory at the close. Tribal names denote descendants;
+Sinai and Seir use existing Horeb and Edom pages. No new entity or connection was needed.
+Simeon's omission is unexplained, and Zebulun/Issachar share a saying: ten saying units
+name eleven sons, with Ephraim and Manasseh within Joseph. Levi's approval beside
+Genesis 49's condemnation remains an explicit moral tension. The blessing does not
+cancel Moses' exclusion or the preceding song's forecast of apostasy.
+
+Revised the Genesis 49 comparison to remove its erroneous forty-year interval,
+eleven-saying count, reduction of Reuben's blessing to survival alone, and unsupported
+compositional and exact-Hebrew claims. Qualified the other two connections' older
+claims that Simeon's absence establishes disappearance or that every list maintains
+twelve units. No source-language edition was consulted; new assertions are confined
+to the stored WEB and explicitly qualified interpretation. Direct quotations were
+copied from raw Deuteronomy; Genesis 49 and Exodus 32 were read for comparison.
+No unstored book was quoted, no raw text changed, and no workflow instructions changed.
+
+Validation: scripts/link-check.sh exited 0, with no wrapped links or unexpected dangling
+targets (57 expected not-yet-started books). Counts were recomputed by frontmatter type;
+the new passage title is unique. git diff --check passed. Unresolved interpretive matters
+include the king in 33:5, Levi's godly one and the precise testing background, and
+unnamed geography; these are stated at the relevant claims rather than silently resolved.

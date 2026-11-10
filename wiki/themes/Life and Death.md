@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+The blessing is explicitly spoken before Moses’ death (1), and begins its tribal sayings with
+Reuben’s life rather than death (6). The leader’s mortality frames hope for the people’s
+continuance.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Moses is told to die on the mountain and be gathered to his people, with Aaron’s death as the
@@ -923,6 +932,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

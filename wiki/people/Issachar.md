@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Issachar rejoices in tents alongside Zebulun’s going out, sharing the invitation to sacrifice and
+the abundance of sea and sand (18–19). The forced labor of Genesis 49:14–15 is not repeated or
+expressly rescinded.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Gerizim to bless the people (12). This is a command for the descendants after the crossing, not an action by the patriarch.
@@ -127,6 +136,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:15 — Issachar marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

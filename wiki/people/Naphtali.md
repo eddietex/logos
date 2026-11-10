@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Naphtali is satisfied with favor and blessing, and commanded to possess west and south in the stored
+WEB (23). These directions alone do not define a complete tribal boundary.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribe bearing this ancestor’s name is assigned to Mount Ebal for the curse (13). This concerns the descendants, not the patriarch. The assignment does not pronounce this tribe morally inferior or uniquely cursed.
@@ -127,6 +135,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:27 — Naphtali marches in Dan's camp, last named. [[The March from Sinai]]
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

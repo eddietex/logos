@@ -6,6 +6,7 @@ tags: [connection]
 # The Twelve Sons and the Lists That Reorder Them
 
 ## Passages involved
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Second Census]] — Numbers 26:28–37, 57–62.
 
@@ -29,6 +30,17 @@ tags: [connection]
   are arithmetic rather than rhetorical
 
 ## Analysis
+
+### Moses’ blessing now ingested
+
+Deuteronomy 33 is now ingested. Ten tribal saying units name eleven sons of Jacob: Simeon
+is absent, Zebulun and Issachar share verses 18–19, and Joseph’s saying includes Ephraim
+and Manasseh (17). **Qualification of the older generalization below:** this poem does not
+maintain twelve separate sayings. Its omission is not explained as punishment, and a
+rhetorical principle of completeness must not override its actual structure.
+
+Source: stored WEB Deuteronomy 33, Genesis 49, and Exodus 32.
+
 
 ### The second census
 

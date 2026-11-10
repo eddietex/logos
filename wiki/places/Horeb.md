@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Sinai appears in Yahweh’s glorious coming (2), linked here under the existing Horeb/Sinai
+convention. This is poetic recollection, not a new camp or an ascent by Moses.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The earlier covenant at Horeb is expressly distinguished from the covenant commanded in Moab (1). The verse does not say the earlier covenant is abolished.
@@ -701,6 +709,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 [[Nadab and Abihu and the Strange Fire]] continues the Sinai setting of Leviticus 7:38. The action is at the sanctuary and outside the camp, not a new ascent of the mountain; Sinai is not named in this unit.
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

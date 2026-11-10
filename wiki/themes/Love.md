@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Divine love for the people frames the reception of words (3), and Benjamin is beloved and protected
+(12). Love is expressed through instruction and shelter.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Choose life — Deuteronomy 30:11–20
 
 *To love Yahweh your God* heads the description of life (16) and the meaning of *choose life* (20), the love that 30:6 says the circumcised heart will make possible.
@@ -583,6 +591,7 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

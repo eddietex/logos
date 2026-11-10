@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Verse 5 speaks of a king in Jeshurun when the tribes gather. The English pronoun alone does not
+settle whether Moses or God is intended; a confident identification requires further argument.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The king whom Israel will appoint shares the people’s deportation (36). Royal office offers no immunity from covenant judgment; neither the king nor the invading empire is named.
@@ -418,6 +426,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Levi’s godly one is proved at Massah and contended with at Meribah (8). This differs in focus from
+Israel testing Yahweh in Exodus 17:7; the verse supplies no detailed reconciliation or personal
+identification.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Yahweh tests Israel to disclose whether it will keep his commandments (2, 16). This divine testing
@@ -171,6 +180,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Moses asks Yahweh to hear Judah, bless Levi’s skills, and accept his work (7, 11). The poem includes
+petitions alongside declarations and commands.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Verse 10 recalls that Yahweh listened to Moses again and would not destroy Israel. No prayer text is
@@ -332,6 +340,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5–15.
 
 ## Key passages
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

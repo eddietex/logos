@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Moses blesses the tribes — Deuteronomy 33:1–29
+
+Mount Paran is named in the radiance of Yahweh’s coming (2). No exact summit or modern
+identification is supplied.
+
+See [[Moses Blesses the Tribes]]. Source: stored WEB Deuteronomy 33:1–29; comparisons as cited.
+
+
 ### Moses’ address in Moab — Deuteronomy 1:1–5
 
 Named among the geographical bearings in the opening frame (1). The verse does not narrate a new
@@ -56,6 +64,7 @@ region of Mecca is late reception built on Genesis 21:21 and is not a reading av
 geography of the Torah, which puts Israel's spies in it.
 
 ## Appears in
+- [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 
