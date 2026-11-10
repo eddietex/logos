@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+The song will survive in descendants' mouths as a witness against Israel (19–21). Retaining a
+text in memory is distinguished from remaining faithful to the God it names: the people may
+preserve the testimony that accuses them.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 The defeat of Sihon and Og becomes a precedent for the future (4). Moses gives the whole people the remembered-victory argument previously addressed to Joshua in 3:21–22.
@@ -660,6 +668,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

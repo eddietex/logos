@@ -24251,3 +24251,30 @@ pages; git diff --check passed. No title collision or unresolved blocker.
 - Deuteronomy now 63 / 69; totals by frontmatter: 388 passages, 257 people, 224 places,
   87 themes, 788 connections. Link checks clean (57 expected not-yet-started book targets);
   no unresolved link or content contradiction introduced.
+
+## [2026-11-10] ingest | Deuteronomy 31.14-23 — A Song to Witness Against Israel
+
+- Ingested [[A Song to Witness Against Israel]], retaining the planned boundary. Moses and
+  Joshua appear at the Tent; the cloud appears, future apostasy is announced, the song is
+  written and taught as enduring testimony, and Joshua receives his commission.
+- Created the passage and
+  [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]].
+  Revised 24 existing content pages: the book, three related passages, four people, two
+  places, twelve themes, and two connections. Revised eight index/dashboard pages and
+  this log: two pages created and 33 revised in total.
+- Preserved the explicit tension between promised presence (31:6, 8, 23) and threatened
+  forsaking after apostasy (31:16–18). Distinguished remembered testimony from obedience,
+  and the song's accusing role from celebration. The commissioning speaker in 23 is
+  identified from the divine land oath and presence promise, with the WEB pronoun noted.
+- Moab and Canaan are contextual locations, Nun is named only as Joshua's father, and
+  unnamed ancestors receive no invented identification. The Tent remains covered by the
+  existing dwelling theme and cloud connection. No new entity or boundary change needed.
+- New quotations copied directly from stored WEB Deuteronomy 31:14–23; the new comparison
+  uses stored WEB Deuteronomy 8 and 31. No new quotation from an unstored book or claim
+  about exact Hebrew/Greek wording was introduced. Existing externally verified material
+  in the assurance connection was retained. Raw texts, instructions, and controller files
+  unchanged. Agent: OpenAI Codex (GPT-6 Astra).
+- Deuteronomy now 64 / 69; frontmatter counts: 389 passages, 257 people, 224 places,
+  87 themes, 789 connections. Both link checks pass, with 57 expected not-yet-started
+  book targets. No title collision, unresolved link, or blocker. Git diff whitespace
+  validation passed.

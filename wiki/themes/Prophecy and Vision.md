@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Yahweh announces apostasy and its consequences before entry, explicitly grounding the warning in
+knowledge of the people's present ways (16–21). This unit predicts betrayal but does not narrate
+a later historical fulfillment.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 The summoned speaker cannot see the angel until Yahweh opens his eyes. The renewed command governs what he may speak (35), linking revelation to dependence rather than to a speaker’s autonomous power.
@@ -188,6 +196,8 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

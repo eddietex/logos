@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Moses' approaching death frames the commission and the provision of enduring testimony (14, 16).
+Sleeping with his fathers names his death in this context; it does not by itself settle a
+doctrine of the intermediate state.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Choose life — Deuteronomy 30:11–20
 
 The theme's clearest statement in the Torah. *Life and prosperity, and death and evil* are set before Israel (15); life is loving, walking, and keeping (16), death is perishing after turning to other gods (17–18). *Therefore choose life, that you may live* (19) shares its purpose clause with the circumcised heart *that you may live* (30:6). And Yahweh is Israel's life: *he is your life, and the length of your days* (20).
@@ -893,6 +901,8 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

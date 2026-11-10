@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Yahweh appears in the cloud, foretells covenant betrayal, and appoints the song as testimony
+(15–21). His threatened forsaking after apostasy (17–18) stands in explicit tension with his
+assurance against forsaking in 31:6, 8; his presence with Joshua is reaffirmed in 23. Neither
+side cancels the other.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Yahweh will go before Israel, defeat the nations, and remain with Joshua (3–8). Tension retained: the assurance against forsaking in 31:6, 8 stands beside threatened forsaking after Israel’s apostasy in 31:16–18. Encouragement for entry must not erase the chapter’s covenant warning.
@@ -3734,6 +3743,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

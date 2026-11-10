@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Eating, fullness, and growing fat in the gifted land precede turning to other gods (20). The
+earlier warning against forgetting the giver in Deuteronomy 8:10–20 becomes a prediction of
+betrayal; prosperity does not ensure loyalty.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The resident foreigner rises and lends while Israel becomes dependent (43–44), reversing 28:12–13. This national sanction does not establish that each poor or indebted person is disobedient.
@@ -855,6 +863,8 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Yahweh appears in a pillar of cloud over the Tent's door (15), yet announces the future hiding
+of his face and Israel's recognition of his absence (17–18). Manifest presence at the
+commissioning is no guarantee against withdrawal after covenant breach.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Yahweh walks in the camp — Deuteronomy 23:14
 
 *"For Yahweh your God walks in the middle of your camp, to deliver you, and to give up your enemies
@@ -575,6 +583,8 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; one chosen place, *"to put his name there"* (5).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

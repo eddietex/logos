@@ -6,6 +6,7 @@ tags: [connection]
 # I Will Not Forsake You - Deuteronomy 31, Joshua 1, and Hebrews 13
 
 ## Passages involved
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - Joshua 1:5–9 — verified WEB; not yet ingested.
 - Hebrews 13:5–6 — verified WEB; not yet ingested.
@@ -33,6 +34,14 @@ the original chapter.
 
 Sources: stored WEB Deuteronomy 31. Joshua 1:5–9 and Hebrews 13:5–6 checked through bible-api.com
 with `translation=web` on 2026-11-10; no new raw book was added.
+
+The now-ingested Deuteronomy 31:14–23 places the warning between the summons to commission
+Joshua and his final charge. Israel forsakes Yahweh (16), and Yahweh threatens to forsake Israel
+and hide his face (17–18); nevertheless, Joshua receives the promise of presence (23). The
+tension is internal to the chapter, not merely a difference between earlier and later biblical
+books.
+
+Source for this addition: stored WEB Deuteronomy 31:14–23.
 
 ## Significance
 

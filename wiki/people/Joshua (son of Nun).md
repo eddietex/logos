@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Joshua accompanies Moses to the Tent for commissioning (14). The closing charge promises that he
+will bring Israel into the sworn land and that God will be with him (23). The WEB's pronoun He
+is clarified by the divine first-person land oath and presence promise, though the narrator does
+not repeat Yahweh's name in that verse.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Moses publicly charges Joshua to go with Israel and cause the people to inherit the sworn land (3, 7–8). Yahweh goes before both people and successor; Joshua’s leadership does not replace divine presence. This encouragement supplies a public address without repeating Numbers 27’s laying on of hands.
@@ -163,6 +172,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

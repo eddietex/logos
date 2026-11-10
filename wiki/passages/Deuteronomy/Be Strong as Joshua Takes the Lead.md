@@ -67,6 +67,9 @@ Stored WEB, Deuteronomy 31:1–8, quoted verbatim.
 - [[Remembrance]]
 
 ## Cross-references
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.
+- [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]] — memory, prosperity, and covenant betrayal.
 - [[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]] — Numbers 27 and Deuteronomy 3 alongside the public encouragement here.
 - [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]] — remembered victories ground courage.
 - [[I Will Not Forsake You - Deuteronomy 31, Joshua 1, and Hebrews 13]] — continuing presence, renewed commission, and later use in Hebrews.

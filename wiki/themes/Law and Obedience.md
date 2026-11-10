@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Beside the public reading commanded in 31:9–13, the song must be written, taught, and placed in
+Israel's mouths (19, 22). Instruction can survive its teacher and expose disobedience, without
+guaranteeing that its hearers obey.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Divine delivery of the nations is joined to the people’s duty to do what Moses has commanded (5). Courage and obedience belong together; the passage does not substitute confidence for commanded action.
@@ -1319,6 +1327,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

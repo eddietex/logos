@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Israel will forsake Yahweh and break his covenant after entering the land (16, 20). Divine
+forsaking in response (17–18) remains in explicit tension with the assurance of 31:6, 8, while
+Joshua again receives promised presence (23). The song preserves testimony against covenant
+breach.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 The land is sworn to the fathers (7), and divine presence grounds courage (6, 8). Tension retained: 31:16–18 threatens forsaking in response to covenant abandonment. The assurance here cannot simply cancel that warning.
@@ -555,6 +564,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

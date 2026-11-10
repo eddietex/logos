@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+The meeting at the Tent occurs within Deuteronomy's Moab setting (29:1); 31:14–23 gives no new
+geographical name or precise site. The fertile land of the warning still lies ahead.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The writing and command continue Moses’ address in the Moab setting of Deuteronomy 29:1. Moab is not named in 31:9–13; the future reading is assigned to the chosen place across the Jordan.
@@ -228,6 +235,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

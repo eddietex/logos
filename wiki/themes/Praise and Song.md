@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Song here serves as a witness against the people (19–21). This broadens the theme beyond
+celebration: a taught and remembered song can expose covenant betrayal. Moses writes and teaches
+it in 22; its words are reserved for the following song unit.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### The journey to Moab — Numbers 21:10–20
 
 Israel sings to the well and celebrates the princes’ digging (17–18). Unlike the Song of the Sea,
@@ -148,6 +156,8 @@ Numbers 10 has no song, only a signal over the offerings. Chronicles and Ezra ke
 See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Future worship of other gods is described as prostitution, abandonment, and covenant breach (16,
+20). The metaphor concerns Israel's religious allegiance; these verses do not narrate a
+particular sexual act.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Choose life — Deuteronomy 30:11–20
 
 The way to death is a heart that turns away and is *drawn away* to *worship other gods, and serve them* (17), the phrase of 4:19. The verb (*nāḏaḥ*, WLC) is the one 30:1 and 30:4 use of Israel *driven* among the nations.
@@ -427,6 +435,8 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

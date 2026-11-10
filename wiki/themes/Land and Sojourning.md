@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Entry into the sworn land is assured to Joshua (23), while the people's coming betrayal in that
+same fertile land is foretold (16, 20). Receiving the inheritance and maintaining covenant
+loyalty are distinguished.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 The ancestral land oath outlasts Moses’ leadership: Joshua will go with the people and cause them to inherit (7). The gift remains ahead of the assembly, with the Jordan still uncrossed.
@@ -776,6 +784,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

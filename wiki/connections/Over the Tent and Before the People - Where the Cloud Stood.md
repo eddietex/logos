@@ -6,6 +6,7 @@ tags: [connection]
 # Over the Tent and Before the People - Where the Cloud Stood
 
 ## Passages involved
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; on the tabernacle, and rising to signal departure
 - [[The Crossing of the Sea]] — Exodus 13:21–22; 14:19–20; a pillar going before, then behind
@@ -50,6 +51,13 @@ didn't travel until Miriam was brought in again* (12:15). The verb at 12:10 is *
 (WLC), so this may be a different event from the signal. The chapter makes no comment.
 
 **Numbers 12 now ingested.** The people's waiting is explained by Miriam's seven days and not by the cloud, and the text does not say when the cloud returned. See [[Miriam and Aaron Against Moses]].
+
+Deuteronomy 31:15 locates the pillar of cloud over the Tent's door during the commissioning
+encounter. This is a stationary appearance, not a report of marching order. It adds to the
+door-of-the-Tent accounts without resolving the differing descriptions of the cloud during
+travel.
+
+Source for this addition: stored WEB Deuteronomy 31:14–23.
 
 ## Significance
 

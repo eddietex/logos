@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Moses is told that his death approaches, presents himself with Joshua at the Tent, and writes
+and teaches the song that same day (14, 22). His impending absence is met with both a successor
+and testimony preserved in the people's mouths.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 Moses writes the law and entrusts it to the Levitical priests and all Israel’s elders (9). He commands its recurring public reading (10–13), providing for instruction beyond his own lifetime. The extent of “this law” is not specified in these verses.
@@ -1828,6 +1836,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

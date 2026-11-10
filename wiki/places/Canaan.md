@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+The promised land is described as flowing with milk and honey (20), and as containing the
+strange gods Israel will pursue (16). Canaan is the contextual identification, not a name
+supplied in this unit. Fertility becomes the setting of covenant betrayal, without negating the
+land oath.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The land beyond the Jordan is the setting for continuing instruction of children (13). Canaan is the contextual identification, not a name supplied here; the chosen place of the reading is also unnamed (11).
@@ -423,6 +432,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

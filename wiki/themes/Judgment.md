@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+The evils and troubles follow Israel's abandonment of Yahweh (16–18). The song will testify when
+those troubles come (21), supplying their covenant explanation in advance rather than making
+suffering itself sufficient proof of any individual's guilt.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 An individual apostate’s erased name and a land made barren stand together (20–28). Sodom’s overthrow becomes the explicit analogy for Israel’s possible fate, explained to future generations as covenant breach.
@@ -962,6 +970,8 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

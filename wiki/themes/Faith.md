@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Joshua is commanded to be strong and courageous because God will be with him as he brings Israel
+into the land (23). Trust describes the response invited by the promise, not a vocabulary item
+asserted to occur here.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Courage is grounded in Yahweh’s continuing presence rather than in Moses’ continued leadership (6–8). This is a thematic description of trust, not a claim that the WEB uses the noun faith here.
@@ -305,6 +313,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

@@ -101,6 +101,9 @@ Complete unit, copied from stored WEB:
 - [[The Nations]]
 
 ## Cross-references
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.
+- [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]] — memory, prosperity, and covenant betrayal.
 - [[Not by Bread Only - Deuteronomy 8 and Matthew 4]]
 - [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]]
 - [[The Rod of Discipline - Proverbs 13.24 and the Father's Correction]]

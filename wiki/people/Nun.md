@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The song as witness — Deuteronomy 31:14–23
+
+Nun is named as Joshua's father in the commissioning notice (23). No action or attendance is
+attributed to Nun.
+
+See [[A Song to Witness Against Israel]]. Source: stored WEB Deuteronomy 31:14–23.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Named as Joshua’s father (38); no action or presence is attributed to him.
@@ -43,6 +50,8 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

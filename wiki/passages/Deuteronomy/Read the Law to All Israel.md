@@ -59,6 +59,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.
+- [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]] — memory, prosperity, and covenant betrayal.
+
 - [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]] — Moses’ reading at Sinai, Horeb’s teaching purpose,
   household instruction, and the king’s daily reading illuminate this communal provision.
 - [[The Seventh-Year Release - Exodus 23, Leviticus 25, and Deuteronomy 15]] — the release year supplies the calendar.
