@@ -7,7 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
-- [[Blessings for Obedience]] — Leviticus 26:4–6, 13; the conditional blessings of Sinai.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:4–6, 13; the conditional blessings of Sinai.
 - **Ezekiel 34:25–28** — *"I will make with them a covenant of peace, and will cause evil animals to
   cease out of the land"*; *"The tree of the field will yield its fruit, and the earth will yield its
   increase"*; *"when I have broken the bars of their yoke, and have delivered them out of the hand of

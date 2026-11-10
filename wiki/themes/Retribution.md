@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+The conditional benefits address Israel’s common life in the land (1–14). They stand in tension with attempts to turn prosperity into a universal test of personal righteousness: Job 1:1 and 2:3 affirm Job’s integrity amid loss. Both witnesses remain; this covenant address supplies no warrant to infer an individual sufferer’s guilt.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### As he had thought to do — Deuteronomy 19:19–21
 
 The false witness is paid by intention, not outcome: *"you shall do to him as he had thought to do to
@@ -29,7 +35,7 @@ Outcomes follow conduct, but the *you* throughout is plural and the goods are co
 unit is a covenant promise to a people, which Job's friends apply to one man. It states a
 sanction and does not address the case of an innocent sufferer.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### The blasphemer and one law — Leviticus 24:10–23
 
@@ -644,9 +650,11 @@ proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and A
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Blasphemer and One Law for All]] — Leviticus 24:10–23.
 

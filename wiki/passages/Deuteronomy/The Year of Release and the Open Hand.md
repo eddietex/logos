@@ -77,6 +77,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Lend and Not Borrow - Deuteronomy 15 and 28]] — the national promise repeated.
+
 - [[Justice, Sabbaths, and Feasts]] — Exodus 23:10–11; the seventh year the land is left to *"rest
   and lie fallow, that the poor of your people may eat"*. The same verb, *šāmaṭ*, is used there of
   the land and here of debts. See

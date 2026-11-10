@@ -6,11 +6,13 @@ tags: [connection]
 # Watered with Your Foot - Egypt and the Land That Drinks the Rain
 
 ## Passages involved
+
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:9–17.
 - [[Abram and Lot Separate]] — Genesis 13:10.
 - [[The Rebellion of Korah]] — Numbers 16:12–14.
 - **Leviticus 26:4, 19** — rain in season, and a sky like iron.
-- **Deuteronomy 28:12, 23–24** — verified in the stored WEB; not yet ingested.
+- **Deuteronomy 28:12, 23–24** — verified in the stored WEB; 28:12 now ingested, 23–24 still ahead.
 
 ## Analysis
 
@@ -34,12 +36,18 @@ The conditional rain has a history in the stored text. Leviticus 26:4 promises "
 their season" for obedience, and 26:19 threatens a sky "like iron". Deuteronomy 11:14, 17 gives
 the same pair as the early and late rain and a shut sky. Deuteronomy 28:12 and 23–24 expand
 both sides: Yahweh's "good treasure in the sky" for blessing, and a sky of brass and rain of
-"powder and dust" for curse. That chapter has not yet been ingested. Later narratives of
+"powder and dust" for curse. Its blessing section (28:1–14) is now ingested; the curses remain ahead. Later narratives of
 withheld rain, such as Elijah's drought in 1 Kings 17–18, are named here only by reference.
 They are not quoted, because those books are not yet stored.
 
 Sources: stored WEB Deuteronomy 11:6–17, 28:12, 23–24; Genesis 13:10; Numbers 16:12–14;
 Leviticus 26:4, 19. No source-language claim is made.
+
+### Blessings now ingested — Deuteronomy 28:1–14
+
+Verse 12 now brings the earlier rain promise into the blessing list: Yahweh opens his good treasure in the sky, gives seasonal rain, and blesses work. Deuteronomy 28:23–24 remains the un-ingested curse counterpart; its text is available in the stored WEB.
+
+Source: stored WEB Deuteronomy 28:1–14 and the comparison verses cited above.
 
 ## Significance
 

@@ -220,7 +220,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   blessing.
 - [[Edom Refuses Passage]] — Numbers 20:14–21; the brother who refused.
 - [[The Fall]] — Genesis 3:8; Yahweh God *"walking in the garden"*.
-- [[Blessings for Obedience]] — Leviticus 26:12; *"I will walk among you"*.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:12; *"I will walk among you"*.
 - [[Bodily Discharges and Cleansing]] — Leviticus 15:16; the emission of semen.
 - [[The Holiness of the Priests]] — Leviticus 21:20–23; the priest *"who has damaged testicles"*.
 - [[The Unclean Sent Out and Wrongs Repaid]] — Numbers 5:1–4; the unclean put outside the camp.

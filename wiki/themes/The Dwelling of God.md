@@ -84,7 +84,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 promise concerns residence continuing rather than a first arrival. It is the last gift in the list,
 before the identification in verse 13.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Priestly holiness — Leviticus 21
 
@@ -251,7 +251,7 @@ hiphil of *šākan*; MAM) to guard Eden (Genesis 3:24). See [[Cherubim]].
 
 **Ahead** (by reference, *not yet ingested*; quoted from the WEB as fetched individually):
 
-- Leviticus 26:11–12 — now ingested at [[Blessings for Obedience]]: *"I will set my tent among you …
+- Leviticus 26:11–12 — now ingested at [[Blessings for Obedience (Leviticus)]]: *"I will set my tent among you …
   I will walk among you, and will be your God, and you will be my people"*; the Hebrew of 26:11 has
   *miškānî*, *my dwelling* (MAM).
 - 1 Kings 8:10–11, 27 — the cloud fills Solomon's temple, and Solomon asks, *"will God in very deed
@@ -599,7 +599,7 @@ by side and does not reconcile them. See [[First Fruits and the Tithe Declaratio
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Lamps and the Bread Before Yahweh]] — Leviticus 24:1–9; lamps and weekly holy bread.
 

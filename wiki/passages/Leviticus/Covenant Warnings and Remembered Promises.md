@@ -146,7 +146,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:25–31: images, scattering among the peoples, then seeking, return, and a God who will not forget the covenant.
 - [[Vows, Valuations, and Devoted Things]] — 27:34, the book's second colophon.
-- [[Blessings for Obedience]] — the first half of the same speech, reversed here item by item.
+- [[Blessings for Obedience (Leviticus)]] — the first half of the same speech, reversed here item by item.
 - [[The Sabbatical Year and the Jubilee]] — the land Sabbaths of 25:1–7, which 26:34–35 collects.
 - [[Forbidden Unions and the Defiled Land]] — 18:25–28, the land vomiting out its inhabitants, the
   chapter's nearest earlier warning of expulsion.
@@ -288,7 +288,7 @@ the text does not say who humbles it. Compare the command of Deuteronomy 10:16 a
    in the plural, of high places, and of a detailed exile. The text gives no date beyond that frame.
    Readers ancient and modern have taken it as prediction or as later reflection on the exile; the
    wiki records the frame the text gives and does not settle that question.
-4. **The collective again.** As at [[Blessings for Obedience]], the *you* is the people. Job and
+4. **The collective again.** As at [[Blessings for Obedience (Leviticus)]], the *you* is the people. Job and
    Ecclesiastes stop this being read as a rule that an individual's disaster shows his guilt.
 
 **High places.** The nouns of verse 30, *bāmôt*, *ḥammānîm*, and *gillûlîm*, recur in the oracle of

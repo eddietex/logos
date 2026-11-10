@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Blessing reaches city and field, children, crops, animals, food preparation, and coming and going (3–6). The repeated condition of obedience frames these comprehensive promises (1–2, 13–14).
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Six tribes stand on Gerizim to bless the people (12), but this unit supplies only curse formulas (15–26). The assignment to bless must not be mistaken for a written series of matching blessings.
@@ -170,7 +176,7 @@ Leviticus's fullest statement of blessing never uses *bārak*. The goods themsel
 word: rain, harvest, bread, peace, increase, covenant, and presence. Here blessing has a stated
 condition (3), unlike the unconditioned word of Genesis 1. Compare Exodus 23:25–26.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Land rest and Jubilee — Leviticus 25:1–22
 
@@ -500,6 +506,8 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -524,7 +532,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

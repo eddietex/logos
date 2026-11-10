@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Enemies attack in one direction and flee in seven (7). Yahweh is credited with their defeat; no particular campaign is narrated, and no additional war command is given.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The camp against your enemies — Deuteronomy 23:9–14
 
 *"When you go out and camp against your enemies, then you shall keep yourselves from every evil thing"*
@@ -245,7 +251,7 @@ Peace and the sword stand side by side: no sword through the land (6), enemies f
 (7–8). Five chasing a hundred gives no credit to skill. See
 [[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]].
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 - **The one war in Genesis Abram fights is a rescue, and he keeps nothing from it.** No territory,
   no plunder, no captives, no vassals. Set against the imperial reprisal that opens the chapter —
@@ -474,6 +480,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; conditional dispossession and the dread of Israel on the land (23–25).
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
@@ -517,7 +525,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[You Are All Beautiful]] — Song of Solomon 4:4; the neck as a tower hung with the shields of mighty men.
 

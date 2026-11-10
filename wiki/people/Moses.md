@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Moses continues the covenant address, placing blessing under the condition of listening and doing (1–2, 13–14). He announces promises rather than narrating their fulfillment.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Moses commands the tribal arrangement and responsive curses on the same day (11). He prescribes future words and positions rather than reporting a completed ceremony.
@@ -685,7 +691,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 The promises continue the Sinai address given through Moses (25:1; 26:46). He is not named within
 26:1–13 and has no speaking part.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -1786,6 +1792,8 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -1892,7 +1900,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

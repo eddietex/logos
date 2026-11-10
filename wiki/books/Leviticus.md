@@ -188,7 +188,7 @@ are Yahweh's servants, and in the same breath permits foreign slaves forever.
 a land that collects its Sabbaths. After the worst, Yahweh still remembers the covenant and the land
 and refuses to reject Israel. Verse 46 closes the Sinai laws.
 
-[[Blessings for Obedience]] (26:1–13) heads the book's closing sanctions with idols and Sabbaths, then
+[[Blessings for Obedience (Leviticus)]] (26:1–13) heads the book's closing sanctions with idols and Sabbaths, then
 promises rain, peace, victory, increase, and Yahweh's walking among his people, under one condition.
 The speaker closes as the God who broke Israel's yoke.
 
@@ -253,7 +253,7 @@ merge, or reorder them freely.
 - [x] [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22
 - [x] [[Redemption of Land and Houses]] — Leviticus 25:23–34
 - [x] [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55
-- [x] [[Blessings for Obedience]] — Leviticus 26:1–13
+- [x] [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13
 - [x] [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46
 - [x] [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34
 

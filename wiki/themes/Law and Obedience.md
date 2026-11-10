@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Listening must become keeping and doing (1, 9, 13). The closing prohibition against turning right or left explicitly concerns going after other gods (14).
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The final curse concerns upholding the law by doing it (26). Recitation and assent do not replace conduct. The preceding eleven cases exemplify rather than exhaust the obligation.
@@ -250,7 +256,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 One condition carries the whole list: *If you walk in my statutes, and keep my commandments, and do
 them* (3). Obedience is presented as a path walked, with the people's first-person God as its goal.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### The blasphemer and one law — Leviticus 24:10–23
 
@@ -1277,6 +1283,8 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -1363,7 +1371,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

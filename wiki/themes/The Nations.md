@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Israel is promised elevation, recognition as bearing Yahweh’s name, and freedom from dependence on foreign lenders (1, 10, 12–13). The fear of other peoples is a promised consequence, not an instruction to exploit them.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 Israel is promised elevation in praise, name, and honor above the nations Yahweh has made
@@ -384,6 +390,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

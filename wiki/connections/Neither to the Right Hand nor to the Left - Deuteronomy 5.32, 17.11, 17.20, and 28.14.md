@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People's Request for a Mediator]] — Deuteronomy 5:32: *"You shall not turn away to the
   right hand or to the left."*
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:11: *"You shall not turn away from the
   sentence which they shall show you, to the right hand, nor to the left."*
 - [[The Law for the King]] — Deuteronomy 17:20: *"that he not turn away from the commandment, to the
   right hand, or to the left"*.
-- Deuteronomy 28:14 *(not yet ingested)* — *"and shall not turn away from any of the words which I
+- Deuteronomy 28:14 *(now ingested)* — *"and shall not turn away from any of the words which I
   command you today, to the right hand, or to the left, to go after other gods to serve them."*
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:27; and [[Edom Refuses Passage]], Numbers 20:17:
   the literal road, *"I will turn neither to the right hand nor to the left"*.
@@ -50,6 +52,12 @@ is not about precision for its own sake; leaving it means leaving Yahweh.
 **After Moses.** Joshua 1:7 gives the command to Moses' successor with the law as the road, and ties
 it to success, as 17:20 ties it to a long reign. Proverbs 4:27 uses it as wisdom's counsel to a son.
 Neither is claimed as a quotation of Deuteronomy; the image is common.
+
+### Blessings now ingested — Deuteronomy 28:1–14
+
+The now-ingested blessing section ends with the same directional warning (14). Its function here is to retain exclusive allegiance within the promises of prosperity and national standing; no amount of abundance makes departure to other gods permissible. This addition compares the stored WEB, without adding a source-language claim.
+
+Source: stored WEB Deuteronomy 28:1–14 and the comparison verses cited above.
 
 ## Significance
 

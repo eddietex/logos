@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Barns and all the work of the hand receive blessing (8, 12). Rain and productive labor belong together; the promise does not make work unnecessary or attribute the harvest to human effort alone.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Moses cuts the stones and makes an acacia ark; Yahweh supplies the writing (1–5). Exodus 37:1 names
@@ -770,6 +776,8 @@ quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timoth
 [[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

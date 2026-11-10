@@ -19,7 +19,7 @@ tags: [connection]
 - Exodus 24:4 — Moses builds an altar and **twelve pillars** at Sinai, *"for the twelve tribes of Israel"* —
   [[The Blood of the Covenant]]
 - Exodus 23:24; 34:13; Deuteronomy 7:5; 12:3 — smash the Canaanite pillars — [[The Angel Sent Ahead]]
-- Leviticus 26:1 — *"you shall not raise up a carved image or a pillar"* — [[Blessings for Obedience]]
+- Leviticus 26:1 — *"you shall not raise up a carved image or a pillar"* — [[Blessings for Obedience (Leviticus)]]
 - Deuteronomy 16:21–22 — *"Neither shall you set yourself up a sacred stone which Yahweh your God
   hates"* (16:22) — [[Judges, Worship, and Difficult Cases]]
 - Joshua 4:1–9 — twelve stones out of the Jordan

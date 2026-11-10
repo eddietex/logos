@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19.
@@ -70,6 +72,12 @@ reaffirmation makes sense in context, but is an interpretation rather than an ex
 explanation of the tense. Belonging remains the ground of obligation.
 
 Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
+
+### Blessings now ingested — Deuteronomy 28:1–14
+
+Deuteronomy 28:9–10 promises establishment as a holy people, conditional on keeping the commands, and recognition by other nations. The already affirmed holiness of 7:6 and the present becoming of 27:9 remain beside this future promise. The shifting temporal emphasis is not silently flattened into a single moment of becoming holy.
+
+Source: stored WEB Deuteronomy 28:1–14 and the comparison verses cited above.
 
 ## Significance
 

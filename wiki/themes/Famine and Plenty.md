@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Fruitfulness, full barns, food preparation, and rain in season describe the promised plenty (4–5, 8, 11–12). These conditional national promises differ from Genesis’s famine narratives, which do not assign each famine to the sufferers’ sin.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Wilderness and wealth — Deuteronomy 8:1–20
 
 Hunger and manna teach dependence (3); the good land promises bread without scarcity (7–10).
@@ -64,7 +70,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 The positive pole of the subject: rain in season, threshing that reaches vintage, bread to the full
 (4–5), and old stores cleared for new (10). The next unit reverses each (26:19–20, 26).
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Land rest and Jubilee — Leviticus 25:1–22
 
@@ -208,6 +214,8 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
@@ -216,7 +224,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

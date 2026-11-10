@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+The ancestral land oath and the oath to establish a holy people accompany the condition of keeping the commandments (9, 11). Promise and obligation stand together; the passage does not cancel either.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 All the people are commanded to assent to each curse (15–26). Public agreement makes the community acknowledge obligations reaching secret actions as well as visible ones; the ceremony remains prospective.
@@ -243,7 +249,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 formula comes in full at 12: *will be your God, and you will be my people*. The sanctions are
 now explicit: this unit gives the positive side, and 26:14–46 the negative.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -513,6 +519,8 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -555,7 +563,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+The land promised to the fathers is the setting of future blessing (8, 11–12), though Canaan is not named in these verses. Cities, fields, barns, and seasonal rain describe life there, not new named locations.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 The land, unnamed as Canaan in these verses, is described as Yahweh's gift and the fulfillment
@@ -211,7 +217,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 Unnamed here, the land is *your land* (1, 5, 6): rain, yield, safety, and peace are all promised
 inside it. Idols are excluded from it (1). The name was last given at 25:38.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -381,6 +387,8 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed and one place chosen (not named).
@@ -427,7 +435,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

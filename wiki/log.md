@@ -20554,7 +20554,7 @@ people, 104 places, 85 themes, 577 connections. Next: Blessings for Obedience, L
 
 ## [2026-10-30] ingest | Leviticus 26.1-13 — Blessings for Obedience
 
-Created [[Blessings for Obedience]]: idols and Sabbaths as heads, one condition (26:3), and the promises of rain, peace,
+Created [[Blessings for Obedience (Leviticus)]]: idols and Sabbaths as heads, one condition (26:3), and the promises of rain, peace,
 victory, increase, and Yahweh's presence, closed by the broken yoke. Created
 [[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] and [[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]]. Revised the Leviticus book page; [[God]], [[Moses]]; [[Egypt]], [[Canaan]],
 [[Horeb]]; thirteen themes; five connections; seven other passages; the books, people, places,
@@ -24038,3 +24038,30 @@ and controller files were unchanged.
 Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets;
 57 not-yet-started books remain the expected baseline. New titles are unique, progress counts
 match frontmatter, and git diff --check passed.
+
+## [2026-11-10] ingest | Deuteronomy 28.1-14 — Blessings for Obedience (Deuteronomy)
+
+Ingested the planned 28:1–14 unit without changing its boundary. Conditional blessings cover
+household, harvest, work, victory, holiness, rain, and national standing; the final warning
+retains exclusive allegiance. The distinction between national covenant promise and an
+individual prosperity formula is explicit, alongside Job’s affirmed integrity amid loss.
+The earlier declarations of holiness remain alongside the conditional future establishment.
+
+Created the passage and two connections: [[Blessing Lists - Leviticus 26 and Deuteronomy 28]]
+and [[Lend and Not Borrow - Deuteronomy 15 and 28]]. Revised Moses, God, Canaan, twelve themes,
+four existing connections, and the relevant passage backlinks, book checklist, category rows,
+and progress counts. Deuteronomy is now 57 / 69 pericopes; the wiki has 382 passages, 257 people,
+222 places, 87 themes, and 782 connections.
+
+The title collided with Leviticus 26:1–13. Renamed that page to
+[[Blessings for Obedience (Leviticus)]] and created [[Blessings for Obedience (Deuteronomy)]],
+repairing inbound links throughout the wiki, including the live link in the earlier log entry.
+Historical log prose is otherwise preserved. No separate pages were created for generic cities,
+fields, barns, enemies, or unnamed ancestors; Canaan is identified as contextual, not named
+inside this unit. No missing Gerizim blessing liturgy was reconstructed.
+
+Sources: the complete passage quotation was copied from stored WEB Deuteronomy 28:1–14;
+comparisons checked against stored WEB Leviticus 26, Deuteronomy 7, 15, 27–28, and Job 1–2.
+No external quotation or new Greek/Hebrew wording claim was introduced. Raw sources and
+harness instructions were unchanged. Agent: OpenAI Codex. Link checks passed with 57 expected
+not-yet-started book targets and no findings. No unresolved ingestion issue.

@@ -10,7 +10,7 @@ tags: [connection]
 - **Genesis 3:8** — [[The Fall]]: *"They heard Yahweh God's voice walking in the garden in the cool of the
   day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the
   garden."*
-- **Leviticus 26:12** — [[Blessings for Obedience]]: *"I will walk among you, and will be your God, and you
+- **Leviticus 26:12** — [[Blessings for Obedience (Leviticus)]]: *"I will walk among you, and will be your God, and you
   will be my people."*
 - **Deuteronomy 23:14** — [[The Assembly and the Holy Camp]]: *"for Yahweh your God walks in the middle of
   your camp, to deliver you, and to give up your enemies before you. Therefore your camp shall be holy, that

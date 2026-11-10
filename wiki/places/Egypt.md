@@ -219,7 +219,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 The chapter's promises end with Egypt: Yahweh brought Israel out so that they would not be
 Egypt's slaves, and broke the bars of their yoke (13).
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -455,7 +455,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 - [[The Generations of Aaron and the Levites Given]] — Numbers 3:1–13; the land of the struck firstborn.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

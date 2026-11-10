@@ -159,7 +159,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 
 These promises are part of the Sinai address by the frame at 25:1 and 26:46.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -721,7 +721,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

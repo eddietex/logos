@@ -7,9 +7,11 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:17
 - [[The Defeat at Hormah]] — Numbers 14:42
-- Deuteronomy 1:42; 28:7, 25 *(WEB checked for 1:42 and 28:25, not yet ingested)*
+- Deuteronomy 1:42; 28:7, 25 (stored WEB; 28:25 remains ahead)
 - 1 Samuel 4:2, 10 *(WEB checked, not yet ingested)*
 - 1 Kings 8:33; 2 Chronicles 6:24 *(WEB checked for 1 Kings, not yet ingested)*
 
@@ -30,6 +32,12 @@ prayer: when the people are *struck down before the enemy, because they have sin
 *turn again*, then let Yahweh hear. That is the path Numbers 14 did not take. The people named their
 sin and went up, and the prayer's sequence is to name it and turn. Deuteronomy 1:45 says the weeping
 afterward was not heard.
+
+### Blessings now ingested — Deuteronomy 28:1–14
+
+Deuteronomy 28:7 supplies the positive counterpart to 28:25: enemies rising against Israel are defeated and flee in seven directions. In verse 25 Israel instead flees in seven directions. Both clauses are verified in the stored WEB; only the blessing unit is ingested here. The contrast concerns which side suffers defeat, not a new account of a battle.
+
+Source: stored WEB Deuteronomy 28:1–14 and the comparison verses cited above.
 
 ## Significance
 

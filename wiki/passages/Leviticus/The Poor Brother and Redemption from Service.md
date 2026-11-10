@@ -127,7 +127,7 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[The Redeemer and the Avenger of Blood]] — the kin ladder of 48–49.
 - [[They Are My Servants - Leviticus 25.42, 55, Nehemiah 5, and 1 Corinthians 7]] — the claim
   of ownership followed forward.
-- [[Blessings for Obedience]] — 26:13 restates the exodus claim of 25:55 at the end of the promises.
+- [[Blessings for Obedience (Leviticus)]] — 26:13 restates the exodus claim of 25:55 at the end of the promises.
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the poor brother's debt released in the seventh year, and the hand opened to lend him what he lacks.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; the six-year release with gifts, and a servant
   *"forever"* beside this unit's Jubilee.

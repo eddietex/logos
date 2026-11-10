@@ -149,7 +149,7 @@ See [[Judges Appointed for the People]]. Source: stored WEB Deuteronomy 1:9–18
 WEB's *have reverence for my sanctuary* (2) is *tîrāʾû*, the verb *fear* (MAM), and its object here is a
 place. The unit also promises that no one will make Israel afraid (6), a different verb (*ḥārad*).
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -518,7 +518,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; fear learned at Horeb and taught to children.
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; fear of the peoples displacing trust.
 - [[Judges Appointed for the People]] — Deuteronomy 1:9–18; *not afraid of the face of man*.
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

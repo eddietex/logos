@@ -10,7 +10,7 @@ tags: [connection]
 - [[Do Not Withhold Good]] — Proverbs 3:21–26; retained wisdom, secure walking, sweet sleep,
   and Yahweh as confidence.
 
-- [[Blessings for Obedience]] — Leviticus 26:6; *"I will give peace in the land, and you shall lie
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:6; *"I will give peace in the land, and you shall lie
   down, and no one will make you afraid"* — *wəʾên maḥărîd*, the blessing of the covenant
 - **Job 11:19** — Zophar: *"Also you shall lie down, and no one shall make you afraid"* —
   [[Zophar's First Speech]]
@@ -73,7 +73,7 @@ above. Source: stored WEB Proverbs 3 and Job 1, 7, checked 2026-10-25.
 Verse 6 sits in a list of national goods under the condition of 26:3, and every *you* is plural. Its
 *šākab* is the plain verb for lying down, not the flock verb an earlier form of this page gave it.
 Ezekiel 34:25, 28 repeats the evil animals and the formula together. See
-[[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] and [[Blessings for Obedience]].
+[[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]] and [[Blessings for Obedience (Leviticus)]].
 Source: stored WEB Leviticus 26; MAM (Sefaria) Leviticus 26:6, Job 11:18–19, Ezekiel 34:25–28.
 
 ## Significance

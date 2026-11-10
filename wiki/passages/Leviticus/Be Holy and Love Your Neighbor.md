@@ -80,7 +80,7 @@ vengeance and grudges are forbidden, and love of the neighbor as oneself is comm
 
 ## Cross-references
 
-- [[Blessings for Obedience]] — 26:1 and 19:4 share *ʾĕlîlîm*; Israel may not *turn* to idols, and Yahweh will *turn* to Israel (26:9).
+- [[Blessings for Obedience (Leviticus)]] — 26:1 and 19:4 share *ʾĕlîlîm*; Israel may not *turn* to idols, and Yahweh will *turn* to Israel (26:9).
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:14–15, 19–21; the hired man paid before
   sunset, and the gleanings left for the foreigner, the fatherless, and the widow.
 - [[Before the Sun Goes Down - The Pledged Garment and the Day's Wage]] — 19:13.

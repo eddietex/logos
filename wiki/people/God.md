@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Yahweh gives land, rain, fertility, victory, and holy standing (7–12). The promised elevation of Israel remains conditional on obedience and exclusive allegiance (1, 9, 13–14).
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Yahweh is named as the one to whom the crafted image is an abomination (15). The commanded curse liturgy places even secret wrongdoing under covenant accountability.
@@ -649,7 +655,7 @@ Yahweh attaches a long first-person promise to one condition (3): rain, safety, 
 his own presence (11–12). He identifies himself as the God who broke Israel's yoke (13). The word
 *I will not abhor you* (11) anticipates the alternative stated in 26:14–46.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Poor brother and service — Leviticus 25:35–55
 
@@ -3698,6 +3704,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -3806,7 +3814,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

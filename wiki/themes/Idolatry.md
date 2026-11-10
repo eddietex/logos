@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+The blessing section closes by forbidding departure from the commands to serve other gods (14). Exclusive allegiance remains essential within the promised abundance.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The first curse targets an engraved or molten image made by a craftsman and installed in secret (15). Concealment does not remove accountability to Yahweh.
@@ -99,7 +105,7 @@ Idols, carved image, pillar, and figured stone head the chapter (1), with *ʾĕl
 Figured stone (*ʾeben maśkît*) is listed for the land itself: the concern is what may stand in it.
 See [[The Pillar Jacob Raised and the Pillars the Law Forbids]].
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Penalties and separation — Leviticus 20
 
@@ -403,6 +409,8 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -442,7 +450,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 

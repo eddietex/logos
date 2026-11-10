@@ -59,7 +59,7 @@ The list ends with slavery ended: *that you should not be their slaves* and *the
 (13). The promise follows directly on the law of chapter 25 on who may be enslaved. See
 [[The Bars of Their Yoke - Leviticus 26.4-13 and Ezekiel 34.25-28]].
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### The slave at the priest’s table — Leviticus 22:10–11
 
@@ -403,7 +403,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

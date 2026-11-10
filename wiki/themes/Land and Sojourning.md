@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+The land is both Yahweh’s present gift in the promise and the land sworn to the fathers (8, 11). Productive settled life there is tied to obedience; receiving the land is not exemption from responsibility.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 The promised fertile land is Yahweh's gift (2–3). Crossing into it brings the task of
@@ -266,7 +272,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 *Dwell in your land safely* (5) comes one chapter after *you are strangers and live as foreigners
 with me* (25:23), and the two are not reconciled by the text. Security here is conditional tenancy.
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### The blasphemer and one law — Leviticus 24:10–23
 
@@ -734,6 +740,8 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
+
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the land in three parts (3), enlarged (8), and its blood guilt (10).
@@ -811,7 +819,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 - [[Vows, Valuations, and Devoted Things]] — Leviticus 27:1–34.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Poor Brother and Redemption from Service]] — Leviticus 25:35–55.
 

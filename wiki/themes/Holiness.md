@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Yahweh will establish Israel as a holy people to himself if they keep his commands and walk in his ways (9). This future conditional establishment stands beside the already affirmed holiness of Deuteronomy 7:6; it must not erase that earlier declaration.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 The promised elevation culminates in being a holy people to Yahweh (19). Deuteronomy 7:6
@@ -745,6 +751,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

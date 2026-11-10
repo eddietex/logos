@@ -7,7 +7,7 @@ tags: [passage]
 status: ingested
 date_ingested: 2026-10-30
 ---
-# Blessings for Obedience
+# Blessings for Obedience (Leviticus)
 
 **Book:** [[Leviticus]]
 **Reference:** Leviticus 26:1–13
@@ -104,8 +104,8 @@ Source: stored WEB, `raw/bible/Leviticus.md`. Complete unit:
 - [[I Will Take You as My People - The Covenant Formula]] — 26:12.
 - [[The Pillar Jacob Raised and the Pillars the Law Forbids]] — 26:1.
 - [[They Are My Servants - Leviticus 25.42, 55, Nehemiah 5, and 1 Corinthians 7]] — 26:13.
-- Deuteronomy 11:14 — rain *in its season*; Deuteronomy 28:1–14 — the parallel blessings
-  *(not yet ingested; paraphrased)*.
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14, the parallel blessings, now ingested.
+- [[Blessing Lists - Leviticus 26 and Deuteronomy 28]] — shared promises and differing emphases.
 - Amos 9:13 — plowman overtaking reaper, a comparable picture of seasons running together
   *(not yet ingested; different Hebrew wording)*.
 - 2 Corinthians 6:16 — *"I will dwell in them, and walk in them; and I will be their God, and they

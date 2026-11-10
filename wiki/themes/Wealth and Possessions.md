@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessings in the land — Deuteronomy 28:1–14
+
+Abundance and lending to many nations without borrowing are national covenant promises (11–13), not a ban on every loan or an individual guarantee of wealth. Deuteronomy 15:4–11 places the same national promise beside duties toward poor neighbors.
+
+See [[Blessings for Obedience (Deuteronomy)]]. Source: stored WEB Deuteronomy 28:1–14.
+
 ### Interest, a tainted gift, and the neighbor's crop — Deuteronomy 23:18–25
 
 Four limits on gain sit in eleven verses. A prostitute's hire may not pay a vow (18). No interest is
@@ -842,6 +848,8 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 

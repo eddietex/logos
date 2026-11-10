@@ -20,7 +20,7 @@ tags: [connection]
 - **Exodus 25:8** — *"Let them make me a sanctuary, that I may dwell among them."* The dwelling
   announced, without the formula, four chapters before 29:45 joins them —
   [[The Offering for the Sanctuary]]
-- [[Blessings for Obedience]] — Leviticus 26:12; *"I will walk among you, and will be your God, and
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:12; *"I will walk among you, and will be your God, and
   you will be my people"*. *Wəhāyîtî lākem lēʾlōhîm* matches Exodus 6:7 (MAM), and 26:13 likewise
   follows with the bringing out of Egypt. [[Covenant Warnings and Remembered Promises]], 26:45, keeps God's half alone after exile: brought
   out *"that I might be their God"*, with no *my people* clause.

@@ -11,6 +11,10 @@ status: in-progress
 
 ## Overview
 
+[[Blessings for Obedience (Deuteronomy)]] (28:1–14) promises blessing across household, harvest, work,
+security, and national standing, conditional on obedience. Holy identity and seasonal rain
+join lending without borrowing; the section closes against following other gods.
+
 [[The People Answer Amen to the Curses]] (27:11–26) prescribes six tribes on each mountain,
 loud Levitical curses, and the people’s repeated Amen. Specific wrongs culminate in failure
 to uphold the law by doing it. Blessing is assigned but only curse formulas are supplied;
@@ -405,7 +409,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19
 - [x] [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10
 - [x] [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26
-- [ ] Blessings for Obedience — Deuteronomy 28:1–14
+- [x] [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14
 - [ ] Curses for Disobedience — Deuteronomy 28:15–68
 - [ ] The Covenant in Moab and the Hidden Things — Deuteronomy 29:1–29
 - [ ] Return Restoration and the Circumcised Heart — Deuteronomy 30:1–10

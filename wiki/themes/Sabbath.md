@@ -62,7 +62,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 Verse 2 repeats 19:30 word for word in the Hebrew (MAM). Placed before the promises, *my Sabbaths* will
 return as the land's Sabbaths in the warnings (26:34–35, 43).
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 ### Land rest and Jubilee — Leviticus 25:1–22
 
@@ -260,7 +260,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:1–22; land rest, restoration, and provision.
 

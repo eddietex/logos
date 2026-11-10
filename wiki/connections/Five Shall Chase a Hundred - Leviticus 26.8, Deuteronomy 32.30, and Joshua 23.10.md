@@ -7,7 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
-- [[Blessings for Obedience]] — Leviticus 26:7–8; *"Five of you shall chase a hundred, and a hundred
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:7–8; *"Five of you shall chase a hundred, and a hundred
   of you shall chase ten thousand"*.
 - **Leviticus 26:17, 36–37** — the reversal in the same chapter: *"you will flee when no one pursues
   you"*; *"when no one pursues"* (stored WEB; pericope not yet ingested).
@@ -40,7 +40,7 @@ flight*, and not *rādap* again.
   Joshua 23:10 says plainly who does the fighting.
 - It shows a covenant blessing being used as a charge. Deuteronomy's question has force only if the
   promise is remembered.
-- It links the conditional structure of [[Blessings for Obedience]] with narrative history still ahead.
+- It links the conditional structure of [[Blessings for Obedience (Leviticus)]] with narrative history still ahead.
 
 See [[Blessing]] and [[Covenant]]. Source: stored WEB Leviticus 26; WEB Deuteronomy 32:30 and Joshua
 23:10 via bible-api.com; Hebrew from MAM (Sefaria), 2026-10-30.

@@ -79,7 +79,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 The root *hālak* appears three ways: Israel walks in statutes (3), Yahweh walks about among them
 (12), and he made them walk upright (13). The next unit uses it for walking *contrary* (26:21–28).
 
-See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
+See [[Blessings for Obedience (Leviticus)]]. Source: stored WEB Leviticus 26.
 
 - **Genesis 5:22, 5:24** — [[Enoch (son of Jared)]] walks with God for three hundred years and is
   taken. The phrase's first appearance, with no antecedent and no explanation.
@@ -104,7 +104,7 @@ See [[Blessings for Obedience]]. Source: stored WEB Leviticus 26.
   for expecting the errand to succeed. See [[A Wife for Isaac]]. And **48:15**, Jacob on the God
   *"before whom my fathers Abraham and Isaac walked"* *(not yet ingested)*.
 - **Leviticus 26:12** — *"I will walk among you, and will be your God"*: the direction reversed,
-  and made covenantal. See [[Blessings for Obedience]].
+  and made covenantal. See [[Blessings for Obedience (Leviticus)]].
 - **Micah 6:8** — *"to walk humbly with your God"*, using the *ʾet* of Genesis 5, and the closest
   the prophets come to defining the phrase as a requirement rather than a description.
 - **Malachi 2:6** — of Levi, *"he walked with me in peace and uprightness"*.
@@ -269,7 +269,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"walk in all his ways"* (22), and the curse as turning *"out of the way"* (28).
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 
-- [[Blessings for Obedience]] — Leviticus 26:1–13.
+- [[Blessings for Obedience (Leviticus)]] — Leviticus 26:1–13.
 
 - [[The Plans of the Heart]] — Proverbs 16:7, 9, 17, 25, 29.
 
