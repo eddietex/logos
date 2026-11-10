@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Being gathered to his people accompanies the command that Moses die as Aaron died (50). No burial
+site, procedure, or agent is given here; the phrase must not be expanded into a report of a shared
+ancestral tomb.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### Bury him the same day — Deuteronomy 21:22–23
 
 The executed man's body may be hung on a tree, but *"shall not remain all night on the tree, but you
@@ -169,6 +177,7 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:22–23; the hanged body buried the same day.

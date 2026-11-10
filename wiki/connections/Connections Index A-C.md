@@ -11,7 +11,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 
 | Title | Type | Passages involved |
 |---|---|---|
-| [[Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33]] | Death location and route tensions retained. | [[New Tablets and the Journey Onward]] |
+| [[Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33]] | Death location and route tensions retained. | [[New Tablets and the Journey Onward]]  · [[Moses Commanded to Ascend Nebo]] (Deuteronomy 32:48–52) |
 | [[Aaron's Garments Pass to Eleazar]] | parallel | [[The Ordination of the Priests]] · [[The Death of Aaron]] · [[The Holiness of the Priests]] |
 | [[Aaron's Rod Before the Testimony - Numbers 17 and Hebrews 9]] | parallel | [[Aaron's Rod Buds]] · Hebrews 9:3–4 |
 | [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] | thread | Job 26:6 · Job 28:22 · Job 31:12 · Psalm 88:11 · Proverbs 15:11 · [[Do Not Boast About Tomorrow]] (Proverbs 27:20) · Revelation 9:11 · [[A Gentle Answer]] (Proverbs 15:3, 11) |

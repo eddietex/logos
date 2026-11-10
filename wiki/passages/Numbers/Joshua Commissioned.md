@@ -86,6 +86,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 - [[Seeing and Being Seen]]
 
 ## Cross-references
+- [[Moses Commanded to Ascend Nebo]] — the renewed command names Nebo and recalls Aaron’s death.
 - [[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]] — the prospect, distinct prayers, and succession.
 
 - [[Moses Excluded - Numbers 20 and Deuteronomy 1]] — the differing explanations of Moses’ exclusion.
@@ -111,7 +112,7 @@ you rebelled against my word*. Moses is shown the land but does not die in this 
 narrative continues through the rest of Numbers, and Deuteronomy 32:49–50 repeats the command
 with more detail — *"Go up into this mountain of Abarim, to Mount Nebo, which is in the land of
 Moab, that is across from Jericho"*, and *"be gathered to your people, as Aaron your brother died
-on Mount Hor"* (WEB, verified through bible-api.com; Deuteronomy not yet ingested). Numbers 27 does
+on Mount Hor"* (WEB, verified through bible-api.com; now ingested in [[Moses Commanded to Ascend Nebo]]). Numbers 27 does
 not name Nebo or say which peak of Abarim is meant.
 
 **Moses answers with the people's need.** His only recorded reply is a request for a leader

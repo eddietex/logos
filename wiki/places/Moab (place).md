@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Mount Nebo is explicitly located in the land of Moab opposite Jericho (49). Moab is now named in the
+command itself, not merely supplied from the setting of the preceding addresses.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The song continues the Moab setting of Deuteronomy 29:1. Moab is not named in this unit, and the named places within the poem are images or remembered sources of provision rather than a new itinerary.
@@ -249,6 +256,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

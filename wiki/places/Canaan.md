@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Canaan is the land Yahweh gives Israel for possession and commands Moses to see (49). The gift is
+reaffirmed in verse 52 even as Moses is excluded from entering it.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The song as witness — Deuteronomy 31:14–23
 
 The promised land is described as flowing with milk and honey (20), and as containing the
@@ -432,6 +439,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+The land remains Yahweh’s gift to Israel (49, 52), yet Moses is denied entry. The people’s
+inheritance and their leader’s personal participation are distinguished rather than treated as
+identical promises.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Entry into the sworn land is assured to Joshua (23), while the people's coming betrayal in that
@@ -784,6 +792,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

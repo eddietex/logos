@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+The waters of Meribah of Kadesh in Zin are named as the scene of the trespass behind Moses’
+exclusion (51). This recalls Numbers 20:1–13 rather than the separate water episode at Rephidim.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Kadesh Barnea is where the command to possess the land met rebellion, unbelief, and refusal to
@@ -129,6 +136,7 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

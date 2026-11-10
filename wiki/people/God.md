@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Yahweh commands Moses to ascend, view the land, and die (48–52). His gift of Canaan to Israel
+remains explicit beside his judgment on the leader who failed to uphold his holiness; the gift does
+not exempt Moses from accountability.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Yahweh is the faithful Rock and parent whose care Israel repays with abandonment (4–18). He hides his face and judges, yet restrains annihilation lest enemies claim the victory (20–27), has compassion on powerless servants (36), and alone kills, makes alive, wounds, and heals (39). Judgment and compassion remain together; neither cancels the other.
@@ -3757,6 +3765,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

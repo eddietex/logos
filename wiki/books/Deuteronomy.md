@@ -10,6 +10,10 @@ status: in-progress
 # Deuteronomy
 
 ## Overview
+[[Moses Commanded to Ascend Nebo]] (32:48–52) commands the ascent of Nebo, sight of Canaan,
+and death without entry. Meribah’s offense explains the exclusion, while Aaron’s death
+on Mount Hor supplies the precedent. Neither ascent nor death is yet narrated.
+
 [[The Song of Moses]] (31:30–32:47) delivers the witness prepared in chapter 31: care and abundance,
 abandonment, judgment, and compassion. The faithful Rock alone rules death and life; nations
 are called to rejoice with his people. Moses and Joshua transmit the song, and Moses ends
@@ -394,7 +398,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **67 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -462,7 +466,7 @@ Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 - [x] [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23
 - [x] [[The Book Beside the Ark]] — Deuteronomy 31:24–29
 - [x] [[The Song of Moses]] — Deuteronomy 31:30–32:47
-- [ ] Moses Commanded to Ascend Nebo — Deuteronomy 32:48–52
+- [x] [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52
 - [ ] Moses Blesses the Tribes — Deuteronomy 33:1–29
 - [ ] The Death of Moses — Deuteronomy 34:1–12
 

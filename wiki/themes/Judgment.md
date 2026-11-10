@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Moses must see but not enter the land because of the named offense at Meribah (51–52). This is an
+explicit divine verdict on a specified act, not permission to infer comparable guilt from every
+human death.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The faithful God’s judgment reaches every age group (24–25); the violence is explicit. Threatened erasure is restrained because enemies would misconstrue their victory (26–27). Compassion at powerlessness (36) does not erase the threatened judgment; vengeance against adversaries follows (41–43).
@@ -984,6 +992,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

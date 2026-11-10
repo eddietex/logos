@@ -24333,3 +24333,31 @@ with translation=web for the later connections; no additional raw book was fetch
 Corrected the earlier Deuteronomy 32:4 excerpt on the rock connection to match stored WEB.
 No harness or workflow changes were needed. Link checks passed with 57 expected not-started
 book targets and no wrapped links or unexpected dangling targets. No unresolved blocker.
+
+## [2026-11-10] ingest | Deuteronomy 32.48-52 — Moses Commanded to Ascend Nebo
+
+Ingested [[Moses Commanded to Ascend Nebo]] with the planned boundary unchanged. All five
+WEB verses were copied directly from stored Deuteronomy. The passage distinguishes the
+command to ascend and die from its later fulfillment and preserves the gift of the land
+beside Moses’ exclusion. Aaron is recalled; Israel is collective, not a new person page.
+
+Created the passage and [[Mount Nebo]], using the canonical templates. Kept the ambiguous
+[[Nebo (landmark)]] separate from both the named mountain and [[Nebo (city)]]. Revised three
+people, ten existing places, seven themes, four connections, the earlier Joshua commissioning
+passage, and the Deuteronomy book page. Updated all affected category rows, the books index,
+and dashboard. Including indexes and this log: 2 pages created and 36 existing pages revised.
+Corrected the stale book-page count to 67 / 69; the checklist itself already had 66 completed
+units before this pass. No further pericope was ingested.
+
+Deuteronomy 32:51 shares Numbers’ Meribah explanation, so the differing emphasis of Deuteronomy
+1:37 and 3:26 is now explicitly an internal as well as an inter-book tension. Deuteronomy 32:50
+also locates Aaron’s death on Mount Hor, beside Deuteronomy 10:6’s conflicting Moserah location.
+Both location claims remain unresolved; no geographical or chronological harmonization was
+invented. The Kadesh Meribah remains distinct from the Rephidim site.
+
+All new quotations and comparisons use stored WEB texts. No unstored book was quoted, no
+source-language assertion added, and no raw source, workflow, harness, or controller file
+changed. Agent: OpenAI Codex (GPT-6 Astra). Frontmatter totals: 392 passages, 257 people,
+225 places, 87 themes, and 792 connections. Both link checks passed with 57 expected
+not-yet-started book targets; no unexpected dangling targets or wrapped links. No execution
+blocker remains; the textual tensions above are explicitly recorded rather than resolved.

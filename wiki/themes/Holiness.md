@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+The exclusion is explained as failure to uphold Yahweh’s holiness among Israel (51), recalling
+Numbers 20:12. Leadership and past service do not exempt Moses from responsibility to represent
+Yahweh before the people.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### Blessings in the land — Deuteronomy 28:1–14
 
 Yahweh will establish Israel as a holy people to himself if they keep his commands and walk in his ways (9). This future conditional establishment stands beside the already affirmed holiness of Deuteronomy 7:6; it must not erase that earlier declaration.
@@ -751,6 +759,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.
 

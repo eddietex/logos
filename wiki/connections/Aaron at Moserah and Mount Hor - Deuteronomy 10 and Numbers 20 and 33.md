@@ -6,11 +6,21 @@ tags: [connection]
 # Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33
 
 ## Passages involved
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 - [[New Tablets and the Journey Onward]]
 - [[The Death of Aaron]]
 - [[The Stages of the Journey]]
 
 ## Analysis
+
+### The command at Nebo
+
+Deuteronomy 32:50 explicitly places Aaron’s death on Mount Hor. The location conflict is therefore
+also internal to Deuteronomy: 10:6 names Moserah, while 32:50 agrees with Numbers 20:28 and 33:38.
+The new witness strengthens the Mount Hor attestation but supplies no identification of Moserah with
+it. Both claims remain recorded as unresolved.
+
+Source: stored WEB Deuteronomy 32:48–52; earlier stored passages cited below.
 
 Deuteronomy 10:6 locates Aaron’s death and burial at Moserah after travel from Beeroth Bene
 Jaakan. Numbers 20:22–29 locates his death on Mount Hor by Edom, reached from Kadesh;

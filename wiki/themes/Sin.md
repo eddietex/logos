@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+The WEB calls the act at Meribah trespass against Yahweh and failure to uphold his holiness (51).
+The verse gives a theological explanation of the offense without retelling the striking of the rock
+in Numbers 20:11.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Specific wrongs against worship, parents, neighbors, vulnerable people, and sexual boundaries culminate in failure to do the law (15–26). Communal assent is not a claim that every speaker has committed each listed act.
@@ -735,6 +743,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

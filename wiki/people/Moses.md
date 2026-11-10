@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Moses is commanded to ascend Mount Nebo in Moab, see Canaan, and die there as Aaron died on Mount
+Hor (48–52). The cause is trespass at Meribah and failure to uphold Yahweh’s holiness (51). This
+agrees with Numbers 20:12, while Deuteronomy 1:37 and 3:26 emphasize anger for the people’s sakes.
+Both emphases remain; no ascent or death is yet narrated.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Moses delivers the entire song before Israel (31:30; 32:44–45), with Joshua named beside him. He then commands wholehearted attention and teaching children to obey: these words are their life in the land (46–47). The song is not merely a farewell performance.
@@ -1850,6 +1859,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

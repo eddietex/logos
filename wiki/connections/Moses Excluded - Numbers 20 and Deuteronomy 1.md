@@ -6,12 +6,23 @@ tags: [connection]
 # Moses Excluded - Numbers 20 and Deuteronomy 1
 
 ## Passages involved
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:37–38.
 - [[The Waters of Meribah]] — Numbers 20:1–13.
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### The command at Nebo
+
+Deuteronomy 32:51 explicitly grounds the exclusion in trespass at Meribah of Kadesh and failure to
+uphold Yahweh’s holiness. Deuteronomy therefore contains the leaders’ responsibility emphasis found
+in Numbers 20:12 and 27:14 as well as the people’s-sakes explanation of Deuteronomy 1:37 and 3:26.
+The tension is within Deuteronomy as well as between books; this later statement neither erases the
+earlier ones nor supplies a full chronology.
+
+Source: stored WEB Deuteronomy 32:48–52; earlier stored passages cited below.
 
 Deuteronomy 3:26 repeats the explanation that Yahweh was angry with Moses for the people's
 sakes. His plea to cross is denied, though he may look from Pisgah (3:23–27). He must strengthen

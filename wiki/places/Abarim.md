@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+The command now specifies Mount Nebo as the mountain of Abarim to ascend, in Moab opposite Jericho
+(49). This adds the named peak to Numbers 27:12; it still commands a future ascent rather than
+reporting its completion.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The stages of the journey — Numbers 33:1–49
 
 Israel camps in the mountains of Abarim before Nebo, then descends to the plains of Moab (47–48). The mountain command to Moses in Numbers 27:12 is not an ascent narrated in this list.
@@ -22,7 +30,7 @@ chapter ends with Joshua's commissioning rather than an ascent.
 
 Deuteronomy 32:49 repeats the command and specifies *"this mountain of Abarim, to Mount Nebo,
 which is in the land of Moab, that is across from Jericho"* (WEB, verified through bible-api.com;
-not yet ingested). Numbers 27 itself names neither Nebo nor Moab. No modern identification is
+now ingested in [[Moses Commanded to Ascend Nebo]]). Numbers 27 itself names neither Nebo nor Moab. No modern identification is
 asserted here.
 
 The camp [[Iyeabarim]] (Numbers 21:11) shares the element *abarim* in its WEB spelling; this page
@@ -31,6 +39,7 @@ does not identify the two sites or derive either name.
 Source: stored WEB Numbers 27:12–14.
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

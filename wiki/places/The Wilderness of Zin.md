@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+The failure to uphold Yahweh’s holiness occurred at Meribah of Kadesh in this wilderness (51),
+agreeing with Numbers 20:1 and 27:14. This names the place of the recalled offense, not the location
+of Mount Nebo.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The borders of the land — Numbers 34:1–29
 
 Zin marks the southern frontier alongside Edom, with the boundary running south of Kadesh Barnea (3–4). This is a border description rather than another wilderness march.
@@ -49,9 +57,10 @@ settle it. See [[Kadesh]] and [[Paran]].
 **It is a border.** Numbers 34:3–4 draws the land's south side from *the wilderness of Zin along by
 the side of Edom*, and Joshua 15:1, 3 uses it for Judah's border (by the tags). So the spies start
 at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for the sin at Meribah
-(tags; *not yet ingested*).
+(both now ingested; see [[Moses Commanded to Ascend Nebo]]).
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

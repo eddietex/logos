@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Moses may see the land from a distance but may not enter it (49, 52). The permitted sight restates
+Deuteronomy 3:27 and Numbers 27:12 without reversing the sentence.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### No form and no image — Deuteronomy 4:15–31
 
 *You saw no kind of form* (15): what was not seen may not be made. Lifting the eyes to the sky can end in being *drawn away* (19). The gods of exile are visible but *neither see, nor hear* (28) — the reverse of Horeb, where Israel heard a God it did not see.
@@ -392,6 +399,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.

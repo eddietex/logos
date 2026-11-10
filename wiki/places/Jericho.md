@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Jericho locates Mount Nebo across from it (49). The city is a geographical reference point; no entry
+into or conquest of it occurs here.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Jericho is the landmark used to locate the plains of Moab by the Jordan (13), not a city entered
@@ -51,6 +58,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

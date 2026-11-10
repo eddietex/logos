@@ -6,11 +6,21 @@ tags: [connection]
 # See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3
 
 ## Passages involved
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 
 ## Analysis
+
+### The command at Nebo
+
+Deuteronomy 32:49–52 specifies Nebo in Abarim and repeats the permitted sight and forbidden entry.
+Unlike Numbers 27 and Deuteronomy 3, this unit contains no request from Moses and no commission of
+Joshua. The succession context precedes it; the renewed command does not repeat every element of the
+earlier accounts.
+
+Source: stored WEB Deuteronomy 32:48–52; earlier stored passages cited below.
 
 Both accounts place a command to see the land beside provision for Joshua's leadership.
 Numbers 27:12–14 names the mountain of Abarim, anticipates Moses' death, and recalls rebellion

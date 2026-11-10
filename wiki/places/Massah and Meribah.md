@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Comparison only: Deuteronomy 32:51 specifies Meribah of Kadesh in Zin, the Numbers 20 site. It does
+not relocate the Massah and Meribah of Exodus 17 at Rephidim; Kadesh remains the page for the later
+site.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Massah is named as a place where Israel provoked Yahweh (22). The recalled episode is Exodus 17 at
@@ -68,6 +76,7 @@ quotes was not checked.** See [[Do Not Test Yahweh - Massah in Deuteronomy, the 
 **Its location is Rephidim's**, and not known. See [[Rephidim]].
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52 (comparison).
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

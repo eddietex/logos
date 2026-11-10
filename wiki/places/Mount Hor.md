@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+Aaron’s death here is named as the precedent for Moses’ death on Nebo (50). Deuteronomy 32:50 agrees
+with Numbers 20:28 and 33:38, but conflicts with Deuteronomy 10:6’s Moserah location. No
+identification of the sites or return journey is supplied.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Numbers 20:28 and 33:38 place Aaron’s death here. Deuteronomy 10:6 instead says he died and was
@@ -35,6 +43,7 @@ The mountain reached after Israel leaves [[Kadesh]], described as by the border 
 The passage gives a narrative location, not coordinates or a secure modern identification.
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Commanded to ascend Nebo — Deuteronomy 32:48–52
+
+His death on Mount Hor is explicitly the precedent for Moses’ approaching death (50). This agrees
+with Numbers 20:28 but remains in conflict with the location at Moserah in Deuteronomy 10:6.
+Deuteronomy itself now preserves both locations; the passage supplies no geographical
+reconciliation.
+
+See [[Moses Commanded to Ascend Nebo]]. Source: stored WEB Deuteronomy 32:48–52.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Deuteronomy 10:6 locates his death and burial at Moserah, followed by Eleazar’s succession. This
@@ -750,6 +759,7 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
