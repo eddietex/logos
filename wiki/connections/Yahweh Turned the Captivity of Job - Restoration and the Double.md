@@ -10,7 +10,7 @@ tags: [connection]
 - **Job 42:10** — *"Yahweh turned the captivity of Job, when he prayed for his friends. Yahweh gave Job twice
   as much as he had before."* — *šāb ʾet-šəbût ʾiyyôb … ləmišneh* — [[The Restoration of Job]]
 - **Job 42:12** — the inventory of 1:3 doubled item by item — [[Job of Uz]]
-- **Deuteronomy 30:3** *(not yet ingested)* — *"that then Yahweh your God will release you from captivity, have
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:3: *"that then Yahweh your God will release you from captivity, have
   compassion on you, and will return and gather you from all the peoples where Yahweh your God has scattered
   you."*
 - **Psalm 14:7** *(not yet ingested)* — *"When Yahweh restores the fortunes of his people, then Jacob shall

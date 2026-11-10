@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Obedience comes before restoration (2) and again after the circumcised heart (8), and the unit closes on the conditions *if you will obey* and *if you turn* (10). Law is now explicitly *written in this book of the law* (10).
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Keeping and doing frame the address (9, 29). Hidden things belong to God, but revealed law obligates the community and its children; uncertainty is not an excuse to disregard what has been disclosed.
@@ -1295,6 +1301,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

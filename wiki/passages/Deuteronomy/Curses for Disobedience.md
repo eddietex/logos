@@ -203,3 +203,9 @@ or authorize blame against its victims.
 **Sources.** All verses above are copied from raw/bible/Deuteronomy.md. New comparisons use
 stored WEB Leviticus 26, Deuteronomy 17:16, 20:5–7, 28:1–14, and Job 2:3, 7. No new external
 quotation or claim about exact Hebrew or Greek wording is introduced.
+
+### Deuteronomy 30 comparison
+
+[[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:3, 9 reverses the scattering of 28:64 and the rejoicing to destroy of 28:63:
+*Yahweh will again rejoice over you for good*. See [[Return and Rejoice Again - Deuteronomy 4.29-31, 28.63, and 30.1-10]]. Source: stored WEB Deuteronomy 28:63–64
+and 30:1–10.

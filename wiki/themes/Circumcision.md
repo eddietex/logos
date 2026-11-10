@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+*Yahweh your God will circumcise your heart, and the heart of your offspring* (6). Deuteronomy 10:16 commanded Israel to circumcise its own heart; here Yahweh is the agent. The relation between command and promise is recorded, not resolved.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 The removal of the foreskin, commanded at Genesis 17:10 as the sign of the covenant with Abraham,
 performed on the eighth day of life, and carried on the body of every male of the household —
 including those *"bought with money from any foreigner"*. It is the Bible's first and only physical
@@ -128,6 +134,8 @@ Exodus 12:48 made circumcision the condition for a stranger at the Passover. Num
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 

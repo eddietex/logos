@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+The blessings of 28:4 and 28:11 return after exile: the fruit of body, livestock, and ground *for good* (9). Blessing is restored, not merely remembered.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The blessings of 28:3–6 and 12–13 are reversed in 28:16–19 and 43–44. Both halves retain their conditional setting, rather than making election an unconditional guarantee of prosperity.
@@ -512,6 +518,8 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

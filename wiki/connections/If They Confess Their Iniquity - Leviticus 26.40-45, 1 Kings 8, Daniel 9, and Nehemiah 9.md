@@ -12,7 +12,7 @@ tags: [connection]
   you, nor forget the covenant of your fathers"* (WEB).
 - **Jeremiah 29:13–14** — *"You shall seek me, and find me, when you search for me with all your heart"*,
   then *"I will turn again your captivity, and I will gather you"* (WEB).
-- **Deuteronomy 30:1–3** — return, then *"release you from captivity … gather you"* (WEB).
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–3: return, then *"release you from captivity … gather you"* (WEB).
 - **1 Kings 8:46–50** — Solomon's prayer for a people taken captive: *"We have sinned, and have done
   perversely; we have dealt wickedly"* (WEB).
 - **Psalm 106:44–45** — *"He remembered for them his covenant"* (WEB).

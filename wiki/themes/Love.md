@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+The circumcised heart has a purpose: *to love Yahweh your God with all your heart, and with all your soul* (6), the language of 6:5. The love commanded in chapter 6 is here promised as the outcome of Yahweh's work.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### Because Yahweh your God loved you — Deuteronomy 23:5
 
 The reversal of Balaam's curse is explained by love alone: *"because Yahweh your God loved you"* (5), as
@@ -571,6 +577,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"to love Yahweh your God"* (9) beside the hatred that makes murder (11).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; love as one of the conditions of possession, with walking and clinging (22).

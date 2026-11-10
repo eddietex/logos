@@ -189,7 +189,7 @@ bible-api.com 2026-11-05). This is a resemblance of WEB wording; no claim is mad
 return*; verse 31 rests it on Yahweh's mercy and oath. Like Leviticus 26:40–45, the text holds Israel's
 seeking and Yahweh's remembering together without making one the cause of the other. See
 [[If They Confess Their Iniquity - Leviticus 26.40-45, 1 Kings 8, Daniel 9, and Nehemiah 9]]. Unlike
-Deuteronomy 30:1–5 (stored WEB, not yet ingested), these verses promise return *to Yahweh*, not
+Deuteronomy 30:1–5, these verses promise return *to Yahweh*, not
 explicitly a return to the land.
 
 **Heaven and earth as witnesses.** Moses calls them at 4:26 and again at 30:19 and 31:28 (stored WEB,
@@ -202,3 +202,8 @@ the doxological close. Quotations are from stored WEB Deuteronomy 1, 3, 4, 30, 3
 20, 32, 34; and Leviticus 26. 1 Kings 8:51, Jeremiah 29:13, and Hebrews 12:29 were verified against
 bible-api.com's WEB on 2026-11-05. Psalms 115 and 135 are cited by reference only. No claim about exact
 Hebrew or Greek wording is made on this page.
+
+### Deuteronomy 30 comparison
+
+[[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10 retells the return of 4:29–31 and adds the land and the circumcised heart.
+See [[Return and Rejoice Again - Deuteronomy 4.29-31, 28.63, and 30.1-10]]. Source: stored WEB Deuteronomy 4:29–31 and 30:1–10.

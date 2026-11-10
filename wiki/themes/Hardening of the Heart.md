@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+The ungiven *heart to know* of 29:4 is answered by Yahweh's promise to circumcise the heart (6). Israel's return in verse 2 comes before that promise in the text; whether it is cause or effect of divine renewal is not settled.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Witnessed signs coexist with the absence of a divinely given knowing heart (2–4). The warning also holds the stubborn apostate responsible (18–21). The tension between divine gift and human responsibility is stated, not resolved by equating verse 4 with a deliberate hardening act.
@@ -149,6 +155,8 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:1; the passage 
 sources and interpretive limits.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

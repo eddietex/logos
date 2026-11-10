@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Return begins when Israel *shall call them to mind among all the nations* (1). Memory of blessing and curse in exile is the first step back to Yahweh.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Egypt’s signs, forty years of preserved clothing, and the victories over Sihon and Og ground the present summons (2–9). Remembered experience does not itself guarantee understanding (4).
@@ -642,6 +648,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

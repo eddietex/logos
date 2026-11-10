@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Not named; *the land which your fathers possessed* (5) is the promised land in context. Moses speaks of Israel being driven from it and brought back to possess it again, both before Israel has entered it.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The devastated and abandoned land of verses 22–28 is the promised land in context; Canaan is not named. Exile is explained as covenant abandonment and rival worship, not failed divine ownership.
@@ -399,6 +405,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

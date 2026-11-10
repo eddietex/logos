@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Moses, still addressing the assembly in Moab, speaks of exile and return as a future already in view (1–10). He narrates no new action; the commands are *all that I command you today* (2, 8).
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Moses summons all Israel to the covenant in Moab (1–2). His speech joins remembered rescue, an inclusive assembly, warnings against secret apostasy, and the duty to do the revealed law.
@@ -1804,6 +1810,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

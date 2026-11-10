@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:6.
 
 - **Genesis 17:14** — *"The uncircumcised male who is not circumcised in the flesh of his foreskin,
   that soul shall be cut off from his people. He has broken my covenant."* The literal sense, and the
@@ -35,7 +36,7 @@ tags: [connection]
 
 ### The requirement now ingested
 
-Deuteronomy 10:16 is now ingested in its setting of wholehearted service and love for foreigners. Its heart image is paired with the command to cease being stiff-necked. Deuteronomy 30:6 is verified in stored WEB, though still awaiting ingestion; its divine promise must be distinguished from the command here. These additions concern the English WEB wording, without a new source-language claim.
+Deuteronomy 10:16 is now ingested in its setting of wholehearted service and love for foreigners. Its heart image is paired with the command to cease being stiff-necked. Deuteronomy 30:6 is now ingested in [[Return Restoration and the Circumcised Heart]]; its divine promise must be distinguished from the command here. These additions concern the English WEB wording, without a new source-language claim.
 
 Source: stored WEB Deuteronomy 10:12–22; Deuteronomy 30:6.
 

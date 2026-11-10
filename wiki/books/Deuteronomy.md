@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Return Restoration and the Circumcised Heart]] (30:1–10) looks past the curses to exile among the nations,
+return with all the heart and soul, and gathering back to the land. Yahweh promises to circumcise
+the heart of Israel and its offspring, answering the ungiven heart of 29:4, and to rejoice over
+Israel for good again, reversing 28:63. The unit still closes with *if you turn*.
+
 [[The Covenant in Moab and the Hidden Things]] (29:1–29) gathers the inclusive assembly into the Moab covenant.
 Witnessed signs coexist with an ungiven knowing heart; presumptuous apostasy brings judgment,
 and the ruined land becomes a warning to later observers. Hidden things remain God’s; revealed
@@ -361,7 +366,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
+Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 
 - [x] [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
 - [x] [[Leave Horeb and Possess the Land]] — Deuteronomy 1:6–8
@@ -422,7 +427,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14
 - [x] [[Curses for Disobedience]] — Deuteronomy 28:15–68
 - [x] [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29
-- [ ] Return Restoration and the Circumcised Heart — Deuteronomy 30:1–10
+- [x] [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10
 - [ ] The Word Is Near and the Choice Is Life — Deuteronomy 30:11–20
 - [ ] Be Strong as Joshua Takes the Lead — Deuteronomy 31:1–8
 - [ ] Read the Law to All Israel — Deuteronomy 31:9–13

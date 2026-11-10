@@ -113,8 +113,8 @@ and this ethic should remain visible rather than be flattened into one universal
 Circumcising the heart is paired with ceasing to be stiff-necked (16), answering the diagnosis
 in [[Not Because of Your Righteousness]]. The passage does not reject the bodily sign of
 Genesis 17. Its contrast with the promise of divine heart-circumcision in Deuteronomy 30:6
-is discussed in [[Circumcision of the Heart]]; that later text is verified in the stored WEB,
-but its pericope has not been ingested. Neither verse explicitly supplies a theory resolving
+is discussed in [[Circumcision of the Heart]]; that later text is now ingested in
+[[Return Restoration and the Circumcised Heart]]. Neither verse explicitly supplies a theory resolving
 human responsibility and divine action.
 
 ### Remembering Egypt in two ways
@@ -128,3 +128,8 @@ scope of divine ownership rather than new geographical sites requiring place pag
 Sources: stored WEB Deuteronomy 10:12–22 and 30:6; Genesis 15:5, 46:26–27;
 Exodus 1:5, 22:21–22, 23:9; Leviticus 19:33–34. No new quotation from an unstored book
 or assertion about exact Hebrew or Greek wording is introduced. Planned boundary retained.
+
+### Deuteronomy 30 comparison
+
+[[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:6 makes Yahweh the one who circumcises the heart that 10:16 commanded Israel
+to circumcise. See [[Circumcision of the Heart]]. Source: stored WEB Deuteronomy 10:16 and 30:6.

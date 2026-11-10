@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+After both blessing and curse have *come on you* (1), return and restoration follow, leading to keeping what is *written in this book of the law* (10). The sanctions are not the covenant's last word, yet the unit closes with *if*.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The Moab covenant is additional to Horeb (1), grounded in the ancestral oath (13), and embraces those present and absent (14–15). Belonging includes women, children, and resident foreigners (10–11); it gives no immunity to secret apostasy.
@@ -531,6 +537,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

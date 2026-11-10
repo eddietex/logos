@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - **Genesis 17:10–14** — the rite itself: *"You shall be circumcised in the flesh of your foreskin.
   It will be a token of the covenant between me and you"*, with a sanction for the man who is not
@@ -37,9 +38,9 @@ tags: [connection]
 
 ### The requirement now ingested
 
-Verse 16 now stands in its ingested setting: after restored tablets, the chosen people must cease being stiff-necked. Love, obedience, and care for foreigners supply the practical content (12–19). Deuteronomy 30:6, verified in the stored WEB but not yet ingested, promises that God will circumcise the heart so the people may love him and live. Command and promise have different agents and settings; neither verse alone explains how those agencies relate.
+Verse 16 now stands in its ingested setting: after restored tablets, the chosen people must cease being stiff-necked. Love, obedience, and care for foreigners supply the practical content (12–19). Deuteronomy 30:6, now ingested in [[Return Restoration and the Circumcised Heart]], promises that God will circumcise the heart so the people may love him and live. Command and promise have different agents and settings; neither verse alone explains how those agencies relate.
 
-Source: stored WEB Deuteronomy 10:12–22; Deuteronomy 30:6.
+Source: stored WEB Deuteronomy 10:12–22; Deuteronomy 30:1–10.
 
 **The metaphor is not a New Testament invention and it is not a rejection of the rite.** It begins in
 the Torah, in the same books that command circumcision in the flesh, and it works by taking the

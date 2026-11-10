@@ -24126,3 +24126,37 @@ Validation: scripts/link-check.sh passed, with no wrapped links or unexpected da
 and 57 expected not-yet-started book pages. Frontmatter totals: 384 passages, 257 people,
 224 places, 87 themes, 784 connections. New titles and their category rows are unique;
 git diff --check passed. No unresolved ingestion blocker.
+
+## [2026-11-10] ingest | Deuteronomy 30.1-10 — Return Restoration and the Circumcised Heart
+
+Ingested [[Return Restoration and the Circumcised Heart]] in auto mode, keeping the planned
+30:1–10 boundary and title. After blessing and curse, Israel calls them to mind among the nations
+and returns; Yahweh releases, gathers even from *the uttermost parts of the heavens*, brings Israel
+back to the land, and circumcises the heart of Israel and its offspring to love him. The curses pass
+to enemies, and Yahweh will *again rejoice over you for good*. The unit closes on *if*.
+
+Created two pages: the passage, and the connection
+[[Return and Rejoice Again - Deuteronomy 4.29-31, 28.63, and 30.1-10]], filed under R in O–S.
+Revised two people (God, Moses), one place (Canaan, as a contextual identification), sixteen
+themes, five existing connections (Circumcision of the Heart, Uncircumcised Lips, If They Confess,
+Captivity of Job, Seen Signs), four related Deuteronomy passages, the book overview and checklist
+(also correcting the stale "53 / 69" plan count to 60 / 69), the books index, the People F–M and
+subindex, the places and themes indexes, four connection subindexes, and the
+dashboard. Stale "not yet ingested" labels for Deuteronomy 30 were replaced where found.
+
+Judgment calls: no place page for the unnamed lands of exile; the fathers of verses 5 and 9 are
+unnamed, so no patriarch pages were touched. The order of human return and divine heart change
+(2, 6, 8, 10) is recorded as unresolved. *Uttermost parts of the heavens* is read as hyperbole and
+labeled as interpretation. Nehemiah 1:8–9, Jeremiah 31:31–34, and Ezekiel 36:24–27 are cited by
+reference and paraphrase only; none is stored or quoted, and no dependence is claimed.
+
+Sources: every quoted verse was mechanically compared with stored WEB Deuteronomy (30:1–10; 4:29–32;
+6:5; 10:16; 28:4, 11, 63–64; 29:4, 15). Hebrew claims (the sevenfold *šûb* in 30:1–10, *śûś* in
+28:63 and 30:9, *qəlālâ* in 30:1 vs *ʾālâ* in 30:7 and 29:19–20, *šûb šəbût* in 30:3) were checked
+against the Open Scriptures WLC (morphhb, GitHub) Strong's tags, retrieved 2026-11-10, and are
+qualified on the page as resting on that tagging. Raw texts, instructions, and controller files
+unchanged. Agent: Claude (Opus 5.5).
+
+Validation: scripts/link-check.sh passed, no wrapped or unexpected dangling links, 57 expected
+not-yet-started book pages. Frontmatter totals: 385 passages, 257 people, 224 places, 87 themes,
+785 connections. git diff --check passed. Deuteronomy stands at 60 / 69. No unresolved blocker.

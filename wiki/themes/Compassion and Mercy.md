@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Yahweh will *release you from captivity, have compassion on you* (3), as 4:31 promised that he is *a merciful God*. Compassion follows the curses that 28:63 described without withdrawing them.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The fallen animal and the mother bird — Deuteronomy 22:4–7
 
 *"You shall surely help him to lift them up again"* (4): the finder works *"with him"* (*ʿimmô*,
@@ -400,6 +406,8 @@ same chapter the guilty man's beating is capped so that *"your brother"* is not 
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; refuge for the accident (3–5); *"your eye shall not pity him"* (13).
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Israel is driven *among all the nations* (1) and gathered *from all the peoples* (3). The curses pass to Israel's enemies (7); the nations here are places of exile and sources of persecution, not observers as in 29:24.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Israel has encountered other nations’ idols (16–18); later nations ask why Yahweh devastated Israel’s land (24–28). Their question receives a covenant explanation rather than an account of Yahweh’s defeat.
@@ -403,6 +409,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

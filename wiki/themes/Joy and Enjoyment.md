@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+*Yahweh will again rejoice over you for good, as he rejoiced over your fathers* (9). This reverses 28:63, where he would *rejoice over you to cause you to perish*; the same verb *śûś* is tagged in both in the WLC (morphhb).
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Verses 47–48 contrast joyful service in abundance with enemy service in deprivation. They address covenant ingratitude, not a general accusation against those who experience grief or cannot feel cheerful.
@@ -309,6 +315,8 @@ foreigner, who has no Israelite father to recite about, is at the meal. See [[Fi
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

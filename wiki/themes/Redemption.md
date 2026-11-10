@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Release from captivity and gathering *from all the peoples* (3–4) repeat the exodus pattern, with the nations in place of Egypt; Yahweh then brings Israel into the land (5).
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### "Whom you have redeemed" — Deuteronomy 21:8
 
 The elders ground their petition in redemption: *"your people Israel, whom you have redeemed"* (8),
@@ -305,6 +311,8 @@ The *gōʾēl* appears in a narrower role than at Leviticus 25:25: the relative 
 See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 

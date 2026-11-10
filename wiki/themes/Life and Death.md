@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Heart-circumcision is given *that you may live* (6). The phrase prepares the choice between *life and death* that follows in 30:15–20.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### That you may prolong your days — Deuteronomy 22:6–8
 
 The law of the nest ends *"that it may be well with you, and that you may prolong your days"* (7),
@@ -881,6 +887,8 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"flee … and live"* (5); *"not worthy of death"* (6); *"that he may die"* (12).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; days multiplied *"as the days of the heavens above the earth"* (21).

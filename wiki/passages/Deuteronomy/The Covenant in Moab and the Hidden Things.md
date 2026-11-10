@@ -169,3 +169,9 @@ itself, not merely its neighbors. Canaan is a contextual identification, not a n
 in stored WEB Deuteronomy 4:35–39, Genesis 19:24–25, and Proverbs 25:2–3. No new external
 quotation or exact Hebrew/Greek claim is introduced. Existing connection pages retain their
 prior linguistic source attributions; these are not represented as newly verified here.
+
+### Deuteronomy 30 comparison
+
+[[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:6 promises the heart that 29:4 says has not been given *to this day*.
+See [[Seen Signs and an Unknowing Heart - Deuteronomy 4 and 29]]. Source: stored WEB Deuteronomy 29:4
+and 30:6.

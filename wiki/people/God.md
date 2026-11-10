@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Yahweh has driven and scattered Israel (1, 3), and promises to release, have compassion, and gather even from *the uttermost parts of the heavens* (3–5). He will circumcise the heart of Israel and its offspring to love him (6), answering the ungiven heart of 29:4, and will *again rejoice over you for good* (9), reversing his rejoicing to destroy in 28:63.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Yahweh establishes Israel as his people by oath (12–13), yet has not given a knowing heart to this day (4). He judges the self-assured apostate (20–21); hidden things belong to him while revealed law belongs to the community (29).
@@ -3716,6 +3722,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

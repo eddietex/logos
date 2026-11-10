@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40, especially 35, 39.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:2–9, 18–21.
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10, especially 6.
 
 ## Analysis
 
@@ -25,6 +26,15 @@ proof that every witness already understands, would flatten one of the two witne
 
 Sources: stored WEB Deuteronomy 4:35–39 and 29:2–9, 18–21. This comparison rests on the WEB
 rendering and makes no claim about exact source-language wording.
+
+### The heart promised — Deuteronomy 30
+
+[[Return Restoration and the Circumcised Heart]] answers 29:4 directly: *Yahweh your God will circumcise your heart, and the heart of your
+offspring, to love Yahweh your God* (30:6). The heart not given *to this day* is promised for after
+exile. The same chapter still has Israel return and obey before restoration (30:2) and closes with
+*if you turn* (30:10), so the tension recorded above is carried forward rather than removed.
+
+Source: stored WEB Deuteronomy 29:4 and 30:1–10.
 
 ## Significance
 

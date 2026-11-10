@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+*All these curses* that fell on Israel (1) are put on its enemies and persecutors (7). Verse 7 uses a different noun from verse 1's *the curse* in the WLC (morphhb) tags; the English does not show it.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The person who hears the curse and inwardly claims peace is singled out for the book’s sanctions (19–21). The national devastation that follows exposes the emptiness of that private self-blessing.
@@ -293,6 +299,8 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

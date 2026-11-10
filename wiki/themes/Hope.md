@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Return and the circumcised heart — Deuteronomy 30:1–10
+
+Deuteronomy's fullest promise of return after exile, spoken before Israel has entered the land (1–10). It extends 4:29–31 with return to the land and a changed heart.
+
+See [[Return Restoration and the Circumcised Heart]]. Source: stored WEB Deuteronomy 30:1–10.
+
 *Tiqvâ* — from *qāwâ*, to wait, and related to a noun meaning *cord*. Hope in the Hebrew Bible is
 not optimism about probabilities; it is a line thrown out and held onto, expectation directed at
 someone. That is why it can be described spatially, as something that has a place and can be cut
@@ -168,6 +174,8 @@ See [[One Event Comes to All]]. Source: stored WEB Ecclesiastes 9:1–12; compar
 are identified on the passage and connection pages.
 
 ## Key passages
+
+- [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
