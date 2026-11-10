@@ -7,10 +7,12 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
+
 - [[Set These Words Before You]] — Deuteronomy 11:29–30; *"you shall set the blessing on Mount
   Gerizim, and the curse on Mount Ebal"*, with the two mountains located by Gilgal and the oaks of
   Moreh.
-- **Deuteronomy 27:1–26** *(stored WEB, not yet ingested)* — plastered stones with the law written
+- **Deuteronomy 27:1–26** *(stored WEB; 1–10 now ingested, 11–26 pending)* — plastered stones with the law written
   on them and an altar of uncut stones on Ebal (2–8); six tribes on Gerizim *"to bless the people"*,
   six on Ebal *"for the curse"* (12–13); the Levites pronounce twelve curses, each answered
   *"Amen"* (14–26).
@@ -58,12 +60,23 @@ The phrase *"near Gilgal"* in the same verse is a difficulty. Joshua's Gilgal is
 border of Jericho"* (Joshua 4:19, verified WEB), well south of the mountains. The wiki leaves the
 question open; see [[Gilgal]].
 
+### The ceremony commanded, not yet performed — Deuteronomy 27:1–10
+
+The first unit of chapter 27, verses 1–10, is now ingested. Moses and the elders prescribe
+stones and an altar after the crossing, and Moses with the priests addresses Israel's present
+belonging. Ebal receives both law and joyful worship (4–8), although 11:29 associates it with
+the curse. The text does not explain that combination as the offerings removing the curses.
+The tribal arrangement and responsive curses in 27:11–26 remain the next un-ingested unit;
+Joshua's narrated implementation is also distinct from this command.
+
+Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
+
 ## Significance
 
 Deuteronomy 11 sets a blessing and a curse before Israel as words (26–28) and then gives them a
 place (29). The choice is to be staged on the actual ground of the land, between two visible
 mountains. Joshua 8 shows the generation that crossed doing exactly that, with foreigners, women,
-and little ones present (Joshua 8:35). The ingest of Deuteronomy 27 and of Joshua will revisit this
+and little ones present (Joshua 8:35). The remaining unit of Deuteronomy 27 and the future Joshua ingest will revisit this
 page.
 
 Sources: stored WEB Deuteronomy 11:26–30, 27:1–26; Genesis 12:6–7. Joshua 4:19 and 8:30–35 verified

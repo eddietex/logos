@@ -23974,3 +23974,34 @@ speaker and Israel is treated collectively. All quotations and comparisons use s
 no unstored-book quotation or source-language assertion was added. Raw sources were unchanged.
 
 Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets.
+
+## [2026-11-10] ingest | Deuteronomy 27.1-10 — Stones and an Altar on Mount Ebal
+
+Ingested exactly the next planned pericope in auto mode, retaining the 1–10 boundary.
+Created one passage page with the complete unit copied from stored WEB. Revised two people
+(God, Moses), three places (Mount Ebal, The Jordan, Canaan), and seven themes (Covenant,
+Law and Obedience, Call and Election, Sacrifice and Offering, Joy and Enjoyment, Priesthood,
+Land and Sojourning), each with synthesis and a passage-list entry. The unnamed elders and
+Levitical priests remain collective speakers, not newly invented individuals; they are not
+identified with the seventy elders or with a named priest.
+
+Updated five existing connections: the uncut-stone altar, Gerizim and Ebal, holy possession,
+the chosen place versus every place, and rejoicing before Yahweh. No duplicate connection
+was created. Updated affected category rows, the book overview and queue, books index
+(55 / 69), and dashboard (380 passages; other category counts unchanged).
+Total: one new page and 27 revised pages, including indexes and this log.
+
+The passage preserves the tension between earlier belonging and today's becoming, and between
+the chosen-place restriction and the commanded Ebal altar. Reaffirmation and a specially
+authorized ceremony are presented as readings, not explicit harmonizations. The relation of
+the inscribed stones to the altar stones and the exact extent of the inscription remain
+unspecified. No archaeological identification or atonement typology is asserted. The ceremony
+is commanded, not narrated as completed; 27:11–26 remains un-ingested.
+
+Sources: stored WEB Deuteronomy 27:1–10; 7:6; 11:29; 12:13–14; 26:16–19 and Exodus 20:24–26;
+27:1–8. The ten quoted verses were mechanically compared with raw text. No new quotation from
+an unstored book or exact source-language claim was introduced; existing sourced Joshua
+comparisons were retained. Raw texts, workflow instructions, and controller files were unchanged.
+
+Validation: scripts/link-check.sh passed, with no wrapped links or unexpected dangling targets
+(57 not-yet-started book pages remain the expected baseline). Counts were checked by frontmatter.

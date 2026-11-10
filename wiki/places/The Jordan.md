@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+The crossing is the temporal threshold for setting up the stones and altar (2–4).
+Israel is still being instructed about what to do after crossing; no crossing is narrated.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### The crossing that starts the rule — Deuteronomy 12:1–28
 
 Once Israel goes over the Jordan and has rest from its enemies, all offerings go to the one chosen place (10–11). The crossing marks when the rule of the place takes full effect.
@@ -185,6 +192,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the crossing after which the chosen place governs worship (10).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the river still to be crossed; *"beyond the Jordan"* here means the west (30–31).

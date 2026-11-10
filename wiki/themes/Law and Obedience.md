@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+The law must be written plainly on plastered stones (2–4, 8), while the people must listen
+and obey (9–10). Visible inscription serves enacted obedience; the unit does not specify
+the exact extent of the law to be inscribed or report the inscription completed.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 The law code concludes with keeping and doing the statutes wholeheartedly (16). Walking
@@ -1261,6 +1269,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+At Ebal an altar of uncut stones untouched by iron receives burnt and peace offerings
+(5–7); eating and rejoicing accompany the latter. The crafted sanctuary altar of Exodus 27
+and Deuteronomy 12's chosen-place restriction remain distinct prescriptions. This command
+does not expressly reconcile them or identify the Ebal meal as atonement for the curses.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Baal Peor — Numbers 25:1–18
 
 The opening sacrifices are to foreign gods, and Israel eats and bows (2). The later atonement
@@ -730,6 +739,8 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; offerings only at the chosen place; meat at home.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+The land, unnamed as Canaan in these verses, is described as Yahweh's gift and the fulfillment
+of his promise to the fathers (2–3). The law is to be inscribed there after the Jordan crossing;
+receiving the land does not remove the duty of obedience.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Living in the nations' land — Deuteronomy 12:29–13:18
 
 Unnamed, the land is where Israel will *"dwell in their land"* after the nations are cut off (12:29), and its towns are *"your cities, which Yahweh your God gives you"* (13:12). A town in it drawn to other gods is to be devoted and left *"a heap forever"* (13:16).
@@ -372,6 +380,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the nations' shrines destroyed and one place chosen (not named).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the land in which the blessing and curse are to be set (29–31).

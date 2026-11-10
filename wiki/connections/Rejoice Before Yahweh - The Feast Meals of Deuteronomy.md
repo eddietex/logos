@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
+
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:7, 12, 18: *"you shall rejoice in all that you
   put your hand to, you and your households"* (12:7); *"You shall rejoice before Yahweh your God: you,
   and your sons, your daughters, your male servants, your female servants, and the Levite who is
@@ -21,7 +23,7 @@ tags: [connection]
   Yahweh your God has given to you, and to your house, you, and the Levite, and the foreigner who is
   among you"*.
 - Deuteronomy 27:7 — on Mount Ebal: *"You shall sacrifice peace offerings, and shall eat there. You
-  shall rejoice before Yahweh your God"*; not yet ingested.
+  shall rejoice before Yahweh your God"*; see [[Stones and an Altar on Mount Ebal]].
 
 ## Analysis
 
@@ -68,6 +70,16 @@ cult outside Deuteronomy: *"in the day of your gladness, and in your set feasts"
 Exodus 23 and 34 and Numbers 28–29 give dates, appearances, and offerings, without a command to
 rejoice. The claim is limited to the Torah. How the theme continues in the historical books
 and the Psalms is left until those are ingested.
+
+### The meal at Ebal — Deuteronomy 27:1–10
+
+Deuteronomy 27:7 is now ingested with its setting in 27:1–10. Peace offerings, eating, and
+rejoicing are commanded beside the inscribed law and the altar of uncut stones. Unlike the
+harvest-feast provisions, the unit supplies no calendar date for annual recurrence and no
+detailed guest list. Its occasion is entry after the Jordan crossing. The connection is the
+command to rejoice before Yahweh, not a claim that this is another annual harvest festival.
+
+Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
 
 ## Significance
 

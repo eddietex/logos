@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
+
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Crafted altar made; no earth filling stated (38:1–7).
 
 - **Exodus 20:24–26** — an altar of earth, or of stones that no tool has touched, and no steps —
   [[The Altar and the Hebrew Slave]]
 - **Deuteronomy 27:5–7** — the altar to be built on Mount Ebal after the crossing of the Jordan
-  *(not yet ingested)*
+  — [[Stones and an Altar on Mount Ebal]]
 - **Joshua 8:30–31** — Joshua builds it *"as it is written in the book of the law of Moses"*
   *(not yet ingested)*
 - **Exodus 27:1–8** — the tabernacle's altar of acacia wood and bronze, a different provision —
@@ -61,6 +63,17 @@ remain a contextual explanation, not an express distinction supplied in chapter 
 
 See [[The Altar, the Basin, the Court, and the Inventory]]. Source: the cited Exodus passages
 checked in local raw WEB, 2026-10-25.
+
+### A named site for the altar — Deuteronomy 27:1–10
+
+Deuteronomy 27:1–10 is now ingested. The altar instruction belongs within a larger command
+for plastered stones bearing the law (2–4, 8), followed by the summons to hear and obey (9–10).
+The altar's stones must be uncut and untouched by iron (5–6); the meal and joy follow peace
+offerings (7). The text does not expressly identify the inscribed stones with the altar stones.
+Exodus 20:24–26 supplies the earlier material and offering parallel, but does not specify Ebal.
+The crafted sanctuary altar remains a different prescription, as noted above.
+
+Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
 
 ## Significance
 

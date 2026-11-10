@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[Stones and an Altar on Mount Ebal]] (27:1–10) moves from the law code to instructions for entry:
+plastered inscribed stones, an uncut-stone altar, offerings, and rejoicing on Ebal. Moses speaks
+with elders and then priests; present belonging grounds obedience, while the ceremony remains
+commanded for after the crossing.
+
 [[A People for Yahweh and a God for Israel]] (26:16–19) closes the law code with reciprocal
 declarations: Israel acknowledges Yahweh and undertakes obedience, and Yahweh declares Israel
 his possession. Wholehearted keeping of the commands accompanies the promise of honor among
@@ -392,7 +397,7 @@ Plan drawn 2026-11-05 from the stored WEB. **53 / 69 pericopes ingested.**
 - [x] [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19
 - [x] [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15
 - [x] [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19
-- [ ] Stones and an Altar on Mount Ebal — Deuteronomy 27:1–10
+- [x] [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10
 - [ ] The People Answer Amen to the Curses — Deuteronomy 27:11–26
 - [ ] Blessings for Obedience — Deuteronomy 28:1–14
 - [ ] Curses for Disobedience — Deuteronomy 28:15–68

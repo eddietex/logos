@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
+
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19.
 
 - [[Israel at Mount Sinai]] — Exodus 19:4–6.
@@ -57,6 +59,17 @@ there is no need to posit a new identity unrelated to the earlier promise.
 
 Source: stored WEB Exodus 19:5–6 and Deuteronomy 7:6–11; 14:2; 26:16–19.
 This comparison concerns the verified English texts, not a source-language identity claim.
+
+### Today you have become the people — Deuteronomy 27:1–10
+
+Deuteronomy 27:9–10 follows the ceremony instructions with a declaration by Moses and the
+Levitical priests: Israel has become Yahweh's people today, and must therefore obey. This
+present becoming sits beside the already affirmed status of 7:6 and 26:18. The temporal
+emphases differ; the later statement must not erase the earlier one. Reading it as covenant
+reaffirmation makes sense in context, but is an interpretation rather than an explicit
+explanation of the tense. Belonging remains the ground of obligation.
+
+Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
 
 ## Significance
 

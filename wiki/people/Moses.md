@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+Moses shares the command with Israel's elders (1), then the call to listen with the Levitical
+priests (9–10). He prescribes stones, inscription, altar, and offerings after the crossing;
+he is not narrated building the altar himself.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 Moses brings the law code to its conclusion by declaring the reciprocal commitments of
@@ -1770,6 +1778,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

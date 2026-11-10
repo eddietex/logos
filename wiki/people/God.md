@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+Yahweh gives the land promised to the ancestors (2–3), receives burnt and peace offerings
+and rejoicing (5–7), and is the God whose people Israel is declared to have become (9).
+Belonging calls for hearing his voice and doing his commands (10).
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 Yahweh commands wholehearted obedience and declares Israel his own possession (16–18).
@@ -3682,6 +3690,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

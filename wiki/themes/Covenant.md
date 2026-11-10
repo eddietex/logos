@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+Written law, offerings, and a meal accompany the commanded ceremony in the land (2–8).
+The declaration that Israel has become Yahweh's people today (9) grounds obedience (10).
+This present becoming stands beside already declared belonging in 7:6 and 26:18; reading
+it as reaffirmation preserves both statements rather than replacing the earlier election.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 Israel declares Yahweh its God, while Yahweh declares Israel his own possession (17–18).
@@ -496,6 +505,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

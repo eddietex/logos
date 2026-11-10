@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+The promised fertile land is Yahweh's gift (2–3). Crossing into it brings the task of
+inscribing the law and worshiping at Ebal, joining possession to covenant responsibility
+rather than treating arrival as an end to obligation.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### A foreigner in Egypt remembered — Deuteronomy 23:7
 
 *"You shall not abhor an Egyptian, because you lived as a foreigner in his land"* (7). The sojourn is
@@ -725,6 +733,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the land in three parts (3), enlarged (8), and its blood guilt (10).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"not yet come to the rest and to the inheritance"* (9).

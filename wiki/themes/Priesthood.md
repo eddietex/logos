@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+The Levitical priests speak with Moses to all Israel, calling for silence, listening,
+and obedience grounded in belonging to Yahweh (9–10). This is a teaching role; the unit
+does not name an individual priest or narrate a priest performing the future sacrifices.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Present and silent at the valley — Deuteronomy 21:5
 
 *"The priests the sons of Levi shall come near"* (5), and the verse states why — chosen *"to minister to
@@ -689,6 +697,8 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; the landless Levite at the feast (12, 18–19).
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

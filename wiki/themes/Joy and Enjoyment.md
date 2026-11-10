@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+Eating peace offerings and rejoicing before Yahweh are commanded at Ebal (7). The mountain
+assigned the curse in 11:29 is also a place of joyful worship. No guest list is supplied
+here, unlike the detailed lists in the feast instructions.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 Mirth, pleasure, rejoicing, and the enjoyment of what one has and does. The page is opened with
 Ecclesiastes, where enjoyment is tested, judged, and repeatedly commended, and where the
 question is not whether joy is real but what it yields. Earlier material on gladness in Genesis,
@@ -294,6 +302,8 @@ foreigner, who has no Israelite father to recite about, is at the meal. See [[Fi
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"you shall rejoice"* before Yahweh with the household (7, 12, 18).
 - [[The Feast of Booths]] — Leviticus 23:33–44.

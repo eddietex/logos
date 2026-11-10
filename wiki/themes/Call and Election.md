@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Stones and an altar — Deuteronomy 27:1–10
+
+Israel is declared to have become Yahweh's people today (9), alongside the earlier chosen
+status of 7:6 and possession declaration of 26:18. The temporal difference is retained;
+a covenant reaffirmation reading is possible, but the verse does not cancel earlier belonging.
+
+See [[Stones and an Altar on Mount Ebal]]. Source: stored WEB Deuteronomy 27:1–10.
+
 ### Belonging and obedience — Deuteronomy 26:16–19
 
 Yahweh declares Israel his own possession as promised (18), with obedience included in
@@ -241,6 +249,8 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.
 

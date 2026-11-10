@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
+
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24: *"You shall make an altar of earth for me …
   In every place where I record my name I will come to you and I will bless you."*
 - [[The Place of Sacrifice and the Life in the Blood]] — Leviticus 17:3–9, 13–14: every bull,
@@ -61,6 +63,17 @@ decide between them.
 **What all three keep.** None allows sacrifice to any god but Yahweh (Exodus 20:23; Leviticus
 17:7; Deuteronomy 12:2–4). Leviticus and Deuteronomy agree that blood is not eaten, because it is
 the life (Leviticus 17:11, 14; Deuteronomy 12:23).
+
+### The expressly commanded altar on Ebal — Deuteronomy 27:1–10
+
+Deuteronomy 27:4–7 names Ebal as the site for an altar, burnt offerings, peace offerings,
+and a meal. Deuteronomy 12:13–14 prohibits burnt offerings wherever the worshiper sees fit
+and directs them to the chosen place. Both prescriptions stand: 27 does not identify Ebal
+as that permanent center, mention a relocation of the sanctuary, or expressly reconcile the
+rules. A specifically authorized entry ceremony can explain the distinction, but this remains
+a contextual reading. The command does not authorize unrestricted local altars.
+
+Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
 
 ## Significance
 
