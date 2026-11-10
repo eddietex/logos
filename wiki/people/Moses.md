@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Choose life — Deuteronomy 30:11–20
+
+Moses closes the covenant address in Moab by setting *life and death, the blessing and the curse* before Israel, calling heaven and earth as witnesses as at 4:26, and commanding *choose life* (15–19).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Moses, still addressing the assembly in Moab, speaks of exile and return as a future already in view (1–10). He narrates no new action; the commands are *all that I command you today* (2, 8).
@@ -1811,6 +1817,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

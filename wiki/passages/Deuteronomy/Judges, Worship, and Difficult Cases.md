@@ -143,8 +143,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:14; *"Is anything too hard for
   Yahweh?"*, the same verb and form as 17:8. See
   [[The Case Too Hard - Exodus 18, Deuteronomy 1.17, and Deuteronomy 17.8]].
-- Deuteronomy 30:11 — *"this commandment which I command you today is not too hard for you"*; not yet
-  ingested.
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11; *"this commandment which I command you today is not too hard
+  for you"*.
 - Deuteronomy 18:20–22 — the prophet who speaks *"presumptuously"*; the only other use of the noun
   *zādôn* in the Torah. Not yet ingested.
 - 2 Chronicles 19:5–11 — Jehoshaphat sets judges in the cities and a court of priests, Levites, and

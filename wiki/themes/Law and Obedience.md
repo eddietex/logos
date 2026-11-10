@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Not too hard — Deuteronomy 30:11–20
+
+The command *is not too hard for you or too distant* (11): not in heaven, not beyond the sea, but *very near … in your mouth and in your heart, that you may do it* (14). Doable law is the premise of the choice that follows (15–20). Paul reads the passage of *the word of faith* (Romans 10:6–8).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Obedience comes before restoration (2) and again after the circumcised heart (8), and the unit closes on the conditions *if you will obey* and *if you turn* (10). Law is now explicitly *written in this book of the law* (10).
@@ -1302,6 +1308,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Choose life — Deuteronomy 30:11–20
+
+Not named; *the land which Yahweh swore to your fathers* (20) is the promised land in context. Life is to live and multiply there (16); death is not to prolong days there (18).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Not named; *the land which your fathers possessed* (5) is the promised land in context. Moses speaks of Israel being driven from it and brought back to possess it again, both before Israel has entered it.
@@ -406,6 +412,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Choose life — Deuteronomy 30:11–20
+
+Named with Isaac and Jacob as the fathers to whom Yahweh swore the land (20). Ancestral remembrance, not presence.
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Named with Isaac and Jacob as a recipient of the oath underlying Israel’s establishment as Yahweh’s people (13). This is ancestral remembrance, not presence in Moab.
@@ -884,6 +890,7 @@ promise persists even when the terms of divine accompaniment are disputed. See
 
 ## Appears in
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

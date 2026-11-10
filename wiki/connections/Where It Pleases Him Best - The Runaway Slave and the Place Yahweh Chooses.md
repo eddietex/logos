@@ -19,7 +19,7 @@ tags: [connection]
   him best. You shall not oppress him."*
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:14: Yahweh walks in the camp *"to deliver
   you"*.
-- **Deuteronomy 30:19** *(stored, not yet ingested)* — *"Therefore choose life"*.
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:19; *"Therefore choose life"*.
 
 All WEB from `raw/bible/Deuteronomy.md`.
 

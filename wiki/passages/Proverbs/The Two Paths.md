@@ -73,7 +73,8 @@ Job's chapter is not a simple denial. See
 
 **Two ways.** The pericope is Proverbs' plainest statement of the two-ways teaching that has run
 under the book since 1:15 and 2:12–20: one road, one alternative, and nothing in between. It sits
-in a line with Deuteronomy 30:15–19, where Moses sets *"life and death"* before Israel, and with
+in a line with Deuteronomy 30:15–19, where Moses sets *"life and death"* before Israel (see
+[[The Word Is Near and the Choice Is Life]]), and with
 Psalm 1, which ends on *"the way of the righteous"* and *"the way of the wicked"* (1:6), and it
 reaches Matthew 7:13–14's broad and narrow ways. See
 [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]] and [[Walking with God]].

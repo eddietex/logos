@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Life on the far side — Deuteronomy 30:11–20
+
+Not prolonging days *in the land where you pass over the Jordan* is the penalty of apostasy (18), echoing 4:26. The verb *ʿābar* (WLC) is the one verse 13 uses for going *over the sea*; the crossing is still ahead.
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 The tribal ceremony is commanded for after Israel crosses the river (12). The crossing itself is not narrated in this unit.
@@ -200,6 +206,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 

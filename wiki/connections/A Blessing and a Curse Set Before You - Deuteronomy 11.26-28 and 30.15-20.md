@@ -9,7 +9,7 @@ tags: [connection]
 
 - [[Set These Words Before You]] — Deuteronomy 11:26–28; *"Behold, I set before you today a
   blessing and a curse"*: the blessing if Israel listens, the curse if it turns aside to other gods.
-- **Deuteronomy 30:15–20** *(stored WEB, not yet ingested)* — *"Behold, I have set before you today
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:15–20; *"Behold, I have set before you today
   life and prosperity, and death and evil"* (15); *"I have set before you life and death, the
   blessing and the curse. Therefore choose life"* (19); and to *"cling to him; for he is your life,
   and the length of your days"* (20).
@@ -42,6 +42,9 @@ made about the Hebrew verbs.
 
 The choice that 11:26 frames as a blessing and a curse becomes, by chapter 30, explicitly a choice
 of life or death. Read together, the two passages bracket the law code and the covenant ceremony.
-The wiki will revisit this page when Deuteronomy 30 is ingested.
+With Deuteronomy 30 now ingested, one further difference is visible: chapter 30 sets the choice
+directly after the promise that Yahweh will circumcise the heart *that you may live* (30:6), so
+*choose life, that you may live* (30:19) shares its purpose clause with that promise. Chapter 11 has no
+such promise beside it. See [[Return Restoration and the Circumcised Heart]].
 
 Sources: stored WEB Deuteronomy 4:26, 11:21–28, 30:15–20.

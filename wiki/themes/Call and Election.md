@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israel told to choose — Deuteronomy 30:11–20
+
+Yahweh is the usual chooser in Deuteronomy; here Israel is commanded *choose life* (*ûbāḥartā*, 19). The other non-divine chooser recorded so far is the runaway slave of 23:16.
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Stones and an altar — Deuteronomy 27:1–10
 
 Israel is declared to have become Yahweh's people today (9), alongside the earlier chosen
@@ -250,6 +256,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[A People for Yahweh and a God for Israel]] — Deuteronomy 26:16–19; belonging, obedience, and promised holiness.

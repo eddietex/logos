@@ -283,8 +283,9 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[The Crossing of the Sea]] — Exodus 14:24; Yahweh *"looked out"*.
 - [[The Covenant Between the Pieces]] — Genesis 15:13; *"They will afflict them"*.
 - Deuteronomy 26:16–19 *(stored, not yet ingested)* — the next pericope.
-- Deuteronomy 28:5, 17, 62; 30:18 *(stored, not yet ingested)* — the basket blessed and cursed;
-  *"few in number"*; *"I denounce to you today"*.
+- Deuteronomy 28:5, 17, 62; 30:18 — the basket blessed and cursed; *"few in number"*; *"I denounce
+  to you today"*. See [[Blessings for Obedience (Deuteronomy)]], [[Curses for Disobedience]], and
+  [[The Word Is Near and the Choice Is Life]].
 - Joshua 24:2–4; Hosea 9:4 *(not yet ingested; WEB checked at bible-api.com)*.
 
 ## Notes

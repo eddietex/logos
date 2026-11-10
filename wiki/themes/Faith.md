@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The word is near — Deuteronomy 30:11–20
+
+The passage does not use the word faith. It is listed because Romans 10:6–8 reads verses 12–14 as *the righteousness which is of faith* and *the word of faith, which we preach*. See [[The Word Is Near You - Deuteronomy 30.11-14 in Romans 10.6-8]].
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 At Kadesh, rebellion is described as neither believing Yahweh nor listening to his voice (23).
@@ -294,6 +300,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 
 

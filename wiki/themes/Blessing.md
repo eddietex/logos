@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+*That Yahweh your God may bless you in the land* (16); *the blessing* is set before Israel with *the curse*, and both are joined to life and death (19).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 The blessings of 28:4 and 28:11 return after exile: the fruit of body, livestock, and ground *for good* (9). Blessing is restored, not merely remembered.
@@ -519,6 +525,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

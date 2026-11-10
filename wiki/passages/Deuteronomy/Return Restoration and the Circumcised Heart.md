@@ -76,7 +76,7 @@ Source: stored WEB, Deuteronomy 30:1–10. Full unit copied verbatim.
 - [[Circumcision]] — *Yahweh your God will circumcise your heart, and the heart of your offspring* (6). Deuteronomy 10:16 commanded Israel to circumcise its own heart; here Yahweh is the one who acts. See [[Circumcision of the Heart]].
 - [[Hardening of the Heart]] — The ungiven *heart to know* of 29:4 is answered by a promise that Yahweh will act on the heart (6). The passage does not say how the commanded return of verse 2 relates to the promised circumcision of verse 6.
 - [[Love]] — The purpose of the circumcised heart is *to love Yahweh your God with all your heart, and with all your soul* (6), the words of the Shema's command (6:5).
-- [[Life and Death]] — Heart-circumcision is given *that you may live* (6), which sets up the choice of *life and death* in 30:15–20.
+- [[Life and Death]] — Heart-circumcision is given *that you may live* (6), which sets up the choice of *life and death* in 30:15–20, [[The Word Is Near and the Choice Is Life]].
 - [[Compassion and Mercy]] — Yahweh *will … have compassion on you* (3), as 4:31 promised that *Yahweh your God is a merciful God*.
 - [[Remembrance]] — Israel *shall call them to mind among all the nations* (1); return begins with remembering among the nations.
 - [[Redemption]] — Release from captivity and gathering from all peoples (3–4) repeat the pattern of the exodus with the nations in place of Egypt.
@@ -106,7 +106,8 @@ Source: stored WEB, Deuteronomy 30:1–10. Full unit copied verbatim.
 
 **Boundary.** The planned 30:1–10 boundary is kept. Verse 1 opens with *It shall happen, when*, a new
 time frame after the closing maxim of 29:29. Verse 11 turns from what Yahweh will do to the command
-itself, *not too hard for you or too distant*, which begins the next unit.
+itself, *not too hard for you or too distant*, which begins the next unit,
+[[The Word Is Near and the Choice Is Life]].
 
 **Seven times "return".** The Hebrew verb *šûb* (Strong's 7725) occurs seven times in these ten verses,
 by the Open Scriptures WLC (morphhb) Strong's tags: verse 1 (the causative form the WEB renders *call

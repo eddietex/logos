@@ -12,6 +12,9 @@ tags: [connection]
 - [[Out of the Whirlwind]] — Job 38:4–18.
 - [[I Repent in Dust and Ashes]] — Job 42:1–6.
 - John 3:12–13 — heavenly knowledge and the Son of Man; verified WEB, not yet ingested.
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:12; *"Who will go up for us to
+  heaven, and bring it to us …?"*, asked so that it can be dismissed. Romans 10:6–7 rereads the
+  question of Christ; see [[The Word Is Near You - Deuteronomy 30.11-14 in Romans 10.6-8]].
 
 ## Analysis
 
@@ -20,6 +23,8 @@ wind held in fists, waters in a garment, and the ends of the earth. Job 28:23–
 with God and links it to wind and water; Job 38:4–18 questions human knowledge of the earth’s
 foundations, sea, and breadth. Job finally acknowledges speaking beyond his understanding
 (42:3). These are parallels in subject and rhetorical form, not proof of literary dependence.
+Deuteronomy 30:12 asks the ascent question differently: no one needs to go up, because the command
+is already near (30:14). Agur's question stays open; Moses' is closed by its own answer.
 
 The voices differ. Agur asks questions after confessing his limits. In Job 38 God questions Job;
 in Job 42 Job answers God. Neither comparison warrants assigning Agur a revelation experience

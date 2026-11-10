@@ -11,7 +11,7 @@ tags: [connection]
 
 - **Deuteronomy 30:15, 19** — *"Behold, I have set before you today life and prosperity, and death
   and evil. … I have set before you life and death, the blessing and the curse. Therefore choose
-  life, that you may live, you and your descendants"* (not yet ingested)
+  life, that you may live, you and your descendants"* — [[The Word Is Near and the Choice Is Life]]
 - **Psalm 1:1, 6** — *"Blessed is the man who doesn't walk in the counsel of the wicked, nor stand
   on the path of sinners … For Yahweh knows the way of the righteous, but the way of the wicked
   shall perish."* (not yet ingested)

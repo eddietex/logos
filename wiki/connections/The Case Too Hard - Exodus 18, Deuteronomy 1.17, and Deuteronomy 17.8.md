@@ -17,8 +17,8 @@ tags: [connection]
   chooses"* (17:8).
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:14; *"Is anything too hard for
   Yahweh?"*
-- Deuteronomy 30:11 — *"For this commandment which I command you today is not too hard for you or
-  too distant."* Stored WEB; not yet ingested.
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11; *"For this commandment which I command you today is not too hard for
+  you or too distant."*
 - 2 Chronicles 19:8–11 — Jehoshaphat's court at Jerusalem, of Levites, priests, and heads of
   fathers' houses, with the chief priest over matters of Yahweh. Not yet ingested and not quoted.
 

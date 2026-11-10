@@ -37,6 +37,10 @@ tags: [connection]
   up to heaven, there will I bring them down."*
 - **Psalm 145:3; Isaiah 40:28** — *"his greatness is unsearchable"*; *"his understanding is
   unsearchable"* — *ʾên ḥēqer* again
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:12–13; the command *"is not in heaven"* and *"Neither is
+  it beyond the sea"*: the same far reaches, denied as the place of what Israel needs. Romans 10:6–8
+  reworks the pair as heaven and *"the abyss"*; see
+  [[The Word Is Near You - Deuteronomy 30.11-14 in Romans 10.6-8]].
 - **Romans 11:33** — *"Oh the depth of the riches both of the wisdom and the knowledge of God! How
   unsearchable are his judgments, and his ways past tracing out!"*
 - **Ephesians 3:18–19** — *"to comprehend with all the saints what is the width and length and height

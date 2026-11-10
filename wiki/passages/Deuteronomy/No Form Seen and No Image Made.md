@@ -192,9 +192,10 @@ seeking and Yahweh's remembering together without making one the cause of the ot
 Deuteronomy 30:1–5, these verses promise return *to Yahweh*, not
 explicitly a return to the land.
 
-**Heaven and earth as witnesses.** Moses calls them at 4:26 and again at 30:19 and 31:28 (stored WEB,
-not yet ingested). Here they witness a warning; at 30:19 they witness the choice between life and
-death.
+**Heaven and earth as witnesses.** Moses calls them at 4:26 and again at 30:19, in
+[[The Word Is Near and the Choice Is Life]], and at 31:28 (stored WEB, not yet ingested). Here they
+witness a warning; at 30:19 they witness the choice between life and death, and 30:17–18 repeats this
+unit's *drawn away* (19) and its threat of perishing and short days across the Jordan (26).
 
 **Sources and scope.** The planned boundary (4:15–31) and title are kept. Verse 15's *Be very careful*
 opens a new movement after the Horeb memory; verse 32's *For ask now of the days that are past* opens

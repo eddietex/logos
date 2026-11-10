@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+The way to death is a heart that turns away and is *drawn away* to *worship other gods, and serve them* (17), the phrase of 4:19. The verb (*nāḏaḥ*, WLC) is the one 30:1 and 30:4 use of Israel *driven* among the nations.
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 A hidden turning of any individual, household, or tribe toward other gods becomes a poisonous root (16–18). Future observers explain national ruin by abandoned covenant and worship of other gods (25–28).
@@ -422,6 +428,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

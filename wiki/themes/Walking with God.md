@@ -50,6 +50,12 @@ with God goes with not being destroyed.
 
 ## Development across Scripture
 
+### Walk in his ways and cling to him — Deuteronomy 30:11–20
+
+*To walk in his ways* (16) and *to cling to him* (20) define the life Israel is told to choose; *cling* is the verb and phrase of 11:22 (WLC).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### God walking among his people — Deuteronomy 23:14
 
 Here the walking is God's: *"Yahweh your God walks in the middle of your camp"* (14). In the Torah the
@@ -266,6 +272,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"walk in all his ways"* (22), and the curse as turning *"out of the way"* (28).
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.
 

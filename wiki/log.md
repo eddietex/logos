@@ -24160,3 +24160,43 @@ unchanged. Agent: Claude (Opus 5.5).
 Validation: scripts/link-check.sh passed, no wrapped or unexpected dangling links, 57 expected
 not-yet-started book pages. Frontmatter totals: 385 passages, 257 people, 224 places, 87 themes,
 785 connections. git diff --check passed. Deuteronomy stands at 60 / 69. No unresolved blocker.
+
+## [2026-11-10] ingest | Deuteronomy 30.11-20 — The Word Is Near and the Choice Is Life
+
+Ingested [[The Word Is Near and the Choice Is Life]] in auto mode, keeping the planned 30:11–20
+boundary and title. The command is not too hard or too distant, not in heaven or beyond the sea, but
+*very near … in your mouth and in your heart*. Moses sets life and death, blessing and curse, before
+Israel with heaven and earth as witnesses, and commands *choose life*: love Yahweh, obey him, cling to
+him, *for he is your life*. The unit closes the covenant address in Moab.
+
+Created two pages: the passage, and the connection
+[[The Word Is Near You - Deuteronomy 30.11-14 in Romans 10.6-8]], filed under W in T–Z. Revised five
+people (God, Moses, Abraham, Isaac, Jacob), two places (The Jordan; Canaan as a contextual
+identification), twelve themes (Life and Death, Law and Obedience, Love, Covenant, Blessing, Curse,
+Idolatry, Land and Sojourning, Walking with God, Call and Election, Faith, Language and Speech), six
+existing connections (A Blessing and a Curse Set Before You, The Two Ways, Where It Pleases Him Best,
+The Case Too Hard, Higher Than Heaven, Who Has Ascended), six passages (Return Restoration, Set These
+Words Before You, No Form Seen, Judges Worship and Difficult Cases, First Fruits and the Tithe
+Declaration, The Two Paths), the book overview, checklist, and key themes (adding Call and Election
+and Faith), the books index, two people subindexes, the places and themes indexes, four connection
+subindexes, and the dashboard. Stale "not yet ingested" labels for Deuteronomy 30:11–20 were replaced
+where found.
+
+Judgment calls: Faith is listed as a theme only because of Romans 10, and the page says so. How the
+word came to be *in your heart* (teaching, 6:6–7, or the promised circumcised heart, 30:6) is recorded
+as unresolved, as is the order of divine and human action across 30:6 and 30:19. Romans 10:5 is
+paraphrased only; Paul's source for *descend into the abyss* is not investigated and no claim is made.
+*He is your life* (30:20) is set beside 32:47 for the later ingest.
+
+Sources: every quoted Deuteronomy verse was compared with stored WEB (30:11–20; 4:19, 26; 6:6–7; 8:17;
+9:4; 10:20; 11:22, 26; 13:4; 23:16; 26:3; 31:1, 28; 32:47), and Genesis 18:14 with stored WEB.
+Romans 10:6–8 WEB from bible-api.com (`?translation=web`), retrieved 2026-11-10. Hebrew lemma claims
+(*pālāʾ*, *rāḥōq*, *qārôb*, *ʿālâ*, *ʿābar*, *nāḏaḥ* in 30:1, 4, 17 and 4:19, *bāḥar*, *ʿûd* in 30:19
+and 4:26, 31:28, *dābaq* in 30:20, 11:22, 10:20, 13:5 WLC, Genesis 2:24; *ṭôb* in Genesis 2:9;
+*pālāʾ* in Genesis 18:14) were checked against the Open Scriptures WLC (morphhb, GitHub) Strong's tags,
+and the Greek of Romans 10:6–8 against SBLGNT (MorphGNT, GitHub), all retrieved 2026-11-10. Raw texts,
+instructions, and controller files unchanged. Agent: Claude (Opus 5.5).
+
+Validation: scripts/link-check.sh passed, no wrapped or unexpected dangling links, 57 expected
+not-yet-started book pages. Frontmatter totals: 386 passages, 257 people, 224 places, 87 themes,
+786 connections. git diff --check passed. Deuteronomy stands at 61 / 69. No unresolved blocker.

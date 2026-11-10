@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The word is near and the choice of life — Deuteronomy 30:11–20
+
+Yahweh's command is *not too hard … or too distant* (11); the word is *in your mouth and in your heart* (14). He blesses in the land those who love him and walk in his ways (16), and is himself named Israel's life: *he is your life, and the length of your days* (20).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Yahweh has driven and scattered Israel (1, 3), and promises to release, have compassion, and gather even from *the uttermost parts of the heavens* (3–5). He will circumcise the heart of Israel and its offspring to love him (6), answering the ungiven heart of 29:4, and will *again rejoice over you for good* (9), reversing his rejoicing to destroy in 28:63.
@@ -3723,6 +3729,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

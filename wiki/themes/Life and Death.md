@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+The theme's clearest statement in the Torah. *Life and prosperity, and death and evil* are set before Israel (15); life is loving, walking, and keeping (16), death is perishing after turning to other gods (17–18). *Therefore choose life, that you may live* (19) shares its purpose clause with the circumcised heart *that you may live* (30:6). And Yahweh is Israel's life: *he is your life, and the length of your days* (20).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Heart-circumcision is given *that you may live* (6). The phrase prepares the choice between *life and death* that follows in 30:15–20.
@@ -888,6 +894,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"flee … and live"* (5); *"not worthy of death"* (6); *"that he may die"* (12).

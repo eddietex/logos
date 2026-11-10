@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### In your mouth and in your heart — Deuteronomy 30:11–20
+
+*The word is very near to you, in your mouth and in your heart* (14): spoken word and inner disposition together, as in 6:6–7.
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The invader’s language is not understood (49), intensifying alienation and powerlessness. No language or nation is identified by name.
@@ -717,6 +723,7 @@ in the book written by one person for another. See
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
 

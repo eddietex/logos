@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+Life is life *in the land* (16, 20); death is not to *prolong your days in the land* across the Jordan (18). The land is the one *Yahweh swore to your fathers* (20).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Israel driven among the nations (1) is brought back to *the land which your fathers possessed* to possess it again, with increase beyond the fathers (5). Possession lost by exile can be given again.
@@ -759,6 +765,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

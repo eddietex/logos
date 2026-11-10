@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+*To love Yahweh your God* heads the description of life (16) and the meaning of *choose life* (20), the love that 30:6 says the circumcised heart will make possible.
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 The circumcised heart has a purpose: *to love Yahweh your God with all your heart, and with all your soul* (6), the language of 6:5. The love commanded in chapter 6 is here promised as the outcome of Yahweh's work.
@@ -578,6 +584,7 @@ Source: stored WEB Song 8:13–14.
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; *"to love Yahweh your God"* (9) beside the hatred that makes murder (11).

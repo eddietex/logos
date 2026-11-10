@@ -11,6 +11,11 @@ status: in-progress
 
 ## Overview
 
+[[The Word Is Near and the Choice Is Life]] (30:11–20) closes the covenant address in Moab. The
+command is not in heaven or beyond the sea but *very near … in your mouth and in your heart*. Moses
+sets life and death, blessing and curse, before Israel with heaven and earth as witnesses and commands
+*choose life*: to love Yahweh, obey him, and cling to him, *for he is your life*.
+
 [[Return Restoration and the Circumcised Heart]] (30:1–10) looks past the curses to exile among the nations,
 return with all the heart and soul, and gathering back to the land. Yahweh promises to circumcise
 the heart of Israel and its offspring, answering the ungiven heart of 29:4, and to rejoice over
@@ -428,7 +433,7 @@ Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 - [x] [[Curses for Disobedience]] — Deuteronomy 28:15–68
 - [x] [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29
 - [x] [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10
-- [ ] The Word Is Near and the Choice Is Life — Deuteronomy 30:11–20
+- [x] [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20
 - [ ] Be Strong as Joshua Takes the Lead — Deuteronomy 31:1–8
 - [ ] Read the Law to All Israel — Deuteronomy 31:9–13
 - [ ] A Song to Witness Against Israel — Deuteronomy 31:14–23
@@ -500,6 +505,8 @@ Plan drawn 2026-11-05 from the stored WEB. **60 / 69 pericopes ingested.**
 - [[Prayer]]
 - [[Suffering]]
 - [[Signs and Wonders]]
+- [[Call and Election]]
+- [[Faith]]
 
 ## Key people
 - [[God]]

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+The covenant in Moab closes with an appeal witnessed by heaven and earth (19): life and blessing, or death and curse, grounded in the land sworn to the fathers (20).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 After both blessing and curse have *come on you* (1), return and restoration follow, leading to keeping what is *written in this book of the law* (10). The sanctions are not the covenant's last word, yet the unit closes with *if*.
@@ -538,6 +544,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Choose life — Deuteronomy 30:11–20
+
+*The curse* is paired with death (19), and its content here is perishing and short days in the land (18).
+
+See [[The Word Is Near and the Choice Is Life]]. Source: stored WEB Deuteronomy 30:11–20.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 *All these curses* that fell on Israel (1) are put on its enemies and persecutors (7). Verse 7 uses a different noun from verse 1's *the curse* in the WLC (morphhb) tags; the English does not show it.
@@ -300,6 +306,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

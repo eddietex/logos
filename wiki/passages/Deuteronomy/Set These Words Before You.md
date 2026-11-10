@@ -161,7 +161,7 @@ known" the discipline of Yahweh. Gods Israel has no history with are set against
 deeds the people saw. This is the wiki's reading of the WEB wording, not a stated wordplay.
 
 The same pair returns at the end of the covenant in Moab: "I have set before you life and death,
-the blessing and the curse. Therefore choose life" (30:19, stored WEB, not yet ingested). See
+the blessing and the curse. Therefore choose life" (30:19), in [[The Word Is Near and the Choice Is Life]]. See
 [[A Blessing and a Curse Set Before You - Deuteronomy 11.26-28 and 30.15-20]].
 
 ### Two mountains, and where they are
