@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The border given — Joshua 1:1–9
+
+*The great sea toward the going down of the sun* (4), the western limit of the land, where Deuteronomy 11:24 had *the western sea*.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 The sea defines the western border and provides the starting point for the northern line.
 
 Source: stored WEB Numbers 34:5–7. No precise modern site is assigned here.
@@ -25,6 +31,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; *the great sea toward the going down of the sun* (4).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; *The western sea* (2).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"the western sea"*, the end of the maximal border (24).

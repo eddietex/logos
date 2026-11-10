@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land sworn to the fathers — Joshua 1:1–9
+
+Joshua will *cause this people to inherit the land which I swore to their fathers to give them* (6) — the patriarchal oath, now attached to a successor's task.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Yahweh calls the land *the land which I swore to Abraham, to Isaac, and to Jacob* (4). The oath stands though its mediator does not enter.
@@ -433,6 +439,7 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+- [[After the Death of Moses]] — Joshua 1:1–9; *the land which I swore to their fathers* (6).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land oath restated (4).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

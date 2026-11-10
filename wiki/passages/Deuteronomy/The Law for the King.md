@@ -104,6 +104,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[After the Death of Moses]] — Joshua 1:7–8; the book of the law kept in Joshua's mouth day and night. See
+  [[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]].
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public instruction at the release-year feast.
   See [[Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31]].
 

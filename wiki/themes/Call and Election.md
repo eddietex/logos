@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua addressed — Joshua 1:1–9
+
+Yahweh's first speech to Joshua is a commission without a call scene: no objection, no sign, and no description of how the word came. The charge is to rise, cross, and give the land as inheritance (2, 6).
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 Joshua’s succession is publicly affirmed before all Israel (3, 7–8). The commissioned successor is encouraged for a task grounded in Yahweh’s prior word, not presented as self-appointed.
@@ -261,6 +267,7 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[After the Death of Moses]] — Joshua 1:1–9; Yahweh's first word to Joshua; commission without objection.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

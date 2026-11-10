@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### This book of the law — Joshua 1:1–9
+
+The middle charge to courage is aimed at obedience, not at battle: *Only be strong and very courageous … to do according to all the law … Don't turn from it to the right hand or to the left* (7). *This book of the law* is to stay in Joshua's mouth, meditated *day and night* (8), with success following *then*. See [[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]].
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Israel listens to Joshua and does *as Yahweh commanded Moses* (9). Obedience after Moses is to the same command.
@@ -1355,6 +1361,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[After the Death of Moses]] — Joshua 1:1–9; *this book of the law shall not depart from your mouth* (7–8).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Obeying Joshua as Yahweh commanded Moses (9).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

@@ -21,7 +21,7 @@ tags: [connection]
 - [[Set These Words Before You]] — Deuteronomy 11:24; *"from the wilderness, and Lebanon, from the
   river, the river Euphrates, even to the western sea"*, promised to *"every place on which the
   sole of your foot treads"* on condition of obedience (22).
-- **Joshua 1:3–4** *(verified from bible-api.com, WEB)* — *"every place that the sole of your foot
+- [[After the Death of Moses]] — **Joshua 1:3–4** *(stored WEB)* — *"every place that the sole of your foot
   will tread on, as I told Moses"*, with the same list ending at *"the great sea toward the going
   down of the sun"*.
 - **Joshua 21:43–45** — *"Yahweh gave to Israel all the land which he swore to give to their fathers…

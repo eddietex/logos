@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two kinds of servant — Joshua 1:1–9
+
+Moses is *ʿebed YHWH*, *the servant of Yahweh*, and Joshua *məšārēt mōšeh*, *Moses' servant* (1; MAM via Sefaria): two different Hebrew words behind one English word. Yahweh calls Moses *my servant* twice (2, 7).
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses dies as *the servant of Yahweh* (5). The noun is *ʿebed* (MAM via Sefaria), the ordinary word for a servant or slave, here a title of honor; the wiki makes no concordance claim about its earlier use.
@@ -408,6 +414,7 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[After the Death of Moses]] — Joshua 1:1–9; Moses *the servant of Yahweh*; Joshua *Moses' servant* (1).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses *the servant of Yahweh* (5).
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

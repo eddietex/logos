@@ -73,6 +73,12 @@ contested, Hittite imperial law is not plausibly in force at Hebron, and the who
 bargaining shape appears in conveyance narratives across the ancient Near East. **Named here as an
 observation about the negotiation's form, not as an identification of these people.**
 
+### All the land of the Hittites — Joshua 1:1–9
+
+Joshua 1:4 names *all the land of the Hittites* (*haḥittîm*, MAM via Sefaria) within the promised border, a phrase not in the parallel Deuteronomy 11:24. The wiki files the gentilic here without deciding how the phrase relates to the Hebron community of Genesis 23 or to any historical people.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ## Timeline / key events
 
 - Named as descendants of Heth, son of Canaan — Genesis 10:15, [[The Table of Nations]]
@@ -90,6 +96,7 @@ observation about the negotiation's form, not as an identification of these peop
   Jacob out of the country — Genesis 27:46, [[Isaac Sends Jacob to Paddan Aram]]
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; *all the land of the Hittites* in the border list (4).
 
 - [[The Table of Nations]] — Genesis 10:15; Heth as Canaan's second son
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 23:3–20; the assembly at the gate, the compliment,

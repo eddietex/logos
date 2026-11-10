@@ -13,6 +13,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 |---|---|---|
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
 | [[David's Count and Moses' Count - Numbers 1, 2 Samuel 24, and 1 Chronicles 21]] | contrast | [[The Census in the Wilderness of Sinai]] · Exodus 30:12 · 2 Samuel 24:1, 10 · 1 Chronicles 21:1 · 1 Chronicles 27:23–24 |
+| [[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]] | verbal parallel | [[After the Death of Moses]] (Joshua 1:7–8) · [[The Law for the King]] (Deuteronomy 17:18–20) · [[Read the Law to All Israel]] · [[The Book Beside the Ark]] · Psalm 1:1–3 |
 | [[A Day for a Year - Numbers 14.34 and Ezekiel 4.6]] | thread | [[The People Refuse the Land]] (Numbers 14:33–34) · Ezekiel 4:4–6 |
 | [[The Day of Atonement Commanded Twice - Leviticus 16 and 23]] | legal-ritual-parallel | [[The Day of Atonement]] · Leviticus 23:26–32 · [[Trumpets and the Day of Atonement]] (Leviticus 23:23–32) · [[The Offerings of the Appointed Feasts]] (Numbers 29:7–11) |
 | [[The Day of the Locust - Exodus 10 and Joel 1-2]] | allusion | Exodus 10:5, 14–15, 22 · Joel 1:4 · Joel 2:2, 10, 25 · Deuteronomy 28:38 |
@@ -120,7 +121,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[From Meribah to Beer - Water and the Gathered People]] | thematic-parallel | [[The Journey to Moab]] · [[The Waters of Meribah]] |
 | [[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]] | parallel | [[Blessings for Obedience (Leviticus)]] · [[Covenant Warnings and Remembered Promises]] · [[The Law for the King]] · [[Curses for Disobedience]] — liberation reversed; covenant preservation retained. |
 | [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] | narrative-continuation | [[The Tabernacle Raised and the Glory]] · [[The Burnt Offering]] · [[The Ordination of the Priests]] |
-| [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 · [[The Borders of the Land]] · [[Set These Words Before You]] |
+| [[From the River of Egypt to the Euphrates]] | thread | Genesis 15:18–21 · Genesis 10:19 · Exodus 23:31 · Numbers 34:1–12 · Deuteronomy 1:7; 11:24 · Joshua 1:4; 21:43–45 · Judges 1:19–36 · 1 Kings 4:21, 24 · Nehemiah 9:8 · Ezekiel 47:13–20 · [[The Borders of the Land]] · [[Set These Words Before You]] · [[After the Death of Moses]] |
 | [[From the Sea Song to the Well Song]] | thematic-parallel | [[The Journey to Moab]] · [[The Song of the Sea]] |
 | [[From the Well Song to the Heshbon Poem]] | literary comparison | [[Sihon and Og]] · [[The Journey to Moab]] |
 | [[From the Wilderness Sentence to the Crossing of Zered]] | narrative fulfillment | [[The People Refuse the Land]] · [[The Sentence and the Presumptuous Ascent]] · [[Around Seir and Past Moab and Ammon]] · [[The Journey to Moab]] |

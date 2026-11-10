@@ -24,7 +24,8 @@ tags: [connection]
   like darkness."* — [[The Two Paths]]
 - **Proverbs 4:26–27** — *"Make the path of your feet level. … Don't turn to the right hand nor to
   the left. Remove your foot from evil."* — [[Keep Your Heart]]; compare Deuteronomy 5:32–33 and
-  Joshua 1:7, *"to the right hand or to the left"* (WEB, verified at bible-api.com; not yet ingested)
+  Joshua 1:7, *"to the right hand or to the left"* — [[After the Death of Moses]]; see also
+  [[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]]
 - **Jeremiah 21:8** — *"Behold, I set before you the way of life and the way of death."* (not yet
   ingested)
 - **Matthew 7:13–14** — *"Enter in by the narrow gate; for wide is the gate and broad is the way

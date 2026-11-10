@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The crossing commanded — Joshua 1:1–9
+
+*Arise, go across this Jordan, you, and all these people* (2). The river Moses was refused (Deuteronomy 3:27) is the first thing Yahweh tells Joshua to cross. The crossing itself is narrated in chapters 3–4.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The closing exhortation locates prolonged life in the land across the Jordan (47). The crossing is still future; this passage narrates instruction rather than entry.
@@ -224,6 +230,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; *Arise, go across this Jordan* (2); the crossing commanded.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

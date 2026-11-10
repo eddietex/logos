@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### After the death of Moses — Joshua 1:1–9
+
+Yahweh speaks first to Joshua after Moses' death: *Moses my servant is dead. Now therefore arise* (2). He gives the land in the words of Deuteronomy 11:24, promises *As I was with Moses, so I will be with you. I will not fail you nor forsake you* (5), and three times commands courage — the middle charge aimed at keeping *all the law, which Moses my servant commanded you* (7). The promise of presence closes the speech (9). No theophany is described.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Yahweh shows Moses the land he swore to Abraham, Isaac, and Jacob, repeats that Moses shall not cross (1–4), and Moses dies *according to Yahweh's word* (5). The singular *he buried him* (6) most naturally has Yahweh as subject, though the verse does not name him. The epitaph says Yahweh knew Moses *face to face* (10).
@@ -3780,6 +3786,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; Speaks first to Joshua after Moses' death; gives the land, promises presence, commands courage and the book of the law.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Shows Moses the sworn land; Moses dies at his word.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

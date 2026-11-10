@@ -19,7 +19,7 @@ tags: [connection]
 - Exodus 3:12 — to Moses at the bush
 - Exodus 17:7 — the promise doubted: *"Is Yahweh among us, or not?"* — [[Water from the Rock]]
 - Exodus 23:20–23 — an angel sent ahead, with God's name *"in him"* — [[The Angel Sent Ahead]]
-- Joshua 1:5, 9 — *"I will not fail you, nor forsake you"*
+- [[After the Death of Moses]] — Joshua 1:5, 9; *"I will not fail you nor forsake you"* (stored WEB)
 - Judges 6:12, 16 — to Gideon in a winepress
 - Isaiah 41:10; 43:2 — to the exiles
 - Jeremiah 1:8, 19 — to a prophet who says he is too young
@@ -59,7 +59,7 @@ cancels it. **The land is still promised; it is no longer the condition of the p
 |---|---|---|---|
 | Genesis 28:15 | Jacob | leaving the land, hunted | *with you wherever you go*, and a return |
 | Exodus 3:11–12 | Moses | *"Who am I?"* | *"Certainly I will be with you"* |
-| Joshua 1:5–9 | Joshua | following Moses | *"I will not fail you, nor forsake you"* |
+| Joshua 1:5–9 | Joshua | following Moses (no objection is spoken) | *"As I was with Moses, so I will be with you"* |
 | Judges 6:12–16 | Gideon | *"my family is the poorest"* | *"Surely I will be with you"* |
 | Jeremiah 1:6–8 | Jeremiah | *"I am a child"* | *"I am with you to deliver you"* |
 

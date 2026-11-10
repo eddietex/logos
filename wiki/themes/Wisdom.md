@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Good success — Joshua 1:1–9
+
+WEB's *good success* (7, 8) renders *taśkîl* (MAM via Sefaria), a verb of acting with insight. It follows from keeping and meditating on the book of the law; the passage does not use *ḥokmâ*.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Joshua is *full of the spirit of wisdom* through Moses' hands (9): wisdom here equips for leadership.
@@ -823,6 +829,7 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+- [[After the Death of Moses]] — Joshua 1:1–9; *taśkîl*, *good success*, from meditating on the law (7–8).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The spirit of wisdom in Joshua (9).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

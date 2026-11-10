@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### After the death of Moses — Joshua 1:1–9
+
+Introduced as *Moses' servant* (*məšārēt mōšeh*, the attendant's word of Exodus 24:13 and 33:11; MAM via Sefaria), Joshua receives Yahweh's first word after Moses' death: rise, cross the Jordan, and cause the people to inherit the sworn land (2, 6). He is promised *As I was with Moses, so I will be with you* (5) and told three times to be strong and courageous, the middle time to keep *all the law* and to meditate on *this book of the law* day and night (7–8). He raises no objection and the text describes no feelings. His first act follows in the next pericope.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Joshua is *full of the spirit of wisdom; for Moses had laid his hands on him*, and Israel obeys him as Yahweh commanded Moses (9). Numbers 27:18 already calls him *a man in whom is the Spirit* before the laying on of hands; the order differs between the two accounts and is flagged rather than harmonized.
@@ -125,7 +131,8 @@ not yet ingested) — and the book
 
 ### What is ahead
 
-The succession in Deuteronomy 31 and 34, and the book of Joshua. The sentence and his survival
+The succession in Deuteronomy 31 and 34 is now ingested above, and the book of Joshua has begun
+with [[After the Death of Moses]]. The sentence and his survival
 (Numbers 14) and the commissioning (Numbers 27) are now ingested below. These sections are written as their pericopes arrive.
 
 ### The golden calf — Exodus 32
@@ -167,6 +174,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Timeline / key events
 
+- Joshua 1:1–9 — Yahweh's first word to him after Moses' death; land, presence, courage, and the book of the law. [[After the Death of Moses]]
 - Deuteronomy 34:9 — full of the spirit of wisdom by Moses' hands; Israel listens to him. [[The Death of Moses]]
 - Exodus 33 — the young servant who remains at the tent (33:11). [[Show Me Your Glory]]
 
@@ -187,6 +195,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[After the Death of Moses]] — Joshua 1:1–9; commissioned by Yahweh directly after Moses' death.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Full of the spirit of wisdom; Israel listens to him.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land given — Joshua 1:1–9
+
+*I have given you every place that the sole of your foot will tread on, as I told Moses* (3), in the border of Deuteronomy 11:24. Deuteronomy's *shall be yours* becomes *I have given you*, while Joshua 13:1 will later say much land remains; the gift and its possession are not the same event.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses sees the whole land sworn to the patriarchs and dies outside it (1–5). The Torah ends with the people on its edge.
@@ -806,6 +812,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[After the Death of Moses]] — Joshua 1:1–9; the land given in Deuteronomy 11:24's border (3–4).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land seen, not entered.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

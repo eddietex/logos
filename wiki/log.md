@@ -24435,3 +24435,42 @@ Masorah at Sefaria (`haNegev`, `hakkikkar`, singular `wayyiqbor`, `lēḥōh`, `
 14b–15a) and the link between Jude 9 and the *Assumption of Moses* are recalled from secondary
 tradition, unverified, and qualified as such on the pages. Validation: `scripts/link-check.sh`
 exited 0 (57 expected not-yet-started books).
+
+## [2026-11-10] ingest | Joshua 1.1-9 — After the Death of Moses
+
+Ingested exactly one pericope in auto mode. No book was `in-progress` and every `## Priority` book
+is complete, so this run opened the first `not-started` book in canonical order: fetched
+`raw/bible/Joshua.md` (24 chapters, WEB) and created [[Joshua]] with a 42-pericope plan drawn from
+the stored text. Joshua is now `in-progress` (1 / 42). Boundary call: chapter 1 is split at 1:9 /
+1:10, following the petuchah after verse 9 in MAM; verses 10–18 (officers and the eastern tribes)
+are the next box. Other plan calls worth reviewing: 5:1–9, 5:10–12 and 5:13–15 as three units;
+chapter 19 grouped as two boxes of three tribes; and 24:1–28 kept as one covenant unit.
+
+Created [[After the Death of Moses]], [[Joshua]], and one connection,
+[[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]] (the book of the law meditated
+day and night; the king's copy; the man of Psalm 1). Revised five person pages (God, Moses, Joshua
+(son of Nun), Nun, The Children of Heth), four place pages (The Jordan, Lebanon, The Euphrates, The
+Great Sea), seven theme pages (Law and Obedience, Land and Sojourning, Oaths and Vows, War, Call and
+Election, Wisdom, Slavery and Servitude), four connections (I Will Not Forsake You, I Will Be With
+You, The Two Ways, From the River of Egypt to the Euphrates), and four Deuteronomy passage pages'
+cross-references (The Death of Moses, Be Strong as Joshua Takes the Lead, Set These Words Before
+You, The Law for the King). Updated the books index, people, places, themes and connections
+indexes, and `wiki/index.md`. Three pages created and 24 revised. Counts by frontmatter: 395
+passages, 257 people, 225 places, 87 themes, 795 connections; ten books started, nine complete.
+
+The discussion is kept on the passage page: the two Hebrew words behind *servant* (*ʿebed YHWH*
+for Moses, *məšārēt mōšeh* for Joshua), Deuteronomy 11:24–25 repeated with *I have given you*, the
+presence promise moved from Moses' third person to Yahweh's first, the middle charge to courage
+aimed at the law, *hāgâ* and *day and night*, and *taśkîl* as success. No contradiction with an
+existing page was found. A tension is noted, not resolved: Deuteronomy 11:22 conditions the border
+on obedience while Joshua 1:3 states it as given, with the obedience three verses later. *All the
+land of the Hittites* is filed on The Children of Heth without identifying the two.
+
+Sources: Joshua and Deuteronomy quotations come from stored raw text. Psalm 1:1–3 WEB was verified
+at bible-api.com (`translation=web`); Psalms was not fetched into raw. Hebrew was checked against
+the Miqra according to the Masorah at Sefaria for Joshua 1:1–18, Deuteronomy 31:6 and 31:8, Exodus
+24:13, Exodus 33:11, Numbers 11:28 and Psalm 1:2–3. Lexical glosses of *hāgâ* (murmuring) and *śkl*
+(insight) are summary, not checked against a named lexicon, and are qualified on the page. The
+traditional ascription of the book to Joshua (Bava Batra 14b–15a) is recalled, not verified, and
+marked so in the book frontmatter. Validation: `scripts/link-check.sh` exited 0 (56 expected
+not-yet-started books).

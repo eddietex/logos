@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### After the death of Moses — Joshua 1:1–9
+
+The book of Joshua opens *after the death of Moses the servant of Yahweh* (1), and Yahweh twice calls him *Moses my servant* (2, 7). He remains the measure of everything given to his successor: the land *as I told Moses* (3), the presence *As I was with Moses* (5), and *all the law, which Moses my servant commanded you* (7).
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses climbs Nebo to the top of Pisgah, is shown the whole land, and dies there in Moab, *the servant of Yahweh*, *according to Yahweh's word* (1–5). He is buried opposite Beth Peor in a grave no one knows (6). He is 120, eye not dim and strength not gone (7) — an explicit tension with his own *I can no more go out and come in* at 31:2, kept unresolved. Israel weeps thirty days (8), Joshua is obeyed (9), and no prophet like Moses has arisen since, whom Yahweh knew face to face (10–12).
@@ -1874,6 +1880,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; *Moses my servant is dead*; the measure of the land, presence, and law given to Joshua.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; His death, burial, mourning, and epitaph.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

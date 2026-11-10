@@ -8,7 +8,7 @@ tags: [connection]
 ## Passages involved
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
-- Joshua 1:5–9 — verified WEB; not yet ingested.
+- [[After the Death of Moses]] — Joshua 1:1–9 (stored WEB).
 - Hebrews 13:5–6 — verified WEB; not yet ingested.
 
 ## Analysis
@@ -42,6 +42,15 @@ tension is internal to the chapter, not merely a difference between earlier and 
 books.
 
 Source for this addition: stored WEB Deuteronomy 31:14–23.
+
+**Joshua 1 now ingested.** In [[After the Death of Moses]] the promise moves from Moses'
+third person to Yahweh's first: Deuteronomy 31:6, 8 have *lōʾ yarpəkā wəlōʾ yaʿazbekkā*, *he will
+not fail you nor forsake you*, and Joshua 1:5 has *lōʾ ʾarpəkā wəlōʾ ʾeʿezbekkā*, *I will not fail
+you nor forsake you* (MAM via Sefaria). The verbs are the same. Joshua 1:5 also sets the measure,
+*As I was with Moses, so I will be with you*, and the middle charge to courage (1:7–8) aims it at
+keeping the book of the law. The assurance is not separated from the instruction in either book.
+
+Source for this addition: stored WEB Joshua 1:1–9 and Deuteronomy 31:6–8; Hebrew at Sefaria (MAM).
 
 ## Significance
 

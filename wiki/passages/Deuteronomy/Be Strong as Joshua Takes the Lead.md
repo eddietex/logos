@@ -68,6 +68,7 @@ Stored WEB, Deuteronomy 31:1–8, quoted verbatim.
 
 ## Cross-references
 
+- [[After the Death of Moses]] — Joshua 1:1–9; Yahweh repeats the courage formula and the promise to Joshua.
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.
 - [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]] — memory, prosperity, and covenant betrayal.
 - [[See the Land and Commission Joshua - Numbers 27 and Deuteronomy 3]] — Numbers 27 and Deuteronomy 3 alongside the public encouragement here.

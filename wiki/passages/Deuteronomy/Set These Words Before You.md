@@ -92,6 +92,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[After the Death of Moses]] — Joshua 1:3–5 repeats 11:24–25 to Joshua as *I have given you*.
 - [[The Place Yahweh Will Choose]] — 12:1–28, the statutes and ordinances that 11:32 sets before Israel, opened with the
   law of the place.
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:6–9, the first statement of the words on the

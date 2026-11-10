@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### After the death of Moses — Joshua 1:1–9
+
+Named only as Joshua's father in the opening verse (1); no action or presence is attributed to him.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Nun is named only as Joshua’s father (44); the verse gives him no action or presence.
@@ -57,6 +63,7 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; named as Joshua's father (1).
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

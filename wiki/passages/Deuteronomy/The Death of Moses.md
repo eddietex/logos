@@ -82,6 +82,7 @@ Copied verbatim from stored WEB, raw/bible/Deuteronomy.md.
 - [[Slavery and Servitude]]
 
 ## Cross-references
+- [[After the Death of Moses]] — Joshua 1:1–9, the first word to Joshua after this death.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52, the command this chapter fulfills.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29; Pisgah, the look in every
   direction, and the refusal.

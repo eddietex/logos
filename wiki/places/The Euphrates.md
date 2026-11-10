@@ -62,6 +62,12 @@ River"*. The verse does not name it; the identification with the Euphrates follo
 Genesis 15:18 and the usual use of the definite *the River*. See [[The Angel Sent Ahead]] and
 [[From the River of Egypt to the Euphrates]].
 
+### The border given — Joshua 1:1–9
+
+*Even to the great river, the river Euphrates* (4): the maximal border of Genesis 15:18 and Deuteronomy 11:24, now stated to Joshua as *I have given you* (3). Joshua 13:1 will say that much land remains to be possessed.
+
+See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
+
 ### The border repeated — Deuteronomy 11:18–32
 
 Deuteronomy 11:24 repeats the maximal formula: *"from the river, the river Euphrates, even to the western sea shall be your border"*, the promise conditioned on keeping the commandments (22).
@@ -69,6 +75,7 @@ Deuteronomy 11:24 repeats the maximal formula: *"from the river, the river Euphr
 See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
 ## Appears in
+- [[After the Death of Moses]] — Joshua 1:1–9; *the great river, the river Euphrates* in the border given Joshua (4).
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"the river, the river Euphrates"* in the maximal border (24).
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7; *as far as the great river, the river Euphrates* — Genesis 15:18's formula repeated in Yahweh's command at Horeb, as Moses recalls it
