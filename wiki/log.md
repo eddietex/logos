@@ -24140,7 +24140,7 @@ Created two pages: the passage, and the connection
 Revised two people (God, Moses), one place (Canaan, as a contextual identification), sixteen
 themes, five existing connections (Circumcision of the Heart, Uncircumcised Lips, If They Confess,
 Captivity of Job, Seen Signs), four related Deuteronomy passages, the book overview and checklist
-(also correcting the stale "53 / 69" plan count to 60 / 69), the books index, the People F–M and
+(also correcting the stale "53 / 69" plan count to 60 / 69), the books index, the People F–M
 subindex, the places and themes indexes, four connection subindexes, and the
 dashboard. Stale "not yet ingested" labels for Deuteronomy 30 were replaced where found.
 
