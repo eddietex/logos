@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Yahweh *showed him* the land and says *I have caused you to see it with your eyes* (1, 4). The seeing is Yahweh's act; the sight replaces entry. The deeds of Moses were done *in the sight of all Israel* (12).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Moses may see the land from a distance but may not enter it (49, 52). The permitted sight restates
@@ -399,6 +405,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Shown the land (1, 4).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

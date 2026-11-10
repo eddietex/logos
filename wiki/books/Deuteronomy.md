@@ -5,11 +5,16 @@ genre: Covenant instruction and narrative
 author: Traditionally Moses; narrative framing and final composition are distinct questions
 canonical_order: 5
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Deuteronomy
 
 ## Overview
+[[The Death of Moses]] (34:1–12) closes the book and the Torah. Moses climbs Nebo to the top of
+Pisgah, is shown the land sworn to the patriarchs, and dies in Moab at Yahweh's word, 120 years old
+and undiminished. His grave is unknown; Israel weeps thirty days and obeys Joshua. The epitaph says
+no prophet like Moses has arisen since, leaving the promise of 18:15–19 open at the book's end.
+
 [[Moses Blesses the Tribes]] (33:1–29) gives Moses’ final tribal blessing, framed by divine coming
 and Israel’s safety. Levi’s service, Joseph’s abundance, and the omission of Simeon sharpen
 the comparison with Genesis 49; the blessing does not revoke Moses’ exclusion or the song’s warnings.
@@ -472,7 +477,7 @@ Plan drawn 2026-11-05 from the stored WEB. **67 / 69 pericopes ingested.**
 - [x] [[The Song of Moses]] — Deuteronomy 31:30–32:47
 - [x] [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52
 - [x] [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29
-- [ ] The Death of Moses — Deuteronomy 34:1–12
+- [x] [[The Death of Moses]] — Deuteronomy 34:1–12
 
 ## Key themes
 - [[Clean and Unclean]]
@@ -542,6 +547,7 @@ Plan drawn 2026-11-05 from the stored WEB. **67 / 69 pericopes ingested.**
 ## Key people
 - [[God]]
 - [[Moses]]
+- [[Joshua (son of Nun)]]
 - [[Sihon]]
 - [[Og]]
 - [[Levi]]
@@ -550,6 +556,7 @@ Plan drawn 2026-11-05 from the stored WEB. **67 / 69 pericopes ingested.**
 
 ## Key places
 - [[Moab (place)]]
+- [[Mount Nebo]]
 - [[The Jordan]]
 - [[Horeb]]
 - [[Egypt]]

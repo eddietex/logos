@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The view from Nebo begins with *all the land of Gilead, to Dan* (1).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Eastern refuge cities — Deuteronomy 4:41–43
 
 Ramoth in Gilead is set apart for the Gadites as a refuge for unwitting killing
@@ -86,6 +92,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The first land shown (1).
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

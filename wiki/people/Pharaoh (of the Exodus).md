@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Recalled in the epitaph: the signs and wonders Yahweh sent Moses to do in Egypt *to Pharaoh, and to all his servants, and to all his land* (11).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The king and his servants are recalled as recipients of the witnessed deeds in Egypt (2–3). No personal name or dynasty is supplied.
@@ -249,6 +255,7 @@ See [[The Song of the Sea]].
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Recalled in Moses' epitaph (11).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The epitaph: *there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face* (10). Read with 18:15–19, the promised prophet like Moses has not yet come.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The book beside the ark — Deuteronomy 31:24–29
 
 Moses predicts corruption after his death on the basis of already evident rebellion (27–29). The latter-days wording supplies no date here; no later fulfillment is narrated in this unit.
@@ -203,6 +209,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[The Death of Moses]] — Deuteronomy 34:1–12; No prophet like Moses since (10).
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Named in the oath formula of verse 4: the land sworn to Abraham, Isaac, and Jacob. Israel's thirty days of weeping for Moses (8) contrast with the seventy and seven days of Jacob's mourning (Genesis 50:3, 10).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Jacob and Israel name the assembled descendants, recipients of law and safety (4, 10, 28–29).
@@ -862,6 +868,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Named in the land oath (4).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Joshua is *full of the spirit of wisdom; for Moses had laid his hands on him*, and Israel obeys him as Yahweh commanded Moses (9). Numbers 27:18 already calls him *a man in whom is the Spirit* before the laying on of hands; the order differs between the two accounts and is flagged rather than harmonized.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Joshua joins Moses in speaking the song to the people (44). Succession includes transmitting the warning as well as leading into the land; no independent speech by Joshua is reproduced.
@@ -161,6 +167,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Timeline / key events
 
+- Deuteronomy 34:9 — full of the spirit of wisdom by Moses' hands; Israel listens to him. [[The Death of Moses]]
 - Exodus 33 — the young servant who remains at the tent (33:11). [[Show Me Your Glory]]
 
 - Sent by Moses to choose men and fight Amalek at Rephidim; obeys, fights, and defeats Amalek *"with the edge of
@@ -180,6 +187,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Full of the spirit of wisdom; Israel listens to him.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.

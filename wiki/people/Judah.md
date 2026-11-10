@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+*All the land of Judah, to the western sea* is part of the view from Nebo (2); the name denotes tribal territory.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Moses asks Yahweh to hear Judah, bring him to his people, and help against adversaries (7). Genesis
@@ -344,6 +350,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

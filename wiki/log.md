@@ -24394,3 +24394,44 @@ targets (57 expected not-yet-started books). Counts were recomputed by frontmatt
 the new passage title is unique. git diff --check passed. Unresolved interpretive matters
 include the king in 33:5, Levi's godly one and the precise testing background, and
 unnamed geography; these are stated at the relevant claims rather than silently resolved.
+
+## [2026-11-10] ingest | Deuteronomy 34.1-12 — The Death of Moses
+
+Ingested exactly one pericope in auto mode; the planned boundary is unchanged. This was the
+last box on the Deuteronomy page, so Deuteronomy is now `complete` (69 / 69 pericopes) and
+with it the whole Torah. No book is in progress now, so the next run opens a new one under the
+`## Priority` rule.
+
+Created [[The Death of Moses]] and two connections:
+[[Aaron on Hor and Moses on Nebo - Numbers 20 and Deuteronomy 34]] (the two brothers' mountain
+deaths, successors, and thirty days of weeping) and
+[[The Body of Moses - Deuteronomy 34.6 and Jude 9]]. Revised Deuteronomy; 11 person, 13 place,
+and 12 theme pages; and five existing connections (Mouth to Mouth, A Prophet Like Me, Hands on
+the Head, Lift Up Your Eyes, plus the stale Deuteronomy 4 bullet in Mouth to Mouth, now linked).
+Updated the books index, people, places, themes and connections indexes, and `wiki/index.md`.
+Three pages created and about 50 revised. Counts by frontmatter: 394 passages, 257 people,
+225 places, 87 themes, 794 connections; nine books started, nine complete.
+
+The discussion is kept on the passage page: the fulfilled Nebo command, the land survey, the
+servant title, the singular *he buried him* and the unknown grave, the thirty days, Joshua, and
+the epitaph against 18:15–19. Contradictions flagged rather than resolved: Moses' *I can no more
+go out and come in* at 120 (31:2) against *his eye was not dim, nor his strength gone* at 120
+(34:7); and Numbers 27:18, where Joshua has the Spirit before the hands are laid, against
+Deuteronomy 34:9, which gives the hands as the reason he is full of the spirit of wisdom.
+Fixed an inaccurate quotation on Hands on the Head, which had rendered 34:9 as *"full of
+wisdom"*; the stored WEB has *full of the spirit of wisdom*.
+
+Judgment calls: tribal names in 34:2 are linked to the eponym person pages, which already carry
+the territories; *the western sea*, *the south*, and *the Plain of the valley of Jericho* are
+filed under The Great Sea, The Negev, and The Plain of the Jordan, the last qualified as not
+necessarily the whole basin of Genesis 13. Nebo and Pisgah stay separate pages; the verse joins
+them without explaining how. No Michael page was created for a single unstored allusion.
+
+Sources: Deuteronomy, Numbers and Genesis quotations come from stored raw text. Joshua 1:1–2,
+Jude 9 and Hebrews 3:5 were verified at bible-api.com (`translation=web`); no unstored book was
+fetched into raw. Hebrew for Deuteronomy 34:1–10 was checked against the Miqra according to the
+Masorah at Sefaria (`haNegev`, `hakkikkar`, singular `wayyiqbor`, `lēḥōh`, `rûaḥ ḥokmâ`,
+`pānîm ʾel-pānîm`). The rabbinic attribution of the closing verses to Joshua (Bava Batra
+14b–15a) and the link between Jude 9 and the *Assumption of Moses* are recalled from secondary
+tradition, unverified, and qualified as such on the pages. Validation: `scripts/link-check.sh`
+exited 0 (57 expected not-yet-started books).

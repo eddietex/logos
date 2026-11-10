@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Moses is buried opposite Beth Peor, but no one knows his tomb (6) — unlike the patriarchs' carefully located graves. The singular *he buried him* most naturally means Yahweh. See [[The Body of Moses - Deuteronomy 34.6 and Jude 9]].
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Being gathered to his people accompanies the command that Moses die as Aaron died (50). No burial
@@ -177,6 +183,7 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The unknown grave (6).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

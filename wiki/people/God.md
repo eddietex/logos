@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Yahweh shows Moses the land he swore to Abraham, Isaac, and Jacob, repeats that Moses shall not cross (1–4), and Moses dies *according to Yahweh's word* (5). The singular *he buried him* (6) most naturally has Yahweh as subject, though the verse does not name him. The epitaph says Yahweh knew Moses *face to face* (10).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Yahweh comes in glory, loves his people, gives instruction, and sustains Israel as dwelling place,
@@ -3774,6 +3780,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Shows Moses the sworn land; Moses dies at his word.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

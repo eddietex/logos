@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Moses climbs from the plains of Moab, dies *in the land of Moab*, and is buried in a valley there (1, 5–6). Israel mourns him thirty days in the plains of Moab (8). The Torah's last scene is set outside the land.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Mount Nebo is explicitly located in the land of Moab opposite Jericho (49). Moab is now named in the
@@ -256,6 +262,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Moses' death, burial, and mourning.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

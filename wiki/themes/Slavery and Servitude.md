@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Moses dies as *the servant of Yahweh* (5). The noun is *ʿebed* (MAM via Sefaria), the ordinary word for a servant or slave, here a title of honor; the wiki makes no concordance claim about its earlier use.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Failure to serve Yahweh joyfully gives way to serving enemies in deprivation under an iron yoke (47–48). Return to Egypt culminates in attempted self-sale without a buyer in the WEB (68), a reversal of liberation.
@@ -403,6 +409,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Moses *the servant of Yahweh* (5).
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
 

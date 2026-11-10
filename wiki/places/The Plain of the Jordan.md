@@ -54,8 +54,16 @@ Where the five cities stood is unsettled: a **southern** proposal places them at
 end of the Dead Sea, a **northern** one identifies Tall el-Hammam on the eastern plain north of it.
 The wiki endorses neither; see [[Sodom]].
 
+
+### The death of Moses — Deuteronomy 34:1–12
+
+Verse 3 has *hakkikkar biqʿat Yerēḥô* (MAM via Sefaria), WEB *the Plain of the valley of Jericho*. It is filed here because of *kikkar*, but the verse does not say it means the whole basin Lot chose.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; *The Plain of the valley of Jericho* (3).
 - [[Abram and Lot Separate]] — Genesis 13:10–12, the ground Lot chooses and the boundary it puts him
   outside of
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:1–12, the valley of Siddim and the battle of

@@ -36,8 +36,16 @@ going on to Hobah *"on the left hand of Damascus"*.
 produced a Middle Bronze mud-brick gateway and, in 1993, the Tel Dan Stele — an Aramaic victory
 inscription that contains the earliest extrabiblical reference to the *bytdwd*, the House of David.
 
+
+### The death of Moses — Deuteronomy 34:1–12
+
+*Gilead, to Dan* (1) marks the northern reach of the view from Nebo. As at Genesis 14:14, the verse does not say when the name was given or explain its use before the conquest.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The northern limit of the view (1).
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14; the limit of the pursuit
 
 ## Related places

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Israel listens to Joshua and does *as Yahweh commanded Moses* (9). Obedience after Moses is to the same command.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Law is an inheritance for Jacob’s assembly (4), and Levi teaches it (10). Receiving blessing
@@ -1349,6 +1355,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Obeying Joshua as Yahweh commanded Moses (9).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

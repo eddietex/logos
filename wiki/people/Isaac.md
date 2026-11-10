@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Named in the oath formula of verse 4: the land sworn to Abraham, Isaac, and Jacob.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Choose life — Deuteronomy 30:11–20
 
 Named with Abraham and Jacob as the fathers to whom Yahweh swore the land (20). Ancestral remembrance, not presence.
@@ -599,6 +605,7 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Named in the land oath (4).
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

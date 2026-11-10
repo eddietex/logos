@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The epitaph sums up Moses' work as *all the signs and the wonders, which Yahweh sent him to do in the land of Egypt* and *the mighty hand* and *awesome deeds* (11–12).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The people saw the signs and wonders in Egypt (2–3), yet lack a knowing heart (4). This stands in tension with Deuteronomy 4:35, where showing has knowledge as its purpose: visible evidence and effective understanding are not treated as identical.
@@ -141,6 +147,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The epitaph's signs and wonders (11–12).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+*All Naphtali* is part of the land Moses sees from Nebo (2); the name denotes tribal territory.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Naphtali is satisfied with favor and blessing, and commanded to possess west and south in the stored
@@ -135,6 +141,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:27 — Naphtali marches in Dan's camp, last named. [[The March from Sinai]]
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

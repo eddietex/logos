@@ -9,9 +9,9 @@ tags: [connection]
 
 - [[Miriam and Aaron Against Moses]] — Numbers 12:6–8; a vision and a dream for a prophet, *mouth to mouth* for Moses, and *he shall see Yahweh's form*
 - [[Show Me Your Glory]] — Exodus 33:11, 20, 23; *face to face*, then *You cannot see my face*
-- **Deuteronomy 4:12, 15** — *you saw no form* (WEB) *(not yet ingested)*
+- [[Hear the Statutes and Remember Horeb]] and [[No Form Seen and No Image Made]] — Deuteronomy 4:12, 15; *you saw no form* (WEB)
 - [[A Prophet Like Moses]] — Deuteronomy 18:15, 18; *a prophet from among you, of your brothers, like me*; *like you*. The likeness named is the words in his mouth (18). See also [[A Prophet Like Me - Deuteronomy 18.15-19 in John, Acts, and the Transfiguration]]
-- **Deuteronomy 34:10** — *there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face* (WEB) *(not yet ingested)*
+- [[The Death of Moses]] — Deuteronomy 34:10; *there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face* (stored WEB). Now ingested; the MAM text at Sefaria confirms *pānîm ʾel-pānîm* in this verse.
 
 ## Analysis
 

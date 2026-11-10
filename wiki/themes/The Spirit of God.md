@@ -11,6 +11,13 @@ the wiki follows WEB's capitals when it quotes, without treating them as evidenc
 speaks of the Spirit as God's. It opened with Numbers 11, when the Spirit is first shared out from one person to others, and it
 is not yet a full survey of the wiki's earlier books.
 
+
+### The death of Moses — Deuteronomy 34:1–12
+
+Joshua is *full of the spirit of wisdom; for Moses had laid his hands on him* (9). Numbers 27:18 has *a man in whom is the Spirit* before the gesture. Whether *spirit of wisdom* is the same as the Spirit there is not stated.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ## Development across Scripture
 
 ### Joshua commissioned — Numbers 27:12–23
@@ -69,6 +76,7 @@ pericopes arrive.
 
 ## Key passages
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Joshua full of the spirit of wisdom (9).
 - [[Joshua Commissioned]] — Numbers 27:12–23; a man in whom is the Spirit (18).
 
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

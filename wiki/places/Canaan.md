@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The land Moses is shown from Nebo, named by its regions rather than as Canaan (1–3), is the land sworn to the patriarchs (4).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Canaan is the land Yahweh gives Israel for possession and commands Moses to see (49). The gift is
@@ -439,6 +445,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The land shown to Moses (1–4).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.

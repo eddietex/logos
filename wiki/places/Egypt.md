@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The epitaph recalls the signs and wonders done *in the land of Egypt* (11).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The assembly remembers witnessed signs against Pharaoh (2–3), former residence and encountered idols (16–17), and the covenant made at the exodus (25).
@@ -419,6 +425,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Recalled in the epitaph (11).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

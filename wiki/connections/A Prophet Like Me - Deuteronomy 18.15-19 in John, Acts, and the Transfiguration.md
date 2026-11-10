@@ -9,8 +9,8 @@ tags: [connection]
 
 - [[A Prophet Like Moses]] — Deuteronomy 18:15–19; *"Yahweh your God will raise up to you a prophet
   from among you, of your brothers, like me. You shall listen to him"* (15).
-- Deuteronomy 34:10 — *"Since then, there has not arisen a prophet in Israel like Moses, whom Yahweh
-  knew face to face"* (stored WEB, not yet ingested).
+- [[The Death of Moses]] — Deuteronomy 34:10; *"Since then, there has not arisen a prophet in Israel
+  like Moses, whom Yahweh knew face to face"* (stored WEB).
 - John 1:21, 25 — *"Are you the prophet?"* … *"Why then do you baptize, if you are not the Christ, nor
   Elijah, nor the prophet?"*
 - John 6:14; 7:40 — *"This is truly the prophet who comes into the world"*; *"This is truly the

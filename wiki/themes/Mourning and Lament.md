@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Israel weeps thirty days for Moses, *until the days of weeping in the mourning for Moses were ended* (8), as for Aaron (Numbers 20:29). See [[Aaron on Hor and Moses on Nebo - Numbers 20 and Deuteronomy 34]].
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### A month for her father and mother — Deuteronomy 21:13
 
 The captive shall *"bewail her father and her mother a full month"* (13) before she becomes a wife —
@@ -244,6 +250,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Thirty days of weeping (8).
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.

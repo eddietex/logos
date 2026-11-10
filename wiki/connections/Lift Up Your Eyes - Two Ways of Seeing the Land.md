@@ -16,7 +16,7 @@ tags: [connection]
   to the eyes … she took some of its fruit, and ate."*
 - **Genesis 6:2** — *"God's sons saw that men's daughters were beautiful, and they took any that
   they wanted for themselves as wives."*
-- **Deuteronomy 34:1–4** — Moses on Nebo: *"Yahweh showed him all the land … 'I have caused you to
+- [[The Death of Moses]] — Deuteronomy 34:1–4, Moses on Nebo: *"Yahweh showed him all the land … 'I have caused you to
   see it with your eyes, but you shall not go over there.'"*
 - **Matthew 4:8–10** — *"the devil took him to an exceedingly high mountain, and showed him all the
   kingdoms of the world and their glory. He said to him, 'I will give you all of these things, if you

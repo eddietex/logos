@@ -68,8 +68,16 @@ is drawn with a church and the caption *Balak also Segor* on the sixth-century M
 Like every other identification in the plain, it is not settled — see [[Sodom]] for why the whole
 region's geography is contested.
 
+
+### The death of Moses — Deuteronomy 34:1–12
+
+Zoar, Lot's refuge, is the last place named in the view from Nebo (3).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The southern end of the view (3).
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:2, 8, as *Bela (also called Zoar)*; its king
   joins the revolt against Chedorlaomer and loses in the valley of Siddim
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:20–23, spared at Lot's request and named

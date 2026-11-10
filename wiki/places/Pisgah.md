@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Moses ascends *to the top of Pisgah*, joined with Mount Nebo (1), and is shown the land, fulfilling 3:27. The relation of Pisgah to Nebo is not stated.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 Its slopes locate the sea of the Arabah within the eastern territorial summary (49). No ascent or vision from its summit is narrated here.
@@ -41,6 +47,7 @@ valley in the field of Moab. The verse does not narrate Moses’ later death or 
 Source: stored WEB Numbers 21:10–20.
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The ascent and view (1).
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

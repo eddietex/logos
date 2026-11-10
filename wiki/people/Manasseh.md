@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+*The land of Ephraim and Manasseh* is part of the view from Nebo (2); the name denotes tribal territory.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Manasseh’s thousands share Joseph’s blessing with Ephraim’s ten thousands (17). The tribe is
@@ -193,6 +199,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

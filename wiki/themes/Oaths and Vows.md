@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Yahweh calls the land *the land which I swore to Abraham, to Isaac, and to Jacob* (4). The oath stands though its mediator does not enter.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The entire assembly enters Yahweh’s covenant and oath (10–15), grounded in his oath to the fathers. This is communal allegiance across generations, not an optional private vow.
@@ -428,6 +434,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The land oath restated (4).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The view includes *the south* (3); the Hebrew has *haNegev* (MAM via Sefaria).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The South locates the king of Arad within Canaan (40).
@@ -56,6 +62,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; *The south* (3).
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7, *in the South*: one of the regions of the land Israel is told to go to and possess.
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

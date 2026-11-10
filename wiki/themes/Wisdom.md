@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Joshua is *full of the spirit of wisdom* through Moses' hands (9): wisdom here equips for leadership.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The secret belongs to Yahweh, while revelation is entrusted to the people and their children for obedience (29). Unlike royal investigation in Proverbs 25:2, this verse emphasizes the practical obligation arising from what is known.
@@ -818,6 +824,7 @@ comparison passages identified on that page.
 
 ## Key passages
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The spirit of wisdom in Joshua (9).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:1–14; keeping the statutes as Israel's wisdom.

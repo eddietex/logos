@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Nebo is *over against Jericho* (1), and the view ends with *the Plain of the valley of Jericho the city of palm trees* (3).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Jericho locates Mount Nebo across from it (49). The city is a geographical reference point; no entry
@@ -58,6 +64,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; Opposite Nebo; *the city of palm trees* (1, 3).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 

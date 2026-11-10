@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+The land shown to Moses is *the land which I swore to Abraham, to Isaac, and to Jacob* (4), quoting the promise *I will give it to your offspring*.
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Choose life — Deuteronomy 30:11–20
 
 Named with Isaac and Jacob as the fathers to whom Yahweh swore the land (20). Ancestral remembrance, not presence.
@@ -890,6 +896,7 @@ promise persists even when the terms of divine accompaniment are disputed. See
 
 ## Appears in
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; The sworn land shown to Moses (4).
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 

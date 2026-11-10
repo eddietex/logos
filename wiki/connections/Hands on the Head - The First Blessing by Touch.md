@@ -16,8 +16,9 @@ tags: [connection]
   the scapegoat
 - **Leviticus 24:14; Numbers 8:10** — witnesses' hands on a blasphemer's head; Israel's hands on the
   Levites — [[The Lamps and the Levites Cleansed]]
-- **Numbers 27:18–23; Deuteronomy 34:9** — Moses lays his hands on Joshua, *"and he was full of
-  wisdom"*
+- **Numbers 27:18–23; Deuteronomy 34:9** — Moses lays his hands on Joshua; *"Joshua the son of Nun
+  was full of the spirit of wisdom; for Moses had laid his hands on him"* (stored WEB) —
+  [[The Death of Moses]]
 - **Mark 10:16** — *"He took them in his arms and blessed them, laying his hands on them"*
 - **Acts 6:6; 13:3; 1 Timothy 4:14; 5:22; 2 Timothy 1:6** — appointment, commissioning, and *"the gift
   of God which is in you through the laying on of my hands"*
@@ -98,7 +99,9 @@ Moses *laid his hands on him* (23; plural *yādāyw*) (MAM via Sefaria; WEB foll
 accompanies a commissioning before Eleazar and the congregation, and verse 20 adds the giving of
 *authority*. Numbers does not say the gesture transmits the Spirit; Joshua already has *the Spirit*
 in verse 18. Deuteronomy 34:9 later links Moses' hands to Joshua being *full of the spirit of
-wisdom* (WEB, verified; not yet ingested). See [[Joshua Commissioned]]. Source: stored WEB Numbers
+wisdom* (stored WEB; now ingested as [[The Death of Moses]]). The two accounts differ in order:
+Numbers names the Spirit in Joshua before the gesture, Deuteronomy gives the gesture as the reason
+for his fullness. Both are kept; neither text reconciles them. See [[Joshua Commissioned]]. Source: stored WEB Numbers
 27:18–23.
 
 ## Significance

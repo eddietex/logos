@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The death of Moses — Deuteronomy 34:1–12
+
+Moses climbs Nebo to the top of Pisgah, is shown the whole land, and dies there in Moab, *the servant of Yahweh*, *according to Yahweh's word* (1–5). He is buried opposite Beth Peor in a grave no one knows (6). He is 120, eye not dim and strength not gone (7) — an explicit tension with his own *I can no more go out and come in* at 31:2, kept unresolved. Israel weeps thirty days (8), Joshua is obeyed (9), and no prophet like Moses has arisen since, whom Yahweh knew face to face (10–12).
+
+See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Called the man of God, Moses blesses Israel before his death (1). His exclusion from entry in
@@ -1601,6 +1607,7 @@ See [[The Defeat at Hormah]].
 
 ## Timeline / key events
 
+- [[The Death of Moses]] — Deuteronomy 34:1–12; shown the land from Nebo, dies at 120 by Yahweh's word, buried in an unknown grave, mourned thirty days.
 - [[Sihon and Og]] — Moses sends scouts to Jazer (32) and receives Yahweh’s assurance before the battle with Og (34). His leadership in these victories does not revoke the Meribah sentence concerning entry into the land.
 
 
@@ -1867,6 +1874,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Death of Moses]] — Deuteronomy 34:1–12; His death, burial, mourning, and epitaph.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
