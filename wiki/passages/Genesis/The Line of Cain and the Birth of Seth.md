@@ -124,7 +124,7 @@ the garden gate closed.
   Yahweh's name"* — the Bible's first note of anything like public worship.
 - [[Eve]] — speaks for the second and last time in Scripture, naming Seth and crediting God, as she
   did at 4:1. Both of her recorded sentences are about a son given.
-- [[Adam]] — named as *Adam* rather than *"the man"* for the first time in a narrative sentence
+- [[Adam (person)]] — named as *Adam* rather than *"the man"* for the first time in a narrative sentence
   (4:25), which is where the word finishes becoming a name.
 - Adah and Zillah — Lamech's two wives, the first women named in the Bible after Eve, and the
   addressees of its first poem. Genesis gives them no words and no story; what they carry is the

@@ -77,7 +77,7 @@ in a link.
 - [[Enoch (son of Jared)]] — his grandfather, who was taken by God when Lamech was 113
 - [[Lamech (son of Methushael)]] — his namesake in the line of Cain, and his opposite in everything
   he is recorded as saying
-- [[Adam]] — the first man, still alive for the first fifty-six years of Lamech's life by the
+- [[Adam (person)]] — the first man, still alive for the first fifty-six years of Lamech's life by the
   chapter's arithmetic; Lamech is the last man in the line who could have met him
 
 ## Themes associated

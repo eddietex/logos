@@ -293,7 +293,7 @@ page. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored W
 
 ## Related people
 
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[God]]
 - [[Noah]]

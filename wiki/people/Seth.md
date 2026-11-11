@@ -55,7 +55,7 @@ about whom nothing is narrated.
 ## Related people
 
 - [[Eve]] — his mother, who names him and explains the name
-- [[Adam]] — his father, called *Adam* rather than *"the man"* for the first time in the verse that
+- [[Adam (person)]] — his father, called *Adam* rather than *"the man"* for the first time in the verse that
   reports Seth's birth
 - [[Abel]] — the brother he is named as a replacement for
 - [[Cain]] — his brother, whose line the narrative abandons at the verse Seth is born in

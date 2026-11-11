@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The priests described as Levites carry the covenant ark before Israel and stand in the river until everyone crosses (3, 17). This is an act of descendants, not of the patriarch; no individual priest is named. The passage does not explain how this assignment relates to the Kohathite carrying duties in Numbers 4.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 The blessing associates Levi with Urim and Thummim, testing, covenant loyalty above kinship,
@@ -281,6 +288,9 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 

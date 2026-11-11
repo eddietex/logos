@@ -135,7 +135,7 @@ the human heart and grieves; the world is sentenced; one man finds favor. Everyt
 - [[Noah]] — named in the last four words and nowhere else in the unit. He is given no act, no
   speech, and not yet a character reference: only that he *found favor*. Everything the reader knows
   about him at this point comes from Genesis 5:29 and 5:32.
-- [[Adam]] — not as an individual. Verses 1, 3, 5, 6, and 7 all use *ʾādām*, and all of them mean
+- [[Adam (person)]] — not as an individual. Verses 1, 3, 5, 6, and 7 all use *ʾādām*, and all of them mean
   humanity collectively, which is the sense the name carried in Genesis 1:26–27 before Genesis 5:3
   narrowed it to one man. The whole species is on trial here under the first man's name, and the
   narrator does not distinguish them, which is exactly the ambiguity Romans 5:12 will build on.

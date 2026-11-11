@@ -3,9 +3,12 @@ type: person
 also_known_as: [the man, ha-adam]
 tags: [person]
 ---
-# Adam
+# Adam (person)
 
 ## Overview
+
+The qualifier distinguishes this person from [[Adam (city)]], named in Joshua 3:16.
+
 
 The first human being. His name is not really a name at first: Hebrew *ʾādām* is the ordinary
 word for "human", and through Genesis 2–3 the text almost always writes *hā'ādām*, "**the** man",

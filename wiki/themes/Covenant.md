@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The covenant ark leads Israel into the river (3, 6, 11, 17). Covenant presence accompanies entry; this is no new covenant ceremony and no new set of terms is given.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Levi’s keeping of the covenant grounds praise (9). The national blessing follows the warnings of
@@ -586,6 +593,9 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

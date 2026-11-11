@@ -35,6 +35,10 @@ strong and courageous* returned to him.
 protection of the spies lead to an oath for her household, and the spies carry her confidence back
 to Joshua. The land’s frightened inhabitants now supply the encouragement Israel needs.
 
+[[Crossing the Jordan]] (3:1–17) brings the nation across on dry ground, with the covenant ark leading
+and its priests standing in the river. The event confirms Yahweh’s presence with Joshua and
+among Israel; conquest remains ahead.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -51,12 +55,12 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **3 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **4 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
 - [x] [[Rahab and the Spies]] — Joshua 2:1–24
-- [ ] Crossing the Jordan — Joshua 3:1–17
+- [x] [[Crossing the Jordan]] — Joshua 3:1–17
 - [ ] The Twelve Stones from the Jordan — Joshua 4:1–24
 - [ ] The Second Circumcision at Gilgal — Joshua 5:1–9
 - [ ] Passover at Gilgal and the End of the Manna — Joshua 5:10–12

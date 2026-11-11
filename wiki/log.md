@@ -29,7 +29,7 @@ ingestion queue) and a `pericopes_confirmed` frontmatter flag, replacing the old
 outline/passage lists; `CLAUDE.md` documents the queue, the fetch script, and the new
 `/ingest` skill.
 
-Deliberately-unresolved links left for later pericopes: `[[Adam]]`, `[[Eve]]`, `[[Eden]]`.
+Deliberately-unresolved links left for later pericopes: `[[Adam (person)]]`, `[[Eve]]`, `[[Eden]]`.
 
 Open question flagged on `[[Creation as the Ground of the Sabbath Command]]`: Exodus 20 grounds
 the Sabbath in creation, Deuteronomy 5 in the exodus — two rationales for one command, held side
@@ -101,7 +101,7 @@ a real page), `wiki/connections/In the Beginning - Genesis 1 and John 1.md` (the
 was holding open — Genesis 2:7 and John 20:22 share the Septuagint's verb *enephysēsen*), the
 Genesis book page and index, all four category indexes, and `wiki/index.md` counts.
 
-Resolved three links the first ingest deliberately left dangling: `[[Adam]]`, `[[Eve]]`,
+Resolved three links the first ingest deliberately left dangling: `[[Adam (person)]]`, `[[Eve]]`,
 `[[Eden]]`.
 
 Tensions written out rather than smoothed:
@@ -10329,7 +10329,7 @@ by reference only). Job and Genesis texts checked against `raw/bible/`.
 ### Pages created or revised
 
 Created (3): the passage page and two connections. People (7): [[Job (person)]] (timeline and
-appears-in), [[God]] (Job section and appears-in), [[Job's Wife]], [[Adam]], [[Eliphaz the Temanite]],
+appears-in), [[God]] (Job section and appears-in), [[Job's Wife]], [[Adam (person)]], [[Eliphaz the Temanite]],
 [[Satan]] (note that the WEB's *"accuser"* at 31:35 is not *haśśāṭān*), [[Zophar the Naamathite]].
 Places (2): [[Sheol]] (Abaddon, 31:12), [[Ophir]]. Themes (15): [[Integrity]], [[Oaths and Vows]],
 [[Righteousness]], [[Sexual Sin]] and [[Idolatry]] and [[Slavery and Servitude]] (each with a new
@@ -24552,3 +24552,43 @@ WLC comparisons retain their source attribution; the pre-existing Augustine attr
 explicitly marked unverified on the connection page. Raw files and workflow instructions were
 unchanged. Link checks passed with no wrapped or dangling links; 56 unopened book pages remain
 the expected baseline. No operational blocker or deliberately dangling link remains.
+
+## [2026-11-10] ingest | Joshua 3.1-17 — Crossing the Jordan
+
+Ingested exactly Joshua 3:1–17 in unattended mode, retaining the planned boundary. Created
+[[Crossing the Jordan]], [[Adam (city)]], and [[Zarethan]]. Joshua now has 4 / 42 pericopes
+ingested and remains in progress. The twelve stones and the completion of the ark's crossing
+remain for chapter 4.
+
+Revised 27 existing content pages substantively: Joshua; God, Joshua (son of Nun), Moses,
+Levi, and the Children of Heth; Shittim, the Jordan, Jericho, and the Salt Sea; Holiness,
+Covenant, Land and Sojourning, Law and Obedience, Priesthood, Call and Election, War,
+Signs and Wonders, the Dwelling of God, and the Nations; the presence, dry-ground, and
+ark-march connection pages; and four reciprocal passage cross-reference lists. Revised the
+category indexes and dashboard. Three pages created and 79 existing files revised, including
+one rename, the log, and mechanical inbound-link repairs (82 wiki files in the pass).
+
+The newly encountered city requires the existing person to become [[Adam (person)]], with
+both qualifiers visible. Renamed the person page, added its distinction from the city, and
+repaired inbound links throughout the wiki. The historical log received only the necessary
+link-target repair; its prior narrative and chronology were preserved. No source or workflow
+instructions changed.
+
+The passage absorbs the discussion: the sign confirms both Joshua's leadership and God's
+presence among Israel; the covenant ark leads while priests stand; the promised expulsion is
+not yet completed conquest. Preserved the unresolved three-day chronology across Joshua 1–3
+and distinguished the river's stopped flow from Exodus 14's divided sea. The priests' carrying
+role is recorded alongside the Kohathite transport rules without inventing a reconciliation.
+No modern identification or natural mechanism is assigned to Adam or Zarethan. Unnamed
+officers and priests receive no invented individual identities; the seven peoples are handled
+collectively through the Nations and the existing Children of Heth page.
+
+All new Bible quotations were copied from stored WEB Joshua 3 and checked mechanically against
+it. Comparisons were checked in stored WEB Joshua 1–4, Exodus 14, Numbers 10, and Numbers 4:4–15.
+No unstored-book quotation or new source-language assertion was introduced. Frontmatter counts:
+398 passages, 260 people, 227 places, 87 themes, 796 connections; 10 books started, nine complete.
+The dashboard's inherited people count was corrected to the actual frontmatter count.
+
+Final link checks passed: no wrapped or dangling links, with 56 unopened book pages as the
+expected baseline. No duplicate non-index basenames remain. No operational blocker or
+deliberately unresolved link remains.

@@ -86,7 +86,7 @@ saved his household because they were in his boat, and nobody else. The other tw
 hero was a known figure of proverbial righteousness, and puts Noah in a very short list.
 
 Two things worth holding from this chapter alone. By its own arithmetic he is the first man in the
-line who never met [[Adam]] — Adam dies 126 years before Noah is born, and Lamech, his father, is
+line who never met [[Adam (person)]] — Adam dies 126 years before Noah is born, and Lamech, his father, is
 the last of the ten who overlapped the first man. And his grandfather [[Methuselah]], the
 longest-lived person in Scripture, dies in the same year the flood comes.
 
@@ -167,7 +167,7 @@ his own tent. See [[Comfort from the Cursed Ground - Naming Noah]] and [[The Vin
 to it anywhere else in Scripture: the New Testament praises him four times (Hebrews 11:7, 1 Peter
 3:20, 2 Peter 2:5, and Jesus at Matthew 24:37–39) and never mentions the vineyard. Nothing withdraws
 the *ṣaddîq* of 6:9 or God's own *"I have seen your righteousness"* of 7:1. The book simply reports
-both and reconciles neither, which is what it does with [[Adam]], with Lamech, and with almost
+both and reconciles neither, which is what it does with [[Adam (person)]], with Lamech, and with almost
 everyone in the primeval history.
 
 **His first recorded words are a curse.** *"Canaan is cursed. He will be a servant of servants to his
@@ -241,7 +241,7 @@ his own entry closed with; see
 - [[Methuselah]] — his grandfather, alive for the first six hundred years of Noah's life
 - [[Enoch (son of Jared)]] — his great-great-grandfather, and the only other man said to walk with
   God
-- [[Adam]] — ten generations back, and the first man Noah could not have met
+- [[Adam (person)]] — ten generations back, and the first man Noah could not have met
 - [[Seth]] — the son through whom the line reaches him, rather than through [[Cain]]
 - [[God]] — who takes Enoch in Genesis 5, offers him the Bible's first covenant at 6:18, and shuts
   the door of the ark himself at 7:16

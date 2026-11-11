@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
+
 - **Genesis 1:2, 9–10** — darkness over the deep; *"let the dry land appear … God called the dry land
   'earth'"* — [[The Creation of the World]]
 - **Genesis 7:11, 22** — *"all the fountains of the great deep burst open"*; *"All on the dry land, in
@@ -23,6 +26,13 @@ tags: [connection]
   [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
 
 ## Analysis
+
+### The Jordan crossing
+
+Joshua 3:17 narrates another national passage on dry ground. Exodus 14:21–22 describes wind and divided sea waters with walls on both sides; Joshua 3:15–16 describes priests entering an overflowing river, upstream water stopping at Adam, and downstream flow being cut off. The pattern continues without identical physical details. Exodus 14:31 ends in recognition of Yahweh and Moses; Joshua 3:7 announces recognition of Joshua through Yahweh’s presence. Joshua 4:23 will explicitly compare the crossings, but that belongs to the next pericope.
+
+Source: stored WEB Joshua 3, Exodus 14, and Numbers 10; Joshua 4:23 for the forward comparison.
+
 
 **Exodus 14 tells the crossing in the vocabulary of the first two chapters of the world.** Four Hebrew
 words carry it, each checked in the WLC with a lemma search of Genesis–Deuteronomy:

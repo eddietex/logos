@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The river crossing makes entry possible while the expulsion of the seven peoples remains a promise (10, 17). Crossing the boundary must not be equated with completing possession.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab acknowledges that Yahweh has given Israel the land (9), and the spies repeat that certainty to Joshua (24). A resident’s report of fear becomes encouragement to the people who are about to enter.
@@ -826,6 +833,9 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; rest and possession east of the Jordan, deferred for the brothers (13–15).
 - [[After the Death of Moses]] — Joshua 1:1–9; the land given in Deuteronomy 11:24's border (3–4).

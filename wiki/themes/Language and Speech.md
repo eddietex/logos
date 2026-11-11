@@ -1080,7 +1080,7 @@ in the book written by one person for another. See
 - [[Agur]] — his confession, prayer, and warnings in [[The Words of Agur]].
 
 - [[God]] — who creates by speaking, and who confuses speech to stop a project
-- [[Adam]] — the first namer, and the first speaker of a line of poetry
+- [[Adam (person)]] — the first namer, and the first speaker of a line of poetry
 - [[The Serpent]] — whose one contribution is a question about what was said
 - [[Noah]] — silent until the words he speaks are a curse
 - [[Lamech (son of Methushael)]] — the first man to sing about himself

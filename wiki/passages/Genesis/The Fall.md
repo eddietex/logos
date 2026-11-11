@@ -119,7 +119,7 @@ and the walking in the cool of the day.
   itself; the identification with Satan is made elsewhere in Scripture, not here.
 - [[Eve]] — the one addressed, the one who answers, the one who takes. She is called *the woman*
   through the whole scene and receives her name only at 3:20, after the sentence.
-- [[Adam]] — present with her (*"her husband with her"*, 3:6) and silent until questioned, then
+- [[Adam (person)]] — present with her (*"her husband with her"*, 3:6) and silent until questioned, then
   answering with a sentence that blames his wife and, behind her, God. From 3:17 the text begins
   to use his name without the article.
 - [[God]] — here as the one who walks in the garden, calls, questions, sentences, clothes, and

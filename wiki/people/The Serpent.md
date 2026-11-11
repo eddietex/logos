@@ -79,7 +79,7 @@ actually is.
 ## Related people
 
 - [[Eve]] — the one it addresses; *"The serpent deceived me, and I ate"* (3:13)
-- [[Adam]] — present through the conversation and never addressed by it
+- [[Adam (person)]] — present through the conversation and never addressed by it
 - [[God]] — who made it, and who sentences it without questioning it
 - [[Satan]] — the Old Testament's *haśśāṭān*, identified with this serpent by Revelation 12:9 and by
   nothing in the Hebrew Bible

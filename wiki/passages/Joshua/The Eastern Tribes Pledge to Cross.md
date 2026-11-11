@@ -67,6 +67,9 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 - [[War]]
 
 ## Cross-references
+
+- [[Crossing the Jordan]] — Joshua 3:1–17; the crossing confirms the successor and the ark leads the people.
+
 - [[After the Death of Moses]] — Joshua 1:1–9, the charge this passage carries out and whose
   closing words the people give back.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42, the original agreement.

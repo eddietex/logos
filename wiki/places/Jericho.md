@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Israel crosses the Jordan near Jericho (16). The city locates the crossing, but no siege or entry into Jericho occurs in this pericope.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 The spies enter Rahab’s house in Jericho; its king orders their surrender, but she conceals them (1–7). Her house is on the city wall, allowing escape through a window (15). This is now an event within the city, unlike its earlier use as a distant geographical landmark; the city has not yet fallen.
@@ -70,6 +77,9 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Opposite Nebo; *the city of palm trees* (1, 3).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

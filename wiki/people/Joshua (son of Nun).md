@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Joshua moves the camp from Shittim, commands sanctification and the priests’ advance, and announces the stopping of the river (1, 5–13). Yahweh promises public confirmation of his leadership by the same presence given Moses (7). Joshua commands; the priests carry the ark into the water.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Joshua secretly sends two unnamed spies from Shittim to inspect the land and Jericho (1). They return directly to him with Rahab’s testimony of the inhabitants’ fear and a confident report of Yahweh’s gift (23–24). The text does not explain why he chooses two.
@@ -206,6 +213,9 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; commands the officers and holds the eastern tribes to Moses' word; they pledge obedience and return the courage charge.

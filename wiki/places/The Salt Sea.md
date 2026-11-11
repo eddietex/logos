@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The sea of the Arabah is explicitly identified as the Salt Sea, toward which the downstream waters flow before being cut off (16). The people cross the Jordan, not this sea.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The sea of the Arabah below Pisgah is the endpoint in verse 49. Deuteronomy 3:17 explicitly identifies this sea as the Salt Sea; the shorter designation here does not introduce another sea.
@@ -62,6 +69,9 @@ river from the temple running down into it and healing it, so that fishermen sta
 an image that depends entirely on the reader knowing nothing lives in it.
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 

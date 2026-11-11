@@ -1443,7 +1443,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 - [[God]]
 - [[Abraham]]
 - [[Lot]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[The Serpent]]
 - [[Cain]]

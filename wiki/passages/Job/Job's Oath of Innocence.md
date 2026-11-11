@@ -203,7 +203,7 @@ is the only comment the book ever makes on whether the oath was true.
   she is mentioned in the book.
 - [[Eliphaz the Temanite]] — not named, and answered: the charges of 22:6–9 and 22:24 are denied one by
   one at 31:16–25.
-- [[Adam]] — *"if like Adam I have covered my transgressions"* (31:33), on the WEB's reading of
+- [[Adam (person)]] — *"if like Adam I have covered my transgressions"* (31:33), on the WEB's reading of
   *kəʾādām*.
 - [[Satan]] — **not present.** The *"accuser"* of 31:35 in the WEB is *ʾîš rîbî*, Job's opponent at law,
   not *haśśāṭān*; but the sin Job denies at 31:27–28 is the one the accuser predicted at 1:11 and 2:5.

@@ -87,7 +87,7 @@ or a deliberate erasure, or the seam between two sources, is set out on
 - [[Seth]] — the brother born after him, *"instead of Abel"*, and the one the rest of Scripture
   follows
 - [[Eve]] — his mother, who credits Yahweh with his birth
-- [[Adam]] — his father, whose trade and whose cursed ground he inherits
+- [[Adam (person)]] — his father, whose trade and whose cursed ground he inherits
 - [[God]] — who warns him before the murder, questions him after it, sentences him, and then
   guarantees his life
 

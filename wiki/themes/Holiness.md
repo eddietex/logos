@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Joshua commands the people to sanctify themselves before the promised wonders (5). The text specifies no washing or other ritual here. The distance from the ark is expressly explained by the need to see the unfamiliar route (4); a further ritual explanation should not replace that reason.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 The exclusion is explained as failure to uphold Yahweh’s holiness among Israel (51), recalling
@@ -759,6 +766,9 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[Blessings for Obedience (Deuteronomy)]] — Deuteronomy 28:1–14.

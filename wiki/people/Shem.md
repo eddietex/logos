@@ -149,7 +149,7 @@ Abraham's life, and Genesis never once puts them in the same place. See
 - [[Abraham]] — nine generations down the register from him, and by its arithmetic his contemporary
   for a hundred and seventy-five years
 - **His wife** — one of the eight in the ark, unnamed here and everywhere in Scripture
-- [[Adam]] — ten generations back through [[Seth]]
+- [[Adam (person)]] — ten generations back through [[Seth]]
 - [[God]] — who is called, uniquely in the primeval history, *the God of Shem* (9:26)
 
 ## Themes associated

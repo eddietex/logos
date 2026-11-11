@@ -221,7 +221,7 @@ the next unit, Genesis 8:1–22.
   *Book of Jubilees* supplies Emzara for Noah's wife, the Genesis Apocryphon has Bitenosh, and
   medieval sources multiply the names further. None of it is in the text. No pages are created for
   them here because there is nothing yet to put on one; that may change at 9:18–29.
-- [[Adam]] — not named, but 7:22's *"in whose nostrils was the breath of the spirit of life"* is
+- [[Adam (person)]] — not named, but 7:22's *"in whose nostrils was the breath of the spirit of life"* is
   quoting the making of the man at 2:7, and using it to describe what dies.
 
 ## Places

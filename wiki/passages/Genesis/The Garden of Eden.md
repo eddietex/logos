@@ -83,7 +83,7 @@ See [[Two Creation Accounts - Genesis 1 and Genesis 2]] for how the two relate.
 
 - [[God]] — here **Yahweh God** for the first time, and portrayed with his hands in the material:
   he forms, breathes, plants, takes, puts, commands, builds, and brings.
-- [[Adam]] — formed from dust, animated by God's breath, given a garden, a job, a command, and
+- [[Adam (person)]] — formed from dust, animated by God's breath, given a garden, a job, a command, and
   finally a counterpart. Not yet a proper name in this passage: the Hebrew reads *hā'ādām*,
   "the man".
 - [[Eve]] — built from the man's side and brought to him; unnamed here (she is *ishshah*,

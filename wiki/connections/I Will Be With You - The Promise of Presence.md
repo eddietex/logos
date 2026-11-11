@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
+
 - [[The Covenant Renewed]] — Exodus 34:1–28.
 
 - [[Show Me Your Glory]] — Exodus 33:1–23; presence, mediated speech, and promised revelation.
@@ -31,6 +34,13 @@ tags: [connection]
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; dwelling and accompaniment together at the book’s close.
 
 ## Analysis
+
+### The Jordan crossing
+
+Joshua 3:7 turns the assurance of 1:5 into a promise of public confirmation: Israel is to know that Yahweh is with Joshua as with Moses. Verse 10 extends the knowledge from the leader to the people: the living God is among them. This is confirmation through an announced event, not merely a repeated wish.
+
+Source: stored WEB Joshua 3, Exodus 14, and Numbers 10; Joshua 4:23 for the forward comparison.
+
 
 **The formula is not in the Abrahamic promises. It enters Scripture when the promise starts
 travelling.**

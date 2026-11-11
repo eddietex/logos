@@ -65,7 +65,7 @@ from a passage that says so little.
 ## Related people
 
 - [[Cain]] — his brother, and his killer
-- [[Adam]] and [[Eve]] — his parents
+- [[Adam (person)]] and [[Eve]] — his parents
 - [[Seth]] — the brother born after him, named for the vacancy he left
 - [[God]] — who respects his offering and hears his blood
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The announced wonder supplies knowledge: Yahweh is with Joshua as with Moses (7), and the living God is among Israel (10). Prediction precedes the priests’ entry and the stopping of the water (13–17).
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The epitaph sums up Moses' work as *all the signs and the wonders, which Yahweh sent him to do in the land of Egypt* and *the mighty hand* and *awesome deeds* (11–12).
@@ -146,6 +153,9 @@ signs, and with wonders."* The list of 4:34, now put in the mouth of every house
 first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The epitaph's signs and wonders (11–12).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

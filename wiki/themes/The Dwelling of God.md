@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The living God’s presence among Israel is shown through the passage of the covenant ark (10–13). The title Lord of all the earth broadens the horizon beyond a local river or territory.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 God himself is Israel’s dwelling place, with everlasting arms beneath (27); Benjamin is covered in
@@ -598,6 +605,9 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 

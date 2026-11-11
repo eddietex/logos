@@ -784,7 +784,7 @@ merge, or reorder them freely.
 ## Key people
 
 - [[God]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[The Serpent]]
 - [[Cain]]

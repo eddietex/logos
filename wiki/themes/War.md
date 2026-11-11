@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The stopping of the river is announced as assurance of the future expulsion of seven peoples (10). The crossing itself contains no battle, and the assurance is not a report that those peoples have already been defeated.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Reconnaissance involves local testimony, concealment, pursuit, and escape before any siege (1–24). The promise to spare Rahab’s household complicates an undifferentiated picture of destruction; Joshua 2 establishes the undertaking without yet narrating its execution.
@@ -518,6 +525,9 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the eastern fighting men cross armed (14).
 - [[After the Death of Moses]] — Joshua 1:1–9; *No man will be able to stand before you* (5).

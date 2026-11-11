@@ -409,7 +409,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 - [[God]]
 - [[The Serpent]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Cain]]
 - [[Noah]] — the first human being to pronounce one
 - [[Canaan (son of Ham)]] — the first person cursed for someone else's act

@@ -14,7 +14,7 @@ tags: [connection]
 ## Analysis
 
 Paul does something with Genesis 3 that Genesis 3 does not do with itself: he makes it universal,
-and he makes it comparative. [[Adam]] is not just the first man who sinned; he is a *type*, one of
+and he makes it comparative. [[Adam (person)]] is not just the first man who sinned; he is a *type*, one of
 two figures whose single act determines the standing of everyone attached to him.
 
 **Romans 5:12–21 — the parallel of two acts.**

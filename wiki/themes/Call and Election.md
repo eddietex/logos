@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Yahweh begins to establish Joshua publicly so Israel will know that he is with him as with Moses (7). The crossing confirms an existing commission; it is not Joshua’s first call.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Joshua addressed — Joshua 1:1–9
 
 Yahweh's first speech to Joshua is a commission without a call scene: no objection, no sign, and no description of how the word came. The charge is to rise, cross, and give the land as inheritance (2, 6).
@@ -267,6 +274,9 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[After the Death of Moses]] — Joshua 1:1–9; Yahweh's first word to Joshua; commission without objection.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.

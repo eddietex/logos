@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Joshua and all Israel leave Shittim and camp at the Jordan before crossing (1). The departure ends this campsite’s role in the immediate narrative.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Joshua sends the two spies from Shittim (1). The camp previously associated with the Peor crisis becomes the departure point for a mission that returns in confidence.
@@ -24,6 +31,9 @@ foreign worship lead to the Peor crisis. The preceding setting is the plains of 
 this verse supplies no precise modern location.
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Stages of the Journey]] — Numbers 33:1–49, comparison rather than an explicit identification.

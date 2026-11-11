@@ -859,7 +859,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 ## Related people
 
 - [[God]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Noah]] — the first human being to bless, and to curse
 - [[Melchizedek]] — the first to bless someone outside his own family, and to bless God in the same
   breath

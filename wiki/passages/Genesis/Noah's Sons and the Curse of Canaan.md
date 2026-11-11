@@ -48,7 +48,7 @@ will be.
 > **21** He drank of the wine and got drunk. He was uncovered within his tent.
 
 The Hebrew of 20 is *wayyāḥel nōaḥ ʾîš hāʾădāmâ* — Noah began, **a man of the ground**. It is not the
-generic word for farming. *ʾĂdāmâ* is the ground of 2:7 that [[Adam]] was taken from, the ground
+generic word for farming. *ʾĂdāmâ* is the ground of 2:7 that [[Adam (person)]] was taken from, the ground
 cursed at 3:17, the ground that opened its mouth for Abel's blood at 4:11, and — the reason the
 phrase lands here — the ground [[Lamech (father of Noah)]] had in mind when he named this son:
 *"This one will comfort us in our work and in the toil of our hands, caused by the ground which

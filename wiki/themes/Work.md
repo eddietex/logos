@@ -1081,7 +1081,7 @@ quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timoth
 - [[Bezalel]] and [[Oholiab]] — named sanctuary makers in Exodus 31.
 
 - [[God]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Cain]]
 - [[Abel]]
 - [[Jabal]], [[Jubal]], [[Tubal Cain]] — the founders of the first three named crafts

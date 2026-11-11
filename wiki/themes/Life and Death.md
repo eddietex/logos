@@ -1440,7 +1440,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 ## Related people
 
 - [[God]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[Abel]]
 - [[Cain]]

@@ -138,7 +138,7 @@ the garden.
   saying it.
 - [[Eve]] — bears both sons and speaks the passage's opening line, crediting Yahweh with the
   birth. She is not present for anything else in the scene.
-- [[Adam]] — named only as *"the man"* in 4:1, and silent throughout. Both of these are his sons;
+- [[Adam (person)]] — named only as *"the man"* in 4:1, and silent throughout. Both of these are his sons;
   he loses both on the same day.
 - [[God]] — questions Cain before the murder as well as after it, and both times leaves him room
   to answer. Here he is prosecutor, judge, and then protector of the condemned.

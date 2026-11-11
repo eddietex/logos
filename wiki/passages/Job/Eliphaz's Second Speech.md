@@ -146,7 +146,7 @@ withdrawal precisely: *"You are all miserable comforters!"*
   conducted in the vocabulary of a patriarchal, non-Israelite setting. Here God is the one whose
   *sôd* is inaccessible (15:8), who distrusts even his holy ones (15:15), and whose breath removes
   the wicked (15:30).
-- [[Adam]] — not named, but 15:7's *"the first man who was born"* is a reach back to him, and to a
+- [[Adam (person)]] — not named, but 15:7's *"the first man who was born"* is a reach back to him, and to a
   wider tradition of a primeval man with founding knowledge. Eliphaz means it as an absurdity.
 
 ## Places
@@ -197,7 +197,7 @@ The speech names no other location. Its geography is entirely rhetorical: *"befo
   do away with fear"* (15:4) after Job's resolve to argue with God to his face (13:13–15).
 - [[Miserable Comforters and the Witness in Heaven]] — Job's answer, Job 16:1–17:16, which replies
   to this chapter point by point.
-- [[Adam]] — the first man of 15:7.
+- [[Adam (person)]] — the first man of 15:7.
 - [[The Sons of God and the Angels That Sinned]] — 15:15's *"holy ones"* whom God does not trust,
   alongside 4:18 and the wider question of the heavenly beings in Job.
 - [[Eliphaz's First Speech]] — Job 4:1–5:27: the night vision, the first *"what is man"*, and the

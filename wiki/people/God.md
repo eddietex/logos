@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Yahweh promises to establish Joshua before Israel (7). The crossing will show that the living God is among them and will drive out the seven named peoples (10); his rule is described as extending over all the earth (11, 13). The sign demonstrates presence before conquest is complete.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab confesses Yahweh as God in heaven and on earth after hearing of the exodus and the defeat of Sihon and Og (9–11). His gift of the land grounds both her plea for protection and the spies’ confident report (14, 24); no new divine speech is narrated here.
@@ -3798,6 +3805,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; gives rest and land; the people pray he be with Joshua as with Moses (17).
 - [[After the Death of Moses]] — Joshua 1:1–9; Speaks first to Joshua after Moses' death; gives the land, promises presence, commands courage and the book of the law.
@@ -4583,7 +4593,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 ## Related people
 
 - Humanity, made in his image — see [[Image of God]]
-- [[Adam]] — formed, breathed into, commissioned, and commanded by him
+- [[Adam (person)]] — formed, breathed into, commissioned, and commanded by him
 - [[Eve]] — built by him and brought to the man
 - [[The Serpent]] — a creature he made, sentenced without being questioned
 - [[Cain]] — warned, questioned, cursed, and then protected by him

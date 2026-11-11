@@ -29,7 +29,7 @@ Eliphaz's taunt is a compressed double allusion, and both halves matter.
 
 **"Are you the first man who was born?"** reaches back to a widespread ancient conception — attested
 in Israel and beyond it — of a primeval human who, because he was there at the beginning, possessed
-knowledge unavailable to anyone since. The Bible's version of that figure is [[Adam]], formed
+knowledge unavailable to anyone since. The Bible's version of that figure is [[Adam (person)]], formed
 directly by God, placed in the garden, and set to name the animals. Ezekiel 28:12–15 preserves a
 related tradition of a being in Eden, on God's holy mountain, *"full of wisdom and perfect in
 beauty"*.

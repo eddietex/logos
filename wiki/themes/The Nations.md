@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites are named in the promised expulsion (10). The passage gives no individual encounter with them, and no battle takes place here.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 A woman within threatened Jericho confesses Yahweh’s rule in heaven and earth and seeks protection under an Israelite oath (9–14). The story distinguishes her response from the king’s pursuit rather than treating all inhabitants as a single moral actor.
@@ -422,6 +429,9 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

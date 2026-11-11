@@ -158,7 +158,7 @@ one intermediary.
 
 ## People
 
-- [[Adam]] — the register's title and its first entry. Genesis 5:1–5 completes his passage from
+- [[Adam (person)]] — the register's title and its first entry. Genesis 5:1–5 completes his passage from
   *humanity* to *this man*: 5:2 uses *ʾādām* of the male-and-female pair God named, and 5:3 uses it
   of one man who lived 930 years. Both senses in three verses, which is the whole ambiguity of his
   name held on one page.

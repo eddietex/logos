@@ -127,6 +127,6 @@ See [[Righteousness and Wisdom Under Question]]. Source: stored WEB Ecclesiastes
 ## Related people
 
 - [[God]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[Seth]] — the first human being said to be fathered in his father's image and likeness

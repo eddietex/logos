@@ -66,7 +66,7 @@ This is the first place a reader of the Bible has to decide what kind of book th
 whether apparent seams are problems to solve, evidence to analyse, or a compositional method to
 learn to read. The decision made here tends to be made again at every later doublet.
 
-It also matters for how [[Adam]] is read. Chapter 1's humanity is a category (male and female,
+It also matters for how [[Adam (person)]] is read. Chapter 1's humanity is a category (male and female,
 plural, "let *them* have dominion"); chapter 2's is an individual with a job, a command, and a
 wife. Paul's use of Adam as a corporate figure (Romans 5, 1 Corinthians 15) depends on both being
 true at once.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+Unnamed Levitical priests carry the covenant ark into the Jordan and stand until all Israel crosses (3, 17). Their service supports the entire people. This passage does not reconcile their ark-bearing role with the Kohathite transport regulations of Numbers 4.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Levi’s blessing unites sacred discernment, teaching, incense, burnt offering, and covenant loyalty
@@ -726,6 +733,9 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 

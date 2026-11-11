@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
+
 - [[The March from Sinai]] — Numbers 10:33–36; the ark seeks a *resting place*, and Moses cries out at its moves
 - Psalm 68:1, 7 (WLC 68:2, 8) — *Let God arise!* *(WEB checked, not yet ingested)*
 - Psalm 132:8, 14 — *Arise, Yahweh, into your resting place* *(WEB checked, not yet ingested)*
@@ -18,6 +21,13 @@ tags: [connection]
 - Isaiah 66:1 — *Where will I rest?* *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### The Jordan crossing
+
+Numbers 10:33–36 has the covenant ark going ahead to seek a resting place, with Moses’ prayer at its movement and rest. Joshua 3:3–6 again places the ark ahead, now to show an unfamiliar route through the Jordan. The priests then stand in the river until the nation passes (17). The leading ark links the journeys; Joshua 3 does not repeat Moses’ prayer or describe a resting place.
+
+Source: stored WEB Joshua 3, Exodus 14, and Numbers 10; Joshua 4:23 for the forward comparison.
+
 
 Numbers 10:35–36 is two lines, and later texts seem to pick up both of them.
 

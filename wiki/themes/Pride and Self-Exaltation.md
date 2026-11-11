@@ -441,5 +441,5 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 - [[The Nephilim]] — the *men of renown*, literally the men of the name
 - [[Nimrod]] — the *gibbōr* whom tradition made the archetype of the theme, on evidence the text does
   not supply
-- [[Adam]] and [[Eve]] — offered likeness to God and taking it
+- [[Adam (person)]] and [[Eve]] — offered likeness to God and taking it
 - [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

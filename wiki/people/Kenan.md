@@ -38,7 +38,7 @@ He appears in the Bible three more times, always as a name in a list: 1 Chronicl
 
 - [[Enosh]] — his father
 - [[Mahalalel]] — his son
-- [[Seth]] and [[Adam]] — his grandfather and great-grandfather, both still living for the whole of
+- [[Seth]] and [[Adam (person)]] — his grandfather and great-grandfather, both still living for the whole of
   his first six centuries by the chapter's own arithmetic
 - [[Cain]] — no relation, and the resemblance of the two names is exactly the problem
 

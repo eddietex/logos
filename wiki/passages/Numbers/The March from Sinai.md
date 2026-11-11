@@ -100,6 +100,9 @@ Source: stored WEB, `raw/bible/Numbers.md`.
 
 ## Cross-references
 
+- [[Crossing the Jordan]] — Joshua 3:1–17; the crossing confirms the successor and the ark leads the people.
+
+
 - [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]]
 - [[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]]
 - [[As They Encamp, So They Set Out - Numbers 2.17 and 10.14-28]] — the order commanded and carried out

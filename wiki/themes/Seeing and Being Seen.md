@@ -768,7 +768,7 @@ glory appears to all Israel (10). See [[The People Refuse the Land]].
 - [[Hagar]] — who names God for seeing her, and is the only person in the Bible to name God at all
 - [[God]] — who sees that it is good, sees that wickedness is great, sees the affliction in Egypt, and
   is seen only from behind
-- [[Adam]] and [[Eve]] — whose eyes are opened, and who then hide
+- [[Adam (person)]] and [[Eve]] — whose eyes are opened, and who then hide
 - [[Lot]] — who lifts up his eyes and sees water
 - [[Abraham]] — who is told to lift up his eyes and look in four directions at ground he does not own
 - [[Job (person)]] — who asks both to be let alone and to be vindicated in sight of everyone

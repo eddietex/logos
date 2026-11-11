@@ -436,7 +436,7 @@ identified on the passage page.
 ## Related people
 
 - [[God]]
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[Noah]]
 - [[Elihu the Buzite]] — the fourth speaker in Job (32–37), unanswered

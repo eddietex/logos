@@ -77,4 +77,4 @@ Proverbs, Exodus, and Job use the stored WEB. No new source-language claim.
   [[A Covenant with My Eyes - Job 31.1 and Matthew 5.28]].
 - It sets Job as an anti-Adam without making him sinless: Job never claims he has not sinned at all
   (7:21; 13:26), only that he has not hidden what he did and has not done what he is charged with. See
-  [[Adam]], [[Guilt and Conscience]], [[Nakedness and Covering]], and [[Do Not Cover My Blood]].
+  [[Adam (person)]], [[Guilt and Conscience]], [[Nakedness and Covering]], and [[Do Not Cover My Blood]].

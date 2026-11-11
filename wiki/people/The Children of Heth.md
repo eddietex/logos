@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Crossing the Jordan — Joshua 3:1–17
+
+The Hittites are among seven peoples whom Yahweh promises to drive out (10). This is a national designation in a promise, not an action by the Hebron sellers of Genesis 23. Their earlier courtesy and the later displacement promise remain distinct portraits.
+
+See [[Crossing the Jordan]]. Source: stored WEB Joshua 3:1–17.
+
+
 The assembly at the gate of Hebron who sell Abraham a burial plot — and who behave, for eighteen
 verses, better than almost anyone else in Genesis.
 
@@ -96,6 +103,9 @@ See [[After the Death of Moses]]. Source: stored WEB Joshua 1:1–9.
   Jacob out of the country — Genesis 27:46, [[Isaac Sends Jacob to Paddan Aram]]
 
 ## Appears in
+
+- [[Crossing the Jordan]] — Joshua 3:1–17.
+
 - [[After the Death of Moses]] — Joshua 1:1–9; *all the land of the Hittites* in the border list (4).
 
 - [[The Table of Nations]] — Genesis 10:15; Heth as Canaan's second son

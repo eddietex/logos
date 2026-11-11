@@ -47,7 +47,7 @@ and Luke 3:38 names him (as *Enos*) four steps from the top of Jesus's genealogy
 
 - [[Seth]] — his father
 - [[Kenan]] — his son
-- [[Adam]] and [[Eve]] — his grandparents
+- [[Adam (person)]] and [[Eve]] — his grandparents
 - [[God]] — whose name is called on in his generation
 
 ## Themes associated

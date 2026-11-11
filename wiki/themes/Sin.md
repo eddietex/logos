@@ -1059,7 +1059,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 
 ## Related people
 
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[The Serpent]]
 - [[Cain]]

@@ -60,7 +60,7 @@ thing in the Bible called holy is a span of time, not a place or an object.
 
 - [[God]] — the only actor in the passage; every verb of creation is his.
 - Humanity — made in God's image, male and female, on the sixth day. Not yet named as
-  individuals; [[Adam]] and [[Eve]] are named in the next pericope.
+  individuals; [[Adam (person)]] and [[Eve]] are named in the next pericope.
 
 ## Places
 

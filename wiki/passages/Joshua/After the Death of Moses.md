@@ -66,6 +66,9 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 - [[Slavery and Servitude]]
 
 ## Cross-references
+
+- [[Crossing the Jordan]] — Joshua 3:1–17; the crossing confirms the successor and the ark leads the people.
+
 - [[The Death of Moses]] — Deuteronomy 34:1–12, the death verse 1 begins from.
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8; the courage formula and *not fail
   you nor forsake you* first spoken by Moses.

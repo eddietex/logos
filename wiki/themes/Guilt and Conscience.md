@@ -50,7 +50,7 @@ See [[Covenant Warnings and Remembered Promises]]. Source: stored WEB Leviticus 
 
 **The book's early chapters stage guilt without ever naming it.**
 
-- **[[Adam]] and [[Eve]] hide** (3:8–10) — the first human response to having done something is
+- **[[Adam (person)]] and [[Eve]] hide** (3:8–10) — the first human response to having done something is
   concealment, and the stated reason is nakedness, not wrongdoing. **Asked directly, both deflect**
   (3:12–13). See [[Sin]] and [[Nakedness and Covering]].
 - **[[Cain]]** is warned that *"sin crouches at the door"* (4:7), and after the killing he answers

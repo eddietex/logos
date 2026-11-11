@@ -81,7 +81,7 @@ she hoped at 4:1 has been buried and re-lodged. See [[The Line of Cain and the B
 
 ## Related people
 
-- [[Adam]] — the man she is taken from and given to
+- [[Adam (person)]] — the man she is taken from and given to
 - [[God]] — who judges his aloneness "not good" and builds her
 - [[The Serpent]] — which speaks to her, and which she names as her deceiver
 - [[Cain]] and [[Abel]] — her first two sons; she names one with thanksgiving and the other

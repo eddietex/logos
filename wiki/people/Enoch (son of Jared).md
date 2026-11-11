@@ -60,7 +60,7 @@ tradition. Hebrews 11:5 goes back to Genesis and reads the taking as a verdict o
 - [[Noah]] — his great-grandson, the only other person Genesis describes as walking with God (6:9)
 - [[God]] — the other party to the walking, and the one who takes him
 - [[Enoch (son of Cain)]] — his namesake in the other line, and his opposite
-- [[Adam]] — seventh from whom, which is how Jude 14 identifies him
+- [[Adam (person)]] — seventh from whom, which is how Jude 14 identifies him
 
 ## Themes associated
 

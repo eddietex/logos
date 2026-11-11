@@ -720,7 +720,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 
 ## Related people
 
-- [[Adam]]
+- [[Adam (person)]]
 - [[Eve]]
 - [[God]]
 - [[Lamech (son of Methushael)]] — the first polygamist

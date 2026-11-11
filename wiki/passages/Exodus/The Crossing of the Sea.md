@@ -636,6 +636,9 @@ may hear when I speak with you, and may also believe you forever"* (*not yet ing
 
 ## Cross-references
 
+- [[Crossing the Jordan]] — Joshua 3:1–17; the crossing confirms the successor and the ark leads the people.
+
+
 - [[Pharaoh and Sihon - Hardened Hearts and Defeated Kings]]
 
 - [[The Stages of the Journey]] — Numbers 33:1–49; retrospective itinerary. See [[Remembered Stages and Narrative Journeys - Exodus and Numbers 33]].
