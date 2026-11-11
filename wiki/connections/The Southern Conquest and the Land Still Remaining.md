@@ -6,13 +6,20 @@ tags: [connection]
 # The Southern Conquest and the Land Still Remaining
 
 ## Passages involved
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:9–18; the southern kings counted.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
-- Joshua 13:1–3; 15:13–17; 16:10 — verified in stored WEB; not yet ingested.
+- Joshua 15:13–17; 16:10 — verified in stored WEB; not yet ingested.
 
 ## Analysis
+
+### Allocation while possession remains incomplete
+
+Joshua 13:2–3 now gives the remaining Philistine territory in detail, including all five lordships. The Gaza reach in 10:41 cannot simply be read as permanent control of the entire coast. The new command assigns an inheritance without asserting completed occupation.
+
+Source: stored WEB Joshua 13:1–7; comparison references as stated.
 
 Joshua 10:40–42 summarizes a comprehensive southern victory. Yet 13:1–3 says much land
 remains and includes Philistine territory with the Gazites, although 10:41 reaches to Gaza.

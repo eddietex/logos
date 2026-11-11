@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land that remains — Joshua 13:1–7
+
+The inventory of remaining territory follows the conquest summaries. Yahweh promises future removal of inhabitants (6), but no battle occurs here. Rest from war in 11:23 cannot be expanded into a claim that every listed region was permanently occupied.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The kings struck down — Joshua 12:1–24
 
 The conquest narrative closes with a register of defeated kings: two east of the Jordan under Moses, thirty-one west of it under Joshua (12:6–7, 24). More than a dozen of the thirty-one have no battle in the narrative, and several of their cities appear later as places not driven out. A king struck is not a city held. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]].
@@ -622,6 +628,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

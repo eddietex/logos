@@ -7,11 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+The Gittites are listed among the five Philistine lordships whose territory remains (3). This extends the notice of an Anakim remnant at Gath in 11:22; no new battle is narrated.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 One of three cities where some of the Anakim remain after Joshua cuts them off from the hill country (11:22). Joshua 13:3 counts *the Gittites* among the Philistine peoples whose land still remains. Gath will later be the home of Goliath (1 Samuel 17, not yet ingested; reference only).
 
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 
 ## Related places

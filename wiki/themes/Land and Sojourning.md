@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land that remains — Joshua 13:1–7
+
+Inheritance is allocated before possession is complete: Yahweh identifies very much land remaining and nevertheless orders its division (1, 6–7). The claim that Joshua took the whole land in 11:23 remains in explicit tension with this inventory; neither statement should replace the other.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The kings struck down — Joshua 12:1–24
 
 The land on both sides of the Jordan is set in one list. Moses *gave it for a possession* to the eastern tribes (6); Joshua *gave it … for a possession according to their divisions* (7). The east bank is mapped by borders; the west is given by regions — hill country, lowland, Arabah, slopes, wilderness, and the South (8).
@@ -898,6 +904,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

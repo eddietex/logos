@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land that remains — Joshua 13:1–7
+
+Joshua must allocate the remaining territory as Yahweh has commanded (6–7). Obedience now takes the form of division for an inheritance, even while the promised removal of inhabitants is still future.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The whole land taken — Joshua 11:16–23
 
 Both the destruction without favor (20) and the taking of the whole land (23) are measured against what Yahweh commanded or spoke to Moses. The summary presents the conquest as the execution of the Torah’s word, including Deuteronomy 20:16–17.
@@ -1451,6 +1457,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 

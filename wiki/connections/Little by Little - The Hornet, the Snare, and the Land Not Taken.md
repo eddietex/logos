@@ -6,6 +6,7 @@ tags: [connection]
 # Little by Little - The Hornet, the Snare, and the Land Not Taken
 
 ## Passages involved
+- [[The Land That Remains]] — Joshua 13:1–7.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
@@ -28,6 +29,12 @@ tags: [connection]
   shall be in your sides, and their gods will be a snare to you"* (WEB; *not yet ingested*)
 
 ## Analysis
+
+### Allocation while possession remains incomplete
+
+Joshua 13:1–7 identifies extensive remaining territory without giving a reason for the delay or accusing Joshua of failure. Yahweh promises removal and commands allocation now (6–7). This belongs beside the gradual removal of Exodus 23:29–30 and Deuteronomy 7:22, but it does not repeat their explanation about wild animals. The inventory alone should not be turned into a judgment of disobedience.
+
+Source: stored WEB Joshua 13:1–7; comparison references as stated.
 
 ### Possession without merit — Deuteronomy 9:1–6
 

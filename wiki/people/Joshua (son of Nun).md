@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+Joshua is old and advanced in years, yet receives a concrete remaining commission: divide the land for nine tribes and half of Manasseh (1, 7). No numerical age is given here. His work now includes assigning land whose possession is still future.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The whole land taken — Joshua 11:16–23
 
 The summary credits Joshua with taking the land from Mount Halak to Baal Gad, killing its kings, and waging war *a long time* (16–18). He cuts off the Anakim from Hebron, Debir, and Anab (21) and gives the land to Israel by tribes (23). Joshua 13:1 immediately qualifies *the whole land* with land still remaining.
@@ -317,6 +323,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+Mearah belongs to the Sidonians (4); the Sidonians also appear among inhabitants whom Yahweh promises to drive out (6). The earlier pursuit to Sidon in 11:8 is therefore not a claim of permanent occupation.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The northern coalition — Joshua 11:1–15
 
 Israel pursues the coalition as far as great Sidon (8). This reports pursuit, not capture of Sidon. Joshua 13:6 still includes the Sidonians among inhabitants to be driven out, so permanent conquest must not be inferred.
@@ -49,6 +55,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

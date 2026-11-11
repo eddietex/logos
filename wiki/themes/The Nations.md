@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The land that remains — Joshua 13:1–7
+
+Philistine lordships, Geshurites, Avvim, Canaanites, Sidonians, Amorites, and Gebalites appear in the geography of remaining territory (2–6). The Philistine-controlled stretch is counted as Canaanite (3). These are collective populations, not personal names for new biographical pages.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The kings struck down — Joshua 12:1–24
 
 Six peoples name the western land, *the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite* (8); Sihon is *king of the Amorites* (2) and Og *of the remnant of the Rephaim* (4). The Geshurites and Maacathites appear only as Og's border (5), and 13:13 says they were never driven out.
@@ -506,6 +512,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

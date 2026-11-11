@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+The Shihor is located before Egypt (3). Egypt is a geographical reference for the remaining territory, not a land conquered in this speech.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The envoys invoke Yahweh’s deeds in Egypt as news motivating their alleged distant journey (9). The
@@ -444,6 +450,7 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Rahab and the Spies]] — Joshua 2:1–24.

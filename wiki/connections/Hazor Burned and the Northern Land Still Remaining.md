@@ -6,13 +6,19 @@ tags: [connection]
 # Hazor Burned and the Northern Land Still Remaining
 
 ## Passages involved
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:7, 19–24; the northern kings counted.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
-- Joshua 13:1–6 — read in stored WEB, not yet ingested.
 - [[The Southern Conquest and the Land Still Remaining]] — comparable southern tension.
 - [[The Whole Land Taken]] — Joshua 11:16–23; the summary of the whole conquest.
 
 ## Analysis
+
+### Allocation while possession remains incomplete
+
+Joshua 13:4–6 is now ingested: the northern inventory ends with a promise of future removal and an instruction to allocate. The pursuit limits in 11:8 and the unremoved inhabitants in 13:6 must remain distinct; no timeline of reoccupation is supplied.
+
+Source: stored WEB Joshua 13:1–7; comparison references as stated.
 
 Joshua 11:8 pursues the coalition to Sidon and Misrephoth Maim, and 11:12–14 describes
 the destruction of its kings and inhabitants. Yet 13:4–6 still describes northern territory

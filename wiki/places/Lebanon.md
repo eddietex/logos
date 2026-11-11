@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+All Lebanon toward the sunrise and the hill country from Lebanon to Misrephoth Maim enter the description of land remaining (5–6). The description extends beyond the conquest summary rather than erasing it.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The whole land taken — Joshua 11:16–23
 
 The northern limit of Joshua’s conquest is Baal Gad *in the valley of Lebanon* (17). Joshua 13:5–6 still counts *all Lebanon* among land remaining; the summary’s limit and the remaining land meet here.
@@ -91,6 +97,7 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 **Joshua 12:1–24 — the list of kings.** *The valley of Lebanon* locates Baal Gad, the western list's northern limit (12:7). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; *this Lebanon* in the border Yahweh gives Joshua (4).

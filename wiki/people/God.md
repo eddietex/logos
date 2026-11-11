@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+Yahweh names the land still unpossessed, promises to drive out its inhabitants, and commands Joshua to allocate it (1–7). The promise in verse 6 accompanies an unfinished task; it is not a report that all inhabitants have already been removed.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The whole land taken — Joshua 11:16–23
 
 The narrator attributes the kings’ resistance to Yahweh: *it was of Yahweh to harden their hearts* so that they would be destroyed without favor, as he commanded Moses (20). The conquest summary is measured against *all that Yahweh spoke to Moses* (23). The ethical weight of hardening that leads to destruction is left as the text states it.
@@ -3914,6 +3920,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 

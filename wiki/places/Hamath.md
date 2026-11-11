@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+The entrance of Hamath is the endpoint of the stretch from Baal Gad under Hermon in the list of remaining land (5). A boundary named in the promise is not thereby an accomplished occupation.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The borders of the land — Numbers 34:1–29
 
 The entrance of Hamath marks the northern line after Mount Hor and before Zedad (8). The boundary repeats a northern reference from the spies’ journey (Numbers 13:21); it does not report completed occupation.
@@ -30,6 +36,7 @@ Later texts (WEB and tags; *not yet ingested*): David's dealings with Toi king o
 Kings 18:34; Isaiah 10:9), and Ezekiel's northern border (Ezekiel 47:16–20).
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.
 

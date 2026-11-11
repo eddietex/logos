@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+Mount Hermon locates Baal Gad, from which the description of remaining land runs toward the entrance of Hamath (5). The verse does not narrate a conquest of the mountain.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### The whole land taken — Joshua 11:16–23
 
 Baal Gad *in the valley of Lebanon under Mount Hermon* marks the northern limit of the conquest summary (17). Joshua 13:5 uses Baal Gad under Hermon again as the start of land still remaining.
@@ -63,6 +69,7 @@ identification and is not argued from the verses here.
 **Joshua 12:1–24 — the list of kings.** Mount Hermon is the northern limit of the east-bank conquest (12:1) and part of Og's rule (5); Baal Gad, the western list's northern limit, lies in the valley of Lebanon below it (7; compare 11:17). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

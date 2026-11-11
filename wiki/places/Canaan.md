@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The land that remains — Joshua 13:1–7
+
+The stretch from the Shihor to Ekron is counted as Canaanite despite its Philistine lords (3); verse 4 also names the land of the Canaanites. Territorial classification and present inhabitants are distinguished.
+
+See [[The Land That Remains]]. Source: stored WEB Joshua 13:1–7.
+
 ### Passover and the end of manna — Joshua 5:10–12
 
 Canaan is explicitly named as the land whose fruit Israel eats that year (12). Entry now
@@ -458,6 +464,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[The Land That Remains]] — Joshua 13:1–7.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land shown to Moses (1–4).

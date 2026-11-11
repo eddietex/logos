@@ -25013,3 +25013,36 @@ Sources: quotations copied from stored WEB Joshua 12. Comparisons read in stored
 Numbers 21:1–3, 26:32–33; Deuteronomy 3:8–17; Genesis 14:1, 9. Judges 1:17, 1:21, 1:22–25, 1:27,
 and 1:29 were checked through bible-api.com (`translation=web`) as single requests; Judges was not
 added to raw. No source-language assertion was made. Existing raw text was not changed.
+
+## [2026-11-11] ingest | Joshua 13.1-7 — The Land That Remains
+
+Ingested [[The Land That Remains]] from stored WEB Joshua 13:1–7, retaining the planned boundary.
+Created six pages: the passage and five places ([[Shihor]], [[Ekron]], [[Ashkelon]], [[Mearah]],
+[[The Land of the Gebalites]]). Revised 32 existing pages: Joshua and the books index, two people,
+thirteen places, four themes, three connections and their three subindexes, the people subindex,
+the places and themes indexes, the dashboard, and this log. Joshua is now 20 / 42 pericopes;
+totals by frontmatter type are 414 passages, 276 people, 274 places, 87 themes, and 817 connections.
+
+The discussion is recorded in the passage: Joshua's age, the remaining southern and northern
+territory, and the command to allocate before possession is complete. The tension with Joshua
+11:23's whole-land summary is preserved on the passage, book, themes, and existing southern and
+northern connections. The gradual-removal connection now distinguishes this inventory from both
+the ecological explanation in Exodus 23 and Deuteronomy 7 and an accusation of disobedience,
+which this speech does not make.
+
+Judgment calls: unnamed Philistine lords receive no individual biographies; collective peoples
+are handled on the places and [[The Nations]], and Manasseh is a tribe here, not an appearance of
+the patriarch. [[Geshur]] distinguishes the southern-context notice from the Bashan-border
+references without asserting identity. [[Aphek]] now records the northern boundary notice
+separately from the royal-city notice; a single site is not assumed and the identification remains
+open. No second site is asserted as established, so no filename collision or rename is introduced.
+The Gebalite page retains the territorial wording rather than imposing a city or modern-site
+identification. Shihor is not equated with the Nile or the brook of Egypt.
+
+Sources: all seven quoted verses copied directly from raw/bible/Joshua.md. Comparisons checked
+in stored WEB Joshua 11:8, 11:23, 12:5, 12:18, 13:11–13; Numbers 33:50–56; Exodus 23:29–30;
+Deuteronomy 7:22. No new quotation from an unstored book, original-language assertion, raw-text
+change, or harness/schema change. scripts/link-check.sh passed with no wrapped links or unexpected
+dangling targets; 56 not-yet-started book pages remain the expected baseline. Geographic
+identifications noted above remain uncertain; there is no execution blocker. Existing oversized
+category indexes and previously logged malformed rows remain outside this one-pericope pass.
