@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+His eastern grants stand, and his transmitted commands govern the western allotment (2–3, 5). Moses is remembered authority rather than a living participant.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 The eastern conquests and allotments are repeatedly credited to Moses (8–32). This is retrospective: Joshua’s book preserves his predecessor’s grants, not a new action by the deceased leader.
@@ -1935,6 +1942,9 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

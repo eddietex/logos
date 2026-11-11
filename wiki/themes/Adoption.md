@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The western division — Joshua 14:1–5
+
+Joseph’s two tribal branches (4) give territorial expression to the standing of Ephraim and Manasseh in Genesis 48:5–6. Joshua does not repeat the adoption scene or explicitly explain its motive; the connection is a comparison of the two passages.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 **Taking as one's own a child who was not born to one.** Genesis reaches the thing itself only once, at
 **48:5**, where [[Jacob]] says of [[Joseph]]'s two Egyptian-born sons ***"they are mine … even as
 [[Reuben]] and [[Simeon]], will be mine."*** **Everything else in the book that looks like adoption is
@@ -106,6 +113,9 @@ See [[Where There Is No Vision]]. Source: stored WEB Proverbs 29:21; the passage
 cross-reference sources and interpretive limits.
 
 ## Key passages
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 
 - [[Where There Is No Vision]] — Proverbs 29:21; The WEB says a servant pampered from youth will
   become a son.

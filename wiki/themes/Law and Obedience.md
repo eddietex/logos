@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The western division — Joshua 14:1–5
+
+The report brackets distribution with Yahweh’s command through Moses (2, 5). The procedure, administrators, and provision for Levites recall Numbers 34:13–29 and 35:1–8. Obedience now takes administrative rather than military form.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### The land that remains — Joshua 13:1–7
 
 Joshua must allocate the remaining territory as Yahweh has commanded (6–7). Obedience now takes the form of division for an inheritance, even while the promised removal of inhabitants is still future.
@@ -1457,6 +1464,9 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

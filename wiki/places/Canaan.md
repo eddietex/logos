@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+The western inheritance is located in the land of Canaan (1), distinguished from Moses’ grants beyond the Jordan (3). This is an allotment framework, not a new claim that all inhabitants have been removed.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### The land that remains — Joshua 13:1–7
 
 The stretch from the Shihor to Ekron is counted as Canaanite despite its Philistine lords (3); verse 4 also names the land of the Canaanites. Territorial classification and present inhabitants are distinguished.
@@ -464,6 +471,9 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

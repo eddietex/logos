@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+Yahweh’s command through Moses governs the lot and the people’s division of the land (2, 5). No new divine speech is narrated; the report presents obedience to an earlier command.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 Yahweh is Levi’s inheritance (33); his offerings are the tribe’s portion (14). The absence of a territorial allotment is paired with provision, not abandonment.
@@ -3926,6 +3933,9 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

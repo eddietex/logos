@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The western division — Joshua 14:1–5
+
+Eleazar the priest participates with Joshua and tribal heads in allocation (1). The Levites’ exclusion from tribal territory is paired with cities and land for livestock and property (3–4); the passage does not collapse the distinction between priests and other Levites.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 Levi receives no territorial share: offerings made by fire are its inheritance (14), and Yahweh is its inheritance (33). Compare Deuteronomy 18:1–2; the collective wording does not resolve Numbers 18’s distinctions between priests and other Levites.
@@ -758,6 +765,9 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

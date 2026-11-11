@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+His descendants constitute two tribes, Manasseh and Ephraim (4). This gives territorial expression to the sons’ standing in Genesis 48:5–6; Joseph himself is not present.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 The blessing joins agricultural abundance, the favor of the one who lived in the bush, and martial
@@ -463,6 +470,9 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

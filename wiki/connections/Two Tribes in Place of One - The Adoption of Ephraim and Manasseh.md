@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
+
 - [[The Second Census]] — Numbers 26:28–37, 57–62.
 
 - **Genesis 48:5–6** — *"Now your two sons … are mine; Ephraim and Manasseh, even as Reuben and
@@ -31,6 +34,11 @@ tags: [connection]
 - [[The Camp Around the Tent]] — Numbers 2:18–24; Ephraim heads the west camp, with Manasseh next to him
 
 ## Analysis
+
+### The western division — Joshua 14:1–5
+
+Joshua 14:1–5 is now ingested. Verse 4 explains the territorial count through Joseph’s two tribes and Levi’s exclusion from a tribal portion. Nine and a half western shares plus two and a half eastern shares yield twelve, with Manasseh represented on both sides. Genesis 48:5–6 supplies the earlier declaration placing both sons alongside Jacob’s own sons. Joshua gives the resulting tribal arrangement, not a retelling of that declaration. Levi nevertheless receives cities and surrounding land; “no land” is too absolute. Source: stored WEB Genesis 48:5–6 and Joshua 14:1–5.
+
 
 ### The second census
 
@@ -58,7 +66,7 @@ solves it the same way every time except the last.**
 | **Ezekiel 48** | the same, and *"Joseph shall have two portions"* stated outright (47:13) |
 | **Revelation 7:5–8** | **Joseph and Manasseh named; Ephraim and Dan omitted** |
 
-**Levi is given no land** (Numbers 18:20; Joshua 13:14, 33) — **so wherever the
+**Levi is given no tribal territorial share** (Numbers 18:20; Joshua 13:14, 33) — **so wherever the
 twelve are counted as territories, the priestly tribe cannot be one of them, and Genesis 48:5 has
 already supplied the replacement.** The census itself gives a different reason: Numbers 1:50 excludes
 Levi for tabernacle service ([[The Census in the Wilderness of Sinai]]). **The adoption and the Levitical landlessness are two halves of one
@@ -100,7 +108,7 @@ sequence without asserting the design.
 
 ### What the split actually produced
 
-**The two half-tribes of Joseph became the largest bloc in Israel.** **Manasseh alone is settled on both
+**Joseph is represented by two tribes; Manasseh itself has eastern and western halves.** **Manasseh alone is settled on both
 sides of the Jordan** — Gilead and Bashan in the east (Numbers 32:33, in
 [[Reuben, Gad, and the Land Beyond the Jordan]]; Joshua 13:29–31), the hill
 country in the west (Joshua 17:7–10). **Ephraim holds Shiloh, where the tabernacle stood, and Bethel on

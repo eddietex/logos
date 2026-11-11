@@ -25082,3 +25082,34 @@ scripts/link-check.sh passed: no wrapped links or unexpected dangling targets; 5
 books remain the expected baseline. New titles are unique and git diff --check is clean.
 The geographical and textual questions above remain unresolved; there is no execution blocker.
 Existing oversized category indexes remain outside this one-pericope pass.
+
+## [2026-11-11] ingest | Joshua 14.1-5 — The Division of the Land Begins
+
+Unattended Codex ingest of exactly one pericope; title and boundary retained. Created one
+passage page, [[The Division of the Land Begins]]. Revised 32 existing pages including this
+log: Joshua, nine people, two places, five themes, four connections, and ten index/dashboard
+pages. Joshua is now 22 / 42 pericopes. Frontmatter totals: 416 passages, 276 people,
+281 places, 87 themes, 818 connections.
+
+The passage absorbs the discussion of the western administrators, lot, Moses’ prior eastern
+grants, Joseph’s two tribes, and Levi’s cities. Existing connections now link the narrated
+allocation to Numbers 34, the cities provision to Numbers 35, and the two tribal shares to
+Genesis 48. The lot connection distinguishes an explicit lot from an unspecified selection.
+Qualified the adoption connection’s absolute no-land wording and corrected its description
+of Ephraim and Manasseh as two half-tribes. Levi’s lack of a tribal territory and possession of
+cities and surrounding land are both retained, rather than silently choosing one statement.
+
+Judgment calls: tribal references remain on patriarch pages with descendants distinguished;
+Nun is only a patronymic. The unnamed household heads receive no invented personal identities.
+No venue or physical lot procedure is inferred. The allotment summary is distinguished from
+complete occupation, and Caleb’s request remains the next pericope. Existing oversized
+category indexes remain outside this one-pericope pass.
+
+Sources: all five verses copied from stored WEB Joshua 14:1–5 and mechanically checked against
+that file. Comparisons checked in stored Genesis 48, Numbers 34–35, and Joshua 13. No new
+quotation from an unstored book, source-language assertion, raw-text edit, or harness/schema
+change. Older material in the connections is not represented as newly verified by this pass.
+
+scripts/link-check.sh passed: no wrapped links or unexpected dangling targets; 56 unstarted
+books remain the expected baseline. The passage title is unique, frontmatter totals match the
+dashboard, and git diff --check is clean. No unresolved execution blocker.

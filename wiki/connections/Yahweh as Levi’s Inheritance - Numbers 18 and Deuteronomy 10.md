@@ -6,6 +6,9 @@ tags: [connection]
 # Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10
 
 ## Passages involved
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33 (stored WEB).
 - [[New Tablets and the Journey Onward]]
 - [[The Duties and Portions of Priests and Levites]]
@@ -14,6 +17,11 @@ tags: [connection]
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 
 ## Analysis
+
+### The western division — Joshua 14:1–5
+
+Joshua 14:3–4 makes the qualification explicit: no tribal inheritance, yet cities to inhabit and surrounding land for livestock and property. Numbers 35:1–8 supplies the earlier command. This is not a contradiction between total landlessness and property ownership to suppress; it distinguishes territorial allotment from specific settlements and their provision. The passage does not specify cities or resolve the priest/Levite scope question above. Source: stored WEB Joshua 14:1–5 and Numbers 35:1–8.
+
 
 ### The eastern allotments — Joshua 13:8–33
 

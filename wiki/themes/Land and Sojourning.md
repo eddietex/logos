@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The western division — Joshua 14:1–5
+
+Nine tribes and a half receive the western inheritance by lot; Moses’ eastern grants remain in force (1–3). Levi’s cities and surrounding land qualify the denial of a territorial share (4). Allocation does not erase the remaining-land report of Joshua 13:1–7.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 Moses’ eastern grants are recorded by families (15–32), yet Geshur and Maacath remain (13). Levi’s inheritance is described through offerings and Yahweh rather than a territorial share (14, 33). The Ammon wording in verse 25 remains in tension with Deuteronomy 2:19, 37.
@@ -910,6 +917,9 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.

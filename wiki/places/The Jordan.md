@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+The river distinguishes the previously assigned eastern inheritance from the western distribution (3). No new crossing is narrated.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 Its bank bounds Reuben (23) and Gad (27); the allotments are explicitly eastward beyond it (8, 32).
@@ -276,6 +283,9 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

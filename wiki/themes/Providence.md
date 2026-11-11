@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The western division — Joshua 14:1–5
+
+The land is distributed by lot as Yahweh commanded (2), while named leaders administer it (1). Read beside Proverbs 16:33, this joins divine direction with human responsibility; Joshua supplies no description of the physical lot procedure.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Heaven, deep, sun, moon, hills, earth, and dew supply the picture of Joseph’s fertility and Israel’s
@@ -442,6 +449,9 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

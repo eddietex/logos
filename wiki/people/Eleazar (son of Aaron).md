@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+Eleazar is named first among the distributors, alongside Joshua and the heads of tribal fathers’ houses (1). The appointment in Numbers 34:17–29 now becomes an account of allocation; his priesthood includes this public responsibility.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 He ministers in Aaron’s place after Aaron dies and is buried at Moserah (6). Succession agrees with
@@ -300,6 +307,9 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 

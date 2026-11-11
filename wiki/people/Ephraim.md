@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+The descendants form a tribe distinct from Manasseh (4). The count concerns territorial shares, not a ranking of the two brothers; their individual western boundaries are not supplied in this introduction.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 *The land of Ephraim and Manasseh* is part of the view from Nebo (2); the name denotes tribal territory.
@@ -151,6 +158,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

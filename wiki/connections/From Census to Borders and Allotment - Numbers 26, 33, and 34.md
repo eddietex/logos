@@ -7,12 +7,20 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
+
 - [[The Second Census]] — Numbers 26:52–56.
 - [[Drive Out the Inhabitants]] — Numbers 33:50–56.
 - [[The Borders of the Land]] — Numbers 34:1–29.
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### The western division — Joshua 14:1–5
+
+Joshua 14:1–5 now reports the western distribution under Eleazar, Joshua, and tribal household heads. Its nine-and-a-half tribes and lot correspond to Numbers 34:13–18; Moses’ eastern grants remain the reason for the reduced western count. The command has become narrated compliance (5), though this introduction does not enumerate the individual lots or establish that every assigned district is occupied. Source: stored WEB Joshua 14:1–5 and Numbers 34:13–29.
+
 
 Numbers 26 attaches inheritance to the counted generation, requiring shares in proportion to
 numbers and distribution by lot. Numbers 33:54 repeats both instructions after the command

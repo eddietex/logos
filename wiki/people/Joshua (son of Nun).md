@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+Joshua shares the distribution with Eleazar and tribal household heads (1). Leadership here means administering the inheritance by lot under the command transmitted through Moses, not acting as sole owner or distributor.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### The land that remains — Joshua 13:1–7
 
 Joshua is old and advanced in years, yet receives a concrete remaining commission: divide the land for nine tribes and half of Manasseh (1, 7). No numerical age is given here. His work now includes assigning land whose possession is still future.
@@ -323,6 +330,9 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

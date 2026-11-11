@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+The descendants are one of Joseph’s two tribes (4). With the eastern half already allotted in Joshua 13:29–31, the western division is for nine tribes and a half (2–3). The patriarch is not the recipient in person.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 The eastern half-tribe receives Bashan, the sixty villages of Jair, and holdings for half the children of Machir (29–31). These are descendants’ allotments, not the patriarch’s personal occupation.
@@ -220,6 +227,9 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the half-tribe of Manasseh* (12) joins the eastern tribes' pledge.

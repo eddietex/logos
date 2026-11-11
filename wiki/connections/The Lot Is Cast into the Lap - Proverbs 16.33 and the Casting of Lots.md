@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
+
 - **Proverbs 16:33** — *"The lot is cast into the lap, but its every decision is from Yahweh."* —
   [[The Plans of the Heart]]
 - **Proverbs 18:18** — *"The lot settles disputes, and keeps strong ones apart."* —
@@ -30,6 +33,11 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### The western division — Joshua 14:1–5
+
+Joshua 14:1–2 explicitly identifies the lot as the means of inheritance and pairs it with Eleazar, Joshua, and tribal household heads as administrators. Unlike Joshua 7’s unspecified selection, this passage actually names the lot. It does not identify the objects used, describe the drawing, or equate it with Urim and Thummim. Source: stored WEB Joshua 14:1–5; compare the already discussed Proverbs 16:33.
+
 
 **The lot is a decision taken out of human hands on purpose.** Proverbs 16:33 does not commend the lot
 or forbid it; it states what it is. The throw is into *the lap* (*ḥêq*, the fold of a garment), an

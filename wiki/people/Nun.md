@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The western division — Joshua 14:1–5
+
+Named only as Joshua’s father (1); the patronymic supplies identification, not an action or presence for Nun.
+
+See [[The Division of the Land Begins]]. Source: stored WEB Joshua 14:1–5; comparisons as cited.
+
+
 ### After the death of Moses — Joshua 1:1–9
 
 Named only as Joshua's father in the opening verse (1); no action or presence is attributed to him.
@@ -63,6 +70,9 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Division of the Land Begins]] — Joshua 14:1–5.
+
 - [[After the Death of Moses]] — Joshua 1:1–9; named as Joshua's father (1).
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
