@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Moses' word remembered — Joshua 1:10–18
+
+*Remember the word which Moses the servant of Yahweh commanded you* (13): Joshua binds the eastern tribes with Moses' terms, and the land is twice *which Moses gave you* (14, 15). The people promise to listen to Joshua *just as we listened to Moses in all things* and wish Yahweh to be with him *as he was with Moses* (17). Moses is the standard for both obedience and presence.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### After the death of Moses — Joshua 1:1–9
 
 The book of Joshua opens *after the death of Moses the servant of Yahweh* (1), and Yahweh twice calls him *Moses my servant* (2, 7). He remains the measure of everything given to his successor: the land *as I told Moses* (3), the presence *As I was with Moses* (5), and *all the law, which Moses my servant commanded you* (7).
@@ -1880,6 +1886,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the word which Moses the servant of Yahweh commanded you* (13); the measure of obedience and presence (17).
 - [[After the Death of Moses]] — Joshua 1:1–9; *Moses my servant is dead*; the measure of the land, presence, and law given to Joshua.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; His death, burial, mourning, and epitaph.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

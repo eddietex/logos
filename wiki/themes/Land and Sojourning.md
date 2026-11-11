@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rest before the land — Joshua 1:10–18
+
+*Yahweh your God gives you rest, and will give you this land* (13). For the eastern tribes rest has come first and east of the river, outside Canaan as Numbers 34 draws it; Deuteronomy 12:9 had said Israel *haven't yet come to the rest and to the inheritance*. Their land is *the land of your possession* (15), but they may not settle in it until the others possess theirs.
+
+See [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]].
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### The land given — Joshua 1:1–9
 
 *I have given you every place that the sole of your foot will tread on, as I told Moses* (3), in the border of Deuteronomy 11:24. Deuteronomy's *shall be yours* becomes *I have given you*, while Joshua 13:1 will later say much land remains; the gift and its possession are not the same event.
@@ -812,6 +820,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; rest and possession east of the Jordan, deferred for the brothers (13–15).
 - [[After the Death of Moses]] — Joshua 1:1–9; the land given in Deuteronomy 11:24's border (3–4).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land seen, not entered.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

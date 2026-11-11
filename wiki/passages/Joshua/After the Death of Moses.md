@@ -83,6 +83,7 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 - [[From the River of Egypt to the Euphrates]]
 - [[The Two Ways - Proverbs 4, Psalm 1, and Matthew 7]]
 - [[Joshua and Jesus - One Name]]
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18, the next pericope; the people return *Only be strong and courageous* (18).
 
 ## Notes
 

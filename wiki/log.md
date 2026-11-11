@@ -24474,3 +24474,47 @@ the Miqra according to the Masorah at Sefaria for Joshua 1:1–18, Deuteronomy 3
 traditional ascription of the book to Joshua (Bava Batra 14b–15a) is recalled, not verified, and
 marked so in the book frontmatter. Validation: `scripts/link-check.sh` exited 0 (56 expected
 not-yet-started books).
+
+## [2026-11-10] ingest | Joshua 1.10-18 — The Eastern Tribes Pledge to Cross
+
+Ingested exactly one pericope in auto mode: the next unchecked box in [[Joshua]], which is now
+2 / 42. No boundary was redrawn.
+
+Created [[The Eastern Tribes Pledge to Cross]] and one connection,
+[[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]] (the *nwḥ* rest
+promised in Deuteronomy 12:9–10 and 25:19, given early to the eastern tribes, reported in Joshua
+21:44, 22:4 and 23:1, and read by Hebrews 4:8–9 as unfinished; Joshua 11:23's *šāqəṭâ* kept
+separate). Revised six person pages (God, Joshua (son of Nun), Moses, Reuben, Gad, Manasseh), one
+place (The Jordan), seven themes (Brotherhood, Land and Sojourning, Law and Obedience,
+Remembrance, Oaths and Vows, War, Sabbath), three connections (The Two and a Half Tribes, I Will
+Not Forsake You, I Will Be With You), the [[Joshua]] book page, and the cross-references of five
+passage pages (After the Death of Moses; Reuben, Gad, and the Land Beyond the Jordan; The Eastern
+Inheritance and the Charge to Joshua; The Place Yahweh Will Choose; Justice, Family Duty, Honest
+Weights, and Amalek). Updated the books index, People Index F-M and N-Z, the places and themes
+indexes, Connections Index I-N, O-S and T-Z, and `wiki/index.md`. Two pages created and 23 content
+pages revised, plus nine index pages. Counts by frontmatter: 396 passages, 257 people, 225 places,
+87 themes, 796 connections.
+
+Judgment calls: the speakers of 1:16–18 are read as the eastern tribes (the nearest antecedent),
+with the all-Israel reading noted on the passage page. The *officers* (*šōṭərîm*) get no page;
+they are noted on the passage page with Exodus 5:14, Deuteronomy 1:15 and 20:5. Sabbath was
+touched only for Hebrews 4's *Sabbath rest*, with the note that the link is Hebrews' and not
+Joshua's.
+
+Discussion kept on the passage page: the command passed down the chain; *ṣêdâ* and the manna still
+falling until 5:12; the *three days* of 1:11 against 2:22 and 3:2, recorded as an unresolved
+chronological tension; Joshua reciting Deuteronomy 3:18–20 rather than Numbers 32, with three
+changes (rest before land, *ḥămušîm* for *armed*, *and shall help them*); rest given to some
+before others; *your brothers* three times; the reply's echo of Exodus 19:8; *yamreh ʾet-pîkā*
+against Deuteronomy's *wattamrû ʾet-pî YHWH* at Kadesh; and the courage formula returned by the
+people. No contradiction with an existing page was found.
+
+Sources: Joshua, Numbers, Deuteronomy and Exodus quotations come from stored raw text. Psalm 95:11
+and Hebrews 4:8–9 WEB were verified at bible-api.com (`translation=web`); neither book was
+fetched into raw. Hebrew was checked against the Miqra according to the Masorah at Sefaria for
+Joshua 1:10–18, 11:23, 21:43–45, 22:4, 23:1; Deuteronomy 1:15, 1:26, 1:43, 3:18–20, 9:23,
+12:9–10, 17:12, 20:5, 25:19; Numbers 32:17; Exodus 5:14, 13:18, 19:8. Joshua 14:15's Hebrew was not
+checked and is marked so. Glosses of *ṣêdâ* and the dispute over *ḥămušîm* are lexical summary,
+not checked against a named lexicon, and are qualified on the page. The Greek of Hebrews 4 was not
+compared with the Septuagint of Joshua; no claim is made. Validation: `scripts/link-check.sh`
+exited 0 (56 expected not-yet-started books).

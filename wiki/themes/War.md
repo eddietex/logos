@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Armed before their brothers — Joshua 1:10–18
+
+*You shall pass over before your brothers armed, all the mighty men of valor* (14). Joshua's word for *armed* is *ḥămušîm* (Exodus 13:18), not Deuteronomy 3:18's *ḥălûṣîm* (MAM via Sefaria); its exact sense is disputed. The tribes' fighting men are to *help* their brothers (14), a word neither Numbers 32 nor Deuteronomy 3 uses. Families stay behind; only fighting men cross.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### No man will stand — Joshua 1:1–9
 
 *No man will be able to stand before you all the days of your life* (5) repeats Deuteronomy 11:25. The passage grounds military confidence in presence and obedience; no battle is narrated yet.
@@ -506,6 +512,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the eastern fighting men cross armed (14).
 - [[After the Death of Moses]] — Joshua 1:1–9; *No man will be able to stand before you* (5).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

@@ -11,7 +11,7 @@ tags: [connection]
   condition, and the grant *(stored WEB)*
 - [[The Borders of the Land]] — Numbers 34:13–15; the eastern inheritance already received (stored WEB).
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; grant, shared rest, and encouragement (stored WEB).
-- Joshua 1:12–18 — Joshua reminds the two and a half tribes *(WEB via bible-api.com, not yet ingested)*
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; Joshua reminds the two and a half tribes, and they pledge (stored WEB).
 - Joshua 4:12–13 — they cross armed *(WEB via bible-api.com, not yet ingested)*
 - Joshua 13:8–32 — their allotment *(WEB via bible-api.com for 13:15–31, not yet ingested)*
 - Joshua 22:1–9 — they are sent home *(WEB via bible-api.com, not yet ingested)*
@@ -19,6 +19,16 @@ tags: [connection]
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+Joshua 1:10–18 is now ingested. Joshua's reminder reproduces Deuteronomy 3:18–20 rather than
+Numbers 32: verse 15's *until Yahweh has given your brothers rest, as he has given you, and they
+have also possessed the land* matches Deuteronomy 3:20 word for word apart from a longer pronoun
+(MAM via Sefaria). He opens with rest rather than land (13), uses *ḥămušîm* for *armed* where
+Deuteronomy 3:18 has *ḥălûṣîm* and Numbers 32:17 *ḥušîm* (MAM via Sefaria), and adds *shall help
+them* (14). The reply (16–18) goes beyond the terms: obedience to Joshua *as … to Moses*, and death
+for anyone who rebels against his word. The text does not name the speakers of 16–18; the wiki
+reads them as the eastern tribes. See [[The Eastern Tribes Pledge to Cross]] and
+[[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]].
 
 Deuteronomy 3:12–22 is now ingested. The grant includes half of Manasseh before the command to
 cross (13–18); the retelling omits Numbers 32’s dispute and negotiated proposal. Verse 20 makes

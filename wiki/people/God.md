@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Rest given and rest awaited — Joshua 1:10–18
+
+Yahweh is the giver of the land (11, 15) and of rest: *Yahweh your God gives you rest* (13), and the eastern tribes serve *until Yahweh has given your brothers rest, as he has given you* (15). The people wish that he be with Joshua *as he was with Moses* (17) — the promise of 1:5 repeated as a prayer.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### After the death of Moses — Joshua 1:1–9
 
 Yahweh speaks first to Joshua after Moses' death: *Moses my servant is dead. Now therefore arise* (2). He gives the land in the words of Deuteronomy 11:24, promises *As I was with Moses, so I will be with you. I will not fail you nor forsake you* (5), and three times commands courage — the middle charge aimed at keeping *all the law, which Moses my servant commanded you* (7). The promise of presence closes the speech (9). No theophany is described.
@@ -3786,6 +3792,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; gives rest and land; the people pray he be with Joshua as with Moses (17).
 - [[After the Death of Moses]] — Joshua 1:1–9; Speaks first to Joshua after Moses' death; gives the land, promises presence, commands courage and the book of the law.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Shows Moses the sworn land; Moses dies at his word.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

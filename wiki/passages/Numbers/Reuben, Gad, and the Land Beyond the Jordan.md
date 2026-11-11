@@ -139,6 +139,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 - [[Jacob Blesses His Sons]] — Genesis 49:19, Gad pressed by a troop, on its frontier.
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:23, Machir, the last person named in Genesis.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:8, the same three-name oath, as a promise to enter.
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; Joshua holds the tribes to the agreement and they renew it.
 
 ## Notes
 

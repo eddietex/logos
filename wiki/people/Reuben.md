@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes pledge to cross — Joshua 1:10–18
+
+Joshua reminds *the Reubenites* (12), with Gad, Reuben and the half-tribe of Manasseh, of Moses' word: families and livestock stay east of the Jordan, and all the *mighty men of valor* cross armed ahead of their brothers and help them until Yahweh gives the others rest (13–15). They answer *All that you have commanded us we will do* (16) and set death for anyone who rebels against Joshua's word (18). The tribe, not the patriarch, is in view.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Moses prays for the tribe to live and not become few (6). This differs from the removal of
@@ -263,6 +269,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the Reubenites* (12) pledge to cross armed before their brothers.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

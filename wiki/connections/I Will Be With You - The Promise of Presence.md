@@ -20,6 +20,7 @@ tags: [connection]
 - Exodus 17:7 — the promise doubted: *"Is Yahweh among us, or not?"* — [[Water from the Rock]]
 - Exodus 23:20–23 — an angel sent ahead, with God's name *"in him"* — [[The Angel Sent Ahead]]
 - [[After the Death of Moses]] — Joshua 1:5, 9; *"I will not fail you nor forsake you"* (stored WEB)
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:17; the promise returned as the people's wish, *"Only may Yahweh your God be with you, as he was with Moses"* (stored WEB)
 - Judges 6:12, 16 — to Gideon in a winepress
 - Isaiah 41:10; 43:2 — to the exiles
 - Jeremiah 1:8, 19 — to a prophet who says he is too young

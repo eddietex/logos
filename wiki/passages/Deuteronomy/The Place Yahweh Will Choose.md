@@ -115,6 +115,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   puts his name (5).
 - [[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]] — *"the rest and …
   the inheritance"* not yet reached (9).
+- [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]] — 9–10, the rest from all enemies, given first to the eastern tribes and reported in Joshua 21–23.
 - [[The Tithe Before the Law]] — the tithe eaten at the chosen place (6, 11, 17–18).
 - [[The Priests Who Kept Their Land and the Levites Who Got None]] — the Levite with no portion
   (12) who must not be forsaken (19).

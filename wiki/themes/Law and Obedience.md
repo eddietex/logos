@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Obedience pledged to a successor — Joshua 1:10–18
+
+*All that you have commanded us we will do* (16) echoes Israel at Sinai, *All that Yahweh has spoken we will do* (Exodus 19:8; same verb and construction, MAM via Sefaria). The people make rebellion against Joshua's word a capital offence (18), using *mrh … ʾet-pî*, the phrase Deuteronomy uses of Israel's rebellion against Yahweh at Kadesh (1:26, 43; 9:23). Deuteronomy 17:12 had set death for refusing to listen to priest or judge; the extension to Joshua's word is the people's.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### This book of the law — Joshua 1:1–9
 
 The middle charge to courage is aimed at obedience, not at battle: *Only be strong and very courageous … to do according to all the law … Don't turn from it to the right hand or to the left* (7). *This book of the law* is to stay in Joshua's mouth, meditated *day and night* (8), with success following *then*. See [[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]].
@@ -1361,6 +1367,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *All that you have commanded us we will do* (16); death for rebelling against Joshua's word (18).
 - [[After the Death of Moses]] — Joshua 1:1–9; *this book of the law shall not depart from your mouth* (7–8).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Obeying Joshua as Yahweh commanded Moses (9).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

@@ -284,6 +284,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
   *zākôr* formula of 24:9 and 25:17.
 - [[Judah and Tamar]] — Genesis 38:8, 26; *yabbēm*, and *"She is more righteous than I"*.
 - [[The Battle with Amalek]] — Exodus 17:8–16.
+- [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]] — 25:19, *when Yahweh your God has given you rest*.
 - [[The Descendants of Esau]] — Genesis 36:12; Amalek's descent.
 - [[Jacob and Esau and the Sold Birthright]] — Genesis 25:29–30; *ʿāyēp*, *"famished"*.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:14; the other *yāraq*.

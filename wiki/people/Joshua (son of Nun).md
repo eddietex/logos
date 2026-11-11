@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes pledge — Joshua 1:10–18
+
+Joshua's first act is to pass the command on: the officers are to tell the camp to prepare provisions for a crossing *within three days* (10–11). He reminds the Reubenites, Gadites and half-tribe of Manasseh of Moses' word in the language of Deuteronomy 3:18–20, adding *and shall help them* (14). They pledge to listen to him *just as we listened to Moses*, wish that Yahweh be with him *as he was with Moses*, put to death anyone who *rebels against your mouth* (*yamreh ʾet-pîkā*, MAM via Sefaria), and return Yahweh's own charge: *Only be strong and courageous* (16–18). His authority is accepted, and measured by Moses.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### After the death of Moses — Joshua 1:1–9
 
 Introduced as *Moses' servant* (*məšārēt mōšeh*, the attendant's word of Exodus 24:13 and 33:11; MAM via Sefaria), Joshua receives Yahweh's first word after Moses' death: rise, cross the Jordan, and cause the people to inherit the sworn land (2, 6). He is promised *As I was with Moses, so I will be with you* (5) and told three times to be strong and courageous, the middle time to keep *all the law* and to meditate on *this book of the law* day and night (7–8). He raises no objection and the text describes no feelings. His first act follows in the next pericope.
@@ -195,6 +201,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; commands the officers and holds the eastern tribes to Moses' word; they pledge obedience and return the courage charge.
 - [[After the Death of Moses]] — Joshua 1:1–9; commissioned by Yahweh directly after Moses' death.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Full of the spirit of wisdom; Israel listens to him.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

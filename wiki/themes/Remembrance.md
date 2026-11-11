@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Remember the word — Joshua 1:10–18
+
+*Remember the word which Moses the servant of Yahweh commanded you* (13, *zākôr*, MAM via Sefaria). What is to be remembered is an agreement, and Joshua recites it in the words of Deuteronomy 3:18–20. Memory here binds the living to a promise their own tribes made.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Israel must ask fathers and elders about former generations (7), yet forgets the God who gave it birth (18). The song preserves the memory of care and betrayal; the closing instruction requires transmission to children in obedience (46).
@@ -683,6 +689,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *Remember the word which Moses … commanded you* (13).
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 

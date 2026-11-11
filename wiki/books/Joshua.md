@@ -25,6 +25,12 @@ thrice-repeated *be strong and courageous* is aimed, in its central instance, at
 written *book of the law* — meditated *day and night*, not turned from right or left. Courage in
 this book is first of all obedience to a text.
 
+[[The Eastern Tribes Pledge to Cross]] (1:10–18) shows the charge taking hold. Joshua sends the
+order down through the officers, holds Reuben, Gad and half of Manasseh to Moses' word in the
+language of Deuteronomy 3:18–20 — their rest already given, their brothers' still to come — and
+receives a pledge of obedience *as … to Moses*, with death for rebellion and Yahweh's own *Only be
+strong and courageous* returned to him.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -41,10 +47,10 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **1 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **2 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
-- [ ] The Eastern Tribes Pledge to Cross — Joshua 1:10–18
+- [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
 - [ ] Rahab and the Spies — Joshua 2:1–24
 - [ ] Crossing the Jordan — Joshua 3:1–17
 - [ ] The Twelve Stones from the Jordan — Joshua 4:1–24

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Within three days — Joshua 1:10–18
+
+*Within three days you are to pass over this Jordan* (11). The river is now also the line dividing the eastern tribes' families, *beyond the Jordan toward the sunrise* (15), from their fighting men, who cross with their brothers. The chronology of the *three days* against chapters 2–3 is noted, unresolved, on the passage page.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### The crossing commanded — Joshua 1:1–9
 
 *Arise, go across this Jordan, you, and all these people* (2). The river Moses was refused (Deuteronomy 3:27) is the first thing Yahweh tells Joshua to cross. The crossing itself is narrated in chapters 3–4.
@@ -230,6 +236,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *within three days you are to pass over this Jordan* (11); the eastern land *beyond the Jordan toward the sunrise* (15).
 - [[After the Death of Moses]] — Joshua 1:1–9; *Arise, go across this Jordan* (2); the crossing commanded.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

@@ -98,6 +98,8 @@ Complete unit, copied verbatim from stored WEB, raw/bible/Deuteronomy.md.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — the fuller negotiation, Numbers 32.
 - [[The Defeat of Og Recounted]] — the conquest preceding allocation.
 - [[Joshua Commissioned]] — Numbers 27’s public commissioning differs from this exhortation.
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:12–15 recites verses 18–20 as *the word which Moses … commanded you*.
+- [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]] — verse 20, *until Yahweh gives rest to your brothers*.
 
 ## Notes
 

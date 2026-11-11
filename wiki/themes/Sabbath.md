@@ -28,6 +28,14 @@ day being counted, blessed, and hallowed is what Exodus 20:11 will point back to
 
 ## Development across Scripture
 
+### Rest promised, and Hebrews' Sabbath rest — Joshua 1:10–18
+
+Joshua 1:13–15 speaks of the rest (*nwḥ*) Yahweh gives in the land, security from enemies, not the seventh day. Hebrews 4:8–9 later reads Joshua's rest as incomplete and speaks of *a Sabbath rest for the people of God* (WEB via bible-api.com). The link between the two rests is drawn by Hebrews, not by Joshua.
+
+See [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]].
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The seven-year release cycle provides the time for public instruction at the feast of tents (10). This passage prescribes neither weekly rest nor a new fallow rule; it adds hearing the law to the year of release already described in Deuteronomy 15.
@@ -259,6 +267,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 
 ## Key passages
 
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the rest of the land, later read by Hebrews 4 as pointing to *a Sabbath rest*.
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.

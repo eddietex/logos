@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes' pledge — Joshua 1:10–18
+
+The eastern tribes renew the undertaking of Numbers 32 to Joshua: *All that you have commanded us we will do, and wherever you send us we will go* (16), with a self-imposed penalty of death for anyone who rebels (18). No oath formula is used; it is a pledge, kept in 4:12–13 and acknowledged in 22:1–9.
+
+See [[The Eastern Tribes Pledge to Cross]]. Source: stored WEB Joshua 1:10–18.
+
 ### The land sworn to the fathers — Joshua 1:1–9
 
 Joshua will *cause this people to inherit the land which I swore to their fathers to give them* (6) — the patriarchal oath, now attached to a successor's task.
@@ -439,6 +445,7 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the pledge renewed to Joshua (16–18).
 - [[After the Death of Moses]] — Joshua 1:1–9; *the land which I swore to their fathers* (6).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land oath restated (4).

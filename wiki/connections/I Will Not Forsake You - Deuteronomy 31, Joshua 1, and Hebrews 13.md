@@ -9,6 +9,7 @@ tags: [connection]
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[After the Death of Moses]] — Joshua 1:1–9 (stored WEB).
+- [[The Eastern Tribes Pledge to Cross]] — Joshua 1:16–18 (stored WEB).
 - Hebrews 13:5–6 — verified WEB; not yet ingested.
 
 ## Analysis
@@ -51,6 +52,14 @@ you nor forsake you* (MAM via Sefaria). The verbs are the same. Joshua 1:5 also 
 keeping the book of the law. The assurance is not separated from the instruction in either book.
 
 Source for this addition: stored WEB Joshua 1:1–9 and Deuteronomy 31:6–8; Hebrew at Sefaria (MAM).
+
+**The charge returned by the people.** In [[The Eastern Tribes Pledge to Cross]] the eastern
+tribes end their pledge with *raq ḥăzaq weʾĕmāṣ*, *Only be strong and courageous* (Joshua 1:18,
+MAM via Sefaria) — the singular charge Yahweh used at 1:6, 7, 9, now spoken by those Joshua leads.
+They also turn *As I was with Moses, so I will be with you* (1:5) into a wish: *Only may Yahweh
+your God be with you, as he was with Moses* (1:17).
+
+Source for this addition: stored WEB Joshua 1:10–18; Hebrew at Sefaria (MAM).
 
 ## Significance
 
