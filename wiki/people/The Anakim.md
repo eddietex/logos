@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+Joshua *cut off the Anakim* from Hebron, Debir, Anab, and the hill country of Judah and of Israel, so that none remained except in Gaza, Gath, and Ashdod (21–22). This stands beside Caleb driving out the three sons of Anak at Hebron (15:13–14) and Caleb’s own reference to the Anakim still *there* (14:12); all are kept, not harmonized.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### Possession without merit — Deuteronomy 9:1–6
 
 Their great stature and the saying about who can withstand them sharpen the threat (2). Moses answers with Yahweh’s advance (3), not by denying their size. The stored WEB here supplies no Nephilim genealogy.
@@ -42,10 +48,10 @@ have seen the sons of the Anakim there!* They are the last and climactic item in
 after the taller people and the walled cities. See [[The Spies and the Refusal to Go Up]].
 
 **Other notices.** Deuteronomy 9:2, now ingested, preserves the saying quoted in the passage.
-Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. The following
-Joshua notices remain not yet ingested. Joshua 15:13
+Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. Joshua 11:21–22 is now
+ingested in [[The Whole Land Taken]]. The following Joshua notices remain not yet ingested. Joshua 15:13
 calls Arba *the father of Anak*, and Joshua 14:15 has him the greatest man among them, giving
-Hebron's old name. Joshua 11:21–22 says Joshua cut them off, except in Gaza, Gath, and Ashdod.
+Hebron's old name.
 Joshua 15:14 and Judges 1:20 have Caleb drive out the three, and Judges 1:10 has Judah strike them.
 See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 
@@ -54,10 +60,12 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - Found at Hebron — Numbers 13:22, [[The Twelve Spies]]
 - Reported to Moses and the people — Numbers 13:28, 33
 - Recalled in the people's murmuring — Deuteronomy 1:28, [[The Spies and the Refusal to Go Up]]
-- *(ahead)* Removed from Hebron — Joshua 11:21–22; 15:14; Judges 1:10, 20
+- Cut off by Joshua from Hebron, Debir, and Anab; a remnant left in Gaza, Gath, and Ashdod — Joshua 11:21–22, [[The Whole Land Taken]]
+- *(ahead)* Removed from Hebron — Joshua 15:14; Judges 1:10, 20
 
 ## Appears in
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.

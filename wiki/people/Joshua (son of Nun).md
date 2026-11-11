@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+The summary credits Joshua with taking the land from Mount Halak to Baal Gad, killing its kings, and waging war *a long time* (16–18). He cuts off the Anakim from Hebron, Debir, and Anab (21) and gives the land to Israel by tribes (23). Joshua 13:1 immediately qualifies *the whole land* with land still remaining.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 Joshua attacks suddenly, pursues the coalition, disables its horses, burns its chariots, and captures its cities (7–14). Verse 15 measures his obedience by the commands transmitted through Moses.
@@ -308,6 +314,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

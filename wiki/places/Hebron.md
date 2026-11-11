@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+Joshua cuts off the Anakim from Hebron (21). Joshua 15:13–14 later has Caleb drive out the three sons of Anak there; the two notices are kept together. See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The southern campaign — Joshua 10:28–43
 
 Joshua captures Hebron, its dependent cities, and its king (36–37). This creates a narrative tension with Hoham’s death at Makkedah (10:23–26). A successor is possible but not stated. Joshua 15:13–17 later reports Caleb’s action at Hebron and Debir; the relation between these accounts is not explained.
@@ -72,6 +78,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 
 ## Appears in
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.

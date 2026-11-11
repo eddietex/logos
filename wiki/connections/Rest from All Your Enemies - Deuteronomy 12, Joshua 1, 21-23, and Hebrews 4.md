@@ -14,8 +14,8 @@ tags: [connection]
   out *when Yahweh your God has given you rest from all your enemies all around* (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:13–15 (stored WEB).
 - Joshua 21:44, 22:4, 23:1 — the rest reported as given *(stored WEB, not yet ingested)*.
-- Joshua 11:23, 14:15 — *the land had rest from war*, a different verb *(stored WEB, not yet
-  ingested)*.
+- [[The Whole Land Taken]] — Joshua 11:23, *the land had rest from war*, a different verb
+  (stored WEB); 14:15 repeats the clause *(not yet ingested)*.
 - Psalm 95:11 — *"They won't enter into my rest"* *(WEB via bible-api.com, not yet ingested)*.
 - Hebrews 4:8–9 — *"if Joshua had given them rest"* *(WEB via bible-api.com, not yet ingested)*.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The whole land taken — Joshua 11:16–23
+
+The Hivites of Gibeon are the only people to make peace (19); the other cities fight because Yahweh hardened their hearts (20). The Anakim are cut off from the hill country, with a remnant in the Philistine cities of Gaza, Gath, and Ashdod (21–22).
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 The coalition includes Canaanites, Amorites, Hittites, Perizzites, Jebusites, and Hivites (3). These Hivites fight; Gibeon’s Hivites were preserved by oath in Joshua 9. Shared people-group identity does not mean an identical narrated outcome.
@@ -494,6 +500,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

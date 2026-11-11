@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The whole land taken — Joshua 11:16–23
+
+Both the destruction without favor (20) and the taking of the whole land (23) are measured against what Yahweh commanded or spoke to Moses. The summary presents the conquest as the execution of the Torah’s word, including Deuteronomy 20:16–17.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 Verse 15 traces command from Yahweh through Moses to Joshua and declares its completion. The earlier failure to inquire in Joshua 9:14 remains a qualification: this praise should not erase that narrated lapse.
@@ -1445,6 +1451,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

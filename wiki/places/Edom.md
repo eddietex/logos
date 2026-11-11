@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+Mount Halak *goes up to Seir* (17), marking the southern limit of Joshua’s conquest summary. The verse names Seir as a direction; it does not report Edomite territory taken.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Seir appears in the description of Yahweh’s rising toward his people (2). The poem does not give a
@@ -156,6 +162,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 36:31). See [[The Song of the Sea]].
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

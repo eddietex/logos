@@ -9,6 +9,7 @@ tags: [connection]
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - Joshua 13:1–6 — read in stored WEB, not yet ingested.
 - [[The Southern Conquest and the Land Still Remaining]] — comparable southern tension.
+- [[The Whole Land Taken]] — Joshua 11:16–23; the summary of the whole conquest.
 
 ## Analysis
 
@@ -22,6 +23,12 @@ chronology of settlement, reoccupation, or subsequent loss.
 Hazor’s burning is explicitly exceptional among the cities on their mounds (11:13).
 The total language about inhabitants cannot be transferred without qualification to
 physical destruction of buildings or to every population in the broader region.
+
+The summary in Joshua 11:16–23 sharpens the same tension. Its northern limit is Baal Gad
+under Mount Hermon (11:17), and Joshua 13:5 begins a stretch of remaining land at that very
+place, *from Baal Gad under Mount Hermon to the entrance of Hamath*. The edge of what was
+taken and the edge of what remains are named with the same landmark. Verse 23's *the whole
+land* stands beside 13:1's *very much land to be possessed*. Source: stored WEB Joshua 11:16–23; 13:1–6.
 
 ## Significance
 

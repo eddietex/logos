@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+*All the South* is among the regions Joshua takes in the summary (16). It is linked here on the alias *the South*; the verse gives no borders.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The view includes *the south* (3); the Hebrew has *haNegev* (MAM via Sefaria).
@@ -62,6 +68,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 
 ## Appears in
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; *The south* (3).
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7, *in the South*: one of the regions of the land Israel is told to go to and possess.
 - [[The Stages of the Journey]] — Numbers 33:1–49.

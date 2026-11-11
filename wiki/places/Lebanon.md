@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+The northern limit of Joshua’s conquest is Baal Gad *in the valley of Lebanon* (17). Joshua 13:5–6 still counts *all Lebanon* among land remaining; the summary’s limit and the remaining land meet here.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The coast in front of Lebanon belongs to the geographic description of kings uniting against Israel
@@ -83,6 +89,7 @@ the verse, and no journey to Lebanon is narrated.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; *this Lebanon* in the border Yahweh gives Joshua (4).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; a reach of the border promised to every place the sole of Israel's foot treads (24).

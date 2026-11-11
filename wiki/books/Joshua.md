@@ -96,6 +96,11 @@ must remain alongside later reports of remaining land and renewed action at Hebr
 and the destruction of inhabitants while other cities and plunder remain. The narrator
 closes by tracing Joshua’s obedience to Yahweh’s commands through Moses.
 
+[[The Whole Land Taken]] (11:16–23) summarizes the conquest from Mount Halak to Baal Gad under
+Hermon. The war lasted *a long time*; no city but Gibeon made peace, because *it was of Yahweh to
+harden their hearts*; the Anakim are cut off, with a remnant in Gaza, Gath, and Ashdod. It ends
+with *the whole land* given by tribes and *rest from war* — a verdict that 13:1 at once qualifies.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -112,7 +117,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **17 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **18 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -131,7 +136,7 @@ Plan drawn 2026-11-10 from the stored WEB. **17 / 42 pericopes ingested.**
 - [x] [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27
 - [x] [[The Southern Cities Taken]] — Joshua 10:28–43
 - [x] [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15
-- [ ] The Whole Land Taken — Joshua 11:16–23
+- [x] [[The Whole Land Taken]] — Joshua 11:16–23
 - [ ] The Kings Struck Down — Joshua 12:1–24
 - [ ] The Land That Remains — Joshua 13:1–7
 - [ ] The Inheritance Beyond the Jordan — Joshua 13:8–33
@@ -165,6 +170,7 @@ Plan drawn 2026-11-10 from the stored WEB. **17 / 42 pericopes ingested.**
 - [[Call and Election]]
 - [[Wisdom]]
 - [[Slavery and Servitude]]
+- [[Hardening of the Heart]]
 
 ## Key people
 - [[Adoni-Zedek]], [[Hoham]], [[Piram]], [[Japhia]], and [[Debir (person)]] — the five allied kings (10:3–5).
@@ -175,11 +181,14 @@ Plan drawn 2026-11-10 from the stored WEB. **17 / 42 pericopes ingested.**
 - [[God]]
 - [[Joshua (son of Nun)]]
 - [[Moses]]
+- [[The Anakim]]
 
 ## Key places
 - [[Gibeon]], [[Gilgal]], and [[The Valley of Aijalon]] — rescue and the public address (10:6–15).
 - [[Jerusalem]], [[Hebron]], [[Jarmuth]], [[Lachish]], and [[Eglon]] — coalition cities (10:3–5).
 - [[Beth Horon]], [[Azekah]], and [[Makkedah]] — pursuit (10:10–11).
+- [[Mount Halak]] and [[Baal Gad]] — the southern and northern limits of the conquest summary (11:17).
+- [[Gaza]], [[Gath]], and [[Ashdod]] — where a remnant of the Anakim stays (11:22).
 - [[Jericho]]
 - [[Ai]]
 - [[Bethel]]

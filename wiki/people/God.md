@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+The narrator attributes the kings’ resistance to Yahweh: *it was of Yahweh to harden their hearts* so that they would be destroyed without favor, as he commanded Moses (20). The conquest summary is measured against *all that Yahweh spoke to Moses* (23). The ethical weight of hardening that leads to destruction is left as the text states it.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 Yahweh promises victory by the following day and commands disabling the horses and burning the chariots (6). The narrator attributes victory to him (8) and connects the destruction to his commands through Moses (12–15).
@@ -3908,6 +3914,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

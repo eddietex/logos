@@ -15,8 +15,9 @@ tags: [connection]
 - [[The Twelve Spies]] — Numbers 13:31–33; the spies' report, and the word's only other verse
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28 *(stored WEB)*; and 2:10–11, 20–21; 3:11; 9:1–2 *(also now ingested)* — the Anakim, Emim, Zamzummim,
   and Rephaim
-- Joshua 11:21–22; 14:12–15; 15:13–14 *(not yet ingested)* — the Anakim driven out, and the remnant
-  left in Gaza, Gath, and Ashdod
+- [[The Whole Land Taken]] — Joshua 11:21–22; the Anakim cut off, and the remnant left in Gaza,
+  Gath, and Ashdod
+- Joshua 14:12–15; 15:13–14 *(not yet ingested)* — Caleb and the Anakim at Hebron
 - 1 Samuel 17:4–7 *(not yet ingested)* — Goliath of Gath
 - 2 Samuel 21:15–22 *(not yet ingested)* — the last four *"born to the giant in Gath"*
 

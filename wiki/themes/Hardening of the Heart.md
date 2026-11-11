@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The whole land taken — Joshua 11:16–23
+
+*It was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor* (20). The pattern seen with Pharaoh and Sihon now explains why no Canaanite city but Gibeon made peace. The text asserts divine agency and the kings’ resistance together and does not soften the outcome. See [[No City Made Peace - Deuteronomy 20 and Joshua 11.19-20]].
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 The ungiven *heart to know* of 29:4 is answered by Yahweh's promise to circumcise the heart (6). Israel's return in verse 2 comes before that promise in the text; whether it is cause or effect of divine renewal is not settled.
@@ -156,6 +162,7 @@ sources and interpretive limits.
 
 ## Key passages
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

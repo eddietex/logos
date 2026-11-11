@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The whole land taken — Joshua 11:16–23
+
+*So Joshua took the whole land … and Joshua gave it for an inheritance to Israel according to their divisions by their tribes* (23). The summary anticipates the allotment of chapters 13–21, while 13:1 at once says *there remains yet very much land to be possessed*. Both claims stand.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 Captured cities on mounds remain unburned except Hazor (13), and plunder is retained (14). Capture does not itself demonstrate lasting settlement of every region reached in pursuit; compare the remaining northern territory in Joshua 13:4–6.
@@ -886,6 +892,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

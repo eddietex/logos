@@ -24932,3 +24932,39 @@ Validation: affected category rows each occur exactly once; the passage title is
 frontmatter counts match the dashboard. scripts/link-check.sh passed with no wrapped
 links or unexpected dangling targets (56 unstarted book pages are the baseline).
 git diff --check passed. No unresolved ingest blocker.
+
+## [2026-11-11] ingest | Joshua 11.16-23 — The Whole Land Taken
+
+Ingested [[The Whole Land Taken]], retaining the planned boundary; chapter 12's list of kings
+opens with its own formula and stays the next unit. Created 7 pages: the passage, five places
+([[Mount Halak]], [[Baal Gad]], [[Anab]], [[Gath]], [[Ashdod]]), and
+[[No City Made Peace - Deuteronomy 20 and Joshua 11.19-20]]. Revised 39 existing pages: the
+book page and books index, four people, ten places, six themes, seven connections, eight index
+and subindex pages, the dashboard counts, and this log. Joshua is now
+18 / 42; totals are 412 passages, 276 people, 257 places, 87 themes, and 816 connections.
+
+Judgment calls: *Seir* (11:17) is linked to [[Edom]], which already carries Seir and Mount Seir
+as aliases, with the note that the verse names a direction rather than Edomite land taken.
+*All the South* is linked to [[The Negev]] on its existing alias. The hill country, lowland, and
+the hill country of Judah and of Israel stay descriptive terms without pages. No modern site is
+assigned to any new place. The Pharaoh-and-Sihon connection was extended to Joshua 11:20 rather
+than a second hardening page created; the new connection covers the separate question of
+Deuteronomy 20's peace law against 11:19's *not a city made peace*.
+
+Tensions recorded, not resolved: *the whole land* (11:23) beside *very much land to be possessed*
+(13:1), with Baal Gad as both the northern limit taken and the start of land remaining (13:5);
+Joshua cutting off the Anakim at Hebron and Debir (11:21) beside Caleb and Othniel (15:13–17);
+and Yahweh's hardening as the stated reason the cities fought and were destroyed without favor
+(11:20). The often-quoted seven-year conquest length is labeled an inference from Joshua 14:7,
+10, not a verse.
+
+Index repairs found in passing: the [[Oaths and Vows]] row in the themes index and the [[God]]
+row in People Index F-M each had a passage link misplaced into the name cell by an earlier
+append (the God row also had a fourth column). Both were rebuilt to the three-column shape
+without dropping any link or text.
+
+Sources: quotations copied from stored WEB Joshua 11 and Deuteronomy 2, 7, 20, and Joshua 9;
+comparisons read in stored WEB Joshua 12:7, 13:1–6, 14:7–15, 15:13–17, 46–47, 50. 1 Samuel 17
+(Goliath of Gath) is cited by reference only. No source-language assertion was made; whether
+11:20's *no favor* and Deuteronomy 7:2's *nor show mercy* share a root is stated as unchecked at
+the point of the claim. Existing raw text was not changed.

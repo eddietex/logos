@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+The Arabah is one of the regions named in the summary of land Joshua took (16).
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 The summons includes kings in the Arabah south of Chinneroth (2). This describes coalition members rather than supplying an additional march itinerary.
@@ -61,6 +67,7 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

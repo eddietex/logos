@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+The destruction of the kings and the completed conquest are both measured against what Yahweh commanded and spoke to Moses (20, 23). Moses is the standard, not an actor, in this summary.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 The dead servant remains mediator of the command: Yahweh commanded Moses, Moses commanded Joshua, and Joshua acts (12, 15). Moses is remembered authority, not a participant at Merom.
@@ -1920,6 +1926,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 

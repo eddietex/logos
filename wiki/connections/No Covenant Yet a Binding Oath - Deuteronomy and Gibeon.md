@@ -9,6 +9,7 @@ tags: [connection]
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[Laws for Going to War]]
 - [[The Gibeonite Deception]]
+- [[The Whole Land Taken]] — Joshua 11:19.
 - Source comparisons: stored WEB Joshua 2, 6, 9; Deuteronomy 7:1–2; 20:10–18.
 
 ## Analysis
@@ -29,6 +30,11 @@ Joshua 10:1–15 carries preservation into military rescue. Gibeon is attacked f
 Israel (4); its plea brings Joshua’s army and Yahweh’s promise of victory (6–8). Divine help in the
 rescue does not expressly repeal Deuteronomy’s prohibition or retroactively approve the deception.
 Source: stored WEB Joshua 10:1–15.
+
+Joshua 11:19 records the result in the conquest summary: *There was not a city that made peace
+with the children of Israel, except the Hivites, the inhabitants of Gibeon.* The oath is the
+one exception the summary admits. See [[No City Made Peace - Deuteronomy 20 and Joshua 11.19-20]].
+Source: stored WEB Joshua 11:19.
 
 ## Significance
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+Gibeon is the single exception in the summary: *There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of Gibeon* (19). The peace was obtained by deception (9:3–15), and it held.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The southern campaign — Joshua 10:28–43
 
 The city is a geographical limit in the campaign summary (41), not a newly destroyed city. Its protected status from Joshua 9 and 10:1–15 remains distinct.
@@ -29,6 +35,7 @@ Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

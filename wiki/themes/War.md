@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The whole land taken — Joshua 11:16–23
+
+The narrator summarizes the conquest of the west bank and notes that the war lasted *a long time* (18). Every city except Gibeon was taken in battle (19), and the Anakim were cut off from the hill country (21). The section ends with *the land had rest from war* (23), which 13:1 immediately qualifies.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 The army’s multitude, horses, and chariots (4) meet divine assurance and a sudden human attack (6–8). Horses are hamstrung and chariots burned (9); livestock and goods are retained, while inhabitants are killed (14). Destruction does not mean burning every city.
@@ -610,6 +616,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

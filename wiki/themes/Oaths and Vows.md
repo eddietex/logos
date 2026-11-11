@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The whole land taken — Joshua 11:16–23
+
+The summary’s one exception, Gibeon (19), is the city protected by the oath sworn in Joshua 9. The oath obtained by deception still governs how the conquest is reported.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### At Gibeon — Joshua 10:1–15
 
 The life-preserving oath of Joshua 9:15–20 has a military consequence: Gibeon appeals for rescue and
@@ -483,6 +489,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+Baal Gad *in the valley of Lebanon under Mount Hermon* marks the northern limit of the conquest summary (17). Joshua 13:5 uses Baal Gad under Hermon again as the start of land still remaining.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The northern coalition — Joshua 11:1–15
 
 The Hivites under Hermon in the land of Mizpah belong to the coalition (3). The mountain locates an allied population; its summit is not a separately narrated battlefield.
@@ -55,6 +61,7 @@ Deuteronomy 3:9 and Ezekiel 27:5 from the same Sefaria edition. The location is 
 identification and is not argued from the verses here.
 
 ## Appears in
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

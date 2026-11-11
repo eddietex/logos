@@ -9,6 +9,7 @@ tags: [connection]
 - [[Moses Returns to Egypt]]
 - [[The Crossing of the Sea]]
 - [[The Defeat of Sihon Recounted]]
+- [[The Whole Land Taken]] — Joshua 11:20
 
 ## Analysis
 
@@ -25,6 +26,14 @@ destruction. Neither selected account explains away divine agency as mere forekn
 
 This comparison concerns the stored WEB’s narrative assertions, not an assertion that the
 Hebrew verbs are identical. Sources: stored WEB Exodus 4:21–23; 14:4; Deuteronomy 2:24–37.
+
+**Extended to the kings of Canaan.** Joshua 11:20 applies the same pattern to the kings west of
+the Jordan: *it was of Yahweh to harden their hearts, to come against Israel in battle, that he
+might utterly destroy them, that they might have no favor*. Here the hardening explains why no
+city but Gibeon made peace (11:19). Pharaoh's hardening ends in escape from an army, Sihon's and
+the Canaanite kings' in battle and destruction. See
+[[No City Made Peace - Deuteronomy 20 and Joshua 11.19-20]]. Source: stored WEB Joshua 11:19–20;
+no claim is made about the Hebrew verb in Joshua 11:20.
 
 ## Significance
 

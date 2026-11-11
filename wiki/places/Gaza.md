@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The whole land taken — Joshua 11:16–23
+
+Gaza is one of three cities where some of the Anakim remain (22), with [[Gath]] and [[Ashdod]]. Joshua 13:3 lists the Gazites among the land remaining.
+
+See [[The Whole Land Taken]]. Source: stored WEB Joshua 11:16–23.
+
 ### The southern campaign — Joshua 10:28–43
 
 Gaza marks the reach from Kadesh Barnea in verse 41, without a separate capture narrative. Joshua 13:1–3 still lists Philistine territory, including the Gazites, as remaining; comprehensive language here does not settle permanent possession.
@@ -20,6 +26,7 @@ Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
 
+- [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
 
