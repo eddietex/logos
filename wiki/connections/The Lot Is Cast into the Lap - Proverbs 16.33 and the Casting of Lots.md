@@ -19,6 +19,10 @@ tags: [connection]
 - **Joshua 18:10** — *"Joshua cast lots for them in Shiloh before Yahweh. There Joshua divided the land to
   the children of Israel according to their divisions."* *(WEB verified at bible-api.com; not yet
   ingested)*
+- [[The Sin of Achan]] — Joshua 7:14–18; tribe, clan, household, and man *"selected"* until Achan is
+  *"taken"* (stored WEB; now ingested). The mechanism is not named.
+- **1 Samuel 14:41–42** — Saul: *"Cast lots between me and Jonathan my son." Jonathan was selected.*
+  *(WEB verified at bible-api.com, 2026-11-10; not yet ingested)*
 - **Jonah 1:7** — *"So they cast lots, and the lot fell on Jonah."* *(WEB verified at bible-api.com; not
   yet ingested)*
 - **Acts 1:24–26** — *"You, Lord, who know the hearts of all men, show which one of these two you have
@@ -61,9 +65,19 @@ fortune, our purse. There the lot is a figure for joining a company, and the son
 book's first lot is the one cast in with sinners; its last word on the lot is that the real decision is
 not theirs.
 
+**Joshua 7 narrows without naming a lot.** Yahweh's instruction is that the tribe *"which Yahweh
+selects"* comes near by families, then households, then man by man, until *"he who is taken with the
+devoted thing"* is found (Joshua 7:14–15). The verb is *lāḵad*, *capture, take* (*hannilkād*, WLC
+7:15; *wayyillākēd*, 7:18), and the text never says whether lots, the Urim and Thummim, or some other
+means was used. The wiki notes that 1 Samuel 14:41–42 calls its procedure *cast lots* and that WEB's
+*selected* renders its result, but does not import that procedure into Joshua 7. Like Jonah's sailors,
+the selection finds a guilty man who is hiding; unlike them, the inquiry is commanded by Yahweh and
+ends in the man's confession (7:19–21).
+
 Sources: Proverbs 1:14; 16:10–11, 33; 18:18; Exodus 28:30, checked in stored WEB. Leviticus 16:8;
 Joshua 18:10; Jonah 1:7; Acts 1:24–26 checked at bible-api.com (WEB). Hebrew of Proverbs 16:10–11, 33;
-18:18; Exodus 28:30 from Sefaria, 2026-10-25.
+18:18; Exodus 28:30 from Sefaria, 2026-10-25. Joshua 7:14–18 from stored WEB and WLC (morphhb),
+2026-11-10; 1 Samuel 14:41–42 at bible-api.com (WEB), 2026-11-10.
 
 ## Significance
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+After the rout Joshua and the elders tear their clothes, fall on their faces before the ark until
+evening, and put dust on their heads (6). Yahweh's answer to the lament is Get up! (10): the
+occasion calls for inquiry, not mourning.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Israel weeps thirty days for Moses, *until the days of weeping in the mourning for Moses were ended* (8), as for Aaron (Numbers 20:29). See [[Aaron on Hor and Moses on Nebo - Numbers 20 and Deuteronomy 34]].
@@ -250,6 +258,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Thirty days of weeping (8).
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

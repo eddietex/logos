@@ -24720,3 +24720,33 @@ asserted. Repaired pre-existing summary text in name cells of the touched theme-
 Validation: scripts/link-check.sh passed with 56 expected not-yet-started book targets;
 git diff --check passed. Three pages created and 35 existing pages revised, including indexes
 and this log. No harness or workflow changes were needed; no operational blocker remains.
+
+## [2026-11-10] ingest | Joshua 7.1-26 — The Sin of Achan
+
+Ingested [[The Sin of Achan]] in one unattended Claude Code invocation, keeping the planned
+boundary (7:1–26). Created the passage, [[Achan]], [[Valley of Achor]], and three connections:
+[[The Valley of Achor - Trouble Turned to a Door of Hope]], [[Saw, Coveted, Took - Eve and Achan]],
+and [[Achan and Ananias - Keeping Back What Belonged to God]]. Revised four existing connections
+(devoted things, the lot, *nǝḇālâ*, and Abram's refusal of spoil); God, Joshua, Judah, Zerah, and
+Eve; Ai, Jericho, Bethel, and Shinar; thirteen themes; the Fall of Jericho passage's forward link;
+the book page, its queue and overview; and the affected index rows and dashboard counts. Joshua is
+now 10 / 42; totals are 404 passages, 262 people, 228 places, 87 themes, and 806 connections.
+
+Quoted Joshua, Genesis, Exodus, Numbers, and Deuteronomy from stored WEB. Verified 1 Chronicles
+2:7, Hosea 2:15, Isaiah 65:10, Acts 5:1–11, and 1 Samuel 14:41–42 at bible-api.com (WEB) on
+2026-11-10; no raw text added or changed. Hebrew forms of Joshua 7 and Genesis 3:6 checked against
+WLC (OpenScriptures morphhb). The claim that the Septuagint of Joshua 7:1 and Acts 5:2–3 share the
+verb *nosphizō* was **not** verified and is marked unverified at the point of the claim; the
+Achan–Ananias parallel does not rest on it. Deuteronomy 13:17's and Exodus 20:17's Hebrew were not
+re-checked; the pages say so.
+
+Judgment calls: no pages for Carmi, Zabdi, Beth Aven, Shebarim, the elders, or Achan's children
+(minor or unidentified; Carmi also collides with Reuben's son of Genesis 46:9, noted on Achan's
+page). The selection mechanism of 7:14–18 is left unnamed, as the text leaves it. The execution of
+Achan's sons and daughters is recorded as the plain reading of 7:24–25 and set explicitly against
+Deuteronomy 24:16, with proposed resolutions listed but none adopted. The modern site of the valley
+of Achor is not asserted.
+
+Validation: scripts/link-check.sh clean (56 expected not-yet-started book targets) after fixing one
+link wrapped by the editing script; git diff --check passed. Six pages created and 36 existing
+pages revised, including indexes and this log.

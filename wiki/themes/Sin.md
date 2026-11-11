@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Achan's sin is named in layers: trespass (maʿal, 1), covenant transgression, taking, stealing,
+deceiving, and hiding (11), and a disgraceful thing in Israel (nǝḇālâ, 15; WLC). One man's act is
+charged to Israel with plural verbs, and the camp cannot stand until it is removed. Joshua 22:20
+later summarizes: That man didn't perish alone in his iniquity.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 The WEB calls the act at Meribah trespass against Yahweh and failure to uphold his holiness (51).
@@ -743,6 +752,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Achan's confession, I saw … I coveted them and took them (21), uses the verb ḥāmaḏ of the tenth
+commandment and of Deuteronomy 7:25's prohibition of the nations' silver and gold, and repeats the
+sequence of Genesis 3:6. See [[Saw, Coveted, Took - Eve and Achan]].
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 The Bible's word is ***qānāʾ***, and it is one word for two things English separates: **envy** — what
 you feel about somebody else's good — and **jealousy** — what you feel about what is yours being
 taken. The Hebrew does not distinguish them, which is why the same root that describes the Philistines
@@ -201,6 +209,7 @@ See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word loca
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.
 
 

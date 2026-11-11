@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+The selection passes through the family of the Zerahites (17), and Achan is identified twice as the
+son of Carmi, the son of Zabdi, the son of Zerah (1, 18). See [[Achan]].
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The second census — Numbers 26:1–65
 
 The Zerahites of Judah are listed beside Shelah and Perez (20); Simeon’s Zerahites in verse 13 are a
@@ -74,6 +81,7 @@ own, so **no collision arises here**; if he is ever given one, both take a quali
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Second Census]] — Numbers 26:1–65.
 
 - [[Judah and Tamar]] — Genesis 38:27–30; **the hand that came out first and the boy who came out

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Judgment falls first as defeat on the whole people, then as an inquiry that narrows from tribe to
+man, then as a sentence of stoning and burning in the valley of Achor (24–26). The plain reading
+includes Achan's sons and daughters, which stands in tension with Deuteronomy 24:16; the passage
+page records the tension without resolving it.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Jericho’s destruction includes young and old (21), without individual trials or a catalogue of each victim’s acts. The threat also reaches Israel’s camp if it takes what is devoted (18). Election does not grant immunity from the chapter’s sanctions.
@@ -1006,6 +1015,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

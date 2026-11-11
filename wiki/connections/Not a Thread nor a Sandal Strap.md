@@ -11,7 +11,8 @@ tags: [connection]
 - Genesis 12:14–20 — the wealth he took from Pharaoh, and what it cost
 - Genesis 13:2, 5–7 — that wealth splitting the household
 - Genesis 15:1 — *"I am your shield, your exceedingly great reward"*
-- Joshua 6:18–19; 7:1, 20–26 — Achan and the devoted spoil
+- [[The Fall of Jericho]] — Joshua 6:18–19; the warning (now ingested)
+- [[The Sin of Achan]] — Joshua 7:1, 20–26; Achan and the devoted spoil (now ingested)
 - 1 Samuel 12:3–5 — Samuel's audit of his own tenure
 - 1 Samuel 30:21–25 — David's rule about the plunder
 - 2 Kings 5:15–27 — Naaman's gift refused by Elisha and taken by Gehazi

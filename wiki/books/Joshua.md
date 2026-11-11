@@ -60,6 +60,12 @@ at the bush before the conquest narrative begins.
 household under oath, and the reservation of metals for Yahweh. Victory carries a warning:
 taking devoted property would bring the sanction upon Israel’s own camp.
 
+[[The Sin of Achan]] (7:1–26) makes the warning good. One man of Judah takes a robe, silver, and
+gold; Israel is routed at Ai, and Yahweh says Israel itself has *become devoted for destruction*.
+The selection narrows to Achan, who confesses — *I saw … I coveted them and took them* — and is
+stoned and burned with his household and goods in the valley of Achor, *trouble*, under a heap
+of stones. The conquest's first defeat comes from inside the camp.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -76,7 +82,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **9 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **10 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -87,7 +93,7 @@ Plan drawn 2026-11-10 from the stored WEB. **9 / 42 pericopes ingested.**
 - [x] [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12
 - [x] [[The Commander of Yahweh's Army]] — Joshua 5:13–15
 - [x] [[The Fall of Jericho]] — Joshua 6:1–27
-- [ ] The Sin of Achan — Joshua 7:1–26
+- [x] [[The Sin of Achan]] — Joshua 7:1–26
 - [ ] The Capture of Ai — Joshua 8:1–29
 - [ ] The Law Read at Mount Ebal — Joshua 8:30–35
 - [ ] The Gibeonite Deception — Joshua 9:1–27

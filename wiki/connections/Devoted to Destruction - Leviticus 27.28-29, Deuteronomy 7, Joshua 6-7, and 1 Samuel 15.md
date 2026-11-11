@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Sin of Achan]] — Joshua 7:1–26 (now ingested).
+
 - [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
 
 - [[Laws for Going to War]] — Deuteronomy 20:16–18; the cities of the land (now ingested).
@@ -34,6 +36,26 @@ tags: [connection]
 
 ## Analysis
 
+### Joshua 7 now ingested
+
+[[The Sin of Achan]] narrates the breach that Deuteronomy 7:25–26 and 13:17–18 had warned of and that
+Joshua 6:18 had predicted. Three things are new. First, the status spreads exactly as Deuteronomy 7:26
+said it would: Yahweh says of Israel *"they have become devoted for destruction"* (7:12), *lǝḥērem*
+(WLC), the same noun used for the plunder; the camp cannot stand until the *ḥērem* is removed (7:13).
+Second, the charge reaches the whole people with plural verbs (7:11) while the selection finds one man
+(7:16–18). Third, the sentence of 7:15 — *"burned with fire, he and all that he has"* — is carried out
+on Achan, his goods, and, by the plain reading of 7:24–25, his sons and daughters. That last point
+stands in tension with Deuteronomy 24:16, which forbids putting children to death for fathers; Joshua
+7 does not address the tension, and the passage page lists the proposed resolutions without adopting
+one. Achan's goods are not returned to Yahweh's treasury but burned with him, which is the
+Deuteronomy 13:16 pattern rather than the Joshua 6:19 one. The ending matches Deuteronomy 13:17 in
+WEB's English as well: *"that Yahweh may turn from the fierceness of his anger"* there, *"Yahweh turned
+from the fierceness of his anger"* at Joshua 7:26 (*mēḥărôn ʾappô*, WLC; the Deuteronomy Hebrew is not
+re-checked here).
+
+Source for this addition: stored WEB Joshua 6:18–19; 7:1–26; Deuteronomy 7:25–26; 13:16; 24:16. WLC
+(morphhb), retrieved 2026-11-10.
+
 ### Joshua 6 now ingested
 
 Joshua 6 is now ingested. Verses 17–25 distinguish destruction of the city and its inhabitants,
@@ -41,7 +63,7 @@ rescue of Rahab’s household, and metals reserved for Yahweh’s treasury. Vers
 Israel’s camp can itself become accursed by taking devoted property. The command in Deuteronomy
 20:16–18 and Rahab’s survival stand in tension: Joshua states the exception and its reason but
 provides no general reconciliation. This addition rests on the stored WEB, not a new lexical claim.
-Joshua 7 remains outside this completed ingest.
+Joshua 7 has since been ingested; see the section above.
 
 
 ### Deuteronomy 20:16–18 now ingested
@@ -142,7 +164,7 @@ things go wholly to Yahweh (Leviticus 27:28). The war is named vengeance (31:2�
 ## Significance
 
 Leviticus supplies the rule behind later stories: Achan's theft and Saul's mercy are breaches of the
-*not sold, not redeemed* clause, whether or not the narrators are citing it. Joshua 6 is now ingested; Joshua 7 and 1 Samuel 15 remain to be ingested. See [[War]], [[Holiness]], and
+*not sold, not redeemed* clause, whether or not the narrators are citing it. Joshua 6 and 7 are now ingested; 1 Samuel 15 remains to be ingested. See [[War]], [[Holiness]], and
 [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 Sources: WEB from stored raw files and bible-api.com, 2026-10-30. Hebrew from WLC (morphhb, GitHub),

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Achan's beautiful Babylonian robe in WEB is ʾadderet šinʿār, a mantle of Shinar (WLC 7:21). The text
+names its origin but not how it reached Jericho.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 Southern Mesopotamia — the alluvial plain between the lower Tigris and Euphrates — and the place
 where, in Genesis, human political power begins.
 
@@ -33,6 +40,7 @@ Shinar"* and given a house there. The place is a proper noun that behaves like a
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Table of Nations]] — Genesis 10:10, the site of the first kingdom in Scripture
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:1, 9; Amraphel's kingdom, and Shinar's return
   to the narrative as a power that sends armies

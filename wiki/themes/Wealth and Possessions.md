@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+A robe from Shinar, two hundred shekels of silver, and a fifty-shekel wedge of gold (21) are enough
+to defeat Israel at Ai. Achan's possessions — animals and tent included — are destroyed with the
+stolen goods (24).
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 The city is burned, but precious and useful metals go to Yahweh’s treasury (19, 24). Soldiers are warned against taking devoted property (18); Rahab’s possessions are expressly rescued with her household (23, 25).
@@ -878,6 +886,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

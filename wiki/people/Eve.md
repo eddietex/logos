@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Achan's confession, I saw … coveted … took (Joshua 7:21), repeats the three Hebrew roots of the
+woman's taking in Genesis 3:6 (rāʾâ, ḥāmaḏ, lāqaḥ; WLC), and both texts call the object good. Joshua
+does not cite Genesis; see [[Saw, Coveted, Took - Eve and Achan]].
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 The first woman. She is not called Eve in [[The Garden of Eden]] — throughout Genesis 2 she is
 *ʾishshâ*, "woman", and she receives the name Eve (Hebrew *Ḥawwâ*, glossed in the text as
 "living", *"because she was the mother of all living"*) only at Genesis 3:20, after the fall.
@@ -69,6 +77,7 @@ she hoped at 4:1 has been buried and re-lodged. See [[The Line of Cain and the B
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Garden of Eden]]
 - [[The Fall]]
 - [[Cain and Abel]] — she speaks the passage's opening line and appears nowhere else in it

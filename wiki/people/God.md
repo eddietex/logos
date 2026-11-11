@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Yahweh's anger burns against Israel for one man's theft (1) and the defeat at Ai follows unexplained
+until Joshua's lament. Yahweh's reply names the sin as covenant transgression, says Israel itself
+has become devoted for destruction, and makes his continued presence conditional on removing the
+devoted thing (11–12). He conducts the selection (14–18) and, after the sentence, turns from the
+fierceness of his anger (26), as Deuteronomy 13:17 had said he would.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Yahweh declares Jericho given to Joshua before its walls fall (2–5). The concluding notice attributes Joshua’s success to Yahweh’s presence (27); the conquest is not credited to Israel’s independent strength.
@@ -3841,6 +3851,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.

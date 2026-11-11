@@ -10,7 +10,8 @@ tags: [connection]
 - Genesis 34:7 — *"he had done folly in Israel in lying with Jacob's daughter; a thing ought not to
   be done"*
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21; the unchaste bride, *"because she has done folly in Israel"*
-- Joshua 7:15 — Achan, *"because he has… done a disgraceful thing in Israel"*
+- [[The Sin of Achan]] — Joshua 7:15; Achan, *"because he has done a disgraceful thing in Israel"*
+  (now ingested; *nǝḇālâ* confirmed in WLC 7:15, retrieved 2026-11-10)
 - Judges 19:23–24 — the old man at Gibeah, *"don't do this folly"*
 - Judges 20:6, 10 — the Levite and the assembly, *"they have committed lewdness and folly in
   Israel"*

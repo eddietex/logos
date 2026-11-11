@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+The camp sanctifies itself before the selection (13). The devoted things belong to Yahweh, and
+contact with them makes the possessor devoted in turn: Israel has become devoted for destruction
+(12) until the ḥērem is removed.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Silver, gold, brass, and iron vessels are holy to Yahweh and enter his treasury (19, 24), while the city is burned. Devotion thus does not mean that every object is physically destroyed; it excludes private appropriation.
@@ -782,6 +790,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.

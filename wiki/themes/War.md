@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Israel's first defeat in the land. Success at Ai is not a matter of numbers — the spies' advice to
+send few is not itself condemned — but of Yahweh's presence, which he withdraws until the devoted
+thing is removed (12). The melting heart of Canaan (2:11; 5:1) becomes Israel's (5).
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 The army circles behind a priestly signal and enters after the wall falls (3–20). Verse 21 explicitly includes men, women, young, old, and livestock in the killing; it cannot be summarized as combatants alone. Rahab’s household is the stated exception.
@@ -553,6 +561,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.

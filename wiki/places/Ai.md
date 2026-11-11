@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Now ingested. Spies sent from Jericho judge Ai lightly defended; about three thousand men attack,
+flee, and lose about thirty-six, chased from the gate to Shebarim (2–5). The hearts of the people
+melted, and became like water — the idiom used of Canaan's fear in 2:11 and 5:1 now turns on Israel.
+Ai is located beside Beth Aven, east of Bethel (2). The cause is Achan's theft, and the campaign
+resumes only after the valley of Achor (8:1). The archaeological problem below is not addressed by
+the narrative.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 A small town east of [[Bethel]], mentioned in Genesis only to fix Abram's position — and later the
 site of the only defeat Israel suffers in the conquest.
 
@@ -46,12 +57,14 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Call of Abram]] — Genesis 12:8, the eastern marker of Abram's camp
 - [[Abram and Lot Separate]] — Genesis 13:3, the same marker on the way back from Egypt
 
 ## Related places
 
 - [[Bethel]] — the town on the western side of Abram's camp
+- [[Valley of Achor]] — where the cause of the defeat at Ai was judged
 - [[Shechem (city)]] — twenty miles north, where the altar and the covenant renewal both happen
 - [[Canaan]] — the land both towns sit in
 
@@ -60,6 +73,6 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 - Abram pitches on the ridge with Ai to his east — Genesis 12:8, [[The Call of Abram]]
 - Abram returns to the altar between Bethel and Ai after Egypt — Genesis 13:3–4,
   [[Abram and Lot Separate]]
-- Israel is routed because of Achan's theft — Joshua 7
+- Israel is routed because of Achan's theft — Joshua 7, [[The Sin of Achan]]
 - Ai is taken by ambush and burned — Joshua 8:1–29
 - Resettled after the exile — Ezra 2:28; Nehemiah 7:32

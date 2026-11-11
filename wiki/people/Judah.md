@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+The tribe of Judah is the first selected when Yahweh narrows the search for the devoted things (16),
+and the guilty man is Achan of the Zerahite clan, descended from Judah through Zerah (1, 18). The
+tribe that will receive the largest allotment is the one whose member breaks the ḥērem.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 *All the land of Judah, to the western sea* is part of the view from Nebo (2); the name denotes tribal territory.
@@ -350,6 +358,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

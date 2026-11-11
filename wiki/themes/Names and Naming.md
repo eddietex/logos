@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+The valley of Achor is named from Joshua's sentence, Why have you troubled us? Yahweh will trouble
+you today (25), on the verb ʿāḵar (WLC). 1 Chronicles 2:7 renders the man himself Achar, the
+troubler of Israel, and Hosea 2:15 turns the name into a door of hope. See
+[[The Valley of Achor - Trouble Turned to a Door of Hope]].
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 Verse 9 explains Gilgal’s name through Yahweh’s declaration that Egypt’s reproach is rolled away. This records the WEB narrative’s explanation without independently asserting a Hebrew derivation.
@@ -249,6 +258,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

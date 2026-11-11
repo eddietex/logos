@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Joshua sends the spies to Ai from Jericho (2). The defeat that follows is traced back to Jericho's
+devoted things: a robe, silver, and gold taken from the city's plunder against the warning of
+6:18–19 (1, 21).
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 The formerly shut city is encircled, its wall falls, its inhabitants and livestock are destroyed except for Rahab’s household, and it is burned (1–25). Joshua’s curse targets its rebuilding (26). The text provides no archaeological date or mechanism for the wall’s collapse.
@@ -106,6 +114,7 @@ Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
@@ -137,8 +146,11 @@ Israel does not enter or conquer Jericho in this unit.
 
 - [[Moab (place)]]
 - [[The Jordan]]
+- [[Ai]]
+- [[Valley of Achor]]
 
 ## Events here
 
 - Earlier Torah passages use it as a reference point for the camp across the river.
 - [[Rahab and the Spies]] — Joshua 2:1–24; concealment, pursuit, and escape within the city.
+- [[The Sin of Achan]] — Joshua 7:1, 21; devoted things taken from its plunder.

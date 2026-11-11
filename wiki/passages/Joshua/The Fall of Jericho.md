@@ -71,6 +71,8 @@ living among Israel. Joshua curses the future rebuilder, and his fame spreads as
 - [[Trumpet and Ram's Horn - Two Instruments, One English Word]]
 - [[The Midwives and Rahab - Deceiving the King to Save Life]]
 
+The warning of 6:18 is broken in the next pericope, [[The Sin of Achan]] (Joshua 7:1–26).
+
 ## Notes
 
 **Gift and commanded action.** Yahweh’s announcement precedes victory (2). The lengthy procession

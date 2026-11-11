@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Yahweh calls the theft a transgression of my covenant which I commanded them (11), and the sentence
+is given because he has transgressed Yahweh's covenant (15). A single breach suspends the covenant
+presence promised in Joshua 1:5 until it is purged.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 Read beside Genesis 17:8–14, the land and the bodily sign belong together. Joshua 5 renews observance among the children; it does not state new covenant terms or narrate a new covenant-making ceremony.
@@ -612,6 +620,7 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

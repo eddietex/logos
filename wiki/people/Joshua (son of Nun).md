@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Joshua's first defeat. He sends a reduced force to Ai on the spies' advice, then tears his clothes
+and lies before the ark with the elders, asking why Yahweh brought Israel over the Jordan and what
+he will do for his great name (6–9). Told to get up, he sanctifies the people, conducts the
+selection, addresses Achan as My son while urging confession, and pronounces the wordplay sentence:
+Why have you troubled us? Yahweh will trouble you today (25).
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Joshua transmits the marching orders, commands the shout, reserves the metals for Yahweh, and directs the spies to honor their oath to Rahab (6–26). His fame spreads because Yahweh is with him (27).
@@ -241,6 +251,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.

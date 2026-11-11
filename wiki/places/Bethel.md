@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Bethel serves as a locator: Ai is beside Beth Aven, on the east side of Bethel (2). Beth Aven is not
+identified here and has no page; its relation to Bethel is not stated in this verse.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 *Bêt-ʾĒl*, **house of God** — and the Bible's clearest case of a holy place that goes bad.
 
 Abram reaches it second. *"He left from there to go to the mountain on the east of Bethel and
@@ -55,6 +62,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 
 ## Appears in
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Call of Abram]] — Genesis 12:8, the ridge Abram pitches on and his second altar
 - [[Abram and Lot Separate]] — Genesis 13:3–4, the altar he comes back to after Egypt and calls on
   Yahweh's name at a second time

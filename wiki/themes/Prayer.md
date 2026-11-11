@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Joshua's prayer (7–9) combines complaint — why have you brought this people over the Jordan at all?
+— with the Mosaic argument from Yahweh's reputation: What will you do for your great name? (compare
+Numbers 14:13–16). Yahweh answers by disclosing hidden sin rather than by granting the request.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Moses asks Yahweh to hear Judah, bless Levi’s skills, and accept his work (7, 11). The poem includes
@@ -340,6 +348,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5–15.
 
 ## Key passages
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

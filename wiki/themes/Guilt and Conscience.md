@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Achan stays hidden through the defeat and the tribal selection and confesses only when taken.
+Joshua's appeal — give glory to Yahweh … and make confession to him (19; kāḇôḏ and tôḏâ, WLC) —
+draws a full confession, verified by the goods in the tent; the sentence stands.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### Answerable without being accused — Deuteronomy 21:1–9
 
 The town nearest the body is not charged with the killing. It is made answerable by distance (2–3), and
@@ -209,6 +217,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

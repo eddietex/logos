@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+A great heap of stones over Achan remains to this day (26), a memorial of judgment answering the
+twelve memorial stones at Gilgal (4:1–24). A second heap follows over the king of Ai (8:29).
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The twelve stones — Joshua 4:1–24
 
 The stones are a lasting memorial designed to provoke children’s questions (6–7, 21–23). Fathers
@@ -702,6 +709,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

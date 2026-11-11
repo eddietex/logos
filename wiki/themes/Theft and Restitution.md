@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The sin of Achan — Joshua 7:1–26
+
+Achan stole (11) from what belonged to Yahweh, not to a neighbor, and no restitution is available:
+the goods are recovered, laid before Yahweh, and burned with him (23–25). The law of repayment does
+not apply to the devoted thing.
+
+See [[The Sin of Achan]]. Source: stored WEB Joshua 7:1–26; WLC (morphhb) where Hebrew is named.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Removing a neighbor’s landmark is cursed (17), reinforcing the boundary protection of Deuteronomy 19:14. The curse gives no new restitution amount.
@@ -214,6 +222,7 @@ participle phrase is *gōnēb nepeš*, *one who steals a life* (WLC). See [[Pled
 
 ## Key passages
 
+- [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
