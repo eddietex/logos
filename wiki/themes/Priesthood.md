@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities — Joshua 21:1–42
+
+The list distinguishes Aaron’s thirteen priestly cities from the remaining Kohathites’ ten, Gershon’s thirteen, and Merari’s twelve (4–7, 19–40). Not every Levite is thereby called an Aaronic priest.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Residence continues until the death of the high priest of those days (6). No particular priest is named, no death is narrated, and no sacrificial explanation for this release is supplied.
@@ -785,6 +791,8 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

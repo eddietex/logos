@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Reuben to Merari’s descendants (21:36).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Eastern allotments — Joshua 13:8–33
 
 The former battle setting in Numbers 21:23 is now listed among Reuben’s towns (18).
@@ -26,6 +32,8 @@ takes his territory; no modern identification is supplied here.
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

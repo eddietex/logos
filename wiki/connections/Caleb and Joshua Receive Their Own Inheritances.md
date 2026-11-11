@@ -6,10 +6,18 @@ tags: [connection]
 # Caleb and Joshua Receive Their Own Inheritances
 
 ## Passages involved
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 
 ## Analysis
+
+### The Levitical allocation — Joshua 21:1–42
+
+Joshua 21:11–13 qualifies the earlier Hebron grant: the city and suburbs go to Aaron’s descendants, while Caleb retains its fields and villages. The apparent conflict with Joshua 14:13–14 is addressed by this explicit distinction, without inventing a boundary map or withdrawing Caleb’s inheritance.
+
+Source: stored WEB Joshua 14:13–14; 21:1–42.
 
 Caleb’s individual request and grant appear near the opening of the western allotments
 (Joshua 14:6–15); Joshua’s appear at their close (19:49–51). Caleb asks Joshua for the hill

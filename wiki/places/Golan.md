@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from half-Manasseh in Bashan to Gershon’s descendants (21:27).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Golan in Bashan is assigned from Manasseh as an eastern refuge (8), repeating Deuteronomy 4:43. It is included in the protection extended to resident aliens (9).
@@ -20,6 +26,8 @@ Golan is the city in Bashan set apart for the Manassites east of the Jordan
 Source: stored WEB Deuteronomy 4:41–43.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 

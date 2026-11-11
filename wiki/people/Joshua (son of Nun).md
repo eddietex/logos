@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Receives the Levite heads’ request alongside Eleazar and the tribal heads (1–2).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 He receives the command to tell Israel to appoint the refuge cities (1–2). The following communal designation implements the law; no individual asylum hearing by Joshua is narrated.
@@ -376,6 +382,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

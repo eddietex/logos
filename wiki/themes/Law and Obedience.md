@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities — Joshua 21:1–42
+
+The Levite heads invoke the command through Moses, and Israel gives cities accordingly (2–3, 8). The named distribution implements the earlier command of Numbers 35:1–8.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Yahweh’s instruction through Moses becomes a command to Joshua and a communal assignment of named cities (1–2, 7–9). Settlement includes implementing protective law, not only allocating territory.
@@ -1510,6 +1516,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

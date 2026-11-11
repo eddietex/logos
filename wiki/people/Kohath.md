@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+His descendants are divided into Aaron’s priestly family with thirteen cities and the remaining Kohathites with ten (4–5, 19–26).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### The second census — Numbers 26:1–65
 
 The Kohathites appear in the Levitical census; Kohath is named as Amram’s father (57–58).
@@ -88,6 +94,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:21 — The Kohathites carry the sanctuary, in the middle of the column. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

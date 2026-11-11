@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities — Joshua 21:1–42
+
+The allocation includes the six refuges from Joshua 20: Hebron, Shechem, Golan, Kedesh, Bezer, and Ramoth. This chapter does not repeat the admission and trial procedures.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Elders must give the unintentional killer a place to live and refuse to surrender him to the pursuing avenger (4–5). Compassion takes institutional form while preserving the requirement of trial.
@@ -432,6 +438,8 @@ same chapter the guilty man's beating is capped so that *"your brother"* is not 
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.

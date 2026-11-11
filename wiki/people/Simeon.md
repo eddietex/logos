@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The tribe descended from him contributes cities and suburbs to the Levites (21:4, 9–16). The ancestor is not an actor in this distribution.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Three tribal lots — Joshua 19:1–23
 
 The descendants receive the second lot by families, with thirteen towns and a further four inside Judah’s share (1–9). The explanation is Judah’s surplus. Earlier synthesis of absorption must be qualified: this passage still calls Simeon a tribe with its own inheritance; it does not narrate disappearance.
@@ -169,6 +175,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29 (comparison: absent).
 

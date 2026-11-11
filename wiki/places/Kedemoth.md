@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Reuben to Merari’s descendants (21:37).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Listed among Reuben’s towns (18). Deuteronomy 2:26 names the wilderness of Kedemoth as the embassy’s departure point; the town and wilderness references are related bearings, not identical descriptions.
@@ -19,6 +25,8 @@ identifies the wilderness by name but supplies no modern location or separate to
 Source: stored WEB Deuteronomy 2:24–37.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

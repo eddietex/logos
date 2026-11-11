@@ -72,6 +72,8 @@ fugitive, victim, or current high priest is supplied; no separate figure is inve
 - [[City and Civilization]]
 
 ## Cross-references
+
+- [[The Cities of the Levites]] — Joshua 21:1–42 supplies the Levitical city allocations and distinguishes Caleb’s fields and villages from Hebron’s city and suburbs. See [[Forty-Eight Cities Commanded and Allotted]].
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:9–28 supplies the six-city
   command and the residence requirement.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 already names the eastern three.

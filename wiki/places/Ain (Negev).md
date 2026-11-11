@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Judah and Simeon to Aaron’s descendants (21:16).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Three tribal lots — Joshua 19:1–23
 
 Listed among Simeon’s towns within Judah’s inheritance (19:7); verse 9 explains the shared territory by Judah’s oversized portion. No new capture is narrated.
@@ -20,6 +26,8 @@ Qualified to keep it apart from [[Ain]], the landmark beside Riblah in Numbers 3
 Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 

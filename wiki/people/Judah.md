@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The tribe descended from him contributes cities and suburbs to the Levites (21:4, 9–16). The ancestor is not an actor in this distribution.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Kiriath Arba, expressly identified as Hebron, is the refuge in Judah’s hill country (7). The patriarch is not an actor.
@@ -414,6 +420,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Naphtali’s border reaches Judah (34); Dan’s list repeats Judah’s towns.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

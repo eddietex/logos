@@ -6,6 +6,8 @@ tags: [connection]
 # Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10
 
 ## Passages involved
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
@@ -18,6 +20,12 @@ tags: [connection]
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 
 ## Analysis
+
+### The Levitical allocation — Joshua 21:1–42
+
+Joshua 21 names the cities anticipated by 14:4. Aaron’s descendants are distinguished from the other Kohathites (4–5, 19–26), so the collective language about Levi’s priesthood must not erase this internal distinction. The forty-eight cities are concrete holdings within Israel’s possessions (41–42).
+
+Source: stored WEB Joshua 14:13–14; 21:1–42.
 
 ### The survey at Shiloh — Joshua 18:1–10
 

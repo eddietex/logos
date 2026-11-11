@@ -25507,3 +25507,40 @@ Existing raw texts and workflow instructions are unchanged.
 Validation: scripts/link-check.sh exits 0, with no wrapped links or unexpected dangling
 targets; 56 not-yet-started book pages remain the expected baseline. Frontmatter totals
 match the dashboard. No unresolved ingestion blocker.
+
+## [2026-11-11] ingest | Joshua 21.1-42 — The Cities of the Levites
+
+Ingested [[The Cities of the Levites]] in auto mode from stored WEB Joshua 21:1–42.
+Retained the planned boundary; the summary in 21:43–45 remains the next pericope.
+Joshua is now 36 / 42 pericopes ingested.
+
+Created 12 pages: the passage, ten places (Abdon, Almon, Anathoth, Be Eshterah,
+Dimnah, Hammothdor, Jarmuth (Issachar), Kartah, Kartan, Kibzaim), and
+[[Forty-Eight Cities Commanded and Allotted]]. Revised 81 existing content pages:
+the book, four earlier passages, 24 people, 43 places, six themes, and three connections.
+Updated 11 index/dashboard pages and this log: 93 existing pages revised in total.
+Totals by frontmatter: 430 passages, 283 people, 544 places, 87 themes, 829 connections;
+10 books started, 9 complete.
+
+Preserved the distinction between Aaron's priestly descendants and the other Levites,
+and between a tribal territorial share and city property. Extended the existing
+Levi-inheritance and Caleb/Joshua connections; Hebron's fields and villages remain
+Caleb's while the priests receive the city and suburbs. Gezer and Taanach retain
+their non-removal notices; allocation is not treated as exclusive occupation.
+
+Recorded both Gath Rimmon allocations without choosing between two towns, shared
+rights, or a textual problem. Treated Eshtemoa/Eshtemoh, Juttah/Jutah,
+Elteke/Eltekeh, and En Gannim/Engannim as probable spelling correspondences with
+uncertainty stated on the passage and place pages. Kept Issachar's Jarmuth apart
+from Judah's city; did not impose equations for Be Eshterah, Hammothdor, Kartan,
+Kartah, or Dimnah. The Daberath border/allocation overlap remains explicit.
+Tribal ancestors represent descendants; unnamed household heads remain collective.
+
+Quotations checked verbatim against stored WEB Joshua 21. Comparisons checked
+in stored Numbers 35 and Joshua 14–17, 19–20. No new exact source-language claims
+or quotations from unstored books. Raw texts and workflow instructions are unchanged.
+
+Validation: scripts/link-check.sh exits 0; no wrapped or unexpected dangling links,
+with 56 expected not-yet-started book targets. Quotation comparison, touched entity
+index-row uniqueness, frontmatter totals, and git diff --check pass.
+No unresolved ingestion blocker; geographical uncertainties are recorded in the pages.

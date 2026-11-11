@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Zebulun to Merari’s descendants (21:34).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Three tribal lots — Joshua 19:1–23
 
 The brook before Jokneam marks Zebulun’s western boundary (11); the verse does not narrate occupation of the royal city counted in 12:22.
@@ -18,6 +24,8 @@ Royal city whose king is counted in Joshua 12:22, *Jokneam in Carmel*. No battle
 Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigned.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Kings Struck Down]] — Joshua 12:1–24
 

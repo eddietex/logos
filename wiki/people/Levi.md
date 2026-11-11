@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+His descendants receive forty-eight cities and surrounding livestock land within Israel’s possessions (1–8, 41–42), rather than a separate tribal territory.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The Levites have no portion among the seven because Yahweh’s priesthood is their inheritance (7).
@@ -315,6 +321,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

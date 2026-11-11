@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Cities of the Levites]] — Joshua 21:1–42.
+
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
@@ -33,6 +35,12 @@ tags: [connection]
   curse — [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]
 
 ## Analysis
+
+### The Levitical allocation — Joshua 21:1–42
+
+Joshua 21:1–42 now reports the allocation of forty-eight cities and their suburbs. This reinforces the correction of the older absolute-propertylessness claims retained below: no territorial share is not no property. Caleb retains fields and villages at Hebron (12), while priests receive the city and suburbs (13).
+
+Source: stored WEB Joshua 14:13–14; 21:1–42.
 
 ### Deuteronomy 18:1–8 now ingested
 

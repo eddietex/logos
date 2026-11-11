@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Judah and Simeon to Aaron’s descendants (21:13).  Verses 11–13 distinguish the city and suburbs given to the priests from fields and villages retained by Caleb. This qualifies, rather than silently cancels, the grant in Joshua 14:13–14.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Kiriath Arba is expressly equated with Hebron and set apart as Judah’s hill-country refuge (7). The protective function does not itself cancel Caleb’s earlier grant or describe ownership arrangements.
@@ -104,6 +110,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 **Joshua 12:1–24 — the list of kings.** *The king of Hebron, one* (12:10). The count does not settle whether it means Hoham, killed at Makkedah (10:23–26), or the king killed when the city fell (10:37). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.

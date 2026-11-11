@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The Levite heads petition Eleazar, Joshua, and the tribal heads here in Canaan (1–2).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 The closing allotment summary locates the lot before Yahweh at the door of the Tent of Meeting here (51), confirming the sanctuary setting introduced in Joshua 18:1–10.
@@ -21,6 +27,8 @@ or describing a stone temple.
 Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 

@@ -190,6 +190,10 @@ priest’s death place judicial safeguards within the settled land, including re
 - 22–24 — return and renewal: the eastern tribes sent home and their altar, Joshua's farewell,
   the covenant at Shechem, and three burials.
 
+[[The Cities of the Levites]] (21:1–42) allocates forty-eight cities and their suburbs
+among the Levitical families. The cities implement Moses’ command within Israel’s tribal
+possessions; Hebron’s fields and villages remain Caleb’s.
+
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
@@ -233,7 +237,7 @@ Plan drawn 2026-11-10 from the stored WEB. **35 / 42 pericopes ingested.**
 - [x] [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48
 - [x] [[Joshua's Own Inheritance]] — Joshua 19:49–51
 - [x] [[The Cities of Refuge Appointed]] — Joshua 20:1–9
-- [ ] The Cities of the Levites — Joshua 21:1–42
+- [x] [[The Cities of the Levites]] — Joshua 21:1–42
 - [ ] Not One Good Thing Failed — Joshua 21:43–45
 - [ ] The Eastern Tribes Sent Home — Joshua 22:1–9
 - [ ] The Altar of Witness by the Jordan — Joshua 22:10–34

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Gad to Merari’s descendants (21:39).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Sihon’s royal center (10, 21), listed with Reuben’s cities (17) and used again as a starting point in Gad’s boundary (26). A boundary reference need not be an exclusive grant of the same city twice.
@@ -81,6 +87,8 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 **Joshua 12:1–24 — the list of kings.** Sihon's residence, recalled at the head of the list of kings (12:2); verse 5 calls him *Sihon king of Heshbon*. See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 

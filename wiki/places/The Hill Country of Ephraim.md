@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Shechem, the refuge supplied by Ephraim, is located here (21).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 Timnathserah, Joshua’s requested and granted city, is located here (50). He builds and inhabits it; the verse supplies neither a modern site nor an expanded boundary for the region.
@@ -20,6 +26,8 @@ does not draw a precise boundary or equate every surrounding forest with the who
 Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

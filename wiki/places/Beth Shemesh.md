@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Judah and Simeon to Aaron’s descendants (21:16).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 **Other Beth Shemeshes.** Issachar’s and Naphtali’s registers each name one (19:22, 38): [[Beth Shemesh (Issachar)]] and [[Beth Shemesh (Naphtali)]]. Dan’s [[Irshemesh]] (19:41) shares the second element but is not equated with this town.
 
 The boundary descends here after Mount Jearim and passes by Timnah (10). No identification with another similarly named town is imposed.
@@ -14,6 +20,8 @@ The boundary descends here after Mount Jearim and passes by Timnah (10). No iden
 Source: stored WEB Joshua 15:1–12. No precise modern location or unstated biography is asserted.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 ## Related places

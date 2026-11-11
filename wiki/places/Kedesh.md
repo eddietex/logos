@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Naphtali to Gershon’s descendants (21:32).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Kedesh in Galilee in Naphtali’s hill country is set apart as a western refuge (7). This locates the refuge explicitly; identification with the unqualified royal city in Joshua 12:22 remains uncertain.
@@ -26,6 +32,8 @@ Royal city whose king is counted in Joshua 12:22, among the northern cities of t
 Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigned.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Naphtali’s list.
 - [[The Kings Struck Down]] — Joshua 12:1–24

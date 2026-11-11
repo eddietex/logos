@@ -81,6 +81,8 @@ None of the forty-eight cities is named here.
 
 ## Cross-references
 
+- [[The Cities of the Levites]] — Joshua 21:1–42 supplies the Levitical city allocations and distinguishes Caleb’s fields and villages from Hebron’s city and suburbs. See [[Forty-Eight Cities Commanded and Allotted]].
+
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9 now names all six refuges and specifies admission at the gate, trial, and residence until the high priest’s death.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the law restated without the congregation

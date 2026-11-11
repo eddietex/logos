@@ -61,6 +61,8 @@ Full pericope, WEB, copied from the stored source:
 - [[Providence]] — The land is distributed by lot as Yahweh commanded (2), while named leaders administer it (1). Read beside Proverbs 16:33, this joins divine direction with human responsibility; Joshua supplies no description of the physical lot procedure.
 
 ## Cross-references
+
+- [[The Cities of the Levites]] — Joshua 21:1–42 supplies the Levitical city allocations and distinguishes Caleb’s fields and villages from Hebron’s city and suburbs. See [[Forty-Eight Cities Commanded and Allotted]].
 - [[From Census to Borders and Allotment - Numbers 26, 33, and 34]]
 - [[Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10]]
 - [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]]

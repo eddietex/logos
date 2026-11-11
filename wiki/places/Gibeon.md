@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Benjamin to Aaron’s descendants (21:17).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 Heads Benjamin’s second city group (25–28). The allocation does not revoke the protection of its inhabitants in Joshua 9.
@@ -40,6 +46,8 @@ Its envoys are identified as Hivites (7); it is one of four cities protected by 
 Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.

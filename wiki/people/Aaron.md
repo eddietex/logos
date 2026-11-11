@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+His priestly descendants receive the first lot: thirteen cities, a distinct subset of Kohath’s descendants (4, 10, 19).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 His death on Mount Hor is explicitly the precedent for Moses’ approaching death (50). This agrees
@@ -759,6 +765,8 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.

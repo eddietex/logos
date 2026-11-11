@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The tribe descended from him contributes cities and suburbs to the Levites (21:5, 23–24). The ancestor is not an actor in this distribution.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### The last three lots — Joshua 19:24–48
 
 The descendants receive the seventh and last lot, a list of lowland towns ending opposite Joppa (40–46). They then take Leshem and name it *Dan, after the name of Dan their forefather* (47) — the patriarch is present only as the name given to a captured city. Several of the lowland towns were already listed for Judah. See [[Leshem Becomes Dan - Joshua 19 and Judges 18]].
@@ -178,6 +184,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

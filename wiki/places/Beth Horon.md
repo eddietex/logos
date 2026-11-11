@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Ephraim to the remaining Kohathites (21:22).  This verse does not specify upper or lower Beth Horon.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 The mountain south of lower Beth Horon locates Ataroth Addar (13) and the turn of the western border (14). Upper and lower Beth Horon remain distinguished.
@@ -26,6 +32,8 @@ is made here.
 Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

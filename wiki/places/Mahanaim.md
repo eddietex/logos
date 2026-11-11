@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Gad to Merari’s descendants (21:38).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Marks a reach of Gad’s boundary (26) and the starting point of Manasseh’s description (30).
@@ -35,6 +41,8 @@ assertion of deliberate allusion. See [[The Dance of Mahanaim - Genesis 32.1-2 a
 Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[Wrestling at the Jabbok]] — Genesis 32:1–2; named at the chapter's opening, before the arithmetic

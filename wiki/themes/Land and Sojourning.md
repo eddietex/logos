@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities — Joshua 21:1–42
+
+Forty-eight cities and their suburbs belong to Levi within the other tribes’ possessions (41–42). No separate tribal territory does not mean no homes or land; Caleb’s fields and villages are expressly retained at Hebron (12).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Six named cities distribute refuge on both sides of the Jordan (7–8). Resident aliens share its protection with Israelites (9), and the eventual return is to the fugitive’s own house and city (6).
@@ -1000,6 +1006,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.

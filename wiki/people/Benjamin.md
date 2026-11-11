@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The tribe descended from him contributes cities and suburbs to the Levites (21:4, 17–18). The ancestor is not an actor in this distribution.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 The descendant tribe receives a lot by families between Judah and Joseph (11), with a boundary circuit and two city groups (12–28). The patriarch is not personally present.
@@ -189,6 +195,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

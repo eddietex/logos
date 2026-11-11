@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Gad to Merari’s descendants (21:39).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Heads Gad’s territorial list (25), agreeing with its building by Gad in Numbers 32:35.
@@ -26,6 +32,8 @@ This success follows the settlement in Sihon’s cities.
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [[Sihon and Og]] — Numbers 21:21–35

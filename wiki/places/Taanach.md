@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from half-Manasseh to the remaining Kohathites (21:25).  Joshua 17:11–13 records non-removal and forced labor; the Levitical grant does not narrate a new conquest.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Named among Manasseh’s allotted cities with dependent towns (11), whose inhabitants are not driven
@@ -20,6 +26,8 @@ Royal city whose king is counted in Joshua 12:21, paired with Megiddo. No battle
 Source: stored WEB Joshua 12–21 at the verses cited; Judges 1:27 checked at bible-api.com (`translation=web`). No modern site is assigned.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Kings Struck Down]] — Joshua 12:1–24
 

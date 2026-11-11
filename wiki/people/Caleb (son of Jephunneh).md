@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Retains Hebron’s fields and villages while its city and suburbs go to Aaron’s descendants (11–13). The text distinguishes these holdings without mapping their boundaries.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Caleb receives Hebron under Yahweh’s command, drives out Sheshai, Ahiman, and Talmai, and offers Achsah in marriage to the conqueror of Debir. He grants her both upper and lower springs when she asks (13–19). The land grant of chapter 14 now leads to action and household provision.
@@ -100,6 +106,8 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

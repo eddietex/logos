@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities — Joshua 21:1–42
+
+Israel supplies Levitical households from its own inheritances (3, 8); the tribal grants make room for those without a separate territorial allotment.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### The twelve stones — Joshua 4:1–24
 
 The eastern tribes’ crossing (12–13) puts shared responsibility into action. Having land east of the
@@ -342,6 +348,8 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the eastern tribes cross *before your brothers* until their brothers have rest (14–15).
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

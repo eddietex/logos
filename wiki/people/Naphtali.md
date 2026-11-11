@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The tribe descended from him contributes cities and suburbs to the Levites (21:6, 32). The ancestor is not an actor in this distribution.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Kedesh in Galilee is located in the hill country of Naphtali (7). The name refers to the descendant tribe and its territory, not an action by the patriarch.
@@ -153,6 +159,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:27 — Naphtali marches in Dan's camp, last named. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).

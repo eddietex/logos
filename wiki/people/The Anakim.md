@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Anak is recalled in the explanation of Kiriath Arba’s name (11); this is a naming notice, not another battle.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Sheshai, Ahiman, and Talmai are named as the three sons of Anak whom Caleb drives out (14). Verse 13 associates Kiriath Arba with the father of Anak. This local expulsion remains in tension with Joshua’s comprehensive removal in 11:21–22; no return is narrated.
@@ -77,6 +83,8 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - Removed from Hebron — Joshua 15:14; Judges 1:10, 20
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

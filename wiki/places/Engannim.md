@@ -7,11 +7,19 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Issachar to Gershon’s descendants (21:29).  WEB here has En Gannim, compared with Engannim in Issachar’s list (19:21); this probable spelling correspondence is not an express equation. Distinct from En Gannim in Judah.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 Named in Issachar’s border and city register (18–23), totaling sixteen cities with their villages and ending at the Jordan. No individual capture is narrated.
 
 Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 
 ## Related places

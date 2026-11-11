@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+Allocated with its suburbs from Judah and Simeon to Aaron’s descendants (21:15).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Judah’s cities — Joshua 15:20–63
 
 Listed in the first hill-country group as *Kiriath Sannah (which is Debir)* (49). Verse 15 gave Debir's former name as *Kiriath Sepher*; the two forms are recorded side by side and not reconciled here.
@@ -32,6 +38,8 @@ Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is ass
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:13), after its capture in 10:38–39. See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

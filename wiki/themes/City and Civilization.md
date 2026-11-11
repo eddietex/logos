@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Levitical cities — Joshua 21:1–42
+
+The cities include surrounding land for livestock (2, 42). This is settlement provision, not a register of new conquests.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 The city gate is where elders hear the fugitive’s case; the city must receive him and give him a place to live (4). Urban community becomes an instrument of refuge and adjudication.
@@ -210,6 +216,8 @@ The different uses remain distinct; no city becomes the established setting.
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
 ## Key passages
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three cities set apart and the land divided around them (2–3); the elders of the town (12).

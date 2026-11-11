@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+His descendants receive thirteen cities from Issachar, Asher, Naphtali, and eastern half-Manasseh (6, 27–33).
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### The second census — Numbers 26:1–65
 
 The Gershonites appear in the separate Levitical census (57).
@@ -70,6 +76,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:17 — His sons carry the tabernacle, ahead of Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[The Second Census]] — Numbers 26:1–65.
 

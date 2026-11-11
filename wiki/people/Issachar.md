@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Levitical cities — Joshua 21:1–42
+
+The tribe descended from him contributes cities and suburbs to the Levites (21:6, 28–29). The ancestor is not an actor in this distribution.
+
+See [[The Cities of the Levites]]. Source: stored WEB Joshua 21:1–42.
+
 ### Three tribal lots — Joshua 19:1–23
 
 The descendants receive the fourth lot with sixteen cities and a border ending at the Jordan (17–23). Genesis 49:14–15’s forced labor is not reported here: this is an allotment register, not a report of the tribe’s labor status.
@@ -149,6 +155,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:15 — Issachar marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
