@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
+
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 
 
@@ -34,6 +36,12 @@ tags: [connection]
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:34–38; dwelling and accompaniment together at the book’s close.
 
 ## Analysis
+
+### The completed crossing — Joshua 4
+
+Joshua 4:14 reports the magnifying promised in 3:7. Israel fears Joshua as it feared Moses. The crossing confirms the commission; this is not a fresh repetition of the presence formula.
+
+Source: stored WEB Joshua 3–4.
 
 ### The Jordan crossing
 

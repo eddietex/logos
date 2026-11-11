@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+The eastern tribes’ crossing (12–13) puts shared responsibility into action. Having land east of the
+river does not release them from helping the others.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### For your brothers — Joshua 1:10–18
 
 *You shall pass over before your brothers armed … and shall help them until Yahweh has given your brothers rest, as he has given you* (14–15). Three uses of *your brothers* in two verses: the eastern tribes, already at rest, may not keep it while their brothers lack it. The arrangement answers Moses' question at Numbers 32:6, *Shall your brothers go to the war, and shall you sit here?*
@@ -336,6 +342,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the eastern tribes cross *before your brothers* until their brothers have rest (14–15).
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 

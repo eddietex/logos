@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Reuben’s descendants cross armed with Gad and half of Manasseh as Moses instructed (12–13). About
+forty thousand describes the combined force, not Reuben alone. Crossing begins service without yet
+discharging it.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### The eastern tribes pledge to cross — Joshua 1:10–18
 
 Joshua reminds *the Reubenites* (12), with Gad, Reuben and the half-tribe of Manasseh, of Moses' word: families and livestock stay east of the Jordan, and all the *mighty men of valor* cross armed ahead of their brothers and help them until Yahweh gives the others rest (13–15). They answer *All that you have commanded us we will do* (16) and set death for anyone who rebels against Joshua's word (18). The tribe, not the patriarch, is in view.
@@ -269,6 +276,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the Reubenites* (12) pledge to cross armed before their brothers.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

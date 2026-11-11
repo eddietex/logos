@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Joshua explicitly compares Yahweh’s drying of the Jordan with his drying of the Red Sea (23).
+Earlier deliverance explains the new entry and becomes part of the answer to future children.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab reports that Jericho has heard how Yahweh dried up the sea when Israel left Egypt (10). Israel’s remembered deliverance has become news that frightens another people.
@@ -83,6 +89,7 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

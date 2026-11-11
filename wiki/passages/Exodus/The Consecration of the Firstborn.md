@@ -346,6 +346,7 @@ a festival, not an object. The wiki adopts neither reading.
 - [[Barrenness]]
 
 ## Cross-references
+- [[When Your Children Ask - Exodus, Deuteronomy, and Joshua]] — the children’s question and the Jordan memorial.
 
 - [[Visible Reminders and the God Who Brought Israel Out]] — [[The Tassels]] brings remembrance, obedience, and deliverance together (Numbers 15:37–41).
 

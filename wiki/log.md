@@ -24592,3 +24592,27 @@ The dashboard's inherited people count was corrected to the actual frontmatter c
 Final link checks passed: no wrapped or dangling links, with 56 unopened book pages as the
 expected baseline. No duplicate non-index basenames remain. No operational blocker or
 deliberately unresolved link remains.
+
+## [2026-11-10] ingest | Joshua 4.1-24 — The Twelve Stones from the Jordan
+
+Ingested [[The Twelve Stones from the Jordan]] in unattended mode with Codex. Retained the
+planned chapter boundary; Joshua is now 5 / 42 pericopes ingested.
+
+Created two pages: the passage and
+[[When Your Children Ask - Exodus, Deuteronomy, and Joshua]]. Revised 30 existing content pages:
+Joshua, seven people, four places, twelve themes, three connections, and three earlier passages
+with reciprocal links. Updated nine index/dashboard pages and this log (40 existing pages in all).
+Progress counted by frontmatter: 399 passages, 260 people, 227 places, 87 themes, 797 connections.
+
+Distinguished stones carried to Gilgal from the placement in the river in verse 9; did not
+resolve the narrative’s two placements by silently merging them. Noted the recapitulated
+crossing sequence, the eastern tribes’ initial fulfillment rather than discharge, and
+Joshua’s public confirmation. Kept unnamed priests and representatives within the passage;
+tribal notices update the existing patriarch/descendant pages. Gilgal’s relationship to
+Deuteronomy 11:30 remains unresolved.
+
+All new quotations were copied from stored WEB Joshua 4. The children’s-question connection
+was checked against stored WEB Exodus 12:26–27; 13:8–16 and Deuteronomy 6:20–25. No new
+source-language claims or unstored-book quotations were introduced. Existing raw texts and
+workflow instructions were unchanged. Link checks passed with no wrapped or dangling links;
+56 not-yet-started book pages remain the expected baseline.

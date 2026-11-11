@@ -450,6 +450,7 @@ land.** The wiki records both and adopts neither.
 - [[Creation]]
 
 ## Cross-references
+- [[When Your Children Ask - Exodus, Deuteronomy, and Joshua]] — the children’s question and the Jordan memorial.
 
 - [[Passover and Unleavened Bread - Exodus 12 and Leviticus 23]] — [[Sabbath, Passover, and Unleavened Bread]] gives the later calendar formulation.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Stones are removed for the Gilgal memorial; verse 9 also places twelve stones within the river. When
+the priests leave, water returns over its banks (18). Joshua compares this crossing to the Red Sea
+(23).
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 At harvest the river overflows its banks (15). When the ark-bearers’ feet touch its edge, upstream water stands at Adam beside Zarethan and downstream flow toward the Salt Sea is cut off (15–16). Priests stand on dry ground while all Israel passes near Jericho (17).
@@ -249,6 +256,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

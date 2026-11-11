@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+People carry the stones, eastern tribes cross as Moses instructed, and priests leave at Joshua’s
+order (8, 12, 17–18). Obedience also includes teaching the event’s meaning (21–24).
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Commands pass through officers and Joshua to people and priests (2–9). The priests enter the water and remain while the nation crosses (15–17); obedience takes concrete form in ordered movement.
@@ -1374,6 +1380,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+The public confirmation promised Joshua in 3:7 is reported accomplished in 4:14. Selection of one
+representative per tribe (2–5) separately gives the memorial a national scope.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Yahweh begins to establish Joshua publicly so Israel will know that he is with him as with Moses (7). The crossing confirms an existing commission; it is not Joshua’s first call.
@@ -274,6 +280,7 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

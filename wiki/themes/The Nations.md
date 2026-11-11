@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+The purpose includes all peoples knowing Yahweh’s mighty hand (24). This states an aim, not a report
+that every nation already knows.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites are named in the promised expulsion (10). The passage gives no individual encounter with them, and no battle takes place here.
@@ -429,6 +435,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

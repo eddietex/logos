@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Moses is recalled through his commands and the eastern tribes’ obedience (10, 12). Israel’s regard
+for him becomes the comparison for its regard for Joshua (14). He is a remembered predecessor, not a
+participant.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Moses is recalled as the measure of the presence promised Joshua (7). He does not participate in this crossing: the successor’s public confirmation continues his leadership without reversing his exclusion from entry.
@@ -1893,6 +1900,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

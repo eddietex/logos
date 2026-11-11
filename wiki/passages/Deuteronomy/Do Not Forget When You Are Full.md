@@ -104,6 +104,7 @@ Complete unit, copied from the stored WEB:
 - [[War]]
 
 ## Cross-references
+- [[When Your Children Ask - Exodus, Deuteronomy, and Joshua]] — the children’s question and the Jordan memorial.
 
 - [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]] — [[First Fruits and the Tithe Declaration]]; 6:21–23 and 26:5–9 as two short retellings.
 - [[Hear Israel and Love Yahweh]] — the daily teaching of 6:7 becomes a worked household answer.

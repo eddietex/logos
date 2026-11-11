@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+The stones are a lasting memorial designed to provoke children’s questions (6–7, 21–23). Fathers
+must explain the deliverance; the object preserves an occasion for testimony rather than
+interpreting itself.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Remember the word — Joshua 1:10–18
 
 *Remember the word which Moses the servant of Yahweh commanded you* (13, *zākôr*, MAM via Sefaria). What is to be remembered is an agreement, and Joshua recites it in the words of Deuteronomy 3:18–20. Memory here binds the living to a promise their own tribes made.
@@ -688,6 +695,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *Remember the word which Moses … commanded you* (13).
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

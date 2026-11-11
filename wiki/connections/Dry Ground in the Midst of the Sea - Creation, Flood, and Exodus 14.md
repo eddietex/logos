@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
+
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 
 
@@ -26,6 +28,12 @@ tags: [connection]
   [[Baptized into Moses - The Sea in 1 Corinthians 10 and Hebrews 11]]
 
 ## Analysis
+
+### The completed crossing — Joshua 4
+
+Joshua 4:23 explicitly compares Yahweh’s drying of the Jordan and Red Sea. This is now Joshua’s reported explanation, not only a reader’s comparison of imagery. Returning water completes the river event (18); no pursuing army is drowned here.
+
+Source: stored WEB Joshua 3–4.
 
 ### The Jordan crossing
 

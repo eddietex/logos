@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+The unnamed ark-bearing priests remain until the commanded work is complete and leave at Joshua’s
+order (10–18). Their Levitical identification comes from 3:3; the patriarch is not present.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 The priests described as Levites carry the covenant ark before Israel and stand in the river until everyone crosses (3, 17). This is an act of descendants, not of the patriarch; no individual priest is named. The passage does not explain how this assignment relates to the Kohathite carrying duties in Numbers 4.
@@ -288,6 +294,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

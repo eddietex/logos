@@ -7,12 +7,19 @@ tags: [place]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Israel camps here on Jericho’s east border on the tenth day of the first month (19). Joshua erects
+the stones carried from the Jordan (20). This does not resolve the identity of Gilgal in Deuteronomy
+11:30.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 First named in Deuteronomy 11:30, where Moses locates [[Mount Gerizim]] and [[Mount Ebal]] *"in the
 land of the Canaanites who dwell in the Arabah, near Gilgal, beside the oaks of Moreh"*.
 
 **Which Gilgal is unresolved.** Joshua 4:19 has Israel camp after crossing the Jordan *"in Gilgal,
 on the east border of Jericho"*, and Joshua 5:9 explains the name: *"Today I have rolled away the
-reproach of Egypt from you"* (both WEB, verified from bible-api.com; Joshua not yet ingested). That
+reproach of Egypt from you"* (both WEB, verified from bible-api.com; Joshua 4 now ingested; Joshua 5 pending). That
 Gilgal lies in the Jordan valley near [[Jericho]], a long way south of the two mountains by
 [[Shechem (city)]]. Deuteronomy 11:30 may be orienting the reader loosely by the valley and its road,
 or it may mean another place of the same name nearer Shechem. The text does not decide, and neither
@@ -22,6 +29,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Set These Words Before You]] — Deuteronomy 11:30; a landmark for locating Gerizim and Ebal.
 
@@ -36,4 +44,4 @@ both pages qualified.
 
 - Named as a landmark near the mountains of blessing and curse — Deuteronomy 11:30,
   [[Set These Words Before You]].
-- Israel's first camp west of the Jordan — Joshua 4:19 (not yet ingested).
+- Israel's first camp west of the Jordan — Joshua 4:19, [[The Twelve Stones from the Jordan]].

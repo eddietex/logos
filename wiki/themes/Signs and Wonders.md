@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+The stones become a sign of the stopped river (6–7). Returning water completes the event (18); its
+explanation extends knowledge of Yahweh’s power to future generations and all peoples (21–24).
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 The announced wonder supplies knowledge: Yahweh is with Joshua as with Moses (7), and the living God is among Israel (10). Prediction precedes the priests’ entry and the stopping of the water (13–17).
@@ -153,6 +159,7 @@ signs, and with wonders."* The list of 4:34, now put in the mouth of every house
 first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

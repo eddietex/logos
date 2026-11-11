@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+Israel is to fear Yahweh forever (24). It also fears Joshua as it feared Moses (14); respect for the
+commissioned leader and enduring fear of God have distinct objects.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab describes the inhabitants’ loss of courage at news of Yahweh’s deeds (9–11). Her confession and protective action distinguish her response from collective terror; fear of Israel and reverent allegiance should not simply be equated.
@@ -520,6 +526,7 @@ and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or 
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.

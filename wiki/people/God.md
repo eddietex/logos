@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Yahweh commands the memorial, magnifies Joshua, and restores the river after the priests leave (1–3,
+14–18). All peoples are to know his mighty hand, and Israel is to fear him continually (24).
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Yahweh promises to establish Joshua before Israel (7). The crossing will show that the living God is among them and will drive out the seven named peoples (10); his rule is described as extending over all the earth (11, 13). The sign demonstrates presence before conquest is complete.
@@ -3805,6 +3811,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

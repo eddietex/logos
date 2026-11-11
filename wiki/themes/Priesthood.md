@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The twelve stones — Joshua 4:1–24
+
+The ark-bearing priests hold their position until the work is finished and leave at the transmitted
+divine command (10–18). No individual priest is named.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Unnamed Levitical priests carry the covenant ark into the Jordan and stand until all Israel crosses (3, 17). Their service supports the entire people. This passage does not reconcile their ark-bearing role with the Kohathite transport regulations of Numbers 4.
@@ -733,6 +739,7 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

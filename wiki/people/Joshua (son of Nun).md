@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+Joshua directs the representatives, sets stones in the river and at Gilgal, and teaches their
+meaning (4–9, 20–24). Yahweh magnifies him before Israel (14), fulfilling 3:7.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Joshua moves the camp from Shittim, commands sanctification and the priests’ advance, and announces the stopping of the river (1, 5–13). Yahweh promises public confirmation of his leadership by the same presence given Moses (7). Joshua commands; the priests carry the ark into the water.
@@ -213,6 +219,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

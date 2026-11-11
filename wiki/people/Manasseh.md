@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+The eastern half-tribe crosses armed with Reuben and Gad (12–13). This fulfills the promise to
+cross, not the whole obligation to serve until their brothers receive rest. The patriarch is not the
+actor.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### The eastern half-tribe pledges — Joshua 1:10–18
 
 *The half-tribe of Manasseh* (12) is bound with Reuben and Gad to the Moses agreement, though Numbers 32 never records the half-tribe accepting the condition (see [[The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22]]). Here it is simply addressed alongside them and joins the pledge (16–18). The tribe, not the patriarch, is in view.
@@ -205,6 +212,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the half-tribe of Manasseh* (12) joins the eastern tribes' pledge.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

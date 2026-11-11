@@ -7,18 +7,26 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
+
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; the request, the rebuke, the
   condition, and the grant *(stored WEB)*
 - [[The Borders of the Land]] — Numbers 34:13–15; the eastern inheritance already received (stored WEB).
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; grant, shared rest, and encouragement (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; Joshua reminds the two and a half tribes, and they pledge (stored WEB).
-- Joshua 4:12–13 — they cross armed *(WEB via bible-api.com, not yet ingested)*
+- Joshua 4:12–13 — they cross armed (stored WEB; now ingested).
 - Joshua 13:8–32 — their allotment *(WEB via bible-api.com for 13:15–31, not yet ingested)*
 - Joshua 22:1–9 — they are sent home *(WEB via bible-api.com, not yet ingested)*
 - Judges 5:15–17 — Deborah's song on Reuben and Gilead *(WEB via bible-api.com, not yet ingested)*
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+### The completed crossing — Joshua 4
+
+Joshua 4:12–13 is now ingested: Reuben, Gad, and half of Manasseh cross armed as Moses commanded, about forty thousand ready for battle. Joshua 1’s undertaking becomes action. Crossing begins fulfillment; discharge remains ahead in Joshua 22.
+
+Source: stored WEB Joshua 3–4.
 
 Joshua 1:10–18 is now ingested. Joshua's reminder reproduces Deuteronomy 3:18–20 rather than
 Numbers 32: verse 15's *until Yahweh has given your brothers rest, as he has given you, and they

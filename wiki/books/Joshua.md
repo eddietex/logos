@@ -39,6 +39,11 @@ to Joshua. The land’s frightened inhabitants now supply the encouragement Isra
 and its priests standing in the river. The event confirms Yahweh’s presence with Joshua and
 among Israel; conquest remains ahead.
 
+The crossing receives a memorial in [[The Twelve Stones from the Jordan]] (4:1–24).
+Stones at Gilgal prompt future children’s questions, Joshua’s authority is confirmed, and
+the eastern tribes’ pledge becomes an armed crossing. The explanation joins Jordan to Red Sea
+and aims at Israel’s enduring fear and all peoples’ knowledge of Yahweh.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -55,13 +60,13 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **4 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **5 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
 - [x] [[Rahab and the Spies]] — Joshua 2:1–24
 - [x] [[Crossing the Jordan]] — Joshua 3:1–17
-- [ ] The Twelve Stones from the Jordan — Joshua 4:1–24
+- [x] [[The Twelve Stones from the Jordan]] — Joshua 4:1–24
 - [ ] The Second Circumcision at Gilgal — Joshua 5:1–9
 - [ ] Passover at Gilgal and the End of the Manna — Joshua 5:10–12
 - [ ] The Commander of Yahweh's Army — Joshua 5:13–15

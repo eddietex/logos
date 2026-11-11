@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The twelve stones — Joshua 4:1–24
+
+The eastern contingent reaches its plains ready for battle (13), and Gilgal is on its east border
+(19). These are arrival notices, not a report of the city’s conquest.
+See [[The Twelve Stones from the Jordan]]. Source: stored WEB Joshua 4:1–24.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Israel crosses the Jordan near Jericho (16). The city locates the crossing, but no siege or entry into Jericho occurs in this pericope.
@@ -77,6 +83,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 
