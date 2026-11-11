@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Its valley locates Aroer and the unnamed valley city at the start of the eastern register and Reuben’s grant (9, 16).
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 Aroer on the edge of its valley anchors the southern end of the conquered territory (48), paired with Hermon at the northern end.
@@ -58,6 +64,7 @@ Source: stored WEB Numbers 21:10–20.
 **Joshua 12:1–24 — the list of kings.** The east-bank conquest is measured *from the valley of the Arnon to Mount Hermon* (12:1), and Sihon ruled from Aroer on its edge and *the middle of the valley* (2). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

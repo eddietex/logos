@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The five chiefs are recalled as princes of Sihon (21); Numbers 31:8 calls them kings of Midian. Their deaths are remembered within the land register, without a new battle narrative.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The war against Midian — Numbers 31:1–54
 
 Twelve thousand Israelites kill every male, the five kings, and Balaam, take the women, children,
@@ -84,6 +90,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance for Peor; five kings and Balaam killed.
 

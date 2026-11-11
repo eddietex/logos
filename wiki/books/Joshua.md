@@ -113,6 +113,11 @@ yet Joshua must divide it for nine tribes and half of Manasseh. Yahweh promises 
 allocation is commanded before complete possession. The completion summary of 11:23 and
 this inventory remain explicitly in tension.
 
+[[The Inheritance Beyond the Jordan]] (13:8–33) records Moses’ eastern allotments by families,
+recalls the defeat of the Midianite chiefs and Balaam, and preserves the non-removal of Geshur
+and Maacath. Levi’s inheritance in offerings and Yahweh frames the land grants. Gad’s share
+of Ammon’s land remains in tension with Deuteronomy’s protected territory.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -129,7 +134,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **20 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **21 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -151,7 +156,7 @@ Plan drawn 2026-11-10 from the stored WEB. **20 / 42 pericopes ingested.**
 - [x] [[The Whole Land Taken]] — Joshua 11:16–23
 - [x] [[The Kings Struck Down]] — Joshua 12:1–24
 - [x] [[The Land That Remains]] — Joshua 13:1–7
-- [ ] The Inheritance Beyond the Jordan — Joshua 13:8–33
+- [x] [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33
 - [ ] The Division of the Land Begins — Joshua 14:1–5
 - [ ] Caleb Claims Hebron — Joshua 14:6–15
 - [ ] The Borders of Judah — Joshua 15:1–12

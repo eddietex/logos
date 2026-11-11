@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Offerings made by fire provide Levi’s inheritance (14), framing sacrifice as support alongside the divine-inheritance statement in verse 33. No new sacrificial ceremony is narrated.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Burnt offerings and peace offerings are sacrificed on the altar of uncut stones untouched by iron (30–31), fulfilling the instruction of Deuteronomy 27:5–7. Joshua does not explicitly narrate the meal or rejoicing prescribed there.
@@ -754,6 +760,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

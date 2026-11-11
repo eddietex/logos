@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Named in the overall eastern territory (11), Gad’s list (25), and the half-Gilead share of Machir’s descendants (31). The regional descriptions must be read with the division, not as exclusive grants of all Gilead to each group.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The view from Nebo begins with *all the land of Gilead, to Dan* (1).
@@ -93,6 +99,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 **Joshua 12:1–24 — the list of kings.** Divided between the two kings: Sihon ruled *half Gilead* to the Jabbok (12:2), and Og ruled *half Gilead* to Sihon's border (5). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The first land shown (1).
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

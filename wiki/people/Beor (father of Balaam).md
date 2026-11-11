@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Named only as Balaam’s father in the death notice (22). No independent action is attributed to him.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Named in the exclusion of Ammon and Moab — Deuteronomy 23:4
 
 *"Balaam the son of Beor from Pethor of Mesopotamia"* (4). Beor appears only in his son's patronymic, as
@@ -31,6 +37,7 @@ this page retains the relationship qualifier.
 - Numbers 22:1–21: Named only as Balaam’s father in this unit (5). No action or biography is supplied. The shared patronymic does not establish identity with the father of [[Bela (son of Beor)]] in Genesis 36:32; this page retains the relationship qualifier.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The War Against Midian]] — Numbers 31:1–54; named in Balaam's patronymic at his death (8).
 

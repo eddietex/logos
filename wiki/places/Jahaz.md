@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The former battle setting in Numbers 21:23 is now listed among Reuben’s towns (18).
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Sihon’s defeat recalled — Deuteronomy 2:24–37
 
 Sihon comes here with all his people to fight Israel (32). This agrees with the battle location in
@@ -20,6 +26,7 @@ takes his territory; no modern identification is supplied here.
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 - [[Sihon and Og]] — Numbers 21:21–35

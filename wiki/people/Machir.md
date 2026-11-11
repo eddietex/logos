@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Half his descendants receive half Gilead, Ashtaroth, and Edrei (31). The verse identifies him as Manasseh’s son; the recipients are families, not an account of the ancestor himself campaigning.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Moses recalls giving Gilead to Machir (15), within the distribution between Reuben, Gad, and
@@ -98,6 +104,7 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his children take Gilead from the Amorites, and Moses gives it to Machir.

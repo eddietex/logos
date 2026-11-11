@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Moses’ eastern grants are recorded by families (15–32), yet Geshur and Maacath remain (13). Levi’s inheritance is described through offerings and Yahweh rather than a territorial share (14, 33). The Ammon wording in verse 25 remains in tension with Deuteronomy 2:19, 37.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 Inheritance is allocated before possession is complete: Yahweh identifies very much land remaining and nevertheless orders its division (1, 6–7). The claim that Joshua took the whole land in 11:23 remains in explicit tension with this inventory; neither statement should replace the other.
@@ -904,6 +910,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

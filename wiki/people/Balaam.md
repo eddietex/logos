@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Israel’s killing of Balaam is recalled amid the eastern territorial register (22), which calls him the soothsayer in the WEB. Numbers 31:8 supplies the matching death notice; neither account explains his movements after Numbers 24:25.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Hired to curse, remembered — Deuteronomy 23:4–5
 
 Deuteronomy gives Balaam one sentence and calls the transaction a hire: Ammon and Moab are excluded from
@@ -66,6 +72,7 @@ not yet say that Balaam accepted payment.
 - Numbers 22:1–21: Son of [[Beor (father of Balaam)]], summoned from [[Pethor]] by [[Balak]] to curse Israel. He consults Yahweh twice and asserts that even a house full of wealth cannot authorize him to exceed the divine word (8–20). The narrator reports the rewards brought by the first delegation but does not yet say that Balaam accepted payment.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The War Against Midian]] — Numbers 31:1–54; killed among Midian (8); the counsel of Peor attributed to him (16).
 

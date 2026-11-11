@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The eastern conquests and allotments are repeatedly credited to Moses (8–32). This is retrospective: Joshua’s book preserves his predecessor’s grants, not a new action by the deceased leader.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The whole land taken — Joshua 11:16–23
 
 The destruction of the kings and the completed conquest are both measured against what Yahweh commanded and spoke to Moses (20, 23). Moses is the standard, not an actor, in this summary.
@@ -1929,6 +1935,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

@@ -7,11 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Heads Gad’s territorial list (25), agreeing with its building by Gad in Numbers 32:35.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Reuben, Gad, and the Land Beyond the Jordan — Numbers 32:1–42
 
 With Gilead, the land Reuben and Gad see is *a place for livestock* (1). It is named in their request
-(3) and rebuilt by Gad (35). Joshua 13:25 starts Gad's border at Jazer (WEB via bible-api.com, not yet
-ingested).
+(3) and rebuilt by Gad (35). Joshua 13:25 starts Gad's border at Jazer (WEB via bible-api.com, now ingested).
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
@@ -21,6 +26,7 @@ This success follows the settlement in Sihon’s cities.
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [[Sihon and Og]] — Numbers 21:21–35
 

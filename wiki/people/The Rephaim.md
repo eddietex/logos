@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Og is recalled as remaining from their remnant (12). The statement belongs to the retrospective account of his defeated kingdom.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Bashan is called the land of Rephaim (13), continuing the notice about Og in 3:11. This is a
@@ -37,6 +43,7 @@ Source: stored WEB Deuteronomy 2:1–23.
 - Joshua 12:4 — Og as their remnant.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23

@@ -6,6 +6,7 @@ tags: [connection]
 # The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22
 
 ## Passages involved
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33 (stored WEB).
 
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
@@ -15,12 +16,27 @@ tags: [connection]
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; grant, shared rest, and encouragement (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; Joshua reminds the two and a half tribes, and they pledge (stored WEB).
 - Joshua 4:12–13 — they cross armed (stored WEB; now ingested).
-- Joshua 13:8–32 — their allotment *(WEB via bible-api.com for 13:15–31, not yet ingested)*
 - Joshua 22:1–9 — they are sent home *(WEB via bible-api.com, not yet ingested)*
 - Judges 5:15–17 — Deborah's song on Reuben and Gilead *(WEB via bible-api.com, not yet ingested)*
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+### The eastern allotments — Joshua 13:8–33
+
+Joshua 13:8–33 now supplies the detailed eastern register. Moses’ grants are recalled by
+families: Reuben (15–23), Gad (24–28), and half of Manasseh (29–31). This is an allocation
+record, not the discharge of the warriors promised in Numbers 32. The register acknowledges
+Geshur and Maacath remaining within Israel (13) and brackets the tribal lists with Levi’s
+different inheritance (14, 33).
+
+Dibon is built by Gad in Numbers 32:34 but included with Reuben in Joshua 13:17. The two
+activities are distinguishable, yet a later transfer is not narrated. The same issue cannot
+simply be asserted for Aroer: Joshua names an Arnon-valley Aroer and one near Rabbah, whereas
+Numbers 32:34 does not specify which Gad built. The Ammon wording has its own unresolved
+territorial tension; see [[Ammon Protected and Ammonite Land Allotted]].
+
+Source: stored WEB Joshua 13:8–33 and the Torah passages cited.
 
 ### The completed crossing — Joshua 4
 

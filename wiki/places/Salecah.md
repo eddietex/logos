@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Marks the reach of Bashan in the eastern territorial summary (11).
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 City of Og’s kingdom named with Edrei in the extent of the conquered territory (10). The passage
 gives no separate battle account for it, and no modern identification is asserted here.
 
@@ -15,6 +21,7 @@ Source: stored WEB Deuteronomy 3:1–11.
 **Joshua 12:1–24 — the list of kings.** Within Og's rule, with Mount Hermon and all Bashan (12:5). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
 - [[The Kings Struck Down]] — Joshua 12:1–24; within Og's rule.
 

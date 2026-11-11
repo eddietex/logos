@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Its plains beyond the Jordan at Jericho are the remembered setting of Moses’ distribution (32).
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses climbs from the plains of Moab, dies *in the land of Moab*, and is buried in a valley there (1, 5–6). Israel mourns him thirty days in the plains of Moab (8). The Torah's last scene is set outside the land.
@@ -262,6 +268,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses' death, burial, and mourning.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The eastern border population remains within Israel, not driven out (11, 13). The conquered-kingdom summary of verse 12 does not erase this explicit exception. Its relation to the southern Geshurites of 13:2 remains unspecified.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 Joshua 13:2 names Geshurites alongside the Philistine regions among land remaining. This southern context differs from the Geshurites beside Bashan in 12:5 and 13:11–13. This page records the two notices without identifying the populations or asserting that their territories are the same; the text does not settle their relationship.
@@ -18,6 +24,7 @@ The land of the Geshurites, named as a border of Og's kingdom of Bashan (Joshua 
 Source: stored WEB Joshua 12–21 and Deuteronomy 3 at the verses cited. No modern site is assigned.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24
 

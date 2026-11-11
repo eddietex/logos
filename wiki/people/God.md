@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Yahweh is Levi’s inheritance (33); his offerings are the tribe’s portion (14). The absence of a territorial allotment is paired with provision, not abandonment.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 Yahweh names the land still unpossessed, promises to drive out its inhabitants, and commands Joshua to allocate it (1–7). The promise in verse 6 accompanies an unfinished task; it is not a report that all inhabitants have already been removed.
@@ -3920,6 +3926,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

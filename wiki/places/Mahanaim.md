@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Marks a reach of Gad’s boundary (26) and the starting point of Manasseh’s description (30).
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 *"Two camps."* ***Maḥănayim*** is the dual form of ***maḥăneh***, *camp* — a grammatical number
 Hebrew reserves for things that naturally come in pairs (hands, eyes, gates), applied here to a place
 name. **Jacob coins it on the spot** after angels meet him unsought, saying only
@@ -29,6 +35,7 @@ assertion of deliberate allusion. See [[The Dance of Mahanaim - Genesis 32.1-2 a
 Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[Wrestling at the Jabbok]] — Genesis 32:1–2; named at the chapter's opening, before the arithmetic
   it names has happened

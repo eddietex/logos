@@ -7,12 +7,19 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Listed among Reuben’s towns (18). Deuteronomy 2:26 names the wilderness of Kedemoth as the embassy’s departure point; the town and wilderness references are related bearings, not identical descriptions.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 The wilderness from which Moses sends messengers to Sihon with terms of peace (26). The verse
 identifies the wilderness by name but supplies no modern location or separate town description.
 
 Source: stored WEB Deuteronomy 2:24–37.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 ## Related places

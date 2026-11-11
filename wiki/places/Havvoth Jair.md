@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The villages of Jair are sixty cities in Bashan within Manasseh’s portion (30). This confirms the Joshua notice already compared here; it does not resolve the differing later Jair account.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The naming by Jair now appears in the ingested Deuteronomy account, tied to Argob and Bashan (14).
@@ -32,6 +38,7 @@ name renewed by a later Jair of the same clan. The wiki records them side by sid
 Source: stored WEB Numbers 32.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

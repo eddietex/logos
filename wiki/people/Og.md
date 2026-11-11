@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+His former realm, including Ashtaroth and Edrei, is allotted to eastern Manasseh (12, 30–31). His membership in the remnant of the Rephaim is recalled, not a new encounter.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The envoys cite the defeat of Og king of Bashan, who was at Ashtaroth, with Sihon (10). Their appeal
@@ -83,6 +89,7 @@ land (34–35). This unit gives no physical description of Og.
 - Joshua 12:4–5 — recalled with his realm.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 

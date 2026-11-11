@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The register recalls the defeats of Sihon, Og, the Midianite chiefs, and Balaam (10–12, 21–22), but expressly records populations not driven out (13). Conquest summaries do not establish universal removal.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 The inventory of remaining territory follows the conquest summaries. Yahweh promises future removal of inhabitants (6), but no battle occurs here. Rest from war in 11:23 cannot be expanded into a claim that every listed region was permanently occupied.
@@ -628,6 +634,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+His former kingdom provides the setting for the grants (10, 21, 27). The five Midianite chiefs are called princes of Sihon (21), a relationship not supplied by Numbers 31:8, which calls them kings of Midian.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The envoys cite Yahweh’s action against Sihon king of Heshbon alongside Og (10) as news of divine
@@ -92,6 +98,7 @@ recalls that earlier victory (27–30).
 - Joshua 12:2–3 — recalled at the head of the list.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 

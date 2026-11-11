@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Its slopes are included in Reuben’s territorial description (20), not a new ascent of its summit.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses ascends *to the top of Pisgah*, joined with Mount Nebo (1), and is shown the land, fulfilling 3:27. The relation of Pisgah to Nebo is not stated.
@@ -49,6 +55,7 @@ Source: stored WEB Numbers 21:10–20.
 **Joshua 12:1–24 — the list of kings.** *Under the slopes of Pisgah* marks the south side of Sihon's Arabah (12:3), as in Deuteronomy 3:17. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The ascent and view (1).
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

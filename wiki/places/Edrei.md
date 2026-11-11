@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Og’s royal city (12), assigned with Ashtaroth to Machir’s descendants (31); no fresh battle is narrated.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 Og brings his people to battle here (1). It is also named with Salecah among the cities marking the
@@ -29,6 +35,7 @@ Source: stored WEB Numbers 21:21–35.
 **Joshua 12:1–24 — the list of kings.** One of Og's two residences, with Ashtaroth (12:4). Joshua 19:37 also names an Edrei among Naphtali's cities; it is not identified with this one here. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.

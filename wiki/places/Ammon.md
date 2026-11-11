@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Gad’s portion includes half the land of the children of Ammon (25), whereas Deuteronomy 2:19 forbids its acquisition and 2:37 reports avoidance. Former Ammonite land held by Sihon is a possible explanation, but Joshua 13 does not state it. Both claims remain explicit.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Excluded from the assembly — Deuteronomy 23:3–6
 
 The Ammonite is barred from Yahweh's assembly *"even to the tenth generation … forever"* (3), with Moab,
@@ -110,6 +116,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

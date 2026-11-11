@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Og’s former kingdom extends to Salecah (11–12); the Manassite allocation includes all Bashan and sixty villages of Jair (30).
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Og is recalled as its king (10). The region belongs to the envoys’ remembered evidence of Yahweh’s
@@ -86,6 +92,7 @@ Source: stored WEB Numbers 21:21–35.
 **Joshua 12:1–24 — the list of kings.** Og's kingdom is recalled *to the border of the Geshurites and the Maacathites* (12:5); see [[Geshur]] and [[Maacath]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

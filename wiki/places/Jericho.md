@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Locates the plains east of the Jordan where Moses distributed the inheritances (32); the distribution is not placed inside Jericho.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The southern campaign — Joshua 10:28–43
 
 The treatment of its king supplies the precedent for the kings of Makkedah and Libnah (28, 30). No new attack on Jericho occurs.
@@ -146,6 +152,7 @@ Israel does not enter or conquer Jericho in this unit.
 **Joshua 12:1–24 — the list of kings.** Its king heads the western list, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Balaam is called the soothsayer in the WEB death notice (22). This designation stands beside his constrained blessing of Israel in Numbers 22–24; the notice gives no new oracle or account of his counsel.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The epitaph: *there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face* (10). Read with 18:15–19, the promised prophet like Moses has not yet come.
@@ -209,6 +215,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; No prophet like Moses since (10).
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.
 

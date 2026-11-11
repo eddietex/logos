@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Levi receives no territorial share: offerings made by fire are its inheritance (14), and Yahweh is its inheritance (33). Compare Deuteronomy 18:1–2; the collective wording does not resolve Numbers 18’s distinctions between priests and other Levites.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The law read at Ebal — Joshua 8:30–35
 
 The Levitical priests carry the covenant ark before the assembled people (33). Joshua is the named reader (34–35); the passage does not individually name the priests or explicitly identify who performs each sacrifice.
@@ -752,6 +758,7 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

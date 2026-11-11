@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The descendants receive the plain and cities from the Arnon-valley Aroer, with the Jordan as border (15–23). Dibon, built by Gad in Numbers 32:34, is listed here in Reuben’s share (17); the difference is retained, not explained by an invented transfer.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Reuben’s descendants cross armed with Gad and half of Manasseh as Moses instructed (12–13). About
@@ -278,6 +284,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the Reubenites* (12) pledge to cross armed before their brothers.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

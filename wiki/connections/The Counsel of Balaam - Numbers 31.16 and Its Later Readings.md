@@ -6,14 +6,13 @@ tags: [connection]
 # The Counsel of Balaam - Numbers 31.16 and Its Later Readings
 
 ## Passages involved
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33 (stored WEB).
 
 - [[Balaam's Last Oracles]] — Numbers 24:25; *Balaam rose up, and went and returned to his place*.
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18; Peor narrated, with no mention of Balaam.
 - [[The War Against Midian]] — Numbers 31:8, 16; Balaam killed among Midian, and named as the source of
   *the counsel* at Peor.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; Moab and Ammon excluded *"because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you"*.
-- Joshua 13:22 — *The children of Israel also killed Balaam the son of Beor, the soothsayer, with the
-  sword, among the rest of their slain* (WEB via bible-api.com, not yet ingested).
 - 2 Peter 2:15 — false teachers *followed the way of Balaam the son of Beor, who loved the wages of
   wrongdoing* (WEB via bible-api.com, not yet ingested).
 - Revelation 2:14 — *the teaching of Balaam, who taught Balak to throw a stumbling block before the
@@ -21,6 +20,20 @@ tags: [connection]
   bible-api.com, not yet ingested).
 
 ## Analysis
+
+### The eastern allotments — Joshua 13:8–33
+
+Joshua 13:21–22 now places the five Midianite chiefs and Balaam’s death within the eastern
+territorial register. Numbers 31:8 names the same five and reports Balaam’s death by the sword.
+Joshua calls the chiefs princes of Sihon as well as chiefs of Midian; Numbers calls them kings
+of Midian without specifying that relationship. Joshua’s compressed recollection should not
+be converted into a claim that Sihon and these chiefs died in one battle.
+
+The WEB calls Balaam the soothsayer here. No new oracle, counsel to Balak, or explanation of
+his whereabouts after Numbers 24:25 is supplied. This confirms the death notice already
+anticipated on this page without resolving the narrative gap.
+
+Source: stored WEB Joshua 13:8–33 and the Torah passages cited.
 
 ### Deuteronomy 23 now ingested
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Geshur and Maacath remain within Israel (13). Ammon’s land appears in Gad’s portion (25), creating a territorial tension with the protected land in Deuteronomy 2:19, 37, not a narrated conquest of Rabbah.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 Philistine lordships, Geshurites, Avvim, Canaanites, Sidonians, Amorites, and Gebalites appear in the geography of remaining territory (2–6). The Philistine-controlled stretch is counted as Canaanite (3). These are collective populations, not personal names for new biographical pages.
@@ -512,6 +518,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

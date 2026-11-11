@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+Named among Gad’s valley towns (27); this is the eastern Succoth, not the Egyptian departure station.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 **Named for the shelters Jacob builds there the day he arrives — a naming for what has just
 happened, in the register this wiki has tracked since Beersheba and Peniel.**
 
@@ -37,6 +43,7 @@ another in the book. [[The Rescue of Lot and Melchizedek]] already cross-referen
 *"the inverse"* of Melchizedek's unasked hospitality to Abram.
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Reconciliation with Esau]] — Genesis 33:17; the first stop after Jacob and Esau part,
   named for the shelters built the day he arrived, and short of both Seir and the Jordan

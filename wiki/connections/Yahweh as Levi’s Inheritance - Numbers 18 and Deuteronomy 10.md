@@ -6,6 +6,7 @@ tags: [connection]
 # Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10
 
 ## Passages involved
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33 (stored WEB).
 - [[New Tablets and the Journey Onward]]
 - [[The Duties and Portions of Priests and Levites]]
 - [[The Levitical Cities and the Cities of Refuge]]
@@ -13,6 +14,17 @@ tags: [connection]
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 
 ## Analysis
+
+### The eastern allotments — Joshua 13:8–33
+
+Joshua 13:14 and 33 frame the eastern tribal allotments with Levi’s lack of a territorial
+share. The first describes its inheritance as Yahweh’s offerings made by fire; the second
+names Yahweh himself. Deuteronomy 18:1–2 places the same two descriptions together. Material
+support and divine inheritance are complementary here, not mutually exclusive explanations.
+Joshua supplies no new priestly regulations and does not resolve the differences of scope
+between collective Levi language and the distinctions in Numbers 18.
+
+Source: stored WEB Joshua 13:8–33 and the Torah passages cited.
 
 Deuteronomy 10:8–9 connects Levi’s separation for ark bearing, ministry, and blessing with
 its lack of an inheritance alongside the other tribes: Yahweh is its inheritance.

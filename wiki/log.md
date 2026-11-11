@@ -25046,3 +25046,39 @@ change, or harness/schema change. scripts/link-check.sh passed with no wrapped l
 dangling targets; 56 not-yet-started book pages remain the expected baseline. Geographic
 identifications noted above remain uncertain; there is no execution blocker. Existing oversized
 category indexes and previously logged malformed rows remain outside this one-pericope pass.
+
+
+## [2026-11-11] ingest | Joshua 13.8-33 — The Inheritance Beyond the Jordan
+
+Unattended Codex ingest, one pericope; planned title and boundary retained. Created nine pages:
+[[The Inheritance Beyond the Jordan]], seven places (Bamoth Baal, Mephaath, Zereth Shahar,
+Ramath Mizpeh, Betonim, Debir (Gad), Zaphon), and
+[[Ammon Protected and Ammonite Land Allotted]]. Revised 72 existing pages including this log:
+Joshua, 18 people, 34 places, six themes, three connections, and nine indexes/dashboard pages.
+Joshua is now 21 / 42 pericopes. Frontmatter totals: 415 passages, 276 people, 281 places,
+87 themes, 818 connections.
+
+The passage absorbs the discussion of retrospective allocation, family shares, remaining
+Geshurites and Maacathites, the Midianite chiefs and Balaam, and Levi’s inheritance.
+Updated the eastern-tribes, Levi-inheritance, and Balaam connections. Explicit tensions retained:
+Gad’s half of Ammon’s land against Deuteronomy 2:19, 37; Gad’s building of Dibon against its
+Reuben allotment; chiefs called kings of Midian in Numbers 31 and princes of Sihon here.
+Possible historical explanations are identified as inferences, not supplied narrative.
+
+Judgment calls: tribal references remain on patriarch pages with descendants distinguished;
+Beor is only a patronymic and Jair appears through the village name. The eastern Debir receives
+[[Debir (Gad)]] without identifying it with the southern [[Debir (city)]]. Aroer’s existing page
+keeps both geographical bearings. Bamoth Baal is not silently equated with Bamoth or the high
+places of Baal; existing Beth Haran/Beth Haram and Baal Meon/Beth Baal Meon groupings remain
+qualified. The unnamed Arnon-valley city receives no invented name. No second pericope ingested.
+
+Sources: all 26 verses copied from stored WEB Joshua 13:8–33 and mechanically checked against
+that file. Comparisons checked in stored Numbers 21, 24:25, 31:8, 32; Deuteronomy 2, 3,
+18:1–2; Joshua 10:38–39. No new unstored-book quotation, source-language claim, raw-text edit,
+or harness/schema change. Existing externally verified quotations in older connections are
+preserved; Joshua’s former not-yet-ingested notices are updated where touched.
+
+scripts/link-check.sh passed: no wrapped links or unexpected dangling targets; 56 unstarted
+books remain the expected baseline. New titles are unique and git diff --check is clean.
+The geographical and textual questions above remain unresolved; there is no execution blocker.
+Existing oversized category indexes remain outside this one-pericope pass.

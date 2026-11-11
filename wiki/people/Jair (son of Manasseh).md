@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The villages bearing Jair’s name are sixty cities in Bashan (30). The verse names the settlements rather than narrating a new conquest by Jair; compare Numbers 32:41 and Deuteronomy 3:14.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Jair takes Argob to the Geshurite and Maacathite border and names the territory Havvoth Jair after
@@ -37,6 +43,7 @@ See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 
 - Takes the region of Argob in Bashan — Deuteronomy 3:14, [[The Eastern Inheritance and the Charge to Joshua]]
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 

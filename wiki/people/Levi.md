@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The tribe receives no territorial inheritance; offerings made by fire (14) and Yahweh himself (33) supply the two descriptions of its inheritance. These complement Deuteronomy 18:1–2 without resolving the priest/Levite distinctions in Numbers 18.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 The unnamed ark-bearing priests remain until the commanded work is complete and leave at Joshua’s
@@ -294,6 +300,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

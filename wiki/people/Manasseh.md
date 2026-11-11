@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Eastern allotments — Joshua 13:8–33
+
+The eastern half-tribe receives Bashan, the sixty villages of Jair, and holdings for half the children of Machir (29–31). These are descendants’ allotments, not the patriarch’s personal occupation.
+
+See [[The Inheritance Beyond the Jordan]]. Source: stored WEB Joshua 13:8–33; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 The eastern half-tribe crosses armed with Reuben and Gad (12–13). This fulfills the promise to
@@ -214,6 +220,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the half-tribe of Manasseh* (12) joins the eastern tribes' pledge.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
