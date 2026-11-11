@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+Joshua makes flint knives and circumcises the wilderness-born males at Yahweh’s command (2–7). The nation waits in camp to heal (8); this is leadership in covenant obedience before battle.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Joshua directs the representatives, sets stones in the river and at Gilgal, and teaches their
@@ -219,6 +225,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

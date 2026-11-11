@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+Verse 9 explains Gilgal’s name through Yahweh’s declaration that Egypt’s reproach is rolled away. This records the WEB narrative’s explanation without independently asserting a Hebrew derivation.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 Jair names his acquired territory Havvoth Jair after himself (14). The continuing place-name
@@ -243,6 +249,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.

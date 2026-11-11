@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The promised land is described as flowing with milk and honey (6). Canaan is the contextual land, while verse 1 explicitly names Canaanite kings by the sea; they hear about the crossing and lose courage.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The land Moses is shown from Nebo, named by its regions rather than as Canaan (1–3), is the land sworn to the patriarchs (4).
@@ -445,6 +451,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land shown to Moses (1–4).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

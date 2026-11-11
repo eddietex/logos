@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The camp becomes the site of circumcision and recovery (2–9). Verse 3 calls the location the hill of the foreskins; it is treated here as a descriptive site within this episode, without assigning modern coordinates. Verse 9 connects the name Gilgal with Yahweh’s removal of Egypt’s reproach. The precise reproach remains unexplained.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Israel camps here on Jericho’s east border on the tenth day of the first month (19). Joshua erects
@@ -19,7 +25,7 @@ land of the Canaanites who dwell in the Arabah, near Gilgal, beside the oaks of 
 
 **Which Gilgal is unresolved.** Joshua 4:19 has Israel camp after crossing the Jordan *"in Gilgal,
 on the east border of Jericho"*, and Joshua 5:9 explains the name: *"Today I have rolled away the
-reproach of Egypt from you"* (both WEB, verified from bible-api.com; Joshua 4 now ingested; Joshua 5 pending). That
+reproach of Egypt from you"* (both WEB, verified from bible-api.com; Joshua 4 and 5:1–9 now ingested). That
 Gilgal lies in the Jordan valley near [[Jericho]], a long way south of the two mountains by
 [[Shechem (city)]]. Deuteronomy 11:30 may be orienting the reader loosely by the valley and its road,
 or it may mean another place of the same name nearer Shechem. The text does not decide, and neither
@@ -29,6 +35,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Set These Words Before You]] — Deuteronomy 11:30; a landmark for locating Gerizim and Ebal.

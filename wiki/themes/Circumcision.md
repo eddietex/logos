@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The second circumcision is national renewal across generations, not a second operation on already circumcised men (2–7). The departing generation had the sign; the wilderness-born children did not. The text gives no reason for the wilderness omission.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 *Yahweh your God will circumcise your heart, and the heart of your offspring* (6). Deuteronomy 10:16 commanded Israel to circumcise its own heart; here Yahweh is the agent. The relation between command and promise is recorded, not resolved.
@@ -82,8 +88,8 @@ See [[Purification After Childbirth]]. Source: stored WEB Leviticus 12.
   in the land."* The rite that marks a boundary is also the only means of crossing it.
 - **Leviticus 12:3** — the eighth day put into law, and the reason it overrides the Sabbath in later
   halakhah.
-- **Joshua 5:2–9** — the exodus generation, uncircumcised through forty years in the wilderness, is
-  circumcised at Gilgal with flint knives before the land is entered. *"Today I have rolled away the
+- **Joshua 5:2–9** — the wilderness-born children are circumcised at Gilgal with flint knives
+  after the Jordan crossing; the departing generation had already been circumcised. *"Today I have rolled away the
   reproach of Egypt from you."*
 - **Deuteronomy 10:16; 30:6** — the metaphor's first appearance, and then its reversal. *"Circumcise
   therefore the foreskin of your heart"* becomes *"Yahweh your God will circumcise your heart, and
@@ -134,6 +140,7 @@ Exodus 12:48 made circumcision the condition for a stranger at the Passover. Num
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
@@ -224,3 +231,9 @@ See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 - [[Isaac]] — the first person in Scripture circumcised on the eighth day
 - [[God]] — who commands it, calls it *my covenant … in your flesh*, and later promises to perform the
   metaphorical version himself
+
+### Correction recorded — Joshua 5:1–9
+
+Earlier this page called the exodus generation uncircumcised and placed the rite before entry.
+Joshua 5:5–7 distinguishes their uncircumcised children, and 4:19 already places Israel across
+the Jordan. Those claims have been corrected; see [[The Second Circumcision at Gilgal]].

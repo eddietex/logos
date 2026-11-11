@@ -6,6 +6,7 @@ tags: [connection]
 # Two Censuses and a Passing Generation - Numbers 1 and 26
 
 ## Passages involved
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Second Census]] — Numbers 26.
 - [[The Census in the Wilderness of Sinai]]
 - [[The People Refuse the Land]]
@@ -26,6 +27,14 @@ to that plague goes beyond the text. Population renewal does not remove judgment
 and these figures do not by themselves establish the causes of every tribal change.
 
 Sources: stored WEB in Numbers and Exodus; no source-language claim is made.
+
+### Circumcision at Gilgal
+
+Joshua 5:4–7 now narrates the generational replacement from the perspective of circumcision.
+The children receive the sign after the condemned military generation has died. Its general
+summary does not revoke Numbers 14 and 26’s explicit exceptions for Joshua and Caleb.
+
+Source: stored WEB Joshua 5:1–10.
 
 ## Significance
 

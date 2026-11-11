@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The forty-year loss of the military generation is attributed to not listening to Yahweh (6). Numbers 14:29–30 and 26:64–65 specify the condemned cohort and the exceptions, Joshua and Caleb; Joshua’s summary should not erase those qualifications.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 Moses must see but not enter the land because of the named offense at Meribah (51–52). This is an
@@ -992,6 +998,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

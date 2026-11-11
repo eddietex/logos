@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The circumcised people remain in their places in camp until healed (8). No duration, healer, or miraculous mechanism is stated.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The repeated inability to be healed intensifies the threatened disease (27, 35, 59–61). It is not a medical classification or a warrant for diagnosing sufferers as covenant-breakers.
@@ -173,6 +179,7 @@ Moses prays five Hebrew words, with *rāpāʾ*. Yahweh answers with seven days o
 See [[Miriam and Aaron Against Moses]]. Source: stored WEB Numbers 12. Word locations from WLC (morphhb) tags; Greek from Rahlfs 1935.
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

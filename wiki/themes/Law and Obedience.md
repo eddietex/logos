@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+Joshua obeys the immediate command (2–3), while verse 6 remembers the earlier generation’s refusal to listen. The contrast concerns obedience, not military capacity alone.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 People carry the stones, eastern tribes cross as Moses instructed, and priests leave at Joshua’s
@@ -1380,6 +1386,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

@@ -24616,3 +24616,33 @@ was checked against stored WEB Exodus 12:26–27; 13:8–16 and Deuteronomy 6:20
 source-language claims or unstored-book quotations were introduced. Existing raw texts and
 workflow instructions were unchanged. Link checks passed with no wrapped or dangling links;
 56 not-yet-started book pages remain the expected baseline.
+
+## [2026-11-10] ingest | Joshua 5.1-9 — The Second Circumcision at Gilgal
+
+Ingested [[The Second Circumcision at Gilgal]] unattended with Codex. Retained the planned
+5:1–9 boundary: verse 1 bridges the crossing to circumcision, and Passover remains the next unit.
+Created the passage and [[The Covenant Sign at Gilgal - Genesis 17 and Joshua 5]].
+Revised 22 existing content pages: Joshua, the Genesis 17 passage, 2 people, 5 places, 11 themes,
+and 2 connections. Updated 8 index/dashboard pages and this log: 2 pages created, 31 revised
+in total. Joshua is now 6 / 42 pericopes ingested.
+Progress counted by frontmatter: 400 passages, 260 people, 227 places, 87 themes, 798 connections.
+
+Corrected and explicitly recorded earlier claims in [[Circumcision]] and
+[[Circumcision, the Sign of the Covenant]] that confused the circumcised departing generation
+with their uncircumcised children, or placed the rite before entry. Joshua 5:5–7 and 4:19
+supply the correction. Preserved Numbers 14 and 26’s exceptions to the military generation’s
+death rather than interpreting Joshua’s summary as every exodus participant dying.
+Expanded the census and Passover connections without ingesting the following Passover unit.
+
+Kept unnamed kings and the generations as collective actors; discussed the hill of the
+foreskins under [[Gilgal]] rather than inventing a separate location. Distinguished the
+explicitly unnamed sea in 5:1 from its contextual identification with the western sea.
+The cause of the wilderness omission, the precise sense of Egypt’s reproach, and Gilgal’s
+relationship to Deuteronomy 11:30 remain unresolved. No modern coordinates or speculative
+history were supplied to settle them.
+
+New quotations are copied directly from stored WEB Joshua 5. Comparisons were checked against
+stored WEB Genesis 17, Numbers 14 and 26, and Joshua 2–5. No new Hebrew/Greek claim or
+unstored-book quotation was introduced. Existing raw texts and workflow instructions were
+unchanged. Link checks passed: no wrapped or dangling links; 56 not-yet-started book pages
+remain the expected baseline.

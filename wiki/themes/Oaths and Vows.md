@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+Verse 6 places two divine oaths together: exclusion of the disobedient generation and the gift of the land to the fathers. Judgment on one generation does not annul the continuing promise to their children.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab asks for an oath by Yahweh, and the spies pledge their lives for hers (12–14). The scarlet line, the gathering of her household inside, and secrecy specify the obligation and its limits (17–20). This is promised rescue; fulfillment belongs to Joshua 6.
@@ -451,6 +457,7 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the pledge renewed to Joshua (16–18).
 - [[After the Death of Moses]] — Joshua 1:1–9; *the land which I swore to their fathers* (6).

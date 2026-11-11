@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The journey is remembered both as forty years of judgment and as the period in which children grew up without circumcision (4–7). The text reports the omission without explaining its cause.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The desert is the scene of being found, guarded, and carried like an eagle’s young (10–12). The poem stresses tender care where earlier narratives also stressed testing and rebellion. It need not supply a separate wilderness itinerary.
@@ -247,6 +253,7 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

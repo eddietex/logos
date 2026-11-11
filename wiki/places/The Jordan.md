@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+News that Yahweh dried the river for Israel reaches the Amorite and Canaanite kings, leaving them without spirit (1). The crossing’s effects extend beyond the people who crossed.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Stones are removed for the Gilgal memorial; verse 9 also places twelve stones within the river. When
@@ -256,6 +262,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

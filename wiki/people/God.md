@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+Yahweh commands circumcision and declares Egypt’s reproach removed (2, 9). His oath against the disobedient generation and his oath to give the fathers the land stand together (6).
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Yahweh commands the memorial, magnifies Joshua, and restores the river after the priests leave (1–3,
@@ -3811,6 +3817,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

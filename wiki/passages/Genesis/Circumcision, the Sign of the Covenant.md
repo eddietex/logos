@@ -462,7 +462,7 @@ event, with foreigners in it.
 - Leviticus 26:12 — *"will be your God, and you will be my people"*: the covenant formula of 17:7
   in its classic shape.
 - Deuteronomy 10:16; 30:6 — circumcise the foreskin of your heart, and God circumcising it for you.
-- Joshua 5:2–9 — the whole exodus generation circumcised at Gilgal before the land is entered.
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9; the wilderness-born children circumcised after crossing the Jordan.
 - Jeremiah 4:4; 9:25–26 — the nations circumcised in the flesh, and Israel uncircumcised in heart.
 - Acts 15:1–29 — the council that decides Gentile believers are not bound to 17:10.
 - Romans 2:25–29; 4:9–12 — circumcision of the heart, and the sign as a seal of a righteousness that
@@ -507,3 +507,8 @@ event, with foreigners in it.
   the rite was set aside for Gentiles at Acts 15 and re-argued at every subsequent reformation as the
   precedent for or against infant baptism — Colossians 2:11–12 is the verse both sides quote. The wiki
   records all of this as reception and adjudicates none of it.
+
+**Correction recorded (Joshua 5 ingest).** The earlier cross-reference said the whole exodus
+generation was circumcised before entry. Joshua 5:5–7 says that generation was already
+circumcised; their children receive the sign after the crossing (4:19). See
+[[The Covenant Sign at Gilgal - Genesis 17 and Joshua 5]].

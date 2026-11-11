@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The Canaanite kings live by the sea (1), understood geographically as the western sea already named in Joshua 1:4. Verse 1 itself supplies only “the sea,” not the fuller place-name.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### The border given — Joshua 1:1–9
 
 *The great sea toward the going down of the sun* (4), the western limit of the land, where Deuteronomy 11:24 had *the western sea*.
@@ -31,6 +37,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[After the Death of Moses]] — Joshua 1:1–9; *the great sea toward the going down of the sun* (4).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; *The western sea* (2).

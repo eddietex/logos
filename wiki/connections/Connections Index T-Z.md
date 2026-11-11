@@ -72,7 +72,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Two Birthdays in the Bible - Pharaoh's Feast and Herod's]] | parallel | Genesis 40:20–22 · Job 1:4 · Job 3:1–3 · Matthew 14:6–11 · Mark 6:21–28 |
 | [[Two Bitter Waters - Marah and the Law of Jealousy]] | comparison | [[Bitter Water at Marah]] (Exodus 15:23–25) · [[The Suspected Wife]] (Numbers 5:18, 24, 27) |
 | [[Two Blind Fathers - Genesis 27 and Genesis 48]] | parallel | Genesis 25:23 · Genesis 27:1–40 · Genesis 37:3–4 · Genesis 48:1–22 · Hebrews 11:20–21 |
-| [[Two Censuses and a Passing Generation - Numbers 1 and 26]] | fulfillment | [[The Second Census]] · [[The Census in the Wilderness of Sinai]] · [[The People Refuse the Land]] |
+| [[Two Censuses and a Passing Generation - Numbers 1 and 26]] | fulfillment | [[The Second Census]] · [[The Census in the Wilderness of Sinai]] · [[The People Refuse the Land]] · [[The Second Circumcision at Gilgal]] (Joshua 5:1–9) |
 | [[Two Commissions - Exodus 3 and Exodus 6]] | parallel | Exodus 3:1–4:17 · Exodus 6:2–13 · Exodus 6:28–7:7 · Exodus 6:14–27 |
 | [[Two Creation Accounts - Genesis 1 and Genesis 2]] | parallel | Genesis 1:1–2:3 · Genesis 2:4–25 |
 | [[Two Errands to Paddan Aram - Genesis 24 and Genesis 28]] | parallel | Genesis 24:1–67 · Genesis 27:46–28:9 · Genesis 29:1–30 · Genesis 32:10 · Hosea 12:12 |

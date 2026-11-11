@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Circumcision at Gilgal — Joshua 5:1–9
+
+The departing males had been circumcised, unlike those born during the journey (4–7). Yahweh declares Egypt’s reproach removed (9), but the expression does not specify whether it means former servitude, disgrace attached to the wilderness, or another association.
+
+See [[The Second Circumcision at Gilgal]]. Source: stored WEB Joshua 5:1–9; comparisons as cited.
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Egypt is the land from which Israel came out in Rahab’s account of the sea miracle (10). It is remembered as part of the explanation for Jericho’s fear, not visited in this episode.
@@ -430,6 +436,7 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+- [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Recalled in the epitaph (11).
