@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The daughters invoke the command transmitted through him (4; Numbers 27:7). His authority continues
+after his death through the implementation of that ruling.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb recalls Moses sending him from Kadesh Barnea at forty and swearing that the land he walked would belong to him and his children (7–9). Moses acts through a remembered oath, not as a living participant.
@@ -1949,6 +1956,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

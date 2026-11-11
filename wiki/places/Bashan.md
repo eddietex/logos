@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Named with Gilead as Machir’s eastern holding, outside the ten parts described for western Manasseh
+(1, 5).
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Og’s former kingdom extends to Salecah (11–12); the Manassite allocation includes all Bashan and sixty villages of Jair (30).
@@ -92,6 +99,7 @@ Source: stored WEB Numbers 21:21–35.
 **Joshua 12:1–24 — the list of kings.** Og's kingdom is recalled *to the border of the Geshurites and the Maacathites* (12:5); see [[Geshur]] and [[Maacath]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

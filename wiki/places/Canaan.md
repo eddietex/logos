@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The Canaanites persist in Manasseh’s allotted cities; Israel later imposes forced labor without
+complete removal (12–13). The outcome remains in tension with Deuteronomy 20:16–18.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 The Canaanites at Gezer remain within Ephraim and perform forced labor (10). This preserves a population within allotted territory; it does not say all Canaanites share this exact status.
@@ -477,6 +484,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

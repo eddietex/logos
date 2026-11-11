@@ -12,6 +12,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | Title | Type | Passages involved |
 |---|---|---|
 | [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] | name parallel | [[Wrestling at the Jabbok]] (Genesis 32:1–2) · [[Return, Return, Shulammite]] (Song 6:13) |
+| [[The Daughters Receive the Promised Inheritance]] | command-and-fulfillment | [[The Petition of Zelophehad's Daughters]] · [[The Inheritance of Manasseh]] — the commanded grant is made |
 | [[David's Count and Moses' Count - Numbers 1, 2 Samuel 24, and 1 Chronicles 21]] | contrast | [[The Census in the Wilderness of Sinai]] · Exodus 30:12 · 2 Samuel 24:1, 10 · 1 Chronicles 21:1 · 1 Chronicles 27:23–24 |
 | [[Day and Night - Joshua 1.8, Deuteronomy 17.18-20, and Psalm 1.2]] | verbal parallel | [[After the Death of Moses]] (Joshua 1:7–8) · [[The Law for the King]] (Deuteronomy 17:18–20) · [[Read the Law to All Israel]] · [[The Book Beside the Ark]] · Psalm 1:1–3 |
 | [[A Day for a Year - Numbers 14.34 and Ezekiel 4.6]] | thread | [[The People Refuse the Land]] (Numbers 14:33–34) · Ezekiel 4:4–6 |

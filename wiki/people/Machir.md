@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Verse 1 describes Manasseh’s firstborn, father of Gilead, as a man of war and connects this with
+Gilead and Bashan. Numbers 32:39–40 attributes the conquest to his children; the ancestral wording
+here should not be turned into a chronology of the individual’s lifetime.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Half his descendants receive half Gilead, Ashtaroth, and Edrei (31). The verse identifies him as Manasseh’s son; the recipients are families, not an account of the ancestor himself campaigning.
@@ -104,6 +112,7 @@ as anything the chapter is doing.
 - His clan takes Gilead and holds the Transjordan — Numbers 32:39–40; Joshua 17:1 *(outside Genesis)*
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.

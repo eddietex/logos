@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Tappuah’s town and cities within Manasseh belong to Ephraim, while Manasseh has surrounding land and
+territory north of Kanah (8–10). Tribal geography includes enclaves.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 His descendants receive an inheritance by families, including cities within Manasseh’s inheritance (5–9). The closing notice records Canaanites remaining at Gezer under forced labor (10); an allotted share is not complete removal of its inhabitants.
@@ -164,6 +171,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

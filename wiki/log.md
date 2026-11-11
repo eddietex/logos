@@ -25272,3 +25272,33 @@ freedom; its tension with Deuteronomy’s command is recorded in the passage, th
 Updated the affected category rows and type-based totals: 421 passages, 281 people, 411 places,
 87 themes, and 821 connections. Link checks passed with no wrapped or dangling links;
 56 not-yet-started book pages remain the expected baseline. No operational blocker remains.
+
+## [2026-11-11] ingest | Joshua 17.1-13 — The Inheritance of Manasseh
+
+Ingested [[The Inheritance of Manasseh]] unattended from the stored WEB, with the planned
+boundary unchanged. Joshua is now 28 / 42 pericopes ingested. The next request for more land
+remains outside this invocation.
+
+Created seven pages: one passage, [[The Families of Manasseh]], four places (Beth Shean,
+Ibleam, Endor, En Tappuah), and [[The Daughters Receive the Promised Inheritance]].
+Revised 45 existing pages: the book, the Numbers petition passage, twelve people, twelve
+places, four themes, four connections, ten indexes/dashboards, and this log.
+
+The five sisters remain on their existing collective page. The six named ancestral families
+and Gilead’s genealogical role receive a collective page without conflating ancestors with
+cities, the Gilead region, or Shechem son of Hamor. Asher in 17:7 is left geographically
+uncertain; En Tappuah is a named landmark without an asserted equation with Tappuah town.
+The ten portions and the WEB’s three heights are preserved without an invented parcel map
+or a source-language explanation. The command fulfilled in the daughters’ grant and the
+non-removal/forced-labor tension with Deuteronomy 20 are both explicit.
+
+All thirteen quoted verses were copied directly from raw. New comparisons use stored WEB
+Numbers 27:1–11 and Deuteronomy 20:15–18; no recalled quotation or new original-language
+assertion was introduced. No raw text or workflow instruction changed.
+
+Type-based totals: 422 passages, 282 people, 415 places, 87 themes, 822 connections.
+The prior dashboard showed 279 people although the prior log and actual files supported 281;
+recounting corrects that stale dashboard along with adding the new collective page.
+Link checks passed: no wrapped or dangling links; 56 unstarted book pages are the expected
+baseline. The pre-existing oversized places index remains unsplit in this pericope pass.
+No operational blocker remains.

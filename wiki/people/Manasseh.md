@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The western allotment includes ten parts beside the eastern holdings, explicitly accounting for
+daughters inheriting among sons (5–6). Cities are assigned within Asher and Issachar, but their
+Canaanite inhabitants remain and later undergo forced labor (11–13).
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 Named with Ephraim among Joseph’s children taking their inheritance (4). Ephraim also receives cities and villages within Manasseh’s inheritance (9); this chapter does not yet give Manasseh’s own full boundary.
@@ -233,6 +241,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

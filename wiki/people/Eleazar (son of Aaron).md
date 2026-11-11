@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The daughters approach him with Joshua and the princes to claim the inheritance commanded through
+Moses (4). The priest participates in the administration of the earlier ruling.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### The western division — Joshua 14:1–5
 
 Eleazar is named first among the distributors, alongside Joshua and the heads of tribal fathers’ houses (1). The appointment in Numbers 34:17–29 now becomes an account of allocation; his priesthood includes this public responsibility.
@@ -307,6 +314,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

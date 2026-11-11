@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The tribal territory meets Manasseh on the north and includes Manassite holdings (10–11). Asher in
+verse 7 is a boundary starting point whose precise referent is not established here; it is not
+assumed to be a separate identified town.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Asher receives blessing with children, acceptance among brothers, oil, strong bars, and enduring
@@ -124,6 +132,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:26 — Asher marches in Dan's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

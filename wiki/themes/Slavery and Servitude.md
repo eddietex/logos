@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Israel’s increased strength leads to forced labor imposed on the Canaanites rather than their
+complete removal (13). The transition from inability in verse 12 to strength in verse 13 does not
+produce liberty for the remaining inhabitants.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 Gezer’s surviving Canaanites become servants doing forced labor (10). Their continued residence is accompanied by coercion, not an announcement of equal status or freedom. Unlike Joshua 9, this passage supplies no protective oath.
@@ -438,6 +446,7 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

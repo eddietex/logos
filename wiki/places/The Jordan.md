@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Separates the eastern Gilead and Bashan holdings from the ten portions enumerated here (5).
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 The river locates Joseph’s allotment at Jericho and terminates the descending boundary in verse 7. No crossing is narrated.
@@ -295,6 +301,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 

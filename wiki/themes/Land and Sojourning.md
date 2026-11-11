@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Daughters receive the commanded inheritance; ten parts are counted besides the eastern land (3–6).
+Towns within other tribal territories and inhabitants not removed distinguish legal allocation from
+actual occupation (8–13).
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 Family-based boundaries and Ephraimite cities within Manasseh’s territory distinguish allotment from a simple block of exclusive occupation (5–9). Gezer’s remaining Canaanites further distinguish inheritance from complete possession (10).
@@ -948,6 +956,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.

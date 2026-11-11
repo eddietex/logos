@@ -79,6 +79,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 - [[The Dwelling of God]]
 
 ## Cross-references
+- [[The Daughters Receive the Promised Inheritance]] — Joshua 17:3–6 records the grant under the command given here.
 
 - [[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]] — Numbers 36 retains the daughters’ inheritance while preventing tribal transfer through marriage.
 

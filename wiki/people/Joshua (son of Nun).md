@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The daughters address him with Eleazar and the princes; the narrative reports the grant according to
+Yahweh’s command (4). Leadership implements the ruling previously given through Moses.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 The grant to Caleb is made according to Yahweh’s command to Joshua (13). The local victories credited to Caleb and Othniel remain alongside the broader victories credited to Joshua in 10:36–39 and 11:21; the chronology is not explained.
@@ -343,6 +350,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

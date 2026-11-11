@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Mahlah, Noah, Hoglah, Milcah, and Tirzah appeal together to Eleazar, Joshua, and the princes (3–4).
+The promised inheritance is now granted among their father’s brothers; verses 5–6 expressly include
+daughters in the accounting of Manasseh’s shares.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 Mahlah, Tirzah, Hoglah, Milcah, and Noah marry their father's brothers' sons (10–12). Their
@@ -37,6 +45,7 @@ is not the city. Their petition follows the census in Numbers 27:1–11.
 - Numbers 26 — recorded in the second census.
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:1–65.

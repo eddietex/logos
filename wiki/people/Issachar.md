@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The tribal territory borders Manasseh on the east and contains holdings assigned to Manasseh
+(10–11). This is territorial use of the ancestral name, not an act of the patriarch.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Issachar rejoices in tents alongside Zebulun’s going out, sharing the invitation to sacrifice and
@@ -136,6 +143,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:15 — Issachar marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

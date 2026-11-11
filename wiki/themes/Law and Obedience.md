@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The grant to the daughters explicitly implements Yahweh’s command through Moses (4; Numbers 27:7).
+The same unit ends with non-removal and forced labor (12–13), in tension with Deuteronomy 20:16–18.
+Compliance in inheritance does not establish compliance in conquest.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 The non-removal and forced labor at Gezer (10) stand in tension with Deuteronomy 20:15–18, which distinguishes distant cities from the inherited cities of the named peoples, including Canaanites. The narrative reports the result without presenting forced labor as fulfillment of that command.
@@ -1483,6 +1491,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

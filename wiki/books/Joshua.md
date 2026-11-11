@@ -146,6 +146,10 @@ against thirty-six names, and the list ends on the Jebusites of Jerusalem, whom 
 including cities inside Manasseh’s share, then records Gezer’s remaining Canaanites under
 forced labor. Allotment and complete removal remain distinct.
 
+The grant to Zelophehad’s daughters is implemented in [[The Inheritance of Manasseh]] (17:1–13).
+Manasseh’s boundaries and cross-tribal holdings follow, but the closing notice records
+remaining Canaanites under forced labor rather than complete occupation.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -162,7 +166,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **27 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **28 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -191,7 +195,7 @@ Plan drawn 2026-11-10 from the stored WEB. **27 / 42 pericopes ingested.**
 - [x] [[Achsah Asks for Springs]] — Joshua 15:13–19
 - [x] [[The Cities of Judah]] — Joshua 15:20–63
 - [x] [[The Inheritance of Ephraim]] — Joshua 16:1–10
-- [ ] The Inheritance of Manasseh — Joshua 17:1–13
+- [x] [[The Inheritance of Manasseh]] — Joshua 17:1–13
 - [ ] The Children of Joseph Ask for More — Joshua 17:14–18
 - [ ] The Land Surveyed at Shiloh — Joshua 18:1–10
 - [ ] The Inheritance of Benjamin — Joshua 18:11–28

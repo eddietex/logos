@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Manasseh is identified as his firstborn (1). The allotment concerns descendant families, not Joseph
+himself.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 The lot is introduced for his children, then names Manasseh and Ephraim as the inheritors (1–4). This concerns descendant tribes, not the patriarch’s personal occupancy.
@@ -476,6 +483,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

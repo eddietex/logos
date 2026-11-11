@@ -6,6 +6,7 @@ tags: [connection]
 # Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee
 
 ## Passages involved
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
@@ -13,6 +14,14 @@ tags: [connection]
 - [[Redemption of Land and Houses]] — Leviticus 25:23–34.
 
 ## Analysis
+
+### Manasseh’s allotment
+
+Joshua 17:3–6 records the sisters receiving their inheritance under the earlier command. It does not
+repeat or rescind the marriage restriction described above. The narrative moves from the legal
+provision to allocation.
+
+Source: stored WEB Joshua 17:1–13.
 
 Numbers 27 protects a sonless man's inheritance through his daughters. Numbers 36 asks
 what happens to the tribal allotment when those inheriting daughters marry into another

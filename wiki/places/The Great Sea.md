@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The sea closes Manasseh’s western boundary (9–10). No new coastal conquest is narrated.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 The sea terminates the westward lines in verses 3 and 8. Identification as the western Great Sea follows the boundary’s direction and broader setting; these verses call it only the sea.
@@ -63,6 +69,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.

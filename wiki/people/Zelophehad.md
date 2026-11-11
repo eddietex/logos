@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+His five daughters receive the inheritance commanded through Moses (3–4). The deceased father’s line
+remains represented in the western allotment.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Marriage and tribal inheritance — Numbers 36:1–13
 
 His inheritance remains with his daughters within their father's tribe through their marriages to
@@ -32,6 +39,7 @@ The census notice prepares the inheritance question resolved in Numbers 27:1–1
 - Numbers 26 — recorded in the second census.
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 - [[The Petition of Zelophehad's Daughters]] — Numbers 27:1–11.
 - [[The Second Census]] — Numbers 26:1–65.

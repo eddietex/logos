@@ -15,6 +15,12 @@ man himself.
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Michmethath is located before Shechem in the boundary description (7). Shechem the clan ancestor (2) is distinct and covered in [[The Families of Manasseh]].
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 The first place in the promised land the Bible stops at, and the place Israel keeps coming back to
 whenever it has to decide what it is.
 
@@ -76,6 +82,7 @@ Deuteronomy 11:29–30 places the blessing on Gerizim and the curse on Ebal *"be
 See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; not named; the oaks of Moreh and the two mountains on either side of the town locate the blessing and curse (29–30).
 - [[The Call of Abram]] — Genesis 12:6–7, the first stop in the land and the site of Abram's first

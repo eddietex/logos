@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+The daughters appeal to Yahweh’s command through Moses; the grant is made according to that command
+(4). No new divine speech is reported.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Yahweh’s command to Joshua grounds Caleb’s portion among Judah (13). No new divine speech is quoted in this scene; the springs are granted by Caleb in response to Achsah.
@@ -3946,6 +3953,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

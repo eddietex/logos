@@ -6,6 +6,7 @@ tags: [connection]
 # An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad
 
 ## Passages involved
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
 
@@ -14,6 +15,12 @@ tags: [connection]
 - [[The Second Census]] — Numbers 26:33, 52–56.
 
 ## Analysis
+
+### Manasseh’s allotment
+
+Joshua 17:3–6 now records the actual grant, implementing the ruling of Numbers 27. The explicit absence of sons remains: this does not erase the distinction from Job’s gift to daughters who have brothers. See [[The Daughters Receive the Promised Inheritance]].
+
+Source: stored WEB Joshua 17:1–13.
 
 ### The final inheritance ruling — Numbers 36
 

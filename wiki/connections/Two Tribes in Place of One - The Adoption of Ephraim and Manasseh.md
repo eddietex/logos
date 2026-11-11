@@ -6,6 +6,7 @@ tags: [connection]
 # Two Tribes in Place of One - The Adoption of Ephraim and Manasseh
 
 ## Passages involved
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
@@ -35,6 +36,14 @@ tags: [connection]
 - [[The Camp Around the Tent]] — Numbers 2:18–24; Ephraim heads the west camp, with Manasseh next to him
 
 ## Analysis
+
+### Manasseh’s allotment
+
+Joshua 17:1 identifies Manasseh as Joseph’s firstborn while recording his own allotment. The western
+ten parts exclude the eastern holdings (5); Ephraimite towns within Manasseh (8–9) prevent a picture
+of two entirely separate territorial blocks.
+
+Source: stored WEB Joshua 17:1–13.
 
 ### Ephraim’s allotment
 

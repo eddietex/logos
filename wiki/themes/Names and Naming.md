@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Manasseh’s inheritance — Joshua 17:1–13
+
+Six ancestral families and Zelophehad’s five daughters are named in the allocation (2–3). The
+genealogy identifies heirs; the narrative assigns no separate speech or action to any one sister.
+
+See [[The Inheritance of Manasseh]]. Source: stored WEB Joshua 17:1–13.
+
 ### Judah’s cities — Joshua 15:20–63
 
 The register glosses its own names: Kerioth Hezron *also called Hazor* (25), *Gederah (or Gederothaim)* (36), *Kiriath Sannah (which is Debir)* (49), *Kiriath Arba (also called Hebron)* (54), *Kiriath Baal (also called Kiriath Jearim)* (60). With Baalah (9), Kiriath Jearim carries three names in one chapter. Kiriath Sannah stands beside verse 15's Kiriath Sepher without reconciliation. These are identifications, not narrated renamings.
@@ -283,6 +290,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
