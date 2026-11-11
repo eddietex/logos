@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+*Don't be afraid, and don't be dismayed* (1) — Yahweh's reassurance after defeat is the same pairing
+Moses gave the first generation at Deuteronomy 1:21 (WLC), which that generation refused. The
+promise comes in the perfect, *I have given into your hand* (1), before the march; Joshua acts on it
+and the battle follows.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Marching precedes the visible collapse (3–20). Hebrews 11:30–31 explicitly reads both the encircling and Rahab’s survival through faith (WEB verified at bible-api.com, 2026-11-10). This is a later interpretation, not a claim about Hebrew vocabulary in Joshua.
@@ -327,6 +336,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 
 ## Key passages
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 

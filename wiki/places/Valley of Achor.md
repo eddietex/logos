@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+The next chapter matches Achor's heap with another: the king of Ai is covered with *a great heap of
+stones that remains to this day* (29), in the same Hebrew words as 7:26 (WLC). With Achor dealt
+with, the campaign resumes at Ai in the first verse of the chapter.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 The valley where [[Achan]] and his household were stoned and burned, and where a great heap of stones
 was raised over him *that remains to this day* (Joshua 7:24–26). The name is explained by the event:
 *Why have you troubled us? Yahweh will trouble you today* (7:25), and *Therefore the name of that place
@@ -23,6 +31,8 @@ identification is not attempted here. Proposed sites are debated and none is ass
 [[The Valley of Achor - Trouble Turned to a Door of Hope]].
 
 ## Appears in
+
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:24–26
 
 ## Related places

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+What was forbidden at Jericho is given at Ai: *you shall take its goods and its livestock for
+yourselves* (2), and Israel does, *according to Yahweh's word* (27). Possession is not the problem
+in these chapters; taking what is not given is. Achan's robe, silver, and gold were stolen; Ai's
+goods are received.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 A robe from Shinar, two hundred shekels of silver, and a fifty-shekel wedge of gold (21) are enough
@@ -886,6 +895,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

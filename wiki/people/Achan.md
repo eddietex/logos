@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Achan is not named in chapter 8, but the battle is fought twice because of him. Two details look
+back. Ai's goods and livestock are given to Israel by command (2, 27) — what Achan took by theft at
+Jericho, Israel now receives by Yahweh's word; the irony is a common reading, left implicit by the
+text. And the heap of stones over the king of Ai is described in the same words as
+the heap over Achan: *a great heap of stones … to this day* (*gal-ʾăḇānîm gāḏôl ʿaḏ hayyôm hazzeh*,
+WLC 7:26; 8:29).
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 A man of Judah, *the son of Carmi, the son of Zabdi, the son of Zerah* (7:1, 18) — four generations
@@ -52,6 +63,8 @@ Source: stored WEB Joshua 6–7, 22:20; WLC (morphhb), retrieved 2026-11-10.
 - Cited as a warning — Joshua 22:20; named *Achar* in 1 Chronicles 2:7
 
 ## Appears in
+
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26
 
 ## Related people

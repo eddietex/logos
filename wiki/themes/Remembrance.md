@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Two *to this day* markers in two verses: Ai a heap *to this day* (28), and the stones over its king
+*that remain to this day* (29). With Gilgal's twelve stones (4:20–24) and Achor's heap (7:26), the
+book has now set up memorials of crossing, of sin, and of victory in stone, and the altar stones of
+Ebal follow (8:30–32).
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 A great heap of stones over Achan remains to this day (26), a memorial of judgment answering the
@@ -709,6 +718,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

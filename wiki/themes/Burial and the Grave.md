@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+The king of Ai is hanged until evening and taken down at sundown (29), as Deuteronomy 21:22–23
+requires — his body is *niḇlātô*, the law's *nǝḇēlâ* (WLC). He is not given a grave but thrown at the
+city gate and covered with *a great heap of stones*: burial by cairn, in the same words as Achan's
+(7:26). See [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]].
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses is buried opposite Beth Peor, but no one knows his tomb (6) — unlike the patriarchs' carefully located graves. The singular *he buried him* most naturally means Yahweh. See [[The Body of Moses - Deuteronomy 34.6 and Jude 9]].
@@ -183,6 +192,8 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The unknown grave (6).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

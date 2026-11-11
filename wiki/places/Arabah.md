@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+The king of Ai leads his men out *at the time appointed, before the Arabah* (14) — facing east toward
+the Jordan rift as he pursues. Israel's feigned flight goes *by the way of the wilderness* (15). The
+exact sense of *before the Arabah* (a direction, or a meeting place) is not explained.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The Canaanites of the Arabah — Deuteronomy 11:18–32
 
 Gerizim and Ebal are located *"in the land of the Canaanites who dwell in the Arabah"* (30). The mountains stand in the central hill country, and the verse does not explain how the Arabah locates them.
@@ -47,6 +55,8 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the Canaanites *"who dwell in the Arabah"*, in the description of Gerizim and Ebal (30).
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

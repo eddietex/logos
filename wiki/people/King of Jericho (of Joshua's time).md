@@ -29,6 +29,7 @@ Source: stored WEB Joshua 2:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 ## Related people
+- [[King of Ai (of Joshua's time)]] — the next king in the conquest, whose death is narrated
 - [[Rahab]]
 - [[The Two Spies Sent by Joshua]]
 

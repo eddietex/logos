@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Yahweh's first word after Achor is *Don't be afraid, and don't be dismayed* (1) — the exact pairing
+Moses used to the first generation at Deuteronomy 1:21 (WLC). Joshua takes *all the warriors*, as
+ordered, and fills in the plan Yahweh outlines (*Set an ambush*, 2): the earlier rout becomes the
+bait, *as at the first* (5–6). At Yahweh's command he stretches out the javelin toward the city, the
+signal for the ambush (18–19), and *didn't draw back his hand* until Ai was destroyed (26) — the
+outstretched hand of Moses' great acts, held now by the man who fought below it at Rephidim. He
+burns Ai to *a heap forever* (28) and has the king's body taken down at sundown, as Deuteronomy
+21:22–23 requires (29). See [[The Hand Held Out - Moses at Rephidim and Joshua at Ai]].
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Joshua's first defeat. He sends a reduced force to Ai on the spies' advice, then tears his clothes
@@ -251,6 +264,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

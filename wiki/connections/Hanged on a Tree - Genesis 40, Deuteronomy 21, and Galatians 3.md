@@ -13,7 +13,7 @@ tags: [connection]
   your flesh from off you"* — **the first occurrence in Scripture**
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:22–23; the body taken down before nightfall, *"for he who is hanged is accursed of
   God"*
-- Joshua 8:29 — the king of Ai, hanged on a tree and taken down at sunset
+- [[The Capture of Ai]] — Joshua 8:29, the king of Ai, hanged on a tree and taken down at sunset
 - Joshua 10:26–27 — the five kings, hanged on five trees and taken down at sunset
 - 2 Samuel 4:12 — the hands and feet of Rechab and Baanah, hung up by the pool at Hebron
 - 2 Samuel 21:9–13 — Saul's seven descendants left exposed, and Rizpah keeping the birds off them
@@ -122,3 +122,12 @@ display. And *tālâ* occurs in the Torah only at Genesis 40:19, 22; 41:13 and D
 for a carcass. Galatians 3:13's *"Cursed is everyone who hangs on a tree"* differs in English from the
 WEB of 21:23, *"accursed of God"*; the Greek of Galatians and of the Septuagint was not checked, so the
 source of Paul's wording is left open.
+
+### Joshua 8 now ingested
+
+See [[The Capture of Ai]]. The wording is checked against WLC (morphhb): the king *tālâ ʿal-hāʿēṣ ʿaḏ
+ʿēṯ hāʿāreḇ*, *hanged on the tree until the evening*, and at sundown (*ûḵǝḇôʾ haššemeš*) Joshua has
+*niḇlātô*, *his carcass*, taken down — the *nǝḇēlâ* of Deuteronomy 21:23. The verse does not say how
+the king died, and the order of Deuteronomy 21:22 (death, then display) makes display the natural
+reading. The body is then thrown at the city gate and covered with a heap of stones, so the burial
+the law requires is a cairn, not a tomb. Source: stored WEB Joshua 8:29; WLC retrieved 2026-11-10.

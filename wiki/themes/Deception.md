@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+A ruse of war commanded by Yahweh: *Set an ambush for the city behind it* (2). Israel *made as if
+they were beaten* (15), and the plan depends on Ai's memory of the real defeat — *They flee before
+us, like the first time* (6). The text passes no judgment on the feint and gives no sign it needs
+one; it belongs with the battlefield stratagem, not with the lie under oath or the false witness
+the wiki has met elsewhere. The king *didn't know that there was an ambush* (14).
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab says the men left at dusk while she has actually hidden them under flax on her roof (4–6). The narrative makes the false report plain but does not pronounce a general rule about lying. Protection of life and deception remain an ethical tension, not a reason to erase either feature.
@@ -370,6 +380,8 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.

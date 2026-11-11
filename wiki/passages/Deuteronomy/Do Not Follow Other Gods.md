@@ -92,6 +92,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[A Heap Forever - Deuteronomy 13.16, Joshua 8.28, and Jeremiah]] — *tēl ʿôlām*, the apostate
+  city's sentence (13:16), applied to Ai at Joshua 8:28.
 - [[The Place Yahweh Will Choose]] — 12:1–28; the same refrain, *"You shall not do so to Yahweh
   your God"* (12:4, 31), first against the nations' many shrines, here against their rites.
 - [[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]] — the fulfilled sign that must be

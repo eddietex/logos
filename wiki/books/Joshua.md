@@ -66,6 +66,12 @@ The selection narrows to Achan, who confesses — *I saw … I coveted them and 
 stoned and burned with his household and goods in the valley of Achor, *trouble*, under a heap
 of stones. The conquest's first defeat comes from inside the camp.
 
+[[The Capture of Ai]] (8:1–29) answers it. Yahweh speaks first again — *Don't be afraid, and don't
+be dismayed*, Moses' words at Kadesh — names an ambush, and turns the rout into the bait. Joshua
+holds out the javelin until the city is destroyed, Ai becomes *a heap forever*, and its king lies
+under a second heap of stones at the gate. This time the goods and livestock are Israel's by
+command.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -82,7 +88,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **10 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **11 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -94,7 +100,7 @@ Plan drawn 2026-11-10 from the stored WEB. **10 / 42 pericopes ingested.**
 - [x] [[The Commander of Yahweh's Army]] — Joshua 5:13–15
 - [x] [[The Fall of Jericho]] — Joshua 6:1–27
 - [x] [[The Sin of Achan]] — Joshua 7:1–26
-- [ ] The Capture of Ai — Joshua 8:1–29
+- [x] [[The Capture of Ai]] — Joshua 8:1–29
 - [ ] The Law Read at Mount Ebal — Joshua 8:30–35
 - [ ] The Gibeonite Deception — Joshua 9:1–27
 - [ ] The Sun Stands Still at Gibeon — Joshua 10:1–15
@@ -140,12 +146,15 @@ Plan drawn 2026-11-10 from the stored WEB. **10 / 42 pericopes ingested.**
 - [[Rahab]]
 - [[The Two Spies Sent by Joshua]]
 - [[King of Jericho (of Joshua's time)]]
+- [[King of Ai (of Joshua's time)]]
 - [[God]]
 - [[Joshua (son of Nun)]]
 - [[Moses]]
 
 ## Key places
 - [[Jericho]]
+- [[Ai]]
+- [[Bethel]]
 - [[Shittim]]
 - [[The Jordan]]
 - [[Lebanon]]

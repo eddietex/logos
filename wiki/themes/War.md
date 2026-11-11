@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+The second battle for Ai is won by stratagem, not liturgy: no ark, no trumpets, no procession — an
+ambush named by Yahweh (2), a feigned flight that uses the real defeat of chapter 7 as bait (5–6),
+and a signal (18–19). The full army goes, reversing 7:3. Plunder is allowed (2, 27), as with Sihon
+and Og (Deuteronomy 2:35; 3:7). The killing includes *both of men and women* (25) and *all the
+inhabitants* (26); the text does not soften it and neither does the wiki. Compare the same tactics
+turned on Benjamin at Gibeah, [[Drawn Away from the City - Ai and Gibeah]].
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Israel's first defeat in the land. Success at Ai is not a matter of numbers — the spies' advice to
@@ -561,6 +572,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

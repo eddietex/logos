@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+The God who had said *I will not be with you any more* (7:12) now speaks first, with the
+reassurance of Deuteronomy 1:21, and gives the city before the battle (1). He names the stratagem
+himself — *Set an ambush for the city behind it* (2) — and orders the javelin held out (18). He also
+sets Ai's terms differently from Jericho's: the inhabitants are destroyed, but *you shall take its
+goods and its livestock for yourselves* (2, 27). What Achan stole at Jericho, Israel receives by
+Yahweh's word at Ai. The text treats the devoted status of each city's goods as his to fix, and
+does not explain the difference.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Yahweh's anger burns against Israel for one man's theft (1) and the defeat at Ai follows unexplained
@@ -3851,6 +3863,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

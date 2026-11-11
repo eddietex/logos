@@ -167,7 +167,8 @@ as a place of future hope and pasture; see
 
 **Two stone heaps.** Joshua 4's twelve stones at Gilgal mark the Jordan crossing for children's
 questions; Achor's *great heap of stones* marks a grave and a sin, also *to this day*. The same
-narrator builds memorials to grace and to judgment. Another heap follows over the king of Ai (8:29).
+narrator builds memorials to grace and to judgment. Another heap follows over the king of Ai (8:29), in
+[[The Capture of Ai]].
 Two different verbs for stoning appear in verse 25 (*rāḡam* and *sāqal*, WLC); the duplication is
 reported without an explanation of it.
 

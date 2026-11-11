@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Judgment on Ai follows judgment within Israel. The city is burned and made *a heap forever* (28),
+the phrase Deuteronomy 13:16 used for an apostate Israelite town (*tēl ʿôlām*, WLC), and its king is
+buried under stones in the same words as Achan (7:26; 8:29). The sentence on the inside of the camp
+and the sentence on the enemy end in matching monuments. See
+[[A Heap Forever - Deuteronomy 13.16, Joshua 8.28, and Jeremiah]].
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Judgment falls first as defeat on the whole people, then as an inquiry that narrows from tribe to
@@ -1015,6 +1025,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

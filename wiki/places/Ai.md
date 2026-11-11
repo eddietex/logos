@@ -7,6 +7,20 @@ tags: [place]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Now ingested. Yahweh promises *the king of Ai, with his people, his city, and his land* (1) and
+orders an ambush behind the city (2). It is hidden west of Ai, between Ai and Bethel (9, 12); the
+main army camps to the north across a valley (11). Every man of Ai and Bethel pursues the feigned
+flight and leaves the city *open* (17). The ambush enters and fires it; twelve thousand, men and
+women, die (25). Joshua makes it *a heap forever, even a desolation, to this day* (*tēl ʿôlām
+šǝmāmâ*, WLC 8:28), the phrase of Deuteronomy 13:16 — the name *the ruin* and the verdict coinciding.
+The king's body lies under a heap of stones at the gate (29). The narrative's numbers (thirty
+thousand at 8:3, five thousand at 8:12, twelve thousand dead) sit awkwardly with the spies' *only a
+few* (7:3); see [[The Capture of Ai]]. The archaeological problem below stands unchanged.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Now ingested. Spies sent from Jericho judge Ai lightly defended; about three thousand men attack,
@@ -57,6 +71,7 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 
 ## Appears in
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Call of Abram]] — Genesis 12:8, the eastern marker of Abram's camp
 - [[Abram and Lot Separate]] — Genesis 13:3, the same marker on the way back from Egypt
@@ -74,5 +89,5 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 - Abram returns to the altar between Bethel and Ai after Egypt — Genesis 13:3–4,
   [[Abram and Lot Separate]]
 - Israel is routed because of Achan's theft — Joshua 7, [[The Sin of Achan]]
-- Ai is taken by ambush and burned — Joshua 8:1–29
+- Ai is taken by ambush and burned — Joshua 8:1–29, [[The Capture of Ai]]
 - Resettled after the exile — Ezra 2:28; Nehemiah 7:32

@@ -355,6 +355,8 @@ from the name *Agag*; Esther never mentions Amalek.** All *not yet ingested*. Se
 - [[Signs and Wonders]]
 
 ## Cross-references
+- [[The Hand Held Out - Moses at Rephidim and Joshua at Ai]] — Joshua 8:18, 26; Joshua holds out
+  the javelin and does not draw back his hand until Ai is destroyed.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; the reason for the sentence, and the command
   to remember.
 - Genesis 6:7; 7:4, 23 — the flood, *"I will destroy (ʾemḥeh) man"* — *māḥâ*, the verb of 17:14 —

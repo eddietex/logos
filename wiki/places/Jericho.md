@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Jericho becomes the pattern: *You shall do to Ai and her king as you did to Jericho and her king,
+except you shall take its goods and its livestock for yourselves* (2). The exception marks Jericho
+as the stricter case — even its metals went to Yahweh's treasury (6:19, 24).
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Joshua sends the spies to Ai from Jericho (2). The defeat that follows is traced back to Jericho's
@@ -114,6 +122,7 @@ Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

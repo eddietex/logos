@@ -24750,3 +24750,33 @@ of Achor is not asserted.
 Validation: scripts/link-check.sh clean (56 expected not-yet-started book targets) after fixing one
 link wrapped by the editing script; git diff --check passed. Six pages created and 36 existing
 pages revised, including indexes and this log.
+
+## [2026-11-10] ingest | Joshua 8.1-29 — The Capture of Ai
+
+Ingested [[The Capture of Ai]] in one unattended Claude Code invocation, keeping the planned
+boundary (8:1–29; the Ebal altar and reading, 8:30–35, stays its own pericope). Created the passage,
+[[King of Ai (of Joshua's time)]], and three connections:
+[[The Hand Held Out - Moses at Rephidim and Joshua at Ai]],
+[[A Heap Forever - Deuteronomy 13.16, Joshua 8.28, and Jeremiah]], and
+[[Drawn Away from the City - Ai and Gibeah]]. Revised two existing connections (hanged on a tree;
+devoted things); God, Joshua, Achan, and the king of Jericho; Ai, Bethel, Jericho, Arabah, and the
+valley of Achor; seven themes (War, Deception, Judgment, Wealth and Possessions, Burial and the
+Grave, Remembrance, Faith); the cross-references of The Battle with Amalek and Do Not Follow Other
+Gods; the forward link in The Sin of Achan; the book page, its queue and overview; and the affected
+index rows and dashboard counts. Joshua is now 11 / 42; totals are 405 passages, 263 people, 228
+places, 87 themes, and 809 connections.
+
+Quoted Joshua, Deuteronomy, and Exodus from stored WEB. Verified Judges 20:13, 21, 25, 29–38,
+Jeremiah 30:18, Jeremiah 49:2, and Exodus 17:11–12 at bible-api.com (WEB) on 2026-11-10; no raw
+text added or changed. Hebrew of Joshua 1:9; 7:26; 8:1–2, 18, 26, 28–29; 10:25, Deuteronomy 1:21;
+13:17 (WLC numbering); 20:14; 21:22; 31:8, and Exodus 14:16, 26; 17:11–13 checked against WLC
+(OpenScriptures morphhb). The five-occurrence count of *tēl* covers only the books searched, named
+on the pages. Not verified, and marked so where stated: the report that the Septuagint is shorter
+in Joshua 8; the proposed senses of *kîḏôn*; the *ʾelep*-as-unit proposal. The Hebrew of Judges 20
+was not compared, and the Gibeah connection claims only shared English phrasing.
+
+Judgment calls: the 30,000 (8:3) and 5,000 (8:12) ambush figures are both recorded and left
+unreconciled, with the usual proposals listed but none adopted. The king of Ai gets a page named on
+the existing `(of Joshua's time)` pattern; the ambush party, the elders, and the dead do not. No
+page for the unnamed valley north of Ai. The irony that what Achan took by theft at Jericho Israel
+receives by command at Ai is recorded as a reader's observation, not the text's claim.

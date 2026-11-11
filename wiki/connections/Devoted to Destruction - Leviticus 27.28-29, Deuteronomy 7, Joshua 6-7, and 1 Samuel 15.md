@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Capture of Ai]] — Joshua 8:1–29 (now ingested): inhabitants devoted, goods and livestock kept.
 - [[The Sin of Achan]] — Joshua 7:1–26 (now ingested).
 
 - [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
@@ -35,6 +36,17 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### Joshua 8 now ingested
+
+At Ai, *Joshua didn't draw back his hand … until he had utterly destroyed* (*heḥĕrîm*, WLC 8:26) all
+the inhabitants, yet Yahweh's own order keeps the goods and livestock for Israel (8:2, 27). That is
+the pattern Deuteronomy 2:34–35 and 3:6–7 narrate for Sihon's and Og's cities — people destroyed,
+livestock and plunder taken — so Jericho, where everything including the metals went to Yahweh, is
+the stricter application, not the norm. Ai is also made *a heap forever* (*tēl ʿôlām*), the phrase of
+Deuteronomy 13:16 (WLC 13:17), but without that law's burning of the plunder. See
+[[A Heap Forever - Deuteronomy 13.16, Joshua 8.28, and Jeremiah]]. Source: stored WEB Joshua 8;
+Deuteronomy 2–3; 13; WLC (morphhb), 2026-11-10.
 
 ### Joshua 7 now ingested
 

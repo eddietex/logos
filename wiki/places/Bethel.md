@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The capture of Ai — Joshua 8:1–29
+
+Bethel fixes the ambush's position — *between Bethel and Ai, on the west side of Ai* (9, 12) — and
+its men join Ai's in the pursuit: *There was not a man left in Ai or Beth El who didn't go out after
+Israel* (17). Bethel's own fate is not narrated here; Joshua 12:9 later locates the king of Ai as
+*beside Bethel*.
+
+See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; WLC (morphhb) where Hebrew is named.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Bethel serves as a locator: Ai is beside Beth Aven, on the east side of Bethel (2). Beth Aven is not
@@ -62,6 +71,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 
 ## Appears in
 
+- [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Call of Abram]] — Genesis 12:8, the ridge Abram pitches on and his second altar
 - [[Abram and Lot Separate]] — Genesis 13:3–4, the altar he comes back to after Egypt and calls on
