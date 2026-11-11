@@ -6,6 +6,8 @@ tags: [connection]
 # Your Eyes Have Seen - Remembered Victory and Joshua’s Courage
 
 ## Passages involved
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33
@@ -13,6 +15,21 @@ tags: [connection]
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22
 
 ## Analysis
+
+### The five kings at Makkedah — Joshua 10:16–27
+
+Joshua now gives his commanders the encouragement he had received. In Deuteronomy 3:21–22,
+Moses points him to the defeated kings as evidence of what Yahweh will do to kingdoms ahead.
+In Joshua 10:24–25, the commanders put their feet on five defeated kings’ necks and Joshua
+promises the same divine action against future enemies. The charge to be strong and courageous
+also recalls Joshua 1:6–9. The receiver of encouragement has become its speaker.
+
+This is a narrative and English-language comparison, not a claim of exact Hebrew identity.
+The violent public subjection is part of the scene and should not disappear into a generic
+lesson about confidence. Sources: stored WEB Deuteronomy 3:21–22 and Joshua 1:6–9; 10:24–25.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
 
 At Kadesh, Moses argues from what Israel has seen in Egypt and the wilderness that Yahweh will
 fight for them (1:29–31). The speech nevertheless records their failure to believe (1:32).

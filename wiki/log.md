@@ -24846,3 +24846,25 @@ Hebrew/Greek assertions were introduced. Existing raw texts and workflow instruc
 Counts by frontmatter: 408 passages, 268 people, 239 places, 87 themes, 813 connections.
 Link checks clean: wrapped links and dangling targets pass; 56 unstarted-book targets are the
 expected baseline. No unresolved operational or link issue; interpretive tensions remain noted.
+
+## [2026-11-11] ingest | Joshua 10.16-27 — The Five Kings in the Cave at Makkedah
+
+- Ingested exactly the next planned pericope, Joshua 10:16–27, without changing its boundary.
+  Created [[The Five Kings in the Cave at Makkedah]]; Joshua is now 15 / 42.
+- Revised seven person pages, six place pages, and seven theme pages with synthesis and
+  passage-list entries. The five kings retain their established identities; unnamed commanders,
+  guards, and troops remain collective actors rather than new person pages.
+- Updated [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]] and
+  [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]]. Kept the explicit sequence
+  of killing before display, sunset removal, and the cave’s change from refuge to burial site.
+  Preserved the surviving remnant of 10:20 and the Gilgal/Makkedah sequence tension rather than
+  smoothing either into an unqualified victory report.
+- Updated the book, affected category rows, and dashboard. Frontmatter counts: 409 passages,
+  268 people, 239 places, 87 themes, 813 connections. The people total had been stale at 263;
+  corrected it to the existing 268 without creating any person pages.
+- One passage created; 33 existing pages revised, including book, indexes, dashboard, and log.
+  All new quotations copied from stored WEB Joshua 10; comparisons checked against stored WEB
+  Joshua 1 and 8 and Deuteronomy 3 and 21. No raw text changed, external quotation introduced,
+  or new source-language assertion made.
+- Validation: scripts/link-check.sh passed, with 56 expected not-yet-started book targets;
+  git diff --check passed. No unresolved ingest blocker.

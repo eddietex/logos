@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+The stones sealing the cave remain to the narrator’s day (27), preserving a physical trace of the
+kings’ fate. No children’s question or commemorative rite is prescribed here. The displayed defeat
+also becomes a precedent for future courage (25).
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Inscribed stones and public reading preserve and communicate Moses’ instruction after his death (32–35). Little ones hear alongside adults; unlike Joshua 4’s memorial stones, these stones bear a written copy of the law.
@@ -724,6 +733,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

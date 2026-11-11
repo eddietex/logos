@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Taking down the bodies at sunset and enclosing them in the cave (27) accords with Deuteronomy
+21:22–23’s same-day burial rule. Joshua 10 does not explicitly cite the law or prescribe the method
+of execution.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The chapter follows the public reading of the law with a covenant forbidden by Deuteronomy 7:1–2.
@@ -1424,6 +1433,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+The five allied rulers die at Makkedah, but a remnant of their forces reaches fortified cities (20).
+The defeat of this coalition is not a statement that every inhabitant of the land has already been
+eliminated.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### At Gibeon — Joshua 10:1–15
 
 Five Amorite kings attack Gibeon because of its peace with Israel (3–5). Gibeon’s inhabitants,
@@ -473,6 +482,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

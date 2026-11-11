@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
+
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
 
 - [[The Cupbearer and the Baker]] — Genesis 40:19, 22: *"will hang you on a tree; and the birds will eat
@@ -27,6 +29,20 @@ tags: [connection]
   one)"*
 
 ## Analysis
+
+### The five kings at Makkedah — Joshua 10:16–27
+
+Joshua 10:26 explicitly places killing before hanging in the stored WEB. Verse 27 removes
+the bodies at sunset and returns them to the cave under great stones. This is firmer evidence
+for postmortem display here than Joshua 8:29 alone provides; neither verse specifies a device
+or permits certainty about impalement. The sunset removal parallels the king of Ai and accords
+with Deuteronomy 21:22–23. The hiding place has become the burial place.
+
+Source: stored WEB Joshua 10:16–27; Joshua 8:29; Deuteronomy 21:22–23. This addition makes
+no claim about exact Hebrew wording.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
 
 ***Tālâ ʿal-ʿēṣ***, *hang on a tree*, enters the Bible in an Egyptian prison, as one clause of a dream
 interpretation, and it is **almost certainly not what an English reader pictures.** Hanging by the neck

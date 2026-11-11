@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Five city kings are publicly subjected to Israel’s commanders, then killed and displayed (23–26).
+Royal status offers no protection; Joshua uses their humiliation as a visible assurance about future
+enemies (25).
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### At Gibeon — Joshua 10:1–15
 
 Adoni-Zedek draws four other city kings into a coalition against Gibeon (3–5). Gibeon is compared
@@ -435,6 +444,8 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

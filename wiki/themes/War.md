@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Joshua guards the kings but orders the army to keep pursuing (18–19). The sweeping slaughter
+description is immediately qualified by a remnant reaching fortified cities (20). The commanders’
+feet on the kings’ necks enact defeat publicly before the executions (24–26).
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### At Gibeon — Joshua 10:1–15
 
 The attack on Gibeon is provoked by its peace with Israel (4). Joshua’s forced night march and
@@ -589,6 +598,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

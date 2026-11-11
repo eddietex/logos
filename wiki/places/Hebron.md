@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Its king, [[Hoham]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### At Gibeon — Joshua 10:1–15
 
 Its king Hoham joins the coalition against Gibeon (3–5). The city itself is not captured in this
@@ -58,6 +65,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 (Joshua 20:7) and a Levitical city (21:11–13).
 
 ## Appears in
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 

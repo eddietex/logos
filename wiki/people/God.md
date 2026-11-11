@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Joshua attributes the delivered enemy to Yahweh (19) and promises that Yahweh will similarly
+overcome future enemies (25). These are Joshua’s speeches; no new direct divine speech occurs in
+this unit.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### At Gibeon — Joshua 10:1–15
 
 Yahweh promises victory (8), confuses the coalition, and sends hail that kills more than Israel’s
@@ -3887,6 +3896,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

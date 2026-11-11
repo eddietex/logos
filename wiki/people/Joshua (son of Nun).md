@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Joshua secures the hidden kings while continuing the pursuit (18–19), summons the commanders to put
+their feet on the kings’ necks, and passes on the charge to be strong and courageous (24–25). He
+kills the kings, displays their bodies, and orders their removal at sunset (26–27).
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### At Gibeon — Joshua 10:1–15
 
 He answers Gibeon’s plea by marching all night with the whole army (6–9). His public address to sun
@@ -287,6 +296,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

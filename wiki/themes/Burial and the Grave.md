@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+The five kings are killed before their bodies are hung on trees (26). At sunset the bodies are taken
+down and thrown into their former hiding place, whose mouth is sealed with great stones (27). This
+is burial after punitive exposure, not an honored royal funeral.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 The king of Ai is hanged until evening and taken down at sundown (29), as Deuteronomy 21:22–23
@@ -192,6 +201,8 @@ identified on the passage page.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The unknown grave (6).

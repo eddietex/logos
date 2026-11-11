@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The five kings at Makkedah — Joshua 10:16–27
+
+Joshua calls the commanders to courage and points to the kings under their feet as assurance of
+Yahweh’s future action (24–25). Trust is the response invited by his speech; the narrator does not
+describe each commander’s inward state.
+
+See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 *Don't be afraid, and don't be dismayed* (1) — Yahweh's reassurance after defeat is the same pairing
@@ -335,6 +344,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
