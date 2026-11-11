@@ -25199,3 +25199,48 @@ narrated consent to the marriage arrangement are both preserved.
 
 Validation: scripts/link-check.sh passed, with 56 expected not-yet-started book targets and no
 wrapped or dangling links. No operational blocker; narrative chronology remains explicitly open.
+
+## [2026-11-11] ingest | Joshua 15.20-63 — The Cities of Judah
+
+Unattended ingest of exactly the next queued pericope, [[The Cities of Judah]]; planned title and
+boundary retained. Created 104 pages: the passage, 102 place pages (one for every town in the list
+without an existing page), and [[Simeon's Lot Within Judah - Joshua 15 and 19]]. Revised 49 existing
+pages: Joshua, 24 places given a Joshua 15:20–63 section, 8 places given a pointer to a newly
+qualified namesake (Kedesh, Hazor, Tappuah, Timnah, Naamah, Rabbah, Ain, Goshen (Canaan)), Judah and
+Simeon, three themes (Land and Sojourning, Names and Naming, The Nations), three connections (Kings
+Struck and Cities Not Driven Out; The Southern Conquest and the Land Still Remaining; Simeon and Levi),
+the books, places, and themes indexes, People Index F-M, Connections Index I-N and O-S, the
+dashboard, and this log. Joshua is now 26 / 42; totals by frontmatter type are 420 passages,
+279 people, 403 places, 87 themes, and 820 connections.
+
+The passage absorbs the discussion: the five sections of the register and their counts, the
+campaign's cities folded in as entries, Ekron/Ashdod/Gaza allotted though 11:22 and 13:3 leave them
+unconquered, and the closing exception of Jerusalem's Jebusites. Two tensions are recorded, not
+resolved: the southern group is totaled *twenty-nine* (32) though thirty-six names are listed (every
+other counted group adds up), with the usual explanations marked as inference; and *Kiriath Sannah
+(which is Debir)* (49) beside verse 15's *Kiriath Sepher*.
+
+Judgment calls: every listed town gets a page, following the Borders of Judah precedent. Names
+repeated inside the list take district or neighbor qualifiers — Ziph (Negev)/(hill country), Socoh
+(lowland)/(hill country), Zanoah (lowland)/(hill country), Ashnah (by Zorah)/(by Nezib). Names shared
+with an existing page or a later stored Joshua verse are qualified rather than merged: Kedesh, Hazor,
+Tappuah (lowland), Timnah (hill country), Carmel, Mizpah, Rabbah, Naamah, Ain, Rimmon (Negev),
+Baalah (Negev), Goshen (town), and Jezreel, Gibeah, Beth Dagon, En Gannim (each with a namesake in
+Joshua 18–21). Towns the wiki already had in the same district (Jarmuth, Adullam, Azekah, Lachish,
+Eglon, Makkedah, Libnah, Hebron, Debir, Anab, Kiriath Jearim, Beth Arabah, En Gedi, Beersheba, Hormah)
+were extended; Jarmuth is kept as probably the coalition city without the list saying so. *Enam*
+(34) and *Achzib* (44) are filed on the existing [[Enaim]] and [[Chezib]] pages, whose
+identifications remain proposals. Partial matches in Simeon's list (Balah, Bethul, Beth Marcaboth,
+Hazar Susah, Beth Lebaoth) are marked as suggested by position, not equated. Jebusites stay on
+[[The Nations]] and [[Jerusalem]]; no people page was created. No region pages were made for the
+lowland, hill country, or wilderness districts.
+
+Sources: all 44 verses copied from stored WEB Joshua 15:20–63. Comparisons read in stored WEB
+Joshua 10:26–41, 11:21–22, 12:10–14, 13:3, 15:1–19, 18:14, 18:28, 19:1–9, 19:18, 19:26–27, 19:41,
+21:14–16, 21:29; Numbers 21:1–3; Genesis 35:21, 49:7. No unstored book was quoted or fetched, no
+source-language claim was made, no modern site was assigned, and no raw text was changed.
+
+Validation: scripts/link-check.sh passed (56 expected not-yet-started book targets; no wrapped or
+dangling links). Every place page has one places-index row. The places index now holds 403 rows,
+well past the 150-row split trigger; splitting it, and the pre-existing fused Gilgal and Canaan rows,
+remain outside this one-pericope pass.

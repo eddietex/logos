@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+Joshua 15:51 lists a town Goshen in Judah's hill country; it has its own page, [[Goshen (town)]], and its relation to this region is not stated.
+
 ### The whole land taken — Joshua 11:16–23
 
 The land of Goshen is named again in the summary of the regions Joshua took (16), with the hill country, the South, the lowland, and the Arabah. As in 10:41, it is the Canaan Goshen, not the Egyptian [[Goshen]].

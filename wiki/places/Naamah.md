@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+The lowland Naamah of Joshua 15:41 now has its own page, [[Naamah (Judah)]].
+
 The implied homeland of [[Zophar the Naamathite]], and **the least locatable place in the Bible that
 has a name at all.** The book of Job never mentions it. It exists entirely inside the gentilic
 *haNNaʿămātî*, attached to Zophar four times (2:11, 11:1, 20:1, 42:9) and to no one else in

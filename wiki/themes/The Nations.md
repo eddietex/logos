@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The only people named in Judah's town list are the Jebusites of Jerusalem, whom *the children of Judah couldn’t drive out*; they *live with the children of Judah at Jerusalem to this day* (63). The verse records coexistence, not a new battle.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Geshur and Maacath remain within Israel (13). Ammon’s land appears in Gad’s portion (25), creating a territorial tension with the protected land in Deuteronomy 2:19, 37, not a narrated conquest of Rabbah.
@@ -518,6 +524,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.

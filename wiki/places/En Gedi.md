@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The last of the six wilderness cities (62).
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 A town of Judah with a wilderness of the same name (1 Samuel 24:1). In the
 wiki so far it appears only in a comparison. In [[Delight and the Unawakened Love]] the woman
 calls her beloved *"a cluster of henna blossoms from the vineyards of En Gedi"* (Song 1:14).
@@ -28,6 +34,7 @@ Sources: stored WEB Song of Solomon 1:14 and Genesis 14:7; Joshua 15:62; 1 Samue
 2 Chronicles 20:2; Ezekiel 47:10 checked at bible-api.com (`translation=web`), 2026-10-28.
 
 ## Appears in
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Delight and the Unawakened Love]] — Song of Solomon 1:14; the henna of its vineyards as an
   image for the beloved.
 

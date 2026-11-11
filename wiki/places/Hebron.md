@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed in the second hill-country group as *Kiriath Arba (also called Hebron)* (54). The register counts Caleb's city among Judah's towns without restating his grant.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Kiriath Arba is identified as Hebron and as named after Anak’s father (13). Caleb’s grant is followed by the expulsion of the three sons of Anak (14). The earlier conquest in 10:36–37 and removal in 11:21 remain alongside this account without a supplied chronology.
@@ -93,6 +99,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

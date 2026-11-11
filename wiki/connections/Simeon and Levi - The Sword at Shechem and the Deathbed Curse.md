@@ -6,6 +6,7 @@ tags: [connection]
 # Simeon and Levi - The Sword at Shechem and the Deathbed Curse
 
 ## Passages involved
+- [[The Cities of Judah]] — Joshua 15:20–63; the southern towns later assigned to Simeon.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Baal Peor and the Zeal of Phinehas]] — Numbers 25:1–18.
@@ -33,6 +34,13 @@ tags: [connection]
   [[The Priests Who Kept Their Land and the Levites Who Got None]]
 
 ## Analysis
+
+### Judah's town list now ingested
+
+Joshua 15:20–63 lists, as Judah's, most of the towns that 19:1–9 later gives Simeon — Beersheba,
+Moladah, Hazar Shual, Ezem, Eltolad, Hormah, Ziklag, Ain, Rimmon, Ether, and Ashan. The town-by-town
+comparison is [[Simeon's Lot Within Judah - Joshua 15 and 19]]. Source: stored WEB Joshua 15:20–63;
+19:1–9.
 
 ### Moses’ blessing now ingested
 

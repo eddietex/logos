@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The Philistine-plain section of Judah's cities ends at *the great sea with its coastline* (47), echoing the west border of 15:12.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The southern and northern boundary routes terminate at the sea, whose shore forms Judah’s west border (4, 11–12).
@@ -51,6 +57,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

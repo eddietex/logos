@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The first district of Judah's cities is introduced as *the farthest cities ... toward the border of Edom in the South* (21). Thirty-six names follow, though verse 32 totals them as twenty-nine; several reappear in Simeon's list (19:1–9).
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Achsah describes her grant as land of the South and asks for springs; Caleb gives both upper and lower springs (19). Linked here under the existing South alias, without locating the field or identifying the springs at a modern site.
@@ -76,6 +82,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.

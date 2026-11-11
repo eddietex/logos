@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Allotted to Judah with its towns and villages, *to the brook of Egypt* (47). 10:41 reaches Gaza, 11:22 leaves Anakim there, and 13:3 counts it as remaining; the allotment does not resolve those notices.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### The land that remains — Joshua 13:1–7
 
 The Gazites belong to the five Philistine lordships in land still remaining (3). This explicitly qualifies the campaign reaching Gaza in 10:41 and accords with the remnant there in 11:22.
@@ -31,6 +37,7 @@ Named as the extent of the Avvim’s villages in the account of their displaceme
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Land That Remains]] — Joshua 13:1–7.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.

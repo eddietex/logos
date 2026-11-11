@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The *Enam* of the first lowland group (34), between Tappuah and Jarmuth, is the town this page already proposes as Genesis 38's Enaim. The list confirms only the name and district.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 **Where Tamar sits veiled — and the one place-name in Genesis that is a comment on the scene.**
 
 > **14** …and sat in the gate of Enaim, which is by the way to Timnah; for she saw that Shelah was
@@ -43,6 +49,7 @@ again.**
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Judah and Tamar]] — Genesis 38:14, 21; **the gate, the veil, and the bargain**
 
 ## Related places

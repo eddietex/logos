@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+Joshua 15:57 lists a Timnah in the hill country, with Maon, Carmel, and Ziph. It has its own page, [[Timnah (hill country)]], and is not identified with this border Timnah.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The boundary passes Timnah after Beth Shemesh (10). This is a secure occurrence of the name; whether it is the sheep-shearing destination of Genesis 38 remains unresolved, as the existing identification discussion records.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The *Achzib* of Judah's third lowland group (44), listed with Keilah and Mareshah. This page's identification of Genesis 38's Chezib with that Achzib stands as before: probable, not stated by either text.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 **Named once, in a clause that does nothing else — and the name means *lie*.**
 
 > **5** She yet again bore a son, and named him Shelah: and he was at Chezib, when she bore him. (38:5)
@@ -37,6 +43,7 @@ Asher's territory, far to the north.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Judah and Tamar]] — Genesis 38:5; **one clause, and the only thing in it is the name**
 
 ## Related places

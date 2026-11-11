@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+*The tribe of the children of Judah according to their families* receives its towns district by district (20–62), and *the children of Judah* could not drive out the Jebusites of Jerusalem (63). The tribe is meant, not the patriarch. Several southern towns reappear as Simeon's lot within Judah's (19:1–9); see [[Simeon's Lot Within Judah - Joshua 15 and 19]].
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Caleb’s portion lies among the children of Judah (13). The name denotes the tribal descendants here, not the patriarch acting personally; the tribal allotment contains a particular household’s grant.
@@ -378,6 +384,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The register glosses its own names: Kerioth Hezron *also called Hazor* (25), *Gederah (or Gederothaim)* (36), *Kiriath Sannah (which is Debir)* (49), *Kiriath Arba (also called Hebron)* (54), *Kiriath Baal (also called Kiriath Jearim)* (60). With Baalah (9), Kiriath Jearim carries three names in one chapter. Kiriath Sannah stands beside verse 15's Kiriath Sepher without reconciliation. These are identifications, not narrated renamings.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Kiriath Arba is identified with Hebron and linked to Anak’s father (13); Debir’s former name is Kiriath Sepher (15). The passage supplies these identifications without narrating a renaming ceremony or explaining the meaning of Kiriath Sepher.
@@ -278,6 +284,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 
 ## Key passages
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 

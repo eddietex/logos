@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The list ends with Jerusalem's exception: *As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day* (63). Jerusalem is not itself listed among Judah's towns; Benjamin's list includes *the Jebusite (also called Jerusalem)* (18:28). The tension with the king of Jerusalem's death (10:26) is a difference between ruler and city, discussed in [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]].
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Judah’s borders — Joshua 15:1–12
 
 Verse 8 identifies the Jebusite location with Jerusalem and traces the line on its south side. The border description does not report the city captured.
@@ -74,6 +80,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed in the first hill-country group as *Kiriath Sannah (which is Debir)* (49). Verse 15 gave Debir's former name as *Kiriath Sepher*; the two forms are recorded side by side and not reconciled here.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Formerly Kiriath Sepher, Debir is attacked after Caleb’s action at Hebron. Othniel takes it and receives Achsah as wife (15–17). Joshua’s capture in 10:38–39 and removal of the Anakim in 11:21 remain in tension with this further capture; the text does not describe a reoccupation.
@@ -27,6 +33,7 @@ Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is ass
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

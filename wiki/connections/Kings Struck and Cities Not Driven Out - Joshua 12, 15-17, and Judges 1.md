@@ -9,7 +9,9 @@ tags: [connection]
 - [[The Kings Struck Down]] — Joshua 12:1–24; thirty-one western kings counted.
 - [[The Southern Cities Taken]] — Joshua 10:28–43; Horam of Gezer struck (10:33).
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27; the king of Jerusalem killed.
-- Joshua 13:13; 15:63; 16:10; 17:11–13 — read in stored WEB, not yet ingested.
+- [[The Cities of Judah]] — Joshua 15:20–63; Jerusalem's Jebusites not driven out (63).
+- [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33; Geshur and Maacath remain (13).
+- Joshua 16:10; 17:11–13 — read in stored WEB, not yet ingested.
 - Judges 1:21, 22–25, 27, 29 — WEB checked at bible-api.com, not yet ingested.
 
 ## Analysis
@@ -45,6 +47,11 @@ comparison was made.
 Sources: stored WEB Joshua 10:23–33; 12:1–24; 13:13; 15:63; 16:10; 17:11–13. Judges 1:21, 1:22–25,
 1:27, and 1:29 were checked as single requests through the repository's bible-api.com WEB source
 (`translation=web`) and are not added to raw.
+
+Joshua 15:63 now closes [[The Cities of Judah]]. Jerusalem is not in Judah's list of towns at
+all; it appears only as the exception, and Benjamin's list later names *the Jebusite (also called
+Jerusalem)* among its cities (18:28). Judah's failure is recorded on a city that lies on Judah's
+border (15:8) and in Benjamin's list. Source: stored WEB Joshua 15:8, 15:63, 18:28.
 
 ## Significance
 

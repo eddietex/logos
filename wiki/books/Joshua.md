@@ -135,6 +135,13 @@ Jerusalem’s south side. Territorial allocation does not establish completed oc
 Othniel captures Debir; Achsah asks for springs and receives both upper and lower springs.
 The earlier conquest reports remain alongside these local actions without a stated chronology.
 
+[[The Cities of Judah]] (15:20–63) gives the same inheritance a second time, as a register of
+towns by district — the far south, the lowland, the Philistine plain, the hill country, the
+wilderness — most groups closed by a count. The campaign's cities reappear as entries, Ekron,
+Ashdod, and Gaza are assigned though still remaining, the southern total of *twenty-nine* stands
+against thirty-six names, and the list ends on the Jebusites of Jerusalem, whom Judah
+*couldn’t drive out*.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -151,7 +158,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **25 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **26 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -178,7 +185,7 @@ Plan drawn 2026-11-10 from the stored WEB. **25 / 42 pericopes ingested.**
 - [x] [[Caleb Claims Hebron]] — Joshua 14:6–15
 - [x] [[The Borders of Judah]] — Joshua 15:1–12
 - [x] [[Achsah Asks for Springs]] — Joshua 15:13–19
-- [ ] The Cities of Judah — Joshua 15:20–63
+- [x] [[The Cities of Judah]] — Joshua 15:20–63
 - [ ] The Inheritance of Ephraim — Joshua 16:1–10
 - [ ] The Inheritance of Manasseh — Joshua 17:1–13
 - [ ] The Children of Joseph Ask for More — Joshua 17:14–18
@@ -226,6 +233,7 @@ Plan drawn 2026-11-10 from the stored WEB. **25 / 42 pericopes ingested.**
 - [[Gaza]], [[Gath]], and [[Ashdod]] — where a remnant of the Anakim stays (11:22).
 - [[Taanach]], [[Megiddo]], [[Dor]], and [[Gezer]] — royal cities counted in 12:21–23 whose inhabitants remain (16:10; 17:11–12).
 - [[Geshur]] and [[Maacath]] — Og's border peoples, never driven out (12:5; 13:13).
+- [[Ekron]], [[Ashdod]], and [[Gaza]] — allotted to Judah while still counted as remaining (15:45–47; 13:3).
 - [[Jericho]]
 - [[Ai]]
 - [[Bethel]]

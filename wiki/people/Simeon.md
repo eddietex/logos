@@ -7,6 +7,10 @@ tags: [person]
 
 ## Overview
 
+### Simeon's towns inside Judah's list — Joshua 15 and 19
+
+Judah's register of towns (Joshua 15:20–63) does not mention Simeon, but most of Simeon's later lot (19:1–9) is drawn from its southern district, *for the portion of the children of Judah was too much for them* (19:9). See [[Simeon's Lot Within Judah - Joshua 15 and 19]] and [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63; 19:1–9.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Comparison only: Simeon has no named saying in Deuteronomy 33, unlike Genesis 49:5–7. The omission

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judah’s cities — Joshua 15:20–63
+
+The inheritance is named again, now as towns *with their villages*, counted by district (20–62). Allotment and possession remain distinct: Ekron, Ashdod, and Gaza are assigned (45–47) though 13:2–3 counted them as remaining, and the list closes on Jerusalem's Jebusites living *to this day* among Judah (63).
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Inheritance moves from Judah’s tribal boundaries to Caleb’s portion and Achsah’s request for water (13–19). A land grant and the resources needed to use it are distinct gifts; the request for springs makes that practical distinction visible.
@@ -937,6 +943,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 

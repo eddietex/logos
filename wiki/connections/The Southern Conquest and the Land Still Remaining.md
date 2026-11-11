@@ -6,6 +6,7 @@ tags: [connection]
 # The Southern Conquest and the Land Still Remaining
 
 ## Passages involved
+- [[The Cities of Judah]] — Joshua 15:20–63; southern cities allotted to Judah.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:9–18; the southern kings counted.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
@@ -49,6 +50,15 @@ deciding between Hoham (10:23–26) and the king of 10:37, and *the king of Geze
 though Gezer itself was not reported taken. It also counts kings of southern cities the
 narrative never fights — Geder, Hormah, Arad, Adullam. See [[The Kings Struck Down]] and
 [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]. Source: stored WEB Joshua 12:9–18.
+
+### The campaign's cities as Judah's towns
+
+Judah's register (15:20–63) folds the southern campaign into an inheritance: Libnah, Lachish,
+Eglon, Makkedah, Hebron, and Debir appear as entries among dozens of towns the narrative never
+visits, and Ekron, Ashdod, and Gaza are allotted *with its towns and its villages* (45–47) though
+13:2–3 lists them as remaining and 11:22 leaves Anakim in Gaza and Ashdod. The Philistine section
+alone carries no count. The list assigns; it does not report possession. See [[The Cities of Judah]]. Source:
+stored WEB Joshua 10:28–39; 11:22; 13:2–3; 15:20–63.
 
 ## Significance
 

@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+The Ain among Judah's southern cities (Joshua 15:32) has its own page, [[Ain (Negev)]].
+
 A landmark used to locate Riblah on its east side in the eastern boundary description.
 
 Source: stored WEB Numbers 34:11. No precise modern site is assigned here.

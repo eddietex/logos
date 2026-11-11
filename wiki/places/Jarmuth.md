@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+A Jarmuth is listed in the first lowland group (35), beside Adullam, Socoh, and Azekah. The district suits the coalition city of 10:3, and the wiki keeps one page, but the list itself does not say it is that city. The Jarmuth among Issachar's Levitical cities (21:29) lies elsewhere and is not covered here.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Its king, [[Piram]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
@@ -23,6 +29,7 @@ Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

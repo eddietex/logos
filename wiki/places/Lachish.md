@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed in the second lowland group (39), with Bozkath and Eglon. The city Joshua captured in 10:31–32 is now part of Judah's inheritance.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### The southern campaign — Joshua 10:28–43
 
 Israel camps against the city and takes it on the second day (31–32). Horam of Gezer attempts relief and is defeated (33); this passage does not name another king of Lachish.
@@ -29,6 +35,7 @@ Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.

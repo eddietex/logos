@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed in the second lowland group (39), beside Lachish. Captured in 10:34–35; now allotted to Judah.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### The southern campaign — Joshua 10:28–43
 
 Israel captures and destroys the city on the day of its attack (34–35). Its former king Debir has already died at Makkedah; the city’s capture is a separate action.
@@ -29,6 +35,7 @@ Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.

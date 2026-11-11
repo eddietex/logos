@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+A Rabbah in Judah's hill country (Joshua 15:60) has its own page, [[Rabbah (Judah)]].
+
 ### Eastern allotments — Joshua 13:8–33
 
 Locates the Aroer in Gad’s boundary (25). The verse does not report Israel conquering Rabbah.

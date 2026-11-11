@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed in the first lowland group (35). This is the Shephelah setting the page already gives for Genesis 38, now as one of Judah's allotted towns.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 **The Canaanite town Judah goes down to when he leaves his brothers — and the first place any son of
 Jacob lives apart from the household.**
 
@@ -43,6 +49,7 @@ which preserves the name.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Judah and Tamar]] — Genesis 38:1, 12, 20; where Judah settles, where [[Hirah the Adullamite]] is
   from, and where the marriage to [[Shua's Daughter]] takes place
 - [[The Kings Struck Down]] — Joshua 12:1–24; its king counted; no battle narrated.

@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+Joshua 15:23–25 lists a southern Hazor, Hazor Hadattah, and Kerioth Hezron *also called Hazor*; they have their own pages, starting with [[Hazor (Judah)]], and are not this city.
+
 Jabin’s royal city and the former head of the allied kingdoms (1, 10). Joshua kills its king and inhabitants and burns it (10–11). Among the cities standing on their mounds, Hazor alone is burned (13).
 
 Source: stored WEB Joshua 11:1–15.

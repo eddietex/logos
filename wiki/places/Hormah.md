@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed among Judah's southern cities (30), and again in Simeon's list (19:4). The earlier notices of its destruction (Numbers 21:1–3) and of its king counted (Joshua 12:14) stand beside this allotment without comment.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Deuteronomy 1:44 recalls the rout reaching Hormah, locating the beating in Seir and naming Amorites
@@ -43,6 +49,7 @@ checked.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.

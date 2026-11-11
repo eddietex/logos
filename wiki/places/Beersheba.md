@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s cities — Joshua 15:20–63
+
+Listed among Judah's southern cities (28), and again first in Simeon's list (19:2), whose inheritance lies within Judah's. See [[Simeon's Lot Within Judah - Joshua 15 and 19]]. No event here is narrated in this unit.
+
+See [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63.
+
 The well at the southern edge of the settled land, and the patriarchs' last address before the
 desert. It is where Abraham swears a treaty, where Isaac digs and is met by God, where Jacob spends
 his last night in Canaan, and — in the phrase every reader of the Old Testament knows — the southern
@@ -71,6 +77,7 @@ every one of them.
 
 ## Appears in
 
+- [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:14; *"the wilderness of Beersheba"*,
   where Hagar wanders and the water runs out
 - [[The Treaty at Beersheba]] — Genesis 21:22–34; the oath, the seven ewe lambs, the naming, the
