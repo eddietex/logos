@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+The commander identifies his army as Yahweh's, and the place of encounter is holy (14–15).
+The scene places Joshua under divine authority without expressly resolving whether the
+commander is Yahweh himself or his representative.
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Passover and the end of manna — Joshua 5:10–12
 
 No divine speech or name occurs in these three verses. Read with Exodus 16 and Joshua 5:6,
@@ -3825,6 +3833,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

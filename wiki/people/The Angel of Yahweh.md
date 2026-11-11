@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+Joshua's encounter with the commander of Yahweh's army recalls the drawn sword in
+Numbers 22:23, 31 and the holy-ground command in Exodus 3:5. Unlike those passages,
+Joshua 5:13–15 does not explicitly call its figure Yahweh's angel. This is a comparison,
+not an additional unambiguous identification; see
+[[Commander of Yahweh's Army (of Joshua's time)]].
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Balaam’s donkey — Numbers 22:22–35
 
 The angel blocks the road with a drawn sword, is seen first by the donkey, and tells Balaam that her turning aside saved his life. He questions the beatings and permits further travel only under a restriction to his word (22–35). Here the messenger opposes a traveler rather than simply guiding or reassuring him.
@@ -350,6 +360,8 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 - Exodus 32 — The angel is promised before the people, with judgment still pending (32:34). [[The Golden Calf]]
 
 ## Appears in
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15 (comparison; identity not asserted).
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.
 

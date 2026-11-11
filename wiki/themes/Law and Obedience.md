@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+Joshua asks what his lord says to his servant and obeys the footwear command (14–15).
+The human commander is first a recipient of instruction. The verse records an immediate
+command rather than a new general statute about footwear.
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 Joshua obeys the immediate command (2–3), while verse 6 remembers the earlier generation’s refusal to listen. The contrast concerns obedience, not military capacity alone.
@@ -1393,6 +1401,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+Joshua encounters the armed commander by Jericho (13). The ground on which he stands
+is called holy (15), but the text gives no exact site and does not declare the whole
+city a sanctuary. Jericho has not yet fallen in this unit.
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Passover and the end of manna — Joshua 5:10–12
 
 The plains of Jericho locate the Passover at Gilgal (10). Israel eats the land’s produce
@@ -90,6 +98,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

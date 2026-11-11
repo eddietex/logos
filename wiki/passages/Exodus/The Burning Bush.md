@@ -622,6 +622,8 @@ Exodus that clause is his name.** See [[Call and Election]].
 
 ## Cross-references
 
+- [[Holy Ground at the Bush and Before Jericho]] — compare [[The Commander of Yahweh's Army]], Joshua 5:13–15.
+
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:7; *"saw our affliction … and our oppression"*, the *ʿŏnî* and *laḥaṣ* of 3:7, 9.
 - [[The Tears of the Oppressed]] — Ecclesiastes 4:1–3 describes tears without a narrated intervention, in
   tension with Exodus 3:7–9’s announced deliverance; see

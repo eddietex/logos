@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+The commander tells Joshua to remove his shoes because the place is holy (15), closely
+recalling Exodus 3:5. Holy presence orders the leader's approach outside the tabernacle;
+no permanent sanctuary or altar is founded in these verses.
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 Joshua commands the people to sanctify themselves before the promised wonders (5). The text specifies no washing or other ritual here. The distance from the ark is expressly explained by the need to see the unfamiliar route (4); a further ritual explanation should not replace that reason.
@@ -766,6 +774,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

@@ -52,6 +52,10 @@ recalls judgment within the continuing land promise. Yahweh declares Egypt’s r
 after Israel eats its produce. Wilderness provision gives way to food from Canaan before
 Jericho is captured.
 
+[[The Commander of Yahweh's Army]] (5:13–15) places Joshua before the armed commander of Yahweh's army.
+He asks for instruction and removes his shoes on holy ground, recalling Moses' encounter
+at the bush before the conquest narrative begins.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -68,7 +72,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **7 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **8 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -77,7 +81,7 @@ Plan drawn 2026-11-10 from the stored WEB. **7 / 42 pericopes ingested.**
 - [x] [[The Twelve Stones from the Jordan]] — Joshua 4:1–24
 - [x] [[The Second Circumcision at Gilgal]] — Joshua 5:1–9
 - [x] [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12
-- [ ] The Commander of Yahweh's Army — Joshua 5:13–15
+- [x] [[The Commander of Yahweh's Army]] — Joshua 5:13–15
 - [ ] The Fall of Jericho — Joshua 6:1–27
 - [ ] The Sin of Achan — Joshua 7:1–26
 - [ ] The Capture of Ai — Joshua 8:1–29

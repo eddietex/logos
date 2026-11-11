@@ -65,6 +65,8 @@ encounter within a named territory.
 
 ## Cross-references
 
+- [[The Drawn Sword Before Balaam and Joshua]] — compare [[The Commander of Yahweh's Army]], Joshua 5:13–15.
+
 - [[Balak Sends for Balaam]] — Numbers 22:1–21; permission and the restriction already given.
 - [[A Permitted Journey and a Deadly Encounter - Moses and Balaam]] — comparison with Exodus 4:18–31, without equating the travelers’ missions.
 - [[Care for the Animal - Proverbs 12.10 and Exodus 23]] — the angel’s rebuke joins the wiki’s

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+Joshua moves from asking which side the armed man supports to falling down, worshiping,
+and asking for instruction as a servant (13–14). He obeys the command to remove his shoes
+(15). Leadership here begins with receiving authority, not issuing an order.
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 Joshua makes flint knives and circumcises the wilderness-born males at Yahweh’s command (2–7). The nation waits in camp to heal (8); this is leadership in covenant obedience before battle.
@@ -225,6 +233,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

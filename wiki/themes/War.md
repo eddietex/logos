@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The commander by Jericho — Joshua 5:13–15
+
+The armed figure identifies himself as commander of Yahweh's army (13–14). Joshua
+responds as a servant rather than directing that army. Its membership is unspecified,
+and no battle occurs in the unit. The reply does not establish divine neutrality.
+
+See [[The Commander of Yahweh's Army]]. Source: stored WEB Joshua 5:13–15; comparisons as cited.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The enemy kings lose courage (1), yet Israel pauses for circumcision and recovery (2–8). The text records no battle here and gives no military explanation of why the camp is not attacked.
@@ -537,6 +545,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

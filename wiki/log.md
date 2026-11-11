@@ -24672,3 +24672,26 @@ of wilderness Passover observance is inferred from narrative silence.
 Validation: scripts/link-check.sh passed with 56 expected not-yet-started book targets;
 no wrapped or unexpected dangling links. No title collision, boundary change, or unresolved
 operational issue. Authored by OpenAI Codex.
+
+## [2026-11-10] ingest | Joshua 5.13-15 — The Commander of Yahweh's Army
+
+Ingested one planned pericope in auto mode; the boundary is unchanged. Created the passage,
+Commander of Yahweh's Army (of Joshua's time), Holy Ground at the Bush and Before Jericho,
+and The Drawn Sword Before Balaam and Joshua. The unnamed figure receives a period-qualified
+title rather than being silently identified with the Angel of Yahweh or Christ.
+
+Revised Joshua (son of Nun), God, The Angel of Yahweh (comparison explicitly distinguished
+from identity), Jericho, Holiness, War, and Law and Obedience. Added reciprocal connections
+on The Burning Bush and Balaam's Donkey. Updated the Joshua overview and queue, books index,
+affected category rows and connection subindex, and dashboard counts. Joshua is now 8 / 42;
+totals are 402 passages, 261 people, 227 places, 87 themes, and 801 connections.
+
+The full three-verse quotation is copied from stored WEB Joshua 5:13–15. Comparisons were
+verified in stored WEB Exodus 3:1–12 and Numbers 22:22–35 and written in paraphrase.
+No raw text was altered, no unstored book was fetched, and no Hebrew wording claim was added.
+The commander's reply is not treated as divine neutrality; the drawn-sword comparison does
+not transfer Balaam's guilt to Joshua. The commander's identity and army's composition remain
+unspecified by this unit. No contradiction requiring resolution was found in the new synthesis.
+
+Validation: scripts/link-check.sh passed, with 56 expected not-yet-started book targets;
+git diff --check passed. Authored by Codex. No workflow or harness changes were needed.
