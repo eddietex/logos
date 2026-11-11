@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Three tribal lots — Joshua 19:1–23
+
+Listed among Simeon’s towns within Judah’s inheritance (19:2); verse 9 explains the shared territory by Judah’s oversized portion. No new capture is narrated. The stored WEB gives Sheba as an alternative name in parentheses (2), not a separate fourteenth town.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 Listed among Judah's southern cities (28), and again first in Simeon's list (19:2), whose inheritance lies within Judah's. See [[Simeon's Lot Within Judah - Joshua 15 and 19]]. No event here is narrated in this unit.
@@ -76,6 +82,7 @@ is the standing formula for the whole land, north to south, and Beersheba is the
 every one of them.
 
 ## Appears in
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Birth of Isaac and the Sending of Hagar]] — Genesis 21:14; *"the wilderness of Beersheba"*,

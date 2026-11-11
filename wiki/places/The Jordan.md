@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Three tribal lots — Joshua 19:1–23
+
+Issachar’s border ends at the Jordan (22); no crossing is narrated.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 The northern boundary begins at the Jordan (12); the river forms the entire eastern side (20). Its southern end meets the Salt Sea at the end of the south border (19).
@@ -314,6 +320,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

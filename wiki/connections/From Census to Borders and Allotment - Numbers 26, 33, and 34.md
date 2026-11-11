@@ -6,6 +6,7 @@ tags: [connection]
 # From Census to Borders and Allotment - Numbers 26, 33, and 34
 
 ## Passages involved
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Borders of Judah]] — Joshua 15:1–12.
@@ -19,6 +20,12 @@ tags: [connection]
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### Three tribal lots — Joshua 19:1–23
+
+Judah’s portion is too large, and Simeon’s inheritance comes from within it (19:9). This supplies an explicit size adjustment alongside the lots, qualifying any inference from Joshua 18:5 that Judah’s holdings cannot be redistributed. The text does not provide a population-to-acreage calculation.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
 
 ### The survey at Shiloh — Joshua 18:1–10
 

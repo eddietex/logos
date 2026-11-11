@@ -44,7 +44,7 @@ in the narrator’s day.
 - [[Adoni-Zedek]]
 - [[Hoham]]
 - [[Piram]]
-- [[Japhia]]
+- [[Japhia (person)]]
 - [[Debir (person)]]
 - Israel’s men, commanders, and guards — unnamed collective participants.
 

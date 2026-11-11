@@ -21,7 +21,7 @@ See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; compari
 
 ### The five kings at Makkedah — Joshua 10:16–27
 
-Its king, [[Japhia]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
+Its king, [[Japhia (person)]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
 
 See [[The Five Kings in the Cave at Makkedah]]. Source: stored WEB Joshua 10:16–27.
 

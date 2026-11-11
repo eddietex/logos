@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Three tribal lots — Joshua 19:1–23
+
+The descendants receive the second lot by families, with thirteen towns and a further four inside Judah’s share (1–9). The explanation is Judah’s surplus. Earlier synthesis of absorption must be qualified: this passage still calls Simeon a tribe with its own inheritance; it does not narrate disappearance.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Simeon's towns inside Judah's list — Joshua 15 and 19
 
 Judah's register of towns (Joshua 15:20–63) does not mention Simeon, but most of Simeon's later lot (19:1–9) is drawn from its southern district, *for the portion of the children of Judah was too much for them* (19:9). See [[Simeon's Lot Within Judah - Joshua 15 and 19]] and [[The Cities of Judah]]. Source: stored WEB Joshua 15:20–63; 19:1–9.
@@ -163,6 +169,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29 (comparison: absent).
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

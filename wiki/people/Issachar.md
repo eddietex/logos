@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Three tribal lots — Joshua 19:1–23
+
+The descendants receive the fourth lot with sixteen cities and a border ending at the Jordan (17–23). Genesis 49:14–15’s forced labor is not reported here: this is an allotment register, not a report of the tribe’s labor status.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The tribal territory borders Manasseh on the east and contains holdings assigned to Manasseh
@@ -143,6 +149,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:15 — Issachar marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

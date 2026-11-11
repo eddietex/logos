@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three tribal lots — Joshua 19:1–23
+
+The second, third, and fourth lots continue the Shiloh distribution (1, 10, 17; compare 18:10). Allocation by lot coexists with the practical explanation that Judah’s portion was too large (9); neither equal acreage nor the lot mechanism is specified.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 Benjamin’s lot comes up between Judah and Joseph (11), giving a concrete result of the lots cast before Yahweh in 18:10. The passage does not describe the physical mechanism or infer equal acreage.
@@ -470,6 +476,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 

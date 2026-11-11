@@ -6,11 +6,24 @@ tags: [connection]
 # Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33
 
 ## Passages involved
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Jacob Blesses His Sons]] — Genesis 49:1–28.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Golden Calf]] — Exodus 32:26–29, a comparison for Levi’s loyalty above kin.
 
 ## Analysis
+
+### Allotments beside the tribal sayings
+
+Joshua 19:1–23 now provides Simeon, Zebulun, and Issachar’s lots. Simeon remains a named
+tribe with inheritance inside Judah, qualifying any inference of disappearance from its
+omission in Deuteronomy 33. Zebulun’s register (10–16) names neither the sea nor Sidon as
+an endpoint, unlike Genesis 49:13’s maritime saying. That geographical tension remains;
+Joshua supplies no explanation through trade access or an otherwise unmentioned corridor.
+Issachar’s register does not narrate the forced labor anticipated in Genesis 49:15.
+These are comparisons, not fulfillment formulas asserted by Joshua.
+
+Source: stored WEB Joshua 19:1–23 and Genesis 49:5–7, 13–15.
 
 Both poems bless the tribes before the speaker’s death. Genesis addresses sons and names
 their futures; Deuteronomy sets tribal sayings within Yahweh’s coming and Israel’s security.

@@ -3,9 +3,11 @@ type: person
 also_known_as: []
 tags: [person]
 ---
-# Japhia
+# Japhia (person)
 
 ## Overview
+
+Distinct from [[Japhia (city)]], a Zebulun boundary town in Joshua 19:12.
 
 ### The five kings at Makkedah — Joshua 10:16–27
 

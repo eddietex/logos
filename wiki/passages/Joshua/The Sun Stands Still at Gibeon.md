@@ -46,7 +46,7 @@ reports the return to Gilgal.
 - [[Adoni-Zedek]]
 - [[Hoham]]
 - [[Piram]]
-- [[Japhia]]
+- [[Japhia (person)]]
 - [[Debir (person)]]
 - Gibeon’s men and the armies — collective actors, without individual names.
 

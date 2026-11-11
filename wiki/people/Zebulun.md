@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Three tribal lots — Joshua 19:1–23
+
+The descendants receive the third lot, a boundary circuit and twelve cities with villages (10–16). Genesis 49:13 speaks of ships, sea, and Sidon; this register names neither a sea endpoint nor Sidon. The geographical tension remains unresolved; no commercial corridor is invented.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Zebulun’s going out is paired with Issachar’s tents; together they summon peoples to a mountain and
@@ -126,6 +132,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:16 — Zebulun marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Three tribal lots — Joshua 19:1–23
+
+Listed among Simeon’s towns within Judah’s inheritance (19:4); verse 9 explains the shared territory by Judah’s oversized portion. No new capture is narrated.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 Listed among Judah's southern cities (30), and again in Simeon's list (19:4). The earlier notices of its destruction (Numbers 21:1–3) and of its king counted (Joshua 12:14) stand beside this allotment without comment.
@@ -48,6 +54,7 @@ checked.
 **Joshua 12:1–24 — the list of kings.** A king of Hormah is counted among those *Joshua and the children of Israel struck* west of the Jordan (12:14) — between the naming in Numbers 21:3 and the naming in Judges 1:17, and fitting neither easily. See [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

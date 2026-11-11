@@ -42,7 +42,7 @@ Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied 
 - [[Joshua (son of Nun)]]
 - [[Hoham]]
 - [[Piram]]
-- [[Japhia]]
+- [[Japhia (person)]]
 - [[Debir (person)]]
 
 ## Themes associated

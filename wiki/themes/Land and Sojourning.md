@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three tribal lots — Joshua 19:1–23
+
+Family inheritance has different forms: Simeon’s towns lie inside Judah’s oversized share, Zebulun receives a boundary circuit and twelve cities, and Issachar receives sixteen cities with a Jordan endpoint. Allotment does not itself establish occupation (1–23).
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 Inheritance is defined by family, borders, cities, and villages (11–28). The list does not establish occupation. Beth Arabah’s inclusion in both Judah’s and Benjamin’s lists (15:61; 18:22) remains an explicit unresolved overlap.
@@ -976,6 +982,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

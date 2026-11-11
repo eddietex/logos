@@ -6,6 +6,7 @@ tags: [connection]
 # The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots
 
 ## Passages involved
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
@@ -35,6 +36,12 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### Three tribal lots — Joshua 19:1–23
+
+The second through fourth lots give concrete outcomes of the Shiloh distribution (19:1, 10, 17). Verse 9 also gives a practical reason for Simeon’s location inside Judah. The text does not oppose this adjustment to the lot or describe the drawing mechanism.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
 
 ### Benjamin’s inheritance
 

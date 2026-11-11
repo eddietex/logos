@@ -53,7 +53,7 @@ thirty-one* (9–24).
   patriarchs.
 - The western kings, where the wiki already has a page for them:
   - [[King of Jericho (of Joshua's time)]] and [[King of Ai (of Joshua's time)]] (9).
-  - [[Adoni-Zedek]] (Jerusalem), [[Hoham]] (Hebron), [[Piram]] (Jarmuth), [[Japhia]] (Lachish),
+  - [[Adoni-Zedek]] (Jerusalem), [[Hoham]] (Hebron), [[Piram]] (Jarmuth), [[Japhia (person)]] (Lachish),
     and [[Debir (person)]] (Eglon) — the five kings of 10:3, listed here by city only (10–12).
   - [[Horam]] (Gezer, 12) and [[King of Debir (of Joshua's time)]] (13).
   - [[King of Arad (of Moses' time)]] — see the note on Hormah and Arad below (14).

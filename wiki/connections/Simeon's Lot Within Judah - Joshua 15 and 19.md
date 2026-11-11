@@ -6,12 +6,18 @@ tags: [connection]
 # Simeon's Lot Within Judah - Joshua 15 and 19
 
 ## Passages involved
+- [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Cities of Judah]] — Joshua 15:20–63; Judah's towns by district.
-- Joshua 19:1–9 — Simeon's lot; read in stored WEB, not yet ingested.
 - [[Jacob Blesses His Sons]] — Genesis 49:5–7; Simeon and Levi to be scattered.
 - [[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]] — the thread this extends.
 
 ## Analysis
+
+### Three tribal lots — Joshua 19:1–23
+
+The now-ingested register explicitly explains Simeon’s share within Judah by Judah’s surplus (19:9). The WEB’s Beersheba (or Sheba) counts as one entry, giving thirteen towns in verses 2–6 and four in verse 7. This explains overlapping allotments without claiming that Simeon has already ceased to exist.
+
+See [[The Lots of Simeon, Zebulun, and Issachar]]. Source: stored WEB Joshua 19:1–23; comparisons as cited.
 
 Joshua 19 gives Simeon no border of its own. Its lot is a list of towns, and the list explains
 itself: *Out of the part of the children of Judah was the inheritance of the children of
@@ -46,7 +52,7 @@ Sources: stored WEB Joshua 15:20–63 and 19:1–9; Genesis 49:5–7.
 
 ## Significance
 
-The tribe of Simeon is given land without a frontier. Its towns sit inside another tribe's
+The tribe of Simeon is given towns within Judah rather than an independent boundary circuit. Its towns sit inside another tribe's
 register, and Joshua 15's southern total of *twenty-nine* against thirty-six listed names may or
 may not relate to that sharing — the text does not say. What it does show is that the allotment
 lists are working documents: the same town can be counted twice, once by territory and once by
