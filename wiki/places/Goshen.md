@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+The Goshen named in Joshua 10:41 belongs to the Canaan campaign and is treated separately as [[Goshen (Canaan)]]. The shared name does not extend this Egyptian region into Joshua’s southern campaign.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 **The district of Egypt that Israel lives in for four hundred years, named for the first time in
 Scripture by [[Joseph]] in the message he sends to his father** — *"You shall dwell in the land of
 Goshen, and you will be near to me"* (Genesis 45:10).
@@ -31,6 +37,8 @@ of Israel were, there was no hail"* (9:26). See
 [[Land and Sojourning]] and [[The Nations]].
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[Joseph Reveals Himself]] — Genesis 45:10; **the first mention in Scripture.** Joseph assigns it in
   the message dictated for his father, **before Pharaoh has offered anything**, and his stated reason

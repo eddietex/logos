@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+The city and its king are destroyed on the day of the five kings’ execution (28). The city’s own king is distinct from the five rulers imprisoned in its cave.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 The cave at Makkedah becomes first a hiding place, then a guarded prison, and finally the burial
@@ -22,6 +28,8 @@ next pericope, not within this one.
 Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

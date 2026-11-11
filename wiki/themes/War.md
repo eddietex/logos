@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The southern campaign — Joshua 10:28–43
+
+The six city accounts repeat capture and destruction, including inhabitants rather than only opposing soldiers (28–40). Verse 42 attributes victory to Yahweh. Lachish takes two days (32), so the campaign summary is not a claim that every battle occurred on one day.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Joshua guards the kings but orders the army to keep pursuing (18–19). The sweeping slaughter
@@ -598,6 +604,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

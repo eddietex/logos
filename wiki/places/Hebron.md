@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Joshua captures Hebron, its dependent cities, and its king (36–37). This creates a narrative tension with Hoham’s death at Makkedah (10:23–26). A successor is possible but not stated. Joshua 15:13–17 later reports Caleb’s action at Hebron and Debir; the relation between these accounts is not explained.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Its king, [[Hoham]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
@@ -65,6 +71,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 (Joshua 20:7) and a Levitical city (21:11–13).
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

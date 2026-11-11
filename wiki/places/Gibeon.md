@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+The city is a geographical limit in the campaign summary (41), not a newly destroyed city. Its protected status from Joshua 9 and 10:1–15 remains distinct.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### At Gibeon — Joshua 10:1–15
 
 A great city with mighty men, greater than Ai, is attacked because it made peace with Israel (1–5).
@@ -22,6 +28,8 @@ Its envoys are identified as Hivites (7); it is one of four cities protected by 
 Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

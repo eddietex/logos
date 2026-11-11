@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The southern campaign — Joshua 10:28–43
+
+Horam’s attempt to help Lachish fails (33); the kings of Makkedah, Libnah, Hebron, and Debir fall with their cities. The unnamed king of Hebron in 37 creates a tension with Hoham’s prior death, not a securely identified succession.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Five city kings are publicly subjected to Israel’s commanders, then killed and displayed (23–26).
@@ -444,6 +450,8 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

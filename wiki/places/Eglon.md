@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Israel captures and destroys the city on the day of its attack (34–35). Its former king Debir has already died at Makkedah; the city’s capture is a separate action.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Its king, [[Debir (person)]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
@@ -20,6 +26,8 @@ distinct from the later city Debir.
 Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

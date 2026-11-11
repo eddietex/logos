@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Kadesh Barnea marks one endpoint of the reach described in verse 41, extending to Gaza. The summary does not describe a separate siege here.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 The waters of Meribah of Kadesh in Zin are named as the scene of the trespass behind Moses’
@@ -136,6 +142,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

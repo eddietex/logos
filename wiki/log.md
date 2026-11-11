@@ -24868,3 +24868,28 @@ expected baseline. No unresolved operational or link issue; interpretive tension
   or new source-language assertion made.
 - Validation: scripts/link-check.sh passed, with 56 expected not-yet-started book targets;
   git diff --check passed. No unresolved ingest blocker.
+
+## [2026-11-11] ingest | Joshua 10.28-43 — The Southern Cities Taken
+
+Ingested [[The Southern Cities Taken]], retaining the planned boundary. Created 10 pages:
+the passage, Horam and three unnamed kings qualified by Joshua’s time, four places
+(Libnah the city, Debir the city, Gezer, and Goshen in Canaan), and
+[[The Southern Conquest and the Land Still Remaining]]. Revised 31 existing pages including
+the book, affected people/places/themes, two connections, category indexes, counts, and this log.
+Joshua is now 16 / 42; totals are 410 passages, 272 people, 243 places, 87 themes, 814 connections.
+
+Kept Libnah distinct from the wilderness camp, Debir from the king of Eglon, and Canaan’s
+Goshen from Egypt’s. Regional terrain descriptions remain in the passage rather than receiving
+speculative site pages. No conjectural successor to Hoham was created: the unnamed king of Hebron
+in 10:37 is explicitly left in tension with Hoham’s earlier death. Distinguished Horam’s relief
+force from Gezer itself. Recorded the tensions between the southern summary, remaining land,
+and later action at Hebron and Debir without asserting an undocumented chronology.
+
+Quotations were checked against stored WEB Joshua 10; comparisons use stored WEB Deuteronomy 20
+and Joshua 13, 15, and 16, without ingesting those later pericopes. No raw text, source-language
+claim, external quotation, or harness instruction was added or changed. Verified the affected
+category rows, passage-title uniqueness, and frontmatter-based totals. The first extra index
+audit used an overly strict row pattern; an existing Canaan row includes prose in its first
+cell, so verification was corrected to match the initial wikilink. No content change was needed
+for that audit. scripts/link-check.sh passed: no wrapped links or unexpected dangling targets;
+56 unstarted book links remain the expected baseline.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The southern campaign — Joshua 10:28–43
+
+The campaign claims the southern kings and land (40–42), yet Joshua 13:1–3 says much land remains and 15:13–17 reports further action at Hebron and Debir. Military victory and enduring settlement are not simply interchangeable; the narrative tension remains.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The distinction between distant foreigners and neighbors living within the land determines the
@@ -874,6 +880,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

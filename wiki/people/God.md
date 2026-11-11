@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Yahweh delivers Libnah and Lachish (30, 32), and the narrator attributes the campaign’s success to his fighting for Israel (42). Verse 40 presents the destruction as obedience to his command, recalling Deuteronomy 20:16–18; it is not a new direct speech.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Joshua attributes the delivered enemy to Yahweh (19) and promises that Yahweh will similarly
@@ -3896,6 +3902,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

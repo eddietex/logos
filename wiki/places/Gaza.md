@@ -7,12 +7,20 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Gaza marks the reach from Kadesh Barnea in verse 41, without a separate capture narrative. Joshua 13:1–3 still lists Philistine territory, including the Gazites, as remaining; comprehensive language here does not settle permanent possession.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 Named as the extent of the Avvim’s villages in the account of their displacement by the Caphtorim
 (Deuteronomy 2:23). Israel does not conquer Gaza in this pericope.
 
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
 
 ## Related places

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Joshua leads Israel through six city attacks, defeats Horam’s relief force, and returns to Gilgal (28–43). The repeated attribution to Yahweh does not remove Joshua and Israel’s agency in the killing.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Joshua secures the hidden kings while continuing the pursuit (18–19), summons the commanders to put
@@ -296,6 +302,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
+
 - [[The Capture of Ai]] — Joshua 8:1–29 (now ingested): inhabitants devoted, goods and livestock kept.
 - [[The Sin of Achan]] — Joshua 7:1–26 (now ingested).
 
@@ -36,6 +38,12 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### The southern cities
+
+Joshua 10:28–40 now supplies the repeated city-by-city destruction reports. Verse 40 explicitly presents the destruction of all who breathed as obedience, matching the command in stored WEB Deuteronomy 20:16–18. Inhabitants are included; the passage supplies no separate rule for plunder. Its comprehensive summary remains in tension with the later accounts of remaining land and renewed action (Joshua 13:1–3; 15:13–17). No new Hebrew lexical claim is made.
+
+Source: stored WEB Joshua 10 and the passages cited.
 
 ### Joshua 8 now ingested
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The southern campaign — Joshua 10:28–43
+
+Verse 40 interprets destruction of all who breathed as obedience to Yahweh’s command, recalling Deuteronomy 20:16–18. The severity toward inhabitants must remain explicit rather than being reduced to destruction of idols.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Taking down the bodies at sunset and enclosing them in the cave (27) accords with Deuteronomy
@@ -1433,6 +1439,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

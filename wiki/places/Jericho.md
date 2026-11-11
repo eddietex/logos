@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+The treatment of its king supplies the precedent for the kings of Makkedah and Libnah (28, 30). No new attack on Jericho occurs.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### At Gibeon — Joshua 10:1–15
 
 The report compares Ai’s fate with Joshua’s treatment of Jericho and its king (1). The battle now
@@ -138,6 +144,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

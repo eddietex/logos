@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Joshua and all Israel return to the camp here after the southern campaign (43). This repeats 10:15’s return notice; reading that earlier notice as anticipatory remains an interpretation.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### At Gibeon — Joshua 10:1–15
 
 Joshua receives the plea at the camp and marches from it all night (6–9). Verse 15 reports a return
@@ -60,6 +66,8 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

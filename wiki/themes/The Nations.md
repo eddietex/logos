@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The southern campaign — Joshua 10:28–43
+
+The summary reports comprehensive destruction (40), while Gibeon remains protected and later Joshua 16:10 records Canaanites in Gezer. Horam’s defeated expedition (33) is not itself a report that every inhabitant of Gezer died.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 The five allied rulers die at Makkedah, but a remnant of their forces reaches fortified cities (20).
@@ -482,6 +488,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

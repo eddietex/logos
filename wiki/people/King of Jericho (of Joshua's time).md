@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+His fate is recalled as the model for the kings of Makkedah and Libnah (28, 30); he does not reappear alive.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### At Gibeon — Joshua 10:1–15
 
 The treatment of him and his city supplies the comparison for Ai in the news reaching Jerusalem (1).
@@ -32,6 +38,8 @@ Source: stored WEB Joshua 2:1–24.
 - The pursuit fails after Rahab’s misleading report (4–7, 22).
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 

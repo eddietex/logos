@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The southern campaign — Joshua 10:28–43
+
+Joshua 10:37 reports the death of a king of Hebron after Hoham’s execution in 10:23–26. The later ruler is unnamed: identifying him with Hoham or declaring him a successor would go beyond the text. This tension is retained rather than silently assigning Hoham a second death.
+
+See [[The Southern Cities Taken]]. Source: stored WEB Joshua 10:28–43; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 One of the five kings hidden in the cave at Makkedah, brought before Joshua, humiliated beneath the
@@ -28,6 +34,8 @@ Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied 
 - The coalition is routed (10–11); the kings’ fate is narrated after this unit.
 
 ## Appears in
+
+- [[The Southern Cities Taken]] — Joshua 10:28–43.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
