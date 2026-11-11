@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Its shore in front of Lebanon defines part of the coalition’s territory (1). The description gives
+the scope of opposition rather than an episode at sea.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The Canaanite kings live by the sea (1), understood geographically as the western sea already named in Joshua 1:4. Verse 1 itself supplies only “the sea,” not the fuller place-name.
@@ -37,6 +45,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[After the Death of Moses]] — Joshua 1:1–9; *the great sea toward the going down of the sun* (4).
 

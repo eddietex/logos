@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Og is recalled as its king (10). The region belongs to the envoys’ remembered evidence of Yahweh’s
+power, not the route of a verified journey.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Dan’s lion cub leaps from Bashan (22). The image does not by itself narrate a conquest or identify a
@@ -76,6 +84,7 @@ his sons, and his people and possesses his land (35).
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

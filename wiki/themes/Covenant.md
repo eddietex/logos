@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Joshua makes a covenant to let the envoys live (15), only afterward discovering that they are local
+Hivites (7, 16). This conflicts with Deuteronomy 7:1–2’s prohibition of a covenant with those
+peoples. The leaders preserve the oath rather than kill them (18–20); the narrative retains this
+tension without declaring the original treaty lawful.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 The covenant ark stands at the assembly’s center while blessing and curse are read (33–35). The land’s new occupants remain accountable to the law; victory does not replace covenant obligation.
@@ -626,6 +636,7 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[The Sin of Achan]] — Joshua 7:1–26.

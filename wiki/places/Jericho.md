@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+News of Joshua’s action against Jericho and Ai prompts Gibeon’s ruse (3). The envoys mention older
+eastern victories in their speech instead (9–10); the narrator does not explicitly explain this
+selection.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 Jericho becomes the pattern: *You shall do to Ai and her king as you did to Jericho and her king,
@@ -121,6 +130,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

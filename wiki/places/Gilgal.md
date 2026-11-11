@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Joshua receives the disguised embassy at the camp at Gilgal (6). This is the setting of
+negotiations, before Israel travels to discover the four neighboring cities (17).
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Passover and the end of manna — Joshua 5:10–12
 
 The camp hosts Passover on the fourteenth day at evening (10). After circumcision and
@@ -42,6 +50,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

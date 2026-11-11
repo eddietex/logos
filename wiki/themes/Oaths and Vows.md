@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The princes regard their oath by Yahweh as binding after discovering the fraud (18–20). They fear
+wrath for breaking it. This is a narrated decision in a conflicted case, not a general rule that
+every promise obtained by deception must be enforced.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The fall of Jericho — Joshua 6:1–27
 
 The spies’ oath now obliges them to rescue Rahab’s household (22–25), while Joshua’s oath places a curse on rebuilding Jericho (26). Binding speech protects one household and threatens the future builder’s household.
@@ -464,6 +473,7 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

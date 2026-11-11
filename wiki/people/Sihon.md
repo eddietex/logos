@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The envoys cite Yahweh’s action against Sihon king of Heshbon alongside Og (10) as news of divine
+power. His defeat is recalled, not repeated.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab names his destruction alongside Og as news that has reached Jericho and caused its inhabitants to lose courage (10–11). The defeated king appears in remembered testimony, not in a new battle.
@@ -81,6 +89,7 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.

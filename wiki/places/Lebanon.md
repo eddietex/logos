@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The coast in front of Lebanon belongs to the geographic description of kings uniting against Israel
+(1–2). No campaign in Lebanon is narrated here.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The border given — Joshua 1:1–9
 
 *From the wilderness, and this Lebanon* (4) repeats Deuteronomy 11:24 with the demonstrative *this*, spoken as if in view. The verse does not say from where.
@@ -75,6 +83,7 @@ the verse, and no journey to Lebanon is narrated.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; *this Lebanon* in the border Yahweh gives Joshua (4).
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; a reach of the border promised to every place the sole of Israel's foot treads (24).
 - [[Moses Pleads to Cross the Jordan]] — Deuteronomy 3:23–29.

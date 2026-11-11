@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Sihon is named as its king in the envoys’ account of Yahweh’s victories (10); the embassy does not
+originate here.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Sihon is identified as king of Heshbon in the recollection of victory (7). The present assembly is in Moab, not a new battle here.
@@ -65,6 +73,7 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

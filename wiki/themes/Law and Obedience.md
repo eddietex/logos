@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The chapter follows the public reading of the law with a covenant forbidden by Deuteronomy 7:1–2.
+Joshua 9:14 specifically identifies omitted inquiry; verses 18–20 then preserve the oath’s
+obligation. The conflict between the prohibition and the sworn protection is explicit, not silently
+harmonized.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 The written law governs the altar’s construction and becomes both a public inscription and a complete public reading (31–35). Joshua’s obedience is measured by Moses’ commands; the audience includes women, little ones, and foreigners.
@@ -1414,6 +1424,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

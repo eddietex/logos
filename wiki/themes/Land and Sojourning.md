@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The distinction between distant foreigners and neighbors living within the land determines the
+treaty question (6–7, 16). Gibeon’s survival means that receiving the land is not narrated as the
+immediate removal of every prior community.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 The law is inscribed and heard in the land after Ai’s capture (30–35). Foreigners stand with natives (33), showing participation in the hearing without identifying the foreigners’ origins or settling every question of legal status.
@@ -865,6 +874,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

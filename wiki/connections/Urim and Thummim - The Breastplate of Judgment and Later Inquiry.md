@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Gibeonite Deception]] — Joshua 9:14; inquiry omitted.
+
 - [[Joshua Commissioned]] — Numbers 27:12–23; now ingested.
 - [[Aaron and His Sons Consecrated]] — Leviticus 8:1–36.
 
@@ -102,3 +104,10 @@ See also [[Priesthood]], [[Judgment]], [[Mediation and Advocacy]], [[Aaron]], an
 **Sources.** Exodus quoted from `raw/bible/Exodus.md`; Leviticus 8:8, Numbers 27:21,
 Deuteronomy 33:8, 1 Samuel 28:6, and Ezra 2:63 verified through bible-api.com,
 `translation=web`, on 2026-10-23. No Hebrew claim is made.
+
+### Counsel omitted at Gibeon
+
+Numbers 27:21 assigns Eleazar inquiry for Joshua by the Urim. In [[The Gibeonite Deception]] ,
+Joshua 9:14 explicitly says the men did not ask counsel from Yahweh. The contrast is meaningful, but
+Joshua 9 names neither Eleazar nor the Urim and does not specify the neglected procedure. Source:
+both passages checked in stored WEB.

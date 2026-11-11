@@ -66,6 +66,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Puffed Up - Aphal in Numbers 14.44 and Habakkuk 2.4]] | lexical | [[The Defeat at Hormah]] (Numbers 14:44) · Habakkuk 2:4 · Hebrews 10:38 |
 | [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |
 | [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] | prophecy → fulfillment | Genesis 35:19–20 · Genesis 48:7 · 1 Samuel 10:2 · Jeremiah 31:15–17 · Matthew 2:16–18 · Ruth 4:11 |
+| [[Rahab and Gibeon - Two Oaths Preserving Life]] | thematic-parallel | [[The Gibeonite Deception]] · [[Rahab and the Spies]] · [[The Fall of Jericho]] |
 | [[Rahab Saved by the Oath and the Walls Fallen by Faith]] | The spies’ oath fulfilled in Joshua 6 and the paired faith interpretation in Hebrews 11:30–31. | [[The Fall of Jericho]] |
 | [[The Ram Instead of the Son - Substitution at Moriah]] | thread | Genesis 22:8, 13 · Exodus 12:3–5 · Exodus 13:13; 34:20 · Leviticus 1:1–17; 16:8–22 · [[The Generations of Aaron and the Levites Given]] (Numbers 3:11–13) · Isaiah 53:4–6 · John 1:29 |
 | [[Rash Words of the Lips - Leviticus 5.4, Numbers 30, and Psalm 106.33]] | vocabulary thread | [[Confession and Offerings According to Means]] (Leviticus 5:4) · [[Vows of Men and Women]] (Numbers 30:6, 8) · Psalm 106:32–33 |

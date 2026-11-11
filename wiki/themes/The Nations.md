@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites form the opposition (1–2).
+Gibeon’s Hivites take another course (3–7), surviving through a treaty and imposed service. This is
+another specific exception to the destruction program, alongside Rahab’s household, with different
+circumstances.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Foreigners as well as natives stand at the assembly and hear the law (33, 35). This is explicit inclusion in instruction; the text neither names these foreigners nor identifies them collectively as Rahab’s household or as every conquered people.
@@ -454,6 +464,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

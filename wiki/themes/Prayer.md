@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The men examine provisions but fail to ask counsel from Yahweh (14). This is neglected inquiry
+before a decision, not a recorded prayer refused. Numbers 27:21 provides an institutional context
+for Joshua’s access to counsel without proving which procedure should have been used here.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The sin of Achan — Joshua 7:1–26
 
 Joshua's prayer (7–9) combines complaint — why have you brought this people over the Jordan at all?
@@ -348,6 +357,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5–15.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

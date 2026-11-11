@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Yahweh’s fame motivates the embassy (9–10), but Israel does not ask his counsel (14). The princes
+fear wrath if they violate the oath sworn by his name (18–20). No divine speech in this chapter
+explicitly ratifies their treaty or prescribes its resolution.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Yahweh receives the altar and burnt and peace offerings (30–31). His covenant ark stands before the assembled people (33); his instruction reaches the whole assembly through the law Moses commanded, rather than through a new speech in this unit.
@@ -3868,6 +3877,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

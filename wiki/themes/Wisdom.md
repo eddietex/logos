@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Joshua questions the envoys and the men sample their provisions, yet they omit counsel from Yahweh
+(8, 14). Sensory evidence and prudent questions prove insufficient when the evidence has been
+staged; compare Proverbs 3:5–6’s call to trust Yahweh rather than one’s own understanding.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Good success — Joshua 1:1–9
 
 WEB's *good success* (7, 8) renders *taśkîl* (MAM via Sefaria), a verb of acting with insight. It follows from keeping and meditating on the book of the law; the passage does not use *ḥokmâ*.
@@ -829,6 +838,7 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; *taśkîl*, *good success*, from meditating on the law (7–8).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The spirit of wisdom in Joshua (9).

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The envoys cite the defeat of Og king of Bashan, who was at Ashtaroth, with Sihon (10). Their appeal
+uses remembered victories to explain their alleged long journey.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab names him with Sihon among the two Amorite kings whose destruction has terrified Jericho (10–11). The significance here is the report’s effect west of the Jordan, not a further conquest.
@@ -72,6 +80,7 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Joshua makes peace and a life-preserving covenant without the inquiry whose omission the narrator
+identifies (14–15). After discovery he confronts the deception, imposes enduring service, and
+protects the Gibeonites from Israel (22–27). Military success has not made his decisions infallible.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Joshua builds the altar, writes a copy of Moses’ law on stones, and reads it to the entire assembly (30–35). His leadership after Ai includes public instruction, not only military command; compare his charge in Joshua 1:7–8.
@@ -269,6 +278,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

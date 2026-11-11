@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The envoys invoke Yahweh’s deeds in Egypt as news motivating their alleged distant journey (9). The
+chapter does not retell those deeds.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The departing males had been circumcised, unlike those born during the journey (4–7). Yahweh declares Egypt’s reproach removed (9), but the expression does not specify whether it means former servitude, disgrace attached to the wilderness, or another association.
@@ -436,6 +444,7 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 

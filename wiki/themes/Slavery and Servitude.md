@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The envoys initially call themselves servants (8–11), but after discovery Joshua imposes enduring
+slave service as wood cutters and water drawers for the congregation and altar (21–27). Protection
+from death coexists with coercive labor; survival is not unrestricted freedom.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Two kinds of servant — Joshua 1:1–9
 
 Moses is *ʿebed YHWH*, *the servant of Yahweh*, and Joshua *məšārēt mōšeh*, *Moses' servant* (1; MAM via Sefaria): two different Hebrew words behind one English word. Yahweh calls Moses *my servant* twice (2, 7).
@@ -414,6 +423,7 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; Moses *the servant of Yahweh*; Joshua *Moses' servant* (1).
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses *the servant of Yahweh* (5).

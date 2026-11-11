@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Old clothes, patched equipment, and moldy bread support an explicitly false claim of distant origin
+(4–13, 22). Fear for their lives explains the Gibeonites’ action (24); Joshua still condemns it and
+imposes servitude. Unlike the divinely commanded ambush at Ai, this ruse exploits Israel’s failure
+to seek counsel.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 A ruse of war commanded by Yahweh: *Set an ambush for the city behind it* (2). Israel *made as if
@@ -380,6 +390,7 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[Rahab and the Spies]] — Joshua 2:1–24.

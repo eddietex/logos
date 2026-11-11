@@ -24800,3 +24800,24 @@ Sources checked in stored WEB Joshua 8:30–35, Deuteronomy 27:1–26 and 31:9�
 20:24–26. No new source-language claims or quotations from unstored books. Raw files and
 workflow instructions unchanged. Link checks clean, including wrapped links and dangling
 targets; 56 unstarted-book links remain the expected baseline.
+
+## [2026-11-11] ingest | Joshua 9.1-27 — The Gibeonite Deception
+
+Ingested one pericope in unattended mode with Codex. Kept the planned Joshua 9:1–27 boundary;
+Joshua now stands at 13 / 42. Created 7 pages: the passage, Gibeon, Chephirah, Beeroth,
+Kiriath Jearim, and two connections (the prohibited covenant and binding oath; Rahab and Gibeon).
+Revised 29 existing content pages: Joshua, 5 people, 10 places, 12 themes, and the Urim/inquiry
+connection. Updated 9 indexes/dashboards and this log (39 revised files total).
+
+The passage retains the conflict between Deuteronomy 7:1–2 and 20:15–18 and the treaty/oath
+in Joshua 9:15–20; it does not claim that Yahweh retroactively authorized the treaty. Survival
+under oath is distinguished from the coerced labor imposed in 9:23–27. Unnamed envoys, princes,
+and national groups remain collective actors in the passage, city pages, and The Nations;
+no invented individual biographies. Beeroth is not equated with Beeroth Bene Jaakan.
+The Urim comparison is qualified: Joshua 9 does not name a neglected procedure.
+
+All new quotations were copied directly from stored WEB Joshua 9. Comparisons use stored WEB;
+no new source-language wording claims or quotations from unstored books were introduced.
+Raw files and workflow instructions were unchanged. Counts by frontmatter: 407 passages,
+263 people, 232 places, 87 themes, 811 connections. Link checks clean, with 56 expected
+not-yet-started book targets. No unresolved link or operational issue.

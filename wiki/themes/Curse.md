@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Joshua pronounces a curse assigning continuing servitude (23). Unlike the death imposed on Jericho’s
+rebuilder in Joshua 6:26, this sanction preserves the recipients’ lives while binding their labor.
+The text does not explicitly identify it as fulfillment of Noah’s curse.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Joshua reads the curse along with the blessing before the whole assembly (34–35). The altar on Ebal does not come with an explanation that the sacrifices cancel the covenant curses; that would be an inference beyond this account.
@@ -318,6 +327,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The city’s defeat joins Jericho’s as the immediate news prompting Gibeon’s ruse (3). Israel’s
+successful stratagem in chapter 8 is followed by its susceptibility to another people’s deception.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 Now ingested. Yahweh promises *the king of Ai, with his people, his city, and his land* (1) and
@@ -70,6 +78,7 @@ So the two places Abram stops between in Genesis 12 are, in Joshua, the site of 
 disaster and the site of its covenant renewal — and the order runs the same way both times.
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

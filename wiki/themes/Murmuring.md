@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The congregation murmurs against the princes after the deception is discovered (18). The narrator
+supplies a concrete leadership failure; the complaint is not automatically equated with the
+wilderness rebellions, nor is a punishment for it narrated.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The spies and the refusal — Deuteronomy 1:19–33
 
 *You murmured in your tents* (27). The complaint in Deuteronomy is the harshest form yet: the exodus itself is called an act of hatred, *because Yahweh hated us*. Moses will put the same accusation in Egypt's mouth at 9:28.
@@ -163,6 +172,7 @@ consequences for the whole people (15).
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:19–33; *in your tents*: the exodus called an act of hatred.
 - [[The Brass Serpent]] — Numbers 21:4–9.

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The river locates both the western coalition (1) and the defeated eastern Amorite kings recalled by
+the envoys (10). No crossing is narrated in this unit.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 News that Yahweh dried the river for Israel reaches the Amorite and Canaanite kings, leaving them without spirit (1). The crossing’s effects extend beyond the people who crossed.
@@ -262,6 +270,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

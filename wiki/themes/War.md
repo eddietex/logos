@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+Most kings unite to fight (1–2); Gibeon seeks survival through a deceptive treaty. Deuteronomy
+20:10–18 distinguishes distant cities from the land’s peoples, explaining why the claim of distance
+matters. The local Hivites survive under oath despite the destruction command.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 The second battle for Ai is won by stratagem, not liturgy: no ark, no trumpets, no procession — an
@@ -571,6 +580,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

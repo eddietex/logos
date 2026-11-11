@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The Gibeonite deception — Joshua 9:1–27
+
+The Gibeonites cite Yahweh’s command to Moses to give Israel the land and destroy its inhabitants as
+the reason for their fear (24). Moses appears as remembered authority, not a participant.
+
+See [[The Gibeonite Deception]]. Source: stored WEB Joshua 9:1–27; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 Although dead, Moses remains the named authority for the altar, the assembly, and the reading (31, 33, 35). Joshua’s actions enact the written instruction; Moses is not a participant physically present at Ebal.
@@ -1906,6 +1914,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
