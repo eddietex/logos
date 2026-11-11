@@ -73,11 +73,14 @@ Og, his sons, and his people are struck until no survivors remain, and Israel po
 
 Source: stored WEB Numbers 21:21–35.
 
+**Joshua 12:1–24 — the list of kings.** Recalled as *of the remnant of the Rephaim*, living at Ashtaroth and Edrei and ruling Mount Hermon, Salecah, and all Bashan to the border of the Geshurites and Maacathites (12:4–5). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - King of Bashan who brings his people to fight Israel at Edrei (33). Yahweh assures Moses of
 victory; Og, his sons, and his people are struck until no survivors remain, and Israel possesses the
 land (34–35). This unit gives no physical description of Og.
+- Joshua 12:4–5 — recalled with his realm.
 
 ## Appears in
 - [[The Gibeonite Deception]] — Joshua 9:1–27
@@ -93,6 +96,7 @@ land (34–35). This unit gives no physical description of Og.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his kingdom given to the eastern tribes (33).
 - [[Sihon and Og]] — Numbers 21:21–35
+- [[The Kings Struck Down]] — Joshua 12:1–24; recalled in the list.
 
 ## Related people
 - [[Moses]] — Israel’s leader in this account.

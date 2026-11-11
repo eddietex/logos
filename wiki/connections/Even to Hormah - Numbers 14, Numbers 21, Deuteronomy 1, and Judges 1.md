@@ -6,11 +6,12 @@ tags: [connection]
 # Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1
 
 ## Passages involved
+- [[The Kings Struck Down]] — Joshua 12:14; the king of Hormah counted among Joshua's.
 
 - [[The Defeat at Hormah]] — Numbers 14:45
 - [[Arad and Hormah]] — Numbers 21:1–3; the vow, victory, and naming.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
-- Joshua 12:14; 15:30; 19:4 *(WEB checked, not yet ingested)*
+- Joshua 15:30; 19:4 *(WEB checked, not yet ingested)*
 - Judges 1:16–17 — Zephath *(WEB checked, not yet ingested)*
 - 1 Samuel 30:30; 1 Chronicles 4:30 *(WEB checked, not yet ingested)*
 
@@ -54,6 +55,14 @@ beats the Canaanites, a reversal that comes in the same book. In chapter 14 Yahw
 people go up against his word. In chapter 21 Israel vows first and *Yahweh listened to the voice of
 Israel*. Deuteronomy 1:45 had just said of the first defeat, *Yahweh didn't listen to your voice*. The
 pairing of these two sentences is the wiki's.
+
+**Now ingested: [[The Kings Struck Down]].** Joshua 12:14 counts *the king of Hormah, one; the
+king of Arad, one* among the kings whom *Joshua and the children of Israel struck* west of the
+Jordan. The list gives no battle, no date, and no naming. It therefore adds a third setting —
+Joshua's war — to Numbers 21 (Moses' time) and Judges 1:17 (after Joshua's death), and does not
+explain how the three relate. The wiki links the king of Arad to [[King of Arad (of Moses' time)]]
+only as a pointer to the earlier account. Source: stored WEB Joshua 12:14; Numbers 21:1–3;
+Judges 1:17 checked at bible-api.com (`translation=web`).
 
 ## Significance
 

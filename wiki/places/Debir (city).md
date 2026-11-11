@@ -17,12 +17,16 @@ Joshua attacks and destroys the city, its king, and its dependent cities (38–3
 
 Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is assigned.
 
+**Joshua 12:1–24 — the list of kings.** Its king is counted (12:13), after its capture in 10:38–39. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 - [[Hebron]]
 
 ## Events here
 - [[The Southern Cities Taken]] — Joshua attacks and destroys the city, its king, and its dependent cities (38–39). Distinguished from [[Debir (person)]], king of Eglon. Joshua 15:15–17 later reports Othniel taking Debir; a second conquest or overlapping account is possible, but the text does not specify the relationship.
+- Its king counted (12:13).

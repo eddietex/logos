@@ -38,12 +38,15 @@ the Transjordan Aroer(s) until the text requires separate pages.
 
 Source: stored WEB Numbers 32.
 
+**Joshua 12:1–24 — the list of kings.** The southern edge of Sihon's rule, *on the edge of the valley of the Arnon* (12:2); Joshua 13:9 repeats the description. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
+- [[The Kings Struck Down]] — Joshua 12:1–24; Sihon's southern edge.
 
 ## Related places
 - [[The Arnon]] — the valley by which Deuteronomy 3:12 and Joshua 13:16 place one Aroer.

@@ -18,11 +18,14 @@ The city or royal center identifying the Canaanite king in Numbers 21:1. He live
 destroyed after Israel's vow. The text does not explicitly equate Arad with [[Hormah]],
 and no modern site identification is adopted here.
 
+**Joshua 12:1–24 — the list of kings.** A king of Arad is counted among those Joshua struck (12:14), after Numbers 21:1–3's battle with Arad's king in Moses' time. The list does not say whether it is the same king. See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 
@@ -35,3 +38,4 @@ and no modern site identification is adopted here.
 
 - Its king attacks Israel; the scope and location of the subsequent battles are not detailed.
   See [[King of Arad (of Moses' time)]] and [[Arad and Hormah]].
+- Its king counted among Joshua's (12:14).

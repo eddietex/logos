@@ -82,11 +82,14 @@ recalls that earlier victory (27–30).
 
 Source: stored WEB Numbers 21:21–35.
 
+**Joshua 12:1–24 — the list of kings.** Recalled at the head of the list of kings (12:2–3), his realm traced from Aroer on the Arnon through half of Gilead to the Jabbok, and down the Arabah to the sea of Chinneroth and the Salt Sea. See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - King of the Amorites, based at Heshbon. He refuses Israel transit, attacks at Jahaz, and loses his
 territory to Israel (21–26). He had previously taken this territory from Moab; the quoted poem
 recalls that earlier victory (27–30).
+- Joshua 12:2–3 — recalled at the head of the list.
 
 ## Appears in
 - [[The Gibeonite Deception]] — Joshua 9:1–27
@@ -104,6 +107,7 @@ recalls that earlier victory (27–30).
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; his kingdom given to the eastern tribes (33).
 - [[Sihon and Og]] — Numbers 21:21–35
+- [[The Kings Struck Down]] — Joshua 12:1–24; recalled first in the list.
 
 ## Related people
 - [[Moses]] — Israel’s leader in this account.

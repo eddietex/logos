@@ -6,6 +6,7 @@ tags: [connection]
 # Sihon’s Defeat - Numbers 21 and Deuteronomy 2
 
 ## Passages involved
+- [[The Kings Struck Down]] — Joshua 12:1–6; the victory recalled in the list of kings.
 - [[Sihon and Og]]
 - [[The Defeat of Sihon Recounted]]
 
@@ -27,6 +28,13 @@ Numbers 21:21–26 does not specify this for Sihon; its no-survivors statement i
 Og. The added detail must not be misquoted as part of Numbers’ Sihon account.
 
 Sources: stored WEB Numbers 21:21–35 and Deuteronomy 2:24–37.
+
+**Recalled in Joshua 12.** Joshua 12:2–3 compresses the realm Sihon lost into a border
+description: Heshbon as his seat, Aroer on the Arnon to the Jabbok, half of Gilead, and the
+Arabah to the sea of Chinneroth and the Salt Sea under Pisgah. The wording runs close to
+Deuteronomy 3:12–17 rather than to Numbers 21. Verse 6 then credits the victory to *Moses the
+servant of Yahweh and the children of Israel* and sets it at the head of the conquest's list
+of kings. Source: stored WEB Joshua 12:1–6; Deuteronomy 3:12–17.
 
 ## Significance
 

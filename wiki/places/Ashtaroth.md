@@ -20,9 +20,12 @@ Edrei as the battle site. No identification with another similarly named site is
 
 Source: stored WEB Deuteronomy 1:1–5.
 
+**Joshua 12:1–24 — the list of kings.** One of Og's two residences, with Edrei (12:4). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
+- [[The Kings Struck Down]] — Joshua 12:1–24; Og's residence.
 
 ## Related places
 - [[Moab (place)]] — setting of the address.

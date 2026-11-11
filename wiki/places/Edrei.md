@@ -26,11 +26,14 @@ Moses precedes Israel’s victory (34–35).
 
 Source: stored WEB Numbers 21:21–35.
 
+**Joshua 12:1–24 — the list of kings.** One of Og's two residences, with Ashtaroth (12:4). Joshua 19:37 also names an Edrei among Naphtali's cities; it is not identified with this one here. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Sihon and Og]] — Numbers 21:21–35
+- [[The Kings Struck Down]] — Joshua 12:1–24; Og's residence.
 
 ## Related places
 - [[Heshbon]] — Sihon’s center.

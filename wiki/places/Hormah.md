@@ -39,6 +39,8 @@ Judah and of Simeon, and 1 Chronicles 4:30 keeps it among Simeon's. At 1 Samuel 
 share of plunder there. The site is not fixed by the text, and modern identifications were not
 checked.
 
+**Joshua 12:1–24 — the list of kings.** A king of Hormah is counted among those *Joshua and the children of Israel struck* west of the Jordan (12:14) — between the naming in Numbers 21:3 and the naming in Judges 1:17, and fitting neither easily. See [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] and [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
@@ -49,6 +51,7 @@ checked.
 - Joshua 12:14; 15:30; 19:4 — the king and the town lists *(WEB checked, not yet ingested)*
 - Judges 1:17 — Zephath renamed *(WEB checked, not yet ingested)*
 - 1 Samuel 30:30; 1 Chronicles 4:30 — David's gifts, and Simeon *(WEB checked, not yet ingested)*
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 
@@ -61,3 +64,4 @@ checked.
 
 - The people who went up against Moses' word are beaten down this far — Numbers 14:45,
   [[The Defeat at Hormah]]
+- Its king counted among Joshua's (12:14).

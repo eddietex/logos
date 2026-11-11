@@ -246,6 +246,8 @@ Reuben's standard follows the tabernacle, with Elizur son of Shedeur over its ar
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+**Joshua 12:1–24 — the list of kings.** *The Reubenites* receive the east bank from Moses (12:6) — the tribe, not the patriarch. See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Born to Leah, the firstborn of the twelve; *"see, a son"* — Genesis 29:32,
@@ -375,6 +377,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:30–35; gives fourth, through Elizur.
 - [[The March from Sinai]] — Numbers 10:18; leads the second camp, under Elizur.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:30; the law against taking the father's wife, without his name.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the tribe receives the east bank.
 
 ## Related people
 

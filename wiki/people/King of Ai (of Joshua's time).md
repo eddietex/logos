@@ -40,18 +40,22 @@ list of defeated kings, *the king of Ai, which is beside Bethel* (12:9).
 See [[The Capture of Ai]]. Source: stored WEB Joshua 8:1–29; 12:9; WLC (morphhb) where Hebrew is
 named on the passage page.
 
+**Joshua 12:1–24 — the list of kings.** Counted second, *the king of Ai, which is beside Bethel, one* (12:9). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Named in Yahweh's promise to Joshua (8:1–2).
 - Sees Israel's army and leads his men out early, unaware of the ambush (14).
 - Captured alive after the ambush takes and burns the city (23).
 - Hanged until evening, taken down at sundown, buried under a heap of stones at the gate (29).
+- Joshua 12:9 — counted.
 
 ## Appears in
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
+- [[The Kings Struck Down]] — Joshua 12:1–24; counted.
 
 ## Related people
 - [[Joshua (son of Nun)]]

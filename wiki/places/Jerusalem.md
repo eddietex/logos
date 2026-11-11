@@ -65,6 +65,8 @@ In [[Come into the Fields, My Beloved]], Jerusalem is again named only in the ad
 (8:4). The proposed fields, villages, vineyards, and mother’s house are not geographically
 identified. Source: stored WEB Song 7:10–8:4.
 
+**Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
@@ -82,6 +84,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 - [[My Dove Is Unique]] — Song of Solomon 6:4; the city as a comparison for loveliness.
 
 - [[Come into the Fields, My Beloved]] — Song of Solomon 8:4; the audience’s name.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 
@@ -99,3 +102,4 @@ identified. Source: stored WEB Song 7:10–8:4.
   (Ecclesiastes 1:12, 16).
 - The Preacher increases in possessions and greatness above all before him in the city
   (Ecclesiastes 2:7, 9).
+- Its king counted (12:10).

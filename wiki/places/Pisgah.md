@@ -46,6 +46,8 @@ valley in the field of Moab. The verse does not narrate Moses’ later death or 
 
 Source: stored WEB Numbers 21:10–20.
 
+**Joshua 12:1–24 — the list of kings.** *Under the slopes of Pisgah* marks the south side of Sihon's Arabah (12:3), as in Deuteronomy 3:17. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The ascent and view (1).
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
@@ -55,6 +57,7 @@ Source: stored WEB Numbers 21:10–20.
 - [[Balaam's First Two Oracles]] — Numbers 22:36–23:26.
 
 - [[The Journey to Moab]] — Numbers 21:10–20
+- [[The Kings Struck Down]] — Joshua 12:1–24; the slopes of Pisgah.
 
 ## Related places
 

@@ -12,8 +12,11 @@ gives no separate battle account for it, and no modern identification is asserte
 
 Source: stored WEB Deuteronomy 3:1–11.
 
+**Joshua 12:1–24 — the list of kings.** Within Og's rule, with Mount Hermon and all Bashan (12:5). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11
+- [[The Kings Struck Down]] — Joshua 12:1–24; within Og's rule.
 
 ## Related places
 - [[Bashan]]

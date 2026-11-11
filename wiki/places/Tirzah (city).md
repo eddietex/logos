@@ -22,9 +22,12 @@ Sources: stored WEB Song of Solomon 6:4. Joshua 12:24 and Numbers 26:33 verified
 single-verse requests; neither book was added to raw. No archaeological identification or
 composition date is asserted.
 
+**Joshua 12:1–24 — the list of kings.** Its king closes the list, *the king of Tirzah, one: all the kings thirty-one* (12:24). This is the verse this page already cited; it is now ingested. See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[My Dove Is Unique]] — Song of Solomon 6:4; a comparison for beauty.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted last.
 
 ## Related places
 
@@ -33,3 +36,4 @@ composition date is asserted.
 ## Events here
 
 - No event is set here in the ingested unit; the city is named in a simile.
+- Its king counted last (12:24).

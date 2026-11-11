@@ -11,11 +11,15 @@ Royal city whose unnamed king receives Jabin’s summons (1). The collective cap
 
 Source: stored WEB Joshua 11:1–15.
 
+**Joshua 12:1–24 — the list of kings.** Its king is counted (12:20). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 - [[Hermon]] · [[Sidon (city)]]
 
 ## Events here
 - Royal city whose unnamed king receives Jabin’s summons (1). The collective capture of the allied cities follows in verse 12, without an individual siege account.
+- Its king counted (12:20).

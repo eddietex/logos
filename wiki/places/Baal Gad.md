@@ -11,8 +11,11 @@ The northern limit of Joshua's conquest summary: *Baal Gad in the valley of Leba
 
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
+**Joshua 12:1–24 — the list of kings.** The northern limit of the western list, *Baal Gad in the valley of Lebanon* (12:7), repeating 11:17's pair in reverse order. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the western list's northern limit.
 
 ## Related places
 - [[Mount Halak]] — the southern limit paired with it.

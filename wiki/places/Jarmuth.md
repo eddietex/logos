@@ -19,11 +19,14 @@ in this unit.
 
 Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
+**Joshua 12:1–24 — the list of kings.** Its king is counted (12:11), one of the coalition cities of 10:3. See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 
@@ -34,3 +37,4 @@ Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 - Piram’s royal city, whose army joins the attack on Gibeon (3–5). No capture of the city is narrated
 in this unit.
+- Its king counted (12:11).

@@ -83,6 +83,8 @@ his sons, and his people and possesses his land (35).
 
 Source: stored WEB Numbers 21:21–35.
 
+**Joshua 12:1–24 — the list of kings.** Og's kingdom is recalled *to the border of the Geshurites and the Maacathites* (12:5); see [[Geshur]] and [[Maacath]] and [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
@@ -99,6 +101,7 @@ Source: stored WEB Numbers 21:21–35.
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 - [[Sihon and Og]] — Numbers 21:21–35
+- [[The Kings Struck Down]] — Joshua 12:1–24; Og's kingdom.
 
 ## Related places
 - [[Heshbon]] — Sihon’s center.

@@ -66,6 +66,8 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 
 Source: stored WEB Deuteronomy 1:1–5.
 
+**Joshua 12:1–24 — the list of kings.** The east-bank Arabah belongs to Sihon's realm down to the Salt Sea (12:1, 3), and *the Arabah* is also one of the western regions Joshua gives the tribes (8). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
@@ -78,6 +80,7 @@ Source: stored WEB Deuteronomy 1:1–5.
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
 - [[Leave Horeb and Possess the Land]] — Deuteronomy 1:7
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5
+- [[The Kings Struck Down]] — Joshua 12:1–24; on both banks.
 
 ## Related places
 - [[Moab (place)]] — setting of the address.

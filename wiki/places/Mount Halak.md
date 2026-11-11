@@ -11,8 +11,11 @@ The southern limit of Joshua's conquest summary: *from Mount Halak, that goes up
 
 Source: stored WEB Joshua 11:16–23. No modern identification is assigned.
 
+**Joshua 12:1–24 — the list of kings.** The southern limit of the western list, *Mount Halak, that goes up to Seir* (12:7), repeating 11:17 in reverse order. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the western list's southern limit.
 
 ## Related places
 - [[Baal Gad]] — the northern limit paired with it (11:17; 12:7).

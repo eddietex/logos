@@ -40,6 +40,8 @@ household and everything he owns over ahead of him (32:22–23). ***Yabbōq*** a
 wrestled* (32:24), sit one letter apart in Hebrew — a wordplay Genesis lets stand without commenting
 on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earlier.
 
+**Joshua 12:1–24 — the list of kings.** *The river Jabbok, the border of the children of Ammon* bounds Sihon's rule (12:2), as in Deuteronomy 3:16. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
@@ -50,6 +52,7 @@ on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earli
 
 - [[Wrestling at the Jabbok]] — Genesis 32:22–24; the ford everyone else crosses and Jacob does not,
   until after he is left alone on its near side to wrestle until daybreak
+- [[The Kings Struck Down]] — Joshua 12:1–24; Sihon's border with Ammon.
 
 ## Related places
 

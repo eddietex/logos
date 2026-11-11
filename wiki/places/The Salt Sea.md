@@ -68,6 +68,8 @@ and the destruction of the cities in chapter 19 — in the same depression.
 river from the temple running down into it and healing it, so that fishermen stand along its shore —
 an image that depends entirely on the reader knowing nothing lives in it.
 
+**Joshua 12:1–24 — the list of kings.** *The sea of the Arabah, even the Salt Sea* bounds Sihon's Arabah on the south (12:3), as in Deuteronomy 3:17. See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
@@ -81,6 +83,7 @@ an image that depends entirely on the reader knowing nothing lives in it.
   and the rout of the five kings
 - [[The Destruction of Sodom and Gomorrah]] — Genesis 19:24–26; the region supplies the chapter its
   sulfur, its bitumen, and the salt that [[Lot's Wife]] becomes
+- [[The Kings Struck Down]] — Joshua 12:1–24; the southern end of Sihon's Arabah.
 
 ## Related places
 

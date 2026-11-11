@@ -88,6 +88,8 @@ here it supplies an architectural image. No particular tower is securely located
 the verse, and no journey to Lebanon is narrated.
 Source: stored WEB Song of Solomon 6:11–7:9.
 
+**Joshua 12:1–24 — the list of kings.** *The valley of Lebanon* locates Baal Gad, the western list's northern limit (12:7). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
@@ -102,6 +104,7 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 - [[Altogether Lovely]] — Song of Solomon 5:15; a comparison for his appearance.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; comparison, not a scene location.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the valley of Lebanon.
 
 ## Related places
 

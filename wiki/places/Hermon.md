@@ -60,6 +60,8 @@ single-reference lookups at bible-api.com on 2026-10-28, without fetching the bo
 Deuteronomy 3:9 and Ezekiel 27:5 from the same Sefaria edition. The location is the standard
 identification and is not argued from the verses here.
 
+**Joshua 12:1–24 — the list of kings.** Mount Hermon is the northern limit of the east-bank conquest (12:1) and part of Og's rule (5); Baal Gad, the western list's northern limit, lies in the valley of Lebanon below it (7; compare 11:17). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
@@ -67,6 +69,7 @@ identification and is not argued from the verses here.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[A Garden Locked and Opened]] — Song of Solomon 4:8; *"from the top of Senir and Hermon"*.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the northern limit of the east bank.
 
 ## Related places
 
@@ -76,3 +79,4 @@ identification and is not argued from the verses here.
 ## Events here
 
 None narrated yet. Hermon is a boundary and an image.
+- Northern limit of the land taken from Sihon and Og, recalled (12:1, 5).

@@ -55,6 +55,8 @@ modern map here.
 
 Source: stored WEB Numbers 21:10–20.
 
+**Joshua 12:1–24 — the list of kings.** The east-bank conquest is measured *from the valley of the Arnon to Mount Hermon* (12:1), and Sihon ruled from Aroer on its edge and *the middle of the valley* (2). See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
@@ -68,6 +70,7 @@ Source: stored WEB Numbers 21:10–20.
 - [[Sihon and Og]] — Numbers 21:21–35.
 
 - [[The Journey to Moab]] — Numbers 21:10–20
+- [[The Kings Struck Down]] — Joshua 12:1–24; the southern limit of the east bank.
 
 ## Related places
 
@@ -79,3 +82,4 @@ Source: stored WEB Numbers 21:10–20.
 - [[Sihon and Og]] — Southern limit of the territory Israel takes from Sihon (24), also the limit of Sihon’s earlier conquest from Moab (26). Its high places occur in the quoted poem (28).
 
 - Named in the journey and well-song unit — [[The Journey to Moab]].
+- Southern limit of the land taken from Sihon and Og, recalled (12:1–2).

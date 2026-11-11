@@ -29,14 +29,18 @@ elsewhere.
 
 Source: stored WEB Deuteronomy 2:1–23.
 
+**Joshua 12:1–24 — the list of kings.** Og is again *of the remnant of the Rephaim* (12:4), as in Deuteronomy 3:11. See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Recalled among earlier inhabitants and successors — [[Around Seir and Past Moab and Ammon]].
+- Joshua 12:4 — Og as their remnant.
 
 ## Appears in
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23
+- [[The Kings Struck Down]] — Joshua 12:1–24; Og *of the remnant*.
 
 ## Related people
 - [[The Anakim]] — comparison for the tall peoples; no common genealogy asserted.

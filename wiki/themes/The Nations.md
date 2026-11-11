@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The kings struck down — Joshua 12:1–24
+
+Six peoples name the western land, *the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite* (8); Sihon is *king of the Amorites* (2) and Og *of the remnant of the Rephaim* (4). The Geshurites and Maacathites appear only as Og's border (5), and 13:13 says they were never driven out.
+
+See [[The Kings Struck Down]]. Source: stored WEB Joshua 12:1–24.
+
 ### The whole land taken — Joshua 11:16–23
 
 The Hivites of Gibeon are the only people to make peace (19); the other cities fight because Yahweh hardened their hearts (20). The Anakim are cut off from the hill country, with a remnant in the Philistine cities of Gaza, Gath, and Ashdod (21–22).
@@ -500,6 +506,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 

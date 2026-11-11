@@ -72,6 +72,8 @@ that political history is not invoked by the love poem.
 Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 (`translation=web`), 2026-10-28, by a single-verse request. Numbers was not added to raw.
 
+**Joshua 12:1–24 — the list of kings.** Sihon's residence, recalled at the head of the list of kings (12:2); verse 5 calls him *Sihon king of Heshbon*. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
@@ -89,6 +91,7 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; geographical comparison.
+- [[The Kings Struck Down]] — Joshua 12:1–24; Sihon's residence.
 
 ## Related places
 

@@ -292,6 +292,8 @@ land*, and *they are bread for us* (6–9). Yahweh names him with Caleb as the t
 (30), and they alone of the men who went live (38). He is not named in the *my servant* of verse 24,
 and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the Land]].
 
+**Joshua 12:1–24 — the list of kings.** The western kings are those *Joshua and the children of Israel struck*, and Joshua gives the land *for a possession according to their divisions* — the act verse 6 assigns to Moses (7). Thirty-one kings are counted (24). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Joshua 1:1–9 — Yahweh's first word to him after Moses' death; land, presence, courage, and the book of the law. [[After the Death of Moses]]
@@ -312,6 +314,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Exodus 32 — Hears the camp’s celebration as the noise of war (32:17–18). [[The Golden Calf]]
 - Tears his clothes and pleads; named as one of the two who will enter — Numbers 14:6–9, 30, 38,
   [[The People Refuse the Land]]
+- Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
@@ -374,6 +377,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   chapter
 - [[The People Refuse the Land]] — Numbers 14:6–9, 30, 38; pleads with Caleb, is threatened, and
   survives.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the western kings counted.
 
 ## Related people
 

@@ -27,6 +27,8 @@ next pericope, not within this one.
 
 Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
+**Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), after its capture in 10:28. See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
@@ -34,6 +36,7 @@ Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 
@@ -44,3 +47,4 @@ Source: stored WEB Joshua 10:1–15. No modern identification is assigned.
 
 - A limit of the pursuit in verse 10. The cave and the kings’ capture are narrated in 10:16–27, the
 next pericope, not within this one.
+- Its king counted (12:16).

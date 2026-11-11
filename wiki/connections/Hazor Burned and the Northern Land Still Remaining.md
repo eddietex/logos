@@ -6,6 +6,7 @@ tags: [connection]
 # Hazor Burned and the Northern Land Still Remaining
 
 ## Passages involved
+- [[The Kings Struck Down]] — Joshua 12:7, 19–24; the northern kings counted.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - Joshua 13:1–6 — read in stored WEB, not yet ingested.
 - [[The Southern Conquest and the Land Still Remaining]] — comparable southern tension.
@@ -29,6 +30,13 @@ under Mount Hermon (11:17), and Joshua 13:5 begins a stretch of remaining land a
 place, *from Baal Gad under Mount Hermon to the entrance of Hamath*. The edge of what was
 taken and the edge of what remains are named with the same landmark. Verse 23's *the whole
 land* stands beside 13:1's *very much land to be possessed*. Source: stored WEB Joshua 11:16–23; 13:1–6.
+
+Joshua 12 repeats the same limit, *from Baal Gad in the valley of Lebanon even to Mount Halak*
+(12:7), and counts the northern kings — Madon, Hazor, Shimron Meron, Achshaph — beside cities
+the narrative never names in battle: Taanach, Megiddo, Kedesh, Jokneam, Dor, Goiim, and Tirzah.
+Three of those, Taanach, Megiddo, and Dor, are places whose inhabitants Manasseh *couldn't drive
+out* (17:11–12). See [[The Kings Struck Down]] and
+[[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]. Source: stored WEB Joshua 12:7, 19–24; 17:11–12.
 
 ## Significance
 

@@ -90,6 +90,8 @@ In [[My Dove Is Unique]] the goats along Gilead's side again picture the woman's
 resuming the comparison of 4:1. The region supplies a pastoral image, not a location for
 the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
+**Joshua 12:1–24 — the list of kings.** Divided between the two kings: Sihon ruled *half Gilead* to the Jabbok (12:2), and Og ruled *half Gilead* to Sihon's border (5). See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The first land shown (1).
@@ -116,6 +118,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
   pasture country of Numbers 32:1 turned into a picture of dark hair moving in waves. The line is
   repeated at 6:5, *"that lie along the side of Gilead"* (now ingested in [[My Dove Is Unique]]).
 - [[My Dove Is Unique]] — Song of Solomon 6:5; the goats in the hair comparison return.
+- [[The Kings Struck Down]] — Joshua 12:1–24; divided between Sihon and Og.
 
 ## Related places
 

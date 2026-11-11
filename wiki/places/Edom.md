@@ -161,6 +161,8 @@ the only use of *ʾallûp* in the Torah (WLC lemma search). **Three verses later
 Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in the land of Edom"*, Genesis
 36:31). See [[The Song of the Sea]].
 
+**Joshua 12:1–24 — the list of kings.** Seir again names the direction of Mount Halak's ascent (12:7), not Edomite land taken. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
@@ -204,6 +206,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
   Bible together. **God is not mentioned anywhere in it**
 - [[The Song of the Sea]] — Exodus 15:15; **its chiefs dismayed.** *"Then the chiefs of Edom were dismayed"*
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7–8; the Edomite admitted in the third generation.
+- [[The Kings Struck Down]] — Joshua 12:1–24; Seir as a direction (7).
 
 ## Related places
 

@@ -24968,3 +24968,48 @@ comparisons read in stored WEB Joshua 12:7, 13:1–6, 14:7–15, 15:13–17, 46�
 (Goliath of Gath) is cited by reference only. No source-language assertion was made; whether
 11:20's *no favor* and Deuteronomy 7:2's *nor show mercy* share a root is stated as unchecked at
 the point of the claim. Existing raw text was not changed.
+
+## [2026-11-11] ingest | Joshua 12.1-24 — The Kings Struck Down
+
+Ingested [[The Kings Struck Down]], retaining the planned boundary; 13:1 opens with Joshua's age
+and a new word from Yahweh and stays the next unit. Created 14 pages: the passage, twelve places
+([[Geder]], [[Tappuah]], [[Hepher (city)]], [[Aphek]], [[Lassharon]], [[Taanach]], [[Megiddo]],
+[[Kedesh]], [[Jokneam]], [[Goiim in Gilgal]], [[Geshur]], [[Maacath]]), and
+[[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]. Revised 88 existing
+pages: the book page and books index, 24 people, 43 places, four themes, five connections, the
+places index, three people subindexes, the themes index, three connections subindexes, the
+dashboard counts, and this log. Joshua is now 19 / 42; totals are 413 passages, 276 people, 269 places,
+87 themes, and 817 connections.
+
+Judgment calls: the thirty-one unnamed kings get no new person pages; where the narrative already
+gave a king a page, the passage links it, and the named coalition kings are noted as *counted by
+city*. *Shimron Meron* (12:20) is linked to the existing [[Shimron]] as probably the same royal
+city, without equating the names. *Jokneam in Carmel* links [[Carmel (mountain)]] on the northern
+setting and 19:26, not on the verse's wording. *Goiim in Gilgal* is titled with the whole phrase
+so as not to identify it with Tidal's Goiim (Genesis 14) or Israel's Gilgal. *Hepher* takes
+`(city)` because Hepher, Zelophehad's father, is in ingested Numbers 26:32–33 (no person page
+yet; it will take the matching qualifier). *Tappuah*, *Aphek*, and *Kedesh* are left bare, each
+page stating that later Joshua verses name places of the same name (15:34, 16:8; 13:4, 19:30;
+15:23, 19:37, 20:7) and that the ingest reaching them decides whether to merge or qualify.
+*Geshur* and *Maacath* get place pages from 12:5 and 13:13 (WEB spelling *Maacath*). Lassharon
+gets its own page; no relation to [[Sharon]] is asserted. The king of Arad (12:14) is linked to
+[[King of Arad (of Moses' time)]] as a pointer only, with identity explicitly left open.
+
+Tensions recorded, not resolved: kings counted whose cities' inhabitants remain (Jerusalem,
+Gezer, Taanach, Megiddo, Dor; Geshur and Maacath) — the new connection; Bethel's king counted
+without a narrated capture (Judges 1:22–25 has it taken later); *the king of Hebron, one* beside
+Hoham's death and 10:37; Hormah and Arad counted among Joshua's kings between Numbers 21:1–3 and
+Judges 1:17. The connection notes the *couldn't* / *didn't* difference in English without a
+source-language claim.
+
+Index repair in passing: the [[Jericho]] row in the places index had its name cell fused with
+summary text and five columns; it was rebuilt to three columns without dropping any link or text.
+Similar pre-existing fused name cells remain, untouched, in the places index (Canaan, Gilgal) and
+the themes index (Circumcision, Covenant, Festivals and First Fruits, Providence, Remembrance,
+The Wilderness); they are left for a lint pass.
+
+Sources: quotations copied from stored WEB Joshua 12. Comparisons read in stored WEB Joshua 8:17,
+10:3, 10:23–43, 11:1, 13:1–13, 15:23–36, 15:63, 16:8–10, 17:3–13, 19:11–37, 20:7, 21:25–34;
+Numbers 21:1–3, 26:32–33; Deuteronomy 3:8–17; Genesis 14:1, 9. Judges 1:17, 1:21, 1:22–25, 1:27,
+and 1:29 were checked through bible-api.com (`translation=web`) as single requests; Judges was not
+added to raw. No source-language assertion was made. Existing raw text was not changed.

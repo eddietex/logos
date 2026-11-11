@@ -85,6 +85,8 @@ altar on Mount Ebal and reads the blessings and the curses at [[Shechem (city)]]
 So the two places Abram stops between in Genesis 12 are, in Joshua, the site of the conquest's one
 disaster and the site of its covenant renewal — and the order runs the same way both times.
 
+**Joshua 12:1–24 — the list of kings.** Its king is counted second, and the city is located *beside Bethel* (12:9). See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
@@ -94,6 +96,7 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Call of Abram]] — Genesis 12:8, the eastern marker of Abram's camp
 - [[Abram and Lot Separate]] — Genesis 13:3, the same marker on the way back from Egypt
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted; *beside Bethel*.
 
 ## Related places
 
@@ -110,3 +113,4 @@ disaster and the site of its covenant renewal — and the order runs the same wa
 - Israel is routed because of Achan's theft — Joshua 7, [[The Sin of Achan]]
 - Ai is taken by ambush and burned — Joshua 8:1–29, [[The Capture of Ai]]
 - Resettled after the exile — Ezra 2:28; Nehemiah 7:32
+- Its king counted (12:9).

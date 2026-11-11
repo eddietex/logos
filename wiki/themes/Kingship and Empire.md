@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The kings struck down — Joshua 12:1–24
+
+The land is measured by its rulers. Sihon and Og are named with their realms; the thirty-one western kings are unnamed, each reduced to a city and the word *one* (9–24). Even kings the narrative named — Adoni-Zedek, Jabin, Horam — are listed by city only.
+
+See [[The Kings Struck Down]]. Source: stored WEB Joshua 12:1–24.
+
 ### The northern coalition — Joshua 11:1–15
 
 Jabin organizes the northern rulers from Hazor, the former head of their kingdoms (1, 10). Royal coordination and military resources fail to prevent defeat. The text does not define the constitutional relation between these kingdoms.
@@ -456,6 +462,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

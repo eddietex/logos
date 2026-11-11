@@ -101,6 +101,13 @@ Hermon. The war lasted *a long time*; no city but Gibeon made peace, because *it
 harden their hearts*; the Anakim are cut off, with a remnant in Gaza, Gath, and Ashdod. It ends
 with *the whole land* given by tribes and *rest from war* — a verdict that 13:1 at once qualifies.
 
+[[The Kings Struck Down]] (12:1–24) closes the conquest half of the book with a register. Moses'
+two kings east of the Jordan, Sihon and Og, stand beside Joshua's thirty-one in the west, each
+side introduced by the same formula and closed by the same gift of land. The western kings are
+unnamed and counted one by one; more than a dozen have no battle in the narrative, and several
+of their cities — Jerusalem, Gezer, Taanach, Megiddo, Dor — reappear in the allotment as places
+not driven out. A king struck is not a city held.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -117,7 +124,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **18 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **19 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -137,7 +144,7 @@ Plan drawn 2026-11-10 from the stored WEB. **18 / 42 pericopes ingested.**
 - [x] [[The Southern Cities Taken]] — Joshua 10:28–43
 - [x] [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15
 - [x] [[The Whole Land Taken]] — Joshua 11:16–23
-- [ ] The Kings Struck Down — Joshua 12:1–24
+- [x] [[The Kings Struck Down]] — Joshua 12:1–24
 - [ ] The Land That Remains — Joshua 13:1–7
 - [ ] The Inheritance Beyond the Jordan — Joshua 13:8–33
 - [ ] The Division of the Land Begins — Joshua 14:1–5
@@ -182,6 +189,7 @@ Plan drawn 2026-11-10 from the stored WEB. **18 / 42 pericopes ingested.**
 - [[Joshua (son of Nun)]]
 - [[Moses]]
 - [[The Anakim]]
+- [[Sihon]] and [[Og]] — the east-bank kings recalled at the head of the list (12:2–5).
 
 ## Key places
 - [[Gibeon]], [[Gilgal]], and [[The Valley of Aijalon]] — rescue and the public address (10:6–15).
@@ -189,6 +197,8 @@ Plan drawn 2026-11-10 from the stored WEB. **18 / 42 pericopes ingested.**
 - [[Beth Horon]], [[Azekah]], and [[Makkedah]] — pursuit (10:10–11).
 - [[Mount Halak]] and [[Baal Gad]] — the southern and northern limits of the conquest summary (11:17).
 - [[Gaza]], [[Gath]], and [[Ashdod]] — where a remnant of the Anakim stays (11:22).
+- [[Taanach]], [[Megiddo]], [[Dor]], and [[Gezer]] — royal cities counted in 12:21–23 whose inhabitants remain (16:10; 17:11–12).
+- [[Geshur]] and [[Maacath]] — Og's border peoples, never driven out (12:5; 13:13).
 - [[Jericho]]
 - [[Ai]]
 - [[Bethel]]

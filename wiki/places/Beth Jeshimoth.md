@@ -11,8 +11,11 @@ One limit of the final encampment by the Jordan, with Abel Shittim as the other 
 
 Source: stored WEB Numbers 33:1–49. No modern site is assigned.
 
+**Joshua 12:1–24 — the list of kings.** *The way to Beth Jeshimoth* locates Sihon's Arabah toward the Salt Sea (12:3). Deuteronomy 3:17's otherwise close description does not name it. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Stages of the Journey]] — Numbers 33:1–49
+- [[The Kings Struck Down]] — Joshua 12:1–24; the way to it from Sihon's Arabah.
 
 ## Related places
 - [[Moab (place)]] — regional setting.

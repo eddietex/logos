@@ -6,6 +6,7 @@ tags: [connection]
 # The Southern Conquest and the Land Still Remaining
 
 ## Passages involved
+- [[The Kings Struck Down]] — Joshua 12:9–18; the southern kings counted.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
@@ -35,6 +36,12 @@ and Ashdod (11:22) matches the Philistine territory 13:2–3 lists as remaining.
 [[The Whole Land Taken]].
 
 Source: stored WEB Joshua 10:23–43; 11:21–22; 13:1–3; 15:13–17; 16:10.
+
+Joshua 12 adds a fourth layer. Its list counts *the king of Hebron, one* (12:10) without
+deciding between Hoham (10:23–26) and the king of 10:37, and *the king of Gezer, one* (12:12)
+though Gezer itself was not reported taken. It also counts kings of southern cities the
+narrative never fights — Geder, Hormah, Arad, Adullam. See [[The Kings Struck Down]] and
+[[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]. Source: stored WEB Joshua 12:9–18.
 
 ## Significance
 

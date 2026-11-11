@@ -66,6 +66,8 @@ is with the Philistines (1 Samuel 27:10; 30:1), and, in the prophets, the emblem
 water is promised to: *"Turn again our captivity, Yahweh, like the streams in the Negev"* (Psalm
 126:4).
 
+**Joshua 12:1–24 — the list of kings.** *The South* is one of the six western regions Joshua gives the tribes (12:8). See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.
@@ -88,6 +90,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
   in it permanently, and the whole Ishmaelite corridor of 25:18 is drawn along its southern edge
 - [[The Twelve Spies]] — Numbers 13:17, 22, 29; the way in, and Amalek's country
 - [[The Defeat at Hormah]] — Numbers 14:40–45; the country below the hill country
+- [[The Kings Struck Down]] — Joshua 12:1–24; *the South* (8).
 
 ## Related places
 

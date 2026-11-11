@@ -155,6 +155,8 @@ In Reuben's camp, under Eliasaph son of Deuel, as at 1:14 and not the Reuel of 2
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+**Joshua 12:1–24 — the list of kings.** *The Gadites* receive the east bank from Moses (12:6) — the tribe, not the patriarch. See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Born to [[Zilpah]] and named by [[Leah]]; *"How fortunate!"* — Genesis 30:10–11,
@@ -240,6 +242,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Reuben's camp on the south.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:42–47; gives sixth, through Eliasaph.
 - [[The March from Sinai]] — Numbers 10:20; in the second camp, under Eliasaph.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the tribe receives the east bank.
 
 ## Related people
 

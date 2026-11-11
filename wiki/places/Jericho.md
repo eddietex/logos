@@ -143,6 +143,8 @@ See [[The Second Census]]. Source: stored WEB Numbers 26.
 Named as the geographical reference for Israel’s camp beyond the Jordan in the plains of Moab (1).
 Israel does not enter or conquer Jericho in this unit.
 
+**Joshua 12:1–24 — the list of kings.** Its king heads the western list, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
@@ -178,6 +180,7 @@ Israel does not enter or conquer Jericho in this unit.
 - [[The Second Census]] — Numbers 26:1–65.
 
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted first.
 
 ## Related places
 
@@ -191,3 +194,4 @@ Israel does not enter or conquer Jericho in this unit.
 - Earlier Torah passages use it as a reference point for the camp across the river.
 - [[Rahab and the Spies]] — Joshua 2:1–24; concealment, pursuit, and escape within the city.
 - [[The Sin of Achan]] — Joshua 7:1, 21; devoted things taken from its plunder.
+- Its king counted first among the thirty-one (12:9).

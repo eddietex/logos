@@ -32,10 +32,13 @@ The unnamed ruler informed of Israelite spies in Jericho (2–3). He orders Raha
 
 Source: stored WEB Joshua 2:1–24.
 
+**Joshua 12:1–24 — the list of kings.** Counted first among the thirty-one, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Receives intelligence and demands surrender of the spies (2–3).
 - The pursuit fails after Rahab’s misleading report (4–7, 22).
+- Joshua 12:9 — counted first.
 
 ## Appears in
 
@@ -45,6 +48,7 @@ Source: stored WEB Joshua 2:1–24.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
+- [[The Kings Struck Down]] — Joshua 12:1–24; counted first.
 
 ## Related people
 - [[King of Ai (of Joshua's time)]] — the next king in the conquest, whose death is narrated

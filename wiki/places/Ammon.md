@@ -107,6 +107,8 @@ displaced five chapters before either of them is born.** See
 - **Nehemiah 2:10, 19; 4:3, 7; 13:1–3** — Tobiah the Ammonite opposing the wall, and Deuteronomy
   23:3 read aloud and enforced against Ammonites and Moabites in the same chapter.
 
+**Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
+
 ## Appears in
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
@@ -122,6 +124,7 @@ displaced five chapters before either of them is born.** See
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:5, by anticipation: the **Zuzim in Ham**, the
   people Deuteronomy 2:20 calls the Zamzummim and says held this land before Ammon did
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:3–6; the Ammonite excluded from Yahweh's assembly.
+- [[The Kings Struck Down]] — Joshua 12:1–24; its border with Sihon.
 
 ## Related places
 

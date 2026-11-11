@@ -76,6 +76,8 @@ and a half years before taking Jerusalem (2 Samuel 2:1–4; 5:1–5); Abner is k
 Absalom launches his revolt from it (15:7–10). It is also named as one of the cities of refuge
 (Joshua 20:7) and a Levitical city (21:11–13).
 
+**Joshua 12:1–24 — the list of kings.** *The king of Hebron, one* (12:10). The count does not settle whether it means Hoham, killed at Makkedah (10:23–26), or the king killed when the city fell (10:37). See [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.
@@ -107,6 +109,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
   bloodied coat is brought back to him. **The chapter's grief happens here and its violence happens at the
   other end of the road**
 - [[The Twelve Spies]] — Numbers 13:22; the children of Anak, and a founding date set against Zoan
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 
 ## Related places
 
@@ -144,3 +147,4 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 - Caleb takes it and is given it as an inheritance — Joshua 14:13–15; 15:13–14
 - David anointed king over Judah, and reigns there seven and a half years — 2 Samuel 2:1–4; 5:5
 - Absalom raises his revolt there — 2 Samuel 15:7–10
+- Its king counted (12:10).

@@ -69,6 +69,8 @@ The arc is set out in full at [[Bethel from Jacob's Pillar to Jeroboam's Calf]].
 Bethel and Ai among the returnees, and Nehemiah 11:31 has Benjaminites living there. No sanctuary, no
 altar, no comment: the gate of heaven finishes the Old Testament as a town on a ridge.
 
+**Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
+
 ## Appears in
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
@@ -106,6 +108,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   make you fruitful*, the kings are dropped, and *"for an everlasting possession"* is imported from
   [[Abraham]]'s covenant (17:8). **The hillside's promise is what gets handed to [[Ephraim]] and
   [[Manasseh]]**, and it reaches them as a dying man's recollection
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted, though no capture is narrated.
 
 ## Related places
 
@@ -135,3 +138,4 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 - Jeroboam sets up a golden calf — 1 Kings 12:28–29
 - Amos is expelled by Amaziah its priest — Amos 7:10–13
 - Josiah destroys the altar — 2 Kings 23:15–16
+- Its king counted (12:16); no capture narrated in Joshua.

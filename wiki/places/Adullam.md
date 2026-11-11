@@ -23,6 +23,8 @@ below the ridge, **and the same verb Genesis is using in the same week for Josep
 Canaanite country**, where his friend, his wife, and his sons' birthplaces all are. **The line of David
 is conceived there**, and Genesis makes no remark about the geography at all.
 
+**Joshua 12:1–24 — the list of kings.** *The king of Adullam, one* (12:15) — the first notice of a king for the town of Genesis 38. No battle at Adullam is narrated. See [[The Kings Struck Down]].
+
 ## Later
 
 - **Joshua 12:15** lists the king of Adullam among the thirty-one kings defeated in the conquest, and
@@ -43,6 +45,7 @@ which preserves the name.
 
 - [[Judah and Tamar]] — Genesis 38:1, 12, 20; where Judah settles, where [[Hirah the Adullamite]] is
   from, and where the marriage to [[Shua's Daughter]] takes place
+- [[The Kings Struck Down]] — Joshua 12:1–24; its king counted; no battle narrated.
 
 ## Related places
 
@@ -58,3 +61,4 @@ which preserves the name.
 - He marries [[Shua's Daughter]] and fathers [[Er]], [[Onan]], and [[Shelah (son of Judah)]] —
   Genesis 38:2–5
 - David's cave and his four hundred men — 1 Samuel 22:1–2 *(not yet ingested)*
+- Its king counted (12:15); no battle narrated.

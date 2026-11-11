@@ -28,10 +28,13 @@ joins the five-king attack (3–5).
 
 Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied here.
 
+**Joshua 12:1–24 — the list of kings.** *The king of Hebron, one* (12:10) counts one king of Hebron; it does not settle whether that is Hoham or the king of 10:37. See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Receives Adoni-Zedek’s appeal and joins the five-king attack (3–5).
 - The coalition is routed (10–11); the kings’ fate is narrated after this unit.
+- Joshua 12:10 — *the king of Hebron* counted.
 
 ## Appears in
 
@@ -40,6 +43,7 @@ Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
+- [[The Kings Struck Down]] — Joshua 12:1–24; counted by city.
 
 ## Related people
 

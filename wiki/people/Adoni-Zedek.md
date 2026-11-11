@@ -22,16 +22,20 @@ hearing of Ai’s destruction and Gibeon’s peace with Israel (1–4).
 
 Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied here.
 
+**Joshua 12:1–24 — the list of kings.** Counted by city, not name, as *the king of Jerusalem, one* (12:10). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Organizes the coalition after hearing of Ai’s destruction and Gibeon’s peace with Israel (1–4).
 - The coalition is routed (10–11); the kings’ fate is narrated after this unit.
+- Joshua 12:10 — counted.
 
 ## Appears in
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
+- [[The Kings Struck Down]] — Joshua 12:1–24; counted by city.
 
 ## Related people
 

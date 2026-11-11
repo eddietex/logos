@@ -194,6 +194,8 @@ In Ephraim's camp, under Gamaliel son of Pedahzur.
 
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
+**Joshua 12:1–24 — the list of kings.** *The half-tribe of Manasseh* receives part of the east bank from Moses (12:6). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Born to [[Asenath]] in the seven years of plenty, before the famine — Genesis 41:50,
@@ -253,6 +255,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:54–59; gives eighth, through Gamaliel.
 - [[The March from Sinai]] — Numbers 10:23; in the third camp, under Gamaliel.
 - [[The Twelve Spies]] — Numbers 13:11; Gaddi, and *the tribe of Joseph* attached to Manasseh
+- [[The Kings Struck Down]] — Joshua 12:1–24; the eastern half-tribe.
 
 ## Related people
 

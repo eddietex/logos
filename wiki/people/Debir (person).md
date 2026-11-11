@@ -23,17 +23,21 @@ person qualifier anticipates that place page.
 
 Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied here.
 
+**Joshua 12:1–24 — the list of kings.** Counted by city as *the king of Eglon, one* (12:12). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - Receives Adoni-Zedek’s appeal and joins the five-king attack (3–5). Distinguished from the city
 Debir named later in Joshua 10:38; the person qualifier anticipates that place page.
 - The coalition is routed (10–11); the kings’ fate is narrated after this unit.
+- Joshua 12:12 — counted.
 
 ## Appears in
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
+- [[The Kings Struck Down]] — Joshua 12:1–24; counted by city.
 
 ## Related people
 

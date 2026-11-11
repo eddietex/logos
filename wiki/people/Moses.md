@@ -1657,6 +1657,8 @@ He tells the people the sentence, and they answer by going up. He gives the warn
 word from Yahweh, and then the narrator names him with the ark as what did not leave the camp (44).
 See [[The Defeat at Hormah]].
 
+**Joshua 12:1–24 — the list of kings.** Verse 6 twice calls him *the servant of Yahweh*: he and Israel struck Sihon and Og, and he gave their land to Reuben, Gad, and half of Manasseh. The list then sets Joshua's conquest and gift beside his in the same formula (7). See [[The Kings Struck Down]].
+
 ## Timeline / key events
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; shown the land from Nebo, dies at 120 by Yahweh's word, buried in an unknown grave, mourned thirty days.
@@ -1924,6 +1926,7 @@ Miriam and Aaron speak against him over the Cushite woman and ask whether Yahweh
 After the sentence, Yahweh gives him two speeches for the people, each opening on their arrival in the
 land. No reply from him is reported, and he himself will not be told until 20:12 that he will stay
 out. See [[Offerings in the Land and Sins of Ignorance]].
+- Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
 - [[The Whole Land Taken]] — Joshua 11:16–23.
@@ -2328,6 +2331,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:6–22; the speaker, on pledges, wages, the kidnapper, leprosy and Miriam, justice, and gleaning.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1–19; the speaker, on judges and beatings, the ox, the levirate, the fight, weights, and Amalek.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; the speaker, giving the words of the first-fruits confession and the third-year tithe declaration.
+- [[The Kings Struck Down]] — Joshua 12:1–24; the east bank as his conquest and gift.
 
 ## Related people
 

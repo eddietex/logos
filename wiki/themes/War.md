@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The kings struck down — Joshua 12:1–24
+
+The conquest narrative closes with a register of defeated kings: two east of the Jordan under Moses, thirty-one west of it under Joshua (12:6–7, 24). More than a dozen of the thirty-one have no battle in the narrative, and several of their cities appear later as places not driven out. A king struck is not a city held. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]].
+
+See [[The Kings Struck Down]]. Source: stored WEB Joshua 12:1–24.
+
 ### The whole land taken — Joshua 11:16–23
 
 The narrator summarizes the conquest of the west bank and notes that the war lasted *a long time* (18). Every city except Gibeon was taken in battle (19), and the Anakim were cut off from the hill country (21). The section ends with *the land had rest from war* (23), which 13:1 immediately qualifies.
@@ -616,6 +622,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
