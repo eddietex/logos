@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+The name locates Joshua’s requested city in the hill country (50), within the tribal geography. The patriarch is not a living participant; no new tribal boundary is drawn.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 Included within the house of Joseph whose northern borders remain in place (5; compare 17:17).
@@ -184,6 +190,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

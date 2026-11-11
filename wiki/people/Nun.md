@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Named as Joshua’s father (49, 51); the patronymic identifies Joshua without assigning Nun any action or presence.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The western division — Joshua 14:1–5
 
 Named only as Joshua’s father (1); the patronymic supplies identification, not an action or presence for Nun.
@@ -70,6 +76,7 @@ or present. This page records the named relationship without supplying an unrepo
 - Patronymic — Numbers 14:6, 30, 38, [[The People Refuse the Land]]
 
 ## Appears in
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

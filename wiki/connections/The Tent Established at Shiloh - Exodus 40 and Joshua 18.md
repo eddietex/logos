@@ -6,10 +6,17 @@ tags: [connection]
 # The Tent Established at Shiloh - Exodus 40 and Joshua 18
 
 ## Passages involved
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Tabernacle Raised and the Glory]] — Exodus 40:17–19.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 ## Analysis
+
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Joshua 19:51 confirms the setting of Joshua 18:1–10: Eleazar, Joshua, and tribal household heads distribute by lot before Yahweh at the door of the Tent of Meeting in Shiloh. The summary closes the allotment there, without adding a new sanctuary-building or glory-cloud scene.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
 
 Exodus 40:17–19 describes Moses erecting the tabernacle with its structural parts and coverings.
 Joshua 18:1 describes the assembled congregation setting up the Tent of Meeting at Shiloh.

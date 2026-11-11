@@ -25448,3 +25448,31 @@ Totals by frontmatter: 427 passages, 283 people, 532 places, 87 themes, 827 conn
 scripts/link-check.sh exits 0 with 56 expected not-yet-started book targets; git diff --check
 clean; every place page has a row. A duplicate [[Canaan]] row in the places index predates
 this pass and is left for a lint.
+
+## [2026-11-11] ingest | Joshua 19.49-51 — Joshua's Own Inheritance
+
+Ingested exactly the next planned pericope in auto mode; boundary unchanged. Joshua is now
+34 / 42 pericopes ingested. Corrected the book page’s stale 32 / 42 summary to match its
+checklist (33 checked before this pass, 34 afterward).
+
+Created three pages: [[Joshua's Own Inheritance]], [[Timnathserah]], and
+[[Caleb and Joshua Receive Their Own Inheritances]]. Revised 30 existing pages including
+this log: five people, two places, six themes, three connections, Caleb’s passage backlink,
+the Joshua book page, eleven category/book/dashboard index files, and this entry.
+
+The passage records the leader’s requested city, building and residence, and the closing
+allotment before Yahweh at the Tent’s door. Nun remains a patronymic; Ephraim is a
+geographical/tribal designation; unnamed household heads remain a collective. Timnathserah
+follows the stored WEB spelling without a modern identification. Caleb’s and Joshua’s
+grants are compared as a literary frame, not declared an explicit narrated interpretation.
+
+Preserved the distinction between finished division and remaining possession (Joshua 13:1;
+16:10; 17:12–13). No earlier command naming Joshua’s city, separate lot for that city,
+motive of humility, or precise type of construction is invented. No new source-language
+claims or quotations from unstored books were introduced. All three verses were copied
+verbatim and checked against raw/bible/Joshua.md; comparisons were checked in stored
+Joshua 14:1–15; 18:1–10 and Numbers 34:17–18. Raw texts and workflow files are unchanged.
+
+Totals by frontmatter: 428 passages, 283 people, 533 places, 87 themes, 828 connections.
+Link checks pass with 56 expected not-yet-started book targets; git diff --check is clean.
+No unresolved issue introduced by this ingest.

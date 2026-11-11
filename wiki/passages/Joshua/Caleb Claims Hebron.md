@@ -70,6 +70,7 @@ Full pericope, WEB, copied from the stored source:
 - [[Names and Naming]] — Verse 15 supplies Hebron’s former name, Kiriath Arba, and associates it with the greatest man among the Anakim. It does not narrate when the name changed or identify who changed it.
 
 ## Cross-references
+- [[Caleb and Joshua Receive Their Own Inheritances]] — Caleb’s grant near the opening and Joshua’s at the close of the western allotments.
 - [[Forest to Clear and Chariots to Face]] — Joseph’s request and the challenge of strong inhabitants.
 - [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]]
 - [[Wholly Followed - Mille Ahare in Numbers, Deuteronomy, Joshua, and 1 Kings]]

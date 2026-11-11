@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Named first among the distributors in the closing summary (51), Eleazar shares responsibility with Joshua and the tribal household heads. The allotment takes place before Yahweh at the Tent’s door in Shiloh.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The daughters approach him with Joshua and the princes to claim the inheritance commanded through
@@ -314,6 +320,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

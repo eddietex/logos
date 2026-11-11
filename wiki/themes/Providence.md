@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+The summary attributes tribal distribution to the lot before Yahweh (51). Joshua’s own grant is described as a requested city given by command (50); the text does not separately narrate a lot selecting his city.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The last three lots — Joshua 19:24–48
 
 The fifth, sixth, and seventh lots *came out* for Asher, Naphtali, and Dan (24, 32, 40), completing the casting at Shiloh (18:10). Dan’s capture of Leshem is reported as the tribe’s own campaign, not as a further lot.
@@ -482,6 +488,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.

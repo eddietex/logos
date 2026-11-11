@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+The Tent’s door at Shiloh is the setting of distribution before Yahweh (51). Sanctuary and public administration meet without a report of a new glory manifestation or a stone temple.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The whole congregation establishes the Tent of Meeting at Shiloh (1), where Joshua casts lots before
@@ -626,6 +632,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.

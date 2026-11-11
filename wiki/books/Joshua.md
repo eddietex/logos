@@ -172,6 +172,10 @@ Naphtali’s ends at the Jordan, with a puzzling reach *to Judah at the Jordan*;
 towns overlap Judah’s list, and Dan alone extends its lot by force, taking Leshem and naming
 it Dan.
 
+[[Joshua's Own Inheritance]] (19:49–51) closes the distribution with Joshua’s requested city,
+Timnathserah, and a summary of shared administration before Yahweh at Shiloh. Joshua builds
+and inhabits his grant; finished division does not erase the remaining-land notices.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -188,7 +192,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **32 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **34 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -223,7 +227,7 @@ Plan drawn 2026-11-10 from the stored WEB. **32 / 42 pericopes ingested.**
 - [x] [[The Inheritance of Benjamin]] — Joshua 18:11–28
 - [x] [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23
 - [x] [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48
-- [ ] Joshua's Own Inheritance — Joshua 19:49–51
+- [x] [[Joshua's Own Inheritance]] — Joshua 19:49–51
 - [ ] The Cities of Refuge Appointed — Joshua 20:1–9
 - [ ] The Cities of the Levites — Joshua 21:1–42
 - [ ] Not One Good Thing Failed — Joshua 21:43–45

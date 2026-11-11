@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Israel gives Joshua the city he requests under Yahweh’s command (49–50). He builds it and lives there; the distributor is also a recipient among the people. Verse 51 names him with Eleazar and the tribal household heads.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 He rebukes delayed possession, commissions the survey, receives its written results, and casts the
@@ -364,6 +370,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Joshua builds the city he receives and lives there (50). Gift and labor belong together; the verse does not specify whether the work is new construction, rebuilding, or fortification.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 Joshua twice directs forest clearance (15, 18). The inheritance requires labor to become usable; this passage joins land received with work still required.
@@ -789,6 +795,7 @@ quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timoth
 [[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

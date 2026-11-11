@@ -6,6 +6,7 @@ tags: [connection]
 # The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots
 
 ## Passages involved
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
@@ -37,6 +38,12 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Joshua 19:51 summarizes distribution by lot before Yahweh at Shiloh. Verses 49–50 describe Joshua’s own city as requested and granted according to Yahweh’s command, without separately describing a lot for that city. The summary should not supply an unstated selection mechanism for this individual grant.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
 
 ### The last three lots — Joshua 19:24–48
 

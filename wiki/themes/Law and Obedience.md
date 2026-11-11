@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Israel grants Joshua his requested city according to Yahweh’s command (50). The passage asserts that authority without quoting an earlier instruction naming Timnathserah.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 Joshua challenges neglect of the land already given by Yahweh (3). The surveyors obey his commission
@@ -1498,6 +1504,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

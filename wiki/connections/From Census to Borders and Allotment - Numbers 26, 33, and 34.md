@@ -6,6 +6,7 @@ tags: [connection]
 # From Census to Borders and Allotment - Numbers 26, 33, and 34
 
 ## Passages involved
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
@@ -21,6 +22,12 @@ tags: [connection]
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Joshua 19:51 closes the distribution with Eleazar, Joshua, and the tribal household heads, corresponding to the administrators appointed in Numbers 34:17–18 and introduced in Joshua 14:1–5. Shiloh and the Tent’s door now supply the location of the completed division. Completion of allocation is not a claim that all inhabitants have been removed.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
 
 ### The last three lots — Joshua 19:24–48
 

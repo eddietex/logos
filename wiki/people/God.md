@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua’s own inheritance — Joshua 19:49–51
+
+Joshua’s city is granted according to Yahweh’s command (50), and the division by lot takes place before Yahweh (51). No new divine speech is quoted or visible manifestation reported.
+
+See [[Joshua's Own Inheritance]]. Source: stored WEB Joshua 19:49–51.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 Joshua identifies Yahweh as the giver of the land and casts the lots before him (3, 6, 8, 10). No
@@ -3966,6 +3972,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
