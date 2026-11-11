@@ -24893,3 +24893,10 @@ audit used an overly strict row pattern; an existing Canaan row includes prose i
 cell, so verification was corrected to match the initial wikilink. No content change was needed
 for that audit. scripts/link-check.sh passed: no wrapped links or unexpected dangling targets;
 56 unstarted book links remain the expected baseline.
+
+Post-commit validation correction for this ingest: the broader affected-row audit also exposed
+three duplicate rows introduced where existing God, Gilgal, and Jericho rows had prose immediately
+after the title link. Consolidated each into its existing row, preserving previous content.
+The affected-row audit now passes for every updated entity and connection. The earlier statement
+that no index content correction was needed was premature; the quotation checks and clean
+link-check result were unaffected. Re-ran link checks and whitespace validation successfully.
