@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The northern coalition — Joshua 11:1–15
+
+The army’s multitude, horses, and chariots (4) meet divine assurance and a sudden human attack (6–8). Horses are hamstrung and chariots burned (9); livestock and goods are retained, while inhabitants are killed (14). Destruction does not mean burning every city.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The southern campaign — Joshua 10:28–43
 
 The six city accounts repeat capture and destruction, including inhabitants rather than only opposing soldiers (28–40). Verse 42 attributes victory to Yahweh. Lachish takes two days (32), so the campaign summary is not a claim that every battle occurred on one day.
@@ -604,6 +610,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 

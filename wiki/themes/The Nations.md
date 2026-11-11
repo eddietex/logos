@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The northern coalition — Joshua 11:1–15
+
+The coalition includes Canaanites, Amorites, Hittites, Perizzites, Jebusites, and Hivites (3). These Hivites fight; Gibeon’s Hivites were preserved by oath in Joshua 9. Shared people-group identity does not mean an identical narrated outcome.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The southern campaign — Joshua 10:28–43
 
 The summary reports comprehensive destruction (40), while Gibeon remains protected and later Joshua 16:10 records Canaanites in Gezer. Horam’s defeated expedition (33) is not itself a report that every inhabitant of Gezer died.
@@ -488,6 +494,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 

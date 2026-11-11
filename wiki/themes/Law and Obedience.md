@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The northern coalition — Joshua 11:1–15
+
+Verse 15 traces command from Yahweh through Moses to Joshua and declares its completion. The earlier failure to inquire in Joshua 9:14 remains a qualification: this praise should not erase that narrated lapse.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The southern campaign — Joshua 10:28–43
 
 Verse 40 interprets destruction of all who breathed as obedience to Yahweh’s command, recalling Deuteronomy 20:16–18. The severity toward inhabitants must remain explicit rather than being reduced to destruction of idols.
@@ -1439,6 +1445,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 

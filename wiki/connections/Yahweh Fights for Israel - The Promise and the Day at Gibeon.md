@@ -6,6 +6,7 @@ tags: [connection]
 # Yahweh Fights for Israel - The Promise and the Day at Gibeon
 
 ## Passages involved
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
@@ -15,6 +16,12 @@ tags: [connection]
 - Sources: stored WEB Exodus 9:18–26; Deuteronomy 20:1–4; Joshua 1:5; 10:1–15, as relevant below.
 
 ## Analysis
+
+### The northern coalition — Joshua 11:1–15
+
+Deuteronomy 20:1 anticipates a more numerous force with horses and chariots. Joshua 11:4–6 narrates that danger and renews assurance against fear; verses 7–9 combine sudden attack with victory attributed to Yahweh. The assurance continues Gibeon’s pattern without repeating its hail or delayed sunset. Comparisons checked in stored WEB Deuteronomy 20 and Joshua 10–11.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
 
 ### The southern cities
 

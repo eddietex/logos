@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The northern coalition — Joshua 11:1–15
+
+Israel pursues the coalition as far as great Sidon (8). This reports pursuit, not capture of Sidon. Joshua 13:6 still includes the Sidonians among inhabitants to be driven out, so permanent conquest must not be inferred.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### Og’s defeat recalled — Deuteronomy 3:1–11
 
 The Sidonians are cited for their name Sirion for Hermon (9). This is a naming notice, not a visit
@@ -43,6 +49,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 
 - [[The Table of Nations]] — Genesis 10:15, 19; **named twice in five verses, first as

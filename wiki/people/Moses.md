@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The northern coalition — Joshua 11:1–15
+
+The dead servant remains mediator of the command: Yahweh commanded Moses, Moses commanded Joshua, and Joshua acts (12, 15). Moses is remembered authority, not a participant at Merom.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The Gibeonites cite Yahweh’s command to Moses to give Israel the land and destroy its inhabitants as
@@ -1914,6 +1920,7 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

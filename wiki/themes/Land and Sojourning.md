@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The northern coalition — Joshua 11:1–15
+
+Captured cities on mounds remain unburned except Hazor (13), and plunder is retained (14). Capture does not itself demonstrate lasting settlement of every region reached in pursuit; compare the remaining northern territory in Joshua 13:4–6.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The southern campaign — Joshua 10:28–43
 
 The campaign claims the southern kings and land (40–42), yet Joshua 13:1–3 says much land remains and 15:13–17 reports further action at Hebron and Debir. Military victory and enduring settlement are not simply interchangeable; the narrative tension remains.
@@ -880,6 +886,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

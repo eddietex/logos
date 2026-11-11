@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The northern coalition — Joshua 11:1–15
+
+Joshua attacks suddenly, pursues the coalition, disables its horses, burns its chariots, and captures its cities (7–14). Verse 15 measures his obedience by the commands transmitted through Moses.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The southern campaign — Joshua 10:28–43
 
 Joshua leads Israel through six city attacks, defeats Horam’s relief force, and returns to Gilgal (28–43). The repeated attribution to Yahweh does not remove Joshua and Israel’s agency in the killing.
@@ -302,6 +308,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 

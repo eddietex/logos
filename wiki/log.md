@@ -24900,3 +24900,35 @@ after the title link. Consolidated each into its existing row, preserving previo
 The affected-row audit now passes for every updated entity and connection. The earlier statement
 that no index content correction was needed was premature; the quotation checks and clean
 link-check result were unaffected. Re-ran link checks and whitespace validation successfully.
+
+## [2026-11-11] ingest | Joshua 11.1-15 — The Northern Kings at the Waters of Merom
+
+Ingested [[The Northern Kings at the Waters of Merom]], retaining the planned boundary.
+Created 15 pages: the passage, four people, nine places, and
+[[Hazor Burned and the Northern Land Still Remaining]]. Revised 23 existing pages,
+including the book, affected entities and themes, two connections, category indexes,
+dashboard counts, and this log. Joshua is now 17 / 42; totals are 411 passages,
+276 people, 252 places, 87 themes, and 815 connections.
+
+Distinguished Jobab of Madon from the existing Edomite Jobab without changing the latter’s
+unambiguous link target. Qualified Jabin by Joshua’s time and the unnamed kings by their
+narrative period. Grouped the land and valley of Mizpah provisionally under Hermon;
+left Chinneroth’s kind uncertain instead of assuming it denotes the sea. Generic terrain
+descriptions remain in the passage; the coalition’s peoples are treated under The Nations.
+No precise modern site identifications were introduced.
+
+Preserved the distinctions between destroyed inhabitants, retained livestock and plunder,
+and Hazor’s exceptional burning. Explicitly retained the tension with northern inhabitants
+still remaining in Joshua 13 and qualified the earlier connection’s broad property language.
+The obedience verdict remains alongside the failure to inquire in Joshua 9.
+
+Quotations were copied from stored WEB Joshua 11 and mechanically compared with it.
+Comparisons use stored WEB Deuteronomy 20, Joshua 9–10 and 13, and Genesis 36 for the
+Jobab distinction; later units were read without ingesting them. Existing raw text was
+not changed; the fetch script correctly refused to overwrite Joshua. No external
+quotation, source-language assertion, or harness instruction change was introduced.
+
+Validation: affected category rows each occur exactly once; the passage title is unique;
+frontmatter counts match the dashboard. scripts/link-check.sh passed with no wrapped
+links or unexpected dangling targets (56 unstarted book pages are the baseline).
+git diff --check passed. No unresolved ingest blocker.

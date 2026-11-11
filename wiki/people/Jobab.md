@@ -7,6 +7,10 @@ tags: [person]
 
 ## Overview
 
+**Name distinction:** This Edomite king is distinct from [[Jobab (king of Madon)]]
+in [[The Northern Kings at the Waters of Merom]] (Joshua 11:1).
+
+
 **The second king of Edom, named in half a verse — and the man the Septuagint decided was Job.**
 
 > **33** Bela died, and Jobab, the son of Zerah of Bozrah, reigned in his place.

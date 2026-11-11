@@ -92,6 +92,10 @@ to his commanders; the narrative also preserves a remnant escaping into fortifie
 relief force. The summary attributes success to Yahweh, while its comprehensive language
 must remain alongside later reports of remaining land and renewed action at Hebron and Debir.
 
+[[The Northern Kings at the Waters of Merom]] (11:1–15) brings the northern coalition’s defeat, the burning of Hazor,
+and the destruction of inhabitants while other cities and plunder remain. The narrator
+closes by tracing Joshua’s obedience to Yahweh’s commands through Moses.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -108,7 +112,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **16 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **17 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -126,7 +130,7 @@ Plan drawn 2026-11-10 from the stored WEB. **16 / 42 pericopes ingested.**
 - [x] [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15
 - [x] [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27
 - [x] [[The Southern Cities Taken]] — Joshua 10:28–43
-- [ ] The Northern Kings at the Waters of Merom — Joshua 11:1–15
+- [x] [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15
 - [ ] The Whole Land Taken — Joshua 11:16–23
 - [ ] The Kings Struck Down — Joshua 12:1–24
 - [ ] The Land That Remains — Joshua 13:1–7

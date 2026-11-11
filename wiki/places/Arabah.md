@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The northern coalition — Joshua 11:1–15
+
+The summons includes kings in the Arabah south of Chinneroth (2). This describes coalition members rather than supplying an additional march itinerary.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The capture of Ai — Joshua 8:1–29
 
 The king of Ai leads his men out *at the time appointed, before the Arabah* (14) — facing east toward
@@ -55,6 +61,7 @@ bearings rather than a modern map; no precise boundaries are assigned here.
 Source: stored WEB Deuteronomy 1:1–5.
 
 ## Appears in
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; the Canaanites *"who dwell in the Arabah"*, in the description of Gerizim and Ebal (30).

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The northern coalition — Joshua 11:1–15
+
+The Hivites under Hermon in the land of Mizpah belong to the coalition (3). The mountain locates an allied population; its summit is not a separately narrated battlefield.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### Setting of the instruction — Deuteronomy 4:44–49
 
 The stored WEB explicitly identifies Mount Sion with Hermon (48). Sion is therefore recorded as an alias here, not as Jerusalem’s Zion. This additional name does not resolve the already flagged tension between the identification of Senir with Hermon in Deuteronomy 3:9 and their pairing in Song 4:8.
@@ -49,6 +55,7 @@ Deuteronomy 3:9 and Ezekiel 27:5 from the same Sefaria edition. The location is 
 identification and is not argued from the verses here.
 
 ## Appears in
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.
 

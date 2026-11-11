@@ -6,6 +6,7 @@ tags: [connection]
 # Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15
 
 ## Passages involved
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
@@ -38,6 +39,12 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### The northern coalition — Joshua 11:1–15
+
+Joshua 11:11–14 distinguishes destroyed human inhabitants from buildings, animals, and goods: only Hazor among the mound cities is burned; livestock and plunder are retained. This qualifies any blanket equation of conquest devotion with destruction of all property. The statement below about removal from human use must apply to what is actually restricted, not automatically to every possession in a defeated city. This observation uses the WEB wording, not a new Hebrew lexical claim.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
 
 ### The southern cities
 

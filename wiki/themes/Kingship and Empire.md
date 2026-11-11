@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The northern coalition — Joshua 11:1–15
+
+Jabin organizes the northern rulers from Hazor, the former head of their kingdoms (1, 10). Royal coordination and military resources fail to prevent defeat. The text does not define the constitutional relation between these kingdoms.
+
+See [[The Northern Kings at the Waters of Merom]]. Source: stored WEB Joshua 11:1–15.
+
 ### The southern campaign — Joshua 10:28–43
 
 Horam’s attempt to help Lachish fails (33); the kings of Makkedah, Libnah, Hebron, and Debir fall with their cities. The unnamed king of Hebron in 37 creates a tension with Hoham’s prior death, not a securely identified succession.
@@ -450,6 +456,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 
