@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Ramoth is the refuge named in Gilead, assigned from Gad (8). The regional designation locates a city; it does not assign all Gilead to Gad.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The eastern land is distinguished from the ten western portions (1, 5–6). Gilead also names Machir’s son in the genealogy (3), covered in [[The Families of Manasseh]]; the ancestor and region are not the same entity.
@@ -105,6 +111,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 **Joshua 12:1–24 — the list of kings.** Divided between the two kings: Sihon ruled *half Gilead* to the Jabbok (12:2), and Og ruled *half Gilead* to Sihon's border (5). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 

@@ -55,6 +55,8 @@ The killer and neighbor are legal roles, not identifiable individuals.
 
 ## Cross-references
 
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9 now names all six refuges and specifies admission at the gate, trial, and residence until the high priest’s death.
+
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the three western cities and the same definition
   of the unwitting killer (19:4).
 - [[A Place to Flee - Exodus 21 and Numbers 35]] — the promised place of flight,

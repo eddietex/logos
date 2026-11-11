@@ -81,6 +81,8 @@ None of the forty-eight cities is named here.
 
 ## Cross-references
 
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9 now names all six refuges and specifies admission at the gate, trial, and residence until the high priest’s death.
+
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; the law restated without the congregation
   or the high priest, with the elders and three conditional cities added.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43 names the three eastern refuges;

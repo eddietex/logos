@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Six named cities distribute refuge on both sides of the Jordan (7–8). Resident aliens share its protection with Israelites (9), and the eventual return is to the fugitive’s own house and city (6).
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 Completed distribution frames Joshua’s own inheritance among Israel (49–51). The closing formula concerns allocation; it does not cancel the remaining-land report of Joshua 13:1 or the non-removal notices of 16:10 and 17:12–13.
@@ -994,6 +1000,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

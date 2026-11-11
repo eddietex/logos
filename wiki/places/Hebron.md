@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Kiriath Arba is expressly equated with Hebron and set apart as Judah’s hill-country refuge (7). The protective function does not itself cancel Caleb’s earlier grant or describe ownership arrangements.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Judah’s cities — Joshua 15:20–63
 
 Listed in the second hill-country group as *Kiriath Arba (also called Hebron)* (54). The register counts Caleb's city among Judah's towns without restating his grant.
@@ -98,6 +104,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 **Joshua 12:1–24 — the list of kings.** *The king of Hebron, one* (12:10). The count does not settle whether it means Hoham, killed at Makkedah (10:23–26), or the king killed when the city fell (10:37). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

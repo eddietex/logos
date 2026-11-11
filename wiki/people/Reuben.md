@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Bezer in the wilderness plain is assigned from Reuben’s tribe as an eastern refuge (8), repeating the city named in Deuteronomy 4:43. The descendants, not the patriarch, are meant.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 Named as Bohan’s father in the boundary stone (17). This geographical notice does not narrate an action by the patriarch or fix Bohan’s generation.
@@ -303,6 +309,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Borders of Judah]] — Joshua 15:1–12.

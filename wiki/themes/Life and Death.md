@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+The fugitive is protected from death before trial (9), while the high priest’s death marks the permitted return home (6). The provision preserves life without treating accidental killing as though nothing happened.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Moses dies *according to Yahweh's word* (5) with eye undimmed and strength intact (7). Death comes by command, not decline; the tension with Moses' own words at 31:2 is recorded on the passage page.
@@ -938,6 +944,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses dies by Yahweh's word.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

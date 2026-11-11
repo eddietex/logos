@@ -15,6 +15,12 @@ man himself.
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Shechem in Ephraim’s hill country is set apart as a refuge (7). The city receives a protective judicial role; no actual fugitive’s case is narrated.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Michmethath is located before Shechem in the boundary description (7). Shechem the clan ancestor (2) is distinct and covered in [[The Families of Manasseh]].
@@ -82,6 +88,7 @@ Deuteronomy 11:29–30 places the blessing on Gerizim and the curse on Ebal *"be
 See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; not named; the oaks of Moreh and the two mountains on either side of the town locate the blessing and curse (29–30).

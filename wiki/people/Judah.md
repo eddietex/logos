@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Kiriath Arba, expressly identified as Hebron, is the refuge in Judah’s hill country (7). The patriarch is not an actor.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The last three lots — Joshua 19:24–48
 
 Naphtali’s border reaches *to Judah at the Jordan toward the sunrise* (34). Judah’s own east border is the Salt Sea to the end of the Jordan (15:5), far to the south, so the phrase does not fit the book’s other geography. The text offers no explanation, and the wiki records the difficulty without asserting a reading of the Hebrew. Dan’s list also repeats towns from Judah’s lists (15:10–11, 33, 45).
@@ -408,6 +414,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Naphtali’s border reaches Judah (34); Dan’s list repeats Judah’s towns.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Ramoth in Gilead is assigned from Gad as an eastern refuge (8), repeating Deuteronomy 4:43. The notice supplies no modern site identification.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 Ramoth is the city in Gilead set apart for the Gadites east of the Jordan
 (Deuteronomy 4:43). It offers refuge to the unwitting killer without prior hatred
 (4:42). No modern identification or further historical identification is asserted here.
@@ -14,6 +20,7 @@ Ramoth is the city in Gilead set apart for the Gadites east of the Jordan
 Source: stored WEB Deuteronomy 4:41–43.
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.
 
 ## Related places

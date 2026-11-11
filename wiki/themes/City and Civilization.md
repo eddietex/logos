@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+The city gate is where elders hear the fugitive’s case; the city must receive him and give him a place to live (4). Urban community becomes an instrument of refuge and adjudication.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Cities set apart — Deuteronomy 19:1–13
 
 Three cities are *"set apart"* (2, 7) and the land divided into three, with the way prepared (3), so
@@ -204,6 +210,7 @@ The different uses remain distinct; no city becomes the established setting.
 See [[Return, Return, Shulammite]]. Source: stored WEB Song of Solomon 6:11–7:9; internal comparisons use the stored Song.
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three cities set apart and the land divided around them (2–3); the elders of the town (12).
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43.

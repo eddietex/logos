@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Kedesh in Galilee is located in the hill country of Naphtali (7). The name refers to the descendant tribe and its territory, not an action by the patriarch.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The last three lots — Joshua 19:24–48
 
 The descendants receive the sixth lot: a border from Heleph and the oak in Zaanannim to the Jordan, touching Zebulun on the south and Asher on the west, and a list headed *the fortified cities* with a stated total of nineteen against sixteen names given (32–39). Deuteronomy 33:23’s *possess the west and the south* is not cited by the register.
@@ -147,6 +153,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:27 — Naphtali marches in Dan's camp, last named. [[The March from Sinai]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

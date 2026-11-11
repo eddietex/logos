@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Jericho is the geographical reference in the introduction to the eastern cities beyond the Jordan (8). It is not itself listed as a refuge.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 The northern boundary passes its north side (12), and it heads the first group of twelve cities (21–24). A city listed as inheritance does not itself imply rebuilding after Joshua 6.
@@ -164,6 +170,7 @@ Israel does not enter or conquer Jericho in this unit.
 **Joshua 12:1–24 — the list of kings.** Its king heads the western list, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

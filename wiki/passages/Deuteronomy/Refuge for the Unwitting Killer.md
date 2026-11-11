@@ -137,6 +137,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9 now names all six refuges and specifies admission at the gate, trial, and residence until the high priest’s death.
+
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the previous pericope, which ends the list of offices.
 - [[Three Cities Beyond the Jordan]] — Deuteronomy 4:41–43; the eastern three, defined in the same words,
   *"kills his neighbor unawares, and didn't hate him in time past"* (4:42).

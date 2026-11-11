@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Yahweh identifies the refuge instruction as previously given through Moses (2). Moses is the remembered mediator, not a living participant in this appointment.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 His grants east of the Jordan remain settled and are excluded from the new division (7). He is
@@ -1963,6 +1969,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 

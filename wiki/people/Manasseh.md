@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Golan in Bashan is assigned from Manasseh’s tribe as an eastern refuge (8), repeating Deuteronomy 4:43. The name denotes the descendants.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The eastern half-tribe retains Moses’ grant (7); the house of Joseph retains its northern borders
@@ -254,6 +260,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

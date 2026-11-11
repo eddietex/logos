@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Elders must give the unintentional killer a place to live and refuse to surrender him to the pursuing avenger (4–5). Compassion takes institutional form while preserving the requirement of trial.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Rahab’s household survives the destruction because she hid the messengers (17, 25), and Joshua enforces the spies’ pledge (22). This concrete exception does not soften the report that other young and old are killed (21).
@@ -426,6 +432,7 @@ same chapter the guilty man's beating is capped so that *"your brother"* is not 
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.

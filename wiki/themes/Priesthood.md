@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Residence continues until the death of the high priest of those days (6). No particular priest is named, no death is narrated, and no sacrificial explanation for this release is supplied.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 Eleazar’s priestly role includes shared responsibility for dividing the land with Joshua and the tribal household heads (51). Priestly participation does not make the grant a unilateral priestly decision.
@@ -779,6 +785,7 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 

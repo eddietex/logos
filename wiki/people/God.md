@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Yahweh commands Joshua to implement the refuge provision previously spoken through Moses (1–2). The command protects the unintentional killer pending judgment rather than authorizing unrestricted retaliation.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 Joshua’s city is granted according to Yahweh’s command (50), and the division by lot takes place before Yahweh (51). No new divine speech is quoted or visible manifestation reported.
@@ -3972,6 +3978,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

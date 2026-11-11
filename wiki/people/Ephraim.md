@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Shechem is located in Ephraim’s hill country among the western refuge cities (7). This is tribal geography, not an appearance by the patriarch.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 The name locates Joshua’s requested city in the hill country (50), within the tribal geography. The patriarch is not a living participant; no new tribal boundary is drawn.
@@ -190,6 +196,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

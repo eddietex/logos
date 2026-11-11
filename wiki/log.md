@@ -25476,3 +25476,34 @@ Joshua 14:1–15; 18:1–10 and Numbers 34:17–18. Raw texts and workflow files
 Totals by frontmatter: 428 passages, 283 people, 533 places, 87 themes, 828 connections.
 Link checks pass with 56 expected not-yet-started book targets; git diff --check is clean.
 No unresolved issue introduced by this ingest.
+
+## [2026-11-11] ingest | Joshua 20.1-9 — The Cities of Refuge Appointed
+
+Ingested [[The Cities of Refuge Appointed]] from stored WEB Joshua 20:1–9 in auto mode.
+Retained the planned boundary; Joshua is now 35 / 42 pericopes ingested.
+
+Created the passage and [[Galilee]] (2 pages). Revised 34 existing content pages:
+Joshua, 3 earlier refuge passages, 9 people, 10 places, 9 themes, and 2 connections.
+Updated 8 index/dashboard pages and this log: 43 existing pages revised in total.
+Counts by frontmatter type: 429 passages, 283 people, 534 places, 87 themes,
+828 connections; 10 books started, 9 complete.
+
+Extended [[A Place to Flee - Exodus 21 and Numbers 35]] and
+[[The Redeemer and the Avenger of Blood]] instead of duplicating the refuge-law thread.
+Distinguished admission at the gate from congregational trial and residence until the
+high priest's death. Kept the conditional additional cities of Deuteronomy 19 as an
+interpretive issue; Joshua's six-city list does not explain their absence. The eastern
+cities repeat Moses' designations without specifying the administrative relationship.
+No named high priest or individual asylum case is invented. Tribal names update the
+existing ancestor pages explicitly as descendants, following the established convention.
+
+Kedesh now covers the named Naphtali refuge while retaining uncertainty about the
+unqualified royal city of Joshua 12:22; removed the obsolete claim that its page covered
+only the king list. Galilee receives a regional page without a modern identification.
+Quotations are copied from stored WEB Joshua; comparisons checked in stored Numbers 35
+and Deuteronomy 4 and 19. No unstored-book quotations or new source-language claims.
+Existing raw texts and workflow instructions are unchanged.
+
+Validation: scripts/link-check.sh exits 0, with no wrapped links or unexpected dangling
+targets; 56 not-yet-started book pages remain the expected baseline. Frontmatter totals
+match the dashboard. No unresolved ingestion blocker.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Golan is the refuge named in Bashan, assigned from Manasseh (8). The appointment adds judicial protection to the account of eastern settlement.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Named with Gilead as Machir’s eastern holding, outside the ten parts described for western Manasseh
@@ -99,6 +105,7 @@ Source: stored WEB Numbers 21:21–35.
 **Joshua 12:1–24 — the list of kings.** Og's kingdom is recalled *to the border of the Geshurites and the Maacathites* (12:5); see [[Geshur]] and [[Maacath]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

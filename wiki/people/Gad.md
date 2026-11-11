@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+Ramoth in Gilead is assigned from Gad’s tribe as an eastern refuge (8), repeating Deuteronomy 4:43. The patriarch is not present.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The descendant tribe already has its inheritance east of the Jordan through Moses and receives no
@@ -189,6 +195,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

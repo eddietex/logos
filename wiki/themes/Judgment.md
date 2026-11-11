@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+The fugitive presents his case to the refuge city’s elders at its gate (4); the congregation’s trial remains ahead (6, 9). Admission and final judgment are distinct moments, not interchangeable verdicts.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The capture of Ai — Joshua 8:1–29
 
 Judgment on Ai follows judgment within Israel. The city is burned and made *a heap forever* (28),
@@ -1024,6 +1030,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

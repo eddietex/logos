@@ -176,6 +176,10 @@ it Dan.
 Timnathserah, and a summary of shared administration before Yahweh at Shiloh. Joshua builds
 and inhabits his grant; finished division does not erase the remaining-land notices.
 
+[[The Cities of Refuge Appointed]] (20:1–9) implements the refuge command with six named cities.
+The gate hearing, protection before congregational trial, and residence until the high
+priest’s death place judicial safeguards within the settled land, including resident aliens.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -192,7 +196,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **34 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **35 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -228,7 +232,7 @@ Plan drawn 2026-11-10 from the stored WEB. **34 / 42 pericopes ingested.**
 - [x] [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23
 - [x] [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48
 - [x] [[Joshua's Own Inheritance]] — Joshua 19:49–51
-- [ ] The Cities of Refuge Appointed — Joshua 20:1–9
+- [x] [[The Cities of Refuge Appointed]] — Joshua 20:1–9
 - [ ] The Cities of the Levites — Joshua 21:1–42
 - [ ] Not One Good Thing Failed — Joshua 21:43–45
 - [ ] The Eastern Tribes Sent Home — Joshua 22:1–9

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+The avenger of blood may pursue, but the city must not surrender the person who killed unintentionally without prior hatred (3–5). Protection pending trial prevents the death of the accused before communal judgment (9).
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Secretly killing a neighbor and accepting a bribe to kill an innocent person are cursed (24–25). Concealment and payment do not make the taking of life permissible.
@@ -403,6 +409,7 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

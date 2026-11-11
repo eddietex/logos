@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Refuge cities appointed — Joshua 20:1–9
+
+He receives the command to tell Israel to appoint the refuge cities (1–2). The following communal designation implements the law; no individual asylum hearing by Joshua is narrated.
+
+See [[The Cities of Refuge Appointed]]. Source: stored WEB Joshua 20:1–9.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 Israel gives Joshua the city he requests under Yahweh’s command (49–50). He builds it and lives there; the distributor is also a recipient among the people. Verse 51 names him with Eleazar and the tribal household heads.
@@ -370,6 +376,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

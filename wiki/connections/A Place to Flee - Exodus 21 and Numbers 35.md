@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
+
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13; three cities in the land, three more if the border
   grows, and the murderer handed to the avenger.
 
@@ -22,6 +24,22 @@ tags: [connection]
   WEB, now ingested from the stored raw text.
 
 ## Analysis
+
+### The refuges appointed — Joshua 20:1–9
+
+Joshua 20:1–9 now names the complete six-city network under the command previously given
+through Moses. The western cities are Kedesh, Shechem, and Hebron; the eastern cities repeat
+Deuteronomy 4:43. Joshua adds the fugitive’s presentation at the refuge city’s gate and the
+elders’ duty to provide a place and refuse surrender (4–5). Congregational trial and residence
+until the high priest’s death remain (6, 9), as in Numbers 35:24–28.
+
+The six named cities do not resolve Deuteronomy 19:8–9’s conditional extra three. Nor does
+Joshua narrate an actual hearing or explain how all the bodies’ responsibilities were
+coordinated. The contrast between the murderer’s own elders in Deuteronomy 19:12 and the
+refuge city’s elders in Joshua 20:4 concerns different cases; it is not a contradiction
+requiring the protection or punishment to be removed.
+
+Source: stored WEB Joshua 20, Numbers 35, and Deuteronomy 4 and 19.
 
 ### The eastern cities named — Deuteronomy 4:41–43
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
+
 - [[Refuge for the Unwitting Killer]] — Deuteronomy 19:1–13.
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.
 
@@ -41,6 +43,18 @@ tags: [connection]
 - **Revelation 6:9–10** — *"How long, Master … until you judge and avenge our blood?"*
 
 ## Analysis
+
+### The refuges appointed — Joshua 20:1–9
+
+Joshua 20:3–9 makes the limit on the avenger concrete. The refuge city’s elders must
+receive the unintentional killer and refuse to deliver him to the pursuer (4–5), while
+the congregation’s trial remains necessary (6, 9). The avenger’s role therefore cannot
+be summarized as an unrestricted right to kill whoever caused the death. This develops
+the legal distinction already recorded from Numbers 35, without making a new claim
+about the Hebrew title. The high priest’s death permits return home; Joshua does not
+explain that death as sacrifice or identify it with a later redeemer.
+
+Source: stored WEB Joshua 20, Numbers 35, and Deuteronomy 4 and 19.
 
 ### Numbers 35 now ingested
 
