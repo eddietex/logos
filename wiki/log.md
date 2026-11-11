@@ -25588,7 +25588,7 @@ the draft against raw/ and the workflow, then committed it as this one ingest.
 Created one passage page and one connection
 ([[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]]). Revised 29
 existing content pages: the book, five earlier passages, seven people, five places, nine themes,
-and two connections. Also updated eight indexes and dashboards and this log.
+and two connections. Also updated nine indexes and dashboards and this log.
 Frontmatter totals: 432 passages, 283 people, 544 places, 87 themes, 830 connections;
 10 books started, 9 complete.
 
