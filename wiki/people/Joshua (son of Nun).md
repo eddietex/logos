@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Joshua secretly sends two unnamed spies from Shittim to inspect the land and Jericho (1). They return directly to him with Rahab’s testimony of the inhabitants’ fear and a confident report of Yahweh’s gift (23–24). The text does not explain why he chooses two.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The eastern tribes pledge — Joshua 1:10–18
 
 Joshua's first act is to pass the command on: the officers are to tell the camp to prepare provisions for a crossing *within three days* (10–11). He reminds the Reubenites, Gadites and half-tribe of Manasseh of Moses' word in the language of Deuteronomy 3:18–20, adding *and shall help them* (14). They pledge to listen to him *just as we listened to Moses*, wish that Yahweh be with him *as he was with Moses*, put to death anyone who *rebels against your mouth* (*yamreh ʾet-pîkā*, MAM via Sefaria), and return Yahweh's own charge: *Only be strong and courageous* (16–18). His authority is accepted, and measured by Moses.
@@ -200,6 +206,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; commands the officers and holds the eastern tribes to Moses' word; they pledge obedience and return the courage charge.
 - [[After the Death of Moses]] — Joshua 1:1–9; commissioned by Yahweh directly after Moses' death.

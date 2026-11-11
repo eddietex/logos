@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab’s confession that Yahweh has given Israel the land becomes action: she shelters the spies and asks protection for her family (9–14). Hebrews 11:31 later interprets her reception of them as faith; Joshua itself narrates the confession and risk.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The song as witness — Deuteronomy 31:14–23
 
 Joshua is commanded to be strong and courageous because God will be with him as he brings Israel
@@ -313,6 +319,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.
 

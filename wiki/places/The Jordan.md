@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+The pursuers head toward the Jordan’s fords while the spies hide in the mountain country; afterward the spies cross the river to report to Joshua (7, 22–23). This small return crossing precedes the national crossing.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Within three days — Joshua 1:10–18
 
 *Within three days you are to pass over this Jordan* (11). The river is now also the line dividing the eastern tribes' families, *beyond the Jordan toward the sunrise* (15), from their fighting men, who cross with their brothers. The chronology of the *three days* against chapters 2–3 is noted, unresolved, on the passage page.
@@ -236,6 +242,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *within three days you are to pass over this Jordan* (11); the eastern land *beyond the Jordan toward the sunrise* (15).
 - [[After the Death of Moses]] — Joshua 1:1–9; *Arise, go across this Jordan* (2); the crossing commanded.
 

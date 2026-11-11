@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab reports that Jericho has heard how Yahweh dried up the sea when Israel left Egypt (10). Israel’s remembered deliverance has become news that frightens another people.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 Moses recalls Yahweh making the Red Sea overflow Egypt's army, horses, and chariots as they pursued Israel (4). The sea is a memory used to argue for obedience.
@@ -77,6 +83,7 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 

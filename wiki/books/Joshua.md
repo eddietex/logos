@@ -31,6 +31,10 @@ language of Deuteronomy 3:18–20 — their rest already given, their brothers' 
 receives a pledge of obedience *as … to Moses*, with death for rebellion and Yahweh's own *Only be
 strong and courageous* returned to him.
 
+[[Rahab and the Spies]] (2:1–24) brings testimony from inside Jericho: Rahab’s confession and
+protection of the spies lead to an oath for her household, and the spies carry her confidence back
+to Joshua. The land’s frightened inhabitants now supply the encouragement Israel needs.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -47,11 +51,11 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **2 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **3 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
-- [ ] Rahab and the Spies — Joshua 2:1–24
+- [x] [[Rahab and the Spies]] — Joshua 2:1–24
 - [ ] Crossing the Jordan — Joshua 3:1–17
 - [ ] The Twelve Stones from the Jordan — Joshua 4:1–24
 - [ ] The Second Circumcision at Gilgal — Joshua 5:1–9
@@ -102,11 +106,16 @@ Plan drawn 2026-11-10 from the stored WEB. **2 / 42 pericopes ingested.**
 - [[Slavery and Servitude]]
 
 ## Key people
+- [[Rahab]]
+- [[The Two Spies Sent by Joshua]]
+- [[King of Jericho (of Joshua's time)]]
 - [[God]]
 - [[Joshua (son of Nun)]]
 - [[Moses]]
 
 ## Key places
+- [[Jericho]]
+- [[Shittim]]
 - [[The Jordan]]
 - [[Lebanon]]
 - [[The Euphrates]]

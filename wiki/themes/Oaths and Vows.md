@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab asks for an oath by Yahweh, and the spies pledge their lives for hers (12–14). The scarlet line, the gathering of her household inside, and secrecy specify the obligation and its limits (17–20). This is promised rescue; fulfillment belongs to Joshua 6.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The eastern tribes' pledge — Joshua 1:10–18
 
 The eastern tribes renew the undertaking of Numbers 32 to Joshua: *All that you have commanded us we will do, and wherever you send us we will go* (16), with a self-imposed penalty of death for anyone who rebels (18). No oath formula is used; it is a pledge, kept in 4:12–13 and acknowledged in 22:1–9.
@@ -445,6 +451,7 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the pledge renewed to Joshua (16–18).
 - [[After the Death of Moses]] — Joshua 1:1–9; *the land which I swore to their fathers* (6).
 

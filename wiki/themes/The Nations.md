@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+A woman within threatened Jericho confesses Yahweh’s rule in heaven and earth and seeks protection under an Israelite oath (9–14). The story distinguishes her response from the king’s pursuit rather than treating all inhabitants as a single moral actor.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The nations receive bounds (8), a foolish nation provokes Israel (21), enemies might claim divine victory as their own (27), and nations are finally invited to rejoice with his people (43). No particular later empire is named.
@@ -416,6 +422,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

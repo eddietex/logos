@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab acknowledges that Yahweh has given Israel the land (9), and the spies repeat that certainty to Joshua (24). A resident’s report of fear becomes encouragement to the people who are about to enter.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Rest before the land — Joshua 1:10–18
 
 *Yahweh your God gives you rest, and will give you this land* (13). For the eastern tribes rest has come first and east of the river, outside Canaan as Numbers 34 draws it; Deuteronomy 12:9 had said Israel *haven't yet come to the rest and to the inheritance*. Their land is *the land of your possession* (15), but they may not settle in it until the others possess theirs.
@@ -820,6 +826,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; rest and possession east of the Jordan, deferred for the brothers (13–15).
 - [[After the Death of Moses]] — Joshua 1:1–9; the land given in Deuteronomy 11:24's border (3–4).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land seen, not entered.

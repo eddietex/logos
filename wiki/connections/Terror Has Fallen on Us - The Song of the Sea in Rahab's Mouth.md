@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Rahab and the Spies]] — Joshua 2:1–24 (now ingested).
+
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26 (now ingested).
 
 - **Exodus 15:14–16** — *"The peoples have heard. They tremble … All the inhabitants of Canaan have melted
@@ -15,14 +17,21 @@ tags: [connection]
 - **Joshua 2:9–11** — Rahab to the spies: *"I know that Yahweh has given you the land, and that the fear of
   you has fallen upon us, and that all the inhabitants of the land melt away before you. For we have heard
   how Yahweh dried up the water of the Red Sea before you, when you came out of Egypt … As soon as we had
-  heard it, our hearts melted"* (WEB; *not yet ingested*)
+  heard it, our hearts melted"* (WEB; *now ingested*)
 - **Joshua 2:24** — the spies to Joshua: *"Moreover, all the inhabitants of the land melt away before us."*
-  (WEB; *not yet ingested*)
+  (WEB; *now ingested*)
 - **Genesis 15:12** — *"Now terror and great darkness fell on him"* — [[The Covenant Between the Pieces]]
 - **Exodus 23:27** — *"I will send my terror before you, and will confuse all the people to whom you come"*
   — [[The Angel Sent Ahead]]
 
 ## Analysis
+
+### Joshua 2 now ingested
+
+The shared images of hearing, fear, and melting are visible in the stored WEB. Correction to the earlier claim of the same order: Joshua 2:9 puts fear and melting before the explanation that the people heard in 2:10; Exodus 15:14–16 moves from hearing to melting to terror. The parallel is thematic and verbal, not an identical sequence. Also, Rahab is the responding resident foregrounded by this chapter, not demonstrably the only person in Jericho who acts on the news. The earlier source-language comparisons retain their stated WLC provenance and were not independently rechecked in this ingest.
+
+Source for this addition: stored WEB Joshua 2:1–24; comparisons to stored Exodus and Numbers.
+
 
 ### Deuteronomy 7:12–26 now ingested
 
@@ -33,7 +42,8 @@ describe in Joshua 2.
 
 Source for this addition: stored WEB Deuteronomy 7:12–26; Exodus 23:27.
 
-**Rahab's speech uses the Song's phrases, in the Song's order.** (All forms checked in the WLC.)
+**Rahab's speech echoes the Song's phrases, but not in the same order.** The earlier
+claim of identical order is corrected above. (The prior lexical analysis identified WLC as its source.)
 
 | Exodus 15 | Joshua 2 |
 |---|---|
@@ -64,8 +74,8 @@ See [[Twelve Spies and Two - Numbers 13 and Joshua 2]].
 ## Significance
 
 **The Song predicted what the nations would hear and feel; Joshua 2 has one of those nations report that it
-happened, in the Song's words.** Forty years separate the two, and the inhabitant who says it is the one
-person in Jericho who acts on it. **What the Song sang of *"the inhabitants of Canaan"* as a mass becomes,
+happened, in the Song's words.** Forty years separate the two, and the inhabitant who says it is the
+person whose protective action this chapter narrates. **What the Song sang of *"the inhabitants of Canaan"* as a mass becomes,
 in Rahab, a single woman who heard and believed** — the Song's *"heard … tremble"* and the people's *"feared
 … believed"* at 14:31 joined in one Canaanite. **Whether Joshua 2 deliberately quotes Exodus 15 or both
 draw on a shared stock of conquest language** is a question the text does not settle (reported, not

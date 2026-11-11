@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab receives endangered strangers, conceals them, and enables their escape (1–16). Shelter becomes allegiance against her own king’s demand. The narrative identifies her as a prostitute but does not report a sexual encounter with the spies.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 Receiving a stranger — feeding, washing, sheltering, and escorting someone who has no claim on you
 — and the Bible's insistence that this is not a courtesy but an obligation with judgment attached
 to it.
@@ -175,6 +181,7 @@ Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son i
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which
   the offer and the table are two different sizes and the host does not sit down

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab names his destruction alongside Og as news that has reached Jericho and caused its inhabitants to lose courage (10–11). The defeated king appears in remembered testimony, not in a new battle.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 His destruction with Og and their land supplies the explicit precedent for Yahweh’s action against the nations ahead (4). This is recollection, not another battle.
@@ -75,6 +81,7 @@ territory to Israel (21–26). He had previously taken this territory from Moab;
 recalls that earlier victory (27–30).
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

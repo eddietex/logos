@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab describes the inhabitants’ loss of courage at news of Yahweh’s deeds (9–11). Her confession and protective action distinguish her response from collective terror; fear of Israel and reverent allegiance should not simply be equated.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Failure to fear Yahweh’s glorious name accompanies disobedience (58); exile then brings fearful insecurity morning and evening (65–67). Reverence and debilitating terror have distinct roles in the warning.
@@ -514,6 +520,7 @@ and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or 
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

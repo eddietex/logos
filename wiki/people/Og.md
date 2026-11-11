@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab names him with Sihon among the two Amorite kings whose destruction has terrified Jericho (10–11). The significance here is the report’s effect west of the Jordan, not a further conquest.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Courage and succession — Deuteronomy 31:1–8
 
 His destruction alongside Sihon is recalled to encourage the people facing the crossing (4). The defeated kings are both identified as Amorite rulers.
@@ -66,6 +72,7 @@ victory; Og, his sons, and his people are struck until no survivors remain, and 
 land (34–35). This unit gives no physical description of Og.
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Be Strong as Joshua Takes the Lead]] — Deuteronomy 31:1–8.
 

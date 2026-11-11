@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Reconnaissance involves local testimony, concealment, pursuit, and escape before any siege (1–24). The promise to spare Rahab’s household complicates an undifferentiated picture of destruction; Joshua 2 establishes the undertaking without yet narrating its execution.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Armed before their brothers — Joshua 1:10–18
 
 *You shall pass over before your brothers armed, all the mighty men of valor* (14). Joshua's word for *armed* is *ḥămušîm* (Exodus 13:18), not Deuteronomy 3:18's *ḥălûṣîm* (MAM via Sefaria); its exact sense is disputed. The tribes' fighting men are to *help* their brothers (14), a word neither Numbers 32 nor Deuteronomy 3 uses. Families stay behind; only fighting men cross.
@@ -512,6 +518,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the eastern fighting men cross armed (14).
 - [[After the Death of Moses]] — Joshua 1:1–9; *No man will be able to stand before you* (5).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

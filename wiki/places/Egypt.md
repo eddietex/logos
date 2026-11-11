@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Egypt is the land from which Israel came out in Rahab’s account of the sea miracle (10). It is remembered as part of the explanation for Jericho’s fear, not visited in this episode.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The epitaph recalls the signs and wonders done *in the land of Egypt* (11).
@@ -424,6 +430,7 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Recalled in the epitaph (11).
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

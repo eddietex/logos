@@ -7,12 +7,14 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Rahab and the Spies]] — Joshua 2:1–24 (now ingested).
+
 - **Exodus 1:15–21** — the midwives fear God, save the boys, and answer the king that the Hebrew
   women *"are vigorous, and give birth before the midwife comes to them"*; *"God dealt well with the
   midwives"* — [[The Oppression in Egypt]]
 - **Joshua 2:1–7** — Rahab hides the spies from the king of Jericho: *"Yes, the men came to me, but I
   didn't know where they came from … Where the men went, I don't know"* (2:4–5), *"But she had brought
-  them up to the roof"* (2:6) *(not yet ingested)*
+  them up to the roof"* (2:6) *(now ingested)*
 - **Hebrews 11:31** — *"By faith, Rahab the prostitute, didn't perish with those who were
   disobedient, having received the spies in peace"*
 - **James 2:25** — *"wasn't Rahab the prostitute also justified by works, in that she received the
@@ -21,6 +23,13 @@ tags: [connection]
 
 ## Analysis
 
+### Joshua 2 now ingested
+
+The complete episode now shows the oath’s conditions (17–20), not only Rahab’s concealment. Unlike Exodus 1:20–21, Joshua 2 does not yet narrate divine reward or the household’s rescue; it records the spies’ commitment. Joshua 6 narrates fulfillment. The earlier comparison must be read with that distinction. The interpretation associated above with Augustine was not checked against his writings in this pass; that attribution remains unverified.
+
+Source for this addition: stored WEB Joshua 2:1–24; comparisons to stored Exodus and Numbers.
+
+
 **Two scenes with the same parts**: a king demands that women hand over Israelite lives; the women
 refuse; they tell the king's men something untrue; and Scripture rewards them.
 
@@ -28,7 +37,7 @@ refuse; they tell the king's men something untrue; and Scripture rewards them.
 |---|---|---|
 | the king | of Egypt, unnamed | of Jericho, unnamed |
 | the demand | kill the sons at birth | *"Bring out the men"* (Joshua 2:3) |
-| the ground | *"the midwives feared God"* (1:17) | her confession of Yahweh *(Joshua 2:9–11, to be read when ingested)* |
+| the ground | *"the midwives feared God"* (1:17) | her confession of Yahweh *(Joshua 2:9–11, now ingested)* |
 | the words | the Hebrew women give birth before the midwife comes | the men left at dusk; *"I don't know"* |
 | the reward | *"he gave them families"* (1:21) | her household spared *(Joshua 6)* |
 | the New Testament | — | commended for her act, by faith (Hebrews) and by works (James) |

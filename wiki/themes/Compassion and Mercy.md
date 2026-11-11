@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab appeals to the kindness she has shown and asks reciprocal protection for her whole household (12–14). Mercy here takes the concrete form of a pledged exception within impending conquest.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Yahweh has compassion on servants whose power is gone (36). Unlike the explicit return of 30:1–3, this line names helplessness rather than a prior confession. These are different emphases, not grounds to delete either account of restoration.
@@ -413,6 +419,7 @@ same chapter the guilty man's beating is capped so that *"your brother"* is not 
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

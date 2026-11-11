@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+The spies enter Rahab’s house in Jericho; its king orders their surrender, but she conceals them (1–7). Her house is on the city wall, allowing escape through a window (15). This is now an event within the city, unlike its earlier use as a distant geographical landmark; the city has not yet fallen.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Nebo is *over against Jericho* (1), and the view ends with *the Plain of the valley of Jericho the city of palm trees* (3).
@@ -64,6 +70,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Opposite Nebo; *the city of palm trees* (1, 3).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 - [[The Marriage of the Daughters of Zelophehad]] — Numbers 36:1–13.
@@ -89,4 +96,5 @@ Israel does not enter or conquer Jericho in this unit.
 
 ## Events here
 
-- A reference point for the camp across the river, not a narrated event within the city.
+- Earlier Torah passages use it as a reference point for the camp across the river.
+- [[Rahab and the Spies]] — Joshua 2:1–24; concealment, pursuit, and escape within the city.

@@ -24518,3 +24518,37 @@ checked and is marked so. Glosses of *ṣêdâ* and the dispute over *ḥămuš�
 not checked against a named lexicon, and are qualified on the page. The Greek of Hebrews 4 was not
 compared with the Septuagint of Joshua; no claim is made. Validation: `scripts/link-check.sh`
 exited 0 (56 expected not-yet-started books).
+
+
+## [2026-11-10] ingest | Joshua 2.1-24 — Rahab and the Spies
+
+Ingested [[Rahab and the Spies]] from the stored WEB, without changing its planned boundary.
+Joshua now stands at 3 / 42 pericopes. Created four pages: the passage, [[Rahab]],
+[[King of Jericho (of Joshua's time)]], and [[The Two Spies Sent by Joshua]]. The unnamed ruler
+is qualified by narrative period; the two unnamed agents receive a collective page because their
+oath and report are central to this episode. No personal names or historical identifications are
+supplied for them, and no separate page is invented for the unidentified mountain or household.
+
+Revised 22 existing content pages: Joshua; God, Joshua (son of Nun), Sihon, and Og; Shittim,
+Jericho, the Jordan, the Red Sea, and Egypt; Faith, Deception, Oaths and Vows, Hospitality,
+Compassion and Mercy, War, Land and Sojourning, the Nations, and the Fear of God; and the three
+existing connections on the midwives, the Song of the Sea, and the twelve spies versus two.
+Updated eight index/dashboard pages and this log: four created and 31 revised wiki files total.
+Frontmatter counts: 397 passages, 260 people, 225 places, 87 themes, 796 connections;
+10 books started, nine complete.
+
+The passage absorbs the unattended discussion: confession expressed in protection, the conditional
+oath and scarlet sign, deception without a blanket moral verdict, and the unresolved relationship
+of the three-day notices in Joshua 1–3. Corrected the existing Song connection’s claim of identical
+phrase order and its unsupported claim that Rahab was the only resident to act. The spies’ report
+is a literary reversal of Numbers 13, not evidence of the earlier generation’s actual thoughts.
+Distinguished promised rescue in chapter 2 from its fulfillment in chapter 6. No new contradiction
+was silently harmonized.
+
+All new quotations were copied from raw/bible/Joshua.md. Checked relevant comparisons against
+stored WEB Exodus 1 and 15, Numbers 13, and Joshua 6; New Testament references in the new prose
+are paraphrases, not recalled quotations. No new source-language assertions were made. Earlier
+WLC comparisons retain their source attribution; the pre-existing Augustine attribution is now
+explicitly marked unverified on the connection page. Raw files and workflow instructions were
+unchanged. Link checks passed with no wrapped or dangling links; 56 unopened book pages remain
+the expected baseline. No operational blocker or deliberately dangling link remains.

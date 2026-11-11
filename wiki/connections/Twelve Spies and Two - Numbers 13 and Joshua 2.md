@@ -7,13 +7,22 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Rahab and the Spies]] — Joshua 2:1–24 (now ingested).
+
 - [[The Twelve Spies]] — Numbers 13:1–33
 - Joshua 2:1, 9, 23–24 — *two men … as spies* *(WEB checked; see
-  [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]]; not yet ingested)*
+  [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]]; now ingested)*
 - [[The Brothers' First Journey to Egypt]] — Genesis 42:9; *You are spies!*
 - Judges 1:23–24 — the house of Joseph at Bethel *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Joshua 2 now ingested
+
+The now-ingested chapter makes the dependence of the final report on Rahab’s speech especially clear (9, 24). The mission is secret and its report goes to Joshua (1, 23); an intention to prevent a second public panic remains an inference. Rahab speaks a generation after Numbers 13, so her testimony reverses its literary perspective without proving what the earlier inhabitants actually thought at that earlier date.
+
+Source for this addition: stored WEB Joshua 2:1–24; comparisons to stored Exodus and Numbers.
+
 
 Joshua is one of the two spies of Kadesh who were faithful, and when he sends spies himself, he
 sends two.

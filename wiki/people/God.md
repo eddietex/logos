@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab confesses Yahweh as God in heaven and on earth after hearing of the exodus and the defeat of Sihon and Og (9–11). His gift of the land grounds both her plea for protection and the spies’ confident report (14, 24); no new divine speech is narrated here.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### Rest given and rest awaited — Joshua 1:10–18
 
 Yahweh is the giver of the land (11, 15) and of rest: *Yahweh your God gives you rest* (13), and the eastern tribes serve *until Yahweh has given your brothers rest, as he has given you* (15). The people wish that he be with Joshua *as he was with Moses* (17) — the promise of 1:5 repeated as a prayer.
@@ -3792,6 +3798,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; gives rest and land; the people pray he be with Joshua as with Moses (17).
 - [[After the Death of Moses]] — Joshua 1:1–9; Speaks first to Joshua after Moses' death; gives the land, promises presence, commands courage and the book of the law.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Shows Moses the sworn land; Moses dies at his word.

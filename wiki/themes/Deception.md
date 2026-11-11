@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Rahab and the spies — Joshua 2:1–24
+
+Rahab says the men left at dusk while she has actually hidden them under flax on her roof (4–6). The narrative makes the false report plain but does not pronounce a general rule about lying. Protection of life and deception remain an ethical tension, not a reason to erase either feature.
+
+See [[Rahab and the Spies]]. Source: stored WEB Joshua 2:1–24.
+
 ### The false witness — Deuteronomy 19:16–19
 
 *"If the witness is a false witness, and has testified falsely against his brother"* (18): the case
@@ -364,6 +370,7 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+- [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–17.
 
