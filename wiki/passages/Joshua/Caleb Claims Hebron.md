@@ -70,6 +70,7 @@ Full pericope, WEB, copied from the stored source:
 - [[Names and Naming]] — Verse 15 supplies Hebron’s former name, Kiriath Arba, and associates it with the greatest man among the Anakim. It does not narrate when the name changed or identify who changed it.
 
 ## Cross-references
+- [[Forest to Clear and Chariots to Face]] — Joseph’s request and the challenge of strong inhabitants.
 - [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]]
 - [[Wholly Followed - Mille Ahare in Numbers, Deuteronomy, Joshua, and 1 Kings]]
 - [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]]

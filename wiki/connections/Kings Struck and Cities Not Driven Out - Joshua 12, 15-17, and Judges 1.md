@@ -6,6 +6,7 @@ tags: [connection]
 # Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1
 
 ## Passages involved
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Kings Struck Down]] — Joshua 12:1–24; thirty-one western kings counted.
@@ -16,6 +17,15 @@ tags: [connection]
 - Judges 1:21, 22–25, 27, 29 — WEB checked at bible-api.com, not yet ingested.
 
 ## Analysis
+
+### Joseph’s request for more
+
+Joshua 17:16 names Canaanite iron chariots at Beth Shean and in the Jezreel valley as the
+petitioners’ obstacle. Joshua’s assurance of expulsion in verse 18 stands in explicit tension
+with the inability and forced labor reported in verses 12–13. It is a promise within dialogue,
+not evidence that the earlier non-removal has already ended.
+
+Source: stored WEB Joshua 14:4; 16–17.
 
 ### Manasseh’s allotment
 

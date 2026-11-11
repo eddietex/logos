@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+He accepts Joseph’s claim of numbers, turns it into responsibility to clear the forest, and affirms that strong Canaanites with iron chariots can be driven out (15–18). No battle outcome is narrated here.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The daughters address him with Eleazar and the princes; the narrative reports the grant according to
@@ -350,6 +356,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

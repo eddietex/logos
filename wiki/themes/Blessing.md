@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+Joseph’s descendants invoke Yahweh’s blessing to explain their numbers (14). Joshua accepts their strength as a reason they can act, rather than treating blessing as exemption from labor or conflict.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Achsah asks her father for a blessing and specifies springs of water (19). Caleb answers with both upper and lower springs. Here blessing takes the concrete form of a resource grant rather than a recorded spoken benediction.
@@ -551,6 +557,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

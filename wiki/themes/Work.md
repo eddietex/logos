@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+Joshua twice directs forest clearance (15, 18). The inheritance requires labor to become usable; this passage joins land received with work still required.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 House-building, planting, sowing, and tending vineyards fail to yield enjoyment (30, 33, 38–40). The curse includes labor whose benefit goes to others, not simply the absence of effort.
@@ -783,6 +789,7 @@ quotes the verse for the support of those who teach (1 Corinthians 9:9; 1 Timoth
 [[Do Not Muzzle the Ox - Deuteronomy 25.4, 1 Corinthians 9, and 1 Timothy 5]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

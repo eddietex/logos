@@ -6,6 +6,7 @@ tags: [connection]
 # Two Tribes in Place of One - The Adoption of Ephraim and Manasseh
 
 ## Passages involved
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
@@ -36,6 +37,15 @@ tags: [connection]
 - [[The Camp Around the Tent]] — Numbers 2:18–24; Ephraim heads the west camp, with Manasseh next to him
 
 ## Analysis
+
+### Joseph’s request for more
+
+The house of Joseph explicitly means Ephraim and Manasseh (17). Its complaint of one lot (14)
+stands beside the two-tribe scheme of 14:4 and the separate inheritances in chapters 16–17.
+The complaint emphasizes insufficient room; the exchange supplies no new arithmetic of lots
+or reversal of the two tribes’ status. Joshua instead promises forested land to be cleared.
+
+Source: stored WEB Joshua 14:4; 16–17.
 
 ### Manasseh’s allotment
 

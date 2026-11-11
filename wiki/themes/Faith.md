@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+Joshua’s assurance challenges the house of Joseph’s focus on enemy strength (16–18). Confidence is invited, but the passage neither names their response as faith nor records their subsequent obedience.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb contrasts the discouraging report with his own loyalty and requests the very hill country remembered for formidable inhabitants (7–12). His confidence includes dependence on Yahweh’s presence rather than a claim that age or strength guarantees victory.
@@ -351,6 +357,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

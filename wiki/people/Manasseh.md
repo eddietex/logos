@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+The tribe joins Ephraim in the petition (17). The promise of expulsion (18) stands in tension with the immediately preceding inability and forced-labor notices (12–13); the promise is not a report that expulsion occurred.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The western allotment includes ten parts beside the eastern holdings, explicitly accounting for
@@ -241,6 +247,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

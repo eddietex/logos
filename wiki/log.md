@@ -25302,3 +25302,25 @@ recounting corrects that stale dashboard along with adding the new collective pa
 Link checks passed: no wrapped or dangling links; 56 unstarted book pages are the expected
 baseline. The pre-existing oversized places index remains unsplit in this pericope pass.
 No operational blocker remains.
+
+## [2026-11-11] ingest | Joshua 17.14-18 — The Children of Joseph Ask for More
+
+- Ingested exactly the next queued pericope in auto mode; boundary unchanged. Joshua is now
+  29 / 42 pericopes complete. The passage page contains the full stored WEB text and discussion
+  of Joseph’s request, forest clearance, and the obstacle of iron chariots.
+- Created 5 pages: the passage, The Perizzites, The Hill Country of Ephraim, The Valley of Jezreel,
+  and Forest to Clear and Chariots to Face. The people are treated collectively; the hill country
+  has a descriptive regional title distinct from the ancestor Ephraim; the valley is distinguished
+  from Jezreel (Judah). No precise modern geography or chariot construction is asserted.
+- Revised 18 existing content pages: Joshua; six people; two places; five themes; two connections;
+  and the Caleb and war-law comparison passages. Updated ten index/dashboard pages and this log
+  (29 revised pages total). Counts by frontmatter: 423 passages, 283 people, 417 places,
+  87 themes, 823 connections.
+- Preserved the tension between one lot and two tribal inheritances, and between Joshua’s assurance
+  of expulsion and the preceding non-removal/forced-labor report. The western Rephaim designation
+  is not treated as proof of surviving members or as a resolved contradiction with Og’s remnant.
+- Sources: quotations copied from raw/bible/Joshua.md, 17:14–18. Comparisons checked in stored
+  WEB Joshua 14:1–15; 15:56; 16–17 and Deuteronomy 20:1–4. No new external quotations or exact
+  source-language claims; raw files unchanged. No harness or workflow changes required.
+- Validation: scripts/link-check.sh clean (56 expected not-yet-started book targets);
+  git diff --check clean. No unresolved link or operational issue.

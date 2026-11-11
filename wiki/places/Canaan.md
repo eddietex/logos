@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+Canaanite strength and iron chariots are the petitioners’ obstacle (16); Joshua promises their expulsion despite that strength (18). This assurance remains distinct from the non-removal reported in 17:12–13.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The Canaanites persist in Manasseh’s allotted cities; Israel later imposes forced labor without
@@ -484,6 +490,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

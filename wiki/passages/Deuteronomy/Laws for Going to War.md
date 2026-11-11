@@ -152,6 +152,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - [[Brotherhood]] — the fearful man sent home *"lest his brother's heart melt as his heart"* (8).
 
 ## Cross-references
+- [[Forest to Clear and Chariots to Face]] — Joseph’s request and the challenge of strong inhabitants.
 - [[Yahweh Fights for Israel - The Promise and the Day at Gibeon]]
 
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:14–21; the previous pericope.

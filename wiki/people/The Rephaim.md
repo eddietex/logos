@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+Joshua names their land beside that of the Perizzites as the forest to be cleared (15). This western designation stands beside Og’s eastern remnant in Joshua 13:12. It does not establish that living Rephaim remain here, or that Og’s remnant notice covers every regional use of the name.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Og is recalled as remaining from their remnant (12). The statement belongs to the retrospective account of his defeated kingdom.
@@ -43,6 +49,7 @@ Source: stored WEB Deuteronomy 2:1–23.
 - Joshua 12:4 — Og as their remnant.
 
 ## Appears in
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

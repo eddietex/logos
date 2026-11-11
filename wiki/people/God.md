@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+Joseph’s descendants attribute their numerous population to Yahweh’s blessing (14). No divine speech is recorded in this exchange; the assurance of expulsion is spoken by Joshua.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The daughters appeal to Yahweh’s command through Moses; the grant is made according to that command
@@ -3953,6 +3959,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

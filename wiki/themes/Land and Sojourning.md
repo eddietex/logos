@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+The claim of insufficient land is answered with forest clearance and future expulsion, not a newly narrated lot ceremony (14–18). Allotment, usable land, and occupation are distinct.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Daughters receive the commanded inheritance; ten parts are counted besides the eastern land (3–6).
@@ -956,6 +962,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

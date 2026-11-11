@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joseph asks for more — Joshua 17:14–18
+
+His house speaks collectively, and verse 17 explicitly identifies it as Ephraim and Manasseh. The request concerns descendant tribes rather than the patriarch in person.
+
+See [[The Children of Joseph Ask for More]]. Source: stored WEB Joshua 17:14–18.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Manasseh is identified as his firstborn (1). The allotment concerns descendant families, not Joseph
@@ -483,6 +489,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

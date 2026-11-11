@@ -150,6 +150,10 @@ The grant to Zelophehad’s daughters is implemented in [[The Inheritance of Man
 Manasseh’s boundaries and cross-tribal holdings follow, but the closing notice records
 remaining Canaanites under forced labor rather than complete occupation.
 
+[[The Children of Joseph Ask for More]] (17:14–18) follows the allotments with a request for more room.
+Joshua directs forest clearance and promises victory despite iron chariots; the dialogue
+does not erase the preceding account of non-removal.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -166,7 +170,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **28 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **29 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -196,7 +200,7 @@ Plan drawn 2026-11-10 from the stored WEB. **28 / 42 pericopes ingested.**
 - [x] [[The Cities of Judah]] — Joshua 15:20–63
 - [x] [[The Inheritance of Ephraim]] — Joshua 16:1–10
 - [x] [[The Inheritance of Manasseh]] — Joshua 17:1–13
-- [ ] The Children of Joseph Ask for More — Joshua 17:14–18
+- [x] [[The Children of Joseph Ask for More]] — Joshua 17:14–18
 - [ ] The Land Surveyed at Shiloh — Joshua 18:1–10
 - [ ] The Inheritance of Benjamin — Joshua 18:11–28
 - [ ] The Lots of Simeon, Zebulun, and Issachar — Joshua 19:1–23
