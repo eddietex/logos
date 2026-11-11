@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb attributes forty-five years of survival to Yahweh’s keeping him alive as promised (10). He treats preserved life as capacity for the remaining task, not merely as an occasion for retirement.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The western division — Joshua 14:1–5
 
 The land is distributed by lot as Yahweh commanded (2), while named leaders administer it (1). Read beside Proverbs 16:33, this joins divine direction with human responsibility; Joshua supplies no description of the physical lot procedure.
@@ -449,6 +456,8 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

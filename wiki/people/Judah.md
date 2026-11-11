@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+The children of Judah approach Joshua at Gilgal with Caleb (6). This is the tribe descended from Judah, not the patriarch in person; Caleb’s individual inheritance stands within this tribal setting.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The sin of Achan — Joshua 7:1–26
 
 The tribe of Judah is the first selected when Yahweh narrows the search for the devoted things (16),
@@ -358,6 +365,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Territory seen from Nebo (2).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

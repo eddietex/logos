@@ -9,6 +9,13 @@ tags: [person]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb remembers the fellow scouts who made the people’s heart melt (8), contrasting their discouragement with his own faithful report. They are recalled collectively and are not present at Gilgal; Joshua is Caleb’s addressee, not one of the opposing scouts.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 The ten men sent with Caleb and Joshua who said *We aren't able*. The number is arrived at by
 subtraction: Numbers 13 lists twelve (4–15), and the chapter never says *ten*. The page is named so
 that it does not collide with the passage [[The Twelve Spies]].
@@ -60,6 +67,8 @@ See [[The Spies and the Refusal to Go Up]].
 - Recalled as *our brothers* who *made our heart melt* — Deuteronomy 1:28, [[The Spies and the Refusal to Go Up]]
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Twelve Spies]] — Numbers 13:4–15, 25–33
 - [[The People Refuse the Land]] — Numbers 14:36–37; die by the plague

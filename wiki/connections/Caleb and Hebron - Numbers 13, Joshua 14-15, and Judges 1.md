@@ -9,14 +9,19 @@ tags: [connection]
 
 - [[The Twelve Spies]] — Numbers 13:22, 28, 30
 - [[The People Refuse the Land]] — Numbers 14:24; *him I will bring into the land into which he went*
-- Deuteronomy 1:36 — *the land that he has trodden on* *(WEB checked, not yet ingested)*
+- [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:36 (stored WEB).
 - [[The Whole Land Taken]] — Joshua 11:21–22; Joshua cuts off the Anakim (stored WEB)
-- Joshua 14:6–14 — Caleb asks for the hill country *(WEB checked, not yet ingested)*
+- [[Caleb Claims Hebron]] — Joshua 14:6–15, request, blessing, and grant (stored WEB).
 - Joshua 15:13–14 — Caleb drives out the three *(WEB and WLC checked, not yet ingested)*
 - Judges 1:10, 20 — Judah strikes them, and Hebron goes to Caleb *(WEB and WLC checked, not yet
   ingested)*
 
 ## Analysis
+
+### Caleb’s grant at Gilgal
+
+Joshua 14:6–15 is now ingested. Caleb’s forty-five-year recollection leads to Joshua’s blessing and grant, not yet the narrated expulsion. The narrator endorses Caleb’s loyalty (14); the rest notice (15) does not eliminate the tension between Joshua’s removal in 11:21–22 and Caleb’s further action in 15:14. Source: stored WEB Joshua 11, 14–15; Numbers 14:24; Deuteronomy 1:36.
+
 
 **The place of the fear becomes the inheritance.** The men at Hebron are the ones who stopped Israel
 at Numbers 13:22, 28, 33. Forty-five years later, Joshua 14:12 has Caleb ask for that same country:

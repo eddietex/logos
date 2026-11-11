@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+The promised land becomes Caleb’s named inheritance, Hebron, for him and his children (9, 13–14). Legal allocation and actual removal of inhabitants are distinguished: the latter is still proposed in verse 12.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The western division — Joshua 14:1–5
 
 Nine tribes and a half receive the western inheritance by lot; Moses’ eastern grants remain in force (1–3). Levi’s cities and surrounding land qualify the denial of a territorial share (4). Allocation does not erase the remaining-land report of Joshua 13:1–7.
@@ -917,6 +924,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

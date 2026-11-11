@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Joshua gives Hebron to Caleb and blesses him (13–14). Its former name Kiriath Arba recalls the greatest man among the Anakim (15). The grant is narrated here; Caleb’s expulsion follows in 15:14. Earlier conquest reports in 10:36–37 and 11:21–22 remain in tension with the further campaign.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The whole land taken — Joshua 11:16–23
 
 Joshua cuts off the Anakim from Hebron (21). Joshua 15:13–14 later has Caleb drive out the three sons of Anak there; the two notices are kept together. See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
@@ -79,6 +86,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 **Joshua 12:1–24 — the list of kings.** *The king of Hebron, one* (12:10). The count does not settle whether it means Hoham, killed at Makkedah (10:23–26), or the king killed when the city fell (10:37). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Kadesh Barnea is recalled as the place of Caleb’s commission and the promise concerning Caleb and Joshua (6–7). The present meeting occurs at Gilgal, forty-five years after the remembered promise.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The southern campaign — Joshua 10:28–43
 
 Kadesh Barnea marks one endpoint of the reach described in verse 41, extending to Gaza. The summary does not describe a separate siege here.
@@ -142,6 +149,8 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

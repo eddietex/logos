@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb claims continuing strength for war and anticipates driving out the Anakim (11–12), yet verse 15 says the land had rest from war. Rest cannot mean that no local fighting remains; Joshua 15:14 will narrate the expulsion.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### Eastern allotments — Joshua 13:8–33
 
 The register recalls the defeats of Sihon, Og, the Midianite chiefs, and Balaam (10–12, 21–22), but expressly records populations not driven out (13). Conquest summaries do not establish universal removal.
@@ -634,6 +641,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb contrasts the discouraging report with his own loyalty and requests the very hill country remembered for formidable inhabitants (7–12). His confidence includes dependence on Yahweh’s presence rather than a claim that age or strength guarantees victory.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Joshua calls the commanders to courage and points to the kings under their feet as assurance of
@@ -344,6 +351,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

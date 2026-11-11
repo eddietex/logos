@@ -15,11 +15,16 @@ tags: [connection]
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:13–15 (stored WEB).
 - Joshua 21:44, 22:4, 23:1 — the rest reported as given *(stored WEB, not yet ingested)*.
 - [[The Whole Land Taken]] — Joshua 11:23, *the land had rest from war*, a different verb
-  (stored WEB); 14:15 repeats the clause *(not yet ingested)*.
+  (stored WEB); 14:15 repeats the clause in [[Caleb Claims Hebron]] (stored WEB).
 - Psalm 95:11 — *"They won't enter into my rest"* *(WEB via bible-api.com, not yet ingested)*.
 - Hebrews 4:8–9 — *"if Joshua had given them rest"* *(WEB via bible-api.com, not yet ingested)*.
 
 ## Analysis
+
+### Caleb’s grant at Gilgal
+
+Joshua 14:15 now supplies an ingested rest notice immediately after Caleb anticipates an expulsion (12). Rest from war therefore coexists in the narrative with a remaining local task. This addition concerns the stored WEB’s narrative sequence; the Hebrew of 14:15 is not independently verified here.
+
 
 **A promise named before the crossing.** Deuteronomy pairs two nouns for what lies across the
 Jordan: *you haven't yet come to the rest and to the inheritance* (12:9). *Rest* there is

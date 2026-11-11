@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb’s appeal makes the commission, failed report, and oath at Kadesh govern the present allocation at Gilgal (6–10). Remembering here creates a claim on present leadership.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 The stones sealing the cave remain to the narrator’s day (27), preserving a physical trace of the
@@ -733,6 +740,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

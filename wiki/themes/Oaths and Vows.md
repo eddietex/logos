@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Moses’ remembered oath grounds Caleb’s request for the land he walked and an inheritance for his children (9). Joshua’s grant in verses 13–14 gives the old promise a named territorial expression.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The whole land taken — Joshua 11:16–23
 
 The summary’s one exception, Gibeon (19), is the city protected by the oath sworn in Joshua 9. The oath obtained by deception still governs how the conquest is reported.
@@ -488,6 +495,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

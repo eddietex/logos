@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb appeals to Joshua as a witness to the promise made through Moses. Joshua blesses him and grants Hebron (6, 13). The earlier removal of the Anakim credited to Joshua in 11:21–22 remains in tension with Caleb’s proposed expulsion in 14:12 and action in 15:14.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The western division — Joshua 14:1–5
 
 Joshua shares the distribution with Eleazar and tribal household heads (1). Leadership here means administering the inheritance by lot under the command transmitted through Moses, not acting as sole owner or distributor.
@@ -330,6 +337,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb attributes his survival across forty-five years to Yahweh’s promise (10). He asks for the difficult hill country in dependence on Yahweh’s presence (12); the narrator confirms his wholehearted following (14). Preservation and promised inheritance accompany further action.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The western division — Joshua 14:1–5
 
 Yahweh’s command through Moses governs the lot and the people’s division of the land (2, 5). No new divine speech is narrated; the report presents obedience to an earlier command.
@@ -3933,6 +3940,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

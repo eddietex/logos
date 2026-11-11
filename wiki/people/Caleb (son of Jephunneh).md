@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+At eighty-five Caleb asks for the hill country promised forty-five years earlier. He credits Yahweh with preserving his life, recalls his faithful report, and receives Hebron from Joshua (6–14). His claimed strength serves a still-future campaign; this scene grants land without narrating its capture.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The sentence and the ascent — Deuteronomy 1:34–46
 
 Caleb alone is named as the exception in verse 36, with land promised to him and his children
@@ -51,8 +58,7 @@ disputes the conclusion. See [[The Twelve Spies]].
 **His survival.** He tears his clothes with Joshua and pleads (14:6–9). Numbers 14:24 calls him *my
 servant Caleb*, *because he had another spirit with him, and has followed me fully*, and promises
 him the land he went into. He and Joshua alone of the men who were sent stay alive (14:38), and he
-and Joshua alone of the counted generation enter (14:30). Numbers 26:65 and 32:12 confirm it (stored
-WEB, *not yet ingested*). See [[The People Refuse the Land]] and
+and Joshua alone of the counted generation enter (14:30). Numbers 26:65 and 32:12 confirm it (stored WEB, now ingested). See [[The People Refuse the Land]] and
 [[Wholly Followed - Mille Ahare in Numbers, Deuteronomy, Joshua, and 1 Kings]].
 
 **At eighty-five he asks for the hill country.** Joshua 14:7 has him say, *I was forty years old
@@ -83,11 +89,13 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - Sent for Judah — Numbers 13:6, [[The Twelve Spies]]
 - Stills the people and says *we are well able* — Numbers 13:30
 - With Joshua, tears his clothes and pleads; spared the sentence and the plague — Numbers 14:6–9, 24, 30, 38, [[The People Refuse the Land]]
-- *(ahead)* Named to divide the land for Judah — Numbers 34:19
-- *(ahead)* At eighty-five, asks for Hebron — Joshua 14:6–14
+- Named to divide the land for Judah — Numbers 34:19, [[The Borders of the Land]]
+- At eighty-five, receives Hebron — Joshua 14:6–15, [[Caleb Claims Hebron]]
 - *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 

@@ -122,6 +122,11 @@ of Ammon’s land remains in tension with Deuteronomy’s protected territory.
 The lot follows Moses’ command; Joseph’s two tribes and Levi’s cities explain how the
 territorial count works without implying absolute Levitical landlessness.
 
+[[Caleb Claims Hebron]] (14:6–15) brings the old promise to Caleb into the allotment.
+Joshua blesses him and grants Hebron; Caleb anticipates further fighting even as the
+section closes with rest from war. The earlier removal of the Anakim and the coming
+local expulsion remain explicitly in tension.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -138,7 +143,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **22 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **23 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -162,7 +167,7 @@ Plan drawn 2026-11-10 from the stored WEB. **22 / 42 pericopes ingested.**
 - [x] [[The Land That Remains]] — Joshua 13:1–7
 - [x] [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33
 - [x] [[The Division of the Land Begins]] — Joshua 14:1–5
-- [ ] Caleb Claims Hebron — Joshua 14:6–15
+- [x] [[Caleb Claims Hebron]] — Joshua 14:6–15
 - [ ] The Borders of Judah — Joshua 15:1–12
 - [ ] Achsah Asks for Springs — Joshua 15:13–19
 - [ ] The Cities of Judah — Joshua 15:20–63

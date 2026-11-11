@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb’s wholehearted following is stated by Caleb, in Moses’ recalled oath, and by the narrator (8–9, 14). The passage confirms this assessment rather than leaving it solely as Caleb’s self-description.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The western division — Joshua 14:1–5
 
 The report brackets distribution with Yahweh’s command through Moses (2, 5). The procedure, administrators, and provision for Levites recall Numbers 34:13–29 and 35:1–8. Obedience now takes administrative rather than military form.
@@ -1464,6 +1471,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

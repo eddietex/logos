@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Joshua blesses Caleb and gives him Hebron (13). The narrator reports the blessing without preserving its words; the inheritance enacts the favorable recognition.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The law read at Ebal — Joshua 8:30–35
 
 The arrangement before the mountains follows Moses’ command to bless Israel (33), and Joshua reads blessing together with curse (34). The narrative gives neither a separate series of blessing formulas nor permission to detach blessing from the law.
@@ -538,6 +545,8 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

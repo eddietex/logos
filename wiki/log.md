@@ -25113,3 +25113,34 @@ change. Older material in the connections is not represented as newly verified b
 scripts/link-check.sh passed: no wrapped links or unexpected dangling targets; 56 unstarted
 books remain the expected baseline. The passage title is unique, frontmatter totals match the
 dashboard, and git diff --check is clean. No unresolved execution blocker.
+
+## [2026-11-11] ingest | Joshua 14.6-15 — Caleb Claims Hebron
+
+Unattended Codex ingest of exactly one pericope, with the planned title and boundary retained.
+Created [[Caleb Claims Hebron]]; revised 34 existing pages including this log: Joshua,
+seven people, three places, nine themes, three connections, and ten index/dashboard pages.
+Joshua is now 23 / 42 pericopes. Totals counted by frontmatter: 417 passages, 276 people,
+281 places, 87 themes, and 818 connections.
+
+The passage absorbs the discussion of Caleb’s remembered commission, forty-five-year survival,
+request, Joshua’s blessing, and grant of Hebron. Updated the existing Caleb/Hebron, wholehearted
+following, and rest connections rather than creating duplicate threads. Kept explicit the
+tension between Joshua’s removal of the Anakim in 11:21–22 and Caleb’s proposed expulsion
+in 14:12, followed by 15:14. Rest from war is not treated as the end of all local fighting.
+Promise, grant, and physical possession remain distinct.
+
+Judgment calls: Jephunneh remains a patronymic rather than a new actor page; Arba remains
+covered with the Anakim, whose page already includes him. Judah denotes the tribe. No genealogy
+is inferred from Caleb’s Kenizzite designation, and no absolute chronology is inferred from his
+ages. No additional pericope was ingested. Existing oversized category indexes are unchanged
+in structure and remain a maintenance issue outside this pass.
+
+Sources: all ten verses copied from stored WEB Joshua 14:6–15 and mechanically matched to the
+source. Comparisons checked in stored Numbers 14:24, Deuteronomy 1:35–38, and Joshua 11:21–23;
+15:13–14. No new unstored-book quotation or source-language assertion was introduced. Older
+source-language and external-book material in the existing connections is not represented as
+newly verified. Raw texts and harness/schema instructions were unchanged.
+
+Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets;
+56 unstarted book pages remain the expected baseline. The passage title is unique, counts match
+the dashboard, and git diff --check is clean. No unresolved execution blocker.

@@ -11,10 +11,15 @@ tags: [connection]
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:11–12, *they have not wholly followed me* *(stored WEB and
   WLC)*
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
-- Joshua 14:8, 9, 14 — Caleb's own claim *(WEB and WLC checked, not yet ingested)*
+- [[Caleb Claims Hebron]] — Joshua 14:8–9, 14 (stored WEB; prior Hebrew verification recorded below).
 - 1 Kings 11:6 — Solomon *didn't go fully after Yahweh* *(WEB and WLC checked, not yet ingested)*
 
 ## Analysis
+
+### Caleb’s grant at Gilgal
+
+The newly ingested scene distinguishes three voices: Caleb’s self-description (8), Moses’ oath as Caleb recalls it (9), and the narrator’s explanation of the grant (14). The agreement matters: wholehearted loyalty is not only the applicant’s own assertion. This addition compares the stored WEB, without making a new source-language claim.
+
 
 ### Deuteronomy’s sentence and ascent
 

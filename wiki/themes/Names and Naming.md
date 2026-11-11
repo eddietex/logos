@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Verse 15 supplies Hebron’s former name, Kiriath Arba, and associates it with the greatest man among the Anakim. It does not narrate when the name changed or identify who changed it.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The sin of Achan — Joshua 7:1–26
 
 The valley of Achor is named from Joshua's sentence, Why have you troubled us? Yahweh will trouble
@@ -258,6 +265,8 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

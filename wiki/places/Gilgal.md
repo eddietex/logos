@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+The children of Judah approach Joshua here, and Caleb presents his claim (6). This is the meeting’s location, distinct from Hebron, the inheritance requested and granted.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The southern campaign — Joshua 10:28–43
 
 Joshua and all Israel return to the camp here after the southern campaign (43). This repeats 10:15’s return notice; reading that earlier notice as anticipatory remains an interpretation.
@@ -66,6 +73,8 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 

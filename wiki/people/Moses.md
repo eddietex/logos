@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Caleb’s inheritance — Joshua 14:6–15
+
+Caleb recalls Moses sending him from Kadesh Barnea at forty and swearing that the land he walked would belong to him and his children (7–9). Moses acts through a remembered oath, not as a living participant.
+
+See [[Caleb Claims Hebron]]. Source: stored WEB Joshua 14:6–15; comparisons as cited.
+
+
 ### The western division — Joshua 14:1–5
 
 His eastern grants stand, and his transmitted commands govern the western allotment (2–3, 5). Moses is remembered authority rather than a living participant.
@@ -1942,6 +1949,8 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+
+- [[Caleb Claims Hebron]] — Joshua 14:6–15.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 
