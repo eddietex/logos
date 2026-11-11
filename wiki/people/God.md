@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Yahweh’s command to Joshua grounds Caleb’s portion among Judah (13). No new divine speech is quoted in this scene; the springs are granted by Caleb in response to Achsah.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb attributes his survival across forty-five years to Yahweh’s promise (10). He asks for the difficult hill country in dependence on Yahweh’s presence (12); the narrator confirms his wholehearted following (14). Preservation and promised inheritance accompany further action.
@@ -3940,6 +3946,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

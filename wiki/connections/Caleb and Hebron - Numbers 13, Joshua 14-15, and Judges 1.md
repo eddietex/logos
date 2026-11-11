@@ -12,11 +12,15 @@ tags: [connection]
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:36 (stored WEB).
 - [[The Whole Land Taken]] — Joshua 11:21–22; Joshua cuts off the Anakim (stored WEB)
 - [[Caleb Claims Hebron]] — Joshua 14:6–15, request, blessing, and grant (stored WEB).
-- Joshua 15:13–14 — Caleb drives out the three *(WEB and WLC checked, not yet ingested)*
+- [[Achsah Asks for Springs]] — Joshua 15:13–19; Caleb drives out the three (stored WEB, now ingested).
 - Judges 1:10, 20 — Judah strikes them, and Hebron goes to Caleb *(WEB and WLC checked, not yet
   ingested)*
 
 ## Analysis
+
+Joshua 15:13–19 now carries the grant into expulsion, Othniel’s capture of Debir, and
+Achsah’s acquisition of springs. See [[Achsah and the Springs - Joshua 15 and Judges 1]] for the checked WEB
+parallel in Judges 1:10–15. The differing conquest attributions remain unresolved.
 
 ### Caleb’s grant at Gilgal
 

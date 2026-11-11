@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+The grant to Caleb is made according to Yahweh’s command to Joshua (13). The local victories credited to Caleb and Othniel remain alongside the broader victories credited to Joshua in 10:36–39 and 11:21; the chronology is not explained.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb appeals to Joshua as a witness to the promise made through Moses. Joshua blesses him and grants Hebron (6, 13). The earlier removal of the Anakim credited to Joshua in 11:21–22 remains in tension with Caleb’s proposed expulsion in 14:12 and action in 15:14.
@@ -337,6 +343,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

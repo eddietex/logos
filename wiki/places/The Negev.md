@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Achsah describes her grant as land of the South and asks for springs; Caleb gives both upper and lower springs (19). Linked here under the existing South alias, without locating the field or identifying the springs at a modern site.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### The whole land taken — Joshua 11:16–23
 
 *All the South* is among the regions Joshua takes in the summary (16). It is linked here on the alias *the South*; the verse gives no borders.
@@ -69,6 +75,8 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 **Joshua 12:1–24 — the list of kings.** *The South* is one of the six western regions Joshua gives the tribes (12:8). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; *The south* (3).

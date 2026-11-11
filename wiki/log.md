@@ -25174,3 +25174,28 @@ Validation: scripts/link-check.sh passed (56 expected not-yet-started book targe
 wrapped links or unexpected dangling targets). Exact quotation, unique passage title,
 new entity index coverage, frontmatter counts, and git whitespace checks passed.
 No blocking issue; geographical uncertainties remain documented at the relevant claims.
+
+## [2026-11-11] ingest | Joshua 15.13-19 — Achsah Asks for Springs
+
+Ingested exactly the next queued pericope, [[Achsah Asks for Springs]], without changing its
+boundary. Created four pages: the passage, [[Achsah]], [[Othniel]], and
+[[Achsah and the Springs - Joshua 15 and Judges 1]]. Revised sixteen existing content pages:
+Joshua, five people, three places, six themes, and the Caleb/Hebron connection. Updated eight
+index/dashboard files and this log (25 existing pages revised in total). Joshua is now 25 / 42;
+frontmatter totals are 419 passages, 279 people, 301 places, 87 themes, and 819 connections.
+
+The complete seven-verse WEB text was copied from stored Joshua. Checked the close parallel
+in Judges 1:10–15 through bible-api.com's WEB endpoint on this date, without adding Judges to
+raw. Earlier conquest comparisons were checked in stored Joshua 10:36–39 and 11:21–23.
+No raw text, schema, skill, or controller file was changed. No new source-language claim was made.
+
+Retained the explicit tension between Joshua's comprehensive victories and Caleb/Othniel's
+local actions; no return of the Anakim or settled chronology was invented. Kept the three sons
+of Anak and Arba on the existing collective page; retained Jephunneh and Kenaz as patronymics,
+without identifying Kenaz with an Edomite namesake. The translated kinship wording is not used
+to settle Othniel's family tree. The unnamed springs remain discussed with the passage and
+South/Negev page; no modern site is assigned. Achsah's narrated initiative and the absence of
+narrated consent to the marriage arrangement are both preserved.
+
+Validation: scripts/link-check.sh passed, with 56 expected not-yet-started book targets and no
+wrapped or dangling links. No operational blocker; narrative chronology remains explicitly open.

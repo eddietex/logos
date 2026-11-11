@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Caleb receives Hebron under Yahweh’s command, drives out Sheshai, Ahiman, and Talmai, and offers Achsah in marriage to the conqueror of Debir. He grants her both upper and lower springs when she asks (13–19). The land grant of chapter 14 now leads to action and household provision.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 At eighty-five Caleb asks for the hill country promised forty-five years earlier. He credits Yahweh with preserving his life, recalls his faithful report, and receives Hebron from Joshua (6–14). His claimed strength serves a still-future campaign; this scene grants land without narrating its capture.
@@ -64,7 +70,7 @@ and Joshua alone of the counted generation enter (14:30). Numbers 26:65 and 32:1
 **At eighty-five he asks for the hill country.** Joshua 14:7 has him say, *I was forty years old
 when Moses the servant of Yahweh sent me from Kadesh Barnea to spy out the land*, and 14:10 has him
 eighty-five. He asks for the place of the Anakim and receives Hebron (14:12–14), and 15:14 and
-Judges 1:20 have him drive out the three sons of Anak (WEB; *not yet ingested*). See
+Judges 1:20 have him drive out the three sons of Anak (Joshua now ingested; Judges not yet ingested). See
 [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 
 **Whose family he is from.** Numbers 13:6 places him in Judah. Numbers 32:12 and Joshua 14:6 call
@@ -91,9 +97,11 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - With Joshua, tears his clothes and pleads; spared the sentence and the plague — Numbers 14:6–9, 24, 30, 38, [[The People Refuse the Land]]
 - Named to divide the land for Judah — Numbers 34:19, [[The Borders of the Land]]
 - At eighty-five, receives Hebron — Joshua 14:6–15, [[Caleb Claims Hebron]]
-- *(ahead)* Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
+- Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

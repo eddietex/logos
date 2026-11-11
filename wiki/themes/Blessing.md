@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Achsah asks her father for a blessing and specifies springs of water (19). Caleb answers with both upper and lower springs. Here blessing takes the concrete form of a resource grant rather than a recorded spoken benediction.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Joshua blesses Caleb and gives him Hebron (13). The narrator reports the blessing without preserving its words; the inheritance enacts the favorable recognition.
@@ -545,6 +551,8 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Sheshai, Ahiman, and Talmai are named as the three sons of Anak whom Caleb drives out (14). Verse 13 associates Kiriath Arba with the father of Anak. This local expulsion remains in tension with Joshua’s comprehensive removal in 11:21–22; no return is narrated.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb recalls their fortified hill country and proposes to drive them out (12). Verse 15 associates Hebron’s former name Kiriath Arba with their greatest man. Joshua 11:21–22 reports their prior removal from Hebron, while 15:14 narrates Caleb’s expulsion: the tension is retained rather than resolved by an invented return.
@@ -56,7 +62,7 @@ after the taller people and the walled cities. See [[The Spies and the Refusal t
 
 **Other notices.** Deuteronomy 9:2, now ingested, preserves the saying quoted in the passage.
 Deuteronomy 2:10–11 and 2:21 use them as the measure of other tall peoples. Joshua 11:21–22 is now
-ingested in [[The Whole Land Taken]]. Joshua 14:15 is now ingested in [[Caleb Claims Hebron]]. Joshua 15:13, still ahead,
+ingested in [[The Whole Land Taken]]. Joshua 14:15 is now ingested in [[Caleb Claims Hebron]]. Joshua 15:13, now ingested,
 calls Arba *the father of Anak*, and Joshua 14:15 has him the greatest man among them, giving
 Hebron's old name.
 Joshua 15:14 and Judges 1:20 have Caleb drive out the three, and Judges 1:10 has Judah strike them.
@@ -68,9 +74,11 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - Reported to Moses and the people — Numbers 13:28, 33
 - Recalled in the people's murmuring — Deuteronomy 1:28, [[The Spies and the Refusal to Go Up]]
 - Cut off by Joshua from Hebron, Debir, and Anab; a remnant left in Gaza, Gath, and Ashdod — Joshua 11:21–22, [[The Whole Land Taken]]
-- *(ahead)* Removed from Hebron — Joshua 15:14; Judges 1:10, 20
+- Removed from Hebron — Joshua 15:14; Judges 1:10, 20
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

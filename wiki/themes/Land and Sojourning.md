@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Inheritance moves from Judah’s tribal boundaries to Caleb’s portion and Achsah’s request for water (13–19). A land grant and the resources needed to use it are distinct gifts; the request for springs makes that practical distinction visible.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The lot for Judah is delimited on four sides and framed by reference to its families (1, 12). Allotment defines an inheritance; it does not by itself assert occupation of every named place.
@@ -930,6 +936,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Kiriath Arba is identified with Hebron and linked to Anak’s father (13); Debir’s former name is Kiriath Sepher (15). The passage supplies these identifications without narrating a renaming ceremony or explaining the meaning of Kiriath Sepher.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The boundary supplies paired designations: the Jebusite location/Jerusalem, Baalah/Kiriath Jearim, and Mount Jearim/Chesalon (8–10). These are explanatory identifications, not narrated acts of renaming.
@@ -271,6 +277,8 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

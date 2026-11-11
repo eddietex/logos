@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Caleb expels the three sons of Anak and Othniel captures Debir (14–17). These local actions stand beside Joshua’s earlier comprehensive victories (10:36–39; 11:21–23) and the rest notice of 14:15. Their chronological relationship is not stated.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb claims continuing strength for war and anticipates driving out the Anakim (11–12), yet verse 15 says the land had rest from war. Rest cannot mean that no local fighting remains; Joshua 15:14 will narrate the expulsion.
@@ -641,6 +647,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

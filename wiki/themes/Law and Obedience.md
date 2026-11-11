@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Caleb’s portion is assigned according to Yahweh’s command to Joshua (13). This authorizes the grant; the passage does not say that Caleb’s marriage offer or Achsah’s request was separately commanded.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb’s wholehearted following is stated by Caleb, in Moses’ recalled oath, and by the narrator (8–9, 14). The passage confirms this assessment rather than leaving it solely as Caleb’s self-description.
@@ -1471,6 +1477,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

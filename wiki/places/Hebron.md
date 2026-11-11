@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Kiriath Arba is identified as Hebron and as named after Anak’s father (13). Caleb’s grant is followed by the expulsion of the three sons of Anak (14). The earlier conquest in 10:36–37 and removal in 11:21 remain alongside this account without a supplied chronology.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Joshua gives Hebron to Caleb and blesses him (13–14). Its former name Kiriath Arba recalls the greatest man among the Anakim (15). The grant is narrated here; Caleb’s expulsion follows in 15:14. Earlier conquest reports in 10:36–37 and 11:21–22 remain in tension with the further campaign.
@@ -86,6 +92,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 **Joshua 12:1–24 — the list of kings.** *The king of Hebron, one* (12:10). The count does not settle whether it means Hoham, killed at Makkedah (10:23–26), or the king killed when the city fell (10:37). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

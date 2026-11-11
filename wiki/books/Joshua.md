@@ -131,6 +131,10 @@ local expulsion remain explicitly in tension.
 The southern line recalls Numbers 34; the northern line uses local landmarks including
 Jerusalem’s south side. Territorial allocation does not establish completed occupation.
 
+[[Achsah Asks for Springs]] (15:13–19) brings Caleb’s grant into local conquest and household provision.
+Othniel captures Debir; Achsah asks for springs and receives both upper and lower springs.
+The earlier conquest reports remain alongside these local actions without a stated chronology.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -147,7 +151,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **24 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **25 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -173,7 +177,7 @@ Plan drawn 2026-11-10 from the stored WEB. **24 / 42 pericopes ingested.**
 - [x] [[The Division of the Land Begins]] — Joshua 14:1–5
 - [x] [[Caleb Claims Hebron]] — Joshua 14:6–15
 - [x] [[The Borders of Judah]] — Joshua 15:1–12
-- [ ] Achsah Asks for Springs — Joshua 15:13–19
+- [x] [[Achsah Asks for Springs]] — Joshua 15:13–19
 - [ ] The Cities of Judah — Joshua 15:20–63
 - [ ] The Inheritance of Ephraim — Joshua 16:1–10
 - [ ] The Inheritance of Manasseh — Joshua 17:1–13

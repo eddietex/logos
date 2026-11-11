@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Caleb’s portion lies among the children of Judah (13). The name denotes the tribal descendants here, not the patriarch acting personally; the tribal allotment contains a particular household’s grant.
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The tribal descendants, not the patriarch personally, receive the lot according to their families (1, 12). The boundary circuit gives that corporate inheritance a defined extent.
@@ -371,6 +377,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

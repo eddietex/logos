@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Achsah’s springs — Joshua 15:13–19
+
+Caleb promises his daughter to the man who captures Kiriath Sepher; Othniel succeeds and receives Achsah (16–17). Her consent to that arrangement is not narrated. Her subsequent initiative in seeking a field and springs is explicitly narrated (18–19).
+
+See [[Achsah Asks for Springs]]. Source: stored WEB Joshua 15:13–19.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Betrothal gives way to another man taking the woman (30); the siege destroys even affection between spouses (54–57). The protected beginnings of household life in Deuteronomy 20:5–7 are reversed.
@@ -476,6 +482,8 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Achsah Asks for Springs]] — Joshua 15:13–19.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
