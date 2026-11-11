@@ -154,6 +154,10 @@ remaining Canaanites under forced labor rather than complete occupation.
 Joshua directs forest clearance and promises victory despite iron chariots; the dialogue
 does not erase the preceding account of non-removal.
 
+[[The Land Surveyed at Shiloh]] (18:1–10) moves the assembly and Tent to Shiloh.
+A written survey of seven portions precedes the lot; Joshua’s rebuke of delayed possession
+remains beside the narrator’s declaration that the land is subdued.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -170,7 +174,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **29 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **30 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -201,7 +205,7 @@ Plan drawn 2026-11-10 from the stored WEB. **29 / 42 pericopes ingested.**
 - [x] [[The Inheritance of Ephraim]] — Joshua 16:1–10
 - [x] [[The Inheritance of Manasseh]] — Joshua 17:1–13
 - [x] [[The Children of Joseph Ask for More]] — Joshua 17:14–18
-- [ ] The Land Surveyed at Shiloh — Joshua 18:1–10
+- [x] [[The Land Surveyed at Shiloh]] — Joshua 18:1–10
 - [ ] The Inheritance of Benjamin — Joshua 18:11–28
 - [ ] The Lots of Simeon, Zebulun, and Issachar — Joshua 19:1–23
 - [ ] The Lots of Asher, Naphtali, and Dan — Joshua 19:24–48
@@ -238,6 +242,7 @@ Plan drawn 2026-11-10 from the stored WEB. **29 / 42 pericopes ingested.**
 - [[Sihon]] and [[Og]] — the east-bank kings recalled at the head of the list (12:2–5).
 
 ## Key places
+- [[Shiloh]] — the Tent, written land survey, and remaining lots (18:1–10).
 - [[Gibeon]], [[Gilgal]], and [[The Valley of Aijalon]] — rescue and the public address (10:6–15).
 - [[Jerusalem]], [[Hebron]], [[Jarmuth]], [[Lachish]], and [[Eglon]] — coalition cities (10:3–5).
 - [[Beth Horon]], [[Azekah]], and [[Makkedah]] — pursuit (10:10–11).

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The whole congregation establishes the Tent of Meeting at Shiloh (1), where Joshua casts lots before
+Yahweh (10). The text narrates a sanctuary location without describing a permanent stone temple or a
+new glory-cloud manifestation.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 The covenant ark occupies the procession’s center, and the reserved metals enter the treasury of Yahweh’s house (6–13, 24). The wording does not establish a stone temple at Jericho.
@@ -618,6 +626,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

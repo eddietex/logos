@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The descendant tribe retains its southern borders while the remaining land is surveyed (5). The
+patriarch is not personally present, and his allotment is not reopened.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 *The tribe of the children of Judah according to their families* receives its towns district by district (20–62), and *the children of Judah* could not drive out the Jebusites of Jerusalem (63). The tribe is meant, not the patriarch. Several southern towns reappear as Simeon's lot within Judah's (19:1–9); see [[Simeon's Lot Within Judah - Joshua 15 and 19]].
@@ -383,6 +390,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

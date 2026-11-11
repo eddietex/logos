@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+Joshua casts lots before Yahweh only after the men have surveyed the land by cities and recorded
+seven portions (6–10). Divine allocation and human preparation work together; the physical lot
+mechanism remains unspecified.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb attributes forty-five years of survival to Yahweh’s keeping him alive as promised (10). He treats preserved life as capacity for the remaining task, not merely as an occasion for retirement.
@@ -456,6 +464,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

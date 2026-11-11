@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+He rebukes delayed possession, commissions the survey, receives its written results, and casts the
+lots at Shiloh (3–10). Leadership joins exhortation, practical administration, and allocation before
+Yahweh.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 He accepts Joseph’s claim of numbers, turns it into responsibility to clear the forest, and affirms that strong Canaanites with iron chariots can be driven out (15–18). No battle outcome is narrated here.
@@ -356,6 +364,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 

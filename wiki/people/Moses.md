@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+His grants east of the Jordan remain settled and are excluded from the new division (7). He is
+recalled as Yahweh’s servant, not present at Shiloh.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The daughters invoke the command transmitted through him (4; Numbers 27:7). His authority continues
@@ -1956,6 +1963,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

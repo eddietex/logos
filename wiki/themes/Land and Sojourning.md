@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The gift of the land requires action: seven tribes have not divided their inheritance, and Joshua
+rebukes their delay in possessing it (2–3). A written city survey precedes allocation by lot (9–10);
+the already allotted shares remain in place (5, 7).
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 The claim of insufficient land is answered with forest clearance and future expulsion, not a newly narrated lot ceremony (14–18). Allotment, usable land, and occupation are distinct.
@@ -962,6 +970,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

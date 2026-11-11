@@ -6,6 +6,7 @@ tags: [connection]
 # From Census to Borders and Allotment - Numbers 26, 33, and 34
 
 ## Passages involved
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
@@ -18,6 +19,16 @@ tags: [connection]
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### The survey at Shiloh — Joshua 18:1–10
+
+Joshua 18:4–10 now supplies an order not specified by the earlier commands: representatives traverse
+the land, record seven portions by cities in a book, return to Joshua, and then receive allocation
+by lot. Judah, Joseph, and the eastern grants are excluded from this new division (5, 7). Numbers
+26:52–56 requires shares according to numbers and allocation by lot; Joshua 18 does not state that
+the seven surveyed portions are equal in area or explain how population affects this survey.
+
+Source: stored WEB Joshua 18:1–10 and the stored Torah passages cited.
 
 ### Judah’s boundary circuit
 

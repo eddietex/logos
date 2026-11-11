@@ -25324,3 +25324,31 @@ No operational blocker remains.
   source-language claims; raw files unchanged. No harness or workflow changes required.
 - Validation: scripts/link-check.sh clean (56 expected not-yet-started book targets);
   git diff --check clean. No unresolved link or operational issue.
+
+## [2026-11-11] ingest | Joshua 18.1-10 — The Land Surveyed at Shiloh
+
+Ingested one pericope in auto mode with Codex. Retained the planned 18:1–10 boundary;
+Benjamin’s particular lot remains next. The passage contains the full stored WEB text,
+the assembly at Shiloh, Joshua’s rebuke, the written survey by cities, and allocation by lot.
+
+Created 3 pages: [[The Land Surveyed at Shiloh]], [[Shiloh]], and
+[[The Tent Established at Shiloh - Exodus 40 and Joshua 18]].
+Revised 22 existing content pages: Joshua, the Exodus tabernacle passage, ten people,
+the Jordan, six themes, and three connections. Updated ten index/dashboard files and this log
+(33 revised files total). Joshua is now 30 / 42 pericopes ingested; totals are 424 passages,
+283 people, 418 places, 87 themes, and 824 connections.
+
+The unnamed surveyors remain a commission in the passage rather than a new person page;
+no individual names or explicit total are supplied. Tribal patriarch pages record collective
+descendants, with Ephraim identified as implicit in Joseph’s house. Shiloh is not equated with
+Taanath Shiloh or assigned a modern site. The tension between land subdued and possession
+unfinished is explicit, as is the scope difference between collective Levitical priesthood
+in Joshua 18:7 and the restricted priesthood in Numbers 18. No equal acreage or lot mechanism
+is inferred. Corrected the touched Providence index row’s existing misplaced summary text.
+
+All new quotations were copied from raw WEB Joshua 18:1–10 and checked against it.
+Comparisons use stored Torah and Joshua text; no raw files changed, no unstored-book quotation
+or new Hebrew/Greek claim was introduced. No schema or harness changes were needed.
+Validation: scripts/link-check.sh exits 0, with 56 expected not-yet-started book targets;
+no wrapped or dangling links. Frontmatter totals, touched category rows, passage-title
+uniqueness, and exact verse transcription checked. No unresolved ingest issue.

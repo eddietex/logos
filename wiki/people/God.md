@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+Joshua identifies Yahweh as the giver of the land and casts the lots before him (3, 6, 8, 10). No
+new divine speech or visible manifestation is narrated.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 Joseph’s descendants attribute their numerous population to Yahweh’s blessing (14). No divine speech is recorded in this exchange; the assurance of expulsion is spoken by Joshua.
@@ -3959,6 +3966,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 

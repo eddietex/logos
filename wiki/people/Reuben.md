@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The descendant tribe’s eastern inheritance through Moses is confirmed as already received (7),
+outside the seven new portions.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Judah’s borders — Joshua 15:1–12
 
 Bohan is called son of Reuben in the name of the boundary stone (6). This does not narrate an action of the patriarch or establish the precise generation intended.
@@ -290,6 +297,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

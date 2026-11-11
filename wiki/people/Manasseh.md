@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The eastern half-tribe retains Moses’ grant (7); the house of Joseph retains its northern borders
+(5). The corporate descendants, not the patriarch, are meant.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 The tribe joins Ephraim in the petition (17). The promise of expulsion (18) stands in tension with the immediately preceding inability and forced-labor notices (12–13); the promise is not a report that expulsion occurred.
@@ -247,6 +254,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

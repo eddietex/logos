@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+Included within the house of Joseph whose northern borders remain in place (5; compare 17:17).
+Ephraim is not separately named in this unit.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 The tribe joins Manasseh in requesting more room; its hill country is described as too narrow (15). Joshua directs the house of Joseph to clear forest and dispossess the strong inhabitants.
@@ -177,6 +184,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

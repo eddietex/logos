@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The descendant tribe already has its inheritance east of the Jordan through Moses and receives no
+new western lot here (7).
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Eastern allotments — Joshua 13:8–33
 
 The descendants receive Jazer, Gilead territory, and valley cities up to Chinnereth (24–28). Verse 25 includes half the land of Ammon, in tension with Deuteronomy 2:19, 37’s prohibition and avoidance. The passage does not explain the territorial history.
@@ -182,6 +189,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the Gadites* (12) pledge to cross armed before their brothers.

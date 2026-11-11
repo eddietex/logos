@@ -6,6 +6,7 @@ tags: [connection]
 # The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots
 
 ## Passages involved
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Borders of Judah]] — Joshua 15:1–12.
@@ -22,9 +23,6 @@ tags: [connection]
 - **Exodus 28:30** — the Urim and Thummim in *"the breastplate of judgment"* — [[The Priestly Garments]]
 - **Leviticus 16:8** — *"Aaron shall cast lots for the two goats; one lot for Yahweh, and the other lot
   for the scapegoat."* — [[The Day of Atonement]]
-- **Joshua 18:10** — *"Joshua cast lots for them in Shiloh before Yahweh. There Joshua divided the land to
-  the children of Israel according to their divisions."* *(WEB verified at bible-api.com; not yet
-  ingested)*
 - [[The Sin of Achan]] — Joshua 7:14–18; tribe, clan, household, and man *"selected"* until Achan is
   *"taken"* (stored WEB; now ingested). The mechanism is not named.
 - **1 Samuel 14:41–42** — Saul: *"Cast lots between me and Jonathan my son." Jonathan was selected.*
@@ -36,6 +34,15 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### The survey at Shiloh — Joshua 18:1–10
+
+Joshua 18:1–10 is now ingested from stored WEB. The lot at Shiloh follows a written survey by cities
+into seven portions (9–10). Joshua casts before Yahweh in the place where the Tent of Meeting has
+been set up (1, 6, 8, 10). The passage specifies the administrative sequence, but not the objects
+used in drawing lots. Human preparation is part of the process, not a rival explanation of the lot.
+
+Source: stored WEB Joshua 18:1–10 and the stored Torah passages cited.
 
 ### Ephraim’s allotment
 

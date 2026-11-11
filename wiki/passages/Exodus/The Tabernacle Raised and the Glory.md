@@ -137,6 +137,7 @@ guiding a people who have not yet reached the promised land.
 - [[Land and Sojourning]] — Exodus closes with a dwelling for God and continuing journeys for Israel.
 
 ## Cross-references
+- [[The Tent Established at Shiloh - Exodus 40 and Joshua 18]] — the Tent is later set up at Shiloh for the allotment assembly (Joshua 18:1–10).
 
 - [[Glory Promised and Appearing - Exodus 29 and Leviticus 9]] — the promised meeting and the
   eighth-day manifestation in [[The Eighth Day and the Appearing Glory]] .

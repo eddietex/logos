@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The Levites have no portion among the seven because Yahweh’s priesthood is their inheritance (7).
+This collective description does not explain the internal priest/Levite distinctions of Numbers
+18:1–7; Joshua 14:4 already allows cities and surrounding land.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### The western division — Joshua 14:1–5
 
 The descendants receive no tribal territorial portion, but do receive cities and surrounding land for livestock and property (3–4). This explicitly qualifies any description of Levi as having no land at all: lack of a tribal territory is compatible with housing and land use, as Numbers 35:1–8 already commands.
@@ -307,6 +315,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 - Numbers 8:5–26 — The tribe cleansed, waved, and given service from twenty-five to fifty. [[The Lamps and the Levites Cleansed]]
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

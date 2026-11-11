@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+Yahweh’s priesthood is called the Levites’ inheritance instead of a territorial portion (7). The
+broad tribal wording stands beside Numbers 18:1–7’s restricted altar priesthood; it does not
+explicitly erase that distinction or the cities allowed in Joshua 14:4.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### The western division — Joshua 14:1–5
 
 Eleazar the priest participates with Joshua and tribal heads in allocation (1). The Levites’ exclusion from tribal territory is paired with cities and land for livestock and property (3–4); the passage does not collapse the distinction between priests and other Levites.
@@ -765,6 +773,7 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

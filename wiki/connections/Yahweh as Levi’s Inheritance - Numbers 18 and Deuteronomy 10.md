@@ -6,6 +6,7 @@ tags: [connection]
 # Yahweh as Levi’s Inheritance - Numbers 18 and Deuteronomy 10
 
 ## Passages involved
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 
@@ -17,6 +18,16 @@ tags: [connection]
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8
 
 ## Analysis
+
+### The survey at Shiloh — Joshua 18:1–10
+
+Joshua 18:7 names Yahweh’s priesthood as the Levites’ inheritance in place of a territorial portion.
+This adds a service description to Joshua 13:14, 33’s offerings and Yahweh himself. The scope
+tension remains explicit: Numbers 18:1–7 differentiates Aaron’s altar priesthood from the other
+Levites’ service, while Joshua speaks collectively. Joshua 18 does not resolve that distinction;
+14:4 also prevents lack of a portion from meaning absolute landlessness.
+
+Source: stored WEB Joshua 18:1–10 and the stored Torah passages cited.
 
 ### The western division — Joshua 14:1–5
 

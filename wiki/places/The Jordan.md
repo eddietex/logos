@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+The river distinguishes the eastern grants to Gad, Reuben, and half of Manasseh from the remaining
+western division (7). It functions as a geographic division, not as the scene of a crossing.
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Separates the eastern Gilead and Bashan holdings from the ten portions enumerated here (5).
@@ -301,6 +308,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Borders of Judah]] — Joshua 15:1–12.

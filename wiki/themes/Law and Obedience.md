@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The survey at Shiloh — Joshua 18:1–10
+
+Joshua challenges neglect of the land already given by Yahweh (3). The surveyors obey his commission
+and return with their record (8–9); Moses’ eastern grants are honored rather than redistributed (7).
+
+See [[The Land Surveyed at Shiloh]]. Source: stored WEB Joshua 18:1–10; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The grant to the daughters explicitly implements Yahweh’s command through Moses (4; Numbers 27:7).
@@ -1491,6 +1498,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
