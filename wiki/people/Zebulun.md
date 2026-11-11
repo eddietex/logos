@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Named as the neighbor of both new lots: Asher’s border *reached to Zebulun* (27), and Naphtali’s *reached to Zebulun on the south* (34). It is Asher, not Zebulun, whose border here reaches great Sidon (28), which sharpens the tension with Genesis 49:13 noted above.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Three tribal lots — Joshua 19:1–23
 
 The descendants receive the third lot, a boundary circuit and twelve cities with villages (10–16). Genesis 49:13 speaks of ships, sea, and Sidon; this register names neither a sea endpoint nor Sidon. The geographical tension remains unresolved; no commercial corridor is invented.
@@ -132,6 +138,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:16 — Zebulun marches in Judah's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; named as a neighbor.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

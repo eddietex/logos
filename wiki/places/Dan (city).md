@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Leshem taken — Joshua 19:24–48
+
+The Danites go beyond their lot, fight against Leshem, take it, strike it with the sword, live in it, and call it Dan *after the name of Dan their forefather* (47). Joshua uses the name Leshem; Judges 18:29 uses Laish. See [[Leshem Becomes Dan - Joshua 19 and Judges 18]].
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 The northern limit of Abram's pursuit, and the clearest anachronism in Genesis.
 
 *"He led out his trained men, born in his house, three hundred and eighteen, and pursued as far as
@@ -45,6 +51,7 @@ See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
 
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Leshem captured and renamed (47).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The northern limit of the view (1).
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:14; the limit of the pursuit
 

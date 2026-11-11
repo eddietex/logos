@@ -6,12 +6,19 @@ tags: [connection]
 # Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33
 
 ## Passages involved
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Jacob Blesses His Sons]] — Genesis 49:1–28.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Golden Calf]] — Exodus 32:26–29, a comparison for Levi’s loyalty above kin.
 
 ## Analysis
+
+### The last three lots — Joshua 19:24–48
+
+The registers for Asher, Naphtali, and Dan do not cite either blessing. Asher’s border reaches great Sidon (19:28), which Genesis 49:13 had attached to Zebulun. Naphtali’s lot lies largely west and south of its Jordan edge, which the reader may set beside Deuteronomy 33:23. Dan’s northern capture of Leshem (19:47) may be read with Deuteronomy 33:22’s cub leaping from Bashan, but the text draws no such link.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
 
 ### Allotments beside the tribal sayings
 

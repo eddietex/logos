@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Asher’s Kanah** (19:28) is a different place; see [[Kanah]].
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Manasseh’s boundary lies north of the brook and reaches the sea; Ephraim has cities among Manasseh’s

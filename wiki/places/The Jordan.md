@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Naphtali’s border *ended at the Jordan* (33) and reaches *Judah at the Jordan toward the sunrise* (34) — a phrase whose fit with Judah’s southern allotment is not explained by the text.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Three tribal lots — Joshua 19:1–23
 
 Issachar’s border ends at the Jordan (22); no crossing is narrated.
@@ -320,6 +326,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Naphtali’s eastern limit.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

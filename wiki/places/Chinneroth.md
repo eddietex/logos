@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Naphtali’s city.** Joshua 19:35 lists a fortified city Chinnereth; it has its own page, [[Chinnereth (city)]], and the referent of 11:2 remains open.
+
 Geographical marker north of the Arabah kings summoned by Jabin (2). The verse does not specify a town, district, or lake; the referent is left open rather than automatically identified with [[The Sea of Chinnereth]].
 
 Source: stored WEB Joshua 11:1–15.

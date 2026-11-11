@@ -25410,3 +25410,41 @@ Updated Joshua to 32 / 42, all affected category rows, and frontmatter-derived t
 56 expected not-yet-started book targets. No unresolved link or operational blocker.
 An additional index audit found a pre-existing malformed Gilgal row in Places; it remains
 outside this pericope’s changes.
+
+## [2026-11-11] ingest | Joshua 19.24-48 — The Lots of Asher, Naphtali, and Dan
+
+Ingested the planned unit in auto mode without changing its boundary: the fifth, sixth, and
+seventh lots, closing the seven-tribe distribution begun at Shiloh. Joshua is now 33 / 42.
+The full WEB quotation was copied from stored Joshua 19:24–48 and checked verbatim.
+
+Created 58 pages: the passage, 55 brief place pages, and two connections,
+[[Leshem Becomes Dan - Joshua 19 and Judges 18]] and
+[[Dan's Towns on Judah's Border - Joshua 15 and 19]]. Revised 51 existing files: 14 places
+the passage touches, 15 places given disambiguation notes only, five tribal person pages,
+four themes (War added for Dan's capture of Leshem), three connections, the Joshua book
+page, the book, places, people, themes, and connections indexes, and the dashboard.
+
+Judgment calls: names repeated from other tribal lists take new qualified pages rather than
+being merged — Rehob (Asher), Ramah (Asher), Ramah (Naphtali), Beth Dagon (Asher),
+Achzib (Asher), Jabneel (Naphtali), Edrei (Naphtali), Beth Shemesh (Naphtali). Asher's two
+Rehob notices (28, 30) share one page without deciding whether they are one town. Hazor and
+Kedesh are added to the existing northern pages with identification left open. Chinnereth
+(city), Iron (city), and Elon (city) are qualified against the sea, the metal, and the
+persons named Elon (Elon son of Zebulun, Genesis 46:14, has no page yet). Leshem has no page
+of its own; it is covered on Dan (city).
+
+Retained, not resolved: Naphtali's border reaching *to Judah at the Jordan* (34) against
+Judah's southern east border (15:5), with no claim about Hebrew wording or variants;
+Naphtali's sixteen listed names against a stated nineteen; Asher's twenty-two drawn from more
+names than that; Dan's towns already assigned to Judah (Zorah, Eshtaol, Timnah, Ekron) with no
+explanation given; Asher, not Zebulun, reaching Sidon against Genesis 49:13.
+
+Sources: stored WEB Joshua 11–19, Genesis 14, 46, 49, Numbers 26, Deuteronomy 33. Judges is
+not stored; Judges 1:34, 18:1, and 18:27–29 were checked by single requests to bible-api.com
+(WEB) on 2026-11-11 and are briefly quoted or paraphrased from that check. No new
+source-language claims; raw files and workflow instructions unchanged.
+
+Totals by frontmatter: 427 passages, 283 people, 532 places, 87 themes, 827 connections.
+scripts/link-check.sh exits 0 with 56 expected not-yet-started book targets; git diff --check
+clean; every place page has a row. A duplicate [[Canaan]] row in the places index predates
+this pass and is left for a lint.

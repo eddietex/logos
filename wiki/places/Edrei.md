@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Naphtali’s Edrei** (19:37) now has its own page, [[Edrei (Naphtali)]].
+
 ### Eastern allotments — Joshua 13:8–33
 
 Og’s royal city (12), assigned with Ashtaroth to Machir’s descendants (31); no fresh battle is narrated.

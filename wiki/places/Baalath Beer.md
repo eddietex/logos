@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Dan’s Baalath** (19:44) is a different place; see [[Baalath]].
+
 The villages around Simeon’s towns extend to Baalath Beer, Ramah of the South (19:8). The southern designation distinguishes this notice from Benjamin’s Ramah; no modern site is asserted.
 
 Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.

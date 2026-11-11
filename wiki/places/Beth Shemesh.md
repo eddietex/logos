@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Other Beth Shemeshes.** Issachar’s and Naphtali’s registers each name one (19:22, 38): [[Beth Shemesh (Issachar)]] and [[Beth Shemesh (Naphtali)]]. Dan’s [[Irshemesh]] (19:41) shares the second element but is not equated with this town.
+
 The boundary descends here after Mount Jearim and passes by Timnah (10). No identification with another similarly named town is imposed.
 
 Source: stored WEB Joshua 15:1–12. No precise modern location or unstated biography is asserted.

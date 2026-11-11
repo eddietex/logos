@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Named with Ummah and Rehob in Asher’s final group (30). Added on the same terms as the earlier notices: the shared name does not establish one site.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 Joshua 13:4 names Aphek in the remaining northern territory, after Sidonian Mearah and before the Amorite border. This notice is kept distinct from the royal city in 12:18: the shared name does not establish identity. The page now records both references without claiming a single site.
@@ -18,6 +24,7 @@ Royal city whose king is counted in Joshua 12:18. No battle is narrated. Joshua 
 Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigned.
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Asher’s list.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24
 

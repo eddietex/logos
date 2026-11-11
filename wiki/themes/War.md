@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Dan takes Leshem — Joshua 19:24–48
+
+The Danites *fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it* (47). It is reported in one sentence, without a divine command, a word of judgment, or any mention of Joshua; Judges 18 tells a fuller and less flattering version. See [[Leshem Becomes Dan - Joshua 19 and Judges 18]].
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The narrator says the land was subdued (1), yet Joshua immediately rebukes the seven tribes for
@@ -661,6 +667,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Dan takes Leshem (47).
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 

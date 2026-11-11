@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The last three lots — Joshua 19:24–48
+
+The fifth, sixth, and seventh lots *came out* for Asher, Naphtali, and Dan (24, 32, 40), completing the casting at Shiloh (18:10). Dan’s capture of Leshem is reported as the tribe’s own campaign, not as a further lot.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Three tribal lots — Joshua 19:1–23
 
 The second, third, and fourth lots continue the Shiloh distribution (1, 10, 17; compare 18:10). Allocation by lot coexists with the practical explanation that Judah’s portion was too large (9); neither equal acreage nor the lot mechanism is specified.
@@ -476,6 +482,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

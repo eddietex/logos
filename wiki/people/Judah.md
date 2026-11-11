@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Naphtali’s border reaches *to Judah at the Jordan toward the sunrise* (34). Judah’s own east border is the Salt Sea to the end of the Jordan (15:5), far to the south, so the phrase does not fit the book’s other geography. The text offers no explanation, and the wiki records the difficulty without asserting a reading of the Hebrew. Dan’s list also repeats towns from Judah’s lists (15:10–11, 33, 45).
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Three tribal lots — Joshua 19:1–23
 
 Simeon’s inheritance is taken from Judah’s oversized portion (1, 9). This qualifies the earlier overview’s statement that Judah’s allotment is not reopened: Joshua 18:5 retains its borders, while 19:9 redistributes holdings within them.
@@ -402,6 +408,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Naphtali’s border reaches Judah (34); Dan’s list repeats Judah’s towns.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

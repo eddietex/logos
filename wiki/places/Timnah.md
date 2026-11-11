@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Listed in Dan’s inheritance with Elon and Ekron (43). Judah’s border *passed along by Timnah* (15:10); the double notice is recorded at [[Dan's Towns on Judah's Border - Joshua 15 and 19]].
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 Joshua 15:57 lists a Timnah in the hill country, with Maon, Carmel, and Ziph. It has its own page, [[Timnah (hill country)]], and is not identified with this border Timnah.
 
 ### Judah’s borders — Joshua 15:1–12
@@ -51,6 +57,7 @@ not a place, and one letter shorter in English.** The two names are distinct in 
 requalifying the other is renamed in the same pass**, per `AGENTS.md`.
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Judah and Tamar]] — Genesis 38:12–14; the destination that puts Judah on the road past

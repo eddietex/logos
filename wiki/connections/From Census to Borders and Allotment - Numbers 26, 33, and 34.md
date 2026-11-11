@@ -6,6 +6,7 @@ tags: [connection]
 # From Census to Borders and Allotment - Numbers 26, 33, and 34
 
 ## Passages involved
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
@@ -20,6 +21,12 @@ tags: [connection]
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### The last three lots — Joshua 19:24–48
+
+The last three lots complete the distribution to the seven tribes of 18:2. Numbers 26:42–43 counts Dan as a single family, the Shuhamites; Joshua records that Dan’s border *went out beyond* its listed towns through the capture of Leshem (19:47), without connecting this to the census or giving a reason.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
 
 ### Three tribal lots — Joshua 19:1–23
 

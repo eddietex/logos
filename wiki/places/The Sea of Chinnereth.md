@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**The city.** Joshua 19:35 lists a fortified city Chinnereth in Naphtali; see [[Chinnereth (city)]]. The verse does not mention the sea.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Its extremity marks the northern reach of Gad’s Jordan-bank description (27).

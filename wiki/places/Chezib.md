@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**The coastal Achzib** of Asher’s border (19:29) has its own page, [[Achzib (Asher)]].
+
 ### Judah’s cities — Joshua 15:20–63
 
 The *Achzib* of Judah's third lowland group (44), listed with Keilah and Mareshah. This page's identification of Genesis 38's Chezib with that Achzib stands as before: probable, not stated by either text.

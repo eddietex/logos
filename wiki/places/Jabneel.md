@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Another Jabneel.** Naphtali’s border passes a Jabneel (19:33); it has its own page, [[Jabneel (Naphtali)]].
+
 The route passes through Jabneel before ending at the sea (11). No modern identification is assigned.
 
 Source: stored WEB Joshua 15:1–12. No precise modern location or unstated biography is asserted.

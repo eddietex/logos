@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Not Hammath.** Naphtali’s fortified city Hammath (19:35) is a different place; see [[Hammath]].
+
 ### The land that remains — Joshua 13:1–7
 
 The entrance of Hamath is the endpoint of the stretch from Baal Gad under Hermon in the list of remaining land (5). A boundary named in the promise is not thereby an accomplished occupation.

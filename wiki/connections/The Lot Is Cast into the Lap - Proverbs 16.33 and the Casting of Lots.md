@@ -6,6 +6,7 @@ tags: [connection]
 # The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots
 
 ## Passages involved
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
@@ -36,6 +37,12 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### The last three lots — Joshua 19:24–48
+
+The fifth, sixth, and seventh lots *came out* (19:24, 32, 40). Dan’s capture of Leshem (47) is the first time in the distribution that a tribe’s holding is extended by its own campaign rather than by lot.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
 
 ### Three tribal lots — Joshua 19:1–23
 

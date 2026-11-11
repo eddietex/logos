@@ -166,6 +166,12 @@ Judah and Benjamin remains an unresolved overlap rather than an asserted transfe
 Zebulun’s boundary and towns, and Issachar’s register ending at the Jordan.
 The nested grant explains shared towns without asserting complete occupation.
 
+[[The Lots of Asher, Naphtali, and Dan]] (19:24–48) closes the seven lots of Shiloh. Asher’s
+border reaches *great Sidon* and *the fortified city of Tyre* without capturing either;
+Naphtali’s ends at the Jordan, with a puzzling reach *to Judah at the Jordan*; Dan’s lowland
+towns overlap Judah’s list, and Dan alone extends its lot by force, taking Leshem and naming
+it Dan.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -216,7 +222,7 @@ Plan drawn 2026-11-10 from the stored WEB. **32 / 42 pericopes ingested.**
 - [x] [[The Land Surveyed at Shiloh]] — Joshua 18:1–10
 - [x] [[The Inheritance of Benjamin]] — Joshua 18:11–28
 - [x] [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23
-- [ ] The Lots of Asher, Naphtali, and Dan — Joshua 19:24–48
+- [x] [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48
 - [ ] Joshua's Own Inheritance — Joshua 19:49–51
 - [ ] The Cities of Refuge Appointed — Joshua 20:1–9
 - [ ] The Cities of the Levites — Joshua 21:1–42

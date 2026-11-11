@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+The descendants receive the seventh and last lot, a list of lowland towns ending opposite Joppa (40–46). They then take Leshem and name it *Dan, after the name of Dan their forefather* (47) — the patriarch is present only as the name given to a captured city. Several of the lowland towns were already listed for Judah. See [[Leshem Becomes Dan - Joshua 19 and Judges 18]].
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Dan is pictured as a lion’s cub leaping from Bashan (22), unlike the serpent of Genesis 49:17. This
@@ -172,6 +178,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:25 — Dan's camp is the rear guard. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

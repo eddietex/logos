@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**Aznoth Tabor.** Naphtali’s border turns westward to [[Aznoth Tabor]] (19:34); the shared element is not explained.
+
 Named in Issachar’s border and city register (18–23), totaling sixteen cities with their villages and ending at the Jordan. No individual capture is narrated. This entry does not expressly identify the place as a mountain or equate it with Chisloth Tabor.
 
 Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.

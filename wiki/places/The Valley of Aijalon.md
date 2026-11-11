@@ -7,6 +7,8 @@ tags: [place]
 
 ## Overview
 
+**The town.** Dan’s list names a city Aijalon (19:42); see [[Aijalon]]. The verse does not mention the valley.
+
 Joshua addresses the moon over this valley while addressing the sun over Gibeon (12). The place is a
 bearing in the public address, not a separately narrated battlefield.
 

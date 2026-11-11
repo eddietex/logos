@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The last three lots — Joshua 19:24–48
+
+The fifth, sixth, and seventh lots close the western distribution. Asher reaches great Sidon and Tyre without capturing them; Naphtali’s list is of fortified cities; Dan’s lowland towns overlap Judah’s, and Dan’s one narrated possession is a city outside its lot taken by the sword (47). Allotment, occupation, and conquest remain three different things.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Three tribal lots — Joshua 19:1–23
 
 Family inheritance has different forms: Simeon’s towns lie inside Judah’s oversized share, Zebulun receives a boundary circuit and twelve cities, and Issachar receives sixteen cities with a Jordan endpoint. Allotment does not itself establish occupation (1–23).
@@ -982,6 +988,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

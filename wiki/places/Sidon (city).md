@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Asher’s border runs *even to great Sidon* (28), the same phrase as the pursuit of 11:8. Genesis 49:13 gave Zebulun a border on Sidon; Joshua gives the reach to Sidon to Asher. A boundary reaching Sidon is not a report of conquest.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 Mearah belongs to the Sidonians (4); the Sidonians also appear among inhabitants whom Yahweh promises to drive out (6). The earlier pursuit to Sidon in 11:8 is therefore not a claim of permanent occupation.
@@ -55,6 +61,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Asher’s border reaches it.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

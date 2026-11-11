@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+The descendants receive the fifth lot: a boundary from Helkath past Carmel westward, east to Beth Dagon and Zebulun, then north *even to great Sidon* and *the fortified city of Tyre*, ending at the sea by Achzib, with a stated twenty-two cities and their villages (24–31). Genesis 49:20 and Deuteronomy 33:24–25 speak of rich food and oil; this register is silent on produce, and names Sidon and Tyre as limits, not conquests.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The tribal territory meets Manasseh on the north and includes Manassite holdings (10–11). Asher in
@@ -132,6 +138,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:26 — Asher marches in Dan's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

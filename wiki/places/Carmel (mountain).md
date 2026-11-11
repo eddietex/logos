@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Asher’s border *reached to Carmel westward, and to Shihorlibnath* (26). As at 12:22, the verse says only *Carmel*; the mountain reading remains this page’s, not the verse’s.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 Carmel supplies the comparison for the woman's head in [[Return, Return, Shulammite]]
 (Song 7:5). This page takes the likely mountain reading without claiming that the verse
 explicitly says mountain or that the lovers travel there.
@@ -22,6 +28,7 @@ Sources: stored WEB Song 7:5; 1 Kings 18:19 and Joshua 15:55 checked at bible-ap
 
 ## Appears in
 
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Asher’s border.
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; geographical comparison.
 - [[The Kings Struck Down]] — Joshua 12:1–24; *Jokneam in Carmel*.
 

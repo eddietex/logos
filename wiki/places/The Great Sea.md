@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The last three lots — Joshua 19:24–48
+
+Asher’s border *ended at the sea by the region of Achzib* (29). The verse says only *the sea*; the westward setting identifies it.
+
+See [[The Lots of Asher, Naphtali, and Dan]]. Source: stored WEB Joshua 19:24–48; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 The sea closes Manasseh’s western boundary (9–10). No new coastal conquest is narrated.
@@ -69,6 +75,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Asher’s border ends at it.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Cities of Judah]] — Joshua 15:20–63.
