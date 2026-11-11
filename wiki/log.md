@@ -24780,3 +24780,23 @@ unreconciled, with the usual proposals listed but none adopted. The king of Ai g
 the existing `(of Joshua's time)` pattern; the ambush party, the elders, and the dead do not. No
 page for the unnamed valley north of Ai. The irony that what Achan took by theft at Jericho Israel
 receives by command at Ai is recorded as a reader's observation, not the text's claim.
+
+## [2026-11-11] ingest | Joshua 8.30-35 — The Law Read at Mount Ebal
+
+Ingested one pericope in unattended mode with Codex. Retained the planned six-verse boundary;
+Joshua is now 12 / 42. Created one passage page from the template, quoting the complete unit
+from stored WEB. Revised 18 existing content pages: Joshua, three people, two places, nine
+themes, and three connections. Updated seven index/dashboard pages and this log (26 existing
+pages revised in all). Counts: 406 passages, 263 people, 228 places, 87 themes, 809 connections.
+
+The altar and mountain connections now include the narrated performance; the public-reading
+connection compares Deuteronomy 31’s inclusive audience without assuming its festival schedule.
+Preserved the differences between Deuteronomy 27 and Joshua 8: speaker, spatial description,
+and details not repeated. No explicit contradiction was newly identified. Left the identity
+of the inscribed and altar stones, the inscription’s exact extent, and the foreigners’ origins
+undetermined. Collective officials and priests receive no invented individual identities.
+
+Sources checked in stored WEB Joshua 8:30–35, Deuteronomy 27:1–26 and 31:9–13, and Exodus
+20:24–26. No new source-language claims or quotations from unstored books. Raw files and
+workflow instructions unchanged. Link checks clean, including wrapped links and dangling
+targets; 56 unstarted-book links remain the expected baseline.

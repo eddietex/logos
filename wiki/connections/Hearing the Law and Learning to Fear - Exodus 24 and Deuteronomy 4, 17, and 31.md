@@ -6,6 +6,8 @@ tags: [connection]
 # Hearing the Law and Learning to Fear - Exodus 24 and Deuteronomy 4, 17, and 31
 
 ## Passages involved
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[The Blood of the Covenant]] — Exodus 24:3–8.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:9–10.
 - [[Hear Israel and Love Yahweh]] — Deuteronomy 6:6–9.
@@ -13,6 +15,12 @@ tags: [connection]
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13.
 
 ## Analysis
+
+### The Ebal assembly now narrated — Joshua 8:30–35
+
+Joshua 8:30–35 adds a narrated gathering to the prescribed assemblies. The audience includes women, little ones, and foreigners (35), closely corresponding to Deuteronomy 31:12. Joshua reads all Moses commanded rather than restricting the audience to warriors or officials. The comparison concerns shared public instruction: Joshua gives no seven-year date or Feast of Tents setting, so this cannot be identified as the scheduled ceremony of Deuteronomy 31:10–13 merely from the matching audience.
+
+Source: stored WEB Joshua 8:30–35 and Deuteronomy 27:1–26; 31:9–13.
 
 Exodus 24:4, 7 depicts Moses writing Yahweh’s words and reading the covenant book to the
 people, who answer with a commitment to obey. Deuteronomy 31:9–13 again joins writing and

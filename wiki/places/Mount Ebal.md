@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Joshua builds the uncut-stone altar here and writes Moses’ law on stones (30–32). Half the people stand before Ebal during the reading (33–35). The performance is now narrated, whereas Deuteronomy 27:1–10 prescribed it prospectively.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Reuben, Gad, Asher, Zebulun, Dan, and Naphtali must stand here for the curse (13). All the people, not just these six tribes, must answer the Levitical curses (15–26).
@@ -36,6 +42,8 @@ explains the choice.
 
 ## Appears in
 
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -54,4 +62,4 @@ explains the choice.
 
 - The curse is to be set on Ebal — Deuteronomy 11:29, [[Set These Words Before You]].
 - Stones with the law written on them and an altar of uncut stones — Deuteronomy 27:4–8, [[Stones and an Altar on Mount Ebal]]; see [[An Altar of Uncut Stones - Exodus 20, Deuteronomy 27, and Joshua 8]].
-- Joshua builds the altar and reads the law — Joshua 8:30–35 (not yet ingested).
+- Joshua builds the altar and reads the law — [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

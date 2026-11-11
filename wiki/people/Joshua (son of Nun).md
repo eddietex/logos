@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Joshua builds the altar, writes a copy of Moses’ law on stones, and reads it to the entire assembly (30–35). His leadership after Ai includes public instruction, not only military command; compare his charge in Joshua 1:7–8.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The capture of Ai — Joshua 8:1–29
 
 Yahweh's first word after Achor is *Don't be afraid, and don't be dismayed* (1) — the exact pairing
@@ -263,6 +269,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Half the assembly stands in front of Gerizim, opposite those before Ebal and on either side of the ark (33). Joshua reads blessing and curse (34); the narrative does not reproduce separate liturgical formulas or list the tribes again.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Simeon, Levi, Judah, Issachar, Joseph, and Benjamin must stand here to bless the people (12). No corresponding blessing formulas are recorded in this unit.
@@ -22,7 +28,7 @@ Shechem where Abram built his first altar in the land (Genesis 12:6–7).
 Deuteronomy 11 gives no reason why Gerizim takes the blessing and Ebal the curse. Deuteronomy
 27:12 assigns Simeon, Levi, Judah, Issachar, Joseph, and Benjamin to stand on Gerizim *"to bless
 the people"*. In Joshua 8:33 half of Israel stands *"in front of Mount Gerizim"* while the law is
-read (WEB, verified from bible-api.com; Joshua not yet ingested).
+read (WEB, now checked in stored Joshua).
 
 Later, Gerizim became the Samaritans' holy mountain. In John 4:20 the Samaritan woman says, *"Our
 fathers worshiped in this mountain"* (WEB, verified from bible-api.com). That history lies outside
@@ -30,6 +36,8 @@ Deuteronomy and is noted only so it is not lost; see
 [[The Altar at Shechem and the Covenant at Shechem]].
 
 ## Appears in
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
@@ -48,5 +56,5 @@ Deuteronomy and is noted only so it is not lost; see
 ## Events here
 
 - The blessing is to be set on Gerizim — Deuteronomy 11:29, [[Set These Words Before You]].
-- Six tribes are to stand on Gerizim to bless the people — Deuteronomy 27:12 (not yet ingested).
-- Half of Israel stands before Gerizim at the reading of the law — Joshua 8:33 (not yet ingested).
+- Six tribes are to stand on Gerizim to bless the people — Deuteronomy 27:12, [[The People Answer Amen to the Curses]].
+- Half of Israel stands before Gerizim at the reading of the law — [[The Law Read at Mount Ebal]] — Joshua 8:33.

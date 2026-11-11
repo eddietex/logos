@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Burnt offerings and peace offerings are sacrificed on the altar of uncut stones untouched by iron (30–31), fulfilling the instruction of Deuteronomy 27:5–7. Joshua does not explicitly narrate the meal or rejoicing prescribed there.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Levi offers incense and burnt offerings (10); Zebulun and Issachar summon peoples to offer righteous
@@ -748,6 +754,8 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.

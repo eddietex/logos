@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
+
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
 
 - [[The Altar, the Basin, the Court, and the Inventory]] — Exodus 38:1–31; Crafted altar made; no earth filling stated (38:1–7).
@@ -16,11 +18,17 @@ tags: [connection]
 - **Deuteronomy 27:5–7** — the altar to be built on Mount Ebal after the crossing of the Jordan
   — [[Stones and an Altar on Mount Ebal]]
 - **Joshua 8:30–31** — Joshua builds it *"as it is written in the book of the law of Moses"*
-  *(not yet ingested)*
+  *(now ingested above)*
 - **Exodus 27:1–8** — the tabernacle's altar of acacia wood and bronze, a different provision —
   [[The Altar and the Court]]
 
 ## Analysis
+
+### The Ebal assembly now narrated — Joshua 8:30–35
+
+Joshua 8:30–35 is now ingested. Verses 30–31 explicitly narrate the Ebal altar’s construction according to Moses’ written law, with uncut stones untouched by iron and both burnt and peace offerings. Verse 32 adds the inscription. Deuteronomy 27:2–8 expressly mentions plaster and eating with rejoicing; Joshua does not repeat those details. Neither omission is an explicit denial. Joshua’s reference to writing on the stones does not by itself settle whether the inscribed stones and altar stones were identical.
+
+Source: stored WEB Joshua 8:30–35 and Deuteronomy 27:1–26; 31:9–13.
 
 **The law of Exodus 20:25 is commanded again for a specific place, and then carried out.** WEB text
 was fetched from bible-api.com (`translation=web`) on 2026-10-23, and Hebrew was checked against

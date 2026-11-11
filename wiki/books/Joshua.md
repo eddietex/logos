@@ -72,6 +72,10 @@ holds out the javelin until the city is destroyed, Ai becomes *a heap forever*, 
 under a second heap of stones at the gate. This time the goods and livestock are Israel's by
 command.
 
+[[The Law Read at Mount Ebal]] (8:30–35) turns from conquest to altar, inscription, and public reading.
+Moses’ written instruction governs Joshua’s leadership, and the whole assembly hears blessing
+and curse, including women, little ones, and foreigners.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -88,7 +92,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **11 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **12 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -101,7 +105,7 @@ Plan drawn 2026-11-10 from the stored WEB. **11 / 42 pericopes ingested.**
 - [x] [[The Fall of Jericho]] — Joshua 6:1–27
 - [x] [[The Sin of Achan]] — Joshua 7:1–26
 - [x] [[The Capture of Ai]] — Joshua 8:1–29
-- [ ] The Law Read at Mount Ebal — Joshua 8:30–35
+- [x] [[The Law Read at Mount Ebal]] — Joshua 8:30–35
 - [ ] The Gibeonite Deception — Joshua 9:1–27
 - [ ] The Sun Stands Still at Gibeon — Joshua 10:1–15
 - [ ] The Five Kings in the Cave at Makkedah — Joshua 10:16–27

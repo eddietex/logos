@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+The covenant ark stands at the assembly’s center while blessing and curse are read (33–35). The land’s new occupants remain accountable to the law; victory does not replace covenant obligation.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Yahweh calls the theft a transgression of my covenant which I commanded them (11), and the sentence
@@ -620,6 +626,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+The written law governs the altar’s construction and becomes both a public inscription and a complete public reading (31–35). Joshua’s obedience is measured by Moses’ commands; the audience includes women, little ones, and foreigners.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Six daily circuits and seven on the seventh day follow the given command (3–20). Silence yields to a shout at Joshua’s order. The warning against taking devoted things (18) makes obedience after victory as consequential as obedience before it.
@@ -1408,6 +1414,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

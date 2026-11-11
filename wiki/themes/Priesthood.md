@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+The Levitical priests carry the covenant ark before the assembled people (33). Joshua is the named reader (34–35); the passage does not individually name the priests or explicitly identify who performs each sacrifice.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Seven unnamed priests sound rams’ horns before the ark, with armed men ahead and a rear guard behind (4–13). Priestly service accompanies the military procession; the account does not name these priests or identify their horns as the silver instruments of Numbers 10.
@@ -746,6 +752,8 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+The arrangement before the mountains follows Moses’ command to bless Israel (33), and Joshua reads blessing together with curse (34). The narrative gives neither a separate series of blessing formulas nor permission to detach blessing from the law.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 The blessing before Moses’ death embraces distinct tribal gifts within Yahweh’s care for Israel
@@ -532,6 +538,8 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.

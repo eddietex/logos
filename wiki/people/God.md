@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Yahweh receives the altar and burnt and peace offerings (30–31). His covenant ark stands before the assembled people (33); his instruction reaches the whole assembly through the law Moses commanded, rather than through a new speech in this unit.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The capture of Ai — Joshua 8:1–29
 
 The God who had said *I will not be with you any more* (7:12) now speaks first, with the
@@ -3862,6 +3868,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

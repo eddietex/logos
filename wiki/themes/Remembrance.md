@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Inscribed stones and public reading preserve and communicate Moses’ instruction after his death (32–35). Little ones hear alongside adults; unlike Joshua 4’s memorial stones, these stones bear a written copy of the law.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The capture of Ai — Joshua 8:1–29
 
 Two *to this day* markers in two verses: Ai a heap *to this day* (28), and the stones over its king
@@ -718,6 +724,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

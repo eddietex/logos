@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Although dead, Moses remains the named authority for the altar, the assembly, and the reading (31, 33, 35). Joshua’s actions enact the written instruction; Moses is not a participant physically present at Ebal.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The twelve stones — Joshua 4:1–24
 
 Moses is recalled through his commands and the eastern tribes’ obedience (10, 12). Israel’s regard
@@ -1900,6 +1906,8 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

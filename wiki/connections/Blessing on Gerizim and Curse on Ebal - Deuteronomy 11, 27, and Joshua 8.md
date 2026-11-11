@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
+
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 
@@ -19,12 +21,18 @@ tags: [connection]
   on them and an altar of uncut stones on Ebal (2–8); six tribes on Gerizim *"to bless the people"*,
   six on Ebal *"for the curse"* (12–13); the Levites pronounce twelve curses, each answered
   *"Amen"* (14–26).
-- **Joshua 8:30–35** *(verified from bible-api.com, WEB; not yet ingested)* — Joshua builds the
+- **Joshua 8:30–35** *(stored WEB; now ingested)* — Joshua builds the
   altar on Ebal, and all Israel stands *"half of them in front of Mount Gerizim, and half of them in
   front of Mount Ebal, as Moses the servant of Yahweh had commanded"* (33). He reads *"all the words
   of the law, the blessing and the curse"* (34).
 
 ## Analysis
+
+### The Ebal assembly now narrated — Joshua 8:30–35
+
+The whole Ebal unit is now ingested. The ark and Levitical priests appear between the two halves of the assembly, with elders, officers, judges, and foreigners alongside natives (33). Joshua reads blessing and curse to women, little ones, and foreigners as well as the rest of Israel (34–35). This implements the mountain ceremony while retaining the differences of speaker and spatial description noted above. Joshua does not transcribe the responsive curses or the people’s answers, so their absence from the narrative is not evidence of their rejection.
+
+Source: stored WEB Joshua 8:30–35 and Deuteronomy 27:1–26; 31:9–13.
 
 ### The assembly’s assent — Deuteronomy 27:11–26
 
@@ -86,7 +94,6 @@ Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared abov
 Deuteronomy 11 sets a blessing and a curse before Israel as words (26–28) and then gives them a
 place (29). The choice is to be staged on the actual ground of the land, between two visible
 mountains. Joshua 8 shows the generation that crossed doing exactly that, with foreigners, women,
-and little ones present (Joshua 8:35). Deuteronomy 27 is now fully ingested; the future Joshua ingest will revisit this page.
+and little ones present (Joshua 8:35). Deuteronomy 27 is now fully ingested; Joshua 8:30–35 is also now ingested.
 
-Sources: stored WEB Deuteronomy 11:26–30, 27:1–26; Genesis 12:6–7. Joshua 4:19 and 8:30–35 verified
-from bible-api.com (WEB) without storing the book. No assertion about exact Hebrew wording is made.
+Sources: stored WEB Deuteronomy 11:26–30, 27:1–26; Genesis 12:6–7. Joshua 4:19 and 8:30–35 are now available in the stored WEB book. No assertion about exact Hebrew wording is made.

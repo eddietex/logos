@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+The law is inscribed and heard in the land after Ai’s capture (30–35). Foreigners stand with natives (33), showing participation in the hearing without identifying the foreigners’ origins or settling every question of legal status.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 A shut city becomes a conquered city (1–20), but it is burned rather than immediately occupied as an ordinary settlement (24–26). The gift of land does not here authorize unrestricted use of its wealth or rebuilding.
@@ -859,6 +865,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.

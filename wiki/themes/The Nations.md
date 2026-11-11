@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Foreigners as well as natives stand at the assembly and hear the law (33, 35). This is explicit inclusion in instruction; the text neither names these foreigners nor identifies them collectively as Rahab’s household or as every conquered people.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Rahab moves from Jericho into Israel (25). This stands in tension with the sweeping destruction of the land’s peoples in Deuteronomy 7:1–2 and 20:16–18: Joshua names an exception, without supplying a general legal reconciliation.
@@ -448,6 +454,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

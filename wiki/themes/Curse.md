@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law read at Ebal — Joshua 8:30–35
+
+Joshua reads the curse along with the blessing before the whole assembly (34–35). The altar on Ebal does not come with an explanation that the sacrifices cancel the covenant curses; that would be an inference beyond this account.
+
+See [[The Law Read at Mount Ebal]]. Source: stored WEB Joshua 8:30–35.
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Taking devoted things threatens to make Israel’s camp accursed (18). Joshua also pronounces loss of firstborn and youngest son upon Jericho’s rebuilder (26). The two sanctions concern different acts; neither should be collapsed into a general curse on all residents.
@@ -312,6 +318,8 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 
