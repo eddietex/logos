@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+Its southern bay begins the south border; the sea itself forms the east border up to the Jordan’s end, where the north border begins (2, 5).
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Crossing the Jordan — Joshua 3:1–17
 
 The sea of the Arabah is explicitly identified as the Salt Sea, toward which the downstream waters flow before being cut off (16). The people cross the Jordan, not this sea.
@@ -71,6 +77,7 @@ an image that depends entirely on the reader knowing nothing lives in it.
 **Joshua 12:1–24 — the list of kings.** *The sea of the Arabah, even the Salt Sea* bounds Sihon's Arabah on the south (12:3), as in Deuteronomy 3:17. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
 

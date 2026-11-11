@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Borders of Judah]] — Joshua 15:1–12.
+
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 
 
@@ -16,6 +18,10 @@ tags: [connection]
 - [[Joshua Commissioned]] — Numbers 27:12–23.
 
 ## Analysis
+
+### Judah’s boundary circuit
+
+Judah’s lot now receives its own boundary circuit in Joshua 15:1–12. Its south follows the Salt Sea, Akrabbim, Zin, Kadesh Barnea, Azmon, the brook of Egypt, and the sea, shared with Numbers 34:3–5. Numbers names Hazar Addar; Joshua names Hezron, Addar, and Karka. These are not identical lists, and no name equation is needed to see the common southern line. Numbers describes Canaan’s outer boundary; Joshua describes one tribe’s allotment, whose northern line is therefore different. Source: stored WEB Numbers 34:1–12 and Joshua 15:1–12.
 
 ### The western division — Joshua 14:1–5
 

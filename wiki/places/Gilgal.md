@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The border looks toward Gilgal opposite the ascent of Adummim (7). The shared name alone does not establish that this landmark is Joshua’s camp; this occurrence is recorded here with that identification left open.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 The children of Judah approach Joshua here, and Caleb presents his claim (6). This is the meeting’s location, distinct from Hebron, the inheritance requested and granted.
@@ -73,6 +79,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

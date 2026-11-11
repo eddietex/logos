@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+Bohan is called son of Reuben in the name of the boundary stone (6). This does not narrate an action of the patriarch or establish the precise generation intended.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Eastern allotments — Joshua 13:8–33
 
 The descendants receive the plain and cities from the Arnon-valley Aroer, with the Jordan as border (15–23). Dibon, built by Gad in Numbers 32:34, is listed here in Reuben’s share (17); the difference is retained, not explained by an invented transfer.
@@ -284,6 +290,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *the Reubenites* (12) pledge to cross armed before their brothers.

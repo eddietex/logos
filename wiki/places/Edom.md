@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The lot reaches Edom’s border at the southern wilderness (1). This is a limit of Judah, not a grant of Edom.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### The whole land taken — Joshua 11:16–23
 
 Mount Halak *goes up to Seir* (17), marking the southern limit of Joshua’s conquest summary. The verse names Seir as a direction; it does not report Edomite territory taken.
@@ -164,6 +170,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 **Joshua 12:1–24 — the list of kings.** Seir again names the direction of Mount Halak's ascent (12:7), not Edomite land taken. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

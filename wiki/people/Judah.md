@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The tribal descendants, not the patriarch personally, receive the lot according to their families (1, 12). The boundary circuit gives that corporate inheritance a defined extent.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 The children of Judah approach Joshua at Gilgal with Caleb (6). This is the tribe descended from Judah, not the patriarch in person; Caleb’s individual inheritance stands within this tribal setting.
@@ -365,6 +371,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[The Sin of Achan]] — Joshua 7:1–26.

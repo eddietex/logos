@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The lot for Judah is delimited on four sides and framed by reference to its families (1, 12). Allotment defines an inheritance; it does not by itself assert occupation of every named place.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 The promised land becomes Caleb’s named inheritance, Hebron, for him and his children (9, 13–14). Legal allocation and actual removal of inhabitants are distinguished: the latter is still proposed in verse 12.
@@ -924,6 +930,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

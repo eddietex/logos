@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+Verse 8 identifies the Jebusite location with Jerusalem and traces the line on its south side. The border description does not report the city captured.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 Its king, [[Adoni-Zedek]], is brought from the cave and killed at Makkedah (23–27). The city is named to identify its ruler; the king’s death is not itself a report that the city has been captured.
@@ -68,6 +74,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

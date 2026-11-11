@@ -25144,3 +25144,33 @@ newly verified. Raw texts and harness/schema instructions were unchanged.
 Validation: scripts/link-check.sh passed with no wrapped links or unexpected dangling targets;
 56 unstarted book pages remain the expected baseline. The passage title is unique, counts match
 the dashboard, and git diff --check is clean. No unresolved execution blocker.
+
+## [2026-11-11] ingest | Joshua 15.1-12 — The Borders of Judah
+
+Ingested the next planned unit unchanged, in unattended mode. Created the passage, Bohan,
+and 20 place pages; revised 15 existing places, Judah and Reuben, two themes, and two
+connections. Updated Joshua’s overview and queue to 24 / 42, the book status row, affected
+category rows, and dashboard counts: 418 passages, 277 people, 301 places, 87 themes,
+818 connections. Total: 22 new pages and 32 revised pages including indexes and this log.
+
+The passage preserves the full stored WEB text and explains the boundary circuit, family
+allotment, and distinction between allocation and possession. The Numbers 34 connection
+records the shared southern landmarks and the differing Hazar Addar versus Hezron/Addar/Karka
+lists. The casting-lots connection now includes Judah’s specified lot.
+
+Judgment calls: Hezron (place), Debir (Judah border), and Mount Seir (Judah border) are
+qualified to avoid false identity with existing people or places. Gilgal and Timnah retain
+existing pages with explicit identification uncertainty. Bohan receives a brief person page
+and his stone a place page; Hinnom and his unnamed son remain covered by the valley page.
+No biography is inferred from Ephron or Rephaim in geographical names. The Jebusite location
+is covered by Jerusalem, the text’s own gloss. Modern site identifications are not added.
+The earlier conquest/remaining-possession tension is explicitly retained.
+
+Sources: quotations copied directly from raw/bible/Joshua.md, Joshua 15:1–12; the boundary
+comparison checked against stored WEB Numbers 34:1–12. No unstored-book quotation or exact
+Hebrew/Greek claim introduced. Raw texts and workflow instructions unchanged.
+
+Validation: scripts/link-check.sh passed (56 expected not-yet-started book targets; no
+wrapped links or unexpected dangling targets). Exact quotation, unique passage title,
+new entity index coverage, frontmatter counts, and git whitespace checks passed.
+No blocking issue; geographical uncertainties remain documented at the relevant claims.

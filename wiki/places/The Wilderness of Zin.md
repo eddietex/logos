@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The southern extent of Judah reaches Zin; the line passes along Zin south of the ascent of Akrabbim (1, 3).
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Commanded to ascend Nebo — Deuteronomy 32:48–52
 
 The failure to uphold Yahweh’s holiness occurred at Meribah of Kadesh in this wilderness (51),
@@ -60,6 +66,7 @@ at what will be the frontier. Numbers 27:14 and Deuteronomy 32:51 name it for th
 (both now ingested; see [[Moses Commanded to Ascend Nebo]]).
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

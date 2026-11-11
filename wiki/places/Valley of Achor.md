@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The northern boundary ascends from this valley to Debir (7). The scene of judgment in Joshua 7 now serves as a territorial landmark.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### The capture of Ai — Joshua 8:1–29
 
 The next chapter matches Achor's heap with another: the king of Ai is covered with *a great heap of
@@ -22,7 +28,7 @@ was called "The valley of Achor" to this day* (7:26). *ʿĒmeq ʿāḵôr* (WLC 
 trouble*, from the verb *ʿāḵar* used in verse 25. See [[Names and Naming]].
 
 **Location.** The text says only that Israel *brought them up* to it from the camp near Jericho (7:24).
-Joshua 15:7 later names it on Judah's northern border (stored WEB, not yet ingested); a precise modern
+Joshua 15:7 later names it on Judah's northern border (stored WEB; see [[The Borders of Judah]]); a precise modern
 identification is not attempted here. Proposed sites are debated and none is asserted.
 
 **The valley's second life.** The prophets take the name of judgment and reverse it. Hosea 2:15:
@@ -31,6 +37,7 @@ identification is not attempted here. Proposed sites are debated and none is ass
 [[The Valley of Achor - Trouble Turned to a Door of Hope]].
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:24–26

@@ -127,6 +127,10 @@ Joshua blesses him and grants Hebron; Caleb anticipates further fighting even as
 section closes with rest from war. The earlier removal of the Anakim and the coming
 local expulsion remain explicitly in tension.
 
+[[The Borders of Judah]] (15:1–12) defines Judah’s lot by its family groups and four borders.
+The southern line recalls Numbers 34; the northern line uses local landmarks including
+Jerusalem’s south side. Territorial allocation does not establish completed occupation.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -143,7 +147,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **23 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **24 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -168,7 +172,7 @@ Plan drawn 2026-11-10 from the stored WEB. **23 / 42 pericopes ingested.**
 - [x] [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33
 - [x] [[The Division of the Land Begins]] — Joshua 14:1–5
 - [x] [[Caleb Claims Hebron]] — Joshua 14:6–15
-- [ ] The Borders of Judah — Joshua 15:1–12
+- [x] [[The Borders of Judah]] — Joshua 15:1–12
 - [ ] Achsah Asks for Springs — Joshua 15:13–19
 - [ ] The Cities of Judah — Joshua 15:20–63
 - [ ] The Inheritance of Ephraim — Joshua 16:1–10

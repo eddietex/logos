@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The boundary passes Timnah after Beth Shemesh (10). This is a secure occurrence of the name; whether it is the sheep-shearing destination of Genesis 38 remains unresolved, as the existing identification discussion records.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 **The town Judah goes up to for the sheep-shearing, and the reason he is on the road at all.**
 
 > **12** After many days, Shua’s daughter, the wife of Judah, died. Judah was comforted, and went up to
@@ -43,6 +49,7 @@ not a place, and one letter shorter in English.** The two names are distinct in 
 requalifying the other is renamed in the same pass**, per `AGENTS.md`.
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Judah and Tamar]] — Genesis 38:12–14; the destination that puts Judah on the road past
   [[Enaim]], and the festival that supplies the occasion

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The boundary supplies paired designations: the Jebusite location/Jerusalem, Baalah/Kiriath Jearim, and Mount Jearim/Chesalon (8–10). These are explanatory identifications, not narrated acts of renaming.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Verse 15 supplies Hebron’s former name, Kiriath Arba, and associates it with the greatest man among the Anakim. It does not narrate when the name changed or identify who changed it.
@@ -265,6 +271,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[The Sin of Achan]] — Joshua 7:1–26.

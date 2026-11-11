@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The boundary passes south of Kadesh Barnea (3); this is a boundary description, not another visit to the wilderness camp.
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Kadesh Barnea is recalled as the place of Caleb’s commission and the promise concerning Caleb and Joshua (6–7). The present meeting occurs at Gilgal, forty-five years after the remembered promise.
@@ -149,6 +155,7 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Borders of Judah]] — Joshua 15:1–12.
+
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 
 
@@ -33,6 +35,10 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### Judah’s boundary circuit
+
+Joshua 15:1 calls Judah’s share a lot and gives its boundaries by families (1, 12). This makes the general allotment of Joshua 14:1–5 concrete for Judah without describing the drawing mechanism or recounting the occupation of each location. Source: stored WEB Joshua 14:1–5; 15:1–12.
 
 ### The western division — Joshua 14:1–5
 

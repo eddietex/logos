@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The southern and northern boundary routes terminate at the sea, whose shore forms Judah’s west border (4, 11–12).
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Its shore in front of Lebanon defines part of the coalition’s territory (1). The description gives
@@ -45,6 +51,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[After the Death of Moses]] — Joshua 1:1–9; *the great sea toward the going down of the sun* (4).

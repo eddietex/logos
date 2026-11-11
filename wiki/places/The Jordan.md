@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Judah’s borders — Joshua 15:1–12
+
+The river’s end at the Salt Sea locates the north end of Judah’s east border and the start of its northern boundary (5).
+
+See [[The Borders of Judah]]. Source: stored WEB Joshua 15:1–12.
+
 ### The western division — Joshua 14:1–5
 
 The river distinguishes the previously assigned eastern inheritance from the western distribution (3). No new crossing is narrated.
@@ -283,6 +289,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 
