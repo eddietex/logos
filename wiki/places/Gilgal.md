@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Passover and the end of manna — Joshua 5:10–12
+
+The camp hosts Passover on the fourteenth day at evening (10). After circumcision and
+healing, Gilgal becomes the setting for the feast and the transition from manna to land produce.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The camp becomes the site of circumcision and recovery (2–9). Verse 3 calls the location the hill of the foreskins; it is treated here as a descriptive site within this episode, without assigning modern coordinates. Verse 9 connects the name Gilgal with Yahweh’s removal of Egypt’s reproach. The precise reproach remains unexplained.
@@ -35,6 +42,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

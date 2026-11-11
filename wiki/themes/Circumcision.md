@@ -45,6 +45,14 @@ a mark that can be perfectly kept and entirely missed.
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+Passover follows the circumcision and healing of 5:1–9. The sequence fits Exodus 12:48’s
+exclusion of the uncircumcised; it does not prove a complete absence of Passover observance
+throughout the wilderness period.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### What Yahweh requires — Deuteronomy 10:12–22
 
 The command to circumcise the heart is immediately explained by the demand to cease being stiff-necked (16). In this setting the image calls for responsive obedience after the calf episode; it does not abolish bodily circumcision. See [[Circumcision of the Heart]].
@@ -140,6 +148,7 @@ Exodus 12:48 made circumcision the condition for a stranger at the Passover. Num
 See [[The Passover in the Second Year]]. Source: stored WEB Numbers 9.
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

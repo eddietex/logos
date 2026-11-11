@@ -132,6 +132,14 @@ This page opened with Numbers, whose Hebrew name is the word itself.
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+Manna’s cessation closes the wilderness feeding era (12), matching the broad endpoint
+of Exodus 16:35. Joshua places that cessation after crossing, when produce is available
+at the Gilgal camp, not before the Jordan crossing.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### From the wilderness — Deuteronomy 11:18–32
 
 *"The wilderness"* is named as one edge of the promised border (24). It is now the land's boundary rather than the road behind them.
@@ -253,6 +261,7 @@ again (2, 29, 32, 33, 35), and the children will be *shepherds* there for forty 
 direction is back *by the way to the Red Sea* (25). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

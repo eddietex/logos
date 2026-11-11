@@ -652,6 +652,8 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 
 ## Cross-references
 
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12; [[From Manna to the Produce of Canaan]].
+
 - [[The Sabbath Breaker]] — Numbers 15:32–36; [[Sabbath Work Forbidden and Judged - Exodus 31 and Numbers 15]].
 
 - [[Provision Before Rest - Manna and the Sabbatical Year]] — Exodus 16:22–30 and Leviticus 25:20–22;
@@ -702,7 +704,7 @@ flour** becomes the standard grain offering (Numbers 28:5 and elsewhere; by refe
 - Numbers 15:32–36 — the man gathering sticks on the Sabbath *(not yet ingested)*
 - Deuteronomy 2:7 — *"You have lacked nothing"* *(not yet ingested)*
 - Deuteronomy 8:2–3, 16 — *"man does not live by bread only"* *(not yet ingested)*
-- Joshua 5:12 — *"The manna ceased"* *(not yet ingested)*
+- Joshua 5:12 — manna ceases after eating produce; see [[Passover at Gilgal and the End of the Manna]].
 - 1 Kings 8:9 — *"nothing in the ark except the two stone tablets"* *(not yet ingested)*
 - Nehemiah 9:15, 20 — *"bread from the sky for their hunger"*; *"didn't withhold your manna"* *(not yet
   ingested)*

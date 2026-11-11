@@ -84,6 +84,14 @@ evidence of it.
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+The manna ceases after Israel eats the land’s produce (11–12). Food continues in a new
+form. Read with Deuteronomy 8:3, 7–10, this is a transition in provision, not independence
+from the giver; Joshua does not identify who grew or supplied the grain.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Remembered deeds and the rain-fed land — Deuteronomy 11:1–17
 
 "A land which Yahweh your God cares for. Yahweh your God’s eyes are always on it, from the beginning of the year even to the end of the year" (12). Providence here is seasonal and agricultural, and conditional on Israel's loyalty.
@@ -434,6 +442,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

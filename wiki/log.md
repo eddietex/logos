@@ -24646,3 +24646,29 @@ stored WEB Genesis 17, Numbers 14 and 26, and Joshua 2–5. No new Hebrew/Greek 
 unstored-book quotation was introduced. Existing raw texts and workflow instructions were
 unchanged. Link checks passed: no wrapped or dangling links; 56 not-yet-started book pages
 remain the expected baseline.
+
+## [2026-11-10] ingest | Joshua 5.10-12 — Passover at Gilgal and the End of the Manna
+
+Ingested exactly the next planned pericope in unattended mode, retaining the 5:10–12
+boundary. Created the passage and [[From Manna to the Produce of Canaan]]; revised
+[[Kept in the Wilderness - The Passovers of Egypt, Sinai, and Gilgal]] to incorporate the
+now-ingested feast. Updated three earlier passage pages with current links and status.
+
+Updated God (contextual giver, not named in these three verses), Gilgal, Jericho, Canaan,
+and eight themes: Festivals and First Fruits, Providence, Land and Sojourning, The Wilderness,
+Remembrance, Law and Obedience, Circumcision, and Covenant. Israel remains the collective
+actor; no new person or place is needed. Joshua is now 7 / 42 pericopes; category rows and
+frontmatter-based totals are current: 401 passages, 260 people, 227 places, 87 themes,
+799 connections. Two pages created and 25 existing pages revised, including indexes and log.
+
+The passage reproduces all three verses directly from stored WEB. Comparisons were checked
+in stored WEB Exodus 12:25, 48; 16:35; Numbers 9:1–5; Deuteronomy 8:3, 7–10, 16;
+Leviticus 23:10–14; and Joshua 4–5. No raw text changed, no external quotation or new
+source-language claim introduced. The WEB sequence is preserved; the acquisition and age
+of the grain, and performance of the first-fruits offering, remain unspecified. Exodus’s
+broad endpoint is distinguished from Joshua’s post-crossing timing; no complete cessation
+of wilderness Passover observance is inferred from narrative silence.
+
+Validation: scripts/link-check.sh passed with 56 expected not-yet-started book targets;
+no wrapped or unexpected dangling links. No title collision, boundary change, or unresolved
+operational issue. Authored by OpenAI Codex.

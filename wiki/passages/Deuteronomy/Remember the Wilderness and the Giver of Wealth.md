@@ -102,6 +102,8 @@ Complete unit, copied from stored WEB:
 
 ## Cross-references
 
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12; [[From Manna to the Produce of Canaan]].
+
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.
 - [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]] — memory, prosperity, and covenant betrayal.
 - [[Not by Bread Only - Deuteronomy 8 and Matthew 4]]

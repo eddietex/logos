@@ -11,8 +11,8 @@ tags: [connection]
 - [[The Passover]] — Exodus 12:1–28; the first, and the phrase *when you have come to the land* (25)
 - [[The Consecration of the Firstborn]] — Exodus 13:5; *when Yahweh shall bring you into the land*
 - [[The Passover in the Second Year]] — Numbers 9:1–5; kept at Sinai
-- Numbers 33:3 — the departure *on the next day after the Passover* *(stored WEB, not yet ingested)*
-- Joshua 5:10 — the following Passover *(stored WEB; not yet ingested)*
+- [[The Stages of the Journey]] — Numbers 33:3; the departure after Passover.
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12; Passover and the end of manna.
 
 ## Analysis
 
@@ -35,11 +35,17 @@ came out were circumcised (Joshua 5:5).
 ### Circumcision at Gilgal
 
 Joshua 5:1–9 is now ingested: the children are circumcised and the camp waits for healing.
-This supplies the immediate setting for the Passover in 5:10, which remains a later ingestion
-unit. The wilderness omission is stated; its cause and any complete history of Passover
+This supplies the immediate setting for the Passover in 5:10, now ingested with 5:11–12. The wilderness omission is stated; its cause and any complete history of Passover
 observance during those years are not supplied.
 
 Source: stored WEB Joshua 5:1–10.
+
+### Food in the land
+
+[[Passover at Gilgal and the End of the Manna]] completes the sequence: Passover, eating produce, and
+then the cessation of manna. Exodus 12:25’s landward expectation now has an explicit
+narrative setting. The feast persists while the food supply changes; see
+[[From Manna to the Produce of Canaan]]. Source: stored WEB Joshua 5:10–12 and Exodus 12:25.
 
 ## Significance
 

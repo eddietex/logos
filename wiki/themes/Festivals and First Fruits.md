@@ -12,6 +12,14 @@ practices together without treating every offering or every holy day as the same
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+Passover is kept at Gilgal on the fourteenth day at evening, followed by unleavened cakes
+and parched grain (10–11). Leviticus 23:10–14 regulates eating harvest produce; Joshua
+does not narrate a first-fruits offering, so neither performance nor neglect is established.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The feast of tents in the year of release becomes the occasion for reading the law at the chosen place (10–11). The express summons includes men, women, little ones, and resident foreigners (12). Deuteronomy 16:16’s male pilgrimage requirement is not a prohibition on these others attending.
@@ -200,6 +208,7 @@ Yahweh, and in rejoicing with the Levite and the foreigner (10–11). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–11.
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.
 

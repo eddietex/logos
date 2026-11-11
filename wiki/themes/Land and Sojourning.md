@@ -418,6 +418,13 @@ against the city of Genesis 11:4 that had none.
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+Israel now eats Canaan’s produce (11–12). The land promise becomes a source of food before
+conquest and allotment are complete; entry and completed possession remain distinct.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 Resident foreigners join the men, women, and children who hear and learn the law (12). Life in the promised land depends on transmitting its obligations, not on treating settlement as the end of instruction (13).
@@ -845,6 +852,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

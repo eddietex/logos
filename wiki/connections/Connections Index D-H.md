@@ -118,6 +118,7 @@ Connection pages filed under D–H, ignoring a leading *A*, *An*, or *The*. Part
 | [[From Elihu's Storm to the Whirlwind - Job 36.27-37.24 and 38.1]] | literary-parallel | Job 36:27–37:24 · Job 38:1–3 · Job 38:22–38 · Job 40:6, 9 · Job 9:17 · Job 28:26 |
 | [[From Evening to Morning - The Lamp in Exodus 27 and Leviticus 24]] | parallel | Exodus 27:20–21 · Leviticus 24:1–4 · Exodus 25:31–40 · Exodus 26:35 · Exodus 30:7–8 · [[The Lamps and the Bread Before Yahweh]] (Leviticus 24:1–9 now ingested) · [[The Service of Kohath, Gershon, and Merari]] · [[The Lamps and the Levites Cleansed]] |
 | [[From Healing Sign to Nehushtan - Numbers 21 and 2 Kings 18]] | parallel | Numbers 21:4–9 and 2 Kings 18:4 |
+| [[From Manna to the Produce of Canaan]] | fulfillment | [[Manna and Quail]] (Exodus 16:35) · [[Remember the Wilderness and the Giver of Wealth]] (Deuteronomy 8) · [[Passover at Gilgal and the End of the Manna]] (Joshua 5:10–12) |
 | [[From Meribah to Beer - Water and the Gathered People]] | thematic-parallel | [[The Journey to Moab]] · [[The Waters of Meribah]] |
 | [[From the Broken Yoke to Egypt Again - Leviticus 26 and Deuteronomy 28]] | parallel | [[Blessings for Obedience (Leviticus)]] · [[Covenant Warnings and Remembered Promises]] · [[The Law for the King]] · [[Curses for Disobedience]] — liberation reversed; covenant preservation retained. |
 | [[From the Filled Tent to the Speaking Tent - Exodus 40 and Leviticus 1]] | narrative-continuation | [[The Tabernacle Raised and the Glory]] · [[The Burnt Offering]] · [[The Ordination of the Priests]] |

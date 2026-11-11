@@ -251,6 +251,13 @@ or the blood ratification of Exodus 24. See [[Israel at Mount Sinai]].
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+The renewed sign in 5:1–9 is followed by Passover and eating in the promised land (10–12).
+This is continuity of covenant life, not a newly narrated covenant ceremony or new terms.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 The written law is entrusted to those who bear the ark of Yahweh’s covenant and to the elders (9). Covenant continuity includes the whole listening community and children who do not yet know (12–13), not only the preservation of a document.
@@ -605,6 +612,7 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Passover and the end of manna — Joshua 5:10–12
+
+The plains of Jericho locate the Passover at Gilgal (10). Israel eats the land’s produce
+before the city’s capture; this is not a celebration inside a conquered Jericho.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 The eastern contingent reaches its plains ready for battle (13), and Gilgal is on its east border
@@ -83,6 +90,7 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

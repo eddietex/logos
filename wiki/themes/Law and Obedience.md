@@ -435,6 +435,13 @@ later command has already been performed. See [[Israel at Mount Sinai]] and
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+Keeping Passover at evening on the fourteenth day (10) follows the appointed timing
+recorded in Numbers 9:3. Joshua narrates observance without a fresh command in this unit.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 Writing, custody, reading, hearing, learning, fearing, and doing belong together (9–13). Access to the law is communal, and the command requires actual obedience rather than hearing alone. The exact extent of “this law” remains unspecified.
@@ -1386,6 +1393,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

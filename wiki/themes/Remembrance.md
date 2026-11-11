@@ -245,6 +245,13 @@ The one thing God undertakes to forget is the only thing anyone would want him t
 
 ## Development across Scripture
 
+### Passover and the end of manna — Joshua 5:10–12
+
+The Passover continues in the new land (10). Its memorial meaning comes from Exodus 12;
+Joshua reports the observance without repeating the institution or its explanatory speeches.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Reading to all Israel — Deuteronomy 31:9–13
 
 Recurring public hearing gives children who have not known a way to learn (13). This complements household teaching in Deuteronomy 6:6–9; transmission is scheduled for the community as well as practiced at home.
@@ -695,6 +702,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; *Remember the word which Moses … commanded you* (13).

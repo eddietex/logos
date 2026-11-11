@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Passover and the end of manna — Joshua 5:10–12
+
+Canaan is explicitly named as the land whose fruit Israel eats that year (12). Entry now
+means food from the land, though its conquest and distribution remain ahead.
+
+See [[Passover at Gilgal and the End of the Manna]]. Source: stored WEB Joshua 5:10–12; comparisons as cited.
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The promised land is described as flowing with milk and honey (6). Canaan is the contextual land, while verse 1 explicitly names Canaanite kings by the sea; they hear about the crossing and lose courage.
@@ -451,6 +458,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The land shown to Moses (1–4).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

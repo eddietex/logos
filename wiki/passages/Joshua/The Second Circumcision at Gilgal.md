@@ -95,8 +95,8 @@ definitions. The reference to rolling away explains the name within the narrativ
 independently verified Hebrew etymology is asserted here.
 
 **After crossing, before Passover.** Joshua 4:19 already locates the camp west of the Jordan.
-The rite is not before geographic entry into the land. The next planned pericope narrates
-Passover and the end of manna (5:10–12); it is not ingested in this pass. Verse 1 bridges the
+The rite is not before geographic entry into the land. The following pericope,
+[[Passover at Gilgal and the End of the Manna]] (5:10–12), narrates the feast and change of food. Verse 1 bridges the
 crossing and the present pause; the planned 5:1–9 boundary is retained.
 
 **Correction to earlier synthesis.** The former wording in [[Circumcision]] and
