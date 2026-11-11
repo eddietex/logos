@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+The treatment of him and his city supplies the comparison for Ai in the news reaching Jerusalem (1).
+This recalls a prior defeat, not another appearance alive.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The fall of Jericho — Joshua 6:1–27
 
 Yahweh includes Jericho’s king and mighty men in the announced delivery of the city (2). The account reports the city’s destruction (21) but does not give a separate scene of the king’s death or name him.
@@ -24,6 +32,8 @@ Source: stored WEB Joshua 2:1–24.
 - The pursuit fails after Rahab’s misleading report (4–7, 22).
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.

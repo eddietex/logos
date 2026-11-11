@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+Its king Hoham joins the coalition against Gibeon (3–5). The city itself is not captured in this
+unit; its attack is narrated later at Joshua 10:36–37.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 The hill town Abram moves to at the end of Genesis 13 and never really leaves — the patriarchs'
 address, their graveyard, and later David's first capital.
 
@@ -50,6 +58,8 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 (Joshua 20:7) and a Levitical city (21:11–13).
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 
 - [[The Rescue of Lot and Melchizedek]] — Genesis 14:13; where the news of Lot's capture reaches him,
   and where the march north begins

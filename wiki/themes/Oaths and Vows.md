@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+The life-preserving oath of Joshua 9:15–20 has a military consequence: Gibeon appeals for rescue and
+Joshua comes (6–9). No new oath is sworn here; the connection is the practical effect of the earlier
+undertaking.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The princes regard their oath by Yahweh as binding after discovering the fraud (18–20). They fear
@@ -473,6 +482,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Fall of Jericho]] — Joshua 6:1–27.

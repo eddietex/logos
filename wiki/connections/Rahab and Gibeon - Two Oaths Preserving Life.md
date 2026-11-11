@@ -6,6 +6,7 @@ tags: [connection]
 # Rahab and Gibeon - Two Oaths Preserving Life
 
 ## Passages involved
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[Rahab and the Spies]]
 - [[The Fall of Jericho]]
 - [[The Gibeonite Deception]]
@@ -21,6 +22,13 @@ The differences matter. Rahab deceives Jericho’s agents to protect Israel’s 
 Gibeon deceives Israel about its own origin (9:6–13). Rahab’s household is brought out and she lives
 in Israel (6:25); the Gibeonites receive a curse of enduring labor (9:23). Neither passage licenses
 a general claim that deception itself wins divine approval.
+
+### Defense after the oath
+
+Joshua 10:1–15 carries preservation into military rescue. Gibeon is attacked for making peace with
+Israel (4); its plea brings Joshua’s army and Yahweh’s promise of victory (6–8). Divine help in the
+rescue does not expressly repeal Deuteronomy’s prohibition or retroactively approve the deception.
+Source: stored WEB Joshua 10:1–15.
 
 ## Significance
 

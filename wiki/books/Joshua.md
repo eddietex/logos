@@ -80,6 +80,10 @@ and curse, including women, little ones, and foreigners.
 the law. A treaty obtained by deception conflicts with the prohibition of covenants with the land’s
 peoples; the sworn protection nevertheless preserves Gibeon’s communities under imposed service.
 
+[[The Sun Stands Still at Gibeon]] (10:1–15) turns Gibeon’s treaty into a military commitment.
+Joshua rescues the threatened city; hail and the delayed sunset accompany Yahweh’s promised victory.
+The return notice at 10:15 stands beside the resumed action at Makkedah and the return at 10:43.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -96,7 +100,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **13 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **14 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -111,7 +115,7 @@ Plan drawn 2026-11-10 from the stored WEB. **13 / 42 pericopes ingested.**
 - [x] [[The Capture of Ai]] — Joshua 8:1–29
 - [x] [[The Law Read at Mount Ebal]] — Joshua 8:30–35
 - [x] [[The Gibeonite Deception]] — Joshua 9:1–27
-- [ ] The Sun Stands Still at Gibeon — Joshua 10:1–15
+- [x] [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15
 - [ ] The Five Kings in the Cave at Makkedah — Joshua 10:16–27
 - [ ] The Southern Cities Taken — Joshua 10:28–43
 - [ ] The Northern Kings at the Waters of Merom — Joshua 11:1–15
@@ -151,6 +155,7 @@ Plan drawn 2026-11-10 from the stored WEB. **13 / 42 pericopes ingested.**
 - [[Slavery and Servitude]]
 
 ## Key people
+- [[Adoni-Zedek]], [[Hoham]], [[Piram]], [[Japhia]], and [[Debir (person)]] — the five allied kings (10:3–5).
 - [[Rahab]]
 - [[The Two Spies Sent by Joshua]]
 - [[King of Jericho (of Joshua's time)]]
@@ -160,6 +165,9 @@ Plan drawn 2026-11-10 from the stored WEB. **13 / 42 pericopes ingested.**
 - [[Moses]]
 
 ## Key places
+- [[Gibeon]], [[Gilgal]], and [[The Valley of Aijalon]] — rescue and the public address (10:6–15).
+- [[Jerusalem]], [[Hebron]], [[Jarmuth]], [[Lachish]], and [[Eglon]] — coalition cities (10:3–5).
+- [[Beth Horon]], [[Azekah]], and [[Makkedah]] — pursuit (10:10–11).
 - [[Jericho]]
 - [[Ai]]
 - [[Bethel]]

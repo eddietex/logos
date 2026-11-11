@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+Joshua receives the plea at the camp and marches from it all night (6–9). Verse 15 reports a return
+here, while 10:16–27 resumes action at Makkedah and 10:43 repeats the return. A summary anticipating
+the campaign’s end is a possible reading of verse 15, not an explicit explanation supplied by the
+text.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Joshua receives the disguised embassy at the camp at Gilgal (6). This is the setting of
@@ -50,6 +60,8 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

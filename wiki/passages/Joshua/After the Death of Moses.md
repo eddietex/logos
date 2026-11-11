@@ -66,6 +66,7 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 - [[Slavery and Servitude]]
 
 ## Cross-references
+- [[Yahweh Fights for Israel - The Promise and the Day at Gibeon]]
 
 - [[Crossing the Jordan]] — Joshua 3:1–17; the crossing confirms the successor and the ark leads the people.
 

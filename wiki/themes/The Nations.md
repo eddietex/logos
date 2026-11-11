@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+Five Amorite kings attack Gibeon because of its peace with Israel (3–5). Gibeon’s inhabitants,
+identified as Hivites in Joshua 9:7, now receive Israel’s military protection. The land’s peoples do
+not all occupy the same relation to Israel.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites form the opposition (1–2).
@@ -464,6 +473,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

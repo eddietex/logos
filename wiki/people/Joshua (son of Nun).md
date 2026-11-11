@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+He answers Gibeon’s plea by marching all night with the whole army (6–9). His public address to sun
+and moon is framed as speech to Yahweh (12); the narrator attributes the result to Yahweh listening
+(14), not to Joshua’s independent control of the heavens.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Joshua makes peace and a life-preserving covenant without the inquiry whose omission the narrator
@@ -278,6 +287,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

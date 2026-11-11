@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+Joshua speaks to Yahweh while publicly commanding sun and moon to stop (12). The narrative
+interprets the result as Yahweh listening to a human voice (14). This exceptional battle day is not
+a general promise that every request controls nature.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The men examine provisions but fail to ask counsel from Yahweh (14). This is neglected inquiry
@@ -357,6 +366,8 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:5–15.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

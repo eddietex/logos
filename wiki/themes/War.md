@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+The attack on Gibeon is provoked by its peace with Israel (4). Joshua’s forced night march and
+pursuit coexist with the decisive divine action: hail kills more than swords (9–11), and Yahweh
+fights for Israel (14).
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Most kings unite to fight (1–2); Gibeon seeks survival through a deceptive treaty. Deuteronomy
@@ -580,6 +589,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

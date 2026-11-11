@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+Yahweh promises victory (8), confuses the coalition, and sends hail that kills more than Israel’s
+swords (10–11). He listens to Joshua, and the narrator explains the exceptional day by his fighting
+for Israel (12–14). His support in this battle does not erase the failure to consult him in Joshua
+9:14.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Yahweh’s fame motivates the embassy (9–10), but Israel does not ask his counsel (14). The princes
@@ -3877,6 +3887,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

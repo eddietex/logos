@@ -397,6 +397,7 @@ has stretched out the rod; now God's word is said to come by that hand.**
 - [[Clean and Unclean]] — *šəḥîn*, the boil of Leviticus 13
 
 ## Cross-references
+- [[Hail from Heaven - Egypt and Gibeon]]
 
 - [[The King's Heart]] — Proverbs 21:1, 29; see [[The King's Heart in Yahweh's Hand - Proverbs 21.1, Exodus, and Ezra 6.22]].
 

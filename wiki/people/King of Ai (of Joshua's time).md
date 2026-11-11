@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+His defeat is recalled in Adoni-Zedek’s intelligence report (1). He is not a participant in the new
+coalition.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The capture of Ai — Joshua 8:1–29
 
 The unnamed ruler of [[Ai]] in the conquest narrative. Qualified by the period, as the wiki does for
@@ -40,6 +48,8 @@ named on the passage page.
 - Hanged until evening, taken down at sundown, buried under a heap of stones at the gate (29).
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 

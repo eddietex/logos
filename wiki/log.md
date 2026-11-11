@@ -24821,3 +24821,28 @@ no new source-language wording claims or quotations from unstored books were int
 Raw files and workflow instructions were unchanged. Counts by frontmatter: 407 passages,
 263 people, 232 places, 87 themes, 811 connections. Link checks clean, with 56 expected
 not-yet-started book targets. No unresolved link or operational issue.
+
+## [2026-11-11] ingest | Joshua 10.1-15 — The Sun Stands Still at Gibeon
+
+Ingested exactly one pericope in unattended mode with Codex. Kept the planned boundary;
+Joshua now stands at 14 / 42. Created 15 pages: one passage, five named kings, seven places,
+and two connections (hail in Egypt and at Gibeon; Yahweh fighting for Israel).
+Revised 26 existing content pages: Joshua, four prior passages, four people, six places,
+nine themes, and two connections. Updated 11 indexes/dashboards and appended this log
+(38 revised files total).
+
+The treaty's conflict with Deuteronomy remains explicit alongside divine help in the rescue.
+The return in 10:15 is retained beside resumed action at Makkedah and the repeated return in
+10:43; an anticipatory summary is offered as a possibility, not a settled reconstruction.
+The sun's delayed setting is reported in the WEB's terms without inventing a physical mechanism
+or a source-language argument. The book of Jashar is a cited source within the passage, not an
+independently consulted document. The five kings receive individual pages; unnamed collective
+actors do not receive invented biographies. Debir (person) is qualified now in anticipation of
+the city Debir at 10:38; that future place page must use Debir (city). No title collision arose.
+
+All new verse quotations were copied from stored WEB Joshua 10. The comparisons use stored
+WEB Exodus 9, Deuteronomy 20, and Joshua 1 and 9; no quotations from unstored books or new
+Hebrew/Greek assertions were introduced. Existing raw texts and workflow instructions unchanged.
+Counts by frontmatter: 408 passages, 268 people, 239 places, 87 themes, 813 connections.
+Link checks clean: wrapped links and dangling targets pass; 56 unstarted-book targets are the
+expected baseline. No unresolved operational or link issue; interpretive tensions remain noted.

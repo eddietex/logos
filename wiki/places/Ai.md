@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+Its destruction and its king’s fate are part of the news alarming Adoni-Zedek (1). Gibeon is
+described as greater than Ai (2), explaining the strategic significance of its peace with Israel.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The city’s defeat joins Jericho’s as the immediate news prompting Gibeon’s ruse (3). Israel’s
@@ -78,6 +86,8 @@ So the two places Abram stops between in Genesis 12 are, in Joshua, the site of 
 disaster and the site of its covenant renewal — and the order runs the same way both times.
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

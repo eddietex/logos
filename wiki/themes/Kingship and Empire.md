@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+Adoni-Zedek draws four other city kings into a coalition against Gibeon (3–5). Gibeon is compared
+with royal cities, but no king of Gibeon is named (2). The defeated rulers’ capture and execution
+belong to the next unit.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Verse 5 speaks of a king in Jeshurun when the tribes gather. The English pronoun alone does not
@@ -426,6 +435,8 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

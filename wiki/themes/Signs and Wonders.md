@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+The WEB reports the sun and moon standing still and the sun delaying its setting about a whole day
+(12–13). The narrator calls the day unparalleled because Yahweh listened and fought (14). No
+physical mechanism is explained.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The twelve stones — Joshua 4:1–24
 
 The stones become a sign of the stopped river (6–7). Returning water completes the event (18); its
@@ -159,6 +168,8 @@ signs, and with wonders."* The list of 4:34, now put in the mouth of every house
 first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 4:34; 26:8.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

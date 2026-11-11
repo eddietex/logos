@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+Verse 13 places the delayed sunset in the context of the nation avenging itself on its enemies. This
+is a narrated wartime victory under divine aid, not an unrestricted permission for personal revenge.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Recompense belongs to Yahweh (35), who avenges servants’ blood (43). Divine vengeance is not permission for private revenge; Romans 12:19 uses the declaration to forbid believers’ revenge. That verse was checked in WEB at bible-api.com on 2026-11-10.
@@ -199,6 +207,8 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+The report compares Ai’s fate with Joshua’s treatment of Jericho and its king (1). The battle now
+takes place around Gibeon, not at Jericho.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 News of Joshua’s action against Jericho and Ai prompts Gibeon’s ruse (3). The envoys mention older
@@ -130,6 +138,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

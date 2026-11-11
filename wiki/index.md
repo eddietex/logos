@@ -4,8 +4,8 @@ tags: [index]
 ---
 # Wiki Index
 
-Progress: 10 / 66 books started (9 complete) · 407 passages · 263 people · 232 places · 87 themes ·
-811 connections
+Progress: 10 / 66 books started (9 complete) · 408 passages · 263 people · 239 places · 87 themes ·
+813 connections
 
 ## Categories
 

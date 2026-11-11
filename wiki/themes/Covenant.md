@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+The peace with Gibeon becomes the reason for the Amorite attack (1, 4). Joshua now defends the
+people he promised to preserve. Yahweh’s promised help (8) supports the rescue without expressly
+declaring the treaty’s deceptive origin lawful; the tension with Deuteronomy 7:1–2 remains.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Joshua makes a covenant to let the envoys live (15), only afterward discovering that they are local
@@ -636,6 +645,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

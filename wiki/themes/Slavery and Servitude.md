@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### At Gibeon — Joshua 10:1–15
+
+Gibeon’s appeal identifies its people as Joshua’s servants (6), continuing the dependent status
+imposed in Joshua 9:23–27. That dependence now accompanies a plea for protection; the passage does
+not announce their release from service.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 The envoys initially call themselves servants (8–11), but after discovery Joshua imposes enduring
@@ -423,6 +432,8 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; Moses *the servant of Yahweh*; Joshua *Moses' servant* (1).
 

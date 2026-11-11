@@ -103,3 +103,6 @@ The final notice associates their work with the place Yahweh would choose (27), 
 Jerusalem or dating the narrator’s present. No exact Hebrew claim, later-book quotation, modern site
 identification, or identification with later temple personnel is needed for this ingest. All quoted
 verses above are copied from stored WEB Joshua 9.
+
+The consequence appears in [[The Sun Stands Still at Gibeon]] (Joshua 10:1–15): the treaty
+partners call for defense, and Joshua comes with Yahweh’s assurance of victory.

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### At Gibeon — Joshua 10:1–15
+
+Adoni-Zedek rules here and organizes the five-king attack on Gibeon (1–5). The unit reports his
+army’s campaign, not the capture of Jerusalem.
+
+See [[The Sun Stands Still at Gibeon]]. Source: stored WEB Joshua 10:1–15.
+
+
 The city named in the heading of [[Ecclesiastes]] as the location of the Preacher's kingship.
 In [[Vanity of Vanities]], the city gives the speaker a royal setting; no journey, building, temple
 ceremony, or event in the city's political history is narrated. In [[The Burden of Wisdom]] the
@@ -51,6 +59,8 @@ In [[Come into the Fields, My Beloved]], Jerusalem is again named only in the ad
 identified. Source: stored WEB Song 7:10–8:4.
 
 ## Appears in
+
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 
 - [[Vanity of Vanities]] — Ecclesiastes 1:1; city of the kingship named in the heading.
 - [[The Burden of Wisdom]] — Ecclesiastes 1:12, 16; seat of the kingship and measure of the Preacher's wisdom.

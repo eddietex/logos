@@ -6,6 +6,7 @@ tags: [connection]
 # No Covenant Yet a Binding Oath - Deuteronomy and Gibeon
 
 ## Passages involved
+- [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[Laws for Going to War]]
 - [[The Gibeonite Deception]]
 - Source comparisons: stored WEB Joshua 2, 6, 9; Deuteronomy 7:1–2; 20:10–18.
@@ -21,6 +22,13 @@ Once their identity is known, the princes insist that the oath by Yahweh prevent
 that its violation risks wrath (18–20). Joshua both rescues them and curses them to continuing labor
 (23–27). The treaty conflicts with the earlier prohibition; survival under oath does not erase that
 conflict. No divine ruling here explains how to rank the two obligations.
+
+### Defense after the oath
+
+Joshua 10:1–15 carries preservation into military rescue. Gibeon is attacked for making peace with
+Israel (4); its plea brings Joshua’s army and Yahweh’s promise of victory (6–8). Divine help in the
+rescue does not expressly repeal Deuteronomy’s prohibition or retroactively approve the deception.
+Source: stored WEB Joshua 10:1–15.
 
 ## Significance
 
