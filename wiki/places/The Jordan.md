@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The river locates Joseph’s allotment at Jericho and terminates the descending boundary in verse 7. No crossing is narrated.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The river’s end at the Salt Sea locates the north end of Judah’s east border and the start of its northern boundary (5).
@@ -289,6 +295,7 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.

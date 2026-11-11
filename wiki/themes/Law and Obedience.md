@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The non-removal and forced labor at Gezer (10) stand in tension with Deuteronomy 20:15–18, which distinguishes distant cities from the inherited cities of the named peoples, including Canaanites. The narrative reports the result without presenting forced labor as fulfillment of that command.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Caleb’s portion is assigned according to Yahweh’s command to Joshua (13). This authorizes the grant; the passage does not say that Caleb’s marriage offer or Achsah’s request was separately commanded.
@@ -1477,6 +1483,7 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

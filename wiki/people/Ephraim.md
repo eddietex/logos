@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+His descendants receive an inheritance by families, including cities within Manasseh’s inheritance (5–9). The closing notice records Canaanites remaining at Gezer under forced labor (10); an allotted share is not complete removal of its inhabitants.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### The western division — Joshua 14:1–5
 
 The descendants form a tribe distinct from Manasseh (4). The count concerns territorial shares, not a ranking of the two brothers; their individual western boundaries are not supplied in this introduction.
@@ -158,6 +164,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:22 — Ephraim's camp sets out third. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

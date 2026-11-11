@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+Family-based boundaries and Ephraimite cities within Manasseh’s territory distinguish allotment from a simple block of exclusive occupation (5–9). Gezer’s remaining Canaanites further distinguish inheritance from complete possession (10).
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### Judah’s cities — Joshua 15:20–63
 
 The inheritance is named again, now as towns *with their villages*, counted by district (20–62). Allotment and possession remain distinct: Ekron, Ashdod, and Gaza are assigned (45–47) though 13:2–3 counted them as remaining, and the list closes on Jerusalem's Jebusites living *to this day* among Judah (63).
@@ -942,6 +948,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

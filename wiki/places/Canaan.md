@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The Canaanites at Gezer remain within Ephraim and perform forced labor (10). This preserves a population within allotted territory; it does not say all Canaanites share this exact status.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### The western division — Joshua 14:1–5
 
 The western inheritance is located in the land of Canaan (1), distinguished from Moses’ grants beyond the Jordan (3). This is an allotment framework, not a new claim that all inhabitants have been removed.
@@ -471,6 +477,7 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

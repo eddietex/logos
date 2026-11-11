@@ -21,6 +21,7 @@ Source: stored WEB Numbers 32.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
 
 ## Related places
+- The western boundary names are collected separately at [[Ataroth (Ephraim)]], Joshua 16:2, 7; they are not identified with this Gadite town.
 - [[Atrothshophan]] — a second Ataroth, built by Gad in the next verse (32:35).
 - [[Dibon]] and [[Aroer]] — built by Gad with it (32:34).
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The sea terminates the westward lines in verses 3 and 8. Identification as the western Great Sea follows the boundary’s direction and broader setting; these verses call it only the sea.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### Judah’s cities — Joshua 15:20–63
 
 The Philistine-plain section of Judah's cities ends at *the great sea with its coastline* (47), echoing the west border of 15:12.
@@ -57,6 +63,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

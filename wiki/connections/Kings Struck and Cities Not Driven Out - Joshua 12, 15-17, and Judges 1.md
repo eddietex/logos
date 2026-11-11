@@ -6,15 +6,22 @@ tags: [connection]
 # Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1
 
 ## Passages involved
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Kings Struck Down]] — Joshua 12:1–24; thirty-one western kings counted.
 - [[The Southern Cities Taken]] — Joshua 10:28–43; Horam of Gezer struck (10:33).
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27; the king of Jerusalem killed.
 - [[The Cities of Judah]] — Joshua 15:20–63; Jerusalem's Jebusites not driven out (63).
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33; Geshur and Maacath remain (13).
-- Joshua 16:10; 17:11–13 — read in stored WEB, not yet ingested.
+- Joshua 17:11–13 — read in stored WEB, not yet ingested.
 - Judges 1:21, 22–25, 27, 29 — WEB checked at bible-api.com, not yet ingested.
 
 ## Analysis
+
+### Ephraim’s allotment
+
+Joshua 16:1–10 is now ingested. Gezer appears both as a boundary landmark (3) and as the place where Canaanites remain under forced labor (10). The latter is a continuing social arrangement, not a new battle narrative. The tension with the removal command is developed in [[Forced Labor at Gezer and the Command for the Inherited Cities]].
+
+Source: stored WEB Joshua 16:1–10.
 
 Joshua 12 counts kings, not cities held. Set beside the allotment chapters, five of the
 royal cities it lists — and both of the east-bank border peoples it names — reappear as places

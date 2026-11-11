@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The route rises from Jericho to Bethel and then goes from Bethel to Luz (1–2). Genesis 28:19 identifies Luz as the city’s former name (stored WEB), whereas this boundary wording places the names in sequence. This geographical tension is retained; city versus sanctuary or distinct districts are possible explanations, not explanations supplied by the verses.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### The capture of Ai — Joshua 8:1–29
 
 Bethel fixes the ambush's position — *between Bethel and Ai, on the west side of Ai* (9, 12) — and
@@ -72,6 +78,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+Named with Ephraim among Joseph’s children taking their inheritance (4). Ephraim also receives cities and villages within Manasseh’s inheritance (9); this chapter does not yet give Manasseh’s own full boundary.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### The western division — Joshua 14:1–5
 
 The descendants are one of Joseph’s two tribes (4). With the eastern half already allotted in Joshua 13:29–31, the western division is for nine tribes and a half (2–3). The patriarch is not the recipient in person.
@@ -227,6 +233,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

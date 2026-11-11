@@ -142,6 +142,10 @@ Ashdod, and Gaza are assigned though still remaining, the southern total of *twe
 against thirty-six names, and the list ends on the Jebusites of Jerusalem, whom Judah
 *couldn’t drive out*.
 
+[[The Inheritance of Ephraim]] (16:1–10) defines Ephraim’s family inheritance within Joseph’s lot,
+including cities inside Manasseh’s share, then records Gezer’s remaining Canaanites under
+forced labor. Allotment and complete removal remain distinct.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -158,7 +162,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **26 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **27 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -186,7 +190,7 @@ Plan drawn 2026-11-10 from the stored WEB. **26 / 42 pericopes ingested.**
 - [x] [[The Borders of Judah]] — Joshua 15:1–12
 - [x] [[Achsah Asks for Springs]] — Joshua 15:13–19
 - [x] [[The Cities of Judah]] — Joshua 15:20–63
-- [ ] The Inheritance of Ephraim — Joshua 16:1–10
+- [x] [[The Inheritance of Ephraim]] — Joshua 16:1–10
 - [ ] The Inheritance of Manasseh — Joshua 17:1–13
 - [ ] The Children of Joseph Ask for More — Joshua 17:14–18
 - [ ] The Land Surveyed at Shiloh — Joshua 18:1–10

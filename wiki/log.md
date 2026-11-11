@@ -25244,3 +25244,31 @@ Validation: scripts/link-check.sh passed (56 expected not-yet-started book targe
 dangling links). Every place page has one places-index row. The places index now holds 403 rows,
 well past the 150-row split trigger; splitting it, and the pre-existing fused Gilgal and Canaan rows,
 remain outside this one-pericope pass.
+
+## [2026-11-11] ingest | Joshua 16.1-10 — The Inheritance of Ephraim
+
+Ingested [[The Inheritance of Ephraim]] unattended from the stored WEB, retaining the planned
+Joshua 16:1–10 boundary. Joshua is now 27 / 42 pericopes ingested.
+
+Created 12 pages: the passage; eight places (Ataroth of Ephraim, Ataroth Addar, Michmethath,
+Taanath Shiloh, Janoah, Naarah, Tappuah of Ephraim, and the brook of Kanah); two collective
+people pages (Archites and Japhletites); and
+[[Forced Labor at Gezer and the Command for the Inherited Cities]].
+Revised 29 existing pages, including the book, three people, nine places, three themes,
+three connections, nine index/dashboard pages, and this log.
+
+The full ten verses are copied from raw. New comparison claims use stored WEB Genesis 28:19
+and Deuteronomy 20:10–18; no new quotations from unstored books or source-language assertions
+were introduced. Existing raw files and workflow instructions were unchanged.
+
+Judgments: Luz remains discussed on Bethel’s page, with the former-name statement and the
+boundary’s sequence explicitly held in tension. The Ataroth mentions are collected without
+equating them with each other, Ataroth Addar, or Gad’s eastern town. Ephraim’s Tappuah remains
+separate from the lowland town and the royal-city page, whose identification stays uncertain.
+The two boundary peoples receive collective pages rather than invented individual ancestors.
+Gezer’s continued forced labor is explicitly distinguished from both complete removal and
+freedom; its tension with Deuteronomy’s command is recorded in the passage, theme, and connection.
+
+Updated the affected category rows and type-based totals: 421 passages, 281 people, 411 places,
+87 themes, and 821 connections. Link checks passed with no wrapped or dangling links;
+56 not-yet-started book pages remain the expected baseline. No operational blocker remains.

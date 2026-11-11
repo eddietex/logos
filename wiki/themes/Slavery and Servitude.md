@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+Gezer’s surviving Canaanites become servants doing forced labor (10). Their continued residence is accompanied by coercion, not an announcement of equal status or freedom. Unlike Joshua 9, this passage supplies no protective oath.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### At Gibeon — Joshua 10:1–15
 
 Gibeon’s appeal identifies its people as Joshua’s servants (6), continuing the dependent status
@@ -432,6 +438,7 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

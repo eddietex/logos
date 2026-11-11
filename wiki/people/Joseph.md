@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The lot is introduced for his children, then names Manasseh and Ephraim as the inheritors (1–4). This concerns descendant tribes, not the patriarch’s personal occupancy.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### The western division — Joshua 14:1–5
 
 His descendants constitute two tribes, Manasseh and Ephraim (4). This gives territorial expression to the sons’ standing in Genesis 48:5–6; Joseph himself is not present.
@@ -470,6 +476,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Division of the Land Begins]] — Joshua 14:1–5.
 

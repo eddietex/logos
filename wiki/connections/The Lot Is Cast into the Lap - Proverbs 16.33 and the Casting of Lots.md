@@ -6,6 +6,7 @@ tags: [connection]
 # The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots
 
 ## Passages involved
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
@@ -35,6 +36,12 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### Ephraim’s allotment
+
+Joshua 16:1 expressly introduces the lot for Joseph’s children. The resulting border account and family inheritance (5, 8) describe its outcome, without identifying the drawing mechanism. Verse 10 prevents the lot from being read as a statement that every inhabitant has been removed.
+
+Source: stored WEB Joshua 16:1–10.
 
 ### Judah’s boundary circuit
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+The Josephite boundary reaches Gezer (3). Ephraim does not drive out its Canaanites, who remain under forced labor (10). Horam’s defeat in Joshua 10:33 did not itself establish removal of Gezer’s population.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 Horam’s royal city (33). Its king and relief force are defeated while helping Lachish; this is not an explicit report of Gezer’s capture. Joshua 16:10 later records Canaanites continuing to live there.
 
 Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is assigned.
@@ -14,6 +20,7 @@ Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is ass
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:12) after Horam's defeat (10:33), but the Canaanites of Gezer are not driven out (16:10; Judges 1:29, WEB checked). See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
 - [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.
 

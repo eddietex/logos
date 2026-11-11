@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Ephraim’s inheritance — Joshua 16:1–10
+
+Its waters locate the eastern start of Joseph’s lot (1); Ephraim’s boundary reaches Jericho before ending at the Jordan (7). Boundary use does not narrate rebuilding the destroyed city.
+
+See [[The Inheritance of Ephraim]]. Source: stored WEB Joshua 16:1–10.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Locates the plains east of the Jordan where Moses distributed the inheritances (32); the distribution is not placed inside Jericho.
@@ -152,6 +158,7 @@ Israel does not enter or conquer Jericho in this unit.
 **Joshua 12:1–24 — the list of kings.** Its king heads the western list, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
