@@ -25383,3 +25383,30 @@ Validation: scripts/link-check.sh exits 0 with 56 expected unstarted book target
 git diff --check clean. Exact verse transcription, unique basenames, and new category rows
 verified. The pre-existing oversized places index remains unsplit in this pericope pass.
 No operational blocker or unresolved link remains; the textual tensions above remain open.
+
+## [2026-11-11] ingest | Joshua 19.1-23 — The Lots of Simeon, Zebulun, and Issachar
+
+Ingested the planned unit without changing its boundary: Simeon’s towns within Judah’s
+surplus, Zebulun’s boundary and twelve-city total, and Issachar’s sixteen cities ending at
+the Jordan. The full WEB quotation was copied and checked against stored Joshua 19:1–23.
+Comparisons use stored Joshua 15 and 18 and Genesis 49; no unstored-book quotation or exact
+Hebrew/Greek assertion was introduced.
+
+Created one passage and 39 brief place pages; revised 14 existing places, four tribal
+ancestor pages, three themes, and four connections. Japhia’s new city page required renaming
+the king’s page to Japhia (person), with inbound links repaired. Northern names are kept
+distinct from southern namesakes; Baalath Beer and its Ramah of the South designation
+share one page. Similar spellings are not silently equated. The remaining minor named towns
+receive pages because each belongs to the explicit allotment register.
+
+Retained the tension between Zebulun’s maritime saying and this boundary register;
+qualified Simeon’s supposed disappearance and the earlier statement that Judah’s allotment
+was not reopened. Simeon still has a tribal inheritance, and Judah’s retained borders can
+contain redistributed towns. The WEB’s parenthetical Sheba gives thirteen towns, while
+Zebulun’s twelve-city total is not forced into a speculative counting scheme.
+
+Updated Joshua to 32 / 42, all affected category rows, and frontmatter-derived totals:
+426 passages, 283 people, 477 places, 87 themes, 825 connections. Link checks passed with
+56 expected not-yet-started book targets. No unresolved link or operational blocker.
+An additional index audit found a pre-existing malformed Gilgal row in Places; it remains
+outside this pericope’s changes.
