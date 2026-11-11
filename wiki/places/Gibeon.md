@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+Heads Benjamin’s second city group (25–28). The allocation does not revoke the protection of its inhabitants in Joshua 9.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The whole land taken — Joshua 11:16–23
 
 Gibeon is the single exception in the summary: *There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of Gibeon* (19). The peace was obtained by deception (9:3–15), and it held.
@@ -34,6 +40,7 @@ Its envoys are identified as Hivites (7); it is one of four cities protected by 
 Source: stored WEB Joshua 9:1–27.
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

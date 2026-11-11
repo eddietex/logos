@@ -108,3 +108,8 @@ date of arrival, or identification with Taanath Shiloh is supplied by these vers
 use stored WEB Joshua 13–14, 17, Numbers 18:1–7 and 26:52–56, and Exodus 40:17–19.
 No new quotation from an unstored book or source-language assertion is introduced.
 The planned boundary is retained: the general survey ends at 18:10; Benjamin’s lot starts at 18:11.
+
+### Benjamin’s adjoining inheritance
+
+[[The Inheritance of Benjamin]] (Joshua 18:11–28) follows this account. The next unit records the first particular tribal lot following the survey.
+See [[Judah and Benjamin Share a Boundary - Joshua 15 and 18]]. Source: stored WEB Joshua 15–16; 18:11–28.

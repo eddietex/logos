@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+Benjamin’s lot comes up between Judah and Joseph (11), giving a concrete result of the lots cast before Yahweh in 18:10. The passage does not describe the physical mechanism or infer equal acreage.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 Joshua casts lots before Yahweh only after the men have surveyed the land by cities and recorded
@@ -464,6 +470,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

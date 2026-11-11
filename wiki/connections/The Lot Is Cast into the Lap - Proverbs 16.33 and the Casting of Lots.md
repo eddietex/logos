@@ -6,6 +6,7 @@ tags: [connection]
 # The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots
 
 ## Passages involved
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 
@@ -34,6 +35,12 @@ tags: [connection]
   yet ingested)*
 
 ## Analysis
+
+### Benjamin’s inheritance
+
+Benjamin’s lot now supplies the first named outcome after the Shiloh survey (18:11–28). Borders, cities, and families make the allocation concrete, without specifying its mechanism.
+
+Source: stored WEB Joshua 18:11–28; 15:63. See [[The Inheritance of Benjamin]].
 
 ### The survey at Shiloh — Joshua 18:1–10
 

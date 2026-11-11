@@ -6,6 +6,7 @@ tags: [connection]
 # Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1
 
 ## Passages involved
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
@@ -17,6 +18,12 @@ tags: [connection]
 - Judges 1:21, 22–25, 27, 29 — WEB checked at bible-api.com, not yet ingested.
 
 ## Analysis
+
+### Benjamin’s inheritance
+
+Benjamin’s city list now explicitly includes Jerusalem (18:28). Alongside Judah’s failure to expel the inhabitants in 15:63, this confirms the distinction between allotment and possession; no new conquest is narrated.
+
+Source: stored WEB Joshua 18:11–28; 15:63. See [[The Inheritance of Benjamin]].
 
 ### Joseph’s request for more
 

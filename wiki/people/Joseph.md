@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+His descendant tribes form the neighboring share on Benjamin’s other side from Judah (11); no action of the patriarch is narrated.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 His house retains its northern borders (5). This is the collective territory of his descendants, not
@@ -496,6 +502,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

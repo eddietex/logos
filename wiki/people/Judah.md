@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The descendant tribe borders Benjamin (11); Kiriath Jearim remains explicitly Judah’s city (14). Beth Arabah’s inclusion in both tribal lists (15:61; 18:22) remains an unresolved overlap.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The descendant tribe retains its southern borders while the remaining land is surveyed (5). The
@@ -390,6 +396,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.

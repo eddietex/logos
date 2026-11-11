@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+Inheritance is defined by family, borders, cities, and villages (11–28). The list does not establish occupation. Beth Arabah’s inclusion in both Judah’s and Benjamin’s lists (15:61; 18:22) remains an explicit unresolved overlap.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The gift of the land requires action: seven tribes have not divided their inheritance, and Joshua
@@ -970,6 +976,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

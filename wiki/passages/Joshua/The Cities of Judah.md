@@ -192,3 +192,8 @@ were read in stored WEB Joshua 10:26–41, 11:21–22, 12:10–14, 13:3, 15:1–
 19:1–9, 19:18, 19:27, 19:41, 20:7, and 21:14–16, 29; Numbers 21:1–3; Genesis 35:21. No book
 outside raw was consulted, no source-language claim is made, and no modern site is assigned
 to any town. The planned boundary is unchanged.
+
+### Benjamin’s adjoining inheritance
+
+[[The Inheritance of Benjamin]] (Joshua 18:11–28) follows this account. Beth Arabah is also listed for Benjamin; the overlap remains unresolved.
+See [[Judah and Benjamin Share a Boundary - Joshua 15 and 18]]. Source: stored WEB Joshua 15–16; 18:11–28.

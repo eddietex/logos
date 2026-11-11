@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The south border runs along the Jebusite’s south side (16); the city list explicitly identifies the Jebusite as Jerusalem (28). Its assignment to Benjamin stands beside Judah’s inability to expel its inhabitants in Joshua 15:63; allocation is not a report of occupation.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 The list ends with Jerusalem's exception: *As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day* (63). Jerusalem is not itself listed among Judah's towns; Benjamin's list includes *the Jebusite (also called Jerusalem)* (18:28). The tension with the king of Jerusalem's death (10:26) is a difference between ruler and city, discussed in [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]].
@@ -80,6 +86,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 

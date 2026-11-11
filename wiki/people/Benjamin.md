@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The descendant tribe receives a lot by families between Judah and Joseph (11), with a boundary circuit and two city groups (12–28). The patriarch is not personally present.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 The tribe is beloved and sheltered in safety (12). The wolf image of Genesis 49:27 describes a
@@ -183,6 +189,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

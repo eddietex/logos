@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The northern bay at the southern end of the Jordan terminates Benjamin’s south border (19). The river, rather than the sea, is the east border (20).
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### Judah’s borders — Joshua 15:1–12
 
 Its southern bay begins the south border; the sea itself forms the east border up to the Jordan’s end, where the north border begins (2, 5).
@@ -77,6 +83,7 @@ an image that depends entirely on the reader knowing nothing lives in it.
 **Joshua 12:1–24 — the list of kings.** *The sea of the Arabah, even the Salt Sea* bounds Sihon's Arabah on the south (12:3), as in Deuteronomy 3:17. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

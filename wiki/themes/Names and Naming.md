@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The text explicitly pairs Luz with Bethel, Kiriath Baal with Kiriath Jearim, and the Jebusite with Jerusalem (13–14, 28). It does not similarly equate Geliloth with Gilgal or Kiriath with Kiriath Jearim.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Six ancestral families and Zelophehad’s five daughters are named in the allocation (2–3). The
@@ -290,6 +296,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The northern boundary passes its north side (12), and it heads the first group of twelve cities (21–24). A city listed as inheritance does not itself imply rebuilding after Joshua 6.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### Ephraim’s inheritance — Joshua 16:1–10
 
 Its waters locate the eastern start of Joseph’s lot (1); Ephraim’s boundary reaches Jericho before ending at the Jordan (7). Boundary use does not narrate rebuilding the destroyed city.
@@ -158,6 +164,7 @@ Israel does not enter or conquer Jericho in this unit.
 **Joshua 12:1–24 — the list of kings.** Its king heads the western list, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 

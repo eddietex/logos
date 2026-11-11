@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+The south border passes the side facing the Arabah northward and descends to it (18), before passing north of Beth Hoglah (19).
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The whole land taken — Joshua 11:16–23
 
 The Arabah is one of the regions named in the summary of land Joshua took (16).
@@ -69,6 +75,7 @@ Source: stored WEB Deuteronomy 1:1–5.
 **Joshua 12:1–24 — the list of kings.** The east-bank Arabah belongs to Sihon's realm down to the Salt Sea (12:1, 3), and *the Arabah* is also one of the western regions Joshua gives the tribes (8). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 

@@ -42,7 +42,7 @@ a prince of Midian. No personal act of his is narrated here.
 ## Related people
 
 - [[Cozbi]] — his daughter.
-- [[Evi]], [[Rekem]], [[Hur (king of Midian)]], [[Reba]] — the other four kings of Midian.
+- [[Evi]], [[Rekem (person)]], [[Hur (king of Midian)]], [[Reba]] — the other four kings of Midian.
 
 ## Themes associated
 

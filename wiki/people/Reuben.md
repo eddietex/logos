@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Benjamin’s inheritance — Joshua 18:11–28
+
+Named as Bohan’s father in the boundary stone (17). This geographical notice does not narrate an action by the patriarch or fix Bohan’s generation.
+
+See [[The Inheritance of Benjamin]]. Source: stored WEB Joshua 18:11–28; comparisons as cited.
+
 ### The survey at Shiloh — Joshua 18:1–10
 
 The descendant tribe’s eastern inheritance through Moses is confirmed as already received (7),
@@ -297,6 +303,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+- [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

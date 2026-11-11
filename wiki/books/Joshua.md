@@ -158,6 +158,10 @@ does not erase the preceding account of non-removal.
 A written survey of seven portions precedes the lot; Joshua’s rebuke of delayed possession
 remains beside the narrator’s declaration that the land is subdued.
 
+[[The Inheritance of Benjamin]] (18:11–28) defines Benjamin’s share between Judah and Joseph.
+The boundary circuit and twenty-six cities include Jerusalem; Beth Arabah’s listing in both
+Judah and Benjamin remains an unresolved overlap rather than an asserted transfer.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -174,7 +178,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **30 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **31 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -206,7 +210,7 @@ Plan drawn 2026-11-10 from the stored WEB. **30 / 42 pericopes ingested.**
 - [x] [[The Inheritance of Manasseh]] — Joshua 17:1–13
 - [x] [[The Children of Joseph Ask for More]] — Joshua 17:14–18
 - [x] [[The Land Surveyed at Shiloh]] — Joshua 18:1–10
-- [ ] The Inheritance of Benjamin — Joshua 18:11–28
+- [x] [[The Inheritance of Benjamin]] — Joshua 18:11–28
 - [ ] The Lots of Simeon, Zebulun, and Issachar — Joshua 19:1–23
 - [ ] The Lots of Asher, Naphtali, and Dan — Joshua 19:24–48
 - [ ] Joshua's Own Inheritance — Joshua 19:49–51

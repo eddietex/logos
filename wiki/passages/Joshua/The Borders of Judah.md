@@ -130,3 +130,8 @@ establish the presence of the similarly named person or people. Judah denotes de
 comparison uses stored WEB Numbers 34:1–12; adjacent Joshua passages supply the narrative
 context. No quotation from an unstored book, source-language assertion, or modern site
 identification is introduced. The planned pericope boundary is unchanged.
+
+### Benjamin’s adjoining inheritance
+
+[[The Inheritance of Benjamin]] (Joshua 18:11–28) follows this account. Benjamin’s southern circuit reuses many of Judah’s northern landmarks in reverse order.
+See [[Judah and Benjamin Share a Boundary - Joshua 15 and 18]]. Source: stored WEB Joshua 15–16; 18:11–28.

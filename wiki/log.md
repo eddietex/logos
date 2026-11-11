@@ -21871,7 +21871,7 @@ spoil are purified; the plunder is halved between fighters and congregation with
 Levites; the officers' gold, given *to make atonement for our souls*, is laid up in the Tent *for a
 memorial*. Numbers is now 48 / 54; the 31:1–54 boundary and the provisional title are unchanged.
 
-Created 7 pages: the passage; four people, [[Evi]], [[Rekem]], [[Reba]], and [[Hur (king of Midian)]]
+Created 7 pages: the passage; four people, [[Evi]], [[Rekem (person)]], [[Reba]], and [[Hur (king of Midian)]]
 (qualified because two Hur pages exist); and two connections,
 [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]] and
 [[Half to the Fighters - Numbers 31 and David's Statute at Ziklag]]. Revised 41 existing pages: the book
@@ -25352,3 +25352,34 @@ or new Hebrew/Greek claim was introduced. No schema or harness changes were need
 Validation: scripts/link-check.sh exits 0, with 56 expected not-yet-started book targets;
 no wrapped or dangling links. Frontmatter totals, touched category rows, passage-title
 uniqueness, and exact verse transcription checked. No unresolved ingest issue.
+
+## [2026-11-11] ingest | Joshua 18.11-28 — The Inheritance of Benjamin
+
+Ingested exactly one pericope in auto mode with Codex; retained the planned boundary.
+Joshua is now 31 / 42 pericopes ingested. The passage contains all eighteen stored WEB
+verses, discussion of the boundary circuit, and the two groups of twelve and fourteen cities.
+
+Created 22 pages: the passage, twenty places, and
+[[Judah and Benjamin Share a Boundary - Joshua 15 and 18]]. Revised 52 existing pages/files,
+including category indexes, dashboard, book queue, log, and the renamed person page.
+The new town required [[Rekem (city)]] and [[Rekem (person)]]; all inbound links were repaired.
+Historical log prose was retained; the old Rekem wikilink alone was mechanically qualified
+as part of that mandatory collision repair. Minor towns receive concise place pages without
+modern-site claims. Hinnom and Rephaim remain covered as geographical names; tribal ancestors
+are distinguished from their descendants. No new biography is inferred from Bohan’s stone.
+
+Explicitly retained Beth Arabah’s overlapping assignments (15:61; 18:22), Jerusalem’s
+assignment versus Judah’s non-expulsion notice (15:63; 18:28), and the Bethel/Luz wording
+in 16:2 beside their identification in 18:13. Geliloth/Gilgal, Kiriath/Kiriath Jearim,
+and Gibeath/Gibeah are not silently merged. The boundary comparison records shared landmarks
+without supplying an exact map, transfer of territory, or a lot mechanism.
+
+Sources: quotations copied directly from raw/bible/Joshua.md, 18:11–28; comparisons checked
+in stored WEB Joshua 15–16, 18 and Deuteronomy 2:23. No unstored-book quotations or new
+source-language claims. Raw files and workflow instructions are unchanged.
+
+Totals by frontmatter: 425 passages, 283 people, 438 places, 87 themes, 825 connections.
+Validation: scripts/link-check.sh exits 0 with 56 expected unstarted book targets;
+git diff --check clean. Exact verse transcription, unique basenames, and new category rows
+verified. The pre-existing oversized places index remains unsplit in this pericope pass.
+No operational blocker or unresolved link remains; the textual tensions above remain open.

@@ -32,7 +32,7 @@ The page is qualified because two other Hur pages exist: [[Hur (companion of Mos
 
 ## Related people
 
-- [[Evi]], [[Rekem]], [[Zur]], [[Hur (king of Midian)]], [[Reba]] — the five kings of Midian
+- [[Evi]], [[Rekem (person)]], [[Zur]], [[Hur (king of Midian)]], [[Reba]] — the five kings of Midian
 - [[Balaam]] — killed in the same battle
 
 ## Themes associated

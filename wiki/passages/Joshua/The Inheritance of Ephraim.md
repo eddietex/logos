@@ -91,3 +91,8 @@ Luz is discussed with [[Bethel]]; see the naming tension below.
   No absolute date for the narrator is inferred.
 - Sources: stored WEB Joshua 16:1–10; Genesis 28:19; Deuteronomy 20:10–18.
   No new quotation from an unstored book or claim about Hebrew wording is introduced.
+
+### Benjamin’s adjoining inheritance
+
+[[The Inheritance of Benjamin]] (Joshua 18:11–28) follows this account. Benjamin’s north boundary revisits Bethel/Luz, Ataroth Addar, and Beth Horon; the Bethel-to-Luz wording in 16:2 remains beside their explicit identification in 18:13.
+See [[Judah and Benjamin Share a Boundary - Joshua 15 and 18]]. Source: stored WEB Joshua 15–16; 18:11–28.

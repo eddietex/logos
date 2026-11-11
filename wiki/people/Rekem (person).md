@@ -3,7 +3,7 @@ type: person
 also_known_as: [Reqem]
 tags: [person]
 ---
-# Rekem
+# Rekem (person)
 
 ## Overview
 
@@ -29,10 +29,12 @@ ingested); Numbers calls them kings, and the wiki keeps both titles.
 
 ## Related people
 
-- [[Evi]], [[Rekem]], [[Zur]], [[Hur (king of Midian)]], [[Reba]] — the five kings of Midian
+- [[Evi]], [[Rekem (person)]], [[Zur]], [[Hur (king of Midian)]], [[Reba]] — the five kings of Midian
 - [[Balaam]] — killed in the same battle
 
 ## Themes associated
 
 - [[War]]
 - [[Vengeance]]
+
+The person is distinct from [[Rekem (city)]].

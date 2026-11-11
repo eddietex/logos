@@ -74,7 +74,7 @@ Copied verbatim from stored WEB, raw/bible/Numbers.md.
 - [[Balaam]] — killed with the sword among the Midianites (8); named as the source of the counsel at
   Peor (16).
 - [[Beor (father of Balaam)]] — named in Balaam's patronymic (8).
-- [[Evi]], [[Rekem]], [[Zur]], [[Hur (king of Midian)]], [[Reba]] — the five kings of Midian, killed (8).
+- [[Evi]], [[Rekem (person)]], [[Zur]], [[Hur (king of Midian)]], [[Reba]] — the five kings of Midian, killed (8).
 - [[God]] — commands the vengeance (1–2) and the division (25–30).
 - Unnamed: the twelve thousand; the captains of thousands and of hundreds; the women and children of
   Midian; the thirty-two thousand girls.
@@ -217,7 +217,7 @@ bible-api.com). The text of Numbers does not say every Midianite clan was involv
 later strength of Midian beside this chapter without harmonizing them. See [[Midian]].
 
 **Boundary and naming.** The planned boundary, 31:1–54, is kept: chapter 32 turns to Reuben and Gad, in
-[[Reuben, Gad, and the Land Beyond the Jordan]]. The provisional title is kept. New person pages are created for four of the five kings — [[Evi]], [[Rekem]],
+[[Reuben, Gad, and the Land Beyond the Jordan]]. The provisional title is kept. New person pages are created for four of the five kings — [[Evi]], [[Rekem (person)]],
 [[Reba]], and [[Hur (king of Midian)]], the last qualified because two Hur pages already exist. Zur's page
 already existed.
 
