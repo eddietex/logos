@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The allotment closes with all the land given, possessed, and inhabited (43). Canaan is the narrative setting, not a name repeated in these verses. This comprehensive verdict remains in tension with the remaining land of 13:1 and non-removal in 16:10 and 17:12–13.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The allocation begins at Shiloh in this land (2).
@@ -496,6 +502,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

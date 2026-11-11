@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The oath to the unnamed fathers is reported fulfilled in land and rest (43–44). Isaac is identified among those fathers in Deuteronomy 9:5, not named individually here; this is remembrance of the promise, not an episode in his life.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Named in the oath formula of verse 4: the land sworn to Abraham, Isaac, and Jacob.
@@ -604,6 +610,8 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, between Jacob and Abraham (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Named in the land oath (4).
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.

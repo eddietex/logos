@@ -180,6 +180,14 @@ and inhabits his grant; finished division does not erase the remaining-land noti
 The gate hearing, protection before congregational trial, and residence until the high
 priest’s death place judicial safeguards within the settled land, including resident aliens.
 
+[[The Cities of the Levites]] (21:1–42) allocates forty-eight cities and their suburbs
+among the Levitical families. The cities implement Moses’ command within Israel’s tribal
+possessions; Hebron’s fields and villages remain Caleb’s.
+
+[[Not One Good Thing Failed]] (21:43–45) closes the allotment with land possessed, rest given,
+and every good word fulfilled. This comprehensive verdict stands alongside remaining land
+and inhabitants; Joshua 23 will repeat fulfillment while warning of loss through disobedience.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -190,17 +198,13 @@ priest’s death place judicial safeguards within the settled land, including re
 - 22–24 — return and renewal: the eastern tribes sent home and their altar, Joshua's farewell,
   the covenant at Shechem, and three burials.
 
-[[The Cities of the Levites]] (21:1–42) allocates forty-eight cities and their suburbs
-among the Levitical families. The cities implement Moses’ command within Israel’s tribal
-possessions; Hebron’s fields and villages remain Caleb’s.
-
 ## Pericopes
 
 Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not yet. The first
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **35 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **37 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -238,7 +242,7 @@ Plan drawn 2026-11-10 from the stored WEB. **35 / 42 pericopes ingested.**
 - [x] [[Joshua's Own Inheritance]] — Joshua 19:49–51
 - [x] [[The Cities of Refuge Appointed]] — Joshua 20:1–9
 - [x] [[The Cities of the Levites]] — Joshua 21:1–42
-- [ ] Not One Good Thing Failed — Joshua 21:43–45
+- [x] [[Not One Good Thing Failed]] — Joshua 21:43–45
 - [ ] The Eastern Tribes Sent Home — Joshua 22:1–9
 - [ ] The Altar of Witness by the Jordan — Joshua 22:10–34
 - [ ] Joshua's Farewell to the Leaders — Joshua 23:1–16

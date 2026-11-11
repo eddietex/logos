@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+No enemy stands before Israel and Yahweh delivers all enemies into their hand (44). The comprehensive victory claim coexists with the remaining inhabitants of 16:10 and 17:12–13; it cannot simply be restated as universal extermination.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### Dan takes Leshem — Joshua 19:24–48
 
 The Danites *fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it* (47). It is reported in one sentence, without a divine command, a word of judgment, or any mention of Joshua; Judges 18 tells a fuller and less flattering version. See [[Leshem Becomes Dan - Joshua 19 and Judges 18]].
@@ -667,6 +673,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Dan takes Leshem (47).
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

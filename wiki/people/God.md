@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The narrator attributes land, rest, and victory to Yahweh and declares every good promise fulfilled (43–45). This strong verdict stands alongside his statement of remaining land in Joshua 13:1; neither is erased.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Israel gives the cities according to Yahweh’s command through Moses (2–3, 8).
@@ -3984,6 +3990,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+Israel and the house of Israel here mean the descendants who possess the land (43–45), not Jacob personally. The fathers are unnamed; Deuteronomy 9:5 supplies Jacob with Abraham and Isaac as the ancestral recipients of the oath.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Named in the oath formula of verse 4: the land sworn to Abraham, Isaac, and Jacob. Israel's thirty days of weeping for Moses (8) contrast with the seventy and seven days of Jacob's mourning (Genesis 50:3, 10).
@@ -868,6 +874,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Named in the land oath (4).
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

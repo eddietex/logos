@@ -150,3 +150,8 @@ terms without pages. The Hivites of Gibeon are treated on [[Gibeon]] and [[The N
 **Sources.** Quotations are copied from stored WEB Joshua 11. Comparisons were read in stored WEB
 Joshua 9, 10, 12:7, 13:1–6, 14:7–15, 15:13–17; Deuteronomy 2:30, 7:1–2, 20:10–18. 1 Samuel 17
 is cited by reference only, not quoted. No source-language assertion is made.
+
+**The allotment’s verdict.** [[Not One Good Thing Failed]], Joshua 21:43–45, now supplies the later
+claim of all land given, possessed, and inhabited, with rest and every good word fulfilled.
+The tension with Joshua 13:1 and the non-removal notices remains explicit; distinguishing
+decisive victory from exhaustive occupation is an interpretation, not a stated resolution.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+Joshua 21:44 reports rest all around in connection with defeated enemies. It does not prescribe seventh-day observance. Its relationship to Sabbath rest in Hebrews is a later interpretive development tracked in the existing rest connection.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 The seventh day, on which God rested from the work of creation, blessed the day, and made it
 holy (Genesis 2:2–3). Creation supplies the rationale in Exodus 20:11. **The earlier claim that every Sabbath
 rationale is anchored to creation was too broad:** Deuteronomy 5:15 explicitly grounds the
@@ -266,6 +272,8 @@ own (29:6).
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the rest of the land, later read by Hebrews 4 as pointing to *a Sabbath rest*.
 - [[Read the Law to All Israel]] — Deuteronomy 31:9–13; public hearing and instruction.

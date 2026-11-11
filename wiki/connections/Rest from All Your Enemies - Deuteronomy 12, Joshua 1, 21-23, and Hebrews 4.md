@@ -6,6 +6,7 @@ tags: [connection]
 # Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4
 
 ## Passages involved
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:20, *until Yahweh gives
   rest to your brothers, as to you* (stored WEB).
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:9–10, *the rest and … the inheritance* not yet
@@ -13,13 +14,17 @@ tags: [connection]
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:19, Amalek to be blotted
   out *when Yahweh your God has given you rest from all your enemies all around* (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:13–15 (stored WEB).
-- Joshua 21:44, 22:4, 23:1 — the rest reported as given *(stored WEB, not yet ingested)*.
+- Joshua 22:4, 23:1 — the rest reported as given *(stored WEB, not yet ingested)*.
 - [[The Whole Land Taken]] — Joshua 11:23, *the land had rest from war*, a different verb
   (stored WEB); 14:15 repeats the clause in [[Caleb Claims Hebron]] (stored WEB).
 - Psalm 95:11 — *"They won't enter into my rest"* *(WEB via bible-api.com, not yet ingested)*.
 - Hebrews 4:8–9 — *"if Joshua had given them rest"* *(WEB via bible-api.com, not yet ingested)*.
 
 ## Analysis
+
+### The allotment’s closing verdict
+
+The three-verse conclusion is now ingested. Verse 43 includes actual possession and dwelling, not only distribution; verse 44 attributes victory and rest to Yahweh; verse 45 assesses his good word as wholly fulfilled. Joshua 23:14–16 will repeat that assurance beside a warning of land loss. Thus fulfillment and continuing covenant responsibility coexist, as do the summary and the non-removal notices. Source: stored WEB Joshua 21:43–45 and 23:14–16.
 
 ### Caleb’s grant at Gilgal
 

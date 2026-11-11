@@ -6,6 +6,7 @@ tags: [connection]
 # Not for Your Righteousness - The Ancestral Oath and the Gift of the Land
 
 ## Passages involved
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
 - [[The Covenant Between the Pieces]] — Genesis 15:16–18.
@@ -14,6 +15,10 @@ tags: [connection]
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
 
 ## Analysis
+
+### The allotment’s closing verdict
+
+Joshua 21:43–45 now gives the retrospective counterpart: the land sworn to the fathers is given and inhabited, rest is given, and every good word comes to pass. The fathers are not named in these verses; Deuteronomy 9:5 supplies Abraham, Isaac, and Jacob. Joshua does not here repeat the denial of merit, so that link is a comparison across passages, not a quotation or an additional assertion in this summary. Source: stored WEB Joshua 21:43–45 and Deuteronomy 9:4–6.
 
 Genesis 15:16–18 joins the future return, the Amorites’ iniquity, and the covenant land gift.
 Deuteronomy 9:5 again places judgment beside the ancestral oath, now naming Abraham, Isaac,

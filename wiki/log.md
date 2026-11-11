@@ -25544,3 +25544,36 @@ Validation: scripts/link-check.sh exits 0; no wrapped or unexpected dangling lin
 with 56 expected not-yet-started book targets. Quotation comparison, touched entity
 index-row uniqueness, frontmatter totals, and git diff --check pass.
 No unresolved ingestion blocker; geographical uncertainties are recorded in the pages.
+
+## [2026-11-11] ingest | Joshua 21.43-45 — Not One Good Thing Failed
+
+Ingested [[Not One Good Thing Failed]] in auto mode from stored WEB Joshua 21:43–45.
+Retained the planned boundary; Joshua is now 37 / 42 pericopes ingested.
+Created one passage page and revised 16 existing content pages: the book, two earlier
+passages, four people, one place, six themes, and two connections. Updated eight indexes
+and dashboards plus this log: 25 existing pages revised in total.
+Frontmatter totals: 431 passages, 283 people, 544 places, 87 themes, 829 connections;
+10 books started, 9 complete.
+
+Extended the existing rest and ancestral-oath connections instead of making duplicates.
+Kept the comprehensive fulfillment verdict beside Joshua 13:1, 16:10, and 17:12–13;
+regional victory versus exhaustive occupation is an interpretation, not a stated resolution.
+Verse 43 includes possession and dwelling, so allocation alone is not a sufficient gloss.
+The fathers are unnamed here; Abraham, Isaac, and Jacob are contextual identifications
+from Deuteronomy 9:5. Israel denotes descendants. Canaan is the narrative setting rather
+than a repeated place name. No unnamed enemy receives an invented biography.
+The Sabbath page distinguishes military security from weekly observance.
+
+Corrected the book page’s stale 35 / 42 counter and moved its Levitical-city overview
+paragraph out of Structure. Consolidated two existing Canaan index rows, retaining their
+prior summary and references, and repaired descriptive text misplaced in the Canaan and
+Covenant name cells. No category-wide restructuring was attempted in this ingest.
+
+All three quoted verses checked against stored WEB Joshua 21. Comparisons use stored WEB
+Joshua, Deuteronomy, and Genesis as cited on the passage. No new unstored-book quotation
+or source-language assertion; existing source-attributed analysis in the rest connection
+is retained. Raw texts and canonical workflow instructions are unchanged.
+
+Validation: scripts/link-check.sh exits 0; no wrapped links or unexpected dangling targets,
+with 56 not-yet-started book targets expected. Quotation equality, touched index-row
+uniqueness, frontmatter totals, and git diff --check pass. No unresolved ingestion blocker.

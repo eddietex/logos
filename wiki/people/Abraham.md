@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The unnamed fathers receive the oath whose fulfillment the narrator now affirms (43–44). Deuteronomy 9:5 identifies Abraham, Isaac, and Jacob as its recipients. This is ancestral background, not Abraham named or acting in this passage.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 The land shown to Moses is *the land which I swore to Abraham, to Isaac, and to Jacob* (4), quoting the promise *I will give it to your offspring*.
@@ -895,6 +901,8 @@ promise persists even when the terms of divine accompaniment are disputed. See
 - Leviticus 26 — Named in *my covenant* to be remembered in exile, third in a reversed list (26:42). [[Covenant Warnings and Remembered Promises]]
 
 ## Appears in
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The sworn land shown to Moses (4).
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.

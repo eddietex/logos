@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The enemies are collective and unnamed (44). Their defeat is comprehensively attributed to Yahweh, while 16:10 and 17:12–13 retain Canaanites in the land. Victory and total removal must not be silently equated.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 The only people named in Judah's town list are the Jebusites of Jerusalem, whom *the children of Judah couldn’t drive out*; they *live with the children of Judah at Jerusalem to this day* (63). The verse records coexistence, not a new battle.
@@ -524,6 +530,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.

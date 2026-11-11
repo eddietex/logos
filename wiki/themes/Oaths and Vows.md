@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The oath to the fathers grounds both land and rest (43–44). Verse 45 declares the good word fulfilled. This is the narrator’s assessment of an earlier divine commitment, not a new oath sworn by Israel.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Moses’ remembered oath grounds Caleb’s request for the land he walked and an inheritance for his children (9). Joshua’s grant in verses 13–14 gives the old promise a named territorial expression.
@@ -495,6 +501,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

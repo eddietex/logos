@@ -114,3 +114,8 @@ patriarch. Verse 8 begins the separate account of the eastern inheritance.
 Comparisons use stored WEB Joshua 11:8, 11:23, 12:5, 12:18, 13:11–13; Numbers 33:50–56;
 Exodus 23:29–30; Deuteronomy 7:22. The planned 13:1–7 boundary is retained. No quotation
 from an unstored book and no source-language claim is introduced.
+
+**The allotment’s verdict.** [[Not One Good Thing Failed]], Joshua 21:43–45, now supplies the later
+claim of all land given, possessed, and inhabited, with rest and every good word fulfilled.
+The tension with Joshua 13:1 and the non-removal notices remains explicit; distinguishing
+decisive victory from exhaustive occupation is an interpretation, not a stated resolution.

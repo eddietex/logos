@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+Land and rest fulfill the oath to the fathers (43–44); no new covenant ceremony occurs. The later warning of land loss in Joshua 23:14–16 keeps fulfillment from meaning immunity to the consequences of covenant breach.
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### At Gibeon — Joshua 10:1–15
 
 The peace with Gibeon becomes the reason for the Amorite attack (1, 4). Joshua now defends the
@@ -645,6 +651,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

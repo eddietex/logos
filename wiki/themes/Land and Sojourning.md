@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Fulfilled land and rest — Joshua 21:43–45
+
+The narrator affirms gift, possession, and dwelling in all the promised land (43). This is stronger than allocation alone and remains explicitly in tension with land still to possess (13:1) and inhabitants not removed (16:10; 17:12–13).
+
+See [[Not One Good Thing Failed]]. Source: stored WEB Joshua 21:43–45; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Forty-eight cities and their suburbs belong to Levi within the other tribes’ possessions (41–42). No separate tribal territory does not mean no homes or land; Caleb’s fields and villages are expressly retained at Hebron (12).
@@ -1006,6 +1012,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
