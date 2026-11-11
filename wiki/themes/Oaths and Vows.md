@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+The spies’ oath now obliges them to rescue Rahab’s household (22–25), while Joshua’s oath places a curse on rebuilding Jericho (26). Binding speech protects one household and threatens the future builder’s household.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 Verse 6 places two divine oaths together: exclusion of the disobedient generation and the gift of the land to the fathers. Judgment on one generation does not annul the continuing promise to their children.
@@ -457,6 +464,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; the pledge renewed to Joshua (16–18).

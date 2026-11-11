@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Rahab’s household survives the destruction because she hid the messengers (17, 25), and Joshua enforces the spies’ pledge (22). This concrete exception does not soften the report that other young and old are killed (21).
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab appeals to the kindness she has shown and asks reciprocal protection for her whole household (12–14). Mercy here takes the concrete form of a pledged exception within impending conquest.
@@ -419,6 +426,8 @@ same chapter the guilty man's beating is capped so that *"your brother"* is not 
 chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

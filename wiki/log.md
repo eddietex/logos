@@ -24695,3 +24695,28 @@ unspecified by this unit. No contradiction requiring resolution was found in the
 
 Validation: scripts/link-check.sh passed, with 56 expected not-yet-started book targets;
 git diff --check passed. Authored by Codex. No workflow or harness changes were needed.
+
+## [2026-11-10] ingest | Joshua 6.1-27 — The Fall of Jericho
+
+Ingested [[The Fall of Jericho]] in one unattended Codex invocation, retaining the planned
+boundary. Created the passage and two connections: [[Rahab Saved by the Oath and the Walls Fallen by Faith]]
+and [[Joshua’s Curse on Jericho and Hiel’s Sons]]. Revised three existing connections on devoted
+things, the distinct trumpet instruments, and the midwives/Rahab comparison; linked the earlier
+Rahab passage forward to the accomplished rescue. Updated five people, Jericho, thirteen themes,
+the book and its queue, affected category rows, and dashboard counts. Joshua is now 9 / 42;
+totals are 403 passages, 261 people, 227 places, 87 themes, and 803 connections.
+
+Quoted Joshua verses directly from stored WEB. Verified Hebrews 11:30–31 and 1 Kings 16:34
+against bible-api.com WEB on 2026-11-10; no new raw book or change to existing raw text.
+The additions make no Hebrew or Greek wording claim. The unnamed priests and Rahab’s relatives
+remain covered by Priesthood and Rahab’s household rather than new individual pages.
+
+Explicitly retained the tension between Deuteronomy’s destruction command and Rahab’s exception,
+and the unresolved physical question of her wall-house after the wall falls. The killing of young
+and old is not reduced to combatants. Neither a purification rite for Rahab nor a foundation
+sacrifice by Hiel is inferred. No calendar Sabbath identification or archaeological mechanism is
+asserted. Repaired pre-existing summary text in name cells of the touched theme-index rows.
+
+Validation: scripts/link-check.sh passed with 56 expected not-yet-started book targets;
+git diff --check passed. Three pages created and 35 existing pages revised, including indexes
+and this log. No harness or workflow changes were needed; no operational blocker remains.

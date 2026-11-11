@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Silver, gold, brass, and iron vessels are holy to Yahweh and enter his treasury (19, 24), while the city is burned. Devotion thus does not mean that every object is physically destroyed; it excludes private appropriation.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The commander by Jericho — Joshua 5:13–15
 
 The commander tells Joshua to remove his shoes because the place is holy (15), closely
@@ -774,6 +781,8 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 

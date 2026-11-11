@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+The formerly shut city is encircled, its wall falls, its inhabitants and livestock are destroyed except for Rahab’s household, and it is burned (1–25). Joshua’s curse targets its rebuilding (26). The text provides no archaeological date or mechanism for the wall’s collapse.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The commander by Jericho — Joshua 5:13–15
 
 Joshua encounters the armed commander by Jericho (13). The ground on which he stands
@@ -98,6 +105,8 @@ Named as the geographical reference for Israel’s camp beyond the Jordan in the
 Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.

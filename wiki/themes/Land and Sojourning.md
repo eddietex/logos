@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+A shut city becomes a conquered city (1–20), but it is burned rather than immediately occupied as an ordinary settlement (24–26). The gift of land does not here authorize unrestricted use of its wealth or rebuilding.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The children have crossed into the land sworn to the fathers, while the disobedient military generation was denied it (6–7). Entry is followed by circumcision and recovery before conquest.
@@ -852,6 +859,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

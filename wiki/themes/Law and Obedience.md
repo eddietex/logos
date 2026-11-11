@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Six daily circuits and seven on the seventh day follow the given command (3–20). Silence yields to a shout at Joshua’s order. The warning against taking devoted things (18) makes obedience after victory as consequential as obedience before it.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The commander by Jericho — Joshua 5:13–15
 
 Joshua asks what his lord says to his servant and obeys the footwear command (14–15).
@@ -1401,6 +1408,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.

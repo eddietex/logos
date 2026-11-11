@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Jericho’s destruction includes young and old (21), without individual trials or a catalogue of each victim’s acts. The threat also reaches Israel’s camp if it takes what is devoted (18). Election does not grant immunity from the chapter’s sanctions.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 The forty-year loss of the military generation is attributed to not listening to Yahweh (6). Numbers 14:29–30 and 26:64–65 specify the condemned cohort and the exceptions, Joshua and Caleb; Joshua’s summary should not erase those qualifications.
@@ -998,6 +1005,8 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

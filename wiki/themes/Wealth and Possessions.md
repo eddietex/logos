@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+The city is burned, but precious and useful metals go to Yahweh’s treasury (19, 24). Soldiers are warned against taking devoted property (18); Rahab’s possessions are expressly rescued with her household (23, 25).
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Rich food and provision (13–14) lead into Jeshurun’s growing fat and abandoning the giver (15). This realizes the warning of Deuteronomy 8:10–20 within the poem: prosperity is a gift that can become an occasion of disloyalty.
@@ -870,6 +877,8 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

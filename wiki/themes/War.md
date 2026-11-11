@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+The army circles behind a priestly signal and enters after the wall falls (3–20). Verse 21 explicitly includes men, women, young, old, and livestock in the killing; it cannot be summarized as combatants alone. Rahab’s household is the stated exception.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The commander by Jericho — Joshua 5:13–15
 
 The armed figure identifies himself as commander of Yahweh's army (13–14). Joshua
@@ -545,6 +552,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

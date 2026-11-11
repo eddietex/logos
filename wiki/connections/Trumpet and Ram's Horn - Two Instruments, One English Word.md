@@ -7,13 +7,15 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
+
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; *ḥăṣōṣərâ*
 - [[Israel at Mount Sinai]] — Exodus 19:13, 16, 19; *yôbēl* and *šôpār*
 - [[The Ten Commandments]] — Exodus 20:18; *šôpār*
 - [[Trumpets and the Day of Atonement]] — Leviticus 23:24; *tərûʿâ* and no instrument
 - [[The Sabbatical Year and the Jubilee]] — Leviticus 25:9; *šôpar tərûʿâ*
 - [[The Offerings of the Appointed Feasts]] — Numbers 29:1; a day of *tərûʿâ*
-- Joshua 6:4–5, 20 — the rams' horns at Jericho *(WEB checked, not yet ingested)*
+- Joshua 6:4–5, 20 — the rams' horns at Jericho *(WEB checked, now ingested)*
 - Psalms 47:5; 81:3; 98:6; 150:3 — the instruments in song *(WEB checked, not yet ingested)*
 - Hosea 5:8 — both named in one line *(WEB checked, not yet ingested)*
 - Joel 2:1, 15 — alarm and assembly *(WEB checked, not yet ingested)*
@@ -22,6 +24,15 @@ tags: [connection]
 - Matthew 24:31; 1 Corinthians 14:8; 15:52; 1 Thessalonians 4:16; Revelation 8:2 — the trumpet in the New Testament *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Joshua 6 now ingested
+
+Joshua 6 is now ingested. The stored WEB explicitly specifies seven priests with seven trumpets
+of rams’ horns (4, 6, 13), followed by a long blast and the people’s shout (5, 20). Numbers 10:2
+specifies two beaten silver trumpets. The physical descriptions alone distinguish the instruments;
+this addition makes no new claim about Hebrew wording. The march is not simply an instance of
+using the two silver trumpets.
+
 
 WEB mostly says *trumpet* for two Hebrew words, and the English reader cannot see which is meant. All locations
 below are from WLC by morphhb tags, so they describe that tagging.

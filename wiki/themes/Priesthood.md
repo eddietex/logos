@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Seven unnamed priests sound rams’ horns before the ark, with armed men ahead and a rear guard behind (4–13). Priestly service accompanies the military procession; the account does not name these priests or identify their horns as the silver instruments of Numbers 10.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The twelve stones — Joshua 4:1–24
 
 The ark-bearing priests hold their position until the work is finished and leave at the transmitted
@@ -739,6 +746,8 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

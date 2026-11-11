@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
+
 - [[Laws for Going to War]] — Deuteronomy 20:16–18; the cities of the land (now ingested).
 
 - [[Do Not Follow Other Gods]] — Deuteronomy 13:12–18; an Israelite town (now ingested).
@@ -31,6 +33,16 @@ tags: [connection]
   kept, divided, and levied.
 
 ## Analysis
+
+### Joshua 6 now ingested
+
+Joshua 6 is now ingested. Verses 17–25 distinguish destruction of the city and its inhabitants,
+rescue of Rahab’s household, and metals reserved for Yahweh’s treasury. Verse 18 warns that
+Israel’s camp can itself become accursed by taking devoted property. The command in Deuteronomy
+20:16–18 and Rahab’s survival stand in tension: Joshua states the exception and its reason but
+provides no general reconciliation. This addition rests on the stored WEB, not a new lexical claim.
+Joshua 7 remains outside this completed ingest.
+
 
 ### Deuteronomy 20:16–18 now ingested
 
@@ -130,8 +142,7 @@ things go wholly to Yahweh (Leviticus 27:28). The war is named vengeance (31:2�
 ## Significance
 
 Leviticus supplies the rule behind later stories: Achan's theft and Saul's mercy are breaches of the
-*not sold, not redeemed* clause, whether or not the narrators are citing it. Joshua and 1 Samuel are
-not yet ingested, and their pages will need to revisit this one. See [[War]], [[Holiness]], and
+*not sold, not redeemed* clause, whether or not the narrators are citing it. Joshua 6 is now ingested; Joshua 7 and 1 Samuel 15 remain to be ingested. See [[War]], [[Holiness]], and
 [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 Sources: WEB from stored raw files and bible-api.com, 2026-10-30. Hebrew from WLC (morphhb, GitHub),

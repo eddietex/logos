@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Taking devoted things threatens to make Israel’s camp accursed (18). Joshua also pronounces loss of firstborn and youngest son upon Jericho’s rebuilder (26). The two sanctions concern different acts; neither should be collapsed into a general curse on all residents.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Choose life — Deuteronomy 30:11–20
 
 *The curse* is paired with death (19), and its content here is perishing and short days in the land (18).
@@ -305,6 +312,8 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

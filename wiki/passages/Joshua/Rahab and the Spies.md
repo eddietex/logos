@@ -66,6 +66,7 @@ or rescue of the household is yet narrated.
 - [[The Fear of God]]
 
 ## Cross-references
+- [[Rahab Saved by the Oath and the Walls Fallen by Faith]]
 - [[The Midwives and Rahab - Deceiving the King to Save Life]]
 - [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]]
 - [[Twelve Spies and Two - Numbers 13 and Joshua 2]]
@@ -103,3 +104,7 @@ but neither is established here. The existing tension is retained rather than si
 **Scope.** The stored WEB supplies every quotation above. No Hebrew or Greek lexical claim is
 made. The king remains unnamed, the spies remain unnamed, the mountain is not assigned a modern
 location, and Rahab’s occupation does not establish a sexual encounter with her guests.
+
+**Fulfillment now ingested.** [[The Fall of Jericho]] narrates the household’s rescue
+and Rahab’s residence among Israel (Joshua 6:22–25). The promises above are prospective
+within chapter 2, but their outcome is now available in the wiki.

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Rahab moves from Jericho into Israel (25). This stands in tension with the sweeping destruction of the land’s peoples in Deuteronomy 7:1–2 and 20:16–18: Joshua names an exception, without supplying a general legal reconciliation.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Circumcision at Gilgal — Joshua 5:1–9
 
 Amorite kings west of the Jordan and Canaanite kings by the sea hear of the crossing and lose heart (1). They are unnamed groups here, not identified individual rulers.
@@ -441,6 +448,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

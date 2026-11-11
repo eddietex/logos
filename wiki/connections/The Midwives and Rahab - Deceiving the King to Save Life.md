@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
+
 - [[Rahab and the Spies]] — Joshua 2:1–24 (now ingested).
 
 - **Exodus 1:15–21** — the midwives fear God, save the boys, and answer the king that the Hebrew
@@ -22,6 +24,15 @@ tags: [connection]
 - **Acts 5:29** — *"We must obey God rather than men"*
 
 ## Analysis
+
+### Joshua 6 now ingested
+
+The rescue anticipated in Joshua 2 is now narrated in Joshua 6:22–25. Joshua directs the two spies
+to fulfill their oath, and the narrator twice gives Rahab’s hiding the messengers as the reason
+for her survival (17, 25). The reward side of the comparison is now supported by the ingested
+narrative itself. This still does not turn the account into a general authorization of deception.
+Source: stored WEB Joshua 6:17–25.
+
 
 ### Joshua 2 now ingested
 

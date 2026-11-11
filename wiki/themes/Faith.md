@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Marching precedes the visible collapse (3–20). Hebrews 11:30–31 explicitly reads both the encircling and Rahab’s survival through faith (WEB verified at bible-api.com, 2026-11-10). This is a later interpretation, not a claim about Hebrew vocabulary in Joshua.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab’s confession that Yahweh has given Israel the land becomes action: she shelters the spies and asks protection for her family (9–14). Hebrews 11:31 later interprets her reception of them as faith; Joshua itself narrates the confession and risk.
@@ -319,6 +326,8 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.

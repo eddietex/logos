@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Joshua transmits the marching orders, commands the shout, reserves the metals for Yahweh, and directs the spies to honor their oath to Rahab (6–26). His fame spreads because Yahweh is with him (27).
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The commander by Jericho — Joshua 5:13–15
 
 Joshua moves from asking which side the armed man supports to falling down, worshiping,
@@ -233,6 +240,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
   [[The People Refuse the Land]]
 
 ## Appears in
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

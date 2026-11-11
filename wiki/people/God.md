@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+Yahweh declares Jericho given to Joshua before its walls fall (2–5). The concluding notice attributes Joshua’s success to Yahweh’s presence (27); the conquest is not credited to Israel’s independent strength.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The commander by Jericho — Joshua 5:13–15
 
 The commander identifies his army as Yahweh's, and the place of encounter is holy (14–15).
@@ -3833,6 +3840,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12.

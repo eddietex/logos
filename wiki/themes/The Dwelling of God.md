@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fall of Jericho — Joshua 6:1–27
+
+The covenant ark occupies the procession’s center, and the reserved metals enter the treasury of Yahweh’s house (6–13, 24). The wording does not establish a stone temple at Jericho.
+
+See [[The Fall of Jericho]]. Source: stored WEB Joshua 6:1–27; comparisons identified above.
+
+
 ### The twelve stones — Joshua 4:1–24
 
 The ark remains with its priests in the river until the crossing is complete (10–11). The narrative
@@ -611,6 +618,8 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+
+- [[The Fall of Jericho]] — Joshua 6:1–27.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.
