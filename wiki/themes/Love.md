@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Love of Yahweh belongs with walking in his ways, keeping commandments, holding fast, and
+wholehearted service (5). The farewell charge renews the pattern of Deuteronomy 10:12–13, 20 and
+11:13, 22.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Divine love for the people frames the reception of words (3), and Benjamin is beloved and protected
@@ -591,6 +599,9 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
+
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.

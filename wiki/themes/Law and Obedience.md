@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Past military obedience is commended (2–3); future obedience remains urgent (5). Completion of a
+particular command does not release the tribes from Moses’ law.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The Levite heads invoke the command through Moses, and Israel gives cities accordingly (2–3, 8). The named distribution implements the earlier command of Numbers 35:1–8.
@@ -1516,6 +1523,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

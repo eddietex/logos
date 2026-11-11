@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Rest given to the brothers authorizes the eastern warriors’ return (4). This is release from a
+military obligation, not a command about the seventh day; its broader relation to Sabbath remains in
+the rest connection.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 Joshua 21:44 reports rest all around in connection with defeated enemies. It does not prescribe seventh-day observance. Its relationship to Sabbath rest in Hebrews is a later interpretive development tracked in the existing rest connection.
@@ -272,6 +280,8 @@ own (29:6).
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 

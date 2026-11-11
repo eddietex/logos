@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Named collectively as the eastern tribes’ destination and possession under Yahweh’s command through
+Moses (9). Verse 7 separately names Bashan for half of Manasseh, so the summary should not collapse
+every eastern region into one precise boundary.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Ramoth, the refuge supplied by Gad, is located here (38).
@@ -117,6 +125,8 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 **Joshua 12:1–24 — the list of kings.** Divided between the two kings: Sihon ruled *half Gilead* to the Jabbok (12:2), and Og ruled *half Gilead* to Sihon's border (5). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

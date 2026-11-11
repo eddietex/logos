@@ -16,11 +16,21 @@ tags: [connection]
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22; grant, shared rest, and encouragement (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; Joshua reminds the two and a half tribes, and they pledge (stored WEB).
 - Joshua 4:12–13 — they cross armed (stored WEB; now ingested).
-- Joshua 22:1–9 — they are sent home *(WEB via bible-api.com, not yet ingested)*
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9; authorized return, continuing obedience, and shared plunder (stored WEB).
 - Judges 5:15–17 — Deborah's song on Reuben and Gilead *(WEB via bible-api.com, not yet ingested)*
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+### Discharge now ingested — Joshua 22:1–9
+
+Joshua explicitly commends the tribes’ kept obligation (2–3), then makes the brothers’
+rest the reason for return (4). Love and service remain binding (5), and plunder is to be
+shared (8). The recipients are called brothers without a stated fraction or an explicit
+identification of those who stayed home. Verse 7 distinguishes Manasseh’s two grants.
+The following altar dispute does not overturn the praise given in this unit.
+
+Source: stored WEB Joshua 22:1–9.
 
 ### The eastern allotments — Joshua 13:8–33
 
@@ -40,7 +50,7 @@ Source: stored WEB Joshua 13:8–33 and the Torah passages cited.
 
 ### The completed crossing — Joshua 4
 
-Joshua 4:12–13 is now ingested: Reuben, Gad, and half of Manasseh cross armed as Moses commanded, about forty thousand ready for battle. Joshua 1’s undertaking becomes action. Crossing begins fulfillment; discharge remains ahead in Joshua 22.
+Joshua 4:12–13 is now ingested: Reuben, Gad, and half of Manasseh cross armed as Moses commanded, about forty thousand ready for battle. Joshua 1’s undertaking becomes action. Crossing begins fulfillment; [[The Eastern Tribes Sent Home]] now records the discharge in Joshua 22:1–9.
 
 Source: stored WEB Joshua 3–4.
 

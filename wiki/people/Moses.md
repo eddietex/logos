@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+His command has been kept (2), his grant remains valid (4, 7, 9), and his instruction governs
+continued devotion (5). He is remembered after his death, not present at the dismissal.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 His transmitted command supplies the authority for the allocation (2, 8).
@@ -1975,6 +1982,8 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

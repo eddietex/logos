@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The river distinguishes Moses’ eastern grant from Joshua’s western grant to Manasseh (4, 7). The
+dismissal authorizes return across this division; the altar episode belongs to the following unit.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 The river distinguishes the three eastern refuges from the western group (7–8). Both sides participate in the same protection for Israelites and resident aliens (9).
@@ -332,6 +339,9 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
+
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Naphtali’s eastern limit.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

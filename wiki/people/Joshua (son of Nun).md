@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+He commends the eastern tribes for obedience, authorizes their return, renews the call to love and
+serve Yahweh, blesses them, and orders plunder shared (1–8). Leadership ends an assignment without
+ending covenant responsibility.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Receives the Levite heads’ request alongside Eleazar and the tribal heads (1–2).
@@ -382,6 +390,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

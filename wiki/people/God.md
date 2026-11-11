@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Yahweh has given the brothers rest (4), and wholehearted love and service to him remain obligatory
+after dismissal (5). The eastern possession is affirmed as held under his command through Moses (9).
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The narrator attributes land, rest, and victory to Yahweh and declares every good promise fulfilled (43–45). This strong verdict stands alongside his statement of remaining land in Joshua 13:1; neither is erased.
@@ -3990,6 +3997,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 

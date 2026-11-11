@@ -188,6 +188,11 @@ possessions; Hebron’s fields and villages remain Caleb’s.
 and every good word fulfilled. This comprehensive verdict stands alongside remaining land
 and inhabitants; Joshua 23 will repeat fulfillment while warning of loss through disobedience.
 
+[[The Eastern Tribes Sent Home]] (22:1–9) releases Reuben, Gad, and half of Manasseh once
+their brothers have rest. Joshua commends their service, blesses their return, and charges them
+to keep loving and serving Yahweh and to share the plunder; the eastern grant stays part of
+Israel’s common life.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -204,7 +209,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **37 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **38 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -243,7 +248,7 @@ Plan drawn 2026-11-10 from the stored WEB. **37 / 42 pericopes ingested.**
 - [x] [[The Cities of Refuge Appointed]] — Joshua 20:1–9
 - [x] [[The Cities of the Levites]] — Joshua 21:1–42
 - [x] [[Not One Good Thing Failed]] — Joshua 21:43–45
-- [ ] The Eastern Tribes Sent Home — Joshua 22:1–9
+- [x] [[The Eastern Tribes Sent Home]] — Joshua 22:1–9
 - [ ] The Altar of Witness by the Jordan — Joshua 22:10–34
 - [ ] Joshua's Farewell to the Leaders — Joshua 23:1–16
 - [ ] The Covenant at Shechem — Joshua 24:1–28

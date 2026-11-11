@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The eastern tribes’ faithful service ends with authorized return and shared spoils (2–8). Rest in
+verse 4 does not erase the remaining-land and non-removal notices of Joshua 13:1, 16:10, and
+17:12–13.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 No enemy stands before Israel and Yahweh delivers all enemies into their hand (44). The comprehensive victory claim coexists with the remaining inhabitants of 16:10 and 17:12–13; it cannot simply be restated as universal extermination.
@@ -673,6 +681,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Dan takes Leshem (47).

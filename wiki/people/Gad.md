@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The Gadite descendants share the commendation, blessing, and authorized return to Gilead (1–9). The
+original request for eastern land in Numbers 32 has not resulted in the abandonment of their
+brothers feared by Moses.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:7, 38–39). The ancestor is not an actor in this distribution.
@@ -201,6 +209,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

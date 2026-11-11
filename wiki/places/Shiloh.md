@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The eastern tribes depart from the children of Israel here in Canaan toward Gilead (9). The place of
+the allotment becomes the departure point for the authorized return.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The Levite heads petition Eleazar, Joshua, and the tribal heads here in Canaan (1–2).
@@ -27,6 +34,8 @@ or describing a stone temple.
 Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.

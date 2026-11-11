@@ -75,6 +75,9 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 - [[Brotherhood]]
 
 ## Cross-references
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9 now records the authorized return after the brothers receive rest.
+
 - [[When Your Children Ask - Exodus, Deuteronomy, and Joshua]]
 - [[Dry Ground in the Midst of the Sea - Creation, Flood, and Exodus 14]]
 - [[I Will Be With You - The Promise of Presence]]

@@ -14,13 +14,23 @@ tags: [connection]
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:19, Amalek to be blotted
   out *when Yahweh your God has given you rest from all your enemies all around* (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:13–15 (stored WEB).
-- Joshua 22:4, 23:1 — the rest reported as given *(stored WEB, not yet ingested)*.
+- [[The Eastern Tribes Sent Home]] — Joshua 22:4; rest authorizes return (stored WEB).
+- Joshua 23:1 — rest reported as given (stored WEB, not yet ingested).
 - [[The Whole Land Taken]] — Joshua 11:23, *the land had rest from war*, a different verb
   (stored WEB); 14:15 repeats the clause in [[Caleb Claims Hebron]] (stored WEB).
 - Psalm 95:11 — *"They won't enter into my rest"* *(WEB via bible-api.com, not yet ingested)*.
 - Hebrews 4:8–9 — *"if Joshua had given them rest"* *(WEB via bible-api.com, not yet ingested)*.
 
 ## Analysis
+
+### Rest authorizes return
+
+In Joshua 22:4 the promise becomes a practical decision: the eastern warriors may return
+because their brothers now have rest. Verse 5 immediately renews the call to obedience;
+rest does not mean covenant obligations have ended. This is military release, not a
+seventh-day observance. The remaining-land tension recorded above remains.
+
+Source: stored WEB Joshua 22:1–9.
 
 ### The allotment’s closing verdict
 

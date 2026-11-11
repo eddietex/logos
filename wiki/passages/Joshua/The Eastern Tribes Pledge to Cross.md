@@ -68,6 +68,7 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 
 ## Cross-references
 
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9 now records the authorized return after the brothers receive rest.
 - [[Crossing the Jordan]] — Joshua 3:1–17; the crossing confirms the successor and the ark leads the people.
 
 - [[After the Death of Moses]] — Joshua 1:1–9, the charge this passage carries out and whose

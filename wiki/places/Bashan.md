@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Verse 7 expressly recalls Moses giving half of Manasseh its inheritance here, while Joshua gives the
+other half land westward. Gilead’s collective destination wording in verse 9 does not cancel this
+distinction.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The half-tribe of Manasseh supplies Gershonite cities here, including Golan (6, 27).
@@ -111,6 +119,8 @@ Source: stored WEB Numbers 21:21–35.
 **Joshua 12:1–24 — the list of kings.** Og's kingdom is recalled *to the border of the Geshurites and the Maacathites* (12:5); see [[Geshur]] and [[Maacath]] and [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

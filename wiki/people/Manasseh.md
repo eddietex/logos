@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The eastern half-tribe shares the dismissal. Verse 7 distinguishes Moses’ grant in Bashan from
+Joshua’s western grant to the other half. One ancestral name spans two possessions; the patriarch
+himself is not present.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:5–6, 25, 27). The ancestor is not an actor in this distribution.
@@ -266,6 +274,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

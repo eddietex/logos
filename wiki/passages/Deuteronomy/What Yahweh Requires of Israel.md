@@ -79,6 +79,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]] — Joshua 22:5 renews this instruction at the eastern tribes’ discharge.
 - [[Circumcision of the Heart]]
 - [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]
 - [[Dust, Stars, and Sand - The Offspring Promises]]

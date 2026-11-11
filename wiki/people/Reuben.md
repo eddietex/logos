@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The Reubenite descendants are commended for remaining with their brothers and released to return
+with wealth to the eastern possession (1–9). The patriarch does not act here.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:7, 36–37). The ancestor is not an actor in this distribution.
@@ -315,6 +322,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

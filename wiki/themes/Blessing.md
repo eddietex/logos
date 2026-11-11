@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Joshua blesses the departing tribes (6–7); verse 8 adds a charge to return with wealth and divide
+the plunder. No separate fixed blessing formula is quoted.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 Joseph’s descendants invoke Yahweh’s blessing to explain their numbers (14). Joshua accepts their strength as a reason they can act, rather than treating blessing as exemption from labor or conflict.
@@ -557,6 +564,9 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
+
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

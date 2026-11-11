@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The tribes have not abandoned their brothers (3), may return when their brothers receive rest (4),
+and must share plunder with their brothers (8). The recipients of the division are not individually
+identified and no fraction is specified.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Israel supplies Levitical households from its own inheritances (3, 8); the tribal grants make room for those without a separate territorial allotment.
@@ -348,6 +356,8 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

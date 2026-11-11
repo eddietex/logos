@@ -25577,3 +25577,32 @@ is retained. Raw texts and canonical workflow instructions are unchanged.
 Validation: scripts/link-check.sh exits 0; no wrapped links or unexpected dangling targets,
 with 56 not-yet-started book targets expected. Quotation equality, touched index-row
 uniqueness, frontmatter totals, and git diff --check pass. No unresolved ingestion blocker.
+
+## [2026-11-11] ingest | Joshua 22.1-9 — The Eastern Tribes Sent Home
+
+Ingested [[The Eastern Tribes Sent Home]] in auto mode from stored WEB Joshua 22:1–9.
+Kept the planned boundary at verse 9, so the altar dispute (22:10–34) is the next unit.
+Joshua is now 38 / 42 pericopes ingested.
+Finished from a draft that an earlier run left uncommitted when it ran out of quota. I checked
+the draft against raw/ and the workflow, then committed it as this one ingest.
+Created one passage page and one connection
+([[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]]). Revised 29
+existing content pages: the book, five earlier passages, seven people, five places, nine themes,
+and two connections. Also updated eight indexes and dashboards and this log.
+Frontmatter totals: 432 passages, 283 people, 544 places, 87 themes, 830 connections;
+10 books started, 9 complete.
+
+Review fixes to the draft: moved the book-overview paragraph from the head of the Overview
+into canonical sequence after 21:43–45, and removed stray blank lines the draft had added.
+Judgment calls kept from the draft: the recipients of the shared plunder (8) are called
+*brothers* without a stated group or share. Reading them as those who stayed home is labeled
+as an inference. Gilead (9) names the return region collectively without erasing Bashan (7).
+The rest of verse 4 is military release, not weekly Sabbath. It stays beside the
+remaining-land notices of 13:1, 16:10 and 17:12–13. No minor figure needed a new page.
+
+All four quoted verses checked against stored WEB Joshua 22. Deuteronomy 10:12–13, 20 and
+11:13, 22, Numbers 32:6–7 and Joshua 4:13 were checked in stored WEB. No quotation from an
+unstored book and no source-language claim. Raw texts and workflow instructions are unchanged.
+
+Validation: scripts/link-check.sh exits 0 with 56 expected not-yet-started book targets;
+frontmatter totals match wiki/index.md; git diff --check passes. No unresolved blocker.

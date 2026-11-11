@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Shiloh is located in Canaan, and the eastern tribes leave it for their possession in Gilead (9). The
+distinction does not delegitimize the eastern grant, expressly attributed to Yahweh’s command
+through Moses.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The allotment closes with all the land given, possessed, and inhabited (43). Canaan is the narrative setting, not a name repeated in these verses. This comprehensive verdict remains in tension with the remaining land of 13:1 and non-removal in 16:10 and 17:12–13.
@@ -502,6 +510,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 

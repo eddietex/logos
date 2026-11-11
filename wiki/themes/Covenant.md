@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Joshua sends the tribes home under a continuing charge of love and obedience (5). The covenant
+framework persists across the river; this unit narrates no new covenant-making ceremony.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 Land and rest fulfill the oath to the fathers (43–44); no new covenant ceremony occurs. The later warning of land loss in Joshua 23:14–16 keeps fulfillment from meaning immunity to the consequences of covenant breach.
@@ -651,6 +658,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 

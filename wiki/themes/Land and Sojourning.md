@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+The eastern possession remains legitimate under Yahweh’s command through Moses (4, 9). Manasseh’s
+two halves have grants from different leaders on opposite sides of the river (7); geographic
+separation does not end common obligations.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The narrator affirms gift, possession, and dwelling in all the promised land (43). This is stronger than allocation alone and remains explicitly in tension with land still to possess (13:1) and inhabitants not removed (16:10; 17:12–13).
@@ -1012,6 +1020,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 

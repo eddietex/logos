@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The eastern tribes sent home — Joshua 22:1–9
+
+Returning warriors carry livestock, precious and useful metals, and clothing, and must divide their
+plunder with their brothers (8). The text neither names each recipient nor prescribes a proportion.
+
+See [[The Eastern Tribes Sent Home]]. Source: stored WEB Joshua 22:1–9; comparisons as cited.
+
 ### The capture of Ai — Joshua 8:1–29
 
 What was forbidden at Jericho is given at Ai: *you shall take its goods and its livestock for
@@ -894,6 +901,8 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26.

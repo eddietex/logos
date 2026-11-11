@@ -82,6 +82,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]] — Joshua 22:5 renews this instruction at the eastern tribes’ discharge.
 - [[Watered with Your Foot - Egypt and the Land That Drinks the Rain]]
 - [[Korah Died but His Sons Lived - Numbers 16 and 26]]
 - [[Your Eyes Have Seen - Remembered Victory and Joshua’s Courage]]
