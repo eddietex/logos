@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+Right after the brothers part, they nearly go to war over a sign meant to keep them together.
+The western tribes offer room *among us* (19). The eastern tribes fear for *our children* in
+relation to *your children* (24–25). The dispute is settled without fighting.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The tribes have not abandoned their brothers (3), may return when their brothers receive rest (4),
@@ -356,6 +364,8 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

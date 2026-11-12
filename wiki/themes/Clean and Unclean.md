@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:19
+
+*If the land of your possession is unclean* applies the categories of clean and unclean to
+territory. The verse states the possibility as a condition, not a verdict, and offers land west
+of the Jordan *among us* instead.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Outside the camp until sunset — Deuteronomy 23:10–11
 
 A man *"not clean by reason of that which happens him by night"* goes outside the war camp, bathes at
@@ -542,6 +550,8 @@ uncleanness of the dead (Numbers 19:11; Leviticus 22:4). What *"for the dead"* r
 said. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:14; Numbers 19:11; Leviticus 22:4.
 
 ## Key passages
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; home slaughter eaten by unclean and clean alike (15, 22).
 - [[The Levitical Cities and the Cities of Refuge]] — Numbers 35:1–34.

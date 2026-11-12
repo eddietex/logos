@@ -85,6 +85,7 @@ Copied verbatim from stored WEB, `raw/bible/Numbers.md`.
 - [[Strife and Peacemaking]]
 
 ## Cross-references
+- [[The Altar of Witness by the Jordan]] — Joshua 22:13–31; Phinehas leads the inquiry, and Peor is recalled as *not cleansed … to this day* (17).
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:3–4 recalls Peor as warning: the followers destroyed, the faithful alive.
 - [[Credited to Him for Righteousness - Genesis 15.6 in Paul and James]]
 - [[Hanged on a Tree - Genesis 40, Deuteronomy 21, and Galatians 3]]

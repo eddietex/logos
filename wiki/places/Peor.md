@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Peor remembered — Joshua 22:17
+
+*Is the iniquity of Peor too little for us, from which we have not cleansed ourselves to this day,
+although there came a plague on the congregation of Yahweh?* (17). The passage page records this
+claim beside Numbers 25:8, 11 and Deuteronomy 4:4, where the plague is stayed and the faithful
+survive.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Baal Peor — Numbers 25:1–18
 
 Numbers 25 uses Peor for the affair associated with Baal Peor (18). The height in Numbers 23:28,
@@ -23,6 +32,8 @@ is not established by this text.
 Source: stored WEB Numbers 23:27–24:25.
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The War Against Midian]] — Numbers 31:1–54; *the matter of Peor*, the reason Moses gives for his order (16).
 

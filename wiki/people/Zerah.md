@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Achan remembered — Joshua 22:20
+
+*Achan the son of Zerah* (20) shortens the lineage given in 7:1, 18 (son of Carmi, son of Zabdi,
+son of Zerah). Here *son* means descendant. The text does not explain the shortening.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The sin of Achan — Joshua 7:1–26
 
 The selection passes through the family of the Zerahites (17), and Achan is identified twice as the
@@ -80,6 +87,8 @@ own, so **no collision arises here**; if he is ever given one, both take a quali
 - Matthew 1:3 — named in the genealogy of Jesus
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Second Census]] — Numbers 26:1–65.

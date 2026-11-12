@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+A great altar is built *by the Jordan*, on the side the WEB places in Canaan (10–11). The eastern
+tribes fear that their descendants will be told *Yahweh has made the Jordan a border between us
+and you* (25). The river that the crossing turned into a way in is now feared as a way out of
+the covenant people.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The river distinguishes Moses’ eastern grant from Joshua’s western grant to Manasseh (4, 7). The
@@ -339,6 +348,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

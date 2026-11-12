@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+Israel musters at Shiloh against its own tribes (12) and then calls the war off (33). This is
+the first threat of war between tribes in Joshua, and the inquiry comes before any battle.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The eastern tribes’ faithful service ends with authorized return and shared spoils (2–8). Rest in
@@ -681,6 +688,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

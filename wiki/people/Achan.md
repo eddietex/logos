@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Remembered at the Jordan — Joshua 22:20
+
+The delegation recalls him as *Achan the son of Zerah*: *wrath fell on all the congregation of
+Israel. That man didn't perish alone in his iniquity* (20). The patronymic is shortened from the
+four generations of 7:1, 18. Zerah is his ancestor, not his father. His case becomes a precedent:
+one member's trespass endangers the whole people, which is why an eastern altar is the western
+tribes' business.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The capture of Ai — Joshua 8:1–29
 
 Achan is not named in chapter 8, but the battle is fought twice because of him. Two details look
@@ -63,6 +73,8 @@ Source: stored WEB Joshua 6–7, 22:20; WLC (morphhb), retrieved 2026-11-10.
 - Cited as a warning — Joshua 22:20; named *Achar* in 1 Chronicles 2:7
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
 - [[The Sin of Achan]] — Joshua 7:1–26

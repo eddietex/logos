@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### A witness formula reused — Joshua 22:27–28, 34
+
+Galeed's *witness between me and you* (Genesis 31:44, 48) returns as *a witness between us and you*
+for the altar by the Jordan, built by tribes going home to Gilead. Joshua 22 does not name
+Galeed. The connection page records a shared formula, not a deliberate allusion. See
+[[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 **A pile of stones on a hill in [[Gilead]], and the only place in the Bible that is given three names
 in six verses.**
 

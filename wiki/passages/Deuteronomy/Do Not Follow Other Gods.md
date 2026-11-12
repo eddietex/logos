@@ -92,6 +92,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[The Altar of Witness by the Jordan]] — Joshua 22:12–14; the congregation inquires before going to war, as 13:14 requires for a reported apostasy.
 - [[A Heap Forever - Deuteronomy 13.16, Joshua 8.28, and Jeremiah]] — *tēl ʿôlām*, the apostate
   city's sentence (13:16), applied to Ai at Joshua 8:28.
 - [[The Place Yahweh Will Choose]] — 12:1–28; the same refrain, *"You shall not do so to Yahweh

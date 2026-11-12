@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+A monument is built for a question in *time to come* (24, 27–28). Joshua 4's stones prompt
+children to ask what Yahweh did. This altar answers a question the builders fear: whether the
+eastern tribes have *portion in Yahweh*. See
+[[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Caleb’s inheritance — Joshua 14:6–15
 
 Caleb’s appeal makes the commission, failed report, and oath at Kadesh govern the present allocation at Gilgal (6–10). Remembering here creates a claim on present leadership.
@@ -740,6 +749,8 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 

@@ -11,6 +11,7 @@ tags: [connection]
 - Psalm 106:28–31; 1 Corinthians 10:8 — verified WEB, not yet ingested.
 - [[The War Against Midian]] — Numbers 31:16, Numbers' own retrospect on Peor.
 - [[Hear the Statutes and Remember Horeb]] — Deuteronomy 4:3–4, Moses' retrospect to the survivors.
+- [[The Altar of Witness by the Jordan]] — Joshua 22:17, the delegation's retrospect in the land.
 
 ## Analysis
 
@@ -40,6 +41,15 @@ Yahweh your God are all alive today.* It names neither Phinehas, the Midianite w
 gives no number. Where Psalm 106 makes Peor a story about intervention and Numbers 31:16 about
 Balaam's counsel, Deuteronomy makes it a proof that obedience is life (4:1). Source: stored WEB
 Deuteronomy 4:3–4.
+
+**Joshua's retrospect — iniquity not yet cleansed.** Joshua 22:17 asks, *Is the iniquity of Peor
+too little for us, from which we have not cleansed ourselves to this day, although there came a
+plague on the congregation of Yahweh*. The speakers are a delegation led by Phinehas himself.
+This is in tension with Numbers 25:8, 11, where the plague is *stayed* and Yahweh's wrath turned
+away, and with Deuteronomy 4:4, where the faithful *are all alive today*. Numbers and Deuteronomy
+present the episode as closed by intervention or judgment. Joshua 22 presents its guilt as still
+open and uses it as a warning of corporate danger (18). The text does not say what remains
+uncleansed, and the wiki keeps both claims. Source: stored WEB Joshua 22:17–18.
 
 ## Significance
 

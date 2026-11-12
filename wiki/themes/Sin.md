@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+Trespass and rebellion are assessed by their corporate effect. *Tomorrow he will be angry with the
+whole congregation* (18), as with Peor (17) and with Achan, who *didn't perish alone in his
+iniquity* (20). The charge proves unfounded (31).
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The sin of Achan — Joshua 7:1–26
 
 Achan's sin is named in layers: trespass (maʿal, 1), covenant transgression, taking, stealing,
@@ -752,6 +760,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

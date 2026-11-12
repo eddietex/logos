@@ -82,6 +82,7 @@ Yahweh turns from his anger; the place is called *The valley of Achor* — *trou
 - [[Remembrance]]
 
 ## Cross-references
+- [[The Altar of Witness by the Jordan]] — Joshua 22:20; Achan recalled as the man who *didn't perish alone in his iniquity*.
 - [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]
 - [[The Valley of Achor - Trouble Turned to a Door of Hope]]
 - [[Saw, Coveted, Took - Eve and Achan]]

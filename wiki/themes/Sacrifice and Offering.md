@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+An altar is built *not for burnt offering, nor for sacrifice* (26, 28). Its builders deny
+offering burnt, meal, or peace offerings on it (23, 29), and it serves only as a copy pointing to
+the one altar. The dispute applies Deuteronomy 12's one-altar rule; see
+[[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]].
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Offerings made by fire provide Levi’s inheritance (14), framing sacrifice as support alongside the divine-inheritance statement in verse 33. No new sacrificial ceremony is narrated.
@@ -760,6 +769,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

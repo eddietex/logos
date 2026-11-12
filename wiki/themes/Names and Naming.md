@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:34
+
+Reuben and Gad name the altar *A Witness Between Us that Yahweh is God* (WEB). The name states
+the altar's purpose. Translations render the naming differently, and the wiki follows the WEB
+without a claim about the Hebrew.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The last three lots — Joshua 19:24–48
 
 Leshem is renamed Dan *after the name of Dan their forefather* (47) — a conquered city taking an ancestor’s name. Repeated names across the registers (Ramah, Rehob, Jabneel, Beth Shemesh, Edrei, Beth Dagon) are kept on separate pages unless the text identifies them.
@@ -308,6 +316,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.

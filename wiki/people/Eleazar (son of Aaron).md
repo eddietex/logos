@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The altar by the Jordan — Joshua 22:10–34
+
+Named only as Phinehas's father, *Eleazar the priest* (13, 31–32). He does not act. His son leads
+the delegation, although Eleazar shared the allotment's leadership with Joshua in 14:1 and 21:1.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The Levite heads approach him as priest alongside Joshua and the tribal heads (1).
@@ -326,6 +333,8 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 - Numbers 10:8 — Among the unnamed sons of Aaron, the priests who blow the trumpets. [[The Two Silver Trumpets]]
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.

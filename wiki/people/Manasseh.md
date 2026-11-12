@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+The eastern half-tribe joins in building the altar and answering the charge (10, 21). Verse 30
+calls them *the children of Manasseh*, and verse 34 names only Reuben and Gad as giving the
+altar its name. The text does not explain either variation.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The eastern half-tribe shares the dismissal. Verse 7 distinguishes Moses’ grant in Bashan from
@@ -274,6 +282,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:23 — Manasseh marches in Ephraim's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

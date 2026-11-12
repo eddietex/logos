@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+The delegation goes *into the land of Gilead* and returns from it (13, 15, 32). Verse 19 asks
+whether the eastern possession is *unclean*, and the eastern tribes' answer insists that they
+still have a portion in Yahweh. Laban's witness heap, Galeed, stood in Gilead (Genesis 31:47–48).
+See [[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Named collectively as the eastern tribes’ destination and possession under Yahweh’s command through
@@ -125,6 +134,8 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 **Joshua 12:1–24 — the list of kings.** Divided between the two kings: Sihon ruled *half Gilead* to the Jabbok (12:2), and Og ruled *half Gilead* to Sihon's border (5). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

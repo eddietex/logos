@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+Phinehas, son of Eleazar the priest, leads the delegation and declares its outcome (13, 30–31).
+The one legitimate altar stands *before his tabernacle* (29). The eastern altar is denied any
+priestly or sacrificial use.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The list distinguishes Aaron’s thirteen priestly cities from the remaining Kohathites’ ten, Gershon’s thirteen, and Merari’s twelve (4–7, 19–40). Not every Levite is thereby called an Aaronic priest.
@@ -791,6 +799,8 @@ to do."* *Yôrû*, hiphil of *yārâ*, *teach*, is the verb of 17:11 (WLC). Deut
 the priests without restating the procedure. See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+The Gadite descendants share in building the altar, the defense of 21–29, and the naming in 34.
+They fear their children will hear *You have no portion in Yahweh* (25). The patriarch does not
+act.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The Gadite descendants share the commendation, blessing, and authorized return to Gilead (1–9). The
@@ -209,6 +217,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:20 — Gad marches in Reuben's camp. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

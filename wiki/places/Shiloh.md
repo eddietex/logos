@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+The whole congregation gathers here to go to war over the eastern altar (12). Shiloh's tabernacle
+is the reference point of the dispute: the altar *before his tabernacle* (29) is the only place
+of sacrifice, and the eastern altar claims only to copy it.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The eastern tribes depart from the children of Israel here in Canaan toward Gilead (9). The place of
@@ -34,6 +42,8 @@ or describing a stone temple.
 Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

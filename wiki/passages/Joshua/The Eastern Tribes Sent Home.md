@@ -63,6 +63,7 @@ on both sides of the Jordan and locates the departure at Shiloh in Canaan, towar
 
 ## Cross-references
 
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34; the altar dispute that follows the dismissal.
 - [[The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22]] — Numbers 32:1–42, Deuteronomy 3:18–20, and Joshua 1:12–18; the undertaking reaches its discharge.
 - [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]] — Joshua 21:43–45 becomes the ground for dismissal in 22:4.
 - [[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]] — Joshua 22:5 renews the demands of Deuteronomy 10:12–13, 20 and 11:13, 22.

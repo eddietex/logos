@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+The Reubenite descendants help build the altar by the Jordan, answer the charge of rebellion, and
+with Gad name it *A Witness Between Us that Yahweh is God* (34). The patriarch does not act.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The Reubenite descendants are commended for remaining with their brothers and released to return
@@ -322,6 +329,8 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 10:18 — Reuben's camp sets out second. [[The March from Sinai]]
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

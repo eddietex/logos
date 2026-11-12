@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+The WEB places the altar *in the land of Canaan* (10–11), and the delegation returns from Gilead
+*to the land of Canaan* (32). Verse 19 calls the western land *the land of the possession of
+Yahweh, in which Yahweh's tabernacle dwells*, and contrasts it, conditionally, with an eastern
+land that might be *unclean*.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Shiloh is located in Canaan, and the eastern tribes leave it for their possession in Gilead (9). The
@@ -510,6 +519,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

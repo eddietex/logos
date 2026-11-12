@@ -17,10 +17,26 @@ tags: [connection]
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18; Joshua reminds the two and a half tribes, and they pledge (stored WEB).
 - Joshua 4:12–13 — they cross armed (stored WEB; now ingested).
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9; authorized return, continuing obedience, and shared plunder (stored WEB).
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34; the altar, the near war, and the eastern tribes' claim to a *portion in Yahweh* (stored WEB).
 - Judges 5:15–17 — Deborah's song on Reuben and Gilead *(WEB via bible-api.com, not yet ingested)*
 - 1 Chronicles 5:18–26 — their wars and their exile *(WEB via bible-api.com, not yet ingested)*
 
 ## Analysis
+
+### The altar dispute now ingested — Joshua 22:10–34
+
+The agreement's first test comes after it is discharged. The eastern tribes build an altar by
+the Jordan, and the western tribes muster at Shiloh for war (10–12). A delegation under Phinehas
+calls the altar rebellion and offers the eastern tribes land *among us* if theirs is *unclean*
+(19). The eastern tribes answer that the altar is a witness and not for sacrifice. They built it
+so their children would not be told *You have no portion in Yahweh*, with the Jordan as the
+border (24–28). The answer is accepted and war is called off (30–33). The question Moses raised
+in Numbers 32, whether two tribes who stay east are still with their brothers, comes back as a
+question about worship rather than military service. In this unit the eastern tribes' loyalty is
+affirmed. Joshua 22:2–3's commendation therefore stands, and the altar episode does not overturn
+it.
+
+Source: stored WEB Joshua 22:10–34.
 
 ### Discharge now ingested — Joshua 22:1–9
 
@@ -102,8 +118,8 @@ gives none of these details, and it never says the half-tribe of Manasseh agreed
 later texts treat all two and a half tribes as bound by it.
 
 **The tribes kept their word; the outcome was mixed.** Joshua 22:2–3 is an unqualified commendation. What
-follows in Joshua 22:10–34 (not yet ingested) is the altar by the Jordan and a near war between the
-eastern and western tribes. Deborah's song asks *Why did you sit among the sheepfolds?* of Reuben and says
+follows in Joshua 22:10–34 (now ingested; see [[The Altar of Witness by the Jordan]]) is the altar by the Jordan and a near
+war between the eastern and western tribes, ended by inquiry rather than battle. Deborah's song asks *Why did you sit among the sheepfolds?* of Reuben and says
 *Gilead lived beyond the Jordan* (Judges 5:16–17) — *sit*, the verb of Moses' question at Numbers 32:6
 (English *sit* in both, WEB; the Hebrew of Judges 5 was not checked in this pass). 1 Chronicles 5:25–26
 names the two and a half tribes as those carried away by Pul and Tilgath Pilneser *to this day*.

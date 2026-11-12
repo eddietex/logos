@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+The western land is *the land of the possession of Yahweh, in which Yahweh's tabernacle dwells*
+(19). The single altar *before his tabernacle* (29) defines legitimate sacrifice. Phinehas also
+concludes that *Yahweh is among us* (31) from Israel's faithfulness, not from the place.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 The Tent’s door at Shiloh is the setting of distribution before Yahweh (51). Sanctuary and public administration meet without a report of a new glory manifestation or a stone temple.
@@ -632,6 +640,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 

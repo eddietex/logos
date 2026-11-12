@@ -101,6 +101,7 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34; an altar by the Jordan defended as a copy, not a place of sacrifice.
 - [[Set These Words Before You]] — 11:18–32; *"the statutes and the ordinances which I set before
   you today"* (11:32) are opened here (12:1).
 - [[One Place or Every Place - Exodus 20.24, Leviticus 17, and Deuteronomy 12]] — the altar law,

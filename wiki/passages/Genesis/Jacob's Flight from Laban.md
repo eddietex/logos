@@ -750,6 +750,7 @@ foreigners**, and Israel's confession of them is a single line about a wandering
 
 ## Cross-references
 
+- [[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]] — Galeed's witness formula recurs at the Jordan altar (Joshua 22:27–28) and the Shechem stone (Joshua 24:27).
 - [[The Altar and the Hebrew Slave]] — Exodus 21:4; *"the wife and her children shall be her
   master's"*, the claim Laban makes at 31:43 (*"the daughters are my daughters, the children are my
   children"*), granted by the law to a master and not granted to Laban by Genesis. See

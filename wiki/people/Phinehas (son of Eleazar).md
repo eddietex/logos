@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The altar by the Jordan — Joshua 22:10–34
+
+Phinehas leads ten princes into Gilead to question the eastern tribes before the congregation
+goes to war (13–14). The delegation recalls Peor, where he stopped the plague, and says Israel
+has *not cleansed* itself of it *to this day* (17); see the contradiction recorded on the
+passage page. He accepts the eastern tribes' answer: *Today we know that Yahweh is among us*, and
+*you have delivered the children of Israel out of Yahweh's hand* (31). This is his first act in
+the land, and it is a hearing, not a spear.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The war against Midian — Numbers 31:1–54
 
 Phinehas goes with the twelve thousand *with the vessels of the sanctuary and the trumpets for the alarm
@@ -52,8 +63,11 @@ The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1
   [[The Heads of the Fathers' Houses]]
 - The spear at Peor and the covenant of peace — Numbers 25:6–13; [[Baal Peor and the Zeal of Phinehas]]
 - With the army against Midian, holding the sanctuary vessels and trumpets — Numbers 31:6; [[The War Against Midian]]
+- Leads the delegation to the eastern tribes over the altar by the Jordan — Joshua 22:13–32; [[The Altar of Witness by the Jordan]]
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The War Against Midian]] — Numbers 31:1–54; with the army, the sanctuary vessels, and the trumpets (6).
 

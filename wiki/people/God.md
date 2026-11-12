@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The altar of witness — Joshua 22:10–34
+
+Invoked twice under one triple title, *The Mighty One, God, Yahweh* (WEB), as the one who
+*knows* (22). His tabernacle marks the land of his possession (19), and Phinehas concludes from
+the absence of trespass that *Yahweh is among us* (31). The altar's name confesses *that Yahweh
+is God* (34).
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Yahweh has given the brothers rest (4), and wholehearted love and service to him remain obligatory
@@ -3997,6 +4006,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

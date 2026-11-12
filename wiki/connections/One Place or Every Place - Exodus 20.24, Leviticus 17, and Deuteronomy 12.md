@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Stones and an Altar on Mount Ebal]] — Deuteronomy 27:1–10.
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Altar and the Hebrew Slave]] — Exodus 20:24: *"You shall make an altar of earth for me …
   In every place where I record my name I will come to you and I will bless you."*
@@ -74,6 +75,20 @@ rules. A specifically authorized entry ceremony can explain the distinction, but
 a contextual reading. The command does not authorize unrestricted local altars.
 
 Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
+
+### An altar not for sacrifice — Joshua 22:10–34
+
+Joshua 22 is the first narrative test of Deuteronomy 12 after the sanctuary is fixed at Shiloh.
+Both sides accept the one-altar rule. The western delegation calls *an altar other than Yahweh
+our God's altar* rebellion (19), and the eastern tribes call building one *for burnt offering,
+for meal offering, or for sacrifice, besides Yahweh our God's altar that is before his
+tabernacle* unthinkable (29). The dispute is over what the eastern altar is for, not over the
+law. Its builders define it as a copy, *the pattern of Yahweh's altar* (28), and as a witness
+with no sacrificial use. The text accepts that definition (30–33). In this narrative an object
+shaped like an altar can stand away from the chosen place if nothing is offered on it. The
+Ebal altar of Joshua 8:30–31, by contrast, received offerings by express command.
+
+Source: stored WEB Joshua 22:10–34; Joshua 8:30–31.
 
 ## Significance
 

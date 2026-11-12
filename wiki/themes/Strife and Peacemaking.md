@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:10–34
+
+A war mustered at Shiloh (12) is ended by a delegation, an accusation, an explanation, and a
+verdict (13–33). The western tribes speak before they march. The eastern tribes answer the
+charge instead of resenting it, and Israel *spoke no more of going up against them to war* (33).
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### Proclaim peace — Deuteronomy 20:10–12
 
 *"When you draw near to a city to fight against it, then proclaim peace to it"* (10). A city that
@@ -407,6 +415,8 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 

@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Consecration of the Firstborn]] — Exodus 13:8–16.
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:20–25.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:6–7, 21–24.
+- [[The Altar of Witness by the Jordan]] — Joshua 22:24–28; the question the builders fear.
 
 ## Analysis
 
@@ -25,6 +26,19 @@ per tribe brings a stone; the parents’ explanation gives this national memoria
 
 Source: stored WEB Exodus 12:26–27; 13:8–16; Deuteronomy 6:20–25; Joshua 4:6–7, 21–24.
 Descriptions are paraphrases; no source-language equivalence is asserted.
+
+### The question reversed — Joshua 22:24–28
+
+Joshua 22 turns the pattern around. The eastern tribes imagine the western tribes' children
+telling theirs, *What have you to do with Yahweh, the God of Israel?* and *You have no portion
+in Yahweh* (24–25). The altar is built so that their own reply is ready: *Behold the pattern of
+Yahweh's altar, which our fathers made … a witness between us and you* (28). Here the children's
+question excludes rather than asks, and the sign is meant to answer it. Like the stones of Joshua
+4, the altar stands by the Jordan. Unlike them, it imitates an altar while being denied any
+sacrificial use (26, 29). See also
+[[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
+
+Source: stored WEB Joshua 22:24–29.
 
 ## Significance
 

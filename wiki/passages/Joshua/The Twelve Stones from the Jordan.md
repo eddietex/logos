@@ -76,6 +76,7 @@ Copied verbatim from stored WEB, raw/bible/Joshua.md.
 
 ## Cross-references
 
+- [[The Altar of Witness by the Jordan]] — Joshua 22:24–28; a second sign by the Jordan, built for a feared question in time to come.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9 now records the authorized return after the brothers receive rest.
 
 - [[When Your Children Ask - Exodus, Deuteronomy, and Joshua]]

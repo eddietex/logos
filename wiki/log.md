@@ -25606,3 +25606,39 @@ unstored book and no source-language claim. Raw texts and workflow instructions 
 
 Validation: scripts/link-check.sh exits 0 with 56 expected not-yet-started book targets;
 frontmatter totals match wiki/index.md; git diff --check passes. No unresolved blocker.
+
+## [2026-11-12] ingest | Joshua 22.10-34 — The Altar of Witness by the Jordan
+
+Ingested [[The Altar of Witness by the Jordan]] in auto mode from stored WEB Joshua 22:10–34.
+Kept the planned boundaries at 22:10 and 22:34, so Joshua's farewell (23:1–16) is next. Joshua
+is now 39 / 42 pericopes ingested.
+Created one passage page and one connection,
+[[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]]. Revised 37 existing
+content pages: the book, seven earlier passages, eight people, six places, eleven themes, and
+four connections. Also updated ten indexes and dashboards and this log.
+Frontmatter totals: 433 passages, 283 people, 544 places, 87 themes, 831 connections;
+10 books started, 9 complete.
+
+Contradiction flagged rather than resolved: Joshua 22:17 says Peor's iniquity is *not cleansed …
+to this day*. Numbers 25:8, 11 and Deuteronomy 4:4 say the plague was stayed and the faithful
+survived. It is recorded on the passage page, on [[Peor]], and on the Baal Peor Remembered
+connection.
+Judgment calls: the altar's location follows the WEB (*in the land of Canaan*, 10–11), and no
+claim is made about the Hebrew of verse 11. Verse 34's naming follows the WEB, with a note that
+translations differ. The doubled divine title in verse 22 is described from the WEB only.
+Joshua's absence from the unit is noted, not explained. Deuteronomy 13:14's inquiry is called a
+procedural resemblance, not a fulfillment. The Galeed link is called a shared formula, not a
+deliberate allusion. No minor figure needed a new page. The ten princes are unnamed and stay on
+the passage page.
+Repaired two malformed index rows found while updating: [[Remembrance]] in the themes index
+(a missing cell separator after the name) and [[Zerah]] in People Index N-Z (a missing space
+before a separator).
+
+All six key verses were checked character-for-character against stored WEB Joshua 22. These
+comparisons were checked in stored WEB: Genesis 31:44–53; Numbers 25:8–11; 32:14–15;
+Deuteronomy 4:3–4; 13:12–15; 31:19, 26; Joshua 8:31; 24:26–27. Joshua 24 is quoted from the
+stored raw text before its ingest. No quotation from an unstored book and no source-language
+claim. Raw texts and workflow instructions are unchanged.
+
+Validation: scripts/link-check.sh exits 0 with 56 expected not-yet-started book targets;
+frontmatter totals match wiki/index.md; git diff --check passes. No unresolved blocker.

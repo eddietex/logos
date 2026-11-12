@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of witness — Joshua 22:25
+
+The eastern tribes fear that later generations will *make our children cease from fearing
+Yahweh* by denying them any portion in him (25). Fear of Yahweh is treated as something one
+generation can strengthen or take away from the next.
+
+See [[The Altar of Witness by the Jordan]]. Source: stored WEB Joshua 22:10–34; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Israel is to fear Yahweh forever (24). It also fears Joshua as it feared Moses (14); respect for the
@@ -526,6 +534,7 @@ and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or 
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
