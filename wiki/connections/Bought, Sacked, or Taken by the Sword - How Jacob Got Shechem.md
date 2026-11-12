@@ -12,8 +12,9 @@ tags: [connection]
 - Genesis 34:25–30 — his sons sack the city; Jacob disowns the act on grounds of safety
 - Genesis 48:21–22 — *"I have given to you one portion above your brothers, which I took out of the
   hand of the Amorite with my sword and with my bow."*
-- Joshua 24:32 — Joseph's bones buried *"in the parcel of ground which Jacob bought of the sons of
-  Hamor the father of Shechem for a hundred pieces of money"*
+- Joshua 24:32 — Joseph's bones buried *"in the parcel of ground which Jacob bought from the sons of
+  Hamor the father of Shechem for a hundred pieces of silver"* —
+  [[The Burials of Joshua, Joseph, and Eleazar]]
 - John 4:5 — *"the parcel of ground that Jacob gave to his son, Joseph"*
 
 ## Analysis
@@ -52,8 +53,9 @@ certainly intended, and it is the only place in Genesis where Jacob claims a con
    the least of the verse and the most of the book's composition.
 
 **The rest of the Bible follows the purchase, not the sword.** Joshua 24:32 buries Joseph's bones in
-the parcel *"which Jacob bought of the sons of Hamor… for a hundred pieces of money"*, quoting 33:19
-almost word for word and giving the land three owners in sequence — bought by Jacob, willed to
+the parcel *"which Jacob bought from the sons of Hamor… for a hundred pieces of silver"*, echoing 33:19
+closely (the WEB has *pieces of money* there and *pieces of silver* here; quotations corrected to the
+stored WEB when Joshua 24 was ingested) and giving the land three owners in sequence — bought by Jacob, willed to
 Joseph, and finally *"the inheritance of the children of Joseph"*. **John 4:5 keeps the same line**,
 placing the well outside Sychar on *"the parcel of ground that Jacob gave to his son, Joseph"*.
 **Nothing outside Genesis 48:22 remembers a sword at Shechem at all.**

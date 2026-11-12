@@ -25708,3 +25708,45 @@ Genesis, Exodus, Numbers, Deuteronomy, and Joshua as listed in the passage page'
 Judges 2:7 and 11:25 were checked at bible-api.com (`translation=web`) before being quoted; no
 Judges text was stored. No source-language claim. Raw texts and workflow instructions are
 unchanged.
+
+## [2026-11-12] ingest | Joshua 24.29-33 — The Burials of Joshua, Joseph, and Eleazar
+
+Ingested [[The Burials of Joshua, Joseph, and Eleazar]] in auto mode from stored WEB Joshua
+24:29–33, the last pericope of the book. Kept the planned boundary. Joshua is now 42 / 42 and
+marked `complete`; no book is `in-progress`, so the next run opens a new book under the
+`## Priority` / canonical rule.
+
+Created one passage page, two places ([[Mount Gaash]], [[The Hill of Phinehas]]), and two
+connections ([[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]] and
+[[The Servant of Yahweh - Moses' Title Given to Joshua]]). Revised the book page, two earlier
+passages ([[The Covenant at Shechem]], [[The Deaths of Jacob and Joseph]]), nine people, four
+places, eight themes, and six connections; updated the books, people, places, themes, and
+connections indexes and the dashboard counts. Frontmatter totals: 436 passages, 283 people, 546
+places, 87 themes, 837 connections; 10 books started, 10 complete.
+
+Quotation fix: five existing pages quoted Joshua 24:32 as *bought of the sons of Hamor … for a
+hundred pieces of money*. The stored WEB reads *bought from the sons of Hamor … for a hundred pieces
+of silver*. Corrected on [[Carry Up My Bones - Joseph's Oath and Its Keeping]],
+[[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]],
+[[Buried at Machpelah - The Six Graves of Genesis]], [[Hamor]], and [[Shechem (city)]]. Genesis
+33:19's WEB does say *pieces of money*; the English difference is noted, with no Hebrew claim.
+
+Contradiction flagged, not resolved: the hill *given* to Phinehas (24:33) beside Levi's having no
+land inheritance (13:14, 33) and the priests' cities lying in Judah, Simeon, and Benjamin (21:4).
+Recorded on the passage page, [[Phinehas (son of Eleazar)]], [[The Hill of Phinehas]], and
+[[Priesthood]].
+
+Judgment calls: the burial of Joseph's bones is left undated rather than placed after Joshua's
+death. The plural *They became the inheritance* is reported without resolving its subject.
+Phinehas is not said to succeed as high priest, since the text does not say so. The two readings of
+Joshua's posthumous title are recorded without choosing. *Timnath Heres* in Judges 2:9 is treated as
+the same place as Timnathserah on the basis of the identical location; the letter-transposition
+explanation is reported as common and unverified. No page was made for *the elders who outlived
+Joshua*. The *servant of Yahweh* count (fourteen for Moses in Joshua) is an English WEB count only.
+
+All Joshua 24 quotations were copied from stored WEB; comparisons were checked in stored WEB as
+listed in the passage page's Sources note. Judges 1:1 and 2:6–10 were checked at bible-api.com
+(`translation=web`); no Judges text was stored. The *wayyāqom* and Egyptian-lifespan remarks
+already on [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] were left as written and
+marked unchecked there. No new source-language claim. Raw texts and workflow instructions are
+unchanged. `scripts/link-check.sh` clean.

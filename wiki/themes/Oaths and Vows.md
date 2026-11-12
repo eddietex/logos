@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph's oath completed — Joshua 24:29–33
+
+Joseph's bones are buried at Shechem (32). The oath sworn at Genesis 50:25 and kept by Moses at
+Exodus 13:19 is completed here, across three books. See
+[[Carry Up My Bones - Joseph's Oath and Its Keeping]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 No oath formula is used, but the people bind themselves in words three times (16–18, 21, 24) and then accept being witnesses: *You are witnesses against yourselves … They said, "We are witnesses"* (22). A stone is added as a second witness (27). See [[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
@@ -514,6 +522,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's oath completed at Shechem (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the people as witnesses against themselves, and the witness stone (22, 27).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; no swearing by other gods (7).
 

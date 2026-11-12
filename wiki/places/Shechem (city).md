@@ -15,6 +15,14 @@ man himself.
 
 ## Overview
 
+### Joseph's grave — Joshua 24:29–33
+
+Joseph's bones, brought up out of Egypt, are buried here in the parcel Jacob bought (32), and it
+becomes *the inheritance of the children of Joseph*. The assembly of 24:1–28 and the grave share the
+place.
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Joshua gathers *all the tribes of Israel to Shechem* (1), recites Yahweh's history from Terah onward, demands a choice between Yahweh and other gods, and makes a covenant *that day*, *a statute and an ordinance in Shechem* (25). He sets up a great stone *under the oak that was by the sanctuary of Yahweh* (26). The command to *put away the foreign gods which are among you* (23) repeats Jacob's command before he buried his household's gods *under the oak which was by Shechem* (Genesis 35:2–4, stored WEB). What *the sanctuary of Yahweh* at Shechem was, the pericope does not say. See [[The Altar at Shechem and the Covenant at Shechem]] and [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
@@ -101,6 +109,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones buried in Jacob's parcel (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the assembly, the covenant, and the stone under the oak.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
@@ -135,7 +144,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
   given to you **one portion** above your brothers, which I took out of the hand of the Amorite with my
   sword and with my bow."* ***Šəkem ʾeḥād*** **is *one shoulder*, a share of land — and also *one
   Shechem***, **and Joshua 24:32 buries [[Joseph]]'s bones here, *"in the parcel of ground which Jacob
-  bought of the sons of [[Hamor]]"*.** **The double meaning is almost certainly intended.** **So is the
+  bought from the sons of [[Hamor]]"*.** **The double meaning is almost certainly intended.** **So is the
   problem**: Genesis narrates a purchase (33:19) and a massacre [[Jacob]] disowned (34:30), **and no
   battle he fought.** **His deathbed calls the previous occupants *Amorite* where the narrative said
   Hivite** (34:2). **Three accounts of how he came to hold this ground, and the book withdraws none of

@@ -21,7 +21,8 @@ tags: [connection]
 - Genesis 35:19–20 — Rachel buried on the way to Ephrath, with a pillar and no purchase; **the one
   matriarch who never arrives here**, and the one whose grave later Scripture disputes the location
   of. See [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]
-- Genesis 33:19; Joshua 24:32 — Jacob's *other* purchase, at Shechem, and Joseph's bones
+- Genesis 33:19; Joshua 24:32 — Jacob's *other* purchase, at Shechem, and Joseph's bones —
+  [[The Burials of Joshua, Joseph, and Eleazar]]
 - Acts 7:16 — Stephen's version, which merges the two purchases
 
 ## Analysis
@@ -77,7 +78,7 @@ company"* (50:9), is the largest thing in Genesis, and it exists to execute a de
 (35:19–20) — no field, no purchase, and Jacob is careful to explain the fact to Joseph decades later
 (48:7). **Joseph** dies in Egypt, is embalmed and put in a coffin (50:26), and his bones are carried
 out at the exodus (Exodus 13:19) and buried at **Shechem**, *"in the parcel of ground which Jacob
-bought of the sons of Hamor the father of Shechem for a hundred pieces of money"* (Joshua 24:32).
+bought from the sons of Hamor the father of Shechem for a hundred pieces of silver"* (Joshua 24:32).
 
 **So Genesis has two patriarchal land purchases, and the family is split between them**: Abraham's
 field at Hebron, and Jacob's parcel at Shechem (33:19). Both are bought, both are paid for in

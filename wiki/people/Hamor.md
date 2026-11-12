@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The field remembered — Joshua — Joshua 24:29–33
+
+Hamor appears for the last time as the seller's name: Joseph is buried in the parcel Jacob
+*bought from the sons of Hamor the father of Shechem* (32).
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 **Named once, as *"Shechem's father"*, and given no action of his own — the same position [[Dinah]]
 held when she was named at her birth eleven chapters before her own chapter.**
 
@@ -44,7 +51,7 @@ whole town's unanimous consent to major surgery on its ruler's word, with no obj
 with the edge of the sword"* (34:26). See [[Dinah and the Massacre at Shechem]].
 
 **The field survives him under his own name.** Joshua 24:32 buries Joseph's bones in *"the parcel of
-ground which Jacob bought of the sons of Hamor the father of Shechem for a hundred pieces of money"*
+ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver"*
 — **the purchase of 33:19, cited three books later as the settled title to the ground**, with no
 mention of the sack. See
 [[Bought, Sacked, or Taken by the Sword - How Jacob Got Shechem]].
@@ -59,6 +66,7 @@ mention of the sack. See
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; his sons sold the parcel where Joseph is buried (32).
 - [[The Reconciliation with Esau]] — Genesis 33:19; named once, to identify whose land Jacob buys.
   He is not shown acting or speaking; the sale is reported entirely from Jacob's side
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:6–26; **the chapter's negotiator**, who opens

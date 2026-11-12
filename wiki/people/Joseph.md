@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### His bones buried at Shechem — Joshua 24:29–33
+
+*They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in
+Shechem* (32), in the parcel Jacob bought from the sons of Hamor. The oath of Genesis 50:25, carried
+out at Exodus 13:19, is finished here. The ground is the *one portion above your brothers* (Genesis
+48:22), and it becomes *the inheritance of the children of Joseph*. The verse does not date the
+burial. See [[Carry Up My Bones - Joseph's Oath and Its Keeping]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 His descendant tribes form the neighboring share on Benjamin’s other side from Judah (11); no action of the patriarch is narrated.
@@ -502,6 +512,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; his bones buried at Shechem in Jacob's parcel (32).
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

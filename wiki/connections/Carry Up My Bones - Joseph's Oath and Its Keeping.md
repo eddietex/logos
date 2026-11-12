@@ -16,7 +16,7 @@ tags: [connection]
 - **Exodus 13:19** — [[The Crossing of the Sea]] — *"Moses took the bones of Joseph with him, for he had made the children of
   Israel swear"*
 - **Joshua 24:32** — *"They buried the bones of Joseph … in Shechem, in the parcel of ground which
-  Jacob bought"*
+  Jacob bought"* — [[The Burials of Joshua, Joseph, and Eleazar]]
 - **Hebrews 11:22** — the one act of faith the New Testament credits to Joseph
 - **Exodus 1:6, 8, 10** — Joseph dead with *"all that generation"*; a king *"who didn't know Joseph"*,
   afraid Israel will *"escape out of the land"* — *ʿālâ*, the verb of the oath — [[The Oppression in Egypt]]
@@ -93,8 +93,14 @@ standing up with its sandals on, stops to collect a coffin.**
 **Joshua 24:32 closes it.**
 
 > *"They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in
-> Shechem, in the parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for
-> a hundred pieces of money. They became the inheritance of the children of Joseph."*
+> Shechem, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem
+> for a hundred pieces of silver. They became the inheritance of the children of Joseph."*
+
+**Now that Joshua 24 is ingested** (stored WEB): the quotation above has been corrected to the
+stored text, which reads *bought from* and *pieces of silver*; Genesis 33:19's WEB has *pieces of
+money*. The burial is placed after Joshua's death in the book's order but is not dated, so it need
+not have waited for it. And Joshua himself, of Ephraim, dies at one hundred ten, Joseph's age, two
+verses before Joseph's bones are buried. See [[The Burials of Joshua, Joseph, and Eleazar]].
 
 **Not at Machpelah with his fathers — at [[Shechem (city)]]**, **in the field Jacob gave him at
 48:22 as *"one portion above your brothers"*, and which Jacob had bought at 33:19.** **The bones go

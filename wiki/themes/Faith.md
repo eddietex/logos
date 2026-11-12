@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph's bones — Joshua 24:29–33
+
+The burial of Joseph's bones at Shechem (32) completes the act Hebrews 11:22 credits to Joseph's
+faith, as recorded on [[Carry Up My Bones - Joseph's Oath and Its Keeping]] (Hebrews not yet
+ingested).
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### Joseph asks for more — Joshua 17:14–18
 
 Joshua’s assurance challenges the house of Joseph’s focus on enemy strength (16–18). Confidence is invited, but the passage neither names their response as faith nor records their subsequent obedience.
@@ -357,6 +365,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones buried (32).
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

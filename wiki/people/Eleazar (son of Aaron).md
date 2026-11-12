@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Death and burial — Joshua 24:29–33
+
+*Eleazar the son of Aaron died* (33), in the same paragraph as Joshua, with whom he distributed the
+land (14:1; 19:51). He is buried in *the hill of Phinehas his son, which was given him in the hill
+country of Ephraim*. He took office when Aaron died (Numbers 20:28); no successor is installed at his
+own death, and no mourning is recorded. See [[Aaron's Garments Pass to Eleazar]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The altar by the Jordan — Joshua 22:10–34
 
 Named only as Phinehas's father, *Eleazar the priest* (13, 31–32). He does not act. His son leads
@@ -334,6 +343,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; dies and is buried in the hill of Phinehas (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.

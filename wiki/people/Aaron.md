@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### His son's death — Joshua 24:29–33
+
+Named only as Eleazar's father: *Eleazar the son of Aaron died* (33). Aaron's garments passed to
+Eleazar at Aaron's death (Numbers 20:28); the book records no such passing at Eleazar's.
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Named with Moses as sent before the plagues (5). He is not mentioned again in the speech; his son's burial follows at 24:33.
@@ -772,6 +779,7 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; named as Eleazar's father (33).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; sent with Moses (5).
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

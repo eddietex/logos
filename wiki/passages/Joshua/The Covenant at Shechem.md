@@ -129,8 +129,8 @@ away, *each to his own inheritance* (28).
 
 - [[Joshua's Farewell to the Leaders]] — Joshua 23; the first farewell assembly, called with the
   same four groups of leaders.
-- The burials of Joshua, Joseph, and Eleazar — Joshua 24:29–33, which follows and closes the
-  book (not yet ingested).
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33, which follows and closes the
+  book.
 - [[The Altar at Shechem and the Covenant at Shechem]] — the site from Abram's first altar to this
   covenant and beyond.
 - [[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]] — verses 26–27 as the

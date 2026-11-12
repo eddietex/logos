@@ -7,6 +7,20 @@ tags: [person]
 
 ## Overview
 
+### Death and burial — Joshua 24:29–33
+
+*Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old* (29). The
+book calls Moses *the servant of Yahweh* fourteen times in the WEB and called Joshua *Moses' servant*
+(1:1); only at his death does Joshua receive his master's title. He dies at Joseph's age (Genesis
+50:26), not Moses' (Deuteronomy 34:7), and is buried *in the border of his inheritance* at
+Timnathserah, north of Mount Gaash (30) — the city he asked for, built, and lived in (19:50). No
+mourning is recorded. Israel served Yahweh all his days and the days of the elders who outlived him
+(31). Judges 2:6–9 repeats the notice with *Timnath Heres* (WEB, checked at bible-api.com). See
+[[The Servant of Yahweh - Moses' Title Given to Joshua]] and
+[[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Joshua's second farewell assembly. He speaks as Yahweh's prophet (*Yahweh says*, 2), declares *as for me and my house, we will serve Yahweh* before the people answer (15), and then objects to their pledge: *You can't serve Yahweh* (19). He makes the people witnesses against themselves, makes a covenant, writes the words *in the book of the law of God*, and sets up a stone under the oak at Shechem (22–27). The writing recalls Moses at Sinai (Exodus 24:4, stored WEB), but Joshua builds no altar here. This is the first time the book gives him a household of his own.
@@ -403,6 +417,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; dies at one hundred ten, *the servant of Yahweh*; buried at Timnathserah.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; second farewell; *as for me and my house*; the covenant made and written.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; first farewell, to the elders, heads, judges, and officers.
 

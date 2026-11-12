@@ -13,6 +13,13 @@ scheduled on [[Hamor]]'s page a pericope in advance, at 33:19.
 
 ## Overview
 
+### Named in the deed — Joshua 24:29–33
+
+Named only in the phrase *Hamor the father of Shechem*, identifying the parcel where Joseph's bones
+are buried (32).
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 **Genesis gives him four things in six verses, and they do not fit together: force, love, honour,
 and a price.**
 
@@ -59,6 +66,7 @@ it.
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; named in *Hamor the father of Shechem* (32).
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **the chapter's instigator and one of its
   two named dead.** He acts in verses 2–4, negotiates in 11–12, carries the assembly in 18–24, and is
   killed in 26 — and the narrator calls him *honored above all the house of his father* in the middle

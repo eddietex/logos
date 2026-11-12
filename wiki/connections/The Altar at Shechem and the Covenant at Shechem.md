@@ -21,7 +21,8 @@ tags: [connection]
 - **Joshua 8:30–35** — Joshua builds an altar on Ebal and reads the whole law between the mountains
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the covenant renewal at Shechem, and the stone set
   up *"under the oak that was by the sanctuary of Yahweh"*
-- **Joshua 24:32** — Joseph's bones buried in Jacob's field
+- **Joshua 24:32** — Joseph's bones buried in Jacob's field —
+  [[The Burials of Joshua, Joseph, and Eleazar]]
 - **1 Kings 12:1–19, 25** — Rehoboam loses ten tribes at Shechem; Jeroboam fortifies it
 - **John 4:5–26** — Jesus at Jacob's well, and *"this mountain"*
 

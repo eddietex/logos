@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The bones brought up — Joshua 24:29–33
+
+Joseph's bones, *which the children of Israel brought up out of Egypt*, are buried at Shechem (32).
+The coffin of Genesis 50:26 leaves Egypt's story here.
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Jacob and his children *went down into Egypt* (4); Yahweh *plagued Egypt* and brought Israel out (5–6); the people later call it *the house of bondage* (17). Egypt is also a source of gods to be put away: *the gods which your fathers served beyond the River, in Egypt* (14).
@@ -457,6 +464,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones *brought up out of Egypt* (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the descent, the plagues, *the house of bondage*, and gods served there (4–7, 14, 17).
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

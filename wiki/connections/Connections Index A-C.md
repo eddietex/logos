@@ -13,7 +13,7 @@ Connection pages filed under A–C, ignoring a leading *A*, *An*, or *The*. Part
 |---|---|---|
 | [[Aaron at Moserah and Mount Hor - Deuteronomy 10 and Numbers 20 and 33]] | Death location and route tensions retained. | [[New Tablets and the Journey Onward]]  · [[Moses Commanded to Ascend Nebo]] (Deuteronomy 32:48–52) |
 | [[Aaron on Hor and Moses on Nebo - Numbers 20 and Deuteronomy 34]] | parallel | [[The Death of Aaron]] · [[Moses Commanded to Ascend Nebo]] · [[The Death of Moses]] · [[Meribah's Sentence and Aaron's Death]] |
-| [[Aaron's Garments Pass to Eleazar]] | parallel | [[The Ordination of the Priests]] · [[The Death of Aaron]] · [[The Holiness of the Priests]] |
+| [[Aaron's Garments Pass to Eleazar]] | parallel | [[The Ordination of the Priests]] · [[The Death of Aaron]] · [[The Holiness of the Priests]] · [[The Burials of Joshua, Joseph, and Eleazar]] |
 | [[Aaron's Rod Before the Testimony - Numbers 17 and Hebrews 9]] | parallel | [[Aaron's Rod Buds]] · Hebrews 9:3–4 |
 | [[Abaddon Has No Covering - Job 26.6, Proverbs 15.11, and Revelation 9.11]] | thread | Job 26:6 · Job 28:22 · Job 31:12 · Psalm 88:11 · Proverbs 15:11 · [[Do Not Boast About Tomorrow]] (Proverbs 27:20) · Revelation 9:11 · [[A Gentle Answer]] (Proverbs 15:3, 11) |
 | [[An Abomination to the Egyptians - Separate Tables in Genesis and Exodus]] | thread | Genesis 43:32 · Genesis 46:31–34 · Exodus 8:25–26 · Leviticus 18:22–30 · Deuteronomy 7:25–26; 14:3 · [[The Assembly and the Holy Camp]] (Deuteronomy 23:7) |

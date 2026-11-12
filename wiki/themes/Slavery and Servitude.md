@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Servant of Yahweh — Joshua 24:29–33
+
+Joshua, introduced as *Moses' servant* (1:1), dies as *the servant of Yahweh* (29), the title the
+book had given only to Moses. Israel *served Yahweh* in his days (31), the answer to the choice of
+24:15. See [[The Servant of Yahweh - Moses' Title Given to Joshua]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *Serve* governs the whole second half of the chapter: in the WEB, *serve*, *served*, or *serves* occurs fifteen times in verses 2 and 14–24. The people recall Egypt as *the house of bondage* (17). The choice set before them is not between serving and freedom but between masters: Yahweh, the fathers' gods, or the Amorites' gods (15). No claim about the Hebrew verb is made.
@@ -453,6 +461,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua *the servant of Yahweh*; Israel *served Yahweh* (29, 31).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *choose today whom you will serve* (15); *the house of bondage* (17).
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

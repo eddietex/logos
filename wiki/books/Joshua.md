@@ -5,7 +5,7 @@ genre: Historical narrative — entry, conquest, allotment, and covenant renewal
 author: Anonymous; tradition (Bava Batra 14b–15a, recalled not verified) assigns it to Joshua, but the book narrates his death and repeatedly says *to this day*
 canonical_order: 6
 tags: [book]
-status: in-progress
+status: complete
 ---
 # Joshua
 
@@ -214,6 +214,14 @@ told to put away the foreign gods among them. Joshua makes a covenant, writes it
 the law of God*, and sets up a stone under the oak as a witness. The book that began with the
 command to keep a written law (1:8) ends its last assembly with more words added to it.
 
+[[The Burials of Joshua, Joseph, and Eleazar]] (24:29–33) closes the book with three graves.
+Joshua dies at one hundred ten, called *the servant of Yahweh* for the first time — the title the
+book has given Moses throughout — and is buried in his own inheritance at Timnathserah. Israel
+served Yahweh through his days and those of the elders who *had known all the work of Yahweh*.
+Joseph's bones, carried out of Egypt under the oath of Genesis 50:25, are buried in Jacob's field
+at Shechem, and Eleazar on the hill of his son Phinehas. The book opened on *Moses my servant is
+dead* and ends on the death of his servant, with every grave now inside the land.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -230,7 +238,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **40 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **42 / 42 pericopes ingested — complete.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -273,7 +281,7 @@ Plan drawn 2026-11-10 from the stored WEB. **40 / 42 pericopes ingested.**
 - [x] [[The Altar of Witness by the Jordan]] — Joshua 22:10–34
 - [x] [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16
 - [x] [[The Covenant at Shechem]] — Joshua 24:1–28
-- [ ] The Burials of Joshua, Joseph, and Eleazar — Joshua 24:29–33
+- [x] [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33
 
 ## Key themes
 - [[Law and Obedience]]
@@ -286,6 +294,8 @@ Plan drawn 2026-11-10 from the stored WEB. **40 / 42 pericopes ingested.**
 - [[Hardening of the Heart]]
 
 ## Key people
+- [[Joseph]] — his bones buried at Shechem (24:32).
+- [[Eleazar (son of Aaron)]] and [[Phinehas (son of Eleazar)]] — the priest who divided the land, buried on his son's hill (24:33).
 - [[Adoni-Zedek]], [[Hoham]], [[Piram]], [[Japhia (person)]], and [[Debir (person)]] — the five allied kings (10:3–5).
 - [[Rahab]]
 - [[The Two Spies Sent by Joshua]]
@@ -298,6 +308,8 @@ Plan drawn 2026-11-10 from the stored WEB. **40 / 42 pericopes ingested.**
 - [[Sihon]] and [[Og]] — the east-bank kings recalled at the head of the list (12:2–5).
 
 ## Key places
+- [[Timnathserah]], [[Mount Gaash]], and [[The Hill of Phinehas]] — the graves of Joshua and Eleazar (24:30, 33).
+- [[Shechem (city)]] — the covenant assembly and Joseph's grave (24:1–28, 32).
 - [[Shiloh]] — the Tent, written land survey, and remaining lots (18:1–10).
 - [[Gibeon]], [[Gilgal]], and [[The Valley of Aijalon]] — rescue and the public address (10:6–15).
 - [[Jerusalem]], [[Hebron]], [[Jarmuth]], [[Lachish]], and [[Eglon]] — coalition cities (10:3–5).

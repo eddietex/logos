@@ -9,6 +9,7 @@ tags: [connection]
 - [[The Ordination of the Priests]] — Exodus 29:29–30.
 - [[The Death of Aaron]] — Numbers 20:25–28.
 - [[The Holiness of the Priests]] — Leviticus 21:10–12.
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:33.
 
 ## Analysis
 
@@ -29,5 +30,9 @@ Neither an exemption nor disobedience should be invented.
 The garments outlast their first wearer. Aaron’s death under judgment ends his own service,
 while the commanded transfer preserves the priesthood for Israel.
 
-Sources: stored WEB Exodus 29:29–30, Numbers 20:22–29, and Leviticus 21:10–12.
+Eleazar's own death is reported in one sentence: *Eleazar the son of Aaron died. They buried him
+in the hill of Phinehas his son* (Joshua 24:33). Nothing is said of garments passing to Phinehas or
+of any successor being installed; the transfer that this page traces is narrated once only.
+
+Sources: stored WEB Joshua 24:33, Exodus 29:29–30, Numbers 20:22–29, and Leviticus 21:10–12.
 The comparison paraphrases the texts and makes no source-language claim.

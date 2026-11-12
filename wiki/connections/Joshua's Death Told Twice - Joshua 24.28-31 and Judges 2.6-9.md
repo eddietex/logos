@@ -1,0 +1,56 @@
+---
+type: connection
+subtype: parallel
+tags: [connection]
+---
+# Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9
+
+## Passages involved
+
+- **Joshua 24:28–31** — the people sent to their inheritances, Joshua's death and burial, and
+  Israel's service in his days — [[The Covenant at Shechem]] and
+  [[The Burials of Joshua, Joseph, and Eleazar]]
+- **Judges 1:1** — *After the death of Joshua* *(not yet ingested)*
+- **Judges 2:6–10** — the same four statements, followed by *another generation* *(not yet
+  ingested)*
+
+## Analysis
+
+Judges opens with *After the death of Joshua* (1:1), and in chapter 2 it tells his death again.
+Judges 2:6–9 follows Joshua 24:28–31 statement by statement, in a slightly different order:
+
+| | Joshua 24 (stored WEB) | Judges 2 (WEB, checked at bible-api.com) |
+|---|---|---|
+| dismissal | *So Joshua sent the people away, each to his own inheritance.* (28) | *Now when Joshua had sent the people away, the children of Israel each went to his inheritance to possess the land.* (6) |
+| service | after the burial (31) | before the death (7) |
+| the elders | *and had known all the work of Yahweh, that he had worked for Israel* (31) | *who had seen all the great work of Yahweh that he had worked for Israel* (7) |
+| death | *Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old.* (29) | the same words (8) |
+| burial place | *Timnathserah* (30) | *Timnath Heres* (9) |
+| region | *the hill country of Ephraim, on the north of the mountain of Gaash* (30) | the same (9) |
+| what follows | Joseph's bones and Eleazar's burial (32–33) | *another generation arose after them, who didn't know Yahweh* (10) |
+
+Three differences stand out in the English.
+
+- **Order.** Joshua reports the death and burial, then looks back on the generation that served.
+  Judges puts the service first, so that the death notice leads straight into the generation that
+  forgot.
+- **Known and seen.** Joshua's elders *had known* the work; Judges' elders *had seen* it, and the
+  next generation *didn't know*. Judges sets *known* against *didn't know* across verses 7 and 10
+  only if the earlier verb is the one in Joshua. In the WEB it is not, so the English contrast is
+  between *seen* and *didn't know*. This page makes no claim about the Hebrew verbs.
+- **The name of the city.** *Timnathserah* and *Timnath Heres* name the same grave in the same
+  region. The two spellings are often explained as a transposition of letters; that explanation
+  has not been checked against a Hebrew text here, and the page records only that the WEB gives two
+  forms.
+
+## Significance
+
+In Joshua the paragraph is an ending: the faithful generation lived, served, and was buried in the
+land. In Judges the same paragraph is a beginning, and its point is the generation that came after.
+The words barely change; what changes is what follows them. Judges also places the notice after a
+chapter that has already begun *after the death of Joshua*, so it is a flashback, retold to set up
+the forgetting of 2:10. See [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] and
+[[Remembrance]].
+
+Sources: Joshua 24:28–31 from stored WEB. Judges 1:1 and 2:6–10 checked at bible-api.com
+(`translation=web`), 2026-11-12. No source-language claim is made.

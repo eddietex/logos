@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Two graves — Joshua 24:29–33
+
+Joshua is buried at Timnathserah *in the hill country of Ephraim, on the north of the mountain of
+Gaash* (30), and Eleazar in *the hill of Phinehas*, also *in the hill country of Ephraim* (33).
+Shechem, where Joseph's bones are buried (32), is also in this hill country (20:7).
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Shechem, the refuge supplied by Ephraim, is located here (21).
@@ -27,6 +35,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua's and Eleazar's graves (30, 33).
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 

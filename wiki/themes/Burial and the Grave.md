@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three burials — Joshua 24:29–33
+
+Joshua ends with three graves in the land: Joshua in his own inheritance at Timnathserah (30),
+Joseph's bones at Shechem in Jacob's purchased parcel (32), and Eleazar on the hill of Phinehas (33).
+The wilderness leaders were buried outside it — Aaron on Mount Hor, Moses in an unknown grave in Moab
+(Deuteronomy 34:6). Genesis ended with Joseph in a coffin in Egypt; this burial completes it. No
+mourning is recorded, unlike the thirty days for Aaron and Moses.
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 The five kings are killed before their bodies are hung on trees (26). At sunset the bodies are taken
@@ -202,6 +212,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; three graves, all in the land.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

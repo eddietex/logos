@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua at one hundred ten — Joshua 24:29–33
+
+Joshua dies at one hundred ten, Joseph's age (Genesis 50:26), and Eleazar dies in the same
+paragraph (29, 33). The book that began *Moses my servant is dead* (1:2) ends with its own leader and
+priest dead and buried.
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Joshua calls his coming death *the way of all the earth* (14). He uses it as a reason to speak plainly. His death is narrated at 24:29.
@@ -950,6 +958,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua at one hundred ten; Eleazar's death (29, 33).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the way of all the earth* (14).
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses dies by Yahweh's word.

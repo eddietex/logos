@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The generation that knew — Joshua 24:29–33
+
+Israel *served Yahweh* all the days of Joshua and of the elders who *had known all the work of
+Yahweh* (31). Faithfulness is tied to living memory. Judges 2:7 has *had seen*, and Judges 2:10
+names the generation *who didn't know Yahweh* (WEB, checked at bible-api.com). See
+[[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 The covenant is grounded in a remembered history, told twice: first by Yahweh in the first person (2–13), then by the people in their own words (16–18). Yahweh appeals to what *your eyes saw* (7), and the people answer with *those great signs in our sight* (17). The stone set up at the end *has heard all Yahweh's words* (27) and stands as a memory that can testify.
@@ -756,6 +765,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; the elders who *had known all the work of Yahweh* (31).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the history recited by Yahweh and retold by the people; the stone that heard.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

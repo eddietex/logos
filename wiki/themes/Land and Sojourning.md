@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Buried in the inheritance — Joshua 24:29–33
+
+Joshua is buried *in the border of his inheritance* (30), and the parcel where Joseph's bones lie
+becomes *the inheritance of the children of Joseph* (32). The land promised to the patriarchs, who
+owned only a grave in it, now holds three graves in ground Israel possesses.
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *I gave you a land whereon you had not labored, and cities which you didn't build* (13). The history begins with Abraham led *throughout all the land of Canaan* as a sojourner (3) and ends with Israel sent *each to his own inheritance* (28). See [[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]].
@@ -1033,6 +1041,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; buried in the inheritance; the parcel becomes Joseph's children's (30, 32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; a land Israel had not labored for (13); each to his own inheritance (28).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the good land given and conditionally held.
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eleazar's death — Joshua 24:29–33
+
+The priest who divided the land with Joshua dies with him (33). No high-priestly succession is
+narrated; Phinehas is named only as the owner of the hill where his father is buried, a holding
+that sits uneasily with Levi's lack of a land inheritance (13:14, 33). See [[The Hill of Phinehas]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 Phinehas, son of Eleazar the priest, leads the delegation and declares its outcome (13, 30–31).
@@ -800,6 +808,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Eleazar's death; the hill of Phinehas (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.

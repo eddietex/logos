@@ -496,7 +496,7 @@ Torah ends on is buried in the land.** See [[Burial and the Grave]] and
   end of the book
 - [[Mamre (place)]] — the location clause carried over verbatim from the deed of 23:17
 - [[Shechem (city)]] — not named here, but the destination of the bones Joseph swears them to
-  (Joshua 24:32)
+  (Joshua 24:32, [[The Burials of Joshua, Joseph, and Eleazar]])
 
 ## Themes
 

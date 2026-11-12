@@ -12,7 +12,8 @@ tags: [connection]
 - **Exodus 1:6, 8** — *"Joseph died, as did all his brothers, and all that generation"*; *"Now there
   arose a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
 - **Joshua 24:29; Judges 2:8** — *"Joshua the son of Nun, the servant of Yahweh, died, being one
-  hundred ten years old"* *(not yet ingested)*
+  hundred ten years old"* — [[The Burials of Joshua, Joseph, and Eleazar]] (Judges 2:8 not yet
+  ingested; checked at bible-api.com)
 - **Judges 2:10** — *"After all that generation were gathered to their fathers, another generation
   arose after them, who didn't know Yahweh, nor the work which he had done for Israel"* *(not yet
   ingested)*
@@ -45,3 +46,11 @@ by foreign kings, each one a small Egypt.
 the king's not-knowing with a God who will make Egypt *"know that I am Yahweh"* (7:5); Deuteronomy
 answers the danger of Judges in advance, with commands to teach the children what God did in Egypt
 (see [[Remembrance]]). The pattern will be traced further when Joshua and Judges are reached.
+
+**Joshua 24 now ingested.** Joshua 24:31 says Israel served Yahweh in the days of the elders who
+*had known all the work of Yahweh*; Judges 2:7 has *had seen all the great work*, and 2:10 the
+generation that *didn't know*. Joshua 24 ends on that faithful generation and three burials;
+Judges uses the same notice to introduce the forgetting. The Joshua 24:29 and Judges 2:8, 2:10
+quotations above have been checked against stored WEB and bible-api.com (`translation=web`),
+2026-11-12. The *wayyāqom* identifications in the table and the Egyptian-lifespan remark were not
+checked in this pass. See [[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]].

@@ -7,6 +7,20 @@ tags: [person]
 
 ## Overview
 
+### His father buried on his hill — Joshua 24:29–33
+
+Eleazar is buried in *the hill of Phinehas his son, which was given him in the hill country of
+Ephraim* (33). The verse names Phinehas only as the hill's owner; it does not say he became high
+priest.
+
+**Tension, flagged.** A hill *given* to a priest stands beside the statements that Levi received
+no inheritance — *The offerings of Yahweh … are his inheritance* (13:14), *Yahweh … is their
+inheritance* (13:33) — and that the priests' thirteen cities were in Judah, Simeon, and Benjamin
+(21:4; all stored WEB). The text does not say who gave the hill or what kind of holding it was. Both
+statements are recorded here without harmonizing them. See [[The Hill of Phinehas]].
+
+See [[The Burials of Joshua, Joseph, and Eleazar]]. Source: stored WEB Joshua 24:29–33; comparisons as cited.
+
 ### The altar by the Jordan — Joshua 22:10–34
 
 Phinehas leads ten princes into Gilead to question the eastern tribes before the congregation
@@ -67,6 +81,7 @@ The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1
 
 ## Appears in
 
+- [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; his hill in Ephraim, where Eleazar is buried (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The War Against Midian]] — Numbers 31:1–54; with the army, the sanctuary vessels, and the trumpets (6).

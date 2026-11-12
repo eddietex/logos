@@ -53,6 +53,7 @@ Connection pages filed under I–N, ignoring a leading *A*, *An*, or *The*. Part
 | [[Jegar Sahadutha - The Only Aramaic in the Torah]] | thread | Genesis 31:47 · [[First Fruits and the Tithe Declaration]] (Deuteronomy 26:5) · 2 Kings 18:26 · Jeremiah 10:11 · Ezra 4:8–6:18 · Daniel 2:4–7:28 |
 | [[Jobab of Bozrah and the Septuagint's Job]] | parallel | Genesis 36:4, 11, 28, 33 · Job 1:1 · Job 2:11 · Lamentations 4:21 · Septuagint Job 42:17b–e |
 | [[Joshua and Jesus - One Name]] | typology | Exodus 17:9–14 · Numbers 13:8, 16 · Matthew 1:21 · Acts 7:45 · Hebrews 4:8 · [[The Twelve Spies]] |
+| [[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]] | parallel | Joshua 24:28–31 · Judges 1:1 · Judges 2:6–10 |
 | [[Joshua’s Curse on Jericho and Hiel’s Sons]] | The rebuilding curse explicitly fulfilled in 1 Kings 16:34; mechanism of the sons’ loss unspecified. | [[The Fall of Jericho]] |
 | [[Judah and Benjamin Share a Boundary - Joshua 15 and 18]] | parallel | [[The Borders of Judah]] · [[The Cities of Judah]] · [[The Inheritance of Benjamin]] |
 | [[The Judgment Is God's - Exodus 23, Leviticus 19.15, and Deuteronomy 1.17]] | thread | [[Justice, Sabbaths, and Feasts]] (Exodus 23:3, 6) · [[Be Holy and Love Your Neighbor]] (Leviticus 19:15) · [[Judges Appointed for the People]] (Deuteronomy 1:16–17) · Deuteronomy 10:17 · [[Judges, Worship, and Difficult Cases]] (Deuteronomy 16:18–19) · [[Elihu on God's Justice]] (Job 34:19) · [[The Field of the Sluggard]] (Proverbs 24:23) · 2 Chronicles 19:6–7 · James 2:1–9 |
