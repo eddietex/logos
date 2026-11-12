@@ -205,6 +205,15 @@ Israel to keep the book of the law, refuse the nations' gods and marriages, hold
 and love him. He repeats that no good word has failed, and warns that the evil words will be kept
 just as surely if Israel breaks the covenant.
 
+[[The Covenant at Shechem]] (24:1–28) is the second. At Shechem, Joshua speaks Yahweh's own account
+of Israel's history from Terah, who *served other gods* beyond the River, to a land Israel did not
+labor for. He then demands a choice — *choose today whom you will serve* — and declares for his own
+house first. When the people pledge themselves, he tells them *You can't serve Yahweh*, for he is
+holy and jealous. They pledge again, accept that they are witnesses against themselves, and are
+told to put away the foreign gods among them. Joshua makes a covenant, writes it in *the book of
+the law of God*, and sets up a stone under the oak as a witness. The book that began with the
+command to keep a written law (1:8) ends its last assembly with more words added to it.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -263,7 +272,7 @@ Plan drawn 2026-11-10 from the stored WEB. **40 / 42 pericopes ingested.**
 - [x] [[The Eastern Tribes Sent Home]] — Joshua 22:1–9
 - [x] [[The Altar of Witness by the Jordan]] — Joshua 22:10–34
 - [x] [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16
-- [ ] The Covenant at Shechem — Joshua 24:1–28
+- [x] [[The Covenant at Shechem]] — Joshua 24:1–28
 - [ ] The Burials of Joshua, Joseph, and Eleazar — Joshua 24:29–33
 
 ## Key themes

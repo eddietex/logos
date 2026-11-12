@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Not named. Verse 8 recalls *the Amorites, that lived beyond the Jordan*, and verse 12 says the hornet drove out *the two kings of the Amorites; not with your sword, nor with your bow*. Numbers 21:24 says Israel struck Sihon *with the edge of the sword* (stored WEB); Joshua 24 makes the sword secondary to Yahweh's act. See [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Eastern allotments — Joshua 13:8–33
 
 His former kingdom provides the setting for the grants (10, 21, 27). The five Midianite chiefs are called princes of Sihon (21), a relationship not supplied by Numbers 31:8, which calls them kings of Midian.
@@ -98,6 +104,8 @@ recalls that earlier victory (27–30).
 - Joshua 12:2–3 — recalled at the head of the list.
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; one of *the two kings of the Amorites* (12), not named.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Rahab and the Spies]] — Joshua 2:1–24.

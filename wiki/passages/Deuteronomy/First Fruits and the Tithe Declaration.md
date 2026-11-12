@@ -286,7 +286,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 - Deuteronomy 28:5, 17, 62; 30:18 — the basket blessed and cursed; *"few in number"*; *"I denounce
   to you today"*. See [[Blessings for Obedience (Deuteronomy)]], [[Curses for Disobedience]], and
   [[The Word Is Near and the Choice Is Life]].
-- Joshua 24:2–4; Hosea 9:4 *(not yet ingested; WEB checked at bible-api.com)*.
+- [[The Covenant at Shechem]] — Joshua 24:2–13; a longer recited history that begins with Terah.
+- Hosea 9:4 *(not yet ingested; WEB checked at bible-api.com)*.
 
 ## Notes
 

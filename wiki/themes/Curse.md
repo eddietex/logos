@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Balak called Balaam *to curse you* (9), and Yahweh would not listen (10). The covenant's own threat follows without the word *curse*: Yahweh *will turn and do you evil, and consume you, after he has done you good* (20).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Joshua does not use the word *curse*, but *all the evil things* (15) stand opposite *all the good things*, like the blessing and curse set before Israel in Deuteronomy 11:26–28 and 30:15–20. Here the two are not two options to choose between. They are two certainties, tied to Israel's conduct.
@@ -333,6 +339,8 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam called *to curse you* (9); the threat of verse 20.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *all the evil things* matched to the good (15).
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 

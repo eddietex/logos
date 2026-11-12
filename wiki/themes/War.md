@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I sent the hornet before you, which drove them out from before you, even the two kings of the Amorites; not with your sword, nor with your bow* (12). Numbers 21:24 says Israel struck Sihon *with the edge of the sword* (stored WEB); verse 12 does not deny the sword but denies that it won. Two tensions with the earlier narrative are recorded on the passage page: Jericho *fought* (11) though Joshua 6 narrates no battle, and Balak *fought* (9) though Numbers narrates none.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 No battle is narrated. Joshua credits every victory to Yahweh, *who has fought for you* (3, 10), and repeats the promise that *one man of you shall chase a thousand* (10). The courage he asks for in verse 6 is aimed at the law, not at the battlefield.
@@ -695,6 +701,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the hornet, *not with your sword, nor with your bow* (12).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Yahweh the one who fights; one chasing a thousand.
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

@@ -72,6 +72,8 @@ living among Israel. Joshua curses the future rebuilder, and his fame spreads as
 - [[The Midwives and Rahab - Deceiving the King to Save Life]]
 
 The warning of 6:18 is broken in the next pericope, [[The Sin of Achan]] (Joshua 7:1–26).
+- [[The Covenant at Shechem]] — Joshua 24:11 says *the men of Jericho fought against you*,
+  though this chapter narrates no battle; the difference is recorded there, not harmonized.
 
 ## Notes
 

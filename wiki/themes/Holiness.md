@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*You can't serve Yahweh, for he is a holy God. He is a jealous God* (19). Holiness is given as the reason Israel cannot serve Yahweh on its own terms or alongside other gods. It is joined to jealousy, as Deuteronomy 4:24 joins *devouring fire* and *jealous God* (stored WEB).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The sin of Achan — Joshua 7:1–26
 
 The camp sanctifies itself before the selection (13). The devoted things belong to Yahweh, and
@@ -790,6 +796,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *he is a holy God* (19).
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Fall of Jericho]] — Joshua 6:1–27.
 

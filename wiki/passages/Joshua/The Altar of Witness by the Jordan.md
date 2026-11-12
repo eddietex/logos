@@ -105,6 +105,8 @@ plan for war (32–33). Reuben and Gad name the altar *A Witness Between Us that
   [[The Twelve Stones from the Jordan]] — a sign at the Jordan explained to later children.
 - [[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]] — Genesis 31:44–52,
   this altar, and Joshua 24:26–27.
+- [[The Covenant at Shechem]] — Joshua 24:26–27; a stone as witness *against* Israel, where this
+  altar is a witness *between* the tribes.
 
 ## Notes
 

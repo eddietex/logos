@@ -11,7 +11,8 @@ tags: [connection]
 - Deuteronomy 10:22 — *"Your fathers went down into Egypt with seventy persons"*; stored, on
   [[What Yahweh Requires of Israel]]
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–9; the confession over the basket
-- Joshua 24:2–4 — the history told at Shechem; not yet ingested, WEB checked at bible-api.com
+- [[The Covenant at Shechem]] — Joshua 24:2–13; the history told at Shechem, spoken in Yahweh's
+  first person, and retold by the people in 24:16–18
 
 ## Analysis
 
@@ -77,5 +78,5 @@ is a question in modern scholarship that this page does not take up.
 
 Sources: Numbers 20:14–16; Deuteronomy 6:20–24; 10:22; 26:5–10; Genesis 25:20; 31:20; Exodus 1:11, 14;
 3:7, 9 quoted from the stored WEB in `raw/bible/`. Joshua 24:2–4 checked at bible-api.com
-(`translation=web`), 2026-11-10. Hebrew of Numbers 20:15–16 and Deuteronomy 26:5–10 from WLC (morphhb,
+(`translation=web`), 2026-11-10, and since stored and ingested. Hebrew of Numbers 20:15–16 and Deuteronomy 26:5–10 from WLC (morphhb,
 openscriptures, GitHub), retrieved 2026-11-10.

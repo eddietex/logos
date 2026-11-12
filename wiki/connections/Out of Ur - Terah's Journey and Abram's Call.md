@@ -19,8 +19,8 @@ tags: [connection]
   predicted, six verses later.
 - **Genesis 24:4, 10; 31:53** — Haran as Abraham's *"country"* and *"relatives"*, and *"the God of
   Nahor"* *(not yet ingested)*
-- **Joshua 24:2–3** — *"Your fathers … even Terah … served other gods. I took your father Abraham
-  from beyond the River"*
+- [[The Covenant at Shechem]] — Joshua 24:2–3: *"Your fathers … even Terah … served other gods. I
+  took your father Abraham from beyond the River"*
 - **Nehemiah 9:7** — *"you are Yahweh, the God who chose Abram, and brought him out of Ur of the
   Chaldees"*
 - **Acts 7:2–4** — Stephen: God appeared to Abraham *"in Mesopotamia, before he lived in Haran"*, and

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*Balak the son of Zippor, king of Moab, arose and fought against Israel. He sent and called Balaam the son of Beor to curse you* (9). **Tension recorded, not harmonized:** Numbers 22 narrates no battle — Balak hires Balaam *that we may strike them* (22:6, stored WEB) — and Judges 11:25 asks of Balak, *did he ever fight against them?* (WEB, checked at bible-api.com; Judges not yet ingested). Joshua 24:9 may count the hired curse as an act of war; the wiki records both statements.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The hire remembered without his name — Deuteronomy 23:4
 
 Deuteronomy 23:4 excludes Ammon and Moab together *"because they hired against you Balaam"*. Balak, the
@@ -49,6 +55,7 @@ when the first returns unsuccessful; his offer of honor cannot determine God’s
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *arose and fought against Israel* (9); a tension with Numbers 22 and Judges 11:25.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

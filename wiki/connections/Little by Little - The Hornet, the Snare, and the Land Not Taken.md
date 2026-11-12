@@ -24,8 +24,10 @@ tags: [connection]
   [[A People Chosen in Love]] · [[Blessing and the Removal of the Nations]]
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:4–5, 12–13; *"they shall be a snare and a trap to
   you, a scourge in your sides, and thorns in your eyes"* (stored WEB; now ingested)
-- **Joshua 24:12** — *"I sent the hornet before you … not with your sword, nor with your bow"* (WEB;
-  *not yet ingested*)
+- [[The Covenant at Shechem]] — Joshua 24:12: *"I sent the hornet before you … not with your sword,
+  nor with your bow"*. The hornet drives out *"the two kings of the Amorites"*, the kings beyond
+  the Jordan (24:8), whom Numbers 21:24 says were struck *"with the edge of the sword"* (stored
+  WEB); the sword is not denied, only made secondary
 - **Judges 2:1–3** — Yahweh's angel at Bochim: *"I will not drive them out from before you; but they
   shall be in your sides, and their gods will be a snare to you"* (WEB; *not yet ingested*)
 

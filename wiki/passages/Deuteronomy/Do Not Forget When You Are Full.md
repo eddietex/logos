@@ -114,6 +114,9 @@ Complete unit, copied from the stored WEB:
 - [[When Your Son Asks - Telling the Exodus to the Next Generation]]
 - [[Neither Poverty nor Riches - Proverbs 30.7-9, Manna, and Daily Bread]]
 - Matthew 4:7, 10 — Jesus answers temptation with the prohibition on testing God and the command of exclusive service; WEB verified directly, not yet ingested.
+- [[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]] — verses 10–12 reported
+  as fulfilled at [[The Covenant at Shechem]], followed by the same call to fear and serve.
+- [[A Jealous God - Exodus 20.5, 34.14, Deuteronomy 4.24, 6.15, and Joshua 24.19]] — verse 15.
 
 ## Notes
 

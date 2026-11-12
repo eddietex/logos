@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*The men of Jericho fought against you* (11). **Tension recorded:** Joshua 6 narrates no battle — the city is *tightly shut up*, and its walls fall without combat (6:1, stored WEB). The summary may count the closed city as resistance. See [[The Fall of Jericho]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 Jericho is the geographical reference in the introduction to the eastern cities beyond the Jordan (8). It is not itself listed as a refuge.
@@ -170,6 +176,8 @@ Israel does not enter or conquer Jericho in this unit.
 **Joshua 12:1–24 — the list of kings.** Its king heads the western list, *the king of Jericho, one* (12:9). See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *the men of Jericho fought against you* (11).
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

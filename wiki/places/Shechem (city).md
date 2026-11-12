@@ -15,6 +15,12 @@ man himself.
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Joshua gathers *all the tribes of Israel to Shechem* (1), recites Yahweh's history from Terah onward, demands a choice between Yahweh and other gods, and makes a covenant *that day*, *a statute and an ordinance in Shechem* (25). He sets up a great stone *under the oak that was by the sanctuary of Yahweh* (26). The command to *put away the foreign gods which are among you* (23) repeats Jacob's command before he buried his household's gods *under the oak which was by Shechem* (Genesis 35:2–4, stored WEB). What *the sanctuary of Yahweh* at Shechem was, the pericope does not say. See [[The Altar at Shechem and the Covenant at Shechem]] and [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Ephraim to the remaining Kohathites (21:21).
@@ -95,6 +101,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the assembly, the covenant, and the stone under the oak.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
@@ -162,6 +169,6 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 - The blessing and curse commanded to be set on Gerizim and Ebal, *"beside the oaks of Moreh"* —
   Deuteronomy 11:29–30, [[Set These Words Before You]]
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
-- Joshua's covenant renewal — Joshua 24:1–27
+- Joshua's covenant renewal — Joshua 24:1–28; [[The Covenant at Shechem]]
 - Abimelech's kingship and the destruction of the city — Judges 9
 - The kingdom divides under Rehoboam — 1 Kings 12:1–19

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Joshua *wrote these words in the book of the law of God* (26). The book that opened with *This book of the law shall not depart from your mouth* (1:8) ends its last assembly with the covenant written into it. The people's last pledge is *we will listen to his voice* (24).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Courage is aimed at a text: *keep and … do all that is written in the book of the law of Moses*, turning neither right nor left (6), as in 1:7. Joshua sets obedience beside a plain warning: the God who kept every good word will keep the threatened ones too (14–16).
@@ -1530,6 +1536,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the covenant written *in the book of the law of God* (26).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the book of the law kept, without turning aside.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

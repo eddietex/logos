@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*The River* (2–3, 14–15): the fathers *lived of old time beyond the River* and *served other gods*, and Yahweh *took* Abraham from there. The gods *beyond the River* are one of the options Joshua sets before Israel, with Egypt's and the Amorites' (14–15). The WEB does not name the Euphrates in this chapter; the identification follows the wiki's reading of *the River* elsewhere.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 The largest river in western Asia, and in the Bible the standing name for *far away in that
 direction* — the northern edge of the promise, the boundary of empire, and the water Israel is
 carried across into exile.
@@ -75,6 +81,8 @@ Deuteronomy 11:24 repeats the maximal formula: *"from the river, the river Euphr
 See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *beyond the River*, where the fathers served other gods (2, 14–15).
 - [[After the Death of Moses]] — Joshua 1:1–9; *the great river, the river Euphrates* in the border given Joshua (4).
 
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"the river, the river Euphrates"* in the maximal border (24).

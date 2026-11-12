@@ -19,6 +19,8 @@ tags: [connection]
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:14–16; *"as all the good things have come on you
   … so Yahweh will bring on you all the evil things"* (15, stored WEB). The pair is spoken as two
   certainties rather than set before Israel as a choice. It is related, but not a quotation.
+- [[The Covenant at Shechem]] — Joshua 24:15, 22; *"choose today whom you will serve"*, and *"You
+  are witnesses against yourselves that you have chosen Yahweh"*.
 
 ## Analysis
 
@@ -52,3 +54,8 @@ directly after the promise that Yahweh will circumcise the heart *that you may l
 such promise beside it. See [[Return Restoration and the Circumcised Heart]].
 
 Sources: stored WEB Deuteronomy 4:26, 11:21–28, 30:15–20.
+
+- Joshua 24 turns Moses' *choose life* (Deuteronomy 30:19) into an assembly's actual choice. In
+  Deuteronomy, heaven and earth are called as witnesses; at Shechem, the people are witnesses
+  against themselves (24:22), and a stone is set up as witness (24:27). See
+  [[The Covenant at Shechem]].

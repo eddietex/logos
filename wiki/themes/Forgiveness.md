@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*He will not forgive your disobedience nor your sins* (19). **Contradiction flagged, not resolved:** Exodus 34:7 proclaims Yahweh *forgiving iniquity and disobedience and sin* (stored WEB). Three things bear on the tension without removing it. Exodus 34:7 continues *will by no means clear the guilty*. Exodus 23:21 already said of the angel sent ahead, *he will not pardon your disobedience* (stored WEB). And Joshua speaks of forsaking Yahweh for foreign gods (20), not of every failure. Both claims stand on this page.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 Yahweh refuses pardon to the apostate who presumes peace while persisting in stubbornness (19–20). The warning targets defiant self-assurance; it is not a universal denial that repentant sinners may be forgiven.
@@ -237,6 +243,7 @@ See [[Vows of Men and Women]]. Source: stored WEB Numbers 30.
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *He will not forgive your disobedience nor your sins* (19), against Exodus 34:7.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Holy Living in Field and Community]] — Leviticus 19:19–37.

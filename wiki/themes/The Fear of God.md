@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*Now therefore fear Yahweh, and serve him in sincerity and in truth* (14). Fear is the first response the history calls for, joined at once to undivided service, as in Deuteronomy 6:13 and 10:20 (stored WEB).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The altar of witness — Joshua 22:25
 
 The eastern tribes fear that later generations will *make our children cease from fearing
@@ -534,6 +540,8 @@ and the wiki records both. In Genesis 20:11 and Exodus 1:17 too, fearing God or 
 weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *fear Yahweh, and serve him in sincerity and in truth* (14).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.

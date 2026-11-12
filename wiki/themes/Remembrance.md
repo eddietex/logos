@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+The covenant is grounded in a remembered history, told twice: first by Yahweh in the first person (2–13), then by the people in their own words (16–18). Yahweh appeals to what *your eyes saw* (7), and the people answer with *those great signs in our sight* (17). The stone set up at the end *has heard all Yahweh's words* (27) and stands as a memory that can testify.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 A monument is built for a question in *time to come* (24, 27–28). Joshua 4's stones prompt
@@ -750,6 +756,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the history recited by Yahweh and retold by the people; the stone that heard.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

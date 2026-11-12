@@ -19,8 +19,8 @@ tags: [connection]
   [[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]]
 - **Deuteronomy 27:1–26** — the blessings and the curses to be pronounced from the two mountains
 - **Joshua 8:30–35** — Joshua builds an altar on Ebal and reads the whole law between the mountains
-- **Joshua 24:1–27** — the covenant renewal at Shechem, and the stone set up *"under the oak that was
-  by the sanctuary of Yahweh"*
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the covenant renewal at Shechem, and the stone set
+  up *"under the oak that was by the sanctuary of Yahweh"*
 - **Joshua 24:32** — Joseph's bones buried in Jacob's field
 - **1 Kings 12:1–19, 25** — Rehoboam loses ten tribes at Shechem; Jeroboam fortifies it
 - **John 4:5–26** — Jesus at Jacob's well, and *"this mountain"*
@@ -124,3 +124,10 @@ ends with a conversation about whether the place matters, held at the place.
 
 Related: [[Shechem (city)]] · [[The Call of Abram]] · [[Canaan]] · [[Call and Election]] ·
 [[Sacrifice and Offering]]
+
+- **The covenant is made with no altar.** Ingesting [[The Covenant at Shechem]] (2026-11-12)
+  adds a qualification to the altars section above: Joshua 24 itself records no altar, sacrifice,
+  or blood. Its covenant is witnessed by the people (24:22) and by a stone (24:26–27), and
+  written *in the book of the law of God*. Jacob's household had put away its foreign gods at the
+  same place (Genesis 35:2–4); see
+  [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].

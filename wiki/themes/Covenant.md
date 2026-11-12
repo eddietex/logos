@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Joshua *made a covenant with the people that day*, with *a statute and an ordinance in Shechem* (25). The form resembles Sinai: a recited history, the people's repeated pledge, the words written (Exodus 19:8; 24:3–7, stored WEB). It has no altar, sacrifice, or blood, unlike Exodus 24:5–8. The covenant is witnessed instead: the people *against yourselves* (22), and a stone that *has heard all Yahweh's words* (27). See [[The Altar at Shechem and the Covenant at Shechem]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Joshua names *the covenant of Yahweh your God* (16) and spells out what breaking it means: serving and bowing to other gods. Yahweh's fidelity to his good words (14) is the reason his threats are equally certain (15). No covenant ceremony takes place here; the ceremony comes at Shechem in chapter 24.
@@ -665,6 +671,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; covenant made at Shechem, written, and witnessed by the people and a stone.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and loss of the good land.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

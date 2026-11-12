@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I gave to Esau Mount Seir, to possess it* (4). Yahweh's own history of Israel includes Esau's gift of land, as Deuteronomy 2:5 did (*I have given Mount Seir to Esau for a possession*, stored WEB).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### "He is your brother" — Deuteronomy 23:7–8
 
 *"You shall not abhor an Edomite; for he is your brother"* (7). The Edomite is admitted to Yahweh's
@@ -243,6 +249,7 @@ father of the Edomites"* (36:43). **After it he is not mentioned in the book aga
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; given Mount Seir (4).
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.

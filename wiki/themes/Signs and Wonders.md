@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+The people credit Yahweh with *those great signs in our sight* (17), after Yahweh's own account of the plagues and the sea (5–7). The phrase is the people's, not Yahweh's.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### At Gibeon — Joshua 10:1–15
 
 The WEB reports the sun and moon standing still and the sun delaying its setting about a whole day
@@ -169,6 +175,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *those great signs in our sight* (17).
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

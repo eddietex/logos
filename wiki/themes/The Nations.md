@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Verse 11 lists the seven peoples — *the Amorite, the Perizzite, the Canaanite, the Hittite, the Girgashite, the Hivite, and the Jebusite* — as Deuteronomy 7:1 did, in a different order (stored WEB). Their gods remain an option: *the gods of the Amorites, in whose land you dwell* (15).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 *These nations that remain* (4, 7, 12) are both a promise and a danger. Yahweh will drive them out (5). If Israel clings to them, however, they will become *a snare and a trap … thorns in your eyes* (13). Joshua says he has already allotted their land (4).
@@ -537,6 +543,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the seven peoples (11), and the gods of the Amorites (15).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the remaining nations as promised expulsion and possible snare.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.

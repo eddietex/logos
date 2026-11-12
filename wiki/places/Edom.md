@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I gave to Esau Mount Seir, to possess it* (4). Yahweh's own account of Israel's history includes the gift of Seir to Esau, as Deuteronomy 2:5 did (stored WEB).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The lot reaches Edom’s border at the southern wilderness (1). This is a limit of Judah, not a grant of Edom.
@@ -170,6 +176,8 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 **Joshua 12:1–24 — the list of kings.** Seir again names the direction of Mount Halak's ascent (12:7), not Edomite land taken. See [[The Kings Struck Down]].
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *Mount Seir*, given to Esau (4).
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

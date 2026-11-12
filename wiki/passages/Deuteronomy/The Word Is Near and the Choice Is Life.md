@@ -102,6 +102,8 @@ Source: stored WEB, Deuteronomy 30:11–20. Full unit copied verbatim.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:19, 26: *drawn away* to worship, and heaven and earth as witnesses to the same threat of perishing.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 17:8: the case *too hard* for local judges.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:3: *I profess today*, the same verb form as *I denounce to you today* (18).
+- [[The Covenant at Shechem]] — Joshua 24:15, 22; *choose today whom you will serve*, and the
+  people made witnesses against themselves to their choice.
 
 ## Notes
 

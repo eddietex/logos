@@ -25671,3 +25671,40 @@ All quoted verses were checked against stored WEB Joshua 23. Comparisons were ch
 WEB: Exodus 23:13, 33; Numbers 33:55; Deuteronomy 4:26; 6:13–14; 7:3–4; 10:20; Joshua 1:7–8; 9:19;
 13:1; 24:1. No quotation from an unstored book and no source-language claim. Raw texts and
 workflow instructions are unchanged.
+
+## [2026-11-12] ingest | Joshua 24.1-28 — The Covenant at Shechem
+
+Ingested [[The Covenant at Shechem]] in auto mode from stored WEB Joshua 24:1–28. Kept the planned
+boundaries; the burials of 24:29–33 stay a separate final pericope, so Joshua is now 41 / 42
+pericopes ingested. Created one passage page and three connections:
+[[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]],
+[[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]], and
+[[A Jealous God - Exodus 20.5, 34.14, Deuteronomy 4.24, 6.15, and Joshua 24.19]].
+Revised 61 existing content pages: the book, eight earlier passages, fifteen people, nine places,
+seventeen themes, and eleven connections. Forward references to Joshua 24 written before this
+ingest were converted to links on the pages most closely tied to it (the Shechem, witness, hornet,
+Ur, recited-history, teraphim, trees, and pillar connections, and three passages). Bare
+`Joshua 24:32` references to Joseph's bones were left for the next pericope. Also updated ten
+indexes and dashboards and this log. Frontmatter totals: 435 passages, 283 people, 544 places,
+87 themes, 835 connections; 10 books started, 9 complete.
+
+Contradictions flagged, not resolved: *He will not forgive your disobedience nor your sins*
+(24:19) against Exodus 34:7's *forgiving iniquity and disobedience and sin*, recorded on
+[[Forgiveness]] and [[God]]. Two tensions with earlier narrative are recorded on the passage page
+and on [[Balak]] and [[Jericho]]: *the men of Jericho fought against you* (24:11) beside Joshua 6,
+which narrates no battle; and Balak *fought against Israel* (24:9) beside Numbers 22 and Judges
+11:25, *did he ever fight against them?*
+
+Judgment calls: Sihon and Og are linked as *the two kings of the Amorites* (12) on the strength of
+verse 8, though not named. The seven peoples get no new pages; only [[The Perizzites]] had one.
+*The River* is linked to [[The Euphrates]], following the wiki's existing reading. Joshua's *You
+can't serve Yahweh* is given three readings without choosing. Whether *the foreign gods which are
+among you* (23) were physical images is left open. The two Shechem oaks (Genesis 35:4 and Joshua
+24:26) are compared but not identified. *The sanctuary of Yahweh* at Shechem is left unexplained.
+The count of *serve* (fifteen in verses 2 and 14–24) is for the WEB only; no Hebrew claim is made.
+
+All Joshua 24 quotations were copied from stored WEB. Comparisons were checked in stored WEB
+Genesis, Exodus, Numbers, Deuteronomy, and Joshua as listed in the passage page's Sources note.
+Judges 2:7 and 11:25 were checked at bible-api.com (`translation=web`) before being quoted; no
+Judges text was stored. No source-language claim. Raw texts and workflow instructions are
+unchanged.

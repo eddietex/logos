@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+The election runs both ways in this chapter. Yahweh *took* Abraham from among idolaters (3). Then Israel is told *choose today whom you will serve* (15) and made to witness *that you have chosen Yahweh yourselves* (22). Yahweh's choosing comes first in the history; Israel's is demanded as its answer. The wiki does not set the two against each other; the text holds them together.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 The public confirmation promised Joshua in 3:7 is reported accomplished in 4:14. Selection of one
@@ -280,6 +286,8 @@ The king is the one *"whom Yahweh your God chooses"* (17:15), with *bāḥar*, t
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; Yahweh *took* Abraham (3); Israel *chose* Yahweh (15, 22).
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 
 - [[Crossing the Jordan]] — Joshua 3:1–17.

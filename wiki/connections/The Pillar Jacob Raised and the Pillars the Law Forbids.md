@@ -23,7 +23,8 @@ tags: [connection]
 - Deuteronomy 16:21–22 — *"Neither shall you set yourself up a sacred stone which Yahweh your God
   hates"* (16:22) — [[Judges, Worship, and Difficult Cases]]
 - Joshua 4:1–9 — twelve stones out of the Jordan
-- Joshua 24:26–27 — a great stone under an oak, *"it shall be a witness against us"*
+- [[The Covenant at Shechem]] — Joshua 24:26–27; a great stone under an oak, *"it shall be a
+  witness against us"*
 - 1 Samuel 7:12 — Ebenezer
 - 1 Kings 14:23; 2 Kings 17:10; 18:4; 23:14 — the pillars Israel keeps putting up and the kings who
   break them

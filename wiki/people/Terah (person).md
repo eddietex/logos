@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Named in the opening line of Yahweh's history: *Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor: and they served other gods* (2). It is the only biblical statement about the family's religion, and it is made the ground of Joshua's demand to *put away the gods which your fathers served beyond the River* (14). See [[Out of Ur - Terah's Journey and Abram's Call]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 The man who set out for Canaan and stopped, and the only person in Genesis 11:10–32 who is given a
 death.
 
@@ -80,11 +86,12 @@ scattering and a call, and let the reader notice where he died.
 - Settles in [[Haran (city)]] instead, and dies there at 205 — Genesis 11:31–32
 - His son is called out of the city he stopped in, and completes the journey he began — Genesis
   12:1–5, [[The Call of Abram]]
-- Named as an idolater by Joshua at Shechem — Joshua 24:2
+- Named as an idolater by Joshua at Shechem — Joshua 24:2; see [[The Covenant at Shechem]]
 - Named in 1 Chronicles 1:26 and, as Thara, in Luke 3:34
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; named as a father who *served other gods* beyond the River (2).
 - [[From Shem to Abram]] — the last entry of the register at 11:26, and the subject of his own
   *toledot* at 11:27–32
 

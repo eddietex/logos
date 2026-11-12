@@ -21,6 +21,9 @@ tags: [connection]
 - **Ezekiel 21:21** — the king of Babylon at the crossroads, shaking arrows and consulting *teraphim*
 - **Hosea 3:4; Zechariah 10:2** — Israel left *"without ephod or teraphim"*, and *teraphim* that
   *"have spoken vanity"*
+- [[The Covenant at Shechem]] — Joshua 24:14, 23; *"put away the foreign gods which are among
+  you"* at the same place, with no images reported handed over. See
+  [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]]
 
 ## Analysis
 

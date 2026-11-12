@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I sent Moses and Aaron, and I plagued Egypt* (5). Moses is named once, as one sent. The ceremony that follows echoes Sinai — the people's pledge, the words written, a book — and Joshua writes in *the book of the law of God* (26), where 23:6 named *the book of the law of Moses*.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Joshua charges Israel to keep *all that is written in the book of the law of Moses* (6). Moses is present only as the source of the written law, which now governs Israel without him.
@@ -1989,6 +1995,7 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; sent to Egypt (5).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the book of the law of Moses* (6).
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

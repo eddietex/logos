@@ -64,6 +64,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]] | prophecy → fulfillment | Genesis 3:15 · Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · Revelation 12 |
 | [[Provision Before Rest - Manna and the Sabbatical Year]] | thematic-parallel | Exodus 16:19–30 · Leviticus 25:18–22 |
 | [[Puffed Up - Aphal in Numbers 14.44 and Habakkuk 2.4]] | lexical | [[The Defeat at Hormah]] (Numbers 14:44) · Habakkuk 2:4 · Hebrews 10:38 |
+| [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]] | thread | [[Return to Bethel; the Deaths of Rachel and Isaac]] (Genesis 35:2–4) · [[The Covenant at Shechem]] (Joshua 24:14, 23) |
 | [[Put Your Hand Under My Thigh]] | parallel | Genesis 24:2, 9 · Genesis 47:29–31 · Genesis 14:22 · Genesis 15:9–18 · Genesis 21:28–31 |
 | [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] | prophecy → fulfillment | Genesis 35:19–20 · Genesis 48:7 · 1 Samuel 10:2 · Jeremiah 31:15–17 · Matthew 2:16–18 · Ruth 4:11 |
 | [[Rahab and Gibeon - Two Oaths Preserving Life]] | thematic-parallel | [[The Gibeonite Deception]] · [[Rahab and the Spies]] · [[The Fall of Jericho]] · [[The Sun Stands Still at Gibeon]] |

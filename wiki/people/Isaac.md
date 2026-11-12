@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Mentioned as Yahweh's gift: *gave him Isaac. I gave to Isaac Jacob and Esau* (3–4). Isaac receives and passes on; no act of his own is recalled.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The oath to the unnamed fathers is reported fulfilled in land and rest (43–44). Isaac is identified among those fathers in Deuteronomy 9:5, not named individually here; this is remembrance of the promise, not an episode in his life.
@@ -611,6 +617,7 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *I gave to Isaac Jacob and Esau* (4).
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Named in the land oath (4).

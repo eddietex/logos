@@ -10,7 +10,8 @@ tags: [connection]
 - [[Jacob's Flight from Laban]] — Genesis 31:44–52; the heap and pillar in Gilead (stored WEB).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:26–28, 34; the altar that is *not for burnt
   offering, nor for sacrifice* (stored WEB).
-- Joshua 24:26–27 — the great stone under the oak at Shechem (stored WEB; not yet ingested).
+- [[The Covenant at Shechem]] — Joshua 24:26–27; the great stone under the oak at Shechem (stored
+  WEB).
 
 ## Analysis
 
@@ -47,8 +48,8 @@ then *against you*. It stands with the other witnesses Deuteronomy calls *agains
 and earth, the song, and the book of the law. See
 [[Heaven and Earth as Witnesses - Deuteronomy 4, 30, and 31]].
 
-Sources: stored WEB Genesis 31:44–53; Joshua 22:10–34; 24:26–27. Joshua 24 is quoted from the
-stored WEB before its ingest. No claim is made about the Hebrew wording of any of the three
+Sources: stored WEB Genesis 31:44–53; Joshua 22:10–34; 24:26–27. Joshua 24 was quoted from the
+stored WEB before its ingest and is now ingested as [[The Covenant at Shechem]]. No claim is made about the Hebrew wording of any of the three
 naming or witness formulas.
 
 ## Significance

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Jacob and his children *went down into Egypt* (4); Yahweh *plagued Egypt* and brought Israel out (5–6); the people later call it *the house of bondage* (17). Egypt is also a source of gods to be put away: *the gods which your fathers served beyond the River, in Egypt* (14).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The land that remains — Joshua 13:1–7
 
 The Shihor is located before Egypt (3). Egypt is a geographical reference for the remaining territory, not a land conquered in this speech.
@@ -450,6 +456,8 @@ The king *"shall not multiply horses to himself, nor cause the people to return 
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the descent, the plagues, *the house of bondage*, and gods served there (4–7, 14, 17).
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Second Circumcision at Gilgal]] — Joshua 5:1–9.

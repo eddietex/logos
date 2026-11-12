@@ -122,6 +122,9 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the third festival calendar, with the three appearances at the
   chosen place. See [[Three Times a Year - Exodus 23, Exodus 34, and Deuteronomy 16]].
 - [[Break Its Neck - Exodus 13.13, 34.20, and Deuteronomy 21.4]] — 34:20 and the heifer of Deuteronomy 21:4.
+- [[A Jealous God - Exodus 20.5, 34.14, Deuteronomy 4.24, 6.15, and Joshua 24.19]] — verse 14's
+  name *Jealous*, and Joshua 24:19's *He will not forgive* set against verse 7's *forgiving
+  iniquity*.
 
 ## Notes
 

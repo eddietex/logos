@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Not named. With Sihon he is one of *the two kings of the Amorites* (12) whom the hornet drove out, *not with your sword, nor with your bow*.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Eastern allotments — Joshua 13:8–33
 
 His former realm, including Ashtaroth and Edrei, is allotted to eastern Manasseh (12, 30–31). His membership in the remnant of the Rephaim is recalled, not a new encounter.
@@ -89,6 +95,8 @@ land (34–35). This unit gives no physical description of Og.
 - Joshua 12:4–5 — recalled with his realm.
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; one of *the two kings of the Amorites* (12), not named.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[Rahab and the Spies]] — Joshua 2:1–24.

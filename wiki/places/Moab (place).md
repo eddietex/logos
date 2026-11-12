@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*Balak the son of Zippor, king of Moab, arose and fought against Israel* (9). Numbers narrates the hiring of Balaam, not a battle; see [[Balak]] for the tension recorded with Judges 11:25.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Its plains beyond the Jordan at Jericho are the remembered setting of Moses’ distribution (32).
@@ -268,6 +274,8 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; Balak, king of Moab, hires Balaam (9).
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses' death, burial, and mourning.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.

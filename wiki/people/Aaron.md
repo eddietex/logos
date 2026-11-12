@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Named with Moses as sent before the plagues (5). He is not mentioned again in the speech; his son's burial follows at 24:33.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 His priestly descendants receive the first lot: thirteen cities, a distinct subset of Kohath’s descendants (4, 10, 19).
@@ -766,6 +772,7 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; sent with Moses (5).
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

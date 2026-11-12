@@ -13,6 +13,8 @@ tags: [connection]
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.
+- [[The Covenant at Shechem]] — Joshua 24:13; *"a land whereon you had not labored"*. See
+  [[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]].
 
 ## Analysis
 

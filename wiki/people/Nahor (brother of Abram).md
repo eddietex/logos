@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Named only as a son of Terah — *the father of Abraham, and the father of Nahor* (2) — among the fathers beyond the River who *served other gods*. Nahor stays on that side; the history follows Abraham.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 The brother who stays, and whose household ends up supplying wives to the next two generations of
 the family that left.
 
@@ -76,6 +82,7 @@ in Scripture to a glimpse of what the branch that stayed behind worshipped. See
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; named as Terah's other son, among the fathers who served other gods (2).
 - [[From Shem to Abram]] — Genesis 11:26–29
 - [[Nahor's Line and the Burial of Sarah]] — Genesis 22:20–24; twelve sons by two women, reported to
   Abraham in the only piece of news from Mesopotamia in the cycle, and assembled around one clause at

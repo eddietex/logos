@@ -96,8 +96,7 @@ as surely bring *all the evil things* if Israel breaks the covenant and serves o
   he now says he has allotted.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:5; the charge to love and hold fast, first given
   to the eastern tribes and now to all Israel.
-- The covenant at Shechem — Joshua 24:1–28, the second farewell assembly, which follows (not
-  yet ingested).
+- [[The Covenant at Shechem]] — Joshua 24:1–28, the second farewell assembly, which follows.
 - [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]]
   — the ban on invoking other gods' names, set against the command to swear by Yahweh's.
 - [[Little by Little - The Hornet, the Snare, and the Land Not Taken]] — the snare, Numbers

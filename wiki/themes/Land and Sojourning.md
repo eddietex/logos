@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I gave you a land whereon you had not labored, and cities which you didn't build* (13). The history begins with Abraham led *throughout all the land of Canaan* as a sojourner (3) and ends with Israel sent *each to his own inheritance* (28). See [[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 The land is *this good land which Yahweh your God has given you* (13, 15, 16), and in all three verses the phrase comes with a warning of perishing from it. The allotment includes nations that remain (4). Possession is presented as a gift that can be lost.
@@ -1027,6 +1033,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; a land Israel had not labored for (13); each to his own inheritance (28).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the good land given and conditionally held.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

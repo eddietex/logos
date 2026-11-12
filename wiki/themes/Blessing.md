@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I would not listen to Balaam; therefore he blessed you still* (10). The blessing is credited to Yahweh's refusal, as in Deuteronomy 23:5 (stored WEB).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 *All the good things* Yahweh spoke have come (14–15). Joshua turns that record of blessing into the guarantee behind the warning that follows.
@@ -571,6 +577,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam's curse refused, so *he blessed you still* (10).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good thing fulfilled (14).
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

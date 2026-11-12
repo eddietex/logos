@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Joshua names three sets of gods: those the fathers served *beyond the River*, those served *in Egypt*, and *the gods of the Amorites, in whose land you dwell* (14–15). Idolatry is placed at the root of Israel's own family: Terah and the fathers *served other gods* (2). After the people's pledge, Joshua still says *put away the foreign gods which are among you* (23), the words Jacob used at Shechem (Genesis 35:2, stored WEB). Whether images were present is not said. See [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Joshua forbids four acts toward the gods of the remaining nations: mentioning their names, causing anyone to swear by them, serving them, and bowing to them (7). Serving and bowing to other gods is then named as the breach of the covenant (16). See [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]].
@@ -456,6 +462,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the fathers' gods, Egypt's gods, the Amorites' gods; *put away the foreign gods*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; naming, swearing by, serving, and bowing to other gods forbidden.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

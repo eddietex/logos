@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*Jacob and his children went down into Egypt* (4), after Esau receives Mount Seir. The descent is told without Joseph or famine. *Israel* in this assembly is again the nation, whose tribes are sent *each to his own inheritance* (28). The command to *put away the foreign gods which are among you* (23) repeats Jacob's own words at Shechem (Genesis 35:2, stored WEB); see [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 *All Israel* (2) is his descendants, gathered through their elders, heads, judges, and officers. The patriarch does not act.
@@ -888,6 +894,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; goes down into Egypt (4); his Shechem command repeated (23).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Israel as the assembled nation.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

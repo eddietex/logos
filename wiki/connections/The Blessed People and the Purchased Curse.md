@@ -17,6 +17,9 @@ tags: [connection]
 - [[Yahweh Bless You and Keep You]] — Numbers 6:22–27.
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5.
+- [[The Covenant at Shechem]] — Joshua 24:9–10; Yahweh speaks: *"I would not listen to Balaam;
+  therefore he blessed you still."* Balak is said to have *"fought against Israel"*, though
+  Numbers narrates the hire, not a battle.
 
 ## Analysis
 

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+The Jordan marks the two stages of the history: *the land of the Amorites, that lived beyond the Jordan* (8), and *You went over the Jordan, and came to Jericho* (11). The crossing itself is not described.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 The eastern end of the allotment Joshua describes, *from the Jordan … even to the great sea* (4).
@@ -355,6 +361,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the Amorites beyond it (8), and the crossing (11).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; eastern limit of the allotment (4).
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

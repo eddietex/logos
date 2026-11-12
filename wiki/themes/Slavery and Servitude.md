@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*Serve* governs the whole second half of the chapter: in the WEB, *serve*, *served*, or *serves* occurs fifteen times in verses 2 and 14–24. The people recall Egypt as *the house of bondage* (17). The choice set before them is not between serving and freedom but between masters: Yahweh, the fathers' gods, or the Amorites' gods (15). No claim about the Hebrew verb is made.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Israel’s increased strength leads to forced labor imposed on the Canaanites rather than their
@@ -446,6 +452,8 @@ brothers of the children of Israel"*, whom the thief *"deals with … as a slave
 its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *choose today whom you will serve* (15); *the house of bondage* (17).
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

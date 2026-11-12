@@ -598,6 +598,8 @@ shown getting either of them back.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:4; the vow paid without delay. Jacob's altar at
   Bethel (35:1–7) is the narrative's partial payment of 28:20–22; see
   [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
+- [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]] — Jacob's order to his
+  household, repeated by Joshua to the nation at Shechem in [[The Covenant at Shechem]].
 
 ## Notes
 

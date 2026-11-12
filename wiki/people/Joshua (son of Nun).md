@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Joshua's second farewell assembly. He speaks as Yahweh's prophet (*Yahweh says*, 2), declares *as for me and my house, we will serve Yahweh* before the people answer (15), and then objects to their pledge: *You can't serve Yahweh* (19). He makes the people witnesses against themselves, makes a covenant, writes the words *in the book of the law of God*, and sets up a stone under the oak at Shechem (22–27). The writing recalls Moses at Sinai (Exodus 24:4, stored WEB), but Joshua builds no altar here. This is the first time the book gives him a household of his own.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Old and *well advanced in years* (1–2), the words of 13:1 now in his own mouth, he gathers Israel's leaders for the first of two farewells. He credits every victory to Yahweh (3), says he has allotted the nations that remain (4), and passes on the charge of 1:7 to be *very courageous* in keeping the book of the law (6). He calls his death *the way of all the earth* (14); it is narrated at 24:29.
@@ -397,6 +403,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; second farewell; *as for me and my house*; the covenant made and written.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; first farewell, to the elders, heads, judges, and officers.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

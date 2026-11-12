@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Yahweh speaks Israel's history in his own first person — *I took*, *I gave*, *I sent*, *I plagued*, *I brought* — from Terah's idolatry to a land Israel *had not labored* for (2–13). The victories are his: the hornet, *not with your sword, nor with your bow* (12). Joshua then calls him *a holy God … a jealous God* who *will not forgive your disobedience nor your sins* (19). **Tension recorded, not resolved:** Exodus 34:6–7 proclaims him *forgiving iniquity and disobedience and sin* (stored WEB); Joshua's words stand closest to Exodus 23:21, about the angel who *will not pardon your disobedience*, and both are spoken about serving other gods. See [[A Jealous God - Exodus 20.5, 34.14, Deuteronomy 4.24, 6.15, and Joshua 24.19]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Yahweh is the one who *has fought for you* (3, 10) and who will drive out the nations that remain (5). Joshua makes his faithfulness cut both ways. Not one good thing he spoke has failed (14), and so *all the evil things* will come as surely if Israel breaks his covenant and serves other gods (15–16).
@@ -4013,6 +4019,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the history spoken in his first person; *a holy God … a jealous God*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good word kept, the evil words as certain.
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

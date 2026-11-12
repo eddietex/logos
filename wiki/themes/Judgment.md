@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*If you forsake Yahweh, and serve foreign gods, then he will turn and do you evil, and consume you, after he has done you good* (20). Past goodness is no protection; it makes the turn sharper. Joshua 23:15 made the same point with *all the evil things*.
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Joshua names the sentence for serving other gods: Yahweh's anger kindled, and Israel perishing *quickly* from the good land (16). Before that, Yahweh would stop driving out the nations and let them become a snare (13). This unit does not say whether or when the warning is carried out.
@@ -1036,6 +1042,8 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *he will turn and do you evil, and consume you* (20).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and perishing from the land.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I would not listen to Balaam; therefore he blessed you still. So I delivered you out of his hand* (10). As in Deuteronomy 23:5 (stored WEB), the turn from curse to blessing is credited to Yahweh's refusal to listen, not to Balaam's choice. See [[The Blessed People and the Purchased Curse]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Israel’s killing of Balaam is recalled amid the eastern territorial register (22), which calls him the soothsayer in the WEB. Numbers 31:8 supplies the matching death notice; neither account explains his movements after Numbers 24:25.
@@ -72,6 +78,8 @@ not yet say that Balaam accepted payment.
 - Numbers 22:1–21: Son of [[Beor (father of Balaam)]], summoned from [[Pethor]] by [[Balak]] to curse Israel. He consults Yahweh twice and asserts that even a house full of wealth cannot authorize him to exceed the divine word (8–20). The narrator reports the rewards brought by the first delegation but does not yet say that Balaam accepted payment.
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; Yahweh *would not listen to Balaam* (10).
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The War Against Midian]] — Numbers 31:1–54; killed among Midian (8); the counsel of Peor attributed to him (16).

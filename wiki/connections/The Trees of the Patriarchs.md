@@ -25,8 +25,8 @@ tags: [connection]
   See [[Bitter Water at Marah]].
 - [[Set These Words Before You]] — Deuteronomy 11:30; Gerizim and Ebal located *"beside the oaks of
   Moreh"*, the WEB's plural where Genesis 12:6 has the singular.
-- **Joshua 24:26** — Joshua sets a great stone *"under the oak that was by the sanctuary of Yahweh"*
-  at Shechem, at the covenant renewal.
+- [[The Covenant at Shechem]] — Joshua 24:26; Joshua sets a great stone *"under the oak that was by
+  the sanctuary of Yahweh"* at Shechem, at the covenant renewal.
 - **Judges 6:11, 19; 9:6, 37** — the oak at Ophrah; the oak of the pillar at Shechem where Abimelech
   is made king; the *oak of the diviners*.
 - **Deuteronomy 16:21** — *"You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God's altar,

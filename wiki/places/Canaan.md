@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+Yahweh led Abraham *throughout all the land of Canaan* (3) and at the end gave Israel *a land whereon you had not labored, and cities which you didn't build* (13). The land is the frame of the history: walked through by one man, then possessed without labor by his descendants, who are sent *each to his own inheritance* (28). See [[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Called *this good land which Yahweh your God has given you* three times (13, 15, 16), each time as the land Israel could perish from. Gift and possible loss are named together.
@@ -526,6 +532,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; led through by Abraham (3), given without labor (13).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *this good land*, held on condition of covenant loyalty.
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

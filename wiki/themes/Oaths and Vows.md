@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+No oath formula is used, but the people bind themselves in words three times (16–18, 21, 24) and then accept being witnesses: *You are witnesses against yourselves … They said, "We are witnesses"* (22). A stone is added as a second witness (27). See [[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Israel must not *cause to swear by* the nations' gods (7). Read with Deuteronomy 6:13 and 10:20, where Israel swears by Yahweh's name, the god invoked in an oath is the god trusted. See [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]].
@@ -508,6 +514,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the people as witnesses against themselves, and the witness stone (22, 27).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; no swearing by other gods (7).
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.

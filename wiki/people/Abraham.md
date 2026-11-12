@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*I took your father Abraham from beyond the River, and led him throughout all the land of Canaan, and multiplied his offspring, and gave him Isaac* (3). In Yahweh's telling every verb is Yahweh's; Abraham's own faith and obedience are not mentioned. He is the first one taken out from among fathers who *served other gods* (2).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The unnamed fathers receive the oath whose fulfillment the narrator now affirms (43–44). Deuteronomy 9:5 identifies Abraham, Isaac, and Jacob as its recipients. This is ancestral background, not Abraham named or acting in this passage.
@@ -902,6 +908,7 @@ promise persists even when the terms of divine accompaniment are disputed. See
 
 ## Appears in
 
+- [[The Covenant at Shechem]] — Joshua 24:1–28; *I took your father Abraham from beyond the River* (3).
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The sworn land shown to Moses (4).

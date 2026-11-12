@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The covenant at Shechem — Joshua 24:1–28
+
+*The Egyptians pursued your fathers with chariots and with horsemen to the Red Sea. When they cried out to Yahweh, he put darkness between you and the Egyptians, and brought the sea on them* (6–7). The darkness matches the cloud of Exodus 14:20, where *there was the cloud and the darkness* between the camps (stored WEB).
+
+See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
+
 ### The twelve stones — Joshua 4:1–24
 
 Joshua explicitly compares Yahweh’s drying of the Jordan with his drying of the Red Sea (23).
@@ -89,6 +95,8 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+
+- [[The Covenant at Shechem]] — Joshua 24:1–28; the pursuit, the darkness, and the sea brought on the Egyptians (6–7).
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
