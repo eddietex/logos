@@ -10,6 +10,7 @@ tags: [connection]
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 - [[Remember His Deeds and Guard Your Hearts]] — Deuteronomy 11:1–32, especially 13 and 22.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9, especially 5.
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:8, 11; the charge extended to all Israel.
 
 ## Analysis
 
@@ -26,6 +27,16 @@ and applies it after the warriors' particular obligation has been fulfilled (22:
 The settings differ. Deuteronomy addresses Israel before western possession; Joshua addresses
 the eastern tribes as they return to their grant. Neither possession nor an honored record
 of service is presented as making continued fidelity unnecessary.
+
+### Extended to all Israel — Joshua 23
+
+Joshua's farewell repeats two of these demands to the whole nation: *hold fast to Yahweh your God,
+as you have done to this day* (8) and *love Yahweh your God* (11). In the WEB, verse 12 uses the
+same English verb for the wrong loyalty, holding fast *to the remnant of these nations*. What was
+said to the eastern tribes on their way home is now said to the tribes who live among the remaining
+peoples. As before, this compares the WEB wording only.
+
+Source: stored WEB Joshua 23:8, 11–12.
 
 ## Significance
 

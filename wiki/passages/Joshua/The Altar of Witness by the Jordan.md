@@ -89,6 +89,7 @@ plan for war (32–33). Reuben and Gad name the altar *A Witness Between Us that
 
 ## Cross-references
 
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the farewell assembly that follows.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9; the commendation and dismissal this dispute
   follows.
 - [[The Two and a Half Tribes - Numbers 32, Deuteronomy 3, and Joshua 1, 4, 22]] — the eastern

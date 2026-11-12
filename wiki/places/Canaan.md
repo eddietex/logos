@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Called *this good land which Yahweh your God has given you* three times (13, 15, 16), each time as the land Israel could perish from. Gift and possible loss are named together.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 The WEB places the altar *in the land of Canaan* (10–11), and the delegation returns from Gilead
@@ -519,6 +525,8 @@ forbidden (34:11–16). Enlarged borders and security during the annual appearan
 explicitly named country in this unit; no arrival or conquest is narrated. See [[The Covenant Renewed]].
 
 ## Appears in
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *this good land*, held on condition of covenant loyalty.
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

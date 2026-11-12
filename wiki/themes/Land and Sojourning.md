@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+The land is *this good land which Yahweh your God has given you* (13, 15, 16), and in all three verses the phrase comes with a warning of perishing from it. The allotment includes nations that remain (4). Possession is presented as a gift that can be lost.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The eastern possession remains legitimate under Yahweh’s command through Moses (4, 9). Manasseh’s
@@ -1020,6 +1026,8 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the good land given and conditionally held.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

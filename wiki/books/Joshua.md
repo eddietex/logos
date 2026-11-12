@@ -199,6 +199,12 @@ eastern tribes first. The tribes say it is a copy of Yahweh's altar and a witnes
 children will not be told they have *no portion in Yahweh*. Israel blesses God and calls off the
 war. Joshua himself is not named in the episode.
 
+[[Joshua's Farewell to the Leaders]] (23:1–16) is the first of two farewell assemblies. The aged
+Joshua credits every victory to Yahweh, says he has allotted the nations that remain, and charges
+Israel to keep the book of the law, refuse the nations' gods and marriages, hold fast to Yahweh,
+and love him. He repeats that no good word has failed, and warns that the evil words will be kept
+just as surely if Israel breaks the covenant.
+
 ## Structure
 
 - 1–5 — commission and entry: the charge, Rahab and the spies, the Jordan crossed, Gilgal.
@@ -215,7 +221,7 @@ Ingestion queue. `- [x]` = ingested (links to its passage page), `- [ ]` = not y
 unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional — edit, split,
 merge, or reorder them freely.
 
-Plan drawn 2026-11-10 from the stored WEB. **39 / 42 pericopes ingested.**
+Plan drawn 2026-11-10 from the stored WEB. **40 / 42 pericopes ingested.**
 
 - [x] [[After the Death of Moses]] — Joshua 1:1–9
 - [x] [[The Eastern Tribes Pledge to Cross]] — Joshua 1:10–18
@@ -256,7 +262,7 @@ Plan drawn 2026-11-10 from the stored WEB. **39 / 42 pericopes ingested.**
 - [x] [[Not One Good Thing Failed]] — Joshua 21:43–45
 - [x] [[The Eastern Tribes Sent Home]] — Joshua 22:1–9
 - [x] [[The Altar of Witness by the Jordan]] — Joshua 22:10–34
-- [ ] Joshua's Farewell to the Leaders — Joshua 23:1–16
+- [x] [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16
 - [ ] The Covenant at Shechem — Joshua 24:1–28
 - [ ] The Burials of Joshua, Joseph, and Eleazar — Joshua 24:29–33
 

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+*All Israel* (2) is his descendants, gathered through their elders, heads, judges, and officers. The patriarch does not act.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 The children of Israel in verse 9 are the collective descendants from whom the eastern tribes depart
@@ -881,6 +887,8 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Named as Israel; his descendants mustered. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Israel as the assembled nation.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

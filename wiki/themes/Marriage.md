@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Marrying into the nations that remain, *and go in to them, and they to you* (12), is the step Joshua warns will end Yahweh's driving them out (13). As in Deuteronomy 7:3–4, the danger is religious: the marriages lead to other gods.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### Achsah’s springs — Joshua 15:13–19
 
 Caleb promises his daughter to the man who captures Kiriath Sepher; Othniel succeeds and receives Achsah (16–17). Her consent to that arrangement is not narrated. Her subsequent initiative in seeking a field and springs is explicitly narrated (18–19).
@@ -482,6 +488,8 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; intermarriage with the remaining nations warned against (12).
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

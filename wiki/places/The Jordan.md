@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+The eastern end of the allotment Joshua describes, *from the Jordan … even to the great sea* (4).
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 A great altar is built *by the Jordan*, on the side the WEB places in Canaan (10–11). The eastern
@@ -348,6 +354,8 @@ baptised in it** (Mark 1:9). **The river of arrival in every later book is, in G
 the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; eastern limit of the allotment (4).
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

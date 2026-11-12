@@ -49,6 +49,7 @@ Yahweh's delivery of the enemies, not to a new battle or a named leader's achiev
 
 ## Cross-references
 
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:14–16 repeats this verdict in Joshua's mouth and adds a warning of loss.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9 now records the authorized return after the brothers receive rest.
 - [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]] — the rest anticipated in Deuteronomy 12:9–10 and Joshua 1:13–15 is reported as given.
 - [[Not for Your Righteousness - The Ancestral Oath and the Gift of the Land]] — Deuteronomy 9:5 grounds possession in the ancestral oath rather than Israel's merit.

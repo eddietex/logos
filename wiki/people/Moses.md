@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Joshua charges Israel to keep *all that is written in the book of the law of Moses* (6). Moses is present only as the source of the written law, which now governs Israel without him.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 His command has been kept (2), his grant remains valid (4, 7, 9), and his instruction governs
@@ -1982,6 +1988,8 @@ out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 
 ## Appears in
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the book of the law of Moses* (6).
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

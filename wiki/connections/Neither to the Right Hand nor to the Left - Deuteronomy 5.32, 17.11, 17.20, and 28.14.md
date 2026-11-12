@@ -26,6 +26,10 @@ tags: [connection]
 - Joshua 1:7 *(not yet ingested; WEB checked)* — *"Don't turn from it to the right hand or to the
   left, that you may have good success wherever you go."*
 
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:6: *"Therefore be very courageous to keep and to do
+  all that is written in the book of the law of Moses, that you not turn away from it to the right
+  hand or to the left"* (stored WEB).
+
 ## Analysis
 
 **A road image made into a rule.** In Numbers 20:17 and Deuteronomy 2:27 the words are literal:
@@ -58,6 +62,15 @@ Neither is claimed as a quotation of Deuteronomy; the image is common.
 The now-ingested blessing section ends with the same directional warning (14). Its function here is to retain exclusive allegiance within the promises of prosperity and national standing; no amount of abundance makes departure to other gods permissible. This addition compares the stored WEB, without adding a source-language claim.
 
 Source: stored WEB Deuteronomy 28:1–14 and the comparison verses cited above.
+
+### Joshua's farewell — Joshua 23:6
+
+Joshua passes on to Israel the charge Yahweh gave him in 1:7: courage, the law of Moses, and no
+turning to right or left. As in Deuteronomy 28:14, the next verse names what lies off the road, the
+gods of the nations (23:7). In 1:7 the object was *all the law*; here it is *all that is written in
+the book of the law of Moses*. The road is now a written one. No Hebrew claim is made for Joshua.
+
+Source: stored WEB Joshua 1:7 and 23:6–7.
 
 ## Significance
 

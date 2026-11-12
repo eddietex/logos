@@ -25642,3 +25642,32 @@ claim. Raw texts and workflow instructions are unchanged.
 
 Validation: scripts/link-check.sh exits 0 with 56 expected not-yet-started book targets;
 frontmatter totals match wiki/index.md; git diff --check passes. No unresolved blocker.
+
+## [2026-11-12] ingest | Joshua 23.1-16 — Joshua's Farewell to the Leaders
+
+Ingested [[Joshua's Farewell to the Leaders]] in auto mode from stored WEB Joshua 23:1–16.
+Kept the planned boundaries. Chapter 24's Shechem covenant stays a separate pericope because its
+setting and form differ, so 24:1–28 is next. Joshua is now 40 / 42 pericopes ingested.
+Created one passage page and one connection,
+[[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]].
+Revised 34 existing content pages: the book, seven earlier passages, four people, three places,
+thirteen themes, and six connections (Little by Little, Five Shall Chase a Hundred, Rest from All
+Your Enemies, Neither to the Right Hand nor to the Left, Love and Hold Fast After the Campaign,
+and A Blessing and a Curse Set Before You). Also updated nine indexes and dashboards and this log.
+Frontmatter totals: 434 passages, 283 people, 544 places, 87 themes, 832 connections;
+10 books started, 9 complete.
+
+Judgment calls: the leaders gathered (elders, heads, judges, officers) are unnamed and get no
+page. Joshua's claim to have allotted *these nations that remain* (4) is set beside the
+remaining-land notices without being harmonized. The WEB's *hold fast* in verses 8 and 12 is
+noted as an English echo only; whether one Hebrew verb lies behind both was not checked. The
+link between *as he spoke to you* (10) and Leviticus 26:8 is left open. *The way of all the
+earth* is cross-referenced to 1 Kings 2:2 by reference only; 1 Kings is not stored and was not
+quoted. The *thorns* image is compared with Numbers 33:55 as a rearranged echo, not called a
+quotation. No contradiction with an existing page surfaced. The timeline on
+[[Joshua (son of Nun)]] has not been kept up past Joshua 1 in earlier ingests and was left as is.
+
+All quoted verses were checked against stored WEB Joshua 23. Comparisons were checked in stored
+WEB: Exodus 23:13, 33; Numbers 33:55; Deuteronomy 4:26; 6:13–14; 7:3–4; 10:20; Joshua 1:7–8; 9:19;
+13:1; 24:1. No quotation from an unstored book and no source-language claim. Raw texts and
+workflow instructions are unchanged.

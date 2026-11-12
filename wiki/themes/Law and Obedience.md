@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Courage is aimed at a text: *keep and … do all that is written in the book of the law of Moses*, turning neither right nor left (6), as in 1:7. Joshua sets obedience beside a plain warning: the God who kept every good word will keep the threatened ones too (14–16).
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Past military obedience is commended (2–3); future obedience remains urgent (5). Completion of a
@@ -1523,6 +1529,8 @@ The king's only positive duty is to *"write himself a copy of this law in a book
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the book of the law kept, without turning aside.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

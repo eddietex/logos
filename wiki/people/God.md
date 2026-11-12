@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Yahweh is the one who *has fought for you* (3, 10) and who will drive out the nations that remain (5). Joshua makes his faithfulness cut both ways. Not one good thing he spoke has failed (14), and so *all the evil things* will come as surely if Israel breaks his covenant and serves other gods (15–16).
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 Invoked twice under one triple title, *The Mighty One, God, Yahweh* (WEB), as the one who
@@ -4006,6 +4012,8 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 
 ## Appears in
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good word kept, the evil words as certain.
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

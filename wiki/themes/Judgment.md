@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Joshua names the sentence for serving other gods: Yahweh's anger kindled, and Israel perishing *quickly* from the good land (16). Before that, Yahweh would stop driving out the nations and let them become a snare (13). This unit does not say whether or when the warning is carried out.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 The fugitive presents his case to the refuge city’s elders at its gate (4); the congregation’s trial remains ahead (6, 9). Admission and final judgment are distinct moments, not interchangeable verdicts.
@@ -1030,6 +1036,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and perishing from the land.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+*The great sea toward the going down of the sun* (4) is the western limit of the land Joshua says he has allotted, in the same words as 1:4.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The last three lots — Joshua 19:24–48
 
 Asher’s border *ended at the sea by the region of Achzib* (29). The verse says only *the sea*; the westward setting identifies it.
@@ -75,6 +81,7 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; western limit of the allotted land (4).
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Asher’s border ends at it.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.

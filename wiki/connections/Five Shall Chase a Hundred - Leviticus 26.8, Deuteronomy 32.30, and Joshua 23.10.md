@@ -13,8 +13,8 @@ tags: [connection]
   you"*; *"when no one pursues"* (stored WEB; pericope not yet ingested).
 - **Deuteronomy 32:30** — *"How could one chase a thousand, and two put ten thousand to flight, unless
   their Rock had sold them, and Yahweh had delivered them up?"* *(not yet ingested)*
-- **Joshua 23:10** — *"One man of you shall chase a thousand; for it is Yahweh your God who fights for
-  you, as he spoke to you."* *(not yet ingested)*
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:10: *"One man of you shall chase a thousand; for it
+  is Yahweh your God who fights for you, as he spoke to you."* (now ingested)
 
 ## Analysis
 
@@ -33,6 +33,17 @@ present. See [[Bold as a Lion - Proverbs 28.1, Leviticus 26.36, and Job 3.25]].
 Deuteronomy has one to a thousand and two to ten thousand; Joshua has one to a thousand. The texts share
 a pattern of disproportion, not a stated exchange rate. Deuteronomy's second verb is *yānîsû*, *put to
 flight*, and not *rādap* again.
+
+### Joshua 23 now ingested
+
+The stored WEB confirms the quotation. In context, verse 10 follows a statement about the past,
+*no man has stood before you to this day* (9). It then sets up a condition: if Israel clings to the
+remaining nations, Yahweh *will no longer drive these nations* out (12–13). So Joshua's promise stands
+between Leviticus 26:8 and the reversal of Deuteronomy 32:30. It depends on Yahweh fighting, and
+Joshua names what would stop him. *As he spoke to you* (10) points back to an earlier promise without
+naming which one. The wiki does not decide that it is Leviticus 26:8.
+
+Source: stored WEB Joshua 23:9–13.
 
 ## Significance
 

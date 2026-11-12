@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+No battle is narrated. Joshua credits every victory to Yahweh, *who has fought for you* (3, 10), and repeats the promise that *one man of you shall chase a thousand* (10). The courage he asks for in verse 6 is aimed at the law, not at the battlefield.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 Israel musters at Shiloh against its own tribes (12) and then calls the war off (33). This is
@@ -688,6 +694,8 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Yahweh the one who fights; one chasing a thousand.
 
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

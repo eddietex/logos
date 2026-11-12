@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Old and *well advanced in years* (1–2), the words of 13:1 now in his own mouth, he gathers Israel's leaders for the first of two farewells. He credits every victory to Yahweh (3), says he has allotted the nations that remain (4), and passes on the charge of 1:7 to be *very courageous* in keeping the book of the law (6). He calls his death *the way of all the earth* (14); it is narrated at 24:29.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 He commends the eastern tribes for obedience, authorizes their return, renews the call to love and
@@ -390,6 +396,8 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Joshua 12:7–24 — thirty-one western kings counted as his.
 
 ## Appears in
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; first farewell, to the elders, heads, judges, and officers.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

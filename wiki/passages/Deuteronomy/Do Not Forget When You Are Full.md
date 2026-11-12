@@ -104,6 +104,7 @@ Complete unit, copied from the stored WEB:
 - [[War]]
 
 ## Cross-references
+- [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]] — 6:13–14, swearing by Yahweh's name, set against Joshua 23:7.
 - [[When Your Children Ask - Exodus, Deuteronomy, and Joshua]] — the children’s question and the Jordan memorial.
 
 - [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]] — [[First Fruits and the Tithe Declaration]]; 6:21–23 and 26:5–9 as two short retellings.

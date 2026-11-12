@@ -79,6 +79,8 @@ WEB, copied from `raw/bible/Deuteronomy.md`.
 
 ## Cross-references
 
+- [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]] — 10:20, fear, serve, cling, and swear by his name.
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:8, 11 repeats *hold fast* and *love* to all Israel.
 - [[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]] — Joshua 22:5 renews this instruction at the eastern tribes’ discharge.
 - [[Circumcision of the Heart]]
 - [[A Foreigner in a Foreign Land - Gershom and the Law of the Stranger]]

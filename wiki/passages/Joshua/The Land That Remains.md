@@ -76,6 +76,7 @@ does not cancel his responsibility.
 
 ## Cross-references
 
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–5; the old Joshua says he has allotted the nations that remain.
 - [[Hazor Burned and the Northern Land Still Remaining]]
 - [[The Southern Conquest and the Land Still Remaining]]
 - [[Little by Little - The Hornet, the Snare, and the Land Not Taken]]

@@ -16,6 +16,10 @@ tags: [connection]
 - **Deuteronomy 4:26** *(ingested)* — *"I call heaven and earth to witness against you today"*, the
   same witness formula 30:19 uses. See [[No Form Seen and No Image Made]].
 
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:14–16; *"as all the good things have come on you
+  … so Yahweh will bring on you all the evil things"* (15, stored WEB). The pair is spoken as two
+  certainties rather than set before Israel as a choice. It is related, but not a quotation.
+
 ## Analysis
 
 The two passages close two sections of Deuteronomy. Chapter 11 ends the exhortation that began at

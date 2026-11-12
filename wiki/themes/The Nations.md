@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+*These nations that remain* (4, 7, 12) are both a promise and a danger. Yahweh will drive them out (5). If Israel clings to them, however, they will become *a snare and a trap … thorns in your eyes* (13). Joshua says he has already allotted their land (4).
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The enemies are collective and unnamed (44). Their defeat is comprehensively attributed to Yahweh, while 16:10 and 17:12–13 retain Canaanites in the land. Victory and total removal must not be silently equated.
@@ -530,6 +536,8 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the remaining nations as promised expulsion and possible snare.
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 - [[The Cities of Judah]] — Joshua 15:20–63.

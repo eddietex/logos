@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Joshua forbids four acts toward the gods of the remaining nations: mentioning their names, causing anyone to swear by them, serving them, and bowing to them (7). Serving and bowing to other gods is then named as the breach of the covenant (16). See [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]].
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 Israel’s sacrifices go to demons rather than God (17); its new gods provoke jealousy (16–21). The taunt in 37–38 asks those gods to rescue their worshippers, while 39 denies any god alongside Yahweh. The poem’s language about gods must be read with its own denial of their saving power.
@@ -449,6 +455,8 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; naming, swearing by, serving, and bowing to other gods forbidden.
 
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

@@ -22,7 +22,8 @@ tags: [connection]
 - **Deuteronomy 7:1–5, 20–24** — seven nations; no covenant, no marriages; the hornet; *"little by
   little … lest the animals of the field increase on you"* (stored WEB) —
   [[A People Chosen in Love]] · [[Blessing and the Removal of the Nations]]
-- **Joshua 23:13** — *"they shall be a snare and a trap to you"* (WEB; *not yet ingested*)
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:4–5, 12–13; *"they shall be a snare and a trap to
+  you, a scourge in your sides, and thorns in your eyes"* (stored WEB; now ingested)
 - **Joshua 24:12** — *"I sent the hornet before you … not with your sword, nor with your bow"* (WEB;
   *not yet ingested*)
 - **Judges 2:1–3** — Yahweh's angel at Bochim: *"I will not drive them out from before you; but they
@@ -112,6 +113,19 @@ The earlier Exodus account’s planned gradual removal and this warning against 
 in tension; Numbers gives no deadline that would settle their practical relationship.
 
 Numbers 33:50–56 checked in stored WEB. See also [[The Same Judgment on Israel - Leviticus 18 and Numbers 33]].
+
+### Joshua's farewell — Joshua 23
+
+Now ingested. Joshua holds both explanations together in one speech. Yahweh *will thrust them out
+from before you* (5), and Joshua has already allotted the land of *these nations that remain* (4).
+If Israel *hold[s] fast to the remnant of these nations* and marries into them, however, Yahweh
+*will no longer drive these nations from out of your sight* (12–13). Expulsion is promised, and it
+can be stopped. Compared with Numbers 33:55 (*pricks in your eyes … thorns in your sides*),
+Joshua's image rearranges the body parts (*a scourge in your sides, and thorns in your eyes*) and
+changes the condition. Numbers speaks of failing to drive the inhabitants out. Joshua speaks of
+clinging to them. The hornet is not mentioned here; it comes in 24:12.
+
+Source: stored WEB Joshua 23:4–5, 12–13 and Numbers 33:55. No source-language claim is added.
 
 ## Significance
 

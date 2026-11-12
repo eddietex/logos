@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+The charge comes to its centre in *love Yahweh your God* (11), set beside *hold fast to Yahweh* (8). In the WEB the same verb, *hold fast*, describes the wrong loyalty in verse 12: holding fast to the remnant of the nations.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Love of Yahweh belongs with walking in his ways, keeping commandments, holding fast, and
@@ -599,6 +605,8 @@ no narrated ending fixes the lovers in permanent union or separation.
 Source: stored WEB Song 8:13–14.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *that you love Yahweh your God* (11).
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

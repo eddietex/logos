@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+*All the good things* Yahweh spoke have come (14–15). Joshua turns that record of blessing into the guarantee behind the warning that follows.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Joshua blesses the departing tribes (6–7); verse 8 adds a charge to return with wealth and divide
@@ -564,6 +570,8 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 14:29; 26:15; 33:11.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good thing fulfilled (14).
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

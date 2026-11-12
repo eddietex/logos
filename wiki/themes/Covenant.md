@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Joshua names *the covenant of Yahweh your God* (16) and spells out what breaking it means: serving and bowing to other gods. Yahweh's fidelity to his good words (14) is the reason his threats are equally certain (15). No covenant ceremony takes place here; the ceremony comes at Shechem in chapter 24.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Joshua sends the tribes home under a continuing charge of love and obedience (5). The covenant
@@ -658,6 +664,8 @@ threatens the nation with. See [[If You Seek Her as Silver]],
 Salt is required with offerings and is explicitly associated with the covenant of God (2:13). The verse commands its presence but gives no account of salt-sharing or explanation through its preserving properties. See [[The Meal Offering]].
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and loss of the good land.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

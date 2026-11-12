@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Joshua does not use the word *curse*, but *all the evil things* (15) stand opposite *all the good things*, like the blessing and curse set before Israel in Deuteronomy 11:26–28 and 30:15–20. Here the two are not two options to choose between. They are two certainties, tied to Israel's conduct.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Joshua pronounces a curse assigning continuing servitude (23). Unlike the death imposed on Jericho’s
@@ -327,6 +333,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *all the evil things* matched to the good (15).
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Joshua calls his coming death *the way of all the earth* (14). He uses it as a reason to speak plainly. His death is narrated at 24:29.
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 The fugitive is protected from death before trial (9), while the high priest’s death marks the permitted return home (6). The provision preserves life without treating accidental killing as though nothing happened.
@@ -944,6 +950,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the way of all the earth* (14).
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses dies by Yahweh's word.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

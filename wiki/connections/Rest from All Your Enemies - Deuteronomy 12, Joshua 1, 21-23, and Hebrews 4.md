@@ -15,13 +15,21 @@ tags: [connection]
   out *when Yahweh your God has given you rest from all your enemies all around* (stored WEB).
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:13–15 (stored WEB).
 - [[The Eastern Tribes Sent Home]] — Joshua 22:4; rest authorizes return (stored WEB).
-- Joshua 23:1 — rest reported as given (stored WEB, not yet ingested).
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1; rest reported as given (stored WEB).
 - [[The Whole Land Taken]] — Joshua 11:23, *the land had rest from war*, a different verb
   (stored WEB); 14:15 repeats the clause in [[Caleb Claims Hebron]] (stored WEB).
 - Psalm 95:11 — *"They won't enter into my rest"* *(WEB via bible-api.com, not yet ingested)*.
 - Hebrews 4:8–9 — *"if Joshua had given them rest"* *(WEB via bible-api.com, not yet ingested)*.
 
 ## Analysis
+
+### Rest as the setting for a warning
+
+Joshua 23:1 dates the farewell to *when Yahweh had given rest to Israel from their enemies all
+around*. The rest here is not the speech's conclusion; it is its setting. The speech warns that
+the land can still be lost (13, 15–16). Rest is given, and it is not presented as irreversible.
+
+Source: stored WEB Joshua 23:1–16.
 
 ### Rest authorizes return
 

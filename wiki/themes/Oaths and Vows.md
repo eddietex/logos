@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's farewell to the leaders — Joshua 23:1–16
+
+Israel must not *cause to swear by* the nations' gods (7). Read with Deuteronomy 6:13 and 10:20, where Israel swears by Yahweh's name, the god invoked in an oath is the god trusted. See [[Swear by His Name, Not Theirs - Exodus 23.13, Deuteronomy 6.13 and 10.20, and Joshua 23.7]].
+
+See [[Joshua's Farewell to the Leaders]]. Source: stored WEB Joshua 23:1–16; comparisons as cited.
+
 ### Fulfilled land and rest — Joshua 21:43–45
 
 The oath to the fathers grounds both land and rest (43–44). Verse 45 declares the good word fulfilled. This is the narrator’s assessment of an earlier divine commitment, not a new oath sworn by Israel.
@@ -501,6 +507,8 @@ to go in. The command rests on God's sworn word, not on the people's readiness.
 See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8.
 
 ## Key passages
+
+- [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; no swearing by other gods (7).
 
 - [[Not One Good Thing Failed]] — Joshua 21:43–45.
 
