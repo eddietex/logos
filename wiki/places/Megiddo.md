@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Not driven out — Judges 1:27
+
+Last of Manasseh's five cities not driven out (27), as in Joshua 17:11–12; its king is counted in Joshua 12:21.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Named among Manasseh’s allotted cities with dependent towns (11), whose inhabitants are not driven
@@ -20,6 +26,7 @@ Royal city whose king is counted in Joshua 12:21, paired with Taanach. No battle
 Source: stored WEB Joshua 12–21 at the verses cited; Judges 1:27 checked at bible-api.com (`translation=web`). No modern site is assigned.
 
 ## Appears in
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27; not driven out by Manasseh.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Kings Struck Down]] — Joshua 12:1–24
 

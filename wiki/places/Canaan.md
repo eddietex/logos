@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The inhabitants who stayed — Judges 1:22–36
+
+Judges 1:27–33 lists the cities of the land whose Canaanite inhabitants Manasseh, Ephraim, Zebulun, Asher, and Naphtali did not drive out. In Asher and Naphtali, Israel *lived among the Canaanites, the inhabitants of the land* (32–33). See [[The Canaanites]].
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Judah goes up first — Judges 1:1–7
 
 The land Israel was given in Joshua is still to be taken in Judges. The first question after
@@ -543,6 +549,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the land's inhabitants not driven out.
 - [[Judah Goes Up First]] — Judges 1:1–4; the Canaanites still to be fought after Joshua's death.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; led through by Abraham (3), given without labor (13).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *this good land*, held on condition of covenant loyalty.

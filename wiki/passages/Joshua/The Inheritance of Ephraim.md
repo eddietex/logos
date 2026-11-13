@@ -68,6 +68,7 @@ Luz is discussed with [[Bethel]]; see the naming tension below.
 - [[Law and Obedience]]
 
 ## Cross-references
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–29; Bethel taken, and Gezer again.
 - [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]
 - [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
 - [[The Lot Is Cast into the Lap - Proverbs 16.33 and the Casting of Lots]]

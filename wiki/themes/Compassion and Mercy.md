@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Kindness promised at Bethel — Judges 1:24–25
+
+*We will deal kindly with you* (24): *wəʿāśînû ʿimməḵā ḥāsed* (WLC), the clause the spies promised Rahab in Joshua 2:14, without its *and truly*. The promise is kept: *they let the man and all his family go* (25). See [[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]].
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 The allocation includes the six refuges from Joshua 20: Hebron, Shechem, Golan, Kedesh, Bezer, and Ramoth. This chapter does not repeat the admission and trial procedures.
@@ -439,6 +445,7 @@ chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weigh
 
 ## Key passages
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:24–25; *ḥesed* promised and kept to the man of Luz.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 

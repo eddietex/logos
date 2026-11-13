@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Who lives among whom — Judges 1:22–36
+
+The register turns on one preposition. In Ephraim and Zebulun the Canaanites live *among them* (29–30); in Asher and Naphtali, Israel lives *among the Canaanites, the inhabitants of the land* (32–33); Dan is pushed out of the valley into the hills (34). Possession shrinks across the list.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### A field and springs — Judges 1:12–21
 
 The land is given as a dry field and asked for again as water: *you have set me in the land of the
@@ -1059,6 +1065,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites among Israel, and Israel among Canaanites.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; buried in the inheritance; the parcel becomes Joseph's children's (30, 32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; a land Israel had not labored for (13); each to his own inheritance (28).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the good land given and conditionally held.

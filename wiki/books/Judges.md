@@ -35,6 +35,14 @@ Judah*. And the pericope ends with the first *did not drive out*: the Jebusites 
 Benjamin *to this day* (1:21). The burned city of verse 8 is still unpossessed in verse 21. The rest of
 chapter 1 becomes a list of such sentences.
 
+[[The Tribes That Did Not Drive Out]] (1:22–36) is that list. The house of Joseph takes Bethel, once
+Luz, through a man who shows its spies the way in and is spared, as Rahab was; he leaves and builds a
+new Luz in the land of the Hittites. Then Manasseh, Ephraim, Zebulun, Asher, and Naphtali each *did not
+drive out* the Canaanites of their cities, who were *determined* to stay. Where Israel grew strong they
+became forced laborers. In Asher and Naphtali the relation is reversed, and Israel *lived among the
+Canaanites*. Last, the Amorites press Dan out of the valley. Where Joshua 17:12 said Manasseh *couldn't*,
+Judges 1:27 says *did not*. The chapter ends without a verdict; Judges 2:1–5 supplies one.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -59,7 +67,7 @@ merge, or reorder them freely.
 
 - [x] [[Judah Goes Up First]] — Judges 1:1–7
 - [x] [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21
-- [ ] The Tribes That Did Not Drive Out — Judges 1:22–36
+- [x] [[The Tribes That Did Not Drive Out]] — Judges 1:22–36
 - [ ] The Angel at Bochim — Judges 2:1–5
 - [ ] Another Generation Arose — Judges 2:6–23
 - [ ] The Nations Left to Test Israel — Judges 3:1–6
@@ -106,14 +114,20 @@ merge, or reorder them freely.
   measure-for-measure reversals.
 - [[Land and Sojourning]] — the land allotted in Joshua, still to be taken in Judges.
 - [[Brotherhood]] — Judah and Simeon fight together (1:3); Judah leads against Benjamin (20:18).
+- [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
+- [[The Nations]] — the Canaanites and Amorites who stay (1:27–36).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
 - [[Simeon]] — goes up with Judah into his lot.
 - [[Adoni-Bezek]] — the first enemy king, and the first to confess God's repayment.
 - [[Joshua (son of Nun)]] — dead before the book begins.
+- [[Joseph]] — *the house of Joseph* takes Bethel (1:22–25).
+- [[The Canaanites]] — not driven out (1:27–33).
+- [[The Amorites]] — press Dan from the valley (1:34–36).
 
 ## Key places
 - [[Bezek]] — the first battle.
 - [[Jerusalem]] — where Adoni-Bezek is brought to die.
 - [[Canaan]] — the land still being taken.
+- [[Bethel]] — taken by the house of Joseph; once Luz (1:22–26).

@@ -1,0 +1,85 @@
+---
+type: person
+also_known_as: [the Canaanite]
+tags: [person]
+---
+# The Canaanites
+
+## Overview
+
+The inhabitants of the land of [[Canaan]], named both as one people among several on the Pentateuch's
+lists and, more loosely, as the land's population as a whole. The page was created at Judges 1:22–36,
+after the name had appeared on nearly two hundred pages without a page of its own. No individual is
+named here; the page holds what the texts say of the people.
+
+**Descent and the two senses.** The Table of Nations makes Canaan the father of Sidon, Heth, the
+Jebusites, the Amorites, and others (Genesis 10:15–16), so in one sense every people of the land is
+Canaanite. In the lists, *the Canaanite* is one name beside the Hittite, Amorite, Perizzite, Hivite,
+and Jebusite (Exodus 3:8; Deuteronomy 7:1; 20:17; Joshua 3:10). The spies give a geography: *the
+Canaanite dwells by the sea, and along the side of the Jordan* (Numbers 13:29), where the Hittite,
+Jebusite, and Amorite are in the hill country.
+
+**In the land before Israel.** *At that time, Canaanites were in the land* (Genesis 12:6); *the
+Canaanites and the Perizzites lived in the land at that time* (Genesis 13:7). Their presence is the
+backdrop of the promise to Abram.
+
+**To be driven out.** Deuteronomy 7:1–3 commands them devoted to destruction, with no covenant and no
+intermarriage. Deuteronomy 20:16–17 excludes them from the forced-labor terms of 20:11. Exodus
+23:29–30 says Yahweh will drive the land's inhabitants out *little by little*. Numbers 33:55 warns
+that any left will be *pricks in your eyes and … thorns in your sides*.
+
+### Determined to stay — Judges 1:22–36
+
+The Canaanites are the object of the chapter's refrain: Manasseh, Ephraim, Zebulun, Asher, and Naphtali
+*did not drive out* the inhabitants of their cities (27–33). *The Canaanites would dwell in that land*
+(27): the verb is *yāʾal* (WLC), *to be determined*, the same as Joshua 17:12. Their status varies
+by tribe. In Ephraim and Zebulun they live *among* Israel (29–30); in Asher and Naphtali, Israel lives
+*among the Canaanites, the inhabitants of the land* (32–33). Where Israel is strong, they become forced
+laborers (28, 30, 33). Gezer's Canaanites are not said to (29), though Joshua 16:10 says they were.
+
+The chapter records the arrangement without comment. Judges 2:3 gives Yahweh's response, *they shall
+be in your sides* (stored WEB), in the words of Numbers 33:55's warning. And Judges 3:5 summarizes:
+*The children of Israel lived among the Canaanites*.
+
+One Canaanite in the chapter is spared by agreement: the man of Luz, who shows the house of Joseph into
+Bethel and then leaves for the land of the Hittites (1:24–26).
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:15–16; 12:6; 13:7; Exodus
+3:8; 23:29–30; Numbers 13:29; 33:55; Deuteronomy 7:1–3; 20:11, 16–17; Joshua 3:10; 16:10; 17:12–13;
+Judges 1:22–36; 2:3; 3:5. Hebrew of Judges 1:27–33 and Joshua 17:12 read in the WLC.
+
+## Timeline / key events
+
+- Descended from Canaan in the Table of Nations — [[The Table of Nations]]
+- In the land when Abram arrives — [[The Call of Abram]]
+- Beside the Perizzites at Abram and Lot's strife — [[Abram and Lot Separate]]
+- Placed by the sea and the Jordan by the spies — [[The Twelve Spies]]
+- To be driven out — [[A People Chosen in Love]], [[Drive Out the Inhabitants]]
+- Remain in Gezer under forced labor — [[The Inheritance of Ephraim]]
+- Remain in Manasseh's cities — [[The Inheritance of Manasseh]]
+- Not driven out by five tribes — [[The Tribes That Did Not Drive Out]]
+
+## Appears in
+
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; not driven out, and put to forced labor.
+- [[The Inheritance of Manasseh]] — Joshua 17:12–13; *would dwell in that land*.
+- [[The Inheritance of Ephraim]] — Joshua 16:10; at Gezer.
+- [[Crossing the Jordan]] — Joshua 3:10; first on the list of seven.
+- [[Laws for Going to War]] — Deuteronomy 20:16–17.
+- [[A People Chosen in Love]] — Deuteronomy 7:1–3.
+- [[Drive Out the Inhabitants]] — Numbers 33:55.
+- [[The Twelve Spies]] — Numbers 13:29.
+- [[The Burning Bush]] — Exodus 3:8.
+- [[Abram and Lot Separate]] — Genesis 13:7.
+- [[The Call of Abram]] — Genesis 12:6.
+- [[The Table of Nations]] — Genesis 10:15–18.
+
+## Related people
+- [[Canaan (son of Ham)]] — their ancestor in Genesis 10.
+- [[The Amorites]] — named beside them, and in Judges 1:34–36 the people who press Dan.
+- [[The Jebusites]] — the people of Jerusalem, also not driven out.
+
+## Themes associated
+- [[The Nations]]
+- [[Land and Sojourning]]
+- [[Slavery and Servitude]]

@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Not driven out — Judges 1:27
+
+One of Manasseh's five cities not driven out (27), as in Joshua 17:11–12.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Named among Manasseh’s allotted cities with dependent towns (11), whose inhabitants are not driven
@@ -22,6 +28,7 @@ Source: stored WEB Joshua 11:1–15.
 **Joshua 12:1–24 — the list of kings.** *The king of Dor in the height of Dor, one* (12:23). Manasseh *couldn't drive out* Dor's inhabitants (17:11–12; Judges 1:27, WEB checked). See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27; not driven out by Manasseh.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.

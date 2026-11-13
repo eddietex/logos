@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Pressed into the hill country — Judges 1:34–35
+
+The tribe of Dan is the only tribe in the chapter that is not the subject of *did not drive out*. *The Amorites forced the children of Dan into the hill country, for they would not allow them to come down to the valley* (34). The verb is *lāḥaṣ*, *press, oppress* (WLC). The Amorites hold Aijalon and Shaalbim, cities on Dan's list (Joshua 19:42), until the house of Joseph, not Dan, subjects them (35). Joshua 19:47 tells Dan's taking of Leshem as expansion; Judges 18:1 will say Dan's inheritance *had not fallen to them*. See [[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]].
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:5, 23–24). The ancestor is not an actor in this distribution.
@@ -185,6 +191,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:34; pressed out of the valley by the Amorites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

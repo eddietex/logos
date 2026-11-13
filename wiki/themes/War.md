@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### One city taken, the rest left — Judges 1:22–36
+
+The house of Joseph takes Bethel by stealth, with a guide from inside (22–25). Then the chapter stops narrating war and lists its absence: six tribes' cities not driven out, and Dan pressed back by the Amorites (27–34). The only later military success, *the hand of the house of Joseph prevailed* (35), ends in forced labor, not removal.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Victory, then the valley — Judges 1:8–21
 
 Judah's campaign runs through Jerusalem, the hill country, Hebron, Debir, Zephath, and three coastal
@@ -723,6 +729,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Bethel taken, and the cities not driven out.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the hornet, *not with your sword, nor with your bow* (12).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Yahweh the one who fights; one chasing a thousand.
 

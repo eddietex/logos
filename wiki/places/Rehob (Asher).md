@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Not driven out — Judges 1:31
+
+Last of Asher's seven cities not driven out (31). Only one Rehob is named here, against two notices in Joshua 19:28, 30.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Asher to Gershon’s descendants (21:31).
@@ -19,6 +25,7 @@ Source: stored WEB Joshua 19:24–48. No precise modern site is assigned.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:31; not driven out by Asher.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 

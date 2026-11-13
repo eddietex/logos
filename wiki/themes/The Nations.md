@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Canaanites and Amorites who stayed — Judges 1:22–36
+
+The Canaanites are *determined* to stay (*yāʾal*, 27, WLC), and so are the Amorites (35). The pericope also has the one Canaanite who leaves: the man of Luz, spared by agreement, who goes to *the land of the Hittites* and builds a city (24–26). See [[The Canaanites]] and [[The Amorites]].
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Kenites in, Jebusites remaining — Judges 1:16, 21
 
 Two foreign peoples end up living with Israel, by opposite routes. The Kenites, listed among the
@@ -552,6 +558,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites and Amorites remain; the man of Luz goes.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the seven peoples (11), and the gods of the Amorites (15).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the remaining nations as promised expulsion and possible snare.
 

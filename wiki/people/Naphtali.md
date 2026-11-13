@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Beth Shemesh and Beth Anath — Judges 1:33
+
+*Naphtali didn't drive out the inhabitants of Beth Shemesh, nor the inhabitants of Beth Anath; but he lived among the Canaanites, the inhabitants of the land* (33). Like Asher, Naphtali lives among them; unlike Asher, the two cities become forced laborers.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:6, 32). The ancestor is not an actor in this distribution.
@@ -160,6 +166,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:33; two cities not driven out; lives among the Canaanites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.

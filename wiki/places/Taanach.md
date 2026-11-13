@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Not driven out — Judges 1:27
+
+One of Manasseh's five cities not driven out (27), as in Joshua 17:11–12; its king is counted in Joshua 12:21.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from half-Manasseh to the remaining Kohathites (21:25).  Joshua 17:11–13 records non-removal and forced labor; the Levitical grant does not narrate a new conquest.
@@ -27,6 +33,7 @@ Source: stored WEB Joshua 12–21 at the verses cited; Judges 1:27 checked at bi
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27; not driven out by Manasseh.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Kings Struck Down]] — Joshua 12:1–24

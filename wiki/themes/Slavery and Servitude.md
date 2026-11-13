@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Forced labor instead of driving out — Judges 1:22–36
+
+*Mas*, forced labor, is named four times as the outcome where Israel grows strong (28, 30, 33, 35). Deuteronomy 20:11 allowed it for far cities that made peace, but 20:16–17 excluded the cities of the inheritance. Judges 1 records the arrangement without comment.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Servant of Yahweh — Joshua 24:29–33
 
 Joshua, introduced as *Moses' servant* (1:1), dies as *the servant of Yahweh* (29), the title the
@@ -461,6 +467,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:28–35; forced labor four times.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua *the servant of Yahweh*; Israel *served Yahweh* (29, 31).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *choose today whom you will serve* (15); *the house of bondage* (17).
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.

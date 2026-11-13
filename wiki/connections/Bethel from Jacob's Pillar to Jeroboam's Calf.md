@@ -16,6 +16,8 @@ tags: [connection]
   buried, the altar built and named *El Beth El*, the pillar raised again with a drink offering. The
   earrings are ***nəzāmîm*** — **the word of Exodus 32:2–3**, where the same ornaments are collected
   and cast into a calf at Sinai; a later, different calf is placed at Bethel. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–26; the house of Joseph takes Bethel, once Luz,
+  and the spared man builds a new Luz
 - Judges 20:18, 26–28 — the ark at Bethel, and Israel enquiring of God there
 - 1 Samuel 7:16 — Bethel on Samuel's circuit
 - 1 Kings 12:26–33 — Jeroboam's two calves, and the one at Bethel
@@ -46,6 +48,12 @@ image, no priest, and no instruction to worship there. There is a stone, some oi
 even the altar of chapter 35 is built on an explicit command to build one, that once.
 
 ### 2. A legitimate sanctuary (Judges; 1 Samuel)
+
+**First it has to be taken.** Joshua counts Bethel's king (12:16) but narrates no capture. Judges
+1:22–26 supplies it: the house of Joseph, *and Yahweh was with them*, takes the city through a man who
+shows the spies the way in. *The name of the city before that was Luz* (23), and the spared man builds
+a second Luz in the land of the Hittites (26). The city of Jacob's naming is reached by Israel only
+after Joshua's death. Source: stored WEB Joshua 12:16; Judges 1:22–26.
 
 The ark stands at Bethel in the judges' period and Israel enquires of God there (Judges 20:26–28);
 Samuel judges there annually (1 Samuel 7:16). **For centuries it is simply one of the places where

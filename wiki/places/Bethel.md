@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Taken by the house of Joseph — Judges 1:22–26
+
+The house of Joseph goes up against Bethel, and *Yahweh was with them* (22). *The name of the city before that was Luz* (23), as Genesis 28:19 said and Joshua 18:13 repeated. A man coming out shows the spies the entrance; they strike the city but let him and his family go (24–25). This is the capture Joshua never narrates: the king of Bethel is counted in Joshua 12:16, but no taking of the city is told. The spared man carries the old name away and builds a new [[Luz (Hittite city)]] (26).
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 Luz is explicitly identified as Bethel on the north boundary (13), and Bethel is listed among the twelve cities (22–24). Joshua 16:2 describes movement from Bethel to Luz: that wording remains in tension with their explicit identification here; the text does not explain it.
@@ -84,6 +90,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–26; taken by the house of Joseph.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 

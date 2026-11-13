@@ -1,11 +1,17 @@
 ---
 type: place
-also_known_as: []
+also_known_as: [Aphik]
 tags: [place]
 ---
 # Aphek
 
 ## Overview
+
+### Aphik — Judges 1:31
+
+Judges 1:31 names *Aphik* among Asher's cities not driven out. The WLC tags *ʾăpîq* with the same lemma as Joshua 19:30's *ʾăpēq*, which is also in Asher, so the notice is filed here. As with the other Aphek notices, the shared name is not taken to establish one site.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
 
 ### The last three lots — Joshua 19:24–48
 
@@ -24,6 +30,7 @@ Royal city whose king is counted in Joshua 12:18. No battle is narrated. Joshua 
 Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigned.
 
 ## Appears in
+- [[The Tribes That Did Not Drive Out]] — Judges 1:31; as *Aphik*, not driven out by Asher.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Asher’s list.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Kings Struck Down]] — Joshua 12:1–24

@@ -1,11 +1,17 @@
 ---
 type: place
-also_known_as: []
+also_known_as: [Nahalol]
 tags: [place]
 ---
 # Nahalal
 
 ## Overview
+
+### Nahalol — Judges 1:30
+
+Judges 1:30 names *Nahalol* among Zebulun's cities not driven out. The WLC tags *nahălōl* with the same lemma as Joshua 19:15's *nahălāl*, and both are Zebulun's, so the wiki files the two spellings here.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
 
 ### Levitical cities — Joshua 21:1–42
 
@@ -19,6 +25,7 @@ Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:30; as *Nahalol*, not driven out by Zebulun.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 

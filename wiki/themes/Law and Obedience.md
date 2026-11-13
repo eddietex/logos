@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The command and the record — Judges 1:22–36
+
+Deuteronomy 7:2 forbade covenant with the nations, and Numbers 33:55 warned that those left would be *thorns in your sides*. Judges 1:27–33 records, tribe by tribe, that they were left. The chapter itself passes no judgment; Judges 2:2–3 does: *you have not listened to my voice* (stored WEB).
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Joshua *wrote these words in the book of the law of God* (26). The book that opened with *This book of the law shall not depart from your mouth* (1:8) ends its last assembly with the covenant written into it. The people's last pledge is *we will listen to his voice* (24).
@@ -1536,6 +1542,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the command to drive out, unfulfilled.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the covenant written *in the book of the law of God* (26).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the book of the law kept, without turning aside.
 

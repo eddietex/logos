@@ -25831,3 +25831,46 @@ morphhb, GitHub). That comparison answers the open question on
 [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]: Joshua 15:63 and 17:12
 have *yāḵōl*, *be able*; Judges 1:19 and 1:21 do not. No raw text was added or changed, and no
 workflow instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 1.22-36 — The Tribes That Did Not Drive Out
+
+Auto mode. Judges was the only `in-progress` book; ingested its third box,
+[[The Tribes That Did Not Drive Out]] (Judges 1:22–36). Judges is now 3 / 42. The boundary was kept
+as planned.
+
+Created one passage; two people, [[The Canaanites]] and [[The Amorites]], peoples named on well over a
+hundred pages each with no page of their own; six places, [[Luz (Hittite city)]], [[Kitron]],
+[[Acco]], [[Ahlab]], [[Helbah]], [[Mount Heres]]; and two connections,
+[[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]] and
+[[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]]. Revised eight people
+([[Joseph]], [[Manasseh]], [[Ephraim]], [[Zebulun]], [[Asher]], [[Naphtali]], [[Dan (person)]],
+[[God]]), nineteen places ([[Bethel]], [[Beth Shean]], [[Taanach]], [[Dor]], [[Ibleam]], [[Megiddo]],
+[[Gezer]], [[Nahalal]], [[Kattath]], [[Sidon (city)]], [[Achzib (Asher)]], [[Aphek]],
+[[Rehob (Asher)]], [[Beth Shemesh (Naphtali)]], [[Beth Anath]], [[Aijalon]], [[Shaalabbin]],
+[[The Ascent of Akrabbim]], [[Canaan]]), seven themes ([[War]], [[Land and Sojourning]],
+[[Slavery and Servitude]], [[The Nations]], [[Law and Obedience]], [[Names and Naming]],
+[[Compassion and Mercy]]), three connections
+([[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]],
+[[Forced Labor at Gezer and the Command for the Inherited Cities]],
+[[Bethel from Jacob's Pillar to Jeroboam's Calf]]), and the cross-references of five passages
+([[Judah's Conquests and Achsah's Springs]], [[Rahab and the Spies]],
+[[The Lots of Asher, Naphtali, and Dan]], [[The Inheritance of Manasseh]],
+[[The Inheritance of Ephraim]]). Updated the book page and books index, the people, places, themes,
+and connections indexes, and the dashboard counts. Frontmatter totals: 439 passages, 287 people, 553
+places, 87 themes, 840 connections.
+
+Judgment calls: *Nahalol*, *Aphik*, and *Shaalbim* are filed on the existing [[Nahalal]], [[Aphek]],
+and [[Shaalabbin]] pages, because the WLC tags each pair with the same lemma and the same tribe holds
+both; they are added as aliases. *Kitron* gets its own page and is not identified with Kattath,
+because the WLC tags them differently. The second Luz takes the qualifier `(Hittite city)`, leaving
+the old Luz on [[Bethel]]. The man of Luz gets no page. No page was made for the Hittites, the land of
+the Hittites, or *the rock* of 1:36. The link to Judges 2:1–5 is left as plain text until that
+pericope is ingested.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Numbers, Deuteronomy, Joshua, and later Judges chapters as listed on the passage page. Hebrew of
+Judges 1:22–24, 26–36, Joshua 2:1, 12, 14; 6:25; 16:10; 17:12–13; 19:15, 28–30, 42, 47, and Numbers
+13:2 read from the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub). Reported as claims,
+not verified: the *Edomite* reading at 1:36, the Kitron–Kattath identification, and the gloss *sun*
+for *ḥeres*. Exodus 3:9's Hebrew was not compared. No raw text was added or changed, and no workflow
+instruction was changed. `scripts/link-check.sh` clean.

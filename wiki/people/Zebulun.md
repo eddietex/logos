@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Kitron and Nahalol — Judges 1:30
+
+*Zebulun didn't drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites lived among them, and became subject to forced labor* (30). Nahalol is Joshua 19:15's Nahalal under another spelling (same WLC lemma). Kitron is often identified with Kattath (19:15), but the WLC tags it as a different word; the wiki keeps them apart.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:7, 34–35). The ancestor is not an actor in this distribution.
@@ -145,6 +151,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:30; Kitron and Nahalol not driven out.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; named as a neighbor.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

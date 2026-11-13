@@ -30,7 +30,7 @@ canonical order below. Edit this list to reprioritize.
 ### History
 
 - [x] [[Joshua]] — complete (42 / 42 pericopes)
-- [ ] [[Judges]] — in-progress (2 / 42 pericopes)
+- [ ] [[Judges]] — in-progress (3 / 42 pericopes)
 - [ ] [[Ruth]] — not-started
 - [ ] [[1 Samuel]] — not-started
 - [ ] [[2 Samuel]] — not-started

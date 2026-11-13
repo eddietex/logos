@@ -82,6 +82,7 @@ Full pericope, copied from the stored WEB:
 - [[Names and Naming]]
 
 ## Cross-references
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27–28; the same five cities, *did not* for *couldn't*.
 - [[The Daughters Receive the Promised Inheritance]]
 - [[An Inheritance Among Their Brothers - Job 42.15 and the Daughters of Zelophehad]]
 - [[Inheritance Kept Within the Tribe - Zelophehad's Daughters and the Jubilee]]

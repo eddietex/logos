@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### With the house of Joseph — Judges 1:22–36
+
+*Yahweh was with them* (22), said of the house of Joseph at Bethel, as 1:19 said it of Judah. He is not named again in the pericope. The register of cities not driven out (27–36) reports no word of his, no inquiry, and no help; his response comes in the next pericope, at Bochim (2:1–5, stored WEB, not yet ingested).
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### All the work of Yahweh — Joshua 24:29–33
 
 Israel served Yahweh all the days of Joshua and of the elders who *had known all the work of Yahweh,
@@ -4026,6 +4032,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22; *Yahweh was with them*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:19; *Yahweh was with Judah*, and still the valley was not taken.
 - [[Judah Goes Up First]] — Judges 1:1–7; inquired of, answers *Judah shall go up*, delivers the land; named *God* by Adoni-Bezek, *As I have done, so God has done to me*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; *all the work of Yahweh, that he had worked for Israel* (31).

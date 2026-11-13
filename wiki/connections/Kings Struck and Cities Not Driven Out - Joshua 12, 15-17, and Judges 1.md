@@ -17,9 +17,33 @@ tags: [connection]
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33; Geshur and Maacath remain (13).
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8, 21; Jerusalem taken and burned, and the Jebusites not driven out (stored
   WEB, now ingested).
-- Judges 1:22–25, 27, 29 — WEB stored, not yet ingested.
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Bethel taken, and the tribes' cities not
+  driven out (stored WEB, now ingested).
 
 ## Analysis
+
+### The rest of the list — Judges 1:22–36
+
+[[The Tribes That Did Not Drive Out]] completes the Judges side of the table. Bethel, whose king was
+counted (Joshua 12:16) but whose capture Joshua never narrates, is taken by the house of Joseph
+(Judges 1:22–25). Every other line of the pericope is a city not driven out. The Hebrew of the
+remaining verses, read in the WLC (OpenScriptures morphhb), extends the earlier table:
+
+| Verse | Hebrew | Verb of ability? |
+|---|---|---|
+| Joshua 16:10 | *wəlōʾ hôrîšû* | no |
+| Joshua 17:13 | *wəhôrēš lōʾ hôrîšô* | no |
+| Judges 1:27 | *wəlōʾ hôrîš* | no |
+| Judges 1:28 | *wəhôrêš lōʾ hôrîšô* | no |
+| Judges 1:29, 30, 31, 33 | *lōʾ hôrîš* | no |
+| Judges 1:32 | *kî lōʾ hôrîšô* | no |
+
+So on Manasseh's five cities, Joshua 17:12 says *they were not able*, and Judges 1:27 says *did not*.
+Neither text comments on the difference. Judges 2:2–3 gives Yahweh's verdict on the list as a matter
+of not listening, not of inability (stored WEB). Both Joshua 17:12 and Judges 1:27 say *the Canaanites
+would dwell*, *wayyôʾel*, from *yāʾal*, *be determined* (WLC).
+
+Source: stored WEB Joshua 12:16; 16:10; 17:11–13; Judges 1:22–36; 2:2–3; WLC, 2026-11-13.
 
 ### Jerusalem in Judges 1, and *couldn't* against *didn't* — Judges 1:8, 19, 21
 

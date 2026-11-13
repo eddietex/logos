@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Not driven out by Asher — Judges 1:31
+
+Sidon is among Asher's seven cities whose inhabitants were not driven out (31). Joshua 19:28 had Asher's border reach *great Sidon*.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### The last three lots — Joshua 19:24–48
 
 Asher’s border runs *even to great Sidon* (28), the same phrase as the pursuit of 11:8. Genesis 49:13 gave Zebulun a border on Sidon; Joshua gives the reach to Sidon to Asher. A boundary reaching Sidon is not a report of conquest.
@@ -61,6 +67,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[The Tribes That Did Not Drive Out]] — Judges 1:31; not driven out by Asher.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Asher’s border reaches it.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

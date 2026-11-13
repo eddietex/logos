@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Not driven out — Judges 1:29
+
+*Ephraim didn't drive out the Canaanites who lived in Gezer, but the Canaanites lived in Gezer among them* (29). Joshua 16:10 adds forced labor and *to this day*; Judges 1:29 has neither, which makes Gezer the one city in the list whose Canaanites are not said to become forced laborers. The observation is recorded without drawing a conclusion from it.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Ephraim to the remaining Kohathites (21:21).  Joshua 16:10 retains Canaanites in Gezer; this Levitical allocation does not narrate their expulsion or establish exclusive occupation.
@@ -27,6 +33,7 @@ Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is ass
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:29; Ephraim does not drive out its Canaanites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
 - [[The Southern Cities Taken]] — Joshua 10:28–43.

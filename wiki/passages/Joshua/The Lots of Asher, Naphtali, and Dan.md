@@ -169,6 +169,7 @@ Dan:
 - [[War]] — Dan *fought against Leshem, and took it, and struck it with the edge of the sword* (47) — the first fighting narrated in the allotment chapters since Caleb drove out the sons of Anak and Othniel took Debir (15:14–17). It is reported without a divine command or a word of judgment.
 
 ## Cross-references
+- [[The Tribes That Did Not Drive Out]] — Judges 1:31–35; Asher's, Naphtali's, and Dan's cities not held.
 - [[Leshem Becomes Dan - Joshua 19 and Judges 18]]
 - [[Dan's Towns on Judah's Border - Joshua 15 and 19]]
 - [[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]]

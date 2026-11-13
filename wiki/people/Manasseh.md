@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Did not drive out — Judges 1:27–28
+
+*Manasseh did not drive out* Beth Shean, Taanach, Dor, Ibleam, or Megiddo and their towns, *but the Canaanites would dwell in that land* (27). When Israel grew strong, the Canaanites were put to forced labor (28). Joshua 17:11–13 lists the same cities, with Endor, and says Manasseh *couldn't* (*lōʾ yāḵəlû*); Judges 1:27 says *did not* (*lōʾ hôrîš*), with no verb of ability (both WLC). The texts keep both.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### The altar of witness — Joshua 22:10–34
 
 The eastern half-tribe joins in building the altar and answering the charge (10, 21). Verse 30
@@ -283,6 +289,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:27–28; five cities not driven out.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

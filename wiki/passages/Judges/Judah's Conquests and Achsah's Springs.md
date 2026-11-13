@@ -90,6 +90,7 @@ Jebusites dwell with the children of Benjamin in Jerusalem to this day* (21).
 
 ## Cross-references
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; the refrain verse 21 begins, tribe by tribe.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19; the same household scene, nearly word for word.
 - [[Achsah and the Springs - Joshua 15 and Judges 1]] — the parallel set out verse by verse.
 - [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]] — who removed the three, told three

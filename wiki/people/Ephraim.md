@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Gezer — Judges 1:29
+
+*Ephraim didn't drive out the Canaanites who lived in Gezer, but the Canaanites lived in Gezer among them* (29). Joshua 16:10 had said the same, adding *to this day* and forced labor; Judges 1:29 has neither. Ephraim is also half of *the house of Joseph* that takes Bethel (22–25).
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:5, 20–22). The ancestor is not an actor in this distribution.
@@ -203,6 +209,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:29; Gezer's Canaanites not driven out.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.

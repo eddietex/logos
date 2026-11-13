@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Luz carried away — Judges 1:23, 26
+
+*The name of the city before that was Luz* (23): Bethel's old name, as in Genesis 28:19. The spared man then builds a city in the land of the Hittites and calls it Luz, *which is its name to this day* (26). The name Israel replaced goes on elsewhere. See [[Luz (Hittite city)]].
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Three old names — Judges 1:10–11, 17
 
 The pericope records three renamings: *The name of Hebron before that was Kiriath Arba* (10), *The
@@ -325,6 +331,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Tribes That Did Not Drive Out]] — Judges 1:23, 26; Luz renamed, and the name carried away.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

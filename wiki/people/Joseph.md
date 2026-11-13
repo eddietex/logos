@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The house of Joseph — Judges 1:22–36
+
+*The house of Joseph* (*bêt yôsēp*, WLC), Ephraim and Manasseh together, goes up against Bethel, and *Yahweh was with them* (22). They spy out the city, promise the man who shows them the way in *we will deal kindly with you* (24), strike it, and let him and his family go (25). The same house closes the chapter: *the hand of the house of Joseph prevailed* (literally *was heavy*) over the Amorites near Dan, and they became forced laborers (35). Between these two notices its two halves are listed with the others: Manasseh and Ephraim *did not drive out* (27, 29).
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### His bones buried at Shechem — Joshua 24:29–33
 
 *They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in
@@ -512,6 +518,7 @@ See [[The Census in the Wilderness of Sinai]]. Source: stored WEB Numbers 1.
 - Numbers 1 — Counted through two tribes. [[The Census in the Wilderness of Sinai]]
 
 ## Appears in
+- [[The Tribes That Did Not Drive Out]] — Judges 1:22–25, 35; takes Bethel, and prevails over the Amorites.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; his bones buried at Shechem in Jacob's parcel (32).
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Land Surveyed at Shiloh]] — Joshua 18:1–10.

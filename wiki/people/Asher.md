@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Living among the Canaanites — Judges 1:31–32
+
+Asher has the longest list in the chapter: Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob (31). And for the first time the relation is reversed: *the Asherites lived among the Canaanites, the inhabitants of the land* (32), *bəqereb hakkənaʿănî* (WLC). Unlike Manasseh, Zebulun, and Naphtali, Asher is not said to impose forced labor.
+
+See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:6, 30–31). The ancestor is not an actor in this distribution.
@@ -145,6 +151,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Tribes That Did Not Drive Out]] — Judges 1:31–32; seven cities not driven out; lives among the Canaanites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
