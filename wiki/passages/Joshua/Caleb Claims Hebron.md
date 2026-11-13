@@ -81,6 +81,7 @@ Full pericope, WEB, copied from the stored source:
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:36 promises the trodden land.
 - [[The Whole Land Taken]] — Joshua 11:21–23 reports the removal of the Anakim and rest.
 - [[The Division of the Land Begins]] — Joshua 14:1–5 supplies the allotment setting.
+- [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]] — 14:15's *rest from war*.
 
 ## Notes
 

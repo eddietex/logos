@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### He went out to war — Judges 3:7–11
+
+*He went out to war, and Yahweh delivered Cushan Rishathaim king of Mesopotamia into his hand* (10).
+No battle, place, army, or tactic is described. The pericope before this one said the nations were
+left *to teach them war* (3:2); the first war of the judges is told in one clause, and the victory is
+credited to Yahweh.
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; comparisons as cited; Hebrew WLC.
+
 ### To teach them war — Judges 3:1–6
 
 *That the generations of the children of Israel might know, to teach them war, at least those who knew
@@ -739,6 +748,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:10; *he went out to war*, and Yahweh delivered the king into his hand.
 - [[The Nations Left to Test Israel]] — Judges 3:1–2; *to teach them war*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Bethel taken, and the cities not driven out.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the hornet, *not with your sword, nor with your bow* (12).

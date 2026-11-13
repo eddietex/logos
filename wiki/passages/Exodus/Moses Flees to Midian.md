@@ -469,6 +469,7 @@ pattern of [[Joseph]] before him, and the New Testament reads it forward. See
 - Luke 12:14 — *"who made me a judge or an arbitrator over you?"*
 - Acts 7:23–30, 35 — Stephen's retelling
 - Hebrews 11:24–27 — *"not fearing the wrath of the king"*
+- [[Othniel the First Judge]] — Judges 3:9; Israel *cried*, the verb of 2:23.
 
 ## Notes
 

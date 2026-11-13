@@ -32,6 +32,7 @@ Source: stored WEB Judges 2:13. Hebrew from the Westminster Leningrad Codex (Ope
 ## Related people
 - [[Baal (deity)]] — named with her.
 - [[God]] — the God Israel abandons.
+- [[Asherah]] — *the Asheroth* of Judges 3:7, whose plural ending matches *the Ashtaroth*.
 
 ## Themes associated
 - [[Idolatry]]

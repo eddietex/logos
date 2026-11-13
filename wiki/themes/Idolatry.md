@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Baals and the Asheroth — Judges 3:7–11
+
+*They … forgot Yahweh their God, and served the Baals and the Asheroth* (7). The pair is new: 2:13 had
+*Baal and the Ashtaroth*. The law had treated Asherah poles as objects to cut down (Exodus 34:13;
+Deuteronomy 7:5); here *the Asheroth* are something Israel *served*. See [[Asherah]]. In verse 8 the
+same verb, *served*, is used of Israel and the foreign king.
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; comparisons as cited; Hebrew WLC.
+
 ### And served their gods — Judges 3:1–6
 
 The last words of the introduction to Judges: *and served their gods* (6). The gods are not named; 2:11–13
@@ -489,6 +498,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:7; *the Baals and the Asheroth*.
 - [[The Nations Left to Test Israel]] — Judges 3:6; marriage, then *served their gods*.
 - [[Another Generation Arose]] — Judges 2:11–13, 17, 19; the Baals and the Ashtaroth.
 - [[The Angel at Bochim]] — Judges 2:2–3; their altars not broken down; *their gods will be a snare to you*.

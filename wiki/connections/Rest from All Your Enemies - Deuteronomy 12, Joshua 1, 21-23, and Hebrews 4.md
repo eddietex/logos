@@ -105,3 +105,9 @@ Sources: stored WEB Deuteronomy 3, 12, 25 and Joshua 1, 11, 13, 14, 16, 17, 21�
 4:8–9 WEB verified at bible-api.com (`translation=web`) on 2026-11-10; neither book is stored.
 Hebrew checked against the Miqra according to the Masorah at Sefaria for Deuteronomy 3:20,
 12:9–10, 25:19 and Joshua 1:13–15, 11:23, 21:43–45, 22:4, 23:1.
+
+### A different word in Judges
+
+Judges' recurring *the land had rest* (3:11, 30; 5:31; 8:28) uses *šāqaṭ*, not the *nûaḥ* of this thread
+(WLC). It continues Joshua 11:23 and 14:15 instead; see
+[[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]]. Source: stored WEB; Hebrew WLC.

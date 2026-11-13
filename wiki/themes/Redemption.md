@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A savior raised up — Judges 3:7–11
+
+*Yahweh raised up a savior to the children of Israel, who saved them, even Othniel* (9). *Môšîaʿ*,
+*savior*, and *wayyôšîʿēm*, *who saved them* (WLC), are from *yāšaʿ*. The rescue is from a foreign
+king; nothing is paid, and no redeemer's price is mentioned. The book will call Ehud a *savior* too
+(3:15, stored WEB).
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; comparisons as cited; Hebrew WLC.
+
 ### Return and the circumcised heart — Deuteronomy 30:1–10
 
 Release from captivity and gathering *from all the peoples* (3–4) repeat the exodus pattern, with the nations in place of Egypt; Yahweh then brings Israel into the land (5).
@@ -312,6 +321,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:9; *a savior … who saved them*.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11.

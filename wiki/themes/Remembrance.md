@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### They forgot Yahweh — Judges 3:7–11
+
+*And forgot Yahweh their God* (7), *wayyiškəḥû* (WLC). Deuteronomy 8:11 and 19 had warned in the
+same verb: *Beware lest you forget Yahweh your God*, and *if you shall forget Yahweh your God, and walk
+after other gods, and serve them* (stored WEB). Judges 3:7 reports both halves of 8:19 fulfilled. In
+2:10 the generation *didn't know* Yahweh; now they *forgot* him.
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; comparisons as cited; Hebrew WLC.
+
 ### A generation that did not know — Judges 2:6–23
 
 *Another generation arose after them, who didn't know Yahweh, nor the work which he had done for
@@ -775,6 +784,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:7; *forgot Yahweh their God*.
 - [[Another Generation Arose]] — Judges 2:7, 10; the generation *who didn't know Yahweh*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; the elders who *had known all the work of Yahweh* (31).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the history recited by Yahweh and retold by the people; the stone that heard.

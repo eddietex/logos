@@ -117,6 +117,7 @@ out *hastily*, and did not give them into Joshua's hand (23).
 - [[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]] — where the book's cycle
   ends.
 - [[The Nations Left to Test Israel]] — Judges 3:1–6; the test of 2:22 restated, and its answer.
+- [[Othniel the First Judge]] — Judges 3:7–11; the cycle carried out the first time, with names.
 
 ## Notes
 

@@ -98,6 +98,7 @@ verse 4. Verse 6 reports how Israel answered it, before the first judge appears 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:2; testing *to know*.
 - [[Little by Little - The Hornet, the Snare, and the Land Not Taken]] — the reasons given for the
   nations who stayed.
+- [[Othniel the First Judge]] — Judges 3:7–11; the next pericope, the first judge.
 
 ## Notes
 

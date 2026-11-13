@@ -25992,3 +25992,44 @@ Deuteronomy, Joshua, and later Judges chapters as listed on the passage page. He
 the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub), with its lemma and morphology data.
 Reported as a claim, not verified: that *seren* is used only of Philistine rulers. No raw text was
 added or changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 3.7-11 — Othniel the First Judge
+
+Auto mode. Judges was the only `in-progress` book; ingested its seventh box,
+[[Othniel the First Judge]] (Judges 3:7–11). Judges is now 7 / 42. The boundary was kept as planned.
+The passage could not be titled *Othniel*, because [[Othniel]] is the person page, so it takes
+*Othniel the First Judge*.
+
+Created one passage; two people, [[Cushan Rishathaim]] and [[Asherah]]; and two connections,
+[[The Spirit Came on Him - Balaam, Othniel, and Jephthah]] and
+[[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]]. Revised five people ([[Othniel]],
+[[God]], [[Caleb (son of Jephunneh)]], [[Baal (deity)]], [[Ashtoreth (deity)]]), one place
+([[Aram Naharaim]]), eight themes ([[Idolatry]], [[Remembrance]], [[Judgment]],
+[[Slavery and Servitude]], [[Prayer]], [[Redemption]], [[War]], [[The Spirit of God]]), three
+connections ([[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]],
+[[Achsah and the Springs - Joshua 15 and Judges 1]],
+[[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]]), and the
+cross-references of seven passages ([[Another Generation Arose]], [[The Nations Left to Test Israel]],
+[[Judah's Conquests and Achsah's Springs]], [[Balaam's Last Oracles]], [[The Whole Land Taken]],
+[[Caleb Claims Hebron]], [[Moses Flees to Midian]]). Updated the book page and books index, the
+people, places, themes, and connections indexes, and the dashboard counts. Frontmatter totals: 443
+passages, 295 people, 554 places, 87 themes, 846 connections.
+
+Judgment calls: [[Asherah]] gets a page without a qualifier, filed as `type: person` like
+[[Baal (deity)]]; whether *the Asheroth* are goddesses, cult objects, or both is left open on the page.
+Kenaz, Othniel's father, gets no page: he is named four times, only as a patronymic, and the Edomite
+Kenaz of Genesis 36 would force a qualifier. Revisit if Kenaz ever acts. The uncle/nephew question for
+*Caleb's younger brother* is left undecided, as on [[Othniel]]. The WEB's *Mesopotamia* in 3:10 renders
+*ʾărām* alone, not *ʾăram nahărayim* as in 3:8; this is recorded and not treated as a variant. *The
+land had rest* (*šāqaṭ*) is kept apart from the *nûaḥ* rest thread, because the verbs differ.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Numbers, Deuteronomy, Joshua, and later Judges chapters as listed on the passage page. Hebrew of
+Judges 1:13; 2:11–18; 3:7–15, 30; 5:31; 6:25, 34; 8:28; 10:10; 11:29; 14:6; 18:7, 27; Exodus 2:23;
+34:13; Numbers 24:2; Deuteronomy 7:5; 8:11, 19; 12:3, 10; 16:21; and Joshua 11:23; 14:15; 21:44; 23:1
+read from the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub), with its lemma data. The
+claims that *šāqaṭ* occurs only in the eight listed verses and that *-ôt* for Asherah occurs only at
+Judges 3:7 are limited to the WLC files for Exodus, Numbers, Deuteronomy, Joshua, and Judges. Reported
+as claims, not verified: *Rishathaim* as *double wickedness*; *Asheroth* as a blend with *Ashtaroth*;
+Asherah as a Canaanite goddess; *forty* as a round number for a generation. No raw text was added or
+changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.

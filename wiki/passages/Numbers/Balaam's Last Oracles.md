@@ -98,6 +98,7 @@ destruction. Balaam and Balak part company (24:15–25).
 - [[The War Against Midian]] — Numbers 31:8, 16; after returning *to his place* (24:25), Balaam is killed
   among Midian and named as the source of the counsel at Peor.
 - [[The Counsel of Balaam - Numbers 31.16 and Its Later Readings]]
+- [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]] — 24:2's clause, used of Othniel (Judges 3:10).
 
 ## Notes
 

@@ -70,6 +70,14 @@ among* six peoples, the list of Exodus 3:8 in the same order. *They took their d
 wives, and gave their own daughters to their sons and served their gods* (3:6). The verbs are those of
 Deuteronomy 7:3–4, which forbade exactly this.
 
+[[Othniel the First Judge]] (3:7–11) is the cycle of 2:11–19 carried out once, with names. Israel
+*forgot Yahweh* and served *the Baals and the Asheroth*; Yahweh *sold them* to Cushan Rishathaim, *king
+of Mesopotamia*, for eight years; they *cried*, and Yahweh *raised up a savior*, Othniel, Caleb's
+kinsman, already known from Kiriath Sepher. *Yahweh's Spirit came on him*, in the clause used of
+Balaam (Numbers 24:2); *he judged Israel*, went to war, and *his hand prevailed*. *The land had rest
+forty years*, in Joshua's word for rest from war, and then he died. Nobody speaks, and nothing goes
+wrong. The judges after him each add something to the pattern.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -98,7 +106,7 @@ merge, or reorder them freely.
 - [x] [[The Angel at Bochim]] — Judges 2:1–5
 - [x] [[Another Generation Arose]] — Judges 2:6–23
 - [x] [[The Nations Left to Test Israel]] — Judges 3:1–6
-- [ ] Othniel — Judges 3:7–11
+- [x] [[Othniel the First Judge]] — Judges 3:7–11
 - [ ] Ehud and Eglon — Judges 3:12–30
 - [ ] Shamgar — Judges 3:31
 - [ ] Deborah and Barak — Judges 4:1–16

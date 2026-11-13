@@ -16,8 +16,8 @@ places rather than many unrelated gods; that reading is reported here, not settl
 Before Judges, the name has appeared in the wiki only in compounds: the god of Peor (see
 [[Baal Peor]]) and places named for a Baal, such as [[Baal Zephon]], [[Baal Gad]], and
 [[Baal Meon]]. Judges 2 is the first place the god is named by himself, and the summary makes him the
-standing alternative to Yahweh for the whole book. Judges 3:7 will pair *the Baals* with *the
-Asheroth* (stored WEB).
+standing alternative to Yahweh for the whole book. Judges 3:7 pairs *the Baals* with *the
+Asheroth* (stored WEB); see [[Asherah]].
 
 The page is qualified `(deity)` from the start because the name is expected to collide later:
 1 Chronicles is recalled as naming both a man and a town called Baal (not yet stored, so not checked).
@@ -30,14 +30,17 @@ morphhb), 2026-11-13.
 
 - **Judges 2:11–13** — the new generation serves *the Baals*; they abandon Yahweh and serve *Baal and
   the Ashtaroth*.
+- **Judges 3:7** — Israel *forgot Yahweh* and served *the Baals and the Asheroth*; the first oppression follows.
 
 ## Appears in
 - [[Another Generation Arose]] — Judges 2:6–23
+- [[Othniel the First Judge]] — Judges 3:7
 
 ## Related people
 - [[Ashtoreth (deity)]] — the goddess named beside him (2:13).
 - [[Baal Peor]] — the Baal of Peor, Numbers 25.
 - [[God]] — the God Israel abandons for him.
+- [[Asherah]] — *the Asheroth*, named with *the Baals* in 3:7.
 
 ## Themes associated
 - [[Idolatry]]

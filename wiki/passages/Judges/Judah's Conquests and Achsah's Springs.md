@@ -107,6 +107,7 @@ Jebusites dwell with the children of Benjamin in Jerusalem to this day* (21).
 - [[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]] — the Kenite of verse 16.
 - [[Judah Goes Up First]] — Judges 1:1–7; the bargain with Simeon that verse 17 keeps.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:4; Hormah in Simeon's lot.
+- [[Othniel the First Judge]] — Judges 3:9–11; Othniel raised up as the first judge.
 
 ## Notes
 

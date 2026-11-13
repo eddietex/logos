@@ -12,6 +12,16 @@ speaks of the Spirit as God's. It opened with Numbers 11, when the Spirit is fir
 is not yet a full survey of the wiki's earlier books.
 
 
+### On the first judge — Judges 3:7–11
+
+*Yahweh's Spirit came on him, and he judged Israel; and he went out to war* (10). The first time the
+Spirit is named in Judges. The clause, *wattəhî ʿālāyw rûaḥ YHWH* (WLC), is the one used of Balaam,
+*the Spirit of God came on him* (Numbers 24:2), with *Yahweh* in place of *God*. On Balaam the Spirit
+produced an oracle; on Othniel it produces judging and war. No duration is stated. See
+[[The Spirit Came on Him - Balaam, Othniel, and Jephthah]].
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:10; Numbers 24:2; Hebrew WLC.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Joshua is *full of the spirit of wisdom; for Moses had laid his hands on him* (9). Numbers 27:18 has *a man in whom is the Spirit* before the gesture. Whether *spirit of wisdom* is the same as the Spirit there is not stated.
@@ -71,11 +81,12 @@ Source: stored WEB and WLC; Isaiah 11:2 WEB at bible-api.com.
 
 ### Ahead
 
-The Spirit comes on Balaam (Numbers 24:2), and Joshua is *a man in whom is the Spirit* (27:18). Those sections are written as their
-pericopes arrive.
+Judges names the Spirit on Gideon (6:34), Jephthah (11:29), and Samson (14:6 and later), with different
+Hebrew verbs (WLC); those sections are written as their pericopes arrive.
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:10; *Yahweh's Spirit came on him*.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Joshua full of the spirit of wisdom (9).
 - [[Joshua Commissioned]] — Numbers 27:12–23; a man in whom is the Spirit (18).
 
@@ -107,3 +118,4 @@ pericopes arrive.
 - [[Eldad]] and [[Medad]] — who received it away from the Tent
 - [[Joseph]] — the man Pharaoh recognized
 - [[Joshua (son of Nun)]] — tried to stop the prophesying, and later is called a man with the Spirit
+- [[Othniel]] — the first judge on whom the Spirit comes (Judges 3:10)

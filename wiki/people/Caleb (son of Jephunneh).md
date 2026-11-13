@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The first judge's kinsman — Judges 3:9
+
+Caleb is named only to identify the first judge: *Othniel the son of Kenaz, Caleb's younger brother*
+(9). Caleb is *the Kenizzite* (Numbers 32:12; Joshua 14:6, 14), and Othniel is *the son of Kenaz*, so
+the book's first deliverer comes from Caleb's house. Caleb himself does nothing in the pericope.
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:9; Numbers 32:12; Joshua 14:6, 14.
+
 ### Hebron as Moses had said — Judges 1:12–15, 20
 
 Judges repeats the household scene of Joshua 15:16–19: Caleb offers Achsah for Kiriath Sepher,
@@ -116,9 +124,11 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - At eighty-five, receives Hebron — Joshua 14:6–15, [[Caleb Claims Hebron]]
 - Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
 - Judges 1:12–15, 20 — Gives Achsah and the springs again; receives Hebron *as Moses had said* — [[Judah's Conquests and Achsah's Springs]]
+- Judges 3:9 — Named as the kinsman of Othniel, the first judge — [[Othniel the First Judge]]
 
 ## Appears in
 
+- [[Othniel the First Judge]] — Judges 3:9; *Caleb's younger brother* identifies the first judge.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:12–15, 20; Achsah's springs, and Hebron received.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 
@@ -145,6 +155,7 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - [[The Anakim]] — the people he asks to face
 - [[Moses]] — who sent him
 - [[Judah]] — the tribe he goes for
+- [[Othniel]] — *Caleb's younger brother* (Judges 1:13; 3:9), and his son-in-law
 
 ## Themes associated
 

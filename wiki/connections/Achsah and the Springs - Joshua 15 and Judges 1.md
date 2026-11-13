@@ -53,3 +53,10 @@ The repeated household scene links conquest and marriage to provision for living
 Achsah’s request is concrete: the grant needs water. The parallel preserves her speech and
 Caleb’s generous response while leaving the relationship between the conquest accounts open.
 See also [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
+
+### Judges 3:9 — the conqueror becomes the first judge
+
+The man who took Kiriath Sepher is raised up as the first judge in [[Othniel the First Judge]]. Judges
+3:9 repeats *ʾăḥî kālēb haqqāṭōn mimmennû* exactly as 1:13 (WLC), so the uncle/nephew question is
+neither settled nor changed. Joshua 15 does not mention his later role. Source: stored WEB Judges 3:9;
+Hebrew WLC.

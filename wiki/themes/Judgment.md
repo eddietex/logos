@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sold to Cushan Rishathaim — Judges 3:7–11
+
+*Yahweh's anger burned against Israel, and he sold them into the hand of Cushan Rishathaim* (8). The
+words are those of 2:14 (WLC), with a name now in place of *their enemies*. The judgment lasts eight
+years and is ended by Yahweh's own act: he *delivered Cushan Rishathaim … into* Othniel's *hand* (10).
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; comparisons as cited; Hebrew WLC.
+
 ### Sold into the hands of their enemies — Judges 2:6–23
 
 Yahweh's anger burns, and he *sold them into the hands of their enemies all around* (14). His hand is
@@ -1061,6 +1069,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:8; *he sold them into the hand of Cushan Rishathaim*.
 - [[Another Generation Arose]] — Judges 2:14–15, 20–21; *he sold them into the hands of their enemies*.
 - [[The Angel at Bochim]] — Judges 2:3; *I will not drive them out from before you*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *he will turn and do you evil, and consume you* (20).

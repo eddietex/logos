@@ -48,7 +48,10 @@ A second word links the passages. Deuteronomy 9:12 says the people *have corrupt
 - Later Judges returns to made objects of worship: Gideon's ephod, after which *all Israel played the
   prostitute with it* (8:27), and Micah's *carved image and a molten image* (17:4; both stored WEB).
   Whether their Hebrew echoes Exodus 32 will be checked when those pericopes are ingested.
+- **The cycle's first turn.** In [[Othniel the First Judge]] the sin of 2:11 is repeated word for word
+  (3:7, WLC), and after Othniel dies Israel *again did that which was evil* (3:12, stored WEB), as 2:19
+  said would happen when the judge was dead.
 
-Sources: stored WEB Exodus 32:1, 8; Deuteronomy 9:12, 16; Judges 2:7, 17, 19, 23; 8:27; 17:4. Hebrew of Exodus
+Sources: stored WEB Exodus 32:1, 8; Deuteronomy 9:12, 16; Judges 2:7, 17, 19, 23; 3:7, 12; 8:27; 17:4. Hebrew of Exodus
 32:8; Deuteronomy 9:12, 16; and Judges 2:17, 19, 23 read from the Westminster Leningrad Codex
 (OpenScriptures morphhb), 2026-11-13.

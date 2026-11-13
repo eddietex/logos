@@ -81,6 +81,7 @@ land as Yahweh spoke to Moses and gave it to Israel by tribes, and *the land had
 - [[The Nephilim and the Giants of Canaan]]
 - [[Hazor Burned and the Northern Land Still Remaining]]
 - [[The Southern Conquest and the Land Still Remaining]]
+- [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]] — 11:23's *rest from war* and its Judges sequel.
 
 ## Notes
 

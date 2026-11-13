@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Cushan Rishathaim's kingdom — Judges 3:7–11
+
+*Cushan Rishathaim king of Mesopotamia* (8, 10, stored WEB). Verse 8 has the full name, *melek ʾăram
+nahărāyim*; verse 10 has only *melek ʾărām*, *king of Aram* (WLC). The WEB gives *Mesopotamia* both
+times. The region that gave Israel its mothers in Genesis now gives it its first oppressor. The text
+does not say how a king from so far north came to rule Israel.
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:8, 10; Hebrew WLC.
+
 ### Balaam's country — Deuteronomy 23:4
 
 WEB *"Pethor of Mesopotamia"* (4) renders *pǝtôr ʾăram nahărayim* (WLC 23:5). The name of Abraham's
@@ -119,6 +128,7 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   the verse is in the chapter to establish
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Balaam's home, WEB *"Mesopotamia"*.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5; unnamed, but behind *ʾărammî*, *"My father was a Syrian ready to perish"*.
+- [[Othniel the First Judge]] — Judges 3:8, 10; the kingdom of Cushan Rishathaim, Israel's first oppressor.
 
 ## Related places
 
@@ -155,3 +165,5 @@ left behind: *"Your fathers lived of old time beyond the River … and they serv
   born to him in Paddan Aram"* (35:26) — **which [[Benjamin]], born seven verses earlier in Canaan,
   was not.** The contradiction is internal to one chapter and the wiki adopts no resolution of it —
   [[Return to Bethel; the Deaths of Rachel and Isaac]]
+- Cushan Rishathaim, its king, rules Israel eight years and is defeated by Othniel — Judges 3:8–10,
+  [[Othniel the First Judge]]

@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### He sells, raises up, and gives his Spirit — Judges 3:7–11
+
+Every turn of the first judge's story is his. *Yahweh's anger burned against Israel, and he sold them
+into the hand of Cushan Rishathaim* (8). When Israel cries, *Yahweh raised up a savior* (9).
+*Yahweh's Spirit came on him* (10). *Yahweh delivered Cushan Rishathaim … into his hand* (10). The
+verbs of anger and sale are those of 2:14, word for word (WLC). Israel *forgot* him (7), the verb of
+Deuteronomy 8:11, 19; he did not forget them when they cried.
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-13.
+
 ### He leaves the nations, and tests — Judges 3:1–6
 
 *These are the nations which Yahweh left, to test Israel by them* (1). The verb is *hinnîaḥ*, hiphil of
@@ -4064,9 +4075,11 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 14:42–45 — Declared not among the people who go up; he does not speak in these verses. [[The Defeat at Hormah]]
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 - Leaves the nations to test Israel and teach it war — [[The Nations Left to Test Israel]]
+- Sells Israel to Cushan Rishathaim, raises up Othniel, and his Spirit comes on him — [[Othniel the First Judge]]
 
 ## Appears in
 
+- [[Othniel the First Judge]] — Judges 3:7–11; he sells Israel, raises up a savior, and his Spirit comes on Othniel.
 - [[The Nations Left to Test Israel]] — Judges 3:1–6; he leaves the nations *to test Israel by them*, and *to teach them war*.
 - [[Another Generation Arose]] — Judges 2:6–23; he sells Israel to its enemies, raises up judges, is grieved at their groaning, and leaves the nations to test them.
 - [[The Angel at Bochim]] — Judges 2:1–5; through his angel: *I will never break my covenant with you … I will not drive them out*.

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israel cried — Judges 3:7–11
+
+*When the children of Israel cried to Yahweh* (9), *wayyizʿăqû* (WLC). The summary in 2:18 spoke only
+of their *groaning*; this is the first time in Judges Israel calls on Yahweh. The verb is that of
+Exodus 2:23, *they cried, and their cry came up to God*. The cry has no recorded words, and the text
+does not say whether it included repentance. At 10:10 it will: *We have sinned against you* (stored
+WEB).
+
+See [[Othniel the First Judge]]. Source: stored WEB Judges 3:7–11; comparisons as cited; Hebrew WLC.
+
 ### At Gibeon — Joshua 10:1–15
 
 Joshua speaks to Yahweh while publicly commanding sun and moon to stop (12). The narrative
@@ -367,6 +377,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Othniel the First Judge]] — Judges 3:9; *the children of Israel cried to Yahweh*.
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Sin of Achan]] — Joshua 7:1–26.
