@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Joshua's grave retold — Judges 2:6–23
+
+Judges 2:9 places Joshua's grave at *Timnath Heres, in the hill country of Ephraim, on the north of
+the mountain of Gaash*, repeating Joshua 24:30 with the city's name spelled differently.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23.
+
 ### Two graves — Joshua 24:29–33
 
 Joshua is buried at Timnathserah *in the hill country of Ephraim, on the north of the mountain of
@@ -35,6 +42,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Another Generation Arose]] — Judges 2:9; Joshua's grave at Timnath Heres.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua's and Eleazar's graves (30, 33).
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.

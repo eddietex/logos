@@ -11,8 +11,8 @@ tags: [connection]
   Israel's service in his days — [[The Covenant at Shechem]] and
   [[The Burials of Joshua, Joseph, and Eleazar]]
 - [[Judah Goes Up First]] — **Judges 1:1** — *After the death of Joshua* (now ingested; stored WEB)
-- **Judges 2:6–10** — the same four statements, followed by *another generation* *(not yet
-  ingested)*
+- [[Another Generation Arose]] — **Judges 2:6–10** — the same four statements, followed by
+  *another generation*
 
 ## Analysis
 
@@ -60,4 +60,26 @@ death itself. The first verse of the book already presupposes what chapter 2 nar
 WEB Judges 1:1.
 
 Sources: Joshua 24:28–31 from stored WEB. Judges 1:1 and 2:6–10 checked at bible-api.com
-(`translation=web`), 2026-11-12. No source-language claim is made.
+(`translation=web`), 2026-11-12. No source-language claim is made in the sections above; the section
+below adds the Hebrew.
+
+### Judges 2:6–10 now ingested
+
+The Hebrew now settles the two points this page left open (all WLC):
+
+- **Known and seen.** Joshua 24:31 has *wa-ʾăšer yādəʿû ʾēt kol-maʿăśēh YHWH*, *and had known all the
+  work of Yahweh*. Judges 2:7 has *ʾăšer rāʾû ʾēt kol-maʿăśēh YHWH haggādôl*, *who had seen all the
+  great work*. Judges 2:10 has *ʾăšer lōʾ yādəʿû ʾet-YHWH*, *who didn't know Yahweh*. So the verb
+  Joshua used of the elders is the verb Judges uses, negated, of their children; Judges itself gives
+  the elders *seeing*. The English contrast between *seen* and *didn't know* is a fair reflection of the
+  Hebrew of Judges, and the contrast between *known* and *didn't know* runs across the two books.
+- **The name of the city.** Joshua 24:30 has *timnat-seraḥ*; Judges 2:9 has *timnat-ḥeres*. The
+  second element has the same three consonants in reverse order, *s-r-ḥ* and *ḥ-r-s*, and the
+  OpenScriptures lemma data files both under one entry (`8556`). Whether it is a scribal transposition
+  or a deliberate change is not settled here.
+
+Two smaller differences: Judges 2:6 adds *to possess the land*, *lārešet ʾet-hāʾāreṣ*, which Joshua
+24:28 lacks; and Joshua 24:29 begins *after these things*, which Judges 2:8 lacks.
+
+See [[Another Generation Arose]]. Sources: stored WEB Joshua 24:28–31 and Judges 2:6–10; Hebrew of
+both from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-13.

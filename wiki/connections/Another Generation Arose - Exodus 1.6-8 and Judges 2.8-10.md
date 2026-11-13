@@ -12,11 +12,10 @@ tags: [connection]
 - **Exodus 1:6, 8** — *"Joseph died, as did all his brothers, and all that generation"*; *"Now there
   arose a new king over Egypt, who didn't know Joseph"* — [[The Oppression in Egypt]]
 - **Joshua 24:29; Judges 2:8** — *"Joshua the son of Nun, the servant of Yahweh, died, being one
-  hundred ten years old"* — [[The Burials of Joshua, Joseph, and Eleazar]] (Judges 2:8 not yet
-  ingested; checked at bible-api.com)
+  hundred ten years old"* — [[The Burials of Joshua, Joseph, and Eleazar]] and
+  [[Another Generation Arose]]
 - **Judges 2:10** — *"After all that generation were gathered to their fathers, another generation
-  arose after them, who didn't know Yahweh, nor the work which he had done for Israel"* *(not yet
-  ingested)*
+  arose after them, who didn't know Yahweh, nor the work which he had done for Israel"* — [[Another Generation Arose]]
 
 ## Analysis
 
@@ -54,3 +53,19 @@ Judges uses the same notice to introduce the forgetting. The Joshua 24:29 and Ju
 quotations above have been checked against stored WEB and bible-api.com (`translation=web`),
 2026-11-12. The *wayyāqom* identifications in the table and the Egyptian-lifespan remark were not
 checked in this pass. See [[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]].
+
+### Judges 2:6–23 now ingested
+
+The Hebrew is now checked. Exodus 1:8 has *wayyāqom melek ḥādāš*, and Judges 2:10 has
+*wayyāqom dôr ʾaḥēr*: the same form, qal wayyiqtol of *qûm* (`HC/Vqw3ms`), and the same *lōʾ yādaʿ*,
+*did not know*, in both verses. Exodus 1:6 has *wəḵōl haddôr hahûʾ*, *and all that generation*, and
+Judges 2:10 *kol-haddôr hahûʾ*, the same phrase (all WLC). The table above stands as written.
+
+Judges adds one turn Exodus does not have. Six verses later, Yahweh *raised up judges* (2:16): the
+hiphil of the same verb, *wayyāqem* (WLC). A generation *arose* that did not know him, and he *raised
+up* deliverers for it. Exodus has its own deliverer in Moses, but not this verbal echo.
+
+The Egyptian ideal lifespan of a hundred and ten years is still reported, not checked. See
+[[Another Generation Arose]]. Sources: stored WEB Exodus 1:6, 8 and Judges 2:7–10, 16; Hebrew of
+Exodus 1:6, 8 and Judges 2:10, 16 from the Westminster Leningrad Codex (OpenScriptures morphhb),
+2026-11-13.

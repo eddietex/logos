@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Deliverers without repentance — Judges 2:6–23
+
+In the summary of the judges period, Israel does not cry out and does not repent. Yahweh raises up
+judges *for it grieved Yahweh because of their groaning* (16, 18). The rescue comes from his pity at
+their suffering. It is also limited: it lasts *all the days of the judge* (18), and they turn back
+when he dies.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited.
+
 ### Kindness promised at Bethel — Judges 1:24–25
 
 *We will deal kindly with you* (24): *wəʿāśînû ʿimməḵā ḥāsed* (WLC), the clause the spies promised Rahab in Joshua 2:14, without its *and truly*. The promise is kept: *they let the man and all his family go* (25). See [[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]].
@@ -445,6 +454,7 @@ chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weigh
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:16, 18; judges raised because Yahweh was grieved at their groaning.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:24–25; *ḥesed* promised and kept to the man of Luz.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

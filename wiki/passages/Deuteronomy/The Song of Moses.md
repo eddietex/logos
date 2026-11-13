@@ -85,6 +85,7 @@ these words, teach children obedience, and recognize the instruction as its life
 - [[The Wilderness]]
 
 ## Cross-references
+- [[Another Generation Arose]] — Judges 2:14; *he sold them into the hands of their enemies*, as 32:30 said.
 - [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]]
 - [[Heaven and Earth as Witnesses - Deuteronomy 4, 30, and 31]]
 - [[What the Egyptians Will Hear - Moses' Argument in Exodus 32, Numbers 14, and Deuteronomy 9]]

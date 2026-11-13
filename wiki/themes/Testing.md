@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The nations left to test Israel — Judges 2:6–23
+
+*That by them I may test Israel, to see if they will keep Yahweh's way to walk therein, as their
+fathers kept it, or not* (22). Deuteronomy 8:2 said the wilderness was given *to prove you … whether
+you would keep his commandments, or not*; the Hebrew has the same verb (*nāsâ*), the same *keep*
+(*šāmar*), and the same *ʾim-lōʾ*, *or not* (WLC). The wilderness tested one generation; the nations
+left in the land will test the next. Judges 3:1–4 restates the purpose.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Levi’s godly one is proved at Massah and contended with at Meribah (8). This differs in focus from
@@ -180,6 +190,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+- [[Another Generation Arose]] — Judges 2:22; *that by them I may test Israel*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Remember the Wilderness and the Giver of Wealth]] — Deuteronomy 8:1–20.

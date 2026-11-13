@@ -56,3 +56,14 @@ out*, from *yāraš*, the verb Judges 1 used of the tribes (WLC). Joshua 23:13 h
 Sources: stored WEB Exodus 23:21–22 and Judges 2:1–3, 20–21; 6:8–11. Hebrew of Judges 2:1–3, 20–21;
 6:8, 10; Exodus 23:28–31; 34:11; and Joshua 23:13 read from the Westminster Leningrad Codex
 (OpenScriptures morphhb), 2026-11-13.
+
+### Judges 2:20–21 now ingested
+
+[[Another Generation Arose]] gives the second speech its setting: it comes at the end of the summary
+of the judges period, after the anger, the raiders, the judges, and each relapse. The charge is in
+two parts: *this nation transgressed my covenant which I commanded their fathers* and *has not
+listened to my voice* (2:20). The first part repeats Joshua 23:16, which joined *ʿābar* with *bərît*
+and *ṣiwwâ* in its warning (WLC). Israel is called *haggôy hazzeh*, *this nation*, with the word for the
+nations. The speech then adds a purpose Bochim did not give: the nations stay *that by them I may test
+Israel* (2:22). Sources: stored WEB Judges 2:20–22 and Joshua 23:16; Hebrew from the Westminster
+Leningrad Codex (OpenScriptures morphhb), 2026-11-13.

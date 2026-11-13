@@ -51,6 +51,16 @@ verb is *gāraš*, the verb of his promise in Exodus 23, not the *yāraš* of th
 The people weep, name the place *Bochim*, *weepers*, and sacrifice. The same idiom of weeping returns
 at Bethel in the book's last chapter (21:2).
 
+[[Another Generation Arose]] (2:6–23) starts the book a second time. Joshua sends the people home,
+dies, and is buried, in words taken from Joshua 24:28–31, and then *another generation arose after
+them, who didn't know Yahweh*. The verb Joshua 24:31 used of the elders, *known*, returns negated for
+their children. What follows is the cycle in general terms before any judge is named: Israel serves
+the Baals and the Ashtaroth; Yahweh *sold them* to their enemies; Yahweh, *grieved because of their
+groaning*, raises up judges who save them; and when each judge dies they turn back, *more corruptly
+than their fathers*. Their sin is described in the words of the golden calf, *they quickly turned
+away from the way*. Yahweh's last word on it is the same sentence as Bochim's, *I also will no longer
+drive out*, with a new purpose added: the nations stay *that by them I may test Israel*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -77,7 +87,7 @@ merge, or reorder them freely.
 - [x] [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21
 - [x] [[The Tribes That Did Not Drive Out]] — Judges 1:22–36
 - [x] [[The Angel at Bochim]] — Judges 2:1–5
-- [ ] Another Generation Arose — Judges 2:6–23
+- [x] [[Another Generation Arose]] — Judges 2:6–23
 - [ ] The Nations Left to Test Israel — Judges 3:1–6
 - [ ] Othniel — Judges 3:7–11
 - [ ] Ehud and Eglon — Judges 3:12–30

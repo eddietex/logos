@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### "This nation transgressed my covenant" — Judges 2:6–23
+
+Yahweh's speech gives the reason for the cycle: *this nation transgressed my covenant which I
+commanded their fathers, and has not listened to my voice* (20). Joshua 23:16 had warned of exactly
+this, with the same Hebrew verbs (*ʿābar* with *bərît*, *ṣiwwâ*; WLC). At Bochim Yahweh had said he
+would never break his covenant (2:1). Here Israel has broken it, and Israel is called *this nation*,
+*haggôy hazzeh*, with the word used for the other nations (WLC).
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Two covenants at Bochim — Judges 2:1–5
 
 Yahweh's covenant, which he says he *will never break* (2:1), and the covenant Israel was not to
@@ -680,6 +690,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:20; *this nation transgressed my covenant*.
 - [[The Angel at Bochim]] — Judges 2:1–2; *I will never break my covenant with you*, and no covenant with the land's inhabitants.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; covenant made at Shechem, written, and witnessed by the people and a stone.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and loss of the good land.

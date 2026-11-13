@@ -102,6 +102,7 @@ Complete unit, copied from stored WEB:
 
 ## Cross-references
 
+- [[Another Generation Arose]] — Judges 2:22; the nations left *to test Israel … or not*, as 8:2 said of the wilderness.
 - [[Passover at Gilgal and the End of the Manna]] — Joshua 5:10–12; [[From Manna to the Produce of Canaan]].
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23 continues succession and instruction with a song as witness.

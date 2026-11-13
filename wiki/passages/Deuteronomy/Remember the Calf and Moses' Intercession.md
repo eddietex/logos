@@ -81,6 +81,7 @@ destruction as inability or hatred. They remain Yahweh’s people and inheritanc
 
 ## Cross-references
 
+- [[Another Generation Arose]] — Judges 2:17, 19; *quickly turned away* and *dealt more corruptly*; see [[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]].
 - [[The Golden Calf Retold - Deuteronomy 9, Psalm 106, and Acts 7]]
 - [[Taberah Remembered - Numbers 11, Deuteronomy 9, and Psalm 78]]
 - [[Not for Your Righteousness - The Ancestral Oath and the Gift of the Land]]

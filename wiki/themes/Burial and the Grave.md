@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joshua's grave retold — Judges 2:6–23
+
+Judges 2:9 repeats Joshua 24:30: Joshua is buried *in the border of his inheritance in Timnath
+Heres*. Then *all that generation were gathered to their fathers* (10, *neʾespû ʾel-ʾăbôtāyw*, WLC).
+Genesis says Abraham and Jacob were *gathered to [their] people* (25:8; 49:33, stored WEB). Here a
+whole generation is gathered at once, and the grave marks the end of a faithful age.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Three burials — Joshua 24:29–33
 
 Joshua ends with three graves in the land: Joshua in his own inheritance at Timnathserah (30),
@@ -212,6 +221,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:9–10; Joshua's burial, and a generation gathered to its fathers.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; three graves, all in the land.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 

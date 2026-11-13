@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The way their fathers walked — Judges 2:6–23
+
+*They quickly turned away from the way in which their fathers walked, obeying Yahweh's commandments*
+(17). The test of the nations asks *whether they will keep Yahweh's way to walk therein, as their
+fathers kept it, or not* (22). Walking is here a generation's inheritance: the way is the fathers',
+and the sons can leave it.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited.
+
 A phrase the Bible introduces without explaining, uses of exactly two men before the flood, and then
 converts into its standard metaphor for a whole life lived toward God.
 
@@ -272,6 +281,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:17, 22; *the way in which their fathers walked*.
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Set These Words Before You]] — Deuteronomy 11:18–32; *"walk in all his ways"* (22), and the curse as turning *"out of the way"* (28).
 - [[Covenant Warnings and Remembered Promises]] — Leviticus 26:14–46.

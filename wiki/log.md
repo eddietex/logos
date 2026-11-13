@@ -25908,3 +25908,47 @@ Hebrew of Judges 2:1–5, 20–21; 6:8, 10; 20:23, 26; 21:2; Genesis 3:13; 35:8;
 Westminster Leningrad Codex (OpenScriptures morphhb, GitHub), with its morphology codes. Reported as
 claims, not verified: the Septuagint's *Bethel* at 2:1 and the emendation *ṣārîm* at 2:3. No raw text
 was added or changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 2.6-23 — Another Generation Arose
+
+Auto mode. Judges was the only `in-progress` book; ingested its fifth box, [[Another Generation Arose]]
+(Judges 2:6–23). Judges is now 5 / 42. The boundary was kept as planned.
+
+Created one passage; two people, [[Baal (deity)]] and [[Ashtoreth (deity)]]; and one connection,
+[[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]]. Revised three people
+([[God]], [[Joshua (son of Nun)]], [[The Canaanites]]), five places ([[Timnathserah]],
+[[Mount Gaash]], [[The Hill Country of Ephraim]], [[Egypt]], [[Ashtaroth]]), twelve themes
+([[Remembrance]], [[Idolatry]], [[Judgment]], [[Divine Grief and Relenting]],
+[[Compassion and Mercy]], [[Covenant]], [[Law and Obedience]], [[Testing]], [[The Nations]],
+[[Walking with God]], [[Burial and the Grave]], [[Land and Sojourning]]), four connections
+([[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]],
+[[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]],
+[[Little by Little - The Hornet, the Snare, and the Land Not Taken]],
+[[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]]), and the
+cross-references of ten passages ([[The Burials of Joshua, Joseph, and Eleazar]],
+[[The Covenant at Shechem]], [[Joshua's Farewell to the Leaders]], [[The Angel at Bochim]],
+[[The Golden Calf]], [[Remember the Calf and Moses' Intercession]],
+[[Remember the Wilderness and the Giver of Wealth]], [[A Song to Witness Against Israel]],
+[[The Song of Moses]], [[The Oppression in Egypt]]). Updated the book page and books index, the
+people, places, themes, and connections indexes, and the dashboard counts. Frontmatter totals: 441
+passages, 289 people, 554 places, 87 themes, 843 connections.
+
+Judgment calls: the deities are filed as `type: person`, following [[Chemosh]] and [[Baal Peor]]. Both
+take `(deity)` from the start: Baal because 1 Chronicles is recalled (not checked) as naming a man and
+a town Baal, and Ashtoreth because the plural *ʿaštārôt* is already the place page [[Ashtaroth]]. The
+goddess page uses the singular *Ashtoreth*, which does not yet occur in stored text. The unnamed elders
+and judges get no page. *Timnath Heres* is filed as an alias on [[Timnathserah]], not a new place.
+The two points [[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]] had left open, the
+verbs *known* and *seen* and the reversed consonants of the city's name, are now settled from the
+Hebrew and recorded there. Judges 2:23 and Joshua 21:44 are recorded side by side as an unresolved
+tension, not a contradiction.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Deuteronomy, Joshua, and later Judges chapters as listed on the passage page. Hebrew of Judges
+2:6–23; Joshua 23:16; 24:28–31; Genesis 6:6; Exodus 1:6, 8; 2:24; 3:9; 32:8, 14; 34:15–16;
+Deuteronomy 7:22; 8:2; 9:12, 16; 31:16; and 32:30 read from the Westminster Leningrad Codex
+(OpenScriptures morphhb, GitHub), with its lemma and morphology data. Reported as claims, not
+verified: the gloss *sun* for *ḥeres*; *the Baals* as local forms of one god; the Ashtaroth as
+Astarte; Joshua's name from *yāšaʿ*; other versions' rendering of *nāḥam* at 2:18; and the Egyptian
+ideal lifespan of 110 years. No raw text was added or changed, and no workflow instruction was
+changed. `scripts/link-check.sh` clean.

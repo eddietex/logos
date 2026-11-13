@@ -88,6 +88,7 @@ as surely bring *all the evil things* if Israel breaks the covenant and serves o
 
 ## Cross-references
 
+- [[Another Generation Arose]] — Judges 2:20–21; the warning of 23:13, 16 reported fulfilled.
 - [[Not One Good Thing Failed]] — Joshua 21:43–45; verse 14 repeats the verdict in Joshua's
   mouth, and verse 15 adds its warning edge.
 - [[After the Death of Moses]] — Joshua 1:7–8; the same courage set toward the book of the law,

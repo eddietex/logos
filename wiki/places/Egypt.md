@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### "Who brought them out of the land of Egypt" — Judges 2:6–23
+
+The God Israel abandons is *the God of their fathers, who brought them out of the land of Egypt*
+(12). The summary of the judges period also borrows the words of the bondage: Yahweh is grieved at
+their *groaning* (*naʾăqâ*), the word of Exodus 2:24, and at *those who oppressed them*
+(*lōḥăṣêhem*), the verb of Exodus 3:9 (18, WLC). Each oppressor of Judges is described in the
+language once used of Egypt.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### "I brought you out of Egypt" — Judges 2:1
 
 The angel's speech begins with the exodus: *I brought you out of Egypt, and have brought you to the
@@ -472,6 +482,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[Another Generation Arose]] — Judges 2:12; *who brought them out of the land of Egypt*.
 - [[The Angel at Bochim]] — Judges 2:1; *I brought you out of Egypt*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones *brought up out of Egypt* (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the descent, the plagues, *the house of bondage*, and gods served there (4–7, 14, 17).

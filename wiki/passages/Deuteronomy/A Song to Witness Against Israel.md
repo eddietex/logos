@@ -72,6 +72,7 @@ without concealing the coming covenant crisis.
 - [[Land and Sojourning]]
 
 ## Cross-references
+- [[Another Generation Arose]] — Judges 2:10, 17; a generation *arose* and *prostituted themselves to other gods*, as 31:16 foretold.
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29; see [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]].
 
 - [[The Song That Will Not Be Forgotten - Deuteronomy 8 and 31]]

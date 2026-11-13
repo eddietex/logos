@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### The God of the cycle — Judges 2:6–23
+
+Nearly every verb in the summary of the judges period is his. His anger burns; he *sold them into
+the hands of their enemies* (14); his hand is *against them for evil, as Yahweh had spoken, and as
+Yahweh had sworn* (15). Then he *raised up judges*, is *with the judge*, and saves them, *for it
+grieved Yahweh because of their groaning* (16, 18). No repentance is reported as the condition; the
+verb is *nāḥam*, the verb of Genesis 6:6 and Exodus 32:14 (WLC). His last speech repeats the verdict
+of Bochim, *I also will no longer drive out*, and adds a purpose: *that by them I may test Israel*
+(21–22). The generation that *arose* did not know him (10); he *raised up* (the hiphil of the same
+verb, *qûm*) the judges who saved them (16).
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The verdict at Bochim — Judges 2:1–5
 
 Spoken by his angel in his own first person: he brought Israel out of Egypt, brought them to the
@@ -4043,6 +4056,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Another Generation Arose]] — Judges 2:6–23; he sells Israel to its enemies, raises up judges, is grieved at their groaning, and leaves the nations to test them.
 - [[The Angel at Bochim]] — Judges 2:1–5; through his angel: *I will never break my covenant with you … I will not drive them out*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22; *Yahweh was with them*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:19; *Yahweh was with Judah*, and still the valley was not taken.

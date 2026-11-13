@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A generation that did not know — Judges 2:6–23
+
+*Another generation arose after them, who didn't know Yahweh, nor the work which he had done for
+Israel* (10). The elders *had seen* it (7). Joshua 24:31 had said they *had known* it (*yādəʿû*, WLC),
+and Judges uses that verb, negated, for their children. Deuteronomy had commanded the teaching that
+would have prevented this, *make them known to your children and your children's children*
+(Deuteronomy 4:9, stored WEB). The forgetting is the cause of everything that follows in the book.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The generation that knew — Joshua 24:29–33
 
 Israel *served Yahweh* all the days of Joshua and of the elders who *had known all the work of
@@ -765,6 +775,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:7, 10; the generation *who didn't know Yahweh*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; the elders who *had known all the work of Yahweh* (31).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the history recited by Yahweh and retold by the people; the stone that heard.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

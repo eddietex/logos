@@ -392,6 +392,7 @@ the boys of a town (Matthew 2:16), and a child who escapes — by going *into* E
 
 ## Cross-references
 
+- [[Another Generation Arose]] — Judges 2:10; *another generation arose*, as a new king arose in 1:8.
 - [[The King and the Limits of Power]] — Ecclesiastes 8:2's counsel to obey the king stands in explicit tension with the approved refusal of
   Exodus 1:16–21; see [[Fear Yahweh and the King - Proverbs 24.21, Exodus 22.28, and 1 Peter 2.17]].
 

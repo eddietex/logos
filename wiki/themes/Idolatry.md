@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Baals and the Ashtaroth — Judges 2:6–23
+
+The cycle of Judges begins here: Israel *served the Baals* (11), *followed other gods, of the gods of
+the peoples who were around them* (12), *served Baal and the Ashtaroth* (13), and *prostituted
+themselves to other gods* (17). The verb *zānâ* is the one Exodus 34:15–16 and Deuteronomy 31:16 used
+for this danger (WLC). *They quickly turned away from the way* repeats Exodus 32:8 word for word, the
+verdict on the golden calf. See [[Baal (deity)]], [[Ashtoreth (deity)]], and
+[[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]].
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Their gods a snare — Judges 2:1–5
 
 *Their gods will be a snare to you* (2:3) repeats Exodus 23:33 nearly word for word, *ləmôqēš*
@@ -470,6 +481,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:11–13, 17, 19; the Baals and the Ashtaroth.
 - [[The Angel at Bochim]] — Judges 2:2–3; their altars not broken down; *their gods will be a snare to you*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the fathers' gods, Egypt's gods, the Amorites' gods; *put away the foreign gods*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; naming, swearing by, serving, and bowing to other gods forbidden.

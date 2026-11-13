@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### "They didn't do so" — Judges 2:6–23
+
+*They didn't listen to their judges … They quickly turned away from the way in which their fathers
+walked, obeying Yahweh's commandments. They didn't do so* (17). Each generation *dealt more corruptly
+than their fathers* (19). The test that follows asks the same question: whether they will *keep
+Yahweh's way* (22).
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited.
+
 ### "You have not listened to my voice" — Judges 2:1–5
 
 The angel quotes the commands back almost word for word: no covenant with the inhabitants, *break
@@ -1551,6 +1560,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:17, 19–20; *they didn't listen to their judges*.
 - [[The Angel at Bochim]] — Judges 2:2; *you have not listened to my voice*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the command to drive out, unfulfilled.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the covenant written *in the book of the law of God* (26).

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sold into the hands of their enemies — Judges 2:6–23
+
+Yahweh's anger burns, and he *sold them into the hands of their enemies all around* (14). His hand is
+*against them for evil, as Yahweh had spoken, and as Yahweh had sworn* (15): the judgment is the one
+the covenant had threatened. Joshua 23:16 had said *Yahweh's anger will be kindled against you* if
+they transgressed his covenant; Judges 2:20 uses the same verbs to report it (WLC). The judgment is
+not the end: in the same summary Yahweh raises up judges.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Not driven out — Judges 2:1–5
 
 The sentence is a withdrawal: *I will not drive them out from before you; but they shall be in your
@@ -1051,6 +1061,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:14–15, 20–21; *he sold them into the hands of their enemies*.
 - [[The Angel at Bochim]] — Judges 2:3; *I will not drive them out from before you*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *he will turn and do you evil, and consume you* (20).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and perishing from the land.

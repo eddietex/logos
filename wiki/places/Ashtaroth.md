@@ -28,7 +28,13 @@ Source: stored WEB Deuteronomy 1:1–5.
 
 **Joshua 12:1–24 — the list of kings.** One of Og's two residences, with Edrei (12:4). See [[The Kings Struck Down]].
 
+**The name and the goddess — Judges 2:13.** *ʿaštārôt* is also the plural of the goddess's name:
+Israel *served Baal and the Ashtaroth* (stored WEB; WLC). Judges 2 means the goddesses, not this city,
+and they have their own page, [[Ashtoreth (deity)]]. Whether the city was named for the goddess is
+not said in the text.
+
 ## Appears in
+- [[Another Generation Arose]] — Judges 2:13; the same word as the goddesses' name, not the city.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[The Words of Moses Beyond the Jordan]] — Deuteronomy 1:1–5

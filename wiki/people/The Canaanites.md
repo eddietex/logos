@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Left to test Israel — Judges 2:6–23
+
+They are among *the nations that Joshua left when he died* (21), not named individually here. Yahweh
+will no longer drive them out, *that by them I may test Israel* (22). Their gods are *the gods of the
+peoples who were around them*, which Israel follows (12). Judges 3:3 and 3:5 will name the Canaanites
+among those left (stored WEB).
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23; 3:3, 5.
+
 The inhabitants of the land of [[Canaan]], named both as one people among several on the Pentateuch's
 lists and, more loosely, as the land's population as a whole. The page was created at Judges 1:22–36,
 after the name had appeared on nearly two hundred pages without a page of its own. No individual is
@@ -70,6 +79,7 @@ See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
 
 ## Appears in
 
+- [[Another Generation Arose]] — Judges 2:12, 21–23; among the nations left to test Israel.
 - [[The Angel at Bochim]] — Judges 2:2–3; *the inhabitants of this land*, now not to be driven out.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; not driven out, and put to forced labor.
 - [[The Inheritance of Manasseh]] — Joshua 17:12–13; *would dwell in that land*.

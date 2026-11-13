@@ -67,6 +67,7 @@ sending the people away (2:6).
 
 ## Cross-references
 
+- [[Another Generation Arose]] — Judges 2:6–23; the book's second introduction, and the same verdict in 2:20–21.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; the list this speech gives a verdict on.
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; *listen to his voice*, and *I will drive them out*.
 - [[The Covenant Renewed]] — Exodus 34:12–13; no covenant with the inhabitants, break their altars,

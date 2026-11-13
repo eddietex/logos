@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Each to his inheritance — Judges 2:6–23
+
+*The children of Israel each went to his inheritance to possess the land* (6). *To possess*,
+*lārešet*, is the qal of *yāraš* (WLC), the verb the tribes failed to carry out in chapter 1. The
+pericope ends with the land still shared with nations Yahweh will not drive out (21–23).
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Who lives among whom — Judges 1:22–36
 
 The register turns on one preposition. In Ephraim and Zebulun the Canaanites live *among them* (29–30); in Asher and Naphtali, Israel lives *among the Canaanites, the inhabitants of the land* (32–33); Dan is pushed out of the valley into the hills (34). Possession shrinks across the list.
@@ -1065,6 +1073,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:6, 21–23; each to his inheritance, and the nations left.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites among Israel, and Israel among Canaanites.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; buried in the inheritance; the parcel becomes Joseph's children's (30, 32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; a land Israel had not labored for (13); each to his own inheritance (28).

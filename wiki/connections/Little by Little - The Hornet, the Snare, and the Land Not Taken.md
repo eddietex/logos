@@ -144,6 +144,21 @@ clinging to them. The hornet is not mentioned here; it comes in 24:12.
 
 Source: stored WEB Joshua 23:4–5, 12–13 and Numbers 33:55. No source-language claim is added.
 
+### To test Israel — Judges 2:20–23
+
+Now ingested. [[Another Generation Arose]] repeats Bochim's sentence, *I also will no longer drive out
+any of the nations that Joshua left when he died* (2:21), and adds a purpose that neither Exodus nor
+Bochim gave: *that by them I may test Israel, to see if they will keep Yahweh's way … or not* (2:22).
+Verse 23 then says Yahweh *left those nations, without driving them out hastily*. *Hastily* is
+*mahēr*, the word of Deuteronomy 7:22, *you may not consume them at once* (*mahēr*; WLC). So 2:23
+gathers more than one reason into one verse: not quickly, as Exodus and Deuteronomy said; and not
+into Joshua's hand. The book now holds three explanations side by side: for the land's sake (Exodus
+23:29–30; Deuteronomy 7:22), as punishment (Judges 2:3, 21), and as a test (Judges 2:22; 3:1–4). The
+wiki does not merge them.
+
+Source: stored WEB Judges 2:20–23; Deuteronomy 7:22. Hebrew of Judges 2:21–23 and Deuteronomy 7:22
+from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-13.
+
 ## Significance
 
 - **The conquest is described as God's work in its promise and in its retrospect.** Exodus 23 and

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Grieved at their groaning — Judges 2:6–23
+
+*It grieved Yahweh because of their groaning by reason of those who oppressed them* (18). The verb is
+*yinnāḥēm*, niphal of *nāḥam* (WLC), the verb of Genesis 6:6 (*Yahweh was sorry*) and Exodus 32:14
+(*Yahweh repented*). The WEB translates it *grieved* here. Its cause is Israel's suffering, not
+Israel's repentance, which the summary never reports, and its result is a judge. The repeated
+pattern of the book rests on this verse.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The calf and intercession — Deuteronomy 9:7–29
 
 Destruction is threatened (14), but Moses reports that Yahweh listened (19). Unlike Exodus 32:14,
@@ -146,6 +156,7 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:18; *it grieved Yahweh because of their groaning*.
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 
 

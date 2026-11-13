@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### His death told again — Judges 2:6–23
+
+Judges retells his dismissal of the people, his death at a hundred and ten as *the servant of
+Yahweh*, and his burial at *Timnath Heres* (6–9), nearly word for word from Joshua 24:28–31. The
+elders who outlived him *had seen* the great work of Yahweh (7); Joshua 24:31 said *had known*
+(*yādəʿû*, WLC), and Judges keeps that verb for the next generation, which *didn't know* (10). Two
+later verses look back at his work as unfinished: the nations remain because *Joshua left* them when
+he died (21), and Yahweh *didn't deliver them into Joshua's hand* (23). The verb for *left*, *ʿāzab*,
+is the verb used for Israel *abandoning* Yahweh (12–13, WLC); the text makes no comment on the
+echo.
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### After the death of Joshua — Judges 1:1–7
 
 Judges opens with his death, *After the death of Joshua* (1), as Joshua opened with Moses' (Joshua
@@ -427,6 +440,7 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 
 ## Appears in
 
+- [[Another Generation Arose]] — Judges 2:6–9, 21, 23; his death retold, and the nations he left.
 - [[Judah Goes Up First]] — Judges 1:1; the book begins *after the death of Joshua*, with no successor named.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; dies at one hundred ten, *the servant of Yahweh*; buried at Timnathserah.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; second farewell; *as for me and my house*; the covenant made and written.

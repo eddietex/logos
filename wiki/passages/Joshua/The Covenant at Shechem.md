@@ -127,6 +127,7 @@ away, *each to his own inheritance* (28).
 
 ## Cross-references
 
+- [[Another Generation Arose]] — Judges 2:6; the dismissal of 24:28 retold.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23; the first farewell assembly, called with the
   same four groups of leaders.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33, which follows and closes the

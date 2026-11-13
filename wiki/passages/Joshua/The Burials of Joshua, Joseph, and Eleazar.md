@@ -95,8 +95,7 @@ with three graves, all in the land.
   grave.
 - [[The Deaths of Jacob and Joseph]] — Genesis 50, where Joseph's coffin was left in Egypt.
 - [[The Death of Moses]] — Deuteronomy 34; the grave no one knows.
-- Judges 2:6–10 — the death notice repeated as Judges' second opening (WEB, checked at
-  bible-api.com; Judges not yet ingested).
+- [[Another Generation Arose]] — Judges 2:6–10; the death notice repeated as Judges' second opening.
 
 ## Notes
 
@@ -133,6 +132,12 @@ Judges 2:7 repeats the sentence with *who had seen all the great work of Yahweh*
 the verse here leaves unsaid: *another generation arose after them, who didn't know Yahweh, nor the
 work which he had done for Israel* (WEB, checked at bible-api.com). See
 [[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]].
+
+Judges 2:6–10 is now ingested as [[Another Generation Arose]]. The Hebrew shows the verb here,
+*yādəʿû*, *had known* (24:31), returning negated for the next generation in Judges 2:10, while Judges
+2:7 gives the elders *rāʾû*, *had seen*. Joshua 24:30's *Timnathserah* is *timnat-seraḥ*, and Judges
+2:9's *Timnath Heres* is *timnat-ḥeres*, the same consonants reversed (all WLC; OpenScriptures
+morphhb, 2026-11-13).
 
 **Joseph's bones.** At his death Joseph made the children of Israel swear: *God will surely visit
 you, and you shall carry up my bones from here* (Genesis 50:25). Moses took the bones at the exodus

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The nations Joshua left — Judges 2:6–23
+
+Israel follows *the gods of the peoples who were around them* (12) and is sold *into the hands of
+their enemies all around* (14). Yahweh will no longer drive out *any of the nations that Joshua left
+when he died* (21); he leaves them to test Israel (22–23). Israel itself is called *this nation*,
+*haggôy hazzeh*, with the same word, *gôy* (20, WLC).
+
+See [[Another Generation Arose]]. Source: stored WEB Judges 2:6–23, with comparisons from stored WEB as cited; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Left in the land — Judges 2:1–5
 
 The peoples remain because Yahweh *will not drive them out* (2:3). They are not named; they are
@@ -565,6 +574,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Another Generation Arose]] — Judges 2:12, 14, 20–23; the nations left to test Israel.
 - [[The Angel at Bochim]] — Judges 2:2–3; the inhabitants left, and their gods a snare.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites and Amorites remain; the man of Luz goes.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the seven peoples (11), and the gods of the Amorites (15).
