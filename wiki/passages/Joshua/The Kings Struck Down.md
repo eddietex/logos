@@ -69,7 +69,7 @@ thirty-one* (9–24).
 - The western limits: [[Baal Gad]], [[Lebanon]], [[Mount Halak]], [[Edom]] (Seir, 7), and
   [[The Negev]] (*the South*, 8).
 - Royal cities already narrated: [[Jericho]], [[Ai]], [[Jerusalem]], [[Hebron]], [[Jarmuth]],
-  [[Lachish]], [[Eglon]], [[Gezer]], [[Debir (city)]], [[Libnah (city)]], [[Makkedah]],
+  [[Lachish]], [[Eglon (city)]], [[Gezer]], [[Debir (city)]], [[Libnah (city)]], [[Makkedah]],
   [[Madon]], [[Hazor]], [[Shimron]], [[Achshaph]].
 - Royal cities named before but not narrated as conquered: [[Bethel]], [[Hormah]], [[Arad]],
   [[Adullam]], [[Dor]], [[Tirzah (city)]].

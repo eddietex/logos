@@ -11,7 +11,8 @@ tags: [connection]
   from war.* (stored WEB)
 - [[Caleb Claims Hebron]] — **Joshua 14:15** — *Then the land had rest from war.* (stored WEB)
 - [[Othniel the First Judge]] — **Judges 3:11** — *The land had rest forty years* (stored WEB)
-- **Judges 3:30** — after Ehud: *Then the land had rest eighty years.* (stored WEB) *(not yet ingested)*
+- [[Ehud and Eglon]] — **Judges 3:30** — after Ehud: *Then the land had rest eighty years.* (stored
+  WEB)
 - **Judges 5:31** — after Deborah: *Then the land had rest forty years.* (stored WEB) *(not yet
   ingested)*
 - **Judges 8:28** — after Gideon: *The land had rest forty years in the days of Gideon.* (stored WEB)
@@ -56,7 +57,10 @@ follows is the judge's.
   [[Rest from All Your Enemies - Deuteronomy 12, Joshua 1, 21-23, and Hebrews 4]]). *Šāqaṭ* describes
   quiet rather than a gift. The two threads are related in subject but not in vocabulary.
 - *Forty* recurs three times, and is commonly read as a round number for a generation. That is a
-  reading, not something the text states.
+  reading, not something the text states. Ehud's *eighty* (3:30) is the exception and the longest rest
+  in the book; on the same reading it is two generations. It follows the only victory summary so far
+  with *kānaʿ*, *Moab was subdued* (3:30, WLC), a verb the book repeats after Deborah (4:23), Gideon
+  (8:28), and Jephthah (11:33), though Jephthah gets no rest notice.
 
 Sources: stored WEB Joshua 11:23; 14:15; Judges 3:11, 30; 5:31; 8:28; 18:7, 27. Hebrew (including
 the *nûaḥ* of Deuteronomy 12:10 and Joshua 21:44; 23:1) read from the

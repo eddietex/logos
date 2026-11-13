@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The fords held against Moab — Judges 3:28
+
+*They followed him, and took the fords of the Jordan against the Moabites, and didn't allow any man to
+pass over* (28). The river that Israel crossed in Joshua 3–4 becomes a line held against an enemy
+trying to cross back. See [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]].
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 The Jordan marks the two stages of the history: *the land of the Amorites, that lived beyond the Jordan* (8), and *You went over the Jordan, and came to Jericho* (11). The crossing itself is not described.
@@ -361,6 +369,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:28; Israel takes the fords against Moab.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the Amorites beyond it (8), and the crossing (11).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; eastern limit of the allotment (4).
 

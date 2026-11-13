@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### A savior with a sword — Judges 3:12–30
+
+*Yahweh raised up a savior for them, Ehud* (15), *môšîaʿ* (WLC), the title Othniel had. This time
+the saving is told in detail, and it is done by a private act: a hidden sword, a cleared room, a
+locked door. The Spirit is not mentioned. Only at the end does Ehud say who has done it: *Yahweh has
+delivered your enemies the Moabites into your hand* (28). The deliverance ends in *eighty years* of
+rest (30), the longest in the book.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### A savior raised up — Judges 3:7–11
 
 *Yahweh raised up a savior to the children of Israel, who saved them, even Othniel* (9). *Môšîaʿ*,
@@ -321,6 +332,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:15, 28; *a savior*, and Yahweh's deliverance in Ehud's mouth.
 - [[Othniel the First Judge]] — Judges 3:9; *a savior … who saved them*.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 

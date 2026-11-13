@@ -78,6 +78,17 @@ Balaam (Numbers 24:2); *he judged Israel*, went to war, and *his hand prevailed*
 forty years*, in Joshua's word for rest from war, and then he died. Nobody speaks, and nothing goes
 wrong. The judges after him each add something to the pattern.
 
+[[Ehud and Eglon]] (3:12–30) is the first judge story told at length. Israel *again* does evil, and
+this time Yahweh does not sell them but *strengthened Eglon the king of Moab*, with the verb of
+Pharaoh's hardened heart. Moab, with Ammon and Amalek, takes *the city of palm trees* and rules
+eighteen years. The savior is *Ehud the son of Gera, the Benjamite, a left-handed man*, a son of the
+right hand who is restricted in his right hand. He carries Israel's tribute to a *very fat* king,
+gains a private audience with *a secret message* and then *a message from God*, and kills him with a
+hidden sword. The servants, finding the doors locked, assume the king is *covering his feet* and wait
+*until they were ashamed*. Ehud blows the horn, Israel holds the fords of the Jordan, *no man escaped*,
+and the land rests eighty years. No Spirit comes on him, he is never said to judge, and the narrator
+neither praises nor blames the deception.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -107,7 +118,7 @@ merge, or reorder them freely.
 - [x] [[Another Generation Arose]] — Judges 2:6–23
 - [x] [[The Nations Left to Test Israel]] — Judges 3:1–6
 - [x] [[Othniel the First Judge]] — Judges 3:7–11
-- [ ] Ehud and Eglon — Judges 3:12–30
+- [x] [[Ehud and Eglon]] — Judges 3:12–30
 - [ ] Shamgar — Judges 3:31
 - [ ] Deborah and Barak — Judges 4:1–16
 - [ ] Jael and Sisera — Judges 4:17–24

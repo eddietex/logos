@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The trumpet and the fords — Judges 3:27–29
+
+Ehud *blew a trumpet in the hill country of Ephraim*, and Israel came down. The war is won by
+position: *they took the fords of the Jordan against the Moabites, and didn't allow any man to pass
+over* (28), and about ten thousand Moabites, *every strong man, and every man of valor*, die. *No man
+escaped* (29). The verb for blowing the trumpet, *tāqaʿ* (27), is the verb for thrusting the sword
+into Eglon (21, WLC). See [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]].
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### He went out to war — Judges 3:7–11
 
 *He went out to war, and Yahweh delivered Cushan Rishathaim king of Mesopotamia into his hand* (10).
@@ -748,6 +759,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:27–29; the trumpet, the fords, *no man escaped*.
 - [[Othniel the First Judge]] — Judges 3:10; *he went out to war*, and Yahweh delivered the king into his hand.
 - [[The Nations Left to Test Israel]] — Judges 3:1–2; *to teach them war*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Bethel taken, and the cities not driven out.

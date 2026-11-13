@@ -79,6 +79,14 @@ that gathers, and 1 Corinthians 15:52 and 1 Thessalonians 4:16 have one that rai
 seven to angels. These are the assembly and alarm of Numbers 10 at the widest scale, but that is the wiki's comparison
 and none of the texts cites it.
 
+### Ehud's horn — Judges 3:27
+
+*He blew a trumpet in the hill country of Ephraim* (stored WEB): *wayyitqaʿ baššôpār* (WLC), the ram's
+horn, not the silver *ḥăṣōṣərâ*. It is a muster, as Gideon's will be (6:34, *wayyitqaʿ baššôpār*,
+WLC). The verb *tāqaʿ* also means *to thrust* or *drive in*: six verses earlier Ehud *thrust* the sword
+into Eglon with the same verb (*wayyitqāʿehā*, 3:21), and Jael *drives* the tent peg with it (4:21,
+WLC). See [[Ehud and Eglon]].
+
 ## Significance
 
 The English word joins what the Hebrew keeps apart. Quoting WEB's *trumpet* as evidence about the instrument is

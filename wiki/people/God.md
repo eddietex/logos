@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### He strengthens the enemy, and raises up a left-handed savior — Judges 3:12–30
+
+This time he does not *sell* Israel: *Yahweh strengthened Eglon the king of Moab against Israel,
+because they had done that which was evil in Yahweh's sight* (12). The verb, *wayḥazzēq* (WLC), is
+the one used when he hardened Pharaoh's heart (Exodus 9:12), but its object here is the king himself.
+When Israel cries, *Yahweh raised up a savior for them, Ehud* (15). After that the narrator does not
+name him. No Spirit comes on Ehud, and the killing of Eglon is told without Yahweh as subject. Only
+Ehud names him, at the trumpet: *Yahweh has delivered your enemies the Moabites into your hand* (28).
+Whether Ehud's *message from God* (20) was Yahweh's message, the text does not say.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### He sells, raises up, and gives his Spirit — Judges 3:7–11
 
 Every turn of the first judge's story is his. *Yahweh's anger burned against Israel, and he sold them
@@ -4079,6 +4092,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:12–30; he strengthens Eglon against Israel, raises up Ehud, and, in Ehud's words, delivers Moab into Israel's hand.
 - [[Othniel the First Judge]] — Judges 3:7–11; he sells Israel, raises up a savior, and his Spirit comes on Othniel.
 - [[The Nations Left to Test Israel]] — Judges 3:1–6; he leaves the nations *to test Israel by them*, and *to teach them war*.
 - [[Another Generation Arose]] — Judges 2:6–23; he sells Israel to its enemies, raises up judges, is grieved at their groaning, and leaves the nations to test them.

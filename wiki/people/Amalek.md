@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Eglon's ally — Judges 3:12–14
+
+Eglon of Moab *gathered the children of Ammon and Amalek to himself; and he went and struck Israel,
+and they possessed the city of palm trees* (13). Amalek, the nation Israel was told to remember and
+blot out (Deuteronomy 25:17–19), appears in Judges for the first time as a junior partner in Moab's
+occupation of Jericho. It has no further role in the story; the war at the fords is against Moab
+alone (28–29).
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30.
+
 ### Balaam’s last oracles — Numbers 23:27–24:25
 
 The oracle names the nation, not its ancestor, as first among nations and destined for destruction
@@ -99,6 +109,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 

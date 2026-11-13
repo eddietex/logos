@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Possessed by Moab — Judges 3:13
+
+Eglon and his allies *possessed the city of palm trees* (13), *ʿîr hattəmārîm* (WLC), the title
+Deuteronomy 34:3 gives Jericho. The verb is *yāraš*, the verb of Israel's own taking of the land.
+Joshua had cursed whoever would rebuild the city (Joshua 6:26); the text does not say Moab rebuilt it,
+only that Moab held it, and Israel served Moab eighteen years. Ehud's escape route runs past *the stone
+idols that were by Gilgal*, *on the east border of Jericho* (Joshua 4:19).
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; comparisons as cited.
+
 ### The city of palm trees — Judges 1:16
 
 The Kenites go up *out of the city of palm trees with the children of Judah* (16). Deuteronomy 34:3
@@ -186,6 +196,7 @@ Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:13; *the city of palm trees*, possessed by Eglon of Moab.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the city of palm trees*, which the Kenites leave.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *the men of Jericho fought against you* (11).
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

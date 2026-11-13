@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh strengthened Eglon — Judges 3:12
+
+*Wayḥazzēq YHWH ʾet-ʿeglôn melek-môʾāb ʿal-yiśrāʾēl* (WLC): *Yahweh strengthened Eglon the king of
+Moab against Israel*. The verb and stem are those of *wayḥazzēq YHWH ʾet-lēb parʿōh*, *Yahweh hardened
+the heart of Pharaoh* (Exodus 9:12; also 10:20, 27; 11:10; 14:8; WLC), and of Joshua 11:20, *to harden
+their hearts*. The difference is the object. With Pharaoh and the Canaanite kings it is *the heart*,
+and the result is resistance; with Eglon it is the king himself, and the result is power over Israel.
+The English *strengthened* and *hardened* hide that the Hebrew verb is the same. The wiki records the
+shared verb and does not treat Judges 3:12 as a hardening of Eglon's heart.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12; Exodus 9:12; Joshua 11:20; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-13.
+
 ### The whole land taken — Joshua 11:16–23
 
 *It was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor* (20). The pattern seen with Pharaoh and Sihon now explains why no Canaanite city but Gibeon made peace. The text asserts divine agency and the kings’ resistance together and does not soften the outcome. See [[No City Made Peace - Deuteronomy 20 and Joshua 11.19-20]].
@@ -162,6 +175,7 @@ sources and interpretive limits.
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:12; *ḥāzaq* with Eglon himself, not his heart, as object.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.
 

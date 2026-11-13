@@ -66,6 +66,7 @@ or rescue of the household is yet narrated.
 - [[The Fear of God]]
 
 ## Cross-references
+- [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]] — the fords of verse 7, later held against Moab and against Ephraim.
 - [[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]] — the same promise of *ḥesed* at Bethel.
 - [[Rahab Saved by the Oath and the Walls Fallen by Faith]]
 - [[The Midwives and Rahab - Deceiving the King to Save Life]]

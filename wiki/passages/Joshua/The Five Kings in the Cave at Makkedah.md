@@ -55,7 +55,7 @@ in the narrator’s day.
 - [[Hebron]]
 - [[Jarmuth]]
 - [[Lachish]]
-- [[Eglon]]
+- [[Eglon (city)]]
 
 ## Themes
 

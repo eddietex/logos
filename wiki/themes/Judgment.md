@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Strengthened against Israel — Judges 3:12–30
+
+The second oppression is described differently from the first. With Cushan Rishathaim, Yahweh's
+anger burned and he *sold* Israel (3:8). With Moab there is no anger and no sale: *Yahweh
+strengthened Eglon the king of Moab against Israel, because they had done that which was evil in
+Yahweh's sight* (12). The reason is stated at both ends of the verse. Judgment is Yahweh making the
+enemy strong, and the term is eighteen years, more than twice Othniel's eight.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:7–30.
+
 ### Sold to Cushan Rishathaim — Judges 3:7–11
 
 *Yahweh's anger burned against Israel, and he sold them into the hand of Cushan Rishathaim* (8). The
@@ -1069,6 +1079,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:12; *Yahweh strengthened Eglon … against Israel*.
 - [[Othniel the First Judge]] — Judges 3:8; *he sold them into the hand of Cushan Rishathaim*.
 - [[Another Generation Arose]] — Judges 2:14–15, 20–21; *he sold them into the hands of their enemies*.
 - [[The Angel at Bochim]] — Judges 2:3; *I will not drive them out from before you*.

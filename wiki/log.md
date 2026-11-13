@@ -26033,3 +26033,48 @@ Judges 3:7 are limited to the WLC files for Exodus, Numbers, Deuteronomy, Joshua
 as claims, not verified: *Rishathaim* as *double wickedness*; *Asheroth* as a blend with *Ashtaroth*;
 Asherah as a Canaanite goddess; *forty* as a round number for a generation. No raw text was added or
 changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 3.12-30 — Ehud and Eglon
+
+Auto mode. Judges was the only `in-progress` book; ingested its eighth box, [[Ehud and Eglon]]
+(Judges 3:12–30). Judges is now 8 / 42. The boundary was kept as planned; Shamgar (3:31) stays its own
+box.
+
+Created one passage; two people, [[Ehud]] and [[Eglon (person)]]; one place, [[Seirah]]; and two
+connections, [[Left-Handed Men of Benjamin - Judges 3.15 and 20.16]] and
+[[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]]. Renamed the place page *Eglon* to
+[[Eglon (city)]] under the person/place collision rule, and fixed its links in five Joshua passages,
+the Joshua book page, and the places index. Revised three people ([[God]], [[Benjamin]], [[Amalek]]),
+six places ([[Moab (place)]], [[Ammon]], [[Jericho]], [[Gilgal]], [[The Jordan]],
+[[The Hill Country of Ephraim]]), eight themes ([[Judgment]], [[Hardening of the Heart]],
+[[Slavery and Servitude]], [[Prayer]], [[Redemption]], [[Deception]], [[Idolatry]], [[War]]), three
+connections ([[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]],
+[[Trumpet and Ram's Horn - Two Instruments, One English Word]],
+[[Moab and Ammon - The Two Nations Born in the Cave]]), and the cross-references of three passages
+([[Othniel the First Judge]], [[Rahab and the Spies]], [[Judah's Conquests and Achsah's Springs]]).
+Updated the book page and books index, the people, places, themes, and connections indexes, and the
+dashboard counts. Frontmatter totals: 444 passages, 297 people, 555 places, 87 themes, 848
+connections.
+
+Correction flagged: [[Moab and Ammon - The Two Nations Born in the Cave]] said Eglon was *killed on his
+own toilet*. The text says his servants *assumed* he was *covering his feet* (3:24), and places his
+death in *the cool upper room*. The page now gives both and says which the text supports.
+
+Judgment calls: Gera gets no page, as Kenaz did not: he is a patronymic only, and Genesis 46:21's Gera
+son of Benjamin may mean *son of Gera* names a clan. *Yahweh strengthened Eglon* is recorded on
+[[Hardening of the Heart]] for its shared verb with Exodus 9:12, but explicitly not treated as a
+hardening of Eglon's heart, because the object differs. The Moabites stay on [[Moab (place)]]; no
+collective people page was created. The *tāqaʿ* note (sword and trumpet) went into the trumpet
+connection rather than a new page. Ehud's page is unqualified; an Ehud in 1 Chronicles may force a
+qualifier later, which has not been checked.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Leviticus, Numbers, Deuteronomy, Joshua, and later Judges chapters as listed on the passage page.
+1 Samuel 24:3 and 1 Chronicles 12:2 (WEB) checked at bible-api.com; those books were not fetched into
+raw. Hebrew read from the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub `wlc/Gen.xml`,
+`Exod.xml`, `Lev.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml`) with its lemma data;
+every *occurs only here* claim is limited to Genesis–Judges and 1 Samuel. Reported as claims, not
+verified: *gōmed* as shorter than a cubit; *ʿeglôn* as a pun on *ʿēgel*; the *pəsîlîm* as quarries or
+as Joshua's twelve stones; the readings of *paršədōnâ* and *misdərônâ*; the three readings of
+*ʾiṭṭēr*; *śəʿîrâ* as related to *śāʿîr*; *eighty* as two generations. No raw text was added or changed,
+and no workflow instruction was changed. `scripts/link-check.sh` clean.

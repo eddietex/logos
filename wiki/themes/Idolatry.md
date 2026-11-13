@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stone idols by Gilgal — Judges 3:19, 26
+
+The book gives no idolatry charge beyond the formula, *again did that which was evil* (12). But in the
+story, *the stone idols that were by Gilgal*, *happəsîlîm* (WLC), stand near the place where Israel
+first camped in the land and kept Passover (Joshua 4:19; 5:10). *Pəsîlîm* are what Deuteronomy said to
+burn (7:5, 25). Whose images they were, and whether they are images at all and not quarries, is not
+said; see [[Gilgal]].
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### The Baals and the Asheroth — Judges 3:7–11
 
 *They … forgot Yahweh their God, and served the Baals and the Asheroth* (7). The pair is new: 2:13 had
@@ -498,6 +509,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
 - [[Othniel the First Judge]] — Judges 3:7; *the Baals and the Asheroth*.
 - [[The Nations Left to Test Israel]] — Judges 3:6; marriage, then *served their gods*.
 - [[Another Generation Arose]] — Judges 2:11–13, 17, 19; the Baals and the Ashtaroth.

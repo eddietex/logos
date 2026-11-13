@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### With Moab against Israel — Judges 3:13
+
+*He gathered the children of Ammon and Amalek to himself* (13). The two nations from Lot's cave act
+together, under Moab's king, against Israel west of the Jordan. Ammon has no further part in the story.
+See [[Moab and Ammon - The Two Nations Born in the Cave]].
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Gad’s portion includes half the land of the children of Ammon (25), whereas Deuteronomy 2:19 forbids its acquisition and 2:37 reports avoidance. Former Ammonite land held by Sihon is a possible explanation, but Joshua 13 does not state it. Both claims remain explicit.
@@ -116,6 +124,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[The Defeat of Og Recounted]] — Deuteronomy 3:1–11.

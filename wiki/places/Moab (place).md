@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### Eglon's eighteen years — Judges 3:12–30
+
+*Yahweh strengthened Eglon the king of Moab against Israel* (12). With Ammon and Amalek, Moab strikes
+Israel and possesses *the city of palm trees*, Jericho, west of the Jordan (13), and Israel serves its
+king eighteen years (14). This is the land Israel was forbidden to take (Deuteronomy 2:9); now Moab
+takes Israel's. After Ehud kills Eglon, Israel holds the fords of the Jordan *against the Moabites*
+(28), so the Moabites on the west bank cannot get home, and about ten thousand die, *every strong man*,
+literally *every fat one*, *šāmēn* (29, WLC). *So Moab was subdued that day under the hand of
+Israel* (30).
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *Balak the son of Zippor, king of Moab, arose and fought against Israel* (9). Numbers narrates the hiring of Balaam, not a battle; see [[Balak]] for the tension recorded with Judges 11:25.
@@ -275,6 +288,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:12–30; Eglon's Moab rules Israel eighteen years and is subdued.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balak, king of Moab, hires Balaam (9).
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Moses' death, burial, and mourning.

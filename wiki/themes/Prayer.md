@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israel cried again — Judges 3:15
+
+*But when the children of Israel cried to Yahweh, Yahweh raised up a savior for them* (15). The same
+verb, *wayyizʿăqû* (WLC), as at 3:9, and again no words are recorded. The cry comes after eighteen
+years, and the answer comes in the same sentence.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### Israel cried — Judges 3:7–11
 
 *When the children of Israel cried to Yahweh* (9), *wayyizʿăqû* (WLC). The summary in 2:18 spoke only
@@ -377,6 +386,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:15; the cry, and a savior raised up.
 - [[Othniel the First Judge]] — Judges 3:9; *the children of Israel cried to Yahweh*.
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

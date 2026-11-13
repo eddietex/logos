@@ -77,6 +77,7 @@ the pattern before it frays.
 
 ## Cross-references
 
+- [[Ehud and Eglon]] — Judges 3:12–30; the next turn of the cycle, *again*, and told at length.
 - [[Another Generation Arose]] — Judges 2:11–19; the cycle in general terms, here first carried out.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:11–15; Othniel takes Kiriath Sepher.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19; the same, in Joshua.

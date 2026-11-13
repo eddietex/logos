@@ -18,7 +18,8 @@ tags: [connection]
 - Deuteronomy 2:9, 19 — *"I have given Ar to the children of Lot for a possession"*, and the same
   for Ammon
 - Numbers 22–24; 25:1–3 — Balak of Moab and Balaam; Baal Peor
-- Judges 3:12–30; 11:4–33 — Eglon of Moab; Jephthah against Ammon
+- [[Ehud and Eglon]] — Judges 3:12–30; Eglon of Moab, with Ammon and Amalek as allies (13)
+- Judges 11:4–33 — Jephthah against Ammon
 - 1 Samuel 11:1–11; 22:3–4; 2 Samuel 10:1–14; 12:26–31 — Ammon besieging Jabesh Gilead; David
   lodging his parents with the king of Moab; the Ammonite war
 - 1 Kings 11:5, 7, 33; 14:21, 31; 2 Kings 23:13 — Chemosh and Milcom on the hill east of Jerusalem,
@@ -115,7 +116,12 @@ God turned the curse into a blessing to you, because Yahweh your God loved you"*
 
 ### 3. They are Israel's standing enemies for six hundred years
 
-Eglon of Moab holds Israel eighteen years and is killed on his own toilet (Judges 3:12–30).
+Eglon of Moab, with Ammon beside him, holds Israel eighteen years and is killed in his upper room
+(Judges 3:12–30; see [[Ehud and Eglon]]). An earlier version of this page said *on his own toilet*.
+The text does not say that: it says his servants *assumed* he was *covering his feet* (3:24), an idiom
+the WEB renders *relieve himself* in 1 Samuel 24:3, and that he was found *dead on the floor* of *the
+cool upper room* (3:20, 25). Where he was killed is the upper room; the latrine is the servants'
+guess.
 Ammon's siege of Jabesh Gilead, with its demand for the right eye of every man in the town, is what
 makes Saul king (1 Samuel 11). Ammon shaves David's envoys' beards and cuts their robes off at the
 buttocks, and the war that follows is the one Uriah dies in (2 Samuel 10; 11:1; 12:26–31). Chemosh

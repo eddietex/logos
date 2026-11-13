@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The stone idols by Gilgal — Judges 3:19, 26
+
+Ehud *turned back from the stone idols that were by Gilgal* to bring Eglon his *secret message* (19),
+and after the killing he *passed beyond the stone idols* to safety (26). *Happəsîlîm* (WLC) is
+elsewhere the word for the nations' *engraved images* (Deuteronomy 7:5, 25; 12:3). The WEB has *stone
+idols*. Some identify them with the twelve stones Joshua set up at Gilgal (Joshua 4:20), and some take
+the word as *quarries*; both are reported, not checked. In the story they mark a line: the edge of
+Eglon's reach, or of his watch.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### The angel comes up from Gilgal — Judges 2:1
 
 *Yahweh's angel came up from Gilgal to Bochim* (2:1). Gilgal had been Israel's camp through Joshua
@@ -87,6 +99,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
 - [[The Angel at Bochim]] — Judges 2:1; the angel comes up from here.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
@@ -111,6 +124,7 @@ both pages qualified.
 - [[Bochim]] — where the angel goes up to from Gilgal (Judges 2:1).
 
 ## Events here
+- Ehud turns back at *the stone idols that were by Gilgal* and later passes them in escape — Judges 3:19, 26, [[Ehud and Eglon]].
 
 - Named as a landmark near the mountains of blessing and curse — Deuteronomy 11:30,
   [[Set These Words Before You]].

@@ -60,7 +60,7 @@ reports the return to Gilgal.
 - [[Jericho]]
 - [[Jarmuth]]
 - [[Lachish]]
-- [[Eglon]]
+- [[Eglon (city)]]
 - [[Beth Horon]]
 - [[Azekah]]
 - [[Makkedah]]

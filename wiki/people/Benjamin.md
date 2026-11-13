@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Ehud the Benjamite — Judges 3:12–30
+
+The second savior is *Ehud the son of Gera, the Benjamite, a left-handed man* (15). The Hebrew,
+*ben-hayəmînî ʾîš ʾiṭṭēr yad-yəmînô* (WLC), sets the tribe's name, *son of the right hand*, beside a
+man *restricted in his right hand*. *Gera* is one of Benjamin's sons in Genesis 46:21. The same phrase
+returns for Benjamin's seven hundred left-handed slingers in the war against the other tribes
+(20:16). See [[Left-Handed Men of Benjamin - Judges 3.15 and 20.16]].
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; 20:16; Genesis 46:21; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-13.
+
 ### The Jebusites not driven out — Judges 1:21
 
 The tribe's first appearance in Judges is a failure: *The children of Benjamin did not drive out the
@@ -209,6 +220,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:15; Ehud, *the Benjamite, a left-handed man*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:21; the Jebusites remain in Jerusalem with Benjamin.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.

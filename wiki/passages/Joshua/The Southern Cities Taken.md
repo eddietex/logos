@@ -45,7 +45,7 @@ success by Yahweh’s fighting for Israel. Joshua and the army then return to Gi
 ## Places
 - [[Makkedah]]
 - [[Lachish]]
-- [[Eglon]]
+- [[Eglon (city)]]
 - [[Hebron]]
 - [[Jericho]]
 - [[Gilgal]]

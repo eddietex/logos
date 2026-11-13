@@ -312,7 +312,7 @@ Plan drawn 2026-11-10 from the stored WEB. **42 / 42 pericopes ingested — comp
 - [[Shechem (city)]] — the covenant assembly and Joseph's grave (24:1–28, 32).
 - [[Shiloh]] — the Tent, written land survey, and remaining lots (18:1–10).
 - [[Gibeon]], [[Gilgal]], and [[The Valley of Aijalon]] — rescue and the public address (10:6–15).
-- [[Jerusalem]], [[Hebron]], [[Jarmuth]], [[Lachish]], and [[Eglon]] — coalition cities (10:3–5).
+- [[Jerusalem]], [[Hebron]], [[Jarmuth]], [[Lachish]], and [[Eglon (city)]] — coalition cities (10:3–5).
 - [[Beth Horon]], [[Azekah]], and [[Makkedah]] — pursuit (10:10–11).
 - [[Mount Halak]] and [[Baal Gad]] — the southern and northern limits of the conquest summary (11:17).
 - [[Gaza]], [[Gath]], and [[Ashdod]] — where a remnant of the Anakim stays (11:22).

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Ehud's trumpet — Judges 3:27
+
+*When he had come, he blew a trumpet in the hill country of Ephraim; and the children of Israel went
+down with him from the hill country, and he led them* (27). A Benjamite judge musters Israel in
+Ephraim's hills, and leads them *down* to the Jordan fords.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30.
+
 ### Joshua's grave retold — Judges 2:6–23
 
 Judges 2:9 places Joshua's grave at *Timnath Heres, in the hill country of Ephraim, on the north of
@@ -42,6 +50,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Ehud and Eglon]] — Judges 3:27; Ehud blows the trumpet there.
 - [[Another Generation Arose]] — Judges 2:9; Joshua's grave at Timnath Heres.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua's and Eleazar's graves (30, 33).
 - [[The Cities of the Levites]] — Joshua 21:1–42.

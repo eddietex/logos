@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eighteen years, and the tribute — Judges 3:12–30
+
+*The children of Israel served Eglon the king of Moab eighteen years* (14). The service is shown, not
+just counted: Israel sends *tribute*, *minḥâ*, to Eglon by Ehud's hand, and a group of people carry
+it (15–18). *Minḥâ* is also the word for the grain offering (Leviticus 2; WLC). The servitude ends
+when the man who brought the tribute kills the king who received it.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### Serving the gods, then the king — Judges 3:7–11
 
 *They … served the Baals and the Asheroth* (7); *the children of Israel served Cushan Rishathaim eight
@@ -475,6 +485,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[Ehud and Eglon]] — Judges 3:14–18; eighteen years of service, and the tribute.
 - [[Othniel the First Judge]] — Judges 3:7–8; they served the Baals, then served Cushan Rishathaim.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:28–35; forced labor four times.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua *the servant of Yahweh*; Israel *served Yahweh* (29, 31).

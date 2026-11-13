@@ -3,9 +3,13 @@ type: place
 also_known_as: []
 tags: [place]
 ---
-# Eglon
+# Eglon (city)
 
 ## Overview
+
+The Canaanite city of Joshua 10, 12, and 15. Not to be confused with [[Eglon (person)]], the king of Moab
+in Judges 3:12–30, who shares its name and, in the OpenScriptures lemma data, its lemma entry (5700).
+This page was renamed from *Eglon* when the king arrived, per the person/place collision rule.
 
 ### Judah’s cities — Joshua 15:20–63
 

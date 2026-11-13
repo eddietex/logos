@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### A secret message — Judges 3:16–26
+
+Ehud hides a sword on his right thigh, where a left-handed man would carry it and a guard might not
+look (16). He tells the king *I have a secret message for you* (19), then, alone with him, *I have a
+message from God to you* (20). *Dābār* is both *word* and *thing*, and what he has is a sword. He
+locks the doors, and the servants, deceived by the locked room, wait *until they were ashamed* (25).
+The narrator does not judge the deception. Unlike the Gibeonites (Joshua 9) or Rahab (Joshua 2), the
+deceiver here is Israel's Yahweh-raised savior, and the text neither condemns nor approves.
+
+See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–30; Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Old clothes, patched equipment, and moldy bread support an explicitly false claim of distant origin
@@ -390,6 +402,7 @@ is not the prescribed remedy.
 See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1–7; contextual comparisons documented there.
 
 ## Key passages
+- [[Ehud and Eglon]] — Judges 3:19–25; the secret message, the message from God, the locked doors.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 
 - [[The Capture of Ai]] — Joshua 8:1–29.
