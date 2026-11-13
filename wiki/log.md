@@ -26078,3 +26078,37 @@ verified: *gōmed* as shorter than a cubit; *ʿeglôn* as a pun on *ʿēgel*; th
 as Joshua's twelve stones; the readings of *paršədōnâ* and *misdərônâ*; the three readings of
 *ʾiṭṭēr*; *śəʿîrâ* as related to *śāʿîr*; *eighty* as two generations. No raw text was added or changed,
 and no workflow instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 3.31 — Shamgar and the Ox Goad
+
+Auto mode. Judges was the only `in-progress` book; ingested its ninth box, [[Shamgar and the Ox Goad]]
+(Judges 3:31). Judges is now 9 / 42. The boundary was kept as planned. The box's provisional title
+*Shamgar* was changed to *Shamgar and the Ox Goad* so the passage page would not share a basename
+with the new person page [[Shamgar]].
+
+Created one passage; one person, [[Shamgar]]; and one connection,
+[[One Man Against the Philistines - Shamgar's Ox Goad and Samson's Jawbone]]. Revised two people
+([[Ehud]], [[The Philistines]]), one place ([[Beth Anath]]), three themes ([[Redemption]], [[War]],
+[[The Nations]]), one connection
+([[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]]), and the cross-references of
+[[Ehud and Eglon]]. Updated the book page and books index, the people (A-E, N-Z), places, and
+connections (O-S) indexes, and the dashboard counts. Frontmatter totals: 445 passages, 298 people,
+555 places, 87 themes, 849 connections.
+
+Tension recorded, not resolved: the prose says Shamgar *also saved Israel* (3:31); the Song of Deborah
+says *in the days of Shamgar … the highways were unoccupied* (5:6). Both are on the passage and person
+pages.
+
+Judgment calls: Anath gets no page, as Kenaz and Gera did not; the name occurs only as Shamgar's
+patronymic. No place page was created for the battle, because the verse names none. [[Beth Anath]]
+records the shared name element and states that the text does not link it to Shamgar. The connection
+includes 2 Samuel 23:11–12 (Shammah) as a comparison only. Theme index rows were left as they were.
+
+Sources: all Judges quotations copied from stored WEB; Joshua 19:38 from stored WEB. 2 Samuel
+23:11–12 (WEB) checked at bible-api.com; 2 Samuel was not fetched into raw. Hebrew read from the
+Westminster Leningrad Codex (OpenScriptures morphhb, GitHub `wlc/Gen.xml`, `Exod.xml`, `Lev.xml`,
+`Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml`) with its lemma data. The *occurs only
+here* claims for *malmad*, *Šamgar*, and *ʿĂnāt* are limited to those files. Reported as claims, not
+verified: *Shamgar* as Hurrian; *Anath* as a Ugaritic goddess; *malmad* from *lāmad*; Shamgar's
+inclusion in later lists of judges; readings of his place in the sequence. No raw text was added or
+changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.

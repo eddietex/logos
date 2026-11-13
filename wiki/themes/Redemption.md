@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### He also saved Israel — Judges 3:31
+
+*He also saved Israel* (31). [[Shamgar]] is given the verb, *wayyōšaʿ* (WLC), but not the title
+*môšîaʿ* that Othniel and Ehud had, and Yahweh is not named as raising him up. *Gam-hûʾ*, *he too*,
+counts him with them. The saving is a single blow against the Philistines, with an ox goad, and no
+rest follows.
+
+See [[Shamgar and the Ox Goad]]. Source: stored WEB Judges 3:31; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-13.
+
 ### A savior with a sword — Judges 3:12–30
 
 *Yahweh raised up a savior for them, Ehud* (15), *môšîaʿ* (WLC), the title Othniel had. This time
@@ -332,6 +342,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Shamgar and the Ox Goad]] — Judges 3:31; *he also saved Israel*, the verb without the title.
 - [[Ehud and Eglon]] — Judges 3:15, 28; *a savior*, and Yahweh's deliverance in Ehud's mouth.
 - [[Othniel the First Judge]] — Judges 3:9; *a savior … who saved them*.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

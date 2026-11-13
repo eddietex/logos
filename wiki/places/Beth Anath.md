@@ -17,9 +17,16 @@ One of Naphtali’s *fortified cities* (38), in Naphtali’s register, whose sta
 
 Source: stored WEB Joshua 19:24–48. No precise modern site is assigned.
 
+### The same name element — Judges 3:31
+
+*Shamgar the son of Anath* (Judges 3:31) carries the element *ʿănāt* that is in this city's name
+(Joshua 19:38; Judges 1:33; WLC). The verse does not connect Shamgar to the city. Some readers take
+*son of Anath* as naming his town; that is reported, not checked. See [[Shamgar and the Ox Goad]].
+
 ## Appears in
 - [[The Tribes That Did Not Drive Out]] — Judges 1:33; not driven out, then forced labor.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
+- [[Shamgar and the Ox Goad]] — Judges 3:31; *son of Anath*, the same name element, not linked by the text.
 
 ## Related places
 - [[Beth Shemesh (Naphtali)]] — named in the same register or as a related landmark.

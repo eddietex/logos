@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The first of the nations fought — Judges 3:31
+
+*The five lords of the Philistines* headed the list of nations left *to test Israel* (3:3). Three
+verses after Ehud's story, [[Shamgar]] *struck six hundred men of the Philistines* (31). He is the
+first in Judges to fight them; Samson is the last (13:5). The verse names no Philistine leader and
+describes no oppression.
+
+See [[Shamgar and the Ox Goad]]. Source: stored WEB Judges 3:3, 31; 13:5.
+
 ### Two lists — Judges 3:1–6
 
 Verse 3 names the nations *left*: the five lords of the Philistines, the Canaanites, the Sidonians, and
@@ -584,6 +593,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Shamgar and the Ox Goad]] — Judges 3:31; the Philistines, first of the nations left, fought for the first time.
 - [[The Nations Left to Test Israel]] — Judges 3:1–6; the nations left, and the six lived among.
 - [[Another Generation Arose]] — Judges 2:12, 14, 20–23; the nations left to test Israel.
 - [[The Angel at Bochim]] — Judges 2:2–3; the inhabitants left, and their gods a snare.

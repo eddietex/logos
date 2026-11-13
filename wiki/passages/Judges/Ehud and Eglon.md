@@ -114,6 +114,7 @@ him at all.
 ## Cross-references
 
 - [[Othniel the First Judge]] — Judges 3:7–11; the cycle with nothing added.
+- [[Shamgar and the Ox Goad]] — Judges 3:31; *after him*, the next savior.
 - [[Another Generation Arose]] — Judges 2:11–19; the cycle in general terms.
 - [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]] — *eighty years*.
 - [[Left-Handed Men of Benjamin - Judges 3.15 and 20.16]] — the phrase *ʾiṭṭēr yad-yəmînô*.

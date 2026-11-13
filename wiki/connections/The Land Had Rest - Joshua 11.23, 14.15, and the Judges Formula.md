@@ -13,6 +13,8 @@ tags: [connection]
 - [[Othniel the First Judge]] — **Judges 3:11** — *The land had rest forty years* (stored WEB)
 - [[Ehud and Eglon]] — **Judges 3:30** — after Ehud: *Then the land had rest eighty years.* (stored
   WEB)
+- [[Shamgar and the Ox Goad]] — **Judges 3:31** — no rest notice; *He also saved Israel.* (stored
+  WEB)
 - **Judges 5:31** — after Deborah: *Then the land had rest forty years.* (stored WEB) *(not yet
   ingested)*
 - **Judges 8:28** — after Gideon: *The land had rest forty years in the days of Gideon.* (stored WEB)
@@ -44,6 +46,9 @@ follows is the judge's.
 - **Joshua's rest, rationed.** In Joshua the land rested once, and the sentence comes twice, after the
   whole conquest (11:23) and after Caleb's grant (14:15). In Judges the same land rests again and
   again, for a set time, and each rest ends.
+- **Shamgar has none.** The first savior without a rest notice is [[Shamgar]] (3:31), whose one verse
+  has no sin, oppression, cry, or rest, and whose successor's relapse is dated from Ehud's death (4:1).
+  The cycle's formula is missing from his verse altogether, not just its last line.
 - **It stops after Gideon.** Jephthah and Samson have no rest notice. Gideon's is the last time the
   land is the subject of *šāqaṭ*. The book's own structure marks the cycle as breaking down. That this
   is deliberate is a reading, not a statement in the text.

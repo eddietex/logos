@@ -22,6 +22,11 @@ left *to test Israel* with *the five lords of the Philistines*. Both statements 
 wiki does not decide how far Judah's taking reached. The tension is recorded on
 [[The Nations Left to Test Israel]].
 
+The first Israelite in Judges to fight them is [[Shamgar]]: *After him was Shamgar the son of Anath,
+who struck six hundred men of the Philistines with an ox goad. He also saved Israel* (3:31). No
+oppression by them is described there, and no Philistine leader is named. See
+[[Shamgar and the Ox Goad]].
+
 The Philistines are the enemy of Samson's story (Judges 13–16, not yet ingested), where *the lords of
 the Philistines* come to Delilah (16:5).
 
@@ -29,7 +34,7 @@ This page covers the people. The region is [[The Land of the Philistines]]; the 
 [[Abimelech (of Abraham's time)]] and [[Abimelech (of Isaac's time)]].
 
 Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 13:2–3; Judges 1:18;
-3:3; 16:5.
+3:3, 31; 13:5; 16:5.
 
 ## Timeline / key events
 
@@ -39,6 +44,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Their way avoided at the Exodus — [[The Crossing of the Sea]].
 - Their five lords head the land still remaining — [[The Land That Remains]].
 - Their five lords head the nations left to test Israel — [[The Nations Left to Test Israel]].
+- Six hundred struck by Shamgar with an ox goad — [[Shamgar and the Ox Goad]].
 
 ## Appears in
 
@@ -50,9 +56,11 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Land That Remains]] — Joshua 13:2–3.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; three of their cities taken.
 - [[The Nations Left to Test Israel]] — Judges 3:3.
+- [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred struck with an ox goad.
 
 ## Related people
 
+- [[Shamgar]] — the first in Judges to fight them (3:31).
 - [[The Avvim]] — named beside the five lords in Joshua 13:3.
 - [[The Caphtorim]] — named after the Casluhim in Genesis 10:14.
 - [[The Canaanites]] — Joshua 13:3 counts Philistine land *as Canaanite*.
@@ -64,3 +72,5 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Nations]]
 - [[War]]
 - [[Testing]]
+
+See also [[One Man Against the Philistines - Shamgar's Ox Goad and Samson's Jawbone]].

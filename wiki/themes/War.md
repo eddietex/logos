@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Six hundred with an ox goad — Judges 3:31
+
+[[Shamgar]] *struck six hundred men of the Philistines with an ox goad* (31). No army is mustered and
+no weapon of war is named; the tool is for driving cattle. Judges 3:2 had said the nations were left
+*to teach them war*. See
+[[One Man Against the Philistines - Shamgar's Ox Goad and Samson's Jawbone]].
+
+See [[Shamgar and the Ox Goad]]. Source: stored WEB Judges 3:2, 31; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-13.
+
 ### The trumpet and the fords — Judges 3:27–29
 
 Ehud *blew a trumpet in the hill country of Ephraim*, and Israel came down. The war is won by
@@ -759,6 +769,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred Philistines struck with an ox goad.
 - [[Ehud and Eglon]] — Judges 3:27–29; the trumpet, the fords, *no man escaped*.
 - [[Othniel the First Judge]] — Judges 3:10; *he went out to war*, and Yahweh delivered the king into his hand.
 - [[The Nations Left to Test Israel]] — Judges 3:1–2; *to teach them war*.

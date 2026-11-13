@@ -89,6 +89,14 @@ hidden sword. The servants, finding the doors locked, assume the king is *coveri
 and the land rests eighty years. No Spirit comes on him, he is never said to judge, and the narrator
 neither praises nor blames the deception.
 
+[[Shamgar and the Ox Goad]] (3:31) is a single verse: *After him was Shamgar the son of Anath, who
+struck six hundred men of the Philistines with an ox goad. He also saved Israel.* Almost none of the
+cycle is there. No sin, oppressor, cry, Spirit, judging, or rest is mentioned, and Yahweh is not
+named. Only the verb *saved* remains, and *also* counts him with Othniel and Ehud. He is the first in
+the book to fight the Philistines, the enemy Samson will only *begin* to save Israel from (13:5). The
+next verse dates the relapse from *when Ehud was dead* (4:1). The Song of Deborah remembers *the days
+of Shamgar* as a time of empty roads (5:6).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -119,7 +127,7 @@ merge, or reorder them freely.
 - [x] [[The Nations Left to Test Israel]] — Judges 3:1–6
 - [x] [[Othniel the First Judge]] — Judges 3:7–11
 - [x] [[Ehud and Eglon]] — Judges 3:12–30
-- [ ] Shamgar — Judges 3:31
+- [x] [[Shamgar and the Ox Goad]] — Judges 3:31
 - [ ] Deborah and Barak — Judges 4:1–16
 - [ ] Jael and Sisera — Judges 4:17–24
 - [ ] The Song of Deborah — Judges 5:1–31

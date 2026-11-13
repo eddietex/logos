@@ -41,7 +41,7 @@ name a clan rather than a father. Gera has no page.
 
 **After him.** *The children of Israel again did that which was evil in Yahweh's sight, when Ehud was
 dead* (4:1, stored WEB). Shamgar is placed *after him* (3:31), though 4:1 dates the next relapse from
-Ehud's death, not Shamgar's.
+Ehud's death, not [[Shamgar]]'s. See [[Shamgar and the Ox Goad]].
 
 See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–31; 4:1; Hebrew WLC (OpenScriptures morphhb),
 2026-11-13.
@@ -59,12 +59,14 @@ See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–31; 4:1; Hebrew WLC (Op
 
 ## Appears in
 - [[Ehud and Eglon]] — Judges 3:12–30
+- [[Shamgar and the Ox Goad]] — Judges 3:31; *after him*.
 
 ## Related people
 - [[Eglon (person)]] — the king he kills.
 - [[God]] — who raises him up, and whom he names as giving Moab into Israel's hand.
 - [[Benjamin]] — his tribe.
 - [[Othniel]] — the judge before him.
+- [[Shamgar]] — *after him* (3:31).
 
 ## Themes associated
 - [[Redemption]]
