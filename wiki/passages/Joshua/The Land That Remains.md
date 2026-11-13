@@ -80,6 +80,8 @@ does not cancel his responsibility.
 - [[Hazor Burned and the Northern Land Still Remaining]]
 - [[The Southern Conquest and the Land Still Remaining]]
 - [[Little by Little - The Hornet, the Snare, and the Land Not Taken]]
+- [[The Nations Left to Test Israel]] — Judges 3:1–3; the five lords of the Philistines, the Sidonians, Lebanon, and the entrance of Hamath, now *left to test Israel*.
+- [[The Land That Remains and the Nations Left - Joshua 13.2-6 and Judges 3.1-3]] — the two lists compared.
 
 ## Notes
 

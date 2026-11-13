@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Lived among — Judges 3:1–6
+
+Fourth of the six peoples Israel *lived among* (5). Israel marries their daughters and serves their gods
+(6). At Bezek they were defeated beside the Canaanites (1:4); here they are neighbors and in-laws.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 ### Judah goes up first — Judges 1:1–7
 
 Yahweh delivers *the Canaanites and the Perizzites* into Judah's hand at Bezek, ten thousand men
@@ -31,9 +38,11 @@ Source: stored WEB Joshua 17:14–18.
 
 - Joshua directs forest clearance in their land — [[The Children of Joseph Ask for More]].
 - Defeated with the Canaanites at Bezek by Judah and Simeon — [[Judah Goes Up First]].
+- Among the peoples Israel lives among and marries — [[The Nations Left to Test Israel]]
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; among the six peoples Israel lived among and married.
 - [[Judah Goes Up First]] — Judges 1:4–5; defeated with the Canaanites at Bezek.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; listed with the men of Jericho (11).
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.

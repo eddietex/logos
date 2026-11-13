@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### He leaves the nations, and tests — Judges 3:1–6
+
+*These are the nations which Yahweh left, to test Israel by them* (1). The verb is *hinnîaḥ*, hiphil of
+*nûaḥ*, the same verb as 2:23, *Yahweh left those nations* (WLC). He gives two purposes: *to teach
+them war* (2), and *to know whether they would listen to Yahweh's commandments, which he commanded
+their fathers by Moses* (4). As in the wilderness (Deuteronomy 8:2), he tests *to know*. The pericope
+reports no word of his to Israel; verses 5–6 report only what Israel did.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6; Deuteronomy 8:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The God of the cycle — Judges 2:6–23
 
 Nearly every verb in the summary of the judges period is his. His anger burns; he *sold them into
@@ -4053,9 +4063,11 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
   passes sentence. [[The People Refuse the Land]]
 - Numbers 14:42–45 — Declared not among the people who go up; he does not speak in these verses. [[The Defeat at Hormah]]
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
+- Leaves the nations to test Israel and teach it war — [[The Nations Left to Test Israel]]
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:1–6; he leaves the nations *to test Israel by them*, and *to teach them war*.
 - [[Another Generation Arose]] — Judges 2:6–23; he sells Israel to its enemies, raises up judges, is grieved at their groaning, and leaves the nations to test them.
 - [[The Angel at Bochim]] — Judges 2:1–5; through his angel: *I will never break my covenant with you … I will not drive them out*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22; *Yahweh was with them*.

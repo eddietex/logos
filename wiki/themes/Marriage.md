@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Daughters taken and given — Judges 3:1–6
+
+*They took their daughters to be their wives, and gave their own daughters to their sons and served
+their gods* (6). Deuteronomy 7:3 had forbidden both directions with the same two verbs, *give* and
+*take*, and 7:4 gave the reason, *that they may serve other gods* (WLC). Judges 3:6 reports both
+clauses broken and the reason fulfilled. Hamor the Hivite had offered exactly this in Genesis 34:9;
+the Hivites are among the six peoples of Judges 3:5. See
+[[Not from the Daughters of the Canaanites]].
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:5–6; Deuteronomy 7:3–4; Genesis 34:9; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### A bride for a city, retold — Judges 1:12–15
 
 Caleb's offer of his daughter to the man who takes Kiriath Sepher is repeated from Joshua 15:16–19.
@@ -497,6 +508,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 
 ## Key passages
 
+- [[The Nations Left to Test Israel]] — Judges 3:6; marriage both ways with the land's peoples.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; intermarriage with the remaining nations warned against (12).
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

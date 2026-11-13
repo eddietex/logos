@@ -25952,3 +25952,43 @@ verified: the gloss *sun* for *ḥeres*; *the Baals* as local forms of one god; 
 Astarte; Joshua's name from *yāšaʿ*; other versions' rendering of *nāḥam* at 2:18; and the Egyptian
 ideal lifespan of 110 years. No raw text was added or changed, and no workflow instruction was
 changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 3.1-6 — The Nations Left to Test Israel
+
+Auto mode. Judges was the only `in-progress` book; ingested its sixth box,
+[[The Nations Left to Test Israel]] (Judges 3:1–6). Judges is now 6 / 42. The boundary was kept as
+planned; it closes the book's double introduction.
+
+Created one passage; four people, [[The Philistines]], [[The Hivites]], [[The Hittites]], and
+[[The Sidonians]]; and one connection,
+[[The Land That Remains and the Nations Left - Joshua 13.2-6 and Judges 3.1-3]]. Revised six people
+([[God]], [[Moses]], [[The Canaanites]], [[The Amorites]], [[The Perizzites]], [[The Jebusites]]), six
+places ([[Hermon]], [[Lebanon]], [[Hamath]], [[Canaan]], [[Sidon (city)]],
+[[The Land of the Philistines]]), six themes ([[Testing]], [[War]], [[Marriage]], [[Idolatry]],
+[[The Nations]], [[Law and Obedience]]), two connections
+([[Little by Little - The Hornet, the Snare, and the Land Not Taken]],
+[[Not from the Daughters of the Canaanites]]), and the cross-references of ten passages
+([[The Land That Remains]], [[A People Chosen in Love]], [[Joshua's Farewell to the Leaders]],
+[[Another Generation Arose]], [[The Burning Bush]], [[Dinah and the Massacre at Shechem]],
+[[The Covenant Renewed]], [[Remember the Wilderness and the Giver of Wealth]],
+[[The Tribes That Did Not Drive Out]], [[The Angel at Bochim]]). Updated the book page and books
+index, the people, places, themes, and connections indexes, and the dashboard counts. Frontmatter
+totals: 442 passages, 293 people, 554 places, 87 themes, 844 connections.
+
+Judgment calls: the Philistines, Hivites, Hittites, and Sidonians had no collective pages despite
+many mentions, and get them now as `type: person` collectives like [[The Canaanites]]. Their
+"Appears in" lists are selected key passages checked against stored WEB, not every mention. *Mount Baal
+Hermon* is filed as a name on [[Hermon]], and [[Baal Gad]] (Joshua 13:5) is kept separate, because the
+lemma data gives the names separate entries and the text does not equate them. *To teach them war*
+(3:2) is recorded as a further purpose beside the test, not merged with it. Judges 1:18 (Judah took
+Gaza, Ashkelon, Ekron) and 3:3 (the five lords still left) are recorded side by side as an unresolved
+tension. The match between Hamor's offer (Genesis 34:9) and Judges 3:6 is noted on the passage page
+and the marriage connection. The *(of Abraham's time)*/*(of Isaac's time)* Abimelech pages are linked
+from [[The Philistines]].
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Deuteronomy, Joshua, and later Judges chapters as listed on the passage page. Hebrew of Judges 1:32;
+2:21–23; 3:1–6; Deuteronomy 7:1, 3–4; 8:2; Joshua 13:3, 5–6; 23:12; Exodus 3:8; and 34:16 read from
+the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub), with its lemma and morphology data.
+Reported as a claim, not verified: that *seren* is used only of Philistine rulers. No raw text was
+added or changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.

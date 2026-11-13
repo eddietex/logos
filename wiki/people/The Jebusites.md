@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Lived among — Judges 3:1–6
+
+Last of the six peoples Israel *lived among* (5). Judges 1:21 had already said they *dwell with the
+children of Benjamin in Jerusalem to this day*. Israel marries their daughters and serves their gods
+(6).
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 A people of the land, named on most of the Pentateuch's lists of nations to be driven out, and the
 inhabitants of Jerusalem. No individual Jebusite is named in the texts the wiki has ingested so far.
 The page was created at Judges 1:21, after the name had appeared on many passage pages without a page
@@ -46,9 +54,11 @@ See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Genesis 10:15
 - Their king, the king of Jerusalem, struck — [[The Kings Struck Down]]
 - Not driven out by Judah — [[The Cities of Judah]]
 - Not driven out by Benjamin — [[Judah's Conquests and Achsah's Springs]]
+- Among the peoples Israel lives among and marries — [[The Nations Left to Test Israel]]
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; among the six peoples Israel lived among and married.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:21; they remain in Jerusalem with Benjamin.
 - [[The Inheritance of Benjamin]] — Joshua 18:16, 28; *the Jebusite (also called Jerusalem)*.
 - [[The Cities of Judah]] — Joshua 15:63; Judah could not drive them out.

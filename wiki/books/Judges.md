@@ -61,6 +61,15 @@ than their fathers*. Their sin is described in the words of the golden calf, *th
 away from the way*. Yahweh's last word on it is the same sentence as Bochim's, *I also will no longer
 drive out*, with a new purpose added: the nations stay *that by them I may test Israel*.
 
+[[The Nations Left to Test Israel]] (3:1–6) closes the introduction. It names the nations left: *the
+five lords of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived on Mount
+Lebanon*, the same open edges as Joshua 13:2–6. It gives the test again, *to know whether they would
+listen to Yahweh's commandments*, and a new purpose, *to teach them war* to a generation that *had not
+known all the wars of Canaan*. Then it reports the answer before any judge appears. Israel *lived
+among* six peoples, the list of Exodus 3:8 in the same order. *They took their daughters to be their
+wives, and gave their own daughters to their sons and served their gods* (3:6). The verbs are those of
+Deuteronomy 7:3–4, which forbade exactly this.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -88,7 +97,7 @@ merge, or reorder them freely.
 - [x] [[The Tribes That Did Not Drive Out]] — Judges 1:22–36
 - [x] [[The Angel at Bochim]] — Judges 2:1–5
 - [x] [[Another Generation Arose]] — Judges 2:6–23
-- [ ] The Nations Left to Test Israel — Judges 3:1–6
+- [x] [[The Nations Left to Test Israel]] — Judges 3:1–6
 - [ ] Othniel — Judges 3:7–11
 - [ ] Ehud and Eglon — Judges 3:12–30
 - [ ] Shamgar — Judges 3:31
@@ -133,7 +142,9 @@ merge, or reorder them freely.
 - [[Land and Sojourning]] — the land allotted in Joshua, still to be taken in Judges.
 - [[Brotherhood]] — Judah and Simeon fight together (1:3); Judah leads against Benjamin (20:18).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
-- [[The Nations]] — the Canaanites and Amorites who stay (1:27–36).
+- [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
+- [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4).
+- [[Marriage]] — daughters taken and given with the land's peoples (3:6).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -143,9 +154,12 @@ merge, or reorder them freely.
 - [[Joseph]] — *the house of Joseph* takes Bethel (1:22–25).
 - [[The Canaanites]] — not driven out (1:27–33).
 - [[The Amorites]] — press Dan from the valley (1:34–36).
+- [[The Philistines]] — their five lords head the nations left (3:3); Samson's enemies.
+- [[The Hivites]] — on Mount Lebanon (3:3), and among the six Israel lives among (3:5).
 
 ## Key places
 - [[Bezek]] — the first battle.
 - [[Jerusalem]] — where Adoni-Bezek is brought to die.
 - [[Canaan]] — the land still being taken.
 - [[Bethel]] — taken by the house of Joseph; once Luz (1:22–26).
+- [[Lebanon]], [[Hermon]], [[Hamath]] — the northern edge of the nations left (3:3).

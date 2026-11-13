@@ -84,6 +84,7 @@ sending the people away (2:6).
   2:20–21, and 6:8–10.
 - [[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]] — Genesis 35:8, Judges 2:4–5, 20:26,
   and 21:2.
+- [[The Nations Left to Test Israel]] — Judges 3:6; *served their gods*, the snare of 2:3.
 
 ## Notes
 

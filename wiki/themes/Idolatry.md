@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### And served their gods — Judges 3:1–6
+
+The last words of the introduction to Judges: *and served their gods* (6). The gods are not named; 2:11–13
+named the Baals and the Ashtaroth, and 3:7 names *the Baals and the Asheroth*. The service follows the
+marriages in one sentence, as Exodus 34:16 and Deuteronomy 7:4 had warned it would.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 ### The Baals and the Ashtaroth — Judges 2:6–23
 
 The cycle of Judges begins here: Israel *served the Baals* (11), *followed other gods, of the gods of
@@ -481,6 +489,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Nations Left to Test Israel]] — Judges 3:6; marriage, then *served their gods*.
 - [[Another Generation Arose]] — Judges 2:11–13, 17, 19; the Baals and the Ashtaroth.
 - [[The Angel at Bochim]] — Judges 2:2–3; their altars not broken down; *their gods will be a snare to you*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the fathers' gods, Egypt's gods, the Amorites' gods; *put away the foreign gods*.

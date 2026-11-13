@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The entrance of Hamath — Judges 3:1–6
+
+The Hivites' range runs *from Mount Baal Hermon to the entrance of Hamath* (3). The phrase *ləbôʾ
+ḥămāt* is the same as in Joshua 13:5 (WLC); the morphology data tags *ləbôʾ* as part of a proper name,
+which is why some translations write *Lebo-hamath*. The northern border is still a border, not a
+possession.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:3; Joshua 13:5; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 **Not Hammath.** Naphtali’s fortified city Hammath (19:35) is a different place; see [[Hammath]].
 
 ### The land that remains — Joshua 13:1–7
@@ -38,6 +47,7 @@ Later texts (WEB and tags; *not yet ingested*): David's dealings with Toi king o
 Kings 18:34; Isaiah 10:9), and Ezekiel's northern border (Ezekiel 47:16–20).
 
 ## Appears in
+- [[The Nations Left to Test Israel]] — Judges 3:3; the northern limit of the Hivites.
 - [[The Land That Remains]] — Joshua 13:1–7.
 
 - [[The Borders of the Land]] — Numbers 34:1–29.

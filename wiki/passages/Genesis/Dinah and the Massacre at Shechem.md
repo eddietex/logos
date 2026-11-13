@@ -416,6 +416,7 @@ chapters**, until 49:5–7. See [[Vengeance]] and [[Retribution]].
 - Judges 19–20 — the other *nĕbālâ* atrocity, and the only other case in the Hebrew Bible where the
   answer to it is the destruction of a town.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21, 28–29; *"folly in Israel"* (34:7) used of the bride, and the law's remedy of payment and marriage that Shechem offered (34:12).
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; Hamor's *Give your daughters to us, and take our daughters* (34:9), done in Judges among the Hivites and others.
 
 ## Notes
 

@@ -2001,9 +2001,11 @@ land. No reply from him is reported, and he himself will not be told until 20:12
 out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
 - Judges 1:16, 20 — Remembered: his brother-in-law's family settles; his word to Caleb is kept — [[Judah's Conquests and Achsah's Springs]]
+- Judges 3:4 — Remembered: the commandments given *by Moses* are the measure of the test — [[The Nations Left to Test Israel]]
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:4; the commandments Yahweh *commanded their fathers by Moses*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16, 20; his *ḥōtēn* and his word about Hebron.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; sent to Egypt (5).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the book of the law of Moses* (6).

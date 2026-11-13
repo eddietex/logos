@@ -126,6 +126,7 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
   name *Jealous*, and Joshua 24:19's *He will not forgive* set against verse 7's *forgiving
   iniquity*.
 - [[The Angel at Bochim]] — Judges 2:2; no covenant with the inhabitants, and break their altars, quoted back.
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; the six peoples of 34:11, and the daughters of 34:16.
 
 ## Notes
 

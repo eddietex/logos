@@ -6,6 +6,8 @@ tags: [connection]
 # Little by Little - The Hornet, the Snare, and the Land Not Taken
 
 ## Passages involved
+- [[The Nations Left to Test Israel]] — Judges 3:1–6; the test restated, and *to teach them war*.
+
 - [[The Land That Remains]] — Joshua 13:1–7.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.
@@ -158,6 +160,20 @@ wiki does not merge them.
 
 Source: stored WEB Judges 2:20–23; Deuteronomy 7:22. Hebrew of Judges 2:21–23 and Deuteronomy 7:22
 from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-13.
+
+### To teach them war — Judges 3:1–6
+
+Now ingested. [[The Nations Left to Test Israel]] restates the test of 2:22 (3:1, 4) and adds a purpose
+the wiki has not met before: *that the generations of the children of Israel might know, to teach them
+war, at least those who knew nothing of it before* (3:2). *Ləlammədām milḥāmâ* (WLC). The earlier
+reasons concern the land (kept from desolation), Israel's sin (a punishment), or Israel's obedience (a
+test). This one concerns Israel's skill in war. Verse 2 opens with *raq*, *only*, as if this were the
+whole reason, while verse 4 gives the test again. The text sets them side by side and does not rank
+them; the wiki does not merge them either. The verb *left* in 3:1 is *hinnîaḥ*, the verb of 2:23
+(*wayyannaḥ*, Yahweh left), not the *ʿāzab* of 2:21 (Joshua left), so the leaving is again Yahweh's.
+
+Source: stored WEB Judges 2:21–23; 3:1–4. Hebrew of Judges 2:21–23 and 3:1–4 from the Westminster
+Leningrad Codex (OpenScriptures morphhb), 2026-11-13.
 
 ## Significance
 

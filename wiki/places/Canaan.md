@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### All the wars of Canaan — Judges 3:1–6
+
+The nations are left to test those *who had not known all the wars of Canaan* (1). The land's wars are
+now history to a new generation, and Yahweh means them to learn war (2). Israel *lived among* the
+land's six peoples (5).
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 ### The inhabitants who stayed — Judges 1:22–36
 
 Judges 1:27–33 lists the cities of the land whose Canaanite inhabitants Manasseh, Ephraim, Zebulun, Asher, and Naphtali did not drive out. In Asher and Naphtali, Israel *lived among the Canaanites, the inhabitants of the land* (32–33). See [[The Canaanites]].
@@ -549,6 +557,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:1; *all the wars of Canaan*.
 - [[The Angel at Bochim]] — Judges 2:1–3; *the land which I swore to give your fathers*, and its inhabitants left in it.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the land's inhabitants not driven out.
 - [[Judah Goes Up First]] — Judges 1:1–4; the Canaanites still to be fought after Joshua's death.

@@ -107,6 +107,7 @@ and upward* (36).
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; the cities of Asher, Naphtali, and Dan.
 - [[Jacob's Ladder at Bethel]] — Genesis 28:19; *the name of the city was Luz at the first*.
 - [[Drive Out the Inhabitants]] — Numbers 33:55; *thorns in your sides*.
+- [[The Nations Left to Test Israel]] — Judges 3:5; *lived among the Canaanites*, said of Asher in 1:32, now said of all Israel.
 
 ## Notes
 

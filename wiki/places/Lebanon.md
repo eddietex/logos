@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Mount Lebanon — Judges 3:1–6
+
+*The Hivites who lived on Mount Lebanon* (3) are among the nations Yahweh left *to test Israel*. Joshua
+13:5–6 had put *all Lebanon* and *the hill country from Lebanon* in the land that still remains.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 ### The land that remains — Joshua 13:1–7
 
 All Lebanon toward the sunrise and the hill country from Lebanon to Misrephoth Maim enter the description of land remaining (5–6). The description extends beyond the conquest summary rather than erasing it.
@@ -97,6 +104,7 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 **Joshua 12:1–24 — the list of kings.** *The valley of Lebanon* locates Baal Gad, the western list's northern limit (12:7). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Nations Left to Test Israel]] — Judges 3:3; *Mount Lebanon*, home of the Hivites.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[The Gibeonite Deception]] — Joshua 9:1–27

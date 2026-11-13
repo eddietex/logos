@@ -115,6 +115,7 @@ Complete unit, copied from stored WEB:
 - [[Bread from Heaven - The Manna and John 6]]
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25 anticipates this warning.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the king must not multiply silver and gold, *"that his heart not be lifted up"* (17:17, 20), the warning of 8:13–14 applied to the throne.
+- [[The Nations Left to Test Israel]] — Judges 3:4; testing *to know*, now by the nations.
 
 ## Notes
 

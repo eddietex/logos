@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### Lived among — Judges 3:1–6
+
+Third of the six peoples Israel *lived among* (5). Israel marries their daughters and serves their gods
+(6). The list is in the order of Exodus 3:8, 17.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 A people of the land, named on most of the Pentateuch's lists of nations to be driven out, and
 sometimes used for the land's inhabitants generally. The page was created at Judges 1:22–36, where the
 Amorites are the last actors in the chapter. No individual Amorite is named in that pericope.
@@ -50,9 +57,11 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:16; 15:
 - Five Amorite kings defeated at Gibeon — [[The Sun Stands Still at Gibeon]]
 - Their gods set before Israel as a choice — [[The Covenant at Shechem]]
 - Press Dan into the hill country, then put to forced labor — [[The Tribes That Did Not Drive Out]]
+- Among the peoples Israel lives among and marries — [[The Nations Left to Test Israel]]
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; among the six peoples Israel lived among and married.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:34–36; press Dan, hold three cities, and mark a
   border.
 - [[The Covenant at Shechem]] — Joshua 24:15; *the gods of the Amorites*.

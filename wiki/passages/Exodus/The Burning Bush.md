@@ -674,6 +674,7 @@ Exodus that clause is his name.** See [[Call and Election]].
 - John 8:58; Revelation 1:8 — *I AM*; *"who is and who was and who is to come"* —
   [[I AM WHO I AM - Exodus 3.14 and John 8.58]]
 - Acts 7:22, 30–35 — Stephen's retelling
+- [[The Nations Left to Test Israel]] — Judges 3:5; the six peoples of 3:8, 17 in the same order, now the peoples Israel lives among.
 
 ## Notes
 

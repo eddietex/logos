@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two lists — Judges 3:1–6
+
+Verse 3 names the nations *left*: the five lords of the Philistines, the Canaanites, the Sidonians, and
+the Hivites of Mount Lebanon, on the coast and in the north, the land Joshua 13:2–6 called still
+remaining. Verse 5 names the six Israel *lived among*: the Canaanites, Hittites, Amorites, Perizzites,
+Hivites, and Jebusites, in the order of Exodus 3:8 and 3:17. At the burning bush the six were the
+peoples whose land Israel would receive; here they are Israel's neighbors and in-laws (6).
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 ### The nations Joshua left — Judges 2:6–23
 
 Israel follows *the gods of the peoples who were around them* (12) and is sold *into the hands of
@@ -574,6 +584,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Nations Left to Test Israel]] — Judges 3:1–6; the nations left, and the six lived among.
 - [[Another Generation Arose]] — Judges 2:12, 14, 20–23; the nations left to test Israel.
 - [[The Angel at Bochim]] — Judges 2:2–3; the inhabitants left, and their gods a snare.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites and Amorites remain; the man of Luz goes.

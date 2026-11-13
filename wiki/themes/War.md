@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### To teach them war — Judges 3:1–6
+
+*That the generations of the children of Israel might know, to teach them war, at least those who knew
+nothing of it before* (2). *Ləlammədām milḥāmâ*, piel of *lāmad* (WLC). The generation that *had not
+known all the wars of Canaan* (1) is to learn war from the nations Joshua did not finish. Other reasons
+for the nations who stayed concern the land or Israel's sin; this one concerns Israel's skill. The text
+does not say whether it is a separate reason or part of the test, and the wiki does not decide.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–4; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### One city taken, the rest left — Judges 1:22–36
 
 The house of Joseph takes Bethel by stealth, with a guide from inside (22–25). Then the chapter stops narrating war and lists its absence: six tribes' cities not driven out, and Dan pressed back by the Amorites (27–34). The only later military success, *the hand of the house of Joseph prevailed* (35), ends in forced labor, not removal.
@@ -729,6 +739,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Nations Left to Test Israel]] — Judges 3:1–2; *to teach them war*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Bethel taken, and the cities not driven out.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the hornet, *not with your sword, nor with your bow* (12).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; Yahweh the one who fights; one chasing a thousand.

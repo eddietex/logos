@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Nations Left to Test Israel]] — Judges 3:5–6 (now ingested).
+
 - [[A People Chosen in Love]] — Deuteronomy 7:1–11 (now ingested).
 
 - **Genesis 24:3–4** — Abraham's oath: *"you shall not take a wife for my son of the daughters of the
@@ -42,6 +44,28 @@ tags: [connection]
   that Genesis states the pedigrees and passes no verdict
 
 ## Analysis
+
+### Judges 3:5–6 now ingested
+
+[[The Nations Left to Test Israel]] reports the prohibition broken, in its own words. Deuteronomy 7:3
+reads *bittəkā lōʾ-tittēn libnô ûbittô lōʾ-tiqqaḥ libnekā*, *You shall not give your daughter to his
+son, nor shall you take his daughter for your son*. Judges 3:6 reads *wayyiqḥû ʾet-bənôtêhem lāhem
+lənāšîm wəʾet-bənôtêhem nātənû libnêhem*, *They took their daughters to be their wives, and gave their
+own daughters to their sons* (both WLC). The same two verbs, *nātan* and *lāqaḥ*, and the same two
+nouns, in the reverse order. Deuteronomy 7:4 gave the reason, *that they may serve other gods*
+(*wəʿābədû ʾĕlōhîm ʾăḥērîm*); Judges 3:6 ends *and served their gods* (*wayyaʿabdû ʾet-ʾĕlōhêhem*). The
+law's warning and the book's report use the same verb, *ʿābad*.
+
+The two clauses had appeared together once before, as an offer: Hamor the Hivite's *Give your daughters
+to us, and take our daughters for yourselves* (Genesis 34:9, stored WEB). The Hivites are among the six
+peoples of Judges 3:5. What Jacob's sons refused at Shechem with a massacre, Israel does in Judges 3:6
+without comment. Neither Joshua 23:12's *make marriages* (*hitḥattēn*, the verb of Deuteronomy 7:3)
+nor any word of judgment appears in Judges 3:6. The verse states the fact; the next verse begins the
+first cycle of oppression.
+
+Source: stored WEB Judges 3:5–6; Deuteronomy 7:3–4; Genesis 34:9; Joshua 23:12. Hebrew of Judges 3:6,
+Deuteronomy 7:3–4, and Joshua 23:12 from the Westminster Leningrad Codex (OpenScriptures morphhb),
+2026-11-13.
 
 ### Deuteronomy 7:1–11 now ingested
 

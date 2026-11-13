@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Whether they would listen — Judges 3:1–6
+
+The test measures one thing: *whether they would listen to Yahweh's commandments, which he commanded
+their fathers by Moses* (4). The commandment at stake is named two verses later by being broken:
+Deuteronomy 7:3's *You shall not give your daughter to his son, nor shall you take his daughter for your
+son*. Judges 3:6 uses the same verbs.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:1–6.
+
 ### "They didn't do so" — Judges 2:6–23
 
 *They didn't listen to their judges … They quickly turned away from the way in which their fathers
@@ -1560,6 +1569,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Nations Left to Test Israel]] — Judges 3:4–6; the commandments by Moses, and the marriages.
 - [[Another Generation Arose]] — Judges 2:17, 19–20; *they didn't listen to their judges*.
 - [[The Angel at Bochim]] — Judges 2:2; *you have not listened to my voice*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the command to drive out, unfulfilled.

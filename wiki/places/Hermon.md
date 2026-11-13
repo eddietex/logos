@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### Mount Baal Hermon — Judges 3:1–6
+
+*The Hivites who lived on Mount Lebanon, from Mount Baal Hermon to the entrance of Hamath* (3). Joshua
+13:5 gave the same reach *from Baal Gad under Mount Hermon*. The Hebrew here is *har baʿal ḥermôn*, and
+the OpenScriptures lemma data gives *Baal Hermon* its own entry (`1179`), apart from *Hermon* (`2768`)
+and from [[Baal Gad]] (`1171`). The wiki files *Mount Baal Hermon* as a name of this mountain, or a
+place on it, and keeps Baal Gad separate; the text does not say whether the two names mark the same
+spot.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 3:3; Joshua 13:5; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Eastern allotments — Joshua 13:8–33
 
 All Mount Hermon appears in the general description of the eastern inheritance (11).
@@ -75,6 +86,7 @@ identification and is not argued from the verses here.
 **Joshua 12:1–24 — the list of kings.** Mount Hermon is the northern limit of the east-bank conquest (12:1) and part of Og's rule (5); Baal Gad, the western list's northern limit, lies in the valley of Lebanon below it (7; compare 11:17). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Nations Left to Test Israel]] — Judges 3:3; *Mount Baal Hermon*.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Left, and lived among — Judges 3:1–6
+
+*All the Canaanites* are among the nations Yahweh left *to test Israel* (3), and the Canaanites head the
+six peoples Israel *lived among* (5). The phrase *bəqereb hakkənaʿănî*, *among the Canaanites*, was said
+of Asher alone in 1:32; here it is said of *the children of Israel* (WLC). Israel takes their daughters
+as wives, gives its daughters to their sons, and serves their gods (6), the result Deuteronomy 7:3–4
+warned of.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 1:32; 3:1–6; Deuteronomy 7:3–4; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Left to test Israel — Judges 2:6–23
 
 They are among *the nations that Joshua left when he died* (21), not named individually here. Yahweh
@@ -76,9 +86,11 @@ See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
 - Remain in Gezer under forced labor — [[The Inheritance of Ephraim]]
 - Remain in Manasseh's cities — [[The Inheritance of Manasseh]]
 - Not driven out by five tribes — [[The Tribes That Did Not Drive Out]]
+- Left to test Israel; Israel lives among them and marries them — [[The Nations Left to Test Israel]]
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:3, 5–6; left to test Israel, lived among, and married.
 - [[Another Generation Arose]] — Judges 2:12, 21–23; among the nations left to test Israel.
 - [[The Angel at Bochim]] — Judges 2:2–3; *the inhabitants of this land*, now not to be driven out.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; not driven out, and put to forced labor.

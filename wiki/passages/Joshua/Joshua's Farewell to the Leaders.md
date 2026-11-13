@@ -110,6 +110,7 @@ as surely bring *all the evil things* if Israel breaks the covenant and serves o
 - [[A Blessing and a Curse Set Before You - Deuteronomy 11.26-28 and 30.15-20]] — the good and
   the evil set before Israel, here spoken as two certainties.
 - [[The Angel at Bochim]] — Judges 2:3; *I will not drive them out*, as 23:13 warned.
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; the marriages 23:12 warned of.
 
 ## Notes
 

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The five lords — Judges 3:1–6
+
+*The five lords of the Philistines* head the nations left *to test Israel* (3), word for word the
+phrase of Joshua 13:3 (WLC). Judges 1:18 had said Judah took Gaza, Ashkelon, and Ekron. The two
+statements stand side by side. See [[The Philistines]].
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 1:18; 3:3; Joshua 13:3; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### Three cities taken — Judges 1:18
 
 Judah *took Gaza … Ashkelon … and Ekron*, each *with its border* (18): three of the five cities of
@@ -69,6 +77,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
 
 ## Appears in
 
+- [[The Nations Left to Test Israel]] — Judges 3:3; the five lords of the Philistines.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; Gaza, Ashkelon, and Ekron taken by Judah.
 - [[The Treaty at Beersheba]] — Genesis 21:32, 34; where Abimelech and Phicol go home to, and where
   Abraham then sojourns *many days*

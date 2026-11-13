@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### To know whether they would listen — Judges 3:1–6
+
+Judges 3:1–4 restates 2:22. The nations are left *to test Israel by them* (1, 4), *to know whether they
+would listen to Yahweh's commandments* (4). The pattern is that of Deuteronomy 8:2: *nāsâ*, then
+*lādaʿat*, *to know*, then a question introduced by *hă-*, *whether* (WLC). Judges 2:22 asked whether
+they would *keep* (*šāmar*) Yahweh's way; 3:4 asks whether they will *listen* (*šāmaʿ*), the verb of
+the charge at Bochim (2:2). A second purpose is added, *to teach them war* (2). Verses 5–6 give the
+answer before the first judge appears: Israel lived among the nations, married them, and served their
+gods.
+
+See [[The Nations Left to Test Israel]]. Source: stored WEB Judges 2:2, 22; 3:1–6; Deuteronomy 8:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The nations left to test Israel — Judges 2:6–23
 
 *That by them I may test Israel, to see if they will keep Yahweh's way to walk therein, as their
@@ -190,6 +202,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Nations Left to Test Israel]] — Judges 3:1, 4; *to know whether they would listen*.
 - [[Another Generation Arose]] — Judges 2:22; *that by them I may test Israel*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

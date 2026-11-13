@@ -95,6 +95,7 @@ Complete unit, copied from the stored WEB:
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:37 already links love for the fathers with choice of their descendants.
 - [[A Holy People and Its Food]] — Deuteronomy 14:2 repeats 7:6 almost word for word, as the ground
   of the food laws.
+- [[The Nations Left to Test Israel]] — Judges 3:5–6; daughters taken and given, and their gods served, with the verbs of 7:3–4.
 
 ## Notes
 
