@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Their gods a snare — Judges 2:1–5
+
+*Their gods will be a snare to you* (2:3) repeats Exodus 23:33 nearly word for word, *ləmôqēš*
+(WLC). Israel had been told to break down the peoples' altars (2:2). The next pericope reports that
+they *served Baal and the Ashtaroth* (2:13, stored WEB).
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Joshua names three sets of gods: those the fathers served *beyond the River*, those served *in Egypt*, and *the gods of the Amorites, in whose land you dwell* (14–15). Idolatry is placed at the root of Israel's own family: Terah and the fathers *served other gods* (2). After the people's pledge, Joshua still says *put away the foreign gods which are among you* (23), the words Jacob used at Shechem (Genesis 35:2, stored WEB). Whether images were present is not said. See [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
@@ -462,6 +470,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Angel at Bochim]] — Judges 2:2–3; their altars not broken down; *their gods will be a snare to you*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the fathers' gods, Egypt's gods, the Amorites' gods; *put away the foreign gods*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; naming, swearing by, serving, and bowing to other gods forbidden.
 

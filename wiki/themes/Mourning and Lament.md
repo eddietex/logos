@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A place named Weepers — Judges 2:4–5
+
+*The people lifted up their voice, and wept. They called the name of that place Bochim* (2:4–5).
+A whole people weeps after hearing a sentence. No confession is reported, and nothing in the sentence
+changes. The same idiom returns at Bethel in Judges 21:2 (WLC). See
+[[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]].
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The sin of Achan — Joshua 7:1–26
 
 After the rout Joshua and the elders tear their clothes, fall on their faces before the ark until
@@ -258,6 +267,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[The Angel at Bochim]] — Judges 2:4–5; the people weep, and name the place for it.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Thirty days of weeping (8).
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.

@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Bochim, and weeping at Bethel — Judges 2:1–5
+
+Judges 2:1 does not locate [[Bochim]]. The Septuagint is often reported to add *to Bethel* there;
+that reading is a claim, not verified. The stored text does connect Bethel with weeping twice more:
+the *Allon Bacuth*, the *oak of weeping* below Bethel (Genesis 35:8), and Israel weeping and
+sacrificing at Bethel in Judges 20:26 and 21:2. See
+[[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]].
+
+See [[The Angel at Bochim]]. Source: stored WEB Genesis 35:8; Judges 2:1–5; 20:26; 21:2.
+
 ### Taken by the house of Joseph — Judges 1:22–26
 
 The house of Joseph goes up against Bethel, and *Yahweh was with them* (22). *The name of the city before that was Luz* (23), as Genesis 28:19 said and Joshua 18:13 repeated. A man coming out shows the spies the entrance; they strike the city but let him and his family go (24–25). This is the capture Joshua never narrates: the king of Bethel is counted in Joshua 12:16, but no taking of the city is told. The spared man carries the old name away and builds a new [[Luz (Hittite city)]] (26).
@@ -90,6 +100,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The Angel at Bochim]] — Judges 2:1–5; possibly near Bochim (Septuagint, unverified).
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–26; taken by the house of Joseph.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Inheritance of Ephraim]] — Joshua 16:1–10.
@@ -140,6 +151,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
   the Jacob cycle**
 - [[Canaan]] — the land both sit in
 - [[The Negev]] — where he goes next
+- [[Bochim]] — the place of weeping in Judges 2, perhaps near Bethel.
 
 ## Events here
 

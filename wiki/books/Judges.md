@@ -43,6 +43,14 @@ became forced laborers. In Asher and Naphtali the relation is reversed, and Isra
 Canaanites*. Last, the Amorites press Dan out of the valley. Where Joshua 17:12 said Manasseh *couldn't*,
 Judges 1:27 says *did not*. The chapter ends without a verdict; Judges 2:1–5 supplies one.
 
+[[The Angel at Bochim]] (2:1–5) is that verdict. Yahweh's angel comes up from Gilgal and speaks in
+Yahweh's first person: *I brought you out of Egypt … I will never break my covenant with you*. Israel
+was to make no covenant with the land's inhabitants and to break their altars, *but you have not
+listened to my voice*. So Yahweh *will not drive them out*, and their gods will be *a snare*. The
+verb is *gāraš*, the verb of his promise in Exodus 23, not the *yāraš* of the tribes in chapter 1.
+The people weep, name the place *Bochim*, *weepers*, and sacrifice. The same idiom of weeping returns
+at Bethel in the book's last chapter (21:2).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -68,7 +76,7 @@ merge, or reorder them freely.
 - [x] [[Judah Goes Up First]] — Judges 1:1–7
 - [x] [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21
 - [x] [[The Tribes That Did Not Drive Out]] — Judges 1:22–36
-- [ ] The Angel at Bochim — Judges 2:1–5
+- [x] [[The Angel at Bochim]] — Judges 2:1–5
 - [ ] Another Generation Arose — Judges 2:6–23
 - [ ] The Nations Left to Test Israel — Judges 3:1–6
 - [ ] Othniel — Judges 3:7–11

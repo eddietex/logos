@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sacrifice at Bochim — Judges 2:5
+
+*They sacrificed there to Yahweh* (2:5). The tent of meeting was at Shiloh (Joshua 18:1), and
+Deuteronomy 12:11 names *the place which Yahweh your God shall choose* (stored WEB). Judges 2:5 gives
+no comment on the place. Judges 20:26–27 explains the sacrifice at Bethel by the ark's presence; 2:5
+gives no such reason.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The altar of witness — Joshua 22:10–34
 
 An altar is built *not for burnt offering, nor for sacrifice* (26, 28). Its builders deny
@@ -769,6 +778,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Angel at Bochim]] — Judges 2:5; sacrifice after the weeping, at Bochim.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 

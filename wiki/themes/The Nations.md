@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Left in the land — Judges 2:1–5
+
+The peoples remain because Yahweh *will not drive them out* (2:3). They are not named; they are
+*the inhabitants of this land*. Their gods, not their armies, are called the snare.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### Canaanites and Amorites who stayed — Judges 1:22–36
 
 The Canaanites are *determined* to stay (*yāʾal*, 27, WLC), and so are the Amorites (35). The pericope also has the one Canaanite who leaves: the man of Luz, spared by agreement, who goes to *the land of the Hittites* and builds a city (24–26). See [[The Canaanites]] and [[The Amorites]].
@@ -558,6 +565,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Angel at Bochim]] — Judges 2:2–3; the inhabitants left, and their gods a snare.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites and Amorites remain; the man of Luz goes.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the seven peoples (11), and the gods of the Amorites (15).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the remaining nations as promised expulsion and possible snare.

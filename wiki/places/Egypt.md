@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### "I brought you out of Egypt" — Judges 2:1
+
+The angel's speech begins with the exodus: *I brought you out of Egypt, and have brought you to the
+land* (2:1). The charge that follows is set against it. Judges 6:8 will repeat the same opening
+through a prophet.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The bones brought up — Joshua 24:29–33
 
 Joseph's bones, *which the children of Israel brought up out of Egypt*, are buried at Shechem (32).
@@ -464,6 +472,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[The Angel at Bochim]] — Judges 2:1; *I brought you out of Egypt*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones *brought up out of Egypt* (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the descent, the plagues, *the house of bondage*, and gods served there (4–7, 14, 17).
 - [[The Land That Remains]] — Joshua 13:1–7.

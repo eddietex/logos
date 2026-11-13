@@ -108,6 +108,7 @@ as surely bring *all the evil things* if Israel breaks the covenant and serves o
 - [[Love and Hold Fast After the Campaign - Deuteronomy 10-11 and Joshua 22]] — verses 8 and 11.
 - [[A Blessing and a Curse Set Before You - Deuteronomy 11.26-28 and 30.15-20]] — the good and
   the evil set before Israel, here spoken as two certainties.
+- [[The Angel at Bochim]] — Judges 2:3; *I will not drive them out*, as 23:13 warned.
 
 ## Notes
 

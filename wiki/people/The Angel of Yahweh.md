@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### At Bochim — Judges 2:1–5
+
+**He speaks as Yahweh with no introduction.** *Yahweh's angel came up from Gilgal to Bochim* and says
+*I brought you out of Egypt … I said, "I will never break my covenant with you"* (2:1). Every verb is
+first person (WLC). There is no *thus says Yahweh*, the formula a prophet uses for the same charge at
+Judges 6:8. The charge is *you have not listened to my voice* (2:2). That answers the condition of
+Exodus 23:22, *if you indeed listen to his voice, and do all that I speak* (stored WEB). The text does
+not say whether this is the angel promised there. The people weep and sacrifice (2:4–5). The wiki
+records the first-person speech and adopts no identity reading.
+
+See [[The Angel at Bochim]], [[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]].
+Source: stored WEB Judges 2:1–5; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The commander by Jericho — Joshua 5:13–15
 
 Joshua's encounter with the commander of Yahweh's army recalls the drawn sword in
@@ -349,6 +362,8 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 - Promised to go before Israel to the land, with the warning *"my name is in him"* — Exodus
   23:20–23, [[The Angel Sent Ahead]]
 - Blocks Balaam's road with a drawn sword — Numbers 22:22–35
+- Comes up from Gilgal to Bochim and charges Israel in Yahweh's first person — Judges 2:1–5,
+  [[The Angel at Bochim]]
 - Sits under the oak at Ophrah and commissions Gideon — Judges 6:11–24
 - Announces Samson's birth to a woman who is barren, and refuses to give his name — Judges 13:3–22
 - Stands between earth and sky with a drawn sword over Jerusalem — 2 Samuel 24:16; 1 Chronicles
@@ -361,6 +376,8 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 
 ## Appears in
 
+- [[The Angel at Bochim]] — Judges 2:1–5; comes up from Gilgal and speaks in Yahweh's first person: *you have not
+  listened to my voice*.
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15 (comparison; identity not asserted).
 
 - [[Balaam's Donkey]] — Numbers 22:22–35.

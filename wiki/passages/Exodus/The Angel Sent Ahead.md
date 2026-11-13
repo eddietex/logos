@@ -145,6 +145,8 @@ still at Sinai. Nothing in these verses reports that any of it has happened yet.
   [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]].
 - Exodus 23:24 — the peoples' pillars demolished:
   [[The Pillar Jacob Raised and the Pillars the Law Forbids]].
+- [[The Angel at Bochim]] — Judges 2:1–3; an angel says *you have not listened to my voice*, and the
+  promise to drive out is withdrawn.
 
 ## Notes
 

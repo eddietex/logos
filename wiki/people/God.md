@@ -7,9 +7,20 @@ tags: [person]
 
 ## Overview
 
+### The verdict at Bochim — Judges 2:1–5
+
+Spoken by his angel in his own first person: he brought Israel out of Egypt, brought them to the
+sworn land, and said *I will never break my covenant with you* (2:1). Israel was to make no covenant
+with the land's inhabitants and to break their altars, *but you have not listened to my voice* (2:2).
+So *I will not drive them out from before you* (2:3). The verb is *gāraš*, the verb of his own promise
+in Exodus 23:28–31 (WLC). He withdraws the driving out, not the covenant. No reply of his is
+reported to the weeping or the sacrifice (2:4–5).
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### With the house of Joseph — Judges 1:22–36
 
-*Yahweh was with them* (22), said of the house of Joseph at Bethel, as 1:19 said it of Judah. He is not named again in the pericope. The register of cities not driven out (27–36) reports no word of his, no inquiry, and no help; his response comes in the next pericope, at Bochim (2:1–5, stored WEB, not yet ingested).
+*Yahweh was with them* (22), said of the house of Joseph at Bethel, as 1:19 said it of Judah. He is not named again in the pericope. The register of cities not driven out (27–36) reports no word of his, no inquiry, and no help; his response comes in the next pericope, at Bochim: [[The Angel at Bochim]].
 
 See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:22–36.
 
@@ -4032,6 +4043,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Angel at Bochim]] — Judges 2:1–5; through his angel: *I will never break my covenant with you … I will not drive them out*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22; *Yahweh was with them*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:19; *Yahweh was with Judah*, and still the valley was not taken.
 - [[Judah Goes Up First]] — Judges 1:1–7; inquired of, answers *Judah shall go up*, delivers the land; named *God* by Adoni-Bezek, *As I have done, so God has done to me*.

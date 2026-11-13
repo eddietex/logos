@@ -66,6 +66,7 @@ This is instruction and warning before entry, not a report that conquest has occ
 - [[The Same Judgment on Israel - Leviticus 18 and Numbers 33]] — Leviticus 18:24–30 and the threatened reversal of possession.
 - [[The Second Census]] — Numbers 26:52–56 already joins proportionate shares and lot.
 - [[The Stages of the Journey]] — Numbers 33:1–49 reaches the camp where this speech is given.
+- [[The Angel at Bochim]] — Judges 2:3; the threat carried out: *they shall be in your sides*.
 
 ## Notes
 

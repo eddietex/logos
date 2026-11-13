@@ -48,6 +48,15 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:15–16
 3:8; 23:29–30; Numbers 13:29; 33:55; Deuteronomy 7:1–3; 20:11, 16–17; Joshua 3:10; 16:10; 17:12–13;
 Judges 1:22–36; 2:3; 3:5. Hebrew of Judges 1:27–33 and Joshua 17:12 read in the WLC.
 
+### Left as a punishment — Judges 2:1–5
+
+They are *the inhabitants of this land* (2:2), with whom Israel was to make no covenant and whose
+altars it was to break down. Because Israel did not listen, Yahweh *will not drive them out*; they
+will be *in your sides*, and *their gods will be a snare* (2:3). Chapter 1 recorded that the tribes
+did not drive them out. Here Yahweh says he will not.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ## Timeline / key events
 
 - Descended from Canaan in the Table of Nations — [[The Table of Nations]]
@@ -61,6 +70,7 @@ Judges 1:22–36; 2:3; 3:5. Hebrew of Judges 1:27–33 and Joshua 17:12 read in 
 
 ## Appears in
 
+- [[The Angel at Bochim]] — Judges 2:2–3; *the inhabitants of this land*, now not to be driven out.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; not driven out, and put to forced labor.
 - [[The Inheritance of Manasseh]] — Joshua 17:12–13; *would dwell in that land*.
 - [[The Inheritance of Ephraim]] — Joshua 16:10; at Gezer.

@@ -600,6 +600,8 @@ shown getting either of them back.
   [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
 - [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]] — Jacob's order to his
   household, repeated by Joshua to the nation at Shechem in [[The Covenant at Shechem]].
+- [[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]] — Genesis 35:8 beside Bochim and
+  the weeping at Bethel in Judges.
 
 ## Notes
 

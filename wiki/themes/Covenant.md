@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two covenants at Bochim — Judges 2:1–5
+
+Yahweh's covenant, which he says he *will never break* (2:1), and the covenant Israel was not to
+make with *the inhabitants of this land* (2:2). The wording of the second repeats Exodus 34:12 and
+Deuteronomy 7:2 (WLC). The sentence that follows withdraws the driving out of the peoples, not the
+covenant itself. Judges 2:20 will say Israel *transgressed my covenant* (stored WEB).
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Joshua *made a covenant with the people that day*, with *a statute and an ordinance in Shechem* (25). The form resembles Sinai: a recited history, the people's repeated pledge, the words written (Exodus 19:8; 24:3–7, stored WEB). It has no altar, sacrifice, or blood, unlike Exodus 24:5–8. The covenant is witnessed instead: the people *against yourselves* (22), and a stone that *has heard all Yahweh's words* (27). See [[The Altar at Shechem and the Covenant at Shechem]].
@@ -671,6 +680,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[The Angel at Bochim]] — Judges 2:1–2; *I will never break my covenant with you*, and no covenant with the land's inhabitants.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; covenant made at Shechem, written, and witnessed by the people and a stone.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and loss of the good land.
 

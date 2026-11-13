@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The angel comes up from Gilgal — Judges 2:1
+
+*Yahweh's angel came up from Gilgal to Bochim* (2:1). Gilgal had been Israel's camp through Joshua
+4–14. The angel's route leads from the place where the conquest began to the place where Israel hears
+it will stay unfinished. The text gives no reason for the route.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The border looks toward Gilgal opposite the ascent of Adummim (7). The shared name alone does not establish that this landmark is Joshua’s camp; this occurrence is recorded here with that identification left open.
@@ -79,6 +87,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[The Angel at Bochim]] — Judges 2:1; the angel comes up from here.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
@@ -99,9 +108,11 @@ both pages qualified.
 - [[Arabah]] — named in the same verse.
 - [[Jericho]] — Joshua 4:19 places the camp at Gilgal on its east border.
 - [[The Jordan]] — the crossing that leads to the camp at Gilgal in Joshua 4.
+- [[Bochim]] — where the angel goes up to from Gilgal (Judges 2:1).
 
 ## Events here
 
 - Named as a landmark near the mountains of blessing and curse — Deuteronomy 11:30,
   [[Set These Words Before You]].
 - Israel's first camp west of the Jordan — Joshua 4:19, [[The Twelve Stones from the Jordan]].
+- Yahweh's angel comes up from Gilgal to Bochim — Judges 2:1, [[The Angel at Bochim]].

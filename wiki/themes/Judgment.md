@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Not driven out — Judges 2:1–5
+
+The sentence is a withdrawal: *I will not drive them out from before you; but they shall be in your
+sides, and their gods will be a snare to you* (2:3). Joshua 23:13 had warned of it. The verb,
+*gāraš*, is the one Yahweh used when he promised to drive them out in Exodus 23:28–31 (WLC).
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *If you forsake Yahweh, and serve foreign gods, then he will turn and do you evil, and consume you, after he has done you good* (20). Past goodness is no protection; it makes the turn sharper. Joshua 23:15 made the same point with *all the evil things*.
@@ -1043,6 +1051,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[The Angel at Bochim]] — Judges 2:3; *I will not drive them out from before you*.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *he will turn and do you evil, and consume you* (20).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; covenant breach and perishing from the land.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

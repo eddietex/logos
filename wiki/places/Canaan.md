@@ -549,6 +549,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[The Angel at Bochim]] — Judges 2:1–3; *the land which I swore to give your fathers*, and its inhabitants left in it.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the land's inhabitants not driven out.
 - [[Judah Goes Up First]] — Judges 1:1–4; the Canaanites still to be fought after Joshua's death.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; led through by Abraham (3), given without labor (13).

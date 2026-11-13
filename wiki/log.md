@@ -25874,3 +25874,37 @@ Judges 1:22–24, 26–36, Joshua 2:1, 12, 14; 6:25; 16:10; 17:12–13; 19:15, 2
 not verified: the *Edomite* reading at 1:36, the Kitron–Kattath identification, and the gloss *sun*
 for *ḥeres*. Exodus 3:9's Hebrew was not compared. No raw text was added or changed, and no workflow
 instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 2.1-5 — The Angel at Bochim
+
+Auto mode. Judges was the only `in-progress` book; ingested its fourth box, [[The Angel at Bochim]]
+(Judges 2:1–5). Judges is now 4 / 42. The boundary was kept as planned.
+
+Created one passage; one place, [[Bochim]]; and two connections,
+[[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]] and
+[[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]]. Revised three people
+([[The Angel of Yahweh]], [[God]], [[The Canaanites]]), four places ([[Gilgal]], [[Bethel]],
+[[Egypt]], [[Canaan]]), eight themes ([[Covenant]], [[Law and Obedience]], [[Judgment]],
+[[Idolatry]], [[Mourning and Lament]], [[Sacrifice and Offering]], [[Names and Naming]],
+[[The Nations]]), one connection
+([[Little by Little - The Hornet, the Snare, and the Land Not Taken]]), and the cross-references of
+six passages ([[The Tribes That Did Not Drive Out]], [[Drive Out the Inhabitants]],
+[[Joshua's Farewell to the Leaders]], [[The Angel Sent Ahead]], [[The Covenant Renewed]],
+[[Return to Bethel; the Deaths of Rachel and Isaac]]). Updated the book page and books index, the
+people, places, themes, and connections indexes, and the dashboard counts. Frontmatter totals: 440
+passages, 287 people, 554 places, 87 themes, 842 connections.
+
+Judgment calls: Bochim is not identified with Bethel or the *Allon Bacuth*; the link is a
+connection page, not an identification. The weeping at Bochim is not called repentance, because the
+text reports none. The angel's identity is left open, as on [[The Angel of Yahweh]]. The change of
+verb from *yāraš* (Judges 1; 2:21) to *gāraš* (2:3) is recorded as a fact of the text; its weight is
+left as a reading. No page was made for the inhabitants of the land beyond [[The Canaanites]]. Judges
+2:20–21, 6:8–10, 20:23–27, and 21:2–4 are cited as plain text until they are ingested.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Leviticus, Numbers, Deuteronomy, Joshua, and later Judges chapters as listed on the passage page.
+Hebrew of Judges 2:1–5, 20–21; 6:8, 10; 20:23, 26; 21:2; Genesis 3:13; 35:8; Exodus 23:21, 28–31,
+33; 34:11–13; Leviticus 26:44; Numbers 33:55; Deuteronomy 7:2, 5, 16; and Joshua 23:13 read from the
+Westminster Leningrad Codex (OpenScriptures morphhb, GitHub), with its morphology codes. Reported as
+claims, not verified: the Septuagint's *Bethel* at 2:1 and the emendation *ṣārîm* at 2:3. No raw text
+was added or changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.

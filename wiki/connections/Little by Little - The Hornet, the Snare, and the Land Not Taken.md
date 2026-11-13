@@ -28,8 +28,8 @@ tags: [connection]
   nor with your bow"*. The hornet drives out *"the two kings of the Amorites"*, the kings beyond
   the Jordan (24:8), whom Numbers 21:24 says were struck *"with the edge of the sword"* (stored
   WEB); the sword is not denied, only made secondary
-- **Judges 2:1–3** — Yahweh's angel at Bochim: *"I will not drive them out from before you; but they
-  shall be in your sides, and their gods will be a snare to you"* (WEB; *not yet ingested*)
+- [[The Angel at Bochim]] — Judges 2:1–3; Yahweh's angel: *"I will not drive them out from before you; but they
+  shall be in your sides, and their gods will be a snare to you"* (stored WEB; now ingested)
 
 ## Analysis
 
@@ -94,6 +94,21 @@ what Israel then did. The texts do not say so outright. They put the two side by
 be heeded (*"listen to his voice"*, 23:21–22). In Judges 2:1–2, *"Yahweh's angel"* comes up to Bochim
 and charges Israel: *"you have not listened to my voice."* The condition of Exodus 23:22 returns, as
 an accusation, in the mouth of the same kind of messenger. See [[The Angel of Yahweh]].
+
+### Bochim — Judges 2:1–5
+
+Now ingested. The verb matters here. Judges 1 says the tribes *did not drive out*, using *yāraš*. At
+Bochim Yahweh says *lōʾ ʾăgārēš*, *I will not drive out*, using *gāraš*, the verb of this
+connection's Exodus texts: the hornet *will drive out* (Exodus 23:28) and *I will not drive them out
+from before you in one year … little by little I will drive them out* (23:29–30; all WLC). Judges 2:3
+negates the same first-person piel, without *in one year*. So the slow removal of Exodus 23 and the
+withdrawn removal of Judges 2 are stated in the same words, and the difference between them is the
+condition: *you have not listened to my voice* (2:2). Exodus 23:22 had set that condition. Judges
+2:22 and 3:1–4 will give a third reason, testing (stored WEB). The wiki still states each reason
+separately.
+
+Source: stored WEB Exodus 23:22, 28–30; Judges 2:1–5, 22; 3:1–4. Hebrew WLC (OpenScriptures morphhb),
+2026-11-13.
 
 ### The renewal in its narrative setting — Exodus 34
 

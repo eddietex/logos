@@ -125,6 +125,7 @@ the tablets and the ten commandments (34:27–28). His descent and shining face 
 - [[A Jealous God - Exodus 20.5, 34.14, Deuteronomy 4.24, 6.15, and Joshua 24.19]] — verse 14's
   name *Jealous*, and Joshua 24:19's *He will not forgive* set against verse 7's *forgiving
   iniquity*.
+- [[The Angel at Bochim]] — Judges 2:2; no covenant with the inhabitants, and break their altars, quoted back.
 
 ## Notes
 

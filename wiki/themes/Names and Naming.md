@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Bochim — Judges 2:1, 5
+
+A place named for a people's weeping, *bōkîm*, *weepers*. Verse 1 already uses the name, with the
+article, before verse 5 tells how it was given (WLC). Compare *Allon Bacuth*, *oak of weeping*,
+Genesis 35:8.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### Luz carried away — Judges 1:23, 26
 
 *The name of the city before that was Luz* (23): Bethel's old name, as in Genesis 28:19. The spared man then builds a city in the land of the Hittites and calls it Luz, *which is its name to this day* (26). The name Israel replaced goes on elsewhere. See [[Luz (Hittite city)]].
@@ -331,6 +339,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Angel at Bochim]] — Judges 2:1, 5; Bochim, *weepers*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:23, 26; Luz renamed, and the name carried away.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.

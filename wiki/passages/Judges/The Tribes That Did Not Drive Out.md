@@ -95,7 +95,7 @@ and upward* (36).
 ## Cross-references
 
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; the first *did not drive out* (21).
-- Judges 2:1–5 — the angel at Bochim, not yet ingested; the verdict on this list (stored WEB).
+- [[The Angel at Bochim]] — Judges 2:1–5; the verdict on this list.
 - [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] — city by city.
 - [[Forced Labor at Gezer and the Command for the Inherited Cities]] — Joshua 16:10 and Judges 1:29.
 - [[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]] — two spared Canaanite households.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### "You have not listened to my voice" — Judges 2:1–5
+
+The angel quotes the commands back almost word for word: no covenant with the inhabitants, *break
+down their altars* (2:2; compare Exodus 34:12–13; Deuteronomy 7:2, 5 in the WLC). Then the charge:
+*you have not listened to my voice*. It answers the condition of Exodus 23:22, *if you indeed listen
+to his voice* (stored WEB). The same charge returns at 2:20 and 6:10.
+
+See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
+
 ### The command and the record — Judges 1:22–36
 
 Deuteronomy 7:2 forbade covenant with the nations, and Numbers 33:55 warned that those left would be *thorns in your sides*. Judges 1:27–33 records, tribe by tribe, that they were left. The chapter itself passes no judgment; Judges 2:2–3 does: *you have not listened to my voice* (stored WEB).
@@ -1542,6 +1551,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Angel at Bochim]] — Judges 2:2; *you have not listened to my voice*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–33; the command to drive out, unfulfilled.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the covenant written *in the book of the law of God* (26).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; the book of the law kept, without turning aside.
