@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Given and still to be taken — Judges 1:1–7
+
+Joshua divided the land; Judges begins with it still to be fought for. Yahweh's answer to the
+inquiry speaks of the gift as done, *I have delivered the land into his hand* (2), and Judah's offer
+to Simeon speaks in the language of the allotment, *my lot … your lot* (3). The lots drawn at Shiloh
+are now the fields of each tribe's war.
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–3.
+
 ### Buried in the inheritance — Joshua 24:29–33
 
 Joshua is buried *in the border of his inheritance* (30), and the parcel where Joseph's bones lie
@@ -1508,6 +1517,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"you lived as a foreigner in his land"*.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; a remarriage that would *"cause the land to sin"*.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; *"I have come to the land"*; the sojourning father; blessing asked on the ground.
+- [[Judah Goes Up First]] — Judges 1:1–3; the land already *delivered*, and each tribe's lot still to be taken.
 
 ## Related themes
 

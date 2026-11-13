@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The first war after Joshua — Judges 1:1–7
+
+Judges' first war begins with an inquiry, *Who should go up for us first against the Canaanites*,
+and an answer that gives the victory before the battle: *I have delivered the land into his hand*
+(1–2). Judah and Simeon fight as allies, and Yahweh delivers the Canaanites and Perizzites at Bezek
+(4). The captured king is maimed, not killed; the narrator does not evaluate the act, and the only
+verdict on it is the king's own, *As I have done, so God has done to me* (7). The same inquiry
+returns at 20:18 for a war against Benjamin. See [[Who Shall Go Up First - Judges 1.1-2 and 20.18]].
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–7.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *I sent the hornet before you, which drove them out from before you, even the two kings of the Amorites; not with your sword, nor with your bow* (12). Numbers 21:24 says Israel struck Sihon *with the edge of the sword* (stored WEB); verse 12 does not deny the sword but denies that it won. Two tensions with the earlier narrative are recorded on the passage page: Jericho *fought* (11) though Joshua 6 narrates no battle, and Balak *fought* (9) though Numbers narrates none.
@@ -895,6 +906,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; the holy war camp.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; the newly married man exempt from the army for a year.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; the stragglers struck, and war against Amalek deferred until rest.
+- [[Judah Goes Up First]] — Judges 1:1–7; inquiry, alliance, and the first victory after Joshua.
 
 ## Related themes
 

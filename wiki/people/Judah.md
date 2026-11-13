@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Judah goes up first — Judges 1:1–7
+
+After Joshua's death Israel asks Yahweh who should go up first against the Canaanites, and the
+answer is the tribe: *Judah shall go up. Behold, I have delivered the land into his hand* (2). Judah
+speaks as one person to *Simeon his brother*, offering to fight in each other's lots (3), and the two
+defeat the Canaanites and Perizzites at Bezek and capture Adoni-Bezek (4–7). The tribe that camped
+and marched first (Numbers 2:3; 10:14) now goes first into battle. The same question and answer recur
+against Benjamin at 20:18, *Judah first*. See [[Who Shall Go Up First - Judges 1.1-2 and 20.18]].
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–7; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:4, 9–16). The ancestor is not an actor in this distribution.
@@ -418,9 +429,11 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 2 — Heads the east camp and sets out first. [[The Camp Around the Tent]]
 - Numbers 7:12–17 — Judah gives first at the altar's dedication, through Nahshon. [[The Offerings of the Twelve Princes]]
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
+- Judges 1:1–7 — Named by Yahweh to go up first after Joshua's death; with Simeon, wins at Bezek. [[Judah Goes Up First]]
 
 ## Appears in
 
+- [[Judah Goes Up First]] — Judges 1:1–7; chosen by Yahweh to go up first; allies with Simeon; defeats Adoni-Bezek.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Naphtali’s border reaches Judah (34); Dan’s list repeats Judah’s towns.

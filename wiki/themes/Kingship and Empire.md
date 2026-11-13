@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Seventy kings under a table — Judges 1:1–7
+
+Judges begins without a leader: Joshua is dead, no successor is named, and Israel asks Yahweh who
+will go up first (1). The first king in the book is a Canaanite. Adoni-Bezek claims to have kept
+seventy kings, thumbs and big toes cut off, scavenging under his table (7). That may be a boast, and
+the narrator does not confirm it. It still shows the kind of overlord the land had. The book's
+refrain, *In those days there was no king in Israel* (17:6; 21:25), comes only at the end; at the
+beginning, Israel has no king and no leader, and asks Yahweh who will go first.
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–7; 17:6; 21:25.
+
 ### The kings struck down — Joshua 12:1–24
 
 The land is measured by its rulers. Sihon and Og are named with their realms; the thirty-one western kings are unnamed, each reduced to a city and the word *one* (9–24). Even kings the narrative named — Adoni-Zedek, Jabin, Horam — are listed by city only.
@@ -680,6 +691,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 - [[Our Sister and My Own Vineyard]] — Song of Solomon 8:8–12.
 - [[The Law for the King]] — Deuteronomy 17:14–20; the law of the king: chosen by Yahweh, a brother, limited, a reader of the law.
+- [[Judah Goes Up First]] — Judges 1:1–7; no successor to Joshua, and a Canaanite king of seventy maimed kings.
 
 ## Related themes
 

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Adoni-Bezek and an open question — Judges 1:1–7
+
+Judges 1:5–7 tells of [[Adoni-Bezek]], *lord of Bezek*, maimed by Judah and brought to Jerusalem,
+where he dies. The names differ in one element, and some readers identify the two kings; it is often
+said that the Septuagint of Joshua 10 reads *Adonibezek*, which has not been checked here. The two
+accounts differ in place, captor, and death: this king was killed and hanged by Joshua and thrown
+into the cave at Makkedah (Joshua 10:26–27). The wiki keeps two pages and does not identify them.
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:5–7; Joshua 10:1, 26–27.
+
 ### The five kings at Makkedah — Joshua 10:16–27
 
 One of the five kings hidden in the cave at Makkedah, brought before Joshua, humiliated beneath the
@@ -32,6 +42,7 @@ Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied 
 
 ## Appears in
 
+- [[Judah Goes Up First]] — Judges 1:1–7; comparison only: Adoni-Bezek, sometimes identified with him.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
@@ -44,6 +55,7 @@ Source: stored WEB Joshua 10:1–15. No personal history or dynasty is supplied 
 - [[Piram]]
 - [[Japhia (person)]]
 - [[Debir (person)]]
+- [[Adoni-Bezek]] — the king of Judges 1 brought to Jerusalem to die; sometimes identified with him, kept separate here
 
 ## Themes associated
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### After the death of Joshua — Judges 1:1–7
+
+Judges opens with his death, *After the death of Joshua* (1), as Joshua opened with Moses' (Joshua
+1:1). Moses had a successor appointed before he died; Joshua has none, and Israel asks Yahweh who
+should go up first. The answer is a tribe, Judah, not a man. Judges 2:6–9 then tells his death again.
+See [[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]].
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–7; comparisons as cited.
+
 ### Death and burial — Joshua 24:29–33
 
 *Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old* (29). The
@@ -414,9 +423,11 @@ and Deuteronomy 1:38 gives him a different reason. See [[The People Refuse the L
 - Tears his clothes and pleads; named as one of the two who will enter — Numbers 14:6–9, 30, 38,
   [[The People Refuse the Land]]
 - Joshua 12:7–24 — thirty-one western kings counted as his.
+- Judges 1:1 — Dead; Israel asks Yahweh who will go up first. [[Judah Goes Up First]]
 
 ## Appears in
 
+- [[Judah Goes Up First]] — Judges 1:1; the book begins *after the death of Joshua*, with no successor named.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; dies at one hundred ten, *the servant of Yahweh*; buried at Timnathserah.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; second farewell; *as for me and my house*; the covenant made and written.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; first farewell, to the elders, heads, judges, and officers.

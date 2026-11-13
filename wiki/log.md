@@ -25750,3 +25750,46 @@ listed in the passage page's Sources note. Judges 1:1 and 2:6–10 were checked 
 already on [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] were left as written and
 marked unchecked there. No new source-language claim. Raw texts and workflow instructions are
 unchanged. `scripts/link-check.sh` clean.
+
+## [2026-11-12] ingest | Judges 1.1-7 — Judah Goes Up First
+
+Opened Judges in auto mode. No book was `in-progress` and every `## Priority` book (Proverbs,
+Ecclesiastes, Song of Solomon) is already complete, so the run fell through to the first
+`not-started` book in canonical order. Fetched `raw/bible/Judges.md` (21 chapters), created
+[[Judges]] with a 42-pericope plan, and ingested the first box, [[Judah Goes Up First]]
+(Judges 1:1–7). Judges is now `in-progress` (1 / 42).
+
+Created one book page, one passage, one person ([[Adoni-Bezek]]), one place ([[Bezek]]), and one
+connection ([[Who Shall Go Up First - Judges 1.1-2 and 20.18]]). Revised six people ([[Judah]],
+[[Simeon]], [[Joshua (son of Nun)]], [[Adoni-Zedek]], [[The Perizzites]], [[God]]), two places
+([[Jerusalem]], [[Canaan]]), five themes ([[War]], [[Retribution]], [[Brotherhood]],
+[[Land and Sojourning]], [[Kingship and Empire]]), and three connections
+([[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]],
+[[Joshua's Death Told Twice - Joshua 24.28-31 and Judges 2.6-9]],
+[[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]]). Updated the books, people,
+places, themes, and connections indexes and the dashboard counts. Frontmatter totals: 437 passages,
+284 people, 547 places, 87 themes, 838 connections; 11 books started, 10 complete.
+
+Pericope plan: chapter 1 is split into three units (1:1–7, 1:8–21, 1:22–36) rather than one, so
+that Adoni-Bezek, Judah's southern conquests with Achsah, and the list of cities not driven out each
+get their own page. Chapters 2–3:6 are split into Bochim (2:1–5), the cycle (2:6–23), and the
+nations left to test Israel (3:1–6). Gideon (6–8) and Samson (13–16) are divided by scene; chapters
+18–21 are kept whole.
+
+Judgment calls: Adoni-Bezek and Adoni-Zedek are kept as two people and the identification is flagged
+on both pages; the Septuagint *Adonibezek* reading of Joshua 10 is reported as a claim, not
+verified. The subject of *They brought him to Jerusalem* (1:7) is left open, since Judah takes the
+city only in 1:8. Bezek is left unlocated; its identification with the Bezek of 1 Samuel 11:8 and a
+site north of Shechem is reported, unverified. Whether the inquiry of 1:1 used the Urim is recorded
+as an inference from Numbers 27:21, not a statement of the text. The maiming is described without
+endorsement; the explanation that it disabled a warrior is labeled interpretation. No pages were
+made for the Canaanites (covered by [[Canaan]]) or the seventy kings.
+
+All Judges quotations were copied from stored WEB. Comparisons from stored WEB Genesis, Exodus,
+Leviticus, Numbers, Deuteronomy, and Joshua as listed in the passage page's Sources note. 1 Samuel
+9:1–2, 10:26, and 11:8–9 were checked at bible-api.com (`translation=web`); no 1 Samuel text was
+stored. Hebrew of Judges 1:1–2, 6–7 and 20:18, 23, 27–28 was read from the Westminster Leningrad
+Codex (OpenScriptures morphhb, GitHub): *kaʾăšer ʿāśîtî kēn šillam-lî ʾĕlōhîm* (1:7), the shared
+*mî yaʿăleh-lānû … battəḥillāh* of 1:1 and 20:18, *baYHWH* against *bēʾlōhîm*, the root *qāṣaṣ* in
+1:6–7, and *nāṯattî* in 1:2. Raw texts already stored and workflow instructions are unchanged.
+`scripts/link-check.sh` clean.

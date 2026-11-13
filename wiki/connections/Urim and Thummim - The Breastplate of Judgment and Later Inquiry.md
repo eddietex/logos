@@ -7,6 +7,7 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Judah Goes Up First]] — Judges 1:1–2; Israel *asked of Yahweh*, means not stated.
 - [[The Gibeonite Deception]] — Joshua 9:14; inquiry omitted.
 
 - [[Joshua Commissioned]] — Numbers 27:12–23; now ingested.
@@ -111,3 +112,14 @@ Numbers 27:21 assigns Eleazar inquiry for Joshua by the Urim. In [[The Gibeonite
 Joshua 9:14 explicitly says the men did not ask counsel from Yahweh. The contrast is meaningful, but
 Joshua 9 names neither Eleazar nor the Urim and does not specify the neglected procedure. Source:
 both passages checked in stored WEB.
+
+### Asked of Yahweh — Judges 1:1–2
+
+After Joshua's death *the children of Israel asked of Yahweh* who should go up first, and Yahweh
+answered *Judah shall go up*. The verse names no priest, no Urim, no ark, and no place. Numbers 27:21
+had appointed Eleazar to inquire *by the judgment of the Urim* for Joshua, and Eleazar has just died
+(Joshua 24:33). That the Urim were used here is an inference from that law, not something the text
+says. The same verb, *šāʾal*, returns for the inquiries against Benjamin (Judges 20:18, 23, 27); at
+20:27–28 the ark is at hand and Phinehas stands before it. See [[Judah Goes Up First]] and
+[[Who Shall Go Up First - Judges 1.1-2 and 20.18]]. Source: stored WEB Judges 1:1–2; 20:18–28;
+Numbers 27:21; Joshua 24:33. Hebrew from WLC (OpenScriptures morphhb), 2026-11-12.

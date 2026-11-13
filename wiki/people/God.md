@@ -4026,6 +4026,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Judah Goes Up First]] — Judges 1:1–7; inquired of, answers *Judah shall go up*, delivers the land; named *God* by Adoni-Bezek, *As I have done, so God has done to me*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; *all the work of Yahweh, that he had worked for Israel* (31).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the history spoken in his first person; *a holy God … a jealous God*.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; every good word kept, the evil words as certain.

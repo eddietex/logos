@@ -18,6 +18,8 @@ tags: [connection]
   and he will save you."*
 - **Deuteronomy 19:18–19** — [[Landmarks, Witnesses, and False Testimony]] — the false witness to be done to *"as he had
   thought to do to his brother."*
+- [[Judah Goes Up First]] — **Judges 1:7** — *"As I have done, so God has done to me."* (stored
+  WEB)
 - [[The Deaths of Jacob and Joseph]] — **Genesis 50:19** — *"am I in the place of God?"*
 - **Matthew 5:38–39** *(not yet ingested)* — *"You have heard that it was said, 'An eye for an eye,
   and a tooth for a tooth.' But I tell you, don't resist him who is evil; but whoever strikes you on
@@ -68,6 +70,18 @@ acting through its judges (18), so this is the court's retaliation and not the p
 forbids. See [[Landmarks, Witnesses, and False Testimony]].
 
 Source: stored WEB Deuteronomy 19:18–19. Hebrew from WLC (morphhb), retrieved 2026-11-07.
+
+### A defeated king's confession — Judges 1:7
+
+Judges 1:7 gives the formula a third speaker. Adoni-Bezek, his thumbs and big toes cut off, says
+*kaʾăšer ʿāśîtî kēn šillam-lî ʾĕlōhîm* (WLC, OpenScriptures morphhb), *as I have done, so God has
+repaid me*. The *kaʾăšer … kēn* frame and the verb *ʿāśāh* match Leviticus 24:19 and Proverbs 24:29.
+The second verb is not *ʿāśāh* but *šillam*, *repaid*, and the one who repays is *ʾĕlōhîm*. In
+Leviticus the court does to the offender what he did; in Proverbs 24:29 a private man resolves to do
+it and is forbidden; in Judges 1:7 the offender himself names God as the one who has done it. The
+human agents, Judah and Simeon, go unmentioned in his sentence. The narrator does not say whether the
+maiming was right; the only verdict is the king's. See [[Judah Goes Up First]] and [[Retribution]].
+Source: stored WEB Judges 1:6–7.
 
 ## Significance
 

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Judah and Simeon — Judges 1:1–7
+
+Judah, chosen to go up first, says to *Simeon his brother*, *Come up with me into my lot … and I
+likewise will go with you into your lot* (3). The brotherhood is both by birth, Leah's sons
+(Genesis 29:33–35), and by land, Simeon's lot lying inside Judah's (Joshua 19:1, 9). Each tribe keeps
+its own lot and fights in the other's. At the end of the book the same answer, *Judah first*, sends
+Judah against *Benjamin my brother* (20:18, 23). See
+[[Who Shall Go Up First - Judges 1.1-2 and 20.18]].
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:3; 20:18, 23; comparisons as cited.
+
 ### The altar of witness — Joshua 22:10–34
 
 Right after the brothers part, they nearly go to war over a sign meant to keep them together.
@@ -493,6 +504,7 @@ abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] 
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7; *"he is your brother"*.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:19–20; no interest from a brother.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:3–10; *"your brother"* not degraded, and the brother who will not build his brother's house.
+- [[Judah Goes Up First]] — Judges 1:3; Judah calls Simeon *his brother* into an alliance of lots.
 
 ## Related themes
 

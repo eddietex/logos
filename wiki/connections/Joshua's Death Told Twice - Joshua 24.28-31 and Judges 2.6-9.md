@@ -10,7 +10,7 @@ tags: [connection]
 - **Joshua 24:28–31** — the people sent to their inheritances, Joshua's death and burial, and
   Israel's service in his days — [[The Covenant at Shechem]] and
   [[The Burials of Joshua, Joseph, and Eleazar]]
-- **Judges 1:1** — *After the death of Joshua* *(not yet ingested)*
+- [[Judah Goes Up First]] — **Judges 1:1** — *After the death of Joshua* (now ingested; stored WEB)
 - **Judges 2:6–10** — the same four statements, followed by *another generation* *(not yet
   ingested)*
 
@@ -51,6 +51,13 @@ The words barely change; what changes is what follows them. Judges also places t
 chapter that has already begun *after the death of Joshua*, so it is a flashback, retold to set up
 the forgetting of 2:10. See [[Another Generation Arose - Exodus 1.6-8 and Judges 2.8-10]] and
 [[Remembrance]].
+
+### Judges 1:1 now ingested
+
+[[Judah Goes Up First]] confirms the order this page describes. Judges 1 begins after the death,
+with Israel asking Yahweh who should go up first, and its campaigns are told before 2:6–9 tells the
+death itself. The first verse of the book already presupposes what chapter 2 narrates. Source: stored
+WEB Judges 1:1.
 
 Sources: Joshua 24:28–31 from stored WEB. Judges 1:1 and 2:6–10 checked at bible-api.com
 (`translation=web`), 2026-11-12. No source-language claim is made.

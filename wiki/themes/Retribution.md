@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### As I have done — Judges 1:1–7
+
+The book's first statement of retribution comes from a defeated Canaanite king. Adoni-Bezek, whose
+thumbs and big toes have been cut off, says that seventy kings maimed the same way scavenged under
+his table, and concludes: *As I have done, so God has done to me* (7). The Hebrew is *kaʾăšer
+ʿāśîtî kēn šillam-lî ʾĕlōhîm*, *as I have done, so God has repaid me* (WLC, OpenScriptures
+morphhb): the *as … so* frame of Leviticus 24:19, with the verb *šālam*, *repay*, in place of a
+second *do*. He names *God*, not Yahweh. The narrator neither commends nor condemns the maiming; the
+verdict is the victim's. See [[As He Has Done to Me - Proverbs 24.29 and the Law of Retaliation]].
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:6–7; Leviticus 24:19.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 The sanctions explicitly follow national disobedience (15, 45), but their symptoms cannot prove individual guilt. Job 2:3 affirms blamelessness amid ruin, and 2:7 describes a similarly extensive affliction; the tension rules out reversing the conditional.
@@ -991,6 +1003,7 @@ proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and A
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:19, 21; *"as he had thought to do to his brother"*, and *"life for life, eye for eye"*.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:16; every man put to death for his own sin.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:2–3; the penalty counted and capped.
+- [[Judah Goes Up First]] — Judges 1:7; *As I have done, so God has done to me*, a king's verdict on his own punishment.
 
 ## Related themes
 

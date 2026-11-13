@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### Adoni-Bezek brought to die — Judges 1:1–7
+
+The defeated king of Bezek is brought to Jerusalem and dies there (7). The subject of *They brought
+him* is not named. If it is Judah, Judah brings a captive to a city it takes only in the next verse
+(8); if it is his own men, Jerusalem was his home or refuge. The text does not decide. The link with
+Jerusalem invites comparison with [[Adoni-Zedek]], *king of Jerusalem* in Joshua 10:1; see
+[[Adoni-Bezek]] for why the wiki keeps the two apart. Judah's capture and burning of the city in 1:8
+stands against Joshua 15:63, *the children of Judah couldn't drive them out*; that tension belongs to
+the next pericope.
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:7–8; comparisons as cited.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 The south border runs along the Jebusite’s south side (16); the city list explicitly identifies the Jebusite as Jerusalem (28). Its assignment to Benjamin stands beside Judah’s inability to expel its inhabitants in Joshua 15:63; allocation is not a report of occupation.
@@ -86,6 +98,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Judah Goes Up First]] — Judges 1:7; Adoni-Bezek brought there to die.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.
@@ -124,3 +137,4 @@ identified. Source: stored WEB Song 7:10–8:4.
 - The Preacher increases in possessions and greatness above all before him in the city
   (Ecclesiastes 2:7, 9).
 - Its king counted (12:10).
+- Adoni-Bezek, maimed by Judah, is brought here and dies (Judges 1:7).

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Judah goes up first — Judges 1:1–7
+
+Judah invites *Simeon his brother* to fight with him in Judah's lot, promising to fight in Simeon's
+in return, *So Simeon went with him* (3). The two are brothers twice over: Leah's second and fourth
+sons (Genesis 29:33–35), and the tribe whose lot lay *in the middle of the inheritance of the children
+of Judah* (Joshua 19:1, 9). The tribe Jacob cursed with Levi (Genesis 49:5–7) is here Judah's chosen
+ally, and shares the victory at Bezek (4–7). Verse 17 will report them together again at Hormah.
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–7; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:4, 9–16). The ancestor is not an actor in this distribution.
@@ -173,9 +183,11 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 2 — In Reuben's camp on the south. [[The Camp Around the Tent]]
 - Numbers 7:36–41 — Simeon gives fifth at the altar's dedication, through Shelumiel. [[The Offerings of the Twelve Princes]]
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
+- Judges 1:3 — Goes up with Judah *his brother* into Judah's lot; shares the victory at Bezek. [[Judah Goes Up First]]
 
 ## Appears in
 
+- [[Judah Goes Up First]] — Judges 1:1–7; Judah's ally, invited into his lot.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29 (comparison: absent).

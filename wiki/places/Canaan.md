@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### Judah goes up first — Judges 1:1–7
+
+The land Israel was given in Joshua is still to be taken in Judges. The first question after
+Joshua's death is *Who should go up for us first against the Canaanites* (1), and Yahweh's answer
+speaks of the land as already given: *I have delivered the land into his hand* (2; Hebrew *nāṯattî*,
+a perfect, WLC via OpenScriptures morphhb). The perfect tense of the promise and the war still to be
+fought sit side by side, as in Joshua's own *there remains yet very much land to be possessed*
+(Joshua 13:1).
+
+See [[Judah Goes Up First]]. Source: stored WEB Judges 1:1–4; Joshua 13:1.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Yahweh led Abraham *throughout all the land of Canaan* (3) and at the end gave Israel *a land whereon you had not labored, and cities which you didn't build* (13). The land is the frame of the history: walked through by one man, then possessed without labor by his descendants, who are sent *each to his own inheritance* (28). See [[Cities You Did Not Build - Deuteronomy 6.10-12 and Joshua 24.13]].
@@ -532,6 +543,7 @@ explicitly named country in this unit; no arrival or conquest is narrated. See [
 
 ## Appears in
 
+- [[Judah Goes Up First]] — Judges 1:1–4; the Canaanites still to be fought after Joshua's death.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; led through by Abraham (3), given without labor (13).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *this good land*, held on condition of covenant loyalty.
 
