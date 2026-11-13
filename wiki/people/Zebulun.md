@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### With Naphtali at Tabor — Judges 4:1–16
+
+Zebulun is the other tribe of Barak's ten thousand (4:6, 10). In chapter 1 it did not drive out the
+inhabitants of Kitron or Nahalol (1:30). Judges 4 names no other tribe in the army; the Song in
+chapter 5 will widen the list and praise Zebulun and Naphtali above the rest (5:18). See
+[[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; 1:30; 5:18.
+
 ### Kitron and Nahalol — Judges 1:30
 
 *Zebulun didn't drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites lived among them, and became subject to forced labor* (30). Nahalol is Joshua 19:15's Nahalal under another spelling (same WLC lemma). Kitron is often identified with Kattath (19:15), but the WLC tags it as a different word; the wiki keeps them apart.
@@ -151,6 +160,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Deborah and Barak]] — Judges 4:6, 10; called with Naphtali to Mount Tabor.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:30; Kitron and Nahalol not driven out.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; named as a neighbor.

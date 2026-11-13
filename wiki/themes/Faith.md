@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### "If you will go with me" — Judges 4:8
+
+Barak will not go to Tabor unless Deborah goes: *If you will go with me, then I will go; but if you
+will not go with me, I will not go* (4:8). Judges does not call this unbelief, and Deborah does not
+refuse; she goes, and tells him the honor will go to a woman (4:9). Hebrews 11:32 names Barak, and not
+Deborah, among those of faith: *Gideon, Barak, Samson, Jephthah* (WEB, checked at bible-api.com).
+Both texts stand: the condition in Judges, and the commendation in Hebrews.
+
+See [[Deborah and Barak]]. Source: stored WEB Judges 4:1–16; Hebrews 11:32 (WEB) via bible-api.com, 2026-11-13.
+
 ### Yahweh with Judah, and chariots of iron — Judges 1:19
 
 *Yahweh was with Judah*, and Judah still did not take the valley, *because they had chariots of iron*
@@ -375,6 +385,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
 
 ## Key passages
+- [[Deborah and Barak]] — Judges 4:8; Barak's condition, and Hebrews 11:32's commendation.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones buried (32).
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 

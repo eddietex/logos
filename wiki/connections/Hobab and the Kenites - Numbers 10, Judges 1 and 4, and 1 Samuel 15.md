@@ -14,10 +14,22 @@ tags: [connection]
 - Genesis 15:19 — the Kenites among the peoples of the promised land *(stored WEB)*
 - Numbers 24:21–22 — Balaam's word to the Kenite *(stored WEB; now ingested in [[Balaam's Last Oracles]])*
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, go up with Judah *(stored WEB, now ingested)*
-- Judges 4:11, 17 — *the children of Hobab*, and Jael's tent *(WEB checked, not yet ingested)*
+- [[Deborah and Barak]] — Judges 4:11; *the children of Hobab*, and Heber's tent by Kedesh *(stored WEB, now ingested)*
+- Judges 4:17 — Jael's tent, and Heber's peace with Jabin *(stored WEB, not yet ingested)*
 - 1 Samuel 15:6 — Saul spares the Kenites for their kindness to Israel *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Judges 4:11 ingested
+
+[[Deborah and Barak]] now holds the verse. The WLC reads *wəḥeber haqqênî nipərād miqqayin mibbənê
+ḥōbāb ḥōtēn mōšeh*: Heber *separated* from *Qayin*, the collective name, *from the children of
+Hobab*. It is the only verse that names Hobab as the Kenites' ancestor, and the identification of
+1:16's unnamed *Kenite, Moses' ḥōtēn* with Hobab rests on it. The verse also shows the Kenites
+divided: the family of 1:16 in the far south, Heber's household by Kedesh in the north. Within 4:1–16
+nothing happens at the tent; 4:17 is the next pericope. See [[Heber the Kenite]].
+
+Source: stored WEB Judges 4:1–16; WLC (OpenScriptures morphhb), 2026-11-13.
 
 ### Judges 1:16 ingested
 

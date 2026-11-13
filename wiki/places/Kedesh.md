@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Kedesh Naphtali — Judges 4:6–11
+
+Barak comes *out of Kedesh Naphtali* (4:6), *qedeš naptālî* (WLC), the name that settles which Kedesh
+is meant. Deborah goes there with him, and Barak calls Zebulun and Naphtali to Kedesh (4:9–10).
+Heber the Kenite's tent is at *the oak in Zaanannim, which is by Kedesh* (4:11). See [[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; Hebrew WLC.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Naphtali to Gershon’s descendants (21:32).
@@ -33,13 +41,16 @@ Source: stored WEB Joshua 12–21 at the verses cited. No modern site is assigne
 
 ## Appears in
 
+- [[Deborah and Barak]] — Judges 4:6, 9–11; *Kedesh Naphtali*, Barak's town and the muster.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Naphtali’s list.
 - [[The Kings Struck Down]] — Joshua 12:1–24
 
 ## Related places
+- [[The Oak in Zaanannim]] — *by Kedesh* (Judges 4:11).
 - [[Jokneam]] — named beside it in the list (12:22). · [[Kadesh]] — a different name and place.
 
 ## Events here
+- Barak musters Zebulun and Naphtali; Deborah goes with him (Judges 4:9–10).
 - Its king is struck (12:22); no account of the battle is given.

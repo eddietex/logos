@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### The other prophetess — Judges 4:4
+
+*Deborah, a prophetess* (Judges 4:4) is the only other woman given the title *nəbîʾâ* in the WLC files
+for Genesis through Judges and 1 Samuel. Like Miriam, she stands beside a victory over chariots and is
+tied to a song. See [[The Prophetess - Miriam and Deborah]] and [[Deborah (prophetess)]].
+
+Source: stored WEB Judges 4:1–16; Exodus 15:20; Hebrew WLC lemma search.
+
 ### The second census — Numbers 26:1–65
 
 Named as Jochebed’s daughter and sister of Aaron and Moses (59), retrospectively after her death in
@@ -104,6 +112,7 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 
 ## Related people
 
+- [[Deborah (prophetess)]] — the other *prophetess* (Judges 4:4).
 - [[Moses]] — her brother
 - [[Jochebed]] — her mother
 - [[Amram]] — her father

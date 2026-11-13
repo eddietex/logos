@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Barak's tribe — Judges 4:1–16
+
+Barak comes *out of Kedesh Naphtali* (4:6), and Yahweh's command is to take *ten thousand men of the
+children of Naphtali and of the children of Zebulun* to Mount Tabor (4:6, 10). In chapter 1 Naphtali
+*lived among the Canaanites* and did not drive out Beth Shemesh or Beth Anath (1:33). Here the tribe
+that lived among them is half of the army that breaks the Canaanite king's chariots. See
+[[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; 1:33.
+
 ### Beth Shemesh and Beth Anath — Judges 1:33
 
 *Naphtali didn't drive out the inhabitants of Beth Shemesh, nor the inhabitants of Beth Anath; but he lived among the Canaanites, the inhabitants of the land* (33). Like Asher, Naphtali lives among them; unlike Asher, the two cities become forced laborers.
@@ -166,6 +176,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Deborah and Barak]] — Judges 4:6, 10; Barak's tribe and half of the ten thousand.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:33; two cities not driven out; lives among the Canaanites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

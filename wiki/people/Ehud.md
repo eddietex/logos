@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### When Ehud was dead — Judges 4:1
+
+*The children of Israel again did that which was evil in Yahweh's sight, when Ehud was dead* (4:1).
+The next oppression is dated from Ehud's death, not Shamgar's, and the eighty years of rest (3:30)
+end with him. See [[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16.
+
 ### The left-handed savior — Judges 3:12–30
 
 *Yahweh raised up a savior for them, Ehud the son of Gera, the Benjamite, a left-handed man* (15). He
@@ -58,6 +66,7 @@ See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–31; 4:1; Hebrew WLC (Op
 - **Judges 4:1** — His death is the marker for Israel's next relapse.
 
 ## Appears in
+- [[Deborah and Barak]] — Judges 4:1; the relapse *when Ehud was dead*.
 - [[Ehud and Eglon]] — Judges 3:12–30
 - [[Shamgar and the Ox Goad]] — Judges 3:31; *after him*.
 

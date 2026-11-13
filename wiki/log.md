@@ -26112,3 +26112,46 @@ here* claims for *malmad*, *Šamgar*, and *ʿĂnāt* are limited to those files.
 verified: *Shamgar* as Hurrian; *Anath* as a Ugaritic goddess; *malmad* from *lāmad*; Shamgar's
 inclusion in later lists of judges; readings of his place in the sequence. No raw text was added or
 changed, and no workflow instruction was changed. `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 4.1-16 — Deborah and Barak
+
+Auto mode. Judges was the only `in-progress` book; ingested its tenth box, [[Deborah and Barak]]
+(Judges 4:1–16). Judges is now 10 / 42. The boundary was kept as planned: 4:17–24 (Jael) stays the
+next box.
+
+Created one passage; five people ([[Deborah (prophetess)]], [[Barak]], [[Sisera]],
+[[Jabin (of Deborah's time)]], [[Heber the Kenite]]); three places ([[Harosheth of the Gentiles]],
+[[Kishon]], [[Deborah's Palm Tree]]); and two connections
+([[Yahweh Confused Them - Hamam in the Wars of Yahweh]], [[The Prophetess - Miriam and Deborah]]).
+Revised nine people ([[Naphtali]], [[Zebulun]], [[Kenites]], [[Hobab]], [[Jabin (of Joshua's time)]],
+[[Ehud]], [[Deborah (Rebekah's nurse)]], [[The Canaanites]], [[Miriam]]), seven places ([[Tabor]],
+[[Kedesh]], [[Hazor]], [[Ramah]], [[Bethel]], [[The Hill Country of Ephraim]],
+[[The Oak in Zaanannim]]), four themes ([[War]], [[Judgment]], [[Prophecy and Vision]], [[Faith]]),
+and four connections ([[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]],
+[[Forest to Clear and Chariots to Face]], [[The Trees of the Patriarchs]],
+[[Yahweh Fights for Israel - The Promise and the Day at Gibeon]]). Updated the book page and books
+index, the people (A-E, F-M, N-Z), places, and connections (D-H, O-S, T-Z) indexes, and the dashboard
+counts. Frontmatter totals: 446 passages, 303 people, 558 places, 87 themes, 851 connections.
+
+Naming: the prophetess takes `Deborah (prophetess)` because [[Deborah (Rebekah's nurse)]] already
+exists. The second Jabin is keyed to the narrative, `Jabin (of Deborah's time)`, as the Joshua page
+was; the two are not identified. *Mount Tabor* is filed on the existing [[Tabor]] page and *Kedesh
+Naphtali* on [[Kedesh]]; the Tabor page no longer says the place is not identified as a mountain.
+Deborah's palm is filed under Benjamin's [[Ramah]] as the natural reading, and the page says the verse
+names no tribe.
+
+Tension recorded, not resolved: Joshua 11:10–13 kills Hazor's king Jabin and burns Hazor; Judges 4:2
+has Jabin reigning in Hazor. Both are on the passage and both Jabin pages.
+
+Judgment calls: Lappidoth and Abinoam get no pages, as Kenaz, Gera, and Anath did not. Jael is not
+linked; she is named first at 4:17 and gets her page with the next pericope. The *woman's hand* of
+4:9 is left open on [[Deborah (prophetess)]] for the next ingest to resolve.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Numbers, Deuteronomy, and Joshua. 1 Samuel 7:10; 12:9; Psalm 83:9; and Hebrews 11:32 (WEB) checked at
+bible-api.com; none of those books was fetched into raw. Hebrew read from the Westminster Leningrad
+Codex (OpenScriptures morphhb, GitHub `wlc/Gen.xml`, `Exod.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`,
+`Judg.xml`, `1Sam.xml`) with its lemma data. The *only here* claims (*tōmer*, *Lappidoth*,
+*Harosheth*) and the counts for *nəbîʾâ* (2) and *hāmam* (7) are limited to those files. Reported as
+claims, not verified: *Lappidoth* as *torches*; *Barak* as *lightning*; *Jabin* as a dynastic name.
+No raw text was added or changed, and no workflow instruction was changed.

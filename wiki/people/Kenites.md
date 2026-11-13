@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Heber's separation — Judges 4:11
+
+*Heber the Kenite had separated himself from the Kenites, even from the children of Hobab, Moses'
+brother-in-law* (4:11). This is the verse that names Hobab as the family's ancestor, and it shows the
+Kenites not all in one place: most with Judah in the south (1:16), one household by Kedesh in the far
+north. 4:17 adds that this household was at peace with Jabin. See [[Heber the Kenite]] and
+[[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; 1:16; 4:17.
+
 ### Going up with Judah — Judges 1:16
 
 *The children of the Kenite, Moses' brother-in-law, went up out of the city of palm trees with the
@@ -30,10 +40,12 @@ Source: stored WEB Numbers 23:27–24:25.
 - Judges 1:16 — Go up from Jericho with Judah and settle south of Arad — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
+- [[Deborah and Barak]] — Judges 4:11; Heber separates from them and pitches near Kedesh.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, settle with Judah.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 ## Related people
+- [[Heber the Kenite]] — the household that separated (Judges 4:11).
 - [[Balaam]]
 
 ## Themes associated

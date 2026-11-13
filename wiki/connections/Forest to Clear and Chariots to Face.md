@@ -7,12 +7,25 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Deborah and Barak]] — Judges 4:3, 13–16; nine hundred chariots of iron confused, and Sisera on foot.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:19; Judah does not take the valley, *because they had chariots of iron*.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[Laws for Going to War]] — Deuteronomy 20:1–4.
 
 ## Analysis
+
+### Nine hundred chariots — Judges 4
+
+[[Deborah and Barak]] gives the chariots a number and an owner: Jabin *had nine hundred chariots of
+iron; and he mightily oppressed the children of Israel for twenty years* (4:3). The obstacle of 1:19
+and Joshua 17:16 has become the reason Israel cries. The answer is the one Joshua gave Joseph's tribes
+(*though they have chariots of iron*, Joshua 17:18), but carried out by Yahweh: *Yahweh confused
+Sisera, all his chariots, and all his army* (4:15). Sisera *abandoned his chariot and fled away on his
+feet*. The book does not say why chariots that stopped Judah could not stop Barak; it says only who
+acted. See [[Yahweh Confused Them - Hamam in the Wars of Yahweh]].
+
+Source: stored WEB Judges 4:1–16; Joshua 17:16–18.
 
 ### The chariots again — Judges 1:19
 

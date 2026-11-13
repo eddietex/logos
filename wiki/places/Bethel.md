@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Deborah's palm — Judges 4:5
+
+Deborah judges *under Deborah's palm tree between Ramah and Bethel* (4:5). It is the second tree near
+Bethel associated with a woman named Deborah: Rebekah's nurse was buried *below Bethel under the oak*
+(Genesis 35:8). The text does not connect them. See [[Deborah's Palm Tree]] and [[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; Genesis 35:8.
+
 ### Bochim, and weeping at Bethel — Judges 2:1–5
 
 Judges 2:1 does not locate [[Bochim]]. The Septuagint is often reported to add *to Bethel* there;
@@ -100,6 +108,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Deborah and Barak]] — Judges 4:5; Deborah's palm, between Ramah and Bethel.
 - [[The Angel at Bochim]] — Judges 2:1–5; possibly near Bochim (Septuagint, unverified).
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–26; taken by the house of Joseph.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
@@ -144,6 +153,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 
 ## Related places
 
+- [[Deborah's Palm Tree]] — between Ramah and Bethel (Judges 4:5).
 - [[Ai]] — the town on the other side of Abram's camp, a mile or two east
 - [[Shechem (city)]] — his first stop, twenty miles north along the same ridge; where the foreign gods
   are buried before the household comes here

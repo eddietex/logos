@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Chariots of iron confused — Judges 4:1–16
+
+Jabin's *nine hundred chariots of iron* are the reason Israel cries (4:3), the obstacle of 1:19 grown
+into an oppressor. The muster is infantry only: ten thousand of Naphtali and Zebulun on Mount Tabor.
+Deborah gives the day and the reason, *Hasn't Yahweh gone out before you?* (4:14), and the battle is
+reported in one verb: *Yahweh confused Sisera, all his chariots, and all his army, with the edge of the
+sword before Barak* (4:15). The pursuit leaves *not a man* (4:16), the clause of Exodus 14:28. See
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]] and [[Forest to Clear and Chariots to Face]].
+
+See [[Deborah and Barak]]. Source: stored WEB Judges 4:1–16; Exodus 14:28; Hebrew WLC.
+
 ### Six hundred with an ox goad — Judges 3:31
 
 [[Shamgar]] *struck six hundred men of the Philistines with an ox goad* (31). No army is mustered and
@@ -970,6 +981,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; the stragglers struck, and war against Amalek deferred until rest.
 - [[Judah Goes Up First]] — Judges 1:1–7; inquiry, alliance, and the first victory after Joshua.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Judah's run of victories, the chariots of iron, and the Jebusites remaining.
+- [[Deborah and Barak]] — Judges 4:1–16; nine hundred chariots of iron confused at the Kishon.
 
 ## Related themes
 

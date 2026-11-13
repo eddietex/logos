@@ -34,7 +34,9 @@ place-name and nowhere in the narration.** See [[The Trees of the Patriarchs]] a
 the root behind *ʾāmēn*. It is used of a wet-nurse and of a foster-parent: Naomi becomes an *ʾōmenet*
 to Obed (Ruth 4:16), and Isaiah has kings as *ʾōmənîm*, foster-fathers, to Zion (Isaiah 49:23).
 **Her name means *bee*** — ***dəbōrâ***, the ordinary Hebrew noun — a name shared with the prophetess
-and judge of Judges 4–5, who is a different woman and gets a different page.
+and judge of Judges 4–5, who is a different woman and gets a different page, [[Deborah (prophetess)]].
+She judged *under Deborah's palm tree between Ramah and Bethel* (Judges 4:5), a second tree near
+Bethel with the name; the text does not connect the two. See [[Deborah's Palm Tree]].
 
 ### Two questions the verse raises, and the wiki answers neither
 
@@ -70,6 +72,7 @@ reached Jacob at the same moment — **and that is a harmonization the text does
 
 ## Related people
 
+- [[Deborah (prophetess)]] — a different woman of the same name (Judges 4–5).
 - [[Rebekah]] — her mistress, whom she followed out of Paddan Aram and whose own death Genesis never
   reports
 - [[Jacob]] — Rebekah's son, in whose household she dies, by a route the book does not describe

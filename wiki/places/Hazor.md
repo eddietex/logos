@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Jabin reigns again — Judges 4:2
+
+*Jabin king of Canaan, who reigned in Hazor* (4:2). Joshua had burned Hazor and killed its king,
+also called Jabin (Joshua 11:1, 10–13). Judges does not say the city was rebuilt; it has a king there
+again, with nine hundred chariots of iron. See [[Jabin (of Deborah's time)]] and [[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; Joshua 11:1–13.
+
 ### The last three lots — Joshua 19:24–48
 
 A Hazor is listed among Naphtali’s fortified cities (36). Whether it is Jabin’s city, burned in 11:10–13, and whether it had been rebuilt, the verse does not say; the notice is kept here because both are northern, without asserting identity.
@@ -22,6 +30,7 @@ Source: stored WEB Joshua 11:1–15.
 **Joshua 12:1–24 — the list of kings.** Its king, Jabin, is counted (12:19). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Deborah and Barak]] — Judges 4:2; Jabin *reigned in Hazor*.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Naphtali’s list.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 - [[The Kings Struck Down]] — Joshua 12:1–24; its king counted.

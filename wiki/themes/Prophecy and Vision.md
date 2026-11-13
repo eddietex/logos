@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The prophetess who judged — Judges 4:4–14
+
+*Deborah, a prophetess* (4:4), the first prophet in Judges and the second woman called *nəbîʾâ* in the
+books read so far, after Miriam (Exodus 15:20; WLC lemma search). She speaks for Yahweh in three ways:
+she quotes his command to Barak (4:6–7), she foretells that *Yahweh will sell Sisera into a woman's
+hand* (4:9), and she names the day of battle (4:14). The second word does not say which woman; the
+next pericope answers it. See [[The Prophetess - Miriam and Deborah]].
+
+See [[Deborah and Barak]]. Source: stored WEB Judges 4:1–16; Hebrew WLC.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Balaam is called the soothsayer in the WEB death notice (22). This designation stands beside his constrained blessing of Israel in Numbers 22–24; the notice gives no new oracle or account of his counsel.
@@ -457,6 +467,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Test
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; a vision and a dream for prophets, *mouth to mouth* for Moses.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the prophet or dreamer whose sign comes true but leads to other gods.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the prophet like Moses instead of the diviners, and the test of the word that does not happen.
+- [[Deborah and Barak]] — Judges 4:4–14; *a prophetess* who judges, sends Barak, and foretells *a woman's hand*.
 
 ## Related themes
 

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The children of Hobab — Judges 4:11
+
+Judges 4:11 is now ingested: *Heber the Kenite had separated himself from the Kenites, even from the
+children of Hobab, Moses' brother-in-law* (stored WEB). The Hebrew is *mibbənê ḥōbāb ḥōtēn mōšeh*
+(WLC), the same *ḥōtēn* the WEB renders *father-in-law* at Numbers 10:29 and Exodus 3:1. The verse
+makes Hobab the ancestor of a Kenite clan, and it puts a household of his descendants near Kedesh, at
+the scene of Israel's battle with Sisera. See [[Heber the Kenite]] and [[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; Numbers 10:29; Exodus 3:1; Hebrew WLC.
+
 ### The unnamed brother-in-law — Judges 1:16
 
 Judges 1:16 sends *the children of the Kenite, Moses' brother-in-law* up with Judah, without a name.
@@ -34,7 +44,7 @@ question is how he relates to [[Jethro]]. The wiki keeps him on a separate page 
 the land with Judah, and Judges 4:11 has *the children of Hobab*, so his people, or some of them, ended up in Canaan. See
 [[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]].
 
-Source: stored WEB Numbers 10; Judges at bible-api.com (`translation=web`), 2026-11-01; Hebrew WLC.
+Source: stored WEB Numbers 10; Judges at bible-api.com (`translation=web`), 2026-11-01, and since stored; Hebrew WLC.
 
 ## Timeline / key events
 
@@ -45,6 +55,7 @@ Source: stored WEB Numbers 10; Judges at bible-api.com (`translation=web`), 2026
 
 ## Appears in
 
+- [[Deborah and Barak]] — Judges 4:11; *the children of Hobab, Moses' brother-in-law*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; probably his family, *the children of the Kenite*.
 - [[The March from Sinai]] — Numbers 10:29–32; asked to come as a guide, and his final answer not recorded.
 

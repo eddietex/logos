@@ -97,6 +97,16 @@ the book to fight the Philistines, the enemy Samson will only *begin* to save Is
 next verse dates the relapse from *when Ehud was dead* (4:1). The Song of Deborah remembers *the days
 of Shamgar* as a time of empty roads (5:6).
 
+[[Deborah and Barak]] (4:1–16) dates the next relapse from Ehud's death. Yahweh *sold* Israel to
+*Jabin king of Canaan, who reigned in Hazor*, the name and city of the king Joshua killed, and his
+captain Sisera's *nine hundred chariots of iron* oppress them twenty years. The deliverer is not raised
+up after the cry; she is already there. *Deborah, a prophetess, … judged Israel at that time*, under
+her palm between Ramah and Bethel, and Israel came to her for judgment. She sends Barak of Kedesh
+Naphtali with Yahweh's command. He will go only if she goes, and she tells him *Yahweh will sell Sisera
+into a woman's hand*. Heber the Kenite's tent is pitched near Kedesh. On her word Barak comes down
+Mount Tabor, *Yahweh confused Sisera* and his chariots, the verb of the sea and of Gibeon, and not a man
+of the army is left. Sisera escapes on foot.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -128,7 +138,7 @@ merge, or reorder them freely.
 - [x] [[Othniel the First Judge]] — Judges 3:7–11
 - [x] [[Ehud and Eglon]] — Judges 3:12–30
 - [x] [[Shamgar and the Ox Goad]] — Judges 3:31
-- [ ] Deborah and Barak — Judges 4:1–16
+- [x] [[Deborah and Barak]] — Judges 4:1–16
 - [ ] Jael and Sisera — Judges 4:17–24
 - [ ] The Song of Deborah — Judges 5:1–31
 - [ ] Midian's Oppression and the Prophet — Judges 6:1–10
@@ -172,6 +182,7 @@ merge, or reorder them freely.
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4).
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
+- [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -183,6 +194,9 @@ merge, or reorder them freely.
 - [[The Amorites]] — press Dan from the valley (1:34–36).
 - [[The Philistines]] — their five lords head the nations left (3:3); Samson's enemies.
 - [[The Hivites]] — on Mount Lebanon (3:3), and among the six Israel lives among (3:5).
+- [[Deborah (prophetess)]] — prophetess and judge (4:4–14).
+- [[Barak]] — commander against Sisera (4:6–16).
+- [[Sisera]] and [[Jabin (of Deborah's time)]] — the oppressors with nine hundred chariots (4:2–3).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -190,3 +204,4 @@ merge, or reorder them freely.
 - [[Canaan]] — the land still being taken.
 - [[Bethel]] — taken by the house of Joseph; once Luz (1:22–26).
 - [[Lebanon]], [[Hermon]], [[Hamath]] — the northern edge of the nations left (3:3).
+- [[Tabor]], [[Kishon]], [[Kedesh]], [[Harosheth of the Gentiles]] — the battle with Sisera (4:6–16).

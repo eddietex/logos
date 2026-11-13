@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sold to Jabin, and a judge who hears cases — Judges 4:1–16
+
+The sale returns: *Yahweh sold them into the hand of Jabin king of Canaan* (4:2), after Moab's
+*strengthening*. Twenty years, the longest oppression yet. Then the word *judge* takes its ordinary
+sense for the first time in the book. *Deborah … judged Israel at that time … and the children of
+Israel came up to her for judgment* (4:4–5), the picture of Moses' court (Exodus 18) and the judges of
+Deuteronomy 16:18. And the sale is turned on the oppressor: *Yahweh will sell Sisera into a woman's
+hand* (4:9), the same verb.
+
+See [[Deborah and Barak]]. Source: stored WEB Judges 4:1–16; Exodus 18; Deuteronomy 16:18; Hebrew WLC.
+
 ### Strengthened against Israel — Judges 3:12–30
 
 The second oppression is described differently from the first. With Cushan Rishathaim, Yahweh's
@@ -1079,6 +1090,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 
 ## Key passages
 
+- [[Deborah and Barak]] — Judges 4:2, 4–5, 9; Israel sold to Jabin; Deborah judging; Sisera to be sold.
 - [[Ehud and Eglon]] — Judges 3:12; *Yahweh strengthened Eglon … against Israel*.
 - [[Othniel the First Judge]] — Judges 3:8; *he sold them into the hand of Cushan Rishathaim*.
 - [[Another Generation Arose]] — Judges 2:14–15, 20–21; *he sold them into the hands of their enemies*.

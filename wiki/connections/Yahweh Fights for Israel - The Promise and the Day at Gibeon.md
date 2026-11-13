@@ -6,6 +6,7 @@ tags: [connection]
 # Yahweh Fights for Israel - The Promise and the Day at Gibeon
 
 ## Passages involved
+- [[Deborah and Barak]] — Judges 4:14–15.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 
 - [[The Southern Cities Taken]] — Joshua 10:28–43.
@@ -16,6 +17,16 @@ tags: [connection]
 - Sources: stored WEB Exodus 9:18–26; Deuteronomy 20:1–4; Joshua 1:5; 10:1–15, as relevant below.
 
 ## Analysis
+
+### Hazor's chariots again — Judges 4:14–15
+
+Judges 4 sets the pattern against a king of Hazor named Jabin a second time, with chariots again
+(Joshua 11:4–6; Judges 4:3). Deborah's word to Barak is a question in the form of the old assurance:
+*Hasn't Yahweh gone out before you?* (4:14). The narrator then gives the victory to Yahweh with the
+verb of Gibeon, *Yahweh confused* (Joshua 10:10; Judges 4:15; *hāmam*, WLC), while Barak's men still
+come down the mountain and pursue. See [[Yahweh Confused Them - Hamam in the Wars of Yahweh]].
+
+See [[Deborah and Barak]]. Source: stored WEB Joshua 10:10; 11:4–6; Judges 4:3, 14–15; Hebrew WLC.
 
 ### The northern coalition — Joshua 11:1–15
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Jabin king of Canaan — Judges 4:1–16
+
+For the first time in Judges, Israel's oppressor is Canaanite: *Jabin king of Canaan, who reigned in
+Hazor* (4:2), with *nine hundred chariots of iron* (4:3). The chariots that kept Judah out of the
+valley (1:19) now oppress Israel for twenty years. They are destroyed at the Kishon. See
+[[Jabin (of Deborah's time)]], [[Sisera]], and [[Deborah and Barak]].
+
+Source: stored WEB Judges 4:1–16; 1:19.
+
 ### Left, and lived among — Judges 3:1–6
 
 *All the Canaanites* are among the nations Yahweh left *to test Israel* (3), and the Canaanites head the
@@ -90,6 +99,7 @@ See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
 
 ## Appears in
 
+- [[Deborah and Barak]] — Judges 4:2–3; Jabin *king of Canaan* and his chariots.
 - [[The Nations Left to Test Israel]] — Judges 3:3, 5–6; left to test Israel, lived among, and married.
 - [[Another Generation Arose]] — Judges 2:12, 21–23; among the nations left to test Israel.
 - [[The Angel at Bochim]] — Judges 2:2–3; *the inhabitants of this land*, now not to be driven out.

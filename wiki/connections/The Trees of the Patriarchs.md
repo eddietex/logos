@@ -113,8 +113,9 @@ Once the pattern is visible it runs through the historical books:
   stone itself made a witness (Joshua 24:26–27) — the same evidentiary logic as Abraham's seven ewe
   lambs at the same kind of site. See [[The Wells of Abraham and the Wells of Isaac]].
 - **Ruled from under a tree.** Abimelech son of Gideon crowned *"by the oak of the pillar that was in
-  Shechem"* (Judges 9:6); Deborah the judge under her palm (Judges 4:5); Saul with his spear under
-  the tamarisk at Gibeah (1 Samuel 22:6).
+  Shechem"* (Judges 9:6); Deborah the judge under her palm (Judges 4:5; see
+  [[Deborah's Palm Tree]], ingested at [[Deborah and Barak]]); Saul with his spear under the tamarisk
+  at Gibeah (1 Samuel 22:6).
 
 **Shechem's tree collects most of it** — Abram's first altar, Jacob's buried gods, Joshua's covenant,
 Abimelech's coronation — which is why the wiki treats that site separately. See
