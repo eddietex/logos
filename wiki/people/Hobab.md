@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The unnamed brother-in-law — Judges 1:16
+
+Judges 1:16 sends *the children of the Kenite, Moses' brother-in-law* up with Judah, without a name.
+Judges 4:11 names *the children of Hobab, Moses' brother-in-law*, and on that basis the wiki reads 1:16
+as Hobab's family. If so, it is the nearest the text comes to showing Moses' promise of Numbers 10:32
+kept, *whatever good Yahweh does to us, we will do the same to you*. The text does not say so.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 **A Midianite relative of Moses, asked to go with Israel from Sinai as its guide.** Numbers 10:29 names him *Hobab, the
 son of Reuel the Midianite, Moses' father-in-law*, and that is nearly everything the Torah says. The name comes only
 here and at Judges 4:11 (WLC, by the tags).
@@ -32,9 +41,11 @@ Source: stored WEB Numbers 10; Judges at bible-api.com (`translation=web`), 2026
 - Numbers 10:29–30 — Invited by Moses, and refuses. [[The March from Sinai]]
 - Numbers 10:31–32 — Asked again, to be Israel's eyes; no answer recorded. [[The March from Sinai]]
 - *(ahead)* Judges 1:16; 4:11 — His people, the Kenites, in the land
+- Judges 1:16 — His family, on the wiki's reading, settles with Judah — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; probably his family, *the children of the Kenite*.
 - [[The March from Sinai]] — Numbers 10:29–32; asked to come as a guide, and his final answer not recorded.
 
 ## Related people

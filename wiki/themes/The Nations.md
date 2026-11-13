@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Kenites in, Jebusites remaining — Judges 1:16, 21
+
+Two foreign peoples end up living with Israel, by opposite routes. The Kenites, listed among the
+peoples of the land in Genesis 15:19, come up with Judah by their own choice and *lived with the
+people* (16). The Jebusites, on every list of nations to be driven out, stay in Jerusalem *with the
+children of Benjamin … to this day* (21) because Benjamin did not drive them out.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Verse 11 lists the seven peoples — *the Amorite, the Perizzite, the Canaanite, the Hittite, the Girgashite, the Hivite, and the Jebusite* — as Deuteronomy 7:1 did, in a different order (stored WEB). Their gods remain an option: *the gods of the Amorites, in whose land you dwell* (15).
@@ -872,6 +881,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
   admitted in the third generation.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; interest permitted from the *nokrî*.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; Amalek's memory to be blotted out from under the sky.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16, 21; the Kenites settle with Judah, and the Jebusites stay in Jerusalem.
 
 ## Related themes
 

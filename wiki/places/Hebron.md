@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Hebron in Judges 1 — Judges 1:10, 20
+
+Judah goes *against the Canaanites who lived in Hebron. (The name of Hebron before that was Kiriath
+Arba.) They struck Sheshai, Ahiman, and Talmai* (10). Then, closing Judah's account, *They gave Hebron
+to Caleb, as Moses had said, and he drove the three sons of Anak out of there* (20). The city has now
+been taken by Joshua (Joshua 10:36–37), cleared by Caleb (Joshua 15:14), and struck by Judah (Judges
+1:10). See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Judah and Simeon to Aaron’s descendants (21:13).  Verses 11–13 distinguish the city and suburbs given to the priests from fields and villages retained by Caleb. This qualifies, rather than silently cancels, the grant in Joshua 14:13–14.
@@ -111,6 +121,7 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:10, 20; Judah strikes the three, and the city is given to Caleb.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
@@ -187,3 +198,4 @@ Absalom launches his revolt from it (15:7–10). It is also named as one of the 
 - David anointed king over Judah, and reigns there seven and a half years — 2 Samuel 2:1–4; 5:5
 - Absalom raises his revolt there — 2 Samuel 15:7–10
 - Its king counted (12:10).
+- Judah strikes the three; the city given to Caleb *as Moses had said* — Judges 1:10, 20 — [[Judah's Conquests and Achsah's Springs]]

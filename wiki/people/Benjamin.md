@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### The Jebusites not driven out — Judges 1:21
+
+The tribe's first appearance in Judges is a failure: *The children of Benjamin did not drive out the
+Jebusites who inhabited Jerusalem, but the Jebusites dwell with the children of Benjamin in Jerusalem
+to this day* (21). It is Joshua 15:63 with Benjamin's name for Judah's, matching Benjamin's allotment
+of Jerusalem in Joshua 18:28. Joshua 15:63 says *couldn't* (*lōʾ yāḵəlû*); Judges 1:21 says *did not*
+(*lōʾ hôrîšû*), without the verb of ability (WLC). It is also the first *did not drive out* in the
+chapter's list of tribal failures, and Benjamin, first to fail here, is the tribe Israel nearly
+destroys at the book's end.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:4, 17–18). The ancestor is not an actor in this distribution.
@@ -193,9 +205,11 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 2 — In Ephraim's camp on the west. [[The Camp Around the Tent]]
 - Numbers 7:60–65 — Benjamin gives ninth at the altar's dedication, through Abidan. [[The Offerings of the Twelve Princes]]
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
+- Judges 1:21 — Does not drive out the Jebusites of Jerusalem — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:21; the Jebusites remain in Jerusalem with Benjamin.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

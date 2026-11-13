@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three old names — Judges 1:10–11, 17
+
+The pericope records three renamings: *The name of Hebron before that was Kiriath Arba* (10), *The
+name of Debir before that was Kiriath Sepher* (11), and Zephath, devoted and called *Hormah* (17). The
+first two are given as old names already replaced; only the third is a naming done in the narrative,
+and its name explains itself by the verb *ḥāram*.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The altar of witness — Joshua 22:34
 
 Reuben and Gad name the altar *A Witness Between Us that Yahweh is God* (WEB). The name states
@@ -506,6 +515,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 - [[The Twelve Spies]] — Numbers 13:16, 24; Hoshea called Joshua, and a valley named for its cluster
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; towns renamed, and land named after its conquerors (38, 41–42).
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:6, 10; the dead man's name kept, and the refuser's house named.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:10–11, 17; Kiriath Arba, Kiriath Sepher, and Zephath renamed.
 
 ## Related themes
 

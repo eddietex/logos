@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A field and springs — Judges 1:12–21
+
+The land is given as a dry field and asked for again as water: *you have set me in the land of the
+South, give me also springs of water* (15). Hebron is given *as Moses had said* (20). At the same time
+the valley is not taken (19) and Jerusalem is not held (21). The chapter's land is part gift received
+and part land still occupied by others.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Given and still to be taken — Judges 1:1–7
 
 Joshua divided the land; Judges begins with it still to be fought for. Yahweh's answer to the
@@ -1518,6 +1527,7 @@ us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB De
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:4; a remarriage that would *"cause the land to sin"*.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:1–15; *"I have come to the land"*; the sojourning father; blessing asked on the ground.
 - [[Judah Goes Up First]] — Judges 1:1–3; the land already *delivered*, and each tribe's lot still to be taken.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:12–21; Achsah's springs, Caleb's Hebron, the valley and Jerusalem not possessed.
 
 ## Related themes
 

@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Taken by Judah — Judges 1:18
+
+*Also Judah took Gaza with its border, and Ashkelon with its border, and Ekron with its border* (18).
+Joshua 13:2–3 had listed the city with Ashkelon and Ekron among *the land that still remains*. The next verse
+says Judah could not dislodge the people of the valley, and later Judges has two of them in Philistine
+hands (Ashkelon at 14:19, Gaza at 16:1–2). It is often said that the Septuagint reads verse 18 as a
+negative; that claim has not been checked here. The WLC reads *wayyilkōd*, *and he took*.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 Allotted to Judah with its towns and villages, *to the brook of Egypt* (47). 10:41 reaches Gaza, 11:22 leaves Anakim there, and 13:3 counts it as remaining; the allotment does not resolve those notices.
@@ -37,6 +47,7 @@ Named as the extent of the Avvim’s villages in the account of their displaceme
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Land That Remains]] — Joshua 13:1–7.
 
@@ -49,3 +60,4 @@ Source: stored WEB Deuteronomy 2:1–23.
 
 ## Events here
 - Named in [[Around Seir and Past Moab and Ammon]]; see the distinction between the journey and the historical aside above.
+- Taken by Judah — Judges 1:18 — [[Judah's Conquests and Achsah's Springs]]

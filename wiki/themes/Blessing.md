@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### A blessing of water — Judges 1:15
+
+*Give me a blessing* (*hāḇāh-lî ḇərāḵāh*, WLC), Achsah says, and names it: *springs of water*. A
+father's blessing to a daughter here is a concrete gift, the means of living on the land he gave.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *I would not listen to Balaam; therefore he blessed you still* (10). The blessing is credited to Yahweh's refusal, as in Deuteronomy 23:5 (stored WEB).
@@ -896,6 +903,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:20; blessing on the one who lends without interest.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13, 19; the poor man's blessing and Yahweh's.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:15; *"bless your people Israel, and the ground"*, after the poor's tithe is given.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:15; *Give me a blessing*, asked as springs.
 
 ## Related themes
 

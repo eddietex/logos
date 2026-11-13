@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A bride for a city, retold — Judges 1:12–15
+
+Caleb's offer of his daughter to the man who takes Kiriath Sepher is repeated from Joshua 15:16–19.
+The marriage is arranged as a prize, but the bride then acts: she urges her husband to ask for a field
+and asks her father herself for springs.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Joshua's farewell to the leaders — Joshua 23:1–16
 
 Marrying into the nations that remain, *and go in to them, and they to you* (12), is the step Joshua warns will end Yahweh's driving them out (13). As in Deuteronomy 7:3–4, the danger is religious: the marriages lead to other gods.
@@ -722,6 +730,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:13–30; the slandered bride, adultery, betrothal treated as marriage, and two marriages without divorce.
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1–5; the bill of divorce, no return after a second marriage, and the newlywed's year.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:5–10; the levirate law and the ceremony of refusal.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:12–15; Achsah given for Kiriath Sepher, then speaking for herself.
 
 ## Related themes
 

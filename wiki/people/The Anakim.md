@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Struck by Judah, driven out by Caleb — Judges 1:10, 20
+
+The chapter names the three twice. In verse 10 *Judah* goes against *the Canaanites who lived in
+Hebron* and *they struck Sheshai, Ahiman, and Talmai*. In verse 20 Caleb *drove the three sons of
+Anak out of there*, as in Joshua 15:14. Joshua 11:21 has already credited Joshua. Verse 10 calls them
+Canaanites, not Anakim; verse 20 calls them *sons of Anak* (*bənê hāʿănāq*, WLC). The text does not
+reconcile the attributions or the labels. See
+[[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Anak is recalled in the explanation of Kiriath Arba’s name (11); this is a naming notice, not another battle.
@@ -81,9 +92,11 @@ See [[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]].
 - Recalled in the people's murmuring — Deuteronomy 1:28, [[The Spies and the Refusal to Go Up]]
 - Cut off by Joshua from Hebron, Debir, and Anab; a remnant left in Gaza, Gath, and Ashdod — Joshua 11:21–22, [[The Whole Land Taken]]
 - Removed from Hebron — Joshua 15:14; Judges 1:10, 20
+- Judges 1:10, 20 — Sheshai, Ahiman, and Talmai struck by Judah and driven out by Caleb — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:10, 20; the three at Hebron, struck by Judah and driven out by Caleb.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

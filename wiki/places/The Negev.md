@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The land of the South — Judges 1:9, 15–16
+
+Judah goes down against the Canaanites *in the South* (9). Achsah's request names its dryness: *you
+have set me in the land of the South, give me also springs of water* (15). The Kenites settle *in the
+south of Arad* (16; WLC *bəneḡeḇ ʿărāḏ*, *in the Negev of Arad*).
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Judah’s cities — Joshua 15:20–63
 
 The first district of Judah's cities is introduced as *the farthest cities ... toward the border of Edom in the South* (21). Thirty-six names follow, though verse 32 totals them as twenty-nine; several reappear in Simeon's list (19:1–9).
@@ -82,6 +90,7 @@ water is promised to: *"Turn again our captivity, Yahweh, like the streams in th
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:9, 15–16; Judah's campaign, Achsah's dry land, and the Kenites south of Arad.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.
 

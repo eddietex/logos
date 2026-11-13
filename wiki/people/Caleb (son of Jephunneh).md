@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Hebron as Moses had said — Judges 1:12–15, 20
+
+Judges repeats the household scene of Joshua 15:16–19: Caleb offers Achsah for Kiriath Sepher,
+Othniel takes it, and Caleb gives her upper and lower springs (12–15). Then, after Judah's whole
+southern campaign, *They gave Hebron to Caleb, as Moses had said, and he drove the three sons of Anak
+out of there* (20), recalling Moses' oath in Joshua 14:9. The same chapter also has Judah strike the
+three at Hebron (10). Caleb's faithfulness is the note on which Judah's account closes before the
+chapter turns to the tribes that did not drive out.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Retains Hebron’s fields and villages while its city and suburbs go to Aaron’s descendants (11–13). The text distinguishes these holdings without mapping their boundaries.
@@ -104,9 +115,11 @@ the tags (1 Chronicles 7:38). The father has no page of his own, since he is onl
 - Named to divide the land for Judah — Numbers 34:19, [[The Borders of the Land]]
 - At eighty-five, receives Hebron — Joshua 14:6–15, [[Caleb Claims Hebron]]
 - Drives out Sheshai, Ahiman, and Talmai — Joshua 15:13–14; Judges 1:20
+- Judges 1:12–15, 20 — Gives Achsah and the springs again; receives Hebron *as Moses had said* — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:12–15, 20; Achsah's springs, and Hebron received.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[Achsah Asks for Springs]] — Joshua 15:13–19.

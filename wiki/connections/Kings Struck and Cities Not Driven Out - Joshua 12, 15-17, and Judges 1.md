@@ -15,9 +15,33 @@ tags: [connection]
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27; the king of Jerusalem killed.
 - [[The Cities of Judah]] — Joshua 15:20–63; Jerusalem's Jebusites not driven out (63).
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33; Geshur and Maacath remain (13).
-- Judges 1:21, 22–25, 27, 29 — WEB checked at bible-api.com, not yet ingested.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:8, 21; Jerusalem taken and burned, and the Jebusites not driven out (stored
+  WEB, now ingested).
+- Judges 1:22–25, 27, 29 — WEB stored, not yet ingested.
 
 ## Analysis
+
+### Jerusalem in Judges 1, and *couldn't* against *didn't* — Judges 1:8, 19, 21
+
+[[Judah's Conquests and Achsah's Springs]] adds a stronger form of the tension. Judges 1:8 says Judah *took* Jerusalem (*wayyilkədû*),
+*struck it with the edge of the sword, and set the city on fire*, and 1:21 says the Jebusites still
+live there with Benjamin *to this day*. Joshua 12 struck a king; Judges 1:8 captures and burns the city
+itself; and still the inhabitants remain. Neither text explains how.
+
+The question left open below, whether *couldn't* and *didn't* differ in the source text, now has an
+answer, read in the WLC (OpenScriptures morphhb):
+
+| Verse | Hebrew | Verb of ability? |
+|---|---|---|
+| Joshua 15:63 | *lōʾ yāḵəlû … ləhôrîšām* | yes, *yāḵōl* |
+| Joshua 17:12 | *wəlōʾ yāḵəlû … ləhôrîš* | yes |
+| Judges 1:19 | *kî lōʾ ləhôrîš* | no; WEB supplies *could* |
+| Judges 1:21 | *lōʾ hôrîšû* | no |
+
+So the English difference reflects the Hebrew in these verses, and Judges 1:19 is elliptical. Judges
+1:27, 29 were not compared in Hebrew in this pass.
+
+Source: stored WEB Joshua 15:63; 17:12; Judges 1:8, 19, 21; WLC, 2026-11-13.
 
 ### Benjamin’s inheritance
 

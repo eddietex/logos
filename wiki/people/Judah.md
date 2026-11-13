@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### Judah's conquests — Judges 1:8–21
+
+The tribe takes and burns Jerusalem (8), goes down against the hill country, the South, and the
+lowland (9), strikes Sheshai, Ahiman, and Talmai at Hebron (10), and goes against Debir (11). It
+keeps its promise to Simeon by going with him to Zephath, which they devote and rename Hormah (17),
+and takes Gaza, Ashkelon, and Ekron (18). Then the run stops: *Yahweh was with Judah; and drove out
+the inhabitants of the hill country; for he could not drive out the inhabitants of the valley,
+because they had chariots of iron* (19). The Hebrew has no verb *could* there (*kî lōʾ ləhôrîš*,
+WLC). Jerusalem, taken in verse 8, is still Jebusite in verse 21 and in Joshua 15:63, where it is
+*the children of Judah* who *couldn't drive them out*. The wiki keeps both reports.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Judah goes up first — Judges 1:1–7
 
 After Joshua's death Israel asks Yahweh who should go up first against the Canaanites, and the
@@ -430,9 +443,11 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 7:12–17 — Judah gives first at the altar's dedication, through Nahshon. [[The Offerings of the Twelve Princes]]
 - Numbers 10:14 — Judah's camp sets out first. [[The March from Sinai]]
 - Judges 1:1–7 — Named by Yahweh to go up first after Joshua's death; with Simeon, wins at Bezek. [[Judah Goes Up First]]
+- Judges 1:8–21 — Takes Jerusalem, Hebron, Debir, Zephath, and three coastal cities; cannot take the valley — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Jerusalem burned, the south taken, Simeon's lot kept, the valley not taken.
 - [[Judah Goes Up First]] — Judges 1:1–7; chosen by Yahweh to go up first; allies with Simeon; defeats Adoni-Bezek.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

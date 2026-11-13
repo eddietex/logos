@@ -27,6 +27,14 @@ so God has done to me*. The same question, *who shall go up for us first*, and t
 *Judah*, return at 20:18 — but there the enemy is Benjamin, a brother tribe. The book's first and
 last wars are framed by one inquiry.
 
+[[Judah's Conquests and Achsah's Springs]] (1:8–21) carries Judah through Jerusalem, which it takes
+and burns, to Hebron, Debir, Zephath renamed Hormah, and three Philistine cities. It repeats from Joshua
+15 Caleb's gift of Achsah to Othniel, the man who will be the first judge, and her request for springs.
+Then the run stops at the valley, *because they had chariots of iron* (1:19), though *Yahweh was with
+Judah*. And the pericope ends with the first *did not drive out*: the Jebusites stay in Jerusalem with
+Benjamin *to this day* (1:21). The burned city of verse 8 is still unpossessed in verse 21. The rest of
+chapter 1 becomes a list of such sentences.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -50,7 +58,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[Judah Goes Up First]] — Judges 1:1–7
-- [ ] Judah's Conquests and Achsah's Springs — Judges 1:8–21
+- [x] [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21
 - [ ] The Tribes That Did Not Drive Out — Judges 1:22–36
 - [ ] The Angel at Bochim — Judges 2:1–5
 - [ ] Another Generation Arose — Judges 2:6–23

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The city of palm trees — Judges 1:16
+
+The Kenites go up *out of the city of palm trees with the children of Judah* (16). Deuteronomy 34:3
+names Jericho *the city of palm trees*, and Judges 3:13 uses the title again when Eglon possesses it.
+Joshua had cursed the rebuilding of Jericho (Joshua 6:26), and the text does not say whether the
+Kenites lived in the ruined city or the oasis around it.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *The men of Jericho fought against you* (11). **Tension recorded:** Joshua 6 narrates no battle — the city is *tightly shut up*, and its walls fall without combat (6:1, stored WEB). The summary may count the closed city as resistance. See [[The Fall of Jericho]].
@@ -177,6 +186,7 @@ Israel does not enter or conquer Jericho in this unit.
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the city of palm trees*, which the Kenites leave.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *the men of Jericho fought against you* (11).
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.

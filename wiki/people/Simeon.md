@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Hormah, the promise kept — Judges 1:17
+
+*Judah went with Simeon his brother, and they struck the Canaanites who inhabited Zephath, and utterly
+destroyed it* (17). Judah had promised in 1:3, *I likewise will go with you into your lot*, and Hormah
+is in Simeon's lot (Joshua 19:4). This is the promise kept, and Simeon's last appearance as an actor
+in Judges 1.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Judah goes up first — Judges 1:1–7
 
 Judah invites *Simeon his brother* to fight with him in Judah's lot, promising to fight in Simeon's
@@ -184,9 +193,11 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 7:36–41 — Simeon gives fifth at the altar's dedication, through Shelumiel. [[The Offerings of the Twelve Princes]]
 - Numbers 10:19 — Simeon marches in Reuben's camp. [[The March from Sinai]]
 - Judges 1:3 — Goes up with Judah *his brother* into Judah's lot; shares the victory at Bezek. [[Judah Goes Up First]]
+- Judges 1:17 — With Judah at Zephath, renamed Hormah, in Simeon's own lot — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:17; Judah comes into Simeon's lot to Zephath, now Hormah.
 - [[Judah Goes Up First]] — Judges 1:1–7; Judah's ally, invited into his lot.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

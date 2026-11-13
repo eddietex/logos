@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Victory, then the valley — Judges 1:8–21
+
+Judah's campaign runs through Jerusalem, the hill country, Hebron, Debir, Zephath, and three coastal
+cities, then stops at the valley: *Yahweh was with Judah … for he could not drive out the inhabitants
+of the valley, because they had chariots of iron* (19). The Hebrew lacks the verb *could* (*kî lōʾ
+ləhôrîš*, WLC). Deuteronomy 20:1 had told Israel, facing *horses, chariots*, *you shall not be
+afraid … for Yahweh your God is with you*. The verse joins the assurance and the failure without
+explaining how.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The first war after Joshua — Judges 1:1–7
 
 Judges' first war begins with an inquiry, *Who should go up for us first against the Canaanites*,
@@ -907,6 +918,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:5; the newly married man exempt from the army for a year.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; the stragglers struck, and war against Amalek deferred until rest.
 - [[Judah Goes Up First]] — Judges 1:1–7; inquiry, alliance, and the first victory after Joshua.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Judah's run of victories, the chariots of iron, and the Jebusites remaining.
 
 ## Related themes
 

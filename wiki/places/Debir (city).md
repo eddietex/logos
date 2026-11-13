@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Kiriath Sepher again — Judges 1:11–13
+
+*From there he went against the inhabitants of Debir. (The name of Debir before that was Kiriath
+Sepher.)* (11). Othniel takes it and receives Achsah (12–13), as in Joshua 15:15–17. Joshua 10:38–39
+has Joshua take and destroy it earlier. The text does not say whether Debir was resettled between.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Judah and Simeon to Aaron’s descendants (21:15).
@@ -39,6 +47,7 @@ Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is ass
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:11–13; taken by Othniel, retold.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
@@ -53,3 +62,4 @@ Source: stored WEB Joshua 10:28–43. No modern identification or dynasty is ass
 ## Events here
 - [[The Southern Cities Taken]] — Joshua attacks and destroys the city, its king, and its dependent cities (38–39). Distinguished from [[Debir (person)]], king of Eglon. Joshua 15:15–17 later reports Othniel taking Debir; a second conquest or overlapping account is possible, but the text does not specify the relationship.
 - Its king counted (12:13).
+- Othniel takes it and marries Achsah — Judges 1:11–13 — [[Judah's Conquests and Achsah's Springs]]

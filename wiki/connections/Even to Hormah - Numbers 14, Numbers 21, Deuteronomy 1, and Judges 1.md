@@ -12,10 +12,20 @@ tags: [connection]
 - [[Arad and Hormah]] — Numbers 21:1–3; the vow, victory, and naming.
 - [[The Sentence and the Presumptuous Ascent]] — Deuteronomy 1:34–46.
 - Joshua 15:30; 19:4 *(WEB checked, not yet ingested)*
-- Judges 1:16–17 — Zephath *(WEB checked, not yet ingested)*
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:17; Zephath *(stored WEB, now ingested)*
 - 1 Samuel 30:30; 1 Chronicles 4:30 *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Judges 1:17 ingested
+
+[[Judah's Conquests and Achsah's Springs]] now holds the verse: *Judah went with Simeon his brother, and they struck the Canaanites who
+inhabited Zephath, and utterly destroyed it. The name of the city was called Hormah.* Judges supplies
+the reason Judah is there: Hormah lies in Simeon's lot (Joshua 19:4), and Judah had promised Simeon in
+1:3, *I likewise will go with you into your lot*. In Judges the naming is part of a promise between
+brother tribes kept, where in Numbers 21 it followed a vow to Yahweh.
+
+Source: stored WEB Judges 1:3, 17; Joshua 19:4; Numbers 21:1–3.
 
 ### Deuteronomy’s sentence and ascent
 

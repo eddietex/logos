@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Going up with Judah — Judges 1:16
+
+*The children of the Kenite, Moses' brother-in-law, went up out of the city of palm trees with the
+children of Judah into the wilderness of Judah, which is in the south of Arad; and they went and lived
+with the people* (16). The Hebrew is *qênî ḥōtēn mōšeh* (WLC), the relation Numbers 10:29 gives Hobab
+or Reuel, which the WEB there renders *father-in-law*. *The city of palm trees* is Jericho
+(Deuteronomy 34:3). The man is unnamed; Judges 4:11 names *Hobab*. The people listed among the
+nations of the promised land (Genesis 15:19) now settle inside Judah.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 The collective people addressed as the Kenite in Numbers 24:21, with Kain in the following verse.
 Their strong rocky dwelling will not prevent captivity by Asshur. This page treats the group
 collectively; it does not identify Kain with Cain of Genesis 4.
@@ -16,8 +27,10 @@ Source: stored WEB Numbers 23:27–24:25.
 ## Timeline / key events
 
 - Numbers 23:27–24:25 — named in Balaam’s oracle, not a separate narrated encounter.
+- Judges 1:16 — Go up from Jericho with Judah and settle south of Arad — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, settle with Judah.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 
 ## Related people

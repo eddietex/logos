@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The Negev of Arad — Judges 1:16
+
+The Kenites settle *in the wilderness of Judah, which is in the south of Arad* (16). Arad marks the
+region; nothing is said of the city itself.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The stages of the journey — Numbers 33:1–49
 
 The king hears of Israel’s coming (40); unlike Numbers 21:1–3, this notice gives no battle outcome.
@@ -22,6 +29,7 @@ and no modern site identification is adopted here.
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; the Kenites settle in its south.
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 
 - [[Arad and Hormah]] — Numbers 21:1–3.

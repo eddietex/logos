@@ -13,11 +13,21 @@ tags: [connection]
 - [[The March from Sinai]] — Numbers 10:29–32; Moses asks Hobab to come, and promises to share the good
 - Genesis 15:19 — the Kenites among the peoples of the promised land *(stored WEB)*
 - Numbers 24:21–22 — Balaam's word to the Kenite *(stored WEB; now ingested in [[Balaam's Last Oracles]])*
-- Judges 1:16 — *the children of the Kenite, Moses' brother-in-law*, go up with Judah *(WEB checked, not yet ingested)*
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, go up with Judah *(stored WEB, now ingested)*
 - Judges 4:11, 17 — *the children of Hobab*, and Jael's tent *(WEB checked, not yet ingested)*
 - 1 Samuel 15:6 — Saul spares the Kenites for their kindness to Israel *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Judges 1:16 ingested
+
+[[Judah's Conquests and Achsah's Springs]] now holds the verse. The WLC reads *ûḇənê qênî ḥōtēn mōšeh*, without the article on *qênî*, and the
+man remains unnamed. *The city of palm trees* they leave is Jericho by Deuteronomy 34:3. They settle
+*in the Negev of Arad* (*bəneḡeḇ ʿărāḏ*) and *lived with the people* (*ʾet-hāʿām*), which the wiki reads
+as Judah. The verse is still the only link between Numbers 10's offer and the Kenites in the land, and
+it still does not name Hobab.
+
+Source: stored WEB Judges 1:16; Deuteronomy 34:3; WLC (OpenScriptures morphhb), 2026-11-13.
 
 ### Balaam’s last oracles
 

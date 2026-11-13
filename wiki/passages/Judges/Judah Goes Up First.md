@@ -83,6 +83,8 @@ there.
   Jerusalem, whose name is close to this one's.
 - [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] — the rest of Judges
   1, and Judah's failure at Jerusalem in Joshua 15:63.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Jerusalem taken, and Judah's promise
+  to Simeon kept at Hormah (17).
 - [[Abram and Lot Separate]] — Genesis 13:7; *the Canaanites and the Perizzites lived in the land*.
 
 ## Notes

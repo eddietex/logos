@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Three cities taken — Judges 1:18
+
+Judah *took Gaza … Ashkelon … and Ekron*, each *with its border* (18): three of the five cities of
+Joshua 13:3. Whether this holding lasted is not said; the next verse says Judah could not take the
+valley, and the Philistines hold Gaza in Samson's day (16:1–2).
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 The coastal strip southwest of Canaan, between the hill country and the sea, running from the Yarkon
 down toward the desert road to [[Egypt]] — and in the Hebrew Bible, the single most persistent
 foreign neighbour Israel has.
@@ -61,6 +69,7 @@ is the Mediterranean as the western limit of the promised border. See [[The Ange
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; Gaza, Ashkelon, and Ekron taken by Judah.
 - [[The Treaty at Beersheba]] — Genesis 21:32, 34; where Abimelech and Phicol go home to, and where
   Abraham then sojourns *many days*
 - [[The Table of Nations]] — Genesis 10:14, the name's only prior occurrence, in the line of Egypt:

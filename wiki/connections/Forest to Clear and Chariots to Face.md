@@ -7,11 +7,24 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:19; Judah does not take the valley, *because they had chariots of iron*.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.
 - [[Laws for Going to War]] — Deuteronomy 20:1–4.
 
 ## Analysis
+
+### The chariots again — Judges 1:19
+
+[[Judah's Conquests and Achsah's Springs]] brings the obstacle back: *Yahweh was with Judah; and drove out the inhabitants of the hill
+country; for he could not drive out the inhabitants of the valley, because they had chariots of iron*.
+Joshua's assurance, *you shall drive out the Canaanites, though they have chariots of iron* (Joshua
+17:18), was given to Joseph's tribes, not Judah, and the WEB gives the obstacle in the same words. In
+Judges, Judah takes the hill country and not the valley. The Hebrew of 1:19 has no verb *could*
+(*kî lōʾ ləhôrîš*, WLC), so the verse does not say whether the failure was one of ability. Judges 4:3
+gives Jabin *nine hundred chariots of iron*, and that is the army Yahweh routs.
+
+Source: stored WEB Joshua 17:16–18; Judges 1:19; 4:3; WLC, 2026-11-13.
 
 Caleb asks for hill country despite its fortified cities and Anakim, grounding his hope in
 Yahweh’s presence (Joshua 14:12). Joseph’s descendants ask for more because they are numerous,

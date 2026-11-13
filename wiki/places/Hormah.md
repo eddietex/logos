@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### Zephath renamed — Judges 1:17
+
+*Judah went with Simeon his brother, and they struck the Canaanites who inhabited Zephath, and utterly
+destroyed it. The name of the city was called Hormah* (17). The WLC has *wayyaḥărîmû … ḥormāh*, *they
+devoted it … Hormah*, the same wordplay as Numbers 21:3. Zephath is otherwise unknown in the wiki's
+texts so far; it is recorded here as Hormah's earlier name rather than given its own page. Hormah is
+in Simeon's lot (Joshua 19:4), so this is Judah keeping its promise of 1:3. See
+[[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]].
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Three tribal lots — Joshua 19:1–23
 
 Listed among Simeon’s towns within Judah’s inheritance (19:4); verse 9 explains the shared territory by Judah’s oversized portion. No new capture is narrated.
@@ -54,6 +65,7 @@ checked.
 **Joshua 12:1–24 — the list of kings.** A king of Hormah is counted among those *Joshua and the children of Israel struck* west of the Jordan (12:14) — between the naming in Numbers 21:3 and the naming in Judges 1:17, and fitting neither easily. See [[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:17; Zephath devoted and renamed by Judah and Simeon.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.
@@ -79,3 +91,4 @@ checked.
 - The people who went up against Moses' word are beaten down this far — Numbers 14:45,
   [[The Defeat at Hormah]]
 - Its king counted among Joshua's (12:14).
+- Judah and Simeon devote Zephath and name it Hormah — Judges 1:17 — [[Judah's Conquests and Achsah's Springs]]

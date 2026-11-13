@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh with Judah, and chariots of iron — Judges 1:19
+
+*Yahweh was with Judah*, and Judah still did not take the valley, *because they had chariots of iron*
+(19). Joshua 17:18 had promised Joseph's tribes that they would drive out the Canaanites *though they
+have chariots of iron*. Judges 1:19 records the presence and the failure together and gives only the
+chariots as reason. Whether the failure lay in Judah's faith is not stated, and the wiki does not
+supply it.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Joseph's bones — Joshua 24:29–33
 
 The burial of Joseph's bones at Shechem (32) completes the act Hebrews 11:22 credits to Joseph's
@@ -539,6 +549,7 @@ and Psalm 106:24 *they didn't believe his word*. See [[The People Refuse the Lan
 - [[Miriam and Aaron Against Moses]] — Numbers 12:7; *neʾĕmān*.
 - [[The Twelve Spies]] — Numbers 13:30–31; *we are well able* and *We aren't able*
 - [[The People Refuse the Land]] — Numbers 14:8–11; *how long will they not believe in me*
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:19; Yahweh's presence and the valley not taken.
 
 ## Related themes
 

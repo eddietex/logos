@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### Taken and burned, and still Jebusite — Judges 1:8, 21
+
+*The children of Judah fought against Jerusalem, took it, struck it with the edge of the sword, and set
+the city on fire* (8). Thirteen verses later, *the Jebusites dwell with the children of Benjamin in
+Jerusalem to this day* (21), and Joshua 15:63 says the same with Judah's name. The WLC has
+*wayyilkədû*, *they captured*, at 1:8, and *lōʾ hôrîšû*, *they did not drive out*, at 1:21. Capturing
+and burning is not occupation, but the text does not say how the three reports fit together. The wiki
+keeps them as written. See
+[[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]].
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### Adoni-Bezek brought to die — Judges 1:1–7
 
 The defeated king of Bezek is brought to Jerusalem and dies there (7). The subject of *They brought
@@ -98,6 +110,7 @@ identified. Source: stored WEB Song 7:10–8:4.
 **Joshua 12:1–24 — the list of kings.** *The king of Jerusalem, one* (12:10) — Adoni-Zedek, killed at Makkedah. Yet Judah *couldn't drive out* the Jebusites (15:63), and Judges 1:21 (WEB checked) says the same of Benjamin. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:8, 21; burned by Judah, and still held by the Jebusites beside Benjamin.
 - [[Judah Goes Up First]] — Judges 1:7; Adoni-Bezek brought there to die.
 - [[The Inheritance of Benjamin]] — Joshua 18:11–28.
 - [[The Cities of Judah]] — Joshua 15:20–63.
@@ -138,3 +151,4 @@ identified. Source: stored WEB Song 7:10–8:4.
   (Ecclesiastes 2:7, 9).
 - Its king counted (12:10).
 - Adoni-Bezek, maimed by Judah, is brought here and dies (Judges 1:7).
+- Judah takes and burns it; the Jebusites remain with Benjamin — Judges 1:8, 21 — [[Judah's Conquests and Achsah's Springs]]

@@ -7,9 +7,27 @@ tags: [connection]
 
 ## Passages involved
 - [[Achsah Asks for Springs]] — Joshua 15:13–19 (stored WEB).
-- Judges 1:10–15 — WEB checked through bible-api.com on 2026-11-11; not yet ingested.
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:10–15 (stored WEB, now ingested).
 
 ## Analysis
+
+### Judges 1:10–15 ingested — the Hebrew differences
+
+The Judges text is now stored and ingested in [[Judah's Conquests and Achsah's Springs]]. Read in the Westminster Leningrad Codex
+(OpenScriptures morphhb), the two accounts are almost identical. Three differences:
+
+- Joshua 15:17 *ʿotniʾēl ben-qənaz ʾăḥî kālēb*; Judges 1:13 adds *haqqāṭōn mimmennû*, *the younger
+  than he*. The phrase could describe Othniel or Kenaz, so the Hebrew does not settle the uncle/nephew
+  question either; the WEB attaches it to Othniel.
+- Joshua 15:18 *śādeh*, *a field*; Judges 1:14 *haśśādeh*, *the field*.
+- The removal of the three at Hebron: Joshua 15:14 has *Caleb* as subject (WEB; Hebrew of 15:14 not
+  compared); Judges 1:10 has *Judah* and a plural verb, *wayyakkû*.
+
+The verb for Achsah's urging is the same in both, *wattəsîtēhû*. The WEB's *had him ask* (Joshua)
+and *got him to ask* (Judges) are two renderings of one word.
+
+Source: stored WEB Joshua 15:13–19; Judges 1:10–15; WLC of Joshua 15:17–18 and Judges 1:10, 13–15,
+2026-11-13.
 
 Both accounts join the action at Hebron to Debir’s capture, Caleb’s marriage offer, Othniel’s
 success, and Achsah’s request for springs. In both, she first involves her husband in asking for

@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### As Moses had said — Judges 1:16, 20
+
+Moses is named twice in Judges 1, both times as a past word or relation: the Kenite is *Moses'
+brother-in-law* (16), and Hebron is given to Caleb *as Moses had said* (20), Moses' oath of Joshua 14:9
+honoured a generation later.
+
+See [[Judah's Conquests and Achsah's Springs]]. Source: stored WEB Judges 1:8–21; comparisons as cited.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *I sent Moses and Aaron, and I plagued Egypt* (5). Moses is named once, as one sent. The ceremony that follows echoes Sinai — the people's pledge, the words written, a book — and Joshua writes in *the book of the law of God* (26), where 23:6 named *the book of the law of Moses*.
@@ -1992,9 +2000,11 @@ After the sentence, Yahweh gives him two speeches for the people, each opening o
 land. No reply from him is reported, and he himself will not be told until 20:12 that he will stay
 out. See [[Offerings in the Land and Sins of Ignorance]].
 - Joshua 12:6 — recalled as striking Sihon and Og and giving the east bank.
+- Judges 1:16, 20 — Remembered: his brother-in-law's family settles; his word to Caleb is kept — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
 
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:16, 20; his *ḥōtēn* and his word about Hebron.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; sent to Egypt (5).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the book of the law of Moses* (6).
 

@@ -25793,3 +25793,41 @@ Codex (OpenScriptures morphhb, GitHub): *kaʾăšer ʿāśîtî kēn šillam-lî
 *mî yaʿăleh-lānû … battəḥillāh* of 1:1 and 20:18, *baYHWH* against *bēʾlōhîm*, the root *qāṣaṣ* in
 1:6–7, and *nāṯattî* in 1:2. Raw texts already stored and workflow instructions are unchanged.
 `scripts/link-check.sh` clean.
+
+## [2026-11-13] ingest | Judges 1.8-21 — Judah's Conquests and Achsah's Springs
+
+Auto mode. Judges was the only `in-progress` book; ingested its second box,
+[[Judah's Conquests and Achsah's Springs]] (Judges 1:8–21). Judges is now 2 / 42. The boundary was
+kept as planned.
+
+Created one passage and one person, [[The Jebusites]], a people named on many pages since Genesis 10
+with no page of their own. Revised eleven people ([[Judah]], [[Simeon]], [[The Anakim]],
+[[Caleb (son of Jephunneh)]], [[Othniel]], [[Achsah]], [[Kenites]], [[Hobab]], [[Moses]],
+[[Benjamin]], [[God]]), eleven places ([[Jerusalem]], [[Hebron]], [[Debir (city)]], [[The Negev]],
+[[Jericho]], [[Arad]], [[Hormah]], [[Gaza]], [[Ashkelon]], [[Ekron]],
+[[The Land of the Philistines]]), seven themes ([[War]], [[Land and Sojourning]], [[Marriage]],
+[[Blessing]], [[The Nations]], [[Names and Naming]], [[Faith]]), six connections
+([[Achsah and the Springs - Joshua 15 and Judges 1]],
+[[Caleb and Hebron - Numbers 13, Joshua 14-15, and Judges 1]],
+[[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]],
+[[Even to Hormah - Numbers 14, Numbers 21, Deuteronomy 1, and Judges 1]],
+[[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]],
+[[Forest to Clear and Chariots to Face]]), and the cross-references of [[Judah Goes Up First]]. Updated
+the book page and books index, the people, places, themes, and connections indexes, and the dashboard
+counts. Frontmatter totals: 438 passages, 285 people, 547 places, 87 themes, 838 connections.
+
+Judgment calls: Jerusalem's capture (1:8) is kept beside Joshua 15:63 and Judges 1:21 without
+harmonizing. The three at Hebron are struck by Judah (1:10) and driven out by Caleb (1:20); both are
+recorded. *Caleb's younger brother* (1:13) is left ambiguous between Othniel and Kenaz. The Kenite's
+*people* (1:16) is read as Judah, labeled a reading. Zephath gets no page of its own; it is recorded on
+[[Hormah]] as the city's former name. No pages were made for Kenaz, the wilderness of Judah, or the
+valley of 1:19. The Septuagint negative reading of 1:18 is reported as a claim, not verified. Hebrew of
+Judges 3:9 was not compared.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Numbers,
+Deuteronomy, Joshua, and later Judges chapters as listed on the passage page. Hebrew of Judges 1:8,
+10, 13–21 and Joshua 15:17–18, 63; 17:12 read from the Westminster Leningrad Codex (OpenScriptures
+morphhb, GitHub). That comparison answers the open question on
+[[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]]: Joshua 15:63 and 17:12
+have *yāḵōl*, *be able*; Judges 1:19 and 1:21 do not. No raw text was added or changed, and no
+workflow instruction was changed. `scripts/link-check.sh` clean.

@@ -13,10 +13,21 @@ tags: [connection]
 - [[The Whole Land Taken]] — Joshua 11:21–22; Joshua cuts off the Anakim (stored WEB)
 - [[Caleb Claims Hebron]] — Joshua 14:6–15, request, blessing, and grant (stored WEB).
 - [[Achsah Asks for Springs]] — Joshua 15:13–19; Caleb drives out the three (stored WEB, now ingested).
-- Judges 1:10, 20 — Judah strikes them, and Hebron goes to Caleb *(WEB and WLC checked, not yet
-  ingested)*
+- [[Judah's Conquests and Achsah's Springs]] — Judges 1:10, 20; Judah strikes them, and Hebron goes to Caleb (stored WEB, now ingested).
 
 ## Analysis
+
+### Judges 1:10 and 1:20 ingested — two accounts in one chapter
+
+[[Judah's Conquests and Achsah's Springs]] now holds both verses. The chapter names the three twice, ten verses apart. In 1:10 Judah goes
+*against the Canaanites who lived in Hebron* and *they struck* (*wayyakkû*) Sheshai, Ahiman, and Talmai.
+In 1:20 Hebron is given to Caleb *as Moses had said, and he drove out* (*wayyôreš*) *the three sons of
+Anak*. The two verbs differ, *strike* and *drive out*, and so do the actors and the labels
+(*Canaanites*, *sons of Anak*). 1:20 is placed after Judah's campaign closes, which makes it a summary
+of Caleb's inheritance rather than another event in sequence; that is a reading of the placement. The
+three-way attribution below stands, with Judges supplying two of its three parts.
+
+Source: stored WEB Judges 1:10, 20; WLC (OpenScriptures morphhb), 2026-11-13.
 
 Joshua 15:13–19 now carries the grant into expulsion, Othniel’s capture of Debir, and
 Achsah’s acquisition of springs. See [[Achsah and the Springs - Joshua 15 and Judges 1]] for the checked WEB
