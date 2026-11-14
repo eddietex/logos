@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Song of Deborah — Judges 5:1–31
+
+*Then Deborah and Barak the son of Abinoam sang on that day* (5:1). Like the Song of the Sea after
+Exodus 14, it retells a victory already told in prose, and adds what the prose left out. It opens
+and closes with Yahweh: *be blessed, Yahweh!* (5:2), *I will sing praise to Yahweh, the God of
+Israel* (5:3), and *So let all your enemies perish, Yahweh* (5:31). In between it calls all classes
+to *rehearse Yahweh's righteous acts* at the watering places (5:10–11), and calls itself to *Awake,
+awake, Deborah! Awake, awake, utter a song!* (5:12). Its praise is not only of Yahweh: it praises
+the tribes that came, shames those that stayed, and blesses Jael. See [[The Song of Deborah]] and
+[[Prose and Song - The Sea in Exodus 14-15 and the Kishon in Judges 4-5]].
+
+Source: stored WEB Exodus 14–15; Judges 5:1–31.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The poem begins with proclamation of Yahweh’s greatness and justice (1–4), accuses Israel, and ends by calling nations to rejoice with his people (43). Song carries warning and promised vindication together. The prose says Moses and Joshua spoke it (44), without describing instruments or a musical performance.
@@ -193,6 +206,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 - [[Return, Return, Shulammite]] — Song of Solomon 6:11–7:9; the upward description.
 - [[The Two Silver Trumpets]] — Numbers 10:10; the trumpets that later join the temple song.
+- [[The Song of Deborah]] — Judges 5:1–31; a victory song after the prose account.
 
 ## Related themes
 - [[The Fear of God]] — *"fearful in praises"*

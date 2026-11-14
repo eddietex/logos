@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Blessing Yahweh, and Jael blessed — Judges 5:2, 9, 24
+
+The Song of Deborah blesses twice in two directions. It blesses Yahweh, *be blessed, Yahweh!* (5:2)
+and *Bless Yahweh!* (5:9), for the people who volunteered. And it blesses a woman: *Jael shall be
+blessed above women, the wife of Heber the Kenite; blessed shall she be above women in the tent*
+(5:24). Her blessing comes in the verse after the curse on Meroz (5:23), so the Song sets a curse on
+the Israelite town that did not come beside a blessing on the Kenite woman who acted. The same words
+of blessing return for Mary in Luke 1:28, 42 (WEB). See [[The Song of Deborah]] and
+[[Blessed Among Women - Jael in Judges 5.24 and Mary in Luke 1]].
+
+Source: stored WEB Judges 5:2, 9, 23–24; Luke 1:28, 42 (WEB) via bible-api.com, 2026-11-13.
+
 ### A blessing of water — Judges 1:15
 
 *Give me a blessing* (*hāḇāh-lî ḇərāḵāh*, WLC), Achsah says, and names it: *springs of water*. A
@@ -904,6 +916,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:13, 19; the poor man's blessing and Yahweh's.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:15; *"bless your people Israel, and the ground"*, after the poor's tithe is given.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:15; *Give me a blessing*, asked as springs.
+- [[The Song of Deborah]] — Judges 5:2, 9, 24; Yahweh blessed; Jael *blessed above women*.
 
 ## Related themes
 

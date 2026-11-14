@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *Beyond the Jordan* — Judges 5:17
+
+*Gilead lived beyond the Jordan* (5:17). In the Song the river is a line between those who came and
+some who did not: Reuben and Gilead, east of it, stayed. See [[The Song of Deborah]].
+
+Source: stored WEB Judges 5:15–17.
+
 ### The fords held against Moab — Judges 3:28
 
 *They followed him, and took the fords of the Jordan against the Moabites, and didn't allow any man to
@@ -454,6 +461,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
   Behemoth's bath. *Yardēn* may here stand for any rushing river rather than the Jordan itself; recorded on
   the passage page
 - [[The Twelve Spies]] — Numbers 13:29; Canaanites along its side
+- [[The Song of Deborah]] — Judges 5:17; *Gilead lived beyond the Jordan*.
 
 ## Related places
 

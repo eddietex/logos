@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### *Governors come down out of Machir* — Judges 5:14
+
+*Governors come down out of Machir* (5:14). Machir stands in the Song for a part of Manasseh, and is
+among those who came. Joshua 17:1 gave Machir *Gilead and Bashan*, but the Song lists *Gilead*
+separately among those who stayed (5:17); which Machirites came and which land the Song means, it
+does not say. See [[The Song of Deborah]].
+
+Source: stored WEB Joshua 17:1; Judges 5:14, 17.
+
 ### Manasseh’s inheritance — Joshua 17:1–13
 
 Verse 1 describes Manasseh’s firstborn, father of Gilead, as a man of war and connects this with
@@ -124,6 +133,7 @@ as anything the chapter is doing.
 - [[The Deaths of Jacob and Joseph]] — Genesis 50:23; **named once, in the book's second-to-last
   scene, as the father of the children Joseph holds.** **The final personal name in Genesis**, and
   the third generation that marks Joseph's life as a completed one
+- [[The Song of Deborah]] — Judges 5:14; *governors come down out of Machir*.
 
 ## Related people
 

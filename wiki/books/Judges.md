@@ -115,6 +115,17 @@ afterwards, *behold*, dead. The narrator gives the victory to God, *God subdued 
 Canaan*, and Israel's hand presses until Jabin is destroyed. The rest-formula waits until after the
 Song.
 
+[[The Song of Deborah]] (5:1–31) tells the same war again as a poem, *Then Deborah and Barak the son of
+Abinoam sang on that day*, as Exodus sings the sea after narrating it. It begins with Yahweh marching
+out of Seir while the earth trembles and Sinai quakes, and remembers *the days of Shamgar* as a time of
+empty roads, until Deborah *arose a mother in Israel*. It names the tribes one by one: Ephraim, Benjamin,
+Machir, Zebulun, Issachar, and Naphtali came; Reuben, Gilead, Dan, and Asher stayed, each asked *why*.
+*The kings of Canaan fought at Taanach*, *the stars fought* from heaven, and *the river Kishon swept
+them away*. Yahweh's angel curses Meroz for not coming; Jael is *blessed above women*, and Sisera falls
+*at her feet*. The last scene is his mother at her lattice, imagining plunder. The Song never names
+Jabin, and it lists six tribes where the prose had two; the wiki records those differences rather than
+harmonizing them. *Then the land had rest forty years.*
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -148,7 +159,7 @@ merge, or reorder them freely.
 - [x] [[Shamgar and the Ox Goad]] — Judges 3:31
 - [x] [[Deborah and Barak]] — Judges 4:1–16
 - [x] [[Jael and Sisera]] — Judges 4:17–24
-- [ ] The Song of Deborah — Judges 5:1–31
+- [x] [[The Song of Deborah]] — Judges 5:1–31
 - [ ] Midian's Oppression and the Prophet — Judges 6:1–10
 - [ ] The Call of Gideon — Judges 6:11–24
 - [ ] Gideon Throws Down Baal's Altar — Judges 6:25–32

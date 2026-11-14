@@ -15,8 +15,8 @@ tags: [connection]
   WEB)
 - [[Shamgar and the Ox Goad]] — **Judges 3:31** — no rest notice; *He also saved Israel.* (stored
   WEB)
-- **Judges 5:31** — after Deborah: *Then the land had rest forty years.* (stored WEB) *(not yet
-  ingested)*
+- [[The Song of Deborah]] — **Judges 5:31** — after Deborah: *Then the land had rest forty years.*
+  (stored WEB). The formula is held back from 4:24 to the end of the Song.
 - **Judges 8:28** — after Gideon: *The land had rest forty years in the days of Gideon.* (stored WEB)
   *(not yet ingested)*
 - **Judges 18:7, 27** — Laish, *quiet and secure*, then *a people quiet and unsuspecting* (stored WEB)

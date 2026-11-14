@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Named in Jael's blessing — Judges 5:24
+
+*Jael shall be blessed above women, the wife of Heber the Kenite* (5:24). The Song names him only as
+her husband, as the prose did, and says nothing of the peace between his house and Jabin (4:17). See
+[[The Song of Deborah]].
+
+Source: stored WEB Judges 4:17; 5:24.
+
 ### The house at peace with Jabin — Judges 4:17, 21
 
 The reason for 4:11 arrives: *there was peace between Jabin the king of Hazor and the house of Heber the
@@ -42,6 +50,7 @@ Source: stored WEB Judges 1:16; 4:11, 17; Genesis 46:17; Hebrew WLC.
 ## Appears in
 - [[Jael and Sisera]] — Judges 4:17, 21; his house at peace with Jabin; his wife Jael kills Sisera.
 - [[Deborah and Barak]] — Judges 4:11; his tent pitched near Kedesh.
+- [[The Song of Deborah]] — Judges 5:24; *the wife of Heber the Kenite*.
 
 ## Related people
 - [[Kenites]]

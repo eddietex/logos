@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### *The kings of Canaan fought* — Judges 5:19
+
+*The kings came and fought, then the kings of Canaan fought at Taanach by the waters of Megiddo.
+They took no plunder of silver* (5:19). Taanach and Megiddo are two of the cities whose Canaanites
+Manasseh *did not drive out* (1:27). The Song's enemy is a coalition of kings, not Jabin alone. See
+[[The Song of Deborah]].
+
+Source: stored WEB Judges 1:27; 5:19.
+
 ### Jabin king of Canaan destroyed — Judges 4:23–24
 
 *God subdued Jabin the king of Canaan* (4:23), and Israel's hand *prevailed more and more* against him
@@ -125,6 +134,7 @@ See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
 - [[Abram and Lot Separate]] — Genesis 13:7.
 - [[The Call of Abram]] — Genesis 12:6.
 - [[The Table of Nations]] — Genesis 10:15–18.
+- [[The Song of Deborah]] — Judges 5:19; *the kings of Canaan* at Taanach.
 
 ## Related people
 - [[Canaan (son of Ham)]] — their ancestor in Genesis 10.

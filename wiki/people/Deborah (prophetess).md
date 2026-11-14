@@ -7,6 +7,21 @@ tags: [person]
 
 ## Overview
 
+### The Song, and *a mother in Israel* — Judges 5:1–31
+
+*Then Deborah and Barak the son of Abinoam sang on that day* (5:1). The verb is feminine singular,
+*wattāšar* (WLC), agreeing with Deborah, named first; that puts her first without proving she
+composed it. The Song speaks in her voice: *The rulers ceased in Israel. They ceased until I,
+Deborah, arose; Until I arose a mother in Israel* (5:7). The form *šaqqamtî* can also be read *until
+you arose*; reported, not verified. Her title in the Song is not *prophetess* or *judge* but *ʾēm
+bəyiśrāʾēl*, *a mother in Israel*, the same noun the Song later uses of *Sisera's mother* (5:28).
+The Song calls her to *awake … utter a song* (5:12), and *the princes of Issachar were with Deborah*
+(5:15). Like Miriam after the sea, she sings after a victory over chariots. See
+[[The Song of Deborah]], [[Prose and Song - The Sea in Exodus 14-15 and the Kishon in Judges 4-5]],
+and [[Sisera's Mother]].
+
+Source: stored WEB Judges 5:1–31; Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
+
 ### The woman's hand fulfilled — Judges 4:21–22
 
 *Yahweh will sell Sisera into a woman's hand* (4:9) is fulfilled by Jael, not Deborah: *Jael Heber's
@@ -50,11 +65,12 @@ Source: stored WEB Judges 4:1–16; Hebrew WLC (OpenScriptures morphhb), 2026-11
 - Judges 4:6–7 — summons Barak and gives him Yahweh's command.
 - Judges 4:8–10 — agrees to go, foretells *a woman's hand*, and goes up with him to Kedesh.
 - Judges 4:14 — gives the word for battle.
-- Judges 5 — sings with Barak (not yet ingested).
+- Judges 5:1–31 — sings with Barak; *a mother in Israel* (5:7).
 
 ## Appears in
 - [[Jael and Sisera]] — Judges 4:21–22; her word of *a woman's hand* (4:9) fulfilled by Jael.
 - [[Deborah and Barak]] — Judges 4:1–16; prophetess and judge, who sends Barak and goes with him.
+- [[The Song of Deborah]] — Judges 5:1–31; sings first; *I arose a mother in Israel* (7).
 
 ## Related people
 - [[Barak]] — the commander she summons.
@@ -62,6 +78,7 @@ Source: stored WEB Judges 4:1–16; Hebrew WLC (OpenScriptures morphhb), 2026-11
 - [[Miriam]] — the other *prophetess* of the books read so far.
 - [[Deborah (Rebekah's nurse)]] — a different woman of the same name.
 - [[Jael]] — the woman into whose hand Sisera was sold.
+- [[Sisera's Mother]] — the other *mother* of the Song (5:7, 28).
 
 ## Themes associated
 - [[Prophecy and Vision]]

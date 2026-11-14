@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### *By the waters of Megiddo* — Judges 5:19
+
+*The kings of Canaan fought at Taanach by the waters of Megiddo* (5:19). The *waters* are not named
+further; they may be the Kishon of 5:21 or its streams, which is a reading. Megiddo, like Taanach,
+was left to its Canaanites (1:27). See [[The Song of Deborah]].
+
+Source: stored WEB Judges 1:27; 5:19, 21.
+
 ### Not driven out — Judges 1:27
 
 Last of Manasseh's five cities not driven out (27), as in Joshua 17:11–12; its king is counted in Joshua 12:21.
@@ -29,9 +37,11 @@ Source: stored WEB Joshua 12–21 at the verses cited; Judges 1:27 checked at bi
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27; not driven out by Manasseh.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Kings Struck Down]] — Joshua 12:1–24
+- [[The Song of Deborah]] — Judges 5:19; *by the waters of Megiddo*.
 
 ## Related places
 - [[Taanach]] — paired with it in the list (12:21) and in 17:11.
 
 ## Events here
 - Its king is struck (12:21); no account of the battle is given.
+- The battle of the kings of Canaan nearby (Judges 5:19).

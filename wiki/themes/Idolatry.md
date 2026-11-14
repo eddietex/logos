@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *They chose new gods* — Judges 5:8
+
+*They chose new gods. Then war was in the gates. Was there a shield or spear seen among forty
+thousand in Israel?* (5:8). The Song of Deborah puts the cycle of 2:11–15 into one line: other gods,
+then the enemy at the gate. *Yibḥar ʾĕlōhîm ḥădāšîm* (WLC) has a singular verb; WEB's *they chose*
+takes Israel as subject. A reading with *ʾĕlōhîm* as subject, *God chose new things*, is reported,
+not verified. *New gods* recalls Deuteronomy 32:17, *new gods that came up recently* (stored WEB).
+See [[The Song of Deborah]].
+
+Source: stored WEB Deuteronomy 32:17; Judges 2:11–15; 5:8; Hebrew WLC.
+
 ### The stone idols by Gilgal — Judges 3:19, 26
 
 The book gives no idolatry charge beyond the formula, *again did that which was evil* (12). But in the
@@ -642,6 +653,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no Asherah by Yahweh's altar, no sacred stone; the worship of sun, moon, and stars judged.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–14, 20; the nine practices of the nations, and the prophet in the name of other gods.
 - [[Laws for Going to War]] — Deuteronomy 20:18; *ḥērem* so that the nations *"not teach you to follow all their abominations"*.
+- [[The Song of Deborah]] — Judges 5:8; *they chose new gods. Then war was in the gates*.
 
 ## Related themes
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:2–4; **the only religious reform any

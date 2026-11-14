@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### *At the haven of the sea* — Judges 5:17
+
+*Asher sat still at the haven of the sea, and lived by his creeks* (5:17). Asher stayed. The words
+are Genesis 49:13's for Zebulun, *ləḥôp yammîm*, *at the haven of the sea*, with the same verb
+*šākan*, *dwell* (WLC). Judges 1:31–32 had Asher living *among the Canaanites*. See
+[[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]]; also
+[[The Song of Deborah]].
+
+Source: stored WEB Genesis 49:13; Judges 1:31–32; 5:17; Hebrew WLC.
+
 ### Living among the Canaanites — Judges 1:31–32
 
 Asher has the longest list in the chapter: Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob (31). And for the first time the relation is reversed: *the Asherites lived among the Canaanites, the inhabitants of the land* (32), *bəqereb hakkənaʿănî* (WLC). Unlike Manasseh, Zebulun, and Naphtali, Asher is not said to impose forced labor.
@@ -214,6 +224,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:72–77; gives eleventh, through Pagiel.
 - [[The March from Sinai]] — Numbers 10:26; in the rear camp, under Pagiel.
+- [[The Song of Deborah]] — Judges 5:17; sits still *at the haven of the sea*.
 
 ## Related people
 

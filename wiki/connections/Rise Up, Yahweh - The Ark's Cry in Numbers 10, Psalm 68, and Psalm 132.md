@@ -53,6 +53,11 @@ the same noun, so the temple is not the end of the word's story. Hebrews 4:9 the
 Sabbath rest for the people of God*, though the Greek there was not checked for this page and it is arguing from Psalm 95,
 not Numbers.
 
+**Psalm 68 and the Song of Deborah.** Psalm 68:7–8 (WEB) shares its wording with Judges 5:4–5: *when
+you went out … when you marched … the earth trembled … the God of Sinai* (WLC Psalm 68:8–9; Judges
+5:4–5). The psalm's march through the wilderness and the Song's march from Seir are the same
+picture. See [[Yahweh Marched from Seir - Deuteronomy 33.2, Judges 5.4-5, and Psalm 68.7-8]].
+
 ## Significance
 
 The texts do not cite one another as a chain, and the sequence is the wiki's. What the wording supports is smaller and

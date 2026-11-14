@@ -7,6 +7,21 @@ tags: [person]
 
 ## Overview
 
+### He marches from Seir, and the stars fight — Judges 5:1–31
+
+The Song of Deborah begins with Yahweh setting out: *Yahweh, when you went out of Seir, when you
+marched out of the field of Edom, the earth trembled … The mountains quaked Yahweh's presence, even
+Sinai* (5:4–5). The battle is in the north; the god comes from the south, from the mountain of the
+law. *Yahweh came down for me against the mighty* (5:13). The victory is his *righteous acts*
+(*ṣidqôt yhwh*, 5:11, WLC). *From the sky the stars fought* and *the river Kishon swept them away*
+(5:20–21): where the prose said *Yahweh confused Sisera* (4:15), the Song names his allies in heaven
+and earth. The town that did not come is cursed for not coming *to help Yahweh* (5:23). The Song
+ends *So let all your enemies perish, Yahweh, but let those who love him be as the sun when it rises
+in its strength* (5:31). See [[The Song of Deborah]] and
+[[Yahweh Marched from Seir - Deuteronomy 33.2, Judges 5.4-5, and Psalm 68.7-8]].
+
+Source: stored WEB Judges 4:15; 5:1–31; Hebrew WLC.
+
 ### He strengthens the enemy, and raises up a left-handed savior — Judges 3:12–30
 
 This time he does not *sell* Israel: *Yahweh strengthened Eglon the king of Moab against Israel,
@@ -4929,6 +4944,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:1–9; gives the land (1), chose the priests (5), asked to *kipper* for the people he redeemed (8).
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:10–23; delivers the enemy into Israel's hand, and the hanged man *"accursed of God"*.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:1–12; abomination (5); the promise of long days (7).
+- [[The Song of Deborah]] — Judges 5:1–31; marches from Seir; the stars fight for him.
 
 ## Related people
 

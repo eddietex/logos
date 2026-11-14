@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The stars in their courses — Judges 5:20–21, 31
+
+*From the sky the stars fought. From their courses, they fought against Sisera. The river Kishon
+swept them away* (5:20–21). The Song says what the prose of 4:15 compressed into *Yahweh confused
+Sisera*: heaven and the river were on Israel's side. The stars fight *from their courses*, keeping
+their order, and the river is *that ancient river*. The Song closes with the land's rest, *forty
+years* (5:31). See [[The Song of Deborah]].
+
+Source: stored WEB Judges 4:15; 5:20–21, 31.
+
 ### A tent pitched in advance — Judges 4:11, 17–23
 
 Judges 4:11 interrupts the muster to say Heber had pitched his tent near Kedesh; 4:17 explains why
@@ -694,6 +704,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; route and timing set by the cloud, with no reason given.
 - [[The March from Sinai]] — Numbers 10:29–34; God's leading and Hobab's knowledge in one paragraph.
 - [[Jael and Sisera]] — Judges 4:11, 17–23; Heber's tent and treaty, and *God subdued Jabin*.
+- [[The Song of Deborah]] — Judges 5:20–21; the stars and the Kishon fight.
 
 ## Related themes
 

@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### *Gilead lived beyond the Jordan* — Judges 5:17
+
+Gilead is among those who did not come to the battle against Sisera: *Gilead lived beyond the
+Jordan* (5:17). It is named in the Song as if it were a tribe, between Reuben and Dan. It is often
+taken to stand for Gad, which the Song does not otherwise name; that is a reading, not stated.
+Joshua 17:1 gave *Gilead and Bashan* to Machir, and the Song lists Machir among those who came
+(5:14), so the Song's Gilead and its Machir are not the same group; the text does not explain the
+difference. Judges 21:8–12 later destroys Jabesh Gilead for not coming to Mizpah. See
+[[The Song of Deborah]] and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]].
+
+Source: stored WEB Joshua 17:1; Judges 5:14, 17; 21:8–12.
+
 ### The altar of witness — Joshua 22:10–34
 
 The delegation goes *into the land of Gilead* and returns from it (13, 15, 32). Verse 19 asks
@@ -169,6 +182,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
   repeated at 6:5, *"that lie along the side of Gilead"* (now ingested in [[My Dove Is Unique]]).
 - [[My Dove Is Unique]] — Song of Solomon 6:5; the goats in the hair comparison return.
 - [[The Kings Struck Down]] — Joshua 12:1–24; divided between Sihon and Og.
+- [[The Song of Deborah]] — Judges 5:17; *Gilead lived beyond the Jordan*.
 
 ## Related places
 

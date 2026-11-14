@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### *On the high places of the field* — Judges 5:18
+
+*Zebulun was a people that jeopardized their lives to the death; Naphtali also, on the high places
+of the field* (5:18). Barak's own tribe closes the roll of those who came, as it and Zebulun were
+the whole muster in the prose (4:6, 10). See [[The Song of Deborah]].
+
+Source: stored WEB Judges 4:6, 10; 5:18.
+
 ### Barak's tribe — Judges 4:1–16
 
 Barak comes *out of Kedesh Naphtali* (4:6), and Yahweh's command is to take *ten thousand men of the
@@ -240,6 +248,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Dan's camp on the north.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:78–83; gives twelfth, through Ahira.
 - [[The March from Sinai]] — Numbers 10:27; in the rear camp, under Ahira.
+- [[The Song of Deborah]] — Judges 5:18; *on the high places of the field*.
 
 ## Related people
 

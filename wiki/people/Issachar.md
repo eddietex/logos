@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### *With Deborah* — Judges 5:15
+
+*The princes of Issachar were with Deborah. As was Issachar, so was Barak. They rushed into the
+valley at his feet* (5:15). The prose did not name Issachar. Genesis 49:14 had Issachar *lying down
+between the saddlebags* (*bên hammišpətāyim*, WLC); in the Song the same rare noun is where Reuben
+sits, *among the sheepfolds* (5:16), while Issachar goes down to the valley. See
+[[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]]; also
+[[The Song of Deborah]].
+
+Source: stored WEB Genesis 49:14; Judges 5:15–16; Hebrew WLC.
+
 ### Levitical cities — Joshua 21:1–42
 
 The tribe descended from him contributes cities and suburbs to the Levites (21:6, 28–29). The ancestor is not an actor in this distribution.
@@ -215,6 +226,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Judah's camp on the east.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:18–23; gives second, through Nethanel.
 - [[The March from Sinai]] — Numbers 10:15; in the first camp, under Nethanel.
+- [[The Song of Deborah]] — Judges 5:15; *the princes of Issachar were with Deborah*.
 
 ## Related people
 

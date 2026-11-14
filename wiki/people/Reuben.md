@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### *Why did you sit among the sheepfolds?* — Judges 5:15–16
+
+*By the watercourses of Reuben, there were great resolves of heart. Why did you sit among the
+sheepfolds? To hear the whistling for the flocks? At the watercourses of Reuben, there were great
+searchings of heart* (5:15–16). Reuben resolved, deliberated, and did not come. *Resolves* and
+*searchings* differ by one consonant (*ḥiqqəqê*, *ḥiqrê*, WLC). The tribe that pledged in Numbers
+32:17 to be *ready armed to go before the children of Israel* is the first the Song shames for
+staying behind. See [[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]] and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]]; also
+[[The Song of Deborah]].
+
+Source: stored WEB Numbers 32:17; Judges 5:15–16; Hebrew WLC.
+
 ### The altar of witness — Joshua 22:10–34
 
 The Reubenite descendants help build the altar by the Jordan, answer the charge of rebellion, and
@@ -440,6 +453,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The March from Sinai]] — Numbers 10:18; leads the second camp, under Elizur.
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:30; the law against taking the father's wife, without his name.
 - [[The Kings Struck Down]] — Joshua 12:1–24; the tribe receives the east bank.
+- [[The Song of Deborah]] — Judges 5:15–16; stays *among the sheepfolds*.
 
 ## Related people
 

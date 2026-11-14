@@ -12,6 +12,14 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### *Out of Ephraim* — Judges 5:14
+
+*Those whose root is in Amalek came out of Ephraim, after you, Benjamin, among your peoples* (5:14).
+Ephraim is the first tribe named among those who came to the battle against Sisera. Deborah's own
+palm stood *in the hill country of Ephraim* (4:5). See [[The Song of Deborah]].
+
+Source: stored WEB Judges 4:5; 5:14.
+
 ### Gezer — Judges 1:29
 
 *Ephraim didn't drive out the Canaanites who lived in Gezer, but the Canaanites lived in Gezer among them* (29). Joshua 16:10 had said the same, adding *to this day* and forced labor; Judges 1:29 has neither. Ephraim is also half of *the house of Joseph* that takes Bethel (22–25).
@@ -252,6 +260,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:48–53; gives seventh, through Elishama.
 - [[The March from Sinai]] — Numbers 10:22; leads the third camp, under Elishama.
 - [[The Twelve Spies]] — Numbers 13:8; Hoshea is its man, listed apart from Manasseh
+- [[The Song of Deborah]] — Judges 5:14; the first tribe named among those who came.
 
 ## Related people
 

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Through the lattice — Judges 5:28
+
+Sisera's mother *looked through the lattice* (5:28) for a son the reader has already seen die
+(5:27). She sees the road and not what has happened. See [[Sisera's Mother]] and
+[[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]].
+
+Source: stored WEB Judges 5:27–28.
+
 ### The death of Moses — Deuteronomy 34:1–12
 
 Yahweh *showed him* the land and says *I have caused you to see it with your eyes* (1, 4). The seeing is Yahweh's act; the sight replaces entry. The deeds of Moses were done *in the sight of all Israel* (12).
@@ -752,6 +760,7 @@ glory appears to all Israel (10). See [[The People Refuse the Land]].
 - [[Miriam and Aaron Against Moses]] — Numbers 12:8, 10; Yahweh's form, and Miriam's skin.
 - [[The Twelve Spies]] — Numbers 13:18, 33; *in our own sight*, and *in their sight*
 - [[The People Refuse the Land]] — Numbers 14:10, 14, 22–23; those who saw will not see
+- [[The Song of Deborah]] — Judges 5:28; Sisera's mother at the window.
 
 ## Related themes
 

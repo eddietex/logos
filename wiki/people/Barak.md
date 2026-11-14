@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Singing with Deborah — Judges 5:1, 12, 15
+
+Barak sings the Song with Deborah (5:1), though the verb is feminine singular and agrees with her
+(*wattāšar*, WLC). The Song addresses him once: *Arise, Barak, and lead away your captives, you son
+of Abinoam* (5:12), and places him with the tribe that came: *As was Issachar, so was Barak. They
+rushed into the valley at his feet* (5:15). It gives him no further part. The killing of Sisera, the
+honor of 4:9, is Jael's in the Song as in the prose (5:24–27). See [[The Song of Deborah]].
+
+Source: stored WEB Judges 5:1, 12, 15, 24–27; Hebrew WLC.
+
 ### Second to the tent — Judges 4:22
 
 Barak is still pursuing when Jael comes out to meet him: *Come, and I will show you the man whom you
@@ -43,10 +53,12 @@ Source: stored WEB Judges 4:1–16; Hebrews 11:32 (WEB) via bible-api.com, 2026-
 - Judges 4:8–9 — will go only if Deborah goes.
 - Judges 4:10 — musters Zebulun and Naphtali, ten thousand men.
 - Judges 4:14–16 — comes down from Tabor and pursues the chariots to Harosheth.
+- Judges 5:1, 12 — sings with Deborah; *lead away your captives*.
 
 ## Appears in
 - [[Jael and Sisera]] — Judges 4:22; arrives in pursuit and is shown Sisera dead.
 - [[Deborah and Barak]] — Judges 4:1–16; the commander who asks Deborah to go with him.
+- [[The Song of Deborah]] — Judges 5:1, 12, 15; sings with Deborah; *Arise, Barak*.
 
 ## Related people
 - [[Deborah (prophetess)]]
@@ -54,6 +66,7 @@ Source: stored WEB Judges 4:1–16; Hebrews 11:32 (WEB) via bible-api.com, 2026-
 - [[Naphtali]] — his tribe and town.
 - [[Zebulun]]
 - [[Jael]] — who shows him the body.
+- [[Issachar]] — *As was Issachar, so was Barak* (5:15).
 
 ## Themes associated
 - [[War]]

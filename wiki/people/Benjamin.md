@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### *After you, Benjamin* — Judges 5:14
+
+*Came out of Ephraim, after you, Benjamin, among your peoples* (5:14). Benjamin is among the tribes
+that came. The Song praises the tribe that Judges 20–21 will nearly destroy. See
+[[The Song of Deborah]].
+
+Source: stored WEB Judges 5:14.
+
 ### Ehud the Benjamite — Judges 3:12–30
 
 The second savior is *Ehud the son of Gera, the Benjamite, a left-handed man* (15). The Hebrew,
@@ -302,6 +310,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Ephraim's camp on the west.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:60–65; gives ninth, through Abidan.
 - [[The March from Sinai]] — Numbers 10:24; in the third camp, under Abidan.
+- [[The Song of Deborah]] — Judges 5:14; among the tribes that came.
 
 ## Related people
 

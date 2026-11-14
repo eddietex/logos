@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[Ehud and Eglon]] — Judges 3:16–26
 - [[Jael and Sisera]] — Judges 4:17–22
+- [[The Song of Deborah]] — Judges 5:27, the fall retold
 
 ## Analysis
 
@@ -47,6 +48,11 @@ already won. Eglon is a king; Sisera is a king's general who has lost his army.
 **What the pattern does.** Judges tells its early deliverances through hidden, single-handed killings by
 unlikely people: a left-handed man, then a woman in a tent, both of whom go in alone. The book does not
 comment on the method in either case; it reports the result, the enemy *subdued* (3:30; 4:23).
+
+**The Song's version.** Judges 5:27 retells Sisera's end with the verb of Eglon's: *there he fell
+down dead*, *šām nāpal šādûd* (WLC), where Eglon's servants found him *nōpēl*, *fallen* (3:25). The
+Song has no discoverers; its last scene is Sisera's mother, still waiting (5:28–30). See
+[[The Song of Deborah]].
 
 ## Significance
 

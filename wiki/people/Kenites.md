@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### *The wife of Heber the Kenite* — Judges 5:24
+
+The Song blesses a Kenite woman *above women* (5:24). The tribes of Israel who stayed home are
+shamed (5:15–17) and the town of Meroz cursed (5:23), and the one non-Israelite named on Israel's
+side is blessed. See [[The Song of Deborah]] and
+[[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]].
+
+Source: stored WEB Judges 5:15–17, 23–24.
+
 ### Jael's tent — Judges 4:17–22
 
 *The house of Heber the Kenite* was at peace with Jabin (4:17), and Sisera dies in the tent of Heber's
@@ -53,6 +62,7 @@ Source: stored WEB Numbers 23:27–24:25.
 - [[Deborah and Barak]] — Judges 4:11; Heber separates from them and pitches near Kedesh.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, settle with Judah.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
+- [[The Song of Deborah]] — Judges 5:24; Jael, *the wife of Heber the Kenite*, blessed.
 
 ## Related people
 - [[Heber the Kenite]] — the household that separated (Judges 4:11).

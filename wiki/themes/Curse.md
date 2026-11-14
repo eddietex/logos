@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Curse Meroz* — Judges 5:23
+
+*'Curse Meroz,' said Yahweh's angel. 'Curse bitterly its inhabitants, because they didn't come to
+help Yahweh, to help Yahweh against the mighty'* (5:23). The verb *ʾārar* three times in one line
+(*ʾôrû … ʾōrû ʾārôr*, WLC). The fault is absence: not a sin committed but help withheld. The curse
+is spoken by Yahweh's angel, and the Song reports nothing done to the town. See [[Meroz]],
+[[The Song of Deborah]], and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]].
+
+Source: stored WEB Judges 5:23; Hebrew WLC.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Balak called Balaam *to curse you* (9), and Yahweh would not listen (10). The covenant's own threat follows without the word *curse*: Yahweh *will turn and do you evil, and consume you, after he has done you good* (20).
@@ -438,6 +449,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 - [[Answer a Fool]] — Proverbs 26:2; The undeserved curse, like a darting bird, does not come to rest.
 - [[The Suspected Wife]] — Numbers 5:11–31; the curse written, washed, and drunk.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; the hired curse turned into a blessing.
+- [[The Song of Deborah]] — Judges 5:23; Meroz cursed for not coming.
 
 ## Related themes
 

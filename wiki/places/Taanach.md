@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The kings fought at Taanach — Judges 5:19
+
+*The kings came and fought, then the kings of Canaan fought at Taanach by the waters of Megiddo.
+They took no plunder of silver* (5:19). The prose of Judges 4 placed the battle at the Kishon and
+Tabor and did not name Taanach; the Song names it. Taanach is one of the towns whose Canaanites
+Manasseh *did not drive out* (1:27), so the kings of Canaan fight from a city Israel had left in
+their hands. See [[The Song of Deborah]].
+
+Source: stored WEB Judges 1:27; 4:6–16; 5:19.
+
 ### Not driven out — Judges 1:27
 
 One of Manasseh's five cities not driven out (27), as in Joshua 17:11–12; its king is counted in Joshua 12:21.
@@ -37,9 +47,11 @@ Source: stored WEB Joshua 12–21 at the verses cited; Judges 1:27 checked at bi
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Kings Struck Down]] — Joshua 12:1–24
+- [[The Song of Deborah]] — Judges 5:19; *the kings of Canaan fought at Taanach*.
 
 ## Related places
 - [[Megiddo]] — paired with it in the list (12:21) and in 17:11.
 
 ## Events here
 - Its king is struck (12:21); no account of the battle is given.
+- The kings of Canaan fight, and take no plunder (Judges 5:19).

@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### In the Song — Judges 5:20, 26–30
+
+The Song names Sisera three times. *From the sky the stars fought. From their courses, they fought
+against Sisera* (5:20). *With the hammer she struck Sisera. She struck through his head* (5:26), and
+*at her feet he bowed, he fell* (5:27). And *Sisera's mother* waits for him at the window, imagining
+*to Sisera a plunder of dyed garments* (5:28–30). The Song never names his master Jabin; its enemy
+is *the kings of Canaan* (5:19). How the Song's account of his death relates to 4:21, where he is
+asleep, is weighed on [[The Song of Deborah]] and [[Jael]] and left open.
+
+Source: stored WEB Judges 4:21; 5:19–30.
+
 ### The tent — Judges 4:17–22
 
 Sisera runs on foot *to the tent of Jael the wife of Heber the Kenite; for there was peace between
@@ -43,10 +54,13 @@ Source: stored WEB Judges 4:1–16.
 - Judges 4:2–3 — Jabin's captain, oppressing Israel twenty years.
 - Judges 4:12–13 — gathers the chariots to the Kishon.
 - Judges 4:15–16 — confused by Yahweh; leaves his chariot and flees on foot.
+- Judges 4:17–22 — killed in Jael's tent.
+- Judges 5:20, 26–30 — fought by the stars; his death sung; awaited by his mother.
 
 ## Appears in
 - [[Jael and Sisera]] — Judges 4:17–22; flees to Jael's tent and is killed there.
 - [[Deborah and Barak]] — Judges 4:1–16; Jabin's captain, routed at the Kishon.
+- [[The Song of Deborah]] — Judges 5:20, 26–30; the stars fight him; his mother waits.
 
 ## Related people
 - [[Jabin (of Deborah's time)]]
@@ -54,6 +68,7 @@ Source: stored WEB Judges 4:1–16.
 - [[Deborah (prophetess)]]
 - [[Heber the Kenite]]
 - [[Jael]] — who kills him.
+- [[Sisera's Mother]] — waiting at the window (5:28–30).
 
 ## Themes associated
 - [[War]]

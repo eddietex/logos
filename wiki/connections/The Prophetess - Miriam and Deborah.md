@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Song of the Sea]] — Exodus 15:20; *Miriam the prophetess, the sister of Aaron*.
 - [[Miriam and Aaron Against Moses]] — Numbers 12:1–8; Miriam claims Yahweh has spoken through her.
 - [[Deborah and Barak]] — Judges 4:4; *Deborah, a prophetess, the wife of Lappidoth*.
-- Judges 5 — the Song of Deborah *(stored WEB, not yet ingested)*.
+- [[The Song of Deborah]] — Judges 5:1–31.
 
 ## Analysis
 
@@ -32,6 +32,13 @@ to Barak (4:6–7), foretells *a woman's hand* (4:9), and names the day (4:14).
 **They differ in office.** Miriam has no public office beyond leading the song, and in Numbers 12 she
 is punished after she and Aaron ask *Has Yahweh indeed spoken only with Moses?* (12:2). Deborah also *judged Israel*, and Israel *came up to her for
 judgment* (4:4–5). She is the only woman in the books read so far who holds the office of judge.
+
+**The Song in her voice.** Judges 5:1 has *wattāšar*, *and she sang*, a feminine singular verb
+before *Deborah and Barak* (WLC), as Exodus 15:1 has the masculine *yāšîr* before *Moses and the
+children of Israel*. In both the verb agrees with the leader named first. Miriam answers the men
+with the refrain (Exodus 15:21); Deborah speaks in the first person, *until I, Deborah, arose; until
+I arose a mother in Israel* (Judges 5:7). The Song calls her not *prophetess* but *mother*. See
+[[Prose and Song - The Sea in Exodus 14-15 and the Kishon in Judges 4-5]].
 
 ## Significance
 

@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### *Whose root is in Amalek* — Judges 5:14
+
+*Those whose root is in Amalek came out of Ephraim* (5:14). The Song places an Amalekite name within
+Ephraim's hill country; Judges 12:15 later has *Pirathon in the land of Ephraim, in the hill country
+of the Amalekites*. What the phrase means, a region once Amalekite, a clan, or an old name, the text
+does not say. Here it is Ephraimites who came to fight, not Amalek as enemy. See
+[[The Song of Deborah]].
+
+Source: stored WEB Judges 5:14; 12:15.
+
 ### Eglon's ally — Judges 3:12–14
 
 Eglon of Moab *gathered the children of Ammon and Amalek to himself; and he went and struck Israel,
@@ -126,6 +136,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 - [[The People Refuse the Land]] — Numbers 14:25; in the valley, against 13:29.
 - [[The Defeat at Hormah]] — Numbers 14:43–45; in *that mountain*, against 14:25.
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:17–19; **the charge and the sentence.** Amalek struck the stragglers *"when you were faint and weary"*, and Israel is to blot out his memory and not forget
+- [[The Song of Deborah]] — Judges 5:14; *those whose root is in Amalek came out of Ephraim*.
 
 ## Related people
 

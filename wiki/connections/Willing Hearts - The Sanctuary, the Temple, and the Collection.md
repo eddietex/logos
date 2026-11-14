@@ -14,6 +14,8 @@ tags: [connection]
 
 - [[The Offering for the Sanctuary]] — Exodus 25:1–9; the invitation to willing contributors.
 - [[The Freewill Offering]] — Exodus 35:4–29; the willing people actually bring materials and work.
+- [[The Song of Deborah]] — Judges 5:2, 9; *the people offered themselves willingly*, the same root
+  (*nādab*), now of volunteers for war.
 - 1 Chronicles 29:1–17 — gifts for the temple and David's prayer; verified WEB, not yet ingested.
 - 2 Corinthians 9:1–15 — the collection for the saints; verified WEB, not yet ingested.
 

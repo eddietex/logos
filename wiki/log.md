@@ -26197,3 +26197,70 @@ claims (*śəmîkâ*, *maqqebet*) and the counts for *ṣānaḥ* (3) and *kāna
 those files. Reported as claims, not verified: *Jael* as *mountain goat*; tent-pitching as women's
 work; milk as a soporific; the sense of *wayyāʿap*; *nirdām* related to *tardēmâ*; the parsing question
 on *ʿămōd*. No raw text was added or changed, and no workflow instruction was changed.
+
+## [2026-11-13] ingest | Judges 5.1-31 — The Song of Deborah
+
+Auto mode. Judges was the only `in-progress` book; ingested its twelfth box, [[The Song of Deborah]]
+(Judges 5:1–31). Judges is now 12 / 42. The boundary was kept as planned: the whole Song, through the
+rest formula of 5:31, as one pericope; Midian's oppression (6:1–10) is the next box.
+
+Created one passage; one person ([[Sisera's Mother]]); one place ([[Meroz]]); and five connections
+([[Yahweh Marched from Seir - Deuteronomy 33.2, Judges 5.4-5, and Psalm 68.7-8]],
+[[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]],
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]],
+[[Blessed Among Women - Jael in Judges 5.24 and Mary in Luke 1]],
+[[Prose and Song - The Sea in Exodus 14-15 and the Kishon in Judges 4-5]]). Revised twenty-one people
+([[Deborah (prophetess)]], [[Barak]], [[Jael]], [[Sisera]], [[Shamgar]], [[Heber the Kenite]], [[Kenites]],
+[[Jabin (of Deborah's time)]], [[The Canaanites]], [[Amalek]], [[The Angel of Yahweh]], [[God]],
+[[Ephraim]], [[Benjamin]], [[Machir]], [[Zebulun]], [[Issachar]], [[Naphtali]], [[Reuben]],
+[[Dan (person)]], [[Asher]]), seven places ([[Edom]], [[Horeb]], [[Gilead]], [[The Jordan]], [[Taanach]],
+[[Megiddo]], [[Kishon]]), ten themes ([[Praise and Song]], [[War]], [[The Glory of God]], [[Idolatry]],
+[[Blessing]], [[Curse]], [[Hospitality]], [[Providence]], [[Mourning and Lament]],
+[[Seeing and Being Seen]]), and nine connections
+([[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]],
+[[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]],
+[[Fallen Down Dead - Eglon's Upper Room and Jael's Tent]],
+[[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]],
+[[The Prophetess - Miriam and Deborah]],
+[[Jacob's Blessing and the Blessing of Moses - Genesis 49 and Deuteronomy 33]],
+[[Willing Hearts - The Sanctuary, the Temple, and the Collection]],
+[[Rise Up, Yahweh - The Ark's Cry in Numbers 10, Psalm 68, and Psalm 132]],
+[[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]]). Updated the book page and
+books index, the people (A-E, F-M, N-Z), places, themes, and connections (A-C, D-H, I-N, O-S, T-Z)
+indexes, and the dashboard counts. Frontmatter totals: 448 passages, 305 people, 559 places, 87 themes,
+858 connections.
+
+Tension weighed, still open: the previous ingest left Judges 4:21 (Sisera *in a deep sleep*) against
+5:27 (*at her feet he bowed, he fell*). Weighed on the passage page and on [[Jael]]: the Song never says
+he stood, and *kāraʿ* describes crouching or collapse elsewhere (Genesis 49:9; Judges 7:5–6), so the two
+need not conflict; the face-to-face reading is recorded beside it, and the wiki does not choose.
+
+Differences recorded, not harmonized: the prose musters two tribes (4:6, 10), the Song praises six
+(5:14–18); the prose's oppressor is Jabin, whom the Song never names (its enemy is *the kings of
+Canaan*, 5:19). Both recorded on the passage page, [[Jabin (of Deborah's time)]], [[Zebulun]], and the
+tribes connection. The Song's blessing on Jael is recorded as a verdict beside the moral question left
+on [[Jael]] and [[Hospitality]], not as an answer to it.
+
+Corrected in passing: [[Kishon]] said the name occurs *only in Judges 4–5* in the WLC files read; with
+Psalms added for this ingest it also occurs at Psalm 83:10 (Hebrew). The sentence was rewritten to say
+which files each statement covers. [[Through the Window - Proverbs 7.6, Genesis 26.8, and Judges 5.28]]
+cited Judges 5:28 as unstored; it is now linked to the passage and its Hebrew rechecked against the WLC.
+
+Judgment calls: one pericope for the whole Song, not split at 5:12 or 5:23, because its frame (Yahweh
+*going out*, 5:4; the sun *going out*, 5:31) and its rest formula close it as a unit. [[Sisera's Mother]]
+gets a page as a speaking figure; Abinoam, Anath, and the *wise ladies* do not. Meroz gets a place page.
+Sinai is filed under [[Horeb]] and Seir under [[Edom]], following their `also_known_as`. *Gilead* is
+linked as a place, with *Gilead for Gad* reported as a reading. Jabesh Gilead, Gideon, and Penuel in
+Judges 8 have no pages yet; [[Peniel]] and [[Succoth (Transjordan)]] are linked from the new connection,
+and Judges 8 and 21 are cited by reference until their ingests link back.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Numbers, Deuteronomy, Joshua, Proverbs. Psalm 19:5, Psalm 68:7–8, Habakkuk 3:3, and Luke 1:28, 42 (WEB)
+checked at bible-api.com; none of those books was fetched into raw. Hebrew read from the Westminster
+Leningrad Codex (OpenScriptures morphhb, GitHub `wlc/Gen.xml`, `Exod.xml`, `Lev.xml`, `Num.xml`,
+`Deut.xml`, `Josh.xml`, `Judg.xml`, `Ps.xml`) with its lemma and morphology data; every *only here* claim
+is limited to those eight files. The Greek of Luke and the Hebrew of Habakkuk were not checked. Reported
+as claims, not verified: *when locks hung loose* (5:2); *the One of Sinai* (5:5); *pərāzôn* as
+*peasantry* and *šaqqamtî* as second person (5:7); *God chose new things* (5:8); *Gilead* for Gad;
+overtones in *at her feet*; the rain of 5:4 as the Kishon's flood; the manuscript variation at Luke 1:28.
+No raw text was added or changed, and no workflow instruction was changed.

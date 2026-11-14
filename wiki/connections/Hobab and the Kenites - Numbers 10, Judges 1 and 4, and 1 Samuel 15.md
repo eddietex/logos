@@ -92,6 +92,10 @@ displaced and, in Judges, among those who settle with Judah. The texts do not co
 from the Kenites at 4:11, just before. 4:17 adds that this house was at peace with Jabin. If the reading above
 holds, a household of Hobab's people stands, a long time later, at the point of Israel's rescue. This will need revisiting when Judges is ingested.
 
+**Blessed in the Song.** Judges 5:24 blesses *Jael … the wife of Heber the Kenite* *above women*.
+The Kenite household that Judges 4:17 placed at peace with Jabin is, in the Song, on Israel's side,
+blessed in the verse after an Israelite town is cursed (5:23). See [[The Song of Deborah]].
+
 ## Significance
 
 These links are fragmentary. No text traces the Kenites from Sinai to Judah, and the Hobab of Numbers 10 is never said

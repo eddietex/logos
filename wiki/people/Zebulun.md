@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### *To the death* — Judges 5:14, 18
+
+*Those who handle the marshal's staff came out of Zebulun* (5:14), and *Zebulun was a people that
+jeopardized their lives to the death; Naphtali also* (5:18). The Song praises Zebulun twice, as the
+prose had named it with Naphtali as Barak's ten thousand (4:6, 10). Genesis 49:13 had set Zebulun
+*at the haven of the sea*; in the Song that phrase belongs to Asher, who stayed home (5:17). See
+[[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]]; also
+[[The Song of Deborah]].
+
+Source: stored WEB Genesis 49:13; Judges 4:6, 10; 5:14, 17–18.
+
 ### With Naphtali at Tabor — Judges 4:1–16
 
 Zebulun is the other tribe of Barak's ten thousand (4:6, 10). In chapter 1 it did not drive out the
@@ -221,6 +232,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; in Judah's camp on the east.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:24–29; gives third, through Eliab.
 - [[The March from Sinai]] — Numbers 10:16; in the first camp, under Eliab.
+- [[The Song of Deborah]] — Judges 5:14, 18; *jeopardized their lives to the death*.
 
 ## Related people
 

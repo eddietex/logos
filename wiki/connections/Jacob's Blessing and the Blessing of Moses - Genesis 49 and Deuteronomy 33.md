@@ -11,6 +11,8 @@ tags: [connection]
 - [[Jacob Blesses His Sons]] — Genesis 49:1–28.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 - [[The Golden Calf]] — Exodus 32:26–29, a comparison for Levi’s loyalty above kin.
+- [[The Song of Deborah]] — Judges 5:13–18, a third tribal poem; see
+  [[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]].
 
 ## Analysis
 

@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh going out from Seir — Judges 5:4–5
+
+*Yahweh, when you went out of Seir, when you marched out of the field of Edom, the earth trembled,
+the sky also dropped. Yes, the clouds dropped water. The mountains quaked Yahweh's presence, even
+Sinai at the presence of Yahweh, the God of Israel* (5:4–5). The word *glory* does not occur, but
+the scene is a theophany: earthquake, storm, and the mountain of Sinai shaking *at the presence*
+(*mippənê*, WLC) of Yahweh. The same picture opens Moses' blessing (Deuteronomy 33:2) and returns in
+Psalm 68:7–8 (WEB). See
+[[Yahweh Marched from Seir - Deuteronomy 33.2, Judges 5.4-5, and Psalm 68.7-8]].
+
+Source: stored WEB Deuteronomy 33:2; Judges 5:4–5; Psalm 68:7–8 (WEB) via bible-api.com, 2026-11-13;
+Hebrew WLC.
+
 ### The waters of Meribah — Numbers 20:1–13
 
 Yahweh’s glory appears to Moses and Aaron when they fall on their faces at the Tent
@@ -239,6 +252,7 @@ makes having seen it the ground of the charge (22). See
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–16; the cloud and fire over the tabernacle, without the word *glory*.
 - [[The People Refuse the Land]] — Numbers 14:10, 21–22; the glory at the Tent, and sworn over the
   earth
+- [[The Song of Deborah]] — Judges 5:4–5; earth, sky, and Sinai shaking as Yahweh comes.
 
 ## Related themes
 

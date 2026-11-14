@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### The muster and the stars — Judges 5:1–31
+
+The Song of Deborah tells the war of Judges 4 as a muster and a battle. It begins with an unarmed
+people, *Was there a shield or spear seen among forty thousand in Israel?* (5:8), and a war that
+came because *they chose new gods* (5:8). It praises those who *offered themselves willingly* (5:2,
+9) and names the tribes that came and stayed (5:14–18). The battle is *at Taanach by the waters of
+Megiddo*, and its fighters are heaven and earth: *From the sky the stars fought* and *the river
+Kishon swept them away* (5:19–21). A town that did not come is cursed (5:23). The war ends in a tent
+(5:24–27) and, in the enemy's house, with a mother waiting for plunder (5:28–30). See
+[[The Song of Deborah]] and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]].
+
+Source: stored WEB Judges 5:1–31.
+
 ### The general in the tent — Judges 4:17–24
 
 The battle of 4:15–16 left no man of Sisera's army alive, and Sisera himself on foot. The war ends not
@@ -992,6 +1006,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Judah's run of victories, the chariots of iron, and the Jebusites remaining.
 - [[Deborah and Barak]] — Judges 4:1–16; nine hundred chariots of iron confused at the Kishon.
 - [[Jael and Sisera]] — Judges 4:17–24; Sisera killed in a tent; Jabin subdued and destroyed.
+- [[The Song of Deborah]] — Judges 5:1–31; the muster of the tribes, the stars and the river.
 
 ## Related themes
 

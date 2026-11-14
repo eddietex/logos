@@ -28,8 +28,9 @@ reported, not checked. *Son of Anath* might then be a father's name, a warrior's
 place such as [[Beth Anath]]. The text does not say which.
 
 **In the Song of Deborah.** *In the days of Shamgar the son of Anath, in the days of Jael, the
-highways were unoccupied. The travelers walked through byways* (5:6, stored WEB; not yet ingested).
-The song uses his name as a date, for a time when the roads were too dangerous to use. The prose
+highways were unoccupied. The travelers walked through byways* (5:6; see [[The Song of Deborah]]).
+The song uses his name as a date, for a time when the roads were too dangerous to use, and pairs it with
+Jael's, so the two days are one period, ending with the war of Judges 4–5. The prose
 says he *saved Israel*; the song says the roads were empty in his days. The book gives both, and
 neither is said to correct the other.
 
@@ -50,11 +51,13 @@ Hebrew WLC (OpenScriptures morphhb), 2026-11-13.
 
 ## Appears in
 - [[Shamgar and the Ox Goad]] — Judges 3:31
+- [[The Song of Deborah]] — Judges 5:6; *in the days of Shamgar*.
 
 ## Related people
 - [[Ehud]] — the savior before him; *after him* (3:31).
 - [[Othniel]] — the first savior; Shamgar's *also* counts him with Othniel and Ehud.
 - [[The Philistines]] — the enemy he strikes.
+- [[Jael]] — *in the days of Jael*, paired with his in 5:6.
 
 ## Themes associated
 - [[Redemption]]

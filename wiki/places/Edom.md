@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Yahweh marches from Seir — Judges 5:4
+
+*Yahweh, when you went out of Seir, when you marched out of the field of Edom, the earth trembled*
+(5:4). The Song of Deborah begins its northern battle with Yahweh setting out from Seir and Edom in
+the south, as Deuteronomy 33:2 has him *rose from Seir*. Edom is not an actor here; it is the
+direction he comes from. See [[The Song of Deborah]] and
+[[Yahweh Marched from Seir - Deuteronomy 33.2, Judges 5.4-5, and Psalm 68.7-8]].
+
+Source: stored WEB Deuteronomy 33:2; Judges 5:4.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *I gave to Esau Mount Seir, to possess it* (4). Yahweh's own account of Israel's history includes the gift of Seir to Esau, as Deuteronomy 2:5 did (stored WEB).
@@ -222,6 +232,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 - [[The Song of the Sea]] — Exodus 15:15; **its chiefs dismayed.** *"Then the chiefs of Edom were dismayed"*
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:7–8; the Edomite admitted in the third generation.
 - [[The Kings Struck Down]] — Joshua 12:1–24; Seir as a direction (7).
+- [[The Song of Deborah]] — Judges 5:4; *when you went out of Seir … the field of Edom*.
 
 ## Related places
 
@@ -258,3 +269,4 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 - Refuses Israel passage on the King's Highway — Numbers 20:14–21
 - Garrisoned by David; revolts under Jehoram — 2 Samuel 8:13–14; 2 Kings 8:20–22
 - Its chiefs sung as dismayed at the news of the sea — Exodus 15:15
+- Yahweh's going out from Seir and Edom, in the Song (Judges 5:4).

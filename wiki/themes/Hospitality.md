@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *She gave him milk* — Judges 5:25
+
+*He asked for water. She gave him milk. She brought him butter in a lordly dish* (5:25). The Song
+keeps the host's generosity of 4:19 and makes it grander, *in a lordly dish*, *bəsēpel ʾaddîrîm*, *a
+bowl of nobles* (WLC). Then the blow (5:26). It calls her *blessed above women* (5:24) and does not
+raise the question this page recorded at 4:17–22, whether a host may kill her guest. The Song's
+verdict stands beside that question without answering it. See [[The Song of Deborah]] and [[Jael]].
+
+Source: stored WEB Judges 4:17–22; 5:24–26; Hebrew WLC.
+
 ### The host who kills her guest — Judges 4:17–22
 
 Jael performs every form of welcome: she *went out to meet* him, says *Turn in, my lord, turn in to me;
@@ -264,6 +274,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Ammon and Moab excluded for not meeting Israel
   with bread and water.
 - [[Jael and Sisera]] — Judges 4:17–22; welcome, milk, and covering, and the guest killed in his sleep.
+- [[The Song of Deborah]] — Judges 5:24–26; milk and butter, then the blow; Jael blessed.
 
 ## Related themes
 

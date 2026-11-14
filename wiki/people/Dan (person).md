@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### *Why did Dan remain in ships?* — Judges 5:17
+
+*Why did Dan remain in ships?* (5:17). The tribe of Dan is among those who stayed. Its lot ran *over
+against Joppa* (Joshua 19:46), though the Amorites had pressed it into the hill country (Judges
+1:34). What *in ships* means for Dan at this time, the text does not say. Genesis 49:13 gave *ships*
+to Zebulun. See [[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]]; also
+[[The Song of Deborah]].
+
+Source: stored WEB Genesis 49:13; Joshua 19:46; Judges 1:34; 5:17.
+
 ### Pressed into the hill country — Judges 1:34–35
 
 The tribe of Dan is the only tribe in the chapter that is not the subject of *did not drive out*. *The Amorites forced the children of Dan into the hill country, for they would not allow them to come down to the valley* (34). The verb is *lāḥaṣ*, *press, oppress* (WLC). The Amorites hold Aijalon and Shaalbim, cities on Dan's list (Joshua 19:42), until the house of Joseph, not Dan, subjects them (35). Joshua 19:47 tells Dan's taking of Leshem as expansion; Judges 18:1 will say Dan's inheritance *had not fallen to them*. See [[Dan Pressed from the Valley - Joshua 19, Judges 1, and Judges 18]].
@@ -265,6 +275,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Camp Around the Tent]] — Numbers 2:1–34; heads the north camp and sets out last.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:66–71; gives tenth, through Ahiezer.
 - [[The March from Sinai]] — Numbers 10:25; the rear guard of all the camps, under Ahiezer.
+- [[The Song of Deborah]] — Judges 5:17; stays *in ships*.
 
 ## Related people
 

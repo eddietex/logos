@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[Deborah and Barak]] — Judges 4:9, the word spoken
 - [[Jael and Sisera]] — Judges 4:21–22, the word fulfilled
+- [[The Song of Deborah]] — Judges 5:24–27, the woman blessed
 - Judges 9:53–54 — Abimelech and the millstone *(stored WEB, not yet ingested)*
 - 2 Samuel 11:21 — Joab remembers Abimelech *(WEB checked at bible-api.com, not yet ingested)*
 
@@ -46,6 +47,12 @@ through his head* (5:26), with *he will bruise your head* in Genesis 3:15. The H
 has *šûp*, Judges 5:26 *māḥaq* and *māḥaṣ*, and 4:21 *tāqaʿ* (WLC). The link is a reading of image,
 not of vocabulary, and is not made by any text read so far. See
 [[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]].
+
+**The Song's verdict.** Judges 5 adds what the prose withheld: *Jael shall be blessed above women*
+(5:24). The *woman's hand* of 4:9 becomes *her hand to the tent peg, and her right hand to the
+workmen's hammer* (5:26). Abimelech in 9:54 dreads the shame of *A woman killed him*; Sisera's death
+at a woman's hand is, in the Song, the climax of praise. See [[The Song of Deborah]] and
+[[Blessed Among Women - Jael in Judges 5.24 and Mary in Luke 1]].
 
 ## Significance
 

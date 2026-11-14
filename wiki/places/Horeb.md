@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### *Even Sinai* — Judges 5:5
+
+*The mountains quaked Yahweh's presence, even Sinai at the presence of Yahweh, the God of Israel*
+(5:5). *Zeh sînay* (WLC), literally *this Sinai*; some read it as a title, *the One of Sinai*, which
+is reported here and not settled. Psalm 68:8 (WEB *the God of Sinai*) has the same two Hebrew words.
+The mountain of the covenant quakes as Yahweh sets out to fight in the north. See
+[[The Song of Deborah]] and
+[[Yahweh Marched from Seir - Deuteronomy 33.2, Judges 5.4-5, and Psalm 68.7-8]].
+
+Source: stored WEB Judges 5:5; Psalm 68:8 (WEB) via bible-api.com, 2026-11-13; Hebrew WLC.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Sinai appears in Yahweh’s glorious coming (2), linked here under the existing Horeb/Sinai
@@ -910,6 +921,7 @@ action at the tent and altar and outside the camp, without naming the mountain. 
 - [[The March from Sinai]] — Numbers 10:11–13, 33; Israel leaves, and it is called *the Mount of Yahweh*.
 - [[Daily, Sabbath, and New Moon Offerings]] — Numbers 28:6; the continual burnt offering *ordained in Mount Sinai*.
 - [[A Prophet Like Moses]] — Deuteronomy 18:16; the request at Horeb that grounds the promise of a prophet.
+- [[The Song of Deborah]] — Judges 5:5; *even Sinai at the presence of Yahweh*.
 
 ## Related places
 

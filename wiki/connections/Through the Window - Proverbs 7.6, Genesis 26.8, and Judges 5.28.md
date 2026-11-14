@@ -12,7 +12,7 @@ tags: [connection]
   man void of understanding"* (*bəḥallôn bêṯî bəʿaḏ ʾešnabbî nišqāp̄tî*)
 - **Genesis 26:8** — [[Isaac in Gerar]]: *"Abimelech king of the Philistines looked out at a window,
   and saw, and, behold, Isaac was caressing Rebekah, his wife"* (*wayyašqēp̄ … bəʿaḏ haḥallôn*)
-- **Judges 5:28** *(not yet ingested; WEB verified)* — *"Through the window she looked out, and
+- **Judges 5:28** — [[The Song of Deborah]]: *"Through the window she looked out, and
   cried: Sisera's mother looked through the lattice"* (*bəʿaḏ haḥallôn nišqəp̄â … bəʿaḏ hāʾešnāḇ*)
 
 - Compare **Song of Solomon 2:9** — [[Rise Up, My Love]]: *"Behold, he stands behind our wall! He
@@ -60,7 +60,9 @@ The scene gives [[Seeing and Being Seen]] a human watcher in place of God. Prove
 the son is invited to stand at the window with him.
 
 **Sources:** Proverbs 5:21; 7:6–7, 27 and Genesis 26:8–11 checked in the stored WEB; Judges 5:28
-verified WEB at bible-api.com, 2026-10-25, not stored. Song of Solomon 2:9 copied from the stored
+verified WEB at bible-api.com, 2026-10-25, and since checked against stored WEB `raw/bible/Judges.md`
+(2026-11-13); its Hebrew was rechecked against the Westminster Leningrad Codex (OpenScriptures morphhb),
+2026-11-13. See also [[Sisera's Mother]]. Song of Solomon 2:9 copied from the stored
 WEB. Judges 5:24–27, 29–30 cited by reference,
 not quoted. Hebrew of Proverbs 7:6, Genesis 26:8, and Judges 5:28 read from Sefaria's *Miqra
 according to the Masorah*, 2026-10-25.

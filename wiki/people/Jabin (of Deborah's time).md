@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Not named in the Song — Judges 5:19
+
+The Song of Deborah never names Jabin. Its enemy is plural: *The kings came and fought, then the
+kings of Canaan fought at Taanach by the waters of Megiddo* (5:19), and the man it names is Sisera.
+The prose made Jabin the oppressor (4:2) and the one God subdued (4:23); the Song makes the battle a
+war against kings and their captain. The difference is recorded, not harmonized. See
+[[The Song of Deborah]].
+
+Source: stored WEB Judges 4:2, 23–24; 5:19–20.
+
 ### Subdued and destroyed — Judges 4:17, 23–24
 
 Jabin's last appearances are a treaty and an ending. *There was peace between Jabin the king of Hazor
@@ -46,6 +56,7 @@ Source: stored WEB Judges 4:1–16; Joshua 11:1–13.
 ## Appears in
 - [[Jael and Sisera]] — Judges 4:17, 23–24; his peace with Heber's house; subdued and destroyed.
 - [[Deborah and Barak]] — Judges 4:1–16; the oppressor, king in Hazor.
+- [[The Song of Deborah]] — Judges 5:19; not named; *the kings of Canaan*.
 
 ## Related people
 - [[Sisera]] — his captain.

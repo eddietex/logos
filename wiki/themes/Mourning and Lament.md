@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A mother at the window — Judges 5:28–30
+
+*Through the window she looked out, and cried: Sisera's mother looked through the lattice. 'Why is
+his chariot so long in coming?'* (5:28). *Wattəyabbēb*, *and cried* (WLC), occurs only here in the
+WLC files read. She is not yet mourning; her ladies, and she herself, explain the delay as plunder
+being divided (5:29–30). The Song stops before the grief. See [[Sisera's Mother]] and
+[[The Song of Deborah]].
+
+Source: stored WEB Judges 5:28–30; Hebrew WLC.
+
 ### A place named Weepers — Judges 2:4–5
 
 *The people lifted up their voice, and wept. They called the name of that place Bochim* (2:4–5).
@@ -363,6 +373,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 - [[A Holy People and Its Food]] — Deuteronomy 14:1; no cutting or baldness for the dead.
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:13; the captive bewails her father and mother a full month.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:14; the tithe kept from mourning and from *"the dead"*.
+- [[The Song of Deborah]] — Judges 5:28–30; Sisera's mother waiting.
 
 ## Related themes
 

@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### *Curse Meroz* — Judges 5:23
+
+*'Curse Meroz,' said Yahweh's angel. 'Curse bitterly its inhabitants, because they didn't come to
+help Yahweh, to help Yahweh against the mighty'* (5:23). The angel who rebuked Israel at Bochim
+(2:1–5) here curses a town that did not come to the battle. It is the only line in the Song spoken
+by someone other than the singers and Sisera's household. See [[Meroz]] and [[The Song of Deborah]].
+
+Source: stored WEB Judges 2:1–5; 5:23.
+
 ### At Bochim — Judges 2:1–5
 
 **He speaks as Yahweh with no introduction.** *Yahweh's angel came up from Gilgal to Bochim* and says
@@ -440,6 +449,7 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 - [[The Angel Sent Ahead]] — Exodus 23:20–23; **promised, not seen.** Sent *"to keep you by the
   way"*, to be heard as God's voice, one who *"will not pardon"*, carrying God's name *"in
   him"*
+- [[The Song of Deborah]] — Judges 5:23; curses Meroz.
 
 ## Related people
 
