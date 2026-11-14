@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The general in the tent — Judges 4:17–24
+
+The battle of 4:15–16 left no man of Sisera's army alive, and Sisera himself on foot. The war ends not
+on the field but in a tent, with a peg and a hammer (4:21), and the narrator closes it with God:
+*God subdued Jabin the king of Canaan* (4:23). Israel's hand *prevailed more and more* until Jabin was
+destroyed (4:24); no battle against Jabin himself is narrated. See [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:15–24.
+
 ### Chariots of iron confused — Judges 4:1–16
 
 Jabin's *nine hundred chariots of iron* are the reason Israel cries (4:3), the obstacle of 1:19 grown
@@ -982,6 +991,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 - [[Judah Goes Up First]] — Judges 1:1–7; inquiry, alliance, and the first victory after Joshua.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Judah's run of victories, the chariots of iron, and the Jebusites remaining.
 - [[Deborah and Barak]] — Judges 4:1–16; nine hundred chariots of iron confused at the Kishon.
+- [[Jael and Sisera]] — Judges 4:17–24; Sisera killed in a tent; Jabin subdued and destroyed.
 
 ## Related themes
 

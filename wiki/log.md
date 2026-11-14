@@ -26155,3 +26155,45 @@ Codex (OpenScriptures morphhb, GitHub `wlc/Gen.xml`, `Exod.xml`, `Num.xml`, `Deu
 *Harosheth*) and the counts for *nəbîʾâ* (2) and *hāmam* (7) are limited to those files. Reported as
 claims, not verified: *Lappidoth* as *torches*; *Barak* as *lightning*; *Jabin* as a dynastic name.
 No raw text was added or changed, and no workflow instruction was changed.
+
+## [2026-11-13] ingest | Judges 4.17-24 — Jael and Sisera
+
+Auto mode. Judges was the only `in-progress` book; ingested its eleventh box, [[Jael and Sisera]]
+(Judges 4:17–24). Judges is now 11 / 42. The boundary was kept as planned; the Song (5:1–31) is the
+next box.
+
+Created one passage; one person ([[Jael]]); and two connections
+([[Fallen Down Dead - Eglon's Upper Room and Jael's Tent]],
+[[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]]). Revised eight people ([[Sisera]],
+[[Heber the Kenite]], [[Jabin (of Deborah's time)]], [[Barak]], [[Deborah (prophetess)]], [[Kenites]],
+[[The Canaanites]], [[Ehud]]), two places ([[Hazor]], [[The Oak in Zaanannim]]), five themes
+([[Hospitality]], [[Deception]], [[War]], [[Prophecy and Vision]], [[Providence]]), and two connections
+([[Hobab and the Kenites - Numbers 10, Judges 1 and 4, and 1 Samuel 15]],
+[[The Protoevangelium - Genesis 3.15 and the Seed of the Woman]]). Updated the book page and books
+index, the people (A-E, F-M, N-Z), places, and connections (D-H, I-N, O-S) indexes, and the dashboard
+counts. Frontmatter totals: 447 passages, 304 people, 558 places, 87 themes, 853 connections.
+
+Resolved: the open question left on [[Deborah (prophetess)]] at 4:9 — the *woman's hand* is Jael's.
+That page's paragraph saying it would need revising was rewritten.
+
+Fixed in passing: the places-index row for [[The Oak in Zaanannim]] did not list
+[[Deborah and Barak]], which the previous ingest added to the page; both passages are now in the row.
+
+Tension recorded, not resolved: Judges 4:21 has Sisera asleep when struck; Judges 5:26–27 says he
+*bowed* and *fell* *at her feet*, which some read as a man standing. Left on the passage's Notes and on
+[[Jael]] for the Song's ingest to weigh. The text's silence on whether Jael's killing of a guest under
+a treaty was right is recorded on [[Jael]] and [[Hospitality]] with both sides, and not resolved.
+
+Judgment calls: Sisera's death is filed on [[The Oak in Zaanannim]] because 4:11 put Heber's tent
+there; 4:17–24 names no place, and the page says so. No page for the tent itself. The Genesis 3:15
+reading of Jael's blow is reported on the woman's-hand connection as a reading of image only, since
+the Hebrew verbs differ (*šûp*; *tāqaʿ*; *māḥaq*, *māḥaṣ*).
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Numbers, and Joshua. 2 Samuel 11:21 (WEB) checked at bible-api.com; 2 Samuel was not fetched into
+raw. Hebrew read from the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub `wlc/Gen.xml`,
+`Exod.xml`, `Num.xml`, `Josh.xml`, `Judg.xml`) with its lemma and morphology data. The *only here*
+claims (*śəmîkâ*, *maqqebet*) and the counts for *ṣānaḥ* (3) and *kānaʿ* in Judges (4) are limited to
+those files. Reported as claims, not verified: *Jael* as *mountain goat*; tent-pitching as women's
+work; milk as a soporific; the sense of *wayyāʿap*; *nirdām* related to *tardēmâ*; the parsing question
+on *ʿămōd*. No raw text was added or changed, and no workflow instruction was changed.

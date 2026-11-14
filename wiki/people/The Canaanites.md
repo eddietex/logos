@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Jabin king of Canaan destroyed — Judges 4:23–24
+
+*God subdued Jabin the king of Canaan* (4:23), and Israel's hand *prevailed more and more* against him
+*until they had destroyed Jabin king of Canaan* (4:24). The phrase *king of Canaan* is repeated three
+times in the two verses. The verb *subdued*, *wayyaknaʿ* (WLC), sounds like *Kənaʿan*; whether that
+is intended is a reading. See [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:23–24; Hebrew WLC.
+
 ### Jabin king of Canaan — Judges 4:1–16
 
 For the first time in Judges, Israel's oppressor is Canaanite: *Jabin king of Canaan, who reigned in
@@ -99,6 +108,7 @@ See [[The Angel at Bochim]]. Source: stored WEB Judges 2:1–5.
 
 ## Appears in
 
+- [[Jael and Sisera]] — Judges 4:23–24; Jabin *king of Canaan* subdued and destroyed.
 - [[Deborah and Barak]] — Judges 4:2–3; Jabin *king of Canaan* and his chariots.
 - [[The Nations Left to Test Israel]] — Judges 3:3, 5–6; left to test Israel, lived among, and married.
 - [[Another Generation Arose]] — Judges 2:12, 21–23; among the nations left to test Israel.

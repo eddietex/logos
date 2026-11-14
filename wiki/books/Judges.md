@@ -107,6 +107,14 @@ into a woman's hand*. Heber the Kenite's tent is pitched near Kedesh. On her wor
 Mount Tabor, *Yahweh confused Sisera* and his chariots, the verb of the sea and of Gibeon, and not a man
 of the army is left. Sisera escapes on foot.
 
+[[Jael and Sisera]] (4:17–24) follows him to the tent of Jael, wife of Heber the Kenite, whose house is
+at peace with Jabin. She welcomes him, *don't be afraid*, covers him, gives him milk, and while he sleeps
+drives a tent peg through his temple. Barak arrives second and is shown the body: the *woman's hand* of
+4:9 was Jael's, not Deborah's. The scene is told in the shape of Eglon's death, a lone killing found
+afterwards, *behold*, dead. The narrator gives the victory to God, *God subdued Jabin the king of
+Canaan*, and Israel's hand presses until Jabin is destroyed. The rest-formula waits until after the
+Song.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -139,7 +147,7 @@ merge, or reorder them freely.
 - [x] [[Ehud and Eglon]] — Judges 3:12–30
 - [x] [[Shamgar and the Ox Goad]] — Judges 3:31
 - [x] [[Deborah and Barak]] — Judges 4:1–16
-- [ ] Jael and Sisera — Judges 4:17–24
+- [x] [[Jael and Sisera]] — Judges 4:17–24
 - [ ] The Song of Deborah — Judges 5:1–31
 - [ ] Midian's Oppression and the Prophet — Judges 6:1–10
 - [ ] The Call of Gideon — Judges 6:11–24

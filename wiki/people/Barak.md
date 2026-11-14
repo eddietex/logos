@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Second to the tent — Judges 4:22
+
+Barak is still pursuing when Jael comes out to meet him: *Come, and I will show you the man whom you
+seek* (4:22). He goes in and finds Sisera dead with the peg in his temple. Deborah had told him the
+journey *won't be for your honor; for Yahweh will sell Sisera into a woman's hand* (4:9), and it
+happens: the general he was sent against is killed before he arrives, by a woman who is not of Israel.
+The text does not say how Barak responded. He sings with Deborah in Judges 5. See [[Jael and Sisera]]
+and [[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]].
+
+Source: stored WEB Judges 4:9, 22; 5:1.
+
 *Barak the son of Abinoam out of Kedesh Naphtali* (Judges 4:6), the commander of the battle against
 Sisera. Deborah summons him and puts Yahweh's command to him as a question, *Hasn't Yahweh … commanded*,
 which suggests he had been told before. He answers with a condition: *If you will go with me, then I
@@ -34,6 +45,7 @@ Source: stored WEB Judges 4:1–16; Hebrews 11:32 (WEB) via bible-api.com, 2026-
 - Judges 4:14–16 — comes down from Tabor and pursues the chariots to Harosheth.
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:22; arrives in pursuit and is shown Sisera dead.
 - [[Deborah and Barak]] — Judges 4:1–16; the commander who asks Deborah to go with him.
 
 ## Related people
@@ -41,6 +53,7 @@ Source: stored WEB Judges 4:1–16; Hebrews 11:32 (WEB) via bible-api.com, 2026-
 - [[Sisera]]
 - [[Naphtali]] — his tribe and town.
 - [[Zebulun]]
+- [[Jael]] — who shows him the body.
 
 ## Themes associated
 - [[War]]

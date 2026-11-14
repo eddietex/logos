@@ -15,10 +15,22 @@ tags: [connection]
 - Numbers 24:21–22 — Balaam's word to the Kenite *(stored WEB; now ingested in [[Balaam's Last Oracles]])*
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, go up with Judah *(stored WEB, now ingested)*
 - [[Deborah and Barak]] — Judges 4:11; *the children of Hobab*, and Heber's tent by Kedesh *(stored WEB, now ingested)*
-- Judges 4:17 — Jael's tent, and Heber's peace with Jabin *(stored WEB, not yet ingested)*
+- [[Jael and Sisera]] — Judges 4:17–22; Jael's tent, and Heber's peace with Jabin *(stored WEB, now ingested)*
 - 1 Samuel 15:6 — Saul spares the Kenites for their kindness to Israel *(WEB checked, not yet ingested)*
 
 ## Analysis
+
+### Judges 4:17–22 ingested
+
+[[Jael and Sisera]] now holds the verse: *there was peace between Jabin the king of Hazor and the house
+of Heber the Kenite* (4:17). The household that *separated* from Hobab's people (4:11) is at peace with
+Israel's oppressor, and Sisera dies in its tent at the hand of Heber's wife, [[Jael]]. So one house of
+the family tied to Moses by marriage is on both sides at once: treaty with Jabin, and the blow that ends
+his general. The text does not say which side Heber himself took. The Song blesses Jael *above women in
+the tent* (5:24). The question left above, what a Kenite household is doing at the point of Israel's
+rescue, now has this answer: it is where the rescue is completed.
+
+Source: stored WEB Judges 4:11, 17–22; 5:24.
 
 ### Judges 4:11 ingested
 

@@ -7,6 +7,21 @@ tags: [person]
 
 ## Overview
 
+### The tent — Judges 4:17–22
+
+Sisera runs on foot *to the tent of Jael the wife of Heber the Kenite; for there was peace between
+Jabin the king of Hazor and the house of Heber the Kenite* (4:17). He goes where his king has a treaty.
+Jael invites him in, *don't be afraid*, covers him, and gives him milk when he asks for water (4:18–19).
+He tells her to stand at the tent door and say *No* if anyone asks *Is there any man here?* (4:20). The
+general who commanded nine hundred chariots ends giving orders to one woman, and the lie he gives her
+turns out true. *He was in a deep sleep*, and she drives a tent peg through his temple into the ground
+(4:21). Barak arrives to find him *dead, and the tent peg was in his temples* (4:22). Deborah's word
+that *Yahweh will sell Sisera into a woman's hand* (4:9) is fulfilled. The Song tells the death
+differently (5:26–27; next pericope); see [[Jael and Sisera]], Notes.
+
+See [[Jael and Sisera]] and [[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]]. Source: stored
+WEB Judges 4:17–24; 5:26–27; Hebrew WLC.
+
 *The captain of [Jabin's] army*, *who lived in Harosheth of the Gentiles* (Judges 4:2), with *nine
 hundred chariots of iron* (4:3, 13). He is the real power in the oppression; Jabin is named, and
 Sisera acts. Yahweh's command says *I will draw to you, to the river Kishon, Sisera* (4:7), and when
@@ -30,6 +45,7 @@ Source: stored WEB Judges 4:1–16.
 - Judges 4:15–16 — confused by Yahweh; leaves his chariot and flees on foot.
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:17–22; flees to Jael's tent and is killed there.
 - [[Deborah and Barak]] — Judges 4:1–16; Jabin's captain, routed at the Kishon.
 
 ## Related people
@@ -37,6 +53,7 @@ Source: stored WEB Judges 4:1–16.
 - [[Barak]]
 - [[Deborah (prophetess)]]
 - [[Heber the Kenite]]
+- [[Jael]] — who kills him.
 
 ## Themes associated
 - [[War]]

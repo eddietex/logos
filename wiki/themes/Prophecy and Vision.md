@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A woman's hand — Judges 4:21–22
+
+Deborah's word at 4:9, *Yahweh will sell Sisera into a woman's hand*, is fulfilled at 4:21 by a woman
+the prophecy did not name and the reader did not expect: Jael, *a hammer in her hand*. The narrative
+does not point back to 4:9; the fulfillment is left to be seen. See
+[[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]] and [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:9, 21–22.
+
 ### The prophetess who judged — Judges 4:4–14
 
 *Deborah, a prophetess* (4:4), the first prophet in Judges and the second woman called *nəbîʾâ* in the
@@ -468,6 +477,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Test
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; the prophet or dreamer whose sign comes true but leads to other gods.
 - [[A Prophet Like Moses]] — Deuteronomy 18:9–22; the prophet like Moses instead of the diviners, and the test of the word that does not happen.
 - [[Deborah and Barak]] — Judges 4:4–14; *a prophetess* who judges, sends Barak, and foretells *a woman's hand*.
+- [[Jael and Sisera]] — Judges 4:21–22; Deborah's *woman's hand* fulfilled by Jael.
 
 ## Related themes
 

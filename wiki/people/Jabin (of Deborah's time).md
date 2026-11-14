@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Subdued and destroyed — Judges 4:17, 23–24
+
+Jabin's last appearances are a treaty and an ending. *There was peace between Jabin the king of Hazor
+and the house of Heber the Kenite* (4:17): the peace that brings Sisera to Jael's tent. Then *God
+subdued Jabin the king of Canaan before the children of Israel on that day*, and *the hand of the
+children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed
+Jabin king of Canaan* (4:23–24). Jabin is named three times in the last verse and never acts. Israel
+*sold into the hand of Jabin* (4:2) ends with Jabin destroyed by Israel's hand. The text does not say
+how or where he died, and it does not mention Hazor's fall. See [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:2, 17, 23–24; Hebrew WLC.
+
 *Jabin king of Canaan, who reigned in Hazor* (Judges 4:2), into whose hand Yahweh *sold* Israel after
 Ehud's death. He has nine hundred chariots of iron and *mightily oppressed the children of Israel for
 twenty years* (4:3). He does nothing on the page himself; his captain Sisera fights for him. 4:17 adds
@@ -32,6 +44,7 @@ Source: stored WEB Judges 4:1–16; Joshua 11:1–13.
 - Judges 4:7 — *Sisera, the captain of Jabin's army*.
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:17, 23–24; his peace with Heber's house; subdued and destroyed.
 - [[Deborah and Barak]] — Judges 4:1–16; the oppressor, king in Hazor.
 
 ## Related people

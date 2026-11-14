@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### The host who kills her guest — Judges 4:17–22
+
+Jael performs every form of welcome: she *went out to meet* him, says *Turn in, my lord, turn in to me;
+don't be afraid*, covers him, gives milk when he asks for water, and covers him again (4:18–19). Then
+she kills him in his sleep (4:21). The going out to meet a guest is Abraham's at the tent door (Genesis
+18:1–2; *liqrāʾt*, WLC, in both). Judges 4 does not judge her, and Judges 5:24 blesses her. The theme's
+obligation is real, and so is what the narrator sets against it here: Sisera is the general of a
+twenty-year oppression (4:3), sold by Yahweh *into a woman's hand* (4:9). The wiki records both and does
+not resolve them. See [[Jael and Sisera]] and [[Jael]].
+
+Source: stored WEB Judges 4:3, 9, 17–22; 5:24; Genesis 18:1–2; Hebrew WLC.
+
 ### Rahab and the spies — Joshua 2:1–24
 
 Rahab receives endangered strangers, conceals them, and enables their escape (1–16). Shelter becomes allegiance against her own king’s demand. The narrative identifies her as a prostitute but does not report a sexual encounter with the spies.
@@ -251,6 +263,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The March from Sinai]] — Numbers 10:29–32; Moses returns the welcome of Exodus 2.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4; Ammon and Moab excluded for not meeting Israel
   with bread and water.
+- [[Jael and Sisera]] — Judges 4:17–22; welcome, milk, and covering, and the guest killed in his sleep.
 
 ## Related themes
 

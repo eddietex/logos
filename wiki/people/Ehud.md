@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The parallel killing — Judges 4:17–22
+
+Jael's killing of Sisera is told in the shape of Ehud's killing of Eglon: an enemy alone with someone
+he trusts, a hand weapon driven in with the same verb (*tāqaʿ*, 3:21; 4:21, WLC), and the body found
+by others coming in, *behold*, fallen dead (3:25; 4:22). See
+[[Fallen Down Dead - Eglon's Upper Room and Jael's Tent]].
+
+Source: stored WEB Judges 3:20–25; 4:17–22; Hebrew WLC.
+
 ### When Ehud was dead — Judges 4:1
 
 *The children of Israel again did that which was evil in Yahweh's sight, when Ehud was dead* (4:1).
@@ -66,6 +75,7 @@ See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–31; 4:1; Hebrew WLC (Op
 - **Judges 4:1** — His death is the marker for Israel's next relapse.
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:17–22; the killing told in the shape of his.
 - [[Deborah and Barak]] — Judges 4:1; the relapse *when Ehud was dead*.
 - [[Ehud and Eglon]] — Judges 3:12–30
 - [[Shamgar and the Ox Goad]] — Judges 3:31; *after him*.
@@ -76,6 +86,7 @@ See [[Ehud and Eglon]]. Source: stored WEB Judges 3:12–31; 4:1; Hebrew WLC (Op
 - [[Benjamin]] — his tribe.
 - [[Othniel]] — the judge before him.
 - [[Shamgar]] — *after him* (3:31).
+- [[Jael]] — whose killing of Sisera parallels his of Eglon.
 
 ## Themes associated
 - [[Redemption]]

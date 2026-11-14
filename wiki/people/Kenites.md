@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### Jael's tent — Judges 4:17–22
+
+*The house of Heber the Kenite* was at peace with Jabin (4:17), and Sisera dies in the tent of Heber's
+wife, Jael (4:21). The Kenites stand in Israel's story as outsiders tied to Israel by Moses' marriage,
+and here one Kenite household is at peace with Israel's enemy while one Kenite woman kills his general.
+The Song calls her *blessed above women* (5:24). See [[Jael]] and [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:17–24; 5:24.
+
 ### Heber's separation — Judges 4:11
 
 *Heber the Kenite had separated himself from the Kenites, even from the children of Hobab, Moses'
@@ -40,6 +49,7 @@ Source: stored WEB Numbers 23:27–24:25.
 - Judges 1:16 — Go up from Jericho with Judah and settle south of Arad — [[Judah's Conquests and Achsah's Springs]]
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:17–22; the house of Heber at peace with Jabin; Jael kills Sisera.
 - [[Deborah and Barak]] — Judges 4:11; Heber separates from them and pitches near Kedesh.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the children of the Kenite, Moses' brother-in-law*, settle with Judah.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
@@ -47,6 +57,7 @@ Source: stored WEB Numbers 23:27–24:25.
 ## Related people
 - [[Heber the Kenite]] — the household that separated (Judges 4:11).
 - [[Balaam]]
+- [[Jael]] — wife of Heber the Kenite (Judges 4:17).
 
 ## Themes associated
 - [[Kingship and Empire]]

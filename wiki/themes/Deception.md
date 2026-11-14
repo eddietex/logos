@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Turn in, don't be afraid — Judges 4:17–22
+
+Jael's *don't be afraid* (4:18) and the milk and covering that follow are the forms of safety, and the
+narrator never says whether she meant them when she said them. Sisera, meanwhile, scripts a lie for her
+to tell: *if any man … says, "Is there any man here?" you shall say, "No"* (4:20). Hers is the deception
+the story turns on; his comes true without anyone telling it. Told in the shape of Ehud's private
+killing (3:19–25). See [[Jael and Sisera]] and
+[[Fallen Down Dead - Eglon's Upper Room and Jael's Tent]].
+
+Source: stored WEB Judges 3:19–25; 4:17–22.
+
 ### A secret message — Judges 3:16–26
 
 Ehud hides a sword on his right thigh, where a left-handed man would carry it and a guard might not
@@ -635,6 +646,7 @@ See [[Restitution for Fraud and False Oaths]]. Source: stored WEB Leviticus 6:1�
 - [[The Glory of Kings]] — Proverbs 25:14, 18–19; The false boaster, the false witness, the unfaithful man trusted in trouble.
 - [[Answer a Fool]] — Proverbs 26:18–19, 23–26, 28; The prankster's excuse, the glazed pot, the hater disguised by his lips.
 - [[Landmarks, Witnesses, and False Testimony]] — Deuteronomy 19:16–19; the *"unrighteous witness"* who *"testified falsely against his brother"*.
+- [[Jael and Sisera]] — Judges 4:18–20; the host's welcome, and Sisera's scripted *No*.
 
 ## Related themes
 

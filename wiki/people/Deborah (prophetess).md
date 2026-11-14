@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### The woman's hand fulfilled — Judges 4:21–22
+
+*Yahweh will sell Sisera into a woman's hand* (4:9) is fulfilled by Jael, not Deborah: *Jael Heber's
+wife took a tent peg, and took a hammer in her hand* (4:21). Deborah does not appear in 4:17–24. The
+open question this page left at 4:9 is answered: the prophecy did not name the woman, and the woman
+was not the prophet. Her word was fulfilled in a way Barak did not expect. See [[Jael]], [[Jael and Sisera]],
+and [[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]].
+
+Source: stored WEB Judges 4:9, 17–24.
+
 *Deborah, a prophetess, the wife of Lappidoth, judged Israel at that time* (Judges 4:4). She is the
 fourth deliverer-figure of Judges, after Othniel, Ehud, and Shamgar, and the only one introduced
 already at work. The others are *raised up* after Israel cries; she *was judging* (*šōpṭâ*, a
@@ -22,7 +32,7 @@ quotes Yahweh's command to him (4:6–7). When he will not go without her, she g
 [[The Prophetess - Miriam and Deborah]].
 
 **The woman of 4:9.** Her prophecy does not say which woman. She is the obvious candidate when it is
-spoken, and the honor goes to Jael (4:17–22, next pericope). This page will need revising then.
+spoken, and the honor goes to Jael (4:17–22; see the section above).
 
 **Her name.** *Dəbôrâ*, the ordinary Hebrew word for *bee*, the name of Rebekah's nurse (Genesis 35:8).
 The two women are different and have different pages. The nurse was buried *below Bethel under the
@@ -43,6 +53,7 @@ Source: stored WEB Judges 4:1–16; Hebrew WLC (OpenScriptures morphhb), 2026-11
 - Judges 5 — sings with Barak (not yet ingested).
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:21–22; her word of *a woman's hand* (4:9) fulfilled by Jael.
 - [[Deborah and Barak]] — Judges 4:1–16; prophetess and judge, who sends Barak and goes with him.
 
 ## Related people
@@ -50,6 +61,7 @@ Source: stored WEB Judges 4:1–16; Hebrew WLC (OpenScriptures morphhb), 2026-11
 - [[Sisera]] — the enemy she says will be sold into a woman's hand.
 - [[Miriam]] — the other *prophetess* of the books read so far.
 - [[Deborah (Rebekah's nurse)]] — a different woman of the same name.
+- [[Jael]] — the woman into whose hand Sisera was sold.
 
 ## Themes associated
 - [[Prophecy and Vision]]

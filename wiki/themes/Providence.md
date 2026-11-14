@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A tent pitched in advance — Judges 4:11, 17–23
+
+Judges 4:11 interrupts the muster to say Heber had pitched his tent near Kedesh; 4:17 explains why
+Sisera goes there, a peace with Jabin. Neither fact is said to be arranged by Yahweh. But Yahweh had said
+*I will draw … Sisera* (4:7) and *Yahweh will sell Sisera into a woman's hand* (4:9), and the narrator
+sums up, *God subdued Jabin* (4:23). The text gives the human reasons and God's verdict side by side
+and does not explain how they fit. See [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:7, 9, 11, 17–23.
+
 ### Joshua’s own inheritance — Joshua 19:49–51
 
 The summary attributes tribal distribution to the lot before Yahweh (51). Joshua’s own grant is described as a requested city given by command (50); the text does not separately narrate a lot selecting his city.
@@ -683,6 +693,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Do Not Boast About Tomorrow]] — Proverbs 27:1; *"You don't know what a day may bring"*: tomorrow is not owned.
 - [[The Cloud over the Tabernacle]] — Numbers 9:15–23; route and timing set by the cloud, with no reason given.
 - [[The March from Sinai]] — Numbers 10:29–34; God's leading and Hobab's knowledge in one paragraph.
+- [[Jael and Sisera]] — Judges 4:11, 17–23; Heber's tent and treaty, and *God subdued Jabin*.
 
 ## Related themes
 

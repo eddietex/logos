@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Fall]] — Genesis 3:15
 - [[Cain and Abel]] — Genesis 4:1, 4:8
 - [[The Line of Cain and the Birth of Seth]] — Genesis 4:25, *"another seed instead of Abel"*
+- [[Jael and Sisera]] — Judges 4:21; a woman's blow to an enemy's head, often read alongside 3:15 by image, not by shared vocabulary. See [[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]]
 - Romans 16:20 · Galatians 4:4 · Hebrews 2:14 · 1 John 3:8 · Revelation 12:1–17 *(not yet
   ingested)*
 

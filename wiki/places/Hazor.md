@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Jabin king of Hazor at peace with Heber — Judges 4:17
+
+*There was peace between Jabin the king of Hazor and the house of Heber the Kenite* (4:17); 4:23–24
+then report Jabin subdued and destroyed. Nothing is said of the city itself. See [[Jael and Sisera]].
+
+Source: stored WEB Judges 4:17–24.
+
 ### Jabin reigns again — Judges 4:2
 
 *Jabin king of Canaan, who reigned in Hazor* (4:2). Joshua had burned Hazor and killed its king,
@@ -30,6 +37,7 @@ Source: stored WEB Joshua 11:1–15.
 **Joshua 12:1–24 — the list of kings.** Its king, Jabin, is counted (12:19). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jael and Sisera]] — Judges 4:17; *Jabin the king of Hazor*.
 - [[Deborah and Barak]] — Judges 4:2; Jabin *reigned in Hazor*.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Naphtali’s list.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
@@ -41,3 +49,4 @@ Source: stored WEB Joshua 11:1–15.
 ## Events here
 - Jabin’s royal city and the former head of the allied kingdoms (1, 10). Joshua kills its king and inhabitants and burns it (10–11). Among the cities standing on their mounds, Hazor alone is burned (13).
 - Its king counted (12:19).
+- Its king Jabin at peace with Heber's house, then subdued and destroyed (Judges 4:17, 23–24).
