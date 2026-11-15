@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### The night reconnaissance — Judges 7:9–15
+
+Before the battle, Yahweh sends the commander down to the enemy's outposts, *the armed men* (7:11). The
+word *ḥămušîm* was used of Israel going up *armed* out of Egypt (Exodus 13:18) and of the eastern tribes
+crossing armed (Joshua 1:14; 4:12) (WLC). What he learns is not the enemy's strength, which the
+narrator has just given, *like locusts … as the sand which is on the seashore* (7:12; Joshua 11:4). It
+is the enemy's expectation of defeat. The report he brings back is the formula of the war narratives,
+*Arise; for Yahweh has delivered … into your hand* (7:15), as Deborah said to Barak (4:14) and Joshua's
+spies said after Jericho (Joshua 2:24). See [[The Dream of the Barley Loaf]] and
+[[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]].
+
+Source: stored WEB Exodus 13:18; Joshua 1:14; 2:24; 4:12; 11:4; Judges 4:14; 7:9–15; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
 ### Thirty-two thousand to three hundred — Judges 7:1–8
 
 The army mustered in 6:34–35 is reduced before it fights. Yahweh calls it *too many* (7:2, 4). The law
@@ -827,6 +841,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Dream of the Barley Loaf]] — Judges 7:9–15; the reconnaissance, and the order *Arise*.
 - [[Gideon's Three Hundred]] — Judges 7:1–8; the army cut to three hundred so the victory is Yahweh's.
 - [[The Fleece]] — Judges 6:33–35; the eastern army gathers, and Gideon musters four tribes.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred Philistines struck with an ox goad.

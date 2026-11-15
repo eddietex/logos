@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### When Gideon had come — Judges 7:13
+
+*When Gideon had come, behold, there was a man telling a dream to his fellow* (7:13). Gideon arrives at
+the moment the dream is told. The narrator does not call it chance and does not call it a miracle. It
+is what Yahweh said would happen, *You will hear what they say* (7:11). The dream itself is not said to
+come from God. The interpreter credits *God* with the victory (7:14). See [[The Dream of the Barley Loaf]].
+
+Source: stored WEB Judges 7:11–14.
+
 ### The stars in their courses — Judges 5:20–21, 31
 
 *From the sky the stars fought. From their courses, they fought against Sisera. The river Kishon
@@ -508,6 +517,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Dream of the Barley Loaf]] — Judges 7:11–14; Gideon arrives as the dream is told.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

@@ -166,8 +166,9 @@ all the talking, and Gideon says nothing at all. He does what he is told in ever
 - [[Frogs, Lice, and Flies]] — Exodus 8:9; the only other place in Genesis–Judges where *pāʾar* in the
   hitpael is followed by *ʿālay*, *over me* (see the Notes).
 - [[The Children of Joseph Ask for More]] — Joshua 17:16; the valley of Jezreel.
-- Judges 7:10, 12, 16, 22 — *if you are afraid*, the army *like locusts*, and the three hundred horns
-  (stored WEB; not yet ingested).
+- [[The Dream of the Barley Loaf]] — Judges 7:9–15; *if you are afraid* (10), with the *yārēʾ* of 7:3,
+  and the army *like locusts* (12).
+- Judges 7:16, 22 — the three hundred horns (stored WEB; not yet ingested).
 
 ## Notes
 

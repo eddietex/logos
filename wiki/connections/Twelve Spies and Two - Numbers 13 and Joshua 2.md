@@ -12,6 +12,8 @@ tags: [connection]
 - [[The Twelve Spies]] — Numbers 13:1–33
 - Joshua 2:1, 9, 23–24 — *two men … as spies* *(WEB checked; see
   [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]]; now ingested)*
+- [[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]] — Gideon's night
+  reconnaissance (Judges 7:9–15), which hears the enemy's fear as Rahab's spies did.
 - [[The Brothers' First Journey to Egypt]] — Genesis 42:9; *You are spies!*
 - Judges 1:23–24 — the house of Joseph at Bethel *(WEB checked, not yet ingested)*
 

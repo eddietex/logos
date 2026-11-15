@@ -7,6 +7,10 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Dream of the Barley Loaf]] — Judges 7:12; *as the sand which is on the seashore for multitude*, said of
+  Midian's camels, as Joshua 11:4 said it of the Canaanite armies. The promise's image is used for
+  Israel's enemies. See [[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]].
+
 - [[What Yahweh Requires of Israel]] — Deuteronomy 10:12–22.
 
 - **Genesis 13:16** — *"I will make your offspring as the dust of the earth, so that if a man can

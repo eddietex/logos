@@ -72,6 +72,7 @@ or rescue of the household is yet narrated.
 - [[The Midwives and Rahab - Deceiving the King to Save Life]]
 - [[Terror Has Fallen on Us - The Song of the Sea in Rahab's Mouth]]
 - [[Twelve Spies and Two - Numbers 13 and Joshua 2]]
+- [[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]] — Gideon's night reconnaissance (Judges 7:9–15), and *Yahweh has delivered … into your hand*.
 
 ## Notes
 

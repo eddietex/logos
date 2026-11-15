@@ -63,6 +63,18 @@ Hebrew word as the proclamation. He is not sent home. The promise is *By the thr
 I save you, and deliver the Midianites into your hand* (7:7). See [[Gideon's Three Hundred]] and
 [[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]].
 
+*That same night* Yahweh sends him down to the enemy camp with a promise in the perfect tense, *I have
+delivered it into your hand*, and an offer: *But if you are afraid to go down, go with Purah your servant*
+(7:9–10). *If you are afraid* uses the same word as the proclamation that sent twenty-two thousand home.
+He goes with Purah (7:11). The text never says he was afraid, but he takes the option given only to a
+man who was. At the edge of the camp he overhears a Midianite tell a dream of a barley loaf that knocks a
+tent flat, and another interpret it: *This is nothing other than the sword of Gideon the son of Joash, a
+man of Israel* (7:13–14). The enemy knows his name. It is the only sign in his story that he did not ask
+for, and the only one he hears rather than sees. He worships. It is the only time in Judges the verb is
+used of worshiping Yahweh. Then he goes back and says Yahweh's own sentence to his men: *Arise; for
+Yahweh has delivered the army of Midian into your hand!* (7:15). See [[The Dream of the Barley Loaf]]
+and [[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]].
+
 Two details sit beside his call without comment. He has *ten men of his servants* (6:27), though he
 called his clan *the poorest in Manasseh* (6:15). And the man who breaks down Ophrah's Baal altar later
 makes an ephod and puts it *in Ophrah, his city*, where *all Israel played the prostitute with it*
@@ -84,14 +96,18 @@ Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 1
 - Judges 6:36–40 — asks for the fleece, wet and then dry; God grants both.
 - Judges 7:1–8 — camps at the spring of Harod; sends home the fearful, twenty-two thousand, then all but
   the three hundred who lapped.
+- Judges 7:9–15 — sent down to the camp by night, *if you are afraid*, with Purah; hears the dream of the
+  barley loaf and its interpretation; worships, and tells the three hundred *Arise*.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
 - [[The Fleece]] — Judges 6:33–40.
 - [[Gideon's Three Hundred]] — Judges 7:1–8.
+- [[The Dream of the Barley Loaf]] — Judges 7:9–15.
 
 ## Related people
+- [[Purah]] — his servant, who goes down with him to Midian's camp (7:10–11).
 - [[Joash (father of Gideon)]] — his father, owner of the oak and of the Baal altar at Ophrah; defends
   him and names him *Jerub-Baal*.
 - [[The Families of Manasseh]] — Abiezer, his clan.
@@ -106,4 +122,5 @@ Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 1
 ## Themes associated
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·
   [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]] · [[Idolatry]] · [[Names and Naming]] ·
-  [[Testing]] · [[The Spirit of God]] · [[Prayer]] · [[War]] · [[Pride and Self-Exaltation]]
+  [[Testing]] · [[The Spirit of God]] · [[Prayer]] · [[War]] · [[Pride and Self-Exaltation]] · [[Prophecy and Vision]] ·
+  [[Praise and Song]]

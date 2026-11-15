@@ -7,6 +7,11 @@ tags: [connection]
 
 ## Passages involved
 
+- [[The Dream of the Barley Loaf]] — Judges 7:13; *Behold, I dreamed a dream*, the next dream told after
+  Genesis 41. Its wording, *məsappēr … hinnēh ḥălôm ḥālamtî*, has the verbs of Genesis 37:9, *wayəsappēr
+  … hinnēh ḥālamtî ḥălôm* (WLC), in reversed order. Judges does not refer to Joseph. Here a Midianite
+  dreams and a Midianite interprets.
+
 - **Genesis 37:5–8** — *"my sheaf arose and also stood upright; and behold, your sheaves came around, and
   bowed down to my sheaf." His brothers said to him, "Will you indeed reign over us? Or will you indeed
   have dominion over us?"*

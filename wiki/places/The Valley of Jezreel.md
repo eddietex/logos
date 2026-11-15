@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Lying along the valley — Judges 7:12
+
+*The Midianites and the Amalekites and all the children of the east lay along in the valley like locusts
+for multitude* (7:12). *Lay along* is *nōpəlîm*, the participle of *nāpal*, *fall* (WLC), the verb the
+dream then uses twice for the tent that *fell* (7:13). Gideon goes down to the edge of this camp by
+night. See [[The Dream of the Barley Loaf]]. Source: stored WEB Judges 7:12–13; Hebrew WLC (OpenScriptures morphhb),
+2026-11-15.
+
 ### Two camps in the valley — Judges 7:1–8
 
 Gideon camps *beside the spring of Harod*, and Midian *on the north side of them, by the hill of Moreh,
@@ -38,6 +46,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[The Dream of the Barley Loaf]] — Judges 7:12; the eastern army lying along the valley.
 - [[Gideon's Three Hundred]] — Judges 7:1, 8; Midian below, Gideon at the spring of Harod.
 - [[The Fleece]] — Judges 6:33; Midian, Amalek, and the children of the east encamp here.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
@@ -50,4 +59,5 @@ Source: stored WEB Joshua 17:14–18.
 
 - The eastern army's camp against Gideon — [[The Fleece]] (Judges 6:33).
 - Gideon's army reduced to three hundred, above Midian's camp — [[Gideon's Three Hundred]] (Judges 7:1–8).
+- Gideon and Purah overhear the dream at the camp's edge — [[The Dream of the Barley Loaf]] (Judges 7:9–15).
 - The geography of the request in [[The Children of Joseph Ask for More]]; no battle is narrated.

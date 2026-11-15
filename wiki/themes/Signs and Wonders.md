@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A sign heard, not asked for — Judges 7:9–15
+
+Gideon asked for every earlier sign: the fire from the rock (6:17–21) and the fleece twice (6:36–40).
+This one Yahweh offers before he asks, and only on a condition, *if you are afraid* (7:10). It is
+something to hear, not something to see: *You will hear what they say; and afterward your hands will be
+strengthened* (7:11). The sign is a stranger's dream and a stranger's interpretation (7:13–14). Gideon's
+response is worship (7:15). After it he asks for no more signs before the battle. See [[The Dream of the Barley Loaf]].
+
+Source: stored WEB Judges 6:17–21, 36–40; 7:9–15.
+
 ### The fleece, twice — Judges 6:36–40
 
 Gideon's second and third signs are of his own design. Dew on the fleece only and dry ground, then the
@@ -194,6 +204,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Dream of the Barley Loaf]] — Judges 7:9–15; a sign offered unasked, heard in an enemy's dream.
 - [[The Fleece]] — Judges 6:36–40; dew on the fleece, then dew on the ground, given in silence.
 - [[The Call of Gideon]] — Judges 6:13, 17–21; the wonders remembered, a sign asked and given in fire.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *those great signs in our sight* (17).

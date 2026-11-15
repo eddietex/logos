@@ -28,16 +28,23 @@ them.
 
 Source: stored WEB Judges 6:11, 25–32. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
+**Named in the enemy's camp (7:14).** The Midianite who interprets the dream of the barley loaf calls
+the coming danger *the sword of Gideon the son of Joash, a man of Israel* (7:14). Joash's name is known
+in Midian's camp, and the son he defended at Ophrah is named by it. See [[The Dream of the Barley Loaf]].
+Source: stored WEB Judges 7:14.
+
 ## Timeline / key events
 
 - Judges 6:11 — owner of the oak at Ophrah under which the angel sits.
 - Judges 6:25 — owner of the Baal altar, the Asherah, and the bull.
 - Judges 6:30–32 — refuses to give up his son; *If he is a god, let him contend for himself*; names him
   *Jerub-Baal*.
+- Judges 7:14 — named by the Midianite interpreter: *Gideon the son of Joash*.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
+- [[The Dream of the Barley Loaf]] — Judges 7:14.
 
 ## Related people
 - [[Gideon]] — his son.

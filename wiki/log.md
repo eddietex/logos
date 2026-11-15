@@ -26460,3 +26460,46 @@ none in Genesis–Joshua), *lāqaq* (7:5–7 only), *ʾôšîaʿ ʾetkem* and *b
 *šôpərōtêhem*, *heḥĕzîq* (7:8). Reported, not checked: explanations of *Mount Gilead* and of *ṣāpar*;
 any relocation of *with their hand to their mouth*; the "watchful" reading. No Greek or Latin text was
 consulted.
+
+## [2026-11-15] ingest | Judges 7.9-15 — The Dream of the Barley Loaf
+
+Auto mode. Judges was the only `in-progress` book; ingested its eighteenth box,
+[[The Dream of the Barley Loaf]] (Judges 7:9–15). Judges is now 18 / 42. The boundary was kept as
+planned: from *That same night* (7:9) to Gideon's *Arise* (7:15), ending before the battle plan of
+7:16; *The Sword of Yahweh and of Gideon* (7:16–25) is the next box.
+
+Created one passage, one person ([[Purah]]), and one connection
+([[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]]). Revised six people ([[Gideon]],
+[[God]], [[Joash (father of Gideon)]], [[Amalek]], [[The Children of the East]]; plus the new
+cross-reference on [[Rahab and the Spies]] and the forward link on [[Gideon's Three Hundred]]), two
+places ([[Midian]], [[The Valley of Jezreel]]), six themes ([[The Fear of God]],
+[[Signs and Wonders]], [[Prophecy and Vision]], [[Praise and Song]], [[War]], [[Providence]]), and
+four connections ([[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]],
+[[Dust, Stars, and Sand - The Offspring Promises]],
+[[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]],
+[[Twelve Spies and Two - Numbers 13 and Joshua 2]]). Updated the book page and books index, the
+people (A-E, F-M, N-Z), places, themes, and connections (D-H, I-N, O-S, T-Z) indexes, and the
+dashboard counts. Frontmatter totals: 454 passages, 310 people, 562 places, 87 themes, 865
+connections.
+
+Judgment calls: [[Purah]] gets a page as the only named companion in Gideon's story; the two unnamed
+Midianites do not. Gideon's fear at 7:11 is stated as an inference from his taking the conditional
+offer, since the text never says it. The barley-loaf-as-farmer and tent-as-nomad reading, and the
+commander's-tent reading, are reported, not adopted. The sand image (7:12) did not get its own
+connection: the existing locust connection already compared Joshua 11:4, so it was revised with the
+checked Hebrew. The Genesis 3:24 *mithappeket* (the only other hitpael of *hāpak* in Genesis–Judges)
+and a possible *šeber*/*šābar* pun on the pitchers of 7:20 are recorded on the passage page only. *Hištaḥăwâ*
+was filed under [[Praise and Song]], the nearest existing theme; no worship theme exists.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Numbers,
+Deuteronomy, and Joshua. Hebrew read from the Westminster Leningrad Codex (OpenScriptures morphhb,
+GitHub `wlc/Gen.xml`, `Exod.xml`, `Lev.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`), 2026-11-15.
+That covers *nətattîw* (7:9); *yārēʾ* (7:10, with 7:3); *Purah* (7:10–11 only); *naʿar* in Judges;
+*teḥĕzaqnâ yādêkā* (7:11; Joshua 1:9; Judges 7:8, 20); *ḥămušîm* (Exodus 13:18; Joshua 1:14; 4:12;
+Judges 7:11); *nōpəlîm*/*nāpal* (7:12–13); the sand clause (Genesis 22:17; Joshua 11:4; Judges 7:12);
+*ḥălôm* across Genesis–Judges; *sippēr … ḥālam* (Genesis 37:9); the ketiv/qere of *ṣəlîl*;
+*mithappēk* (Genesis 3:24); *šeber* (Leviticus 21:19; 24:20) against *pātar*/*pitrôn* (Genesis 40–41);
+*hištaḥăwâ* in Judges (2:12, 17, 19; 7:15); *nātan … bəyad-* (Joshua 2:24; Judges 4:14; 7:9, 14, 15);
+*ḥereb laYHWH ûləgidʿôn* (7:20). Reported, not checked: the sense of *ḥămušîm*; the derivation of
+*ṣəlîl* and its uniqueness beyond Genesis–Judges; the relation of *šeber* *interpretation* to *šeber*
+*breaking*. No Greek or Latin text was consulted.

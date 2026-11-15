@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### All the children of the east — Judges 7:12
+
+*All the children of the east lay along in the valley like locusts for multitude* (7:12), with Midian and
+Amalek, at the camp where Gideon overhears the dream of the barley loaf. See [[The Dream of the Barley Loaf]]. Source: stored
+WEB Judges 7:12.
+
 ### Encamped in the valley — Judges 6:33
 
 The third partner again, now not raiding but encamped with Midian and Amalek in *the valley of
@@ -40,8 +46,10 @@ Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 - Job, *the greatest of all the children of the east* — Job 1:3
 - Raid Israel's harvests with Midian and Amalek — Judges 6:3
 - Encamp with them in the valley of Jezreel — Judges 6:33
+- Lie along the valley *like locusts for multitude* — Judges 7:12
 
 ## Appears in
+- [[The Dream of the Barley Loaf]] — Judges 7:12; in the valley, *like locusts for multitude*.
 - [[The Fleece]] — Judges 6:33; encamped in the valley of Jezreel.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3; the raiders' third partner.
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:6; *eastward, to the east country*.

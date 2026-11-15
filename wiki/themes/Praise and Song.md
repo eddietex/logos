@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### He worshiped — Judges 7:15
+
+*It was so, when Gideon heard the telling of the dream, and its interpretation, that he worshiped*
+(7:15). The verb is *hištaḥăwâ*, to bow down (WLC). In Judges it appears four times. Three times Israel
+bows down to other gods (2:12, 17, 19). This is the one time it is directed at Yahweh. No words are
+given, and it happens at the edge of the enemy camp, before the battle and before anything has been
+won. Genesis 24:26 is the closest earlier scene. Abraham's servant, when his sign was answered, *bowed
+his head, and worshiped Yahweh*. See [[The Dream of the Barley Loaf]].
+
+Source: stored WEB Genesis 24:26; Judges 2:12, 17, 19; 7:15; Hebrew WLC (OpenScriptures morphhb),
+2026-11-15.
+
 ### The Song of Deborah — Judges 5:1–31
 
 *Then Deborah and Barak the son of Abinoam sang on that day* (5:1). Like the Song of the Sea after
@@ -177,6 +189,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
 
+- [[The Dream of the Barley Loaf]] — Judges 7:15; Gideon worships when he hears the dream.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[A Song to Witness Against Israel]] — Deuteronomy 31:14–23.

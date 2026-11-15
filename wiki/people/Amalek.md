@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Like locusts in the valley — Judges 7:12
+
+*The Midianites and the Amalekites and all the children of the east lay along in the valley like locusts
+for multitude* (7:12). Amalek is named second again. The dream that follows is about *the camp of
+Midian*, and Amalek is not named in it (7:13–14). See [[The Dream of the Barley Loaf]]. Source: stored WEB Judges 7:12–14.
+
 ### In the valley of Jezreel — Judges 6:33
 
 Amalek is named second in the army that *assembled … together* and *encamped in the valley of
@@ -132,6 +138,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[The Dream of the Barley Loaf]] — Judges 7:12; in the valley with Midian, *like locusts for multitude*.
 - [[The Fleece]] — Judges 6:33; gathered with Midian in the valley of Jezreel.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3; raids Israel's harvests with Midian.
 - [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.

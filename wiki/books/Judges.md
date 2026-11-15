@@ -174,6 +174,16 @@ Yahweh tests the ten thousand left at the water, with the smelter's verb, and ke
 who lapped. *By the three hundred men who lapped will I save you*. Gideon says nothing in the whole
 scene, and the text gives no reason why those three hundred were chosen.
 
+[[The Dream of the Barley Loaf]] (7:9–15) happens *That same night*. Yahweh says *I have delivered it into
+your hand*, and then offers a sign before Gideon asks: *if you are afraid to go down, go with Purah your
+servant*. He goes with Purah. At the edge of a camp lying *like locusts for multitude* and with camels *as
+the sand which is on the seashore* (Joshua 11:4's words), he hears a Midianite tell a dream of a barley
+loaf that knocks a tent flat. His fellow interprets it: *the sword of Gideon the son of Joash … God has
+delivered Midian into his hand*. Gideon worships, the only time Judges uses that verb of worshiping
+Yahweh. Then he gives his men Yahweh's own sentence: *Arise; for Yahweh has delivered the army of Midian
+into your hand!* The fear of 7:3 is now in the enemy's camp. As at Jericho (Joshua 2:9, 24), the spies
+hear it from the enemy's own mouth.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -213,7 +223,7 @@ merge, or reorder them freely.
 - [x] [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
 - [x] [[The Fleece]] — Judges 6:33–40
 - [x] [[Gideon's Three Hundred]] — Judges 7:1–8
-- [ ] The Dream of the Barley Loaf — Judges 7:9–15
+- [x] [[The Dream of the Barley Loaf]] — Judges 7:9–15
 - [ ] The Sword of Yahweh and of Gideon — Judges 7:16–25
 - [ ] Ephraim, Succoth, and Penuel — Judges 8:1–21
 - [ ] Gideon's Ephod and Death — Judges 8:22–35
@@ -249,12 +259,12 @@ merge, or reorder them freely.
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
-- [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4).
+- [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2).
 - [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
-- [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21) and the fleece twice (6:36–40).
+- [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -271,6 +281,7 @@ merge, or reorder them freely.
 - [[Sisera]] and [[Jabin (of Deborah's time)]] — the oppressors with nine hundred chariots (4:2–3).
 - [[Gideon]] — called at Ophrah to save Israel from Midian (6:11–24); named *Jerub-Baal* (6:32).
 - [[Joash (father of Gideon)]] — keeper of Ophrah's Baal altar, who refuses to give up his son (6:25–32).
+- [[Purah]] — Gideon's servant, who goes down with him to the edge of Midian's camp (7:10–11).
 
 ## Key places
 - [[Bezek]] — the first battle.

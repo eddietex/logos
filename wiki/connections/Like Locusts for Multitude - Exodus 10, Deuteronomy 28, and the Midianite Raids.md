@@ -18,8 +18,11 @@ tags: [connection]
 - [[Midian's Oppression and the Prophet]] — Judges 6:3–5. The raiders *destroyed the increase of the
   earth … They left no sustenance in Israel, and no sheep, ox, or donkey … They came in as locusts for
   multitude* (stored WEB).
-- **Judges 7:12** — *like locusts for multitude; and their camels were without number, as the sand which
-  is on the seashore for multitude* (stored WEB; *not yet ingested*).
+- [[The Dream of the Barley Loaf]] — Judges 7:12. *The Midianites and the Amalekites and all the children of
+  the east lay along in the valley like locusts for multitude; and their camels were without number, as
+  the sand which is on the seashore for multitude* (stored WEB).
+- [[The Northern Kings at the Waters of Merom]] — Joshua 11:4. *Many people, even as the sand that is on
+  the seashore in multitude* (stored WEB).
 
 ## Analysis
 
@@ -51,6 +54,13 @@ in a different order.
 (Genesis 22:17, *as the sand which is on the seashore*) and of the Canaanite kings' armies at the
 waters of Merom (Joshua 11:4). Here it is turned on Israel's enemies.
 
+**Judges 7:12 and Joshua 11:4.** The sand clause is nearly identical in the two verses: *kaḥôl
+šeʿal-śəpat hayyām lārōb* in Judges and *kaḥôl ʾăšer ʿal-śəpat hayyām lārōb* in Joshua (WLC). Only the
+relative particle differs. Genesis 22:17 has the clause without *lārōb*, *for multitude* (WLC). So the
+army Gideon faces is described in the words used for the last coalition Joshua defeated, and Judges 7:12
+repeats 6:5's *kāʾarbeh lārōb* and *ʾên mispār* as well (WLC). In 6:5 the locust image described raiders
+eating the land. In 7:12 it describes an army camped and waiting, the army the three hundred will rout.
+
 ## Significance
 - Judges does not quote Deuteronomy 28, and it does not say the raid is the curse. It says Israel *did
   that which was evil* and Yahweh *delivered them into the hand of Midian* (6:1), and it describes the
@@ -63,5 +73,5 @@ waters of Merom (Joshua 11:4). Here it is turned on Israel's enemies.
   (6:5), not a campaign.
 
 Sources: stored WEB Genesis 22:17; Exodus 10:5, 12, 15; Deuteronomy 28:15, 31, 33, 38, 42, 51; Joshua
-11:4; Judges 6:1, 3–5, 10; 7:12. Hebrew of Exodus 10:5, 12, 15; Deuteronomy 28:38, 51; Judges 6:4–5;
+11:4; Judges 6:1, 3–5, 10; 7:12. Hebrew of Genesis 22:17; Exodus 10:5, 12, 15; Deuteronomy 28:38, 51; Joshua 11:4; Judges 6:4–5;
 7:12 read from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

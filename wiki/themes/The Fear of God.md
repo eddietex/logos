@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### If you are afraid to go down — Judges 7:10
+
+*But if you are afraid to go down, go with Purah your servant down to the camp* (7:10). It is the same
+*yārēʾ* as 7:3 (WLC), and it is used of the man who made that proclamation. Yahweh does not rebuke the
+fear or send him home. He provides for it with a companion and a sign. Gideon goes down with Purah
+(7:11). The text never says he was afraid, but his choice shows it. The scene then turns the fear around.
+In the enemy camp a soldier dreams of defeat, and his fellow says *God has delivered Midian into his
+hand* (7:14). The word *fear* is not used of Midian. See [[The Dream of the Barley Loaf]] and
+[[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]], where Rahab says it outright: *the fear of
+you has fallen upon us* (Joshua 2:9).
+
+Source: stored WEB Judges 7:3, 10–14; Joshua 2:9; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Whoever is fearful and trembling — Judges 7:3
 
 *Whoever is fearful and trembling, let him return* (7:3). This is fear of the battle, not of God, and
@@ -570,6 +583,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[The Dream of the Barley Loaf]] — Judges 7:10; *if you are afraid*, met with a sign, not a dismissal.
 - [[Gideon's Three Hundred]] — Judges 7:3; the fearful sent home, by the law of Deuteronomy 20:8.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:27; obedience by night out of fear of the town.
 - [[The Call of Gideon]] — Judges 6:22–23; terror at seeing the angel, answered *Don't be afraid. You shall not die*.

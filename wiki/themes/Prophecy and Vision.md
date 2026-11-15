@@ -6,6 +6,21 @@ tags: [theme]
 
 ## Definition / overview
 
+### A dream in the enemy's camp — Judges 7:13–14
+
+*Behold, I dreamed a dream; and behold, a cake of barley bread tumbled into the camp of Midian* (7:13).
+This is the first dream told in Scripture since Pharaoh's (Genesis 41). Between them the noun *ḥălôm*
+appears only in Yahweh's statement that he speaks to a prophet *in a dream* (Numbers 12:6) and in the
+law against the *dreamer of dreams* who leads Israel to other gods (Deuteronomy 13:1–5) (WLC). The
+dreamer's words recall Joseph's, *Behold, I have dreamed yet another dream* (Genesis 37:9), with the same
+verbs. In Genesis, outsiders dreamed and an Israelite interpreted. Here a Midianite dreams and a Midianite
+interprets, at once and correctly, against his own side: *This is nothing other than the sword of
+Gideon* (7:14). The word for the interpretation, *šeber*, is not the *pitrôn* of Genesis 40–41 (WLC).
+See [[The Dream of the Barley Loaf]] and [[This Dreamer Comes - Joseph's Dreams and Their Fulfilment]].
+
+Source: stored WEB Genesis 37:9; Numbers 12:6; Deuteronomy 13:1–5; Judges 7:13–15; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
 ### A man, a prophet — Judges 6:8–10
 
 *Yahweh sent a prophet to the children of Israel* (6:8): *ʾîš nābîʾ*, the masculine form of Deborah's
@@ -244,6 +259,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[The Dream of the Barley Loaf]] — Judges 7:13–14; a dream told and interpreted in Midian's camp.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–10; the unnamed prophet's speech.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; No prophet like Moses since (10).

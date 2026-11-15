@@ -7,6 +7,18 @@ tags: [place]
 
 ## Overview
 
+### The tent that fell — Judges 7:9–15
+
+Midian's army *lay along in the valley like locusts for multitude*, and its camels were *as the sand which
+is on the seashore for multitude* (7:12), the image Joshua 11:4 used for the Canaanite kings at Merom.
+Inside the camp a soldier dreams of a barley loaf that knocks *the tent* flat, and his fellow says it is
+*the sword of Gideon … God has delivered Midian into his hand, with all the army* (7:13–14). It is the
+first dream told in Scripture since Pharaoh's, and Midian interprets it against itself. A common
+reading takes the loaf as the farmer and the tent as the nomad who came *with their tents* (6:5). That
+is reported here, not adopted. See [[The Dream of the Barley Loaf]] and
+[[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]]. Source: stored WEB Judges 6:5; 7:12–15;
+Joshua 11:4.
+
 ### Beneath him in the valley — Judges 7:1–8
 
 *Midian's camp was on the north side of them, by the hill of Moreh, in the valley* (7:1), and at the
@@ -129,6 +141,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[The Dream of the Barley Loaf]] — Judges 7:12–15; the camp *like locusts*, the dream of the fallen tent, and its interpretation.
 - [[Gideon's Three Hundred]] — Judges 7:1, 7–8; camped by the hill of Moreh, below Gideon.
 - [[The Fleece]] — Judges 6:33; the gathered army encamps in the valley of Jezreel.
 - [[The Call of Gideon]] — Judges 6:11–16; Gideon hides his wheat from Midian and is sent against it.
@@ -188,4 +201,5 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   land — Exodus 18:1–27, [[Jethro's Counsel]]
 - Hobab, a Midianite, is asked to go with Israel from Sinai — Numbers 10:29–32, [[The March from Sinai]]
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31, [[The War Against Midian]]
+- The dream of the barley loaf overheard in Midian's camp — Judges 7:9–15, [[The Dream of the Barley Loaf]]
 - The raids Gideon ends — Judges 6–8

@@ -4141,9 +4141,11 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Sells Israel to Cushan Rishathaim, raises up Othniel, and his Spirit comes on him — [[Othniel the First Judge]]
 - His Spirit clothes Gideon; grants the fleece twice, unrebuking — [[The Fleece]]
 - Reduces Gideon's army to three hundred, *lest Israel brag* — [[Gideon's Three Hundred]]
+- Offers the fearful Gideon a sign unasked, heard in an enemy's dream; *I have delivered it into your hand* — [[The Dream of the Barley Loaf]]
 
 ## Appears in
 
+- [[The Dream of the Barley Loaf]] — Judges 7:9–15; *I have delivered it into your hand*, and *if you are afraid … you will hear what they say*; *God* in the Midianite interpreter's mouth, *Yahweh* in Gideon's.
 - [[Gideon's Three Hundred]] — Judges 7:1–8; the army *too many*, reduced to three hundred, *lest Israel brag against me*.
 - [[The Fleece]] — Judges 6:33–40; his Spirit clothes Gideon; addressed as *God*, he grants the fleece twice without a word.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; he commands the Baal altar thrown down and a new altar built, and leaves Baal to contend for himself.
