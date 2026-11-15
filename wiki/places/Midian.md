@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### Seven years over Israel — Judges 6:1–6
+
+*Yahweh delivered them into the hand of Midian seven years* (6:1). The Midianites come every year at
+harvest with the Amalekites and [[The Children of the East]], *with their livestock and their tents*,
+camp on the fields, and strip the land *until you come to Gaza* (6:3–5). Israel hides in *the dens which
+are in the mountains, and the caves, and the strongholds* (6:2). The narrator compares them to locusts,
+and their camels are *without number* (6:5); see
+[[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]]. Midian, destroyed
+in Numbers 31 by the account there, is here strong enough to rule Israel; the wiki records both, as
+above, and does not harmonize them.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Eastern allotments — Joshua 13:8–33
 
 The five chiefs are recalled as princes of Sihon (21); Numbers 31:8 calls them kings of Midian. Their deaths are remembered within the land register, without a new battle narrative.
@@ -90,6 +103,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[Midian's Oppression and the Prophet]] — Judges 6:1–6; seven years of harvest raids with Amalek and the children of the east.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The War Against Midian]] — Numbers 31:1–54; the war of vengeance for Peor; five kings and Balaam killed.

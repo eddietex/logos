@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### "The house of bondage" — Judges 6:8
+
+*I brought you up from Egypt, and brought you out of the house of bondage* (6:8). *Mibbêt ʿăbādîm* is
+the phrase of Exodus 20:2 and Deuteronomy 5:6 (WLC). It is recalled to a people hiding in caves from
+Midian (6:2).
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Eighteen years, and the tribute — Judges 3:12–30
 
 *The children of Israel served Eglon the king of Moab eighteen years* (14). The service is shown, not
@@ -485,6 +493,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:8; *out of the house of bondage*.
 - [[Ehud and Eglon]] — Judges 3:14–18; eighteen years of service, and the tribute.
 - [[Othniel the First Judge]] — Judges 3:7–8; they served the Baals, then served Cushan Rishathaim.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:28–35; forced labor four times.

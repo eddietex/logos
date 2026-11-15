@@ -92,3 +92,12 @@ backwards**: the plagues return, and the people return to Egypt.
   [[Remembrance]].
 - **It explains the friends' reading of Job**: a man with *"the boils of Egypt"* looks cursed by the
   rules. See [[The Boil of Deuteronomy 28 on a Blameless Man]].
+
+### The curse in Judges 6
+
+The first time Judges describes an oppression as loss of the harvest, it uses this chapter's terms. *A
+nation which you don't know will eat the fruit of your ground* (28:33) and *the locust will consume it*
+(28:38) become Midian *as locusts*, leaving *no sustenance … no sheep, ox, or donkey* (Judges 6:4–5).
+Judges does not cite Deuteronomy. See [[Midian's Oppression and the Prophet]] and
+[[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]]. Sources: stored WEB
+Deuteronomy 28:33, 38; Judges 6:4–5.

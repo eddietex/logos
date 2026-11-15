@@ -96,3 +96,13 @@ Source: stored WEB Deuteronomy 22:23–27; 28:29, 31. Hebrew from WLC (morphhb),
 The Hebrew forms and counts on this page were checked against the Westminster Leningrad Codex (Open
 Scriptures `morphhb`); Genesis and Exodus are quoted from `raw/bible/`. See
 [[Mourning and Lament]], [[Judgment]], and [[Retribution]].
+
+### Judges 6:6–7 — the cry under Midian
+
+[[Midian's Oppression and the Prophet]]: *Israel was brought very low because of Midian; and the children of Israel cried to Yahweh. When
+the children of Israel cried to Yahweh because of Midian, Yahweh sent a prophet* (6:6–8). The verb is
+*zāʿaq* (WLC), the verb of Exodus 2:23. The prophet then recalls the exodus that answered that first cry
+(*I brought you up from Egypt*, 6:8), and names the oppressors with *lāḥaṣ*, the word of Exodus 3:9
+(WLC). The cry in Judges is told in the words of the cry in Egypt, but here the first answer is a
+rebuke. Sources: stored WEB Exodus 2:23; 3:9; Judges 6:6–9; Hebrew from the Westminster Leningrad Codex
+(OpenScriptures morphhb), 2026-11-15.

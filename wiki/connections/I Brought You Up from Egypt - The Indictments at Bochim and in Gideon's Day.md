@@ -10,10 +10,11 @@ tags: [connection]
   not listened to my voice* (stored WEB).
 - **Judges 2:20–21** — Yahweh, speaking without a messenger: *Because this nation transgressed my
   covenant which I commanded their fathers, and has not listened to my voice, I also will no longer
-  drive out any of the nations that Joshua left when he died* (stored WEB; *not yet ingested*).
-- **Judges 6:8–10** — a prophet: *I brought you up from Egypt, and brought you out of the house of
-  bondage … I said to you, "I am Yahweh your God. You shall not fear the gods of the Amorites, in
-  whose land you dwell." But you have not listened to my voice* (stored WEB; *not yet ingested*).
+  drive out any of the nations that Joshua left when he died*
+  (stored WEB; see [[Another Generation Arose]]).
+- [[Midian's Oppression and the Prophet]] — Judges 6:8–10. A prophet: *I brought you up from Egypt,
+  and brought you out of the house of bondage … I said to you, "I am Yahweh your God. You shall not
+  fear the gods of the Amorites, in whose land you dwell." But you have not listened to my voice* (stored WEB).
 - [[The Angel Sent Ahead]] — Exodus 23:21–22. *Listen to his voice … if you indeed listen to his
   voice, and do all that I speak* (stored WEB). The condition the three Judges speeches say was
   broken.
@@ -67,3 +68,16 @@ and *ṣiwwâ* in its warning (WLC). Israel is called *haggôy hazzeh*, *this na
 nations. The speech then adds a purpose Bochim did not give: the nations stay *that by them I may test
 Israel* (2:22). Sources: stored WEB Judges 2:20–22 and Joshua 23:16; Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb), 2026-11-13.
+
+### Judges 6:8–10 now ingested
+
+[[Midian's Oppression and the Prophet]] gives the third speech its setting. It comes after the cry,
+which the narrator tells twice (6:6–7), and before any deliverer. The prophet's history is longer than
+the angel's: *I delivered you out of the hand of the Egyptians, and out of the hand of all who oppressed
+you, and drove them out from before you, and gave you their land* (6:9). His *drove them out* is
+*wāʾăgārēš*, from *gāraš* (WLC), the verb Bochim used negatively: what Yahweh did then is what he said
+at Bochim he would no longer do. His quoted command, *You shall not fear the gods of the Amorites, in
+whose land you dwell* (6:10), repeats the clause of Joshua 24:15 (WLC). Of the three speeches, his is
+the only one with no stated result; the angel of 6:11 comes instead. See
+[[The Prophet (of Gideon's time)]]. Sources: stored WEB Judges 6:6–11; Joshua 24:15; Hebrew from the
+Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

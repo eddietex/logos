@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### With Midian at harvest — Judges 6:3
+
+*The Midianites, the Amalekites, and the children of the east came up against them* (6:3). Amalek is
+again a partner, as it was with Moab in 3:13, not the leader. In Judges it is always named with Midian
+and [[The Children of the East]] in this war (6:3, 33; 7:12).
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### *Whose root is in Amalek* — Judges 5:14
 
 *Those whose root is in Amalek came out of Ephraim* (5:14). The Song places an Amalekite name within
@@ -119,6 +127,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:3; raids Israel's harvests with Midian.
 - [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
 

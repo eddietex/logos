@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The gods of the Amorites — Judges 6:10
+
+The prophet's charge names no Baal or Asherah. It names *the gods of the Amorites, in whose land you
+dwell* (6:10), the clause of Joshua 24:15, and says Israel has not listened. The altar of Baal and the
+Asherah at Ophrah follow in 6:25.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### *They chose new gods* — Judges 5:8
 
 *They chose new gods. Then war was in the gates. Was there a shield or spear seen among forty
@@ -520,6 +528,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites*.
 - [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
 - [[Othniel the First Judge]] — Judges 3:7; *the Baals and the Asheroth*.
 - [[The Nations Left to Test Israel]] — Judges 3:6; marriage, then *served their gods*.

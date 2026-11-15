@@ -4107,6 +4107,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:1–10; he gives Israel to Midian, hears the cry, and sends a prophet to recite what he did and charge them: *you have not listened to my voice*.
 - [[Ehud and Eglon]] — Judges 3:12–30; he strengthens Eglon against Israel, raises up Ehud, and, in Ehud's words, delivers Moab into Israel's hand.
 - [[Othniel the First Judge]] — Judges 3:7–11; he sells Israel, raises up a savior, and his Spirit comes on Othniel.
 - [[The Nations Left to Test Israel]] — Judges 3:1–6; he leaves the nations *to test Israel by them*, and *to teach them war*.

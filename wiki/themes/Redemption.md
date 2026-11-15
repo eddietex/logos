@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### "I delivered you" — Judges 6:9
+
+*I delivered you out of the hand of the Egyptians, and out of the hand of all who oppressed you* (6:9).
+The verb is *nāṣal* (WLC, hiphil), and the oppressors' word is *lāḥaṣ*, the word of Exodus 3:9 and
+Judges 2:18 (WLC). The deliverance is recalled here, not given; Israel is still under Midian when the
+prophet stops speaking.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### He also saved Israel — Judges 3:31
 
 *He also saved Israel* (31). [[Shamgar]] is given the verb, *wayyōšaʿ* (WLC), but not the title
@@ -342,6 +351,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:9; past deliverance recalled under a new oppressor.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; *he also saved Israel*, the verb without the title.
 - [[Ehud and Eglon]] — Judges 3:15, 28; *a savior*, and Yahweh's deliverance in Ehud's mouth.
 - [[Othniel the First Judge]] — Judges 3:9; *a savior … who saved them*.

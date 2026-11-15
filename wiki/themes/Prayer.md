@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israel cried, and a prophet came — Judges 6:6–10
+
+*The children of Israel cried to Yahweh* (6:6), and the narrator says it again: *When the children of
+Israel cried to Yahweh because of Midian, Yahweh sent a prophet* (6:7–8). Both verbs are *zāʿaq* (WLC),
+as at 3:9 and 15. In those cycles the cry brought a savior in the same sentence. Here it brings first a
+rebuke, *you have not listened to my voice* (6:10), and only then the angel to Gideon (6:11). Judges
+10:10–14 goes further, when Yahweh answers a cry with *Go and cry to the gods which you have chosen*.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Israel cried again — Judges 3:15
 
 *But when the children of Israel cried to Yahweh, Yahweh raised up a savior for them* (15). The same
@@ -386,6 +396,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:6–8; the cry told twice, answered with a prophet.
 - [[Ehud and Eglon]] — Judges 3:15; the cry, and a savior raised up.
 - [[Othniel the First Judge]] — Judges 3:9; *the children of Israel cried to Yahweh*.
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

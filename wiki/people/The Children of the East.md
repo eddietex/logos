@@ -1,0 +1,52 @@
+---
+type: person
+also_known_as: [bənê qedem, the sons of the east, the people of the east]
+tags: [person]
+---
+# The Children of the East
+
+## Overview
+
+### Midian's partners — Judges 6:3
+
+*The Midianites, the Amalekites, and the children of the east came up against them* (6:3). The Hebrew
+is *bənê qedem* (WLC), literally *sons of the east* or *sons of the front*, since *qedem* is the
+direction one faces. It is not the name of one nation. It is a general term for the peoples of the
+desert east of the Jordan and of Syria. In Judges they are always named with Midian and Amalek (6:3,
+33; 7:12), and in 8:10 the whole enemy army is called *the army of the children of the east*.
+
+**Earlier uses.** Jacob, fleeing Esau, *came to the land of the children of the east* (Genesis 29:1),
+the country of Laban near Haran. Job was *the greatest of all the children of the east* (Job 1:3). The
+phrase *ʾereṣ qedem*, *the east country*, is where Abraham sent the sons of Keturah, Midian among them
+(Genesis 25:2, 6, WLC). So the term covers both the land of Jacob's mothers and the desert of the
+raiders. Where exactly each text places them, it does not say; the wiki does not try to map the term.
+
+**Why it has a page.** The phrase names a party in the Midianite wars in four verses (6:3, 33; 7:12;
+8:10) and links three books already ingested. It is filed with the peoples, as [[Amalek]] and
+[[The Amorites]] are.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:3, 33; 7:12; 8:10;
+Genesis 25:6; 29:1; Job 1:3. Hebrew of Judges 6:3; Genesis 25:6; 29:1; and Job 1:3 from the
+Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
+## Timeline / key events
+- Keturah's sons sent *to the east country* — Genesis 25:6
+- Jacob comes to *the land of the children of the east* — Genesis 29:1
+- Job, *the greatest of all the children of the east* — Job 1:3
+- Raid Israel's harvests with Midian and Amalek — Judges 6:3
+
+## Appears in
+- [[Midian's Oppression and the Prophet]] — Judges 6:3; the raiders' third partner.
+- [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:6; *eastward, to the east country*.
+- [[Jacob, Leah, and Rachel]] — Genesis 29:1; Jacob comes to their land.
+- [[Job of Uz]] — Job 1:3; Job is the greatest of them.
+
+## Related people
+- [[Amalek]] — always named beside them in Judges.
+- [[Keturah]] — whose sons were sent to the east country.
+- [[Jacob]] — who came to their land.
+- [[Job (person)]] — the greatest of them.
+
+## Themes associated
+- [[The Nations]]
+- [[War]]

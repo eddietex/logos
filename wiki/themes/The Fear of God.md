@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### "You shall not fear the gods of the Amorites" — Judges 6:10
+
+*I am Yahweh your God. You shall not fear the gods of the Amorites* (6:10). The verb is *yārēʾ*,
+*fear* (WLC), used here of other gods, where Joshua 24:15 had *serve*. To *fear* a god is to worship
+him; the command forbids that worship to any god but Yahweh.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *Now therefore fear Yahweh, and serve him in sincerity and in truth* (14). Fear is the first response the history calls for, joined at once to undivided service, as in Deuteronomy 6:13 and 10:20 (stored WEB).
@@ -541,6 +549,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:10; not to fear the gods of the Amorites.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *fear Yahweh, and serve him in sincerity and in truth* (14).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

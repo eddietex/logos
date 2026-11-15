@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The harvest raided — Judges 6:3–6
+
+*When Israel had sown*, the raiders came and *destroyed the increase of the earth … They left no
+sustenance in Israel, and no sheep, ox, or donkey* (6:3–4). It is the first oppression in Judges told
+as hunger. *Yəbûl*, *increase*, is the word of the blessing and curse in Leviticus 26:4, 20 and
+Deuteronomy 11:17 (WLC). Here the land yields and an enemy eats it, as Deuteronomy 28:33 had threatened:
+*A nation which you don't know will eat the fruit of your ground*. See
+[[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]].
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Covenant sanctions — Deuteronomy 28:15–68
 
 Failed rain, insects, confiscated harvests, and siege hunger undo plenty (23–24, 33, 38–42, 51–57). The children themselves become food in the warning; the text describes familial devastation rather than approving it.
@@ -221,6 +232,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:3–6; the increase of the land destroyed every harvest.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
 

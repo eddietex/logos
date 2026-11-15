@@ -126,6 +126,17 @@ them away*. Yahweh's angel curses Meroz for not coming; Jael is *blessed above w
 Jabin, and it lists six tribes where the prose had two; the wiki records those differences rather than
 harmonizing them. *Then the land had rest forty years.*
 
+[[Midian's Oppression and the Prophet]] (6:1–10) opens the cycle again, without the *again* of 3:12 and
+4:1: Israel does evil, and Yahweh gives them *into the hand of Midian seven years*. This oppressor is a
+migration, not a kingdom. Every year *when Israel had sown*, the Midianites, the Amalekites, and *the
+children of the east* come with their herds, tents, and camels *as locusts for multitude*, and strip the
+land *until you come to Gaza*, while Israel hides in dens and caves. It is the first oppression told as
+hunger, in the images of the eighth plague and of Deuteronomy 28. Israel cries, and the narrator says so
+twice; but the first answer is not a savior. *Yahweh sent a prophet*, unnamed, who recites the exodus
+in the words of the Ten Words, quotes *You shall not fear the gods of the Amorites, in whose land you
+dwell* from Joshua 24:15, and ends on Bochim's charge, *you have not listened to my voice*, with no
+sentence after it. The cry that once brought rescue at once now brings a rebuke first.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -160,7 +171,7 @@ merge, or reorder them freely.
 - [x] [[Deborah and Barak]] — Judges 4:1–16
 - [x] [[Jael and Sisera]] — Judges 4:17–24
 - [x] [[The Song of Deborah]] — Judges 5:1–31
-- [ ] Midian's Oppression and the Prophet — Judges 6:1–10
+- [x] [[Midian's Oppression and the Prophet]] — Judges 6:1–10
 - [ ] The Call of Gideon — Judges 6:11–24
 - [ ] Gideon Throws Down Baal's Altar — Judges 6:25–32
 - [ ] The Fleece — Judges 6:33–40

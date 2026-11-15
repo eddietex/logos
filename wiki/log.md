@@ -26264,3 +26264,41 @@ as claims, not verified: *when locks hung loose* (5:2); *the One of Sinai* (5:5)
 *peasantry* and *šaqqamtî* as second person (5:7); *God chose new things* (5:8); *Gilead* for Gad;
 overtones in *at her feet*; the rain of 5:4 as the Kishon's flood; the manuscript variation at Luke 1:28.
 No raw text was added or changed, and no workflow instruction was changed.
+
+## [2026-11-15] ingest | Judges 6.1-10 — Midian's Oppression and the Prophet
+
+Auto mode. Judges was the only `in-progress` book; ingested its thirteenth box,
+[[Midian's Oppression and the Prophet]] (Judges 6:1–10). Judges is now 13 / 42. The boundary was kept
+as planned: the oppression and the prophet's speech, ending before the angel comes to Ophrah (6:11);
+*The Call of Gideon* (6:11–24) is the next box.
+
+Created one passage; two people ([[The Prophet (of Gideon's time)]], [[The Children of the East]]); and
+one connection ([[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]]).
+Revised three people ([[God]], [[Amalek]], [[The Amorites]]), three places ([[Midian]], [[Gaza]],
+[[Egypt]]), ten themes ([[Sin]], [[Famine and Plenty]], [[Prayer]], [[Prophecy and Vision]],
+[[Remembrance]], [[Redemption]], [[Slavery and Servitude]], [[The Fear of God]], [[Idolatry]],
+[[Law and Obedience]]), and four connections
+([[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]],
+[[A Great Cry - The Outcry of the Oppressed and the Cry of Egypt]],
+[[The Day of the Locust - Exodus 10 and Joel 1-2]],
+[[The Diseases of Egypt - The Plagues in Deuteronomy 28]]). Updated the book page and books index, the
+people (A-E, F-M, N-Z), places, themes, and connections (D-H, I-N) indexes, and the dashboard counts.
+Frontmatter totals: 449 passages, 307 people, 559 places, 87 themes, 859 connections.
+
+Tension recorded, not harmonized: Numbers 31 has every Midianite male killed and their cities burned;
+Judges 6 has Midian ruling Israel for seven years. Noted on the passage page and on [[Midian]], as the
+Numbers ingest had already flagged it.
+
+Judgment calls: the unnamed prophet gets a page as a speaking figure, qualified by period under the
+title rule. *The children of the east* get a people page, since they recur in four verses of the
+Gideon story and link Genesis 29:1 and Job 1:3. The Midianites stay on the place page [[Midian]], as in
+every earlier ingest. Joash, Gideon, and Ophrah are left for the next pericope. The *I Brought You Up*
+connection's 6:8–10 entry was relinked to the new passage.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Leviticus, Numbers, Deuteronomy, Joshua, and Job. Hebrew read from the Westminster Leningrad Codex
+(OpenScriptures morphhb, GitHub `wlc/Gen.xml`, `Exod.xml`, `Lev.xml`, `Deut.xml`, `Josh.xml`,
+`Judg.xml`, `Job.xml`), 2026-11-15; *only here* claims are limited to the files listed on the passage
+page. Reported, not verified: the derivation of *minhārâ*; *dālal* and *dal* as one root; that
+4QJudg^a lacks 6:7–10; the "prophetic lawsuit" comparison. 2 Kings 17:35–38 is cited by reference
+only, from memory, and not quoted.

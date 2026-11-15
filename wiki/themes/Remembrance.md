@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The prophet's history — Judges 6:8–9
+
+The prophet sent under Midian reminds Israel of what Yahweh did: *I brought you up from Egypt … I
+delivered you out of the hand of the Egyptians, and out of the hand of all who oppressed you, and drove
+them out from before you, and gave you their land* (6:8–9). Gideon will ask the angel the same question
+from the other side: *Where are all his wondrous works which our fathers told us of?* (6:13).
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### They forgot Yahweh — Judges 3:7–11
 
 *And forgot Yahweh their God* (7), *wayyiškəḥû* (WLC). Deuteronomy 8:11 and 19 had warned in the
@@ -784,6 +793,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:8–9; the exodus and the conquest recited.
 - [[Othniel the First Judge]] — Judges 3:7; *forgot Yahweh their God*.
 - [[Another Generation Arose]] — Judges 2:7, 10; the generation *who didn't know Yahweh*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; the elders who *had known all the work of Yahweh* (31).

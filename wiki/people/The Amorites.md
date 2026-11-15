@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### "The gods of the Amorites" — Judges 6:10
+
+The prophet quotes Yahweh: *You shall not fear the gods of the Amorites, in whose land you dwell* (6:10).
+The clause is Joshua's, from the choice at Shechem: *or the gods of the Amorites, in whose land you
+dwell* (Joshua 24:15). In both, *the Amorites* stands for all the land's former peoples, and the
+Hebrew relative clause is the same (WLC). Joshua offered the choice; the prophet says it has been made
+the wrong way.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Lived among — Judges 3:1–6
 
 Third of the six peoples Israel *lived among* (5). Israel marries their daughters and serves their gods
@@ -61,6 +71,7 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:16; 15:
 
 ## Appears in
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites, in whose land you dwell*.
 - [[The Nations Left to Test Israel]] — Judges 3:5–6; among the six peoples Israel lived among and married.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:34–36; press Dan, hold three cities, and mark a
   border.

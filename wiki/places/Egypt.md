@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### "Out of the house of bondage" — Judges 6:8–9
+
+The prophet sent in Midian's days begins where the Ten Words begin: *I brought you up from Egypt, and
+brought you out of the house of bondage. I delivered you out of the hand of the Egyptians* (6:8–9).
+*Mibbêt ʿăbādîm* is the phrase of Exodus 20:2 and Deuteronomy 5:6 (WLC). Egypt is recalled as the first
+oppressor, and Midian is set beside it as one more of *all who oppressed you*.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### "Who brought them out of the land of Egypt" — Judges 2:6–23
 
 The God Israel abandons is *the God of their fathers, who brought them out of the land of Egypt*
@@ -482,6 +491,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:8–9; *out of the house of bondage*.
 - [[Another Generation Arose]] — Judges 2:12; *who brought them out of the land of Egypt*.
 - [[The Angel at Bochim]] — Judges 2:1; *I brought you out of Egypt*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones *brought up out of Egypt* (32).

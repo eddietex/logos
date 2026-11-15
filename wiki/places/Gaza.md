@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### "Until you come to Gaza" — Judges 6:4
+
+The Midianite raiders *destroyed the increase of the earth, until you come to Gaza* (6:4). Gaza, which
+Judah took in 1:18, here marks the far western edge of the raids: the land is stripped from the eastern
+desert to the Philistine coast. The idiom, *ʿad-bôʾăkā ʿazzâ*, addresses the reader, as Genesis 10:19
+does when it draws the Canaanite border toward Gerar and Gaza (WLC).
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Taken by Judah — Judges 1:18
 
 *Also Judah took Gaza with its border, and Ashkelon with its border, and Ekron with its border* (18).
@@ -47,6 +56,7 @@ Named as the extent of the Avvim’s villages in the account of their displaceme
 Source: stored WEB Deuteronomy 2:1–23.
 
 ## Appears in
+- [[Midian's Oppression and the Prophet]] — Judges 6:4; the western limit of the Midianite raids.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; taken by Judah, *with its border*.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Land That Remains]] — Joshua 13:1–7.

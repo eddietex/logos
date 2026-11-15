@@ -74,3 +74,13 @@ named here by reference only.
   the New Testament; that line is not traced here until those books are ingested.
 - **No claim is made about the date of Joel or the direction of borrowing** beyond what the wording
   shows: the phrase-level match in Joel 2:2 reads as a citation of Exodus 10:14, 22.
+
+### Between Exodus and Joel — Judges 6:5 and 7:12
+
+Before Joel, Judges already turns the locust against Israel. The Midianite raiders *came in as locusts
+for multitude*, *kədê-ʾarbeh lārōb* (6:5, WLC), and strip the land of its *increase* (6:4); Judges 7:12
+repeats *like locusts for multitude*. There the locusts are a simile for a people, as Joel's locusts are
+called *my great army* (Joel 2:25). See [[Midian's Oppression and the Prophet]] and
+[[Like Locusts for Multitude - Exodus 10, Deuteronomy 28, and the Midianite Raids]]. Sources: stored
+WEB Judges 6:4–5; 7:12; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb),
+2026-11-15.

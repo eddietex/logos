@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A man, a prophet — Judges 6:8–10
+
+*Yahweh sent a prophet to the children of Israel* (6:8): *ʾîš nābîʾ*, the masculine form of Deborah's
+*ʾiššâ nəbîʾâ* (4:4, WLC). He is unnamed and appears once; see [[The Prophet (of Gideon's time)]]. He
+speaks in the messenger formula, *Yahweh says, the God of Israel*, recites history, quotes a command,
+and states a charge, without a sentence or a promise. It is the shape of the prophetic lawsuit that
+later prophets use at length; that comparison is a common reading, reported here, not traced.
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### A woman's hand — Judges 4:21–22
 
 Deborah's word at 4:9, *Yahweh will sell Sisera into a woman's hand*, is fulfilled at 4:21 by a woman
@@ -234,6 +244,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[Midian's Oppression and the Prophet]] — Judges 6:8–10; the unnamed prophet's speech.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; No prophet like Moses since (10).
 - [[The Book Beside the Ark]] — Deuteronomy 31:24–29.

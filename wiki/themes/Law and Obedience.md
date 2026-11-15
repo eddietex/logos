@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### "You have not listened to my voice" — Judges 6:10
+
+The prophet ends with the charge of Bochim, *But you have not listened to my voice* (6:10; 2:2), the
+condition Deuteronomy 28:15 attached to the curses, *if you will not listen to Yahweh your God's voice*.
+See [[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]].
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Whether they would listen — Judges 3:1–6
 
 The test measures one thing: *whether they would listen to Yahweh's commandments, which he commanded
@@ -1569,6 +1577,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Midian's Oppression and the Prophet]] — Judges 6:10; the charge of not listening.
 - [[The Nations Left to Test Israel]] — Judges 3:4–6; the commandments by Moses, and the marriages.
 - [[Another Generation Arose]] — Judges 2:17, 19–20; *they didn't listen to their judges*.
 - [[The Angel at Bochim]] — Judges 2:2; *you have not listened to my voice*.

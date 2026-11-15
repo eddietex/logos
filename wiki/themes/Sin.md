@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Evil without "again" — Judges 6:1
+
+*The children of Israel did that which was evil in Yahweh's sight* (6:1). Judges 3:12 and 4:1 said
+Israel *again* did evil (*wayyōsipû*, WLC); 6:1 drops the word, as 3:7 has it (WLC). The prophet then
+names the sin: Israel has *not listened* to Yahweh's voice and has feared *the gods of the Amorites*
+(6:10).
+
+See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The altar of witness — Joshua 22:10–34
 
 Trespass and rebellion are assessed by their corporate effect. *Tomorrow he will be angry with the
@@ -760,6 +769,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[Midian's Oppression and the Prophet]] — Judges 6:1, 10; the cycle's formula, and the charge.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
