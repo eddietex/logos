@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Whoever is fearful and trembling — Judges 7:3
+
+*Whoever is fearful and trembling, let him return* (7:3). This is fear of the battle, not of God, and
+the law of war allowed for it: *What man is there who is fearful and faint-hearted? Let him go and
+return to his house* (Deuteronomy 20:8). Judges uses the same adjective, *yārēʾ* (WLC). Twenty-two
+thousand go home. Gideon is not one of them, though he feared the town (6:27), and Yahweh will say to
+him *if you are afraid to go down* (7:10) with the same *yārēʾ* (WLC). The fearful are dismissed, and
+the fearful commander is kept and given a sign. See [[Gideon's Three Hundred]] and
+[[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]].
+
+Source: stored WEB Judges 6:27; 7:3, 10; Deuteronomy 20:8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### He feared his father's household — Judges 6:27
 
 *Because he feared his father's household and the men of the city, he could not do it by day, but he
@@ -558,6 +570,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[Gideon's Three Hundred]] — Judges 7:3; the fearful sent home, by the law of Deuteronomy 20:8.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:27; obedience by night out of fear of the town.
 - [[The Call of Gideon]] — Judges 6:22–23; terror at seeing the angel, answered *Don't be afraid. You shall not die*.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; not to fear the gods of the Amorites.

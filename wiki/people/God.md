@@ -7,6 +7,19 @@ tags: [person]
 
 ## Overview
 
+### Too many for me to give — Judges 7:1–8
+
+Yahweh, silent through the fleece, speaks four times in eight verses. Gideon's army is *too many for
+me to give the Midianites into their hand, lest Israel brag against me, saying, "My own hand has saved
+me"* (7:2). He reduces it twice: first the *fearful and trembling*, by the law of Deuteronomy 20:8, then
+by a test at the water he calls *I will test them for you*, with the smelter's verb *ṣārap* (7:4, WLC).
+He chooses the three hundred and gives no reason. His promise keeps the credit: *By the three hundred
+men who lapped will I save you, and deliver the Midianites into your hand* (7:7). Israel is saved, and
+Gideon's hand strikes, but the saving is his. See [[Gideon's Three Hundred]] and
+[[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]].
+
+Source: stored WEB Judges 7:1–8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### He begins with the altar in his father's house — Judges 6:25–32
 
 *That same night, Yahweh said to him*: the first order to the man sent against Midian is to throw down
@@ -4127,9 +4140,11 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Leaves the nations to test Israel and teach it war — [[The Nations Left to Test Israel]]
 - Sells Israel to Cushan Rishathaim, raises up Othniel, and his Spirit comes on him — [[Othniel the First Judge]]
 - His Spirit clothes Gideon; grants the fleece twice, unrebuking — [[The Fleece]]
+- Reduces Gideon's army to three hundred, *lest Israel brag* — [[Gideon's Three Hundred]]
 
 ## Appears in
 
+- [[Gideon's Three Hundred]] — Judges 7:1–8; the army *too many*, reduced to three hundred, *lest Israel brag against me*.
 - [[The Fleece]] — Judges 6:33–40; his Spirit clothes Gideon; addressed as *God*, he grants the fleece twice without a word.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; he commands the Baal altar thrown down and a new altar built, and leaves Baal to contend for himself.
 - [[The Call of Gideon]] — Judges 6:11–24; he sends Gideon, promises *I will be with you*, and answers his fear with *Peace be to you*.

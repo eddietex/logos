@@ -16,6 +16,9 @@ tags: [connection]
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:10: *"One man of you shall chase a thousand; for it
   is Yahweh your God who fights for you, as he spoke to you."* (now ingested)
 
+- [[Gideon's Three Hundred]] — Judges 7:1–8; the army reduced to three hundred before the battle, *lest
+  Israel brag against me* (7:2). It uses no word of the formula.
+
 ## Analysis
 
 **The same picture, seen from opposite ends.** All three use *rādap*, *chase*, with a tiny number
@@ -44,6 +47,17 @@ Joshua names what would stop him. *As he spoke to you* (10) points back to an ea
 naming which one. The wiki does not decide that it is Leviticus 26:8.
 
 Source: stored WEB Joshua 23:9–13.
+
+### Gideon's three hundred — Judges 7:1–8
+
+Judges 7 does not use *rādap* or any ratio. It makes the odds instead. Yahweh cuts the army from
+thirty-two thousand to three hundred so that Israel cannot say *My own hand has saved me* (7:2), and the
+enemy is later described *like locusts for multitude* (7:12, stored WEB; not yet ingested). Joshua's
+reason, *it is Yahweh your God who fights for you* (Joshua 23:10), becomes the reason for reducing the
+army. Whether Judges intends the formula is a reading; the shared idea is few against many, credited to
+Yahweh. See [[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]].
+
+Source: stored WEB Judges 7:1–12; Joshua 23:10; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

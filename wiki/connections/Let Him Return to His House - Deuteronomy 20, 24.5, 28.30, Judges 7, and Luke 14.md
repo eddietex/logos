@@ -19,8 +19,9 @@ tags: [connection]
   house, and you won't dwell in it. You will plant a vineyard, and not use its fruit."* *(stored WEB, not
   yet ingested)*
 - [[The Spies and the Refusal to Go Up]] — Deuteronomy 1:28; *"Our brothers have made our heart melt"*.
-- Judges 7:2–3 — *"Whoever is fearful and trembling, let him return and depart from Mount Gilead."* So
-  twenty-two thousand returned, and ten thousand remained. *(WEB, bible-api.com; not yet ingested)*
+- [[Gideon's Three Hundred]] — Judges 7:2–3; *"Whoever is fearful and trembling, let him return and
+  depart from Mount Gilead." So twenty-two thousand of the people returned, and ten thousand remained.*
+  (now ingested)
 - Luke 14:18–20 — the guests who excuse themselves from the great supper: a field, five yoke of oxen,
   and *"I have married a wife, and therefore I can't come"*. *(WEB, bible-api.com; not yet ingested)*
 
@@ -72,6 +73,17 @@ offer excuses the law itself would have accepted for a lesser summons, and the p
 this invitation outranks them. Luke does not cite Deuteronomy, the items do not match exactly — a field
 and oxen, not a house and a vineyard — and the Greek of Luke 14 has not been checked here. The wiki
 records the comparison as an interpretation.
+
+### Judges 7 now ingested
+
+The stored WEB confirms the quotation of 7:3, and the WLC readings above were rechecked: *mî-yārēʾ
+wəḥārēd yāšōb* (Judges 7:3) and *mî-hāʾîš hayyārēʾ wərak hallēbāb yēlēk wəyāšōb ləbêtô* (Deuteronomy
+20:8). Judges has *ḥārēd*, *trembling*, where Deuteronomy has *rak hallēbāb*, *faint-hearted*. In
+context, the dismissal is the first of two cuts. The second, at the water, has no counterpart in
+Deuteronomy 20 (7:4–7). Gideon himself is called *afraid* with the same *yārēʾ* three verses later
+(7:10) and is not sent home. See [[Gideon's Three Hundred]].
+
+Source: stored WEB Judges 7:1–10; Deuteronomy 20:8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Two camps in the valley — Judges 7:1–8
+
+Gideon camps *beside the spring of Harod*, and Midian *on the north side of them, by the hill of Moreh,
+in the valley* (7:1). The pericope ends looking down: *the camp of Midian was beneath him in the valley*
+(7:8). The valley is *hāʿēmeq* both times (WLC), the *ʿēmeq yizrəʿeʾl* of 6:33. See
+[[Gideon's Three Hundred]], [[The Spring of Harod]], and [[The Hill of Moreh]].
+
+Source: stored WEB Judges 7:1–8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Midian's camp — Judges 6:33
 
 *All the Midianites and the Amalekites and the children of the east assembled themselves together;
@@ -29,14 +38,16 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Gideon's Three Hundred]] — Judges 7:1, 8; Midian below, Gideon at the spring of Harod.
 - [[The Fleece]] — Judges 6:33; Midian, Amalek, and the children of the east encamp here.
 - [[The Children of Joseph Ask for More]] — Joshua 17:14–18.
 
 ## Related places
 
-- [[Beth Shean]] · [[The Hill Country of Ephraim]] · [[Midian]]
+- [[Beth Shean]] · [[The Hill Country of Ephraim]] · [[Midian]] · [[The Spring of Harod]] · [[The Hill of Moreh]]
 
 ## Events here
 
 - The eastern army's camp against Gideon — [[The Fleece]] (Judges 6:33).
+- Gideon's army reduced to three hundred, above Midian's camp — [[Gideon's Three Hundred]] (Judges 7:1–8).
 - The geography of the request in [[The Children of Joseph Ask for More]]; no battle is narrated.

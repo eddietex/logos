@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### "Depart from Mount Gilead" — Judges 7:3
+
+Gideon's proclamation sends the fearful home: *Whoever is fearful and trembling, let him return and
+depart from Mount Gilead* (7:3). *Mēhar haggilʿād* is the ordinary Hebrew name of this highland (WLC). But
+Gideon is camped at the spring of Harod, in the valley of Jezreel, west of the Jordan (7:1), and the
+text does not explain how the men are leaving Gilead. Three explanations are commonly given, none
+checked here: a scribal error for *Gilboa*, the mountain beside the valley; an otherwise unknown local
+height of the same name; or the departure of men who were going home east across the Jordan. The
+verb, *wəyiṣpōr*, occurs only here in Genesis–Judges and its sense is uncertain (WLC). The wiki leaves
+the question open. See [[Gideon's Three Hundred]].
+
+Source: stored WEB Judges 7:1–8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### *Gilead lived beyond the Jordan* — Judges 5:17
 
 Gilead is among those who did not come to the battle against Sisera: *Gilead lived beyond the
@@ -148,6 +161,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Gideon's Three Hundred]] — Judges 7:3; *depart from Mount Gilead*, west of the Jordan.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

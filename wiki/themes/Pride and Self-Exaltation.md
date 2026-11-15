@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Lest Israel brag against me — Judges 7:2
+
+*The people who are with you are too many for me to give the Midianites into their hand, lest Israel
+brag against me, saying, "My own hand has saved me"* (7:2). The boast is imagined before the battle,
+and prevented by taking the army away. The verb is *yitpāʾēr*, the hitpael of *pāʾar*, *to glorify
+oneself* (WLC). The sentence, *yādî hôšîʿâ lî*, shares *my hand … for me* with the boast Deuteronomy 8:17
+forbids in the land (WLC). See [[Gideon's Three Hundred]] and
+[[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]].
+
+Source: stored WEB Judges 7:2; Deuteronomy 8:17; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The covenant in Moab — Deuteronomy 29:1–29
 
 The inward claim of peace despite stubbornness (19) is a form of presumptuous security. Hearing a covenant warning while privately exempting oneself defeats its intended response.
@@ -324,6 +335,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Gideon's Three Hundred]] — Judges 7:2; *lest Israel brag against me, saying, "My own hand has saved me"*.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Not Because of Your Righteousness]] — Deuteronomy 9:1–6.

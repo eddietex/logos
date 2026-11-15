@@ -26423,3 +26423,40 @@ Judges 6:39; 16:28, the only four in Genesis–Deuteronomy and Judges), with *ʾ
 32) and *ʾim-nāʾ māṣāʾtî ḥēn bəʿênêkā* (Genesis 18:3; Judges 6:17). Reported, not checked: *lābaš* with
 *rûaḥ* in 1 Chronicles 12:18 and 2 Chronicles 24:20; the reason Gideon reversed the test. Not stored
 and not quoted: 1–2 Chronicles.
+
+## [2026-11-15] ingest | Judges 7.1-8 — Gideon's Three Hundred
+
+Auto mode. Judges was the only `in-progress` book; ingested its seventeenth box,
+[[Gideon's Three Hundred]] (Judges 7:1–8). Judges is now 17 / 42. The boundary was kept as planned:
+from the camp at the spring of Harod (7:1) to the three hundred retained (7:8), ending before *That
+same night* (7:9); *The Dream of the Barley Loaf* (7:9–15) is the next box.
+
+Created one passage, two places ([[The Spring of Harod]], [[The Hill of Moreh]]), and one connection
+([[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]]). Revised two people ([[Gideon]],
+[[God]]), three places ([[Midian]], [[Gilead]], [[The Valley of Jezreel]]), four themes
+([[Testing]], [[Pride and Self-Exaltation]], [[The Fear of God]], [[War]]), and three connections
+([[Let Him Return to His House - Deuteronomy 20, 24.5, 28.30, Judges 7, and Luke 14]],
+[[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]],
+[[Trumpet and Ram's Horn - Two Instruments, One English Word]]). Updated the book page and books
+index, the people (F-M), places, themes, and connections (D-H, I-N, T-Z) indexes, and the dashboard
+counts. Frontmatter totals: 453 passages, 309 people, 562 places, 87 themes, 864 connections.
+
+Judgment calls: the lapping test is not interpreted. The text gives the three hundred no virtue, and
+the "watchful soldier" reading is reported as a reading. *Mount Gilead* (7:3) is filed under [[Gilead]]
+with three common explanations reported, not checked, and none chosen. The Deuteronomy 8:17 link is
+made a connection because the shared *yādî … lî* was checked. Exodus 8:9 (*hitpāʾēr ʿālay*, the only
+other hitpael of *pāʾar* in Genesis–Judges) is recorded on the passage page only. The subject of 7:8
+(whether the three hundred took the departing men's provisions and horns) is left open. No page for
+the water's edge or for Purah, who first appears at 7:10.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Deuteronomy, and Joshua. Hebrew read from the Westminster Leningrad Codex (OpenScriptures morphhb,
+GitHub `wlc/Gen.xml`, `Exod.xml`, `Lev.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`), 2026-11-15.
+That covers *ʿên ḥărōd* and *ḥārēd* (7:1, 3, each unique in Genesis–Judges), *môreh* (Genesis 12:6;
+Deuteronomy 11:30; Judges 7:1), *rab* (Deuteronomy 20:1; Judges 7:2, 4), *yitpāʾēr* (Exodus 8:5 WLC;
+Judges 7:2), *yādî hôšîʿâ lî* against *kōḥî wəʿōṣem yādî ʿāśâ lî* (Deuteronomy 8:17), *yārēʾ* (Judges
+7:3, 10, its only two uses in Judges; Deuteronomy 20:8), *ṣāpar* (unique), *ṣārap* (Judges 7:4; 17:4,
+none in Genesis–Joshua), *lāqaq* (7:5–7 only), *ʾôšîaʿ ʾetkem* and *bəyādekā* (7:7), and *ṣēdâ*,
+*šôpərōtêhem*, *heḥĕzîq* (7:8). Reported, not checked: explanations of *Mount Gilead* and of *ṣāpar*;
+any relocation of *with their hand to their mouth*; the "watchful" reading. No Greek or Latin text was
+consulted.

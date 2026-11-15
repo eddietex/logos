@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Beneath him in the valley — Judges 7:1–8
+
+*Midian's camp was on the north side of them, by the hill of Moreh, in the valley* (7:1), and at the
+end of the scene *the camp of Midian was beneath him in the valley* (7:8). Midian does nothing in the
+pericope. Everything happens on Israel's side: the army is cut from thirty-two thousand to three
+hundred, and Yahweh promises *deliver the Midianites into your hand* (7:7). See
+[[Gideon's Three Hundred]], [[The Hill of Moreh]], and [[The Spring of Harod]]. Source: stored WEB
+Judges 7:1–8.
+
 ### Encamped in the valley — Judges 6:33
 
 *All the Midianites and the Amalekites and the children of the east assembled themselves together;
@@ -120,6 +129,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[Gideon's Three Hundred]] — Judges 7:1, 7–8; camped by the hill of Moreh, below Gideon.
 - [[The Fleece]] — Judges 6:33; the gathered army encamps in the valley of Jezreel.
 - [[The Call of Gideon]] — Judges 6:11–16; Gideon hides his wheat from Midian and is sent against it.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1–6; seven years of harvest raids with Amalek and the children of the east.

@@ -166,6 +166,14 @@ introduces the second request with Abraham's words at Sodom, *Don't let your ang
 once*, and calls it *a trial*, the verb Judges had used for God testing Israel. God does both and says
 nothing.
 
+[[Gideon's Three Hundred]] (7:1–8) turns the request around. *Jerubbaal, who is Gideon*, camps at the
+spring of Harod with Midian north of him by the hill of Moreh. Yahweh says the army is *too many … lest
+Israel brag against me, saying, "My own hand has saved me"*. Gideon had asked God to save Israel *by my
+hand*. The fearful are sent home by the law of Deuteronomy 20:8, twenty-two thousand of them. Then
+Yahweh tests the ten thousand left at the water, with the smelter's verb, and keeps the three hundred
+who lapped. *By the three hundred men who lapped will I save you*. Gideon says nothing in the whole
+scene, and the text gives no reason why those three hundred were chosen.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -204,7 +212,7 @@ merge, or reorder them freely.
 - [x] [[The Call of Gideon]] — Judges 6:11–24
 - [x] [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
 - [x] [[The Fleece]] — Judges 6:33–40
-- [ ] Gideon's Three Hundred — Judges 7:1–8
+- [x] [[Gideon's Three Hundred]] — Judges 7:1–8
 - [ ] The Dream of the Barley Loaf — Judges 7:9–15
 - [ ] The Sword of Yahweh and of Gideon — Judges 7:16–25
 - [ ] Ephraim, Succoth, and Penuel — Judges 8:1–21
@@ -239,10 +247,11 @@ merge, or reorder them freely.
 - [[Brotherhood]] — Judah and Simeon fight together (1:3); Judah leads against Benjamin (20:18).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
-- [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39).
+- [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
+- [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2).
 - [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21) and the fleece twice (6:36–40).
@@ -272,3 +281,4 @@ merge, or reorder them freely.
 - [[Tabor]], [[Kishon]], [[Kedesh]], [[Harosheth of the Gentiles]] — the battle with Sisera (4:6–16).
 - [[Ophrah (Manasseh)]] — Gideon's town, the oak, and the altar *Yahweh is Peace* (6:11–24).
 - [[The Valley of Jezreel]] — where Midian and its allies encamp (6:33).
+- [[The Spring of Harod]] and [[The Hill of Moreh]] — Gideon's camp and Midian's (7:1).

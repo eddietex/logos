@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### I will test them for you — Judges 7:4
+
+After the fleece, the testing goes the other way again. *Bring them down to the water, and I will test
+them for you there* (7:4). The verb is not *nāsâ*, the verb of 2:22, 3:1, 4, and the fleece (6:39). It is
+*ṣārap*, *wəʾeṣrəpennû* (WLC), the verb for smelting and refining metal; its only other use in Judges is
+the *silversmith* of Micah's idol (17:4). Yahweh separates the army as a smelter separates silver, and
+the test is drinking: the three hundred who lapped are kept, the rest who knelt are sent home (7:5–7).
+The text does not say what the test showed about the men, and it gives no virtue to the three hundred.
+The selection is Yahweh's: *those whom I tell you, "This shall go with you"* (7:4). See
+[[Gideon's Three Hundred]].
+
+Source: stored WEB Judges 7:1–8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Let me make a trial — Judges 6:36–40
 
 Gideon reverses the direction of the word. Judges used *nāsâ* three times for Yahweh testing Israel by
@@ -216,6 +229,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+- [[Gideon's Three Hundred]] — Judges 7:4; *I will test them*, with *ṣārap*, the refiner's verb.
 - [[The Fleece]] — Judges 6:39; *let me make a trial*, a man testing God with the verb God used of testing Israel.
 - [[The Nations Left to Test Israel]] — Judges 3:1, 4; *to know whether they would listen*.
 - [[Another Generation Arose]] — Judges 2:22; *that by them I may test Israel*.

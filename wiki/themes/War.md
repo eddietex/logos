@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### Thirty-two thousand to three hundred — Judges 7:1–8
+
+The army mustered in 6:34–35 is reduced before it fights. Yahweh calls it *too many* (7:2, 4). The law
+of war's dismissal of the fearful (Deuteronomy 20:8) sends twenty-two thousand home (7:3), and a test at
+the water keeps three hundred of the ten thousand left (7:4–7). Deuteronomy 20:1 had told Israel not to
+fear *a people more than you*; here the *many*, *rab* (WLC), is Israel's own army, and it is the problem.
+The three hundred take the provisions and the rams' horns (7:8), the equipment of the attack to come.
+Joshua's *One man of you shall chase a thousand; for it is Yahweh your God who fights for you* (Joshua
+23:10) is about to be tested on the field. See [[Gideon's Three Hundred]] and
+[[Five Shall Chase a Hundred - Leviticus 26.8, Deuteronomy 32.30, and Joshua 23.10]].
+
+Source: stored WEB Judges 7:1–8; Deuteronomy 20:1, 8; Joshua 23:10; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The horn and the messengers — Judges 6:33–35
 
 The enemy *assembled … together* and encamps in the valley of Jezreel (33). Gideon's muster answers it
@@ -814,6 +827,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[Gideon's Three Hundred]] — Judges 7:1–8; the army cut to three hundred so the victory is Yahweh's.
 - [[The Fleece]] — Judges 6:33–35; the eastern army gathers, and Gideon musters four tribes.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred Philistines struck with an ox goad.
 - [[Ehud and Eglon]] — Judges 3:27–29; the trumpet, the fords, *no man escaped*.

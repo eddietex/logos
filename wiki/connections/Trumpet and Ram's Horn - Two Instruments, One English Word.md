@@ -9,6 +9,7 @@ tags: [connection]
 
 - [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
 - [[The Fleece]] — Judges 6:34; Gideon's *šôpār* muster (now ingested).
+- [[Gideon's Three Hundred]] — Judges 7:8; the three hundred keep the *šôpārôt* (now ingested).
 
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; *ḥăṣōṣərâ*
 - [[Israel at Mount Sinai]] — Exodus 19:13, 16, 19; *yôbēl* and *šôpār*
@@ -87,6 +88,13 @@ horn, not the silver *ḥăṣōṣərâ*. It is a muster, as Gideon's is (6:34,
 WLC; see [[The Fleece]]). The verb *tāqaʿ* also means *to thrust* or *drive in*: six verses earlier Ehud *thrust* the sword
 into Eglon with the same verb (*wayyitqāʿehā*, 3:21), and Jael *drives* the tent peg with it (4:21,
 WLC). See [[Ehud and Eglon]].
+
+### The horns kept — Judges 7:8
+
+*So the people took food in their hand, and their trumpets* (7:8, stored WEB). The Hebrew is
+*šôpərōtêhem*, the plural of *šôpār* (WLC), rams' horns again and not silver trumpets. The horn that
+mustered the army (6:34) stays with the three hundred, who will blow three hundred of them (7:16, 22,
+stored WEB; not yet ingested). See [[Gideon's Three Hundred]].
 
 ## Significance
 

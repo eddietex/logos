@@ -51,12 +51,24 @@ testing Israel (6:39). God does both and says nothing (6:40). The text does not 
 Readers have taken it both as a fault and as a weak man's honest request, and the wiki records both
 readings. See [[The Fleece]] and [[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]].
 
+The next morning *Jerubbaal, who is Gideon*, camps at the spring of Harod with Midian north of him by
+the hill of Moreh (7:1). Then Yahweh speaks again, for the first time since the altar. The army is *too
+many*, *lest Israel brag against me, saying, "My own hand has saved me"* (7:2). Gideon had just asked
+twice that God *save Israel by my hand*. He proclaims the law of war's dismissal, *Whoever is fearful
+and trembling, let him return* (7:3; Deuteronomy 20:8), and twenty-two thousand go. He brings the ten
+thousand to the water, and Yahweh keeps the three hundred who lapped (7:4–7). Gideon says nothing in
+the whole scene. He does what he is told. The man who sends the fearful home is himself afraid
+(6:27), and three verses later Yahweh says to him *if you are afraid to go down* (7:10), with the same
+Hebrew word as the proclamation. He is not sent home. The promise is *By the three hundred men … will
+I save you, and deliver the Midianites into your hand* (7:7). See [[Gideon's Three Hundred]] and
+[[My Hand Has Saved Me - Deuteronomy 8.17 and Judges 7.2]].
+
 Two details sit beside his call without comment. He has *ten men of his servants* (6:27), though he
 called his clan *the poorest in Manasseh* (6:15). And the man who breaks down Ophrah's Baal altar later
 makes an ephod and puts it *in Ophrah, his city*, where *all Israel played the prostitute with it*
 (8:27).
 
-Source: stored WEB Judges 6:11–40; 7:1, 9–15; 8:27; Genesis 18:32; Exodus 3:12; 34:13; Judges 2:2.
+Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 18:32; Exodus 3:12; 34:13; Judges 2:2.
 
 ## Timeline / key events
 
@@ -70,11 +82,14 @@ Source: stored WEB Judges 6:11–40; 7:1, 9–15; 8:27; Genesis 18:32; Exodus 3:
 - Judges 6:33–35 — clothed by the Spirit; blows the horn; Abiezer, Manasseh, Asher, Zebulun, and Naphtali
   muster.
 - Judges 6:36–40 — asks for the fleece, wet and then dry; God grants both.
+- Judges 7:1–8 — camps at the spring of Harod; sends home the fearful, twenty-two thousand, then all but
+  the three hundred who lapped.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
 - [[The Fleece]] — Judges 6:33–40.
+- [[Gideon's Three Hundred]] — Judges 7:1–8.
 
 ## Related people
 - [[Joash (father of Gideon)]] — his father, owner of the oak and of the Baal altar at Ophrah; defends
@@ -91,4 +106,4 @@ Source: stored WEB Judges 6:11–40; 7:1, 9–15; 8:27; Genesis 18:32; Exodus 3:
 ## Themes associated
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·
   [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]] · [[Idolatry]] · [[Names and Naming]] ·
-  [[Testing]] · [[The Spirit of God]] · [[Prayer]] · [[War]]
+  [[Testing]] · [[The Spirit of God]] · [[Prayer]] · [[War]] · [[Pride and Self-Exaltation]]
