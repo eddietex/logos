@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Summoned again — Judges 6:35
+
+Gideon sends messengers *to Asher, and to Zebulun, and to Naphtali; and they came up to meet them*
+(6:35). Zebulun and Naphtali are again together, as when *Barak called Zebulun and Naphtali together to
+Kedesh* (4:10). The two summons share a verb in Hebrew: *wayyazʿēq*, *called*, in 4:10, and the passive
+*wayyizzāʿēq*, *was gathered*, for Abiezer and Manasseh in 6:34–35 (WLC). See [[The Fleece]]. Source: stored WEB Judges 6:33–40; 4:10;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### *To the death* — Judges 5:14, 18
 
 *Those who handle the marshal's staff came out of Zebulun* (5:14), and *Zebulun was a people that
@@ -171,6 +179,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Fleece]] — Judges 6:35; summoned by Gideon with Asher and Naphtali.
 - [[Deborah and Barak]] — Judges 4:6, 10; called with Naphtali to Mount Tabor.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:30; Kitron and Nahalol not driven out.
 - [[The Cities of the Levites]] — Joshua 21:1–42.

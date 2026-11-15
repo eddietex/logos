@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Encamped in the valley — Judges 6:33
+
+*All the Midianites and the Amalekites and the children of the east assembled themselves together;
+and they passed over, and encamped in the valley of Jezreel* (6:33). The raids of 6:3–5 become a
+single army in a single camp, west of the Jordan in the north. Verse 33 says only *passed over*; the
+river is not named. Against it Gideon musters Abiezer, Manasseh, Asher, Zebulun, and Naphtali (6:34–35).
+See [[The Fleece]] and [[The Valley of Jezreel]]. Source: stored WEB Judges 6:33–40.
+
 ### Hidden from — Judges 6:11–24
 
 Gideon threshes wheat in a winepress *to hide it from the Midianites* (6:11), and is sent to *save
@@ -112,6 +120,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[The Fleece]] — Judges 6:33; the gathered army encamps in the valley of Jezreel.
 - [[The Call of Gideon]] — Judges 6:11–16; Gideon hides his wheat from Midian and is sent against it.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1–6; seven years of harvest raids with Amalek and the children of the east.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

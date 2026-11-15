@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Don't let your anger be kindled — Judges 6:36–39
+
+Gideon's two requests for the fleece are addressed *to God* and are conditional: *If you will save
+Israel by my hand, as you have spoken* (36). The second begins with a request for permission: *Don't let
+your anger be kindled against me, and I will speak but this once* (39). In Hebrew this is nearly the
+sentence with which Abraham made his last plea for Sodom, *ʾal-nāʾ yiḥar laʾdōnāy waʾădabbərâ
+ʾak-happaʿam* (Genesis 18:32, WLC). Abraham asked mercy for a city. Gideon asks assurance for himself.
+Both are answered. See [[The Fleece]] and [[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]].
+
+Source: stored WEB Judges 6:33–40; Genesis 18:30–32; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Israel cried, and a prophet came — Judges 6:6–10
 
 *The children of Israel cried to Yahweh* (6:6), and the narrator says it again: *When the children of
@@ -396,6 +407,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[The Fleece]] — Judges 6:36–39; two conditional requests, the second with Abraham's preface.
 - [[Midian's Oppression and the Prophet]] — Judges 6:6–8; the cry told twice, answered with a prophet.
 - [[Ehud and Eglon]] — Judges 3:15; the cry, and a savior raised up.
 - [[Othniel the First Judge]] — Judges 3:9; *the children of Israel cried to Yahweh*.

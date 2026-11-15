@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### Let me make a trial — Judges 6:36–40
+
+Gideon reverses the direction of the word. Judges used *nāsâ* three times for Yahweh testing Israel by
+the nations (2:22; 3:1, 4). Its fourth use in the book is Gideon's: *Please let me make a trial just
+this once with the fleece*, *ʾănassê-nnāʾ … baggizzâ* (6:39, WLC). He has a promise (6:14, 16) and a
+sign already (6:21), and asks twice more. He also asks first that God's anger not be kindled, in the
+words of Abraham at Sodom (Genesis 18:32), which suggests he knows the request may be out of order.
+God answers both requests and says nothing. Deuteronomy 6:16 had forbidden testing Yahweh *as you
+tempted him in Massah*. Whether Gideon's fleece is that kind of testing is disputed; the text neither
+rebukes nor commends it, and the wiki leaves the question open. See [[The Fleece]],
+[[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]], and [[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]].
+
+Source: stored WEB Judges 6:33–40; 2:22; 3:1, 4; Deuteronomy 6:16; Genesis 18:32; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### To know whether they would listen — Judges 3:1–6
 
 Judges 3:1–4 restates 2:22. The nations are left *to test Israel by them* (1, 4), *to know whether they
@@ -202,6 +216,7 @@ ones testing. *Ten* reads as a round number; Rahlfs's *τοῦτο δέκατο�
 [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Fleece]] — Judges 6:39; *let me make a trial*, a man testing God with the verb God used of testing Israel.
 - [[The Nations Left to Test Israel]] — Judges 3:1, 4; *to know whether they would listen*.
 - [[Another Generation Arose]] — Judges 2:22; *that by them I may test Israel*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

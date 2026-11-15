@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fleece, twice — Judges 6:36–40
+
+Gideon's second and third signs are of his own design. Dew on the fleece only and dry ground, then the
+reverse, and God does both: *It was so* (38), *God did so that night* (40). The first sign answered the
+question *is it you who talk with me?* (6:17). This one answers *will you save Israel by my hand, as you
+have spoken?* (36–37). It adds no new promise, only confirmation of the old one. The text gives no reason
+for the reversal, and none is stated for God's consent. See [[The Fleece]].
+
+Source: stored WEB Judges 6:33–40; 6:17.
+
 ### A sign that it is you — Judges 6:13, 17–21
 
 Gideon first asks where the signs have gone: *Where are all his wondrous works which our fathers told
@@ -184,6 +194,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Fleece]] — Judges 6:36–40; dew on the fleece, then dew on the ground, given in silence.
 - [[The Call of Gideon]] — Judges 6:13, 17–21; the wonders remembered, a sign asked and given in fire.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *those great signs in our sight* (17).
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

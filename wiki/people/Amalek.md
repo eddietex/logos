@@ -7,6 +7,11 @@ tags: [person]
 
 ## Overview
 
+### In the valley of Jezreel — Judges 6:33
+
+Amalek is named second in the army that *assembled … together* and *encamped in the valley of
+Jezreel* (6:33), as again in 7:12. In Judges Amalek never acts alone. See [[The Fleece]]. Source: stored WEB Judges 6:33–40; 7:12.
+
 ### With Midian at harvest — Judges 6:3
 
 *The Midianites, the Amalekites, and the children of the east came up against them* (6:3). Amalek is
@@ -127,6 +132,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[The Fleece]] — Judges 6:33; gathered with Midian in the valley of Jezreel.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3; raids Israel's harvests with Midian.
 - [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.

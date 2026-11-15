@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Asher comes — Judges 6:35
+
+Asher, which *sat still at the haven of the sea* when Deborah called (5:17), is one of the three
+northern tribes Gideon sends to, and *they came up to meet them* (6:35). The text does not compare the
+two summons. See [[The Fleece]]. Source: stored WEB Judges 6:33–40; 5:17.
+
 ### *At the haven of the sea* — Judges 5:17
 
 *Asher sat still at the haven of the sea, and lived by his creeks* (5:17). Asher stayed. The words
@@ -161,6 +167,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Fleece]] — Judges 6:35; summoned by Gideon, and comes.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:31–32; seven cities not driven out; lives among the Canaanites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.

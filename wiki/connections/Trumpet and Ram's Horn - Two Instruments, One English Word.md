@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
+- [[The Fleece]] — Judges 6:34; Gideon's *šôpār* muster (now ingested).
 
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; *ḥăṣōṣərâ*
 - [[Israel at Mount Sinai]] — Exodus 19:13, 16, 19; *yôbēl* and *šôpār*
@@ -82,8 +83,8 @@ and none of the texts cites it.
 ### Ehud's horn — Judges 3:27
 
 *He blew a trumpet in the hill country of Ephraim* (stored WEB): *wayyitqaʿ baššôpār* (WLC), the ram's
-horn, not the silver *ḥăṣōṣərâ*. It is a muster, as Gideon's will be (6:34, *wayyitqaʿ baššôpār*,
-WLC). The verb *tāqaʿ* also means *to thrust* or *drive in*: six verses earlier Ehud *thrust* the sword
+horn, not the silver *ḥăṣōṣərâ*. It is a muster, as Gideon's is (6:34, *wayyitqaʿ baššôpār*,
+WLC; see [[The Fleece]]). The verb *tāqaʿ* also means *to thrust* or *drive in*: six verses earlier Ehud *thrust* the sword
 into Eglon with the same verb (*wayyitqāʿehā*, 3:21), and Jael *drives* the tent peg with it (4:21,
 WLC). See [[Ehud and Eglon]].
 

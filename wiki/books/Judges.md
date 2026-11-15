@@ -157,6 +157,15 @@ he may die*, the law's procedure against idolaters (Deuteronomy 17:5) turned aga
 destroyed an idol's altar. Joash refuses: *If he is a god, let him contend for himself*, and names his
 son *Jerub-Baal*, *Let Baal contend against him*.
 
+[[The Fleece]] (6:33–40) brings the enemy into one place, Midian, Amalek, and the children of the east encamped
+in the valley of Jezreel. *Yahweh's Spirit came on Gideon*; the Hebrew says it *clothed* him. He blows
+the ram's horn as Ehud did, and Abiezer, Manasseh, Asher, Zebulun, and Naphtali gather. Asher comes this
+time, though it stayed home from Deborah's war. Then Gideon asks God to confirm the promise *save
+Israel by my hand, as you have spoken*: dew on a fleece and dry ground, and then the reverse. He
+introduces the second request with Abraham's words at Sodom, *Don't let your anger be kindled … but this
+once*, and calls it *a trial*, the verb Judges had used for God testing Israel. God does both and says
+nothing.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -194,7 +203,7 @@ merge, or reorder them freely.
 - [x] [[Midian's Oppression and the Prophet]] — Judges 6:1–10
 - [x] [[The Call of Gideon]] — Judges 6:11–24
 - [x] [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
-- [ ] The Fleece — Judges 6:33–40
+- [x] [[The Fleece]] — Judges 6:33–40
 - [ ] Gideon's Three Hundred — Judges 7:1–8
 - [ ] The Dream of the Barley Loaf — Judges 7:9–15
 - [ ] The Sword of Yahweh and of Gideon — Judges 7:16–25
@@ -230,11 +239,13 @@ merge, or reorder them freely.
 - [[Brotherhood]] — Judah and Simeon fight together (1:3); Judah leads against Benjamin (20:18).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
-- [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4).
+- [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39).
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32).
+- [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
+- [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21) and the fleece twice (6:36–40).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -260,3 +271,4 @@ merge, or reorder them freely.
 - [[Lebanon]], [[Hermon]], [[Hamath]] — the northern edge of the nations left (3:3).
 - [[Tabor]], [[Kishon]], [[Kedesh]], [[Harosheth of the Gentiles]] — the battle with Sisera (4:6–16).
 - [[Ophrah (Manasseh)]] — Gideon's town, the oak, and the altar *Yahweh is Peace* (6:11–24).
+- [[The Valley of Jezreel]] — where Midian and its allies encamp (6:33).

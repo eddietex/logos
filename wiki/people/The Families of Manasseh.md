@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Abiezer follows Gideon — Judges 6:34
+
+*He blew a trumpet; and Abiezer was gathered together to follow him* (6:34). The clan is the first to
+answer the horn, one day after the men of Ophrah demanded Gideon's death for breaking down the Baal
+altar (6:30). WEB's *was gathered together* is *wayyizzāʿēq*, *was called out*, from *zāʿaq*, the verb
+of Israel's *cry* in 6:6–7 (WLC). The text gives no reason for the change of heart. See [[The Fleece]]. Source: stored WEB Judges 6:33–40;
+6:6–7, 30; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 Collective page for the ancestral families named in Joshua 17:2: Abiezer, Helek, Asriel,
 Shechem, Hepher, and Shemida. They identify descendant groups receiving the western lot;
 the text does not narrate six living men appearing before Joshua. Gilead, son of Machir,
@@ -31,10 +39,12 @@ Source: stored WEB Judges 6:11, 15, 24; Hebrew WLC (OpenScriptures morphhb), 202
 
 - Joshua 17:2–6 — families and daughters included in the western allotment.
 - Judges 6:11–24 — Abiezer, the clan of Joash and Gideon, at Ophrah.
+- Judges 6:34 — Abiezer rallies first to Gideon's horn.
 
 ## Appears in
 - [[The Inheritance of Manasseh]] — Joshua 17:1–13.
 - [[The Call of Gideon]] — Judges 6:11–24; Abiezer, Gideon's clan.
+- [[The Fleece]] — Judges 6:34; *Abiezer was gathered together to follow him*.
 
 ## Related people
 - [[Manasseh]] · [[Machir]] · [[Zelophehad]] · [[The Daughters of Zelophehad]] · [[Gideon]] · [[Joash (father of Gideon)]]

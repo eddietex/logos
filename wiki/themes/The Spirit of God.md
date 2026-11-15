@@ -12,6 +12,18 @@ speaks of the Spirit as God's. It opened with Numbers 11, when the Spirit is fir
 is not yet a full survey of the wiki's earlier books.
 
 
+### The Spirit clothed Gideon — Judges 6:34
+
+*But Yahweh's Spirit came on Gideon, and he blew a trumpet* (34). The Hebrew is *wərûaḥ YHWH lābəšâ
+ʾet-gidʿôn* (WLC): *lābaš* is the verb for putting on clothes, and Gideon is its object. The Spirit
+*put on* Gideon, or *clothed itself with* him. The verb differs from Othniel's (3:10) and Jephthah's
+(11:29) *wattəhî … ʿal*, and from Samson's *ṣālaḥ* (14:6, WLC). What follows is a muster: the horn,
+Abiezer, then four tribes. Two verses later the man the Spirit has clothed asks for a sign, and then
+another. The wiki does not set the two against each other; the text puts them side by side. See [[The Fleece]]
+and [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]].
+
+Source: stored WEB Judges 6:33–40; 3:10; 11:29; 14:6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### On the first judge — Judges 3:7–11
 
 *Yahweh's Spirit came on him, and he judged Israel; and he went out to war* (10). The first time the
@@ -81,11 +93,12 @@ Source: stored WEB and WLC; Isaiah 11:2 WEB at bible-api.com.
 
 ### Ahead
 
-Judges names the Spirit on Gideon (6:34), Jephthah (11:29), and Samson (14:6 and later), with different
-Hebrew verbs (WLC); those sections are written as their pericopes arrive.
+Judges names the Spirit on Jephthah (11:29) and Samson (13:25; 14:6 and later), with different Hebrew
+verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:34) is above.
 
 ## Key passages
 
+- [[The Fleece]] — Judges 6:34; *Yahweh's Spirit came on Gideon*, in Hebrew *clothed*.
 - [[Othniel the First Judge]] — Judges 3:10; *Yahweh's Spirit came on him*.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Joshua full of the spirit of wisdom (9).
 - [[Joshua Commissioned]] — Numbers 27:12–23; a man in whom is the Spirit (18).

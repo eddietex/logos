@@ -26384,3 +26384,42 @@ Exodus 34:13), *gādaʿ* in Deuteronomy 7:5 and 12:3, *šebaʿ šānîm* (6:1, 2
 WLC of Judges. Reported, not verified: the etymology of *Gideon* from *gādaʿ*; other meanings proposed
 for *Jerubbaal*; one bull or two; the sense of *bammaʿărākâ*. 1 Samuel 12:11, 2 Samuel 11:21, and
 1 Kings 18 are not stored and are cited by reference only, not quoted.
+
+## [2026-11-15] ingest | Judges 6.33-40 — The Fleece
+
+Auto mode. Judges was the only `in-progress` book; ingested its sixteenth box, [[The Fleece]]
+(Judges 6:33–40). Judges is now 16 / 42. The boundary was kept as planned: from Midian's muster (6:33)
+to the second fleece (6:40), ending before *Then Jerubbaal, who is Gideon … rose up early* (7:1);
+*Gideon's Three Hundred* (7:1–8) is the next box.
+
+Created one passage and one connection
+([[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]]). Revised nine people
+([[Gideon]], [[God]], [[Amalek]], [[The Children of the East]], [[The Families of Manasseh]],
+[[Manasseh]], [[Asher]], [[Zebulun]], [[Naphtali]]), two places ([[Midian]],
+[[The Valley of Jezreel]]), five themes ([[Testing]], [[Signs and Wonders]], [[The Spirit of God]],
+[[Prayer]], [[War]]), and three connections
+([[The Spirit Came on Him - Balaam, Othniel, and Jephthah]],
+[[Do Not Test Yahweh - Massah in Deuteronomy, the Psalms, and Hebrews]],
+[[Trumpet and Ram's Horn - Two Instruments, One English Word]]). Updated the book page and books
+index, the people (A-E, F-M, N-Z), places, themes, and connections (D-H, O-S, T-Z) indexes, and the
+dashboard counts. Frontmatter totals: 452 passages, 309 people, 560 places, 87 themes, 863
+connections.
+
+Judgment calls: the muster and the fleece stay one pericope, since the fleece is asked once the army
+has gathered. The fleece is not judged. The page gives both common readings, a fault indulged and a
+weak man's request answered, because the text rebukes nothing and commends nothing. The Genesis 18
+link is made a connection because the Hebrew sentence was checked. *Nāsâ* is added to the Massah
+connection rather than given its own page. No page for the threshing floor (unlocated) or the
+messengers. The shift from *Yahweh* (34) to *God* (36–40) is recorded on the passage page without an
+interpretation.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Deuteronomy, and Joshua. Hebrew read from the Westminster Leningrad Codex (OpenScriptures morphhb,
+GitHub `wlc/Judg.xml`, `Gen.xml`, `Exod.xml`, `Deut.xml`, `Josh.xml`), 2026-11-15. That covers
+*lābaš* (6:34, only here in Judges), *tāqaʿ baššôpār* (3:27; 6:34), *zāʿaq* (4:10; 6:6–7, 34–35),
+*yāšaʿ* and *bəyādî* (6:14, 36–37; 7:2), *gizzâ*, *goren*, *ṭal*, *sēpel* (5:25; 6:38), *nāsâ* (Judges
+2:22; 3:1, 4; 6:39; none in Joshua; its Torah uses), and *ʾak happaʿam* (Genesis 18:32; Exodus 10:17;
+Judges 6:39; 16:28, the only four in Genesis–Deuteronomy and Judges), with *ʾal-yiḥar* (Genesis 18:30,
+32) and *ʾim-nāʾ māṣāʾtî ḥēn bəʿênêkā* (Genesis 18:3; Judges 6:17). Reported, not checked: *lābaš* with
+*rûaḥ* in 1 Chronicles 12:18 and 2 Chronicles 24:20; the reason Gideon reversed the test. Not stored
+and not quoted: 1–2 Chronicles.

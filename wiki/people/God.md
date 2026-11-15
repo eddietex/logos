@@ -4126,9 +4126,11 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - Numbers 15:1–31 — Legislates for the land after the sentence; forgives error through the priest, and names no offering for the high hand. [[Offerings in the Land and Sins of Ignorance]]
 - Leaves the nations to test Israel and teach it war — [[The Nations Left to Test Israel]]
 - Sells Israel to Cushan Rishathaim, raises up Othniel, and his Spirit comes on him — [[Othniel the First Judge]]
+- His Spirit clothes Gideon; grants the fleece twice, unrebuking — [[The Fleece]]
 
 ## Appears in
 
+- [[The Fleece]] — Judges 6:33–40; his Spirit clothes Gideon; addressed as *God*, he grants the fleece twice without a word.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; he commands the Baal altar thrown down and a new altar built, and leaves Baal to contend for himself.
 - [[The Call of Gideon]] — Judges 6:11–24; he sends Gideon, promises *I will be with you*, and answers his fear with *Peace be to you*.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1–10; he gives Israel to Midian, hears the cry, and sends a prophet to recite what he did and charge them: *you have not listened to my voice*.

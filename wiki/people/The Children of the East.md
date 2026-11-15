@@ -7,6 +7,11 @@ tags: [person]
 
 ## Overview
 
+### Encamped in the valley — Judges 6:33
+
+The third partner again, now not raiding but encamped with Midian and Amalek in *the valley of
+Jezreel* (6:33). See [[The Fleece]]. Source: stored WEB Judges 6:33–40.
+
 ### Midian's partners — Judges 6:3
 
 *The Midianites, the Amalekites, and the children of the east came up against them* (6:3). The Hebrew
@@ -34,8 +39,10 @@ Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 - Jacob comes to *the land of the children of the east* — Genesis 29:1
 - Job, *the greatest of all the children of the east* — Job 1:3
 - Raid Israel's harvests with Midian and Amalek — Judges 6:3
+- Encamp with them in the valley of Jezreel — Judges 6:33
 
 ## Appears in
+- [[The Fleece]] — Judges 6:33; encamped in the valley of Jezreel.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3; the raiders' third partner.
 - [[The Death of Abraham and the Line of Ishmael]] — Genesis 25:6; *eastward, to the east country*.
 - [[Jacob, Leah, and Rachel]] — Genesis 29:1; Jacob comes to their land.

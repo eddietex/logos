@@ -13,6 +13,8 @@ tags: [connection]
   and he went out to war* (stored WEB)
 - **Judges 11:29** — *Then Yahweh's Spirit came on Jephthah, and he passed over Gilead and Manasseh*
   (stored WEB) *(not yet ingested)*
+- [[The Fleece]] — **Judges 6:34** — *But Yahweh's Spirit came on Gideon, and he blew a trumpet* (stored WEB). A
+  different verb, kept here for contrast.
 
 ## Analysis
 
@@ -32,6 +34,15 @@ Gideon* in the WEB (6:34), but the Hebrew is *wərûaḥ YHWH lābəšâ ʾet-gi
 Samson: *Yahweh's Spirit came mightily on him* (14:6, stored WEB), *wattiṣlaḥ ʿālāyw rûaḥ YHWH*, from
 *ṣālaḥ*, *to rush, prosper* (WLC). The WEB's *came on* covers three different Hebrew verbs. Only
 Othniel and Jephthah share Balaam's clause exactly.
+
+### Gideon's verse now ingested
+
+[[The Fleece]] confirms the contrast drawn above. *Wərûaḥ YHWH lābəšâ ʾet-gidʿôn* (Judges 6:34, WLC): *rûaḥ* is
+the subject, *lābaš*, *to put on, wear*, the verb, and Gideon the object. In the WLC of Judges *lābaš*
+occurs only in this verse. Like Othniel's, the endowment leads straight to war, the horn and the muster
+(6:34–35). Unlike either Othniel or Jephthah, the next thing Gideon does is ask for a sign, twice
+(6:36–40). The clause does not prevent doubt, any more than Jephthah's prevents his vow. Source: stored
+WEB Judges 6:33–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

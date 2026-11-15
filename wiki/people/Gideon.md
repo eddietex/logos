@@ -40,12 +40,23 @@ then on the narrator uses both names: *Jerubbaal, who is Gideon* (7:1). See
 [[Gideon Throws Down Baal's Altar]] and
 [[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]].
 
+When Midian, Amalek, and the children of the east gather in the valley of Jezreel, *Yahweh's Spirit came
+on Gideon* (6:34). In Hebrew the Spirit *clothed* him. He blows the ram's horn, and Abiezer, the clan
+whose town had demanded his death, follows him first; then all Manasseh, Asher, Zebulun, and Naphtali
+(6:34–35). With the army gathered he asks for a sign. He asks God to *save Israel by my hand, as you have
+spoken*: dew on a fleece on the threshing floor and the ground dry (6:36–38). Then he asks for the
+reverse. He begins the second request with Abraham's words at Sodom, *Don't let your anger be kindled
+against me, and I will speak but this once*, and calls it *a trial*, the verb Judges had used for God
+testing Israel (6:39). God does both and says nothing (6:40). The text does not judge the request.
+Readers have taken it both as a fault and as a weak man's honest request, and the wiki records both
+readings. See [[The Fleece]] and [[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]].
+
 Two details sit beside his call without comment. He has *ten men of his servants* (6:27), though he
 called his clan *the poorest in Manasseh* (6:15). And the man who breaks down Ophrah's Baal altar later
 makes an ephod and puts it *in Ophrah, his city*, where *all Israel played the prostitute with it*
 (8:27).
 
-Source: stored WEB Judges 6:11–32, 36–40; 7:1, 9–15; 8:27; Exodus 3:12; 34:13; Judges 2:2.
+Source: stored WEB Judges 6:11–40; 7:1, 9–15; 8:27; Genesis 18:32; Exodus 3:12; 34:13; Judges 2:2.
 
 ## Timeline / key events
 
@@ -56,10 +67,14 @@ Source: stored WEB Judges 6:11–32, 36–40; 7:1, 9–15; 8:27; Exodus 3:12; 34
 - Judges 6:25–28 — throws down his father's Baal altar and cuts down the Asherah by night; offers the
   second bull on a new altar.
 - Judges 6:29–32 — the town demands his death; Joash defends him and names him *Jerub-Baal*.
+- Judges 6:33–35 — clothed by the Spirit; blows the horn; Abiezer, Manasseh, Asher, Zebulun, and Naphtali
+  muster.
+- Judges 6:36–40 — asks for the fleece, wet and then dry; God grants both.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
+- [[The Fleece]] — Judges 6:33–40.
 
 ## Related people
 - [[Joash (father of Gideon)]] — his father, owner of the oak and of the Baal altar at Ophrah; defends
@@ -71,7 +86,9 @@ Source: stored WEB Judges 6:11–32, 36–40; 7:1, 9–15; 8:27; Exodus 3:12; 34
 - [[The Prophet (of Gideon's time)]] — the speaker who answered the cry first.
 - [[Barak]] — the deliverer before him; Hebrews 11:32 lists them together.
 - [[Baal (deity)]] — the god whose altar he throws down, and part of his second name.
+- [[Abraham]] — whose words at Sodom Gideon uses to preface the second fleece (Genesis 18:32; Judges 6:39).
 
 ## Themes associated
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·
-  [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]] · [[Idolatry]] · [[Names and Naming]]
+  [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]] · [[Idolatry]] · [[Names and Naming]] ·
+  [[Testing]] · [[The Spirit of God]] · [[Prayer]] · [[War]]

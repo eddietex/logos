@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The horn and the messengers — Judges 6:33–35
+
+The enemy *assembled … together* and encamps in the valley of Jezreel (33). Gideon's muster answers it
+in widening circles: the horn for his clan, Abiezer (34); messengers *throughout all Manasseh* (35);
+then messengers to Asher, Zebulun, and Naphtali (35). The horn, *wayyitqaʿ baššôpār*, is Ehud's (3:27,
+WLC). Zebulun and Naphtali were Barak's tribes (4:10), and Asher had stayed home from Deborah's war
+(5:17). The muster happens before Gideon asks for the fleece, and before the army is reduced to three
+hundred (7:2–8, not yet ingested). See [[The Fleece]].
+
+Source: stored WEB Judges 6:33–40; 3:27; 4:10; 5:17; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The muster and the stars — Judges 5:1–31
 
 The Song of Deborah tells the war of Judges 4 as a muster and a battle. It begins with an unarmed
@@ -803,6 +814,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Fleece]] — Judges 6:33–35; the eastern army gathers, and Gideon musters four tribes.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred Philistines struck with an ox goad.
 - [[Ehud and Eglon]] — Judges 3:27–29; the trumpet, the fords, *no man escaped*.
 - [[Othniel the First Judge]] — Judges 3:10; *he went out to war*, and Yahweh delivered the king into his hand.

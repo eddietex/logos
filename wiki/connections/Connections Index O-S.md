@@ -158,7 +158,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Sow in the Morning - Proverbs 20.4, Genesis 8.22, and Ecclesiastes 11.4-6]] | thematic-parallel | [[Cast Your Bread on the Waters]] (Ecclesiastes 11:4–6) · [[Wine Is a Mocker]] (Proverbs 20:4) · [[The Waters Recede]] (Genesis 8:22) · Galatians 6:9 |
 | [[Sow Wickedness, Reap Trouble - Proverbs 22.8, Job 4.8, and Hosea 8.7]] | thread | [[A Good Name]] (Proverbs 22:8) · [[A False Balance]] (Proverbs 11:18) · [[Eliphaz's First Speech]] (Job 4:7–8) · Hosea 8:7 · Hosea 10:13 · Galatians 6:7 |
 | [[The Spies at Jericho and at Bethel - Joshua 2 and Judges 1]] | parallel | [[Rahab and the Spies]] · [[The Fall of Jericho]] · [[The Tribes That Did Not Drive Out]] |
-| [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]] | thread | [[Balaam's Last Oracles]] (Numbers 24:2) · [[Othniel the First Judge]] (Judges 3:10) · Judges 11:29 · Judges 6:34; 14:6 |
+| [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]] | thread | [[Balaam's Last Oracles]] (Numbers 24:2) · [[Othniel the First Judge]] (Judges 3:10) · Judges 11:29 · [[The Fleece]] (Judges 6:34) · Judges 14:6 |
 | [[The Spirit of Jacob Revived - Ruach Returning]] | idiom | Genesis 37:31–33 · Genesis 45:26–28 · Judges 15:19 · 1 Samuel 30:12 · Habakkuk 1:4 |
 | [[Spit in Her Face - Numbers 12.14 and Deuteronomy 25.9]] | parallel | [[Miriam and Aaron Against Moses]] (Numbers 12:14) · Deuteronomy 25:9 · Isaiah 50:6 · [[Justice, Family Duty, Honest Weights, and Amalek]] (Deuteronomy 25:9) |
 | [[Spoken of Me the Thing That Is Right - The Verdict of Job 42.7]] | thread | Job 42:7–8 · Job 38:2 · Job 40:8 · Job 42:3 · Job 13:7–10 · Job 7:7 · Job 32:2–3 · Job 22:6–9 · Job 1:8; 2:3 |

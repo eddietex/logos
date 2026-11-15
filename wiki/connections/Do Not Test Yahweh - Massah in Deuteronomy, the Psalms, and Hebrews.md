@@ -8,6 +8,7 @@ tags: [connection]
 ## Passages involved
 
 - [[Do Not Forget When You Are Full]] — Deuteronomy 6:10–25.
+- [[The Fleece]] — **Judges 6:39** — *Please let me make a trial just this once with the fleece* (stored WEB).
 
 - **Exodus 17:2, 7** — *"Why do you quarrel with me? Why do you test Yahweh?"*; *"He called the name of the
   place Massah, and Meribah, because the children of Israel quarreled, and because they tested Yahweh, saying,
@@ -90,6 +91,20 @@ See [[Testing]].
 **Numbers 14:22 gathers the series.** Yahweh says the people have tested him *these ten times*, with
 the verb of Massah. See [[The People Refuse the Land]] and
 [[Whose Bodies Fell in the Wilderness - Numbers 14 in Psalms 95 and 106, 1 Corinthians 10, Hebrews 3, and Jude]].
+
+### Gideon's fleece — Judges 6:39
+
+In the WLC of Joshua and Judges, *nāsâ* occurs four times, all in Judges. Three have Yahweh testing
+Israel (2:22; 3:1, 4). The fourth is Gideon's: *ʾănassê-nnāʾ raq-happaʿam baggizzâ*, *Please let me make
+a trial just this once with the fleece* (Judges 6:39, WLC). Grammatically
+the test is *with the fleece*, not of God, though its point is to learn whether God will do what he
+said. Two features set it apart from Massah. Gideon asks permission first, *Don't let your anger be
+kindled against me* (see [[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]]). And God answers without rebuke, which Massah's later texts never let
+pass. One feature joins them. Israel asked *Is Yahweh among us, or not?* (Exodus 17:7) after the
+exodus. Gideon asks after a promise, a sign, and the Spirit (6:14–34). The wiki records the comparison
+and does not decide whether Deuteronomy 6:16 condemns the fleece. The text of Judges does not say.
+Source: stored WEB Judges 6:14–40; Exodus 17:7; Deuteronomy 6:16; Hebrew WLC (OpenScriptures morphhb,
+`Josh.xml`, `Judg.xml`), 2026-11-15.
 
 ## Significance
 

@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### *Throughout all Manasseh* — Judges 6:35
+
+Gideon's own tribe is the first beyond his clan to be summoned: *He sent messengers throughout all
+Manasseh; and they also were gathered together to follow him* (6:35). Which half of Manasseh is meant
+is not said; Gideon's Ophrah is west of the Jordan. See [[The Fleece]]. Source: stored WEB Judges 6:33–40.
+
 ### Did not drive out — Judges 1:27–28
 
 *Manasseh did not drive out* Beth Shean, Taanach, Dor, Ibleam, or Megiddo and their towns, *but the Canaanites would dwell in that land* (27). When Israel grew strong, the Canaanites were put to forced labor (28). Joshua 17:11–13 lists the same cities, with Endor, and says Manasseh *couldn't* (*lōʾ yāḵəlû*); Judges 1:27 says *did not* (*lōʾ hôrîš*), with no verb of ability (both WLC). The texts keep both.
@@ -289,6 +295,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Fleece]] — Judges 6:35; messengers *throughout all Manasseh*.
 - [[The Call of Gideon]] — Judges 6:15; Gideon's family *the poorest in Manasseh*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–28; five cities not driven out.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
