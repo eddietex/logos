@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Jerub-Baal — Judges 6:32
+
+*Therefore on that day he named him Jerub-Baal, saying, "Let Baal contend against him, because he has
+broken down his altar."* (6:32). The name is a challenge to a god, given by a father who had kept that
+god's altar, and the text explains it as *yāreb bô habbaʿal* (WLC). The narrative's answer is that Baal
+never contends. The narrator then uses both names, *Jerubbaal, who is Gideon* (7:1), and in chapters
+8–9 the house and sons are mostly *of Jerubbaal* (8:29, 35; 9:1–5, stored WEB). Other meanings
+proposed for the name are reported, not checked.
+
+See [[Gideon Throws Down Baal's Altar]]. Source: stored WEB Judges 6:25–32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Bochim — Judges 2:1, 5
 
 A place named for a people's weeping, *bōkîm*, *weepers*. Verse 1 already uses the name, with the
@@ -339,6 +350,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:32; Joash names Gideon *Jerub-Baal*, *Let Baal contend*.
 - [[The Call of Gideon]] — Judges 6:24; Gideon names his altar *Yahweh is Peace*.
 - [[The Angel at Bochim]] — Judges 2:1, 5; Bochim, *weepers*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:23, 26; Luz renamed, and the name carried away.

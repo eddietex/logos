@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### He feared his father's household — Judges 6:27
+
+*Because he feared his father's household and the men of the city, he could not do it by day, but he
+did it by night* (6:27). Four verses after *Don't be afraid* (6:23), Gideon is afraid again, this time
+of men. The prophet had said *You shall not fear the gods of the Amorites* (6:10). Gideon does not fear
+the god, but he fears the god's worshipers, and he obeys anyway, at night.
+
+See [[Gideon Throws Down Baal's Altar]]. Source: stored WEB Judges 6:25–32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### "You shall not fear the gods of the Amorites" — Judges 6:10
 
 *I am Yahweh your God. You shall not fear the gods of the Amorites* (6:10). The verb is *yārēʾ*,
@@ -549,6 +558,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:27; obedience by night out of fear of the town.
 - [[The Call of Gideon]] — Judges 6:22–23; terror at seeing the angel, answered *Don't be afraid. You shall not die*.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; not to fear the gods of the Amorites.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *fear Yahweh, and serve him in sincerity and in truth* (14).

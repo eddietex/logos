@@ -50,7 +50,11 @@ this day* (6:24) says the altar still stood when the narrator wrote.
 **The next altar in Ophrah is torn down.** That same night Gideon is sent to throw down his father's
 altar to Baal and build another to Yahweh on the stronghold (6:25–26). So the story has two altars to
 Yahweh in one town within a day, the first named and the second not. The text does not say how the
-two are related.
+two are related. The second is built *on the top of this stronghold, in an orderly way*, and used at
+once for the second bull, burned with the wood of the Asherah (6:26, 28). It is not named. The name
+given that day goes to Gideon instead: *Jerub-Baal*, *Let Baal contend against him* (6:32). See
+[[Gideon Throws Down Baal's Altar]] and
+[[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]].
 
 ## Significance
 
@@ -64,6 +68,6 @@ See [[The Call of Gideon]], [[Sacrifice and Offering]], [[Names and Naming]], an
 [[The Altar at Shechem and the Covenant at Shechem]].
 
 Sources: stored WEB Genesis 16:13; 32:28, 30; 33:20; 35:7; Exodus 17:11–15; Joshua 22:21–34;
-Judges 6:23–26. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml`,
+Judges 6:23–32. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb, `Gen.xml`,
 `Exod.xml`, `Judg.xml`), 2026-11-15. The claim that most altars are unnamed is a reading of the books
 stored so far, Genesis through Judges, not of the whole Bible.

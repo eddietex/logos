@@ -28,23 +28,32 @@ lemma `842`), the plural elsewhere ends in *-îm* (Deuteronomy 7:5; 12:3), and o
 *-ôt*, the ending of *ʿaštārôt*. Some explain 3:7 as a blending with *Ashtaroth*; reported, not
 checked. Other ancient witnesses for 3:7 were not consulted.
 
-Gideon will be told to *cut down the Asherah* beside his father's altar of Baal (Judges 6:25, stored
-WEB), the singular with the article.
+### The Asherah at Ophrah — Judges 6:25–32
+
+Gideon is told to *cut down the Asherah that is by* his father's altar of Baal (6:25), the singular with
+the article, *hāʾăšērâ* (WLC), standing beside an altar as Deuteronomy 16:21 forbade beside Yahweh's.
+Here it is a wooden object: it is *cut down*, and its wood is used to burn the burnt offering on the new
+altar to Yahweh (6:26). The verb is *kārat*, the verb of Exodus 34:13's *cut down their Asherah poles*
+(WLC). The town's charge names it with the altar: *he has cut down the Asherah that was by it* (6:30).
+See [[Gideon Throws Down Baal's Altar]] and
+[[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]].
 
 The page is filed under `people/` as `type: person`, as [[Baal (deity)]] and [[Ashtoreth (deity)]]
 are. No collision is expected for the name, so it has no qualifier.
 
 See [[Othniel the First Judge]]. Source: stored WEB Exodus 34:13; Deuteronomy 7:5; 12:3; 16:21; Judges
-2:13; 3:7; 6:25. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-13.
+2:13; 3:7; 6:25–30. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-13; Judges 6, 2026-11-15.
 
 ## Timeline / key events
 
 - **Exodus 34:13; Deuteronomy 7:5; 12:3** — the nations' Asherah poles to be cut down or burned.
 - **Deuteronomy 16:21** — no Asherah to be planted beside Yahweh's altar.
 - **Judges 3:7** — Israel serves *the Baals and the Asheroth*.
+- **Judges 6:25–30** — the Asherah by Joash's Baal altar cut down, and burned on Yahweh's altar.
 
 ## Appears in
 - [[Othniel the First Judge]] — Judges 3:7
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
 - [[The Covenant Renewed]] — Exodus 34:13
 - [[A People Chosen in Love]] — Deuteronomy 7:5
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:3

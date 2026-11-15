@@ -94,3 +94,16 @@ history as grounds for a charge; Gideon gives it as grounds for a complaint, *no
 off*. The prophet's answer to *why then has all this happened to us?* was *you have not listened to my
 voice* (6:10). The text sets the two speeches next to each other and does not say whether Gideon had
 heard the prophet. See [[The Call of Gideon]]. Sources: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
+### Judges 6:25–32 — the charge acted on
+
+Bochim's charge had a specific content: *You shall break down their altars.' But you have not listened
+to my voice* (2:2). The prophet of 6:10 repeated *you have not listened to my voice*. The same night as
+his call, Gideon is sent to do what Bochim said Israel had not done. He throws down his father's altar
+of Baal and cuts down its Asherah (6:25–28). The verb of the report, *nātaṣ*, is the verb of 2:2 (WLC).
+The prophet's command was *You shall not fear the gods of the Amorites* (6:10). Gideon does the deed
+by night *because he feared his father's household and the men of the city* (6:27), so he fears the
+god's worshipers and not the god. See [[Gideon Throws Down Baal's Altar]] and
+[[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]]. Sources:
+stored WEB Judges 2:2; 6:10, 25–28; Hebrew from the Westminster Leningrad Codex (OpenScriptures
+morphhb), 2026-11-15.

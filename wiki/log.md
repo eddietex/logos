@@ -26348,3 +26348,39 @@ against *ʾădōnāy* (6:15), the match of 6:14–17 with Exodus 3:12 (*šәla�
 Reported, not verified: the explanation of threshing in a winepress; the readings of *mighty man of
 valor*; modern sites for Ophrah. Hebrews 11:32's order of names relies on the WEB check recorded on
 [[Faith]] (2026-11-13).
+
+## [2026-11-15] ingest | Judges 6.25-32 — Gideon Throws Down Baal's Altar
+
+Auto mode. Judges was the only `in-progress` book; ingested its fifteenth box,
+[[Gideon Throws Down Baal's Altar]] (Judges 6:25–32). Judges is now 15 / 42. The boundary was kept as
+planned: from *That same night* (6:25) to the naming *Jerub-Baal* (6:32), ending before Midian's muster
+(6:33); *The Fleece* (6:33–40) is the next box.
+
+Created one passage and two connections
+([[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]],
+[[Bring Him Out - Genesis 19.5, Deuteronomy 17.5, Judges 6.30, and Judges 19.22]]). Revised five
+people ([[Gideon]], [[Joash (father of Gideon)]], [[Baal (deity)]], [[Asherah]], [[God]]), one place
+([[Ophrah (Manasseh)]]), six themes ([[Idolatry]], [[Sacrifice and Offering]], [[Law and Obedience]],
+[[The Fear of God]], [[Strife and Peacemaking]], [[Names and Naming]]), and two connections
+([[An Altar Called by a Name - El Elohe Israel, Yahweh Our Banner, and Yahweh Is Peace]],
+[[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]]). Updated the book page
+and books index, the people (A-E, F-M), places, themes, and connections (A-C, I-N) indexes, and the
+dashboard counts. Frontmatter totals: 451 passages, 309 people, 560 places, 87 themes, 862
+connections.
+
+Judgment calls: *Jerub-Baal* stays an alias on [[Gideon]], since 7:1 says *Jerubbaal, who is Gideon*.
+*The men of the city* get no page. The *Bring Him Out* connection is made now, though Judges 19 is not
+yet ingested, because the shared form *hôṣēʾ* and the phrase *ʾanšê hāʿîr* were verified now; the
+Gibeah pericope should extend it. *One bull or two* (6:25) is left open. The later uses of *nātaṣ* at
+Penuel (8:9, 17) and Shechem (9:45) are noted on the altars connection for those pericopes.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus, and
+Deuteronomy. Hebrew read from the Westminster Leningrad Codex (OpenScriptures morphhb, GitHub
+`wlc/Judg.xml`, `Gen.xml`, `Exod.xml`, `Deut.xml`), 2026-11-15. That covers *hāras* (6:25) against
+*nātaṣ* (6:28–32; Exodus 34:13; Deuteronomy 7:5; 12:3; Judges 2:2), *kārat* for the Asherah (also
+Exodus 34:13), *gādaʿ* in Deuteronomy 7:5 and 12:3, *šebaʿ šānîm* (6:1, 25), *māʿôz* against *məṣādôt*
+(6:2, 26), *yāšaʿ* (6:14–15, 31), *rîb* and *Yərubbaʿal* (6:31–32), *hôṣēʾ* (Genesis 19:5; Deuteronomy
+17:5; Judges 6:30; 19:22), and *yûmat* (Exodus 21:12; Judges 6:31). Occurrence lists are limited to the
+WLC of Judges. Reported, not verified: the etymology of *Gideon* from *gādaʿ*; other meanings proposed
+for *Jerubbaal*; one bull or two; the sense of *bammaʿărākâ*. 1 Samuel 12:11, 2 Samuel 11:21, and
+1 Kings 18 are not stored and are cited by reference only, not quoted.

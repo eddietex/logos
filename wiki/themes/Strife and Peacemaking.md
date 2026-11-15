@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Will you contend for Baal? — Judges 6:31–32
+
+*Rîb*, *contend*, *quarrel*, *plead a case*, occurs four times in two verses (WLC). The town comes to
+contend with Joash for Baal; Joash asks *Will you contend for Baal? … If he is a god, let him contend for
+himself*, and names his son *Jerub-Baal*, *Let Baal contend against him* (6:31–32). The quarrel is moved
+from the men to the god, and the god never takes it up. The day before, Gideon had named an altar
+*Yahweh is Peace* (6:24).
+
+See [[Gideon Throws Down Baal's Altar]]. Source: stored WEB Judges 6:25–32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The altar of witness — Joshua 22:10–34
 
 A war mustered at Shiloh (12) is ended by a delegation, an accusation, an explanation, and a
@@ -416,6 +426,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:31–32; *rîb* four times, and the name *Let Baal contend*.
 - [[The Call of Gideon]] — Judges 6:23–24; *Peace be to you*, and the altar *Yahweh is Peace* in a time of oppression.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

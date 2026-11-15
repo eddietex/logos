@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### The altar of Baal that your father has — Judges 6:25–32
+
+The first Baal altar the wiki meets in Judges stands in an Israelite town and belongs to an Israelite
+family. Gideon is told to throw down *the altar of Baal that your father has* and the Asherah by it
+(6:25), and the town demands his death for it: *Bring out your son, that he may die* (6:30). The law
+had aimed *you shall break down their altars* at the nations' shrines (Exodus 34:13; Deuteronomy 7:5).
+By Gideon's day the shrine is Israel's own, and Israelites defend it. Joash's reply, *If he is a god,
+let him contend for himself* (6:31), is the first time in Judges that anyone says Baal cannot defend
+himself. See
+[[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]].
+
+See [[Gideon Throws Down Baal's Altar]]. Source: stored WEB Judges 6:25–32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The gods of the Amorites — Judges 6:10
 
 The prophet's charge names no Baal or Asherah. It names *the gods of the Amorites, in whose land you
@@ -528,6 +541,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; Joash's Baal altar and Asherah thrown down, and the town defends them.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites*.
 - [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
 - [[Othniel the First Judge]] — Judges 3:7; *the Baals and the Asheroth*.

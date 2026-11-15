@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### He did as Yahweh had spoken — Judges 6:25–32
+
+*Then Gideon took ten men of his servants, and did as Yahweh had spoken to him* (6:27). It is the first
+time in Judges that anyone carries out the law's *you shall break down their altars* (Exodus 34:13;
+Judges 2:2). The town then turns the law around. Deuteronomy 17:5 told Israel to *bring out* the one
+who served other gods and stone him; the men of Ophrah demand that Gideon be *brought out* to die for
+destroying Baal's altar (6:30). Joash answers in the law's form, *let him be put to death* (*yûmat*,
+6:31, WLC). See [[Bring Him Out - Genesis 19.5, Deuteronomy 17.5, Judges 6.30, and Judges 19.22]].
+
+See [[Gideon Throws Down Baal's Altar]]. Source: stored WEB Judges 6:25–32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### "You have not listened to my voice" — Judges 6:10
 
 The prophet ends with the charge of Bochim, *But you have not listened to my voice* (6:10; 2:2), the
@@ -1577,6 +1588,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:27, 30–31; the command against altars obeyed, and the law's death sentence turned around.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; the charge of not listening.
 - [[The Nations Left to Test Israel]] — Judges 3:4–6; the commandments by Moses, and the marriages.
 - [[Another Generation Arose]] — Judges 2:17, 19–20; *they didn't listen to their judges*.

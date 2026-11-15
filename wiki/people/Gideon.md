@@ -28,10 +28,24 @@ the fleece twice (6:36–40). Before the battle he is given the dream of the bar
 judge who most needs reassurance is the one Scripture gives the most signs. Hebrews 11:32 names him
 first among the judges in its list of those of faith; see [[Faith]].
 
-*Jerub-Baal*, his second name, is given in 6:32, after he throws down his father's altar to Baal. The
-wiki records it as an alias now, and the next pericope explains it.
+His first task is at home. *That same night* Yahweh tells him to throw down *the altar of Baal that
+your father has*, cut down the Asherah beside it, and offer his father's second bull on a new altar to
+Yahweh, burned with the Asherah's wood (6:25–26). He does it with ten of his servants, by night,
+*because he feared his father's household and the men of the city* (6:27). It is the first time in
+Judges that anyone obeys the law's *you shall break down their altars* (Exodus 34:13; Judges 2:2), and
+the altar he breaks belongs to Israelites. In the morning the town demands his death: *Bring out your
+son, that he may die* (6:30). His father refuses. Joash says that a god should defend himself, and names
+his son *Jerub-Baal*, *Let Baal contend against him, because he has broken down his altar* (6:32). From
+then on the narrator uses both names: *Jerubbaal, who is Gideon* (7:1). See
+[[Gideon Throws Down Baal's Altar]] and
+[[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]].
 
-Source: stored WEB Judges 6:11–24, 27, 32, 36–40; 7:9–15; Exodus 3:12.
+Two details sit beside his call without comment. He has *ten men of his servants* (6:27), though he
+called his clan *the poorest in Manasseh* (6:15). And the man who breaks down Ophrah's Baal altar later
+makes an ephod and puts it *in Ophrah, his city*, where *all Israel played the prostitute with it*
+(8:27).
+
+Source: stored WEB Judges 6:11–32, 36–40; 7:1, 9–15; 8:27; Exodus 3:12; 34:13; Judges 2:2.
 
 ## Timeline / key events
 
@@ -39,19 +53,25 @@ Source: stored WEB Judges 6:11–24, 27, 32, 36–40; 7:9–15; Exodus 3:12.
 - Judges 6:12–16 — greeted, commissioned, objects, promised *I will be with you*.
 - Judges 6:17–21 — asks a sign; his offering consumed by fire from the rock.
 - Judges 6:22–24 — *face to face*; *You shall not die*; builds the altar *Yahweh is Peace*.
+- Judges 6:25–28 — throws down his father's Baal altar and cuts down the Asherah by night; offers the
+  second bull on a new altar.
+- Judges 6:29–32 — the town demands his death; Joash defends him and names him *Jerub-Baal*.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
 
 ## Related people
-- [[Joash (father of Gideon)]] — his father, owner of the oak at Ophrah.
+- [[Joash (father of Gideon)]] — his father, owner of the oak and of the Baal altar at Ophrah; defends
+  him and names him *Jerub-Baal*.
 - [[The Families of Manasseh]] — Abiezer, his clan.
 - [[Manasseh]] — his tribe.
 - [[The Angel of Yahweh]] — the visitor under the oak.
 - [[Moses]] — his call follows Moses' call at the bush.
 - [[The Prophet (of Gideon's time)]] — the speaker who answered the cry first.
 - [[Barak]] — the deliverer before him; Hebrews 11:32 lists them together.
+- [[Baal (deity)]] — the god whose altar he throws down, and part of his second name.
 
 ## Themes associated
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·
-  [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]]
+  [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]] · [[Idolatry]] · [[Names and Naming]]

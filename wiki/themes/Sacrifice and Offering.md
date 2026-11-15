@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A bull burned with the Asherah's wood — Judges 6:25–28
+
+Gideon is to build *an altar to Yahweh your God on the top of this stronghold, in an orderly way*, and
+offer the second bull *with the wood of the Asherah which you shall cut down* (6:26). The cult object is
+used as firewood for the offering. The burnt offering is *ʿōlâ*, offered (*wəhaʿălîtā*, *hōʿălâ*) on
+*the altar that was built* (26, 28, WLC). As with the altar *Yahweh is Peace* the day before, no priest or
+sanctuary is mentioned.
+
+See [[Gideon Throws Down Baal's Altar]]. Source: stored WEB Judges 6:25–32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### A meal made an offering — Judges 6:18–21
 
 Gideon brings *my present*, *minḥâ*, a word for gift, tribute, and grain offering (WLC): a young
@@ -789,6 +799,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:26, 28; the second bull offered on a new altar, burned with the Asherah's wood.
 - [[The Call of Gideon]] — Judges 6:18–24; the offering consumed by fire from the rock, and the altar named.
 - [[The Angel at Bochim]] — Judges 2:5; sacrifice after the weeping, at Bochim.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

@@ -147,6 +147,16 @@ promise *Surely I will be with you*, and a sign. Fire from the rock consumes his
 death for having seen the angel *face to face*, is told *Peace be to you … You shall not die*, and
 builds an altar he names *Yahweh is Peace*.
 
+[[Gideon Throws Down Baal's Altar]] (6:25–32) turns the deliverer's first task homeward. *That same
+night* Yahweh tells him to throw down *the altar of Baal that your father has* and cut down the Asherah
+by it, and to offer his father's second bull on a new altar to Yahweh, burned with the Asherah's wood.
+It is the first time in Judges that anyone obeys Bochim's *You shall break down their altars* (2:2),
+and the altar is an Israelite's. Gideon does it with ten servants, by night, *because he feared his
+father's household and the men of the city*. In the morning the town demands *Bring out your son, that
+he may die*, the law's procedure against idolaters (Deuteronomy 17:5) turned against the man who
+destroyed an idol's altar. Joash refuses: *If he is a god, let him contend for himself*, and names his
+son *Jerub-Baal*, *Let Baal contend against him*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -183,7 +193,7 @@ merge, or reorder them freely.
 - [x] [[The Song of Deborah]] — Judges 5:1–31
 - [x] [[Midian's Oppression and the Prophet]] — Judges 6:1–10
 - [x] [[The Call of Gideon]] — Judges 6:11–24
-- [ ] Gideon Throws Down Baal's Altar — Judges 6:25–32
+- [x] [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
 - [ ] The Fleece — Judges 6:33–40
 - [ ] Gideon's Three Hundred — Judges 7:1–8
 - [ ] The Dream of the Barley Loaf — Judges 7:9–15
@@ -224,6 +234,7 @@ merge, or reorder them freely.
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
+- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -238,7 +249,8 @@ merge, or reorder them freely.
 - [[Deborah (prophetess)]] — prophetess and judge (4:4–14).
 - [[Barak]] — commander against Sisera (4:6–16).
 - [[Sisera]] and [[Jabin (of Deborah's time)]] — the oppressors with nine hundred chariots (4:2–3).
-- [[Gideon]] — called at Ophrah to save Israel from Midian (6:11–24).
+- [[Gideon]] — called at Ophrah to save Israel from Midian (6:11–24); named *Jerub-Baal* (6:32).
+- [[Joash (father of Gideon)]] — keeper of Ophrah's Baal altar, who refuses to give up his son (6:25–32).
 
 ## Key places
 - [[Bezek]] — the first battle.

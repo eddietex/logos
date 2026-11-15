@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### He begins with the altar in his father's house — Judges 6:25–32
+
+*That same night, Yahweh said to him*: the first order to the man sent against Midian is to throw down
+*the altar of Baal that your father has*, cut down the Asherah, and build *an altar to Yahweh your God*
+on the stronghold (6:25–26). The law had told all Israel to break down the nations' altars (Exodus 34:13),
+and Bochim had charged them with not doing it (Judges 2:2). Now the command is given to one man, and the
+altar is an Israelite's. Yahweh does not speak again in the pericope. The challenge is left to Baal,
+*If he is a god, let him contend for himself* (6:31), and Baal does not answer. See
+[[Gideon Throws Down Baal's Altar]].
+
+Source: stored WEB Judges 2:2; 6:25–32; Exodus 34:13.
+
 ### He is with a man in hiding — Judges 6:11–24
 
 The angel greets Gideon, *Yahweh is with you*, and the narrator then lets *Yahweh* speak directly:
@@ -4117,6 +4129,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; he commands the Baal altar thrown down and a new altar built, and leaves Baal to contend for himself.
 - [[The Call of Gideon]] — Judges 6:11–24; he sends Gideon, promises *I will be with you*, and answers his fear with *Peace be to you*.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1–10; he gives Israel to Midian, hears the cry, and sends a prophet to recite what he did and charge them: *you have not listened to my voice*.
 - [[Ehud and Eglon]] — Judges 3:12–30; he strengthens Eglon against Israel, raises up Ehud, and, in Ehud's words, delivers Moab into Israel's hand.
