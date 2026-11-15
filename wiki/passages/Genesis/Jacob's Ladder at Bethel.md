@@ -561,6 +561,8 @@ warrant they all appeal to**, and nothing in Genesis 28 authorises any of it. Se
   here.
 - [[Let Your Words Be Few]] — Ecclesiastes 5:4–6; pay what you vow to God without delay. See
   [[Pay What You Vow - Deuteronomy 23.21-23, Proverbs 20.25, and Ecclesiastes 5.4-6]].
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:9; *When I come again in peace*, the words of 28:21 in a
+  threat. See [[When I Return in Peace - Jacob's Vow, Gideon's Threat, and Jephthah's Vow]].
 
 ## Notes
 

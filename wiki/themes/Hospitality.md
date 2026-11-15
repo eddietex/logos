@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Bread refused to a faint army — Judges 8:5–8
+
+*Please give loaves of bread to the people who follow me; for they are faint* (8:5). Succoth and Penuel
+refuse, *Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your army?*
+(8:6, 8). The refusal is caution as well as contempt: the towns will not side with three hundred men
+against fifteen thousand. Melchizedek brought out bread to Abram's returning men unasked (Genesis 14:18).
+Gideon asks his own people and is refused, and he punishes the refusal (8:16–17). See
+[[Ephraim, Succoth, and Penuel]] and [[Three Hundred Against the Kings - Abram's Pursuit and Gideon's]].
+Source: stored WEB Genesis 14:18; Judges 8:5–17.
+
 ### *She gave him milk* — Judges 5:25
 
 *He asked for water. She gave him milk. She brought him butter in a lordly dish* (5:25). The Song
@@ -203,6 +213,7 @@ Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son i
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:5–8; bread refused to Gideon's faint men by Succoth and Penuel.
 - [[The Call of Gideon]] — Judges 6:18–21; *I will wait until you come back*; the guest's meal burned as an offering.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 

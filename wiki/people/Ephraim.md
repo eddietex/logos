@@ -12,6 +12,19 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Contends with Gideon — Judges 8:1–3
+
+*Why have you treated us this way, that you didn't call us when you went to fight with Midian?* (8:1).
+Ephraim had been called, but after the battle, to take the waters (7:24). Its complaint is about the fight
+and the honor. *They rebuked him sharply* is *wayrîbûn ʾittô bəḥozqâ*, *they contended with him with force*
+(WLC), the *rîb* of Gideon's name *Jerub-Baal* (6:32). Gideon answers with a proverb of the grape harvest,
+*Isn't the gleaning of the grapes of Ephraim better than the vintage of Abiezer?*, and credits Ephraim with
+the princes: *God has delivered into your hand the princes of Midian, Oreb and Zeeb!* *Their anger was
+abated* (8:2–3). Ephraim makes the same complaint to Jephthah in 12:1, and that time it ends in war (12:6,
+stored WEB; not yet ingested). See [[Ephraim, Succoth, and Penuel]] and
+[[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]]. Source: stored WEB Judges 6:32;
+7:24–25; 8:1–3; 12:1–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Summoned late — Judges 7:24–25
 
 Ephraim was not among the tribes Gideon mustered (6:35). After the rout he sends *messengers throughout
@@ -229,6 +242,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; contends with Gideon for not being called, and is calmed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; takes the waters, and Oreb and Zeeb.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:29; Gezer's Canaanites not driven out.
 - [[The Cities of the Levites]] — Joshua 21:1–42.

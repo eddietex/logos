@@ -401,6 +401,8 @@ which makes this verse a report of a practice rather than a law establishing one
 - [[The Dance of Mahanaim - Genesis 32.1-2 and Song of Solomon 6.13]] — the place name recurs in a dance comparison; no angelic dance is asserted.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:15; *"my life is preserved"* (32:30) and the slave who *"has escaped"*
   are the Torah's only two niphals of *nāṣal* (WLC, morphhb).
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:8–9, 17; Gideon breaks down Penuel's tower. See
+  [[Penuel and Succoth - Jacob's Road and Gideon's Pursuit]].
 
 ## Notes
 

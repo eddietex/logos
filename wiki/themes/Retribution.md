@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Thorns for Succoth, the tower for Penuel — Judges 8:7, 9, 16–17
+
+Gideon announces punishments and carries them out. To Succoth: *I will tear your flesh with the thorns of
+the wilderness and with briers* (8:7); and *with them he taught the men of Succoth* (8:16). To Penuel:
+*I will break down this tower* (8:9); and *He broke down the tower of Penuel, and killed the men of the
+city* (8:17), more than he had said. The punishment is a judge's and is for a refusal of bread. The text
+reports it without a verdict. See [[Ephraim, Succoth, and Penuel]] and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]]. Source: stored WEB Judges
+8:5–17.
+
 ### As I have done — Judges 1:1–7
 
 The book's first statement of retribution comes from a defeated Canaanite king. Adoni-Bezek, whose
@@ -669,6 +679,7 @@ proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and A
 
 ## Key passages
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:7–17; Succoth and Penuel punished by Gideon for refusing bread.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 
 

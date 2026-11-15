@@ -453,7 +453,7 @@ chapter's readers pass over.
   wedge of gold"* out of devoted spoil, and Israel loses a battle for it. The counter-case to
   14:22–23.
 - Joshua 10:1 — *Adoni-Zedek king of Jerusalem*, the name that matches Melchizedek's formation.
-- Judges 8:4–9 — Gideon, pursuing kings with three hundred men, asks Succoth and Penuel for bread
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:4–9; Gideon, pursuing kings with three hundred men, asks Succoth and Penuel for bread
   and is refused. The inverse of 14:18.
 - 1 Samuel 30:1–25 — David pursues raiders who have carried off captives and goods, recovers
   everything, and makes a standing rule that those who stayed with the baggage share the spoil.
@@ -467,6 +467,8 @@ chapter's readers pass over.
 - Hebrews 7:1–28 — the New Testament's extended argument from Genesis 14, built on the tithe, the
   blessing, and the absent genealogy.
 - [[A Good Name]] — Proverbs 22:6, *train up a child*, linked above to 14:14's *trained men*.
+- [[Three Hundred Against the Kings - Abram's Pursuit and Gideon's]] — Abram's three hundred and eighteen
+  and Gideon's three hundred; bread given and bread refused; spoil refused and spoil taken.
 
 ## Notes
 

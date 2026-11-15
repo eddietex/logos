@@ -384,6 +384,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:4; Gideon and the three hundred cross, *faint, yet pursuing*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; Ephraim holds the waters; the heads brought *beyond the Jordan*.
 - [[Ehud and Eglon]] — Judges 3:28; Israel takes the fords against Moab.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the Amorites beyond it (8), and the crossing (11).
@@ -488,3 +489,4 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 - **[[Jacob]] recalls crossing it westward with a staff**, on the night before Peniel — Genesis 32:10
 - **Seven days of mourning for Jacob** at the threshing floor of Atad, *beyond* it — Genesis 50:10–11
 - Two tribes ask not to cross; the condition is that they will (5, 19, 21, 29, 32). See [[Reuben, Gad, and the Land Beyond the Jordan]].
+- Gideon and the three hundred cross after the kings of Midian — Judges 8:4, [[Ephraim, Succoth, and Penuel]]

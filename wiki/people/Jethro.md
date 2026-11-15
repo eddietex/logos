@@ -132,6 +132,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Eliezer (son of Moses)]] — his younger grandson, first named when he brings him back
 - [[Aaron]] — who eats bread with him before God (18:12)
 - [[Hobab]] — *the son of Reuel the Midianite*, whose relation to him is not settled
+- [[Jether (son of Gideon)]] — Gideon's firstborn, whose name *Yeter* is the Hebrew form of Jethro's name at Exodus 4:18 in the WLC lemma data (Judges 8:20).
 
 ## Themes associated
 

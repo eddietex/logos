@@ -26549,3 +26549,60 @@ Tabbath, Beth Barah, Oreb, and Zeeb as names; *ṣāʿaq*/*zāʿaq* in the nipha
 12:1); *lākad* and *maʿbārâ* (3:28; 7:24; 12:5–6); *yeqeb* against *gat* (6:11); *nûs* (6:11; 7:21–22).
 Reported, not checked: the three-watch division of the night; the place-name glosses and sites; the
 Hebrew of Psalms, Isaiah, Samuel, Chronicles, and Kings. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 8.1-21 — Ephraim, Succoth, and Penuel
+
+Auto mode. Judges was the only `in-progress` book; ingested its twentieth box,
+[[Ephraim, Succoth, and Penuel]] (Judges 8:1–21). Judges is now 20 / 42. The boundary was kept as
+planned: from Ephraim's complaint (8:1) to the deaths of Zebah and Zalmunna and the crescents taken
+(8:21), ending before Israel offers Gideon the crown (8:22); *Gideon's Ephod and Death* (8:22–35) is the
+next box.
+
+Created one passage, three people ([[Zebah]], [[Zalmunna]], [[Jether (son of Gideon)]]), three places
+([[Karkor]], [[The Ascent of Heres]], [[Nobah (town)]]), and four connections
+([[Penuel and Succoth - Jacob's Road and Gideon's Pursuit]],
+[[When I Return in Peace - Jacob's Vow, Gideon's Threat, and Jephthah's Vow]],
+[[Three Hundred Against the Kings - Abram's Pursuit and Gideon's]],
+[[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]]). Revised nine people ([[Gideon]],
+[[Ephraim]], [[Oreb]], [[Zeeb]], [[The Children of the East]], [[God]], [[Joash (father of Gideon)]],
+[[Nobah (person)]], [[Jethro]]), eight places ([[Peniel]], [[Succoth (Transjordan)]], [[Jogbehah]],
+[[Kenath]], [[Tabor]], [[Midian]], [[The Jordan]], [[Mount Heres]]), seven themes ([[War]],
+[[Hospitality]], [[Retribution]], [[Vengeance]], [[Strife and Peacemaking]], [[Brotherhood]],
+[[Oaths and Vows]]), four connections
+([[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]],
+[[The Day of Midian - Oreb and Zeeb in Psalm 83 and Isaiah 9-10]],
+[[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]],
+[[The Redeemer and the Avenger of Blood]]), and seven passages' cross-references
+([[The Sword of Yahweh and of Gideon]], [[The Song of Deborah]], [[The Rescue of Lot and Melchizedek]],
+[[Wrestling at the Jabbok]], [[The Reconciliation with Esau]], [[Jacob's Ladder at Bethel]],
+[[A Gentle Answer]]). Updated the book page and books index, the people (A-E, F-M, N-Z), places, and
+connections (D-H, O-S, T-Z) indexes, and the dashboard counts. Frontmatter totals: 456 passages, 315
+people, 572 places, 87 themes, 871 connections.
+
+Correction flagged: [[Peniel]] said *Genesis 33:17 and Judges 8 are the only two texts that put anyone
+back at this site*. Genesis 33:17 is about Succoth, and 1 Kings 12:25 also names Penuel; the sentence was
+withdrawn and the correction is written on the page.
+
+Judgment calls: Zebah, Zalmunna, and Jether get person pages; Gideon's brothers, the young man of
+Succoth, and Succoth's princes and elders do not. The Nobah of 8:11 gets `Nobah (town)`, since
+[[Nobah (person)]] holds the bare name and the text does not say the town is [[Kenath]]; the two place
+pages are kept apart. The ascent of Heres (8:13, lemma 2775a) is not identified with Mount Heres (1:35,
+lemma 2776). The killing at Tabor is not dated. The *threshed* reading of 8:16 and the meaning of *Harod*
+are reported, not adopted. A separate Ephraim-complaint connection was not made; the existing
+[[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]] was revised, and the new gentle-answer
+connection links it and the existing
+[[Gentleness Before the Ruler - Proverbs 15.1, 25.15, and Ecclesiastes 10.4]]. The Abram comparison
+leaves the spoil half (8:24–27) for the next pericope.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Leviticus, Numbers, Deuteronomy, Joshua, and Proverbs. 1 Kings 2:5 and 12:25 checked at bible-api.com
+(WEB), 2026-11-15, and not stored in `raw/`. Hebrew read from a fresh download of the Westminster
+Leningrad Codex (OpenScriptures morphhb, `wlc/Gen.xml`, `Exod.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`,
+`Judg.xml`), 2026-11-15, covering *rîb* and *ḥozqâ* (8:1); *rāpâ* and *rûaḥ* (8:3); *ʿāyēp* and *yāʿēp*
+(8:4–5, 15); *kap* (8:6); *dûš*, *ḥābaṭ*, *qôṣ*, *barqōnîm* (8:7, 16; 6:11); *Pənûʾēl* and *pānîm ʾel-pānîm*
+(Genesis 32; Judges 6:22; 8); *šûb bəšālôm* (Genesis 28:21; Judges 8:9; 11:31); *migdāl*; *šālap ḥereb*;
+*Qarqōr*; *beṭaḥ*; *Nōbaḥ*; *ḥārad* and Harod; *heḥāres* and *ḥeres*; *kātab* (only 8:14 in Judges); *yādaʿ*
+(8:16); *ʾêpōh* (Genesis 37:16; Judges 8:18); *ḥay YHWH* (only 8:19 in those six books); *Yeter*
+(Exodus 4:18; Judges 8:20); *gəbûrâ*; *śahărōnîm*. Leviticus was not searched. Reported, not checked:
+the gleaning gloss; the meanings of *Harod* and *Abimelech*; the *threshed* reading of 8:16; the Hebrew
+of Proverbs and Kings. No Greek or Latin text was consulted.

@@ -32,11 +32,13 @@ Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Appears in
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:25.
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:3; named by Gideon as Ephraim's share of the victory.
 
 ## Related people
 - [[Oreb]] — the other prince of Midian.
 - [[Ephraim]] — the tribe whose men take and kill him.
 - [[Gideon]] — to whom his head is brought.
+- [[Zebah]] and [[Zalmunna]] — the kings of Midian, pursued after him (8:5–21).
 
 ## Themes associated
 - [[War]] · [[Remembrance]]

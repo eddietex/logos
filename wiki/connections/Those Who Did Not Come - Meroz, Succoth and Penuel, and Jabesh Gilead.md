@@ -9,8 +9,8 @@ tags: [connection]
 
 - [[The Song of Deborah]] — Judges 5:15–17, 23; Reuben, Gilead, Dan, and Asher stay home; Meroz is
   cursed.
-- **Judges 8:5–17** *(not yet ingested; stored WEB)* — Succoth and Penuel refuse Gideon bread, and he
-  punishes both.
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:5–17 *(now ingested)* — Succoth and Penuel refuse Gideon
+  bread, and he punishes both.
 - **Judges 21:5–12** *(not yet ingested; stored WEB)* — Jabesh Gilead does not come to Mizpah, and the
   congregation destroys it.
 
@@ -55,5 +55,17 @@ coming. The Song shames and curses; the later chapters punish, and the punishmen
 See [[Meroz]], [[Curse]], [[Brotherhood]], and
 [[The Tribes Called by Name - Genesis 49, Deuteronomy 33, and Judges 5]].
 
-Sources: stored WEB Judges 5:15–17, 23; 8:5–17; 21:5–12. Judges 8 and 21 are not yet ingested; their
-pages will need to link here when they are.
+### Judges 8 now ingested — caution, not only refusal
+
+The ingest of 8:1–21 adds three details. First, Succoth's answer is caution as much as contempt: Gideon
+has three hundred *faint* men, and the kings have fifteen thousand (8:4, 10). The towns refuse to side
+with him before the kings are taken. Meroz is cursed for not coming *to help Yahweh*; Succoth and Penuel
+are punished for not feeding Gideon. Second, the charge changes in Gideon's mouth. He quotes their words
+back as *your men who are weary* (8:15), where they had said *your army* (8:6; *liṣbāʾăkā* against
+*laʾănāšêkā hayyəʿēpîm*, WLC). Third, the punishment at Penuel exceeds the threat: he said *I will break
+down this tower* (8:9), and he also *killed the men of the city* (8:17). Ephraim, which also complained
+about not being *called* (8:1), is answered gently. Source: stored WEB Judges 8:1–17; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
+Sources: stored WEB Judges 5:15–17, 23; 8:5–17; 21:5–12. Judges 21 is not yet ingested; its page will need
+to link here when it is.

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Ephraim contends with Jerubbaal — Judges 8:1–3
+
+*They rebuked him sharply* is *wayrîbûn ʾittô bəḥozqâ*, *they contended with him with force* (8:1, WLC).
+Joash had named his son *Let Baal contend* (6:32). The first to *contend* with him is an Israelite tribe,
+angry not to have been called to the battle. Gideon answers with a proverb that makes Ephraim great and
+himself small, and gives the victory to God, and *their anger was abated* (8:2–3). Jephthah will meet the
+same complaint with an argument, and it will end in war (12:1–6, stored WEB; not yet ingested). See
+[[Ephraim, Succoth, and Penuel]] and [[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]].
+Source: stored WEB Judges 6:32; 8:1–3; 12:1–6; Proverbs 15:1; Hebrew WLC (OpenScriptures morphhb),
+2026-11-15.
+
 ### Will you contend for Baal? — Judges 6:31–32
 
 *Rîb*, *contend*, *quarrel*, *plead a case*, occurs four times in two verses (WLC). The town comes to
@@ -426,6 +437,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; Ephraim's *rîb*, and the soft answer that ends it.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:31–32; *rîb* four times, and the name *Let Baal contend*.
 - [[The Call of Gideon]] — Judges 6:23–24; *Peace be to you*, and the altar *Yahweh is Peace* in a time of oppression.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

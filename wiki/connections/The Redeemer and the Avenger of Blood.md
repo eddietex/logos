@@ -41,6 +41,9 @@ tags: [connection]
 - **Genesis 4:10** — *"The voice of your brother's blood cries to me from the ground"* —
   [[Cain and Abel]], where God does the office himself
 - **Revelation 6:9–10** — *"How long, Master … until you judge and avenge our blood?"*
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:18–21; Gideon kills the kings of Midian for *my brothers,
+  the sons of my mother*. A blood feud told without the word *gōʾēl* (WLC), and outside the law of
+  Numbers 35, since the killers are foreign kings taken in war.
 
 ## Analysis
 

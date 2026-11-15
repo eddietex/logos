@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The men killed at Tabor — Judges 8:18–19
+
+*What kind of men were they whom you killed at Tabor?* (8:18). Gideon asks the kings of Midian, and the
+answer reveals that they were his brothers, *the sons of my mother* (8:19). The killing has not been
+narrated, and the text does not say when it happened or whether *Tabor* here is the mountain of 4:6. See
+[[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges 8:18–19.
+
 ### Mount Tabor — Judges 4:6–14
 
 Judges calls it *Mount Tabor* (*har tābôr*, WLC; 4:6, 12, 14). Yahweh's command sends Barak there
@@ -24,6 +31,7 @@ Named in Issachar’s border and city register (18–23), totaling sixteen citie
 Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.
 
 ## Appears in
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:18; where Zebah and Zalmunna had killed Gideon's brothers.
 - [[Deborah and Barak]] — Judges 4:6, 12, 14; Barak's army gathers on *Mount Tabor* and comes down from it.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 
@@ -34,3 +42,4 @@ Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.
 ## Events here
 - Barak's ten thousand gather and descend against Sisera (Judges 4:6–14).
 - Named in the allotment; no separate event is narrated.
+- Zebah and Zalmunna kill Gideon's brothers, told only afterwards (Judges 8:18–19).

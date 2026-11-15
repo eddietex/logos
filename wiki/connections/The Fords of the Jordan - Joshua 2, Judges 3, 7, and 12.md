@@ -53,7 +53,10 @@ stories then have Ephraim complain that it was not called: *Why have you treated
 didn't call us when you went to fight with Midian?* (8:1), and *Why did you pass over to fight against
 the children of Ammon, and didn't call us to go with you?* (12:1). In the WLC of Judges the singular niphal
 *wayyiṣṣāʿēq*, *were gathered together*, occurs only at 7:23, 7:24 (Ephraim), and 12:1 (Ephraim); the plural is at 10:17.
-Gideon calms Ephraim with flattery, *their anger was abated* (8:3); Jephthah fights it. The thread
+Gideon calms Ephraim with flattery, *their anger was abated* (8:3); Jephthah fights it. (8:1–3 is now
+ingested at [[Ephraim, Succoth, and Penuel]]; there *they rebuked him sharply* is *wayrîbûn*, *they
+contended*, the *rîb* of Gideon's name, WLC. See
+[[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]].) The thread
 turns in Gideon's story: the tactic still works against an outside enemy, and the quarrel that ends at
 the fords in 12:6 has begun. See [[Ephraim]].
 

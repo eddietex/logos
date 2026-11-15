@@ -7,6 +7,14 @@ tags: [person]
 
 ## Overview
 
+### Fifteen thousand left — Judges 8:10
+
+*About fifteen thousand men, all who were left of all the army of the children of the east; for there fell
+one hundred twenty thousand men who drew sword* (8:10). The first numbers given for the eastern army: one
+hundred thirty-five thousand in all. The remnant rests with Zebah and Zalmunna at Karkor and is struck
+there while it *was secure* (8:11). See [[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges
+8:10–12.
+
 ### All the children of the east — Judges 7:12
 
 *All the children of the east lay along in the valley like locusts for multitude* (7:12), with Midian and
@@ -49,6 +57,7 @@ Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 - Lie along the valley *like locusts for multitude* — Judges 7:12
 
 ## Appears in
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:10; fifteen thousand left of their army, struck at Karkor.
 - [[The Dream of the Barley Loaf]] — Judges 7:12; in the valley, *like locusts for multitude*.
 - [[The Fleece]] — Judges 6:33; encamped in the valley of Jezreel.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3; the raiders' third partner.

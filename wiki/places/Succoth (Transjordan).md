@@ -7,6 +7,20 @@ tags: [place]
 
 ## Overview
 
+### Bread refused, and the elders taught — Judges 8:5–16
+
+*Please give loaves of bread to the people who follow me; for they are faint* (8:5). The princes, *śārîm*,
+of Succoth answer, *Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your
+army?* (8:6). Gideon threatens to *thresh* their flesh with *thorns of the wilderness and with briers*
+(8:7; *dûš*, WLC). Coming back with the kings, he catches *a young man of the men of Succoth*, who *wrote*
+down for him (*wayyiktōb*, WLC; WEB *described*) *the princes of Succoth, and its elders, seventy-seven
+men* (8:14). He shows them the kings, quotes their refusal with a new word, *your men who are weary*
+(8:15), and *taught the men of Succoth* with the thorns and briers (8:16). The town is in Gad's allotment
+(Joshua 13:27). See [[Ephraim, Succoth, and Penuel]],
+[[Penuel and Succoth - Jacob's Road and Gideon's Pursuit]], and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]]. Source: stored WEB Joshua
+13:27; Judges 8:5–16; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Named among Gad’s valley towns (27); this is the eastern Succoth, not the Egyptian departure station.
@@ -43,6 +57,7 @@ another in the book. [[The Rescue of Lot and Melchizedek]] already cross-referen
 *"the inverse"* of Melchizedek's unasked hospitality to Abram.
 
 ## Appears in
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:5–8, 14–16; refuses Gideon bread; its seventy-seven princes and elders punished.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 
 - [[The Reconciliation with Esau]] — Genesis 33:17; the first stop after Jacob and Esau part,
@@ -56,6 +71,7 @@ another in the book. [[The Rescue of Lot and Melchizedek]] already cross-referen
 - [[Edom]] — Seir, Esau's destination the same verse, and the place Jacob's own itinerary at 33:14
   names and does not reach
 - [[Shechem (city)]] — Jacob's next and final stop in this pericope, further still into Canaan
+- [[Peniel]] — Penuel, the town that answers Gideon *as the men of Succoth had answered* (Judges 8:8)
 
 ## Events here
 

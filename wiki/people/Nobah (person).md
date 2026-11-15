@@ -12,8 +12,9 @@ The last verse of the chapter, and all the text says of him. He is not given a f
 list, after Machir and Jair, suggests a Manassite, and the chapter does not say so outright.
 
 He names a town after himself, as Jair named villages after himself the verse before. A place called Nobah
-appears again in Judges 8:11 (WEB via bible-api.com, not yet ingested). The page is qualified *(person)*
-because his name is also a place name; the town is at [[Kenath]].
+appears again in Judges 8:11, filed at [[Nobah (town)]]; the text does not say whether it is the town he
+renamed. The page is qualified *(person)* because his name is also a place name; the town he renamed is at
+[[Kenath]].
 
 See [[Reuben, Gad, and the Land Beyond the Jordan]]. Source: stored WEB Numbers 32.
 

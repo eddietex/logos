@@ -16,14 +16,16 @@ tags: [connection]
 - Isaiah 10:26 — *Yahweh of Armies will stir up a scourge against him, as in the slaughter of Midian at
   the rock of Oreb. His rod will be over the sea, and he will lift it up like he did against Egypt* (WEB
   checked; not yet ingested).
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:10–21. *He took the two kings of Midian, Zebah and
+  Zalmunna* (8:12); Gideon kills them (8:21) (stored WEB).
 
 ## Analysis
 
 **A battle remembered as a byword.** Later Scripture remembers Gideon's victory not by Gideon's name
 but by the enemy's and by the place. Psalm 83 is a prayer against a coalition of nations, and it asks
 God to repeat two victories from Judges: Barak's over Sisera and Jabin at the Kishon (Judges 4–5), and
-Gideon's over Midian, naming the princes of Judges 7:25 and the kings of Judges 8 (Zebah and Zalmunna,
-not yet ingested). Isaiah 9:4 calls the deliverance he promises *the day of Midian*. Isaiah 10:26
+Gideon's over Midian, naming the princes of Judges 7:25 and the kings of Judges 8, [[Zebah]] and
+[[Zalmunna]] (now ingested at [[Ephraim, Succoth, and Penuel]]). Isaiah 9:4 calls the deliverance he promises *the day of Midian*. Isaiah 10:26
 places it exactly, *at the rock of Oreb*, and sets it beside the sea of the exodus.
 
 **The exodus pairing.** Isaiah 10:26 puts *the slaughter of Midian* next to the rod *over the sea*, as

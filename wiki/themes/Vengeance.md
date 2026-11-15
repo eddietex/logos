@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### For the sons of my mother — Judges 8:18–21
+
+*They were my brothers, the sons of my mother. As Yahweh lives, if you had saved them alive, I would not
+kill you* (8:19). Gideon's last act in the war against Midian is a blood feud. He tells the kings the
+reason, swears by Yahweh's life, and kills them himself when his son will not (8:20–21). The war had been
+Yahweh's (7:22); the deaths of the kings are given a family reason. The word *gōʾēl* is not used. See
+[[Ephraim, Succoth, and Penuel]] and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB
+Judges 7:22; 8:18–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 The avenger’s pursuit encounters an explicit communal limit: the elders must receive and protect the unintentional killer (4–5). The existence of an avenger does not justify killing every fugitive.
@@ -213,6 +222,7 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:18–21; Gideon kills the kings of Midian for his brothers killed at Tabor.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.

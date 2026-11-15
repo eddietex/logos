@@ -23,6 +23,7 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Judges 1:34–35; 
 - [[Aijalon]] — named with it.
 - [[Shaalabbin]] — *Shaalbim*, named with it.
 - [[Irshemesh]] — a sun name in Dan's list; not identified with this mountain.
+- [[The Ascent of Heres]] — Gideon's way back in Judges 8:13; same consonants, a different lemma in the WLC data, and not identified with this mountain.
 
 ## Events here
 - The Amorites determined to stay, then put to forced labor — [[The Tribes That Did Not Drive Out]]

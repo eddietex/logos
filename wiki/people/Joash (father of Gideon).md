@@ -40,11 +40,13 @@ Source: stored WEB Judges 7:14.
 - Judges 6:30–32 — refuses to give up his son; *If he is a god, let him contend for himself*; names him
   *Jerub-Baal*.
 - Judges 7:14 — named by the Midianite interpreter: *Gideon the son of Joash*.
+- Judges 8:13, 19 — *Gideon the son of Joash*; the brothers killed at Tabor are *the sons of my mother*.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
 - [[The Dream of the Barley Loaf]] — Judges 7:14.
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:13; named as Gideon's father.
 
 ## Related people
 - [[Gideon]] — his son.

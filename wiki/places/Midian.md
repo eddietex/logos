@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The kings pursued — Judges 8:4–21
+
+After the rout, Midian has *kings*, Zebah and Zalmunna (8:5, 12), where 7:25 named *princes*. With fifteen
+thousand men, *all who were left* of a hundred thirty-five thousand, they rest at Karkor, east of the
+Jordan, and are struck while the camp *was secure* (8:10–11). Gideon takes the kings, and *confused*
+(*heḥĕrîd*, *made to tremble*, WLC) the army (8:12). He kills them for his brothers and takes the crescents
+from their camels (8:18–21). See [[Ephraim, Succoth, and Penuel]] and [[Zebah]]. Source: stored WEB
+Judges 7:25; 8:4–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The camp that turned on itself — Judges 7:16–25
 
 At the middle watch three hundred horns sound around the camp, and *all the army ran* (7:21). *Yahweh
@@ -151,6 +160,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:4–21; the kings Zebah and Zalmunna pursued to Karkor, taken, and killed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; the camp routed by its own swords; Oreb and Zeeb killed.
 - [[The Dream of the Barley Loaf]] — Judges 7:12–15; the camp *like locusts*, the dream of the fallen tent, and its interpretation.
 - [[Gideon's Three Hundred]] — Judges 7:1, 7–8; camped by the hill of Moreh, below Gideon.
@@ -215,3 +225,4 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - The dream of the barley loaf overheard in Midian's camp — Judges 7:9–15, [[The Dream of the Barley Loaf]]
 - The rout at the middle watch, and the princes killed at the Jordan — Judges 7:16–25, [[The Sword of Yahweh and of Gideon]]
 - The raids Gideon ends — Judges 6–8
+- The kings Zebah and Zalmunna taken at Karkor and killed by Gideon — Judges 8:10–21, [[Ephraim, Succoth, and Penuel]]

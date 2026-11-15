@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The pursuit beyond the Jordan — Judges 8:4–12
+
+After the battle comes the pursuit, and the narrator gives numbers for the first time: fifteen thousand
+left, *for there fell one hundred twenty thousand men who drew sword* (8:10). Three hundred men, *faint,
+yet pursuing* (8:4), take a camp that *was secure* (8:11), and the kings with it. *Who drew sword*, *šōlēp
+ḥereb* (WLC), is the phrase Judges will use for the armies of the war against Benjamin (20:2, 15, 17, 25,
+35, 46). Gideon's war against Midian ends with Israelite towns punished (8:16–17). See
+[[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges 8:4–17; 20:2; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-15.
+
 ### A battle without a blow — Judges 7:16–25
 
 The three hundred carry horns, jars, and torches, and no sword is named (7:16, 20). They surround the
@@ -853,6 +863,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; the pursuit with three hundred, the camp at Karkor taken, and the kings killed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; horns and torches, the enemy's swords turned on itself, the fords held.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; the reconnaissance, and the order *Arise*.
 - [[Gideon's Three Hundred]] — Judges 7:1–8; the army cut to three hundred so the victory is Yahweh's.

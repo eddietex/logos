@@ -18,7 +18,7 @@ had the name before. He never speaks.
 His name is the common noun *ʿōrēb*, *raven*, the bird of Genesis 8:7 (WLC). His fellow prince is
 [[Zeeb]], *wolf*. As a personal name *Oreb* occurs in Genesis–Judges only at Judges 7:25 and 8:3 (WLC).
 In 8:3 Gideon reminds Ephraim that *God has delivered into your hand the princes of Midian, Oreb and
-Zeeb* (stored WEB; not yet ingested).
+Zeeb*, and the reminder ends Ephraim's anger. See [[Ephraim, Succoth, and Penuel]].
 
 Later Scripture uses the name as a byword: *Make their nobles like Oreb and Zeeb* (Psalm 83:11), and *as
 in the slaughter of Midian at the rock of Oreb* (Isaiah 10:26) (WEB checked; not yet ingested). See
@@ -32,11 +32,13 @@ bible-api.com (WEB); Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Appears in
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:25.
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:3; named by Gideon as Ephraim's share of the victory.
 
 ## Related people
 - [[Zeeb]] — the other prince of Midian, killed with him.
 - [[Ephraim]] — the tribe whose men take and kill him.
 - [[Gideon]] — to whom his head is brought.
+- [[Zebah]] and [[Zalmunna]] — the kings of Midian, pursued after him (8:5–21).
 
 ## Themes associated
 - [[War]] · [[Remembrance]]

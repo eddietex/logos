@@ -304,6 +304,8 @@ Genesis 34 will make him a central figure. See [[Hamor]].
 - [[The Restoration of Job]] — Job 42:11: each of Job's family brings him a *qəśîṭâ*, *a piece of money* — the unit of
   33:19's *"one hundred pieces of money"*, found elsewhere only at Joshua 24:32.
 - [[A Strong Tower]] — Proverbs 18:19; the offended brother the proverb calls hard, who *"ran to meet him"* (33:4).
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:5–16; Succoth refuses Gideon bread and is punished. See
+  [[Penuel and Succoth - Jacob's Road and Gideon's Pursuit]].
 
 ## Notes
 

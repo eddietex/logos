@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Named, and silent — Judges 8:1–21
+
+After the battle God does not speak or act in the narrative. He is named three times, all by Gideon.
+To Ephraim: *God has delivered into your hand the princes of Midian* (8:3). To Succoth: *when Yahweh has
+delivered Zebah and Zalmunna into my hand* (8:7). To the kings: *As Yahweh lives, if you had saved them
+alive, I would not kill you* (8:19). In the WLC of Genesis–Judges that is the first human oath in the
+form *ḥay YHWH* (search of adjacent words; see the Notes on the passage page). The punishments of Succoth
+and Penuel and the deaths of the kings are Gideon's acts and are given Gideon's reasons. See
+[[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges 8:1–21; Hebrew WLC (OpenScriptures morphhb),
+2026-11-15.
+
 ### He sets every man's sword against his fellow — Judges 7:16–25
 
 Three hundred men blow horns and hold torches, and the one act of the battle is Yahweh's: *Yahweh set
@@ -4157,6 +4168,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; named only in Gideon's mouth (3, 7, 19), including the oath *As Yahweh lives*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; *Yahweh set every man's sword against his fellow*; named first in *The sword of Yahweh and of Gideon!*
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; *I have delivered it into your hand*, and *if you are afraid … you will hear what they say*; *God* in the Midianite interpreter's mouth, *Yahweh* in Gideon's.
 - [[Gideon's Three Hundred]] — Judges 7:1–8; the army *too many*, reduced to three hundred, *lest Israel brag against me*.

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### As Yahweh lives — Judges 8:19
+
+*As Yahweh lives, if you had saved them alive, I would not kill you* (8:19). In the WLC of Genesis–Judges
+it is the first human oath in the form *ḥay YHWH* (search for the two words adjacent; other forms of oath
+by God's life are not counted). Gideon swears it to two foreign kings, over a private cause. Ten verses
+earlier he gave Penuel a promise in the words of a vow, *When I come again in peace* (8:9), words that in
+the WLC of Genesis–Judges are otherwise found only in Jacob's vow (Genesis 28:21) and Jephthah's
+(11:31). See [[Ephraim, Succoth, and Penuel]] and
+[[When I Return in Peace - Jacob's Vow, Gideon's Threat, and Jephthah's Vow]]. Source: stored WEB
+Genesis 28:21; Judges 8:9, 19; 11:31; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Joseph's oath completed — Joshua 24:29–33
 
 Joseph's bones are buried at Shechem (32). The oath sworn at Genesis 50:25 and kept by Moses at
@@ -522,6 +533,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:9, 19; *When I come again in peace*, and the oath *As Yahweh lives*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's oath completed at Shechem (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the people as witnesses against themselves, and the witness stone (22, 27).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; no swearing by other gods (7).

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Brothers avenged, brother towns punished — Judges 8:1–21
+
+The pericope sets two kinds of brotherhood side by side. Gideon avenges *my brothers, the sons of my
+mother* (8:19) on the kings who killed them. And he punishes Succoth and Penuel, Israelite towns east of
+the Jordan, for refusing bread to his men (8:16–17). Ephraim, a brother tribe, is answered gently (8:2–3).
+The book does not compare these. See [[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges
+8:1–21.
+
 ### Judah and Simeon — Judges 1:1–7
 
 Judah, chosen to go up first, says to *Simeon his brother*, *Come up with me into my lot … and I
@@ -376,6 +384,7 @@ abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] 
 
 ## Key passages
 
+- [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; Gideon's brothers avenged; Israelite towns punished; Ephraim calmed.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
