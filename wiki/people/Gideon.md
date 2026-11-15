@@ -75,12 +75,24 @@ used of worshiping Yahweh. Then he goes back and says Yahweh's own sentence to h
 Yahweh has delivered the army of Midian into your hand!* (7:15). See [[The Dream of the Barley Loaf]]
 and [[Spies Who Hear the Enemy's Fear - Joshua 2 and Judges 7]].
 
+He divides the three hundred into three companies and arms them with horns, empty jars, and torches.
+No sword is handed out (7:16). *Watch me, and do likewise*, he tells them (7:17). The man who asked for
+signs is now the sign his men follow. He writes the shout himself, *For Yahweh and for Gideon!* (7:18),
+and the army makes it *The sword of Yahweh and of Gideon!* (7:20), taking *sword* from the Midianite's
+interpretation (7:14). It puts his name beside Yahweh's in the battle Yahweh had cut down *lest Israel
+brag against me* (7:2). The text does not comment. At the middle watch the horns sound, the jars
+break, and Israel *stood in his place* while *Yahweh set every man's sword against his fellow* (7:21–22).
+Gideon's own part after that is to summon: the tribes pursue, and Ephraim, called late, takes the
+waters and the princes Oreb and Zeeb, whose heads are brought to him (7:23–25). See
+[[The Sword of Yahweh and of Gideon]] and
+[[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]].
+
 Two details sit beside his call without comment. He has *ten men of his servants* (6:27), though he
 called his clan *the poorest in Manasseh* (6:15). And the man who breaks down Ophrah's Baal altar later
 makes an ephod and puts it *in Ophrah, his city*, where *all Israel played the prostitute with it*
 (8:27).
 
-Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 18:32; Exodus 3:12; 34:13; Judges 2:2.
+Source: stored WEB Judges 6:11–40; 7:1–25; 8:27; Deuteronomy 20:8; Genesis 18:32; Exodus 3:12; 34:13; Judges 2:2.
 
 ## Timeline / key events
 
@@ -98,6 +110,8 @@ Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 1
   the three hundred who lapped.
 - Judges 7:9–15 — sent down to the camp by night, *if you are afraid*, with Purah; hears the dream of the
   barley loaf and its interpretation; worships, and tells the three hundred *Arise*.
+- Judges 7:16–25 — horns, jars, and torches; *For Yahweh and for Gideon!*; the camp routed by its own
+  swords; summons the tribes and Ephraim; receives the heads of Oreb and Zeeb.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
@@ -105,9 +119,12 @@ Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 1
 - [[The Fleece]] — Judges 6:33–40.
 - [[Gideon's Three Hundred]] — Judges 7:1–8.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15.
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25.
 
 ## Related people
 - [[Purah]] — his servant, who goes down with him to Midian's camp (7:10–11).
+- [[Oreb]] and [[Zeeb]] — the princes of Midian whose heads are brought to him (7:25).
+- [[Ephraim]] — summoned late to take the waters (7:24); complains in 8:1.
 - [[Joash (father of Gideon)]] — his father, owner of the oak and of the Baal altar at Ophrah; defends
   him and names him *Jerub-Baal*.
 - [[The Families of Manasseh]] — Abiezer, his clan.
@@ -123,4 +140,4 @@ Source: stored WEB Judges 6:11–40; 7:1–15; 8:27; Deuteronomy 20:8; Genesis 1
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·
   [[Seeing and Being Seen]] · [[The Fear of God]] · [[Faith]] · [[Idolatry]] · [[Names and Naming]] ·
   [[Testing]] · [[The Spirit of God]] · [[Prayer]] · [[War]] · [[Pride and Self-Exaltation]] · [[Prophecy and Vision]] ·
-  [[Praise and Song]]
+  [[Praise and Song]] · [[Light and Darkness]]

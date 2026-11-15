@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### *Out of all Manasseh* — Judges 7:23
+
+Gideon's tribe joins the pursuit with Naphtali and Asher: *out of all Manasseh, and pursued Midian*
+(7:23), echoing *throughout all Manasseh* in the muster (6:35). See [[The Sword of Yahweh and of Gideon]].
+Source: stored WEB Judges 6:35; 7:23.
+
 ### *Throughout all Manasseh* — Judges 6:35
 
 Gideon's own tribe is the first beyond his clan to be summoned: *He sent messengers throughout all
@@ -295,6 +301,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:23; *out of all Manasseh*, in the pursuit.
 - [[The Fleece]] — Judges 6:35; messengers *throughout all Manasseh*.
 - [[The Call of Gideon]] — Judges 6:15; Gideon's family *the poorest in Manasseh*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–28; five cities not driven out.

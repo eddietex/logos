@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The camp that turned on itself — Judges 7:16–25
+
+At the middle watch three hundred horns sound around the camp, and *all the army ran* (7:21). *Yahweh
+set every man's sword against his fellow, and against all the army* (7:22). The flight runs past Beth
+Shittah, Zererah, and Abel Meholah toward the Jordan, where Ephraim holds the waters and kills *the two
+princes of Midian, Oreb and Zeeb* (7:24–25). Later Scripture calls it *the day of Midian* (Isaiah 9:4,
+WEB checked). See [[The Sword of Yahweh and of Gideon]] and
+[[The Day of Midian - Oreb and Zeeb in Psalm 83 and Isaiah 9-10]]. Source: stored WEB Judges 7:16–25;
+Isaiah 9:4 checked at bible-api.com (WEB), 2026-11-15.
+
 ### The tent that fell — Judges 7:9–15
 
 Midian's army *lay along in the valley like locusts for multitude*, and its camels were *as the sand which
@@ -141,6 +151,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; the camp routed by its own swords; Oreb and Zeeb killed.
 - [[The Dream of the Barley Loaf]] — Judges 7:12–15; the camp *like locusts*, the dream of the fallen tent, and its interpretation.
 - [[Gideon's Three Hundred]] — Judges 7:1, 7–8; camped by the hill of Moreh, below Gideon.
 - [[The Fleece]] — Judges 6:33; the gathered army encamps in the valley of Jezreel.
@@ -202,4 +213,5 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
 - Hobab, a Midianite, is asked to go with Israel from Sinai — Numbers 10:29–32, [[The March from Sinai]]
 - Destroyed after Peor; five kings killed, and Balaam with them — Numbers 31, [[The War Against Midian]]
 - The dream of the barley loaf overheard in Midian's camp — Judges 7:9–15, [[The Dream of the Barley Loaf]]
+- The rout at the middle watch, and the princes killed at the Jordan — Judges 7:16–25, [[The Sword of Yahweh and of Gideon]]
 - The raids Gideon ends — Judges 6–8

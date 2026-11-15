@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### He sets every man's sword against his fellow — Judges 7:16–25
+
+Three hundred men blow horns and hold torches, and the one act of the battle is Yahweh's: *Yahweh set
+every man's sword against his fellow, and against all the army* (7:22). Israel *stood in his place* (7:21).
+His name comes first in both shouts, *For Yahweh and for Gideon!* (18) and *The sword of Yahweh and of
+Gideon!* (20), though the shout he did not write adds a man's name to his. Exodus 14:24 is the only other
+place in Genesis–Judges where the night *watch*, *ʾašmōret*, is named, when he *confused the Egyptian
+army* (WLC). See [[The Sword of Yahweh and of Gideon]] and
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]]. Source: stored WEB Exodus 14:24; Judges 7:16–25;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Too many for me to give — Judges 7:1–8
 
 Yahweh, silent through the fleece, speaks four times in eight verses. Gideon's army is *too many for
@@ -4142,9 +4153,11 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 - His Spirit clothes Gideon; grants the fleece twice, unrebuking — [[The Fleece]]
 - Reduces Gideon's army to three hundred, *lest Israel brag* — [[Gideon's Three Hundred]]
 - Offers the fearful Gideon a sign unasked, heard in an enemy's dream; *I have delivered it into your hand* — [[The Dream of the Barley Loaf]]
+- Sets every man's sword in Midian's camp against his fellow — [[The Sword of Yahweh and of Gideon]]
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; *Yahweh set every man's sword against his fellow*; named first in *The sword of Yahweh and of Gideon!*
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; *I have delivered it into your hand*, and *if you are afraid … you will hear what they say*; *God* in the Midianite interpreter's mouth, *Yahweh* in Gideon's.
 - [[Gideon's Three Hundred]] — Judges 7:1–8; the army *too many*, reduced to three hundred, *lest Israel brag against me*.
 - [[The Fleece]] — Judges 6:33–40; his Spirit clothes Gideon; addressed as *God*, he grants the fleece twice without a word.

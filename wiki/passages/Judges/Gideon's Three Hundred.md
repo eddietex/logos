@@ -168,7 +168,7 @@ all the talking, and Gideon says nothing at all. He does what he is told in ever
 - [[The Children of Joseph Ask for More]] — Joshua 17:16; the valley of Jezreel.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; *if you are afraid* (10), with the *yārēʾ* of 7:3,
   and the army *like locusts* (12).
-- Judges 7:16, 22 — the three hundred horns (stored WEB; not yet ingested).
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16, 22; the three hundred horns.
 
 ## Notes
 

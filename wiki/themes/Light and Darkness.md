@@ -33,6 +33,16 @@ hardest.
 
 ## Development across Scripture
 
+### Torches in the jars — Judges 7:16–20
+
+Gideon's battle is fought in the dark, *in the beginning of the middle watch* (7:19), and its weapon is
+light kept hidden until the signal: *empty pitchers, with torches within the pitchers* (7:16). The jars
+are broken and the torches held up in the left hand (7:20). Three hundred lights appear at once on every
+side of the camp. The torch, *lappîd*, is the word of the *flaming torch* between the pieces (Genesis
+15:17) (WLC); Judges does not refer to it. See [[The Sword of Yahweh and of Gideon]] and
+[[Smoking Furnace and Flaming Torch - Fire as Theophany]]. Source: stored WEB Genesis 15:17;
+Judges 7:16–20; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The request for a mediator — Deuteronomy 5:23–33
 
 The divine voice comes from the darkness while the mountain burns with fire (23). Darkness is the
@@ -348,6 +358,7 @@ See [[The Cloud over the Tabernacle]]. Source: stored WEB Numbers 9.
 
 ## Key passages
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16–20; torches hidden in jars and shown at the middle watch.
 - [[The People's Request for a Mediator]] — Deuteronomy 5:23–33.
 
 - [[The Ten Commandments Recounted]] — Deuteronomy 5:1–22.

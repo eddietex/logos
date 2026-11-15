@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### A battle without a blow — Judges 7:16–25
+
+The three hundred carry horns, jars, and torches, and no sword is named (7:16, 20). They surround the
+camp at the middle watch, blow, break the jars, shout, and *each stood in his place* (7:21). The killing
+in the camp is Midian's own: *Yahweh set every man's sword against his fellow* (7:22). Israel's arms
+enter only in the pursuit, when the tribes come back and Ephraim holds the Jordan's waters and takes
+the princes (7:23–25), the tactic of Ehud at the fords (3:28). See
+[[The Sword of Yahweh and of Gideon]], [[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]],
+and [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]].
+
+Source: stored WEB Judges 3:28; 7:16–25.
+
 ### The night reconnaissance — Judges 7:9–15
 
 Before the battle, Yahweh sends the commander down to the enemy's outposts, *the armed men* (7:11). The
@@ -841,6 +853,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; horns and torches, the enemy's swords turned on itself, the fords held.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; the reconnaissance, and the order *Arise*.
 - [[Gideon's Three Hundred]] — Judges 7:1–8; the army cut to three hundred so the victory is Yahweh's.
 - [[The Fleece]] — Judges 6:33–35; the eastern army gathers, and Gideon musters four tribes.

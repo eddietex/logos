@@ -11,8 +11,9 @@ tags: [connection]
   Jordan River.* (stored WEB)
 - [[Ehud and Eglon]] — **Judges 3:28** — *They followed him, and took the fords of the Jordan against
   the Moabites, and didn't allow any man to pass over.* (stored WEB)
-- **Judges 7:24** — *take before them the waters, as far as Beth Barah, even the Jordan!* (stored WEB)
-  *(not yet ingested)*
+- [[The Sword of Yahweh and of Gideon]] — **Judges 7:24–25** — *take before them the waters, as far as
+  Beth Barah, even the Jordan!* Ephraim *took the waters*, and the princes Oreb and Zeeb (stored WEB)
+  *(now ingested)*
 - **Judges 12:5–6** — *The Gileadites took the fords of the Jordan against the Ephraimites … then they
   seized him, and killed him at the fords of the Jordan.* (stored WEB) *(not yet ingested)*
 
@@ -41,6 +42,23 @@ Jephthah, Gilead holds them against Ephraim, and the test at the ford is how a m
 *forty-two thousand of Ephraim fell* (12:6, stored WEB). The same place, and the same tactic, end up
 used by one tribe against another. Ephraim, which held the waters in chapter 7, is caught at the fords
 in chapter 12.
+
+### Judges 7 now ingested — Ephraim summoned, and Ephraim's complaint
+
+The verb is *lākad*, *take* or *capture*, in all three Judges accounts (3:28; 7:24; 12:5, WLC). Judges
+7:24 has *ʾet-hammayim … wəʾet-hayyardēn*, *the waters … and the Jordan*, where 3:28 and 12:5 have
+*maʿbərôt hayyardēn* (WLC). Ehud's muster was a horn blown *in the hill country of Ephraim* (3:27); Gideon
+sends messengers *throughout all the hill country of Ephraim* (7:24). Both Gideon's and Jephthah's
+stories then have Ephraim complain that it was not called: *Why have you treated us this way, that you
+didn't call us when you went to fight with Midian?* (8:1), and *Why did you pass over to fight against
+the children of Ammon, and didn't call us to go with you?* (12:1). In the WLC of Judges the singular niphal
+*wayyiṣṣāʿēq*, *were gathered together*, occurs only at 7:23, 7:24 (Ephraim), and 12:1 (Ephraim); the plural is at 10:17.
+Gideon calms Ephraim with flattery, *their anger was abated* (8:3); Jephthah fights it. The thread
+turns in Gideon's story: the tactic still works against an outside enemy, and the quarrel that ends at
+the fords in 12:6 has begun. See [[Ephraim]].
+
+Sources for this section: stored WEB Judges 3:27; 7:23–25; 8:1, 3; 12:1, 5; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-15.
 
 ## Significance
 

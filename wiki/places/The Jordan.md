@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The waters taken against Midian — Judges 7:24–25
+
+Gideon tells Ephraim to *take before them the waters, as far as Beth Barah, even the Jordan!* (7:24), as
+Ehud's men *took the fords of the Jordan* against Moab (3:28). The princes' heads are brought to Gideon
+*beyond the Jordan* (7:25), though he crosses only in 8:4 (not yet ingested). See
+[[The Sword of Yahweh and of Gideon]] and [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]].
+Source: stored WEB Judges 3:28; 7:24–25; 8:4.
+
 ### *Beyond the Jordan* — Judges 5:17
 
 *Gilead lived beyond the Jordan* (5:17). In the Song the river is a line between those who came and
@@ -376,6 +384,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; Ephraim holds the waters; the heads brought *beyond the Jordan*.
 - [[Ehud and Eglon]] — Judges 3:28; Israel takes the fords against Moab.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the Amorites beyond it (8), and the crossing (11).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; eastern limit of the allotment (4).

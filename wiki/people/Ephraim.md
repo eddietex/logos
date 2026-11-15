@@ -12,6 +12,18 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Summoned late — Judges 7:24–25
+
+Ephraim was not among the tribes Gideon mustered (6:35). After the rout he sends *messengers throughout
+all the hill country of Ephraim*: *Come down against Midian, and take before them the waters, as far as
+Beth Barah, even the Jordan!* (7:24). The tribe does it, takes *the two princes of Midian, Oreb and
+Zeeb*, and brings their heads to Gideon (7:25). The next verse is its complaint at being called late,
+*Why have you treated us this way, that you didn't call us …?* (8:1, not yet ingested). The same verb
+form, *wayyiṣṣāʿēq*, *were gathered together*, opens Ephraim's quarrel with Jephthah (12:1), which ends
+with Ephraim caught at the fords (12:5–6) (WLC; stored WEB). See [[The Sword of Yahweh and of Gideon]]
+and [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]]. Source: stored WEB Judges 6:35;
+7:24–25; 8:1; 12:1, 5–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### *Out of Ephraim* — Judges 5:14
 
 *Those whose root is in Amalek came out of Ephraim, after you, Benjamin, among your peoples* (5:14).
@@ -217,6 +229,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; takes the waters, and Oreb and Zeeb.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:29; Gezer's Canaanites not driven out.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

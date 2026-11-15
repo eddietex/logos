@@ -97,7 +97,7 @@ outcome in the same perfect tense Yahweh used: *God has delivered*. He calls Gid
 Israel*. The commander who called his family *the poorest in Manasseh* (6:15) is a famous name in
 Midian's camp. The interpreter says *God*, *hāʾĕlōhîm*, not Yahweh. When Gideon repeats it in the next
 verse he says *Yahweh*. The interpreter's phrase *the sword of Gideon* is heard again in 7:20, in
-the shout *The sword of Yahweh and of Gideon!* (stored WEB; not yet ingested). The army will add the
+the shout *The sword of Yahweh and of Gideon!* ([[The Sword of Yahweh and of Gideon]]). The army will add the
 name the Midianite left out.
 
 The scene is like the spies at Jericho. Joshua's two men heard the enemy's fear from Rahab: *the fear of
@@ -198,8 +198,8 @@ hundred have not yet done anything, and the enemy already says the matter is set
 - [[Pharaoh's Dreams and Joseph's Rise]] — Genesis 41; the last dream told before this one.
 - [[The Fall]] — Genesis 3:24; the only other hitpael of *hāpak* in Genesis–Judges (see
   the Notes).
-- Judges 7:19–20 — the pitchers *broken*, and *The sword of Yahweh and of Gideon!* (stored WEB; not yet
-  ingested).
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:19–20, 22; the pitchers *broken*, *The sword of
+  Yahweh and of Gideon!*, and *every man's sword against his fellow*.
 
 ## Notes
 

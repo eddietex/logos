@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### In the pursuit — Judges 7:23
+
+*The men of Israel were gathered together out of Naphtali, and out of Asher, and out of all Manasseh, and
+pursued Midian* (7:23). After Yahweh has turned Midian's swords on itself, Naphtali is the first tribe
+named in the chase. The list is 6:35's without Zebulun, and the verb is now *wayyiṣṣāʿēq* (*ṣāʿaq*) where
+6:34–35 had *wayyizzāʿēq* (*zāʿaq*) (WLC). Whether these are the men sent home in 7:3, 7 is not said.
+See [[The Sword of Yahweh and of Gideon]]. Source: stored WEB Judges 6:35; 7:3, 7, 23; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
 ### Summoned again — Judges 6:35
 
 Gideon sends messengers *to Asher, and to Zebulun, and to Naphtali; and they came up to meet them*
@@ -192,6 +201,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:23; first named in the pursuit of Midian.
 - [[The Fleece]] — Judges 6:35; summoned by Gideon with Asher and Zebulun.
 - [[Deborah and Barak]] — Judges 4:6, 10; Barak's tribe and half of the ten thousand.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:33; two cities not driven out; lives among the Canaanites.

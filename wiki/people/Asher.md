@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### In the pursuit — Judges 7:23
+
+Asher, summoned in 6:35, is named again among those who *pursued Midian* after the rout (7:23). The tribe
+that *sat still at the haven of the sea* in Deborah's war (5:17) comes to Gideon's twice. See
+[[The Sword of Yahweh and of Gideon]]. Source: stored WEB Judges 5:17; 6:35; 7:23.
+
 ### Asher comes — Judges 6:35
 
 Asher, which *sat still at the haven of the sea* when Deborah called (5:17), is one of the three
@@ -167,6 +173,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:23; joins the pursuit of Midian.
 - [[The Fleece]] — Judges 6:35; summoned by Gideon, and comes.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:31–32; seven cities not driven out; lives among the Canaanites.
 - [[The Cities of the Levites]] — Joshua 21:1–42.

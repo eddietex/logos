@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Fall of Jericho]] — Joshua 6:1–27 (now ingested).
 - [[The Fleece]] — Judges 6:34; Gideon's *šôpār* muster (now ingested).
 - [[Gideon's Three Hundred]] — Judges 7:8; the three hundred keep the *šôpārôt* (now ingested).
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:16–22; three hundred *šôpārôt* blown around the camp (now ingested).
 
 - [[The Two Silver Trumpets]] — Numbers 10:1–10; *ḥăṣōṣərâ*
 - [[Israel at Mount Sinai]] — Exodus 19:13, 16, 19; *yôbēl* and *šôpār*
@@ -94,7 +95,18 @@ WLC). See [[Ehud and Eglon]].
 *So the people took food in their hand, and their trumpets* (7:8, stored WEB). The Hebrew is
 *šôpərōtêhem*, the plural of *šôpār* (WLC), rams' horns again and not silver trumpets. The horn that
 mustered the army (6:34) stays with the three hundred, who will blow three hundred of them (7:16, 22,
-stored WEB; not yet ingested). See [[Gideon's Three Hundred]].
+stored WEB). See [[Gideon's Three Hundred]].
+
+### Three hundred horns — Judges 7:16–22
+
+Every man gets a *šôpār* (7:16), and Gideon's plan is *When I blow the trumpet … then blow the trumpets
+also on every side of all the camp* (7:18). The verb is *tāqaʿ* throughout (18, 19, 20, 22), and the
+instrument is always *šôpār* (WLC). No priest blows, and the horn is neither a muster nor an alarm. It
+is the attack itself: *They blew the three hundred trumpets, and Yahweh set every man's sword against
+his fellow* (22, stored WEB). The closest use is Jericho, where the priests' horns precede the fall of
+the wall (Joshua 6:4–5, 20). See [[The Sword of Yahweh and of Gideon]] and
+[[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]]. Source: stored WEB Joshua 6;
+Judges 7:16–22; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

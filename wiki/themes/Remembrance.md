@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The day of Midian — Judges 7:25 remembered
+
+The battle became a byword. Psalm 83 prays *Do to them as you did to Midian … Make their nobles like Oreb
+and Zeeb* (83:9, 11), and Isaiah promises a deliverance *as in the day of Midian* (9:4) and *as in the
+slaughter of Midian at the rock of Oreb* (10:26) (WEB checked at bible-api.com; not yet ingested). What
+is remembered is the enemy and the place, not Gideon's name. See [[The Sword of Yahweh and of Gideon]]
+and [[The Day of Midian - Oreb and Zeeb in Psalm 83 and Isaiah 9-10]]. Source: stored WEB Judges 7:25;
+Psalm 83:9, 11; Isaiah 9:4; 10:26 checked at bible-api.com (WEB), 2026-11-15.
+
 ### The prophet's history — Judges 6:8–9
 
 The prophet sent under Midian reminds Israel of what Yahweh did: *I brought you up from Egypt … I
@@ -793,6 +802,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:25; Oreb and Zeeb, later remembered as *the day of Midian*.
 - [[The Call of Gideon]] — Judges 6:13; *his wondrous works which our fathers told us of*, remembered as past.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–9; the exodus and the conquest recited.
 - [[Othniel the First Judge]] — Judges 3:7; *forgot Yahweh their God*.

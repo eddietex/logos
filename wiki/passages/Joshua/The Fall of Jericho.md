@@ -69,6 +69,8 @@ living among Israel. Joshua curses the future rebuilder, and his fame spreads as
 - [[Joshua’s Curse on Jericho and Hiel’s Sons]]
 - [[Devoted to Destruction - Leviticus 27.28-29, Deuteronomy 7, Joshua 6-7, and 1 Samuel 15]]
 - [[Trumpet and Ram's Horn - Two Instruments, One English Word]]
+- [[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]] — Judges 7:16–22; horns and a
+  shout again, and an enemy that falls with no Israelite blow.
 - [[The Midwives and Rahab - Deceiving the King to Save Life]]
 
 The warning of 6:18 is broken in the next pericope, [[The Sin of Achan]] (Joshua 7:1–26).

@@ -184,6 +184,16 @@ Yahweh. Then he gives his men Yahweh's own sentence: *Arise; for Yahweh has deli
 into your hand!* The fear of 7:3 is now in the enemy's camp. As at Jericho (Joshua 2:9, 24), the spies
 hear it from the enemy's own mouth.
 
+[[The Sword of Yahweh and of Gideon]] (7:16–25) is the battle, and no Israelite strikes a blow in the
+camp. The three hundred carry horns, and torches hidden in empty jars. At *the beginning of the middle
+watch* they blow, break the jars, and shout *The sword of Yahweh and of Gideon!*, Gideon's own *For
+Yahweh and for Gideon!* with the Midianite's word *sword* added. *They each stood in his place*, and
+*Yahweh set every man's sword against his fellow*. It is Jericho's horns and shout without priest or
+ark, and with a man's name in the cry. The tribes pursue, and Ephraim, summoned late, holds the waters
+of the Jordan as Ehud's men held the fords (3:28) and kills the princes Oreb and Zeeb. Their heads are
+brought to Gideon, and Ephraim's complaint at being called late follows at once (8:1). Psalm 83 and
+Isaiah 9–10 later remember it as *the day of Midian*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -224,7 +234,7 @@ merge, or reorder them freely.
 - [x] [[The Fleece]] — Judges 6:33–40
 - [x] [[Gideon's Three Hundred]] — Judges 7:1–8
 - [x] [[The Dream of the Barley Loaf]] — Judges 7:9–15
-- [ ] The Sword of Yahweh and of Gideon — Judges 7:16–25
+- [x] [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25
 - [ ] Ephraim, Succoth, and Penuel — Judges 8:1–21
 - [ ] Gideon's Ephod and Death — Judges 8:22–35
 - [ ] Abimelech Made King at Shechem — Judges 9:1–6
@@ -261,7 +271,7 @@ merge, or reorder them freely.
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
-- [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2).
+- [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
 - [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
@@ -282,6 +292,8 @@ merge, or reorder them freely.
 - [[Gideon]] — called at Ophrah to save Israel from Midian (6:11–24); named *Jerub-Baal* (6:32).
 - [[Joash (father of Gideon)]] — keeper of Ophrah's Baal altar, who refuses to give up his son (6:25–32).
 - [[Purah]] — Gideon's servant, who goes down with him to the edge of Midian's camp (7:10–11).
+- [[Oreb]] and [[Zeeb]] — the two princes of Midian, killed by Ephraim (7:25).
+- [[Ephraim]] — summoned late against Midian (7:24); quarrels with Gideon (8:1) and Jephthah (12:1).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -293,3 +305,5 @@ merge, or reorder them freely.
 - [[Ophrah (Manasseh)]] — Gideon's town, the oak, and the altar *Yahweh is Peace* (6:11–24).
 - [[The Valley of Jezreel]] — where Midian and its allies encamp (6:33).
 - [[The Spring of Harod]] and [[The Hill of Moreh]] — Gideon's camp and Midian's (7:1).
+- [[Beth Shittah]], [[Zererah]], [[Abel Meholah]], [[Tabbath]] — the line of Midian's flight (7:22).
+- [[Beth Barah]], [[The Rock of Oreb]], [[The Winepress of Zeeb]] — the waters held and the princes killed (7:24–25).

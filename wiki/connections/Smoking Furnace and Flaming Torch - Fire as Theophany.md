@@ -52,7 +52,7 @@ elsewhere in the Bible baking (Leviticus 26:26; Hosea 7:4–7). Smoke, heat, and
 It is a domestic object, and a reader who imagines an industrial furnace has already lost the image.
 
 ***A flaming torch*** is *lappîd ʾēš*, a hand-carried firebrand — the same word as Gideon's torches in
-the jars (Judges 7:16, 20) and the lightning at Sinai (Exodus 20:18, where *lappîdîm* is what the
+the jars (Judges 7:16, 20; [[The Sword of Yahweh and of Gideon]]) and the lightning at Sinai (Exodus 20:18, where *lappîdîm* is what the
 people *see* of the thunder).
 
 Two things, not one: something heavy and smoking and something bright and moving. The most natural

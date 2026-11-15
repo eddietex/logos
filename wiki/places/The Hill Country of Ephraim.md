@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Gideon's messengers — Judges 7:24
+
+*Gideon sent messengers throughout all the hill country of Ephraim* (7:24) to cut off Midian at the
+Jordan. Ehud had raised Israel from the same hills with a trumpet before taking the fords (3:27–28).
+See [[The Sword of Yahweh and of Gideon]]. Source: stored WEB Judges 3:27–28; 7:24.
+
 ### Deborah's court — Judges 4:5
 
 Deborah's palm is *between Ramah and Bethel in the hill country of Ephraim*, and Israel *came up to
@@ -58,6 +64,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:24; Gideon sends messengers through it.
 - [[Deborah and Barak]] — Judges 4:5; Deborah judges there.
 - [[Ehud and Eglon]] — Judges 3:27; Ehud blows the trumpet there.
 - [[Another Generation Arose]] — Judges 2:9; Joshua's grave at Timnath Heres.

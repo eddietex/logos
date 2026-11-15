@@ -119,6 +119,8 @@ him at all.
 - [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]] — *eighty years*.
 - [[Left-Handed Men of Benjamin - Judges 3.15 and 20.16]] — the phrase *ʾiṭṭēr yad-yəmînô*.
 - [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]] — the fords held against an enemy.
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:24; Gideon's messengers to the same hill country,
+  and the waters taken against Midian.
 - [[Trumpet and Ram's Horn - Two Instruments, One English Word]] — Ehud's *šôpār*.
 - [[Moab and Ammon - The Two Nations Born in the Cave]] — the two nations together against Israel.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:16; *the city of palm trees*.

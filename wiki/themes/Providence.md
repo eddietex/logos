@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Every man's sword against his fellow — Judges 7:22
+
+The dream said a barley loaf would knock the tent flat (7:13). It happens by the tent's own people:
+*Yahweh set every man's sword against his fellow* (7:22). *Fellow*, *rēaʿ*, is the word for the man the
+dreamer told his dream to (7:13–14, WLC). Israel's three hundred stand still and blow. The text names no
+means beyond the noise, the light, and the dark; it names Yahweh as the one who turned the swords. See
+[[The Sword of Yahweh and of Gideon]]. Source: stored WEB Judges 7:13–14, 21–22; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
 ### When Gideon had come — Judges 7:13
 
 *When Gideon had come, behold, there was a man telling a dream to his fellow* (7:13). Gideon arrives at
@@ -517,6 +526,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:22; *Yahweh set every man's sword against his fellow*.
 - [[The Dream of the Barley Loaf]] — Judges 7:11–14; Gideon arrives as the dream is told.
 - [[Joshua's Own Inheritance]] — Joshua 19:49–51.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48.

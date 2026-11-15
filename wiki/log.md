@@ -26503,3 +26503,49 @@ Judges 7:11); *nōpəlîm*/*nāpal* (7:12–13); the sand clause (Genesis 22:17;
 *ḥereb laYHWH ûləgidʿôn* (7:20). Reported, not checked: the sense of *ḥămušîm*; the derivation of
 *ṣəlîl* and its uniqueness beyond Genesis–Judges; the relation of *šeber* *interpretation* to *šeber*
 *breaking*. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 7.16-25 — The Sword of Yahweh and of Gideon
+
+Auto mode. Judges was the only `in-progress` book; ingested its nineteenth box,
+[[The Sword of Yahweh and of Gideon]] (Judges 7:16–25). Judges is now 19 / 42. The boundary was kept as
+planned: from the three companies (7:16) to the heads of Oreb and Zeeb brought to Gideon (7:25), ending
+before Ephraim's complaint of 8:1; *Ephraim, Succoth, and Penuel* (8:1–21) is the next box.
+
+Created one passage, two people ([[Oreb]], [[Zeeb]]), seven places ([[Beth Shittah]], [[Zererah]],
+[[Abel Meholah]], [[Tabbath]], [[Beth Barah]], [[The Rock of Oreb]], [[The Winepress of Zeeb]]), and two
+connections ([[Horns, a Shout, and a Fallen Enemy - Jericho and the Camp of Midian]],
+[[The Day of Midian - Oreb and Zeeb in Psalm 83 and Isaiah 9-10]]). Revised six people ([[Gideon]],
+[[God]], [[Naphtali]], [[Asher]], [[Manasseh]], [[Ephraim]]), three places ([[Midian]], [[The Jordan]],
+[[The Hill Country of Ephraim]]), five themes ([[War]], [[Pride and Self-Exaltation]],
+[[Light and Darkness]], [[Providence]], [[Remembrance]]), four connections
+([[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]],
+[[Yahweh Confused Them - Hamam in the Wars of Yahweh]],
+[[Trumpet and Ram's Horn - Two Instruments, One English Word]],
+[[Smoking Furnace and Flaming Torch - Fire as Theophany]]), and four passages' cross-references
+([[The Dream of the Barley Loaf]], [[Gideon's Three Hundred]], [[Ehud and Eglon]],
+[[The Fall of Jericho]]). Updated the book page and books index, the people (A-E, F-M, N-Z), places,
+themes, and connections (D-H, O-S, T-Z) indexes, and the dashboard counts. Frontmatter totals: 455
+passages, 312 people, 569 places, 87 themes, 867 connections.
+
+Judgment calls: a new fords connection was drafted and then dropped in favour of revising the existing
+[[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]], which already planned for 7:24; the
+Ephraim-complaint parallel (8:1; 12:1) and the shared *wayyiṣṣāʿēq* were added there. Oreb and Zeeb get
+person pages, and every named place of the flight and the two death-places get place pages, per the
+wiki's practice for named places; no site identifications are adopted. The ketiv/qere of 7:21
+(*made flee* / *fled*) and who *shouted* there are left open. The *wine press* of 6:11 and 7:25 is an
+English echo only: the Hebrew nouns differ (*gat*, *yeqeb*). The torch (*lappîd*) link to Genesis 15:17
+went to the existing fire connection rather than a new page. The heads brought *beyond the Jordan* (7:25)
+ahead of 8:4 is read as narrative summary; a *from beyond* reading is reported, not adopted.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus, and
+Joshua. Psalm 83:9–12, Isaiah 9:4, 10:26, 1 Samuel 11:11, 14:20, 2 Chronicles 20:23, and 1 Kings 19:16
+checked at bible-api.com (WEB), 2026-11-15, and not stored in `raw/`. Hebrew read from the Westminster
+Leningrad Codex (OpenScriptures morphhb, `wlc/Gen.xml` through `wlc/Judg.xml`), 2026-11-15. That covers
+*rāʾšîm*/*rōʾš* (7:16, 19, 20, 25); *kaddîm* (Genesis 24; Judges 7); *rēqîm*; *lappîdîm* (Genesis 15:17;
+Exodus 20:18; Judges 7; 15); *ʾašmōret* (Exodus 14:24; Judges 7:19 only); *nāpaṣ* (Genesis 9:19; Judges
+7:19); *šābar*; *wayyaḥăzîqû*; the two shouts; *rûaʿ* (Numbers 10; Joshua 6; Judges 7:21; 15:14); the
+ketiv/qere of 7:21; *rēaʿ* (7:13, 14, 22); the absence of *hāmam* from Judges 7; Beth Shittah, Zererah,
+Tabbath, Beth Barah, Oreb, and Zeeb as names; *ṣāʿaq*/*zāʿaq* in the niphal (6:34–35; 7:23–24; 10:17;
+12:1); *lākad* and *maʿbārâ* (3:28; 7:24; 12:5–6); *yeqeb* against *gat* (6:11); *nûs* (6:11; 7:21–22).
+Reported, not checked: the three-watch division of the night; the place-name glosses and sites; the
+Hebrew of Psalms, Isaiah, Samuel, Chronicles, and Kings. No Greek or Latin text was consulted.

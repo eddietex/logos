@@ -12,6 +12,7 @@ tags: [connection]
 - Deuteronomy 2:15; 7:23 — *Yahweh's hand was against them*; *will confuse them with a great confusion*.
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:10; *Yahweh confused them before Israel*.
 - [[Deborah and Barak]] — Judges 4:15; *Yahweh confused Sisera, all his chariots, and all his army*.
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:19, 22; the same kind of rout told without the verb.
 - 1 Samuel 7:10 — *Yahweh thundered … on the Philistines, and confused them* *(WEB checked, not yet
   ingested)*.
 
@@ -53,6 +54,16 @@ enemies he did to Israel.
 confuses. Judges 4 names no weather, but the Song has *the clouds dropped water* (5:4) and *From the
 sky the stars fought* (5:20). The commander's name, Barak, is usually read as *lightning*; that is
 reported, not verified, and the text does not make the pun.
+
+**Judges 7 without the verb.** Gideon's battle is the next rout Judges tells, and *hāmam* does not occur
+in it (WLC lemma search of Judges 7). It says instead what the confusion was: *Yahweh set every man's
+sword against his fellow, and against all the army* (7:22, stored WEB). It shares one noun with Exodus
+14:24. *ʾAšmōret*, the night *watch*, occurs in Genesis–Judges only there, *in the morning watch*, and at
+Judges 7:19, *the beginning of the middle watch* (WLC). In both nights Yahweh acts against an enemy camp,
+*maḥăneh*, at a named watch. Later accounts describe enemies striking each other in the same way,
+*striking each other with their swords in very great confusion* (1 Samuel 14:20) and *everyone helped to
+destroy another* (2 Chronicles 20:23) (WEB checked at bible-api.com; not yet ingested; Hebrew not
+checked). See [[The Sword of Yahweh and of Gideon]].
 
 ## Significance
 

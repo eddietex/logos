@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### For Yahweh and for Gideon — Judges 7:18, 20
+
+Yahweh reduced the army *lest Israel brag against me, saying, "My own hand has saved me"* (7:2). Five
+verses before the battle Gideon gives his men the shout: *For Yahweh and for Gideon!* (7:18). They cry
+*The sword of Yahweh and of Gideon!* (7:20). The text does not judge the shout, and the battle report
+gives the decisive act to Yahweh alone (7:22). But it is the first time Gideon's name is set beside
+Yahweh's by an Israelite, and the next chapter asks what becomes of it, when Israel says *Rule over us …
+for you have saved us* (8:22, stored WEB; not yet ingested). See [[The Sword of Yahweh and of Gideon]].
+Source: stored WEB Judges 7:2, 18, 20, 22; 8:22.
+
 ### Lest Israel brag against me — Judges 7:2
 
 *The people who are with you are too many for me to give the Midianites into their hand, lest Israel
@@ -335,6 +345,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Sword of Yahweh and of Gideon]] — Judges 7:18, 20; *For Yahweh and for Gideon!*
 - [[Gideon's Three Hundred]] — Judges 7:2; *lest Israel brag against me, saying, "My own hand has saved me"*.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
