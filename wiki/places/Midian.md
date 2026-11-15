@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Hidden from — Judges 6:11–24
+
+Gideon threshes wheat in a winepress *to hide it from the Midianites* (6:11), and is sent to *save
+Israel from the hand of Midian* with the promise *you shall strike the Midianites as one man* (6:14,
+16). He complains that Yahweh *has … delivered us into the hand of Midian* (6:13), the narrator's
+phrase from 6:1.
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Seven years over Israel — Judges 6:1–6
 
 *Yahweh delivered them into the hand of Midian seven years* (6:1). The Midianites come every year at
@@ -103,6 +112,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[The Call of Gideon]] — Judges 6:11–16; Gideon hides his wheat from Midian and is sent against it.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1–6; seven years of harvest raids with Amalek and the children of the east.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 

@@ -203,6 +203,7 @@ Reuel's house took in Moses at Exodus 2:20, and here Moses invites Reuel's son i
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[The Call of Gideon]] — Judges 6:18–21; *I will wait until you come back*; the guest's meal burned as an offering.
 - [[Rahab and the Spies]] — Joshua 2:1–24.
 
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:1–8; the founding scene, in which

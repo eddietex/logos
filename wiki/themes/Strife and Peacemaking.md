@@ -416,6 +416,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:23–24; *Peace be to you*, and the altar *Yahweh is Peace* in a time of oppression.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

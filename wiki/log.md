@@ -26302,3 +26302,49 @@ Leviticus, Numbers, Deuteronomy, Joshua, and Job. Hebrew read from the Westminst
 page. Reported, not verified: the derivation of *minhārâ*; *dālal* and *dal* as one root; that
 4QJudg^a lacks 6:7–10; the "prophetic lawsuit" comparison. 2 Kings 17:35–38 is cited by reference
 only, from memory, and not quoted.
+
+## [2026-11-15] ingest | Judges 6.11-24 — The Call of Gideon
+
+Auto mode. Judges was the only `in-progress` book; ingested its fourteenth box, [[The Call of Gideon]]
+(Judges 6:11–24). Judges is now 14 / 42. The boundary was kept as planned: from the angel's arrival at
+Ophrah to the altar *Yahweh is Peace*, ending before *That same night* (6:25); *Gideon Throws Down
+Baal's Altar* (6:25–32) is the next box.
+
+Created one passage; two people ([[Gideon]], [[Joash (father of Gideon)]]); one place
+([[Ophrah (Manasseh)]]); and one connection
+([[An Altar Called by a Name - El Elohe Israel, Yahweh Our Banner, and Yahweh Is Peace]]). Revised
+four people ([[God]], [[The Angel of Yahweh]], [[Manasseh]], [[The Families of Manasseh]]), three
+places ([[Ophrah (Benjamin)]], [[Midian]], [[Egypt]]), twelve themes ([[Call and Election]],
+[[Signs and Wonders]], [[Sacrifice and Offering]], [[Hospitality]], [[Seeing and Being Seen]],
+[[The Fear of God]], [[Strife and Peacemaking]], [[The Names of God]], [[Names and Naming]],
+[[Remembrance]], [[Favor and Grace]], [[The Poor and the Vulnerable]]), and eight connections
+([[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]],
+[[I Will Be With You - The Promise of Presence]], [[Who Am I - The Objections of the Called]],
+[[Entertaining Angels Unawares]], [[The Trees of the Patriarchs]],
+[[Mouth to Mouth - Numbers 12.6-8, Exodus 33, and Deuteronomy 34]],
+[[Smoking Furnace and Flaming Torch - Fire as Theophany]],
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]]). Updated the book page and books index, the
+people (A-E, F-M), places, themes, and connections (A-C, D-H, I-N, O-S, T-Z) indexes, and the
+dashboard counts. Frontmatter totals: 450 passages, 309 people, 560 places, 87 themes, 860
+connections.
+
+Rename: `Ophrah.md` (Benjamin's town, Joshua 18:23) became [[Ophrah (Benjamin)]], because Gideon's
+*Ophrah of the Abiezrites* is a different town. Both pages are now qualified by tribe, following the
+existing place pattern (`Bethlehem (Zebulun)`, `Beth Shemesh (Issachar)`). Its two inbound links (the
+places index, [[The Inheritance of Benjamin]]) were fixed in this pass.
+
+Judgment calls: Joash is qualified `(father of Gideon)` because later books have kings named Joash.
+Gideon's page records *Jerub-Baal* as an alias, leaving the naming (6:32) to the next pericope.
+Abiezer stays on the collective [[The Families of Manasseh]]. The meal-turned-offering was added to
+[[Entertaining Angels Unawares]] and not given its own page. The narrator's movement between *Yahweh's
+angel*, *Yahweh*, and *the angel of God* is recorded on [[The Angel of Yahweh]] with no identity
+reading adopted.
+
+Sources: all Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Leviticus, Deuteronomy, and Joshua. Hebrew read from the Westminster Leningrad Codex (OpenScriptures
+morphhb, GitHub `wlc/Judg.xml`, `Exod.xml`, `Gen.xml`), 2026-11-15. That claim covers *ʾădōnî* (6:13)
+against *ʾădōnāy* (6:15), the match of 6:14–17 with Exodus 3:12 (*šәlaḥtîkā*, *ʾehyeh ʿimmāk*,
+*ʾôt*), *minḥâ*, *selaʿ*/*ṣûr*, and *YHWH šālôm*. *Only here* counts are limited to the WLC of Judges.
+Reported, not verified: the explanation of threshing in a winepress; the readings of *mighty man of
+valor*; modern sites for Ophrah. Hebrews 11:32's order of names relies on the WEB check recorded on
+[[Faith]] (2026-11-13).

@@ -7,6 +7,20 @@ tags: [person]
 
 ## Overview
 
+### Under the oak at Ophrah — Judges 6:11–24
+
+*Yahweh's angel came, and sat under the oak which was in Ophrah* (6:11). He greets Gideon, *Yahweh
+is with you, you mighty man of valor!*, and from 6:14 the narrator calls the speaker *Yahweh*: *Yahweh
+looked at him, and said … Haven't I sent you?* The angel returns as *the angel of God* (6:20) and
+*Yahweh's angel* (6:21–22), and after he vanishes *Yahweh* still speaks (6:23). He waits for Gideon's
+meal and then turns it into an offering, touching it with his staff so that *fire went up out of the
+rock* (6:21). Gideon says *I have seen Yahweh's angel face to face*, and is told he will not die
+(6:22–23). The passage moves between the names without explaining the move. The wiki records the
+movement, as in the table below, and adopts no identity reading. See [[The Call of Gideon]] and
+[[Entertaining Angels Unawares]].
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### *Curse Meroz* — Judges 5:23
 
 *'Curse Meroz,' said Yahweh's angel. 'Curse bitterly its inhabitants, because they didn't come to
@@ -385,6 +399,7 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
 
 ## Appears in
 
+- [[The Call of Gideon]] — Judges 6:11–24; sits under the oak, commissions Gideon, consumes the offering in fire.
 - [[The Angel at Bochim]] — Judges 2:1–5; comes up from Gilgal and speaks in Yahweh's first person: *you have not
   listened to my voice*.
 - [[The Commander of Yahweh's Army]] — Joshua 5:13–15 (comparison; identity not asserted).

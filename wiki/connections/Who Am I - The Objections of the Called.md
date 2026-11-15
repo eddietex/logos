@@ -18,7 +18,7 @@ tags: [connection]
   *"prophet"* (7:1) — [[I Am Yahweh]], [[Uncircumcised Lips, Ears, and Heart]]
 - **Judges 6:15–16** — Gideon: *"O Lord, how shall I save Israel? Behold, my family is the poorest in
   Manasseh, and I am the least in my father's house."* Yahweh: *"Surely I will be with you, and you
-  shall strike the Midianites as one man."*
+  shall strike the Midianites as one man."* — [[The Call of Gideon]]
 - **1 Samuel 9:21** — Saul: *"Am I not a Benjamite, of the smallest of the tribes of Israel? And my
   family the least of all the families of the tribe of Benjamin? Why then do you speak to me like
   this?"*
@@ -57,6 +57,16 @@ way**: the only one who, once cleansed, volunteers — with Abraham's and Moses'
 
 **Saul is the cautionary one.** His objection is the most like Gideon's, and his reign the one that
 fails; the pattern describes how calls begin, not whether they end well.
+
+### Gideon, ingested — Judges 6:11–24
+
+In [[The Call of Gideon]] the objection follows a complaint. Before he says *my family is the poorest*
+(6:15), Gideon has already asked *why then has all this happened to us?* (6:13). Moses objected about
+himself; Gideon first objects about God, and then about himself. The answer covers the same ground as
+at the bush. *Haven't I sent you?* (6:14) matches *I have sent you* (Exodus 3:12), and *Surely I will
+be with you* (6:16) matches Exodus 3:12 again. Then Gideon asks for a sign himself (6:17), where
+Moses was given one unasked. The Hebrew of the sending, the promise, and the sign agrees with Exodus
+3:12 word for word (WLC). Sources: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

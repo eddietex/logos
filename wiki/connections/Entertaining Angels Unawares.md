@@ -14,7 +14,7 @@ tags: [connection]
   he made them a feast, and baked unleavened bread, and they ate."*
 - **Judges 6:11–24** — Gideon brings a kid and unleavened cakes to a stranger under the oak, who
   touches them with a staff and vanishes in the fire: *"Alas, Lord Yahweh! Because I have seen
-  Yahweh's angel face to face!"*
+  Yahweh's angel face to face!"* — [[The Call of Gideon]]
 - **Judges 13:2–23** — Manoah offers a kid, the visitor tells him to offer it to Yahweh instead,
   refuses to give his name, and goes up in the altar flame: *"Manoah didn't know that he was
   Yahweh's angel."*
@@ -81,6 +81,16 @@ The scenes divide by *when the host finds out*.
 **Hebrews takes the first case and makes it the rule.** Its ethic depends on the host not knowing —
 if you can identify the angel, the command is about angels; because you cannot, it is about
 strangers.
+
+### Judges 6, ingested
+
+[[The Call of Gideon]] shows how the meal becomes an offering. Gideon calls what he brings *minḥātî*,
+*my present* (6:18, WLC), a word that covers a gift, tribute, and the grain offering. He brings it as a
+host, the meat in a basket and the broth in a pot (6:19). The guest has it laid on the rock and the
+broth poured out (6:20), and the fire that consumes it comes out of the rock, not down on an altar
+(6:21). Recognition follows at once, *Gideon saw that he was Yahweh's angel* (6:22), and so does
+terror. Of the scenes above, this is the only one where the visitor agrees to wait for the meal,
+*I will wait until you come back* (6:18), and then does not eat it. Sources: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ### Reception: the icon
 

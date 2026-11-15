@@ -15,6 +15,9 @@ tags: [connection]
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–10. A prophet: *I brought you up from Egypt,
   and brought you out of the house of bondage … I said to you, "I am Yahweh your God. You shall not
   fear the gods of the Amorites, in whose land you dwell." But you have not listened to my voice* (stored WEB).
+- [[The Call of Gideon]] — Judges 6:13. Gideon to the angel: *Where are all his wondrous works which
+  our fathers told us of, saying, 'Didn't Yahweh bring us up from Egypt?' But now Yahweh has cast us
+  off* (stored WEB).
 - [[The Angel Sent Ahead]] — Exodus 23:21–22. *Listen to his voice … if you indeed listen to his
   voice, and do all that I speak* (stored WEB). The condition the three Judges speeches say was
   broken.
@@ -81,3 +84,13 @@ whose land you dwell* (6:10), repeats the clause of Joshua 24:15 (WLC). Of the t
 the only one with no stated result; the angel of 6:11 comes instead. See
 [[The Prophet (of Gideon's time)]]. Sources: stored WEB Judges 6:6–11; Joshua 24:15; Hebrew from the
 Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
+### Judges 6:13 — the recital answered
+
+Three verses after the prophet's *I brought you up from Egypt* (*heʿĕlêtî*, 6:8), Gideon quotes his
+fathers: *Didn't Yahweh bring us up from Egypt?* (*heʿĕlānû*, 6:13). The verb is the same, *ʿālâ* in
+the hiphil (WLC), and it is the verb of Bochim's *I brought you up* (2:1). The three speeches gave the
+history as grounds for a charge; Gideon gives it as grounds for a complaint, *now Yahweh has cast us
+off*. The prophet's answer to *why then has all this happened to us?* was *you have not listened to my
+voice* (6:10). The text sets the two speeches next to each other and does not say whether Gideon had
+heard the prophet. See [[The Call of Gideon]]. Sources: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

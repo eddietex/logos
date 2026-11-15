@@ -506,6 +506,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:15; *my family is the poorest in Manasseh*, *dal* (WLC).
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 
 

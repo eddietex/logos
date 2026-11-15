@@ -255,6 +255,7 @@ are identified on the passage and connection pages.
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[The Call of Gideon]] — Judges 6:17; *If now I have found favor in your sight, then show me a sign*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

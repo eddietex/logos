@@ -793,6 +793,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:13; *his wondrous works which our fathers told us of*, remembered as past.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–9; the exodus and the conquest recited.
 - [[Othniel the First Judge]] — Judges 3:7; *forgot Yahweh their God*.
 - [[Another Generation Arose]] — Judges 2:7, 10; the generation *who didn't know Yahweh*.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A sign that it is you — Judges 6:13, 17–21
+
+Gideon first asks where the signs have gone: *Where are all his wondrous works which our fathers told
+us of?* (6:13). Then he asks for one himself: *show me a sign that it is you who talk with me* (6:17).
+It is given at once, in fire from the rock that consumes his offering (6:21). In the story that follows
+he asks for more signs, the fleece twice (6:36–40). See [[The Call of Gideon]].
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 The people credit Yahweh with *those great signs in our sight* (17), after Yahweh's own account of the plagues and the sea (5–7). The phrase is the people's, not Yahweh's.
@@ -175,6 +184,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:13, 17–21; the wonders remembered, a sign asked and given in fire.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *those great signs in our sight* (17).
 - [[The Sun Stands Still at Gibeon]] — Joshua 10:1–15.
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

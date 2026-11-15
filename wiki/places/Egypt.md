@@ -491,6 +491,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[The Call of Gideon]] — Judges 6:13; *Didn't Yahweh bring us up from Egypt?*, the works Gideon's fathers told of.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–9; *out of the house of bondage*.
 - [[Another Generation Arose]] — Judges 2:12; *who brought them out of the land of Egypt*.
 - [[The Angel at Bochim]] — Judges 2:1; *I brought you out of Egypt*.

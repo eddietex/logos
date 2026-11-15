@@ -339,6 +339,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Call of Gideon]] — Judges 6:24; Gideon names his altar *Yahweh is Peace*.
 - [[The Angel at Bochim]] — Judges 2:1, 5; Bochim, *weepers*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:23, 26; Luz renamed, and the name carried away.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

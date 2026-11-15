@@ -549,6 +549,7 @@ weak are treated. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Sour
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:22–23; terror at seeing the angel, answered *Don't be afraid. You shall not die*.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; not to fear the gods of the Amorites.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *fear Yahweh, and serve him in sincerity and in truth* (14).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

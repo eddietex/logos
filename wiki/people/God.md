@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### He is with a man in hiding — Judges 6:11–24
+
+The angel greets Gideon, *Yahweh is with you*, and the narrator then lets *Yahweh* speak directly:
+*Go in this your might, and save Israel … Haven't I sent you?* (6:14). To the objection of smallness
+he answers as he answered Moses, *Surely I will be with you* (6:16; Exodus 3:12). He gives the sign
+Gideon asks for, and when Gideon fears death for having seen him, he says *Peace be to you! Don't be
+afraid. You shall not die* (6:23). Gideon names the altar after that word, *Yahweh is Peace*.
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### He marches from Seir, and the stars fight — Judges 5:1–31
 
 The Song of Deborah begins with Yahweh setting out: *Yahweh, when you went out of Seir, when you
@@ -4107,6 +4117,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Call of Gideon]] — Judges 6:11–24; he sends Gideon, promises *I will be with you*, and answers his fear with *Peace be to you*.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1–10; he gives Israel to Midian, hears the cry, and sends a prophet to recite what he did and charge them: *you have not listened to my voice*.
 - [[Ehud and Eglon]] — Judges 3:12–30; he strengthens Eglon against Israel, raises up Ehud, and, in Ehud's words, delivers Moab into Israel's hand.
 - [[Othniel the First Judge]] — Judges 3:7–11; he sells Israel, raises up a savior, and his Spirit comes on Othniel.

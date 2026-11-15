@@ -137,6 +137,16 @@ in the words of the Ten Words, quotes *You shall not fear the gods of the Amorit
 dwell* from Joshua 24:15, and ends on Bochim's charge, *you have not listened to my voice*, with no
 sentence after it. The cry that once brought rescue at once now brings a rebuke first.
 
+[[The Call of Gideon]] (6:11–24) brings the second answer, a deliverer. Yahweh's angel sits under the
+oak at Ophrah while Gideon threshes wheat in a winepress *to hide it from the Midianites*, and greets
+him, *Yahweh is with you, you mighty man of valor!* Gideon answers with the prophet's history turned
+into a complaint: *Where are all his wondrous works which our fathers told us of … But now Yahweh has
+cast us off*. He is the first judge whose call is narrated, and it follows Moses' call at the bush: a
+sending, *Haven't I sent you?*, an objection of smallness, *my family is the poorest in Manasseh*, the
+promise *Surely I will be with you*, and a sign. Fire from the rock consumes his offering. He fears
+death for having seen the angel *face to face*, is told *Peace be to you … You shall not die*, and
+builds an altar he names *Yahweh is Peace*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -172,7 +182,7 @@ merge, or reorder them freely.
 - [x] [[Jael and Sisera]] — Judges 4:17–24
 - [x] [[The Song of Deborah]] — Judges 5:1–31
 - [x] [[Midian's Oppression and the Prophet]] — Judges 6:1–10
-- [ ] The Call of Gideon — Judges 6:11–24
+- [x] [[The Call of Gideon]] — Judges 6:11–24
 - [ ] Gideon Throws Down Baal's Altar — Judges 6:25–32
 - [ ] The Fleece — Judges 6:33–40
 - [ ] Gideon's Three Hundred — Judges 7:1–8
@@ -213,6 +223,7 @@ merge, or reorder them freely.
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4).
 - [[Marriage]] — daughters taken and given with the land's peoples (3:6).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4).
+- [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -227,6 +238,7 @@ merge, or reorder them freely.
 - [[Deborah (prophetess)]] — prophetess and judge (4:4–14).
 - [[Barak]] — commander against Sisera (4:6–16).
 - [[Sisera]] and [[Jabin (of Deborah's time)]] — the oppressors with nine hundred chariots (4:2–3).
+- [[Gideon]] — called at Ophrah to save Israel from Midian (6:11–24).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -235,3 +247,4 @@ merge, or reorder them freely.
 - [[Bethel]] — taken by the house of Joseph; once Luz (1:22–26).
 - [[Lebanon]], [[Hermon]], [[Hamath]] — the northern edge of the nations left (3:3).
 - [[Tabor]], [[Kishon]], [[Kedesh]], [[Harosheth of the Gentiles]] — the battle with Sisera (4:6–16).
+- [[Ophrah (Manasseh)]] — Gideon's town, the oak, and the altar *Yahweh is Peace* (6:11–24).

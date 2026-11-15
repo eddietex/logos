@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The first narrated call of a judge — Judges 6:11–24
+
+Othniel and Ehud are *raised up* in a clause (3:9, 15). Gideon is the first deliverer whose call is
+told as a scene, and it follows the shape of Moses' call at the bush: a greeting, a sending (*Haven't
+I sent you?*), an objection of smallness (*my family is the poorest … I am the least*), the promise
+*Surely I will be with you*, and a sign (6:12–21; Exodus 3:10–12). See [[The Call of Gideon]] and
+[[Who Am I - The Objections of the Called]].
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 The election runs both ways in this chapter. Yahweh *took* Abraham from among idolaters (3). Then Israel is told *choose today whom you will serve* (15) and made to witness *that you have chosen Yahweh yourselves* (22). Yahweh's choosing comes first in the history; Israel's is demanded as its answer. The wiki does not set the two against each other; the text holds them together.
@@ -287,6 +297,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:11–24; sent, objects, promised presence, given a sign.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Yahweh *took* Abraham (3); Israel *chose* Yahweh (15, 22).
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.
 

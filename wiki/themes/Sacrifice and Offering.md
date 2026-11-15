@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### A meal made an offering — Judges 6:18–21
+
+Gideon brings *my present*, *minḥâ*, a word for gift, tribute, and grain offering (WLC): a young
+goat, unleavened cakes, and broth. The visitor has it laid on the rock and the broth poured out, and
+touches it with his staff; *fire went up out of the rock, and consumed* it (6:19–21). No priest or
+sanctuary is involved, and the fire comes from the rock, not from the altar. Gideon then builds an
+altar, *Yahweh is Peace* (6:24). See [[The Call of Gideon]] and
+[[An Altar Called by a Name - El Elohe Israel, Yahweh Our Banner, and Yahweh Is Peace]].
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Sacrifice at Bochim — Judges 2:5
 
 *They sacrificed there to Yahweh* (2:5). The tent of meeting was at Shiloh (Joshua 18:1), and
@@ -778,6 +789,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Call of Gideon]] — Judges 6:18–24; the offering consumed by fire from the rock, and the altar named.
 - [[The Angel at Bochim]] — Judges 2:5; sacrifice after the weeping, at Bochim.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

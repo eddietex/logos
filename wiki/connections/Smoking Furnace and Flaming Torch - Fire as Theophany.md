@@ -143,6 +143,16 @@ but *saw no kind of form* (4:15). Fire is the visible sign that keeps God from b
 earlier version of this page quoted Deuteronomy 4:24 as *consuming fire*; the WEB has *devouring*,
 and *consuming* is Hebrews 12:29's wording.
 
+### Fire from the rock — Judges 6:21, ingested
+
+In [[The Call of Gideon]] the fire is the sign Gideon asked for, *that it is you who talk with me*
+(6:17). The angel touches the meat and cakes with the tip of his staff, *and fire went up out of the
+rock, and consumed the meat and the unleavened cakes* (6:21). Here, as at the inauguration of the
+altar (*Fire came out from before Yahweh, and consumed the burnt offering*, Leviticus 9:24) and at
+Manoah's offering later in Judges (13:19–20), fire that consumes an offering shows that God has
+accepted it. Here, though, the fire comes up out of the rock, not down from before Yahweh. Sources:
+stored WEB Judges 6:17–21; 13:19–20; Leviticus 9:24; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Significance
 
 - **Genesis 15:17 is the Bible's first visible God**, and the form is fire in the dark, moving.

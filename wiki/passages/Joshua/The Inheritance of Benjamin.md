@@ -95,7 +95,7 @@ Full pericope, WEB, copied from the stored source:
 - [[Zemaraim]] — Named among Benjamin’s first twelve cities with their villages (22). No individual event or precise modern site is supplied.
 - [[Avvim]] — Named among Benjamin’s first twelve cities with their villages (23). No individual event or precise modern site is supplied. This town-name is not an identification with the Avvim people of Deuteronomy 2:23.
 - [[Parah]] — Named among Benjamin’s first twelve cities with their villages (23). No individual event or precise modern site is supplied.
-- [[Ophrah]] — Named among Benjamin’s first twelve cities with their villages (23). No individual event or precise modern site is supplied.
+- [[Ophrah (Benjamin)]] — Named among Benjamin’s first twelve cities with their villages (23). No individual event or precise modern site is supplied.
 - [[Chephar Ammoni]] — Named among Benjamin’s first twelve cities with their villages (24). No individual event or precise modern site is supplied.
 - [[Ophni]] — Named among Benjamin’s first twelve cities with their villages (24). No individual event or precise modern site is supplied.
 - [[Geba]] — Named among Benjamin’s first twelve cities with their villages (24). No individual event or precise modern site is supplied.

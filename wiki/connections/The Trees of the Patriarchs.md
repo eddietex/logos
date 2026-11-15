@@ -28,7 +28,7 @@ tags: [connection]
 - [[The Covenant at Shechem]] — Joshua 24:26; Joshua sets a great stone *"under the oak that was by
   the sanctuary of Yahweh"* at Shechem, at the covenant renewal.
 - **Judges 6:11, 19; 9:6, 37** — the oak at Ophrah; the oak of the pillar at Shechem where Abimelech
-  is made king; the *oak of the diviners*.
+  is made king; the *oak of the diviners*. See [[The Call of Gideon]].
 - **Deuteronomy 16:21** — *"You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God's altar,
   which you shall make for yourselves."* — [[Judges, Worship, and Difficult Cases]]
 - **Hosea 4:13; Isaiah 1:29; 57:5; Ezekiel 6:13** — the prophets on worship *"under every green
@@ -144,6 +144,16 @@ altar"*. They now match the stored WEB.)
 
 Source: stored WEB Genesis 21:33; Deuteronomy 16:21. Hebrew from WLC (morphhb), retrieved
 2026-11-07.
+
+### Judges 6:11–24 now ingested
+
+At Ophrah the angel *sat under the oak … that belonged to Joash the Abiezrite* (6:11), and Gideon
+brings his offering *to him under the oak* (6:19). The tree is *hāʾēlâ* (WLC; *ʾēlâ*, lemma 424). It is
+owned by a man who also keeps an altar to Baal and an Asherah (6:25), the cult object Deuteronomy
+16:21 forbids beside Yahweh's altar. The visitor under Joash's tree is like the visitor under
+Abraham's at Mamre (Genesis 18:8), but here the tree belongs to a household that worships Baal. See
+[[The Call of Gideon]]. Sources: stored WEB Judges 6:11, 19, 25; Genesis 18:8; Deuteronomy 16:21;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

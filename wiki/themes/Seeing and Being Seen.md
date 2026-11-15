@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Face to face at Ophrah — Judges 6:22–23
+
+*Gideon saw that he was Yahweh's angel* only after the angel had gone, and he cried out, *Alas,
+Lord Yahweh! Because I have seen Yahweh's angel face to face!* (6:22). Like Hagar and Jacob (Genesis
+16:13; 32:30), he takes seeing as a danger, and is answered *You shall not die* (6:23). See
+[[The Call of Gideon]] and [[They Saw God - Exodus 24, Exodus 33, and John 1.18]].
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Through the lattice — Judges 5:28
 
 Sisera's mother *looked through the lattice* (5:28) for a son the reader has already seen die
@@ -413,6 +422,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Call of Gideon]] — Judges 6:22–23; *I have seen Yahweh's angel face to face*.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Shown the land (1, 4).
 - [[Moses Commanded to Ascend Nebo]] — Deuteronomy 32:48–52.
 

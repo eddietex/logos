@@ -20,6 +20,8 @@ tags: [connection]
   you have heard, and live?"* — [[Has Any People Heard God and Lived]]
 - **Deuteronomy 5:4** — *"Yahweh spoke with you face to face on the mountain out of the middle of the
   fire"* (WEB; *not yet ingested*)
+- [[The Call of Gideon]] — Judges 6:22–23; *"I have seen Yahweh's angel face to face!"* — *"Peace be to
+  you! Don't be afraid. You shall not die"* (stored WEB)
 - **Judges 13:22** — *"We shall surely die, because we have seen God"* (WEB; *not yet ingested*)
 - **Isaiah 6:5** — *"Woe is me! For I am undone … for my eyes have seen the King, Yahweh of
   Armies!"* (WEB; *not yet ingested*)
@@ -80,6 +82,16 @@ the voice of God speaking out of the middle of the fire, as you have heard, and 
 had already said Israel *saw no form*. Deuteronomy 5:4's *face to face* and 5:24's *We have seen today
 that God does speak with man, and he lives* (stored WEB, not yet ingested) bring back the language of
 sight, and the tension this page records stays in place. See [[Has Any People Heard God and Lived]].
+
+### Gideon, ingested — Judges 6:22–23
+
+Gideon is the first in this list to be *told* he will live. Hagar asks *Have I even stayed alive after
+seeing him?* (Genesis 16:13), and Jacob concludes *my life is preserved* (32:30). Gideon cries *Alas,
+Lord Yahweh! Because I have seen Yahweh's angel face to face!*, and Yahweh answers him directly: *Peace
+be to you! Don't be afraid. You shall not die* (Judges 6:22–23). What Gideon saw was *Yahweh's angel*,
+and he fears death from it as if he had seen God. Manoah will do the same (13:22). See
+[[The Call of Gideon]] and [[The Angel of Yahweh]]. Sources: stored WEB Genesis 16:13; 32:30; Judges
+6:22–23; 13:22.
 
 ## Significance
 

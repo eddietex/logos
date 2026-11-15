@@ -26,7 +26,7 @@ tags: [connection]
 - Exodus 23:20–23 — an angel sent ahead, with God's name *"in him"* — [[The Angel Sent Ahead]]
 - [[After the Death of Moses]] — Joshua 1:5, 9; *"I will not fail you nor forsake you"* (stored WEB)
 - [[The Eastern Tribes Pledge to Cross]] — Joshua 1:17; the promise returned as the people's wish, *"Only may Yahweh your God be with you, as he was with Moses"* (stored WEB)
-- Judges 6:12, 16 — to Gideon in a winepress
+- [[The Call of Gideon]] — Judges 6:12, 16; to Gideon in a winepress
 - Isaiah 41:10; 43:2 — to the exiles
 - Jeremiah 1:8, 19 — to a prophet who says he is too young
 - Haggai 1:13; 2:4 — to the builders of the second temple
@@ -162,6 +162,15 @@ repeat the earlier presence formula, name an angel, or resolve that angel’s id
 
 See [[The Tabernacle Raised and the Glory]]. Source: cited Exodus verses checked in stored WEB,
 2026-10-25.
+
+### Gideon, ingested — Judges 6:11–24
+
+[[The Call of Gideon]] gives the promise twice. First comes the greeting, *Yahweh is with you* (6:12),
+which Gideon turns into a question, *if Yahweh is with us, why then has all this happened to us?*
+(6:13). That is the doubt of Exodus 17:7, *Is Yahweh among us, or not?*. Then comes the promise
+proper, *kî ʾehyeh ʿimmāk*, *Surely I will be with you* (6:16, WLC), the wording of Exodus 3:12. It
+comes beside the same *šәlaḥtîkā*, *I have sent you* (6:14), and the same *ʾôt*, *sign* (6:17), as
+the bush (WLC). Sources: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

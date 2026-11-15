@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh is Peace — Judges 6:24
+
+Gideon's altar is named *YHWH šālôm*, *Yahweh is Peace* (6:24, WLC), from the word just spoken to
+him, *Šālôm lәkā*, *Peace be to you* (6:23). Like *Yahweh Will Provide* (Genesis 22:14) and *Yahweh
+our Banner* (Exodus 17:15), it is a name given to a place or an altar after an event, not a title God
+gives himself. See [[The Call of Gideon]] and
+[[An Altar Called by a Name - El Elohe Israel, Yahweh Our Banner, and Yahweh Is Peace]].
+
+Source: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The Song of Moses — Deuteronomy 31:30–32:47
 
 The Rock names the just and faithful God (4), rejected by his prosperous people (15). Fatherhood and birth imagery (6, 18) describe his relation to Israel. Rival rocks cannot protect their dependents (31, 37–39). These observations concern the stored WEB, without a source-language claim.
@@ -283,6 +293,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[The Call of Gideon]] — Judges 6:24; the altar *Yahweh is Peace*.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; *"to put his name there"* (5, 21) and *"to cause his name to dwell there"* (11).

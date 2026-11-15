@@ -31,6 +31,11 @@ But it adds a clause about seeing, and *təmûnâ* is the word Deuteronomy 4:12,
 
 **Like, and not like.** Numbers 12 says prophets are not like Moses. Deuteronomy 18 says that a prophet like him will come. Deuteronomy 34 says that none has yet. The three fit if the promise is still open at the end of Deuteronomy, and the last chapter's *Since then* may imply exactly that, but no text states how they fit together.
 
+**Judges 6:22, now ingested.** In [[The Call of Gideon]], Gideon says *pānîm ʾel-pānîm* of *Yahweh's
+angel*, not of God (WLC). He says it as a cry of fear, *Alas, Lord Yahweh!*, and is answered *You
+shall not die* (6:23). In Moses' case the phrase marks a privilege. In Gideon's it marks a danger he
+expects to die from. Sources: stored WEB Judges 6:11–24; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ## Significance
 
 Numbers 12 makes the claim the rest of the Torah leans on: the law's mediator has a different access to God from every other prophet. It does this without resolving what he saw. The wiki keeps the Exodus and Numbers statements side by side. See [[Prophecy and Vision]], [[Seeing and Being Seen]], and

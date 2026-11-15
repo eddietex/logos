@@ -3,11 +3,14 @@ type: place
 also_known_as: []
 tags: [place]
 ---
-# Ophrah
+# Ophrah (Benjamin)
 
 ## Overview
 
 Named among Benjamin’s first twelve cities with their villages (23). No individual event or precise modern site is supplied.
+
+Not the Ophrah of Gideon. Judges 6 names *Ophrah of the Abiezrites* (6:24), a town of Manasseh; see
+[[Ophrah (Manasseh)]]. The two pages were qualified when the second Ophrah arrived.
 
 Source: stored WEB Joshua 18:11–28.
 

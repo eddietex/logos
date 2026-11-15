@@ -289,6 +289,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The Call of Gideon]] — Judges 6:15; Gideon's family *the poorest in Manasseh*.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:27–28; five cities not driven out.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
