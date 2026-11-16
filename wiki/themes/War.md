@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Words before the battle — Judges 11:12–28
+
+Jephthah sends two embassies before he fights, and calls Ammon's attack a wrong: *you do me wrong to war
+against me* (11:27). The speech recalls the war with Sihon as one Israel did not seek (11:19–21). The
+battle comes only after the king refuses to listen (11:28–33).
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### Israelite against Israelite — Judges 9:22–57
 
 Judges 9 has no foreign enemy at all. Abimelech uses the methods of the conquest against Israelite towns.
@@ -875,6 +883,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; the embassy before the war, and a defensive war argued.
 
 - [[The Fall of Abimelech]] — Judges 9:25–55; ambushes, a city salted, a tower burned, and a king killed at a siege, all among Israelites.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; the pursuit with three hundred, the camp at Karkor taken, and the kings killed.

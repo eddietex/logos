@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Each nation and its god — Judges 11:15–24
+
+Jephthah's history moves through Edom, Moab, the Amorites, and Ammon, each with its border (11:15–22), and
+gives each nation its god's gift of land: *Won't you possess that which Chemosh your god gives you to
+possess?* (11:24). The argument meets the king on his own belief; Judges 10:6 has already condemned *the
+gods of Moab* and *the gods of the children of Ammon*. See [[Chemosh]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### The first of the nations fought — Judges 3:31
 
 *The five lords of the Philistines* headed the list of nations left *to test Israel* (3:3). Three
@@ -592,6 +601,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:15–24; Edom, Moab, the Amorites, and Ammon, and *Chemosh your god*.
 
 - [[Shamgar and the Ox Goad]] — Judges 3:31; the Philistines, first of the nations left, fought for the first time.
 - [[The Nations Left to Test Israel]] — Judges 3:1–6; the nations left, and the six lived among.

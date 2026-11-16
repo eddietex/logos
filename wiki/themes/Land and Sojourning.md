@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Who gave the land — Judges 11:12–28
+
+Ammon's king claims the land *from the Arnon even to the Jabbok* (11:13). Jephthah answers with whose it
+was and who gave it: *So whoever Yahweh our God has dispossessed from before us, them will we possess*
+(11:24). The verb *yāraš*, *possess* and *dispossess*, occurs eight times in 11:21–24 (WLC). He adds
+possession by time: *three hundred years* unchallenged (11:26). See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### Each to his inheritance — Judges 2:6–23
 
 *The children of Israel each went to his inheritance to possess the land* (6). *To possess*,
@@ -1072,6 +1081,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:13–26; the claim to the land, answered from the road out of Egypt and Yahweh's gift.
 
 - [[Another Generation Arose]] — Judges 2:6, 21–23; each to his inheritance, and the nations left.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–36; Canaanites among Israel, and Israel among Canaanites.

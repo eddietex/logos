@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Retold to Ammon's king — Judges 11:19–22
+
+Jephthah's history: Israel asked *Sihon king of the Amorites, the king of Heshbon* for passage; *Sihon
+didn't trust Israel to pass through his border*, gathered his people at Jahaz, and fought; *Yahweh, the God
+of Israel, delivered Sihon and all his people into the hand of Israel* (11:19–21). *Didn't trust*,
+*lōʾ heʾĕmîn* (WLC), is Jephthah's reason; Numbers 21:23 has *would not allow* (*lōʾ nātan*), and
+Deuteronomy 2:30 has Yahweh hardening his spirit. His land, *from the Arnon even to the Jabbok*, is the
+land Ammon's king claims. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 21:23–24; Deuteronomy 2:30, 33.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 Not named. Verse 8 recalls *the Amorites, that lived beyond the Jordan*, and verse 12 says the hornet drove out *the two kings of the Amorites; not with your sword, nor with your bow*. Numbers 21:24 says Israel struck Sihon *with the edge of the sword* (stored WEB); Joshua 24 makes the sword secondary to Yahweh's act. See [[Little by Little - The Hornet, the Snare, and the Land Not Taken]].
@@ -102,8 +113,10 @@ Source: stored WEB Numbers 21:21–35.
 territory to Israel (21–26). He had previously taken this territory from Moab; the quoted poem
 recalls that earlier victory (27–30).
 - Joshua 12:2–3 — recalled at the head of the list.
+- Judges 11:19–22 — his refusal and defeat retold by Jephthah to Ammon's king.
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:19–22; his refusal and defeat retold as evidence.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; one of *the two kings of the Amorites* (12), not named.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Three hundred years — Judges 11:19, 26
+
+Sihon is *king of the Amorites, the king of Heshbon* (11:19). Jephthah tells Ammon's king that Israel
+has lived *in Heshbon and its towns* for *three hundred years* without challenge (11:26). *Its towns* is
+*bənôtêhā*, *its daughters* (WLC).
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Gad to Merari’s descendants (21:39).
@@ -87,6 +95,7 @@ Sources: stored WEB Song 7:4; Numbers 21:26 checked at bible-api.com
 **Joshua 12:1–24 — the list of kings.** Sihon's residence, recalled at the head of the list of kings (12:2); verse 5 calls him *Sihon king of Heshbon*. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:19, 26; Sihon's city, held by Israel *three hundred years*.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

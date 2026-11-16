@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Held three hundred years — Judges 11:26
+
+*Aroer and its towns* are among the places Israel has lived for *three hundred years* (11:26). Named with
+Heshbon and *the cities … along by the side of the Arnon*, this is the Arnon-valley Aroer (Deuteronomy
+2:36), not the Aroer near Rabbah (Joshua 13:25). Judges 11:33 names Aroer again as the start of
+Jephthah's pursuit (stored WEB; not yet ingested); which Aroer is meant there is a question for that
+ingest.
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Deuteronomy 2:36; Joshua 13:25.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Two bearings distinguish the Arnon-valley Aroer in Reuben’s portion (9, 16) from Aroer near Rabbah in Gad’s (25). Numbers 32:34 does not specify which Gad built; this page retains both notices without collapsing their sites.
@@ -47,6 +57,7 @@ Source: stored WEB Numbers 32.
 **Joshua 12:1–24 — the list of kings.** The southern edge of Sihon's rule, *on the edge of the valley of the Arnon* (12:2); Joshua 13:9 repeats the description. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:26; *Aroer and its towns*, held by Israel.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

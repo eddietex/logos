@@ -9,6 +9,7 @@ tags: [connection]
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37
 - [[Sihon and Og]] — Numbers 21:21–35
 - [[Edom Refuses Passage]] — Numbers 20:14–21
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:17–22; both embassies retold.
 
 ## Analysis
 
@@ -35,6 +36,14 @@ grounds the war on a specific command, *"contend with him in battle"* (2:24), no
 and the wiki records the difference rather than harmonizing it. See [[Laws for Going to War]].
 
 Source for this addition: stored WEB Deuteronomy 2:24, 26, 34; 20:10–15.
+
+**Retold by Jephthah — Judges 11:17–22.** Jephthah tells both embassies to Ammon's king. Edom *didn't
+listen* (17), as in Numbers 20:21. He adds an embassy to Moab, refused, which Numbers does not record
+and Deuteronomy 2:29 contradicts. Sihon *didn't trust Israel* (20), a third reason beside Numbers'
+*would not allow* and Deuteronomy's hardening. For Jephthah the different outcomes prove his point:
+Israel went around those who refused and fought only the king who attacked. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+Source for this addition: stored WEB Judges 11:17–22; Numbers 20:21; 21:23; Deuteronomy 2:29–30.
 
 ## Significance
 

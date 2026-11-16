@@ -167,7 +167,7 @@ looking for a man. Chapter 11 gives them one, and gives him the history Israel h
 driven out, and asked back in a time of distress. The rejected son becomes head over the house that
 rejected him. Gideon refused rule (8:23); Abimelech took it by murder (9:5); Jephthah takes it by
 contract. The passage also prepares the next ones. Jephthah is a man who negotiates, and his next act
-is to send a message to Ammon's king (11:12–28). His words *before Yahweh* here are followed by a vow
+is to send a message to Ammon's king, [[Jephthah's Message to the King of Ammon]] (11:12–28). His words *before Yahweh* here are followed by a vow
 before Yahweh at 11:30–31.
 
 ## Key verses

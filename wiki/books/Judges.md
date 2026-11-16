@@ -282,6 +282,16 @@ victory the condition, they swear *Yahweh will be witness between us*, and the p
 chief*. He speaks *all his words before Yahweh in Mizpah*. He is the first deliverer in the book chosen
 by a bargain rather than raised up or called by Yahweh.
 
+[[Jephthah's Message to the King of Ammon]] (11:12–28) delays the battle by a speech. Ammon's king
+claims *from the Arnon even to the Jabbok, and to the Jordan* and asks for it back *peaceably*.
+Jephthah answers with the road out of Egypt: Israel took neither Moab's land nor Ammon's, went around
+Edom and Moab, and took Sihon's Amorite land when *Yahweh … delivered Sihon*. *Whoever Yahweh our God
+has dispossessed from before us, them will we possess*; let Ammon keep what *Chemosh your god* gives
+it. Balak never fought for this land, and Israel has held it *three hundred years*. He ends, *May
+Yahweh the Judge be judge today*, the only time Judges gives a speaker the title *the Judge* for
+Yahweh. His history follows Numbers' wording and Deuteronomy's theology, adds an embassy to Moab that
+neither records, and denies a fight Joshua 24:9 affirms. The king does not listen.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -331,7 +341,7 @@ merge, or reorder them freely.
 - [x] [[Tola and Jair]] — Judges 10:1–5
 - [x] [[Israel's Repentance Under Ammon]] — Judges 10:6–18
 - [x] [[Jephthah Called from Tob]] — Judges 11:1–11
-- [ ] Jephthah's Message to the King of Ammon — Judges 11:12–28
+- [x] [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28
 - [ ] Jephthah's Vow — Judges 11:29–40
 - [ ] Shibboleth — Judges 12:1–7
 - [ ] Ibzan, Elon, and Abdon — Judges 12:8–15
@@ -374,6 +384,8 @@ merge, or reorder them freely.
 - [[Burial and the Grave]] — Gideon *in the tomb of Joash his father* (8:32); every minor judge buried in a named town (10:2, 5; 12:10, 12, 15).
 - [[Redemption]] — *who saved them* (2:16); Tola *arose to save Israel* (10:1); *I will save you no more* (10:13).
 - [[Sin]] — *We have sinned against you*, the first quoted confession (10:10, 15).
+- [[Judgment]] — *May Yahweh the Judge be judge today* (11:27).
+- [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
 - [[Divine Grief and Relenting]] — *it grieved Yahweh* (2:18); *his soul was grieved for the misery of Israel* (10:16).
 
 ## Key people
@@ -405,6 +417,8 @@ merge, or reorder them freely.
 - [[Tola (son of Puah)]] — of Issachar; *arose to save Israel* and judged twenty-three years (10:1–2).
 - [[Jair (the Gileadite)]] — judged twenty-two years; thirty sons on thirty donkey colts (10:3–5).
 - [[Issachar]] — Tola's tribe (10:1); *the princes of Issachar were with Deborah* (5:15).
+- [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
+- [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
 
 ## Key places
@@ -432,4 +446,6 @@ merge, or reorder them freely.
 - [[Gilead]] and [[Havvoth Jair]] — Jair's country and his sons' thirty cities (10:3–4).
 - [[Kamon]] — Jair's grave (10:5).
 - [[Ammon]] — oppresses Gilead eighteen years (10:7–9), and is fought by Jephthah (11:1–12:7).
+- [[The Arnon]], [[The Jabbok]], [[Heshbon]], [[Aroer]], [[Jahaz]] — the disputed land and Sihon's battle (11:13–26).
+- [[Kadesh]], [[Edom]], [[Moab (place)]], [[The Red Sea]] — the wilderness road retold (11:16–18).
 - [[Mizpah (Gilead)]] — Israel's camp against Ammon (10:17); Jephthah's town (11:11, 29).

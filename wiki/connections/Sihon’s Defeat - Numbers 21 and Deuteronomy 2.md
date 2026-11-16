@@ -9,6 +9,7 @@ tags: [connection]
 - [[The Kings Struck Down]] — Joshua 12:1–6; the victory recalled in the list of kings.
 - [[Sihon and Og]]
 - [[The Defeat of Sihon Recounted]]
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:19–22; the third telling.
 
 ## Analysis
 
@@ -35,6 +36,13 @@ Arabah to the sea of Chinneroth and the Salt Sea under Pisgah. The wording runs 
 Deuteronomy 3:12–17 rather than to Numbers 21. Verse 6 then credits the victory to *Moses the
 servant of Yahweh and the children of Israel* and sets it at the head of the conquest's list
 of kings. Source: stored WEB Joshua 12:1–6; Deuteronomy 3:12–17.
+
+**Retold in Judges 11.** Jephthah's account (11:19–22) follows Numbers' Hebrew closely (*Sihon gathered
+all his people … Jahaz … fought*, 21:23) and Deuteronomy's theology (*Yahweh … delivered Sihon*, compare
+2:33). It gives its own reason for the refusal, *Sihon didn't trust Israel*, *lōʾ heʾĕmîn* (WLC). It
+repeats the bounds *from the Arnon even to the Jabbok* and adds *from the wilderness even to the
+Jordan* (22). See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]]. Source: stored WEB Judges 11:19–22; Hebrew from the WLC (OpenScriptures
+morphhb), 2026-11-15.
 
 ## Significance
 

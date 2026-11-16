@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Chemosh your god* — Judges 11:24
+
+Jephthah names a foreign god to a foreign king as the giver of that king's land (11:24). The verse is
+argument, not concession: Judges has just listed *the gods of Moab* and *the gods of the children of
+Ammon* among the gods Israel served (10:6). That Chemosh is elsewhere Moab's god, not Ammon's, is noted on
+[[Chemosh]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### The gods of seven peoples — Judges 10:6–16
 
 The longest list of gods in Judges: *the Baals, the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines* (6). Yahweh's answer to the cry is *Go and cry to the gods which you have chosen* (14). Then *they put away the foreign gods from among them, and served Yahweh* (16), with the phrase of Jacob's and Joshua's orders (Genesis 35:2; Joshua 24:23). Jacob's household *gave* him its gods (Genesis 35:4); this is the first time the nation is said to put them away. See [[I Will Save You No More - Deuteronomy 32.37-38, Joshua 24, and Judges 10.13-14]] and [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
@@ -578,6 +587,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:24; *Chemosh your god*.
 
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 14, 16; seven peoples' gods served; the chosen gods; the foreign gods put away.
 - [[The Fall of Abimelech]] — Judges 9:27, 46–49; a festival in *the house of their god*; the stronghold of El Berith burned.

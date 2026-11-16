@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The road remembered as evidence — Judges 11:15–26
+
+Jephthah tells the journey from Egypt to the Jabbok to a foreign king as proof of title (11:15–22), and
+appeals to *three hundred years* of possession (11:26). The memory is close to the Torah's but not
+identical: it adds an embassy to Moab and denies that Balak fought. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### Remember that I am your bone — Judges 9:2
 
 One verse after Israel *didn't remember Yahweh* (8:34), Abimelech asks Shechem to remember something
@@ -821,6 +829,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:15–26; the wilderness road retold as evidence, three centuries on.
 
 - [[Abimelech Made King at Shechem]] — Judges 9:2; *Remember also that I am your bone and your flesh*.
 - [[Gideon's Ephod and Death]] — Judges 8:34–35; Israel does not remember Yahweh, nor show kindness to Gideon's house.

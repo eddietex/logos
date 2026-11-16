@@ -7,6 +7,23 @@ tags: [person]
 
 ## Overview
 
+### The message to Ammon's king — Judges 11:12–28
+
+His first act as head is an embassy. *What have you to do with me, that you have come to me to fight
+against my land?* (11:12). When Ammon's king claims the land from the Arnon to the Jabbok (11:13), Jephthah
+sends a history of the road from Egypt: Israel took neither Moab's land nor Ammon's, was refused by Edom
+and Moab, went around them, and took Sihon's Amorite land when Sihon fought and *Yahweh … delivered*
+him (11:15–22). Then four arguments: Yahweh dispossessed the Amorites, and Ammon may keep what *Chemosh
+your god* gives it (11:23–24); Balak never fought for the land (11:25); Israel has held it *three hundred
+years* (11:26). He ends, *I therefore have not sinned against you … May Yahweh the Judge be judge today*
+(11:27). The king *didn't listen* (11:28).
+
+The man chosen for his strength opens with words, and with the Torah's history used as evidence. His
+history follows Numbers' wording, credits Yahweh as Deuteronomy does, and departs from both on Moab's
+response and on Balak. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; comparisons as cited there.
+
 ### Driven out and called back — Judges 11:1–11
 
 *Now Jephthah the Gileadite was a mighty man of valor, and he was the son of a prostitute. Gilead became
@@ -30,8 +47,8 @@ also the region's and the clan's (Numbers 26:29); the text treats this Gilead as
 sons, and does not explain the name. The name *yiptāḥ*, *he opens* from the verb form, is also the
 town [[Iphtah]] in Judah (Joshua 15:43; same lemma in the WLC).
 
-The rest of his story, his message to Ammon's king (11:12–28), the Spirit and his vow (11:29–40),
-Ephraim and *Shibboleth* (12:1–7), is in stored WEB and not yet ingested.
+The rest of his story, the Spirit and his vow (11:29–40) and Ephraim and *Shibboleth* (12:1–7), is in
+stored WEB and not yet ingested.
 
 See [[Jephthah Called from Tob]]. Source: stored WEB Judges 9:4; 10:18; 11:1–11; Numbers 26:29;
 Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
@@ -40,11 +57,15 @@ Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphh
 - Born to Gilead by a prostitute; driven out by his brothers, without inheritance — Judges 11:1–2
 - Lives in the land of Tob with *outlaws* — Judges 11:3
 - Brought back by the elders of Gilead and made *head and chief* — Judges 11:5–11
+- Sends two embassies to Ammon's king and argues Israel's title to the land — Judges 11:12–28
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; two embassies, the history of the road, and *Yahweh the Judge*.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; introduced, driven out, called back, made head.
 
 ## Related people
+- [[King of Ammon (of Jephthah's time)]] — the king he argues with (11:12–28).
+- [[Sihon]] — whose defeat he retells as evidence (11:19–22).
 - [[Ammon]] — the enemy he is brought back to fight.
 - [[Abimelech (son of Gideon)]] — another son of a second woman who gathers *empty men* (9:4; 11:3).
 - [[Ishmael]] — cast out with his mother so as not to inherit with Isaac (Genesis 21:10).
@@ -55,4 +76,5 @@ Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphh
 
 ## Themes associated
 - [[Brotherhood]] · [[Birthright and the Firstborn]] · [[Kingship and Empire]] · [[Call and Election]]
-  · [[Oaths and Vows]]
+  · [[Oaths and Vows]] · [[Land and Sojourning]]
+  · [[Strife and Peacemaking]] · [[Judgment]]

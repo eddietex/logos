@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The king who didn't listen — Judges 11:17–18
+
+Jephthah retells the embassy of Numbers 20:14–21: *Please let me pass through your land; but the king of
+Edom didn't listen* (11:17), and Israel *went around the land of Edom* (11:18). Deuteronomy 2:29 instead
+counts *the children of Esau who dwell in Seir* among those who let Israel pass; Jephthah follows
+Numbers. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 20:14–21; Deuteronomy 2:29.
+
 ### Yahweh marches from Seir — Judges 5:4
 
 *Yahweh, when you went out of Seir, when you marched out of the field of Edom, the earth trembled*
@@ -186,6 +195,7 @@ Edom's kings — *"Yahweh shall reign"*** (15:18; cf. *"the kings who reigned in
 **Joshua 12:1–24 — the list of kings.** Seir again names the direction of Mount Halak's ascent (12:7), not Edomite land taken. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:17–18; *the king of Edom didn't listen*.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *Mount Seir*, given to Esau (4).
 - [[The Borders of Judah]] — Joshua 15:1–12.

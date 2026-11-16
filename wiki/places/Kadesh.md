@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Israel stayed in Kadesh — Judges 11:16–17
+
+In Jephthah's history Israel came through the wilderness *to the Red Sea, and came to Kadesh*, sent to
+Edom and Moab from there, and *stayed in Kadesh* (11:16–17). Numbers puts Israel at Kadesh before the Red
+Sea road (20:1, 14; 21:4); Deuteronomy 1:46 has *you stayed in Kadesh many days*.
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 20:1, 14; 21:4; Deuteronomy 1:46.
+
 ### Judah’s borders — Joshua 15:1–12
 
 The boundary passes south of Kadesh Barnea (3); this is a boundary description, not another visit to the wilderness camp.
@@ -155,6 +163,7 @@ wilderness of Paran*, where Numbers 32:8 and Joshua 14:7 say *from Kadesh Barnea
 both and does not map the boundary. See [[The Wilderness of Zin]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:16–17; the embassies sent from Kadesh, and the stay there.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 
 - [[Caleb Claims Hebron]] — Joshua 14:6–15.

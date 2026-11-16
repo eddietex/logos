@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Jephthah's border — Judges 11:13, 22
+
+The northern bound of the land Ammon's king claims, *from the Arnon even to the Jabbok, and to the
+Jordan* (11:13), and of the land Jephthah says Israel took from the Amorites (11:22). Numbers 21:24 puts
+Ammon's strong border beyond the Jabbok; the king claims the land inside it.
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 21:24.
+
 ### Eastern inheritance — Deuteronomy 3:12–22
 
 The river marks the border of the children of Ammon in the eastern grant (16). Reaching this
@@ -43,6 +51,7 @@ on it, in the same way it lets *gilʿād* and *galʿēd* stand one chapter earli
 **Joshua 12:1–24 — the list of kings.** *The river Jabbok, the border of the children of Ammon* bounds Sihon's rule (12:2), as in Deuteronomy 3:16. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:13, 22; the northern bound of the disputed land.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:24–37.

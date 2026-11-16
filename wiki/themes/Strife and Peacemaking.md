@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Restore … peaceably* — Judges 11:12–28
+
+Before fighting, Jephthah asks *What have you to do with me?* (11:12). The king offers peace on terms,
+*restore that territory again peaceably*, *bəšālôm* (11:13). Jephthah's reply asks whether Balak *ever
+strive*, *rîb*, against Israel (11:25), and ends by giving the dispute to a judge: *I therefore have not
+sinned against you, but you do me wrong to war against me* (11:27). Words fail; the king *didn't listen*
+(11:28).
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### Ephraim contends with Jerubbaal — Judges 8:1–3
 
 *They rebuked him sharply* is *wayrîbûn ʾittô bəḥozqâ*, *they contended with him with force* (8:1, WLC).
@@ -436,6 +446,7 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; an embassy before battle, *peaceably*, and *did he ever strive*.
 
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; Ephraim's *rîb*, and the soft answer that ends it.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:31–32; *rîb* four times, and the name *Let Baal contend*.

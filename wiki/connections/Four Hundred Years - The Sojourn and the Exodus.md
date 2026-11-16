@@ -25,7 +25,7 @@ tags: [connection]
 - **Exodus 12:35–36** — the *"great wealth"* of Genesis 15:14, itemized as silver, gold, and
   clothing — [[The Death of the Firstborn and the Departure]]
 - **Numbers 32:13; Judges 11:26; 1 Kings 6:1** — the other chronological anchors, and they do not all
-  agree.
+  agree. Judges 11:26 is now ingested: [[Jephthah's Message to the King of Ammon]].
 - **Acts 7:6** — Stephen quotes the round four hundred.
 - **Genesis 47:27** — [[Joseph and the Famine]]. **Where the count starts running in earnest**:
   *"Israel lived in the land of Egypt … and were fruitful, and multiplied exceedingly."* Exodus 1:7

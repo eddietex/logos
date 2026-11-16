@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Sihon's battle retold — Judges 11:20
+
+Jephthah's history: Sihon *gathered all his people together, and encamped in Jahaz, and fought against
+Israel* (11:20), close to Numbers 21:23 in the Hebrew. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 21:23.
+
 ### Levitical cities — Joshua 21:1–42
 
 Allocated with its suburbs from Reuben to Merari’s descendants (21:36).
@@ -32,6 +39,7 @@ takes his territory; no modern identification is supplied here.
 Source: stored WEB Numbers 21:21–35.
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:20; Sihon's battle, retold to Ammon's king.
 
 - [[The Cities of the Levites]] — Joshua 21:1–42.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh the Judge — Judges 11:27
+
+*May Yahweh the Judge be judge today between the children of Israel and the children of Ammon*
+(11:27), *yišpōṭ YHWH haššōpēṭ* (WLC). Outside 2:18–19, where it names the human judges, the singular *the
+judge* occurs in Judges only here, as Yahweh's title. The formula *judge between* is Sarai's (Genesis
+16:5) and Laban's (31:53). See [[Shall Not the Judge of All the Earth Do Right]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Genesis 16:5; 18:25; 31:53.
+
 ### Sold to Jabin, and a judge who hears cases — Judges 4:1–16
 
 The sale returns: *Yahweh sold them into the hand of Jabin king of Canaan* (4:2), after Moab's
@@ -1089,6 +1098,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:27; *May Yahweh the Judge be judge today*.
 
 - [[Deborah and Barak]] — Judges 4:2, 4–5, 9; Israel sold to Jabin; Deborah judging; Sisera to be sold.
 - [[Ehud and Eglon]] — Judges 3:12; *Yahweh strengthened Eglon … against Israel*.

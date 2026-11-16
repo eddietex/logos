@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Defeat of Sihon Recounted]] — Deuteronomy 2:37.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:16.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:25–27.
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:13–22; Ammon's king claims the land.
 
 ## Analysis
 
@@ -30,6 +31,13 @@ No later war account is imported to settle the issue.
 
 Sources: stored WEB Deuteronomy 2:19, 37; 3:16; Joshua 13:25–27. All descriptions are
 paraphrases; no unstored source or original-language claim is required.
+
+**Ammon's own claim — Judges 11:13.** The king of Ammon claims the land *from the Arnon even to the
+Jabbok, and to the Jordan* as *my land* (11:13). Jephthah answers that Israel took neither Moab's land nor
+Ammon's (11:15), only the Amorites' (11:21–22), which agrees with Deuteronomy 2:19, 37. Neither speaker
+mentions Joshua 13:25's *half the land of the children of Ammon*. The king's claim covers more than that
+phrase: it reaches the Arnon, the bound of Sihon's whole kingdom. The tension above is not resolved by
+Judges 11; it is given a voice. Source: stored WEB Judges 11:13–22.
 
 ## Significance
 

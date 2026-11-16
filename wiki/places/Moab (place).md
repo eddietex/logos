@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### Moab in Jephthah's case — Judges 11:15–25
+
+Jephthah denies that Israel took *the land of Moab* (11:15), and says Israel sent to Moab's king, who
+*would not*, and went around Moab, *for the Arnon was the border of Moab* (11:17–18). **The embassy to
+Moab is recorded nowhere else**, and Deuteronomy 2:29 says the Moabites in Ar did let Israel pass. He then
+names *Chemosh your god* to Ammon's king (11:24) and asks whether Balak *king of Moab* ever fought Israel
+(11:25), against Joshua 24:9. Each tension is written out on the passage page and in [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 21:13, 29; 22; Deuteronomy 2:9, 29; Joshua 24:9.
+
 ### The gods of Moab — Judges 10:6
 
 *The gods of Moab* are among the seven kinds of god Israel serves (6). Moab is not in Yahweh's list of oppressors (11–12), though Eglon's Moab ruled Israel eighteen years (3:14).
@@ -293,6 +303,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:15, 17–18, 24–25; Moab's land not taken, an embassy refused, Chemosh, and Balak.
 
 - [[Israel's Repentance Under Ammon]] — Judges 10:6; *the gods of Moab*.
 - [[Ehud and Eglon]] — Judges 3:12–30; Eglon's Moab rules Israel eighteen years and is subdued.

@@ -217,7 +217,7 @@ spoken about apostasy, not about every failure. The [[Forgiveness]] page records
 - *Balak … arose and fought against Israel* (9). Numbers 22 narrates no battle; Balak hires
   Balaam *that we may strike them* (Numbers 22:6), and Deuteronomy 2:9 forbade Israel to *contend
   with* Moab in battle (stored WEB). Judges 11:25 asks of Balak, *did he ever fight against
-  them?* (WEB, checked at bible-api.com; Judges not yet ingested). Joshua 24:9 can be read as
+  them?* (stored WEB; see [[Jephthah's Message to the King of Ammon]]). Joshua 24:9 can be read as
   calling the hire of a curse an act of war, which is what Balak intended it to be. Both the
   statement and the question are recorded on [[Balak]] without harmonizing them.
 

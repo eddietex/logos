@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Jephthah's road — Judges 11:16
+
+*Israel went through the wilderness to the Red Sea, and came to Kadesh* (11:16). *Yam sûp* (WLC), its only
+occurrence in Judges. The verse may mean the crossing after Egypt or the road *to the Red Sea, to go
+around the land of Edom* (Numbers 21:4), which Numbers puts after Kadesh; the text does not say.
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 21:4.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *The Egyptians pursued your fathers with chariots and with horsemen to the Red Sea. When they cried out to Yahweh, he put darkness between you and the Egyptians, and brought the sea on them* (6–7). The darkness matches the cloud of Exodus 14:20, where *there was the cloud and the darkness* between the camps (stored WEB).
@@ -95,6 +103,7 @@ the sea of the Philistines"* (MAM). The sea Israel crossed in chapter 14 is now 
 land promised beyond it. See [[The Angel Sent Ahead]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:16; the wilderness road to Kadesh.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the pursuit, the darkness, and the sea brought on the Egyptians (6–7).
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

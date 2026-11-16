@@ -41,6 +41,10 @@ tags: [connection]
   that he should do wickedness"* (34:10). See [[Elihu on God's Justice]].
 - **Romans 3:5–6** — *"Is God unrighteous who inflicts wrath? … For then how will God judge the
   world?"*
+- **Judges 11:27** — Jephthah to Ammon's king: *"May Yahweh the Judge be judge today between the
+  children of Israel and the children of Ammon."* **Abraham's title, *haššōpēṭ*, given to Yahweh in a
+  border dispute**: *yišpōṭ YHWH haššōpēṭ* (WLC). Outside 2:18–19, of the human judges, it is the only
+  singular *the judge* in Judges. See [[Jephthah's Message to the King of Ammon]].
 - **Genesis 22:1–3** — the same man, four chapters later, given a command about his own son and
   saying nothing at all. **The Bible's first advocate does not argue when the case is his**, and
   Genesis offers no account of the difference. See [[The Binding of Isaac]].

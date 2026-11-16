@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Jephthah's border — Judges 11:13–26
+
+Ammon's king claims the land *from the Arnon even to the Jabbok* (11:13). Jephthah answers that Israel
+camped *on the other side of the Arnon* and did not enter Moab, *for the Arnon was the border of Moab*
+(11:18), the same four Hebrew words as Numbers 21:13 (*kî ʾarnôn gəbûl môʾāb*, WLC). The cities *along by
+the side of the Arnon* have been Israel's for *three hundred years* (11:26). See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Numbers 21:13, 24.
+
 ### Eastern allotments — Joshua 13:8–33
 
 Its valley locates Aroer and the unnamed valley city at the start of the eastern register and Reuben’s grant (9, 16).
@@ -64,6 +73,7 @@ Source: stored WEB Numbers 21:10–20.
 **Joshua 12:1–24 — the list of kings.** The east-bank conquest is measured *from the valley of the Arnon to Mount Hermon* (12:1), and Sihon ruled from Aroer on its edge and *the middle of the valley* (2). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:13, 18, 22, 26; the southern bound of the disputed land, and Moab's border.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

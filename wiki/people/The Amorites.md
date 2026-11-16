@@ -7,6 +7,15 @@ tags: [person]
 
 ## Overview
 
+### The Amorites' land, not Ammon's — Judges 11:19–23
+
+Jephthah's whole case rests on them. Israel *possessed all the land of the Amorites* and *all the border
+of the Amorites, from the Arnon even to the Jabbok* (11:21–22); *Yahweh, the God of Israel, has
+dispossessed the Amorites from before his people Israel, and should you possess them?* (11:23). The
+disputed land was Sihon's, Amorite land, before it was Israel's. See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28.
+
 ### The land of the Amorites in Gilead — Judges 10:8, 11
 
 Ammon oppresses *all the children of Israel that were beyond the Jordan in the land of the Amorites, which is in Gilead* (8). This is Sihon's land, taken *from the Arnon to the Jabbok, even to the children of Ammon* (Numbers 21:24). Yahweh names *the Amorites* among those he saved Israel from (11). See [[Sihon and Og]].
@@ -76,6 +85,7 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:16; 15:
 - Among the peoples Israel lives among and marries — [[The Nations Left to Test Israel]]
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:19–23; Sihon's people, whose land Israel took.
 
 - [[Israel's Repentance Under Ammon]] — Judges 10:8, 11; *the land of the Amorites, which is in Gilead*; saved from them.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites, in whose land you dwell*.

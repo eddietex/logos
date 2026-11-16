@@ -26944,3 +26944,57 @@ against *ʿēd* in Genesis 31:50; *mamzēr* at Deuteronomy 23:3 (WLC numbering);
 for Jephthah and Iphtah. Those *only* claims cover only these five files. Reported, not checked: the
 gloss *he opens* for the name. Hebrews 11:32 mentioned in the passage notes without quotation (not
 stored). No Greek text was consulted.
+
+## [2026-11-15] ingest | Judges 11.12-28 — Jephthah's Message to the King of Ammon
+
+Unattended run (`/ingest auto`). Jephthah sends messengers to Ammon's king, who claims the land *from
+the Arnon even to the Jabbok, and to the Jordan* and asks for it back *peaceably*. Jephthah answers with
+the road out of Egypt: Israel took neither Moab's nor Ammon's land, was refused by Edom and Moab, went
+around them, and took Sihon's Amorite land when Yahweh delivered Sihon. He argues from Yahweh's gift
+(*Chemosh your god*), from Balak's precedent, and from *three hundred years* of possession, and ends,
+*May Yahweh the Judge be judge today*. The king does not listen. The discussion step was written into
+the passage page.
+
+Created: the passage page; one person ([[King of Ammon (of Jephthah's time)]]); one connection
+([[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]]).
+
+Revised: people [[Jephthah]], [[Sihon]], [[Chemosh]], [[Balak]], [[The Amorites]],
+[[King of Edom (of Moses' time)]]; places [[The Arnon]], [[The Jabbok]], [[Heshbon]], [[Jahaz]],
+[[Aroer]], [[Kadesh]], [[Edom]], [[Moab (place)]], [[The Red Sea]], [[Ammon]]; seven themes
+([[Land and Sojourning]], [[Strife and Peacemaking]], [[War]], [[Judgment]], [[Remembrance]],
+[[The Nations]], [[Idolatry]]); five connections
+([[Edom and Sihon - Refused Passage and Different Outcomes]],
+[[Sihon’s Defeat - Numbers 21 and Deuteronomy 2]], [[Ammon Protected and Ammonite Land Allotted]],
+[[Shall Not the Judge of All the Earth Do Right]],
+[[Four Hundred Years - The Sojourn and the Exodus]]); passages [[Jephthah Called from Tob]] (forward
+link) and [[The Covenant at Shechem]] (the Judges 11:25 note now points at stored WEB). Also updated the
+book page (box checked, overview, key themes/people/places), the books index (28 / 42), the people (A-E,
+F-M, N-Z), places, themes, and connections (A-C, D-H, I-N, O-S) indexes, and the dashboard counts.
+Frontmatter totals: 464 passages, 326 people, 583 places, 88 themes, 885 connections.
+
+Contradictions flagged, not resolved: (1) Jephthah's embassy to Moab, refused (11:17), is not in
+Numbers, and Deuteronomy 2:29 has the Moabites in Ar dealing with Israel as Moses asked of Sihon;
+(2) *did he ever fight against them?* of Balak (11:25) against Joshua 24:9 *arose and fought*, the same
+verb *lāḥam* in the WLC; (3) Chemosh, Moab's god (Numbers 21:29), named as the god of Ammon's king
+(11:24). The first two are also on [[Balak]], [[Moab (place)]], and the new connection.
+
+Judgment calls: kept 11:12–28 as planned. The unnamed king of Ammon gets a page qualified by the
+narrative, per the title-figure rule. The king of Moab at Kadesh (11:17) gets no page; his embassy is
+recorded only here. The 319-year sum of Judges' stated periods (3:8–10:8) beside Jephthah's *three
+hundred years* is the wiki's arithmetic and is labelled so. Did not touch The Jordan or Egypt, which the
+speech names only as bounds. Removed two unverifiable superlatives from the drafts (*longest speech*,
+*longest retelling*).
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 16:5; 18:25;
+31:53; Numbers 20:1, 14, 17, 21; 21:4, 13, 21–26, 29, 34; 22:6; Deuteronomy 1:46; 2:5, 9, 19, 28–30, 33,
+36–37; 23:3–4; Joshua 13:25; 24:9. Hebrew from a fresh download of the Westminster Leningrad Codex
+(OpenScriptures morphhb) `Gen.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`, on 2026-11-15.
+Verified there: *mah-lî wālāk* (11:12); *hāšîbâ ʾethen bəšālôm* (11:13) and *šûb* absent from
+11:14–27; *kōh ʾāmar* in 11:15 and Numbers 20:14; *yam sûp* only at 11:16 in Judges; *lōʾ šāmaʿ* (11:17,
+28) and *lōʾ ʾābâ* (11:17); *kî ʾarnôn gəbûl môʾāb* in 11:18 and Numbers 21:13; 11:20 against Numbers
+21:23 (*heʾĕmîn*, only in Judges, against *nātan*); *yāraš* eight times in 11:21–24; Chemosh only in
+Numbers 21:29 and Judges 11:24 in the five files; *rîb* and *lāḥam* in 11:25, *lāḥam* in Joshua 24:9;
+*bənôtêhā* and *nāṣal* in 11:26; *ḥāṭāʾ* in Judges at 10:10, 15; 11:27 (and 20:16); *haššōpēṭ* in
+Judges only at 2:18–19 and 11:27; *yišpōṭ … bên* in Genesis 16:5 and 31:53; *hăšōpēṭ* in Genesis 18:25.
+Reported, not checked: the names Milcom and Molech for Ammon's god (1 Kings 11, not stored). No Greek
+text was consulted.

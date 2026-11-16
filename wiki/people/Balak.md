@@ -7,9 +7,19 @@ tags: [person]
 
 ## Overview
 
+### *Did he ever fight against them?* — Judges 11:25
+
+*Now are you anything better than Balak the son of Zippor, king of Moab? Did he ever strive against
+Israel, or did he ever fight against them?* (11:25). Now ingested. The tension with Joshua 24:9, recorded
+below, is confirmed in the Hebrew: Jephthah's *fight* is *nilḥōm nilḥam* and Joshua's *fought* is
+*wayyillāḥem*, both *lāḥam* (WLC). Jephthah's *strive* is *rîb*, the lawsuit verb. Both statements stand.
+See [[Jephthah's History of the Journey - Numbers 20-22, Deuteronomy 2, and Judges 11]].
+
+See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Joshua 24:9; Numbers 22:6.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
-*Balak the son of Zippor, king of Moab, arose and fought against Israel. He sent and called Balaam the son of Beor to curse you* (9). **Tension recorded, not harmonized:** Numbers 22 narrates no battle — Balak hires Balaam *that we may strike them* (22:6, stored WEB) — and Judges 11:25 asks of Balak, *did he ever fight against them?* (WEB, checked at bible-api.com; Judges not yet ingested). Joshua 24:9 may count the hired curse as an act of war; the wiki records both statements.
+*Balak the son of Zippor, king of Moab, arose and fought against Israel. He sent and called Balaam the son of Beor to curse you* (9). **Tension recorded, not harmonized:** Numbers 22 narrates no battle — Balak hires Balaam *that we may strike them* (22:6, stored WEB) — and Judges 11:25 asks of Balak, *did he ever fight against them?* (stored WEB; see [[Jephthah's Message to the King of Ammon]]). Joshua 24:9 may count the hired curse as an act of war; the wiki records both statements.
 
 See [[The Covenant at Shechem]]. Source: stored WEB Joshua 24:1–28; comparisons as cited.
 
@@ -54,6 +64,7 @@ when the first returns unsuccessful; his offer of honor cannot determine God’s
 - Numbers 22:1–21: Son of [[Zippor]] and king of Moab at this time (2, 4). Fear after Israel’s victories leads him to seek a curse before attempting military expulsion. He sends a second, more distinguished embassy when the first returns unsuccessful; his offer of honor cannot determine God’s instruction.
 
 ## Appears in
+- [[Jephthah's Message to the King of Ammon]] — Judges 11:25; *did he ever fight against them?*, against Joshua 24:9.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *arose and fought against Israel* (9); a tension with Numbers 22 and Judges 11:25.
 - [[Balaam's Last Oracles]] — Numbers 23:27–24:25.
@@ -70,7 +81,7 @@ when the first returns unsuccessful; his offer of honor cannot determine God’s
 
 ## Related people
 
-- [[Zippor]] · [[Balaam]]
+- [[Zippor]] · [[Balaam]] · [[Jephthah]] — who cites him as a precedent (Judges 11:25)
 
 ## Themes associated
 
