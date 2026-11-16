@@ -735,6 +735,7 @@ destination persists through the crisis over God’s accompaniment. See [[Show M
 
 ## Related people
 
+- [[Jephthah's Daughter]] — the only other *only* child (*yāḥîd*) in the WLC of Genesis–Judges, vowed as a burnt offering (Judges 11:34). See [[Your Only Son - Genesis 22 and Judges 11]].
 - [[Abraham]] — his father, who laughs at the announcement of him and asks for Ishmael instead
 - [[Sarah]] — his mother, ninety at the promise and the only woman in the Bible God renames
 - [[Ishmael]] — his half-brother, blessed in the same speech that gives Isaac the covenant, and the

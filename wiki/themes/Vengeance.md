@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh has taken vengeance for you — Judges 11:36
+
+The daughter tells her father to keep his vow *because Yahweh has taken vengeance for you on your
+enemies, even on the children of Ammon* (11:36), *ʿāśâ ləkā YHWH nəqāmôt* (WLC). *Nəqāmâ* is otherwise in
+the WLC of Genesis–Judges only at Numbers 31:2–3, *Yahweh's vengeance on Midian*. She gives the victory to
+Yahweh, not to the vow. See [[Jephthah's Vow]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### For the sons of my mother — Judges 8:18–21
 
 *They were my brothers, the sons of my mother. As Yahweh lives, if you had saved them alive, I would not
@@ -222,6 +229,7 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[Jephthah's Vow]] — Judges 11:36; *Yahweh has taken vengeance for you*.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:18–21; Gideon kills the kings of Midian for his brothers killed at Tabor.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 

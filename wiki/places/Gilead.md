@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The march to Ammon — Judges 11:29
+
+*Then Yahweh's Spirit came on Jephthah, and he passed over Gilead and Manasseh, and passed over Mizpah of
+Gilead* (11:29). Jephthah crosses his own region on the way to the enemy. His daughter is mourned as *the
+daughter of Jephthah the Gileadite* (11:40). See [[Jephthah's Vow]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Jephthah the Gileadite — Judges 11:1–11
 
 *Jephthah the Gileadite* is the man the princes looked for. *Gilead became the father of Jephthah*
@@ -185,6 +191,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Jephthah's Vow]] — Judges 11:29, 40; Jephthah passes over Gilead to Ammon.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; Jephthah's people and father's name; its elders make him head.
 - [[Israel's Repentance Under Ammon]] — Judges 10:8, 17–18; oppressed by Ammon; the princes seek a head.
 - [[Tola and Jair]] — Judges 10:3–4; Jair the Gileadite, and Havvoth Jair *in the land of Gilead*.

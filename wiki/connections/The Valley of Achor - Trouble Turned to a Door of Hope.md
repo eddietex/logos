@@ -10,6 +10,7 @@ tags: [connection]
 - [[The Sin of Achan]] — Joshua 7:24–26; the valley named for Achan's trouble.
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:30: *"You have troubled me, to make me odious to
   the inhabitants of the land"* (stored WEB). The same verb, *ʿāḵar*.
+- [[Jephthah's Vow]] — Judges 11:35: *"you are one of those who trouble me"* (stored WEB), *bəʿōkərāy*.
 - Joshua 15:7 — the valley of Achor on Judah's northern border *(stored WEB; not yet ingested)*.
 - 1 Chronicles 2:7 — *"The son of Carmi: Achar, the troubler of Israel, who committed a trespass in
   the devoted thing."* *(WEB, verified at bible-api.com, 2026-11-10; not yet ingested)*
@@ -30,6 +31,13 @@ Shechem has *troubled* him by making him *odious to the inhabitants of the land*
 In both texts, a violent or greedy act by some Israelites endangers the whole household before the
 Canaanites. That parallel is the wiki's observation from the shared verb and situation; neither text
 cites the other.
+
+**The verb after Achor.** Jephthah says to his daughter, *you are one of those who trouble me*,
+*wəʾatt hāyît bəʿōkərāy* (Judges 11:35, WLC). In the WLC of Genesis–Judges the verb occurs only in
+Genesis 34:30, Joshua 6:18 and 7:25, and here. In the earlier verses the troubler had done something:
+Simeon and Levi killed, and Achan took what was devoted. Jephthah's daughter has only come out of the
+door. In the same sentence he gives the cause, *for I have opened my mouth to Yahweh*. The trouble is his
+vow's, and his words put it on her. See [[Jephthah's Vow]]. Source: stored WEB Judges 11:35; Hebrew WLC, 2026-11-15.
 
 **The Chronicler's spelling.** 1 Chronicles 2:7 writes the man's name as *Achar* and glosses it
 *the troubler of Israel*, so the pun of Joshua 7:25 becomes the name itself. The text does not say

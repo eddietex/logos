@@ -176,7 +176,8 @@ verse 2. Elsewhere the widow is a figure of vulnerability; here the law simply t
 assumes she can. It does not say why a father or husband may cancel, beyond the household structure named in verse
 16. It gives the woman no say over a man's vow. And it gives a man no release from his own: Jephthah, whose vow
 fell on his daughter (Judges 11:30–31, 39), is a man vowing, under verse 2 and not verses 3–5. The wiki notes this
-on [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]]; Judges is not yet ingested.
+on [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]] and [[Jephthah's Vow]], where the
+daughter answers him in this chapter's words (Judges 11:36).
 
 **Hannah.** The best-known wife's vow in the histories is Hannah's (1 Samuel 1:11). Her husband Elkanah later
 says *only may Yahweh establish his word* (1:23), with *yāqēm*, the verb of confirming in verses 13–14 here (MAM).

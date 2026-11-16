@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### I have opened my mouth — Judges 11:35–36
+
+*I have opened my mouth to Yahweh, and I can't go back* (11:35). The verb *pāṣâ* is otherwise used in the
+WLC of Genesis–Judges only of the ground that *opened its mouth* for Abel's blood and for Korah (Genesis
+4:11; Numbers 16:30; Deuteronomy 11:6). His daughter answers, *do to me according to that which has
+proceeded out of your mouth* (11:36), the wording of Numbers 30:2. In this passage the words spoken bind
+the man who spoke them, and they cost his daughter. See [[Jephthah's Vow]] and
+[[Yes, He Will Be Blessed - The Irrevocable Word]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### In your mouth and in your heart — Deuteronomy 30:11–20
 
 *The word is very near to you, in your mouth and in your heart* (14): spoken word and inner disposition together, as in 6:6–7.
@@ -723,6 +732,7 @@ in the book written by one person for another. See
 
 ## Key passages
 
+- [[Jephthah's Vow]] — Judges 11:35–36; *I have opened my mouth to Yahweh*.
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

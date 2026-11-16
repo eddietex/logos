@@ -10,7 +10,7 @@ tags: [connection]
   father's house in peace, and Yahweh will be my God* (stored WEB).
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:9. *When I come again in peace, I will break down this
   tower* (stored WEB).
-- **Judges 11:30–31** *(not yet ingested; stored WEB)* — *whatever comes out of the doors of my house to
+- [[Jephthah's Vow]] — Judges 11:30–31 (stored WEB). *whatever comes out of the doors of my house to
   meet me, when I return in peace from the children of Ammon, it shall be Yahweh's, and I will offer it
   up for a burnt offering.*
 
@@ -31,9 +31,17 @@ it (8:17).
 **What each return brings.** Jacob comes back, and God sends him up to Bethel to make an altar *to God, who
 answered me in the day of my distress, and was with me on the way which I went* (Genesis 35:1, 3; see
 [[Return to Bethel; the Deaths of Rachel and Isaac]]). Gideon comes back and breaks down the
-tower and kills the men of Penuel. Jephthah comes back and his daughter comes out to meet him (11:34,
-stored WEB; not yet ingested). In Judges, the safe return of the man who speaks the phrase is followed
+tower and kills the men of Penuel. Jephthah comes back and his daughter comes out to meet him (11:34; see
+[[Jephthah's Vow]]). In Judges, the safe return of the man who speaks the phrase is followed
 both times by death at home: Israelite men in 8:17, and his own daughter in 11:34–39.
+
+### Judges 11 now ingested
+
+The verb of the phrase, *šûb*, returns twice more in Jephthah's story. When he sees his daughter he says
+*I can't go back*, *wəlōʾ ʾûkal lāšûb* (11:35), and at the end of two months *she returned to her father*,
+*wattāšob* (11:39, WLC). He returned in peace, as he asked; he cannot return from his word; and she
+returns to him to have it done. See [[Jephthah's Vow]]. Source: stored WEB Judges 11:31, 35, 39; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

@@ -11,8 +11,8 @@ tags: [connection]
   dwelling according to their tribes; and the Spirit of God came on him.* (stored WEB)
 - [[Othniel the First Judge]] — **Judges 3:10** — *Yahweh's Spirit came on him, and he judged Israel;
   and he went out to war* (stored WEB)
-- **Judges 11:29** — *Then Yahweh's Spirit came on Jephthah, and he passed over Gilead and Manasseh*
-  (stored WEB) *(not yet ingested)*
+- [[Jephthah's Vow]] — **Judges 11:29** — *Then Yahweh's Spirit came on Jephthah, and he passed over Gilead and Manasseh*
+  (stored WEB)
 - [[The Fleece]] — **Judges 6:34** — *But Yahweh's Spirit came on Gideon, and he blew a trumpet* (stored WEB). A
   different verb, kept here for contrast.
 
@@ -56,7 +56,10 @@ WEB Judges 6:33–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 - **It is said to come, not to stay.** None of the verses says how long it remained. The wiki's earlier
   case of a lasting Spirit, Joshua as *a man in whom is the Spirit* (Numbers 27:18, stored WEB), uses a
   different construction. See [[The Spirit of God]].
-- Jephthah's verse will be examined in full when Judges 11 is ingested.
+- **Jephthah's verse, now ingested.** The clause matches Othniel's exactly, with the name in place of
+  the pronoun (WLC). What follows is a march with three uses of *ʿābar*, *passed over*, and then a vow
+  (11:29–31). Othniel's endowment was followed by judging and war. Jephthah's is followed by a bargain
+  he did not need to make, and the Spirit does not stop it. See [[Jephthah's Vow]].
 
 Sources: stored WEB Numbers 24:1–3; 27:18; Judges 3:10; 6:34; 11:29–31; 14:6. Hebrew of Numbers
 24:2 and Judges 3:10; 6:34; 11:29; 14:6 read from the Westminster Leningrad Codex (OpenScriptures

@@ -112,6 +112,7 @@ checked in the WLC). The list names three wives and no daughters. See [[The Head
 
 ## Related people
 
+- [[Jephthah's Daughter]] — goes out *with tambourines and with dances*, as the women did after Miriam (Exodus 15:20; Judges 11:34). See [[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]].
 - [[Deborah (prophetess)]] — the other *prophetess* (Judges 4:4).
 - [[Moses]] — her brother
 - [[Jochebed]] — her mother

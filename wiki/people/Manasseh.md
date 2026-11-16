@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### *Gilead and Manasseh* — Judges 11:29
+
+Jephthah *passed over Gilead and Manasseh* on his way to Ammon (11:29). The text names the two side by
+side and does not say whether *Manasseh* here is the tribe's land west of the Jordan or its eastern half.
+See [[Jephthah's Vow]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### *Out of all Manasseh* — Judges 7:23
 
 Gideon's tribe joins the pursuit with Naphtali and Asher: *out of all Manasseh, and pursued Midian*
@@ -301,6 +307,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Jephthah's Vow]] — Judges 11:29; *Gilead and Manasseh*, crossed by Jephthah.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:23; *out of all Manasseh*, in the pursuit.
 - [[The Fleece]] — Judges 6:35; messengers *throughout all Manasseh*.
 - [[The Call of Gideon]] — Judges 6:15; Gideon's family *the poorest in Manasseh*.

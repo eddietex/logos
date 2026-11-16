@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Subdued — Judges 11:29–33
+
+*Yahweh delivered them into his hand* (11:32). Jephthah strikes Ammon *from Aroer until you come to
+Minnith, even twenty cities, and to Abelcheramim, with a very great slaughter. So the children of Ammon
+were subdued before the children of Israel* (11:33). No years of rest follow, as they do after Moab and
+Midian (3:30; 8:28). His daughter calls it *vengeance … on the children of Ammon* (11:36). See
+[[Jephthah's Vow]], [[Minnith]], and [[Abel Keramim]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The claim, and Jephthah's answer — Judges 11:12–28
 
 Ammon's king claims *from the Arnon even to the Jabbok, and to the Jordan* as *my land*, taken by Israel
@@ -148,6 +156,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Vow]] — Judges 11:29–36; subdued by Jephthah, twenty cities struck.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; claims Gilead from the Arnon to the Jabbok; does not listen.
 - [[Jephthah Called from Tob]] — Judges 11:4–9; makes war, and Gilead calls Jephthah back to fight it.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–18; oppresses Gilead eighteen years; encamps against Israel.

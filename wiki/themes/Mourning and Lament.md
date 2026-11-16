@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two months on the mountains, four days a year — Judges 11:35–40
+
+Jephthah *tore his clothes* when his daughter came out (11:35). She asks for two months to *bewail my
+virginity, I and my companions* (11:37), *ʾebkeh ʿal-bətûlay* (WLC), and they mourn on the mountains
+(11:38). After it, *the daughters of Israel went yearly to celebrate the daughter of Jephthah the
+Gileadite four days in a year* (11:40). The verb is *tānâ*, *to recount*, as in Judges 5:11. The lament is kept
+by women, for a woman with no name. See [[Jephthah's Vow]] and
+[[Jephthah's Daughter]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### A mother at the window — Judges 5:28–30
 
 *Through the window she looked out, and cried: Sisera's mother looked through the lattice. 'Why is
@@ -277,6 +286,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[Jephthah's Vow]] — Judges 11:35–40; torn clothes, two months on the mountains, and a yearly lament.
 - [[The Angel at Bochim]] — Judges 2:4–5; the people weep, and name the place for it.
 - [[The Sin of Achan]] — Joshua 7:1–26.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Thirty days of weeping (8).

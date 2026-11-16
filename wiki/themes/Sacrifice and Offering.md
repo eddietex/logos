@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A burnt offering vowed — Judges 11:31, 39
+
+*I will offer it up for a burnt offering*, *wəhaʿălîtihû ʿôlâ* (11:31, WLC). It is the verb, suffix and noun
+of God's command to Abraham, *Offer him there as a burnt offering* (Genesis 22:2). The thing offered is
+whatever comes out of Jephthah's door, and his only child comes out. At the end the narrator does not
+repeat the words *burnt offering*. He says only that Jephthah *did with her according to his vow* (11:39).
+Against the plain reading stand Leviticus 18:21 and Deuteronomy 12:31. The wiki keeps both readings; see
+[[Jephthah's Vow]] and [[Child Sacrifice and the Redemption of the Firstborn]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### A bull burned with the Asherah's wood — Judges 6:25–28
 
 Gideon is to build *an altar to Yahweh your God on the top of this stronghold, in an orderly way*, and
@@ -799,6 +808,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Jephthah's Vow]] — Judges 11:31, 39; the burnt offering vowed, and a fulfillment that does not name it.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:26, 28; the second bull offered on a new altar, burned with the Asherah's wood.
 - [[The Call of Gideon]] — Judges 6:18–24; the offering consumed by fire from the rock, and the altar named.
 - [[The Angel at Bochim]] — Judges 2:5; sacrifice after the weeping, at Bochim.

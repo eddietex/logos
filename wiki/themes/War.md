@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Twenty cities, and no rest — Judges 11:32–33
+
+*Yahweh delivered them into his hand*, in the words of the vow (11:30, 32). Jephthah strikes *from Aroer
+until you come to Minnith, even twenty cities, and to Abelcheramim, with a very great slaughter*, and
+Ammon is *subdued* (11:33). Ehud's and Gideon's *subdued* came with *the land had rest* (3:30; 8:28);
+Jephthah's does not. The cost of the battle falls at home, on his daughter (11:34–39), and the next war is
+with Ephraim (12:1–6). See [[Jephthah's Vow]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Words before the battle — Judges 11:12–28
 
 Jephthah sends two embassies before he fights, and calls Ammon's attack a wrong: *you do me wrong to war
@@ -883,6 +891,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jephthah's Vow]] — Judges 11:32–33; twenty cities struck, and Ammon subdued.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; the embassy before the war, and a defensive war argued.
 
 - [[The Fall of Abimelech]] — Judges 9:25–55; ambushes, a city salted, a tower burned, and a king killed at a siege, all among Israelites.

@@ -24,7 +24,7 @@ tags: [connection]
   [[In Place of All the Firstborn - Exodus 13 and Numbers 3, 8, and 18]]
 - **Leviticus 18:21; 20:2–5; Deuteronomy 12:31; 18:10** — the prohibition, attached to Molech and to
   *"passing through the fire"*; 18:10 heads the list of the nations' arts in [[A Prophet Like Moses]]
-- **Judges 11:29–40** — Jephthah's vow, and the daughter nobody stops
+- **Judges 11:29–40** — Jephthah's vow, and the daughter nobody stops — [[Jephthah's Vow]]
 - **2 Kings 3:26–27; 16:3; 21:6; 23:10** — kings of Moab, Judah, and Israel who do it
 - **Jeremiah 7:31; 19:5; 32:35** — *"which I didn't command, nor did it come into my mind"*
 - **Ezekiel 20:25–26** — *"I gave them statutes that were not good"*
@@ -107,7 +107,7 @@ between two prophets, not as an appearance to be dissolved.**
 | passage | who | outcome | narrator's verdict |
 |---|---|---|---|
 | Genesis 22 | Abraham | **stopped**; a ram *instead of his son* | the act of a man who fears God |
-| Judges 11:29–40 | Jephthah | **carried out** | none — the text reports and does not judge |
+| Judges 11:29–40 | Jephthah | **carried out** on the plain reading; disputed (see below) | none — the text reports and does not judge |
 | 2 Kings 3:26–27 | the king of Moab | carried out, on the wall | *"there was great wrath against Israel"*, unexplained |
 | 2 Kings 16:3; 21:6 | Ahaz, Manasseh | carried out | *"like the abominations of the nations"* |
 
@@ -116,6 +116,16 @@ knife — and there is no voice from the sky. Nobody intervenes, the daughter as
 gets them, and Judges records the result as an annual custom. **Genesis 22 is the story in which the
 angel comes; Judges 11 is the story in which he does not**, and Scripture keeps both without
 comparing them.
+
+**Judges 11 now ingested — and the outcome is disputed.** The table above lists *carried out*, and
+that is the plain reading: the vow named a burnt offering (11:31), and *he did with her according to
+his vow which he had vowed* (11:39). But the fulfillment does not repeat the words *burnt offering*,
+and it adds *She was a virgin* (11:39). On that clause, and on her mourning *my virginity* (11:37), an
+old minority reading holds that she was dedicated to Yahweh unmarried for life. The wiki does not
+choose. It records both readings on {V}, and keeps the table's entry because it is the plain sense.
+The shared vocabulary with Genesis 22, *yāḥîd* and *wəhaʿălēhû … ʿōlâ*, is set out at
+[[Your Only Son - Genesis 22 and Judges 11]]. Source: stored WEB Judges 11:29–40; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
 
 ### What Genesis 22 is doing, on the three main readings
 
@@ -198,6 +208,5 @@ Exodus 34:1–28 checked in `raw/bible/Exodus.md` (WEB), 2026-10-24.
 - **It is where the wiki's rule about contradictions gets its hardest case.** Exodus 22:29 and Exodus
   13:13; Jeremiah 7:31 and Ezekiel 20:25–26. Both pairs are stated here, with the passages that
   support each, and neither is smoothed. See [[The Ram Instead of the Son - Substitution at Moriah]].
-- **And it puts Jephthah's daughter in the wiki's field of view early.** When Judges is ingested,
-  this page is the one that has been waiting for it: the vow that is kept, in a book with no voice
-  from the sky in it.
+- **And it put Jephthah's daughter in the wiki's field of view early.** Judges 11 is now ingested
+  as [[Jephthah's Vow]]: the vow that is kept, in a book with no voice from the sky in it.

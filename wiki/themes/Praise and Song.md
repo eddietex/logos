@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### With tambourines and with dances — Judges 11:34
+
+*His daughter came out to meet him with tambourines and with dances* (11:34), *bətuppîm ûbimḥōlôt*
+(WLC). The women who went out after Miriam at the sea had the same two words (Exodus 15:20), and in the
+WLC of Genesis–Judges the pair occurs only in those two verses. A victory song becomes the beginning of
+a lament. See [[Jephthah's Vow]] and
+[[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### He worshiped — Judges 7:15
 
 *It was so, when Gideon heard the telling of the dream, and its interpretation, that he worshiped*
@@ -189,6 +197,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
 
+- [[Jephthah's Vow]] — Judges 11:34; the daughter's tambourines and dances.
 - [[The Dream of the Barley Loaf]] — Judges 7:15; Gideon worships when he hears the dream.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.
 

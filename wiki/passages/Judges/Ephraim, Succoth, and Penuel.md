@@ -291,7 +291,7 @@ brothers. The next pericope opens with the offer of a crown (8:22).
   like Zebah and Zalmunna*.
 - Judges 8:22–31 — the crown offered, the ephod, and Abimelech (stored WEB; not yet ingested).
 - [[The Fall of Abimelech]] — Judges 9:45–52; Shechem beaten down, and the towers of Shechem and Thebez.
-- Judges 11:31; 12:1–6 — Jephthah's vow; Ephraim at the fords (stored WEB; not yet ingested).
+- [[Jephthah's Vow]] — Judges 11:31; Jephthah's vow. Judges 12:1–6, Ephraim at the fords (stored WEB; not yet ingested).
 - 1 Kings 12:25 — *Then Jeroboam built Shechem … and he went out from there, and built Penuel* (WEB
   checked at bible-api.com; not yet ingested).
 

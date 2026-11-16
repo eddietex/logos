@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### The vow kept — Judges 11:29–40
+
+*Jephthah vowed a vow to Yahweh* (11:30), *wayyiddar … neder* (WLC), the words of Jacob at Bethel (Genesis
+28:20). If Yahweh gives Ammon into his hand, *whatever comes out of the doors of my house to meet me …
+shall be Yahweh's, and I will offer it up for a burnt offering* (11:31). His daughter comes out. *I have
+opened my mouth to Yahweh, and I can't go back* (11:35). She answers with the law of Numbers 30:2 in her
+own words: *do to me according to that which has proceeded out of your mouth* (11:36). *He did with her
+according to his vow which he had vowed* (11:39).
+
+Numbers 30 lets a father void a daughter's vow, not his own. Leviticus 27 prices a vowed person, but his
+vow named a burnt offering, not a person to be valued. The text does not say Yahweh asked for the vow or
+accepted it. Whether the daughter was burned or dedicated unmarried is disputed, and both readings are
+set out on [[Jephthah's Vow]]. See also [[Your Only Son - Genesis 22 and Judges 11]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Yahweh as the hearer — Judges 11:10–11
 
 *Yahweh will be witness between us. Surely we will do what you say* (11:10). The elders seal their
@@ -544,6 +558,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Jephthah's Vow]] — Judges 11:30–39; the vow before the battle, *I can't go back*, and the vow done.
 - [[Jephthah Called from Tob]] — Judges 11:10–11; *Yahweh will be witness between us*; words spoken before Yahweh at Mizpah.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:9, 19; *When I come again in peace*, and the oath *As Yahweh lives*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's oath completed at Shechem (32).

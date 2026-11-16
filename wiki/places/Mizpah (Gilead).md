@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Setting out and coming home — Judges 11:29, 34
+
+*Mizpah of Gilead*, *miṣpēh gilʿād* (WLC), is named twice in 11:29 as the point Jephthah passes from on
+his way to Ammon. He comes back *to Mizpah to his house* (11:34), and his daughter comes out of its doors
+to meet him. See [[Jephthah's Vow]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Jephthah made head — Judges 11:11
 
 *Jephthah went with the elders of Gilead, and the people made him head and chief over them. Jephthah
@@ -23,8 +29,7 @@ camps in Gilead. It is the place where the princes of Gilead ask *Who is the man
 fight against the children of Ammon?* (10:18). The Hebrew is *bammiṣpâ*, *in the watchpost* (WLC).
 
 The next chapter makes it Jephthah's town. He speaks *all his words before Yahweh in Mizpah* (11:11),
-and the text names it *Mizpah of Gilead* (11:29). Those verses are not yet ingested; they are quoted
-from the stored WEB.
+and the text names it *Mizpah of Gilead* (11:29); see [[Jephthah's Vow]].
 
 **Is it Jacob's Mizpah?** Genesis gives a *Mizpah* in the hill country of Gilead, the name added to
 the heap of witness Jacob and Laban raised: *Yahweh watch between me and you* (Genesis 31:49). Judges
@@ -37,6 +42,7 @@ See [[Israel's Repentance Under Ammon]]. Source: stored WEB Genesis 31:49; Judge
 29; Hebrew of Judges 10:17 from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Appears in
+- [[Jephthah's Vow]] — Judges 11:29, 34; Jephthah's house, where his daughter comes out.
 - [[Jephthah Called from Tob]] — Judges 11:11; Jephthah speaks his words before Yahweh here.
 - [[Israel's Repentance Under Ammon]] — Judges 10:17; Israel encamps here against Ammon.
 
@@ -49,3 +55,4 @@ See [[Israel's Repentance Under Ammon]]. Source: stored WEB Genesis 31:49; Judge
 - Israel gathers and encamps against Ammon — Judges 10:17
 - The princes of Gilead ask who will begin the fight — Judges 10:18
 - Jephthah is made head and chief, and speaks his words before Yahweh — Judges 11:11
+- Jephthah sets out against Ammon, and comes home to his daughter — Judges 11:29, 34

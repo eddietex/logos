@@ -7,13 +7,19 @@ tags: [place]
 
 ## Overview
 
+### Where the pursuit starts — Judges 11:33
+
+*He struck them from Aroer until you come to Minnith, even twenty cities* (11:33). The text does not say
+which Aroer. The Arnon-valley town was just named among Israel's cities (11:26). The Aroer *near Rabbah*
+(Joshua 13:25) would put the twenty cities inside Ammon's own land. The wiki leaves the question open,
+and keeps one page for the Transjordan Aroer(s). See [[Jephthah's Vow]] and [[Minnith]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Held three hundred years — Judges 11:26
 
 *Aroer and its towns* are among the places Israel has lived for *three hundred years* (11:26). Named with
 Heshbon and *the cities … along by the side of the Arnon*, this is the Arnon-valley Aroer (Deuteronomy
 2:36), not the Aroer near Rabbah (Joshua 13:25). Judges 11:33 names Aroer again as the start of
-Jephthah's pursuit (stored WEB; not yet ingested); which Aroer is meant there is a question for that
-ingest.
+Jephthah's pursuit; which Aroer is meant there is left open (see above).
 
 See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12–28; Deuteronomy 2:36; Joshua 13:25.
 
@@ -57,6 +63,7 @@ Source: stored WEB Numbers 32.
 **Joshua 12:1–24 — the list of kings.** The southern edge of Sihon's rule, *on the edge of the valley of the Arnon* (12:2); Joshua 13:9 repeats the description. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah's Vow]] — Judges 11:33; the start of the twenty cities.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:26; *Aroer and its towns*, held by Israel.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Setting of the Covenant Instruction]] — Deuteronomy 4:44–49.

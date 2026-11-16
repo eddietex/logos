@@ -571,7 +571,7 @@ to where it found him, with everything the same and nothing the same.** See
 - Leviticus 1:1–17 — the *ʿōlâ*, the whole burnt offering, whose procedure verse 9 follows.
 - Deuteronomy 8:2, 16 — God tests Israel forty years *"to know what was in your heart"*, in the same
   verb and the same idiom as 22:1 and 22:12.
-- Judges 11:29–40 — Jephthah's daughter: the vow nobody stops.
+- [[Jephthah's Vow]] — Judges 11:29–40; Jephthah's daughter: the vow nobody stops. See [[Your Only Son - Genesis 22 and Judges 11]].
 - 2 Chronicles 3:1 — *"Mount Moriah"*, the Bible's only other use of the name.
 - Jeremiah 7:31; 19:5; 32:35 — child sacrifice *"which I didn't command, nor did it come into my
   mind"*.

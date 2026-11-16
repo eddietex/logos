@@ -289,8 +289,7 @@ details.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; Yahweh the *hearer* between Jephthah and the elders.
 - [[Hagar and Ishmael]] — Genesis 16:5; *Yahweh judge between me and you*.
 - [[The Three Visitors and Abraham's Intercession]] — Genesis 18:25; *the Judge of all the earth*.
-- Judges 11:29–33 — the Spirit, the vow, and the battle (stored WEB; not yet ingested, see *Jephthah's
-  Vow* on [[Judges]]).
+- [[Jephthah's Vow]] — Judges 11:29–33; the Spirit, the vow, and the battle.
 
 ## Notes
 

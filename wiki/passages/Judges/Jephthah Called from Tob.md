@@ -216,8 +216,7 @@ before Yahweh at 11:30–31.
 - [[Joseph Sold into Slavery]] — Genesis 37:4, 8; *they hated him*; *Will you indeed reign over us?*
 - [[Jacob's Flight from Laban]] — Genesis 31:49–50; Mizpah, and *God is witness between me and you*.
 - [[Rahab and the Spies]] — Joshua 2:1; *a prostitute whose name was Rahab*.
-- Judges 11:29–31 — the Spirit on Jephthah at *Mizpah of Gilead*, and his vow (stored WEB; not yet
-  ingested, see *Jephthah's Vow* on [[Judges]]).
+- [[Jephthah's Vow]] — Judges 11:29–31; the Spirit on Jephthah at *Mizpah of Gilead*, and his vow.
 
 ## Notes
 

@@ -13,7 +13,7 @@ tags: [connection]
   *"With whomever of your servants it is found, let him die, and we also will be my lord's slaves"*
 - **Genesis 35:16–19** — [[Return to Bethel; the Deaths of Rachel and Isaac]]; [[Rachel]] dies in
   childbirth four chapters after the first oath
-- **Judges 11:30–40** — Jephthah's vow, the other Old Testament oath that binds a speaker to a person
+- **Judges 11:30–40** — [[Jephthah's Vow]]; the other Old Testament oath that binds a speaker to a person
   he did not have in mind
 - **1 Samuel 14:24–45** — Saul's oath, and Jonathan eating the honey
 - **Exodus 22:3–4** — [[Laws of Property and Restitution]]; the later law for a stolen thing

@@ -12,6 +12,13 @@ speaks of the Spirit as God's. It opened with Numbers 11, when the Spirit is fir
 is not yet a full survey of the wiki's earlier books.
 
 
+### On Jephthah, before the vow — Judges 11:29
+
+*Then Yahweh's Spirit came on Jephthah*, *wattəhî ʿal-yiptāḥ rûaḥ YHWH* (WLC), Othniel's clause (3:10).
+He marches through Gilead and Manasseh to Ammon, and makes his vow (11:30–31). The Spirit comes first, and
+the vow comes after it. The text does not say the vow was needed, and the Spirit does not stop it. See
+[[Jephthah's Vow]] and [[The Spirit Came on Him - Balaam, Othniel, and Jephthah]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### An evil spirit from God — Judges 9:23
 
 *Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt
@@ -111,6 +118,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 
 ## Key passages
 
+- [[Jephthah's Vow]] — Judges 11:29; the Spirit on Jephthah, followed by his vow.
 - [[The Fall of Abimelech]] — Judges 9:23; *God sent an evil spirit between Abimelech and the men of Shechem*.
 - [[The Fleece]] — Judges 6:34; *Yahweh's Spirit came on Gideon*, in Hebrew *clothed*.
 - [[Othniel the First Judge]] — Judges 3:10; *Yahweh's Spirit came on him*.

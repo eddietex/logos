@@ -22,7 +22,8 @@ passage for the readings.
 
 *However the king of the children of Ammon didn't listen to the words of Jephthah which he sent him*
 (11:28). The text gives him no name and no further words. Judges 11:32–33 says Yahweh delivered Ammon
-into Jephthah's hand (stored WEB; not yet ingested).
+into Jephthah's hand, and Ammon was *subdued*; the king himself is not mentioned again. See
+[[Jephthah's Vow]].
 
 The qualifier follows the rule for figures known by a title: keyed to the narrative, not to a dynasty.
 
@@ -33,8 +34,10 @@ Numbers 21:24, 26, 29.
 - Makes war on Israel in Gilead — Judges 11:4
 - Claims the land from the Arnon to the Jabbok and demands its return — Judges 11:13
 - Does not listen to Jephthah's second message — Judges 11:28
+- His people are struck and subdued from Aroer to Minnith — Judges 11:32–33
 
 ## Appears in
+- [[Jephthah's Vow]] — Judges 11:32–33; his people subdued; he is not named.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; the claim, and the refusal to listen.
 
 ## Related people

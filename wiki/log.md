@@ -26998,3 +26998,63 @@ Numbers 21:29 and Judges 11:24 in the five files; *rîb* and *lāḥam* in 11:25
 Judges only at 2:18–19 and 11:27; *yišpōṭ … bên* in Genesis 16:5 and 31:53; *hăšōpēṭ* in Genesis 18:25.
 Reported, not checked: the names Milcom and Molech for Ammon's god (1 Kings 11, not stored). No Greek
 text was consulted.
+
+## [2026-11-15] ingest | Judges 11.29-40 — Jephthah's Vow
+
+Unattended run (`/ingest auto`). Yahweh's Spirit comes on Jephthah, and before the battle he vows a
+burnt offering of *whatever comes out of the doors of my house to meet me*. Yahweh gives Ammon into his
+hand, twenty cities from Aroer to Minnith and Abel Keramim. His only child, his daughter, comes out to
+meet him with tambourines and dances. *I have opened my mouth to Yahweh, and I can't go back.* She holds
+him to it, mourns her virginity two months on the mountains, returns, and *he did with her according to
+his vow*. The daughters of Israel recount her four days a year. The discussion step was written into
+the passage page.
+
+Created: the passage page [[Jephthah's Vow]]; one person ([[Jephthah's Daughter]]); two places
+([[Minnith]], [[Abel Keramim]]); two connections ([[Your Only Son - Genesis 22 and Judges 11]],
+[[With Tambourines and with Dances - Miriam, Jephthah's Daughter, and the Daughters of Shiloh]]).
+
+Revised: people [[Jephthah]], [[King of Ammon (of Jephthah's time)]], [[Manasseh]], [[Isaac]],
+[[Miriam]]; places [[Gilead]], [[Ammon]], [[Aroer]], [[Mizpah (Gilead)]]; nine themes
+([[Oaths and Vows]], [[Sacrifice and Offering]], [[Mourning and Lament]], [[The Spirit of God]],
+[[Vengeance]], [[Remembrance]], [[Praise and Song]], [[War]], [[Language and Speech]]); seven
+connections ([[Child Sacrifice and the Redemption of the Firstborn]],
+[[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]],
+[[When I Return in Peace - Jacob's Vow, Gideon's Threat, and Jephthah's Vow]],
+[[The Spirit Came on Him - Balaam, Othniel, and Jephthah]],
+[[Yes, He Will Be Blessed - The Irrevocable Word]],
+[[Whoever You Find Your Gods With - Two Rash Oaths Over a Search]],
+[[The Valley of Achor - Trouble Turned to a Door of Hope]]); passages [[Jephthah Called from Tob]],
+[[Jephthah's Message to the King of Ammon]], [[Ephraim, Succoth, and Penuel]], [[The Binding of Isaac]],
+and [[Vows of Men and Women]] (forward references now linked). Also updated the book page (box checked,
+overview, key themes/people/places), the books index (29 / 42), the people (F-M), places, themes, and
+connections (A-C, O-S, T-Z) indexes, and the dashboard counts. Frontmatter totals: 465 passages, 327
+people, 585 places, 88 themes, 887 connections.
+
+Readings recorded, not resolved: (1) whether the daughter was offered as a burnt offering or dedicated
+unmarried for life (11:39). [[Child Sacrifice and the Redemption of the Firstborn]] listed the outcome
+as *carried out*; that entry is kept as the plain reading and now carries a note on the dispute rather
+than being overwritten. (2) Whether *wə-* in 11:31 means *and* or *or*. (3) Whether the subject of
+*wattəhî ḥōq* (11:39) is *it* or *she*. (4) Which Aroer is meant at 11:33.
+
+Judgment calls: kept 11:29–40 as planned. The daughter gets a page, *Jephthah's Daughter*, after the
+pattern of *Shua's Daughter*; her companions and the daughters of Israel get none. Minnith and Abel
+Keramim get pages, the second under its usual transliteration with the WEB's *Abelcheramim* as an alias.
+*Manasseh* at 11:29 is added to the existing [[Manasseh]] page, which is still unqualified. No new theme
+for child sacrifice; the existing connection carries it.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 4:11; 22:1–17;
+28:20–21; 31:27; 34:30; 37:29; Exodus 15:20–21; 32:19; Leviticus 18:21; 21:13; 27:2–3, 28–29; Numbers
+16:30; 24:2; 30:2; 31:2–3; Deuteronomy 11:6; 12:31; 22:14–20; Joshua 6:18; 7:25; 13:25; 24:25. 1 Samuel
+18:6 fetched as a single verse from bible-api.com (WEB), 2026-11-15; its Hebrew was not checked. Hebrew
+from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml` through
+`Judg.xml`, including `Lev.xml`, on 2026-11-15. Verified there, across those seven books: *yāḥîd* only
+at Genesis 22:2, 12, 16 and Judges 11:34; *wəhaʿălēhû … ləʿōlâ* (Genesis 22:2) beside *wəhaʿălîtihû
+ʿôlâ* (11:31); *bətuppîm ûbimḥōlôt* only at Exodus 15:20 and Judges 11:34; *məḥōlâ* also at Exodus 32:19
+and Judges 21:21, *tōp* also at Genesis 31:27; *pāṣâ* otherwise only at Genesis 4:11, Numbers 16:30,
+Deuteronomy 11:6; *kāraʿ* causative only at 11:35; *ʿākar* only at Genesis 34:30, Joshua 6:18; 7:25 and
+11:35; *nəqāmâ* otherwise only at Numbers 31:2–3; *bətûlîm* otherwise only at Leviticus 21:13 and
+Deuteronomy 22:14–20; *tānâ* only at Judges 5:11 and 11:40; *ḥōq* only at 11:39 in Judges; *kānaʿ* in
+Judges at 3:30; 4:23; 8:28; 11:33; Minnith and Abel Keramim only at 11:33; no *ḥērem* in 11:29–40; the
+Numbers 30:3 (WEB 30:2) wording *kəkol-hayyōṣēʾ mippîw yaʿăśeh*. Reported, not checked: the *or*
+reading of 11:31 (recalled as David Kimchi's), and the attribution of the lifelong-virginity reading to
+medieval Jewish and later Christian commentators. No Greek text was consulted.

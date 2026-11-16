@@ -292,6 +292,17 @@ Yahweh the Judge be judge today*, the only time Judges gives a speaker the title
 Yahweh. His history follows Numbers' wording and Deuteronomy's theology, adds an embassy to Moab that
 neither records, and denies a fight Joshua 24:9 affirms. The king does not listen.
 
+[[Jephthah's Vow]] (11:29–40) gives Yahweh's answer and Jephthah's. *Yahweh's Spirit came on Jephthah*, and before the
+battle he vows: *whatever comes out of the doors of my house to meet me … I will offer it up for a burnt
+offering*. Yahweh gives Ammon into his hand, twenty cities from Aroer to Minnith, but no years of rest
+follow. His daughter, *his only child*, comes out to meet him *with tambourines and with dances*, the
+words of the women after Miriam at the sea. *I have opened my mouth to Yahweh, and I can't go back.* She
+holds him to it, asks two months to mourn her virginity, and returns, and *he did with her according to
+his vow*. The narrator does not name the act, and whether she was burned or dedicated unmarried is
+disputed. Her one other memorial is a custom: the daughters of Israel go every year to *recount* her
+four days. *Yāḥîd*, *only*, otherwise belongs in the first seven books to Isaac on Moriah; here no voice
+stops the father.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -342,7 +353,7 @@ merge, or reorder them freely.
 - [x] [[Israel's Repentance Under Ammon]] — Judges 10:6–18
 - [x] [[Jephthah Called from Tob]] — Judges 11:1–11
 - [x] [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28
-- [ ] Jephthah's Vow — Judges 11:29–40
+- [x] [[Jephthah's Vow]] — Judges 11:29–40
 - [ ] Shibboleth — Judges 12:1–7
 - [ ] Ibzan, Elon, and Abdon — Judges 12:8–15
 - [ ] The Announcement of Samson's Birth — Judges 13:1–25
@@ -385,6 +396,9 @@ merge, or reorder them freely.
 - [[Redemption]] — *who saved them* (2:16); Tola *arose to save Israel* (10:1); *I will save you no more* (10:13).
 - [[Sin]] — *We have sinned against you*, the first quoted confession (10:10, 15).
 - [[Judgment]] — *May Yahweh the Judge be judge today* (11:27).
+- [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39).
+- [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
+- [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
 - [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
 - [[Divine Grief and Relenting]] — *it grieved Yahweh* (2:18); *his soul was grieved for the misery of Israel* (10:16).
 
@@ -417,6 +431,8 @@ merge, or reorder them freely.
 - [[Tola (son of Puah)]] — of Issachar; *arose to save Israel* and judged twenty-three years (10:1–2).
 - [[Jair (the Gileadite)]] — judged twenty-two years; thirty sons on thirty donkey colts (10:3–5).
 - [[Issachar]] — Tola's tribe (10:1); *the princes of Issachar were with Deborah* (5:15).
+- [[Jephthah]] — the Gileadite made head by contract (11:1–11); argues with Ammon (11:12–28); vows, and keeps the vow (11:29–40).
+- [[Jephthah's Daughter]] — his only child, who comes out to meet him and is given up to his vow (11:34–40).
 - [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
@@ -448,4 +464,5 @@ merge, or reorder them freely.
 - [[Ammon]] — oppresses Gilead eighteen years (10:7–9), and is fought by Jephthah (11:1–12:7).
 - [[The Arnon]], [[The Jabbok]], [[Heshbon]], [[Aroer]], [[Jahaz]] — the disputed land and Sihon's battle (11:13–26).
 - [[Kadesh]], [[Edom]], [[Moab (place)]], [[The Red Sea]] — the wilderness road retold (11:16–18).
-- [[Mizpah (Gilead)]] — Israel's camp against Ammon (10:17); Jephthah's town (11:11, 29).
+- [[Mizpah (Gilead)]] — Israel's camp against Ammon (10:17); Jephthah's town (11:11, 29, 34).
+- [[Minnith]] and [[Abel Keramim]] — the end of Jephthah's twenty cities (11:33).

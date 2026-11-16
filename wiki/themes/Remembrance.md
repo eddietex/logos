@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A custom in Israel — Judges 11:39–40
+
+*It was a custom in Israel that the daughters of Israel went yearly to celebrate the daughter of
+Jephthah the Gileadite four days in a year* (11:39–40). *Custom* is *ḥōq*, *statute* (WLC), its only
+occurrence in Judges. *Celebrate* is *tānâ*, *to recount*, the verb of *there they will rehearse Yahweh's
+righteous acts* (5:11). Her name is not kept, but the story is, by women telling it every year. See
+[[Jephthah's Vow]] and [[Jephthah's Daughter]]. Source: stored WEB Judges 11:29–40; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The road remembered as evidence — Judges 11:15–26
 
 Jephthah tells the journey from Egypt to the Jabbok to a foreign king as proof of title (11:15–22), and
@@ -829,6 +837,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[Jephthah's Vow]] — Judges 11:39–40; a yearly telling of the daughter's story.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15–26; the wilderness road retold as evidence, three centuries on.
 
 - [[Abimelech Made King at Shechem]] — Judges 9:2; *Remember also that I am your bone and your flesh*.

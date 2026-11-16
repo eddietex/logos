@@ -25,7 +25,7 @@ tags: [connection]
   27:29's curse-and-bless clause spoken back in the same order.
 - **Joshua 9:19–20** — the Gibeonites obtain a treaty by fraud, and Israel's leaders keep it: *"We
   have sworn to them by Yahweh, the God of Israel. Now therefore we may not touch them."*
-- **Judges 11:35** — Jephthah: *"I have opened my mouth to Yahweh, and I can't go back."*
+- [[Jephthah's Vow]] — **Judges 11:35** — Jephthah: *"I have opened my mouth to Yahweh, and I can't go back."*
 - **1 Samuel 15:29** — *"Also the Strength of Israel will not lie nor repent; for he is not a man,
   that he should repent."*
 - **Isaiah 55:11** — *"so is my word that goes out of my mouth: it will not return to me void."*
@@ -84,6 +84,11 @@ binding word obtained by fraud, discovered as fraud, and honoured anyway.** The 
 worn-out shoes with mouldy bread and are found out three days later; Israel keeps the treaty for
 centuries, and 2 Samuel 21 has famine sent because Saul broke it. **In both stories the deceiver's
 gain is not clawed back, and the deceived party's word is what holds.**
+
+**Judges 11 now ingested.** *I can't go back* is *wəlōʾ ʾûkal lāšûb* (11:35, WLC). His daughter states the
+rule herself, *do to me according to that which has proceeded out of your mouth* (11:36), close to Numbers
+30:2. Unlike Isaac's blessing or Israel's oath to Gibeon, Jephthah's word had no fraud behind it. It was
+made rashly, before he knew who would come out of the door, and it bound him anyway. See [[Jephthah's Vow]].
 
 ### The counter-cases, which matter
 
