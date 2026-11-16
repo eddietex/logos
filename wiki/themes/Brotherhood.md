@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Because he is your brother — Judges 9:18, 21
+
+Jotham gives Shechem back its own reason. *He is our brother*, the town said (9:3). Jotham says it made
+*Abimelech, the son of his female servant, king over the men of Shechem, because he is your brother*
+(9:18), *kî ʾăḥîkem hûʾ* (WLC). And he charges the town, *you have risen up against my father's house
+today*, with the verb of Cain, who *rose up against Abel, his brother* (Genesis 4:8). Then he flees
+*for fear of Abimelech his brother* (9:21). The same man is Shechem's brother and Jotham's, and the
+word means opposite things in the two mouths. See [[Jotham's Fable]]. Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### He is our brother — Judges 9:1–6
 
 Abimelech goes to his *mother's brothers* and tells Shechem *I am your bone and your flesh* (9:2).
@@ -395,6 +404,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jotham's Fable]] — Judges 9:18, 21; *because he is your brother*, and *for fear of Abimelech his brother*.
 
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; *He is our brother*; seventy brothers killed on one stone.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; Gideon's brothers avenged; Israelite towns punished; Ephraim calmed.

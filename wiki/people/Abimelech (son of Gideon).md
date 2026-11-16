@@ -41,10 +41,20 @@ of Yahweh is spoken in the scene. See
 [[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]] and
 [[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]].
 
-Jotham's fable and curse (9:7–21), his three years as *prince over Israel* (9:22), and his death are
-ahead (stored WEB; not yet ingested).
+His three years as *prince over Israel* (9:22) and his death are ahead (stored WEB; not yet ingested).
 
 See [[Gideon's Ephod and Death]] and [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 37:27; Judges 8:23, 30–31; 9:1–7, 22; Hebrew of Judges 8:31; 9:2–6 from the WLC (OpenScriptures morphhb), 2026-11-15.
+
+### The bramble — Judges 9:7–21
+
+Jotham tells Shechem the fable of the trees from Mount Gerizim. The olive, fig, and vine will not leave
+their fruit to be king. The bramble will: *come and take refuge in my shade; and if not, let fire come
+out of the bramble, and devour the cedars of Lebanon* (9:15). Jotham never says *Abimelech is the
+bramble*, but he applies the bramble's terms to him. Abimelech is *the son of his female servant*, made
+king *because he is your brother* (9:18). If Shechem dealt *truly and righteously*, let it rejoice in
+him. If not, *let fire come out from Abimelech, and devour the men of Shechem … and let fire come out
+from the men of Shechem … and devour Abimelech* (9:20). Abimelech does not answer. Jotham flees
+*for fear of Abimelech his brother* (9:21). See [[Jotham's Fable]]. Source: stored WEB Judges 9:7–21.
 
 ## Timeline / key events
 - Born to Gideon's concubine in Shechem, and named by Gideon — Judges 8:31
@@ -53,6 +63,7 @@ See [[Gideon's Ephod and Death]] and [[Abimelech Made King at Shechem]]. Source:
 ## Appears in
 - [[Gideon's Ephod and Death]] — Judges 8:31.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6.
+- [[Jotham's Fable]] — Judges 9:7–21; the bramble of the fable, and the target of the curse.
 
 ## Related people
 - [[Gideon]] — his father, who refused to rule and named him *Abimelech*.

@@ -24,13 +24,29 @@ king's son is hidden while the royal sons are killed; see
 The page is qualified because Judah later has a king named Jotham, *Jotham his son reigned in his
 place* (2 Kings 15:7, WEB checked at bible-api.com; not yet ingested).
 
-### What is ahead — Judges 9:7–21, 57 (stored WEB; not yet ingested)
+### The fable from Gerizim — Judges 9:7–21
 
-When he hears that Abimelech has been made king, he stands *on the top of Mount Gerizim* and tells the
-men of Shechem the fable of the trees and the bramble (9:7–15). He charges them with the killing of his
-father's sons *on one stone* (9:18), curses them and Abimelech with fire, and flees to Beer *for fear of
-Abimelech his brother* (9:21). The chapter's last words are *the curse of Jotham the son of Jerubbaal
-came on them* (9:57). These will be written up when those verses are ingested.
+*When they told it to Jotham, he went and stood on the top of Mount Gerizim, and lifted up his voice,
+cried out, and said to them, "Listen to me, you men of Shechem, that God may listen to you"* (9:7). The
+son who hid comes out to speak, on the mountain where Israel was to *set the blessing* (Deuteronomy
+11:29). His is the only voice in Judges 9 that names God.
+
+He tells the Bible's first fable. The olive, the fig, and the vine refuse to be king, because each
+would have to leave its fruit *to wave back and forth over the trees*. The bramble accepts, on terms:
+*take refuge in my shade*, or fire *out of the bramble* (9:8–15). He decodes only the bramble. Then he
+puts the town's choice to it twice, *if you have dealt truly and righteously*, *beʾĕmet ûbətāmîm*, the
+pair Joshua used at Shechem (Joshua 24:14, WLC). Between the two he tells his father's story, *my father
+fought for you, and risked his life*, and the charge, *you have … slain his sons, seventy persons, on
+one stone* (9:17–18). He calls Abimelech *the son of his female servant* and throws back Shechem's
+*because he is your brother*. His curse is fire both ways, from Abimelech against Shechem and Beth
+Millo, and from them against Abimelech (9:20).
+
+Then *Jotham ran away, and fled, and went to Beer, and lived there, for fear of Abimelech his brother*
+(9:21). He is not seen again. The chapter's last words are *the curse of Jotham the son of Jerubbaal
+came on them* (9:57, stored WEB; not yet ingested). See [[Jotham's Fable]],
+[[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]], and [[Beer (Jotham's refuge)]].
+Source: stored WEB Deuteronomy 11:29; Joshua 24:14; Judges 9:7–21, 57; Hebrew WLC (OpenScriptures
+morphhb), 2026-11-15.
 
 See [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 3:10; Joshua 10:16; Judges 8:20; 9:5,
 7–21, 57; 2 Kings 11:2; 15:7 checked at bible-api.com (WEB); Hebrew WLC (OpenScriptures morphhb),
@@ -38,9 +54,13 @@ See [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 3:10; Joshua 
 
 ## Timeline / key events
 - The youngest of Gideon's sons; survives Abimelech's killing of the seventy because he hid — Judges 9:5
+- Tells the fable of the trees from Mount Gerizim and curses Abimelech and Shechem — Judges 9:7–20
+- Flees to Beer *for fear of Abimelech his brother* — Judges 9:21
+- *The curse of Jotham* comes on Shechem — Judges 9:57
 
 ## Appears in
 - [[Abimelech Made King at Shechem]] — Judges 9:5.
+- [[Jotham's Fable]] — Judges 9:7–21.
 
 ## Related people
 - [[Gideon]] — his father, named *Jerubbaal* in this chapter.
@@ -48,4 +68,4 @@ See [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 3:10; Joshua 
 - [[Jether (son of Gideon)]] — the firstborn, at the other end of the seventy.
 
 ## Themes associated
-- [[Brotherhood]] · [[Life and Death]]
+- [[Brotherhood]] · [[Life and Death]] · [[Parables]] · [[Curse]] · [[Integrity]]

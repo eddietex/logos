@@ -127,8 +127,20 @@ from the wording. The town of the covenant stone is now the town of the first ki
 See [[Abimelech Made King at Shechem]] and [[Beth Millo (Shechem)]]. Source: stored WEB Genesis 12:6;
 35:4; Joshua 24:26; Judges 9:1–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
+### Jotham's fable — Judges 9:7–21
+
+From the top of [[Mount Gerizim]] above the town, Jotham addresses *you men of Shechem*. He tells the
+fable of the trees and the bramble and asks whether the town made Abimelech king *truly and
+righteously*, *beʾĕmet ûbətāmîm* (9:16, 19). It is the pair Joshua used here: *serve him in sincerity
+and in truth* (Joshua 24:14, WLC). He charges the town, not only Abimelech, with the seventy: *you have
+risen up against my father's house today, and have slain his sons* (9:18). His curse is fire from
+Abimelech on *the men of Shechem, and the house of Millo*, and fire from them on him (9:20). See
+[[Jotham's Fable]] and [[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]]. Source: stored WEB
+Joshua 24:14; Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Appears in
 
+- [[Jotham's Fable]] — Judges 9:7–21; addressed and cursed by Jotham from Gerizim.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; Abimelech chosen and made king by the oak of the pillar.
 
 - [[Gideon's Ephod and Death]] — Judges 8:31, 33; Gideon's concubine and Abimelech; Baal Berith.
@@ -207,5 +219,6 @@ See [[Abimelech Made King at Shechem]] and [[Beth Millo (Shechem)]]. Source: sto
 - Gideon's concubine in Shechem bears Abimelech — Judges 8:31, [[Gideon's Ephod and Death]]
 - Abimelech chosen by *the men of Shechem* and made king by the oak of the pillar — Judges 9:1–6,
   [[Abimelech Made King at Shechem]]
-- Jotham's fable from Gerizim, and the destruction of the city — Judges 9:7–57
+- Jotham's fable from Gerizim, addressed to *the men of Shechem* — Judges 9:7–21, [[Jotham's Fable]]
+- The destruction of the city — Judges 9:22–57
 - The kingdom divides under Rehoboam — 1 Kings 12:1–19

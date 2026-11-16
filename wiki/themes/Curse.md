@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The curse of Jotham — Judges 9:20, 57
+
+Jotham's curse has no curse-word in it (no *ʾārar* or *qəlālâ* in 9:20, WLC). It is a wish, *let fire
+come out*, given twice, in which fire goes both ways: *let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and
+let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech* (9:20).
+It is conditioned: *if not*, if they did not deal *truly and righteously* (9:16, 19). The narrator names
+it only at the end, *the curse of Jotham the son of Jerubbaal came on them* (9:57, stored WEB; not yet
+ingested). It is spoken from Mount Gerizim, the mountain of the blessing (Deuteronomy 11:29). See
+[[Jotham's Fable]]. Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### *Curse Meroz* — Judges 5:23
 
 *'Curse Meroz,' said Yahweh's angel. 'Curse bitterly its inhabitants, because they didn't come to
@@ -350,6 +360,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[Jotham's Fable]] — Judges 9:20, 57; fire both ways, spoken from Gerizim.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam called *to curse you* (9); the threat of verse 20.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *all the evil things* matched to the good (15).

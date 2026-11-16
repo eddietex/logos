@@ -23,6 +23,8 @@ tags: [connection]
   (WEB checked at bible-api.com; not yet ingested)
 - **1 Samuel 12:12** — *"you said to me, 'No, but a king shall reign over us;' when Yahweh your God was
   your king."* (WEB checked at bible-api.com; not yet ingested)
+- [[Jotham's Fable]] — **Judges 9:8, 14–15** — *The trees set out to anoint a king over themselves* … *Then all
+  the trees said to the bramble, 'Come and reign over us.'* (stored WEB)
 
 ## Analysis
 
@@ -57,6 +59,17 @@ refused the first two. His son's question keeps the sons and the one, and drops 
 *made Abimelech king*, *wayyamlîkû … ləmelek* (9:6): the hiphil of *mālak* occurs in Genesis–Judges only
 at 9:6, 16, 18 (WLC). Gideon's son is the first person in those books made king, and the word Gideon's
 exchange avoided, *king*, arrives with him.
+
+### The fable of the trees — Judges 9:7–21
+
+Jotham's fable puts the question of 8:22–23 into a story. The trees want a king. The good trees refuse,
+because kingship would mean leaving their fruit *to wave back and forth over the trees*. Only the
+bramble, which has nothing to give, accepts. The fable uses *mālak*, *reign*, not 8:23's *māšal*, *rule*
+(WLC). Read with Gideon's *Yahweh shall rule over you*, the fable can be heard as against human kingship
+itself. Read with its application, *if you have dealt truly and righteously, in that you have made
+Abimelech king* (9:16), it judges this king and this choice. The wiki notes both readings; 1 Samuel 8
+will raise the question again. See [[Jotham's Fable]]. Source: stored WEB Judges 8:22–23; 9:7–21;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

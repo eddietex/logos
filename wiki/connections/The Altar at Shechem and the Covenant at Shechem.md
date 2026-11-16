@@ -29,6 +29,8 @@ tags: [connection]
   at Shechem (9:4).
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; Shechem pays Abimelech from Baal Berith's house and
   makes him king *by the oak of the pillar that was in Shechem*.
+- [[Jotham's Fable]] — Judges 9:7–21; from Gerizim, Jotham asks whether Shechem dealt *truly and
+  righteously*, the pair of Joshua 24:14.
 
 ## Analysis
 
@@ -96,7 +98,10 @@ The thread has a second half that the first half does not prepare for.
   for the oak of Moreh; Genesis 35:4 (*ʾēlâ*) and Joshua 24:26 (*ʾallâ*) use other words, so the
   thread's *one tree* is a reading of the place, not of the vocabulary. *Muṣṣāb*, *set up*, may recall
   Joshua's stone *set up there under the oak*, though the verbs differ (*nāṣab* here, *qûm* in Joshua
-  24:26, WLC). See [[Abimelech Made King at Shechem]].
+  24:26, WLC). See [[Abimelech Made King at Shechem]]. Jotham's question from Gerizim, *if you have
+  dealt truly and righteously*, *beʾĕmet ûbətāmîm* (9:16, 19), takes up Joshua's *serve him in sincerity
+  and in truth*, *bətāmîm ûbeʾĕmet* (Joshua 24:14, WLC), in the same town. See [[Jotham's Fable]] and
+  [[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]].
 - **1 Kings 12** — *"Rehoboam went to Shechem, for all Israel had come to Shechem to make him king"*
   (12:1). He refuses the elders, and ten tribes walk out. The kingdom divides on the ground where
   Joshua had bound it together, and Jeroboam then rebuilds Shechem as his capital before moving on.

@@ -7,6 +7,8 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Jotham's Fable]] — Judges 9:7; Jotham speaks a curse from *the top of Mount Gerizim*.
+
 - [[The Law Read at Mount Ebal]] — Joshua 8:30–35.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
@@ -88,6 +90,18 @@ The tribal arrangement and responsive curses in 27:11–26 are now ingested;
 Joshua's narrated implementation is also distinct from this command.
 
 Source: stored WEB Deuteronomy 27:1–10 and the local Torah texts compared above.
+
+### A curse from the mountain of blessing — Judges 9:7–21
+
+The next time anyone stands on Gerizim, it is Jotham, alone, after the killing of his brothers. *He
+went and stood on the top of Mount Gerizim … and said to them, "Listen to me, you men of Shechem, that
+God may listen to you"* (Judges 9:7). The blessing was to be set there (Deuteronomy 11:29), and six
+tribes were to stand there *to bless the people* (27:12). Jotham tells the fable of the trees and ends
+with a curse of fire on Abimelech and Shechem (9:20), which the narrator later calls *the curse of
+Jotham* (9:57, stored WEB; not yet ingested). In the WLC of Genesis–Judges *Gerizim* occurs only at
+Deuteronomy 11:29; 27:12; Joshua 8:33; and Judges 9:7. The text does not comment on the reversal, and
+the wiki does not claim the writer intended one; the place itself sets it up. See [[Jotham's Fable]].
+Source: stored WEB Judges 9:7–21, 57; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

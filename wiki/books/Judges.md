@@ -228,6 +228,17 @@ survives, *for he hid himself*. Then the men of Shechem and the house of Millo m
 of the pillar*. No outside oppressor appears, nobody cries to Yahweh, and God is not named. It is the
 first time in Genesis–Judges that anyone is *made king*.
 
+[[Jotham's Fable]] (9:7–21) is the answer. The one son who hid stands on Mount Gerizim, the mountain of
+the blessing, and calls to Shechem, *Listen to me, you men of Shechem, that God may listen to you*. It is
+the first time God is named in the chapter. He tells the Bible's first fable. The trees go to anoint a
+king. The olive, the fig, and the vine refuse to leave their oil, fruit, and wine *to wave back and
+forth over the trees*. The bramble accepts: *come and take refuge in my shade; and if not, let fire come
+out of the bramble, and devour the cedars of Lebanon*. Jotham asks whether Shechem made Abimelech king
+*truly and righteously*, the pair Joshua used at Shechem (Joshua 24:14). He reminds them that *my father
+fought for you, and risked his life*, and charges them with the seventy killed *on one stone*. His
+curse is fire both ways, from Abimelech on Shechem and from Shechem on Abimelech. Then he flees to Beer
+*for fear of Abimelech his brother*. The rest of the chapter carries the curse out.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -272,7 +283,7 @@ merge, or reorder them freely.
 - [x] [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21
 - [x] [[Gideon's Ephod and Death]] — Judges 8:22–35
 - [x] [[Abimelech Made King at Shechem]] — Judges 9:1–6
-- [ ] Jotham's Fable — Judges 9:7–21
+- [x] [[Jotham's Fable]] — Judges 9:7–21
 - [ ] The Fall of Abimelech — Judges 9:22–57
 - [ ] Tola and Jair — Judges 10:1–5
 - [ ] Israel's Repentance Under Ammon — Judges 10:6–18
@@ -311,7 +322,10 @@ merge, or reorder them freely.
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
-- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
+- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the trees seek a king (9:8–15); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
+
+- [[Parables]] — Jotham's fable of the trees, the Bible's first (9:8–15).
+- [[Curse]] — *Curse Meroz* (5:23); *the curse of Jotham* (9:20, 57).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -335,7 +349,7 @@ merge, or reorder them freely.
 - [[Jether (son of Gideon)]] — Gideon's firstborn, afraid to kill the kings (8:20).
 - [[Abimelech (son of Gideon)]] — Gideon's son by a concubine in Shechem (8:31); kills his seventy brothers and is made king at Shechem (9:1–6).
 - [[Baal Berith]] — the god Israel takes after Gideon's death (8:33), whose house pays for the killing (9:4).
-- [[Jotham (son of Gideon)]] — the youngest son, who hid and survived (9:5).
+- [[Jotham (son of Gideon)]] — the youngest son, who hid and survived (9:5); tells the fable of the trees from Gerizim, and flees to Beer (9:7–21).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -352,3 +366,5 @@ merge, or reorder them freely.
 - [[Succoth (Transjordan)]] and [[Peniel]] — refuse Gideon bread and are punished (8:5–17).
 - [[Shechem (city)]] — home of Gideon's concubine, and of the house of Baal Berith (8:31, 33); Abimelech made king by the oak of the pillar (9:6).
 - [[Beth Millo (Shechem)]] — *the house of Millo*, which joins in making Abimelech king (9:6).
+- [[Mount Gerizim]] — where Jotham tells his fable (9:7).
+- [[Beer (Jotham's refuge)]] — where Jotham flees (9:21).

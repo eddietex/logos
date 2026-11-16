@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### The trees seek a king — Judges 9:7–21
+
+The Bible's first fable is about kingship. *The trees set out to anoint a king over themselves* (9:8):
+it is the first anointing of a king in Scripture, and the ones doing it are trees. Up to here every
+*māšaḥ* in Genesis–Judges is of a priest, the tabernacle, offerings, or Jacob's pillar (WLC). The olive,
+fig, and vine each refuse to leave their oil, fruit, or new wine *to wave back and forth over the
+trees*. Only the bramble accepts, and its terms are a king's: *take refuge in my shade*, or fire. Jotham
+then asks whether Shechem made Abimelech king *truly and righteously* (9:16). Whether the fable condemns
+kingship as such, or this king and the way he was made, is read both ways; the fable mocks the office,
+and the application judges the choice. See [[Jotham's Fable]] and
+[[The Bramble and the Thistle - Plant Fables in Judges 9 and 2 Kings 14]]. Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### One rule over you — Judges 9:1–6
 
 Gideon's son asks the question his father refused: *Is it better for you that all the sons of
@@ -498,6 +510,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Jotham's Fable]] — Judges 9:7–21; the trees seek a king, and only the bramble accepts.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; *one rule over you*; Abimelech made king at Shechem.
 - [[Gideon's Ephod and Death]] — Judges 8:22–23, 30–31; rule offered and refused; the wives, and the son named *Abimelech*.
 - [[The Kings Struck Down]] — Joshua 12:1–24.

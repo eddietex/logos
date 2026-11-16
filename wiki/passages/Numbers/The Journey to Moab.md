@@ -61,7 +61,7 @@ Complete unit, copied verbatim from stored WEB `raw/bible/Numbers.md`.
 - [[Vaheb]] — Named in Suphah in the excerpt from the Book of the Wars of Yahweh (14). The quotation supplies no complete account of an event there; its precise identification remains uncertain.
 - [[Suphah]] — Named with Vaheb in the cited geographical fragment (14). This is a location in the WEB rendering, not an independently narrated campsite. Its identification remains uncertain.
 - [[Ar]] — The dwelling toward which the slopes of the valleys incline in the quoted fragment (15), associated with Moab’s border. Kept distinct from Moab as a whole; this verse does not equate the city with the entire country.
-- [[Beer]] — The well where Yahweh tells Moses to assemble the people and promises water (16). Israel sings of the well dug by princes and nobles (17–18). This page does not identify it with another similarly named biblical well.
+- [[Beer (well in Moab)]] — The well where Yahweh tells Moses to assemble the people and promises water (16). Israel sings of the well dug by princes and nobles (17–18). This page does not identify it with another similarly named biblical well.
 - [[Mattanah]] — Station reached from the wilderness after the well song, followed by Nahaliel (18–19). The itinerary names it without narrating a separate event or giving a secure modern location.
 - [[Nahaliel]] — Station between Mattanah and Bamoth (19). No separate event or precise location is supplied in this unit.
 - [[Bamoth]] — Station after Nahaliel and before the valley in the field of Moab (19–20). No identification with a similarly named site elsewhere is assumed.

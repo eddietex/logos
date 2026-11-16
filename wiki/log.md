@@ -26710,3 +26710,48 @@ the Westminster Leningrad Codex (OpenScriptures morphhb), Genesis through Judges
 *mālak* (only Judges 9:6, 16, 18), *ʾēlôn* with *nāṣab*, and *ʾāmâ*. Reported, not checked: the meanings
 of *Abimelech*, *Millo*, and *muṣṣāb*, and the sense of the hiphil of *nûs*. No Greek or Latin text was
 consulted.
+
+## [2026-11-15] ingest | Judges 9.7-21 — Jotham's Fable
+
+Unattended run (`/ingest auto`). Ingested Judges 9:7–21 as [[Jotham's Fable]]. Jotham stands on Mount
+Gerizim and calls to *the men of Shechem*. The trees go to anoint a king. The olive, fig, and vine
+refuse to leave their oil, fruit, and new wine *to wave back and forth over the trees*. The bramble
+accepts: *take refuge in my shade*, or fire *devour the cedars of Lebanon*. Jotham asks twice whether
+Shechem dealt *truly and righteously*, recalls that his father *risked his life*, charges the town with
+the seventy *on one stone*, curses with fire both ways, and flees to Beer. The discussion step was
+written into the passage page.
+
+Created: the passage page; one place page ([[Beer (Jotham's refuge)]]); one theme ([[Parables]]); two
+connections ([[The Bramble and the Thistle - Plant Fables in Judges 9 and 2 Kings 14]],
+[[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]]).
+
+Revised: people [[Jotham (son of Gideon)]], [[Abimelech (son of Gideon)]], [[Gideon]]; places
+[[Mount Gerizim]], [[Shechem (city)]], [[Beth Millo (Shechem)]], [[Lebanon]], and the renamed
+[[Beer (well in Moab)]]; five themes ([[Kingship and Empire]], [[Curse]], [[Brotherhood]],
+[[Retribution]], [[Integrity]]); three connections
+([[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]],
+[[The Altar at Shechem and the Covenant at Shechem]],
+[[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]]). Also updated the book page (box checked,
+overview, key themes, people, places), the books index (23 / 42), the people (A-E, F-M), places, themes,
+and connections (A-C, I-N, T-Z) indexes, the Beer links in [[Numbers]] and [[The Journey to Moab]], and
+the dashboard counts. Frontmatter totals: 459 passages, 318 people, 574 places, 88 themes, 877
+connections.
+
+Judgment calls: kept the planned boundary (9:21 ends with Jotham's flight; 9:22 begins Abimelech's
+three years). The bare `Beer` page (Numbers 21:16) was renamed `Beer (well in Moab)` and Jotham's Beer
+given its own page, `Beer (Jotham's refuge)`, qualified by the person it appears with, since nothing
+identifies the two. Opened a [[Parables]] theme for the Bible's first fable. The plants got no pages.
+The page leaves open whether the fable condemns kingship itself or only this king, and whether *nûaʿ*
+(*wave back and forth*) carries Cain's sense of wandering (Genesis 4:12, 14).
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Leviticus,
+Numbers, Deuteronomy, and Joshua. 1 Samuel 10:1 and 2 Kings 14:9–10 were checked at bible-api.com
+(WEB) on 2026-11-15 and are not stored in `raw/`. Hebrew came from a fresh download of the Westminster
+Leningrad Codex (OpenScriptures morphhb), Genesis through Judges, plus `2Kgs.xml` read only for 2 Kings
+14:9, on 2026-11-15. It covered *Gərizzîm*, *māšaḥ* (no king anointed before 9:8), *mālak*, the
+olive/fig/vine set (Deuteronomy 8:8), *dešen*, *mōteq*, *tənûbâ*, *tîrôš*, *ḥādal*, *nûaʿ*, *ʾāṭād*
+(Genesis 50:10–11), *ḥāsâ* (Deuteronomy 32:37), *ṣēl*, *yāṣāʾ* + *ʾēš* + *ʾākal*, *ʾerez*, *ʾĕmet* with
+*tāmîm* (Joshua 24:14; Judges 9:16, 19 only), *gəmûl*, *šālak* with *nepeš*, *qûm*, *ʾāmâ*, *nûs*, and
+*bāraḥ*; and *ḥôaḥ* against *ʾāṭād* in 2 Kings 14:9. Reported, not checked: the identification of the
+bramble, the lexical range of *māšāl* and *parabolē* on the [[Parables]] page, and the view that the
+two plant fables are the Hebrew Bible's only ones. No Greek or Latin text was consulted.

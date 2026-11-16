@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### The cedars of Lebanon — Judges 9:15
+
+In Jotham's fable the bramble threatens the greatest trees: *if not, let fire come out of the bramble,
+and devour the cedars of Lebanon* (9:15). In Genesis–Judges it is the only verse that names the cedar with
+Lebanon; elsewhere in those books cedar, *ʾerez*, is the wood of the cleansing rites (Leviticus 14;
+Numbers 19) and Balaam's *cedar trees beside the waters* (Numbers 24:6) (WLC). Lebanon is an image
+here, not a place anyone goes. Jehoash's fable uses the same picture, *the cedar that was in Lebanon*
+(2 Kings 14:9, WEB checked at bible-api.com; not yet ingested). See [[Jotham's Fable]] and
+[[The Bramble and the Thistle - Plant Fables in Judges 9 and 2 Kings 14]]. Source: stored WEB Judges
+9:15; Numbers 24:6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Mount Lebanon — Judges 3:1–6
 
 *The Hivites who lived on Mount Lebanon* (3) are among the nations Yahweh left *to test Israel*. Joshua
@@ -104,6 +115,7 @@ Source: stored WEB Song of Solomon 6:11–7:9.
 **Joshua 12:1–24 — the list of kings.** *The valley of Lebanon* locates Baal Gad, the western list's northern limit (12:7). See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jotham's Fable]] — Judges 9:15; *the cedars of Lebanon*, in the bramble's threat.
 - [[The Nations Left to Test Israel]] — Judges 3:3; *Mount Lebanon*, home of the Hivites.
 - [[The Land That Remains]] — Joshua 13:1–7.
 - [[The Whole Land Taken]] — Joshua 11:16–23.

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Truly and righteously — Judges 9:16, 19
+
+Jotham's test of Shechem is *beʾĕmet ûbətāmîm*, which WEB renders *truly and righteously*. *Tāmîm* is
+the *t-m-m* word of this page. The pair, reversed, is Joshua's at Shechem: *serve him in sincerity and
+in truth*, *bətāmîm ûbeʾĕmet* (Joshua 24:14). In the WLC of Genesis–Judges they stand together only in
+those three verses. Joshua asked for integrity toward Yahweh. Jotham asks about integrity toward
+Jerubbaal's house, the *kindness* Israel did not show it (8:35). The bramble uses half the phrase,
+*If in truth you anoint me* (9:15). See [[Jotham's Fable]] and
+[[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]]. Source: stored WEB Joshua 24:14; Judges
+8:35; 9:15–19; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The responsive curses — Deuteronomy 27:11–26
 
 Secret idolatry and secret killing are explicitly condemned (15, 24). The public response therefore acknowledges obligations even where an offender might evade ordinary observation.
@@ -269,6 +280,7 @@ unrighteously, are an abomination to Yahweh"* (15–16). See [[Justice, Family D
 [[Honest Weights - Proverbs 11.1, the Torah, and Job 31.6]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jotham's Fable]] — Judges 9:16, 19; *truly and righteously*, Joshua's pair turned on Shechem.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.
 

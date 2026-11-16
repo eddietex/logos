@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### According to the deserving of his hands — Judges 9:16–20, 56–57
+
+Jotham asks whether Shechem has *done to him according to the deserving of his hands* (9:16), *gəmûl*,
+what a man's deeds have earned (only here in Genesis–Judges, WLC). The curse that follows is shaped to
+fit the deed. Abimelech and Shechem acted together against Jerubbaal's house, so the fire will come
+from each against the other (9:20). The chapter ends by saying God did it: *Thus God repaid the
+wickedness of Abimelech … and God repaid all the wickedness of the men of Shechem on their heads; and
+the curse of Jotham the son of Jerubbaal came on them* (9:56–57, stored WEB; not yet ingested). See
+[[Jotham's Fable]]. Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Thorns for Succoth, the tower for Penuel — Judges 8:7, 9, 16–17
 
 Gideon announces punishments and carries them out. To Succoth: *I will tear your flesh with the thorns of
@@ -678,6 +688,7 @@ offense. It is also capped, at forty, for the sake of *"your brother"* (3). The 
 proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jotham's Fable]] — Judges 9:16–20; *the deserving of his hands*, and a curse shaped to the deed.
 
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:7–17; Succoth and Penuel punished by Gideon for refusing bread.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

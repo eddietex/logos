@@ -134,6 +134,15 @@ rule over you* (9:2), with the *māšal* of Gideon's refusal. Then he kills the 
 house* (8:27) and the *kindness* not shown *to the house of Jerubbaal* (8:35) are carried out within
 six verses. See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 8:27, 35; 9:1–6.
 
+**Remembered by his son (9:16–19).** Jotham's speech from Gerizim is the only place Judges 9 tells
+Gideon's story back: *my father fought for you, and risked his life, and delivered you out of the hand
+of Midian* (9:17). *Risked his life* is *wayyašlēk ʾet-napšô minneged*, *threw his life away in front*
+(WLC). The man who asked for signs and went with three hundred is remembered for the risk. Jotham's
+question is whether Shechem has *done to him according to the deserving of his hands* (9:16). The
+good trees of the fable, who will not leave their fruit to be king, speak close to Gideon's *I will not
+rule over you* (8:23), though Jotham does not say that any tree is Gideon. See [[Jotham's Fable]].
+Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Timeline / key events
 
 - Judges 6:11 — threshing wheat in a winepress at Ophrah, hiding from Midian.
@@ -165,6 +174,7 @@ six verses. See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 8:
 - Judges 8:32 — dies *in a good old age*; buried in the tomb of Joash in Ophrah.
 - Judges 8:33–35 — Israel returns to the Baals and shows his house no kindness.
 - Judges 9:1–6 — as *Jerubbaal*: his seventy sons killed at his house in Ophrah by Abimelech; Jotham survives.
+- Judges 9:16–19 — remembered by Jotham: *my father fought for you, and risked his life*.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
@@ -176,6 +186,7 @@ six verses. See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 8:
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21.
 - [[Gideon's Ephod and Death]] — Judges 8:22–35.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6 (as *Jerubbaal*).
+- [[Jotham's Fable]] — Judges 9:16–19 (as *Jerubbaal*).
 
 ## Related people
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian he pursues and kills for his brothers (8:5–21).

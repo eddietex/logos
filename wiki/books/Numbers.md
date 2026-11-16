@@ -460,7 +460,7 @@ merge, or reorder them freely.
 
 - [[Ar]] — the journey to Moab (21:10–20).
 - [[Bamoth]] — the journey to Moab (21:10–20).
-- [[Beer]] — the journey to Moab (21:10–20).
+- [[Beer (well in Moab)]] — the journey to Moab (21:10–20).
 - [[Iyeabarim]] — the journey to Moab (21:10–20).
 - [[Mattanah]] — the journey to Moab (21:10–20).
 - [[Nahaliel]] — the journey to Moab (21:10–20).
