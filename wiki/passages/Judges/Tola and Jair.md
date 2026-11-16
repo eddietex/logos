@@ -136,7 +136,7 @@ Read together, the two notices put forty-five quiet years between the civil war 
 the Ammonite oppression of 10:6–18. In that next passage Israel *again did that which was evil*, and
 serves the gods of seven nations (10:6). The quiet is also a frame. The judge from the west, of
 Issachar, comes before the judge from the east, of Gilead. The next story is about Gilead under
-Ammon, and it will end with Gilead's judge, Jephthah, at war with Ephraim (12:1–6).
+Ammon, and it will end with Gilead's judge, Jephthah, at war with Ephraim (12:1–6; see [[Shibboleth]]).
 
 ## Key verses
 

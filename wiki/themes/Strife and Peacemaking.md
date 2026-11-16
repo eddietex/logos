@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *A man of strife* — Judges 12:1–4
+
+Ephraim brings Jephthah the complaint it brought Gideon (12:1; 8:1). Jephthah answers, *I and my people were
+at great strife with the children of Ammon*, *ʾîš rîb hāyîtî* (WLC), *a man of strife was I*, the only use
+of the noun *rîb* in Judges. He tells Ephraim it failed him, *you didn't save me*, and asks *Why then have
+you come up to me today, to fight against me?* (12:2–3). Gideon's gentle answer turned away wrath (8:3);
+Jephthah's argument does not, and Ephraim's insult makes it war (12:4). See [[Shibboleth]] and
+[[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]]. Source: stored WEB Judges 8:1–3;
+12:1–4; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### *Restore … peaceably* — Judges 11:12–28
 
 Before fighting, Jephthah asks *What have you to do with me?* (11:12). The king offers peace on terms,
@@ -22,7 +32,7 @@ See [[Jephthah's Message to the King of Ammon]]. Source: stored WEB Judges 11:12
 Joash had named his son *Let Baal contend* (6:32). The first to *contend* with him is an Israelite tribe,
 angry not to have been called to the battle. Gideon answers with a proverb that makes Ephraim great and
 himself small, and gives the victory to God, and *their anger was abated* (8:2–3). Jephthah will meet the
-same complaint with an argument, and it will end in war (12:1–6, stored WEB; not yet ingested). See
+same complaint with an argument, and it ends in war (12:1–6; see [[Shibboleth]]). See
 [[Ephraim, Succoth, and Penuel]] and [[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]].
 Source: stored WEB Judges 6:32; 8:1–3; 12:1–6; Proverbs 15:1; Hebrew WLC (OpenScriptures morphhb),
 2026-11-15.
@@ -446,6 +456,7 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[Shibboleth]] — Judges 12:1–4; *a man of strife*, and an answer that does not turn away wrath.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; an embassy before battle, *peaceably*, and *did he ever strive*.
 
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; Ephraim's *rîb*, and the soft answer that ends it.

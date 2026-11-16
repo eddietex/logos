@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### The fords held against Ephraim — Judges 12:5–6
+
+*The Gileadites took the fords of the Jordan against the Ephraimites* (12:5). The test is a word: *Now say
+"Shibboleth"*. Forty-two thousand Ephraimites die *at the fords of the Jordan* (12:6). The crossing Ehud held
+against Moab (3:28), and Ephraim held against Midian (7:24), is now held by one tribe against another. See
+[[Shibboleth]] and [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]]. Source: stored WEB Judges
+3:28; 7:24; 12:5–6.
+
 ### Ammon crosses — Judges 10:8–9
 
 The oppressed are *all the children of Israel that were beyond the Jordan*, and then *the children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim* (8–9).
@@ -390,6 +398,7 @@ the family looks at and does not cross.** See [[Land and Sojourning]].
 
 ## Appears in
 
+- [[Shibboleth]] — Judges 12:5–6; the fords held against Ephraim.
 - [[Israel's Repentance Under Ammon]] — Judges 10:8–9; Ammon crosses west.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:4; Gideon and the three hundred cross, *faint, yet pursuing*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; Ephraim holds the waters; the heads brought *beyond the Jordan*.

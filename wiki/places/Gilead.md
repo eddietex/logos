@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Against Ephraim, and Jephthah's grave — Judges 12:1–7
+
+*Jephthah gathered together all the men of Gilead, and fought with Ephraim* (12:4). Ephraim had mocked them
+as *fugitives of Ephraim … in the middle of Ephraim, and in the middle of Manasseh*. Gilead takes the fords
+of the Jordan and kills every Ephraimite who says *Sibboleth* (12:5–6). Jephthah is buried *in the cities of
+Gilead*, *bəʿārê gilʿād* (12:7, WLC), the only plural burial place in the book's notices. See
+[[Shibboleth]]. Source: stored WEB Judges 12:1–7; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The march to Ammon — Judges 11:29
 
 *Then Yahweh's Spirit came on Jephthah, and he passed over Gilead and Manasseh, and passed over Mizpah of
@@ -191,6 +199,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Shibboleth]] — Judges 12:1–7; Gilead's men fight Ephraim, and Jephthah is buried in its cities.
 - [[Jephthah's Vow]] — Judges 11:29, 40; Jephthah passes over Gilead to Ammon.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; Jephthah's people and father's name; its elders make him head.
 - [[Israel's Repentance Under Ammon]] — Judges 10:8, 17–18; oppressed by Ammon; the princes seek a head.

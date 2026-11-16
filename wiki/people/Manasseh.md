@@ -12,6 +12,13 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### *In the middle of Manasseh* — Judges 12:4
+
+Ephraim's insult places Gilead *in the middle of Ephraim, and in the middle of Manasseh* (12:4), as though
+the Gileadites had no tribe of their own. Gilead was Manasseh's own clan (Numbers 26:29). The war that
+follows at the fords is fought between the tribes of Joseph's two sons. See [[Shibboleth]]. Source: stored
+WEB Judges 12:4; Numbers 26:29.
+
 ### *Gilead and Manasseh* — Judges 11:29
 
 Jephthah *passed over Gilead and Manasseh* on his way to Ammon (11:29). The text names the two side by
@@ -307,6 +314,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Shibboleth]] — Judges 12:4; named in Ephraim's insult of Gilead.
 - [[Jephthah's Vow]] — Judges 11:29; *Gilead and Manasseh*, crossed by Jephthah.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:23; *out of all Manasseh*, in the pursuit.
 - [[The Fleece]] — Judges 6:35; messengers *throughout all Manasseh*.

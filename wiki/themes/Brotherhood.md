@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Joseph's sons at war — Judges 12:4–6
+
+Ephraim and Manasseh were Joseph's two sons, adopted and blessed together by Jacob (Genesis 48:5, 14, 19).
+Gilead was Manasseh's clan (Numbers 26:29). In Judges 12 Ephraim mocks Gilead as *fugitives of Ephraim … in
+the middle of Ephraim, and in the middle of Manasseh*, and Gilead kills forty-two thousand of Ephraim at the
+fords (12:4–6). The war against Benjamin in chapter 20 is the larger form of the same thing. See
+[[Shibboleth]] and [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]. Source: stored
+WEB Genesis 48:5, 14, 19; Numbers 26:29; Judges 12:4–6.
+
 ### Driven out by his brothers — Judges 11:2–3, 7
 
 Gilead's sons by his wife drive out their half-brother: *You will not inherit in our father's house,
@@ -427,6 +436,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Shibboleth]] — Judges 12:4–6; the tribes of Joseph's two sons at war.
 - [[Jephthah Called from Tob]] — Judges 11:2–3, 7; *they drove Jephthah out*; *Jephthah fled from his brothers*; *Didn't you hate me*.
 - [[The Fall of Abimelech]] — Judges 9:24, 56; *Abimelech their brother … to kill his brothers*; *his seventy brothers*.
 - [[Jotham's Fable]] — Judges 9:18, 21; *because he is your brother*, and *for fear of Abimelech his brother*.

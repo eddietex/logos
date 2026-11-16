@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The insult returned — Judges 12:4–5
+
+Ephraim calls the Gileadites *fugitives of Ephraim* (12:4). In the next verse the narrator gives the same
+words, *pəlîṭê ʾeprayim* (WLC), to Ephraim's own men running for the Jordan (12:5). Ephraim had threatened
+to burn Jephthah's house (12:1); it is Ephraim that falls. See [[Shibboleth]] and
+[[We Will Burn Your House - Judges 12.1, 14.15, and 15.6]]. Source: stored WEB Judges 12:1–5; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ### According to the deserving of his hands — Judges 9:16–20, 56–57
 
 Jotham asks whether Shechem has *done to him according to the deserving of his hands* (9:16), *gəmûl*,
@@ -700,6 +708,7 @@ offense. It is also capped, at forty, for the sake of *"your brother"* (3). The 
 proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Shibboleth]] — Judges 12:4–5; *fugitives of Ephraim*, the insult turned back.
 - [[The Fall of Abimelech]] — Judges 9:23–24, 56–57; *God repaid the wickedness* of Abimelech and of Shechem.
 - [[Jotham's Fable]] — Judges 9:16–20; *the deserving of his hands*, and a curse shaped to the deed.
 

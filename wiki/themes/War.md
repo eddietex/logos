@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Tribe against tribe at the fords — Judges 12:1–6
+
+The first war in Judges between Israelite tribes. Ephraim threatens to burn Jephthah's house (12:1); he
+musters Gilead and fights (12:4); Gilead holds the fords of the Jordan and kills every Ephraimite who cannot
+say *Shibboleth*. *At that time, forty-two thousand of Ephraim fell* (12:6). Against Moab at the same fords
+Israel struck *about ten thousand* (3:29); here it loses four times as many at its own hand. See
+[[Shibboleth]] and [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]]. Source: stored WEB Judges
+3:29; 12:1–6.
+
 ### Twenty cities, and no rest — Judges 11:32–33
 
 *Yahweh delivered them into his hand*, in the words of the vow (11:30, 32). Jephthah strikes *from Aroer
@@ -891,6 +900,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Shibboleth]] — Judges 12:4–6; Gilead against Ephraim, forty-two thousand at the fords.
 - [[Jephthah's Vow]] — Judges 11:32–33; twenty cities struck, and Ammon subdued.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; the embassy before the war, and a defensive war argued.
 

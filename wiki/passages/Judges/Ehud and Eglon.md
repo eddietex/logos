@@ -239,7 +239,7 @@ delivered Cushan … into his hand* (3:10) in the narrator's voice. Here the nar
 **The fords.** *Wayyilkədû ʾet-maʿbərôt hayyardēn ləmôʾāb* (28, WLC). Joshua's spies were pursued to
 *the fords of the Jordan* (Joshua 2:7, the same noun). Here Israel holds them. Gideon's men will hold
 the waters against Midian (7:24), and Gilead will hold the fords against Ephraim and kill those who
-cannot say *Shibboleth* (12:5–6, stored WEB). The first time the fords are held, the enemy is Moab;
+cannot say *Shibboleth* (12:5–6; see [[Shibboleth]]). The first time the fords are held, the enemy is Moab;
 the last time, it is a brother tribe. See [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]].
 
 **"Every strong man."** *Kol-šāmēn wəkol-ʾîš ḥāyil* (29, WLC). *Šāmēn* is literally *fat*, the word

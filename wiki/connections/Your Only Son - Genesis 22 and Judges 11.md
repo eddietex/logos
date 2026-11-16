@@ -48,6 +48,15 @@ text never says God wanted it.
 vow* and *she was a virgin* (11:39). [[Jephthah's Vow]] sets out both readings. The parallel of word and
 offering on this page holds on either reading.
 
+**The knife's verb at the fords.** Abraham *took the knife to kill his son*, *lišḥōṭ ʾet-bənô* (Genesis
+22:10, WLC). The verb *šāḥaṭ* (lemma 7819) is in Genesis–Joshua mostly the slaughter of animals for
+sacrifice or food. It is used of killing people there only at Genesis 22:10 and Numbers 14:16. In Judges it
+occurs once, in the pericope after the vow, when Gilead kills each Ephraimite at the fords,
+*wayyišḥāṭûhû* (12:6, WLC). Whatever happened to Jephthah's daughter, the verb of Genesis 22 is used of
+Israelites killed by Israelites at the end of his story. The echo is the wiki's observation; Judges does
+not draw it. See [[Shibboleth]]. Source: stored WEB Genesis 22:10; Numbers 14:16; Judges 12:6; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ## Significance
 
 The two passages are the only places in the first seven books where a father's *only* child is set apart

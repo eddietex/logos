@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Shibboleth* — Judges 12:4–6
+
+A war started by words is decided by a word. Ephraim's insult, *You are fugitives of Ephraim, you
+Gileadites* (12:4), starts the fighting. At the fords a man may answer *No* to *Are you an Ephraimite?*,
+but when told to say *Shibboleth* he says *Sibboleth*, *for he couldn't manage to pronounce it right*
+(12:5–6). *Šibbōlet* and *sibbōlet* (WLC) differ only in the first consonant, *šîn* against *sāmek*. The
+narrator says only that he could not pronounce it; the account of a regional *s* for *sh* is the usual
+explanation, not the text's. A lie is possible; an accent is not. See [[Shibboleth]]. Source: stored WEB
+Judges 12:4–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### I have opened my mouth — Judges 11:35–36
 
 *I have opened my mouth to Yahweh, and I can't go back* (11:35). The verb *pāṣâ* is otherwise used in the
@@ -732,6 +742,7 @@ in the book written by one person for another. See
 
 ## Key passages
 
+- [[Shibboleth]] — Judges 12:4–6; an insult starts a war, and a word decides who dies.
 - [[Jephthah's Vow]] — Judges 11:35–36; *I have opened my mouth to Yahweh*.
 - [[The Word Is Near and the Choice Is Life]] — Deuteronomy 30:11–20.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.

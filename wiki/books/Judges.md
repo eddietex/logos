@@ -303,6 +303,15 @@ disputed. Her one other memorial is a custom: the daughters of Israel go every y
 four days. *Yāḥîd*, *only*, otherwise belongs in the first seven books to Isaac on Moriah; here no voice
 stops the father.
 
+[[Shibboleth]] (12:1–7) is the book's first war between tribes. Ephraim makes the complaint it made to
+Gideon, *didn't call us to go with you?*, and threatens to burn Jephthah's house. Jephthah, *a man of
+strife* with Ammon, says he did call and Ephraim *didn't save* him; the book never narrated that call.
+Ephraim mocks the Gileadites as *fugitives of Ephraim*, and Gilead fights, takes the fords of the Jordan,
+and kills every man who says *Sibboleth* for *Shibboleth*: *forty-two thousand of Ephraim fell*. The
+narrator then gives Ephraim's own men the name *fugitives of Ephraim*. Jephthah's story ends in the form
+of the minor judges' notices, with no rest: *judged Israel six years … died, and was buried in the cities
+of Gilead*. Gideon's soft answer to the same complaint had turned Ephraim's anger away (8:1–3).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -354,7 +363,7 @@ merge, or reorder them freely.
 - [x] [[Jephthah Called from Tob]] — Judges 11:1–11
 - [x] [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28
 - [x] [[Jephthah's Vow]] — Judges 11:29–40
-- [ ] Shibboleth — Judges 12:1–7
+- [x] [[Shibboleth]] — Judges 12:1–7
 - [ ] Ibzan, Elon, and Abdon — Judges 12:8–15
 - [ ] The Announcement of Samson's Birth — Judges 13:1–25
 - [ ] Samson's Riddle — Judges 14:1–20
@@ -384,7 +393,8 @@ merge, or reorder them freely.
 - [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
-- [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3).
+- [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3); Jephthah, *a man of strife*, fights it (12:1–6).
+- [[Language and Speech]] — *I have opened my mouth to Yahweh* (11:35); *Shibboleth* at the fords (12:5–6).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
 - [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the trees seek a king (9:8–15); Jair's thirty sons on thirty colts (10:4); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
 
@@ -431,7 +441,7 @@ merge, or reorder them freely.
 - [[Tola (son of Puah)]] — of Issachar; *arose to save Israel* and judged twenty-three years (10:1–2).
 - [[Jair (the Gileadite)]] — judged twenty-two years; thirty sons on thirty donkey colts (10:3–5).
 - [[Issachar]] — Tola's tribe (10:1); *the princes of Issachar were with Deborah* (5:15).
-- [[Jephthah]] — the Gileadite made head by contract (11:1–11); argues with Ammon (11:12–28); vows, and keeps the vow (11:29–40).
+- [[Jephthah]] — the Gileadite made head by contract (11:1–11); argues with Ammon (11:12–28); vows, and keeps the vow (11:29–40); fights Ephraim at the fords, judges six years, and dies (12:1–7).
 - [[Jephthah's Daughter]] — his only child, who comes out to meet him and is given up to his vow (11:34–40).
 - [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
@@ -466,3 +476,4 @@ merge, or reorder them freely.
 - [[Kadesh]], [[Edom]], [[Moab (place)]], [[The Red Sea]] — the wilderness road retold (11:16–18).
 - [[Mizpah (Gilead)]] — Israel's camp against Ammon (10:17); Jephthah's town (11:11, 29, 34).
 - [[Minnith]] and [[Abel Keramim]] — the end of Jephthah's twenty cities (11:33).
+- [[The Jordan]] — its fords held by Ehud against Moab (3:28) and by Gilead against Ephraim (12:5–6).

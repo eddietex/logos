@@ -11,7 +11,7 @@ tags: [connection]
   toward him, when he had said that* (stored WEB).
 - [[A Gentle Answer]] — Proverbs 15:1. *A gentle answer turns away wrath, but a harsh word stirs up
   anger* (stored WEB).
-- **Judges 12:1–6** *(not yet ingested; stored WEB)* — Ephraim's same complaint to Jephthah, answered with
+- [[Shibboleth]] — **Judges 12:1–6** — Ephraim's same complaint to Jephthah, answered with
   an argument, and the war at the fords.
 
 ## Analysis
@@ -26,12 +26,18 @@ vocabulary.
 **The harsh word.** The second half of the proverb arrives in Judges 12. Ephraim makes the same complaint
 to Jephthah, *didn't call us to go with you?*, and threatens to burn his house (12:1). Jephthah answers with
 the facts, *when I called you, you didn't save me* (12:2), and the quarrel ends with forty-two thousand of
-Ephraim killed at the fords (12:6) (stored WEB; not yet ingested). See
+Ephraim killed at the fords (12:6) (stored WEB). See
 [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]].
 
 **Gentle to the strong.** The same pericope that shows Gideon's gentle answer shows his hard one.
 Succoth and Penuel refuse him bread, and he threatens them and later punishes them (8:6–9, 16–17). Ephraim
 is a great tribe; the two towns are small. The narrator does not comment on the difference.
+
+**Judges 12 now ingested.** Jephthah does not make himself small. He calls himself *a man of strife*, *ʾîš
+rîb* (12:2, WLC), and keeps the credit: *Yahweh delivered them into my hand* (12:3). Gideon gave it to
+Ephraim: *God has delivered into your hand* (8:3). Then Ephraim's insult, *You are fugitives of Ephraim*
+(12:4), turns the quarrel into war. In Judges 12 both sides use harsh words. See [[Shibboleth]]. Source:
+stored WEB Judges 8:3; 12:2–4; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
 ## Significance
 

@@ -299,8 +299,7 @@ fords (12:6).
 - [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]] — *subdued*, with no rest.
 - [[Jacob's Ladder at Bethel]] — Genesis 28:20–21; *vowed a vow … in peace*.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; the case Ammon would not hear.
-- Judges 12:1–7 — Ephraim's threat and the fords (stored WEB; not yet ingested, see *Shibboleth* on
-  [[Judges]]).
+- [[Shibboleth]] — Judges 12:1–7; Ephraim's threat and the fords.
 - 1 Samuel 18:6 — *the women came out of all the cities of Israel, singing and dancing, to meet king
   Saul, with tambourines* (WEB, verified at bible-api.com, 2026-11-15; not yet ingested).
 
@@ -319,7 +318,7 @@ and the reading in (2) are recalled, not verified.
 
 **No rest formula.** *Subdued* (11:33) appears without *the land had rest* for any span of years. Gideon's
 *subdued* at 8:28 was followed by *forty years*. Jephthah's years are given instead as a judgeship, *six
-years* (12:7, stored WEB; not yet ingested).
+years* (12:7; see [[Shibboleth]]).
 
 **Sources.** All Judges quotations copied from stored WEB `raw/bible/Judges.md` (3:10–11, 30; 4:23; 5:11,
 27, 31; 6:34; 7:5–6; 8:9, 27–28; 11:2, 9, 13, 26, 28–40; 12:1, 6–7). Comparisons copied from stored WEB

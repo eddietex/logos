@@ -47,7 +47,7 @@ donkeys* (5:10).
 The same closing, *died and was buried in*, ends Jephthah's notice in the middle of the two groups:
 *Then Jephthah the Gileadite died, and was buried in the cities of Gilead* (12:7). His six years are
 given in the same form (12:7). The form that frames the minor judges also closes the major judge
-between them.
+between them. See [[Shibboleth]].
 
 ## Significance
 

@@ -12,6 +12,25 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### At the fords — Judges 12:1–6
+
+*The men of Ephraim were gathered together* and cross the Jordan to Jephthah with the complaint they made to
+Gideon: *Why did you pass over to fight against the children of Ammon, and didn't call us to go with you?
+We will burn your house around you with fire!* (12:1; compare 8:1). Jephthah answers that he did call, and
+that Ephraim *didn't save* him (12:2–3); the earlier chapters do not record the call. The insult that starts
+the fighting is Ephraim's: *You are fugitives of Ephraim, you Gileadites, in the middle of Ephraim, and in
+the middle of Manasseh* (12:4).
+
+The insult turns on Ephraim. Gilead takes the fords, and the narrator calls the Ephraimites trying to cross
+home *the fugitives of Ephraim*, *pəlîṭê ʾeprayim* (12:5, WLC), the words they had used of Gilead. Each is
+asked *Are you an Ephraimite?* and made to say *Shibboleth*; *he said "Sibboleth"*, and he dies. *Forty-two
+thousand of Ephraim fell* (12:6). The tribe that held the waters against Midian (7:24) is caught at the same
+river by its brother tribe's men. Gilead was a clan of Manasseh (Numbers 26:29), Joseph's other son, whom
+Jacob set below Ephraim (Genesis 48:14, 19).
+
+See [[Shibboleth]] and [[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]]. Source: stored WEB
+Judges 7:24; 8:1; 12:1–6; Genesis 48:14, 19; Numbers 26:29; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Ammon crosses the Jordan — Judges 10:9
 
 *The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed* (9). The oppression begins in Gilead and reaches Ephraim west of the river.
@@ -26,8 +45,8 @@ and the honor. *They rebuked him sharply* is *wayrîbûn ʾittô bəḥozqâ*, *
 (WLC), the *rîb* of Gideon's name *Jerub-Baal* (6:32). Gideon answers with a proverb of the grape harvest,
 *Isn't the gleaning of the grapes of Ephraim better than the vintage of Abiezer?*, and credits Ephraim with
 the princes: *God has delivered into your hand the princes of Midian, Oreb and Zeeb!* *Their anger was
-abated* (8:2–3). Ephraim makes the same complaint to Jephthah in 12:1, and that time it ends in war (12:6,
-stored WEB; not yet ingested). See [[Ephraim, Succoth, and Penuel]] and
+abated* (8:2–3). Ephraim makes the same complaint to Jephthah in 12:1, and that time it ends in war (12:6;
+see [[Shibboleth]]). See [[Ephraim, Succoth, and Penuel]] and
 [[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]]. Source: stored WEB Judges 6:32;
 7:24–25; 8:1–3; 12:1–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
@@ -248,6 +267,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Shibboleth]] — Judges 12:1–6; threatens Jephthah, insults Gilead, and falls at the fords.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; contends with Gideon for not being called, and is calmed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; takes the waters, and Oreb and Zeeb.

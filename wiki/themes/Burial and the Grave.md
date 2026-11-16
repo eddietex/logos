@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *In the cities of Gilead* — Judges 12:7
+
+*Jephthah the Gileadite died, and was buried in the cities of Gilead*, *bəʿārê gilʿād* (WLC). Every other
+burial notice in Judges names one place (2:9; 8:32; 10:2, 5; 12:10, 12, 15; 16:31). His grave alone is in a
+plural, and no town is given. The wiki recalls, without verifying, that some ancient versions read a
+singular here. See [[Shibboleth]]. Source: stored WEB Judges 12:7; Hebrew WLC (OpenScriptures morphhb),
+2026-11-16.
+
 ### Died and was buried — Judges 10:1–5
 
 The minor-judge notices end every life the same way: *and died, and was buried in* a named town.
@@ -241,6 +249,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Shibboleth]] — Judges 12:7; *buried in the cities of Gilead*.
 - [[Tola and Jair]] — Judges 10:2, 5; Tola buried in Shamir, Jair in Kamon.
 - [[Gideon's Ephod and Death]] — Judges 8:32; *in a good old age*, in the tomb of Joash.
 - [[Another Generation Arose]] — Judges 2:9–10; Joshua's burial, and a generation gathered to its fathers.

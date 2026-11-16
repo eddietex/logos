@@ -27058,3 +27058,49 @@ Judges at 3:30; 4:23; 8:28; 11:33; Minnith and Abel Keramim only at 11:33; no *�
 Numbers 30:3 (WEB 30:2) wording *kəkol-hayyōṣēʾ mippîw yaʿăśeh*. Reported, not checked: the *or*
 reading of 11:31 (recalled as David Kimchi's), and the attribution of the lifelong-virginity reading to
 medieval Jewish and later Christian commentators. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 12.1-7 — Shibboleth
+
+Unattended run (`/ingest auto`). Ephraim crosses the Jordan with the complaint it made to Gideon,
+*didn't call us to go with you?*, and threatens to burn Jephthah's house. Jephthah answers that he did
+call and Ephraim *didn't save* him, musters Gilead, and fights. Gilead takes the fords of the Jordan and
+kills every Ephraimite who says *Sibboleth* for *Shibboleth*: forty-two thousand fall. *Jephthah judged
+Israel six years … and was buried in the cities of Gilead.* The discussion step was written into the
+passage page.
+
+Created: the passage page [[Shibboleth]]; one connection
+([[We Will Burn Your House - Judges 12.1, 14.15, and 15.6]]).
+
+Revised: people [[Jephthah]], [[Ephraim]], [[Manasseh]]; places [[Gilead]], [[The Jordan]], [[Ammon]],
+[[Zaphon]]; six themes ([[War]], [[Strife and Peacemaking]], [[Language and Speech]], [[Brotherhood]],
+[[Burial and the Grave]], [[Retribution]]); four connections
+([[The Fords of the Jordan - Joshua 2, Judges 3, 7, and 12]],
+[[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]],
+[[The Minor Judges - Judges 10.1-5 and 12.8-15]], [[Your Only Son - Genesis 22 and Judges 11]]); passages
+[[Jephthah's Vow]], [[Ephraim, Succoth, and Penuel]], [[The Sword of Yahweh and of Gideon]],
+[[Ehud and Eglon]], [[Tola and Jair]] (forward references now linked). Also updated the book page (box
+checked, overview, key themes/people/places), the books index (30 / 42), the people (A-E, F-M), places,
+themes, and connections (D-H, I-N, T-Z) indexes, and the dashboard counts. Frontmatter totals: 466
+passages, 327 people, 585 places, 88 themes, 888 connections.
+
+Readings recorded, not resolved: (1) *northward* or *to Zaphon* (12:1); (2) whether Jephthah had
+called Ephraim, which the earlier chapters do not narrate (12:2); (3) the grammar and speaker of the
+insult in 12:4; (4) which sense of *šibbōlet*, *ear of grain* or *stream*, is meant; (5) *ʾelep* as
+*thousand* or a smaller unit (12:6); (6) the plural *cities of Gilead* (12:7), with a singular in some
+versions recalled and not verified.
+
+Judgment calls: kept 12:1–7 as planned. No page for *the men of Gilead* (covered by [[Gilead]]). The
+*šāḥaṭ* echo of Genesis 22:10 is filed on the existing [[Your Only Son - Genesis 22 and Judges 11]]
+rather than a new connection, and flagged as the wiki's observation. [[Manasseh]] remains unqualified.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 14:13; 22:10;
+37:31; 41:5; 48:5, 14, 19; Exodus 12:6; Numbers 14:16; 26:29; Joshua 8:22; 13:27. Hebrew from a fresh
+download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml` through `Judg.xml` on
+2026-11-16. Verified there, across those seven books: *nisrōp* (1cp of *śārap*) only at Judges 12:1 and
+14:15; *śārap* in Judges at 9:52; 12:1; 14:15; 15:6; 18:27; the noun *rîb* in Judges only at 12:2, the
+verb at 6:31–32; 8:1; 11:25; 21:22; *napšî bəkappî* only at 12:3; *pəlîṭ* at Genesis 14:13, Numbers
+21:29, Joshua 8:22, Judges 12:4–5; *ʾeprātî* only at 12:5; *sibbōlet* only at 12:6; *šibbōlet* at
+Genesis 41 (lemma 7641 b) and Judges 12:6 (7641 a); *šāḥaṭ* in Judges only at 12:6, of people elsewhere
+only at Genesis 22:10 and Numbers 14:16; Ephraim not named between 10:17 and 11:40; *maʿbārâ* at Joshua
+2:7, Judges 3:28, 12:5–6. Not checked: the Hebrew of Job 13:14 and 1 Samuel 19:5; 28:21 (cited from the
+existing [[Though He Slay Me]] page). No Greek text was consulted.

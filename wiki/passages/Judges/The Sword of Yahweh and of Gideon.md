@@ -214,7 +214,7 @@ are already here: what Ephraim is owed, and what Gideon will make of the name.
 - [[Yahweh Confused Them - Hamam in the Wars of Yahweh]].
 - [[Trumpet and Ram's Horn - Two Instruments, One English Word]].
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–4; Ephraim's complaint, and Gideon crossing the Jordan.
-- Judges 12:1–6 — Ephraim gathered, and the fords taken against it (stored WEB; not yet ingested).
+- [[Shibboleth]] — Judges 12:1–6; Ephraim gathered, and the fords taken against it.
 - 1 Samuel 11:11; 14:20; 2 Chronicles 20:23 — three companies at the morning watch; the enemy's swords
   turned on each other (WEB checked; not yet ingested).
 

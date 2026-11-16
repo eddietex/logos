@@ -7,6 +7,30 @@ tags: [person]
 
 ## Overview
 
+### Ephraim, the fords, and his death — Judges 12:1–7
+
+*The men of Ephraim* cross over with Gideon's old complaint, *didn't call us to go with you?*, and a threat:
+*We will burn your house around you with fire!* (12:1). Jephthah does not soothe them as Gideon did (8:2–3).
+He calls himself *a man of strife*, *ʾîš rîb* (WLC), with Ammon, says *when I called you, you didn't save
+me*, and claims the victory as Yahweh's gift to him: *I put my life in my hand … and Yahweh delivered them
+into my hand* (12:2–3). The book never narrated that call to Ephraim. Then he musters *all the men of
+Gilead* and fights (12:4).
+
+Gilead holds the fords of the Jordan, and every man trying to cross is made to say *Shibboleth*. *He said
+"Sibboleth"; for he couldn't manage to pronounce it right*, and he is killed. *Forty-two thousand of Ephraim
+fell* (12:5–6). The killing verb is *šāḥaṭ* (WLC), the slaughter verb of sacrifice, used of a person in
+Genesis–Joshua only at Genesis 22:10 and Numbers 14:16; the echo of his vow is the wiki's observation.
+
+*Jephthah judged Israel six years. Then Jephthah the Gileadite died, and was buried in the cities of
+Gilead* (12:7). His story closes in the form of the minor judges' notices, with no rest for the land, the
+shortest judgeship in the book so far, and a grave in the plural, *cities*, with no town named.
+
+The man of contracts and arguments ends with a war fought over a word. He answered Ammon with two
+embassies, and Ephraim with one speech and the sword. See [[Shibboleth]],
+[[A Gentle Answer - Gideon's Reply to Ephraim and Proverbs 15.1]], and
+[[The Minor Judges - Judges 10.1-5 and 12.8-15]]. Source: stored WEB Judges 8:2–3; 12:1–7; Genesis 22:10;
+Numbers 14:16; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The vow — Judges 11:29–40
 
 *Then Yahweh's Spirit came on Jephthah* (11:29). He marches through Gilead and Manasseh, and before the
@@ -67,8 +91,7 @@ also the region's and the clan's (Numbers 26:29); the text treats this Gilead as
 sons, and does not explain the name. The name *yiptāḥ*, *he opens* from the verb form, is also the
 town [[Iphtah]] in Judah (Joshua 15:43; same lemma in the WLC).
 
-The Spirit and his vow follow (11:29–40, above). Ephraim and *Shibboleth* (12:1–7) are in stored WEB
-and not yet ingested.
+The Spirit and his vow follow (11:29–40, above), then Ephraim and *Shibboleth* (12:1–7, above).
 
 See [[Jephthah Called from Tob]]. Source: stored WEB Judges 9:4; 10:18; 11:1–11; Numbers 26:29;
 Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
@@ -81,13 +104,18 @@ Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphh
 - The Spirit comes on him; he vows a burnt offering of whatever comes out of his door — Judges 11:29–31
 - Defeats Ammon, twenty cities from Aroer to Minnith — Judges 11:32–33
 - His only daughter comes out to meet him; he keeps the vow — Judges 11:34–39
+- Ephraim threatens to burn his house; he answers and fights it — Judges 12:1–4
+- Gilead holds the fords; forty-two thousand of Ephraim fall over *Shibboleth* — Judges 12:5–6
+- Judges Israel six years, dies, and is buried in the cities of Gilead — Judges 12:7
 
 ## Appears in
+- [[Shibboleth]] — Judges 12:1–7; Ephraim's threat, the fords, six years, death and burial.
 - [[Jephthah's Vow]] — Judges 11:29–40; the Spirit, the vow, the victory, and his daughter.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; two embassies, the history of the road, and *Yahweh the Judge*.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; introduced, driven out, called back, made head.
 
 ## Related people
+- [[Ephraim]] — the tribe that threatens him and falls at the fords (12:1–6).
 - [[Jephthah's Daughter]] — his only child, who comes out to meet him (11:34–39).
 - [[King of Ammon (of Jephthah's time)]] — the king he argues with (11:12–28).
 - [[Sihon]] — whose defeat he retells as evidence (11:19–22).

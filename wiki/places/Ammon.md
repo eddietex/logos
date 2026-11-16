@@ -156,6 +156,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Shibboleth]] — Judges 12:1–3; the war Ephraim says it was not called to.
 - [[Jephthah's Vow]] — Judges 11:29–36; subdued by Jephthah, twenty cities struck.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; claims Gilead from the Arnon to the Jabbok; does not listen.
 - [[Jephthah Called from Tob]] — Judges 11:4–9; makes war, and Gilead calls Jephthah back to fight it.

@@ -14,8 +14,8 @@ tags: [connection]
 - [[The Sword of Yahweh and of Gideon]] — **Judges 7:24–25** — *take before them the waters, as far as
   Beth Barah, even the Jordan!* Ephraim *took the waters*, and the princes Oreb and Zeeb (stored WEB)
   *(now ingested)*
-- **Judges 12:5–6** — *The Gileadites took the fords of the Jordan against the Ephraimites … then they
-  seized him, and killed him at the fords of the Jordan.* (stored WEB) *(not yet ingested)*
+- [[Shibboleth]] — **Judges 12:5–6** — *The Gileadites took the fords of the Jordan against the Ephraimites … then they
+  seized him, and killed him at the fords of the Jordan.* (stored WEB) *(now ingested)*
 
 ## Analysis
 
@@ -62,6 +62,17 @@ the fords in 12:6 has begun. See [[Ephraim]].
 
 Sources for this section: stored WEB Judges 3:27; 7:23–25; 8:1, 3; 12:1, 5; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-15.
+
+### Judges 12 now ingested — the fugitives of Ephraim
+
+The test at the fords has a question and a word. *Are you an Ephraimite?*, *haʾeprātî ʾattâ* (12:5, WLC),
+can be answered *No*. *Now say "Shibboleth"* cannot be faked: *he said "Sibboleth"; for he couldn't manage
+to pronounce it right* (12:6). The men caught at the river are *the fugitives of Ephraim*, *pəlîṭê
+ʾeprayim* (12:5), the words Ephraim had just used to insult Gilead (12:4). Ehud's men at the fords struck
+*about ten thousand* of Moab (3:29); Gilead kills *forty-two thousand* of Ephraim (12:6). The same verb
+that had Ephraim *passed over* the Jordan to complain (*wayyaʿăbōr*, 12:1) is the one each fugitive uses
+to ask to go home, *ʾeʿĕbōrâ*, *let me go over* (12:5, WLC). See [[Shibboleth]]. Source: stored WEB
+Judges 3:29; 12:1–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
 ## Significance
 
