@@ -12,6 +12,12 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### Ammon crosses the Jordan — Judges 10:9
+
+*The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed* (9). The oppression begins in Gilead and reaches Ephraim west of the river.
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18.
+
 ### Contends with Gideon — Judges 8:1–3
 
 *Why have you treated us this way, that you didn't call us when you went to fight with Midian?* (8:1).
@@ -242,6 +248,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; contends with Gideon for not being called, and is calmed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24–25; takes the waters, and Oreb and Zeeb.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:29; Gezer's Canaanites not driven out.

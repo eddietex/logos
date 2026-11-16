@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The Ashtaroth again — Judges 10:6
+
+*The Baals, the Ashtaroth* come first in a list of seven, before the gods of Syria, Sidon, Moab, Ammon, and the Philistines (6). The foreign gods are put away at 10:16. The plural *Ashtaroth* is the form of 2:13.
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 2:13.
+
 A goddess, named in the plural as *the Ashtaroth*, *ʿaštārôt*, beside Baal in Judges 2:13 (WLC;
 stored WEB): *They abandoned Yahweh, and served Baal and the Ashtaroth.* The plural is commonly
 taken, like *the Baals*, as the goddess under many local forms. She is usually identified with the
@@ -28,6 +34,7 @@ Source: stored WEB Judges 2:13. Hebrew from the Westminster Leningrad Codex (Ope
 
 ## Appears in
 - [[Another Generation Arose]] — Judges 2:6–23
+- [[Israel's Repentance Under Ammon]] — Judges 10:6; first in the list of gods served.
 
 ## Related people
 - [[Baal (deity)]] — named with her.

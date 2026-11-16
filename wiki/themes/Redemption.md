@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### I will save you no more — Judges 10:11–16
+
+Yahweh lists seven peoples and says *you cried to me, and I saved you out of their hand* (12), then *Therefore I will save you no more* (13), *lōʾ-ʾôsîp ləhôšîaʿ* (WLC). Israel answers with another verb, *only deliver us*, *haṣṣîlēnû* (15, *nāṣal*, WLC). The refusal is not carried out: a deliverer comes in the next chapter, though the text never says Yahweh raised him up.
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Arose to save Israel — Judges 10:1
 
 *After Abimelech, Tola … arose to save Israel* (10:1, *ləhôšîaʿ*, the verb *yāšaʿ* of 2:16). No
@@ -360,6 +366,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:11–15; *I saved you … I will save you no more*.
 - [[Tola and Jair]] — Judges 10:1; Tola *arose to save Israel*, from no named enemy.
 - [[Midian's Oppression and the Prophet]] — Judges 6:9; past deliverance recalled under a new oppressor.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; *he also saved Israel*, the verb without the title.

@@ -21,6 +21,7 @@ tags: [connection]
 - [[The Angel Sent Ahead]] — Exodus 23:21–22. *Listen to his voice … if you indeed listen to his
   voice, and do all that I speak* (stored WEB). The condition the three Judges speeches say was
   broken.
+- [[Israel's Repentance Under Ammon]] — Judges 10:11–14. Yahweh, to Israel: *Didn't I save you from the Egyptians … Therefore I will save you no more* (stored WEB).
 
 ## Analysis
 
@@ -107,3 +108,22 @@ god's worshipers and not the god. See [[Gideon Throws Down Baal's Altar]] and
 [[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]]. Sources:
 stored WEB Judges 2:2; 6:10, 25–28; Hebrew from the Westminster Leningrad Codex (OpenScriptures
 morphhb), 2026-11-15.
+
+### Judges 10:11–14 — the fourth speech, and a refusal
+
+[[Israel's Repentance Under Ammon]] adds a fourth speech, and it is different from the others. *Yahweh said
+to the children of Israel* (10:11), with no angel or prophet. It answers a cry that, for the first time,
+has words: *We have sinned against you* (10:10). The history is a list of seven peoples, beginning with
+*the Egyptians* (10:11–12). The charge is not *you have not listened to my voice* but *you have forsaken
+me, and served other gods* (10:13). And the result is stated in the shape of 2:21: *lōʾ-ʾôsîp ləhôšîaʿ
+ʾetkem*, *I will save you no more* (10:13), beside *lōʾ ʾôsîp ləhôrîš*, *I also will no longer drive out*
+(2:21; both WLC). At 2:21 Yahweh stopped driving out the nations; at 10:13 he says he will stop saving
+Israel from them.
+
+| | Speaker | What Yahweh did | The charge | The result |
+|---|---|---|---|---|
+| 10:11–14 | Yahweh, to Israel | *save you from the Egyptians … I saved you out of their hand* | *you have forsaken me, and served other gods* | *I will save you no more. Go and cry to the gods which you have chosen* |
+
+Unlike the earlier three, this speech is answered. Israel confesses again and puts away its gods
+(10:15–16). See [[I Will Save You No More - Deuteronomy 32.37-38, Joshua 24, and Judges 10.13-14]].
+Sources: stored WEB Judges 2:21; 10:10–16. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

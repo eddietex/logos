@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The gods of Moab — Judges 10:6
+
+*The gods of Moab* are among the seven kinds of god Israel serves (6). Moab is not in Yahweh's list of oppressors (11–12), though Eglon's Moab ruled Israel eighteen years (3:14).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 3:14.
+
 ### Eglon's eighteen years — Judges 3:12–30
 
 *Yahweh strengthened Eglon the king of Moab against Israel* (12). With Ammon and Amalek, Moab strikes
@@ -288,6 +294,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:6; *the gods of Moab*.
 - [[Ehud and Eglon]] — Judges 3:12–30; Eglon's Moab rules Israel eighteen years and is subdued.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balak, king of Moab, hires Balaam (9).
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

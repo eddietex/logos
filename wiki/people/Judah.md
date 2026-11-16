@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Ammon crosses the Jordan — Judges 10:9
+
+*The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed* (9). The oppression begins in Gilead and reaches Judah west of the river.
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18.
+
 ### Judah's conquests — Judges 1:8–21
 
 The tribe takes and burns Jerusalem (8), goes down against the hill country, the South, and the
@@ -447,6 +453,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:8–21; Jerusalem burned, the south taken, Simeon's lot kept, the valley not taken.
 - [[Judah Goes Up First]] — Judges 1:1–7; chosen by Yahweh to go up first; allies with Simeon; defeats Adoni-Bezek.
 - [[The Cities of the Levites]] — Joshua 21:1–42.

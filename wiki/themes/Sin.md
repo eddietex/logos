@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The first confession — Judges 10:10, 15
+
+Israel has cried out four times in Judges, but the narrator never gave the cry words. Here it is *We have sinned against you, even because we have forsaken our God, and have served the Baals* (10), and, after Yahweh's refusal, *We have sinned! Do you to us whatever seems good to you* (15). Both use *ḥāṭāʾnû* (WLC). The passage opened with *that which was evil in Yahweh's sight* (6).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Evil without "again" — Judges 6:1
 
 *The children of Israel did that which was evil in Yahweh's sight* (6:1). Judges 3:12 and 4:1 said
@@ -769,6 +775,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 15; *We have sinned*, twice.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1, 10; the cycle's formula, and the charge.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 - [[The Sin of Achan]] — Joshua 7:1–26.

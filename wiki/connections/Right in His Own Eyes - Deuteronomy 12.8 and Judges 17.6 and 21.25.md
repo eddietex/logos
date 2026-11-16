@@ -16,6 +16,7 @@ tags: [connection]
   he who is wise listens to counsel."*
 - [[The King's Heart]] — Proverbs 21:2: *"Every way of a man is right in his own eyes, but Yahweh
   weighs the hearts."*
+- [[Israel's Repentance Under Ammon]] — Judges 10:6, 15 — *evil in Yahweh's sight*; *whatever seems good to you* (stored WEB).
 
 ## Analysis
 
@@ -62,3 +63,13 @@ not. See also [[Wise in His Own Eyes - Proverbs 3.7, 26.12, Isaiah 5.21, and Rom
 
 Sources: stored WEB Deuteronomy 12:8–13, 25, 28; Proverbs 12:15; 21:2. Judges 17:6 and 21:25
 verified from bible-api.com (WEB).
+
+### Judges 10:6, 15 — evil in Yahweh's eyes, good in Yahweh's eyes
+
+Before the refrain, Judges uses the same idiom of *eyes* with Yahweh as the judge. The cycle formula is
+*did that which was evil in Yahweh's sight*, *hāraʿ bəʿênê YHWH* (10:6, WLC; also 3:7; 4:1; 13:1). In
+[[Israel's Repentance Under Ammon]] Israel's second confession turns it around: *Do you to us whatever seems
+good to you*, *kəkol-haṭṭôb bəʿênêkā*, *all that is good in your eyes* (10:15, WLC). It is the right
+judgment by Deuteronomy's standard, *that which is right in Yahweh's eyes* (12:25). The refrain of 17:6
+and 21:25 moves the eyes from Yahweh to each man. Sources: stored WEB Judges 3:7; 4:1; 10:6, 15; 13:1;
+17:6; Deuteronomy 12:25. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

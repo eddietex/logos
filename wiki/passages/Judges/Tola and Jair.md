@@ -192,8 +192,7 @@ Ammon, and it will end with Gilead's judge, Jephthah, at war with Ephraim (12:1�
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:30; *sixty cities*.
 - [[Jacob Blesses His Sons]] — Genesis 49:11, *his donkey's colt*; 49:14, *Issachar is a strong
   donkey*.
-- Judges 10:6–18 — *I will save you no more* (10:13; stored WEB; not yet ingested, see *Israel's
-  Repentance Under Ammon* on [[Judges]]).
+- [[Israel's Repentance Under Ammon]] — Judges 10:6–18; *I will save you no more* (10:13).
 - Judges 12:8–15 — Ibzan, Elon, and Abdon (stored WEB; not yet ingested).
 
 ## Notes

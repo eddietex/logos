@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### Head over Gilead — Judges 10:18
+
+*Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead* (18). For the first time a deliverer is to be found by an offer of rule. Earlier, Yahweh raised up the savior. The princes ask one another, not Yahweh. Jephthah will take the offer (11:8–11).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Thirty sons on thirty colts — Judges 10:1–5
 
 After Abimelech's three years, two judges rule forty-five years and nobody calls either one king.
@@ -535,6 +541,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Israel's Repentance Under Ammon]] — Judges 10:18; the headship of Gilead offered to whoever will fight.
 - [[Tola and Jair]] — Judges 10:1–5; *after Abimelech*, two judges; Jair's sons on donkeys holding thirty cities.
 - [[The Fall of Abimelech]] — Judges 9:22–57; *prince over Israel three years*, and the end of the first king in Israel.
 - [[Jotham's Fable]] — Judges 9:7–21; the trees seek a king, and only the bramble accepts.

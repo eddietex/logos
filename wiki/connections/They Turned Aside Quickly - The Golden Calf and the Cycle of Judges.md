@@ -16,6 +16,7 @@ tags: [connection]
   fathers walked, obeying Yahweh's commandments* (stored WEB)
 - [[Gideon's Ephod and Death]] — **Judges 8:27, 33** — the ephod *all Israel played the prostitute with*; and *As soon as Gideon
   was dead, the children of Israel turned again* (stored WEB)
+- [[Israel's Repentance Under Ammon]] — **Judges 10:6–16** — *again did that which was evil*; the cry, the refusal, and the gods put away (stored WEB)
 
 ## Analysis
 
@@ -66,3 +67,12 @@ Judges 2:17, 19; 8:27, 33; Hebrew from the Westminster Leningrad Codex (OpenScri
 Sources: stored WEB Exodus 32:1, 8; Deuteronomy 9:12, 16; Judges 2:7, 17, 19, 23; 3:7, 12; 8:27; 17:4. Hebrew of Exodus
 32:8; Deuteronomy 9:12, 16; and Judges 2:17, 19, 23 read from the Westminster Leningrad Codex
 (OpenScriptures morphhb), 2026-11-13.
+
+### Judges 10:6–16 — the cycle told in full
+
+[[Israel's Repentance Under Ammon]] is the longest telling of the turn. Israel *again did that which was
+evil* (10:6, *wayyōsipû*, WLC), and the list of gods served is the longest in the book. The cry is quoted
+for the first time (10:10), Yahweh refuses (10:13–14), and Israel acts: *They put away the foreign gods
+from among them, and served Yahweh* (10:16). The verb of *again*, *yāsap*, *to add*, returns in Yahweh's
+refusal, *lōʾ-ʾôsîp ləhôšîaʿ*, *I will save you no more* (10:13, WLC). Sources: stored WEB Judges 10:6–16.
+Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

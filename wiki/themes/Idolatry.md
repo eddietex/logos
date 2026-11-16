@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The gods of seven peoples — Judges 10:6–16
+
+The longest list of gods in Judges: *the Baals, the Ashtaroth, the gods of Syria, the gods of Sidon, the gods of Moab, the gods of the children of Ammon, and the gods of the Philistines* (6). Yahweh's answer to the cry is *Go and cry to the gods which you have chosen* (14). Then *they put away the foreign gods from among them, and served Yahweh* (16), with the phrase of Jacob's and Joshua's orders (Genesis 35:2; Joshua 24:23). Jacob's household *gave* him its gods (Genesis 35:4); this is the first time the nation is said to put them away. See [[I Will Save You No More - Deuteronomy 32.37-38, Joshua 24, and Judges 10.13-14]] and [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The house of their god — Judges 9:27, 46–49
 
 At the vintage the men of Shechem *went into the house of their god, and ate and drank, and cursed
@@ -573,6 +579,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:6, 14, 16; seven peoples' gods served; the chosen gods; the foreign gods put away.
 - [[The Fall of Abimelech]] — Judges 9:27, 46–49; a festival in *the house of their god*; the stronghold of El Berith burned.
 - [[Abimelech Made King at Shechem]] — Judges 9:4; the house of Baal Berith pays Abimelech's hired men.
 - [[Gideon's Ephod and Death]] — Judges 8:27, 33; Gideon's ephod a *snare*; Israel turns to Baal Berith.

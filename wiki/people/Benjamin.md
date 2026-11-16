@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Ammon crosses the Jordan — Judges 10:9
+
+*The children of Ammon passed over the Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed* (9). The oppression begins in Gilead and reaches Benjamin west of the river.
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18.
+
 ### *After you, Benjamin* — Judges 5:14
 
 *Came out of Ephraim, after you, Benjamin, among your peoples* (5:14). Benjamin is among the tribes
@@ -228,6 +234,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Ehud and Eglon]] — Judges 3:15; Ehud, *the Benjamite, a left-handed man*.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:21; the Jebusites remain in Jerusalem with Benjamin.
 - [[The Cities of the Levites]] — Joshua 21:1–42.

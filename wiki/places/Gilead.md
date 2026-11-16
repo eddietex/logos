@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Under Ammon — Judges 10:8, 17–18
+
+*Beyond the Jordan in the land of the Amorites, which is in Gilead*, Israel is oppressed eighteen years (8). Ammon encamps in Gilead and Israel at [[Mizpah (Gilead)]] (17). *The princes of Gilead* ask *Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead* (18). The man will be Jephthah the Gileadite (11:1).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 11:1.
+
 ### Jair the Gileadite — Judges 10:3–5
 
 The first judge from east of the Jordan is *Jair, the Gileadite*. His thirty sons have *thirty
@@ -170,6 +176,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:8, 17–18; oppressed by Ammon; the princes seek a head.
 - [[Tola and Jair]] — Judges 10:3–4; Jair the Gileadite, and Havvoth Jair *in the land of Gilead*.
 - [[Gideon's Three Hundred]] — Judges 7:3; *depart from Mount Gilead*, west of the Jordan.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

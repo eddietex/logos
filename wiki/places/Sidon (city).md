@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The gods of Sidon — Judges 10:6, 12
+
+Israel serves *the gods of Sidon* (6), and Yahweh names *the Sidonians* among the peoples he saved Israel from (12). See [[The Sidonians]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18.
+
 ### The Sidonians left — Judges 3:1–6
 
 *The Sidonians* are among the nations Yahweh left *to test Israel* (3). See [[The Sidonians]].
@@ -73,6 +79,7 @@ against it**; **and Jesus goes into its region and is met by a Syrophoenician wo
 Sidon which were done in you, they would have repented long ago"* (Matthew 11:21–22).
 
 ## Appears in
+- [[Israel's Repentance Under Ammon]] — Judges 10:6, 12; its gods served; its people listed as former oppressors.
 - [[The Nations Left to Test Israel]] — Judges 3:3; the Sidonians left to test Israel.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:31; not driven out by Asher.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Asher’s border reaches it.

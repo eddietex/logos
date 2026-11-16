@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### In Yahweh's list — Judges 10:12
+
+*The Sidonians also, and the Amalekites, and the Maonites, oppressed you; and you cried to me, and I saved you out of their hand* (12). Amalek's oppressions in Judges were as Eglon's ally (3:13) and with Midian (6:3, 33; 7:12).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 3:13; 6:3.
+
 ### Like locusts in the valley — Judges 7:12
 
 *The Midianites and the Amalekites and all the children of the east lay along in the valley like locusts
@@ -138,6 +144,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:12; *the Amalekites … oppressed you*.
 - [[The Dream of the Barley Loaf]] — Judges 7:12; in the valley with Midian, *like locusts for multitude*.
 - [[The Fleece]] — Judges 6:33; gathered with Midian in the valley of Jezreel.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3; raids Israel's harvests with Midian.

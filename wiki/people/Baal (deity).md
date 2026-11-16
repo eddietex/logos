@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The Baals again — Judges 10:6, 10
+
+*The Baals, the Ashtaroth*, head the longest list of gods in the book, followed by the gods of five peoples (6). Israel's first spoken confession names them: *we have forsaken our God, and have served the Baals* (10). Then *they put away the foreign gods from among them* (16).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18.
+
 The god Israel serves in place of Yahweh in the cycle of Judges. Judges 2:11 has *the Baals*,
 *habbəʿālîm*, plural with the article; 2:13 has the singular, *Baal* (*labbaʿal*), with *the
 Ashtaroth* (WLC; stored WEB). *Baʿal* is an ordinary Hebrew word for *owner, master, husband*, and as
@@ -53,6 +59,7 @@ died, and Baal is restored. See [[Gideon's Ephod and Death]] and [[Baal Berith]]
 - [[Othniel the First Judge]] — Judges 3:7
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
 - [[Gideon's Ephod and Death]] — Judges 8:33; *the Baals*.
+- [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 16; served, confessed, put away.
 
 ## Related people
 - [[Ashtoreth (deity)]] — the goddess named beside him (2:13).

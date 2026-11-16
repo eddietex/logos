@@ -14,6 +14,7 @@ tags: [connection]
   the children of Benjamin?" Yahweh said, "Judah first."*
 - **Judges 20:23, 27–28** *(not yet ingested; stored WEB)* — two further inquiries in the same war,
   the second with Phinehas standing before the ark.
+- [[Israel's Repentance Under Ammon]] — **Judges 10:18** — *"Who is the man who will begin to fight against the children of Ammon?"*, asked by the princes of Gilead of one another.
 
 ## Analysis
 
@@ -63,3 +64,13 @@ Sources: Judges 1:1–3; 20:18, 21, 23, 27–28; 21:25 copied from stored WEB `r
 Hebrew of Judges 1:1–2; 20:18, 23, 27–28 read from the Westminster Leningrad Codex (OpenScriptures
 morphhb, GitHub), 2026-11-12. 1 Samuel 9:1–2 and 10:26 checked at bible-api.com (`translation=web`),
 2026-11-12; no 1 Samuel text was stored.
+### Judges 10:18 — the question asked of no one
+
+Between the two inquiries comes a third question of the same shape. Under Ammon, *the princes of Gilead,
+said to one another, "Who is the man who will begin to fight against the children of Ammon? He shall be
+head over all the inhabitants of Gilead"* (10:18). The Hebrew, *mî hāʾîš ʾăšer yāḥēl ləhillāḥēm*, shares
+*mî*, *who*, and *ləhillāḥēm*, *to fight*, with 1:1, *mî yaʿăleh-lānû … ləhillāḥem bô* (WLC). But at 1:1
+and 20:18 Israel asks Yahweh and Yahweh answers with a tribe. At 10:18 the princes ask *one another*.
+Yahweh is not consulted, no answer is given, and a reward is offered. The answer comes in the next
+chapter, from the narrator: *Now Jephthah the Gileadite* (11:1). See [[Israel's Repentance Under Ammon]].
+Sources: stored WEB Judges 1:1; 10:18; 11:1. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

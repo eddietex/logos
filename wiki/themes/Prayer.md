@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### The cry with words — Judges 10:10–15
+
+For the first time in Judges the cry to Yahweh is quoted: *We have sinned against you* (10). Yahweh answers in his own voice and refuses (11–14). The second prayer gives the outcome to him and asks for one thing: *Do you to us whatever seems good to you; only deliver us, please, today* (15).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Don't let your anger be kindled — Judges 6:36–39
 
 Gideon's two requests for the fleece are addressed *to God* and are conditional: *If you will save
@@ -407,6 +413,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:10–15; the cry quoted, refused, and renewed.
 - [[The Fleece]] — Judges 6:36–39; two conditional requests, the second with Abraham's preface.
 - [[Midian's Oppression and the Prophet]] — Judges 6:6–8; the cry told twice, answered with a prophet.
 - [[Ehud and Eglon]] — Judges 3:15; the cry, and a savior raised up.

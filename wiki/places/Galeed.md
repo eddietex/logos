@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Another Mizpah in Gilead — Judges 10:17
+
+Israel encamps *in Mizpah* against Ammon (10:17), later called *Mizpah of Gilead* (11:29). The wiki gives it its own page, [[Mizpah (Gilead)]], and does not identify it with this heap.
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 11:29.
+
 ### A witness formula reused — Joshua 22:27–28, 34
 
 Galeed's *witness between me and you* (Genesis 31:44, 48) returns as *a witness between us and you*
@@ -72,6 +78,7 @@ does not identify them.
   and Jacob in Hebrew, the *Mizpah* clause is added, the daughters are protected by treaty, the
   boundary is fixed in both directions, and a sacrifice and a meal close it. **Laban claims to have
   set up the pillar Jacob set up, and nobody corrects him.**
+- [[Israel's Repentance Under Ammon]] — Judges 10:17; a Mizpah in Gilead, not identified with this one.
 
 ## Related places
 

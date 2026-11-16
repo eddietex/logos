@@ -13,6 +13,7 @@ tags: [connection]
 - [[The Covenant at Shechem]] — Joshua 24:14: *"Put away the gods which your fathers served beyond
   the River, in Egypt; and serve Yahweh."* Joshua 24:23: *"Now therefore put away the foreign gods
   which are among you, and incline your heart to Yahweh, the God of Israel."*
+- [[Israel's Repentance Under Ammon]] — Judges 10:16: *They put away the foreign gods from among them, and served Yahweh* (stored WEB).
 
 ## Analysis
 
@@ -58,3 +59,18 @@ is settled.
 
 Sources: stored WEB Genesis 31:19; 35:1–4; Deuteronomy 7:5; Joshua 24:14–15, 23, 26. No
 source-language claim is made.
+
+### Judges 10:16 — the order carried out
+
+[[Israel's Repentance Under Ammon]] gives the phrase a third use. Under Ammon, after two confessions and
+Yahweh's refusal, *They put away the foreign gods from among them, and served Yahweh* (Judges 10:16). The
+Hebrew, *wayyāsîrû ʾet-ʾĕlōhê hannēkār miqqirbām*, uses the same verb, *sûr* in the hiphil, and the same
+phrase, *ʾĕlōhê hannēkār*, as Genesis 35:2 (*hāsirû … ʾĕlōhê hannēkār ʾăšer bətōkəkem*) and Joshua 24:23
+(*hāsîrû … ʾĕlōhê hannēkār ʾăšer bəqirbəkem*). Judges' *miqqirbām*, *from among them*, matches Joshua's
+*bəqirbəkem*. In the five WLC files searched (Genesis, Numbers, Deuteronomy, Joshua, Judges), the verb and
+the phrase occur together only in these three verses. The first two are orders; Judges reports the deed.
+Jacob's household obeyed by *giving* him its gods (Genesis 35:4). Joshua 24 reports no act. Judges 10:16
+reports one, but not where the gods went. This time it is not at Shechem; the army is gathering at
+Mizpah (10:17).
+
+Sources: stored WEB Genesis 35:2, 4; Joshua 24:23; Judges 10:16–17. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### Sold into their hand — Judges 10:6–7, 11
+
+Israel serves *the gods of the Philistines* (6), and Yahweh sells Israel *into the hand of the Philistines, and into the hand of the children of Ammon* (7). The story that follows is only about Ammon. The Philistine oppression is told from 13:1: *Yahweh delivered them into the hand of the Philistines forty years*. Yahweh also lists the Philistines among the peoples he saved Israel from (11), which points back to Shamgar (3:31).
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 3:31; 13:1.
+
 A people of the southern coastal plain, ruled in Joshua and Judges by *five lords*. The Table of
 Nations traces them to the Casluhim, *which the Philistines descended from* (Genesis 10:14). In
 Genesis they are the people of Gerar: Abraham *lived as a foreigner in the land of the Philistines
@@ -45,6 +51,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Their five lords head the land still remaining — [[The Land That Remains]].
 - Their five lords head the nations left to test Israel — [[The Nations Left to Test Israel]].
 - Six hundred struck by Shamgar with an ox goad — [[Shamgar and the Ox Goad]].
+- Israel sold into their hand with Ammon — [[Israel's Repentance Under Ammon]].
 
 ## Appears in
 
@@ -57,6 +64,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:18; three of their cities taken.
 - [[The Nations Left to Test Israel]] — Judges 3:3.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred struck with an ox goad.
+- [[Israel's Repentance Under Ammon]] — Judges 10:6–7, 11; their gods served; Israel sold into their hand.
 
 ## Related people
 

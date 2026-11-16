@@ -26850,3 +26850,53 @@ Codex (OpenScriptures morphhb), Genesis, Exodus, Numbers, Deuteronomy, Joshua, J
 *wayyāqom*. Reported, not checked: the label *minor judges*; the derivation of *Dodo*; whether the
 *ʿăyārîm* spelling of *cities* is a pun, variant, or scribal assimilation; the archival reading of
 the year numbers; the location of Kamon in Gilead. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 10.6-18 — Israel's Repentance Under Ammon
+
+Unattended run (`/ingest auto`). Ingested Judges 10:6–18 as [[Israel's Repentance Under Ammon]].
+Israel *again did that which was evil* and served the gods of seven peoples; Yahweh sold them to the
+Philistines and Ammon; Ammon oppressed Gilead eighteen years and crossed against Judah, Benjamin, and
+Ephraim. The cry is quoted for the first time, *We have sinned against you*. Yahweh answers in his own
+voice, lists seven peoples he saved them from, and says *I will save you no more. Go and cry to the
+gods which you have chosen*. Israel confesses again, puts away the foreign gods, and *his soul was
+grieved for the misery of Israel*. Ammon camps in Gilead, Israel at Mizpah, and the princes of Gilead
+offer the headship to whoever will begin the fight. The discussion step was written into the passage
+page.
+
+Created: the passage page; one person ([[The Maonites]]); one place ([[Mizpah (Gilead)]]); two
+connections ([[I Will Save You No More - Deuteronomy 32.37-38, Joshua 24, and Judges 10.13-14]],
+[[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]]).
+
+Revised: people [[The Philistines]], [[The Amorites]], [[The Sidonians]], [[Amalek]],
+[[Baal (deity)]], [[Ashtoreth (deity)]], [[Judah]], [[Benjamin]], [[Ephraim]]; places [[Ammon]],
+[[Gilead]], [[Aram (place)]], [[Sidon (city)]], [[Moab (place)]], [[Egypt]], [[The Jordan]],
+[[Galeed]], [[Maon]]; seven themes ([[Idolatry]], [[Sin]], [[Prayer]], [[Redemption]],
+[[Compassion and Mercy]], [[Divine Grief and Relenting]], [[Kingship and Empire]]); five connections
+([[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]],
+[[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]],
+[[Who Shall Go Up First - Judges 1.1-2 and 20.18]],
+[[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]],
+[[Right in His Own Eyes - Deuteronomy 12.8 and Judges 17.6 and 21.25]]); and the "not yet ingested"
+pointer to 10:6–18 in [[Tola and Jair]]. Also updated the book page (box checked, overview, key
+themes, people, places), the books index (26 / 42), the people (F-M), places, themes, and
+connections (D-H, I-N, O-S, T-Z) indexes, and the dashboard counts. Frontmatter totals: 462
+passages, 324 people, 582 places, 88 themes, 883 connections.
+
+Judgment calls: kept 10:6–18 as one pericope; 10:17–18 ends on the question that 11:1 answers, so it
+stays with the crisis. Kept the plan's title, and wrote the question of whether the turning is
+repentance into the page's notes. The Maonites get a page, since Yahweh names them as a people and
+the name otherwise belongs to a Judahite town; Ammon stays a place page, as before. Israel's camp is
+`Mizpah (Gilead)`, from *Mizpah of Gilead* (11:29), and is not identified with the Mizpah of Genesis
+31:49 at [[Galeed]]. The princes of Gilead get no page. Jephthah is not linked; he is named first at
+11:1.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Numbers,
+Deuteronomy, and Joshua. Hebrew came from a fresh download of the Westminster Leningrad Codex
+(OpenScriptures morphhb) `Gen.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`, on 2026-11-15.
+Verified there: *yāsap* in 10:6 and 10:13; *rāʿaṣ* and *rāṣaṣ* in 10:8 (*rāʿaṣ* only here in those
+files); *zāʿaq* and *ṣāʿaq*, including the niphal *wayyiṣṣāʿăqû* of 10:17; *ḥāṭāʾnû*; *bāḥar* in
+10:14 and Joshua 24:15, 22; *nāṣal* in 10:15; *sûr* with *ʾĕlōhê hannēkār* only in Genesis 35:2,
+Joshua 24:23, and Judges 10:16; *qāṣar* with *nepeš* only in Numbers 21:4 and Judges 10:16; 16:16;
+*ʿāmāl*; the Maon lemma shared with Joshua 15:55; the phrasing of 1:1 and 10:18. Reported, not
+checked: the lexical sense of *rāʿaṣ*; a Greek reading *Midian* for *Maonites*; the reading of 10:16
+as impatience rather than grief. No Greek or Latin text was consulted.

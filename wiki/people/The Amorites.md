@@ -7,6 +7,12 @@ tags: [person]
 
 ## Overview
 
+### The land of the Amorites in Gilead — Judges 10:8, 11
+
+Ammon oppresses *all the children of Israel that were beyond the Jordan in the land of the Amorites, which is in Gilead* (8). This is Sihon's land, taken *from the Arnon to the Jabbok, even to the children of Ammon* (Numbers 21:24). Yahweh names *the Amorites* among those he saved Israel from (11). See [[Sihon and Og]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; Numbers 21:24.
+
 ### "The gods of the Amorites" — Judges 6:10
 
 The prophet quotes Yahweh: *You shall not fear the gods of the Amorites, in whose land you dwell* (6:10).
@@ -71,6 +77,7 @@ See [[The Tribes That Did Not Drive Out]]. Source: stored WEB Genesis 10:16; 15:
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:8, 11; *the land of the Amorites, which is in Gilead*; saved from them.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites, in whose land you dwell*.
 - [[The Nations Left to Test Israel]] — Judges 3:5–6; among the six peoples Israel lived among and married.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:34–36; press Dan, hold three cities, and mark a

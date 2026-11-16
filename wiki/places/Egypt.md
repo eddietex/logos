@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### First in the list — Judges 10:11
+
+*Didn't I save you from the Egyptians*. Yahweh begins his list of seven peoples with Egypt (11), as the speeches at Bochim and in Gideon's day began with the exodus (2:1; 6:8). See [[I Brought You Up from Egypt - The Indictments at Bochim and in Gideon's Day]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 2:1; 6:8.
+
 ### "Out of the house of bondage" — Judges 6:8–9
 
 The prophet sent in Midian's days begins where the Ten Words begin: *I brought you up from Egypt, and
@@ -491,6 +497,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:11; *Didn't I save you from the Egyptians*.
 - [[The Call of Gideon]] — Judges 6:13; *Didn't Yahweh bring us up from Egypt?*, the works Gideon's fathers told of.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–9; *out of the house of bondage*.
 - [[Another Generation Arose]] — Judges 2:12; *who brought them out of the land of Egypt*.

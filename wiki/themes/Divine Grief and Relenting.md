@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### His soul was short — Judges 10:16
+
+After *I will save you no more* (13) and Israel's second confession, *his soul was grieved for the misery of Israel* (16). The Hebrew is not *nāḥam*, the verb of 2:18, but *qāṣar* with *nepeš*, *his soul became short* (WLC). In Numbers 21:4 and Judges 16:16 the same idiom describes people who can bear no more. Whether it is grief, impatience, or both, the text does not say, and it does not say that Yahweh relented. See [[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Grieved at their groaning — Judges 2:6–23
 
 *It grieved Yahweh because of their groaning by reason of those who oppressed them* (18). The verb is
@@ -156,6 +162,7 @@ Exodus 32:14 the chapter does not say he relented, and *nāḥam* is absent. It 
 
 ## Key passages
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:16; *his soul was grieved*, *qāṣar nepeš*.
 - [[Another Generation Arose]] — Judges 2:18; *it grieved Yahweh because of their groaning*.
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.
 

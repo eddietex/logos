@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### Eighteen years over Gilead — Judges 10:6–18
+
+Israel serves *the gods of the children of Ammon* (6) and is sold into Ammon's hand (7). For eighteen years Ammon oppresses the Israelites *beyond the Jordan in the land of the Amorites, which is in Gilead*, then crosses against Judah, Benjamin, and Ephraim (8–9). Yahweh lists Ammon among the peoples he saved Israel from (11), which points back to Eglon's alliance (3:13). At 10:17 Ammon *were gathered together*, *wayyiṣṣāʿăqû*, the niphal of the verb of Israel's cry (WLC), and encamps in Gilead. Jephthah's war follows. See [[Mizpah (Gilead)]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; 3:13; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### With Moab against Israel — Judges 3:13
 
 *He gathered the children of Ammon and Amalek to himself* (13). The two nations from Lot's cave act
@@ -124,6 +130,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Israel's Repentance Under Ammon]] — Judges 10:6–18; oppresses Gilead eighteen years; encamps against Israel.
 - [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.

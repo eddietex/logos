@@ -260,6 +260,17 @@ Joshua explain differently. Both men die and are buried in named towns. There is
 and no rest. They are the first of the five short notices called the *minor judges*; Ibzan, Elon,
 and Abdon follow Jephthah (12:8–15).
 
+[[Israel's Repentance Under Ammon]] (10:6–18) begins the cycle again and tells it at length. Israel
+*again did that which was evil* and served the gods of seven peoples. Yahweh sold them to the
+Philistines and to Ammon, and Ammon oppressed Gilead eighteen years and crossed the Jordan against
+Judah, Benjamin, and Ephraim. For the first time the cry has words: *We have sinned against you*.
+Yahweh answers in his own voice. He lists seven peoples he saved them from and ends, *Therefore I
+will save you no more. Go and cry to the gods which you have chosen*. Israel confesses again, *Do
+you to us whatever seems good to you*, puts away the foreign gods, and serves Yahweh, *and his soul
+was grieved for the misery of Israel*. Then Ammon camps in Gilead and Israel at Mizpah, and the
+princes of Gilead ask one another, *Who is the man who will begin to fight?* They offer him the
+headship of Gilead. No deliverer is raised up; the next chapter introduces one.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -307,7 +318,7 @@ merge, or reorder them freely.
 - [x] [[Jotham's Fable]] — Judges 9:7–21
 - [x] [[The Fall of Abimelech]] — Judges 9:22–57
 - [x] [[Tola and Jair]] — Judges 10:1–5
-- [ ] Israel's Repentance Under Ammon — Judges 10:6–18
+- [x] [[Israel's Repentance Under Ammon]] — Judges 10:6–18
 - [ ] Jephthah Called from Tob — Judges 11:1–11
 - [ ] Jephthah's Message to the King of Ammon — Judges 11:12–28
 - [ ] Jephthah's Vow — Judges 11:29–40
@@ -351,6 +362,8 @@ merge, or reorder them freely.
 - [[Blood]] — the blood of the seventy *laid on Abimelech … and on the men of Shechem* (9:24).
 - [[Burial and the Grave]] — Gideon *in the tomb of Joash his father* (8:32); every minor judge buried in a named town (10:2, 5; 12:10, 12, 15).
 - [[Redemption]] — *who saved them* (2:16); Tola *arose to save Israel* (10:1); *I will save you no more* (10:13).
+- [[Sin]] — *We have sinned against you*, the first quoted confession (10:10, 15).
+- [[Divine Grief and Relenting]] — *it grieved Yahweh* (2:18); *his soul was grieved for the misery of Israel* (10:16).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -381,6 +394,7 @@ merge, or reorder them freely.
 - [[Tola (son of Puah)]] — of Issachar; *arose to save Israel* and judged twenty-three years (10:1–2).
 - [[Jair (the Gileadite)]] — judged twenty-two years; thirty sons on thirty donkey colts (10:3–5).
 - [[Issachar]] — Tola's tribe (10:1); *the princes of Issachar were with Deborah* (5:15).
+- [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -406,3 +420,5 @@ merge, or reorder them freely.
 - [[Shamir (Ephraim)]] — Tola's town and grave, in the hill country of Ephraim (10:1–2).
 - [[Gilead]] and [[Havvoth Jair]] — Jair's country and his sons' thirty cities (10:3–4).
 - [[Kamon]] — Jair's grave (10:5).
+- [[Ammon]] — oppresses Gilead eighteen years (10:7–9), and is fought by Jephthah (11:1–12:7).
+- [[Mizpah (Gilead)]] — Israel's camp against Ammon (10:17); Jephthah's town (11:11, 29).

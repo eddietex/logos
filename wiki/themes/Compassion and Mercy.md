@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### His soul was grieved — Judges 10:16
+
+*His soul was grieved for the misery of Israel*, *wattiqṣar napšô baʿămal yiśrāʾēl* (WLC). The WEB reads it as compassion, like 2:18. The idiom literally means *his soul became short*; in its two other uses (Numbers 21:4; Judges 16:16) it means endurance giving out. See [[His Soul Was Short - Numbers 21.4, Judges 10.16, and Judges 16.16]].
+
+See [[Israel's Repentance Under Ammon]]. Source: stored WEB Judges 10:6–18; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Deliverers without repentance — Judges 2:6–23
 
 In the summary of the judges period, Israel does not cry out and does not repent. Yahweh raises up
@@ -454,6 +460,7 @@ chapter both limits and withholds pity. See [[Justice, Family Duty, Honest Weigh
 
 ## Key passages
 
+- [[Israel's Repentance Under Ammon]] — Judges 10:16; *his soul was grieved for the misery of Israel*.
 - [[Another Generation Arose]] — Judges 2:16, 18; judges raised because Yahweh was grieved at their groaning.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:24–25; *ḥesed* promised and kept to the man of Luz.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
