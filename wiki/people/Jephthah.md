@@ -126,6 +126,7 @@ Joshua 15:43; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphh
 - [[Gideon]] — the other *mighty man of valor* (6:12); called by Yahweh, where Jephthah is called by
   the elders.
 - [[Jair (the Gileadite)]] — the earlier Gileadite judge (10:3–5).
+- [[Ibzan]] — the judge *after him* (12:8).
 
 ## Themes associated
 - [[Brotherhood]] · [[Birthright and the Firstborn]] · [[Kingship and Empire]] · [[Call and Election]]

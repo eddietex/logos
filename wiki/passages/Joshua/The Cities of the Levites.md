@@ -81,7 +81,7 @@ The unnamed household heads remain collective representatives; no new individual
 | the remaining Kohathites | half-Manasseh | [[Taanach]] · [[Gath Rimmon]] |
 | Gershon’s descendants | half-Manasseh in Bashan | [[Golan]] · [[Be Eshterah]] |
 | Gershon’s descendants | Issachar | [[Kishion]] · [[Daberath]] · [[Jarmuth (Issachar)]] · [[Engannim]] |
-| Gershon’s descendants | Asher | [[Mishal]] · [[Abdon]] · [[Helkath]] · [[Rehob (Asher)]] |
+| Gershon’s descendants | Asher | [[Mishal]] · [[Abdon (city)]] · [[Helkath]] · [[Rehob (Asher)]] |
 | Gershon’s descendants | Naphtali | [[Kedesh]] · [[Hammothdor]] · [[Kartan]] |
 | Merari’s descendants | Zebulun | [[Jokneam]] · [[Kartah]] · [[Dimnah]] · [[Nahalal]] |
 | Merari’s descendants | Reuben | [[Bezer]] · [[Jahaz]] · [[Kedemoth]] · [[Mephaath]] |

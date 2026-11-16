@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Households without a king — Judges 12:8–15
+
+Ibzan's sixty marriages (12:9) and Abdon's forty sons and thirty grandsons *who rode on seventy donkey
+colts* (12:14) describe judges with households on the scale of the great men of the land, after
+Gideon's seventy sons (8:30) and Abimelech's attempt to rule alone (9:5–6). Neither man is called king,
+and the text draws no comparison; the juxtaposition is the wiki's observation. See
+[[Ibzan, Elon, and Abdon]]. Source: stored WEB Judges 8:30; 9:5–6; 12:9, 14.
+
 ### Chief, then head — Judges 11:6–11
 
 The elders of Gilead first offer Jephthah *chief*, *qāṣîn*, a field commander (11:6; in the WLC of
@@ -551,6 +559,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; large households and seventy riders, with no king.
 - [[Jephthah Called from Tob]] — Judges 11:6–11; *chief*, then *head over all the inhabitants of Gilead*; *head and chief*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:18; the headship of Gilead offered to whoever will fight.
 - [[Tola and Jair]] — Judges 10:1–5; *after Abimelech*, two judges; Jair's sons on donkeys holding thirty cities.

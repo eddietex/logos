@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Thirty sent out, thirty brought in — Judges 12:9
+
+Ibzan *had thirty sons; and thirty daughters he sent outside his clan, and thirty daughters he brought in
+from outside his clan for his sons* (12:9). The Hebrew says only *outside*, *haḥûṣâ* / *min-haḥûṣ*
+(WLC); *his clan* is the WEB's reading of it. The marriages run both ways in equal number, which is the
+shape of 3:6, *They took their daughters to be their wives, and gave their own daughters to their sons*,
+but without its final clause, *and served their gods*. The text gives Ibzan's exchange no comment, and
+whether *outside* reaches beyond Israel it does not say. See [[Ibzan, Elon, and Abdon]] and [[Ibzan]].
+Source: stored WEB Judges 3:6; 12:9; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Many wives, and a concubine in Shechem — Judges 8:30–31
 
 *Gideon had seventy sons conceived from his body, for he had many wives. His concubine who was in Shechem
@@ -518,6 +528,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 
 ## Key passages
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:9; Ibzan's thirty daughters sent out and thirty brought in for his sons.
 - [[Gideon's Ephod and Death]] — Judges 8:30–31; seventy sons from many wives, and Abimelech from a concubine in Shechem.
 - [[The Nations Left to Test Israel]] — Judges 3:6; marriage both ways with the land's peoples.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; intermarriage with the remaining nations warned against (12).

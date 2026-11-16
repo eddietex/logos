@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### Elon the Zebulunite — Judges 12:11–12
+
+The tribe's only judge in the book: *Elon the Zebulunite judged Israel; and he judged Israel ten
+years*, and was buried *in Aijalon in the land of Zebulun* (12:11–12). His name is the name of
+Zebulun's second son (Genesis 46:14) and of *the family of the Elonites* (Numbers 26:26), one lemma
+(356) in the WLC. Ibzan, the judge before him, is *of Bethlehem*, and Joshua 19:15 lists a Bethlehem in
+Zebulun; the text does not say which Bethlehem is meant.
+
+See [[Ibzan, Elon, and Abdon]], [[Elon the Zebulunite]], and
+[[Clan Names Among the Minor Judges - Genesis 46, Numbers 26, and Judges 10 and 12]]. Source: stored WEB
+Judges 12:8–12; Genesis 46:14; Numbers 26:26; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Summoned again — Judges 6:35
 
 Gideon sends messengers *to Asher, and to Zebulun, and to Naphtali; and they came up to meet them*
@@ -179,6 +191,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:11–12; Elon the Zebulunite, buried *in the land of Zebulun*.
 - [[The Fleece]] — Judges 6:35; summoned by Gideon with Asher and Naphtali.
 - [[Deborah and Barak]] — Judges 4:6, 10; called with Naphtali to Mount Tabor.
 - [[The Tribes That Did Not Drive Out]] — Judges 1:30; Kitron and Nahalol not driven out.
@@ -250,6 +263,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Judah]] — the brother whose naming speech his contradicts
 - [[Dinah]] — his full sister, born next
 - [[Jacob]] — his father, the subject of the second half of his name
+- [[Elon the Zebulunite]] — the judge from his tribe, who bears his son's name
 
 ## Themes associated
 

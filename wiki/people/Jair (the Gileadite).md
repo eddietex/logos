@@ -41,8 +41,8 @@ See [[Tola and Jair]]. Source: stored WEB Judges 10:3–5; Hebrew WLC (OpenScrip
 ## Related people
 - [[Tola (son of Puah)]] — the judge before him.
 - [[Jair (son of Manasseh)]] — the earlier Jair who named Havvoth Jair.
-- Abdon the son of Hillel — the later judge whose sons and grandsons also ride donkey colts (12:14);
-  not yet ingested.
+- [[Abdon (son of Hillel)]] — the later judge whose sons and grandsons also ride donkey colts (12:14).
+- [[Ibzan]] — the other minor judge with thirty sons (12:9).
 
 ## Themes associated
 - [[Names and Naming]]

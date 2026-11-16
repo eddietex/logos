@@ -312,6 +312,17 @@ narrator then gives Ephraim's own men the name *fugitives of Ephraim*. Jephthah'
 of the minor judges' notices, with no rest: *judged Israel six years … died, and was buried in the cities
 of Gilead*. Gideon's soft answer to the same complaint had turned Ephraim's anger away (8:1–3).
 
+[[Ibzan, Elon, and Abdon]] (12:8–15) closes the middle of the book with three more short notices.
+*After him* Ibzan of Bethlehem judged seven years; thirty daughters he *sent outside* and thirty he
+*brought in from outside* for his thirty sons. Which Bethlehem, the text does not say: everywhere else in
+Judges the town is *Bethlehem Judah*, and Joshua lists another in Zebulun. Elon the Zebulunite, who
+bears the name of a Zebulunite clan, judged ten years and was buried in Aijalon *in the land of
+Zebulun*, a place spelled with his name's consonants. Abdon the son of Hillel the Pirathonite judged
+eight years; his forty sons and thirty grandsons rode seventy donkey colts, and he was buried in Pirathon
+*in the land of Ephraim, in the hill country of the Amalekites*. Again no sin, no enemy, no rest, and
+every judge buried in a named place. The five minor judges together judge seventy years. The next verse
+begins the last cycle: *again … the Philistines forty years* (13:1).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -364,7 +375,7 @@ merge, or reorder them freely.
 - [x] [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28
 - [x] [[Jephthah's Vow]] — Judges 11:29–40
 - [x] [[Shibboleth]] — Judges 12:1–7
-- [ ] Ibzan, Elon, and Abdon — Judges 12:8–15
+- [x] [[Ibzan, Elon, and Abdon]] — Judges 12:8–15
 - [ ] The Announcement of Samson's Birth — Judges 13:1–25
 - [ ] Samson's Riddle — Judges 14:1–20
 - [ ] Samson Against the Philistines at Lehi — Judges 15:1–20
@@ -386,7 +397,7 @@ merge, or reorder them freely.
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
-- [[Marriage]] — daughters taken and given with the land's peoples (3:6).
+- [[Marriage]] — daughters taken and given with the land's peoples (3:6); Ibzan's thirty daughters sent out and thirty brought in (12:9).
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
@@ -396,7 +407,7 @@ merge, or reorder them freely.
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3); Jephthah, *a man of strife*, fights it (12:1–6).
 - [[Language and Speech]] — *I have opened my mouth to Yahweh* (11:35); *Shibboleth* at the fords (12:5–6).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
-- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the trees seek a king (9:8–15); Jair's thirty sons on thirty colts (10:4); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
+- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the trees seek a king (9:8–15); Jair's thirty sons on thirty colts (10:4), Abdon's seventy riders (12:14); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
 
 - [[Parables]] — Jotham's fable of the trees, the Bible's first (9:8–15).
 - [[Curse]] — *Curse Meroz* (5:23); *the curse of Jotham* (9:20, 57).
@@ -438,6 +449,7 @@ merge, or reorder them freely.
 - [[Gaal]] — the newcomer who stirs Shechem against Abimelech (9:26–41).
 - [[Zebul]] — Abimelech's officer and *ruler of the city* (9:28–41).
 - [[The Woman of Thebez]] — casts the millstone that kills Abimelech (9:53).
+- [[Ibzan]], [[Elon the Zebulunite]], [[Abdon (son of Hillel)]] — the three minor judges after Jephthah (12:8–15).
 - [[Tola (son of Puah)]] — of Issachar; *arose to save Israel* and judged twenty-three years (10:1–2).
 - [[Jair (the Gileadite)]] — judged twenty-two years; thirty sons on thirty donkey colts (10:3–5).
 - [[Issachar]] — Tola's tribe (10:1); *the princes of Issachar were with Deborah* (5:15).
@@ -476,4 +488,5 @@ merge, or reorder them freely.
 - [[Kadesh]], [[Edom]], [[Moab (place)]], [[The Red Sea]] — the wilderness road retold (11:16–18).
 - [[Mizpah (Gilead)]] — Israel's camp against Ammon (10:17); Jephthah's town (11:11, 29, 34).
 - [[Minnith]] and [[Abel Keramim]] — the end of Jephthah's twenty cities (11:33).
+- [[Bethlehem]] or [[Bethlehem (Zebulun)]], [[Aijalon (Zebulun)]], [[Pirathon]] — the towns and graves of Ibzan, Elon, and Abdon (12:8–15).
 - [[The Jordan]] — its fords held by Ehud against Moab (3:28) and by Gilead against Ephraim (12:5–6).

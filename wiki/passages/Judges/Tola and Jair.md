@@ -193,7 +193,8 @@ Ammon, and it will end with Gilead's judge, Jephthah, at war with Ephraim (12:1�
 - [[Jacob Blesses His Sons]] — Genesis 49:11, *his donkey's colt*; 49:14, *Issachar is a strong
   donkey*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–18; *I will save you no more* (10:13).
-- Judges 12:8–15 — Ibzan, Elon, and Abdon (stored WEB; not yet ingested).
+- [[Ibzan, Elon, and Abdon]] — Judges 12:8–15; the other three notices; Abdon's sons on seventy donkey
+  colts (12:14).
 
 ## Notes
 

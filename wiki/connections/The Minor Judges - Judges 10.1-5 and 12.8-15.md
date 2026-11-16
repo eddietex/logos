@@ -9,9 +9,8 @@ tags: [connection]
 
 - [[Tola and Jair]] — **Judges 10:1–5** — Tola of Issachar (23 years) and Jair the Gileadite (22
   years). (stored WEB)
-- **Judges 12:8–15** — Ibzan of Bethlehem (7 years), Elon the Zebulunite (10 years), and Abdon the
-  son of Hillel the Pirathonite (8 years). (stored WEB) *(not yet ingested; see "Ibzan, Elon, and
-  Abdon" on [[Judges]])*
+- [[Ibzan, Elon, and Abdon]] — **Judges 12:8–15** — Ibzan of Bethlehem (7 years), Elon the
+  Zebulunite (10 years), and Abdon the son of Hillel the Pirathonite (8 years). (stored WEB)
 - [[Shamgar and the Ox Goad]] — **Judges 3:31** — the earlier one-verse savior, sometimes counted
   with them; see Analysis.
 
@@ -57,9 +56,21 @@ between them. See [[Shibboleth]].
 - **Burial in every notice.** Every minor judge has a named grave. Among the cycle judges so far, only
   Gideon has one, *in the tomb of Joash his father* (8:32); Jephthah follows (12:7) and Samson later
   (16:31). See [[Burial and the Grave]].
-- **The tribes spread across the land.** Issachar, Gilead, Bethlehem (Judah's town, though Ibzan's
-  tribe is not given), Zebulun, and Ephraim. The judges come from north, east, south, and centre. That
+- **Clan names.** Tola and Puah are the names of Issachar's clans (Genesis 46:13; Numbers 26:23), and
+  Elon is the name of a Zebulunite clan (Genesis 46:14; Numbers 26:26). Two of the five judges carry
+  their own tribe's clan names. See
+  [[Clan Names Among the Minor Judges - Genesis 46, Numbers 26, and Judges 10 and 12]].
+- **Seventy years.** 23 + 22 + 7 + 10 + 8 = 70. The text gives no total, and the wiki records the sum as
+  arithmetic, not as a claim about design.
+- **The tribes spread across the land.** Issachar, Gilead, Bethlehem, Zebulun, and Ephraim. That
   the spread is deliberate is a reading, not a statement of the text.
+- **Which Bethlehem — a revision.** This page first read Ibzan's Bethlehem as *Judah's town*, which
+  would give the five a southern judge. The ingest of [[Ibzan, Elon, and Abdon]] found that Judges
+  names *Bethlehem Judah* at every other occurrence (17:7–9; 19:1–2, 18; WLC *bêt leḥem yəhûdâ*) but
+  leaves 12:8, 10 bare, and Joshua 19:15 lists a Bethlehem in Zebulun, the next judge's tribe. The
+  earlier reading rested on the better-known town; the text supports either. If Zebulun's is meant,
+  the five come from north, east, north, north, and centre, with no judge from the south. The wiki
+  now leaves the question open. See [[Bethlehem]] and [[Bethlehem (Zebulun)]].
 - **A frame around Jephthah.** The Gileadite Jair comes just before the oppression of Gilead
   (10:8), and Jephthah the Gileadite is the deliverer. The quiet notices on both sides set off the
   only story of this section.
@@ -68,5 +79,5 @@ between them. See [[Shibboleth]].
   he belongs with the five is a matter of definition. The text does not group them.
 
 Sources: Judges quotations copied from stored WEB `raw/bible/Judges.md` (2:16; 3:31; 5:10; 8:32;
-10:1–5, 8; 12:7–15; 16:31). Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb,
+10:1–5, 8; 12:7–15; 16:31; 17:7–9; 19:1–2, 18), and Genesis 46:13–14, Numbers 26:23, 26, Joshua 19:15. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb,
 `wlc/Judg.xml`), 2026-11-15. The label *minor judges* and its usual scope are reported, not checked.

@@ -27104,3 +27104,58 @@ Genesis 41 (lemma 7641 b) and Judges 12:6 (7641 a); *šāḥaṭ* in Judges only
 only at Genesis 22:10 and Numbers 14:16; Ephraim not named between 10:17 and 11:40; *maʿbārâ* at Joshua
 2:7, Judges 3:28, 12:5–6. Not checked: the Hebrew of Job 13:14 and 1 Samuel 19:5; 28:21 (cited from the
 existing [[Though He Slay Me]] page). No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 12.8-15 — Ibzan, Elon, and Abdon
+
+Unattended run (`/ingest auto`). The last three minor judges, each *after him*: Ibzan of Bethlehem,
+seven years, thirty sons, thirty daughters sent *outside* and thirty brought in; Elon the Zebulunite,
+ten years, buried in Aijalon in the land of Zebulun; Abdon the son of Hillel the Pirathonite, eight years,
+forty sons and thirty grandsons on seventy donkey colts, buried in Pirathon *in the hill country of the
+Amalekites*. No sin, no enemy, no rest. The discussion step was written into the passage page.
+
+Created: the passage page [[Ibzan, Elon, and Abdon]]; people [[Ibzan]], [[Elon the Zebulunite]],
+[[Abdon (son of Hillel)]]; places [[Aijalon (Zebulun)]], [[Pirathon]]; one connection
+([[Clan Names Among the Minor Judges - Genesis 46, Numbers 26, and Judges 10 and 12]]).
+
+Renamed: the place page `Abdon` to [[Abdon (city)]] under the person/place collision rule, with its two
+inbound links ([[The Cities of the Levites]], the places index) fixed in this pass. The judge's natural
+patronymic disambiguates him, so he takes no `(person)`.
+
+Revised: people [[Zebulun]], [[Ephraim]], [[Amalek]], [[Jephthah]], [[Jair (the Gileadite)]],
+[[Tola (son of Puah)]], [[Elon the Hittite]]; places [[Bethlehem]], [[Bethlehem (Zebulun)]], [[Aijalon]],
+[[The Hill Country of Ephraim]], [[Abdon (city)]]; five themes ([[Burial and the Grave]], [[Marriage]],
+[[Wealth and Possessions]], [[Names and Naming]], [[Kingship and Empire]]); connection
+[[The Minor Judges - Judges 10.1-5 and 12.8-15]]; passages [[Tola and Jair]] and [[Shibboleth]]
+(forward references now linked). Also the book page (box checked, overview, key themes/people/places),
+the books index (31 / 42), the people (A-E, F-M, N-Z), places, themes, and connections (A-C, I-N)
+indexes, and the dashboard counts. Frontmatter totals: 467 passages, 330 people, 587 places, 88 themes,
+889 connections.
+
+Contradiction flagged, not overwritten: [[The Minor Judges - Judges 10.1-5 and 12.8-15]] had read Ibzan's
+Bethlehem as *Judah's town*. The WLC shows Judges qualifies *bêt leḥem* with *yəhûdâ* at all seven other
+occurrences (17:7, 8, 9; 19:1, 2, 18 twice) and leaves 12:8, 10 bare, and Joshua 19:15 lists a Bethlehem
+in Zebulun. The connection page now records the earlier reading and the revision; both place pages carry
+Ibzan, and the wiki chooses neither.
+
+Readings recorded, not resolved: (1) which Bethlehem; (2) *outside* (WEB *outside his clan*) — outside
+of what; (3) Elon and Aijalon sharing the consonants *ʾylwn*, and the recalled, unverified report that
+ancient versions read *Elon* at 12:12; (4) *the hill country of the Amalekites*; (5) the derivations of
+*Abdon* and *Hillel*; (6) the Ibzan–Boaz tradition (Bava Batra 91a, recalled, not verified); (7) the
+seventy-year total of the five minor judges, recorded as arithmetic only.
+
+Judgment calls: kept 12:8–15 as one pericope. No page for Hillel (named only in a patronymic, as with
+Puah and Dodo). Elon's page uses the text's own epithet, *the Zebulunite*, parallel to [[Elon the Hittite]].
+The new Aijalon is `(Zebulun)` and the Danite page keeps its bare name, following the existing
+[[Bethlehem]] / [[Bethlehem (Zebulun)]] precedent. A new connection was opened for the clan names rather
+than folding them into the minor-judges page, which now points to it.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 14:7; 26:34; 32:15;
+36:2; 46:13–14; 49:11; Numbers 14:25, 43–45; 26:23, 26–27; 32:41; Joshua 19:15, 42–43; 21:24, 30. 2 Samuel
+23:30 (*Benaiah a Pirathonite*) checked against WEB at bible-api.com, single verse, not stored. Hebrew from
+a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`, `Num.xml`,
+`Josh.xml`, `Judg.xml` on 2026-11-16. Verified there, across those four books: *ʾibṣān* (78) only at
+Judges 12:8, 10; *ʾêlôn* (356) at Genesis 26:34; 36:2; 46:14; Numbers 26:26; Joshua 19:43; Judges 12:11,
+12 (plene at 12:11, defective at 12:12); *ʾayyālôn* (357) at Joshua 10:12; 19:42; 21:24; Judges 1:35;
+12:12; *ʿabdôn* (5658) at Joshua 21:30 and Judges 12:13, 15; *pirʿātôn* / *pirʿātônî* (6552/6553) only in
+Judges 12:13, 15; *ḥûṣ* (2351) in Judges only at 12:9 and 19:25; *ʿayir* (5895) at Genesis 32:16 (WLC),
+49:11, Judges 10:4, 12:14. No Greek text was consulted.

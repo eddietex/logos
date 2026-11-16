@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three generations on seventy colts — Judges 12:14
+
+Abdon *had forty sons and thirty sons' sons, who rode on seventy donkey colts* (12:14). As with Jair's
+thirty sons (10:4), standing is counted in sons and riding animals; Abdon's is the only notice to count
+grandsons. Ibzan's measure is marriages, sixty of them (12:9). Neither notice mentions land, silver, or
+gold. See [[Ibzan, Elon, and Abdon]]. Source: stored WEB Judges 10:4; 12:9, 14.
+
 ### Sons, colts, and cities — Judges 10:4
 
 *He had thirty sons who rode on thirty donkey colts, and they had thirty cities* (10:4). A judge's
@@ -933,6 +940,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:9, 14; Ibzan's sixty marriages; Abdon's seventy riders on donkey colts.
 - [[Tola and Jair]] — Judges 10:4; thirty sons, thirty donkey colts, thirty cities.
 - [[Abimelech Made King at Shechem]] — Judges 9:4; seventy of silver from Baal Berith's house, and hired men.
 - [[Gideon's Ephod and Death]] — Judges 8:24–27; the earrings of the plunder, weighed and made into an ephod.

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Bethlehem, Aijalon, Pirathon — Judges 12:8–15
+
+The last three minor judges each *died* and *was buried* in a named place: Ibzan *at Bethlehem* (12:10),
+Elon *in Aijalon in the land of Zebulun* (12:12), Abdon *in Pirathon in the land of Ephraim, in the
+hill country of the Amalekites* (12:15). The formula is *wayyāmot … wayyiqqābēr* (WLC) each time. Ibzan
+and Abdon are buried in the towns they are named from, as Tola was in Shamir (10:2). Elon's grave is
+spelled with the consonants of his own name. With these three, every one of the five minor judges has
+a named grave. See [[Ibzan, Elon, and Abdon]]. Source: stored WEB Judges 10:2; 12:8–15; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ### *In the cities of Gilead* — Judges 12:7
 
 *Jephthah the Gileadite died, and was buried in the cities of Gilead*, *bəʿārê gilʿād* (WLC). Every other
@@ -249,6 +259,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:10, 12, 15; buried at Bethlehem, Aijalon, and Pirathon.
 - [[Shibboleth]] — Judges 12:7; *buried in the cities of Gilead*.
 - [[Tola and Jair]] — Judges 10:2, 5; Tola buried in Shamir, Jair in Kamon.
 - [[Gideon's Ephod and Death]] — Judges 8:32; *in a good old age*, in the tomb of Joash.

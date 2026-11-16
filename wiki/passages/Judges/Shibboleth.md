@@ -239,8 +239,7 @@ Benjamin.
 - [[Jephthah's Vow]] — Judges 11:29–40; the house and the crossing.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; Ammon's attack on *the house of Ephraim*.
 - [[Who Shall Go Up First - Judges 1.1-2 and 20.18]] — the later war against Benjamin.
-- Judges 12:8–15 — Ibzan, Elon, and Abdon (stored WEB; not yet ingested, see *Ibzan, Elon, and Abdon*
-  on [[Judges]]).
+- [[Ibzan, Elon, and Abdon]] — Judges 12:8–15; the three notices that follow, *after him*.
 
 ## Notes
 

@@ -68,8 +68,20 @@ Jeremiah's Ramah verse to Bethlehem's infants, which only works if Rachel is und
 mourning at the southern site — **and by Matthew's day the traditional tomb on the Bethlehem road was
 long established.** It is still shown there.
 
+### Ibzan *of Bethlehem* — which Bethlehem? (Judges 12:8–10)
+
+*After him Ibzan of Bethlehem judged Israel … Ibzan died, and was buried at Bethlehem* (12:8, 10). The
+text gives no tribe. Everywhere else in Judges the town is *Bethlehem Judah* (17:7–9; 19:1–2, 18), and
+in the WLC each of those occurrences has *yəhûdâ*; only Ibzan's two verses leave *bêt leḥem* bare.
+Joshua 19:15 lists a Bethlehem in Zebulun, and the judge after Ibzan is a Zebulunite. The text supports
+either town; the wiki records Ibzan on both pages and chooses neither. A later Jewish tradition
+identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not verified. See
+[[Ibzan, Elon, and Abdon]] and [[Bethlehem (Zebulun)]]. Source: stored WEB Judges 12:8–10; 17:7–9;
+19:1–2, 18; Joshua 19:15; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ## Appears in
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:8–10; Ibzan's town and grave, if this Bethlehem is meant.
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — Genesis 35:19–20; **named only as a gloss on
   *Ephrath***, in the verse that buries [[Rachel]] on the road outside it and raises the last of
   [[Jacob]]'s four pillars over her. **The one matriarch not carried to [[Machpelah]]** is left here,
@@ -105,3 +117,5 @@ long established.** It is still shown there.
 - Three of David's men fetch water from the well by the gate, and he pours it out — 2 Samuel 23:15–17
 - *"But you, Bethlehem Ephrathah, being small among the clans of Judah…"* — Micah 5:2
 - The birth of Jesus, the shepherds, and the killing of the infants — Matthew 2:1–18; Luke 2:1–20
+- Ibzan, judge of Israel, is buried *at Bethlehem* — Judges 12:10, [[Ibzan, Elon, and Abdon]] (which Bethlehem is
+  uncertain)

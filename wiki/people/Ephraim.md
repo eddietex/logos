@@ -12,6 +12,16 @@ anticipation; **the later pass should rename this page and fix its inbound links
 
 ## Overview
 
+### A judge buried in Ephraim — Judges 12:13–15
+
+The verses after the fords: Abdon the son of Hillel *the Pirathonite* judged Israel eight years and *was
+buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites* (12:13–15). The text
+does not say whether he was an Ephraimite, only that Pirathon is in Ephraim's land, and it makes no
+comment on the sequence from forty-two thousand fallen (12:6) to an Ephraimite grave for Israel's
+judge.
+
+See [[Ibzan, Elon, and Abdon]] and [[Abdon (son of Hillel)]]. Source: stored WEB Judges 12:6, 13–15.
+
 ### At the fords — Judges 12:1–6
 
 *The men of Ephraim were gathered together* and cross the Jordan to Jephthah with the complaint they made to
@@ -267,6 +277,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:15; Abdon buried *in the land of Ephraim*.
 - [[Shibboleth]] — Judges 12:1–6; threatens Jephthah, insults Gilead, and falls at the fords.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–3; contends with Gideon for not being called, and is calmed.

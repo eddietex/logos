@@ -47,6 +47,7 @@ daughters the marriage rule of 24:3 was designed to exclude. See [[The Children 
 - [[Esau]] — his son-in-law
 - [[Beeri the Hittite]] — the other father-in-law of the same verse
 - [[Ephron the Hittite]] — the Hittite the family bought its one piece of ground from
+- [[Elon the Zebulunite]] — the judge of Judges 12:11–12; same name and lemma (356), unrelated.
 
 ## Themes associated
 

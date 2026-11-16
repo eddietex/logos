@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *The hill country of the Amalekites* — Judges 12:15
+
+Abdon the son of Hillel is buried *in Pirathon in the land of Ephraim, in the hill country of the
+Amalekites* (12:15). Within Ephraim's hills the text names a district by an Amalekite name; what that
+name preserves, it does not say. See [[Ibzan, Elon, and Abdon]], [[Pirathon]], and [[Amalek]].
+Source: stored WEB Judges 12:15.
+
 ### Tola at Shamir — Judges 10:1–2
 
 Tola, *a man of Issachar*, *lived in Shamir in the hill country of Ephraim* and was buried there
@@ -72,6 +79,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:15; Pirathon, *in the hill country of the Amalekites*.
 - [[Tola and Jair]] — Judges 10:1; Tola lives at Shamir.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24; Gideon sends messengers through it.
 - [[Deborah and Barak]] — Judges 4:5; Deborah judges there.
@@ -88,6 +96,7 @@ Source: stored WEB Joshua 17:14–18.
 - [[Deborah's Palm Tree]] — Deborah's seat (Judges 4:5).
 - [[Beth Shean]] · [[The Valley of Jezreel]]
 - [[Shamir (Ephraim)]] — Tola's town (Judges 10:1–2).
+- [[Pirathon]] — Abdon's town and grave (Judges 12:15).
 
 ## Events here
 

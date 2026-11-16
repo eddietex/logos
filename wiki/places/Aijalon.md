@@ -23,6 +23,9 @@ A town in Dan’s border list (41–46), for which no city total is given (42). 
 
 Source: stored WEB Joshua 19:24–48. No precise modern site is assigned.
 
+**Not Elon's grave.** Judges 12:12 buries Elon the Zebulunite *in Aijalon in the land of Zebulun*,
+a different town of the same name (WLC *ʾayyālôn*, lemma 357 for both). See [[Aijalon (Zebulun)]].
+
 ## Appears in
 
 - [[The Tribes That Did Not Drive Out]] — Judges 1:35; held by the Amorites.
@@ -31,6 +34,7 @@ Source: stored WEB Joshua 19:24–48. No precise modern site is assigned.
 
 ## Related places
 - [[The Valley of Aijalon]] — named in the same register or as a related landmark.
+- [[Aijalon (Zebulun)]] — a namesake in Zebulun, Elon's grave (Judges 12:12).
 
 ## Events here
 - Named in the allotment; no separate event is narrated.

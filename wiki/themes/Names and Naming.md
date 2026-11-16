@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Elon of Zebulun, buried in Aijalon — Judges 12:11–12
+
+*Elon the Zebulunite* bears the name of Zebulun's son and clan (*Sered, Elon, and Jahleel*, Genesis
+46:14; *the family of the Elonites*, Numbers 26:26; one WLC lemma, 356), as Tola bore Issachar's (10:1).
+He is buried *in Aijalon in the land of Zebulun* (12:12), a place spelled with the same consonants as
+his name at 12:11, *ʾylwn*. Whether the place took the man's name, the two are variants, or the
+likeness is coincidence, the text does not say. *Ibzan of Bethlehem* (12:8) is a name with no tribe
+attached, where every other Bethlehem in Judges is *Bethlehem Judah*. See [[Ibzan, Elon, and Abdon]]
+and [[Clan Names Among the Minor Judges - Genesis 46, Numbers 26, and Judges 10 and 12]]. Source:
+stored WEB Judges 12:8–12; Genesis 46:14; Numbers 26:26; Hebrew WLC (OpenScriptures morphhb),
+2026-11-16.
+
 ### Havvoth Jair, and Issachar's names — Judges 10:1–5
 
 *Thirty cities, which are called Havvoth Jair to this day* (10:4). The fourth explanation of the
@@ -372,6 +384,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Ibzan, Elon, and Abdon]] — Judges 12:11–12; Elon bears his tribe's clan name and is buried in a place spelled like it.
 - [[Tola and Jair]] — Judges 10:1, 4; Tola and Puah repeat Issachar's sons' names; Havvoth Jair *to this day*.
 - [[Gideon's Ephod and Death]] — Judges 8:31, 35; Abimelech named; *Jerubbaal Gideon*.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:32; Joash names Gideon *Jerub-Baal*, *Let Baal contend*.

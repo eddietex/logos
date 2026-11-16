@@ -41,6 +41,8 @@ See [[Tola and Jair]]. Source: stored WEB Judges 10:1–2, Genesis 46:13, Number
 - [[Issachar]] — his tribe, whose sons' names he and his father bear.
 - [[Abimelech (son of Gideon)]] — *after Abimelech* (10:1).
 - [[Jair (the Gileadite)]] — *after him* (10:3), the next judge.
+- [[Elon the Zebulunite]] — the other minor judge who bears his tribe's clan name (Genesis 46:14;
+  Numbers 26:26).
 
 ## Themes associated
 - [[Redemption]]

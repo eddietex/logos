@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### *The hill country of the Amalekites* — Judges 12:15
+
+Abdon is buried *in Pirathon in the land of Ephraim, in the hill country of the Amalekites*, *bəhar
+hāʿămālēqî* (WLC), a singular gentilic as at Genesis 14:7 and Numbers 14:25, 43, 45. Amalek here is
+no enemy and does nothing; it is a name on Ephraim's map. With the Song's *those whose root is in
+Amalek came out of Ephraim* (5:14), it is the second Judges text to set an Amalekite name inside
+Ephraim. Whether it remembers an older Amalekite presence, a clan, or only a name, the text does not
+say.
+
+See [[Ibzan, Elon, and Abdon]] and [[Pirathon]]. Source: stored WEB Judges 5:14; 12:15; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ### In Yahweh's list — Judges 10:12
 
 *The Sidonians also, and the Amalekites, and the Maonites, oppressed you; and you cried to me, and I saved you out of their hand* (12). Amalek's oppressions in Judges were as Eglon's ally (3:13) and with Midian (6:3, 33; 7:12).
@@ -36,7 +48,7 @@ See [[Midian's Oppression and the Prophet]]. Source: stored WEB Judges 6:1–10;
 
 *Those whose root is in Amalek came out of Ephraim* (5:14). The Song places an Amalekite name within
 Ephraim's hill country; Judges 12:15 later has *Pirathon in the land of Ephraim, in the hill country
-of the Amalekites*. What the phrase means, a region once Amalekite, a clan, or an old name, the text
+of the Amalekites* (see [[Ibzan, Elon, and Abdon]]). What the phrase means, a region once Amalekite, a clan, or an old name, the text
 does not say. Here it is Ephraimites who came to fight, not Amalek as enemy. See
 [[The Song of Deborah]].
 
@@ -144,6 +156,7 @@ See [[Amalek - From a Concubine's Son to Israel's First Enemy]].
 
 ## Appears in
 
+- [[Ibzan, Elon, and Abdon]] — Judges 12:15; *the hill country of the Amalekites* in Ephraim.
 - [[Israel's Repentance Under Ammon]] — Judges 10:12; *the Amalekites … oppressed you*.
 - [[The Dream of the Barley Loaf]] — Judges 7:12; in the valley with Midian, *like locusts for multitude*.
 - [[The Fleece]] — Judges 6:33; gathered with Midian in the valley of Jezreel.
