@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh shall rule over you — Judges 8:22–23
+
+After Midian, Israel offers Gideon a dynasty: *Rule over us, both you, and your son, and your son's son
+also; for you have saved us* (8:22). He refuses in three clauses, *I will not rule over you, neither
+shall my son rule over you. Yahweh shall rule over you* (8:23). The verb is *māšal*, *rule*; neither
+*king* nor *reign* occurs in the exchange (WLC). It is the only verse in Genesis–Judges in which Yahweh
+is the subject of *māšal* (WLC). The pericope then shows Gideon with the gold, the *many wives*, and the
+household Deuteronomy 17:17 denies a king, and with a son he names *Abimelech*. See
+[[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]].
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Seventy kings under a table — Judges 1:1–7
 
 Judges begins without a leader: Joshua is dead, no successor is named, and Israel asks Yahweh who
@@ -473,6 +485,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Gideon's Ephod and Death]] — Judges 8:22–23, 30–31; rule offered and refused; the wives, and the son named *Abimelech*.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.
 

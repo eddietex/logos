@@ -112,6 +112,21 @@ makes an ephod and puts it *in Ophrah, his city*, where *all Israel played the p
 
 Source: stored WEB Judges 6:11–40; 7:1–25; 8:1–21, 27; Deuteronomy 20:8; Genesis 18:32; Exodus 3:12; 34:13; Judges 2:2.
 
+**The end of his story (8:22–35).** Israel offers him a dynasty, *Rule over us, both you, and your son,
+and your son's son also; for you have saved us*, and he refuses: *I will not rule over you, neither shall
+my son rule over you. Yahweh shall rule over you* (8:22–23). Then he asks for the gold earrings of the
+plunder, seventeen hundred of gold, and makes an ephod that he puts in Ophrah; *all Israel played the
+prostitute with it there; and it became a snare to Gideon, and to his house* (8:24–27). The land has
+rest forty years. He has *seventy sons … for he had many wives*, and a concubine in Shechem bears him a
+son he names *Abimelech* (8:28–31). He dies *in a good old age*, the phrase of Abraham's death, and is
+buried in his father's tomb (8:32). After him Israel goes back to the Baals, forgets Yahweh, and shows
+no *kindness to the house of Jerubbaal* (8:33–35). The narrator records both the refusal and the
+ephod, and judges neither aloud. See [[Gideon's Ephod and Death]],
+[[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]], and
+[[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]].
+
+Source: stored WEB Judges 8:22–35; Genesis 25:8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Timeline / key events
 
 - Judges 6:11 — threshing wheat in a winepress at Ophrah, hiding from Midian.
@@ -137,6 +152,11 @@ Source: stored WEB Judges 6:11–40; 7:1–25; 8:1–21, 27; Deuteronomy 20:8; G
 - Judges 8:13–17 — punishes the elders of Succoth; breaks down Penuel's tower and kills its men.
 - Judges 8:18–21 — learns the kings killed his brothers at Tabor; *As Yahweh lives*; Jether afraid; kills
   the kings and takes the crescents.
+- Judges 8:22–23 — offered hereditary rule; *Yahweh shall rule over you*.
+- Judges 8:24–27 — asks for the earrings; makes an ephod and puts it in Ophrah; it becomes *a snare*.
+- Judges 8:28–31 — forty years' rest; seventy sons and many wives; Abimelech born in Shechem.
+- Judges 8:32 — dies *in a good old age*; buried in the tomb of Joash in Ophrah.
+- Judges 8:33–35 — Israel returns to the Baals and shows his house no kindness.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
@@ -146,6 +166,7 @@ Source: stored WEB Judges 6:11–40; 7:1–25; 8:1–21, 27; Deuteronomy 20:8; G
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21.
+- [[Gideon's Ephod and Death]] — Judges 8:22–35.
 
 ## Related people
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian he pursues and kills for his brothers (8:5–21).
@@ -163,6 +184,8 @@ Source: stored WEB Judges 6:11–40; 7:1–25; 8:1–21, 27; Deuteronomy 20:8; G
 - [[Barak]] — the deliverer before him; Hebrews 11:32 lists them together.
 - [[Baal (deity)]] — the god whose altar he throws down, and part of his second name.
 - [[Abraham]] — whose words at Sodom Gideon uses to preface the second fleece (Genesis 18:32; Judges 6:39).
+- [[Abimelech (son of Gideon)]] — his son by the concubine in Shechem, whom he names (8:31).
+- [[Baal Berith]] — the god Israel takes after his death (8:33).
 
 ## Themes associated
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·

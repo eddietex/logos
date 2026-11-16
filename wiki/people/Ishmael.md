@@ -175,6 +175,11 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
   sacrifice of Qurʾān 37:99–113, where the son is not named. This is reception history, not Genesis,
   and the wiki records it as such.
 
+**Judges 8:24.** The Midianites Gideon defeated *had golden earrings, because they were Ishmaelites*
+(8:24). The name of Ishmael's descendants is used of Midian, as in the sale of Joseph (Genesis 37:25–28,
+36). See [[Ishmaelites or Midianites - The Caravan That Bought Joseph]] and [[Gideon's Ephod and Death]]. Source: stored WEB Judges
+8:24; Genesis 37:25–28.
+
 ## Timeline / key events
 
 - Announced to Hagar by the angel of Yahweh, and named before birth — Genesis 16:11,
@@ -243,6 +248,7 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
 - [[Zophar's First Speech]] — Job 11:12 *(by allusion)*; **the only other *pereʾ ʾādām* in the
   Bible**, and it is an insult: a hollow man will get sense when a wild donkey is born a man. See
   [[A Wild Donkey of a Man - Genesis 16.12 and Job 11.12]].
+- [[Gideon's Ephod and Death]] — Judges 8:24; *because they were Ishmaelites*.
 
 ## Related people
 

@@ -15,6 +15,7 @@ tags: [connection]
 - [[The Freewill Offering]] — Exodus 35:1–29; gold and other materials willingly contributed.
 
 - [[The Work Completed]] — Exodus 39:32–43; Moses’ inspection ends in blessing rather than anger.
+- [[Gideon's Ephod and Death]] — Judges 8:24–27; Midian's gold earrings collected by Gideon and made into an ephod.
 
 ## Analysis
 
@@ -66,6 +67,15 @@ a purchase of forgiveness.
 
 See [[The Work Completed]]. Source: cited passages checked in the stored WEB Genesis and Exodus
 texts, 2026-10-25.
+
+### A third use — Judges 8:24–27
+
+Judges adds a third outcome for the same kind of gold. Gideon asks each man for *the earrings of his
+plunder* and makes an ephod of the seventeen hundred of gold (8:24–27). It is neither commanded, like
+the sanctuary's gold, nor demanded by the people, like the calf's. It becomes *a snare* (8:27). The
+Hebrew shares *nizmê hazzāhāb* and the verb *šālak* with Exodus 32 (WLC). See
+[[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]] and [[Gideon's Ephod and Death]]. Source: stored WEB Exodus
+32:2–4, 24; 35:22; Judges 8:24–27; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

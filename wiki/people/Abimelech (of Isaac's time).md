@@ -138,6 +138,7 @@ which is the same thing it does with Isaac's lie and Isaac's harvest.
 - [[Pharaoh (of Abram's time)]] — the first of the three foreign rulers who catch a patriarch out
 - [[God]] — who does not speak to him, does not appear to him, and is nonetheless the reason his
   court gives for coming to Beersheba
+- [[Abimelech (son of Gideon)]] — the Israelite son of Gideon who bears the same name (Judges 8:31).
 
 ## Themes associated
 

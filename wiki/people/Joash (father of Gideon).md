@@ -33,6 +33,10 @@ the coming danger *the sword of Gideon the son of Joash, a man of Israel* (7:14)
 in Midian's camp, and the son he defended at Ophrah is named by it. See [[The Dream of the Barley Loaf]].
 Source: stored WEB Judges 7:14.
 
+His tomb is in Ophrah, and Gideon is buried in it: *buried in the tomb of Joash his father, in Ophrah of
+the Abiezrites* (8:32). The narrator calls Gideon *Jerubbaal the son of Joash* (8:29), joining the
+father to the name he gave. See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:29, 32.
+
 ## Timeline / key events
 
 - Judges 6:11 — owner of the oak at Ophrah under which the angel sits.
@@ -41,12 +45,14 @@ Source: stored WEB Judges 7:14.
   *Jerub-Baal*.
 - Judges 7:14 — named by the Midianite interpreter: *Gideon the son of Joash*.
 - Judges 8:13, 19 — *Gideon the son of Joash*; the brothers killed at Tabor are *the sons of my mother*.
+- Gideon buried in his tomb in Ophrah — Judges 8:32
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
 - [[The Dream of the Barley Loaf]] — Judges 7:14.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:13; named as Gideon's father.
+- [[Gideon's Ephod and Death]] — Judges 8:29, 32.
 
 ## Related people
 - [[Gideon]] — his son.

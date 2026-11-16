@@ -31,6 +31,11 @@ and Zalmunna* (WEB checked at bible-api.com; not yet ingested). See
 See [[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges 7:25; 8:4–21; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-15.
 
+After the kings' deaths their goods are counted with Gideon's gold: *the crescents, and the pendants, and
+the purple clothing that was on the kings of Midian, and besides the chains that were about their camels'
+necks* (8:26). The verse lists them *besides* the weight; it does not say they went into the ephod. See
+[[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:26.
+
 ## Timeline / key events
 - Escapes the rout of Judges 7 with fifteen thousand men to Karkor — Judges 8:10
 - His name used by Succoth to refuse Gideon bread — Judges 8:6
@@ -39,6 +44,7 @@ morphhb), 2026-11-15.
 
 ## Appears in
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:5–21.
+- [[Gideon's Ephod and Death]] — Judges 8:26.
 
 ## Related people
 - [[Zalmunna]] — the other king, named with him every time.

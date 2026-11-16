@@ -11,6 +11,8 @@ tags: [connection]
   (14:14–15); *Melchizedek king of Salem brought out bread and wine* (14:18) (stored WEB).
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:4–21. *The three hundred men who were with him, faint, yet
   pursuing* (8:4); *Please give loaves of bread to the people who follow me* (8:5) (stored WEB).
+- [[Gideon's Ephod and Death]] — Judges 8:22–27. *I will not rule over you … I do have a request, that you
+  would each give me the earrings of his plunder* (8:23–24) (stored WEB).
 
 ## Analysis
 
@@ -28,8 +30,13 @@ inverse* of 14:18.
 
 **The spoil.** Abram refuses the king of Sodom's goods: *I will not take a thread nor a sandal strap nor
 anything that is yours* (14:23). Gideon takes the crescents from the kings' camels (8:21), and then asks
-for the gold earrings of the spoil and makes an ephod (8:24–27, stored WEB; not yet ingested). The wiki
-will finish this part of the comparison when 8:22–35 is ingested.
+for the gold earrings of the spoil and makes an ephod (8:24–27). Now ingested in
+[[Gideon's Ephod and Death]]. The two refusals are of different things. Abram refuses wealth, under an
+oath to *Yahweh, God Most High*, *lest you should say, 'I have made Abram rich'* (14:22–23), and keeps
+only what his men ate and his allies' portion (14:24). Gideon refuses rule in Yahweh's name, *Yahweh
+shall rule over you* (8:23), and then asks for the wealth: *I do have a request, that you would each give
+me the earrings of his plunder* (8:24). Abram's refusal ends the story with nothing taken. Gideon's gold
+*became a snare to Gideon, and to his house* (8:27).
 
 **The numbers.** Three hundred and eighteen against three hundred. The wiki notes the closeness and reads
 nothing into the numbers; Judges does not mention Abram.
@@ -40,4 +47,4 @@ The comparison sets two victories over kings side by side and shows the differen
 blessing and refused spoil for Abram, refused bread, punishment, and taken gold for Gideon. See
 [[Hospitality]], [[War]], [[Wealth and Possessions]], [[Abraham]], and [[Gideon]].
 
-Sources: stored WEB Genesis 14:12–24; Judges 7:16; 8:4–21, 24–27.
+Sources: stored WEB Genesis 14:12–24; Judges 7:16; 8:4–27.

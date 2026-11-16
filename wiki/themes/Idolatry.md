@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### An ephod in Ophrah, and Baal Berith — Judges 8:27, 33
+
+The man who threw down Ophrah's Baal altar makes an ephod from Midian's gold and puts it *in Ophrah, his
+city*, and *all Israel played the prostitute with it there; and it became a snare to Gideon, and to his
+house* (8:27). The *snare*, *môqēš*, is the Torah's word for the nations' gods (Exodus 23:33;
+Deuteronomy 7:16; Judges 2:3); here an Israelite made it. The text does not say Gideon meant it for
+worship, or what form it had. When he dies, Israel *played the prostitute following the Baals, and made
+Baal Berith their god* (8:33). The gold had been gathered as Aaron gathered it for the calf (Exodus
+32:2–4; see [[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]]).
+
+See [[Gideon's Ephod and Death]] and [[Baal Berith]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The altar of Baal that your father has — Judges 6:25–32
 
 The first Baal altar the wiki meets in Judges stands in an Israelite town and belongs to an Israelite
@@ -541,6 +553,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:27, 33; Gideon's ephod a *snare*; Israel turns to Baal Berith.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; Joash's Baal altar and Asherah thrown down, and the town defends them.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites*.
 - [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.

@@ -18,6 +18,7 @@ tags: [connection]
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:16–17, princes who eat for strength,
   not for drunkenness. See
   [[Woe to the Land - Proverbs 31.4-5, Isaiah 3.4, 5.11, and Ecclesiastes 10.16-17]].
+- [[Gideon's Ephod and Death]] — Judges 8:22–30; Gideon refuses to rule, then has much gold and *many wives*.
 
 ## Analysis
 
@@ -60,3 +61,9 @@ king reads *"that he may learn to fear Yahweh his God"* (17:19). The ingested pa
 to the comparison: the king's reading is *"that his heart not be lifted up above his brothers"*
 (17:20), so Deuteronomy, like Proverbs 31:8–9, places royal instruction in service of other people.
 Source: stored WEB Deuteronomy 17:17–20.
+
+**Judges 8 shows the limits kept by refusal and broken in practice.** Gideon will not rule (Judges
+8:23), but he gathers seventeen hundred of gold (8:26) and *had many wives* (8:30). Those are two of the
+things Deuteronomy 17:17 withholds from a king. Judges does not cite Deuteronomy, and Gideon is not
+king; the overlap is in the nouns *wives* and *gold*, not the verb (WLC). See [[Gideon's Ephod and Death]]. Source: stored WEB
+Deuteronomy 17:17; Judges 8:23, 26, 30; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.

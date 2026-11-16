@@ -128,6 +128,11 @@ of the covenant family — like Edom, and for the same structural reason. See
 Bible mentions. Edom beating Midian on [[Moab (place)]]'s ground is a note from a regional history
 Scripture never tells. See [[Hadad (son of Bedad)]].
 
+**Subdued (Judges 8:28).** *So Midian was subdued before the children of Israel, and they lifted up their
+heads no more. The land had rest forty years in the days of Gideon* (8:28). The narrator also calls the
+defeated enemy *Ishmaelites*, to explain their golden earrings (8:24). See [[Gideon's Ephod and Death]]. Source: stored WEB Judges
+8:24, 28.
+
 ## Where
 
 **No fixed borders, which is what one expects of a people the Bible mostly describes travelling.** The
@@ -160,6 +165,7 @@ caravan and pastoral clans rather than a kingdom**, and the Bible names five Mid
   [[Abraham's Other Sons in Isaiah 60]].
 
 ## Appears in
+- [[Gideon's Ephod and Death]] — Judges 8:24–28; the gold of the plunder; Midian *subdued*.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:4–21; the kings Zebah and Zalmunna pursued to Karkor, taken, and killed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; the camp routed by its own swords; Oreb and Zeeb killed.
 - [[The Dream of the Barley Loaf]] — Judges 7:12–15; the camp *like locusts*, the dream of the fallen tent, and its interpretation.

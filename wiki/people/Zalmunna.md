@@ -22,12 +22,18 @@ Zebah as a byword (WEB checked at bible-api.com; not yet ingested). See
 See [[Ephraim, Succoth, and Penuel]]. Source: stored WEB Judges 8:5–21; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-15.
 
+After the kings' deaths their goods are counted with Gideon's gold: *the crescents, and the pendants, and
+the purple clothing that was on the kings of Midian, and besides the chains that were about their camels'
+necks* (8:26). The verse lists them *besides* the weight; it does not say they went into the ephod. See
+[[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:26.
+
 ## Timeline / key events
 - Flees to Karkor with Zebah — Judges 8:10–12
 - Taken, shown to Succoth, and killed by Gideon — Judges 8:12–21
 
 ## Appears in
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:5–21.
+- [[Gideon's Ephod and Death]] — Judges 8:26.
 
 ## Related people
 - [[Zebah]] — the other king of Midian.

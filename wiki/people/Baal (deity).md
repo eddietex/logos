@@ -36,6 +36,10 @@ Qualifying now means no bare `Baal.md` is ever created.
 Source: stored WEB Judges 2:11–13; 3:7; 6:25–32; 8:33. Hebrew from the Westminster Leningrad Codex (OpenScriptures
 morphhb), 2026-11-13.
 
+After Gideon's death *the children of Israel turned again, and played the prostitute following the Baals,
+and made Baal Berith their god* (Judges 8:33). The man named *Let Baal contend against him* (6:32) has
+died, and Baal is restored. See [[Gideon's Ephod and Death]] and [[Baal Berith]]. Source: stored WEB Judges 6:32; 8:33.
+
 ## Timeline / key events
 
 - **Judges 2:11–13** — the new generation serves *the Baals*; they abandon Yahweh and serve *Baal and
@@ -48,6 +52,7 @@ morphhb), 2026-11-13.
 - [[Another Generation Arose]] — Judges 2:6–23
 - [[Othniel the First Judge]] — Judges 3:7
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32
+- [[Gideon's Ephod and Death]] — Judges 8:33; *the Baals*.
 
 ## Related people
 - [[Ashtoreth (deity)]] — the goddess named beside him (2:13).
@@ -56,6 +61,7 @@ morphhb), 2026-11-13.
 - [[Asherah]] — *the Asheroth*, named with *the Baals* in 3:7; an Asherah beside Joash's Baal altar (6:25).
 - [[Joash (father of Gideon)]] — keeper of the Baal altar at Ophrah, who tells Baal to contend for himself.
 - [[Gideon]] — *Jerub-Baal*, who throws the altar down.
+- [[Baal Berith]] — the Baal of Shechem's house, made Israel's god (Judges 8:33).
 
 ## Themes associated
 - [[Idolatry]]

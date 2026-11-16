@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Many wives, and a concubine in Shechem — Judges 8:30–31
+
+*Gideon had seventy sons conceived from his body, for he had many wives. His concubine who was in Shechem
+also bore him a son* (8:30–31). The seventy echo Jacob's household, *seventy souls* (Exodus 1:5), and the
+phrase *came out of his body* is the same (WLC). *Many wives* is what Deuteronomy 17:17 forbids the king.
+The concubine's son, Abimelech, will kill the seventy (9:5, stored WEB; not yet ingested), so the
+household built by many marriages is destroyed from inside.
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Daughters taken and given — Judges 3:1–6
 
 *They took their daughters to be their wives, and gave their own daughters to their sons and served
@@ -508,6 +518,7 @@ connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levir
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:30–31; seventy sons from many wives, and Abimelech from a concubine in Shechem.
 - [[The Nations Left to Test Israel]] — Judges 3:6; marriage both ways with the land's peoples.
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; intermarriage with the remaining nations warned against (12).
 

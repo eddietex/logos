@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Berith — Judges 8:33
+
+After Gideon's death Israel *made Baal Berith their god* (8:33), *baʿal bərît*, a title with the word
+*covenant* in it (WLC; the sense of the title is the usual explanation, not checked). His house is at
+Shechem (9:4, stored WEB; not yet ingested), where Joshua *made a covenant with the people* (Joshua
+24:25). See [[Baal Berith]] and [[The Altar at Shechem and the Covenant at Shechem]].
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### "This nation transgressed my covenant" — Judges 2:6–23
 
 Yahweh's speech gives the reason for the cycle: *this nation transgressed my covenant which I
@@ -690,6 +699,7 @@ Salt is required with offerings and is explicitly associated with the covenant o
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:33; Israel makes *Baal Berith* its god.
 - [[Another Generation Arose]] — Judges 2:20; *this nation transgressed my covenant*.
 - [[The Angel at Bochim]] — Judges 2:1–2; *I will never break my covenant with you*, and no covenant with the land's inhabitants.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; covenant made at Shechem, written, and witnessed by the people and a stone.

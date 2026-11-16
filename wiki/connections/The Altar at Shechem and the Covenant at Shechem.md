@@ -25,6 +25,8 @@ tags: [connection]
   [[The Burials of Joshua, Joseph, and Eleazar]]
 - **1 Kings 12:1–19, 25** — Rehoboam loses ten tribes at Shechem; Jeroboam fortifies it
 - **John 4:5–26** — Jesus at Jacob's well, and *"this mountain"*
+- [[Gideon's Ephod and Death]] — Judges 8:31, 33; Gideon's concubine at Shechem, and Israel's *Baal Berith*, whose house is
+  at Shechem (9:4, stored WEB; not yet ingested).
 
 ## Analysis
 
@@ -132,3 +134,9 @@ Related: [[Shechem (city)]] · [[The Call of Abram]] · [[Canaan]] · [[Call and
   written *in the book of the law of God*. Jacob's household had put away its foreign gods at the
   same place (Genesis 35:2–4); see
   [[Put Away the Foreign Gods - Genesis 35.2-4 and Joshua 24.14-23]].
+
+- **Shechem gets a covenant god of its own.** After Gideon, Israel *made Baal Berith their god* (Judges
+  8:33), *baʿal bərît* (WLC), and his house is at Shechem (9:4). The place where Joshua *made a covenant
+  with the people* (Joshua 24:25) now worships a *lord of the covenant* (the sense of the title is the
+  usual explanation, not checked). See [[Baal Berith]] and [[Gideon's Ephod and Death]]. Source: stored WEB Joshua 24:25; Judges
+  8:33; 9:4.

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### In a good old age — Judges 8:32
+
+*Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah
+of the Abiezrites* (8:32). *Bəśêbâ ṭôbâ* occurs in Genesis–Judges only here and for Abraham (Genesis
+15:15; 25:8, WLC). No other judge's death is told with it. He is buried in his father's tomb in the town
+of his call, the altar *Yahweh is Peace* (6:24), and the ephod. See
+[[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]].
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Joshua's grave retold — Judges 2:6–23
 
 Judges 2:9 repeats Joshua 24:30: Joshua is buried *in the border of his inheritance in Timnath
@@ -221,6 +231,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:32; *in a good old age*, in the tomb of Joash.
 - [[Another Generation Arose]] — Judges 2:9–10; Joshua's burial, and a generation gathered to its fathers.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; three graves, all in the land.
 - [[The Five Kings in the Cave at Makkedah]] — Joshua 10:16–27.

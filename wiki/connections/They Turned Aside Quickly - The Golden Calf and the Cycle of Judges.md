@@ -14,6 +14,8 @@ tags: [connection]
   had commanded you* (stored WEB)
 - [[Another Generation Arose]] — **Judges 2:17** — *They quickly turned away from the way in which their
   fathers walked, obeying Yahweh's commandments* (stored WEB)
+- [[Gideon's Ephod and Death]] — **Judges 8:27, 33** — the ephod *all Israel played the prostitute with*; and *As soon as Gideon
+  was dead, the children of Israel turned again* (stored WEB)
 
 ## Analysis
 
@@ -36,6 +38,12 @@ A second word links the passages. Deuteronomy 9:12 says the people *have corrupt
 *šiḥēt*. Judges 2:19 says each generation after a judge *dealt more corruptly than their fathers*,
 *wəhišḥîtû*. Both are forms of *šāḥat* (WLC).
 
+**Judges 8:33 is Judges 2:19 played out.** *As soon as Gideon was dead, the children of Israel turned
+again* (8:33). *Turned again*, *wayyāšûbû*, is the verb of 2:19's *when the judge was dead, they turned
+back* (*yāšubû*, WLC). And *played the prostitute following the Baals* is 2:17's *zānû ʾaḥărê* (WLC).
+Here it comes after a judge who had himself made the object Israel turned to. See [[Gideon's Ephod and Death]]. Source: stored WEB
+Judges 2:17, 19; 8:27, 33; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ## Significance
 
 - **Sinai's sin becomes Israel's pattern.** At Sinai the turning-aside happened once, while Moses was on
@@ -47,7 +55,10 @@ A second word links the passages. Deuteronomy 9:12 says the people *have corrupt
   nations out *hastily*. Israel turns from Yahweh quickly; Yahweh does not remove the nations quickly.
 - Later Judges returns to made objects of worship: Gideon's ephod, after which *all Israel played the
   prostitute with it* (8:27), and Micah's *carved image and a molten image* (17:4; both stored WEB).
-  Whether their Hebrew echoes Exodus 32 will be checked when those pericopes are ingested.
+  Gideon's ephod is now ingested, and its Hebrew does echo Exodus 32: *nizmê hazzāhāb*, the gold
+  *thrown* (*šālak*), and the made object (8:24–27; Exodus 32:2–4, 24, WLC). See
+  [[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]]. Micah's images will be checked
+  when that pericope is ingested.
 - **The cycle's first turn.** In [[Othniel the First Judge]] the sin of 2:11 is repeated word for word
   (3:7, WLC), and after Othniel dies Israel *again did that which was evil* (3:12, stored WEB), as 2:19
   said would happen when the judge was dead.

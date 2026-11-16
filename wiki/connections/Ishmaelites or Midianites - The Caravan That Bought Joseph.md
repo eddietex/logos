@@ -85,6 +85,13 @@ people with golden earrings (Judges 8:21–26); Moses marries a Midianite priest
 **Isaiah 60:6 has the camels of Midian and Ephah bringing gold and incense to Zion** — *"the multitude of
 camels shall cover you"* — **the same freight as the caravan at 37:25, going the other way.**
 
+**Judges 8:24 is now ingested** in [[Gideon's Ephod and Death]]. The verse is a narrator's aside: *(For they had golden earrings,
+because they were Ishmaelites.)* The WLC has *kî yišməʿēʾlîm hēm*. In the Genesis–Judges WLC
+*yišməʿēʾlîm* occurs only in Genesis 37:25, 27, 28; 39:1 and Judges 8:24. Judges uses the name once,
+to explain the gold, and does not use it of Midian again. It confirms that a biblical narrator could
+call Midianites Ishmaelites. It does not show which reading of Genesis 37 is right, and the wiki still
+adopts none. Source: stored WEB Judges 8:24; Genesis 37:25–28; 39:1; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ## Significance
 
 - **It is the wiki's clearest case of a contradiction the text does not notice and the reader cannot

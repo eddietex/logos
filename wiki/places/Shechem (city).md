@@ -107,8 +107,17 @@ Deuteronomy 11:29–30 places the blessing on Gerizim and the curse on Ebal *"be
 
 See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
 
+### Gideon's concubine, and Baal Berith — Judges 8:31, 33
+
+*His concubine who was in Shechem also bore him a son, and he named him Abimelech* (8:31). After Gideon's
+death Israel *made Baal Berith their god* (8:33), and Judges 9:4 puts *the house of Baal Berith* at
+Shechem (stored WEB; not yet ingested). The town where Joshua *made a covenant with the people* (Joshua
+24:25) has a temple to a *lord of the covenant*. See [[Gideon's Ephod and Death]] and [[Baal Berith]]. Source: stored WEB Judges
+8:31, 33; 9:4; Joshua 24:25.
+
 ## Appears in
 
+- [[Gideon's Ephod and Death]] — Judges 8:31, 33; Gideon's concubine and Abimelech; Baal Berith.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones buried in Jacob's parcel (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the assembly, the covenant, and the stone under the oak.
 - [[The Cities of the Levites]] — Joshua 21:1–42.
@@ -179,5 +188,6 @@ See [[Set These Words Before You]]. Source: stored WEB Deuteronomy 11:18–32.
   Deuteronomy 11:29–30, [[Set These Words Before You]]
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
 - Joshua's covenant renewal — Joshua 24:1–28; [[The Covenant at Shechem]]
+- Gideon's concubine in Shechem bears Abimelech — Judges 8:31, [[Gideon's Ephod and Death]]
 - Abimelech's kingship and the destruction of the city — Judges 9
 - The kingdom divides under Rehoboam — 1 Kings 12:1–19

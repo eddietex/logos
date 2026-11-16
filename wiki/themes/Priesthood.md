@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### An ephod outside the priesthood — Judges 8:27
+
+*Ephod*, *ʾēpôd*, is in Exodus and Leviticus always the high priest's garment of gold, blue, purple, and
+scarlet (Exodus 28:6; Leviticus 8:7, WLC). In Judges the first ephod is made by a judge from the spoil of
+war and kept in his own town, Ophrah, and it becomes *a snare* (8:27). No priest is named with it. The
+next ephod in the book is Micah's, with teraphim and a son made priest (17:5, stored WEB; not yet
+ingested). Whether Gideon's ephod was a garment or an object set up, the text does not say.
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Eleazar's death — Joshua 24:29–33
 
 The priest who divided the land with Joshua dies with him (33). No high-priestly succession is
@@ -808,6 +818,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:27; an ephod made by a judge and kept in Ophrah.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Eleazar's death; the hill of Phinehas (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

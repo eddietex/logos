@@ -26606,3 +26606,59 @@ Leningrad Codex (OpenScriptures morphhb, `wlc/Gen.xml`, `Exod.xml`, `Num.xml`, `
 (Exodus 4:18; Judges 8:20); *gəbûrâ*; *śahărōnîm*. Leviticus was not searched. Reported, not checked:
 the gleaning gloss; the meanings of *Harod* and *Abimelech*; the *threshed* reading of 8:16; the Hebrew
 of Proverbs and Kings. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 8.22-35 — Gideon's Ephod and Death
+
+Unattended run (`/ingest auto`). Ingested Judges 8:22–35 as [[Gideon's Ephod and Death]]: Israel offers
+Gideon hereditary rule and he answers *Yahweh shall rule over you*; he asks for the gold earrings of the
+plunder and makes an ephod that becomes *a snare*; forty years' rest, seventy sons, *many wives*, and
+Abimelech born to a concubine in Shechem; death *in a good old age*; Israel returns to the Baals, makes
+Baal Berith its god, and neither remembers Yahweh nor shows *kindness* to Gideon's house. The discussion
+step was written into the passage page.
+
+Created: the passage page; two person pages ([[Abimelech (son of Gideon)]], [[Baal Berith]]); two
+connections ([[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]],
+[[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]]).
+
+Revised: people [[Gideon]], [[Joash (father of Gideon)]], [[Zebah]], [[Zalmunna]], [[Ishmael]],
+[[Baal (deity)]], [[Abimelech (of Abraham's time)]], [[Abimelech (of Isaac's time)]]; places
+[[Ophrah (Manasseh)]], [[Shechem (city)]], [[Midian]]; nine themes ([[Kingship and Empire]],
+[[Idolatry]], [[Wealth and Possessions]], [[Priesthood]], [[Marriage]], [[Burial and the Grave]],
+[[Remembrance]], [[Covenant]], [[Names and Naming]]); eight connections
+([[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]],
+[[Gold for the Calf and Gold for the Sanctuary]],
+[[Ishmaelites or Midianites - The Caravan That Bought Joseph]],
+[[Buried in a Good Old Age - The Promise at Genesis 15.15 and Its Fulfilment]],
+[[Little by Little - The Hornet, the Snare, and the Land Not Taken]],
+[[A King Under Instruction - Proverbs 31.1-5 and Deuteronomy 17.17-20]],
+[[The Altar at Shechem and the Covenant at Shechem]],
+[[Three Hundred Against the Kings - Abram's Pursuit and Gideon's]]). Updated the book page (box checked,
+overview, key themes, people, places), books index (21 / 42), the people (A-E, F-M, N-Z), places,
+themes, and connections (A-C, D-H, I-N, T-Z) indexes, and the dashboard counts. Frontmatter
+totals: 457 passages, 317 people, 572 places, 87 themes, 873 connections.
+
+Two deferred items closed: *They Turned Aside Quickly* had left open whether Gideon's ephod echoes
+Exodus 32 in Hebrew; it does (*nizmê hazzāhāb*, *šālak*, the made object), and the page now says so.
+*Three Hundred Against the Kings* had left the spoil half for this pericope; it is now written (Abram
+refuses wealth under oath, Gideon refuses rule and asks for wealth).
+
+Judgment calls: the planned boundary was kept; 8:28–35 was not split off, because the *snare … to his
+house* (27) and the withheld *kindness to the house* (35) frame one unit. Abimelech's page is qualified
+from the start (`Abimelech (son of Gideon)`) under the title-figure convention for the Genesis
+Abimelechs. Baal Berith gets a person page, following [[Baal Peor]]; it is not decided whether *El
+Berith* (9:46) is the same sanctuary. No pages for Gideon's concubine, the seventy sons, or the
+Ishmaelites as a people. The ephod's form (garment or set-up object) is left open. The meanings of
+*Abimelech* and *Baal Berith* are reported, not checked. A Psalm 34 heading mention of Abimelech was
+dropped from the person page because bible-api.com's WEB text omits psalm superscriptions and it could
+not be verified there.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Deuteronomy, and Joshua. 1 Samuel 8:7 and 12:12 checked at bible-api.com (WEB), 2026-11-15, not stored
+in `raw/`; the Hebrew of 1 Samuel was not consulted, and the kingship connection claims agreement of idea,
+not wording. Hebrew read from a fresh download of the Westminster Leningrad Codex (OpenScriptures
+morphhb, Genesis through Judges including Leviticus), 2026-11-15, covering *māšal* (Yahweh its subject
+only at 8:23), *yāšaʿ*, *šəʾēlâ*, *yišməʿēʾlîm*, *nātôn nittēn*, *śimlâ*, *šālak* (Exodus 32:24; Judges
+8:25), *nizmê hazzāhāb*, the absence of *shekel* in 8:26, *nəṭîpôt*, *ʿănāqôt*, *ʾargāmān*, *ʾēpôd*,
+*yāṣag*, *zānâ ʾaḥărê*, *môqēš*, *kānaʿ*, *šāqaṭ*, *yōṣəʾê yərēkô*, *pîlegeš*, *śîm* (8:31, 33), *ʾĂbîmelek*,
+*śêbâ ṭôbâ*, *baʿal bərît*, *zākar*, *nāṣal*, and *ḥesed* (Judges 1:24; 8:35). No Greek or Latin text was
+consulted.

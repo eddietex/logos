@@ -167,6 +167,7 @@ by his own men, and finally bound by an oath he had to ask for.
 - [[Abimelech (of Isaac's time)]] — that king; the same town, the same general, the same well, and the
   same habit of being right, one generation later
 - [[Phicol]] — the captain of his army, who comes with him to both treaties and never speaks
+- [[Abimelech (son of Gideon)]] — the Israelite son of Gideon who bears the same name (Judges 8:31).
 
 ## Themes associated
 

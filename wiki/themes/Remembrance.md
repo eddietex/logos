@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### They didn't remember — Judges 8:34–35
+
+*The children of Israel didn't remember Yahweh their God, who had delivered them out of the hand of all
+their enemies on every side; neither did they show kindness to the house of Jerubbaal* (8:34–35). It is
+the first *zākar* in Judges (WLC), and it is a failure. Deuteronomy commanded *you shall remember Yahweh
+your God* (8:18). The second failure is to a man: the *goodness which he had shown to Israel* is
+forgotten as well, and *ḥesed*, *kindness*, is withheld from his house. Israel had said *you have saved
+us* to Gideon (8:22); the narrator says Yahweh *had delivered them*.
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The day of Midian — Judges 7:25 remembered
 
 The battle became a byword. Psalm 83 prays *Do to them as you did to Midian … Make their nobles like Oreb
@@ -802,6 +813,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:34–35; Israel does not remember Yahweh, nor show kindness to Gideon's house.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:25; Oreb and Zeeb, later remembered as *the day of Midian*.
 - [[The Call of Gideon]] — Judges 6:13; *his wondrous works which our fathers told us of*, remembered as past.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8–9; the exodus and the conquest recited.

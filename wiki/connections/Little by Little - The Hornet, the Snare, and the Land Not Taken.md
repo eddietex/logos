@@ -32,6 +32,7 @@ tags: [connection]
   WEB); the sword is not denied, only made secondary
 - [[The Angel at Bochim]] — Judges 2:1–3; Yahweh's angel: *"I will not drive them out from before you; but they
   shall be in your sides, and their gods will be a snare to you"* (stored WEB; now ingested)
+- [[Gideon's Ephod and Death]] — Judges 8:27; Gideon's ephod *became a snare to Gideon, and to his house*.
 
 ## Analysis
 
@@ -174,6 +175,14 @@ them; the wiki does not merge them either. The verb *left* in 3:1 is *hinnîaḥ
 
 Source: stored WEB Judges 2:21–23; 3:1–4. Hebrew of Judges 2:21–23 and 3:1–4 from the Westminster
 Leningrad Codex (OpenScriptures morphhb), 2026-11-13.
+
+### A snare Israel made — Judges 8:27
+
+Every earlier *snare*, *môqēš*, in this thread is the nations or their gods (Exodus 23:33; 34:12;
+Deuteronomy 7:16; Joshua 23:13; Judges 2:3, WLC). In Judges 8:27 the snare is an ephod an Israelite
+judge made from Midian's gold: *it became a snare to Gideon, and to his house*. The warning of Exodus 23
+is kept, but the source has moved inside Israel. See [[Gideon's Ephod and Death]]. Source: stored WEB Exodus 23:33; Deuteronomy
+7:16; Joshua 23:13; Judges 2:3; 8:27; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

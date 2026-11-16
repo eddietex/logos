@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Seventeen hundred of gold — Judges 8:24–26
+
+Gideon refuses to rule and asks for gold instead, an earring from every man's plunder. The weight is
+*one thousand and seven hundred* (8:26; WEB supplies *shekels*, the Hebrew has no unit, WLC), besides
+the kings' crescents, pendants, purple, and the camels' chains. The gold becomes an ephod and *a snare*
+(8:27). Deuteronomy 17:17 forbids a king to *greatly multiply to himself silver and gold*; Judges does not
+cite it, and Gideon is not king. See [[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]].
+
+See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The eastern tribes sent home — Joshua 22:1–9
 
 Returning warriors carry livestock, precious and useful metals, and clothing, and must divide their
@@ -902,6 +912,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Gideon's Ephod and Death]] — Judges 8:24–27; the earrings of the plunder, weighed and made into an ephod.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 
 - [[The Capture of Ai]] — Joshua 8:1–29.

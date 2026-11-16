@@ -206,6 +206,17 @@ Yahweh lives, if you had saved them alive, I would not kill you*. His firstborn 
 strike, and Gideon kills the kings himself and takes the crescents from their camels. A soft answer to a
 strong tribe, punishment for weak towns, and a war that ends as a blood feud.
 
+[[Gideon's Ephod and Death]] (8:22–35) ends his story. Israel offers him a dynasty, *Rule over us, both
+you, and your son, and your son's son also*, and he answers *I will not rule over you, neither shall my
+son rule over you. Yahweh shall rule over you*. It is the book's plainest statement that Yahweh is
+Israel's ruler. Then he asks for the gold earrings of the plunder, seventeen hundred of gold, and makes an
+ephod that he puts in Ophrah, where *all Israel played the prostitute with it there; and it became a
+snare to Gideon, and to his house*. The land has its last forty years of rest in the book. He has seventy
+sons from *many wives*, and a concubine in Shechem bears a son he names *Abimelech*. He dies *in a good
+old age*, Abraham's phrase. As soon as he is dead Israel turns back to the Baals and makes *Baal Berith*
+its god, and the last verses charge Israel with two failures of memory: it *didn't remember Yahweh*, and
+it showed no *kindness to the house of Jerubbaal*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -248,7 +259,7 @@ merge, or reorder them freely.
 - [x] [[The Dream of the Barley Loaf]] — Judges 7:9–15
 - [x] [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25
 - [x] [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21
-- [ ] Gideon's Ephod and Death — Judges 8:22–35
+- [x] [[Gideon's Ephod and Death]] — Judges 8:22–35
 - [ ] Abimelech Made King at Shechem — Judges 9:1–6
 - [ ] Jotham's Fable — Judges 9:7–21
 - [ ] The Fall of Abimelech — Judges 9:22–57
@@ -284,11 +295,12 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
-- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32).
+- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34).
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
+- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -310,6 +322,8 @@ merge, or reorder them freely.
 - [[Ephraim]] — summoned late against Midian (7:24); quarrels with Gideon (8:1) and Jephthah (12:1).
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian, pursued beyond the Jordan and killed by Gideon (8:5–21).
 - [[Jether (son of Gideon)]] — Gideon's firstborn, afraid to kill the kings (8:20).
+- [[Abimelech (son of Gideon)]] — Gideon's son by a concubine in Shechem (8:31); king at Shechem in chapter 9.
+- [[Baal Berith]] — the god Israel takes after Gideon's death (8:33).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -318,9 +332,10 @@ merge, or reorder them freely.
 - [[Bethel]] — taken by the house of Joseph; once Luz (1:22–26).
 - [[Lebanon]], [[Hermon]], [[Hamath]] — the northern edge of the nations left (3:3).
 - [[Tabor]], [[Kishon]], [[Kedesh]], [[Harosheth of the Gentiles]] — the battle with Sisera (4:6–16).
-- [[Ophrah (Manasseh)]] — Gideon's town, the oak, and the altar *Yahweh is Peace* (6:11–24).
+- [[Ophrah (Manasseh)]] — Gideon's town, the oak, and the altar *Yahweh is Peace* (6:11–24); his ephod and his tomb (8:27, 32).
 - [[The Valley of Jezreel]] — where Midian and its allies encamp (6:33).
 - [[The Spring of Harod]] and [[The Hill of Moreh]] — Gideon's camp and Midian's (7:1).
 - [[Beth Shittah]], [[Zererah]], [[Abel Meholah]], [[Tabbath]] — the line of Midian's flight (7:22).
 - [[Beth Barah]], [[The Rock of Oreb]], [[The Winepress of Zeeb]] — the waters held and the princes killed (7:24–25).
 - [[Succoth (Transjordan)]] and [[Peniel]] — refuse Gideon bread and are punished (8:5–17).
+- [[Shechem (city)]] — home of Gideon's concubine, and of the house of Baal Berith (8:31, 33).

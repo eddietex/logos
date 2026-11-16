@@ -15,6 +15,7 @@ tags: [connection]
 - Genesis 15:13–14 — the four hundred years of affliction the promise is embedded in
 - Genesis 35:29; 47:9 — Isaac's death notice, and Jacob's verdict on his own life
 - [[The Restoration of Job]] — Job 42:17 — *"So Job died, being old and full of days"*
+- [[Gideon's Ephod and Death]] — **Judges 8:32** — *Gideon the son of Joash died in a good old age* (stored WEB)
 
 ## Analysis
 
@@ -88,6 +89,12 @@ It is attained by a life of righteousness"* (Proverbs 16:31). Genesis 25:8's *"g
 saying kept in one life; Jacob's *"you will bring down my gray hairs with sorrow to Sheol"* (Genesis
 42:38; 44:29) is the fear that it might not be. Source: stored WEB Proverbs 16:31; Genesis 15:15; 25:8;
 42:38; 44:29.
+
+**A third use, outside Genesis.** *Gideon the son of Joash died in a good old age, and was buried in the
+tomb of Joash his father* (Judges 8:32). *Bəśêbâ ṭôbâ* in the WLC of Genesis–Judges occurs only at
+Genesis 15:15, 25:8, and here. The phrase that was Abraham's alone in Genesis is given to one judge.
+The narrator gives it in the same pericope that records Gideon's ephod as *a snare* (8:27), so the
+phrase is not a verdict on the life. See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:27, 32; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Significance
 

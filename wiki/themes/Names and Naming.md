@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### He named him Abimelech — Judges 8:29–35
+
+Gideon, who said *neither shall my son rule over you* (8:23), names his concubine's son *Abimelech*
+(8:31), the name of the kings of Gerar, usually glossed *my father is king* (reported, not checked).
+*He named him* is *wayyāśem ʾet-šəmô*, and the same verb, *śîm*, is Israel's *made Baal Berith their god*
+two verses later (8:33, WLC). The narrator also changes names in these verses: *Jerubbaal* lives in his
+house (8:29), *Gideon* dies (8:32), and the last verse sets both names side by side, *the house of
+Jerubbaal Gideon* (8:35, WLC; WEB *that is, Gideon*).
+
+See [[Gideon's Ephod and Death]] and [[Abimelech (son of Gideon)]]. Source: stored WEB Judges 8:22–35; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Jerub-Baal — Judges 6:32
 
 *Therefore on that day he named him Jerub-Baal, saying, "Let Baal contend against him, because he has
@@ -350,6 +361,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Gideon's Ephod and Death]] — Judges 8:31, 35; Abimelech named; *Jerubbaal Gideon*.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:32; Joash names Gideon *Jerub-Baal*, *Let Baal contend*.
 - [[The Call of Gideon]] — Judges 6:24; Gideon names his altar *Yahweh is Peace*.
 - [[The Angel at Bochim]] — Judges 2:1, 5; Bochim, *weepers*.

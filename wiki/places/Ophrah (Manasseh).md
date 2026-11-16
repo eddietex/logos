@@ -26,9 +26,16 @@ It is a different town from the Ophrah in Benjamin's allotment (Joshua 18:23); s
 
 Source: stored WEB Judges 6:11, 24–32; 8:27, 32; 9:5; Joshua 18:23.
 
+**The ephod and the tomb (8:27, 32).** Now ingested. Gideon puts his ephod *in Ophrah, his city*, and
+*all Israel played the prostitute with it there* (8:27). He is buried *in the tomb of Joash his father,
+in Ophrah of the Abiezrites* (8:32), the phrase of the altar *Yahweh is Peace* (6:24). So the town holds
+the altar of his call, the ephod that became *a snare*, and his grave. See [[Gideon's Ephod and Death]]. Source: stored WEB Judges
+6:24; 8:27, 32.
+
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
+- [[Gideon's Ephod and Death]] — Judges 8:27, 32.
 
 ## Related places
 - [[Ophrah (Benjamin)]] — the other Ophrah.
@@ -39,3 +46,5 @@ Source: stored WEB Judges 6:11, 24–32; 8:27, 32; 9:5; Joshua 18:23.
   (Judges 6:11–24).
 - Joash's Baal altar and Asherah thrown down by night; an altar to Yahweh on the stronghold; the town
   demands Gideon's death; the name *Jerub-Baal* (Judges 6:25–32).
+- Gideon's ephod set up, and *all Israel played the prostitute with it there* (Judges 8:27).
+- Gideon buried in the tomb of Joash (Judges 8:32).
