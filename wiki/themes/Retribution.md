@@ -13,8 +13,20 @@ what a man's deeds have earned (only here in Genesis–Judges, WLC). The curse t
 fit the deed. Abimelech and Shechem acted together against Jerubbaal's house, so the fire will come
 from each against the other (9:20). The chapter ends by saying God did it: *Thus God repaid the
 wickedness of Abimelech … and God repaid all the wickedness of the men of Shechem on their heads; and
-the curse of Jotham the son of Jerubbaal came on them* (9:56–57, stored WEB; not yet ingested). See
+the curse of Jotham the son of Jerubbaal came on them* (9:56–57). See
 [[Jotham's Fable]]. Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
+The fulfilment is told in [[The Fall of Abimelech]]. The narrator announces it before it happens: God
+sends *an evil spirit* between the king and the town *that the violence done to the seventy sons of
+Jerubbaal might come, and that their blood might be laid on Abimelech … and on the men of Shechem, who
+strengthened his hands* (9:23–24). Then each destroys the other. Abimelech burns the tower of Shechem
+(9:49), and a woman's millstone kills him at Thebez (9:53). *Repaid* is the hiphil of *šûb*, *to bring
+back*, with *rāʿâ*, the *evil* God sent at 9:23 (WLC). In Genesis–Judges the pair is used of repayment
+otherwise only by Joseph's brothers, who fear Joseph *will fully pay us back for all the evil which we
+did to him* (Genesis 50:15). He does not; God repays Abimelech. The repayment fits the deed more in
+sense than in letter: the second half of the curse promised fire from Shechem on Abimelech, and he dies
+by a stone, not by fire. See [[God Repaid - Adoni-Bezek, Joseph's Brothers, and Abimelech]]. Source:
+stored WEB Genesis 50:15; Judges 9:20–57; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ### Thorns for Succoth, the tower for Penuel — Judges 8:7, 9, 16–17
 
@@ -688,6 +700,7 @@ offense. It is also capped, at forty, for the sake of *"your brother"* (3). The 
 proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Fall of Abimelech]] — Judges 9:23–24, 56–57; *God repaid the wickedness* of Abimelech and of Shechem.
 - [[Jotham's Fable]] — Judges 9:16–20; *the deserving of his hands*, and a curse shaped to the deed.
 
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:7–17; Succoth and Penuel punished by Gideon for refusing bread.

@@ -12,9 +12,16 @@ Jotham's curse has no curse-word in it (no *ʾārar* or *qəlālâ* in 9:20, WLC
 come out*, given twice, in which fire goes both ways: *let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and
 let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech* (9:20).
 It is conditioned: *if not*, if they did not deal *truly and righteously* (9:16, 19). The narrator names
-it only at the end, *the curse of Jotham the son of Jerubbaal came on them* (9:57, stored WEB; not yet
-ingested). It is spoken from Mount Gerizim, the mountain of the blessing (Deuteronomy 11:29). See
+it only at the end, *the curse of Jotham the son of Jerubbaal came on them* (9:57). It is spoken from Mount Gerizim, the mountain of the blessing (Deuteronomy 11:29). See
 [[Jotham's Fable]]. Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
+There are two curses in [[The Fall of Abimelech]]. At the vintage festival the men of Shechem *cursed
+Abimelech*, *wayqallû*, *qālal* (9:27). Nothing comes of it. The narrator's last words name the other
+curse, using the noun *qəlālâ*, the covenant *curse* of Deuteronomy 11:26–29 and 27:13 set on Ebal (WLC):
+*the curse of Jotham … came on them* (9:57). The curse spoken without a curse-word is the one that comes
+true. Its first half is literal, fire from Abimelech burning the tower of Shechem (9:49). Its second half
+is fulfilled in sense, not in its image. Abimelech is killed by a millstone, not by fire. Source: stored WEB
+Judges 9:20, 27, 49, 53, 57; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
 ### *Curse Meroz* — Judges 5:23
 
@@ -360,6 +367,7 @@ The curse is sworn over the woman, written in a book, blotted into the water, an
 See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
+- [[The Fall of Abimelech]] — Judges 9:27, 57; Shechem *cursed Abimelech*, and *the curse of Jotham … came on them*.
 - [[Jotham's Fable]] — Judges 9:20, 57; fire both ways, spoken from Gerizim.
 
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Balaam called *to curse you* (9); the threat of verse 20.

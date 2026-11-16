@@ -66,6 +66,7 @@ it.
 
 ## Appears in
 
+- [[The Fall of Abimelech]] — Judges 9:28; named in *Hamor the father of Shechem*, the house Gaal calls the town back to.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; named in *Hamor the father of Shechem* (32).
 - [[Dinah and the Massacre at Shechem]] — Genesis 34:1–31; **the chapter's instigator and one of its
   two named dead.** He acts in verses 2–4, negotiates in 11–12, carries the assembly in 18–24, and is

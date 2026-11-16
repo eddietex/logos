@@ -110,6 +110,15 @@ an interpretation; the chapter does not specify those offices or the land settle
 condemnation of Levi’s anger in Genesis 49 and the association of consecration with killing here
 remain an explicit moral tension.
 
+**Shechem's second massacre.** Jacob calls the brothers' swords *weapons of violence*, *ḥāmās*
+(Genesis 49:5). The same noun returns at Shechem in Judges 9:24: *that the violence done to the seventy
+sons of Jerubbaal might come*. In Genesis–Judges *ḥāmās* occurs only at Genesis 6:11, 13; 16:5; 49:5;
+Exodus 23:1; Deuteronomy 19:16; and Judges 9:24 (WLC). In Genesis 34 the men of Shechem were killed by
+Jacob's sons. In Judges 9 they share the guilt for killing Gideon's sons, and are killed by Gideon's son
+(9:45–49). Gaal's call to *serve the men of Hamor the father of Shechem* (9:28) names the house Simeon
+and Levi destroyed. See [[The Fall of Abimelech]]. Source: stored WEB Genesis 49:5; Judges 9:24, 28,
+45–49; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Significance
 
 **This thread is the Bible's own answer to Genesis 34, and it is not the answer either party in the

@@ -41,7 +41,7 @@ of Yahweh is spoken in the scene. See
 [[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]] and
 [[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]].
 
-His three years as *prince over Israel* (9:22) and his death are ahead (stored WEB; not yet ingested).
+His three years as *prince over Israel* (9:22) and his death are told in [[The Fall of Abimelech]].
 
 See [[Gideon's Ephod and Death]] and [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 37:27; Judges 8:23, 30–31; 9:1–7, 22; Hebrew of Judges 8:31; 9:2–6 from the WLC (OpenScriptures morphhb), 2026-11-15.
 
@@ -56,14 +56,50 @@ him. If not, *let fire come out from Abimelech, and devour the men of Shechem �
 from the men of Shechem … and devour Abimelech* (9:20). Abimelech does not answer. Jotham flees
 *for fear of Abimelech his brother* (9:21). See [[Jotham's Fable]]. Source: stored WEB Judges 9:7–21.
 
+### Three years, and the fall — Judges 9:22–57
+
+*Abimelech was prince over Israel three years* (9:22). The verb is *śārar*, *to be prince*, not
+*mālak*, and in Genesis–Judges it occurs only here (WLC). The narrator never calls him king again. Then
+*God sent an evil spirit between Abimelech and the men of Shechem*, so that the blood of the seventy
+would be *laid on Abimelech their brother, who killed them, and on the men of Shechem, who strengthened
+his hands* (9:23–24).
+
+He does not live in Shechem. His officer [[Zebul]] holds it while he lives at [[Arumah]] (9:28, 41).
+When [[Gaal]] stirs the town against him at the vintage festival, asking *Who is Abimelech … that we
+should serve him?*, Zebul sends for him. He comes by night in four companies, beats Gaal back to the
+gate, and Zebul drives Gaal out (9:30–41). The next day he ambushes the people as they go out to the
+field, takes the city, kills its people, *beat down the city, and sowed it with salt* (9:42–45). His
+father had *broken down the tower of Penuel, and killed the men of the city* (8:17), with the same verb,
+*nātaṣ* (WLC).
+
+The men of [[The Tower of Shechem]] shelter in the stronghold of El Berith. He cuts a bough on
+[[Mount Zalmon]] and says *What you have seen me do, make haste, and do as I have done!*, his father's
+*Watch me, and do likewise* at Midian's camp (7:17). The stronghold is burned with about a thousand men
+and women in it (9:46–49). That is the first half of Jotham's curse, fire from Abimelech on Shechem.
+
+At [[Thebez]] he tries the same against a strong tower. *A certain woman cast an upper millstone on
+Abimelech's head, and broke his skull* (9:53). He tells his armor bearer *Draw your sword, and kill me,
+that men not say of me, "A woman killed him"*, and the young man does (9:54). Israel's men go home
+(9:55). The narrator's verdict: *Thus God repaid the wickedness of Abimelech, which he did to his father,
+in killing his seventy brothers* (9:56). He dies by stone and sword, not by the fire of Jotham's curse,
+yet *the curse of Jotham … came on them* (9:57). See [[The Woman of Thebez]],
+[[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]],
+[[Draw Your Sword - The Deaths of Abimelech and Saul]], and
+[[God Repaid - Adoni-Bezek, Joseph's Brothers, and Abimelech]]. Source: stored WEB Judges 7:17; 8:17;
+9:22–57; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Timeline / key events
 - Born to Gideon's concubine in Shechem, and named by Gideon — Judges 8:31
 - Asks Shechem to choose *one* ruler; paid from Baal Berith's house; kills his seventy brothers on one stone; made king by the oak of the pillar — Judges 9:1–6
+- Prince over Israel three years; Shechem turns against him; defeats Gaal — Judges 9:22–41
+- Destroys Shechem and sows it with salt; burns the tower of Shechem — Judges 9:42–49
+- Killed at Thebez by a woman's millstone and his armor bearer's sword — Judges 9:50–54
 
 ## Appears in
 - [[Gideon's Ephod and Death]] — Judges 8:31.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6.
 - [[Jotham's Fable]] — Judges 9:7–21; the bramble of the fable, and the target of the curse.
+- [[The Fall of Abimelech]] — Judges 9:22–57; his three years, the destruction of Shechem, and his death at Thebez.
 
 ## Related people
 - [[Gideon]] — his father, who refused to rule and named him *Abimelech*.
@@ -72,6 +108,8 @@ from the men of Shechem … and devour Abimelech* (9:20). Abimelech does not ans
   name before him.
 - [[Baal Berith]] — the god of the house whose silver pays his men (9:4).
 - [[Jotham (son of Gideon)]] — the youngest brother, who hid and survived (9:5).
+- [[Gaal]] and [[Zebul]] — the rival who stirs Shechem against him, and the officer who holds it for him (9:26–41).
+- [[The Woman of Thebez]] — who kills him with a millstone (9:53).
 
 ## Themes associated
-- [[Kingship and Empire]] · [[Names and Naming]] · [[Brotherhood]]
+- [[Kingship and Empire]] · [[Names and Naming]] · [[Brotherhood]] · [[Retribution]] · [[War]]

@@ -30,8 +30,8 @@ Beer and stays there, *for fear of Abimelech his brother* (21).
 
 This is the first fable in the Bible. It is the only speech in Judges 9 that names God, and the only
 word of judgment on what Shechem did. Nobody answers it. The narrator does not say whether it came true
-until the last verse of the chapter: *the curse of Jotham the son of Jerubbaal came on them* (9:57,
-stored WEB; not yet ingested).
+until the last verse of the chapter: *the curse of Jotham the son of Jerubbaal came on them* (9:57; see
+[[The Fall of Abimelech]]).
 
 **From the mountain of blessing (9:7).**
 
@@ -175,8 +175,8 @@ for you, and risked his life*, *wayyašlēk ʾet-napšô minneged*, literally *t
 the risk. *And delivered you out of the hand of Midian*, *wayyaṣṣēl*. Then the charge: *you have risen
 up against my father's house today*. *Risen up* is *qûm*, the verb of Cain, who *rose up against Abel,
 his brother* (Genesis 4:8). *And have slain his sons, seventy persons, on one stone*. In 9:5 the killer
-was Abimelech. Here Jotham says *you*. The men who paid for it share the guilt. 9:24 will say the same
-(stored WEB; not yet ingested).
+was Abimelech. Here Jotham says *you*. The men who paid for it share the guilt. 9:24 says the same
+(see [[The Fall of Abimelech]]).
 
 *The son of his female servant*, *ben-ʾămātô*. Gideon's own word for her was *pîlegeš*, *concubine*
 (8:31). The narrator lets the two stand. Jotham's is a brother's insult. *Because he is your brother*,
@@ -191,7 +191,7 @@ think it did.
 house of Millo*, and they burn him. It is a curse of mutual destruction. *Beth Millo* is named twice,
 the only other verse in Genesis–Judges that names it (see [[Beth Millo (Shechem)]]). The chapter's
 second half (9:22–57) carries it out in that order: Shechem turns against Abimelech; he burns the
-tower of Shechem with fire, and dies at Thebez (stored WEB; not yet ingested).
+tower of Shechem with fire, and dies at Thebez. See [[The Fall of Abimelech]].
 
 **Flight to Beer (9:21).**
 
@@ -269,7 +269,7 @@ truly … if not*). See [[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 
 - [[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]].
 - [[The Bramble and the Thistle - Plant Fables in Judges 9 and 2 Kings 14]].
 - [[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]].
-- Judges 9:22–57 — the curse carried out; *the curse of Jotham* (9:57) (stored WEB; not yet ingested).
+- [[The Fall of Abimelech]] — Judges 9:22–57; the curse carried out; *the curse of Jotham* (9:57).
 - 1 Samuel 10:1 — Saul anointed; 2 Kings 14:9 — Jehoash's fable of the thistle and the cedar (WEB
   checked at bible-api.com; not yet ingested).
 
@@ -309,7 +309,7 @@ identification is reported, not checked.
 
 **"Take refuge in my shade."** *Ḥăsû bəṣillî* (9:15). *Ḥāsâ* (2620): Deuteronomy 32:37; Judges 9:15
 only. *Ṣēl* (6738): Genesis 19:8; Numbers 14:9; Judges 9:15, 36 (WLC). Judges 9:36 is Zebul's *the
-shadow of the mountains* (stored WEB; not yet ingested).
+shadow of the mountains*; see [[The Fall of Abimelech]].
 
 **"Fire … devour."** *Yāṣāʾ* (3318) with *ʾēš* (784) and *ʾākal* (398) in one verse: Exodus 22:5 (WLC;
 WEB 22:6); Leviticus 9:24; 10:2; Numbers 16:35; 21:28; Judges 9:15, 20, by a lemma search. *ʾErez*

@@ -12,8 +12,8 @@ tags: [connection]
 - [[Abimelech Made King at Shechem]] — **Judges 9:5** — *He went to his father's house at Ophrah, and
   killed his brothers the sons of Jerubbaal, being seventy persons, on one stone: but Jotham the
   youngest son of Jerubbaal was left; for he hid himself.* (stored WEB)
-- **Judges 9:56** — *Thus God repaid the wickedness of Abimelech, which he did to his father, in killing
-  his seventy brothers* (stored WEB; not yet ingested)
+- [[The Fall of Abimelech]] — **Judges 9:56** — *Thus God repaid the wickedness of Abimelech, which he did
+  to his father, in killing his seventy brothers* (stored WEB)
 - **2 Kings 10:1, 6–7** — *Now Ahab had seventy sons in Samaria.* … *they took the king's sons and
   killed them, even seventy people, and put their heads in baskets, and sent them to him to Jezreel.*
   (WEB checked at bible-api.com, 2026-11-15; not yet ingested)

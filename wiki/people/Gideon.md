@@ -143,6 +143,13 @@ good trees of the fable, who will not leave their fruit to be king, speak close 
 rule over you* (8:23), though Jotham does not say that any tree is Gideon. See [[Jotham's Fable]].
 Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
+**Repaid for his house (9:22–57).** Gideon's name runs through his son's fall. Gaal asks *Isn't he the
+son of Jerubbaal?* (9:28). Abimelech's methods echo his father's: three companies (7:16; 9:43), *do as I
+have done* (7:17; 9:48), and a tower broken down with *nātaṣ* (8:17; 9:45) (WLC). The narrator counts the
+killing of the seventy as a wrong done to Gideon: *God repaid the wickedness of Abimelech, which he did
+to his father* (9:56), and the chapter's last words name *Jotham the son of Jerubbaal* (9:57). See
+[[The Fall of Abimelech]]. Source: stored WEB Judges 7:16–17; 8:17; 9:28, 43–57.
+
 ## Timeline / key events
 
 - Judges 6:11 — threshing wheat in a winepress at Ophrah, hiding from Midian.
@@ -187,6 +194,7 @@ Source: stored WEB Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11
 - [[Gideon's Ephod and Death]] — Judges 8:22–35.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6 (as *Jerubbaal*).
 - [[Jotham's Fable]] — Judges 9:16–19 (as *Jerubbaal*).
+- [[The Fall of Abimelech]] — Judges 9:24, 28, 56–57 (as *Jerubbaal* and *his father*).
 
 ## Related people
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian he pursues and kills for his brothers (8:5–21).

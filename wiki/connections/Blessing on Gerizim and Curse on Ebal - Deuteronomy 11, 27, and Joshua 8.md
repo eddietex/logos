@@ -98,7 +98,8 @@ went and stood on the top of Mount Gerizim … and said to them, "Listen to me, 
 God may listen to you"* (Judges 9:7). The blessing was to be set there (Deuteronomy 11:29), and six
 tribes were to stand there *to bless the people* (27:12). Jotham tells the fable of the trees and ends
 with a curse of fire on Abimelech and Shechem (9:20), which the narrator later calls *the curse of
-Jotham* (9:57, stored WEB; not yet ingested). In the WLC of Genesis–Judges *Gerizim* occurs only at
+Jotham* (9:57). That verse uses *qəlālâ*, the noun of *the blessing and the curse* set on these two
+mountains (Deuteronomy 11:29; WLC); see [[The Fall of Abimelech]]. In the WLC of Genesis–Judges *Gerizim* occurs only at
 Deuteronomy 11:29; 27:12; Joshua 8:33; and Judges 9:7. The text does not comment on the reversal, and
 the wiki does not claim the writer intended one; the place itself sets it up. See [[Jotham's Fable]].
 Source: stored WEB Judges 9:7–21, 57; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.

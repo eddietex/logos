@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The house of their god — Judges 9:27, 46–49
+
+At the vintage the men of Shechem *went into the house of their god, and ate and drank, and cursed
+Abimelech* (9:27). *Held festival* is *hillûlîm*, which in Genesis–Judges occurs elsewhere only for the
+fourth-year fruit that *shall be holy, for giving praise to Yahweh* (Leviticus 19:24; WLC). The praise
+word of the law is used for a feast in a Baal house. When the city falls, the men of the tower take
+refuge in *the stronghold of the house of Elberith* (9:46), and Abimelech burns it over them (9:49). The
+god whose house paid for the killing of the seventy (9:4) cannot shelter its own worshippers. See
+[[The Fall of Abimelech]] and [[Baal Berith]]. Source: stored WEB Leviticus 19:24; Judges 9:4, 27,
+46–49; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Baal Berith's silver — Judges 9:4
 
 The god Israel took after Gideon (8:33) has a house at Shechem with silver in it, and the silver pays
@@ -562,6 +573,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[The Fall of Abimelech]] — Judges 9:27, 46–49; a festival in *the house of their god*; the stronghold of El Berith burned.
 - [[Abimelech Made King at Shechem]] — Judges 9:4; the house of Baal Berith pays Abimelech's hired men.
 - [[Gideon's Ephod and Death]] — Judges 8:27, 33; Gideon's ephod a *snare*; Israel turns to Baal Berith.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; Joash's Baal altar and Asherah thrown down, and the town defends them.

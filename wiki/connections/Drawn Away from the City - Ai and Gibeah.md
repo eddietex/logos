@@ -10,6 +10,8 @@ tags: [connection]
 - [[The Capture of Ai]] — Joshua 8:5–6, 14–22: the ambush west of the city, the feigned flight,
   *"They flee before us, like the first time"*, the city left open, and the smoke that *"ascended up
   to heaven"* (stored WEB).
+- [[The Fall of Abimelech]] — Judges 9:25, 32–49: Abimelech's ambushes at Shechem, the gate held, and
+  the stronghold set on fire (stored WEB).
 - Judges 20:13–48 — Israel against Benjamin at Gibeah (WEB, verses 13, 21, 25, and 29–38 verified at
   bible-api.com; not yet ingested).
 
@@ -34,6 +36,14 @@ The wiki has not compared the Hebrew of Judges 20 with Joshua 8 in this pass, so
 phrases are not claimed as shared Hebrew phrases. Whether one narrative was shaped on the other is
 not something the texts state.
 
+**Shechem between them.** Judges 9 uses the same vocabulary for a war between an Israelite king and an
+Israelite town. *ʾĀrab*, *lie in wait*, is the verb of Joshua 8:2 and of Judges 9:25, 32, 34, 43 (WLC).
+Abimelech's companies hold the gate while the others strike *all who were in the field* (9:44). Ai's
+people were cut off between the ambush and Joshua's army (Joshua 8:20–22). Then he burns a stronghold
+in the city. *Wayyaṣṣîtû … bāʾēš*, *set … on fire*, is in Genesis–Judges otherwise only Joshua 8:8, 19, at
+Ai (WLC). There is no feigned flight at Shechem, so the shape is closer to Ai's ambush than to its
+drawing away. See [[The Fall of Abimelech]].
+
 ## Significance
 
 At Ai the stratagem is Yahweh's (*Set an ambush*, 8:2) and is used against a Canaanite city after
@@ -42,5 +52,6 @@ one of its own tribes, after Benjamin refused to give up the men of Gibeah (Judg
 parallel shows the conquest's methods turned inward at the end of Judges — a shape the wiki
 notes now and will revisit when Judges is ingested.
 
-Sources: stored WEB Joshua 7–8; Judges 20:13, 21, 25, and 29–38 verified at bible-api.com (WEB),
+Sources: stored WEB Joshua 7–8; Judges 9:25–49; Hebrew WLC (OpenScriptures morphhb), 2026-11-15, for
+Joshua 8 and Judges 9 only; Judges 20:13, 21, 25, and 29–38 verified at bible-api.com (WEB),
 2026-11-10.

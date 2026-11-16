@@ -10,7 +10,7 @@ tags: [connection]
 - [[Deborah and Barak]] — Judges 4:9, the word spoken
 - [[Jael and Sisera]] — Judges 4:21–22, the word fulfilled
 - [[The Song of Deborah]] — Judges 5:24–27, the woman blessed
-- Judges 9:53–54 — Abimelech and the millstone *(stored WEB, not yet ingested)*
+- [[The Fall of Abimelech]] — Judges 9:53–54, Abimelech and the millstone
 - 2 Samuel 11:21 — Joab remembers Abimelech *(WEB checked at bible-api.com, not yet ingested)*
 
 ## Analysis
@@ -30,7 +30,7 @@ The text does not draw the line from 4:9 to 4:21 itself; the arrangement does.
 **The counter-echo.** Judges 9 ends the story of Abimelech, the son of Gideon who made himself king at
 Shechem. At Thebez, *a certain woman cast an upper millstone on Abimelech's head, and broke his skull*.
 He calls his armor bearer: *Draw your sword, and kill me, that men not say of me, "A woman killed him"*
-(9:53–54, stored WEB). In the Hebrew the woman is *ʾiššâ ʾaḥat*, *one woman*, and his fear is
+(9:53–54, stored WEB; see [[The Fall of Abimelech]] and [[The Woman of Thebez]]). In the Hebrew the woman is *ʾiššâ ʾaḥat*, *one woman*, and his fear is
 *ʾiššâ hărāgathû*, *a woman killed him* (WLC). Abimelech regards a woman's killing as a disgrace, the
 thing Deborah told Barak about his honor. Generations later the disgrace is still remembered: Joab
 expects David to say *Who struck Abimelech the son of Jerubbesheth? Didn't a woman cast an upper
@@ -54,6 +54,13 @@ workmen's hammer* (5:26). Abimelech in 9:54 dreads the shame of *A woman killed 
 at a woman's hand is, in the Song, the climax of praise. See [[The Song of Deborah]] and
 [[Blessed Among Women - Jael in Judges 5.24 and Mary in Luke 1]].
 
+**What the two women throw and strike with.** Jael *took a hammer in her hand*; the woman of Thebez
+*cast* the stone, *wattašlēk*, the verb Jotham used of Gideon, who *risked his life*, literally *threw*
+it (9:17, WLC). Her stone is *pelaḥ rekeb*, an upper millstone (9:53). Abimelech's death also
+anticipates Saul's, who asks his armor bearer in nearly the same words to *Draw your sword* (1 Samuel
+31:4, WEB checked at bible-api.com, 2026-11-15); see
+[[Draw Your Sword - The Deaths of Abimelech and Saul]].
+
 ## Significance
 
 Deborah's prophecy is the only explicit prediction in Judges 4, and its fulfillment comes with a turn
@@ -61,6 +68,6 @@ Barak and the reader do not expect. Read with Judges 9, it shows Judges using a 
 against a man's honor: once for Israel's deliverer, who loses it to another, and once against a
 usurper, who could not escape it.
 
-Source: stored WEB Judges 4:2, 9, 14, 17–22; 5:26; 9:5, 53–54; Genesis 3:15. 2 Samuel 11:21 (WEB) checked
+Source: stored WEB Judges 4:2, 9, 14, 17–22; 5:26; 9:5, 17, 53–54; Genesis 3:15. 2 Samuel 11:21 (WEB) checked
 at bible-api.com (`?translation=web`), 2026-11-13; 2 Samuel is not stored. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb, `Gen.xml`, `Judg.xml`), 2026-11-13.

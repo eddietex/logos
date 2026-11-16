@@ -164,7 +164,7 @@ family, and the money comes from a temple of Israel's new god. Gideon's *I will 
 neither shall my son rule over you* (8:23) is answered by Shechem: *one … rule over you … he is our
 brother*. The book has no word of judgment yet. Jotham speaks it from Gerizim in the next pericope,
 and 9:56–57 says how it ended: *God repaid the wickedness of Abimelech, which he did to his father, in
-killing his seventy brothers* (stored WEB; not yet ingested).
+killing his seventy brothers*. See [[The Fall of Abimelech]].
 
 ## Key verses
 
@@ -213,7 +213,7 @@ killing his seventy brothers* (stored WEB; not yet ingested).
 - [[The Covenant at Shechem]] — Joshua 24:26–27; the stone under the oak at Shechem.
 - [[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]].
 - [[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]].
-- Judges 9:7–21, 56–57 — Jotham's fable and curse, and God's repayment (stored WEB; not yet ingested).
+- [[Jotham's Fable]] and [[The Fall of Abimelech]] — Judges 9:7–21, 22–57; Jotham's fable and curse, and God's repayment.
 - Judges 11:3 — Jephthah's *ʾănāšîm rêqîm* (stored WEB; not yet ingested).
 - 2 Samuel 5:1–3; 2 Kings 10:1–7; 11:1–2 — WEB checked at bible-api.com; not yet ingested.
 

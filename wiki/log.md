@@ -26755,3 +26755,53 @@ olive/fig/vine set (Deuteronomy 8:8), *dešen*, *mōteq*, *tənûbâ*, *tîrôš
 *bāraḥ*; and *ḥôaḥ* against *ʾāṭād* in 2 Kings 14:9. Reported, not checked: the identification of the
 bramble, the lexical range of *māšāl* and *parabolē* on the [[Parables]] page, and the view that the
 two plant fables are the Hebrew Bible's only ones. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 9.22-57 — The Fall of Abimelech
+
+Unattended run (`/ingest auto`). Ingested Judges 9:22–57 as [[The Fall of Abimelech]]. Abimelech is
+*prince over Israel* three years. God sends *an evil spirit* between him and Shechem so that the blood
+of the seventy comes back on both. Gaal the son of Ebed stirs the town at the vintage festival, Zebul
+traps him, and he is driven out. Abimelech destroys and salts the city, burns about a thousand people in
+the stronghold of El Berith, and is killed at Thebez by a woman's millstone and his armor bearer's
+sword. *God repaid*, and *the curse of Jotham … came on them*. The discussion step was written into the
+passage page.
+
+Created: the passage page; three people ([[Gaal]], [[Zebul]], [[The Woman of Thebez]]); five places
+([[Arumah]], [[The Oak of Meonenim]], [[Mount Zalmon]], [[Thebez]], [[The Tower of Shechem]]); two
+connections ([[Draw Your Sword - The Deaths of Abimelech and Saul]],
+[[God Repaid - Adoni-Bezek, Joseph's Brothers, and Abimelech]]).
+
+Revised: people [[Abimelech (son of Gideon)]], [[Jotham (son of Gideon)]], [[Gideon]], [[God]],
+[[Hamor]], [[Shechem (son of Hamor)]], [[Baal Berith]] (El Berith section); places [[Shechem (city)]],
+[[Beth Millo (Shechem)]]; eight themes ([[Retribution]], [[Curse]], [[Kingship and Empire]],
+[[The Spirit of God]], [[War]], [[Brotherhood]], [[Blood]], [[Idolatry]]); nine connections
+([[Into a Woman's Hand - Judges 4.9, 4.21, and 9.53-54]],
+[[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]],
+[[Blessing on Gerizim and Curse on Ebal - Deuteronomy 11, 27, and Joshua 8]],
+[[The Bramble and the Thistle - Plant Fables in Judges 9 and 2 Kings 14]],
+[[Break Down Their Altars - Exodus 34.13, Deuteronomy 7.5, Judges 2.2, and Judges 6.25-32]],
+[[The Name of Yahweh Is a Strong Tower - Proverbs 18.10-11, Psalm 61.3, and Genesis 11.4]],
+[[Drawn Away from the City - Ai and Gibeah]],
+[[Penuel and Succoth - Jacob's Road and Gideon's Pursuit]],
+[[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]); and the "not yet ingested" pointers
+to 9:22–57 in [[Jotham's Fable]], [[Abimelech Made King at Shechem]], [[Ephraim, Succoth, and Penuel]],
+[[Jael and Sisera]], and [[Gideon Throws Down Baal's Altar]]. Also updated the book page (box checked,
+overview, key themes, people, places), the books index (24 / 42), the people (A-E, F-M, N-Z), places,
+themes, and connections (A-C, D-H, I-N, O-S) indexes, and the dashboard counts. Frontmatter totals: 460
+passages, 321 people, 579 places, 88 themes, 879 connections.
+
+Judgment calls: kept 9:22–57 as one pericope, because 9:23–24 announces the judgment and 9:56–57 closes
+it. `Gaal` and `Zebul` are unqualified; no collision exists. The woman is named for her town. *El
+Berith* (9:46) is handled on the [[Baal Berith]] page with the difference of name recorded, not merged
+silently. The tower of Shechem gets its own page and is not identified with Beth Millo. Shechem's
+ambush tactics were added to the existing Ai/Gibeah connection rather than given a new page. The
+passage page records that the second half of Jotham's curse (fire from Shechem on Abimelech) is
+fulfilled in sense, not literally, since he dies by a millstone and a sword.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Leviticus, Deuteronomy, Joshua, and Proverbs 18:10. 1 Samuel 10:7; 31:4 and 2 Samuel 11:21 checked at
+bible-api.com (WEB) on 2026-11-15 and not stored in `raw/`. Hebrew came from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb), Genesis through Judges, plus `1Sam.xml` read only
+for 1 Samuel 10:7 and 31:4, on 2026-11-15. Reported, not checked: 1 Samuel 16:14 and 31:3, Ezekiel
+38:12, the reading *in Tormah*, the sense of *Ebed*, the meaning of the salting, the tower/Beth Millo
+identification, and the household-tool reading of the millstone. No Greek or Latin text was consulted.

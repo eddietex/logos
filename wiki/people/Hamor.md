@@ -66,6 +66,7 @@ mention of the sack. See
 
 ## Appears in
 
+- [[The Fall of Abimelech]] — Judges 9:28; Gaal tells Shechem *Serve the men of Hamor the father of Shechem*, the town's old founders against Gideon's son.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; his sons sold the parcel where Joseph is buried (32).
 - [[The Reconciliation with Esau]] — Genesis 33:19; named once, to identify whose land Jacob buys.
   He is not shown acting or speaking; the sale is reported entirely from Jacob's side

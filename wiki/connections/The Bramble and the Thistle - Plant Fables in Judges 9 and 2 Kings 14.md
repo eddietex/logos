@@ -44,7 +44,9 @@ heart has lifted you up* (2 Kings 14:10, WEB checked at bible-api.com; not yet i
 
 The two fables show the form being used in Israel's own history, by its own people, about kings. Both
 are spoken from a position of weakness or strength to warn of what pride or a bad choice will cost.
-Jotham's is fulfilled within the same chapter (Judges 9:56–57, stored WEB; not yet ingested). See
+Jotham's is fulfilled within the same chapter (Judges 9:56–57): fire from Abimelech burns the tower of
+Shechem (9:49), and Abimelech dies at a woman's hand (9:53). The bramble's fire comes true in the first
+half, and the second half comes true in sense, not image. See [[The Fall of Abimelech]] and
 [[Parables]].
 
 Sources: Judges 9:14–20 from stored WEB; 2 Kings 14:9–10 checked at bible-api.com (WEB), 2026-11-15.

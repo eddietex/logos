@@ -157,7 +157,7 @@ down* (25, WLC). The report of the deed and every later mention use a different 
 (Exodus 34:13; Deuteronomy 7:5; compare *wənittaṣtem*, Deuteronomy 12:3), and of the angel's at Bochim
 (Judges 2:2), all WLC. In the WLC of Judges, *hāras* occurs only in 6:25. *Nātaṣ* occurs in 2:2,
 6:28–32, and three later verses: Gideon breaks down the tower of Penuel (8:9, 17), and Abimelech breaks
-down Shechem (9:45). The command and the report use different verbs. Why the narrator changes verbs
+down Shechem (9:45; [[Ephraim, Succoth, and Penuel]], [[The Fall of Abimelech]]). The command and the report use different verbs. Why the narrator changes verbs
 is not explained, and this page does not explain it either.
 
 **"Cut down the Asherah."** *Tikrōt* (25), *tikrōt* (26), *kōrātâ* (28), *kārat* (30), all from

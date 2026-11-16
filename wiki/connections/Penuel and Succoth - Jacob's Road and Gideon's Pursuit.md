@@ -36,6 +36,12 @@ checked here). The wiki records the match without claiming that Judges 8 alludes
 the tower of Penuel* (Judges 8:17). Jeroboam later *built Penuel* again (1 Kings 12:25). The narrator of
 Judges does not draw the contrast.
 
+**The son repeats it.** Gideon *broke down the tower of Penuel, and killed the men of the city* (Judges
+8:17). His son Abimelech *beat down* Shechem with the same verb, *nātaṣ*, and burns *the tower of
+Shechem* with its people inside (9:45–49; WLC). The only two towers named in Judges before Thebez are
+Penuel's and Shechem's, and both are destroyed by Gideon's house. See [[The Fall of Abimelech]] and
+[[The Tower of Shechem]].
+
 **Spelling.** The Hebrew has *Pənîʾēl* at the naming (Genesis 32:31 Hebrew) and *Pənûʾēl* in the next
 verse and in Judges 8:8, 9, 17 (WLC). See [[Peniel]].
 
@@ -46,6 +52,6 @@ towns where Gideon, after his victory, turns his anger on fellow Israelites. The
 lexical. Neither text cites the other. See [[Succoth (Transjordan)]], [[Peniel]], [[Jacob]], and
 [[Gideon]].
 
-Sources: stored WEB Genesis 32:30–31; 33:17; Judges 6:22; 8:5–17. 1 Kings 12:25 checked at bible-api.com
+Sources: stored WEB Genesis 32:30–31; 33:17; Judges 6:22; 8:5–17; 9:45–49. 1 Kings 12:25 checked at bible-api.com
 (WEB), 2026-11-15. Hebrew of Genesis 32 and Judges 6 and 8 from the Westminster Leningrad Codex
 (OpenScriptures morphhb), 2026-11-15. Exodus 33:11 not checked.

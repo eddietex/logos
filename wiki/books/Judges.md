@@ -239,6 +239,19 @@ fought for you, and risked his life*, and charges them with the seventy killed *
 curse is fire both ways, from Abimelech on Shechem and from Shechem on Abimelech. Then he flees to Beer
 *for fear of Abimelech his brother*. The rest of the chapter carries the curse out.
 
+[[The Fall of Abimelech]] (9:22–57) does. *Abimelech was prince over Israel three years*, with a verb
+that is not *king*. Then *God sent an evil spirit between Abimelech and the men of Shechem*, so that the
+blood of the seventy would come back on both. Shechem trusts a newcomer, Gaal the son of Ebed, and at
+the vintage festival, in *the house of their god*, curses Abimelech: *Who is Abimelech … that we should
+serve him?* Zebul, Abimelech's officer, sets the trap. Gaal is beaten and driven out. Abimelech then
+takes the city, kills its people, *beat down the city, and sowed it with salt*, and burns about a
+thousand men and women in the stronghold of El Berith. He copies his father's *do as I have done* and
+his father's broken tower. At Thebez, as he comes to burn another tower, *a certain woman cast an upper
+millstone on Abimelech's head*. He has his armor bearer kill him, *that men not say of me, "A woman
+killed him"*, and Israel goes home. The narrator gives the verdict: *Thus God repaid the wickedness of
+Abimelech … and the curse of Jotham the son of Jerubbaal came on them*. It is the book's only story
+with no outside enemy, no outcry, and no deliverer. God acts only in its first and last verses.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -284,7 +297,7 @@ merge, or reorder them freely.
 - [x] [[Gideon's Ephod and Death]] — Judges 8:22–35
 - [x] [[Abimelech Made King at Shechem]] — Judges 9:1–6
 - [x] [[Jotham's Fable]] — Judges 9:7–21
-- [ ] The Fall of Abimelech — Judges 9:22–57
+- [x] [[The Fall of Abimelech]] — Judges 9:22–57
 - [ ] Tola and Jair — Judges 10:1–5
 - [ ] Israel's Repentance Under Ammon — Judges 10:6–18
 - [ ] Jephthah Called from Tob — Judges 11:1–11
@@ -307,7 +320,7 @@ merge, or reorder them freely.
 ## Key themes
 - [[War]] — the tribes' campaigns, and at the end a war of Israel against one of its own tribes.
 - [[Retribution]] — *As I have done, so God has done to me* (1:7), the first of the book's
-  measure-for-measure reversals.
+  measure-for-measure reversals; *Thus God repaid the wickedness of Abimelech* (9:56).
 - [[Land and Sojourning]] — the land allotted in Joshua, still to be taken in Judges.
 - [[Brotherhood]] — Judah and Simeon fight together (1:3); *He is our brother*, and seventy brothers killed on one stone (9:3–5); Judah leads against Benjamin (20:18).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
@@ -326,6 +339,8 @@ merge, or reorder them freely.
 
 - [[Parables]] — Jotham's fable of the trees, the Bible's first (9:8–15).
 - [[Curse]] — *Curse Meroz* (5:23); *the curse of Jotham* (9:20, 57).
+- [[The Spirit of God]] — and *an evil spirit* sent by God between Abimelech and Shechem (9:23).
+- [[Blood]] — the blood of the seventy *laid on Abimelech … and on the men of Shechem* (9:24).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -350,6 +365,9 @@ merge, or reorder them freely.
 - [[Abimelech (son of Gideon)]] — Gideon's son by a concubine in Shechem (8:31); kills his seventy brothers and is made king at Shechem (9:1–6).
 - [[Baal Berith]] — the god Israel takes after Gideon's death (8:33), whose house pays for the killing (9:4).
 - [[Jotham (son of Gideon)]] — the youngest son, who hid and survived (9:5); tells the fable of the trees from Gerizim, and flees to Beer (9:7–21).
+- [[Gaal]] — the newcomer who stirs Shechem against Abimelech (9:26–41).
+- [[Zebul]] — Abimelech's officer and *ruler of the city* (9:28–41).
+- [[The Woman of Thebez]] — casts the millstone that kills Abimelech (9:53).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -368,3 +386,7 @@ merge, or reorder them freely.
 - [[Beth Millo (Shechem)]] — *the house of Millo*, which joins in making Abimelech king (9:6).
 - [[Mount Gerizim]] — where Jotham tells his fable (9:7).
 - [[Beer (Jotham's refuge)]] — where Jotham flees (9:21).
+- [[Arumah]] — where Abimelech lives during the revolt (9:41).
+- [[The Oak of Meonenim]] — the diviners' oak on a road into Shechem (9:37).
+- [[The Tower of Shechem]] and [[Mount Zalmon]] — the stronghold burned, and where the boughs were cut (9:46–49).
+- [[Thebez]] — where Abimelech dies (9:50–55).

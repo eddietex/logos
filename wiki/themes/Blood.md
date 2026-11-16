@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Their blood laid on Abimelech — Judges 9:24
+
+*That the violence done to the seventy sons of Jerubbaal might come, and that their blood might be laid
+on Abimelech their brother, who killed them, and on the men of Shechem, who strengthened his hands to
+kill his brothers* (Judges 9:24). *Their blood*, *dāmām*, is *laid* (*śûm*) on two parties: the man who
+killed and the town that paid and backed him. No avenger of blood acts and no court tries the case.
+God sends the spirit that sets the two against each other. *Ḥāmās*, *violence*, is the word of the
+flood (Genesis 6:11), and the principle is Genesis 9:6, *Whoever sheds man's blood, his blood will be
+shed by man* (stored WEB). See [[The Fall of Abimelech]]. Source: stored WEB Genesis 6:11; 9:6; Judges
+9:24; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Refuge cities appointed — Joshua 20:1–9
 
 The avenger of blood may pursue, but the city must not surrender the person who killed unintentionally without prior hatred (3–5). Protection pending trial prevents the death of the accused before communal judgment (9).
@@ -409,6 +420,7 @@ burnt- and peace-offering blood around the altar (9:9, 12, 18). No blood entry i
 narrated. See [[The Eighth Day and the Appearing Glory]] .
 
 ## Key passages
+- [[The Fall of Abimelech]] — Judges 9:24; the blood of the seventy laid on Abimelech and on Shechem.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

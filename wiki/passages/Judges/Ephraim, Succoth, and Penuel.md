@@ -106,7 +106,8 @@ between them Gideon's threat. See
 
 *This tower*, *migdāl*, is a fortified tower in the town. The first *migdāl* in the Bible was Babel's,
 *a tower whose top reaches to the sky* (Genesis 11:4). The next is the tower of Shechem, in the story of
-Gideon's son (9:46–52, stored WEB; not yet ingested).
+Gideon's son (9:46–52). Gideon's son *beat down* Shechem with the same verb, *nātaṣ* (9:45, WLC). See
+[[The Fall of Abimelech]] and [[The Tower of Shechem]].
 
 **The kings taken (8:10–12).**
 
@@ -289,8 +290,8 @@ brothers. The next pericope opens with the offer of a crown (8:22).
 - [[The Day of Midian - Oreb and Zeeb in Psalm 83 and Isaiah 9-10]] — Psalm 83:11, *all their princes
   like Zebah and Zalmunna*.
 - Judges 8:22–31 — the crown offered, the ephod, and Abimelech (stored WEB; not yet ingested).
-- Judges 9:46–52; 11:31; 12:1–6 — the tower of Shechem; Jephthah's vow; Ephraim at the fords (stored
-  WEB; not yet ingested).
+- [[The Fall of Abimelech]] — Judges 9:45–52; Shechem beaten down, and the towers of Shechem and Thebez.
+- Judges 11:31; 12:1–6 — Jephthah's vow; Ephraim at the fords (stored WEB; not yet ingested).
 - 1 Kings 12:25 — *Then Jeroboam built Shechem … and he went out from there, and built Penuel* (WEB
   checked at bible-api.com; not yet ingested).
 

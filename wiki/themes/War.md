@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israelite against Israelite — Judges 9:22–57
+
+Judges 9 has no foreign enemy at all. Abimelech uses the methods of the conquest against Israelite towns.
+He uses an ambush, *ʾārab*, the verb of Ai (Joshua 8:2; Judges 9:32, 34, 43), divides his men into
+companies, *rāʾšîm*, as Gideon did against Midian (7:16; 9:34, 43), and he holds the gate so that the
+people in the field cannot get back (9:44). He takes the city and kills its people. He *beat down the
+city, and sowed it with salt* (9:45). He burns a stronghold with about a thousand men and women in it.
+*Set … on fire*, *yāṣat* with *ʾēš*, is otherwise in Genesis–Judges only Ai's burning (Joshua 8:8, 19;
+Judges 9:49; WLC). At Thebez he tries the same again and is killed from the tower (9:50–54). The men
+who fought for him are *the men of Israel*, and when he is dead they go home (9:55). See
+[[The Fall of Abimelech]] and [[Drawn Away from the City - Ai and Gibeah]]. Source: stored WEB Joshua
+8:2, 8, 19; Judges 7:16; 9:22–55; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The pursuit beyond the Jordan — Judges 8:4–12
 
 After the battle comes the pursuit, and the narrator gives numbers for the first time: fifteen thousand
@@ -863,6 +876,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 
 ## Key passages
 
+- [[The Fall of Abimelech]] — Judges 9:25–55; ambushes, a city salted, a tower burned, and a king killed at a siege, all among Israelites.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; the pursuit with three hundred, the camp at Karkor taken, and the kings killed.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; horns and torches, the enemy's swords turned on itself, the fords held.
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; the reconnaissance, and the order *Arise*.

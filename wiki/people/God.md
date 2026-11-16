@@ -4168,6 +4168,7 @@ See [[The Uneaten Sin Offering]]. Source: stored WEB Leviticus 10:12–20.
 
 ## Appears in
 
+- [[The Fall of Abimelech]] — Judges 9:22–57; sends *an evil spirit* between Abimelech and Shechem (23) and *repaid the wickedness* of both (56–57), the only acts of God in the chapter.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; named only in Gideon's mouth (3, 7, 19), including the oath *As Yahweh lives*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25; *Yahweh set every man's sword against his fellow*; named first in *The sword of Yahweh and of Gideon!*
 - [[The Dream of the Barley Loaf]] — Judges 7:9–15; *I have delivered it into your hand*, and *if you are afraid … you will hear what they say*; *God* in the Midianite interpreter's mouth, *Yahweh* in Gideon's.

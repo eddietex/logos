@@ -138,7 +138,32 @@ Abimelech on *the men of Shechem, and the house of Millo*, and fire from them on
 [[Jotham's Fable]] and [[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]]. Source: stored WEB
 Joshua 24:14; Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
+### Revolt, destruction, and salt — Judges 9:22–57
+
+After three years *God sent an evil spirit between Abimelech and the men of Shechem*, so that the blood
+of the seventy would come on Abimelech *and on the men of Shechem, who strengthened his hands* (9:23–24).
+The town robs travellers on the mountain roads (9:25), trusts the newcomer [[Gaal]], and at the vintage
+festival *in the house of their god* curses Abimelech (9:26–27). Gaal tells it to *serve the men of
+Hamor the father of Shechem* (9:28), calling it back to the Hivite house of Genesis 34. *Ḥāmās*,
+*violence* (9:24), is Jacob's word for Simeon and Levi's swords at this town (Genesis 49:5; WLC).
+
+Abimelech's officer [[Zebul]] betrays Gaal, and Gaal is beaten at the gate and driven out (9:30–41).
+The next day Abimelech ambushes the people in the field, takes the city, kills its people, *beat down the
+city, and sowed it with salt* (9:42–45). Then he burns [[The Tower of Shechem]] with about a thousand men
+and women inside the stronghold of El Berith (9:46–49). *God repaid all the wickedness of the men of
+Shechem on their heads; and the curse of Jotham the son of Jerubbaal came on them* (9:57).
+
+It is the second destruction of Shechem in Scripture. The first was by Simeon and Levi (Genesis
+34:25–29). Both times the men of the town are killed after making terms with a brother. In Genesis the
+terms were circumcision, and in Judges they were *He is our brother* (9:3). The salting (9:45) is
+meant to leave the ground barren, but Shechem is still a town in 1 Kings 12:1 (not yet ingested). The
+text of Judges does not say when or by whom it was rebuilt. See [[The Fall of Abimelech]] and
+[[Simeon and Levi - The Sword at Shechem and the Deathbed Curse]]. Source: stored WEB Genesis 34:25–29;
+49:5; Judges 9:3, 22–57; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Appears in
+
+- [[The Fall of Abimelech]] — Judges 9:22–57; turns against Abimelech, is taken, beaten down, and sown with salt; its tower burned.
 
 - [[Jotham's Fable]] — Judges 9:7–21; addressed and cursed by Jotham from Gerizim.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; Abimelech chosen and made king by the oak of the pillar.
@@ -193,6 +218,8 @@ Joshua 24:14; Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 - [[Haran (city)]] — the city he came from, four hundred miles north-east
 - [[Beth Millo (Shechem)]] — *the house of Millo*, which joins Shechem in making Abimelech king (Judges 9:6)
 - [[Ophrah (Manasseh)]] — Gideon's town, where Abimelech kills his brothers (Judges 9:5)
+- [[The Tower of Shechem]], [[Arumah]], [[The Oak of Meonenim]], and [[Mount Zalmon]] — the places of
+  Abimelech's war on the town (Judges 9:37–49)
 - [[Mount Gerizim]] and [[Mount Ebal]] — the two mountains the town sits between, and the platform
   of Deuteronomy's blessings and curses; given their own pages at Deuteronomy 11:29
 
@@ -220,5 +247,7 @@ Joshua 24:14; Judges 9:7–21; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 - Abimelech chosen by *the men of Shechem* and made king by the oak of the pillar — Judges 9:1–6,
   [[Abimelech Made King at Shechem]]
 - Jotham's fable from Gerizim, addressed to *the men of Shechem* — Judges 9:7–21, [[Jotham's Fable]]
-- The destruction of the city — Judges 9:22–57
+- Shechem turns against Abimelech; Gaal's revolt and expulsion — Judges 9:22–41, [[The Fall of Abimelech]]
+- The city taken, beaten down, and sown with salt; the tower of Shechem burned — Judges 9:42–49,
+  [[The Fall of Abimelech]]
 - The kingdom divides under Rehoboam — 1 Kings 12:1–19

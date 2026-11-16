@@ -124,7 +124,7 @@ Israel for twenty years (4:3), under Yahweh's word that he would be sold into a 
 - **Judges 3:20–25** — Eglon killed alone, his servants finding him *fallen down dead*. See
   [[Fallen Down Dead - Eglon's Upper Room and Jael's Tent]].
 - **Judges 5:24–27** — the Song's version of the same killing (next pericope).
-- **Judges 9:53–54** — Abimelech, his skull broken by a woman's millstone: *that men not say of me, "A
+- [[The Fall of Abimelech]] — **Judges 9:53–54** — Abimelech, his skull broken by a woman's millstone: *that men not say of me, "A
   woman killed him"* (stored WEB). **2 Samuel 11:21** remembers it (WEB, checked at bible-api.com).
 - **Judges 16:14** — Delilah *fastened it with the pin* while Samson slept (stored WEB); the Hebrew has
   the same verb and noun as 4:21 (see Notes).

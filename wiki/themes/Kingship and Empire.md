@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### Prince over Israel three years — Judges 9:22–57
+
+*Abimelech was prince over Israel three years* (9:22). The verb is *śārar*, *to be prince*, not
+*mālak*. In Genesis–Judges it occurs only here, and the narrator does not call him king again (WLC). He
+rules Shechem through an officer, [[Zebul]], and lives at [[Arumah]] (9:28, 41). The town that made him
+king turns against him when God sends *an evil spirit* between them (9:23), and a rival asks *Who is
+Abimelech … that we should serve him?* (9:28). He answers by destroying the town that made him and
+burning the tower whose god paid for him (9:45–49). He dies besieging another Israelite town. When he
+is dead, *the men of Israel … each departed to his place* (9:55). No successor is named, and no one
+mourns him. Israel's first attempt at kingship ends after three years in civil war, and Judges does not
+try it again. See [[The Fall of Abimelech]] and
+[[Draw Your Sword - The Deaths of Abimelech and Saul]]. Source: stored WEB Judges 9:22–57; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
 ### The trees seek a king — Judges 9:7–21
 
 The Bible's first fable is about kingship. *The trees set out to anoint a king over themselves* (9:8):
@@ -510,6 +524,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Fall of Abimelech]] — Judges 9:22–57; *prince over Israel three years*, and the end of the first king in Israel.
 - [[Jotham's Fable]] — Judges 9:7–21; the trees seek a king, and only the bramble accepts.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; *one rule over you*; Abimelech made king at Shechem.
 - [[Gideon's Ephod and Death]] — Judges 8:22–23, 30–31; rule offered and refused; the wives, and the son named *Abimelech*.

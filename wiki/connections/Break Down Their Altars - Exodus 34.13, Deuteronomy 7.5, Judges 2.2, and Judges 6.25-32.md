@@ -53,7 +53,9 @@ the law of the one place, and neither did the angel's altar on the rock (6:20–
 Peace* (6:24). See [[Sacrifice and Offering]].
 
 **The verb comes back.** In the WLC of Judges, *nātaṣ* is used again when Gideon breaks down the tower
-of Penuel (8:9, 17) and when Abimelech breaks down Shechem (9:45). Those pericopes are not yet ingested.
+of Penuel (8:9, 17) and when Abimelech breaks down Shechem (9:45). The verb meant for Canaan's altars
+is used by Gideon against an Israelite town's tower, and by his son against an Israelite city. See
+[[Ephraim, Succoth, and Penuel]] and [[The Fall of Abimelech]].
 
 ## Significance
 

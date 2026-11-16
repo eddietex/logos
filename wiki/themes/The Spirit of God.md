@@ -12,6 +12,19 @@ speaks of the Spirit as God's. It opened with Numbers 11, when the Spirit is fir
 is not yet a full survey of the wiki's earlier books.
 
 
+### An evil spirit from God — Judges 9:23
+
+*Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt
+treacherously with Abimelech* (Judges 9:23). It is *rûaḥ rāʿâ*, sent by *ʾĕlōhîm* (WLC). In
+Genesis–Judges it is the only verse with *rûaḥ* and *rāʿâ* together. Twice before, *Yahweh's Spirit*
+came on a judge, Othniel and then Gideon (3:10; 6:34), to save Israel. This spirit comes on no one. It
+is sent *between* a king and his town, and its work is division. The narrator gives its purpose at
+once: that the blood of the seventy would come back on those who shed it (9:24). Whether *rûaḥ* here is
+a spirit-being, a temper, or a breakdown of trust is not settled by the word, which has all those
+ranges. The text says only that God sent it. 1 Samuel will speak of an evil spirit troubling Saul
+(16:14; reported, not checked). See [[The Fall of Abimelech]]. Source: stored WEB Judges 3:10; 6:34;
+9:23–24; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### The Spirit clothed Gideon — Judges 6:34
 
 *But Yahweh's Spirit came on Gideon, and he blew a trumpet* (34). The Hebrew is *wərûaḥ YHWH lābəšâ
@@ -98,6 +111,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 
 ## Key passages
 
+- [[The Fall of Abimelech]] — Judges 9:23; *God sent an evil spirit between Abimelech and the men of Shechem*.
 - [[The Fleece]] — Judges 6:34; *Yahweh's Spirit came on Gideon*, in Hebrew *clothed*.
 - [[Othniel the First Judge]] — Judges 3:10; *Yahweh's Spirit came on him*.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Joshua full of the spirit of wisdom (9).

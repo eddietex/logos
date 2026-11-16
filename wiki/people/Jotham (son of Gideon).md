@@ -43,7 +43,7 @@ Millo, and from them against Abimelech (9:20).
 
 Then *Jotham ran away, and fled, and went to Beer, and lived there, for fear of Abimelech his brother*
 (9:21). He is not seen again. The chapter's last words are *the curse of Jotham the son of Jerubbaal
-came on them* (9:57, stored WEB; not yet ingested). See [[Jotham's Fable]],
+came on them* (9:57). See [[Jotham's Fable]], [[The Fall of Abimelech]],
 [[In Truth and Sincerity - Joshua 24.14 and Judges 9.16-19]], and [[Beer (Jotham's refuge)]].
 Source: stored WEB Deuteronomy 11:29; Joshua 24:14; Judges 9:7–21, 57; Hebrew WLC (OpenScriptures
 morphhb), 2026-11-15.
@@ -61,6 +61,7 @@ See [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 3:10; Joshua 
 ## Appears in
 - [[Abimelech Made King at Shechem]] — Judges 9:5.
 - [[Jotham's Fable]] — Judges 9:7–21.
+- [[The Fall of Abimelech]] — Judges 9:57; not present, but his curse comes on Shechem and Abimelech.
 
 ## Related people
 - [[Gideon]] — his father, named *Jerubbaal* in this chapter.

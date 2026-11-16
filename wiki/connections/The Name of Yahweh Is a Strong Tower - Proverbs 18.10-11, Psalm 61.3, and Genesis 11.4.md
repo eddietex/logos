@@ -20,7 +20,7 @@ tags: [connection]
 - **Genesis 11:4** — *"Come, let's build ourselves a city, and a tower whose top reaches to the sky,
   and let's make a name for ourselves, lest we be scattered abroad on the surface of the whole
   earth."* — [[The Tower of Babel]]
-- **Judges 9:51** *(not yet ingested; WEB checked at bible-api.com)* — *"But there was a strong tower
+- [[The Fall of Abimelech]] — **Judges 9:51** — *"But there was a strong tower
   within the city, and all the men and women of the city fled there, and shut themselves in, and went
   up to the roof of the tower."*
 - **Psalm 61:3** *(not yet ingested; WEB checked at bible-api.com)* — *"For you have been a refuge for

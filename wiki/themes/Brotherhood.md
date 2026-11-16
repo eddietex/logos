@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Repaid for his seventy brothers — Judges 9:24, 56
+
+The narrator frames the end of Abimelech with his brothers. The evil spirit is sent so that the blood of
+the seventy *might be laid on Abimelech their brother, who killed them, and on the men of Shechem, who
+strengthened his hands to kill his brothers* (9:24). *ʾĂḥîhem … ʾeḥāyw*, *their brother … his
+brothers* (WLC). The verdict repeats it: *God repaid the wickedness of Abimelech, which he did to his
+father, in killing his seventy brothers* (9:56). Shechem had chosen him because *He is our brother*
+(9:3), and he destroys it. Joseph's brothers once feared that their brother would *pay us back for all
+the evil which we did to him* (Genesis 50:15). Joseph did not, but in Judges 9 God repays. See
+[[The Fall of Abimelech]] and [[God Repaid - Adoni-Bezek, Joseph's Brothers, and Abimelech]]. Source:
+stored WEB Genesis 50:15; Judges 9:3, 24, 56; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Because he is your brother — Judges 9:18, 21
 
 Jotham gives Shechem back its own reason. *He is our brother*, the town said (9:3). Jotham says it made
@@ -404,6 +416,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Fall of Abimelech]] — Judges 9:24, 56; *Abimelech their brother … to kill his brothers*; *his seventy brothers*.
 - [[Jotham's Fable]] — Judges 9:18, 21; *because he is your brother*, and *for fear of Abimelech his brother*.
 
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; *He is our brother*; seventy brothers killed on one stone.
