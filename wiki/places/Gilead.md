@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Jephthah the Gileadite — Judges 11:1–11
+
+*Jephthah the Gileadite* is the man the princes looked for. *Gilead became the father of Jephthah*
+(11:1). Here the region's name is borne by a man with a wife and sons (11:2); Numbers 26:29 gave it to
+Machir's son, the clan's ancestor, long before. The text does not explain the name in Judges 11. The
+elders of Gilead, *ziqnê gilʿād*, bring Jephthah back from Tob and make him *head over all the
+inhabitants of Gilead* (11:8, 11). See [[Jephthah]] and [[Jephthah Called from Tob]]. Source: stored
+WEB Judges 11:1–11; Numbers 26:29.
+
 ### Under Ammon — Judges 10:8, 17–18
 
 *Beyond the Jordan in the land of the Amorites, which is in Gilead*, Israel is oppressed eighteen years (8). Ammon encamps in Gilead and Israel at [[Mizpah (Gilead)]] (17). *The princes of Gilead* ask *Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead* (18). The man will be Jephthah the Gileadite (11:1).
@@ -176,6 +185,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Jephthah Called from Tob]] — Judges 11:1–11; Jephthah's people and father's name; its elders make him head.
 - [[Israel's Repentance Under Ammon]] — Judges 10:8, 17–18; oppressed by Ammon; the princes seek a head.
 - [[Tola and Jair]] — Judges 10:3–4; Jair the Gileadite, and Havvoth Jair *in the land of Gilead*.
 - [[Gideon's Three Hundred]] — Judges 7:3; *depart from Mount Gilead*, west of the Jordan.

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Driven out by his brothers — Judges 11:2–3, 7
+
+Gilead's sons by his wife drive out their half-brother: *You will not inherit in our father's house,
+for you are the son of another woman* (11:2). *Jephthah fled from his brothers* (11:3). The verb is
+*gāraš* (WLC), Sarah's *Cast out this servant and her son* (Genesis 21:10). Abimelech killed his
+brothers to rule (9:5); Jephthah's brothers put him out, and the elders must go back to him. *Didn't you
+hate me*, he says (11:7), with the verb used of Joseph's brothers (Genesis 37:4, WLC). See
+[[Jephthah Called from Tob]] and [[The Son of Another Woman - Ishmael, Abimelech, and Jephthah]].
+
+Source: stored WEB Judges 11:1–11; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Repaid for his seventy brothers — Judges 9:24, 56
 
 The narrator frames the end of Abimelech with his brothers. The evil spirit is sent so that the blood of
@@ -416,6 +427,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Jephthah Called from Tob]] — Judges 11:2–3, 7; *they drove Jephthah out*; *Jephthah fled from his brothers*; *Didn't you hate me*.
 - [[The Fall of Abimelech]] — Judges 9:24, 56; *Abimelech their brother … to kill his brothers*; *his seventy brothers*.
 - [[Jotham's Fable]] — Judges 9:18, 21; *because he is your brother*, and *for fear of Abimelech his brother*.
 

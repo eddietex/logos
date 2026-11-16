@@ -271,8 +271,8 @@ the princes of Gilead offer to give it.
 - [[The Brass Serpent]] — Numbers 21:4; *the soul of the people was very discouraged*.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:7; *our toil*.
 - [[Jacob's Flight from Laban]] — Genesis 31:49; the first Mizpah in Gilead.
-- Judges 11:1–11 — Jephthah made *head and chief* at Mizpah (stored WEB; not yet ingested, see
-  *Jephthah Called from Tob* on [[Judges]]).
+- [[Jephthah Called from Tob]] — Judges 11:1–11; the man found, and made *head and chief* at
+  Mizpah.
 - Judges 13:1 — *into the hand of the Philistines forty years* (stored WEB; not yet ingested).
 
 ## Notes

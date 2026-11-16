@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Chosen by the elders — Judges 11:5–11
+
+Every judge before Jephthah was *raised up* by Yahweh (3:9, 15) or called by him (4:6; 6:11–14).
+Jephthah is fetched by the elders of Gilead, who need a fighter (11:5–6), and made head by *the people*
+(11:11). Yahweh's name enters only in Jephthah's condition, *if … Yahweh delivers them before me*
+(11:9), and in the elders' oath (11:10). The text does not say whether Yahweh approved the choice; the
+Spirit comes on Jephthah at 11:29. See [[Jephthah Called from Tob]].
+
+Source: stored WEB Judges 11:1–11; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The first narrated call of a judge — Judges 6:11–24
 
 Othniel and Ehud are *raised up* in a clause (3:9, 15). Gideon is the first deliverer whose call is
@@ -297,6 +307,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Jephthah Called from Tob]] — Judges 11:5–11; a deliverer fetched by elders and made head by the people, not called by Yahweh.
 - [[The Call of Gideon]] — Judges 6:11–24; sent, objects, promised presence, given a sign.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; Yahweh *took* Abraham (3); Israel *chose* Yahweh (15, 22).
 - [[The Twelve Stones from the Jordan]] — Joshua 4:1–24.

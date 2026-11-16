@@ -12,6 +12,8 @@ tags: [connection]
   offering, nor for sacrifice* (stored WEB).
 - [[The Covenant at Shechem]] — Joshua 24:26–27; the great stone under the oak at Shechem (stored
   WEB).
+- [[Jephthah Called from Tob]] — Judges 11:10–11; *Yahweh will be witness between us*, and words
+  spoken *before Yahweh in Mizpah* (stored WEB).
 
 ## Analysis
 
@@ -51,6 +53,14 @@ and earth, the song, and the book of the law. See
 Sources: stored WEB Genesis 31:44–53; Joshua 22:10–34; 24:26–27. Joshua 24 was quoted from the
 stored WEB before its ingest and is now ingested as [[The Covenant at Shechem]]. No claim is made about the Hebrew wording of any of the three
 naming or witness formulas.
+
+**A fourth case, with no object.** In Judges 11 the elders of Gilead bind themselves to Jephthah with
+*Yahweh will be witness between us* (11:10), and Jephthah *spoke all his words before Yahweh in Mizpah*
+(11:11). Nothing is set up. Yahweh himself is the witness, as God was the witness Laban named beside
+the heap (Genesis 31:50). The two scenes share a name, *Mizpah*, and the region, Gilead; the text does
+not say they share a site. The word differs: Laban's witness is *ʿēd*, the elders' is *šōmēaʿ*, *one who
+hears* (Westminster Leningrad Codex, OpenScriptures morphhb, 2026-11-15). Source: stored WEB Judges
+11:10–11.
 
 ## Significance
 

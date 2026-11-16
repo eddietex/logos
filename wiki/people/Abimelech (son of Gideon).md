@@ -103,6 +103,7 @@ yet *the curse of Jotham … came on them* (9:57). See [[The Woman of Thebez]],
 - [[Tola and Jair]] — Judges 10:1; *after Abimelech*, Tola arises to save Israel.
 
 ## Related people
+- [[Jephthah]] — the next son of a second woman, who also gathers *empty men* (9:4; 11:3). See [[The Son of Another Woman - Ishmael, Abimelech, and Jephthah]].
 - [[Gideon]] — his father, who refused to rule and named him *Abimelech*.
 - [[Jether (son of Gideon)]] — Gideon's firstborn, one of the seventy.
 - [[Abimelech (of Abraham's time)]] and [[Abimelech (of Isaac's time)]] — the kings of Gerar who bore the

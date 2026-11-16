@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### The war that brings Jephthah back — Judges 11:4–9
+
+*After a while, the children of Ammon made war against Israel* (11:4). The war is the reason the elders
+of Gilead go to Tob for Jephthah (11:5), and the condition of his headship is victory over Ammon: *if
+… Yahweh delivers them before me, will I be your head?* (11:9). See [[Jephthah Called from Tob]].
+Source: stored WEB Judges 11:4–9.
+
 ### Eighteen years over Gilead — Judges 10:6–18
 
 Israel serves *the gods of the children of Ammon* (6) and is sold into Ammon's hand (7). For eighteen years Ammon oppresses the Israelites *beyond the Jordan in the land of the Amorites, which is in Gilead*, then crosses against Judah, Benjamin, and Ephraim (8–9). Yahweh lists Ammon among the peoples he saved Israel from (11), which points back to Eglon's alliance (3:13). At 10:17 Ammon *were gathered together*, *wayyiṣṣāʿăqû*, the niphal of the verb of Israel's cry (WLC), and encamps in Gilead. Jephthah's war follows. See [[Mizpah (Gilead)]].
@@ -130,6 +137,7 @@ displaced five chapters before either of them is born.** See
 **Joshua 12:1–24 — the list of kings.** Ammon's border at the Jabbok bounds Sihon's realm (12:2); no Ammonite land is counted among what Israel took. See [[The Kings Struck Down]].
 
 ## Appears in
+- [[Jephthah Called from Tob]] — Judges 11:4–9; makes war, and Gilead calls Jephthah back to fight it.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–18; oppresses Gilead eighteen years; encamps against Israel.
 - [[Ehud and Eglon]] — Judges 3:13; allied with Eglon of Moab.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.

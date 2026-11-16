@@ -252,6 +252,7 @@ read as a permanent moral verdict on a people, which is more than the Hebrew sup
 
 ## Related people
 
+- [[Jephthah]] — another son driven out (*gāraš*) so as not to inherit (Genesis 21:10; Judges 11:2). See [[The Son of Another Woman - Ishmael, Abimelech, and Jephthah]].
 - [[Hagar]] — his mother, whose affliction his name records
 - [[Abraham]] — his father, who names him and later pleads for him
 - [[Sarah]] — his father's wife, who arranges his conception and demands his expulsion

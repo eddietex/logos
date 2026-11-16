@@ -271,6 +271,17 @@ was grieved for the misery of Israel*. Then Ammon camps in Gilead and Israel at 
 princes of Gilead ask one another, *Who is the man who will begin to fight?* They offer him the
 headship of Gilead. No deliverer is raised up; the next chapter introduces one.
 
+[[Jephthah Called from Tob]] (11:1–11) gives the answer a name. *Jephthah the Gileadite was a mighty
+man of valor, and he was the son of a prostitute*. His half-brothers drove him out, *You will not
+inherit in our father's house, for you are the son of another woman*, and in the land of Tob *outlaws*
+gathered to him, the *empty men* Abimelech had hired (9:4). When Ammon attacks, the elders of Gilead
+come for him and offer him *chief*. He answers, *Didn't you hate me, and drive me out of my father's
+house? Why have you come to me now when you are in distress?*, close to Yahweh's *in the time of your
+distress* (10:14). They raise the offer to *head over all the inhabitants of Gilead*. He makes Yahweh's
+victory the condition, they swear *Yahweh will be witness between us*, and the people make him *head and
+chief*. He speaks *all his words before Yahweh in Mizpah*. He is the first deliverer in the book chosen
+by a bargain rather than raised up or called by Yahweh.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -319,7 +330,7 @@ merge, or reorder them freely.
 - [x] [[The Fall of Abimelech]] — Judges 9:22–57
 - [x] [[Tola and Jair]] — Judges 10:1–5
 - [x] [[Israel's Repentance Under Ammon]] — Judges 10:6–18
-- [ ] Jephthah Called from Tob — Judges 11:1–11
+- [x] [[Jephthah Called from Tob]] — Judges 11:1–11
 - [ ] Jephthah's Message to the King of Ammon — Judges 11:12–28
 - [ ] Jephthah's Vow — Judges 11:29–40
 - [ ] Shibboleth — Judges 12:1–7

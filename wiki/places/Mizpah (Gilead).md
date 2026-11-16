@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Jephthah made head — Judges 11:11
+
+*Jephthah went with the elders of Gilead, and the people made him head and chief over them. Jephthah
+spoke all his words before Yahweh in Mizpah* (11:11). The text does not say what the words were; the
+wiki reads them as the agreement of 11:9–10 said again in Yahweh's presence. The elders swore by
+Yahweh as *witness*, *šōmēaʿ*, *one who hears* (11:10, WLC). Laban's oath at the Mizpah of Genesis 31
+used *ʿēd* (31:50, WLC). The two Mizpahs are still not identified here. See
+[[Jephthah Called from Tob]].
+
 ### Israel's camp against Ammon — Judges 10:17
 
 *The children of Israel assembled themselves together and encamped in Mizpah* (10:17), while Ammon
@@ -28,6 +37,7 @@ See [[Israel's Repentance Under Ammon]]. Source: stored WEB Genesis 31:49; Judge
 29; Hebrew of Judges 10:17 from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
 
 ## Appears in
+- [[Jephthah Called from Tob]] — Judges 11:11; Jephthah speaks his words before Yahweh here.
 - [[Israel's Repentance Under Ammon]] — Judges 10:17; Israel encamps here against Ammon.
 
 ## Related places
@@ -38,3 +48,4 @@ See [[Israel's Repentance Under Ammon]]. Source: stored WEB Genesis 31:49; Judge
 ## Events here
 - Israel gathers and encamps against Ammon — Judges 10:17
 - The princes of Gilead ask who will begin the fight — Judges 10:18
+- Jephthah is made head and chief, and speaks his words before Yahweh — Judges 11:11

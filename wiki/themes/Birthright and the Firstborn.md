@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### No inheritance for the son of another woman — Judges 11:2
+
+*You will not inherit in our father's house, for you are the son of another woman* (11:2, *lōʾ-tinḥal*,
+WLC). Jephthah's brothers exclude him by his mother, a prostitute (11:1). The law of Deuteronomy 21:15–17
+protects the firstborn of a *hated* wife, but it speaks of two wives, and the brothers cite no law.
+Sarah gave the same kind of reason with a different verb of inheriting, *will not be heir* (Genesis
+21:10, *yāraš*, WLC). See [[Jephthah Called from Tob]] and
+[[The Son of Another Woman - Ishmael, Abimelech, and Jephthah]].
+
+Source: stored WEB Judges 11:1–11; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### The double portion fixed in law — Deuteronomy 21:15–17
 
 The firstborn of the hated wife receives *"a double portion of all that he has; for he is the
@@ -169,6 +180,7 @@ See [[The Lamps and the Levites Cleansed]]. Source: stored WEB Numbers 8.
 
 ## Key passages
 
+- [[Jephthah Called from Tob]] — Judges 11:2; *You will not inherit in our father's house*.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; firstborn of herd and flock eaten at the chosen place (6, 17).
 - [[The Stages of the Journey]] — Numbers 33:1–49.
 

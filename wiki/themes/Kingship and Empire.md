@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Chief, then head — Judges 11:6–11
+
+The elders of Gilead first offer Jephthah *chief*, *qāṣîn*, a field commander (11:6; in the WLC of
+Genesis–Judges elsewhere only Joshua 10:24). When he refuses to come on those terms, they offer *head
+over all the inhabitants of Gilead* (11:8), the words of 10:18. He asks for it in plain terms, *will I be
+your head?* (11:9). The people make him *head and chief* (11:11). Rule in Gilead is given by contract,
+sworn before Yahweh, and made conditional on victory. See [[Jephthah Called from Tob]].
+
+Source: stored WEB Judges 11:1–11; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Head over Gilead — Judges 10:18
 
 *Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead* (18). For the first time a deliverer is to be found by an offer of rule. Earlier, Yahweh raised up the savior. The princes ask one another, not Yahweh. Jephthah will take the offer (11:8–11).
@@ -541,6 +551,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Jephthah Called from Tob]] — Judges 11:6–11; *chief*, then *head over all the inhabitants of Gilead*; *head and chief*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:18; the headship of Gilead offered to whoever will fight.
 - [[Tola and Jair]] — Judges 10:1–5; *after Abimelech*, two judges; Jair's sons on donkeys holding thirty cities.
 - [[The Fall of Abimelech]] — Judges 9:22–57; *prince over Israel three years*, and the end of the first king in Israel.

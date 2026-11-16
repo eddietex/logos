@@ -26900,3 +26900,47 @@ Joshua 24:23, and Judges 10:16; *qāṣar* with *nepeš* only in Numbers 21:4 an
 *ʿāmāl*; the Maon lemma shared with Joshua 15:55; the phrasing of 1:1 and 10:18. Reported, not
 checked: the lexical sense of *rāʿaṣ*; a Greek reading *Midian* for *Maonites*; the reading of 10:16
 as impatience rather than grief. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 11.1-11 — Jephthah Called from Tob
+
+Unattended run (`/ingest auto`). Jephthah the Gileadite, son of a prostitute, is driven out by his
+half-brothers without inheritance, gathers *outlaws* in Tob, and is fetched by the elders of Gilead.
+Offered *chief*, he charges them with hating him and coming only *in distress*; they raise the offer to
+*head over all the inhabitants of Gilead*, swear by Yahweh as *witness*, and the people make him *head
+and chief*; he speaks his words before Yahweh at Mizpah. The discussion step was written into the
+passage page.
+
+Created: the passage page; one person ([[Jephthah]]); one place ([[Tob]]); one connection
+([[The Son of Another Woman - Ishmael, Abimelech, and Jephthah]]).
+
+Revised: people [[Abimelech (son of Gideon)]], [[Ishmael]] (related-people lines for the new
+connection); places [[Gilead]], [[Ammon]], [[Mizpah (Gilead)]], [[Iphtah]]; five themes
+([[Brotherhood]], [[Birthright and the Firstborn]], [[Kingship and Empire]], [[Call and Election]],
+[[Oaths and Vows]]); one connection
+([[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]]); and the "not yet
+ingested" pointer to 11:1–11 in [[Israel's Repentance Under Ammon]]. Also updated the book page (box
+checked, overview), the books index (27 / 42), the people (F-M), places, themes, and connections
+(O-S, T-Z) indexes, and the dashboard counts. Frontmatter totals: 463 passages, 325 people, 583
+places, 88 themes, 884 connections.
+
+Judgment calls: kept 11:1–11 as planned; 11:12 begins a new action. Jephthah's father Gilead gets no
+page: the text treats him as a man (a wife and sons, 11:2) but his name is the region's and the clan's
+(Numbers 26:29), and a person page would collide with [[Gilead]] under the person/place rule for a
+figure named once; he is described on [[Jephthah]] and [[Gilead]]. The elders of Gilead and the
+*outlaws* get no page. [[Tob]] gets a place page as Jephthah's refuge. Dropped a planned link to the
+Sexual Sin theme: the passage names his mother's status but narrates no sin. The echo between 11:7
+*in distress* and 10:14 *in the time of your distress* is flagged as the wiki's reading.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 21:10, 20; 25:6;
+31:49–50; 37:4, 8; 38:15; Numbers 26:29; Deuteronomy 21:15–17; 23:2; Joshua 2:1; 10:24; 15:43. Hebrew
+from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`, `Num.xml`,
+`Deut.xml`, `Josh.xml`, `Judg.xml`, on 2026-11-15. Verified there: *gibbôr ḥayil* (11:1; 6:12);
+*zônâ* and its occurrences; *wayyôled* in 11:1 and Numbers 26:29; *gāraš* in 11:2, 7 and its
+occurrences (Genesis 21:10; Judges 2:3; 6:9; 9:41), and *yāraš* throughout Judges 1; *nāḥal* in 11:2
+against *yāraš* in Genesis 21:10; *ʾiššâ ʾaḥeret* only in 11:2; *ʾănāšîm rêqîm* only in 9:4 and 11:3;
+*qāṣîn* only in Joshua 10:24 and Judges 11:6, 11; *ṭôb* as a place only in 11:3, 5; *śānēʾ* in 11:7
+and Genesis 37:4; *ṣar* (6862) and *ṣārâ* (6869) in 11:7 and 10:14; *šûb* in 11:8–9; *šōmēaʿ* in 11:10
+against *ʿēd* in Genesis 31:50; *mamzēr* at Deuteronomy 23:3 (WLC numbering); the shared lemma 3316
+for Jephthah and Iphtah. Those *only* claims cover only these five files. Reported, not checked: the
+gloss *he opens* for the name. Hebrews 11:32 mentioned in the passage notes without quotation (not
+stored). No Greek text was consulted.

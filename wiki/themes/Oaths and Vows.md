@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Yahweh as the hearer — Judges 11:10–11
+
+*Yahweh will be witness between us. Surely we will do what you say* (11:10). The elders seal their
+offer to Jephthah with Yahweh's name. The word is *šōmēaʿ*, *one who hears* (WLC), not *ʿēd*, the
+*witness* Laban called on at another Mizpah in Gilead (Genesis 31:50). Jephthah then *spoke all his words
+before Yahweh in Mizpah* (11:11). The next words he speaks before Yahweh will be a vow (11:30–31). See
+[[Jephthah Called from Tob]] and
+[[A Witness Between Us - Galeed, the Jordan Altar, and the Shechem Stone]].
+
+Source: stored WEB Judges 11:1–11; comparisons as cited; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### As Yahweh lives — Judges 8:19
 
 *As Yahweh lives, if you had saved them alive, I would not kill you* (8:19). In the WLC of Genesis–Judges
@@ -533,6 +544,7 @@ See [[Leave Horeb and Possess the Land]]. Source: stored WEB Deuteronomy 1:6–8
 
 ## Key passages
 
+- [[Jephthah Called from Tob]] — Judges 11:10–11; *Yahweh will be witness between us*; words spoken before Yahweh at Mizpah.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:9, 19; *When I come again in peace*, and the oath *As Yahweh lives*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's oath completed at Shechem (32).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; the people as witnesses against themselves, and the witness stone (22, 27).
