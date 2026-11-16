@@ -16,8 +16,9 @@ tags: [connection]
   have dominion over us?"* (stored WEB)
 - [[The Law for the King]] — **Deuteronomy 17:14–20** — the king Israel may set over itself, *whom
   Yahweh your God shall choose*, and the limits on his wives, silver, and gold (17:17)
-- **Judges 9:2** — Abimelech's *"Is it better for you that all the sons of Jerubbaal, who are seventy
-  persons, rule over you, or that one rule over you?"* (stored WEB; not yet ingested)
+- [[Abimelech Made King at Shechem]] — **Judges 9:2, 6** — Abimelech's *"Is it better for you that all
+  the sons of Jerubbaal, who are seventy persons, rule over you, or that one rule over you?"* … *and
+  went and made Abimelech king* (stored WEB)
 - **1 Samuel 8:7** — *"they have not rejected you, but they have rejected me as the king over them."*
   (WEB checked at bible-api.com; not yet ingested)
 - **1 Samuel 12:12** — *"you said to me, 'No, but a king shall reign over us;' when Yahweh your God was
@@ -48,7 +49,14 @@ who will rule over a family of Israel is raised and not settled by the person as
 
 Deuteronomy 17 permits a king and limits him. Gideon refuses the title and then has *many wives* and
 seventeen hundred of gold (Judges 8:26, 30), which are two of the three things Deuteronomy 17:16–17
-withholds from a king. His son Abimelech takes what his father refused (9:2–6, not yet ingested).
+withholds from a king. His son Abimelech takes what his father refused (9:2–6).
+
+Abimelech's question uses *māšal* twice, *ham-məšōl bākem … ʾim-məšōl bākem ʾîš ʾeḥād* (9:2, WLC):
+seventy rulers or one. Gideon's three clauses named three rulers, himself, his son, and Yahweh, and
+refused the first two. His son's question keeps the sons and the one, and drops Yahweh. Then Shechem
+*made Abimelech king*, *wayyamlîkû … ləmelek* (9:6): the hiphil of *mālak* occurs in Genesis–Judges only
+at 9:6, 16, 18 (WLC). Gideon's son is the first person in those books made king, and the word Gideon's
+exchange avoided, *king*, arrives with him.
 
 ## Significance
 
@@ -61,7 +69,7 @@ withholds from a king. His son Abimelech takes what his father refused (9:2–6,
   rejected me* should be read against Gideon's *Yahweh shall rule over you*; the wiki has not yet
   checked the Hebrew of 1 Samuel.
 
-Sources: stored WEB Genesis 37:8; Deuteronomy 17:14–20; Judges 7:2; 8:22–23, 26, 30, 34; 9:2; 17:6.
+Sources: stored WEB Genesis 37:8; Deuteronomy 17:14–20; Judges 7:2; 8:22–23, 26, 30, 34; 9:2, 6; 17:6.
 1 Samuel 8:7 and 12:12 checked at bible-api.com (WEB), 2026-11-15. Hebrew of Genesis–Judges from the
 Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15; the Hebrew of 1 Samuel was not
 consulted.

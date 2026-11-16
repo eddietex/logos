@@ -47,6 +47,12 @@ tags: [connection]
   [[Five Changes of Clothing - The Coat Given Again]]
 
 - [[Laws of Violence and Injury]] — Exodus 21:16, 32: kidnapping prohibited; compensation for a gored servant
+- [[Abimelech Made King at Shechem]] — **Judges 9:4–5**: *They gave him seventy pieces of silver out of
+  the house of Baal Berith, with which Abimelech hired vain and light fellows* — and then he kills his
+  seventy brothers. **The Hebrew is *šibʿîm kesep*, the same construction as Genesis 37:28's *bəʿeśrîm
+  kāsep*, with no word for *pieces* in either (WLC).** Joseph's brothers took silver for a brother and
+  spared his life; Abimelech takes silver and kills his brothers. **The sum matches the number of the
+  dead; Judges does not call it a price**, and the wiki does not either
 
 ## Analysis
 

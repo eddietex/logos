@@ -15,6 +15,10 @@ tags: [connection]
 - **Deuteronomy 10:22** — seventy went down; the God of Israel has since made them as the stars of the
   sky for multitude.
 - **Acts 7:14** — Stephen, before the Sanhedrin: **seventy-five souls.**
+- [[Gideon's Ephod and Death]] and [[Abimelech Made King at Shechem]] — **Judges 8:30; 9:5** — Gideon's
+  *seventy sons conceived from his body*, with Exodus 1:5's *yōṣəʾê yərēkô* (WLC), and the seventy killed
+  *on one stone*. A house the size of Jacob's is ended in a day. See
+  [[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]]
 
 ## Analysis
 

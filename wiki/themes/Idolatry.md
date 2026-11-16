@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Baal Berith's silver — Judges 9:4
+
+The god Israel took after Gideon (8:33) has a house at Shechem with silver in it, and the silver pays
+for a massacre: *They gave him seventy pieces of silver out of the house of Baal Berith, with which
+Abimelech hired vain and light fellows* (9:4). It is the first time in Judges that a sanctuary's
+treasury is shown funding violence. See [[Baal Berith]].
+
+See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 9:1–6; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### An ephod in Ophrah, and Baal Berith — Judges 8:27, 33
 
 The man who threw down Ophrah's Baal altar makes an ephod from Midian's gold and puts it *in Ophrah, his
@@ -553,6 +562,7 @@ See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
 
+- [[Abimelech Made King at Shechem]] — Judges 9:4; the house of Baal Berith pays Abimelech's hired men.
 - [[Gideon's Ephod and Death]] — Judges 8:27, 33; Gideon's ephod a *snare*; Israel turns to Baal Berith.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32; Joash's Baal altar and Asherah thrown down, and the town defends them.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; *the gods of the Amorites*.

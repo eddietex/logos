@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Seventy of silver — Judges 9:4
+
+Shechem gives Abimelech *seventy pieces of silver out of the house of Baal Berith*, and he *hired*
+men with it (9:4). The Hebrew is *šibʿîm kesep*, *seventy of silver*, with no word for *pieces*, the
+construction of Joseph's *twenty pieces of silver* (Genesis 37:28) (WLC). The sum matches the seventy
+brothers he kills next; the text does not call it a price. See
+[[Twenty Pieces of Silver - The Price of a Brother]].
+
+See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 9:1–6; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Seventeen hundred of gold — Judges 8:24–26
 
 Gideon refuses to rule and asks for gold instead, an earring from every man's plunder. The weight is
@@ -912,6 +922,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Abimelech Made King at Shechem]] — Judges 9:4; seventy of silver from Baal Berith's house, and hired men.
 - [[Gideon's Ephod and Death]] — Judges 8:24–27; the earrings of the plunder, weighed and made into an ephod.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.
 

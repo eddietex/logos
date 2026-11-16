@@ -26,7 +26,9 @@ tags: [connection]
 - **1 Kings 12:1–19, 25** — Rehoboam loses ten tribes at Shechem; Jeroboam fortifies it
 - **John 4:5–26** — Jesus at Jacob's well, and *"this mountain"*
 - [[Gideon's Ephod and Death]] — Judges 8:31, 33; Gideon's concubine at Shechem, and Israel's *Baal Berith*, whose house is
-  at Shechem (9:4, stored WEB; not yet ingested).
+  at Shechem (9:4).
+- [[Abimelech Made King at Shechem]] — Judges 9:1–6; Shechem pays Abimelech from Baal Berith's house and
+  makes him king *by the oak of the pillar that was in Shechem*.
 
 ## Analysis
 
@@ -90,6 +92,11 @@ The thread has a second half that the first half does not prepare for.
   patriarchs' worst act.
 - **Judges 9** — Abimelech is made king at Shechem by his mother's clan, murders seventy brothers on
   one stone, and destroys the city; Jotham's fable is delivered from Gerizim, the blessing mountain.
+  The crowning is *by the oak of the pillar*, *ʾēlôn muṣṣāb* (9:6, WLC). *ʾĒlôn* is Genesis 12:6's word
+  for the oak of Moreh; Genesis 35:4 (*ʾēlâ*) and Joshua 24:26 (*ʾallâ*) use other words, so the
+  thread's *one tree* is a reading of the place, not of the vocabulary. *Muṣṣāb*, *set up*, may recall
+  Joshua's stone *set up there under the oak*, though the verbs differ (*nāṣab* here, *qûm* in Joshua
+  24:26, WLC). See [[Abimelech Made King at Shechem]].
 - **1 Kings 12** — *"Rehoboam went to Shechem, for all Israel had come to Shechem to make him king"*
   (12:1). He refuses the elders, and ten tribes walk out. The kingdom divides on the ground where
   Joshua had bound it together, and Jeroboam then rebuilds Shechem as his capital before moving on.

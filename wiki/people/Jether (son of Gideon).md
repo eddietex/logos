@@ -26,7 +26,7 @@ written at Exodus 4:18, where WEB reads *Jethro*. The wiki notes the coincidence
 it; see [[Jethro]].
 
 Gideon has seventy sons (8:30), and Abimelech kills *his brothers the sons of Jerubbaal, being seventy
-persons, on one stone*, all but Jotham (9:5) (stored WEB; not yet ingested). Jether is not named there.
+persons, on one stone*, all but [[Jotham (son of Gideon)]], the youngest (9:5). Jether is not named there. See [[Abimelech Made King at Shechem]].
 
 See [[Ephraim, Succoth, and Penuel]]. Source: stored WEB Exodus 4:18; Judges 7:3, 10–11; 8:10, 18–21,
 30; 9:5; 1 Kings 2:5 checked at bible-api.com (WEB); Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
@@ -41,6 +41,7 @@ See [[Ephraim, Succoth, and Penuel]]. Source: stored WEB Exodus 4:18; Judges 7:3
 - [[Gideon]] — his father.
 - [[Zebah]] and [[Zalmunna]] — the kings he is told to kill.
 - [[Purah]] — the other *naʿar* at Gideon's side.
+- [[Jotham (son of Gideon)]] — the youngest son, the only one to survive Abimelech.
 - [[Jethro]] — written with the same Hebrew name at Exodus 4:18.
 
 ## Themes associated

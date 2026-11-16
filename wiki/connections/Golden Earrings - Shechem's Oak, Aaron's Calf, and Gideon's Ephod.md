@@ -62,5 +62,10 @@ sanctuary built to a commanded pattern. See [[Gold for the Calf and Gold for the
   [[They Turned Aside Quickly - The Golden Calf and the Cycle of Judges]]: Gideon's ephod does echo
   Exodus 32 in its Hebrew, in the earrings, the throwing, and the making.
 
-Sources: stored WEB Genesis 24:22; 35:2–4; Exodus 28:6; 32:1–4, 24; 35:22; Judges 8:23–27, 31, 33; 9:4.
+- **Shechem's oak returns at Abimelech's crowning.** He is made king *by the oak of the pillar that was
+  in Shechem* (Judges 9:6), paid from Baal Berith's house (9:4). The Hebrew word is *ʾēlôn*, not the
+  *ʾēlâ* of Genesis 35:4 (WLC), so the text does not show this is Jacob's tree. See
+  [[Abimelech Made King at Shechem]].
+
+Sources: stored WEB Genesis 24:22; 35:2–4; Judges 9:4, 6; Exodus 28:6; 32:1–4, 24; 35:22; Judges 8:23–27, 31, 33; 9:4.
 Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), Genesis–Judges, 2026-11-15.

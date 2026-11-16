@@ -127,6 +127,13 @@ ephod, and judges neither aloud. See [[Gideon's Ephod and Death]],
 
 Source: stored WEB Judges 8:22–35; Genesis 25:8; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
+**His house after him (9:1–6).** Judges 9 calls him only *Jerubbaal* (WLC). His son Abimelech asks
+Shechem whether *all the sons of Jerubbaal, who are seventy persons* should *rule over you, or that one
+rule over you* (9:2), with the *māšal* of Gideon's refusal. Then he kills the seventy *on one stone*
+*at his father's house at Ophrah*, all but Jotham (9:5), and is made king (9:6). The *snare … to his
+house* (8:27) and the *kindness* not shown *to the house of Jerubbaal* (8:35) are carried out within
+six verses. See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 8:27, 35; 9:1–6.
+
 ## Timeline / key events
 
 - Judges 6:11 — threshing wheat in a winepress at Ophrah, hiding from Midian.
@@ -157,6 +164,7 @@ Source: stored WEB Judges 8:22–35; Genesis 25:8; Hebrew WLC (OpenScriptures mo
 - Judges 8:28–31 — forty years' rest; seventy sons and many wives; Abimelech born in Shechem.
 - Judges 8:32 — dies *in a good old age*; buried in the tomb of Joash in Ophrah.
 - Judges 8:33–35 — Israel returns to the Baals and shows his house no kindness.
+- Judges 9:1–6 — as *Jerubbaal*: his seventy sons killed at his house in Ophrah by Abimelech; Jotham survives.
 
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
@@ -167,6 +175,7 @@ Source: stored WEB Judges 8:22–35; Genesis 25:8; Hebrew WLC (OpenScriptures mo
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21.
 - [[Gideon's Ephod and Death]] — Judges 8:22–35.
+- [[Abimelech Made King at Shechem]] — Judges 9:1–6 (as *Jerubbaal*).
 
 ## Related people
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian he pursues and kills for his brothers (8:5–21).
@@ -186,6 +195,7 @@ Source: stored WEB Judges 8:22–35; Genesis 25:8; Hebrew WLC (OpenScriptures mo
 - [[Abraham]] — whose words at Sodom Gideon uses to preface the second fleece (Genesis 18:32; Judges 6:39).
 - [[Abimelech (son of Gideon)]] — his son by the concubine in Shechem, whom he names (8:31).
 - [[Baal Berith]] — the god Israel takes after his death (8:33).
+- [[Jotham (son of Gideon)]] — his youngest son, the one survivor of the seventy (9:5).
 
 ## Themes associated
 - [[Call and Election]] · [[Signs and Wonders]] · [[Sacrifice and Offering]] ·

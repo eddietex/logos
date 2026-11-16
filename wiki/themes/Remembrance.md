@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Remember that I am your bone — Judges 9:2
+
+One verse after Israel *didn't remember Yahweh* (8:34), Abimelech asks Shechem to remember something
+else: *Remember also that I am your bone and your flesh* (9:2). It is the second *zākar* in Judges
+(WLC). What Shechem is asked to remember is kinship, and it acts on it at once. The kindness owed to
+*the house of Jerubbaal* (8:35) is not remembered. See [[Abimelech Made King at Shechem]].
+
+Source: stored WEB Judges 9:1–6; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### They didn't remember — Judges 8:34–35
 
 *The children of Israel didn't remember Yahweh their God, who had delivered them out of the hand of all
@@ -813,6 +822,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 
 ## Key passages
 
+- [[Abimelech Made King at Shechem]] — Judges 9:2; *Remember also that I am your bone and your flesh*.
 - [[Gideon's Ephod and Death]] — Judges 8:34–35; Israel does not remember Yahweh, nor show kindness to Gideon's house.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:25; Oreb and Zeeb, later remembered as *the day of Midian*.
 - [[The Call of Gideon]] — Judges 6:13; *his wondrous works which our fathers told us of*, remembered as past.

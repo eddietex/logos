@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### One rule over you — Judges 9:1–6
+
+Gideon's son asks the question his father refused: *Is it better for you that all the sons of
+Jerubbaal, who are seventy persons, rule over you, or that one rule over you?* (9:2). The verb is
+*māšal*, the verb of *Yahweh shall rule over you* (8:23), and *Yahweh* is not among the choices. Shechem
+chooses him because *He is our brother* (9:3), pays him from the house of Baal Berith, and *made
+Abimelech king* by the oak of the pillar (9:6). The hiphil of *mālak*, *make king*, occurs in
+Genesis–Judges only here and in 9:16, 18 (WLC): it is the first time in those books anyone is made king.
+Deuteronomy 17:15 asks for a king *whom Yahweh your God chooses* and *from among your brothers*; Shechem
+meets only the second. See [[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]].
+
+See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 9:1–6; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Yahweh shall rule over you — Judges 8:22–23
 
 After Midian, Israel offers Gideon a dynasty: *Rule over us, both you, and your son, and your son's son
@@ -485,6 +498,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Abimelech Made King at Shechem]] — Judges 9:1–6; *one rule over you*; Abimelech made king at Shechem.
 - [[Gideon's Ephod and Death]] — Judges 8:22–23, 30–31; rule offered and refused; the wives, and the son named *Abimelech*.
 - [[The Kings Struck Down]] — Joshua 12:1–24.
 - [[The Northern Kings at the Waters of Merom]] — Joshua 11:1–15.

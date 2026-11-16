@@ -23,27 +23,44 @@ told Israel *I will not rule over you, neither shall my son rule over you. Yahwe
 The page is qualified from the start, as the wiki's convention for this name requires: Genesis already
 has two Abimelechs.
 
-### What is ahead — Judges 9 (stored WEB; not yet ingested)
+### Made king at Shechem — Judges 9:1–6
 
-The next chapter is his. He asks the men of Shechem whether *all the sons of Jerubbaal, who are seventy
-persons* should rule over them, *or that one rule over you*, and reminds them *I am your bone and your
-flesh* (9:2). He is paid *seventy pieces of silver out of the house of Baal Berith* (9:4) and kills his
-brothers *on one stone*, all but Jotham (9:5). These will be written up when Judges 9 is ingested.
+He goes to Shechem, to *his mother's brothers*, and has them ask the town: *Is it better for you that
+all the sons of Jerubbaal, who are seventy persons, rule over you, or that one rule over you? Remember
+also that I am your bone and your flesh* (9:2). The verb is *māšal*, the verb of his father's *neither
+shall my son rule over you* (8:23, WLC). Shechem's heart *inclined to follow* him, *for they said, "He is
+our brother"* (9:3), Judah's words of Joseph (Genesis 37:27).
 
-See [[Gideon's Ephod and Death]]. Source: stored WEB Judges 8:23, 30–31; 9:2, 4–5; Hebrew of Judges 8:31 from the WLC (OpenScriptures morphhb).
+They pay him *seventy pieces of silver out of the house of Baal Berith*, and he hires *vain and light
+fellows* (9:4). He goes to *his father's house at Ophrah* and kills *his brothers the sons of
+Jerubbaal, being seventy persons, on one stone*. Only Jotham, the youngest, is left, *for he hid
+himself* (9:5). Then *all the men of Shechem … and all the house of Millo* make him king *by the oak of
+the pillar that was in Shechem* (9:6). He is the first person in Genesis–Judges who is *made king*,
+the hiphil of *mālak* (WLC). His name has *melek*, *king*, in it, and Shechem now makes it true. No word
+of Yahweh is spoken in the scene. See
+[[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]] and
+[[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]].
+
+Jotham's fable and curse (9:7–21), his three years as *prince over Israel* (9:22), and his death are
+ahead (stored WEB; not yet ingested).
+
+See [[Gideon's Ephod and Death]] and [[Abimelech Made King at Shechem]]. Source: stored WEB Genesis 37:27; Judges 8:23, 30–31; 9:1–7, 22; Hebrew of Judges 8:31; 9:2–6 from the WLC (OpenScriptures morphhb), 2026-11-15.
 
 ## Timeline / key events
 - Born to Gideon's concubine in Shechem, and named by Gideon — Judges 8:31
+- Asks Shechem to choose *one* ruler; paid from Baal Berith's house; kills his seventy brothers on one stone; made king by the oak of the pillar — Judges 9:1–6
 
 ## Appears in
 - [[Gideon's Ephod and Death]] — Judges 8:31.
+- [[Abimelech Made King at Shechem]] — Judges 9:1–6.
 
 ## Related people
 - [[Gideon]] — his father, who refused to rule and named him *Abimelech*.
 - [[Jether (son of Gideon)]] — Gideon's firstborn, one of the seventy.
 - [[Abimelech (of Abraham's time)]] and [[Abimelech (of Isaac's time)]] — the kings of Gerar who bore the
   name before him.
-- [[Baal Berith]] — the god of the house whose silver will pay his men (9:4).
+- [[Baal Berith]] — the god of the house whose silver pays his men (9:4).
+- [[Jotham (son of Gideon)]] — the youngest brother, who hid and survived (9:5).
 
 ## Themes associated
 - [[Kingship and Empire]] · [[Names and Naming]] · [[Brotherhood]]

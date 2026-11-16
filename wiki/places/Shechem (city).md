@@ -115,7 +115,21 @@ Shechem (stored WEB; not yet ingested). The town where Joshua *made a covenant w
 24:25) has a temple to a *lord of the covenant*. See [[Gideon's Ephod and Death]] and [[Baal Berith]]. Source: stored WEB Judges
 8:31, 33; 9:4; Joshua 24:25.
 
+### Abimelech made king — Judges 9:1–6
+
+Abimelech comes to *his mother's brothers* here and asks *the men of Shechem*, *baʿălê šəkem*, *the
+lords of Shechem* (WLC), to choose one ruler over seventy. *He is our brother*, they say (9:3), and they
+pay him from *the house of Baal Berith* (9:4). After the killing at Ophrah, *all the men of Shechem …
+and all the house of Millo* make him king *by the oak of the pillar that was in Shechem* (9:6). *The
+oak of the pillar*, *ʾēlôn muṣṣāb*, uses the word of Abram's *oak of Moreh* (Genesis 12:6). Jacob's oak
+(Genesis 35:4) and Joshua's (Joshua 24:26) use other words, so whether one tree is meant cannot be shown
+from the wording. The town of the covenant stone is now the town of the first king in Genesis–Judges.
+See [[Abimelech Made King at Shechem]] and [[Beth Millo (Shechem)]]. Source: stored WEB Genesis 12:6;
+35:4; Joshua 24:26; Judges 9:1–6; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ## Appears in
+
+- [[Abimelech Made King at Shechem]] — Judges 9:1–6; Abimelech chosen and made king by the oak of the pillar.
 
 - [[Gideon's Ephod and Death]] — Judges 8:31, 33; Gideon's concubine and Abimelech; Baal Berith.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joseph's bones buried in Jacob's parcel (32).
@@ -165,6 +179,8 @@ Shechem (stored WEB; not yet ingested). The town where Joshua *made a covenant w
 - [[Canaan]] — the land Shechem is the first stop in
 - [[Bethel]] and [[Ai]] — Abram's next stop, twenty miles south along the same ridge
 - [[Haran (city)]] — the city he came from, four hundred miles north-east
+- [[Beth Millo (Shechem)]] — *the house of Millo*, which joins Shechem in making Abimelech king (Judges 9:6)
+- [[Ophrah (Manasseh)]] — Gideon's town, where Abimelech kills his brothers (Judges 9:5)
 - [[Mount Gerizim]] and [[Mount Ebal]] — the two mountains the town sits between, and the platform
   of Deuteronomy's blessings and curses; given their own pages at Deuteronomy 11:29
 
@@ -189,5 +205,7 @@ Shechem (stored WEB; not yet ingested). The town where Joshua *made a covenant w
 - The blessings and curses read from Gerizim and Ebal — Joshua 8:30–35
 - Joshua's covenant renewal — Joshua 24:1–28; [[The Covenant at Shechem]]
 - Gideon's concubine in Shechem bears Abimelech — Judges 8:31, [[Gideon's Ephod and Death]]
-- Abimelech's kingship and the destruction of the city — Judges 9
+- Abimelech chosen by *the men of Shechem* and made king by the oak of the pillar — Judges 9:1–6,
+  [[Abimelech Made King at Shechem]]
+- Jotham's fable from Gerizim, and the destruction of the city — Judges 9:7–57
 - The kingdom divides under Rehoboam — 1 Kings 12:1–19

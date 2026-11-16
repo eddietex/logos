@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### He is our brother — Judges 9:1–6
+
+Abimelech goes to his *mother's brothers* and tells Shechem *I am your bone and your flesh* (9:2).
+Shechem answers *He is our brother* (9:3), Judah's words of Joseph, *for he is our brother, our flesh*
+(Genesis 37:27). Judah used kinship to stop a killing. Shechem uses it to back one. Abimelech then
+*killed his brothers the sons of Jerubbaal, being seventy persons, on one stone* (9:5), with Cain's verb
+*hārag* (Genesis 4:8, WLC). The mother's kin is chosen over the father's sons. Only Jotham, the youngest,
+survives, because he hid. See [[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]]
+and [[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]].
+
+See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 9:1–6; Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+
 ### Brothers avenged, brother towns punished — Judges 8:1–21
 
 The pericope sets two kinds of brotherhood side by side. Gideon avenges *my brothers, the sons of my
@@ -384,6 +396,7 @@ abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] 
 
 ## Key passages
 
+- [[Abimelech Made King at Shechem]] — Judges 9:1–6; *He is our brother*; seventy brothers killed on one stone.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21; Gideon's brothers avenged; Israelite towns punished; Ephraim calmed.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

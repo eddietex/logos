@@ -32,14 +32,21 @@ in Ophrah of the Abiezrites* (8:32), the phrase of the altar *Yahweh is Peace* (
 the altar of his call, the ephod that became *a snare*, and his grave. See [[Gideon's Ephod and Death]]. Source: stored WEB Judges
 6:24; 8:27, 32.
 
+**The seventy killed (9:5).** Now ingested. Abimelech *went to his father's house at Ophrah, and
+killed his brothers the sons of Jerubbaal, being seventy persons, on one stone*; only Jotham was left,
+*for he hid himself* (9:5). The town of Gideon's call, ephod, and grave becomes the place where his
+house is destroyed. See [[Abimelech Made King at Shechem]]. Source: stored WEB Judges 9:5.
+
 ## Appears in
 - [[The Call of Gideon]] — Judges 6:11–24.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:25–32.
 - [[Gideon's Ephod and Death]] — Judges 8:27, 32.
+- [[Abimelech Made King at Shechem]] — Judges 9:5.
 
 ## Related places
 - [[Ophrah (Benjamin)]] — the other Ophrah.
 - [[Midian]] — the oppressor the town hides its grain from.
+- [[Shechem (city)]] — Abimelech's mother's town, which pays for the killing here.
 
 ## Events here
 - The angel under the oak; the call of Gideon; fire from the rock; the altar *Yahweh is Peace*
@@ -48,3 +55,4 @@ the altar of his call, the ephod that became *a snare*, and his grave. See [[Gid
   demands Gideon's death; the name *Jerub-Baal* (Judges 6:25–32).
 - Gideon's ephod set up, and *all Israel played the prostitute with it there* (Judges 8:27).
 - Gideon buried in the tomb of Joash (Judges 8:32).
+- Abimelech kills the seventy sons of Jerubbaal *on one stone*; Jotham hides and survives (Judges 9:5).

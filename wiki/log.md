@@ -26662,3 +26662,51 @@ only at 8:23), *yāšaʿ*, *šəʾēlâ*, *yišməʿēʾlîm*, *nātôn nittēn*
 *yāṣag*, *zānâ ʾaḥărê*, *môqēš*, *kānaʿ*, *šāqaṭ*, *yōṣəʾê yərēkô*, *pîlegeš*, *śîm* (8:31, 33), *ʾĂbîmelek*,
 *śêbâ ṭôbâ*, *baʿal bərît*, *zākar*, *nāṣal*, and *ḥesed* (Judges 1:24; 8:35). No Greek or Latin text was
 consulted.
+
+## [2026-11-15] ingest | Judges 9.1-6 — Abimelech Made King at Shechem
+
+Unattended run (`/ingest auto`). Ingested Judges 9:1–6 as [[Abimelech Made King at Shechem]]. Abimelech
+asks his mother's kin to put Shechem a question: seventy sons of Jerubbaal ruling, or one? He adds *I am
+your bone and your flesh*. The town answers *He is our brother* and pays him seventy of silver from the
+house of Baal Berith. He hires *vain and light fellows* and kills his seventy brothers *on one stone* at
+Ophrah. Only Jotham survives, because he hid. Shechem and the house of Millo then make him king by the
+oak of the pillar. The discussion step was written into the passage page.
+
+Created: the passage page; one person page ([[Jotham (son of Gideon)]]); one place page
+([[Beth Millo (Shechem)]]); two connections
+([[Your Bone and Your Flesh - Genesis 29.14, Judges 9.2, and 2 Samuel 5.1]],
+[[Seventy Sons and One Hidden - Judges 9 and 2 Kings 10-11]]).
+
+Revised: people [[Abimelech (son of Gideon)]], [[Gideon]], [[Baal Berith]],
+[[Jether (son of Gideon)]]; places [[Shechem (city)]], [[Ophrah (Manasseh)]]; five themes
+([[Kingship and Empire]], [[Brotherhood]], [[Idolatry]], [[Wealth and Possessions]], [[Remembrance]]);
+five connections ([[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]],
+[[The Altar at Shechem and the Covenant at Shechem]],
+[[Golden Earrings - Shechem's Oak, Aaron's Calf, and Gideon's Ephod]],
+[[Twenty Pieces of Silver - The Price of a Brother]],
+[[Seventy Souls - The Count of Jacob's House in Genesis, Exodus and Acts]]). Also updated the book page
+(box checked, overview, key themes, people, places), the books index (22 / 42), the people (A-E, F-M),
+places, themes, and connections (A-C, D-H, O-S, T-Z) indexes, and the dashboard counts. Frontmatter
+totals: 458 passages, 318 people, 573 places, 87 themes, 875 connections.
+
+Judgment calls: kept the planned boundary (9:6 ends with the crowning, and 9:7 turns to Jotham).
+Jotham's page is qualified because a king of Judah has the same name (2 Kings 15:7). *The house of
+Millo* got a place page, qualified from the start as `Beth Millo (Shechem)` because Jerusalem has a
+Millo (2 Samuel 5:9). The oak of the pillar is recorded on [[Shechem (city)]], not on a page of its
+own. The page does not identify it with the oaks of Genesis 35:4 or Joshua 24:26, since each verse uses
+a different Hebrew word (*ʾēlôn*, *ʾēlâ*, *ʾallâ*). The existing Shechem thread now says that its *one
+tree* is a reading of the place, not of the wording. Abimelech's mother, her brothers, and the hired
+men got no pages. Three things are left open: what the stone was, what *Millo* means, and what
+*muṣṣāb* means. The concubine of 8:31 against *his female servant* in 9:18 is recorded, not resolved.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Deuteronomy, and Joshua. 2 Samuel 5:1–2, 9; 2 Kings 9:7; 10:1, 6–7; 11:1–3, 12; and 15:7 were checked
+at bible-api.com (WEB) on 2026-11-15 and are not stored in `raw/`. Hebrew came from a fresh download of
+the Westminster Leningrad Codex (OpenScriptures morphhb), Genesis through Judges, plus `2Sam.xml` and
+`2Kgs.xml` read only for 2 Samuel 5:1, 2 Kings 10:6–7, and 11:2, on 2026-11-15. It covered *baʿălê*
+(with a city only at Joshua 24:11 and Judges 9), *māšal*, *zākar*, *ʿeṣem* with *bāśār* (Genesis 2:23;
+29:14; Judges 9:2), *nāṭâ lēb*, *ʾāḥînû hûʾ*, *šibʿîm kesep*, *rêq*, *pāḥaz*/*paḥaz*, *śākar*, *hārag*,
+*šibʿîm ʾîš*, *ʾeben ʾeḥāt*, *yātar*, *ḥābāʾ*, *nûs* (6:11), *qāṭōn*/*ṣāʿîr*, *millôʾ*, the hiphil of
+*mālak* (only Judges 9:6, 16, 18), *ʾēlôn* with *nāṣab*, and *ʾāmâ*. Reported, not checked: the meanings
+of *Abimelech*, *Millo*, and *muṣṣāb*, and the sense of the hiphil of *nûs*. No Greek or Latin text was
+consulted.

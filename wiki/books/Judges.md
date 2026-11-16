@@ -217,6 +217,17 @@ old age*, Abraham's phrase. As soon as he is dead Israel turns back to the Baals
 its god, and the last verses charge Israel with two failures of memory: it *didn't remember Yahweh*, and
 it showed no *kindness to the house of Jerubbaal*.
 
+[[Abimelech Made King at Shechem]] (9:1–6) shows what the missing kindness looks like. Gideon's son by
+the Shechem concubine goes to his mother's brothers and has them ask the town, *Is it better for you that
+all the sons of Jerubbaal, who are seventy persons, rule over you, or that one rule over you?* He uses
+his father's verb, *rule*, and leaves out his father's third ruler, Yahweh. *Remember also that I am your
+bone and your flesh*, he says, and Shechem answers *He is our brother*, the words Judah used of Joseph
+at Dothan. The town pays him seventy of silver from the house of Baal Berith, and he hires *vain and
+light fellows* and kills his seventy brothers *on one stone* at Ophrah. Only Jotham, the youngest,
+survives, *for he hid himself*. Then the men of Shechem and the house of Millo make him king *by the oak
+of the pillar*. No outside oppressor appears, nobody cries to Yahweh, and God is not named. It is the
+first time in Genesis–Judges that anyone is *made king*.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -260,7 +271,7 @@ merge, or reorder them freely.
 - [x] [[The Sword of Yahweh and of Gideon]] — Judges 7:16–25
 - [x] [[Ephraim, Succoth, and Penuel]] — Judges 8:1–21
 - [x] [[Gideon's Ephod and Death]] — Judges 8:22–35
-- [ ] Abimelech Made King at Shechem — Judges 9:1–6
+- [x] [[Abimelech Made King at Shechem]] — Judges 9:1–6
 - [ ] Jotham's Fable — Judges 9:7–21
 - [ ] The Fall of Abimelech — Judges 9:22–57
 - [ ] Tola and Jair — Judges 10:1–5
@@ -287,7 +298,7 @@ merge, or reorder them freely.
 - [[Retribution]] — *As I have done, so God has done to me* (1:7), the first of the book's
   measure-for-measure reversals.
 - [[Land and Sojourning]] — the land allotted in Joshua, still to be taken in Judges.
-- [[Brotherhood]] — Judah and Simeon fight together (1:3); Judah leads against Benjamin (20:18).
+- [[Brotherhood]] — Judah and Simeon fight together (1:3); *He is our brother*, and seventy brothers killed on one stone (9:3–5); Judah leads against Benjamin (20:18).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
@@ -300,7 +311,7 @@ merge, or reorder them freely.
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
-- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
+- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -322,8 +333,9 @@ merge, or reorder them freely.
 - [[Ephraim]] — summoned late against Midian (7:24); quarrels with Gideon (8:1) and Jephthah (12:1).
 - [[Zebah]] and [[Zalmunna]] — the kings of Midian, pursued beyond the Jordan and killed by Gideon (8:5–21).
 - [[Jether (son of Gideon)]] — Gideon's firstborn, afraid to kill the kings (8:20).
-- [[Abimelech (son of Gideon)]] — Gideon's son by a concubine in Shechem (8:31); king at Shechem in chapter 9.
-- [[Baal Berith]] — the god Israel takes after Gideon's death (8:33).
+- [[Abimelech (son of Gideon)]] — Gideon's son by a concubine in Shechem (8:31); kills his seventy brothers and is made king at Shechem (9:1–6).
+- [[Baal Berith]] — the god Israel takes after Gideon's death (8:33), whose house pays for the killing (9:4).
+- [[Jotham (son of Gideon)]] — the youngest son, who hid and survived (9:5).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -338,4 +350,5 @@ merge, or reorder them freely.
 - [[Beth Shittah]], [[Zererah]], [[Abel Meholah]], [[Tabbath]] — the line of Midian's flight (7:22).
 - [[Beth Barah]], [[The Rock of Oreb]], [[The Winepress of Zeeb]] — the waters held and the princes killed (7:24–25).
 - [[Succoth (Transjordan)]] and [[Peniel]] — refuse Gideon bread and are punished (8:5–17).
-- [[Shechem (city)]] — home of Gideon's concubine, and of the house of Baal Berith (8:31, 33).
+- [[Shechem (city)]] — home of Gideon's concubine, and of the house of Baal Berith (8:31, 33); Abimelech made king by the oak of the pillar (9:6).
+- [[Beth Millo (Shechem)]] — *the house of Millo*, which joins in making Abimelech king (9:6).
