@@ -7,6 +7,19 @@ tags: [place]
 
 ## Overview
 
+### The judge's thirty cities — Judges 10:3–5
+
+The Judges account is now ingested. *Jair, the Gileadite*, a judge, *had thirty sons who rode on
+thirty donkey colts, and they had thirty cities, which are called Havvoth Jair to this day, which are
+in the land of Gilead* (10:4). In the Hebrew the *cities* are spelled *ʿăyārîm*, the same as the
+*donkey colts* (both tagged lemma 5895 in the morphhb data); the ordinary plural *ʿārîm* is not used.
+Whether that is wordplay or a variant spelling is reported, not checked. The four accounts are now
+compared on [[The Villages of Jair - Numbers 32.41, Deuteronomy 3.14, Joshua 13.30, and Judges 10.4]].
+They are still not reconciled.
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:3–5; Hebrew WLC (OpenScriptures morphhb),
+2026-11-15.
+
 ### Eastern allotments — Joshua 13:8–33
 
 The villages of Jair are sixty cities in Bashan within Manasseh’s portion (30). This confirms the Joshua notice already compared here; it does not resolve the differing later Jair account.
@@ -30,7 +43,7 @@ of Gilead. Deuteronomy 3:14 has *Jair the son of Manasseh* take *all the region 
 called them, even Bashan, after his own name, Havvoth Jair, to this day*, and Joshua 13:30 places *all the
 villages of Jair, which are in Bashan, sixty cities* in Manasseh's portion. Judges 10:3–4 gives the name to
 *Jair, the Gileadite*, a judge whose thirty sons *had thirty cities, which are called Havvoth Jair to this
-day, which are in the land of Gilead* (all WEB via bible-api.com, not yet ingested). The accounts differ
+day, which are in the land of Gilead* (all stored WEB; all four now ingested). The accounts differ
 over the region (Gilead or Bashan), the number (thirty or sixty), and the man (a son of Manasseh in Moses'
 time or a judge after Gideon). They may describe one place named once and remembered differently, or a
 name renewed by a later Jair of the same clan. The wiki records them side by side without choosing.
@@ -38,6 +51,7 @@ name renewed by a later Jair of the same clan. The wiki records them side by sid
 Source: stored WEB Numbers 32.
 
 ## Appears in
+- [[Tola and Jair]] — Judges 10:4; thirty cities of Jair the Gileadite's sons.
 - [[The Inheritance Beyond the Jordan]] — Joshua 13:8–33.
 - [[The Eastern Inheritance and the Charge to Joshua]] — Deuteronomy 3:12–22.
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42
@@ -46,6 +60,9 @@ Source: stored WEB Numbers 32.
 - [[Gilead]] — where Numbers 32 and Judges 10 place it.
 - [[Bashan]] — where Deuteronomy 3 and Joshua 13 place it.
 - [[Kenath]] — named by Nobah in the next verse (32:42).
+- [[Kamon]] — where Jair the Gileadite is buried (Judges 10:5).
 
 ## Events here
 - Taken and named by Jair (41). See [[Reuben, Gad, and the Land Beyond the Jordan]].
+- Held by the thirty sons of Jair the Gileadite, *to this day* (Judges 10:4). See [[Tola and Jair]].
+

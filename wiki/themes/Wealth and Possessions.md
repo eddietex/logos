@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sons, colts, and cities — Judges 10:4
+
+*He had thirty sons who rode on thirty donkey colts, and they had thirty cities* (10:4). A judge's
+standing is given as a count of sons, riding animals, and towns, with no word of silver or gold. In
+the Hebrew the *cities* are spelled like the *colts*, *ʿăyārîm* (lemma 5895 for both in the morphhb
+data). Abdon's notice uses the same measure: *forty sons and thirty sons' sons, who rode on seventy
+donkey colts* (12:14).
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:4; 12:14; Hebrew WLC (OpenScriptures morphhb),
+2026-11-15.
+
 ### Seventy of silver — Judges 9:4
 
 Shechem gives Abimelech *seventy pieces of silver out of the house of Baal Berith*, and he *hired*
@@ -922,6 +933,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Tola and Jair]] — Judges 10:4; thirty sons, thirty donkey colts, thirty cities.
 - [[Abimelech Made King at Shechem]] — Judges 9:4; seventy of silver from Baal Berith's house, and hired men.
 - [[Gideon's Ephod and Death]] — Judges 8:24–27; the earrings of the plunder, weighed and made into an ephod.
 - [[The Eastern Tribes Sent Home]] — Joshua 22:1–9.

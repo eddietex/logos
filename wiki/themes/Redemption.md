@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Arose to save Israel — Judges 10:1
+
+*After Abimelech, Tola … arose to save Israel* (10:1, *ləhôšîaʿ*, the verb *yāšaʿ* of 2:16). No
+enemy is named, and no one is said to raise him up. The only thing behind him is Abimelech's civil
+war. It is the last time in the book that a man is said simply to arise *to save Israel*. The next
+use of the verb is Yahweh's refusal, *I will save you no more* (10:13).
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:1–5; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### "I delivered you" — Judges 6:9
 
 *I delivered you out of the hand of the Egyptians, and out of the hand of all who oppressed you* (6:9).
@@ -351,6 +360,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Tola and Jair]] — Judges 10:1; Tola *arose to save Israel*, from no named enemy.
 - [[Midian's Oppression and the Prophet]] — Judges 6:9; past deliverance recalled under a new oppressor.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; *he also saved Israel*, the verb without the title.
 - [[Ehud and Eglon]] — Judges 3:15, 28; *a savior*, and Yahweh's deliverance in Ehud's mouth.

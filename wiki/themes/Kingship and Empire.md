@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Thirty sons on thirty colts — Judges 10:1–5
+
+After Abimelech's three years, two judges rule forty-five years and nobody calls either one king.
+Tola is counted *after Abimelech* (10:1), as if Abimelech belonged to the line of Israel's leaders.
+Jair's thirty sons ride thirty donkey colts and hold thirty cities (10:4). The Song had called on
+*you who ride on white donkeys* (5:10). Gideon had seventy sons and refused to rule (8:23, 30).
+Abimelech killed his brothers to rule alone (9:5). Jair shares his cities among thirty sons and
+*judged*. The text draws no comparison. The juxtaposition is the wiki's.
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:1–5; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### Prince over Israel three years — Judges 9:22–57
 
 *Abimelech was prince over Israel three years* (9:22). The verb is *śārar*, *to be prince*, not
@@ -524,6 +535,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Tola and Jair]] — Judges 10:1–5; *after Abimelech*, two judges; Jair's sons on donkeys holding thirty cities.
 - [[The Fall of Abimelech]] — Judges 9:22–57; *prince over Israel three years*, and the end of the first king in Israel.
 - [[Jotham's Fable]] — Judges 9:7–21; the trees seek a king, and only the bramble accepts.
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6; *one rule over you*; Abimelech made king at Shechem.

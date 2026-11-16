@@ -26805,3 +26805,48 @@ Westminster Leningrad Codex (OpenScriptures morphhb), Genesis through Judges, pl
 for 1 Samuel 10:7 and 31:4, on 2026-11-15. Reported, not checked: 1 Samuel 16:14 and 31:3, Ezekiel
 38:12, the reading *in Tormah*, the sense of *Ebed*, the meaning of the salting, the tower/Beth Millo
 identification, and the household-tool reading of the millstone. No Greek or Latin text was consulted.
+
+## [2026-11-15] ingest | Judges 10.1-5 — Tola and Jair
+
+Unattended run (`/ingest auto`). Ingested Judges 10:1–5 as [[Tola and Jair]]. *After Abimelech*,
+Tola the son of Puah, of Issachar, *arose to save Israel* and judged twenty-three years from Shamir
+in the hill country of Ephraim. Jair the Gileadite judged twenty-two years; his thirty sons rode
+thirty donkey colts and held thirty cities, *called Havvoth Jair to this day*. Both are buried in
+named towns. No sin, enemy, cry, Spirit, or rest. The discussion step was written into the passage
+page.
+
+Created: the passage page; two people ([[Tola (son of Puah)]], [[Jair (the Gileadite)]]); two places
+([[Shamir (Ephraim)]], [[Kamon]]); two connections
+([[The Minor Judges - Judges 10.1-5 and 12.8-15]],
+[[The Villages of Jair - Numbers 32.41, Deuteronomy 3.14, Joshua 13.30, and Judges 10.4]]).
+
+Revised: people [[Issachar]], [[Jair (son of Manasseh)]], [[Abimelech (son of Gideon)]],
+[[Shiphrah and Puah]] (related-people note on the two Puahs); places [[Havvoth Jair]], [[Gilead]],
+[[The Hill Country of Ephraim]], and `Shamir`, renamed [[Shamir (Judah)]] with its three inbound
+links fixed ([[Jattir]], [[The Cities of Judah]], the places index); five themes ([[Redemption]],
+[[Burial and the Grave]], [[Names and Naming]], [[Kingship and Empire]], [[Wealth and Possessions]]);
+one connection ([[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]], which also had
+a stale "not yet ingested" note on Judges 8:28 replaced by a link to [[Gideon's Ephod and Death]]);
+and the "not yet ingested" pointer to 10:1 in [[The Fall of Abimelech]]. Also updated the book page
+(box checked, overview, key themes, people, places), the books index (25 / 42), the people (A-E,
+F-M, N-Z), places, themes, and connections (I-N, T-Z) indexes, and the dashboard counts. Frontmatter
+totals: 461 passages, 323 people, 581 places, 88 themes, 881 connections.
+
+Judgment calls: kept 10:1–5 as one pericope, since the two notices share one form and are joined by
+*after him*. The judge is `Tola (son of Puah)` from the start, because Issachar's son Tola (Genesis
+46:13) may need a page later; the judge Jair is `Jair (the Gileadite)`, matching the existing
+`Jair (son of Manasseh)`. Puah and Dodo, named only in Tola's ancestry, get no pages, as with Kenaz,
+Gera, and Anath earlier. Shamir in Ephraim was treated as a different town from Judah's Shamir, and
+both pages qualified now. The Havvoth Jair accounts are compared without being reconciled, as the
+existing pages already did. Abdon, Ibzan, and Elon are mentioned in plain text, not linked; they
+come with Judges 12:8–15.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis, Exodus,
+Numbers, Deuteronomy, and Joshua. Hebrew came from a fresh download of the Westminster Leningrad
+Codex (OpenScriptures morphhb), Genesis, Exodus, Numbers, Deuteronomy, Joshua, Judges, plus
+`1Chr.xml` read only for 1 Chronicles 7:1–2 and 11:12, 26 (Hebrew only; no English quoted), on
+2026-11-15. Verified there: the lemmas for Tola, Puah/Puvah, the midwife Puah, Dodo, Shamir, Kamon,
+*ʿayir* (both *colts* and *cities* in 10:4 tagged 5895), *ḥawwōt yāʾîr*, *yāšaʿ*, *šāpaṭ*, and
+*wayyāqom*. Reported, not checked: the label *minor judges*; the derivation of *Dodo*; whether the
+*ʿăyārîm* spelling of *cities* is a pun, variant, or scribal assimilation; the archival reading of
+the year numbers; the location of Kamon in Gilead. No Greek or Latin text was consulted.

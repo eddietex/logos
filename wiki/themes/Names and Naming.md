@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Havvoth Jair, and Issachar's names — Judges 10:1–5
+
+*Thirty cities, which are called Havvoth Jair to this day* (10:4). The fourth explanation of the
+name, after Numbers 32:41, Deuteronomy 3:14, and Joshua 13:30; this one gives it to a judge's sons.
+See [[The Villages of Jair - Numbers 32.41, Deuteronomy 3.14, Joshua 13.30, and Judges 10.4]].
+
+The judge before him, *Tola the son of Puah*, bears the names of Issachar's first two sons, *Tola*
+and *Puvah* (Genesis 46:13). The WLC uses the same lemmas in both places. Why, the text does not say.
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:1–5; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
+
 ### He named him Abimelech — Judges 8:29–35
 
 Gideon, who said *neither shall my son rule over you* (8:23), names his concubine's son *Abimelech*
@@ -361,6 +372,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Tola and Jair]] — Judges 10:1, 4; Tola and Puah repeat Issachar's sons' names; Havvoth Jair *to this day*.
 - [[Gideon's Ephod and Death]] — Judges 8:31, 35; Abimelech named; *Jerubbaal Gideon*.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:32; Joash names Gideon *Jerub-Baal*, *Let Baal contend*.
 - [[The Call of Gideon]] — Judges 6:24; Gideon names his altar *Yahweh is Peace*.

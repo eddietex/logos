@@ -252,6 +252,14 @@ killed him"*, and Israel goes home. The narrator gives the verdict: *Thus God re
 Abimelech … and the curse of Jotham the son of Jerubbaal came on them*. It is the book's only story
 with no outside enemy, no outcry, and no deliverer. God acts only in its first and last verses.
 
+[[Tola and Jair]] (10:1–5) follows with five quiet verses. *After Abimelech*, Tola of Issachar
+*arose to save Israel*, from no named enemy, and judged twenty-three years from Shamir in the hill
+country of Ephraim. Jair the Gileadite judged twenty-two years. His thirty sons rode thirty donkey
+colts and held thirty cities, *called Havvoth Jair to this day*, a name Numbers, Deuteronomy, and
+Joshua explain differently. Both men die and are buried in named towns. There is no sin, no enemy,
+and no rest. They are the first of the five short notices called the *minor judges*; Ibzan, Elon,
+and Abdon follow Jephthah (12:8–15).
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -298,7 +306,7 @@ merge, or reorder them freely.
 - [x] [[Abimelech Made King at Shechem]] — Judges 9:1–6
 - [x] [[Jotham's Fable]] — Judges 9:7–21
 - [x] [[The Fall of Abimelech]] — Judges 9:22–57
-- [ ] Tola and Jair — Judges 10:1–5
+- [x] [[Tola and Jair]] — Judges 10:1–5
 - [ ] Israel's Repentance Under Ammon — Judges 10:6–18
 - [ ] Jephthah Called from Tob — Judges 11:1–11
 - [ ] Jephthah's Message to the King of Ammon — Judges 11:12–28
@@ -335,12 +343,14 @@ merge, or reorder them freely.
 - [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
-- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the trees seek a king (9:8–15); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
+- [[Kingship and Empire]] — *Yahweh shall rule over you* (8:23); Abimelech *made king* at Shechem (9:6); the trees seek a king (9:8–15); Jair's thirty sons on thirty colts (10:4); the four refrains *there was no king in Israel* (17:6; 18:1; 19:1; 21:25).
 
 - [[Parables]] — Jotham's fable of the trees, the Bible's first (9:8–15).
 - [[Curse]] — *Curse Meroz* (5:23); *the curse of Jotham* (9:20, 57).
 - [[The Spirit of God]] — and *an evil spirit* sent by God between Abimelech and Shechem (9:23).
 - [[Blood]] — the blood of the seventy *laid on Abimelech … and on the men of Shechem* (9:24).
+- [[Burial and the Grave]] — Gideon *in the tomb of Joash his father* (8:32); every minor judge buried in a named town (10:2, 5; 12:10, 12, 15).
+- [[Redemption]] — *who saved them* (2:16); Tola *arose to save Israel* (10:1); *I will save you no more* (10:13).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end.
@@ -368,6 +378,9 @@ merge, or reorder them freely.
 - [[Gaal]] — the newcomer who stirs Shechem against Abimelech (9:26–41).
 - [[Zebul]] — Abimelech's officer and *ruler of the city* (9:28–41).
 - [[The Woman of Thebez]] — casts the millstone that kills Abimelech (9:53).
+- [[Tola (son of Puah)]] — of Issachar; *arose to save Israel* and judged twenty-three years (10:1–2).
+- [[Jair (the Gileadite)]] — judged twenty-two years; thirty sons on thirty donkey colts (10:3–5).
+- [[Issachar]] — Tola's tribe (10:1); *the princes of Issachar were with Deborah* (5:15).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -390,3 +403,6 @@ merge, or reorder them freely.
 - [[The Oak of Meonenim]] — the diviners' oak on a road into Shechem (9:37).
 - [[The Tower of Shechem]] and [[Mount Zalmon]] — the stronghold burned, and where the boughs were cut (9:46–49).
 - [[Thebez]] — where Abimelech dies (9:50–55).
+- [[Shamir (Ephraim)]] — Tola's town and grave, in the hill country of Ephraim (10:1–2).
+- [[Gilead]] and [[Havvoth Jair]] — Jair's country and his sons' thirty cities (10:3–4).
+- [[Kamon]] — Jair's grave (10:5).

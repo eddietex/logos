@@ -73,6 +73,7 @@ does not state it.
 - *(ahead)* Moses' mother and sister, and Pharaoh's daughter (Exodus 2) — the women who finish what
   the midwives began
 - *(ahead)* Rahab (Joshua 2) — who deceives a king to save Israelite lives, and is commended for it
+- [[Tola (son of Puah)]] — Tola's father Puah (Judges 10:1) is a different name in Hebrew, *pûʾâ*, not the midwife's *pûʿâ* (WLC).
 
 ## Themes associated
 

@@ -17,8 +17,10 @@ tags: [connection]
   WEB)
 - [[The Song of Deborah]] — **Judges 5:31** — after Deborah: *Then the land had rest forty years.*
   (stored WEB). The formula is held back from 4:24 to the end of the Song.
-- **Judges 8:28** — after Gideon: *The land had rest forty years in the days of Gideon.* (stored WEB)
-  *(not yet ingested)*
+- [[Gideon's Ephod and Death]] — **Judges 8:28** — after Gideon: *The land had rest forty years in
+  the days of Gideon.* (stored WEB)
+- [[Tola and Jair]] — **Judges 10:1–5** — two judges, forty-five years, and no rest notice.
+  (stored WEB)
 - **Judges 18:7, 27** — Laish, *quiet and secure*, then *a people quiet and unsuspecting* (stored WEB)
   *(not yet ingested)*
 
@@ -49,6 +51,9 @@ follows is the judge's.
 - **Shamgar has none.** The first savior without a rest notice is [[Shamgar]] (3:31), whose one verse
   has no sin, oppression, cry, or rest, and whose successor's relapse is dated from Ehud's death (4:1).
   The cycle's formula is missing from his verse altogether, not just its last line.
+- **Tola and Jair have none either.** Their notices give years of *judging*, not years of the land's
+  rest (10:2–3). The rest formula measured the land; the minor-judge formula measures the man. See
+  [[The Minor Judges - Judges 10.1-5 and 12.8-15]].
 - **It stops after Gideon.** Jephthah and Samson have no rest notice. Gideon's is the last time the
   land is the subject of *šāqaṭ*. The book's own structure marks the cycle as breaking down. That this
   is deliberate is a reading, not a statement in the text.

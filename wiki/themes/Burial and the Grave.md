@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Died and was buried — Judges 10:1–5
+
+The minor-judge notices end every life the same way: *and died, and was buried in* a named town.
+Tola is buried in Shamir, where he lived (10:2); Jair in Kamon (10:5). Ibzan, Elon, and Abdon follow
+in the same form (12:10, 12, 15), and Jephthah's notice closes the same way (12:7). Among the
+cycle judges before them only Gideon has a grave (8:32). Othniel's death is noted (3:11) but not his
+burial. See [[The Minor Judges - Judges 10.1-5 and 12.8-15]].
+
+See [[Tola and Jair]]. Source: stored WEB Judges 3:11; 8:32; 10:1–5; 12:7–15.
+
 ### In a good old age — Judges 8:32
 
 *Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in Ophrah
@@ -231,6 +241,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Tola and Jair]] — Judges 10:2, 5; Tola buried in Shamir, Jair in Kamon.
 - [[Gideon's Ephod and Death]] — Judges 8:32; *in a good old age*, in the tomb of Joash.
 - [[Another Generation Arose]] — Judges 2:9–10; Joshua's burial, and a generation gathered to its fathers.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; three graves, all in the land.

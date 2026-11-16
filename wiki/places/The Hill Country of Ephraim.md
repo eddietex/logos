@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Tola at Shamir — Judges 10:1–2
+
+Tola, *a man of Issachar*, *lived in Shamir in the hill country of Ephraim* and was buried there
+(10:1–2). A judge from a northern tribe lives in the central hills, where Deborah had judged (4:5).
+The text does not say why. See [[Shamir (Ephraim)]].
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:1–2.
+
 ### Gideon's messengers — Judges 7:24
 
 *Gideon sent messengers throughout all the hill country of Ephraim* (7:24) to cut off Midian at the
@@ -64,6 +72,7 @@ Source: stored WEB Joshua 17:14–18.
 
 ## Appears in
 
+- [[Tola and Jair]] — Judges 10:1; Tola lives at Shamir.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:24; Gideon sends messengers through it.
 - [[Deborah and Barak]] — Judges 4:5; Deborah judges there.
 - [[Ehud and Eglon]] — Judges 3:27; Ehud blows the trumpet there.
@@ -78,7 +87,10 @@ Source: stored WEB Joshua 17:14–18.
 
 - [[Deborah's Palm Tree]] — Deborah's seat (Judges 4:5).
 - [[Beth Shean]] · [[The Valley of Jezreel]]
+- [[Shamir (Ephraim)]] — Tola's town (Judges 10:1–2).
 
 ## Events here
 
 - The geography of the request in [[The Children of Joseph Ask for More]]; no battle is narrated.
+- Tola of Issachar lives and is buried at Shamir (Judges 10:1–2).
+

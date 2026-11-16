@@ -100,6 +100,7 @@ yet *the curse of Jotham … came on them* (9:57). See [[The Woman of Thebez]],
 - [[Abimelech Made King at Shechem]] — Judges 9:1–6.
 - [[Jotham's Fable]] — Judges 9:7–21; the bramble of the fable, and the target of the curse.
 - [[The Fall of Abimelech]] — Judges 9:22–57; his three years, the destruction of Shechem, and his death at Thebez.
+- [[Tola and Jair]] — Judges 10:1; *after Abimelech*, Tola arises to save Israel.
 
 ## Related people
 - [[Gideon]] — his father, who refused to rule and named him *Abimelech*.

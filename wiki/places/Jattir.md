@@ -25,7 +25,7 @@ Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 
 ## Related places
-- [[Shamir]] · [[Socoh (hill country)]] — listed beside it (15:48).
+- [[Shamir (Judah)]] · [[Socoh (hill country)]] — listed beside it (15:48).
 
 ## Events here
 - Allotted to Judah (15:48); nothing else is narrated.

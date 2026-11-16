@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Jair the Gileadite — Judges 10:3–5
+
+The first judge from east of the Jordan is *Jair, the Gileadite*. His thirty sons have *thirty
+cities, which are called Havvoth Jair to this day, which are in the land of Gilead* (10:3–4). The
+next passage puts Gilead under Ammon for eighteen years (10:8), and its deliverer will be another
+Gileadite, Jephthah (11:1). See [[Havvoth Jair]] and [[Kamon]].
+
+See [[Tola and Jair]]. Source: stored WEB Judges 10:3–8; 11:1.
+
 ### "Depart from Mount Gilead" — Judges 7:3
 
 Gideon's proclamation sends the fearful home: *Whoever is fearful and trembling, let him return and
@@ -161,6 +170,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[Tola and Jair]] — Judges 10:3–4; Jair the Gileadite, and Havvoth Jair *in the land of Gilead*.
 - [[Gideon's Three Hundred]] — Judges 7:3; *depart from Mount Gilead*, west of the Jordan.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 
@@ -221,3 +231,5 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
   37:25
 - Goats stream down from it in the Song's picture of the woman's hair — Song of Solomon 4:1; 6:5
 - Requested by Reuben and Gad; promised on condition; taken by Machir (1, 26, 29, 39–40). See [[Reuben, Gad, and the Land Beyond the Jordan]].
+- Jair the Gileadite judges Israel twenty-two years; his sons hold thirty cities here — Judges 10:3–4
+

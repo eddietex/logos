@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### A judge from Issachar — Judges 10:1–2
+
+The tribe's one judge in the book is *Tola the son of Puah, the son of Dodo, a man of Issachar*
+(10:1). *Tola* and *Puah* repeat the names of Issachar's first two sons, *Tola, Puvah* (Genesis
+46:13), whose families the census counts (Numbers 26:23). In the WLC the names carry the same
+lemmas (8439, 6312) in all three places; the second is spelled *pûʾâ* in Judges and *puwwâ* in
+Genesis and Numbers. Tola lives not in Issachar's lot but *in Shamir in the hill country of Ephraim*.
+
+See [[Tola and Jair]] and [[Tola (son of Puah)]]. Source: stored WEB Judges 10:1–2; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-15.
+
 ### *With Deborah* — Judges 5:15
 
 *The princes of Issachar were with Deborah. As was Issachar, so was Barak. They rushed into the
@@ -227,6 +238,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:18–23; gives second, through Nethanel.
 - [[The March from Sinai]] — Numbers 10:15; in the first camp, under Nethanel.
 - [[The Song of Deborah]] — Judges 5:15; *the princes of Issachar were with Deborah*.
+- [[Tola and Jair]] — Judges 10:1; Tola, *a man of Issachar*, judges Israel.
 
 ## Related people
 
@@ -236,6 +248,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[Rachel]] — who bought them, and stayed barren
 - [[Zebulun]] — his full brother, born next; the two are paired in both blessings
 - [[Jacob]] — his father, hired for the night that produced him
+- [[Tola (son of Puah)]] — the judge from his tribe, who bears his first son's name
 
 ## Themes associated
 

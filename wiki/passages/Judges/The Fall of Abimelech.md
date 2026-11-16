@@ -368,7 +368,7 @@ The sin is Shechem's and Abimelech's, the oppression is Abimelech's, no one crie
 answer is not a deliverer but a judgment on both sides. Gideon's story ended with *Yahweh shall rule
 over you* (8:23). His son's story ends with *God repaid*. The first attempt at kingship in Israel ends
 in three years, a salted city, a burned tower, and a king killed by a woman. Tola, *to save Israel*,
-follows at once (10:1, stored WEB; not yet ingested). See [[Kingship and Empire]] and [[Retribution]].
+follows at once (10:1; see [[Tola and Jair]]). See [[Kingship and Empire]] and [[Retribution]].
 
 ## Key verses
 
