@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A Nazirite to God from the womb — Judges 13:5, 7
+
+*The child shall be a Nazirite to God from the womb* (13:5), and his mother adds *to the day of his
+death* (13:7). Numbers 6 makes the Nazirite's separation a vow chosen for a time. Here God imposes it
+before birth, for life, and its food rules bind the mother while she carries him (13:4, 14). See
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The covenant at Shechem — Joshua 24:1–28
 
 *You can't serve Yahweh, for he is a holy God. He is a jealous God* (19). Holiness is given as the reason Israel cannot serve Yahweh on its own terms or alongside other gods. It is joined to jealousy, as Deuteronomy 4:24 joins *devouring fire* and *jealous God* (stored WEB).
@@ -993,6 +1002,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 - [[Care for the Neighbor and Ordered Distinctions]] — Deuteronomy 22:9–12; two kinds of seed make the vineyard's yield *become holy* (9); the fringes.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:9–14; *"your camp shall be holy"*.
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17; the *qǝdēšâ* and *qādēš* forbidden.
+- [[The Announcement of Samson's Birth]] — Judges 13:5, 7; a Nazirite from the womb to the day of his death.
 
 ## Related themes
 

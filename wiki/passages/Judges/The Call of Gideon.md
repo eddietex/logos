@@ -160,8 +160,8 @@ is given a further sign he did not ask for, the dream of the barley loaf.
 - Judges 6:25–32 — the Baal altar in the same town (stored WEB; the next pericope, *Gideon Throws Down
   Baal's Altar* on [[Judges]]).
 - Judges 6:36–40; 7:9–15 — the fleece and the dream, further signs (stored WEB; not yet ingested).
-- Judges 13:15–23 — Manoah's offering, the angel in the flame, *We shall surely die, because we have
-  seen God* (stored WEB; not yet ingested).
+- [[The Announcement of Samson's Birth]] — Judges 13:15–23; Manoah's offering, the angel in the flame, *We shall surely die,
+  because we have seen God*.
 
 ## Notes
 

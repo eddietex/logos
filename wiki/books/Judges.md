@@ -323,6 +323,18 @@ eight years; his forty sons and thirty grandsons rode seventy donkey colts, and 
 every judge buried in a named place. The five minor judges together judge seventy years. The next verse
 begins the last cycle: *again … the Philistines forty years* (13:1).
 
+[[The Announcement of Samson's Birth]] (13:1–25) opens that cycle with no outcry, the first time in the book Israel
+does not cry to Yahweh before a deliverer is sent. Yahweh's angel appears to the barren, unnamed wife
+of Manoah, a Danite of Zorah, and promises a son who will be *a Nazirite to God from the womb* and will
+*begin to save Israel out of the hand of the Philistines*. She reports it, adding *to the day of his
+death*. Manoah prays for the visitor's return, but the angel comes again to her, and to Manoah repeats
+only her rules. He refuses Manoah's meal and his name, *incomprehensible*, and ascends in the flame of
+Manoah's offering on the rock, as the angel at Ophrah vanished in Gideon's fire. *We shall surely die,
+because we have seen God*, says Manoah; his wife answers that Yahweh would not have accepted their
+offering if he meant to kill them. She bears and names Samson, *Yahweh blessed him*, and *Yahweh's
+Spirit began to move him … between Zorah and Eshtaol*. He is the only judge whose birth is told, and
+the only one promised a beginning rather than rest.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -376,7 +388,7 @@ merge, or reorder them freely.
 - [x] [[Jephthah's Vow]] — Judges 11:29–40
 - [x] [[Shibboleth]] — Judges 12:1–7
 - [x] [[Ibzan, Elon, and Abdon]] — Judges 12:8–15
-- [ ] The Announcement of Samson's Birth — Judges 13:1–25
+- [x] [[The Announcement of Samson's Birth]] — Judges 13:1–25
 - [ ] Samson's Riddle — Judges 14:1–20
 - [ ] Samson Against the Philistines at Lehi — Judges 15:1–20
 - [ ] Samson at Gaza — Judges 16:1–3
@@ -418,6 +430,8 @@ merge, or reorder them freely.
 - [[Sin]] — *We have sinned against you*, the first quoted confession (10:10, 15).
 - [[Judgment]] — *May Yahweh the Judge be judge today* (11:27).
 - [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39).
+- [[Barrenness]] — Manoah's wife, *barren, and childless* (13:2–3).
+- [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7).
 - [[Sacrifice and Offering]] — *I will offer it up for a burnt offering* (11:31).
 - [[Mourning and Lament]] — the daughter's two months, and the yearly four days (11:37–40).
 - [[Remembrance]] — the road from Egypt told as evidence (11:15–26).
@@ -458,6 +472,9 @@ merge, or reorder them freely.
 - [[King of Ammon (of Jephthah's time)]] — claims the land from the Arnon to the Jabbok (11:13).
 - [[Sihon]], [[Balak]], [[Chemosh]] — the Amorite king, the Moabite king, and the god named in Jephthah's case (11:19–25).
 - [[The Maonites]] — named once, among the peoples Yahweh saved Israel from (10:12).
+- [[Samson]] — announced before conception, a Nazirite from the womb, to *begin* to save Israel from the Philistines (13:1–25).
+- [[Manoah]] and [[Manoah's Wife]] — Samson's parents; she sees the angel twice and answers her husband's fear (13:2–24).
+- [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
 - [[Bezek]] — the first battle.
@@ -490,3 +507,4 @@ merge, or reorder them freely.
 - [[Minnith]] and [[Abel Keramim]] — the end of Jephthah's twenty cities (11:33).
 - [[Bethlehem]] or [[Bethlehem (Zebulun)]], [[Aijalon (Zebulun)]], [[Pirathon]] — the towns and graves of Ibzan, Elon, and Abdon (12:8–15).
 - [[The Jordan]] — its fords held by Ehud against Moab (3:28) and by Gilead against Ephraim (12:5–6).
+- [[Zorah]], [[Eshtaol]], and [[Mahaneh Dan]] — Manoah's town, and where the Spirit begins to move Samson (13:2, 25).

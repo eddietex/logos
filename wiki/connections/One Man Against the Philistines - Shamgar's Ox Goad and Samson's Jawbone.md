@@ -10,7 +10,7 @@ tags: [connection]
 - [[Shamgar and the Ox Goad]] — **Judges 3:31** — *who struck six hundred men of the Philistines with
   an ox goad. He also saved Israel.* (stored WEB)
 - **Judges 13:5** — the angel's promise of Samson: *He shall begin to save Israel out of the hand of
-  the Philistines.* (stored WEB) *(not yet ingested)*
+  the Philistines.* (stored WEB) — [[The Announcement of Samson's Birth]]
 - **Judges 15:15–16** — *He found a fresh jawbone of a donkey, put out his hand, took it, and struck a
   thousand men with it. Samson said, "With the jawbone of a donkey, heaps on heaps; with the jawbone of
   a donkey I have struck a thousand men."* (stored WEB) *(not yet ingested)*
@@ -33,6 +33,15 @@ a round number of the dead.
 joined with *Israel*, links Shamgar's verse to the promise at Samson's birth. In 13:5 Samson will
 only *begin* (*yāḥēl*, WLC) to save Israel from the Philistines. Shamgar's verse says he *saved* them,
 with no such limit, though the Song of Deborah remembers his days as a time of empty roads (5:6).
+
+### Judges 13 read in place
+
+Shamgar *also saved Israel* (3:31); Samson is promised only to *begin to save* (13:5). The book's first
+Philistine fighter is credited with a saving and its last with a beginning. The thread of that
+beginning is followed in
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 3:31; 13:5.
 
 ## Significance
 

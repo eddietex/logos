@@ -27159,3 +27159,70 @@ Judges 12:8, 10; *ʾêlôn* (356) at Genesis 26:34; 36:2; 46:14; Numbers 26:26; 
 12:12; *ʿabdôn* (5658) at Joshua 21:30 and Judges 12:13, 15; *pirʿātôn* / *pirʿātônî* (6552/6553) only in
 Judges 12:13, 15; *ḥûṣ* (2351) in Judges only at 12:9 and 19:25; *ʿayir* (5895) at Genesis 32:16 (WLC),
 49:11, Judges 10:4, 12:14. No Greek text was consulted.
+
+## [2026-11-16] ingest | Judges 13.1-25 — The Announcement of Samson's Birth
+
+Unattended run (`/ingest auto`). The last cycle opens with no outcry: Israel in the Philistines' hand
+forty years. Yahweh's angel appears twice to Manoah's barren, unnamed wife and promises a son, *a
+Nazirite to God from the womb*, who *shall begin to save Israel out of the hand of the Philistines*.
+Manoah prays, asks the child's *way of life* and the visitor's name, and is answered with neither; the
+angel refuses his meal, ascends in the flame of the offering on the rock, and Manoah fears death for
+having seen God until his wife answers him. She bears and names Samson, and the Spirit *began to move
+him* between Zorah and Eshtaol. The discussion step was written into the passage page.
+
+Created: the passage page [[The Announcement of Samson's Birth]]; people [[Samson]], [[Manoah]],
+[[Manoah's Wife]]; place [[Mahaneh Dan]]; one connection
+([[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]]).
+
+Revised: people [[The Angel of Yahweh]], [[The Philistines]], [[Dan (person)]]; places [[Zorah]],
+[[Eshtaol]], [[Kiriath Jearim]]; eleven themes ([[Barrenness]], [[Holiness]], [[Clean and Unclean]],
+[[Prayer]], [[Names and Naming]], [[Sacrifice and Offering]], [[Seeing and Being Seen]],
+[[Signs and Wonders]], [[The Spirit of God]], [[Blessing]], [[Redemption]]); eight connections
+([[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]],
+[[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]], [[The Barren Matriarchs]],
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]], [[Entertaining Angels Unawares]],
+[[One Man Against the Philistines - Shamgar's Ox Goad and Samson's Jawbone]],
+[[Smoking Furnace and Flaming Torch - Fire as Theophany]], [[Is Anything Too Hard for Yahweh]]);
+passages [[The Call of Gideon]], [[Ibzan, Elon, and Abdon]], [[Israel's Repentance Under Ammon]]
+(forward references to 13:1 and 13:15–23 now linked). Also the book page (box checked, overview, key
+themes/people/places), the books index (32 / 42), the people (A-E, F-M, N-Z), places, themes, and
+connections (A-C, D-H, I-N, O-S, T-Z) indexes, and the dashboard counts. Frontmatter totals: 468
+passages, 333 people, 588 places, 88 themes, 890 connections.
+
+Contradiction flagged, not overwritten: [[The Barren Matriarchs]] and [[Barrenness]] had listed
+Manoah's wife among barren women who are also *preferred* by their husbands. Judges 13 names no rival
+and says nothing of Manoah's love; the claim is unsupported for her. Both pages now say so beside the
+original claim, which is left visible.
+
+Quotation corrected: [[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]] had quoted 13:18
+as *"Why do you ask my name"*; the stored WEB reads *"Why do you ask about my name"*. Fixed in the
+passage list, with a note. The same page's *almost word for word* is strengthened: the WLC refusal
+*lāmmâ zeh tišʾal lišmî* is identical in Genesis 32:30 (WLC numbering) and Judges 13:18.
+
+Readings recorded, not resolved: (1) why Israel does not cry out at 13:1; (2) the wife's report adding
+*to the day of his death* and dropping *begin to save* (13:7); (3) *mišpaṭ hannaʿar* (13:12) as a
+pun on *judge* — the wiki's observation; (4) Mahaneh Dan *between Zorah and Eshtaol* (13:25) against
+*behind Kiriath Jearim* (18:12), with the name used before its etiology; (5) the derivations of
+*Samson* (*sun*) and *Manoah* (*rest*), reported not checked; (6) the chain of *ʿālâ*, *go up*, through
+the chapter, the wiki's reading of a common verb; (7) the angel/Yahweh identity, as on
+[[The Angel of Yahweh]].
+
+Judgment calls: kept 13:1–25 as one pericope, with 13:1 as the oppression the announcement answers.
+[[Manoah's Wife]] gets a page, as [[Jephthah's Daughter]] did; a traditional name for her is
+recalled, not verified, and not used. [[Mahaneh Dan]] gets a page because its two locations need a
+home. A new connection follows *begin to save* into 1 Samuel 7:13, 9:16, and 2 Samuel 8:1, rather than
+a Gideon–Manoah connection, since [[The Call of Gideon]] had already folded that parallel into
+[[Entertaining Angels Unawares]].
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 2:17; 11:30;
+16:7–12; 18:8–15; 25:21; 28:17; 29:31; 30:22; 32:29; 41:8; Numbers 6:2; Deuteronomy 33:1; Joshua 14:6;
+15:33; 19:41. 1 Samuel 7:13; 9:16; 2 Samuel 8:1; Hebrews 11:32 checked against WEB at bible-api.com,
+single verses, not stored. Hebrew from a fresh download of the Westminster Leningrad Codex
+(OpenScriptures morphhb) `Gen.xml`, `Exod.xml`, `Num.xml`, `Judg.xml`, `1Sam.xml`, `2Sam.xml` on
+2026-11-16. Verified there: *ʿātar* (6279) in those files of Genesis–Numbers and Judges only at Genesis
+25:21, Exodus 8–10, and Judges 13:8; *pelʾî* (6383) only at Judges 13:18, *peleʾ* (6382) at Exodus 15:11;
+*pālāʾ* (6381) at Genesis 18:14, Exodus 3:20; 34:10, Numbers 6:2; 15:3, 8, Judges 6:13; 13:19; *pāʿam*
+(6470) only at Genesis 41:8 and Judges 13:25; *ḥālal* *begin* in Judges at 10:18; 13:5, 25; 16:19, 22;
+20:31, 39, 40; *kānaʿ* (3665) in Judges only of Moab, Jabin, Midian, and Ammon (3:30; 4:23; 8:28;
+11:33); *ʿăqārâ* (6135) in Genesis and Judges at Genesis 11:30; 25:21; 29:31; Judges 13:2, 3;
+*wəhôšîaʿ … miyyad pəlištîm* at 1 Samuel 9:16. Isaiah 9:6 not checked. No Greek text was consulted.

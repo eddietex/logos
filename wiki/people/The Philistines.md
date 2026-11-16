@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### Forty years, and only a beginning — Judges 13:1, 5
+
+*Yahweh delivered them into the hand of the Philistines forty years* (13:1), the longest oppression
+in the book. No outcry follows. The deliverer announced against them is promised only to *begin to
+save Israel out of the hand of the Philistines* (13:5). In the WLC of Judges, *kānaʿ*, *subdued*, is used
+of Moab, Jabin, Midian, and Ammon (3:30; 4:23; 8:28; 11:33) and never of the Philistines; 1 Samuel 7:13
+is the first verse to say it of them. See [[The Announcement of Samson's Birth]] and
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]].
+
+Source: stored WEB Judges 13:1–25; 3:30; 4:23; 8:28; 11:33; 1 Samuel 7:13 (WEB at bible-api.com); Hebrew WLC, 2026-11-16.
+
 ### Sold into their hand — Judges 10:6–7, 11
 
 Israel serves *the gods of the Philistines* (6), and Yahweh sells Israel *into the hand of the Philistines, and into the hand of the children of Ammon* (7). The story that follows is only about Ammon. The Philistine oppression is told from 13:1: *Yahweh delivered them into the hand of the Philistines forty years*. Yahweh also lists the Philistines among the peoples he saved Israel from (11), which points back to Shamgar (3:31).
@@ -65,6 +76,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Nations Left to Test Israel]] — Judges 3:3.
 - [[Shamgar and the Ox Goad]] — Judges 3:31; six hundred struck with an ox goad.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6–7, 11; their gods served; Israel sold into their hand.
+- [[The Announcement of Samson's Birth]] — Judges 13:1, 5; forty years of oppression; Samson to *begin* to save Israel from them.
 
 ## Related people
 

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### We have seen God — Judges 13:20–23
+
+*Manoah and his wife watched* (13:19–20, *rōʾîm*, WLC), and then *Manoah knew that he was Yahweh's
+angel* (13:21). *We shall surely die, because we have seen God* (13:22). His wife does not dispute that
+they saw; she argues from what they were shown, *he wouldn't have shown us all these things* (13:23),
+with the same verb, *rāʾâ* (WLC). Seeing God is answered by having been shown. See
+[[They Saw God - Exodus 24, Exodus 33, and John 1.18]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Face to face at Ophrah — Judges 6:22–23
 
 *Gideon saw that he was Yahweh's angel* only after the angel had gone, and he cried out, *Alas,
@@ -771,6 +781,7 @@ glory appears to all Israel (10). See [[The People Refuse the Land]].
 - [[The Twelve Spies]] — Numbers 13:18, 33; *in our own sight*, and *in their sight*
 - [[The People Refuse the Land]] — Numbers 14:10, 14, 22–23; those who saw will not see
 - [[The Song of Deborah]] — Judges 5:28; Sisera's mother at the window.
+- [[The Announcement of Samson's Birth]] — Judges 13:20–23; *we have seen God*, and *he wouldn't have shown us*.
 
 ## Related themes
 

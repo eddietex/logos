@@ -7,6 +7,25 @@ tags: [person]
 
 ## Overview
 
+### To a barren woman, twice — Judges 13:3–21
+
+*Yahweh's angel appeared to the woman* (13:3), the barren wife of [[Manoah]], and announced a son who
+would be a Nazirite *from the womb* and would *begin to save Israel out of the hand of the Philistines*
+(13:5). She calls him *a man of God* with a face *like the face of the angel of God, very awesome*
+(13:6). He comes a second time, again to her (13:9). To Manoah he gives nothing new (13:13–14), refuses
+the meal and directs the burnt offering *to Yahweh* (13:16), and refuses his name as *incomprehensible*,
+*pelʾî* (13:18, WLC). Then *Yahweh's angel ascended in the flame of the altar* (13:20) and *didn't
+appear … any more* (13:21). Manoah concludes *we have seen God* (13:22).
+
+The scene repeats Ophrah closely: a goat and a meal, a rock, fire, a departure, and fear of death
+(6:19–23). It differs in who answers the fear. At Ophrah Yahweh says *You shall not die* (6:23); here
+the woman reasons it out (13:23). As elsewhere on this page, the narrator distinguishes the angel from
+Yahweh in one breath (*offer it to Yahweh*, 13:16) and lets the human witnesses say *God* (13:22); the
+wiki records both and does not resolve them. See [[The Announcement of Samson's Birth]] and
+[[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]].
+
+Source: stored WEB Judges 13:1–25; 6:19–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Under the oak at Ophrah — Judges 6:11–24
 
 *Yahweh's angel came, and sat under the oak which was in Ophrah* (6:11). He greets Gideon, *Yahweh
@@ -465,6 +484,7 @@ without deciding identity. Moses insists on Yahweh’s presence and receives ass
   way"*, to be heard as God's voice, one who *"will not pardon"*, carrying God's name *"in
   him"*
 - [[The Song of Deborah]] — Judges 5:23; curses Meroz.
+- [[The Announcement of Samson's Birth]] — Judges 13:3–21; announces Samson to his barren mother, refuses food and name, and ascends in the altar flame.
 
 ## Related people
 

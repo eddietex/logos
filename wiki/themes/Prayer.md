@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Manoah entreated Yahweh — Judges 13:8–9
+
+*Manoah entreated Yahweh*, *wayyeʿtar* (13:8, WLC), the verb of Isaac's prayer for barren Rebekah
+(Genesis 25:21). He asks not for a child, which is already promised, but for the visitor to return *and
+teach us what we should do to the child*. *God listened to the voice of Manoah* (13:9), and the answer
+comes to his wife. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The cry with words — Judges 10:10–15
 
 For the first time in Judges the cry to Yahweh is quoted: *We have sinned against you* (10). Yahweh answers in his own voice and refuses (11–14). The second prayer gives the outcome to him and asks for one thing: *Do you to us whatever seems good to you; only deliver us, please, today* (15).
@@ -631,6 +640,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 - [[The People Refuse the Land]] — Numbers 14:13–20; a prayer that quotes God to God
 - [[The Year of Release and the Open Hand]] — Deuteronomy 15:1–11; the refused poor man's cry to Yahweh (9).
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:5–15; the confession over the first fruits and the third-year declaration, ending *"Look down … and bless"*.
+- [[The Announcement of Samson's Birth]] — Judges 13:8–9; *Manoah entreated Yahweh … God listened to the voice of Manoah*.
 
 ## Related themes
 

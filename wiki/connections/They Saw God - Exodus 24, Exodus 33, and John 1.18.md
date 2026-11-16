@@ -22,7 +22,7 @@ tags: [connection]
   fire"* (WEB; *not yet ingested*)
 - [[The Call of Gideon]] — Judges 6:22–23; *"I have seen Yahweh's angel face to face!"* — *"Peace be to
   you! Don't be afraid. You shall not die"* (stored WEB)
-- **Judges 13:22** — *"We shall surely die, because we have seen God"* (WEB; *not yet ingested*)
+- **Judges 13:22** — *"We shall surely die, because we have seen God"* — [[The Announcement of Samson's Birth]]
 - **Isaiah 6:5** — *"Woe is me! For I am undone … for my eyes have seen the King, Yahweh of
   Armies!"* (WEB; *not yet ingested*)
 - **Ezekiel 1:26** — *"the likeness of a throne, as the appearance of a sapphire stone"* (WEB; *not
@@ -92,6 +92,17 @@ be to you! Don't be afraid. You shall not die* (Judges 6:22–23). What Gideon s
 and he fears death from it as if he had seen God. Manoah will do the same (13:22). See
 [[The Call of Gideon]] and [[The Angel of Yahweh]]. Sources: stored WEB Genesis 16:13; 32:30; Judges
 6:22–23; 13:22.
+
+### Judges 13 read in place
+
+Manoah's fear follows the pattern noted above, and the answer differs from every other case. Hagar
+marvels, Jacob says his life is preserved, Gideon is told by Yahweh *You shall not die* (Judges 6:23).
+Manoah is answered by his wife, who argues from the acceptance of the offering and from what they were
+*shown*: *he wouldn't have shown us all these things* (13:23, *herʾānû*, the same verb *rāʾâ* as
+*we have seen*, WLC). Her answer does not deny they saw God; it says the seeing was given. The
+phrase *môt nāmût*, *we shall surely die* (13:22, WLC), is the doubled form of Genesis 2:17. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Genesis 2:17; Judges 6:23; 13:22–23; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
 ## Significance
 

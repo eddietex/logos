@@ -85,6 +85,15 @@ opposite directions, and the Bible never uses either one to promise that any par
 person wants will happen. Both are answers to *this cannot work*, given about something God has
 already said he will do.
 
+### The root in Judges 13, ingested
+
+[[The Announcement of Samson's Birth]] sets the root twice in two verses: the angel's name is *pelʾî*, *incomprehensible* (13:18), and he
+*did an amazing thing*, *maplîʾ laʿăśôt* (13:19, WLC). As at Genesis 18:14, *p-l-ʾ* is attached to a
+promised son for a barren woman; unlike Sarah, Manoah's wife does not balk, and the root is applied
+to the messenger, not the promise.
+
+Source: stored WEB Genesis 18:14; Judges 13:18–19; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ## Significance
 
 - **It is the sentence Genesis uses to define what kind of God is being dealt with**, and it arrives

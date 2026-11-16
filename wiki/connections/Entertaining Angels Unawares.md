@@ -17,7 +17,7 @@ tags: [connection]
   Yahweh's angel face to face!"* — [[The Call of Gideon]]
 - **Judges 13:2–23** — Manoah offers a kid, the visitor tells him to offer it to Yahweh instead,
   refuses to give his name, and goes up in the altar flame: *"Manoah didn't know that he was
-  Yahweh's angel."*
+  Yahweh's angel."* — [[The Announcement of Samson's Birth]]
 - **Tobit 12:19** *(deuterocanonical)* — Raphael, at the end: *"All these days I did appear unto
   you; but I did neither eat nor drink, but ye did see a vision."*
 - **Luke 24:13–35** — two disciples press a stranger to stay the night: *"He was known by them in
@@ -106,6 +106,16 @@ notably careful not to assign the persons. The wiki records this as reception. G
 is with a host who did not know; the New Testament quotes this chapter at Luke 1:37, Romans 9:9,
 Hebrews 13:2 and 1 Peter 3:6, and none of the four reads the three visitors that way. See
 [[The Angel of Yahweh]] and [[Let Us Go Down - The Divine Plural in Genesis]].
+
+### Judges 13 read in place
+
+The refusal is the visitor's own and is explicit: *Though you detain me, I won't eat your bread* (13:16).
+Gideon's food was consumed by fire at the angel's touch (6:21); Abraham's was eaten (Genesis 18:8);
+Manoah's is refused as food and accepted as an offering. Manoah's *young goat*, *gədî ʿizzîm* (13:15,
+19, WLC), is Gideon's word (6:19). The narrator tells the reader at the moment of the offer what Manoah
+does not know (13:16), and Manoah learns it only when the visitor is gone (13:21). See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Genesis 18:8; Judges 6:19–21; 13:15–21; Hebrew WLC, 2026-11-16.
 
 ## Significance
 

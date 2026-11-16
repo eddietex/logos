@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Barren, and childless — Judges 13:2–3
+
+*His wife was barren, and childless* (13:2), and the angel says it to her face: *See now, you are
+barren and childless; but you shall conceive* (13:3). *ʿĂqārâ* (WLC) is the word of Sarah (Genesis
+11:30), Rebekah (25:21), and Rachel (29:31). This barren woman is unnamed, the announcement comes to her
+and not to her husband, and her husband's prayer is for the visitor's return, not for her womb. As in
+Genesis, God is the cause: the son is announced, not asked for. Earlier text on this page counted her
+among the barren wives who are also *preferred*; Judges 13 does not say so, and the claim is flagged
+on [[The Barren Matriarchs]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Penalties and separation — Leviticus 20
 
 The uncle’s-wife and brother’s-wife cases specify dying childless or being childless (20–21).
@@ -170,7 +182,8 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
   of the trouble: the children *crush one another* inside her, and she asks a question the Hebrew
   leaves without a verb. See [[The Barren Matriarchs]]
 - [[The Birth of Jacob's Children]] — Genesis 29:31–30:24, **the theme's third and last run in Genesis,
-  and the only inverted one.** Sarah, Rebekah, Manoah's wife, and Hannah are all barren *and* preferred;
+  and the only inverted one.** Sarah, Rebekah, Manoah's wife, and Hannah are all barren *and* preferred
+  (but Judges 13 says nothing of Manoah's preference; see the flag on [[The Barren Matriarchs]]);
   here the preference and the fertility come apart and are given to different women, and **the womb that
   opens first opens as compensation for a husband's coldness** — *"Yahweh saw that Leah was hated, and
   he opened her womb, but Rachel was barren"* (29:31). **Rachel is also the one barren matriarch whose
@@ -198,6 +211,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
   child that opens the womb is his.** *Peṭer* first occurs here (WLC lemma search)
 - [[The Angel Sent Ahead]] — Exodus 23:20–33; barrenness and miscarriage promised away in the land.
 - [[The Suspected Wife]] — Numbers 5:27–28; offspring as the outcome of innocence.
+- [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Manoah's barren wife, the annunciation, and Samson's birth.
 
 ## Related themes
 

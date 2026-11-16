@@ -210,8 +210,7 @@ father's tomb (16:31).
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:15; a Bethlehem in Zebulun.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:42–43; Aijalon and Elon in Dan.
 - [[The Cities of the Levites]] — Joshua 21:30; the Asherite town Abdon.
-- Judges 13:1 — the Philistine oppression that follows (stored WEB; not yet ingested, see *The
-  Announcement of Samson's Birth* on [[Judges]]).
+- [[The Announcement of Samson's Birth]] — Judges 13:1; the Philistine oppression that follows.
 - Judges 17:7; 19:1 — *Bethlehem Judah* (stored WEB; not yet ingested).
 
 ## Notes

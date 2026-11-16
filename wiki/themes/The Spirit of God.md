@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Spirit began to move him — Judges 13:25
+
+*Yahweh's Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol* (13:25). On Othniel and
+Jephthah the Spirit *came* (3:10; 11:29), and it *clothed* Gideon (6:34). Here it *began to move*,
+*ləpaʿămô* (WLC, *pāʿam*), a verb found in Genesis through Numbers and Judges only here and at Genesis
+41:8, where Pharaoh's *spirit was troubled*. What the moving consisted of the text does not say. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 *Rûaḥ* means wind, breath, and spirit, and the context has to say which. English capital letters are a translator's decision, and
 the wiki follows WEB's capitals when it quotes, without treating them as evidence. This page tracks the places where the text
 speaks of the Spirit as God's. It opened with Numbers 11, when the Spirit is first shared out from one person to others, and it
@@ -136,6 +145,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 - [[The Seventy Elders and the Quail]] — Numbers 11:16–29; the Spirit shared, and Moses' wish
 - **Numbers 24:2; 27:18** — Balaam, and Joshua *(not yet ingested)*
 - **Joel 2:28–29; Acts 2:17–18** — on all flesh *(not yet ingested)*
+- [[The Announcement of Samson's Birth]] — Judges 13:25; *Yahweh's Spirit began to move him*.
 
 ## Related themes
 

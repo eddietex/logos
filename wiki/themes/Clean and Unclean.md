@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Nothing unclean, for the mother — Judges 13:4, 7, 14
+
+*Don't eat any unclean thing* (13:4), said to Samson's mother three times (4, 7, 14). Numbers 6's
+Nazirite law has no food rule of this kind beyond the vine. The angel adds it, and lays it on the woman,
+not on the child. *Ṭāmēʾ*, *unclean* (13:4), and *ṭumʾâ*, *uncleanness* (13:7, 14), both WLC. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The altar of witness — Joshua 22:19
 
 *If the land of your possession is unclean* applies the categories of clean and unclean to
@@ -694,6 +702,7 @@ said. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deutero
 - [[Divorce, Remarriage, and the Newlywed]] — Deuteronomy 24:1, 4; *ʿerwat dābār* and the wife *"defiled"* for her first husband.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:8–9; leprosy left to the priests' teaching, and Miriam remembered.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:14; the holy tithe not eaten unclean or *"given … for the dead"*.
+- [[The Announcement of Samson's Birth]] — Judges 13:4, 7, 14; *don't eat any unclean thing*, laid on the mother.
 
 ## Related themes
 

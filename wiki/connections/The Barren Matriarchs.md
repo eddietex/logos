@@ -17,7 +17,8 @@ tags: [connection]
   barren."*
 - **Genesis 30:22** — *"God remembered Rachel, and God listened to her, and opened her womb."*
 - Genesis 16:1–2; 18:9–15; 21:1–2 — Sarah's barrenness, its household consequences, and its end
-- Judges 13:2–3; 1 Samuel 1:2–20; Luke 1:7, 36 — Samson's mother, Hannah, and Elizabeth
+- [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Samson's mother
+- 1 Samuel 1:2–20; Luke 1:7, 36 — Hannah and Elizabeth
 - Psalm 113:9; Isaiah 54:1; Galatians 4:27 — the barren woman as a figure for the people
 
 ## Analysis
@@ -95,6 +96,19 @@ Jacob, not Esau — and here the pattern doubles back on itself, because Rebekah
 children of the answered prayer and the election still has to be announced separately. **Joseph, not
 Reuben.** Outside Genesis the pattern holds: Samson, Samuel, John the Baptist. **A barren woman in
 Hebrew narrative is an annunciation formula**, and a reader who meets one knows what is coming.
+
+### Judges 13 read in place — a claim this page made that the text does not support
+
+This page and [[Barrenness]] grouped *Sarah, Rebekah, Manoah's wife, Hannah, and Elizabeth* as all
+*barren and preferred*. **Judges 13 says nothing of preference.** Manoah has no other wife and no
+rival is named, and the text never says he loved her (13:2–23). The claim holds for Sarah, Rebekah,
+and Hannah (1 Samuel 1:5, as quoted above); for Manoah's wife it is unsupported, and it is left
+standing above only so the correction is visible. What Judges 13 does show is a different inversion:
+the barren woman, not her husband, is visited, twice, and she reasons better than he does about what
+they saw (13:9, 23). And unlike Isaac, Manoah does not pray for her womb; the son is promised before
+anyone asks, and Manoah's prayer is for the visitor to return (13:8). See [[The Announcement of Samson's Birth]] and [[Manoah's Wife]].
+
+Source: stored WEB Judges 13:2–24.
 
 ## Significance
 

@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### The child grew, and Yahweh blessed him — Judges 13:24
+
+*The woman bore a son, and named him Samson. The child grew, and Yahweh blessed him* (13:24). No
+content is given for the blessing. The next verse names the Spirit; the next chapter begins his deeds. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Blessing Yahweh, and Jael blessed — Judges 5:2, 9, 24
 
 The Song of Deborah blesses twice in two directions. It blesses Yahweh, *be blessed, Yahweh!* (5:2)
@@ -917,6 +924,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:15; *"bless your people Israel, and the ground"*, after the poor's tithe is given.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:15; *Give me a blessing*, asked as springs.
 - [[The Song of Deborah]] — Judges 5:2, 9, 24; Yahweh blessed; Jael *blessed above women*.
+- [[The Announcement of Samson's Birth]] — Judges 13:24; *the child grew, and Yahweh blessed him*.
 
 ## Related themes
 

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The angel in the flame — Judges 13:15–23
+
+Manoah offers a young goat as a meal. The angel refuses: *If you will prepare a burnt offering, you
+must offer it to Yahweh* (13:16). Manoah *took the young goat with the meal offering, and offered it on
+the rock to Yahweh*, and *Yahweh's angel ascended in the flame of the altar* (13:19–20). The wife's
+argument rests on the offering: Yahweh *wouldn't have received a burnt offering and a meal offering at
+our hand* if he meant to kill them (13:23). Compare Gideon's goat on the rock (6:19–21). See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### A burnt offering vowed — Judges 11:31, 39
 
 *I will offer it up for a burnt offering*, *wəhaʿălîtihû ʿôlâ* (11:31, WLC). It is the verb, suffix and noun
@@ -1070,6 +1080,7 @@ See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16�
 - [[Passover, Weeks, and Booths]] — Deuteronomy 16:1–17; the Passover sacrificed only at the chosen place (5–6); freewill gifts, and no one empty (10, 16).
 - [[Judges, Worship, and Difficult Cases]] — Deuteronomy 16:18–17:13; no defective ox or sheep; *an abomination* (17:1).
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:1–8; the offerings by fire as Levi's food; shoulder, cheeks, and inner parts (3).
+- [[The Announcement of Samson's Birth]] — Judges 13:15–23; the meal refused, the burnt offering given to Yahweh, the angel ascending in its flame.
 
 ## Related themes
 

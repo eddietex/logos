@@ -153,6 +153,17 @@ Manoah's offering later in Judges (13:19–20), fire that consumes an offering s
 accepted it. Here, though, the fire comes up out of the rock, not down from before Yahweh. Sources:
 stored WEB Judges 6:17–21; 13:19–20; Leviticus 9:24; Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
 
+### The angel in the flame — Judges 13:19–20, ingested
+
+In [[The Announcement of Samson's Birth]] the fire is not a sign asked for and not said to consume the offering. Manoah offers the goat
+and meal *on the rock to Yahweh*, and *when the flame went up toward the sky from off the altar,
+Yahweh's angel ascended in the flame of the altar* (13:19–20). The fire is the visitor's way out.
+Gideon's fire came *out of the rock* at the angel's touch, and the angel then *departed out of his
+sight* (6:21); here the departure and the flame are one event. The wife's reasoning makes the
+acceptance explicit: Yahweh *received a burnt offering and a meal offering at our hand* (13:23).
+
+Source: stored WEB Judges 6:21; 13:19–23.
+
 ## Significance
 
 - **Genesis 15:17 is the Bible's first visible God**, and the form is fire in the dark, moving.

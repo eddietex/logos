@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Behind it, Mahaneh Dan — Judges 13:25 and 18:12
+
+Judges 18:12 says the Danites *encamped in Kiriath Jearim, in Judah. Therefore they called that place
+Mahaneh Dan, to this day. Behold, it is behind Kiriath Jearim.* Judges 13:25 has already used the name
+for a place *between Zorah and Eshtaol*. The two locations are recorded on [[Mahaneh Dan]]; the wiki
+chooses neither. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; 18:12.
+
 ### Benjamin’s inheritance — Joshua 18:11–28
 
 Kiriath Baal is explicitly Kiriath Jearim, a city of Judah, at the end of Benjamin’s west border (14). The south border starts at its farthest part (15). Kiriath in verse 28 is not explicitly identified with it.
@@ -35,6 +44,7 @@ Source: stored WEB Joshua 9:1–27.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Borders of Judah]] — Joshua 15:1–12.
 - [[The Gibeonite Deception]] — Joshua 9:1–27
+- [[The Announcement of Samson's Birth]] — Judges 13:25; Mahaneh Dan, which 18:12 places *behind Kiriath Jearim*.
 
 ## Related places
 - [[Gibeon]]

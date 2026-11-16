@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### The name not given — Judges 13:6, 17–18, 24
+
+The woman did not ask the visitor's name, and *neither did he tell me his name* (13:6). Manoah asks, *that
+when your words happen, we may honor you*, and is told *Why do you ask about my name, since it is
+incomprehensible?* (13:17–18; *pelʾî*, WLC). The son, by contrast, is named, and named by his mother:
+*She … named him Samson* (13:24). The text gives no reason for the name. See
+[[Why Do You Ask My Name - Genesis 32, Exodus 3, and Judges 13]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Elon of Zebulun, buried in Aijalon — Judges 12:11–12
 
 *Elon the Zebulunite* bears the name of Zebulun's son and clan (*Sered, Elon, and Jahleel*, Genesis
@@ -582,6 +592,7 @@ Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source:
 - [[Reuben, Gad, and the Land Beyond the Jordan]] — Numbers 32:1–42; towns renamed, and land named after its conquerors (38, 41–42).
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:6, 10; the dead man's name kept, and the refuser's house named.
 - [[Judah's Conquests and Achsah's Springs]] — Judges 1:10–11, 17; Kiriath Arba, Kiriath Sepher, and Zephath renamed.
+- [[The Announcement of Samson's Birth]] — Judges 13:6, 17–18, 24; the visitor's name refused; Samson named by his mother.
 
 ## Related themes
 

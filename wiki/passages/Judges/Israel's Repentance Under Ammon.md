@@ -273,7 +273,7 @@ the princes of Gilead offer to give it.
 - [[Jacob's Flight from Laban]] — Genesis 31:49; the first Mizpah in Gilead.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; the man found, and made *head and chief* at
   Mizpah.
-- Judges 13:1 — *into the hand of the Philistines forty years* (stored WEB; not yet ingested).
+- [[The Announcement of Samson's Birth]] — Judges 13:1; *into the hand of the Philistines forty years*.
 
 ## Notes
 

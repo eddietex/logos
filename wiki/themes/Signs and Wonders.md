@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Wonderful, and a wonder — Judges 13:18–19
+
+The angel's name is *incomprehensible*, *pelʾî* (13:18), and in the next verse he *did an amazing
+thing*, *maplîʾ laʿăśôt* (13:19), both from *p-l-ʾ* (WLC). Gideon had asked *Where are all his wondrous
+works?* (6:13), with the same root. Here the wonder is not asked for: the angel goes up in the altar
+flame (13:20). See [[Is Anything Too Hard for Yahweh]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### A sign heard, not asked for — Judges 7:9–15
 
 Gideon asked for every earlier sign: the fire from the rock (6:17–21) and the fleece twice (6:36–40).
@@ -307,6 +316,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 - [[The People Refuse the Land]] — Numbers 14:11, 22; the signs as the charge
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; a fulfilled sign that does not authenticate the prophet.
 - [[First Fruits and the Tithe Declaration]] — Deuteronomy 26:8; the signs and wonders recited over the first fruits.
+- [[The Announcement of Samson's Birth]] — Judges 13:18–20; *incomprehensible* and *an amazing thing*, the angel ascending in the flame.
 
 ## Related themes
 

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### He shall begin to save — Judges 13:5
+
+*He shall begin to save Israel out of the hand of the Philistines* (13:5; *yāḥēl ləhôšîaʿ*, WLC). The
+first deliverer in Judges promised only a beginning, and the first to come with no outcry from Israel
+(13:1). The phrase *save … out of the hand of the Philistines* returns for Saul (1 Samuel 9:16). See
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]]. See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Judges 13:1–25; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### I will save you no more — Judges 10:11–16
 
 Yahweh lists seven peoples and says *you cried to me, and I saved you out of their hand* (12), then *Therefore I will save you no more* (13), *lōʾ-ʾôsîp ləhôšîaʿ* (WLC). Israel answers with another verb, *only deliver us*, *haṣṣîlēnû* (15, *nāṣal*, WLC). The refusal is not carried out: a deliverer comes in the next chapter, though the text never says Yahweh raised him up.
@@ -436,6 +445,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 - [[Do Not Follow Other Gods]] — Deuteronomy 12:29–13:18; 13:5, 10; redemption from Egypt as the ground of loyalty.
 - [[Release the Servant with Gifts]] — Deuteronomy 15:12–18; *"Yahweh your God redeemed you"* (15) as the ground of the servant's release.
 - [[An Unsolved Killing and the Broken-Necked Heifer]] — Deuteronomy 21:8; *"your people Israel, whom you have redeemed"* as the ground of the elders' prayer.
+- [[The Announcement of Samson's Birth]] — Judges 13:5; *he shall begin to save Israel*.
 
 ## Related themes
 - [[Birthright and the Firstborn]] — the firstborn redeemed

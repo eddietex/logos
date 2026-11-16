@@ -8,8 +8,8 @@ tags: [connection]
 ## Passages involved
 
 - [[The Nazirite Vow]] — Numbers 6:1–21.
-- Judges 13:4–5, 7, 14 — *"No razor shall come on his head; for the child shall be a Nazirite to God
-  from the womb."* *(WEB, bible-api.com; not yet ingested)*
+- [[The Announcement of Samson's Birth]] — Judges 13:4–5, 7, 14 — *"No razor shall come on his head; for the child shall be a Nazirite
+  to God from the womb."* (stored WEB)
 - Judges 16:17 — *"I have been a Nazirite to God from my mother's womb."* *(same)*
 - 1 Samuel 1:11 — *"then I will give him to Yahweh all the days of his life, and no razor shall come on
   his head."* *(same)*
@@ -46,11 +46,23 @@ corpses, or a vow. The verse echoes the pattern and goes no further.
 *gave the Nazirites wine to drink*. This assumes the wine rule is known and was meant to be kept, and
 that a Nazirite was a public sign that could be attacked.
 
+### Judges 13 read in place
+
+Ingesting [[The Announcement of Samson's Birth]] confirms the analysis above against the stored text and adds two details. **The woman's
+report changes the terms.** The angel told her of the razor and that the child *shall begin to save
+Israel* (13:5); she reports neither, and adds *to the day of his death* (13:7). So the lifelong term
+rests on her words, not the angel's, and the narrator lets it stand. **The rules are repeated three
+times and always to or about her** (13:4, 7, 14). Manoah asks what the child's *way of life* will be
+(13:12, *mišpaṭ*, WLC) and is told only what his wife must avoid. The child's own obligation, in the
+chapter, is the razor alone.
+
+Source: stored WEB Judges 13:4–14; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ## Significance
 
 Numbers makes the office open and temporary, and the narratives show God using the same name for what
 he imposes from birth. The law has no section for that, so the wiki records two forms and does not
-force them into one. Judges and 1 Samuel are not yet ingested, so this page should be revised then.
+force them into one. Judges 13 is now ingested (below); 1 Samuel is not, so the Samuel side should be revised then.
 See [[Oaths and Vows]] and [[A Person Vowed to Yahweh - Leviticus 27.1-8, Judges 11, and 1 Samuel 1]].
 
 Sources: stored WEB Numbers; Judges, 1 Samuel, Amos, and Luke at bible-api.com; Hebrew from WLC

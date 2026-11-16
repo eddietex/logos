@@ -12,8 +12,8 @@ tags: [connection]
 - **Exodus 3:13–15** — Moses: *"they ask me, 'What is his name?' What should I tell them?"* God: *"I
   AM WHO I AM," and he said, "You shall tell the children of Israel this: 'I AM has sent me to you.'"*
   — [[The Burning Bush]]
-- **Judges 13:17–18** — Manoah: *"What is your name?"* The angel of Yahweh: *"Why do you ask my
-  name, since it is incomprehensible?"*
+- **Judges 13:17–18** — Manoah: *"What is your name?"* The angel of Yahweh: *"Why do you ask about my
+  name, since it is incomprehensible?"* — [[The Announcement of Samson's Birth]]
 
 ## Analysis
 
@@ -76,5 +76,23 @@ presence, after 3:12 — are set out there, and the wiki adopts none. And unlike
 13, **the question in Exodus is not the human's own**: Moses asks on behalf of the people who will ask
 him (*"they ask me"*), and the answer is given for them — *"This is my name forever"* (3:15).
 
-See [[Names and Naming]], [[The Names of God]], [[The Angel of Yahweh]], and
+See [[Names and Naming]], [[The Names of God]], [[The Angel of Yahweh]], [[Manoah]], and
 [[I AM WHO I AM - Exodus 3.14 and John 8.58]].
+
+### Judges 13 read in place
+
+**A correction to the quotation.** This page earlier quoted 13:18 as *"Why do you ask my name"*; the
+stored WEB reads *"Why do you ask about my name, since it is incomprehensible?"* The Passages involved
+line now has the stored wording. The Hebrew, *lāmmâ zeh tišʾal lišmî wəhûʾ pelʾî* (WLC), repeats the
+wrestler's four words *lāmmâ zeh tišʾal lišmî* exactly (Genesis 32:30 in WLC numbering, 32:29 in WEB)
+and adds *wəhûʾ pelʾî*. The *almost word for word* of the analysis is, in the Hebrew, word for word.
+
+**The refusal is answered by a wonder.** The next verse says the angel *did an amazing thing*,
+*maplîʾ laʿăśôt* (13:19, WLC), from the same root as *pelʾî*. Where Jacob receives a blessing in place
+of the name (Genesis 32:29), Manoah receives an act that is the name's own word. **And Manoah asked
+for a reason Jacob did not give**: *that when your words happen, we may honor you* (13:17). The name
+was wanted for the honoring of a fulfilled promise. The fulfilment comes (13:24), and the honor goes to
+Yahweh in the offering instead (13:19). See [[The Announcement of Samson's Birth]].
+
+Source: stored WEB Genesis 32:29; Judges 13:17–24; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+

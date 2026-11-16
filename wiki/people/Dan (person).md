@@ -7,6 +7,16 @@ tags: [person]
 
 ## Overview
 
+### Samson's family — Judges 13:2, 25
+
+Samson's father is *a certain man of Zorah, of the family of the Danites* (13:2), and the Spirit first
+moves Samson *in Mahaneh Dan*, *the camp of Dan*, *between Zorah and Eshtaol* (13:25), the two towns at
+the head of Dan's border list (Joshua 19:41). The tribe pressed into the hill country (1:34) produces
+the book's last judge. Judges 18:11–12 later names Mahaneh Dan for the camp of the migrating Danites,
+*behind Kiriath Jearim*. See [[The Announcement of Samson's Birth]] and [[Mahaneh Dan]].
+
+Source: stored WEB Judges 13:1–25; 1:34; 18:11–12; Joshua 19:41.
+
 ### *Why did Dan remain in ships?* — Judges 5:17
 
 *Why did Dan remain in ships?* (5:17). The tribe of Dan is among those who stayed. Its lot ran *over
@@ -276,6 +286,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - [[The Offerings of the Twelve Princes]] — Numbers 7:66–71; gives tenth, through Ahiezer.
 - [[The March from Sinai]] — Numbers 10:25; the rear guard of all the camps, under Ahiezer.
 - [[The Song of Deborah]] — Judges 5:17; stays *in ships*.
+- [[The Announcement of Samson's Birth]] — Judges 13:2, 25; Manoah *of the family of the Danites*; Mahaneh Dan.
 
 ## Related people
 
