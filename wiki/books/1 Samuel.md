@@ -134,6 +134,17 @@ Gideon did: *Am I not a Benjamite, of the smallest of the tribes of Israel?* (9:
 the head of thirty guests and gives him the portion *kept for you* (9:22–24). The king the people asked for is also
 the one Yahweh sends, and the chapter does not say how the two fit.
 
+[[Samuel Anoints Saul]] (9:26–10:16) does in private what chapter 9 prepared. At dawn, at the edge of the city, with
+the servant sent ahead, Samuel pours *the vial of oil* on Saul's head, kisses him, and asks, *Hasn't Yahweh anointed
+you to be prince over his inheritance?* (10:1). He gives three signs: two men at Rachel's tomb with news of the
+donkeys, three pilgrims to Bethel who give him two loaves, and a band of prophets at *the hill of God, where the
+garrison of the Philistines is*, among whom *Yahweh's Spirit will come mightily on you … and you will be turned into
+another man* (10:2–6). He tells Saul to *do what is appropriate for the occasion; for God is with you*, and also to
+wait seven days for him at Gilgal (10:7–8), and the text does not say how the two orders fit. *God gave him another
+heart*, the signs all happen, and Saul prophesies, so that people ask *Is Saul also among the prophets?* (10:9–12),
+a proverb the book will explain a second time (19:24). Asked by his uncle what Samuel said, Saul tells him only
+about the donkeys: *concerning the matter of the kingdom … he didn't tell him* (10:16).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -167,7 +178,7 @@ merge, or reorder them freely.
 - [x] [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2–17
 - [x] [[Israel Asks for a King]] — 1 Samuel 8:1–22
 - [x] [[Saul Comes to the Seer]] — 1 Samuel 9:1–25
-- [ ] Samuel Anoints Saul — 1 Samuel 9:26–10:16
+- [x] [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16
 - [ ] Saul Chosen by Lot at Mizpah — 1 Samuel 10:17–27
 - [ ] Saul Rescues Jabesh Gilead — 1 Samuel 11:1–15
 - [ ] Samuel's Farewell Address — 1 Samuel 12:1–25
@@ -250,6 +261,11 @@ merge, or reorder them freely.
 - [[Providence]] — lost donkeys, and a meeting set the day before (9:3–17)
 - [[Seeing and Being Seen]] — *I have looked upon my people*; *I am the seer* (9:16, 19)
 - [[Hospitality]] — the best place and the reserved portion (9:22–24)
+- [[The Spirit of God]] — *Yahweh's Spirit will come mightily on you* (10:6, 10)
+- [[Signs and Wonders]] — three signs, *all … happened that day* (10:2–9)
+- [[Prophecy and Vision]] — the band of prophets; *Is Saul also among the prophets?* (10:5–12)
+- [[Kingship and Empire]] — *prince over his inheritance*; *the matter of the kingdom* (10:1, 16)
+- [[Wisdom]] — *it became a proverb* (10:12)
 
 ## Key people
 - [[Samuel]]
@@ -275,6 +291,8 @@ merge, or reorder them freely.
 - [[Saul]] — son of Kish, the first king; enters looking for donkeys (9:2)
 - [[Kish (father of Saul)]] — his father, a Benjamite (9:1–3)
 - [[Saul's Servant (of the lost donkeys)]] — who proposes the seer (9:3–10)
+- [[Band of Prophets (of Samuel's time)]] — at the hill of God; Saul prophesies among them (10:5–12)
+- [[Saul's Uncle]] — told about the donkeys, not the kingdom (10:14–16)
 
 ## Key places
 - [[Shiloh]]
@@ -292,3 +310,5 @@ merge, or reorder them freely.
 - [[Beth Kar]] and [[Shen]] — the end of the pursuit, and the stone's position (7:11–12)
 - [[Bethel]] and [[Gilgal]] — with Mizpah, the towns of Samuel's circuit (7:16)
 - [[The Land of Shalishah]], [[The Land of Shaalim]], and [[The Land of Zuph]] — the districts of Saul's search (9:4–5)
+- [[Rachel's Tomb]] and [[Zelzah]], [[The Oak of Tabor]], and [[The Hill of God]] — the places of Saul's three signs (10:2–10)
+- [[Gilgal]] — where Saul is told to wait seven days (10:8)

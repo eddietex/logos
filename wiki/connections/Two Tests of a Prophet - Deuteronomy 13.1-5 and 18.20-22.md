@@ -12,6 +12,7 @@ tags: [connection]
 - [[Miriam and Aaron Against Moses]] — Numbers 12:6–8; Yahweh speaks to a prophet in a vision or
   a dream, and to Moses *"mouth to mouth"*.
 - [[Water Turned to Blood]] — Exodus 7:22; Pharaoh's magicians reproduce a sign.
+- [[Samuel Anoints Saul]] — 1 Samuel 10:2–9; three signs foretold, *and all those signs happened that day*.
 - Matthew 24:24 — false prophets who *"show great signs and wonders"* (WEB, verified from
   bible-api.com).
 - 1 John 4:1 — *"test the spirits, whether they are of God, because many false prophets have gone
@@ -64,3 +65,13 @@ are not yet ingested and will need to revisit this page. See [[Prophecy and Visi
 
 Sources: stored WEB Deuteronomy 13:1–5, 18:20–22; Exodus 7:22, 8:7; Numbers 12:6–8. Matthew 24:24,
 1 John 4:1, and Galatians 1:8 verified from bible-api.com (WEB), 2026-11-06.
+
+### 1 Samuel 10:2–9 — a prophet's signs that happen
+
+Samuel's three signs to Saul are what Deuteronomy 18:22 asks for: a prophet speaks in Yahweh's name, and *the thing*
+happens. Samuel names two men at Rachel's tomb, three pilgrims with goats, loaves, and wine at the oak of Tabor, and
+a band of prophets at the hill of God, and *all those signs happened that day* (10:9). The narrator had already said
+Yahweh *let none of his words fall to the ground* (3:19), and the servant that *All that he says surely happens*
+(9:6). Deuteronomy 13:1–3 also warns that a sign or wonder that *comes to pass* does not prove a prophet true if he
+says *Let us go after other gods*. Samuel's signs point Saul toward Yahweh, *God is with you* (10:7), so both tests
+are met. See [[Samuel Anoints Saul]]. Sources: stored WEB Deuteronomy 13:1–3; 18:22; 1 Samuel 3:19; 9:6; 10:2–9.

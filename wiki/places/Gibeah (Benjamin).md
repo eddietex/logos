@@ -52,6 +52,8 @@ Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 - [[Jerusalem]] — Jebus, passed by for Gibeah (19:10–12).
 - [[Ramah]] — the other town the Levite names (19:13).
 - [[Gibeath]] · [[Gibeah (Judah)]] — names kept apart.
+- [[The Hill of God]] — the site of Saul's third sign (1 Samuel 10:5, 10), often identified with Gibeah; the text
+  uses the common noun and does not name the town.
 - [[Sodom]] — the city whose night it repeats.
 
 ## Events here

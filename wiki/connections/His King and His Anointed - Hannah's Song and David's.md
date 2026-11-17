@@ -13,6 +13,7 @@ tags: [connection]
   yet ingested)*
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; *he will walk before my anointed forever*
   *(stored WEB)*
+- [[Samuel Anoints Saul]] — 1 Samuel 10:1; *the vial of oil*, the first anointing of a king *(stored WEB)*
 - 1 Samuel 16:13 — *the horn of oil* *(stored WEB; not yet ingested)*
 
 ## Analysis
@@ -71,3 +72,15 @@ only.
   house will *walk before* the king. See [[A Sure House - The Faithful Priest and the House of David]].
 - Both songs have Yahweh *thunder* from the sky (1 Samuel 2:10; 2 Samuel 22:14), and Hannah's line is
   answered at Mizpah (1 Samuel 7:10). See [[He Will Thunder Against Them - Hannah's Song and Mizpah]].
+
+### 1 Samuel 10:1 — the first royal anointing
+
+The first anointing Hannah's *his anointed* looked toward is now ingested in [[Samuel Anoints Saul]]. Samuel *took the
+vial of oil, and poured it on his head, and kissed him*, and said *Hasn't Yahweh anointed you to be prince over his
+inheritance?* (10:1). The vessel is *pak haššemen* (WLC). *Pak* occurs only here in the WLC files searched (lemma
+6378). For David it is *qeren haššemen*, *the horn of oil* (16:13), the same noun *qeren* as Hannah's exalted *horn*
+(2:1, 10). The wiki notes the difference in vessels and does not read a judgment into it. Yahweh's verb in 9:16 was
+*ûməšaḥtô*, *you shall anoint him*; in 10:1 Yahweh is the subject, *məšāḥăḵā YHWH*, *Yahweh has anointed you* (WLC).
+Samuel pours the oil, but the anointing is said to be Yahweh's. That is why Saul is later *Yahweh's anointed*, whom
+David will not touch (24:6; 26:9–23, stored WEB; not yet ingested). Sources: stored WEB 1 Samuel 2:1, 10; 9:16;
+10:1; 16:13; 24:6. Hebrew WLC (`1Sam.xml`), 2026-11-17.

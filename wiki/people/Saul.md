@@ -38,6 +38,29 @@ Saul* (WEB checked at bible-api.com; not yet ingested). See [[Kish (father of Sa
 Source: stored WEB 1 Samuel 8:10; 9:1–25; 10:22–23; 12:13; 14:51; 15:17; 16:7; Judges 6:15. 1 Chronicles 8:33;
 9:39 checked at bible-api.com (`translation=web`), 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Anointed in private, changed, and silent — 1 Samuel 9:26–10:16
+
+At dawn Samuel walks Saul to the edge of the city, sends the servant on ahead, and has Saul *stand still* to hear
+*God's message* (9:26–27). He pours *the vial of oil* on his head, kisses him, and asks, *Hasn't Yahweh anointed you
+to be prince over his inheritance?* (10:1). Saul is not recorded as answering. Samuel gives him three signs: two men
+at [[Rachel's Tomb]] with news that the donkeys are found and his father is worried for him; three pilgrims at
+[[The Oak of Tabor]] who give him two loaves; and a band of prophets at [[The Hill of God]], where *Yahweh's Spirit
+will come mightily on you, and you will prophesy with them, and will be turned into another man* (10:2–6). He is
+told *do what is appropriate for the occasion; for God is with you*, and also to go down to Gilgal and wait seven
+days (10:7–8). As he turns to go, *God gave him another heart* (10:9, WLC *lēḇ ʾaḥēr*). The Spirit comes on him with
+Samson's verb, *wattiṣlaḥ* (10:10, WLC), and he prophesies, and people who knew him ask *What is this that has come
+to the son of Kish? Is Saul also among the prophets?* (10:11). When his uncle asks what Samuel said, he tells him
+about the donkeys and keeps quiet about *the matter of the kingdom* (10:16).
+
+The pericope gives Saul no recorded words to Samuel and no prayer. What it gives is a change done to him, *turned*
+and *given another heart*, both with the verb *hāp̄aḵ* (WLC), and a silence. The seven days at Gilgal (10:8) come
+due at 13:8, *He stayed seven days, according to the time set by Samuel; but Samuel didn't come* (stored WEB; not
+yet ingested). The proverb returns at 19:24, at Naioth, where it is told a second way. See
+[[Samuel Anoints Saul]], [[The Spirit Rushed on Him - Samson, Saul, and David]], and
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]].
+
+Source: stored WEB 1 Samuel 9:26–10:16; 13:8; 19:24. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Introduced as Kish's son, impressive and tall — 1 Samuel 9:1–2.
@@ -45,9 +68,15 @@ Source: stored WEB 1 Samuel 8:10; 9:1–25; 10:22–23; 12:13; 14:51; 15:17; 16:
 - Brought by his servant to the seer; met by Samuel, whom Yahweh had told to anoint him *prince* — 9:6–17.
 - Told the donkeys are found and *all that is desirable in Israel* is for him; protests that he is of the least
   family of the smallest tribe; seated first and given the reserved portion — 9:18–25.
+- Anointed in private with the vial of oil as *prince over his inheritance*; given three signs and the order to
+  wait seven days at Gilgal — 9:26–10:8.
+- Given *another heart*; the Spirit comes mightily on him and he prophesies with a band of prophets; *Is Saul also
+  among the prophets?* — 10:9–13.
+- Tells his uncle about the donkeys but not *the matter of the kingdom* — 10:14–16.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2–25; the lost donkeys, the seer, and the reserved portion.
+- [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:16; anointed, changed, prophesies, and keeps the kingdom secret.
 
 ## Related people
 - [[Kish (father of Saul)]] — his father (9:1–3)
@@ -56,7 +85,10 @@ Source: stored WEB 1 Samuel 8:10; 9:1–25; 10:22–23; 12:13; 14:51; 15:17; 16:
 - [[Benjamin]] — his tribe, *the smallest of the tribes of Israel* (9:21)
 - [[Gideon]] — the earlier deliverer who called himself *the least in my father's house* (Judges 6:15)
 - [[Shaul (son of Simeon)]] — the earlier bearer of the same Hebrew name
-- [[The Philistines]] — whom he is to save Israel from (9:16)
+- [[The Philistines]] — whom he is to save Israel from (9:16); their garrison at the hill of God (10:5)
+- [[Saul's Uncle]] — asks what Samuel said, and is not told about the kingdom (10:14–16)
+- [[Band of Prophets (of Samuel's time)]] — among whom he prophesies (10:10)
+- [[Samson]] — the earlier man on whom the Spirit *came mightily* (Judges 14:6)
 
 ## Themes associated
 - [[Kingship and Empire]]
@@ -64,3 +96,6 @@ Source: stored WEB 1 Samuel 8:10; 9:1–25; 10:22–23; 12:13; 14:51; 15:17; 16:
 - [[Providence]]
 - [[Hospitality]]
 - [[Names and Naming]]
+- [[The Spirit of God]]
+- [[Prophecy and Vision]]
+- [[Signs and Wonders]]

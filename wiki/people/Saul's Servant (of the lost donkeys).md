@@ -23,18 +23,31 @@ stored WEB; not yet ingested), and Saul's uncle questions them both (10:14, stor
 
 Source: stored WEB 1 Samuel 9:3–27; 10:14; 16:15. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Sent ahead — 1 Samuel 9:27; 10:14
+
+At the edge of the city Samuel tells Saul, *Tell the servant to go on ahead of us*, and *He went ahead* (9:27). The
+one who brought Saul to the prophet does not see the anointing. He is with Saul again when Saul's uncle asks them
+both, *Where did you go?* (10:14), and Saul answers for both of them: *we came to Samuel*. Whether the servant knew
+what happened, the text does not say. See [[Samuel Anoints Saul]].
+
+Source: stored WEB 1 Samuel 9:27; 10:14.
+
 ## Timeline / key events
 - Sent with Saul after the donkeys — 1 Samuel 9:3.
 - Proposes consulting the man of God, and offers the quarter shekel — 9:6–8.
 - Seated with Saul at the head of the invited — 9:22.
+- Sent on ahead before the anointing — 9:27.
+- Questioned with Saul by Saul's uncle — 10:14.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:3–10, 22; knows of the seer and carries the silver.
+- [[Samuel Anoints Saul]] — 1 Samuel 9:27; 10:14; sent ahead before the anointing; questioned by Saul's uncle.
 
 ## Related people
 - [[Saul]] — his companion and master's son
 - [[Kish (father of Saul)]] — his master
 - [[Samuel]] — the *man of God* he proposes to consult
+- [[Saul's Uncle]] — who questions him with Saul (10:14)
 - [[Abraham's Servant]] — another unnamed servant whose errand ends at young women drawing water (Genesis 24)
 
 ## Themes associated

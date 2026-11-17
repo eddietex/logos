@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### A proverb is born — 1 Samuel 10:11–12
+
+*Therefore it became a proverb, "Is Saul also among the prophets?"* (10:12). *Māšāl* (WLC), elsewhere in the files
+searched the word for Balaam's oracles (Numbers 23–24) and for Israel as *a byword* (Deuteronomy 28:37). This is
+the first saying whose origin a narrative explains. It begins as surprise among people *who knew him before*, and
+the answer from *one of the same place*, *Who is their father?*, is left unexplained. The book gives the same proverb
+a second origin at 19:24 (stored WEB; not yet ingested). See [[Samuel Anoints Saul]] and
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]].
+
+Source: stored WEB 1 Samuel 10:11–12; 19:24; Numbers 23:7; Deuteronomy 28:37. Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
+
 ### The Gibeonite deception — Joshua 9:1–27
 
 Joshua questions the envoys and the men sample their provisions, yet they omit counsel from Yahweh
@@ -838,6 +850,7 @@ See [[The End of the Matter]]. Source: stored WEB Ecclesiastes 12:9–14 and the
 comparison passages identified on that page.
 
 ## Key passages
+- [[Samuel Anoints Saul]] — 1 Samuel 10:11–12; *it became a proverb, "Is Saul also among the prophets?"*
 - [[The Gibeonite Deception]] — Joshua 9:1–27
 - [[After the Death of Moses]] — Joshua 1:1–9; *taśkîl*, *good success*, from meditating on the law (7–8).
 

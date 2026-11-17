@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three signs on the road home — 1 Samuel 10:2–9
+
+Samuel gives Saul three signs, each with its place and people: two men at Rachel's tomb, three pilgrims at the oak
+of Tabor, and a band of prophets at the hill of God (10:2–6). *Let it be, when these signs have come to you, that
+you do what is appropriate for the occasion; for God is with you* (10:7). *Hāʾōṯôṯ* (10:7, 9, WLC) are not
+wonders here. They are ordinary meetings, foretold. Their force is that they happen as Samuel said, *all those
+signs happened that day* (10:9). Gideon asked for signs (Judges 6:17), but Saul is given them without asking. The
+change they confirm comes first, before any of them: *God gave him another heart* as he turned to go (10:9). See
+[[Samuel Anoints Saul]].
+
+Source: stored WEB 1 Samuel 10:2–9; Judges 6:17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Thunder at Mizpah — 1 Samuel 7:10
 
 *Yahweh thundered with a great thunder on that day on the Philistines, and confused them* (7:10). Hannah sang
@@ -242,6 +254,7 @@ first fruits. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB
 
 ## Key passages
 
+- [[Samuel Anoints Saul]] — 1 Samuel 10:2–9; three foretold meetings, *all … happened that day*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:10; *Yahweh thundered with a great thunder*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:7–12; the test of the unyoked cows.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:3–4; Dagon found fallen before the ark on two mornings.

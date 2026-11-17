@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### The anointing at the edge of the city — 1 Samuel 9:26–27
+
+The next morning Samuel walks Saul *down at the end of the city* and anoints him there (9:27–10:1). The city is
+still unnamed. If it is Ramah, as is often proposed (see below), the first king is anointed outside Samuel's own
+town. The route of the signs, past Rachel's tomb *on the border of Benjamin* (10:2), is one reason some place the
+city elsewhere. The identification is recorded, not asserted. See [[Samuel Anoints Saul]] and [[Rachel's Tomb]].
+
+Source: stored WEB 1 Samuel 9:26–10:2.
+
 ### The seer's unnamed city — 1 Samuel 9:5–25
 
 Saul's search ends in *the land of Zuph*, where his servant knows of *a man of God* in *this city* (9:5–6). Samuel is
@@ -74,6 +83,7 @@ come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested).
 Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Samuel Anoints Saul]] — 1 Samuel 9:26–27; the anointing at the edge of the unnamed city often identified with Ramah.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; often identified with the seer's unnamed city (not named in the text).
 - [[Israel Asks for a King]] — 1 Samuel 8:4; the elders ask Samuel for a king.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:17; Samuel's house, his judging, and his altar.
@@ -85,6 +95,7 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 
 ## Related places
 - [[The Land of Zuph]] — the district where the seer's city lies (9:5)
+- [[Rachel's Tomb]] · [[Zelzah]] — the first stop on Saul's road home (10:2)
 - [[Shiloh]] — where Elkanah's family goes up yearly from Ramah (1 Samuel 1:3, 19).
 - [[The Hill Country of Ephraim]] — the region 1 Samuel 1:1 places Ramathaim in.
 - [[Gibeah (Benjamin)]] — the other town named at Judges 19:13.
@@ -93,6 +104,7 @@ Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptur
 - [[Mizpeh]] · [[Gilgal]] · [[Bethel]] — the towns of Samuel's circuit, with Ramah his return (1 Samuel 7:16–17).
 
 ## Events here
+- Possibly the city at whose edge Samuel anoints Saul — 1 Samuel 9:26–10:1, [[Samuel Anoints Saul]] (identification not made by the text)
 - Possibly the city where Samuel meets Saul and hosts him at the high place — 1 Samuel 9:6–25, [[Saul Comes to the Seer]] (identification not made by the text)
 - Samuel's house; he judges Israel there and builds an altar to Yahweh — 1 Samuel 7:17, [[Samuel Judges Israel at Mizpah]]
 - Elkanah's home; Samuel conceived after the return from Shiloh — 1 Samuel 1:1, 19

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Anointed without a word in reply — 1 Samuel 9:26–10:16
+
+Saul's call is the oil and a question that expects yes: *Hasn't Yahweh anointed you to be prince over his
+inheritance?* (10:1). Saul is not recorded as answering. He had already objected that he was the least (9:21), as
+Gideon did, and Samuel answers that objection with signs, not argument, and with *God is with you* (10:7). The
+angel said the same to Gideon, *Yahweh is with you* (Judges 6:12). The chosen man is then changed: *turned into
+another man*, *another heart* (10:6, 9). At home he does not tell anyone that he has been chosen (10:16), and at
+the public choosing he will be found hiding (10:22, stored WEB; not yet ingested). See [[Samuel Anoints Saul]].
+
+Source: stored WEB 1 Samuel 9:21; 10:1–16, 22; Judges 6:12.
+
 ### *Behold, the man* — 1 Samuel 9:15–21
 
 Yahweh designates the king before the king knows he is wanted: *I will send you a man out of the land of Benjamin*
@@ -354,6 +365,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Samuel Anoints Saul]] — 1 Samuel 10:1–16; the private anointing; *God is with you*; *another heart*; the chosen man's silence.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:15–21; *Behold, the man*; the least family of the smallest tribe.
 - [[Israel Asks for a King]] — 1 Samuel 8:18; *your king whom you will have chosen for yourselves*.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–10, 19–20; the boy called four times, taught to answer by Eli, and established as a prophet.

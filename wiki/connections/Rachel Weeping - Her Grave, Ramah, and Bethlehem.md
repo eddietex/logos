@@ -13,8 +13,8 @@ tags: [connection]
 - **Genesis 48:7** — Jacob's own retelling, to Joseph: *"Rachel died by me in the land of Canaan in
   the way, when there was still some distance to come to Ephrath, and I buried her there in the way to
   Ephrath (also called Bethlehem)"* *(not yet ingested)*.
-- **1 Samuel 10:2** — Samuel to Saul: *"When you have departed from me today, then you will find two
-  men by **Rachel's tomb, in the border of Benjamin at Zelzah**."*
+- [[Samuel Anoints Saul]] — **1 Samuel 10:2** — Samuel to Saul: *"When you have departed from me today, then
+  you will find two men by **Rachel's tomb, on the border of Benjamin at Zelzah**."* Stored WEB.
 - **Jeremiah 31:15** — *"A voice is heard in **Ramah**, lamentation and bitter weeping, Rachel weeping
   for her children. She refuses to be comforted for her children, because they are no more."*
 - **Jeremiah 31:16–17** — the two verses nobody quotes: *"Refrain your voice from weeping … your work
@@ -34,7 +34,7 @@ tags: [connection]
 | text | where Rachel's grave is | whose territory |
 |---|---|---|
 | **Genesis 35:19; 48:7** | *"on the way to Ephrath (also called Bethlehem)"* | Judah, ~5 miles S of Jerusalem |
-| **1 Samuel 10:2** | *"in the border of Benjamin at Zelzah"* | Benjamin, N of Jerusalem |
+| **1 Samuel 10:2** | *"on the border of Benjamin at Zelzah"* | Benjamin, N of Jerusalem |
 | **Jeremiah 31:15** | weeping heard *"in Ramah"* | Benjamin, ~5 miles N of Jerusalem |
 
 **Genesis puts her south and the other two put her north, and the two groups cannot both be describing
@@ -126,3 +126,12 @@ there I buried Leah"* is the only report of [[Leah]]'s burial in the Bible, **an
 Jacob was tricked into in the cave he is asking to be carried to, while [[Rachel]] stays beside a road
 to Ephrath.** **Genesis states both facts, one chapter apart, in Jacob's own voice, and comments on
 neither.**
+
+**1 Samuel 10:2 is now ingested**, in [[Samuel Anoints Saul]]. Two corrections and one observation. The stored WEB
+reads *on the border of Benjamin*, not *in the border*. The quotations on this page and the pages that copied them
+have been brought into line. *Bəṣelṣaḥ* (WLC) occurs only here in the WLC files searched (lemma 6766), which is
+consistent with reading 3 above, though it does not prove it. And the verse uses the tomb as a landmark on Saul's
+road home from the anointing: the first of three signs, where two men will tell him the donkeys are found. Where
+that road began is not stated, since the city of chapter 9 is unnamed, so the verse does not fix the tomb's place
+any more exactly. See [[Rachel's Tomb]] and [[Zelzah]]. Sources: stored WEB 1 Samuel 10:2; Hebrew WLC (`1Sam.xml`),
+2026-11-17.

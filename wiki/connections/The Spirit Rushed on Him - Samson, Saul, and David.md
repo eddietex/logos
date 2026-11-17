@@ -12,9 +12,9 @@ tags: [connection]
   went down to Ashkelon, and struck thirty men … His anger burned*. Stored WEB.
 - [[Samson Against the Philistines at Lehi]] — **Judges 15:14** — *Then Yahweh's Spirit came mightily on him, and
   the ropes that were on his arms became as flax that was burned with fire*. Stored WEB.
-- **1 Samuel 10:6, 10** — *Then Yahweh's Spirit will come mightily on you, and you will prophesy with
-  them, and will be turned into another man*; *the Spirit of God came mightily on him, and he prophesied
-  among them*. WEB at bible-api.com; not stored.
+- [[Samuel Anoints Saul]] — **1 Samuel 10:6, 10** — *Then Yahweh's Spirit will come mightily on you, and you
+  will prophesy with them, and will be turned into another man*; *the Spirit of God came mightily on him, and
+  he prophesied among them*. Stored WEB.
 - **1 Samuel 11:6** — *God's Spirit came mightily on Saul when he heard those words, and his anger
   burned hot*. WEB at bible-api.com; not stored.
 - **1 Samuel 16:13** — *Then Yahweh's Spirit came mightily on David from that day forward*. WEB at
@@ -91,3 +91,16 @@ the files checked the noun follows the Spirit's rush in Samson's story and Saul'
 Philistine victories of David's. See [[Samson Against the Philistines at Lehi]]. Sources: stored WEB Judges 15:14–18;
 1 Samuel 19:5 and 2 Samuel 23:10, 12 checked at bible-api.com (WEB), 2026-11-16; Hebrew WLC
 (`Judg.xml`, `1Sam.xml`, `2Sam.xml`), 2026-11-16.
+
+### 1 Samuel 10:6–10 — the first rush on a king, and its sign
+
+Saul's first *ṣālaḥ* is now ingested in [[Samuel Anoints Saul]]. It differs from Samson's three in two ways. First,
+it is foretold: Samuel names it as the third sign, with time and place, *you will meet a band of prophets … Then
+Yahweh's Spirit will come mightily on you* (10:5–6), and the narrator records it coming true (10:10). Second, what
+follows is not a feat of the body but prophesying among a band of prophets, and an inward change described twice:
+*turned into another man* (10:6, *wənehpaḵtā*) and *God gave him another heart* (10:9, *wayyahăp̄āḵ … lēḇ ʾaḥēr*)
+(WLC). It is also the first rush that follows an anointing with oil (10:1). David's will follow the horn of oil in
+the same way (16:13). The pattern of anointing first and the Spirit after begins here, with the king who will lose
+the Spirit. The people's question, *Is Saul also among the prophets?*, is taken up in
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]. Sources: stored WEB 1 Samuel 10:1–10; 16:13.
+Hebrew WLC (`1Sam.xml`), 2026-11-17.

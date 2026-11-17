@@ -158,6 +158,22 @@ say what Samuel thinks of it. His first act as kingmaker is hospitality. See [[S
 
 Source: stored WEB 1 Samuel 8:6; 9:1–25. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Kingmaker at dawn — 1 Samuel 9:26–10:16
+
+Samuel anoints Saul alone, at the edge of the city, after sending the servant ahead: *stand still first, that I may
+cause you to hear God's message* (9:27). He was called by a word he heard at night (3:10–11), and now he makes
+another man hear one, *wəʾašmîʿăḵā* (9:27, WLC). He pours *the vial of oil*, kisses Saul, and calls him *prince over
+his inheritance* (10:1). Then he speaks as a prophet whose words come true: three signs, foretold in detail, *and
+all those signs happened that day* (10:9). That meets Deuteronomy's test that what a prophet speaks must *happen*
+(18:22). His last instruction holds Saul to him: *Go down ahead of me to Gilgal … Wait seven days, until I come to
+you, and show you what you are to do* (10:8). It stands beside *do what is appropriate for the occasion* (10:7),
+and the text does not reconcile them. Samuel does not appear in 10:9–16, but the band of prophets Saul meets is the
+first group of prophets in the books stored so far. At 19:20 Samuel is *standing as head over* such a company (stored
+WEB; not yet ingested). See [[Samuel Anoints Saul]] and [[Band of Prophets (of Samuel's time)]].
+
+Source: stored WEB 1 Samuel 3:10–11; 9:26–10:16; 19:20; Deuteronomy 18:22. Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -170,6 +186,7 @@ Source: stored WEB 1 Samuel 8:6; 9:1–25. Hebrew WLC (OpenScriptures morphhb), 
 - Calls Israel to put away the Baals and the Ashtaroth; prays at Mizpah; offers a whole burnt offering; Yahweh thunders; sets up Ebenezer; judges Israel all his life from Ramah — 7:2–17.
 - Old, appoints his sons judges at Beersheba; the elders ask for a king; he prays, is told to listen, warns of *the way of the king*, and sends the people home — 8:1–22.
 - Told by Yahweh the day before to anoint a man from Benjamin; meets Saul as *the seer*, hosts him at the high place, and gives him the reserved portion — 9:1–25.
+- Anoints Saul in private with the vial of oil; gives three signs, all fulfilled that day; tells him to wait seven days at Gilgal — 9:26–10:8.
 
 ## Appears in
 
@@ -182,10 +199,12 @@ Source: stored WEB 1 Samuel 8:6; 9:1–25. Hebrew WLC (OpenScriptures morphhb), 
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–17; prophet, intercessor, priest, and judge at Mizpah.
 - [[Israel Asks for a King]] — 1 Samuel 8:1–22; his sons' corruption, the elders' request, and the way of the king.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–25; the seer, told the day before, hosts the man he is to anoint.
+- [[Samuel Anoints Saul]] — 1 Samuel 9:26–10:8; the private anointing, the three signs, and the seven days.
 
 ## Related people
 
-- [[Saul]] — the man from Benjamin he is told to anoint *prince* (9:16)
+- [[Saul]] — the man from Benjamin he is told to anoint *prince* (9:16), and anoints (10:1)
+- [[Band of Prophets (of Samuel's time)]] — the prophets of the third sign (10:5); a company he heads at 19:20
 - [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]] — his sons, corrupt judges at Beersheba (8:2–3)
 - [[Hannah]] — his mother
 - [[Elkanah (father of Samuel)]] — his father
@@ -209,3 +228,4 @@ Source: stored WEB 1 Samuel 8:6; 9:1–25. Hebrew WLC (OpenScriptures morphhb), 
 - [[Kingship and Empire]]
 - [[Prophecy and Vision]]
 - [[Hospitality]]
+- [[Signs and Wonders]]

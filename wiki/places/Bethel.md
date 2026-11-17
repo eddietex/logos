@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### Going up to God — 1 Samuel 10:3
+
+Saul's second sign is three men at the oak of Tabor *going up to God to Bethel*, *ʿōlîm ʾel-hāʾĕlōhîm bêṯ-ʾēl*
+(10:3, WLC). They carry three young goats, three loaves of bread, and a skin of wine, and they give him two of the
+loaves. Bethel is still a place of pilgrimage and offering here, as at Judges 20:26 and 21:4. The verse does not
+say what the men will offer there. See [[Samuel Anoints Saul]] and [[The Oak of Tabor]]. Source: stored WEB
+1 Samuel 10:3–4; Judges 20:26; 21:4. Hebrew WLC, 2026-11-17.
+
 ### On Samuel's circuit — 1 Samuel 7:16
 
 *He went from year to year in a circuit to Bethel, Gilgal, and Mizpah; and he judged Israel in all those places*
@@ -145,6 +153,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[Samuel Anoints Saul]] — 1 Samuel 10:3; three men going up *to God to Bethel*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:16; first town on Samuel's yearly circuit.
 - [[Wives for Benjamin]] — Judges 21:2–4, 19; weeping, altar, offerings; a landmark for Shiloh.
 - [[The War Against Benjamin]] — Judges 20:18–31; three inquiries, weeping, fasting, and the ark.
@@ -202,6 +211,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 - [[Canaan]] — the land both sit in
 - [[The Negev]] — where he goes next
 - [[Bochim]] — the place of weeping in Judges 2, perhaps near Bethel.
+- [[The Oak of Tabor]] — where pilgrims going up to Bethel meet Saul (1 Samuel 10:3).
 
 ## Events here
 
@@ -223,3 +233,4 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 - Josiah destroys the altar — 2 Kings 23:15–16
 - Its king counted (12:16); no capture narrated in Joshua.
 - Samuel judges Israel there on his yearly circuit — 1 Samuel 7:16, [[Samuel Judges Israel at Mizpah]]
+- Three pilgrims going up to God at Bethel give Saul two loaves on the way — 1 Samuel 10:3–4, [[Samuel Anoints Saul]]

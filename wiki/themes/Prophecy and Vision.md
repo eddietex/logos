@@ -6,6 +6,21 @@ tags: [theme]
 
 ## Definition / overview
 
+### A band of prophets, and Saul among them — 1 Samuel 10:5–13
+
+The first group of prophets in the books stored so far comes *down from the high place with a lute, a tambourine, a
+pipe, and a harp before them; and they will be prophesying* (10:5). The prophesying is described by its music
+and by what onlookers see. No words are reported, as with the seventy elders of Numbers 11:25. Outside 1 Samuel
+that is the only other use of the verb *nāḇāʾ* in the WLC files searched (lemma 5012). Saul prophesies among
+them, and the people ask *Is Saul also among the prophets?* (10:11–12). The question becomes a proverb, and the book
+will tell its origin a second time at 19:24 (stored WEB; not yet ingested). Samuel meanwhile acts as a prophet in
+the Deuteronomic sense: he names three signs in detail, *and all those signs happened that day* (10:9; Deuteronomy
+18:22). See [[Samuel Anoints Saul]], [[Band of Prophets (of Samuel's time)]], and
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]].
+
+Source: stored WEB 1 Samuel 10:5–13; 19:24; Numbers 11:25; Deuteronomy 18:22. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ### The man of God whose word comes true; prophet and seer — 1 Samuel 9:6–20
 
 Saul's servant knows of *a man of God* who is *held in honor. All that he says surely happens* (9:6), *bôʾ yāḇôʾ*
@@ -306,6 +321,7 @@ open; John 1:21 treats *"the prophet"* as a title and Acts 3:22–23 applies 18:
 See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22. New Testament WEB checked at bible-api.com.
 
 ## Key passages
+- [[Samuel Anoints Saul]] — 1 Samuel 10:5–13; a band of prophets; *Is Saul also among the prophets?*; Samuel's signs all fulfilled.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:6–20; *all that he says surely happens*; *a prophet was before called a seer*.
 - [[The Ark Is Captured]] — 1 Samuel 4:11, 18; the sign of 2:34 fulfilled *in one day*.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a; the word *precious*, the boy called, the vision told, and a prophet known from Dan to Beersheba.

@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Prince over his inheritance, in secret — 1 Samuel 9:26–10:16
+
+The first king of Israel is anointed with no witnesses. The servant is sent ahead, and Samuel pours *the vial of
+oil* on Saul's head at the edge of the city: *Hasn't Yahweh anointed you to be prince over his inheritance?*
+(10:1). The title is *nāḡîḏ* again, and Israel is called Yahweh's *naḥălâ* (WLC). The office belongs to someone
+else, and the people are someone else's inheritance. The people asked for a king *like all the nations* (8:5), but
+what Saul receives is oil, a kiss, signs, the Spirit, and an order to wait for the prophet at Gilgal (10:8). The
+narrator names it *the matter of the kingdom*, *dəḇar hamməlûḵâ*, the first use of *məlûḵâ* in the WLC files
+searched (10:16). Saul tells no one. See [[Samuel Anoints Saul]].
+
+Source: stored WEB 1 Samuel 8:5; 9:26–10:16. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### A prince sent from Benjamin — 1 Samuel 9:1–25
 
 The king asked for in chapter 8 arrives in chapter 9 as someone Yahweh sends. *Tomorrow about this time I will send
@@ -661,6 +673,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Samuel Anoints Saul]] — 1 Samuel 10:1, 16; anointed *prince over his inheritance*; *the matter of the kingdom* kept secret.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:16–20; Yahweh sends *a man out of the land of Benjamin* to be anointed *prince*.
 - [[Israel Asks for a King]] — 1 Samuel 8:1–22; the elders ask for a king *like all the nations*; *they have rejected me*; the way of the king.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:13–17; the Philistines subdued under a judge, on the eve of the demand for a king.

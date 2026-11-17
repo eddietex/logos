@@ -26,19 +26,29 @@ of Saul; and Ner the father of Abner was the son of Abiel* (stored WEB; not yet 
 men named Kish; Ner as an earlier ancestor; a scribal slip) are recalled, not verified; the wiki does not choose
 between them.
 
-Source: stored WEB 1 Samuel 1:1; 9:1–5; 14:51; Judges 6:12; 11:1; Ruth 2:1. 1 Chronicles 8:33; 9:39 checked at
+### Anxious for his son — 1 Samuel 10:2, 11
+
+The first of Samuel's signs is news of Kish: *your father has stopped caring about the donkeys, and is anxious for
+you, saying, "What shall I do for my son?"* (10:2). The fear Saul voiced at 9:5 has come true, with the same verb
+*dāʾaḡ*, *be anxious* (WLC). When Saul prophesies, the people ask *What is this that has come to the son of Kish?*
+(10:11), and someone answers *Who is their father?* (10:12). See [[Samuel Anoints Saul]].
+
+Source: stored WEB 1 Samuel 1:1; 9:1–5; 10:2, 11–12; 14:51; Judges 6:12; 11:1; Ruth 2:1. 1 Chronicles 8:33; 9:39 checked at
 bible-api.com (`translation=web`), 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Timeline / key events
 - Introduced with his pedigree; his donkeys lost; sends Saul to look for them — 1 Samuel 9:1–3.
+- Stops worrying about the donkeys and worries about Saul — 10:2.
 
 ## Appears in
 - [[Saul Comes to the Seer]] — 1 Samuel 9:1–5; the father of the lost donkeys.
+- [[Samuel Anoints Saul]] — 1 Samuel 10:2, 11; *What shall I do for my son?*; *the son of Kish*.
 
 ## Related people
 - [[Saul]] — his son
 - [[Saul's Servant (of the lost donkeys)]] — one of his servants (9:3)
 - [[Benjamin]] — his tribe
+- [[Saul's Uncle]] — perhaps his brother; the text does not name him (10:14)
 
 ## Themes associated
 - [[Providence]]

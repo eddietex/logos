@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### The first sign at Rachel's tomb — 1 Samuel 10:2
+
+Samuel sends the newly anointed Saul to *Rachel's tomb, on the border of Benjamin at Zelzah* (10:2), *biḡḇûl
+binyāmin* (WLC). The grave of the mother who died bearing Benjamin (Genesis 35:16–19) marks the tribe's border, and
+the first of the Benjamite king's three signs is given there. Genesis puts the grave *on the way to Ephrath (also
+called Bethlehem)* (35:19), in Judah. The disagreement is recorded in
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and not resolved. See [[Samuel Anoints Saul]] and
+[[Rachel's Tomb]].
+
+Source: stored WEB Genesis 35:16–19; 1 Samuel 10:2. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The smallest of the tribes supplies the king — 1 Samuel 9:1–21
 
 *There was a man of Benjamin, whose name was Kish* (9:1): the opening words of the Benjamite runner of 4:12 return
@@ -297,10 +308,12 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 - Numbers 7:60–65 — Benjamin gives ninth at the altar's dedication, through Abidan. [[The Offerings of the Twelve Princes]]
 - Numbers 10:24 — Benjamin marches in Ephraim's camp. [[The March from Sinai]]
 - Judges 1:21 — Does not drive out the Jebusites of Jerusalem — [[Judah's Conquests and Achsah's Springs]]
+- 1 Samuel 10:2 — Rachel's tomb marks the border of Benjamin, where Saul's first sign is given — [[Samuel Anoints Saul]]
 
 ## Appears in
 
 - [[Saul Comes to the Seer]] — 1 Samuel 9:1, 4, 16, 21; Kish's tribe; *the smallest of the tribes of Israel*.
+- [[Samuel Anoints Saul]] — 1 Samuel 10:2; Rachel's tomb *on the border of Benjamin*.
 - [[The Ark Is Captured]] — 1 Samuel 4:12; *a man of Benjamin* brings the news to Shiloh.
 - [[Wives for Benjamin]] — Judges 21:1–25; the six hundred given wives from Jabesh Gilead and Shiloh.
 - [[The War Against Benjamin]] — Judges 20:1–48; the tribe refuses, fights, and is reduced to six hundred.

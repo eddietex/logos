@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Gifts on the road to Bethel, and offerings deferred to Gilgal — 1 Samuel 10:3–4, 8
+
+The three men going up *to God to Bethel* carry three young goats, three loaves, and a skin of wine (10:3), what
+pilgrims bring for an offering and a meal. They give two loaves to Saul, and he is to take them (10:4). The verse
+does not say whether the bread was meant for the altar. Samuel then defers sacrifice to himself: *I will come down
+to you, to offer burnt offerings, and to sacrifice sacrifices of peace offerings. Wait seven days* (10:8). Who may
+offer, and when, becomes the question of 13:8–14, where Saul offers the burnt offering himself after waiting
+seven days (stored WEB; not yet ingested). See [[Samuel Anoints Saul]].
+
+Source: stored WEB 1 Samuel 10:3–8; 13:8–14.
+
 ### The sacrifice at the high place, blessed before it is eaten — 1 Samuel 9:12–24
 
 *The people have a sacrifice today in the high place*, and *will not eat until he come, because he blesses the
@@ -929,6 +940,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[Samuel Anoints Saul]] — 1 Samuel 10:3–4, 8; the pilgrims' gifts; burnt and peace offerings reserved for Samuel at Gilgal.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:12–24; the sacrifice at the high place, blessed by Samuel; the thigh as Saul's portion.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:9–10, 17; a suckling lamb as a whole burnt offering; an altar at Ramah.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:14–15; the cart for wood, the cows a burnt offering.

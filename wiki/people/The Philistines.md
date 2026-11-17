@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### A garrison at the hill of God — 1 Samuel 10:5
+
+The third sign Samuel gives Saul is at *the hill of God, where the garrison of the Philistines is*, *nəṣiḇê
+pəlištîm* (10:5, WLC). *Nəṣîḇ* may mean a garrison, a post, or an officer; translations differ. Its other uses as
+a Philistine post are at 13:3–4 (stored WEB; not yet ingested). The Spirit comes on Saul under their garrison,
+before any battle. This is another sign that the summary at 7:13, *they stopped coming within the border of
+Israel*, does not describe the time of Saul's anointing. The tension is recorded, not resolved. See
+[[Samuel Anoints Saul]] and [[The Hill of God]].
+
+Source: stored WEB 1 Samuel 7:13; 10:5; 13:3–4. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The oppressor Saul is sent against — 1 Samuel 9:16
 
 Yahweh tells Samuel the man from Benjamin *will save my people out of the hand of the Philistines; for I have looked
@@ -180,6 +191,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - Their lords pay Delilah; they blind Samson and imprison him at Gaza — [[Samson and Delilah]].
 - Defeat Israel twice at Ebenezer and Aphek, kill Hophni and Phinehas, and take the ark — [[The Ark Is Captured]].
 - Set the ark beside Dagon at Ashdod; struck with tumors and confusion at Ashdod, Gath, and Ekron — [[The Ark Among the Philistines]].
+- Hold a garrison at the hill of God when Saul is anointed — [[Samuel Anoints Saul]].
 
 ## Appears in
 
@@ -206,6 +218,7 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
 - [[The Ark Returns to Israel]] — 1 Samuel 6:1–18; the priests' counsel, the trespass offering, the cart test, the lords at the border.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder at Mizpah, the Philistines subdued.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:16; the people Saul is to save Israel from.
+- [[Samuel Anoints Saul]] — 1 Samuel 10:5; their garrison at the hill of God.
 
 ## Related people
 

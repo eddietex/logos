@@ -38,6 +38,7 @@ Source: stored WEB Joshua 19:1–23. No precise modern site is assigned.
 ## Related places
 - [[Kishon]] — where Sisera's chariots wait below (Judges 4:7, 13).
 - [[The Jordan]] — see the same tribal register.
+- [[The Oak of Tabor]] — on the road to Bethel (1 Samuel 10:3); kept apart from the mountain.
 
 ## Events here
 - Barak's ten thousand gather and descend against Sisera (Judges 4:6–14).

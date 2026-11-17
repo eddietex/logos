@@ -148,10 +148,13 @@ sets over a person** — and the narrator adds *"to this day."* **The loved wife
 roadside and the unloved one is buried with the patriarchs.** See
 [[Buried at Machpelah - The Six Graves of Genesis]] and [[Leah]].
 
-**And where that roadside is, is disputed.** 1 Samuel 10:2 puts her tomb *"in the border of Benjamin
+**And where that roadside is, is disputed.** 1 Samuel 10:2 puts her tomb *"on the border of Benjamin
 at Zelzah"* and Jeremiah 31:15 hears her at **Ramah**, both ten miles north of Bethlehem and on the
 other side of Jerusalem; Matthew 2:18 reads the southern identification. **The wiki lays out all
-three and adopts none**; see [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and [[Bethlehem]].
+three and adopts none**; see [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]], [[Bethlehem]], and
+[[Rachel's Tomb]]. The 1 Samuel verse is now ingested in [[Samuel Anoints Saul]]: the tomb is the place of the
+first of Saul's three signs, where two men tell him the donkeys are found. **Benjamin's first king receives his
+first sign at the grave of Benjamin's mother.** The text does not draw the line itself.
 
 **Two things this chapter does not say about her.** The household purges its *"foreign gods"* at 35:2–4
 and **Genesis never accounts for the *teraphim* she stole at 31:19** — a purge of household gods four
@@ -283,6 +286,8 @@ over the killing of the infants at Bethlehem. See
   [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
 - [[Boaz Redeems at the Gate]] — Ruth 4:11; *like Rachel and like Leah, which both built the house of Israel*, named first.
+- [[Samuel Anoints Saul]] — 1 Samuel 10:2; her tomb, *on the border of Benjamin at Zelzah*, is the place of Saul's
+  first sign
 
 ## Related people
 

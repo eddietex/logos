@@ -6,6 +6,21 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Spirit on the anointed — 1 Samuel 10:6, 9–10
+
+*Then Yahweh's Spirit will come mightily on you, and you will prophesy with them, and will be turned into another
+man* (10:6). The verb is *ṣālaḥ*, the verb of Samson's three rushes (Judges 14:6, 19; 15:14). After Samson it is
+used first of Saul (10:6, 10; WLC). With Samson it was followed by strength; with Saul it is followed by
+prophesying among a band of prophets (10:10). The change is told twice in different terms: the promise says Saul
+*will be turned into another man*, and the narrator says *God gave him another heart* when he turned to go (10:9).
+That comes before any of the signs happen. For the first time in the books stored so far, the Spirit comes on a
+man right after an anointing with oil. The next time, with David, it is said to stay *from that day forward*
+(16:13, stored WEB; not yet ingested). See [[Samuel Anoints Saul]] and
+[[The Spirit Rushed on Him - Samson, Saul, and David]].
+
+Source: stored WEB 1 Samuel 10:6–10; 16:13; Judges 14:6, 19; 15:14. Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
+
 ### He didn't know that Yahweh had departed — Judges 16:20
 
 The Spirit *came mightily on* Samson at Timnah, Ashkelon, and Lehi (14:6, 19; 15:14). In the Delilah
@@ -158,6 +173,7 @@ verbs (WLC); those sections are written as their pericopes arrive. Gideon's (6:3
 
 ## Key passages
 
+- [[Samuel Anoints Saul]] — 1 Samuel 10:6, 10; the Spirit *came mightily* on Saul after his anointing, and he prophesied.
 - [[Samson and Delilah]] — Judges 16:20; *he didn't know that Yahweh had departed from him*.
 - [[Jephthah's Vow]] — Judges 11:29; the Spirit on Jephthah, followed by his vow.
 - [[The Fall of Abimelech]] — Judges 9:23; *God sent an evil spirit between Abimelech and the men of Shechem*.

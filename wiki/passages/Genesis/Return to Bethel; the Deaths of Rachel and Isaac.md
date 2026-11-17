@@ -299,7 +299,7 @@ loved wife is the one left on the roadside and the unloved one is buried with th
 [[Buried at Machpelah - The Six Graves of Genesis]], [[Machpelah]], and [[Leah]].
 
 ***"(also called Bethlehem)"*** **is a gloss, and it is the most disputed three words in the
-chapter.** 1 Samuel 10:2 puts Rachel's tomb *"in the border of Benjamin at Zelzah"*, ten miles north
+chapter.** 1 Samuel 10:2 puts Rachel's tomb *"on the border of Benjamin at Zelzah"*, ten miles north
 of Bethlehem and on the other side of Jerusalem; Jeremiah 31:15 hears her weeping at **Ramah**, in the
 same northern district; and Matthew 2:18 applies Jeremiah's verse to the infants of **Bethlehem**.
 **The wiki lays out the three locations and adopts none.** See the new connection page
@@ -656,7 +656,7 @@ shown getting either of them back.
   reconcile them.
 - **A geographical contradiction flagged and not resolved: where Rachel is buried.** Genesis 35:19 and
   48:7 gloss *Ephrath* as *Bethlehem*, six miles south of Jerusalem; 1 Samuel 10:2 puts the tomb
-  *"in the border of Benjamin at Zelzah"*, and Jeremiah 31:15 hears her at Ramah — both ten or more
+  *"on the border of Benjamin at Zelzah"*, and Jeremiah 31:15 hears her at Ramah — both ten or more
   miles north, on the other side of the city. **The new connection page lays out all three and adopts
   none**; the wiki notes only that Matthew 2:18 reads the southern identification and that the gloss
   is the kind of aside 12:6 and 28:19 have already shown this narrator making for a later reader.

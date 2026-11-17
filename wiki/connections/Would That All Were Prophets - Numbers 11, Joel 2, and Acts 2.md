@@ -9,6 +9,8 @@ tags: [connection]
 
 - [[The Seventy Elders and the Quail]] — Numbers 11:29; *"I wish that all Yahweh's people were prophets, that Yahweh would put his
   Spirit on them!"*
+- [[Samuel Anoints Saul]] — 1 Samuel 10:5–6, 10; a band of prophets, and *Yahweh's Spirit will come mightily on
+  you, and you will prophesy with them* (stored WEB)
 - **Joel 2:28–29** — *"I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy."* (WEB; Joel 3:1–2 in
   Hebrew) *(not yet ingested)*
 - **Acts 2:17–18** — Peter quoting Joel at Pentecost (WEB) *(not yet ingested)*
@@ -38,3 +40,16 @@ could not have made. See [[The Spirit of God]], [[Prophecy and Vision]], and
 
 Sources: WEB of Numbers from `raw/bible/`; Joel and Acts at bible-api.com (`translation=web`), 2026-11-01. Hebrew from WLC (morphhb);
 Rahlfs from the eliranwong LXX-Rahlfs-1935 repository; Acts from SBLGNT.
+
+### 1 Samuel 10 — the next group who prophesy
+
+After Numbers 11, the next people to prophesy as a group are the band Saul meets at the hill of God
+([[Samuel Anoints Saul]]). In the WLC files searched (Genesis through 2 Samuel, Ruth), the verb *nāḇāʾ* (lemma 5012)
+occurs only at Numbers 11:25–27 and in 1 Samuel (10:5–13; 18:10; 19:20–24). In both places the Spirit comes and
+people prophesy, the prophesying can be seen, and no words are reported. In Numbers the elders *did so no more*
+(11:25). In 1 Samuel Saul *finished prophesying* and went to the high place (10:13). Both texts treat it as an event
+with an end. The differences matter too. Moses' wish is that the Spirit would be on *all Yahweh's people*. Saul is
+one man, and onlookers find it strange that he is *among the prophets* (10:11). See
+[[Band of Prophets (of Samuel's time)]] and
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]]. Sources: stored WEB Numbers 11:25–29; 1 Samuel
+10:5–13. Hebrew WLC (`Gen` through `2Sam`, `Ruth`), 2026-11-17.

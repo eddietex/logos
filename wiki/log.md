@@ -28678,3 +28678,56 @@ only. The glosses of *nāḡîḏ* and *təšûrâ*, the range of *gibbôr ḥay
 proposed link of Shalishah with Baal Shalishah, the reading of 9:11–13 as an aborted betrothal scene, and the report
 of ancient versions at 9:25–26 are general knowledge, not checked, and are flagged where made. No Greek text,
 Septuagint, or Targum was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 9.26-10.16 — Samuel Anoints Saul
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+Samuel Anoints Saul, 9:26–10:16, ingested as planned. 1 Samuel is now 12 / 47.
+
+Created: passage [[Samuel Anoints Saul]]; people [[Saul's Uncle]] and [[Band of Prophets (of Samuel's time)]];
+places [[Rachel's Tomb]], [[Zelzah]], [[The Oak of Tabor]], and [[The Hill of God]]; connection
+[[Is Saul Also Among the Prophets - 1 Samuel 10.11-12 and 19.24]].
+
+Revised: book [[1 Samuel]] (box checked, overview paragraph, key themes, people, and places); people [[Saul]],
+[[Samuel]], [[Saul's Servant (of the lost donkeys)]], [[Kish (father of Saul)]], [[Rachel]], [[Benjamin]], and
+[[The Philistines]]; places [[Bethel]], [[Gilgal]], [[Ramah]], [[Gibeah (Benjamin)]], and [[Tabor]]; themes
+[[The Spirit of God]], [[Prophecy and Vision]], [[Kingship and Empire]], [[Signs and Wonders]],
+[[Call and Election]], [[Sacrifice and Offering]], and [[Wisdom]]; connections
+[[The Spirit Rushed on Him - Samson, Saul, and David]] (10:6, 10 now ingested and stored, new section),
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]], [[His King and His Anointed - Hannah's Song and David's]] (the
+vial of oil and the horn of oil), [[Would That All Were Prophets - Numbers 11, Joel 2, and Acts 2]],
+[[Asked of Yahweh - Samuel's Name and Saul's]] (*šāʾal* at 10:4, no wordplay claimed), and
+[[Two Tests of a Prophet - Deuteronomy 13.1-5 and 18.20-22]]. Also the Genesis passage
+[[Return to Bethel; the Deaths of Rachel and Isaac]] (quotation correction, below), `wiki/books/index.md`, People
+Index A-E and N-Z (one new row each; Saul's, the servant's, and Kish's rows extended in N-Z and F-M), Connections
+Index I-N (one new row) and A-C, D-H, O-S, T-Z (the passage appended to touched rows), the places index (four new
+rows; Bethel, Gilgal, and Ramah rows extended), the themes index, and the dashboard counts. Frontmatter totals: 498
+passages, 377 people, 608 places, 88 themes, 948 connections.
+
+Correction: four pages quoted 1 Samuel 10:2 as *"in the border of Benjamin at Zelzah"*; the stored WEB reads *on
+the border*. Fixed on [[Rachel]], [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] (twice), and
+[[Return to Bethel; the Deaths of Rachel and Isaac]] (twice). An earlier log entry quoting the old wording is left
+as written, since the log is append-only.
+
+Judgment calls: the boundary 9:26–10:16 stands; 10:17 moves to Mizpah and belongs with the lot. [[The Oak of Tabor]]
+is kept apart from [[Tabor]] (the Issachar mountain), and [[The Hill of God]] from [[Gibeah (Benjamin)]], since the
+text uses the common noun *giḇʿâ* (lemma 1389) and not the place name (1390). The uncle is not identified with Ner
+or Abner. The band of prophets gets a page qualified by period because a company of prophets recurs at 19:20; the
+two men at the tomb and the three pilgrims get none. The proverb is filed under [[Wisdom]], not [[Parables]],
+following the Parables page's own scope note.
+
+Recorded, not resolved: *do what your hand finds* (10:7) beside *wait seven days* (10:8), and 10:8's relation to
+11:14–15 and 13:8; the location of Rachel's tomb (Genesis 35:19 against 1 Samuel 10:2); the site of the hill of God;
+the meaning of *Who is their father?*; Saul's silence about the kingdom; the Philistine garrison against 7:13; the two
+origins of the proverb (10:12; 19:24), and 19:24 beside 15:35. No contradiction with an existing page was found
+beyond the quotation correction.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 10:22; 11:14–15; 13:3–4, 8–14; 14:50–51; 15:35;
+16:13–14; 18:10–11; 19:18–24; 24:6; 25:1. Comparisons from stored WEB Genesis 12:6; 13:18; 18:1; 35:8, 16–20;
+Leviticus 10:4; 25:49; Numbers 11:25–29; 23:7; Deuteronomy 13:1–3; 18:22; 28:37; 32:9; Judges 4:5; 6:12, 17; 9:33,
+37; 14:6, 19; 15:14. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML,
+2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, and `2Sam`; occurrence
+claims cover those files only. 2 Kings 9:1, 3 cited by reference only. General knowledge, not checked, and flagged
+where made: the longer Septuagint text at 10:1, the readings of *Who is their father?*, the uncle as Ner, the sense of
+*nəṣîḇ*, the identifications of the hill of God and of the oak of Tabor, the traditional site of Rachel's tomb, and
+the two-traditions reading of the proverb. No Greek text, Septuagint, or Targum was consulted.

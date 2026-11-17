@@ -14,6 +14,7 @@ tags: [connection]
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of
   Yahweh*. Stored WEB.
 - [[Saul Comes to the Seer]] — 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB.
+- [[Samuel Anoints Saul]] — 1 Samuel 10:4 — *They will greet you*, literally *ask you of peace*. Stored WEB.
 - [[Israel Asks for a King]] — 1 Samuel 8:10 — *Samuel told all Yahweh's words to the people who asked him for a king*. Stored
   WEB.
 - [[The Song of Hannah]] — 1 Samuel 2:10, *his king … his anointed*, sung before any king is asked for.
@@ -83,3 +84,11 @@ side of the request: Yahweh *sends* the man (9:16). See [[Saul Comes to the Seer
 Sources: stored WEB 1 Samuel 1:17, 20, 27–28; 2:20; 8:5–6, 10; 9:2; 12:13, 17, 19; Exodus 2:10. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb) `1Sam` XML, downloaded 2026-11-17. The scholarly proposals about
 the story's origin are recalled and not verified.
+
+### 1 Samuel 10:4 — asked of peace
+
+The first *šāʾal* after Saul is named comes in [[Samuel Anoints Saul]]. The three pilgrims at the oak of Tabor *will
+greet you*, *wəšāʾălû ləḵā ləšālôm* (10:4, WLC), literally *they will ask you of peace*. It is the ordinary idiom of
+greeting, and the narrative makes nothing of it. The wiki notes that the root occurs and claims no wordplay. *Šāʾal*
+does not occur in 10:14–16, where the uncle *said … Where did you go?* and *Please tell me* (WLC). Sources: stored
+WEB 1 Samuel 10:4, 14–16; Hebrew WLC (`1Sam.xml`), 2026-11-17.

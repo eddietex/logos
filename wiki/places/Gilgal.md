@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### Wait seven days — 1 Samuel 10:8
+
+*Go down ahead of me to Gilgal; and behold, I will come down to you, to offer burnt offerings, and to sacrifice
+sacrifices of peace offerings. Wait seven days, until I come to you, and show you what you are to do* (10:8). The
+instruction comes right after *do what is appropriate for the occasion* (10:7), and nothing is said of it again
+until Gilgal returns: the kingdom is renewed there with peace offerings (11:14–15), and Saul waits *seven days,
+according to the time set by Samuel* (13:8) (stored WEB; not yet ingested). How 10:8 relates to either later scene
+the text does not say. See [[Samuel Anoints Saul]]. Source: stored WEB 1 Samuel 10:7–8; 11:14–15; 13:8.
+
 ### On Samuel's circuit — 1 Samuel 7:16
 
 Gilgal is the second town of Samuel's yearly circuit, *Bethel, Gilgal, and Mizpah* (7:16), *wəhaggilgāl* (WLC,
@@ -107,6 +116,7 @@ This page holds every Gilgal for now. If later books make a second Gilgal clear,
 both pages qualified.
 
 ## Appears in
+- [[Samuel Anoints Saul]] — 1 Samuel 10:8; Saul told to wait there seven days for Samuel.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:16; on Samuel's yearly circuit.
 - [[Ehud and Eglon]] — Judges 3:19, 26; *the stone idols that were by Gilgal*.
 - [[The Angel at Bochim]] — Judges 2:1; the angel comes up from here.
@@ -140,3 +150,4 @@ both pages qualified.
 - Israel's first camp west of the Jordan — Joshua 4:19, [[The Twelve Stones from the Jordan]].
 - Yahweh's angel comes up from Gilgal to Bochim — Judges 2:1, [[The Angel at Bochim]].
 - Samuel judges Israel there on his yearly circuit — 1 Samuel 7:16, [[Samuel Judges Israel at Mizpah]]
+- Saul told to go down ahead of Samuel and wait seven days — 1 Samuel 10:8, [[Samuel Anoints Saul]]
