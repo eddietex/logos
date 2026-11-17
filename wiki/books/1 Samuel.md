@@ -110,6 +110,17 @@ all the days of Samuel* (7:13), a summary the Philistine wars of chapters 9–14
 ends on a judge's notice: a yearly circuit of Bethel, Gilgal, and Mizpah, and a house and altar at Ramah
 (7:15–17). Deliverance has come without a king, and the next chapter asks for one.
 
+[[Israel Asks for a King]] (8:1–22) makes the request. *When Samuel was old, he made his sons judges*, and Joel
+and Abijah, at Beersheba, *took bribes, and perverted justice* (8:1–3), as Eli's sons had abused the altar.
+*All the elders of Israel* come to Ramah: *make us a king to judge us like all the nations* (8:5), the words
+of Deuteronomy 17:14. It displeases Samuel; Yahweh tells him three times to *listen to their voice*, *for they
+have not rejected you, but they have rejected me as the king over them* (8:7). Samuel describes *the way of the
+king*, *mišpaṭ hammeleḵ*, in one verb, *he will take*: sons, daughters, the best fields, a tenth of seed and
+flock, *and you will be his servants*; *you will cry out in that day because of your king whom you will have
+chosen*, *and Yahweh will not answer you* (8:11–18), the reverse of Mizpah's *Yahweh answered him* (7:9). The
+people refuse: *we will have a king … that our king may judge us, and go out before us, and fight our battles*
+(8:19–20). Yahweh says *make them a king*, and Samuel sends everyone home (8:22).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -141,7 +152,7 @@ merge, or reorder them freely.
 - [x] [[The Ark Among the Philistines]] — 1 Samuel 5:1–12
 - [x] [[The Ark Returns to Israel]] — 1 Samuel 6:1–7:1
 - [x] [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:2–17
-- [ ] Israel Asks for a King — 1 Samuel 8:1–22
+- [x] [[Israel Asks for a King]] — 1 Samuel 8:1–22
 - [ ] Saul Comes to the Seer — 1 Samuel 9:1–25
 - [ ] Samuel Anoints Saul — 1 Samuel 9:26–10:16
 - [ ] Saul Chosen by Lot at Mizpah — 1 Samuel 10:17–27
@@ -217,6 +228,11 @@ merge, or reorder them freely.
 - [[Mediation and Advocacy]] — *Samuel cried to Yahweh for Israel; and Yahweh answered him* (7:9)
 - [[Remembrance]] — the stone Ebenezer, *Yahweh helped us until now* (7:12)
 - [[Strife and Peacemaking]] — *peace between Israel and the Amorites* (7:14)
+- [[The Nations]] — *a king to judge us like all the nations* (8:5, 20)
+- [[Wealth and Possessions]] — the sons' *dishonest gain*; the king who *will take* (8:3, 11–17)
+- [[Tithing]] — the king's tenth (8:15, 17)
+- [[Slavery and Servitude]] — *you will be his servants* (8:17)
+- [[Call and Election]] — *your king whom you will have chosen for yourselves* (8:18)
 
 ## Key people
 - [[Samuel]]
@@ -238,13 +254,14 @@ merge, or reorder them freely.
 - [[David]]
 - [[Baal (deity)]] and [[Ashtoreth (deity)]] — *the Baals and the Ashtaroth*, put away (7:3–4)
 - [[The Amorites]] — at peace with Israel (7:14)
+- [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]] — Samuel's sons, judges at Beersheba (8:2–3)
 
 ## Key places
 - [[Shiloh]]
-- [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home; Samuel's house and altar (7:17)
+- [[Ramah]] — *Ramathaim Zophim* (1:1), Elkanah's and Samuel's home; Samuel's house and altar (7:17); the elders' request (8:4)
 - [[The Hill Country of Ephraim]]
 - [[Egypt]] — where Yahweh revealed himself to the house of Eli's father (2:27)
-- [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20)
+- [[Dan (city)]] and [[Beersheba]] — *all Israel from Dan even to Beersheba* (3:20); Samuel's sons judge at Beersheba (8:2)
 - [[Ebenezer]] and [[Aphek]] — the opposing camps of the battle where the ark is taken (4:1); Ebenezer named at 7:12
 - [[Ashdod]], [[Gath]], and [[Ekron]] — the three Philistine cities the ark passes through (5:1–12)
 - [[The Land of the Philistines]] — where the ark stays *seven months* (6:1)

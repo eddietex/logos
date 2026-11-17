@@ -19,8 +19,8 @@ tags: [connection]
 - [[Abimelech Made King at Shechem]] — **Judges 9:2, 6** — Abimelech's *"Is it better for you that all
   the sons of Jerubbaal, who are seventy persons, rule over you, or that one rule over you?"* … *and
   went and made Abimelech king* (stored WEB)
-- **1 Samuel 8:7** — *"they have not rejected you, but they have rejected me as the king over them."*
-  (WEB checked at bible-api.com; not yet ingested)
+- [[Israel Asks for a King]] — **1 Samuel 8:7** — *"they have not rejected you, but they have rejected me as the king
+  over them."* (stored WEB)
 - **1 Samuel 12:12** — *"you said to me, 'No, but a king shall reign over us;' when Yahweh your God was
   your king."* (WEB checked at bible-api.com; not yet ingested)
 - [[Jotham's Fable]] — **Judges 9:8, 14–15** — *The trees set out to anoint a king over themselves* … *Then all
@@ -35,8 +35,10 @@ that Israel has *rejected me as the king over them*. Gideon's refusal states, be
 made to Samuel, the principle Samuel will be told: the ruler of Israel is Yahweh.
 
 The vocabulary differs. Judges 8:22–23 uses *māšal*, *rule*, four times, and neither *melek*, *king*,
-nor *mālak*, *reign* (WLC). WEB's 1 Samuel 8:7 says *king*; its Hebrew was not checked in this pass,
-since 1 Samuel was not searched. The wiki therefore claims an agreement of idea, not of wording. In the WLC of Genesis–Judges, Judges 8:23 is the
+nor *mālak*, *reign* (WLC). 1 Samuel 8:7 has *mālaḵ*: *ʾōṯî māʾăsû mimməlōḵ ʿălêhem*,
+*they have rejected me from reigning over them* (WLC, checked 2026-11-17), where the WEB's *as the
+king* renders the infinitive. 12:12 has *mālaḵ* and *meleḵ*: *meleḵ yimlōḵ ʿālênû wayHWH ʾĕlōhêḵem
+malkəḵem* (WLC). The two books use different verbs, so the agreement remains one of idea, not of wording. In the WLC of Genesis–Judges, Judges 8:23 is the
 only verse in which Yahweh is the subject of *māšal*.
 
 The irony in Judges 8 is that the offer itself breaks the rule Judges 7 set. Yahweh reduced the army
@@ -78,11 +80,12 @@ Hebrew WLC (OpenScriptures morphhb), 2026-11-15.
   8:23 says why there is none: Yahweh rules.
 - **The refusal and the conduct are both recorded.** Gideon's words and his ephod, wives, and son's name
   sit in one pericope. The wiki does not reduce either to the other.
-- **1 Samuel 8 will read differently with this in view.** When that pericope is ingested, its *they have
-  rejected me* should be read against Gideon's *Yahweh shall rule over you*; the wiki has not yet
-  checked the Hebrew of 1 Samuel.
+- **1 Samuel 8, read with this in view.** Gideon refused rule for himself and his son; Samuel, in 8:1,
+  appoints his sons as judges, and their corruption is one occasion of the request. Yahweh's *they have
+  rejected me* (8:7) states as a charge what Gideon stated as a principle, with *mālaḵ* in place of *māšal*
+  (WLC). See [[Israel Asks for a King]].
 
 Sources: stored WEB Genesis 37:8; Deuteronomy 17:14–20; Judges 7:2; 8:22–23, 26, 30, 34; 9:2, 6; 17:6.
-1 Samuel 8:7 and 12:12 checked at bible-api.com (WEB), 2026-11-15. Hebrew of Genesis–Judges from the
-Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15; the Hebrew of 1 Samuel was not
-consulted.
+1 Samuel 8:7 and 12:12 checked at bible-api.com (WEB), 2026-11-15, and against stored WEB, 2026-11-17.
+Hebrew of Genesis–Judges from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15; Hebrew
+of 1 Samuel 8:1, 7 and 12:12 from the same source, 2026-11-17.

@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *That we also may be like all the nations* — 1 Samuel 8:5, 20
+
+The elders ask for *a king to judge us like all the nations*, *kəḵol-haggôyim* (8:5, WLC), and when warned
+they say it again: *that we also may be like all the nations* (20). Deuteronomy had anticipated the words
+(17:14) and elsewhere warned Israel not to imitate the nations (12:30; 18:9). See [[Israel Asks for a King]] and
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]].
+Source: stored WEB 1 Samuel 8:5, 20; Deuteronomy 12:30; 17:14; 18:9. Hebrew WLC, 2026-11-17.
+
 ### Philistine priests who read the Exodus — 1 Samuel 6:2–9
 
 The Philistine priests and diviners advise the right things: restitution, *give glory to the God of
@@ -692,6 +700,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Israel Asks for a King]] — 1 Samuel 8:5, 20; *like all the nations*.
 - [[The Ark Returns to Israel]] — 1 Samuel 6:2–9; the Philistine priests counsel glory to the God of Israel.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:7–11; the Philistines confess the God of Israel's hand on them and on Dagon.
 - [[The Ark Is Captured]] — 1 Samuel 4:6–9; the Philistines fear Israel's *mighty gods*, and fight.

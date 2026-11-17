@@ -132,7 +132,7 @@ Connection pages filed under O–S, ignoring a leading *A*, *An*, or *The*. Part
 | [[Shall Not the Judge of All the Earth Do Right]] | thread | Genesis 18:23–25 · Exodus 9:27 · Exodus 32:9–14 · Numbers 14:13–20; 16:22 · Amos 7:1–6 · Jeremiah 5:1 · Ezekiel 14:12–20; 18:1–32 · Job 9:22–24; 34:10–19 · Romans 3:5–6 · [[The Golden Calf]] (Exodus 32:9–14, 30–34) · [[Jephthah's Message to the King of Ammon]] |
 | [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]] | thread | Job 2:10 · Job 1:21 · Isaiah 45:7 · Lamentations 3:37–38 · Amos 3:6 · Deuteronomy 32:39 · 1 Samuel 2:6–7 · Ecclesiastes 7:14 · Genesis 50:20 · 2 Corinthians 12:7–9 · [[The Song of Hannah]] |
 | [[Shaved Heads and Fulfilled Days - Numbers 6 and Acts 18 and 21]] | comparison | [[The Nazirite Vow]] (Numbers 6:5, 13–18) · Acts 18:18 · Acts 21:23–26 |
-| [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]] | thread | [[Joshua Commissioned]] (Numbers 27:17) · 1 Kings 22:17 · Matthew 9:36 · Mark 6:34 |
+| [[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]] | thread | [[Joshua Commissioned]] (Numbers 27:17) · 1 Kings 22:17 · Matthew 9:36 · Mark 6:34 · [[Israel Asks for a King]] |
 | [[The Shepherd's Liability - Genesis 31.39 and the Law of Exodus 22]] | parallel | Genesis 31:38–40 · Exodus 22:10–13 · Exodus 22:31 · Amos 3:12 · John 10:11–13 |
 | [[Shiloh Forsaken - 1 Samuel 4, Psalm 78.60-64, and Jeremiah 7.12-14]] | thread | [[The Ark Is Captured]] (1 Samuel 4:1b–22) · Psalm 78:60–64 · Jeremiah 7:12–14 · [[The Ark Among the Philistines]] (Psalm 78:66) |
 | [[The Shining Face and the Veil - Exodus 34 and 2 Corinthians 3]] | interpretation and tension | Exodus 34:1–35 · 2 Corinthians 3:1–18 |

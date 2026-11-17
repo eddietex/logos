@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The king's tenth — 1 Samuel 8:15, 17
+
+Samuel warns that a king *will take one tenth of your seed, and of your vineyards, and give it to his
+officers* (8:15), and *one tenth of your flocks* (17). The verb is *ʿāśar*, *yaʿśōr* (WLC), which in the WLC
+files searched (Genesis through 2 Kings, Ruth, Psalms) occurs elsewhere only at Genesis 28:22 and Deuteronomy
+14:22; 26:12, each time of a tenth given to Yahweh. Here the tenth goes to the crown, and with it *you will be
+his servants* (17). See [[Israel Asks for a King]] and [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]].
+Source: stored WEB 1 Samuel 8:1–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 Giving a tenth — and in the Bible, a practice that exists for two full generations before anybody
 is told to do it.
 
@@ -100,6 +109,7 @@ See [[Vows, Valuations, and Devoted Things]]. Source: stored WEB Leviticus 27.
 
 ## Key passages
 
+- [[Israel Asks for a King]] — 1 Samuel 8:15, 17; the king's tenth of seed, vineyards, and flocks.
 - [[The Place Yahweh Will Choose]] — Deuteronomy 12:1–28; tithes eaten before Yahweh at the chosen place (17–18).
 - [[The Duties and Portions of Priests and Levites]] — Numbers 18:1–32.
 

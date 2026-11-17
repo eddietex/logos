@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The request for a king, set beside the other gods — 1 Samuel 8:7–8
+
+Yahweh puts the request for a king in the line of Israel's idolatry: *they have rejected me as the king over
+them. According to all the works which they have done since the day that I brought them up out of Egypt even
+to this day, in that they have forsaken me, and served other gods, so they also do to you* (8:7–8). The
+chapter before, Israel had put away the Baals and the Ashtaroth and *served Yahweh only* (7:4). The wiki notes
+that the text compares the two acts as forsaking; it does not call the king an idol. See [[Israel Asks for a King]].
+Source: stored WEB 1 Samuel 8:1–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The foreign gods put away at Mizpah — 1 Samuel 7:3–4
 
 Samuel makes return to Yahweh conditional on an act: *If you are returning to Yahweh with all your heart, then
@@ -635,6 +644,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Israel Asks for a King]] — 1 Samuel 8:7–8; *forsaken me, and served other gods, so they also do to you*.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–4; the foreign gods, the Baals, and the Ashtaroth put away; *serve him only*.
 - [[The Ark Among the Philistines]] — 1 Samuel 5:2–7; Dagon twice fallen before the ark, set up again by hand, and broken.
 - [[The Danite Migration]] — Judges 18:14–20, 24, 30–31; Micah's image, ephod, and teraphim taken and set up at Dan.

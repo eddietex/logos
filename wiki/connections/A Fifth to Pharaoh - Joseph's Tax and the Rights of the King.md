@@ -10,8 +10,8 @@ tags: [connection]
 - **Genesis 41:33–36** — the fifth proposed, as a seven-year emergency measure —
   [[Pharaoh's Dreams and Joseph's Rise]]
 - **Genesis 47:20–26** — the fifth made permanent law, *to this day* — [[Joseph and the Famine]]
-- **1 Samuel 8:10–18** — *"This will be the way of the king"*: a tenth of the seed, a tenth of the
-  flocks, *"and you shall be his servants"*
+- [[Israel Asks for a King]] — **1 Samuel 8:10–18** — *"This will be the way of the king"*: a tenth of the seed, a
+  tenth of the flocks, *"and you will be his servants"*
 - **1 Kings 12:3–4, 10–11** — *"Your father made our yoke grievous"*: the tax that splits the kingdom
 - Compare **Deuteronomy 17:14–20** — the law of the king, which forbids accumulation instead of
   regulating it
@@ -57,12 +57,12 @@ thing in the Bible to a commentary on Genesis 47, and it reads like an abridgeme
 | | **Genesis 47** | **1 Samuel 8:11–17** |
 |---|---|---|
 | **the fields** | *"Joseph bought all the land of Egypt for Pharaoh"* (47:20) | *"He will take your fields, your vineyards, and your olive groves"* (8:14) |
-| **the herds** | *"They brought their livestock to Joseph"* (47:17) | *"He will take the tenth of your flocks"* (8:17) |
-| **the harvest** | *"You shall give a fifth to Pharaoh"* (47:24) | *"He will take the tenth of your seed"* (8:15) |
+| **the herds** | *"They brought their livestock to Joseph"* (47:17) | *"He will take one tenth of your flocks"* (8:17) |
+| **the harvest** | *"You shall give a fifth to Pharaoh"* (47:24) | *"He will take one tenth of your seed"* (8:15) |
 | **the people** | *"we and our land will be servants to Pharaoh"* (47:19) | *"and you will be his servants"* (8:17) |
 | **the verdict** | *"You have saved our lives!"* (47:25) | *"You will cry out in that day because of your king"* (8:18) |
 
-**The vocabulary of the last row is the same in both.** ***ʿăbādîm*** — *servants*, *slaves* — **is
+**The vocabulary of the fourth row is the same in both.** ***ʿăbādîm*** — *servants*, *slaves* — **is
 what the Egyptians volunteer to become and what Samuel warns Israel it will become.** **The
 difference is that Egypt says it in gratitude and Israel is told it will say it in grief.**
 
@@ -121,3 +121,7 @@ universal thanks.**
 **The wiki holds all three and adopts none**, and notes that the first reader to put Genesis 47 and
 1 Samuel 8 side by side did not need to add anything to either. See [[Kingship and Empire]],
 [[Wealth and Possessions]] and [[Wisdom]].
+
+1 Samuel 8 quotations corrected against stored WEB, 2026-11-17 (*one tenth*, *you will be*); the
+shared noun *ʿăḇāḏîm* in Genesis 47:19, 25 and 1 Samuel 8:17 checked in the WLC (OpenScriptures
+morphhb), 2026-11-17.

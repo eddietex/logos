@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Prayer that is answered, and a cry that will not be — 1 Samuel 8:6, 18, 21
+
+When the elders ask for a king, *Samuel prayed to Yahweh* (8:6), with the verb of his intercession at Mizpah
+(7:5), *hiṯpallēl* (WLC); Yahweh answers him at once (7–9). After the people refuse his warning, *he rehearsed
+them in the ears of Yahweh* (21). Between the two stands a warning about prayer: *You will cry out in that day
+because of your king … and Yahweh will not answer you in that day* (18). The verbs are those of 7:9, *Samuel
+cried to Yahweh for Israel; and Yahweh answered him*, *zāʿaq* and *ʿānâ* (WLC), the second now negated. See [[Israel Asks for a King]].
+Source: stored WEB 1 Samuel 8:1–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *I will pray to Yahweh for you* — 1 Samuel 7:5–9
 
 Eli's question, *who will intercede for him?* (2:25), gets its first answer in Samuel: *Gather all Israel to
@@ -499,6 +508,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[Israel Asks for a King]] — 1 Samuel 8:6, 18, 21; Samuel prays about the request; the cry Yahweh will not answer.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:5–9; *I will pray to Yahweh for you*; *Samuel cried to Yahweh for Israel; and Yahweh answered him*.
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *who will intercede for him?*, the verb of Hannah's prayer.
 - [[The Song of Hannah]] — 1 Samuel 2:1; *Hannah prayed*, and the prayer is a song with no request.

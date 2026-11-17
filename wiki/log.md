@@ -28581,3 +28581,51 @@ Joshua 4:1–9, 19; 24:23, 26; Judges 1:34–36; 2:13, 16–19; 3:9, 15, 30; 4:4
 stored in raw. Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) XML,
 2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `2Kgs`,
 and `Ps`; occurrence claims cover those files only. No Greek text, Septuagint, or Targum was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 8.1-22 — Israel Asks for a King
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+Israel Asks for a King, 8:1–22, ingested as planned. 1 Samuel is now 10 / 47.
+
+Created: passage [[Israel Asks for a King]]; people [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]];
+connection [[Not in His Ways - The Sons of Eli and the Sons of Samuel]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes, people, and places); person [[Samuel]] (new
+section, timeline, appears in, related people, themes); places [[Beersheba]], [[Ramah]], and [[Egypt]]; themes
+[[Kingship and Empire]] (new section; the 7:13–17 section's *not yet ingested* note on 8:20 removed),
+[[Prayer]], [[Tithing]], [[Slavery and Servitude]], [[Wealth and Possessions]], [[Idolatry]], [[The Nations]],
+[[War]], and [[Call and Election]]; connections
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]] (8:7 now quoted; new paragraph on *bāḥar*
+and the horses), [[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]] (the Hebrew of 8:7 and 12:12,
+earlier marked unchecked, now checked: *mālaḵ*, not *māšal*),
+[[Asked of Yahweh - Samuel's Name and Saul's]] (answers its own open question: within chapter 8 *šāʾal* occurs
+only at 8:10, in the narrator's voice; the pairing is explicit only at 12:13, 17, 19),
+[[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]] (link; two misquotations of 8:15, 17 corrected to
+the WEB's *one tenth*, *you shall be* corrected to *you will be*, and *the last row* corrected to *the fourth row*
+of its table), [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]] (new section on 8:3), and
+[[Sheep Without a Shepherd - Numbers 27.17, 1 Kings 22.17, and the Gospels]] (8:20 added). Also
+`wiki/books/index.md`, People Index A-E and F-M (one new row each) and N-Z, Connections Index I-N (one new row)
+and A-C, T-Z, the places and themes indexes (the passage appended to each touched row), and the dashboard counts.
+Frontmatter totals: 496 passages, 372 people, 601 places, 88 themes, 946 connections.
+
+Judgment calls: the boundary 8:1–22 stands; 9:1 opens a new scene with Kish. Joel and Abijah get pages, qualified
+by their father: Abijah because a son of Jeroboam bears the name at 1 Kings 14:1, Joel because Joel is also a
+book (the patronymic makes `(person)` unnecessary). The book page for Joel does not exist yet, so the Joel page
+names the book in plain text rather than linking it. *All the elders of Israel* get no page, as at 4:3. The
+Genesis 21:11–12 parallel (*the thing was grievous in … sight*; *listen to her voice*) is offered as a parallel
+of wording and pattern, not of intent.
+
+Recorded, not resolved: whether Samuel's displeasure is personal, principled, or both; whether *mišpaṭ hammeleḵ*
+names a right or a practice; how 8:5's occasion relates to 12:12's Nahash; and how *they have rejected me* (8:7)
+relates to Deuteronomy 17's permission. No contradiction with an existing page was found; the corrections above
+were misquotations, not disagreements of substance.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 9:1–2; 10:19, 25; 12:2–3, 12–13, 17, 19.
+Comparisons from stored WEB Genesis 21:11–12; 28:22; 37:36; 47:19, 25; Exodus 18:21; Numbers 11:20; 27:17;
+Deuteronomy 1:30; 12:30; 14:22; 16:19; 17:14–16; 18:9; 26:12; Judges 2:11; 3:9, 15; 8:22–23; 21:25.
+1 Chronicles 6:28, 33 checked against the WEB at bible-api.com (`translation=web`), 2026-11-17; not stored in
+raw. 1 Kings 4:7; 9:22; 12:4; 21:1–16 cited by reference only, not quoted. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) XML, 2026-11-17, files `Gen`, `Exod`, `Lev`, `Num`,
+`Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `2Sam`, `1Kgs`, `2Kgs`, and `Ps`; occurrence claims cover those files
+only. Glosses of the names Joel and Abijah and the range of *mišpāṭ* are general knowledge, not checked against
+a lexicon, and are flagged where made. No Greek text, Septuagint, or Targum was consulted.

@@ -123,6 +123,26 @@ question. See [[Samuel Judges Israel at Mizpah]],
 
 Source: stored WEB 1 Samuel 2:25; 7:2–17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### Old, with sons who do not walk in his ways — 1 Samuel 8:1–22
+
+*When Samuel was old, he made his sons judges over Israel* (8:1): [[Joel (son of Samuel)]] and
+[[Abijah (son of Samuel)]], at Beersheba. They *turned away after dishonest gain, took bribes, and perverted
+justice* (8:3). The elders come to him at Ramah with both facts, *you are old, and your sons don't walk in
+your ways*, and ask for *a king to judge us like all the nations* (8:5). Like Eli, *very old* when he heard
+what his sons were doing (2:22), Samuel is introduced in old age beside sons who abuse their office; unlike
+Eli, he is not rebuked for them. See [[Not in His Ways - The Sons of Eli and the Sons of Samuel]].
+
+*The thing displeased Samuel*, literally *was evil in Samuel's eyes* (8:6, WLC), and he prays. Yahweh's
+answer takes the hurt out of his hands, *they have not rejected you, but they have rejected me as the king
+over them* (8:7), and tells him three times to *listen to their voice* (7, 9, 22). Samuel is the go-between
+in both directions: he tells *all Yahweh's words to the people who asked him for a king* (10), and *rehearsed*
+the people's words *in the ears of Yahweh* (21). His warning, *the way of the king*, is a list of what a king
+takes (11–17); in his farewell he will ask the people to witness that he has taken nothing (12:3, stored WEB;
+not yet ingested). He ends the assembly without naming a king: *Everyone go to your own city* (22). See
+[[Israel Asks for a King]].
+
+Source: stored WEB 1 Samuel 2:22; 8:1–22; 12:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
@@ -133,6 +153,7 @@ Source: stored WEB 1 Samuel 2:25; 7:2–17. Hebrew WLC (OpenScriptures morphhb),
 - Called four times by Yahweh at night in the temple at Shiloh; receives and tells the word against Eli's house; known *from Dan even to Beersheba* as a prophet — 3:1–4:1a.
 - Absent from the narrative of the ark's capture, which fulfils the word given to him — 4:1b–22.
 - Calls Israel to put away the Baals and the Ashtaroth; prays at Mizpah; offers a whole burnt offering; Yahweh thunders; sets up Ebenezer; judges Israel all his life from Ramah — 7:2–17.
+- Old, appoints his sons judges at Beersheba; the elders ask for a king; he prays, is told to listen, warns of *the way of the king*, and sends the people home — 8:1–22.
 
 ## Appears in
 
@@ -143,9 +164,11 @@ Source: stored WEB 1 Samuel 2:25; 7:2–17. Hebrew WLC (OpenScriptures morphhb),
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–4:1a.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–22 (not present; the fulfilment of his first word).
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:3–17; prophet, intercessor, priest, and judge at Mizpah.
+- [[Israel Asks for a King]] — 1 Samuel 8:1–22; his sons' corruption, the elders' request, and the way of the king.
 
 ## Related people
 
+- [[Joel (son of Samuel)]] and [[Abijah (son of Samuel)]] — his sons, corrupt judges at Beersheba (8:2–3)
 - [[Hannah]] — his mother
 - [[Elkanah (father of Samuel)]] — his father
 - [[Eli]] — the priest he is given to
@@ -165,3 +188,4 @@ Source: stored WEB 1 Samuel 2:25; 7:2–17. Hebrew WLC (OpenScriptures morphhb),
 - [[Priesthood]]
 - [[Mediation and Advocacy]]
 - [[Sacrifice and Offering]]
+- [[Kingship and Empire]]

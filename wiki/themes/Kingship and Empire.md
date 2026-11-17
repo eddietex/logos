@@ -6,12 +6,29 @@ tags: [theme]
 
 ## Definition / overview
 
+### Israel asks for a king — 1 Samuel 8:1–22
+
+The demand comes from *all the elders of Israel*, with two reasons: Samuel is old, and his sons, judges at
+Beersheba, *took bribes, and perverted justice* (8:3–5). They ask for *a king to judge us like all the nations*
+(5), in the words Deuteronomy put in Israel's mouth (17:14). Yahweh grants it three times, *Listen to their
+voice* (7, 9, 22), and names it: *they have not rejected you, but they have rejected me as the king over them*,
+*mimməlōḵ ʿălêhem*, *from reigning over them* (7, WLC). Samuel's warning, *the way of the king*, *mišpaṭ
+hammeleḵ* (9, 11), is a list of what the king will take: sons for chariots and fields, daughters for his
+kitchen, the best land for his servants, a tenth of seed and flock, *and you will be his servants* (11–17).
+*Whom you will have chosen*, *bəḥartem* (18), reverses Deuteronomy's *whom Yahweh your God chooses* (17:15,
+WLC). The people insist: *that our king may judge us, and go out before us, and fight our battles* (20), the
+two jobs Deuteronomy's king is not given. See [[Israel Asks for a King]],
+[[Like All the Nations - Deuteronomy 17.14 and 1 Samuel 8.5, 20]],
+[[Yahweh Shall Rule Over You - Judges 8.23 and 1 Samuel 8.7]], and
+[[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]].
+Source: stored WEB 1 Samuel 8:1–22; Deuteronomy 17:14–15. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Deliverance without a king — 1 Samuel 7:13–17
 
 The chapter before the demand for a king shows Israel delivered without one. Under Samuel *the Philistines were
 subdued*, lost towns are restored, and *Yahweh's hand was against the Philistines all the days of Samuel* (7:13–14),
 the formula of the judges (Judges 2:18). The people will ask for a king to *go out before us, and fight our
-battles* (8:20, stored WEB; not yet ingested), after a battle that Yahweh fought with thunder while Samuel
+battles* (8:20), after a battle that Yahweh fought with thunder while Samuel
 prayed. See [[Samuel Judges Israel at Mizpah]] and [[Between Ramah and Bethel - Deborah and Samuel as Judges]].
 Source: stored WEB Judges 2:18; 1 Samuel 7:10–17; 8:20. Hebrew WLC, 2026-11-17.
 
@@ -630,6 +647,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[Israel Asks for a King]] — 1 Samuel 8:1–22; the elders ask for a king *like all the nations*; *they have rejected me*; the way of the king.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:13–17; the Philistines subdued under a judge, on the eve of the demand for a king.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:35; the faithful priest *will walk before my anointed*, before Israel has a king.
 - [[The Song of Hannah]] — 1 Samuel 2:10; *his king … his anointed*, the first royal *māšîaḥ*, before Israel has a king.

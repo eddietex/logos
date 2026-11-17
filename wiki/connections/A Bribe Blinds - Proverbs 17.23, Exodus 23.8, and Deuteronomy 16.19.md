@@ -46,10 +46,27 @@ tags: [connection]
   words of the righteous."* — [[Judges, Worship, and Difficult Cases]]
 - [[Justice, Family Duty, Honest Weights, and Amalek]] — Deuteronomy 25:1; *"they shall justify the righteous, and condemn the
   wicked."*
+- [[Israel Asks for a King]] — 1 Samuel 8:3; Samuel's sons *turned away after dishonest gain, took bribes, and perverted
+  justice*.
 - **Isaiah 5:23** *(not yet ingested)* — the woe on those *"who acquit the guilty for a bribe, but deny
   justice for the innocent!"*
 
 ## Analysis
+
+### The law broken by a judge's sons — 1 Samuel 8:3
+
+The first judges in the historical books said to take a bribe are Samuel's sons: *wayyiṭṭû ʾaḥărê habbāṣaʿ
+wayyiqḥû-šōḥaḏ wayyaṭṭû mišpāṭ*, *turned away after dishonest gain, took bribes, and perverted justice* (8:3,
+WLC). The last two clauses are Deuteronomy 16:19's two prohibitions in reverse order, *lōʾ-ṯaṭṭeh
+mišpāṭ … wəlōʾ-ṯiqqaḥ šōḥaḏ* (WLC), and *beṣaʿ* is what Jethro's judges were to hate (Exodus 18:21). In the
+WLC files searched (Genesis through 2 Kings, Ruth, Psalms) *šōḥaḏ* occurs outside the Torah at 1 Samuel 8:3,
+1 Kings 15:19, 2 Kings 16:8, and Psalms 15:5; 26:10; in Kings it is a payment between kings. Their conduct is one
+of the two reasons the elders give for asking for a king (8:5). Samuel later asks the people to witness that
+he took no *kōp̄er*, *ransom*, *to make me blind my eyes* (12:3, stored WEB; not yet ingested), echoing the
+law's *a bribe blinds*. See [[Israel Asks for a King]] and [[Not in His Ways - The Sons of Eli and the Sons of Samuel]].
+
+Source: stored WEB 1 Samuel 8:3–5; 12:3; Exodus 18:21; Deuteronomy 16:19. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
 
 ### The assembly’s assent — Deuteronomy 27:11–26
 

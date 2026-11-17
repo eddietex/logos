@@ -14,6 +14,8 @@ tags: [connection]
 - [[The Sins of Eli's Sons]] — 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of
   Yahweh*. Stored WEB.
 - 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB; not yet ingested.
+- [[Israel Asks for a King]] — 1 Samuel 8:10 — *Samuel told all Yahweh's words to the people who asked him for a king*. Stored
+  WEB.
 - [[The Song of Hannah]] — 1 Samuel 2:10, *his king … his anointed*, sung before any king is asked for.
   Stored WEB.
 
@@ -48,7 +50,7 @@ I drew him out of the water* (Exodus 2:10), is another — so the mismatch is no
 consonants of *Šāʾûl*, Saul (9:2, WLC; Strong's numbers 7592 and 7586, distinguished only by the
 lexicon). Some interpreters have therefore proposed that the birth story was first told of Saul and later
 attached to Samuel; others read the wordplay as deliberate foreshadowing, the narrator pointing past
-Samuel to the king Israel will *ask for* (1 Samuel 8:10; 12:13, not yet ingested). Both proposals are
+Samuel to the king Israel will *ask for* (1 Samuel 8:10; 12:13, the latter not yet ingested). Both proposals are
 reported, not verified, and the wiki takes neither as fact. What the text itself shows is narrower: the
 book's opening chapter says *asked* five times and ends on the participle that is the next main
 character's name.
@@ -56,14 +58,23 @@ character's name.
 ## Significance
 
 The book's first child is *asked of Yahweh* and given back to him; its first king will be asked of Samuel
-by the people, against Samuel's will (8:6, not yet ingested). The same verb serves a mother's prayer and
-a nation's demand. When the people's request is ingested, this page should record whether the narrative
-itself sets the two askings side by side.
+by the people, against Samuel's will (8:6). The same verb serves a mother's prayer and
+a nation's demand.
+
+**What 1 Samuel 8 shows, now ingested.** In the request chapter itself *šāʾal* occurs once: *the people who
+asked him for a king*, *hāʿām haššōʾălîm mēʾittô meleḵ* (8:10, WLC). The elders' own words use other verbs,
+*śîmâ-lānû*, *set for us*, and *tənâ-lānû*, *give us* (8:5–6, WLC), and Samuel's displeasure is tied to the
+second. So the narrative does not put the two askings side by side in so many words; the narrator supplies
+the verb once, in his own voice. The pairing becomes explicit only in the farewell, where *šāʾal* names the
+request three times: *the king whom you have chosen, and whom you have asked for* (12:13); *your wickedness is
+great … in asking for a king* (12:17); *we have added to all our sins this evil, to ask for a king* (12:19)
+(stored WEB; WLC; not yet ingested). In the WLC of 1 Samuel the verb's other uses before chapter 8 are all in
+the Hannah story (1:17, 20, 27, 28; 2:20). See [[Israel Asks for a King]].
 
 Between the two askings stands Hannah's song, which names *his king* and *his anointed* (2:10) before the
 people ask for anyone. The king there is given by Yahweh, not demanded. See [[The Song of Hannah]] and
 [[His King and His Anointed - Hannah's Song and David's]].
 
-Sources: stored WEB 1 Samuel 1:17, 20, 27–28; 2:20; 9:2; Exodus 2:10. Hebrew from the Westminster
+Sources: stored WEB 1 Samuel 1:17, 20, 27–28; 2:20; 8:5–6, 10; 9:2; 12:13, 17, 19; Exodus 2:10. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb) `1Sam` XML, downloaded 2026-11-17. The scholarly proposals about
 the story's origin are recalled and not verified.

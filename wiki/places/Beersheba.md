@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### Samuel's sons judge there — 1 Samuel 8:2
+
+Samuel's sons Joel and Abijah *were judges in Beersheba* (8:2), far south of their father's circuit of Bethel,
+Gilgal, and Mizpah (7:16). There they *took bribes, and perverted justice* (8:3), and the elders' complaint
+leads to the request for a king. The text does not say why Beersheba. See [[Israel Asks for a King]].
+Source: stored WEB 1 Samuel 7:16; 8:1–5.
+
 ### All Israel knows a prophet — 1 Samuel 3:20
 
 The south end of the formula again: *All Israel from Dan even to Beersheba knew that Samuel was
@@ -95,6 +102,7 @@ is the standing formula for the whole land, north to south, and Beersheba is the
 every one of them.
 
 ## Appears in
+- [[Israel Asks for a King]] — 1 Samuel 8:2; Samuel's sons judge there.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:20; *from Dan even to Beersheba*.
 - [[The War Against Benjamin]] — Judges 20:1; *from Dan even to Beersheba*.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.

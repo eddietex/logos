@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Go out before us, and fight our battles* — 1 Samuel 8:11–12, 20
+
+The people want a king who will *go out before us, and fight our battles*, *wənilḥam ʾeṯ-milḥămōṯēnû* (8:20,
+WLC), a chapter after Yahweh fought the Philistines with thunder (7:10). Deuteronomy had said *Yahweh your
+God who goes before you, he will fight for you*, *hû yillāḥēm lāḵem* (1:30, WLC). Samuel's warning had already
+named the cost: sons for the king's chariots and horsemen, *captains of thousands, and captains of fifties*,
+and the making of *his instruments of war* (8:11–12). See [[Israel Asks for a King]].
+Source: stored WEB 1 Samuel 7:10; 8:11–12, 20; Deuteronomy 1:30. Hebrew WLC, 2026-11-17.
+
 ### A battle won by thunder — 1 Samuel 7:7–14
 
 The Philistines come up against an assembly gathered to fast, and Israel is *afraid* (7:7). No one musters an
@@ -956,6 +965,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Israel Asks for a King]] — 1 Samuel 8:11–12, 20; the king's army, and the king who will fight Israel's battles.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:7–14; thunder, confusion, pursuit; the Philistines subdued.
 - [[The Ark Is Captured]] — 1 Samuel 4:1b–11; two defeats before the Philistines, and the ark lost.
 - [[Wives for Benjamin]] — Judges 21:10–12; twelve thousand sent against Jabesh Gilead.

@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### *Since the day that I brought them up out of Egypt* — 1 Samuel 8:8
+
+Yahweh measures the request for a king against the whole history since the Exodus: *According to all the works
+which they have done since the day that I brought them up out of Egypt even to this day, in that they have
+forsaken me, and served other gods, so they also do to you* (8:8). Samuel then warns that under a king *you
+will be his servants* (8:17), the word, *ʿăḇāḏîm* (WLC), the Egyptians used of themselves to Joseph (Genesis
+47:25). See [[Israel Asks for a King]] and [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]].
+Source: stored WEB 1 Samuel 8:8, 17; Genesis 47:25. Hebrew WLC, 2026-11-17.
+
 ### *The gods that struck the Egyptians* — 1 Samuel 4:8
 
 The Philistines, hearing that the ark has come into Israel's camp, remember the exodus: *These are the gods
@@ -522,6 +531,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:16.
 
 ## Appears in
 
+- [[Israel Asks for a King]] — 1 Samuel 8:8; *since the day that I brought them up out of Egypt*.
 - [[The Ark Is Captured]] — 1 Samuel 4:8; the plagues remembered by the Philistines.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:27; where Yahweh revealed himself to the house of Eli's father.
 

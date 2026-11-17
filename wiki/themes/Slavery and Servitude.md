@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *You will be his servants* — 1 Samuel 8:11–17
+
+Samuel's account of *the way of the king* ends: *you will be his servants*, *wəʾattem tihyû-lô laʿăḇāḏîm*
+(8:17, WLC). Before that the king's *servants*, *ʿăḇāḏîm*, receive the people's best fields (14–15), and their
+own *male servants* and *female servants* are taken for his work (16). The Egyptians used the same noun of
+themselves when they sold themselves to Pharaoh for bread, *we will be Pharaoh's servants* (Genesis 47:25),
+and the people Yahweh brought out of Egypt (8:8) are told they will become servants again to a king they chose
+(18). See [[Israel Asks for a King]] and [[A Fifth to Pharaoh - Joseph's Tax and the Rights of the King]].
+Source: stored WEB 1 Samuel 8:8–18; Genesis 47:25. Hebrew WLC, 2026-11-17.
+
 ### He ground at the mill — Judges 16:21
 
 Blinded and bound *with fetters of brass*, Samson *ground at the mill in the prison* (16:21), literally
@@ -501,6 +511,7 @@ its laws for the poor in *"you were a slave in Egypt"* (18, 22). See [[Pledges, 
 
 ## Key passages
 
+- [[Israel Asks for a King]] — 1 Samuel 8:11–17; *you will be his servants*.
 - [[Samson and Delilah]] — Judges 16:21; the prison mill.
 - [[Midian's Oppression and the Prophet]] — Judges 6:8; *out of the house of bondage*.
 - [[Ehud and Eglon]] — Judges 3:14–18; eighteen years of service, and the tribute.

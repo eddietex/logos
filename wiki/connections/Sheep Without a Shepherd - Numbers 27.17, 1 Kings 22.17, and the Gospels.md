@@ -16,6 +16,9 @@ tags: [connection]
   scattered, like sheep without a shepherd"* *(verified WEB, not yet ingested)*.
 - **Mark 6:34** — *"he had compassion on them, because they were like sheep without a shepherd,
   and he began to teach them many things"* *(verified WEB, not yet ingested)*.
+- [[Israel Asks for a King]] — 1 Samuel 8:20 — the people want a king who will *"go out before us, and fight our
+  battles"*: *wəyāṣāʾ ləp̄ānênû* (WLC), Numbers 27:17's *yēṣēʾ lip̄nêhem*, now asked of a king. Stored WEB;
+  Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Analysis
 

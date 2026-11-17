@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Your king whom you will have chosen* — 1 Samuel 8:18
+
+The law of the king required *whom Yahweh your God chooses*, *ʾăšer yiḇḥar YHWH* (Deuteronomy 17:15, WLC).
+Samuel warns of the day Israel will cry out *because of your king whom you will have chosen for yourselves*,
+*ʾăšer bəḥartem lāḵem* (8:18, WLC): the same verb, *bāḥar*, with the people as subject. At the presentation he
+will say both, *the king whom you have chosen … Behold, Yahweh has set a king over you* (12:13, stored WEB; not
+yet ingested). See [[Israel Asks for a King]].
+Source: stored WEB 1 Samuel 8:18; 12:13; Deuteronomy 17:15. Hebrew WLC, 2026-11-17.
+
 ### A boy who did not yet know the voice — 1 Samuel 3:1–10
 
 Yahweh calls Samuel four times at night in the temple at Shiloh. Three times the boy runs to Eli, *Here I
@@ -335,6 +344,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[Israel Asks for a King]] — 1 Samuel 8:18; *your king whom you will have chosen for yourselves*.
 - [[Yahweh Calls Samuel]] — 1 Samuel 3:1–10, 19–20; the boy called four times, taught to answer by Eli, and established as a prophet.
 - [[A Man of God Against the House of Eli]] — 1 Samuel 2:28–35; *Didn't I choose him out of all the tribes*; the chosen house displaced.
 - [[Jephthah Called from Tob]] — Judges 11:5–11; a deliverer fetched by elders and made head by the people, not called by Yahweh.

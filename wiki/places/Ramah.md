@@ -7,6 +7,12 @@ tags: [place]
 
 ## Overview
 
+### The elders come to Ramah — 1 Samuel 8:4
+
+*All the elders of Israel gathered themselves together and came to Samuel to Ramah* (8:4), *hārāmāṯâ* (WLC),
+to his house (7:17), and there ask for *a king to judge us like all the nations* (8:5). See [[Israel Asks for a King]].
+Source: stored WEB 1 Samuel 8:1–22. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Ramathaim Zophim, Elkanah's home — 1 Samuel 1:1, 19
 
 Elkanah is *a certain man of Ramathaim Zophim, of the hill country of Ephraim* (1:1), and after Shiloh the
@@ -57,6 +63,7 @@ come *to Samuel to Ramah* to ask for a king (8:4, stored WEB; not yet ingested).
 Source: stored WEB 1 Samuel 7:16–17; 8:4; Judges 4:5. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Appears in
+- [[Israel Asks for a King]] — 1 Samuel 8:4; the elders ask Samuel for a king.
 - [[Samuel Judges Israel at Mizpah]] — 1 Samuel 7:17; Samuel's house, his judging, and his altar.
 - [[The Song of Hannah]] — 1 Samuel 2:11; *Elkanah went to Ramah to his house*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1, 19; *Ramathaim Zophim*, Elkanah's home.

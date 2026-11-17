@@ -9,11 +9,10 @@ tags: [connection]
 
 - [[The Law for the King]] — Deuteronomy 17:14: *"I will set a king over me, like all the nations
   that are around me"*.
-- 1 Samuel 8:5 *(not yet ingested; WEB checked)* — the elders to Samuel: *"Now make us a king to
-  judge us like all the nations."*
-- 1 Samuel 8:19–20 *(not yet ingested; WEB checked)* — *"No; but we will have a king over us, that
-  we also may be like all the nations, and that our king may judge us, and go out before us, and
-  fight our battles."*
+- [[Israel Asks for a King]] — 1 Samuel 8:5 — the elders to Samuel: *"Now make us a king to judge us like all the
+  nations."*
+- [[Israel Asks for a King]] — 1 Samuel 8:19–20 — *"No; but we will have a king over us, that we also may be like all
+  the nations, and that our king may judge us, and go out before us, and fight our battles."*
 - [[Kings Will Come Out of You]] — the promise of kings to Abraham, Sarah, and Jacob, before any
   request.
 
@@ -35,8 +34,8 @@ dating question the wiki does not settle.
 
 **The two answers differ.** Deuteronomy grants the request with conditions and does not call it
 sin: the king must be chosen by Yahweh, an Israelite, not a multiplier of horses, wives, or gold,
-and a reader of the law. In 1 Samuel 8:7 Yahweh tells Samuel that the people have rejected him
-(paraphrased; not quoted here), and Samuel warns of what a king will take (8:11–18). The king is
+and a reader of the law. In 1 Samuel 8:7 Yahweh tells Samuel *they have not rejected you, but they
+have rejected me as the king over them*, and Samuel warns of what a king will take (8:11–18). The king is
 given anyway. Readers have joined the two in different ways: Deuteronomy permits what 1 Samuel
 regrets; or 1 Samuel condemns the motive (to be like the nations) and not the office; or the two
 reflect different views of kingship in Israel. None is adopted here.
@@ -52,6 +51,14 @@ imitate the abominations of those nations"* (18:9) and not to ask how *"these na
 gods"* so as to do likewise (12:30). The request of 17:14 is the one place where wanting to be like
 the nations is allowed, and the law at once makes the king unlike theirs.
 
+**Two further contacts, now that 1 Samuel 8 is ingested.** Deuteronomy's king is the one *whom
+Yahweh your God chooses*, *ʾăšer yiḇḥar YHWH* (17:15, WLC). Samuel's warning ends on *your king whom
+you will have chosen for yourselves*, *ʾăšer bəḥartem lāḵem* (8:18, WLC): the same verb, with the
+people as its subject. And Deuteronomy's first limit is *he shall not multiply horses* (17:16);
+Samuel's first item is that the king will take Israel's sons *for his chariots, and to be his
+horsemen* (8:11). What the law withholds from a king is what Samuel says a king will do. Whether the
+two passages were composed with each other in view is still not settled here.
+
 ## Significance
 
 The phrase is the hinge of [[Kingship and Empire]] in Israel: the request Deuteronomy anticipates is
@@ -59,5 +66,6 @@ the one that brings Saul. It also bears on [[The Nations]], since the desire to 
 granted and limited. See [[The Law for the King]].
 
 Sources: Deuteronomy 12:30; 17:14–20; 18:9; 20:2–9 copied from stored WEB. 1 Samuel 8:5, 19–20
-checked at bible-api.com (`translation=web`), 2026-11-07; 1 Samuel is not stored, and 8:7, 11–18
-are paraphrased. Hebrew of Deuteronomy 17:14 and 1 Samuel 8:5, 20 from WLC (morphhb), 2026-11-07.
+checked at bible-api.com (`translation=web`), 2026-11-07; 1 Samuel 8:7, 11, 18 from stored WEB,
+2026-11-17. Hebrew of Deuteronomy 17:14 and 1 Samuel 8:5, 20 from WLC (morphhb), 2026-11-07;
+Deuteronomy 17:15 and 1 Samuel 8:18 from WLC (morphhb), 2026-11-17.

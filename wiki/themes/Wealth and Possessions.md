@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Dishonest gain, and what the king will take — 1 Samuel 8:3, 11–17
+
+Samuel's sons *turned away after dishonest gain*, *beṣaʿ*, and *took bribes*, *šōḥaḏ* (8:3, WLC), the gain
+Jethro's judges were to hate (Exodus 18:21) and the bribe Deuteronomy forbids (16:19). The king Samuel then
+describes takes as a matter of course: *he will take*, *yiqqāḥ*, four times (11, 13, 14, 16), the best fields,
+vineyards, and olive groves (14), a tenth of seed and flock (15, 17), servants, young men, and donkeys (16).
+Samuel will later ask *Whose ox have I taken? Whose donkey have I taken?* (12:3, stored WEB; not yet
+ingested). See [[Israel Asks for a King]] and [[A Bribe Blinds - Proverbs 17.23, Exodus 23.8, and Deuteronomy 16.19]].
+Source: stored WEB 1 Samuel 8:3, 11–17; 12:3; Exodus 18:21; Deuteronomy 16:19. Hebrew WLC, 2026-11-17.
+
 ### *Yahweh makes poor, and makes rich* — 1 Samuel 2:7
 
 *Yahweh makes poor, and makes rich. He brings low, he also lifts up* (2:7). Hannah's song puts wealth among
@@ -982,6 +992,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Israel Asks for a King]] — 1 Samuel 8:3, 11–17; dishonest gain and bribes; the king's taking.
 - [[The Song of Hannah]] — 1 Samuel 2:5, 7; *Yahweh makes poor, and makes rich*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:3–11; the field bought; *lest I endanger my own inheritance*; *treat you worthily* (*ḥayil*).
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1, 16; *a mighty man of wealth*; grain left on purpose.
