@@ -81,6 +81,7 @@ this and does not celebrate it either.**
   only branch of the register that runs to a fourth generation**, and **Ruth 4:18 starts its genealogy
   to David from exactly this point.** [[Hezron (son of Perez)]] carries the line to David and into both
   Gospel genealogies; [[Hamul]] carries a clan and stops
+- [[Boaz Redeems at the Gate]] — Ruth 4:12; *Let your house be like the house of Perez, whom Tamar bore to Judah*.
 
 ## Related people
 

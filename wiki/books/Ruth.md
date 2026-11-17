@@ -61,6 +61,16 @@ Lot's daughters' night (Genesis 19:33) and narrates only sleep. Ruth goes home b
 of barley — *Don't go empty to your mother-in-law* (3:17) — and Naomi tells her to wait: *the man will not
 rest until he has settled this today* (3:18).
 
+[[Boaz Redeems at the Gate]] (4:1–12) settles it the same morning, in public. Boaz sits at the gate, calls
+the nearer kinsman over as *so-and-so* (*pəlōnî ʾalmōnî*, 4:1), seats ten elders, and offers him the
+first right to Elimelech's land. The man will redeem the field; told that with it comes *Ruth the
+Moabitess, the wife of the dead, to raise up the name of the dead on his inheritance* (4:5), he declines,
+*lest I endanger my own inheritance*, and draws off his shoe (4:6–8). Boaz takes the land and Ruth before
+witnesses, *that the name of the dead may not be cut off* (4:10), and the town answers *We are witnesses*
+and blesses the marriage by Rachel and Leah, *which both built the house of Israel*, and by *the house of
+Perez, whom Tamar bore to Judah* (4:11–12). Leviticus 25's redemption of land and Deuteronomy 25's
+levirate name meet in one transaction, which the Torah nowhere joins.
+
 ## Structure
 
 1. **Emptied** (1) — the losses in Moab, the parting on the road, and Naomi's return *empty*.
@@ -82,7 +92,7 @@ merge, or reorder them freely.
 - [x] [[Naomi Returns to Bethlehem]] — Ruth 1:19–22
 - [x] [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23
 - [x] [[Ruth at the Threshing Floor]] — Ruth 3:1–18
-- [ ] Boaz Redeems at the Gate — Ruth 4:1–12
+- [x] [[Boaz Redeems at the Gate]] — Ruth 4:1–12
 - [ ] The Birth of Obed — Ruth 4:13–17
 - [ ] The Generations of Perez — Ruth 4:18–22
 
@@ -93,7 +103,7 @@ merge, or reorder them freely.
 - [[The Nations]] — a Moabite woman in the line of David
 - [[Names and Naming]] — Naomi and Mara; *the name of the dead*
 - [[Redemption]] — the near kinsman (2:20; 3–4)
-- [[Marriage]] — levirate duty and redemption joined (3:9; 4:5, 10)
+- [[Marriage]] — levirate duty and redemption joined (3:9; 4:5, 10); *like Rachel and like Leah* (4:11)
 - [[Love]] — *ḥeseḏ* (1:8; 2:20; 3:10) and Ruth's loyalty
 - [[Oaths and Vows]] — Ruth's oath in Yahweh's name (1:17); Boaz's *as Yahweh lives* (3:13)
 - [[Favor and Grace]] — *ḥēn* in Boaz's field (2:2, 10, 13)
@@ -108,6 +118,7 @@ merge, or reorder them freely.
 - [[Chilion]]
 - [[Orpah]]
 - [[Boaz]]
+- [[The Nearer Kinsman (Ruth)]]
 
 ## Key places
 - [[Bethlehem]]

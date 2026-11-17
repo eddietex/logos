@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I have purchased to be my wife* — Ruth 4:1–12
+
+The marriage Ruth asked for at the threshing floor is made at the gate as part of a land transaction.
+Boaz acquires the field and *Ruth the Moabitess, the wife of Mahlon … to be my wife* with the same verb,
+*qānâ* (4:9–10, WLC), and its stated purpose is the dead husband's name. The witnesses bless it with the
+Bible's marriages that built a house by unusual routes: *like Rachel and like Leah*, and *like the house
+of Perez, whom Tamar bore to Judah* (11–12). The bride does not speak in the scene. See [[Boaz Redeems at the Gate]] and
+[[Like Rachel and Like Leah - The Builders of the House of Israel]]. Source: stored WEB Ruth 4:1–12; Hebrew WLC, 2026-11-17.
+
 ### *Spread the corner of your garment* — Ruth 3
 
 Naomi had prayed that each widow would *find rest … in the house of her husband* (1:9); now she says *shall
@@ -593,6 +602,7 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Boaz Redeems at the Gate]] — Ruth 4:9–12; Ruth acquired as Boaz's wife before witnesses; *like Rachel and like Leah*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–13; *seek rest for you*; *spread the corner of your garment over your servant*.
 - [[Ruth Clings to Naomi]] — Ruth 1:9–13; *rest … in the house of her husband*; no sons left for a levirate marriage.
 - [[Famine and Death in Moab]] — Ruth 1:4–5; two Moabite marriages, about ten years, no children reported.

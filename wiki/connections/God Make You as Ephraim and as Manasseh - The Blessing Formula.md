@@ -9,8 +9,8 @@ tags: [connection]
 
 - **Genesis 48:20** — *"In you will Israel bless, saying, 'God make you as Ephraim and as Manasseh'"* —
   [[Jacob Blesses Ephraim and Manasseh]]
-- **Ruth 4:11–12** — *"Yahweh make you like [[Rachel]] and like [[Leah]], which two built the house of
-  Israel … let your house be like the house of [[Perez]], whom Tamar bore to Judah"*
+- **Ruth 4:11–12** — *"May Yahweh make the woman who has come into your house like [[Rachel]] and like [[Leah]],
+  which both built the house of Israel … Let your house be like the house of [[Perez]], whom Tamar bore to Judah"*
 - **Jeremiah 29:22** — *"Yahweh make you like Zedekiah and like Ahab, whom the king of Babylon roasted
   in the fire"* — **the same construction, as a curse**
 - Compare **Genesis 12:2** — *"be a blessing"*, and **Genesis 22:18; 26:4** — *"in your offspring will

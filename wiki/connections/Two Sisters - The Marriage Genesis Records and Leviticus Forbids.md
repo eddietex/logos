@@ -102,5 +102,5 @@ Israel out of it: eleven of the twelve tribes are born inside the union the law 
 - **And it does not diminish what came out of the marriage.** Twelve tribes, the priesthood, and the
   royal line all descend from a union Leviticus would not permit — **which is the Bible's ordinary
   posture toward this family**, and the reason Ruth 4:11 can bless a bride to be *"like Rachel and
-  like Leah, which two built the house of Israel"* without a word of qualification. See
+  like Leah, which both built the house of Israel"* without a word of qualification. See
   [[Like Rachel and Like Leah - The Builders of the House of Israel]].

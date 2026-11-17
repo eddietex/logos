@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The parcel of land, which was our brother Elimelech's* — Ruth 4:1–12
+
+The family that left the land in a famine (1:1) turns out to have kept a stake in it: *Naomi … is selling
+the parcel of land, which was our brother Elimelech's* (4:3). Its redemption by the next of kin is the
+case Leviticus 25:25 provides for, and the purchase is witnessed at the town gate, as Abraham's purchase
+of Machpelah was (Genesis 23:18). The nearer kinsman's reason for refusing is also land, *lest I endanger
+my own inheritance* (4:6). See [[Boaz Redeems at the Gate]] and
+[[Bought Before All Who Went In at the Gate - Machpelah and the Field of Elimelech]]. Source: stored WEB Ruth 4:1–12; Leviticus
+25:25; Genesis 23:18.
+
 ### *The land of your birth* — Ruth 2:11
 
 Boaz says Ruth *left your father and your mother, and the land of your birth* (*ʾereṣ môlaḏtēḵ*, WLC) and
@@ -1130,6 +1140,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Boaz Redeems at the Gate]] — Ruth 4:3–10; Elimelech's parcel redeemed; *my own inheritance*; *the name of the dead on his inheritance*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:11; *the land of your birth … a people that you didn't know*.
 - [[Famine and Death in Moab]] — Ruth 1:1–4; a man of Bethlehem Judah sojourns in Moab about ten years.
 - [[Wives for Benjamin]] — Judges 21:17, 23–24; an inheritance kept, and each man to his own.

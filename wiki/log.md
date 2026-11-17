@@ -28013,3 +28013,58 @@ morphhb) `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `Ruth`, `1Sam`, `J
 `Song`, and `Ezek` XML on 2026-11-17; every occurrence claim (lemmas 1350 a, 1540, 1637, 2729, 3190 + 3820 a,
 3615, 3671 + 6566, 3814, 3885, 3909, 3943, 4130, 4304, 4494, 4496, 4772, 5234 a, 7387, 7901, 8252) covers
 those fifteen files and is stated on the page that makes it. No Greek text consulted.
+
+## [2026-11-17] ingest | Ruth 4.1-12 — Boaz Redeems at the Gate
+
+Unattended run (`/ingest auto`). Ruth is the first `in-progress` book; the next unchecked box was 4:1–12.
+Ruth now 6 / 8.
+
+Created: [[Boaz Redeems at the Gate]]; person [[The Nearer Kinsman (Ruth)]]; connections
+[[Bought Before All Who Went In at the Gate - Machpelah and the Field of Elimelech]] and
+[[Buy It for Yourself - Ruth 4 and Jeremiah 32]].
+
+Revised: book [[Ruth]] (box checked, overview paragraph, key people, one key-theme line); people [[Boaz]],
+[[Naomi]], [[Ruth (person)]], [[Elimelech]], [[Mahlon]], [[Chilion]], [[Rachel]], [[Leah]], [[Perez]],
+[[Tamar]], [[Judah]], [[Onan]]; places [[Bethlehem]], [[Moab (place)]]; themes [[Redemption]], [[Marriage]],
+[[Names and Naming]], [[Land and Sojourning]], [[Wealth and Possessions]], [[Blessing]], [[Life and Death]],
+[[The Nations]], [[Providence]]; connections
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]],
+[[Like Rachel and Like Leah - The Builders of the House of Israel]],
+[[The Redeemer and the Avenger of Blood]],
+[[Tamar in the Genealogies - Ruth 4, 1 Chronicles 2, and Matthew 1]],
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]], and
+[[God Make You as Ephraim and as Manasseh - The Blessing Formula]]; passages [[Ruth at the Threshing Floor]],
+[[Judah and Tamar]], [[Nahor's Line and the Burial of Sarah]], and [[The Covenant at Shechem]]
+(cross-references). Also `wiki/books/index.md`, People Index A-E, F-M, and N-Z, the places and themes
+indexes, Connections Index A-C, and the dashboard counts. Frontmatter totals: 484 passages, 351 people,
+598 places, 88 themes, 919 connections.
+
+Quotation corrected: ten pages quoted Ruth 4:11 as *which two built the house of Israel*; the stored WEB
+reads *which both built*. Corrected in [[Like Rachel and Like Leah - The Builders of the House of Israel]],
+[[Two Sisters - The Marriage Genesis Records and Leviticus Forbids]],
+[[Rachel Weeping - Her Grave, Ramah, and Bethlehem]], [[Asher]], [[Rachel]], [[Leah]],
+[[The Birth of Jacob's Children]], and [[Jacob, Leah, and Rachel]]; the argument about *two* women now rests
+on the Hebrew *šəṯêhem*, *the two of them*. Also corrected: *Yahweh make you like Rachel* (God Make You …)
+and *Yahweh make the woman* (Rachel Weeping) to the WEB's *May Yahweh make the woman who has come into your
+house*, and *of this young woman* (Tamar in the Genealogies) to *by this young woman*.
+
+Judgment calls: kept the planned boundary 4:1–12. The nearer kinsman now has a page, named by role and book
+as [[The Nearer Kinsman (Ruth)]] since the text withholds his name; filed under N. The ten elders get no page.
+Ephrathah gets no place page; [[Bethlehem]] carries it. The Onan comparison rests on one shared verb,
+*šāḥaṯ* (Genesis 38:9; Ruth 4:6), and is marked on the pages as a reader's step.
+
+No contradictions found. Readings recorded, not resolved: the ketiv *qnyty* / qere *qānîṯâ* of 4:5 (*I* or
+*you* acquire Ruth) and *ûmēʾēṯ* (*from* or *and* Ruth); the third-person *yiḡʾal* in 4:4; *māḵərâ* as *is
+selling* or *has sold*, and how Naomi held land at all; whether the shoe custom of 4:7–8 is Deuteronomy
+25:9–10's ceremony in another form; whether Boaz staged the order of disclosure; what the kinsman's
+*inheritance* risk was (the usual explanation is labeled as such). That the explanatory note of 4:7 implies
+a later narrator is labeled a common inference.
+
+Sources: Ruth 4:1–12 and Ruth 1:2, 5; 2:1, 3, 5; 3:4, 7, 11, 13, 18 from stored WEB. Comparisons from stored
+WEB Genesis 23:4, 10–18; 35:19; 38:9; Leviticus 25:25; Numbers 27:8–11; Deuteronomy 23:3; 25:5–10; Joshua 7:9;
+24:22; Judges 8:20. 1 Samuel 20:2; 21:2 and Jeremiah 32:7–10, 25 checked against the WEB at bible-api.com,
+2026-11-17 (not stored); Jeremiah 32:15 cited by reference only. Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`,
+`Ruth`, `1Sam`, and `Jer` XML on 2026-11-17; every occurrence claim (lemmas 492, 1129, 1350 a, 1353,
+1540 + 241, 3427, 3772 + 8034, 5275, 5707, 6423, 7069, 7843, 8025, 8545, 8584) covers those ten files and is
+stated on the page that makes it. No Greek text consulted.

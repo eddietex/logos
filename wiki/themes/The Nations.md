@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Ruth the Moabitess*, at the gate — Ruth 4:1–12
+
+Boaz names her *Ruth the Moabitess* twice before the elders (4:5, 10), and the town at once blesses her
+as a builder of the house of Israel, *like Rachel and like Leah* (11). Deuteronomy 23:3 bars a Moabite
+from Yahweh's assembly; the elders of Bethlehem raise no objection, and the book does not mention the
+law. See [[Boaz Redeems at the Gate]]. Source: stored WEB Ruth 4:1–12; Deuteronomy 23:3.
+
 ### *Since I am a foreigner* — Ruth 2:6, 10–12
 
 The overseer calls Ruth *a Moabite young woman* (2:6, WLC); she calls herself *noḵriyyâ*, *a foreigner*
@@ -654,6 +661,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–11; *Ruth the Moabitess*, named twice and blessed like Rachel and Leah.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:10–12; *since I am a foreigner*; refuge under the wings of the God of Israel.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:22; *Ruth the Moabitess*, *who returned out of the country of Moab*.
 - [[Ruth Clings to Naomi]] — Ruth 1:15–16; *gone back to her people, and to her god*; *Your people will be my people*.

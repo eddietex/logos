@@ -164,7 +164,7 @@ reading.
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-Her name outlives all of it. Ruth 4:11 blesses a bride *"like Rachel and like Leah, which two built
+Her name outlives all of it. Ruth 4:11 blesses a bride *"like Rachel and like Leah, which both built
 the house of Israel"* — **and names her first**, though the royal line comes through her sister. And
 Jeremiah 31:15 sets her weeping at Ramah for children who *"are no more"*, which Matthew 2:18 puts
 over the killing of the infants at Bethlehem. See
@@ -282,6 +282,7 @@ over the killing of the infants at Bethlehem. See
   [[Machpelah]], **where [[Leah]] is buried and she is not** (49:31). See
   [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]] and
   [[Two Tribes in Place of One - The Adoption of Ephraim and Manasseh]]
+- [[Boaz Redeems at the Gate]] — Ruth 4:11; *like Rachel and like Leah, which both built the house of Israel*, named first.
 
 ## Related people
 

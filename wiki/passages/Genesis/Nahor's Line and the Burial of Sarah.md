@@ -459,6 +459,7 @@ promise fulfilled. It is the promise given something to stand on.
   New Testament's reading of why Abraham lived in tents and bought a grave.
 - 2 Samuel 24:24; 1 Kings 16:24; Jeremiah 32:9 — the Bible's other recorded land prices.
 - Job 1:1; 32:2; Lamentations 4:21; Jeremiah 25:23 — Uz and Buz elsewhere.
+- Ruth 4:1–12 — a field bought before the elders at Bethlehem's gate — [[Bought Before All Who Went In at the Gate - Machpelah and the Field of Elimelech]]
 
 ## Notes
 

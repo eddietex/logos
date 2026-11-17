@@ -9,7 +9,7 @@ tags: [connection]
 
 - **Genesis 38:27–30** — Perez and Zerah born to Tamar — [[Judah and Tamar]]
 - **Genesis 46:12; Numbers 26:19–22** — the five sons of Judah, and the clans counted
-- **Ruth 4:12** — *"let your house be like the house of Perez, whom Tamar bore to Judah"*
+- **Ruth 4:12** — *"let your house be like the house of Perez, whom Tamar bore to Judah"* — [[Boaz Redeems at the Gate]]
 - **Ruth 4:18–22** — *"this is the history of the generations of Perez"*, ending on David
 - **1 Chronicles 2:3–5** — Judah's line restated, with *Bath-shua the Canaanitess* and Er's verdict
 - **Matthew 1:3** — *"Judah became the father of Perez and Zerah by Tamar"*
@@ -38,7 +38,7 @@ makes the relationship unmistakable, in a list that could simply have said *and 
 
 **Ruth keeps the comparison, and makes it itself.** The elders at the gate of Bethlehem bless Boaz's
 marriage in these terms: *"Let your house be like the house of Perez, whom Tamar bore to Judah, of the
-offspring which Yahweh will give you of this young woman."* **This is not a connection the wiki is
+offspring which Yahweh will give you by this young woman."* **This is not a connection the wiki is
 drawing. It is a blessing invoking Genesis 38 by name over a second levirate marriage in the same
 town**, and it is spoken about a Moabite. See
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]].

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *We are witnesses. May Yahweh make the woman …* — Ruth 4:11–12
+
+The people at the gate and the elders answer Boaz's *You are witnesses* and go straight on to bless: *May
+Yahweh make the woman who has come into your house like Rachel and like Leah, which both built the house
+of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem. Let your house be like the
+house of Perez* (4:11–12). It is the book's largest blessing: the whole town, invoking three women of
+Genesis. See [[Boaz Redeems at the Gate]] and
+[[God Make You as Ephraim and as Manasseh - The Blessing Formula]]. Source: stored WEB Ruth 4:1–12.
+
 ### *You are blessed by Yahweh, my daughter* — Ruth 3:10
 
 Woken at midnight by a woman at his feet, Boaz's first answer to her request is a blessing, *bərûḵâ ʾat
@@ -624,6 +633,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[Boaz Redeems at the Gate]] — Ruth 4:11–12; the town's blessing: *like Rachel and like Leah*; *like the house of Perez*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:10; *You are blessed by Yahweh, my daughter*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 12, 19–20; harvest greetings and three blessings in daily speech.
 - [[Micah's Idol and Levite]] — Judges 17:2, 13; *May Yahweh bless my son!*, and *Yahweh will do good to me*.

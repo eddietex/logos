@@ -158,6 +158,7 @@ away, *each to his own inheritance* (28).
   words written, the book read.
 - Judges 2:7 — *The people served Yahweh all the days of Joshua* (WEB, checked at bible-api.com;
   Judges not yet ingested), which picks up verse 31.
+- Ruth 4:9–11 — *You are witnesses today … We are witnesses*, the only other use of the exchange in the files read — [[Boaz Redeems at the Gate]]
 
 ## Notes
 

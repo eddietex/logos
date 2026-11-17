@@ -23,9 +23,11 @@ See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:2–5; 4:9–10.
 - Goes to Moab with his family in the famine — Ruth 1:1–2
 - Marries Ruth, a Moabite (identified at 4:10) — Ruth 1:4
 - Dies in Moab with his brother — Ruth 1:5
+- Named as Ruth's husband; Boaz marries her *to raise up the name of the dead on his inheritance* — Ruth 4:9–10
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:2–5; married in Moab, dies there.
+- [[Boaz Redeems at the Gate]] — Ruth 4:9–10; *Ruth the Moabitess, the wife of Mahlon*; his name raised up on his inheritance.
 
 ## Related people
 - [[Elimelech]] — his father
@@ -36,3 +38,4 @@ See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:2–5; 4:9–10.
 ## Themes associated
 - [[Marriage]]
 - [[Life and Death]]
+- [[Names and Naming]]

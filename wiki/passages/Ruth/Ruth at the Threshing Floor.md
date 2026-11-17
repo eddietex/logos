@@ -231,7 +231,7 @@ the gate.
 - [[Ruth (person)]] — goes down to the threshing floor; asks Boaz to spread his garment over her as *gōʾēl*
 - [[Naomi]] — makes the plan; *seek rest for you*; *Wait, my daughter*
 - [[Boaz]] — blesses Ruth; names a nearer kinsman; swears to redeem; sends barley to Naomi
-- The nearer kinsman (12–13) — not named; acts at 4:1–8, where his page belongs if he gets one
+- [[The Nearer Kinsman (Ruth)]] (12–13) — not named; acts at 4:1–8
 
 ## Places
 - [[Bethlehem]] — *all the city* (*gate*) *of my people*; Boaz goes into the city (11, 15)
@@ -265,7 +265,7 @@ the gate.
 - Ruth 1:21 — *empty* — [[You Shall Not Go Empty-Handed - The Plunder of Egypt]]
 - Judges 3:11 — *the land had rest* —
   [[The Land Had Rest - Joshua 11.23, 14.15, and the Judges Formula]]
-- Ruth 4:1, 5, 10 — the gate, the nearer kinsman, *the name of the dead*
+- Ruth 4:1, 5, 10 — the gate, the nearer kinsman, *the name of the dead* — [[Boaz Redeems at the Gate]]
 
 ## Notes
 

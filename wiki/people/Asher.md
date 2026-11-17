@@ -98,7 +98,7 @@ the Beatitudes. **[[Leah]]'s speech has no divine name and no divine act in it**
 
 ***The daughters*** — ***bānôt*** — **is the idiom for women in general**, and Leah is imagining being
 spoken well of by a village. **Ruth 4:11 is eventually the village doing it**, blessing a bride *"like
-Rachel and like Leah, which two built the house of Israel"*. See
+Rachel and like Leah, which both built the house of Israel"*. See
 [[Like Rachel and Like Leah - The Builders of the House of Israel]].
 
 [[Zilpah]], who bore him, says nothing at either of her sons' births.

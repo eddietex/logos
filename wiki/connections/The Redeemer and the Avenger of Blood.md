@@ -196,6 +196,17 @@ Related pages: [[I Know That My Redeemer Lives]],
 [[Do Not Cover My Blood]], [[Whoever Sheds Man's Blood]],
 [[Mediation and Advocacy]], [[Vengeance]], [[Blood]], [[Job (person)]], and [[Abel]].
 
+### Ruth 4:1–12 now ingested
+
+The book's redemption is carried out at the gate. The right, *gəʾullâ*, passes by nearness: the nearer
+kinsman has it first, *there is no one to redeem it besides you; and I am after you* (Ruth 4:4), and gives
+it up, *Take my right of redemption for yourself* (6). What is redeemed is what Leviticus 25:25 names,
+land a poor kinsman sold, but joined to the levirate purpose of raising up the dead man's name (Ruth 4:5,
+10). Jeremiah 32:7–8 is the only other narrative in the files read that uses *gəʾullâ* for a field, with
+the same *Buy it for yourself* (WLC). See [[Boaz Redeems at the Gate]] and
+[[Buy It for Yourself - Ruth 4 and Jeremiah 32]]. Source: stored WEB Ruth 4:1–12; Leviticus 25:25;
+Jeremiah 32:7–8 at bible-api.com; Hebrew WLC, 2026-11-17.
+
 ### Ruth 3 now ingested
 
 In [[Ruth at the Threshing Floor]] the verb *gāʾal* occurs seven times in five verses (3:9, 12–13; WLC).

@@ -7,6 +7,17 @@ tags: [person]
 
 ## Overview
 
+### *The wife of the dead* — Ruth 4:1–12
+
+At the gate Ruth does not speak and is not said to be present. She is named twice, both times as *Ruth
+the Moabitess* — *the wife of the dead* (4:5) and *the wife of Mahlon* (10), the first place the book says
+which son she married. She is what turns the nearer kinsman back: land alone he would redeem; land with a
+widow whose son would carry the dead man's name he will not (4–6). Boaz acquires her *to be my wife* with
+the verb he uses of the field, *qānâ* (9–10), and the town blesses her as *the woman who has come into
+your house*, *like Rachel and like Leah*, and as *this young woman* through whom Yahweh will give offspring
+(11–12). The written form of 4:5 (*I acquire*, read *you acquire*, WLC ketiv and qere) bears on whose
+wife the field would bring her to be; see [[Boaz Redeems at the Gate]]. Source: stored WEB Ruth 4:1–12; Hebrew WLC, 2026-11-17.
+
 ### *Spread the corner of your garment* — Ruth 3
 
 At the end of the harvest Naomi plans a night visit to Boaz on the threshing floor, and Ruth answers, *All
@@ -79,6 +90,7 @@ Deuteronomy 23:3.
 - Arrives in Bethlehem with Naomi, *Ruth the Moabitess … who returned*, at the start of barley harvest — Ruth 1:22
 - Gleans in the field of Boaz through the barley and wheat harvests — Ruth 2:1–23
 - Goes to Boaz at the threshing floor and asks him to spread his garment over her as *gōʾēl* — Ruth 3:1–18
+- Named at the gate as *the wife of the dead*; acquired by Boaz as his wife before witnesses — Ruth 4:5, 9–12
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:4–5; a Moabite wife, widowed.
@@ -87,6 +99,7 @@ Deuteronomy 23:3.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23; gleans; *since I am a foreigner*; *under whose wings you have come to take refuge*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *spread the corner of your garment over your servant; for you are a near kinsman*; *a worthy woman*.
 - [[Joseph in Potiphar's House]] — named in a comparison of women who take the initiative (Ruth 3).
+- [[Boaz Redeems at the Gate]] — Ruth 4:5, 10–12; *Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife*; silent.
 
 ## Related people
 - [[Naomi]] — her mother-in-law
@@ -94,6 +107,7 @@ Deuteronomy 23:3.
 - [[Orpah]] — her sister-in-law
 - [[Elimelech]] — her father-in-law
 - [[Boaz]] — her husband's kinsman, in whose field she gleans and whom she asks to spread his garment over her (3:9); later her husband (4:13)
+- [[The Nearer Kinsman (Ruth)]] — declines to acquire her with the land (4:5–6)
 
 ## Themes associated
 - [[The Nations]]

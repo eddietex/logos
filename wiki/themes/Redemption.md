@@ -6,6 +6,20 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Take my right of redemption* — Ruth 4:1–12
+
+At the gate the right of redemption, *gəʾullâ*, passes by order of nearness, as Boaz said it would
+(3:12). The nearer kinsman accepts the land, *I will redeem it*, and then refuses it when the widow comes
+with it, *lest I endanger my own inheritance* (4:4–6); Boaz takes the right and buys *all that was
+Elimelech's* and Ruth with it (9–10). The root *gāʾal* comes twelve times in 4:1–8 (WLC). Leviticus 25:25
+requires the next kinsman to buy back what a poor brother sold; Deuteronomy 25:5–10 requires a brother to
+raise up the dead man's name. Ruth 4 does both in one act, and the redeemer's motive is stated as the
+name, not the land: *to raise up the name of the dead on his inheritance* (5, 10). *Gəʾullâ* is otherwise
+found in the WLC files read only in Leviticus 25 and Jeremiah 32:7–8, where Jeremiah is told *Buy it for
+yourself*, as Boaz is at Ruth 4:8. See [[Boaz Redeems at the Gate]], [[The Nearer Kinsman (Ruth)]],
+[[Buy It for Yourself - Ruth 4 and Jeremiah 32]], and [[The Redeemer and the Avenger of Blood]]. Source: stored WEB Ruth 4:1–12; Leviticus
+25:25; Deuteronomy 25:5–10; Jeremiah 32:7–8 at bible-api.com; Hebrew WLC, 2026-11-17.
+
 ### *For you are a near kinsman* — Ruth 3:9–13
 
 Ruth asks Boaz to spread his garment over her *for you are a near kinsman*, *kî gōʾēl ʾāttâ* (3:9, WLC),
@@ -403,6 +417,7 @@ See [[The Unclean Sent Out and Wrongs Repaid]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the right of redemption passes from the nearer kinsman to Boaz; land and widow redeemed together.
 - [[Ruth at the Threshing Floor]] — Ruth 3:9–13; *for you are a near kinsman*; *a kinsman nearer than I*; Boaz's oath to redeem.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:20; Naomi names Boaz *one of our near kinsmen* (*gōʾēl*), the book's first.
 - [[The Danite Migration]] — Judges 18:28; *there was no deliverer* (*ʾên maṣṣîl*, WLC) for Laish.

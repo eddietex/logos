@@ -55,9 +55,21 @@ who has drunk at night and does nothing a reader of Genesis 19 or Judges 19 migh
 [[At Night with a Man Who Had Drunk - Genesis 19.30-38 and Ruth 3]]. Source: stored WEB Ruth 3:1–18;
 Hebrew WLC, 2026-11-17.
 
-**Ahead.** At the gate he redeems *all that was Elimelech's* and takes *Ruth the Moabitess, the wife of Mahlon … to raise up
-the name of the dead on his inheritance* (4:9–10). *So Boaz took Ruth, and she became his wife* (4:13).
-These are not yet ingested.
+### At the gate — Ruth 4:1–12
+
+He goes up to the gate the next morning and sits down, and the nearer kinsman passes by. Boaz calls him
+over without naming him, *pəlōnî ʾalmōnî*, *so-and-so* (WEB *friend*), and seats ten elders (4:1–2). He
+keeps the order he swore to at 3:13: he offers the other man the land first, *If you will redeem it,
+redeem it … I am after you* (4). Only when the man has said *I will redeem it* does Boaz name the widow
+who comes with the field, *to raise up the name of the dead on his inheritance* (5). The man declines and
+draws off his shoe, and Boaz declares before the elders and all the people that he has bought all that
+was Elimelech's, Chilion's, and Mahlon's, and acquired *Ruth the Moabitess, the wife of Mahlon … to be my
+wife* (9–10). The town blesses him: *treat you worthily in Ephrathah, and be famous in Bethlehem* (11) —
+*ḥayil* again, the word the narrator used of him at 2:1. Whether he managed the order of disclosure to
+bring about the refusal is a question readers ask; the text reports the words and not his intent. See
+[[Boaz Redeems at the Gate]] and [[The Nearer Kinsman (Ruth)]]. Source: stored WEB Ruth 4:1–12; Hebrew WLC, 2026-11-17.
+
+**Ahead.** *So Boaz took Ruth, and she became his wife* (4:13). Not yet ingested.
 
 **Traditions recorded elsewhere.** A later Jewish tradition identifies the judge [[Ibzan]] of Bethlehem
 with Boaz (Bava Batra 91a; recalled, not verified); Judges makes no such link. 1 Chronicles 2:11–12 and
@@ -72,18 +84,20 @@ morphhb), 2026-11-17.
 - Finds Ruth gleaning in his field; protects, feeds, and blesses her — Ruth 2:3–16
 - Named by Naomi as *one of our near kinsmen* — Ruth 2:20
 - At the threshing floor: blesses Ruth, names a nearer kinsman, swears to redeem her — Ruth 3:1–18
-- Redeems the land and marries Ruth at the gate — Ruth 4:1–13 (not yet ingested)
+- Redeems Elimelech's land and acquires Ruth before the elders at the gate — Ruth 4:1–12
 - Father of Obed — Ruth 4:13, 21 (not yet ingested)
 
 ## Appears in
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1–23; the owner of the field; *under whose wings you have come to take refuge*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *a worthy woman*; *a kinsman nearer than I*; *as Yahweh lives*.
+- [[Boaz Redeems at the Gate]] — Ruth 4:1–12; gives the nearer kinsman the first right; *You are witnesses today*; blessed *like the house of Perez*.
 
 ## Related people
 - [[Ruth (person)]] — gleans in his field; asks him at the threshing floor to spread his garment over her (3:9); later his wife (4:13)
 - [[Naomi]] — names him a *gōʾēl* (2:20) and *our kinsman* (3:2); *the man will not rest* (3:18)
 - [[Elimelech]] — his kinsman (2:1, 3)
 - [[Ibzan]] — identified with him by a later tradition (recalled, not verified)
+- [[The Nearer Kinsman (Ruth)]] — first in line; declines and gives Boaz his right (3:12; 4:1–8)
 
 ## Themes associated
 - [[Redemption]]

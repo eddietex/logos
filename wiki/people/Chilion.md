@@ -22,9 +22,11 @@ See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:2–5; 4:9–10.
 - Goes to Moab with his family in the famine — Ruth 1:1–2
 - Marries a Moabite woman, presumably Orpah — Ruth 1:4
 - Dies in Moab with his brother — Ruth 1:5
+- His share bought by Boaz with Elimelech's and Mahlon's, named before Mahlon's — Ruth 4:9
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:2–5; married in Moab, dies there.
+- [[Boaz Redeems at the Gate]] — Ruth 4:9; *all that was Chilion's and Mahlon's*, the one verse that names him first.
 
 ## Related people
 - [[Elimelech]] — his father

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Lest I endanger my own inheritance* — Ruth 4:1–12
+
+The gate scene is a property transaction told in detail: the field offered, the right of redemption
+accepted and then given up, a shoe as the token of transfer, and a declaration that Boaz has bought *all
+that was Elimelech's, and all that was Chilion's and Mahlon's* (4:3–9). The nearer kinsman's refusal is a
+calculation about his own estate (6); the book does not condemn it. The town's blessing, *treat you
+worthily*, *ʿăśēh-ḥayil* (11, WLC), uses the word that made Boaz *a mighty man of wealth* (2:1). See [[Boaz Redeems at the Gate]].
+Source: stored WEB Ruth 4:1–12; Hebrew WLC, 2026-11-17.
+
 ### *A mighty man of wealth* — Ruth 2:1
 
 Boaz is *ʾîš gibbôr ḥayil* (2:1, WLC), the phrase used of Gideon (Judges 6:12) and Jephthah (11:1), where
@@ -965,6 +974,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[Boaz Redeems at the Gate]] — Ruth 4:3–11; the field bought; *lest I endanger my own inheritance*; *treat you worthily* (*ḥayil*).
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1, 16; *a mighty man of wealth*; grain left on purpose.
 - [[Micah's Idol and Levite]] — Judges 17:2–4, 10; the eleven hundred stolen and dedicated; a priest's yearly wage.
 - [[Samson and Delilah]] — Judges 16:5, 18; eleven hundred pieces of silver from each lord.

@@ -87,6 +87,7 @@ first is his brother. Both are in this paragraph, three verses apart. See [[Retr
 - [[Jacob's Family Settles in Egypt]] — Genesis 46:12; **listed and subtracted in the same verse**, with [[Er]]: *"but
   Er and Onan died in the land of Canaan."* **The two of them are the only deaths the register
   reports**
+- [[Boaz Redeems at the Gate]] — not named; the nearer kinsman declines *lest I endanger* (*ʾašḥîṯ*) *my own inheritance* (Ruth 4:6), the verb of Genesis 38:9.
 
 ## Related people
 

@@ -610,7 +610,7 @@ the one Israel comes from.**
 - [[Captives, Firstborn Sons, and Public Shame]] — Deuteronomy 21:15–17; the loved wife, the hated wife, and the firstborn's double portion;
   21:11's *yǝpat-tōʾar* is 29:17's phrase for Rachel.
 - Judges 14:12 — the seven-day bridal feast, the ***šābuaʿ*** of 29:27.
-- Ruth 4:11 — *"like Rachel and like Leah, which two built the house of Israel."*
+- Ruth 4:11 — *"like Rachel and like Leah, which both built the house of Israel."*
 - Hosea 12:12 — the prophets' one direct notice of this chapter: *"Jacob fled into the country of
   Aram. Israel served to get a wife, and for a wife he tended flocks."*
 - Job 1:3 — *"the greatest of all the children of the east"*: the wiki's other instance of the

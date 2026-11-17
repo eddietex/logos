@@ -7,6 +7,16 @@ tags: [place]
 
 ## Overview
 
+### The gate — Ruth 4:1–12
+
+The town's gate is where Boaz settles the redemption: ten elders of the city sit as witnesses, and *all
+the people who were in the gate* answer *We are witnesses* (4:1–2, 9–11). Boaz had already called the town
+*all the gate of my people* (3:11, WLC). The dead man's name is kept *from the gate of his place* (4:10).
+The blessing uses both names of the place, *Ephrathah* and *Bethlehem* (11); the family were *Ephrathites
+of Bethlehem Judah* (1:2), and Rachel was buried *on the way to Ephrath (also called Bethlehem)* (Genesis
+35:19). See [[Boaz Redeems at the Gate]]. Source: stored WEB Ruth 1:2; 4:1–12; Genesis 35:19; Hebrew WLC,
+2026-11-17.
+
 ### Bread again — Ruth 1:6–7
 
 *Yahweh had visited his people in giving them bread* (1:6), *lāṯēṯ lāhem lāḥem* (WLC), *to give them
@@ -127,6 +137,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *all the city was excited about them*; Naomi's *Call me Mara*; arrival *in the beginning of barley harvest*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 18; Boaz *came from Bethlehem* to his field; Ruth carries her barley *into the city*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:2, 11, 15; the threshing floor below the town; *all the city* (*gate*) *of my people knows that you are a worthy woman*; Boaz goes *into the city*.
+- [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the gate, ten elders of the city; *treat you worthily in Ephrathah, and be famous in Bethlehem*.
 
 ## Related places
 
@@ -151,7 +162,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 - Naomi and Ruth return at the start of barley harvest; the town is stirred — Ruth 1:19–22, [[Naomi Returns to Bethlehem]]
 - Ruth gleans in Boaz's field through the barley and wheat harvests — Ruth 2:1–23, [[Ruth Gleans in the Field of Boaz]]
 - Ruth goes to Boaz on the threshing floor at the end of the harvest — Ruth 3:1–18, [[Ruth at the Threshing Floor]]
-- The elders bless Boaz's bride at the gate — Ruth 4:11 (not yet ingested)
+- Boaz redeems Elimelech's land and Ruth at the gate; the elders bless the marriage — Ruth 4:1–12, [[Boaz Redeems at the Gate]]
 - Samuel anoints David at Jesse's house — 1 Samuel 16:1–13
 - Three of David's men fetch water from the well by the gate, and he pours it out — 2 Samuel 23:15–17
 - *"But you, Bethlehem Ephrathah, being small among the clans of Judah…"* — Micah 5:2

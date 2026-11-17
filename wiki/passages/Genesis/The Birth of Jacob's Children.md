@@ -648,7 +648,7 @@ twelve tribes of Israel are born outside the land**, in a country the book never
 - Leviticus 18:18 — two sisters, *to be a rival*, forbidden while the first lives.
 - Numbers 18:2 — the pun on *Levi* turned into a job description.
 - Deuteronomy 21:15–17 — the loved wife, the hated wife, and the firstborn's double portion.
-- Ruth 4:11 — *"like Rachel and like Leah, which two built the house of Israel"*, naming Rachel first.
+- Ruth 4:11 — *"like Rachel and like Leah, which both built the house of Israel"*, naming Rachel first.
 - 1 Samuel 1:5–20 — Hannah: the loved-but-barren wife, the rival who provokes her, the prayer Genesis
   never records from either sister, and *"Yahweh remembered her."*
 - Song of Songs 7:13 — the Bible's only other mandrakes.

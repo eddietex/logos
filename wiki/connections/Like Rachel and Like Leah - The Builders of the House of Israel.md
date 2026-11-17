@@ -11,7 +11,7 @@ tags: [connection]
   [[Jacob, Leah, and Rachel]]
 - **Genesis 29:31–30:24; 35:16–18** — the twelve sons and Dinah, out of two wives and two slaves
 - **Ruth 4:11–12** — *"All the people who were in the gate, and the elders, said, 'We are witnesses.
-  May Yahweh make the woman who has come into your house like Rachel and like Leah, which two built
+  May Yahweh make the woman who has come into your house like Rachel and like Leah, which both built
   the house of Israel; and treat you worthily in Ephrathah, and be famous in Bethlehem. Let your house
   be like the house of Perez, whom Tamar bore to Judah.'"*
 - **Genesis 35:19; 48:7** — Rachel buried *"on the way to Ephrath (also called Bethlehem)"* — **the
@@ -20,6 +20,7 @@ tags: [connection]
   [[Rachel Weeping - Her Grave, Ramah, and Bethlehem]]
 - **Jeremiah 31:15; Matthew 2:18** — Rachel weeping at Ramah for children who *"are no more"*
 - **Ruth 4:17–22; Matthew 1:3–6** — the line from Perez to David, and past him
+- [[Boaz Redeems at the Gate]] — Ruth 4:11–12; the blessing at the gate, now ingested.
 
 ## Analysis
 
@@ -27,7 +28,7 @@ tags: [connection]
 verb, and names the younger first.**
 
 The elders at the gate of Bethlehem bless Ruth as a bride, and the formula they reach for is Genesis
-29–30: ***"like Rachel and like Leah, which two built the house of Israel."*** **Three things about
+29–30: ***"like Rachel and like Leah, which both built the house of Israel."*** **Three things about
 that sentence are worth stating exactly, because each of them cuts against something in the Genesis
 chapter it quotes.**
 
@@ -76,7 +77,7 @@ property in Canaan, and the tribes that carry Israel's institutions are hers. **
 sentence about it and Jacob is the one who says it**: *"there I buried Leah"* (49:31).
 ### The building, now that the wiki has it
 
-**Ruth 4:11's *"which two built the house of Israel"* is a summary of one pericope**, and
+**Ruth 4:11's *"which both built the house of Israel"* is a summary of one pericope**, and
 [[The Birth of Jacob's Children]] is it: eleven sons and a daughter in twenty-six verses, all named by
 women. **The blessing's verb, *bānâ*, is the chapter's own** — Rachel's *"that I also may obtain
 children by her"* (30:3) is *ʾibbāneh*, *I may be built up*, and Sarai used the same form at 16:2.
@@ -87,9 +88,19 @@ institutions come out of her** — [[Levi]] the priesthood, [[Judah]] the kingsh
 which is the line the blessing is being spoken over. **And [[Rachel]] bears one son here and one more at
 the cost of her life.** So Ruth 4:11's order is not a count; whatever it is doing, it is not arithmetic.
 
-**One thing the pericope adds that the blessing leaves out.** *"Which **two** built the house"* — but
+**One thing the pericope adds that the blessing leaves out.** *"Which **both** built the house"* (*šəṯêhem*, *the two of them*, WLC) — but
 four women bore the twelve. **[[Bilhah]] and [[Zilpah]] are the mothers of a third of the tribes and
 neither Ruth 4:11 nor any other blessing formula names them.** See [[Slavery and Servitude]].
+
+### Ruth 4:11–12 now ingested
+
+Checked against the stored WEB, the blessing reads *which both built the house of Israel*. This page and
+several others had quoted *which two built*; that wording is not the WEB's and has been corrected
+wherever it appeared. The Hebrew is *ʾăšer bānû šəṯêhem*, *which the two of them built* (WLC), so the
+point about *two* women, not four, stands on the Hebrew. *Bānâ* with *house* is also the verb of
+Deuteronomy 25:9, *the man who does not build up his brother's house*: the blessing is spoken over a
+levirate-style marriage in the levirate law's own word. See [[Boaz Redeems at the Gate]]. Source: stored
+WEB Ruth 4:11–12; Deuteronomy 25:9; Hebrew WLC, 2026-11-17.
 
 ## Significance
 

@@ -572,6 +572,7 @@ comparison himself. See
   where Tamar covered hers. See [[The Attire of a Prostitute - Genesis 38 and Proverbs 7.10]].
 - [[Fugitives, Interest, Vows, and a Neighbor's Produce]] — Deuteronomy 23:17–18 ingested. In the Torah *qǝdēšâ* occurs only at 38:21–22 and
   Deuteronomy 23:17 (WLC 23:18, morphhb), and 23:18 uses *zônâ* for the prostitute's hire.
+- Ruth 4:6 — the nearer kinsman's *ʾašḥîṯ*, the verb of Onan's *šiḥēṯ* (38:9); Ruth 4:12 — *the house of Perez, whom Tamar bore to Judah* — [[Boaz Redeems at the Gate]]
 
 ## Notes
 

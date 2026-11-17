@@ -22,9 +22,10 @@ tags: [connection]
 - **Jeremiah 40:1** — Ramah as the staging camp for the deportation to Babylon.
 - **Matthew 2:16–18** — Herod kills the infants *"in **Bethlehem** and in all the surrounding
   countryside"*, and Matthew quotes Jeremiah 31:15 over it.
-- **Ruth 4:11** — the elders at the gate of Bethlehem: *"Yahweh make the woman who has come into your
-  house like **Rachel and like Leah**, which two built the house of Israel."* See
+- **Ruth 4:11** — the elders at the gate of Bethlehem: *"May Yahweh make the woman who has come into your
+  house like **Rachel and like Leah**, which both built the house of Israel."* See
   [[Like Rachel and Like Leah - The Builders of the House of Israel]].
+- [[Boaz Redeems at the Gate]] — Ruth 4:11; the blessing invokes Rachel at Bethlehem's gate, with the town's other name, *Ephrathah*.
 
 ## Analysis
 

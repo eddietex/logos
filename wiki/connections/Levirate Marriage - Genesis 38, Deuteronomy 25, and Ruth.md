@@ -25,6 +25,7 @@ tags: [connection]
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–18; *spread the corner of your garment … for you are a near kinsman*
 - **Matthew 22:23–33 · Mark 12:18–27 · Luke 20:27–40** — the Sadducees' seven brothers
 - **Genesis 46:12; Numbers 26:19–22; 1 Chronicles 2:3–5** — the resulting clans
+- [[Boaz Redeems at the Gate]] — Ruth 4:1–12; the gate, the nearer kinsman's refusal, the shoe, *the name of the dead*.
 
 ## Analysis
 
@@ -156,6 +157,26 @@ the noun *yəḇēmeṯ* that Deuteronomy 25:7, 9 uses for the widow of the levi
 reasoning the levirate road is closed, and the book reopens it through a more distant kinsman (2:20;
 4:5, 10). See [[Ruth Clings to Naomi]]. Source: stored WEB Ruth 1:11–15; Genesis 38:11; Deuteronomy 25:7, 9; Hebrew WLC,
 2026-11-17.
+
+### Ruth 4:1–12 now ingested
+
+The gate scene uses Deuteronomy 25's words and changes its procedure. Boaz *went up to the gate* (Ruth
+4:1) as the refused widow *shall go up to the gate to the elders* (Deuteronomy 25:7; both *ʿālâ …
+haššaʿar*, WLC). The purpose is the law's: *to raise up the name of the dead* (Ruth 4:5, 10), *to raise
+up to his brother a name in Israel* (Deuteronomy 25:7). And the town blesses the marriage with *bānâ*,
+*built the house of Israel* (Ruth 4:11), the verb of *the man who does not build up his brother's house*
+(Deuteronomy 25:9). But the shoe works differently. In Deuteronomy the widow pulls it off (*ḥālaṣ*) and
+spits in his face, and his house gets a byword (25:9–10); in Ruth the man draws off his own shoe
+(*šālap̄*), the narrator calls it an old custom *concerning redeeming and concerning exchanging* (4:7), and
+there is no shame and no spitting. Ruth herself is not said to be present. Whether the two are one
+institution in two forms, or two customs, is debated and not settled here.
+
+The refusal also echoes Genesis 38. The kinsman declines *lest I endanger my own inheritance*, *pen-ʾašḥîṯ*
+(Ruth 4:6); Onan *spilled it on the ground*, *wəšiḥēṯ ʾarṣâ*, *lest he should give offspring to his brother*
+(Genesis 38:9). Same verb, *šāḥaṯ* (WLC). Onan takes the woman and refuses the child, and dies; the kinsman
+refuses openly, and is merely left unnamed. See [[Boaz Redeems at the Gate]] and
+[[The Nearer Kinsman (Ruth)]]. Source: stored WEB Ruth 4:1–12; Deuteronomy 25:5–10; Genesis 38:9; Hebrew
+WLC, 2026-11-17.
 
 ## Significance
 

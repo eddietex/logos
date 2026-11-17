@@ -155,7 +155,7 @@ tells it from her side. See
 
 This page grows as those pericopes arrive; what follows is the shape of it.
 
-**Ruth 4:11 blesses a bride to be *"like Rachel and like Leah, which two built the house of
+**Ruth 4:11 blesses a bride to be *"like Rachel and like Leah, which both built the house of
 Israel"***, and the child that blessing produces is Obed, David's grandfather, out of Judah:
 **Leah's line.** See [[Like Rachel and Like Leah - The Builders of the House of Israel]].
 
@@ -234,6 +234,7 @@ Israel"***, and the child that blessing produces is Obed, David's grandfather, o
   Machpelah burials that Genesis never narrated.** **She is in the cave with the patriarchs; her
   sister is not.** **The verse also carries her six sons' futures in the twenty-eight before it** —
   three demoted or cursed, one given the kingship, and two given a coastline and a corvée
+- [[Boaz Redeems at the Gate]] — Ruth 4:11; *like Rachel and like Leah*, named second, though Boaz's line is hers through Judah.
 
 ## Related people
 

@@ -6,6 +6,12 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Behold, the near kinsman … came by* — Ruth 4:1
+
+Naomi said *how the matter will fall* (3:18); the next morning Boaz sits down at the gate *and behold*,
+the kinsman passes (4:1, *wəhinnēh*). As with *she happened to come* (2:3), the narrator reports the timing
+and does not comment on it. See [[Boaz Redeems at the Gate]]. Source: stored WEB Ruth 4:1–12.
+
 ### *How the matter will fall* — Ruth 3:18
 
 Naomi, who planned the night, ends it by telling Ruth to wait, *until you know what will happen*, literally
@@ -553,6 +559,7 @@ The cloud and ark are given as Israel's direction, and Moses still asks a Midian
 See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Key passages
+- [[Boaz Redeems at the Gate]] — Ruth 4:1; *Behold, the near kinsman … came by*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:18; *how the matter will fall*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:3, 20; *she happened to come*; Naomi's blessing of a kindness not abandoned.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:22; *Yahweh set every man's sword against his fellow*.

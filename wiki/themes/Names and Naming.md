@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The name of the dead* — Ruth 4:1–12
+
+The gate scene is about a name. Boaz acquires Ruth *to raise up the name of the dead on his inheritance,
+that the name of the dead may not be cut off from among his brothers, and from the gate of his place*
+(4:10), the levirate law's purpose (*to raise up to his brother a name*, Deuteronomy 25:7). The man who
+declines is himself left unnamed, *pəlōnî ʾalmōnî*, *so-and-so* (4:1, WLC; WEB *friend*). The town's
+blessing wishes Boaz to *be famous*, literally *call a name*, in Bethlehem (11). The contrast between the
+unnamed refuser and the preserved name is a reader's observation; the text does not draw it. See [[Boaz Redeems at the Gate]] and
+[[The Nearer Kinsman (Ruth)]]. Source: stored WEB Ruth 4:1–12; Deuteronomy 25:7, 10; Hebrew WLC, 2026-11-17.
+
 ### *Don't call me Naomi. Call me Mara* — Ruth 1:20
 
 Naomi refuses her own name on the day she comes home. *Naomi* is usually connected with *pleasant*; she
@@ -426,6 +436,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Boaz Redeems at the Gate]] — Ruth 4:1, 5, 10–11; *so-and-so*; *the name of the dead may not be cut off*; *be famous* (*call a name*).
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–21; *Is this Naomi?*; *Call me Mara*, a self-given name the narrator never uses.
 - [[Famine and Death in Moab]] — Ruth 1:2–4; Elimelech, Naomi, Mahlon, Chilion, Orpah, and Ruth, none explained.
 - [[The Danite Migration]] — Judges 18:12, 29–30; Mahaneh Dan; Laish renamed Dan; *Moses* or *Manasseh* in the suspended *nun*.

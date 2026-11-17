@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *That the name of the dead may not be cut off* — Ruth 4:1–12
+
+The dead are the subject of the gate scene: Ruth is *the wife of the dead*, and the purpose of the
+purchase is *to raise up the name of the dead on his inheritance* (4:5, 10). What survives of Mahlon is a
+name on a field, kept alive by another man's marriage and a child not yet born. See [[Boaz Redeems at the Gate]] and
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Ruth 4:1–12.
+
 ### At his death, in his life — Judges 16:30
 
 *Samson said, "Let me die with the Philistines!"* (16:30), *tāmôt napšî*, the two words of Balaam's *Let
@@ -974,6 +981,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Boaz Redeems at the Gate]] — Ruth 4:5, 10; *the wife of the dead*; *that the name of the dead may not be cut off*.
 - [[The Death of Samson]] — Judges 16:30; *Let me die with the Philistines!*
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua at one hundred ten; Eleazar's death (29, 33).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the way of all the earth* (14).

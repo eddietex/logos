@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### The seller of Elimelech's land — Ruth 4:1–12
+
+At the gate Naomi is named as the one who *is selling the parcel of land, which was our brother
+Elimelech's* (4:3), and Boaz buys it *from the hand of Naomi* (5, 9). It is the first the book says of
+any land of hers; she said she came home *empty* (1:21), and she had a field to sell. How a widow held it
+the book does not explain. She is not present in the scene. See [[Boaz Redeems at the Gate]]. Source: stored WEB Ruth 4:1–12; Hebrew WLC, 2026-11-17.
+
 ### *Shall I not seek rest for you?* — Ruth 3
 
 Naomi, who prayed on the road that Yahweh would grant each widow *rest … in the house of her husband*
@@ -81,6 +88,7 @@ morphhb), 2026-11-17.
 - Arrives in Bethlehem at the start of barley harvest; asks to be called Mara — Ruth 1:19–22
 - Sends Ruth to glean; blesses Boaz and names him a near kinsman — Ruth 2:2, 18–22
 - Sends Ruth to Boaz at the threshing floor; *seek rest for you*; *Wait, my daughter* — Ruth 3:1–5, 16–18
+- Named as the seller of Elimelech's parcel of land, which Boaz buys *from the hand of Naomi* — Ruth 4:3, 9
 
 ## Appears in
 - [[Famine and Death in Moab]] — Ruth 1:1–5; widowed and bereaved of both sons in Moab.
@@ -88,6 +96,7 @@ morphhb), 2026-11-17.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:19–22; *Call me Mara*; *I went out full, and Yahweh has brought me home again empty*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1–5, 16–18; *shall I not seek rest for you*; *the man will not rest until he has settled this today*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 18–22; *who has not abandoned his kindness to the living and to the dead*; *one of our near kinsmen*.
+- [[Boaz Redeems at the Gate]] — Ruth 4:3, 5, 9; *Naomi … is selling the parcel of land, which was our brother Elimelech's*; absent from the scene.
 
 ## Related people
 - [[Elimelech]] — her husband
