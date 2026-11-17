@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *From Dan even to Beersheba* — Judges 20:1
+
+The assembly gathers *from Dan even to Beersheba* (20:1), the first use of the formula in the WLC files of
+Genesis through 1 Samuel; the next is 1 Samuel 3:20 (lemma search). The north end of the formula is the
+city that received the name *Dan* only at 18:29. See [[The War Against Benjamin]] and [[Beersheba]].
+Source: stored WEB Judges 18:29; 20:1; Hebrew WLC, 2026-11-17.
+
 ### Laish struck and renamed — Judges 18
 
 The Danite spies find Laish *quiet and secure*, with no one *possessing authority*, *far from the
@@ -63,6 +70,7 @@ See [[The Death of Moses]]. Source: stored WEB Deuteronomy 34:1–12.
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:1; *from Dan even to Beersheba*.
 - [[The Danite Migration]] — Judges 18:7–10, 27–31; Laish spied out, struck, burned, rebuilt, and renamed Dan.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; Leshem captured and renamed (47).
 - [[The Death of Moses]] — Deuteronomy 34:1–12; The northern limit of the view (1).

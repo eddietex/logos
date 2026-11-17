@@ -7,6 +7,13 @@ tags: [person]
 
 ## Overview
 
+### *Judah first* against Benjamin — Judges 20:18
+
+At Bethel Israel asks, *Who shall go up for us first to battle against the children of Benjamin?* Yahweh
+said, *Judah first* (20:18), the answer of 1:2 without its promise. Judah is not mentioned again in the
+chapter, and the first day costs Israel twenty-two thousand men (21). See [[The War Against Benjamin]] and
+[[Who Shall Go Up First - Judges 1.1-2 and 20.18]]. Source: stored WEB Judges 1:1–2; 20:18–21.
+
 ### The men of Judah bind Samson — Judges 15:9–13
 
 The Philistines camp *in Judah* to take Samson (15:9). The tribe that went up first against the
@@ -463,6 +470,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:18; *Judah first*.
 - [[Micah's Idol and Levite]] — Judges 17:7; the Levite *of the family of Judah*, from Bethlehem Judah.
 - [[Samson Against the Philistines at Lehi]] — Judges 15:9–13; three thousand men bind Samson for the Philistines.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.

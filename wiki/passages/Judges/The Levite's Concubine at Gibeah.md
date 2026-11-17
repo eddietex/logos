@@ -144,7 +144,7 @@ what he did.
 - **Humble them.** *Wəʿannû ʾôṯām* (24, WLC). *ʿInnâ* is the verb of Shechem with Dinah (Genesis 34:2) and
   of the law of the betrothed and unbetrothed girl (Deuteronomy 22:24, 29); in Judges it was Delilah's
   commission, *that we may bind him to afflict him* (16:5, 19) (WLC; stored WEB). The Levite will use it of
-  this night himself (20:5, WLC; not yet ingested).
+  this night himself (20:5, WLC; see [[The War Against Benjamin]]).
 - **The man laid hold of his concubine.** *Wayyaḥăzēq hāʾîš bəp̄îlagšô* (25, WLC). Which man — the host or
   the Levite — the Hebrew of verse 25 does not say; *his concubine* and 20:5 point to the Levite. The same
   words, *wayyaḥăzēq bəp̄îlagšô*, return in verse 29 with the knife.
@@ -177,7 +177,8 @@ what he did.
 
 **How it connects.** The chapter is the hinge of the epilogue. Its first verse matches 17:7–8 — a Levite,
 Bethlehem Judah, the hill country of Ephraim — and its last points forward to the assembly *as one man*
-at Mizpah, the war, and the near-extinction of Benjamin (20:1–21:25, not yet ingested). The wiki's
+at Mizpah, the war, and the near-extinction of Benjamin ([[The War Against Benjamin]], 20:1–48; 21:1–25 not yet
+ingested). The wiki's
 earlier pages already anticipate it: [[Gibeah and Sodom - Judges 19 as a Retelling]] lays the two
 chapters side by side; [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]] sets the *nəḇālâ* of
 Gibeah beside Dinah; [[Hospitality]] sets the two door scenes against the two annunciations of Genesis 18
@@ -259,7 +260,7 @@ kingship, the text does not say; readers propose each.
 - [[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]]
 - [[Two Levites from Bethlehem Judah - Judges 17 and 19]]
 - [[The City of a Foreigner - Jebus Passed By for Gibeah]]
-- Judges 20:1–13 — the assembly and the demand for *the wicked fellows* (stored WEB; not yet ingested).
+- [[The War Against Benjamin]] — Judges 20:1–13; the assembly and the demand for *the wicked fellows*.
 - 1 Samuel 10:26; 11:4, 7 — Gibeah of Saul; the oxen cut in pieces (WEB checked at bible-api.com).
 - Hosea 9:9; 10:9 — *the days of Gibeah* (WEB checked at bible-api.com).
 
@@ -273,7 +274,7 @@ which says *They intended to kill me* and omits his act; readers who find him a 
 assembly that takes his side. The wiki records the details and not a verdict.
 
 **Was she dead?** Verse 28's *no one answered* leaves it open; verse 29 says nothing; 20:5 says *she is
-dead*, and 20:4 calls her *the woman who was murdered* (stored WEB; not yet ingested). The wiki does not
+dead*, and 20:4 calls her *the woman who was murdered* (see [[The War Against Benjamin]]). The wiki does not
 decide whether the knife fell on the living. The Greek's *for she was dead* at 19:28 is reported, not
 checked.
 

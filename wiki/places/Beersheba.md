@@ -7,6 +7,13 @@ tags: [place]
 
 ## Overview
 
+### *From Dan even to Beersheba* — Judges 20:1
+
+Beersheba is the south end of the whole land in the formula's first use: *the congregation was assembled
+as one man, from Dan even to Beersheba* (20:1). In the WLC files of Genesis through 1 Samuel the formula
+occurs next at 1 Samuel 3:20. See [[The War Against Benjamin]] and [[Dan (city)]]. Source: stored WEB
+Judges 20:1; Hebrew WLC, 2026-11-17.
+
 ### Three tribal lots — Joshua 19:1–23
 
 Listed among Simeon’s towns within Judah’s inheritance (19:2); verse 9 explains the shared territory by Judah’s oversized portion. No new capture is narrated. The stored WEB gives Sheba as an alternative name in parentheses (2), not a separate fourteenth town.
@@ -82,6 +89,7 @@ is the standing formula for the whole land, north to south, and Beersheba is the
 every one of them.
 
 ## Appears in
+- [[The War Against Benjamin]] — Judges 20:1; *from Dan even to Beersheba*.
 - [[The Lots of Simeon, Zebulun, and Issachar]] — Joshua 19:1–23.
 
 - [[The Cities of Judah]] — Joshua 15:20–63.

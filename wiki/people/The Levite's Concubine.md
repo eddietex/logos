@@ -25,8 +25,9 @@ was* and falls at the door, *with her hands on the threshold* (19:26–27). When
 answered* (19:28). Whether she was dead then the Hebrew does not say; the Greek is reported to add *for she
 was dead* (not checked). He cuts her into twelve pieces and sends them through Israel (19:29).
 
-The next chapter calls her *the woman who was murdered* (20:4, stored WEB; not yet ingested), and her death
-starts the war against Benjamin. The tradition the wiki has stored does not mourn her by name;
+The next chapter calls her *the woman who was murdered*, *hāʾiššâ hanniršāḥâ* (20:4, WLC), with the verb of
+*You shall not murder* (Exodus 20:13), and her husband says *she is dead* (20:5). Her death starts the war
+against Benjamin; she is not named in it again after verse 6. See [[The War Against Benjamin]]. The tradition the wiki has stored does not mourn her by name;
 [[Jephthah's Daughter]] got four days a year (11:40), and she gets no notice at all. The wiki notes the
 contrast; the text does not draw it.
 
@@ -39,9 +40,10 @@ what seems good to you* (Genesis 19:8); there the visitors intervened, and here 
 - Fetched by her husband after four months (19:3–10).
 - Offered and put out to the men of Gibeah; abused all night (19:24–25).
 - Found at the threshold at dawn; cut in twelve pieces (19:26–29).
-- *The woman who was murdered* (20:4; not yet ingested).
+- *The woman who was murdered* (20:4–6).
 
 ## Appears in
+- [[The War Against Benjamin]] — Judges 20:4–6; *the woman who was murdered*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–30.
 
 ## Related people

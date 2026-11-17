@@ -19,6 +19,8 @@ tags: [connection]
 - [[Marriage Accusations and Sexual Offenses]] — Deuteronomy 22:21, 22, 24; the bride found not to be a virgin, adultery, and the pledged
   woman in the city.
 - [[Pledges, Wages, Justice, and Gleaning]] — Deuteronomy 24:7; the kidnapper.
+- [[The War Against Benjamin]] — Judges 20:13; the formula in the mouth of the assembly, the only time in
+  the WLC files of Genesis through Judges outside Deuteronomy.
 - 1 Corinthians 5:13 — *"But those who are outside, God judges. 'Put away the wicked man from among
   yourselves.'"* (WEB, verified from bible-api.com).
 
@@ -115,3 +117,15 @@ use it will need to add themselves to this page as they are ingested. See [[Judg
 Sources: stored WEB Deuteronomy 13:5, 11, 17:7, 17:12, 19:19, 21:21, 22:21–24, 24:7; WLC
 Deuteronomy 13:6 (morphhb), retrieved 2026-11-06. 1 Corinthians 5:1–13 verified from bible-api.com
 (WEB), 2026-11-06.
+### Judges 20:13 — the formula outside the law
+
+*Now therefore deliver up the men, the wicked fellows, who are in Gibeah, that we may put them to death, and
+put away evil from Israel* (Judges 20:13). The Hebrew is *ûnəḇaʿărâ rāʿâ miyyiśrāʾēl* (WLC), the formula in
+the first person plural, *let us put away*, and in its *from Israel* form (Deuteronomy 17:12; 22:22). A
+search of the WLC files of Genesis through Judges for *bāʿar* (1197) with *raʿ* (7451) in one verse finds
+it outside Deuteronomy only here (the other hit, Numbers 11:1, is *burned*, not the formula). The tribes'
+demand is for the men only. *But Benjamin would not listen* (13), and the war that follows ends with every
+Benjamite town burned (20:48). The formula meant the offender's death, and in Judges 20 the deaths go far
+beyond the offenders. See [[The War Against Benjamin]] and
+[[The Whole City Went Up - Deuteronomy 13 and Gibeah]]. Source: stored WEB Judges 20:13, 48; Deuteronomy
+17:12; 22:22; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

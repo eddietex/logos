@@ -10,9 +10,9 @@ tags: [connection]
 - [[Judah Goes Up First]] — **Judges 1:1–2** — *"Who should go up for us first against the
   Canaanites, to fight against them?" Yahweh said, "Judah shall go up. Behold, I have delivered the
   land into his hand."*
-- **Judges 20:18** *(not yet ingested; stored WEB)* — *"Who shall go up for us first to battle against
+- [[The War Against Benjamin]] — **Judges 20:18** — *"Who shall go up for us first to battle against
   the children of Benjamin?" Yahweh said, "Judah first."*
-- **Judges 20:23, 27–28** *(not yet ingested; stored WEB)* — two further inquiries in the same war,
+- [[The War Against Benjamin]] — **Judges 20:23, 27–28** — two further inquiries in the same war,
   the second with Phinehas standing before the ark.
 - [[Israel's Repentance Under Ammon]] — **Judges 10:18** — *"Who is the man who will begin to fight against the children of Ammon?"*, asked by the princes of Gilead of one another.
 
@@ -74,3 +74,12 @@ and 20:18 Israel asks Yahweh and Yahweh answers with a tribe. At 10:18 the princ
 Yahweh is not consulted, no answer is given, and a reward is offered. The answer comes in the next
 chapter, from the narrator: *Now Jephthah the Gileadite* (11:1). See [[Israel's Repentance Under Ammon]].
 Sources: stored WEB Judges 1:1; 10:18; 11:1. Hebrew from the Westminster Leningrad Codex (OpenScriptures morphhb), 2026-11-15.
+### Judges 20 now ingested
+
+The chapter bears out the table. Judah is named at verse 18 and not again; whatever Judah did on the first
+day, Israel lost twenty-two thousand (21). The three inquiries rise in what they ask: *who first* (18),
+*shall I again draw near* (23), *shall I yet again go out … or shall I cease?* (28, *ʾim-ʾeḥdāl*, WLC). Only
+the last offers to stop, and only the last receives a promise. The parallel the war draws with Joshua 22,
+where the congregation gathered against brothers and did not fight, is on
+[[Gathered to Go Up Against Their Brothers - Joshua 22 and Judges 20]]. See [[The War Against Benjamin]].
+Source: stored WEB Judges 20:18–28; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

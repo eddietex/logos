@@ -6,8 +6,9 @@ tags: [connection]
 # Searched Out, Struck, and Burned - Deuteronomy 13 and Laish
 
 ## Passages involved
-- Deuteronomy 13:12–16 — the law of the city that serves other gods (stored WEB; the wiki has no
-  passage page that covers it).
+- [[Do Not Follow Other Gods]] — Deuteronomy 13:12–16; the law of the city that serves other gods (stored
+  WEB). This entry formerly said no passage page covered these verses; that passage page covers
+  Deuteronomy 12:29–13:18.
 - [[The Danite Migration]] — Judges 18:2, 7, 27–28; Laish searched out, struck, burned, and rebuilt.
 
 ## Analysis
@@ -57,3 +58,11 @@ Deuteronomy 13, the Danites do to a foreign town what the law said Israel should
 Israelite one, and then do what the law forbade. See
 [[The Land Is Very Good - The Spies of Numbers 13-14 and Judges 18]] and
 [[A Carved Image and a Molten Image - Deuteronomy 27.15 and Micah's House]].
+### The other half — Gibeah, Judges 20
+
+The epilogue's second story uses the parts of the law Laish lacks: *bənê ḇəliyyaʿal*, the law's *wicked
+fellows* (Deuteronomy 13:14 Hebrew; Judges 19:22; 20:13), *put away evil from Israel* (20:13), the *edge of
+the sword* and *the livestock* (20:37, 48), and the city going up *kālîl*, *whole*, as the law's city is
+burned *kālîl to Yahweh* (20:40; Deuteronomy 13:17 Hebrew). Gibeah is an Israelite town, as the law's city
+is, but its crime is not other gods. See [[The Whole City Went Up - Deuteronomy 13 and Gibeah]] and
+[[The War Against Benjamin]]. Source: stored WEB Judges 19:22; 20:13–48; Hebrew WLC, 2026-11-17.

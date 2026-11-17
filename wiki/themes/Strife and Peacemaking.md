@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### A demand refused — Judges 20:12–14
+
+Before any battle the tribes send through Benjamin with a question and a demand: *What wickedness is this
+… deliver up the men, the wicked fellows, who are in Gibeah* (20:12–13). Benjamin refuses and musters (14).
+No mediator appears, and peace is first *proclaimed* only after the war, to the six hundred at the rock of
+Rimmon (21:13, stored WEB; not yet ingested). In Joshua 22 Phinehas and ten princes went before the
+fighting and none came; see [[Gathered to Go Up Against Their Brothers - Joshua 22 and Judges 20]] and
+[[The War Against Benjamin]].
+Source: stored WEB Judges 20:12–14; 21:13; Joshua 22:13–33.
+
 ### *A man of strife* — Judges 12:1–4
 
 Ephraim brings Jephthah the complaint it brought Gideon (12:1; 8:1). Jephthah answers, *I and my people were
@@ -456,6 +466,7 @@ Most of this theme concerns peace reached between people. The priestly blessing 
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:12–14; the demand, and the refusal.
 - [[Shibboleth]] — Judges 12:1–4; *a man of strife*, and an answer that does not turn away wrath.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:12–28; an embassy before battle, *peaceably*, and *did he ever strive*.
 

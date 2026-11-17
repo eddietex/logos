@@ -18,7 +18,7 @@ tags: [connection]
   and cast into a calf at Sinai; a later, different calf is placed at Bethel. See [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–26; the house of Joseph takes Bethel, once Luz,
   and the spared man builds a new Luz
-- Judges 20:18, 26–28 — the ark at Bethel, and Israel enquiring of God there
+- [[The War Against Benjamin]] — Judges 20:18, 26–28; the ark at Bethel, and Israel enquiring of God there
 - 1 Samuel 7:16 — Bethel on Samuel's circuit
 - 1 Kings 12:26–33 — Jeroboam's two calves, and the one at Bethel
 - 1 Kings 13:1–34 — the man of God out of Judah, and the altar torn

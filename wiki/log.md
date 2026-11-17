@@ -27690,3 +27690,65 @@ fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`
 on the passage page and cover Genesis through Judges unless stated. Reported, not checked: the Greek
 readings at 19:2, 18, 28, 30; readers' identifications of Gibeah's site. No Greek text was consulted, and
 the Hebrew of 1 Kings and 2 Samuel was not consulted.
+
+## [2026-11-17] ingest | Judges 20.1-48 — The War Against Benjamin
+
+Unattended run (`/ingest auto`). Created: [[The War Against Benjamin]]; places [[Baal Tamar]],
+[[The Rock of Rimmon]], [[Gidom]]; connections
+[[The Whole City Went Up - Deuteronomy 13 and Gibeah]],
+[[Gathered to Go Up Against Their Brothers - Joshua 22 and Judges 20]].
+
+Revised: people [[The Levite (husband of the concubine)]], [[The Levite's Concubine]], [[Benjamin]],
+[[Judah]], [[Phinehas (son of Eleazar)]], [[Eleazar (son of Aaron)]], [[Aaron]]; places
+[[Gibeah (Benjamin)]], [[Mizpeh]] (alias *Mizpah (Benjamin)*), [[Geba]] (alias *Maareh Geba*), [[Bethel]],
+[[Dan (city)]], [[Beersheba]], [[Gilead]]; themes [[War]], [[Brotherhood]], [[Strife and Peacemaking]],
+[[Judgment]], [[Retribution]], [[Law and Obedience]], [[Prayer]], [[Mourning and Lament]],
+[[Sacrifice and Offering]], [[Priesthood]], [[The Dwelling of God]], [[Folly]], [[Sexual Sin]];
+connections [[Who Shall Go Up First - Judges 1.1-2 and 20.18]],
+[[Drawn Away from the City - Ai and Gibeah]] (now with a Hebrew comparison of Joshua 8 and Judges 20),
+[[Left-Handed Men of Benjamin - Judges 3.15 and 20.16]],
+[[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]],
+[[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]],
+[[Searched Out, Struck, and Burned - Deuteronomy 13 and Laish]],
+[[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]],
+[[Cut Limb by Limb - The Burnt Offering, the Concubine, and Saul's Oxen]],
+[[Gibeah and Sodom - Judges 19 as a Retelling]], [[Bethel from Jacob's Pillar to Jeroboam's Calf]],
+[[Urim and Thummim - The Breastplate of Judgment and Later Inquiry]]; passage
+[[The Levite's Concubine at Gibeah]] ("not yet ingested" pointers to Judges 20 now link the passage);
+[[Judges]] (box checked, overview paragraph, key themes, people, places). Also `wiki/books/index.md`
+(41 / 42), the places and themes indexes, People Index A-E, F-M, and N-Z, all five Connections
+subindexes, and the dashboard counts. Frontmatter totals: 477 passages, 343 people, 596 places, 88
+themes, 908 connections.
+
+Corrections to existing pages, not contradictions between them:
+[[Searched Out, Struck, and Burned - Deuteronomy 13 and Laish]] said no passage page covered Deuteronomy
+13:12–16; [[Do Not Follow Other Gods]] covers 12:29–13:18, and the entry and its index row now link it.
+[[Drawn Away from the City - Ai and Gibeah]] had compared English only and said so; the Hebrew is now
+compared and the shared phrases confirmed in the WLC.
+
+Tension recorded, not resolved: the ark is at Bethel *in those days* (20:27), while Joshua 18:1 set up the
+tent at Shiloh and Judges 18:31 has *God's house* in Shiloh; noted on [[Bethel]], [[The Dwelling of God]],
+and the passage page. The casualty figures do not add up (26,700 mustered; 25,100 or 25,000 fallen; 600
+left); noted on the passage page, not reconciled.
+
+Open questions recorded rather than resolved: whether the war was just, and why the first two oracles led
+to defeat; which Mizpah (filed under Benjamin's [[Mizpeh]], an identification commonly made and not in the
+text); Geba or Gibeah at 20:10 (the WLC reads Geba; the WEB is followed); whether 20:36–46 is a second account
+of the day of 20:29–35; *Menuhah* as a place-name at 20:43; *məṯōm* or *məṯîm* at 20:48; *ʾelep* as a unit;
+whether Hosea 10:9's *battle … in Gibeah* means this war.
+
+Judgment calls: kept 20:1–48 as one pericope as planned. Created place pages for Baal Tamar, the rock of
+Rimmon, and Gidom; filed Maareh Geba as an alias on [[Geba]] rather than a page, since *maʿărê* may be a
+common noun. No person pages for the men of Gibeah, the seven hundred slingers, the ten thousand, or the
+six hundred. Reading the burning of Gibeah against Deuteronomy 13, and Judges 20 against Joshua 22, is the
+wiki's; each connection page says so.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 19:24, 28; 43:34;
+49:27; Exodus 13:21–22; 20:13; 28:31; Leviticus 6:22–23; 18:17; 19:29; 20:14; Numbers 14:15; 20:8–11;
+25:7–13; Deuteronomy 12:9; 13:12–18; 17:12; 22:22; 33:10; Joshua 8:2–20; 18:1, 26; 22:11–33; 24:33; Judges
+1:1–3, 7; 3:15; 4:5; 6:16; 15:8; 16:9, 25–29; 17:5–12; 18:29–31; 19:22–30; 21:1–13, 25. 1 Samuel 3:20;
+7:5–9; 10:26; 11:4–7; 14:45; 17:49; 25:29 and Hosea 10:9 checked against the WEB at bible-api.com (not stored
+in raw). Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`,
+`Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, `1Sam`, and `Hos` XML on 2026-11-17; lemma occurrence claims
+cover those files and are listed on the passage page. Reported, not checked: the readings listed above as
+open questions. No Greek text was consulted.

@@ -10,7 +10,8 @@ tags: [connection]
 - Genesis 19:1–11 — two visitors, a host at the gate, a town at the door, a daughter offered
 - Judges 19:11–30 — the Levite at Gibeah: the same scene, in Israel, with no angels in it. See
   [[The Levite's Concubine at Gibeah]]
-- Judges 20–21 — the war it causes, and the near-extinction of Benjamin
+- [[The War Against Benjamin]] — Judges 20; the war it causes. Judges 21, the near-extinction of Benjamin, is
+  not yet ingested.
 - Hosea 9:9; 10:9 — *"the days of Gibeah"*, the prophets' shorthand for it
 - Genesis 22:6, 10; Judges 19:29 — *maʾăkelet*, the slaughtering knife: the Bible uses the word in
   exactly two narratives, and the blade is stopped in only one of them. See
@@ -102,3 +103,11 @@ have only the short form, *there was no king in Israel*; the full form with *rig
 The retelling begins a chapter earlier than this page's table: the father-in-law's *strengthen your heart
 with a morsel of bread* is Abraham's at Mamre. See [[A Morsel of Bread - Genesis 18.5 and Judges 19.5]],
 [[The Old Man of Gibeah]], [[The Levite's Concubine]], and [[Gibeah (Benjamin)]].
+### Judges 20 — Sodom's ending
+
+At Sodom *Yahweh rained on Sodom and on Gomorrah sulfur and fire* (Genesis 19:24), and Abraham saw *the
+smoke of the land went up as the smoke of a furnace* (19:28). Gibeah also ends in fire and smoke going up:
+*the whole city went up in smoke to the sky* (Judges 20:40). The fire at Gibeah is set by Israel's ambush,
+and Yahweh's part is told as *Yahweh struck Benjamin before Israel* (20:35). The Hebrew of the two
+smoke clauses is not the same; the shared image is the wiki's observation. See [[The War Against Benjamin]].
+Source: stored WEB Genesis 19:24, 28; Judges 20:35–40.

@@ -11,8 +11,8 @@ tags: [connection]
 - **Judges 19:29** — *"he took a knife, and cut up his concubine, and divided her, limb by limb, into
   twelve pieces, and sent her throughout all the borders of Israel"* (stored WEB). See
   [[The Levite's Concubine at Gibeah]].
-- **Judges 20:6** — *"I took my concubine, and cut her in pieces, and sent her throughout all the country
-  of the inheritance of Israel"* (stored WEB; not yet ingested).
+- [[The War Against Benjamin]] — **Judges 20:6** — *"I took my concubine, and cut her in pieces, and sent
+  her throughout all the country of the inheritance of Israel"* (stored WEB).
 - **1 Samuel 11:7** — *"He took a yoke of oxen, and cut them in pieces, and sent them throughout all the
   borders of Israel by the hand of messengers … The dread of Yahweh fell on the people, and they came out
   as one man"* (WEB checked at bible-api.com, 2026-11-17; 1 Samuel not yet in raw).
@@ -58,3 +58,12 @@ Sources: stored WEB Exodus 29:17; Leviticus 1:6, 12; 8:20; Judges 19:29–30; 20
 11:4, 7 and 1 Kings 11:30 from bible-api.com (WEB), 2026-11-17. Hebrew from the Westminster Leningrad Codex
 (OpenScriptures morphhb) `Exod`, `Lev`, `Judg`, and `1Sam` XML, downloaded 2026-11-17. The Hebrew of 1
 Kings 11:30 was not consulted.
+### Judges 20 now ingested — *as one man*
+
+The muster the pieces called is told three times *as one man*, *kəʾîš ʾeḥāḏ* (20:1, 8, 11, WLC). In the WLC
+files of Genesis through 1 Samuel the phrase occurs otherwise at Numbers 14:15, Judges 6:16, and 1 Samuel
+11:7, Saul's muster after the oxen. The Levite's own retelling at 20:6 keeps the verb *nittaḥ*,
+*wāʾănattəḥehā*, *and I cut her in pieces*. In Judges the summons brings a war against a tribe of Israel; in 1
+Samuel 11 the same summons brings Israel to the rescue of Jabesh Gilead (WEB checked at bible-api.com,
+2026-11-17; not stored). See [[The War Against Benjamin]]. Source: stored WEB Numbers 14:15; Judges 6:16;
+20:1–11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

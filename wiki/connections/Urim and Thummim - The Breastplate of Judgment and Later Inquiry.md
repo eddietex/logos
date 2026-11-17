@@ -120,6 +120,6 @@ answered *Judah shall go up*. The verse names no priest, no Urim, no ark, and no
 had appointed Eleazar to inquire *by the judgment of the Urim* for Joshua, and Eleazar has just died
 (Joshua 24:33). That the Urim were used here is an inference from that law, not something the text
 says. The same verb, *šāʾal*, returns for the inquiries against Benjamin (Judges 20:18, 23, 27); at
-20:27–28 the ark is at hand and Phinehas stands before it. See [[Judah Goes Up First]] and
+20:27–28 the ark is at hand and Phinehas stands before it. See [[Judah Goes Up First]], [[The War Against Benjamin]], and
 [[Who Shall Go Up First - Judges 1.1-2 and 20.18]]. Source: stored WEB Judges 1:1–2; 20:18–28;
 Numbers 27:21; Joshua 24:33. Hebrew from WLC (OpenScriptures morphhb), 2026-11-12.

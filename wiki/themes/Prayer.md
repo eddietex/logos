@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three inquiries at Bethel — Judges 20:18–28
+
+Israel asks God three times before the battles, and each question is longer: *Who shall go up for us
+first?* (20:18); *Shall I again draw near to battle against the children of Benjamin my brother?* (23);
+*Shall I yet again go out … or shall I cease?* (28). The second comes after weeping, the third after weeping,
+fasting, and sacrifice, and only the third receives a promise: *tomorrow I will deliver him into your hand*
+(28). The text does not say why the first two answers led to defeat. See [[The War Against Benjamin]] and
+[[Who Shall Go Up First - Judges 1.1-2 and 20.18]].
+Source: stored WEB Judges 20:18–28.
+
 ### Remember me, strengthen me — Judges 16:28
 
 Samson's second and last prayer: *Lord Yahweh, remember me, please, and strengthen me, please, only this
@@ -444,6 +454,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[The War Against Benjamin]] — Judges 20:18, 23, 26–28; three inquiries, the last with fasting.
 - [[The Death of Samson]] — Judges 16:28; *remember me, please, and strengthen me*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:10–15; the cry quoted, refused, and renewed.
 - [[The Fleece]] — Judges 6:36–39; two conditional requests, the second with Abraham's preface.

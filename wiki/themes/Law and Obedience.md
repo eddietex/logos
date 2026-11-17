@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### The law of the condemned city — Judges 20
+
+The assembly speaks in Deuteronomy's terms — *put away evil from Israel* (20:13; Deuteronomy 17:12;
+22:22) — and the war ends with the actions of Deuteronomy 13's law for an Israelite city given over: the
+edge of the sword, the livestock, the fire, and the city *kālîl*, *whole* (20:37–40, 48; Deuteronomy
+13:15–16 English). But the law's case is a city that served other gods and was first investigated; Gibeah's
+crime is rape and murder, the assembly swore to act before it sent to Benjamin (20:8–12), and the burning
+reaches *all the cities* (48). The narrator does not cite the law. See
+[[The Whole City Went Up - Deuteronomy 13 and Gibeah]] and [[The War Against Benjamin]].
+Source: stored WEB Deuteronomy 13:12–18; 17:12; 22:22; Judges 20:8–13, 37–48; Hebrew WLC, 2026-11-17.
+
 ### He did as Yahweh had spoken — Judges 6:25–32
 
 *Then Gideon took ten men of his servants, and did as Yahweh had spoken to him* (6:27). It is the first
@@ -1588,6 +1599,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The War Against Benjamin]] — Judges 20:13, 37–48; Deuteronomy's formula and the condemned city's fire.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:27, 30–31; the command against altars obeyed, and the law's death sentence turned around.
 - [[Midian's Oppression and the Prophet]] — Judges 6:10; the charge of not listening.
 - [[The Nations Left to Test Israel]] — Judges 3:4–6; the commandments by Moses, and the marriages.

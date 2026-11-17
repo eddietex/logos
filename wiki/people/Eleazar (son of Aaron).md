@@ -343,6 +343,7 @@ See [[The Service of Kohath, Gershon, and Merari]]. Source: stored WEB Numbers 4
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:28; named as Phinehas's father, after his death and burial (Joshua 24:33).
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; dies and is buried in the hill of Phinehas (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

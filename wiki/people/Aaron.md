@@ -779,6 +779,7 @@ Aaron joins Miriam in speaking against Moses and in claiming that Yahweh has spo
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:28; named as Phinehas's grandfather, *the son of Eleazar, the son of Aaron*.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; named as Eleazar's father (33).
 - [[The Covenant at Shechem]] — Joshua 24:1–28; sent with Moses (5).
 - [[The Cities of the Levites]] — Joshua 21:1–42.

@@ -7,6 +7,14 @@ tags: [place]
 
 ## Overview
 
+### *With the land of Gilead* — Judges 20:1
+
+The assembly against Benjamin is *from Dan even to Beersheba, with the land of Gilead* (20:1): the tribes
+east of the Jordan are counted in. In the next chapter one town of Gilead, Jabesh, is found not to have
+come (21:8–9, stored WEB; not yet ingested). See [[The War Against Benjamin]] and
+[[Those Who Did Not Come - Meroz, Succoth and Penuel, and Jabesh Gilead]]. Source: stored WEB Judges 20:1;
+21:8–9.
+
 ### Against Ephraim, and Jephthah's grave — Judges 12:1–7
 
 *Jephthah gathered together all the men of Gilead, and fought with Ephraim* (12:4). Ephraim had mocked them
@@ -199,6 +207,7 @@ the lovers' exchange. Source: stored WEB Song of Solomon 4:1; 6:4–10.
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:1; *with the land of Gilead*.
 - [[Shibboleth]] — Judges 12:1–7; Gilead's men fight Ephraim, and Jephthah is buried in its cities.
 - [[Jephthah's Vow]] — Judges 11:29, 40; Jephthah passes over Gilead to Ammon.
 - [[Jephthah Called from Tob]] — Judges 11:1–11; Jephthah's people and father's name; its elders make him head.

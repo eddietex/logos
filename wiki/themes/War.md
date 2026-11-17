@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### All Israel against one tribe — Judges 20
+
+The last war in Judges is the only one every tribe fights, and it is fought against a tribe: four hundred
+thousand *who drew sword* against Benjamin's twenty-six thousand seven hundred (20:2, 15–17). It is waged
+with the conquest's tools — the oracle *Judah first* (18), the ambush and feigned flight of Ai (29–42),
+the city struck *with the edge of the sword* and burned (37, 48) — and it costs Israel forty thousand men
+on two days before Yahweh promises victory (21, 25, 28). It ends with Benjamin's towns and livestock struck
+and six hundred men left. See [[The War Against Benjamin]] and [[Drawn Away from the City - Ai and Gibeah]].
+Source: stored WEB Judges 20:1–48.
+
 ### Fire, slaughter, and a jawbone — Judges 15:4–16
 
 Samson's war with the Philistines is fought by one man. He burns their grain with three hundred foxes
@@ -916,6 +926,7 @@ in Genesis–Deuteronomy only here (WLC). The command to blot out Amalek waits u
 *"rest from all your enemies all around"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[The Battle with Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:1–48; all the tribes against Benjamin.
 - [[The Danite Migration]] — Judges 18:11, 16–17, 25–28; six hundred armed men, and an undefended city struck and burned.
 - [[Shibboleth]] — Judges 12:4–6; Gilead against Ephraim, forty-two thousand at the fords.
 - [[Jephthah's Vow]] — Judges 11:32–33; twenty cities struck, and Ammon subdued.

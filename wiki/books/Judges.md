@@ -419,6 +419,18 @@ night and found at dawn *with her hands on the threshold*; to *Get up* *no one a
 offering's verb, and sends them *throughout all the borders of Israel*: *Such a deed has not been done or
 seen from the day that the children of Israel came up out of the land of Egypt*.
 
+[[The War Against Benjamin]] (20:1–48) is the counsel the pieces asked for. The congregation assembles *as
+one man, from Dan even to Beersheba* at Mizpah; the Levite tells the night his way — *They intended to kill
+me* — and leaves out what he did, and the tribes swear not to go home. They demand *the wicked fellows* of
+Gibeah, *that we may … put away evil from Israel*, in Deuteronomy's words, *but Benjamin would not listen*.
+At Bethel the book's first question is asked again, *Who shall go up for us first?*, and answered again,
+*Judah first*, now against a brother tribe. Benjamin, with seven hundred left-handed slingers like Ehud,
+kills twenty-two thousand and then eighteen thousand. Only after weeping, fasting, and sacrifice, with the
+ark at Bethel and *Phinehas, the son of Eleazar, the son of Aaron* before it, does Yahweh promise victory.
+The third day is Ai's stratagem turned inward: ambushes, a feigned flight, smoke, and *the whole city went
+up* — *kālîl*, the word for the condemned city of Deuteronomy 13. Twenty-five thousand Benjamites fall,
+every town and its livestock is struck and burned, and six hundred men hold the rock of Rimmon.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -481,7 +493,7 @@ merge, or reorder them freely.
 - [x] [[Micah's Idol and Levite]] — Judges 17:1–13
 - [x] [[The Danite Migration]] — Judges 18:1–31
 - [x] [[The Levite's Concubine at Gibeah]] — Judges 19:1–30
-- [ ] The War Against Benjamin — Judges 20:1–48
+- [x] [[The War Against Benjamin]] — Judges 20:1–48
 - [ ] Wives for Benjamin — Judges 21:1–25
 
 ## Key themes
@@ -489,7 +501,7 @@ merge, or reorder them freely.
 - [[Retribution]] — *As I have done, so God has done to me* (1:7), the first of the book's
   measure-for-measure reversals; *Thus God repaid the wickedness of Abimelech* (9:56).
 - [[Land and Sojourning]] — the land allotted in Joshua, still to be taken in Judges.
-- [[Brotherhood]] — Judah and Simeon fight together (1:3); *He is our brother*, and seventy brothers killed on one stone (9:3–5); Judah leads against Benjamin (20:18).
+- [[Brotherhood]] — Judah and Simeon fight together (1:3); *He is our brother*, and seventy brothers killed on one stone (9:3–5); Judah leads against Benjamin, *my brother* (20:18, 23, 28).
 - [[Slavery and Servitude]] — forced labor in place of driving out (1:28–35).
 - [[The Nations]] — the Canaanites and Amorites who stay (1:27–36), and the nations left to test Israel (3:1–6).
 - [[Testing]] — the nations left *to test Israel by them* (2:22; 3:1, 4); Gideon's *let me make a trial* with the fleece (6:39); Yahweh's *I will test them for you* at the water (7:4).
@@ -529,6 +541,9 @@ merge, or reorder them freely.
 - [[Sexual Sin]] — the men of Gibeah at the door, and the concubine abused all night (19:22–25).
 - [[Folly]] — *don't do this folly*, *nəḇālâ*, at Gibeah (19:23–24).
 - [[Suffering]] — *her hands on the threshold* (19:27).
+- [[Prayer]] — three inquiries at Bethel, the last after fasting (20:18–28).
+- [[Law and Obedience]] — *put away evil from Israel*, and the condemned city's fire (20:13, 37–48).
+- [[The Dwelling of God]] — *the ark of the covenant of God was there in those days* (20:27).
 
 ## Key people
 - [[Judah]] — the tribe named first, at the book's beginning and near its end; binds Samson for the Philistines (15:9–13).
@@ -573,7 +588,8 @@ merge, or reorder them freely.
 - [[Gershom]] and [[Moses]] — Jonathan's father and grandfather, *Moses* or *Manasseh* (18:30).
 - [[Dan (person)]] — *Dan their father, who was born to Israel*, for whom Laish is renamed (18:29).
 - [[The Levite (husband of the concubine)]], [[The Levite's Concubine]], [[The Levite's Father-in-Law]], and [[The Old Man of Gibeah]] — the journey from Bethlehem Judah, the night at Gibeah, and the twelve pieces (19:1–30).
-- [[Benjamin]] — *the men of the place were Benjamites* (19:16).
+- [[Benjamin]] — *the men of the place were Benjamites* (19:16); refuses the assembly, defeats it twice, and is reduced to six hundred (20:13–48).
+- [[Phinehas (son of Eleazar)]] — before the ark at Bethel *in those days* (20:28).
 - [[The Angel of Yahweh]] — at Bochim (2:1–5), Ophrah (6:11–24), and Manoah's field and altar (13:3–21).
 
 ## Key places
@@ -615,3 +631,5 @@ merge, or reorder them freely.
 - [[The Hill Country of Ephraim]] and [[Bethlehem]] — Micah's home, and the Levite's *Bethlehem Judah* (17:1, 7–8).
 - [[Dan (city)]] — Laish, struck, burned, rebuilt, and renamed (18:7, 27–29); [[Kiriath Jearim]] and [[Mahaneh Dan]], the camp (18:12); [[Rehob]], *Beth Rehob* (18:28); [[Sidon (city)]] (18:7, 28); [[Shiloh]], *God's house* (18:31).
 - [[Bethlehem]], [[Jerusalem]], [[Gibeah (Benjamin)]], and [[Ramah]] — the concubine's home; *Jebus … the city of a foreigner*; the night at Gibeah; the other town named (19:1–13).
+- [[Mizpeh]] — *Mizpah*, the assembly (20:1); [[Dan (city)]] and [[Beersheba]], its two ends; [[Gilead]] (20:1).
+- [[Bethel]] — inquiry, fasting, and the ark (20:18, 26–28); [[Gibeah (Benjamin)]] struck and burned (20:37–40); [[Baal Tamar]] and [[Geba]], *Maareh Geba* (20:33); [[Gidom]] and [[The Rock of Rimmon]] (20:45–47).

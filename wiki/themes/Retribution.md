@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Gibeah burned — Judges 20:37–48
+
+The town whose men surrounded a house by night is surrounded by ambushes (20:5, 29), struck *with the edge
+of the sword*, and goes up *whole* in smoke (37, 40). The repayment does not stop at Gibeah: twenty-five
+thousand of Benjamin fall and every town is burned (46, 48). Unlike Adoni-Bezek's *As I have done, so God has
+done to me* (1:7), no one in the chapter states the measure. See [[The War Against Benjamin]] and
+[[The Whole City Went Up - Deuteronomy 13 and Gibeah]].
+Source: stored WEB Judges 1:7; 20:5, 29–48.
+
 ### As they did to me — Judges 15:10–11
 
 The formula of Adoni-Bezek (1:7) is spoken twice in one exchange. The Philistines come *to do to him as he
@@ -716,6 +725,7 @@ offense. It is also capped, at forty, for the sake of *"your brother"* (3). The 
 proportion run past the limit. See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:37–48; Gibeah struck and burned, and then the tribe.
 - [[Shibboleth]] — Judges 12:4–5; *fugitives of Ephraim*, the insult turned back.
 - [[The Fall of Abimelech]] — Judges 9:23–24, 56–57; *God repaid the wickedness* of Abimelech and of Shechem.
 - [[Jotham's Fable]] — Judges 9:16–20; *the deserving of his hands*, and a curse shaped to the deed.

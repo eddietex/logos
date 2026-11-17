@@ -11,9 +11,9 @@ tags: [connection]
   WEB).
 - [[The Angel at Bochim]] — Judges 2:4–5. *The people lifted up their voice, and wept. They called the
   name of that place Bochim, and they sacrificed there to Yahweh* (stored WEB).
-- **Judges 20:23, 26** — *The children of Israel went up and wept before Yahweh until evening*; then
+- [[The War Against Benjamin]] — **Judges 20:23, 26** — *The children of Israel went up and wept before Yahweh until evening*; then
   they *came to Bethel, and wept, and sat there before Yahweh, and fasted that day until evening; then
-  they offered burnt offerings and peace offerings before Yahweh* (stored WEB; *not yet ingested*).
+  they offered burnt offerings and peace offerings before Yahweh* (stored WEB).
 - **Judges 21:2–4** — *The people came to Bethel, and sat there until evening before God, and lifted
   up their voices, and wept severely.* The next day they built an altar there and offered burnt
   offerings and peace offerings (stored WEB; *not yet ingested*).
@@ -55,3 +55,11 @@ of God was there in those days* (stored WEB). Judges 2:5 gives no such explanati
 Sources: stored WEB Genesis 35:8 and Judges 2:4–5; 20:23, 26–27; 21:2–4. Hebrew of Genesis 35:8 and
 Judges 2:4–5; 20:23, 26; 21:2 read from the Westminster Leningrad Codex (OpenScriptures morphhb),
 2026-11-13. The Septuagint's *Bethel* at Judges 2:1 is reported, not verified.
+### Judges 20 now ingested — weeping with fasting
+
+At 20:26 the weeping at Bethel comes with fasting: *wayyiḇkû … wayyāṣûmû* (WLC). In the WLC files of Genesis
+through Judges this is the only occurrence of the verb *ṣûm*, *to fast* (lemma 6684); 1 Samuel 7:6 has it
+next, at Mizpah. Here weeping is followed by an inquiry and an answer, *tomorrow I will deliver him into
+your hand* (20:28) — the only one of these scenes in which Yahweh replies. The next day Benjamin is nearly
+destroyed, and in 21:2 the people weep at Bethel again. See [[The War Against Benjamin]]. Source: stored
+WEB Judges 20:23–28; 21:2; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

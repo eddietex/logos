@@ -9,9 +9,9 @@ tags: [connection]
 
 - [[Ehud and Eglon]] — **Judges 3:15** — *Ehud the son of Gera, the Benjamite, a left-handed man*
   (stored WEB)
-- **Judges 20:16** — *Among all these soldiers there were seven hundred chosen men who were
-  left-handed. Every one of them could sling a stone at a hair and not miss.* (stored WEB) *(not yet
-  ingested)*
+- [[The War Against Benjamin]] — **Judges 20:16** — *Among all these soldiers there were seven hundred
+  chosen men who were left-handed. Every one of them could sling a stone at a hair and not miss.* (stored
+  WEB)
 - [[Return to Bethel; the Deaths of Rachel and Isaac]] — **Genesis 35:18** — *his father named him Benjamin*
   (stored WEB)
 
@@ -59,3 +59,12 @@ shall go up first?* (1:1; 20:18) is another. See [[Benjamin]].
 Sources: stored WEB Genesis 35:18; Judges 3:15–21; 20:16. Hebrew WLC (OpenScriptures morphhb,
 `wlc/Gen.xml` through `wlc/1Sam.xml`), 2026-11-13, with its lemma data. 1 Chronicles 12:2 (WEB) checked at
 bible-api.com (`?translation=web`), 2026-11-13; 1 Chronicles is not yet stored.
+### Judges 20:16 now ingested
+
+*Wəlōʾ yaḥăṭiʾ*, *and not miss* (WLC), is *ḥāṭāʾ* (lemma 2398), the ordinary Hebrew verb for *sin*, used here
+of a stone that does not miss its mark. The sling, *qālaʿ* (lemma 7049 a), and the *hair*, *śaʿărâ* (lemma
+8185), occur in the WLC files of Genesis through 1 Samuel only here and in 1 Samuel: David's sling against
+Goliath (17:49), Abigail's *sling out* (25:29), and *not one hair of his head* for Jonathan (14:45). The
+seven hundred are not mentioned again in the battle; the tribe they fought for is reduced to six hundred
+(20:47). See [[The War Against Benjamin]]. Source: stored WEB Judges 20:16, 47; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17; 1 Samuel 14:45; 17:49; 25:29 checked at bible-api.com (WEB), 2026-11-17.

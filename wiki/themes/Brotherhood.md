@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Benjamin my brother* — Judges 20
+
+The tribes send to Benjamin as brothers, and Benjamin *would not listen to the voice of their brothers the
+children of Israel* (20:13). Twice Israel asks whether to fight *the children of Benjamin my brother*, *ʾāḥî*
+in the singular (23, 28, WLC), and twice it is told to go up. In Judges 1:3 Judah called Simeon *his brother*
+to fight beside him; here Judah goes first against a brother (20:18). In Joshua 22 the same congregation
+gathered against brother tribes and talked instead; see
+[[Gathered to Go Up Against Their Brothers - Joshua 22 and Judges 20]] and [[The War Against Benjamin]].
+Source: stored WEB Judges 1:3; 20:13, 18, 23, 28; Joshua 22; Hebrew WLC, 2026-11-17.
+
 ### Joseph's sons at war — Judges 12:4–6
 
 Ephraim and Manasseh were Joseph's two sons, adopted and blessed together by Jacob (Genesis 48:5, 14, 19).
@@ -436,6 +446,7 @@ for it at the gate (9–10). One chapter keeps the guilty brother's dignity and 
 abandons the dead one. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:13, 23, 28; *their brothers*, and *Benjamin my brother*.
 - [[Shibboleth]] — Judges 12:4–6; the tribes of Joseph's two sons at war.
 - [[Jephthah Called from Tob]] — Judges 11:2–3, 7; *they drove Jephthah out*; *Jephthah fled from his brothers*; *Didn't you hate me*.
 - [[The Fall of Abimelech]] — Judges 9:24, 56; *Abimelech their brother … to kill his brothers*; *his seventy brothers*.

@@ -7,13 +7,27 @@ tags: [person]
 
 ## Overview
 
+### The war against Benjamin — Judges 20:1–48
+
+Asked to *deliver up the men, the wicked fellows, who are in Gibeah, … Benjamin would not listen to the
+voice of their brothers the children of Israel* (20:13). The tribe gathers at Gibeah: 26,000 swordsmen and
+700 of Gibeah, with 700 left-handed slingers who *could sling a stone at a hair and not miss* (15–16), the
+phrase used of Ehud (3:15). Twice it defeats all Israel, killing 22,000 and 18,000 (21, 25). Israel calls it
+*Benjamin my brother* (23, 28). On the third day *Yahweh struck Benjamin before Israel* (35): Gibeah is
+burned, 25,000 fall, every town is struck *and the livestock*, and six hundred men hold out four months at
+[[The Rock of Rimmon]] (46–48). The ancestor's blessing called Benjamin *a ravenous wolf* that *at evening
+… will divide the plunder* (Genesis 49:27); here Benjamin is the plunder. The wiki notes the reversal; the
+text does not draw it. See [[The War Against Benjamin]] and
+[[Left-Handed Men of Benjamin - Judges 3.15 and 20.16]]. Source: stored WEB Genesis 49:27; Judges 3:15;
+20:13–48.
+
 ### *The men of the place were Benjamites* — Judges 19:14–25
 
 The Levite reaches *Gibeah, which belongs to Benjamin* at sunset (19:14). No one takes him in; his host is
 an Ephraimite sojourner, *but the men of the place were Benjamites*, *bənê yəmînî* (19:16, WLC). The men of
 the city, *certain wicked fellows*, surround the house and abuse the Levite's concubine through the night
 (19:22–25). The tribe whose name means *son of the right hand* is the setting of the book's Sodom. The war
-that follows is Benjamin's near-extinction (20–21, not yet ingested). See [[The Levite's Concubine at Gibeah]],
+that follows is Benjamin's near-extinction (see [[The War Against Benjamin]]; chapter 21 not yet ingested). See [[The Levite's Concubine at Gibeah]],
 [[Gibeah (Benjamin)]], and [[Gibeah and Sodom - Judges 19 as a Retelling]]. Source: stored WEB Judges
 19:14–25; Hebrew WLC, 2026-11-17.
 
@@ -244,6 +258,7 @@ See [[The March from Sinai]]. Source: stored WEB Numbers 10.
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:1–48; the tribe refuses, fights, and is reduced to six hundred.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:14–25; Gibeah of Benjamin, where no one takes the travelers in.
 - [[Israel's Repentance Under Ammon]] — Judges 10:9; attacked by Ammon west of the Jordan.
 - [[Ehud and Eglon]] — Judges 3:15; Ehud, *the Benjamite, a left-handed man*.

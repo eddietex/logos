@@ -13,8 +13,8 @@ tags: [connection]
 - [[The Sin of Achan]] — Joshua 7:15; Achan, *"because he has done a disgraceful thing in Israel"*
   (now ingested; *nǝḇālâ* confirmed in WLC 7:15, retrieved 2026-11-10)
 - Judges 19:23–24 — the old man at Gibeah, *"don't do this folly"*. See [[The Levite's Concubine at Gibeah]]
-- Judges 20:6, 10 — the Levite and the assembly, *"they have committed lewdness and folly in
-  Israel"*
+- [[The War Against Benjamin]] — Judges 20:6, 10; the Levite and the assembly, *"they have committed
+  lewdness and folly in Israel"*
 - 2 Samuel 13:12 — Tamar to Amnon, *"don't do this folly… no such thing ought to be done in Israel"*
 - Jeremiah 29:23 — the false prophets in Babylon, *"they have done foolish things in Israel, and have
   committed adultery with their neighbors' wives"*
@@ -95,3 +95,12 @@ otherwise only at Genesis 34:7, Deuteronomy 22:21, Joshua 7:15, and Judges 20:6,
 same plea uses *ʿinnâ*, *humble them* (19:24), Shechem's verb with Dinah (Genesis 34:2). The old man names
 the act *folly* to keep it from his guest and in the same breath offers it two women; the word protects
 the man and not the women. See [[The Old Man of Gibeah]] and [[The Levite's Concubine]].
+### Judges 20:6, 10 now ingested
+
+The Levite pairs the word with another: *zimmâ ûnəḇālâ*, *lewdness and folly* (20:6, WLC). In the WLC files
+of Genesis through Judges *zimmâ* occurs otherwise only in Leviticus's laws of a woman and her daughter
+(18:17; 20:14) and of a daughter made a prostitute (19:29) — the WEB's *wickedness* (lemma 2154). The
+assembly repeats *nəḇālâ* in its resolution: *according to all the folly that they have worked in Israel*
+(20:10). As with Dinah, the folly is answered by a war far larger than the offence: at Shechem a town, at
+Gibeah a tribe. See [[The War Against Benjamin]]. Source: stored WEB Leviticus 18:17; 19:29; 20:14; Judges
+20:6, 10; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.

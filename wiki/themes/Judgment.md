@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Put away evil from Israel* — Judges 20:13, 35
+
+The assembly sets out to judge Gibeah in Deuteronomy's words, *that we may put them to death, and put away
+evil from Israel* (20:13), and the narrator says *Yahweh struck Benjamin before Israel* (35). Between those
+two sentences lie two defeats of the judging side, forty thousand dead (21, 25). The judgment reaches past
+the men demanded to *the entire city, and the livestock* and *all the cities* (48). The text gives no
+verdict on the scale. See [[The War Against Benjamin]] and
+[[Remove the Evil from Among You - Deuteronomy 13.5 and 1 Corinthians 5.13]].
+Source: stored WEB Judges 20:13, 21, 25, 35, 48; Deuteronomy 17:12; 22:22.
+
 ### Yahweh the Judge — Judges 11:27
 
 *May Yahweh the Judge be judge today between the children of Israel and the children of Ammon*
@@ -1098,6 +1108,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:13, 35; Deuteronomy's formula, and *Yahweh struck Benjamin*.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:27; *May Yahweh the Judge be judge today*.
 
 - [[Deborah and Barak]] — Judges 4:2, 4–5, 9; Israel sold to Jabin; Deborah judging; Sisera to be sold.

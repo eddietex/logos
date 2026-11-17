@@ -7,6 +7,18 @@ tags: [person]
 
 ## Overview
 
+### His account at Mizpah — Judges 20:3–7
+
+Asked *how did this wickedness happen?*, the Levite, *the husband of the woman who was murdered*, speaks
+once more: *The men of Gibeah rose against me … They intended to kill me, and they raped my concubine, and
+she is dead. I took my concubine, and cut her in pieces … for they have committed lewdness and folly in
+Israel. Behold, you children of Israel, all of you, give here your advice and counsel* (20:4–7). His account
+differs from 19:22–25 in two places. The men demanded to *know* him, and he says *they intended to kill me*.
+And it leaves out *the man laid hold of his concubine, and brought her out to them* (19:25). The Hebrew calls
+the men *baʿălê haggiḇʿâ*, *the lords of Gibeah* (20:5, WLC). After verse 7 he is not mentioned again; the
+war is the assembly's. See [[The War Against Benjamin]]. Source: stored WEB Judges 19:22–25; 20:3–7; Hebrew
+WLC, 2026-11-17.
+
 ### The journey and the night — Judges 19:1–30
 
 He is never named. *A certain Levite living on the farther side of the hill country of Ephraim, who took
@@ -41,9 +53,10 @@ the details and not a verdict.
 - Passes Jebus, lodges with the old man at Gibeah (19:10–21).
 - Puts her out to the men of Gibeah (19:25).
 - Finds her at the threshold; cuts her in twelve pieces and sends them through Israel (19:27–30).
-- Tells the assembly at Mizpah (20:4–7; not yet ingested).
+- Tells the assembly at Mizpah, and asks for counsel (20:4–7).
 
 ## Appears in
+- [[The War Against Benjamin]] — Judges 20:3–7; his account to the assembly.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–30.
 
 ## Related people

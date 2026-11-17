@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The crime retold — Judges 20:5–6
+
+In his account the Levite names the crime as *they raped my concubine*, *ʿinnû* (20:5, WLC), and as
+*lewdness and folly* (6). He also changes it: the men who demanded to *know* him (19:22) become men who
+*intended to kill me* (20:5), and the act of 19:25, in which *the man laid hold of his concubine, and brought
+her out to them*, is not mentioned. The war is fought on his version. See [[The War Against Benjamin]] and
+[[The Levite (husband of the concubine)]].
+Source: stored WEB Judges 19:22–25; 20:5–6; Hebrew WLC, 2026-11-17.
+
 ### The night at Gibeah — Judges 19:22–25
 
 *Bring out the man who came into your house, that we can have sex with him!* (19:22). The men of Gibeah
@@ -355,6 +364,7 @@ husband's taking her back after it (4). Matthew 5:32 later calls the second marr
 See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:5–6; the night at Gibeah as the Levite tells it.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:22–25; the demand at the door and the rape of the concubine.
 
 - [[The People Answer Amen to the Curses]] — Deuteronomy 27:11–26.

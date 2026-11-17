@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Burnt offerings at Bethel, and a city *kālîl* — Judges 20:26, 40
+
+Before the third inquiry Israel *offered burnt offerings and peace offerings before Yahweh* at Bethel,
+where the ark was (20:26–27). The next day *the whole city went up in smoke to the sky*: *kəlîl hāʿîr*
+(40, WLC), with *kālîl*, the word for the *whole* burnt offering (Deuteronomy 33:10) and for the condemned
+city burned *to Yahweh* (Deuteronomy 13:16, English). The chapter that began with a woman cut up with the
+burnt offering's verb (19:29; 20:6) ends with a city described in its vocabulary. See
+[[The War Against Benjamin]] and [[The Whole City Went Up - Deuteronomy 13 and Gibeah]].
+Source: stored WEB Deuteronomy 13:16; 33:10; Judges 19:29; 20:6, 26–27, 40; Hebrew WLC, 2026-11-17.
+
 ### The altar's verb — Judges 19:29
 
 *He … cut up his concubine, and divided her, limb by limb, into twelve pieces* (19:29). *Nittaḥ … nəṯāḥîm*
@@ -836,6 +846,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:26, 40; offerings at Bethel, and the city *kālîl*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:29; the burnt-offering verb used of the concubine.
 - [[The Death of Samson]] — Judges 16:23; *a great sacrifice to Dagon*.
 - [[Jephthah's Vow]] — Judges 11:31, 39; the burnt offering vowed, and a fulfillment that does not name it.

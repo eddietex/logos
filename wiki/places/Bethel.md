@@ -7,6 +7,25 @@ tags: [place]
 
 ## Overview
 
+### Inquiry, weeping, and the ark — Judges 20:18–31
+
+Three times Israel goes up to Bethel against Benjamin. First it *asked counsel of God* and is told *Judah
+first* (20:18). After the first defeat it *wept before Yahweh until evening* and asked again (23). After the
+second *all the people … came to Bethel, and wept, and sat there before Yahweh, and fasted that day until
+evening; then they offered burnt offerings and peace offerings* (26), *for the ark of the covenant of God
+was there in those days*, with Phinehas before it (27–28). The verb *ṣûm*, *to fast*, occurs here for the
+first time in the WLC files of Genesis through Judges (lemma 6684). On the third day one of the highways
+Benjamin is drawn onto *goes up to Bethel* (31), as the ambush at Ai lay *between Bethel and Ai* (Joshua
+8:9). The Hebrew *bêṯ-ʾēl* can also be read *the house of God*; the WEB reads the place-name.
+
+**The ark at Bethel.** The stored text last placed the tent at Shiloh (Joshua 18:1), and Judges 18:31 says
+*God's house was in Shiloh*. Judges 20:27 puts the ark at Bethel *in those days*. The text does not explain
+the move or say how long it lasted. Both statements are recorded here.
+
+See [[The War Against Benjamin]], [[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]], and
+[[Bethel from Jacob's Pillar to Jeroboam's Calf]]. Source: stored WEB Joshua 8:9; 18:1; Judges 18:31;
+20:18–31; Hebrew WLC, 2026-11-17.
+
 ### Deborah's palm — Judges 4:5
 
 Deborah judges *under Deborah's palm tree between Ramah and Bethel* (4:5). It is the second tree near
@@ -108,6 +127,7 @@ altar, no comment: the gate of heaven finishes the Old Testament as a town on a 
 **Joshua 12:1–24 — the list of kings.** Its king is counted (12:16), and it locates Ai (9). Joshua narrates no capture of Bethel or death of its king — its men only pursue Israel from Ai (8:17). Judges 1:22–25 (WEB checked, not yet ingested) has the house of Joseph take the city after Joshua's death. See [[Kings Struck and Cities Not Driven Out - Joshua 12, 15-17, and Judges 1]] and [[The Kings Struck Down]].
 
 ## Appears in
+- [[The War Against Benjamin]] — Judges 20:18–31; three inquiries, weeping, fasting, and the ark.
 - [[Deborah and Barak]] — Judges 4:5; Deborah's palm, between Ramah and Bethel.
 - [[The Angel at Bochim]] — Judges 2:1–5; possibly near Bochim (Septuagint, unverified).
 - [[The Tribes That Did Not Drive Out]] — Judges 1:22–26; taken by the house of Joseph.

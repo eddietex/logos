@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Lewdness and folly in Israel* — Judges 20:6, 10
+
+The Levite gives the assembly its charge in two words, *zimmâ ûnəḇālâ*, *lewdness and folly* (20:6, WLC),
+and the assembly adopts the second: *according to all the folly that they have worked in Israel* (10).
+*Zimmâ* is otherwise in Genesis through Judges a word of Leviticus's sexual laws (18:17; 19:29; 20:14).
+See [[The War Against Benjamin]] and [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]].
+Source: stored WEB Leviticus 18:17; 19:29; 20:14; Judges 20:6, 10; Hebrew WLC, 2026-11-17.
+
 ### *Don't do this folly* — Judges 19:23–24
 
 The old man of Gibeah names the mob's intent *nəḇālâ*, *folly*, twice (19:23–24, WLC), the word of
@@ -444,6 +452,7 @@ the woman's. See [[Folly in Israel - Nebalah from Genesis 34 to 2 Samuel 13]].
 See [[Marriage Accusations and Sexual Offenses]]. Source: stored WEB Deuteronomy 22:13–30.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:6, 10; *lewdness and folly in Israel*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:23–24; *nəḇālâ* at Gibeah.
 
 - [[Folly in High Places and Everyday Work]] — Ecclesiastes 10:5–20; folly set in great dignity; the fool's words and wearying labor (10:6, 12–15).

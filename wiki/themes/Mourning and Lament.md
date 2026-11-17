@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Weeping and fasting at Bethel — Judges 20:23, 26
+
+After the first defeat Israel *wept before Yahweh until evening* (20:23); after the second, all the people
+*wept, and sat there before Yahweh, and fasted that day until evening* (26). The verb *ṣûm*, *to fast*,
+occurs here for the first time in the WLC files of Genesis through Judges (lemma 6684). The mourning is
+for their own dead, and it comes before the battle that destroys Benjamin; the weeping for Benjamin comes in
+21:2–3 (stored WEB; not yet ingested). See [[The War Against Benjamin]] and
+[[The Place of Weepers - Allon Bacuth, Bochim, and Bethel]].
+Source: stored WEB Judges 20:23, 26; 21:2–3; Hebrew WLC, 2026-11-17.
+
 ### Two months on the mountains, four days a year — Judges 11:35–40
 
 Jephthah *tore his clothes* when his daughter came out (11:35). She asks for two months to *bewail my
@@ -286,6 +296,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[The War Against Benjamin]] — Judges 20:23, 26; weeping, and the first fast in Genesis–Judges.
 - [[Jephthah's Vow]] — Judges 11:35–40; torn clothes, two months on the mountains, and a yearly lament.
 - [[The Angel at Bochim]] — Judges 2:4–5; the people weep, and name the place for it.
 - [[The Sin of Achan]] — Joshua 7:1–26.

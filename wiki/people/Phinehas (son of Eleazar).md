@@ -7,6 +7,22 @@ tags: [person]
 
 ## Overview
 
+### Before the ark at Bethel — Judges 20:27–28
+
+*The ark of the covenant of God was there in those days, and Phinehas, the son of Eleazar, the son of
+Aaron, stood before it in those days* (20:27–28). Israel asks through him, *Shall I yet again go out to
+battle against the children of Benjamin my brother, or shall I cease?*, and Yahweh says, *Go up; for
+tomorrow I will deliver him into your hand* (28). It is his only appearance in Judges, and the narrator
+gives him no words of his own. A Phinehas still serving places the epilogue early in the period, as
+*Jonathan, the son of Gershom, the son of Moses* did at Dan (18:30): the grandsons of Aaron and of Moses,
+one before the ark and one at the image.
+
+**Two assemblies.** At the altar by the Jordan the congregation gathered for war and sent Phinehas first,
+and no one died (Joshua 22:12–33). At Mizpah the congregation sends unnamed men and Benjamin refuses (20:12–13);
+Phinehas appears only at the third inquiry, after forty thousand of Israel are dead. See
+[[The War Against Benjamin]] and [[Gathered to Go Up Against Their Brothers - Joshua 22 and Judges 20]].
+Source: stored WEB Joshua 22:12–33; Judges 18:30; 20:12–13, 21, 25, 27–28.
+
 ### His father buried on his hill — Joshua 24:29–33
 
 Eleazar is buried in *the hill of Phinehas his son, which was given him in the hill country of
@@ -81,6 +97,7 @@ The wiki qualifies the page because a later Phinehas is a son of Eli (1 Samuel 1
 
 ## Appears in
 
+- [[The War Against Benjamin]] — Judges 20:27–28; stands before the ark at Bethel.
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; his hill in Ephraim, where Eleazar is buried (33).
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.
 

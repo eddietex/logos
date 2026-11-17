@@ -12,8 +12,7 @@ tags: [connection]
   to heaven"* (stored WEB).
 - [[The Fall of Abimelech]] — Judges 9:25, 32–49: Abimelech's ambushes at Shechem, the gate held, and
   the stronghold set on fire (stored WEB).
-- Judges 20:13–48 — Israel against Benjamin at Gibeah (WEB, verses 13, 21, 25, and 29–38 verified at
-  bible-api.com; not yet ingested).
+- [[The War Against Benjamin]] — Judges 20:13–48; Israel against Benjamin at Gibeah (stored WEB).
 
 ## Analysis
 
@@ -55,3 +54,30 @@ notes now and will revisit when Judges is ingested.
 Sources: stored WEB Joshua 7–8; Judges 9:25–49; Hebrew WLC (OpenScriptures morphhb), 2026-11-15, for
 Joshua 8 and Judges 9 only; Judges 20:13, 21, 25, and 29–38 verified at bible-api.com (WEB),
 2026-11-10.
+### Judges 20 now ingested: the Hebrew compared
+
+The page above compared English only. With Judges 20 ingested, the Hebrew of both chapters was read in the
+WLC (OpenScriptures morphhb), 2026-11-17. The shared English is shared Hebrew in these places:
+
+| | Joshua 8 | Judges 20 |
+|---|---|---|
+| the ambush | *ʾōrēḇ* (2) | *ʾōrəḇîm* (29); *ʾōrēḇ* (33, 36–38) |
+| *as at the first* | *kaʾăšer bāriʾšōnâ* (5, 6) | *kəḇāriʾšōnâ* (32); *kammilḥāmâ hāriʾšōnâ* (39) |
+| drawn away | *hattîqēnû* (6); *wayyinnātəqû* (16) — *nātaq* | *hontəqû* (31); *ûnəṯaqqənuhû* (32) — *nātaq* |
+| not knowing | *wəhûʾ lōʾ yāḏaʿ kî* (14) | *wəhēm lōʾ yāḏəʿû kî* (34) |
+| the appointed | *lammôʿēḏ*, *at the time appointed* (14) | *wəhammôʿēḏ*, *the appointed sign* (38) |
+| looking back | *wayyip̄nû … ʾaḥărêhem* (20) | *wayyip̄en binyāmin ʾaḥărāyw* (40) |
+| the smoke going up | *ʿālâ ʿăšan hāʿîr haššāmaymâ* (20) | *ʿālâ ḵəlîl-hāʿîr haššāmaymâ* (40) |
+| the flight | *derek hammiḏbār* (15) | *derek hammiḏbār* (42) |
+
+*Nātaq* in this sense occurs in the WLC files of Genesis through Judges at Joshua 8:6, 16 and Judges 20:31,
+32; its other uses there are the cords Samson *broke* (Judges 16:9, 12), Joshua 4:18, and Leviticus 22:24
+(lemma 5423). The closest single phrase is the smoke: Joshua's *the smoke of the city went up to the
+heavens*, and Judges' *the whole of the city* — *kālîl*, the word of the whole burnt offering and of the
+condemned city of Deuteronomy 13:16 (Hebrew 13:17) — *went up to the heavens*. See
+[[The Whole City Went Up - Deuteronomy 13 and Gibeah]].
+
+The verbal overlap is now shown in Hebrew; whether Judges 20 was written with Joshua 8 in view is still
+not stated by either text. One difference stands out: at Ai Yahweh gives the plan (*Set an ambush*, 8:2);
+at Gibeah Israel sets the ambushes after Yahweh's promise (20:28–29), and the plan is not attributed to
+him. See [[The War Against Benjamin]]. Source: stored WEB Joshua 8; Judges 16:9; 20:29–42.

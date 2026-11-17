@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Phinehas before the ark — Judges 20:27–28
+
+*Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days* (20:28): the only
+priest of Aaron's line named in Judges, set beside the hired priests of the chapters before — Micah's son, the
+Levite, and *Jonathan, the son of Gershom, the son of Moses* at Dan (17:5, 12; 18:30). He mediates the
+third inquiry and receives Yahweh's promise; he is given no words of his own. See
+[[Phinehas (son of Eleazar)]] and [[The War Against Benjamin]].
+Source: stored WEB Judges 17:5, 12; 18:30; 20:27–28.
+
 ### A priest to a tribe — Judges 18:19–20, 30
 
 The Danites offer Micah's Levite his employer's own terms, *be to us a father and a priest*, and a better
@@ -838,6 +847,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[The War Against Benjamin]] — Judges 20:27–28; Phinehas, Aaron's grandson, at the ark.
 - [[The Danite Migration]] — Judges 18:4, 19–20, 30; Micah's priest hired away, and a priestly line at Dan.
 - [[Micah's Idol and Levite]] — Judges 17:5, 10–13; Micah's son and then a hired Levite made priest.
 - [[Gideon's Ephod and Death]] — Judges 8:27; an ephod made by a judge and kept in Ophrah.

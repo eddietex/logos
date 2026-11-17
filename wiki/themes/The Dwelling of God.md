@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The ark at Bethel — Judges 20:26–28
+
+*The ark of the covenant of God was there in those days* (20:27): at Bethel, not at Shiloh, where Joshua
+set up the tent (Joshua 18:1) and where *God's house* stood in Judges 18:31. It is the ark's only mention in
+Judges. Israel sits *before Yahweh* there, weeps, fasts, and sacrifices (26). The text does not say why the
+ark was at Bethel or for how long. See [[The War Against Benjamin]] and [[Bethel]].
+Source: stored WEB Joshua 18:1; Judges 18:31; 20:26–28.
+
 ### *I am going to Yahweh's house* — Judges 19:18
 
 The Levite tells the old man of Gibeah *I am going to Yahweh's house* (19:18; WLC *bêt YHWH*), the
@@ -648,6 +656,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The War Against Benjamin]] — Judges 20:26–28; the ark at Bethel *in those days*.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:18; *Yahweh's house*, named once and never reached.
 - [[The Danite Migration]] — Judges 18:31; *God's house … in Shiloh*, while Dan kept Micah's image.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

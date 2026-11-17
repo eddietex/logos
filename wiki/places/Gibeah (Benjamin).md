@@ -7,6 +7,22 @@ tags: [place]
 
 ## Overview
 
+### Besieged, entered, and burned — Judges 20
+
+The assembly at Mizpah resolves *this is the thing which we will do to Gibeah* (20:9) and demands *the
+wicked fellows, who are in Gibeah* (13). Benjamin gathers there instead, with *seven hundred chosen men*
+of Gibeah's own (15). Twice its army comes out and defeats Israel (21, 25). On the third day Israel sets
+ambushes *all around Gibeah* (29), draws its defenders out onto the highways *of which one goes up to
+Bethel, and the other to Gibeah* (31), and the ambush *rushed on Gibeah … and struck all the city with
+the edge of the sword* (37). Smoke is the agreed sign, and *the whole city went up in smoke to the sky*
+(40) — *kəlîl hāʿîr* (WLC), with the *kālîl*, *whole* or *whole burnt offering*, of Deuteronomy 13:16
+(Hebrew 13:17) for the condemned city. The text does not say Gibeah was rebuilt; it is Saul's town in
+1 Samuel 10:26. In verse 10 the WLC reads *Geba of Benjamin* where the WEB has *Gibeah*; see [[Geba]].
+
+See [[The War Against Benjamin]], [[Drawn Away from the City - Ai and Gibeah]], and
+[[The Whole City Went Up - Deuteronomy 13 and Gibeah]]. Source: stored WEB Judges 20:9–48; Deuteronomy
+13:16; Hebrew WLC, 2026-11-17.
+
 ### The night at Gibeah — Judges 19:12–28
 
 *Gibeah, which belongs to Benjamin* (19:14), a town just north of Jebus on the road from Bethlehem to the
@@ -23,12 +39,13 @@ commonly proposed and not made here, and no modern site is assigned.
 
 ### After the stored text
 
-Gibeah is the town of the war that follows (Judges 20, not yet ingested; see
-[[Drawn Away from the City - Ai and Gibeah]]). Outside the stored text it is Saul's home — *Saul also went
+Gibeah's war is told in [[The War Against Benjamin]] (Judges 20) and set beside Ai in
+[[Drawn Away from the City - Ai and Gibeah]]. Outside the stored text it is Saul's home — *Saul also went
 to his house to Gibeah* (1 Samuel 10:26), *Gibeah of Saul* (11:4) — and Hosea's byword, *as in the days of
 Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 
 ## Appears in
+- [[The War Against Benjamin]] — Judges 20:4–48.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:12–28.
 
 ## Related places
@@ -38,5 +55,6 @@ Gibeah* (9:9; 10:9) (WEB checked at bible-api.com; not in raw).
 - [[Sodom]] — the city whose night it repeats.
 
 ## Events here
+- Besieged by all Israel; two Israelite defeats, then the ambush, the smoke, and the burning (20:19–48).
 - No one takes the travelers in; an Ephraimite sojourner does (19:15–21).
 - The men of the city surround the house; the concubine is abused all night (19:22–27).
