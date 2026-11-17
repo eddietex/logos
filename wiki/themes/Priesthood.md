@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### Priests who served themselves first — 1 Samuel 2:12–25
+
+Eli's sons are priests by birth and *wicked men* who *didn't know Yahweh* (2:12). Their servant forks
+meat out of the worshippers' pots and demands raw meat before the fat is burned, *if not, I will take it by
+force* (2:13–16). The law named the priests' share and gave the fat to Yahweh first (Leviticus 3:16; 7:31;
+Deuteronomy 18:3); the sons take what they like, and take it first. *The men despised the offering of
+Yahweh* (2:17), they make *Yahweh's people* transgress (2:24), and they lie with the women who served at
+the door of the Tent of Meeting (2:22). Beside them the boy Samuel *ministered before Yahweh … clothed
+with a linen ephod* (2:18). See [[The Sins of Eli's Sons]], [[The Custom of the Priests - Deuteronomy 18.3 and 1 Samuel 2.13-16]],
+and [[The Women Who Served at the Door - Exodus 38.8 and 1 Samuel 2.22]]. Source: stored WEB 1 Samuel 2:12–26; Leviticus 3:16; 7:31;
+Deuteronomy 18:3. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The child serving before Eli — 1 Samuel 2:11
 
 *The child served Yahweh before Eli the priest* (2:11). *Məšārēṯ* (WLC) is the participle of *šērēṯ*, the
@@ -866,6 +878,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:12–25; Eli's sons seize the share before the fat is burned; Samuel ministers in a linen ephod.
 - [[The Song of Hannah]] — 1 Samuel 2:11; *the child served Yahweh before Eli the priest*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17; Eli and his sons at Shiloh; the priest who misreads a prayer and blesses it
 

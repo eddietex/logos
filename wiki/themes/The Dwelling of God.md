@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### The Tent of Meeting at Shiloh — 1 Samuel 2:22
+
+1 Samuel 2:22 calls the sanctuary at Shiloh *the Tent of Meeting*, the name Joshua 18:1 gave it,
+though 1:9 had called it *Yahweh's temple*; the text does not reconcile the names. At its door the priests
+lie with the women who served there, the women of Exodus 38:8 in name. Meanwhile Samuel *ministered before
+Yahweh* (2:18) and *grew with Yahweh* (2:21, *ʿim-YHWH*, WLC). See [[The Sins of Eli's Sons]] and
+[[The Women Who Served at the Door - Exodus 38.8 and 1 Samuel 2.22]]. Source: stored WEB 1 Samuel 2:12–26; 1:9; Joshua 18:1; Exodus
+38:8. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Yahweh's temple* at Shiloh — 1 Samuel 1:7, 9, 24
 
 At Shiloh the sanctuary is *Yahweh's house* (1:7, 24) and *Yahweh's temple*, *hêḵal YHWH* (1:9, WLC),
@@ -668,6 +677,7 @@ The basket goes *"to the place which Yahweh your God shall choose, to cause his 
 by side and does not reconcile them. See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:2, 15.
 
 ## Key passages
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:18–22; the Tent of Meeting at Shiloh; the boy ministering, the priests defiling its door.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:7, 9, 22, 24; *Yahweh's house* and *Yahweh's temple* at Shiloh; *appear before Yahweh … forever*
 
 - [[The War Against Benjamin]] — Judges 20:26–28; the ark at Bethel *in those days*.

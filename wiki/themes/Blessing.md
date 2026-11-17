@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Eli's blessing answered again — 1 Samuel 2:20–21
+
+*Eli blessed Elkanah and his wife*: *May Yahweh give you offspring from this woman for the petition
+which was asked of Yahweh* (2:20). The next verse gives the answer: *Yahweh visited Hannah, and she
+conceived, and bore three sons and two daughters* (2:21). Eli's first blessing of Hannah (1:17) was
+answered in Samuel; this one in five more children. The priest whose sons despise the offering still
+blesses, and the blessing holds. See [[The Sins of Eli's Sons]]. Source: stored WEB 1 Samuel 2:12–26.
+
 ### *We are witnesses. May Yahweh make the woman …* — Ruth 4:11–12
 
 The people at the gate and the elders answer Boaz's *You are witnesses* and go straight on to bless: *May
@@ -633,6 +641,7 @@ of two imperatives of *bārak* addressed to Yahweh in Deuteronomy; the other is 
 
 ## Key passages
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:20–21; Eli blesses Elkanah and Hannah, and she bears five more.
 - [[Boaz Redeems at the Gate]] — Ruth 4:11–12; the town's blessing: *like Rachel and like Leah*; *like the house of Perez*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:10; *You are blessed by Yahweh, my daughter*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:4, 12, 19–20; harvest greetings and three blessings in daily speech.

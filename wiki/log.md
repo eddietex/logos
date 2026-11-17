@@ -28243,3 +28243,50 @@ with *rûm*, *māšîaḥ*, *šəʾôl*, *yəšûʿâ*, *ḥāsîḏ*, *ṣûr*)
 *dēʿôṯ*, and *ʾašpōṯ*; `2Sam` (downloaded this run) and `Ps` for 2 Samuel 22:3, 51 and Psalm 18:51.
 Luke and Mary's song were compared in English only; no Greek text was consulted. Liturgical use of Psalm
 113 and the *Christ* = *anointed* gloss are recalled and not verified.
+
+## [2026-11-17] ingest | 1 Samuel 2.12-26 — The Sins of Eli's Sons
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the Sins of Eli's Sons, 2:12–26, ingested as planned. 1 Samuel is now 3 / 47.
+
+Created: passage [[The Sins of Eli's Sons]]; person [[Ministering Women (of Eli's time)]]; connections
+[[They Didn't Know Yahweh - Pharaoh, the Generation After Joshua, and Eli's Sons]],
+[[The Women Who Served at the Door - Exodus 38.8 and 1 Samuel 2.22]],
+[[Did Not Listen to the Voice of Their Father - Deuteronomy 21.18 and 1 Samuel 2.25]], and
+[[Pleased to Kill - Manoah's Wife and Eli's Sons]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes and people); people [[Eli]], [[Hophni]],
+[[Phinehas (son of Eli)]], [[Samuel]], [[Hannah]], [[Elkanah (father of Samuel)]], and
+[[Ministering Women (of Moses' time)]]; place [[Shiloh]]; themes [[Priesthood]], [[Sacrifice and Offering]],
+[[Sin]], [[Sexual Sin]], [[Hardening of the Heart]], [[Mediation and Advocacy]], [[Judgment]],
+[[Favor and Grace]], [[Blessing]], [[Barrenness]], [[The Dwelling of God]], and [[Prayer]]; connections
+[[The Custom of the Priests - Deuteronomy 18.3 and 1 Samuel 2.13-16]],
+[[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]],
+[[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]],
+[[Asked of Yahweh - Samuel's Name and Saul's]], and [[The Barren Matriarchs]]. Also `wiki/books/index.md`,
+People Index A-E, F-M, and N-Z, Connections Index A-C, D-H, O-S, and T-Z, the places and themes indexes,
+and the dashboard counts. Frontmatter totals: 489 passages, 364 people, 598 places, 88 themes, 932
+connections.
+
+Fixed in passing: [[Mediation and Advocacy]] quoted 1 Samuel 2:25 as *If a man sins … who shall
+intercede*; the stored WEB reads *If one man sins … who will intercede*. Corrected, and the entry now links
+the passage.
+
+Judgment calls: the boundary 2:12–26 stands; 2:27 opens the man of God's oracle. Hophni and Phinehas are
+linked though the pericope says only *the sons of Eli*. The women of 2:22 got a group page qualified by
+period, like the Exodus 38:8 group, with continuity explicitly not asserted. Four connection pages, each
+resting on a WLC lemma search that limits the parallel to the two or three verses it names.
+
+Recorded, not resolved: whether 2:13–14 describe a legitimate custom or the sons' innovation; the
+subject of *šāʾal*, *he asked*, in 2:20 (WEB passive); whether *ʾĕlōhîm* in 2:25 is God or judges; the
+reported absence of 2:22b from the Septuagint and 4QSamᵃ (recalled, not checked, and flagged where
+claimed); and how *Yahweh intended to kill them* relates to the sons' responsibility.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 2:29, 34, 36; 3:7, 13; 4:11, 15, 18;
+7:5; 12:23; 15:27; 22:18; 28:14. Comparisons from stored WEB Genesis 21:1; Exodus 5:2; 21:6; 22:8–9;
+38:8; Leviticus 3:16; 7:31; Numbers 4:23; 14:11; 25:6–13; Deuteronomy 21:18–21; Judges 2:10; 4:3; 8:1;
+13:23; Job 9:33; 16:21. No new bible-api.com fetches; 2 Samuel 6:14, 12:14 and Exodus 11:7 are cited
+from the WLC only, without English quotation. Hebrew from the Westminster Leningrad Codex
+(OpenScriptures morphhb) XML, `Gen` through `Ruth` and `1Sam`, extended to `2Sam` and `1Chr` where
+stated; includes the *ketiv* *lô* / *qere* *lōʾ* of 2:16. No Greek text, Septuagint, or Qumran text was
+consulted.

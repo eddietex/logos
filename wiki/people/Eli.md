@@ -35,17 +35,37 @@ song itself, sung within his hearing at Shiloh, praises the God who makes the po
 glory* (2:8); *kissēʾ* is the word for Eli's own *seat* (1:9; 4:18). The pairing is a reader's
 observation. See [[The Song of Hannah]].
 
+### The father who heard — 1 Samuel 2:20–25
+
+Eli blesses [[Elkanah (father of Samuel)]] and [[Hannah]] at the yearly sacrifice: *May Yahweh give you
+offspring from this woman for the petition which was asked of Yahweh* (2:20), and Yahweh gives five more
+children (2:21). His second blessing of Hannah is answered as his first was. Meanwhile his sons, *wicked
+men* who *didn't know Yahweh* (2:12), seize the sacrificial meat and lie with the women who served at the
+door of the Tent of Meeting (2:13–17, 22). Eli is *very old* (2:22; ninety-eight at 4:15, stored WEB; not
+yet ingested). He *heard*, and rebukes them: *If one man sins against another, God will judge him; but if
+a man sins against Yahweh, who will intercede for him?* (2:25). They do not listen, *because Yahweh
+intended to kill them* (2:25). His rebuke is the only act the pericope gives him; the next charges him
+with honouring his sons above Yahweh (2:29), and 3:13 that *he didn't restrain them* (stored WEB; not yet
+ingested). The law of the rebellious son (Deuteronomy 21:18–21) prescribes a further step he does not
+take; the comparison is a reader's. See [[The Sins of Eli's Sons]] and
+[[Did Not Listen to the Voice of Their Father - Deuteronomy 21.18 and 1 Samuel 2.25]].
+
+Source: stored WEB 1 Samuel 2:12–25, 29; 3:13; 4:15; Deuteronomy 21:18–21. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Priest at Shiloh, with his sons Hophni and Phinehas — 1 Samuel 1:3, 9.
 - Takes Hannah for drunk, then blesses her petition — 1:12–17.
 - Receives the weaned Samuel — 1:25–28.
 - The child serves Yahweh before him — 2:11.
+- Blesses Elkanah and Hannah; hears of his sons' sins and rebukes them; they do not listen — 2:20–25.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17, 25–28.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:20–25.
 
 ## Related people
 
@@ -59,3 +79,5 @@ observation. See [[The Song of Hannah]].
 - [[Priesthood]]
 - [[Prayer]]
 - [[The Dwelling of God]]
+- [[Mediation and Advocacy]]
+- [[Blessing]]

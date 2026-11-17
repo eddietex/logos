@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### With Yahweh and with men — 1 Samuel 2:26
+
+*The child Samuel grew on, and increased in favor both with Yahweh, and also with men* (2:26). The WEB's
+*favor* renders *wāṭôḇ*, *and good*, not *ḥēn* (WLC); the pairing *with Yahweh and with men* is what Luke
+2:52 echoes of the boy Jesus. See [[The Sins of Eli's Sons]] and
+[[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]]. Source: stored WEB 1 Samuel 2:12–26. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### *In whose sight I find favor* — Ruth 2:2, 10, 13
 
 *Ḥēn* comes three times in Ruth 2. Ruth goes out to glean *after him in whose sight I find favor* (2); she
@@ -262,6 +270,7 @@ are identified on the passage and connection pages.
 See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:26; *increased in favor both with Yahweh, and also with men*.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 10, 13; *ḥēn* three times; *Why have I found favor … since I am a foreigner?*
 - [[The Call of Gideon]] — Judges 6:17; *If now I have found favor in your sight, then show me a sign*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.

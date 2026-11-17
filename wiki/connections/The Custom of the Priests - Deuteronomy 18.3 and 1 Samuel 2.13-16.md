@@ -10,7 +10,7 @@ tags: [connection]
 - [[The Portion of the Priests and Levites]] — Deuteronomy 18:3–4, the priests' due.
 - [[Fat, Blood, and the Priests’ Share]] — Leviticus 7:28–36, the breast and right thigh, and the fat
   that goes to the altar.
-- **1 Samuel 2:12–17** *(not yet ingested)* — Eli's sons at Shiloh.
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:12–17, Eli's sons at Shiloh.
 
 ## Analysis
 

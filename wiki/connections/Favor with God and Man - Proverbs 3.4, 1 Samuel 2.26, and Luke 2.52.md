@@ -13,8 +13,8 @@ tags: [connection]
 - **Genesis 39:4, 21** — *"Joseph found favor in his sight"*; *"Yahweh was with Joseph, and showed
   kindness to him, and gave him favor in the sight of the keeper of the prison"* —
   [[Joseph in Potiphar's House]]
-- **1 Samuel 2:26** — *"The child Samuel grew on, and increased in favor both with Yahweh, and also
-  with men."* (WEB, verified; not yet ingested)
+- [[The Sins of Eli's Sons]] — **1 Samuel 2:26** — *"The child Samuel grew on, and increased in favor both with Yahweh,
+  and also with men."* (stored WEB)
 - **Luke 2:40, 52** — *"The child was growing, and was becoming strong in spirit, being filled with
   wisdom, and the grace of God was upon him"*; *"And Jesus increased in wisdom and stature, and in favor
   with God and men."* (WEB, verified; not yet ingested)

@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### *God will judge him* — 1 Samuel 2:25
+
+Eli's rebuke: *If one man sins against another, God will judge him* (2:25), *ûp̄illô ʾĕlōhîm* (WLC),
+where *ʾĕlōhîm* may be God or judges. A sin against Yahweh has no judge above the one wronged. The
+pericope then shows the verdict already formed: *Yahweh intended to kill them* (2:25). The sentence is
+pronounced in the next pericope (2:27–36) and carried out at Aphek (4:11). See [[The Sins of Eli's Sons]] and
+[[Did Not Listen to the Voice of Their Father - Deuteronomy 21.18 and 1 Samuel 2.25]]. Source: stored WEB 1 Samuel 2:12–26; 4:11.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Yahweh will judge the ends of the earth* — 1 Samuel 2:10
 
 Hannah's song closes in judgment: *Those who strive with Yahweh shall be broken to pieces. He will thunder
@@ -1126,6 +1135,7 @@ stripes"*, *"lest … your brother will be degraded in your sight"* (2–3). See
 [[Forty Stripes - Deuteronomy 25.3 and 2 Corinthians 11.24]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *God will judge him*; *Yahweh intended to kill them*.
 - [[The Song of Hannah]] — 1 Samuel 2:9–10; *Yahweh will judge the ends of the earth*.
 - [[Wives for Benjamin]] — Judges 21:5, 10–11; *môṯ yûmāṯ* and *ḥāram* against Jabesh Gilead.
 - [[The War Against Benjamin]] — Judges 20:13, 35; Deuteronomy's formula, and *Yahweh struck Benjamin*.

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Because Yahweh intended to kill them* — 1 Samuel 2:25
+
+Eli's sons *didn't listen to the voice of their father, because Yahweh intended to kill them* (2:25),
+*kî-ḥāp̄ēṣ YHWH lahămîṯām* (WLC). The vocabulary is not Exodus's *hardening* (*ḥāzaq*, *kāḇēḏ*, *qāšâ*), but
+the shape is the same: the refusal is set within Yahweh's purpose of judgment, after the narrator has
+already made the sons responsible (2:17). The text does not reconcile the two, and the wiki does not. Their
+description, *didn't know Yahweh* (2:12), is Pharaoh's own words (Exodus 5:2). See [[The Sins of Eli's Sons]],
+[[Pleased to Kill - Manoah's Wife and Eli's Sons]], and
+[[They Didn't Know Yahweh - Pharaoh, the Generation After Joshua, and Eli's Sons]]. Source: stored WEB 1 Samuel 2:12–26; Exodus 5:2.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Yahweh strengthened Eglon — Judges 3:12
 
 *Wayḥazzēq YHWH ʾet-ʿeglôn melek-môʾāb ʿal-yiśrāʾēl* (WLC): *Yahweh strengthened Eglon the king of
@@ -175,6 +186,7 @@ sources and interpretive limits.
 
 ## Key passages
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *they didn't listen … because Yahweh intended to kill them*.
 - [[Ehud and Eglon]] — Judges 3:12; *ḥāzaq* with Eglon himself, not his heart, as object.
 - [[The Whole Land Taken]] — Joshua 11:16–23.
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

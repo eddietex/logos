@@ -39,6 +39,16 @@ anointed* (2:10), the first royal use of *māšîaḥ* in the books stored so fa
 king. David's song near the end of 2 Samuel closes on the same pair (22:51), and the two are commonly
 read as framing the books. Elkanah goes home, and *the child served Yahweh before Eli the priest* (2:11).
 
+[[The Sins of Eli's Sons]] (2:12–26) sets the proud of the song before the reader. Eli's sons, *wicked
+men* who *didn't know Yahweh* (2:12), the words used of Pharaoh (Exodus 5:2), take the worshippers' meat
+by fork and by force before the fat is burned for Yahweh (2:13–16): *the men despised the offering of
+Yahweh* (2:17). They lie with the women who served at the door of the Tent of Meeting (2:22). Eli rebukes
+them, *if a man sins against Yahweh, who will intercede for him?*, and they do not listen, *because Yahweh
+intended to kill them* (2:25). The narrative alternates the sons with the boy: Samuel ministers in a linen
+ephod, Hannah brings him a robe each year and bears five more children, and *the child Samuel grew on, and
+increased in favor both with Yahweh, and also with men* (2:18–21, 26). The house brought low and the child
+raised up stand at the same altar.
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -63,7 +73,7 @@ merge, or reorder them freely.
 
 - [x] [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28
 - [x] [[The Song of Hannah]] — 1 Samuel 2:1–11
-- [ ] The Sins of Eli's Sons — 1 Samuel 2:12–26
+- [x] [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26
 - [ ] A Man of God Against the House of Eli — 1 Samuel 2:27–36
 - [ ] Yahweh Calls Samuel — 1 Samuel 3:1–4:1a
 - [ ] The Ark Is Captured — 1 Samuel 4:1b–22
@@ -123,6 +133,9 @@ merge, or reorder them freely.
 - [[Pride and Self-Exaltation]] — *Don't keep talking so exceedingly proudly* (2:3)
 - [[The Poor and the Vulnerable]] — *He raises up the poor out of the dust* (2:8)
 - [[Life and Death]] — *Yahweh kills, and makes alive* (2:6)
+- [[Sacrifice and Offering]] — the sons *despised the offering of Yahweh* (2:17)
+- [[Mediation and Advocacy]] — *who will intercede for him?* (2:25)
+- [[Hardening of the Heart]] — *because Yahweh intended to kill them* (2:25)
 
 ## Key people
 - [[Samuel]]
@@ -132,6 +145,7 @@ merge, or reorder them freely.
 - [[Eli]]
 - [[Hophni]]
 - [[Phinehas (son of Eli)]]
+- [[Ministering Women (of Eli's time)]]
 - [[David]]
 
 ## Key places

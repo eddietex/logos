@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Who will intercede for him?* — 1 Samuel 2:25
+
+Eli asks his sons: *If one man sins against another, God will judge him; but if a man sins against
+Yahweh, who will intercede for him?* (2:25). Both verbs are *pālal* (WLC): the Piel *ûp̄illô*, *will judge*
+or *mediate*, and the Hitpael *yiṯpallel*, *intercede*, the verb of Hannah's prayer (1:10; 2:1).
+*ʾĔlōhîm* in the first clause may be God or human judges (compare Exodus 22:8–9). The question has no
+answer in the pericope. Later in the book Samuel is the one who intercedes: *I will pray to Yahweh for
+you* (7:5); *far be it from me that I should sin against Yahweh in ceasing to pray for you* (12:23)
+(stored WEB; not yet ingested). See [[The Sins of Eli's Sons]]. Source: stored WEB 1 Samuel 2:12–26; 7:5; 12:23; Exodus 22:8–9. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ### Renewed tablets and onward journey — Deuteronomy 10:1–11
 
 Moses’ forty-day stay and Yahweh’s listening answer the threatened destruction (10). The mediator is
@@ -236,8 +247,8 @@ See [[The Lamps and the Bread Before Yahweh]]. Source: stored WEB Leviticus 24:1
 - [[Miriam and Aaron Against Moses]], **Numbers 12:6–8; Deuteronomy 5:5** — Moses' standing office, *"I stood between Yahweh and you at
   that time"*.
 - **Leviticus 16** — the Day of Atonement: mediation institutionalized, and made repeatable.
-- **1 Samuel 2:25** — *"If a man sins against another, God will judge him; but if a man sins against
-  Yahweh, who shall intercede for him?"* — the problem stated as a question, exactly Job's.
+- [[The Sins of Eli's Sons]], **1 Samuel 2:25** — *"If one man sins against another, God will judge him; but if a man sins against
+  Yahweh, who will intercede for him?"* — the problem stated as a question, exactly Job's.
 - **Zechariah 3:1–5** — Joshua the high priest with the accuser at his right hand, and the Angel of
   Yahweh rebuking the accuser and reclothing him. The closest thing in the prophets to what Job
   asks for, with the roles filled.
@@ -540,6 +551,7 @@ See [[A Prophet Like Moses]]. Source: stored WEB Deuteronomy 18:9–22.
 
 ## Key passages
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *who will intercede for him?*; the question Samuel later answers.
 - [[New Tablets and the Journey Onward]] — Deuteronomy 10:1–11.
 
 - [[Remember the Calf and Moses' Intercession]] — Deuteronomy 9:7–29.

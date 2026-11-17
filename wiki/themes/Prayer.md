@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The verb of prayer, turned to a question — 1 Samuel 2:25
+
+Eli's *who will intercede for him?* (2:25) uses *yiṯpallel* (WLC), the Hitpael of *pālal*, the verb of
+Hannah's prayer (1:10, 12, 26–27; 2:1). The same chapter that opened *Hannah prayed* (2:1) asks who can
+pray for a man who sins against Yahweh. Samuel's later intercession (7:5; 12:23, stored WEB; not yet
+ingested) uses the same verb. See [[The Sins of Eli's Sons]] and [[Mediation and Advocacy]]. Source: stored WEB 1 Samuel 2:12–26; 7:5; 12:23. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### *Hannah prayed, and said* — 1 Samuel 2:1–10
 
 The same verb, *wattiṯpallēl* (WLC), names Hannah's silent prayer for a son (1:10, 12) and her song after
@@ -482,6 +490,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:25; *who will intercede for him?*, the verb of Hannah's prayer.
 - [[The Song of Hannah]] — 1 Samuel 2:1; *Hannah prayed*, and the prayer is a song with no request.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:9–18, 26–27; Hannah's silent prayer, misread as drunkenness; *I poured out my soul*
 

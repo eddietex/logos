@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh visited Hannah* — 1 Samuel 2:21
+
+*Yahweh visited Hannah, and she conceived, and bore three sons and two daughters* (2:21). The verb is
+*pāqaḏ* (WLC), as in *Yahweh visited Sarah* (Genesis 21:1). The woman whose womb *Yahweh had shut up*
+(1:5) now has six children. See [[The Sins of Eli's Sons]] and [[The Barren Matriarchs]]. Source: stored WEB 1 Samuel 2:12–26; 1:5; Genesis 21:1. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### *The barren has borne seven* — 1 Samuel 2:5
 
 In her song Hannah mentions her story once, and not by name: *the barren has borne seven. She who has many
@@ -159,6 +166,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:21; *Yahweh visited Hannah*; three sons and two daughters.
 - [[The Song of Hannah]] — 1 Samuel 2:5; *the barren has borne seven*, one reversal among many.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:2–20; *Yahweh had shut up her womb*, twice; Hannah asks, and Yahweh remembers
 

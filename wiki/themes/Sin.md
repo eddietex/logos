@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Sinning against Yahweh — 1 Samuel 2:17, 25
+
+*The sin of the young men was very great before Yahweh* (2:17). Eli's rebuke distinguishes two kinds:
+*If one man sins against another, God will judge him; but if a man sins against Yahweh, who will intercede
+for him?* (2:25). A wrong between people has a higher court; a wrong against Yahweh has none above him. The
+sons' sin also spreads: *You make Yahweh's people disobey* (2:24), *maʿăḇirîm*, *cause to transgress*
+(WLC). See [[The Sins of Eli's Sons]]. Source: stored WEB 1 Samuel 2:12–26. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The first confession — Judges 10:10, 15
 
 Israel has cried out four times in Judges, but the narrator never gave the cry words. Here it is *We have sinned against you, even because we have forsaken our God, and have served the Baals* (10), and, after Yahweh's refusal, *We have sinned! Do you to us whatever seems good to you* (15). Both use *ḥāṭāʾnû* (WLC). The passage opened with *that which was evil in Yahweh's sight* (6).
@@ -775,6 +783,7 @@ the same noun for the sin no one else may die for: *"Every man shall be put to d
 (16). See [[Pledges, Wages, Justice, and Gleaning]]. Source: stored WEB Deuteronomy 24:6–22.
 
 ## Key passages
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:17, 24–25; *very great before Yahweh*; sin against a man and sin against Yahweh.
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 10, 15; *We have sinned*, twice.
 - [[Midian's Oppression and the Prophet]] — Judges 6:1, 10; the cycle's formula, and the charge.
 - [[The Altar of Witness by the Jordan]] — Joshua 22:10–34.

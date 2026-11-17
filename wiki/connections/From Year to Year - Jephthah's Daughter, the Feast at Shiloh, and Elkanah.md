@@ -15,7 +15,7 @@ tags: [connection]
   Shiloh.* Stored WEB.
 - [[Hannah Asks Yahweh for a Son]] — **1 Samuel 1:3** *(stored WEB)* — *This man went up out of his city
   from year to year to worship and to sacrifice to Yahweh of Armies in Shiloh.*
-- **1 Samuel 2:19** *(not yet ingested)* — *his mother made him a little robe, and brought it to him from
+- [[The Sins of Eli's Sons]] — **1 Samuel 2:19** — *his mother made him a little robe, and brought it to him from
   year to year* (stored WEB); *miyyāmîm yāmîmâ* (WLC).
 
 ## Analysis

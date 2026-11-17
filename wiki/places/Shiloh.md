@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### What they did in Shiloh — 1 Samuel 2:12–26
+
+*So they did in Shiloh to all the Israelites who came there* (2:14): the priest's servant forks meat out
+of the worshippers' pots, and demands raw meat before the fat is burned (2:13–16). The pericope names the
+sanctuary *the Tent of Meeting* (2:22), where Eli's sons lie with *the women who served at the door*, the
+phrase of Exodus 38:8. In chapter 1 the same sanctuary was *Yahweh's temple* (1:9); the text does not say
+how the two names relate. Here too the boy Samuel ministers *before Yahweh* in a linen ephod, and Hannah
+comes up yearly with his robe (2:18–19). See [[The Sins of Eli's Sons]] and
+[[The Women Who Served at the Door - Exodus 38.8 and 1 Samuel 2.22]]. Source: stored WEB 1 Samuel 1:9;
+2:12–26; Exodus 38:8.
+
 ### Yahweh's temple, and Eli's seat — 1 Samuel 1:3–28
 
 Elkanah *went up out of his city from year to year to worship and to sacrifice to Yahweh of Armies in
@@ -14,7 +25,7 @@ Shiloh*, where *the two sons of Eli, Hophni and Phinehas* were priests (1:3). Th
 *Yahweh's house* (1:7, 24) and *Yahweh's temple*, *hêḵal YHWH*, with a *doorpost* beside which Eli sits on
 his *seat* (1:9, WLC). *Hêḵal* occurs in the WLC files of Genesis through 1 Samuel only at 1:9 and 3:3.
 Joshua set up *the Tent of Meeting* at Shiloh (Joshua 18:1); 1 Samuel 2:22 still names *the Tent of
-Meeting* there (not yet ingested). The text does not explain how tent and *temple* relate. Here Hannah
+Meeting* there. The text does not explain how tent and *temple* relate. Here Hannah
 prays and vows, and here she brings the weaned Samuel to *appear before Yahweh, and stay there forever*
 (1:9–28). The yearly visit continues the *feast of Yahweh from year to year in Shiloh* of Judges 21:19;
 see [[From Year to Year - Jephthah's Daughter, the Feast at Shiloh, and Elkanah]] and [[Hannah Asks Yahweh for a Son]]. Source: stored
@@ -82,6 +93,7 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Appears in
 
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:12–26; the sacrifices seized, the women at the Tent's door, Samuel ministering.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–28; the yearly sacrifice, Hannah's vow, and Samuel given to Eli.
 - [[The Song of Hannah]] — 1 Samuel 2:1–11; the setting, implied from 1:24–28; Samuel stays to serve before Eli.
 
@@ -102,6 +114,7 @@ Source: stored WEB Joshua 18:1–10.
 - [[Taanath Shiloh]] — named in Joshua 16:6; no identity with Shiloh is asserted here.
 
 ## Events here
+- Eli's sons seize the sacrifices and lie with the women at the Tent's door; Samuel grows before Yahweh — 1 Samuel 2:12–26, [[The Sins of Eli's Sons]]
 - Elkanah's yearly sacrifice; Hannah's vow; Samuel given to Eli — 1 Samuel 1:3–28, [[Hannah Asks Yahweh for a Son]]
 - Hannah's song; the child serves Yahweh before Eli — 1 Samuel 2:1–11, [[The Song of Hannah]]
 - Possibly *Yahweh's house*, the Levite's stated destination — Judges 19:18, [[The Levite's Concubine at Gibeah]]

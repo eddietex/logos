@@ -37,16 +37,36 @@ Source: stored WEB 1 Samuel 1:11, 19–28; 9:2; Numbers 34:20. 1 Chronicles 6:28
 will be the one who anoints the first two kings (10:1; 16:13, stored WEB; not yet ingested). See
 [[The Song of Hannah]] and [[His King and His Anointed - Hannah's Song and David's]].
 
+### Growing beside Eli's sons — 1 Samuel 2:18–26
+
+The narrative alternates between Eli's sons and the boy. *But Samuel ministered before Yahweh, being a
+child, clothed with a linen ephod* (2:18); the phrase *ḥāḡûr ʾēp̄ôḏ bāḏ*, *girded with a linen ephod*,
+recurs in the WLC files of Genesis through 2 Samuel only of David before the ark (2 Samuel 6:14). Each year
+his mother brings him *a little robe*, *məʿîl* (2:19, WLC), the noun of the robe Saul will tear (15:27) and
+the robe the medium sees on the risen old man (28:14) (stored WEB; not yet ingested). *The child Samuel
+grew before Yahweh* (2:21), literally *with* Yahweh (*ʿim-YHWH*, WLC), and *grew on, and increased in
+favor both with Yahweh, and also with men* (2:26). Eli's sons *didn't know Yahweh* (2:12); Samuel *didn't
+yet know Yahweh* (3:7, stored WEB; not yet ingested). Eli's question, *who will intercede for him?* (2:25),
+finds its answer later in Samuel himself, who prays for Israel at Mizpah (7:5) and calls it sin to cease
+praying for them (12:23) (stored WEB; not yet ingested). See [[The Sins of Eli's Sons]],
+[[Favor with God and Man - Proverbs 3.4, 1 Samuel 2.26, and Luke 2.52]], and
+[[They Didn't Know Yahweh - Pharaoh, the Generation After Joshua, and Eli's Sons]].
+
+Source: stored WEB 1 Samuel 2:12, 18–26; 3:7; 7:5; 12:23; 15:27; 28:14. Hebrew WLC (OpenScriptures
+morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
 - Weaned, and given to Yahweh at Shiloh under Eli — 1:22–28.
 - Stays at Shiloh and *served Yahweh before Eli the priest* — 2:11.
+- Ministers in a linen ephod; grows *with Yahweh and with men* beside Eli's sons — 2:18–26.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 20–28.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:18–21, 26.
 
 ## Related people
 
@@ -63,3 +83,5 @@ will be the one who anoints the first two kings (10:1; 16:13, stored WEB; not ye
 - [[Oaths and Vows]]
 - [[Prayer]]
 - [[Call and Election]]
+- [[Favor and Grace]]
+- [[Priesthood]]

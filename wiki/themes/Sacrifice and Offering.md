@@ -6,6 +6,19 @@ tags: [theme]
 
 ## Definition / overview
 
+### The fat not yet burned — 1 Samuel 2:13–17
+
+At Shiloh the priest's servant thrusts *a fork of three teeth* into the pot and the priest keeps
+whatever it brings up (2:13–14); the fork, *mazlēḡ* (WLC), is otherwise in the Torah one of the altar's
+bronze vessels (Exodus 27:3; 38:3). Then, *before they burned the fat*, the servant demands raw meat to
+roast, against the worshipper's plea, *Let the fat be burned first* (2:15–16). The law's order is that
+*all the fat is Yahweh's* (Leviticus 3:16), burned before the priests take their share (7:31). Taking
+first is the sin the narrator names: *the men despised the offering of Yahweh* (2:17), *minḥaṯ YHWH*
+(WLC). Judges 13:23 had reasoned from an accepted offering that Yahweh did not intend death; here the
+despisers of the offering are those he *intended to kill* (2:25). See [[The Sins of Eli's Sons]] and
+[[Pleased to Kill - Manoah's Wife and Eli's Sons]]. Source: stored WEB 1 Samuel 2:12–26; Exodus 27:3; 38:3; Leviticus 3:16; 7:31;
+Judges 13:23. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The yearly sacrifice, and the gift with the child — 1 Samuel 1:3–5, 21–25
 
 Elkanah goes up *from year to year to worship and to sacrifice* (1:3), and at the sacrificial meal gives
@@ -865,6 +878,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:13–17; the fork in the pot, raw meat before the fat is burned; *despised the offering of Yahweh*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–5, 21–25; the yearly sacrifice and its portions; bulls, flour, and wine brought with the child
 
 - [[Wives for Benjamin]] — Judges 21:4; altar, burnt offerings, and peace offerings at Bethel.

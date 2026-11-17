@@ -20,6 +20,7 @@ tags: [connection]
 - [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Samson's mother
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:2–20; and Luke 1:7, 36 — Hannah and Elizabeth
 - [[The Song of Hannah]] — 1 Samuel 2:5; *the barren has borne seven*
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:21; *Yahweh visited Hannah*; three sons and two daughters
 - Psalm 113:9; Isaiah 54:1; Galatians 4:27 — the barren woman as a figure for the people
 - [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive* (Ruth is not called barren)
 
@@ -139,7 +140,8 @@ has many children languishes* (2:5, WLC). It is the only line in the song that m
 is not told as hers: it stands among the mighty and the stumbling, the full and the hungry, the dead and
 the living (2:4–6). The barren matriarch becomes an instance of a rule, which is how Psalm 113 uses her too
 (113:7–9, WEB checked at bible-api.com). The *seven* is not a count: she will bear *three sons and two
-daughters* after Samuel (2:21, stored WEB; not yet ingested). See [[The Song of Hannah]] and
+daughters* after Samuel (2:21), when *Yahweh visited Hannah*, the verb of *Yahweh visited Sarah*
+(Genesis 21:1, *pāqaḏ*, WLC); see [[The Sins of Eli's Sons]]. See [[The Song of Hannah]] and
 [[From the Dust and the Ash Heap - 1 Samuel 2.8 and Psalm 113.7-9]]. Source: stored WEB 1 Samuel 2:4–6,
 21. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 

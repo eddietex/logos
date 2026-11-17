@@ -44,6 +44,16 @@ Chronicles 6:33–38 at bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures mo
 **Home to Ramah.** After Hannah's song, *Elkanah went to Ramah to his house* (2:11), leaving the boy at
 Shiloh. The verse names only him; Hannah is assumed to go with him. See [[The Song of Hannah]].
 
+### Blessed by Eli — 1 Samuel 2:19–21
+
+He goes up with Hannah *to offer the yearly sacrifice* (2:19). *Eli blessed Elkanah and his wife*: *May
+Yahweh give you offspring from this woman for the petition which was asked of Yahweh* (2:20). The WLC
+parses *šāʾal* in that clause as active masculine singular, *he asked*; some read the subject as Elkanah,
+others impersonally, and the verse does not say. Hannah then bears three sons and two daughters (2:21).
+See [[The Sins of Eli's Sons]].
+
+Source: stored WEB 1 Samuel 2:19–21. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Goes up yearly to Shiloh with his two wives — 1 Samuel 1:3–7.
@@ -51,18 +61,20 @@ Shiloh. The verse names only him; Hannah is assumed to go with him. See [[The So
 - Hannah conceives; Samuel is born — 1:19–20.
 - Offers the yearly sacrifice *and his vow*; consents to Hannah's waiting — 1:21–23.
 - Goes home to Ramah, leaving Samuel with Eli — 2:11.
+- Blessed by Eli at the yearly sacrifice; five more children are born — 2:19–21.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28.
 - [[The Song of Hannah]] — 1 Samuel 2:11.
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:19–21.
 
 ## Related people
 
 - [[Hannah]] — his loved wife
 - [[Peninnah]] — his other wife, mother of his first children
 - [[Samuel]] — his son by Hannah
-- [[Eli]] — the priest at Shiloh, who will bless him and his wife (2:20, not yet ingested)
+- [[Eli]] — the priest at Shiloh, who blesses him and his wife (2:20)
 - [[Korah (son of Izhar)]] — his ancestor in 1 Chronicles 6:37
 
 ## Themes associated
@@ -70,3 +82,4 @@ Shiloh. The verse names only him; Hannah is assumed to go with him. See [[The So
 - [[Marriage]] — two wives, one loved
 - [[Oaths and Vows]] — *his vow*, and *may Yahweh establish his word*
 - [[Sacrifice and Offering]] — the yearly sacrifice and the portions
+- [[Blessing]]

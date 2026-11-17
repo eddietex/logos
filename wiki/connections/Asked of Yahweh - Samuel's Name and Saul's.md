@@ -11,8 +11,8 @@ tags: [connection]
   that you have asked of him* (17); *she named him Samuel, saying, "Because I have asked him of Yahweh"*
   (20); *Yahweh has given me my petition which I asked of him. Therefore I have also given him to Yahweh. As
   long as he lives he is given to Yahweh* (27–28). Stored WEB.
-- 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of Yahweh*. Stored WEB;
-  not yet ingested.
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of
+  Yahweh*. Stored WEB.
 - 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB; not yet ingested.
 - [[The Song of Hannah]] — 1 Samuel 2:10, *his king … his anointed*, sung before any king is asked for.
   Stored WEB.
@@ -33,6 +33,11 @@ tags: [connection]
 In 1:28 the verb turns: the causative *hišʾiltihû*, *I have caused him to be asked*, means *lent* or
 *granted*, and the passive participle *šāʾûl* means *asked*, here *given*. The child who was asked for is
 the child given back.
+
+In 2:20 the WEB's passive *was asked* renders a form the WLC parses as active, third person masculine
+singular, *šāʾal*, *he asked* (morph *Vqp3ms*). The verse does not name the subject; Elkanah, an
+impersonal *one*, and an original *she asked* have all been proposed. The wiki reports the form and does
+not choose. See {P}.
 
 **The name does not fit the explanation.** *Šəmûʾēl* (1:20, WLC) does not derive from *šāʾal* by any
 obvious rule; the name is more often glossed *name of God* or *heard of God* (conventional glosses, not

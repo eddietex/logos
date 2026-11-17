@@ -63,6 +63,17 @@ not the song's seven. See [[The Song of Hannah]],
 Source: stored WEB 1 Samuel 2:1–11, 21; Deuteronomy 32:4, 39. Psalm 113 and Luke 1:46–55 at bible-api.com,
 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+### She brought him a little robe — 1 Samuel 2:19–21
+
+*His mother made him a little robe, and brought it to him from year to year, when she came up with her
+husband to offer the yearly sacrifice* (2:19). Eli blesses her and Elkanah, *for the petition which was
+asked of Yahweh* (2:20). *Yahweh visited Hannah*, *pāqaḏ* (WLC), the verb of *Yahweh visited Sarah*
+(Genesis 21:1), *and she conceived, and bore three sons and two daughters* (2:21). She gave one son and
+receives five more children. Her song's *the barren has borne seven* (2:5) is not a count: with Samuel she
+has six. See [[The Sins of Eli's Sons]] and [[The Barren Matriarchs]].
+
+Source: stored WEB 1 Samuel 2:5, 19–21; Genesis 21:1. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Barren, provoked by her rival at Shiloh year by year — 1 Samuel 1:2–8.
@@ -70,11 +81,13 @@ Source: stored WEB 1 Samuel 2:1–11, 21; Deuteronomy 32:4, 39. Psalm 113 and Lu
 - Conceives and bears Samuel — 1:19–20.
 - Weans him and gives him to Yahweh at Shiloh — 1:21–28.
 - Sings: *My heart exults in Yahweh* — 2:1–10.
+- Brings Samuel a robe yearly; blessed by Eli; bears three sons and two daughters — 2:19–21.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28.
 - [[The Song of Hannah]] — 1 Samuel 2:1–10.
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:19–21.
 
 ## Related people
 
@@ -98,3 +111,4 @@ Source: stored WEB 1 Samuel 2:1–11, 21; Deuteronomy 32:4, 39. Psalm 113 and Lu
 - [[Pride and Self-Exaltation]]
 - [[The Poor and the Vulnerable]]
 - [[Kingship and Empire]]
+- [[Blessing]]

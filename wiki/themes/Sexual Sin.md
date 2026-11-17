@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### At the door of the Tent — 1 Samuel 2:22
+
+Eli hears *how that they slept with the women who served at the door of the Tent of Meeting* (2:22).
+The women are described in the words of Exodus 38:8, the women whose mirrors made the basin. The offence
+is set at the sanctuary's entrance, by its priests. The clause is commonly reported to be absent from the
+Septuagint and 4QSamᵃ (recalled, not checked). See [[The Sins of Eli's Sons]] and
+[[The Women Who Served at the Door - Exodus 38.8 and 1 Samuel 2.22]]. Source: stored WEB 1 Samuel 2:12–26; Exodus 38:8.
+
 ### The edge not crossed — Ruth 3
 
 The threshing-floor scene is told in the words the Bible uses elsewhere for sex — *uncover*, *lie down*,
@@ -374,6 +382,7 @@ husband's taking her back after it (4). Matthew 5:32 later calls the second marr
 See [[Divorce, Remarriage, and the Newlywed]] and [[Because of the Hardness of Your Hearts - Deuteronomy 24.1-4 and the Gospels]]. Source: stored WEB Deuteronomy 24:1–5.
 
 ## Key passages
+- [[The Sins of Eli's Sons]] — 1 Samuel 2:22; Eli's sons and the women who served at the door of the Tent of Meeting.
 - [[Ruth at the Threshing Floor]] — Ruth 3:4–14; the language of sex used of a night that narrates only sleep.
 - [[The War Against Benjamin]] — Judges 20:5–6; the night at Gibeah as the Levite tells it.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:22–25; the demand at the door and the rape of the concubine.
