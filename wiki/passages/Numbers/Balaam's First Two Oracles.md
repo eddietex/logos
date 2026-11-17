@@ -86,6 +86,7 @@ given word (23:13–26).
 - [[The Blessed People and the Purchased Curse]]
 - [[Divination in Genesis - Laban's Nahash and Joseph's Cup]]
 - [[God Does Not Repent - Balaam and the Golden Calf]]
+- [[Let Me Die - Balaam's Wish and Samson's]] — *tāmōt napšî*, Numbers 23:10 and Judges 16:30.
 
 ## Notes
 

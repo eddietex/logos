@@ -12,7 +12,8 @@ tags: [place]
 Manoah's town: *a certain man of Zorah, of the family of the Danites* (13:2). *Yahweh's Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol* (13:25). The pair that
 heads Dan's border list (Joshua 19:41) frames Samson's story: it begins between them, and he is buried
 *between Zorah and Eshtaol in the burial site of Manoah his father* (16:31). The Danites set out *from
-Zorah and Eshtaol* in 18:2, 11. See [[The Announcement of Samson's Birth]] and [[Mahaneh Dan]].
+Zorah and Eshtaol* in 18:2, 11. See [[The Announcement of Samson's Birth]], [[The Death of Samson]], and
+[[Mahaneh Dan]].
 
 Source: stored WEB Judges 13:1–25; 16:31; 18:2, 11; Joshua 19:41.
 
@@ -32,6 +33,7 @@ Source: stored WEB Joshua 15:20–63. No modern site is assigned.
 - [[The Lots of Asher, Naphtali, and Dan]] — Joshua 19:24–48; in Dan’s list.
 - [[The Cities of Judah]] — Joshua 15:20–63.
 - [[The Announcement of Samson's Birth]] — Judges 13:2, 25; Manoah’s town; *between Zorah and Eshtaol*.
+- [[The Death of Samson]] — Judges 16:31; Samson buried *between Zorah and Eshtaol*.
 
 ## Related places
 - [[Eshtaol]] · [[Ashnah (by Zorah)]] — listed beside it (15:33).

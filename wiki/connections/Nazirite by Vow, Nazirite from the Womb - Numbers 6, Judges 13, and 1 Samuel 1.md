@@ -59,6 +59,17 @@ chapter, is the razor alone.
 
 Source: stored WEB Judges 13:4–14; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
+### The day of his death — Judges 16:30–31
+
+[[The Death of Samson]] closes the term his mother reported, *to the day of his death* (13:7). The razor
+had already come on his head (16:19), and *the hair of his head began to grow again* (16:22); the text does
+not say whether the Nazirite status was restored, lost, or simply continued to its term. Numbers 6:9–12
+provides for a Nazirite defiled by a sudden death to shave and begin again, but Samson's case, a razor on
+a Nazirite from the womb, is not the case the law describes, and Judges does not apply it. See
+[[Samson and Delilah]].
+
+Source: stored WEB Numbers 6:9–12; Judges 13:7; 16:19, 22, 30–31.
+
 ## Significance
 
 Numbers makes the office open and temporary, and the narratives show God using the same name for what

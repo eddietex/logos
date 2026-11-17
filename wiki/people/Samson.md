@@ -131,11 +131,31 @@ side, a verse apart, and does not explain how they relate. See [[Samson and Deli
 Source: stored WEB Judges 13:5; 14:3, 15; 15:13; 16:2, 4–22; Hebrew WLC (OpenScriptures morphhb),
 2026-11-16.
 
-### Ahead
+### Dagon's house — Judges 16:23–31
 
-His story runs to 16:31: his death in the temple of Dagon (16:23–31). The twenty years of 15:20 are repeated at 16:31, and he is buried *between Zorah and Eshtaol in the
-burial site of Manoah his father* (16:31). Hebrews 11:32 names him among the faithful. That pericope is
-not yet ingested.
+The lords of the Philistines gather *to offer a great sacrifice to Dagon their god, and to rejoice*: *Our god
+has delivered Samson our enemy into our hand* (16:23–24). *When their hearts were merry* they call him out of
+the prison to *entertain* them and set him *between the pillars* (25). He asks *the boy who held him by the
+hand* to let him *feel the pillars* (26). With the lords inside and *about three thousand men and women* on
+the roof (27), he prays: *Lord Yahweh, remember me, please, and strengthen me, please, only this once, God,
+that I may be at once avenged of the Philistines for my two eyes* (28). He takes the two middle pillars,
+says *Let me die with the Philistines!*, and bows *with all his might*; the house falls, *So the dead that he
+killed at his death were more than those who he killed in his life* (29–30). His brothers and his father's
+house bury him *between Zorah and Eshtaol in the burial site of Manoah his father. He judged Israel twenty
+years* (31).
+
+His story ends where it began, between Zorah and Eshtaol (13:25), on *the day of his death* the angel named
+(13:7). His second prayer, like his first at Lehi (15:18), is spoken at the edge of death, and asks for
+himself: *for my two eyes*. The narrator does not say Yahweh answered it, nor names the Spirit; it says the
+house fell. Whether the death is a judge's last victory or a man's last revenge, the text leaves open. See
+[[The Death of Samson]], [[Dagon]], [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]],
+[[Let Me Die - Balaam's Wish and Samson's]], and
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]].
+
+Hebrews 11:32 names him among the faithful, *Gideon, Barak, Samson, Jephthah* (WEB at bible-api.com; not
+stored), without naming any act.
+
+Source: stored WEB Judges 13:7, 25; 15:18; 16:23–31; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
 
 ## Timeline / key events
 - Announced to his mother by the angel of Yahweh; a Nazirite from the womb (Judges 13:3–7).
@@ -150,6 +170,9 @@ not yet ingested.
 - Goes in to a prostitute at Gaza; escapes the ambush at midnight and carries the city gate toward Hebron (16:1–3).
 - Loves Delilah; lies three times, then tells her of the razor; shaved, blinded, and set to grind in Gaza's prison (16:4–21).
 - His hair begins to grow again (16:22).
+- Brought out to entertain at Dagon's feast; prays to be remembered and strengthened; pulls down the house
+  and dies with the Philistines (16:23–30).
+- Buried between Zorah and Eshtaol in Manoah's tomb; *He judged Israel twenty years* (16:31).
 
 ## Appears in
 - [[The Announcement of Samson's Birth]] — Judges 13:1–25; announced, born, named, blessed, and first
@@ -168,7 +191,11 @@ not yet ingested.
 - [[Samson and Delilah]] — Judges 16:4–22; the four bindings, the razor, the blinding, and the mill.
 - [[Delilah]] — the woman of the valley of Sorek.
 - [[Eleven Hundred Pieces of Silver - Delilah and Micah's Mother]] — the price paid for him.
-- Judges 16:23–31 — not yet ingested.
+- [[The Death of Samson]] — Judges 16:23–31; Dagon's feast, the prayer, the fallen house, and the burial.
+- [[Dagon]] — the god credited with his capture.
+- [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] — the two falls in Dagon's house.
+- [[Let Me Die - Balaam's Wish and Samson's]] — *tāmôt napšî*.
+- [[Remember Me - Genesis 40.14 and the Prayers of the Condemned]] — *remember me, please*.
 - Hebrews 11:32 — *Gideon, Barak, Samson, Jephthah* (WEB at bible-api.com; not stored).
 
 ## Related people
@@ -181,9 +208,10 @@ not yet ingested.
 - [[Samson's Timnite Wife]] — his wife for the week of the feast (14); burned by the Philistines (15:6).
 - [[Judah]] — the tribe that binds him and hands him over (15:9–13).
 - [[Delilah]] — the woman he loved, paid to betray him (16:4–20).
+- [[Dagon]] — the Philistines' god, in whose house he dies (16:23–30).
 
 ## Themes associated
 - [[Holiness]] · [[Barrenness]] · [[The Spirit of God]] · [[Redemption]] · [[Blessing]] ·
   [[Names and Naming]] · [[Marriage]] · [[Providence]] · [[Deception]] · [[Vengeance]] ·
   [[Retribution]] · [[Prayer]] · [[War]] · [[Sexual Sin]] · [[Light and Darkness]] · [[Love]] · [[Seeing and Being Seen]] ·
-  [[Suffering]]
+  [[Suffering]] · [[Idolatry]] · [[Remembrance]] · [[Life and Death]] · [[Burial and the Grave]]

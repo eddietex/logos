@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### At his death, in his life — Judges 16:30
+
+*Samson said, "Let me die with the Philistines!"* (16:30), *tāmôt napšî*, the two words of Balaam's *Let
+me die the death of the righteous!* (Numbers 23:10, WLC). *So the dead that he killed at his death were more
+than those who he killed in his life* (16:30). The narrator counts the death as part of the work and does
+not call it sin or sacrifice. See [[The Death of Samson]] and [[Let Me Die - Balaam's Wish and Samson's]]. Source: stored
+WEB Numbers 23:10; Judges 16:30; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### His spirit came again — Judges 15:18–19
 
 *Now shall I die of thirst?* (15:18). God opens water, *and when he had drunk, his spirit came again, and
@@ -966,6 +974,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:30; *Let me die with the Philistines!*
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua at one hundred ten; Eleazar's death (29, 33).
 - [[Joshua's Farewell to the Leaders]] — Joshua 23:1–16; *the way of all the earth* (14).
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

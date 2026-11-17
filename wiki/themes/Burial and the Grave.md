@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Between Zorah and Eshtaol — Judges 16:31
+
+*Then his brothers and all the house of his father came down, and took him, and brought him up, and
+buried him between Zorah and Eshtaol in the burial site of Manoah his father. He judged Israel twenty
+years* (16:31). The notice has the form of Gideon's, *buried in the tomb of Joash his father* (8:32), with
+the same word, *qeber* (WLC), and of the minor judges' notices (10:2; 12:7). The place is where the Spirit
+first moved him, *between Zorah and Eshtaol* (13:25). See [[The Death of Samson]] and [[Manoah]]. Source: stored WEB Judges 8:32; 10:2;
+12:7; 13:25; 16:31; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Bethlehem, Aijalon, Pirathon — Judges 12:8–15
 
 The last three minor judges each *died* and *was buried* in a named place: Ibzan *at Bethlehem* (12:10),
@@ -259,6 +268,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[The Death of Samson]] — Judges 16:31; buried in Manoah's tomb between Zorah and Eshtaol.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:10, 12, 15; buried at Bethlehem, Aijalon, and Pirathon.
 - [[Shibboleth]] — Judges 12:7; *buried in the cities of Gilead*.
 - [[Tola and Jair]] — Judges 10:2, 5; Tola buried in Shamir, Jair in Kamon.

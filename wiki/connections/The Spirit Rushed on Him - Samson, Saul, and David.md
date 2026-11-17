@@ -52,6 +52,12 @@ brings *an evil spirit from God* on him.
 Ashkelon. Saul's follows the news of Jabesh Gilead and leads to the muster of Israel (11:7, not checked
 for this page). The same two clauses carry a private grievance and a public rescue.
 
+**At his death the Spirit is not named.** Samson's last act of strength, at Dagon's house (Judges 16:28–30),
+follows a prayer, *strengthen me, please, only this once*, not a notice that the Spirit came on him. The
+last thing the narrator said about Yahweh and Samson was *he didn't know that Yahweh had departed from him*
+(16:20). Whether the strength at the pillars is the Spirit's return, the text does not say. See
+[[The Death of Samson]].
+
 ## Significance
 
 - **The verb names the Spirit's force, not its fruit.** Samson tears a lion and kills thirty men for their

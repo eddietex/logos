@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A great sacrifice to Dagon — Judges 16:23
+
+*The lords of the Philistines gathered them together to offer a great sacrifice to Dagon their god*,
+*lizbōaḥ zebaḥ-gādôl* (16:23, WLC). In the WLC of Judges the verb *zābaḥ* and the
+noun *zebaḥ* occur only here and at 2:5, where Israel *sacrificed there to Yahweh* at Bochim; the book's
+other offerings are *ʿōlâ*, burnt offerings. The second *zebaḥ* of the book is a thanksgiving to Dagon for
+Israel's judge captured. It ends with the house fallen on the worshipers (30). See [[The Death of Samson]]
+and [[Dagon]]. Source: stored WEB Judges 2:5; 16:23–30; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### The angel in the flame — Judges 13:15–23
 
 Manoah offers a young goat as a meal. The angel refuses: *If you will prepare a burnt offering, you
@@ -818,6 +827,7 @@ after the ordinance*, assuming the scale of Numbers 15.
 See [[The Offerings of the Appointed Feasts]]. Source: stored WEB Numbers 28:16–29:40.
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:23; *a great sacrifice to Dagon*.
 - [[Jephthah's Vow]] — Judges 11:31, 39; the burnt offering vowed, and a fulfillment that does not name it.
 - [[Gideon Throws Down Baal's Altar]] — Judges 6:26, 28; the second bull offered on a new altar, burned with the Asherah's wood.
 - [[The Call of Gideon]] — Judges 6:18–24; the offering consumed by fire from the rock, and the altar named.

@@ -63,8 +63,8 @@ narrative.
   happaʿam*, *only this time*, occurs four times (searched for *ʾak* immediately before *happaʿam*).
   Abraham (Genesis 18:32) and Gideon (Judges 6:39) use it with *let me speak*. Pharaoh uses it to Moses,
   *please forgive my sin again*, WEB's *again* for *ʾak happaʿam* (Exodus 10:17; [[Locusts and Darkness]]).
-  Samson uses it in his last prayer, *strengthen me, please, only this once* (Judges 16:28, not yet
-  ingested). All four are requests to be granted one more time. Only Genesis 18 and Judges 6 also have
+  Samson uses it in his last prayer, *strengthen me, please, only this once* (Judges 16:28,
+  [[The Death of Samson]]; *ʾak happaʿam hazzeh*, WLC). All four are requests to be granted one more time. Only Genesis 18 and Judges 6 also have
   *let it not burn* and *let me speak*, so the wiki pairs those two. Whether the phrase occurs elsewhere
   in the Hebrew Bible was not checked.
 

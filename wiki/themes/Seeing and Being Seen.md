@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### For my two eyes — Judges 16:24–28
+
+The blinded Samson is now the one looked at: *When the people saw him, they praised their god* (16:24);
+on the roof *about three thousand men and women, who saw while Samson performed* (27). He is led by *the
+boy who held him by the hand* and asks to *feel the pillars* (26), with the verb (*mûš*) of the blind
+Isaac's *that I may feel you* (Genesis 27:21, WLC). His last prayer asks vengeance *for my two eyes* (28).
+See [[The Death of Samson]] and [[Two Blind Fathers - Genesis 27 and Genesis 48]]. Source: stored WEB Genesis 27:21;
+Judges 16:24–28; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### They put out his eyes — Judges 16:21
 
 Samson's story was driven by his eyes: he *saw* the Timnite woman, *she is right in my eyes* (14:1–3,
@@ -451,6 +460,7 @@ is the charge, and not seeing is the sentence. Moses says Yahweh is seen *eye to
 glory appears to all Israel (10). See [[The People Refuse the Land]].
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:24–28; seen by the crowd, feeling for the pillars, *my two eyes*.
 - [[Samson and Delilah]] — Judges 16:21; *put out his eyes*.
 - [[The Call of Gideon]] — Judges 6:22–23; *I have seen Yahweh's angel face to face*.
 - [[The Death of Moses]] — Deuteronomy 34:1–12; Shown the land (1, 4).

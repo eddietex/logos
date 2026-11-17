@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A great sacrifice to Dagon — Judges 16:23–24
+
+*The lords of the Philistines gathered them together to offer a great sacrifice to Dagon their god, and to
+rejoice; for they said, "Our god has delivered Samson our enemy into our hand"* (16:23); the people *praised
+their god* (24). The boast uses the formula Judges gives to Yahweh, *delivered … into your hand* (3:28; 4:7;
+7:9). The narrator never says Dagon acted, and his house falls on his worshipers (30). See [[Dagon]],
+[[The Death of Samson]], and [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]]. Source: stored WEB Judges 3:28; 4:7; 7:9;
+16:23–30.
+
 ### *Chemosh your god* — Judges 11:24
 
 Jephthah names a foreign god to a foreign king as the giver of that king's land (11:24). The verse is
@@ -587,6 +596,7 @@ reason given is the danger of learned worship, as in 12:29–31 and 18:9–12, n
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:23–24, 30; the sacrifice to Dagon, and his fallen house.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:24; *Chemosh your god*.
 
 - [[Israel's Repentance Under Ammon]] — Judges 10:6, 14, 16; seven peoples' gods served; the chosen gods; the foreign gods put away.

@@ -375,6 +375,16 @@ the prison mill in Gaza. The chapter's last word before Dagon's feast is a begin
 head began to grow again*. The sum paid for him reappears in the next chapter, stolen and made into an
 idol (17:2–3).
 
+[[The Death of Samson]] (16:23–31) ends the judges. The lords of the Philistines hold *a great sacrifice to
+Dagon their god*, singing *Our god has delivered Samson our enemy into our hand*, the formula the book has
+given to Yahweh. They bring the blind man out *that he may entertain us* and set him between the pillars.
+He prays, *Lord Yahweh, remember me, please, and strengthen me, please, only this once … that I may be at
+once avenged of the Philistines for my two eyes*, says *Let me die with the Philistines!*, and brings the
+house down on the lords and the people: *the dead that he killed at his death were more than those who he
+killed in his life*. His brothers bury him *between Zorah and Eshtaol*, where the Spirit first moved him,
+and the twenty years are repeated. The narrator does not name the Spirit, does not say Yahweh answered, and
+does not judge the death. No judge follows; the next chapter opens on Micah's silver.
+
 ## Structure
 
 The book is usually read in three parts, and the pericope plan below follows them:
@@ -433,7 +443,7 @@ merge, or reorder them freely.
 - [x] [[Samson Against the Philistines at Lehi]] — Judges 15:1–20
 - [x] [[Samson at Gaza]] — Judges 16:1–3
 - [x] [[Samson and Delilah]] — Judges 16:4–22
-- [ ] The Death of Samson — Judges 16:23–31
+- [x] [[The Death of Samson]] — Judges 16:23–31
 - [ ] Micah's Idol and Levite — Judges 17:1–13
 - [ ] The Danite Migration — Judges 18:1–31
 - [ ] The Levite's Concubine at Gibeah — Judges 19:1–30
@@ -453,9 +463,9 @@ merge, or reorder them freely.
 - [[Prophecy and Vision]] — Deborah, *a prophetess* who judges Israel (4:4); the dream of the barley loaf, told and interpreted in Midian's camp (7:13–14).
 - [[Call and Election]] — Gideon, the first judge whose call is narrated (6:11–24).
 - [[Pride and Self-Exaltation]] — *lest Israel brag against me, saying, "My own hand has saved me"* (7:2); *For Yahweh and for Gideon!* (7:18).
-- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33).
+- [[Idolatry]] — Baal served from the start of the cycle (2:11–13); Joash's Baal altar defended by an Israelite town (6:25–32); Gideon's ephod, *a snare* (8:27); Baal Berith (8:33); the Philistines' sacrifice to Dagon (16:23).
 - [[The Spirit of God]] — on Othniel (3:10), and *clothing* Gideon (6:34); *Yahweh had departed* from Samson (16:20).
-- [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19).
+- [[Vengeance]] — Gideon kills the kings of Midian for *my brothers, the sons of my mother* (8:19); Samson's *avenged … for my two eyes* (16:28).
 - [[Strife and Peacemaking]] — Ephraim *contends* with Gideon and is calmed (8:1–3); Jephthah, *a man of strife*, fights it (12:1–6).
 - [[Language and Speech]] — *I have opened my mouth to Yahweh* (11:35); *Shibboleth* at the fords (12:5–6).
 - [[Signs and Wonders]] — Gideon's signs: fire from the rock (6:21), the fleece twice (6:36–40), and the dream he is sent to overhear (7:9–15).
@@ -471,7 +481,7 @@ merge, or reorder them freely.
 - [[Judgment]] — *May Yahweh the Judge be judge today* (11:27).
 - [[Oaths and Vows]] — Jephthah's vow, *I can't go back* (11:30–39).
 - [[Barrenness]] — Manoah's wife, *barren, and childless* (13:2–3).
-- [[Prayer]] — Samson calls on Yahweh in thirst, and the spring is opened (15:18–19).
+- [[Prayer]] — Samson calls on Yahweh in thirst, and the spring is opened (15:18–19); *remember me, please, and strengthen me* (16:28).
 - [[Holiness]] — Samson *a Nazirite to God from the womb* (13:5, 7); the razor at last (16:17–19).
 - [[Love]] — *he loved a woman in the valley of Sorek* (16:4).
 - [[Wealth and Possessions]] — eleven hundred pieces of silver, for Samson (16:5) and for Micah's idol (17:2–3).

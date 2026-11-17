@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Remember me, please — Judges 16:28
+
+*Zākərēnî nāʾ*, *remember me, please* (16:28, WLC), Samson's prayer at the pillars. In Judges *zākar*
+occurs otherwise only at 8:34, *The children of Israel didn't remember Yahweh their God*, and 9:2,
+Abimelech's *Remember also that I am your bone and your flesh*. Israel forgot Yahweh; a blind judge asks
+Yahweh to remember him. See [[The Death of Samson]] and
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]. Source: stored WEB Judges 8:34; 9:2; 16:28; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ### A custom in Israel — Judges 11:39–40
 
 *It was a custom in Israel that the daughters of Israel went yearly to celebrate the daughter of
@@ -837,6 +846,7 @@ have I forgotten them"* (26:13). See [[First Fruits and the Tithe Declaration]] 
 [[My Father Went Down into Egypt - Numbers 20.15-16 and Deuteronomy 26.5-9]]. Source: stored WEB Deuteronomy 25:19; 26:5–13.
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:28; *remember me, please*.
 - [[Jephthah's Vow]] — Judges 11:39–40; a yearly telling of the daughter's story.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15–26; the wilderness road retold as evidence, three centuries on.
 

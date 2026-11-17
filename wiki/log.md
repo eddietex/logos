@@ -27454,3 +27454,59 @@ Exodus 32:20, Numbers 11:8, Deuteronomy 9:21, Judges 16:21; *yātēd* (3489) wit
 and 16:14; *kəpaʿam bəpaʿam* in Judges at 16:20; 20:30–31 and in Numbers 24:1; *ʾelep ûmēʾâ kesep* in
 Judges only at 16:5; 17:2, 3; *sûr* + *mēʿal* at 16:19, 20; 1 Samuel 16:14 *sārâ mēʿim*. No Greek text was
 consulted.
+
+## [2026-11-16] ingest | Judges 16.23-31 — The Death of Samson
+
+Unattended ingest (`/ingest auto`). Dagon's feast, Samson brought out *to entertain* the Philistines, his
+prayer *remember me … strengthen me … only this once*, the fallen house, and the burial between Zorah and
+Eshtaol. This closes the Samson cycle and the judges proper (3:7–16:31).
+
+Created: [[The Death of Samson]], [[Dagon]], [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]],
+[[Let Me Die - Balaam's Wish and Samson's]].
+
+Revised: [[Samson]] (the *Ahead* section replaced by the death, timeline, appears-in, related people,
+themes), [[The Philistines]], [[Manoah]] (the *Ahead* section replaced by his grave), [[Balaam]], [[Gaza]],
+[[Zorah]], [[Eshtaol]]; themes [[Vengeance]], [[Prayer]], [[Remembrance]], [[Idolatry]],
+[[Joy and Enjoyment]], [[Seeing and Being Seen]], [[Life and Death]], [[Burial and the Grave]],
+[[Sacrifice and Offering]]; connections
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]],
+[[He Shall Begin to Save - Judges 13.5 and the Philistine Wars of Samuel]],
+[[Don't Let Your Anger Be Kindled - Genesis 18.30-32 and Judges 6.39]],
+[[Nazirite by Vow, Nazirite from the Womb - Numbers 6, Judges 13, and 1 Samuel 1]] (new section on the
+term *to the day of his death*), [[The Spirit Rushed on Him - Samson, Saul, and David]] (the Spirit not
+named at the pillars), [[Two Blind Fathers - Genesis 27 and Genesis 48]] (a *compare* line for *mûš*);
+passages [[Samson and Delilah]], [[Samson at Gaza]], [[Samson Against the Philistines at Lehi]],
+[[The Announcement of Samson's Birth]], [[Balaam's First Two Oracles]] (placeholders for 16:23–31 now
+link the passage); [[Judges]] (box checked, overview paragraph, key themes). Also `wiki/books/index.md`
+(37 / 42), the places index, People Index A-E, F-M, and N-Z, the themes index, Connections Index D-H,
+I-N, O-S, and T-Z, and the dashboard counts. Frontmatter totals: 473 passages, 336 people, 592 places, 88
+themes, 898 connections.
+
+No contradictions with existing pages found. Two open questions recorded rather than resolved: whether
+Samson's death is a judge's last victory or a man's last revenge (the prayer is to Yahweh, and asks *for
+my two eyes*); and whether the strength at the pillars came back with the hair, by the Spirit (not named),
+or in answer to the prayer (the text says only that the house fell).
+
+Readings recorded, not resolved: (1) the house's city, Gaza by narrative continuity, not named in 16:23–30;
+(2) the etymology of *Dagon* (fish or grain, reported, not checked); (3) the architecture of the pillars;
+(4) who Samson's *brothers* are, given the barren mother of 13:2; (5) what Samson *performed* (*ṣāḥaq*).
+
+Judgment calls: kept 16:23–31 as planned. Dagon is filed under people, with the deities, as [[Chemosh]]
+is; no collision (the place pages are [[Beth Dagon (Judah)]] and [[Beth Dagon (Asher)]]). The house of
+Dagon gets no place page. The boy who leads Samson, his brothers, and the three thousand on the roof get no
+pages. 1 Samuel 5 is given a connection page now, ahead of its ingest, because Dagon is named as a god only
+in these two places in the WLC files read.
+
+Sources: Judges quotations copied from stored WEB; comparisons from stored WEB Genesis 21:6, 9; 26:8;
+27:12, 21–22; 39:14; Exodus 13:21–22; 30:3; 32:6; Numbers 6:9–12; 23:10; 31:8; Deuteronomy 22:8; Joshua
+2:6, 8; 15:41; 19:27. 1 Samuel 5:1–7 and Hebrews 11:32 checked against WEB at bible-api.com, not stored.
+Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen.xml`,
+`Exod.xml`, `Lev.xml`, `Num.xml`, `Deut.xml`, `Josh.xml`, `Judg.xml`, `1Sam.xml` on 2026-11-16. Verified
+in those files: *dāgôn* (1712) only at Judges 16:23 and 1 Samuel 5:2–5, 7; *ṣāḥaq* (6711) in Genesis
+17:17; 18:12–15; 19:14; 21:6, 9; 26:8; 39:14, 17; Exodus 32:6; Judges 16:25; *mûš* (4184) only at Genesis
+27:21 and Judges 16:26 (*māšaš*, 4959, at Genesis 27:12, 22 among others); *gāg* (1406) at Exodus 30:3;
+37:26; Deuteronomy 22:8; Joshua 2:6, 8; Judges 9:51; 16:27; *ʿammûd* (5982) in Judges only at 16:25, 26,
+29; 20:40; *ʾădōnāy YHWH* (3069) in Judges only at 6:22; 16:28; *zākar* (2142) in Judges only at 8:34;
+9:2; 16:28; *nāqam* (5358) in Judges only at 15:7; 16:28; *kōaḥ* (3581) in Judges at 6:14 and in chapter
+16; *zābaḥ*/*zebaḥ* (2076/2077) in Judges only at 2:5; 16:23; *tāmôt napšî* only at Numbers 23:10 and
+Judges 16:30. No Greek text was consulted.

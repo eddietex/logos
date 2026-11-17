@@ -51,9 +51,15 @@ his son is doing. See [[Samson's Riddle]].
 
 Source: stored WEB Genesis 24:3; 28:1; Judges 13:12; 14:1–10.
 
-### Ahead
+### His grave — Judges 16:31
 
-Samson is buried *in the burial site of Manoah his father* (16:31). Not yet ingested.
+Samson's *brothers and all the house of his father* bring him up and bury him *between Zorah and Eshtaol in
+the burial site of Manoah his father* (16:31). Manoah's name, absent since chapter 13 (in chapter 14 he
+is only *his father*), returns as the owner of a grave; the text does not say when he died. The man who asked
+what the child's *way of life and mission* would be (13:12) is named last at its end. Whether the *brothers* are sons of
+Manoah born after Samson or kinsmen, the text does not say. See [[The Death of Samson]].
+
+Source: stored WEB Judges 13:12; 16:31.
 
 ## Timeline / key events
 - A Danite of Zorah, husband of a barren wife (Judges 13:2).
@@ -61,6 +67,7 @@ Samson is buried *in the burial site of Manoah his father* (16:31). Not yet inge
 - Meets the angel, asks about the child and the visitor's name, offers on the rock (13:11–20).
 - Fears death for having seen God; answered by his wife (13:22–23).
 - Objects to Samson's Philistine wife, then arranges the marriage (14:2–10).
+- Samson is buried in his tomb (16:31).
 
 ## Appears in
 - [[The Announcement of Samson's Birth]] — Judges 13:1–25.
@@ -68,6 +75,7 @@ Samson is buried *in the burial site of Manoah his father* (16:31). Not yet inge
 - [[They Saw God - Exodus 24, Exodus 33, and John 1.18]] — *we have seen God*.
 - [[Entertaining Angels Unawares]] — the meal refused.
 - [[Samson's Riddle]] — Judges 14:2–10; *his father*, unnamed, objects and goes down to Timnah.
+- [[The Death of Samson]] — Judges 16:31; Samson buried in his burial site.
 
 ## Related people
 - [[Manoah's Wife]] — his wife, who sees and reasons first.

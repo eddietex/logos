@@ -12,8 +12,8 @@ tags: [connection]
 - [[The Announcement of Samson's Birth]] — Judges 13:5; *He shall begin to save Israel out of the hand
   of the Philistines.* And 13:25, *Yahweh's Spirit began to move him.*
 - [[Samson Against the Philistines at Lehi]] — Judges 15:18, 20; *this great deliverance*, and *He judged Israel
-  twenty years in the days of the Philistines*. Judges 16:31 repeats the twenty years (stored WEB; not yet
-  ingested).
+  twenty years in the days of the Philistines*. [[The Death of Samson]] repeats the twenty years (16:31) and
+  kills *the lords of the Philistines* (16:30), but the Philistines remain.
 - 1 Samuel 7:13 — *So the Philistines were subdued, and they stopped coming within the border of
   Israel. Yahweh's hand was against the Philistines all the days of Samuel.* (WEB at bible-api.com; not
   stored)

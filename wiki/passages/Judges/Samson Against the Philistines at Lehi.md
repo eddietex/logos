@@ -229,7 +229,7 @@ a round number of the dead. See
 - [[Laws of Property and Restitution]] — Exodus 22:6; the shocks and the standing grain.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:16, 20; *torches*, *lappîdîm*, as at 15:4–5.
 - [[Samson and Delilah]] — Judges 16:11–12, 21; the new ropes again, and the fetters.
-- Judges 16:28, 31 — *avenged*, and *twenty years* again (stored WEB; not yet ingested).
+- [[The Death of Samson]] — Judges 16:28, 31; *avenged*, the second prayer, and *twenty years* again.
 - 1 Samuel 19:5; 30:12; 2 Samuel 23:10, 12 — WEB at bible-api.com; not stored.
 
 ## Notes

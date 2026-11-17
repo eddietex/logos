@@ -85,14 +85,19 @@ who struck six hundred men of the Philistines with an ox goad. He also saved Isr
 oppression by them is described there, and no Philistine leader is named. See
 [[Shamgar and the Ox Goad]].
 
-The Philistines are the enemy of Samson's story (Judges 13–16); his death in Dagon's house (16:23–31) is
-not yet ingested.
+The Philistines are the enemy of Samson's story (Judges 13–16). It ends at their feast: *The lords of the
+Philistines gathered them together to offer a great sacrifice to Dagon their god, and to rejoice; for they
+said, "Our god has delivered Samson our enemy into our hand"* (16:23). The lords and the people, with *about
+three thousand men and women* on the roof, die when Samson pulls down the house (27–30). The book's
+deliverance formula, *delivered … into our hand*, is in their mouths and given to [[Dagon]]; the narrator
+never says Dagon did anything. Their war with Israel does not end there. See [[The Death of Samson]] and
+[[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]].
 
 This page covers the people. The region is [[The Land of the Philistines]]; the rulers of Genesis are
 [[Abimelech (of Abraham's time)]] and [[Abimelech (of Isaac's time)]].
 
 Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 13:2–3; Judges 1:18;
-3:3, 31; 13:5; 16:5.
+3:3, 31; 13:5; 16:5, 23–30.
 
 ## Timeline / key events
 
@@ -127,6 +132,8 @@ Sources: stored WEB Genesis 10:14; 21:34; 26:1, 14; Exodus 13:17; 15:14; Joshua 
   thousand dead at Lehi.
 - [[Samson at Gaza]] — Judges 16:1–3; *the Gazites* lie in wait at the gate.
 - [[Samson and Delilah]] — Judges 16:5–21; the lords' silver, the ambush, the blinding, and the prison mill.
+- [[The Death of Samson]] — Judges 16:23–31; Dagon's feast and the fallen house.
+- [[Dagon Fallen - Samson's Pillars and the Ark in Ashdod]] — Dagon's house in Judges 16 and 1 Samuel 5.
 
 ## Related people
 

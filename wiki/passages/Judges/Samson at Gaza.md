@@ -137,7 +137,7 @@ darkness* (7:9), a woman *lurking at every corner* (7:12), and a man who goes *a
 - [[Bound to Be Handed Over - The Men of Judah and Delilah]] — the bindings that follow (16:4–21).
 - [[Entice Him - The Timnite Wife and Delilah]] — the next woman (16:4–5).
 - [[Samson and Delilah]] — Judges 16:4, 9, 12, 21; Delilah's ambush and Gaza's prison.
-- Judges 16:23–30 — Dagon's house (stored WEB; not yet ingested).
+- [[The Death of Samson]] — Judges 16:23–31; Dagon's house, the city by context.
 
 ## Notes
 

@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Remember me, strengthen me — Judges 16:28
+
+Samson's second and last prayer: *Lord Yahweh, remember me, please, and strengthen me, please, only this
+once, God* (16:28). Both of his prayers are spoken at the edge of death, the first for water, *shall I die
+of thirst?* (15:18), the second for strength, followed by *Let me die with the Philistines!* (16:30). The
+address *ʾădōnāy YHWH* occurs in Judges otherwise only in Gideon's *Alas, Lord Yahweh!* (6:22, WLC), and
+*ʾak happaʿam*, *only this once*, is Gideon's at the fleece (6:39). The text reports the house falling and
+does not say that Yahweh answered. See [[The Death of Samson]] and
+[[Remember Me - Genesis 40.14 and the Prayers of the Condemned]]. Source: stored WEB Judges 6:22, 39; 15:18; 16:28–30;
+Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Samson calls on Yahweh — Judges 15:18
 
 Samson's first recorded words to God come after the thousand dead, when he is *very thirsty*: *You have
@@ -433,6 +444,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[The Death of Samson]] — Judges 16:28; *remember me, please, and strengthen me*.
 - [[Israel's Repentance Under Ammon]] — Judges 10:10–15; the cry quoted, refused, and renewed.
 - [[The Fleece]] — Judges 6:36–39; two conditional requests, the second with Abraham's preface.
 - [[Midian's Oppression and the Prophet]] — Judges 6:6–8; the cry told twice, answered with a prophet.

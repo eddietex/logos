@@ -95,6 +95,7 @@ not yet say that Balaam accepted payment.
 - [[Balak Sends for Balaam]] — Numbers 22:1–21.
 - [[The Assembly and the Holy Camp]] — Deuteronomy 23:4–5; hired against Israel, the curse turned to
   blessing.
+- [[Let Me Die - Balaam's Wish and Samson's]] — *Let me die the death of the righteous* (Numbers 23:10) beside Samson's *Let me die with the Philistines* (Judges 16:30).
 
 ## Related people
 

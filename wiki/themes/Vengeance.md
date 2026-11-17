@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### One vengeance for my two eyes — Judges 16:28
+
+*Lord Yahweh, remember me, please, and strengthen me, please, only this once, God, that I may be at once
+avenged of the Philistines for my two eyes* (16:28). The Hebrew reads *wəʾinnāqəmâ nəqam-ʾaḥat miššətê
+ʿênay*, *that I may be avenged with one vengeance for my two eyes* (WLC); in Judges the verb *nāqam* occurs
+only here and at 15:7, *surely I will take revenge on you*. The prayer is addressed to Yahweh and asks for
+Samson's eyes, not for Israel. The house falls, and the narrator does not say whose vengeance it was. See
+[[The Death of Samson]] and [[Let Me Die - Balaam's Wish and Samson's]]. Source: stored WEB Judges 15:7; 16:28–30; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-16.
+
 ### Blameless, then avenged — Judges 15:3–11
 
 The reprisals of chapter 14 become explicit. Samson: *This time I will be blameless in the case of the
@@ -248,6 +258,7 @@ Leviticus 19:18 forbids.
 See [[The War Against Midian]]. Source: stored WEB Numbers 31.
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:28; *avenged … for my two eyes*.
 - [[Jephthah's Vow]] — Judges 11:36; *Yahweh has taken vengeance for you*.
 - [[Ephraim, Succoth, and Penuel]] — Judges 8:18–21; Gideon kills the kings of Midian for his brothers killed at Tabor.
 - [[The Cities of Refuge Appointed]] — Joshua 20:1–9.

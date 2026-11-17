@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### Their hearts were merry — Judges 16:23–25
+
+The Philistines gather *to offer a great sacrifice to Dagon their god, and to rejoice*, *ûləśimḥâ* (16:23),
+and *When their hearts were merry*, *kəṭôb libbām* (25, WLC), they call for Samson *that he may entertain
+us*. The feast's joy is the occasion of its end: the house falls on the revelers (30). The Levite's
+father-in-law will urge *let your heart be merry* in 19:6, 9 (stored WEB; not yet ingested). See
+[[The Death of Samson]]. Source: stored WEB Judges 16:23–30; 19:6, 9; Hebrew WLC (OpenScriptures morphhb), 2026-11-16.
+
 ### Moses blesses the tribes — Deuteronomy 33:1–29
 
 Zebulun and Issachar are summoned to rejoice (18), and Israel is called happy as a people saved by
@@ -323,6 +331,7 @@ foreigner, who has no Israelite father to recite about, is at the meal. See [[Fi
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
 ## Key passages
+- [[The Death of Samson]] — Judges 16:23–25; *to rejoice*, *when their hearts were merry*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 
 - [[Return Restoration and the Circumcised Heart]] — Deuteronomy 30:1–10.

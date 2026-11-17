@@ -14,6 +14,8 @@ tags: [connection]
 - **Genesis 25:23** — *"the elder will serve the younger"* — [[Jacob and Esau and the Sold Birthright]]
 - Compare **Genesis 37:3–4; 42:38** — Jacob doing to his own sons what was done in his father's tent:
   preferring one
+- Compare [[The Death of Samson]] — **Judges 16:26** — blinded, not dim with age: *Allow me to feel the
+  pillars*, *hămîšēnî*, the verb (*mûš*) of Isaac's *that I may feel you* (Genesis 27:21, WLC)
 - **Hebrews 11:20–21** — the two blessings named in consecutive verses, **both as acts of faith**
 
 ## Analysis

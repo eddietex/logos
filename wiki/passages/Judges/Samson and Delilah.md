@@ -61,7 +61,8 @@ The strength was never in the hair as a charm; when the hair goes, Yahweh goes, 
 with him. The text puts the two together without explaining the link.
 
 The last verse looks forward. The cut hair *began to grow again*. Nothing else in the verse is said, and
-the next pericope, Dagon's feast and the fallen house (16:23–31), is where it matters.
+the next pericope, Dagon's feast and the fallen house, [[The Death of Samson]] (16:23–31), is where it
+matters.
 
 **What is notable.**
 
@@ -240,8 +241,7 @@ Israelite family and made into an idol. See
   age, not by violence.
 - Numbers 6:3–5; 14:9; 16:14; 21:4; 24:1 — the Nazirite rules, *their defense is removed*, *put out the
   eyes*, *his soul was short*, *as at other times* (stored WEB).
-- Judges 16:23–31 — Dagon's feast and Samson's death (stored WEB; not yet ingested, see *The Death of
-  Samson* on [[Judges]]).
+- [[The Death of Samson]] — Judges 16:23–31; Dagon's feast, the regrown hair's sequel, and the burial.
 - Judges 17:1–6 — Micah's eleven hundred pieces of silver (stored WEB; not yet ingested).
 - 1 Samuel 16:14 — *Now Yahweh's Spirit departed from Saul* (WEB at bible-api.com; not stored).
 
