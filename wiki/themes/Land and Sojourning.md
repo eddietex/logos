@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### A family of Judah sojourning in Moab — Ruth 1:1–4
+
+*A certain man of Bethlehem Judah went to live in the country of Moab* (Ruth 1:1): *lāgûr*, to sojourn, as
+Abram went to Egypt (Genesis 12:10) and as Micah's Levite left the same town (Judges 17:8; WLC). The stay
+grows from a famine's length to *about ten years* (1:4), with marriages and three graves. Israelites are
+now the sojourners in someone else's land. See [[Famine and Death in Moab]] and
+[[Went to Sojourn from Bethlehem Judah - Judges 17.8 and Ruth 1.1]]. Source: stored WEB Ruth 1:1–4;
+Genesis 12:10; Judges 17:8; Hebrew WLC, 2026-11-17.
+
 ### Each man to his inheritance — Judges 21:17, 23–24
 
 *There must be an inheritance for those who are escaped of Benjamin* (21:17). Benjamin *returned to their
@@ -1114,6 +1123,7 @@ and recites a father who *"lived there"* in Egypt, *wayyāgor*, as a sojourner (
 us"* (15). See [[First Fruits and the Tithe Declaration]]. Source: stored WEB Deuteronomy 26:1–15; Genesis 12:10.
 
 ## Key passages
+- [[Famine and Death in Moab]] — Ruth 1:1–4; a man of Bethlehem Judah sojourns in Moab about ten years.
 - [[Wives for Benjamin]] — Judges 21:17, 23–24; an inheritance kept, and each man to his own.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1, 16; the Levite and the old man, both *gār*.
 - [[The Danite Migration]] — Judges 18:1, 7–10, 27–29; a tribe without an inheritance takes Laish.

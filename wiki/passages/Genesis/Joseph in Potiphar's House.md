@@ -218,7 +218,7 @@ to Joseph across an unspecified stretch of *day by day*.**
 
 **She is the only woman in the Bible who propositions a man in the imperative and in plain terms.** The
 comparisons all fall short of it: [[Lot]]'s daughters act on a sleeping man and say nothing to him
-(19:32–35); [[Tamar]] negotiates a price in a veil and asks for a pledge (38:16–18); [[Ruth]] uncovers
+(19:32–35); [[Tamar]] negotiates a price in a veil and asks for a pledge (38:16–18); [[Ruth (person)]] uncovers
 feet and asks for a redeemer's cloak. **This woman states the request, unveiled, to a man she owns.**
 **The power runs the same direction as the property**, which is the fact most retellings of the chapter
 invert.

@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### Moabite wives — Ruth 1:4
+
+*They took for themselves wives of the women of Moab* (1:4). The narrator gives no comment. Deuteronomy
+7:1–3 forbids marriage with seven named peoples, and Moab is not one of them; Deuteronomy 23:3 bars *a
+Moabite* from Yahweh's assembly *to the tenth generation*. Nehemiah 13 later applies that law to marriage
+(not yet ingested; paraphrased). Ruth 1 sits between the two laws without citing either, and the book
+ends with a Moabite in David's genealogy (4:17–22). See [[Famine and Death in Moab]],
+[[Ruth (person)]], and [[Moab and Ammon - The Two Nations Born in the Cave]]. Source: stored WEB Ruth
+1:4; 4:17–22; Deuteronomy 7:1–3; 23:3.
+
 ### The city of a foreigner — Judges 19:10–12
 
 Near Jebus the Levite refuses to lodge *in the city of a foreigner that is not of the children of Israel*
@@ -619,6 +629,7 @@ list, without explanation.
 See [[Laws for Going to War]]. Source: stored WEB Deuteronomy 20:1–20.
 
 ## Key passages
+- [[Famine and Death in Moab]] — Ruth 1:4; Moabite wives taken without comment.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:10–12; Jebus, *the city of a foreigner*, passed by.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15–24; Edom, Moab, the Amorites, and Ammon, and *Chemosh your god*.
 

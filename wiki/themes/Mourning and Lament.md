@@ -6,6 +6,13 @@ tags: [theme]
 
 ## Definition / overview
 
+### Three deaths, no mourning told — Ruth 1:3, 5
+
+*Elimelech, Naomi's husband, died* (1:3); *Mahlon and Chilion both died* (1:5). No burial, weeping, or
+rite is narrated; the deaths are reported in two clauses, and the weight falls on what remains: *she was
+left*, *wattiššāʾēr* (3, 5, WLC). The weeping comes later, on the road (1:9, 14; not yet ingested). See
+[[Famine and Death in Moab]]. Source: stored WEB Ruth 1:3–5, 9, 14; Hebrew WLC, 2026-11-17.
+
 ### *Why has this happened?* — Judges 21:2–3, 6, 15
 
 At Bethel again the people *lifted up their voices, and wept severely*, *wayyiśʾû qôlām wayyiḇkû bəḵî
@@ -304,6 +311,7 @@ the sacrifices of an unfaithful Israel *"the bread of mourners; all who eat of i
 
 ## Key passages
 
+- [[Famine and Death in Moab]] — Ruth 1:3, 5; three deaths reported, no mourning narrated.
 - [[Wives for Benjamin]] — Judges 21:2–3, 6, 15; weeping at Bethel, and grief for Benjamin.
 - [[The War Against Benjamin]] — Judges 20:23, 26; weeping, and the first fast in Genesis–Judges.
 - [[Jephthah's Vow]] — Judges 11:35–40; torn clothes, two months on the mountains, and a yearly lament.

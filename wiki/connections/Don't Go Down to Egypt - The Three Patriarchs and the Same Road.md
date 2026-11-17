@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- **Ruth 1:1–5** — [[Famine and Death in Moab]]. *There was a famine in the land*; Elimelech goes to
+  sojourn in Moab, not Egypt; he and both his sons die there.
+
 - **Genesis 12:10–20** — [[Abram in Egypt]]. A famine; Abram goes down without
   consulting anyone; Sarai is taken into Pharaoh's house; the household is expelled with its goods.
 - **Genesis 26:1–6** — [[Isaac in Gerar]]. A famine; Yahweh appears and forbids the journey outright;
@@ -71,6 +74,18 @@ ignored.**
 **The prophets are not condemning Genesis 46.** **They are condemning the pattern Genesis 12 set and
 Genesis 46 broke** — and the thing that breaks it is the sacrifice at Beersheba and the night that
 followed.
+
+### The fourth famine: Ruth 1:1
+
+Ruth opens with the patriarchs' clause: *wayhî rāʿāb bāʾāreṣ*, *there was a famine in the land* (Ruth 1:1,
+WLC), exactly as at Genesis 12:10 and 26:1. In the WLC of Genesis, Judges, and Ruth the clause occurs only
+in those three verses. Elimelech, like Abram, goes *lāgûr*, to sojourn. He does not go down to Egypt but
+east to Moab. As with Abram, no word of God is asked or given. Unlike any of the three patriarchs, he does
+not come back: he and both sons die there (1:3, 5), and the return is made by a widow when *Yahweh had
+visited his people in giving them bread* (1:6). The narrator does not call the journey wrong. The table
+above gains a fourth row with no answer from God in it and the heaviest outcome. See
+[[Famine and Death in Moab]] and [[Famine and Plenty]]. Source: stored WEB Ruth 1:1–6; Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

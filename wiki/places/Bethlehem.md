@@ -7,6 +7,17 @@ tags: [place]
 
 ## Overview
 
+### Famine in the house of bread — Ruth 1:1–2
+
+*In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went
+to live in the country of Moab* (Ruth 1:1). The town whose name means *house of bread* is the one that
+runs out, and its people are *Ephrathites of Bethlehem Judah* (1:2), the older name *Ephrath* of Genesis
+35:19 surviving as a clan name. The departure repeats the words of the Levite's at Judges 17:8, *wayyēleḵ
+… mibbêt leḥem yəhûdâ lāgûr* (WLC): this is the third time in two books someone leaves Bethlehem Judah. See
+[[Famine and Death in Moab]] and [[Went to Sojourn from Bethlehem Judah - Judges 17.8 and Ruth 1.1]].
+Source: stored WEB Ruth 1:1–2; Genesis 35:19; Judges 17:8; Hebrew WLC (OpenScriptures morphhb),
+2026-11-17.
+
 ### The concubine's father's house — Judges 19:1–9
 
 The second Levite story of the epilogue also turns on *Bethlehem Judah*: the Levite of the far hill
@@ -90,6 +101,7 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
 
 ## Appears in
 
+- [[Famine and Death in Moab]] — Ruth 1:1–2; *Bethlehem Judah* in famine; Elimelech's family, *Ephrathites*, leaves for Moab.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–9, 18; the concubine's home and her father's five days of hospitality.
 - [[Micah's Idol and Levite]] — Judges 17:7–9; *Bethlehem Judah*, the home the young Levite leaves.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:8–10; Ibzan's town and grave, if this Bethlehem is meant.
@@ -124,8 +136,8 @@ identifying Ibzan with Boaz of this Bethlehem is recalled (Bava Batra 91a), not 
   — Genesis 35:16–20, [[Return to Bethel; the Deaths of Rachel and Isaac]]
 - Jacob retells the burial to Joseph, using the same obscure distance-word — Genesis 48:7,
   [[Jacob Blesses Ephraim and Manasseh]]
-- Naomi's family leaves in a famine; Ruth returns; the elders bless Boaz's bride at the gate —
-  Ruth 1:1–2; 4:11
+- Elimelech's family leaves in a famine for Moab — Ruth 1:1–2, [[Famine and Death in Moab]]
+- Naomi and Ruth return; the elders bless Boaz's bride at the gate — Ruth 1:19–22; 4:11 (not yet ingested)
 - Samuel anoints David at Jesse's house — 1 Samuel 16:1–13
 - Three of David's men fetch water from the well by the gate, and he pours it out — 2 Samuel 23:15–17
 - *"But you, Bethlehem Ephrathah, being small among the clans of Judah…"* — Micah 5:2

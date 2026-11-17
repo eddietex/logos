@@ -6,6 +6,10 @@ tags: [connection]
 # Two Levites from Bethlehem Judah - Judges 17 and 19
 
 ## Passages involved
+
+- **Ruth 1:1–2** — *A certain man of Bethlehem Judah went to live in the country of Moab* (stored WEB).
+  See [[Famine and Death in Moab]].
+
 - **Judges 17:6–9** — *"There was a young man out of Bethlehem Judah, of the family of Judah, who was a
   Levite; and he lived there. The man departed out of the city, out of Bethlehem Judah, to live where he
   could find a place, and he came to the hill country of Ephraim … Micah said to him, 'Where did you come
@@ -42,6 +46,14 @@ husband. The wiki records the parallel of setting and phrasing, not an identity.
 and the WLC. The host's question is close but not identical: *mēʾayin tāḇôʾ* at 17:9 and *ʾānâ tēlēḵ
 ûmēʾayin tāḇôʾ* at 19:17 (WLC; the second adds *where are you going*). That the parallel is a deliberate
 frame for the epilogue is the usual reading and the wiki's; the text does not state it.
+
+### A third departure: Ruth 1:1
+
+The next book opens on the same town and nearly the same sentence as Judges 17:8: *wayyēleḵ ʾîš mibbêt
+leḥem yəhûdâ lāgûr*, *a man of Bethlehem Judah went to sojourn* (Ruth 1:1, WLC). This time the traveller
+is a family man driven by famine, not a Levite looking for a place. The comparison is drawn out in
+[[Went to Sojourn from Bethlehem Judah - Judges 17.8 and Ruth 1.1]]. Source: stored WEB Judges 17:8; Ruth
+1:1; Hebrew WLC, 2026-11-17.
 
 ## Significance
 

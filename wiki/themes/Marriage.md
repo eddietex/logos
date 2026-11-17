@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Two marriages in Moab — Ruth 1:4–5
+
+*They took for themselves wives of the women of Moab … They lived there about ten years* (1:4). The verb is
+*nāśāʾ*, *to take up* (WLC), not the usual *lāqaḥ*. No child is reported from either marriage, and both
+husbands die (1:5). Ruth 4:10 will name Ruth *the wife of Mahlon* and frame her second marriage as *to raise
+up the name of the dead*. See [[Famine and Death in Moab]] and
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Ruth 1:4–5; 4:10; Hebrew
+WLC, 2026-11-17.
+
 ### Wives by massacre and by abduction — Judges 21
 
 The tribes' oath forbids giving daughters to Benjamin (21:1). So wives are supplied twice without anyone
@@ -564,6 +573,7 @@ Tamar lacked. Leviticus 18:16 and 20:21 forbid a brother's wife; the tension is 
 connection. See [[Justice, Family Duty, Honest Weights, and Amalek]] and [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Famine and Death in Moab]] — Ruth 1:4–5; two Moabite marriages, about ten years, no children reported.
 - [[Wives for Benjamin]] — Judges 21:1–23; wives supplied by massacre and by abduction.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1–3, 26–27; a concubine treated as a wife, *her husband* become *her lord*.
 

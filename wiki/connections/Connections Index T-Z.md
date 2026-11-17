@@ -84,7 +84,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[Two Explanations for One Flock - The Rods and the Dream]] | parallel | Genesis 30:37–43 · Genesis 31:4–13, 38–42 · Genesis 45:5–8 · Genesis 50:20 |
 | [[The Two Flights of Hagar]] | parallel | Genesis 16:1–16 · Genesis 21:8–21 · Genesis 25:12–18 · [[Fugitives, Interest, Vows, and a Neighbor's Produce]] (Deuteronomy 23:15–16; scope of the law qualified) |
 | [[Two Kinds - Leviticus 19.19 and Deuteronomy 22.9-11]] | comparison | [[Holy Living in Field and Community]] (Leviticus 19:19) · [[Care for the Neighbor and Ordered Distinctions]] (Deuteronomy 22:9–11) |
-| [[Two Levites from Bethlehem Judah - Judges 17 and 19]] | parallel | [[Micah's Idol and Levite]] (Judges 17:6–9) · [[The Levite's Concubine at Gibeah]] (Judges 19:1, 16–18) |
+| [[Two Levites from Bethlehem Judah - Judges 17 and 19]] | parallel | [[Micah's Idol and Levite]] (Judges 17:6–9) · [[The Levite's Concubine at Gibeah]] (Judges 19:1, 16–18) · [[Famine and Death in Moab]] |
 | [[Two Lines from Adam - Cain's Genealogy and Seth's]] | parallel | Genesis 4:17–26 · Genesis 5:1–32 |
 | [[Two Lists of Clean Animals - Leviticus 11 and Deuteronomy 14]] | parallel | [[Clean and Unclean Animals]] (Leviticus 11:1–47) · [[A Holy People and Its Food]] (Deuteronomy 14:1–21) |
 | [[Two Memorials Against Rebellion - The Censers and the Budding Rod]] | parallel | [[Aaron's Rod Buds]] · Numbers 16:1–50 |
@@ -134,6 +134,7 @@ Connection pages filed under T–Z, ignoring a leading *A*, *An*, or *The*. Part
 | [[We Will Burn Your House - Judges 12.1, 14.15, and 15.6]] | thread | [[Shibboleth]] (Judges 12:1) · Judges 14:15 · Judges 15:6 · [[The Fall of Abimelech]] (Judges 9:52) · [[Samson Against the Philistines at Lehi]] |
 | [[Wealth Given and Enjoyment Withheld - Proverbs 10.22 and Ecclesiastes 5.19-6.2]] | contrast | [[A Wise Son Makes a Glad Father]] (Proverbs 10:22) · [[The Lover of Silver and the Gift of Enjoyment]] (Ecclesiastes 5:18–20) · [[Riches Without Enjoyment]] (Ecclesiastes 6:1–9) · [[The Labor Left to Another]] (Ecclesiastes 2:24–26) |
 | [[The Wells of Abraham and the Wells of Isaac]] | parallel | Genesis 21:22–34 · Genesis 26:12–33 · Genesis 16:14; 21:19 · Exodus 15:23–27 · [[A Garden Locked and Opened]] (Song of Solomon 4:15) · [[The Journey to Moab]] |
+| [[Went to Sojourn from Bethlehem Judah - Judges 17.8 and Ruth 1.1]] | verbal-parallel | [[Micah's Idol and Levite]] (Judges 17:7–9) · [[The Levite's Concubine at Gibeah]] (Judges 19:1) · [[Famine and Death in Moab]] (Ruth 1:1) |
 | [[What Is Man That He Should Be Clean]] | parallel | Job 4:17–19 · Job 15:14–16 · Job 25:4–6 · Genesis 6:5 · Psalm 8:4 · Job 7:17–18 · Romans 3:10–23 · Job 42:7 · Job 11:4 · Job 14:1–4 · Job 9:2 (at 25:4) · [[Wine Is a Mocker]] (Proverbs 20:7, 9, 11, 27) · [[The Words of Agur]] (Proverbs 30:12) · [[Righteousness and Wisdom Under Question]] (Ecclesiastes 7:20) |
 | [[What Is Man That You Should Visit Him - Job 7.17-18 and Psalm 8]] | allusion | Job 7:17–18 · Psalm 8:3–8 · Psalm 144:3–4 · Job 7:16 · Job 1:8; 2:3 · Genesis 1:26–28 · Hebrews 2:5–9 · Job 15:14; 25:4–6 · Job 25:5–6 |
 | [[What Is This You Have Done - The Accusing Question from Eden to the Sea]] | formula | Genesis 3:13 · Genesis 12:18 · Genesis 26:10 · Genesis 29:25 · Genesis 42:28 · Exodus 14:5, 11 |

@@ -27810,3 +27810,41 @@ Exodus 10:9; 13:10; 15:20; 21:12; 32:19; 33:19; Leviticus 2:1; 19:13; 23:39; Num
 in raw). Hebrew from a fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`,
 `Exod`, `Lev`, `Num`, `Deut`, `Josh`, `Judg`, and `1Sam` XML on 2026-11-17; lemma and consonantal-string
 occurrence claims cover those files and are listed on the passage page. No Greek text was consulted.
+
+## [2026-11-17] ingest | Ruth 1.1-5 — Famine and Death in Moab
+
+Unattended run (`/ingest auto`). No book was `in-progress` and every book in `## Priority` is complete, so
+ingestion opened the first `not-started` book in canonical order, Ruth. Fetched `raw/bible/Ruth.md` (4
+chapters), created [[Ruth]] with an eight-pericope plan, and marked it `in-progress` (1 / 8).
+
+Created: [[Famine and Death in Moab]]; book [[Ruth]]; people [[Elimelech]], [[Naomi]], [[Mahlon]],
+[[Chilion]], [[Orpah]], [[Ruth (person)]]; connection
+[[Went to Sojourn from Bethlehem Judah - Judges 17.8 and Ruth 1.1]].
+
+Revised: places [[Bethlehem]], [[Moab (place)]]; themes [[Famine and Plenty]], [[Land and Sojourning]],
+[[Mourning and Lament]], [[The Poor and the Vulnerable]], [[The Nations]], [[Names and Naming]],
+[[Marriage]]; connections [[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]],
+[[Moab and Ammon - The Two Nations Born in the Cave]],
+[[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]],
+[[Two Levites from Bethlehem Judah - Judges 17 and 19]]; passage [[Joseph in Potiphar's House]] (its
+`[[Ruth]]` link meant the person, and now that the book page exists it would have resolved to the book;
+changed to `[[Ruth (person)]]`). Also `wiki/books/index.md`, the places and themes indexes, People Index
+A-E, F-M, and N-Z, Connections Index D-H, I-N, and T-Z, and the dashboard counts. Frontmatter totals: 479
+passages, 349 people, 598 places, 88 themes, 912 connections.
+
+Judgment calls: the Ruth plan is 1:1–5, 1:6–18, 1:19–22, 2:1–23, 3:1–18, 4:1–12, 4:13–17, 4:18–22. The
+person page is `Ruth (person)` under the book-collision rule. Created pages for all six named family
+members, including Orpah, who recurs at 1:14–15. Chilion is presented as Orpah's husband only as an
+inference from 4:10. No new place page for Ephrath or the *fields of Moab*; both are covered by
+[[Bethlehem]] and [[Moab (place)]].
+
+No contradictions found. Tensions recorded, not resolved: the Moabite marriages against Deuteronomy 7:1–3
+(Moab not named) and 23:3 (assembly, not marriage); readings of the deaths as judgment, which the text does
+not give (Naomi's own reading at 1:13, 20 is kept separate from the narrator's).
+
+Sources: Ruth quoted from stored WEB. Comparisons from stored WEB Genesis 7:23; 12:10; 19:37; 26:1; 35:19;
+47:4; Deuteronomy 7:1–3; 23:3–6; 24:19–21; 25:5–6; Judges 3:12–30; 12:5; 17:7–9; 19:1; 21:25. 1 Samuel 1:1
+and 17:12 checked against the WEB at bible-api.com (not stored in raw). Hebrew from a fresh download of the
+Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`, `Judg`, `Ruth`, and `1Sam` XML on 2026-11-17;
+occurrence claims cover those files. Name meanings are conventional glosses, qualified on each page and not
+verified against a lexicon. Nehemiah 13 paraphrased by reference, not verified. No Greek text consulted.

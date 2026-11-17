@@ -6,6 +6,15 @@ tags: [theme]
 
 ## Definition / overview
 
+### Four names unexplained — Ruth 1:2–4
+
+Ruth 1 names a whole family, *Elimelech … Naomi … Mahlon and Chilion* (1:2), and two wives, *Orpah …
+Ruth* (1:4), and explains none of them. *Elimelech* reads naturally as *my God is king*, in the days
+Judges 21:25 called kingless. *Naomi* is usually linked to *pleasant*, the name she will trade for *Mara*,
+*bitter* (1:20; not yet ingested). The often-cited meanings *sickness* and *failing* for Mahlon and
+Chilion are disputed and reported only. See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:2–4,
+20; Judges 21:25; name glosses conventional, not verified against a lexicon.
+
 ### Micaiah becomes Micah — Judges 17:1–5
 
 The narrator calls Micah *Mîkāyəhû* in 17:1, 4 and *Mîkâ* from 17:5 on, as the image enters his house
@@ -408,6 +417,7 @@ shoe removed'"* (10). The same verb, *māḥâ*, then commands Israel to *"blot 
 Amalek"* (19). See [[Justice, Family Duty, Honest Weights, and Amalek]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[Famine and Death in Moab]] — Ruth 1:2–4; Elimelech, Naomi, Mahlon, Chilion, Orpah, and Ruth, none explained.
 - [[The Danite Migration]] — Judges 18:12, 29–30; Mahaneh Dan; Laish renamed Dan; *Moses* or *Manasseh* in the suspended *nun*.
 - [[Micah's Idol and Levite]] — Judges 17:1, 4, 5; *Mîkāyəhû* shortened to *Mîkâ*.
 - [[Ibzan, Elon, and Abdon]] — Judges 12:11–12; Elon bears his tribe's clan name and is buried in a place spelled like it.

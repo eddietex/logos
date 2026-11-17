@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### A widow left abroad — Ruth 1:3–5
+
+*The woman was bereaved of her two children and of her husband* (1:5). Naomi is a widow without sons, in
+a foreign country, the condition the law's lists of *the widow* and *the foreigner* name together
+(Deuteronomy 24:19–21). Her two daughters-in-law are widows too. The book begins by putting its three
+women in the category the law protects. See [[Famine and Death in Moab]] and [[Naomi]]. Source: stored WEB
+Ruth 1:3–5; Deuteronomy 24:19–21.
+
 ### The women of Jabesh and the daughters of Shiloh — Judges 21:10–23
 
 *Strike the inhabitants of Jabesh Gilead with the edge of the sword, with the women and the little ones*
@@ -521,6 +529,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[Famine and Death in Moab]] — Ruth 1:3–5; Naomi widowed and bereaved of her sons abroad.
 - [[Wives for Benjamin]] — Judges 21:10–23; the women and little ones of Jabesh, the daughters of Shiloh.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:24–29; the concubine, offered, put out, and never heard.
 

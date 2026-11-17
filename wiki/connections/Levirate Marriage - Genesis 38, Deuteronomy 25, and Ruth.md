@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Famine and Death in Moab]] — Ruth 1:1–5; the deaths of Elimelech, Mahlon, and Chilion, which leave
+  three widows and no son.
+
 - [[Penalties and a People Set Apart]] — Leviticus 20:1–27.
 
 - [[Forbidden Unions and the Defiled Land]] — Leviticus 18:1–30.
@@ -128,6 +131,17 @@ his brother's child — is the only kind of continuation there is.** Jesus answe
 *"neither the Scriptures, nor the power of God"*, and that the resurrected *"are like God's angels in
 heaven"* — **and then argues the resurrection itself from the Torah they were quoting**, out of Exodus
 3:6. See [[The Hope of Resurrection in the Old Testament]].
+
+### Ruth 1:1–5 now ingested
+
+Ruth begins by producing the levirate case and then making it unanswerable. A man dies with two married
+sons (1:3); then both sons die with no child reported (1:5). In Genesis 38 Judah had a third son to give;
+in Deuteronomy 25:5 the duty applies *If brothers dwell together*. Here there is no surviving
+brother at all, and no father to beget one, which is the point Naomi will make at 1:11–13 (not yet
+ingested). The law's purpose, *that his name not be blotted out of Israel* (Deuteronomy 25:6), is at
+stake from the fifth verse, and Ruth 4:10 will answer it in nearly the same terms: *that the name of the
+dead may not be cut off*. See [[Famine and Death in Moab]]. Source: stored WEB Ruth 1:3–5, 11–13; 4:10;
+Genesis 38:11; Deuteronomy 25:5–6.
 
 ## Significance
 

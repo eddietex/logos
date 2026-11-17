@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### Famine in the house of bread — Ruth 1:1
+
+*In the days when the judges judged, there was a famine in the land* (Ruth 1:1). *Wayhî rāʿāb bāʾāreṣ* is
+the clause of Genesis 12:10 and 26:1, and in the WLC of Genesis, Judges, and Ruth it occurs only in those
+three verses. Like Abram, Elimelech goes *lāgûr*, to sojourn abroad because of it. The famine falls on
+*Bêt Leḥem*, *house of bread*, and the family goes for food to Moab, the people Deuteronomy 23:4 says
+*didn't meet you with bread*. The book's turn will be *Yahweh had visited his people in giving them bread*
+(1:6). See [[Famine and Death in Moab]] and
+[[Don't Go Down to Egypt - The Three Patriarchs and the Same Road]]. Source: stored WEB Ruth 1:1, 6;
+Genesis 12:10; 26:1; Deuteronomy 23:4; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### The harvest raided — Judges 6:3–6
 
 *When Israel had sown*, the raiders came and *destroyed the increase of the earth … They left no
@@ -232,6 +243,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[Famine and Death in Moab]] — Ruth 1:1; famine in Bethlehem, the clause of Genesis 12:10 and 26:1.
 - [[Midian's Oppression and the Prophet]] — Judges 6:3–6; the increase of the land destroyed every harvest.
 - [[Curses for Disobedience]] — Deuteronomy 28:15–68.
 

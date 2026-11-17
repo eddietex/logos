@@ -7,6 +7,15 @@ tags: [place]
 
 ## Overview
 
+### A refuge in famine — Ruth 1:1–5
+
+*A certain man of Bethlehem Judah went to live in the country of Moab* (Ruth 1:1). After Eglon's
+oppression (Judges 3:12–30), Moab here is where an Israelite family goes for food. The phrase is
+*śəḏê môʾāḇ*, *the fields of Moab* (1:1, 2, WLC). The family stays about ten years; the sons marry Moabite
+women, and the three men die there (1:3–5). The book never says what Moab gave them beyond a place to stay.
+See [[Famine and Death in Moab]] and [[Moab and Ammon - The Two Nations Born in the Cave]]. Source: stored
+WEB Ruth 1:1–5; Judges 3:12–30; Hebrew WLC, 2026-11-17.
+
 ### Moab in Jephthah's case — Judges 11:15–25
 
 Jephthah denies that Israel took *the land of Moab* (11:15), and says Israel sent to Moab's king, who
@@ -303,6 +312,7 @@ The prophets then write at length against it: Isaiah 15–16, Jeremiah 48 at for
 first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Appears in
+- [[Famine and Death in Moab]] — Ruth 1:1–5; *the country of Moab*, where Elimelech's family sojourns ten years and the men die.
 - [[Jephthah's Message to the King of Ammon]] — Judges 11:15, 17–18, 24–25; Moab's land not taken, an embassy refused, Chemosh, and Balak.
 
 - [[Israel's Repentance Under Ammon]] — Judges 10:6; *the gods of Moab*.
@@ -379,6 +389,7 @@ first time Moab appears in Exodus.** See [[The Song of the Sea]].
 
 ## Events here
 
+- [[Famine and Death in Moab]] — Elimelech's family sojourns about ten years; the sons marry Moabite women; Elimelech, Mahlon, and Chilion die (Ruth 1:1–5).
 - [[Sihon and Og]] — Sihon had previously taken Heshbon and land down to the Arnon from Moab’s former king (26). Israel now takes that land from Sihon, not from the Moabite king. The poem laments Moab’s defeat and captivity (28–29), keeping historical possession distinct from present control.
 
 

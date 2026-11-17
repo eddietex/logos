@@ -7,6 +7,9 @@ tags: [connection]
 
 ## Passages involved
 
+- [[Famine and Death in Moab]] — Ruth 1:1–5; an Israelite family sojourns in Moab in a famine, and the
+  sons marry Moabite women.
+
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.
 
 - [[Around Seir and Past Moab and Ammon]] — Deuteronomy 2:1–23.
@@ -164,6 +167,17 @@ The wiki records the tension rather than resolving it, and notes what the usual 
   royal line, and no biblical writer anywhere reconciles the four. Nehemiah 13:1–3 has the community
   reading Deuteronomy 23 aloud and expelling foreigners on the strength of it — in a book that shows
   no sign of finding Ruth awkward.
+
+### Ruth 1:1–5 now ingested
+
+The first scene of Ruth reverses the direction of Moab's story so far. Moab hired Balaam (Numbers 22) and
+Eglon ruled Israel eighteen years (Judges 3:14); here an Israelite family goes to Moab for bread in a
+famine and is taken in, at least to the extent of living there *about ten years* (Ruth 1:4). Deuteronomy
+23:4 gave as Moab's offense that *they didn't meet you with bread and with water on the way*. The sons
+marry *wives of the women of Moab* (1:4), a match Deuteronomy 7:1–3 does not name and Deuteronomy 23:3 does
+not address, since it concerns the assembly. The narrator says nothing about it. See
+[[Famine and Death in Moab]] and [[Ruth (person)]]. Source: stored WEB Ruth 1:1–5; Judges 3:14;
+Deuteronomy 7:1–3; 23:3–4.
 
 ## Significance
 
