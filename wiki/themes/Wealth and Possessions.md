@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Yahweh makes poor, and makes rich* — 1 Samuel 2:7
+
+*Yahweh makes poor, and makes rich. He brings low, he also lifts up* (2:7). Hannah's song puts wealth among
+the states God reverses, with strength, food, children, and life itself (2:4–7). *Those who were full have
+hired themselves out for bread* (5). Wealth is not condemned here; it is shown to be held at God's
+disposal. See [[The Song of Hannah]] and
+[[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]]. Source: stored WEB 1 Samuel 2:4–7.
+
 ### *Lest I endanger my own inheritance* — Ruth 4:1–12
 
 The gate scene is a property transaction told in detail: the field offered, the right of redemption
@@ -974,6 +982,7 @@ in 24:10–13 (WLC). Returning it *"shall be righteousness to you before Yahweh 
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:5, 7; *Yahweh makes poor, and makes rich*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:3–11; the field bought; *lest I endanger my own inheritance*; *treat you worthily* (*ḥayil*).
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:1, 16; *a mighty man of wealth*; grain left on purpose.
 - [[Micah's Idol and Levite]] — Judges 17:2–4, 10; the eleven hundred stolen and dedicated; a priest's yearly wage.

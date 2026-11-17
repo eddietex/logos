@@ -10,7 +10,8 @@ tags: [connection]
 - [[The Birth of Obed]] — Ruth 4:15 *(stored WEB)*
 - [[Ruth Clings to Naomi]] — Ruth 1:11–12 *(stored WEB)*
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:8, Elkanah to Hannah *(stored WEB)*
-- 1 Samuel 2:5, 21 — Hannah's song; her later children *(stored WEB; not yet ingested)*
+- [[The Song of Hannah]] — 1 Samuel 2:5, Hannah's song *(stored WEB)*
+- 1 Samuel 2:21 — her later children *(stored WEB; not yet ingested)*
 
 ## Analysis
 
@@ -47,6 +48,14 @@ grieved? Am I not better to you than ten sons?*, and the narrative answers none 
 has Hannah rise and go to pray (1:9). The comparison sits between two notices that *Yahweh had shut up her
 womb* (1:5, 6) and her vow (1:11), so the chapter itself sets Elkanah's *ten sons* against the one son she
 asks for. See [[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:5–11; Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
+### 1 Samuel 2:5 now ingested
+
+In the song, *seven* belongs to the barren woman, not to sons compared with a person: *the barren has borne
+seven. She who has many children languishes* (2:5). The pairing is a reversal, the empty filled and the
+full emptied, and it sits among other reversals of strength, food, and life (2:4–6). Read after Elkanah's
+*ten sons* (1:8), the song does not answer his question either; it moves from Hannah's house to the whole
+world. See [[The Song of Hannah]]. Source: stored WEB 1 Samuel 1:8; 2:4–6.
 
 ## Significance
 

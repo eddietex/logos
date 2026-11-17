@@ -34,6 +34,13 @@ The forbidden likenesses are the creatures of Genesis 1 — male and female, lan
 
 See [[No Form Seen and No Image Made]]. Source: stored WEB Deuteronomy 4:15–31.
 
+### *The pillars of the earth are Yahweh's* — 1 Samuel 2:8
+
+Hannah grounds the reversals of her song in creation: *For the pillars of the earth are Yahweh's. He has
+set the world on them* (2:8). *Məṣuqê ʾereṣ* (WLC), *the pillars* or *foundations of the earth*. The one who
+set the world on its supports can raise the poor and bring down the proud who live on it. See
+[[The Song of Hannah]]. Source: stored WEB 1 Samuel 2:8. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Development across Scripture
 
 - **Genesis 1:1–2:3** — the cosmic account: God (Elohim) orders the whole world in six days and
@@ -262,6 +269,7 @@ identified on the passage page.
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:8; *the pillars of the earth are Yahweh's*.
 - [[Has Any People Heard God and Lived]] — Deuteronomy 4:32–40.
 - [[No Form Seen and No Image Made]] — Deuteronomy 4:15–31.
 - [[Remember Your Creator]] — Ecclesiastes 11:7–12:8; The Creator remembered; the given spirit

@@ -31,14 +31,22 @@ places him in a Levite line (WEB checked at bible-api.com; not yet ingested); se
 Source: stored WEB 1 Samuel 1:11, 19–28; 9:2; Numbers 34:20. 1 Chronicles 6:28, 33 at bible-api.com,
 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+**Serving before Eli.** When his parents go home, *the child served Yahweh before Eli the priest* (2:11).
+*Məšārēṯ* (WLC) is the participle of the verb for priestly ministry at the sanctuary (for example Numbers
+3:6; Deuteronomy 10:8). His mother's song, sung over him, ends on *his king* and *his anointed* (2:10); he
+will be the one who anoints the first two kings (10:1; 16:13, stored WEB; not yet ingested). See
+[[The Song of Hannah]] and [[His King and His Anointed - Hannah's Song and David's]].
+
 ## Timeline / key events
 
 - Born after Hannah's vow; named *because I have asked him of Yahweh* — 1 Samuel 1:20.
 - Weaned, and given to Yahweh at Shiloh under Eli — 1:22–28.
+- Stays at Shiloh and *served Yahweh before Eli the priest* — 2:11.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:11, 20–28.
+- [[The Song of Hannah]] — 1 Samuel 2:11.
 
 ## Related people
 

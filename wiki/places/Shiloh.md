@@ -83,6 +83,7 @@ Source: stored WEB Joshua 18:1–10.
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3–28; the yearly sacrifice, Hannah's vow, and Samuel given to Eli.
+- [[The Song of Hannah]] — 1 Samuel 2:1–11; the setting, implied from 1:24–28; Samuel stays to serve before Eli.
 
 - [[Wives for Benjamin]] — Judges 21:12, 19–23; the camp, the yearly feast, and the daughters seized.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:18; possibly the *Yahweh's house* the Levite names.
@@ -102,5 +103,6 @@ Source: stored WEB Joshua 18:1–10.
 
 ## Events here
 - Elkanah's yearly sacrifice; Hannah's vow; Samuel given to Eli — 1 Samuel 1:3–28, [[Hannah Asks Yahweh for a Son]]
+- Hannah's song; the child serves Yahweh before Eli — 1 Samuel 2:1–11, [[The Song of Hannah]]
 - Possibly *Yahweh's house*, the Levite's stated destination — Judges 19:18, [[The Levite's Concubine at Gibeah]]
 - The Tent is set up, the written survey is returned, and Joshua casts lots before Yahweh (1, 9–10).

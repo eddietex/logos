@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *I rejoice in your salvation* — 1 Samuel 2:1
+
+Hannah's song opens on three verbs of joy: her heart *exults*, *ʿālaṣ*; her horn is lifted; she
+*rejoices*, *śāmaḥ*, *in your salvation* (2:1, WLC). *ʿĀlaṣ* occurs in the WLC files searched (Genesis
+through Ruth, 1 Samuel, Job, Psalms, Proverbs) only here and in Psalms and Proverbs. The joy is in what God
+has done, not in the child, who is not named. See [[The Song of Hannah]]. Source: stored WEB 1 Samuel 2:1.
+Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Their hearts were merry — Judges 16:23–25
 
 The Philistines gather *to offer a great sacrifice to Dagon their god, and to rejoice*, *ûləśimḥâ* (16:23),
@@ -331,6 +339,7 @@ foreigner, who has no Israelite father to recite about, is at the meal. See [[Fi
 [[Rejoice Before Yahweh - The Feast Meals of Deuteronomy]]. Source: stored WEB Deuteronomy 26:11.
 
 ## Key passages
+- [[The Song of Hannah]] — 1 Samuel 2:1; *My heart exults in Yahweh … I rejoice in your salvation*.
 - [[The Death of Samson]] — Judges 16:23–25; *to rejoice*, *when their hearts were merry*.
 - [[Moses Blesses the Tribes]] — Deuteronomy 33:1–29.
 

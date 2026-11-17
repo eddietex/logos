@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *He brings down to Sheol, and brings up* — 1 Samuel 2:6
+
+*Yahweh kills, and makes alive. He brings down to Sheol, and brings up* (2:6). The first line takes the two
+verbs of Deuteronomy 32:39, *I kill and I make alive*. The second is new in the books stored so far: in the
+WLC files of Genesis through Ruth, *šəʾôl* occurs seven times (Genesis 37:35; 42:38; 44:29, 31; Numbers
+16:30, 33; Deuteronomy 32:22), always as a place one goes down to, and no one comes up. Whether Hannah's
+*brings up* means resurrection or rescue from the edge of death, the verse does not say; readings divide,
+and the wiki reports both. See [[The Song of Hannah]] and
+[[No Rock Like Our God - The Song of Moses and the Song of Hannah]]. Source: stored WEB 1 Samuel 2:6;
+Deuteronomy 32:22, 39. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *That the name of the dead may not be cut off* — Ruth 4:1–12
 
 The dead are the subject of the gate scene: Ruth is *the wife of the dead*, and the purpose of the
@@ -981,6 +992,7 @@ shall succeed in the name of his brother who is dead, that his name not be blott
 [[Levirate Marriage - Genesis 38, Deuteronomy 25, and Ruth]]. Source: stored WEB Deuteronomy 25.
 
 ## Key passages
+- [[The Song of Hannah]] — 1 Samuel 2:6; *Yahweh kills, and makes alive. He brings down to Sheol, and brings up*.
 - [[Boaz Redeems at the Gate]] — Ruth 4:5, 10; *the wife of the dead*; *that the name of the dead may not be cut off*.
 - [[The Death of Samson]] — Judges 16:30; *Let me die with the Philistines!*
 - [[The Burials of Joshua, Joseph, and Eleazar]] — Joshua 24:29–33; Joshua at one hundred ten; Eleazar's death (29, 33).

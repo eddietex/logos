@@ -6,6 +6,22 @@ tags: [theme]
 
 ## Definition / overview
 
+### *My heart exults in Yahweh* — 1 Samuel 2:1–10
+
+Hannah's song is the first song in 1 Samuel, and the narrator calls it a prayer: *Hannah prayed, and said*
+(2:1). It stands in the line of Israel's great songs. It borrows *salvation* and incomparable holiness
+from the Song of the Sea (Exodus 15:2, 11), and the Rock, *I kill and I make alive*, and Sheol from the
+Song of Moses (Deuteronomy 32:4, 22, 31, 39). It shares a line with Psalm 113:7–8, and its vocabulary
+(*ʿālaṣ*, *exult*) is otherwise found among the files searched only in Psalms and Proverbs. It ends on *his king* and
+*his anointed* (2:10), as David's song does at the far end of 2 Samuel (22:51). Mary's song in Luke
+1:46–55 runs on its reversals. Like Miriam at the sea and Deborah, a woman sings at a turning point in the
+story. See [[The Song of Hannah]],
+[[No Rock Like Our God - The Song of Moses and the Song of Hannah]],
+[[His King and His Anointed - Hannah's Song and David's]], and
+[[The Song of Hannah and the Song of Mary - 1 Samuel 2.1-10 and Luke 1.46-55]]. Source: stored WEB
+1 Samuel 2:1–10; Exodus 15; Deuteronomy 32. Psalm 113, 2 Samuel 22:51, and Luke 1:46–55 at bible-api.com,
+2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### With tambourines and with dances — Judges 11:34
 
 *His daughter came out to meet him with tambourines and with dances* (11:34), *bətuppîm ûbimḥōlôt*
@@ -197,6 +213,7 @@ See [[The Two Silver Trumpets]]. Source: stored WEB Numbers 10.
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:1–10; Hannah's song, from the Rock to *his anointed*.
 - [[Jephthah's Vow]] — Judges 11:34; the daughter's tambourines and dances.
 - [[The Dream of the Barley Loaf]] — Judges 7:15; Gideon worships when he hears the dream.
 - [[The Song of Moses]] — Deuteronomy 31:30–32:47.

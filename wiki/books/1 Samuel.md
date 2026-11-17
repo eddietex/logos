@@ -30,6 +30,15 @@ she brings him to Eli at Shiloh: *As long as he lives he is given to Yahweh* (1:
 *ask*, runs through the chapter. Its passive participle, *šāʾûl*, *asked*, is spelled with the same
 letters as the name of the king the people will ask for (1:28; 9:2, WLC).
 
+[[The Song of Hannah]] (2:1–11) turns the private story into a hymn. Hannah *prayed, and said*, and asks
+for nothing. She names no one in her own story; *the barren has borne seven* (2:5) is one reversal in a
+list that runs through soldiers, the hungry, the dead, and the poor raised *out of the dust* to *the
+throne of glory* (2:4–8). She takes the Rock and *Yahweh kills, and makes alive* from the Song of Moses
+(Deuteronomy 32:4, 39), and shares a line with Psalm 113:7–8. The song ends on *his king* and *his
+anointed* (2:10), the first royal use of *māšîaḥ* in the books stored so far, sung before Israel has a
+king. David's song near the end of 2 Samuel closes on the same pair (22:51), and the two are commonly
+read as framing the books. Elkanah goes home, and *the child served Yahweh before Eli the priest* (2:11).
+
 ## Structure
 
 1. **Samuel and the house of Eli** (1–3) — Hannah's prayer and song, the corruption of Eli's sons, and
@@ -53,7 +62,7 @@ unchecked box is what `/ingest` picks up next. Unchecked boxes are provisional �
 merge, or reorder them freely.
 
 - [x] [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28
-- [ ] The Song of Hannah — 1 Samuel 2:1–11
+- [x] [[The Song of Hannah]] — 1 Samuel 2:1–11
 - [ ] The Sins of Eli's Sons — 1 Samuel 2:12–26
 - [ ] A Man of God Against the House of Eli — 1 Samuel 2:27–36
 - [ ] Yahweh Calls Samuel — 1 Samuel 3:1–4:1a
@@ -110,6 +119,10 @@ merge, or reorder them freely.
 - [[Priesthood]] — Eli and his sons at Shiloh (1:3, 9)
 - [[The Dwelling of God]] — *Yahweh's temple*, *Yahweh's house* in Shiloh (1:7, 9, 24)
 - [[Kingship and Empire]] — the book's question; the people's demand (8) and its answer
+- [[Praise and Song]] — Hannah's song (2:1–10)
+- [[Pride and Self-Exaltation]] — *Don't keep talking so exceedingly proudly* (2:3)
+- [[The Poor and the Vulnerable]] — *He raises up the poor out of the dust* (2:8)
+- [[Life and Death]] — *Yahweh kills, and makes alive* (2:6)
 
 ## Key people
 - [[Samuel]]

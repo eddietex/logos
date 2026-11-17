@@ -28201,3 +28201,45 @@ fresh download of the Westminster Leningrad Codex (OpenScriptures morphhb) `Gen`
 *ṣārâ*, *hêḵal*, *môrâ*, *mārat nep̄eš*, *šāp̄aḵ nep̄eš*, *ʿŏnî* with *rāʾâ*, *zāḵar* with *šāḵaḥ*,
 *gāmal*) cover the first nine of those files only. Name glosses are conventional and not verified against a
 lexicon. No Greek text was consulted.
+
+## [2026-11-17] ingest | 1 Samuel 2.1-11 — The Song of Hannah
+
+Unattended run (`/ingest auto`). [[1 Samuel]] is the first `in-progress` book; its first unchecked box was
+the Song of Hannah, 2:1–11, ingested as planned. 1 Samuel is now 2 / 47.
+
+Created: passage [[The Song of Hannah]]; connections
+[[No Rock Like Our God - The Song of Moses and the Song of Hannah]],
+[[From the Dust and the Ash Heap - 1 Samuel 2.8 and Psalm 113.7-9]],
+[[His King and His Anointed - Hannah's Song and David's]], and
+[[The Song of Hannah and the Song of Mary - 1 Samuel 2.1-10 and Luke 1.46-55]].
+
+Revised: book [[1 Samuel]] (box checked, overview, key themes); people [[Hannah]], [[Samuel]], [[Eli]], and
+[[Elkanah (father of Samuel)]]; places [[Ramah]] and [[Shiloh]]; themes [[Praise and Song]], [[Prayer]],
+[[Joy and Enjoyment]], [[Holiness]], [[The Names of God]], [[Pride and Self-Exaltation]], [[Barrenness]],
+[[Life and Death]], [[The Poor and the Vulnerable]], [[Wealth and Possessions]], [[Judgment]],
+[[Kingship and Empire]], [[Priesthood]], and [[Creation]]; connections [[The Barren Matriarchs]],
+[[Better Than Seven Sons - Ruth 4.15 and 1 Samuel 1.8]], [[Asked of Yahweh - Samuel's Name and Saul's]],
+and [[Shall We Receive Good and Not Evil - Weal and Woe from One Hand]]. Also `wiki/books/index.md`, People
+Index A-E, F-M, and N-Z, Connections Index A-C, D-H, I-N, and O-S, the places and themes indexes, and the
+dashboard counts. Frontmatter totals: 488 passages, 363 people, 598 places, 88 themes, 928 connections.
+
+Judgment calls: verse 11 stays with the song, closing the Shiloh scene of 1:24–2:11; no boundary was
+redrawn. [[Shiloh]] is listed as the setting though 2:1–11 does not name it. Four connection pages instead
+of one, because the ties to Deuteronomy 32, Psalm 113, 2 Samuel 22, and Luke 1 are separate and each was
+checked on its own. Peninnah is not linked: the song does not name her, and reading *She who has many
+children languishes* (2:5) as her is noted on the passage page as a reading.
+
+Recorded, not resolved: whether *brings up* from Sheol (2:6) means resurrection or rescue; whether the song
+was composed for its setting, given its *king* before Israel has one; the *ketiv* *lōʾ* / *qere* *lô* of 2:3
+and the singular/plural *ketiv/qere* pairs of 2:9–10; the direction of borrowing between 1 Samuel 2:8 and
+Psalm 113:7–8; and Luke's dependence on Hannah's song, reported as the usual reading.
+
+Sources: 1 Samuel from stored WEB, including the not-yet-ingested 2:12, 17, 21, 35; 4:18; 7:10; 8:7; 10:1;
+16:13; 17:47; 24:6. Comparisons from stored WEB Exodus, Leviticus, Numbers, Deuteronomy, Judges, Ruth, and
+Job. Psalm 18:2, 50, Psalm 113, 2 Samuel 22:2–3, 51, and Luke 1:46–55 checked against the WEB at
+bible-api.com (`translation=web`), 2026-11-17; not stored in raw. Hebrew from the Westminster Leningrad
+Codex (OpenScriptures morphhb) XML: `Gen` through `Ruth` and `1Sam` for the occurrence claims (*qeren*
+with *rûm*, *māšîaḥ*, *šəʾôl*, *yəšûʿâ*, *ḥāsîḏ*, *ṣûr*), extended to `Job`, `Ps`, and `Prov` for *ʿālaṣ*,
+*dēʿôṯ*, and *ʾašpōṯ*; `2Sam` (downloaded this run) and `Ps` for 2 Samuel 22:3, 51 and Psalm 18:51.
+Luke and Mary's song were compared in English only; no Greek text was consulted. Liturgical use of Psalm
+113 and the *Christ* = *anointed* gloss are recalled and not verified.

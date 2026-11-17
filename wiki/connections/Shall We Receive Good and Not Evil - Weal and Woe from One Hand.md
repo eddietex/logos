@@ -19,7 +19,7 @@ tags: [connection]
 - **Deuteronomy 32:39** — *"I kill and I make alive. I wound and I heal. There is no one who can
   deliver out of my hand."*
 - **1 Samuel 2:6–7** — *"Yahweh kills and makes alive. He brings down to Sheol and brings up. Yahweh
-  makes poor and makes rich."*
+  makes poor and makes rich."* — [[The Song of Hannah]]
 - **Ecclesiastes 7:14** — *"In the day of prosperity be joyful, and in the day of adversity
   consider; yes, God has made the one side by side with the other."*
 - **Genesis 50:20** — *"As for you, you meant evil against me, but God meant it for good"* —

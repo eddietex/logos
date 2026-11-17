@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Hannah prayed, and said* — 1 Samuel 2:1–10
+
+The same verb, *wattiṯpallēl* (WLC), names Hannah's silent prayer for a son (1:10, 12) and her song after
+giving him away (2:1). The first asked; the second asks for nothing. It praises, and it ends in prophecy:
+*He will give strength to his king* (2:10). In the books stored so far, prayer has mostly been petition,
+intercession, and lament; here the word covers a hymn. See [[The Song of Hannah]]. Source: stored WEB
+1 Samuel 1:10–12; 2:1–10. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *I poured out my soul before Yahweh* — 1 Samuel 1:9–18, 26–27
 
 Hannah prays at the temple in Shiloh *in bitterness of soul … weeping bitterly*, and vows (1:10–11). She
@@ -474,6 +482,7 @@ second, *"I have listened to Yahweh my God's voice"* (14). See
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:1; *Hannah prayed*, and the prayer is a song with no request.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:9–18, 26–27; Hannah's silent prayer, misread as drunkenness; *I poured out my soul*
 
 - [[Wives for Benjamin]] — Judges 21:3; *why has this happened … ?*, unanswered.

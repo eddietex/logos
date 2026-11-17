@@ -6,6 +6,16 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Rock* and *a God of knowledge* — 1 Samuel 2:2–3
+
+Hannah calls God *rock*, *ṣûr*, the name that dominates the Song of Moses (Deuteronomy 32:4, 15, 18, 30,
+31), and *a God of knowledge*, *ʾēl dēʿôṯ* (2:3, WLC). The plural *dēʿôṯ* occurs in the WLC files
+searched (Genesis through Ruth, 1 Samuel, Job, Psalms, Proverbs) only here and at Job 36:4; as a divine
+title, *ʾēl dēʿôṯ* occurs in those files only here. She also names the one she praises as the giver of
+strength *to his king* (2:10). See [[The Song of Hannah]] and
+[[No Rock Like Our God - The Song of Moses and the Song of Hannah]]. Source: stored WEB 1 Samuel 2:2–3,
+10; Deuteronomy 32; Job 36:4. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Yahweh of Armies* — 1 Samuel 1:3, 11
 
 *YHWH ṣəḇāʾôṯ*, which the WEB renders *Yahweh of Armies*, first occurs in the books stored so far at 1
@@ -314,6 +324,7 @@ See [[Yahweh Bless You and Keep You]]. Source: stored WEB Numbers 6.
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:2–3; *rock like our God*; *a God of knowledge*, *ʾēl dēʿôṯ*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 11; *Yahweh of Armies*, its first occurrence in the books stored so far; Hannah the first to use it
 
 - [[Naomi Returns to Bethlehem]] — Ruth 1:20–21; *Shaddai* and *Yahweh* paired in Naomi's complaint.

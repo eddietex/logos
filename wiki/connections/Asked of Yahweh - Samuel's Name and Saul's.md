@@ -14,6 +14,8 @@ tags: [connection]
 - 1 Samuel 2:20 — Eli blesses Elkanah and Hannah *for the petition which was asked of Yahweh*. Stored WEB;
   not yet ingested.
 - 1 Samuel 9:2 — *He had a son, whose name was Saul*. Stored WEB; not yet ingested.
+- [[The Song of Hannah]] — 1 Samuel 2:10, *his king … his anointed*, sung before any king is asked for.
+  Stored WEB.
 
 ## Analysis
 
@@ -52,6 +54,10 @@ The book's first child is *asked of Yahweh* and given back to him; its first kin
 by the people, against Samuel's will (8:6, not yet ingested). The same verb serves a mother's prayer and
 a nation's demand. When the people's request is ingested, this page should record whether the narrative
 itself sets the two askings side by side.
+
+Between the two askings stands Hannah's song, which names *his king* and *his anointed* (2:10) before the
+people ask for anyone. The king there is given by Yahweh, not demanded. See [[The Song of Hannah]] and
+[[His King and His Anointed - Hannah's Song and David's]].
 
 Sources: stored WEB 1 Samuel 1:17, 20, 27–28; 2:20; 9:2; Exodus 2:10. Hebrew from the Westminster
 Leningrad Codex (OpenScriptures morphhb) `1Sam` XML, downloaded 2026-11-17. The scholarly proposals about

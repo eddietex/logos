@@ -43,16 +43,38 @@ wordplay on *ḥēn* is a reader's observation.
 Source: stored WEB 1 Samuel 1:1–28; 2:12; Genesis 25:21; Judges 13:3. Hebrew WLC (OpenScriptures morphhb),
 2026-11-17.
 
+### She sang — 1 Samuel 2:1–11
+
+Having given the boy, Hannah *prayed, and said* (2:1), and what follows is a song with no request in it.
+*My heart exults in Yahweh! My horn is exalted in Yahweh* (2:1). She never names Peninnah, Samuel, or her
+own barrenness. Her story appears once, in a general form, *the barren has borne seven. She who has many
+children languishes* (2:5), inside a list of reversals: the mighty broken and the stumbling armed, the full
+hired out for bread and the hungry fed, the dead and Sheol, the poor raised from the dust to *the throne
+of glory* (2:4–8). The song borrows the Rock and *Yahweh kills, and makes alive* from the Song of Moses
+(Deuteronomy 32:4, 39), shares a line with Psalm 113:7–8, and ends on *his king* and *his anointed*
+(2:10), the first royal use of *māšîaḥ* in the books stored so far, sung before Israel has a king. She
+will bear *three sons and two daughters* after Samuel (2:21, stored WEB; not yet ingested), six children,
+not the song's seven. See [[The Song of Hannah]],
+[[No Rock Like Our God - The Song of Moses and the Song of Hannah]],
+[[From the Dust and the Ash Heap - 1 Samuel 2.8 and Psalm 113.7-9]],
+[[His King and His Anointed - Hannah's Song and David's]], and
+[[The Song of Hannah and the Song of Mary - 1 Samuel 2.1-10 and Luke 1.46-55]].
+
+Source: stored WEB 1 Samuel 2:1–11, 21; Deuteronomy 32:4, 39. Psalm 113 and Luke 1:46–55 at bible-api.com,
+2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ## Timeline / key events
 
 - Barren, provoked by her rival at Shiloh year by year — 1 Samuel 1:2–8.
 - Vows and prays silently at the temple; Eli takes her for drunk, then blesses her — 1:9–18.
 - Conceives and bears Samuel — 1:19–20.
 - Weans him and gives him to Yahweh at Shiloh — 1:21–28.
+- Sings: *My heart exults in Yahweh* — 2:1–10.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28.
+- [[The Song of Hannah]] — 1 Samuel 2:1–10.
 
 ## Related people
 
@@ -72,3 +94,7 @@ Source: stored WEB 1 Samuel 1:1–28; 2:12; Genesis 25:21; Judges 13:3. Hebrew W
 - [[Seeing and Being Seen]]
 - [[Names and Naming]]
 - [[Mourning and Lament]]
+- [[Praise and Song]]
+- [[Pride and Self-Exaltation]]
+- [[The Poor and the Vulnerable]]
+- [[Kingship and Empire]]

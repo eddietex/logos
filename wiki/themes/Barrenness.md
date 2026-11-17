@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *The barren has borne seven* — 1 Samuel 2:5
+
+In her song Hannah mentions her story once, and not by name: *the barren has borne seven. She who has many
+children languishes* (2:5). It stands among other reversals (the mighty and the stumbling, the full and the
+hungry, the dead and the living), so barrenness reversed becomes one case of how God deals with the low.
+The number is not literal: Hannah bears Samuel and then *three sons and two daughters* (2:21, stored WEB; not
+yet ingested). Psalm 113 makes the same move, from the poor raised from the dust to *He settles the barren
+woman in her home* (113:7–9). See [[The Song of Hannah]] and
+[[From the Dust and the Ash Heap - 1 Samuel 2.8 and Psalm 113.7-9]]. Source: stored WEB 1 Samuel 2:5, 21.
+Psalm 113 at bible-api.com, 2026-11-17.
+
 ### *Yahweh had shut up her womb* — 1 Samuel 1:2–20
 
 *Peninnah had children, but Hannah had no children* (1:2), and the narrator gives the cause twice, once in
@@ -148,6 +159,7 @@ See [[The Suspected Wife]]. Source: stored WEB Numbers 5.
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:5; *the barren has borne seven*, one reversal among many.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:2–20; *Yahweh had shut up her womb*, twice; Hannah asks, and Yahweh remembers
 
 - [[Blessing and the Removal of the Nations]] — Deuteronomy 7:12–26.

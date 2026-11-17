@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *Don't keep talking so exceedingly proudly* — 1 Samuel 2:3–10
+
+Hannah's song turns from praise to warning: *Don't keep talking so exceedingly proudly. Don't let arrogance
+come out of your mouth, For Yahweh is a God of knowledge. By him actions are weighed* (2:3). The doubled
+*gəḇōhâ gəḇōhâ*, *high, high* (WLC), is the pride. The reversals that follow make the point: the bows of
+the mighty broken (4), *no man shall prevail by strength* (9). The verb of the song's lifting, *rûm*, is
+God's to use: he *lifts up* (7), lifts the needy (8), and lifts the horn of his anointed (10). The next
+pericope's proud are Eli's sons, who take what they want at the altar (2:12–17). Mary's song repeats the
+point: *He has scattered the proud* (Luke 1:51). See [[The Song of Hannah]] and
+[[The Song of Hannah and the Song of Mary - 1 Samuel 2.1-10 and Luke 1.46-55]]. Source: stored WEB 1 Samuel
+2:3–17. Luke 1:51 at bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### For Yahweh and for Gideon — Judges 7:18, 20
 
 Yahweh reduced the army *lest Israel brag against me, saying, "My own hand has saved me"* (7:2). Five
@@ -345,6 +357,7 @@ See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:3–10; *Don't keep talking so exceedingly proudly*; *no man shall prevail by strength*.
 - [[The Sword of Yahweh and of Gideon]] — Judges 7:18, 20; *For Yahweh and for Gideon!*
 - [[Gideon's Three Hundred]] — Judges 7:2; *lest Israel brag against me, saying, "My own hand has saved me"*.
 - [[The Covenant in Moab and the Hidden Things]] — Deuteronomy 29:1–29.

@@ -46,6 +46,7 @@ Named among Benjamin’s second group of fourteen cities with their villages (25
 Source: stored WEB Joshua 18:11–28.
 
 ## Appears in
+- [[The Song of Hannah]] — 1 Samuel 2:11; *Elkanah went to Ramah to his house*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1, 19; *Ramathaim Zophim*, Elkanah's home.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:13; named with Gibeah as a place to lodge.
 - [[Deborah and Barak]] — Judges 4:5; Deborah's palm stands between Ramah and Bethel.
@@ -60,5 +61,6 @@ Source: stored WEB Joshua 18:11–28.
 
 ## Events here
 - Elkanah's home; Samuel conceived after the return from Shiloh — 1 Samuel 1:1, 19
+- Elkanah returns home, leaving Samuel at Shiloh — 1 Samuel 2:11, [[The Song of Hannah]]
 - Named as an alternative lodging to Gibeah — Judges 19:13, [[The Levite's Concubine at Gibeah]]
 - Named in Benjamin’s allotment; no separate conquest is narrated.

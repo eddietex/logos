@@ -6,6 +6,17 @@ tags: [theme]
 
 ## Definition / overview
 
+### *He raises up the poor out of the dust* — 1 Samuel 2:5–8
+
+Hannah's song makes the poor the objects of God's lifting: *Those who were hungry are satisfied* (5); *He
+raises up the poor out of the dust. He lifts up the needy from the dunghill, To make them sit with princes,
+and inherit the throne of glory* (8). The line is Psalm 113:7–8 almost word for word, and *ʾašpōṯ*,
+*dunghill*, occurs in the WLC files searched only in those two verses. The poor here are not only helped;
+they are seated with princes. Mary's song repeats it: *He has filled the hungry with good things* (Luke
+1:53). See [[The Song of Hannah]] and
+[[From the Dust and the Ash Heap - 1 Samuel 2.8 and Psalm 113.7-9]]. Source: stored WEB 1 Samuel 2:5–8.
+Psalm 113 and Luke 1:53 at bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### *Shall I not seek rest for you?* — Ruth 3:1
 
 Two widows with no son and no land of their own working can glean only through a harvest. When it is over,
@@ -554,6 +565,7 @@ hear (WLC). See [[First Fruits and the Tithe Declaration]] and
 [[Within Your Gates - The Levite, the Foreigner, the Fatherless, and the Widow]]. Source: stored WEB Deuteronomy 26:7, 12–13; Exodus 22:22–23.
 
 ## Key passages
+- [[The Song of Hannah]] — 1 Samuel 2:5–8; the hungry satisfied, the poor raised from the dust to *the throne of glory*.
 - [[Ruth at the Threshing Floor]] — Ruth 3:1, 14; Naomi seeks *rest* for a widow; Boaz guards her name.
 - [[Ruth Gleans in the Field of Boaz]] — Ruth 2:2, 9, 15–16, 22; a widow gleaning, protected and given more than the law requires.
 - [[Naomi Returns to Bethlehem]] — Ruth 1:21–22; *brought me home again empty*; two widows at the start of harvest.

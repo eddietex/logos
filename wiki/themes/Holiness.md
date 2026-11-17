@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### *There is no one as holy as Yahweh* — 1 Samuel 2:2
+
+Hannah's second line makes holiness the ground of comparison: *There is no one as holy as Yahweh, For there
+is no one besides you, nor is there any rock like our God* (2:2). The Song of the Sea had asked *Who is like
+you … glorious in holiness?* (Exodus 15:11); Hannah answers it as a statement. Holiness here is God's
+otherness, and the rest of the song shows it in his power to reverse every human state. See
+[[The Song of Hannah]]. Source: stored WEB 1 Samuel 2:2; Exodus 15:11.
+
 ### No razor has ever come on my head — Judges 16:17–19
 
 Samson tells Delilah *all his heart*: *No razor has ever come on my head; for I have been a Nazirite to God
@@ -815,6 +823,7 @@ See [[The Seventy Elders and the Quail]]. Source: stored WEB Numbers 11.
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:2; *There is no one as holy as Yahweh*.
 - [[Samson and Delilah]] — Judges 16:17–19, 22; the Nazirite's razor, and the hair that grows again.
 - [[The Covenant at Shechem]] — Joshua 24:1–28; *he is a holy God* (19).
 - [[The Sin of Achan]] — Joshua 7:1–26.

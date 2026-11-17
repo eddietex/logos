@@ -41,16 +41,21 @@ this page carries a qualifier because 1 Chronicles 6 has several Elkanahs.
 Source: stored WEB 1 Samuel 1:1–28; Genesis 25:21; 30:2; Numbers 30; Exodus 6:24; Joshua 21:5. 1
 Chronicles 6:33–38 at bible-api.com, 2026-11-17. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
+**Home to Ramah.** After Hannah's song, *Elkanah went to Ramah to his house* (2:11), leaving the boy at
+Shiloh. The verse names only him; Hannah is assumed to go with him. See [[The Song of Hannah]].
+
 ## Timeline / key events
 
 - Goes up yearly to Shiloh with his two wives — 1 Samuel 1:3–7.
 - *Am I not better to you than ten sons?* — 1:8.
 - Hannah conceives; Samuel is born — 1:19–20.
 - Offers the yearly sacrifice *and his vow*; consents to Hannah's waiting — 1:21–23.
+- Goes home to Ramah, leaving Samuel with Eli — 2:11.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:1–28.
+- [[The Song of Hannah]] — 1 Samuel 2:11.
 
 ## Related people
 

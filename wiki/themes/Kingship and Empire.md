@@ -6,6 +6,18 @@ tags: [theme]
 
 ## Definition / overview
 
+### *His king … his anointed* — 1 Samuel 2:10
+
+The first king named in 1 Samuel is in a song, before Israel has one: *He will give strength to his king,
+and exalt the horn of his anointed* (2:10). *Māšîaḥ*, *anointed*, occurs in the WLC files of Genesis
+through Ruth only of *the anointed priest* (Leviticus 4:3, 5, 16; 6:22 WEB); this is its first royal use.
+The king here is *his*, Yahweh's, and his strength is given. Chapter 8 will treat the people's request for a
+king as a rejection of Yahweh (8:7); the song presents a king as Yahweh's gift. The book holds both. David's
+song at the end of 2 Samuel closes on the same pair, *his king … his anointed, to David* (22:51). See
+[[The Song of Hannah]] and [[His King and His Anointed - Hannah's Song and David's]]. Source: stored WEB
+1 Samuel 2:10; 8:7; Leviticus 4; 6:22. 2 Samuel 22:51 at bible-api.com, 2026-11-17. Hebrew WLC
+(OpenScriptures morphhb), 2026-11-17.
+
 ### The king's name without the word — Ruth 4:18–22
 
 Ruth ends on ten generations from Perez to David, and the last word of the book is *David* (4:22). Judges
@@ -602,6 +614,7 @@ The Torah's only law of the king is now ingested. The request is quoted in advan
 See [[The Law for the King]]. Source: stored WEB Deuteronomy 17:14–20.
 
 ## Key passages
+- [[The Song of Hannah]] — 1 Samuel 2:10; *his king … his anointed*, the first royal *māšîaḥ*, before Israel has a king.
 - [[Wives for Benjamin]] — Judges 21:25; the fourth and last *no king in Israel* refrain, full form.
 - [[The Levite's Concubine at Gibeah]] — Judges 19:1; the third *no king in Israel* refrain, short form.
 - [[The Danite Migration]] — Judges 18:1; the second *no king in Israel* refrain, without *right in his own eyes*.

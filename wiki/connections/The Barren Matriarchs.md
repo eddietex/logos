@@ -19,6 +19,7 @@ tags: [connection]
 - Genesis 16:1–2; 18:9–15; 21:1–2 — Sarah's barrenness, its household consequences, and its end
 - [[The Announcement of Samson's Birth]] — Judges 13:2–3, 24; Samson's mother
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:2–20; and Luke 1:7, 36 — Hannah and Elizabeth
+- [[The Song of Hannah]] — 1 Samuel 2:5; *the barren has borne seven*
 - Psalm 113:9; Isaiah 54:1; Galatians 4:27 — the barren woman as a figure for the people
 - [[The Birth of Obed]] — Ruth 4:13; *Yahweh enabled her to conceive* (Ruth is not called barren)
 
@@ -130,6 +131,17 @@ remembered her* (1:19). What is new is who acts. No angel announces the son and 
 asks, with a vow, and the child is given back before the chapter ends (1:11, 28). The preference claim
 above holds for her: *he loved Hannah* (1:5). See [[Hannah Asks Yahweh for a Son]]. Source: stored WEB 1 Samuel 1:1–28; 2:5; Hebrew
 WLC (OpenScriptures morphhb), 2026-11-17.
+
+### 1 Samuel 2:5 read in place — the barren in a song of reversals
+
+Hannah's song uses the word the chapter before avoided: *the barren*, *ʿăqārâ*, *has borne seven. She who
+has many children languishes* (2:5, WLC). It is the only line in the song that matches her story, and it
+is not told as hers: it stands among the mighty and the stumbling, the full and the hungry, the dead and
+the living (2:4–6). The barren matriarch becomes an instance of a rule, which is how Psalm 113 uses her too
+(113:7–9, WEB checked at bible-api.com). The *seven* is not a count: she will bear *three sons and two
+daughters* after Samuel (2:21, stored WEB; not yet ingested). See [[The Song of Hannah]] and
+[[From the Dust and the Ash Heap - 1 Samuel 2.8 and Psalm 113.7-9]]. Source: stored WEB 1 Samuel 2:4–6,
+21. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
 
 ## Significance
 

@@ -30,15 +30,22 @@ here.
 Source: stored WEB 1 Samuel 1:3, 9–17, 25–28; 2:8, 12; 4:13, 18. Hebrew WLC (OpenScriptures morphhb),
 2026-11-17.
 
+**The child before him.** After Hannah's song, *the child served Yahweh before Eli the priest* (2:11). The
+song itself, sung within his hearing at Shiloh, praises the God who makes the poor *inherit the throne of
+glory* (2:8); *kissēʾ* is the word for Eli's own *seat* (1:9; 4:18). The pairing is a reader's
+observation. See [[The Song of Hannah]].
+
 ## Timeline / key events
 
 - Priest at Shiloh, with his sons Hophni and Phinehas — 1 Samuel 1:3, 9.
 - Takes Hannah for drunk, then blesses her petition — 1:12–17.
 - Receives the weaned Samuel — 1:25–28.
+- The child serves Yahweh before him — 2:11.
 
 ## Appears in
 
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17, 25–28.
+- [[The Song of Hannah]] — 1 Samuel 2:11.
 
 ## Related people
 

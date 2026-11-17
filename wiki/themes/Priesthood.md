@@ -6,6 +6,14 @@ tags: [theme]
 
 ## Definition / overview
 
+### The child serving before Eli — 1 Samuel 2:11
+
+*The child served Yahweh before Eli the priest* (2:11). *Məšārēṯ* (WLC) is the participle of *šērēṯ*, the
+verb of ministry at the sanctuary (Exodus 28:43; Numbers 3:6; Deuteronomy 10:8). The boy is not of Aaron's
+line in 1 Samuel's telling, yet serves at once. The next verse introduces Eli's own sons, priests by birth,
+as *wicked men* (2:12). See [[The Song of Hannah]]. Source: stored WEB 1 Samuel 2:11–12; Exodus 28:43;
+Numbers 3:6; Deuteronomy 10:8. Hebrew WLC (OpenScriptures morphhb), 2026-11-17.
+
 ### Eli and his sons at Shiloh — 1 Samuel 1:3, 9–17
 
 1 Samuel introduces the priesthood at Shiloh in one clause: *The two sons of Eli, Hophni and Phinehas,
@@ -858,6 +866,7 @@ the priests without restating the procedure. See [[Pledges, Wages, Justice, and 
 
 ## Key passages
 
+- [[The Song of Hannah]] — 1 Samuel 2:11; *the child served Yahweh before Eli the priest*.
 - [[Hannah Asks Yahweh for a Son]] — 1 Samuel 1:3, 9–17; Eli and his sons at Shiloh; the priest who misreads a prayer and blesses it
 
 - [[The War Against Benjamin]] — Judges 20:27–28; Phinehas, Aaron's grandson, at the ark.
